@@ -61,6 +61,8 @@ public class Node implements Comparable<Node> {
 	public boolean marked = false;
 	public NodeValue value = null;
 
+	public int cue = 0;
+
 	public Set<Position> lstPositons = new HashSet<Position>();
 
 
@@ -91,6 +93,9 @@ public class Node implements Comparable<Node> {
 
 	public void addPosition(Position p) {
 		lstPositons.add(p);
+	}
+	public void incCuePosition() {
+		cue++;
 	}
 
 	/**

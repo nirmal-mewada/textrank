@@ -32,6 +32,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package com.sharethis.textrank;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import me.common.filter.CueFilter;
+
+import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
@@ -43,6 +49,8 @@ public class Sentence {
 	// logging
 
 	private final static Log LOG = LogFactory.getLog(Sentence.class.getName());
+
+	CueFilter cueFilter = new CueFilter("res/cue.txt");
 
 	/**
 	 * Public members.
@@ -103,25 +111,25 @@ public class Sentence {
 
 		phrase_list = lang.getNounPhraseUsingPOS(token_list,tag_list);
 
+
 		// create nodes for the graph
 
 		Node last_node = null;
 		node_list = new Node[phrase_list.length];
+		boolean haveCue = cueFilter.apply(text)!=null;
 
 		for (int i = 0; i < phrase_list.length; i++) {
-			//			final String pos = tag_list[i];
-			//FIXME
-			String[] pos = new String[]{"NN"};
-			//			if (LOG.isDebugEnabled()) {
-			//				LOG.debug("token: " + token_list[i] + " pos tag: " + pos);
-			//			}
 
-			//			if (lang.isRelevant(pos)) {
+			String[] pos = getNounPos(token_list,tag_list,phrase_list[i]);
+
 			final String key = lang.getNodeKey(phrase_list[i], pos[0]);
 			final Clause value = new Clause(phrase_list[i], pos);
 			final Node n = Node.buildNode(graph, key, value);
 
 			n.addPosition(new Position(this.pos, i));
+
+			if(haveCue)
+				n.incCuePosition();
 
 			// emit nodes to construct the graph
 
@@ -133,5 +141,22 @@ public class Sentence {
 			node_list[i] = n;
 			//			}
 		}
+	}
+
+	/**
+	 * Gets the noun pos.
+	 *
+	 * @param token_list the token_list
+	 * @param tag_list the tag_list
+	 * @param phrase the phrase
+	 * @return the noun pos
+	 */
+	private String[] getNounPos(String[] token_list, String[] tag_list,String phrase) {
+		List<String> lst = new ArrayList<String>();
+		for (String word : phrase.split(" ")) {
+			int idx = ArrayUtils.indexOf(token_list, word);
+			lst.add(tag_list[idx]);
+		}
+		return lst.toArray(new String[]{});
 	}
 }

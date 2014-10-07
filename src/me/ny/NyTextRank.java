@@ -64,10 +64,10 @@ import com.sharethis.textrank.WordNet;
  * @author paco@sharethis.com
  */
 
-public class TextRank implements Callable<Collection<MetricVector>> {
+public class NyTextRank implements Callable<Collection<MetricVector>> {
 	// logging
 
-	private final static Log LOG = LogFactory.getLog(TextRank.class.getName());
+	private final static Log LOG = LogFactory.getLog(NyTextRank.class.getName());
 
 	/**
 	 * Public definitions.
@@ -104,7 +104,7 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 	 * Constructor.
 	 */
 
-	public TextRank(final String res_path, final String lang_code)
+	public NyTextRank(final String res_path, final String lang_code)
 			throws Exception {
 		lang = LanguageModel.buildLanguage(res_path, lang_code);
 		WordNet.buildDictionary(res_path, lang_code);
@@ -143,6 +143,7 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 		addToGraph(s_list,data.getTitle(),SENT_POS.TITLE);
 		addToGraph(s_list,data.getAbstractText(),SENT_POS.ABSTRACT);
 		addToGraph(s_list,data.getBody(),SENT_POS.BODY);
+
 
 
 		markTime("construct_graph");
@@ -329,7 +330,7 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 	}
 
 
-	public TextRank(KrapivinInstance dataObj) throws Exception {
+	public NyTextRank(KrapivinInstance dataObj) throws Exception {
 		this.data = dataObj;
 		PropertyConfigurator.configure(log4j_conf);
 		lang = LanguageModel.buildLanguage(res_path, lang_code);

@@ -71,7 +71,7 @@ public class LanguageEnglish extends LanguageModel {
 	public static Tokenizer tokenizer_en = null;
 	public static ParserTagger tagger_en = null;
 	public static englishStemmer stemmer_en = null;
-	ChunkerME chunkerME = null;
+	public static ChunkerME chunkerME = null;
 
 	/**
 	 * Constructor. Not quite a Singleton pattern but close enough given the
@@ -124,8 +124,13 @@ public class LanguageEnglish extends LanguageModel {
 			String token = tokens[i];
 			String tag = res[i];
 			if(tag.equals("B-NP")){
+				if(found){
+					lst.add(sb.toString());
+					sb = new StringBuffer();
+				}
 				found = true;
 				sb.append(token);
+
 			} else if(tag.equalsIgnoreCase("I-NP")){
 				sb.append(" "+token);
 			}else if(found){
