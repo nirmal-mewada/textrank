@@ -32,10 +32,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package com.sharethis.textrank;
 
-import java.io.File;
-
-import opennlp.tools.util.Sequence;
-
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 

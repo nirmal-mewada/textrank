@@ -32,7 +32,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package com.sharethis.textrank;
 
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
@@ -126,7 +125,7 @@ public class NGram extends NodeValue implements Comparable<NGram> {
 
 	public static NGram buildNGram(final Graph ngrams, final Sentence s,
 			final LinkedList<Integer> token_span, final double max_rank)
-			throws Exception {
+					throws Exception {
 		final HashSet<Node> nodes = new HashSet<Node>();
 		final StringBuffer sb_key = new StringBuffer("NGram");
 		final StringBuffer sb_text = new StringBuffer();
@@ -168,7 +167,7 @@ public class NGram extends NodeValue implements Comparable<NGram> {
 
 	public static Graph collectNGrams(final LanguageModel lang,
 			final List<Sentence> s_list, final double rank_threshold)
-			throws Exception {
+					throws Exception {
 		final Graph ngrams = new Graph();
 		final LinkedList<Integer> token_span = new LinkedList<Integer>();
 
@@ -187,7 +186,7 @@ public class NGram extends NodeValue implements Comparable<NGram> {
 						if ((token_span.size() > 1)
 								|| ((max_rank >= rank_threshold) && lang
 										.isNoun(((KeyWord) s.node_list[token_span
-												.get(0)].value).pos))) {
+										                               .get(0)].value).pos))) {
 							final NGram gram = buildNGram(ngrams, s,
 									token_span, max_rank);
 
