@@ -67,4 +67,10 @@ public class NodeValue {
 	public String getCollocation() {
 		return text.replace(' ', '_');
 	}
+
+	@Override
+	public String toString() {
+		return "NodeValue [" + (text != null ? "text=" + text : "") + "]";
+	}
+
 }

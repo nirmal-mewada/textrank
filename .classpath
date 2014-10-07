@@ -7,13 +7,16 @@
 	<classpathentry kind="lib" path="lib/jdom-1.1.jar"/>
 	<classpathentry kind="lib" path="lib/jwnl.1.3rc3.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
-	<classpathentry kind="lib" path="lib/maxent-2.4.0.jar"/>
 	<classpathentry kind="lib" path="lib/opennlp-tools-1.3.0.jar"/>
 	<classpathentry kind="lib" path="lib/porterstemmer.jar"/>
 	<classpathentry kind="lib" path="lib/sax2.jar"/>
 	<classpathentry kind="lib" path="lib/sharethis-common.jar"/>
 	<classpathentry kind="lib" path="lib/sptoolkit.jar"/>
 	<classpathentry kind="lib" path="lib/trove-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/maxent-2.4.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/KeyPhrase"/>
+	<classpathentry kind="lib" path="/KeyPhrase/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/KeyPhrase/lib/commons-lang3-3.3.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

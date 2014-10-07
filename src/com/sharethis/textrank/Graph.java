@@ -38,7 +38,6 @@ import java.util.TreeMap;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-
 import org.apache.commons.math.stat.descriptive.SummaryStatistics;
 
 /**
@@ -107,7 +106,6 @@ public class Graph extends TreeMap<String, Node> {
 
 		for (int k = 0; k < max_iterations; k++) {
 			dist_stats.clear();
-
 			// calculate the next rank for each node
 
 			for (int i = 0; i < node_list.length; i++) {

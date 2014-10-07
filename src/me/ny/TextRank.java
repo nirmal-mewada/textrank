@@ -30,7 +30,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package com.sharethis.textrank;
+package me.ny;
 
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
@@ -40,18 +40,22 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeSet;
 import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.FutureTask;
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.TimeoutException;
 
-import net.didion.jwnl.data.POS;
+import ny.kpe.data.KrapivinInstance;
+import ny.kpe.data.SentenceVO.SENT_POS;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.log4j.PropertyConfigurator;
 
-import com.sharethis.common.IOUtils;
+import com.sharethis.textrank.Clause;
+import com.sharethis.textrank.Graph;
+import com.sharethis.textrank.LanguageModel;
+import com.sharethis.textrank.MetricVector;
+import com.sharethis.textrank.NGram;
+import com.sharethis.textrank.Node;
+import com.sharethis.textrank.Sentence;
+import com.sharethis.textrank.WordNet;
 
 /**
  * Java implementation of the TextRank algorithm by Rada Mihalcea, et al.
@@ -81,12 +85,17 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 
 	protected LanguageModel lang = null;
 
-	protected String text = null;
+	KrapivinInstance data;
+	//	protected String text = null;
 	protected boolean use_wordnet = false;
+
+	String log4j_conf = "res/log4j.properties";
+	String res_path = "res";
+	String lang_code = "en";
 
 	protected Graph graph = null;
 	protected Graph ngram_subgraph = null;
-	protected Map<NGram, MetricVector> metric_space = null;
+	protected Map<Clause, MetricVector> metric_space = null;
 
 	protected long start_time = 0L;
 	protected long elapsed_time = 0L;
@@ -101,18 +110,18 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 		WordNet.buildDictionary(res_path, lang_code);
 	}
 
+
+
 	/**
 	 * Prepare to call algorithm with a new text to analyze.
 	 */
 
-	public void prepCall(final String text, final boolean use_wordnet)
+	public void prepCall()
 			throws Exception {
 		graph = new Graph();
 		ngram_subgraph = null;
-		metric_space = new HashMap<NGram, MetricVector>();
+		metric_space = new HashMap<Clause, MetricVector>();
 
-		this.text = text;
-		this.use_wordnet = use_wordnet;
 	}
 
 	/**
@@ -131,16 +140,10 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 
 		final ArrayList<Sentence> s_list = new ArrayList<Sentence>();
 
-		for (String sent_text : lang.splitParagraph(text)) {
-			final Sentence s = new Sentence(sent_text.trim());
-			s.mapTokens(lang, graph);
-			s_list.add(s);
+		addToGraph(s_list,data.getTitle(),SENT_POS.TITLE);
+		addToGraph(s_list,data.getAbstractText(),SENT_POS.ABSTRACT);
+		addToGraph(s_list,data.getBody(),SENT_POS.BODY);
 
-			if (LOG.isDebugEnabled()) {
-				LOG.debug("s: " + s.text);
-				LOG.debug(s.md5_hash);
-			}
-		}
 
 		markTime("construct_graph");
 
@@ -155,86 +158,12 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 		graph.runTextRank();
 		graph.sortResults(max_results);
 
-		ngram_subgraph = NGram.collectNGrams(lang, s_list,
-				graph.getRankThreshold());
-
-		markTime("basic_textrank");
-
-		if (LOG.isInfoEnabled()) {
-			LOG.info("TEXT_BYTES:\t" + text.length());
-			LOG.info("GRAPH_SIZE:\t" + graph.size());
-		}
-
-		// ////////////////////////////////////////////////
-		// PASS 3: lemmatize selected keywords and phrases
-
-		initTime();
-
+		ngram_subgraph = graph;
 		Graph synset_subgraph = new Graph();
 
-		// filter for edge cases
-
-		if (use_wordnet && (text.length() < MAX_WORDNET_TEXT)
-				&& (graph.size() < MAX_WORDNET_GRAPH)) {
-			// test the lexical value of nouns and adjectives in WordNet
-
-			for (Node n : graph.values()) {
-				final KeyWord kw = (KeyWord) n.value;
-
-				if (lang.isNoun(kw.pos)) {
-					SynsetLink
-					.addKeyWord(synset_subgraph, n, kw.text, POS.NOUN);
-				} else if (lang.isAdjective(kw.pos)) {
-					SynsetLink.addKeyWord(synset_subgraph, n, kw.text,
-							POS.ADJECTIVE);
-				}
-			}
-
-			// test the collocations in WordNet
-
-			for (Node n : ngram_subgraph.values()) {
-				final NGram gram = (NGram) n.value;
-
-				if (gram.nodes.size() > 1) {
-					SynsetLink.addKeyWord(synset_subgraph, n,
-							gram.getCollocation(), POS.NOUN);
-				}
-			}
-
-			synset_subgraph = SynsetLink.pruneGraph(synset_subgraph, graph);
-		}
-
-		// augment the graph with n-grams added as nodes
-
-		for (Node n : ngram_subgraph.values()) {
-			final NGram gram = (NGram) n.value;
-
-			if (gram.length < MAX_NGRAM_LENGTH) {
-				graph.put(n.key, n);
-
-				for (Node keyword_node : gram.nodes) {
-					n.connect(keyword_node);
-				}
-			}
-		}
-
-		markTime("augment_graph");
-
-		// ////////////////////////////////////////////////
-		// PASS 4: re-run TextRank on the augmented graph
-
-		initTime();
-
-		graph.runTextRank();
-		// graph.sortResults(graph.size() / 2);
-
-		// collect stats for metrics
 
 		final int ngram_max_count = NGram.calcStats(ngram_subgraph);
 
-		if (use_wordnet) {
-			SynsetLink.calcStats(synset_subgraph);
-		}
 
 		markTime("ngram_textrank");
 
@@ -244,28 +173,10 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 
 				for (Node n : new TreeSet<Node>(ngram_subgraph.values())) {
 					final NGram gram = (NGram) n.value;
-					LOG.debug(gram.getCount() + " " + n.rank + " " + gram.text /*
-					 * +
-					 * " @ "
-					 * +
-					 * gram
-					 * .
-					 * renderContexts
-					 * (
-					 * )
-					 */);
+					LOG.debug(gram.getCount() + " " + n.rank + " " + gram.text);
 				}
 			}
 
-			if (LOG.isDebugEnabled()) {
-				LOG.debug("RANK: " + synset_subgraph.dist_stats);
-
-				for (Node n : new TreeSet<Node>(synset_subgraph.values())) {
-					final SynsetLink s = (SynsetLink) n.value;
-					LOG.info("emit: " + s.synset + " " + n.rank + " "
-							+ s.relation);
-				}
-			}
 		}
 
 		// ////////////////////////////////////////////////
@@ -285,7 +196,7 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 				- synset_subgraph.dist_stats.getMin();
 
 		for (Node n : ngram_subgraph.values()) {
-			final NGram gram = (NGram) n.value;
+			final Clause gram = (Clause) n.value;
 
 			if (gram.length < MAX_NGRAM_LENGTH) {
 				final double link_rank = (n.rank - link_min) / link_coeff;
@@ -306,6 +217,25 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 
 		return metric_space.values();
 	}
+
+
+
+
+	private void addToGraph(ArrayList<Sentence> s_list,String text, SENT_POS position) throws Exception {
+		for (String sent_text : lang.splitParagraph(text)) {
+			final Sentence s = new Sentence(sent_text,position.ordinal());
+			s.mapTokens(lang, graph);
+			s_list.add(s);
+
+			if (LOG.isDebugEnabled()) {
+				LOG.debug("s: " + s.text);
+				LOG.debug(s.md5_hash);
+			}
+		}
+
+	}
+
+
 
 	// ////////////////////////////////////////////////////////////////////
 	// access and utility methods
@@ -398,77 +328,20 @@ public class TextRank implements Callable<Collection<MetricVector>> {
 		return sb.toString();
 	}
 
-	// ////////////////////////////////////////////////////////////////////
-	// command line interface
-	// ////////////////////////////////////////////////////////////////////
 
+	public TextRank(KrapivinInstance dataObj) throws Exception {
+		this.data = dataObj;
+		PropertyConfigurator.configure(log4j_conf);
+		lang = LanguageModel.buildLanguage(res_path, lang_code);
+		WordNet.buildDictionary(res_path, lang_code);
+	}
 	/**
 	 * Main entry point.
+	 * @return
 	 */
 
-	public static void main(final String[] args) throws Exception {
-		long sTime = System.currentTimeMillis();
-		/**
-		 * / final String res_path = new
-		 * File(System.getProperty(NLP_RESOURCES)).getPath(); /*
-		 */
-
-		final String log4j_conf = args[0];
-		final String res_path = args[1];
-		final String lang_code = args[2];
-		String data_file = args[3];
-
-		data_file = "E:\\QA\\qasystem\\Wordnet\\basedir\\input\\129814.txt";
-
-		//		final String graph_file = args[4];
-
-		// set up logging for debugging and instrumentation
-
-		PropertyConfigurator.configure(log4j_conf);
-
-		// load the sample text from a file
-
-		final String text = IOUtils.readFile(data_file);
-
-		// filter out overly large files
-
-		boolean use_wordnet = true; // false
-		use_wordnet = use_wordnet && ("en".equals(lang_code));
-
-		// main entry point for the algorithm
-
-		final TextRank tr = new TextRank(res_path, lang_code);
-		tr.prepCall(text, use_wordnet);
-
-		// wrap the call in a timed task
-
-		final FutureTask<Collection<MetricVector>> task = new FutureTask<Collection<MetricVector>>(
-				tr);
-		Collection<MetricVector> answer = null;
-
-		final Thread thread = new Thread(task);
-		thread.run();
-
-		try {
-			// answer = task.get(); // run until complete
-			answer = task.get(15000L, TimeUnit.MILLISECONDS); // timeout in N ms
-		} catch (ExecutionException e) {
-			LOG.error("exec exception", e);
-		} catch (InterruptedException e) {
-			LOG.error("interrupt", e);
-		} catch (TimeoutException e) {
-			LOG.error("timeout", e);
-
-			// Unfortunately, with graph size > 700, even read-only
-			// access to WordNet on disk will block and cause the
-			// thread to be uninterruptable. None of the following
-			// remedies work...
-
-			// thread.interrupt();
-			// task.cancel(true);
-			return;
-		}
-		System.out.println(System.currentTimeMillis()-sTime);
-		LOG.info("\n" + tr);
+	public Collection<MetricVector> compute() throws Exception {
+		prepCall();
+		return call();
 	}
 }

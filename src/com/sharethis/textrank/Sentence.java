@@ -50,15 +50,23 @@ public class Sentence {
 
 	public String text = null;
 	public String[] token_list = null;
+	public String[] phrase_list = null;
 	public Node[] node_list = null;
 	public String md5_hash = null;
+
+	public int pos = 0;
+
+	public Sentence(final String text) {
+		this.text = text;
+	}
 
 	/**
 	 * Constructor.
 	 */
 
-	public Sentence(final String text) {
+	public Sentence(final String text,int p) {
 		this.text = text;
+		this.pos = p;
 	}
 
 	/**
@@ -87,40 +95,43 @@ public class Sentence {
 	 * Main processing per sentence.
 	 */
 
-	public void mapTokens(final LanguageModel lang, final Graph graph)
-			throws Exception {
+	public void mapTokens(final LanguageModel lang, final Graph graph)	throws Exception {
 		token_list = lang.tokenizeSentence(text);
-
 		// scan each token to determine part-of-speech
 
 		final String[] tag_list = lang.tagTokens(token_list);
 
+		phrase_list = lang.getNounPhraseUsingPOS(token_list,tag_list);
+
 		// create nodes for the graph
 
 		Node last_node = null;
-		node_list = new Node[token_list.length];
+		node_list = new Node[phrase_list.length];
 
-		for (int i = 0; i < token_list.length; i++) {
-			final String pos = tag_list[i];
+		for (int i = 0; i < phrase_list.length; i++) {
+			//			final String pos = tag_list[i];
+			//FIXME
+			String[] pos = new String[]{"NN"};
+			//			if (LOG.isDebugEnabled()) {
+			//				LOG.debug("token: " + token_list[i] + " pos tag: " + pos);
+			//			}
 
-			if (LOG.isDebugEnabled()) {
-				LOG.debug("token: " + token_list[i] + " pos tag: " + pos);
+			//			if (lang.isRelevant(pos)) {
+			final String key = lang.getNodeKey(phrase_list[i], pos[0]);
+			final Clause value = new Clause(phrase_list[i], pos);
+			final Node n = Node.buildNode(graph, key, value);
+
+			n.addPosition(new Position(this.pos, i));
+
+			// emit nodes to construct the graph
+
+			if (last_node != null) {
+				n.connect(last_node);
 			}
 
-			if (lang.isRelevant(pos)) {
-				final String key = lang.getNodeKey(token_list[i], pos);
-				final KeyWord value = new KeyWord(token_list[i], pos);
-				final Node n = Node.buildNode(graph, key, value);
-
-				// emit nodes to construct the graph
-
-				if (last_node != null) {
-					n.connect(last_node);
-				}
-
-				last_node = n;
-				node_list[i] = n;
-			}
+			last_node = n;
+			node_list[i] = n;
+			//			}
 		}
 	}
 }

@@ -150,4 +150,16 @@ public class LanguageSpanish extends LanguageModel {
 
 		return stemmer_es.getCurrent();
 	}
+
+	@Override
+	public String[] getNounPhraseUsingPOS(String s) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String[] getNounPhraseUsingPOS(String[] token_list, String[] tag_list) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

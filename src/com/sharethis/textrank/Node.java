@@ -61,6 +61,8 @@ public class Node implements Comparable<Node> {
 	public boolean marked = false;
 	public NodeValue value = null;
 
+	public Set<Position> lstPositons = new HashSet<Position>();
+
 
 	/**
 	 * Private constructor.
@@ -85,6 +87,10 @@ public class Node implements Comparable<Node> {
 		} else {
 			return this.value.text.compareTo(that.value.text);
 		}
+	}
+
+	public void addPosition(Position p) {
+		lstPositons.add(p);
 	}
 
 	/**
@@ -215,4 +221,14 @@ public class Node implements Comparable<Node> {
 			}
 		}
 	}
+
+	@Override
+	public String toString() {
+		return "Node [" + (value != null ? "value=" + value + ", " : "")
+				+ "rank=" + rank
+				+ ", " + (edges != null ? "edges=" + edges.size() + ", " : "")
+				+ (lstPositons != null ? "Positons=" + lstPositons.size() : "")
+				+ "]";
+	}
+
 }

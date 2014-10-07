@@ -224,10 +224,10 @@ public class NGram extends NodeValue implements Comparable<NGram> {
 		subgraph.dist_stats.clear();
 
 		for (Node n : subgraph.values()) {
-			final NGram gram = (NGram) n.value;
+			final Clause gram = (Clause) n.value;
 
 			subgraph.dist_stats.addValue(n.rank);
-			ngram_max_count = Math.max(gram.getCount(), ngram_max_count);
+			ngram_max_count = Math.max(gram.length, ngram_max_count);
 
 			if (LOG.isDebugEnabled()) {
 				LOG.debug(n.value.text + " " + ngram_max_count);

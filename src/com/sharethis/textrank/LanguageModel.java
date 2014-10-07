@@ -95,6 +95,8 @@ public abstract class LanguageModel {
 
 	public abstract String[] tagTokens(final String[] token_list);
 
+	public abstract String[] getNounPhraseUsingPOS(String s);
+
 	/**
 	 * Prepare a stable key for a graph node (stemmed, lemmatized) from a token.
 	 */
@@ -147,4 +149,6 @@ public abstract class LanguageModel {
 
 		return scrubbed;
 	}
+
+	public abstract String[] getNounPhraseUsingPOS(String[] token_list, String[] tag_list);
 }

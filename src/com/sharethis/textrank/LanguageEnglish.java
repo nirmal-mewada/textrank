@@ -33,16 +33,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 package com.sharethis.textrank;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
+import me.ny.Model;
+import opennlp.tools.chunker.ChunkerME;
 import opennlp.tools.lang.english.ParserTagger;
-import opennlp.tools.lang.english.SentenceDetector;
 import opennlp.tools.lang.english.Tokenizer;
-import opennlp.tools.sentdetect.SentenceDetectorME;
 import opennlp.tools.util.Sequence;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-
 import org.tartarus.snowball.ext.englishStemmer;
 
 import spiaotools.SentParDetector;
@@ -70,6 +71,7 @@ public class LanguageEnglish extends LanguageModel {
 	public static Tokenizer tokenizer_en = null;
 	public static ParserTagger tagger_en = null;
 	public static englishStemmer stemmer_en = null;
+	ChunkerME chunkerME = null;
 
 	/**
 	 * Constructor. Not quite a Singleton pattern but close enough given the
@@ -102,7 +104,41 @@ public class LanguageEnglish extends LanguageModel {
 						path, "opennlp/tagdict")).getPath(), false);
 
 		stemmer_en = new englishStemmer();
+		chunkerME = Model.getChunkerOld();
 	}
+
+
+	public String[] getNounPhraseUsingPOS(String s) {
+		String[] tokens = tokenizeSentence(s);
+		String[] tags = tagTokens(tokens);
+		return getNounPhraseUsingPOS(tokens, tags);
+	}
+
+	public String[] getNounPhraseUsingPOS(String[] tokens, String[] tags) {
+		String[] res = chunkerME.chunk(tokens, tags);
+
+		List<String> lst = new ArrayList<String>();
+		boolean found = false;
+		StringBuffer sb = new StringBuffer();
+		for (int i = 0; i < res.length; i++) {
+			String token = tokens[i];
+			String tag = res[i];
+			if(tag.equals("B-NP")){
+				found = true;
+				sb.append(token);
+			} else if(tag.equalsIgnoreCase("I-NP")){
+				sb.append(" "+token);
+			}else if(found){
+				found = false;
+				lst.add(sb.toString());
+				sb = new StringBuffer();
+			}
+			if(found &&  i==res.length-1)
+				lst.add(sb.toString());
+		}
+		return lst.toArray(new String[]{});
+	}
+
 
 	/**
 	 * Split sentences within the paragraph text.
@@ -153,9 +189,9 @@ public class LanguageEnglish extends LanguageModel {
 	 * Prepare a stable key for a graph node (stemmed, lemmatized) from a token.
 	 */
 
-	public String getNodeKey(final String text, final String pos)
-			throws Exception {
-		return pos.substring(0, 2) + stemToken(scrubToken(text)).toLowerCase();
+	public String getNodeKey(final String text, final String pos) throws Exception {
+		//		return pos.substring(0, 2) + stemToken(scrubToken(text)).toLowerCase();
+		return text.replaceAll(" ", "_").toLowerCase();
 	}
 
 	/**

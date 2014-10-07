@@ -34,84 +34,46 @@ package com.sharethis.textrank;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.apache.commons.math.util.MathUtils;
 
 /**
- * Implements a point in the vector space representing the distance metric.
+ * Implements a node value in a TextRank graph denoting a noun or adjective.
  * 
  * @author paco@sharethis.com
  */
 
-public class MetricVector implements Comparable<MetricVector> {
+public class Clause extends NodeValue {
 	// logging
 
-	private final static Log LOG = LogFactory.getLog(MetricVector.class
-			.getName());
+	private final static Log LOG = LogFactory.getLog(Clause.class.getName());
 
 	/**
 	 * Public members.
 	 */
 
-	public double metric = 0.0D;
-	public NodeValue value = null;
-	public double link_rank = 0.0D;
-	public double count_rank = 0.0D;
-	public double synset_rank = 0.0D;
+	public String pos[] = null;
+
+	public int length = 0;
 
 	/**
 	 * Constructor.
 	 */
 
-	public MetricVector(final NodeValue value, final double link_rank,
-			final double count_rank, final double synset_rank) {
-		this.value = value;
-
-		this.metric = Math
-				.sqrt(
-						(
-								(1.0D * link_rank * link_rank)+
-								(0.5D * count_rank * count_rank) +
-								(1.5D * synset_rank * synset_rank)) / 3.0D);
-
-		this.link_rank = MathUtils.round(link_rank, 2);
-		this.count_rank = MathUtils.round(count_rank, 2);
-		this.synset_rank = MathUtils.round(synset_rank, 2);
-
-		if (LOG.isDebugEnabled()) {
-			LOG.debug("mv: " + metric + " " + link_rank + " " + count_rank
-					+ " " + synset_rank + " " + value.text);
-		}
+	public Clause(final String text, final String[] pos) {
+		this.text = text;
+		this.pos = pos;
+		length = text.split(" ").length;
 	}
 
 	/**
-	 * Compare method for sort ordering.
+	 * Create a description text for this value.
 	 */
 
-	public int compareTo(final MetricVector that) {
-		if (this.metric > that.metric) {
-			return -1;
-		} else if (this.metric < that.metric) {
-			return 1;
-		} else {
-			return this.value.text.compareTo(that.value.text);
-		}
+	public String getDescription() {
+		return "Clause" + '\t' + pos + ' ' + text;
 	}
 
-	/**
-	 * Serialize as text.
-	 */
-
-	public String render() {
-		final StringBuilder sb = new StringBuilder();
-
-		sb.append(MathUtils.round(metric, 1));
-		sb.append(' ');
-		sb.append(link_rank);
-		sb.append(' ');
-		sb.append(count_rank);
-		sb.append(' ');
-		sb.append(synset_rank);
-
-		return sb.toString();
+	public double getCount() {
+		return length;
 	}
+
 }
