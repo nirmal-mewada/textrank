@@ -35,6 +35,7 @@ package com.sharethis.textrank;
 import java.util.HashSet;
 import java.util.Set;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.commons.math.util.MathUtils;
@@ -225,6 +226,18 @@ public class Node implements Comparable<Node> {
 				n.serializeGraph(entries);
 			}
 		}
+	}
+
+	public String getSummury() {
+		StringBuffer sb = new StringBuffer();
+		if(value instanceof Clause){
+			Clause clause = (Clause) value;
+			sb.append(clause.text).append(" | ");
+			sb.append(StringUtils.join(clause.pos," ")).append(" | ");
+			sb.append(StringUtils.join(lstPositons,":")).append(" | ");
+			sb.append(cue);
+		}
+		return sb.toString();
 	}
 
 	@Override

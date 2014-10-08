@@ -139,12 +139,9 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 		// scan sentences to construct a graph of relevent morphemes
 
 		final ArrayList<Sentence> s_list = new ArrayList<Sentence>();
-
 		addToGraph(s_list,data.getTitle(),SENT_POS.TITLE);
 		addToGraph(s_list,data.getAbstractText(),SENT_POS.ABSTRACT);
 		addToGraph(s_list,data.getBody(),SENT_POS.BODY);
-
-
 
 		markTime("construct_graph");
 

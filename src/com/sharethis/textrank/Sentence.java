@@ -104,6 +104,7 @@ public class Sentence {
 	 */
 
 	public void mapTokens(final LanguageModel lang, final Graph graph)	throws Exception {
+		int globalPosition = 0;
 		token_list = lang.tokenizeSentence(text);
 		// scan each token to determine part-of-speech
 
@@ -119,14 +120,14 @@ public class Sentence {
 		boolean haveCue = cueFilter.apply(text)!=null;
 
 		for (int i = 0; i < phrase_list.length; i++) {
-
+			globalPosition++;
 			String[] pos = getNounPos(token_list,tag_list,phrase_list[i]);
 
 			final String key = lang.getNodeKey(phrase_list[i], pos[0]);
 			final Clause value = new Clause(phrase_list[i], pos);
 			final Node n = Node.buildNode(graph, key, value);
 
-			n.addPosition(new Position(this.pos, i));
+			n.addPosition(new Position(this.pos, globalPosition));
 
 			if(haveCue)
 				n.incCuePosition();
