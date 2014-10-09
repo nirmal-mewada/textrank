@@ -4,7 +4,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
@@ -13,7 +15,7 @@ import me.common.filter.StopWordFilter;
 import ny.NyConstant;
 
 import org.apache.commons.io.FileUtils;
-import org.tartarus.snowball.ext.porterStemmer;
+import org.apache.commons.lang3.StringUtils;
 
 import com.google.common.collect.Lists;
 
@@ -26,12 +28,18 @@ public class StatisticsCalculator {
 
 		//		Set<String> sentanceSet = getSentanceSetFromFile(file1);
 		//		Set<String> summarySentanceSet = getSentanceSetFromFile(file2);
-		Set<String> sentanceSet = new HashSet<String>(Lists.newArrayList("a organization","hello"));
-		Set<String> summarySentanceSet = new HashSet<String>(Lists.newArrayList("a organize","playing"));
+		Set<String> sentanceSet = new HashSet<String>(
+				Lists.newArrayList("collaborative filtering", "customer relationship management"," e-commerce", "recommender systems", "dependency networks", "association mining"));
+
+		Set<String> summarySentanceSet = new HashSet<String>(
+				Lists.newArrayList("e-vzpro", "association mining", "recommender systems", "dependency networks", "customers", "this paper"));
 		StopWordFilter stopWords = new StopWordFilter(
 				"D:/WorkSpace_/nirmal_workspace/KeyPhrase/"+NyConstant.STOP_LIST_FILE);
 
-		Measure measure = measure(sentanceSet,summarySentanceSet,new ArrayList<String>(stopWords.getList()));
+
+		//		Measure measure = measure(sentanceSet,summarySentanceSet,new ArrayList<String>(stopWords.getList()));
+
+		Measure measure = measurePhrase(sentanceSet,summarySentanceSet,stopWords);
 		System.out.println(measure);
 
 	}
@@ -63,7 +71,7 @@ public class StatisticsCalculator {
 
 		Set<String> stemTargetSet = new LinkedHashSet<String>();
 		for(String string : resultSet) {
-			Set<String> result = completeStem(new LinkedHashSet<String>(Arrays.asList(string.split(" "))));
+			List<String> result = completeStem(new LinkedHashSet<String>(Arrays.asList(string.split(" "))));
 
 			stemTargetSet.addAll(result);
 			stemTargetSet.size();
@@ -73,7 +81,7 @@ public class StatisticsCalculator {
 
 		Set<String> stemResultSet = new LinkedHashSet<String>();
 		for(String string : summaryResultSet) {
-			Set<String> result = completeStem(new LinkedHashSet<String>(Arrays.asList(string.split(" "))));
+			List<String> result = completeStem(new LinkedHashSet<String>(Arrays.asList(string.split(" "))));
 			stemResultSet.addAll(result);
 			stemResultSet.size();
 
@@ -98,10 +106,9 @@ public class StatisticsCalculator {
 		return sentanceSet;
 	}
 	//method to completely stem the words in an array list
-	public static Set<String> completeStem(Set<String> tokens1){
+	public static List<String> completeStem(Collection<String> tokens1){
 		PorterAlgo pa = new PorterAlgo();
-		porterStemmer porterStemmer = new porterStemmer();
-		Set<String> arrstr = new HashSet<String>();
+		List<String> arrstr = new ArrayList<String>();
 		for (String i : tokens1){
 			String s1 = pa.step1(i);
 			String s2 = pa.step2(s1);
@@ -111,5 +118,48 @@ public class StatisticsCalculator {
 			arrstr.add(s5);
 		}
 		return arrstr;
+	}
+
+	/**
+	 * Measure phrase.
+	 *
+	 * @param lstStandard the lst standard
+	 * @param lstGenerated the lst generated
+	 * @param stopWordFilter the stop word filter
+	 * @return the measure
+	 */
+	public static Measure measurePhrase(Set<String> lstStandard,Set<String> lstGenerated, StopWordFilter stopWordFilter) {
+
+
+		lstStandard = stemPhrases(lstStandard,stopWordFilter);
+		lstGenerated = stemPhrases(lstGenerated, stopWordFilter);
+
+		System.out.println(lstStandard);
+		System.out.println(lstGenerated);
+
+		double recallScore, precScore, fValue;
+		recallScore = FMeasure.recall(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+		precScore = FMeasure.precision(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+		fValue = (2*recallScore*precScore/(recallScore+precScore));
+
+		double rcall = FMeasure.recall(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+		double precision =  FMeasure.precision(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+		return new Measure(precision, rcall, fValue);
+	}
+
+	private static Set<String> stemPhrases(Set<String> lstStandard, StopWordFilter stopWordFilter) {
+		Set<String> tmp = new HashSet<String>();
+		for (String phrase : lstStandard) {
+			ArrayList<String> words = Lists.newArrayList(phrase.split(" "));
+
+			Iterator<String> it = words.iterator();
+			while (it.hasNext()) {
+				String word = (String) it.next();
+				if(StringUtils.isEmpty(word) ||  stopWordFilter.apply(word)==null)
+					it.remove();
+			}
+			tmp.add(StringUtils.join(completeStem(words)," "));
+		}
+		return tmp;
 	}
 }

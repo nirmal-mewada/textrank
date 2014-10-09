@@ -156,6 +156,8 @@ public class Sentence {
 		List<String> lst = new ArrayList<String>();
 		for (String word : phrase.split(" ")) {
 			int idx = ArrayUtils.indexOf(token_list, word);
+			if(idx==-1)
+				continue;
 			lst.add(tag_list[idx]);
 		}
 		return lst.toArray(new String[]{});

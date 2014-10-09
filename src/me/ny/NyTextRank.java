@@ -254,9 +254,9 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 	public void markTime(final String label) {
 		elapsed_time = System.currentTimeMillis() - start_time;
 
-		if (LOG.isInfoEnabled()) {
-			LOG.info("ELAPSED_TIME:\t" + elapsed_time + "\t" + label);
-		}
+		//		if (LOG.isInfoEnabled()) {
+		//			LOG.info("ELAPSED_TIME:\t" + elapsed_time + "\t" + label);
+		//		}
 	}
 
 	/**

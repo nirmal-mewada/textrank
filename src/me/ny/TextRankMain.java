@@ -33,6 +33,8 @@ import com.sharethis.textrank.Node;
  */
 public class TextRankMain {
 
+	public static final int KEY_TO_EXTRACT = 20;
+
 	static StopWordFilter stopWordFilter = new StopWordFilter(
 			"D:/WorkSpace_/nirmal_workspace/KeyPhrase/"+NyConstant.STOP_LIST_FILE);
 	public static void main(String[] args) {
@@ -41,12 +43,14 @@ public class TextRankMain {
 
 
 			FileIOHandler ioHandler = new FileIOHandler("basedir","input","sentenceNP");
+
 			File resultFile = new File("basedir/sentenceNP/result.txt");
 			if(resultFile.exists()){
 				resultFile.delete();
 			}
 			resultFile.createNewFile();
 			FileOutputStream os = new FileOutputStream(resultFile);
+			int count = 0;
 
 			for (MappedFile mappedFile : ioHandler.listFiles()) {
 				System.out.println(mappedFile.getIn());
@@ -68,6 +72,7 @@ public class TextRankMain {
 				Measure measure = 	calculateMeasure(mappedFile,lst);
 				IOUtils.write(measure.getCsv()+"\n", os);
 				mappedFile.close();
+				System.out.println(count++);
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -81,15 +86,27 @@ public class TextRankMain {
 		List<String> lstPredicted = new ArrayList<String>();
 
 		for (Node node : lst) {
+			if(stopWordFilter.apply(node.value.text)==null)
+				continue;
 			lstPredicted.add(node.value.text);
-			if(lstPredicted.size()==lstStandards.size())
+			if(lstPredicted.size()==KEY_TO_EXTRACT)
 				break;
 		}
+		System.out.println("Gold: "+lstStandards);
+		System.out.println("Gen : "+lstPredicted);
+
 		Measure measure  = StatisticsCalculator.measure(
 				Sets.newHashSet(lstStandards),
 				Sets.newHashSet(lstPredicted),
 				Lists.newArrayList(stopWordFilter.getList()));
+
+
+		//		Measure measure1  = StatisticsCalculator.measurePhrase(
+		//				Sets.newHashSet(lstStandards),
+		//				Sets.newHashSet(lstPredicted),stopWordFilter);
+		//		System.out.println("m1 "+measure1);
 		measure.file = mappedFile.getIn().getName();
+		System.out.println(measure);
 		return measure;
 	}
 
