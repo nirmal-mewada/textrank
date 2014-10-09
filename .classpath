@@ -15,5 +15,10 @@
 	<classpathentry kind="lib" path="lib/sptoolkit.jar"/>
 	<classpathentry kind="lib" path="lib/trove-2.0.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/KeyPhrase"/>
+	<classpathentry kind="lib" path="/KeyPhrase/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/KeyPhrase/lib/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="/KeyPhrase/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/KeyPhrase/lib/commons-lang3-3.3.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
