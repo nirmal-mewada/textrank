@@ -1,6 +1,5 @@
 package me.ny;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -42,27 +41,21 @@ public class TextRankMain {
 			Model.MODELS_DIR = "D:\\WorkSpace_\\nirmal_workspace\\KeyPhrase\\res\\nplmodels";
 
 
-			FileIOHandler ioHandler = new FileIOHandler("basedir","input","sentenceNP");
+			FileIOHandler ioHandler = new FileIOHandler("basedir","input","sentenceNP").setExt("abstr");
 
-			File resultFile = new File("basedir/sentenceNP/result.txt");
-			if(resultFile.exists()){
-				resultFile.delete();
-			}
-			resultFile.createNewFile();
-			FileOutputStream os = new FileOutputStream(resultFile);
+			FileOutputStream result = ioHandler.newOutFile("result.csv");
+
 			int count = 0;
+			List<Measure> lstMeasure = new ArrayList<Measure>();
 
 			for (MappedFile mappedFile : ioHandler.listFiles()) {
-				System.out.println(mappedFile.getIn());
+				System.out.println(mappedFile.getIn()+" -----------------------------------------------------");
 
-				KrapivinInstance dataObj = NyConstant.parseKrapivinInstance(mappedFile.getIn()," ");
+				KrapivinInstance dataObj = NyConstant.parseHulth(mappedFile.getIn()," ");
 
 				NyTextRank tr = new NyTextRank(dataObj);
 				tr.compute();
 
-				//				print(tr.graph);
-				System.out.println("-------------------------------------");
-				//				System.out.println(tr);
 				List<Node> lst = new ArrayList<Node>(tr.graph.values());
 				Collections.sort(lst);
 				for (Node node : lst) {
@@ -70,19 +63,39 @@ public class TextRankMain {
 					mappedFile.write("\n");
 				}
 				Measure measure = 	calculateMeasure(mappedFile,lst);
-				IOUtils.write(measure.getCsv()+"\n", os);
+				IOUtils.write(measure.getCsv()+"\n", result);
 				mappedFile.close();
+				lstMeasure.add(measure);
 				System.out.println(count++);
 			}
+
+			Measure avgMeasure = getAverage(lstMeasure);
+			IOUtils.write(avgMeasure.getCsv()+"\n", result);
+			IOUtils.closeQuietly(result);
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
 
-	private static Measure calculateMeasure(MappedFile mappedFile, List<Node> lst) throws FileNotFoundException, IOException {
-		String keyFile =  StringUtils.removeEnd(mappedFile.getIn().getAbsolutePath(),".txt")+".key";
+	private static Measure getAverage(List<Measure> lstMeasure) {
+		double precision = 0;
+		double recall =0;
+		double  fmeasure=0;
+		for (Measure measure : lstMeasure) {
+			precision+=measure.precision;
+			recall+=measure.recall;
+			fmeasure+=measure.fmeasure;
+		}
+		Measure m = new Measure(precision, recall, fmeasure);
+		m.file = "Average";
+		return m;
+	}
 
-		List<String> lstStandards = IOUtils.readLines(new FileInputStream(keyFile));
+	private static Measure calculateMeasure(MappedFile mappedFile, List<Node> lst) throws FileNotFoundException, IOException {
+		String keyFile =  StringUtils.removeEnd(mappedFile.getIn().getAbsolutePath(),".abstr")+".uncontr";
+
+		List<String> lstStandards = Lists.newArrayList(StringUtils.join(IOUtils.readLines(new FileInputStream(keyFile))).split(";"));
 		List<String> lstPredicted = new ArrayList<String>();
 
 		for (Node node : lst) {
@@ -95,16 +108,15 @@ public class TextRankMain {
 		System.out.println("Gold: "+lstStandards);
 		System.out.println("Gen : "+lstPredicted);
 
-		Measure measure  = StatisticsCalculator.measure(
-				Sets.newHashSet(lstStandards),
-				Sets.newHashSet(lstPredicted),
-				Lists.newArrayList(stopWordFilter.getList()));
-
-
-		//		Measure measure1  = StatisticsCalculator.measurePhrase(
+		//		Measure measure  = StatisticsCalculator.measure(
 		//				Sets.newHashSet(lstStandards),
-		//				Sets.newHashSet(lstPredicted),stopWordFilter);
-		//		System.out.println("m1 "+measure1);
+		//				Sets.newHashSet(lstPredicted),
+		//				Lists.newArrayList(stopWordFilter.getList()));
+
+
+		Measure measure  = StatisticsCalculator.measurePhrase(
+				Sets.newHashSet(lstStandards),
+				Sets.newHashSet(lstPredicted),stopWordFilter);
 		measure.file = mappedFile.getIn().getName();
 		System.out.println(measure);
 		return measure;

@@ -44,6 +44,7 @@ import java.util.concurrent.Callable;
 import ny.kpe.data.KrapivinInstance;
 import ny.kpe.data.SentenceVO.SENT_POS;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.log4j.PropertyConfigurator;
@@ -220,6 +221,8 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 
 
 	private void addToGraph(ArrayList<Sentence> s_list,String text, SENT_POS position) throws Exception {
+		if(StringUtils.isEmpty(text))
+			return;
 		for (String sent_text : lang.splitParagraph(text)) {
 			final Sentence s = new Sentence(sent_text,position.ordinal());
 			s.mapTokens(lang, graph);
