@@ -38,7 +38,6 @@ import java.util.TreeMap;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-
 import org.apache.commons.math.stat.descriptive.SummaryStatistics;
 
 /**
@@ -128,9 +127,9 @@ public class Graph extends TreeMap<String, Node> {
 			final double standard_error = dist_stats.getStandardDeviation()
 					/ Math.sqrt((double) dist_stats.getN());
 
-			if (LOG.isInfoEnabled()) {
-				LOG.info("iteration: " + k + " error: " + standard_error);
-			}
+			//			if (LOG.isInfoEnabled()) {
+			//				LOG.info("iteration: " + k + " error: " + standard_error);
+			//			}
 
 			// swap in new rank values
 

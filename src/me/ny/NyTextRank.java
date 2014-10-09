@@ -37,10 +37,13 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.TreeSet;
 import java.util.concurrent.Callable;
 
+import me.common.filter.StopWordFilter;
+import net.didion.jwnl.data.POS;
 import ny.kpe.data.KrapivinInstance;
 import ny.kpe.data.SentenceVO.SENT_POS;
 
@@ -48,13 +51,14 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.log4j.PropertyConfigurator;
 
-import com.sharethis.textrank.Clause;
 import com.sharethis.textrank.Graph;
+import com.sharethis.textrank.KeyWord;
 import com.sharethis.textrank.LanguageModel;
 import com.sharethis.textrank.MetricVector;
 import com.sharethis.textrank.NGram;
 import com.sharethis.textrank.Node;
 import com.sharethis.textrank.Sentence;
+import com.sharethis.textrank.SynsetLink;
 import com.sharethis.textrank.WordNet;
 
 /**
@@ -95,7 +99,7 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 
 	protected Graph graph = null;
 	protected Graph ngram_subgraph = null;
-	protected Map<Clause, MetricVector> metric_space = null;
+	protected Map<NGram, MetricVector> metric_space = null;
 
 	protected long start_time = 0L;
 	protected long elapsed_time = 0L;
@@ -120,7 +124,7 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 			throws Exception {
 		graph = new Graph();
 		ngram_subgraph = null;
-		metric_space = new HashMap<Clause, MetricVector>();
+		metric_space = new HashMap<NGram, MetricVector>();
 
 	}
 
@@ -156,12 +160,86 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 		graph.runTextRank();
 		graph.sortResults(max_results);
 
-		ngram_subgraph = graph;
+		ngram_subgraph = NGram.collectNGrams(lang, s_list,
+				graph.getRankThreshold());
+
+		markTime("basic_textrank");
+
+		//				if (LOG.isInfoEnabled()) {
+		//					LOG.info("TEXT_BYTES:\t" + text.length());
+		//					LOG.info("GRAPH_SIZE:\t" + graph.size());
+		//				}
+
+		// ////////////////////////////////////////////////
+		// PASS 3: lemmatize selected keywords and phrases
+
+		initTime();
+
 		Graph synset_subgraph = new Graph();
 
+		// filter for edge cases
+
+		if (use_wordnet && (/*text.length()*/ 0 < MAX_WORDNET_TEXT)
+				&& (graph.size() < MAX_WORDNET_GRAPH)) {
+			// test the lexical value of nouns and adjectives in WordNet
+
+			for (Node n : graph.values()) {
+				final KeyWord kw = (KeyWord) n.value;
+
+				if (lang.isNoun(kw.pos)) {
+					SynsetLink
+					.addKeyWord(synset_subgraph, n, kw.text, POS.NOUN);
+				} else if (lang.isAdjective(kw.pos)) {
+					SynsetLink.addKeyWord(synset_subgraph, n, kw.text,
+							POS.ADJECTIVE);
+				}
+			}
+
+			// test the collocations in WordNet
+
+			for (Node n : ngram_subgraph.values()) {
+				final NGram gram = (NGram) n.value;
+
+				if (gram.nodes.size() > 1) {
+					SynsetLink.addKeyWord(synset_subgraph, n,
+							gram.getCollocation(), POS.NOUN);
+				}
+			}
+
+			synset_subgraph = SynsetLink.pruneGraph(synset_subgraph, graph);
+		}
+
+		// augment the graph with n-grams added as nodes
+
+		for (Node n : ngram_subgraph.values()) {
+			final NGram gram = (NGram) n.value;
+
+			if (gram.length < MAX_NGRAM_LENGTH) {
+				graph.put(n.key, n);
+
+				for (Node keyword_node : gram.nodes) {
+					n.connect(keyword_node);
+				}
+			}
+		}
+
+		markTime("augment_graph");
+
+		// ////////////////////////////////////////////////
+		// PASS 4: re-run TextRank on the augmented graph
+
+		initTime();
+
+		graph.runTextRank();
+		// graph.sortResults(graph.size() / 2);
+
+		// collect stats for metrics
 
 		final int ngram_max_count = NGram.calcStats(ngram_subgraph);
 
+		if (use_wordnet) {
+			SynsetLink.calcStats(synset_subgraph);
+		}
 
 		markTime("ngram_textrank");
 
@@ -171,10 +249,28 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 
 				for (Node n : new TreeSet<Node>(ngram_subgraph.values())) {
 					final NGram gram = (NGram) n.value;
-					LOG.debug(gram.getCount() + " " + n.rank + " " + gram.text);
+					LOG.debug(gram.getCount() + " " + n.rank + " " + gram.text /*
+					 * +
+					 * " @ "
+					 * +
+					 * gram
+					 * .
+					 * renderContexts
+					 * (
+					 * )
+					 */);
 				}
 			}
 
+			if (LOG.isDebugEnabled()) {
+				LOG.debug("RANK: " + synset_subgraph.dist_stats);
+
+				for (Node n : new TreeSet<Node>(synset_subgraph.values())) {
+					final SynsetLink s = (SynsetLink) n.value;
+					LOG.info("emit: " + s.synset + " " + n.rank + " "
+							+ s.relation);
+				}
+			}
 		}
 
 		// ////////////////////////////////////////////////
@@ -194,7 +290,7 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 				- synset_subgraph.dist_stats.getMin();
 
 		for (Node n : ngram_subgraph.values()) {
-			final Clause gram = (Clause) n.value;
+			final NGram gram = (NGram) n.value;
 
 			if (gram.length < MAX_NGRAM_LENGTH) {
 				final double link_rank = (n.rank - link_min) / link_coeff;
@@ -221,7 +317,7 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 
 	private void addToGraph(ArrayList<Sentence> s_list,String text, SENT_POS position) throws Exception {
 		for (String sent_text : lang.splitParagraph(text)) {
-			final Sentence s = new Sentence(sent_text,position.ordinal());
+			final Sentence s = new Sentence(sent_text);
 			s.mapTokens(lang, graph);
 			s_list.add(s);
 
@@ -324,6 +420,32 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 		}
 
 		return sb.toString();
+	}
+	public List<String> getTop(int limit, StopWordFilter stopWordFilter) {
+		final TreeSet<MetricVector> key_phrase_list = new TreeSet<MetricVector>(
+				metric_space.values());
+		List<String> lst = new ArrayList<String>();
+		for (MetricVector mv : key_phrase_list) {
+			if (mv.metric >= MIN_NORMALIZED_RANK && stopWordFilter.apply(mv.value.text)!=null) {
+				lst.add(mv.value.text);
+				if(limit!=-1 && lst.size()==limit)
+					break;
+			}
+		}
+		return lst;
+	}
+	public List<String> getTop(int limit) {
+		final TreeSet<MetricVector> key_phrase_list = new TreeSet<MetricVector>(
+				metric_space.values());
+		List<String> lst = new ArrayList<String>();
+		for (MetricVector mv : key_phrase_list) {
+			if (mv.metric >= MIN_NORMALIZED_RANK) {
+				lst.add(mv.value.text);
+				if(limit!=-1 && lst.size()==limit)
+					break;
+			}
+		}
+		return lst;
 	}
 
 

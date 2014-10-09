@@ -63,13 +63,13 @@ public class TextRankMain {
 				//				print(tr.graph);
 				System.out.println("-------------------------------------");
 				//				System.out.println(tr);
-				List<Node> lst = new ArrayList<Node>(tr.graph.values());
-				Collections.sort(lst);
-				for (Node node : lst) {
-					mappedFile.write(node.getSummury());
-					mappedFile.write("\n");
-				}
-				Measure measure = 	calculateMeasure(mappedFile,lst);
+				List<String> lst = tr.getTop(20,stopWordFilter);
+				//				Collections.sort(lst);
+				//				for (Node node : lst) {
+				//					//					mappedFile.write(node.getSummury());
+				//					mappedFile.write("\n");
+				//				}
+				Measure measure = 	calculateMeasureForPaco(mappedFile,lst);
 				IOUtils.write(measure.getCsv()+"\n", os);
 				mappedFile.close();
 				System.out.println(count++);
@@ -77,6 +77,30 @@ public class TextRankMain {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	private static Measure calculateMeasureForPaco(MappedFile mappedFile, List<String> lst) throws FileNotFoundException, IOException {
+		String keyFile =  StringUtils.removeEnd(mappedFile.getIn().getAbsolutePath(),".txt")+".key";
+
+		List<String> lstStandards = IOUtils.readLines(new FileInputStream(keyFile));
+		List<String> lstPredicted = lst;
+
+		System.out.println("Gold: "+lstStandards);
+		System.out.println("Gen : "+lstPredicted);
+
+		Measure measure  = StatisticsCalculator.measure(
+				Sets.newHashSet(lstStandards),
+				Sets.newHashSet(lstPredicted),
+				Lists.newArrayList(stopWordFilter.getList()));
+
+
+		//		Measure measure  = StatisticsCalculator.measurePhrase(
+		//				Sets.newHashSet(lstStandards),
+		//				Sets.newHashSet(lstPredicted),stopWordFilter);
+		//		System.out.println("m1 "+measure);
+		measure.file = mappedFile.getIn().getName();
+		System.out.println(measure);
+		return measure;
 	}
 
 	private static Measure calculateMeasure(MappedFile mappedFile, List<Node> lst) throws FileNotFoundException, IOException {
