@@ -35,6 +35,8 @@ package com.sharethis.textrank;
 import java.util.HashSet;
 import java.util.Set;
 
+import ny.kpe.data.SentenceVO.SENT_POS;
+
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -62,7 +64,13 @@ public class Node implements Comparable<Node> {
 	public boolean marked = false;
 	public NodeValue value = null;
 
+	public double weightedRank = 0;
+
+	public double finalRank = 0;
+
 	public int cue = 0;
+
+	public int count = 0;
 
 	public Set<Position> lstPositons = new HashSet<Position>();
 
@@ -77,6 +85,18 @@ public class Node implements Comparable<Node> {
 		this.key = key;
 		this.value = value;
 	}
+
+
+	public Node() {
+	}
+
+
+	public Node(double weightedRank, int cue, int count) {
+		this.weightedRank = weightedRank;
+		this.cue = cue;
+		this.count = count;
+	}
+
 
 	/**
 	 * Compare method for sort ordering.
@@ -97,6 +117,9 @@ public class Node implements Comparable<Node> {
 	}
 	public void incCuePosition() {
 		cue++;
+	}
+	public void incCount() {
+		count++;
 	}
 
 	/**
@@ -125,6 +148,15 @@ public class Node implements Comparable<Node> {
 		return Integer.toString(hashCode(), 16);
 	}
 
+	public boolean havePosition(SENT_POS pos) {
+		for (Position position : lstPositons) {
+			if(position.pos == pos.ordinal())
+				return true;
+		}
+		return false;
+
+	}
+
 	/**
 	 * Factory method.
 	 */
@@ -138,10 +170,11 @@ public class Node implements Comparable<Node> {
 			graph.put(key, n);
 		}
 
+		n.incCount();
+
 		if (log_.isDebugEnabled()) {
 			log_.debug(n.key);
 		}
-
 		return n;
 	}
 
@@ -228,23 +261,25 @@ public class Node implements Comparable<Node> {
 		}
 	}
 
-	public String getSummury() {
+	public String getSummury(String separator) {
 		StringBuffer sb = new StringBuffer();
 		if(value instanceof Clause){
 			Clause clause = (Clause) value;
-			sb.append(clause.text).append(" | ");
-			sb.append(StringUtils.join(clause.pos," ")).append(" | ");
-			sb.append(StringUtils.join(lstPositons,":")).append(" | ");
+			sb.append(clause.text).append(separator);
+			sb.append(StringUtils.join(clause.pos," ")).append(separator);
+			sb.append(StringUtils.join(lstPositons,":")).append(separator);
 			sb.append(cue);
 		}
 		return sb.toString();
 	}
+
 
 	@Override
 	public String toString() {
 		return "Node [" + (value != null ? "value=" + value + ", " : "")
 				+ "rank=" + rank
 				+ ", " + (edges != null ? "edges=" + edges.size() + ", " : "")
+				+ ", " + (weightedRank != 0 ? "weightedRank=" + weightedRank + ", " : "")
 				+ (lstPositons != null ? "Positons=" + lstPositons.size() : "")
 				+ "]";
 	}

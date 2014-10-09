@@ -87,13 +87,19 @@ public class StatisticsCalculator {
 
 		}
 
-		double recallScore, precScore, fValue;
+		Double recallScore, precScore, fValue;
 		recallScore = FMeasure.recall(stemTargetSet.toArray(new String[stemTargetSet.size()]), stemResultSet.toArray(new String[stemResultSet.size()]));
 		precScore = FMeasure.precision(stemTargetSet.toArray(new String[stemTargetSet.size()]), stemResultSet.toArray(new String[stemResultSet.size()]));
 		fValue = (2*recallScore*precScore/(recallScore+precScore));
 
-		double rcall = FMeasure.recall(stemTargetSet.toArray(new String[stemTargetSet.size()]), stemResultSet.toArray(new String[stemResultSet.size()]));
-		double precision =  FMeasure.precision(stemTargetSet.toArray(new String[stemTargetSet.size()]), stemResultSet.toArray(new String[stemResultSet.size()]));
+		Double rcall = FMeasure.recall(stemTargetSet.toArray(new String[stemTargetSet.size()]), stemResultSet.toArray(new String[stemResultSet.size()]));
+		Double precision =  FMeasure.precision(stemTargetSet.toArray(new String[stemTargetSet.size()]), stemResultSet.toArray(new String[stemResultSet.size()]));
+		if(precision == Double.NaN)
+			precision = 0d;
+		if(rcall == Double.NaN)
+			rcall = 0d;
+		if(fValue == Double.NaN)
+			fValue = 0d;
 		return new Measure(precision, rcall, fValue);
 	}
 
@@ -134,16 +140,20 @@ public class StatisticsCalculator {
 		lstStandard = stemPhrases(lstStandard,stopWordFilter);
 		lstGenerated = stemPhrases(lstGenerated, stopWordFilter);
 
-		System.out.println(lstStandard);
-		System.out.println(lstGenerated);
-
-		double recallScore, precScore, fValue;
+		Double recallScore, precScore, fValue;
 		recallScore = FMeasure.recall(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
 		precScore = FMeasure.precision(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
 		fValue = (2*recallScore*precScore/(recallScore+precScore));
 
-		double rcall = FMeasure.recall(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
-		double precision =  FMeasure.precision(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+		Double rcall = FMeasure.recall(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+		Double precision =  FMeasure.precision(lstStandard.toArray(new String[]{}), lstGenerated.toArray(new String[]{}));
+
+		if(precision == Double.NaN)
+			precision = 0D;
+		if(rcall == Double.NaN)
+			rcall = 0D;
+		if(fValue == Double.NaN)
+			fValue = 0D;
 		return new Measure(precision, rcall, fValue);
 	}
 

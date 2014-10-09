@@ -123,8 +123,8 @@ public class Sentence {
 			globalPosition++;
 			String[] pos = getNounPos(token_list,tag_list,phrase_list[i]);
 
-			final String key = lang.getNodeKey(phrase_list[i], pos[0]);
-			final Clause value = new Clause(phrase_list[i], pos);
+			final String key = lang.getNodeKey(phrase_list[i], pos.length>0?pos[0]:"");
+			final Clause value = new Clause(phrase_list[i], pos,key);
 			final Node n = Node.buildNode(graph, key, value);
 
 			n.addPosition(new Position(this.pos, globalPosition));

@@ -36,11 +36,14 @@ import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.TreeSet;
 import java.util.concurrent.Callable;
 
+import me.common.filter.Filter;
 import ny.kpe.data.KrapivinInstance;
 import ny.kpe.data.SentenceVO.SENT_POS;
 
@@ -327,6 +330,43 @@ public class NyTextRank implements Callable<Collection<MetricVector>> {
 		}
 
 		return sb.toString();
+	}
+	public List<String> getTop(int limit, Filter stopWordFilter) {
+		final TreeSet<MetricVector> key_phrase_list = new TreeSet<MetricVector>(
+				metric_space.values());
+		List<String> lst = new ArrayList<String>();
+		for (MetricVector mv : key_phrase_list) {
+			if (mv.metric >= MIN_NORMALIZED_RANK && stopWordFilter.apply(mv.value.text)!=null) {
+				lst.add(mv.value.text);
+				if(limit!=-1 && lst.size()==limit)
+					break;
+			}
+		}
+		return lst;
+	}
+	public List<Node> getTopWeightedNodes(int limit) {
+		final TreeSet<MetricVector> key_phrase_list = new TreeSet<MetricVector>(
+				metric_space.values());
+		List<Node> lst = new ArrayList<Node>();
+		for (MetricVector mv : key_phrase_list) {
+			if (mv.metric >= MIN_NORMALIZED_RANK) {
+				Node n =  graph.get(((Clause)mv.value).key);
+				n.weightedRank = mv.metric;
+				lst.add(n);
+				if(limit!=-1 && lst.size()==limit)
+					break;
+			}
+		}
+		return lst;
+	}
+
+	public List<Node> getTopRankedNodes(int limit) {
+		List<Node> lst = new ArrayList<Node>(graph.values());
+		Collections.sort(lst);
+		if(limit!=-1 && lst.size()>limit){
+			lst = lst.subList(0, limit);
+		}
+		return lst;
 	}
 
 

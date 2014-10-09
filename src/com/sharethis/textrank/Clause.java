@@ -52,17 +52,25 @@ public class Clause extends NodeValue {
 
 	public String pos[] = null;
 
+	public String key = null;
+
 	public int length = 0;
 
 	/**
 	 * Constructor.
+	 * @param key
 	 */
 
-	public Clause(final String text, final String[] pos) {
+	public Clause(final String text, final String[] pos, String key) {
 		this.text = text;
 		this.pos = pos;
+		this.key = key;
 		length = text.split(" ").length;
 	}
+	public Clause(final String text) {
+		this.text = text;
+	}
+
 
 	/**
 	 * Create a description text for this value.
