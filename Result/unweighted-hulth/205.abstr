@@ -1,0 +1,32 @@
+we|PRP|BODY_1:BODY_4|0
+motion|NN|BODY_8|0
+motion and lighting|NN CC NN|BODY_2|0
+arbitrary unknown object motion|JJ JJ NN NN|BODY_6|0
+3d surface reconstruction|JJ NN NN|BODY_3|0
+an object|DT NN|BODY_7|0
+a solution|DT NN|BODY_7|0
+a single point light source|DT JJ NN NN NN|BODY_6|0
+the relationship|DT NN|BODY_7|0
+four or more images|CD CC JJR NNS|BODY_8|0
+a point light source|DT NN NN NN|BODY_5|0
+about|IN|BODY_5|0
+structure|NN|BODY_2|0
+motion and linear intensity subspaces|NN CC NN NN NNS|BODY_3|0
+the full 3d surface|DT JJ JJ NN|BODY_6|0
+this paper|DT NN|BODY_4|0
+3d lambertian surface structure|JJ JJ NN NN|BODY_4|0
+a face|DT NN|BODY_4|0
+the case|DT NN|BODY_5|0
+the geotensity constraint|DT NN NN|BODY_5|0
+automatic surface reconstruction|JJ NN NN|BODY_3|0
+that|WDT|BODY_6|0
+it|PRP|BODY_2|0
+an example|DT NN|BODY_2|0
+theory|NN|BODY_3|0
+a single static camera|DT JJ JJ NN|BODY_9|0
+geotensity|NN|BODY_1|0
+an arbitrary number point light sources|DT JJ NN NN NN NNS|BODY_8|0
+a moving object|DT VBG NN|BODY_9|0
+a single fixed camera|DT JJ JJ NN|BODY_7|0
+the two paradigms|DT CD NNS|BODY_1|0
+the surface|DT NN|BODY_1|0

@@ -1,0 +1,1255 @@
+that|WDT|BODY_12:BODY_11:BODY_17:BODY_15:BODY_13:ABSTRACT_3:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_16:BODY_18:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+it|PRP|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7|0
+{|NN|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+example|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8|0
+the environment|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_20:BODY_9|0
+the family model|DT NN NN|BODY_12:BODY_6:BODY_5:BODY_18:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+policies|NNS|BODY_6:ABSTRACT_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+there|EX|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_9|0
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_17:BODY_15:ABSTRACT_8:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+structures|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_13:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the tools|DT NNS|BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+they|PRP|BODY_5:ABSTRACT_6:BODY_18:BODY_1:BODY_4:BODY_10:BODY_8|0
+the mechanisms|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+infuse|NN|BODY_12:BODY_6:BODY_1:BODY_2:BODY_4:BODY_8|0
+software development environments|NN NN NNS|BODY_6:BODY_5:BODY_11:TITLE_2:ABSTRACT_2:BODY_3:BODY_10:BODY_4:BODY_7|1
+smile|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_14:BODY_9|0
+changes|NNS|BODY_12:BODY_5:BODY_18:BODY_3:BODY_4:BODY_10:BODY_7|0
+respect|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+this model|DT NN|BODY_5:ABSTRACT_2:BODY_1:BODY_14:BODY_3:BODY_4|0
+the city model|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8:BODY_20|0
+mechanisms|NNS|BODY_11:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+the interactions|DT NNS|BODY_6:BODY_5:BODY_11:BODY_13:BODY_1:BODY_3:BODY_8|0
+sdes|NNS|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7|0
+the individual model|DT NN NN|BODY_6:BODY_21:BODY_1:BODY_2:BODY_3:BODY_10:BODY_8|0
+environments|NNS|BODY_1:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|1
+tools|NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+the system|DT NN|BODY_12:BODY_5:BODY_15:BODY_14:BODY_20|0
+scale|NN|BODY_6:BODY_5:ABSTRACT_8:BODY_3:BODY_7:BODY_8:BODY_9|0
+the policies|DT NNS|BODY_5:BODY_16:BODY_1:BODY_4:BODY_8|0
+. }|. NN|BODY_5:BODY_17:BODY_2:BODY_3:BODY_7|0
+unix|NN|BODY_6:BODY_13:BODY_2:BODY_9|0
+developers|NNS|BODY_6:BODY_11:BODY_3:BODY_4:BODY_10:BODY_8|0
+these environments|DT NNS|BODY_1:BODY_4|0
+the problems|DT NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8|0
+the family|DT NN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_14|0
+top|NN|BODY_2:BODY_4:BODY_10:BODY_7|0
+_ _ _|NN NN NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_16:BODY_15:BODY_13:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+what|WP|BODY_2:BODY_1:BODY_4:BODY_10|0
+sccs|NNS|BODY_6:BODY_5:BODY_3:BODY_7|0
+integrated environments|JJ NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+language-oriented environments|JJ NNS|BODY_5:BODY_4:BODY_8:BODY_9|0
+istar|NN|BODY_5:BODY_15:BODY_1:BODY_14|0
+systems|NNS|BODY_5:BODY_10:BODY_4:BODY_7|0
+the model|DT NN|ABSTRACT_2:BODY_1:BODY_4:BODY_7:BODY_8|0
+the state model|DT NN NN|BODY_2:BODY_7:BODY_8|0
+consistency|NN|BODY_12:BODY_1:BODY_3:BODY_8|0
+rules|NNS|BODY_15:BODY_2|0
+one|CD|BODY_1:BODY_3:BODY_10:BODY_4:BODY_9|0
+a collection|DT NN|BODY_6:BODY_11:BODY_17:BODY_3:BODY_14|0
+models|NNS|BODY_6:TITLE_1:BODY_2:BODY_3:BODY_4|1
+projects|NNS|BODY_12:BODY_5:BODY_11:BODY_4:BODY_7|0
+the structures|DT NNS|BODY_5:BODY_1:BODY_10:BODY_4|0
+them|PRP|BODY_6:BODY_5|0
+cooperation|NN|BODY_15:BODY_2:BODY_19:BODY_7|0
+machines|NNS|BODY_12:BODY_4|0
+the developers|DT NNS|BODY_3:BODY_4:BODY_7:BODY_8|0
+part|NN|BODY_2:BODY_10|0
+enforcement|NN|BODY_6:BODY_5:BODY_2|0
+those|DT|BODY_6:BODY_11:BODY_14:BODY_4:BODY_7|0
+the use|DT NN|BODY_12:BODY_2:BODY_3|0
+the user|DT NN|BODY_5:BODY_3:BODY_8|0
+support|NN|BODY_6:BODY_11:BODY_5:BODY_2|0
+the components|DT NNS|BODY_5:BODY_3:BODY_4:BODY_7|0
+the problem|DT NN|BODY_2:BODY_3:BODY_4:BODY_20|0
+programmers|NNS|BODY_15:BODY_3:BODY_8:BODY_9|0
+the hierarchy|DT NN|BODY_11:BODY_2:BODY_4|0
+enforced coordination|VBN NN|BODY_5:BODY_11:BODY_17:BODY_3|0
+each class|DT NN|BODY_1:BODY_3:BODY_19:BODY_8|1
+experimental databases|JJ NNS|BODY_11:BODY_5:BODY_4:BODY_7|0
+garlan|NN|BODY_6:BODY_22:BODY_17:BODY_1|0
+the structure|DT NN|BODY_6:BODY_1:BODY_2|0
+instances|NNS|BODY_6:BODY_3|0
+the database|DT NN|BODY_2:BODY_3:BODY_10|0
+structures and mechanisms|NNS CC NNS|BODY_6:BODY_5:BODY_3|0
+program construction|NN NN|BODY_2:BODY_3|0
+this paper|DT NN|BODY_2|0
+the developer|DT NN|BODY_5:BODY_3:BODY_4|0
+large systems|JJ NNS|BODY_5:ABSTRACT_11:BODY_13:BODY_4|0
+the individual|DT NN|BODY_6:BODY_5:BODY_2|0
+the project|DT NN|BODY_18:BODY_4|0
+interaction|NN|BODY_2:BODY_3:BODY_8|0
+only a small increment|RB DT JJ NN|BODY_2|0
+the allowable interactions|DT JJ NNS|BODY_2|0
+the foundation|DT NN|BODY_2|0
+the progress|DT NN|BODY_2|0
+the underlying structure|DT JJ NN|BODY_2|0
+individual programmers|NN NNS|BODY_5:BODY_3:BODY_7|0
+people|NNS|BODY_16:BODY_8|0
+the basis|DT NN|BODY_2:BODY_8|0
+themselves|PRP|BODY_3:BODY_4:BODY_8|0
+ada|NN|BODY_3:BODY_9|0
+the toolkit approach|DT NN NN|BODY_2:BODY_3|0
+the products|DT NNS|BODY_3:BODY_4:BODY_8|0
+the individual toolkit model|DT JJ NN NN|BODY_2:BODY_3:BODY_4|0
+the integrated model|DT JJ NN|BODY_10:BODY_9|0
+this|DT|BODY_1:BODY_2|0
+mechanisms and structures|NNS CC NNS|BODY_5:BODY_3:BODY_7|0
+the modules|DT NNS|BODY_5:BODY_1:BODY_9|0
+the current state|DT JJ NN|BODY_2:BODY_8|0
+a company|DT NN|BODY_11:BODY_5:BODY_15|0
+cities|NNS|BODY_5:BODY_18:BODY_4|0
+{ interpreter|IN NN|BODY_2:BODY_3|0
+the kinds|DT NNS|BODY_5:BODY_3:BODY_4:BODY_7|0
+the list|DT NN|BODY_12:BODY_25|0
+the set|DT NN|BODY_2:BODY_4|0
+the development|DT NN|BODY_18:BODY_3:ABSTRACT_10|0
+addition|NN|BODY_3:BODY_7|0
+the actual changes|DT JJ NNS|BODY_14:BODY_4|0
+apollo|VB|BODY_1:BODY_14|0
+the city class|DT NN NN|BODY_4:BODY_8|0
+the discussion|DT NN|BODY_2:BODY_7|0
+enforced cooperation|VBN NN|BODY_1:BODY_4:BODY_8|0
+the ability|DT NN|BODY_12:BODY_4|0
+a structure|DT NN|BODY_4|0
+our metaphor|PRP$ NN|BODY_5:BODY_1:BODY_3|0
+the programmer|DT NN|BODY_6:BODY_5|0
+freedom|NN|BODY_5:BODY_3|0
+examples|NNS|BODY_6:BODY_14|0
+coordination|NN|BODY_6|0
+those environments|DT NNS|BODY_5:BODY_10:BODY_4|0
+these mechanisms|DT NNS|BODY_2|0
+each other|DT JJ|BODY_2:BODY_7|0
+the basic structures|DT JJ NNS|BODY_3|0
+darwin|:|BODY_4:BODY_8|0
+terms|NNS|BODY_2:BODY_4:BODY_7|0
+the policy maker|DT NN NN|BODY_11:BODY_10|0
+clf|NN|BODY_6:BODY_4|0
+a abstract form|DT JJ NN|BODY_2|0
+illustrating hard-wired policies|JJ JJ NNS|BODY_4|0
+small groups|JJ NNS|BODY_2|0
+software objects|NN NNS|BODY_4|0
+the examples|DT NNS|BODY_2|0
+the same degree|DT JJ NN|BODY_4|0
+this trend|DT NN|BODY_2|0
+transformations|NNS|BODY_4|0
+etc|FW|BODY_17:BODY_7:BODY_9|0
+the transformational approach|DT JJ NN|BODY_6:BODY_5|0
+interpretive environments|JJ NNS|BODY_19:BODY_8|0
+necessity|NN|BODY_5:BODY_16|0
+a sufficient understanding|DT JJ NN|BODY_3|0
+implicitly encode policies|JJ JJ NNS|BODY_2|0
+the experimental database|DT JJ NN|BODY_2|0
+the forum|DT NN|BODY_3|0
+files|NNS|BODY_2:BODY_8|0
+our research|PRP$ NN|BODY_2:BODY_3|0
+reliability|NN|BODY_2|0
+the extended toolkit environments|DT JJ NN NNS|BODY_2:BODY_1|0
+convention|NN|BODY_4:BODY_7|0
+the family class|DT NN NN|BODY_6:BODY_3|0
+the changes|DT NNS|BODY_1:BODY_9|0
+the requirement|DT NN|BODY_6:BODY_2|0
+turn|NN|BODY_7:BODY_9|0
+program construction tools|NN NN NNS|BODY_2:BODY_9|0
+something|NN|BODY_5|0
+the synthesizer generator|DT NN NN|BODY_2|0
+bob balzer|NN NN|BODY_2|0
+critical comments|JJ NNS|BODY_2|0
+jack wileden|NN NN|BODY_8|0
+peggy quinn|JJ NN|BODY_7|0
+the concern|DT NN|BODY_15:BODY_2|0
+cost and improvement|NN CC NN|BODY_5|0
+the different tools|DT JJ NNS|BODY_8|0
+the entire environment|DT JJ NN|BODY_6:BODY_5|0
+a complex internal representation|DT JJ JJ NN|BODY_2|0
+development and construction ( as|NN CC NN -LRB- IN|BODY_11|0
+the recent past [1|DT JJ JJ NNS|BODY_6|0
+hardware|NN|BODY_7|0
+hard-wired policies and process programs or rule systems|JJ NNS CC NN NNS CC NN NNS|BODY_2|0
+a large amount|DT JJ NN|BODY_2|0
+the ada program support environments|DT NN NN NN NNS|BODY_5|0
+strongly interrelated|RB JJ|BODY_2|0
+some accompanying information|DT VBG NN|BODY_5|0
+the decorated syntax tree|DT JJ NN NN|BODY_5|0
+)|-RRB-|BODY_7:BODY_8:BODY_9|0
+this approach|DT NN|BODY_2:BODY_8|0
+the requirements|DT NNS|BODY_15:BODY_2|0
+components|NNS|BODY_4:BODY_7|0
+maturity|NN|BODY_3:BODY_4|0
+the members|DT NNS|BODY_13:BODY_4|0
+a formal specification|DT JJ NN|BODY_3|0
+{ implementation tools|JJ NN NNS|BODY_2|0
+us|PRP|BODY_2:BODY_7|0
+the city|DT NN|BODY_6:ABSTRACT_4|0
+enforced version control|VBN NN NN|BODY_2|0
+basically one|RB CD|BODY_2|0
+facilities|NNS|BODY_11:BODY_8|0
+an environment|DT NN|BODY_5:ABSTRACT_5:BODY_3|0
+one class|CD NN|BODY_1:BODY_3|0
+project management aspects|NN NN NNS|BODY_2|0
+the source code control system|DT NN NN NN NN|BODY_5|0
+exploration|NN|BODY_3|0
+four classes|CD NNS|BODY_1:BODY_2:ABSTRACT_1|0
+large groups|JJ NNS|BODY_7:BODY_9|0
+the cooperation|DT NN|BODY_6:BODY_12|0
+management|NN|BODY_6:BODY_2|0
+a means|DT NN|BODY_2:BODY_3|0
+the construction and evolution|DT NN CC NN|BODY_15|0
+a set|DT NN|BODY_8|0
+their attendant restrictions|PRP$ JJ NNS|BODY_8|0
+commonality|NN|BODY_16:BODY_2|0
+the toolkit environments|DT NN NNS|BODY_2:BODY_1|0
+all its projects|DT PRP$ NNS|BODY_18:BODY_14:BODY_10|0
+_|NN|BODY_11:BODY_13|0
+the right side|DT JJ NN|BODY_23|0
+the particular needs|DT JJ NNS|BODY_4|0
+each tool|DT NN|BODY_6:BODY_8|0
+the project management environments|DT NN NN NNS|BODY_8|0
+the original set|DT JJ NN|BODY_12|0
+the sense|DT NN|BODY_16:BODY_3|0
+the grain|DT NN|BODY_14|0
+number|NN|BODY_9|0
+policies , mechanisms and structures|NNS , NNS CC NNS|BODY_6:BODY_3:BODY_8|0
+interactions|NNS|BODY_5:ABSTRACT_5|0
+only an approximation|RB DT NN|BODY_2|0
+the transformational environments|DT JJ NNS|BODY_6|0
+a policy|DT NN|BODY_1:BODY_4|0
+kbemacs [53]|NNS NNS|BODY_2|0
+capitalization and richness|NN CC NN|BODY_18|0
+names|NNS|BODY_9|0
+programmers (under|NNS NN|BODY_15|0
+the size|DT NN|BODY_13:BODY_3|0
+local integration testing analogous|JJ NN NN NN|BODY_2|0
+our characterizations|PRP$ NNS|BODY_6|1
+this policy|DT NN|BODY_1:BODY_4|0
+the construction|DT NN|BODY_11:BODY_3|0
+deposit|NN|BODY_8|0
+the confines|DT NNS|BODY_5|0
+a model|DT NN|BODY_2|0
+a syntactic interconnection model )|DT JJ NN NN -RRB-|BODY_9|0
+an entity-relationship-attribute model|DT JJ NN|BODY_2|0
+nature|NN|BODY_4:BODY_9|0
+implication|NN|BODY_12:BODY_7|0
+extensive modifications|JJ NNS|BODY_3|0
+its common kernel|PRP$ JJ NN|BODY_4|0
+the design|DT NN|BODY_2:BODY_4|0
+a single policy|DT JJ NN|BODY_2:BODY_1|0
+ various kinds|NNP JJ NNS|BODY_4|0
+degrees|NNS|BODY_2|0
+inducing policies|NN NNS|BODY_6|0
+family|NN|BODY_2|0
+inscape/infuse* [37|JJ NNS|BODY_3|0
+the previous level|DT JJ NN|BODY_15|0
+the various instances|DT JJ NNS|BODY_2|0
+the change process|DT NN NN|BODY_3|0
+the mechanisms and structures|DT NNS CC NNS|BODY_2:BODY_3:BODY_9|0
+the policies , structures and mechanisms|DT NNS , NNS CC NNS|BODY_4|0
+view|NN|BODY_6:BODY_2|0
+the distributed model|DT VBN NN|BODY_10:BODY_9|0
+a single language|DT JJ NN|BODY_6|0
+implementation tools|NN NNS|BODY_8|0
+object and control structures|NN CC NN NNS|BODY_11|0
+the state|DT NN|BODY_5:BODY_7|0
+more basic and|JJR JJ CC|BODY_10|0
+complex , such|JJ , JJ|BODY_4|0
+distinguishes|NNS|BODY_5:BODY_8|0
+earliest ) incarnation|JJS -RRB- NN|BODY_2|0
+more complex and comprehensive objects|RBR JJ CC JJ NNS|BODY_2|0
+a sociological metaphor|DT JJ NN|BODY_5:BODY_3:ABSTRACT_7|0
+an individual model|DT JJ NN|BODY_2:BODY_10|0
+software developers|NN NNS|ABSTRACT_6:BODY_4|0
+larry druffel|JJ NN|BODY_4|0
+peter feiler|NN NN|BODY_6|0
+an sccs directive|DT NNS NN|BODY_8|0
+a sequence|DT NN|BODY_3|0
+anarchy|NN|BODY_3|0
+more information|JJR NN|BODY_3|0
+the preceding section|DT VBG NN|BODY_3|0
+further clarification|JJ NN|BODY_5|0
+simultaneous activities|JJ NNS|BODY_3|0
+weak form|JJ NN|BODY_4|0
+the scale|DT NN|BODY_3:BODY_19|0
+integration and regression testing|NN CC NN NN|BODY_10|0
+the extended toolkit model|DT JJ NN NN|BODY_1:BODY_9|0
+craig cleveland|JJ NN|BODY_4|0
+narain gehani|NN NNS|BODY_5|0
+the search|DT NN|BODY_18|0
+these various problems|DT JJ NNS|BODY_2|0
+software systems|NN NNS|BODY_6:BODY_2|0
+dsee|NN|BODY_1:BODY_10|0
+old tools|JJ NNS|BODY_3|0
+the deficiencies|DT NNS|BODY_9|0
+the programmers|DT NNS|BODY_6:BODY_15:BODY_10|0
+each|DT|BODY_2:BODY_1|0
+tasks|NNS|BODY_4|0
+belanger|NN|BODY_3|0
+warren montgomery|NN NN|BODY_6|0
+the art|DT NN|BODY_3:BODY_9|0
+advanced technology|JJ NN|BODY_8|0
+at&t foundation|JJ NN|BODY_4|0
+the textual form|DT JJ NN|BODY_9|0
+early error detection and notification|JJ NN NN CC NN|BODY_2:BODY_4|0
+lori clarke|NN NN|BODY_3|0
+nico habermann|JJ NN|BODY_7|0
+interest|NN|BODY_3|0
+the sequence|DT NN|BODY_10|0
+these structures|DT NNS|BODY_2:BODY_7|0
+the latter|DT NN|BODY_3|0
+an abstract syntax tree [9 ]|DT JJ NN NN CC SYM|BODY_3|0
+siemens research and technology laboratories|NNS NN CC NN NNS|BODY_6|0
+instance|NN|BODY_5:BODY_4|0
+these tools|DT NNS|BODY_1:BODY_2|0
+an idl graph [26]|DT JJ NN NN|BODY_4|0
+src directories )|JJ NNS -RRB-|BODY_9|0
+ellison|NN|BODY_5|0
+the underlying common structure|DT JJ JJ NN|BODY_6|0
+'s views|POS NNS|BODY_18:BODY_7|0
+the individual class|DT JJ NN|BODY_1:BODY_3|0
+all the requirements|PDT DT NNS|BODY_7|0
+these classifications yields|DT NNS NNS|BODY_2|0
+a topic|DT NN|BODY_4|0
+architectures|NNS|BODY_4|0
+another distinction|DT NN|BODY_1|0
+our intuition*|PRP$ NN|BODY_1|0
+supporting and enforcing policies|VBG CC VBG NNS|BODY_2|0
+the entire system|DT JJ NN|BODY_2|0
+the following general description|DT VBG JJ NN|BODY_2|0
+this iterative process|DT JJ NN|BODY_1|0
+managing system evolution|VBG NN NN|BODY_17:BODY_14|0
+these decisions|DT NNS|BODY_3|0
+particular sets|JJ NNS|BODY_10|0
+standards|NNS|BODY_17|0
+considerable interest|JJ NN|BODY_5|0
+the objectbase|DT NN|BODY_4|0
+the lack|DT NN|BODY_2|0
+the interpretive model|DT JJ NN|BODY_4|0
+the program|DT NN|BODY_4|0
+serious implications|JJ NNS|BODY_4|0
+the next|DT JJ|BODY_4|0
+the others|DT NNS|BODY_7:BODY_9|0
+one component|CD NN|BODY_3|0
+. construction|. NN|BODY_2|0
+very large|RB JJ|BODY_5|0
+cedar [48]|NN NN|BODY_7|0
+an internal representation|DT JJ NN|BODY_3|0
+the intermediate representation|DT JJ NN|BODY_3|0
+a database|DT NN|BODY_3|0
+families|NNS|BODY_15:BODY_1|0
+both|DT|BODY_8|0
+e.g.|FW|BODY_4|0
+existing environments|JJ NNS|BODY_3|0
+interpretive approach|JJ NN|BODY_7|0
+local consistency analysis|JJ NN NN|BODY_5|0
+local integration testing|JJ NN NN|BODY_7|0
+note|NN|BODY_1|0
+the file system|DT NN NN|BODY_2:BODY_4|0
+the sde literature|DT NN NN|BODY_7|0
+a semantic interconnection model|DT JJ NN NN|BODY_14|0
+shell scripts|NN NNS|BODY_1:BODY_3|0
+each instance|DT NN|BODY_3|0
+' segmentation scheme [33]|POS NN NN NN|BODY_8|0
+their interconnectivity|PRP$ NN|BODY_10|0
+his|PRP$|BODY_13|0
+reduction|NN|BODY_4|0
+even larger systems|RB JJR NNS|BODY_6|0
+our notion|PRP$ NN|BODY_3|0
+the class and support|DT NN CC NN|BODY_5|1
+the other hand|DT JJ NN|BODY_12|0
+methodological issues|JJ NNS|BODY_3|0
+ibm|NN|BODY_5|0
+new york state center|JJ NN NN NN|BODY_7|0
+a matter|DT NN|BODY_5|0
+that tool|IN NN|BODY_11|0
+regulations|NNS|BODY_7|0
+specific components|JJ NNS|BODY_22|0
+the left|DT JJ|BODY_22|0
+the notation|DT NN|BODY_23|0
+a general model|DT JJ NN|BODY_6:BODY_2:ABSTRACT_1|0
+most|JJS|BODY_2|0
+the utility|DT NN|BODY_17:ABSTRACT_1|0
+syntax tree|NN NN|BODY_5|0
+very few rules|RB JJ NNS|BODY_2|0
+a modification request|DT NN NN|BODY_2|0
+linker/loaders|NNS|BODY_15|0
+the syntax tree nodes|DT NN NN NNS|BODY_5|0
+efficiency|NN|BODY_5|0
+single-unit versus multiple-unit systems and captures|NN NN JJ NNS CC NNS|BODY_3|0
+the standpoint|DT NN|BODY_17|0
+use|NN|BODY_8|0
+each experimental database|DT JJ NN|BODY_4|0
+faire|NN|BODY_2|0
+modules resident|NNS NN|BODY_4|0
+our four classes|PRP$ CD NNS|BODY_8|0
+gp ) [16]|NN -RRB- NN|BODY_7|0
+lib|NN|BODY_8|0
+'s modification request|POS NN NN|BODY_2|0
+the same ways|DT JJ NNS|BODY_2|0
+49|CD|BODY_5|0
+the distinction|DT NN|BODY_2|0
+compilers|NNS|BODY_14|0
+{ editors|NN NNS|BODY_13|0
+a state|DT NN|BODY_16:BODY_2|0
+complex basic structures|JJ JJ NNS|BODY_2|0
+distributed environments|VBN NNS|BODY_9|0
+a result|DT NN|BODY_8|0
+an average city|DT JJ NN|BODY_7|0
+the components and normal typeface|DT NNS CC JJ NN|BODY_21|0
+a complex structure|DT JJ NN|BODY_3|0
+research|NN|BODY_4|0
+our examples|PRP$ NNS|BODY_3|0
+defense|NN|BODY_7|0
+the limits|DT NNS|BODY_5|0
+formal interface specifications|JJ NN NNS|BODY_13|0
+this problem|DT NN|BODY_5:BODY_7|0
+individual family city state|JJ NN NN NN|BODY_7|0
+high availability|JJ NN|BODY_3|0
+neither lost nor|DT VBN CC|BODY_7|0
+a hierarchy|DT NN|BODY_6:BODY_4|0
+general descriptions|JJ NNS|BODY_20|0
+many commercial environments|JJ JJ NNS|BODY_2|0
+the cost|DT NN|BODY_6|0
+the project management model|DT NN NN NN|BODY_7|0
+the notion|DT NN|BODY_16:BODY_1|0
+sde models|NN NNS|BODY_6|0
+an approximation|DT NN|BODY_12|0
+a wide-spectrum language|DT JJ NN|BODY_7|0
+points|NNS|BODY_7|0
+account|NN|BODY_14|0
+only a small part|RB DT JJ NN|BODY_4|0
+city model environments|NN NN NNS|BODY_6|0
+cms|NNS|BODY_1|0
+building environments|NN NNS|BODY_5|0
+'s mechanisms|POS NNS|BODY_23|0
+higher-order policies|JJR NNS|BODY_3|0
+a more complex set|DT RBR JJ NN|BODY_9|0
+the state class|DT NN NN|BODY_6:BODY_10|0
+computer and information systems|NN CC NN NNS|BODY_9|0
+grants|NNS|BODY_3|0
+the metaphor|DT NN|BODY_9|0
+four important classes|CD JJ NNS|BODY_2|0
+a simple extension|DT JJ NN|BODY_13|0
+family environment|NN NN|BODY_2|0
+the technical management|DT JJ NN|BODY_2:BODY_3|0
+modules|NNS|BODY_16:BODY_3|0
+_ _ _ _|JJ JJ JJ JJ|BODY_7:BODY_9|0
+programming-in-the-small and programming-in-the-large [7|JJ CC JJ NNS|BODY_3|0
+entire modules|JJ NNS|BODY_10|0
+the current implementation|DT JJ NN|BODY_2|0
+configuration management|NN NN|BODY_2:BODY_8|0
+all systems|DT NNS|BODY_3|0
+a blend|DT NN|BODY_6|0
+an sde|DT NN|BODY_6:BODY_16|0
+a variation|DT NN|BODY_3|0
+those classes|DT NNS|BODY_20|0
+information and effort|NN CC NN|BODY_6|0
+.* }|JJ NN|BODY_12|0
+_ _ *|NN NN SYM|BODY_11:BODY_13|0
+issues|NNS|BODY_5|0
+the relationships|DT NNS|BODY_2|0
+the farm vehicles|DT NN NNS|BODY_4|0
+this measure|DT NN|BODY_11|0
+the gandalf prototype|DT NN NN|BODY_6|0
+many more rules|JJ JJR NNS|BODY_6|0
+the distributed environments|DT VBN NNS|BODY_6|0
+a syntax-directed editor [12|DT JJ NN NN|BODY_5|0
+our model|PRP$ NN|BODY_6:BODY_17:BODY_1:BODY_3|1
+periodic reporting|JJ NN|BODY_2|0
+either extended toolkit|CC JJ NN|BODY_3|0
+these structures and mechanisms|DT NNS CC NNS|BODY_2|0
+each project|DT NN|BODY_2|0
+the individual language-oriented model|DT JJ JJ NN|BODY_11|0
+the end|DT NN|BODY_24|0
+a mechanism|DT NN|BODY_5|0
+} transformational environments|NN JJ NNS|BODY_6|0
+a large number|DT JJ NN|BODY_2|0
+a concerted set|DT JJ NN|BODY_4:BODY_9|0
+a state model|DT NN NN|BODY_5:BODY_2|0
+the simultaneous activities|DT JJ NNS|BODY_9|0
+both the technical and managerial aspects|DT DT JJ CC JJ NNS|BODY_5|0
+the higher-level structure|DT JJ NN|BODY_2|0
+that very little attention|IN RB JJ NN|BODY_3|0
+these rules|DT NNS|BODY_1:BODY_2|0
+project databases|NN NNS|BODY_3|0
+chaos|NN|BODY_8|0
+this negotiation|DT NN|BODY_3|0
+an emphasis|DT NN|BODY_2|0
+'s rules [20]|POS NNS NN|BODY_8|0
+large-scale systems|JJ NNS|BODY_4|0
+those aspects|DT NNS|ABSTRACT_4:BODY_2|0
+our general model|PRP$ JJ NN|BODY_5:BODY_1|0
+simulates|NNS|BODY_6|0
+europe|NN|BODY_21|0
+interaction (|NN -LRB-|BODY_6|0
+enforcing cooperation|VBG NN|BODY_3|0
+database deposit|NN NN|BODY_6|0
+these people|DT NNS|BODY_7|0
+movement|NN|BODY_3|0
+the department|DT NN|BODY_6|0
+system [43]|NN JJ|BODY_3|0
+code|NN|BODY_5|0
+_ _|RP RP|BODY_17:BODY_14:BODY_9|0
+a classification|DT NN|BODY_6:BODY_2:BODY_4|0
+a previously published taxonomy|DT RB VBN NN|ABSTRACT_4|0
+a higher-order organization|DT JJR NN|BODY_3|0
+'s domain software engineering environment ( dsee|POS NN NN NN NN -LRB- NN|BODY_2|0
+policy makers|NN NNS|BODY_5|0
+the strength|DT NN|BODY_9|0
+a file|DT NN|BODY_3|0
+the base-level environment|DT NN NN|BODY_4|0
+a particular project|DT JJ NN|BODY_6|0
+the view|DT NN|BODY_10|0
+mind|NN|BODY_3|0
+their coverage|PRP$ NN|BODY_4|0
+inscape|NN|BODY_5|0
+evaluating and classifying|VBG CC VBG|BODY_11|0
+these instances|DT NNS|BODY_12|0
+various kinds|JJ NNS|BODY_2|0
+the cornell program synthesizer [50]|DT NN NN NN NN|BODY_5|0
+the literature|DT NN|BODY_5:BODY_10|1
+version trees|NN NNS|BODY_8|0
+the policy|DT NN|BODY_5:BODY_7|0
+both parallel and sequential versions|DT JJ CC JJ NNS|BODY_4|0
+policies and structures|NNS CC NNS|BODY_7|0
+individual models|JJ NNS|BODY_10|0
+problem reporting|NN NN|BODY_5|0
+top-down development|JJ NN|BODY_2|0
+garden [40]|NN NN|BODY_2|0
+{ single structure|JJ JJ NN|BODY_3|0
+its attendant tools|PRP$ NN NNS|BODY_2|0
+software development|NN NN|BODY_4|0
+{ mechanisms|NN NNS|BODY_2|0
+coordination policies|NN NNS|BODY_2|0
+{ . }|FW . FW|BODY_2|0
+suitable structures|JJ NNS|BODY_2|0
+scaling difficulties|JJ NNS|BODY_4|0
+(or|NN|BODY_5|0
+language-centered , structure-oriented , toolkit|JJ , JJ , NN|ABSTRACT_7|0
+test harness construction|NN NN NN|BODY_9|0
+a few|DT JJ|BODY_11|0
+38]|NN|BODY_3|0
+'s policies|POS NNS|BODY_9|0
+multics|NNS|BODY_7|0
+__ _|NN NN|BODY_7:BODY_9|0
+the notation |DT NN|BODY_10|0
+tools and structures|NNS CC NNS|BODY_2:BODY_9|0
+semantic consistency , completeness and compatibility|JJ NN , NN CC NN|BODY_8|0
+the explicit specification|DT JJ NN|BODY_2|0
+the specific projects (or|DT JJ NNS NN|BODY_4|0
+ipse|NN|BODY_3|0
+a generic sense|DT JJ NN|BODY_12|0
+coupling|NN|BODY_4|0
+the exploration|DT NN|BODY_12|0
+analysis|NN|BODY_7|0
+sccs.|NN|BODY_5:BODY_9|0
+'s database [27]|POS NN NN|BODY_11|0
+the contractors|DT NNS|BODY_3|0
+a small group|DT JJ NN|BODY_14|0
+support tools|NN NNS|BODY_3|0
+no examples|DT NNS|BODY_14|0
+our contributions|PRP$ NNS|BODY_2|0
+the contributions|DT NNS|BODY_3|0
+a cross|DT NN|BODY_2|0
+the various tools|DT JJ NNS|BODY_2|0
+satisfaction|NN|BODY_4|0
+the input and output|DT NN CC NN|BODY_13|0
+constructing programs|VBG NNS|BODY_6|0
+debuggers|NNS|BODY_16|0
+medium and large systems|NN CC JJ NNS|BODY_16|0
+the qualitative differences|DT JJ NNS|BODY_3|0
+a description|DT NN|BODY_4|1
+local consistency checking|JJ NN NN|BODY_4|0
+the effects|DT NNS|BODY_2|0
+a number|DT NN|BODY_11|0
+their interrelationships|PRP$ NNS|BODY_6|1
+one particular language|CD JJ NN|BODY_8|0
+version information|NN NN|BODY_7|0
+a city model|DT NN NN|BODY_5:BODY_4|0
+simple backup versions|JJ JJ NNS|BODY_3|0
+the bin|DT NN|BODY_7|0
+'s process programming [34,49]|POS NN NN NN|BODY_3|0
+. commonality|. NN|BODY_9|0
+. higher-order policies|. JJR NNS|BODY_5|0
+'s [5 ] or marvel|POS CD NN CC NN|BODY_7|0
+analogy|NN|BODY_10|0
+a contract model|DT NN NN|BODY_3|0
+a useful and fruitful area|DT JJ CC JJ NN|BODY_4|0
+procedures|NNS|BODY_8|0
+execution preparation tools|NN NN NNS|BODY_2|0
+the languages , tools and tool fragments|DT NNS , NNS CC NN NNS|BODY_2|0
+editor , compiler , debugger , . }|NN , NN , NN , . NN|BODY_4|0
+function|NN|BODY_15|0
+design and requirements|NN CC NNS|BODY_6|0
+the progression|DT NN|BODY_8|0
+a partial* solution|DT NN NN|BODY_3|0
+testing|VBG|BODY_7|0
+the objects|DT NNS|BODY_4|0
+the other two components and place severe limitations|DT JJ CD NNS CC NN JJ NNS|BODY_5|0
+villages|NNS|BODY_8|0
+process programs|NN NNS|BODY_9|0
+attention|NN|BODY_3|0
+a family|DT NN|BODY_10|0
+system construction|NN NN|BODY_3|0
+the people and vehicles|DT NNS CC NNS|BODY_13|0
+mr ) tracking system|NN -RRB- NN NN|BODY_3|0
+enforced consistency }|VBN NN NN|BODY_3|0
+instantiations|NNS|BODY_5|0
+various position papers and discussions|JJ NN NNS CC NNS|BODY_12|0
+a comprehensive set|DT JJ NN|BODY_3|0
+the contractor|DT NN|BODY_5:BODY_1|0
+[4 ]|CD NNS|BODY_3|0
+environments and tools|NNS CC NNS|BODY_8|0
+success|NN|BODY_3|0
+this quality|DT NN|BODY_5|0
+a convenient , but not very extensive , mechanism|DT JJ , CC RB RB JJ , NN|BODY_3|0
+the characteristic|DT JJ|BODY_7|0
+intermediate representation|JJ NN|BODY_4|0
+expensive inconsistencies|JJ NNS|BODY_9|0
+the administrator|DT NN|BODY_2|0
+the following|DT VBG|BODY_5|0
+the optimal oracle|DT JJ NN|BODY_3|0
+conjunction|NN|BODY_2|0
+rule determination|NN NN|BODY_4|0
+that model|DT NN|BODY_17|0
+the fact|DT NN|BODY_3|0
+the numbers|DT NNS|BODY_15|0
+certain critical interactions|JJ JJ NNS|BODY_14|0
+the goal|DT NN|BODY_5|0
+a simple structure|DT JJ NN|BODY_3|0
+mode|NN|BODY_3|0
+different sizes|JJ NNS|BODY_12:BODY_13|0
+gandalf [32|NN NNS|BODY_3|0
+certain modes|JJ NNS|BODY_7|0
+the beginning|DT NN|BODY_11|0
+need|NN|BODY_4|0
+cars and trucks|NNS CC NNS|BODY_6|0
+city|NN|BODY_3|0
+the policies , mechanisms and structures|DT NNS , NNS CC NNS|BODY_14|0
+two such environments|CD JJ NNS|BODY_2|0
+the grain size|DT NN NN|BODY_4|0
+the status|DT NN|BODY_3|0
+some sense|DT NN|BODY_9|0
+the local consistency|DT JJ NN|BODY_8|0
+particular change requests|JJ NN NNS|BODY_8|0
+these components|DT NNS|BODY_3|0
+force|NN|BODY_5|0
+a way|DT NN|BODY_6|0
+the toolsmiths|DT NNS|BODY_7|0
+two ways|CD NNS|BODY_4|0
+who uses|WP NNS|BODY_3|0
+some|DT|BODY_1|0
+the insight|DT NN|BODY_3|0
+'s structures|POS NNS|BODY_2|0
+the necessary (|DT JJ -LRB-|BODY_3|0
+that matter|DT NN|BODY_6|0
+the extensions|DT NNS|BODY_3|0
+a range|DT NN|BODY_10|0
+an interpreter|DT NN|BODY_5|0
+the minimum set|DT JJ NN|BODY_7|0
+'s tool views|POS NN NNS|BODY_2|0
+'s law-governed systems [30]|POS JJ NNS NN|BODY_9|0
+the delineation|DT NN|BODY_7|0
+transformational engine|JJ NN|BODY_4|0
+a special-purpose database|DT NN NN|BODY_3|0
+which vehicles|WDT NNS|BODY_4|0
+that partition|DT NN|BODY_6|0
+these two representative classes|DT CD JJ NNS|BODY_4|0
+these policies|DT NNS|BODY_1|0
+the integrated environments|DT JJ NNS|BODY_4|0
+some intimations|DT NNS|BODY_4|0
+script-encoded policies|JJ NNS|BODY_11|0
+automatic partitioning|JJ NN|BODY_4|0
+}|NN|BODY_8|0
+all externally referenced names|DT RB VBN NNS|BODY_3|0
+the alteration|DT NN|BODY_14|0
+static linker/loaders|JJ NNS|BODY_2|0
+45]|CD|BODY_6|0
+workspaces|NNS|BODY_8|0
+version control|NN NN|BODY_7|0
+the family work|DT NN NN|BODY_5|0
+consistency checking tools|NN NN NNS|BODY_6|0
+version description languages|NN NN NNS|BODY_5|0
+the tightness|DT NN|BODY_3|0
+italics|NNS|BODY_19|0
+the following four classes|DT VBG CD NNS|BODY_5|0
+declaratively defined rules|RB VBN NNS|BODY_10|0
+these classes|DT NNS|BODY_6|0
+the minutiae|DT NNS|BODY_2|0
+a project|DT NN|BODY_4|0
+either sccs or rcs [52]|DT NNS CC NNS NNS|BODY_3|0
+the top|DT NN|BODY_10|0
+the next level|DT JJ NN|BODY_5:BODY_9|0
+the most part|DT JJS NN|BODY_6|0
+operation|NN|BODY_8|0
+their support|PRP$ NN|BODY_2|0
+'s experimental database|POS JJ NN|BODY_2|0
+the consistency policy|DT NN NN|BODY_12|0
+the rationale|DT NN|BODY_2|0
+the state-are|DT NN|ABSTRACT_5|0
+its application|PRP$ NN|ABSTRACT_3|0
+compressed versions|JJ NNS|BODY_7|0
+small|JJ|BODY_4|0
+a permissive environment|DT JJ NN|BODY_3|0
+a tool|DT NN|BODY_10|0
+ways|NNS|BODY_13|0
+[29 ]|CD NN|BODY_4|0
+four different groups|CD JJ NNS|BODY_9|0
+distributed objects|VBN NNS|BODY_6|0
+the environmental requirements|DT JJ NNS|BODY_10|0
+integrating tools|NN NNS|BODY_4|0
+planning and developer interactions|NN CC NN NNS|BODY_10|0
+class|NN|BODY_5|0
+certain policies|JJ NNS|BODY_4|0
+. cooperation|. NN|BODY_7|0
+__ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP|BODY_15|0
+'s|POS|BODY_5|0
+'s structure|POS NN|BODY_2|0
+a pressing need|DT VBG NN|BODY_3|0
+little difficulty|JJ NN|BODY_4|0
+the clients|DT NNS|BODY_2|0
+the oracle|DT NN|BODY_13|0
+a particular group|DT JJ NN|BODY_6|0
+the software life cycle|DT NN NN NN|BODY_5|0
+indirect enforcement|JJ NN|BODY_3|0
+several projects|JJ NNS|BODY_3|0
+an integrated project support environment|DT JJ NN NN NN|BODY_2|0
+the 3rd international software process workshop [11]|DT NN JJ NN NN NN NN|BODY_13|0
+the many environments|DT JJ NNS|BODY_12|0
+the lower-level models|DT JJ NNS|BODY_3|0
+v [46]|NN NN|BODY_8|0
+osterweil|NN|BODY_2|0
+a basic model|DT JJ NN|BODY_7|0
+rules and mechanisms|NNS CC NNS|BODY_10|0
+22]|CD|BODY_5|0
+a module|DT NN|BODY_2|0
+their modules|PRP$ NNS|BODY_8|0
+a city|DT NN|BODY_13|0
+individuals|NNS|BODY_12|0
+changes conflict|NNS NN|BODY_1|0
+particular mechanisms and structures|JJ NNS CC NNS|BODY_1|0
+the important issues|DT JJ NNS|BODY_4|0
+those conflicts|DT NNS|BODY_4|0
+the semantic concerns|DT JJ NNS|BODY_4|0
+the length|DT NN|BODY_17|0
+more sophisticated policies|RBR JJ NNS|BODY_4|0
+our classification scheme|PRP$ NN NN|BODY_6|0
+activity coordination structures|NN NN NNS|BODY_6|0
+a small shared memory|DT JJ JJ NN|BODY_7|0
+the sdes|DT NNS|BODY_3|0
+much larger populations|RB JJR NNS|BODY_4|0
+special-purpose database|JJ NN|BODY_8|0
+the sections|DT NNS|BODY_3|0
+rcs|NNS|BODY_4|0
+neighborhoods|NNS|BODY_7|0
+categorizes environments|NNS NNS|ABSTRACT_5|0
+a partition|DT NN|BODY_2|0
+a much wider context (|DT JJ JJR NN -LRB-|BODY_6|0
+the essential details|DT JJ NNS|BODY_6|0
+a great deal|DT JJ NN|BODY_4|0
+a great degree|DT JJ NN|BODY_2|0
+policy decisions|NN NNS|BODY_4|0
+the underlying model|DT JJ NN|BODY_4|0
+the full life-cycle and project management issues|DT JJ NN CC NN NN NNS|BODY_4|0
+means|NNS|ABSTRACT_6|0
+various structures and mechanisms|JJ NNS CC NNS|BODY_13|0
+environments-the individual|DT NN|ABSTRACT_2|0
+module interfaces|JJ NNS|BODY_9|0
+. coordination|. NN|BODY_5|0
+unix )|NN -RRB-|BODY_4|0
+virtually no policies|RB DT NNS|BODY_4|0
+singleton experimental databases|JJ JJ NNS|BODY_3|0
+inscape [37|NN NNS|BODY_2|0
+more than 20 people|JJR IN CD NNS|BODY_5|0
+as|IN|BODY_7|0
+the inscape environment|DT NN NN|BODY_10|0
+the workspace|DT NN|BODY_6|0
+a continuum|DT NN|BODY_2|0
+too much difficulty|RB JJ NN|BODY_3|0
+the terms|DT NNS|BODY_3|0
+the interpretive environments|DT JJ NNS|BODY_3|0
+the interface|DT NN|BODY_4|0
+contract data base|NN NN NN|BODY_14|0
+{ file system|NN NN NN|BODY_18|0
+the farm workers|DT NN NNS|BODY_6|0
+primarily the numbers|RB DT NNS|BODY_10|0
+this situation|DT NN|BODY_3|0
+configuration control|NN NN|BODY_9|0
+the client|DT NN|BODY_1|0
+he|PRP|BODY_5|0
+'s experimental databases|POS JJ NNS|BODY_3|0
+the existence|DT NN|BODY_2|0
+a complex semantic interconnection structure|DT JJ JJ NN NN|BODY_4|0
+a contract database|DT NN NN|BODY_1|0
+clients|NNS|BODY_1|0
+component developers [47]|NN NNS NN|BODY_3|0
+more complex and more comprehensive higher-order structures|RBR JJ CC RBR JJ JJR NNS|BODY_3|0
+policy|NN|BODY_3|0
+the contract model|DT NN NN|BODY_1|0
+their contracts|PRP$ NNS|BODY_3|0
+these basic structures|DT JJ NNS|BODY_1|0
+this environment|DT NN|BODY_3|0
+this example|DT NN|BODY_1|0
+the desired policies|DT VBN NNS|BODY_5|0
+the consideration|DT NN|BODY_4|0
+a different policy|DT JJ NN|BODY_5|0
+environment generators|NN NNS|BODY_2|0
+mercury [23|NN NNS|BODY_2|0
+the interpreter|DT NN|BODY_6|0
+the tool|DT NN|BODY_7|0
+serious consequences|JJ NNS|BODY_17|0
+an extended set|DT JJ VBN|BODY_16|0
+some rules|DT NNS|BODY_13|0
+higher-level mechanisms|JJ NNS|BODY_6|0
+size|NN|BODY_9|0
+various distinctions|JJ NNS|BODY_7|1
+the individual components|DT JJ NNS|BODY_5|1
+the component modules|DT NN NNS|BODY_2|0
+'all projects|JJ NNS|BODY_2|0
+implementing|VBG|BODY_6|0
+batch|NN|BODY_3|0
+basic structures|JJ NNS|BODY_4|0
+many programmers|JJ NNS|BODY_11|0
+those policies|DT NNS|BODY_3|0
+a version control structure and configuration control mechanisms|DT NN NN NN CC NN NN NNS|BODY_3|0
+insight|NN|BODY_9|0
+activity coordination mechanisms|NN NN NNS|BODY_5|0
+special-purpose databases|NN NNS|BODY_6|0
+a special distributed algorithm|DT JJ VBN NN|BODY_5|0
+their software|PRP$ NN|BODY_12|0
+a new tool|DT JJ NN|BODY_8|0
+the term model|DT NN NN|BODY_4|0
+a specific model|DT JJ NN|BODY_5|0
+the term programmer|DT NN NN|BODY_11|0
+the right|DT NN|BODY_4|0
+classification and evaluation|NN CC NN|BODY_4|0
+conventions|NNS|BODY_3|0
+the rules , guidelines and strategies|DT NNS , NNS CC NNS|BODY_2|0
+explicitly the policies|RB DT NNS|BODY_11|0
+the deliverables|DT NNS|BODY_5|0
+a common kernel|DT JJ NN|BODY_3|0
+a multiple-user , language-oriented environment|DT JJ , JJ NN|BODY_3|0
+dynamic linking|JJ VBG|BODY_4|0
+extended toolkit environments|VBN NN NNS|BODY_7|0
+the higher-level models|DT JJ NNS|BODY_2|0
+the visible and underlying tools|DT JJ CC JJ NNS|BODY_6|0
+the individual , family and city classes|DT NN , NN CC NN NNS|BODY_11|0
+the lower-level structure|DT JJ NN|BODY_5|0
+only linked/loaded objects|RB VBN NNS|BODY_3|0
+the family model structure|DT NN NN NN|BODY_2|0
+maintaining software systems|VBG NN NNS|BODY_8|0
+possible models|JJ NNS|BODY_3|0
+supply|NN|BODY_6|0
+a uniform environment|DT JJ NN|BODY_2|0
+this structure|DT NN|BODY_18|0
+good historical reasons|JJ JJ NNS|BODY_2|0
+the managerial problems|DT JJ NNS|BODY_16|0
+the machinery|DT NN|BODY_4|0
+the specific validation tests|DT JJ NN NNS|BODY_7|0
+the form|DT NN|BODY_2|0
+evolution|NN|BODY_4|0
+an escape mechanism|DT NN NN|BODY_5|0
+the change management component|DT NN NN NN|BODY_9|0
+no formal facilities|DT JJ NNS|BODY_2|0
+(|-LRB-|BODY_12|0
+the framework|DT NN|BODY_4|0
+this purpose|DT NN|BODY_2|0
+the contracts|DT NNS|BODY_3|0
+a useful communication medium|DT JJ NN NN|BODY_3|0
+the size and complexity|DT NN CC NN|BODY_19|0
+a uniform development environment|DT JJ NN NN|BODY_12|0
+section 3|NN CD|BODY_1:BODY_7|0
+various points|JJ NNS|BODY_5|0
+a further distinction|DT JJ NN|BODY_2|0
+particular instances and collections|JJ NNS CC NNS|BODY_5|0
+trivial ways|JJ NNS|BODY_3|0
+the technical problems|DT JJ NNS|BODY_13|0
+the style|DT NN|BODY_3|0
+any user|DT NN|BODY_13|0
+the required deliverables|DT VBN NNS|BODY_2|0
+our discussion|PRP$ NN|BODY_2|0
+concentrate|NN|BODY_3|0
+a direct generalization|DT JJ NN|BODY_4|0
+tool fragments|NN NNS|BODY_7|0
+nothing|NN|BODY_4|0
+support city models|NN NN NNS|BODY_3|0
+hierarchy|NN|BODY_10|0
+the technical phases|DT JJ NNS|BODY_12|0
+large numbers|JJ NNS|BODY_14|0
+two orthogonal characterizations|CD JJ NNS|BODY_2|0
+a much larger population|DT RB JJR NN|BODY_19|0
+she|PRP|BODY_6|0
+the key aspect|DT JJ NN|BODY_4|0
+a common methodology and set|DT JJ NN CC NN|BODY_16|0
+their extreme flexibility|PRP$ JJ NN|BODY_2|0
+the software development process|DT NN NN NN|BODY_5:BODY_13|0
+others|NNS|BODY_4|0
+generated editors|VBN NNS|BODY_6|0
+mercury scales|NN NNS|BODY_1|0
+three components|CD NNS|BODY_2|0
+a reasonable way|DT JJ NN|BODY_8|0
+additional support|JJ NN|BODY_2|0
+object modules|NN NNS|BODY_5|0
+further distinctions|JJ NNS|BODY_3|0
+a single structure|DT JJ NN|BODY_2|0
+methodologies and management techniques|NNS CC NN NNS|BODY_9|0
+one level|CD NN|BODY_7|0
+the transformations|DT NNS|BODY_2|0
+the second|DT JJ|BODY_2|0
+the necessary cooperation|DT JJ NN|BODY_5|0
+a facade|DT NN|BODY_3|0
+a wide variety|DT JJ NN|BODY_9|0
+the four classes|DT CD NNS|BODY_4|0
+the unix file system )|DT NN NN NN -RRB-|BODY_11|0
+its tools|PRP$ NNS|BODY_21|0
+'s hierarchy|POS NN|BODY_3|0
+the granularity|DT NN|BODY_4|0
+the various mechanisms and structures|DT JJ NNS CC NNS|BODY_7|0
+those rules|DT NNS|BODY_7|0
+the programmer*|DT NN|BODY_3|0
+an efficient , concrete form|DT JJ , JJ NN|BODY_5|0
+another reason|DT NN|BODY_1|0
+implicit encoding|JJ NN|BODY_5|0
+larger groups|JJR NNS|BODY_5|0
+more comprehensive mechanisms and policies|JJR JJ NNS CC NNS|BODY_5|0
+programs|NNS|BODY_1|0
+the freedom appropriate|DT NN JJ|BODY_1|0
+the second case|DT JJ NN|BODY_1|0
+a management decision|DT NN NN|BODY_4|0
+change requests|NN NNS|BODY_13|0
+the taxonomy|DT NN|ABSTRACT_2|0
+the language|DT NN|BODY_1:BODY_3|0
+all|DT|BODY_19|0
+future research and development|JJ NN CC NN|BODY_2|0
+smooth interactions|JJ NNS|BODY_12|0
+the means|DT NNS|BODY_6|0
+intimations|NNS|BODY_3|0
+most activities|RBS NNS|BODY_4|0
+the fundamental question|DT JJ NN|BODY_2|0
+alex wolf|JJ NN|BODY_9|0
+make [13] )|NN NN -RRB-|BODY_12|0
+maria thompson|NN NN|BODY_8|0
+the basic structure|DT JJ NN|BODY_1|0
+the important distinction|DT JJ NN|BODY_1|0
+their careful readings|PRP$ JJ NNS|BODY_1|0
+their helpful comments and discussions|PRP$ JJ NNS CC NNS|BODY_1|0
+the unix tm system|DT NN NN NN|BODY_2|0
+the ways|DT NNS|ABSTRACT_7|0
+a top-down fashion|DT JJ NN|BODY_6|0
+the supporting structures|DT VBG NNS|BODY_4|0
+those sdes|DT NNS|BODY_7|0
+an integrated set|DT JJ NN|BODY_2|0
+a full solution|DT JJ NN|BODY_2|0
+the effect|DT NN|BODY_2|0
+the primary characteristic|DT JJ NN|BODY_2|0
+limitations|NNS|BODY_2|0
+these sdes|DT NNS|BODY_1|0
+real time|JJ NN|BODY_2|0
+'s configuration management database|POS NN NN NN|BODY_7|0
+cms.|VBG|BODY_9|0
+the sde.|DT NN|BODY_9|0
+the next ideally|DT JJ NN|BODY_2|0
+the building and evolving|DT NN CC NN|BODY_5|0
+complexity|NN|BODY_10|0
+a small degree|DT JJ NN|BODY_4|0
+the individual project|DT JJ NN|BODY_5|0
+the language-oriented tools|DT JJ NNS|BODY_11|0
+31]|NN|BODY_7|0
+property lists|NN NNS|BODY_6|0
+the language-oriented model|DT JJ NN|BODY_6|0
+run-time|NN|BODY_10|0
+the archetype|DT NN|BODY_2|0
+these three components|DT CD NNS|BODY_1|0
+a notion|DT NN|BODY_1|0
+example sdes|NN NNS|BODY_7|1
+a kernel|DT NN|BODY_13|0
+greater obstructions|JJR NNS|BODY_5|0
+the contractual model|DT JJ NN|BODY_15|0
+an early incarnation|DT JJ NN|BODY_20|0
+toolkit environments|NN NNS|BODY_7|0
+software systems )|NN NNS -RRB-|BODY_16|0
+construction|NN|BODY_4|0
+the road )|DT NN -RRB-|BODY_24|0
+apses ) [2]|NNS -RRB- NN|BODY_6|0
+productivity|NN|BODY_6|0
+the newly integrated structure|DT RB VBN NN|BODY_13|0
+more powerful|JJR JJ|BODY_8|0
+individual freedom|JJ NN|BODY_9|0
+the toolset|DT NN|BODY_19|0
+a level|DT NN|BODY_3|0
+this level|DT NN|BODY_2|0
+a system|DT NN|BODY_8|0
+these two models|DT CD NNS|BODY_2|0
+the underlying objects and object aggregates|DT JJ NNS CC NN NNS|BODY_9|0
+those objects or object aggregates|DT NNS CC NN NNS|BODY_3|0
+their suitability|PRP$ NN|BODY_3|0
+three interrelated components|CD JJ NNS|BODY_7|0
+this distinction|DT NN|BODY_1|0
+current software development environments|JJ NN NN NNS|ABSTRACT_9|0
+[42]|NN|BODY_6|0
+software construction|NN NN|BODY_6|0
+comprehensive semantic analysis and version control mechanisms|JJ JJ NN CC NN NN NNS|BODY_6|0
+the encompassing structure|DT NN NN|BODY_7|0
+the higher levels|DT JJR NNS|BODY_7|0
+contract model }|NN NN NN|BODY_10|0
+the specification|DT NN|BODY_5|0
+the simplest ( and chronologically|DT JJS -LRB- CC RB|BODY_1|0
+the trend|DT NN|BODY_1|0
+this general model|DT JJ NN|BODY_2|0
+the design and implementation|DT NN CC NN|BODY_5|0
+new structures|JJ NNS|BODY_4|0
+another example|DT NN|BODY_2|0
+the important classes|DT JJ NNS|ABSTRACT_4|0
+the complexity|DT NN|BODY_4|0
+four groups|CD NNS|BODY_2|0
+four groups*|CD NNS|BODY_2|0
+sccs versions|NNS NNS|BODY_11|0
+the mechanisms and policies|DT NNS CC NNS|BODY_8|0
+the integration|DT NN|BODY_6|0
+what kinds|WDT NNS|BODY_7|0
+our sdes|PRP$ NNS|BODY_5|0
+distributed model|VBN NN|BODY_1|0
+family { .*|NN NN NN|BODY_1|0
+, hard-wired|, JJ|BODY_4|0
+new policies|JJ NNS|BODY_6|0
+an increase|DT NN|BODY_5|0
+_ _ _ _ _|NN NN NN NN NN|BODY_14|0
+the viewpoint|DT NN|BODY_6|0
+an appropriate set|DT JJ NN|BODY_2|0
+programmer apprentices|NN NNS|BODY_1|0
+the most elaborate|DT RBS JJ|BODY_5|0
+files and databases|NNS CC NNS|BODY_10|0
+the version control database|DT NN NN NN|BODY_9|0
+this direct enforcement|DT JJ NN|BODY_2|0
+certainly many cases|RB JJ NNS|BODY_6|0
+a feeling|DT NN|BODY_2|0
+the same feeling|DT JJ NN|BODY_2|0
+one reason|CD NN|BODY_1|0
+project management environments|NN NN NNS|BODY_10|0
+precisely this problem|RB DT NN|BODY_2|0
+only a few rules|RB DT JJ NNS|BODY_10|0
+the management decision|DT NN NN|BODY_5|0
+mechanisms and policies|NNS CC NNS|BODY_6|0
+most research environments|JJS NN NNS|BODY_1|0
+additional structures|JJ NNS|BODY_1|0
+no interaction|DT NN|BODY_11|0
+our contention|PRP$ NN|BODY_2|0
+no rules|DT NNS|BODY_9|0
+additional tools|JJ NNS|BODY_4|0
+any other way|DT JJ NN|BODY_5|0
+new mechanisms and policies|JJ NNS CC NNS|BODY_6|0
+the farm|DT NN|BODY_6|0
+the distinctions|DT NNS|BODY_5|0
+this framework|DT NN|BODY_11|0
+the differences|DT NNS|BODY_1|0
+a decorated tree|DT VBN NN|BODY_5|0
+particular|JJ|BODY_1|0
+refine [46]|JJ NN|BODY_7|0
+her own policies|PRP$ JJ NNS|BODY_14|0
+problems|NNS|BODY_1|0
+individual { tool-induced policies* }|JJ JJ JJ NN NN|BODY_1|0
+the synthesizer generator [41]|DT NN NN NN|BODY_4|0
+our taxonomy|PRP$ NN|BODY_1|0
+editing commands|VBG NNS|BODY_15|0
+the source files|DT NN NNS|BODY_9|0
+the toolkit and interpretive models|DT NN CC JJ NNS|BODY_7|0
+10 )|CD -RRB-|BODY_16|0
+very large software development projects|RB JJ NN NN NNS|BODY_5|0
+programmer interaction|NN NN|BODY_10|0
+the intermediate , shared representation )|DT JJ , JJ NN -RRB-|BODY_10|0
+this strategy|DT NN|BODY_1|0
+toolpack [35]|NN NN|BODY_11|0
+workbenches|NNS|BODY_5|0
+their interdependencies|PRP$ NNS|BODY_8|0
+project management structures and mechanisms|NN NN NNS CC NNS|BODY_19|0
+the fundamental source|DT JJ NN|BODY_1|0
+the vehicles|DT NNS|BODY_9|0
+particular structures and mechanisms|JJ NNS CC NNS|BODY_7|0
+these methodologies and management techniques|DT NNS CC NN NNS|BODY_1|0
+the partitioning algorithm|DT NN NN|BODY_1|0
+that ( sub-) partitioning|DT -LRB- JJ NN|BODY_10|0
+the project master data base ( pmdb) [36]|DT NN NN NNS NN -LRB- JJ NN|BODY_1|0
+rather than|RB IN|BODY_11|0
+the toolkit|DT NN|BODY_1|0
+) concurrency control|-RRB- NN NN|BODY_5|0
+more complex structures|RBR JJ NNS|BODY_4|0
+useful comparisons and insights|JJ NNS CC NNS|BODY_3|0
+understanding and implementation|NN CC NN|BODY_6|0
+the disadvantage|DT NN|BODY_1|0
+integrated {|VBN NN|BODY_1|0
+39] and istar [10]|JJ CC JJ NN|BODY_4|0
+these groupings|DT NNS|BODY_16|0
+this increment|DT NN|BODY_1|0
+a farm|DT NN|BODY_1|0
+its left|PRP$ NN|BODY_21|0
+introduction|NN|BODY_1|0
+abstract to concrete|JJ TO JJ|BODY_12|0
+lisp or smalltalk [15]|NN CC NN NN|BODY_7|0
+software|NN|BODY_9|0
+new tools|JJ NNS|BODY_24|0
+a supported policy|DT VBN NN|BODY_3|0
+evaluation and tracking processes|NN CC NN NNS|BODY_6|0
+this kind|DT NN|BODY_1|0
+investigation|NN|BODY_5|0
+system development|NN NN|BODY_4|0
+reuse|NN|BODY_1|0
+a new environment|DT JJ NN|BODY_7|0
+any time|DT NN|BODY_8|0
+method-based environments|JJ NNS|ABSTRACT_8|0
+the contract structure|DT NN NN|BODY_1|0
+follows|VBZ|BODY_3|0
+our model and classification scheme|PRP$ NN CC NN NN|BODY_4|0
+the state class )|DT NN NN -RRB-|BODY_15|0
+'s network file system|POS NN NN NN|BODY_15|0
+the management issues|DT NN NNS|BODY_1|0
+this class|DT NN|BODY_4|0
+these aspects|DT NNS|BODY_1|0
+2.2 mechanisms mechanisms|CD NNS NNS|BODY_1|0
+a different strategy|DT JJ NN|BODY_1|0
+a decorated syntax tree|DT JJ NN NN|BODY_4|0
+lower-level support mechanisms|JJ NN NNS|BODY_16|0
+programmer coordination|NN NN|BODY_1|0
+the second characterization|DT JJ NN|BODY_1|0
+this orientation|DT NN|BODY_1|0
+nano-management issues|NN NNS|BODY_4|0
+a generic model|DT JJ NN|BODY_1|0
+a particular company|DT JJ NN|BODY_5|0
+general { policies|JJ NN NNS|BODY_1|0
+each non-leaf database|DT JJ NN|BODY_1|0
+a digital equipment corporation faculty award|DT JJ NN NN NN NN|BODY_11|0
+professor kaiser|NN NN|BODY_1|0
+a few architectures|DT JJ NNS|BODY_1|0
+the system objects|DT NN VBZ|BODY_9|0
+their city model environments|PRP$ NN NN NNS|BODY_5|0
+these problems|DT NNS|BODY_4|0
+secondary importance|JJ NN|BODY_8|0
+a local area network|DT JJ NN NN|BODY_13|0
+network links|NN NNS|BODY_5|0
+50]|CD|BODY_6|0
+very large systems|RB JJ NNS|BODY_4|0
+this lack|DT NN|BODY_1|0
+the main focus|DT JJ NN|BODY_1|0
+the purpose|DT NN|BODY_1|0
+these different models|DT JJ NNS|BODY_15|0
+virtually no restrictive policies|RB DT JJ NNS|BODY_1|0
+language-oriented { error prevention|JJ NN NN NN|BODY_1|0
+additional facilities|JJ NNS|BODY_26|0
+the product|DT NN|BODY_6|0
+a substantial part|DT JJ NN|BODY_1|0
+this partitioning|DT NN|BODY_1|0
+convenience|NN|BODY_1|0
+the individual and family classes|DT NN CC NN NNS|BODY_1|0
+the individual and family models|DT NN CC NN NNS|BODY_1|0
+this metaphor|DT NN|BODY_1|0
+the more complex structures|DT RBR JJ NNS|BODY_1|0
+a minimal set|DT JJ NN|BODY_1|0
+that set|DT NN|BODY_1|0
+contrast|NN|BODY_1|0
+the extended toolkit|DT JJ NN|BODY_4|0
+2.|CD|BODY_1|0
+the language-oriented environments|DT JJ NNS|BODY_1|0
+individual unix tools|JJ NN NNS|BODY_8|0
+editors , compilers , linker/loaders and debuggers|NNS , NNS , NNS CC NNS|BODY_4|0
+the basic mechanisms|DT JJ NNS|BODY_1|0
+another important point|DT JJ NN|BODY_1|0
+a large system|DT JJ NN|BODY_9|0
+these individual models|DT JJ NNS|BODY_4|0
+a higher-order policy|DT JJ NN|BODY_4|0
+transformational { transformational construction|JJ NN JJ NN|BODY_1|0
+{ intermediate representation/decorated syntax tree|NN JJ JJ NN NN|BODY_6|0
+'s implementation|POS NN|BODY_15|0
+the leaves|DT NNS|BODY_1|0
+the supporting structure*|DT JJ NN|BODY_5|0
+scratch|NN|BODY_7|0
+transformational environments|JJ NNS|BODY_10|0
+automatically partitions|RB NNS|BODY_1|0
+programming environments|NN NNS|BODY_2|0
+the rules|DT NNS|BODY_1|0
+the generality|DT NN|ABSTRACT_1|0
+that policy|DT NN|BODY_4|0
+a much more serious issue|DT RB RBR JJ NN|BODY_7|0
+a slightly different kind|DT RB JJ NN|BODY_1|0
+its parent|PRP$ NN|BODY_4|0
+the conflicts|DT NNS|BODY_1|0
+within a module|IN DT NN|BODY_4|0
+these|DT|BODY_1|0
+an existing environment|DT VBG NN|BODY_8|0
+security measures|NN NNS|BODY_1|0
+individual , family , city and state|NN , NN , NN CC NN|BODY_4|0
+simple structures|JJ NNS|BODY_1|0
+most cases|JJS NNS|BODY_1|0
+place|NN|BODY_5|0
+example )|NN -RRB-|BODY_10|0
+at least one case|IN JJS CD NN|BODY_1|0
+programmers and tools|NNS CC NNS|BODY_12|0
+several ways [24]|JJ NNS NNS|BODY_4|0
+2.1 policies policies|CD NNS NNS|BODY_1|0
+this requirement|DT NN|BODY_1|0
+both cases|DT NNS|BODY_1|0
+3.3|CD|BODY_1|0
+the proposed state model|DT VBN NN NN|BODY_4|0
+the advantage|DT NN|ABSTRACT_1|0
+the interpretive|DT NN|BODY_6|0
+them*|NN|BODY_6|0
+rcs databases|NNS NNS|BODY_8|0
+integration testing|NN NN|BODY_20|0
+commonality policies|NN NNS|BODY_9|0
+contract support tools|NN NN NNS|BODY_12|0
+cooperation mechanisms|NN NNS|BODY_12|0
+cooperation policies|NN NNS|BODY_10|0
+coordination mechanisms|NN NNS|BODY_4|0
+enforced and voluntary cooperation }|VBN CC JJ NN NN|BODY_2|0
+extended toolkit model|VBN NN NN|BODY_1|0
+network mechanisms|NN NNS|BODY_4|0
+project management model|NN NN NN|BODY_1|0
+support activity coordination }|NN NN NN NN|BODY_3|0
+support version/configuration control }|NN NN NN NN|BODY_3|0
+version/configuration management }|NN NN NN|BODY_5|0
+our classification|PRP$ NN|BODY_1|0
+3.4|CD|BODY_1|0
+little|JJ|BODY_1|0
+project management issues|NN NN NNS|BODY_6|0
+the analogy|DT NN|BODY_1|0
+toolkit model|NN NN|BODY_6|0
+ergo [44] and pds [3]|NN NNS CC NNS NNS|BODY_9|0
+multiple-user interpretive environments|JJ JJ NNS|BODY_2|0
+unix pwb [8] )|NN NN NN -RRB-|BODY_5|0
+the first|DT JJ|BODY_1|0
+the exact interaction|DT JJ NN|BODY_1|0
+various needs arise|JJ NNS VBP|BODY_5|0
+2.3 structures|CD NNS|BODY_1|0
+their intended policies|PRP$ JJ NNS|BODY_8|0
+those systems|DT NNS|BODY_19|0
+3.1|CD|BODY_1|0
+higher-order structures|JJR NNS|BODY_1|0
+the primary concern|DT JJ NN|BODY_1|0
+other ways|JJ NNS|BODY_11|0
+the first case|DT JJ NN|BODY_1|0
+most sdes|JJS NNS|BODY_1|0
+before|IN|BODY_15|0
+few distinctions|JJ NNS|BODY_9|0
+one fact|CD NN|BODY_1|0
+particular instances|JJ NNS|BODY_5|0
+section 2|NN CD|BODY_1|1
+section 4|NN CD|BODY_1|0
+our metaphorical classification scheme|PRP$ JJ NN NN|BODY_8|0
+sdes )|NNS -RRB-|BODY_8|0
+relatively little|RB JJ|BODY_1|0
+little work|JJ NN|BODY_1|0
+last|JJ|BODY_1|0
+several difficulties|JJ NNS|BODY_2|0
+a specification|DT NN|BODY_6|0
+its parent database|PRP$ NN NN|BODY_4|0
+the enforcement mechanisms|DT NN NNS|BODY_6|0
+this end|DT NN|BODY_1|0
+existing systems|VBG NNS|BODY_8|0
+comparing and contrasting software development environments|NN CC NN NN NN NNS|ABSTRACT_7|0
+large-scale projects|JJ NNS|BODY_9|0
+non-essential details|JJ NNS|BODY_1|0
+other policies|JJ NNS|BODY_8|0
+subtasks and activities|NNS CC NNS|BODY_6|0
+the anarchy|DT NN|BODY_11|0
+3.2|CD|BODY_1|0
+the most elaborate instance|DT RBS JJ NN|BODY_1|0
+the task|DT NN|BODY_7|0
+these rules and strategies|DT NNS CC NNS|BODY_1|0
+the following analogy|DT VBG NN|BODY_1|0

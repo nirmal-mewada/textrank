@@ -1,0 +1,290 @@
+that|WDT|BODY_6:BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|5
+we|PRP|BODY_16:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1|11
+which|WDT|BODY_5:BODY_27:BODY_26:BODY_3:BODY_4:BODY_7:BODY_8|4
+it|PRP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+packageblast|NN|BODY_15:TITLE_1:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4|3
+)|-RRB-|BODY_28:BODY_17:BODY_2:BODY_3:BODY_14:BODY_10:BODY_8|0
+pi|NN|BODY_11:BODY_16:BODY_13:BODY_25:BODY_3:BODY_10:BODY_8|0
+work units|NN NNS|BODY_5:BODY_2:BODY_3:BODY_8|0
+one|CD|BODY_2:BODY_8|3
+pss|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|1
+blast|NN|BODY_5:BODY_1:BODY_4:BODY_7|1
+the sequences|DT NNS|BODY_6:BODY_3:BODY_4|1
+them|PRP|BODY_6:BODY_4:BODY_9|0
+s|PRP|BODY_6:BODY_4:BODY_9|0
+the number|DT NN|BODY_5:BODY_3:BODY_4|1
+the grid|DT NN|BODY_2:BODY_3|0
+blast searches|NN NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_3:BODY_7|3
+ss|NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+grid applications|NN NNS|BODY_1:BODY_3:BODY_7|0
+slaves|NNS|BODY_6:BODY_5:BODY_3:BODY_4|0
+local workload|JJ NN|BODY_5:BODY_2:BODY_3:BODY_9|1
+there|EX|BODY_1:BODY_3:BODY_4|2
+a(n|NN|BODY_5:BODY_13:BODY_1:BODY_4|0
+all segments|DT NNS|BODY_2|0
+the master|DT NN|BODY_6:BODY_1:BODY_3|0
+the nodes|DT NNS|BODY_12:BODY_6:ABSTRACT_6:BODY_2|1
+two sequences|CD NNS|BODY_5:BODY_2|0
+the work units|DT NN NNS|BODY_6:BODY_2:BODY_4|0
++1|NNP|BODY_11:BODY_4:BODY_9|0
+a master/slave application|DT NN NN|BODY_5:BODY_2|0
+grids|NNS|BODY_6:BODY_2:BODY_3|1
+the length|DT NN|BODY_5:BODY_17:BODY_14|0
+database segments|NN NNS|BODY_6:BODY_11:BODY_30|0
+m|NN|BODY_6:BODY_21:BODY_7|0
+sequences|NNS|BODY_2:BODY_10:BODY_4:BODY_9|0
+alignments|NNS|BODY_2|0
+n|NN|BODY_2:BODY_10:BODY_9|0
+nodes|NNS|BODY_12:BODY_11:BODY_3|1
+p )|NN -RRB-|BODY_12:BODY_5:BODY_2:BODY_9|0
+the blast sequential version|DT NN JJ NN|BODY_2|0
+the recent alignment history|DT JJ NN NN|BODY_2|0
+the sequence comparison problem|DT NN NN NN|BODY_2|0
+the total execution time|DT JJ NN NN|BODY_2|0
+the slaves|DT NNS|BODY_2:BODY_4|0
+the chosen allocation policy|DT VBN NN NN|BODY_6:ABSTRACT_4:BODY_7|2
+4 nodes 8|CD VBZ CD|BODY_2|0
+each node|DT NN|BODY_2:BODY_4:BODY_9|0
+smaller size|JJR NN|BODY_6:BODY_5:BODY_9|0
+a g|DT VBG|BODY_4:BODY_7|0
+very good speedups|RB JJ NNS|ABSTRACT_2:BODY_9|0
+si|FW|BODY_16:BODY_2:BODY_14|0
+’|DT|BODY_11:BODY_21|0
+weights|NNS|BODY_5:BODY_3:BODY_7|1
+pss strategy|NN NN|BODY_4:BODY_7|0
+the concepts|DT NNS|BODY_2|0
+the design|DT NN|BODY_2|0
+three steps|CD NNS|BODY_2|0
+the impact|DT NN|BODY_5:BODY_2|0
+hsps|NNS|BODY_2|0
+the results|DT NNS|BODY_1:BODY_2|0
+p|NN|BODY_11:BODY_4|0
+millions|NNS|BODY_2:BODY_4|1
+the weight|DT NN|BODY_13:BODY_2:BODY_9|0
+the module|DT NN|BODY_2:BODY_1|0
+the grid nodes|DT NN NNS|BODY_3:BODY_4|1
+a set|DT NN|BODY_5:BODY_2|0
+a de facto standard|DT FW FW JJ|BODY_3|0
+an open source project|DT JJ NN NN|BODY_2|0
+many task allocation policies|JJ NN NN NNS|BODY_2|1
+the fixed [13] strategy|DT VBN NN NN|BODY_2|0
+the use|DT NN|BODY_2|1
+the lowest execution times|DT JJS NN NNS|ABSTRACT_4|0
+grid nodes execution weight|NN NNS NN NN|ABSTRACT_3:BODY_3|1
+allocate( m|DT NN|BODY_2:BODY_9|0
+a framework|DT NN|BODY_2:BODY_3|1
+formatdb|NN|BODY_6|0
+the user|DT NN|BODY_1:BODY_3|0
+five allocation policies|CD NN NNS|BODY_2:BODY_3|0
+the database|DT NN|BODY_5:BODY_3:BODY_4|0
+a grid|DT NN|BODY_3:BODY_8|1
+the master node|DT NN NN|BODY_1:BODY_4|0
+( table 5 )|-LRB- NN CD -RRB-|BODY_2|0
+grid nodes|NN NNS|BODY_2:BODY_7|0
+the blast algorithm blast|DT NN NN NN|BODY_2|0
+pss.|VBG|BODY_14:BODY_4:BODY_8|0
+the last â„|DT JJ NN|BODY_5:BODY_22:BODY_7|0
+groups|NNS|BODY_3:BODY_9|0
+a query sequence|DT NN NN|BODY_2|0
+ncbi blast 2.2.10|JJ NN CD|BODY_4|0
+pss varying ï„|JJ VBG NNS|BODY_3|0
+the cycle number|DT NN NN|BODY_4|0
+programs|NNS|BODY_6:BODY_2|0
+a very recent history|DT RB JJ NN|BODY_2|0
+â„ ¦ ( section|JJ NN -LRB- NN|BODY_4|0
+a grid service|DT NN NN|BODY_6:BODY_19|1
+notifications|NNS|BODY_6:BODY_23:BODY_8|0
+the allocation policy|DT NN NN|BODY_6:BODY_2|0
+a 16-node grid|DT JJ NN|BODY_2|0
+all work units|DT NN NNS|BODY_3|0
+si , n|FW , NN|BODY_10:BODY_7|0
+the best execution time|DT JJS NN NN|BODY_6:BODY_9|0
+globus 3 [4 ]|NN CD CD NN|BODY_2|0
+an algorithm ( sw)|DT NN -LRB- NN|BODY_3|1
+account|NN|BODY_11:BODY_3|0
+no allocation policy|DT NN NN|BODY_4|1
+only the last one|RB DT JJ CD|BODY_2|0
+this|DT|BODY_2:BODY_1|1
+16 nodes|CD VBZ|BODY_3|0
+database sequences|NN NNS|BODY_2|0
+dynamic programming|JJ NN|BODY_4|1
+figure 4|NN CD|BODY_1|0
+the function|DT NN|BODY_2|0
+their scores|PRP$ NNS|BODY_4|0
+every slave node|DT NN NN|BODY_6|0
+1|CD|BODY_2:BODY_4|0
+every slave grid node|DT NN NN NN|BODY_3|0
+256 mb 30 gb|CD NN CD JJ|BODY_6|0
+the previous case|DT JJ NN|BODY_4|0
+the node|DT NN|BODY_2:BODY_1|0
+self scheduling|NN NN|BODY_3|1
+two laboratories|CD NNS|BODY_3|0
+a c g|DT NN VBG|BODY_2|0
+[14]|NNP|BODY_2|1
+linux|NN|BODY_2|0
+words|NNS|BODY_4|0
+256 mb 20 gb|CD NN CD JJ|BODY_11|0
+basic local alignment tool|JJ JJ NN NN|BODY_3|0
+a single work unit|DT JJ NN NN|BODY_5|0
+the whole database|DT JJ NN|BODY_6|0
+no single allocation strategy|DT JJ NN NN|ABSTRACT_3|0
+a segmented database|DT JJ NN|BODY_7|1
+simultaneously 30 seconds|RB CD NNS|BODY_2|0
+a work unit|DT NN NN|BODY_8|0
+]|SYM|BODY_2|1
+clusters|NNS|BODY_3|1
+processors|NNS|BODY_3|0
+tasks|NNS|BODY_2|0
+tss|NN|BODY_5:BODY_1|0
+1.67 3.61 7.53 14.59|CD CD CD CD|BODY_6|0
+an infrastructure|DT NN|ABSTRACT_3:BODY_3|0
+5 and 6 )|CD CC CD -RRB-|BODY_8|0
+each round ( equation|DT NN -LRB- NN|BODY_4|0
+possible the creation|JJ DT NN|BODY_7|0
+the pss behavior|DT JJ NN|BODY_3|0
+tss and fac2 )|NN CC NN -RRB-|BODY_6|0
+128 mb 20 gb|CD NN CD JJ|BODY_13|0
+clear the correspondence|JJ DT NN|BODY_8|0
+l01-04 )|NNS -RRB-|BODY_6|0
+p01-11 )|NN -RRB-|BODY_2|0
+the heterogeneity|DT NN|BODY_5:BODY_1|0
+medical sciences|JJ NNS|ABSTRACT_5|0
+systems ]|NNS NNS|ABSTRACT_2|0
+the processing|DT NN|BODY_5|0
+the slave|DT NN|BODY_1:BODY_3|0
+the block reduction factor|DT NN NN NN|BODY_6|0
+main memory|JJ NN|BODY_2|0
+the comparison|DT NN|BODY_2|0
+the last task|DT JJ NN|BODY_3|0
+the sum|DT NN|BODY_2|0
+a potential|DT JJ|BODY_5|0
+dedicated resources|JJ NNS|BODY_3|0
+the best allocation policy|DT JJS NN NN|BODY_2|0
+scenario 2|NN CD|BODY_2|0
+the most important components|DT RBS JJ NNS|BODY_3|1
+the remaining work units|DT VBG NN NNS|BODY_3|0
+an alignment|DT NN|BODY_1:BODY_14|0
+gss|NN|BODY_5:BODY_4|0
+the average computing time|DT JJ NN NN|BODY_19|0
+a pre-defined allocation policy|DT JJ NN NN|BODY_3|0
+the pre-defined allocation policies|DT JJ NN NNS|BODY_3|0
+fac2|NN|BODY_6:BODY_1|0
+many independent work units|JJ JJ NN NNS|BODY_4|0
+very good performance gains|RB JJ NN NNS|BODY_4|1
+the application access pattern|DT NN NN NN|BODY_3|0
+who|WP|BODY_6|0
+execution and waits|NN CC NNS|BODY_2|0
+a master/slave grid application|DT NN NN NN|BODY_2|0
+workload|NN|BODY_5:BODY_13|0
+each work unit retrieval|DT NN NN NN|BODY_4|0
+some|DT|BODY_2|0
+interoperability|NN|BODY_5|0
+a bottleneck|DT NN|BODY_4|0
+pss 2x strategy|NN JJ NN|BODY_4|0
+low impact|JJ NN|BODY_5:BODY_3|0
+5.56 %|CD NN|BODY_3|0
+a four-node ( nb|DT JJ -LRB- NN|BODY_3|0
+l02|NNS|BODY_7|0
+the division|DT NN|BODY_2|0
+parameters|NNS|BODY_2|0
+the internet|DT NN|BODY_2|0
+these databases|DT NNS|BODY_16|0
+nb 3200 mhz|JJ CD NN|BODY_3|0
+how many work units|WRB JJ NN NNS|BODY_4|0
+task allocation|NN NN|BODY_3:BODY_4|1
+5mb|CD|BODY_5|0
+âˆ —|IN NN|BODY_12|0
+the maximal score|DT JJ NN|BODY_4|0
+packageblast segmentation|NN NN|BODY_8|0
+dna and protein databases|NN CC NN NNS|BODY_7|0
+execution time|NN NN|BODY_4|1
+its new segments|PRP$ JJ NNS|BODY_4|0
+rate ( workerrate )|NN -LRB- NN -RRB-|BODY_8|0
+ï„ ) min( â„¦|NN -RRB- NN NNP|BODY_14|0
+globus 3|NN CD|BODY_4:BODY_20|0
+two|CD|BODY_2|0
+implementations|NNS|BODY_2|0
+the selected allocation strategy|DT VBN NN NN|BODY_8|0
+the number and diversity|DT NN CC NN|BODY_5|1
+protein protein none|NN NN NN|BODY_4|0
+the most important problems|DT RBS JJ NNS|BODY_3|1
+a geographically dispersed grid|DT RB VBN NN|BODY_4|0
+a particular slave node|DT JJ NN NN|BODY_5|0
+self-scheduling ( gss) [11]|JJ -LRB- NN NN|BODY_7|0
+[ life|JJ NN|ABSTRACT_4|0
+distributed applications|VBN NNS|ABSTRACT_3|0
+some work allocation policies|DT NN NN NNS|BODY_25|0
+the processing time|DT NN NN|BODY_7|0
+labpos|NNS|BODY_4|0
+( equation 12 )|-LRB- NN CD -RRB-|BODY_5|0
+3|CD|BODY_8|0
+section 4 discusses|NN CD NNS|BODY_1|0
+the allocation framework|DT NN NN|BODY_2|0
+the packageblast architecture|DT NN NN|BODY_2|0
+the nr genetic database|DT JJ JJ NN|BODY_2|0
+î¦( m|JJ NN|BODY_2:BODY_10|0
+sensibility|NN|BODY_6:BODY_5|0
+respectively ( equations|RB -LRB- NNS|BODY_7|0
+all the values|DT DT NNS|BODY_3|0
+the rate|DT NN|BODY_2:BODY_7|0
+si ) p i=1|FW -RRB- NN NN|BODY_20|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|2
+l04|NNS|BODY_5|0
+the first grid service|DT JJ NN NN|BODY_3|1
+the sensitivity and speed|DT NN CC NN|BODY_5|0
+two allocation policies|CD NN NNS|BODY_4|0
+a database archive|DT NN NN|BODY_3|0
+non-dedicated and heterogeneous resources|JJ CC JJ NNS|BODY_6|0
+allocation policies|NN NNS|BODY_2:BODY_4|0
+the best results|DT JJS NNS|BODY_5|0
+seeds|NNS|BODY_1:BODY_3|0
+computation|NN|BODY_2|0
+the best local alignment|DT JJS JJ NN|BODY_4|0
+associates data fragments|NNS NNS NNS|BODY_2|1
+cooperative and secure sharing|JJ CC JJ NN|BODY_5|0
+a slow node|DT JJ NN|BODY_3|0
+a new architecture|DT JJ NN|BODY_2|0
+the task allocation problem|DT NN NN NN|BODY_1|0
+reports|NNS|BODY_2:BODY_4|0
+data accesses times|NNS NNS NNS|BODY_4|0
+the average computation time|DT JJ NN NN|BODY_28|0
+alignment seeds|NN NNS|BODY_3|0
+globus 3.2.1|NN CD|BODY_3|0
+ogsa )|NNP -RRB-|BODY_3|0
+percentual gain|JJ NN|BODY_2|0
+execution times|NN NNS|BODY_2:BODY_1|0
+the queries|DT NNS|BODY_1:BODY_3|0
+protein nucleotide query|NN JJ NN|BODY_5|0
+the other making|DT JJ VBG|BODY_7|0
+times|NNS|BODY_6|0
+grid environment knowledge|NN NN NN|BODY_9|0
+the current computational power|DT JJ JJ NN|ABSTRACT_5|1
+a database fragment|DT NN NN|BODY_2|0
+512 mb|CD NN|BODY_4|0
+the previous module|DT JJ NN|BODY_3|0
+a single machine|DT JJ NN|BODY_6|0
+the nr unsegmented database|DT NN JJ NN|BODY_3|0
+p ) âˆ —|NN -RRB- NN NN|BODY_6|0
+3 ) execution|CD -RRB- NN|BODY_11|0
+167 parts|CD NNS|BODY_4|0
+thousands|NNS|BODY_2|0
+30.88 min|CD NN|BODY_5|0
+resource sharing|NN NN|BODY_4|0
+the master m|DT NN NN|BODY_31|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the preceeding iteration|DT NN NN|BODY_10|0
+a minimum number|DT JJ NN|BODY_2|0
+the maximum imbalance|DT NN NN|BODY_6|0
+) = max|-RRB- SYM NN|BODY_2|0
+exact local sequence alignments|JJ JJ NN NNS|BODY_1|1
+the best resources|DT JJS NNS|BODY_2|0
+defines|NNS|BODY_3|0
+portions|NNS|BODY_3|0
+a particular application|DT JJ NN|BODY_3|0
+the slave nodes|DT NN NNS|BODY_4|0
+blastx|NN|BODY_17:BODY_3|0
+four desktops|CD NNS|BODY_5|0
+allocates|NNS|BODY_2|0
+the environment|DT NN|BODY_6:BODY_4|0
+this context|DT NN|BODY_2|1
+without pss|IN NN|BODY_3|0

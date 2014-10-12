@@ -1,0 +1,107 @@
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|8
+that|WDT|BODY_12:BODY_6:BODY_5:ABSTRACT_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the number|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+security|NN|BODY_5:ABSTRACT_4:BODY_2:ABSTRACT_3:ABSTRACT_7|2
+this paper|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_8|1
+the network|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_25:BODY_8:BODY_9|0
+publish/subscribe systems|NN NNS|BODY_2:BODY_3:ABSTRACT_1:BODY_4|0
+the use|DT NN|ABSTRACT_5:BODY_2:BODY_3:BODY_4|0
+dynamic multi-domain publish/subscribe networks|JJ JJ NN NNS|TITLE_2|0
+the event transport network|DT NN NN NN|ABSTRACT_3|0
+it|PRP|BODY_12:BODY_11:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8|0
+access|NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|2
+the event|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+events|NNS|BODY_6:BODY_5:BODY_17:BODY_2:BODY_3:BODY_4:BODY_7|1
+access control|NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|3
+the broker network|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|3
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|1
+attribute encryption|VBP NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|1
+the event content|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+brokers|NNS|BODY_12:BODY_11:BODY_5:BODY_1:BODY_24:BODY_3:BODY_4|0
+the event type|DT NN NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+attributes|NNS|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8:BODY_9|0
+the encryption key|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+encryption|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the brokers|DT NNS|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+both|DT|BODY_5:BODY_1:BODY_2:BODY_3|1
+event encryption|NN NN|BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+.e|FW|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8|0
+the local broker|DT JJ NN|BODY_16:BODY_2:BODY_3:BODY_4:BODY_7|0
+the client|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7:BODY_8|0
+a set|DT NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+them|PRP|BODY_6:BODY_7:BODY_8:BODY_9|0
+an event|DT NN|BODY_5:BODY_17:BODY_10:BODY_4:BODY_7|0
+event content|NN NN|BODY_6:BODY_11:BODY_1:BODY_3:BODY_4|4
+the encryption keys|DT NN NNS|BODY_6:BODY_5:BODY_21:BODY_2:BODY_8|1
+the broker|DT NN|BODY_5:BODY_1:BODY_2:BODY_10:BODY_8|0
+this|DT|BODY_2:BODY_1:BODY_4|0
+multi-domain publish/subscribe systems|JJ NN NNS|BODY_3|2
+the system|DT NN|BODY_6:BODY_2:BODY_4:BODY_7:BODY_8|1
+a multi-domain publish/subscribe system|DT JJ NN NN|BODY_6:BODY_3|1
+the plaintext|DT NN|BODY_6:BODY_5:BODY_4:BODY_7:BODY_8|0
+subscribers|NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10|0
+time|NN|BODY_5:BODY_22:BODY_27:BODY_13:BODY_3|0
+the event type identifier|DT NN NN NN|BODY_2:BODY_1:BODY_3|0
+the key|DT NN|BODY_6:BODY_1:BODY_2:BODY_7|0
+there|EX|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|0
+the subscriber|DT NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_9|0
+the attributes|DT NNS|BODY_12:BODY_6:BODY_2:BODY_4:BODY_7|0
+the publisher|DT NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+fig|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the eax mode|DT JJ NN|BODY_1:BODY_3:BODY_4|0
+our implementation|PRP$ NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+unauthorised brokers|JJ NNS|BODY_2:BODY_4:BODY_7:BODY_9|0
+numberplate events|VB NNS|BODY_5:BODY_4:BODY_8|0
+i .e|FW FW|BODY_4:BODY_8|0
+event content encryption|NN NN NN|BODY_5:BODY_11:BODY_2:BODY_3|0
+a broker|DT NN|BODY_1:BODY_3:BODY_4:BODY_8|0
+the publish/subscribe system|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_4|0
+a given event type|DT VBN NN NN|BODY_3:BODY_4:BODY_9|0
+the underlying block cipher|DT VBG NN NN|BODY_3:BODY_4|0
+epsrc ( gr/t28164 )|NN -LRB- NN -RRB-|BODY_2|0
+a full plaintext cache|DT JJ NN NN|BODY_4|0
+the event type owner|DT NN NN NN|BODY_1:BODY_2|0
+one|NN|BODY_5:BODY_2:BODY_3|0
+a wide geographic (|DT JJ JJ -LRB-|BODY_5|0
+the event delivery service|DT NN NN NN|BODY_2|0
+the publisher hosting broker|DT NN VBG NN|BODY_3|0
+the encrypted event content|DT VBN NN NN|BODY_5:BODY_3|0
+the key group manager|DT JJ NN NN|BODY_2:BODY_1|0
+the congestion charge service|DT NN NN NN|BODY_2|0
+i )|FW -RRB-|BODY_2:BODY_3|0
+the specific test setups|DT JJ NN NNS|BODY_2|0
+a message authentication tag|DT NN NN NN|BODY_4:BODY_7|0
+the overall message throughput|DT JJ NN NN|BODY_3|0
+the end-to-end overhead test|DT NN NN NN|BODY_2|0
+the certificate validity conditions|DT NN NN NNS|BODY_3|0
+the client hosting brokers|DT NN NN NNS|BODY_5:BODY_3|0
+the amount|DT NN|BODY_5:BODY_26:BODY_2|0
+emulating attribute encryption age|VBG VBP NN NN|BODY_9|0
+a shared publish/subscribe system|DT VBN NN NN|BODY_5|0
+a more efficient implementation|DT RBR JJ NN|BODY_1|0
+by access control policies|IN NN NN NNS|BODY_2|0
+epsrc ( gr/s94919 )|NN -LRB- CD -RRB-|BODY_2|0
+fine-grained access control policies|JJ NN NN NNS|BODY_2|0
+its own marshalling mechanism|PRP$ JJ NN NN|BODY_2|0
+a new member|DT JJ NN|BODY_2:BODY_4|0
+event and attribute encryption|NN CC NN NN|BODY_2|0
+the aes block size|DT NNS NN NN|BODY_11|0
+the previous key refresh|DT JJ NN JJ|BODY_6|0
+this test|DT NN|BODY_2:BODY_1:BODY_8|0
+the algorithm|DT NN|BODY_6:BODY_2:BODY_1:BODY_8|0
+the key management protocol|DT JJ NN NN|BODY_3|0
+an event type identifier|DT NN NN NN|BODY_2|0
+scalable key management protocols|JJ JJ NN NNS|BODY_3|0
+time actual leave time|NN JJ NN NN|BODY_8|0
+the same encryption key|DT JJ NN NN|BODY_14|0
+fewer independent cryptographic operations|JJR JJ JJ NNS|BODY_3|0
+the total running time|DT JJ JJ NN|BODY_5|0
+equivalent security privileges identifier|JJ NN NNS NN|BODY_28|0
+extra traffic and processing|JJ NN CC NN|BODY_3|0
+the metropolitan police domain|DT JJ NN NN|BODY_3|0
+a key group|DT JJ NN|BODY_4:BODY_9|0
+our multi-domain publish/subscribe deployment|PRP$ JJ NN NN|BODY_16|0
+their integrity and authenticity|PRP$ NN CC NN|BODY_6|0
+relatively little publish/subscribe research|RB JJ NN NN|BODY_4|0
+the multi-domain publish/subscribe network|DT JJ NN NN|BODY_2|0

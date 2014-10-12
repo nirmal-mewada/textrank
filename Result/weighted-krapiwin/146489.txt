@@ -1,0 +1,188 @@
+suit|NN|BODY_11:BODY_16:BODY_18:BODY_13:TITLE_2:BODY_26:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|3
+we|PRP|BODY_12:BODY_11:BODY_16:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_8:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|11
+which|WDT|BODY_12:BODY_11:BODY_15:ABSTRACT_3:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|2
+they|PRP|BODY_12:BODY_6:BODY_5:ABSTRACT_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|3
+users|NNS|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|2
+who|WP|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_19:BODY_4:BODY_10:BODY_8:BODY_9|0
+the programmer|DT NN|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_4:BODY_8|0
+the computer science community|DT NN NN NN|ABSTRACT_2|0
+an interactive layout editor|DT JJ NN NN|ABSTRACT_5|0
+an external control uims|DT JJ NN NNS|ABSTRACT_4|0
+a c subroutine library|DT NN JJ NN|ABSTRACT_2|0
+less than three hours|JJR IN CD NNS|ABSTRACT_5|0
+it|PRP|BODY_12:BODY_11:BODY_16:BODY_2:BODY_3:BODY_14:BODY_4:BODY_33:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_30:BODY_9|4
+that|WDT|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|3
+this|DT|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_9|2
+the user|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+them|PRP|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+an object|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9:BODY_20|2
+property setting and linkage|NN NN CC NN|BODY_6|1
+a user interface toolkit|DT NN NN NN|BODY_1:BODY_9|1
+'s test> ) {|POS NN -RRB- JJ|BODY_8|1
+internal control  applications|JJ NN NN NNS|BODY_3|1
+our most important contribution|PRP$ RBS JJ NN|BODY_4|1
+the next two sections|DT JJ CD NNS|BODY_3|1
+procedural and interactive operations|JJ CC JJ NNS|BODY_5|1
+some basic suit objects|DT JJ NN NNS|BODY_1|1
+our most important observation|PRP$ RBS JJ NN|BODY_1|1
+the property|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+students|NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+objects|NNS|BODY_6:BODY_1:BODY_2:BODY_4:BODY_10:BODY_8|0
+a property|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+a bounded value object|DT VBN NN NN|BODY_2:BODY_3|0
+a general linkage mechanism|DT JJ NN NN|BODY_2|0
+the fixed three levels|DT VBN CD NNS|BODY_2|0
+the implementation many times|DT NN JJ NNS|BODY_2|0
+our more advanced users|PRP$ JJR JJ NNS|BODY_3|0
+a command-line prompt interface|DT NN JJ NN|BODY_6|0
+a distinct property lists|DT JJ NN NNS|BODY_4|0
+each suit-provided property name|DT JJ NN NN|BODY_12|0
+a similar approach [bass]|DT JJ NN NN|BODY_2|0
+concrete , visible items|JJ , JJ NNS|BODY_2|0
+creation and composition users|NN CC NN NNS|BODY_1|0
+the first common problem|DT JJ JJ NN|BODY_1|0
+the property editor students|DT NN NN NNS|BODY_1|0
+a type-specific dialog box|DT JJ NN NN|BODY_9|0
+a constant twenty pixels|DT JJ CD NNS|BODY_5|0
+yes trash figure 5|UH NN NN CD|BODY_24|0
+these different screen objects|DT JJ NN NNS|BODY_3|0
+furlich , rich gossweiler|JJ , JJ NN|BODY_5|0
+the quick brown fox|DT JJ JJ NN|BODY_27|0
+ cultural  lesson|JJ JJ JJ NN|BODY_6|0
+some direct manipulation operations|DT JJ NN NNS|BODY_8|0
+{ simple  clip_to_viewport|JJ JJ JJ NN|BODY_18|0
+beyond most current systems|IN JJS JJ NNS|BODY_14|0
+the old menu move|DT JJ NN NN|BODY_3|0
+the following display styles|DT JJ NN NNS|BODY_14|0
+known  design principles|VBN RB NN NNS|BODY_6|0
+human-readable ascii text file|JJ NN NN NN|BODY_3|0
+special characters and effects|JJ NNS CC NNS|BODY_7|0
+the only existing skill|DT RB VBG NN|BODY_3|0
+only one display style|RB CD NN NN|BODY_2:BODY_10|0
+the scrollbar display style|DT JJ NN NN|BODY_5|0
+good software engineering principles|JJ NN NN NNS|BODY_3|0
+an abstract data type|DT JJ NN NN|BODY_6:BODY_4|0
+only the polygon object|RB DT NN NN|BODY_3|0
+a specialized constraint language|DT JJ NN NN|BODY_2|0
+academic and non-profit organizations|JJ CC JJ NNS|BODY_3|0
+the open a dialog|DT JJ DT NN|BODY_2|0
+either c or pascal|DT NN CC JJ|BODY_2|0
+our most limited resource|PRP$ JJS JJ NN|BODY_5|0
+sometimes the best answer|RB DT JJS NN|BODY_2|0
+a polygon drawing program|DT NN VBG NN|BODY_11|0
+the currently displayed characters|DT RB VBN NNS|BODY_4|0
+the user testing process|DT NN NN NN|BODY_4|0
+good gui building tools|JJ JJ NN NNS|BODY_5|0
+the external control model|DT JJ NN NN|BODY_2|0
+bounded value display styles|VBN NN NN NNS|BODY_5|0
+the first display style|DT JJ NN NN|BODY_3|0
+display styles bulletin board|NN NNS NN NN|BODY_3|0
+the next interface builder|DT JJ NN NN|BODY_1:BODY_7|0
+one particular label override|CD JJ NN NN|BODY_6|0
+the addison-wesley publishing company|DT NN NN NN|BODY_5|0
+a thin graphic package|DT JJ JJ NN|BODY_5|0
+each object store values|DT NN NN NNS|BODY_2|0
+the native toolkit layer|DT JJ NN NN|BODY_8|0
+a suit-command { figure|DT NN JJ NN|BODY_14|0
+the various display styles|DT JJ NN NNS|BODY_4|0
+their own custom widgets|PRP$ JJ NN NNS|BODY_11:BODY_3|0
+editor ( 1 )|NN -LRB- CD -RRB-|BODY_5|0
+their extended learning curves|PRP$ JJ NN NNS|BODY_4|0
+a boolean animated property|DT JJ JJ NN|BODY_3|0
+a more complicated problem|DT RBR JJ NN|BODY_1|0
+this often meant living|DT RB VBN VBG|BODY_1|0
+the very best undergraduates|DT RB JJS NNS|BODY_2|0
+its input handler paint|PRP$ NN NN NN|BODY_17|0
+the specific graphics commands|DT JJ NNS NNS|BODY_6|0
+a moving van )|DT VBG NN -RRB-|BODY_7|0
+an ascii text file|DT NN NN NN|BODY_4|0
+the export  button|DT NN NN NN|BODY_2|0
+two different lock bits|CD JJ NN NNS|BODY_3|0
+the the main loop |DT DT JJ NN|BODY_10|0
+the standard feedback technique|DT JJ NN NN|BODY_2|0
+a new programming language|DT JJ NN NN|BODY_13|0
+a more advanced platform|DT RBR JJ NN|BODY_7|0
+retain their old location|VB PRP$ JJ NN|BODY_10|0
+the second major problem|DT JJ JJ NN|BODY_1|0
+the interface builder community|DT NN NN NN|BODY_5|0
+the full-blown property editor|DT JJ NN NN|BODY_3|0
+the suit property editor|DT NN NN NN|BODY_1:BODY_8|0
+a ten page tutorial|DT CD NN NN|BODY_2|0
+the user figure 7|DT NN NN CD|BODY_5|0
+the current mouse position|DT JJ NN NN|BODY_5|0
+monochrome red green routines|NN JJ JJ NNS|BODY_11|0
+a separate builder application|DT JJ NN NN|BODY_5|0
+the polygon drawing program|DT NN VBG NN|BODY_2|0
+an automatic layout tool|DT JJ NN NN|BODY_10|0
+the location or color|DT NN CC NN|BODY_4|0
+the most straightforward way|DT RBS JJ NN|BODY_6|0
+many tutorial observation trials|JJ JJ NN NNS|BODY_7|0
+a device-independent suit_getcurrenttime function|DT NN NN NN|BODY_3|0
+a text property wraps|DT NN NN NNS|BODY_1|0
+some other interface builders|DT JJ NN NNS|BODY_2|0
+a class-based object-oriented model|DT JJ JJ NN|BODY_7|0
+one reason user testing|CD NN NN NN|BODY_1|0
+both children and employees|DT NNS CC NNS|BODY_1|0
+'s export  widget|POS NN NN NN|BODY_4|0
+a very different approach|DT RB JJ NN|BODY_1|0
+an application named foo|DT NN VBN NN|BODY_9|0
+undergraduate software engineering courses|JJ NN NN NNS|BODY_4|0
+the graphics library routines|DT NNS NN NNS|BODY_2|0
+a particular screen object|DT JJ NN NN|BODY_12|0
+various global level properties|JJ JJ NN NNS|BODY_2|0
+its unique string name|PRP$ JJ NN NN|BODY_12|0
+each other , often|DT JJ , RB|BODY_4|0
+new buttons and sliders|JJ NNS CC NNS|BODY_4|0
+an ok/cancel dialog box|DT JJ NN NN|BODY_5|0
+a level  command|DT NN NN NN|BODY_4|0
+the same only served|DT JJ JJ VBN|BODY_7|0
+the most visceral experience|DT RBS JJ NN|BODY_3|0
+a new widget class|DT JJ NN NN|BODY_3|0
+keyboard and mouse input|NN CC NN NN|BODY_13|0
+the object and updates|DT NN CC NNS|BODY_16|0
+the global property list|DT JJ NN NN|BODY_2|0
+'s state and displays|POS NN CC NNS|BODY_10|0
+the 1960s and 1970s|DT NNS CC NNS|BODY_7|0
+a common user error|DT JJ NN NN|BODY_4|0
+the code dumping model|DT NN VBG NN|BODY_1|0
+any other ) object|DT JJ -RRB- NN|BODY_4|0
+less than five minutes|JJR IN CD NNS|BODY_5|0
+the only remaining point|DT RB VBG NN|BODY_1|0
+a discrete event )|DT JJ NN -RRB-|BODY_6|0
+'s bgi graphics driver|POS JJ NNS NN|BODY_10|0
+a light grey background|DT JJ JJ NN|BODY_8|0
+their location and color|PRP$ NN CC NN|BODY_4|0
+a new boolean property|DT JJ JJ NN|BODY_4|0
+our standard observation protocol|PRP$ JJ NN NN|BODY_1|0
+the c programming language|DT NN NN NN|BODY_12|0
+the very best students|DT RB JJS NNS|BODY_1|0
+our operating system dependency|PRP$ VBG NN NN|BODY_1|0
+the class property lists|DT NN NN NNS|BODY_1|0
+how external control works|WRB JJ NN NNS|BODY_1|0
+other icons and buttons|JJ NNS CC NNS|BODY_6|0
+the programming language community|DT NN NN NN|BODY_8|0
+creating and composing widgets|VBG CC VBG NNS|BODY_15|0
+complex gui development tools|JJ NN NN NNS|BODY_10|0
+with most graphics packages|IN JJS NNS NNS|BODY_1|0
+a lisp based system|DT NN VBN NN|BODY_11|0
+less than five percent|JJR IN CD NN|BODY_7|0
+the object level property|DT NN NN NN|BODY_11|0
+our final design goal|PRP$ JJ NN NN|BODY_1|0
+these silent observation sessions|DT JJ NN NNS|BODY_6|0
+two major recurring problems|CD JJ VBG NNS|BODY_4|0
+the last design constraint|DT JJ NN NN|BODY_1|0
+the remaining semantic question|DT VBG JJ NN|BODY_1|0
+the native graphics environment|DT JJ NNS NN|BODY_9|0
+'s basic data model|POS JJ NNS NN|BODY_7|0
+'s different interaction techniques|VBZ JJ NN NNS|BODY_12|0
+a global property list|DT JJ NN NN|BODY_4|0
+their own research projects|PRP$ JJ NN NNS|BODY_10|0
+the only real way|DT RB JJ NN|BODY_1|0
+the abstract coordinate system|DT JJ VBP NN|BODY_4|0
+the interactive property editor|DT JJ NN NN|BODY_5|0
+the most convenient layer|DT RBS JJ NN|BODY_8|0
+a property entailed clicking|DT NN JJ NN|BODY_1|0
+the object|DT NN|BODY_5:BODY_17:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+properties|NNS|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the property editor|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the screen|DT NN|BODY_12:BODY_6:BODY_5:BODY_17:BODY_10:BODY_7:BODY_8|0

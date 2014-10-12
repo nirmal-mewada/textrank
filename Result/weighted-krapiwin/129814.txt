@@ -1,0 +1,606 @@
+a lingua franca|DT NN NN|BODY_5:ABSTRACT_6:TITLE_1:BODY_2:BODY_3:BODY_7|0
+concurrent logic programming|JJ NN NN|TITLE_2:ABSTRACT_1|0
+it|PRP|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:ABSTRACT_3:BODY_14:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|2
+parlog|NN|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+a lingua franca implementation|DT NN NN NN|BODY_6:ABSTRACT_2:BODY_3|0
+ghc and parlog|NN CC NN|BODY_6:BODY_5:ABSTRACT_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+its own right|PRP$ JJ NN|BODY_6:BODY_3:ABSTRACT_7|0
+they|PRP|BODY_6:BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+both languages|DT NNS|BODY_6:BODY_1:ABSTRACT_3:BODY_3:BODY_8|0
+each clause|DT NN|ABSTRACT_3:BODY_3:BODY_4|0
+a simple concurrent logic|DT JJ JJ NN|ABSTRACT_4|0
+good control facilities|JJ NN NNS|ABSTRACT_4|0
+all the programs|PDT DT NNS|ABSTRACT_4|0
+the other language|DT JJ NN|ABSTRACT_5|0
+their respective merits|PRP$ JJ NNS|ABSTRACT_5|0
+ghc|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|1
+the lingua franca|DT NN NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the goal|DT NN|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+them|PRP|BODY_6:BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|1
+the following special conditions|DT VBG JJ NNS|BODY_2|1
+a fresh melted copy|DT JJ VBN NN|BODY_10|1
+their corresponding goal arguments|PRP$ JJ NN NNS|BODY_35|1
+no special suspension mechanism|DT JJ NN NN|BODY_5|1
+all previous reduce/3 clauses|DT JJ NNS NNS|BODY_3|1
+two prominent clp languages|CD JJ NN NNS|BODY_3|1
+a common language variant|DT JJ NN NN|BODY_5|1
+the head match|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|1
+both ghc and parlog|DT NN CC NN|BODY_2:BODY_3|0
+a calling argument variable|DT VBG NN NN|BODY_6:BODY_8|0
+a suspension test overhead|DT NN NN NN|BODY_2|0
+almost no ghc program|RB DT JJ NN|BODY_2|0
+the original guard goal|DT JJ NN NN|BODY_2|0
+such a lingua franca|PDT DT NN NN|BODY_2|0
+> ( [ a|b]|FW -LRB- JJ NN|BODY_15:BODY_9|0
+a guarded horn clause|DT JJ NN NN|BODY_3:BODY_4|0
+a lingua franca clause|DT NN NN NN|BODY_5:BODY_4|0
+any prolog syntax structure|DT NN NN NN|BODY_4|0
+the multiple environment property|DT JJ NN NN|BODY_2|0
+each clause head argument|DT NN NN NN|BODY_3|0
+either ghc and parlog|DT NN CC NN|BODY_2|0
+the parlog meta-call call/2|DT NN NN NN|BODY_2:BODY_3|0
+the user-defined guard test/1|DT JJ NN NNS|BODY_3:BODY_9|0
+the first two arguments|DT JJ CD NNS|BODY_2:BODY_3|0
+'s other end x4|POS JJ NN NNS|BODY_6|0
+the input argument symbol|DT NN NN NN|BODY_12|0
+a meta-symbol place filler|DT NN NN NN|BODY_2|0
+the pure prolog program|DT JJ NN NN|BODY_1:BODY_8|0
+the second list argument|DT JJ NN NN|BODY_2|0
+a user-defined condition test/1|DT JJ NN NNS|BODY_2|0
+dynamic and programmable control|JJ CC JJ NN|BODY_2|0
+compile time safety analysis|JJ NN NN NN|BODY_2|0
+the parallel conjunction operator |DT JJ NN NN|BODY_7:BODY_8|0
+all the other language|PDT DT JJ NN|BODY_3|0
+the run-time suspension test|DT NN NN NN|BODY_2|0
+a sequential prolog-like style|DT JJ JJ NN|BODY_2|0
+a subsequently rejected clause|DT RB VBN NN|BODY_2|0
+three(( a ,b) )|JJ DT NN -RRB-|BODY_3|0
+the full lingua franca|DT JJ NN NN|BODY_3|0
+synchronise and sequence execution|NN CC NN NN|BODY_7|0
+the first guard goal|DT JJ NN NN|BODY_1:BODY_2|0
+the left hand side|DT JJ NN NN|BODY_5|0
+a lingua franca program|DT NN NN NN|BODY_2|0
+a logic programming language|DT NN NN NN|BODY_4:BODY_7|0
+'s guard numbering scheme|POS NN NN NN|BODY_2|0
+distinct fresh substitute variables|JJ JJ NN NNS|BODY_1|0
+a ghc-like programming style|DT JJ NN NN|BODY_5|0
+r) elements mode process(|JJ NNS NN NN|BODY_5|0
+the control emphasis parlog|DT NN NN NN|BODY_2|0
+binding one end x1|NN CD NN NNS|BODY_3|0
+all three relevant variables|DT CD JJ NNS|BODY_5|0
+whose success or failure|WP$ NN CC NN|BODY_3|0
+the basic machine language|DT JJ NN NN|BODY_25|0
+the sequential conjunction operator|DT JJ NN NN|BODY_11:BODY_1|0
+the valid_query/1 guard test|DT JJ NN NN|BODY_4|0
+a ) , []|DT -RRB- , NN|BODY_6|0
+the relation mode valid(|DT NN NN NN|BODY_4|0
+k ) | wait(analyse(|NN -RRB- NN NN|BODY_9|0
+the sequential variant truth|DT NN JJ NN|BODY_5|0
+highly parallel data-flow architectures|RB JJ NN NNS|BODY_9|0
+one or more clauses|CD CC JJR NNS|BODY_1|0
+their execution order constraints|PRP$ NN NN NNS|BODY_3|0
+an extra primitive goal|DT JJ JJ NN|BODY_7|0
+this reverse translation method|DT NN NN NN|BODY_2|0
+several simple matching goals|JJ JJ JJ NNS|BODY_2|0
+guarded horn clauses h|JJ NN NNS NN|BODY_2|0
+the user-defined guard goal|DT JJ NN NN|BODY_1:BODY_4|0
+the top levels goals|DT NN NNS NNS|BODY_2|0
+the goal or conjunction|DT NN CC NN|BODY_4|0
+the old guard variables|DT JJ NN NNS|BODY_6|0
+the query part q|DT NN NN NN|BODY_11|0
+all parlog head arguments|DT NN NN NNS|BODY_2|0
+complex non-instantiable side terms|JJ JJ NN NNS|BODY_2|0
+the common linguistic denominator|DT JJ JJ NN|BODY_2|0
+the calling argument variable|DT VBG NN JJ|BODY_2|0
+scheduling and resource allocation|NN CC NN NN|BODY_3|0
+the first argument relation|DT JJ NN NN|BODY_4|0
+the short circuit technique|DT JJ NN NN|BODY_4|0
+a user-defined guard goal|DT JJ NN NN|BODY_9|0
+the new clause head|DT JJ NN NN|BODY_14|0
+and-parallel , ghc programs|JJ , JJ NNS|BODY_2|0
+a clause search operator|DT NN NN NN|BODY_7|0
+the same relation r|DT JJ NN NN|BODY_2|0
+the synchronisation rule states|DT NN NN NNS|BODY_4|0
+e) | process( b|RB NN NN NN|BODY_7|0
+binding its third argument|JJ PRP$ JJ NN|BODY_4|0
+'s sequential search operator|POS JJ NN NN|BODY_2|0
+a special primitive ward/2|DT JJ JJ NN|BODY_4|0
+neither ghc nor parlog|DT NN CC NN|BODY_2|0
+' head matching requirements|POS NN NN NNS|BODY_2|0
+the parallel  , |DT JJ NNS ,|BODY_10|0
+then frozen unused pending|RB JJ JJ VBG|BODY_2|0
+the clarity and simplicity|DT NN CC NN|BODY_3|0
+the guard goal test/1|DT NN NN NNS|BODY_4|0
+its arguments and suspends|PRP$ NNS CC NNS|BODY_2|0
+their input head arguments|PRP$ NN NN NNS|BODY_2|0
+the second clause head|DT JJ NN NN|BODY_9|0
+a sequential conjunction operator|DT JJ NN NN|BODY_2|0
+user-defined predicates and primitives|JJ NNS CC NNS|BODY_5|0
+a more streamlined implementation|DT RBR JJ NN|BODY_4|0
+an input matching role|DT NN VBG NN|BODY_4|0
+this one-way unification operation|DT JJ NN NN|BODY_4|0
+a reluctant unidirectional unification|DT JJ JJ NN|BODY_4|0
+translating ghc or parlog|NN NN CC NN|BODY_5|0
+the original head argument|DT JJ NN NN|BODY_5|0
+the same operational semantics|DT JJ JJ NNS|BODY_6|0
+a fresh variable a1|DT JJ JJ NNS|BODY_2|0
+a sequential search operator|DT JJ NN NN|BODY_3|0
+the following form h|DT VBG NN NN|BODY_4|0
+'s run-time suspension test|POS NN NN NN|BODY_4|0
+a primitive goal argument|DT JJ NN NN|BODY_10|0
+the heads and guards|DT NNS CC NNS|BODY_4|0
+an extra unification goal|DT JJ NN NN|BODY_3|0
+the parallel search operator|DT JJ NN NN|BODY_3|0
+head and guard )|NN CC NN -RRB-|BODY_8|0
+a clause or not|DT NN CC RB|BODY_6|0
+the ghc suspension test|DT JJ NN NN|BODY_3|0
+a fresh variable x|DT JJ JJ SYM|BODY_8|0
+the unification primitive =/2|DT NN JJ NN|BODY_3|0
+the entire original guard|DT NN JJ NN|BODY_3|0
+head arguments and user|NN NNS CC NN|BODY_5|0
+its first two arguments|PRP$ JJ CD NNS|BODY_4|0
+an auxiliary relation wait/3|DT JJ NN NN|BODY_5|0
+a common language variation|DT JJ NN NN|BODY_2|0
+three new primitives =>/2|CD JJ NNS NNS|BODY_3|0
+a passive part variable|DT JJ NN JJ|BODY_6|0
+the top level goals|DT JJ NN NNS|BODY_6|0
+general localised suspension transferring|JJ JJ NN NN|BODY_1|0
+translating ghc and parlog|NN NN CC NN|BODY_6|0
+its sequencing rule alpha(|PRP$ NN NN NNS|BODY_2|0
+the semantically desirable properties|DT RB JJ NNS|BODY_4|0
+the output argument symbol|DT NN NN NN|BODY_13|0
+'s operational semantics differs|POS JJ NNS NNS|BODY_2|0
+furthermore a clause choice|RBR DT NN NN|BODY_1|0
+a run-time safety test|DT NN NN NN|BODY_5|0
+the head matching requirements|DT NN NN NNS|BODY_3|0
+significant expressive power [3]|JJ JJ NN NN|BODY_5|0
+the committed choice mechanism|DT VBN NN NN|BODY_28|0
+the guard suspension test|DT NN NN NN|BODY_3|0
+unsafe user-defined guard goals|JJ VBN NN NNS|BODY_1|0
+true | mode way(-)|JJ RB NN NN|BODY_16|0
+their distinct variable replacements|PRP$ JJ JJ NNS|BODY_10|0
+these extra semantic deficiencies|DT JJ JJ NNS|BODY_1|0
+each safety suspension condition|DT NN NN NN|BODY_1|0
+each relation r i|DT NN NN NN|BODY_1|0
+the original correct translation|DT JJ JJ NN|BODY_7|0
+the whole head match|DT JJ NN NN|BODY_1|0
+the whole ghc guard|DT JJ NN NN|BODY_1|0
+'s wide meta-programming capability|POS JJ NN NN|BODY_7|0
+all the head arguments|PDT DT NN NNS|BODY_1|0
+ghc clause head arguments|JJ NN NN NNS|BODY_1|0
+its lingua franca translation|PRP$ NN NN NN|BODY_12|0
+the original parlog conjunction|DT JJ NN NN|BODY_2|0
+a lingua franca conjunction|DT NN NN NN|BODY_11|0
+a safety suspension condition|DT NN NN NN|BODY_6|0
+the safe guard meta-interpreter|DT JJ NN NN|BODY_8|0
+similar syntax and semantics|JJ NN CC NNS|BODY_4|0
+its first three arguments|PRP$ JJ CD NNS|BODY_7|0
+'s first two arguments|POS JJ CD NNS|BODY_8|0
+the other hand parlog|DT JJ NN NN|BODY_1|0
+a ward/3 predicate goal|DT NN NN NN|BODY_1|0
+a single binding environment|DT JJ JJ NN|BODY_4|0
+this special primitive will|DT JJ JJ NN|BODY_9|0
+no sequential conjunction operator|DT JJ NN NN|BODY_3|0
+'s nice semantic properties|POS JJ JJ NNS|BODY_4|0
+the same rule [6|DT JJ NN NNS|BODY_2|0
+full head matching functionality|JJ NN VBG NN|BODY_2|0
+its first argument goal|PRP$ JJ NN NN|BODY_16|0
+its last two arguments|PRP$ JJ CD NNS|BODY_3|0
+the sequential search operator|DT JJ NN NN|BODY_1|0
+a simple sound way|DT JJ JJ NN|BODY_1|0
+each lingua franca clause|DT NN NN NN|BODY_9|0
+a new primitive ground/1|DT JJ JJ NNS|BODY_1|0
+the same satisfaction conditions|DT JJ NN NNS|BODY_6|0
+the suspending primitive primitive/1|DT VBG JJ NNS|BODY_3|0
+the guard|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|1
+the guard goal|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+_ _ _|RB RB RB|BODY_12:BODY_11:BODY_16:BODY_17:BODY_18:BODY_21:BODY_15:BODY_13:BODY_14:BODY_6:BODY_5:BODY_19:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|11
+several important differences|JJ JJ NNS|BODY_2|1
+this|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the output arguments|DT NN NNS|BODY_32|1
+parlog clause heads|NN NN NNS|BODY_33|1
+the mode declaration|DT NN NN|BODY_34|1
+a practical necessity|DT JJ NN|BODY_26|1
+the primitive melt/2|DT JJ NN|BODY_9|1
+the frozen clause|DT JJ NN|BODY_11|1
+these semantic difficulties|DT JJ NNS|BODY_1|1
+body goal evaluation|NN NN NN|BODY_37|1
+its second argument|PRP$ JJ NN|BODY_5:BODY_13:BODY_3:BODY_7|0
+parallel|NN|BODY_6:BODY_36:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|1
+goals|NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+the second clause|DT JJ NN|BODY_1:BODY_4:BODY_7:BODY_9|0
+each head argument|DT NN NN|BODY_2:BODY_3|0
+the first clause|DT JJ NN|BODY_5:BODY_1:BODY_4|0
+a|DT|BODY_6:BODY_11:BODY_1:BODY_3:BODY_7:BODY_8|0
+the query ||DT NN NN|BODY_3|0
+guarded horn clauses|JJ NN NNS|BODY_2|0
+a guard goal|DT NN NN|BODY_1:BODY_4|0
+|VBD|BODY_12:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+[ c|d] )|JJ NN -RRB-|BODY_2:BODY_10|0
+a single implementation|DT JJ NN|BODY_4:BODY_9|0
+a fresh variable|DT JJ JJ|BODY_2:BODY_4|0
+a parlog program|DT NN NN|BODY_5:BODY_2|0
+the termination properties|DT NN NNS|BODY_6:BODY_4|0
+the instantiable side|DT JJ NN|BODY_3:BODY_4|0
+a satisfy/2 meta-call|DT NN NN|BODY_3:BODY_4|0
+the second goal|DT JJ NN|BODY_2:BODY_3|0
+e delay execution|NN NN NN|BODY_2|0
+the goal ward((|DT NN NN|BODY_2|0
+a consistent copy|DT JJ NN|BODY_5:BODY_3|0
+a , b|DT , NN|BODY_11:BODY_8|0
+the ghc fashion|DT JJ NN|BODY_2|0
+the reverse translation|DT JJ NN|BODY_3|0
+the first argument|DT JJ NN|BODY_2|0
+the ward/2 predicate|DT NN NN|BODY_1:BODY_3|0
+its new replacement|PRP$ JJ NN|BODY_5:BODY_4|0
+this translation scheme|DT NN NN|BODY_2|0
+the short circuit|DT JJ NN|BODY_15:BODY_1|0
+input or output|NN CC NN|BODY_4|0
+such a way|JJ DT NN|BODY_6:BODY_3|0
+this frozen space|DT JJ NN|BODY_2|0
+a goal process|DT NN NN|BODY_6|0
+all and only|DT CC RB|BODY_2|0
+the meta-call satisfy/2|DT NN NN|BODY_4:BODY_9|0
+a place filler|DT NN NN|BODY_6|0
+the calling environment|DT VBG NN|BODY_13:BODY_4:BODY_8|0
+the unsafe guard|DT JJ NN|BODY_6:BODY_4|0
+the clp language|DT NN NN|BODY_10:BODY_8|0
+its first argument|PRP$ JJ NN|BODY_2:BODY_3:BODY_4|0
+the first primitive|DT JJ JJ|BODY_4|0
+a new conjunction|DT JJ NN|BODY_2|0
+primitive guard goals|JJ JJ NNS|BODY_9|0
+this transformation mark|DT NN NN|BODY_2|0
+distinct fresh variables|JJ JJ NNS|BODY_15|0
+the significant price|DT JJ NN|BODY_2|0
+concurrent prolog [16]|JJ NN NN|BODY_4|0
+r) unifies r|JJ NNS NN|BODY_3|0
+the declarative meaning|DT JJ NN|BODY_2|0
+the ward predicate|DT NN NN|BODY_2|0
+the two terms|DT CD NNS|BODY_6|0
+the clause body|DT NN NN|BODY_6:BODY_2|0
+a general scheme|DT JJ NN|BODY_3|0
+account multiple occurrences|NN JJ NNS|BODY_4|0
+the declarative reading|DT JJ NN|BODY_1:BODY_4|0
+an aggregate term|DT JJ NN|BODY_1:BODY_2|0
+and-parallel input resolution|JJ NN NN|BODY_2|0
+user defined guards|NN VBN NNS|BODY_2|0
+tree implementation model|NN NN NN|BODY_6|0
+away sequential conjunctions|RB JJ NNS|BODY_3|0
+this clp language|DT NN NN|BODY_3|0
+[5 , 21]|CD , CD|BODY_5|0
+various transformation techniques|JJ NN NNS|BODY_4|0
+the =>/2 process|DT NN NN|BODY_2:BODY_3|0
+'s principal functor|POS JJ NN|BODY_10|0
+query/response message( q|NN NN NN|BODY_4|0
+the variable a1|DT JJ NNS|BODY_2|0
+the opposite order|DT JJ NN|BODY_4|0
+kernel parlog primitives|NN NN NNS|BODY_3|0
+the sequential style|DT JJ NN|BODY_7|0
+each m i|DT NN NN|BODY_11|0
+compile time analysis|JJ NN NN|BODY_1:BODY_7|0
+that suspension effects|DT NN NNS|BODY_3|0
+a program clause|DT NN NN|BODY_4|0
+each primitive call|DT JJ NN|BODY_4|0
+all unsafe variables|DT JJ NNS|BODY_2:BODY_1|0
+its not holding|PRP$ RB VBG|BODY_3|0
+a conjunction operator|DT NN NN|BODY_2|0
+a kernel parlog|DT NN NN|BODY_2|0
+its third clause|PRP$ JJ NN|BODY_1|0
+an undecidable matter|DT JJ NN|BODY_4|0
+the ward/2 goal|DT NN NN|BODY_1:BODY_3|0
+guard goal execution|NN NN NN|BODY_4:BODY_8|0
+an opposite point|DT JJ NN|BODY_4|0
+reluctant unidirectional unification|JJ JJ NN|BODY_6:BODY_1:BODY_3|0
+'s sequential operators|POS JJ NNS|BODY_2|0
+the non-instantiable side|DT JJ NN|BODY_6:BODY_3|0
+an extra argument|DT JJ NN|BODY_3|0
+non-deterministic these drawbacks|JJ DT NNS|BODY_21|0
+an ancestor guard|DT NN JJ|BODY_7:BODY_8|0
+other clp languages|JJ NN NNS|BODY_3|0
+the control features|DT NN NNS|BODY_6:BODY_3|0
+all clp languages|DT NN NNS|BODY_24|0
+the original translation|DT JJ NN|BODY_5:BODY_4|0
+the complex term|DT JJ NN|BODY_6|0
+the execution order|DT NN NN|BODY_9|0
+[ ] )|JJ NN -RRB-|BODY_6|0
+the clause head|DT NN NN|BODY_9|0
+only match input|RB NN NN|BODY_2|0
+sequential conjunction replacement|JJ NN NN|BODY_2|0
+the basic drawback|DT JJ NN|BODY_23|0
+the main approaches|DT JJ NNS|BODY_2|0
+a head match|DT NN NN|BODY_13:BODY_2|0
+the further communication|DT JJ NN|BODY_3|0
+a ghc program|DT JJ NN|BODY_2|0
+the last clause|DT JJ NN|BODY_2|0
+or-parallel clause search|JJ NN NN|BODY_2|0
+the third clause|DT JJ NN|BODY_5:BODY_1|0
+the two arguments|DT CD NNS|BODY_2:BODY_1|0
+a simple means|DT JJ NN|BODY_7|0
+the first goal|DT JJ NN|BODY_10|0
+old variable values|JJ JJ NNS|BODY_3|0
+the two variables|DT CD NNS|BODY_5|0
+its computation space|PRP$ NN NN|BODY_10|0
+each c i|DT NN NN|BODY_3|0
+key parlog primitives|JJ NN NNS|BODY_2|0
+two argument structures|CD NN NNS|BODY_2|0
+a simpler representation|DT JJR NN|BODY_2|0
+the most prominent|DT RBS JJ|BODY_5|0
+success , failure|NN , NN|BODY_2|0
+less parallel architectures|JJR JJ NNS|BODY_12|0
+test ([ a|d]|NN IN NN|BODY_6|0
+the same effect|DT JJ NN|BODY_9|0
+all these variables|PDT DT NNS|BODY_8|0
+the first input|DT JJ NN|BODY_4|0
+a , d)|DT , NN|BODY_3|0
+similar execution models|JJ NN NNS|BODY_2|0
+the selected clause|DT JJ NN|BODY_4|0
+their output bindings|PRP$ NN NNS|BODY_3|0
+guard goal processes|JJ NN NNS|BODY_2|0
+a clp language|DT NN NN|BODY_3|0
+the predicates ward/3|DT NNS NNS|BODY_3|0
+each such clause|DT JJ NN|BODY_3|0
+the structure copy|DT NN NN|BODY_4|0
+the same relation|DT JJ NN|BODY_3|0
+sequential search goal(|JJ NN NN|BODY_4|0
+some term t|DT NN NN|BODY_6|0
+two unbound arguments|CD JJ NNS|BODY_2|0
+guard safety suspension|NN NN NN|BODY_2|0
+corresponding goal arguments|JJ NN NNS|BODY_3|0
+a complex series|DT JJ NN|BODY_5|0
+a new primitive|DT JJ JJ|BODY_2|0
+the sequential operator|DT JJ NN|BODY_2|0
+a similar aggregate|DT JJ JJ|BODY_9|0
+the fourth clause|DT JJ NN|BODY_3|0
+a major part|DT JJ NN|BODY_10|0
+big runtime overheads|JJ NN NNS|BODY_2|0
+a = truth|DT SYM NN|BODY_3|0
+the common way|DT JJ NN|BODY_3|0
+the original variable|DT JJ JJ|BODY_10|0
+the suspension mechanism|DT NN NN|BODY_3|0
+[ a|d] )|JJ NN -RRB-|BODY_4|0
+the ward/3 goal|DT NN NN|BODY_5|0
+ and m|NN CC NN|BODY_8|0
+the process tree|DT NN NN|BODY_3|0
+'s head h|POS NN NN|BODY_9|0
+a programming vehicle|DT NN NN|BODY_3|0
+the second implements|DT JJ VBZ|BODY_3|0
+output head arguments|NN NN NNS|BODY_6:BODY_1|0
+clean semantic properties|JJ JJ NNS|BODY_3|0
+four main features|CD JJ NNS|BODY_3|0
+less runtime overheads|RBR JJ NNS|BODY_6|0
+or-sequential clause search|JJ NN NN|BODY_3|0
+the local part|DT JJ NN|BODY_14|0
+all =/2 predicates|DT CD NNS|BODY_3|0
+'s unidirectional unification|POS JJ NN|BODY_3|0
+no declarative meaning|DT JJ NN|BODY_7|0
+such guard goals|JJ NN NNS|BODY_9|0
+-) . __|NNP . NNS|BODY_10|0
+user defined goals|NN VBN NNS|BODY_2|0
+irrelevant guard evaluations|JJ NN NNS|BODY_5|0
+'s or-sequential operator|POS JJ NN|BODY_3|0
+two variable arguments|CD JJ NNS|BODY_8|0
+lingua franca programs|NN NN NNS|BODY_2|0
+unsafely guarded clauses|RB VBN NNS|BODY_5|0
+a variable binding|DT JJ NN|BODY_2|0
+'s second argument|POS JJ NN|BODY_2|0
+the passive part|DT JJ NN|BODY_7|0
+appropriate suspension effects|JJ NN NNS|BODY_7|0
+calling argument variables|VBG NN NNS|BODY_7|0
+sequential search operators|JJ NN NNS|BODY_3|0
+the relevant binding|DT JJ NN|BODY_10|0
+the respective virtues|DT JJ NNS|BODY_2|0
+a wide variety|DT JJ NN|BODY_5|0
+another common feature|DT JJ NN|BODY_8|0
+1 and n|CD CC NN|BODY_9|0
+bind their arguments|NN PRP$ NNS|BODY_6|0
+| satisfy( goal|NN NN NN|BODY_10|0
+the atomic execution|DT JJ NN|BODY_10|0
+the ghc clauses|DT JJ NNS|BODY_3|0
+a calling argument|DT VBG NN|BODY_7|0
+'s declarative reading|POS JJ NN|BODY_2|0
+realising declarative meaning|JJ JJ NN|BODY_11|0
+the ghc clause|DT JJ NN|BODY_2|0
+the =>/2 goal|DT NN NN|BODY_4|0
+bind calling arguments|NN VBG NNS|BODY_9|0
+the test/1 goal|DT NN NN|BODY_4|0
+the control variable|DT NN JJ|BODY_5|0
+each clp clause|DT NN NN|BODY_4|0
+a sequential algorithm|DT JJ NN|BODY_1|0
+lingua franca relations|NN NN NNS|BODY_1|0
+this lingua franca|DT NN NN|BODY_1|0
+the satisfy/2 predicate|DT NN NN|BODY_2|0
+the local chain|DT JJ NN|BODY_8|0
+a head argument|DT NN NN|BODY_8|0
+left hand variables|VBN NN NNS|BODY_7|0
+every clause guard|DT NN NN|BODY_6|0
+an intermediate language|DT JJ NN|BODY_2|0
+the sole means|DT JJ NNS|BODY_4|0
+'s head match|POS NN NN|BODY_4|0
+extra control features|JJ NN NNS|BODY_3|0
+primitive guard goal|JJ NN NN|BODY_4|0
+relevant variable bindings|JJ JJ NNS|BODY_9|0
+sequential conjunction operators|JJ NN NNS|BODY_5|0
+sequential search restrictions|JJ NN NNS|BODY_2|0
+no mode declarations|DT NN NNS|BODY_6|0
+each r i|DT NN NN|BODY_1|0
+every explicit unification|DT JJ NN|BODY_3|0
+extra fairness assumptions|JJ NN NNS|BODY_3|0
+such premature computation|JJ JJ NN|BODY_1|0
+the message query|DT NN NN|BODY_1|0
+the next two|DT JJ CD|BODY_1|0
+these clauses c|DT NNS NN|BODY_1|0
+all transformed calls|DT VBN NNS|BODY_4|0
+a precise means|DT JJ NN|BODY_9|0
+the leading clause|DT JJ NN|BODY_3|0
+a reserved name|DT VBN NN|BODY_3|0
+a wide range|DT JJ NN|BODY_6|0
+a fresh copy|DT JJ NN|BODY_9|0
+relevant goal arguments|JJ NN NNS|BODY_6|0
+a modular fashion|DT JJ NN|BODY_8|0
+a body variable|DT NN JJ|BODY_10|0
+guard goal satisfaction|NN NN NN|BODY_5|0
+'s and-sequential operator|POS JJ NN|BODY_3|0
+the successful reduction|DT JJ NN|BODY_2|0
+binding goal variables|JJ NN NNS|BODY_11|0
+'s simple expedient|POS JJ NN|BODY_4|0
+all input arguments|DT NN NNS|BODY_2|0
+the commitment operator|DT NN NN|BODY_16|0
+'s semantic drawbacks|POS JJ NNS|BODY_2|0
+the initial translation|DT JJ NN|BODY_2|0
+the next clause|DT JJ NN|BODY_2|0
+some simple term|DT JJ NN|BODY_4|0
+a precise test|DT JJ NN|BODY_3|0
+no general overhead|DT JJ NN|BODY_2|0
+[6 ] p.89-92|CD NN NN|BODY_14|0
+no mandatory requirement|DT JJ NN|BODY_8|0
+the primitive goal|DT JJ NN|BODY_12|0
+a unique variable|DT JJ JJ|BODY_5|0
+the condition test(|DT NN NN|BODY_2|0
+the general form|DT JJ NN|BODY_1|0
+the required kind|DT JJ NN|BODY_5|0
+the reserved predicate|DT VBN NN|BODY_5|0
+an otherwise predicate|DT RB NN|BODY_6|0
+the central idea|DT JJ NN|BODY_1|0
+a logic program|DT NN NN|BODY_9|0
+a unsafe binding|DT JJ NN|BODY_7|0
+many parlog programs|JJ NN NNS|BODY_9|0
+more than variable|JJR IN JJ|BODY_9|0
+the design philosophy|DT NN NN|BODY_1|0
+the following clauses|DT VBG NNS|BODY_1|0
+the next element|DT JJ NN|BODY_5|0
+the relevant program|DT JJ NN|BODY_6|0
+a clp vehicle|DT NN NN|BODY_2|0
+safety identification problem|NN NN NN|BODY_16|0
+multiple binding environments|JJ JJ NNS|BODY_5|0
+bind given values|NN VBN NNS|BODY_10|0
+the satisfiable goal|DT JJ NN|BODY_1|0
+deep guard evaluations|JJ NN NNS|BODY_1|0
+the original guard|DT JJ NN|BODY_7|0
+subsequent clause guards|JJ NN NNS|BODY_7|0
+the calling argument|DT VBG NN|BODY_1|0
+some common denominator|DT JJ NN|BODY_2|0
+, and yet|, CC RB|BODY_7|0
+the call choice(x|DT NN NN|BODY_1|0
+the following things|DT VBG NNS|BODY_5|0
+a general algorithm|DT JJ NN|BODY_1|0
+'s complex action|POS JJ NN|BODY_5|0
+the special primitive|DT JJ JJ|BODY_1|0
+'s parlog group|POS NN NN|BODY_11|0
+the responsible guard|DT JJ NN|BODY_8|0
+'s simple input|POS NN NN|BODY_7|0
+the moment parlog|DT NN NN|BODY_1|0
+most ghc clauses|JJS NN NNS|BODY_1|0
+this steers programmers|DT NNS NNS|BODY_1|0
+the general method|DT JJ NN|BODY_1|0
+its success [18]|PRP$ NN NN|BODY_12|0
+commitment|NN|BODY_16:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+lingua franca goals|NN NNS NNS|BODY_1|0
+the parlog style|DT NN NN|BODY_7|0
+the body commence|DT NN NN|BODY_8|0
+all this happens|DT DT VBZ|BODY_1|0
+parlog or acts|NN CC NNS|BODY_1|0
+the unidirectional unification|DT JJ NN|BODY_1|0
+both sequential operators|DT JJ NNS|BODY_1|0
+or-sequential search ghc|JJ NN NN|BODY_1|0
+the unify procedure|DT JJ NN|BODY_4|0
+clp language programs|NN NN NNS|BODY_3|0
+the first three|DT JJ CD|BODY_4|0
+many parlog primitives|JJ NN NNS|BODY_5|0
+parlog and ghc.|NN CC NN|BODY_5|0
+ghc or parlog|JJ CC NN|BODY_8|0
+kernel parlog execution|NN NN NN|BODY_1|0
+the operator swap|DT NN NN|BODY_1|0
+all head matches|DT NN NNS|BODY_1|0
+one stage [21]|CD NN JJ|BODY_9|0
+the general rule|DT JJ NN|BODY_1|0
+a and a1|DT CC NNS|BODY_1|0
+a valid goal|DT JJ NN|BODY_12|0
+an and-sequential operator|DT JJ NN|BODY_3|0
+kernel parlog [6|NN NN NNS|BODY_7|0
+the suspended unification|DT VBN NN|BODY_8|0
+its unidirectionally ensures|PRP$ RB VBZ|BODY_1|0
+the original goals|DT JJ NNS|BODY_6|0
+a different example|DT JJ NN|BODY_1|0
+the primitive ward/3|DT JJ NN|BODY_5|0
+its main feature|PRP$ JJ NN|BODY_1|0
+its declarative meaning|PRP$ JJ NN|BODY_6|0
+instantiable side variables|JJ NN NNS|BODY_1|0
+one primitive process|CD JJ NN|BODY_9|0
+cp[-,# ] [14]|RB JJ NN|BODY_11|0
+the original clause|DT JJ NN|BODY_1|0
+some parlog clauses|DT NN NNS|BODY_1|0
+way( x )|NN SYM -RRB-|BODY_5|0
+the sequencing rule|DT NN NN|BODY_1|0
+7. example translations|JJR NN NNS|BODY_1|0
+a common medium|DT JJ NN|BODY_5|0
+edinburgh prolog syntax|NN NN NN|BODY_1|0
+a better idea|DT JJR NN|BODY_1|0
+parallel conjunction operators|JJ NN NNS|BODY_1|0
+the synchronised satisfaction|DT JJ NN|BODY_1|0
+sequentially conjoined goals|RB VBN NNS|BODY_1|0
+anti-substitutability [21] 4.7.2|NN NN CD|BODY_12|0
+e) test( b|DT NN NN|BODY_1|0
+the metacall satisfy/2|DT NN NN|BODY_3|0
+the mixed conjunction|DT JJ NN|BODY_1|0
+all been satisfied|DT VBN VBN|BODY_7|0
+passive part concurrency|JJ NN NN|BODY_1|0
+no guard goal|DT NN NN|BODY_1|0
+) | process(|-RRB- NN NN|BODY_6:BODY_16|0
+true | transform(|JJ NN NN|BODY_10|0
+the parlog source|DT NN NN|BODY_3|0
+the status quo|DT NN NN|BODY_2|0
+a full meta-interpreter|DT JJ NN|BODY_1|0
+both clp languages|DT NN NNS|BODY_1|0
+the programming style|DT NN NN|BODY_1|0
+the same way|DT JJ NN|BODY_1|0
+the operational semantics|DT JJ NNS|BODY_1|0
+the control emphasis|DT NN NN|BODY_1|0
+the same rule|DT JJ NN|BODY_1|0
+parallel clause searches|JJ NN NNS|BODY_1|0
+relevant goal variables|JJ NN NNS|BODY_5|0
+that attempted binding|DT JJ NN|BODY_6|0
+success or failure|NN CC NN|BODY_5|0
+the attempted satisfaction|DT JJ NN|BODY_1|0
+the language semantics|DT NN NNS|BODY_6|0
+the other variables|DT JJ NNS|BODY_4|0
+the remaining cases|DT VBG NNS|BODY_1|0
+the two sides|DT CD NNS|BODY_2|0
+the primitive true|DT JJ JJ|BODY_1|0
+furthermore kernel parlog|JJR NN NN|BODY_1|0
+its second clause|PRP$ JJ NN|BODY_1|0
+98-99 , 141-142|CD , CD|BODY_1|0
+the whole algorithm|DT JJ NN|BODY_1|0
+variables|NNS|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+c|NN|BODY_11:BODY_17:BODY_2:BODY_3:BODY_19:BODY_8:BODY_20|0
+a goal|DT NN|BODY_6:BODY_3:BODY_4:BODY_7:BODY_8|0
+ward/3|NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+)|-RRB-|BODY_11:BODY_5:BODY_17:BODY_18:BODY_15:BODY_3:BODY_7:BODY_20:BODY_9|0
+primitives|NNS|BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+unsafe guards|JJ NNS|BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|0
+guard evaluation|NN NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+heriot-watt university|NN NN|BODY_8:BODY_20|1
+clauses|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+that|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+the clause|DT NN|BODY_6:BODY_5:BODY_1:BODY_10:BODY_8|0
+guard goals|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3|0
+parlog clauses|NN NNS|BODY_2:BODY_1|0
+the result|DT NN|BODY_5:BODY_1:BODY_3:BODY_7|0
+a user|DT NN|BODY_6:BODY_2:BODY_3:BODY_9|0
+d)|NN|BODY_5:BODY_21:BODY_13:BODY_3:BODY_4:BODY_20:BODY_9|0
+the unification|DT NN|BODY_12:BODY_17:BODY_4:BODY_10:BODY_7:BODY_8|0
+ghc clauses|JJ NNS|BODY_6:BODY_4|0
+the body|DT NN|BODY_2:BODY_3:BODY_4|0
+input arguments|NN NNS|BODY_5:BODY_2:BODY_3:BODY_7|0
+a )|DT -RRB-|BODY_13:BODY_2:BODY_3|0
+head matching|JJ NN|BODY_6:BODY_2:BODY_3:BODY_10|0
+parlog programs|NN NNS|BODY_6:BODY_4:BODY_7|0
+parlog goals|NN NNS|BODY_2:BODY_1:BODY_10|0
+clp languages|NN NNS|BODY_1:BODY_2:BODY_3|0
+execution|NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+the safety|DT NN|BODY_12:BODY_1:BODY_3|0
+'s guard|POS NN|BODY_5:BODY_2:BODY_10|0
+a set|DT NN|BODY_5:BODY_3|0
+bindings|NNS|BODY_5:BODY_3:BODY_10:BODY_4:BODY_8|0
+kernel parlog|NN NN|BODY_6:BODY_5:BODY_1|0
+satisfy/2|NNS|BODY_6:BODY_5:BODY_4|0

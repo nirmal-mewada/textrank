@@ -1,0 +1,1572 @@
+we|PRP|BODY_12:BODY_11:BODY_63:BODY_18:BODY_13:BODY_2:BODY_3:BODY_24:BODY_4:BODY_37:BODY_6:BODY_5:BODY_36:BODY_1:BODY_10:BODY_7:BODY_48|1
+that|WDT|BODY_11:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_6:BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+the program|DT NN|BODY_12:BODY_11:BODY_61:BODY_22:BODY_18:BODY_13:BODY_2:BODY_24:BODY_3:BODY_4:BODY_6:BODY_5:BODY_59:ABSTRACT_5:BODY_34:BODY_1:BODY_10:BODY_7:BODY_8:BODY_20|1
+the number|DT NN|BODY_15:BODY_26:BODY_2:BODY_14:BODY_24:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_51:BODY_7:BODY_8:BODY_9:BODY_20|0
+the system|DT NN|BODY_41:BODY_12:BODY_11:BODY_23:BODY_26:BODY_2:BODY_25:BODY_3:BODY_38:BODY_4:BODY_6:BODY_46:BODY_5:BODY_10:BODY_51:BODY_7:BODY_8:BODY_9|0
+programs|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_15:ABSTRACT_2:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|0
+they|PRP|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8:BODY_9|1
+i|IN|BODY_11:BODY_18:BODY_13:BODY_2:BODY_3:BODY_14:BODY_38:BODY_4:BODY_6:BODY_5:BODY_57:BODY_45:BODY_1:BODY_50:BODY_7:BODY_29:BODY_8:BODY_55|0
+(|-LRB-|BODY_41:BODY_11:BODY_18:BODY_21:BODY_15:BODY_13:BODY_14:BODY_4:BODY_5:BODY_31:BODY_28:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_11:BODY_36:BODY_5:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+this|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_64:BODY_3:BODY_10:BODY_4:BODY_9|0
+conversion|NN|BODY_17:BODY_15:BODY_2:BODY_1:BODY_3|0
+)|-RRB-|BODY_12:BODY_40:BODY_15:BODY_25:BODY_3:BODY_14:BODY_6:BODY_31:BODY_59:BODY_7:BODY_29:BODY_8:BODY_9:BODY_20|0
+the equation|DT NN|BODY_12:BODY_5:BODY_17:BODY_25:BODY_2:BODY_3:BODY_4:BODY_19:BODY_8:BODY_9|0
+goto|NNP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4|0
+factorization|NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_2:BODY_1:BODY_44:BODY_3:BODY_4:BODY_8:BODY_9|0
+us|PRP|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+a program|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+our method|PRP$ NN|BODY_6:BODY_2:BODY_1:BODY_10:BODY_4:BODY_7|0
+loops|NNS|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_10:BODY_7|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7:BODY_8|0
+the graph|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+the semantics|DT NNS|BODY_6:BODY_5:BODY_2:BODY_9|0
+boolean expressions|JJ NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+resolution|NN|BODY_6:BODY_5:BODY_66:BODY_2:BODY_3:BODY_4|1
+x i|SYM NN|BODY_11:BODY_1:BODY_3:BODY_38:BODY_10:BODY_4:BODY_7:BODY_9|0
+continuations|NNS|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+x j|NN NN|BODY_12:BODY_14:BODY_3:BODY_10:BODY_8:BODY_9|0
+2|CD|BODY_6:BODY_36:BODY_5:BODY_7:BODY_30|0
+normalization|NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_10|0
+the unknowns|DT NNS|BODY_6:BODY_13:BODY_1:BODY_38:BODY_4:BODY_37:BODY_8:BODY_9|1
+the complexity|DT NN|ABSTRACT_4:BODY_2:BODY_49:BODY_3:BODY_4|0
+one|NN|BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the normalized form|DT JJ NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+unknowns|NNS|BODY_11:BODY_5:BODY_22:BODY_14:BODY_3:BODY_7:BODY_8|0
+code|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_8|0
+each unknown|DT JJ|BODY_2:BODY_4:BODY_7|0
+the nodes|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|1
+miprac|NN|BODY_5:BODY_13:BODY_1:BODY_3:BODY_8|0
+a loop|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+x 1|SYM CD|BODY_6:BODY_12:BODY_2:BODY_37:BODY_8|0
+1|CD|BODY_6:BODY_18:BODY_27:BODY_1:BODY_8|0
+the|DT|BODY_5:BODY_1:BODY_4:BODY_8|0
+the normalization method|DT NN NN|BODY_1:BODY_2:BODY_3:BODY_50|0
+while|IN|BODY_33:BODY_43:BODY_53:BODY_3:BODY_14:BODY_30:BODY_55|0
+'s|POS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7|0
+branches|NNS|BODY_2:BODY_3:BODY_14:BODY_7:BODY_9|0
+this order|DT NN|BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|1
+x 4|SYM CD|BODY_11:BODY_40:BODY_15:BODY_2:BODY_25:BODY_1:BODY_7|0
+a function|DT NN|BODY_6:BODY_3:BODY_10|0
+them|PRP|BODY_5:BODY_16:BODY_2:BODY_4|0
+the order|DT NN|BODY_6:BODY_35:BODY_2:BODY_1:BODY_7:BODY_65|1
+the normalization|DT NN|BODY_3:BODY_4:BODY_7|0
+the university|DT NN|BODY_11:BODY_16:BODY_3:BODY_4|0
+selector expressions|NN NNS|BODY_5:BODY_17:BODY_2:BODY_3:BODY_7|0
+these algorithms|DT NNS|BODY_1:BODY_2:BODY_3|0
+the control-flow|DT NN|BODY_11:BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_4|0
+the while loop|DT NN NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+the algorithm|DT NN|BODY_1:BODY_2:BODY_4|0
+1 )|CD -RRB-|BODY_11:BODY_5:BODY_42:BODY_15:BODY_20|0
+elimination|NN|BODY_36:BODY_5:BODY_49:BODY_24:BODY_3:BODY_8|0
+the loops|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+this method|DT NN|BODY_1:BODY_2:BODY_4|0
+a system|DT NN|BODY_5:BODY_53:BODY_2:BODY_3|0
+figure 4|NN CD|BODY_6:BODY_5:BODY_4:BODY_7|0
+2 )|CD -RRB-|BODY_6:BODY_11:BODY_7:BODY_29:BODY_8|0
+all|DT|BODY_6:BODY_1:BODY_3:BODY_10|0
+itself|PRP|BODY_6:BODY_11:BODY_2:BODY_4|0
+the ratio|DT NN|BODY_5:BODY_1:BODY_2|0
+i )|FW -RRB-|BODY_13:BODY_7:BODY_9|0
+the flowgraph|DT NN|BODY_6:BODY_11:BODY_5:BODY_3:BODY_4:BODY_7|0
+the factorization|DT NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+control dependences|NN NNS|BODY_2:BODY_3:BODY_4|0
+2 (|CD -LRB-|BODY_6:BODY_34:BODY_28:BODY_42:BODY_49|0
+equations|NNS|BODY_6:BODY_3:BODY_4|0
+an equation|DT NN|BODY_1:BODY_4:BODY_7|0
+n|NN|BODY_5:BODY_4:BODY_19:BODY_8|0
+this system|DT NN|BODY_5:BODY_1:BODY_2:BODY_7:BODY_20|0
+the code|DT NN|BODY_11:BODY_3:BODY_9|0
+1 (|CD -LRB-|BODY_56:BODY_31:BODY_5:BODY_17:BODY_44:BODY_4:BODY_37:BODY_54|0
+'s interval analysis|POS NN NN|BODY_6:BODY_4:BODY_10|0
+course|NN|BODY_34:BODY_2:BODY_1:BODY_7|0
+an unknown|DT JJ|BODY_17:BODY_2:BODY_4:BODY_9|0
+example|NN|BODY_13:BODY_1:BODY_9|0
+the elimination|DT NN|BODY_1:BODY_3:BODY_7|0
+this algorithm|DT NN|BODY_1:BODY_2|0
+this paper|DT NN|BODY_5:BODY_2:BODY_4:BODY_9|0
+program transformations|NN NNS|BODY_6:ABSTRACT_4:BODY_2:BODY_8|0
+the method|DT NN|ABSTRACT_5:BODY_1:BODY_3:ABSTRACT_1|0
+normalized form|JJ NN|BODY_58:BODY_2:BODY_44:BODY_19|0
+languages|NNS|BODY_2:BODY_3:BODY_4|0
+k|NN|BODY_6:BODY_12:BODY_5:BODY_17:BODY_1:BODY_14:BODY_10:BODY_7|0
+intervals|NNS|BODY_2:BODY_4|0
+'s method|POS NN|BODY_2:BODY_3|0
+the body|DT NN|BODY_10:BODY_7:BODY_8|0
+a node|DT NN|BODY_5:BODY_2:BODY_3|0
+common lisp|JJ NN|BODY_5:BODY_3|0
+the loop|DT NN|BODY_6:BODY_11:BODY_3:BODY_8|0
+these|DT|BODY_5:BODY_1|0
+grant|NN|BODY_13:BODY_4|0
+exp 2|NN CD|BODY_17:BODY_18:BODY_21:BODY_15:BODY_4|0
+statement|NN|BODY_5:BODY_3:BODY_7:BODY_9|0
+methods|NNS|BODY_1:BODY_3:BODY_4|0
+transformations|NNS|BODY_5:BODY_52:BODY_1:BODY_3:ABSTRACT_1|0
+a normalized program|DT JJ NN|BODY_3|0
+statements|NNS|BODY_1:BODY_3:BODY_7|0
+this transformation|DT NN|BODY_2|0
+control-flow|NN|BODY_6:BODY_4|0
+the transformations|DT NNS|BODY_11:BODY_5:BODY_2:BODY_3|0
+continuation equations|NN NNS|BODY_17:BODY_21:BODY_3:BODY_4:BODY_8|0
+substitutions|NNS|BODY_5:BODY_21:BODY_2:BODY_4|0
+program|NN|BODY_22:BODY_9|0
+effect|NN|ABSTRACT_2:BODY_1:BODY_3:BODY_4|0
+all control-flow cycles|DT JJ NNS|ABSTRACT_2:BODY_2:BODY_8|0
+the header|DT NN|BODY_5:BODY_2:BODY_7|0
+each|DT|BODY_5:BODY_1:BODY_3|0
+the syntax tree|DT NN NN|BODY_5:ABSTRACT_4|0
+ours|PRP|BODY_6:BODY_2:BODY_3|0
+the reader|DT NN|BODY_5:BODY_1|0
+the allen and cocke algorithm|DT JJ CC JJ NN|BODY_6:BODY_1:BODY_4:BODY_9|0
+this graph|DT NN|BODY_3:BODY_8|0
+24 and 25|CD CC CD|BODY_2|0
+a comparison|DT NN|BODY_2|0
+a point|DT NN|BODY_2|0
+an implicit order|DT JJ NN|BODY_2|0
+exactly this|RB DT|BODY_2|0
+our work several techniques|PRP$ NN JJ NNS|BODY_2|0
+the tail function|DT NN NN|BODY_2|0
+these examples|DT NNS|BODY_2|0
+this same syntax|DT JJ NN|BODY_2|0
+the case|DT NN|BODY_5:BODY_4:BODY_10|0
+the normalized program|DT VBN NN|BODY_6:BODY_4:BODY_9|0
+the expression|DT NN|BODY_6:BODY_8|0
+h|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+a sample|DT NN|BODY_2:BODY_8|0
+the total compilation time|DT JJ NN NN|BODY_1:BODY_7|0
+( set|-LRB- NN|BODY_12:BODY_10|0
+x 2|SYM CD|BODY_13:BODY_3:BODY_50:BODY_4|0
+procedures|NNS|BODY_3:BODY_7:BODY_8|0
+the boolean expressions|DT JJ NNS|BODY_2:BODY_7:BODY_8|0
+a continuation semantics|DT NN NNS|BODY_5:BODY_2:BODY_9|0
+these methods|DT NNS|BODY_2:BODY_1:BODY_4:BODY_7|0
+! i|. FW|BODY_11:BODY_9|0
+parallelization|NN|BODY_2:BODY_8:BODY_9|0
+those|DT|BODY_6:BODY_3|0
+b-ohm|NNP|BODY_2:BODY_4|0
+interval analysis|NN NN|BODY_3:BODY_4|0
+the equations|DT NNS|BODY_5:BODY_16:BODY_1:BODY_8|1
+figure|NN|BODY_2:BODY_4:BODY_8|0
+the program eanf|DT NN NN|BODY_5|0
+order|VB|BODY_39:BODY_7|0
+the substitution|DT NN|BODY_1:BODY_2:BODY_7|0
+nodes|NNS|BODY_3:BODY_10:BODY_4|0
+a conditional statement|DT JJ NN|BODY_3:BODY_4|0
+selector|NN|BODY_23:BODY_26:BODY_4|0
+figures|NNS|BODY_2:BODY_3|0
+the elimination process|DT NN NN|BODY_1:BODY_2|0
+the growth|DT NN|BODY_2:BODY_10:BODY_7|0
+this case|DT NN|BODY_15:BODY_1|0
+x 0|NN CD|BODY_6:BODY_5:BODY_45:BODY_3|0
+one whose target|CD WP$ NN|BODY_2|0
+the second one|DT JJ CD|BODY_6:BODY_5|0
+a direct semantics|DT JJ NNS|BODY_2:BODY_10:BODY_7|0
+the normalization process|DT NN NN|BODY_5:BODY_1:BODY_2|0
+the size|DT NN|BODY_5|0
+the worst case|DT JJS NN|BODY_5:BODY_1|0
+the cost|DT NN|BODY_13:BODY_7|0
+one unknown|CD NN|BODY_12:BODY_5|0
+the continuation|DT NN|BODY_5:BODY_1:BODY_4|0
+every node|DT NN|BODY_5:BODY_2:BODY_9|0
+this program|DT NN|BODY_6:BODY_2:BODY_3|0
+figure 7|NN CD|BODY_27:BODY_2|0
+the treatment|DT NN|BODY_6:BODY_3|0
+loop headers|NN NNS|BODY_5:BODY_4|0
+the continuations|DT NNS|BODY_16:BODY_8|0
+a b n|DT NN NN|BODY_2:BODY_24:BODY_14|0
+o( n|NN NN|BODY_3|0
+automatic parallelization|JJ NN|BODY_5:ABSTRACT_6:BODY_3|0
+terms|NNS|BODY_5:BODY_1:BODY_4|0
+instructions|NNS|BODY_4:BODY_7|0
+the reason|DT NN|BODY_2:BODY_4|0
+backward branches|JJ NNS|BODY_3:BODY_9|0
+work|NN|BODY_5:BODY_2|0
+pred 1|VBD CD|BODY_6:BODY_13:BODY_8|0
+the total number|DT JJ NN|BODY_3:BODY_20|0
+j|NN|BODY_17:BODY_18:BODY_3|0
+further|JJ|BODY_2|0
+induction variable recognition [6|NN JJ NN NNS|BODY_4|0
+4|CD|BODY_16:BODY_9|0
+use|NN|BODY_2:BODY_8|0
+these techniques|DT NNS|BODY_2|0
+figure 5|NN CD|BODY_2:BODY_3:BODY_4|0
+a deeper analysis|DT JJR NN|BODY_3|1
+dataflow analysis|JJ NN|BODY_5:BODY_3|0
+the above methods|DT JJ NNS|BODY_5:BODY_2|0
+x 3|SYM CD|BODY_2:BODY_14|0
+the purpose|DT NN|BODY_1:BODY_4|0
+'s transformation [20]|POS NN NN|BODY_3|0
+complex output|JJ NN|BODY_3|0
+recursion splitting [22]|NN NN NNS|BODY_2|0
+t 1 hecht|NN CD NN|BODY_2|0
+these transformations|DT NNS|BODY_2:BODY_4|0
+the irreducible program|DT JJ NN|BODY_45:BODY_3|0
+figure 21|NN CD|BODY_6:BODY_26|0
+the control dependence graph|DT NN NN NN|ABSTRACT_2:BODY_2|0
+part|NN|BODY_11:BODY_4|0
+a time|DT NN|BODY_2:BODY_3|0
+this work|DT NN|BODY_10:BODY_7|0
+intraprocedural dataflow analysis|JJ NN NN|BODY_3|0
+a loop header|DT NN NN|BODY_5:BODY_3:BODY_4|0
+these systems|DT NNS|BODY_2|0
+( .not. pred-22|-LRB- NN NN|BODY_4|0
+figure 3|NN CD|BODY_6:BODY_62:BODY_1:BODY_19|0
+( .not. br1|-LRB- NNP NN|BODY_28:BODY_27:BODY_26|0
++ j|NN NN|BODY_31:BODY_19|0
+the tarjan method|DT NN NN|BODY_2|0
+the fact|DT NN|BODY_6:BODY_4|0
+the unknown|DT JJ|BODY_6:BODY_12:BODY_11:BODY_10|0
+case|NN|BODY_6:BODY_1:BODY_7|0
+the paper|DT NN|BODY_13:BODY_4:BODY_7:BODY_8|0
+a binary operator|DT JJ NN|BODY_8|0
+cmd )|NN -RRB-|BODY_2|0
+finite automata|JJ NN|BODY_7|0
+) ) ) figure 2|-RRB- -RRB- -RRB- NN CD|BODY_16|0
+its complexity|PRP$ NN|TITLE_2:BODY_10|0
+cycles|NNS|BODY_2:BODY_3|0
+the transformed program|DT VBN NN|BODY_7|0
+derecursivation|NN|BODY_5:BODY_2:BODY_1:BODY_10|0
+the value|DT NN|BODY_43|0
+the code replication|DT NN NN|BODY_70:BODY_4:BODY_8|0
+a condition|DT NN|BODY_2:BODY_9|0
+every control-flow cycle|DT JJ NN|BODY_6:BODY_2|0
+the office|DT NN|BODY_2|0
+the u.s. air force office|DT NNP NN NN NN|BODY_2|0
+the u.s. department|DT NN NN|BODY_2|0
+code replication|NN NN|BODY_6:ABSTRACT_3|0
+37|CD|BODY_6|0
+form|NN|BODY_3:BODY_9|0
+a temporary variable (|DT JJ JJ -LRB-|BODY_5:BODY_4|0
+'s analysis|POS NN|BODY_12:BODY_8|0
+the grammar|DT NN|BODY_3|0
+ackerman|NN|BODY_8|0
+our language|PRP$ NN|BODY_6|0
+improvements|NNS|BODY_2|0
+a donation|DT NN|BODY_2|0
+pre-calculation|NN|BODY_3:BODY_9|0
+boolean variables|JJ NNS|BODY_5:BODY_3|0
+the reduced equations|DT JJ NNS|BODY_2:BODY_3|0
+derecursivations|NNS|BODY_2|0
+the first step|DT JJ NN|BODY_6:BODY_1:BODY_2|0
+the result|DT NN|BODY_1:BODY_4|0
+a goto|DT NN|BODY_2|0
+the selection tree|DT NN NN|BODY_34:BODY_39:BODY_2|0
+reducible flowgraphs|JJ NNS|BODY_2:BODY_3|0
+1 exp|CD NN|BODY_6:BODY_3:BODY_4|0
+neither|DT|BODY_7|0
+the irregular structure|DT JJ NN|BODY_5|0
+a loss|DT NN|BODY_2|0
+sends control|VBZ NN|BODY_4|0
+a fortran-like syntax|DT JJ NN|BODY_6:BODY_4|0
+n )|NN -RRB-|BODY_5:BODY_3|0
+many control structures|JJ NN NNS|BODY_2|0
+miprac fortran , c and cl front-ends|JJ NN , NN CC JJ NNS|BODY_2|0
+the program [4|DT NN NN|BODY_4|0
+three types|CD NNS|BODY_4|0
+the sequence|DT NN|BODY_6|0
+l|JJ|BODY_2|0
+solutions|NNS|BODY_4|0
+a separate representation|DT JJ NN|BODY_9|0
+the gaussian elimination|DT JJ NN|BODY_2|0
+1 ( set|CD -LRB- NN|BODY_16:BODY_26:BODY_4|0
+the middle|DT NN|BODY_5:BODY_4|0
+the following form|DT VBG NN|BODY_2|0
+10 ) )|CD -RRB- -RRB-|BODY_46:BODY_56:BODY_51|0
+pascal [45]|JJ NN|BODY_6|0
+the column|DT NN|BODY_2|0
+note|NN|BODY_1:BODY_4|0
+such an elimination|JJ DT NN|BODY_2|0
+the equation x i|DT NN NN NN|BODY_12:BODY_3|0
+space|NN|BODY_2|0
+its arguments|PRP$ NNS|BODY_7|0
+the closest|DT JJS|BODY_10|0
+a flowchart|DT NN|BODY_2|0
+the reference paper [5]|DT NN NN NN|BODY_2|0
+a straightforward dataflow analysis|DT JJ NN NN|BODY_9|0
+the derecursivation transformation|DT NN NN|BODY_2:BODY_3|0
+the degree|DT NN|BODY_10|0
+branching instructions|JJ NNS|BODY_2:BODY_9|0
+b|NN|BODY_2|0
+the author|DT NN|BODY_1:BODY_8|0
+conversion [5]|NN NN|BODY_5:BODY_3|0
+memory )|NN -RRB-|BODY_3:BODY_7|0
+a factorization|DT NN|BODY_2:BODY_8|0
+the second|DT JJ|BODY_1:BODY_3|0
+program analysis|NN NN|ABSTRACT_5:BODY_2|0
+( not pred 1 ( not pred 1 )|-LRB- RB VBD CD -LRB- RB VBD CD -RRB-|BODY_47:BODY_21|0
+tokura [33]|DT NN|BODY_2|0
+a gaussian elimination|DT JJ NN|BODY_5|0
+control-flow normalization result|NN NN NN|BODY_2|0
+exit branches|NN NNS|BODY_4:BODY_8|0
+the same unknown|DT JJ JJ|BODY_20|0
+branch relocation|NN NN|BODY_1:BODY_2|0
+its target|PRP$ NN|BODY_5|0
+this form|DT NN|BODY_2|0
+a unary operator|DT JJ NN|BODY_4|0
+not|RB|BODY_6|0
+1 g reducible )|CD JJ JJ -RRB-|BODY_2|0
+an o( n|DT NN NN|BODY_4|0
+distribution|NN|BODY_4:BODY_8|0
+conventional do loops|JJ VB NNS|BODY_3|0
+) )|-RRB- -RRB-|BODY_33:BODY_17|0
+our technique|PRP$ NN|BODY_1:BODY_4|0
+sometimes entire subroutines|RB JJ NNS|BODY_13|0
+this approach|DT NN|BODY_2|0
+t 2|NN CD|BODY_2:BODY_7|0
+the dataflow equations|DT NN NNS|BODY_2:BODY_9|0
+2 ) allen and cocke|CD -RRB- VBN CC NN|BODY_6|0
+18|CD|BODY_5|0
+the above equation|DT JJ NN|BODY_2|0
+the equivalent system|DT JJ NN|BODY_1:BODY_3|0
+the statements|DT NNS|BODY_7|0
+expressions|NNS|BODY_3:BODY_4|0
+the one|DT CD|BODY_5:BODY_4|0
+the program text|DT NN NN|BODY_4|0
+a flowgraph|DT NN|BODY_6:BODY_4|0
+10|CD|BODY_58:BODY_39:BODY_4:BODY_19:BODY_7:BODY_30|0
+the dependency graph|DT NN NN|BODY_4:BODY_7|0
+only once|RB RB|BODY_5:BODY_2|0
+each x|DT NN|BODY_3:BODY_4|0
+a depth-first order|DT JJ NN|BODY_2:BODY_7|0
+the t 0 transformation|DT NN CD NN|BODY_1:BODY_3|0
+the loop body|DT NN NN|BODY_5:BODY_13:BODY_4|0
+) (|-RRB- -LRB-|BODY_6:BODY_32|0
+the loop headers|DT NN NNS|BODY_6:BODY_10|1
+2 i 2|CD VBG CD|BODY_14|0
+biop|NN|BODY_7|0
+unop|NN|BODY_3|0
+the set|DT NN|BODY_6:BODY_3|0
+several improvements|JJ NNS|BODY_9|0
+the application|DT NN|BODY_1:BODY_2|0
+26 ] and conversion|CD NNS CC NN|BODY_6|0
+iteration|NN|BODY_9|0
+edges|NNS|BODY_5:BODY_7|0
+common factors|JJ NNS|BODY_2|0
+graphs|NNS|BODY_3:BODY_4|0
+dramatic consequences|JJ NNS|BODY_2|0
+( (.not. br1|-LRB- NN NN|BODY_29|0
+figure 13|NN CD|BODY_21:BODY_3|0
+similar problems|JJ NNS|BODY_8|0
+other words|JJ NNS|BODY_1|0
+all branching instructions|DT NN NNS|BODY_2:BODY_4|0
+a while loop|DT NN NN|BODY_3:BODY_4|0
+lambda (|NN -LRB-|BODY_53:BODY_4|0
+whose control flowgraphs|WP$ NN NNS|BODY_6:ABSTRACT_3|0
+20]|CD|BODY_3|0
+store|NN|BODY_11:BODY_5:BODY_1|0
+an abstract interpretation|DT JJ NN|BODY_1:BODY_8|0
+the solution|DT NN|BODY_1:BODY_9|0
+the source code|DT NN NN|BODY_12:BODY_6|0
+\gamma|NN|BODY_5|0
+g|NN|BODY_5:BODY_11:BODY_2|0
+applications|NNS|BODY_3|0
+the control flowgraph|DT NN NN|BODY_5:BODY_7:BODY_9|0
+the first|DT JJ|BODY_1|0
+i .e|FW NN|BODY_11:BODY_14|0
+return r|NN NN|BODY_15|0
+b-ohm and jacopini [13] present two normalization methods|NNP CC NNP NNP JJ CD JJ NNS|BODY_1|0
+figure 9|NN CD|BODY_2|0
+flow diagrams|NN NNS|BODY_2|0
+some syntactic restrictions|DT NN NNS|BODY_1|0
+the following section|DT VBG NN|BODY_2|0
+the input program|DT NN NN|BODY_2|0
+the language|DT NN|BODY_1|0
+the resultant system|DT NN NN|BODY_1|0
+[22]|NNS|BODY_6:BODY_4|0
+whose header|WP$ NN|BODY_3:BODY_4|0
+the unknown i|DT JJ NN|BODY_5:BODY_2|0
+a presentation|DT NN|BODY_2|0
+the inverse|DT NN|BODY_7|0
+a test|DT NN|BODY_42|0
+the source|DT NN|BODY_5|0
+the first one|DT JJ CD|BODY_1:BODY_3|0
+the calculation [1|DT NN NN|BODY_5|0
+any program|DT NN|BODY_5:BODY_4|0
+a map|DT NN|BODY_6|0
+a saving|DT NN|BODY_4|0
+the need|DT NN|BODY_7|0
+systems|NNS|BODY_7|0
+several times|JJ NNS|BODY_13|0
+s|PRP|BODY_5:BODY_1|0
+its elimination|PRP$ NN|BODY_2:BODY_10|0
+unstructured programs|JJ NNS|BODY_6:BODY_11:BODY_1|0
+shortest path problems|JJS NN NNS|BODY_4|0
+any case|DT NN|BODY_41|0
+43369 42716 154 43899 0.003|CD CD CD CD CD|BODY_5|0
+the difficulty|DT NN|BODY_4|0
+the ibm corporation|DT JJ NN|BODY_3|0
+a derecursivation|DT NN|BODY_3|0
+an extended topological order|DT JJ JJ NN|BODY_5:BODY_1|1
+several ways|JJ NNS|BODY_2|0
+the two unknowns|DT CD NNS|BODY_10|0
+a complexity|DT NN|BODY_2|0
+delete x i|JJ SYM FW|BODY_3|0
+interval head|NN NN|BODY_3|0
+allen and kennedy|VBN CC NN|BODY_1:BODY_3|0
+base diagrams|NN NNS|BODY_3|0
+each variable|DT JJ|BODY_3|0
+new variables|JJ NNS|BODY_5|0
+) ( set|-RRB- -LRB- VB|BODY_36:BODY_16|0
+defun f ( lambda|JJ NN -LRB- NN|BODY_10|0
+3|CD|BODY_2:BODY_7|0
+.e|FW|BODY_8:BODY_9|0
+100|CD|BODY_7|0
+irreducible graphs|JJ NNS|BODY_6:BODY_2|0
+single-entry , single-exit while loops|JJ , JJ IN NNS|ABSTRACT_3|0
+traditional parallelizing compilers|JJ JJ NNS|BODY_2|0
+ordered list|VBN NN|BODY_6:BODY_13|0
+parallelism|NN|BODY_3|0
+the false part|DT JJ NN|BODY_10|0
+parsing , normalization , interprocedural analysis|NN , NN , JJ NN|BODY_2|0
+figure 29|NN CD|BODY_2:BODY_19|0
+its|PRP$|BODY_5:BODY_9|0
+) i 3 i) ) ) figure 3|-RRB- FW CD NN -RRB- -RRB- NN CD|BODY_13|0
+ff|NN|BODY_6|0
+( .not. pred-20|-LRB- NN NN|BODY_3|0
+simplicity|NN|BODY_2|0
+global flow analysis|JJ NN NN|BODY_2|0
+boolean expres|JJ NNS|BODY_6|0
+analysis|NN|BODY_4|0
+even when normalizing programs|RB WRB JJ NNS|BODY_7|0
+only the continuation variables|RB DT NN NNS|BODY_7|0
+the three|DT CD|BODY_3|0
+5472 migration|CD NN|BODY_4|0
+the work|DT NN|BODY_3|0
+a substitution|DT NN|BODY_2|0
+the goto|DT NN|BODY_2|0
+530 total 426648 416968|CD JJ CD CD|BODY_6|0
+( .not. ( pred-162 .and.pred-164|-LRB- NNP -LRB- NN NN|BODY_17|0
+) y ) ) ) )|-RRB- NN -RRB- -RRB- -RRB- -RRB-|BODY_6|0
+energy|NN|BODY_3|0
+naval research|JJ NN|BODY_3|0
+scientific research|JJ NN|BODY_3|0
+less code growth|JJR NN NN|BODY_5|0
+41912 178 42632 0.004 -437|CD CD CD CD NNS|BODY_13|0
+migration|NN|BODY_12|0
+a different notion|DT JJ NN|BODY_3|0
+temporary variables|JJ NNS|BODY_2|0
+the hecht and ullman algo|DT NN CC JJ NN|BODY_3|0
+baker|NN|BODY_2|0
+the resulting programs|DT VBG NNS|BODY_7|0
+factorizations|NNS|BODY_2:BODY_25|0
+hecht|PRP|BODY_2:BODY_1|0
+doall loops|NN NNS|BODY_8|0
+figure 26|NN CD|BODY_2:BODY_14|0
+the continuation equations|DT NN NNS|BODY_6:BODY_3:BODY_4|0
+a stronger condition|DT JJR NN|ABSTRACT_6|0
+their syntax and structure|PRP$ NN CC NN|ABSTRACT_8|0
+sions|NNS|BODY_7|0
+the condition|DT NN|BODY_2:BODY_10|0
+) repeat|-RRB- NN|BODY_22|0
+mdg 13870 13648 43 19342 0.003 -222|JJ CD CD CD CD CD NN|BODY_3|0
+a parallelizer|DT NN|BODY_9|0
+each term|DT NN|BODY_5|0
+another equivalent one|DT JJ CD|BODY_4|0
+a simple comprehensive algorithm|DT JJ JJ NN|BODY_2|0
+simplification|NN|BODY_4|0
+selector expressions results|NN NNS NNS|BODY_4|0
+every time|DT NN|BODY_4|0
+the branches|DT NNS|BODY_2|0
+appearances|NNS|BODY_41:BODY_3|0
+605491 0.01|CD CD|BODY_7|0
+figure 33|NN CD|BODY_5:BODY_2|1
+the compositionality|DT NN|BODY_12:BODY_5|0
+3 x k|CD NN NN|BODY_5:BODY_1|0
+do loops|VB NNS|BODY_6|0
+its statement|PRP$ NN|BODY_6|0
+rithm|NN|BODY_4|0
+which branches|WDT NNS|BODY_2|0
+guard expressions|NN NNS|BODY_3|0
+pred-50|NN|BODY_20|0
+'s work [21]|POS NN NN|BODY_3|0
+such a graph|JJ DT NN|BODY_1:BODY_3|0
+( y|-LRB- NN|BODY_15|0
+assignment conditional ffl iteration|NN JJ JJ NN|BODY_8|0
+figure 14|NN CD|BODY_8|0
+the begin form|DT VB NN|BODY_11|0
+283 total 414088 401772 1868 587513 0.004|JJ JJ CD CD CD CD CD|BODY_14|0
+eanf sexp ean bexp/ean gf|JJ NN JJ JJ NN|BODY_11|0
+the effect|DT NN|BODY_5:BODY_1|0
+sample|NN|BODY_14|0
+the analysis|DT NN|BODY_2:BODY_1|0
+any expression|DT NN|BODY_2|0
+any program analysis|DT NN NN|BODY_4|0
+a method|DT NN|BODY_11:BODY_1|0
+the code size|DT NN NN|BODY_1:BODY_2|0
+control-flow normalization|NN NN|BODY_6:BODY_1|0
+global dataflow side effects|JJ JJ NN NNS|BODY_3|0
+i j|FW FW|BODY_5:BODY_54|0
+r y|NN NN|BODY_13|0
+the compiler|DT NN|BODY_2:BODY_1|0
+both methods|DT NNS|BODY_1:BODY_4|0
+this backward branch|DT JJ NN|BODY_3|0
+1 x|CD NN|BODY_10|0
+) y ) ( f ( car x|-RRB- NN -RRB- -LRB- NN -LRB- NN SYM|BODY_5|0
+reducibility|NN|ABSTRACT_7|0
+the boolean expression (|DT JJ NN -LRB-|BODY_4|0
+whose form|WP$ NN|BODY_2|0
+the importance|DT NN|BODY_2|0
+3 x j|CD SYM NN|BODY_16:BODY_19|0
+lisp program|NN NN|BODY_15|0
+all the transformations|PDT DT NNS|BODY_3|0
+3 i 1 ( set|CD FW CD -LRB- NN|BODY_9|0
+43]|CD|BODY_4|0
+a precise mathematical specification|DT JJ JJ NN|BODY_4|0
+assignment|NN|BODY_5|0
+'s ) and labels|POS -RRB- CC NNS|BODY_6|0
+the language [42|DT NN NN|BODY_7|0
+two transformations|CD NNS|BODY_2|0
+whose procedures bodies|WP$ NNS NNS|BODY_7|0
+x|NN|BODY_6:BODY_12|0
+the interested reader|DT JJ NN|BODY_2|0
+goals|NNS|BODY_2|0
+its ad-hoc treatment|PRP$ JJ NN|BODY_3|0
+a numbering|DT NN|BODY_2|0
+the continuation equations system|DT NN NNS NN|BODY_4|0
+figure 19|NN CD|BODY_6:BODY_5|0
+possible [9]|JJ NN|BODY_7|0
+entry|NN|BODY_10|0
+arbitrary control-flow cycles|JJ JJ NNS|BODY_6|0
+e.g.|FW|BODY_7|0
+only the following three control structures|RB DT VBG CD NN NNS|BODY_7|0
+algol 60 [31]|JJ CD NN|BODY_5|0
+several|JJ|BODY_6:BODY_11|0
+( and ( not pred 1|-LRB- CC -LRB- RB VBN CD|BODY_33:BODY_35|0
+the g (|DT NN -LRB-|BODY_5|0
+a loop 1|DT NN CD|BODY_6|0
+some methods|DT NNS|BODY_4|0
+a temporary variable|DT JJ JJ|BODY_3|0
+the same code|DT JJ NN|BODY_4|0
+source code|NN NN|BODY_9|0
+the definition|DT NN|BODY_5|0
+mode vectors|NN NNS|BODY_6|0
+2.5.3 factorization|CD NN|BODY_11|0
+scheme|NN|BODY_5|0
+the statement|DT NN|BODY_11|0
+the gaussian elimination-like solution|DT JJ JJ NN|BODY_6|0
+conditional statements|JJ NNS|BODY_7|0
+their comments|PRP$ NNS|BODY_3|0
+the cycle|DT NN|BODY_3|0
+t 2 transformations|NN CD NNS|BODY_5|0
+j ) ) ) ) (|NN -RRB- -RRB- -RRB- -RRB- -LRB-|BODY_38|0
+three different languages|CD JJ NNS|BODY_10|0
+eliminating irreducibility|VBG NN|BODY_4|0
+cmd ( set|JJ -LRB- NN|BODY_3|0
+global dataflow analysis|JJ NN NN|BODY_2|0
+( derecursivation|-LRB- NN|BODY_3|0
+a sequence|DT NN|BODY_5|0
+these problems|DT NNS|BODY_2|0
+replicates code|NNS NN|BODY_3|0
+last ) definition|JJ -RRB- NN|BODY_10|0
+the resolution|DT NN|BODY_1:BODY_2|0
+a backward branch|DT JJ NN|BODY_1:BODY_8|0
+2 pred 3 ) ) ) ) ( and ( not pred 1 ) (|CD VBN CD -RRB- -RRB- -RRB- -RRB- -LRB- CC -LRB- RB VBN CD -RRB- -LRB-|BODY_39|0
+a uniform treatment|DT JJ NN|BODY_5|0
+a dataflow analysis problem|DT NN NN NN|BODY_3|0
+such eliminating goto statements|JJ VBG NN NNS|BODY_4|0
+the exit condition|DT NN NN|BODY_2|0
+all these labels and goto|PDT DT NNS CC NN|BODY_3|0
+the control|DT NN|BODY_4|0
+the topological sort|DT JJ NN|BODY_4|0
+the the program|DT DT NN|BODY_4|0
+another one|DT CD|BODY_6|0
+a rare condition|DT JJ NN|BODY_5|0
+'s paper|POS NN|BODY_4|0
+the reference paper|DT NN NN|BODY_3|0
+source label|NN NN|BODY_9|0
+1 ( cond ( (null|CD -LRB- VB -LRB- VB|BODY_11|0
+) ) figure 1|-RRB- -RRB- NN CD|BODY_7|0
+the running time|DT VBG NN|BODY_68|0
+essential [32]|JJ NNS|BODY_5|0
+only the system|RB DT NN|BODY_5|0
+all iterative structures|DT JJ NNS|BODY_5|0
+some factorization|DT NN|BODY_2|0
+techniques|NNS|ABSTRACT_5:BODY_7|0
+.and. y|. NN|BODY_11|0
+the true and false parts|DT JJ CC JJ NNS|BODY_3|0
+ffl|IN|BODY_7|0
+the unknown set|DT JJ NN|BODY_6|0
+three phases|CD NNS|BODY_3|0
+( .not.|-LRB- NNP|BODY_21|0
+map syntactic constructs|NN NN NNS|BODY_5|0
+the target|DT NN|BODY_5|0
+multiple exits|JJ NNS|BODY_6:BODY_7|0
+all the unknowns|DT DT NNS|BODY_6:BODY_8|0
+the small number|DT JJ NN|BODY_2|0
+dominators|NNS|BODY_3|0
+classical program transformations|JJ NN NNS|BODY_5|0
+differences|NNS|BODY_2|0
+figure 28|NN CD|BODY_2|0
+restrictions|NNS|BODY_9|0
+*/ 200 if ( .not. bb1|RB CD IN -LRB- NNP NNS|BODY_7|0
+boolean guards|JJ NNS|BODY_5|1
+study program transformations|NN NN NNS|BODY_2|0
+the composition|DT NN|BODY_8|0
+the scientific computations|DT JJ NNS|BODY_6|0
+an assignment|DT NN|BODY_5|0
+both|DT|BODY_4|0
++ j k|JJ FW NN|BODY_12|0
+the first substitution|DT JJ NN|BODY_4|0
+]|NN|BODY_5|0
+figure 3 continuation equations system|NN CD NN NNS NN|BODY_60|0
+its execution|PRP$ NN|BODY_8|0
+the normal|DT JJ|BODY_5|0
+l and insert|JJ CC JJ|BODY_4|0
+variable correspondences|JJ NNS|BODY_2|0
+no branches|DT NNS|BODY_7|0
+a case statement|DT NN NN|BODY_3|0
+goto statements|JJ NNS|BODY_4|0
+2 ( set|CD -LRB- NN|BODY_22:BODY_3|0
+a procedure p|DT NN NN|BODY_2|0
+above|IN|BODY_2|0
+all the algorithms|DT DT NNS|BODY_2|0
+any condition|DT NN|BODY_2|0
+factor|NN|BODY_4|0
+the original program|DT JJ NN|BODY_2|0
+the problem|DT NN|BODY_2|0
+the resolution order|DT NN NN|BODY_1:BODY_2|0
+their respective cost|PRP$ JJ NN|BODY_2|0
+gf|NN|BODY_2|0
+much|JJ|BODY_2|0
+highly regular loop structures|RB JJ NN NNS|BODY_4|0
+jn|NN|BODY_13:BODY_1|0
+the flow diagrams|DT NN NNS|BODY_2|0
+the reaching definitions|DT VBG NNS|BODY_2|0
+continuations equations|NNS NNS|BODY_4:BODY_54|0
+the last step|DT JJ NN|BODY_3|0
+cmd 1 )|JJ CD -RRB-|BODY_9|0
+2 cmd 3 cmd 4 )|CD NN CD NN CD -RRB-|BODY_9|0
+a o( n|DT NN NN|BODY_5|0
+back-substitutions|NNS|BODY_2|0
+factorizing trfd|VBG NN|BODY_6|0
+( not pred 2 )|-LRB- RB VBD CD -RRB-|BODY_32:BODY_52|0
+the same program|DT JJ NN|BODY_8|0
+propagation|NN|BODY_1:BODY_10|0
+a straightforward gaussian elimination-like resolution method|DT JJ JJ JJ NN NN|BODY_2|0
+the graph e)|DT NN NN|BODY_2|0
+intuitively this equation|RB DT NN|BODY_3|0
+the branch|DT NN|BODY_4|0
+recursive lisp program|JJ NN NN|BODY_9|0
+the resulting graph|DT VBG NN|BODY_9|0
+i 3|IN CD|BODY_20|0
+method|NN|BODY_3|0
+no need|DT NN|BODY_8|0
+the total normalization time|DT JJ NN NN|BODY_6|0
+other loops|JJ NNS|BODY_12|0
+exactly one expression|RB CD NN|BODY_4|0
+single|JJ|BODY_9|0
+the simplest case|DT JJS NN|BODY_2|0
+the primitive expressions|DT JJ NNS|BODY_5|0
+the predecessors|DT NNS|BODY_4:BODY_7|0
+the guard|DT NN|BODY_40|0
+( goto|-LRB- NN|BODY_5|0
+simpler|JJR|BODY_6|0
+o(|NN|BODY_4|0
+the analysis algorithm|DT NN NN|BODY_5|0
+the top-level|DT JJ|BODY_7|0
+non-fast problems|JJ NNS|BODY_3|0
+our method yields programs|PRP$ NN NNS NNS|BODY_5|0
+do , dolist , dotime , loop , cond , block , return , break , case , switch , exit|VBP , NN , NN , NN , NN , NN , NN , NN , NN , NN , NN|BODY_3|0
+every loop|DT NN|BODY_3|0
+a list b h|DT NN NN NN|BODY_6|0
+the strongly connected component|DT RB JJ NN|BODY_3|0
+reducible ( defun f ( lambda|JJ -LRB- JJ NN -LRB- NN|BODY_4|0
+figure 6|NN CD|BODY_13:BODY_2|0
+all unknowns|DT NNS|BODY_4|0
+the same way|DT JJ NN|BODY_2|0
+single-entry , single-exit while loops and eliminates|JJ , JJ IN NNS CC NNS|BODY_3|0
+individual transformations|JJ NNS|BODY_8|0
+substitution|NN|BODY_5:BODY_2|0
+a new store (state|DT JJ NN NN|BODY_2|0
+the national science foundation|DT JJ NN NN|BODY_12|0
+no means|DT NNS|BODY_5|0
+complexity study|NN NN|BODY_3|0
+1 ) 200 figure 29|CD -RRB- CD NN CD|BODY_12|0
+figure 20 4 complexity|NN CD CD NN|BODY_46|0
+if|IN|BODY_12:BODY_15|0
+functions|NNS|BODY_3|0
+i 3.3 algorithm|FW CD NN|BODY_3|0
+a correct result|DT JJ NN|BODY_6|0
+the most recent|DT RBS JJ|BODY_9|0
+branch removal|NN NN|BODY_1:BODY_4|0
+selector expressions )|JJ NNS -RRB-|BODY_7|0
+c|NN|BODY_4|0
+fortran|CD|BODY_6:BODY_4|0
+our frame|PRP$ NN|BODY_4|0
+the while form|DT NN NN|BODY_12|0
+the latter form|DT JJ NN|BODY_8|0
+boolean expressions and selector expres|JJ NNS CC NN NNS|BODY_6|0
+program points|NN NNS|BODY_1:BODY_3|0
+a structured form|DT VBN NN|BODY_3|0
+the bnf|DT NN|BODY_3|0
+a well-formed program|DT JJ NN|BODY_3|0
+transformation|NN|BODY_6|0
+modifications|NNS|BODY_3|0
+previous methods|JJ NNS|BODY_1:ABSTRACT_1:ABSTRACT_9|0
+this technique|DT NN|ABSTRACT_5|0
+excessive code replication|JJ NN NN|BODY_3|0
+refinement|NN|BODY_4|0
+much stronger than reducibility|RB JJR IN NN|BODY_3|0
+a complete one|DT JJ CD|BODY_6|0
+particular|JJ|ABSTRACT_1:BODY_7|0
+increased complexity|JJ NN|BODY_3|0
+a list h|DT NN NN|BODY_4|0
+fortran programs|JJ NNS|BODY_10|0
+paf|NN|BODY_1|0
+harrison|NN|BODY_2|0
+this construct|DT VB|BODY_8|0
+the corresponding while loop|DT JJ IN NN|BODY_4|0
+an abstraction|DT NN|BODY_6|0
+conversion algorithm|NN NN|BODY_6|0
+several substitutions|JJ NNS|BODY_19|0
+ean bexp/ean gf|JJ JJ NN|BODY_2|0
+a smaller one|DT JJR NN|BODY_3|0
+each equation|DT NN|BODY_3|0
+second a uniform representation|JJ DT JJ NN|BODY_11|0
+'s work|POS NN|BODY_3|0
+the entire right hand side|DT JJ JJ NN NN|BODY_6|0
+1 ) ( while|CD -RRB- -LRB- NN|BODY_17|0
+paf [44]|NN NN|BODY_8|0
+the innermost loop|DT JJS NN|BODY_3|0
+multiple-exit loops|JJ NNS|BODY_8|0
+) figure 20|-RRB- NN CD|BODY_19|0
+j 1 ) i 4 ( set|FW CD -RRB- FW CD -LRB- NN|BODY_10|0
+e|NN|BODY_3|0
+( defun h|-LRB- NN NN|BODY_3|0
+why ebn|WRB NNS|BODY_3|0
+the (|DT -LRB-|BODY_9|0
+the time|DT NN|BODY_7|0
+times|NNS|BODY_6:BODY_16|0
+pre-calculation )|NN -RRB-|BODY_5|0
+a compact form|DT JJ NN|BODY_7|0
+the resulting program )|DT VBG NN -RRB-|BODY_6|0
+1 ) ) figure 14|CD -RRB- -RRB- NN CD|BODY_32|0
+the t 1|DT NN CD|BODY_4|0
+( defun g ( lambda|-LRB- NN NN -LRB- NN|BODY_27:BODY_1|0
+continuation variables|NN NNS|BODY_4|0
+two|CD|BODY_6|0
+figure 29 figure reachable uses|NN CD NN JJ NNS|BODY_25|0
+the time measure|DT NN NN|BODY_3|0
+the associated continuation graph|DT VBN NN NN|BODY_7|0
+an experimental fortran parallelizer|DT JJ NN NN|BODY_2|0
+every substitution|DT NN|BODY_3|0
+account additional passes|NN JJ NNS|BODY_4|0
+) s1 figure 28|-RRB- NN NN CD|BODY_18|0
+the elimination transformation|DT NN NN|BODY_5|0
+reducible flow|JJ NN|BODY_3|0
+that where direct semantics|DT WRB JJ NNS|BODY_5|0
+-10774 178843 figure 24|DT CD NN CD|BODY_8|0
+-12316 173425 figure 25|DT CD NN CD|BODY_15|0
+boolean expressions code|JJ NNS NN|BODY_10|0
+the code (|DT NN -LRB-|BODY_8|0
+state|NN|BODY_6|0
+3 (|CD -LRB-|BODY_37|0
+a multilingual compiler|DT JJ NN|BODY_2|0
+examples|NNS|BODY_4|0
+the classical notion|DT JJ NN|BODY_2|0
+these measures|DT NNS|BODY_3|0
+a denotational semantics|DT JJ NNS|BODY_3|0
+the classical method|DT JJ NN|BODY_3|0
+multiplicity|NN|BODY_11|0
+the while statement|DT NN NN|BODY_10|0
+their theorem|PRP$ NN|BODY_9|0
+therefore n f|RB NN NN|BODY_4|0
+afterwards control dependence relations|RB NN NN NNS|ABSTRACT_3|0
+a ( + b j ) ) i 2 ( set|DT -LRB- NN NN NN -RRB- -RRB- IN CD -LRB- NN|BODY_18|0
+! i 1 ) ( while|. IN CD -RRB- -LRB- NN|BODY_5|0
+a single representation|DT JJ NN|BODY_8|0
+some goto|DT NN|BODY_4|0
+[6 , 24]|CD , CD|BODY_4|0
+below|IN|BODY_2|0
+themselves|PRP|BODY_5|0
+the dependences|DT NNS|BODY_9|0
+shared memory machines|VBN NN NNS|BODY_3|0
+irreducible program figure 21|JJ NN NN CD|BODY_20|0
+the next step figure 19|DT JJ NN NN CD|BODY_2|0
+the instances|DT NNS|BODY_6|0
+models|NNS|BODY_5|0
+2) ) )|CD -RRB- -RRB-|BODY_18|0
+pred-162|NN|BODY_16|0
+a solution|DT NN|BODY_2|0
+single-exit|NN|BODY_11|0
+100 figure 30|CD NN CD|BODY_16|0
+ments|NNS|BODY_7|0
+the details|DT NNS|BODY_2|0
+an irreducible code 200|DT JJ NN CD|BODY_14|0
+the variable x|DT JJ SYM|BODY_6|0
+the variable bb1|DT JJ NNS|BODY_4|0
+different value|JJ NN|BODY_5|0
+loop transformations|NN NNS|BODY_4|0
+gaussian elimination|JJ NN|BODY_3|0
+the i loop|DT JJ NN|BODY_4|0
+a handful|DT NN|BODY_3|0
+allen and cocke|JJ CC NN|BODY_5|0
+the back|DT RB|BODY_6|0
+simultaneous equations|JJ NNS|BODY_6|0
+pred-52 figure normalized form|NN NN JJ NN|BODY_23|0
+2 ( not pred 3 ) ) ) ) )|CD -LRB- RB VBN CD -RRB- -RRB- -RRB- -RRB- -RRB-|BODY_40|0
+condition|NN|BODY_2|0
+j k|NN NN|BODY_35|0
+an element|DT NN|BODY_5|0
+the occurrences|DT NNS|BODY_8|0
+any previous definitions|DT JJ NNS|BODY_5|0
+every cycle ( explicit or implicit )|DT NN -LRB- JJ CC JJ -RRB-|BODY_2|0
+the regions|DT NNS|BODY_4|0
+2.5.4 derecursivation derecursivation|CD NN NN|BODY_1|0
+a loop explicit|DT NN JJ|BODY_4|0
+other transformations|JJ NNS|BODY_1|0
+the tail recursion elimination|DT NN NN NN|BODY_4|0
+whose unknowns|WP$ NNS|BODY_7|0
+control-flow variables|JJ NNS|BODY_5|0
+the normalization algorithm|DT NN NN|BODY_5|0
+the depth-first spanning tree|DT JJ NN NN|BODY_4|0
+jacopini [13]|NNP NNP|BODY_5:BODY_3|0
+our algorithm|PRP$ NN|BODY_2|0
+the meaning|DT NN|BODY_5|0
+that gf|DT VBN|BODY_4|0
+2) )|CD -RRB-|BODY_24|0
+cmd 3 ( set|VBN CD -LRB- NN|BODY_25|0
+the resolution process|DT NN NN|BODY_69|0
+earlier drafts|JJR NNS|BODY_4|0
+the same loop nesting level|DT JJ NN NN NN|BODY_3|0
+a programming language|DT NN NN|BODY_3|0
+scott and strachey|NN CC NN|BODY_2|0
+program normalization|NN NN|BODY_4|0
+t 1|NN CD|BODY_2|0
+resolution input|NN NN|BODY_3|0
+that result|DT NN|BODY_5|0
+labels|NNS|BODY_7|0
+an additional loop-carried dependence (|DT JJ JJ NN -LRB-|BODY_3|0
+a chosen representation|DT VBN NN|BODY_9|0
+neither goto|DT NN|BODY_3|0
+whose equation|WP$ NN|BODY_10|0
+levels|NNS|BODY_8|0
+tarjan|NN|BODY_3|0
+the style|DT NN|BODY_2|0
+single-entry single-exit loops|JJ NN NNS|BODY_7|0
+) ( and ( not pred 1 )|-RRB- -LRB- CC -LRB- RB VBD CD -RRB-|BODY_10|0
+each conditional structure|DT JJ NN|BODY_6|0
+a normalized control structure figure 12|DT JJ NN NN NN CD|BODY_10|0
+all the occurrences|DT DT NNS|BODY_7|0
+a cycle|DT NN|BODY_4|0
+a variable|DT JJ|BODY_3|0
+the resolution pro- cess|DT NN NNS NN|BODY_22|0
+the simple compositionality|DT JJ NN|BODY_5|0
+[12]|NN|BODY_2|0
+while loops|NN NNS|BODY_3|0
+the hecht and ullman algorithm|DT NN CC JJ NN|BODY_4|0
+l output|JJ NN|BODY_8|0
+t 3 transformation|NN CD NN|BODY_6|0
+each application|DT NN|BODY_2|0
+this structure|DT NN|BODY_3|0
+graham and wegman|NN CC NN|BODY_11|0
+hecht and ullman|NN CC NN|BODY_7|0
+jan|NN|BODY_9|0
+4 respectively|CD RB|BODY_21|0
+n\gamma2 times|JJ NNS|BODY_3|0
+an important impact|DT JJ NN|BODY_67|0
+a branch|DT NN|BODY_2|0
+the acyclic continuations flowgraph|DT JJ NNS NN|BODY_5|0
+its equation|PRP$ NN|BODY_19|0
+the difficulties|DT NNS|BODY_4|0
+the unknown x j|DT JJ NN NN|BODY_11|0
+some cases|DT NNS|BODY_3|0
+figure 34 corresponding|NN CD JJ|BODY_3|0
+reducible and irreducible flowgraphs|JJ CC JJ NNS|BODY_6|0
+2 ( if|CD -LRB- IN|BODY_8|0
+type (|NN -LRB-|BODY_4|0
+) x 3|-RRB- NN CD|BODY_22|0
+1 ) i 5 ( set|CD -RRB- FW CD -LRB- NN|BODY_16|0
+'s nor labels|POS CC NNS|BODY_4|0
+type|NN|BODY_7|0
+number|NN|BODY_40|0
+1 2.5.2|CD CD|BODY_7|0
+i 2|IN CD|BODY_19|0
+another level|DT NN|BODY_2|0
+their presence|PRP$ NN|BODY_8|0
+scalar data|NN NNS|BODY_7|0
+his helpful ideas and suggestions|PRP$ JJ NNS CC NNS|BODY_3|0
+figure 34|NN CD|BODY_4|0
+18.5 seconds|CD NNS|BODY_3|0
+6 position|CD NN|BODY_1|0
+a program label|DT NN NN|BODY_3|0
+a simple and efficient way|DT JJ CC JJ NN|BODY_3|0
+flowgraphs [13 , 28 , 33 , 11 , 12 , 5]|NNS CD , CD , CD , CD , CD , CD|BODY_3|0
+mazurkiewicz [30]|NN NN|BODY_3|0
+our approach|PRP$ NN|BODY_1|0
+ryder and paull|NN CC NN|BODY_1|0
+section 5|NN CD|BODY_3|0
+see figures|VBP NNS|BODY_1|0
+the allen and cocke method|DT JJ CC JJ NN|BODY_3|0
+the average compilation time|DT JJ NN NN|BODY_1|0
+the differences|DT NNS|BODY_3|0
+the normalized forms|DT JJ NNS|BODY_1|0
+the technique|DT NN|BODY_1|0
+these four algorithms|DT CD NNS|BODY_3|0
+these intervals|DT NNS|BODY_1|0
+this notion|DT NN|BODY_1|0
+multiple computations|JJ NNS|BODY_4|0
+the continuations system|DT NNS NN|BODY_18|0
+luddy harrison|JJ NN|BODY_2|0
+the procedure-calling overhead|DT NN NN|BODY_6|0
+the perfect code|DT JJ NN|BODY_4|0
+those whose targets|DT WP$ NNS|BODY_4|0
+this numbering|DT NN|BODY_6|0
+the interprocedural analysis|DT JJ NN|BODY_2|0
+'s remain|POS VBP|BODY_5|0
+two nested loops|CD VBN NNS|BODY_2|0
+a single factorization step|DT JJ NN NN|BODY_6|0
+no code|DT NN|BODY_12|0
+for|IN|BODY_10|0
+an overview|DT NN|BODY_3|0
+the iteration|DT NN|BODY_2|0
+a partitioning algorithm|DT NN NN|BODY_4|0
+the second step|DT JJ NN|BODY_1|0
+a selector expression|DT JJ NN|BODY_4|0
+equivalent form|JJ NN|BODY_33|0
+this section|DT NN|BODY_47|0
+figure 31|NN CD|BODY_23:BODY_4|0
+however the programs|RB DT NNS|BODY_4|0
+converted code|VBN NN|BODY_2|0
+( i j|-LRB- PRP NN|BODY_48|0
+10 )|CD -RRB-|BODY_8|0
+the unnormalized program|DT JJ NN|BODY_2|0
+logical variables|JJ NNS|BODY_4|0
+a selector variable )|DT JJ JJ -RRB-|BODY_6|0
+a store|DT NN|BODY_5|0
+problems|NNS|ABSTRACT_2|0
+whose entry|WP$ NN|BODY_5|0
+a list l|DT NN NN|BODY_10|0
+each edge|DT NN|BODY_11|0
+? i|. FW|BODY_32|0
+pattern-matching|NN|BODY_4|0
+another nesting level|DT NN NN|BODY_11:BODY_14|0
+data structures|NNS NNS|BODY_6|0
+both forward and backward dataflow problems|DT RB CC RB JJ NNS|BODY_4|0
+the simplifications|DT NNS|BODY_3|0
+another unknown|DT JJ|BODY_16:BODY_13|0
+tion|NN|BODY_3|0
+the array b|DT NN NN|BODY_6|0
+figure 32|NN CD|BODY_5|0
+i (|PRP -LRB-|BODY_34|0
+details|NNS|BODY_5|0
+its body|PRP$ NN|BODY_8|0
+the only definition|DT JJ NN|BODY_5|0
+the motivations|DT NNS|BODY_6|0
+a single loop header|DT JJ NN NN|BODY_7|0
+continuation equations system|NN NNS NN|BODY_11|0
+300|CD|BODY_6|0
+graph|NN|BODY_3|0
+( i j x|-LRB- FW NN NN|BODY_28:BODY_2|0
+the computation|DT NN|BODY_9|0
+control constructs|NN NNS|BODY_3|0
+the input procedure|DT NN NN|BODY_2|0
+a gaussian elimination method|DT JJ NN NN|BODY_3|0
+irreducibility|NN|BODY_8|0
+a specific implementa|DT JJ NN|BODY_2|0
+any replicated code|DT JJ NN|BODY_6|0
+100 figure 27|CD NN CD|BODY_12|0
+no bound|DT JJ|BODY_4|0
+loop|NN|BODY_3|0
+the anonymous referees|DT JJ NNS|BODY_2|0
+kennedy|NN|BODY_6|0
+first|JJ|BODY_5|0
+a sense|DT NN|BODY_6|0
+code 2|NN CD|BODY_5|0
+our goal|PRP$ NN|BODY_1|0
+the authors|DT NNS|BODY_1|0
+unstructured|JJ|BODY_6|0
+data dependences|NNS NNS|BODY_4|0
+all the expressions|DT DT NNS|BODY_7|0
+no loop|DT NN|BODY_5|0
+1 ( not pred 3 ) ) ) figure 23|CD -LRB- RB VBN CD -RRB- -RRB- -RRB- NN CD|BODY_43|0
+boolean expression simplification|JJ NN NN|BODY_3|0
+the same|DT JJ|BODY_5|0
+continuation graph|NN NN|BODY_24|0
+0|CD|BODY_6|0
+a variety|DT NN|BODY_2|0
+experiments|NNS|BODY_3|0
+the most important aspects|DT RBS JJ NNS|BODY_3|0
+every|DT|BODY_2|0
+a programmer|DT NN|BODY_2|0
+some branching instructions|DT NN NNS|BODY_4|0
+paris 6|NN CD|BODY_12|0
+projects|NNS|BODY_6|0
+'s method [5]|POS NN NN|BODY_7|0
+this easily|DT RB|BODY_3|0
+the way|DT NN|BODY_5|0
+each loop header|DT NN NN|BODY_9|0
+a simple algorithm|DT JJ NN|BODY_2|0
+( not pred 1 ) ( while|-LRB- RB VBN CD -RRB- -LRB- IN|BODY_33|0
+a phase|DT NN|BODY_2|0
+a lisp-like syntax|DT JJ NN|BODY_3|0
+the number n|DT NN NN|BODY_4|0
+the goal|DT NN|BODY_7|0
+several problems|JJ NNS|BODY_5|0
+a clean solution|DT JJ NN|BODY_5|0
+) s2|-RRB- CD|BODY_8|0
+dataflow solutions|NNS NNS|BODY_10|0
+.not. bb1|NNP NNS|BODY_10|0
+two relationships|CD NNS|BODY_2|0
++ i|JJ FW|BODY_10|0
+'s makes program transformations and analyses|POS VBZ NN NNS CC NNS|BODY_3|0
+a degree|DT NN|BODY_11|0
+this condition|DT NN|BODY_2|0
+the edge ( j|DT NN -LRB- RB|BODY_12|0
+3 ( set|CD -LRB- NN|BODY_8|0
+the loop (|DT NN -LRB-|BODY_9|0
+a non-normalized control structure ( defun g ( lambda ( j|DT JJ NN NN -LRB- NN NN -LRB- NN -LRB- NN|BODY_23|0
+nesting|NN|BODY_3|0
+( not pred 1 ) ( not pred 1 ) ) ) figure 10|-LRB- RB VBD CD -RRB- -LRB- RB VBD CD -RRB- -RRB- -RRB- NN CD|BODY_57|0
+a labeling|DT NN|BODY_4|0
+the labels and goto|DT NNS CC NN|BODY_11|0
+a unique loop header|DT JJ NN NN|BODY_7|0
+( and (|-LRB- CC -LRB-|BODY_23|0
+figure 20 figure 22|NN CD NN CD|BODY_23|0
+multilinguality|NN|BODY_2|0
+a straightforward meaning|DT JJ NN|BODY_6|0
+if distribution|IN NN|BODY_7|0
+the final result|DT JJ NN|BODY_6|0
+the following statement|DT VBG NN|BODY_2|0
+) ) figure 8|-RRB- -RRB- NN CD|BODY_23|0
+these instances|DT NNS|BODY_7|0
+figure 8 ( defun h ( lambda|NN CD -LRB- NN NN -LRB- NN|BODY_47|0
+s 1|VBZ CD|BODY_5|0
+the instruction|DT NN|BODY_6|0
+sort|NN|BODY_4|1
+the labels|DT NNS|BODY_17|0
+exceptions and errors|NNS CC NNS|BODY_8|0
+account|NN|BODY_4|0
+an edge|DT NN|BODY_10|0
+several uses|JJ NNS|BODY_5|0
+1 ( and ( not exp 1 ) ( not exp 2 ) ) ) and x k|CD -LRB- CC -LRB- RB NN CD -RRB- -LRB- RB NN CD -RRB- -RRB- -RRB- CC SYM NN|BODY_22|0
+a semantics|DT NNS|BODY_3|0
+j (|NN -LRB-|BODY_30|0
+selector1 )|NN -RRB-|BODY_29|0
+a ( + b j )|DT -LRB- NN NN NN -RRB-|BODY_6|0
+pred 1 x j|VBD CD CD NN|BODY_13|0
+pred 2 x k|VBD CD CD NN|BODY_14|0
+an|DT|BODY_2|0
+figure ( defun h|NN -LRB- NN NN|BODY_52|0
+the rest|DT NN|BODY_12:BODY_6|0
+'s )|POS -RRB-|BODY_7|0
+the boolean expression|DT JJ NN|BODY_2|0
+a multilingual parallelizer|DT JJ NN|BODY_14|0
+1 i 2 ( set|CD IN CD -LRB- NN|BODY_30|0
+extended topological order output|JJ JJ NN NN|BODY_12|0
+the following four algorithms|DT VBG CD NNS|BODY_2|0
+flowgraphs|NNS|BODY_5|0
+9]|NNS|BODY_5|0
+such loops|JJ NNS|BODY_1|0
+the programs|DT NNS|BODY_2|0
+the source node|DT NN NN|BODY_2|0
+three transformations|CD NNS|BODY_2|0
+the implementation|DT NN|BODY_2|0
+one unknown (using|NN JJ NN|BODY_6|0
+no cycles|DT NNS|BODY_7|0
+compilation|NN|BODY_3|0
+a significant simplification|DT JJ NN|BODY_6|0
+the basic form|DT JJ NN|BODY_4|0
+figure 11 ( defun g ( lambda ( j|NN CD -LRB- NN NN -LRB- NN -LRB- NN|BODY_13|0
+the source continuation|DT NN NN|BODY_7|0
+5 i 4 ( set|CD FW CD -LRB- NN|BODY_15|0
+integers|NNS|BODY_6|0
+such a program|JJ DT NN|BODY_12:BODY_1|0
+this refinement|DT NN|BODY_3|0
++,-,*,/,and|NNP|BODY_9|0
+2.2 abstract cste 2 cste constants commands or expressions lambda 2 proc lambda expressions|CD JJ NN CD NN NNS NNS CC NNS NN CD NN NN NNS|BODY_1|0
+a control-flow normalization algorithm|DT NN NN NN|TITLE_1|0
+regular expressions [41]|JJ NNS NN|BODY_8|0
+every predicate|DT NN|BODY_3|0
+a limited overview|DT JJ NN|BODY_2|0
+instances|NNS|BODY_2|0
+code structuring and goto elimination|NN NN CC NN NN|BODY_4|0
+whose condition|WP$ NN|BODY_8|0
+the system input|DT NN NN|BODY_5|0
+a value|DT NN|BODY_6|0
+the scope|DT NN|BODY_8|0
+the extra generation|DT JJ NN|BODY_3|0
+each predecessor x j|DT NN NN NN|BODY_9|0
+unstructured code|JJ NN|BODY_3|0
+a repeat|DT NN|BODY_3|0
+this bound|DT JJ|BODY_5|0
+our transformations|PRP$ NNS|BODY_4|0
+'s function|POS NN|BODY_9|0
+the latter three|DT JJ CD|BODY_1|0
+the previous example|DT JJ NN|BODY_3|0
+tail recursion elimination control flowgraphs|NN NN NN NN NNS|BODY_17|0
+the selector|DT NN|BODY_44|0
+'s and break 's|POS CC NN POS|BODY_15|0
+procedure|NN|BODY_6|0
+first rewritten|JJ NN|BODY_3|0
+the combined algorithm|DT VBN NN|BODY_4|0
+i ( + j k|PRP -LRB- JJ NN NN|BODY_15|0
+an example|DT NN|BODY_2:BODY_1|0
+substitu- tion|NNS NN|BODY_8|0
+exit-loop parallelization and recursion splitting|JJ NN CC NN NN|BODY_7|0
+the backward flowgraph|DT JJ NN|BODY_2|0
+exp 1|NN CD|BODY_11|0
+the underlying control flowgraph|DT JJ NN NN|BODY_6|0
+results|NNS|BODY_3|0
+our normalization|PRP$ NN|BODY_3|0
+46]|CD|BODY_7|0
+the node i|DT NN NN|BODY_5|0
+the original source|DT JJ NN|BODY_8|0
+this sub-transformation|DT NN|BODY_10|0
+various languages|JJ NNS|BODY_5|0
+proof|NN|BODY_1|0
+4.3 number|CD NN|BODY_1|0
+each unknown x i|DT JJ SYM FW|BODY_1|0
+reduced equations|JJ NNS|BODY_5|0
+38]|NN|BODY_5|0
+two types|CD NNS|BODY_5|0
+the program computations|DT NN NNS|BODY_7|0
+77 and le-lisp [16] [6]|CD CC JJ NN NN|BODY_3|0
+afosr-f49620-86-c- 0136|RB CD|BODY_1|0
+i) )|FW -RRB-|BODY_35|0
+code size|NN NN|BODY_6|0
+this study|DT NN|BODY_2|0
+these hidden loops|DT JJ NNS|BODY_1|0
+) x 3 figure 17|-RRB- NN CD NN CD|BODY_48|0
+any substitution|DT NN|BODY_3|0
+the quality|DT NN|BODY_2|0
+n f|NN NN|BODY_23|0
+semantics|NNS|BODY_2|0
+cmd 3 ) )|NN CD -RRB- -RRB-|BODY_31|0
+a powerful tool|DT JJ NN|BODY_3|0
+second|JJ|BODY_9|1
+the separate representation|DT JJ NN|BODY_2|0
+a refinement|DT NN|BODY_3|0
+) ) ) ) x j|-RRB- -RRB- -RRB- -RRB- SYM NN|BODY_20|0
+once|RB|BODY_8|0
+2 exp|CD NN|BODY_28|0
+an instruction i|DT NN NN|BODY_2|0
+1 ) ) ) ) )|CD -RRB- -RRB- -RRB- -RRB- -RRB-|BODY_27|0
+several different 2|JJ JJ CD|BODY_10|0
+each point|DT NN|BODY_2|0
+regions|NNS|BODY_5|0
+terminates|NNS|BODY_3|0
+control dependence relations|NN NN NNS|BODY_4|0
+a reducible flowgraph|DT JJ NN|BODY_5|0
+a clearer description|DT JJR NN|BODY_3|0
+goto 300 200 figure 26|VBN CD CD NN CD|BODY_5|0
+distribution )|NN -RRB-|BODY_7|0
+input|NN|BODY_2|0
+the region|DT NN|BODY_2|0
+manageable size|NN NN|BODY_4:BODY_9|0
+1 cmd|CD NN|BODY_6|0
+an exit|DT NN|BODY_5|0
+some respects|DT NNS|BODY_5|0
+without|IN|BODY_6|0
+the absence|DT NN|BODY_4|0
+two steps|CD NNS|BODY_2|0
+) 2.5.5 substitution and elimination ( t 0|-RRB- CD NN CC NN -LRB- NN CD|BODY_16|0
+a self-recursive variable|DT JJ JJ|BODY_4|0
+many compilation algorithms|JJ NN NNS|BODY_3|0
+a simple , structured representation|DT JJ , JJ NN|BODY_7|0
+the control structure|DT NN NN|BODY_2|0
+pred 1 cmd 1 cmd|VBN CD NN CD NN|BODY_6:BODY_5|0
+the following order|DT VBG NN|BODY_2|0
+11|CD|BODY_8|0
+only scalar variables|RB JJ NNS|BODY_4|0
+'s intermediate form|POS JJ NN|BODY_9|0
+selector 2 )x k|NN CD NN NN|BODY_32|0
+the average ratio|DT JJ NN|BODY_1|0
+whose equation i|WP$ NN NN|BODY_8|0
+its derecursivation and substitution|PRP$ NN CC NN|BODY_6|0
+some restructuring|DT NN|BODY_4|0
+single entry regions|JJ NN NNS|BODY_6|0
+all pathological syntactic constructions|DT JJ NN NNS|BODY_5|0
+that code replication|DT NN NN|BODY_5|0
+boolean expressions and selector expressions|JJ NNS CC NN NNS|BODY_3|0
+the structure|DT NN|BODY_5|0
+a code|DT NN|BODY_9|0
+a node splitting transformation|DT NN NN NN|BODY_3|0
+dataflow analyses|JJ NNS|BODY_2|0
+a sub-transformation|DT NN|BODY_4|0
+a variable selector|DT JJ NN|BODY_4|0
+irreducible programs|JJ NNS|BODY_4|0
+our normalization method|PRP$ NN NN|BODY_3|0
+one single step|CD JJ NN|BODY_2|0
+the only control structures|DT JJ NN NNS|BODY_1|0
+the elimination order|DT NN NN|BODY_3|0
+an experiment|DT NN|BODY_4|0
+an heuristic order|DT JJ NN|BODY_5|0
+this normalization|DT NN|ABSTRACT_3|0
+each continuation|DT NN|BODY_8|0
+its resolution )|PRP$ NN -RRB-|BODY_11|0
+each statement|DT NN|BODY_5|0
+an analysis|DT NN|BODY_3|0
+as much as possible the original structure|RB JJ RB JJ DT JJ NN|BODY_6|0
+section 3.3|NN CD|BODY_6|0
+derecursivate x i|JJ NN NN|BODY_2|0
+boolean nor selector expressions|JJ CC JJ NNS|BODY_3|0
+an irreducible graph|DT JJ NN|BODY_3|0
+then again|RB RB|BODY_5|0
+a subsequent transformation|DT JJ NN|BODY_1|0
+.and.(not. br2 ) )|. NN -RRB- -RRB-|BODY_30|0
+a syntactic representation|DT NN NN|BODY_4|0
+its dependency graph|PRP$ NN NN|BODY_7|0
+the internal structure|DT JJ NN|BODY_7|0
+only a single use|RB DT JJ NN|BODY_5|0
+an algebraic framework|DT JJ NN|BODY_4|0
+) ) ) figure 9|-RRB- -RRB- -RRB- NN CD|BODY_43|0
+exp|NN|BODY_4|0
+the natural order|DT JJ NN|BODY_3|0
+85er25001|CD|BODY_1|0
+n00014-88-k-0686|NNS|BODY_1|0
+nsf mip-8410110|JJ CD|BODY_1|0
+the previous system|DT JJ NN|BODY_5|0
+( if (|-LRB- IN -LRB-|BODY_12|0
+7.3 tarjan method|CD NN NN|BODY_1|0
+all the conditionals|PDT DT NNS|BODY_4|0
+figure 13 figure 15|NN CD NN CD|BODY_35|0
+( .not.not. pred-20 )|-LRB- NN NN -RRB-|BODY_5|0
+each node|DT NN|BODY_5|0
+( not pred 1 ) ( not pred 1 ) ) ) figure normalized form|-LRB- RB VBD CD -RRB- -LRB- RB VBD CD -RRB- -RRB- -RRB- NN JJ NN|BODY_60|0
+( not pred 1 ( not pred 1 figure 7|-LRB- RB VBD CD -LRB- RB VBD CD NN CD|BODY_9|0
+i and factorization|NN CC NN|BODY_2|0
+several predecessors|JJ NNS|BODY_4|0
+figure 16|NN CD|BODY_4|0
+pred 1 cmd 1 cmd 2|VBN CD NN CD NN CD|BODY_12|0
+the first unknown|DT JJ NN|BODY_4|0
+48 , 17 , 32]|CD , CD , CD|BODY_8|0
+the depth-first orders|DT JJ NNS|BODY_4|0
+control forms|NN NNS|BODY_9|0
+only three control-structures|RB CD NNS|BODY_2|0
+this the extended topological sort|DT DT JJ JJ NN|BODY_2|0
+the fixed point|DT JJ NN|BODY_1|0
+( not pred 1|-LRB- RB VBD CD|BODY_41|0
+their appearance|PRP$ NN|BODY_8|0
+i i 2 ( set|FW FW CD -LRB- NN|BODY_6|0
+1 ( not pred 1|CD -LRB- RB VBN CD|BODY_8|0
+pred 1 exp|VBN CD NN|BODY_10|0
+cases and conditions|NNS CC NNS|BODY_3|0
+syntactic constructions|NN NNS|BODY_3|0
+each program label|DT NN NN|BODY_6|0
+exp 1 )|NN CD -RRB-|BODY_16|0
+figure 15 (|NN CD -LRB-|BODY_42|0
+iterations|NNS|BODY_6|0
+these two cases|DT CD NNS|BODY_8|0
+figure 4 figure elimination|NN CD NN NN|BODY_39|0
+selector 1 ) x j|NN CD -RRB- NN NN|BODY_8|0
+the resulting program|DT VBG NN|BODY_1|0
+targets|NNS|BODY_4|0
+pred 1 (|VBN CD -LRB-|BODY_26|0
+clu [39]|NN NN|BODY_7|0
+x j ffl substitute|NN RB IN NN|BODY_10|0
+several equations|JJ NNS|BODY_3|0
+the temporary variable|DT JJ JJ|BODY_8|0
+abstract interpretation or dataflow analysis|JJ NN CC NN NN|BODY_8|0
+the search|DT NN|BODY_1|0
+2 therefore|CD RB|BODY_1|0
+general an equation|JJ DT NN|BODY_1|0
+'s complexity|POS NN|BODY_7|0
+such cycles|JJ NNS|BODY_14|0
+a self-recursive equation|DT JJ NN|BODY_1|0
+the same loop nest level|DT JJ NN NN NN|BODY_6|0
+the selector variable as|DT NN JJ IN|BODY_20|0
+the appropriate continuation|DT JJ NN|BODY_5|0
+a selector variable|DT NN JJ|BODY_6|0
+much effort|JJ NN|BODY_1|0
+h (|NN -LRB-|BODY_13|0
+all gotos|DT NNS|ABSTRACT_4|0
+7 related application|CD JJ NN|BODY_1|0
+such dependences|JJ NNS|BODY_10|0
+any preliminary factorization|DT JJ NN|BODY_2|0
+this improvement|DT NN|BODY_1|0
+a single equation|DT JJ NN|BODY_14|0
+8]|NN|BODY_7|0
+the user|DT NN|BODY_5|0
+these unknowns|DT NNS|BODY_1|0
+the idea|DT NN|BODY_1|0
+a complete time|DT JJ NN|BODY_1|0
+n.b.|.|BODY_1|0
+these four languages|DT CD NNS|BODY_1|0
+peterson , kasami|NN , FW|BODY_1|0
+a single equation )|DT JJ NN -RRB-|BODY_21|0
+two reasons|CD NNS|BODY_10|0
+the second possibility|DT JJ NN|BODY_1|0
+cmd i|JJ NN|BODY_8|0
+our own method|PRP$ JJ NN|BODY_11|0
+williams and ossher [47]|NNS CC NN NNS|BODY_1|0
+2 ) solution|CD -RRB- NN|BODY_5|0
+theorem|PRP|BODY_1|0
+algorithm|NN|BODY_6|0
+some previous methods|DT JJ NNS|BODY_1|0
+the shortcomings|DT NNS|BODY_1|0
+a normalized form|DT JJ NN|BODY_9|0
+2 consists|CD VBZ|BODY_1|0
+its body )|PRP$ NN -RRB-|BODY_11|0
+figure 12|NN CD|BODY_61|0
+ization|NN|BODY_6|0
+this instruction|DT NN|BODY_9|0
+a non-normalized program|DT JJ NN|BODY_6|0
+the first possibility|DT JJ NN|BODY_1|0
+this problem|DT NN|BODY_1|0
+its shortcomings|PRP$ NNS|BODY_1|0
+side effects and aliasing|JJ NNS CC NN|BODY_10|0
+tail recursion elimination [14]|NN NN NN NN|BODY_6|0
+the final normalized form|DT JJ JJ NN|BODY_1|0
+a regular structure|DT JJ NN|BODY_8|0
+two different paths|CD JJ NNS|BODY_3|0
+a single entry|DT JJ NN|BODY_8|0
+knuth and floyd [28|NN CC NN NNS|BODY_1|0
+the perfect club [34]|DT JJ NN NN|BODY_7|0
+the same conclusion|DT JJ NN|BODY_6|1
+the two previous ones|DT CD JJ NNS|BODY_9|0
+the latter condition|DT JJ NN|BODY_1|0
+a major expense|DT JJ NN|BODY_5|0
+none|NN|BODY_1|0
+a boolean variable|DT JJ NN|BODY_1|0
+45|CD|BODY_8|0
+ashcroft and manna [11]|JJ CC NN NNS|BODY_1|0
+normalized [23]|JJ NNS|BODY_8|0
+( not|-LRB- RB|BODY_5|0
+a continuation equation|DT NN NN|BODY_1|0
+a topological order|DT JJ NN|BODY_10|0
+whose flowgraphs|WP$ NNS|BODY_8|0
+nesting levels|NN NNS|BODY_12:BODY_7|0
+an orderly way|DT JJ NN|BODY_9|0
+control|NN|BODY_7|0
+2.3 continuation equations|CD NN NNS|BODY_1|0
+2.7 structure|CD NN|BODY_1|0
+7.5 conclusion|CD NN|BODY_1|0
+accordance|NN|BODY_1|0
+introduction|NN|BODY_1|0
+the same continuation equation|DT JJ NN NN|BODY_1|0
+the statement 5|DT NN CD|BODY_1|0
+these two methods|DT CD NNS|BODY_1|0
+this equation|DT NN|BODY_5|0
+the primary goal|DT JJ NN|BODY_1|0
+this goal|DT NN|BODY_1|0
+the irreducibility|DT NN|BODY_8|0
+the literature|DT NN|BODY_1|0
+their complexity and performances|PRP$ NN CC NNS|BODY_4|0
+an idea|DT NN|BODY_1|0
+the s-sets|DT NNS|BODY_1|0
+approximately 0:02|RB CD|BODY_8|0
+the fundamental framework|DT JJ NN|BODY_1|0
+a guarded one|DT JJ CD|BODY_7|0
+2.4 gaussian elimination-like resolution|CD JJ JJ NN|BODY_1|0
+3.1 graph and topological sort|CD NN CC JJ NN|BODY_1|0
+the if|DT IN|BODY_11|0
+algebraic ones|JJ NNS|BODY_6|0
+lexically )|RB -RRB-|BODY_6|0
+some codes|DT NNS|BODY_1|0
+the negative code growth|DT JJ NN NN|BODY_3|0
+case 1|NN CD|BODY_1|0
+the first step analyzes|DT JJ NN NNS|BODY_1|0
+the three foregoing control structures|DT CD JJ NN NNS|BODY_5|0
+these processes|DT NNS|BODY_5|0
+vectorization|NN|BODY_5|0
+the main reason|DT JJ NN|BODY_1|0
+a theorem|DT NN|BODY_1|0
+[19]|NN|BODY_3|0
+the notion|DT NN|BODY_1|0
+this restructuring|DT NN|ABSTRACT_1|0
+a forward branch|DT RB NN|BODY_1|0
+the comparison|DT NN|BODY_5|0
+paf [44] and miprac [24]|JJ NN CC NN NN|BODY_9|0
+0.004|CD|BODY_6|0
+0.01|CD|BODY_6|0
+our input language|PRP$ NN NN|BODY_1|0
+selector 1 )|NN CD -RRB-|BODY_11|0
+the latter transformation|DT JJ NN|BODY_1|0
+[43]|NN|BODY_4|0
+the entire graph|DT JJ NN|BODY_5|0
+successive substitution and loop-breaking transformations|JJ NN CC NN NNS|BODY_3|0
+the second application|DT JJ NN|BODY_1|0
+figure 20|NN CD|BODY_4|0
+the graph nodes|DT NN NNS|BODY_1|0
+unnormalized programs|JJ NNS|BODY_1|0
+boolean conditions|JJ NNS|BODY_14|0
+gaussian elimination resolution|JJ NN NN|BODY_9|0
+4.2 number|CD NN|BODY_1|0
+elimination algorithms|NN NNS|BODY_5|0
+the control flowgraph )|DT NN NN -RRB-|BODY_10|0
+i and h|NN CC JJ|BODY_5|0
+our input graphs|PRP$ NN NNS|BODY_1|0
+a lisp program|DT NN NN|BODY_3|0
+3 eliminates|CD NNS|BODY_1|0
+forward branches|JJ NNS|BODY_10|0
+8|CD|BODY_3|0
+the resultant systems|DT NN NNS|BODY_1|0
+7.2 hecht and ullman method|CD NN CC NN NN|BODY_1|0
+7.4 graham and wegman method|CD NN CC NN NN|BODY_1|0
+a lot|DT NN|BODY_1|0
+column bexp/eanf|NN NN|BODY_1|0
+these counts|DT NNS|BODY_3|0
+this ordering|DT NN|BODY_9|0
+whose headers|WP$ NNS|BODY_4|0
+the increased complexity|DT JJ NN|BODY_1|0
+most|RBS|BODY_1|0
+allen and cocke [35]|VBN CC NN NN|BODY_4|0
+c [25]|NN NN|BODY_6|0
+let h|VB NN|BODY_1|0
+all control flowgraphs|DT NN NNS|BODY_4|0
+illinois|JJ|BODY_5:BODY_17|0
+paris 6 ( france )|NN CD -LRB- NN -RRB-|BODY_4|0
+a structured loop|DT JJ NN|BODY_5|0
+exit several nested control structures|NN JJ JJ NN NNS|BODY_10|0
+this point|DT NN|BODY_1|0
+pred-22 ) ) figure 34|NN -RRB- -RRB- NN CD|BODY_1|0
+no factorization|DT NN|BODY_12|0
+program labels|NN NNS|BODY_9|0
+a conservative decision|DT JJ NN|BODY_4|0
+several respects|JJ NNS|BODY_5|0
+the front-ends|DT NNS|BODY_5|0
+5 application|CD NN|BODY_1|0
+figure 18|NN CD|BODY_5|0
+( defun f ( lambda ( j|-LRB- NN NN -LRB- NN -LRB- NN|BODY_1|0
+a new temporary variable|DT JJ JJ JJ|BODY_4|0
+pathological flowgraphs [38]|JJ NNS NNS|BODY_4|0
+these regions|DT NNS|BODY_9|0
+br2 ) ) figure 33|NN -RRB- -RRB- NN CD|BODY_1|0
+figure 27|NN CD|BODY_3|0
+notice|NN|BODY_1|0
+the first problem|DT JJ NN|BODY_1|0
+the second problem|DT JJ NN|BODY_1|0
+the third problem|DT JJ NN|BODY_1|0
+three steps|CD NNS|BODY_2|0
+every occurrence|DT NN|BODY_13|0
+t 0 3|NN CD CD|BODY_13|0
+[10 , 47 , 12 , 5]|CD , CD , CD , CD|BODY_6|0
+baker [12] concentrates|NN JJ NNS|BODY_1|0
+the goto statements|DT NN NNS|BODY_3|0
+8 conclusion|CD NN|BODY_1|0
+2 presentation|CD NN|BODY_1|0
+its applications|PRP$ NNS|BODY_1|0
+two applications|CD NNS|BODY_3|0
+the gaussian elimination method|DT JJ NN NN|BODY_1|0
+a single , integer value|DT JJ , JJ NN|BODY_1|0
+most n times|JJS NN NNS|BODY_3|0
+theorem 2 g irreducible|NN CD NN NN|BODY_1|0
+the third application|DT JJ NN|BODY_1|0
+figure 23|NN CD|BODY_5|0
+an occurrence|DT NN|BODY_7|0
+2.1 denotational semantics|CD JJ NNS|BODY_1|0
+commands|NNS|BODY_7|0
+simple jumps|JJ NNS|BODY_1|0
+1 and 2.|CD CC CD|BODY_3|0
+no such loop )|DT JJ NN -RRB-|BODY_6|0
+some code replication )|DT NN NN -RRB-|BODY_9|0
+a topological ordering|DT JJ NN|BODY_1|0
+closures|NNS|BODY_1|0
+the output language|DT NN NN|BODY_1|0
+7.1 allen and cocke method|CD VBN CC NN NN|BODY_1|0
+type store|NN NN|BODY_11|0
+two different factorization|CD JJ NN|BODY_1|0
+2.1.1 continuations|CD NNS|BODY_1|0
+c.|NN|BODY_3|0
+the theory|DT NN|BODY_1|0
+these temporary variables|DT JJ NNS|BODY_1|0
+( lexically )|-LRB- RB -RRB-|BODY_6|0
+figure 10|NN CD|BODY_5|0
+the procedure|DT NN|BODY_4|0
+several cases|JJ NNS|BODY_1|0
+a single method|DT JJ NN|ABSTRACT_1|0
+4.1 number|CD NN|BODY_1|0
+branching statements|NN NNS|BODY_5|0
+both cases|DT NNS|BODY_1|0
+'s and labels|POS CC NNS|BODY_5|0
+'s into programs|POS IN NNS|BODY_5|0
+all programs|DT NNS|BODY_4|0
+pause|NN|BODY_5|0
+the use|DT NN|BODY_1|0
+the first method|DT JJ NN|BODY_1|0
+the gaussian resolution|DT JJ NN|BODY_8|0
+figure 15|NN CD|BODY_7|0
+the associated figure elimination|DT JJ NN NN|BODY_1|0
+the next step|DT JJ NN|BODY_1|0
+the resulting system|DT VBG NN|BODY_3|0
+excessive boolean expressions|JJ JJ NNS|BODY_6|0
+normalizing reducible flowgraphs|JJ JJ NNS|BODY_18|0
+figure 11|NN CD|BODY_1|0
+contrast|NN|BODY_1|0
+more replicated code [27]|JJR JJ NN NN|BODY_8|0
+the resultant syntax|DT NN NN|BODY_11|0
+an assignment statement|DT NN NN|BODY_3|0
+our work|PRP$ NN|BODY_4|0
+the construct|DT VB|BODY_11|0
+the second time|DT JJ NN|BODY_1|0
+the while|DT NN|BODY_1|0
+their common points and differences|PRP$ JJ NNS CC NNS|BODY_5|0
+this framework|DT NN|BODY_1|0
+this dependence|DT NN|BODY_1|0
+3.4 example|CD NN|BODY_1|0
+a genuinely multilingual compiler|DT RB JJ NN|BODY_3|0
+this heuristic order|DT JJ NN|BODY_1|0
+1 and x 4|CD CC SYM CD|BODY_10|0
+a different order|DT JJ NN|BODY_9|0
+an arbitrary order|DT JJ NN|BODY_7|0
+their bodies|PRP$ NNS|BODY_14|1
+a reasonable size|DT JJ NN|BODY_10|0
+a simpler algorithm|DT JJR NN|BODY_1|0
+its edges|PRP$ NNS|BODY_6|0
+k successors|NN NNS|BODY_4|0
+many loop iterations|JJ NN NNS|BODY_9|0
+no successors|DT NNS|BODY_4|0
+only one predecessor|RB CD NN|BODY_5|0
+several successors|JJ NNS|BODY_5|0
+the examples|DT NNS|BODY_1|0
+a clique|DT NN|BODY_9|0
+a dataflow problem|DT NNS NN|BODY_12|0
+figure 26 present|NN CD NN|BODY_21|0
+figure 30|NN CD|BODY_5|0
+the temporary|DT JJ|BODY_1|0
+2.6 example|CD NN|BODY_1|0
+3 order|CD NN|BODY_1|0
+3.2 algorithm|CD NN|BODY_1|0
+some goto statements|DT NN NNS|BODY_1|0
+their execution|PRP$ NN|BODY_8|0
+an exit branch|DT NN NN|BODY_1|0
+an obvious , trivial internal structure|DT JJ , JJ JJ NN|BODY_5|0
+ex|FW|BODY_1|0
+2.5 transformations|CD NNS|BODY_1|0
+an expression|DT NN|BODY_1|0
+earlier|JJR|BODY_3|0
+section 2.5.3|NN CD|BODY_1|0
+such transformations|JJ NNS|BODY_5|0
+the following|DT VBG|BODY_1|0
+the following equivalent system|DT VBG JJ NN|BODY_13|0
+the input language|DT NN NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+the next sections|DT JJ NNS|BODY_1|0
+this simplification|DT NN|BODY_1|0
+two criteria|CD NNS|BODY_2|0
+our system|PRP$ NN|BODY_1|0
+the substitution and elimination|DT NN CC NN|BODY_1|0
+selector variables|NN NNS|BODY_6|0
+2.5.1 pre-calculation|CD NN|BODY_1|0
+a very conservative bound|DT RB JJ JJ|BODY_7|0
+analysis or transformation|NN CC NN|BODY_6|0
+figure 17|NN CD|BODY_9|0
+n \gamma 1|NN NN CD|BODY_7|0
+the process|DT NN|BODY_1|0
+an interval|DT NN|BODY_7|0
+s. i 2 n|DT NN CD NN|BODY_5|0
+the variable x 3|DT JJ NN CD|BODY_1|0
+case 2|NN CD|BODY_1|0
+case 3|NN CD|BODY_1|0
+this case x k|DT NN NN NN|BODY_1|0
+column bexp|NN NN|BODY_1|0
+column ean|NN NN|BODY_1|0
+column eanf|NN NN|BODY_1|0
+column ebn|NN NN|BODY_1|0
+column sexp|NN NN|BODY_1|0
+derecur- sivations|NNS NNS|BODY_27|0
+different syntactic structures|JJ JJ NNS|BODY_9|0
+equations ( or unknowns )|NNS -LRB- CC NNS -RRB-|BODY_21|0
+its predecessors|PRP$ NNS|BODY_7|0
+nodes and edges|NNS CC NNS|BODY_15|0
+summary|NN|BODY_1|0
+the program structure|DT NN NN|BODY_1|0
+its nearest dominator h [2]|PRP$ JJS NN NN NN|BODY_5|0
+l non-empty goto 1|JJ JJ NN CD|BODY_1|0
+morris|JJ|BODY_1|0
+the first unknown x i|DT JJ JJ SYM FW|BODY_1|0
+the intermediate form|DT JJ NN|BODY_1|0
+the second purpose|DT JJ NN|BODY_1|0
+wadsworth and l.|NN CC NN|BODY_1|0

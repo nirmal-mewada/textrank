@@ -1,6 +1,5 @@
 package me.ny;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -19,7 +18,6 @@ import ny.kpe.data.KrapivinInstance;
 import ny.kpe.data.SentenceVO.SENT_POS;
 
 import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang3.StringUtils;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
@@ -38,16 +36,40 @@ public class TextRankMain {
 
 	public static final int KEY_TO_EXTRACT = 20;
 
+	public static boolean stemStandard = true;
+
 	static StopWordFilter stopWordFilter = new StopWordFilter(
 			"D:/WorkSpace_/nirmal_workspace/KeyPhrase/"+NyConstant.STOP_LIST_FILE);
+
+	public enum DATA_SET {
+		HULTH("",""),
+		KRAPIVIN("input","weighted-krapiwin"),
+		SEMVAL("input_semval","weighted-semval");
+
+		private DATA_SET(String in, String out) {
+			this.in = in;
+			this.out = out;
+		}
+		String in;
+		String out;
+	}
+
+	public static DATA_SET dataSet = DATA_SET.SEMVAL;
 	public static void main(String[] args) {
 		try {
 			//			testRank();
 			Model.MODELS_DIR = "D:\\WorkSpace_\\nirmal_workspace\\KeyPhrase\\res\\nplmodels";
 
 
-			FileIOHandler ioHandler = new FileIOHandler("basedir","input_hulth","weighted-hulth");
-			ioHandler.setExt("abstr");
+			FileIOHandler ioHandler = new FileIOHandler("basedir",dataSet.in,dataSet.out);
+			switch (dataSet) {
+			case HULTH:
+				ioHandler.setExt("abstr");
+				break;
+			case SEMVAL:
+				stemStandard = false;
+				break;
+			}
 
 			FileOutputStream result = ioHandler.newOutFile("result.csv");
 			FileOutputStream log = ioHandler.newOutFile("out.log");
@@ -61,7 +83,7 @@ public class TextRankMain {
 				IOUtils.write(" ----------------------------------------------------- \n"+
 						count+". File: "+mappedFile.getIn().getName()+"\n", log);
 
-				KrapivinInstance dataObj = NyConstant.parseHulth(mappedFile.getIn()," ");
+				KrapivinInstance dataObj = ParseUtils.parseData(mappedFile,dataSet);
 
 				NyTextRank tr = new NyTextRank(dataObj);
 				tr.compute();
@@ -75,9 +97,8 @@ public class TextRankMain {
 					mappedFile.write("\n");
 				}
 
-				String keyFile =  StringUtils.removeEnd(mappedFile.getIn().getAbsolutePath(),".abstr")+".uncontr";
-				//				String keyFile =  StringUtils.removeEnd(mappedFile.getIn().getAbsolutePath(),".txt")+".key";
-				List<String> lstStandards = Lists.newArrayList(StringUtils.join(IOUtils.readLines(new FileInputStream(keyFile))).split(";"));
+				List<String> lstStandards = ParseUtils.readGoldStandards(mappedFile,dataSet);
+
 				List<String> lstPredicted = new ArrayList<String>();
 
 				for (Node node : lst) {
@@ -109,7 +130,7 @@ public class TextRankMain {
 			Measure avgMeasureWord = getAverage(lstWordMeasure).clean();
 			Measure avgMeasurePhrase = getAverage(lstPhraseMeasure).clean();
 			String val = "Average,"+avgMeasureWord.getCsv()+","+avgMeasurePhrase.getCsv()+"\n";
-			System.out.println("Average,0.41,0.57,0.46,0.12,0.21,0.14");
+
 			System.out.println(val);
 			IOUtils.write(val, result);
 
@@ -157,9 +178,10 @@ public class TextRankMain {
 	 */
 	private static void doWeightening(List<Node> lst) {
 
-		double wTitle = 0.5;
-		double wAbstract = 0.4;
+		double wTitle = 0.4;
+		double wAbstract = 0.3;
 		double wBody = 0.1;
+
 
 		for (Node node : lst) {
 			if(stopWordFilter.apply(node.value.text)==null){

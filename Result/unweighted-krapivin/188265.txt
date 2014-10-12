@@ -1,0 +1,1128 @@
+we|PRP|BODY_6:BODY_11:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7:BODY_8|3
+the combining set|DT VBG NN|BODY_11:BODY_13:ABSTRACT_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_13:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+the results|DT NNS|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_7:BODY_8:ABSTRACT_10:BODY_9|1
+that|WDT|BODY_6:ABSTRACT_8:ABSTRACT_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+requests|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:ABSTRACT_7:BODY_7:BODY_8:ABSTRACT_12:BODY_9|1
+the prefix operation|DT NN NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_15:BODY_2:BODY_3:BODY_10:BODY_19:BODY_4:BODY_7:BODY_9|0
+there|EX|BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+memory|NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the processors|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+request combining|NN VBG|BODY_6:BODY_12:ABSTRACT_6:BODY_2:BODY_3:BODY_19:BODY_10:BODY_4:BODY_7|1
+the interconnect|DT NN|BODY_5:BODY_16:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+request|NN|TITLE_1:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4|0
+the network|DT NN|BODY_5:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+ipc|NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+combining|VBG|BODY_12:BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+this|DT|BODY_5:BODY_2:BODY_1:BODY_4|1
+the latency|DT NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|1
+the use|DT NN|BODY_6:BODY_1:BODY_2:BODY_4:ABSTRACT_9|0
+the head|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_8:BODY_9|0
+a priori knowledge|DT JJ NN|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|1
+each|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+the design space|DT NN NN|BODY_6:ABSTRACT_8:BODY_3:BODY_4:BODY_7|0
+processors|NNS|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7:BODY_8|0
+the interconnection network|DT NN NN|BODY_5:BODY_18:BODY_1:BODY_2:ABSTRACT_3:BODY_4:BODY_7:BODY_9|0
+one|CD|BODY_6:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7|0
+iic|JJ|BODY_2:BODY_3:BODY_8|0
+x|SYM|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_9|0
+the processor elements|DT NN NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_14:BODY_10:BODY_4:BODY_8|0
+the list|DT NN|BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+operation|NN|BODY_2:BODY_3|0
+the combining operation|DT VBG NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_4|0
+the nodes|DT NNS|BODY_6:BODY_5:BODY_17:BODY_2:BODY_1:BODY_7|0
+all requests|DT NNS|BODY_1:BODY_3:BODY_8|0
+the tail|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_8|0
+a combining set|DT VBG NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:ABSTRACT_1:BODY_7|0
+results|NNS|BODY_5:BODY_3:BODY_4:BODY_8|0
+(|-LRB-|BODY_15:BODY_1:BODY_4:BODY_9|0
+schemes|NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+messages|NNS|BODY_11:BODY_5:BODY_15:BODY_13:BODY_3:BODY_7|0
+each processor|DT NN|BODY_5:BODY_1:BODY_2|0
+place|NN|BODY_5:BODY_4:BODY_8:BODY_9|0
+hot requests|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the time|DT NN|BODY_6:BODY_3:BODY_10:BODY_4|0
+the request|DT NN|BODY_6:ABSTRACT_5:BODY_2:BODY_8|0
+the requests|DT NNS|BODY_16:BODY_10:BODY_4:BODY_7|0
+the result|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+the message|DT NN|BODY_13:BODY_2:BODY_1:BODY_7:BODY_9|0
+the combining|DT VBG|BODY_1:BODY_2:BODY_14:BODY_8|0
+location x|NN NN|BODY_5:BODY_3:BODY_4:BODY_8|0
+the combining tree|DT VBG NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the issues|DT NNS|BODY_6:BODY_3:BODY_4|0
+.e|NN|BODY_6:BODY_11:BODY_5:BODY_9|0
+the sophistication|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+the set|DT NN|ABSTRACT_6:BODY_2:BODY_4:BODY_10|0
+an optical bus|DT JJ NN|BODY_7:BODY_8|0
+tion|NN|BODY_5:BODY_3:BODY_8:BODY_9|0
+the system|DT NN|BODY_6:BODY_5:BODY_9|1
+a message|DT NN|BODY_5:BODY_2:BODY_9|0
+tzeng|NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+the shared location|DT VBN NN|BODY_5:BODY_4:BODY_9|0
+the combining sets|DT VBG NNS|BODY_2:BODY_3|0
+the return trip|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+the combined access|DT JJ NN|BODY_6:BODY_5:ABSTRACT_11:BODY_18:BODY_2:BODY_3:BODY_8:BODY_9|0
+its value|PRP$ NN|BODY_6:BODY_15:BODY_10|0
+the memory modules|DT NN NNS|BODY_4:BODY_7|0
+a taxonomy|DT NN|BODY_2|0
+the processor|DT NN|BODY_2:BODY_1:BODY_7:BODY_8|0
+the value field|DT NN NN|BODY_12:BODY_3:BODY_4:BODY_8|0
+sophistication|NN|BODY_1:BODY_4:BODY_7:BODY_20|0
+a  1 |DT NN CD|BODY_5:BODY_4|0
+pic|NN|BODY_6:BODY_2:BODY_4|0
+this area|DT NN|BODY_2:BODY_3:BODY_8|0
+each participant|DT NN|BODY_2:BODY_14|0
+a linked list|DT VBN NN|BODY_6:BODY_5:BODY_3:BODY_8|0
+h|NN|BODY_11:BODY_4:BODY_7|0
+the interconnect nodes|DT JJ NNS|BODY_12:BODY_6:BODY_3:BODY_4|0
+interconnection network|NN NN|ABSTRACT_5:BODY_4|0
+the hot requests|DT JJ NNS|BODY_12:BODY_5:BODY_2:BODY_1|0
+the value|DT NN|BODY_4|0
+result distribution|VB NN|BODY_3|0
+memory location x|NN NN NN|BODY_2:BODY_7:BODY_8:BODY_9|0
+the topology|DT NN|BODY_2:BODY_3|0
+software combining|NN VBG|BODY_1:BODY_3:BODY_4|0
+all channels|DT NNS|BODY_2|0
+all participants|DT NNS|BODY_2|0
+the parameters|DT NNS|BODY_2|0
+the hierarchy|DT NN|BODY_5:BODY_10:BODY_8|0
+a system|DT NN|BODY_2|0
+the paper|DT NN|BODY_2:BODY_7|0
+the forward trip|DT JJ NN|BODY_6:BODY_3:BODY_4:BODY_7:BODY_9|0
+the forward message|DT JJ NN|BODY_5:BODY_2:BODY_4|0
+the nyu ultracomputer|DT NN NN|BODY_4|0
+a prefix computation network|DT NN NN NN|BODY_2:BODY_1:BODY_3|0
+restrictions|NNS|ABSTRACT_6:BODY_13:BODY_1:BODY_9|0
+networks|NNS|BODY_1:BODY_7:BODY_9|0
+non-combining requests|JJ NNS|BODY_10:BODY_4:BODY_8|0
+e|NN|BODY_6:BODY_5:BODY_14|0
+the new combining set|DT JJ VBG NN|BODY_6:BODY_1:BODY_7:BODY_9|0
+the forward network|DT JJ NN|BODY_2:BODY_4|0
+the saturation bandwidth|DT NN NN|BODY_2:BODY_9|0
+addition|NN|BODY_1:BODY_4|0
+access|NN|BODY_11:BODY_3:BODY_9|0
+processor b|NN NN|BODY_5:BODY_3:BODY_4|0
+the routes|DT NNS|BODY_12:BODY_6:BODY_2:BODY_3|0
+f|NN|BODY_3:BODY_4|0
+the head and tail fields|DT NN CC NN NNS|BODY_5:BODY_3|0
+a prefix operation|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_10:BODY_4:BODY_7:BODY_8|0
+the fetch&f(x|DT NN|BODY_12:BODY_3:BODY_8|0
+the prefix computation|DT NN NN|BODY_6:BODY_5:BODY_3|0
+progress|NN|BODY_11:BODY_5:BODY_8:BODY_9|0
+case|NN|BODY_5:BODY_8|0
+a f& i operation|DT JJ NN NN|BODY_13:BODY_4|0
+the same memory location|DT JJ NN NN|BODY_6:BODY_2|0
+the wait buffer|DT NN NN|BODY_6:BODY_15:BODY_3|0
+the latencies|DT NNS|BODY_5:BODY_2|0
+state|NN|BODY_2:BODY_3:BODY_8|0
+example|NN|BODY_1|0
+the benefits|DT NNS|ABSTRACT_3:BODY_3|0
+combining took place|VBG VBD NN|BODY_3:BODY_4|0
+the link message|DT NN NN|BODY_2:BODY_4|0
+nodes|NNS|BODY_2:BODY_3:BODY_7|0
+the degradation|DT NN|BODY_6:BODY_7|0
+the final result|DT JJ NN|BODY_2:BODY_3:BODY_14|0
+figure|NN|BODY_6:BODY_5|0
+the algorithm|DT NN|BODY_6:BODY_1:BODY_10|0
+processor elements|NN NNS|ABSTRACT_4:BODY_3|0
+an example|DT NN|BODY_1:BODY_3|0
+takes place|VBZ NN|BODY_5|0
+a list|DT NN|BODY_3:BODY_4:BODY_7|0
+a single hot memory location [22|DT JJ JJ NN NN NN|BODY_3|0
+h percent|NN NN|BODY_2|0
+how such hardware combining|WRB JJ NN VBG|BODY_3|0
+several examples|JJ NNS|BODY_2|0
+the average latency|DT JJ NN|BODY_2|0
+the maximum bandwidth|DT NN NN|BODY_3|0
+the mimd version|DT JJ NN|BODY_5:BODY_2|0
+a comparison|DT NN|BODY_2:BODY_4|0
+the response|DT NN|BODY_1:BODY_8|0
+implementations|NNS|BODY_11:BODY_2|0
+the elements|DT NNS|BODY_6:BODY_1:BODY_4|0
+e ) request|NN -RRB- NN|BODY_2:BODY_9|0
+the bus|DT NN|BODY_4|0
+alus|NN|BODY_1:BODY_2:BODY_3|0
+the combining network|DT VBG NN|BODY_3:BODY_4|0
+the lock|DT NN|BODY_5:BODY_8|0
+a combining tree|DT VBG NN|BODY_2:BODY_3|0
+the return path|DT NN NN|BODY_5:BODY_2|0
+the cost|DT NN|BODY_3|0
+the memory location|DT NN NN|BODY_3:BODY_8:BODY_9|0
+appropriate action|JJ NN|BODY_5|0
+the possibility|DT NN|BODY_2|0
+the classification|DT NN|BODY_5:BODY_1:ABSTRACT_1|0
+23|CD|BODY_10|0
+the previous iteration|DT JJ NN|BODY_7|0
+the same cache block|DT JJ NN NN|BODY_2|0
+two pointers|CD NNS|BODY_7|0
+the four processors|DT CD NNS|BODY_2|0
+4,s 5}|JJ NNS|BODY_7|0
+[17] fall|JJ NN|BODY_6|0
+above|IN|BODY_2|0
+memory requests|NN NNS|BODY_7:BODY_8|0
+a software combining tree|DT NN VBG NN|BODY_2:BODY_8|0
+this direction|DT NN|BODY_2|0
+the design|DT NN|BODY_2|0
+further requests|JJ NNS|BODY_2|0
+26]|CD|BODY_6|0
+the hardware cost|DT NN NN|BODY_7|0
+care|NN|BODY_11:BODY_3|0
+the ibm rp3|DT NN NNS|BODY_1:BODY_4|0
+two messages|CD NNS|BODY_1:BODY_3|0
+the reverse network|DT NN NN|BODY_6:BODY_5|0
+blelloch|NN|BODY_6:BODY_1|0
+the literature|DT NN|BODY_5:BODY_3|0
+the ultracomputer method|DT NN NN|BODY_4|0
+read requests|VBN NNS|BODY_2|0
+this point|DT NN|BODY_1:BODY_2|0
+responsibility|NN|BODY_5:BODY_2|0
+shared memory locations|VBN NN NNS|BODY_2|0
+several algorithms|JJ NNS|BODY_1:BODY_2|0
+the forward path-the node|DT JJ NN NN|BODY_8|0
+that destination|DT NN|BODY_7|0
+the algorithms|DT NNS|BODY_2|0
+each node|DT NN|BODY_2:BODY_1:BODY_3|0
+each switch|DT NN|BODY_5:BODY_1|0
+the union|DT NN|BODY_2:BODY_4|0
+the memory controller|DT NN NN|BODY_2|0
+three distinct parts|CD JJ NNS|BODY_2|0
+the same|DT JJ|BODY_4:BODY_7|0
+] and johnson [12]|NN CC NN NNS|BODY_2|0
+such a scheme|JJ DT NN|BODY_2:BODY_1|0
+a processor|DT NN|BODY_1:BODY_4|0
+the queue|DT NN|BODY_11:BODY_3|0
+the transformation|DT NN|BODY_7|0
+rudolph|NNP|BODY_2|0
+buffer|NN|BODY_2|0
+the ultracomputer style|DT NN NN|BODY_1:BODY_3|0
+the value fields|DT NN NNS|BODY_6|0
+the figure|DT NN|BODY_3|0
+ipc need|JJ NN|BODY_2|0
+p 1|NN CD|BODY_3|0
+p|NN|BODY_1:BODY_2|0
+therefore appropriate synchronization|RB JJ NN|BODY_14|0
+a prefix computation|DT NN NN|BODY_5:BODY_9|0
+the type|DT NN|BODY_5:BODY_4|0
+the linked list|DT VBN NN|BODY_5:BODY_4|0
+account|NN|BODY_4|0
+such race conditions|JJ NN NNS|BODY_3|0
+the request fetch&f(x|DT NN NN|BODY_10:BODY_9|0
+the amount|DT NN|BODY_5:BODY_3|0
+)|-RRB-|BODY_11:BODY_10:BODY_20|0
+non-combinable and potentially combinable requests|JJ CC RB JJ NNS|BODY_2|0
+the choices|DT NNS|BODY_4|0
+the new |DT JJ|BODY_2|0
+our simulations|PRP$ NNS|BODY_2|0
+10 and 11 ( note|CD CC CD -LRB- NN|BODY_2|0
+an arriving message|DT VBG NN|BODY_5|0
+the ultracomputer|DT NN|BODY_1:BODY_4:BODY_9|0
+lipovski|NN|BODY_4|0
+the final value|DT JJ NN|BODY_4|0
+introducing comparators|VBG NNS|BODY_2|0
+parallel|NN|BODY_6:BODY_2:BODY_9|0
+no need|DT NN|BODY_6:BODY_4|0
+harrison [8]|NN NN|BODY_4|0
+the chopp method|DT NN NN|BODY_3|0
+the methods|DT NNS|BODY_2:BODY_4|0
+the request combining process|DT NN VBG NN|ABSTRACT_2|0
+the only member|DT JJ NN|BODY_2:BODY_3|0
+two interconnection networks|CD NN NNS|BODY_2|0
+an alternative approach|DT NN NN|BODY_2|0
+these efforts|DT NNS|BODY_2|0
+task|NN|BODY_2|0
+the addition operator|DT NN NN|BODY_12|0
+p 0|NN CD|BODY_5:BODY_1|0
+the hierarchy cause state|DT NN NN NN|BODY_4|0
+wait buffers|NN NNS|BODY_6:BODY_5|0
+non-uniform memory access machines|JJ NN NN NNS|BODY_8|0
+x +c|NNP NNP|BODY_4|0
+a value field|DT NN NN|BODY_5|0
+the ( final ) result|DT -LRB- JJ -RRB- NN|BODY_14:BODY_10|0
+the various techniques|DT JJ NNS|BODY_18:BODY_3|0
+half|NN|BODY_5|0
+existing methods|VBG NNS|BODY_3:BODY_4|0
+an old |DT JJ|BODY_2|0
+an electrical bus|DT JJ NN|BODY_3|0
+256 processors|CD NNS|BODY_3|0
+six processors ( p 0-p 5 )|CD NNS -LRB- NN JJ CD -RRB-|BODY_3|0
+sohi|NN|BODY_4|0
+three inputs|CD NNS|BODY_7|0
+hsu and yew|NN CC NN|BODY_5:BODY_1|0
+the same level|DT JJ NN|BODY_3|0
+hiedelberger|NN|BODY_8|0
+many operations|JJ NNS|BODY_6|0
+1,s|NNS|BODY_6|0
+hierarchical caches|JJ NNS|BODY_9|0
+v )|FW -RRB-|BODY_6|0
+fetch&add ( f&a ) , or fetch&increment|JJ -LRB- NN -RRB- , CC NN|BODY_5|0
+the control network|DT NN NN|BODY_4|0
+section 3|NN CD|BODY_1:BODY_3|2
+the thinking machines|DT VBG NNS|BODY_5|0
+a response|DT NN|BODY_11:BODY_7|0
+comparators|NNS|BODY_2:BODY_3|0
+a network node|DT NN NN|BODY_1:BODY_4|0
+the tree|DT NN|BODY_6:BODY_3|0
+the priority chain {s|DT NN NN NNS|BODY_5|0
+the memory|DT NN|BODY_5:BODY_3|0
+smith|NN|BODY_5|0
+a tree|DT NN|BODY_7:BODY_8|0
+the routing|DT NN|BODY_2:BODY_14:BODY_10|0
+us|PRP|BODY_2:BODY_4|0
+a pointer|DT NN|BODY_3:BODY_7|0
+the combinable locations|DT JJ NNS|BODY_3:BODY_4|0
+the basic ideas|DT JJ NNS|BODY_3|0
+an electronic bus [26]|DT JJ NN NN|BODY_6|0
+this experiment|DT NN|BODY_2:BODY_3|0
+the members|DT NNS|BODY_13:BODY_7|0
+figure 13|NN CD|BODY_2|0
+our experimental results|PRP$ JJ NNS|BODY_1|0
+table 1|NN CD|BODY_1|0
+the following discussion|DT VBG NN|BODY_2|0
+this paper|DT NN|BODY_1|0
+this the limited-variable access pattern|DT DT JJ NN NN|BODY_2|0
+two purposes|CD NNS|BODY_2|0
+yew et|NNP NNP|BODY_1|0
+two requests|CD NNS|BODY_1:BODY_3|0
+a restricted form|DT VBN NN|BODY_4|0
+four regions|CD NNS|BODY_4:BODY_8|0
+an implementation|DT NN|BODY_6:BODY_2|0
+the appropriate processors|DT JJ NNS|BODY_2:BODY_4|0
+the data|DT NNS|BODY_6|0
+johnson|NN|BODY_4|0
+the entire prefix operation|DT JJ NN NN|BODY_11:BODY_19|0
+the new combining scheme|DT JJ VBG NN|BODY_2|0
+a )|DT -RRB-|BODY_7:BODY_8|0
+section 4|NN CD|BODY_11:BODY_3|0
+directions|NNS|BODY_3|0
+the network nodes|DT NN NNS|BODY_3:BODY_4|0
+( ipc )|-LRB- JJ -RRB-|BODY_6:BODY_2:BODY_1:BODY_8|0
+a|DT|BODY_2:BODY_1|0
+two basic issues|CD JJ NNS|BODY_4|0
+four processors|CD NNS|BODY_5:BODY_1|0
+the root|DT NN|BODY_2|0
+the fetch&f primitive|DT NN JJ|BODY_2:BODY_4|0
+the combining net-work|DT VBG NN|BODY_6|0
+the two requests|DT CD NNS|BODY_1:BODY_4|0
+this state|DT NN|BODY_5|0
+some arbitrary destination|DT JJ NN|BODY_6|0
+the route|DT NN|BODY_1:BODY_3|0
+example caches|NN NNS|BODY_2|0
+a recent thesis|DT JJ NN|BODY_3|0
+topology|NN|BODY_5|0
+shared data|VBN NNS|BODY_12:BODY_10:BODY_7|0
+the pointers|DT NNS|BODY_5:BODY_1|0
+the work|DT NN|BODY_3|0
+a large-scale , shared memory multiprocessor|DT JJ , VBN NN NN|BODY_3|0
+combining requests|VBG NNS|BODY_6:BODY_3|0
+a wire|DT NN|BODY_5|0
+excessive contention|JJ NN|BODY_5|0
+implications|NNS|BODY_4:BODY_8|0
+the channel|DT NN|BODY_4|0
+all processors|DT NNS|BODY_2|0
+arbitrary topologies|JJ NNS|BODY_8|0
+separate forward|JJ RB|BODY_10|0
+the destination x|DT NN NN|BODY_2|0
+the simpler f&|DT JJR NN|BODY_2|0
+further discussion|JJ NN|BODY_6|0
+who|WP|BODY_3|0
+the old combining set|DT JJ VBG NN|BODY_5:BODY_13|0
+common|JJ|BODY_7|0
+request combining and parallel prefix|NN VBG CC JJ NN|BODY_2|0
+whichsystem component|NNP NN|ABSTRACT_3|0
+only one outstanding f&a request|RB CD JJ NN NN|BODY_2|0
+the correct time slot|DT JJ NN NN|BODY_3|0
+a simd machine|DT JJ NN|BODY_13|0
+the loop|DT NN|BODY_4|0
+the ultracomputer combining network|DT NN VBG NN|BODY_2|0
+decombining logic|VBG NN|BODY_7|0
+goodman [26]|JJ NN|BODY_6|0
+broadcast|NN|BODY_2:BODY_1|0
+our discussion|PRP$ NN|BODY_2|0
+the responsibility|DT NN|BODY_2|0
+fields|NNS|BODY_2|0
+27]|CD|BODY_7|0
+the choice|DT NN|BODY_3|0
+all the channels|DT DT NNS|BODY_3|0
+( x )|-LRB- NN -RRB-|BODY_4|0
+further interactions|JJ NNS|BODY_16|0
+examination|NN|BODY_5|0
+the addition|DT NN|BODY_11|0
+a specific frequency|DT JJ NN|BODY_7|0
+an arbitrary interconnection network|DT JJ NN NN|BODY_12:BODY_8|0
+the bus |DT NN|BODY_3|0
+the case|DT NN|BODY_3|0
+) tree|-RRB- NN|BODY_3|0
+ipc uses alus|JJ NNS NN|BODY_2|0
+the array|DT NN|BODY_6:BODY_1|0
+access x|NN NN|BODY_4|0
+cache-only memory architecture ( coma ) machines [7|JJ NN NN -LRB- NN -RRB- NNS NNS|BODY_6|0
+a fetch&f(x|DT NN|BODY_2:BODY_1|0
+a significant portion|DT JJ NN|BODY_6|0
+0-32 percent and r|CD NN CC NN|BODY_5|0
+[21] researchers|JJ NNS|BODY_2|0
+prefetching [24]|NN NN|BODY_3|0
+known techniques|VBN NNS|BODY_5|0
+combinable operations|JJ NNS|BODY_3|0
+efj )|RB -RRB-|BODY_11:BODY_10|0
+several techniques|JJ NNS|BODY_1:ABSTRACT_1|0
+section 2.1|NN CD|BODY_3|0
+the forward direction|DT JJ NN|BODY_5|0
+the single request|DT JJ NN|BODY_5|0
+a cache block|DT NN NN|BODY_3|0
+processor|NN|BODY_1:BODY_3|0
+at least one node|IN JJS CD NN|BODY_6|0
+an arbitrary network|DT JJ NN|BODY_15:BODY_3|0
+an address|DT NN|BODY_3|0
+parallel access|JJ NN|ABSTRACT_2|0
+each iteration|DT NN|BODY_3|0
+the appropriate requesting processors|DT JJ VBG NNS|BODY_7|0
+the following potential advantages|DT VBG JJ NNS|BODY_2|0
+memory accesses|NN NNS|BODY_3|0
+semaphore|NN|BODY_9|0
+two|CD|BODY_2|0
+a result|DT NN|BODY_5:BODY_1|0
+interconnect-processor|NN|BODY_5:BODY_1:BODY_7|0
+r 3|NN CD|BODY_6|0
+the memory location x|DT NN NN NN|BODY_2|0
+which algorithm|WDT NN|BODY_6|0
+the naive method|DT JJ NN|BODY_1:BODY_3|0
+low level context|JJ NN NN|BODY_4|0
+r 2|NN CD|BODY_5|0
+a modified carry-lookahead circuit|DT VBN NN NN|BODY_2|0
+the latencies and saturation bandwidths|DT NNS CC NN NNS|BODY_2|0
+the same stage|DT JJ NN|BODY_2|0
+4|CD|BODY_7|0
+norton [22] )|JJ NN -RRB-|BODY_9|0
+height h|NN NN|BODY_4|0
+a combinable request|DT JJ NN|BODY_5:BODY_2|0
+( i|-LRB- FW|BODY_4|0
+software|NN|BODY_4|0
+investigation|NN|BODY_2|0
+yew|NNP|BODY_1:BODY_4|0
+the average amount|DT JJ NN|BODY_5|0
+an alu|DT NN|BODY_8|0
+low sophistication|JJ NN|BODY_12|0
+no requirement|DT NN|BODY_8|0
+the distribution|DT NN|BODY_2|0
+more nodes|JJR NNS|BODY_4|0
+the point|DT NN|BODY_1:BODY_4|0
+messages limits|NNS NNS|BODY_3|0
+the creation|DT NN|BODY_5:BODY_2|0
+no restrictions|DT NNS|BODY_11:BODY_5|0
+one channel|CD NN|BODY_2|0
+tzeng [29|NN CD|BODY_3|0
+the first|DT JJ|BODY_5:BODY_1|0
+a request|DT NN|BODY_6|0
+the next higher level|DT JJ JJR NN|BODY_7|0
+a single stage shuffle-exchange|DT JJ NN NN|BODY_2|0
+the bus )|DT NN -RRB-|BODY_4|0
+three outputs|CD NNS|BODY_4|0
+the ibm rp3 method|DT NN NN NN|BODY_2|0
+time|NN|BODY_6|0
+a software combining tree [31]|DT NN VBG NN NN|BODY_3|0
+ipc combining|NN VBG|BODY_3|0
+the hot rate (|DT JJ NN -LRB-|BODY_3|0
+hillis|NNS|BODY_3|0
+a node|DT NN|BODY_3|0
+a single packet|DT JJ NN|BODY_3|0
+the advantage|DT NN|BODY_2|0
+a small amount|DT JJ NN|BODY_1:BODY_19|0
+one level|CD NN|BODY_4|0
+the f operation|DT NN NN|BODY_5|0
+variable types|JJ NNS|BODY_2|0
+the prefix computation network|DT NN NN NN|BODY_6:BODY_4|0
+'s prefix computation network [3]|POS NN NN NN NN|BODY_2|0
+all|DT|BODY_5:BODY_1|0
+memory ( o(log s)|NN -LRB- NN NN|BODY_3|0
+the higher level|DT JJR NN|BODY_9|0
+more direct comparisons|RBR JJ NNS|BODY_10|0
+the same location|DT JJ NN|BODY_2|0
+the exception|DT NN|BODY_5|0
+two inputs|CD NNS|BODY_3|0
+chopp|NN|BODY_3|0
+the node computes|DT NN NNS|BODY_9|0
+arbitrary fetch&f operations|JJ NN NNS|BODY_7|0
+memory access|NN NN|BODY_6:BODY_5|0
+the alu|DT NN|BODY_8|0
+the reader|DT NN|BODY_5|0
+pfister|NN|BODY_8|0
+multiprocessors|JJ|TITLE_2|0
+a hot request|DT JJ NN|BODY_7|0
+a simd paradigm|DT JJ NN|BODY_3|0
+a larger combining|DT JJR VBG|BODY_6|0
+processor number|NN NN|BODY_2|0
+further investigation|JJ NN|BODY_3:BODY_4|0
+a routing section|DT NN NN|BODY_3|0
+the l locations|DT JJ NNS|BODY_1:BODY_4|0
+a larger combining set|DT JJR VBG NN|BODY_3|0
+the read request|DT VBN NN|BODY_2|0
+each cycle|DT NN|BODY_3|0
+the second|DT JJ|BODY_1|0
+processor-processor|NN|BODY_5:BODY_1|0
+the same constant|DT JJ NN|BODY_2|0
+their intentions|PRP$ NNS|BODY_3|0
+elements|NNS|BODY_11|0
+the combining method|DT VBG NN|BODY_3|0
+a balanced ( software|DT VBN -LRB- NN|BODY_2|0
+11b and 12|CD CC CD|BODY_2|0
+arbitrary request combining|JJ NN VBG|BODY_3|0
+interconnect-processor combining|NN VBG|BODY_6|0
+our further discussion|PRP$ JJ NN|BODY_2|0
+the waiting time|DT VBG NN|BODY_2|0
+the individual processor (|DT JJ NN -LRB-|BODY_17|0
+a small increase|DT JJ NN|BODY_3|0
+our case|PRP$ NN|BODY_1:BODY_7|0
+a technique|DT NN|BODY_2|0
+explicit storage|JJ NN|BODY_2|0
+the combining section|DT VBG NN|BODY_1:BODY_2|0
+the values|DT NNS|BODY_1|0
+lawrie|NN|BODY_6|0
+f& i operations|JJ NN NNS|BODY_6|0
+the results (|DT NNS -LRB-|BODY_7|0
+different system components|JJ NN NNS|BODY_2|0
+priorities|NNS|BODY_5|0
+request combining strategies|NN VBG NNS|BODY_2|0
+a constant , c|DT JJ , NN|BODY_6|0
+methods|NNS|BODY_4|0
+a shared variable x|DT VBN JJ SYM|BODY_7|0
+no demands|DT NNS|BODY_14|0
+two members|CD NNS|BODY_7|0
+the data structure|DT NNS NN|BODY_4|0
+the need|DT NN|BODY_1:BODY_4:BODY_8|0
+bandwidth|NN|BODY_6|0
+the operation|DT NN|BODY_5|0
+uni-directional links|JJ NNS|BODY_3|0
+the problem|DT NN|BODY_5|0
+a wait buffer|DT NN NN|BODY_7|0
+instructions|NNS|BODY_6|0
+the recursive doubling algorithm|DT JJ NN NN|BODY_12|0
+x )|NN -RRB-|BODY_14:BODY_4|0
+network|NN|BODY_3|0
+point messages|NN NNS|BODY_6|0
+a queue|DT NN|BODY_3|0
+combining strategies|VBG NNS|ABSTRACT_2|0
+the tasks|DT NNS|BODY_7:BODY_9|0
+the first combining|DT JJ VBG|BODY_5|0
+miss|NN|BODY_2|0
+important disadvantage|JJ NN|BODY_2|0
+( e .g. , barrier synchroniza|-LRB- NN NNP , NN NN|BODY_7|0
+the following|DT VBG|BODY_4|0
+the old |DT JJ|BODY_3|0
+1|CD|BODY_4|0
+a multiple instruction multiple data ( mimd) paradigm|DT JJ NN JJ NN -LRB- NN NN|BODY_3|0
+the destination location x|DT NN NN NN|BODY_4|0
+recursive doubling|JJ NN|BODY_2|0
+the difference|DT NN|BODY_4|0
+a scalable cache coherence scheme|DT JJ NN NN NN|BODY_9|0
+flexibility|NN|BODY_4|0
+0 accesses|CD NNS|BODY_2|0
+use|VB|BODY_6|0
+bidirectional links 1|JJ NNS CD|BODY_2|0
+the operation efj|DT NN NN|BODY_7|0
+this information|DT NN|BODY_5:BODY_1|0
+the authors|DT NNS|BODY_4|0
+its position|PRP$ NN|BODY_12|0
+the process|DT NN|BODY_5|0
+synchronization requests )|NN NNS -RRB-|BODY_3|0
+r 5 }|NN CD NN|BODY_8|0
+c|NN|BODY_3|0
+the node|DT NN|BODY_3|0
+the above|DT JJ|BODY_2|0
+the serial order|DT JJ NN|BODY_13|0
+scan primitives|JJ NNS|BODY_3|0
+hierarchical cache/memory structures|JJ NN NNS|BODY_5|0
+a full comparator|DT JJ NN|BODY_4|0
+the different scales )|DT JJ NNS -RRB-|BODY_3|0
+an omega network|DT JJ NN|BODY_2|0
+he|PRP|BODY_5|0
+the other processors|DT JJ NNS|BODY_3|0
+an option|DT NN|BODY_2|0
+( increment|-LRB- NN|BODY_5|0
+a two partoperation|DT CD NN|ABSTRACT_3|0
+a mimd paradigm|DT NN NN|BODY_3|0
+many values|JJ NNS|BODY_3|0
+permits|NNS|BODY_5|0
+fig 12|NN CD|BODY_4|0
+snir [14]|NN NN|BODY_3|0
+one network|CD NN|BODY_3|0
+this section|DT NN|BODY_5|0
+[25]|PRP|BODY_5|0
+steele [10]|NN NNS|BODY_4|0
+two flavors|CD NNS|BODY_2|0
+all values|DT NNS|BODY_10|0
+large values|JJ NNS|BODY_8|0
+a ( parallel ) prefix computation network|DT -LRB- JJ -RRB- JJ NN NN|BODY_7|0
+the cost-performance benefits|DT NN NNS|BODY_17|0
+the next section|DT JJ NN|BODY_3|0
+the literature [5 , 31 , 32]|DT NN CD , CD , CD|BODY_4|0
+1,p 3,p 5}|CD CD NNS|BODY_3|0
+a new approach|DT JJ NN|BODY_2|0
+one shared location|CD VBN NN|BODY_2|0
+figure 5|NN CD|BODY_6:BODY_4|0
+storing|NN|BODY_4|0
+the different forms|DT JJ NNS|BODY_11|0
+the initial linked list|DT JJ VBN NN|BODY_5|0
+its intentions|PRP$ NNS|BODY_3|0
+at least four fields|IN JJS CD NNS|BODY_2|0
+the messages|DT NNS|BODY_5:BODY_1|0
+a constant c )|DT JJ NN -RRB-|BODY_6|0
+a shared memorylocation|DT VBN NN|ABSTRACT_3|0
+( 1|-LRB- CD|BODY_5|0
+( equivalent results|-LRB- JJ NNS|BODY_4|0
+h memory accesses|NN NN NNS|BODY_6|0
+lawrie show|NN NN|BODY_3|0
+more research|JJR NN|BODY_7|0
+small values|JJ NNS|BODY_6|0
+the above discussion|DT JJ NN|BODY_1|0
+the one|DT CD|BODY_2|0
+additional logic|JJ NN|BODY_2|0
+the previous value|DT JJ NN|BODY_8|0
+point-to|FW|BODY_5|0
+only one request|RB CD NN|BODY_8|0
+no|DT|BODY_5|0
+a fetch&f(x , j ) request|DT NN , RB -RRB- NN|BODY_3|0
+the scan primitives|DT JJ NNS|BODY_2|0
+a forward message|DT JJ NN|BODY_3|0
+32]|NN|BODY_4|0
+almasi and gottlieb [1|NNS CC NN NNS|BODY_1|0
+figure 10|NN CD|BODY_1|0
+no combining|DT VBG|BODY_4|0
+serial bottlenecks|JJ NNS|BODY_4|0
+these memory references|DT NN NNS|BODY_1|0
+figure 6|NN CD|BODY_5:BODY_1|0
+v|NN|BODY_6|0
+therefore more|RB JJR|BODY_4|0
+a shared location|DT VBN NN|BODY_4|0
+link|NN|BODY_2|0
+efv|NN|BODY_10|0
+explicit memory locations|JJ NN NNS|BODY_3|0
+a f&a operation|DT NN NN|BODY_14|0
+an omega net-work|DT JJ NN|BODY_3|0
+the head and tail|DT NN CC NN|BODY_6|0
+a limited amount|DT JJ NN|BODY_2|0
+the combining tree )|DT VBG NN -RRB-|BODY_3|0
+the same memory loca|DT JJ NN NN|BODY_4|0
+f&a operation|NN NN|BODY_9|0
+progress )|NN -RRB-|BODY_7|0
+its value ready|PRP$ NN JJ|BODY_18|0
+four primary issues|CD JJ NNS|BODY_5|0
+real application workloads|JJ NN NNS|BODY_13|0
+j ) request|NN -RRB- NN|BODY_13|0
+an attractive design choice|DT JJ NN NN|BODY_6|0
+the final state|DT JJ NN|BODY_5|0
+the forward path|DT JJ NN|BODY_3|0
+the disappointing results|DT JJ NNS|BODY_2|0
+ppc|JJ|BODY_5|0
+a parallel prefix computation|DT JJ NN NN|BODY_2|0
+f&a requests|NN NNS|BODY_3|0
+s|PRP|BODY_5|0
+( ppc )|-LRB- JJ -RRB-|BODY_6:BODY_2|0
+aclassification scheme|NN NN|ABSTRACT_4|0
+the four regions|DT CD NNS|BODY_5|0
+the unexplored region|DT JJ NN|BODY_5|0
+the technique|DT NN|BODY_8|0
+efj ) request|NN -RRB- NN|BODY_4|0
+the all partial sums algorithm|DT DT JJ NNS NN|BODY_2|0
+the leaves|DT NNS|BODY_5|0
+our results|PRP$ NNS|BODY_10|0
+a partial prefix sum computation|DT JJ NN NN NN|BODY_2|0
+the ultracomputer-style|DT NN|BODY_5|0
+a single instruction multiple data ( simd) paradigm|DT JJ NN JJ NN -LRB- JJ NN|BODY_3|0
+the second combining set|DT JJ VBG NN|BODY_2|0
+each request|DT NN|BODY_2|0
+a given processor|DT VBN NN|BODY_1|0
+fetch&increment|NN|BODY_1|0
+only its channel|RB PRP$ NN|BODY_3|0
+our system|PRP$ NN|BODY_3|0
+table 2|NN CD|BODY_1|0
+the same , constant value|DT JJ , JJ NN|BODY_3|0
+l locations|JJ NNS|BODY_3|0
+the serialization principle|DT NN NN|BODY_4|0
+both|DT|BODY_3|0
+the protocol|DT NN|BODY_4|0
+fetch&f requests|JJ NNS|BODY_5|0
+a link|DT NN|BODY_7|0
+the programmer|DT NN|BODY_4|0
+the performance benefits|DT NN NNS|BODY_3|0
+the system software|DT NN NN|BODY_4|0
+bidirectional links|JJ NNS|BODY_5|0
+the servicing|DT NN|BODY_7|0
+hot rates|JJ NNS|BODY_6:BODY_7|0
+this maximum number|DT JJ NN|BODY_7|0
+the intercon|DT NN|BODY_6|0
+the next processor|DT JJ NN|BODY_4|0
+a higher hot rate|DT JJR JJ NN|BODY_2|0
+the cost and performance|DT NN CC NN|BODY_4|0
+the head and tail pointers|DT NN CC NN NNS|BODY_16|0
+o(logs ) steps|NNS -RRB- NNS|BODY_4|0
+all three schemes|DT CD NNS|BODY_3|0
+several|JJ|BODY_4|0
+a memory reference|DT NN NN|BODY_2|0
+value|NN|BODY_5|0
+processor elements or interconnect|NN NNS CC NN|BODY_5|0
+steps|NNS|BODY_4|0
+the request point|DT NN NN|BODY_4|0
+decombining|VBG|BODY_4|0
+the implicit storage|DT JJ NN|BODY_3|0
+both tasks|DT NNS|BODY_4|0
+saturation|NN|BODY_4|0
+the first message|DT JJ NN|BODY_5|0
+the rationale|DT NN|BODY_1|0
+specifying which system component|JJ WDT NN NN|BODY_4|0
+sophisticated interconnection network|JJ NN NN|ABSTRACT_10|0
+the existing methods|DT VBG NNS|ABSTRACT_5|0
+no participant|DT NN|BODY_17|0
+a design choice|DT NN NN|BODY_6|0
+a disadvantage|DT NN|BODY_6|0
+the chopp [28|DT NN NNS|BODY_3|0
+two lists|CD NNS|BODY_6|0
+a shared memory location|DT VBN NN NN|BODY_6|0
+all 1|DT CD|BODY_3|0
+no processor|DT NN|BODY_9|0
+probability r|NN NN|BODY_4|0
+blelloch [3]|NN NN|BODY_4|0
+a simulator|DT NN|BODY_5|0
+the flexibility|DT NN|BODY_2|0
+occupy only three|VB JJ CD|BODY_4|0
+that fall|DT NN|BODY_4|0
+the two messages|DT CD NNS|BODY_5|0
+services|NNS|BODY_7|0
+each message|DT NN|BODY_2|0
+contention|NN|BODY_6|0
+10 and 14|CD CC CD|BODY_3|0
+figures|NNS|BODY_2|0
+the access|DT NN|BODY_3|0
+the only known methods|DT RB VBN NNS|BODY_8|0
+section 2|NN CD|BODY_3|0
+a new method|DT JJ NN|ABSTRACT_11|0
+the second combining|DT JJ VBG|BODY_5|0
+eight nodes|CD NNS|BODY_4|0
+saturation bandwidths|NN NNS|BODY_5|0
+no potential implementation advantage|DT JJ NN NN|BODY_12|0
+each and two messages|DT CC CD NNS|BODY_8|0
+a and b|DT CC NN|BODY_2|0
+the combining set and associated algorithms|DT VBG NN CC JJ NNS|BODY_3|0
+no buffering|DT NN|BODY_4|0
+the elements ( as|DT NNS -LRB- IN|BODY_4|0
+the processors and participation|DT NNS CC NN|BODY_2|0
+no proposed methods|DT VBN NNS|BODY_4|0
+some other method|DT JJ NN|BODY_3|0
+the processor-network interface )|DT NN NN -RRB-|BODY_3|0
+one message|CD NN|BODY_3|0
+a multiprocessor system|DT NN NN|BODY_6|0
+an effective technique|DT JJ NN|BODY_6|0
+the following advantages|DT JJ NNS|BODY_5|0
+fig 13b|NN NNS|BODY_4|0
+overall network bandwidth|JJ NN NN|BODY_4|0
+the f&a opera|DT NN NN|BODY_8|0
+its overall position|PRP$ JJ NN|BODY_9|0
+5 )|CD -RRB-|BODY_7|0
+intermediate ) results|JJ -RRB- NNS|BODY_18|0
+different network topologies|JJ NN NNS|BODY_14|0
+some special cases|DT JJ NNS|BODY_6|0
+an existing|DT VBG|BODY_5|0
+incorrect operation|JJ NN|BODY_6|0
+the message handling protocol|DT NN NN NN|BODY_1|0
+its prefix operation|PRP$ NN NN|BODY_6:BODY_8|0
+system component ( processor elements|NN NN -LRB- NN NNS|BODY_6|0
+a long time|DT JJ NN|BODY_3|0
+need|NN|BODY_6|0
+each returning request|DT VBG NN|BODY_2|0
+the memory loca|DT NN NN|BODY_2|0
+an enhanced omega network|DT JJ JJ NN|BODY_1:BODY_3|0
+one or more|CD CC JJR|ABSTRACT_2|0
+an increase|DT NN|BODY_2|0
+stone [9]|NN NN|BODY_9|0
+new arrivals|JJ NNS|BODY_4|0
+p 5|NN CD|BODY_2|0
+this structure|DT NN|BODY_2|0
+this taxonomy|DT NN|BODY_5:BODY_1|0
+the ordering|DT NN|BODY_3|0
+the participating processors|DT VBG NNS|BODY_2|0
+interconnection network )|NN NN -RRB-|BODY_7|0
+the following attributes :requirements|DT VBG NNS NNS|ABSTRACT_3|0
+memory reference generators|NN NN NNS|BODY_2|0
+a single combining|DT JJ VBG|BODY_2|0
+the new message|DT JJ NN|BODY_3|0
+three distinct features|CD JJ NNS|BODY_2|0
+one node|CD NN|BODY_5|0
+the next|DT JJ|BODY_6|0
+the fetch&increment operation|DT NN NN|BODY_7|0
+the chopp system [28]|DT NN NN NN|BODY_3|0
+performance|NN|BODY_5:BODY_9|0
+a point|DT NN|BODY_3|0
+nect|NN|BODY_7|0
+30]|CD|BODY_11|0
+figure 4|NN CD|BODY_8|0
+subsequent read misses|JJ VBD NNS|BODY_1|0
+the entire computation|DT JJ NN|BODY_8|0
+the general f&a operation|DT JJ NN NN|BODY_7|0
+the method|DT NN|BODY_1|0
+this category|DT NN|BODY_7|0
+{110101}|NN|BODY_8|0
+a participant|DT NN|BODY_8|0
+a better picture|DT JJR NN|BODY_16|0
+parallel applications|JJ NNS|BODY_6|0
+design space|NN NN|BODY_3|0
+present simulation results|JJ NN NNS|ABSTRACT_2|0
+several experiments|JJ NNS|BODY_2|0
+v i ) request|FW FW -RRB- NN|BODY_3|0
+the existing implementations|DT VBG NNS|BODY_2|0
+their implementation|PRP$ NN|BODY_5|0
+undoubtedly alternative data structures|RB JJ NNS NNS|BODY_2|0
+serial access|JJ NN|BODY_8|0
+each other|DT JJ|BODY_3|0
+a high degree|DT JJ NN|BODY_6|0
+the up-to|DT JJ|BODY_4|0
+neighboring processors|VBG NNS|BODY_6|0
+that use|DT NN|BODY_11|0
+serial prefix|JJ NN|BODY_6|0
+the parallel prefix degenerates|DT JJ NN NNS|BODY_5|0
+the ultracomputer approach|DT NN NN|BODY_1:BODY_7|0
+the appropriate processor )|DT JJ NN -RRB-|BODY_8|0
+simd to|JJ TO|BODY_8|0
+several types|JJ NNS|BODY_5|0
+this case|DT NN|BODY_1|0
+mimd operation|JJ NN|BODY_15|0
+goodman , vernon and woest|NN , NN CC NN|BODY_1|0
+summary and conclusions unconstrained yet synchronized access|NN CC NNS JJ CC JJ NN|BODY_1|0
+one processor (|CD NN -LRB-|BODY_1|0
+the following example|DT VBG NN|BODY_1|0
+( one step|-LRB- CD NN|BODY_1|0
+the networks|DT NNS|BODY_8|0
+a indicating|DT VBG|BODY_4|0
+] methods|SYM NNS|BODY_5|0
+destination addresses|NN NNS|BODY_4|0
+a clutter|DT NN|BODY_4|0
+introduction arvind and iannucci state|NN NN CC NN NN|BODY_1|0
+many more alternatives|JJ JJR NNS|BODY_1|0
+the combining state|DT VBG NN|BODY_9|0
+the reason|DT NN|BODY_1|0
+( ii|-LRB- NNS|BODY_10|0
+x+4c|NN|BODY_6|0
+how many processors|WRB JJ NNS|BODY_3|0
+instances|NNS|BODY_7|0
+the as yet unexplored area|DT RB RB JJ NN|BODY_5|0
+no easy way|DT JJ NN|BODY_4|0
+most|JJS|BODY_1|0
+iic or pic|JJ CC NN|BODY_4|0
+special cases )|JJ NNS -RRB-|BODY_5|0
+two responses|CD NNS|BODY_5|0
+this node|DT NN|BODY_7|0
+the final value ( old value|DT JJ NN -LRB- JJ NN|BODY_10|0
+several aspects|JJ NNS|BODY_3|0
+network bandwidth|NN NN|BODY_5|0
+its ordering|PRP$ NN|BODY_7|0
+the network and requests|DT NN CC NNS|BODY_5|0
+tion )|NN -RRB-|BODY_3|0
+the current iteration|DT JJ NN|BODY_9|0
+sophisticated interconnect nodes|JJ JJ NNS|BODY_2|0
+which region|WDT NN|BODY_5|0
+implementing combining|VBG VBG|BODY_5|0
+the additional code|DT JJ NN|BODY_3|0
+a second combining set|DT JJ VBG NN|BODY_3|0
+no hot-spot|DT NN|BODY_2|0
+l processors access|JJ NNS NN|BODY_2|0
+the storage|DT NN|BODY_5|0
+the approach|DT NN|BODY_2|0
+insertion|NN|BODY_5|0
+x+2c|NNP|BODY_5|0
+the recursive doubling|DT JJ NN|BODY_6|0
+one combining set|CD VBG VBN|BODY_8|0
+the ( combined ) message|DT -LRB- VBN -RRB- NN|BODY_7|0
+adaptive routing techniques|JJ NN NNS|BODY_3|0
+one area|CD NN|BODY_2|0
+something|NN|BODY_9|0
+the design time|DT NN NN|BODY_8|0
+section|NN|BODY_9|0
+the current methods|DT JJ NNS|BODY_2|0
+this new method|DT JJ NN|ABSTRACT_2|0
+further research|JJ NN|BODY_4|0
+( 1 ) requests|-LRB- CD -RRB- NNS|BODY_5|0
+the as yet unexplored region|DT RB RB JJ NN|BODY_4|0
+any requests|DT NNS|BODY_2|0
+the cardinality|DT NN|BODY_10|0
+a good idea|DT JJ NN|BODY_6|0
+full responsibility|JJ NN|BODY_7|0
+256 memory modules|CD NN NNS|BODY_4|0
+a shared ( synchronization ) bus|DT VBN -LRB- NN -RRB- NN|BODY_4|0
+information|NN|BODY_2|0
+a new |DT JJ|BODY_1|0
+the simulator|DT NN|BODY_1|0
+( iii|-LRB- NN|BODY_16|0
+the interconnection network topology|DT NN NN NN|BODY_5|0
+the message reaching x|DT NN VBG NN|BODY_9|0
+the identity|DT NN|BODY_6|0
+( 2|-LRB- CD|BODY_9|0
+long latencies|JJ NNS|BODY_7|0
+a slight increase|DT JJ NN|BODY_9|0
+involved appending requests|VBN VBG NNS|BODY_4|0
+the addresses|DT NNS|BODY_5|0
+a single memory module|DT JJ NN NN|BODY_6|0
+the routingof messages|DT JJ NNS|ABSTRACT_7|0
+the combinable location|DT JJ NN|BODY_8|0
+only a single access|RB DT JJ NN|BODY_8|0
+the maximum number|DT JJ NN|BODY_2|0
+combining ( pic|VBG -LRB- NN|BODY_1|0
+the primary focus|DT JJ NN|BODY_1|0
+the complexity|DT NN|BODY_11|0
+computation|NN|BODY_2|0
+zero|CD|BODY_6|0
+# a priori knowledge|# DT JJ NN|BODY_2|0
+a viable solution|DT JJ NN|BODY_2|0
+participants|NNS|BODY_8|0
+this set|DT NN|BODY_2|0
+a f&a request|DT NN NN|BODY_1|0
+a new scheme|DT JJ NN|BODY_5|1
+its way|PRP$ NN|BODY_15|0
+all the value fields|PDT DT NN NNS|BODY_12|0
+no contention|DT NN|BODY_6|0
+an unexploredarea|DT NN|ABSTRACT_7|0
+the source|DT NN|BODY_5|0
+thecombining set|DT NN|ABSTRACT_4|0
+the combined messages|DT VBN NNS|BODY_7|0
+these issues|DT NNS|BODY_4|0
+a single combining set|DT JJ VBG NN|BODY_2|0
+system component|NN NN|BODY_6|0
+no deterministic pattern|DT JJ NN|BODY_2|0
+no state|DT NN|BODY_2|0
+three processors|CD NNS|BODY_4|0
+the two functions|DT CD NNS|BODY_3|0
+the idea|DT NN|BODY_1|0
+a common memory location|DT JJ NN NN|BODY_6|0
+the priority chain|DT NN NN|BODY_6:BODY_5:BODY_10|0
+the previous combining|DT JJ VBG|BODY_4|0
+respect|NN|BODY_5|1
+only one read request|RB CD VBN NN|BODY_8|0
+a return message|DT NN NN|BODY_5|0
+hsu and yew [11]|NN CC JJ NN|BODY_4|0
+vaughan [19]|JJ NN|BODY_5|0
+two outputs|CD NNS|BODY_8|0
+that processors c|DT NNS NN|BODY_2|0
+( d)|-LRB- NN|BODY_12|0
+the membersof|DT NN|ABSTRACT_12|0
++ )|NN -RRB-|BODY_13|0
+the first part|DT JJ NN|BODY_1|0
+the first list|DT JJ NN|BODY_6|0
+the implementation|DT NN|BODY_4|0
+its intermediate results|PRP$ JJ NNS|BODY_4|0
+the f&a operations|DT NN NNS|BODY_3|0
+the consequence|DT NN|BODY_1|0
+such networks|JJ NNS|BODY_1|0
+the ( parallel ) prefix operation|DT -LRB- JJ -RRB- JJ NN|BODY_6|0
+the highest priority processor|DT JJS NN NN|BODY_8|0
+its fields|PRP$ NNS|BODY_4|0
+the new linked list|DT JJ VBN NN|BODY_6|0
+20-100 percent|CD NN|BODY_6|0
+ina combined access|DT JJ NN|ABSTRACT_9|0
+a combined access|DT JJ NN|BODY_3|0
+which component|WDT NN|BODY_8|0
+no uniform trend|DT JJ NN|BODY_6|0
+two parts|CD NNS|BODY_6|0
+robust|JJ|BODY_10|0
+processor c|NN NN|BODY_4|0
+the end|DT NN|BODY_7|0
+each interconnect node|DT NN NN|BODY_8|0
+this algorithm|DT NN|BODY_1|0
+read combining|VB VBG|BODY_4|0
+its request|PRP$ NN|BODY_4|0
+unlimited outstanding uniform requests|JJ JJ NN NNS|BODY_3|0
+the second option|DT JJ NN|BODY_1|0
+figure 14a|NN CD|BODY_1|0
+the network combine|DT NN NN|BODY_3|0
+parallel prefix computation [15]|VB NN NN NN|BODY_6|0
+combining ) [31]|VBG -RRB- NN|BODY_10|0
+the net-work|DT NN|BODY_15|0
+each ofthese tasks|DT JJ NNS|ABSTRACT_6|0
+memory modules|NN NNS|BODY_5|0
+arbitrary interconnection networks|JJ NN NNS|TITLE_3|0
+later )|RB -RRB-|BODY_5|0
+a distinction|DT NN|BODY_1|0
+the memory module|DT NN NN|BODY_1|0
+the similarity|DT NN|BODY_1|0
+any buffered message|DT VBN NN|BODY_6|0
+figs|NNS|BODY_1|0
+this classificationscheme|DT NN|ABSTRACT_1|0
+a synchronous prefix computation network|DT JJ NN NN NN|BODY_5|0
+the rp3|DT NN|BODY_1|0
+the|DT|BODY_1|0
+parallel prefix computation and request combining kruskal|VB NN NN CC NN VBG NN|BODY_1|0
+our final experiment|PRP$ JJ NN|BODY_1|0
+] )|NN -RRB-|BODY_9|0
+figure 3 shows|NN CD VBZ|BODY_1|0
+potential race conditions|JJ NN NNS|BODY_4|0
+a combining section|DT VBG NN|BODY_4|0
+the potential|DT NN|BODY_1|0
+date|NN|BODY_5|0
+the overall hot request|DT JJ JJ NN|BODY_7|0
+14b )|JJ -RRB-|BODY_4|0
+a second network|DT JJ NN|BODY_12|0
+the opcode|DT NN|BODY_6|0
+net- works|RB NNS|BODY_11|0
+relatively unsophisticated nodes|RB JJ NNS|BODY_9|0
+a two part operation|DT CD NN NN|BODY_4|0
+arbitrary inter-connection networks|JJ NN NNS|BODY_7|0
+comparing figs|VBG NNS|BODY_1|0
+f&a operations|JJ NNS|BODY_3|0
+our expectation|PRP$ NN|BODY_1|0
+other participants|JJ NNS|BODY_17|0
+such requests|JJ NNS|BODY_1|0
+the potential drawback|DT JJ NN|BODY_1|0
+this serialization|DT NN|BODY_1|0
+these two proposals|DT CD NNS|BODY_1|0
+a particular node )|DT JJ NN -RRB-|BODY_9|0
+interconnect nodes|JJ NNS|BODY_13|0
+the array initial[ ]|DT NN NN NN|BODY_1|0
+classification|NN|BODY_1|0
+the channels|DT NNS|BODY_6|0
+the two techniques|DT CD NNS|BODY_1|0
+p 3|NN CD|BODY_1|0
+com-|NNS|BODY_6|0
+computation and distribution|NN CC NN|BODY_1|0
+the purposes|DT NNS|BODY_1|0
+increases|NNS|BODY_7|0
+algorithm design|NN NN|BODY_4|0
+the existing prefix operation|DT VBG NN NN|BODY_7|0
+another alternative|DT NN|BODY_1|0
+the first option|DT JJ NN|BODY_1|0
+section 5|NN CD|BODY_1|0
+this implementation|DT NN|BODY_1|0
+further|RBR|BODY_1|0
+a requirement|DT NN|BODY_1|0
+multiple combining sets|JJ VBG NNS|BODY_3|0
+prefix operations|VB NNS|BODY_1|0
+the prefix computation net-work|DT NN NN NN|BODY_1|0
+communication|NN|BODY_8|0
+a different value|DT JJ NN|BODY_3|0
+the general f&a|DT JJ NN|BODY_1|0
+tang and yew|NN CC NN|BODY_1|0
+such a network|JJ DT NN|BODY_1|0
+a non-combining network|DT JJ NN|BODY_5|0
+the net-work nodes|DT NN NNS|BODY_4|0
+fig 13a|NN CD|BODY_1|0
+barrier operations [32]|NN NNS NN|BODY_5|0
+any associative and commutative operator|DT JJ CC JJ NN|BODY_4|0
+any associative operator|DT JJ NN|BODY_5|0
+its channel|PRP$ NN|BODY_6|0
+their respective channels|PRP$ JJ NNS|BODY_5|0
+program execution|VB NN|BODY_6|0
+11 , 19 , 21 , 29 , 32]|CD , CD , CD , CD , CD|BODY_4|0
+figure 11a|NN CD|BODY_1|0
+the fields|DT NNS|BODY_1|0
+some (unspecified ) serial order [6]|DT JJ -RRB- JJ NN NN|BODY_9|0
+a definitive answer|DT JJ NN|BODY_9|0
+more study|JJR NN|BODY_1|0
+the two original combining sets|DT CD JJ VBG NNS|BODY_5|0
+two read requests|CD VBN NNS|BODY_1|0
+hot spots|JJ NNS|BODY_7|0
+the two combined messages|DT CD VBN NNS|BODY_4|0
+theproposed approach|DT NN|ABSTRACT_4|0
+an enhanced interconnection network|DT JJ NN NN|BODY_1|0
+a parallel prefix computation [15]|DT NN NN NN NN|BODY_3|0
+the memory bus|DT NN NN|BODY_5|0
+capability|NN|BODY_10|1
+an interesting example|DT JJ NN|BODY_1|0
+interconnect-interconnect combining|JJ VBG|BODY_1|0
+two alternative techniques|CD NN NNS|BODY_1|0
+figure 9|NN CD|BODY_1|0
+another form|DT NN|BODY_1|0
+what|WP|BODY_1|0
+x+4c.|NN|BODY_5|0
+appropriate actions|JJ NNS|BODY_6|0
+the more general f&a operation [4]|DT RBR JJ NN NN NN|BODY_9|0
+an extreme case|DT JJ NN|BODY_1|0
+that time|DT NN|BODY_4|0
+2.|CD|BODY_1|0
+the return messages|DT NN NNS|BODY_4|0
+another advantage|DT NN|BODY_1|0
+ipc.|VBG|BODY_7|0
+this point processor b|DT NN NN NN|BODY_1|0
+these potentially undesirable features|DT RB JJ NNS|BODY_1|0
+( iic )|-LRB- JJ -RRB-|BODY_1|0
+our proposal|PRP$ NN|BODY_1|0
+some implementations|DT NNS|BODY_1|0
+the overall system performance|DT JJ NN NN|BODY_2|0
+the proposed method|DT VBN NN|BODY_1|0
+the old value|DT JJ NN|BODY_1|0
+these conditions|DT NNS|BODY_1|0
+a previous combining set|DT JJ VBG NN|BODY_10|0
+the literature [10 , 13 , 15 , 20]|DT NN CD , CD , CD , CD|BODY_4|0
+buffers|NNS|BODY_6|0
+fig 11b|NN CD|BODY_1|0
+uniform requests|NN NNS|BODY_8|0
+the first three issues|DT JJ CD NNS|BODY_7|0
+2.1|CD|BODY_4|0
+several alternative proposals|JJ JJ NNS|BODY_1|0
+this method|DT NN|BODY_1|0
+2 )|CD -RRB-|BODY_10|0
+these two messages|DT CD NNS|BODY_1|0
+correct operation|JJ NN|BODY_1|0
+a link message|DT NN NN|BODY_1|0
+( 3 ) requests|-LRB- CD -RRB- NNS|BODY_1|0
+the single location|DT JJ NN|BODY_6|0
+a destination containing x|DT NN VBG NN|BODY_8|0
+contrast|NN|BODY_1|0
+such schemes|JJ NNS|BODY_1|0
+two disadvantages|CD NNS|BODY_5|0
+a consequence|DT NN|BODY_1|0
+our first experiment|PRP$ JJ NN|BODY_1|0
+several options|JJ NNS|BODY_2|0
+the following subsections|DT VBG NNS|BODY_1|0
+the hot request|DT JJ NN|BODY_4|0
+the next two sections|DT JJ CD NNS|BODY_1|0
+the previous discussion|DT JJ NN|BODY_6|0
+this observation|DT NN|BODY_1|0
+' activation status|POS NN NN|BODY_5|0
+processor-interconnect combining ( pic|JJ VBG -LRB- NN|BODY_1|0
+the atomic operation fetch&add ( x,c)|DT JJ NN NN -LRB- NN|BODY_2|0
+the primary advantage|DT JJ NN|BODY_1|0
+particular|JJ|BODY_1|0
+the classifications|DT NNS|BODY_7|0
+figure 12|NN CD|BODY_2|0
+[31]|NNP|BODY_9|0
+all other processors|DT JJ NNS|BODY_1|0
+caution|NN|BODY_11|0
+the aboverequirements|DT NNS|ABSTRACT_14|0
+the f&a operation|DT NN NN|BODY_10|0
+the next experiment|DT JJ NN|BODY_1|0
+the same memory location and need|DT JJ NN NN CC NN|BODY_7|0
+an array|DT NN|BODY_9|0
+the burden|DT NN|BODY_1|0
+the potentially combinable requests|DT RB JJ NNS|BODY_6|0
+the second message|DT JJ NN|BODY_11|0
+unlocking x )|JJ NN -RRB-|BODY_7|0
+( 2 ) state|-LRB- CD -RRB- NN|BODY_1|0
+the entire combining set|DT NN VBG NN|BODY_1|0
+the same time slot|DT JJ NN NN|BODY_3|0
+[22] and [32]|NN CC NN|BODY_1|0
+an outstanding f&a|DT JJ NN|BODY_4|0
+two options|CD NNS|BODY_2|0
+[6]|NNP|BODY_7|0
+an alternative technique|DT JJ NN|BODY_1|0
+issues|NNS|BODY_1|0
+the order|DT NN|BODY_1|0
+2.2.4|CD|BODY_6|0
+details|NNS|BODY_1|0
+a response v|DT NN NN|BODY_1|0
+the up-to-date value|DT JJ NN|BODY_5|0
+figure 1|NN CD|BODY_3|0
+the basic technique|DT JJ NN|BODY_1|0
+the earliest published proposal|DT JJS VBN NN|BODY_1|0
+arbitrary interconnection topologies|JJ NN NNS|BODY_6|0
+our approach|PRP$ NN|ABSTRACT_1|0
+processing elements|NN NNS|BODY_3|0
+the ease|DT NN|BODY_1|0
+an option worth considering|DT NN JJ VBG|BODY_12|0
+an variable-size combining sets|DT NN VBG NNS|BODY_12|0
+other structures|JJ NNS|BODY_10|0
+the entire combining tree|DT JJ VBG NN|BODY_11|0
+b )|NN -RRB-|BODY_10|0
+the ( first ) combining set|DT -LRB- JJ -RRB- VBG NN|BODY_6|0
+the current combining set|DT JJ VBG NN|BODY_7|0
+at first glance|IN JJ NN|BODY_1|0
+the second list|DT JJ NN|BODY_9|0
+combined requests|VBN NNS|BODY_7|0
+the second task|DT JJ NN|BODY_1|0

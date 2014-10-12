@@ -1,0 +1,1023 @@
+we|PRP|BODY_2:BODY_1:BODY_14:BODY_3:ABSTRACT_1:BODY_4:BODY_7|3
+it|PRP|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_9|1
+the analysis|DT NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7|1
+the algorithm|DT NN|BODY_5:BODY_11:BODY_27:BODY_1:BODY_2:BODY_3:ABSTRACT_1|1
+)|-RRB-|BODY_46:BODY_6:BODY_5:BODY_40:BODY_2:BODY_38:BODY_8|0
+the application variant|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the program|DT NN|BODY_6:BODY_18:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+which|WDT|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+a closure variant|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the closure variant|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+(|-LRB-|BODY_5:BODY_28:BODY_22:BODY_1:BODY_14:BODY_20|0
+our algorithm|PRP$ NN|BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+the application|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the environment|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|0
+polyvariance|NN|BODY_5:ABSTRACT_4:BODY_3:BODY_4|0
+an application variant|DT NN NN|BODY_12:BODY_2:BODY_1:BODY_3:BODY_4|0
+the result|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|1
+the variant|DT JJ|BODY_17:BODY_2:BODY_3:BODY_8|0
+analysis|NN|BODY_5:BODY_2:ABSTRACT_3:BODY_4:BODY_8|0
+this|DT|BODY_6:BODY_5:BODY_1|0
+application variants|NN NNS|BODY_2:BODY_3:BODY_4|0
+the argument|DT NN|BODY_5:BODY_1:BODY_2:BODY_8|0
+polyvariant static analyses|NN JJ NNS|BODY_6:TITLE_2:BODY_2|0
+the domain|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+the number|DT NN|BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4|0
+higher-order programs|JJR NNS|BODY_2:BODY_3:BODY_4:BODY_9|0
+this approach|DT NN|BODY_2:BODY_3|0
+a program|DT NN|BODY_6:ABSTRACT_6:BODY_2:BODY_1|0
+a|DT|BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|0
+shivers|NNS|BODY_5:BODY_14:BODY_4|0
+they|PRP|BODY_5:BODY_1:BODY_3:BODY_4|0
+both|DT|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3|0
+) )|-RRB- -RRB-|BODY_22:BODY_45:BODY_15:BODY_26|0
+abstract values|JJ NNS|BODY_5:BODY_1:BODY_3:BODY_4|0
+closure variants|NN NNS|BODY_12:BODY_5:BODY_1|0
+the abstract values|DT JJ NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+variants|NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_9|0
+the set|DT NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+the changes|DT NNS|BODY_2:BODY_7|0
+( cleanup|-LRB- NN|BODY_12:BODY_16:BODY_4|0
+musumbu|NN|BODY_5:BODY_4:BODY_7|0
+procedures|NNS|BODY_5:BODY_1:BODY_2|0
+the abstract value|DT JJ NN|BODY_5:BODY_28:BODY_1:BODY_10|0
+an interpreter|DT NN|BODY_2:BODY_4|0
+the callers|DT NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+1987|CD|BODY_2:BODY_3|0
+abstract functions|JJ NNS|BODY_2:BODY_3|0
+the results|DT NNS|BODY_5:BODY_2:BODY_3|0
+the call site|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_7|0
+fixpoint computation|JJ NN|BODY_58:TITLE_1:BODY_1|0
+the least upper|DT JJS JJ|BODY_1:BODY_3|0
+the partition|DT NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+the abstract domain|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+programs|NNS|BODY_26:BODY_24:BODY_8|0
+abstract closures|JJ NNS|BODY_2:BODY_1:BODY_14:BODY_9|0
+polyvariant|NN|BODY_5:ABSTRACT_3:BODY_4|0
+a polyvariant function|DT NN NN|BODY_5:BODY_2:BODY_3|0
+the analyzed program|DT VBN NN|BODY_1:BODY_7:BODY_9|0
+elements|NNS|BODY_5:BODY_3|0
+example|NN|BODY_2:BODY_1|0
+an abstract value|DT JJ NN|BODY_5:BODY_2|0
+an abstract closure|DT JJ NN|BODY_2:BODY_4|0
+accuracy|NN|BODY_2:BODY_1:BODY_3|0
+equations|NNS|BODY_3:BODY_4|0
+useless variants|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3|0
+a variant|DT NN|BODY_1:BODY_2:BODY_3|0
+this paper|DT NN|BODY_5:BODY_1:ABSTRACT_1:BODY_4|0
+k|NN|BODY_11:BODY_4:BODY_8|0
+this situation|DT NN|BODY_2:BODY_1|0
+a monovariant analysis|DT JJ NN|BODY_2:BODY_4|0
+the creation|DT NN|BODY_6:BODY_3:BODY_4|0
+an analysis|DT NN|BODY_2:BODY_3|0
+a continuation-passing style version|DT JJ NN NN|BODY_2|0
+a new record instance|DT JJ NN NN|BODY_2|0
+an abstract interpreter|DT JJ NN|BODY_2|0
+an efficient call-graph analysis|DT JJ NN NN|BODY_2|0
+dybvig 1987|NN CD|BODY_2|0
+itself|PRP|BODY_2|0
+the eight programs|DT CD NNS|BODY_2|0
+these datatypes|DT NNS|BODY_2|0
+! av ( analyze-exp body env av)|. NN -LRB- JJ NN NN NN|BODY_5:BODY_14|0
+higher-order languages|JJR NNS|BODY_2:BODY_4|0
+this strategy|DT NN|BODY_1:BODY_4|0
+a set|DT NN|BODY_5:BODY_2|0
+first-order programs|NN NNS|BODY_2:BODY_1:BODY_3:BODY_7|0
+the control-flow graph|DT NN NN|BODY_5:BODY_2|0
+a record|DT NN|BODY_5|0
+the value|DT NN|BODY_6:BODY_1:BODY_3|0
+function|NN|BODY_2:BODY_4|0
+the context|DT NN|BODY_5:BODY_2|0
+the revised algorithm|DT JJ NN|BODY_1:BODY_2|0
+the workstack|DT NN|BODY_5:BODY_15:BODY_1:BODY_3:BODY_9|0
+no change|DT NN|BODY_2:BODY_3:BODY_4|0
+( push-many|-LRB- NN|BODY_21:BODY_43|0
+arguments|NNS|BODY_2:BODY_9|0
+applications|NNS|BODY_2:BODY_3|0
+lub-creators-env|NN|BODY_2|0
+[ ]i|NNP NNP|BODY_6:BODY_5:BODY_3:BODY_9|0
+respect|NN|BODY_5:BODY_2|0
+its performance|PRP$ NN|ABSTRACT_4:BODY_9|0
+h|NN|BODY_5:BODY_2:BODY_7|0
+convenience|NN|BODY_2:BODY_1:BODY_4|0
+env formal arg|NN JJ NN|BODY_12:BODY_2|0
+f|NN|BODY_3:BODY_4:BODY_9|0
+abstract descriptions|JJ NNS|BODY_3:BODY_8|0
+a new application variant|DT JJ NN NN|BODY_3:BODY_4:BODY_7|0
+cleanup|NN|BODY_2:BODY_3|0
+the fixpoint computation|DT JJ NN|BODY_2:BODY_4|0
+an object|DT NN|BODY_6:BODY_2|0
+the call graph|DT NN NN|BODY_3:BODY_4|0
+the implementation|DT NN|BODY_6:BODY_4|0
+operation|NN|BODY_5:BODY_3|0
+closures|NNS|BODY_2:BODY_10|0
+the abstract descriptions|DT JJ NNS|BODY_3:BODY_4|0
+a polyvariant analysis|DT NN NN|BODY_1:ABSTRACT_1:BODY_4|0
+the cost|DT NN|BODY_3|0
+static analyses|JJ NNS|ABSTRACT_4:BODY_7|0
+fact|NN|BODY_1:BODY_4|0
+values|NNS|BODY_6:BODY_4:BODY_7|0
+them|PRP|BODY_6:BODY_5:BODY_8|0
+record|NN|BODY_4:BODY_7|0
+consel|NN|BODY_1|0
+its analysis|PRP$ NN|BODY_1:BODY_4|0
+an application|DT NN|BODY_2:BODY_3|0
+the presence|DT NN|BODY_3:BODY_4|0
+none|NN|BODY_1:BODY_4|0
+'s data-flow contribution|POS NN NN|BODY_3|0
+the abstract syntax tree|DT JJ NN NN|BODY_2|0
+the application variant self|DT NN JJ NN|BODY_3|0
+the area|DT NN|BODY_2|0
+the caller|DT NN|BODY_2|0
+the conceptual and formal aspects|DT JJ CC JJ NNS|BODY_3|0
+the record declarations|DT NN NNS|BODY_3|0
+this figure|DT NN|BODY_2|0
+figure 4|NN CD|BODY_16:BODY_2|0
+languages|NNS|BODY_3|0
+termination|NN|BODY_1:BODY_4|0
+the partial evaluator schism [consel 1993a|DT JJ NN NN NN CD|BODY_4|0
+the language|DT NN|BODY_6:BODY_1:BODY_3|0
+a prolog interpreter ( prolog ) [consel and khoo 1991 ]|DT NN NN -LRB- NN -RRB- NN CC NN CD SYM|BODY_2|0
+algol ( mp ) [consel|NN -LRB- NN -RRB- NN|BODY_6|0
+a part|DT NN|BODY_2|0
+c.|NN|BODY_6:BODY_2|0
+s-ndergaard 1989|JJ CD|BODY_6|0
+the abstract value domain|DT JJ NN NN|BODY_2|0
+strictness analysis|NN NN|BODY_5|0
+expressions|NNS|BODY_57:BODY_10|0
+env)|NN|BODY_18:BODY_9|0
+related work|JJ NN|BODY_5|0
+seconds|NNS|BODY_2|0
+section 4|NN CD|BODY_2|0
+the speedup|DT NN|BODY_5|0
+) ( cv-?avs cv)|-RRB- -LRB- NN NN|BODY_2|0
+( ( dropped-cvs|-LRB- -LRB- NN|BODY_16|0
+( car avs)|-LRB- NN NN|BODY_1|0
+(variant-case av (av ( cv arg|NN NN NNP -LRB- NN NN|BODY_7|0
+1.3 16.5 111.8 17.1 2.7 2.5 8.4 97.4 ratio 2.8 1.8 1.8 .9 1 1.6 13.8 3 reused fig|CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD JJ NN|BODY_8|0
+a pattern matcher|DT NN NN|BODY_2|0
+a singleton|DT NN|BODY_9|0
+computer science department|NN NN NN|BODY_2|0
+con-|NNS|BODY_17|0
+mp match|NN NN|BODY_2|0
+the abstract domain a|DT JJ NN DT|BODY_2|0
+arg ) )|NN -RRB- -RRB-|BODY_5|0
+ple|NN|BODY_2|0
+the definitions ) and exp|DT NNS -RRB- CC NN|BODY_5|0
+another|DT|BODY_6|0
+benchmarks|NNS|ABSTRACT_4:BODY_3|0
+the creators|DT NNS|BODY_1:BODY_4:BODY_7|0
+descriptions|NNS|BODY_13:BODY_7|0
+mutually recursive definitions|RB JJ NNS|BODY_3|0
+only those abstract functions|RB DT JJ NNS|BODY_5|0
+compute polyvariant analyses|NN NN NNS|BODY_2|0
+a constant function mapping|DT JJ NN NN|BODY_4|0
+solutions|NNS|BODY_2|0
+the literature ( e .g.|DT NN -LRB- NN NNP|BODY_2:BODY_3|0
+a new record type name|DT JJ NN NN NN|BODY_2|0
+each fixpoint iteration|DT JJ NN|BODY_5|0
+shiv-|NNS|BODY_2|0
+an algorithm|DT NN|BODY_2|0
+( ( cv ( lookup-clos-variant exp (|-LRB- -LRB- NN -LRB- JJ NN -LRB-|BODY_17:BODY_8|0
+) (|-RRB- -LRB-|BODY_2|0
+an offline partial evaluator [jones|DT NN JJ NN NNS|BODY_4|0
+the current 6 \delta|DT JJ CD NN|BODY_4|0
+the time|DT NN|BODY_3:BODY_7|0
+a this research|DT DT NN|BODY_4|0
+the other algorithm|DT JJ NN|ABSTRACT_3:BODY_7|0
+e .g.|NN NNP|BODY_6|0
+components|NNS|BODY_3|0
+the polyvariant function|DT NN NN|BODY_2|0
+the new variant|DT JJ NN|BODY_4:BODY_10|0
+longer|RBR|BODY_2|0
+the algorithm [consel 1990|DT NN NN CD|BODY_4|0
+closure analysis|NN NN|BODY_3:BODY_4|0
+the abstract domain and polyvariant func|DT JJ NN CC NN NN|BODY_2|0
+ours|PRP|BODY_5:BODY_3|0
+functions|NNS|BODY_2:BODY_3|0
+jng labels|NN NNS|BODY_3|0
+the fixpoint process|DT JJ NN|BODY_2:BODY_4|0
+indicates|VBZ|BODY_4|0
+our approach|PRP$ NN|BODY_3|0
+perspective|NN|BODY_4|0
+the ratio|DT NN|BODY_3|0
+this overhead|DT NN|ABSTRACT_2|0
+the proof|DT NN|BODY_2|0
+any major modifications|DT JJ NNS|BODY_2|0
+the table . hf|DT NN . NN|BODY_2|0
+higher-order applicative programs|JJR JJ NNS|BODY_6:ABSTRACT_5:TITLE_3|0
+data variants|NNS NNS|BODY_2:BODY_1|0
+the record|DT NN|BODY_14|0
+an element|DT NN|BODY_6:BODY_2|0
+polyvariant functions|JJ NNS|BODY_2|0
+call sites|NN NNS|BODY_2:BODY_3|0
+the syntactic category|DT JJ NN|BODY_4|0
+this information|DT NN|BODY_2:BODY_3|0
+a fixpoint|DT NN|BODY_3:BODY_4:BODY_7|0
+' ( ) ) ) )|POS -LRB- -RRB- -RRB- -RRB- -RRB-|BODY_5|0
+) ) avs ) ( cons ( car avs|-RRB- -RRB- NN -RRB- -LRB- NNS -LRB- NN NN|BODY_3|0
+1083 3151 functions 7 7 43 68 15 27 62 171 initial variants 36 153 962 136 time|CD CD NNS CD CD CD CD CD CD CD CD JJ NNS CD CD CD CD NN|BODY_4|0
+20 103|CD CD|BODY_6|0
+the lambda expression|DT NN NN|BODY_4|0
+a change|DT NN|BODY_4|0
+the abstract closures|DT JJ NNS|BODY_5:BODY_3|0
+215|CD|BODY_4|0
+a regular expression language|DT JJ NN NN|BODY_4|0
+cvs arg|NN NN|BODY_14|0
+portland|NN|BODY_15|0
+the next section|DT JJ NN|BODY_6:BODY_2|1
+[ charlier|NNP NN|BODY_6:BODY_3:BODY_4|0
+any variant|DT NN|BODY_4|0
+a first-order value to|DT NN NN TO|BODY_7|0
+ers|NNS|BODY_3|0
+prolog programs|NN NNS|BODY_3|0
+a series|DT NN|BODY_2|0
+7. auxiliaries|CD NNS|BODY_4|0
+finite height|JJ NN|BODY_6:BODY_4|0
+a variable|DT JJ|BODY_3|0
+m. ashley|NN NN|BODY_5:BODY_1|0
+sestoft|JJ|BODY_5|0
+the preprocessing phase|DT JJ NN|BODY_3|0
+( highest|-LRB- JJS|BODY_6|0
+) ) #t ) (else ( loop ( append ( callers-?avs (av-?callers ( car avs)|-RRB- -RRB- NN -RRB- NN -LRB- NN -LRB- NN -LRB- JJ NNS -LRB- NN NN|BODY_2|0
+133 time|CD NN|BODY_7|0
+call-site new-cvs new-arg ) (variant-case call-site ( call-site ( cvs arg )|NN JJ JJ -RRB- NN NN -LRB- NN -LRB- NN NN -RRB-|BODY_15|0
+lindley hall|NN NN|BODY_3|0
+oregon 97291|NNP CD|BODY_16|0
+patterns|NNS|BODY_3|0
+proof 1 proof 2 size 437 483 1183 2197 454|NN CD NN CD NN CD CD CD CD CD|BODY_3|0
+an extension|DT NN|BODY_3|0
+[ martin|JJ NN|BODY_2|0
+signature callers|NN NNS|BODY_3|0
+a higher-order value|DT JJR NN|BODY_8|0
+creators and callers )|NNS CC NNS -RRB-|BODY_2|0
+self|NN|BODY_6:BODY_4|0
+1987 ] , hall and kennedy [ hall and kennedy 1992 ]|CD NN , NN CC JJ NN NN CC JJ CD NN|BODY_2|0
+each function|DT NN|BODY_4|0
+us|PRP|BODY_2:BODY_1|0
+schism|NN|BODY_4|0
+one abstract description|CD JJ NN|BODY_4|0
+g|NN|BODY_6:BODY_2|0
+two fields|CD NNS|BODY_3|0
+) ( call-site ( lookup-call-site self exp)|-RRB- -LRB- NN -LRB- JJ NN NN|BODY_12|0
+an implementation|DT NN|BODY_6|0
+ington|NN|BODY_6|0
+po box|NN NN|BODY_13|0
+dependencies|NNS|BODY_3|0
+the beginning|DT NN|BODY_5|0
+) ) ) ) ) ( loop ( list av )|-RRB- -RRB- -RRB- -RRB- -RRB- -LRB- NN -LRB- NN NN -RRB-|BODY_4|0
+3.6 29.9 196.5 16.2 2.7 4.1 116.2 290.6 revised variants|CD CD CD CD CD CD CD CD VBN NNS|BODY_5|0
+an abstraction function mapping constants|DT NN NN NN NNS|BODY_2|0
+1989 ] )|CD NN -RRB-|BODY_5|0
+the example program|DT NN NN|BODY_15:BODY_1|0
+) (update-call-site|-RRB- NN|BODY_13|0
+91000|CD|BODY_14|0
+bloom|NN|BODY_5|0
+match ) [consel and danvy 1991a]|NN -RRB- NN CC JJ CD|BODY_5|0
+( define-record call-site ( self exp|-LRB- JJ JJ -LRB- NN NN|BODY_4|0
+the overhead|DT NN|BODY_3:BODY_4|0
+' addresses|POS NNS|BODY_2|0
+( analyze-exp rand env self) ) ( cvs ( cvs-of-absval ( analyze-exp rator env self)|-LRB- JJ NN RB NN -RRB- -LRB- NN -LRB- JJ -LRB- JJ NN RB NN|BODY_11|0
+( make-set av)|-LRB- NN NN|BODY_32|0
+a linear version|DT JJ NN|BODY_1|0
+a simple database system|DT JJ NN NN|BODY_7|0
+abstract bookkeeping details|JJ NN NNS|BODY_2|0
+authors|NNS|BODY_1|0
+charles consel|NNS NN|BODY_9|0
+computer science|NN NN|BODY_12|0
+db) [daniels|JJ NNS|BODY_8|0
+department|NN|BODY_11|0
+indiana 47405|NN CD|BODY_7|0
+jashley@cs .indiana .edu|NNS NNP NNP|BODY_8|0
+oregon graduate insti-|NNP NN NNS|BODY_10|0
+some extra bookkeeping|DT JJ NN|BODY_2|0
+the efficiency|DT NN|BODY_1|0
+their techniques|PRP$ NNS|BODY_1|0
+these adts|DT NNS|BODY_1|0
+this accuracy|DT NN|BODY_2|0
+two-point abstract domains|JJ JJ NNS|BODY_2|0
+fields x xn|NNS NN NN|BODY_3|0
+a complete lattice|DT JJ NN|BODY_3|0
+( callers-?arg callers|-LRB- JJ NNS|BODY_50|0
+) ) cvs|-RRB- -RRB- NN|BODY_34|0
+) ) ) ) )|-RRB- -RRB- -RRB- -RRB- -RRB-|BODY_9|0
+the avs field|DT JJ NN|BODY_1:BODY_3|0
+( set-av-?arg|-LRB- NN|BODY_52|0
+calls|NNS|BODY_4|0
+the procedures name-?x i|DT NNS NN NNS|BODY_6|0
+( analyze-exp exp env self ) (variant-case exp ( app ( rator rand|-LRB- JJ NN RB NN -RRB- NN NN -LRB- NN -LRB- NN NN|BODY_10|0
+( top workstack|-LRB- JJ NN|BODY_7|0
+(unless (empty-stack ? workstack|JJ NNP . NN|BODY_6|0
+( push|-LRB- NN|BODY_53|0
+) ) ( analyze-variant av)|-RRB- -RRB- -LRB- NN NN|BODY_8|0
+two encodings|CD NNS|BODY_10|0
+) ) ) ) (av-?callers av ) call-site ) ( set-cv-?avs|-RRB- -RRB- -RRB- -RRB- NNS NN -RRB- JJ -RRB- -LRB- NN|BODY_30|0
+( cv-?avs cv|-LRB- JJ NN|BODY_31|0
+) ) ( letrec ( ( loop ( lambda|-RRB- -RRB- -LRB- NN -LRB- -LRB- NN -LRB- NN|BODY_5|0
+a new algorithm|DT JJ NN|BODY_2|0
+) ( lub (av-?arg av ) acc|-RRB- -LRB- NN JJ NN -RRB- NN|BODY_33|0
+) (unless (arg=|-RRB- JJ NN|BODY_51|0
+vance 1993]|NN CD|BODY_9|0
+) ) ) fig|-RRB- -RRB- -RRB- NN|BODY_3|0
+analyses|NNS|BODY_2|0
+jones|NNS|BODY_4|0
+[consel 1993a|NN CD|BODY_12|0
+domain|NN|BODY_3:BODY_7|0
+others|NNS|BODY_3|0
+the analysis process|DT NN NN|BODY_5|0
+[consel 1993a]|NN CD|BODY_3:BODY_7:BODY_8|0
+workstack av)|NN NN|BODY_54|0
+some analyses|DT NNS|BODY_3|0
+partitions|NNS|BODY_2|0
+defs|NNS|BODY_4|0
+av #f|JJ NN|BODY_7|0
+the control-flow and data-flow information changes|DT NN CC NN NN NNS|BODY_5|0
+the arguments|DT NNS|BODY_4|0
+the environments|DT NNS|BODY_4|0
+a subset|DT NN|BODY_5|0
+the fourth|DT JJ|BODY_3|0
+one variant|CD NN|BODY_5|0
+each object|DT NN|BODY_3|0
+practical methods|JJ NNS|BODY_4|0
+(update-return-value|NN|BODY_16|0
+c|NN|BODY_2:BODY_4|0
+[ ?=x ]i|JJ JJ NN|BODY_5:BODY_14|0
+henglein|NN|BODY_5:BODY_1|0
+( analyze-variant av ) (variant-case av (av ( cv arg ) (variant-case cv ( cv ( exp env ) (variant-case exp|-LRB- NN NN -RRB- NN NN VB -LRB- NN NN -RRB- NN NN -LRB- NN -LRB- NN NN -RRB- NN NN|BODY_9|0
+build-root-variant exp ( build-initial-env defs|JJ NN -LRB- NN JJ|BODY_4|0
+( sweep-exp body env av)|-LRB- JJ NN RB NN|BODY_8|0
+(variant-case av|NN NN|BODY_48|0
+(variant-case cv|NN NN|BODY_36|0
+new-return ) ( set-av-?return|NN -RRB- -LRB- NN|BODY_19|0
+iterating control-flow and data-flow analyses|NN NN CC NN NNS|BODY_4|0
+such issues|JJ NNS|BODY_2|0
+) (variant-case av|-RRB- NN NN|BODY_17|0
+1991|CD|BODY_5|0
+) ) ) ) fig|-RRB- -RRB- -RRB- -RRB- NN|BODY_55|0
+( callers return|-LRB- NNS NN|BODY_18|0
+( ff value|-LRB- NN NN|BODY_10|0
+( test|-LRB- NN|BODY_12|0
+the expression ( define-record name fields|DT NN -LRB- JJ NN NNS|BODY_4|0
+hf|NN|BODY_3|0
+6|CD|BODY_8|0
+eight programs|CD NNS|BODY_3|0
+#f ) ( (memq ( car avs|NN -RRB- -LRB- NN -LRB- NN .|BODY_26|0
+the application variants|DT NN NNS|BODY_2:BODY_3|0
+call-site new-arg ) ( set-call-site-?cvs|JJ JJ -RRB- -LRB- NN|BODY_6|0
+maps|NNS|BODY_3|0
+the binding-time analysis|DT JJ NN|BODY_3|0
+( lookup-app-variant cv (|-LRB- JJ NN -LRB-|BODY_29|0
+proc ( formal body|NN -LRB- JJ NN|BODY_10|0
+abstract data type|JJ NNS NN|BODY_2:BODY_7|0
+partial evaluation|JJ NN|BODY_2|0
+1987 ]|CD NN|BODY_2|0
+the function|DT NN|BODY_6|0
+) ) ( fold ( lambda ( cv acc|-RRB- -RRB- -LRB- NN -LRB- NN -LRB- NN NN|BODY_28|0
+the fixpoint|DT NN|BODY_5:BODY_2|0
+(update-environment|NN|BODY_35|0
+callers|NNS|BODY_49|0
+( loop ( lambda (avs|-LRB- NN -LRB- NN NN|BODY_24|0
+'s strategy|POS NN|BODY_4|0
+the affected variants|DT JJ NNS|BODY_2|0
+call-site new-cvs) ) ) ) ) fig|JJ JJ -RRB- -RRB- -RRB- -RRB- NN|BODY_7|0
+theorems|NNS|BODY_11|0
+proof 2|NN CD|BODY_12|0
+this analysis|DT NN|BODY_5|0
+( analyze-prog prog ) (variant-case prog ( prog ( defs exp ) ( push|-LRB- NN NN -RRB- NN NN -LRB- NN -LRB- JJ NN -RRB- -LRB- NN|BODY_3|0
+cousot 1981|NN CD|BODY_3|0
+( lambda|-LRB- NN|BODY_3|0
+( build-absval cv)|-LRB- NN NN|BODY_20|0
+partial evaluation [consel|JJ NN NN|BODY_2|0
+13 call sites|CD NN NNS|BODY_7|0
+2. algorithm|DT NN|BODY_56|0
+( e .g.|-LRB- NN NN|BODY_11|0
+one|CD|BODY_3|0
+an example program step application|DT NN NN NN NN|BODY_12|0
+hk|NN|BODY_2:BODY_8|0
+algorithm|NN|BODY_9|0
+( ( pi-arg|-LRB- -LRB- NN|BODY_18|0
+a finite number|DT JJ NN|BODY_6|0
+an example|DT NN|BODY_2|0
+an entire program|DT JJ NN|BODY_29|0
+the argument one|DT NN CD|BODY_6|0
+[|NN|BODY_1|0
+) fig|-RRB- NN|BODY_4|0
+a closure variant oscillate|DT NN JJ NN|BODY_4|0
+data structures|NNS NNS|BODY_5:BODY_2|0
+.e|FW|BODY_6|0
+charlier|FW|BODY_4|0
+j-rgensen 1993|NNP CD|BODY_2|0
+a revision|DT NN|BODY_2|0
+call-by-value programs|JJ NNS|BODY_2|0
+fig|NN|BODY_13|0
+defining|VBG|BODY_3|0
+the definitions|DT NNS|BODY_6:BODY_7|0
+their careful reading|PRP$ JJ NN|BODY_3|0
+nielson 1990|NN CD|BODY_5|0
+intermediate variants|JJ NNS|BODY_5:BODY_1|0
+( cvs|-LRB- NN|BODY_24|0
+analogy|NN|BODY_1|0
+mutually recursive functions|RB JJ NNS|BODY_3|0
+) ( f fig|-RRB- -LRB- NN NN|BODY_11|0
+sets|NNS|BODY_3|0
+procedure calls|NN NNS|BODY_10|0
+than|IN|ABSTRACT_7|0
+the perspective|DT NN|BODY_3|0
+polyvariant static analyses \delta 11 ( define-record av (|NN JJ NNS NN CD -LRB- JJ NN -LRB-|BODY_2|0
+cond ( (null|NN -LRB- NN|BODY_25|0
+computations|NNS|BODY_2|0
+( sweep-exp|-LRB- JJ|BODY_3|0
+no closure variants|DT NN NNS|BODY_2|0
+( proc|-LRB- NN|BODY_7|0
+) ( proc ( formal body|-RRB- -LRB- NN -LRB- JJ NN|BODY_16|0
+lambda expressions|NN NNS|BODY_2:BODY_8|0
+the computation|DT NN|BODY_2:BODY_7|0
+an abstract data structure corresponds|DT JJ NN NN NNS|BODY_2|0
+date|NN|BODY_3|0
+these dependencies|DT NNS|BODY_3|0
+a wide variety|DT JJ NN|BODY_6|0
+figure 2|NN CD|BODY_10|0
+new-arg ) ) ( set-difference cvs|JJ -RRB- -RRB- -LRB- NN NN|BODY_3|0
+( extend-env|-LRB- NN|BODY_11|0
+) ( set-av-?useful|-RRB- -LRB- JJ|BODY_6|0
+) ) ) ) ) ) )|-RRB- -RRB- -RRB- -RRB- -RRB- -RRB- -RRB-|BODY_15|0
+) ( cond|-RRB- -LRB- NN|BODY_11|0
+harrison iii 1989|NN NN CD|BODY_13|0
+. 1|. CD|BODY_5|0
+signature new-return|NN NN|BODY_20|0
+) ) ) ( app ( rator rand )|-RRB- -RRB- -RRB- -LRB- NN -LRB- NN NN -RRB-|BODY_10|0
+a more efficient version|DT RBR JJ NN|BODY_2|0
+figures|NNS|BODY_4|0
+no data structures|DT NNS NNS|BODY_2|0
+multiple abstract descriptions|JJ JJ NNS|BODY_2|0
+'s fields|POS NNS|BODY_8|0
+) ( j :lambda (y ) x ) )|-RRB- -LRB- NN NN NN -RRB- NN -RRB- -RRB-|BODY_7|0
+arbitrary lattices|JJ NNS|BODY_5|0
+build-initial-env )|NN -RRB-|BODY_9|0
+its number|PRP$ NN|BODY_19|0
+the argument and result|DT NN CC NN|BODY_2|0
+the highest application variant|DT JJS NN NN|BODY_3:BODY_4|0
+the convergence|DT NN|BODY_3|0
+an application variant and updates|DT NN NN CC NNS|BODY_2|0
+the procedure|DT NN|BODY_4|0
+higher order|JJR NN|BODY_2|0
+the type|DT NN|BODY_4|0
+any attempt|DT NN|BODY_4|0
+fixpoints|NNS|BODY_4|0
+) ) ( cond|-RRB- -RRB- -LRB- NN|BODY_3|0
+only an approximation|RB DT NN|BODY_3|0
+) ) ) ( cv-?creators cv ) self env|-RRB- -RRB- -RRB- -LRB- NNS NN -RRB- NN NN|BODY_19|0
+the procedure f|DT NN NN|BODY_6|1
+workstack ( make-stack ) )|NN -LRB- NN -RRB- -RRB-|BODY_2|0
+the lattice|DT NN|BODY_2|0
+part|NN|BODY_7|0
+the data flow|DT NNS NN|BODY_6:BODY_2|0
+name (|NN -LRB-|BODY_9|0
+callers-?avs callers|JJ NNS|BODY_22|0
+computation|NN|BODY_14|0
+our implementation|PRP$ NN|BODY_1:ABSTRACT_1|0
+revised algorithm fixpoint computation|VBN NN NN NN|BODY_5|0
+call-site ) ( set-call-site-?arg|JJ -RRB- -LRB- NN|BODY_5|0
+a context|DT NN|BODY_4|0
+average|NN|ABSTRACT_2|0
+a data structure corresponds|DT NN NN NNS|BODY_2|0
+that call|DT NN|BODY_20|0
+a sequence|DT NN|BODY_2|0
+a generic analysis|DT JJ NN|BODY_2|0
+a generic static analysis|DT JJ JJ NN|BODY_4|0
+breadth-first|JJ|BODY_3|0
+( set-cv-?env|-LRB- NN|BODY_42|0
+these partitions|DT NNS|BODY_2|0
+pression|NN|BODY_2|0
+the arguments and return values|DT NNS CC NN NNS|BODY_3|0
+3 ( test|CD -LRB- NN|BODY_3|0
+av #t ) (update-return-value|JJ NN -RRB- NN|BODY_4|0
+the data|DT NNS|BODY_4|0
+drafts|NNS|BODY_4|0
+an efficient constraint-based binding-time analysis|DT JJ JJ JJ NN|BODY_2|0
+the iteration terminates|DT NN NNS|BODY_5|0
+scheme [clinger|NN NN|BODY_2|0
+the left-hand part|DT JJ NN|BODY_3|0
+the polyvariance|DT NN|BODY_2|0
+their components ( e .g.|PRP$ NNS -LRB- NN NN|BODY_3|0
+the polyvariant static analysis|DT NN JJ NN|BODY_5|0
+more accurate information|RBR JJ NN|BODY_4|0
+these analyses|DT NNS|BODY_3|0
+the literature ( e .g. , [ harrison iii 1989|DT NN -LRB- NN NNP , JJ NN NN CD|BODY_3|0
+( ( call-site ( make-call-site self exp arg|-LRB- -LRB- JJ -LRB- NN NN NN VBP|BODY_27|0
+) ) ) ) ) fig|-RRB- -RRB- -RRB- -RRB- -RRB- NN|BODY_23|0
+need|NN|BODY_4|0
+polyvariant static analyses \delta 9 ( define f ( lambda ( x ) (k ( h ( g x ) ) ) ) )|NN JJ NNS NN CD -LRB- VB NN -LRB- NN -LRB- NN -RRB- NN -LRB- NN -LRB- JJ NN -RRB- -RRB- -RRB- -RRB- -RRB-|BODY_2|0
+( ( call-site ( lookup-call-site self exp)|-LRB- -LRB- NN -LRB- JJ NN NN|BODY_11|0
+an initial environment|DT JJ NN|BODY_6|0
+invariants|NNS|BODY_2|0
+the price|DT NN|BODY_2|0
+the record fields|DT NN NNS|BODY_2|0
+analyze-exp dispatches|NN NNS|BODY_3|0
+) ) (update-return-value|-RRB- -RRB- NN|BODY_13|0
+( letrec|-LRB- NN|BODY_23|0
+loop ( cdr avs|NN -LRB- JJ .|BODY_27|0
+together )|RB -RRB-|BODY_4|0
+the construct variant-case|DT VB NN|BODY_2|0
+abstract-cond ( analyze-exp test env self )|JJ -LRB- NN NN NN NN -RRB-|BODY_13|0
+the monotonicity|DT NN|BODY_5|0
+contexts|NNS|BODY_3|0
+points|NNS|BODY_5|0
+the control flow|DT NN NN|BODY_8|0
+1 )|CD -RRB-|BODY_10|0
+( i .e|-LRB- FW FW|BODY_3|0
+first order|JJ NN|BODY_2|0
+the strategy|DT NN|BODY_2|0
+( sweep-exp exp env self ) (variant-case exp ( test (|-LRB- JJ NN NN NN -RRB- NN NN -LRB- NN -LRB-|BODY_2|0
+callers-?avs|NNS|BODY_4|0
+that terms|WDT NNS|BODY_6|0
+) ( app ( rator rand )|-RRB- -LRB- NN -LRB- NN NN -RRB-|BODY_21|0
+the text|DT NN|BODY_3|0
+a critical phase|DT JJ NN|BODY_2|0
+call-site ) ( set-call-site-?cvs|NN -RRB- -LRB- NN|BODY_13|0
+an optimized general-purpose algorithm|DT JJ JJ NN|ABSTRACT_2|0
+call-site )|NN -RRB-|BODY_17|0
+an expression|DT NN|BODY_3|0
+this scheme|DT NN|BODY_2|0
+the following domain sets|DT JJ NN NNS|BODY_2|0
+danvy 1993]|JJ CD|BODY_3|0
+a new argument|DT JJ NN|BODY_7|0
+then env self ) ( analyze-exp else env self)|RB NN NN -RRB- -LRB- NN RB NN NN|BODY_15|0
+then env self ) ( sweep-exp else env self)|RB NN NN -RRB- -LRB- JJ RB NN NN|BODY_6|0
+(update-argument|NN|BODY_47|0
+cv ( env creators|NN -LRB- NN NNS|BODY_37|0
+each object ( e .g. , functions and data structures|DT NN -LRB- NN NNP , NNS CC NNS NNS|BODY_5|0
+a trace|DT NN|BODY_3|0
+' ( ) ) ) ( sweep-exp rator env self ) ( sweep-exp rand env self)|'' -LRB- -RRB- -RRB- -RRB- -LRB- JJ NN NN NN -RRB- -LRB- JJ NN NN NN|BODY_14|0
+a cv record|DT NN NN|BODY_2|0
+env self )|NN NN -RRB-|BODY_4|0
+the push-many|DT NN|BODY_4|0
+both first-order and higher-order values|DT NN CC JJR NNS|BODY_3|0
+-functions|NNS|BODY_2|0
+call-graph information|NN NN|BODY_5:BODY_1|0
+the accuracy|DT NN|ABSTRACT_3|0
+each application variant|DT NN NN|BODY_3|0
+call-site-?arg call-site ) ) ) ) ( for-each ( lambda ( cv )|JJ NN -RRB- -RRB- -RRB- -RRB- -LRB- JJ -LRB- NN -LRB- NN -RRB-|BODY_19|0
+( analyze-exp exp env self ) (variant-case exp ( lit (value|-LRB- NN NN NN NN -RRB- NN NN -LRB- NN NN|BODY_9|0
+a static control flow graph|DT JJ NN NN NN|BODY_3|0
+an unspecified value|DT JJ NN|BODY_13|0
+a finite height|DT JJ NN|BODY_4|0
+steps|NNS|BODY_1:BODY_7|0
+the principal overhead|DT JJ NN|BODY_2|0
+( analyze-exp rand env self)|-LRB- NN NN NN NN|BODY_23|0
+adt )|NN -RRB-|BODY_3|0
+cvs-of-absval ( analyze-exp rator env self)|JJ -LRB- NN NN NN NN|BODY_25|0
+workstack avs)|NN IN|BODY_44|0
+[v=a ]i|NNP NNP|BODY_3|0
+(unless ( env=|JJ -LRB- NN|BODY_41|0
+lexical context|JJ NN|BODY_7|0
+a simple higher-order language|DT JJ NN NN|BODY_6|0
+each program|DT NN|BODY_13|0
+the running time|DT VBG NN|BODY_3|0
+application variant ( define-record|NN NN -LRB- JJ|BODY_6|0
+call-site (av exp arg|JJ NNP NN VBP|BODY_7|0
+closure variant ( define-record av ( cv callers|NN NN -LRB- JJ NN -LRB- NN NNS|BODY_3|0
+return|NN|BODY_4|0
+more accurate control-flow and data-flow information|RBR JJ NN CC NN NN|BODY_3|0
+a record program|DT NN NN|BODY_2|0
+the generic analysis|DT JJ NN|BODY_1:BODY_4:BODY_7|0
+side-effects|NNS|BODY_3:BODY_4|0
+a finite index|DT JJ NN|BODY_7|0
+x ) x|NN -RRB- NN|BODY_4|0
+performance penalties|NN NNS|BODY_3|0
+a lexical environment mapping identifiers|DT JJ NN NN NNS|BODY_4|0
+the purpose|DT NN|BODY_4|0
+the argument and result values|DT NN CC NN NNS|BODY_3|0
+henglein 1991|NN CD|BODY_3|0
+control-flow and data-flow analyses|NN CC NN NNS|BODY_1:BODY_2|0
+infinite domains|JJ NNS|BODY_2|0
+the trace|DT NN|BODY_1:BODY_3|0
+k ( lambda ( f|NN -LRB- NN -LRB- NN|BODY_8|0
+precision|NN|BODY_2|0
+a form|DT NN|BODY_2|0
+the way|DT NN|BODY_7|0
+h ( lambda (|NN -LRB- NN -LRB-|BODY_6|0
+just given|RB VBN|BODY_3|0
+the current call chain|DT JJ NN NN|BODY_6|0
+the issue|DT NN|BODY_2|0
+( possibly ) recursive abstract functions|-LRB- RB -RRB- JJ JJ NNS|BODY_6|0
+precise bounds|JJ NNS|BODY_2|0
+a general-purpose algorithm|DT JJ NN|BODY_3|0
+strongly-connected components|JJ NNS|BODY_4|0
+a control-flow graph|DT NN NN|BODY_2|0
+this example|DT NN|BODY_1|0
+( lookup-app-variant cv pi-arg|-LRB- NN NN NN|BODY_21|0
+the data-flow|DT NN|BODY_3|0
+minimal function graphs [jones|JJ NN NNS NNS|BODY_3|0
+olivier danvy and karoline malmkjaer|JJ NN CC NN NN|BODY_2|0
+an example )|DT NN -RRB-|BODY_11|0
+the resulting|DT VBG|BODY_2|0
+its implementation|PRP$ NN|BODY_5|0
+update-environment|NN|BODY_6|0
+the degree|DT NN|BODY_3|0
+the control/data flow|DT NN NN|BODY_3|0
+an efficient fixpoint algorithm|DT JJ NN NN|BODY_3|0
+hentenryck 1991|NN CD|BODY_5|0
+subsets|NNS|BODY_2|0
+elsewhere ( e .g.|RB -LRB- NN NNP|BODY_5|0
+the reanalyses|DT NNS|BODY_7|0
+these works|DT NNS|BODY_2|0
+an application site|DT NN NN|BODY_4|0
+a family|DT NN|BODY_2|0
+each syntactic rule|DT JJ NN|BODY_4|0
+lambda expressions and applications|NN NNS CC NNS|BODY_4|0
+research|NN|BODY_1|0
+the called variant|DT VBN NN|BODY_4|0
+the effect|DT NN|BODY_1|0
+the procedure sweep-exp traverses|DT NN JJ NNS|BODY_1|0
+the right-hand part|DT JJ NN|BODY_1|0
+the topic|DT NN|BODY_4|0
+a complexity analysis|DT NN NN|BODY_2|0
+the unoptimized version|DT JJ NN|BODY_10|0
+its contributions|PRP$ NNS|BODY_3|0
+differentiate contexts|JJ NNS|BODY_4|0
+a third operation|DT JJ NN|BODY_5|0
+an intermediate form|DT JJ NN|BODY_7|0
+the rate|DT NN|BODY_4|0
+these strategies|DT NNS|BODY_2|0
+conclusions|NNS|BODY_1:BODY_3|1
+section 6|NN CD|BODY_2|1
+the record type|DT NN NN|BODY_2|0
+more accurate dependency information|RBR JJ NN NN|BODY_2|0
+the old argument|DT JJ NN|BODY_6|0
+a conditional|DT JJ|BODY_2|0
+the closure|DT NN|BODY_3|0
+each application|DT NN|BODY_1|0
+calls update-argument|NNS NN|BODY_6|0
+the anonymous lambda expression|DT JJ NN NN|BODY_3|0
+control-flow|NN|BODY_5|0
+the new algorithm|DT JJ NN|BODY_8|0
+its accuracy and performance|PRP$ NN CC NN|BODY_3|0
+analyze-prog|NN|BODY_5|0
+a new closure variant|DT JJ NN NN|BODY_3|0
+a control-flow analysis|DT JJ NN|BODY_2|0
+the efficency|DT NN|BODY_5|0
+an instance|DT NN|ABSTRACT_2|0
+the need|DT NN|BODY_3|0
+the finite version|DT JJ NN|BODY_6|0
+a fixpoint process|DT JJ NN|BODY_3|0
+a matching instance|DT NN NN|BODY_3|0
+a simple record facility|DT NN NN NN|BODY_3|0
+as much attention|IN JJ NN|BODY_3|0
+fortran|NN|BODY_3|0
+four|CD|BODY_1|0
+hall and kennedy [ hall and kennedy 1992|NN CC JJ NN NN CC JJ CD|BODY_1|0
+interpreters|NNS|BODY_3|0
+needed|VBN|BODY_3|0
+operations|NNS|BODY_1|0
+rees , eds . 1991|NNS , NNS . CD|BODY_1|0
+that same interpreter|DT JJ NN|BODY_3|0
+the call-graph analysis|DT NN NN|BODY_1|0
+the lookup operation|DT NN NN|BODY_1|0
+the practical aspects|DT JJ NNS|BODY_1|0
+the second ( cps-)|DT JJ -LRB- NN|BODY_1|0
+many variants|JJ NNS|BODY_2|0
+5|CD|BODY_3|0
+every control flow path|DT NN NN NN|BODY_3|0
+the new operation remove-creators|DT JJ NN NNS|BODY_9|0
+a very accurate form|DT RB JJ NN|ABSTRACT_2|0
+a 0|DT CD|BODY_7|0
+these improvements|DT NNS|BODY_3|0
+its partition|PRP$ NN|BODY_10:BODY_4|0
+an optimization technique|DT NN NN|BODY_2|0
+its co-domain|PRP$ NN|BODY_8|0
+mycroft 1986 ]|JJ CD NN|BODY_4|0
+a new adt operation remove-callers|DT JJ NN NN NNS|BODY_5|0
+our analysis|PRP$ NN|BODY_3|0
+the update-creators|DT NNS|BODY_2|0
+a different context|DT JJ NN|BODY_7|0
+use|NN|BODY_6|0
+the program proof|DT NN NN|BODY_2|0
+what context|WP NN|BODY_4|0
+this new variant|DT JJ NN|BODY_2|0
+some fixpoint computations|DT NN NNS|BODY_3|0
+its expression|PRP$ NN|BODY_4|0
+each closure variant|DT NN NN|BODY_4|0
+a version|DT NN|BODY_4|1
+the final set|DT JJ NN|BODY_8|0
+the call-by-value lambda calculus|DT NN NN NN|BODY_4|0
+express data structures|JJ NNS NNS|BODY_3|0
+the abstract domain and degree|DT JJ NN CC NN|ABSTRACT_3|0
+no longer applied|DT RB VBN|BODY_4|0
+accurate polyvariant analyses|JJ NN NNS|BODY_3|0
+related work martin|VBN NN NN|BODY_1|0
+a lambda expression|DT NN NN|BODY_1:BODY_3|0
+young 1989 ] )|JJ CD NN -RRB-|BODY_6|0
+section 5|NN CD|BODY_6|0
+some preliminary performance results|DT JJ NN NNS|BODY_1|0
+the initial algorithm|DT JJ NN|BODY_6|0
+times|NNS|BODY_1|0
+the application context|DT NN NN|BODY_2|0
+update-env|JJ|BODY_10|0
+two different kinds|CD JJ NNS|BODY_7|0
+a technique|DT NN|BODY_3|0
+each call site|DT NN NN|BODY_5|0
+many more abstract descriptions|JJ JJR JJ NNS|ABSTRACT_5|0
+1 shows|CD VBZ|BODY_3|0
+the root application variant ( root-variant|DT NN NN NN -LRB- NN|BODY_3|0
+the abstract interpretation|DT JJ NN|BODY_2|0
+the change|DT NN|BODY_6|0
+exactly one call-site record|RB CD JJ NN|BODY_3|0
+step 3|NN CD|BODY_2|0
+le charlier et al|FW FW FW NN|BODY_1|0
+one direction|CD NN|BODY_1|0
+hj|NN|BODY_13|0
+run-time closures|NN NNS|BODY_4|0
+'s return value changes|POS NN NN NNS|BODY_18|0
+an abstract domain|DT JJ NN|BODY_4|0
+the values|DT NNS|BODY_9|0
+the procedure still-useful|DT NN JJ|BODY_2|0
+first finding|JJ NN|BODY_3|0
+some intermediate point|DT JJ NN|BODY_3|0
+three new application variants|CD JJ NN NNS|BODY_5|0
+no changes|DT NNS|BODY_6|0
+each caller|DT NN|BODY_2|0
+( andmap ( lambda (av ) ( absval=|-LRB- NN -LRB- NN NNP -RRB- -LRB- NN|BODY_8|0
+( pi=|-LRB- NN|BODY_17|0
+) ( highest|-RRB- -LRB- JJS|BODY_2|0
+.ogi.edu|NNP|BODY_18|0
+14 \delta j. m. ashley|CD NNP NNP NN NN|BODY_1|0
+a binding-time analysis|DT JJ NN|BODY_1|0
+a literal|DT NN|BODY_1|0
+benchmarks 4|NNS CD|BODY_9|0
+consel ds|NN NNS|BODY_1|0
+michael ashley|NN NN|BODY_1|0
+nielson and nielson 1992 ]|NN CC NN CD NN|BODY_7|0
+the corresponding label|DT JJ NN|BODY_10|0
+the remaining four programs|DT VBG CD NNS|BODY_1|0
+words|NNS|BODY_17|0
+-, ?|JJ .|BODY_4|0
+a stack|DT NN|BODY_2|0
+two closure variants|CD NN NNS|BODY_5|0
+the dependency information|DT NN NN|BODY_2|0
+the function ff|DT NN NN|BODY_1|0
+equations by-need )|NNS CC -RRB-|BODY_7|0
+detecting|VBG|BODY_4|0
+the facility|DT NN|BODY_1|0
+consel ( 1|NN -LRB- CD|BODY_1|0
+( analyze-variant av ) (variant-case av (av ( cv signature|-LRB- JJ NN -RRB- NN NN NNP -LRB- IN NN|BODY_6|0
+a binding|DT NN|BODY_4|0
+nsf grant ccr-9224375|JJ NN CD|BODY_5|0
+( lub (av-?arg av ) arg ) arg|-LRB- NN JJ NN -RRB- NN -RRB- NN|BODY_1|0
+the problem|DT NN|BODY_2|0
+the root variant|DT NN NN|BODY_3|1
+step 9|NN CD|BODY_1|0
+the initial expression )|DT JJ NN -RRB-|BODY_6|0
+whose application|WP$ NN|BODY_6|0
+exam|NN|BODY_1|0
+data-flow information|NN NN|BODY_7|0
+( 2|-LRB- CD|BODY_1|0
+the domain a.|DT NN NN|BODY_4|0
+a conventional analysis|DT JJ NN|ABSTRACT_8|0
+its size (|PRP$ NN -LRB-|BODY_15|0
+the partition and records|DT NN CC NNS|BODY_5|0
+( re|-LRB- NN|BODY_6|0
+more time|JJR NN|BODY_3|0
+this time|DT NN|BODY_3|0
+the label|DT NN|BODY_5|0
+each creator|DT NN|BODY_2|0
+the lexical environment|DT JJ NN|BODY_2|0
+a concrete algorithm|DT JJ NN|BODY_2|0
+a polyvariant function (-)|DT NN NN NN|BODY_5|0
+other strategies|JJ NNS|BODY_2|0
+notes|NNS|BODY_2|0
+operation update-callers|NN NNS|BODY_3|0
+v 2|RB CD|BODY_10|0
+some cases|DT NNS|BODY_3|0
+higher-order functions|JJR NNS|BODY_4|0
+a lambda expression yields|DT NN NN NNS|BODY_2|0
+an infinite number|DT JJ NN|BODY_6|0
+reasons|NNS|BODY_3|0
+each step|DT NN|BODY_1:BODY_4|0
+some point|DT NN|BODY_6|0
+the final result|DT JJ NN|ABSTRACT_4|0
+the update-call-site ! operation|DT JJ . NN|BODY_8|0
+an infinite height|DT JJ NN|BODY_5|0
+consel 1993b]|NN CD|BODY_5|0
+the update|DT NN|BODY_1:BODY_7|0
+a higher-order language|DT JJ NN|BODY_6|0
+danvy 1991b]|JJ CD|BODY_7|0
+the third|DT JJ|BODY_1|0
+the dependency|DT NN|BODY_2|0
+no side-effects|DT NNS|BODY_3|0
+follows|VBZ|BODY_10|0
+needless recomputations|JJ NNS|BODY_5|0
+a new iteration|DT JJ NN|BODY_4|0
+intermediate abstract descriptions|JJ JJ NNS|ABSTRACT_2|0
+the specific issues|DT JJ NNS|BODY_6|0
+accurate fixpoint analyses|JJ NN NNS|BODY_3|0
+bondorf and j-rgensen [bondorf|NN CC NNP NNP|BODY_1|0
+the section|DT NN|BODY_6|0
+higher-order procedures and data structures|JJ NNS CC NNS NNS|BODY_3|0
+the next section presents|DT JJ NN NNS|BODY_1|0
+other algorithms|JJ NNS|BODY_1|0
+each abstract closure|DT JJ NN|BODY_5|0
+function-argument pairs|NN NNS|BODY_4|0
+consel 1993a]|NN CD|BODY_5|0
+creators|NNS|BODY_5|0
+a second time|DT JJ NN|BODY_5|0
+a unique partition|DT JJ NN|BODY_5|0
+possible closures|JJ NNS|BODY_3|0
+his algorithm|PRP$ NN|BODY_1|0
+that step|DT NN|BODY_5|0
+a constant function )|DT JJ NN -RRB-|BODY_7|0
+set-name-?x i|NN NNS|BODY_7|0
+arg|NN|BODY_1|0
+the procedure cleanup|DT NN NN|BODY_1|0
+this estimation|DT NN|BODY_1|0
+the expression|DT NN|BODY_5|0
+a root application variant ( build-root-variant )|DT NN NN NN -LRB- NN -RRB-|BODY_10|0
+top-level definitions and lambda expressions|JJ NNS CC NN NNS|BODY_20|0
+an initial expression|DT JJ NN|BODY_4|0
+the current lexical environment|DT JJ JJ NN|BODY_5|0
+the crucial component|DT JJ NN|BODY_1|0
+data-flow aspects|JJ NNS|BODY_6|0
+abstract data structures|JJ NNS NNS|BODY_3|0
+examples|NNS|BODY_1|0
+1992 ]|CD NN|BODY_5|0
+one solution|CD NN|BODY_1|0
+'s bta.|POS NN|BODY_5|0
+any application variants|DT NN NNS|BODY_3|0
+the new analyzer|DT JJ NN|BODY_4|0
+the infinite domain|DT JJ NN|BODY_4|0
+two abstract data types|CD JJ NNS NNS|BODY_1|0
+lambda abstractions|NN NNS|BODY_4|0
+the optimized algorithm addresses|DT JJ NN NNS|ABSTRACT_1|0
+the following notation|DT VBG NN|BODY_1|0
+special emphasis|JJ NN|BODY_1|0
+6 and 7.|CD CC CD|BODY_5|0
+implementation issues|NN NNS|BODY_1|0
+any case|DT NN|BODY_15|0
+the first program ( ds-)|DT JJ NN -LRB- NN|BODY_1|0
+a static analysis|DT JJ NN|BODY_1|0
+introduction abstract interpretation [abramsky|NN JJ NN NN|BODY_1|0
+tion|NN|BODY_3|0
+2.|CD|BODY_1|0
+a simple higher-order programming language|DT JJ JJ NN NN|BODY_5|0
+polyvari- ance|NNS NN|BODY_6|0
+all the callers|PDT DT NNS|BODY_5|0
+all the creators|PDT DT NNS|BODY_5|0
+a finite domain|DT JJ NN|BODY_1|0
+figure 1|NN CD|BODY_4|0
+j.|NN|BODY_3|0
+their environment and text )|PRP$ NN CC NN -RRB-|BODY_4|0
+each|DT|BODY_1|0
+this graph|DT NN|BODY_1|0
+a time|DT NN|BODY_7|0
+figure 3|NN CD|BODY_30|0
+the fixpoint finding process|DT JJ NN NN|BODY_6|0
+addition|NN|BODY_1|0
+detecting and discarding useless variants|VBG CC VBG JJ NNS|BODY_3|0
+the partial-evaluation process|DT NN NN|BODY_3|0
+the procedure analyze-variant analyzes|DT NN NN NNS|BODY_1|0
+the stack|DT NN|BODY_5|0
+the site|DT NN|BODY_3|0
+results|NNS|BODY_1|0
+a.|NN|BODY_4|0
+different domains|JJ NNS|BODY_6|0
+another operation|DT NN|BODY_1|0
+the operation lub-callers-arg|DT NN NN|BODY_1|0
+the|DT|BODY_1|0
+each lambda ex|DT NN FW|BODY_1|0
+the construction|DT NN|BODY_1|0
+one pass|CD NN|BODY_4|0
+non-standard and standard semantic definitions|JJ CC JJ JJ NNS|BODY_5|0
+changes|NNS|BODY_1|0
+figure 5|NN CD|BODY_5|0
+the access|DT NN|BODY_1|0
+the modified variant|DT JJ NN|BODY_21|0
+several other static analyzers|JJ JJ JJ NNS|BODY_1|0
+polyvariant static analyses \delta 7 lexical environment|NN JJ NNS NN CD JJ NN|BODY_59|0
+1991 ]|CD NN|BODY_6|0
+1991 ] )|CD NN -RRB-|BODY_15|0
+the procedure analyze-exp|DT NN NN|BODY_1|0
+an efficient and accurate fixpoint algorithm|DT JJ CC JJ NN NN|BODY_3|0
+any practical use|DT JJ NN|BODY_1|0
+another problem|DT NN|BODY_1|0
+notice|NN|BODY_1|0
+overview|NN|BODY_1|1
+the finite height|DT JJ NN|BODY_1|0
+the fixpoint computation terminates|DT NN NN NNS|BODY_3|0
+figure 8|NN CD|BODY_1|0
+only one argument|RB CD NN|BODY_3|0
+the presentation|DT NN|BODY_1|0
+their use context changes|PRP$ VBP NN NNS|BODY_2|0
+a wide spectrum|DT JJ NN|BODY_1|0
+2.2|CD|BODY_25|0
+practical programming languages|JJ NN NNS|BODY_9|0
+labels|NNS|BODY_11|0
+more times|JJR NNS|BODY_3|0
+some traversal strategies|DT NN NNS|BODY_1|0
+this index|DT NN|BODY_6|0
+( ae xn )=xn ]g ) fixpoint computation|-LRB- NNS NN NN NN -RRB- NN NN|BODY_1|0
+15 5|CD CD|BODY_3|0
+hentenryck 1991 ]|NN CD NN|BODY_6|0
+hentenryck 1991 ] )|NN CD NN -RRB-|BODY_6:BODY_8|0
+a lookup operation|DT NN NN|BODY_1|0
+note|NN|BODY_1|0
+its efficiency|PRP$ NN|BODY_6|0
+the unoptimized algorithm|DT JJ NN|ABSTRACT_5|0
+v 0|RB CD|BODY_3|0
+a dependency graph|DT NN NN|BODY_4|0
+a polyvariant binding-time analysis|DT NN JJ NN|BODY_3|0
+both its performance and accuracy|DT PRP$ NN CC NN|BODY_4|0
+this improvement|DT NN|BODY_4|0
+( root-variant|-LRB- NN|BODY_29|0
+the different descriptions|DT JJ NNS|BODY_1|0
+[ young 1989]|JJ JJ CD|BODY_1|0
+further analysis|JJ NN|BODY_3|0
+that point|DT NN|BODY_5|0
+a more detailed description|DT RBR JJ NN|BODY_1|0
+more accurate information [consel 1993a]|RBR JJ NN NN CD|BODY_3|0
+the partial evaluator similix [bondorf 1991 ]|DT JJ NN NN NNP CD SYM|BODY_4|0
+a consequence control-flow and data-flow aspects|DT NN NN CC JJ NNS|BODY_1|0
+strategies|NNS|BODY_1|0
+information|NN|BODY_4|0
+so|RB|BODY_1|0
+objects finite|NNS NN|BODY_4|0
+a pending list|DT JJ NN|BODY_1|0
+its abstract value|PRP$ JJ NN|BODY_3|0
+the procedure analyze-prog|DT NN NN|BODY_1|0
+an extra field|DT JJ NN|BODY_1|0
+practice|NN|BODY_1|0
+more abstract descriptions|JJR JJ NNS|BODY_4|0
+a given abstract function|DT VBN JJ NN|BODY_1|0
+bookkeeping purposes|VBG NNS|BODY_3|0
+some|DT|BODY_1|0
+our concluding remarks|PRP$ VBG NNS|BODY_4|0
+its subexpressions|PRP$ NNS|BODY_4|0
+the iteration process|DT NN NN|BODY_1|0
+a manageable degree|DT JJ NN|BODY_6|0
+preserving accuracy|VBG NN|BODY_5|0
+( creators-?env creators|-LRB- NN NNS|BODY_39|0
+6= -(|CD JJ|BODY_1|0
+consel ( define-record cv ( exp env creators|NN -LRB- JJ NN -LRB- NN NN NNS|BODY_1|0
+2.3 evaluation|CD NN|BODY_1|0
+complete programs|JJ NNS|BODY_3|0
+essence|NN|BODY_1|0
+future work|JJ NN|BODY_1|0
+its correctness|PRP$ NN|BODY_3|0
+question|NN|BODY_8|0
+the revised procedure analyze-variantchecks|DT JJ NN NNS|BODY_1|0
+each application variant-expression pair|DT NN NN NN|BODY_1|0
+no closure variant|DT NN NN|BODY_6|0
+only one|RB CD|BODY_10|0
+abstract applications|JJ NNS|BODY_10|0
+the functions|DT NNS|BODY_5|0
+'s expression|POS NN|BODY_3|0
+the control-flow and data-flow|DT NN CC NN|BODY_1|0
+this variant|DT NN|BODY_1|0
+'s return value|POS NN NN|BODY_4|0
+a closure|DT NN|BODY_3|0
+consel program|NN NN|BODY_1|0
+section 3|NN CD|BODY_1|0
+step 1|NN CD|BODY_1|1
+step 11|NN CD|BODY_1|0
+the example|DT NN|BODY_1|0
+the general-purpose algorithm|DT JJ NN|BODY_1|0
+a call site|DT NN NN|BODY_6|0
+analyze-exp|NN|BODY_6|0
+the procedure update-argument|DT NN NN|BODY_1|0
+update-creators|NNS|BODY_1|0
+mathematical formulas and programs|JJ NNS CC NNS|BODY_6|0
+a later point|DT JJ NN|BODY_8|0
+an instantiation|DT NN|BODY_1|0
+no longer|DT RB|BODY_7|0
+one application variant|CD NN NN|BODY_3|0
+the following requirements|DT JJ NNS|BODY_3|0
+these changes|DT NNS|BODY_1|0
+figure|NN|BODY_4|0
+2.1 analyzing expressions|CD NN NNS|BODY_1|0
+'s environment|POS NN|BODY_5|0
+the reported number|DT JJ NN|BODY_1|0
+the first requirement|DT JJ NN|BODY_7|0
+the abstract closure|DT JJ NN|BODY_6|0
+these objects|DT NNS|BODY_4|0
+is|VBZ|BODY_1|0
+a variant useful|DT JJ JJ|BODY_1|0
+the preexisting instance|DT NN NN|BODY_2|0
+these initial benchmarks|DT JJ NNS|BODY_1|0
+three variants|CD NNS|BODY_1|0
+pending analyses|VBG NNS|BODY_3|0
+the program mp|DT NN NN|BODY_2|0
+each partition|DT NN|BODY_1|0
+j|NN|BODY_4|0
+such an analysis|PDT DT NN|BODY_1|0
+a creator|DT NN|BODY_7|0
+the procedure update-environment|DT NN NN|BODY_1|0
+both monovariant and polyvariant analyses|DT NN CC NN NNS|BODY_7|1
+our framework|PRP$ NN|BODY_4|0
+that call site|WDT NN NN|BODY_5|0
+the variants|DT NNS|BODY_1|0
+-(|JJ|BODY_6|0
+the next step|DT JJ NN|BODY_1|0
+ashley and c.|NN CC NN|BODY_1|0
+environments|NNS|BODY_1|0
+other analyses|JJ NNS|BODY_1|0

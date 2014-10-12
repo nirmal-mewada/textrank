@@ -1,0 +1,1393 @@
+we|PRP|BODY_11:BODY_22:BODY_17:BODY_15:BODY_13:BODY_2:BODY_24:BODY_4:BODY_5:BODY_1:BODY_7:BODY_30:BODY_20:BODY_9:BODY_18:BODY_21:BODY_66:BODY_25:BODY_3:BODY_14:BODY_33:BODY_6:BODY_27:BODY_19:BODY_10:BODY_8|3
+which|WDT|BODY_41:BODY_11:BODY_22:BODY_16:BODY_17:BODY_15:BODY_13:BODY_25:BODY_2:BODY_14:BODY_64:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_12:BODY_11:BODY_16:BODY_18:BODY_13:BODY_2:BODY_3:BODY_14:BODY_37:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_29:BODY_30:BODY_9|0
+that|WDT|BODY_11:BODY_17:BODY_26:BODY_2:ABSTRACT_3:BODY_25:BODY_14:BODY_3:BODY_4:BODY_33:BODY_6:BODY_35:BODY_5:BODY_1:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_33:BODY_5:BODY_23:BODY_13:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the program|DT NN|BODY_12:BODY_6:BODY_36:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the case|DT NN|BODY_12:BODY_11:BODY_22:BODY_17:BODY_13:BODY_2:BODY_3:BODY_4:BODY_5:BODY_27:BODY_1:BODY_10:BODY_7:BODY_9|0
+the relative error|DT JJ NN|BODY_12:BODY_11:BODY_16:BODY_17:BODY_21:BODY_14:BODY_3:BODY_4:BODY_5:BODY_27:BODY_1:BODY_10:BODY_8:BODY_9:BODY_20|0
+x|NN|BODY_12:BODY_17:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_27:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+the real part|DT JJ NN|BODY_11:BODY_13:BODY_26:BODY_2:BODY_3:BODY_4:BODY_5:BODY_28:BODY_1:BODY_10:BODY_50:BODY_7:BODY_9|0
+the error|DT NN|BODY_6:BODY_11:BODY_5:BODY_28:BODY_13:BODY_1:BODY_2:BODY_3:BODY_8|0
+the handler|DT NN|BODY_5:BODY_62:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+small multiples|JJ NNS|BODY_6:BODY_11:BODY_34:BODY_67:BODY_23:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_20|0
+terms|NNS|BODY_27:BODY_2:BODY_24:BODY_3:BODY_4:BODY_29:BODY_7:BODY_8|0
+the argument|DT NN|BODY_47:BODY_6:BODY_5:BODY_61:BODY_40:BODY_13:BODY_26:BODY_4:BODY_7:BODY_8|0
+1|CD|BODY_12:BODY_6:BODY_1:BODY_3:BODY_4:BODY_10:BODY_37:BODY_8:BODY_20|0
+what|WP|BODY_6:BODY_5:BODY_27:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+)|-RRB-|BODY_5:BODY_22:BODY_16:BODY_13:BODY_23:BODY_25:BODY_19:BODY_10:BODY_7:BODY_9|0
+overflow|NN|BODY_6:BODY_31:BODY_16:BODY_1:BODY_2:BODY_24:BODY_3:BODY_4:BODY_30:BODY_9|0
+zero|CD|BODY_12:BODY_16:BODY_15:BODY_2:BODY_39:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_48:BODY_9|0
+section 4|NN CD|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_8:BODY_9|0
+underflow|NN|BODY_5:BODY_11:BODY_21:BODY_2:BODY_1:BODY_49:BODY_44:BODY_3:BODY_19:BODY_10:BODY_4|0
+f l|NN NN|BODY_6:BODY_12:BODY_5:BODY_15:BODY_2:BODY_4|0
+y|PRP|BODY_6:BODY_31:BODY_11:BODY_2:BODY_14:BODY_3:BODY_4:BODY_20|0
+overflow or underflow|NN CC NN|BODY_12:BODY_34:BODY_16:BODY_21:BODY_2:BODY_1:BODY_3:BODY_7:BODY_60|0
+one|CD|BODY_6:BODY_15:BODY_1:BODY_4:BODY_7:BODY_20|0
+handle|NN|BODY_36:BODY_16:BODY_42:BODY_18:BODY_24:BODY_20|0
+the result|DT NN|BODY_11:BODY_43:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+e|NN|BODY_12:BODY_11:BODY_16:BODY_21:BODY_24:BODY_3:BODY_4:BODY_10:BODY_9|0
+answer :realpart|NN NN|BODY_47:BODY_22:BODY_16:BODY_18:BODY_21:BODY_10:BODY_30|0
+this program|DT NN|BODY_31:BODY_28:BODY_27:BODY_39:BODY_44:BODY_54|0
+z|FW|BODY_6:BODY_58:BODY_15:BODY_3:BODY_4:BODY_8|0
+m|NN|BODY_12:BODY_11:BODY_5:BODY_17:BODY_23:BODY_13:BODY_1:BODY_2:BODY_24|0
+values|NNS|BODY_33:BODY_6:BODY_32:BODY_5:BODY_16:BODY_13:BODY_3:BODY_4:BODY_9|0
+cabs|NNS|ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+the results|DT NNS|BODY_5:BODY_22:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+log1p|NN|BODY_6:BODY_62:BODY_1:BODY_3:BODY_14:BODY_10:BODY_7:BODY_9|1
+an exception|DT NN|BODY_12:BODY_5:BODY_68:BODY_13:BODY_1:BODY_24:BODY_4|0
+the complex elementary functions|DT JJ JJ NNS|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_4|0
+the approximation|DT NN|BODY_6:BODY_11:BODY_5:BODY_15:BODY_1:BODY_3:BODY_10|0
+example|NN|BODY_5:BODY_1:BODY_3:BODY_7|0
+each|DT|BODY_2:BODY_1:BODY_7|1
+2|CD|BODY_5:BODY_15:BODY_23:BODY_3:BODY_4:BODY_10:BODY_29:BODY_7|0
+the imaginary part|DT NN NN|BODY_5:BODY_16:BODY_2:BODY_1:BODY_49:BODY_10:BODY_4|0
+this function|DT NN|BODY_12:BODY_2:BODY_3:BODY_4:BODY_9|0
+t|VB|BODY_2:BODY_3:BODY_4:BODY_19:BODY_7|0
+the evaluation|DT NN|BODY_32:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+x and y|NN CC NN|BODY_18:BODY_21:BODY_4:BODY_9|0
+the algorithms|DT NNS|BODY_5:ABSTRACT_4:BODY_3:ABSTRACT_1:ABSTRACT_7|0
+0|CD|BODY_46:BODY_12:BODY_34:BODY_45:BODY_1:BODY_8|0
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+course|NN|BODY_5:BODY_11:BODY_36:BODY_1:BODY_2:BODY_14:BODY_3:BODY_8|0
+the|DT|BODY_6:BODY_1:BODY_3:BODY_19:BODY_20|0
+the underflowed component|DT JJ NN|BODY_15:BODY_23:BODY_2:BODY_1:BODY_44:BODY_4:BODY_8|0
+the final approximation|DT JJ NN|BODY_6:BODY_57:BODY_23:BODY_13:BODY_2|0
+the enable block|DT VBP NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10|0
+a small multiple|DT JJ NN|BODY_11:BODY_13:BODY_10:BODY_7:BODY_20|0
+doubled precision|VBN NN|BODY_12:BODY_17:BODY_13:BODY_1:BODY_2:BODY_38|0
+clog|NN|BODY_23:BODY_13:ABSTRACT_8:BODY_3:BODY_14|0
+the correctness|DT NN|BODY_11:ABSTRACT_6:BODY_17:BODY_1:BODY_7|0
+the final result|DT JJ NN|BODY_6:BODY_59:BODY_2|0
+ada|NN|BODY_5:BODY_2:BODY_3:BODY_10|0
+the errors|DT NNS|BODY_33:BODY_6:BODY_17:BODY_4|0
+the bound|DT VBN|BODY_12:BODY_11:BODY_1:BODY_4|0
+this expression|DT NN|BODY_34:BODY_17:BODY_1:BODY_3:BODY_7:BODY_8|0
+error|NN|BODY_2:BODY_3|0
+scale|NN|BODY_32:BODY_34:BODY_28:BODY_26|0
+00|CD|BODY_27:BODY_19:BODY_4:BODY_7:BODY_30|0
+place|NN|BODY_5:BODY_28:BODY_18:BODY_29:BODY_20|0
+the log function|DT NN NN|BODY_5:BODY_10:BODY_7:BODY_8|1
+bounds|NNS|BODY_2:BODY_3:BODY_4:BODY_10:BODY_9|0
+the programs|DT NNS|BODY_5:BODY_2:BODY_1|0
+the theoretical bounds|DT JJ NNS|BODY_2:BODY_4:BODY_8:BODY_9|0
+both components|DT NNS|BODY_25:BODY_1:BODY_3:BODY_14:BODY_19|0
+algorithms|NNS|BODY_3:ABSTRACT_1:BODY_4|1
+n|NN|BODY_1:BODY_2:BODY_3|0
+the components|DT NNS|BODY_11:BODY_5:BODY_10|0
+this bound|DT VBD|BODY_69:BODY_2:BODY_1|0
+exceptions|NNS|BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|0
+cexp|NN|BODY_1:BODY_2:BODY_3:ABSTRACT_7|0
+non-binary machines|JJ NNS|BODY_5:BODY_2:BODY_1:BODY_4:BODY_9|0
+a relative error|DT JJ NN|BODY_5:BODY_17:BODY_23:BODY_2|0
+the overall relative error|DT JJ JJ NN|BODY_11:BODY_31:BODY_2:BODY_10|0
+a|DT|BODY_15:BODY_2:BODY_8|0
+the same|DT JJ|BODY_12:BODY_5:BODY_18:BODY_4:BODY_7|0
+us|PRP|BODY_15:BODY_2:BODY_1:BODY_7|0
+this section|DT NN|BODY_1:BODY_2|1
+the function|DT NN|BODY_11:BODY_23:BODY_10:BODY_7|0
+real elementary functions|JJ JJ NNS|BODY_6:BODY_5:BODY_8|0
+(|-LRB-|BODY_1|0
+possible exceptions|JJ NNS|BODY_5:BODY_1:BODY_10:BODY_8|0
+this paper|DT NN|BODY_11:BODY_2:BODY_8|0
+cabs2|NN|BODY_11:BODY_5:BODY_19:BODY_4|0
+most|JJS|BODY_13:BODY_10:BODY_4|0
+at least one|IN JJS CD|BODY_32:BODY_38:BODY_9|0
+the sun system|DT NN NN|BODY_3:BODY_4:BODY_7|0
+( overflow ) real x|-LRB- NN -RRB- JJ NN|BODY_6:BODY_11:BODY_8|0
+the possibility|DT NN|BODY_6:BODY_2:BODY_4|0
+magnitude|NN|BODY_6:BODY_15:BODY_3:BODY_4:BODY_9|0
+the time|DT NN|BODY_5:BODY_3:BODY_10|0
+ontario|NN|BODY_5|0
+control|NN|BODY_10:BODY_4:BODY_9|0
+more detail|JJR NN|BODY_11:BODY_5:BODY_3:BODY_7|0
+the latter|DT NN|BODY_4:BODY_7|0
+section 5|NN CD|BODY_1:BODY_3:BODY_4:BODY_7|0
+these|DT|BODY_2:BODY_1:BODY_3|0
+construct|VB|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+binary machines|JJ NNS|BODY_12:BODY_1:BODY_3:BODY_7:BODY_9|0
+early stages|JJ NNS|BODY_2|0
+ieee single precision|JJ JJ NN|BODY_2|0
+other production implementation issues|JJ NN NN NNS|BODY_2|0
+random real parts|JJ JJ NNS|BODY_2|0
+the exception handling|DT NN NN|BODY_2|0
+an error|DT NN|BODY_12:BODY_31:BODY_34:BODY_7|0
+0 else answer :realpart :=|CD JJ NN NN NN|BODY_26|0
+an accurate approximation|DT JJ NN|BODY_11:BODY_3:BODY_4|0
+cancellation|NN|BODY_3:BODY_10:BODY_8|0
+a factor|DT NN|BODY_2:BODY_3:BODY_10:BODY_9|0
+the largest machine representable number|DT JJS NN JJ NN|BODY_14:BODY_9|0
+answer|NN|BODY_22:BODY_17:BODY_13|0
+the examples|DT NNS|BODY_2:BODY_3|0
+the range|DT NN|BODY_13:BODY_4:BODY_8|0
+the relative errors|DT JJ NNS|BODY_6:BODY_12:BODY_31|0
+facilities|NNS|BODY_6:BODY_3|0
+error bounds|NN NNS|BODY_5:BODY_4:BODY_7|0
+the logarithm|DT NN|BODY_2:BODY_4|0
+x op|NN NN|BODY_13:BODY_4|0
+cos(|JJ|BODY_11:BODY_22:BODY_13:BODY_19|0
+more|JJR|BODY_6:BODY_3|0
+appropriately initialized x|RB VBN NN|BODY_15:BODY_9|0
+fortran|NN|BODY_2:BODY_9|0
+subsection 2.5|NN CD|BODY_1:BODY_3:BODY_9|0
+themselves|PRP|BODY_3:BODY_4|0
+no exception|DT NN|BODY_12:BODY_17:BODY_15:BODY_4:BODY_9|0
+the same sign|DT JJ NN|BODY_12:BODY_31:BODY_4|0
+the error analysis|DT NN NN|BODY_2:BODY_1:BODY_3|0
+the help|DT NN|BODY_6:BODY_3:BODY_4|0
+some|DT|BODY_2:BODY_1:BODY_7|0
+a unit|DT NN|BODY_40:BODY_16:BODY_3|0
+j x j and j y j|NN SYM NN CC NN NN NN|BODY_16:BODY_17:BODY_4|0
+e sincos|NN NNS|BODY_2:BODY_24:BODY_10|0
+exp( x )|JJ NN -RRB-|BODY_35:BODY_2:BODY_7|0
+the calculations|DT NNS|BODY_12:BODY_5:BODY_1:BODY_4|0
+the other component|DT JJ NN|BODY_35:BODY_11:BODY_3|0
+the overflow threshold|DT NN NN|BODY_35:BODY_34:BODY_37|0
+the required result|DT JJ NN|BODY_3|0
+csin|NN|BODY_5:BODY_1:ABSTRACT_9|0
+exception|NN|BODY_5:BODY_2:BODY_7|0
+our implementations|PRP$ NNS|BODY_5:BODY_3|0
+the contribution|DT NN|BODY_14:BODY_19:BODY_8|0
+integer logbx|NN NN|BODY_12:BODY_7|0
+p iby2|JJ NN|BODY_15:BODY_4:BODY_19:BODY_8|0
+answer :imagpart|NN NN|BODY_42:BODY_21|0
+appropriately initialized complex answer x := z :realpart y := z :imagpart|RB VBN JJ NN NN NN FW NN NN NN FW NN|BODY_15:BODY_8|0
+the arg function|DT NN NN|BODY_31:BODY_1:BODY_8|0
+follows|VBZ|BODY_6|0
+the system|DT NN|BODY_5:BODY_4:BODY_8|0
+the accuracy|DT NN|BODY_58:BODY_15:BODY_3|0
+scaling|NN|BODY_5:BODY_21:BODY_1|0
+the boundaries|DT NNS|BODY_3:BODY_30|0
+the scaling|DT NN|BODY_23:BODY_7:BODY_8|0
+an overall relative error|DT JJ JJ NN|BODY_25:BODY_19:BODY_9|0
+e 2|NN CD|BODY_35:BODY_5:BODY_11:BODY_21:BODY_24|0
+the working precision|DT VBG NN|BODY_2:BODY_3|0
+the above|DT JJ|BODY_5:BODY_1:BODY_3|0
+access|NN|BODY_6:BODY_4|0
+p|NN|BODY_5:BODY_4:BODY_9|0
+exp(|JJ|BODY_1:BODY_14|0
+concluding remarks|VBG NNS|BODY_4|0
+production implementations|NN NNS|BODY_2|0
+the expression|DT NN|BODY_6:BODY_11:BODY_4|0
+fact|NN|BODY_1:BODY_2:BODY_8|0
+single precision|JJ NN|BODY_10:BODY_9|0
+an ieee environment|DT JJ NN|ABSTRACT_2:BODY_7|0
+exception handling constructs|NN NN NNS|BODY_6:BODY_3|0
+1.4)|CD|BODY_8:BODY_9|0
+a direct evaluation|DT JJ NN|BODY_2|0
+each algorithm|DT NN|ABSTRACT_2:BODY_1|0
+return|NN|BODY_7:BODY_20|0
+this case|DT NN|BODY_42:BODY_25:BODY_1:BODY_7|0
+sin(|JJ|BODY_11:BODY_5:BODY_19|0
+t iny|NN NN|BODY_42:BODY_37|0
+all|DT|BODY_2:BODY_1:BODY_4|0
+approximations|NNS|BODY_2:BODY_8|0
+table ii|NN NNS|BODY_11:BODY_1:BODY_3|0
+the value|DT NN|BODY_2:BODY_1:BODY_3|0
+\lambda2 handle|CD NN|BODY_15|0
+subsection 4.4|NN CD|BODY_6:BODY_3|0
+f c|NN NN|BODY_5:BODY_10|0
+function possible exceptions|NN JJ NNS|BODY_4:BODY_7|0
+tan( x ) and e sin(\gamma-=4;-=4|JJ NN -RRB- CC NN NNS|BODY_3|0
+the replacement|DT NN|BODY_5:BODY_3:BODY_10:BODY_7|0
+the sine and cosine functions|DT NN CC NN NNS|BODY_34:BODY_25:BODY_7|0
+domainerror|NN|BODY_12:BODY_2:BODY_3:BODY_37|0
+the input argument|DT NN NN|BODY_5:BODY_3:BODY_7|0
+these functions|DT NNS|BODY_4:BODY_10|0
+the complex elementary function programs|DT JJ JJ NN NNS|BODY_5|0
+theoretical and observed relative error|JJ CC JJ JJ NN|BODY_2|0
+only one component underflows|RB CD NN NNS|BODY_36:BODY_22:BODY_1|0
+argonne|DT|BODY_15|0
+random significands|JJ NNS|BODY_7|0
+the algorithm|DT NN|BODY_50|0
+the chairmanship|DT NN|BODY_6|0
+the stars program office|DT NNS NN NN|BODY_13|0
+subsection 2.1|NN CD|BODY_12:BODY_5:BODY_1:BODY_3|0
+whose components|WP$ NNS|BODY_7|0
+return answer fig|NN NN NN|BODY_52:BODY_25|0
+the approximations|DT NNS|BODY_5:BODY_3:BODY_20|0
+sin(y )|JJ -RRB-|BODY_13|0
+f r|NN NN|BODY_16:BODY_2|0
+discrepancy|NN|BODY_2|0
+the presence|DT NN|BODY_6|0
+the floating point status register|DT VBG NN NN NN|BODY_2|0
+no overflow or underflow|DT NN CC NN|BODY_6:BODY_4|0
+testing|NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_7|0
+the complex functions|DT JJ NNS|BODY_4:BODY_7:BODY_8|0
+the final relative error|DT JJ JJ NN|BODY_27:BODY_1:BODY_10|0
+logradix|NN|BODY_7:BODY_9|0
+units|NNS|BODY_2:BODY_3:BODY_9|0
+the ieee flags|DT JJ NNS|BODY_2|0
+only exp( x ) max( j cos(y|RB JJ SYM -RRB- NN NN NN|BODY_3|0
+a way|DT NN|BODY_6:BODY_5:BODY_51|0
+the complex exponential function|DT JJ JJ NN|BODY_32:BODY_5|0
+computer science|NN NN|BODY_2|0
+any|DT|BODY_6:BODY_5|0
+the sense|DT NN|BODY_2|0
+op y|NN NN|BODY_2|0
+special values|JJ NNS|BODY_6|0
+any spurious overflows or underflows|DT JJ NNS CC NNS|BODY_2:BODY_4|0
+a program|DT NN|BODY_2|0
+a complex function|DT JJ NN|BODY_2|0
+the corresponding value|DT JJ NN|BODY_4|0
+the observed error bounds|DT VBN NN NNS|BODY_1:BODY_10|0
+) logby := logb(y|-RRB- RB JJ NN|BODY_18:BODY_30|0
+log1p and sinhcosh|NN CC NN|BODY_2|0
+action|NN|BODY_13|0
+the proper domain|DT JJ NN|BODY_8|0
+account|NN|BODY_5:BODY_4|0
+a large number|DT JJ NN|BODY_9|0
+the second case|DT JJ NN|BODY_57:BODY_17|0
+-=4 )|NNP -RRB-|BODY_12:BODY_36|0
+exception handling|NN NN|TITLE_2:BODY_1|0
+one case|CD NN|BODY_9|0
+the complex natural logarithm|DT JJ JJ NN|BODY_2|0
+the sine function|DT NN NN|BODY_2|0
+(version 1.4 ) implementations|NN CD -RRB- NNS|BODY_4|0
+sun|NN|BODY_3|0
+the  true  results|DT NN JJ NN NNS|BODY_6:BODY_5|0
+the second term|DT JJ NN|BODY_1:BODY_3:BODY_7|0
+them|PRP|BODY_2:BODY_4|1
+the exception|DT NN|BODY_6:BODY_1:BODY_3|0
+the basis|DT NN|BODY_6:BODY_5|0
+the direction|DT NN|BODY_43:BODY_19|0
+our construct|PRP$ VB|BODY_1|0
+0:|RB|BODY_2:BODY_44|0
+tang@antares|NNS|BODY_2|0
+the original pretesting|DT JJ NN|BODY_2|0
+this inequality|DT NN|BODY_4|0
+serious numerical cancellation|JJ JJ NN|BODY_3|0
+manipulating exponents|NN NNS|BODY_5:BODY_2|0
+no extended precision|DT JJ NN|BODY_3|0
+reasonable rounding conventions|JJ JJ NNS|BODY_11|0
+000|CD|BODY_6:BODY_5|0
+the interval ( 1=2|DT NN -LRB- CD|BODY_6:BODY_53:BODY_4|0
+the paper|DT NN|ABSTRACT_3|0
+the exponent range|DT JJ NN|BODY_5|0
+this form|DT NN|BODY_2:BODY_1|0
+section 6|NN CD|BODY_3|0
+\gammasin(|JJ|BODY_22:BODY_13|0
+our test program|PRP$ NN NN|BODY_6:BODY_4|0
+the final unscaling|DT JJ JJ|BODY_15:BODY_26:BODY_10|0
+energy|NN|BODY_11|0
+the ada numerics|DT NN NNS|BODY_4|0
+x 0|SYM CD|BODY_11:BODY_9|0
+all cases|DT NNS|BODY_16:BODY_9|0
+the regions|DT NNS|BODY_1:BODY_4|0
+figure 7|NN CD|BODY_4|0
+favor|NN|BODY_7|0
+the relative error magnification factor zf|DT JJ NN NN NN JJ|BODY_8|0
+sections|NNS|BODY_4:BODY_7|0
+argonne national laboratory|DT JJ NN|BODY_13|0
+the multiplication|DT NN|BODY_6:BODY_5:BODY_3|0
+a situation|DT NN|BODY_6:BODY_16|0
+inary parts|JJ NNS|BODY_5|0
+overflow return|NN NN|BODY_17:BODY_24|0
+fringe|NN|BODY_48|0
+the criterion|DT NN|BODY_14:BODY_8|0
+use|NN|BODY_2:BODY_3|0
+formulas|NNS|BODY_4|0
+table i.|NN NN|BODY_6:BODY_4|0
+an alternative|DT NN|BODY_5:BODY_26|0
+contract w-31-109-eng-38|NN NNS|BODY_12|0
+group|NN|BODY_5|0
+of|IN|BODY_2:BODY_4|0
+correctly rounded results|RB JJ NNS|BODY_5|0
+random exponents|JJ NNS|BODY_6|0
+other values|JJ NNS|BODY_5|0
+areas|NNS|BODY_49|0
+approximate cos( x )|JJ NN NN -RRB-|BODY_2|0
+pipelined machines|JJ NNS|BODY_5|0
+9700 south cass ave|CD JJ NN NN|BODY_14|0
+e ) and scalb(|NN -RRB- CC NNS|BODY_12|0
+the table|DT NN|BODY_3|0
+a test|DT NN|BODY_6:BODY_11|0
+the real and imaginary parts|DT JJ CC JJ NNS|BODY_3:BODY_4|0
+complex numbers|JJ NNS|BODY_6|0
+these implementations|DT NNS|BODY_1:BODY_8|0
+results|NNS|BODY_2|0
+university|NN|BODY_3|0
+the end|DT NN|BODY_7:BODY_9|0
+max( e r|JJ NN NN|BODY_12:BODY_5:BODY_18|0
+production|NN|BODY_2|0
+u.|NNP|BODY_9|0
+the first term|DT JJ NN|BODY_6:BODY_3|0
+discussions|NNS|BODY_2|0
+members|NNS|BODY_3|0
+cos(y )|JJ -RRB-|BODY_11|0
+op|NN|BODY_6:BODY_3|0
+' addresses|POS NNS|BODY_2|0
+an integer value|DT NN NN|BODY_2|0
+authors|NNS|BODY_1|0
+e. hull|FW NN|BODY_1|0
+t.|NN|BODY_2|0
+the first returns|DT JJ NNS|BODY_1|0
+the absolute value function|DT JJ NN NN|BODY_40:BODY_3|0
+department|NN|BODY_10|0
+this work|DT NN|BODY_1|0
+entry|NN|BODY_3|0
+the kinds|DT NNS|BODY_4|0
+the range reduction|DT NN NN|BODY_16:BODY_17:BODY_18|0
+serious cancellation|JJ NN|BODY_28:BODY_4|0
+e r and e i|NN NN CC NN NN|BODY_5:BODY_8|0
+interrupts|NNS|BODY_4|0
+relative error|JJ NN|BODY_4:BODY_8|0
+exp( x|JJ NN|BODY_8|0
+the function subprograms|DT NN NNS|BODY_4|0
+the cancellation|DT NN|BODY_5:BODY_13|0
+canada|NN|BODY_3|0
+the office|DT NN|BODY_7|0
+at most ffl 2|IN JJS NN CD|BODY_21|0
+the real sine and cosine functions|DT JJ NN CC NN NNS|BODY_2:BODY_10|0
+an approximation|DT NN|BODY_3:BODY_8|0
+the situation|DT NN|BODY_2:BODY_4|0
+ffl|NN|BODY_26:BODY_3|0
+overflows|NNS|BODY_9|0
+the calculation|DT NN|BODY_8:BODY_9|0
+any way|DT NN|BODY_8|0
+csqrt sqrt cexp|JJ NN NN|BODY_4|0
+log1p( x )|JJ SYM -RRB-|BODY_2:BODY_7|0
+the formula|DT NN|BODY_6:BODY_10|0
+existing languages|VBG NNS|BODY_2|0
+the first part|DT JJ NN|BODY_18:BODY_15:BODY_20|0
+energy research|NN NN|BODY_8|0
+the natural sciences and engineering research council|DT JJ NNS CC NN NN NN|BODY_2|0
+the single precision versions|DT JJ NN NNS|BODY_3|0
+f r and f|NN NN CC NN|BODY_3|0
+cot( x|JJ NN|BODY_2|0
+higher precision|JJR NN|BODY_2|0
+care|NN|BODY_1:BODY_3|0
+good coverage|JJ NN|BODY_7|0
+0 return answer fig|CD NN NN NN|BODY_26|0
+the fact|DT NN|BODY_47|0
+e r|NN NN|BODY_20:BODY_9|0
+toronto|CD|BODY_4|0
+the last place|DT JJ NN|BODY_41:BODY_17:BODY_4|0
+very extensive random testing|RB JJ JJ NN|BODY_8|0
+subroutine [6|JJ NNS|BODY_3|0
+special implementations|JJ NNS|BODY_2:BODY_1|0
+f r r r|NN NN NN NN|BODY_3|0
+some fringe|DT NN|BODY_32:BODY_31:BODY_2:BODY_3|0
+abs(y|NN|BODY_18:BODY_24|0
+many|JJ|BODY_2|0
+one component|CD NN|BODY_38:BODY_8|0
+handlers|NNS|BODY_7|0
+e log|NN NN|BODY_29:BODY_8|0
+table i|NN NN|BODY_1:BODY_8|0
+x and y such|NN CC NN JJ|BODY_7|0
+the log1p function|DT NN NN|BODY_2|0
+computer science division|NN NN NN|BODY_12|0
+such a small amount|JJ DT JJ NN|BODY_10|0
+within a factor|IN DT NN|BODY_5:BODY_9|0
+those values|DT NNS|BODY_6|0
+little use|JJ NN|BODY_2|0
+handler|NN|BODY_12|0
+sin( x )|JJ NN -RRB-|BODY_5|0
+a rounding error|DT JJ NN|BODY_20|0
+appropriately initialized real oneovere|RB VBN JJ NN|BODY_5|0
+0:5|CD|BODY_6:BODY_7|0
+3.250 2.495 e0723701|CD CD NNS|BODY_3|0
+) underflows|-RRB- NNS|BODY_2|0
+f c r and f c|NN NN NN CC NN NN|BODY_6:BODY_13|0
+basic information|JJ NN|BODY_2|0
+mathematics|NNS|BODY_11|0
+logradix /|NN NNS|BODY_13|0
+the final rounding|DT JJ JJ|BODY_22|0
+particular|JJ|BODY_1:BODY_7|0
+ciseness |NN|BODY_3|0
+scalb(|NNS|BODY_10|0
+the level|DT NN|BODY_2|0
+the other|DT JJ|BODY_6:BODY_8|0
+the observed maximums|DT JJ NNS|BODY_11|0
+precision presents log1p|NN NNS NN|BODY_23|0
+expx siny|JJ NN|BODY_28|0
+sinh(y ) and cosh(y|NN -RRB- CC NN|BODY_7|0
+an obvious way|DT JJ NN|BODY_46|0
+7function possible exceptions|CD JJ NNS|BODY_3|0
+100|CD|BODY_4|0
+exp(y )|NN -RRB-|BODY_5:BODY_10|0
+low else return|JJ JJ NN|BODY_16|0
+these two expressions|DT CD NNS|BODY_19|0
+the input or output|DT NN CC NN|BODY_4|0
+the applied mathematical sciences subprogram|DT VBN JJ NNS NN|BODY_6|0
+the information technology research centre|DT NN NN NN NN|BODY_4|0
+logb( m endif scaledm := scalb( m|JJ NN VBD NN JJ NN NN|BODY_34|0
+fortran 90 [4]|JJ CD NN|BODY_8|0
+low endif return answer fig|JJ JJ NN NN NN|BODY_29|0
+f(z|NN|BODY_3|0
+the factor|DT NN|BODY_5|0
+( domainerror ) real y real e|-LRB- NN -RRB- JJ NN JJ NN|BODY_4|0
+special attention|JJ NN|BODY_6:BODY_1|0
+multiplication|NN|BODY_11|0
+reasoning|NN|BODY_5|0
+the ieee handler  trap-handling facility|DT NN NN NN NN NN|BODY_3|0
+\gammascale ) scaledr := scaledm|NN -RRB- NN JJ NN|BODY_36|0
+this context|DT NN|BODY_5|0
+the rounded floating-point approximation|DT JJ NN NN|BODY_3|0
+) sinh(y ) handle|-RRB- NN -RRB- NN|BODY_14|0
+t logbx|NN NN|BODY_28|0
+normalized real floating-point numbers|JJ JJ JJ NNS|BODY_5:BODY_7|0
+our algorithms|PRP$ NNS|BODY_2:BODY_8|1
+complex functions|JJ NNS|BODY_2|0
+(e-mail|NN|BODY_7|0
+its real and imaginary parts|PRP$ JJ CC JJ NNS|BODY_4|0
+a binary machine|DT JJ NN|BODY_2|0
+a straightforward matter|DT JJ NN|BODY_2|0
+these formulas|DT NNS|BODY_2|0
+such constructs|JJ NNS|BODY_3:BODY_4|0
+\gammascale ) scaledm := scalb( m|NN -RRB- NN JJ NN NN|BODY_35|0
+ieee binary arithmetic [3|JJ JJ NN NNS|BODY_9|0
+the former|DT JJ|BODY_6:BODY_2|0
+the scaled value|DT VBN NN|BODY_5:BODY_1|0
+the needed exception handling|DT VBN NN NN|BODY_2|0
+a more efficient way|DT RBR JJ NN|BODY_2|0
+0 answer :imagpart|CD NN NN|BODY_27|0
+significant digits|JJ NNS|BODY_4|0
+sqrt( x|JJ NN|BODY_24|0
+the complex func|DT JJ NN|BODY_7|0
+cosh(y ) and sinh(y|NN -RRB- CC NN|BODY_39|0
+the appropriate range|DT JJ NN|BODY_28:BODY_15|0
+the calculated approximation|DT VBN NN|BODY_4|0
+this situation|DT NN|BODY_6|0
+log(z )|NN -RRB-|BODY_4|0
+'s double precision functions|POS JJ NN NNS|BODY_8|0
+our purpose|PRP$ NN|BODY_2|0
+simply log( m )|RB JJ NN -RRB-|BODY_6|0
+underflow ) real x|VB -RRB- JJ NN|BODY_6|0
+the induced error|DT JJ NN|BODY_3|0
+integer scale complex answer real sqrt2|VBN NN JJ NN JJ NN|BODY_12|0
+f l r|NN NN JJ|BODY_2|0
+reliable and accurate evaluations|JJ CC JJ NNS|BODY_5:ABSTRACT_2:BODY_4|0
+the errors and error bounds|DT NNS CC NN NNS|BODY_4|0
+any indication|DT NN|BODY_2|0
+integer precision|VBN NN|BODY_14|0
+the sun system [6|DT NN NN NNS|BODY_4|0
+cabs , csqrt , cexp , clog , csin|NNS , NN , NN , NN , NN|BODY_9|0
+\gammalogbx ) scaledy := scalb(y|NN -RRB- NN JJ NN|BODY_31|0
+the cosine function|DT NN NN|BODY_2|0
+the machine representations|DT NN NNS|BODY_5|0
+any path|DT NN|BODY_18|0
+a special procedure|DT JJ NN|BODY_4|0
+) coshy|-RRB- JJ|BODY_20|0
+real x|JJ NN|BODY_10|0
+an integer|DT NN|BODY_5|0
+) cosh(y ) answer :imagpart|-RRB- NN -RRB- NN NN|BODY_12|0
+that argument|DT NN|BODY_13:BODY_4|0
+expx cos(y ) answer :imagpart|JJ NN -RRB- NN NN|BODY_10|0
+sun systems [6|NN NNS NNS|BODY_8|0
+0 answer :imagpart := sqrt(\gammax ) endif|CD NN NN NN NN -RRB- NN|BODY_27|0
+\gammaevennearlogbx ) scaledt := sqrt(|NN -RRB- NN NN JJ|BODY_40|0
+our conventions|PRP$ NNS|BODY_2|0
+one version|CD NN|BODY_2|0
+the right hand side|DT JJ NN NN|BODY_3|0
+those arguments|DT NNS|BODY_4|0
+that spurious overflow or underflow|DT JJ NN CC NN|BODY_2|0
+others|NNS|BODY_3|0
+the same time|DT JJ NN|BODY_6|0
+the real arithmetic|DT JJ NN|BODY_5:BODY_3|0
+the tangent|DT NN|BODY_7|0
+) sinhy|-RRB- NN|BODY_23|0
+moronic ) complex elementary functions|JJ -RRB- JJ JJ NNS|BODY_2|0
+canada m5s|NN NNS|BODY_6|0
+provision|NN|BODY_3|0
+hexadecimal form|JJ NN|BODY_5|0
+this argument cabs2 2:25e +e sqrt|DT NN NN JJ NN NN|BODY_2|0
+only a small multiple|RB DT JJ NN|BODY_2|0
+the handle block|DT NN NN|BODY_11|0
+q|NNS|BODY_13:BODY_7|0
+three special cases|CD JJ NNS|BODY_46:BODY_1|0
+the result overflows|DT NN NNS|BODY_6|0
+3f7ffffc + i3a3504f3|CD JJ NNS|BODY_9|0
+ieee [3|NN NNS|BODY_4|0
+abs(y )=t answer :imagpart := sign(y ) t=2 else answer :realpart|JJ JJ NN NN NN NN -RRB- DT JJ NN NN|BODY_19|0
+\gammaevennearlogbx ) scaledy := scalb(y|NN -RRB- NN NN NN|BODY_39|0
+near 1 scaledx := scalb( x|IN CD NN JJ NN NN|BODY_30|0
+y=t answer :realpart|JJ NN NN|BODY_18|0
+the smaller|DT JJR|BODY_3|0
+high accuracy|JJ NN|BODY_3:BODY_4|0
+the significand|DT NN|BODY_5|0
+) handle return|-RRB- NN NN|BODY_15|0
+such exceptions|JJ NNS|BODY_5:BODY_1|0
+arithmetic (|JJ -LRB-|BODY_5|0
+the additional error|DT JJ NN|BODY_24|0
+the implementation|DT NN|BODY_12|0
+only minor changes|RB JJ NNS|BODY_5|0
+an underflow return|DT JJ VB|BODY_22|0
+the notation|DT NN|BODY_2:BODY_1|0
+their imaginary parts|PRP$ NN NNS|BODY_11|0
+correctness|NN|BODY_1:BODY_4|0
+) answer :imagpart :=|-RRB- NN NN NN|BODY_25|0
+binary representation|JJ NN|BODY_9|0
+correct|JJ|BODY_23|0
+appropriately initialized return domainerror return log( x|RB VBN NN NN NN NN NN|BODY_6|0
+these circumstances|DT NNS|BODY_1:BODY_4|0
+working precision|VBG NN|BODY_4:BODY_9|0
+64 %|CD NN|BODY_2|0
+csin and ccos|NN CC NNS|BODY_3|0
+this assumption|DT NN|BODY_5:BODY_1|0
+the first case|DT JJ NN|BODY_12|0
+the exception flag|DT NN NN|BODY_5|0
+real e|JJ NN|BODY_7|0
+only small multiples|RB JJ NNS|BODY_16:BODY_37|0
+the extra|DT JJ|BODY_23|0
+loss|NN|BODY_6:BODY_1|0
+the first case scaling|DT RB NN NN|BODY_55|0
+the  true  result|DT NNS JJ NNS NN|BODY_11:BODY_26|0
+r sin(|NN NN|BODY_9|0
+( possibly simulated ) high precision arithmetic|-LRB- RB VBN -RRB- JJ NN NN|BODY_15|0
+both )|DT -RRB-|BODY_4:BODY_7|0
+this formula|DT NN|BODY_38:BODY_9|0
+both|DT|BODY_2|0
+cotangent terms|JJ NNS|BODY_8|0
+cosh(y ) or sinh(y )|NN -RRB- CC NN -RRB-|BODY_5:BODY_2|0
+evennearlogbx integer precision|RB NN NN|BODY_14|0
+the ieee|DT NN|BODY_8|0
+our system|PRP$ NN|BODY_2|0
+real sqrt2|JJ NNS|BODY_11|0
+a cosine approximation|DT NN NN|BODY_10|0
+\deltaf (z )=f(z )|NN NN NN -RRB-|BODY_3|0
+its value|PRP$ NN|BODY_13|0
+this calculation|DT NN|BODY_8|0
+logby|NN|BODY_13|0
+possibly a small multiple|RB DT JJ NN|BODY_8|0
+handle fig|NN NN|BODY_5|0
+no cancellation|DT NN|BODY_3:BODY_9|0
+the six complex elementary functions|DT CD JJ JJ NNS|BODY_8|1
+\deltaz=z|NN|BODY_7|0
+( overflow|-LRB- NN|BODY_5|0
+( domainerror ) real x|-LRB- NN -RRB- JJ NN|BODY_11|0
+:= z :realpart y := z :imagpart return domainerror|JJ FW NN NN JJ FW NN NN NN|BODY_16|0
+m and m|NN CC NN|BODY_4|0
+real numbers|JJ NNS|BODY_6|0
+simpler|JJR|BODY_2|0
+any further detail|DT JJ NN|BODY_2|0
+that corresponding error bounds|IN JJ NN NNS|BODY_5|0
+the flags|DT NNS|BODY_3|0
+the logb and scalb functions|DT NN CC NN NNS|BODY_2|0
+the referees|DT NNS|BODY_2|0
+these  true  results|DT NNS JJ NNS NNS|BODY_2|0
+these fringe values|DT NN NNS|BODY_2|0
+this problem|DT NN|BODY_19|0
+these criteria|DT NNS|BODY_45|0
+no underflow|DT JJ|BODY_3|0
+ffl -=2|JJ NN|BODY_22|0
+x real and n|NNP JJ CC RB|BODY_4|0
+z = x+iy|FW SYM NN|BODY_3|0
+z re i'|FW NN NNS|BODY_3|0
+expx := exp( x ) answer :realpart|JJ NN NN NN -RRB- NN NN|BODY_9|0
+one extreme case|CD JJ NN|BODY_2|0
+( j x j)c|-LRB- NN NN NN|BODY_2|0
+the component|DT NN|BODY_6|0
+our tests|PRP$ NNS|BODY_14|0
+the determination|DT NN|BODY_11|0
+those|DT|BODY_7|0
+a component|DT NN|BODY_2|0
+:= z :realpart y := z :imagpart|JJ FW NN NN JJ FW NN|BODY_10|0
+\gammae 3|NNS CD|BODY_15|0
+j y|NN NN|BODY_7:BODY_9|0
+2 +m|CD NN|BODY_6|0
+effect|NN|BODY_6|0
+each example|DT NN|BODY_7|0
+the transfer|DT NN|BODY_3:BODY_8|0
+necessary|JJ|BODY_2|0
+overflow and underflow|NN CC NN|BODY_3|0
+the theoretical error|DT JJ NN|BODY_18:BODY_7|0
+the 4 semi-axes|DT CD NNS|BODY_3|0
+the radix and precision|DT NN CC NN|BODY_13|0
+logby integer precision|RB NN NN|BODY_8|0
+the smallest positive machine representable number|DT JJS JJ NN JJ NN|BODY_38|0
+these tests|DT NNS|ABSTRACT_2|0
+the floating point operations|DT VBG NN NNS|BODY_7|0
+this enormous error|DT JJ NN|BODY_8|0
+expx cosy answer :imagpart :=|JJ JJ NN NN NN|BODY_25|0
+max(abs( x )|JJ NN -RRB-|BODY_17|0
+one possibility|PRP NN|BODY_3|0
+the alternative program|DT NN NN|BODY_6|0
+the form|DT NN|BODY_5|1
+sine and cosine approximations|NN CC NN NNS|BODY_20|0
+a good strategy|DT JJ NN|BODY_3|0
+figure 3|NN CD|BODY_28:BODY_7|0
+sun systems|NN NNS|BODY_3:BODY_10|0
+fortran 90|NN CD|BODY_6|0
+the remainder|DT NN|BODY_8|0
+only single precision|RB JJ NN|BODY_12:BODY_6|0
+both effectively equal exp(y )=2|DT RB JJ NN NN|BODY_8|0
+logb(|JJ|BODY_29|0
+underflow scale|JJ NN|BODY_33|0
+that abs( x )|IN JJ NN -RRB-|BODY_29|0
+an auxiliary procedure|DT JJ NN|BODY_2:BODY_7|0
+trapping and exception flags|NN CC NN NNS|BODY_7|0
+the number|DT NN|BODY_3|0
+1:000 1:000|CD CD|BODY_4|0
+a bound|DT VBN|BODY_16:BODY_8|0
+the sign|DT NN|BODY_5:BODY_19|0
+possible returns|JJ NNS|BODY_4|0
+pseudo-code programs|JJ NNS|BODY_6|1
+a representable real value|DT JJ JJ NN|BODY_13|0
+this procedure|DT NN|BODY_9|0
+2 ( sqrt(scaledx \lambda2 +scaledy endif answer :realpart := t=2|CD -LRB- NN NN NN NN NN NN NN DT|BODY_41|0
+the mathematical specification|DT JJ NN|BODY_2|0
+the constant sqrt2|DT JJ NN|BODY_13|0
+j x j|RB SYM RB|BODY_1:BODY_4|0
+such cases|JJ NNS|BODY_2:BODY_3|0
+some ffl|DT NN|BODY_14|0
+none|NN|BODY_9|0
+the overflow|DT NN|BODY_5|0
+fortran 77 and fortran 90|JJ CD CC JJ CD|BODY_6:BODY_9|1
+a separate subsection|DT JJ NN|BODY_11|0
+m 2 +m|NN CD NN|BODY_1:BODY_2|0
+other arithmetic systems|JJ JJ NNS|BODY_10|0
+either one|DT CD|BODY_1:BODY_4|0
+block|NN|BODY_2:BODY_4|0
+ulpdown|NN|BODY_39|0
+the two terms|DT CD NNS|BODY_11|0
+the generated assembly language instructions|DT VBN NN NN NNS|BODY_2|0
+two functions|CD NNS|BODY_4|0
+the sum|DT NN|BODY_18|0
+. 6|. CD|BODY_30|0
+a more accurate implementa|DT RBR JJ NN|BODY_2|0
+the number system|DT NN NN|BODY_14|0
+fortran 77 [1 ]|JJ CD CD NN|BODY_7|0
+the corresponding calculated approximations|DT JJ JJ NNS|BODY_7|0
+not|RB|BODY_54|0
+98 %|CD NN|BODY_3|0
+exponent e|NN NN|BODY_6|0
+some pretest- ing|DT NNS NN|BODY_4|0
+our con-|PRP$ NNS|BODY_4|0
+spurious overflow or underflow|JJ JJ CC JJ|BODY_56|0
+the main difficulty|DT JJ NN|BODY_3|0
+either ( 1|DT -LRB- CD|BODY_24|0
+underflow maxmag|NN NN|BODY_16|0
+answer :realpart := scale logradix|NN NN JJ NN NN|BODY_37|0
+ccos|NNS|BODY_10:ABSTRACT_10|0
+e atan|NN NN|BODY_22|0
+accurately as possible|RB IN JJ|BODY_10|0
+conditions|NNS|BODY_3|0
+our|PRP$|BODY_3|0
+log(y ) endif fig|NN -RRB- NN NN|BODY_8|0
+the resulting real part|DT VBG JJ NN|BODY_5|0
+rounding errors|JJ NNS|BODY_6|0
+considerations|NNS|BODY_4|0
+fortran 77 ( compiler version|JJ CD -LRB- NN NN|BODY_8|0
+t=2 answer :imagpart|DT NN NN|BODY_17|0
+temp answer :imagpart := sign(y ) temp endif handle|JJ NN NN NN NN -RRB- JJ NN NN|BODY_20|0
+an ieee environment [3]|DT JJ NN NN|BODY_7|0
+the underflowed part|DT JJ NN|BODY_5:BODY_3|0
+j ffl j|JJ NN JJ|BODY_15|0
+the sun library (version|DT NN NN NN|BODY_7|0
+theoretical error|JJ NN|BODY_6|0
+2:886|CD|BODY_2|0
+the impre|DT NN|BODY_2|0
+ping tak peter tang|NN NN NN NN|BODY_10|0
+the second function|DT JJ NN|BODY_3|0
+the above expression|DT JJ NN|BODY_9|0
+extensive testing|JJ NN|BODY_8|0
+j z j|RB FW RB|BODY_4|0
+cos(y ) and sin(y )|NN -RRB- CC NN -RRB-|BODY_12|0
+imaginary parts|JJ NNS|BODY_35|0
+sin(z )|NN -RRB-|BODY_36|0
+answer :imagpart := arg(z )|NN NN JJ NN -RRB-|BODY_17|0
+huge|JJ|BODY_18|0
+a tight error|DT JJ NN|ABSTRACT_1|0
+the original carefully arranged formulas|DT JJ RB VBN NNS|BODY_3|0
+these ways briefly|DT NNS NN|BODY_3|0
+zero answer :realpart|CD NN NN|BODY_24|0
+( \gamma-=4|-LRB- NN|BODY_11|0
+low endif cosy := cos(y ) siny := sin(y|JJ JJ JJ NN NN -RRB- NN NN NN|BODY_17|0
+near 1|IN CD|BODY_9|0
+the choice|DT NN|BODY_12|0
+2.2 errors|CD NNS|BODY_19|0
+the two elsif clauses|DT CD JJ NNS|BODY_6|0
+temp answer :imagpart := sign(y ) temp answer :realpart|JJ NN NN NN NN -RRB- JJ NN NN|BODY_23|0
+a notation|DT NN|BODY_3|0
+all non-exceptional results|DT JJ NNS|BODY_2|0
+the absence|DT NN|BODY_1|0
+6:495 and 4:457|CD CC NNS|BODY_3|0
+column 4|NN CD|BODY_2|0
+that exceptions|DT NNS|BODY_27|0
+expx|JJ|BODY_13|0
+the observed bounds|DT JJ NNS|BODY_1:BODY_3|0
+expx sin(y ) handle|JJ NN -RRB- NN|BODY_11|0
+the type|DT NN|BODY_3|0
+the standard rounding mode|DT JJ JJ NN|BODY_3|0
+equal x|JJ NN|BODY_2|0
+enough|RB|BODY_2|0
+an argument|DT NN|BODY_24|0
+the default case|DT NN NN|BODY_7|0
+even exponent evennearlogbx scaledx := scalb( x|RB JJ RB NN NN NN NN|BODY_38|0
+the required approximation|DT VBN NN|BODY_4|0
+the exponent and fraction part|DT NN CC NN NN|BODY_4:BODY_9|0
+the single precision real elementary functions|DT JJ NN JJ JJ NNS|BODY_6|0
+only 2:292e|RB JJ|BODY_12|0
+j arg(z ) j|NN NN -RRB- NN|BODY_13|0
+some languages|DT NNS|BODY_2|0
+the time answer|DT NN NN|BODY_14|0
+most calculations|JJS NNS|BODY_2|0
+\gammalogbx ) scaledanswer := sqrt(scaledx \lambda2|NN -RRB- NN JJ NN CD|BODY_32|0
+the test|DT NN|BODY_21|0
+the main difficulties|DT JJ NNS|BODY_1|0
+log1p( x|JJ NN|BODY_13|0
+slightly more efficient|RB RBR JJ|BODY_4|0
+the course|DT NN|BODY_8|0
+an|DT|BODY_4|0
+the second part|DT JJ NN|BODY_21|0
+accuracy|NN|BODY_2:BODY_7|0
+real and imaginary parts|JJ CC JJ NNS|BODY_5|0
+neither component|DT NN|BODY_22|0
+1= log(z|JJ NN|BODY_6|0
+f l (y=x )|NN JJ NN -RRB-|BODY_25|0
+large errors|JJ NNS|BODY_3|0
+the error contributions|DT NN NNS|BODY_6|0
+double precision|JJ NN|BODY_4|0
+how accurate|WRB JJ|BODY_9|0
+any value|DT NN|BODY_14|0
+the exponents|DT NNS|BODY_3|0
+ftehull ,tffg@cs|JJ NNS|BODY_8|0
+therefore f l|RB NN JJ|BODY_6|0
+our interpretation|PRP$ NN|BODY_2|0
+1:000 1:152 1:102 2:326|CD CD CD CD|BODY_3|0
+the sign conventions|DT NN NNS|BODY_3|0
+complex exponentiation|JJ NN|BODY_10|0
+the simplest formula|DT JJS NN|BODY_11|0
+( efficiency|-LRB- NN|BODY_1|0
+jim cody|NN NN|BODY_1|0
+our investigation|PRP$ NN|BODY_3|0
+our pseudo-code|PRP$ NN|BODY_1:BODY_3|0
+partial ieee double precision|JJ JJ JJ NN|BODY_3|0
+random imag- table ii|JJ NNS NN NNS|BODY_3|0
+section 3|NN CD|BODY_1|0
+sp and pdp stand|NN CC JJ NN|BODY_1|0
+the next section|DT JJ NN|BODY_3|0
+the random arguments|DT JJ NNS|BODY_1|0
+only one does|RB CD VBZ|BODY_2|0
+the first exception|DT JJ NN|BODY_6|0
+) else|-RRB- RB|BODY_25|0
+a sun 4/40|DT NN CD|BODY_7|0
+within handlers|IN NNS|BODY_5|0
+this overflows or underflows|DT NNS CC NNS|BODY_6|0
+scalb return|NN NN|BODY_37|0
+an appropriate exception|DT JJ NN|BODY_10|0
+ulpup|NN|BODY_15|0
+the pseudo-code descriptions|DT JJ NNS|BODY_5|0
+the arithmetic|DT NN|BODY_6:BODY_8|0
+these relative error bounds|DT JJ NN NNS|BODY_7|0
+these calculations|DT NNS|BODY_9|0
+a reasonably accurate log1p function|DT RB JJ NN NN|BODY_4|1
+answer :realpart :=|NN NN NN|BODY_50|0
+more than|JJR IN|BODY_3|0
+an implementation|DT NN|BODY_9|0
+smaller|JJR|BODY_23|0
+a maximum|DT NN|BODY_12|0
+the previous subsection|DT JJ NN|BODY_21|0
+the two|DT CD|BODY_28|0
+its observed overall relative error|PRP$ JJ JJ JJ NN|BODY_9|0
+y=x|NN|BODY_29|0
+ieee environments|JJ NNS|BODY_8|0
+the radix|DT NN|BODY_18|0
+first we|JJ PRP|BODY_5|0
+2:886e+e log|JJ NN|BODY_15|0
+) and cos( x )|-RRB- CC NN SYM -RRB-|BODY_6|0
+endif endif return answer fig|JJ JJ NN NN NN|BODY_38|0
+arg(z )|NN -RRB-|BODY_11|0
+the maximum and minimum|DT NN CC NN|BODY_15|0
+a normalized complex floating-point number|DT JJ JJ JJ NN|BODY_8|0
+these special cases|DT JJ NNS|BODY_9|0
+approximate directly|JJ RB|BODY_56|0
+the real part answer :realpart|DT JJ NN NN NN|BODY_20|0
+the observed bound|DT VBN VBN|BODY_5|0
+an option|DT NN|BODY_2|0
+these results|DT NNS|BODY_5|0
+possible values|JJ NNS|BODY_3|0
+\gamma-:|NNS|BODY_7|0
+values or returns|NNS CC NNS|BODY_8|0
+the output|DT NN|BODY_6|0
+instead|RB|BODY_14|0
+a sine|DT NN|BODY_9|0
+0 answer :imagpart := sign(y ) t=2 endif|CD NN NN NN NN -RRB- DT NN|BODY_51|0
+any such calculation|DT JJ NN|BODY_12|0
+the special form|DT JJ NN|BODY_5|0
+the program expression x y sqrt( x ) , or f l (xy p x )|DT NN NN NN NN NN NN -RRB- , CC NN JJ NN NN NN -RRB-|BODY_3|0
+logbx )|NN -RRB-|BODY_35|0
+the square root function first attempts|DT JJ NN NN JJ NNS|BODY_55|0
+the value xy|DT NN NN|BODY_4|0
+exits|NNS|BODY_2|0
+1:5|CD|BODY_14|0
+column 3|NN CD|BODY_10|0
+'s atan2(y ;x )|POS JJ NN -RRB-|BODY_10|0
+some standard way|DT JJ NN|BODY_12|0
+any possibility|DT NN|BODY_5|0
+either case|DT NN|BODY_16|0
+the bound e -=2|DT JJ NN NN|BODY_21|0
+log(y )|JJ -RRB-|BODY_7|0
+arg answer :imagpart return answer|JJ NN NN NN NN|BODY_19|0
+low|JJ|BODY_21|0
+sort|NN|BODY_3|0
+the corresponding double precision results|DT JJ JJ NN NNS|BODY_3|0
+similar expressions|JJ NNS|BODY_1|0
+first introduce m and m|JJ VB NN CC NN|BODY_14|0
+. 9|. CD|BODY_27|0
+note|NN|BODY_21|0
+no more|DT JJR|BODY_4|0
+each component|DT NN|BODY_12|0
+these real operations|DT JJ NNS|BODY_5|0
+sqrt(|JJ|BODY_14|0
+first finding x|JJ NN SYM|BODY_7|0
+a comparison|DT NN|BODY_1|0
+figures|NNS|BODY_6|0
+returns|NNS|BODY_7|0
+a narrow fringe |DT JJ NN|BODY_2|0
+separated points|JJ NNS|BODY_5|0
+only real arithmetic|RB JJ NN|BODY_5|0
+approximately zf 0 (z )=f(z ) times|RB JJ CD NN NN -RRB- NNS|BODY_4|0
+f(z )|NN -RRB-|BODY_2|0
+6:495|CD|BODY_11|0
+the version|DT NN|BODY_1:BODY_10|0
+the difficulty|DT NN|BODY_9|0
+figure 8|NN CD|BODY_8|0
+figure 9|NN CD|BODY_37|0
+underflow answer :imagpart|JJ NN NN|BODY_25|0
+2 log 2|CD NN CD|BODY_7|0
+the practicality|DT NN|ABSTRACT_3|0
+a matter|DT NN|BODY_4|0
+exception ( overflow|NN -LRB- NN|BODY_4|0
+the rounded value|DT JJ NN|BODY_3|0
+the magnitude|DT NN|BODY_8|0
+a simple way|DT JJ NN|BODY_3|1
+tabular form|JJ NN|BODY_3|0
+1+ ffl|JJ NN|BODY_14|0
+this subsection|DT NN|BODY_9|0
+some intermediate stages|DT JJ NNS|BODY_8|0
+'=2 ) r r|POS -RRB- NN NN|BODY_10|0
+r e|NN NN|BODY_8|0
+the unfortunate fact|DT JJ NN|BODY_9|0
+f r f r r r r|NN NN NN NN NN NN NN|BODY_11|0
+about 5 %|IN CD NN|BODY_2|0
+the precisions|DT NNS|BODY_19|0
+the complex log function|DT JJ NN NN|BODY_2|0
+issues|NNS|BODY_1|0
+section|NN|BODY_5|0
+the largest error|DT JJS NN|BODY_4|0
+( \gamma1|-LRB- NNS|BODY_28|0
+( n\gamma1 )=2 cos(|-LRB- NNS NN NN|BODY_29|0
+any exceptions|DT NNS|BODY_2|0
+cos( x )|JJ NN -RRB-|BODY_3|0
+2:165e neglect small multiples|JJ VB JJ NNS|BODY_30|0
+double the working precision|JJ DT NN NN|BODY_7|0
+max|NN|BODY_12:BODY_25|0
+exception flags|NN NNS|BODY_6|0
+another|DT|BODY_3|0
+bits|NNS|BODY_10|0
+max ( j (n-=2 ) tan( x|NN -LRB- JJ NN -RRB- NN NN|BODY_4|0
+this approach|DT NN|BODY_1:BODY_3|0
+answer := scalb(scaledanswer|NN JJ NN|BODY_34|0
+j arg(z )|NN NN -RRB-|BODY_18|0
+that j log( m|DT NN NN NN|BODY_5|0
+good approximations|JJ NNS|BODY_4|0
+advance|NN|BODY_5|0
+l log1p|NN NN|BODY_4|0
+the clog function|DT NN NN|BODY_8|0
+the following|DT VBG|BODY_3|0
+the following overall relative error|DT VBG JJ JJ NN|BODY_7|0
+maxmag temp handle|NN NN NN|BODY_23|0
+af order resd-632|NN NN NNS|BODY_14|0
+any parallelism|DT NN|BODY_7|0
+appropriate ranges|JJ NNS|BODY_8|0
+cexp , csin and ccos|NN , NN CC NNS|BODY_51|0
+e )|NN -RRB-|BODY_14|0
+gil myers|NN NNS|BODY_7|0
+il u.s.a.|JJ NN|BODY_16|0
+the error analyses|DT NN NNS|BODY_8|0
+the sort|DT NN|BODY_1|0
+their sum|PRP$ NN|BODY_14|0
+common practice|JJ NN|BODY_14|0
+sin and cos needs|NN CC NNS NNS|BODY_5|0
+the interval ( \gamma-=4|DT NN -LRB- NN|BODY_35|0
+the final mathematical result|DT JJ JJ NN|BODY_3|0
+the exceptional case|DT JJ NN|BODY_3|0
+f. fairgrieve , department|DT JJ , NN|BODY_1|0
+z easily|FW RB|BODY_6|0
+e such|NN JJ|BODY_11|0
+min ( j f r and min ( j f r|NN -LRB- NN NN NN CC NN -LRB- NN NN NN|BODY_36|0
+absolute value|JJ NN|BODY_16|0
+this quantity|DT NN|BODY_5|0
+this unscaling|DT NN|BODY_5|0
+its components|PRP$ NNS|BODY_5|0
+these computations|DT NNS|BODY_16|0
+only one relatively common case|RB CD RB JJ NN|BODY_3|0
+log( x )|JJ SYM -RRB-|BODY_8|0
+our bounds|PRP$ NNS|BODY_2|0
+observed bounds|JJ NNS|BODY_5|0
+addition|NN|BODY_1|0
+their correctness|PRP$ NN|BODY_10|0
+errors (|NNS -LRB-|BODY_5|0
+quite a bit|RB DT NN|BODY_3|0
+those cases|DT NNS|BODY_7|0
+the relatively large discrepancy|DT RB JJ NN|BODY_3|0
+any such case|DT JJ NN|BODY_4|0
+.e|NN|BODY_14|0
+max( j x|JJ NN NN|BODY_52|0
+whose output|WP$ NN|BODY_2|0
+an expression such|DT NN JJ|BODY_6|0
+over 13 %|IN CD NN|BODY_10|0
+x or y|NN CC NN|BODY_33|0
+figure 1 first looks|NN CD JJ NNS|BODY_2|0
+the quotient ( (y x )=y|DT NN -LRB- JJ NN NN|BODY_4|0
+the relevant real elementary functions|DT JJ JJ JJ NNS|BODY_7|0
+each function|DT NN|BODY_9|0
+f|NN|BODY_1|0
+the complex logarithm function|DT JJ NN VBP|BODY_45|0
+real arithmetic operations|JJ JJ NNS|BODY_4|0
+the simulation|DT NN|BODY_6:BODY_4|0
+the most serious difficulty|DT RBS JJ NN|BODY_5|0
+the handler first deals|DT NN JJ NNS|BODY_33|0
+the overall error|DT JJ NN|BODY_8|0
+within half|IN NN|BODY_2|0
+turn|NN|BODY_6|0
+66 bits|CD NNS|BODY_5|0
+storing p iby2|NN NN NN|BODY_9|0
+very different approach|RB JJ NN|BODY_4|0
+coshy := cosh(y ) sinhy := sinh(y )|JJ NN NN -RRB- NN NN NN -RRB-|BODY_15|0
+x := z :realpart y := z :imagpart|NN NNP FW NN NN NNP FW NN|BODY_12|0
+s|PRP|BODY_6|0
+an even exponent so|DT RB NN IN|BODY_25|0
+figure 5|NN CD|BODY_6:BODY_3|0
+a relative roundoff error|DT JJ NN NN|BODY_10|0
+different occurrences|JJ NNS|BODY_2|0
+a result|DT NN|BODY_6|0
+the individual systems|DT JJ NNS|BODY_6|0
+as follows|RB VBZ|BODY_15|0
+a true overflow|DT JJ NN|BODY_13|0
+the computation|DT NN|BODY_5|0
+the overall approximation|DT JJ NN|BODY_5|0
+. 5|. CD|BODY_53|0
+z whose corresponding real and imaginary parts|FW WP$ JJ JJ CC JJ NNS|BODY_33:BODY_34|0
+pis|NNS|BODY_29|0
+less than double the quite modest bound|RBR IN VB DT RB JJ VBN|BODY_9|0
+the exceptional situation|DT JJ NN|BODY_14|0
+their exponents|PRP$ NNS|BODY_13|0
+detail|NN|BODY_2|0
+complex answer x := z :realpart y := z :imagpart|JJ NN NN NN FW NN NN NN FW NN|BODY_9|0
+the other part|DT JJ NN|BODY_5|0
+the 2:165|DT CD|BODY_10|0
+all relevant single precision arguments|DT JJ JJ NN NNS|BODY_8|0
+x x|SYM SYM|BODY_8|0
+the underflowed value|DT JJ NN|BODY_4|0
+the components underflows|DT NNS NNS|BODY_2|0
+one bound|CD VBN|BODY_6|0
+log( m)|JJ NN|BODY_4|0
+the returned value|DT VBN NN|BODY_11|0
+namely 2:25e 4.2 complex square root csqrt|RB JJ CD JJ JJ NN NN|BODY_4|0
+such a result|JJ DT NN|BODY_12|0
+the bounds|DT NNS|BODY_1|0
+y=t handle|JJ NN|BODY_43|0
+the expression ( m|DT NN -LRB- NN|BODY_6|0
+answer :realpart else|NN NN JJ|BODY_25|0
+figure|NN|BODY_5:BODY_4|0
+component values|NN NNS|BODY_3|0
+the component values|DT NN NNS|BODY_2|0
+either sin( x ) or cos( x )|DT JJ NN -RRB- CC JJ NN -RRB-|BODY_9|0
+the paths|DT NNS|BODY_6|0
+that most|IN JJS|BODY_2|0
+z y|FW NN|BODY_5|0
+whether x|IN NN|BODY_59|0
+exponents|NNS|BODY_19|0
+only minor modifications|RB JJ NNS|BODY_4|0
+the floating point exception flags|DT VBG NN NN NNS|BODY_1|0
+this component|DT NN|BODY_3|0
+enough ( depending|RB -LRB- VBG|BODY_14|0
+such an expression|JJ DT NN|BODY_9|0
+section 4 ( csqrt and cexp|NN CD -LRB- NN CC NN|BODY_3|0
+any intermediate results|DT JJ NNS|BODY_3|0
+only those cases|RB DT NNS|BODY_4|0
+m \lambda2 answer :realpart endif return answer fig|NN . NN NN VBD NN NN NN|BODY_43|0
+all machine representable values|DT NN JJ NNS|BODY_13:BODY_26|0
+a normalized real floating-point number|DT JJ JJ JJ NN|BODY_3|0
+i .e|NN NN|BODY_10|0
+less than 10 6|JJR IN CD CD|BODY_15|0
+extensions|NNS|BODY_1|0
+this stage|DT NN|BODY_32|0
+a pseudo-code|DT NN|BODY_5|1
+higher preci- sion|JJR NNS NN|BODY_5|0
+only working precision|RB VBG NN|BODY_5|0
+an easy-to-understand description|DT JJ NN|BODY_2|0
+a correct return|DT JJ VB|BODY_8|0
+j f r j|NN NN NN NN|BODY_22|0
+e cos(\gamma-=4;-=4|NN NNS|BODY_4|0
+) underflow|-RRB- NN|BODY_4|0
+the other real elementary functions|DT JJ JJ JJ NNS|BODY_9|0
+that approach|DT NN|BODY_11|0
+this difficulty|DT NN|BODY_2|0
+no use|DT NN|BODY_6|0
+only 2:650|JJ CD|BODY_18|0
+j m|NN NN|BODY_5|0
+their evaluation|PRP$ NN|BODY_4|0
+the exceptions|DT NNS|BODY_22|0
+say|NN|BODY_5|0
+fortran 77 and fortran 9|JJ CD CC JJ CD|ABSTRACT_4|0
+those bounds|DT VBZ|BODY_7|0
+abs(y )=t handle|JJ JJ NN|BODY_48|0
+answer :imagpart :=|NN NN NN|BODY_45|0
+4.3 complex exponential cexp|CD JJ JJ NN|BODY_4|0
+input values|NN NNS|BODY_3|0
+3:250: ) special mention|NN -RRB- JJ NN|BODY_21|0
+another 0:5ffl|DT NN|BODY_4|0
+another ffl|DT NN|BODY_8|0
+this value|DT NN|BODY_4|0
+more serious cancellation|RBR JJ NN|BODY_17|0
+the entire calculation|DT JJ NN|BODY_3|0
+hence|RB|BODY_8|0
+the one case|DT CD NN|BODY_4|0
+no possibility|DT NN|BODY_9|0
+answer :=|NN JJ|BODY_22|0
+then an accurate approximation|RB DT JJ NN|BODY_9|0
+l (|NN -LRB-|BODY_1|0
+a further division|DT JJ NN|BODY_2|0
+a useful bound|DT JJ JJ|BODY_7|0
+the error formula|DT NN NN|BODY_2|0
+0:5 log( m handle|CD NN NN NN|BODY_22|0
+the real and function possible exceptions|DT JJ CC NN JJ NNS|BODY_7|0
+complex elementary functions|JJ JJ NNS|TITLE_1|0
+a significant difference|DT JJ NN|BODY_2|0
+expressions|NNS|BODY_5|0
+section 2|NN CD|BODY_1|0
+course e sincos|NN NN NNS|BODY_2|0
+required|JJ|BODY_13|0
+how errors|WRB NNS|BODY_31|0
+e z|NN NN|BODY_12|0
+another pretest|DT NN|BODY_14|0
+affect log1p|VB NN|BODY_33|0
+the corresponding scaled result|DT JJ VBN NN|BODY_3|0
+extreme cases|JJ NNS|BODY_17|0
+their double precision implementations|PRP$ JJ NN NNS|BODY_6|0
+only about 5 %|RB IN CD NN|BODY_7|0
+its maximum value|PRP$ JJ NN|BODY_5|0
+( j (n-=2 ) tan( x )|-LRB- NN NN -RRB- NN NN -RRB-|BODY_3|0
+a real elementary function log1p( x|DT JJ JJ NN NN SYM|BODY_5|0
+mostly random input arguments|RB JJ NN NNS|BODY_10|0
+the corresponding expressions|DT JJ NNS|BODY_18|0
+2e+e sqrt|JJ NN|BODY_6|0
+this argument|DT NN|BODY_16|0
+the complex cosine function|DT JJ NN NN|BODY_29|0
+the complex sine function|DT JJ NN NN|BODY_28|0
+such evaluations|JJ NNS|BODY_5|0
+a real elementary log function|DT JJ JJ NN NN|BODY_5|0
+a good discussion|DT JJ NN|BODY_2|0
+the larger exponent )|DT JJR NN -RRB-|BODY_16|0
+1=2|CD|BODY_14|0
+namely f r r r|RB NN NN NN NN|BODY_13|0
+'s|POS|BODY_3|0
+imaginary part|JJ NN|BODY_2|0
+signed zeros|VBD NNS|BODY_2|0
+the function f(z|DT NN NN|BODY_5|0
+all m|DT NN|BODY_32|0
+1 tion|CD NN|BODY_5|0
+points|NNS|BODY_8|0
+only if one|RB IN CD|BODY_2|0
+m 2 +m 1|NN CD NN CD|BODY_12|0
+the best way|DT JJS NN|BODY_4|0
+an overall bound|DT JJ JJ|BODY_8|0
+denormalized numbers|JJ NNS|BODY_7|0
+the last sentence|DT JJ NN|BODY_2|0
+csqrt|NN|ABSTRACT_6|0
+log1p answer :realpart|JJ NN NN|BODY_41|0
+( \gamma1 ) n=2 sin(|-LRB- NNS -RRB- NN JJ|BODY_26|0
+sin( x|JJ SYM|BODY_24|0
+a special case|DT JJ NN|BODY_4|0
+this attempt|DT NN|BODY_61:BODY_2|0
+very exceptional cases|RB JJ NNS|BODY_7|0
+all values|DT NNS|BODY_2|0
+possible|JJ|BODY_39|0
+the only exceptions|DT JJ NNS|BODY_4|0
+the rounded value x|DT JJ NN NN|BODY_3|0
+all other cases|DT JJ NNS|BODY_20|0
+scale and unscale|NN CC JJ|BODY_32|0
+their maximum|PRP$ NN|BODY_7|0
+such critical points|JJ JJ NNS|BODY_3|0
+all our examples|DT PRP$ NNS|BODY_11|0
+6|CD|BODY_1|0
+this idea|DT NN|BODY_1|0
+sin( x ) or cos( x )|JJ SYM -RRB- CC NN SYM -RRB-|BODY_14|0
+an even more stringent requirement|DT RB RBR JJ NN|BODY_2|0
+atan|NN|BODY_27|0
+x 6= 0|NN NN CD|BODY_12|0
+f l ( sin( x|NN JJ -LRB- JJ NN|BODY_21|0
+or not|CC RB|BODY_12|0
+a serious problem|DT JJ NN|BODY_2|0
+approximate z \lambdaw|NN FW FW|BODY_17|0
+j j j|NN NN NN|BODY_16|0
+a j|DT RB|BODY_10|0
+a division|DT NN|BODY_9|0
+1=2 or 2|CD CC CD|BODY_18|0
+at least - e|IN JJS : NN|BODY_6|0
+etc. )|FW -RRB-|BODY_6|0
+a bound e sincos|DT JJ NN NNS|BODY_3|0
+some ffl sqrt|DT JJ NN|BODY_6|0
+1 \gamma e=2|CD NN NN|BODY_5|0
+an error analysis|DT NN NN|BODY_2|0
+0 (z )=f(z )|CD NN NN -RRB-|BODY_9|0
+2e= log 2 +e log|JJ NN CD JJ NN|BODY_63|0
+figure 1|NN CD|BODY_4|0
+the normal component|DT JJ NN|BODY_2|0
+that component|IN NN|BODY_10|0
+pl/1|NNS|BODY_2|0
+p z|NN FW|BODY_5|0
+cexp( w clog(z|JJ JJ NN|BODY_15|0
+3:886 and 3:165|CD CC CD|BODY_3|0
+a particular value|DT JJ NN|BODY_4|0
+our version|PRP$ NN|BODY_2|0
+the previous section|DT JJ NN|BODY_6|0
+the cases|DT NNS|BODY_10|0
+the special cases|DT JJ NNS|BODY_2|0
+a 24-bit binary number|DT JJ JJ NN|BODY_2|0
+case|NN|BODY_18|0
+many special cases|JJ JJ NNS|BODY_1|0
+all the time|PDT DT NN|BODY_13|0
+j u|RB NN|BODY_19|0
+arguments|NNS|BODY_2|0
+a bound e sqrt|DT JJ NN NN|BODY_4|0
+a pseudocode|DT NN|ABSTRACT_2|0
+z ( real part|FW -LRB- JJ NN|BODY_7|0
+such an underflowed part|JJ DT JJ NN|BODY_2|0
+quite arbitrary )|RB JJ -RRB-|BODY_6|0
+a considerably more accurate value|DT RB RBR JJ NN|BODY_14|0
+two cases|CD NNS|BODY_5|0
+this and|DT CC|BODY_2|0
+-=2|NN|BODY_16|0
+no matter|DT NN|BODY_5|0
+e arg|NN NN|BODY_18|0
+the fortran programs|DT JJ NNS|ABSTRACT_4|0
+4.4 complex natural logarithm|CD JJ JJ NN|BODY_1|0
+4.5 complex sine|CD JJ NN|BODY_1|0
+\sigma1|NNP|BODY_6|0
+such an exception|JJ DT NN|BODY_8|0
+no exception handling facility|DT NN VBG NN|BODY_8|0
+only values|RB NNS|BODY_12|0
+a true underflow|DT JJ JJ|BODY_28|0
+these algorithms|DT NNS|BODY_2|0
+a value|DT NN|BODY_32|0
+an algorithm|DT NN|BODY_13|0
+these experimental results|DT JJ NNS|BODY_16|0
+2:886e +e log|JJ JJ NN|BODY_65|0
+4:457e|JJ|BODY_23|0
+neglect terms|NN NNS|BODY_8|0
+the larger range j x|DT JJR NN NN NN|BODY_12|0
+their error|PRP$ NN|BODY_12:ABSTRACT_8|0
+these programs|DT NNS|ABSTRACT_5|0
+alternative calculations|JJ NNS|BODY_4|0
+its sign|PRP$ NN|BODY_17|0
+4:457e +e|JJ NN|BODY_26|0
+both efficient and reasonably accurate|DT JJ CC RB JJ|BODY_8|0
+at most e (|IN JJS NN -LRB-|BODY_4|0
+abs( x )|JJ NN -RRB-|BODY_36|0
+log( 1|NN CD|BODY_7|0
+an overall error|DT JJ NN|BODY_24|0
+j 2 and fflj|NN CD CC RB|BODY_8|0
+1 as|CD IN|BODY_11|0
+one component underflows|CD NN NNS|BODY_30|0
+the four basic arithmetic operations|DT CD JJ NN NNS|BODY_8|0
+the absolute error|DT JJ NN|BODY_3|0
+the conventions|DT NNS|BODY_12|0
+other such constructs|JJ JJ NNS|BODY_8|0
+z (|FW -LRB-|BODY_5|0
+the convention|DT NN|BODY_2|0
+an exception handler|DT NN NN|BODY_6|0
+log( m )|JJ NN -RRB-|BODY_27|0
+that f|WDT NN|BODY_2|0
+obviously no cancellation|RB DT NN|BODY_7|0
+such a calculation|PDT DT NN|BODY_2|0
+the same further division|DT JJ JJ NN|BODY_6|0
+truncation|NN|BODY_12|0
+all internal operations|DT JJ NNS|BODY_3|0
+two places|CD NNS|BODY_2|0
+two remaining difficulties|CD VBG NNS|BODY_2|0
+various ways|JJ NNS|BODY_2|0
+an extra 0:5ffl|DT JJ NN|BODY_2|0
+simply log( m|RB JJ NN|BODY_3|0
+any intermediate calculations|DT JJ NNS|BODY_4|0
+two special functions|CD JJ NNS|BODY_1|0
+how accurately|WRB RB|BODY_60|0
+that higher precision|DT JJR NN|BODY_6|0
+enormous (|JJ -LRB-|BODY_12|0
+both components underflow|DT NNS NN|BODY_17|0
+f r and f i|NN NN CC NN NN|BODY_2|0
+that underflowed component|IN JJ NN|BODY_9|0
+60439-4801 (e-mail|CD NN|BODY_1|0
+our function programs|PRP$ NN NNS|BODY_2|0
+these (|DT -LRB-|BODY_1|0
+x 6= 0,|SYM CD NNS|BODY_7|0
+any significant increase|DT JJ NN|BODY_5:BODY_7|0
+such an implementation|JJ DT NN|BODY_1|0
+convincing evidence|JJ NN|BODY_6|0
+e +e sqrt|NN NN NN|BODY_3|0
+0)|NN|BODY_1|0
+this result|DT NN|BODY_1|0
+our error analysis|PRP$ NN NN|BODY_4|0
+h|NN|BODY_14|0
+one underflowed part|CD VBN NN|BODY_13|0
+random testing|JJ NN|BODY_12|0
+2.3|CD|BODY_1|0
+introduction|NN|BODY_1|0
+test|NN|BODY_40|0
+overflow )|NN -RRB-|BODY_40|0
+the exception handler|DT NN NN|BODY_19|0
+kahan [5]|FW CD|BODY_6|0
+5|CD|BODY_1|0
+an appropriate normalized value|DT JJ JJ NN|BODY_1|0
+r f l r|JJ NN NN JJ|BODY_1|0
+x ) and logb(y|NN -RRB- CC NN|BODY_1|0
+figure 4|NN CD|BODY_7|0
+e etc|NN NN|BODY_12|0
+the next section )|DT JJ NN -RRB-|BODY_15|0
+2.4|CD|BODY_1|0
+a separate paper|DT JJ NN|BODY_20|0
+helpful suggestions|JJ NNS|BODY_3|0
+precision accuracy|NN NN|BODY_3|0
+the math library routine  swapex |DT NN NN JJ NN NN|BODY_4|0
+the real elementary functions|DT JJ JJ NNS|BODY_6|0
+the trouble|DT NN|BODY_3|0
+this point|DT NN|BODY_3|0
+tions|NNS|BODY_8|0
+you|PRP|BODY_1|0
+0.|CD|BODY_7|0
+x 6=|NN NN|BODY_3|0
+our notation|PRP$ NN|BODY_1|0
+sin or cos|NN CC NNS|BODY_4|0
+a final subsection|DT JJ NN|BODY_3|0
+imag function theoretical bound \gamma|NN NN JJ JJ NN|BODY_4|0
+their efficiency|PRP$ NN|BODY_9|0
+what exceptions|WP NNS|BODY_7|0
+the ieee arithmetic|DT NN NN|BODY_1|0
+three functions|CD NNS|BODY_1|0
+both overflow|DT NN|BODY_7|0
+24|CD|BODY_11|0
+each such|DT JJ|BODY_1|0
+the original precision|DT JJ NN|BODY_9|0
+the expressions|DT NNS|BODY_7:BODY_8|0
+test purposes|NN NNS|BODY_6|0
+4.6 complex cosine ccos|CD JJ NN NNS|BODY_1|0
+the remaining difficulty|DT VBG NN|BODY_1|0
+column 5|NN CD|BODY_6|0
+pretesting|VBG|BODY_4|0
+a factor radix \gammascale|DT NN NN NN|BODY_1|0
+scale \theta log(radix|NN NN NN|BODY_3|0
+a portion|DT NN|BODY_1|0
+the machine|DT NN|BODY_5|0
+5 and 6|CD CC CD|BODY_5:BODY_8|0
+a very high precision approximation|DT RB JJ NN NN|BODY_5|0
+the relationship|DT NN|BODY_1|0
+2e|JJ|BODY_8|0
+ten thousand such random arguments|CD CD JJ JJ NNS|BODY_1|0
+the 4 quadrants|DT CD NNS|BODY_8|0
+mod -=2 and j x|JJ NN CC NN SYM|BODY_10|0
+an argument z|DT NN FW|BODY_1|0
+the highest available|DT JJS JJ|BODY_4|0
+this essential feature|DT JJ NN|BODY_1|1
+corresponding fortran programs|JJ JJ NNS|ABSTRACT_1|0
+the programming language|DT NN NN|BODY_5|0
+practice|NN|BODY_6|0
+implementations|NNS|BODY_1|0
+such situations|JJ NNS|BODY_4|0
+similar results|JJ NNS|BODY_1|0
+( otherwise|-LRB- RB|BODY_1|0
+the associated error analyses|DT JJ NN NNS|BODY_1|0
+the rounding mode|DT JJ NN|BODY_10|0
+an argonne preprint [2]|DT NN NN NN|BODY_3|0
+an earlier version|DT JJR NN|BODY_1|0
+columns 3 and 4|NNS CD CC CD|BODY_1|0
+the intermediate  store  operations|DT JJ NN NN NN NNS|BODY_8|0
+pseudo-code algorithms|JJ NNS|BODY_1|1
+the main purpose|DT JJ NN|BODY_1|0
+the appropriate criterion|DT JJ NN|BODY_5|0
+the second one|DT JJ CD|BODY_5|0
+the term precision|DT NN NN|BODY_1|0
+2.5 exceptions|CD NNS|BODY_1|0
+two|CD|BODY_1|0
+itself|PRP|BODY_12|0
+this addition|DT NN|BODY_11|0
+tang [8]|NN NN|BODY_8|0
+2. basic numerical operations|DT JJ JJ NNS|BODY_1|0
+normalized complex floating-point numbers|JJ JJ JJ NNS|BODY_5|0
+an integer exponent|DT NN NN|BODY_28|0
+the most important special cases|DT RBS JJ JJ NNS|BODY_1|0
+machine representable numbers|NN JJ NNS|BODY_5|0
+a proposal|DT NN|BODY_1|0
+both very large|DT RB JJ|BODY_19|0
+the next subsection|DT JJ NN|BODY_8|0
+pin place|NN NN|BODY_1|0
+spurious overflows or underflows|JJ NNS CC NNS|BODY_5|0
+the exceptional return|DT JJ NN|BODY_1|0
+the overall result|DT JJ NN|BODY_3|0
+the latter form|DT JJ NN|BODY_4|0
+error analyses|NN NNS|BODY_3|0
+the pseudo-code algorithms|DT JJ NNS|BODY_1|0
+an upper bound|DT JJ JJ|BODY_1|0
+log|NN|BODY_11|0
+the ( approximate ) relative error|DT -LRB- NN -RRB- JJ NN|BODY_1|0
+just one example|RB CD NN|BODY_2|0
+two square root operations|CD JJ NN NNS|BODY_1|0
+the setting|DT NN|BODY_1|0
+no scaling|DT NN|BODY_70|0
+the 2:886 and 2:165|DT CD CC CD|BODY_1|0
+factors|NNS|BODY_5|0
+the logarithm function|DT NN NN|BODY_2|0
+this underflow|DT NN|BODY_1|0
+l|NN|BODY_1|0
+the analysis|DT NN|BODY_1|0
+all these special cases|DT DT JJ NNS|BODY_1|0
+figure 6|NN CD|BODY_5|0
+real arithmetic|JJ NN|BODY_5|0
+single precision real arithmetic|JJ NN JJ NN|BODY_12|0
+2.1 errors and error bounds|CD NNS CC NN NNS|BODY_1|0
+4.1 complex absolute value cabs|CD JJ JJ NN NNS|BODY_1|0
+64]|NN|BODY_1|0
+7. concluding remarks|. VBG NNS|BODY_1|0
+all the results|PDT DT NNS|BODY_1|0
+cabs and csqrt|NNS CC NN|BODY_9|0
+f l log1p|NN JJ NN|BODY_5|0
+relerr|NN|BODY_7|0
+the evidence|DT NN|BODY_20|0
+the function arguments|DT NN NNS|BODY_3|0
+the main assumption|DT JJ NN|BODY_1|0
+the preceding section|DT VBG NN|BODY_10|0
+the square root function|DT JJ NN NN|BODY_6|0
+these assumptions|DT NNS|BODY_1|0
+special situations|JJ NNS|BODY_1|0
+y j=t|NN NN|BODY_4|0
+\gamma1|NNS|BODY_5|0
+our purposes|PRP$ NNS|BODY_10|0
+that number system|IN NN NN|BODY_18|0
+53] )|CD -RRB-|BODY_1|0
+67]|CD|BODY_1|0
+both inefficient and somewhat difficult|DT JJ CC RB JJ|BODY_3|0
+our present purposes|PRP$ JJ NNS|BODY_1|0
+the exceptional cases|DT JJ NNS|BODY_15|0
+the tests|DT NNS|BODY_1|0
+a convenient exception-handling facility|DT JJ JJ NN|ABSTRACT_4|0
+csqrt , clog , csin and ccos|NN , NN , NN CC NNS|BODY_6|0
+overflow , underflow and domainerror|JJ , JJ CC NN|BODY_6|0
+relatively high precision|RB JJ NN|BODY_27|0
+the overflow level|DT NN NN|BODY_15|0
+both functions|DT NNS|BODY_1|0
+1=e|CD|BODY_1|0
+payne and hanek [7]|NN CC NN NN|BODY_4|0
+possible serious cancellation|JJ JJ NN|BODY_14|0
+some care|DT NN|BODY_1|0
+the standard real functions|DT JJ JJ NNS|BODY_16|0
+2.|POS|BODY_3|0
+the program first deals|DT NN JJ NNS|BODY_1|0
+the two clog functions|DT CD NN NNS|BODY_8|0
+any such overflow or underflow|DT JJ NN CC NN|BODY_63|0
+the only remaining difficulty|DT JJ JJ NN|BODY_1|0
+a convenient exception handling facility|DT JJ NN VBG NN|BODY_7|1
+case overflow|NN NN|BODY_9|0
+each test case|DT NN NN|BODY_1|0
+no spurious exceptions|DT JJ NNS|BODY_5|0
+the appropriate exception|DT JJ NN|BODY_8|0
+the ieee single precision arguments|DT NN JJ NN NNS|BODY_1|0
+the spurious exceptional situations|DT JJ JJ NNS|BODY_7|0
+ffl 2|NN CD|BODY_5:BODY_4|0
+that overflow or underflow|DT NN CC NN|BODY_15|0
+either component overflows|DT NN NNS|BODY_3|0
+complex arithmetic|JJ NN|BODY_1|0
+the origin|DT NN|BODY_1|0

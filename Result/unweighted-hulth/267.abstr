@@ -1,0 +1,29 @@
+systems|NNS|BODY_2|0
+canonical mp2 energies|JJ NN NNS|BODY_3:BODY_8|0
+an efficient prescreening|DT JJ NN|BODY_3|0
+the saebo-almlof direct-integral transformation|DT JJ JJ NN|BODY_2|0
+synchronization delays|NN NNS|BODY_2|0
+the bin-sort|DT NN|BODY_5|0
+minutes|NNS|BODY_8|0
+molecules|NNS|BODY_2|0
+a second set|DT JJ NN|BODY_3|0
+slaves|NNS|BODY_4|0
+400-500 basis functions|CD NN NNS|BODY_3|0
+a matter|DT NN|BODY_7|0
+accuracy|NN|BODY_4|0
+processors (6-8|NNS NNS|BODY_6|0
+the calculation|DT NN|BODY_2|0
+a small number|DT JJ NN|BODY_5|0
+a previous serial algorithm|DT JJ NN NN|BODY_6|0
+the parallel version|DT JJ NN|BODY_5|0
+the efficient calculation|DT JJ NN|BODY_7|0
+we|PRP|BODY_4|0
+results|NNS|BODY_1|0
+up to 2000 basis functions|RB TO CD NN NNS|BODY_3|0
+it|PRP|BODY_1|0
+the ao integrals|DT FW NNS|BODY_4|0
+the parallel algorithm|DT JJ NN|BODY_1|0
+the second half-transformation|DT JJ NN|BODY_6|0
+modern pc-based parallel computers|JJ JJ JJ NNS|BODY_9|0
+mp2 energies|CD NNS|BODY_1|0
+an efficient parallel algorithm|DT JJ JJ NN|BODY_1|0

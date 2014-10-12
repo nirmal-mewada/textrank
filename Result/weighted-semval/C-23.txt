@@ -1,0 +1,157 @@
+we|PRP|BODY_12:BODY_5:BODY_28:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8|7
+it|PRP|BODY_5:ABSTRACT_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|4
+data|NNS|BODY_12:BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+faster servers|JJR NNS|BODY_6:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_9|1
+files|NNS|BODY_6:ABSTRACT_5:BODY_2:BODY_10:BODY_7|0
+the slowest server|DT JJS NN|BODY_6:BODY_5:ABSTRACT_4:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|3
+the performance|DT NN|BODY_6:ABSTRACT_5:BODY_2:BODY_3:BODY_4|1
+the co-allocation architecture|DT NN NN|BODY_2:BODY_3:ABSTRACT_1:BODY_4|3
+datasets|NNS|ABSTRACT_4:BODY_1:BODY_3:BODY_4|0
+replica servers|NN NNS|BODY_5:BODY_2:BODY_14:BODY_4:ABSTRACT_9|2
+the idle time|DT JJ NN|ABSTRACT_2:BODY_2:BODY_1:BODY_7|2
+our approach|PRP$ NN|BODY_2:BODY_3:ABSTRACT_1|0
+an effective scheme|DT JJ NN|ABSTRACT_2:BODY_3|0
+a dynamic adjustment mechanism|DT JJ NN NN|TITLE_2|0
+a dynamic coallocation scheme|DT JJ NN NN|ABSTRACT_3|1
+namely recursive-adjustment co-allocation scheme|RB JJ NN NN|ABSTRACT_4|1
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+that|WDT|BODY_6:BODY_13:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|1
+this|DT|BODY_5:BODY_2:BODY_1:BODY_7|1
+one|CD|BODY_11:BODY_16:BODY_13:BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+data transfers|NNS NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_4|0
+the time|DT NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+the globus toolkit|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+[17]|NN|BODY_5:BODY_1:BODY_3:BODY_4|2
+a collection|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+sej|NN|BODY_5:BODY_2:BODY_3|0
+experimental results|JJ NNS|BODY_1:BODY_3|1
+the case|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|2
+replica selection|NN NN|BODY_5:BODY_1:BODY_2|2
+the client|DT NN|BODY_1:BODY_3:BODY_4|0
+a replica selection service|DT NN NN NN|BODY_4|1
+overall performance|JJ NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+measured or computed data|VBN CC VBN NNS|BODY_2|1
+the servers|DT NNS|BODY_5:BODY_3:BODY_8|1
+the network weather service|DT NN NN NN|BODY_6:BODY_1:BODY_2|0
+users|NNS|BODY_2:BODY_4:BODY_7:BODY_8|0
+the added combination overhead|DT VBN NN NN|BODY_4|1
+dl|NN|BODY_11:BODY_5:BODY_3:BODY_7:BODY_9|0
+the replica catalog|DT NN NN|BODY_1:BODY_3:BODY_4|0
+a dynamic allocation mechanism|DT JJ NN NN|BODY_3|1
+the most important factor|DT RBS JJ NN|BODY_2|1
+servers|NNS|BODY_1:BODY_3:BODY_4|0
+the bandwidth traffic congestion|DT JJ NN NN|BODY_6|1
+a dynamic co-allocation scheme|DT JJ NN NN|BODY_3|1
+the recursive-adjustment co-allocation scheme|DT NN NN NN|BODY_2|1
+download speeds|NN NNS|BODY_5:BODY_2|1
+many data intensive applications|JJ NNS JJ NNS|BODY_4|1
+the data grid administrator|DT NNS NN NN|BODY_22:BODY_17:BODY_27|0
+each server|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+our gridftp client tool|PRP$ NN NN NN|BODY_6:BODY_1:BODY_3|0
+the file|DT NN|BODY_5:BODY_2:BODY_4|0
+the data|DT NNS|BODY_2:BODY_3|0
+replicas|NN|BODY_2:BODY_4|0
+complete and partial copies|JJ CC JJ NNS|BODY_6:BODY_3|0
+node i|NN NN|BODY_12:BODY_6:BODY_2|0
+a cost model|DT NN NN|BODY_3:BODY_4|0
+a replica|DT NN|BODY_2:BODY_4:BODY_7|0
+the replica|DT NN|BODY_6:BODY_5:BODY_7|0
+the partial copy feature|DT JJ NN NN|BODY_6:BODY_3|0
+clients|NNS|BODY_5:BODY_2:BODY_4|0
+the system|DT NN|BODY_1:BODY_2:BODY_3|0
+the data grid community|DT NNS NN NN|BODY_2|0
+the co-allocator|DT NN|BODY_2:BODY_1:BODY_3|0
+the dynamic co-allocation scheme|DT JJ NN NN|BODY_2|0
+the recursive-adjustment co-allocation process|DT NN NN NN|BODY_1:BODY_2|0
+data sets|NNS NNS|BODY_5:BODY_7|0
+data grid nodes|NNS NN NNS|BODY_15:BODY_2|0
+the gridftp server|DT NN NN|BODY_6:BODY_9|0
+a resource management protocol|DT NN NN NN|BODY_2|0
+past data transfer histories|JJ NNS NN NNS|BODY_5|0
+vazhkudai and schopf [18|FW CC NN NNS|BODY_2|0
+an information services protocol|DT NN NNS NN|BODY_4|0
+dissimilar ( solid line|JJ -LRB- JJ NN|BODY_4|0
+our recursiveadjustment co-allocation scheme|PRP$ NN NN NN|BODY_2|0
+our data grid environment|PRP$ NNS NN NN|BODY_2|0
+one or more copies|CD CC JJR NNS|BODY_8|0
+unfinishsizei|NN|BODY_1:BODY_4:BODY_10|0
+figure 6( b )|NN JJ NN -RRB-|BODY_2|0
+a replica catalog|DT NN NN|BODY_5:BODY_2|0
+data file transfer times|NNS NN NN NNS|BODY_2|0
+the local site|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+actual data transmission time|JJ NNS NN NN|BODY_10|0
+the best replica locations|DT JJS NN NNS|BODY_3|0
+the expected finish time|DT VBN NN NN|BODY_2|0
+the history-based coallocation scheme|DT JJ NN NN|BODY_2|0
+another dynamic coallocation strategy|DT JJ NN NN|BODY_2|0
+16 ]|CD NNS|BODY_3:BODY_4|0
+the entire file transfer|DT JJ NN NN|BODY_2|0
+the recursiveadjustment co-allocation process|DT NN NN NN|BODY_1|0
+the remaining time transfer|DT VBG NN NN|BODY_2|0
+the replica selection problem|DT NN NN NN|BODY_2|0
+the unassigned portion|DT JJ NN|BODY_2:BODY_4|0
+its assigned data blocks|PRP$ VBN NNS NNS|BODY_2|0
+the entire file|DT JJ NN|BODY_5:BODY_4|0
+security|NN|BODY_6:BODY_2:BODY_4|0
+thu|NN|BODY_2:BODY_3|0
+the three influencing factors|DT CD NN NNS|BODY_4|0
+a logical name space|DT JJ NN NN|BODY_7|0
+one or more nws_memory|CD CC JJR NN|BODY_3|0
+static ( e .g.|JJ -LRB- NN NNP|BODY_6|0
+a system activity file|DT NN NN NN|BODY_4|0
+dividing unassigned file ranges|NN JJ NN NNS|BODY_6|0
+one logical file entry|CD JJ NN NN|BODY_2|0
+global , persistent identifiers|JJ , JJ NNS|BODY_8|0
+the replica selection server|DT NN NN NN|BODY_1|0
+dynamic co-allocation strategy divides|JJ NN NN NNS|BODY_2|0
+the gsi security protocol|DT NNS NN NN|BODY_3|0
+conservative load balancing|JJ NN VBG|BODY_1:BODY_4:BODY_8|0
+bioinformatics applications|NNS NNS|BODY_12:BODY_3|0
+the following general formula|DT VBG JJ NN|BODY_29|0
+wide-area data transfer experiments|JJ NNS NN NNS|BODY_2|0
+a particular research topic|DT JJ NN NN|BODY_4|0
+an appropriate file section|DT JJ NN NN|BODY_2|0
+the transfer finish time|DT NN NN NN|BODY_3|0
+data grid organization administrators|NNS NN NN NNS|BODY_12|0
+the total block size|DT JJ NN NN|BODY_8|0
+a dynamic system factor|DT JJ NN NN|BODY_2|0
+data files|NNS NNS|BODY_1:BODY_3:BODY_10|0
+the replica management service|DT NN NN NN|BODY_1|0
+11 ( 3 )|CD -LRB- CD -RRB-|BODY_9|0
+they|PRP|BODY_2:BODY_1|0
+a single replica server|DT JJ NN NN|BODY_5|0
+greatly degrade transfer rates|RB JJ NN NNS|BODY_3|0
+encouraging collaborative code reuse|JJ JJ NN NN|BODY_3|0
+the standard ftp protocol|DT JJ NN NN|BODY_3|0
+the possible destination locations|DT JJ NN NNS|BODY_2|0
+the other co-allocation strategies|DT JJ NN NNS|BODY_3|0
+tty devices and disks|JJ NNS CC NNS|BODY_3|0
+the same data pathways|DT JJ NNS NNS|BODY_2|0
+highest theoretical bandwidth bbw|JJS JJ NN NN|BODY_15|0
+file size/total completion time|NN NN NN NN|BODY_9|0
+change block size de-liveries|NN NN NN NNS|BODY_5|0
+efficient management and transfer|JJ NN CC NN|BODY_5|0
+the most efficient approach|DT RBS JJ NN|BODY_3|0
+a user or application|DT NN CC NN|BODY_5|0
+more rapid application development|RBR JJ NN NN|BODY_2|0
+ij bbzeunfinishsise 11 *)(|DT NN CD NN|BODY_6|0
+the better replica servers|DT JJR NN NNS|BODY_6|0
+a data grid environment|DT NN NN NN|BODY_3|0
+the data grid infrastructure|DT NNS NN NN|BODY_1:BODY_4|0
+four selected replica servers|CD VBN NN NNS|BODY_8|0
+our scheme|PRP$ NN|BODY_5:BODY_3|0
+the replica catalog server|DT NN NN NN|BODY_7|0
+a replica selection server|DT NN NN NN|BODY_4|0
+a real-time transfer rate|DT JJ NN NN|BODY_2|0
+their transfer finish time|PRP$ NN NN NN|BODY_4|0
+the recursive-adjustment coallocation strategy|DT NN NN NN|BODY_3|0
+the logical file names|DT JJ NN NNS|BODY_6|0
+our co-allocation client tool|PRP$ NN NN NN|BODY_2|0
+co-allocating grid data transfers|JJ NN NNS NNS|BODY_4|0
+cpu and i/o statuses|NN CC NN NNS|BODY_5|0
+the total idle time|DT JJ JJ NN|BODY_5|0
+a replica location service|DT NN NN NN|BODY_1|0
+an unstable dynamic factor|DT JJ JJ NN|BODY_2|0
+harness certain performance benefits|NN JJ NN NNS|BODY_4|0
+the most significant factor|DT RBS JJ NN|BODY_4|0

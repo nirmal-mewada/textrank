@@ -1,0 +1,47 @@
+nu|NN|BODY_6:BODY_14|0
+( n|-LRB- NN|BODY_12:BODY_4|0
+the method|DT NN|BODY_2:BODY_1|0
+gas|NN|BODY_2:BODY_4|0
+clusters|NNS|BODY_2|0
+molecular similarity|JJ NN|BODY_2|0
+that|WDT|BODY_3|0
+the encoded variables|DT JJ NNS|BODY_2|0
+which model|WDT NN|BODY_3|0
+a qsar/qspr model|DT JJ NN|BODY_5:BODY_4|0
+a subset|DT NN|BODY_4|0
+multiple models|JJ NNS|BODY_2|0
+the subset selection method|DT NN NN NN|BODY_1:BODY_3|0
+each|DT|BODY_3|0
+artificial data points|JJ NNS NNS|BODY_2|0
+variable selection and subset selection|JJ NN CC NN NN|BODY_2|0
+the xlogp data set|DT NN NN NN|BODY_2|0
+which|WDT|BODY_3|0
+a simple encoding scheme|DT JJ NN NN|BODY_2|0
+its ability|PRP$ NN|BODY_8|0
+second|JJ|BODY_10|0
+a novel genetic algorithm guided selection method|DT JJ JJ NN VBN NN NN|BODY_3|0
+data points|NNS NNS|BODY_9|0
+both compounds and variables|DT NNS CC NNS|BODY_4|0
+1 descriptor )|CD NN -RRB-|BODY_7|0
+the xlogp data|DT JJ NNS|BODY_11|0
+the variable selection method|DT JJ NN NN|BODY_5:BODY_1|0
+100 points|CD NNS|BODY_5|0
+1831 compounds|CD NNS|BODY_13|0
+31 compounds|CD NNS|BODY_5|0
+an artificial data|DT JJ NNS|BODY_3|0
+the selwood data|DT NN NNS|BODY_3|0
+different chemotypes|JJ NNS|BODY_3|0
+the subsets|DT NNS|BODY_1|0
+a genetic algorithm|DT JJ NN|BODY_1|0
+a given test set compound|DT VBN NN VBN NN|BODY_4|0
+a procedure|DT NN|BODY_1|0
+both descriptors and compound subsets|DT NNS CC NN NNS|BODY_4|0
+the compounds|DT NNS|BODY_5|0
+the gas method|DT NN NN|BODY_1|0
+various subsets|JJ NNS|BODY_3|0
+genetic algorithm guided selection|JJ NN VBN NN|BODY_1|0
+other published methods|JJ VBN NNS|BODY_3|0
+the results|DT NNS|BODY_1|0
+the analysis|DT NN|BODY_1|0
+126 descriptors )|CD NNS -RRB-|BODY_15|0
+53 descriptors )|CD NNS -RRB-|BODY_7|0

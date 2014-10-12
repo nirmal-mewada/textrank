@@ -1,0 +1,33 @@
+edges|NNS|BODY_6:BODY_2:BODY_4|0
+image denoising|NN VBG|BODY_5:BODY_3|0
+a filtered version|DT VBN NN|BODY_2|0
+homogeneous regions|JJ NNS|BODY_4|0
+a shrinkage function|DT NN NN|BODY_6|0
+the image edges|DT NN NNS|BODY_2|0
+the original image|DT JJ NN|BODY_3|0
+scale and space consistency|NN CC NN NN|BODY_2|0
+image multiresolution decomposition|NN NN NN|BODY_7|0
+space and scale consistency|NN CC NN NN|BODY_2|0
+the wavelet coefficients )|DT NN NNS -RRB-|BODY_4|0
+gradient magnitudes|JJ NNS|BODY_3|0
+which|WDT|BODY_5|0
+image presegmentation|NN NN|BODY_2|0
+this paper|DT NN|BODY_3|0
+edge preservation|NN NN|BODY_6|0
+a new method|DT JJ NN|BODY_4|0
+the wavelet domain|DT NN NN|BODY_3|0
+better preservation|JJR NN|BODY_3|0
+several resolutions|JJ NNS|BODY_4|0
+geometric constraints|JJ NNS|BODY_5|0
+that|WDT|BODY_3:BODY_7|0
+the proposed technique|DT JJ NN|BODY_1|0
+well-defined edges|JJ NNS|BODY_5|0
+each resolution level|DT NN NN|BODY_1|0
+the model|DT NN|BODY_7|0
+adaptive image denoising|JJ NN VBG|BODY_1|0
+a redundant wavelet|DT NN NN|BODY_8|0
+possible applications|JJ NNS|BODY_1|0
+joint use|JJ NN|BODY_1|0
+image noise|NN NN|BODY_4|0
+our approach|PRP$ NN|BODY_1|0
+the shrinkage functions|DT NN NNS|BODY_1|0

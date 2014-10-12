@@ -1,0 +1,1051 @@
+we|PRP|BODY_12:BODY_6:BODY_5:BODY_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|9
+it|PRP|BODY_12:BODY_17:BODY_21:BODY_13:ABSTRACT_2:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_9|0
+that|IN|BODY_12:BODY_11:BODY_16:BODY_22:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_9|7
+a|DT|BODY_16:BODY_18:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+the class|DT NN|BODY_6:BODY_5:BODY_13:BODY_26:BODY_1:BODY_2:BODY_14:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8|4
+the boolean hierarchy|DT NN NN|ABSTRACT_11:BODY_16:BODY_17:BODY_26:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_7:BODY_9|3
+.e|NN|BODY_6:BODY_5:BODY_17:BODY_23:BODY_13:BODY_24:BODY_4:BODY_7:BODY_9|2
+)|-RRB-|BODY_12:BODY_11:BODY_5:BODY_25:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7:BODY_9|1
+the set|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+i .e|VBN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_24:BODY_4:BODY_7:BODY_8|2
+a set|DT NN|BODY_6:BODY_17:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|1
+the number|DT NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_17:BODY_4:BODY_10:BODY_7:BODY_8|0
+the input|DT NN|BODY_12:ABSTRACT_5:ABSTRACT_4:BODY_18:BODY_2:BODY_4:BODY_8:BODY_9|2
+this|DT|BODY_1:BODY_2:BODY_4:BODY_7:BODY_9|0
+sets|NNS|BODY_6:BODY_5:BODY_27:BODY_2:BODY_14:BODY_3:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|2
+np|NN|BODY_6:BODY_5:BODY_11:BODY_18|2
+f|NN|BODY_5:BODY_11:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4|0
+l|NN|BODY_6:BODY_11:BODY_22:BODY_15:BODY_1:BODY_10|0
+length|NN|BODY_6:BODY_5:BODY_28:BODY_18:BODY_7:BODY_8:BODY_9|1
+m|NN|BODY_6:BODY_5:BODY_17:BODY_13:BODY_2:BODY_4:BODY_7|0
+advice|NN|BODY_33:BODY_5:BODY_27:BODY_1:BODY_3:BODY_4:BODY_10|2
+the proof|DT NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+theorem|PRP|BODY_1|0
+input x|NN NN|BODY_6:BODY_5:BODY_17:BODY_14:BODY_4:BODY_7|1
+which|WDT|BODY_5:BODY_17:BODY_15:BODY_21:BODY_3|0
+the classes|DT NNS|BODY_11:BODY_16:BODY_2:BODY_3:BODY_8|0
+n )|NN -RRB-|BODY_12:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the length|DT NN|BODY_6:BODY_17:BODY_13:BODY_14:BODY_4:BODY_7|0
+b|NN|BODY_5:BODY_10:BODY_19:BODY_4:BODY_7:BODY_8|0
+an oracle|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+hx|NN|BODY_6:BODY_11:BODY_3:BODY_7:BODY_8|0
+]|NN|BODY_5:BODY_2:ABSTRACT_3:BODY_3|0
+polynomial time|JJ NN|BODY_6:BODY_4:BODY_7:BODY_9|0
+all x|DT NN|BODY_5:BODY_2:BODY_4:BODY_19:BODY_29:BODY_9|0
+functions|NNS|BODY_6:BODY_3:BODY_4|0
+np np r|JJ JJ NN|BODY_13:BODY_1:BODY_2:BODY_3:BODY_4|0
+the result|DT NN|BODY_1:BODY_2:BODY_3:BODY_8|0
+p|NN|BODY_5:BODY_3:BODY_4:BODY_9|0
+s|PRP|BODY_21:BODY_1:BODY_2:BODY_8|0
+a k|DT NN|BODY_6:BODY_22:BODY_21:BODY_14:BODY_9|0
+part|NN|BODY_11:BODY_2:BODY_1|0
+k|NN|BODY_6:BODY_2:BODY_7|1
+whose membership|WP$ NN|BODY_21:BODY_4:BODY_9|1
+the notion|DT NN|ABSTRACT_4:BODY_2|0
+a polynomial|DT NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+a such|DT JJ|BODY_6:BODY_4:BODY_8:BODY_9|0
+an np transducer|DT JJ NN|BODY_6:BODY_11:BODY_1:BODY_3:BODY_4|1
+they|PRP|BODY_6:BODY_1:BODY_3:BODY_4|0
+t|NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+x|RB|BODY_18:BODY_15:BODY_1:BODY_3:BODY_7|0
+the generator|DT NN|BODY_5:BODY_4:BODY_20|0
+an np machine|DT JJ NN|BODY_16:BODY_15:BODY_13:BODY_1:BODY_9|1
+a )|DT -RRB-|BODY_18:BODY_4:BODY_8|0
+the fact|DT NN|BODY_6:BODY_2:BODY_3|0
+these classes|DT NNS|BODY_6:BODY_1:BODY_2:BODY_14|1
+c=f|NN|BODY_6:BODY_14:BODY_3:BODY_7|0
+the inclusions|DT NNS|BODY_2:BODY_3:BODY_4|0
+2|CD|BODY_1:BODY_14:BODY_7|0
+the class fa j|DT NN NN NN|BODY_5:BODY_4|0
+x 2 l|RB CD NN|BODY_6:BODY_5:BODY_11:BODY_7|0
+oracle|NN|BODY_15:BODY_2:BODY_7|0
+this section|DT NN|BODY_2:BODY_1:BODY_3:BODY_9|1
+binary search|JJ NN|BODY_6:BODY_4:BODY_8|0
+n|NN|BODY_6:BODY_5:BODY_11|0
+rich|JJ|BODY_18:BODY_2:ABSTRACT_7|0
+an np|DT JJ|BODY_3:BODY_4|0
+theorem 3.2|NN CD|BODY_1:BODY_3:BODY_8|0
+the evaluator|DT NN|BODY_12:BODY_8|0
+a word|DT NN|BODY_16:BODY_13:BODY_29|0
+uniform subclasses|JJ NNS|ABSTRACT_2:BODY_2|0
+the same length|DT JJ NN|BODY_6:BODY_4|0
+q( n|NN NN|BODY_6:BODY_4:BODY_7|0
+the definition|DT NN|BODY_17:BODY_1:BODY_14|0
+note|NN|BODY_1|0
+complementation|NN|BODY_5:BODY_2:BODY_7|0
+the odd levels|DT JJ NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_4:ABSTRACT_10|1
+figure 3.1|NN CD|BODY_5:BODY_18:BODY_4|0
+the complexity|DT NN|BODY_5:ABSTRACT_2:BODY_4|0
+the algorithm|DT NN|BODY_3:BODY_10:BODY_4|0
+corollary 4.3|NN CD|BODY_2:BODY_4|0
+the languages|DT NNS|BODY_5:BODY_14|2
+every advice|DT NN|BODY_2:BODY_3|0
+2 l|CD NN|BODY_1:BODY_4:BODY_7|0
+np npspars e|NN NNS NN|BODY_15:BODY_3|2
+sat|VBD|BODY_6:BODY_4:BODY_8|1
+the existence|DT NN|BODY_2:BODY_3|0
+ii|NNS|BODY_6:BODY_2:BODY_3|0
+all sets|DT NNS|BODY_6:BODY_5:BODY_7|0
+g(x )|NN -RRB-|BODY_6:BODY_17|0
+p==|NN|BODY_6:BODY_3:BODY_8|0
+truth-table reducible|JJ JJ|BODY_6:BODY_3:BODY_7:BODY_9|0
+sn tt|NN NN|BODY_1:BODY_3|1
+restricted access|JJ NN|BODY_3:BODY_9|0
+selman [30]|JJ NN|BODY_12:BODY_3:BODY_4|0
+the polynomial hierarchy|DT NN NN|BODY_10:BODY_4|0
+let l|VB NN|BODY_1|0
+fact|NN|BODY_1:BODY_7|1
+p=optp[o(log n )|NN NN -RRB-|BODY_6:BODY_5:BODY_8|0
+full access|JJ NN|BODY_6:BODY_11|0
+example|NN|BODY_6:BODY_1|1
+long [31]|JJ NN|BODY_6:BODY_1:BODY_4|1
+lemma 3.6|NN CD|BODY_5:BODY_2:BODY_1|0
+a and b such|DT CC NN JJ|BODY_5|0
+c== f|NN NN|BODY_16:BODY_3|0
+several characterizations|JJ NNS|BODY_2:BODY_3|0
+q( m;x )|JJ NN -RRB-|BODY_1:BODY_9|0
+\deltai|NNP|BODY_11:BODY_4|0
+np==optp[o(log n|NN NN|BODY_4|0
+a y 2 i l( ns|DT NN CD NN NN NNS|BODY_36:BODY_11|0
+a function|DT NN|BODY_12:BODY_17:BODY_2|0
+terms|NNS|BODY_6:BODY_7:BODY_8|1
+a polynomial p|DT NN NN|BODY_16:BODY_28:BODY_4|0
+optimization functions|NN NNS|BODY_5:BODY_3|0
+p=poly|NN|BODY_2:BODY_3|0
+advice functions|NN NNS|ABSTRACT_5:ABSTRACT_2:BODY_3|0
+np tt|JJ NN|BODY_2|0
+the recent result|DT JJ NN|BODY_5:BODY_1|0
+the nondeterministic truth-table reducibility|DT JJ JJ NN|BODY_2:BODY_9|0
+jxj|NN|BODY_16:BODY_3|0
+all|PDT|BODY_11:BODY_7|0
+many queries|JJ NNS|BODY_26:BODY_9|0
+such|JJ|BODY_5:BODY_9|0
+an enumeration|DT NN|BODY_6:BODY_19|0
+correct advice|JJ NN|BODY_5:ABSTRACT_3:BODY_7:BODY_8|1
+the above proof|DT JJ NN|BODY_12:BODY_2|0
+jq( m;x )  aj|JJ NN -RRB- NN NN|BODY_12:BODY_17:BODY_3|0
+the running time|DT VBG NN|BODY_6:BODY_4:BODY_7|0
+poly|NN|BODY_27:BODY_2|0
+conp|NN|BODY_15:BODY_3|0
+1.1 )|CD -RRB-|BODY_12:BODY_5|1
+a further characterization|DT JJ NN|BODY_5:BODY_4|0
+bh|NN|BODY_10:BODY_4|0
+an optp[o(log n|DT NN NN|BODY_3:BODY_20|0
+' p==optp[r|POS NN|BODY_2|0
+1]|CD|BODY_3|0
+mahaney [33]|NN NNS|BODY_2|0
+that np npspars e|DT JJ NNS NN|BODY_3|0
+a.|NN|BODY_12:BODY_5:BODY_10:BODY_4|0
+2 \sigma|CD NN|BODY_11:BODY_2|0
+fewoptp|JJ|BODY_2|0
+hemachandra|NN|BODY_2|0
+notation|NN|BODY_2|0
+a sparse set l(|DT JJ NN NN|BODY_3|0
+p=fewoptp|NN|BODY_5:BODY_1:BODY_3|0
+the power|DT NN|BODY_5:BODY_15|1
+c|NN|BODY_8:BODY_9|0
+the sense|DT NN|ABSTRACT_6:BODY_19|1
+a p machine|DT NN NN|BODY_2:BODY_8|0
+the strong nondeterministic truth-table reducibility|DT JJ JJ JJ NN|BODY_5:BODY_2|1
+such that|JJ IN|BODY_5:BODY_13|0
+1|CD|BODY_2:BODY_4|0
+all k|DT NN|BODY_13:BODY_3|0
+np npspars e and np np r|NN NNS NN CC NN NN NN|BODY_3:BODY_4|1
+a sparse np|DT NN NN|BODY_2:BODY_4|0
+an input|DT NN|BODY_5:BODY_2|0
+( 5.2 )|-LRB- CD -RRB-|BODY_12:BODY_9|0
+the next theorem|DT JJ NN|BODY_1:BODY_10|0
+f( x )|JJ NN -RRB-|BODY_3:BODY_14|0
+potential oracle queries|JJ NN NNS|BODY_12:BODY_8:BODY_9|0
+a subset|DT NN|BODY_15:BODY_3|0
+a class|DT NN|BODY_12:BODY_1:BODY_9|0
+an fp function|DT JJ NN|BODY_13:BODY_7|1
+5.4 restates|CD NNS|BODY_2|0
+h( x|NN NN|BODY_3:BODY_4|0
+p tt|NN NN|BODY_2:BODY_3|0
+all potential advice|DT JJ NN|BODY_3:BODY_10|0
+[26]|NN|BODY_4|0
+the main result|DT JJ NN|BODY_6:BODY_8|0
+tt|NN|BODY_5:BODY_7|0
+np==optp[o(log n )|NN NN -RRB-|BODY_2|0
+(|-LRB-|BODY_5:BODY_9|0
+lynch|NN|BODY_11:BODY_2:BODY_3|0
+a separation|DT NN|BODY_10:BODY_7|0
+an np oracle|DT NN NN|BODY_6:BODY_10|0
+relativizations|NNS|BODY_10:BODY_7|0
+theoretische informatik|DT NN|BODY_6:BODY_9|0
+\phi|NNP|BODY_2:BODY_4|0
+the daad|DT NN|BODY_2:BODY_4|0
+no word|DT NN|BODY_31:BODY_25|0
+the|DT|BODY_2:BODY_8|0
+the nondeterministic truth-table reduction|DT JJ JJ NN|BODY_21:BODY_4|0
+all x 2 \sigma|DT NN CD NN|BODY_12:BODY_5|0
+a ) 2 np|DT -RRB- CD NN|BODY_4|0
+a we|DT PRP|BODY_2|0
+2 fp|CD NN|BODY_6:BODY_8|0
+new characterizations|JJ NNS|ABSTRACT_3|0
+1991|CD|BODY_6:BODY_4|0
+each class|DT NN|BODY_17:BODY_19|0
+an np oracle machine|DT NN NN NN|BODY_7:BODY_8|0
+the notions|DT NNS|ABSTRACT_2|0
+buss and hay [14]|NN CC NN NN|BODY_3:BODY_4|0
+complexity classes|NN NNS|BODY_6|0
+some oracle|DT NN|BODY_6:BODY_7|0
+definition|NN|BODY_13:BODY_3|0
+a prefix search|DT NN NN|BODY_7|0
+ulm|NN|BODY_12:BODY_9|0
+ladner|NN|BODY_2:BODY_10|0
+the function class f|DT NN NN NN|BODY_3|0
+the following way|DT JJ NN|BODY_16:BODY_4|1
+complexity theory|NN NN|BODY_5:BODY_7:BODY_9|0
+i|PRP|BODY_5:BODY_1|0
+nonuniform classes|NN NNS|BODY_2|0
+oracle ) turing machines|NNP -RRB- VBG NNS|BODY_5|0
+the value|DT NN|BODY_5|1
+book and tang [12]|NN CC NN NNS|BODY_1|0
+corollary 3.5|NN CD|BODY_2:BODY_1|0
+p and np|NN CC NN|BODY_2|0
+the np set|DT JJ NN|BODY_4:BODY_7|0
+the optimum value|DT JJ NN|BODY_8|0
+# sat|# VBN|BODY_5|0
+a direct proof|DT JJ NN|BODY_12|0
+the first|DT JJ|BODY_8|0
+x )j|SYM FW|BODY_11|1
+a p computation|DT NN NN|BODY_7|1
+such that e|PDT DT NN|BODY_7|0
+the for-loop diagonalizes|DT JJ NNS|BODY_2|0
+the advice|DT NN|BODY_2:BODY_1|0
+the following|DT NN|BODY_5|0
+[13]|NN|BODY_6|0
+the parity|DT NN|BODY_15:BODY_3|0
+the same|DT JJ|BODY_1:BODY_7|0
+the for-loop and|DT JJ CC|BODY_2|0
+oberer eselsberg|NN NN|BODY_11:BODY_8|0
+the nonuniform complexity classes|DT JJ NN NNS|ABSTRACT_3|0
+solovay [2|NN NNS|BODY_5:BODY_3|0
+a  kolmogorov-argument|DT NN NN|BODY_3|0
+the k-ary characteristic function|DT JJ JJ NN|BODY_6:BODY_1:BODY_7|1
+hema|NN|BODY_5|0
+p npspars|NN NNS|BODY_6:BODY_13:BODY_9|0
+baker|NN|BODY_1:BODY_3|0
+an np transducer g|DT NN NN NN|BODY_5:BODY_9|0
+( b|-LRB- NN|ABSTRACT_5|0
+a |DT|BODY_2|0
+\sigma k truth-table reducible|NN NN JJ JJ|BODY_5:BODY_9|0
+2 f|CD NN|BODY_11:BODY_14|0
+different kinds|JJ NNS|BODY_5|0
+( a ) $ np<s n= 6 >{np\cap spars|-LRB- DT -RRB- $ NN RB CD NN NNS|ABSTRACT_4|0
+[11]|NN|BODY_1:BODY_2|0
+precedence|NN|BODY_7|0
+np=poly|NN|BODY_4|0
+the relationship|DT NN|BODY_2|0
+the diagram|DT NN|BODY_3:BODY_4|0
+all languages|DT NNS|BODY_1:BODY_3|0
+-, i .e|JJ NN NN|BODY_5|0
+the advice function|DT NN NN|BODY_7|0
+a over all outputs hy|DT RB DT NNS NN|BODY_5|0
+any p machine|DT NN NN|BODY_2|0
+let m|VB NN|BODY_1|0
+the optp[r+1 ] function|DT JJ SYM NN|BODY_1|0
+x)0|CD|BODY_2|0
+input|NN|BODY_23:BODY_1|1
+[11|CD|BODY_4|0
+lexicographic order|JJ NN|BODY_21|0
+machines|NNS|BODY_8|0
+the maximum output|DT JJ NN|BODY_10:BODY_4|0
+28 (|CD -LRB-|ABSTRACT_2|0
+the latter equality|DT JJ NN|BODY_1:BODY_8|0
+fl j l|NN NN NN|BODY_20|0
+these two classes|DT CD NNS|BODY_5|0
+p np (|NN , -LRB-|BODY_11|0
+query|NN|BODY_12:BODY_14|0
+a set b|DT NN NN|BODY_5:BODY_11:BODY_8|0
+2i g|CD NN|BODY_5|0
+a - np|DT : NN|BODY_6|0
+polynomial-time|NN|BODY_4|0
+at least half|IN JJS NN|BODY_3|0
+an optp precomputation|DT NN NN|BODY_6|1
+3.5 ii|CD NNS|BODY_3:BODY_9|0
+complexity theory [31]|NN NN NN|BODY_5|0
+finite sequences strings|JJ NNS NNS|BODY_12|0
+all the inclusions|DT DT NNS|BODY_7|0
+$ \np$|$ NN|ABSTRACT_6|0
+the p =?np problem|DT NN NN NN|BODY_3|0
+cardinality f( x )|NN NN NN -RRB-|BODY_6|0
+g(x|NN|BODY_6|0
+that np|WDT NN|BODY_7|0
+sipser|NN|BODY_5|0
+\sigma k|NN NN|BODY_11:BODY_1:BODY_7|0
+1982|CD|ABSTRACT_3|0
+p=fh j jh(|JJ NN NNS|BODY_10|1
+y|RB|BODY_17:BODY_8|0
+38 ( 1989 ) , pp|CD -LRB- CD -RRB- , NN|ABSTRACT_2|0
+a new reduction class|DT JJ NN NN|BODY_19|0
+some|DT|BODY_1:BODY_3|0
+a language l|DT NN NN|BODY_2|0
+a restricted access|DT JJ NN|ABSTRACT_7|0
+np t|JJ NN|BODY_3:BODY_4:BODY_8|0
+\sigma n|NN NN|BODY_20|0
+all polynomial-time|DT NN|BODY_7|0
+the composition operator ffi|DT NN NN NN|BODY_6|0
+h|NN|BODY_6:BODY_1|0
+the university|DT NN|BODY_3|0
+universit?t ulm|JJ NN|BODY_10:BODY_7|0
+[23]|NN|BODY_6|0
+' p=optp|POS NN|BODY_2|0
+corollary|NN|BODY_1:BODY_2:BODY_8|0
+a quantitative length restriction|DT JJ NN NN|BODY_4|0
+inputs|NNS|BODY_27:BODY_7|0
+sharpens|NNS|BODY_4|0
+an appropriate concept|DT JJ NN|BODY_4|0
+krentel [29]|NN NN|BODY_7|0
+the advice functions|DT NN NNS|BODY_4:BODY_7|0
+' fp np[r ]|POS JJ NN SYM|BODY_2|0
+finer distinctions|JJ NNS|BODY_4|0
+toda [39]|NN NN|BODY_2|0
+np log n-tt|JJ NN NN|BODY_3:BODY_4|0
+h(|JJ|BODY_6:BODY_8|0
+a characterization|DT NN|BODY_12:BODY_4|0
+bm+1|NNS|BODY_15|0
+np=log correct advice|NN JJ NN|BODY_8|0
+the nondeterministic turing reducibility [30]|DT JJ NN NN NN|BODY_3|0
+k words|NN NNS|BODY_11:BODY_4|0
+nondeterministic truth-table reducibility|JJ NN NN|BODY_5|0
+some considered complexity classes|DT VBN NN NNS|BODY_2|0
+also x 7|RB NN CD|BODY_24|0
+all strings|DT NNS|BODY_3:BODY_10|0
+a :=|DT NN|BODY_37|0
+3.2 ii|CD NNS|BODY_2|0
+intersection|NN|BODY_11|0
+the difference|DT NN|BODY_8|0
+jh(|NN|BODY_4|0
+two major open questions|CD JJ JJ NNS|BODY_4|0
+\sigma|NN|BODY_6:BODY_5|0
+k-amper|NN|BODY_2|0
+an observation|DT NN|BODY_3|0
+1 n )j|CD NN NN|BODY_6|0
+( nondeterministic|-LRB- JJ|BODY_3|0
+different outputs|JJ NNS|BODY_7|0
+lipton|NN|BODY_4|0
+the question|DT NN|BODY_1:BODY_3|0
+this precomputation|DT NN|BODY_2|0
+x hemachandra [18]|SYM NN NN|BODY_2|0
+the function|DT NN|BODY_1|0
+k ffifp|JJ NN|BODY_5:BODY_1|0
+the maximum number|DT NN NN|BODY_3|0
+poly and log|NN CC NN|BODY_5|0
+the reverse containments|DT JJ NNS|BODY_2|0
+the function class optp[o(log n )|DT NN NN NN NN -RRB-|BODY_5|0
+first jout t|JJ NN NN|BODY_5|0
+characterizations|NNS|BODY_3|0
+optp[r ]|JJ SYM|BODY_5:BODY_1|0
+o(log n )|NN NN -RRB-|BODY_3|0
+an np oracle machine m|DT JJ NN NN NN|BODY_3|0
+np oracles|JJ NNS|BODY_10|0
+every set|DT NN|BODY_1:ABSTRACT_3:BODY_3|0
+( 5.1 )|-LRB- CD -RRB-|BODY_9|0
+the previous proof|DT JJ NN|BODY_2|0
+every conp|DT NN|BODY_7|0
+that am ' bm|IN VBP '' NN|BODY_14|0
+this definition|DT NN|BODY_2:BODY_1|0
+a answers|DT NNS|BODY_4|0
+' p=poly|POS NN|BODY_8|0
+gill|NN|BODY_2:BODY_4|0
+then l|RB NN|BODY_6|0
+( 1.2|-LRB- CD|BODY_6|0
+a deterministic polynomial-time|DT JJ NN|BODY_4|0
+h( x)i|NN NN|BODY_4:BODY_7|0
+np.unif.all)|NN|BODY_4|0
+thick lines|JJ NNS|BODY_3|0
+an $ \np$ oracle|DT $ NN NN|ABSTRACT_8|0
+a result|DT NN|BODY_6|0
+abteilung f|NN NN|BODY_5|0
+1 jxj special advice function classes|CD NN JJ NN NN NNS|BODY_25|0
+the above proof shows|DT JJ NN NNS|BODY_2|0
+union|NN|BODY_10|0
+an np transducer computing f|DT JJ NN NN NN|BODY_3|0
+arvind|NN|BODY_1|0
+basic definitions|JJ NNS|BODY_3|0
+let f|VB NN|BODY_1|0
+section 2|NN CD|BODY_1|0
+u.|VBG|BODY_3|0
+[29 ]|CD SYM|BODY_2|0
+all n|DT NN|BODY_5:BODY_9|0
+the np generator|DT NN NN|BODY_7|0
+two sets|CD NNS|BODY_4|0
+corollary 5.3|NN CD|BODY_1:BODY_4|0
+some r 2 r|DT NN CD NN|BODY_24|0
+an np metric turing machine|DT NN JJ NN NN|BODY_2|0
+pp==optp[o(log n|NN NN|BODY_10|0
+karp|NN|BODY_3|0
+log|NN|BODY_6|0
+a suitable choosen function|DT JJ NN NN|BODY_2|0
+fa j a|NN RB DT|BODY_7|1
+t ( x|IN -LRB- NN|BODY_4|0
+the two referees|DT CD NNS|BODY_2|0
+theorem 5.7|NN CD|BODY_2|0
+this work|DT NN|BODY_2|0
+use|NN|BODY_5|0
+i )|NN -RRB-|BODY_5:BODY_1|0
+polynomials|NNS|BODY_2|0
+the unbounded case|DT JJ NN|BODY_21|1
+membership|NN|BODY_1:BODY_14|0
+the language classes|DT NN NNS|BODY_2|0
+the collapse|DT NN|BODY_9|0
+complete sets|JJ NNS|BODY_2:BODY_3|0
+h 2 optp[o(log n )|NN CD NN NN -RRB-|BODY_4|0
+the following theorem 5.4|DT VBG NN CD|BODY_2|0
+all hy|DT JJ|BODY_11|0
+no more than|DT JJR IN|BODY_4|0
+the original c=f definition|DT JJ NN NN|BODY_4|0
+most r( n|JJS JJ NN|BODY_25|0
+an np machine m|DT JJ NN NN|BODY_2:BODY_1|0
+the end|DT NN|BODY_2|0
+k-truth-table reducible to sat ,|JJ JJ TO VBD ,|BODY_2|0
+any string|DT NN|BODY_2|0
+an np machine n|DT NN NN NN|BODY_3|0
+acciones integradas|NNS NNS|BODY_5:BODY_3|0
+an oracle machine m|DT NN NN NN|BODY_23|0
+h 2 f|NN CD NN|BODY_23|0
+ph|NN|BODY_3|0
+the literature|DT NN|BODY_26|0
+such a way|JJ DT NN|BODY_6:BODY_11|0
+a branch|DT NN|BODY_16|0
+rich [35]|JJ NN|BODY_8|0
+separations|NNS|BODY_5:BODY_1|0
+proof|NN|BODY_5:BODY_1:BODY_3|0
+dfg postdoctoral stipend|JJ JJ NN|BODY_2|0
+insight|NN|BODY_7|0
+a logarithmically length|DT RB NN|BODY_11|1
+any q-length bounded function|DT NN VBN NN|BODY_4|0
+the form|DT NN|BODY_11|0
+minimal such|JJ JJ|BODY_2|0
+472/1-1 , nsf grant ccr-8957604|JJ , JJ NN NNS|BODY_3|0
+\sigma k\gamma1|NN NNS|BODY_2|0
+the recursion theoretic truth-table reducibility|DT NN JJ JJ NN|BODY_4|0
+the k-th level np( k )|DT JJ NN NN NN -RRB-|BODY_2|0
+strings|NNS|BODY_3|0
+oracle questions|NN NNS|BODY_9|0
+toda [40]|NN NN|BODY_9|0
+n ) ) and x|NN -RRB- -RRB- CC NN|BODY_4|0
+)j|FW|BODY_30|0
+a binary number 1|DT JJ NN CD|BODY_6|0
+jxj )|NN -RRB-|BODY_5|0
+a separates p np[o(logn )|DT NNS NN NN -RRB-|BODY_10|0
+a deterministic polynomial-time oracle machine|DT JJ NN NN NN|BODY_3|0
+a proof technique|DT NN NN|BODY_3|0
+the computation|DT NN|BODY_5|0
+given strings x and y|VBN NNS NN CC NN|BODY_7|0
+sn np tt|NN NN NN|BODY_2:BODY_1|0
+all sets nondeterministically truth-table reducible to sat|DT NNS RB JJ JJ TO VBN|BODY_22|1
+)j many queries|FW JJ NNS|BODY_5|0
+the class pp==fp np[o(logn|DT NN NN NN|BODY_11|0
+this oracle|DT NN|BODY_6|0
+jaj|NN|BODY_3|0
+oracle queries|NN NNS|BODY_13|0
+queries|NNS|BODY_6|0
+- np t|: NN NN|BODY_3|0
+central open problems|JJ JJ NNS|BODY_6|0
+3.5|CD|BODY_10|0
+some output hy|DT NN NN|BODY_5|0
+the result h( x )|DT NN NN NN -RRB-|BODY_5|1
+a 2 \sigma k|DT CD NN NN|BODY_6|0
+ha|WP|BODY_12|0
+. sets|. NNS|BODY_7|0
+the reader|DT NN|BODY_2|0
+' np npspars e|POS JJ NNS NN|BODY_4|0
+m 1|NN CD|BODY_7|0
+the possible advice|DT JJ NN|BODY_4|0
+the nonuniform class p=q|DT NN NN NN|BODY_9|1
+investigates refinements|NNS NNS|BODY_3|0
+a (|DT -LRB-|BODY_10|0
+' p|POS NN|BODY_4|0
+o(log n|NN NN|BODY_8|0
+this bit|DT NN|BODY_2|0
+( c|-LRB- NN|ABSTRACT_9|0
+an np metric machine|DT JJ JJ NN|BODY_2|0
+therefore c=f|RB JJ|BODY_6|0
+corollaries|NNS|BODY_9|0
+' p pp|POS NN RP|BODY_4|0
+a , jaj|DT , JJ|BODY_3|0
+h\delta|NN|BODY_10|0
+a function h|DT NN NN|BODY_13:BODY_10|0
+choice|NN|BODY_4|0
+) theorem 5.7|-RRB- NN CD|BODY_3|0
+the condition|DT NN|BODY_22|0
+[35] 1|NN CD|BODY_20|1
+every optp function h|DT JJ NN NN|BODY_2|0
+this class|DT NN|BODY_7|0
+an np problem|DT JJ NN|BODY_2|0
+every restricting function|DT JJ NN|BODY_3|0
+np==fewoptp|NN|BODY_3|0
+balc'azar and sch-oning|NN CC NN|BODY_4|0
+( appropriately modified versions|-LRB- RB VBN NNS|BODY_2|0
+kadin [21]|NN NN|BODY_2|0
+[30]|NN|BODY_15|0
+a non-deterministic truth-table reduction|DT JJ JJ NN|BODY_16|0
+- sn|: NN|BODY_2|0
+the bitwise|DT NN|BODY_2|0
+equality|NN|BODY_11|1
+wagner [42]|NN NN|BODY_8|0
+2i g and j|CD NN CC NN|BODY_8|0
+5.13|CD|BODY_13|0
+deterministically truth-table reducible to sat ,|RB JJ JJ TO VBN ,|BODY_23|1
+p np|NN JJ|BODY_22|0
+m )|NN -RRB-|BODY_13|0
+special abteilung f|JJ NN NN|BODY_8|0
+ns|NNS|BODY_35|0
+reduction classes|NN NNS|BODY_9|1
+all x 2 \sigma note|DT NN CD NN NN|BODY_15|0
+all inputs|DT NNS|BODY_5|0
+an important subject|DT JJ NN|BODY_8|0
+all relativized worlds|DT JJ NNS|BODY_2|0
+a singleton|DT NN|BODY_3|0
+a class r|DT NN NN|BODY_5|0
+2 c|CD NN|BODY_12:BODY_9|0
+functions f|NNS NN|BODY_20|0
+optp[o(log n ) ]|NN NN -RRB- NN|BODY_6|1
+every branch|DT NN|BODY_5|0
+such f|JJ NN|BODY_2|0
+\sigma 2 [24]|NN CD NN|BODY_4|0
+the left column|DT NN NN|BODY_17|0
+a \sigma k truth-table reducibility|DT NN NN JJ NN|BODY_3|0
+lemma 3.4 )|NN CD -RRB-|BODY_12|0
+) i|-RRB- FW|BODY_9|0
+nondeterministic machines|JJ NNS|BODY_4|0
+every language|DT NN|BODY_3|0
+an np machine e|DT NN NN NN|BODY_11|0
+nonrecursive sets|JJ NNS|BODY_2|0
+the above definition|DT JJ NN|BODY_2|0
+this reducibility coincide|DT NN NN|ABSTRACT_4|0
+sn c|NN NN|BODY_4|0
+the characterizations|DT NNS|BODY_4|0
+m using oracle|NN VBG NN|BODY_6|0
+who|WP|BODY_12|0
+a pairing function h\delta|DT NN NN NN|BODY_3|0
+the lexicographic ordering|DT JJ NN|BODY_8|0
+the problem|DT NN|BODY_6|0
+r(|NN|BODY_3|0
+all functions|DT NNS|BODY_8|1
+only one string|RB CD NN|BODY_5|0
+the $ \np$ reduction classes|DT $ JJ NN NNS|ABSTRACT_2|0
+the subclass|DT NN|BODY_10|0
+the function x 7|DT NN NN CD|BODY_4|0
+p np[o(logn ) ]|NN NN -RRB- NN|BODY_6:BODY_5|0
+the \sigma-levels|DT NNS|BODY_3|0
+respect|NN|BODY_7|0
+p np [ o(log n|NN NN NN NN NN|BODY_10|0
+1 to q(|CD TO MD|BODY_20|0
+the evaluator access|DT NN NN|BODY_5|0
+all optimization|DT NN|BODY_11|0
+an evaluator e|DT NN NN|BODY_4|0
+the case|DT NN|BODY_1|0
+recursive sets|JJ NNS|BODY_4|0
+b 0|NN CD|BODY_3|0
+exponentially many different outputs|RB JJ JJ NNS|BODY_7|0
+function|NN|BODY_4|0
+answers|NNS|BODY_4|0
+the construction )|DT NN -RRB-|BODY_18|0
+lemma 3.4|NN CD|BODY_1:BODY_7|0
+g( x )|JJ NN -RRB-|BODY_10|0
+this set ( note|DT NN -LRB- NN|BODY_5|0
+k :=|NN NN|BODY_19|0
+np= log|JJ NN|BODY_6|1
+the output|DT NN|BODY_6|0
+the class np np r|DT NN NN NN NN|BODY_5|0
+first an optp[o(log n|RB DT NN RB|BODY_19|1
+exactly one set i ' f2i j x|RB CD NN FW '' JJ NN NN|BODY_3|0
+a strong nondeterministic truth-table reduction|DT JJ JJ JJ NN|BODY_6|0
+np=optp[o(log n )|NN NN -RRB-|BODY_16|1
+the following theorem|DT VBG NN|BODY_5:BODY_11|0
+a charcterization|DT NN|BODY_5|1
+place|NN|BODY_21|1
+bounded versions|VBN NNS|ABSTRACT_3|0
+an np metric turing machine g|DT JJ JJ NN NN NN|BODY_4|0
+tt bg|NN NN|BODY_5|0
+the larger function class fewoptp|DT JJR NN NN NN|BODY_7|1
+' f2i j x|POS JJ NN NN|BODY_6|0
+the first time|DT JJ NN|BODY_4|1
+the levels|DT NNS|BODY_6:BODY_1|1
+a generator g|DT NN NN|BODY_3|0
+a \sigma|DT NN|BODY_6|0
+some tally test language|DT RB NN NN|BODY_14|0
+' fewoptp|POS NN|BODY_3|0
+an oracle separating ph|DT NN VBG NN|BODY_3|0
+a as follows|DT RB VBZ|BODY_5|0
+an arbitrary set|DT JJ NN|BODY_1|0
+the generator )|DT NN -RRB-|BODY_10|0
+where opt c|WRB JJ NN|BODY_3|0
+'s|POS|BODY_8|0
+\theta \sigma|NN NN|BODY_5|0
+uniform language classes|JJ NN NNS|BODY_2|0
+even the union k-1 np( k )|RB DT NN NN NN NN -RRB-|BODY_7|0
+the 2 k|DT CD NN|BODY_24|0
+level|NN|BODY_25|0
+nonuniform complexity classes|JJ NN NNS|BODY_4|0
+all the levels|PDT DT NNS|BODY_8|0
+w ns|NN NNS|BODY_34|0
+these complexity classes|DT NN NNS|BODY_4|0
+\sigma c|NN NN|BODY_3|0
+np c|NN NN|BODY_3|0
+relativized world|VBN NN|BODY_5|0
+a 6- sn|DT CD NN|BODY_6|0
+a the oracle|DT DT NN|BODY_16|0
+limited complexity|JJ NN|ABSTRACT_3|0
+thierauf [38]|NN NN|BODY_19|0
+a because|DT RB|BODY_16|0
+f 2 optp|NN CD NN|BODY_12|0
+precomputation|NN|BODY_20|1
+a single-valued np transducer|DT JJ NN NN|BODY_4|0
+restricting functions|JJ NNS|BODY_8|0
+l( ns|JJ NNS|BODY_8|0
+proper|JJ|BODY_5|0
+the generator g|DT NN NN|BODY_3|0
+the set query|DT NN NN|BODY_5|0
+l 2|NN CD|BODY_4|0
+np==optp[r]|JJ|BODY_2|0
+' p np|POS NN JJ|BODY_4|0
+any function r|DT NN NN|BODY_4|0
+np==optp[r ]|NN NNS|BODY_1|0
+the underlying technique|DT JJ NN|BODY_1|0
+selman [11]|NN NN|BODY_9|0
+] )|NN -RRB-|BODY_11|0
+l np|NN NN|BODY_6|0
+3.11|CD|BODY_2|0
+3.12|CD|BODY_2|0
+3.13|CD|BODY_2|0
+4.1|CD|BODY_2|0
+4.2|CD|BODY_2|0
+5.11|CD|BODY_2|0
+5.4|CD|BODY_2|0
+5.7|CD|BODY_2|0
+np==optp[o(log n ) ]|NN NN -RRB- NN|BODY_5:BODY_17|1
+the words|DT NNS|BODY_6|0
+superpolynomially many queries ) , book|RB JJ NNS -RRB- , NN|BODY_8|0
+p=optp[k|NN|BODY_23|0
+r|NN|BODY_2|0
+the natural numbers|DT JJ NNS|BODY_7|0
+a subclass|DT NN|BODY_5|1
+the parallel queries|DT JJ NNS|BODY_5|0
+( exactly|-LRB- RB|BODY_13|1
+) )|-RRB- -RRB-|BODY_10|0
+p=optp[o(log n|NN NN|BODY_2|0
+restricted relativizations|VBN NNS|BODY_2|0
+the optp[o(log n|DT NN NN|BODY_5|0
+the surprising result|DT JJ NN|BODY_13|0
+an open question|DT JJ NN|BODY_2|0
+theorem 4.2|NN CD|BODY_3|0
+n )+1|NN NNS|BODY_11|0
+a p machine e|DT NN NN NN|BODY_6|0
+some computation|DT NN|BODY_12|0
+the precomputed value|DT JJ NN|BODY_19|0
+np==|JJ|BODY_2|0
+its second level|PRP$ JJ NN|BODY_11|0
+figure 4.1|NN CD|BODY_5|0
+) j|-RRB- NN|BODY_7|0
+binary|NN|BODY_15|0
+optp[k]|NN|BODY_6|0
+proof sets|NN NNS|BODY_6|0
+strength|NN|BODY_2|0
+the advice function h|DT NN NN NN|BODY_16|0
+the census technique|DT NN NN|BODY_7|0
+' np=optp|POS NN|BODY_3|0
+the probabilistic class|DT JJ NN|BODY_6|0
+a set a 2 np|DT VBN DT CD NN|BODY_4|0
+the inclusion conp|DT NN NN|BODY_2|0
+the maximum [minimum ] output|DT JJ JJ SYM NN|BODY_3|0
+the o(log n ) bounded version|DT NN NN -RRB- VBN NN|BODY_2|0
+the following corollary|DT VBG NN|BODY_4|0
+np(2k k-tt|JJ NN|BODY_11|1
+whose binary representation|WP$ JJ NN|BODY_18|0
+a nondeterministic polynomial-time|DT JJ NN|BODY_2|0
+c k;r|NN NN|BODY_5|0
+) query :=|-RRB- NN NN|BODY_13|0
+machine t|NN NN|BODY_3|0
+other results|JJ NNS|ABSTRACT_1|0
+the first equality|DT JJ NN|BODY_11|0
+some set|DT NN|BODY_8|0
+the following characterization|DT VBG NN|BODY_2|0
+t ( 1 n )|NN -LRB- CD NN -RRB-|BODY_9|0
+corollary 5.8|NN CD|BODY_2|0
+( f( x ) )|-LRB- NN NN -RRB- -RRB-|BODY_10|0
+the np sets|DT NN NNS|BODY_9|0
+many researchers|JJ NNS|BODY_1|0
+us|PRP|BODY_2|0
+all oracle|DT NN|BODY_4|0
+l if|JJ IN|BODY_2|0
+complexity bounds|NN NNS|BODY_3|0
+each interval|DT NN|BODY_12|0
+[4 , 36] )|CD , CD -RRB-|BODY_7|0
+g (|NN -LRB-|BODY_9|0
+one|PRP|BODY_10|1
+a definition|DT NN|BODY_2|0
+that l|DT NN|BODY_3|0
+e[ o(logn )|JJ NN -RRB-|BODY_5|0
+the class c== f|DT NN NN NN|BODY_3|0
+np==optp[o(log note|NN NN|BODY_11|0
+np np k-tt|JJ JJ NN|BODY_12|1
+that m|DT NN|BODY_5|0
+the oracle|DT NN|BODY_9|0
+a function f|DT NN NN|BODY_5|0
+its closure|PRP$ NN|BODY_6|0
+the evaluator e|DT NN NN|BODY_14|0
+9a|CD|BODY_1|0
+( w ns|-LRB- NN NNS|BODY_22|0
+5.8. k-tt|DT NN|BODY_2|0
+a k-tuple|DT NN|BODY_10|1
+ns+q( ns|JJ NNS|BODY_9|0
+np==optp[o(log|NN|BODY_7|0
+the membership|DT NN|BODY_6|0
+the subsequent np computation|DT JJ NN NN|BODY_4|0
+all the outputs|PDT DT NNS|BODY_9|0
+the set q( m;x|DT NN NN NN|BODY_3|0
+all other ( recursive ) classes|DT JJ -LRB- JJ -RRB- NNS|BODY_6|0
+any other strict inclusions|DT JJ JJ NNS|BODY_2|0
+an optp function [29]|DT JJ NN NN|BODY_8|1
+b b)|NN NN|BODY_3|0
+separated p|VBN NN|BODY_4|0
+germany|NN|BODY_13:BODY_10|0
+a nondeterministic truth-table reduction|DT JJ JJ NN|BODY_3|0
+the relativized separation|DT JJ NN|BODY_1|0
+their union|PRP$ NN|BODY_3|0
+a similar argument|DT JJ NN|BODY_3|0
+any relativized world|DT VBN NN|BODY_5|0
+also the classes|RB DT NNS|BODY_3|0
+reducible|JJ|ABSTRACT_5|0
+enough initial segments|RB JJ NNS|BODY_2|0
+( determini-|-LRB- NNS|BODY_8|0
+g|NN|BODY_7|0
+outputs|NNS|BODY_2|0
+optp|NN|BODY_10|1
+type c|NN NN|BODY_6|0
+the inclusion|DT NN|BODY_5|0
+every x|DT NN|BODY_14|0
+a denotes|DT NNS|BODY_3|0
+this equation|DT NN|BODY_4|0
+- sat k|: VBD NN|BODY_9|1
+the given input|DT VBN NN|BODY_6|0
+every|DT|BODY_3|0
+35]|CD|BODY_5|0
+jaccj|NNS|BODY_23|0
+math|NN|ABSTRACT_1|0
+any accepting computation|DT VBG NN|BODY_6|0
+some np set|DT JJ NN|BODY_11:BODY_5|0
+ja|NN|BODY_6|0
+advice function|NN NN|BODY_6|0
+full-truth-table reducible [28|JJ JJ NNS|BODY_4|0
+h( 1 jxj|NN CD NN|BODY_8|0
+any|DT|BODY_15|0
+any fixed polynomial|DT VBN NN|BODY_3|1
+tt satg and satg|NN NN CC NN|BODY_21|0
+an np computation|DT NN NN|BODY_3|1
+itself|PRP|BODY_10|0
+functions f 2 optp|NNS NN CD NN|BODY_3|0
+hw ns ns|JJ NNS NNS|BODY_8|0
+the second equality|DT JJ NN|BODY_8|0
+acc|NN|BODY_26|0
+rej|NN|BODY_32|0
+strong nondeterministic truth-table reducible|JJ JJ JJ JJ|BODY_2|0
+js -n j|JJ JJ NN|BODY_6|0
+the information|DT NN|BODY_3|0
+[14] )|NN -RRB-|BODY_13|0
+2 ag|CD NN|BODY_12|0
+the oracle queries|DT NN NNS|BODY_16|0
+proving|NN|BODY_3|0
+a 2|DT CD|BODY_6:BODY_19|0
+the class np npspars e|DT NN NN NNS NN|BODY_3|1
+the nondeterministic counterparts|DT JJ NNS|BODY_13|0
+cai et al|FW FW NN|BODY_1|0
+machine m|NN NN|BODY_2|0
+the 2 l( n ) words|DT CD VBD NN -RRB- NNS|BODY_4|0
+each execution|DT NN|BODY_1|0
+i l( ns|IN JJ NNS|BODY_30|0
+one additional bit|CD JJ NN|BODY_8|1
+et al|FW NN|BODY_8|0
+np machines|JJ NNS|BODY_2|1
+a class f|DT NN NN|BODY_3|0
+a function g|DT NN NN|BODY_7|0
+== )|NN -RRB-|BODY_8|0
+q( n )|NN NN -RRB-|BODY_22|0
+running times stage g|VBG NNS NN NN|BODY_9|0
+a machine|DT NN|BODY_5|0
+equality ( 1.1 )|NN -LRB- CD -RRB-|BODY_2|0
+r( jxj|JJ NN|BODY_3|0
+an index|DT NN|BODY_2|0
+the second column|DT JJ NN|BODY_9|0
+the related class np np r|DT JJ NN NN NN NN|BODY_2|0
+a )i|DT NN|BODY_8|0
+any x 2 bm \gamma|DT NN CD NN NN|BODY_3|0
+a given input x|DT VBN NN NN|BODY_2|0
+q( jxj)g )|JJ NN -RRB-|BODY_12|1
+the above mentioned characterizations|DT JJ VBN NNS|BODY_3|1
+2 potential words|CD JJ NNS|BODY_4|0
+oracle a|NN DT|BODY_7|0
+truth-table reducibilities|JJ NNS|BODY_6|0
+only polynomially many different outputs|RB RB JJ JJ NNS|BODY_13|1
+stages|NNS|BODY_4|0
+some levels|DT NNS|BODY_6|0
+all oracle queries|DT NN NNS|BODY_3|0
+p==optp[o(log n ) ]|MD RB -RRB- NN|BODY_4|0
+any restricting function r|DT JJ NN NN|BODY_3|0
+several complexity classes|JJ NN NNS|BODY_5|0
+theorem 5.13|NN CD|BODY_6|0
+beigel [7|NN NNS|BODY_6|0
+the 1)-th level|DT JJ NN|BODY_16|0
+at most q( n ) words|IN JJS JJ NN -RRB- NNS|BODY_4|0
+the boolean closure|DT NN NN|BODY_4|0
+p(jxj )|NN -RRB-|BODY_18|0
+r( jxj )|JJ NN -RRB-|BODY_4|0
+' bm|'' NN|BODY_16|0
+a new reducibility notion|DT JJ NN NN|BODY_4|0
+an optp function|DT JJ NN|BODY_9|0
+addition|NN|BODY_8|0
+w ns ns|NN NNS NNS|BODY_28|0
+com- plementation|NNS NN|BODY_12|0
+r.|NNP|BODY_18|0
+a polynomial number|DT JJ NN|BODY_6|0
+book and ko [10]|NN CC NN NN|BODY_6|0
+inclusion structure|NN NN|BODY_1|0
+ph 6= \sigma|NN NN NN|BODY_13|0
+our first theorem states|PRP$ JJ NN NNS|BODY_1|0
+its argument|PRP$ NN|BODY_5|0
+the size|DT NN|BODY_2|0
+languages|NNS|BODY_15|0
+np np r ) can|JJ JJ NN -RRB- MD|BODY_6|0
+x 2 a|NN CD DT|BODY_15|0
+( f( x|-LRB- NN NN|BODY_1:BODY_10|0
+np[o(logn ) ]|NN -RRB- NN|BODY_8|0
+a machine m|DT NN NN|BODY_10|0
+k-truth-table reducible|JJ JJ|BODY_3|0
+words|NNS|BODY_7|0
+a census argument|DT NN NN|BODY_2|0
+an nppv transducer|DT NN NN|BODY_3|0
+a the boolean hierarchy|DT DT NN NN|BODY_5|0
+this containment|DT NN|BODY_3|0
+an nppv function [11]|DT NN NN NN|BODY_24|0
+polynomially many different outputs|RB JJ JJ NNS|BODY_22|0
+c such|NN JJ|BODY_11|0
+\sigma \sigma k spars e remark 3.10|NN NN NN NNS NN NN CD|BODY_7|0
+a k-alternating polynomial-time turing machine [16]|DT JJ NN VBG NN NN|BODY_8|0
+[43 , 28 , 8]|CD , CD , CD|BODY_20|0
+every oracle|DT NN|BODY_18|0
+certain levels|JJ NNS|BODY_4|0
+the ( 2k 1)-th level|DT -LRB- JJ JJ NN|BODY_15|1
+the same way|DT JJ NN|BODY_5|0
+nonrecursive functions|JJ NNS|BODY_4|0
+the advice f( x )|DT NN NN RB -RRB-|BODY_10|0
+the characteristic function|DT JJ NN|BODY_4|0
+k queries|NN NNS|BODY_5|0
+np(k ( [28]|NN -LRB- NNP|BODY_5|0
+any oracle|DT NN|BODY_6|0
+p npspars e|NN NNS NN|BODY_1|0
+some np-complete set b|DT JJ VBD NN|BODY_6|0
+levels|NNS|BODY_3|0
+the np transducer|DT NN NN|BODY_8|0
+this number|DT NN|BODY_16|0
+l(|VBD|BODY_17|0
+2 b|CD NN|BODY_8|0
+the unbounded version|DT JJ NN|BODY_20|0
+a relativization|DT NN|BODY_5|1
+a in np|DT RB JJ|BODY_3|0
+an oracle machine|DT NN NN|BODY_7|0
+nondeterministically k-truth-table reducible|RB JJ JJ|BODY_16|1
+sparse sets|JJ NNS|BODY_7|1
+the smallest class|DT JJS NN|BODY_7|0
+a'\sigma q( m|NN JJ NN|BODY_8|0
+5.2|CD|BODY_6|0
+the same result|DT JJ NN|BODY_8|0
+np==optp[o(log n )]|NN NN NN|BODY_12|0
+an output|DT NN|BODY_18|0
+the input x|DT NN NN|BODY_7|0
+npr|NN|BODY_3|0
+b nondeterministically k-truth-table reducible|NN RB JJ JJ|BODY_4|0
+npsv|NN|BODY_3|0
+karp and lipton|JJ CC NN|ABSTRACT_4|0
+chandra [19]|NN NN|BODY_6|0
+every execution|DT NN|BODY_1|0
+the class optp|DT NN NN|BODY_1|0
+[32|CD|BODY_1|0
+the classes coincide|DT NNS NN|BODY_4|0
+the larger class|DT JJR NN|BODY_6|0
+a [ fyg fig|DT JJ NN NN|BODY_38|0
+rochester|NN|BODY_4|0
+a 6- np tt|DT CD NN NN|BODY_7|0
+p np tt|NN NN NN|BODY_7|0
+log( 2|NN CD|BODY_1|0
+np=log |NN|BODY_1|0
+the set h( 1 jxj )|DT VBN NN CD NN -RRB-|BODY_10|0
+a string hx|DT NN NN|BODY_13|0
+some oracle )|DT NN -RRB-|BODY_11|0
+an optp computation|DT NN NN|BODY_5|0
+let machine m|VB NN NN|BODY_1|0
+combining theorem|VBG NN|BODY_1|0
+an immediate consequence|DT JJ NN|BODY_1|0
+the construction further guarantees|DT NN JJ NNS|BODY_1|0
+p=log and p=poly|NN CC NN|BODY_3|0
+the authors|DT NNS|ABSTRACT_1|0
+an optimization function h|DT NN NN NN|BODY_4|0
+transducer|NN|BODY_5|0
+bh ( and therefore ph [20] )|JJ -LRB- CC RB JJ NNP -RRB-|BODY_10|0
+the technique|DT NN|BODY_1|0
+the known relationships|DT JJ NNS|BODY_1|0
+system sci.|NN NN|ABSTRACT_1|0
+a sparse oracle|DT JJ NN|BODY_7|0
+np sets|JJ NNS|BODY_12|0
+krentel [29|NN CD|BODY_1|0
+every accepting branch|DT VBG NN|BODY_8|0
+p(jxj)g and log o(log( jxj))g|NN CC NN NN NN|BODY_31|0
+corollary 3.7|NN CD|BODY_2|0
+l( a )|JJ DT -RRB-|BODY_5|0
+optp function|JJ NN|BODY_12|1
+sets c|NNS NN|BODY_18|0
+p and r|NN CC NN|BODY_1|0
+np( 2 ladner|NN CD NN|BODY_1|0
+the interest|DT NN|BODY_1|0
+a ( x )|DT -LRB- SYM -RRB-|BODY_12|0
+the nondeterministic k-truth-table reducibility notion|DT JJ JJ NN NN|BODY_8|0
+various complexity restricted advice function classes|JJ NN VBN NN NN NNS|BODY_7|0
+let t|VB NN|BODY_1|0
+nonrecursive languages|JJ NNS|BODY_7|0
+a set l|DT NN NN|BODY_1|0
+the ( logarithmically length-bounded ) output|DT -LRB- RB JJ -RRB- NN|BODY_1|0
+any oracle turing machine m|DT NN VBG NN NN|BODY_1|0
+a further consequence|DT JJ NN|BODY_1|0
+a given n|DT VBN NN|BODY_1|0
+helpful conversations and suggestions|JJ NNS CC NNS|BODY_1|0
+sn satg|NN NN|BODY_8|1
+t ( 1 jxj )|IN -LRB- CD NN -RRB-|BODY_5|0
+the following lemma|DT VBG NN|BODY_6|0
+their valuable suggestions|PRP$ JJ NNS|BODY_3|0
+a 2 np and f 2|DT CD NN CC NN CD|BODY_4|0
+every set l 2 np( k )|DT NN NN CD NN NN -RRB-|BODY_1|0
+b 2|NN CD|BODY_5|0
+the class p=optp[o(log n )|DT NN NN NN -RRB-|BODY_1|0
+theorem 5.2|NN CD|BODY_1|0
+2 bg|CD NN|BODY_5|0
+bg|NN|BODY_6|0
+section 4 )|NN CD -RRB-|BODY_6|0
+the npsv generator|DT NN NN|BODY_7|0
+various ways|JJ NNS|BODY_14|0
+combining corollary 3.5 i|VBG NN CD NN|BODY_1|0
+the results|DT NNS|BODY_1|0
+0: corollary 4.3|NNP NN CD|BODY_6|0
+further oracle queries|JJ NN NNS|BODY_12|0
+its cardinality|PRP$ NN|BODY_4|0
+choose|VBP|BODY_1|0
+its output tape|PRP$ NN NN|BODY_13|0
+@ e e \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi r \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi \phi fig|IN NN NN NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NN NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NN|BODY_6|0
+some relativized world|DT JJ NN|BODY_6|0
+the question tt|DT NN NN|BODY_1|0
+the effect|DT NN|ABSTRACT_1|0
+work|NN|BODY_1|0
+deterministically truth-table reducible to|RB JJ JJ TO|ABSTRACT_4|0
+optp[o(log n|NN NN|BODY_1|0
+karp and lipton [23|NN CC NN NNS|BODY_1|0
+their fundamental paper , karp and lipton [23|PRP$ JJ NN , NN CC NN NNS|BODY_1|0
+the following terminology definition 5.6|DT VBG NN NN CD|BODY_3|0
+a string x|DT NN NN|BODY_1|0
+5 , 23 , 36] )|CD , CD , CD -RRB-|BODY_7|0
+] function|CD NN|BODY_21|0
+np(2k 1 )|NN CD -RRB-|BODY_2|0
+a slight modification|DT JJ NN|BODY_1|0
+a sparse np oracle|DT JJ JJ NN|BODY_5|0
+inverses|NNS|BODY_8|0
+the following algorithm|DT VBG NN|BODY_11:BODY_5|0
+these subclasses|DT NNS|ABSTRACT_1|0
+a typical class|DT JJ NN|BODY_1|0
+e[ o(logn ) ]|JJ NN -RRB- SYM|BODY_14:BODY_10:BODY_7|0
+its length|PRP$ NN|BODY_4|0
+the reverse containment|DT NN NN|BODY_9|0
+stage|NN|BODY_1|0
+np c k-tt bg|NN NN NN NN|BODY_10|0
+also conp|RB NN|BODY_1|0
+e|NN|BODY_1|0
+ph , collapse|NN , NN|BODY_11|0
+the polynomial-time hierarchy [37]|DT NN NN NN|BODY_4|0
+an np metric turing machine t|DT NN JJ NN NN NN|BODY_1|0
+them|PRP|BODY_12|0
+sat.|NN|BODY_8|0
+the alphabet 1g|DT NN CD|BODY_2|0
+single-valued np transducers|JJ NN NNS|BODY_4|0
+this reducibility|DT NN|BODY_1|0
+1 n|CD RB|BODY_24|1
+a set t|DT NN NN|BODY_1|0
+the sparse np|DT JJ NN|BODY_1|0
+the latter result|DT JJ NN|BODY_1|1
+' p npspars e|POS NN NNS NN|BODY_2|0
+section 3|NN CD|BODY_1|1
+section 4|NN CD|BODY_1|0
+section 5|NN CD|BODY_1|0
+the latter two classes|DT JJ CD NNS|BODY_1|0
+the next lemma|DT JJ NN|BODY_1|1
+the paper|DT NN|BODY_1|0
+this concept|DT NN|BODY_1|0
+this restriction|DT NN|BODY_1|0
+np.|PRP$|BODY_6|0
+(advice ) functions|NN -RRB- NNS|BODY_13|0
+a proper inclusion|DT JJ NN|BODY_5|0
+contrast|NN|BODY_1|0
+1 )|CD -RRB-|BODY_5|0
+a consequence|DT NN|BODY_1:ABSTRACT_1|0
+l 2 np== #|JJ CD JJ #|BODY_1|0
+np== #|JJ #|BODY_3|0
+3.7|CD|BODY_13|0
+h( x)i 2|NN NN CD|BODY_8|0
+a languages|DT NNS|BODY_1|0
+corollary 5.8 ii|JJ CD NNS|BODY_1|0
+np np tt|JJ JJ NN|BODY_25|1
+left|NN|BODY_4|0
+every polynomial|DT NN|BODY_1|0
+a -n|DT NN|BODY_1|0
+let npsv|VB NN|BODY_1|0
+p.|NN|BODY_5|0
+polynomially length bounded functions|DT NN VBN NNS|BODY_4|0
+'s length|POS NN|ABSTRACT_6|0
+t ( x )|NN -LRB- NN -RRB-|BODY_5|0
+input 1 n|NN CD NN|BODY_1|0
+a r|DT NN|BODY_1|0
+all sparse languages|DT NN NNS|BODY_3|0
+all tally sets|DT RB NNS|BODY_2|0
+fp|NN|BODY_1|0
+let fewoptp|VB NN|BODY_1|0
+let sparse|VB NN|BODY_1|0
+at most p( n )|IN JJS JJ NN -RRB-|BODY_10|0
+advice)|NN|BODY_11|0
+full-truth-table reducible 2 to|JJ JJ CD TO|BODY_17|0
+hemachandra [18] and kadin [21]|NN NN CC NN NN|BODY_4|0
+polynomially size-bounded circuits|RB JJ NNS|BODY_7|0
+pp np r|RP JJ NN|BODY_14|0
+bh.|NN|BODY_10|0
+this result|DT NN|BODY_27|0
+algorithm|NN|BODY_1|0
+the tally np set )g|DT NN NN VBN NN|BODY_9|0
+a class c|DT NN NN|BODY_1|0
+any set|DT NN|BODY_1|0
+np )|NN -RRB-|BODY_11|0
+the complement \sigma \gamma|DT NN NN NN|BODY_1|0
+the special case|DT JJ NN|BODY_1|0
+truth-table reducible to|JJ JJ TO|BODY_6|0
+x )|NN -RRB-|BODY_10|0
+np=optp[o(log n ) ]|NN NN -RRB- NN|BODY_11|0
+an optp[r ] function|DT JJ JJ NN|BODY_5|0
+the np|DT NN|BODY_1|0
+2. preliminaries and notation|DT NNS CC NN|BODY_1|0
+3.9|CD|BODY_1|0
+5.10|CD|BODY_1|0
+] shows|JJ NNS|BODY_1|0
+ag|NN|BODY_1|0
+complexity-restricted advice functions|JJ NN NNS|TITLE_1|0
+comput|NN|ABSTRACT_1|0
+corollary 3.3|NN CD|BODY_1|0
+corollary 4.4|NN CD|BODY_1|0
+corollary 5.5|NN CD|BODY_1|0
+definition 3.1|NN CD|BODY_1|0
+definition 5.1|NN CD|BODY_1|0
+definition 5.12|NN CD|BODY_1|0
+introduction|NN|BODY_1|0
+np np corollary|JJ JJ NN|BODY_1|0
+ph 6= p np ) np=optp 6=|NN NN NN NN -RRB- NN NN|BODY_1|0
+remark|NN|BODY_1|0
+sch-oning|NN|BODY_1|0

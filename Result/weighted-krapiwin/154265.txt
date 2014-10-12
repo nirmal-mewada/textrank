@@ -1,0 +1,406 @@
+mutation analysis|NN NN|BODY_12:BODY_6:BODY_5:TITLE_1:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_7|2
+that|WDT|BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:ABSTRACT_10|3
+mutant schemata|JJ NN|BODY_5:TITLE_2:BODY_1:BODY_2:BODY_4|1
+which|WDT|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_8:ABSTRACT_9|1
+a program|DT NN|BODY_3:ABSTRACT_7|1
+a new method|DT JJ NN|ABSTRACT_2:BODY_2|2
+the quality|DT NN|BODY_6:ABSTRACT_3:BODY_4|0
+interpretive systems|JJ NNS|BODY_6:BODY_5:ABSTRACT_4|0
+hardware and software platforms|NN CC NN NNS|ABSTRACT_8|0
+previous interpretive systems|JJ JJ NNS|ABSTRACT_11|1
+over 300 %|IN CD NN|ABSTRACT_2|0
+preliminary performance improvements|JJ NN NNS|ABSTRACT_1|0
+severe performance problems|JJ NN NNS|ABSTRACT_2|0
+the additional advantages|DT JJ NNS|ABSTRACT_2|0
+a wide range|DT JJ NN|ABSTRACT_7|0
+a powerful technique|DT JJ NN|ABSTRACT_2|0
+unit test software|NN NN NN|ABSTRACT_5|0
+development and/or deployment|NN CC NN|ABSTRACT_11|0
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|1
+the program|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+p|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+it|PRP|BODY_2:BODY_1:BODY_3:BODY_4|1
+they|PRP|BODY_1:BODY_3:BODY_4:BODY_9|0
+msg systems|NN NNS|BODY_5:BODY_1:BODY_4|0
+mutants|NNS|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+the msg method|DT NN NN|BODY_1:BODY_2:BODY_10|0
+section 5 and conclusions|NN CD CC NNS|BODY_2|1
+the mutation adequacy score|DT NN NN NN|BODY_4|0
+the metamutant|DT NN|BODY_2:BODY_1:BODY_3:BODY_7|1
+an msg system|DT NN NN|BODY_5:BODY_3|0
+the mutants|DT NNS|BODY_6:BODY_5:BODY_3:BODY_4|0
+a set|DT NN|BODY_5:BODY_11:BODY_2|0
+mutation testing|NN NN|BODY_5:BODY_1:BODY_3|1
+the program neighborhood|DT NN NN|BODY_6:BODY_1:BODY_10:BODY_4|1
+a specially parameterized program|DT RB VBN NN|BODY_6|1
+potentially kil- lable mutants|RB VBN JJ NNS|BODY_3|1
+dr :=|NN NN|BODY_34:BODY_27:BODY_30:BODY_20|0
+(|-LRB-|BODY_36:BODY_62:BODY_57:BODY_52:BODY_1:BODY_65:BODY_54|0
+this|DT|BODY_6:BODY_1:BODY_3|0
+each mutant|DT NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+the same operational environment|DT JJ JJ NN|BODY_5:BODY_2|0
+type information|NN NN|BODY_2:BODY_3|0
+msg mutation systems|NN NN NNS|BODY_2|1
+the right hand side|DT JJ NN NN|BODY_4|0
+t|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|1
+an internal form suitable|DT JJ NN JJ|BODY_3|0
+the original program output|DT JJ NN NN|BODY_7|0
+these high performance computers|DT JJ NN NNS|BODY_2|0
+the intrinsic metaprocedure library|DT JJ NN NN|BODY_2|0
+oir( aorr( oir(|NN IN NN|BODY_31:BODY_40:BODY_24|0
+return end figure 7|NN NN NN CD|BODY_2|0
+the same pro- gram|DT JJ NNS NN|BODY_5|0
+partially interpreted program schema|RB VBN NN NN|BODY_3|0
+a result|DT NN|BODY_5:BODY_2:BODY_4|0
+that msg mutation systems|DT JJ NN NNS|BODY_2|0
+newton|NN|BODY_12:BODY_11:BODY_2:BODY_4|0
+the same test coverage|DT JJ NN NN|BODY_3|0
+all the compilation characteristics|PDT DT NN NNS|BODY_4|0
+our mutant schema generation|PRP$ JJ NN NN|BODY_2:BODY_4|0
+) ae oe instantiation|-RRB- NNS NN NN|BODY_10|0
+) p i execution|-RRB- NN NN NN|BODY_11|0
+a specific lan- guage|DT JJ NNS NN|BODY_2|0
+any additional test cases|DT JJ NN NNS|BODY_2|0
+heterogeneous distributed computing implementations|JJ VBN NN NNS|BODY_2|0
+the appropriate code patch|DT JJ NN NN|BODY_3|0
+the needed special compiler|DT VBN JJ NN|BODY_1|0
+the imscu system [19]|DT NN NN NNS|BODY_4|0
+run-time semantics and environment|NN NNS CC NN|BODY_3|0
+a syntactically valid statement|DT RB JJ NN|BODY_3|0
+conventional mutation analysis systems|JJ NN NN NNS|BODY_2|0
+baruch and katz [5]|JJ CC JJ NN|BODY_2|0
+an interpretive system [6|DT JJ NN NNS|BODY_9|0
+the following six mutations|DT JJ CD NNS|BODY_5|0
+a mutant generator program|DT NN NN NN|BODY_2|0
+a syntactically valid change|DT RB JJ NN|BODY_2|0
+test data adequacy criteria|NN NNS NN NNS|BODY_2|0
+unary operator insertion mutations|JJ NN NN NNS|BODY_2|0
+most development envi- ronments|JJS NN NNS NNS|BODY_2|0
+a network computer system|DT NN NN NN|BODY_2|0
+sun3s and sun4s )|NN CC NN -RRB-|BODY_5|0
+a full msg system|DT JJ NN NN|BODY_3|0
+the number and type|DT NN CC NN|BODY_6|0
+the intended operational environment|DT VBN JJ NN|BODY_3|0
+the aorr function|DT JJ NN|BODY_5:BODY_4|0
+an existing l-language compiler|DT VBG NN NN|BODY_3|0
+a global parameter selects|DT JJ NN NNS|BODY_2|0
+a white-box testing technique|DT JJ VBG NN|BODY_3|0
+a given program p|DT VBN NN NN|BODY_4|0
+the portability and ease|DT NN CC NN|BODY_2|0
+interpretive execution and mutation|JJ NN CC NN|BODY_4|0
+some test set t|DT NN VBN NN|BODY_3|0
+a change point number|DT NN NN NN|BODY_3|0
+each metaprocedure invocation site|DT NN NN NN|BODY_1|0
+the same standard compiler|DT JJ NN NN|BODY_4|0
+compiler-integrated [12] program mutation|JJ JJ NN NN|BODY_1|0
+the mutant sampling strategy|DT JJ NN NN|BODY_1|0
+the mutants p i|DT NNS NN NN|BODY_1|0
+the widespread practical use|DT JJ JJ NN|BODY_4|0
+a static metaprocedure library|DT JJ NN NN|BODY_15|0
+an abstract syntax tree|DT JJ NN NN|BODY_1|0
+( the third argument|-LRB- DT JJ NN|BODY_1|0
+the desired alternate program|DT VBN JJ NN|BODY_5|0
+the most obvious advantage|DT RBS JJ NN|BODY_1|0
+the nature and number|DT NN CC NN|BODY_1|0
+the arithmetic operator replacement|DT JJ NN NN|BODY_1|0
+its original operational behavior|PRP$ JJ JJ NN|BODY_5|0
+only one mutated statement|RB CD JJ NN|BODY_4|0
+a metaoperator abstract entity|DT NN JJ NN|BODY_8|0
+mutagens ( modification rules|NNS -LRB- NN NNS|BODY_5|0
+the mutant schema [23]|DT JJ NN NN|BODY_4|0
+its intended operational environment|PRP$ JJ JJ NN|BODY_6|0
+the mutant descriptor list|DT JJ NN NN|BODY_4|0
+automated mutation analysis systems|VBN NN NN NNS|BODY_1|0
+a time-consuming manual task|DT NN NN NN|BODY_7|0
+the test set t|DT NN VBN NN|BODY_7|0
+this execution speed difference|DT NN NN NN|BODY_4|0
+the program neighborhood n|DT NN NN NN|BODY_7|0
+almost all the mutants|RB PDT DT NNS|BODY_3|0
+metaoperand procedures reference one|NN NNS NN CD|BODY_1|0
+11 * ) end|CD SYM -RRB- NN|BODY_53|0
+typically a large number|RB DT JJ NN|BODY_9|0
+one powerful testing technique|CD JJ NN NN|BODY_1|0
+such a generic form|JJ DT JJ NN|BODY_3|0
+some predefined modification rule|DT VBN NN NN|BODY_7|0
+the specific program being|DT JJ NN NN|BODY_7|0
+a distributed computing environment|DT VBN NN NN|BODY_5|0
+the major computational cost|DT JJ JJ NN|BODY_1|0
+a mutant|DT NN|BODY_1:BODY_3:BODY_4|0
+user-defined types|JJ NNS|BODY_6:BODY_5:BODY_3|0
+this new method|DT JJ NN|BODY_4|1
+a program p|DT NN NN|BODY_2:BODY_1:BODY_3|0
+a change point|DT NN NN|BODY_2|0
+p source text|NN NN NN|BODY_2|0
+example|NN|BODY_1:BODY_4|0
+the total number|DT JJ NN|BODY_8|1
+the benefit|DT NN|BODY_3:BODY_4|0
+an important advantage|DT JJ NN|BODY_1|1
+their innate portabilty|PRP$ JJ JJ|BODY_3|1
+a novel way|DT JJ NN|BODY_4|1
+3.1 mutation analysis|CD NN NN|BODY_1|1
+a complete program|DT JJ NN|BODY_12:BODY_2|0
+the mutagenic operators|DT JJ NNS|BODY_6:BODY_3|0
+the test set|DT NN NN|BODY_2:BODY_3|0
+a test case|DT NN NN|BODY_2|0
+a mutation system|DT NN NN|BODY_2|0
+their formal parameters|PRP$ JJ NNS|BODY_4|0
+only a subset|RB DT NN|BODY_2|0
+the possible mutagens|DT JJ NNS|BODY_3|0
+the source code|DT NN NN|BODY_2|0
+the original program|DT JJ NN|BODY_6:BODY_1:BODY_3|0
+.e|NN|BODY_2:BODY_8|0
+the apparent overhead|DT JJ NN|BODY_2|0
+) and rightop|-RRB- CC JJ|BODY_6|0
+)|-RRB-|BODY_6:BODY_59:BODY_45|0
+the number|DT NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+an example|DT NN|BODY_2|0
+the mutant programs|DT JJ NNS|BODY_3|0
+each program p|DT NN NN|BODY_3|0
+the resulting outputs|DT VBG NNS|BODY_5|0
+the abstract entities|DT JJ NNS|BODY_3:BODY_4|0
+a square root|DT JJ NN|BODY_11:BODY_10|0
+range  )|NN RB -RRB-|BODY_2|0
+the set g|DT NN NN|BODY_4|0
+an abstract entity|DT JJ NN|BODY_6|0
+the internal form|DT JJ NN|BODY_4|0
+the left operand|DT JJ NN|BODY_4|0
+present experimental results|JJ JJ NNS|BODY_5|0
+the conventional method|DT JJ NN|BODY_2:BODY_1|0
+the alternate operations|DT JJ NNS|BODY_2|0
+the mutant executes|DT JJ NNS|BODY_2|0
+the large number|DT JJ NN|BODY_2|0
+a preliminary step|DT JJ NN|BODY_2|0
+faster mutation analysis|RBR JJ NN|BODY_6|0
+the ast|DT NN|BODY_6:BODY_3|0
+metaoperators|NNS|BODY_1:BODY_4|0
+all the metaprocedures|DT DT NNS|BODY_2|0
+metaprocedure function call|NN NN NN|BODY_2|0
+an intermediate language|DT JJ NN|BODY_3|0
+the rewritten ast|DT NN NN|BODY_3|0
+the type declarations|DT NN NNS|BODY_3|0
+excessive compilation overhead|JJ NN NN|BODY_2|0
+test set quality|NN VBN NN|BODY_5:BODY_3|0
+) figure 4|-RRB- NN CD|BODY_12|0
+their special requirements|PRP$ JJ NNS|BODY_4|0
+a mutagenic substance|DT JJ NN|BODY_4|0
+mutagens|NNS|BODY_1:BODY_3:BODY_4|0
+all mutations|DT NNS|BODY_7:BODY_8|0
+this testing process|DT NN NN|BODY_2|0
+every test case|DT NN NN|BODY_6:BODY_3|0
+these equivalent mutants|DT JJ NNS|BODY_2|0
+each non-leaf node|DT NN NN|BODY_3|0
+the available features|DT JJ NNS|BODY_3|0
+4.1 times faster|CD NNS JJR|BODY_11|0
+mutation analysis systems|NN NN NNS|BODY_6:BODY_1|0
+the metamutant functions|DT JJ NNS|BODY_2|0
+relatively small programs|RB JJ NNS|BODY_4|0
+type checking rules|NN NN NNS|BODY_6|0
+many mutant programs|JJ JJ NNS|BODY_3|0
+an arithmetic operator|DT JJ NN|BODY_5|0
+a function|DT NN|BODY_4|0
+) n substantiation|-RRB- NN NN|BODY_9|0
+a case structure|DT NN NN|BODY_2|0
+a common driver|DT JJ NN|BODY_1|0
+a particular mutant|DT JJ NN|BODY_2|0
+a program schema|DT NN NN|BODY_1|0
+an expensive undertaking|DT JJ NN|BODY_2|0
+only a sample|RB DT NN|BODY_1|0
+the mutagens g|DT NNS NN|BODY_1|0
+these dead mutants|DT JJ NNS|BODY_1|0
+this architecture independence|DT NN NN|BODY_1|0
+the assignment statement|DT NN NN|BODY_2|0
+a metamutant|DT NN|BODY_2:BODY_1:BODY_3|0
+object code patches|NN NN NNS|BODY_2|0
+any particular program|DT JJ NN|BODY_7|0
+such administrative matters|JJ JJ NNS|BODY_3|0
+the test cases|DT NN NNS|BODY_2:BODY_4|0
+mutation systems|NN NNS|BODY_2:BODY_1|0
+a standard set|DT JJ NN|BODY_2|0
+the same compiler|DT JJ NN|BODY_3|0
+mutation testing [11|JJ NN NNS|BODY_4|0
+an attribute grammar|DT NN NN|BODY_2|0
+initialize local variables|NN JJ NNS|BODY_15|0
+current use [2|JJ NN NN|BODY_7|0
+the appropriate patch|DT JJ NN|BODY_4|0
+some smaller unit|DT JJR NN|BODY_13|0
+putr target *|JJ NN SYM|BODY_14|0
+metaprocedure function calls|JJ NN NNS|BODY_2|0
+newguess := 0.0|NN NN CD|BODY_18|0
+two com- ponents|CD NNS NNS|BODY_2|0
+a single modification|DT JJ NN|BODY_5|0
+an interpreter-based system|DT JJ NN|BODY_3|0
+all or most|DT CC JJS|BODY_4|0
+the two programs|DT CD NNS|BODY_5|0
+) var newguess|-RRB- NN NN|BODY_13|0
+the test data|DT NN NNS|BODY_5|0
+syntactically valid representations|RB JJ NNS|BODY_2|0
+) / 2.0|-RRB- JJ CD|BODY_38|0
+a metaoperator procedure|DT NN NN|BODY_3|0
+the msg system|DT NN NN|BODY_6|0
+the ast construc|DT JJ NN|BODY_6|0
+an ad-hoc manner|DT JJ NN|BODY_2|0
+) ,21 )|-RRB- CD -RRB-|BODY_42|0
+the complete set|DT JJ NN|BODY_5|0
+the test case|DT NN NN|BODY_10|0
+the alternate programs|DT JJ NNS|BODY_4|0
+all the mutations|PDT DT NNS|BODY_2|0
+the execution speed|DT NN NN|BODY_3|0
+an adequacy criterion|DT NN NN|BODY_3|0
+the current status|DT JJ NN|BODY_3|0
+aorr figure|JJ NN|BODY_2|0
+some details|DT NNS|BODY_2|0
+the information|DT NN|BODY_2|0
+the structure|DT NN|BODY_2|0
+this burden|DT NN|BODY_2|0
+this metamutant|DT NN|BODY_2|0
+the very fact|DT RB NN|BODY_2|0
+some program variables|DT NN NNS|BODY_7|0
+each change point|DT NN NN|BODY_3|0
+background mutation analysis|NN NN NN|BODY_2|0
+epsilon := 0.0|NN NN CD|BODY_19|0
+complicated control features-indeed|JJ NN JJ|BODY_7|0
+not san(75 )|RB NN -RRB-|BODY_60|0
+a strong indication|DT JJ NN|BODY_2|0
+each different type|DT JJ NN|BODY_7|0
+the terminology varies|DT NN NNS|BODY_8|0
+the symbol table|DT NN NN|BODY_3|0
+a new form|DT JJ NN|BODY_2|0
+mutation tools|NN NNS|BODY_3:BODY_8|0
+the procedure newton|DT NN NN|BODY_3|0
+) dr :=|-RRB- NN NN|BODY_39|0
+the program being|DT NN NN|BODY_10|0
+figure 7 )|NN CD -RRB-|BODY_3|0
+the same language|DT JJ NN|BODY_3|0
+the fortran version|DT JJ NN|BODY_6|0
+the newton procedure|DT NN NN|BODY_3|0
+a test set|DT NN NN|BODY_7|0
+dynamic memory fea|JJ NN NN|BODY_4|0
+a compilable program|DT JJ NN|BODY_2|0
+the newton metamu|DT NN NN|BODY_3|0
+our benchmark comparison|PRP$ NN NN|BODY_6|0
+smaller and easier|JJR CC JJR|BODY_6|0
+a complete system|DT JJ NN|BODY_3|0
+the primary factor|DT JJ NN|BODY_2|0
+syntactically valid (|RB JJ -LRB-|BODY_7|0
+a program neighborhood|DT NN NN|BODY_4|0
+selective mutation [21]|JJ NN NN|BODY_1|0
+the following statement|DT VBG NN|BODY_1|0
+the translated program|DT VBN NN|BODY_1|0
+the word program|DT NN NN|BODY_8|0
+modula-2 or ada|NN CC NN|BODY_2|0
+a metamutant program|DT JJ NN|BODY_3|0
+an abridged listing|DT JJ NN|BODY_1|0
+an existing compiler|DT VBG NN|BODY_1|0
+the performance problem|DT NN NN|BODY_3|0
+this revised ast|DT VBN NN|BODY_1|0
+an incorrect result|DT JJ NN|BODY_2|0
+a quality measure|DT NN NN|BODY_3|0
+a closer look|DT JJR NN|BODY_6|0
+the enormous computational|DT JJ JJ|BODY_6|0
+many metaoperator procedures|JJ NN NNS|BODY_1|0
+the implementation difficulty|DT NN NN|BODY_1|0
+the implementation details|DT NN NNS|BODY_1|0
+the operands [3]|DT NNS NN|BODY_7|0
+the right operand|DT NN NN|BODY_7|0
+a decorated tree|DT VBN NN|BODY_1|0
+the compilation process|DT NN NN|BODY_1|0
+the syntactic change|DT NN NN|BODY_1|0
+these conventional systems|DT JJ NNS|BODY_16|0
+the actual variable|DT JJ JJ|BODY_1|0
+newguess := newguess|JJ NN JJ|BODY_1|0
+the generic representation|DT JJ NN|BODY_1|0
+ aorr case|RB JJ NN|BODY_1|0
+arithemetic operation function|JJ NN NN|BODY_5|0
+a large number|DT JJ NN|BODY_1|0
+increased execution speed|JJ NN NN|BODY_5|0
+operators or metaoperands|NNS CC NNS|BODY_3|0
+test data quality|NN NNS NN|BODY_5|0
+the principle reason|DT NN NN|BODY_1|0
+a rudimentary library|DT JJ NN|BODY_1|0
+such modification rules|JJ NN NNS|BODY_1|0
+g and l|NN CC NN|BODY_2|0
+this list details|DT NN NNS|BODY_1|0
+systematic testing techniques|JJ NN NNS|BODY_1|0
+5 related work|CD VBN NN|BODY_1|0
+the attribute grammar|DT NN NN|BODY_6|0
+a given program|DT VBN NN|BODY_6|0
+4 experimental results|CD JJ NNS|BODY_1|0
+an interpretive approach|DT JJ NN|BODY_7|0
+the program p|DT NN NN|BODY_3|0
+the correctness|DT NN|BODY_2:BODY_4|0
+non-standard computer architectures|JJ NN NNS|BODY_3|0
+a mutant schema|DT JJ NN|BODY_1|0
+figure 5 shows|NN CD VBZ|BODY_1|0
+its corresponding ast.|PRP$ JJ NN|BODY_3|0
+the metamutant m|DT NN NN|BODY_4|0
+one source-level program|CD JJ NN|BODY_8|0
+each alternate program|DT JJ NN|BODY_1|0
+one arithmetic operation|CD JJ NN|BODY_5|0
+the imscu muta|DT NN NN|BODY_1|0
+no test case|DT NN NN|BODY_1|0
+a special compiler|DT JJ NN|BODY_4|0
+tree transformation procedures|NN NN NNS|BODY_2|0
+the tested code|DT JJ NN|BODY_5|0
+a formidable undertaking|DT JJ NN|BODY_4|0
+the aorr routine|DT NN NN|BODY_1|0
+the resulting ast|DT VBG NN|BODY_1|0
+the mutation score|DT NN NN|BODY_5|0
+up mutation analysis|RP JJ NN|BODY_3|0
+m and d|NN CC NN|BODY_1|0
+a fortran version|DT JJ NN|BODY_1|0
+p -derived metaoperators|NN JJ NNS|BODY_6|0
+some test case|DT NN NN|BODY_1|0
+data references times|NNS NNS NNS|BODY_5|0
+compilable ) constructs|JJ -RRB- NNS|BODY_9|0
+newguess|JJ|BODY_2|0
+all testing techniques|DT NN NNS|BODY_6|0
+an intermediate form|DT JJ NN|BODY_1|0
+a single program|DT JJ NN|BODY_6|0
+the interpreter-based systems|DT JJ NNS|BODY_1|0
+the metaoperator procedures|DT NN NNS|BODY_6|0
+a conceptual model|DT JJ NN|BODY_1|0
+a single statement|DT JJ NN|BODY_5|0
+3.2 generating metamutants|CD VBG NNS|BODY_1|0
+more realistic testing|RBR JJ NN|BODY_2|0
+line 9|NN CD|BODY_3|0
+test|NN|BODY_3:BODY_4:BODY_10|0
+the parsing|DT NN|BODY_4|0
+figure 1|NN CD|BODY_4:BODY_7|0
+the use|DT NN|BODY_2:BODY_1|0
+information|NN|BODY_5:BODY_3|0
+mutant descriptors|JJ NNS|BODY_3:BODY_4|0
+the approaches|DT NNS|BODY_1:BODY_4|0
+any|DT|BODY_3:BODY_4|0
+attempts|NNS|BODY_2|0
+ronment|NN|BODY_2|0
+what|WP|BODY_2|0
+gens|NNS|BODY_2:BODY_3|0
+a metaprocedure|DT NN|BODY_3:BODY_4|0
+interpretive sys|JJ NNS|BODY_2:BODY_4|0
+a statement|DT NN|BODY_2:BODY_1|0
+the meta|DT NN|BODY_1:BODY_9|0
+the driver|DT NN|BODY_1|0
+tions|NNS|BODY_5:BODY_13|0
+there|EX|BODY_2:BODY_4|0
+figure 3|NN CD|BODY_6:BODY_3|0
+figure 2|NN CD|BODY_1:BODY_4|0
+a parser|DT NN|BODY_4|0
+language standards|NN NNS|BODY_4|0
+non-selective mutation|JJ NN|BODY_4|0
+selective mutation|JJ NN|BODY_2|0
+the degree|DT NN|BODY_2|0
+metaprocedures|NNS|BODY_2:BODY_1|0
+compiler|NN|BODY_6:BODY_7|0
+place|NN|BODY_6|0
+the collection|DT NN|BODY_2|0
+us|PRP|BODY_6:BODY_7|0
+ast )|JJ -RRB-|BODY_2|0
+the node|DT NN|BODY_6|0
+metaoperator procedures|NN NNS|BODY_1|0
+the mutant|DT JJ|BODY_12:BODY_9|0
+a scheme|DT NN|BODY_11|0
+metaoperand procedures|NN NNS|BODY_2|0
+msg method|JJ NN|BODY_14|0
+run-time semantics|NN NNS|BODY_5|0
+the term|DT NN|BODY_2|0
+schema-based systems|JJ NNS|BODY_2|0

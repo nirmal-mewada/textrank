@@ -1,0 +1,22 @@
+network reconstruction|NN NN|BODY_3:BODY_8|0
+a polynomial|DT NN|BODY_2|0
+the design|DT NN|BODY_8|0
+complexity|NN|BODY_7|0
+the dimension|DT NN|BODY_3|0
+number|NN|BODY_5|0
+its throughput|PRP$ NN|BODY_5|0
+the typical problem|DT JJ NN|BODY_2|0
+the aim|DT NN|BODY_4|0
+problem input|NN NN|BODY_4|0
+sequence terms|NN NNS|BODY_6|0
+optimization|NN|BODY_5:BODY_13|0
+the best solutions|DT JJS NNS|BODY_11:BODY_3|0
+the problems|DT NNS|BODY_12:BODY_4|0
+a method|DT NN|BODY_1:BODY_9|0
+the problem|DT NN|BODY_7|0
+a sequence|DT NN|BODY_2:BODY_10|0
+finite sets|JJ NNS|BODY_6:BODY_14|0
+its complexity|PRP$ NN|BODY_1|0
+the original extremal problem|DT JJ JJ NN|BODY_9|0
+restricted reconstruction costs|VBN NN NNS|BODY_6|0
+the technique|DT NN|BODY_1|0

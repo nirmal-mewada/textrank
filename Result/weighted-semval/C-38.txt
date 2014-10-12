@@ -1,0 +1,549 @@
+peers|NNS|BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+the overlay|DT NN|BODY_12:BODY_11:BODY_18:ABSTRACT_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_8:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|2
+each receiver|DT NN|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_24:ABSTRACT_1:BODY_10|0
+pro|FW|BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1|1
+( ii|-LRB- NNS|BODY_11:BODY_16:BODY_15:BODY_1:BODY_8:BODY_9:ABSTRACT_10|1
+( i|-LRB- NN|BODY_12:BODY_5:ABSTRACT_6:BODY_3:BODY_10:BODY_7:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_22:ABSTRACT_13:BODY_2:ABSTRACT_3:BODY_4:BODY_9|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1|1
+parent peers|NN NNS|BODY_1:BODY_2:BODY_3:BODY_7:BODY_8:ABSTRACT_12|0
+heterogeneous and asymmetric bandwidth|JJ CC JJ NN|ABSTRACT_7:BODY_8|0
+other participating peers|JJ VBG NNS|BODY_11:BODY_3:BODY_4:ABSTRACT_9:BODY_9|0
+congestion controlled bandwidth|NN VBN NN|BODY_18:ABSTRACT_2:BODY_2:BODY_3|0
+non-interactive streaming applications|JJ VBG NNS|ABSTRACT_2:BODY_3|0
+a receiver-driven approach|DT JJ NN|ABSTRACT_3:BODY_8|0
+participating peers|VBG NNS|BODY_1:BODY_3:ABSTRACT_1:BODY_8|0
+the best subset|DT JJS NN|ABSTRACT_11:BODY_4|0
+peer-to-peer receiver-driven overlays|JJ JJ NNS|TITLE_2|0
+high churn rate|JJ NN NN|ABSTRACT_4:BODY_3|0
+design|NN|ABSTRACT_5:BODY_1:BODY_3|1
+an unstructured overlay|DT JJ NN|ABSTRACT_2:BODY_2|0
+any explicit coordination|DT JJ NN|ABSTRACT_8:BODY_8|0
+individual peers|JJ NNS|BODY_5:ABSTRACT_2:BODY_2|0
+independent parent selection|JJ NN NN|BODY_1:ABSTRACT_1|0
+peer-to-peer overlays|JJ NNS|BODY_2:ABSTRACT_3|0
+other peers|JJ NNS|BODY_5:BODY_2:BODY_4:ABSTRACT_7|0
+network|NN|BODY_6:ABSTRACT_6:BODY_13|0
+its parents|PRP$ NNS|ABSTRACT_3:BODY_4:BODY_7|0
+a framework|DT NN|TITLE_1|0
+distributed systems general terms|VBN NNS JJ NNS|ABSTRACT_4|0
+its primary design goal|PRP$ JJ NN NN|ABSTRACT_3|0
+an efficient overlay structure|DT JJ NN NN|ABSTRACT_3|0
+its own delivered bandwidth|PRP$ JJ VBN NN|ABSTRACT_15|0
+c.2.4 [computercommunication networks|CD NN NNS|ABSTRACT_3|0
+subject descriptors|JJ NNS|ABSTRACT_2|0
+each peer|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_28:BODY_21:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|1
+we|PRP|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|3
+that|WDT|BODY_11:BODY_5:BODY_22:BODY_13:BODY_14:BODY_3:BODY_4:BODY_8:BODY_9|0
+available bandwidth|JJ NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_8|2
+it|PRP|BODY_6:BODY_5:BODY_18:BODY_15:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_20:BODY_9|0
+parents|NNS|BODY_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|0
+.e|NN|BODY_5:BODY_16:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+a receiver|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the receiver|DT NN|BODY_12:BODY_5:BODY_11:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_20:BODY_9|0
+a parent|DT NN|BODY_6:BODY_3:BODY_4:BODY_9|0
+e .g.|NN NNP|BODY_2:BODY_4:BODY_10:BODY_7:BODY_8|0
+its local image|PRP$ JJ NN|BODY_6:BODY_5:BODY_3:BODY_7:BODY_8|0
+a new parent|DT JJ NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+bandwidth|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+the local image|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_20|0
+this approach|DT NN|BODY_2:BODY_1:BODY_9|1
+a simple receiver-driven framework|DT JJ JJ NN|BODY_5|1
+any other two peers|DT JJ CD NNS|BODY_13|1
+the next two sections|DT JJ CD NNS|BODY_6|1
+pd and ps mechanisms|NN CC NNS NNS|BODY_2:BODY_3:BODY_9|0
+( iii|-LRB- NNS|BODY_17:BODY_13:BODY_3:BODY_14:BODY_7|1
+both receiver-driven but complement|DT JJ CC NN|BODY_2|0
+our framework|PRP$ NN|BODY_1:BODY_3:BODY_4|0
+one|CD|BODY_6:BODY_5:BODY_2:BODY_10:BODY_4:BODY_7|0
+its two key components|PRP$ CD JJ NNS|BODY_9|0
+pro and previous solutions|JJ CC JJ NNS|BODY_3|0
+bandwidth heterogeneity and asymmetry|JJ NN CC NN|BODY_2|0
+a single selection criteria|DT JJ NN NNS|BODY_13|0
+leverage relative utility values|NN JJ NN NNS|BODY_17|0
+measurement ( e .g.|NN -LRB- NN NNP|BODY_10|0
+the parent selection mechanism|DT NN NN NN|BODY_4|0
+high churn rate [5]|JJ NN NN NNS|BODY_2|0
+a new distribution paradigm|DT JJ NN NN|BODY_3|0
+a parent peer pi|DT NN NN NN|BODY_2|0
+peer pj ( u(pj|NN NN -LRB- NNP|BODY_2|0
+discovery and peer selection|NN CC VBP NN|BODY_2|0
+a source-rooted tree structure|DT JJ NN NN|BODY_4|0
+particular using outgoing bandwidth|JJ VBG JJ NN|BODY_17|0
+network or overlay conditions|NN CC NN NNS|BODY_7|0
+its own delivered quality|PRP$ JJ VBN NN|BODY_6|0
+the following fundamental challenges|DT VBG JJ NNS|BODY_5|0
+2 ) gnp coordinates|CD -RRB- NN NNS|BODY_11|0
+a target selection mechanism|DT NN NN NN|BODY_4|0
+relatively small ) number|RB JJ -RRB- NN|BODY_4|0
+the selected utility function|DT VBN NN NN|BODY_14|0
+the paper symbol definition|DT NN NN NN|BODY_3|0
+a single tree structure|DT JJ NN NN|BODY_3|0
+p2 l2 initial overlay|NNS IN JJ NN|BODY_16|0
+a significantly higher share|DT RB JJR NN|BODY_6|0
+each peer sgm size|DT JJ NN NN|BODY_10|0
+the existing landmark-based solutions|DT VBG JJ NNS|BODY_5|0
+the local design goal|DT JJ NN NN|BODY_7|0
+bandwidth and delay )|NN CC NN -RRB-|BODY_4|0
+layer structured content (either|NN JJ JJ NN|BODY_3|0
+( i ) scalability|-LRB- FW -RRB- NN|BODY_6|0
+connection network path p2|NN NN NN NNS|BODY_13|0
+the parent (outbwi )|DT NN NN -RRB-|BODY_7|0
+the gossip-based information exchange|DT VBN NN NN|BODY_16|0
+a content selection strategy|DT NN NN NN|BODY_3|0
+1 ) ip address|CD -RRB- NN NN|BODY_10|0
+a reasonable design tradeoff|DT JJ NN NN|BODY_3|0
+the overlay construction mechanism|DT JJ NN NN|BODY_3|0
+an image maintenance scheme|DT NN NN NN|BODY_3|0
+all other participating peers|DT JJ VBG NNS|BODY_6|0
+both receiver and parent|DT NN CC NN|BODY_2|0
+the smoothed available bandwidth|DT VBN JJ NN|BODY_5|0
+a higher bandwidth connectivity|DT JJR NN NN|BODY_2|0
+single vs multiple parents|JJ NN JJ NNS|BODY_2|0
+the new one )|DT JJ CD -RRB-|BODY_3|0
+the following design properties|DT VBG NN NNS|BODY_4|0
+the two key components|DT CD JJ NNS|BODY_3|0
+42 several damping functions|CD JJ VBG NNS|BODY_2|0
+these parent selection strategies|DT NN NN NNS|BODY_1|0
+a target peer pi|DT NN NN NN|BODY_9|0
+each failed experience [13]|DT VBN NN NN|BODY_7|0
+two or more parents|CD CC JJR NNS|BODY_7|0
+pi min nopi min|NN NN NN NN|BODY_8|0
+( or rumor spreading|-LRB- CC NN VBG|BODY_1|0
+a hysteresis mechanism 5|DT NN NN CD|BODY_1|0
+any measurable shared bottleneck|DT NN VBN NN|BODY_8|0
+a single parent )|DT JJ NN -RRB-|BODY_6|0
+sections 4 and 5|NNS CD CC CD|BODY_1|0
+the resulting local images|DT VBG JJ NNS|BODY_1|0
+discovery exhibit limited scalability|NN NN JJ NN|BODY_10|0
+the higher the robustness|DT JJR DT NN|BODY_5|0
+two or more connections|CD CC JJR NNS|BODY_5|0
+a gossip-like [10] approach|DT JJ JJ NN|BODY_2|0
+the average convergence time|DT JJ NN NN|BODY_6|0
+other close-by peers )|JJ JJ NNS -RRB-|BODY_15|0
+the following design goals|DT VBG NN NNS|BODY_8|0
+this|DT|BODY_6:BODY_2:BODY_1:BODY_3|0
+the parent peer [8]|DT NN NN NN|BODY_4|0
+2 ) delivered segments|CD -RRB- VBN NNS|BODY_1|0
+peer selec. gossip exam|VB NN NN NN|BODY_1|0
+nice [2 ] leverages|JJ NN NN NNS|BODY_1|0
+the main selection criteria|DT JJ NN NNS|BODY_6|0
+the deployed utility function|DT VBN NN NN|BODY_4|0
+higher bandwidth including p3|JJR NN VBG NN|BODY_8|0
+many other adaptive mechanisms|JJ JJ JJ NNS|BODY_1|0
+( iii ) improvement|-LRB- NNS -RRB- NN|BODY_1|0
+multiple parent peers )|JJ NN NNS -RRB-|BODY_7|0
+the gnp mechanism [15]|DT NN NN NN|BODY_6|0
+all the above limitations|PDT DT JJ NNS|BODY_1|0
+different network paths )|JJ NN NNS -RRB-|BODY_8|0
+our key design goals|PRP$ NN NN NNS|BODY_6|0
+the highest relative utility|DT JJS JJ NN|BODY_10|0
+one extra parent )|CD JJ NN -RRB-|BODY_9|0
+the main design philosophy|DT JJ NN NN|BODY_1|0
+the above design goals|DT JJ NN NNS|BODY_6|0
+pi max nopi max|NN NN NN NN|BODY_3|0
+content|NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_7|0
+the number|DT NN|BODY_5:BODY_1:BODY_4:BODY_7|1
+discovery|NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the available bandwidth|DT JJ NN|BODY_1:BODY_7:BODY_8|0
+heterogeneity and asymmetry|NN CC NN|BODY_2:BODY_3|1
+all peers|DT NNS|BODY_5:BODY_2:BODY_9:BODY_20|0
+number|NN|BODY_5:BODY_2:BODY_10:BODY_7|0
+a utility function|DT NN NN|BODY_1:BODY_8|1
+a peer|DT NN|BODY_17:BODY_2:BODY_3:BODY_4:BODY_7|0
+our proposed framework|PRP$ JJ NN|BODY_2|1
+estimate relative utility|NN JJ NN|BODY_12|1
+( i .e|-LRB- FW FW|BODY_3:BODY_7:BODY_8|0
+peer-to-pee overlay structures|JJ JJ NNS|BODY_6|1
+i .e|FW FW|BODY_3:BODY_8:BODY_9|0
+such a solution|JJ DT NN|BODY_4|1
+( other peer(|-LRB- JJ NN|BODY_9|1
+its bandwidth connectivity|PRP$ JJ NN|BODY_8|1
+low bandwidth parents|JJ NN NNS|BODY_3|1
+the original server|DT JJ NN|BODY_2|0
+the same weight|DT JJ NN|BODY_2|0
+any two peers|DT CD NNS|BODY_5:BODY_2|0
+the ps mechanism|DT NNS NN|BODY_15:BODY_2:BODY_3:BODY_8|0
+an implicit signal|DT JJ NN|BODY_5:BODY_3|0
+the bottleneck link|DT NN NN|BODY_4:BODY_8|0
+the design space|DT NN NN|BODY_5:BODY_2|0
+its overall bandwidth|PRP$ JJ NN|BODY_3:BODY_8|0
+a shared bottleneck|DT VBN NN|BODY_5:BODY_4|0
+the same bottleneck|DT JJ NN|BODY_6:BODY_23:BODY_8|0
+the selected parent|DT VBN NN|BODY_5:BODY_2|0
+a gossip message|DT NN NN|BODY_1:BODY_4:BODY_8|0
+the gossip mechanism|DT NN NN|BODY_2:BODY_1:BODY_4|0
+( e .g.|-LRB- NN NNP|BODY_11:BODY_8|0
+their estimated delay|PRP$ JJ NN|BODY_8|0
+the best-effort internet|DT JJ NN|BODY_2|0
+all participating peers|DT VBG NNS|BODY_5:BODY_3|0
+an overlay structure|DT JJ NN|BODY_4:BODY_9|0
+unstructured peer-to-peer networks|JJ JJ NNS|BODY_2:BODY_4|0
+the previous solutions|DT JJ NNS|BODY_2|0
+the required bandwidth|DT JJ JJ|BODY_6:BODY_3|0
+a scalable alternative|DT JJ NN|BODY_2|0
+a certain number|DT JJ NN|BODY_3:BODY_7|0
+its key components|PRP$ JJ NNS|BODY_3|0
+the same value|DT JJ NN|BODY_11|0
+the fundamental tradeoff|DT JJ NN|BODY_5|0
+the total number|DT JJ NN|BODY_26:BODY_8|0
+the target bandwidth|DT NN NN|BODY_2|0
+image maintenance mechanism|NN NN NN|BODY_2|0
+a new receiver|DT JJ NN|BODY_2|0
+global network positioning|JJ NN NN|BODY_6|0
+a group|DT NN|BODY_12:BODY_6:BODY_5:BODY_7|0
+a proper number|DT JJ NN|BODY_3|0
+all group members|DT NN NNS|BODY_7|0
+a local image|DT JJ NN|BODY_3|0
+a single content|DT JJ NN|BODY_2|0
+any shared bottleneck|DT VBN NN|BODY_5:BODY_16|0
+all the peers|PDT DT NNS|BODY_6|0
+a random delay|DT JJ NN|BODY_2:BODY_10|0
+their outgoing bandwidth|PRP$ JJ NN|BODY_7|0
+pj ) 3|NN -RRB- CD|BODY_11|0
+its available bandwidth|PRP$ JJ NN|BODY_3|0
+these multi-tree approaches|DT JJ NNS|BODY_12|0
+the parent subset|DT NN NN|BODY_3|0
+either overall delay|DT JJ NN|BODY_5|0
+access link bw|NN NN NN|BODY_6|0
+the collected information|DT VBN NN|BODY_2|0
+a great deal|DT JJ NN|BODY_3|0
+each property (|DT NN -LRB-|BODY_2|0
+the lower value|DT JJR NN|BODY_3|0
+delay or bandwidth|NN CC NN|BODY_4|0
+their playout times|PRP$ NN NNS|BODY_3|0
+4 ) timestamp|CD -RRB- NN|BODY_14|0
+higher bandwidth connectivity|JJR NN NN|BODY_6|0
+estimated parameters (|VBN NNS -LRB-|BODY_16|0
+3 ) number|CD -RRB- NN|BODY_12|0
+a poorly-performing parent|DT JJ NN|BODY_1:BODY_2|0
+different gossip message|JJ NN NN|BODY_7|0
+global design goals|JJ NN NNS|BODY_5|0
+a sufficient degree|DT JJ NN|BODY_2|0
+two average metrics|CD JJ NNS|BODY_14|0
+application level multicast|NN NN NN|BODY_4|0
+a multi-parent overlay|DT JJ NN|BODY_2|0
+a new peer|DT JJ NN|BODY_6:BODY_5|0
+the receiver associates|DT NN NNS|BODY_3|0
+explored design space|JJ NN NN|BODY_4|0
+the jointranking scheme|DT JJ NN|BODY_5|0
+scalability and resilience|NN CC NN|BODY_6|0
+a hierarchal structure|DT JJ NN|BODY_2|0
+a peer-to-peer overlay|DT JJ NN|BODY_3|0
+the near future|DT JJ NN|BODY_2|0
+the same time|DT JJ NN|BODY_3|0
+scenario ( ii|NN -LRB- NNS|BODY_2|0
+structured peer-to-peer networks|JJ JJ NNS|BODY_8|0
+gradually spreads information|RB VBZ NN|BODY_4|0
+a given set|DT VBN NN|BODY_8|0
+peer-topeer streaming applications|NN VBG NNS|BODY_3|0
+minimum uplink bandwidth|JJ NN NN|BODY_7|0
+a target peer|DT NN NN|BODY_5|0
+the key components|DT JJ NNS|BODY_2|0
+the main hypothesis|DT JJ NN|BODY_2|0
+a gossip mechanism|DT NN NN|BODY_13|0
+gossip-based peer discovery|JJ NN NN|BODY_1:BODY_4|0
+a receiver pj|DT NN NN|BODY_3|0
+available bandwidth )|JJ NN -RRB-|BODY_18|0
+a parent (|DT NN -LRB-|BODY_7|0
+a proper subset|DT JJ NN|BODY_2:BODY_7|0
+their final images|PRP$ JJ NNS|BODY_22|0
+the following information|DT VBG NN|BODY_7|0
+a distributed algorithm|DT VBN NN|BODY_2|0
+all other peers|DT JJ NNS|BODY_9|0
+a simple framework|DT JJ NN|BODY_2|0
+peer-to-peer receiver-driven overlay|JJ JJ NN|BODY_3|0
+pi and pj|NN CC NN|BODY_12|0
+a ps mechanism|DT NNS NN|BODY_2|0
+two key components|CD JJ NNS|BODY_2|0
+the basic framework|DT JJ NN|BODY_2|0
+p1 and p2|NNS CC NN|BODY_6|0
+three main questions|CD JJ NNS|BODY_3|0
+one peer (|CD NN -LRB-|BODY_8|0
+receiver and parent|NN CC NN|BODY_4|0
+the utility value|DT NN NN|BODY_2|0
+performance|NN|BODY_6:BODY_5:BODY_2:BODY_24|0
+the initial parents|DT JJ NNS|BODY_2|0
+the corresponding parent|DT JJ NN|BODY_21|0
+a configured range|DT JJ NN|BODY_4|0
+a starting point|DT VBG NN|BODY_2|0
+any special support|DT JJ NN|BODY_12|0
+longer relative distance|RB JJ NN|BODY_2|0
+the negative impact|DT JJ NN|BODY_3|0
+a major limitation|DT JJ NN|BODY_2|0
+each peer pi|DT NN NN|BODY_3|0
+any transient variations|DT JJ NNS|BODY_7|0
+the search process|DT NN NN|BODY_3|0
+different participating peers|JJ VBG NNS|BODY_2|0
+promising parent peers|JJ NN NNS|BODY_5|0
+four key components|CD JJ NNS|BODY_3|0
+a receiver (|DT NN -LRB-|BODY_3|0
+a good parent|DT JJ NN|BODY_5|0
+the initial peers|DT JJ NNS|BODY_3|0
+any measurable correlation|DT JJ NN|BODY_7|0
+img sz records|JJ NN NNS|BODY_5|0
+multiple description encodings|JJ NN NNS|BODY_4|0
+) leverages heterogeneity|-RRB- NNS NN|BODY_3|0
+the overlay )|DT NN -RRB-|BODY_10:BODY_9|0
+a practical solution|DT JJ NN|BODY_2|0
+a fixed (|DT VBN -LRB-|BODY_3|0
+image quality (|NN NN -LRB-|BODY_2|0
+a long time|DT JJ NN|BODY_5|0
+target peer pi|NN NN NN|BODY_6|0
+application-level multicast trees|JJ NN NNS|BODY_7|0
+a fundamental tradeoff|DT JJ NN|BODY_2|0
+pj|NN|BODY_5:BODY_2:BODY_9|0
+stretch and stress|NN CC NN|BODY_9|0
+( i )|-LRB- FW -RRB-|BODY_8|0
+an efficient overlay|DT JJ NN|BODY_3|0
+end-to-end bandwidth measurements|JJ NN NNS|BODY_5|0
+a search mechanism|DT NN NN|BODY_8|0
+the following conditions|DT JJ NNS|BODY_7|0
+delay and bandwidth|NN CC NN|BODY_3|0
+our future plans|PRP$ JJ NNS|BODY_3|0
+pro and pals|JJ CC NNS|BODY_1|0
+a good indicator|DT JJ NN|BODY_7|0
+the local images|DT JJ NNS|BODY_5|0
+the existing structure|DT VBG NN|BODY_9|0
+poor bandwidth connectivity|JJ NN NN|BODY_7|0
+the overlay topology|DT NN NN|BODY_3|0
+multiple parent peers|JJ NN NNS|BODY_1:BODY_4|0
+our design goal|PRP$ NN NN|BODY_5|0
+multi-parent overlay structure|JJ JJ NN|BODY_4|0
+congestion controlled connections|NN VBN NNS|BODY_21|0
+the overlay (|DT NN -LRB-|BODY_4|0
+two key mechanisms|CD JJ NNS|BODY_3|0
+img sz size|JJ NN NN|BODY_8|0
+the pd mechanism|DT NN NN|BODY_1|0
+its delivered bandwidth|PRP$ VBN NN|BODY_2|0
+img sz )|JJ NN -RRB-|BODY_8|0
+a larger architecture|DT JJR NN|BODY_3|0
+a measurable signal|DT JJ NN|BODY_4|0
+an existing parent|DT JJ NN|BODY_4|0
+the provided bandwidth|DT VBN NN|BODY_4|0
+its current image|PRP$ JJ NN|BODY_4|0
+a single layer|DT JJ NN|BODY_7|0
+overlap|NN|BODY_6:BODY_2:BODY_3|0
+two key aspects|CD JJ NNS|BODY_3|0
+two main criteria|CD JJ NNS|BODY_7|0
+an upper bound|DT JJ JJ|BODY_7|0
+increase overall utility|NN JJ NN|BODY_9|0
+such a monitoring|PDT DT NN|BODY_1|0
+their available bandwidth|PRP$ JJ NN|BODY_13|0
+a scalable fashion|DT JJ NN|BODY_3|0
+responsiveness and stability|NN CC NN|BODY_6|0
+the largest number|DT JJS NN|BODY_24|0
+any potential oscillation|DT JJ NN|BODY_4|0
+other known peers|JJ JJ NNS|BODY_9|0
+the current image|DT JJ NN|BODY_4|0
+this binning scheme|DT NN NN|BODY_1|0
+a non-optimized aspect|DT JJ NN|BODY_5|0
+the minimum number|DT JJ NN|BODY_3|0
+the existing parents|DT VBG NNS|BODY_6|0
+its good parents|PRP$ JJ NNS|BODY_13|0
+the overlay structure|DT JJ NN|BODY_9|0
+the pals mechanism|DT NNS NN|BODY_2|0
+local design goal|JJ NN NN|BODY_6|0
+the following criteria|DT VBG NNS|BODY_8|0
+the relative distance|DT JJ NN|BODY_4|0
+its ps mechanism|PRP$ NNS NN|BODY_3|0
+the natural solution|DT JJ NN|BODY_9|0
+a scalable approach|DT JJ NN|BODY_3|0
+global design goal|JJ NN NN|BODY_3|0
+a demand-driven fashion|DT JJ NN|BODY_5:BODY_3|0
+a progressive search|DT JJ NN|BODY_4|0
+pi nopi( t|NN NN NN|BODY_3|0
+the lower utility|DT JJR NN|BODY_10|0
+a local one|DT JJ CD|BODY_7|0
+the total delay|DT JJ NN|BODY_12|0
+these two parents|DT CD NNS|BODY_5|0
+limitations and challenges|NNS CC NNS|BODY_1|0
+such a drop|JJ DT NN|BODY_2|0
+potentially good parents|RB JJ NNS|BODY_1:BODY_9|0
+new gossip messages|JJ NN NNS|BODY_3|0
+( nopi( t|-LRB- JJ NN|BODY_7|0
+the parent list|DT NN NN|BODY_3|0
+their relative utility|PRP$ JJ NN|BODY_3|0
+the best way|DT JJS NN|BODY_3:BODY_4|0
+those participating peers|DT VBG NNS|BODY_7|0
+new parent selections|JJ NN NNS|BODY_3|0
+their design space|PRP$ NN NN|BODY_10|0
+a conservative approach|DT JJ NN|BODY_2|0
+the same limitations|DT JJ NNS|BODY_2|0
+maximum outgoing bandwidth|JJ JJ NN|BODY_2|0
+a diverse set|DT JJ NN|BODY_5|0
+a near future|DT JJ NN|BODY_5|0
+the discovery process|DT NN NN|BODY_1|0
+a random period|DT JJ NN|BODY_5|0
+two appealing properties|CD VBG NNS|BODY_11|0
+the following scenarios|DT VBG NNS|BODY_2|0
+a fixed number|DT JJ NN|BODY_3|0
+its potential impact|PRP$ JJ NN|BODY_4|0
+a good subset|DT JJ NN|BODY_8|0
+proper parent peers|JJ NN NNS|BODY_5|0
+a layered representation|DT JJ NN|BODY_4|0
+high bandwidth peers|JJ NN NNS|BODY_7|0
+the possible choices|DT JJ NNS|BODY_6|0
+gnp ) [15]|NN -RRB- NN|BODY_7|0
+the best parents|DT JJS NNS|BODY_11|0
+our design choices|PRP$ NN NNS|BODY_4|0
+our future work|PRP$ JJ NN|BODY_4|0
+our strawman solutions|PRP$ JJ NNS|BODY_4|0
+its generated traffic|PRP$ VBN NN|BODY_8|0
+rlm [13] )|JJ NN -RRB-|BODY_8|0
+its access link|PRP$ NN NN|BODY_3|0
+bandwidth heterogeneity|NN NN|BODY_5:BODY_2|1
+higher bandwidth )|JJR NN -RRB-|BODY_13|0
+congestion controlled senders|NN VBN NNS|BODY_9|0
+the indirect effect|DT JJ NN|BODY_1|0
+the highest priority|DT JJS NN|BODY_5|0
+parent selection strategy|NN NN NN|BODY_1|0
+a common approach|DT JJ NN|BODY_1|0
+frequency and size|NN CC NN|BODY_1|0
+part|NN|BODY_2:BODY_7|0
+3 ) connections|CD -RRB- NNS|BODY_1|0
+the collective behavior|DT JJ NN|BODY_1|0
+paths|NNS|BODY_6:BODY_16:BODY_2:BODY_3|0
+their bandwidth connectivity|PRP$ NN NN|BODY_4|0
+this selection strategy|DT NN NN|BODY_1|0
+asymmetric bandwidth connectivity|JJ NN NN|BODY_2|0
+the actual properties|DT JJ NNS|BODY_1|0
+the delay )|DT NN -RRB-|BODY_8|0
+each new peer|DT JJ NN|BODY_4|0
+individual peers 1|JJ NNS CD|BODY_9|0
+our earlier work|PRP$ JJR NN|BODY_1|0
+peer bandwidth heterogeneity|NN JJ NN|BODY_1|0
+receiver-driven overlay assumptions|JJ JJ NNS|BODY_1|0
+the following sections|DT JJ NNS|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+a potential drawback|DT JJ NN|BODY_1|0
+the key issue|DT JJ NN|BODY_1|0
+link l0 )|NN NN -RRB-|BODY_9|0
+sufficient bandwidth )|JJ NN -RRB-|BODY_17|0
+the active parents|DT JJ NNS|BODY_3|0
+an arbitrary fashion|DT JJ NN|BODY_2|0
+the initial set|DT JJ NN|BODY_1|0
+source peer disc|NN JJ NN|BODY_9|0
+the aggregate bandwidth|DT NN NN|BODY_1|0
+the initial phase|DT JJ NN|BODY_1|0
+a single bottleneck3|DT JJ NN|BODY_4|0
+all its parents|DT PRP$ NNS|BODY_3|0
+its outgoing bandwidth|PRP$ JJ NN|BODY_8|0
+the available information|DT JJ NN|BODY_1|0
+each new receiver|DT JJ NN|BODY_5|0
+high churn rate[5]|JJ NN NN|BODY_4|0
+min nop parents|NN JJ NNS|BODY_10|0
+several new challenges|JJ JJ NNS|BODY_4|0
+such a subset|PDT DT NN|BODY_1|0
+such an improvement|PDT DT NN|BODY_1|0
+all parents|DT NNS|BODY_13:BODY_2:BODY_8|0
+an overlay|DT NN|BODY_6:BODY_21:BODY_3|0
+path diversity|NN NN|BODY_11:BODY_17|1
+this framework|DT NN|BODY_2:BODY_3|0
+pals|NNS|BODY_5:BODY_4:BODY_7|0
+dynamics|NNS|BODY_5:BODY_11:BODY_7|0
+p1|NNS|BODY_3:BODY_4:BODY_9|0
+the framework|DT NN|BODY_25:BODY_3|0
+(|-LRB-|BODY_6:BODY_5:BODY_2:BODY_7:BODY_8|0
+follows|VBZ|BODY_6:BODY_3:BODY_4|0
+outgoing bandwidth|JJ NN|BODY_6:BODY_4|0
+active parents|JJ NNS|BODY_5:BODY_25:BODY_3|0
+there|EX|BODY_6:BODY_2:BODY_1|0
+the paper|DT NN|BODY_2|0
+different senders|JJ NNS|BODY_2:BODY_4|0
+end-to-end measurement|JJ NN|BODY_3|1
+minimum degree|JJ NN|BODY_7|1
+pro.|NN|BODY_4:BODY_7|1
+parent departure|NN NN|BODY_9|1
+a function|DT NN|BODY_3:BODY_4|0
+time|NN|BODY_6:BODY_2:BODY_7|0
+delay|NN|BODY_6:BODY_5:BODY_1|0
+)|-RRB-|BODY_12:BODY_6:BODY_8|0
+location|NN|BODY_2:BODY_7|0
+overall delay|JJ NN|BODY_6:BODY_2:BODY_7|0
+overlay construction|JJ NN|BODY_6:BODY_7|0
+gossip messages|NN NNS|BODY_2:BODY_19|0
+a subset|DT NN|BODY_6:BODY_4:BODY_10|0
+parent selections|NN NNS|BODY_4:BODY_8|0
+quality|NN|BODY_5:BODY_2:BODY_1:BODY_8|0
+p0|PRP|BODY_6:BODY_12:BODY_5:BODY_1|0
+the problem|DT NN|BODY_6:BODY_2|0
+different trees|JJ NNS|BODY_2:BODY_4|0
+1|CD|BODY_5:BODY_3|0
+local image|JJ NN|BODY_10:BODY_9|0
+the probability|DT NN|BODY_5:BODY_1:BODY_4|0
+relative utility|JJ NN|BODY_3|0
+good parents|JJ NNS|BODY_15:BODY_14:BODY_4|0
+these cases|DT NNS|BODY_5:BODY_1:BODY_3|0
+each tree|DT NN|BODY_6:BODY_5|0
+sgm records|JJ NNS|BODY_6:BODY_4|0
+different parents|JJ NNS|BODY_3:BODY_4:BODY_10:BODY_7|0
+two reasons|CD NNS|BODY_4|0
+( congestion|-LRB- NN|BODY_2|0
+other parents|JJ NNS|BODY_7:BODY_8|0
+average bandwidth|JJ NN|BODY_2|0
+the timer|DT NN|BODY_6|0
+congestion control|NN NN|BODY_13|0
+parent selection|NN NN|BODY_6:BODY_1:BODY_3|0
+unpredictable variations|JJ NNS|BODY_12|0
+bandwidth connectivity|NN NN|BODY_18|0
+f( delij|JJ NN|BODY_8|0
+remote bottlenecks|JJ NNS|BODY_6|0
+such correlation|JJ NN|BODY_2|0
+[7] )|NNP -RRB-|BODY_14:BODY_8|0
+the sensitivity|DT NN|BODY_2|0
+different peers|JJ NNS|BODY_6:BODY_5:BODY_8|0
+network load|NN NN|BODY_2|0
+gradual improvement|JJ NN|BODY_2|0
+the planet-lab|DT NN|BODY_4|0
+bloom filters|NN NNS|BODY_3|0
+the stream|DT NN|BODY_6|0
+new parents|JJ NNS|BODY_5:BODY_4|0
+the bandwidth|DT NN|BODY_11:BODY_7|0
+upstream peers|JJ NNS|BODY_8|0
+its bandwidth|PRP$ NN|BODY_22|0
+a bottleneck|DT NN|BODY_2:BODY_3|0
+minimum bandwidth|JJ NN|BODY_15:BODY_26|0
+higher bandwidth|JJR NN|BODY_3|0
+child peers|NN NNS|BODY_6:BODY_2|0
+access link|NN NN|BODY_2:BODY_7|0
+local images|JJ NNS|BODY_4:BODY_7|0
+a timer|DT NN|BODY_4|0
+parent peer|NN NN|BODY_7|0
+two peers|CD NNS|BODY_11:BODY_2:BODY_9|0
+any approach|DT NN|BODY_3|0
+each flow|DT NN|BODY_3|0
+these parents|DT NNS|BODY_11|0
+each parent|DT NN|BODY_5|0
+multimedia content|NNS NN|BODY_10|0
+the idea|DT NN|BODY_3|0
+proper adjustment|JJ NN|BODY_2|0
+possible correlation|JJ NN|BODY_4|0
+network bandwidth|NN NN|BODY_16|0
+constructing overlay|VBG JJ|BODY_4|0
+minor differences|JJ NNS|BODY_3|0
+receiver peer|NN NN|BODY_6|0
+peer-to-peer networks|JJ NNS|BODY_1|0
+pro constructs|FW NNS|BODY_1|0
+uncorrelated vari2|JJ NN|BODY_4|0
+received layers|VBN NNS|BODY_13|0
+a combination|DT NN|BODY_2|0
+) bandwidth|-RRB- NN|BODY_3|0
+pi) )|NN -RRB-|BODY_3|0
+the internet|DT NN|BODY_4|0
+an indicator|DT NN|BODY_5|0
+the level|DT NN|BODY_3|0
+information|NN|BODY_5:BODY_2:BODY_1|0
+all branches|DT NNS|BODY_6|0
+passive measurement|JJ NN|BODY_6:BODY_2|0
+the utility|DT NN|BODY_1|0
+the interactions|DT NNS|BODY_2|0
+the record|DT NN|BODY_15|0
+the interference|DT NN|BODY_7|0
+extra records|JJ NNS|BODY_3|0
+short form|JJ NN|BODY_5|0
+properties|NNS|BODY_13:BODY_19|0
+joint experiment|JJ NN|BODY_7|0
+streaming applications|VBG NNS|BODY_4|0
+changes|NNS|BODY_6:BODY_5|0
+figure 2|NN CD|BODY_17:BODY_1|0

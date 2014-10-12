@@ -1,0 +1,487 @@
+it|PRP|BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+that|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+services|NNS|BODY_12:BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_4|1
+a service|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a service environment|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+the service environment|DT NN NN|BODY_2:BODY_1:BODY_4:BODY_7|1
+a node|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+the service|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+resources|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+migration|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+this|DT|BODY_2:BODY_1:BODY_7|0
+wrong ( e .g|JJ -LRB- NN NN|BODY_2:BODY_8|0
+a home environment|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the associated service environment|DT JJ NN NN|BODY_3|0
+the fragmented object model|DT JJ NN NN|BODY_2:BODY_1|0
+a hybrid peer-to-peer architecture|DT JJ JJ NN|BODY_9|0
+an instant messaging server|DT NN NN NN|BODY_8|0
+cpu and network bandwidth|NN CC NN NN|BODY_8|0
+epstein and van stee|NN CC NN NN|BODY_3|1
+an active replicated server|DT JJ JJ NN|BODY_7|0
+a traditional clientserver scenario|DT JJ NN NN|ABSTRACT_4|0
+the second case migration|DT JJ NN NN|BODY_2|0
+a new service environment|DT JJ NN NN|BODY_3|0
+environment conditions or quality|NN NNS CC NN|BODY_3|0
+the same service environment|DT JJ NN NN|BODY_4:BODY_8|0
+all resource management tasks|DT NN NN NNS|BODY_7|0
+a distributed execution scope|DT VBN NN NN|BODY_2|0
+services or service components|NNS CC NN NNS|BODY_9|0
+a more efficient solution|DT RBR JJ NN|BODY_3|1
+a traditional client/server scenario|DT JJ NN NN|BODY_6|0
+completely peer-topeer based systems|RB JJ VBN NNS|BODY_4|0
+the overall resource usage|DT JJ NN NN|BODY_3|0
+an enormous implementation effort|DT JJ NN NN|BODY_3|0
+a generic service architecture|DT JJ NN NN|BODY_2|0
+the growth or shrinkage|DT NN CC NN|BODY_6|0
+distributed adaptive resource management|VBN JJ NN NN|BODY_3|0
+the maximum resource usage|DT JJ NN NN|BODY_2|0
+one or more nodes|CD CC JJR NNS|BODY_3|0
+all important system events|DT JJ NN NNS|BODY_6|1
+a peer-to-peer based approach|DT NN VBN NN|BODY_5|0
+4.2 adaptive resource rededication|CD JJ NN NN|BODY_3|0
+a flooding based approach|DT NN VBN NN|BODY_5|0
+the adaptive resource management|DT JJ NN NN|BODY_2|0
+load information and balance|NN NN CC NN|BODY_2|0
+article 5 host fhost|NN CD NN NN|BODY_2|0
+the initial distribution decision|DT JJ NN NN|BODY_7|0
+a less frequent task|DT RBR JJ NN|BODY_6|0
+the following different tasks|DT VBG JJ NNS|BODY_2|0
+all the assigned resources|DT DT VBN NNS|BODY_4|0
+the responsible service environment|DT JJ NN NN|BODY_6|0
+a certain service environment|DT JJ NN NN|BODY_3|0
+its depended home environment|PRP$ VBN NN NN|BODY_5|0
+user-accessed , long-term services|JJ , JJ NNS|BODY_4|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+software engineering interoperability[distributed objects|NN NN VBN NNS|ABSTRACT_5|0
+an associated service environment|DT JJ NN NN|BODY_3|0
+the decentralized adaptive service|DT JJ JJ NN|BODY_1|0
+the physically available resources|DT RB JJ NNS|BODY_5|0
+at least two interfaces|IN JJS CD NNS|BODY_2|0
+such a local limit|JJ DT JJ NN|BODY_3|0
+the dependent local limit|DT JJ JJ NN|BODY_4|0
+one large computing system|CD JJ VBG NN|BODY_8|0
+a longterm-service grid infrastructure|DT JJ NN NN|BODY_1|0
+a source code repository|DT NN NN NN|BODY_9|0
+core components figure 1|NN NNS NN CD|BODY_1|0
+a special idl-compiler [8]|DT JJ NN NN|BODY_13|0
+a decentralized adaptive service|DT JJ JJ NN|BODY_6|0
+one or more services|CD CC JJR NNS|BODY_4|0
+scalability and fault tolerance|NN CC NN NN|BODY_10|0
+the common three-phase approach|DT JJ JJ NN|BODY_1|0
+the actual resource consumption|DT JJ NN NN|BODY_3|0
+source-code repository etc. )|NN NN NN -RRB-|ABSTRACT_6|0
+an overloaded service environment|DT JJ NN NN|BODY_4|0
+current grid computing infrastructures|JJ NN NN NNS|BODY_1|0
+globalelimitse â‰ ¥ numberoflocallimitssex|JJ JJ NN NN|BODY_1|0
+nodelimitnode â‰ ¥ numberoflocallimitsnodex|DT JJ NN NN|BODY_1|0
+a multidomain-spanning scalable service|DT JJ JJ NN|BODY_10|0
+the corresponding home environments|DT JJ NN NNS|BODY_7|0
+common grid computing environments|JJ NN NN NNS|BODY_5|0
+scalability and resource-aware distribution|NN CC NN NN|ABSTRACT_5|0
+their estimated future requirements|PRP$ VBN JJ NNS|BODY_5|0
+all nodes|DT NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+all supported service environments|DT JJ NN NNS|BODY_8|0
+the demanding service environment|DT VBG NN NN|BODY_5|0
+other free and unused|JJ JJ CC JJ|BODY_8|0
+decentralized adaptive services|VBN JJ NNS|TITLE_3:ABSTRACT_2:BODY_3:BODY_4:BODY_8|0
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_4|0
+the home environment|DT NN NN|BODY_5:BODY_1:BODY_4|1
+a grid-like infrastructure|DT JJ NN|BODY_2:ABSTRACT_3:BODY_3|0
+the resource demand|DT NN NN|BODY_1:BODY_4|0
+a fragmented object|DT JJ NN|BODY_2:BODY_3|0
+nodes|NNS|BODY_5:BODY_15:BODY_1:BODY_4:BODY_8|0
+edas|NNS|TITLE_1:BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+the resource usage|DT NN NN|BODY_4|0
+all local limits|DT JJ NNS|BODY_2:BODY_4|0
+a certain project|DT JJ NN|BODY_5|0
+long-term services|JJ NNS|BODY_6:BODY_1:BODY_2|0
+the resource management|DT NN NN|BODY_1:BODY_4|0
+the resource consumption|DT NN NN|BODY_5:BODY_2|0
+a specific location|DT JJ NN|BODY_3|0
+the distributed object|DT VBN NN|BODY_3|0
+the outer interface|DT JJ NN|BODY_2|0
+the edas environment|DT NNS NN|BODY_2|0
+the node limits|DT NN NNS|BODY_2|0
+the free resources|DT JJ NNS|BODY_7|0
+flexible service models|JJ NN NNS|ABSTRACT_2:BODY_2|0
+grid computing evolves|NN NN NNS|ABSTRACT_5|1
+the core components|DT NN NNS|BODY_5|0
+[computer communication networks|NN NN NNS|ABSTRACT_2|0
+a rising number|DT VBG NN|ABSTRACT_6|1
+the used features|DT VBN NNS|BODY_2|0
+the node level|DT NN NN|BODY_5:BODY_1|0
+also logical ones|RB JJ NNS|BODY_9|0
+the real resources|DT JJ NNS|BODY_4|0
+the server object|DT NN NN|BODY_4|0
+a web server|DT NN NN|BODY_7|0
+a node limit|DT NN NN|BODY_1:BODY_10|0
+a set|DT NN|BODY_2:BODY_7:BODY_8|0
+three nodes edas|CD NNS .|BODY_3|0
+a brief overview|DT JJ NN|BODY_4|0
+storage and bandwidth|NN CC NN|ABSTRACT_4|1
+a local limit|DT JJ NN|BODY_6:BODY_1|0
+the service demands|DT NN NNS|BODY_4|0
+its global limit|PRP$ JJ NN|BODY_6:BODY_2|0
+an overloaded node|DT JJ NN|BODY_3|0
+the diffusive algorithms|DT JJ NNS|BODY_7|0
+a bounded complexity|DT VBN NN|BODY_2|0
+such an environment|PDT DT NN|BODY_1|0
+distributed mobile objects|VBN JJ NNS|ABSTRACT_3|0
+another service specific|DT NN NN|BODY_5|0
+the first place|DT JJ NN|BODY_3|0
+the services|DT NNS|BODY_1:BODY_3:BODY_4|0
+the service state|DT NN NN|BODY_4|0
+a management infrastructure|DT NN NN|BODY_8|0
+the run-time evolution|DT NN NN|BODY_5|0
+migration and exchanging|NN CC NN|BODY_8|0
+a service component|DT NN NN|BODY_4|0
+a global limit|DT JJ NN|BODY_2|0
+its associated services|PRP$ JJ NNS|BODY_6|0
+a key issue|DT JJ NN|BODY_2|0
+another administrative domain|DT JJ NN|BODY_3|0
+the object group|DT NN NN|BODY_5|0
+a traditional service|DT JJ NN|BODY_5|0
+a controlled use|DT JJ NN|BODY_8|0
+an extended version|DT JJ NN|BODY_10|0
+traditional grid systems|JJ NN NNS|BODY_3|0
+an administrative domain|DT JJ NN|BODY_2|0
+the overall usage|DT JJ NN|BODY_4|0
+three major components|CD JJ NNS|BODY_4|0
+their current demand|PRP$ JJ NN|BODY_4|0
+the institution level|DT NN NN|BODY_3|0
+adaptive service model|JJ NN NN|BODY_2|0
+a straight-forward implementation|DT JJ NN|BODY_5|0
+a corba-compliant orb|DT JJ NN|BODY_3|0
+the resource requirements|DT NN NNS|BODY_5|0
+2. basic middleware|DT JJ NN|BODY_1|0
+a full coverage|DT JJ NN|BODY_3|0
+configure service instances|NN NN NNS|BODY_3|0
+the aspectix middleware|DT NN NN|BODY_3|0
+the local limits|DT JJ NNS|BODY_1|0
+the management interface|DT NN NN|BODY_1|0
+the limit overrun|DT NN NN|BODY_6|0
+the optimal distribution|DT JJ NN|BODY_5|0
+the node limit|DT NN NN|BODY_4|0
+the diffusive algorithm|DT JJ NN|BODY_5|0
+the assigned resources|DT VBN NNS|BODY_1:BODY_4|0
+a local fragment|DT JJ NN|BODY_4|0
+the service model|DT NN NN|BODY_2|0
+an online approach|DT JJ NN|BODY_3|0
+previously unknown service|RB JJ NN|BODY_10|0
+the dynamic adaptation|DT JJ NN|BODY_6|0
+a long period|DT JJ NN|BODY_9|0
+our aspectix [3|PRP$ NN NNS|BODY_2|0
+other service environments|JJ NN NNS|BODY_3|0
+the service manager|DT NN NN|BODY_6|0
+available free resources|JJ JJ NNS|BODY_5|0
+the service functionality|DT NN NN|BODY_4|0
+the previous demand|DT JJ NN|BODY_6|0
+the bin-packing problem|DT JJ NN|BODY_4|0
+several service environments|JJ NN NNS|BODY_5|0
+sufficient unassigned resources|JJ JJ NNS|BODY_6|0
+the fragmented object|DT JJ NN|BODY_3|0
+their resource demand|PRP$ NN NN|BODY_6|0
+the main tasks|DT JJ NNS|BODY_6|0
+a difficult problem|DT JJ NN|BODY_8:BODY_9|0
+adaptively rededicate resources|RB JJ NNS|BODY_5|0
+different service models|JJ NN NNS|BODY_6|0
+a large set|DT JJ NN|BODY_3|0
+a flooding approach|DT NN NN|BODY_3|0
+the new project|DT JJ NN|BODY_3|0
+a multi-dimensional problem|DT JJ NN|BODY_7|0
+a resource management|DT NN NN|BODY_3|0
+at least connected|IN JJS VBN|BODY_4|0
+usual client/server fashion|JJ NN NN|BODY_3|0
+all management tasks|DT NN NNS|BODY_3|0
+the whole state|DT JJ NN|BODY_2|0
+the same project|DT JJ NN|BODY_4:BODY_7|0
+the average case|DT JJ NN|BODY_4|0
+its local limit|PRP$ JJ NN|BODY_5|0
+services and nodes|NNS CC NNS|BODY_6|0
+a finite number|DT JJ NN|BODY_4|0
+the next sections|DT JJ NNS|BODY_16|0
+more decentralized grids|JJR JJ NNS|BODY_6|0
+a naive implementation|DT JJ NN|BODY_2|0
+special client-side stubs|JJ NN NNS|BODY_2|0
+a fixed set|DT JJ NN|BODY_5|0
+the gnutella protocol|DT NN NN|BODY_5|0
+the following section|DT VBG NN|BODY_1|0
+the active replication|DT JJ NN|BODY_6|0
+classic object-oriented design|JJ JJ NN|BODY_9|0
+a diffusive algorithm[4|DT JJ CC|BODY_3|0
+a service changes|DT NN NNS|BODY_2|0
+a service concept|DT NN NN|BODY_1|0
+the end user|DT NN NN|BODY_6|0
+such grid infrastructures|JJ NN NNS|BODY_1|0
+an abstract point|DT JJ NN|BODY_1|0
+such a service|PDT DT NN|BODY_1|0
+decentralized loadbalancing [4]|JJ NN NN|BODY_8|0
+the implementation effort|DT NN NN|BODY_1|0
+a distributed one|DT VBN CD|BODY_3|0
+the current node|DT JJ NN|BODY_6|0
+different home environments|JJ NN NNS|BODY_10|0
+these basic conditions|DT JJ NNS|BODY_21|0
+so-called global limits|JJ JJ NNS|BODY_7|0
+projects and nodes|NNS CC NNS|BODY_5|0
+furthermore each node|RBR DT NN|BODY_1|0
+the overall goal|DT JJ NN|BODY_1|0
+a task [6]|DT NN NN|BODY_6|0
+the principal workflow|DT JJ NN|BODY_6|0
+the administrative complexity|DT JJ NN|ABSTRACT_4|0
+all kind|DT NN|BODY_6:BODY_11:BODY_4|0
+the demanding service|DT VBG NN|BODY_4|0
+the service-environment level|DT NN NN|BODY_6|0
+resourcemanagement resource management|NN NN NN|BODY_1|0
+the core idea|DT NN NN|BODY_1|0
+various resource requirements|JJ NN NNS|BODY_9|0
+the respective domains|DT JJ NNS|BODY_7|0
+their actual usage|PRP$ JJ NN|BODY_4|0
+a common servant|DT JJ NN|BODY_3|0
+the local node|DT JJ NN|BODY_6|0
+a traditional stub|DT JJ NN|BODY_8|0
+a certain amount|DT JJ NN|BODY_1|0
+a new project|DT JJ NN|BODY_1|0
+a service manager|DT NN NN|BODY_1|0
+general the migration|JJ DT NN|BODY_1|0
+a random graph|DT JJ NN|BODY_7|0
+the later case|DT JJ NN|BODY_1|0
+a different approach|DT JJ NN|BODY_1|0
+decentralized load balancing|JJ NN NN|BODY_5|0
+a non-replicated service|DT JJ NN|BODY_1|0
+general terms design|JJ NNS NN|ABSTRACT_1|0
+the migration|DT NN|BODY_1:BODY_3:BODY_8|0
+the nodes|DT NNS|BODY_6:BODY_4|0
+there|EX|BODY_1:BODY_2:BODY_4|0
+the scope|DT NN|BODY_2|0
+one|CD|BODY_5:BODY_3:BODY_4|0
+resource management|NN NN|BODY_1:BODY_4:BODY_20|0
+rededication|NN|BODY_2:BODY_4:BODY_7|0
+the grid|DT NN|BODY_6:BODY_2:BODY_3|0
+the node|DT NN|BODY_2:BODY_3:BODY_9|0
+a framework|DT NN|BODY_3:BODY_9|0
+a project|DT NN|BODY_3:BODY_4:BODY_9|0
+the algorithm|DT NN|BODY_2|0
+the execution|DT NN|BODY_2:BODY_4|0
+local limits|JJ NNS|BODY_2:BODY_8|0
+clients|NNS|BODY_2:BODY_8|0
+available resources|JJ NNS|BODY_2:ABSTRACT_3|0
+resource limits|NN NNS|BODY_12:BODY_19|0
+an option|DT NN|BODY_2:BODY_4|0
+another node|DT NN|BODY_5:BODY_7|0
+the load|DT NN|BODY_3|0
+the replicas|DT NN|BODY_5:BODY_3|0
+an institution|DT NN|BODY_5|0
+resource demand|NN NN|BODY_5|0
+an algorithm|DT NN|BODY_6:BODY_1|1
+section 7|NN CD|BODY_3|0
+these properties|DT NNS|BODY_2|0
+them|PRP|BODY_6:BODY_4:BODY_7|0
+all groups|DT NNS|BODY_2|0
+systems-distributed applications|JJ NNS|ABSTRACT_3|0
+the limits|DT NNS|BODY_5:BODY_13|0
+the amount|DT NN|BODY_4:BODY_7|0
+the number|DT NN|BODY_1:BODY_8|0
+enterprise level|NN NN|BODY_2|0
+seti@home [1|NN NNS|BODY_4|0
+service unavailability|NN NN|BODY_6:BODY_4|0
+compute power|NN NN|ABSTRACT_3|1
+our approach|PRP$ NN|BODY_2:BODY_1|0
+each|DT|BODY_1:BODY_3:BODY_7|0
+d.2.12b [software]|JJ NN|ABSTRACT_4|0
+every node|DT NN|BODY_5:BODY_1|0
+the language|DT NN|BODY_6|0
+data-intensive tasks|JJ NNS|BODY_9|0
+projects|NNS|BODY_2:BODY_3|0
+various benefits|JJ NNS|BODY_3|0
+( fig|-LRB- NN|BODY_5|0
+active replication|JJ NN|BODY_2|0
+[9 ]|CD NN|BODY_5|0
+the feasibility|DT NN|BODY_5|0
+fragmented object|JJ NN|BODY_2|0
+a solution|DT NN|BODY_6|0
+a manager|DT NN|BODY_2|0
+a group|DT NN|BODY_4|0
+node crashes|NN NNS|BODY_2|0
+a unit|DT NN|BODY_4|0
+locallimiti|NNS|BODY_2|0
+run-time|NN|BODY_7:BODY_8|0
+non-modifying requests|JJ NNS|BODY_2|0
+unique identity|JJ NN|BODY_5|0
+system-level support|JJ NN|BODY_9|0
+this service|DT NN|BODY_5:BODY_1|0
+this problem|DT NN|BODY_2|1
+the mapping|DT NN|BODY_2:BODY_3|0
+every part|DT NN|BODY_1|0
+multiple institutions|JJ NNS|BODY_2|0
+the object|DT NN|BODY_2|0
+host e|NN NN|BODY_3|0
+each service|DT NN|BODY_5:BODY_1|0
+client stubs|NN NNS|BODY_3|0
+intermediate stages|JJ NNS|BODY_7|0
+such services|JJ NNS|BODY_2|0
+a scope|DT NN|BODY_2|0
+one organization|CD NN|BODY_2|0
+basic services|JJ NNS|BODY_6|0
+these resources|DT NNS|BODY_1:BODY_2|0
+all kinds|DT NNS|BODY_2|1
+peer resources|JJ NNS|BODY_9|0
+node shutdown|NN NN|BODY_4|0
+two reasons|CD NNS|BODY_2|0
+the context|DT NN|BODY_2|0
+the adaptation|DT NN|BODY_7|0
+the setup|DT NN|BODY_2|0
+free resources|JJ NNS|BODY_3:BODY_4|0
+resource discovery|NN NN|BODY_2|0
+a system|DT NN|BODY_2|0
+management tasks|NN NNS|BODY_4|0
+the system|DT NN|BODY_6|0
+the distinction|DT NN|BODY_2|0
+disk space|NN NN|BODY_6|0
+this algorithm|DT NN|BODY_2|0
+open issues|JJ NNS|BODY_2|0
+resource-usage information|NN NN|BODY_3|1
+an approach|DT NN|BODY_2|1
+sufficient support|JJ NN|BODY_3|0
+node limits|NN NNS|BODY_2|0
+various reasons|JJ NNS|BODY_3|0
+physical resources|JJ NNS|BODY_5|0
+time critical|NN JJ|BODY_5|0
+the framework|DT NN|BODY_2|0
+edas scenario|NN NN|BODY_4|0
+which resources|WDT NNS|BODY_5|0
+such systems|JJ NNS|BODY_3|0
+initial start|JJ NN|BODY_9|0
+service components|NN NNS|BODY_2|0
+resource constraints|NN NNS|BODY_5|0
+section 4|NN CD|BODY_1|0
+the union|DT NN|BODY_1|0
+service instances|NN NNS|BODY_4|0
+various nodes|JJ NNS|BODY_4|0
+resource shares|NN NNS|BODY_3|0
+various configurations|JJ NNS|BODY_5|0
+middleware infrastructure|JJ NN|BODY_3|0
+traditional client-server|JJ NN|BODY_4|0
+other requirements|JJ NNS|BODY_3|0
+automatic placement|JJ NN|BODY_6|0
+a time|DT NN|BODY_3|0
+home environment|NN NN|BODY_4|0
+the environment|DT NN|BODY_1:ABSTRACT_1|0
+the demand|DT NN|BODY_11|0
+time|NN|BODY_6:BODY_10:BODY_7|0
+these projects|DT NNS|BODY_2|0
+value type|NN NN|BODY_2|0
+only nodes|JJ NNS|BODY_3|0
+critical problem|JJ NN|BODY_4|0
+the risk|DT NN|BODY_2|0
+actively supports|RB VBZ|BODY_6|0
+the institution|DT NN|BODY_4|0
+overloaded nodes|JJ NNS|BODY_3|0
+startup time|JJ NN|BODY_8|0
+one service|CD NN|BODY_3|0
+broadcast searches|NN NNS|BODY_3|0
+this case|DT NN|BODY_1|0
+adaptive services|JJ NNS|BODY_7|0
+enough resources|JJ NNS|BODY_4|0
+the placement|DT NN|BODY_5:BODY_1|0
+all projects|DT NNS|BODY_3|0
+an interface|DT NN|BODY_6|0
+the infrastructure|DT NN|BODY_2|0
+space )|NN -RRB-|BODY_3|0
+the requirements|DT NNS|BODY_3|0
+another domain|DT NN|BODY_4|0
+already stated|RB VBN|BODY_7|0
+dynamic reconfiguration|JJ NN|BODY_5|0
+resource usage|NN NN|BODY_6|0
+a mediator|DT NN|BODY_3|0
+overload â€|JJ NNS|BODY_10|0
+distributed ,|VBN ,|BODY_5|0
+three domains|CD NNS|BODY_2|0
+two stages|CD NNS|BODY_4|0
+service environments|NN NNS|BODY_14|0
+further on|RBR IN|BODY_4|0
+fault-tolerance reasons|NN NNS|BODY_5|0
+real resources|JJ NNS|BODY_4|0
+certain limits|JJ NNS|BODY_4|0
+the items|DT NNS|BODY_4|0
+] aims|NN NNS|BODY_2|0
+an variant|DT NN|BODY_3|0
+the role|DT NN|BODY_2|0
+an environment|DT NN|TITLE_2|0
+this object|DT NN|BODY_1|0
+the policies|DT NNS|BODY_5|0
+scope|NN|BODY_4|0
+many projects|JJ NNS|BODY_4|0
+section 6|NN CD|BODY_1|0
+the implementation|DT NN|BODY_1|0
+the paper|DT NN|BODY_4|0
+various fragments|JJ NNS|BODY_4|0
+service|NN|BODY_2:BODY_7|0
+a prerequisite|DT NN|BODY_3|0
+the development|DT NN|BODY_7|0
+the interface|DT NN|BODY_3|0
+all resources|DT NNS|BODY_1|0
+the idea|DT NN|ABSTRACT_1|1
+what kind|WP NN|BODY_18|0
+serialization mechanisms|NN NNS|BODY_7|0
+work|NN|BODY_2|0
+one project|CD NN|BODY_4|0
+each domain|DT NN|BODY_1|0
+a home|DT NN|BODY_5|0
+theses services|NNPS NNS|BODY_1|0
+overlap partially|JJ RB|BODY_4|0
+global knowledge|JJ NN|BODY_8|0
+this set|DT NN|BODY_1|0
+its problems|PRP$ NNS|BODY_4|1
+the connection|DT NN|BODY_1|0
+system load|NN NN|BODY_1|1
+methods|NNS|BODY_2|0
+service requirements|NN NNS|BODY_4|0
+another problem|DT NN|BODY_1|0
+the occupancy|DT NN|BODY_3|0
+group members|NN NNS|BODY_1|0
+these limits|DT NNS|BODY_1|0
+overload situations|JJ NNS|BODY_4|0
+the downside|DT NN|BODY_1|0
+section 5|NN CD|BODY_1|0
+article 5|NN CD|BODY_9|0
+every service|DT NN|BODY_1|0
+a resource|DT NN|BODY_5|0
+local users|JJ NNS|BODY_6|0
+each project|DT NN|BODY_1|0
+the same|DT JJ|BODY_1|0
+used bins|VBN NNS|BODY_9|0
+certain resources|JJ NNS|BODY_5|0
+each institution|DT NN|BODY_1|0
+furthermore aspectix|JJR NN|BODY_1|0
+operating time|VBG NN|BODY_6|0
+home environments|NN NNS|BODY_6|0
+demand changes|NN NNS|BODY_1|0
+the entity|DT NN|BODY_1|0
+4.1 resource|CD NN|BODY_1|0
+the distribution|DT NN|BODY_1|0
+its services|PRP$ NNS|BODY_5|0
+the sum|DT NN|BODY_1|0
+account|NN|BODY_2:BODY_7|0
+two possibilities|CD NNS|BODY_5|0
+service migration|NN NN|BODY_12|0
+most cases|JJS NNS|BODY_1|0
+an infrastructure|DT NN|BODY_1|0
+program code|NN NN|BODY_4|0
+the resources|DT NNS|BODY_5|0
+services changes|NNS NNS|BODY_6|0
+any client|DT NN|BODY_1|0
+each node|DT NN|BODY_1|0
+sufficient resources|JJ NNS|BODY_5|0
+our grid|PRP$ NN|BODY_6|0
+numerous projects|JJ NNS|BODY_3|0
+4.3 placement|CD NN|BODY_1|0
+these nodes|DT NNS|BODY_6|0
+our case|PRP$ NN|BODY_1|0
+these situations|DT NNS|BODY_7|0
+its core|PRP$ NN|BODY_1|0
+plain corba|JJ NN|BODY_5|0
+this way|DT NN|BODY_1|0
+high demand|JJ NN|BODY_7|0
+aspectix|NN|BODY_3|0
+view|NN|BODY_2|0

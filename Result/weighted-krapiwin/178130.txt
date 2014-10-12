@@ -1,0 +1,210 @@
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_13:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the number|DT NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:ABSTRACT_7:BODY_8:BODY_9|1
+minimum cut linear arrangement|JJ NN NN NN|ABSTRACT_7:BODY_8|0
+their concurrent flow problem|PRP$ JJ NN NN|ABSTRACT_7|0
+very large scale integration|RB JJ NN NN|ABSTRACT_3|0
+an $ n$ -node|DT $ JJ NN|ABSTRACT_9|0
+$ m$ -edge network|$ JJ NN NN|ABSTRACT_10|0
+a large linear program|DT JJ NN NN|ABSTRACT_3|0
+we|PRP|BODY_12:BODY_11:BODY_16:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_28:BODY_1:BODY_7:BODY_8:BODY_9|14
+that|IN|BODY_6:BODY_11:BODY_5:BODY_18:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|2
+which|WDT|BODY_6:BODY_12:BODY_5:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_9|3
+the time|DT NN|BODY_12:BODY_16:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8|4
+reduce|VB|BODY_12:BODY_17:BODY_15:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|5
+there|EX|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_20|0
+ffl|NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+one|PRP|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|2
+o( n ) time|JJ NN -RRB- NN|BODY_3:BODY_8|1
+'s algorithm [2 ]|POS NN NN NN|BODY_11|1
+each shortest path length|DT JJS NN NN|BODY_3|1
+an approximate shortest-paths algorithm|DT JJ NNS NN|BODY_6|1
+the current jf j|DT JJ NN NN|BODY_4|1
+the concurrent flow problem|DT JJ NN NN|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4|0
+flow|NN|BODY_6:BODY_11:BODY_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+a multicommodity flow f|DT NN NN NN|BODY_5:BODY_15:BODY_2:BODY_1:BODY_4:BODY_9|0
+time|NN|BODY_6:BODY_5:BODY_11:BODY_16:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+the sum|DT NN|BODY_11:BODY_5:BODY_17:BODY_18:BODY_15:BODY_26:BODY_2:BODY_3:BODY_9|0
+jf j|NN NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the length|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+s|VBZ|BODY_12:BODY_6:BODY_11:BODY_5:BODY_16:BODY_21:BODY_13:BODY_10:BODY_4:BODY_7:BODY_8|0
+the relaxed optimality conditions|DT VBN NN NNS|BODY_5:BODY_2:BODY_3:BODY_4|0
+this|DT|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the multicommodity flow problem|DT NN NN NN|BODY_1:BODY_2:BODY_3|0
+the more general case|DT RBR JJ NN|BODY_5:BODY_2:BODY_7|0
+an ffl-optimal multicommodity flow|DT JJ NN NN|BODY_5:BODY_3|0
+a flow path p|DT NN NN NN|BODY_2:BODY_7|0
+at least one edge|IN JJS CD NN|BODY_3:BODY_4|0
+an ffl-bad flow path|DT JJ NN NN|BODY_2|0
+at least jajjbj=ffi( a|IN JJS CD DT|BODY_2|0
+the maximum total flow|DT JJ JJ NN|BODY_7:BODY_9|0
+the smaller flow problem|DT JJR NN NN|BODY_1:BODY_4|0
+minimum chordal fill [7]|JJ NN NN NN|BODY_13|0
+inequality ( 1 )|NN -LRB- CD -RRB-|BODY_3:BODY_4|0
+an approximately sparsest cut|DT RB JJ NN|BODY_10:BODY_4|0
+an additional multiplicative error|DT JJ JJ NN|BODY_5:BODY_2|0
+a nonnegative length function|DT JJ NN NN|BODY_2|0
+our unit-capacity approximation algorithm|PRP$ NN NN NN|BODY_2|0
+the new approximation algorithm|DT JJ NN NN|BODY_1|0
+the resulting running time|DT VBG JJ NN|BODY_2|0
+theorems 5.3 and 5.4|DT CD CC CD|BODY_1|0
+the next two sections|DT JJ CD NNS|BODY_2:BODY_1|0
+the given starting node|DT VBN VBG NN|BODY_11:BODY_8|0
+a common starting node|DT JJ NN NN|BODY_3|0
+o(log n ) bits|NN NN -RRB- NNS|BODY_7|0
+w \omega\gamma/54 n )|JJ CD NN -RRB-|BODY_2|0
+sleator and tarjan [16]|NN CC NN NNS|BODY_3|0
+the total flow value|DT NN NN NN|BODY_3|0
+the input flow f|DT NN NN NN|BODY_1:BODY_2|0
+the asymptotic running times|DT JJ VBG NNS|BODY_10|0
+a flow f i|DT NN NN NN|BODY_6:BODY_1|0
+the first two terms|DT RB CD NNS|BODY_3:BODY_4|0
+the minimum-cost flow problem|DT NN NN NN|BODY_7|0
+at least inverse polynomial|IN JJS JJ NN|BODY_3|0
+hence jf w min|RB JJ JJ NN|BODY_3|0
+minimum area vlsi layout|JJ NN NN NN|BODY_7|0
+a random flow path|DT JJ NN NN|BODY_6:BODY_1|0
+an ffl-bad path|DT JJ NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the same oe i|DT JJ NN NN|BODY_3|0
+min =\omega\gamma407 m )|NN CD NN -RRB-|BODY_6|0
+the corresponding time bounds|DT JJ NN NNS|BODY_2|0
+the last term sums|DT JJ NN NNS|BODY_22|0
+the error parameter ffl|DT NN NN NN|BODY_2|0
+the total expected time|DT NN VBN NN|BODY_1:BODY_7|0
+o( log n )|JJ NN NN -RRB-|BODY_9|0
+a more efficient implementation|DT RBR JJ NN|BODY_2|0
+up to n edges|RB TO NN NNS|BODY_4|0
+the input multicommodity flow|DT NN NN NN|BODY_5:BODY_2|0
+the resulting demand graph|DT VBG NN NN|BODY_4|0
+dynamic programming computation suffices|JJ NN NN NNS|BODY_3|0
+the deterministic case bits|DT JJ NN NNS|BODY_4|0
+at most w min|IN JJS NN NN|BODY_4|0
+at most n \gamma|IN JJS NN NN|BODY_2|0
+a reasonably small amount|DT RB JJ NN|BODY_15|0
+at least z percent|IN JJS NN NN|BODY_7|0
+min =\omega\gamma450 m )|NN CD NN -RRB-|BODY_5|0
+leighton and rao [11]|NN CC NN NNS|BODY_1|0
+an error parameter ffl|DT NN NN NN|BODY_6|0
+o(log n ) time|NN NN -RRB- NN|BODY_10|0
+an o(log n)-approximation algorithm|DT NN NN NN|BODY_2|0
+n+m( log n+min fk|JJ NN NN NN|BODY_6|0
+a feasible multicommodity flow|DT JJ NN NN|BODY_5|0
+a balanced binary tree|DT JJ NN NN|BODY_3|0
+at least e ff|IN JJS NN NN|BODY_2|0
+oe i / d(|NN NN FW FW|BODY_9|0
+a maximum throughput z|DT JJ NN NN|BODY_2|0
+f i ( p|NN NN -LRB- NN|BODY_7|0
+the randomized conversion method|DT JJ NN NN|BODY_5|0
+the demands and minimizes|DT NNS CC NNS|BODY_7|0
+the maximum percentage z|DT JJ NN NN|BODY_6|0
+the complimentary slackness conditions|DT JJ NN NNS|BODY_4|0
+log n ) [18]|NN NN -RRB- CD|BODY_3|0
+the corresponding array entry|DT JJ NN NN|BODY_6|0
+an improved multicommodity flow|DT VBN NN NN|BODY_9|0
+a more sophisticated implementation|DT RBR JJ NN|BODY_6|0
+a shortest path results|DT NN NN NNS|BODY_5|0
+the randomized implementations increases|DT JJ NNS NNS|BODY_2|0
+same flow quantum oe|JJ NN NN NN|BODY_7|0
+a non-negative capacity cap(vw|DT JJ NN NN|BODY_4|0
+an o(log n)-factor approximation|DT NN NN NN|BODY_2|0
+approximately minimizing channel width|RB JJ NN NN|BODY_3|0
+that every o( max|IN DT NN NN|BODY_8|0
+fredman and tarjan [3|NN CC NN NNS|BODY_4|0
+ffl 0 '( p|JJ CD JJ NN|BODY_7|0
+the second-level data structure|DT JJ NNS NN|BODY_9|0
+an approximate  sparsest|DT JJ NN NN|BODY_4|0
+either jf j decreases|DT JJ NN NNS|BODY_3|0
+a single flow path|DT JJ NN NN|BODY_3|0
+the appropriate flow graph|DT JJ NN NN|BODY_16|0
+the uniform demand case|DT JJ NN NN|BODY_4|0
+f 0 (vw )|NN CD NN -RRB-|BODY_2|0
+every multicommodity flow f|DT NN NN NN|BODY_1:BODY_4|0
+most an o(log n|RBS DT NN NN|BODY_9|0
+a small enough number|DT JJ JJ NN|BODY_5|0
+the total expected contribution|DT NN VBN NN|BODY_7|0
+o(log( ffl \gamma1 nm|JJ JJ JJ NN|BODY_2|0
+the third-level data structure|DT JJ NNS NN|BODY_10|0
+( initially jf j|-LRB- RB NN NNS|BODY_4|0
+kd( i)g log( mffl|NN NN NN NN|BODY_6|0
+the multicommodity flow f|DT NN NN NN|BODY_2|0
+this smaller flow problem|DT JJR NN NN|BODY_3|0
+these relaxed optimality conditions|DT VBN NN NNS|BODY_2|0
+at most ffl 0|IN JJS JJ CD|BODY_5|0
+'( p but p|JJ NN CC NN|BODY_10|0
+o( k ) iterations|JJ NN -RRB- NNS|BODY_5|0
+a concurrent flow problem|DT JJ NN NN|BODY_3|0
+o( n ) commodities|JJ NN -RRB- NNS|BODY_5|0
+o( m ) time|JJ NN -RRB- NN|BODY_6:BODY_5|0
+value d( i )|NN JJ NN -RRB-|BODY_9|0
+a faster randomized method|DT RBR JJ NN|BODY_3|0
+relaxed optimality condition r1|JJ NN NN NN|BODY_5:BODY_10|0
+a sufficiently good approximation|DT RB JJ NN|BODY_9|0
+a partition a[ b|DT NN NN NN|BODY_4|0
+the algorithm oe i|DT NN NN NN|BODY_1|0
+n+mk +m log n|DT JJ VBP NN|BODY_18|0
+the third level array|DT JJ NN NN|BODY_1|0
+at least as large|IN JJS RB JJ|BODY_16|0
+a candidate ffl-bad path|DT NN JJ NN|BODY_3|0
+o(ffffljf log m )|JJ NN NN -RRB-|BODY_14|0
+at least jajjbj units|IN JJS JJ NNS|BODY_7|0
+a simple deterministic implementation|DT JJ JJ NN|BODY_2|0
+a three-level data structure|DT JJ NNS NN|BODY_3|0
+constant-time addition and deletion|NN NN CC NN|BODY_9|0
+at most log ffl|IN JJS NN NN|BODY_2|0
+at most n edges|IN JJS NN NNS|BODY_7|0
+at least140 ffoe i|IN JJS NN IN|BODY_12|0
+1 + o(ffl=c )|CD JJ NN -RRB-|BODY_6|0
+' (vw )f(vw )|POS JJ NN -RRB-|BODY_5|0
+relaxed optimality condition r2|JJ NN NN NN|BODY_2:BODY_4|0
+ffl-bad and ffl-good paths|JJ CC JJ NNS|BODY_27|0
+an ffl 7 chance|DT NN CD NN|BODY_12|0
+a nonzero length function|DT JJ NN NN|BODY_9|0
+a technical granularity condition|DT JJ NN NN|BODY_2|0
+o(k ( m n|JJ -LRB- NN NN|BODY_3|0
+all the edge lengths|DT DT NN NNS|BODY_3:BODY_4|0
+the original all-pairs problem|DT JJ NNS NN|BODY_3|0
+n+ ffl \gamma3 m|RB JJ NN NN|BODY_9|0
+o(km log n log|JJ NN NN NN|BODY_5|0
+an ffl-bad path p|DT JJ NN NN|BODY_3|0
+approximate shortest path computation|JJ NN NN NN|BODY_3|0
+o( n ) edges|JJ NN -RRB- NNS|BODY_3|0
+lemma 4.7 one iteration|NN CD CD NN|BODY_7|0
+most twice the time|RBS RB DT NN|BODY_3|0
+theorems 1.1 and 1.3|DT CD CC CD|BODY_8|0
+o(-) and the value|JJ CC DT NN|BODY_8|0
+raghavan and thompson [13]|NN CC NN NNS|BODY_1|0
+3 relaxed optimality conditions|CD VBN NN NNS|BODY_1|0
+their approximate sparsest-cut algorithm|PRP$ JJ JJ NN|BODY_1|0
+at least 7m ffl|IN JJS JJ NN|BODY_10|0
+a better  path|DT RBR JJ NN|BODY_6|0
+the taylor series expansion|DT NN NN NN|BODY_1|0
+vw jf j'(vw )|VBD JJ NN -RRB-|BODY_1|0
+each second-level data structure|DT JJ NNS NN|BODY_1|0
+4.3 further implementation details|CD JJ NN NNS|BODY_1|0
+the length function '|DT NN NN POS|BODY_10|0
+a 1 -optimal flow|DT CD JJ NN|BODY_3|0
+' a length function|POS DT NN NN|BODY_10|0
+a feasible flow f|DT JJ NN NN|BODY_1|0
+the next two lemmas|DT JJ CD NNS|BODY_1|0
+the minimum channel width|DT NN NN NN|BODY_4|0
+shahrokhi and matula [15]|NN CC NN NN|BODY_4|0
+at most one-quarter empty|IN JJS JJ JJ|BODY_3|0
+a single computer word|DT JJ NN NN|BODY_10|0
+o(k log k )|JJ NN NN -RRB-|BODY_2|0
+an all-pairs multicommodity flow|DT JJ NN NN|BODY_1|0
+a bad flow path|DT JJ NN NN|BODY_1|0
+all such flow paths|DT JJ NN NNS|BODY_1|0
+the directed flow graph|DT VBN NN NN|BODY_3|0
+the other two steps|DT JJ CD NNS|BODY_3|0
+w min n )|NN NN NN -RRB-|BODY_1|0
+a single step )|DT JJ NN -RRB-|BODY_6:BODY_12|0
+an ffl-bad path )|DT JJ NN -RRB-|BODY_22|0
+a sufficiently precise approximation|DT RB JJ NN|BODY_5|0
+( 1 ffl )|-LRB- CD JJ -RRB-|BODY_18|0
+j=2 and n )|NN CC NN -RRB-|BODY_5|0
+the different flow graphs|DT JJ NN NNS|BODY_1|0
+a sufficiently short path|DT RB JJ NN|BODY_4|0
+jf o( w min|JJ JJ NN NN|BODY_1|0
+o( 1 ) time|NN CD -RRB- NN|BODY_2|0
+such approximately optimal solutions|JJ RB JJ NNS|BODY_3|0
+a given target value|DT VBN NN NN|BODY_5|0
+all the flow paths|PDT DT NN NNS|BODY_1|0

@@ -1,0 +1,51 @@
+points|NNS|BODY_2:BODY_10|0
+which|WDT|BODY_2:BODY_7|0
+transmission lines|NN NNS|BODY_5:BODY_4|0
+the dqm|DT NN|BODY_5:BODY_1|0
+dqm|NN|BODY_2:BODY_1|0
+a circuit simulator|DT NN NN|BODY_2|0
+lossy nonuniform transmission lines|JJ NN NN NNS|BODY_2|0
+rational formulas|JJ NNS|BODY_5|0
+accurate discrete models|JJ NN NNS|BODY_6|0
+the process|DT NN|BODY_8|0
+far fewer grid points|RB JJR NN NNS|BODY_5|0
+whose port voltages and currents|WP$ NN NNS CC NNS|BODY_4|0
+differential quadrature methods|JJ NN NNS|BODY_3|0
+this paper|DT NN|BODY_4|0
+transcendental functions|JJ NNS|BODY_7|0
+the dqm approximation|DT NN NN|BODY_3|0
+a set|DT NN|BODY_5|0
+the derivation mechanisms|DT NN NNS|BODY_6|0
+interconnects|NNS|BODY_2|0
+multiport models|JJ NNS|BODY_3|0
+a small set|DT JJ NN|BODY_9|0
+it|PRP|BODY_4|0
+values|NNS|BODY_7|0
+the differential quadrature method ( dqm)|DT JJ NN NN -LRB- NNS|BODY_6|0
+an efficient numerical approximation technique|DT JJ JJ NN NN|BODY_5|0
+its bounded domain|PRP$ VBN NN|BODY_5|0
+the pade approximation|DT NN NN|BODY_3|0
+a weighted linear sum|DT JJ JJ NN|BODY_6|0
+any point|DT NN|BODY_4|0
+the function|DT NN|BODY_8|0
+a complex moment-matching process|DT JJ NN NN|BODY_3|0
+a function|DT NN|BODY_3|0
+no approximation|DT NN|BODY_6|0
+asymptotic waveform evaluation ( awe|JJ NN NN -LRB- NN|BODY_4|0
+'s partial differential equations|POS JJ JJ NNS|BODY_3|0
+the derivative|DT NN|BODY_2|0
+the frequency-domain telegrapher|DT JJ NN|BODY_2|0
+rational approximation|JJ NN|BODY_4|0
+spice|NN|BODY_3|0
+the dqm-based time-domain model|DT JJ NN NN|BODY_1|0
+other numerical methods|JJ JJ NNS|BODY_7|0
+the frequency domain|DT NN NN|BODY_6|0
+accurate modeling|JJ NN|BODY_1|0
+moment generation and moment matching|NN NN CC NN NN|BODY_9|0
+easily solvable algebraic equations|RB JJ JJ NNS|BODY_6|0
+these two disparate methods|DT CD JJ NNS|BODY_7|0
+global sampling|JJ NN|BODY_1|0
+the domain|DT NN|BODY_11|0
+the rationalization process|DT NN NN|BODY_1|0
+awe|NN|BODY_1|0
+lossy uniform and nonuniform transmission lines|JJ NN CC NN NN NNS|BODY_8|0

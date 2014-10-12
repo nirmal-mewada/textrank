@@ -1,0 +1,1039 @@
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_13:BODY_26:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_20:BODY_9|0
+which|WDT|BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+interferences|NNS|BODY_12:BODY_11:BODY_15:BODY_13:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|0
+cache interferences|NN NNS|BODY_5:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7|0
+cache|NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8|0
+the reuse set|DT NN NN|BODY_12:BODY_5:BODY_11:BODY_18:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the actual reuse|DT JJ NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_11:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_29:BODY_7|0
+internal cross-interferences|JJ NNS|BODY_12:BODY_5:BODY_17:BODY_1:BODY_2:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_5:ABSTRACT_4:BODY_3:BODY_4:BODY_7|0
+cache misses|NN NNS|BODY_6:ABSTRACT_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_30:BODY_8:BODY_9|0
+reuse|NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the reuse|DT NN|BODY_6:BODY_16:BODY_23:BODY_2:BODY_1:BODY_3:BODY_4:BODY_20|0
+external cross-interferences|JJ NNS|BODY_5:BODY_21:BODY_23:BODY_13:BODY_2:BODY_9|0
+the size|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+.e|NN|BODY_6:BODY_5:BODY_17:BODY_15:BODY_4:BODY_10:BODY_7|0
+the total number|DT JJ NN|BODY_15:BODY_23:BODY_1:BODY_2:BODY_4|0
+u (k|NN NN|BODY_6:BODY_5:BODY_18:BODY_25:BODY_2:BODY_4:BODY_10:BODY_7:BODY_8|0
+oe|NN|BODY_2:BODY_4:BODY_10:BODY_7:BODY_8|0
+intervals|NNS|BODY_12:BODY_6:BODY_17:BODY_15:BODY_4:BODY_7|0
+they|PRP|BODY_22:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+y|NN|BODY_6:BODY_13:BODY_2:BODY_3:BODY_10:BODY_8|0
+f (k|NN NN|BODY_12:BODY_6:BODY_11:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_29:BODY_9|0
+the actual interference|DT JJ NN|BODY_5:BODY_1:BODY_7|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1:BODY_4|0
+the impact|DT NN|BODY_5:BODY_13:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8|0
+j )|NN -RRB-|BODY_11:BODY_5:BODY_28:BODY_15:BODY_13:BODY_4:BODY_9|0
+u|PRP|BODY_5:BODY_27:BODY_13:BODY_2:BODY_3:BODY_4|0
+i )|FW -RRB-|BODY_6:BODY_11:BODY_5:BODY_17:BODY_26:BODY_24:BODY_3:BODY_19:BODY_10:BODY_4:BODY_7|0
+100 runs|CD NNS|BODY_2:BODY_4|0
+the interference set|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_20|0
+r|NN|BODY_6:BODY_12:BODY_5:BODY_3:BODY_4|0
+the distance|DT NN|BODY_2:BODY_3:BODY_4|0
+there|EX|BODY_5:BODY_2:BODY_1|0
+the theoretical reuse|DT JJ NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+self-interferences|NNS|BODY_22:BODY_2:BODY_4:BODY_7:BODY_9|0
+a|DT|BODY_6:BODY_2:BODY_8|0
+references|NNS|BODY_6:BODY_5:BODY_2:BODY_8|0
+size|NN|BODY_5:BODY_2:BODY_7|0
+interference misses|NN NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+a reuse|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+the corresponding interference set|DT JJ NN NN|BODY_5:BODY_1|0
+an interval|DT NN|BODY_2:BODY_9:BODY_20|0
+group-dependence reuse|NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_8|0
+)|-RRB-|BODY_5:BODY_14:BODY_4:BODY_7:BODY_9|0
+s|VBZ|BODY_6:BODY_3:BODY_4:BODY_8|0
+the set|DT NN|BODY_2:BODY_14:BODY_3|0
+ffi|NN|BODY_3:BODY_10|0
+a set|DT VBN|BODY_6:BODY_16:BODY_3:BODY_4|0
+n|NN|BODY_5:BODY_15:BODY_1:BODY_3:BODY_8|0
+the model|DT NN|BODY_5:BODY_2:ABSTRACT_3|0
+data|NNS|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+this work|DT NN|BODY_2:BODY_1:BODY_4|0
+cross-interferences|NNS|BODY_5:BODY_18:BODY_1:BODY_3:BODY_4|0
+instance|NN|BODY_12:BODY_5:BODY_3|0
+the accurate evaluation|DT JJ NN|BODY_1:BODY_3:BODY_4|0
+the theoretical interference|DT JJ NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+reference|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+example|NN|BODY_15:BODY_1:BODY_8|0
+correspond|NN|BODY_3|0
+j 3|NN CD|BODY_5:BODY_3:BODY_4:BODY_9|0
+cache lines|NN NNS|BODY_5:BODY_4:BODY_10:BODY_8|0
+the cache footprint|DT NN NN|BODY_3:BODY_7|0
+the actual interference sets|DT JJ NN NNS|BODY_1:BODY_2:BODY_4|0
+a and b|DT CC NN|BODY_11:BODY_2:BODY_3|0
+this section|DT NN|BODY_28:BODY_2|0
+0|CD|BODY_17:BODY_3:BODY_4|0
+compulsory misses|JJ NNS|BODY_16:BODY_1:BODY_3|0
+the footprint|DT NN|BODY_11:BODY_10:BODY_4|0
+the computations|DT NNS|BODY_3:BODY_4|0
+the same cache location|DT JJ NN NN|BODY_5:BODY_13:BODY_3:BODY_7|0
+ldb(k )|NN -RRB-|BODY_22:BODY_15:BODY_2:BODY_14:BODY_7|0
+this case array elements|DT NN NN NNS|BODY_1:BODY_8|0
+the case|DT NN|BODY_5:BODY_4|0
+the temporal reuse|DT JJ NN|BODY_16:BODY_7:BODY_20|0
+array elements|NN NNS|BODY_3:BODY_4|0
+the relative distance|DT JJ NN|BODY_5:BODY_13:BODY_7|0
+one|CD|BODY_5:BODY_4:BODY_9|0
+section 2|NN CD|BODY_6:BODY_5:BODY_1|0
+the miss ratio|DT NN NN|BODY_2|0
+(|-LRB-|BODY_16:BODY_3:BODY_9|0
+two references|CD NNS|BODY_6:BODY_4:BODY_7|0
+interference|NN|BODY_2:BODY_9|0
+these results|DT NNS|BODY_2:BODY_4|0
+locations|NNS|BODY_11:BODY_4|0
+the same translation group|DT JJ NN NN|BODY_6:BODY_2:BODY_10|0
+iterations|NNS|BODY_3:BODY_8|0
+the group-dependence|DT NN|BODY_6:BODY_2:BODY_3|0
+lda(k )|NN -RRB-|BODY_21:BODY_4:BODY_7:BODY_9|0
+a formal treatment|DT JJ NN|BODY_2|0
+array subscripts|NN NNS|BODY_2|0
+cache space|NN NN|BODY_2|0
+oe oe|NN NN|BODY_2|0
+simple ones|JJ NNS|BODY_2|0
+the proper dependence|DT JJ NN|BODY_2|0
+the relative base address|DT JJ NN NN|BODY_2|0
+this model|DT NN|BODY_2|0
+capacity misses|NN NNS|BODY_6:BODY_5:BODY_4|0
+the techniques|DT NNS|BODY_32:BODY_3|0
+a recursive process|DT JJ NN|BODY_2:BODY_3|0
+all|DT|BODY_27:BODY_21:BODY_2:BODY_1|0
+the leading dimension|DT VBG NN|BODY_5:BODY_1:BODY_4|0
+the intersection|DT NN|BODY_5:BODY_2:BODY_3|0
+all iterations|DT NNS|BODY_2:BODY_3|0
+the spacing|DT NN|BODY_6:BODY_11:BODY_2|0
+an example|DT NN|BODY_2:BODY_7|0
+lda( k )|JJ NN -RRB-|BODY_5:BODY_3:BODY_8|0
+the paper|DT NN|BODY_2|0
+self|NN|BODY_12:BODY_2|0
+the two sets|DT CD NNS|BODY_2:BODY_3:BODY_14|0
+most|RBS|BODY_11:BODY_1:BODY_19|0
+x|SYM|BODY_7:BODY_8|0
+the problem|DT NN|BODY_13:BODY_1|0
+dependence reuse|NN NN|BODY_3:BODY_4|0
+interference phenomena|NN NNS|BODY_3:BODY_4:BODY_7|0
+1|CD|BODY_5:BODY_1:BODY_8|0
+a methodology|DT NN|BODY_2:BODY_9|0
+the group-dependence reuse|DT NN NN|BODY_12:BODY_3:BODY_4|0
+the multiplication|DT NN|BODY_15:BODY_4|0
+r and r 0|NN CC NN CD|BODY_6:BODY_13:BODY_3:BODY_4|0
+us|PRP|BODY_2:BODY_4|0
+x( j|JJ NN|BODY_4:BODY_8|0
+( i .e|-LRB- FW FW|BODY_2:BODY_4|0
+loops|NNS|BODY_11:BODY_9|0
+the model accuracy|DT NN NN|BODY_2:BODY_4|0
+loop 3.5a|NN NN|BODY_16:BODY_2:BODY_1:BODY_14:BODY_9|0
+the approximate number|DT JJ NN|BODY_5:BODY_3|0
+3|CD|BODY_1:BODY_4|0
+numerical codes|JJ NNS|BODY_2|0
+the data|DT NNS|BODY_5:BODY_7|0
+iterating|NN|BODY_13:BODY_19|0
+cache line|NN NN|BODY_4|0
+the reuse distance|DT NN NN|BODY_6:BODY_1|0
+1)g|CD|BODY_5:BODY_2:BODY_3:BODY_4|0
+examples|NNS|BODY_6:BODY_21|0
+the sets|DT NNS|BODY_13:BODY_2|0
+the study|DT NN|BODY_1:BODY_2|0
+size oe s\gamma1|NN NN NN|BODY_6:BODY_3|0
+each reference|DT NN|BODY_5:BODY_1|0
+j|NN|BODY_4:BODY_8|0
+two consecutive intervals|CD JJ NNS|BODY_22:BODY_3:BODY_7|0
+different values|JJ NNS|BODY_4|0
+performance evaluation and prediction|NN NN CC NN|ABSTRACT_4|0
+the arrays base address|DT NNS NN NN|BODY_4|0
+the values|DT NNS|BODY_2|0
+these modeling techniques|DT JJ NNS|ABSTRACT_2|0
+two types|CD NNS|BODY_2|0
+2|CD|BODY_1:BODY_9|0
+combined|VBN|BODY_4:BODY_9|0
+spatial reuse|JJ NN|BODY_16:BODY_1:BODY_3|0
+j2 )|NNP -RRB-|BODY_2:BODY_3|0
+a reference|DT NN|BODY_4:BODY_7|0
+cache phenomena|NN NNS|BODY_2|0
+figure|NN|BODY_3|0
+most interferences ( c|RBS NNS -LRB- NN|BODY_3|0
+precise performance analysis and prediction|JJ NN NN CC NN|BODY_3|0
+reference (|NN -LRB-|BODY_2|0
+terms|NNS|ABSTRACT_3|0
+that cache interferences|DT NN NNS|ABSTRACT_2|0
+the access stride|DT NN NN|BODY_3|0
+the algorithm|DT NN|BODY_2|0
+xa and xb|NNP CC NNP|BODY_2|0
+the loop|DT NN|BODY_12:BODY_11|0
+the layout|DT NN|BODY_3:BODY_7|0
+the process|DT NN|BODY_1:BODY_3|0
+the interference|DT NN|BODY_2:BODY_3|0
+the whole process|DT JJ NN|BODY_9|0
+11|CD|BODY_24:BODY_19|0
+the different arrays|DT JJ NNS|BODY_3:BODY_9|0
+disruption|NN|BODY_2:BODY_8|0
+intuitively|RB|BODY_6:BODY_7|0
+a significant impact|DT JJ NN|BODY_5:BODY_3|0
+the occurrence|DT NN|ABSTRACT_4:ABSTRACT_2|0
+this reference|DT NN|BODY_5:BODY_7|0
+the translation group|DT NN NN|BODY_17:BODY_3|0
+1 array 1|CD NN CD|BODY_2|0
+\gammak u|JJ NN|BODY_11|0
+global execution time variations|JJ NN NN NNS|ABSTRACT_2|0
+other arrays point|JJ NNS NN|BODY_7|0
+the same cache line|DT JJ NN NN|BODY_5:BODY_15|0
+program performance|NN NN|ABSTRACT_3:BODY_4|0
+arrays lda and ldb)|NNS NN CC NN|BODY_5|0
+such interferences|JJ NNS|BODY_2|0
+ldb( k|JJ NN|BODY_2:BODY_8|0
+these examples|DT NNS|BODY_2|0
+f i|NN FW|BODY_2|0
+one application|CD NN|BODY_17|0
+ku \gamma|FW FW|BODY_3|0
+the function|DT NN|BODY_10|0
+the cache position|DT NN NN|BODY_12:BODY_5|0
+interference set|NN NN|BODY_12:BODY_11:BODY_10|0
+1 )|CD -RRB-|BODY_12:BODY_5:BODY_10|0
+the reuse loop|DT NN NN|BODY_6:BODY_2:BODY_3|0
+loop l|NN NN|BODY_4:BODY_7|0
+a distance|DT NN|BODY_10:BODY_8|0
+2222 222222222 figure|CD CD NN|BODY_4|0
+ku=700|CD|BODY_2|0
+this assertion|DT NN|BODY_25:BODY_1|0
+20 %|CD NN|BODY_2|0
+the dec alpha [11]|DT NN NN NN|BODY_7|0
+the same time|DT JJ NN|BODY_4:BODY_7|0
+the cross-interferences|DT NNS|BODY_12:BODY_2|0
+the major issue|DT JJ NN|BODY_2|0
+a(j2 ,j1|JJ NNS|BODY_8|0
+array base addresses or dimensions|NN NN NNS CC NNS|ABSTRACT_2|0
+future directions|JJ NNS|BODY_2|0
+]|SYM|BODY_3|0
+the refinement|DT NN|BODY_2|0
+experiments|NNS|BODY_1:BODY_3:ABSTRACT_1|0
+4|CD|BODY_12:BODY_1:BODY_4:BODY_9|0
+8e \gamma|CD NN|BODY_4|0
+a compiler|DT NN|BODY_5|0
+the relative cache distance|DT JJ NN NN|BODY_1:BODY_3|0
+the cache area|DT NN NN|BODY_5|0
+the interference set and actual interference|DT NN NN CC JJ NN|BODY_22:BODY_20|0
+numerical loop nests|JJ NN NNS|BODY_5:ABSTRACT_5|0
+modeling|NN|BODY_4|0
+figure 2|NN CD|BODY_1|0
+misses|NNS|BODY_3:BODY_4|0
+the total miss ratio|DT JJ NN NN|BODY_2|0
+the most complex case|DT RBS JJ NN|BODY_2|0
+loop k|NN NN|BODY_5:BODY_10|0
+loop level l|NN NN NN|BODY_5:BODY_8|0
+their performance|PRP$ NN|BODY_5|0
+the ones|DT NNS|BODY_3|0
+arc2d|NN|BODY_5|0
+figure 3.1|NN CD|BODY_14:BODY_10|0
+the estimated and real execution time graphs|DT VBN CC JJ NN NN NNS|BODY_2|0
+consider|VB|BODY_4|0
+the purpose|DT NN|BODY_2:BODY_1|0
+submatrices|NNS|BODY_17|0
+the same|DT JJ|BODY_10:BODY_8|0
+one such area|CD JJ NN|BODY_1:BODY_8|0
+more|RBR|BODY_7|0
+the definition|DT NN|BODY_2:BODY_7|0
+loop j|NN NN|BODY_2:BODY_4|0
+4 array elements|CD NN NNS|BODY_2|0
+4 array elements words|CD NN NNS NNS|BODY_2|0
+elements|NNS|BODY_3|0
+reuse oc|NN FW|BODY_7|0
+this evaluation|DT NN|BODY_10|0
+problem 3.1|NN CD|BODY_2|0
+all elements|DT NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+2 iterations|CD NNS|BODY_7|0
+such cross-interferences|JJ NNS|BODY_1:BODY_3|0
+1 iteration|CD NN|BODY_3:BODY_4|0
+figure 3.7|NN CD|BODY_1:BODY_2|0
+j1 )|NNP -RRB-|BODY_8|0
+loop j 1|NN NN CD|BODY_3:BODY_4|0
+(k|NN|BODY_4:BODY_7|0
+ldb(k|NN|BODY_14|0
+the interference  sets|DT NN NN NNS|BODY_12:BODY_2|0
+lda( k|JJ NN|BODY_2:BODY_7|0
+parameters|NNS|BODY_3|0
+range|NN|ABSTRACT_3|0
+the main variables|DT JJ NNS|BODY_3|0
+n elements|RB NNS|BODY_5:BODY_21|0
+two elements|CD NNS|BODY_6:BODY_3|0
+the array base addresses|DT NN NN NNS|BODY_5|0
+the hp|DT NN|BODY_4|0
+that execution time|DT NN NN|BODY_2|0
+the peaks|DT NNS|BODY_2|0
+this process|DT NN|BODY_6:BODY_2|0
+the model precision|DT NN NN|BODY_2|0
+several examples|JJ NNS|BODY_3|0
+( ldb ( lds|-LRB- NN -LRB- NNS|BODY_9|0
+ku ls|FW NNS|BODY_5:BODY_4|0
+i .e|FW FW|BODY_2|0
+7|CD|BODY_1:BODY_3|0
+one reference|CD NN|BODY_6:BODY_4|0
+one large single array|CD JJ JJ NN|BODY_6|0
+the experiments|DT NNS|BODY_3|0
+that internal-cross interferences disrupt group|DT JJ NNS VB NN|BODY_2|0
+figure 3.6.2|NN CD|BODY_12:BODY_1|0
+lds(k )|NN -RRB-|BODY_6:BODY_3|0
+these parameters|DT NNS|BODY_1:ABSTRACT_1|0
+all arrays|DT NNS|BODY_5:BODY_1|0
+figure 2b , ffi|NN JJ , JJ|BODY_10|0
+an approximationwhich aims|DT JJ NNS|BODY_2|0
+a great extent [2|DT JJ NN NNS|BODY_3|0
+this fact|DT NN|BODY_2|0
+the cache footprint size|DT NN NN NN|BODY_3|0
+the cost|DT NN|BODY_16|0
+none|NN|BODY_3|0
+arrays lda and ldb|NNS NN CC NN|BODY_3|0
+the 13|DT CD|BODY_4|0
+the miss ratio evaluation techniques|DT NN NN NN NNS|BODY_4|0
+the respective cache positions|DT JJ NN NNS|BODY_2|0
+only the interval|RB DT NN|BODY_2|0
+notion|NN|BODY_15|0
+a priori|DT NN|BODY_15|0
+all intervals|DT NNS|BODY_4|0
+a number|DT NN|BODY_2|0
+. ffl|. NN|BODY_11:BODY_14|0
+the reuse loop level|DT NN NN NN|BODY_1|0
+an array )|DT NN -RRB-|BODY_7|0
+not  cache-consciously|RB JJ RB|BODY_3|0
+a low hit time|DT JJ NN NN|BODY_2|0
+bytes|NNS|BODY_2|0
+direct-mapped cache|JJ NN|BODY_1|0
+enddo enddo loop 3.7a|VB VB NN NN|BODY_1|0
+n1=n2=500 )|CD -RRB-|BODY_2|0
+oe oe c )|NN NN NN -RRB-|BODY_2|0
+proposition 3.1|NN CD|BODY_1|0
+several on-chip data caches|JJ JJ NNS NNS|BODY_1|0
+several references|JJ NNS|BODY_5|0
+a group|DT NN|BODY_6:BODY_2|0
+the base addresses|DT NN NNS|BODY_4|0
+\theta|NN|BODY_9|0
+the actual sets|DT JJ NNS|BODY_2|0
+the theoretical minimum|DT JJ NN|BODY_3|0
+the method|DT NN|BODY_1:BODY_4|0
+the model )|DT NN -RRB-|BODY_9|0
+a whole loop|DT JJ NN|BODY_6|0
+the condition|DT NN|BODY_1:BODY_10|0
+i ) and f (k|FW -RRB- CC NN NN|BODY_12:BODY_3|0
+the complexity|DT NN|BODY_2|0
+the details|DT NNS|BODY_2|0
+real 33333333|JJ NN|BODY_6|0
+paper length constraints|NN NN NNS|BODY_1|0
+a loop|DT NN|BODY_4|0
+interference phenomenon|NN NN|BODY_4|0
+2 )|CD -RRB-|BODY_5:BODY_9|0
+the simulated execution time|DT JJ NN NN|BODY_5|0
+each element|DT NN|BODY_2:BODY_1|0
+that single parameter|IN JJ NN|BODY_8|0
+note|NN|BODY_1|0
+the esprit agency dg xiii|DT NN NN NN NNS|BODY_2|0
+proposition 3.7|NN CD|BODY_2|0
+application|NN|BODY_8|0
+the estimated execution time|DT JJ NN NN|BODY_8|0
+a type|DT NN|BODY_3|0
+the loop nest|DT NN NN|BODY_8|0
+the reasons|DT NNS|BODY_5|0
+a translation group|DT NN NN|BODY_2:BODY_4|0
+statistics|NNS|BODY_4|0
+the miss penalty|DT NN NN|BODY_3|0
+a level|DT NN|BODY_2|0
+the compiler|DT NN|BODY_5|0
+the intersection size|DT NN NN|BODY_2|0
+loop i|NN IN|BODY_4:BODY_20|0
+3.1|CD|BODY_4|0
+another reference|DT NN|BODY_8|0
+rather|RB|BODY_4|0
+most effects|JJS NNS|BODY_7|0
+loop|NN|BODY_31:BODY_5|0
+a starting point|DT VBG NN|BODY_6|0
+0 oe areas|CD NN NNS|BODY_2|0
+redundancies|NNS|BODY_22:BODY_1|0
+a given loop|DT VBN NN|BODY_3|0
+simulations|NNS|BODY_3|0
+|JJ|BODY_4|0
+the loop level|DT NN NN|BODY_5:BODY_2|0
+oe 1 cache locations|NN CD NN NNS|BODY_2|0
+the average size|DT NN NN|BODY_19:BODY_8|0
+the integration|DT NN|BODY_3|0
+the graph|DT NN|BODY_10|0
+the intervals wrap|DT NNS NN|BODY_4|0
+a strong impact|DT JJ NN|ABSTRACT_3|0
+this case|DT NN|BODY_1:BODY_10|0
+each loop level problem|DT NN NN NN|BODY_3|0
+r 1|NN CD|BODY_6:BODY_4|0
+real machines|JJ NNS|ABSTRACT_2|0
+overlapping|JJ|BODY_5|0
+another difficult problem|DT JJ NN|BODY_3|0
+only simple dependences|RB JJ NNS|BODY_2|0
+ping-pong phenomena|JJ NNS|BODY_4|0
+1 array floating-point data dimensions|CD NN JJ NNS NNS|BODY_2|0
+the hp/pa-risc cache|DT JJ NN|BODY_2|0
+500 %|CD NN|BODY_3|0
+on-chip space constraints kbytes|JJ NN NNS NNS|BODY_6|0
+these variations|DT NNS|BODY_3|0
+all oe k|DT NN NN|BODY_14|0
+ii oe|NNS NN|BODY_5|0
+\gammaffi) ls cache|JJ NNS NN|BODY_3:BODY_7|0
+absolute execution time|JJ NN NN|BODY_5|0
+sake|NN|BODY_5|0
+t|NN|BODY_11|0
+the actual interference set ais( r )|DT JJ NN VBN NN NN -RRB-|BODY_2|0
+the actual reuse set ars( r )|DT JJ NN VBN NN NN -RRB-|BODY_2|0
+the main outcome|DT JJ NN|BODY_3|0
+the reuse |DT NN|BODY_6:BODY_11|0
+each interval|DT NN|BODY_17:BODY_19|0
+the execution time|DT NN NN|BODY_12:BODY_1|0
+1 \theta|CD NN|BODY_10|0
+many interference phenomena|JJ NN NNS|BODY_3|0
+definition 3.1 assuming loops|NN CD VBG NNS|BODY_2|0
+detail|NN|BODY_3|0
+a do-loop|DT JJ|BODY_10|0
+\gamma500|CD|BODY_4|0
+our hp system|PRP$ NN NN|BODY_2|0
+section 3.4|NN CD|BODY_2|0
+the two actual interference sets|DT CD JJ NN NNS|BODY_5|0
+ffi if i .e|JJ IN FW FW|BODY_4|0
+the extension|DT NN|BODY_2|0
+z.|NN|BODY_7|0
+x(0 ) )|NN -RRB- -RRB-|BODY_2|0
+9 lemma 3.1|CD NN CD|BODY_6|0
+two n|CD NN|BODY_16|0
+three types|CD NNS|BODY_3|0
+all references|DT NNS|BODY_5|0
+the global execution time|DT JJ NN NN|BODY_10|0
+0 )|CD -RRB-|BODY_7|0
+section 3|NN CD|BODY_33:BODY_7|0
+section 4|NN CD|BODY_26:BODY_4|0
+one parameter|CD NN|BODY_6|0
+no more|DT RBR|BODY_2|0
+redundant estimates|JJ NNS|BODY_2|0
+the parameter|DT NN|BODY_9|0
+the real execution time|DT JJ NN NN|BODY_7|0
+primitives|NNS|BODY_3|0
+internal cross|JJ NN|BODY_4:BODY_7|0
+the same leading dimen- sion|DT JJ VBG NNS NN|BODY_6|0
+addresses|NNS|BODY_2|0
+ju=500 ).290310330350-500 0 500 1000 1500 2000 execution time|CD CD CD CD CD CD CD NN NN|BODY_3|0
+seconds ) matrix dimension m real y y (est|NNS -RRB- NN NN NN JJ NN NN NN|BODY_3|0
+arrays|NNS|BODY_6|0
+loop 2a|JJ CD|BODY_5:BODY_1:BODY_3|0
+the potential reuse|DT JJ NN|BODY_11|0
+z|NN|BODY_6|0
+the references|DT NNS|BODY_7|0
+loop blocking|NN VBG|BODY_6|0
+lap|NN|BODY_6|0
+variable|JJ|BODY_8|0
+high interferences [12]|JJ NNS NNS|BODY_2|0
+tradeoffs|NNS|BODY_5|0
+fy ( 0|RB -LRB- CD|BODY_3|0
+a 1-element ( 2 words|DT NN -LRB- CD NNS|BODY_3|0
+an 1-element ( 2 words|DT NN -LRB- CD NNS|BODY_3|0
+0 oe|CD NN|BODY_6|0
+j 3 reuse set|NN CD NN NN|BODY_8|0
+all examples|DT NNS|BODY_2|0
+index i|NN NN|BODY_11|0
+interferences [8]|NNS NNS|BODY_2|0
+the small spatial reuse distance|DT JJ JJ NN NN|BODY_2|0
+few translation groups|JJ NN NNS|BODY_3|0
+each type|DT NN|BODY_6:BODY_1|0
+recursion level k|NN NN NN|BODY_2|0
+the theoretical and actual interference|DT JJ CC JJ NN|BODY_5|0
+y ( j 3 interference set|NN -LRB- NN CD NN NN|BODY_9|0
+[13]|JJ|BODY_2|0
+data locality optimization techniques|NNS NN NN NNS|BODY_3|0
+direct-mapped caches|JJ NNS|BODY_4|0
+a vector x|DT NN NN|BODY_7|0
+cache interference|NN NN|BODY_5|0
+internal cross-interference misses|JJ NN NNS|BODY_5|0
+the execution time curves|DT NN NN NNS|BODY_2|0
+large but|JJ CC|BODY_4|0
+abstraction|NN|BODY_3|0
+a modified version|DT VBN NN|BODY_3|0
+all loops|DT NNS|BODY_2|0
+a subset|DT NN|BODY_7|0
+any array reference|DT NN NN|BODY_2|0
+reuse set|NN NN|BODY_13|0
+trs( r|JJ NN|BODY_9|0
+the base address|DT NN NN|BODY_3|0
+section 4 ( compulsory misses|NN CD -LRB- JJ NNS|BODY_4|0
+several loops|JJ NNS|BODY_6:BODY_10|0
+any array reference reuse loop|DT NN NN NN NN|BODY_2|0
+simulated or estimated cache|VBN CC VBN NN|BODY_3|0
+the global algorithm|DT JJ NN|BODY_2|0
+the possibility|DT NN|BODY_2|0
+the spatial reuse distance|DT JJ NN NN|BODY_3|0
+high network and memory latencies|JJ NN CC NN NNS|BODY_4|0
+spatial reuse disruption|JJ NN NN|BODY_5|0
+execution time|NN NN|BODY_6:BODY_1|0
+seconds ) figure 3.6.1b|NNS -RRB- NN NN|BODY_5|0
+all n|DT RB|BODY_24|0
+cache interferences cache interferences|NN NNS NN NNS|BODY_2|0
+the temporal reuse distance|DT JJ NN NN|BODY_2|0
+dependence distance|NN NN|BODY_14|0
+variations|NNS|BODY_3|0
+cache behavior [6|NN NN NNS|BODY_6|0
+the framework|DT NN|BODY_2|0
+the issue|DT NN|BODY_2|0
+oc|FW|BODY_4|0
+overlaps|NNS|BODY_6|0
+the position|DT NN|BODY_6:BODY_1|0
+predicting and estimating cache interferences|VBG CC VBG NN NNS|BODY_3|0
+ku|FW|BODY_1:BODY_4|0
+external cross|JJ NN|BODY_18:BODY_3|0
+self-dependences|NNS|BODY_2|0
+the loop body|DT NN NN|BODY_13|0
+significant performance improvements|JJ NN NNS|BODY_5|0
+lds(k ) , u (k|NN -RRB- , NN NN|BODY_2|0
+each other|DT JJ|BODY_2|0
+the cache distance|DT NN NN|BODY_2|0
+avoids|NNS|BODY_15:BODY_7|0
+as|IN|BODY_11|0
+reference r|NN NN|BODY_19|0
+external cross-interference misses|JJ NN NNS|BODY_6|0
+this point|DT NN|BODY_2|0
+xy ( j|NN -LRB- NN|BODY_5|0
+large working sets|JJ VBG NNS|BODY_4|0
+global performance|JJ NN|BODY_5:BODY_3|0
+the role|DT NN|BODY_1|0
+execution|NN|BODY_7|0
+ii|NNS|BODY_5|0
+array a|NN DT|BODY_18|0
+a tractable task|DT JJ NN|BODY_8|0
+loop 3.6.1a|NN NN|BODY_1:BODY_2|0
+redundant evaluation|JJ NN|BODY_16:BODY_8|0
+the reasoning|DT NN|BODY_2|0
+the time|DT NN|BODY_13|0
+clarity|NN|BODY_6|0
+no capacity|DT NN|BODY_3|0
+one cache miss|CD NN NN|BODY_10|0
+the self-dependence ( n|DT NN -LRB- NN|BODY_6|0
+the reuse loop level l|DT NN NN NN NN|BODY_6|0
+this example|DT NN|BODY_2|0
+n \theta|NN NN|BODY_9|0
+this way|DT NN|BODY_2|0
+a loop nest|DT NN NN|BODY_3|0
+these two arrays|DT CD NNS|BODY_3|0
+suggestions|NNS|BODY_2|0
+n=1000,m=250 ).9111350 200 400 600 800 1000 1200 execution time|CD CD CD CD CD CD CD CD NN NN|BODY_3|0
+ffi decreases|JJ VBZ|BODY_2|0
+lda 0|NN CD|BODY_9|0
+reference z(j3|NN NNS|BODY_7|0
+the level|DT NN|BODY_4|0
+influence|NN|BODY_2|0
+( seconds|-LRB- NNS|BODY_5|0
+ping-pong|JJ|BODY_6|0
+remark oe|NN NN|BODY_13|0
+this layout|DT NN|BODY_6|0
+its cache position|PRP$ NN NN|BODY_5|0
+start|NN|BODY_12|0
+n intervals|NN NNS|BODY_5|0
+j 3 cache arrays|NN CD NN NNS|BODY_7|0
+counting|VBG|BODY_4|0
+most redundancies|JJS NNS|BODY_2|0
+the more data|DT JJR NNS|BODY_6|0
+the precision|DT NN|BODY_9|0
+a small share|DT JJ NN|BODY_6|0
+actual reuse|JJ NN|BODY_18|0
+one iteration|CD NN|BODY_4|0
+the relative position|DT JJ NN|BODY_8|0
+k\gamma1|NNS|BODY_5|0
+real codes|JJ NNS|BODY_4|0
+i ) and b( i )|NN -RRB- CC NN NN -RRB-|BODY_9|0
+only interferences|RB NNS|BODY_3|0
+i ) and lda(k )|FW -RRB- CC NN -RRB-|BODY_13|0
+the programmer|DT NN|BODY_6|0
+an initial regular 8 data lay-out|DT JJ JJ CD NN NN|BODY_5|0
+each iteration|DT NN|BODY_5:BODY_1|0
+an n|DT NN|BODY_5|0
+reference increases|NN NNS|BODY_14|0
+oe cache locations|NN NN NNS|BODY_9|0
+2b:execution time|CD NN|BODY_7|0
+the iterations|DT NNS|BODY_8|0
+most temporal interference misses|RBS JJ NN NNS|BODY_9|0
+no group|DT NN|BODY_3|0
+oe oe oe oe|NN NN NN NN|BODY_12|0
+each case|DT NN|BODY_5|0
+the relative cache position|DT JJ NN NN|BODY_7|0
+the shortest|DT JJS|BODY_15|0
+spatial interference misses|JJ NN NNS|BODY_1:BODY_9|0
+a reference r ( reuse|DT NN NN -LRB- NN|BODY_3|0
+the methodology|DT NN|BODY_3|0
+in-depth comprehension|JJ NN|BODY_3|0
+two loop levels corresponds|CD NN NNS NNS|BODY_2|0
+a recursive application|DT JJ NN|BODY_5|0
+layout|NN|BODY_3|0
+ns|NNS|BODY_3|0
+an even lower miss ratio|DT RB JJR NN NN|BODY_2|0
+n the innermost loop )|RB DT JJ NN -RRB-|BODY_5|0
+a slight reduction|DT JJ NN|BODY_6|0
+the whole execution|DT JJ NN|BODY_4|0
+the intersection and ais( r|DT NN CC NN NN|BODY_6|0
+a performance bottleneck|DT NN NN|BODY_3|0
+a threshold value|DT NN NN|BODY_19|0
+array x|NN NN|BODY_17|0
+a layout|DT NN|BODY_10|0
+a given type|DT VBN NN|BODY_8|0
+loop l )|NN NN -RRB-|BODY_4|0
+array z and m|NN FW CC NN|BODY_4|0
+dependence|NN|BODY_3:BODY_7|0
+these studies|DT NNS|BODY_2|0
+time considerations|NN NNS|BODY_4|0
+u 0|NN CD|BODY_8|0
+each value|DT NN|BODY_2|0
+y ( j 3|NN -LRB- NN CD|BODY_8|0
+the average distance oe|DT NN NN NN|BODY_21|0
+the cache line size|DT NN NN NN|BODY_5:BODY_4|0
+magnitude|NN|BODY_6|0
+translation|NN|BODY_8|0
+proposition 3.6|NN CD|BODY_4|0
+a relative distance|DT JJ NN|BODY_6|0
+l|NN|BODY_11|0
+definition 3.10|NN CD|BODY_9|0
+a 3-deep loop nest|DT JJ NN NN|BODY_3|0
+trs( r )|JJ NN -RRB-|BODY_5|0
+10000 20000 30000 40000 50000 average execution time|CD CD CD CD CD JJ NN NN|BODY_1|0
+application codes|NN NNS|BODY_4|0
+compulsory misses )|JJ NNS -RRB-|BODY_4|0
+occurrence and intensity|NN CC NN|ABSTRACT_4|0
+one )|CD -RRB-|BODY_4|0
+such a reuse|JJ DT NN|BODY_1|0
+temporal interferences|JJ NNS|BODY_1|0
+the general knowledge|DT JJ NN|ABSTRACT_1|0
+the workings|DT NNS|BODY_1|0
+time|NN|BODY_4|0
+the following reasons|DT VBG NNS|BODY_3|0
+the union|DT NN|BODY_3|0
+three loops|CD NNS|BODY_2|0
+the area|DT NN|BODY_4|0
+this set|DT NN|BODY_3|0
+ii oe oe|NNS NN NN|BODY_10|0
+r 0|NN CD|BODY_9|0
+one order|CD NN|BODY_5|0
+the amount|DT NN|BODY_2|0
+an area|DT NN|BODY_5|0
+0 oe 0 #miss table 3.5|CD NN CD NNP NN CD|BODY_5|0
+particularly numerical codes|RB JJ NNS|ABSTRACT_4|0
+the effect|DT NN|BODY_11|0
+unveiling potential issues|JJ JJ NNS|BODY_6|0
+sections|NNS|BODY_4|0
+the final layout|DT JJ NN|BODY_14|0
+cold-start misses|NN NNS|BODY_4|0
+we|PRP|BODY_6|0
+min(ku+ffi;2\thetaku) ls|CD NNS|BODY_5|0
+cumulate and derive cache misses|JJ CC JJ NN NNS|BODY_24|0
+[6 , 7]|CD , CD|BODY_3|0
+one parameter ffi|CD NN NN|BODY_2|0
+all cache lines|DT NN NNS|BODY_6|0
+an interference set|DT NN NN|BODY_3|0
+a reuse set|DT NN VBD|BODY_6:BODY_8|0
+z 0|FW CD|BODY_2|0
+( 0|-LRB- CD|BODY_4|0
+of|IN|BODY_2|0
+z( j 3|NN NN CD|BODY_2|0
+loop 3.6.2a|JJ NN|BODY_2|0
+a given datum|DT VBN NN|BODY_2|0
+section 3.6.2|NN CD|BODY_3|0
+the error|DT NN|BODY_5|0
+the value|DT NN|BODY_11|0
+z( j 3 3.6.1 internal cross-interferences|NN NN CD CD JJ NNS|BODY_8|0
+no internal cross-interference|DT JJ NN|BODY_10|0
+cache interference misses|NN NN NNS|BODY_4|0
+our primary goal|PRP$ JJ NN|BODY_2|0
+several approximations|JJ NNS|BODY_3|0
+a self-dependence|DT NN|BODY_3|0
+cache locations|NN NNS|BODY_18|0
+3.8.2|CD|BODY_1|0
+[15]|NN|BODY_1|0
+[17]|NN|BODY_3|0
+all data|DT NNS|BODY_3|0
+capacity|NN|BODY_1|0
+drive data copying strategies|VB NNS NN NNS|BODY_3|0
+gen-|NNS|BODY_1|0
+mod oe k\gamma1|JJ NN NNS|BODY_3|0
+the following example|DT VBG NN|BODY_3|0
+the most frequently found dependences|DT RBS RB VBN NNS|BODY_1|0
+the next sections|DT JJ NNS|BODY_1|0
+the oe k values|DT NN NN NNS|BODY_1|0
+the pointed location|DT JJ NN|BODY_1|0
+this method|DT NN|BODY_3|0
+this task tractable|DT NN NN|BODY_3|0
+two arrays|CD NNS|BODY_3|0
+n cache lines|NN NN NNS|BODY_7|0
+its interference set|PRP$ NN VBN|BODY_6|0
+all memory accesses|DT NN NNS|BODY_7|0
+phenomena|NNS|BODY_5|0
+each time|DT NN|BODY_11|0
+the proposition example|DT NN NN|BODY_13|0
+respect|NN|BODY_10|0
+multiple applications|JJ NNS|BODY_6|0
+account|NN|BODY_3|0
+optimizing codes|JJ NNS|BODY_4|0
+all types|DT NNS|BODY_2|0
+( ku \gammaffi) ls|-LRB- FW FW NNS|BODY_7|0
+esti- mate|DT NN|BODY_5|0
+the most likely|DT RBS JJ|BODY_10|0
+each reference r 4|DT NN NN CD|BODY_25|0
+4 \theta f|CD NN NN|BODY_6|0
+most cases|JJS NNS|BODY_23|0
+the reference|DT NN|BODY_6|0
+ku )|FW -RRB-|BODY_6:BODY_12|0
+the exact same number|DT JJ JJ NN|BODY_4|0
+the approximate evaluation|DT JJ NN|BODY_1:BODY_4|0
+the first element|DT JJ NN|BODY_13|0
+further increases|JJ NNS|BODY_3|0
+a collection|DT NN|BODY_14|0
+ju ls|NN NNS|BODY_3|0
+2 and corresponds|CD CC NNS|BODY_3|0
+the interference set )|DT NN NN -RRB-|BODY_4|0
+the above proposition|DT JJ NN|BODY_3|0
+one single interval )|CD JJ NN -RRB-|BODY_16|0
+n 2 elements|RB CD NNS|BODY_10|0
+3.4.1 actual interference|CD JJ NN|BODY_1|0
+self-dependence temporal reuse|NN JJ NN|BODY_5|0
+3.2 to 3.6|CD TO CD|BODY_5|0
+the probability|DT NN|BODY_3|0
+a total number|DT JJ NN|BODY_7|0
+a single reference|DT JJ NN|BODY_2|0
+conflicts|NNS|BODY_9|0
+z( j|NN NN|BODY_3|0
+a theoretical interference set map|DT JJ NN VBN NN|BODY_4|0
+8|CD|BODY_14|0
+the following|DT VBG|BODY_5|0
+3.2 reuse|CD NN|BODY_2|0
+a surprising consequence|DT JJ NN|BODY_1|0
+9 note|CD NN|BODY_10|0
+all areas|DT NNS|BODY_9|0
+all other references|DT JJ NNS|BODY_4|0
+two intervals|CD NNS|BODY_6|0
+loops observation 3.1|NNS NN CD|BODY_12|0
+cache performance evaluation and optimization cache interferences|NN NN NN CC NN NN NNS|BODY_4|0
+victim|NN|BODY_11|0
+ju|NN|BODY_6:BODY_2|0
+an accurate or approximate evaluation|DT JJ CC JJ NN|BODY_3|0
+figure 3.6.1|NN CD|BODY_1|0
+sweep|NN|BODY_4|0
+reference y ( j3|NN NN -LRB- CD|BODY_1:BODY_2|0
+ffi cache lines|JJ VBD NNS|BODY_8|0
+the in- terference  sets|DT JJ NN NN NNS|BODY_3|0
+a redundant impact|DT JJ NN|BODY_12|0
+the intersection (|DT NN -LRB-|BODY_9|0
+two data|CD NNS|BODY_2|0
+14|CD|BODY_1|0
+second|JJ|BODY_1|0
+both sets|DT NNS|BODY_4|0
+size corresponding|NN JJ|BODY_2|0
+ku iterations|FW NNS|BODY_9|0
+the different types|DT JJ NNS|ABSTRACT_2|0
+arrays f|NNS NN|BODY_2|0
+location|NN|BODY_3|0
+this line|DT NN|BODY_6|0
+few studies|JJ NNS|BODY_2|0
+applications|NNS|ABSTRACT_1|0
+data locality optimizations techniques|NNS NN NNS NNS|ABSTRACT_5|0
+di- mensions|RB NNS|BODY_5|0
+m|NN|BODY_5|0
+table 3.5 shows|NN CD VBZ|BODY_1|0
+this position|DT NN|BODY_1|0
+ktis( r)k and kais( r)k|NN NN CC NN NN|BODY_3|0
+both ldb( k ) and overlap|DT JJ NN -RRB- CC NN|BODY_2|0
+average distance|NN NN|BODY_18|0
+i ) overlaps|FW -RRB- NNS|BODY_7|0
+any type|DT NN|BODY_2|0
+self-dependence reuse|NN NN|BODY_18|0
+all values|DT NNS|BODY_2|0
+30 % and more|CD NN CC JJR|ABSTRACT_3|0
+4 \theta ku|CD NN FW|BODY_12|0
+all experiments|DT NNS|BODY_1|0
+euclide algorithm [10]|NN NN NN|BODY_18|0
+proposition 3.2|NN CD|BODY_1|0
+section 3.7|NN CD|BODY_1|0
+that array|DT NN|BODY_8|0
+elements victim|NNS NN|BODY_4|0
+4 cache lines|CD NN NNS|BODY_3|0
+8 \gamma n cache lines|CD NN NN NN NNS|BODY_11|0
+previous sections|JJ NNS|BODY_4|0
+several case-studies|JJ NNS|BODY_4|0
+each array lda;ldb;lds|DT NN NNS|BODY_4|0
+each cache line|DT NN NN|BODY_7|0
+performance evaluation and prediction purposes|NN NN CC NN NNS|BODY_6|0
+the dependence|DT NN|BODY_2|0
+average size|NN NN|BODY_16|0
+the corresponding number|DT JJ NN|BODY_8|0
+j 2|NN CD|BODY_4|0
+the cache lines|DT NN NNS|BODY_3|0
+sections 3 and 4 )|NNS CD CC CD -RRB-|BODY_4|0
+j 3 oe(ars( y|NN CD JJ NN|BODY_4|0
+a perfect club benchmark [1]|DT JJ NN NN NNP|BODY_6|0
+i ) and u (k|NN -RRB- CC IN NN|BODY_8|0
+1]|PRP|BODY_4|0
+the two data sets intersect|DT CD NNS NNS NN|BODY_6|0
+any loop data layout|DT NN NNS NN|BODY_14|0
+the spatial reuse|DT JJ NN|BODY_2|0
+the theoretical reuse set|DT JJ NN NN|BODY_3|0
+section 3.6.1|NN CD|BODY_11|0
+j 1|NN CD|BODY_5|0
+7 seconds|CD NNS|BODY_5|0
+each|DT|BODY_1|0
+the most frequent type|DT RBS JJ NN|BODY_7|0
+opposition|NN|BODY_1|0
+min(ku+2ffi;2\thetaku) ls|CD NNS|BODY_10|0
+the disruption|DT NN|BODY_5|0
+( 0 g|-LRB- CD NN|BODY_4:BODY_7|0
+the analytical expression|DT JJ NN|BODY_1|0
+1 0:125|CD CD|BODY_4|0
+the following technique|DT VBG NN|BODY_5|0
+set|NN|BODY_2|0
+array  lines|NN NN NNS|BODY_5|0
+one element|CD NN|BODY_6|0
+sections 3.5 , 3.6.1 , 3.6.2 , 3.7 ) , show frequent and significant performance losses|NNS CD , CD , CD , CD -RRB- , NN JJ CC JJ NN NNS|BODY_3|0
+the elements|DT NNS|BODY_4|0
+the notion|DT NN|BODY_3|0
+both references|DT NNS|BODY_2|0
+section 3.5|NN CD|BODY_10|0
+practice|NN|BODY_1|0
+this inequation|DT NN|BODY_2|0
+the same loop|DT JJ NN|BODY_6|0
+certain parameters|JJ NNS|ABSTRACT_1|0
+4 figure 2c|CD NN JJ|BODY_1|0
+grant|NN|BODY_3|0
+size oe 0|NN NN CD|BODY_6|0
+this interval|DT NN|BODY_1|0
+the recursion process|DT NN NN|BODY_1|0
+the self-dependence|DT NN|BODY_5:BODY_3|0
+3 \theta ku|CD NN FW|BODY_12|0
+the actual interference set size|DT JJ NN VBN NN|BODY_1:BODY_8|0
+2\theta(ku \gammaffi) ls|CD NN NNS|BODY_12|0
+the match|DT NN|BODY_1|0
+this|DT|BODY_1|0
+corresponding|JJ|BODY_2|0
+ju \thetaku|NN NNP|BODY_7|0
+this paragraph|DT NN|BODY_4|0
+. ffl redundancies|. NN NNS|BODY_20|0
+the external cross|DT JJ NN|BODY_10|0
+two data sets intersect|CD NNS NNS NN|BODY_3|0
+performance variations|NN NNS|BODY_1|0
+r4000 [5] )|CD NN -RRB-|BODY_8|0
+m \theta m matrices|NN VBD NN NNS|BODY_18|0
+external cross-interferences cache|JJ NNS NN|BODY_9|0
+the external cross-interferences|DT JJ NNS|BODY_20|0
+any reference|DT NN|BODY_5|0
+this observation|DT NN|BODY_1|0
+let oe|VB NN|BODY_1|0
+14 5 conclusions|CD CD NNS|BODY_1|0
+j+2 )|CD -RRB-|BODY_9|0
+a cache size|DT NN NN|BODY_1|0
+again a cache size|RB DT NN NN|BODY_1|0
+the two innermost loops )|DT CD JJ NNS -RRB-|BODY_8|0
+the evaluation process|DT NN NN|BODY_3|0
+lds(k ) , f (k|NN -RRB- , NN NN|BODY_16:BODY_23|0
+8]|NN|BODY_7|0
+a first version|DT JJ NN|BODY_1|0
+compilers|NNS|BODY_1|0
+a second application|DT JJ NN|BODY_1|0
+the example|DT NN|BODY_1:BODY_4|0
+several sets|JJ NNS|BODY_3|0
+simulations and experiments|NNS CC NNS|ABSTRACT_1|0
+ratio variations|NN NNS|BODY_4|0
+2a ( i=ju-1|DT -LRB- NN|BODY_1|0
+3.5b:execution time|CD NN|BODY_5|0
+x(j2 ) enddo enddo loop 3.6.2a|NN -RRB- NN NN JJ NN|BODY_9|0
+ls cache misses|NNS NN NNS|BODY_6|0
+interference/reuse sets|NN NNS|BODY_16|0
+accuracy and complexity|NN CC NN|BODY_6|0
+large cache line|JJ NN NN|BODY_1|0
+the third goal|DT JJ NN|BODY_1|0
+the present paper|DT JJ NN|BODY_1|0
+this assumption|DT NN|BODY_1|0
+the proposition|DT NN|BODY_1|0
+observation 3.2|NN CD|BODY_1|0
+r.|NNP|BODY_6|0
+loop j 2|NN NN CD|BODY_9|0
+9 , 16]|CD , CD|BODY_4|0
+j 2 )|NN CD -RRB-|BODY_8|0
+the memory hierarchy behavior|DT NN NN NN|BODY_6|0
+n array lines|NN NN NNS|BODY_9|0
+n ls array lines|NN NNS NN NNS|BODY_2|0
+) ;lds(k )|-RRB- NN -RRB-|BODY_15|0
+curs|NNS|BODY_8|0
+figure 2b|NN CD|BODY_11|0
+four intervals|CD NNS|BODY_2|0
+the technique|DT NN|BODY_1|0
+cache line size|NN NN NN|BODY_6|0
+3.4|CD|BODY_1|0
+[16] )|NNP -RRB-|BODY_9|0
+b oe|NN NN|BODY_1|0
+a loop body|DT NN NN|BODY_4|0
+in- stance|JJ NN|BODY_1|0
+this translation group|DT NN NN|BODY_6|0
+a boolean way|DT JJ NN|BODY_4|0
++1000|CD|BODY_5|0
+only one such area|RB CD JJ NN|BODY_2|0
+several reasons press|JJ NNS NN|BODY_1|0
+5 note|CD NN|BODY_1|0
+these notions|DT NNS|BODY_1|0
+definition 3.3|NN CD|BODY_1|0
+definition 3.7|NN CD|BODY_1|0
+[3]|NNS|BODY_1|0
+apparc 6634 bra iii.capacity|JJ CD NN NN|BODY_1|0
+the main difference|DT JJ NN|BODY_1|0
+a given reference|DT VBN NN|BODY_6|0
+xa|NNP|BODY_6|0
+a uniform distribution|DT JJ NN|BODY_9|0
+these elements|DT NNS|BODY_1|0
+each area|DT NN|BODY_1|0
+s.|PRP|BODY_1|0
+this notion|DT NN|BODY_1|0
+definition 3.6|NN CD|BODY_1|0
+the goal|DT NN|BODY_1|0
+the other outcome|DT JJ NN|BODY_1|0
+the two references|DT CD NNS|BODY_12|0
+2 elements )|CD NNS -RRB-|BODY_25|0
+2 notion|CD NN|BODY_1|0
+most elements|JJS NNS|BODY_1|0
+3.1.1 reuse|CD NN|BODY_1|0
+characteristics|NNS|BODY_1|0
+the whole paper|DT JJ NN|BODY_1|0
+an infinite cache size|DT JJ NN NN|BODY_10|0
+definition 3.2|NN CD|BODY_1|0
+3.9.1 global algorithm|CD JJ NN|BODY_1|0
+parameter lat|NN NN|BODY_4|0
+such an implementation|PDT DT NN|BODY_1|0
+respectively 0 or 4|RB CD CC CD|BODY_3|0
+the reference sequence|DT NN NN|BODY_1|0
+an analytical method|DT JJ NN|ABSTRACT_1|0
+such caches|JJ NNS|BODY_1|0
+section 4 synthesizes|NN CD NNS|BODY_1|0
+3.4.2 actual reuse|CD JJ NN|BODY_1|0
+ping-pong )|JJ -RRB-|BODY_5|0
+all references ldb(k )|DT NNS NN -RRB-|BODY_1|0
+both arrays|DT NNS|BODY_2|0
+3.1 basic concepts|CD JJ NNS|BODY_1|0
+references most memory accesses|NNS RBS NN NNS|BODY_1|0
+in cache|IN NN|BODY_2|0
+its own data ) and group-dependence reuse|PRP$ JJ NNS -RRB- CC NN NN|BODY_5|0
+section 3 )|NN CD -RRB-|BODY_6|0
+a first application|DT JJ NN|BODY_1|0
+an hp/pa-risc workstation|DT JJ NN|BODY_12|0
+each other translation group|DT JJ NN NN|BODY_21|0
+these statistics|DT NNS|BODY_3|0
+these intersections|DT NNS|BODY_1|0
+this phenomenon|DT NN|BODY_1|0
+k|NN|BODY_9|0
+the second goal|DT JJ NN|BODY_1|0
+c|NN|BODY_1|0
+seconds ) figure 3.7b:execution time|NNS -RRB- NN NN NN|BODY_3|0
+most interference phenomena|JJS NN NNS|ABSTRACT_4|0
+approximation|NN|BODY_1|0
+proposition 3.5|NN CD|BODY_1|0
+3.3 interference|CD NN|BODY_1|0
+n=100 )|CD -RRB-|BODY_2|0
+self-dependence reuse )|NN NN -RRB-|BODY_11|0
+function|NN|BODY_1|0
+locality exploitation|NN NN|BODY_9|0
+optimal block sizes|NN NN NNS|BODY_5|0
+3 )|CD -RRB-|BODY_6|0
+this definition|DT NN|BODY_1|0
+that element|DT NN|BODY_7|0
+figure 3.5b|NN CD|BODY_1|0
+interference ( or conflict )|NN -LRB- CC NN -RRB-|BODY_7|0
+precision|NN|BODY_6|0
+the remaining r areas|DT VBG NN NNS|BODY_7|0
+loop 3.7a|JJ NN|BODY_2|0
+values|NNS|BODY_7|0
+.|.|BODY_3:BODY_9|0
+. oe|. NN|BODY_11|0
+cache array y oe|NN NN NN NN|BODY_1|0
+cache arrays|NN NNS|BODY_1|0
+cache arrays oe|NN NNS NN|BODY_1|0
+these sets|DT NNS|BODY_6|0
+its reuse set|PRP$ NN NN|BODY_1|0
+oe cations|NN NNS|BODY_10|0
+a reference r 0|DT NN NN CD|BODY_6|0
+xb|NN|BODY_6|0
+u 1 )|NN CD -RRB-|BODY_9|0
+this loop level|DT NN NN|BODY_1|0
+most important|RBS JJ|BODY_1|0
+all these subcases|DT DT NNS|BODY_3|0
+consider loop|VB NN|BODY_1|0
+mapping conflicts|NN NNS|BODY_8|0
+recursion stops|NN VBZ|BODY_6|0
+the hypotheses|DT NNS|BODY_5|0
+the memory hierarchy )|DT NN NN -RRB-|ABSTRACT_6|0
+the smallest dependence distance|DT JJS NN NN|BODY_4|0
+figure 2c )|NN JJ -RRB-|BODY_9|0
+element 1 )|NN CD -RRB-|BODY_1|0
+8 i .e|CD NN NN|BODY_1|0
+any two consecutive intervals|DT CD JJ NNS|BODY_3|0
+the different arrays 12|DT JJ NNS CD|BODY_4|0
+enddo enddo arrays|VB VB NNS|BODY_1|0
+a more formal definition|DT RBR JJ NN|BODY_1|0
+definition 3.9|NN CD|BODY_1|0
+the same way|DT JJ NN|BODY_6|0
+3 times|CD NNS|BODY_6|0
+definition 3.4 ktrs( r)k|NN CD NN NN|BODY_1|0
+definition 3.5 kars( r)k|NN CD NN NN|BODY_1|0
+definition 3.11 two references r and r 0|NN CD CD NNS NN CC NN CD|BODY_1|0
+the whole cache|DT JJ NN|BODY_11|0
+a direct-mapped cache|DT JJ NN|BODY_1|0
+3.8|CD|BODY_1|0
+figure 3.7c )|NN JJ -RRB-|BODY_8|0
+enddo enddo|VB VB|BODY_1|0
+only the arrays base address|RB DT NNS NN NN|BODY_6|0
+such redundancy|JJ NN|BODY_1|0
+a theoretical study|DT JJ NN|BODY_8|0
+r 2|NN CD|BODY_6|0
+cache behavior|NN NN|BODY_1|0
+ku ls consecutive cache lines|FW NNS JJ NN NNS|BODY_7|0
+13|CD|BODY_8|0
+6 floor and ceiling functions|CD NN CC NN NNS|BODY_1|0
+[13] )|NNP -RRB-|BODY_5|0
+other experiments|JJ NNS|BODY_1|0
+[14]|NN|BODY_4|0
+an apparently random  manner|DT RB JJ JJ NN|BODY_8|0
+detect|VB|BODY_1|0
+importance|NN|BODY_1|0
+program performance unpredictable|NN NN JJ|BODY_4|0
+the fact|DT NN|BODY_1|0
+this reuse  loop|DT NN NN NN|BODY_1|0
+m (|NN -LRB-|BODY_1|0
+proposition 3.3|NN CD|BODY_1|0
+proposition 3.4|NN CD|BODY_1|0
+multiple loop levels|JJ NN NNS|BODY_8|0
+dis|NNS|BODY_4|0
+several types|JJ NNS|BODY_1|0
+spatial and temporal reuse|JJ CC JJ NN|BODY_3|0
+the first time|DT JJ NN|BODY_7|0
+the third loop|DT JJ NN|BODY_5|0
+no element|DT NN|BODY_1|0
+fully-associative caches|JJ NNS|BODY_1|0
+3.7 extension|CD NN|BODY_1|0
+the extensions|DT NNS|BODY_1|0
+temporal reuse|JJ NN|BODY_3|0
+3.6 cross-interferences|CD NNS|BODY_1|0
+both|DT|BODY_1|0
+definition 3.8|NN CD|BODY_1|0
+ku \gamma1 elements|FW CD NNS|BODY_1|0
+some cache locations|DT NN NNS|BODY_1|0
+10|CD|BODY_1|0
+3.6.2 external cross-interferences|CD JJ NNS|BODY_1|0
+3.8.1 cumulating interference|CD JJ NN|BODY_1|0
+theoretical reuse set and actual reuse|JJ NN VBN CC JJ NN|BODY_2|0
+tis( r )|JJ NN -RRB-|BODY_5|0
+figure 3.5c:layout|NN NN|BODY_1|0
+figure 3.6.1c:layout|NN NN|BODY_1|0
+figure 3.6.2c:layout|NN NN|BODY_1|0
+figure 3.7c:layout|NN NN|BODY_1|0
+introduction three types|NN CD NNS|BODY_1|0
+j+1 )|CD -RRB-|BODY_7|0
+figure 3.5|NN CD|BODY_1|0
+6|CD|BODY_1|0
+the updated actual reuse sets|DT VBN JJ NN NNS|BODY_30|0
+array y|NN NN|BODY_5|0
+cross|NN|BODY_14|0
+frequency|NN|BODY_1|0
+irregularity|NN|BODY_1|0
+some interferences|DT NNS|BODY_8|0
+self-dependence reuse disruption|NN NN NN|BODY_3|0
+f 0|NN CD|BODY_5|0
+redundant )|JJ -RRB-|BODY_16|0
+array|NN|BODY_1|0
+cache interference phenomena|NN NN NNS|TITLE_1|0

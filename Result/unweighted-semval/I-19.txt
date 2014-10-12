@@ -1,0 +1,199 @@
+we|PRP|BODY_6:BODY_5:BODY_13:ABSTRACT_2:BODY_2:BODY_1:ABSTRACT_3:BODY_3:ABSTRACT_1|3
+the case|DT NN|BODY_5:ABSTRACT_5:ABSTRACT_2:BODY_2:BODY_3|0
+which|WDT|BODY_5:BODY_4:BODY_10:BODY_7:ABSTRACT_9|2
+auctions|NNS|BODY_6:BODY_5:ABSTRACT_3:BODY_4:BODY_7|1
+it|PRP|BODY_6:BODY_12:BODY_1:BODY_2:BODY_3|0
+that|IN|BODY_12:BODY_5:BODY_18:BODY_2|1
+symmetric mixed equilibrium strategies|JJ JJ NN NNS|BODY_2|0
+the highest bidder wins|DT JJS NN NNS|BODY_6|0
+the same value (|DT JJ NN -LRB-|BODY_7|0
+the husband and wife|DT NN CC NN|BODY_5|0
+m simultaneous vickrey auctions|NN JJ NN NNS|BODY_4|0
+analytical and simulation results|JJ CC JJ NNS|ABSTRACT_2|0
+the optimal bidding behaviour|DT JJ NN NN|BODY_5|0
+multiple , concurrent (|JJ , JJ -LRB-|BODY_8|1
+a global bidding agent|DT JJ NN NN|ABSTRACT_3|0
+simultaneous ) second-price auctions|JJ -RRB- JJ NNS|BODY_10|1
+a single global bidder|DT JJ JJ NN|BODY_4|0
+a single second-price auction|DT JJ JJ NN|BODY_6|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+economics general terms economics|NNS JJ NNS NNS|ABSTRACT_5|0
+second-price sealed bid auctions|JJ JJ NN NNS|BODY_4|0
+provably optimal bidding strategies|RB JJ NN NNS|BODY_6|0
+the optimal bidding strategy|DT JJ NN NN|BODY_6|0
+the auctions|DT NNS|BODY_2:BODY_4:BODY_7:BODY_9|0
+two geographically distributed auctions|CD RB VBN NNS|BODY_7|0
+2. related work research|DT JJ NN NN|BODY_1|0
+many multi-agent system settings|JJ JJ NN NNS|BODY_9|0
+a symmetric nash equilibrium|DT JJ NN NN|BODY_7|0
+a market|DT NN|BODY_2:BODY_3|0
+.e|NN|BODY_5:BODY_2:BODY_3:BODY_9|1
+a global bidder|DT JJ NN|BODY_11:BODY_14:ABSTRACT_10|1
+all the auctions|DT DT NNS|BODY_17:BODY_2:BODY_9|0
+the global bidder|DT JJ NN|BODY_5:ABSTRACT_4:BODY_8|0
+simultaneous auctions|JJ NNS|BODY_6:BODY_3:BODY_4|0
+they|PRP|BODY_6:BODY_1:BODY_3|0
+a bidder|DT NN|BODY_4:BODY_9|0
+there|EX|BODY_5:BODY_2:BODY_3|0
+the other bidders|DT JJ NNS|BODY_4:BODY_8|0
+the local bidders|DT JJ NNS|ABSTRACT_7:BODY_9|0
+this special case|DT JJ NN|BODY_3|0
+the auction format|DT NN NN|BODY_2|0
+a vickrey auction|DT NN NN|BODY_5|0
+optimal bidding strategies|JJ NN NNS|ABSTRACT_2:BODY_4|1
+more complex settings|RBR JJ NNS|BODY_3|0
+no additional costs|DT JJ NNS|BODY_6|0
+the best response|DT JJS NN|BODY_6|0
+an arduous task|DT JJ NN|BODY_22|0
+the concurrent auctions|DT JJ NNS|BODY_3|0
+the existing literature|DT VBG NN|BODY_2|0
+m vickrey auctions|NN NN NNS|BODY_6|0
+the optimal strategy|DT JJ NN|BODY_7|0
+the optimal bids|DT JJ NNS|ABSTRACT_4|0
+section 2 discusses|NN CD NNS|BODY_1|0
+the individual items|DT JJ NNS|BODY_12|0
+the true value|DT JJ NN|BODY_8|0
+two global bidders|CD JJ NNS|BODY_5|0
+concurrent second-price auctions|JJ JJ NNS|TITLE_2|0
+a bidder |DT NN|BODY_6:BODY_4:BODY_7|0
+equal or lower|JJ CC JJR|BODY_10|0
+a discrete simulation|DT JJ NN|BODY_5|0
+briefly address markets|NN NN NNS|BODY_2|0
+no additional benefit|DT JJ NN|BODY_10|0
+a single auction|DT JJ NN|ABSTRACT_4:BODY_10|0
+the optimal bid|DT JJ VB|BODY_20|0
+only global bidders|JJ JJ NNS|BODY_4|0
+an increasing number|DT VBG NN|BODY_4|0
+an agent-based setting|DT JJ NN|BODY_3|0
+the desired item|DT VBN NN|BODY_19|0
+the starting points|DT VBG NNS|BODY_5|0
+all available auctions|DT JJ NNS|ABSTRACT_6|0
+the global bidders|DT JJ NNS|BODY_3|0
+several global bidders|JJ JJ NNS|ABSTRACT_6|0
+engelbrecht-wiggans and weber|NNS CC NN|BODY_3|0
+the equilibrium strategy|DT NN NN|BODY_6|0
+the gametheoretic analysis|DT JJ NN|BODY_6|0
+an important determinant|DT JJ NN|ABSTRACT_7|1
+a stable solution|DT JJ NN|BODY_5|0
+the seminal paper|DT JJ NN|BODY_2|0
+all other bidders|DT JJ NNS|ABSTRACT_3|0
+the overall market|DT JJ NN|ABSTRACT_3|1
+its true value|PRP$ JJ NN|BODY_9|0
+the former approach|DT JJ NN|BODY_2|0
+the best strategy|DT JJS NN|BODY_10|0
+the special case|DT JJ NN|BODY_3|0
+a wide number|DT JJ NN|BODY_5|0
+the following results|DT JJ NNS|BODY_3|0
+multiple global bidders|JJ JJ NNS|BODY_3|0
+free disposal (|JJ NN -LRB-|BODY_2|0
+this search space|DT NN NN|BODY_3|0
+a single bidder|DT JJ NN|BODY_4|0
+only one item|RB CD NN|BODY_15|0
+the first time|DT JJ NN|BODY_3|0
+multiple concurrent auctions|JJ JJ NNS|BODY_5|0
+a wider context|DT JJR NN|BODY_3|0
+again our result|RB PRP$ NN|BODY_4|0
+concurrent english auctions|JJ JJ NNS|BODY_3|0
+the expected utility|DT VBN NN|BODY_16|0
+simultaneous auctions )|JJ NNS -RRB-|BODY_15|0
+the second-highest price|DT NN NN|BODY_7|0
+the other hand|DT JJ NN|BODY_1|0
+all possible combinations|DT JJ NNS|BODY_23|0
+risk neutral bidders|NN JJ NNS|BODY_8|0
+a pure strategy|DT JJ NN|BODY_7|0
+the recent surge|DT JJ NN|BODY_1|0
+bidder valuation distribution|NN NN NN|BODY_10|0
+a poisson distribution|DT NN NN|ABSTRACT_6|0
+perfectly substitutable goods|RB JJ NNS|TITLE_3|0
+first-price auctions )|JJ NNS -RRB-|BODY_7|0
+other bidders )|JJ NNS -RRB-|BODY_9|0
+the single-auction case|DT NN NN|BODY_1|0
+all other auctions|DT JJ NNS|BODY_11|0
+the one hand|DT CD NN|BODY_1|0
+different risk attitudes|JJ NN NNS|BODY_8|0
+two broad lines|CD JJ NNS|BODY_4|0
+their work analyses|PRP$ NN NNS|BODY_1|0
+such substitutable items1|JJ JJ NN|BODY_7|0
+non-decreasing valuation distributions|JJ NN NNS|ABSTRACT_1|0
+the market efficiency|DT NN NN|BODY_6|0
+the m auctions|DT NN NNS|BODY_1|0
+the number|DT NN|ABSTRACT_5:ABSTRACT_3:BODY_4|1
+section 7 concludes|NN CD VBZ|BODY_1|0
+markets|NNS|ABSTRACT_2:BODY_2:BODY_4|0
+the value|DT NN|BODY_8|0
+most|JJS|BODY_6:BODY_3|0
+any number|DT NN|BODY_6:BODY_7|0
+concurrent auctions|JJ NNS|BODY_6:BODY_4|0
+the bids|DT NNS|BODY_2:BODY_8|1
+multiple auctions|JJ NNS|BODY_1:BODY_3|0
+buyers|NNS|BODY_5:BODY_7:BODY_8|0
+the problem|DT NN|BODY_2:ABSTRACT_3|0
+i .e|FW FW|BODY_3|0
+[7 ]|RB SYM|BODY_2|0
+our focus|PRP$ NN|BODY_2|0
+several advantages|JJ NNS|BODY_2|0
+multiagent systems|JJ NNS|ABSTRACT_3|0
+local bidders|JJ NNS|ABSTRACT_6:ABSTRACT_4|1
+this case|DT NN|BODY_1:ABSTRACT_1|0
+the market|DT NN|BODY_1:ABSTRACT_7|0
+goods|NNS|BODY_11:BODY_9|1
+this paper|DT NN|BODY_1:BODY_2:BODY_7|2
+artificial intelligence]|JJ NN|ABSTRACT_2|0
+section 2|NN CD|BODY_13|0
+no computation|DT NN|BODY_9|0
+related research|VBN NN|BODY_14|0
+the valuation|DT NN|BODY_10|0
+these|DT|BODY_2:BODY_4|0
+each auction|DT NN|BODY_21|0
+unwanted ones|JJ NNS|BODY_7|0
+bid space|NN NN|BODY_2|0
+one item|CD NN|BODY_2|0
+heuristic strategies|JJ NNS|BODY_2|0
+one|CD|BODY_4:BODY_8|0
+the sum|DT NN|BODY_11|0
+perfect substitutes|JJ NNS|BODY_6:ABSTRACT_6:BODY_13|1
+these items|DT NNS|BODY_3|0
+participates|NNS|ABSTRACT_4:BODY_7|1
+substitutable goods|JJ NNS|BODY_4:BODY_9|0
+any type|DT NN|BODY_9|0
+the dynamics|DT NNS|BODY_5|0
+m sellers|NN NNS|BODY_3|0
+the paper|DT NN|BODY_2|0
+the remainder|DT NN|BODY_1|0
+this analysis|DT NN|BODY_2:ABSTRACT_1|0
+rational agents|JJ NNS|BODY_7|0
+online auctions|JJ NNS|BODY_3|0
+the model|DT NN|BODY_2|0
+autonomous agents|JJ NNS|BODY_11:BODY_4|0
+this approach|DT NN|BODY_5|0
+this number|DT NN|ABSTRACT_5|0
+english auctions|JJ NNS|BODY_3|0
+two bids|CD NNS|BODY_4|0
+the scenario|DT NN|BODY_3|0
+three sellers|CD NNS|BODY_4|0
+the area|DT NN|BODY_2|0
+analytical results|JJ NNS|BODY_4|0
+distributed auctions|VBN NNS|BODY_10|0
+one auction|CD NN|BODY_5|0
+such auctions|JJ NNS|BODY_8|0
+the bidding|DT NN|BODY_4|0
+each bidder|DT NN|BODY_6|0
+multiple items|JJ NNS|BODY_5|0
+the seller |DT NN|BODY_3|0
+common values|JJ NNS|BODY_4|0
+these works|DT NNS|BODY_2|0
+the sellers|DT NNS|BODY_4|0
+a winner|DT NN|BODY_4|0
+sequential auctions|JJ NNS|BODY_4|0
+different types|JJ NNS|BODY_5|0
+complete substitutes|JJ NNS|BODY_4|0
+complementary goods|JJ NNS|BODY_5:BODY_7|0
+a bid|DT NN|BODY_5|0
+this format|DT NN|BODY_1|0
+distributed markets|VBN NNS|BODY_7|0
+vickrey|NN|BODY_3|0
+an agent|DT NN|BODY_6|1
+a model|DT NN|ABSTRACT_2|0
+ strategy|WDT NN|BODY_4|0
+best strategy|JJS NN|BODY_8|0
+that information|DT NN|ABSTRACT_4|1

@@ -1,0 +1,1146 @@
+lp|NN|BODY_12:BODY_22:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_30:BODY_8|4
+it|PRP|BODY_11:BODY_16:BODY_13:BODY_23:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|5
+language specifications|NN NNS|TITLE_2:BODY_2|0
+lsl|NN|BODY_6:BODY_16:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_29:BODY_9|0
+the lsl checker )|DT NN NN -RRB-|ABSTRACT_4:BODY_4|0
+its design and development|PRP$ NN CC NN|BODY_1:ABSTRACT_1|0
+they|PRP|BODY_6:BODY_5:BODY_16:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_8:BODY_9|0
+a specification|DT NN|BODY_6:BODY_5:ABSTRACT_4:BODY_13:BODY_2:BODY_4:ABSTRACT_7:BODY_7:BODY_8|0
+lp proof obligations|NN NN NNS|BODY_5:ABSTRACT_5|0
+larch interface specifications|NN NN NNS|ABSTRACT_4:BODY_4|0
+a second tool|DT JJ NN|ABSTRACT_2:BODY_2|0
+an extended example|DT JJ NN|BODY_2:ABSTRACT_1|0
+these proof obligations|DT NN NNS|BODY_11:BODY_1:ABSTRACT_1|0
+these other uses|DT JJ NNS|BODY_1:ABSTRACT_1|0
+a front-end to|DT JJ TO|BODY_5:ABSTRACT_5|0
+lslc|NN|BODY_12:BODY_15:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_7|0
+lsl specifications|JJ NNS|ABSTRACT_4:BODY_26:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+theory containment|NN NN|BODY_6:ABSTRACT_6:BODY_3:BODY_4:BODY_7|0
+the checking|DT VBG|ABSTRACT_6:BODY_2|0
+the syntax|DT NN|ABSTRACT_2:BODY_1:BODY_2:BODY_4|0
+a set|DT NN|BODY_3:BODY_10:ABSTRACT_10|0
+three categories|CD NNS|ABSTRACT_2:BODY_2:BODY_4|0
+operators|NNS|BODY_5:BODY_11:ABSTRACT_11:BODY_2:BODY_4:BODY_8|0
+static semantics|JJ NNS|BODY_5:ABSTRACT_3:BODY_3|0
+relative completeness|JJ NN|BODY_7:ABSTRACT_9:BODY_9|0
+other uses|JJ NNS|BODY_5:ABSTRACT_5|0
+consistency (|NN -LRB-|ABSTRACT_3:BODY_3|0
+consequences )|NNS -RRB-|ABSTRACT_8:BODY_8|0
+debugging larch|VBG NN|TITLE_1|0
+their claims|PRP$ NNS|BODY_6:ABSTRACT_6|0
+lslc checks|VBN NNS|BODY_1:ABSTRACT_1|0
+the lsl ( larch|DT NN -LRB- NN|ABSTRACT_2|0
+the principal debugging tool|DT JJ NN NN|ABSTRACT_3|0
+the larch power|DT NN NN|ABSTRACT_2|0
+( e .g|-LRB- NN NN|ABSTRACT_6|0
+concurrent algorithms )|JJ NNS -RRB-|ABSTRACT_9|0
+two tools|CD NNS|ABSTRACT_4|0
+language )|NN -RRB-|ABSTRACT_3|0
+the checkability|DT NN|ABSTRACT_1|0
+the authors|DT NNS|ABSTRACT_5|0
+we|PRP|BODY_6:BODY_5:BODY_25:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|8
+that|WDT|BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_53:BODY_10:BODY_7:BODY_8|2
+which|WDT|BODY_11:BODY_18:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_36:BODY_10:BODY_7:BODY_8:BODY_9|1
+example|NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_24:BODY_3:BODY_4:BODY_8|2
+the larch shared language|DT NN VBN NN|BODY_5:BODY_2|1
+0 handle case e|CD NN NN NN|BODY_22:BODY_29|2
+t|NN|BODY_11:BODY_40:BODY_17:BODY_13:BODY_26:BODY_2:BODY_3:BODY_24:BODY_38:BODY_4:BODY_33:BODY_6:BODY_5:BODY_31:BODY_28:BODY_7:BODY_8:BODY_20:BODY_9|0
+the universally-quantified variable q|DT JJ JJ NN|BODY_6|1
+0 / critical-pairs casehyp|CD NN NNS NN|BODY_14|1
+a change-an important activity|DT NN JJ NN|BODY_8|1
+empty .q 0 /|JJ NN CD NN|BODY_2|1
+another built-in deduction rule|DT JJ NN NN|BODY_9|1
+a built-in deduction rule|DT JJ NN NN|BODY_6|1
+a new constant q|DT JJ JJ NN|BODY_3|1
+next .q/ < e|JJ IN NN NN|BODY_17:BODY_14|0
+the three rewrite rules|DT CD JJ NNS|BODY_12:BODY_8|0
+the only user guidance|DT JJ NN NN|BODY_22:BODY_20|0
+empty 0 .c/ dd|JJ CD NN NN|BODY_11:BODY_20|0
+the simplicity or complexity|DT NN CC NN|BODY_2|0
+the file totalorder obligations|DT NN NN NNS|BODY_27|0
+a two-tiered definitional approach|DT JJ JJ NN|BODY_16|0
+a newly added window|DT RB VBN NN|BODY_6:BODY_12|0
+foreground and background colors|NN CC NN NNS|BODY_5|0
+the interface specification language|DT NN NN NN|BODY_4|0
+helpful comments and suggestions|JJ NNS CC NNS|BODY_2|0
+the following lp commands|DT VBG NN NNS|BODY_17:BODY_7|0
+x/ qed figure 9|NN VBD NN CD|BODY_26|0
+the additional hypothesis t|DT JJ NN WDT|BODY_26|0
+our research and plans|PRP$ NN CC NNS|BODY_3|0
+the following two conditions|DT JJ CD NNS|BODY_2|0
+the traits priority queue|DT NNS NN NN|BODY_2:BODY_8|0
+sample cartesian view specification|NN NN NN NN|BODY_11|0
+region r % nothing|NN NN NN NN|BODY_7|0
+e next .insert .q|NN JJ NN NN|BODY_12|0
+a sample interface specification|DT NN NN NN|BODY_2|0
+next 0 .new /|JJ CD JJ NNS|BODY_10|0
+nat origin dd [0|NN NN JJ CD|BODY_7|0
+cd and cd 0|JJ CC JJ CD|BODY_9|0
+content and clipping regions|NN CC NN NNS|BODY_4|0
+a priority queue specification|DT NN NN NN|BODY_26|0
+the same relative coordinate|DT JJ JJ VBP|BODY_2|0
+initial or final algebras|JJ CC JJ NNS|BODY_4|0
+the other two categories|DT JJ CD NNS|BODY_2|0
+empty 0 .q/ dd|JJ CD JJ VBP|BODY_17|0
+a deduction rule equivalent|DT NN NN NN|BODY_15|0
+> f or <|FW NN CC NN|BODY_8|0
+a strict partial order|DT JJ JJ NN|BODY_2:BODY_3|0
+the left hand side|DT JJ NN NN|BODY_10|0
+z # y 0|FW # RB CD|BODY_13|0
+much the same way|RB DT JJ NN|BODY_7|0
+the file totalorder assertions|DT NN NN NNS|BODY_5:BODY_14|0
+both lslc and lp|DT NN CC NN|BODY_7|0
+v 0 d addw.v|FW CD VBD NN|BODY_6|0
+the most recent version|DT RBS JJ NN|BODY_7|0
+equations and rewrite rules|NNS CC NN NNS|BODY_1:BODY_8|0
+new , insert c|JJ , JJ NN|BODY_6|0
+a total ordering relation|DT JJ NN NN|BODY_11|0
+a specific programming language|DT JJ VBG NN|BODY_5|0
+the case hypothesis t|DT NN NN NN|BODY_2|0
+larch/clu interface specification 2|NN NN NN CD|BODY_11|0
+the built-in &-splitting law|DT JJ NN NN|BODY_3|0
+two nonempty operator theories|CD JJ NN NNS|BODY_2|0
+the equation e dd|DT NN NN NN|BODY_4|0
+e 2 y yield|NN CD NN NN|BODY_13|0
+its simplicity or complexity|PRP$ NN CC NN|BODY_1|0
+the trait priority queue|DT NN NN NN|BODY_13|0
+fg/ converts f g|JJ NNS NN NN|BODY_22|0
+a few minor differences|DT JJ JJ NNS|BODY_2|0
+the entire proof script|DT JJ NN NN|BODY_3|0
+the first three traits|DT JJ CD NNS|BODY_1|0
+automatically orient many sets|RB JJ JJ NNS|BODY_3|0
+the associated deduction rule|DT VBN NN NN|BODY_6|0
+a multisorted first-order theory|DT JJ NN NN|BODY_3|0
+the usual first-order axioms|DT JJ NN NNS|BODY_5|0
+the command instantiate z|DT NN NN NN|BODY_3|0
+a simpler underlying semantics|DT JJR VBG NNS|BODY_17|0
+y dd z lp|RB JJ FW NN|BODY_12|0
+sample lsl specification z|NN NN NN FW|BODY_15|0
+a priority queue .e|DT NN NN NN|BODY_4|0
+the single lp command|DT JJ NN NN|BODY_4|0
+any first-order formula #|DT JJR NN #|BODY_8|0
+'s forward inference mechanisms|POS JJ NN NNS|BODY_3|0
+the three named methods|DT CD VBN NNS|BODY_5|0
+declarations ) and equations|NNS -RRB- CC NNS|BODY_4|0
+0 dd y 0|CD VB RB CD|BODY_16|0
+the trait natpriority queue|DT NN NN NN|BODY_2|0
+induction x complete introduces|NN NN VB NN|BODY_5|0
+than most interface languages|IN JJS NN NNS|BODY_20|0
+the following proof obligations|DT VBG NN NNS|BODY_7|0
+the subgoal isgenerated .x/|DT NN VBN VBN|BODY_18|0
+a powerful debugging technique|DT JJ NN NN|BODY_6|0
+the five immediate consequences|DT CD JJ NNS|BODY_4|0
+all traits ( transitively|DT NNS -LRB- NN|BODY_30|0
+exponential time and space|JJ NN CC NN|BODY_5|0
+sections 3 and 4|NNS CD CC CD|BODY_1|0
+the view trait (|DT NN NN -LRB-|BODY_1|0
+our principal debugging tool|PRP$ JJ NN NN|BODY_3|0
+these simpler ordering methods|DT JJR VBG NNS|BODY_1|0
+the inductive base case|DT JJ NN NN|BODY_1|0
+the last qed command|DT JJ JJ NN|BODY_7|0
+equational and non-equational traits|JJ CC JJ NNS|BODY_4|0
+each larch interface language|DT NN NN NN|BODY_1|0
+the trait hierarchy )|DT NN NN -RRB-|BODY_14|0
+a particular programming language|DT JJ NN NN|BODY_5|0
+2 exempting next .new/|CD JJ JJ NN|BODY_22|0
+the next section discusses|DT JJ NN NNS|BODY_1|0
+the other proof obligation|DT JJ NN NN|BODY_1|0
+the next two sections|DT JJ CD NNS|BODY_1|0
+operators set name setinduction1|NNS VBN NN NN|BODY_14|0
+t and t implies|NN CC NN VBZ|BODY_8|0
+the boyer-moore prover [1]|DT NN NN NN|BODY_1|0
+an artificially simplified example|DT RB JJ NN|BODY_4|0
+cd # cd 0|JJ # JJ CD|BODY_3|0
+the next several sections|DT JJ JJ NNS|BODY_1|0
+both priorityqueue and naturalnumber|DT NN CC NN|BODY_7|0
+the preceding proof obligation|DT VBG NN NN|BODY_1|0
+lslc extracts proof obligations|JJ NNS NN NNS|BODY_1|0
+linearcontainer totalorder check implications|NN NN NN NNS|BODY_1|0
+priorityqueue naturalnumber check implications|NN NN NN NNS|BODY_1|0
+equations|NNS|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7|0
+induction|NN|BODY_6:BODY_5:BODY_23:BODY_26:BODY_25:BODY_2:BODY_3:BODY_10:BODY_8:BODY_9|1
+the deduction rule|DT NN NN|BODY_12:BODY_14:BODY_3:BODY_4:BODY_7|2
+specifications|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|2
+the proof|DT NN|BODY_6:BODY_11:BODY_13:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|1
+a deduction rule|DT NN NN|BODY_16:BODY_2:BODY_7|2
+the rewrite rules|DT NN NNS|BODY_4:BODY_7:BODY_8|1
+this rewrite rule|DT NN NN|BODY_13:BODY_8|2
+the first case|DT JJ NN|BODY_1:BODY_4|2
+the induction hypothesis|DT NN NN|BODY_7|1
+0 6d v|CD NN RB|BODY_30|1
+inducthyp figure 10|JJ NN CD|BODY_32|1
+the first disjunct|DT JJ NN|BODY_5|1
+e 2 alse|NN CD NN|BODY_7|1
+since v 0|IN NN CD|BODY_5|1
+a specification (|DT NN -LRB-|BODY_3|1
+9 extended example|CD JJ NN|BODY_1|1
+b c c|NN NN NN|BODY_13|1
+new constants e|JJ NNS NN|BODY_39|1
+one trait )|CD NN -RRB-|BODY_6|1
+a < d|DT NN NN|BODY_20|1
+the mechanical proofs|DT JJ NNS|BODY_9|1
+the induction subgoal|DT NN NN|BODY_1|1
+the conjecture|DT NN|BODY_5:BODY_28:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|3
+the proof obligations|DT NN NNS|BODY_15:BODY_2:BODY_3:BODY_4:BODY_7|0
+the converts clause|DT NNS NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the completion procedure|DT NN NN|BODY_5:BODY_34:BODY_1:BODY_3:BODY_9|0
+deduction rules|NN NNS|BODY_6:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the larch prover|DT NN NN|BODY_2:BODY_3|0
+the proof obligation|DT NN NN|BODY_16:BODY_1:BODY_2:BODY_4|0
+larch interface languages|NN NN NNS|BODY_1:BODY_2|0
+an lsl trait|DT JJ NN|BODY_5:BODY_28:BODY_8|0
+the component communicates|DT NN NNS|BODY_3|0
+fg and insert|NN CC NN|BODY_3:BODY_7|0
+the same id|DT JJ NN|BODY_6:BODY_10|0
+the current state|DT JJ NN|BODY_2|0
+the explicit theory|DT JJ NN|BODY_46:BODY_1:BODY_7|0
+the trait linearcontainer|DT NN NN|BODY_6:BODY_2:BODY_1|0
+the complete sets|DT JJ NNS|BODY_2:BODY_9|0
+the transitive closure|DT JJ NN|BODY_2|0
+the same place|DT JJ NN|BODY_2|0
+the other operators|DT JJ NNS|BODY_4:BODY_9|0
+most finished specifications|JJS VBN NNS|BODY_27|0
+the boolean expression|DT JJ NN|BODY_12:BODY_8|0
+a trait t|DT NN NN|BODY_3:BODY_4|0
+the subgoal x|DT NN SYM|BODY_15|0
+the first step|DT JJ NN|BODY_1:BODY_4|0
+) c need|-RRB- NN NN|BODY_2|0
+the first implication|DT JJ NN|BODY_3:BODY_7|0
+the second equation|DT JJ NN|BODY_3:BODY_10|0
+three additional axioms|CD JJ NNS|BODY_4|0
+a clu procedure|DT NN NN|BODY_3|0
+the associative-commutative theory|DT JJ NN|BODY_3|0
+the assertions|DT NNS|BODY_5:BODY_11:BODY_1:BODY_3:BODY_10:BODY_19:BODY_29:BODY_7:BODY_9|1
+isempty and 2|JJ CC CD|BODY_12:BODY_10|0
+such deduction rules|JJ NN NNS|BODY_2|0
+theory containment fall|NN NN NN|BODY_2|0
+its rewrite rules|PRP$ NN NNS|BODY_15|0
+multiple induction rules|JJ NN NNS|BODY_2|0
+the next step|DT JJ NN|BODY_2|0
+the current hypotheses|DT JJ NNS|BODY_6:BODY_1|0
+the variable x|DT JJ SYM|BODY_6|0
+the logical power|DT JJ NN|BODY_3|0
+a logical system|DT JJ NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+y & y|RB CC RB|BODY_25|0
+each trait t|DT NN NN|BODY_5:BODY_16|0
+concurrent algorithms [6|JJ NNS NNS|BODY_9|0
+the third alternative|DT JJ NN|BODY_12|0
+the proof mechanisms|DT NN NNS|BODY_5:BODY_1|0
+the inductive proof|DT JJ NN|BODY_2|0
+that lslc extracts|DT JJ NNS|BODY_3:BODY_8|0
+0 # z|CD # FW|BODY_10:BODY_9|0
+) c t|-RRB- NN NN|BODY_2|0
+the larch family|DT NN NN|BODY_12:BODY_14|0
+# figure 13|# NN CD|BODY_10|0
+shape or contiguity|NN CC NN|BODY_8|0
+this informal argument|DT JJ NN|BODY_2|0
+:.x < x/|NN NN NN|BODY_11:BODY_5|0
+the other hand|DT JJ NN|BODY_1|0
+this deduction rule|DT NN NN|BODY_1:BODY_19|0
+the proof attempt|DT NN NN|BODY_7|0
+the syntactic amenities|DT NN NNS|BODY_4|0
+the trait totalorder|DT NN NN|BODY_3:BODY_4|0
+the given operators|DT VBN NNS|BODY_7|0
+color , id|NN , NN|BODY_13|0
+our attempted proof|PRP$ JJ NN|BODY_3|0
+a subgoal e|DT NN NN|BODY_24|0
+simpler ordering methods|JJR VBG NNS|BODY_3|0
+the trait hierarchy|DT NN NN|BODY_5:BODY_4|0
+12 ) defines|CD -RRB- NNS|BODY_2|0
+its equational theory|PRP$ JJ NN|BODY_10:BODY_9|0
+proc ( v|NN -LRB- FW|BODY_5|0
+a better chance|DT JJR NN|BODY_3:BODY_10|0
+associated semantic checks|VBN JJ NNS|BODY_6|0
+some sort c|DT NN NN|BODY_9|0
+wid forall w|JJ JJ NN|BODY_14|0
+the necessary inferences|DT JJ NNS|BODY_35|0
+the interface specification|DT NN NN|BODY_13|0
+the equality operator|DT NN NN|BODY_6|0
+a new operator|DT JJ NN|BODY_13|0
+trait v iew|NN NN NN|BODY_4|0
+a binary operator|DT JJ NN|BODY_22|0
+coord cd #|NN NN #|BODY_3|0
+q , e|NN , NN|BODY_11|0
+then e else|RB NN RB|BODY_13|0
+next .new /|JJ JJ NNS|BODY_11|0
+the appearance %|DT NN NN|BODY_8|0
+the individual specifications|DT JJ NNS|BODY_6|0
+priorityqueue ( figure|JJ -LRB- NN|BODY_2|0
+then new else|RB JJ RB|BODY_16|0
+the use theories|DT VB NNS|BODY_3|0
+a multisorted fragment|DT JJ NN|BODY_10|0
+an acceptable amount|DT JJ NN|BODY_5|0
+# insert .s|# NN NNS|BODY_13|0
+the rewriting theory|DT VBG NN|BODY_7|0
+lslc and lp|NN CC NN|BODY_5|0
+the lp command|DT NN NN|BODY_1|0
+'s rewriting theory|POS VBG NN|BODY_2:BODY_7|0
+no obvious reason|DT JJ NN|BODY_4|0
+somewhat different ways|RB JJ NNS|BODY_3|0
+no obvious definition|DT JJ NN|BODY_4|0
+sample view specification|NN NN NN|BODY_21|0
+lp-suggested partial orderings|JJ JJ NNS|BODY_4|0
+the explicit theories|DT JJ NNS|BODY_51:BODY_9|0
+the primitive terms|DT JJ NNS|BODY_4|0
+the first implementation|DT JJ NN|BODY_2|0
+a precise definition|DT JJ NN|BODY_4|0
+incomplete rewriting systems|JJ VBG NNS|BODY_11|0
+declare operators e|VBP NNS NN|BODY_15|0
+no lsl theory|DT JJ NN|BODY_3|0
+the checkable claims|DT JJ NNS|BODY_2|0
+a fixed set|DT JJ NN|BODY_2|0
+a new window|DT JJ NN|BODY_7|0
+name totalorder consequences|NN NN NNS|BODY_10|0
+a finite set|DT JJ NN|BODY_6|0
+the typical pattern|DT JJ NN|BODY_3|0
+more user guidance|JJR NN NN|BODY_4|0
+an attempted proof|DT VBN NN|BODY_1:BODY_3|0
+'s completion procedure|POS NN NN|BODY_2:BODY_3|0
+'s converts clauses|POS NNS NNS|BODY_8|0
+the other equations|DT JJ NNS|BODY_7|0
+a brief introduction|DT JJ NN|BODY_2|0
+this converts clause|DT NNS NN|BODY_23|0
+w , cd|NN , NN|BODY_15|0
+the same trait|DT JJ NN|BODY_5:BODY_9|0
+a converts clause|DT NNS NN|BODY_10|0
+an axiom schema|DT NN NN|BODY_5|0
+:.x > x/|JJ NN NN|BODY_17|0
+> z /|NN FW FW|BODY_19|0
+a proof (|DT NN -LRB-|BODY_3|0
+a single sort|DT JJ NN|BODY_3|0
+the view addw.v|DT NN NN|BODY_10|0
+lsl traits z|JJ NNS FW|BODY_6|0
+an induction scheme|DT NN NN|BODY_10|0
+lslc cannot discharge |JJ NN VB|BODY_5|0
+an indirect method|DT JJ NN|BODY_16|0
+e/ else q|NN RB NN|BODY_19|0
+an additional operator|DT JJ NN|BODY_3|0
+our rewriting systems|PRP$ VBG NNS|BODY_2|0
+nat , y|NN , NN|BODY_6|0
+nonterminating rewriting sequences|JJ NN NNS|BODY_11|0
+a combined specification|DT VBN NN|BODY_3|0
+exempting forall cd|JJ JJ NN|BODY_3|0
+t otalorder .e|NN NN NN|BODY_7|0
+the sample traits|DT NN NNS|BODY_5|0
+mcallester [14] )|NN NN -RRB-|BODY_8|0
+'s basic units|POS JJ NNS|BODY_7|0
+required checking condition|JJ NN NN|BODY_3|0
+two new constants|CD JJ NNS|BODY_4|0
+the second implication|DT JJ NN|BODY_3|0
+propositions ( equations|NNS -LRB- NNS|BODY_13|0
+the last proof|DT JJ NN|BODY_4|0
+any fixed interpretations|DT JJ NNS|BODY_3|0
+a critical part|DT JJ NN|BODY_1|0
+its programming language|PRP$ NN NN|BODY_4|0
+next , rest|JJ , NN|BODY_17|0
+two such tools|CD JJ NNS|BODY_2|0
+some sample traits-lsl|DT NN NN|BODY_6|0
+the identity function|DT NN NN|BODY_3|0
+x dd y|SYM VB RB|BODY_18|0
+the window appearance|DT NN NN|BODY_11|0
+priority queue .lp|NN NN NN|BODY_6|0
+a brief overview|DT JJ NN|BODY_4|0
+the symbols 2|DT NNS CD|BODY_4|0
+fg , insert|NN , NN|BODY_33|0
+general a partitioned|JJ DT NN|BODY_4|0
+c z yield|NN FW NN|BODY_11|0
+our informal proof|PRP$ JJ NN|BODY_5|0
+view , naturalnumber|NN , NN|BODY_3|0
+the lsl checker|DT JJ NN|BODY_2|0
+such the discussion|JJ DT NN|BODY_12|0
+the exempted terms|DT JJ NNS|BODY_4|0
+a given conjecture|DT VBN NN|BODY_7|0
+the lsl tier|DT JJ NN|BODY_6|0
+lp and lp|NN CC NN|BODY_4|0
+some basic operators|DT JJ NNS|BODY_3|0
+the assumed hypothesis|DT VBN NN|BODY_22|0
+a trait hierarchy|DT NN NN|BODY_17|0
+if .cd 0|IN NN CD|BODY_5|0
+user-supplied polynomial interpretations|JJ NN NNS|BODY_3|0
+an lsl specification|DT JJ NN|BODY_2|0
+declare variables e|VBP NNS NN|BODY_6|0
+its six equations|PRP$ CD NNS|BODY_4|0
+also six methods|RB CD NNS|BODY_2|0
+most programming languages|JJS NN NNS|BODY_18|0
+lp facilities (|NN NNS -LRB-|BODY_4|0
+the appropriate rule|DT JJ NN|BODY_21|0
+priority queue( nat|NN NN NN|BODY_4|0
+some proof obligations|DT NN NNS|BODY_2|0
+totalorder qed proofs|VBP VBN NNS|BODY_6|0
+relatively few )|RB JJ -RRB-|BODY_6|0
+several proof obligations|JJ NN NNS|BODY_2|0
+three proof obligations|CD NN NNS|BODY_22|0
+e/ :.insert .s|NN NN NNS|BODY_20|0
+a nonterminating set|DT JJ NN|BODY_5|0
+the revised specification|DT VBN NN|BODY_4|0
+the induction rules|DT NN NNS|BODY_11|0
+empty figure 2|JJ NN CD|BODY_14|0
+the generated by|DT VBN IN|BODY_6|0
+the hypothesis t|DT NN NN|BODY_3|0
+the cancellation law|DT NN NN|BODY_7|0
+a short time|DT JJ NN|BODY_2|0
+additional generic operators|JJ JJ NNS|BODY_2|0
+the trait naturalnumber|DT NN NN|BODY_3|0
+such interface languages|JJ NN NNS|BODY_2|0
+those proof obligations|DT NN NNS|BODY_4|0
+the boolean operators|DT JJ NNS|BODY_4|0
+abstract data types|JJ NNS NNS|BODY_6|0
+the file lin-|DT NN NNS|BODY_5|0
+a rewriting system|DT NN NN|BODY_5|0
+the rewriting relation|DT NN NN|BODY_2|0
+these data types|DT NNS NNS|BODY_3|0
+many equational theories|JJ JJ NNS|BODY_3|0
+all proof obligations|DT NN NNS|BODY_2|0
+0 dd y|CD JJ NN|BODY_2|0
+associative- commutative operators|NNS JJ NNS|BODY_7|0
+a universal-existential axiom|DT JJ NN|BODY_5|0
+a unique id|DT JJ NN|BODY_3|0
+these two files|DT CD NNS|BODY_14|0
+the lp declarations|DT NN NNS|BODY_2|0
+its proof obligations|PRP$ NN NNS|BODY_28|0
+the concluding section|DT VBG NN|BODY_1|0
+explicit lp commands|JJ NN NNS|BODY_3|0
+a mechanism (|DT NN -LRB-|BODY_2|0
+the required copy|DT JJ NN|BODY_5|0
+# and lp|# CC NN|BODY_10|0
+less suitable semantics|JJR JJ NNS|BODY_6|0
+this proof obligation|DT NN NN|BODY_2:BODY_3|0
+0 # cd|CD # JJ|BODY_5|0
+the second copy|DT JJ NN|BODY_9|0
+equational term rewriting|JJ NN NN|BODY_8|0
+a consistent theory|DT JJ NN|BODY_5|0
+the general case|DT JJ NN|BODY_3|0
+particular interface specifications|JJ NN NNS|BODY_5|0
+the semantic claims|DT JJ NNS|BODY_8|0
+the induction scheme|DT NN NN|BODY_31|0
+the window %|DT NN NN|BODY_11|0
+a definite order|DT JJ NN|BODY_12|0
+the last line|DT JJ NN|BODY_3|0
+its implies clause|PRP$ VBZ NN|BODY_50|0
+# figure 11|# NN CD|BODY_27|0
+an equation e|DT NN NN|BODY_6|0
+lsl the imports|RB DT NNS|BODY_8|0
+the lp commands|DT NN NNS|BODY_2|0
+given any interpretations|VBN DT NNS|BODY_2|0
+clause ( equations|NN -LRB- NNS|BODY_6|0
+e 0 i|NN CD NN|BODY_5|0
+a window system|DT NN NN|BODY_4|0
+t 0 1|NN CD CD|BODY_3|0
+the basis subgoal|DT NN NN|BODY_2|0
+the quantifier forall|DT NN NN|BODY_4|0
+a particular form|DT JJ NN|BODY_9|0
+a simplified proof|DT JJ NN|BODY_10|0
+the changed trait|DT VBN NN|BODY_5|0
+ rewrite rules|JJ NN NNS|BODY_2|0
+a first-order theory|DT JJ NN|BODY_4|0
+the guidance (|DT NN -LRB-|BODY_7|0
+arbitrary first-order formulas|JJ JJ NNS|BODY_11|0
+:.e 2 q|NN CD NN|BODY_5|0
+the explicit equations|DT JJ NNS|BODY_3|0
+a small amount|DT JJ NN|BODY_14|0
+'s inference mechanisms|POS NN NNS|BODY_3|0
+its proof method|PRP$ NN NN|BODY_1:BODY_3|0
+no absolute standard|DT JJ NN|BODY_6|0
+a rewrite rule|DT NN NN|BODY_7|0
+a window identifier|DT NN NN|BODY_6|0
+lsl traits lslc|JJ NNS NN|BODY_1|0
+an impossible case|DT JJ NN|BODY_4|0
+the same roles|DT JJ NNS|BODY_4|0
+the larch project|DT NN NN|BODY_1|0
+at this point|IN DT NN|BODY_24|0
+purely equational axiomatizations|RB JJ NNS|BODY_3|0
+the lemma e|DT NN NN|BODY_7|0
+built-in rewrite rules|JJ NN NNS|BODY_2|0
+region and displayable|NN CC NN|BODY_3|0
+a built-in notion|DT JJ NN|BODY_3|0
+the same time|DT JJ NN|BODY_10|0
+a proof checker|DT NN NN|BODY_3|0
+backwards inference techniques|RB VBN NNS|BODY_2|0
+the required proof|DT VBN NN|BODY_2|0
+the immediate consequences|DT JJ NNS|BODY_37|0
+the conditional operator|DT JJ NN|BODY_7|0
+our early experience|PRP$ JJ NN|BODY_2|0
+the redundant information|DT JJ NN|BODY_1|0
+the  correctness |DT NN NN|BODY_3|0
+the added exemption|DT JJ NN|BODY_1|0
+checking consistency checks|VBG NN NNS|BODY_1|0
+'s implies clause|POS VBZ NN|BODY_41|0
+'s explicit theory|POS JJ NN|BODY_3|0
+'s immediate consequences|POS JJ NNS|BODY_10|0
+any programming language|DT VBG NN|BODY_7|0
+first-order logic )|JJ NN -RRB-|BODY_11|0
+time and space|NN CC NN|BODY_6|0
+a standard approach|DT JJ NN|BODY_1|0
+natpri- ority queue|NNS NN NN|BODY_5|0
+natpriorityqueue check assumption|JJ NN NN|BODY_1|0
+assert e dd|VB NN NN|BODY_1|0
+the natural numbers|DT JJ NNS|BODY_14|0
+the programming language|DT NN NN|BODY_5|0
+the trait view|DT NN NN|BODY_5|0
+the commutative theory|DT JJ NN|BODY_4|0
+linearcontainer and totalorder|NN CC NN|BODY_4|0
+the additional hypotheses|DT JJ NNS|BODY_36|0
+the following sections|DT VBG NNS|BODY_1|0
+the exempting clause|DT JJ NN|BODY_1|0
+more subtle checking|RBR JJ NN|BODY_3|0
+specific lsl constructs|JJ JJ NNS|BODY_3|0
+more promising approaches|RBR JJ NNS|BODY_1|0
+the first try|DT JJ NN|BODY_17|0
+the normalized conjecture|DT JJ NN|BODY_1|0
+infinitely many times|RB JJ NNS|BODY_6|0
+the interface parts|DT NN NNS|BODY_6|0
+the same location|DT JJ NN|BODY_18|0
+some other provers|DT JJ NNS|BODY_5|0
+the main drawback|DT JJ NN|BODY_1|0
+2 and isempty|CD CC RB|BODY_5|0
+its associated theory|PRP$ JJ NN|BODY_10|0
+the interface level|DT NN NN|BODY_4|0
+the original conjecture|DT JJ NN|BODY_4|0
+its explicit theory|PRP$ JJ NN|BODY_9|0
+the command critical-pairs|DT NN NNS|BODY_1|0
+the prove command|DT VBP NN|BODY_2|0
+3 semantic checks|CD JJ NNS|BODY_1|0
+two primary uses|CD JJ NNS|BODY_2|0
+the sample proof|DT NN NN|BODY_1|0
+the first if|DT JJ IN|BODY_9|0
+a contradiction )|DT NN -RRB-|BODY_7|0
+its assumes clause|PRP$ VBZ NN|BODY_1|0
+the larch style|DT NN NN|BODY_1|0
+debugging lsl specifications|NN JJ NNS|BODY_3|0
+a primary goal|DT JJ NN|BODY_1|0
+several semantic checks|JJ JJ NNS|BODY_7|0
+about critical pairs|IN JJ NNS|BODY_10|0
+totalorder( nat )|JJ NN -RRB-|BODY_12|0
+4 proof obligations|CD NN NNS|BODY_1|0
+the second case|DT JJ NN|BODY_1|0
+emptyv [cd ]|JJ JJ SYM|BODY_4|0
+these rewrite rules|DT JJ NNS|BODY_1|0
+our informal reasoning|PRP$ JJ NN|BODY_1|0
+lsl or lp.|NN CC NN|BODY_27|0
+ conservative extension |JJ JJ NN|BODY_5|0
+2. trait view|DT NN NN|BODY_1|0
+the next trait|DT JJ NN|BODY_1|0
+a theorem prover|DT NN NN|BODY_5|0
+a  converts|DT JJ NNS|BODY_1|0
+this proof strategy|DT NN NN|BODY_1|0
+more subtle problems|RBR JJ NNS|BODY_7|0
+totally erroneous changes|RB JJ NNS|BODY_5|0
+a prominent role|DT JJ NN|BODY_8|0
+terminating rewriting systems|NN VBG NNS|BODY_5|0
+a large set|DT JJ NN|BODY_1|0
+a small set|DT JJ NN|BODY_1|0
+7 checking theory|CD NN NN|BODY_1|0
+cases and contradiction|NNS CC NN|BODY_4|0
+'s logical system|POS JJ NN|BODY_4|0
+complicated search tactics|VBN NN NNS|BODY_4|0
+the larch approach|DT NN NN|BODY_1|0
+an arbitrary specification|DT JJ NN|BODY_7|0
+any practical methodology|DT JJ NN|BODY_1|0
+# converts insert|# NNS NN|BODY_25|0
+any promising means|DT JJ NNS|BODY_1|0
+( this suffices|-LRB- DT NNS|BODY_1|0
+'s term syntax|POS NN NN|BODY_10|0
+the checkable redundancy|DT JJ NN|BODY_1|0
+the initial design|DT JJ NN|BODY_1|0
+the coordinate operators|DT VBP NNS|BODY_4|0
+an identity )|DT NN -RRB-|BODY_10|0
+any critical pairs|DT JJ NNS|BODY_5|0
+conventional term rewriting|JJ NN VBG|BODY_4|0
+particular data types|JJ NNS NNS|BODY_5|0
+a coordinate system|DT VBP NN|BODY_3|0
+the previous section|DT JJ NN|BODY_1|0
+manual ordering methods|NN VBG NNS|BODY_1|0
+6 proof mechanisms|CD NN NNS|BODY_1|0
+a debugging tool|DT NN NN|BODY_3|0
+a proof debugger|DT NN NN|BODY_3|0
+many proof attempts|JJ NN NNS|BODY_1|0
+the second conjecture|DT JJ NN|BODY_1|0
+the logical system|DT JJ NN|BODY_5|0
+parsing and type-checking|NN CC NN|BODY_1|0
+the proof strategy|DT NN NN|BODY_1|0
+there|EX|BODY_6:BODY_5:BODY_21:BODY_1:BODY_2:BODY_3:BODY_8|0
+the axioms|DT NNS|BODY_32:BODY_5:BODY_42:BODY_1:BODY_3:BODY_4:BODY_30:BODY_8|0
+the implication|DT NN|BODY_12:BODY_45:BODY_15:BODY_23:BODY_2:BODY_38|4
+0|CD|BODY_12:BODY_40:BODY_28:BODY_15:BODY_21:BODY_10:BODY_4|4
+proofs|NNS|BODY_5:BODY_15:BODY_14:BODY_3:BODY_4:BODY_8:BODY_9|0
+specifiers|NNS|BODY_5:BODY_21:BODY_2:BODY_1:BODY_4|0
+linearcontainer|NN|BODY_12:BODY_18:BODY_15:BODY_13:BODY_2:BODY_3:BODY_8:BODY_9|0
+s|VBZ|BODY_6:BODY_17:BODY_15:BODY_13:BODY_3:BODY_10:BODY_4:BODY_7:BODY_20|0
+2|CD|BODY_12:BODY_6:BODY_18:BODY_21:BODY_13:BODY_26:BODY_1:BODY_3:BODY_24:BODY_19:BODY_8|0
+the trait|DT NN|BODY_6:BODY_11:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+the conclusion|DT NN|BODY_14:BODY_3:BODY_44:BODY_19|5
+. z|. FW|BODY_6:BODY_36:BODY_45:BODY_13:BODY_4:BODY_7:BODY_8|0
+the theory|DT NN|BODY_2:BODY_3:BODY_4|0
+rewrite rules|NN NNS|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+0 /|CD NN|BODY_6:BODY_5:BODY_16:BODY_19|2
+the equations|DT NNS|BODY_5:BODY_3:BODY_10|1
+a trait|DT NN|BODY_31:BODY_5:BODY_15:BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+the hypothesis|DT NN|BODY_6:BODY_11:BODY_27:BODY_1:BODY_37|4
+v 0|RB CD|BODY_41:BODY_3:BODY_7|2
+an identity|DT NN|BODY_16:BODY_2:BODY_3:BODY_29|2
+a window|DT NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_4:BODY_10:BODY_9|0
+them|PRP|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7:BODY_9|1
+a system|DT NN|BODY_6:BODY_2:BODY_1:BODY_8:BODY_9|1
+the specification|DT NN|BODY_3:BODY_8|1
+a proof|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+0 <|CD NN|BODY_24:BODY_4|2
+the place|DT NN|BODY_5:BODY_42|2
+empty .q|JJ NN|BODY_13:BODY_3|1
+trait view|NN NN|BODY_5:BODY_1:BODY_2|1
+our approach|PRP$ NN|BODY_2|1
+the equation|DT NN|BODY_11:BODY_1:BODY_3|1
+case e|NN NN|BODY_27:BODY_20|2
+checking specifications|VBG NNS|BODY_3|1
+this implication|DT NN|BODY_3|1
+'s facilities|POS NNS|BODY_2:BODY_4|1
+0 critical-pairs|CD NNS|BODY_31|1
+several facilities|JJ NNS|BODY_3|1
+the change|DT VBP|BODY_8|1
+0 //|CD NNS|BODY_26|1
+these claims|DT NNS|BODY_5:BODY_2:BODY_1|1
+checkable redundancy|JJ NN|BODY_4|1
+next .c|JJ NN|BODY_25|1
+the errors|DT NNS|BODY_2|1
+this conclusion|DT NN|BODY_2|1
+a variable|DT JJ|BODY_6|1
+their proofs|PRP$ NNS|BODY_7|1
+some traits|DT NNS|BODY_7|1
+priorityqueue implication|NN NN|BODY_35|1
+q resume|NN NN|BODY_10|1
+proof scripts|NN NNS|BODY_5|1
+z produces|FW VBZ|BODY_15|1
+whose hypotheses|WP$ NNS|BODY_17|1
+a fresh|DT JJ|BODY_8|1
+unintended side-effects|JJ NNS|BODY_9|1
+formal specifications|JJ NNS|BODY_2:BODY_4:BODY_7|0
+its conclusions|PRP$ NNS|BODY_6|1
+this expression|DT NN|BODY_1|1
+mechanical assistance|JJ NN|BODY_11|1
+this hypothesis|DT NN|BODY_46|1
+the example|DT NN|BODY_5|1
+this fact|DT NN|BODY_1|1
+all|DT|BODY_2:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+first-order logic|JJ NN|BODY_6:BODY_5:BODY_3:BODY_7|0
+the|DT|BODY_6:BODY_5:BODY_22:BODY_1:BODY_4|0
+us|PRP|BODY_6:BODY_2:BODY_3:BODY_4|0
+the assumption|DT NN|BODY_5:BODY_4:BODY_8|0
+lsl traits|JJ NNS|BODY_12:BODY_5:BODY_1:BODY_3|0
+an inconsistency|DT NN|BODY_2:BODY_1:BODY_4:BODY_7|0
+the user|DT NN|BODY_2:BODY_1:BODY_4:BODY_9|0
+the number|DT NN|BODY_6:BODY_2:BODY_9|0
+the view|DT NN|BODY_12:BODY_14:BODY_10:BODY_7:BODY_8|0
+the partitioned|DT NN|BODY_11:BODY_5:BODY_1:BODY_10|0
+0 i|CD NN|BODY_25:BODY_3|0
+axioms|NNS|BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+user assistance|NN NN|BODY_2:BODY_3:BODY_4|0
+10 shows|CD NNS|BODY_2|0
+an abbreviation|DT NN|BODY_2|0
+the signatures|DT NNS|BODY_2|0
+this section|DT NN|BODY_6:BODY_1:BODY_3|0
+the hypotheses|DT NNS|BODY_15:BODY_2|0
+the problem|DT NN|BODY_1:BODY_2:BODY_7|0
+all traits|DT NNS|BODY_52:BODY_43:BODY_2:BODY_10:BODY_9|0
+the commands|DT NNS|BODY_3:BODY_4|0
+consistency|NN|BODY_5:BODY_2:BODY_1:BODY_8|0
+section 2|NN CD|BODY_1:BODY_14|0
+the need|DT NN|BODY_12:BODY_2:BODY_4|0
+the invariant|DT NN|BODY_3|0
+lsl specification|NN NN|BODY_11:BODY_25|0
+the form|DT NN|BODY_6:BODY_7|0
+a view|DT NN|BODY_11:BODY_15:BODY_3|0
+induction rules|NN NNS|BODY_2:BODY_1:BODY_7|0
+the traits|DT NNS|BODY_6:BODY_2:BODY_9|0
+operator theories|NN NNS|BODY_6:BODY_13:BODY_1|0
+the validity|DT NN|BODY_5:BODY_3|0
+an object|DT NN|BODY_3:BODY_4|0
+z #|FW #|BODY_11:BODY_16:BODY_17|0
+the lp|DT NN|BODY_5:BODY_2:BODY_7|0
+the assertion|DT NN|BODY_32:BODY_15|0
+its theory|PRP$ NN|BODY_5:BODY_2|0
+the semantics|DT NNS|BODY_5:BODY_1:BODY_7|0
+an equation|DT NN|BODY_22:BODY_1:BODY_3|0
+sorts e|NNS NN|BODY_12:BODY_3:BODY_4|0
+backward inference|JJ NN|BODY_5:BODY_3|0
+its axioms|PRP$ NNS|BODY_11:BODY_4:BODY_48|0
+the case|DT NN|BODY_5:BODY_1:BODY_2|0
+the specifier|DT NN|BODY_4|0
+two cases|CD NNS|BODY_11:BODY_10:BODY_7|0
+the larch|DT NN|BODY_5:BODY_2:BODY_4|0
+variables x|NNS SYM|BODY_14:BODY_9|0
+critical pairs|JJ NNS|BODY_6:BODY_3|0
+these properties|DT NNS|BODY_2:BODY_9|0
+each interface|DT NN|BODY_2|0
+a conjecture|DT NN|BODY_5:BODY_1:BODY_7|0
+figure 7|NN CD|BODY_3:BODY_10|0
+larch specifications|NN NNS|BODY_6:BODY_2|0
+condition 2|NN CD|BODY_1:BODY_8|0
+this trait|DT NN|BODY_23:BODY_3:BODY_4|0
+claims|NNS|BODY_5:BODY_1:BODY_24:BODY_4|0
+'s assumption|POS NN|BODY_5:BODY_8|0
+empty 0|JJ CD|BODY_6:BODY_13|0
+the latter|DT NN|BODY_2:BODY_3|0
+a specifier|DT NN|BODY_3:BODY_4|0
+the meanings|DT NNS|BODY_12|0
+a theorem|DT NN|BODY_6:BODY_2:BODY_4|0
+two kinds|CD NNS|BODY_2|0
+the components|DT NNS|BODY_3:BODY_7|0
+linearcontainer converts|NN NNS|BODY_19:BODY_10|0
+the assumptions|DT NNS|BODY_5:BODY_27:BODY_1|0
+the propositions|DT NNS|BODY_12:BODY_21:BODY_39:BODY_49:BODY_4|0
+the set|DT NN|BODY_5:BODY_8|0
+lslc formulates|JJ NNS|BODY_1:BODY_2|0
+some sort|DT NN|BODY_11|0
+all elements|DT NNS|BODY_8|0
+our confidence|PRP$ NN|BODY_4:BODY_7|0
+their value|PRP$ NN|BODY_7|0
+forall cd|JJ NN|BODY_2|0
+a claim|DT NN|BODY_2:BODY_8|0
+most users|JJS NNS|BODY_2|0
+the expense|DT NN|BODY_7|0
+specialized vocabularies|VBN NNS|BODY_4|0
+[18] )|JJ -RRB-|BODY_4|0
+x c|NN NN|BODY_10:BODY_4|0
+further facilities|JJ NNS|BODY_5|0
+that users|WDT NNS|BODY_11|0
+the operators|DT NNS|BODY_5:BODY_7|0
+another independent|DT JJ|BODY_6|0
+automatic normalization|JJ NN|BODY_6:BODY_5|0
+the reasons|DT NNS|BODY_3|0
+lsl theories|JJ NNS|BODY_2|0
+checkable claims|JJ NNS|BODY_3:BODY_7|0
+the conversion|DT NN|BODY_1:BODY_3|0
+user interaction|NN NN|BODY_5:BODY_15:BODY_14|0
+this paper|DT NN|BODY_1:BODY_8|0
+interface specifications|NN NNS|BODY_5:BODY_28:BODY_10|0
+a check|DT NN|BODY_6:BODY_5|0
+the booleans|DT NNS|BODY_13|0
+the facts|DT NNS|BODY_6:BODY_2|0
+figure 4|NN CD|BODY_5:BODY_4:BODY_10|0
+this problem|DT NN|BODY_1:BODY_3|0
+the lemmas|DT NNS|BODY_3:BODY_7|0
+this check|DT NN|BODY_5:BODY_3|0
+new consequences|JJ NNS|BODY_6:BODY_7|0
+t otalorder|NN NN|BODY_2|0
+side effects|NN NNS|BODY_5|0
+more guidance|JJR NN|BODY_2:BODY_3|0
+figure 1|NN CD|BODY_6:BODY_1|0
+a signature|DT NN|BODY_2:BODY_3|0
+the command|DT NN|BODY_1|0
+the first|DT JJ|BODY_2:BODY_4|0
+section 7|NN CD|BODY_2:BODY_1|0
+that case|DT NN|BODY_4|0
+exception handling|NN NN|BODY_6|0
+linearcontainer .e|NN NN|BODY_1:BODY_8|0
+the interfaces|DT NNS|BODY_2|0
+f g|NN NN|BODY_11:BODY_19|0
+rest|NN|BODY_6:BODY_21:BODY_23:BODY_14:BODY_4:BODY_9|0
+addw indow|NN NN|BODY_4|0
+case analysis|NN NN|BODY_6:BODY_16:BODY_1|0
+the preservation|DT NN|BODY_2|0
+the performance|DT NN|BODY_2:BODY_7|0
+c t|NN NN|BODY_1|0
+these methods|DT NNS|BODY_1:BODY_4|0
+priority queues|NN NNS|BODY_5|0
+common classes|JJ NNS|BODY_2|0
+region( t|JJ NN|BODY_10|0
+t i|WDT NN|BODY_21|0
+r, fore|JJ NN|BODY_12|0
+the variables|DT NNS|BODY_20|0
+converts origin|NNS NN|BODY_9|0
+specification languages|NN NNS|BODY_15:BODY_13|0
+t 0|WDT CD|BODY_23|0
+induction )|NN -RRB-|BODY_6|0
+an axiom|DT NN|BODY_12:BODY_9|0
+programming language|VBG NN|BODY_3|0
+implied equation|JJ NN|BODY_23|0
+point cd|NN NN|BODY_6|0
+a way|DT NN|BODY_6|0
+primitive terms|JJ NNS|BODY_3|0
+elements (|NNS -LRB-|BODY_10|0
+additional hypotheses|JJ NNS|BODY_14|0
+new constants|JJ NNS|BODY_19|0
+# z|# FW|BODY_15:BODY_14|0
+semantic properties|JJ NNS|BODY_27:BODY_25|0
+the appearance|DT NN|BODY_12|0
+the role|DT NN|BODY_8|0
+w tuple|NN NN|BODY_9|0
+our work|PRP$ NN|BODY_2:BODY_3|0
+language-specific notations|JJ NNS|BODY_3|0
+e/ dd|NN NN|BODY_14|0
+a semantics|DT NNS|BODY_3|0
+normal form|JJ NN|BODY_5:BODY_7|0
+semantic claims|JJ NNS|BODY_1:BODY_3|0
+a basis|DT NN|BODY_10|0
+machine analysis|NN NN|BODY_5|0
+object t|NN NN|BODY_13|0
+empty .q/|JJ JJ|BODY_18|0
+dd y|VBP NN|BODY_14|0
+the axiom|DT NN|BODY_16|0
+figure 8|NN CD|BODY_13:BODY_1|0
+present there|JJ EX|BODY_24|0
+the information|DT NN|BODY_2|0
+the union|DT NN|BODY_4|0
+isgenerated .feg/|VBN NN|BODY_16|0
+unique interpretations|JJ NNS|BODY_7:BODY_9|0
+this point|DT NN|BODY_1|0
+including priorityqueue|VBG NN|BODY_9|0
+success diagnostics|NN NNS|BODY_4|0
+introduces r|NN NN|BODY_5|0
+the axiomatizations|DT NNS|BODY_5|0
+this position|DT NN|BODY_3|0
+only one|RB CD|BODY_32|0
+x 0|SYM CD|BODY_5|0
+the operands|DT NNS|BODY_3|0
+additional checking|JJ NN|BODY_4|0
+the interface|DT NN|BODY_3|0
+the id|DT NN|BODY_4|0
+the meaning|DT NN|BODY_3|0
+a problem|DT NN|BODY_5:BODY_2|0
+forall q|JJ NN|BODY_10|0
+e 2|NN CD|BODY_7|0
+the lack|DT NN|BODY_2|0
+no view|DT NN|BODY_4|0
+that lsl|WDT NN|BODY_4|0
+their flaws|PRP$ NNS|BODY_5|0
+the interpretation|DT NN|BODY_2:BODY_3|0
+the incompleteness|DT NN|BODY_3|0
+six sets|CD NNS|BODY_12|0
+interesting conjectures|JJ NNS|BODY_16|0
+the subgoal|DT NN|BODY_2|0
+.x >|JJ NN|BODY_18|0
+cd 0|JJ CD|BODY_4|0
+[ lp|NN NN|BODY_12|0
+the issue|DT NN|BODY_15|0
+separate checks|JJ NNS|BODY_2|0
+their use|PRP$ NN|BODY_3|0
+our approaches|PRP$ NNS|BODY_2|0
+the same|DT JJ|BODY_3:BODY_9|0
+clause amounts|NN NNS|BODY_4|0
+no term|DT NN|BODY_5|0
+other windows|JJ NNS|BODY_17|0
+propositional calculus|JJ NN|BODY_4|0
+the specifications|DT NNS|BODY_5|0
+enough axioms|JJ NNS|BODY_4|0
+< f|NN NN|BODY_9|0
+'s axioms|POS NNS|BODY_8:BODY_9|0
+the relation|DT NN|BODY_3|0
+any extension|DT NN|BODY_2|0
+forward inference|JJ NN|BODY_3|0
+the order|DT NN|BODY_2|0
+two hypotheses|CD NNS|BODY_20|0
+a number|DT NN|BODY_5|0
+one trait|CD NN|BODY_9|0
+2 0|CD CD|BODY_8|0
+mart-n abadi|JJ NN|BODY_3|0
+.insert .s|NN NNS|BODY_15|0
+insert .rest.q/|JJ NN|BODY_18|0
+section 6|NN CD|BODY_2|0
+detecting inconsistencies|VBG NNS|BODY_2|0
+expository purposes|JJ NNS|BODY_2|0
+this knowledge|DT NN|BODY_2|0
+y 0|RB CD|BODY_6|0
+proving consistency|VBG NN|BODY_3|0
+these components|DT NNS|BODY_2|0
+a partitioned|DT JJ|BODY_1:BODY_3|0
+two windows|CD NNS|BODY_5|0
+/ implies|DT VBZ|BODY_11|0
+no way|DT NN|BODY_25|0
+empty .c/|JJ NN|BODY_21|0
+precise claims|JJ NNS|BODY_2|0
+totalorder assertions|NN NNS|BODY_9|0
+its equations|PRP$ NNS|BODY_14|0
+standard subtheories|JJ NNS|BODY_12|0
+priorityqueue converts|JJ NNS|BODY_9|0
+each specification|DT NN|BODY_1|0
+consistency )|NN -RRB-|BODY_3|0
+total orders|JJ NNS|BODY_12|0
+window w|NN NN|BODY_9|0
+priority queue|NN NN|BODY_3:BODY_10|0
+their help|PRP$ NN|BODY_4|0
+figure 5|NN CD|BODY_1|0
+dd rest.q/|VBP NN|BODY_16|0
+the terms|DT NNS|BODY_8|0
+a term|DT NN|BODY_5|0
+16 ]|CD NNS|BODY_8|0
+name totalorder|NN NN|BODY_8|0
+inw .addw.v|JJ NN|BODY_3|0
+assuming x|VBG SYM|BODY_8|0
+lslc )|NN -RRB-|BODY_3|0
+2 )|CD -RRB-|BODY_9|0
+the outermost|DT JJ|BODY_13|0
+which 2|WDT CD|BODY_7|0
+forall clauses|JJ NNS|BODY_5|0
+ac c|NN NN|BODY_2|0
+type systems|NN NNS|BODY_8|0
+their understanding|PRP$ NN|BODY_6|0
+the last|DT JJ|BODY_3|0
+the extent|DT NN|BODY_6|0
+the introduces|DT NNS|BODY_4|0
+its environment|PRP$ NN|BODY_4|0
+lp. z|NN FW|BODY_4|0
+a subset|DT NN|BODY_9|0
+a command|DT NN|BODY_24|0
+figure 12|NN CD|BODY_20|0
+the kinds|DT NNS|BODY_4|0
+each operator|DT NN|BODY_7|0
+t 1|WDT CD|BODY_11|0
+set extensionality|NN NN|BODY_17|0
+figure 3|NN CD|BODY_24|0
+the window|DT NN|BODY_5|0
+the proofs|DT NNS|BODY_21|0
+independent %|JJ NN|BODY_13:BODY_7|0
+four methods|CD NNS|BODY_2|0
+unintended meanings|JJ NNS|BODY_6|0
+declare operators|VBP NNS|BODY_10|0
+clause claims|NN NNS|BODY_2|0
+this approach|DT NN|BODY_1|0
+natq )|NN -RRB-|BODY_5|0
+the interpretations|DT NNS|BODY_16|0
+coord emptyv|NN NNS|BODY_4|0
+coord tuple|JJ NN|BODY_4|0
+the presence|DT NN|BODY_4|0
+figure 9|NN CD|BODY_6|0
+dd true|JJ JJ|BODY_8|0
+implication hypothesis|NN NN|BODY_2|0
+logical consequence|JJ NN|BODY_13:BODY_7|0
+module independence|NN NN|BODY_5|0
+this assertion|DT NN|BODY_1|0
+two equations|CD NNS|BODY_3|0
+no traits|DT NNS|BODY_3|0
+the texts|DT NNS|BODY_3|0
+the sense|DT NN|BODY_7|0
+some properties|DT NNS|BODY_3|0
+several reasons|JJ NNS|BODY_7|0
+the construction|DT NN|BODY_6|0
+both addw.v|DT NN|BODY_4|0
+x [|NN FW|BODY_5|0
+x dd|NN NN|BODY_4|0
+the structure|DT NN|BODY_4|0
+lp commands|NN NNS|BODY_5|0
+a collection|DT NN|BODY_3|0
+another theory|DT NN|BODY_5|0
+its knowledge|PRP$ NN|BODY_3|0
+our specification|PRP$ NN|BODY_7|0
+lsl abstractions|JJ NNS|BODY_9|0
+preliminary versions|JJ NNS|BODY_2|0
+semantic content|JJ NN|BODY_8|0
+otalorder .e/|NN NN|BODY_7|0
+the properties|DT NNS|BODY_2|0
+terminating systems|NN NNS|BODY_8|0
+section 5|NN CD|BODY_12|0
+trait assumes|NN VBZ|BODY_7|0
+the behavior|DT NN|BODY_3|0
+other traits|JJ NNS|BODY_2|0
+whose consistency|WP$ NN|BODY_6|0
+more work|JJR NN|BODY_6|0
+section 3|NN CD|BODY_5|0
+a hierarchy|DT NN|BODY_1:BODY_4|0
+serious drawbacks|JJ NNS|BODY_2|0
+useful feedback|JJ NN|BODY_3|0
+another kind|DT NN|BODY_3|0
+section 9|NN CD|BODY_1|0
+each i|DT NN|BODY_15|0
+dd t|JJ NN|BODY_3|0
+backward inferences|JJ NNS|BODY_4|0
+the accuracy|DT NN|BODY_12|0
+2 insert|CD NN|BODY_9|0
+the complexity|DT NN|BODY_4|0
+their cost|PRP$ NN|BODY_8|0
+all occurrences|DT NNS|BODY_11|0
+forall x|JJ SYM|BODY_4|0
+several mechanisms|JJ NNS|BODY_2|0
+operator 2|NN CD|BODY_5|0
+a variety|DT NN|BODY_3|0
+lsl claims|JJ NNS|BODY_2|0
+two languages|CD NNS|BODY_3|0
+certain kinds|JJ NNS|BODY_13|0
+more confidence|JJR NN|BODY_11|0
+subtle ways|JJ NNS|BODY_4|0
+19] )|CD -RRB-|BODY_10|0
+an overview|DT NN|BODY_2|0
+many sources|JJ NNS|BODY_2|0
+these questions|DT NNS|BODY_4|0
+the negation|DT NN|BODY_2|0
+its assumptions|PRP$ NNS|BODY_35|0
+its assertions|PRP$ NNS|BODY_34|0
+new operators|JJ NNS|BODY_7|0
+several ways|JJ NNS|BODY_2|0
+lp declarations|NN NNS|BODY_11|0
+all interpretations|DT NNS|BODY_5|0
+the amount|DT NN|BODY_4|0
+special mechanisms|JJ NNS|BODY_2|0
+two copies|CD NNS|BODY_4|0
+the computation|DT NN|BODY_5|0
+program components|NN NNS|BODY_3|0
+clauses )|NNS -RRB-|BODY_15|0
+operational content|JJ NN|BODY_7|0
+selective use|JJ NN|BODY_2|0
+its operators|PRP$ NNS|BODY_13|0
+a flaw|DT NN|BODY_7|0
+greater flexibility|JJR NN|BODY_7|0
+clause associates|NN NNS|BODY_2|0
+proof management|NN NN|BODY_6|0
+one subgoal|CD NN|BODY_12|0
+figure 2|NN CD|BODY_2|0
+specification [12]|NN NN|BODY_17|0
+a proposition|DT NN|BODY_5|0
+linearcontainer claims|NN NNS|BODY_2|0
+any interpretations|DT NNS|BODY_6|0
+condition 1|NN CD|BODY_5|0
+the application|DT NN|BODY_9|0
+the choice|DT NN|BODY_8|0
+the sort|DT NN|BODY_9|0
+explicit instantiation|JJ NN|BODY_5|0
+these checks|DT NNS|BODY_3|0
+the use|DT NN|BODY_1|0
+group theory|NN NN|BODY_2|0
+this mechanism|DT NN|BODY_1|0
+the theories|DT NNS|BODY_11|0
+complete control|JJ NN|BODY_4|0
+the basis|DT NN|BODY_2|0
+focus objects|NN NNS|BODY_5|0
+this sense|DT NN|BODY_4|0
+figure 11|NN CD|BODY_8|0
+i d|FW VBD|BODY_9|0
+that claims|WDT NNS|BODY_9|0
+restricted classes|JJ NNS|BODY_5|0
+natural interpretations|JJ NNS|BODY_5|0
+the implications|DT NNS|BODY_2|0
+ equations|JJ NNS|BODY_2|0
+an operator|DT NN|BODY_3|0
+a fragment|DT NN|BODY_4|0
+various theories|JJ NNS|BODY_8|0
+0 true|CD JJ|BODY_27|0
+its impact|PRP$ NN|BODY_5|0
+c suffices|NN NNS|BODY_6|0
+finite sets|JJ NNS|BODY_29|0
+'s intent|POS NN|BODY_4|0
+that linearcontainer|DT NN|BODY_2|0
+a subgoal|DT NN|BODY_2|0
+their relation|PRP$ NN|BODY_6|0
+proof obligations|NN NNS|BODY_4|0
+automatic application|JJ NN|BODY_5|0
+the benefits|DT NNS|BODY_5|0
+whose proof|WP$ NN|BODY_6|0
+a tool|DT NN|BODY_5|0
+additional axioms|JJ NNS|BODY_3|0
+some cases|DT NNS|BODY_1|0
+particular subgoals|JJ NNS|BODY_5|0
+trait introduces|NN NN|BODY_1|0
+several approaches|JJ NNS|BODY_2|0
+such lemmas|JJ NNS|BODY_5|0
+immune equations|JJ NNS|BODY_3|0
+heuristic searches|JJ NNS|BODY_3|0
+each trait|DT NN|BODY_6|0
+two traits|CD NNS|BODY_3|0
+proof mechanisms|NN NNS|BODY_2|0
+erroneous claims|JJ NNS|BODY_2|0
+the flaws|DT NNS|BODY_8|0
+'s syntax|POS NN|BODY_2|0
+a counterexample|DT NN|BODY_4|0
+no assistance|DT NN|BODY_2|0
+that t|IN NN|BODY_44|0
+useful information|JJ NN|BODY_3|0
+these systems|DT NNS|BODY_1|0
+a lemma|DT NN|BODY_3|0
+t consists|NN VBZ|BODY_47|0
+certain aspects|JJ NNS|BODY_2|0
+some errors|DT NNS|BODY_2|0
+the logic|DT NN|BODY_2|0
+a lack|DT NN|BODY_5|0
+further guidance|JJ NN|BODY_2|0
+figure 4)|NN NNS|BODY_7|0
+first writing|JJ NN|BODY_4|0
+command obtains|NN NNS|BODY_2|0
+specification time|NN NN|BODY_4|0
+1 users|CD NNS|BODY_1|0
+our experience|PRP$ NN|BODY_1|0
+equations )|NNS -RRB-|BODY_16|0
+2 c.|CD NN|BODY_13|0
+these facilities|DT NNS|BODY_1|0
+a contradiction|DT NN|BODY_5|0
+the soundness|DT NN|BODY_1|0
+certifying consistency|JJ NN|BODY_3|0
+lp cannot|VB NN|BODY_1|0
+its search|PRP$ VB|BODY_11|0
+embedded quantifiers|JJ NNS|BODY_7|0
+andres modet|NNS NN|BODY_1|0
+the second|DT JJ|BODY_5|0
+the former|DT JJ|BODY_1|0
+two reasons|CD NNS|BODY_5|0
+emptyv [cd]|JJ NN|BODY_5|0
+the language|DT NN|BODY_8|0
+a sort|DT NN|BODY_33|0
+rewrites conjectures|VBZ NNS|BODY_8|0
+striking contrast|JJ NN|BODY_1|0
+natpriority queue|NN NN|BODY_10|0
+the one|DT NN|BODY_15|0
+) c|-RRB- NN|BODY_1|0
+communication mechanisms|NN NNS|BODY_1|0
+groups )|NNS -RRB-|BODY_13|0
+a generated|DT VBN|BODY_1|0
+introduction proponents|NN NNS|BODY_1|0
+program modules|NN NNS|BODY_8|0
+the susceptibility|DT NN|BODY_3|0
+this guidance|DT NN|BODY_1|0
+'s discretion|POS NN|BODY_5|0
+'s intentions|POS NNS|BODY_5|0
+that priorityqueue|RB JJ|BODY_1|0
+erroneous programs|JJ NNS|BODY_12|0
+what order|WP NN|BODY_6|0
+variables c|NNS NN|BODY_6|0
+further interaction|JJ NN|BODY_5|0
+addw.v 3|NN CD|BODY_6|0
+the inclusion|DT NN|BODY_1|0
+two mechanisms|CD NNS|BODY_2|0
+these actions|DT NNS|BODY_1|0
+the claims|DT NNS|BODY_1|0
+a program|DT NN|BODY_8|0
+more detail|JJR NN|BODY_4|0
+another trait|DT NN|BODY_7|0
+a reader|DT NN|BODY_9|0
+the hierarchy|DT NN|BODY_5|0
+these operators|DT NNS|BODY_4|0
+no problems|DT NNS|BODY_3|0
+the check|DT NN|BODY_1|0
+declarations sorts|NNS NNS|BODY_1|0
+these conditions|DT NNS|BODY_1|0
+attempted proofs|VBN NNS|BODY_4|0
+regression testing|NN NN|BODY_4|0
+both mechanisms|DT NNS|BODY_1|0
+these traits|DT NNS|BODY_16|0
+minute detail|JJ NN|BODY_6|0
+strategic decisions|JJ NNS|BODY_1|0
+this proof|DT NN|BODY_1|0
+other times|JJ NNS|BODY_1|0
+the sets|DT NNS|BODY_1|0
+other situations|JJ NNS|BODY_2|0
+equational traits|JJ NNS|BODY_1|0
+this not|DT RB|BODY_1|0
+peano arithmetic|NN NN|BODY_9|0
+normal forms|JJ NNS|BODY_7|0
+'s implications|POS NNS|BODY_4|0
+this axiom|DT NN|BODY_1|0
+user guidance|NN NN|BODY_1|0
+many heuristics|JJ NNS|BODY_3|0
+many points|JJ NNS|BODY_1|0
+the proposition|DT NN|BODY_7|0
+difficult proofs|JJ NNS|BODY_2|0
+lcf [15]|NN NN|BODY_1|0
+some methods|DT NNS|BODY_1|0
+figure 13|NN CD|BODY_1|0
+larger specifications|JJR NNS|BODY_1|0
+some specifications|DT NNS|BODY_1|0
+such claims|JJ NNS|BODY_10|0
+each method|DT NN|BODY_1|0
+figure 6|NN CD|BODY_1|0
+many respects|JJ NNS|BODY_1|0
+other formulas|JJ NNS|BODY_1|0
+t subgoals|RB NNS|BODY_3|0
+the others|DT NNS|BODY_5|0
+these obligations|DT NNS|BODY_9|0
+unsuccessful searches|JJ NNS|BODY_1|0
+totalorder|NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4|0
+local assertions|JJ NNS|BODY_1|0
+the formalization|DT NN|BODY_1|0
+completeness|NN|BODY_6:BODY_3:BODY_4|0

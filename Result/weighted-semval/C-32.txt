@@ -1,0 +1,221 @@
+buddycache|NN|BODY_6:BODY_5:TITLE_1:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_7:ABSTRACT_12:BODY_9|0
+we|PRP|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|1
+that|WDT|BODY_11:BODY_16:BODY_15:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_7:BODY_8:BODY_9|0
+they|PRP|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|2
+collaborative applications|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_3:ABSTRACT_1:BODY_8|1
+access|NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_15:BODY_13:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|1
+the presence|DT NN|BODY_11:BODY_5:ABSTRACT_5:BODY_3:BODY_4|0
+a shared work environment|DT VBN NN NN|ABSTRACT_2:BODY_2|1
+performance|NN|BODY_5:ABSTRACT_2:BODY_2:BODY_1:ABSTRACT_3|0
+time|NN|BODY_6:BODY_2:BODY_4:BODY_8:ABSTRACT_9|0
+a transactional caching protocol|DT JJ NN NN|ABSTRACT_4:BODY_3|0
+shared objects|VBN NNS|BODY_5:ABSTRACT_16:BODY_14:BODY_9|0
+40 to 80 milliseconds|CD TO CD NNS|ABSTRACT_7:BODY_7|0
+a buddycache prototype|DT NN NN|ABSTRACT_2:BODY_2:BODY_3|0
+up to 50 %|RB TO CD NN|BODY_11:ABSTRACT_13|0
+efficient access|JJ NN|BODY_5:ABSTRACT_4:BODY_2:BODY_4|0
+strong consistency|JJ NN|ABSTRACT_2:BODY_2:BODY_4:BODY_7|0
+the multiuser 007 benchmark|DT NN CD NN|ABSTRACT_4|0
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_11:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|2
+the server|DT NN|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+clients|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the redirector|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the client|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_4:BODY_7:BODY_8|0
+objects|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+a client|DT NN|BODY_12:BODY_6:BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+invalidations|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|3
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+pages|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+the servers|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+updates|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|1
+redirection|NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+a transaction|DT NN|BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_14:BODY_24:BODY_4:BODY_7:BODY_8|0
+the group|DT NN|BODY_6:BODY_11:BODY_13:BODY_23:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|1
+peer|NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_8:BODY_9|0
+an object|DT NN|BODY_11:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+the objects|DT NNS|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+the transaction|DT NN|BODY_12:BODY_6:BODY_5:BODY_15:BODY_2:BODY_4:BODY_7:BODY_9|0
+false sharing|JJ NN|BODY_5:BODY_3:BODY_10:BODY_7|1
+a server|DT NN|BODY_6:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|1
+one|CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the performance|DT NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4|1
+the cost|DT NN|BODY_6:BODY_2:BODY_1:BODY_10:BODY_4:BODY_7|0
+the overall time|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+peer update|NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_7|0
+the clients|DT NNS|BODY_5:BODY_15:BODY_2:BODY_3|0
+the page version number|DT NN NN NN|BODY_15:BODY_3:BODY_8|0
+this benefit|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|1
+page p|NN NN|BODY_6:BODY_17:BODY_3:BODY_8|0
+the time|DT NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4|0
+the client cache|DT NN NN|BODY_6:BODY_5:BODY_3:BODY_8|1
+each client|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|0
+]|SYM|BODY_2:BODY_3:BODY_4|2
+the version number|DT NN NN|BODY_6:BODY_1:BODY_4:BODY_10|0
+the buddycache|DT NN|BODY_2:BODY_1:BODY_3:BODY_10:BODY_8|0
+the base system|DT NN NN|BODY_6:BODY_11:BODY_1:BODY_4:BODY_7:BODY_8|0
+a group|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the performance benefits|DT NN NNS|BODY_6:BODY_2:BODY_3|0
+a page version number|DT NN NN NN|BODY_5:BODY_2:BODY_1|0
+the occ protocol|DT NN NN|BODY_2:BODY_1:BODY_4|1
+a page|DT NN|BODY_5:BODY_11:BODY_2:BODY_3:BODY_4|0
+servers|NNS|BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+aborts|NNS|BODY_2:BODY_7:BODY_9|1
+invalidation misses|NN NNS|BODY_6:BODY_2:BODY_14:BODY_3:BODY_7|0
+network|NN|BODY_12:BODY_6:BODY_5:BODY_4|0
+the benefits|DT NNS|BODY_4:BODY_8:BODY_9|1
+hierarchical callback-based coherence protocols|JJ JJ NN NNS|BODY_3|1
+some|DT|BODY_2:BODY_8:BODY_9|1
+cooperative web caching techniques|JJ NN NN NNS|BODY_1|1
+cold misses|JJ NNS|BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the experiments|DT NNS|BODY_5:BODY_11:BODY_1:BODY_2:BODY_7|0
+a cached page p|DT JJ NN NN|BODY_6:BODY_4:BODY_10|0
+redirector|NN|BODY_1:BODY_2:BODY_3|0
+up-to-date objects|JJ NNS|BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the peer|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+3 clients|CD NNS|BODY_6:BODY_13:BODY_3|0
+breakdown|NN|BODY_3|0
+update|NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the vcache|DT NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+consistent access|JJ NN|BODY_4:BODY_7:BODY_9|0
+server|NN|BODY_6:BODY_13:BODY_7:BODY_8|0
+the modified objects|DT VBN NNS|BODY_5:BODY_4:BODY_10|0
+the relative latency improvement|DT JJ NN NN|BODY_2|0
+the costs and benefits|DT NNS CC NNS|BODY_14:BODY_4|0
+this|DT|BODY_1:BODY_8|0
+) âˆ — l|-RRB- IN DT NN|BODY_11:BODY_4|0
+an invalidation|DT NN|BODY_6:BODY_11:BODY_13:BODY_1:BODY_20|0
+a system|DT NN|BODY_12:BODY_2:BODY_14:BODY_4|0
+a round-trip null request|DT NN JJ NN|BODY_6:BODY_5|0
+dahlin and lin [32|NN CC NN NN|BODY_2|0
+10 % 20 %|CD NN CD NN|BODY_3:BODY_9|0
+a transaction t|DT NN NN|BODY_3:BODY_4|0
+the measured improvement|DT JJ NN|BODY_3:BODY_7|0
+the multi-user 007 benchmark|DT NN CD NN|BODY_3|0
+this section|DT NN|BODY_2:BODY_1:BODY_7|0
+a fast local ethernet|DT JJ JJ NN|BODY_2|0
+the current hardware trend|DT JJ NN NN|BODY_2|0
+the single writer semantics|DT JJ NN NNS|BODY_2|0
+the request|DT NN|BODY_11:BODY_3:BODY_4|0
+track|NN|BODY_2:BODY_8|0
+significant 44-64 % improvement|JJ CD NN NN|BODY_5|0
+the five client group|DT CD NN NN|BODY_8|0
+the peer group|DT NN NN|BODY_5:BODY_4|0
+the dominant performance cost|DT JJ NN NN|BODY_16:BODY_7|0
+the collaborative group|DT JJ NN|BODY_5:BODY_4|0
+the network connection|DT NN NN|BODY_5:BODY_3|0
+a collaborative cad application|DT JJ NN NN|BODY_2|0
+issues|NNS|BODY_6:BODY_2:BODY_4|0
+the same commit cost|DT JJ JJ NN|BODY_3|0
+similar access latency improvements|JJ NN NN NNS|BODY_5|0
+a good test platform|DT JJ NN NN|BODY_4|0
+a single transaction|DT JJ NN|BODY_5:BODY_1:BODY_2|0
+a fast local network|DT JJ JJ NN|BODY_2|0
+a stable transaction log|DT JJ NN NN|BODY_4|0
+the entire performance benefit|DT JJ NN NN|BODY_4|0
+5.5 âˆ’alert helper 0.3|CD NN NN CD|BODY_2|0
+the version cache implementation|DT NN NN NN|BODY_2:BODY_4|0
+the results|DT NNS|BODY_6:BODY_5:BODY_1|0
+the private module size|DT JJ NN NN|BODY_3|0
+modified objects|VBN NNS|BODY_3:BODY_4:BODY_9|0
+the page version numbers|DT NN NN NNS|BODY_1:BODY_4|0
+uniformly a shared set|RB DT VBN NN|BODY_2|0
+update and invalidation protocols|NN CC NN NNS|BODY_3|0
+less than 0.1 ms|JJR IN CD NNS|BODY_2|0
+persistent object storage systems|JJ NN NN NNS|BODY_2|0
+q(y,9) ) ok( p(x,8)|NN -RRB- NN NN|BODY_9|0
+the main implementation issue|DT JJ NN NN|BODY_1|0
+the overall buddycache architecture|DT JJ NN NN|BODY_2|0
+local and wide-area computing|JJ CC JJ NN|BODY_4|0
+the system|DT NN|BODY_6:BODY_3:BODY_7|0
+the new data|DT JJ NNS|BODY_3:BODY_10:BODY_8:BODY_9|0
+the relative performance advantage|DT JJ NN NN|BODY_2|0
+transactional object storage systems|JJ NN NN NNS|BODY_2|0
+a sender-reliable coherence protocol|DT JJ NN NN|BODY_4|0
+the identifying page version|DT VBG NN NN|BODY_11|0
+q(y,9) ) com( p(x,6)|NN -RRB- NN NN|BODY_8|0
+-10 % 0 %|JJ NN CD NN|BODY_2|0
+the entire cached page|DT JJ JJ NN|BODY_5|0
+latency ( peerfetch )|RB -LRB- NN -RRB-|BODY_5|0
+a typical buddycache configuration|DT JJ NN NN|BODY_2:BODY_3|0
+separate channels and clients|JJ NNS CC NNS|BODY_2|0
+a bandwidth saving technique|DT JJ NN NN|BODY_2|0
+e .g|NN NN|BODY_5:BODY_3:BODY_7|0
+application specific methods e.g|NN JJ NNS JJ|BODY_2|0
+the server ( server|DT NN -LRB- NN|BODY_2|0
+a client invalidation miss|DT NN NN NN|BODY_2|0
+buddy and base relative|NN CC NN JJ|BODY_5|0
+( copy unswizzle )|-LRB- VB VB -RRB-|BODY_5|0
+)|-RRB-|BODY_13:BODY_3:BODY_10:BODY_7|0
+single threaded and therefore|JJ JJ CC RB|BODY_4|0
+3 ) tinval(bcr )|CD -RRB- NN -RRB-|BODY_4|0
+the simplified analytical model|DT JJ JJ NN|BODY_3|0
+p|NN|BODY_6:BODY_11:BODY_17:BODY_8|0
+1 ) tcold(bc )|CD -RRB- NN -RRB-|BODY_5|0
+a complete page p|DT JJ NN NN|BODY_5|0
+) inv( q(s ,11|-RRB- NN NN NN|BODY_12|0
+client caches|NN NNS|BODY_2:BODY_3|0
+repeated file fragment transfers|VBN NN NN NNS|BODY_3|0
+the clients and interact|DT NNS CC NN|BODY_2|0
+the solo commit protocol|DT NN JJ NN|BODY_2|0
+a multiple server system|DT JJ NN NN|BODY_2|0
+hierarchical avoidance-based coherence scheme|JJ JJ NN NN|BODY_3|0
+the avoided server interactions|DT VBN NN NNS|BODY_1|0
+the company home site|DT NN NN NN|BODY_3|0
+typical internet latencies buddycache|JJ JJ NNS NN|BODY_4|0
+an application running buddycache|DT NN VBG NN|BODY_6|0
+the help request arrival|DT NN NN NN|BODY_4|0
+the update or invalidation|DT NN CC NN|BODY_5|0
+a 39 % improvement|DT CD NN NN|BODY_5|0
+a single client cache|DT JJ NN NN|BODY_7|0
+multi-level web caching systems|JJ NN NN NNS|BODY_2|0
+a three client group|DT CD NN NN|BODY_6|0
+buddyreader and base relative|NN CC NN JJ|BODY_6|0
+the solo commit validation|DT NN JJ NN|BODY_4|0
+the buddy system configurations|DT NN NN NNS|BODY_2|0
+the cached object value|DT JJ NN NN|BODY_15|0
+the misses fetches p|DT NNS NNS NN|BODY_2|0
+an extra shared module|DT JJ VBN NN|BODY_6|0
+each committed object update|DT JJ NN NN|BODY_2|0
+the invariant v p.|DT JJ NN NN|BODY_2:BODY_4|0
+1 client 2 server|CD NN CD NN|BODY_4|0
+objects ( writer group|NNS -LRB- NN NN|BODY_4|0
+all the atomic parts|PDT DT JJ NNS|BODY_6|0
+the dominant performance component|DT JJ NN NN|BODY_4|0
+the committing client group|DT VBG NN NN|BODY_6:BODY_5:BODY_1|0
+the reader group|DT NN NN|BODY_6:BODY_2:BODY_4|0
+37 fine-grain strong-consistency access|CD NN NN NN|BODY_5|0
+transaction|NN|BODY_1:BODY_3:BODY_7|0
+commit reply processing time|JJ NN NN NN|BODY_9|0
+a regular peer cache|DT JJ NN NN|BODY_4|0
+new page version numbers|JJ NN NN NNS|BODY_2|0
+wide-area network environments|JJ NN NNS|BODY_2:BODY_4:BODY_7|0
+a collaborating peer group|DT NN NN NN|BODY_3|0
+the entire object system|DT JJ VBP NN|BODY_9|0
+consistent network storage systems|JJ NN NN NNS|BODY_3|0
+the collaborating client group|DT NN NN NN|BODY_2|0
+memory and storage capacity|NN CC NN NN|BODY_2|0
+a single server system|DT JJ NN NN|BODY_2|0
+a request redirection server|DT NN NN NN|BODY_2|0
+them|PRP|BODY_6:BODY_5:BODY_7:BODY_8|0
+a hot cache experiment|DT JJ NN NN|BODY_10|0
+a single private module|DT JJ JJ NN|BODY_4|0
+a particularly good match|DT RB JJ NN|BODY_2|0
+weak consistency storage system|JJ NN NN NN|BODY_2|0
+cooperative caching techniques|JJ NN NNS|BODY_3:BODY_4|0
+the buddycache architecture|DT NN NN|BODY_2|0
+an application|DT NN|BODY_5:BODY_1:BODY_4|0
+base|NN|BODY_5:BODY_1:BODY_4:BODY_7|0
+tinval(bcr ) and tinval(bcw|NN -RRB- CC NN|BODY_2|0
+a new version number|DT JJ NN NN|BODY_10|0
+the peer nodes|DT NN NNS|BODY_6:BODY_4|0
+only readers (bcr )|RB NNS JJ -RRB-|BODY_2|0
+the validation procedure checks|DT NN NN NNS|BODY_5|0
+a peer|DT NN|BODY_6:BODY_2:BODY_3:BODY_7|0
+the benefits and costs|DT NNS CC NNS|BODY_5|0
+the invariant v p|DT JJ NN NN|BODY_2|0
+a steady state execution|DT JJ NN NN|BODY_3|0
+complex project design documents|JJ NN NN NNS|BODY_3|0
+the hot cache performance|DT JJ NN NN|BODY_6|0
+15] ) investigate issues|CD -RRB- VB NNS|BODY_4|0
+multiple concurrent peer groups|JJ JJ NN NNS|BODY_3|0
+a 50 % probability|DT CD NN NN|BODY_5|0

@@ -1,0 +1,272 @@
+we|PRP|BODY_12:BODY_11:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_8:BODY_9|8
+that|WDT|BODY_6:BODY_5:BODY_22:BODY_2:BODY_3:BODY_10:BODY_4:ABSTRACT_7:BODY_7:BODY_9|2
+sensor nodes|NN NNS|BODY_6:BODY_5:BODY_15:BODY_3:BODY_10:BODY_4:ABSTRACT_7:BODY_7:BODY_8|1
+the sensor nodes|DT NN NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_15:BODY_23:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+this|DT|BODY_16:BODY_2:BODY_1:ABSTRACT_3:BODY_4|1
+localization|NN|BODY_5:BODY_21:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3|0
+nodes|NNS|BODY_5:BODY_2:ABSTRACT_3:BODY_7|0
+the wireless sensor nodes|DT JJ NN NNS|ABSTRACT_7|0
+a novel localization system|DT NN NN NN|ABSTRACT_4|0
+a sub-meter localization error|DT JJ NN NN|ABSTRACT_5|0
+real-time and embedded systems|NN CC JJ NNS|ABSTRACT_4|0
+less than $ 1000|JJR IN $ CD|ABSTRACT_8|0
+a 20cm localization error|DT JJ NN NN|ABSTRACT_4|0
+it|PRP|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|5
+which|WDT|BODY_6:BODY_5:BODY_17:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the spotlight device|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_9|2
+the spotlight system|DT NN NN|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|4
+events|NNS|BODY_12:BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9:BODY_20|0
+the system|DT NN|BODY_6:BODY_12:BODY_5:BODY_18:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4|1
+the localization error|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|2
+the network|DT NN|BODY_6:BODY_11:BODY_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the event|DT NN|BODY_6:BODY_5:BODY_16:BODY_17:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+an event|DT NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the range-based localization schemes|DT JJ NN NNS|BODY_6:BODY_2:BODY_7|1
+the localization cost function|DT NN NN NN|BODY_11:BODY_2|1
+time|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+the average localization error|DT NN NN NN|BODY_3:BODY_8|1
+many range-free localization schemes|JJ JJ NN NNS|BODY_2|1
+6.1 distributed spotlight system|CD VBN NN NN|BODY_2|1
+relatively large nonlinear systems|RB JJ JJ NNS|BODY_9|1
+small range and directionality|JJ NN CC NN|BODY_5|1
+a greedy placement method|DT JJ NN NN|BODY_3|1
+[14] [19] [20] [21]|NNP NNP NNP NNP|BODY_4|1
+important ( e .g|JJ -LRB- NN NN|BODY_6|1
+the proposed greedy placement|DT VBN JJ NN|BODY_7|1
+the localization function l(t|DT NN NN NN|BODY_9|1
+the presence and location|DT NN CC NN|BODY_11|1
+several error correction schemes|JJ NN NN NNS|BODY_1|1
+the scanning speed|DT NN NN|BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_7|0
+the point scan|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3|1
+( e .g|-LRB- NN NN|BODY_2:BODY_7:BODY_9|1
+the area cover edf|DT NN NN NN|BODY_2:BODY_1:BODY_3:BODY_19|0
+event size|NN NN|BODY_2|2
+the line scan edf|DT NN NN VBD|BODY_5:BODY_3:BODY_4:BODY_8|0
+the event distribution function|DT NN NN NN|BODY_5:BODY_1:BODY_3:BODY_10|0
+the line scan|DT NN NN|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4|0
+the point scan edf|DT NN NN VBD|BODY_5:BODY_2:BODY_3:BODY_7|0
+the time sequence ti|DT NN NN NNS|BODY_5:BODY_3:BODY_4|0
+the time|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|0
+i .e|IN NN|BODY_11:BODY_2:BODY_7:BODY_8:BODY_9|1
+a cdse photo sensor|DT NN NN NN|BODY_2|0
+the entire sensor field|DT JJ NN NN|BODY_11:BODY_4|0
+an event distribution function|DT NN NN NN|BODY_6:BODY_5|0
+edf ) e(t )|NN -RRB- NN -RRB-|BODY_6|0
+the area cover technique|DT NN NN NN|BODY_2:BODY_3|0
+the greedy placement method|DT JJ NN NN|BODY_6:BODY_4|0
+the area cover scheme|DT NN NN NN|BODY_6:BODY_9|0
+the 3-tuple ( alti|DT JJ -LRB- NN|BODY_2|0
+the reference rssi values|DT NN NN NNS|BODY_3|0
+< nn ee ttt|IN JJ NN NN|BODY_3|0
+the sensor node density|DT NN NN NN|BODY_4|0
+the least accurate method|DT JJS JJ NN|BODY_7|0
+scheme ( extended golay|NN -LRB- VBN NN|BODY_6|0
+10 ) equation 10|CD -RRB- NN CD|BODY_7|0
+the sender and receiver|DT NN CC NN|BODY_6|0
+less than 2 meters|JJR IN CD NNS|BODY_5|0
+an incorrect event detection|DT JJ NN NN|BODY_7|0
+a fundamental research problem|DT JJ NN NN|BODY_2|0
+the mean localization errors|DT JJ NN NNS|BODY_2|0
+our event detection algorithm|PRP$ NN NN NN|BODY_2|0
+the spotlight localization system|DT NN NN NN|BODY_1:BODY_3|0
+the most notable ones|DT RBS JJ NNS|BODY_2|0
+any three beacon nodes|DT CD NN NNS|BODY_10|0
+a similar toa technique|DT JJ NN NN|BODY_1|0
+the localization duration results|DT NN NN NNS|BODY_1|0
+the recorded time stamps|DT VBN NN NNS|BODY_2|0
+wireless sensor networks ranging|JJ NN NNS VBG|BODY_1|0
+a unique binary identifier|DT JJ JJ NN|BODY_6|0
+the event detection function|DT NN NN NN|BODY_2|0
+the one trip delays|DT CD NN NNS|BODY_12|0
+the photo sensor dti|DT NN NN NNS|BODY_5|0
+a monotonically increasing function|DT RB VBG NN|BODY_3|0
+the point scan method|DT NN NN NN|BODY_5:BODY_8|0
+( ( | )|-LRB- -LRB- NN -RRB-|BODY_13|0
+high resolution time synchronization|JJ NN NN NN|BODY_6|0
+the two 12bit scenarios|DT CD JJ NNS|BODY_7|0
+as little as 2cm|RB JJ RB JJ|BODY_5|0
+the line scan technique|DT NN JJ NN|BODY_2|0
+a typical high-end solution|DT JJ JJ NN|BODY_3|0
+both t2 and t3|DT NN CC NNS|BODY_13|0
+the correct bit pattern|DT JJ NN NN|BODY_6|0
+the execution cost comparison|DT NN NN NN|BODY_2|0
+an ibm thinkpad laptop|DT NN NN NN|BODY_8|0
+data ( e .g|NNS -LRB- NN NN|BODY_5|0
+( ( itttiffalsetkbit âˆ’âˆˆ|-LRB- -LRB- NN NN|BODY_14|0
+the obtained localization error|DT VBN NN NN|BODY_4|0
+20 times more robust|CD NNS JJR JJ|BODY_5|0
+a relatively small error|DT RB JJ NN|BODY_5|0
+a narrow-band optical filter|DT JJ JJ NN|BODY_4|0
+the spotlight system design|DT NN NN NN|BODY_3|0
+the hamming scheme (|DT VBG NN -LRB-|BODY_6|0
+3 error control bits|CD NN NN NNS|BODY_10|0
+1 2 logrd event|CD CD NN NN|BODY_5|0
+the full-screen exclusive mode|DT JJ JJ NN|BODY_7|0
+the second spotlight system|DT JJ NN NN|BODY_2|0
+a spotlight localization system|DT NN NN NN|BODY_3|0
+the golay scheme (|DT JJ NN -LRB-|BODY_10|0
+the maximum localization duration|DT NN NN NN|BODY_9|0
+(( ) ( ||NN -RRB- -LRB- NN|BODY_11|0
+the maximum localization error|DT NN NN NN|BODY_7|0
+a single spotlight device|DT JJ NN NN|BODY_2:BODY_3|0
+our code placement strategy|PRP$ NN NN NN|BODY_2|0
+the appropriate direction )|DT JJ NN -RRB-|BODY_7|0
+the two event lines|DT CD NN NNS|BODY_7|0
+âš‚ } { stpappte|JJ JJ NN NN|BODY_2|0
+35mw 7mw figure 29|JJ JJ NN CD|BODY_2|0
+35mw 7mw figure 30|JJ JJ NN CD|BODY_2|0
+a binary detection algorithm|DT JJ NN NN|BODY_3|0
+the hamming coding scheme|DT VBG NN NN|BODY_1|0
+a nonlinear dynamic system|DT JJ JJ NN|BODY_5|0
+} â† ’ [0,1]|IN NN NN NN|BODY_18|0
+using specialized ranging hardware|VBG JJ VBG NN|BODY_5|0
+the total euclidean distance|DT JJ JJ NN|BODY_3|0
+the measured localization error|DT VBN NN NN|BODY_2|0
+a 2 byte exchange|DT CD NN NN|BODY_2|0
+a data bit )|DT NNS NN -RRB-|BODY_8|0
+the time synchronization protocol|DT NN NN NN|BODY_8|0
+the only synchronized node|DT JJ VBN NN|BODY_4|0
+26 and 27 show|CD CC CD NN|BODY_2|0
+less accurate ranging solutions|RBR JJ VBG NNS|BODY_13|0
+a manually configurable parameter|DT RB JJ NN|BODY_4|0
+a very good knowledge|DT RB JJ NN|BODY_11|0
+a large event size|DT JJ NN NN|BODY_5|0
+3 rigid-body rotation parameters|CD JJ NN NNS|BODY_6|0
+} { trueptedappte =âˆ§âˆˆ|NN NN NN NN|BODY_11|0
+( ) { ks|-LRB- -RRB- NN NNS|BODY_5|0
+an event ( lit|DT NN -LRB- NN|BODY_6|0
+a point scan edf|DT NN NN NN|BODY_7|0
+the sensor network field|DT NN NN NN|BODY_11|0
+the î¼spotlight system evaluation|DT NN NN NN|BODY_5|0
+âš‚ âž© âž¨ âž§|JJ JJ NN NN|BODY_3|0
+a light spot event|DT NN NN NN|BODY_12|0
+the point scan scheme|DT NN NN NN|BODY_2|0
+the following research challenge|DT VBG NN NN|BODY_4|0
+a much longer distance|DT JJ JJR NN|BODY_6|0
+their locations and times|PRP$ NNS CC NNS|BODY_8|0
+the observed localization error|DT JJ NN NN|BODY_2|0
+figure 3( b )|NN JJ NN -RRB-|BODY_2:BODY_10|0
+a 1-bit error probability|DT JJ NN NN|BODY_3|0
+an angular estimation problem|DT JJ NN NN|BODY_3|0
+the corresponding localization algorithm|DT JJ NN NN|BODY_8|0
+small and medium size|JJ CC JJ NN|BODY_5|0
+no single aerial point|DT JJ JJ NN|BODY_5|0
+no error detection/correction capability|DT NN NN NN|BODY_5|0
+the average localization duration|DT JJ NN NN|BODY_2|0
+less than 45â° )|RBR IN CD -RRB-|BODY_4|0
+the two problematic scenarios|DT CD JJ NNS|BODY_3|0
+a timestamp set ti={ti1|DT NN VBN NNS|BODY_21|0
+the total localization time|DT JJ NN NN|BODY_4|0
+an event and record|DT NN CC NN|BODY_4|0
+a sensor node j|DT NN NN NN|BODY_3|0
+all three aforementioned techniques|DT CD JJ NNS|BODY_4|0
+the smallest observed bias|DT JJS JJ NN|BODY_3|0
+the line scan scenario|DT NN NN NN|BODY_2|0
+the radio propagation characteristics|DT NN NN NNS|BODY_2|0
+the 15 sensor nodes|DT CD NN NNS|BODY_2|0
+a time sequence ti|DT NN NN NNS|BODY_4|0
+a simple sensor system|DT JJ NN NN|BODY_5|0
+a more accurate localization|DT RBR JJ NN|BODY_4|0
+the most accurate positioning|DT RBS JJ NN|BODY_4|0
+a much longer time|DT RB JJR NN|BODY_2|0
+a unique code k|DT JJ NN NN|BODY_2:BODY_3|0
+the line scan event|DT NN JJ NN|BODY_3|0
+each turning point i|DT VBG NN NN|BODY_1|0
+the same mote code|DT JJ NN NN|BODY_1|0
+up to 70 %|RB TO CD NN|BODY_4|0
+wireless sensor network technologies|JJ NN NN NNS|BODY_3|0
+a powerful spotlight device|DT JJ NN NN|BODY_19|0
+the highest localization time|DT JJS NN NN|BODY_4|0
+14 spatially large events|CD RB JJ NNS|BODY_21|0
+an average 23 %|DT JJ CD NN|BODY_9|0
+the radio connectivity information|DT NN NN NN|BODY_5|0
+a over a period|DT RP DT NN|BODY_8|0
+the less powerful laser|DT RBR JJ NN|BODY_2|0
+the two location directions|DT CD NN NNS|BODY_5|0
+only a minor decrease|RB DT JJ NN|BODY_5|0
+the line scan method|DT NN NN NN|BODY_2:BODY_1|0
+the self-calibration and self-tuning|DT NN CC NN|BODY_3|0
+the spotlight system evaluation|DT NN NN NN|BODY_3|0
+its local time t4|PRP$ JJ NN NNS|BODY_3|0
+wireless sensor network systems|JJ NN NN NNS|BODY_1|0
+a long effective range|DT JJ JJ NN|BODY_2|0
+the first large detection|DT JJ JJ NN|BODY_15|0
+different code placement strategies|JJ NN NN NNS|BODY_1|0
+the relative localization (|DT JJ NN -LRB-|BODY_1|0
+the message propagation time|DT NN NN NN|BODY_2|0
+a much longer range|DT JJ JJR NN|BODY_3|0
+a time synchronization protocol|DT NN NN NN|BODY_5|0
+a sensor node i|DT NN NN NN|BODY_4|0
+a full point scan|DT JJ NN NN|BODY_7|0
+the smaller localization duration|DT JJR NN NN|BODY_3|0
+each sensor node )|DT NN NN -RRB-|BODY_6|0
+the point scan technique|DT NN NN NN|BODY_4|0
+a given event e|DT VBN NN NN|BODY_1|0
+high precision angular measurements|JJ NN NN NNS|BODY_5|0
+the stringent timing requirements|DT JJ NN NNS|BODY_1|0
+our greedy placement method|PRP$ JJ NN NN|BODY_7|0
+a large localization error|DT JJ NN NN|BODY_7|0
+the two localization classes|DT CD NN NNS|BODY_4|0
+the light 24 sensor|DT JJ CD NN|BODY_12|0
+the performance evaluation results|DT NN NN NNS|BODY_1|0
+the cricket location-support system|DT NN NN NN|BODY_1|0
+the high localization accuracy|DT JJ NN NN|BODY_1|0
+a parity bit )|DT NN NN -RRB-|BODY_13|0
+the resulting localization function|DT VBG NN NN|BODY_1|0
+a complete localization procedure|DT JJ NN NN|BODY_11|0
+its proximate beacon nodes|PRP$ JJ NN NNS|BODY_9|0
+( 3 ) figure|-LRB- CD -RRB- NN|BODY_26|0
+short range ultrasound transceivers|JJ NN NN NNS|BODY_5|0
+the same simple formulas|DT JJ JJ NNS|BODY_1|0
+the sensor network topology|DT NN NN NN|BODY_6|0
+the 50hz refresh rate|DT CD JJ NN|BODY_1|0
+an unmanned aerial vehicle|DT JJ JJ NN|BODY_9|0
+the reported localization errors|DT VBN NN NNS|BODY_1|0
+the first large signal|DT JJ JJ NN|BODY_21|0
+the range-free localizations schemes|DT JJ NNS NNS|BODY_5|0
+subsequent area cover scans|JJ NN NN NNS|BODY_1|0
+line and area events|NN CC NN NNS|BODY_5|0
+our location estimation algorithm|PRP$ NN NN NN|BODY_4|0
+the observed maximum value|DT VBN NN NN|BODY_3|0
+their longer communication range|PRP$ JJR NN NN|BODY_4|0
+more general localization techniques|JJR JJ NN NNS|BODY_6|0
+the î¼spotlight system implementation|DT NN NN NN|BODY_7|0
+a less accurate localization|DT RBR JJ NN|BODY_5|0
+ei the localization error|FW DT NN NN|BODY_1|0
+range finder or ultrasound|NN NN CC NN|BODY_7|0
+the more powerful laser|DT RBR JJ NN|BODY_1|0
+( d2 *n/2 )|-LRB- JJ NN -RRB-|BODY_7|0
+the average hop distance|DT JJ NN NN|BODY_6|0
+the entire deployment area|DT JJ NN NN|BODY_4|0
+a strong background noise|DT JJ NN NN|BODY_7|0
+the event size changes|DT NN NN NNS|BODY_9|0
+= {1 , 3}|SYM CD , CD|BODY_6|0
+the spotlight system possesses|DT NN NN NNS|BODY_10|0
+the two angular measures|DT CD JJ NNS|BODY_1|0
+a 2dimensional grid )|DT JJ NN -RRB-|BODY_14|0
+its local time t2|PRP$ JJ NN NN|BODY_10|0
+the other two functions|DT JJ CD NNS|BODY_5|0
+the entire area )|DT JJ NN -RRB-|BODY_5|0
+22 5.4 point scan|CD CD NN NN|BODY_1|0
+events smaller and larger|NNS JJR CC JJR|BODY_1|0
+a feasible option [31]|DT JJ NN NNS|BODY_11|0
+a very desirable objective|DT RB JJ NN|BODY_4|0
+the cost function dependency|DT NN NN NN|BODY_1|0
+the point scan experiment|DT NN NN NN|BODY_5|0
+more sophisticated calibration procedures|RBR JJ NN NNS|BODY_1|0
+the area cover|DT NN NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+s|PRP|BODY_12:BODY_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8|0
+there|EX|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the localization duration|DT NN NN|BODY_22:BODY_1:BODY_2:BODY_4|0
+the telescope mount|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+all sensor nodes|DT NN NNS|BODY_6:BODY_3:BODY_8|0
+the localization function|DT NN NN|BODY_18:BODY_2:BODY_1:BODY_10|0
+the use|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+the laser beam|DT NN NN|BODY_5:BODY_2:BODY_4:BODY_9|0
+bits|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+an event size|DT NN NN|BODY_5:BODY_2:BODY_3|0
+the sensor node|DT NN NN|BODY_13:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+the photo sensor|DT NN NN|BODY_2:BODY_10:BODY_4|0
+.e|NN|BODY_6:BODY_2:BODY_3:BODY_19:BODY_7:BODY_8|0
+the event size|DT NN NN|BODY_2:BODY_4:BODY_8|0
+the sensor network|DT NN NN|BODY_6:BODY_5:BODY_7|0

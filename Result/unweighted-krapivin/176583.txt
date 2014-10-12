@@ -1,0 +1,1711 @@
+we|PRP|BODY_18:BODY_2:BODY_24:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|2
+the model|DT NN|BODY_12:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_12:BODY_6:BODY_11:BODY_5:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_12:BODY_15:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_10:BODY_7:BODY_8|0
+it|PRP|BODY_6:BODY_5:BODY_21:BODY_1:ABSTRACT_3:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+shapes|NNS|BODY_6:BODY_5:ABSTRACT_8:BODY_2:BODY_3:ABSTRACT_7:BODY_7:BODY_8|0
+the wavelet basis|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+the stiffness matrix|DT NN NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_9|0
+us|PRP|BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4|0
+fractals|NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|0
+.e|NN|BODY_12:BODY_5:BODY_4:BODY_8:BODY_9|0
+wavelet basis|NN NN|BODY_6:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|0
+there|EX|BODY_5:BODY_1:BODY_2:BODY_3|0
+this|DT|BODY_2:BODY_1:ABSTRACT_1:BODY_4|0
+the number|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a slice|DT NN|BODY_12:BODY_11:BODY_17:BODY_3:BODY_7|0
+they|PRP|BODY_11:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_9|0
+those|DT|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_8:BODY_3:BODY_4:BODY_8|0
+a )|DT -RRB-|BODY_5:BODY_2:BODY_4|0
+interest|NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_3:BODY_8|0
+[42]|NNP|BODY_6:BODY_31:BODY_11:BODY_2:BODY_4:BODY_7|0
+( b|-LRB- NN|BODY_6:BODY_11:BODY_1:BODY_14:BODY_8|0
+our modeling scheme|PRP$ JJ NN|ABSTRACT_2:BODY_2:BODY_3:BODY_8|0
+the modeling scheme|DT JJ NN|BODY_2:BODY_1:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+the use|DT NN|BODY_2:BODY_3:BODY_4|0
+k|NN|BODY_2:BODY_3:BODY_10:BODY_8|0
+s|PRP|BODY_2:BODY_3:BODY_4:BODY_7|1
+the superquadric|DT NN|BODY_12:BODY_2:BODY_3:BODY_4|0
+the prior model|DT JJ NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+a smooth transition|DT JJ NN|BODY_6:BODY_13:ABSTRACT_2:BODY_2:BODY_4|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3|0
+parameters|NNS|BODY_5:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+)|-RRB-|BODY_5:BODY_2:BODY_4:BODY_9|0
+coefficients|NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+wavelet coefficients|NN NNS|BODY_5:BODY_2:BODY_4:BODY_8|1
+addition|NN|BODY_5:BODY_1:BODY_3|0
+a function|DT NN|BODY_5:BODY_15:BODY_2:BODY_8:BODY_9|0
+the gibbs distribution|DT NNS NN|BODY_2:BODY_4|0
+fractal surfaces|JJ NNS|BODY_11:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+(|-LRB-|BODY_5:BODY_7:BODY_9|0
+computer graphics|NN NNS|BODY_6:BODY_1:ABSTRACT_3:BODY_3|0
+0|CD|BODY_5:BODY_14:BODY_8|0
+the statistics|DT NNS|BODY_6:BODY_13:BODY_2:BODY_3:BODY_7|0
+the wt|DT NN|BODY_2:BODY_3:BODY_4|0
+the diagonal entries|DT JJ NNS|BODY_12:BODY_5:BODY_9|0
+global deformations|JJ NNS|BODY_2:BODY_3:BODY_4|0
+data|NNS|BODY_11:BODY_2:BODY_9|1
+the function|DT NN|BODY_6:BODY_11:BODY_2:BODY_4|0
+our prior model|PRP$ JJ NN|BODY_6:BODY_2:BODY_7:BODY_9|0
+supervised learning|JJ NN|BODY_6:BODY_2:BODY_3|0
+the global shape|DT JJ NN|BODY_11:BODY_2:BODY_3|0
+et|NNP|BODY_2:BODY_3|0
+q|NN|BODY_11:BODY_4:BODY_7|0
+the range|DT NN|BODY_3:BODY_4:BODY_8|0
+a wavelet basis|DT NN NN|BODY_5:BODY_3|0
+the stiffness matrix k|DT NN NN NN|BODY_10:BODY_4:BODY_7|0
+local|JJ|BODY_6:BODY_5:ABSTRACT_4:BODY_3:ABSTRACT_7:BODY_7|0
+the spectrum|DT NN|BODY_5:BODY_3:BODY_7|0
+objects|NNS|BODY_6:BODY_3:BODY_7|0
+the 1d case|DT JJ NN|BODY_11:BODY_17:BODY_3|0
+these shapes|DT NNS|BODY_5:BODY_3|0
+them|PRP|ABSTRACT_4:BODY_4:BODY_10:BODY_7|0
+the construction|DT NN|BODY_6:BODY_5:BODY_1:BODY_3|0
+multi-resolution approximations|NN NNS|BODY_2|0
+this prior model|DT JJ NN|BODY_3:BODY_4:BODY_7|0
+one|PRP|BODY_1:BODY_2:BODY_3|0
+q dg|NN NN|BODY_5:BODY_3:BODY_4:BODY_9|0
+recovery|NN|ABSTRACT_5:BODY_3:BODY_8|0
+the data|DT NNS|BODY_6:BODY_5:BODY_1:BODY_7|0
+shape modeling|NN NN|BODY_6:BODY_2:BODY_3|0
+the parameters|DT NNS|BODY_5:ABSTRACT_8:BODY_2|0
+prior information|JJ NN|BODY_11:BODY_5:BODY_3:BODY_9|0
+the rest state|DT NN NN|BODY_12:BODY_5:BODY_3:BODY_7|0
+a blend|DT NN|BODY_10:BODY_8|0
+the deformable superquadrics|DT JJ NNS|BODY_2:BODY_3|0
+bottom|NN|BODY_5:BODY_2|0
+potential|JJ|BODY_4|0
+the geometry|DT NN|BODY_6:BODY_5:BODY_2:BODY_9|0
+a probabilistic framework|DT JJ NN|BODY_6:BODY_5:BODY_1:ABSTRACT_3|0
+the vector|DT NN|BODY_5:BODY_3:BODY_4|0
+lumped parameter models|VBN NN NNS|BODY_5:BODY_2:BODY_1|0
+the model fitting process|DT NN JJ NN|BODY_12:BODY_2:BODY_3:BODY_4|0
+statistics|NNS|BODY_6:BODY_3:BODY_4|0
+statistical mechanics|JJ NNS|BODY_12:BODY_6|0
+sensed data|VBN NNS|BODY_13:BODY_2:BODY_8|0
+each iteration|DT NN|BODY_1:BODY_2:BODY_3|0
+some|DT|BODY_1:ABSTRACT_3:BODY_3|0
+use|NN|BODY_6:BODY_3|0
+samples|NNS|BODY_3:BODY_9|0
+the uncertainty|DT NN|BODY_6:BODY_3|0
+the wavelet|DT NN|BODY_2:BODY_4|0
+the shape|DT NN|BODY_5:BODY_4:ABSTRACT_9|0
+a gyrus|DT NN|BODY_3:BODY_4:BODY_8|0
+w j+1|JJ NNS|BODY_6:BODY_5:BODY_4|0
+( b ) representative sample|-LRB- NN -RRB- NN NN|BODY_5:BODY_4|0
+functions|NNS|BODY_5:BODY_2:BODY_10|0
+the multi-resolution approximation|DT NN NN|BODY_5:BODY_1:BODY_9|0
+each component|DT NN|BODY_16:BODY_10|0
+( d|-LRB- NN|BODY_12:BODY_21:BODY_1|0
+a small set|DT JJ NN|BODY_6:BODY_11:BODY_4|0
+figure 4|NN CD|BODY_6:BODY_5:BODY_9|0
+nodal basis|JJ NN|BODY_17:BODY_2|0
+computer vision|NN NN|BODY_5:ABSTRACT_4:BODY_1|0
+the problem|DT NN|BODY_1:BODY_7:BODY_8|0
+the power|DT NN|ABSTRACT_2:BODY_2:BODY_1|0
+the solution|DT NN|BODY_3:BODY_4:BODY_7|0
+a resolution j|DT NN NN|BODY_7:BODY_20|0
+fi|NN|BODY_2:BODY_4|0
+our goal|PRP$ NN|BODY_3:BODY_4|0
+a vector|DT NN|BODY_4:BODY_8:BODY_9|0
+spring energy|NN NN|BODY_6:BODY_15|0
+elements|NNS|BODY_1:BODY_14:BODY_4|0
+a gibbs distribution|DT JJ NN|BODY_4|0
+a model|DT NN|BODY_3|0
+a gibbsian probability distribution|DT JJ NN NN|BODY_2|0
+the dimension|DT NN|BODY_2|0
+the multiresolution solution|DT NN NN|BODY_2|0
+surfaces|NNS|BODY_2:BODY_4|0
+the context|DT NN|BODY_5:BODY_3|0
+4|CD|BODY_5:BODY_7|0
+the surface reconstruction problem|DT NN NN NN|BODY_6:BODY_4|0
+\phi|NNS|BODY_8:BODY_9|0
+the surface|DT NN|BODY_5:BODY_2:BODY_19|0
+previous sections|JJ NNS|BODY_6:BODY_4|0
+1 d|CD NN|BODY_2:BODY_3|0
+the basis functions|DT NN NNS|BODY_4:BODY_7|0
+shape recovery|NN NN|BODY_6:BODY_1|0
+view|NN|BODY_2:BODY_3|0
+k 1|NN CD|BODY_15:BODY_8|0
+the same results|DT JJ NNS|BODY_3:BODY_7|0
+the vector q|DT NN NN|BODY_6:BODY_10:BODY_7|1
+the finite element spaces|DT NN NN NNS|BODY_11:BODY_7|0
+note|NN|BODY_1|0
+the expense|DT NN|BODY_5:BODY_9|0
+the operational phase|DT JJ NN|BODY_4|0
+superquadric parameters|JJ NNS|BODY_5:BODY_4|0
+one column|NN NN|BODY_4|0
+corresponds|NNS|BODY_5:BODY_14|0
+grid lines|NN NNS|BODY_3:BODY_7|0
+the augmented global parameters|DT JJ JJ NNS|BODY_5:BODY_4|0
+the deformable superquadric|DT JJ JJ|BODY_12:ABSTRACT_3:BODY_3:BODY_20|0
+practice|NN|BODY_3|0
+side|NN|BODY_5:BODY_4|0
+energy|NN|BODY_15:BODY_7|0
+a larger class|DT JJR NN|BODY_2:BODY_4:BODY_7|0
+a random sample|DT JJ NN|BODY_1:BODY_3|0
+the mri data|DT NN NNS|BODY_5:BODY_7|0
+equation|NN|BODY_5:BODY_4|0
+an orthonormal wavelet basis|DT JJ NN NN|ABSTRACT_4:BODY_2:BODY_4:BODY_9|0
+the displacement vector q|DT NN NN NN|BODY_6:BODY_8|0
+figure 5|NN CD|BODY_1:BODY_4|0
+q d|NN NN|BODY_2:BODY_9|0
+a hippocampus|DT NN|BODY_3:BODY_8|0
+few parameters|JJ NNS|BODY_1:BODY_2|0
+the dynamic shape modeling paradigm|DT JJ NN NN NN|BODY_2:BODY_3|0
+the derivation|DT NN|BODY_5:BODY_3|0
+a wavelet|DT NN|BODY_4:BODY_7|0
+the internal energy|DT JJ NN|BODY_1:BODY_3|0
+the model fitting problem|DT NN JJ NN|BODY_6:BODY_3:BODY_8|0
+the model )|DT NN -RRB-|BODY_5:BODY_10|0
+the energy|DT NN|BODY_2:BODY_19|0
+the equation|DT NN|BODY_6:BODY_21|0
+this solution|DT NN|BODY_6:BODY_3|0
+nodes|NNS|BODY_2:BODY_9|0
+simplicity|NN|BODY_2:BODY_1|0
+the shapes|DT NNS|BODY_1:BODY_2|0
+these models|DT NNS|BODY_1:BODY_2|0
+zeros|NNS|BODY_5:BODY_2|0
+the posterior distribution|DT JJ NN|BODY_5:BODY_4|0
+the original data|DT JJ NNS|BODY_15:BODY_20|0
+an elevation map|DT NN NN|BODY_11:BODY_13|0
+the one|DT CD|BODY_13:BODY_30|0
+the object|DT NN|BODY_3:BODY_7|0
+u|NN|BODY_11:BODY_13|0
+2|CD|BODY_3:BODY_7|0
+information|NN|BODY_4:BODY_7|0
+global models|JJ NNS|ABSTRACT_5:BODY_3|0
+a power|DT NN|BODY_6:BODY_11|0
+c|NN|BODY_16:BODY_2|0
+the condition number|DT NN NN|BODY_12:BODY_2|0
+the convergence|DT NN|BODY_1:BODY_3|0
+the natural basis|DT JJ NN|BODY_3:BODY_8|0
+a rational function|DT JJ NN|BODY_5:BODY_4|0
+a probability distribution|DT NN NN|BODY_5:BODY_15|0
+a subsequent section|DT JJ NN|BODY_3:BODY_4:BODY_7|0
+data compression|NNS NN|BODY_2|0
+storage|NN|BODY_4|0
+the graphics [31|DT NNS NNS|BODY_2|0
+vision literature [6|NN NN NNS|BODY_4|0
+the boundary|DT NN|BODY_3:BODY_9|0
+global parameters|JJ NNS|BODY_12:BODY_5|0
+their work|PRP$ NN|BODY_1:BODY_3|0
+what|WP|BODY_1:BODY_4|0
+externally applied forces|RB VBN NNS|BODY_5:BODY_2|0
+the possible shapes|DT JJ NNS|BODY_14:BODY_7|0
+our model|PRP$ NN|BODY_6:BODY_2:BODY_1|0
+a training process|DT NN NN|BODY_5:BODY_2|0
+terms|NNS|BODY_3:ABSTRACT_7|0
+a bilinear interpolation|DT JJ NN|BODY_2|0
+implementation|NN|BODY_2|0
+multi-class case|JJ NN|BODY_2|0
+multiple prior distributions p j ( q )|JJ JJ NNS NN NN -LRB- NN -RRB-|BODY_3|0
+point samples|NN NNS|BODY_3|0
+the parameter clustering technique|DT NN NN NN|BODY_3|0
+the magnitude|DT NN|BODY_15:BODY_1|0
+the probability|DT NN|BODY_6:BODY_2|0
+stochastic fractals|JJ NNS|BODY_3:BODY_7|0
+the set|DT NN|BODY_3:BODY_7|0
+bajscy et|NNP NNP|BODY_5:BODY_8|0
+constrained fractals|JJ NNS|BODY_5:BODY_2|0
+the roi|DT NN|BODY_19:BODY_9|0
+this basis|DT NN|BODY_6:BODY_1|0
+the initialization|DT NN|BODY_1:BODY_2|0
+the fact|DT NN|BODY_6:ABSTRACT_2|0
+2-d case|JJ NN|BODY_2|0
+prior knowledge|JJ NN|BODY_2:BODY_4|0
+the original nodal discretization|DT JJ NN NN|BODY_5:BODY_2|0
+szeliski et|JJ NNP|BODY_1:BODY_3|0
+the brain|DT NN|BODY_6:BODY_7|0
+this parameter spectrum|DT NN NN|ABSTRACT_4|0
+the membrane spline|DT NN NN|BODY_2:BODY_8|0
+shape recognition|VB NN|BODY_1:BODY_3|0
+figure|NN|BODY_1:BODY_9|0
+u) )|NN -RRB-|BODY_2|0
+the reader|DT NN|BODY_5:BODY_4|0
+( c ) figure 8|-LRB- NN -RRB- NN CD|BODY_2|0
+( c ) resolution|-LRB- NN -RRB- NN|BODY_5|0
+43|CD|BODY_5|0
+continuity constraints|NN NNS|BODY_2|0
+detailed structure|VBN NN|BODY_2|0
+the possible assumptions|DT JJ NNS|BODY_5|0
+a ) nonuniform ( b ) uniform spacing|DT -RRB- NN -LRB- NN -RRB- NN NN|BODY_10|0
+a fractal brownian function|DT NN JJ NN|BODY_10|0
+a representative sample ( fractal surface )|DT JJ NN -LRB- JJ NN -RRB-|BODY_9|0
+bayesian learning [18]|JJ NN NN|BODY_2|0
+ds|NNS|BODY_2|0
+impairement|NN|BODY_7|0
+sensor surface|NN NN|BODY_7|0
+structures contributes|NNS NNS|BODY_2|0
+the analyzing sinusoid function (kernel )|DT NN JJ NN NN -RRB-|BODY_2|0
+the high-pass and low-pass filtering operations|DT JJ CC JJ VBG NNS|BODY_13|0
+the subspaces|DT NNS|BODY_2|0
+time support|NN NN|BODY_7|0
+d(u )|NN -RRB-|BODY_2|0
+the relaxation|DT NN|BODY_7|0
+the smoothing effects|DT JJ NNS|BODY_7|0
+a supervised learning procedure|DT JJ NN NN|BODY_6:BODY_2|0
+the parametrically deformable models|DT RB JJ NNS|BODY_6|0
+finite element discretization [44|JJ NN NN NN|BODY_15|0
+~ ~|JJ JJ|BODY_8:BODY_9|0
+filter x|NN SYM|BODY_13|0
+the orthonormal basis|DT JJ NN|BODY_11|0
+3 hh hh|CD JJ JJ|BODY_2|0
+anomalous behavior|JJ NN|BODY_2|0
+gibbs|NNS|BODY_17|0
+the closest point x|DT JJS NN NN|BODY_11|0
+this natural trade-off|DT JJ NN|BODY_8|0
+the advantage|DT NN|BODY_1:BODY_2|0
+this framework|DT NN|BODY_2|0
+a displacement d(u )|DT NN NN -RRB-|BODY_5|0
+the figures|DT NNS|BODY_8|0
+( d ) figure 7|-LRB- NN -RRB- NN CD|BODY_2|0
+summation overall possible states|NN JJ JJ NNS|BODY_4|0
+accumulating measurements|NN NNS|BODY_7|0
+the c matrix|DT NN NN|BODY_3|0
+the fractal characteristics|DT JJ NNS|BODY_6:BODY_2|0
+some examples|DT NNS|BODY_2:BODY_1|0
+the filterbank interpretation|DT NN NN|BODY_2|0
+arbitrary order|JJ NN|BODY_5:ABSTRACT_4:BODY_4|0
+our multiresolution hybrid models|PRP$ NN NN NNS|BODY_2|0
+the recovered 3d shape|DT VBN JJ NN|BODY_18:BODY_21|0
+the two extremes|DT CD NNS|BODY_2:ABSTRACT_3|0
+basis|NN|BODY_6:BODY_1|0
+a superquadric|DT JJ|BODY_2|0
+a continuum|DT NN|ABSTRACT_4:BODY_4|0
+result|NN|BODY_2|0
+! \gamma2|. NNP|BODY_7:BODY_8|0
+a few|DT JJ|BODY_2|0
+unsupervised learning|JJ NN|BODY_3:BODY_7|0
+either equation 34 or 35 with|DT NN CD CC CD IN|BODY_4|0
+equation 34 results|NN CD NNS|BODY_2|0
+turn|NN|BODY_2:BODY_8|0
+our work|PRP$ NN|BODY_5:BODY_1|0
+a surface fitting result|DT NN JJ NN|BODY_2|0
+the gyrus|DT NN|BODY_3|0
+physically-based ( deformable models|JJ -LRB- JJ NNS|BODY_2|0
+the flexibility|DT NN|BODY_2|0
+the superimposed membrane surface and inefficient use|DT JJ NN NN CC JJ NN|BODY_10|0
+forces|NNS|BODY_3:BODY_4|0
+the deformation energy|DT NN NN|BODY_2|0
+the recursive filtering|DT JJ NN|BODY_7|0
+3d shape recovery results|JJ NN NN NNS|BODY_2:BODY_7|0
+the interpolation functions|DT NN NNS|BODY_2|0
+the next lower resolution|DT JJ JJR NN|BODY_22|0
+detail|NN|BODY_2|0
+2-d|NNP|BODY_2|0
+high frequency components|JJ NN NNS|BODY_5|0
+a specific shape|DT JJ NN|BODY_2|0
+models|NNS|BODY_4|0
+generalized splines|JJ NNS|BODY_1:BODY_3|0
+the wavelet representation|DT NN NN|BODY_5|0
+the unique property|DT JJ NN|BODY_2|0
+stiffness matrix|NN NN|BODY_6:BODY_2|0
+the gyrus and hippocampus|DT NN CC NN|BODY_9|0
+equation 25|NN CD|BODY_32:BODY_4|0
+low contrast|JJ NN|BODY_6|0
+possible global deformations|JJ JJ NNS|BODY_2|0
+a bending deformation|DT VBG NN|BODY_4:BODY_8|0
+computing k 1 d|VBG NN CD NN|BODY_2|0
+derivatives|NNS|BODY_4|0
+the wt corresponds|DT NN NNS|BODY_2|0
+[33]|NNP|BODY_1:BODY_4|0
+fourier analysis|JJ NN|BODY_7|0
+global |JJ|BODY_2|0
+increasing resolution|VBG NN|BODY_14|0
+each slice|DT NN|BODY_4|0
+first order dynamics c|JJ NN NNS NN|BODY_34|0
+a superquadric parameter|DT JJ NN|BODY_5|0
+those corresponding|DT JJ|BODY_6|0
+columns rows|NNS NNS|BODY_2|0
+the membrane surface|DT NN NN|BODY_3:BODY_8|0
+more on migrating point|RBR IN JJ NN|BODY_7|0
+the orientation|DT NN|BODY_21|0
+the partition function|DT NN NN|BODY_10|0
+the stiffness|DT NN|BODY_8|0
+low contrast images|JJ NN NNS|BODY_2|0
+interaction and manipulation|NN CC NN|BODY_2|0
+a way|DT NN|BODY_5:BODY_3|0
+section 5|NN CD|BODY_6:BODY_1:BODY_3|1
+[40|CD|BODY_5|0
+the wavelet decomposition|DT NN NN|BODY_2|0
+two aspects|CD NNS|BODY_2|0
+parseval|NN|BODY_10|0
+the a posteriori amounts|DT DT JJ NNS|BODY_2|0
+the velocity dependent dissipation|DT NN JJ NN|BODY_2|0
+the only factor|DT JJ NN|BODY_2|0
+the minimum energy configuration|DT JJ NN NN|BODY_15|0
+the speed|DT NN|BODY_10|0
+the key focus|DT JJ NN|BODY_2|0
+our results|PRP$ NNS|BODY_5:BODY_2|0
+the paper|DT NN|BODY_2|0
+this wavelet-based representation|DT JJ NN|BODY_2|0
+points|NNS|BODY_3:BODY_9|0
+earlier sections|JJR NNS|BODY_4|0
+the above|DT JJ|BODY_2|0
+modeling shapes|JJ NNS|BODY_3|0
+global|JJ|BODY_2|0
+complementary techniques|JJ NNS|BODY_4|0
+general fractal degree splines|JJ JJ NN NNS|BODY_2|0
+( a )|-LRB- DT -RRB-|BODY_4|0
+fine model fitting|JJ NN VBG|BODY_3|0
+noisy data|JJ NNS|BODY_3|0
+only the weakest|RB DT JJS|BODY_4|0
+shape reconstruction [38|NN NN NNS|BODY_4|0
+the goals|DT NNS|BODY_3|0
+our multi-resolution wavelet|PRP$ JJ NN|BODY_2|0
+a representative sample|DT JJ NN|BODY_2|0
+prior and sensor models results|JJ CC NN NNS NNS|BODY_2|0
+a very large , sparse and banded matrix|DT RB JJ , JJ CC JJ NN|BODY_6|0
+wavelets basis|NNS NN|BODY_2|0
+3d data|JJ NNS|BODY_7|0
+a regularizer|DT NN|BODY_2|0
+coarser ) portion|NN -RRB- NN|BODY_11|0
+the same superquadric uniformly|DT JJ JJ NN|BODY_6|0
+incorporating|NN|BODY_2|0
+mri data|JJ NNS|BODY_6:ABSTRACT_8|0
+4 , 28 , 26 , 33 , 13 , 37|CD , CD , CD , CD , CD , CD|BODY_3|0
+hence savings|RB NNS|BODY_3|0
+the multiresolution wavelet representation|DT NN NN NN|BODY_5:BODY_3|0
+ed ( d|JJ -LRB- NN|BODY_5:BODY_3|0
+covariances|NNS|BODY_5|0
+dyslexia|NN|BODY_5|0
+fixed length|JJ NN|BODY_4|0
+the analyzing wavelet|DT NN NN|BODY_5|0
+training data samples prior model p( q|NN NNS NNS JJ NN NN NNS|BODY_4|0
+various neurological disorders|JJ JJ NNS|BODY_4|0
+one row|NN NN|BODY_6:BODY_1|0
+the white noise|DT JJ NN|BODY_7|0
+an ordinary differential equation|DT JJ JJ NN|BODY_4|0
+the membrane regularizer|DT NN NN|BODY_5:BODY_17|0
+the global parameters|DT JJ NNS|BODY_11:BODY_3|0
+deformable superquadrics|JJ NNS|BODY_1:BODY_2|0
+the scaling function oe|DT JJ NN NN|BODY_4|0
+tessalations|NNS|BODY_8|0
+another|DT|BODY_11|0
+a very different purpose|DT RB JJ NN|BODY_2|0
+relevant literature|JJ NN|BODY_6|0
+the bottom four shapes|DT JJ CD NNS|BODY_1:BODY_7|0
+the inverse power law|DT JJ NN NN|BODY_8|0
+the canonical positions|DT JJ NNS|BODY_2|0
+3d|JJ|BODY_6|0
+'s rule|POS NN|BODY_3:BODY_9|0
+a coarse level|DT JJ NN|BODY_5|0
+\gammafi|NN|BODY_6:BODY_15|0
+v )|NN -RRB-|BODY_3:BODY_10|0
+the coefficients|DT NNS|BODY_1:BODY_2|0
+'s ( mother wavelet |POS -LRB- NN NN|BODY_6|0
+an interval|DT NN|BODY_3|0
+specific language|JJ NN|BODY_6|0
+the global model|DT JJ NN|BODY_6|0
+these samples|DT NNS|BODY_3|0
+understanding|NN|BODY_3|0
+shape reconstruction and shape recognition|NN NN CC NN NN|BODY_6:BODY_7|0
+dilations and translations|NNS CC NNS|BODY_4|0
+boltzmann|NN|BODY_16|0
+the numerical stability|DT JJ NN|BODY_13|0
+the wavelet-based representation|DT NN NN|BODY_5:BODY_2|0
+a superquadric , (|DT JJ , -LRB-|BODY_9|0
+equation 36|NN CD|BODY_9|0
+the containment hierarchy|DT NN NN|BODY_3|0
+the final solution surface|DT JJ NN NN|BODY_8|0
+only the relative magnitude|RB DT JJ NN|BODY_5|0
+sensor model energies|NN NN NNS|BODY_2|0
+the hybrid model|DT JJ NN|BODY_6:BODY_7|0
+a vector subspace|DT NN NN|BODY_9|0
+i|NN|BODY_10|0
+superquadrics|NNS|BODY_4|0
+the gibbs distribution p(qjd|DT NNS NN NN|BODY_6|0
+the multiresolution|DT NN|BODY_12|0
+ness parameters|NN NNS|BODY_4|0
+probabilities|NNS|BODY_15|0
+n|RB|BODY_6:BODY_7|0
+a d|DT NN|BODY_11|0
+his help|PRP$ NN|BODY_7|0
+a simple equation|DT JJ NN|BODY_6|0
+the above equations|DT JJ NNS|BODY_9|0
+the square|DT NN|BODY_3|0
+virtue|NN|BODY_2|0
+using results|VBG NNS|BODY_3|0
+the human brain|DT JJ NN|BODY_10:ABSTRACT_7|0
+an application point|DT NN NN|BODY_2|0
+3d point data|JJ NN NNS|BODY_3|0
+wavelets|NNS|BODY_4:BODY_7|0
+6 )|CD -RRB-|BODY_2:BODY_8|0
+several iterations|JJ NNS|BODY_2|0
+a d dl figure 4|DT NN NN NN CD|BODY_4|0
+energies|NNS|BODY_14|0
+the membrane|DT NN|BODY_6|0
+hh convolve|JJ VBP|BODY_12|0
+a scalar valued function d(u|DT NN VBN NN NN|BODY_4|0
+a family|DT NN|BODY_3|0
+a logarithmically spaced band-pass filter|DT RB VBN NN NN|BODY_3|0
+the fruitful technical discussions|DT JJ JJ NNS|BODY_6|0
+its natural nonuniform tessalation|PRP$ JJ NN NN|BODY_3|0
+the hybrid model surface|DT JJ NN NN|BODY_6|0
+cortical and subcortical structures|JJ CC JJ NNS|BODY_8|0
+the energy potential|DT NN NN|BODY_4|0
+equations 14 and 15 respectively ) using baye|NNS CD CC CD RB -RRB- VBG NN|BODY_2|0
+expected shapes|VBN NNS|BODY_6:BODY_16|0
+some existing modeling techniques|DT VBG NN NNS|BODY_3|0
+mallat [23]|NN NN|BODY_10:BODY_7|0
+the starting point|DT VBG NN|BODY_6|0
+the vibration modes|DT NN NNS|BODY_2|0
+a dilated scaling function oe(u|DT JJ NN NN NNS|BODY_10|0
+coarse scale|JJ NN|BODY_10|0
+the effect|DT NN|BODY_5|0
+the discrete characterization|DT JJ NN|BODY_6|0
+medical imag- ing|JJ NNS NN|BODY_2|0
+fourier analysis techniques|JJ NN NNS|BODY_2|0
+fractal priors|JJ NNS|TITLE_2|0
+future experiments|JJ NNS|BODY_1|0
+its spectrum|PRP$ NN|BODY_1|0
+multiresolution stochastic hybrid shape models|NN JJ JJ NN NNS|TITLE_1|0
+no|DT|BODY_2|0
+the answer|DT NN|BODY_1|0
+this goal|DT NN|BODY_2|0
+low frequency content|JJ NN NN|BODY_3|0
+a stochastic fractal|DT JJ NN|BODY_7|0
+their diagonal entries|PRP$ JJ NNS|BODY_6|0
+the sum|DT NN|BODY_3|0
+q and covariance matrix c|NN CC NN NN NN|BODY_5|0
+zero|CD|BODY_5|0
+the next lower ( j+1 ) resolution approximation|DT JJ JJR -LRB- NNS -RRB- NN NN|BODY_6|0
+diagonal terms|JJ NNS|BODY_6|0
+aspect ratio parameters|NN NN NNS|BODY_10|0
+a 3 lhd d hh|DT CD JJ NN JJ|BODY_3|0
+\gamma-=2|LS|BODY_7|0
+a ) ( b ) figure 2|DT -RRB- -LRB- NN -RRB- NN CD|BODY_7|0
+the algorithms|DT NNS|BODY_14|0
+( a ) map estimate|-LRB- DT -RRB- NN NN|BODY_4|0
+the filter bank interpretation|DT NN NN NN|BODY_1:BODY_2|0
+a 2|DT CD|BODY_6|0
+longer time intervals|JJR NN NNS|BODY_4|0
+-=2 \gamma|NN NN|BODY_8|0
+v -,|NN NN|BODY_9|0
+splines and fractals|NNS CC NNS|BODY_6|0
+a deformable superquadric , (|DT JJ JJ , -LRB-|BODY_4|0
+numerous application|JJ NN|BODY_7|0
+[4 , 29|CD , CD|BODY_5|0
+a complete hierarchical description|DT JJ JJ NN|BODY_2|0
+section 3|NN CD|BODY_1|0
+unfriendly |JJ|BODY_5|0
+a low-pass filter|DT JJ NN|BODY_6|0
+two|CD|BODY_12:BODY_5|0
+the estimate|DT NN|BODY_7|0
+details|NNS|BODY_6:BODY_14|0
+fast implementation extension|JJ NN NN|BODY_3|0
+[25|WP|BODY_8|0
+most|JJS|BODY_1|0
+the local variation|DT JJ NN|BODY_9|0
+~|PRP|BODY_7|0
+the deformational properties|DT JJ NNS|BODY_9|0
+this similarity transformation|DT NN NN|BODY_3|0
+evolution|NN|BODY_3|0
+the superquadric shape|DT JJ NN|BODY_8|0
+bayesian modeling|NN NN|BODY_2|0
+the model stiffness matrix|DT NN NN NN|BODY_15:BODY_2|0
+global deformation|JJ NN|BODY_4|0
+good visual appearance|JJ JJ NN|BODY_7|0
+development|NN|BODY_3|0
+jk oe jk (u ) ( 7|NN NN NN NN -RRB- -LRB- CD|BODY_2|0
+the cutoff frequency|DT JJ NN|BODY_7|0
+a simple technique|DT JJ NN|BODY_5|0
+the local energy function|DT JJ NN NN|BODY_5|0
+the correct estimate|DT JJ NN|BODY_2|0
+section|NN|BODY_5:BODY_4|0
+his work|PRP$ NN|BODY_2|0
+the elements|DT NNS|BODY_2|0
+an in-between fi|DT JJ NN|BODY_2|0
+uniform|NN|BODY_6|0
+u) ) j image potential ( 18 )|NN -RRB- NN NN JJ -LRB- CD -RRB-|BODY_8|0
+the fourier|DT NN|BODY_3|0
+the useful aspect|DT JJ NN|BODY_2|0
+the modeling primitives|DT NN NNS|BODY_9|0
+smooth man|JJ NN|BODY_2|0
+the frequency domain|DT NN NN|BODY_7|0
+global  and local parts|JJ NN CC JJ NNS|BODY_3|0
+a starting point|DT VBG NN|BODY_4|0
+follows|VBZ|BODY_3|0
+significant smoothing|JJ NN|BODY_3|0
+a reference shape s(u|DT NN NN NN|BODY_4|0
+a spectral density|DT JJ NN|BODY_6:BODY_7|0
+figure 15|NN CD|BODY_6:BODY_1|0
+less energy|JJR NN|BODY_5|0
+ffl 1 uc|IN CD CD|BODY_5|0
+a ) map estimate|DT -RRB- NN NN|BODY_3|0
+quadrature mirror filters|NN NN NNS|BODY_3|0
+rioul et . al|NNP NNP . NN|BODY_5|0
+high noise levels|JJ NN NNS|BODY_3|0
+discussion|NN|BODY_2|0
+( d )|-LRB- NN -RRB-|BODY_8|0
+step sizes|NN NNS|BODY_9|0
+the same result|DT JJ NN|BODY_14|0
+a learning phase|DT NN NN|BODY_4|0
+whose intrinsic coordinates|WP$ JJ NNS|BODY_6|0
+one subspace|CD NN|BODY_10|0
+the bending plane ff|DT VBG NN NN|BODY_13|0
+u) ) j l image potential|NN -RRB- NN NN NN JJ|BODY_17|0
+the equations|DT NNS|BODY_2|0
+a priori information|DT JJ NN|BODY_2|0
+the displacement function|DT NN NN|BODY_7:BODY_9|0
+energy contribution|NN NN|BODY_13|0
+the list|DT NN|BODY_3|0
+the close|DT JJ|BODY_4|0
+with|IN|BODY_2|0
+knowledge|NN|BODY_3|0
+a resolution|DT NN|BODY_11|0
+conclusions|NNS|BODY_10|1
+shape|NN|ABSTRACT_5:BODY_23|0
+a markov random field|DT NN JJ NN|BODY_9|0
+distributed parameter models|VBN NN NNS|BODY_7|0
+edges|NNS|BODY_5|0
+projection|NN|BODY_9|0
+an important and integral part|DT JJ CC JJ NN|BODY_2|0
+enormous attention|JJ NN|ABSTRACT_2|0
+a columns figure 5|DT NNS NN CD|BODY_9|0
+64 slices|CD NNS|BODY_3|0
+the spectral density|DT JJ NN|BODY_6|0
+statistical information ( mean and variance )|JJ NN -LRB- NN CC NN -RRB-|BODY_2|0
+computational issues|JJ NNS|BODY_7|0
+the spline surface|DT NN NN|BODY_4|0
+( e ) & ( f ) global deformations|-LRB- NN -RRB- CC -LRB- NN -RRB- JJ NNS|BODY_9|0
+the appropriate stiffness matrix|DT JJ NN NN|BODY_13:BODY_10|0
+a ( 3 )|DT -LRB- CD -RRB-|BODY_6|0
+f(u ) df|NN -RRB- NN|BODY_5|0
+a constant differential arc length increment|DT JJ JJ NN NN NN|BODY_9|0
+ squareness  parameters|JJ NN JJ NNS|BODY_12|0
+27 )|CD -RRB-|BODY_9|0
+a density|DT NN|BODY_5|0
+the potential energy|DT JJ NN|BODY_16|0
+the hippocampus|DT NN|BODY_22:BODY_9|0
+the positions|DT NNS|BODY_8|0
+the first derivatives|DT JJ NNS|BODY_4|0
+the wavelet basis and comment|DT NN NN CC NN|BODY_5|0
+entrapment|NN|BODY_8|0
+exp(\gammae d ( d|JJ NN -LRB- NN|BODY_9|0
+computer graphics applications|NN NNS NNS|BODY_5|0
+gaussian noise|JJ NN|BODY_7|0
+image data|NN NNS|BODY_15|0
+1 depart|CD NN|BODY_5|0
+a superquadric ~|DT JJ NN|BODY_2|0
+the discrete|DT NN|BODY_8|1
+the anatomical structures|DT JJ NNS|BODY_5|0
+q) )|NN -RRB-|BODY_10|0
+modifications|NNS|BODY_8|0
+our models|PRP$ NNS|BODY_3|0
+advantages|NNS|BODY_4|0
+strong diagonal dominance|JJ JJ NN|BODY_15|0
+the above energy|DT JJ NN|BODY_5|0
+the computation|DT NN|BODY_3|0
+distortion|NN|BODY_8|0
+h. lai|NN FW|BODY_5|0
+hybrid models|JJ NNS|ABSTRACT_1:BODY_4|0
+the images/signals|DT NNS|BODY_2|0
+the same technique|DT JJ NN|BODY_5|0
+multi-resolution relaxation|JJ NN|BODY_5|0
+probability distributions|NN NNS|BODY_4|0
+the qmf|DT NN|BODY_3|0
+literature|NN|ABSTRACT_2|0
+linear measurements|NN NNS|BODY_6|0
+cs|NNS|BODY_10|0
+curvature k and angle|NN NN CC NN|BODY_12|0
+the indices k and l|DT NNS NN CC NN|BODY_15|0
+j;k ;l|NN NN|BODY_10|0
+ffl 1|IN CD|BODY_11|0
+a 2-dimensional function|DT JJ NN|BODY_11|0
+the deformation|DT NN|BODY_12:BODY_4|0
+facilitation|NN|BODY_5|0
+an edge-based potential energy|DT JJ JJ NN|BODY_14|0
+1d|JJ|BODY_6|0
+reference|NN|BODY_12|0
+each|DT|BODY_11|0
+research activity|NN NN|BODY_5|0
+the mean vector|DT JJ NN|BODY_4|0
+frequency j 0|NN NN CD|BODY_12|0
+equations|NNS|BODY_19|0
+pentland [30]|NN NN|BODY_2|0
+the coarse level|DT JJ NN|BODY_5:BODY_4|0
+the tensor product|DT NN NN|BODY_3|0
+b @|NN NNS|BODY_9|0
+figure 3|NN CD|BODY_5|0
+an edge|DT NN|BODY_3|0
+( c|-LRB- NN|BODY_1:BODY_10|0
+the bending while|DT VBG IN|BODY_9|0
+its extension|PRP$ NN|BODY_7|0
+the aid|DT NN|BODY_8|0
+as|IN|BODY_6|0
+a model-centered coordinate frame|DT JJ VB NN|BODY_14|0
+[12]|NNP|BODY_2|0
+24 )|CD -RRB-|BODY_18|0
+a set|DT NN|BODY_3:BODY_4|1
+2 l|CD NN|BODY_5|0
+a 2d function|DT JJ NN|BODY_8|0
+the basis|DT NN|BODY_4|0
+a training phase|DT NN NN|BODY_5|0
+the radius|DT NN|BODY_11|0
+the mean figure 13|DT JJ NN CD|BODY_2|0
+this area|DT NN|BODY_6|0
+anatomical shapes|JJ NNS|BODY_9|0
+one end and distributed models|CD NN CC VBN NNS|BODY_5|0
+2d|CD|BODY_4|0
+each point|DT NN|BODY_3|0
+the function d(u|DT NN NN|BODY_5|0
+v ) i .e|RB -RRB- NN NN|BODY_6|0
+a standard representation|DT JJ NN|BODY_2|0
+this difficult computation|DT JJ NN|BODY_2|0
+the frobenious norm|DT JJ NN|BODY_2|0
+z note|FW NN|BODY_11|0
+the role|DT NN|BODY_10|0
+the edge|DT NN|BODY_13|0
+the recursive filtering method|DT JJ NN NN|BODY_15|0
+correctly reconstructed shapes|JJ JJ NNS|BODY_4|0
+equation 26|NN CD|BODY_7|0
+close similarity|JJ NN|BODY_28|0
+product|NN|BODY_7|0
+z du|FW FW|BODY_8|0
+the displacement d|DT NN NN|BODY_12|0
+the discretized version|DT JJ NN|BODY_6|0
+@e @x @x|JJ NN NN|BODY_7|0
+eight times|CD NNS|BODY_21|0
+iterative updating|JJ VBG|BODY_26|0
+the springs|DT NNS|BODY_17|0
+the anatomical shape|DT JJ NN|BODY_10:BODY_4|0
+( c )|-LRB- NN -RRB-|BODY_7|0
+the large computational requirements|DT JJ JJ NNS|BODY_3|0
+data points|NNS NNS|BODY_6|0
+2 \gammaj|CD NN|BODY_8|0
+all practical purposes|DT JJ NNS|BODY_3|0
+the a priori probability p(q|DT DT NN NN NNS|BODY_4|0
+each parameter group|DT NN NN|BODY_9|0
+possible deformations|JJ NNS|BODY_4:BODY_7|0
+( c ) adaptive clustering|-LRB- NN -RRB- NN NN|BODY_10|0
+a constant differential increment|DT JJ JJ NN|BODY_10|0
+the same|DT JJ|BODY_9|0
+the scaling function|DT JJ NN|BODY_11|0
+. [36]|. NNP|BODY_2|0
+equation 3|NN CD|BODY_8|0
+the eigen vectors|DT CD NNS|BODY_5:BODY_9|0
+the multiresolution wavelet-based representation|DT NN JJ NN|BODY_9|0
+low frequency components|JJ NN NNS|BODY_3|0
+special cases|JJ NNS|BODY_2|0
+techniques|NNS|BODY_2|0
+the other hand|DT JJ NN|BODY_2|0
+11122212a|CD|BODY_10|0
+[42] ) , z du|NNP -RRB- , FW NNP|BODY_8|0
+figure 10|NN CD|BODY_8|0
+mallat [23|NN NNS|BODY_5|0
+conversion|NN|BODY_13|0
+the requirements|DT NNS|BODY_5|0
+configurations|NNS|BODY_8|0
+a wavelet function d(u )|DT NN NN NN -RRB-|BODY_5|0
+a d d|DT JJ JJ|BODY_8|0
+[34 , 42]|CD , CD|BODY_4|0
+q( i|JJ FW|BODY_2|0
+a filtering interpretation|DT VBG NN|BODY_12|0
+a domain\omega\gamma|DT NN|BODY_7|0
+implementation results|NN NNS|BODY_7|1
+known natural shapes|JJ JJ NNS|BODY_4|0
+the descriptive power|DT JJ NN|BODY_3|0
+2 (|CD -LRB-|BODY_6|0
+a ) decomposition and b ) reconstruction|DT -RRB- NN CC NN -RRB- NN|BODY_10|0
+the wt.|DT NN|BODY_15:BODY_13|0
+an expert|DT NN|BODY_7|0
+an uncertainty|DT NN|BODY_6|0
+unity|NN|BODY_6|0
+motion sequences|NN NNS|BODY_33|0
+the detail function|DT NN NN|BODY_4|0
+multiresolution analysis|NN NN|BODY_5|0
+the 3d shape|DT JJ NN|BODY_7|0
+the global ( lumped ) parameters|DT JJ -LRB- VBN -RRB- NNS|BODY_6:BODY_5:BODY_8|0
+a view|DT NN|BODY_4|0
+a similarity transformation k 1|DT NN NN NN CD|BODY_6|0
+coefficients technique|NNS NN|BODY_11|0
+a formal connection|DT JJ NN|BODY_5|0
+this internal strain energy|DT JJ NN NN|BODY_7|0
+partial derivatives|JJ NNS|BODY_13|0
+d(u|NN|BODY_8|0
+the a posteriori distribution|DT DT NN NN|BODY_5|0
+the products|DT NNS|BODY_8|0
+specific classes|JJ NNS|BODY_5|0
+whose spectral distribution|WP$ JJ NN|BODY_3|0
+the other|DT JJ|BODY_6:BODY_8|0
+a few global parameters|DT JJ JJ NNS|BODY_4:BODY_9|0
+the directions|DT NNS|BODY_12|0
+the motivation|DT NN|BODY_2|0
+generation|NN|BODY_4|0
+three spatial degrees|CD JJ NNS|BODY_5|0
+of|IN|BODY_10|0
+the state vector|DT NN NN|BODY_27|0
+the nonequivalence|DT NN|BODY_3|0
+\phi and orthogonality|NN CC NN|BODY_3|0
+the large computational cost|DT JJ JJ NN|BODY_4|0
+d c x z y figure 1|JJ NN NN FW NN NN CD|BODY_4|0
+the distributed parameter models|DT VBN NN NNS|BODY_3|0
+a vector-valued function|DT JJ NN|BODY_13|0
+problems|NNS|BODY_4|0
+a similarity trans|DT NN NNS|BODY_4|0
+lumped and distributed parameter models|VBN CC VBN NN NNS|BODY_4|0
+the reviewers|DT NNS|BODY_2|0
+this kind|DT NN|BODY_4|0
+division|NN|BODY_6|0
+r\omega fi jp ( x(q|JJ JJ NN -LRB- NNP|BODY_7|0
+a ) ( b|DT -RRB- -LRB- NN|BODY_9|0
+the parameter direction u|DT NN NN NN|BODY_4|0
+each sample|DT NN|BODY_5|0
+savings|NNS|BODY_4|0
+our modeling framework|PRP$ JJ NN|BODY_6|1
+here k 0 d|RB NN CD NN|BODY_6|0
+an operational phase|DT JJ NN|BODY_6:BODY_5|0
+solutions|NNS|BODY_3|0
+the coarse-to-fine relaxation|DT JJ NN|BODY_2|0
+the parameter domain\omega\gamma|DT NN NN|BODY_14|0
+terzopoulos et|NNS NNP|BODY_4|0
+the gibbsian probability distribution|DT JJ NN NN|BODY_8|0
+good training samples|JJ NN NNS|BODY_3|0
+volumetric medical image data|JJ JJ NN NNS|BODY_3|0
+a 3d edge|DT JJ NN|BODY_3|0
+others|NNS|ABSTRACT_5|0
+an probabilistic framework|DT JJ NN|BODY_4|0
+the membrane membrane figure 9|DT NN NN NN CD|BODY_7|0
+a bayesian model|DT JJ NN|BODY_3|0
+the superquadric i .e|DT JJ NN NN|BODY_7|0
+a ) ,(b ) & ( c )|DT -RRB- NN -RRB- CC -LRB- NN -RRB-|BODY_13|0
+desired shapes|VBN NNS|BODY_3|0
+potential field|JJ NN|BODY_14|0
+figure 3( b|NN JJ NN|BODY_4|0
+spectral density|JJ NN|BODY_12|0
+numerical instabilities|JJ NNS|BODY_2|0
+filter|NN|BODY_3|0
+several methods|JJ NNS|BODY_12|0
+signal processing and computer vision research|NN NN CC NN NN NN|BODY_6|0
+23 and 24|CD CC CD|BODY_20|0
+models and priors|NNS CC NNS|BODY_3|0
+a fractal|DT JJ|BODY_8|0
+in-between order|JJ NN|BODY_6|0
+computation time|NN NN|BODY_6|0
+the results|DT NNS|BODY_4|0
+the contribution|DT NN|BODY_8|0
+the external forces|DT JJ NNS|BODY_10|0
+a membrane and thin-plate regularizers|DT NN CC JJ NNS|BODY_5|0
+a natural|DT JJ|BODY_6|0
+our statistical modeling scheme|PRP$ JJ JJ NN|BODY_7|0
+space|NN|BODY_5|0
+the interactive placement|DT JJ NN|BODY_5|0
+the space|DT NN|BODY_7|0
+large ( greater|JJ -LRB- JJR|BODY_4|0
+a multi-resolution approximation|DT NN NN|BODY_3|0
+complete knowledge|JJ NN|BODY_5|0
+the global ( reference ) shape|DT JJ -LRB- NN -RRB- NN|BODY_11|0
+the prior distribution|DT JJ NN|BODY_3|0
+the membrane displacement function d(u|DT NN NN NN NN|BODY_9|0
+vice versa|NN NN|ABSTRACT_6:BODY_10|0
+realistic shape models|JJ NN NNS|BODY_4|0
+the cut|DT NN|BODY_11|0
+storage space|NN NN|BODY_5|0
+r\omega fir jp ( x(q|JJ JJ NN -LRB- NNP|BODY_16|0
+33 needs|CD NNS|BODY_5|0
+the concept|DT NN|BODY_12|0
+the orthogonal matrix|DT JJ NN|BODY_13|0
+the nodal basis|DT JJ NN|BODY_2|0
+model|NN|BODY_8|1
+the original reference shape|DT JJ NN NN|BODY_3|0
+) parameters|-RRB- NNS|BODY_3|0
+report techniques|NN NNS|BODY_3|0
+computational vision [39]|JJ NN NN|BODY_5|0
+diagonal structure|JJ NN|BODY_4|0
+the work|DT NN|BODY_5|0
+a 3|DT CD|BODY_4|0
+all orthogonal bases|DT JJ NNS|BODY_6|0
+a posteriori|DT FW|BODY_7|0
+the region|DT NN|BODY_5|0
+the corresponding finite element basis functions|DT JJ JJ NN NN NNS|BODY_6|0
+two stages|CD NNS|BODY_3|0
+a low pass filtering interpretation|DT JJ NN VBG NN|BODY_10|0
+approximations|NNS|BODY_7|0
+in-between fi (order )|JJ JJ NN -RRB-|BODY_9|0
+a wavelet-based multiresolution representation|DT JJ NN NN|BODY_6|0
+\psi j (|JJ NN -LRB-|BODY_4|0
+a variety|DT NN|BODY_2|0
+tracking|NN|BODY_6|0
+the dynamics|DT NNS|BODY_6|0
+the overall features|DT JJ NNS|BODY_6|0
+the iterative minimization process|DT JJ NN NN|BODY_15|0
+over a fairly large data|IN DT RB JJ NNS|BODY_3|0
+a scale wise , orthogonal decomposition|DT NN JJ , JJ NN|BODY_2|0
+a (32 x|DT NN NN|BODY_7|0
+deformations|NNS|BODY_6:BODY_8|0
+the discrete wavelet coefficients|DT JJ NN NNS|BODY_7|0
+this application domain|DT NN NN|BODY_4|0
+the inner product|DT JJ NN|BODY_3|0
+the past decade|DT JJ NN|ABSTRACT_5:BODY_7|0
+high ( low ) pass filtering|JJ -LRB- JJ -RRB- NN NN|BODY_10|0
+the probabilistic structure|DT JJ NN|BODY_6|0
+lower resolutions|JJR NNS|BODY_4|0
+the case|DT NN|BODY_8|0
+sub-sampling or up-sampling operations|JJ CC JJ NNS|BODY_8|0
+resolution j|NN NN|BODY_3:BODY_7|0
+large energy e i|JJ NN NN NN|BODY_9|0
+each shape|DT NN|BODY_2|0
+order|NN|BODY_5|0
+the behavior|DT NN|BODY_3|0
+( 15 )|-LRB- CD -RRB-|BODY_11|0
+q )|NN -RRB-|BODY_13|0
+the application problem|DT NN NN|BODY_4|0
+multi-resolution approximation|JJ NN|BODY_5|0
+an efficient way|DT JJ NN|BODY_2|0
+3d data points|JJ NNS NNS|BODY_18|0
+the model q|DT NN NN|BODY_5|0
+ffi lh jkl and jkl|JJ NN NN CC NN|BODY_7|0
+the stiffness matrix ( inverse covariance )|DT NN NN -LRB- JJ NN -RRB-|BODY_2|0
+the superquadric model|DT JJ NN|BODY_6|0
+realistic animation|JJ NN|BODY_4|0
+the top|DT NN|BODY_10|0
+consisted|VBD|BODY_2|0
+tweaking|CD|BODY_3|0
+a simple sensor model|DT JJ NN NN|BODY_5|0
+the initial condition ( 6|DT JJ NN -LRB- CD|BODY_7|0
+the position vector x|DT NN NN NN|BODY_15|0
+prior statistics|JJ NNS|ABSTRACT_5|0
+the low frequency components|DT JJ NN NNS|BODY_4|0
+( a ) multi-resolution and ( b ) wavelet representation|-LRB- DT -RRB- NN CC -LRB- NN -RRB- NN NN|BODY_8|0
+a finite resolution|DT JJ NN|BODY_2|0
+coarse dips|JJ NNS|BODY_9|0
+convergence|NN|BODY_2:BODY_1|0
+near diagonalization|JJ NN|BODY_4|0
+such specialized prior models|JJ JJ JJ NNS|BODY_2|0
+the deformable superquadric geometry|DT JJ JJ NN|BODY_2|0
+the deformed shapes|DT JJ NNS|BODY_9|0
+the estimation problem|DT NN NN|BODY_2|0
+the last section|DT JJ NN|BODY_2|0
+these functions|DT NNS|BODY_3|0
+a prior model|DT JJ NN|BODY_5|0
+the natural clustering|DT JJ NN|BODY_8|0
+a ) organization|DT -RRB- NN|BODY_5|0
+a reciprocal polynomial )|DT JJ NN -RRB-|BODY_7|0
+our superquadric reference shape|PRP$ JJ NN NN|BODY_2|0
+the integer shifts|DT NN NNS|BODY_16|0
+/(u )|NNP -RRB-|BODY_9|0
+a quaternion representation|DT NN NN|BODY_7|0
+the evolution|DT NN|BODY_2|0
+the freedom|DT NN|BODY_2|0
+general form|JJ NN|BODY_4|0
+ideas|NNS|BODY_5|0
+this evolution equation|DT NN NN|BODY_29|0
+the later|DT RB|BODY_3|0
+an orthonormal wavelet basis [23|DT JJ NN NN NNS|BODY_6|0
+shape measures|NN NNS|BODY_4|0
+the eigen values|DT JJ NNS|BODY_8|0
+the lumped and distributed parameters|DT VBN CC VBN NNS|BODY_4|0
+a ) ( b ) ( c|DT -RRB- -LRB- NN -RRB- -LRB- NN|BODY_3|0
+a rest state|DT NN NN|BODY_4|0
+section 2|NN CD|BODY_4|0
+the modeling , (|DT JJ , -LRB-|BODY_3|0
+the global  and local  parts|DT JJ NN CC JJ NN NNS|BODY_8|0
+a general shape modeling scheme|DT JJ NN NN NN|BODY_4|0
+parameter fi|NN NN|BODY_2|0
+the entries|DT NNS|BODY_16:BODY_1|0
+j and ( j z 2|NN CC -LRB- NN FW CD|BODY_16|0
+using|VBG|BODY_5|0
+mallat [23] )|JJ NN -RRB-|BODY_8|0
+4.2 )|CD -RRB-|BODY_6|0
+random samples|JJ NNS|BODY_3|0
+a computational cost|DT JJ NN|BODY_4|0
+a diagonal matrix|DT JJ NN|BODY_8|0
+the conditional probability p( q=d )|DT JJ NN JJ NN -RRB-|BODY_13|0
+freedom|NN|BODY_6|0
+the local magnitude|DT JJ NN|BODY_7|0
+a quadratic form|DT JJ NN|BODY_4|0
+the mean value|DT JJ NN|BODY_6|0
+the prior model and data energies|DT JJ NN CC NNS NNS|BODY_14|0
+each column|DT NN|BODY_6|0
+sclaroff|NN|BODY_2|0
+generalized cylinders|JJ NNS|BODY_3|0
+the human body|DT JJ NN|BODY_6|0
+approximate the eigen vectors|JJ DT CD NNS|BODY_3|0
+the membrane operator|DT NN NN|BODY_5|0
+their useful and insightful comments and mr.|PRP$ JJ CC JJ NNS CC NN|BODY_4|0
+the right hand side|DT JJ NN NN|BODY_3|0
+gradient descent|JJ NN|BODY_22|0
+or|CC|BODY_3|0
+modeling scheme|JJ NN|BODY_3|0
+[30] )|NNP -RRB-|BODY_16:BODY_18|0
+shape extraction applications|NN NN NNS|BODY_5|0
+a coarse resolution|DT JJ NN|BODY_5|0
+local shapes|JJ NNS|BODY_3|0
+the membrane and thin-plate splines and show|DT NN CC JJ NNS CC NN|BODY_3|0
+a novel technique|DT NN NN|BODY_3|0
+the multiresolution representation|DT NN NN|BODY_6|0
+a ) scaling|DT -RRB- NN|BODY_8|0
+many limitations|JJ NNS|BODY_5|0
+this shape|DT NN|BODY_11|0
+a hierarchical representation|DT JJ NN|BODY_5|0
+smoothness assumptions|NN NNS|BODY_6|0
+a fractal surface ( membrane model|DT JJ NN -LRB- NN NN|BODY_6|0
+a large number|DT JJ NN|BODY_4|0
+equation 7 ) and multiplication|NN CD -RRB- CC NN|BODY_12|0
+neuroanatomist )|NN -RRB-|BODY_8|0
+a high-level vision task|DT JJ NN NN|BODY_2|0
+the influence|DT NN|BODY_12|0
+frame model deformable y x z|NN NN JJ NN NN FW|BODY_3|0
+order fi|NN NN|BODY_5|0
+this updating scheme|DT VBG NN|BODY_2|0
+two g g|CD JJ JJ|BODY_7|0
+one end|CD NN|BODY_6|0
+a ) initialization|DT -RRB- NN|BODY_5|0
+more specific information|RBR JJ NN|BODY_3|0
+curve|NN|BODY_14|0
+the membrane model|DT NN NN|BODY_11|0
+[51]|NN|BODY_8|0
+a hierarchical basis|DT JJ NN|BODY_10|0
+the entire solution|DT JJ NN|BODY_3|0
+local ( distributed parameter|JJ -LRB- VBN NN|ABSTRACT_4|0
+the location|DT NN|BODY_17|0
+the notation|DT NN|BODY_10|0
+wavelet analysis|NN NN|BODY_1:BODY_7|0
+32 ) grid|CD -RRB- NN|BODY_8|0
+the new multi-resolution shape modeling scheme|DT JJ JJ NN JJ NN|BODY_5|0
+the frequency axis|DT NN NN|BODY_8|0
+a ( 32x32 ) grid|DT -LRB- CD -RRB- NN|BODY_12|0
+the membrane d(u|DT NN NN|BODY_2|0
+a coarser mesh|DT NN NN|BODY_2|0
+the finest level|DT JJS NN|BODY_4|0
+the expressive power|DT JJ NN|BODY_3|0
+one-dimensional wavelets|JJ NNS|BODY_9|0
+the elevation corresponds|DT NN NNS|BODY_14|0
+a new random state|DT JJ JJ NN|BODY_3|0
+the relative distribution|DT JJ NN|BODY_6|0
+advance|NN|BODY_6|0
+two parameters|CD NNS|BODY_10|0
+scaling behavior|JJ NN|BODY_3|0
+the multiresolution physically-based shape models|DT NN JJ NN NNS|BODY_3|0
+the shape models|DT VB NNS|BODY_3|0
+a corresponding slice|DT JJ NN|BODY_19|0
+the corresponding slice|DT JJ NN|BODY_14|0
+the corresponding gibbsian distribution|DT JJ JJ NN|BODY_2|0
+frequency domain|NN NN|BODY_9|0
+the kinetic energy|DT JJ NN|BODY_3|0
+the total energy|DT JJ NN|BODY_3|0
+[42 , 46]|CD , CD|BODY_6|0
+the matrix k p corresponds|DT NN NN NN NNS|BODY_7|0
+the rotation matrix r|DT NN NN NN|BODY_20|0
+z p|FW NN|BODY_9|0
+better 3d edge finding methods|JJR JJ NN VBG NNS|BODY_9|0
+example|NN|BODY_1|0
+the shape recovery|DT NN NN|BODY_5:BODY_1|0
+a similarity transformation relationship|DT NN NN NN|BODY_13|0
+all the necessary information|DT DT JJ NN|BODY_3|0
+2.2 multiresolution analysis and wavelet bases|CD NN NN CC NN NNS|BODY_4|0
+the associated gibbsian distributions|DT JJ JJ NNS|BODY_3|0
+( f )|-LRB- NN -RRB-|BODY_2|0
+the reasons|DT NNS|BODY_2|0
+b ) separation|NN -RRB- NN|BODY_7|0
+any fi|DT JJ|BODY_6|0
+the k 1 d matrix|DT NN CD NN NN|BODY_6|0
+the two bending parameters|DT CD VBG NNS|BODY_3|0
+the multiresolution algorithm|DT NN NN|BODY_4|0
+the 3d|DT JJ|BODY_22|0
+the same number|DT JJ NN|BODY_3|0
+a|DT|BODY_13|0
+the key ingredient|DT JJ NN|BODY_2|0
+a computationally efficient solution|DT RB JJ NN|BODY_2|0
+lumped models|JJ NNS|BODY_4|0
+degree|NN|BODY_12|0
+the global part ( q|DT JJ NN -LRB- NN|BODY_5|0
+( d ) figure deformations|-LRB- NN -RRB- NN NNS|BODY_4|0
+the information|DT NN|BODY_6|0
+multi-resolution analysis|JJ NN|BODY_4|0
+shape synthesis|NN NN|BODY_4|0
+the maximum|DT NN|BODY_6|0
+the original nodal representation|DT JJ NN NN|BODY_10|0
+resolution stiffness matrix|NN NN NN|BODY_16|0
+resolution|NN|BODY_3|0
+this approximate diagonalization|DT JJ NN|BODY_3|0
+wt|NN|BODY_3|0
+a description|DT NN|BODY_2|1
+a fractal process|DT JJ NN|BODY_9|0
+( wt)|-LRB- NN|BODY_3|0
+[27] , ( d )|JJ , -LRB- NN -RRB-|BODY_16|0
+the model initialization|DT NN NN|BODY_12|0
+@x r@s|NN NNS|BODY_12|0
+estimates|NNS|BODY_3|0
+( c ) figure 12|-LRB- NN -RRB- NN CD|BODY_10|0
+images|NNS|BODY_3|0
+the gradient relaxation method|DT NN NN NN|BODY_8|0
+a similarity transformation technique|DT NN NN NN|BODY_10|0
+diagonal entries|JJ NNS|BODY_9|0
+computations|NNS|BODY_2|0
+the description and ability|DT NN CC NN|BODY_2|0
+the training sequence|DT NN NN|BODY_4|0
+the form [36]|DT NN NN|BODY_5|0
+figure 12|NN CD|BODY_5|0
+the difference|DT NN|BODY_3|0
+generic smoothness assumptions|JJ NN NNS|BODY_4|0
+depicts|VBZ|BODY_11|0
+these types|DT NNS|BODY_5|0
+segmentation purposes|NN NNS|BODY_4|0
+interpolation functions|NN NNS|BODY_10|0
+[1] )|NN -RRB-|BODY_14|0
+a fractal surface|DT JJ NN|BODY_4|0
+the choice|DT NN|BODY_3|0
+representative samples|JJ NNS|BODY_3|0
+deformable superquadric geometry|JJ JJ NN|BODY_5|0
+the probabilistic framework|DT JJ NN|BODY_2|0
+other modeling schemes|JJ JJ NNS|ABSTRACT_3|0
+p|NN|BODY_2|0
+the natural scale space characteristics|DT JJ NN NN NNS|BODY_7|0
+an elastic energy|DT JJ NN|BODY_2|0
+a flurry|DT NN|BODY_4|0
+coarser resolutions|NN NNS|BODY_5|0
+separable wavelets|JJ NNS|BODY_7|0
+q s|NN VBZ|BODY_4|0
+oe and /|NN CC NN|BODY_6|0
+a box|DT NN|BODY_10|0
+a vector valued function|DT NN VBN NN|BODY_13|0
+an equivalent expression|DT JJ NN|BODY_6|0
+this filter bank interpretation|DT NN NN NN|BODY_3|0
+level|NN|BODY_3|0
+the covariance matrices|DT NN NNS|BODY_11|0
+our prior statistics|PRP$ JJ NNS|BODY_4|0
+is|VBZ|BODY_3|0
+an arbitrary density|DT JJ NN|BODY_13|0
+specific a priori knowledge|JJ DT JJ NN|BODY_5|1
+the wavelet-based pyramid|DT JJ NN|BODY_2|0
+object-specific information|JJ NN|BODY_8|0
+the multi-resolution representation|DT JJ NN|BODY_6|0
+global ( lumped parameter )|JJ -LRB- JJ NN -RRB-|ABSTRACT_6|0
+each row|DT NN|BODY_3|0
+differential operators|JJ NNS|BODY_12|0
+a ) ( b ) f low-pass filters band-pass|DT -RRB- -LRB- NN -RRB- NN NN NNS NN|BODY_4|0
+an expression|DT NN|BODY_25|0
+both k 0|DT NN CD|BODY_2|0
+figure relates|NN NNS|BODY_4|0
+no scope|DT NN|BODY_6|0
+ever|RB|BODY_3|0
+,(c )|NN -RRB-|BODY_7|0
+the statistically|DT NN|BODY_2|0
+the discrete version|DT NN NN|BODY_6|0
+[23|CD|BODY_12|0
+an inertial frame|DT JJ NN|BODY_11|0
+shape recovery process|NN NN NN|BODY_4|0
+medical imaging applications eg|JJ NN NNS NN|BODY_7|0
+anatomical structures|JJ NNS|ABSTRACT_6|0
+a superposition|DT NN|BODY_3|0
+prior models|JJ NNS|BODY_4|0
+the chain rule|DT NN NN|BODY_6|0
+implicit function representation|JJ NN NN|BODY_4|0
+the bayesian framework|DT JJ NN|BODY_5|0
+a similarity transformation|DT NN NN|BODY_5|0
+its natural shape|PRP$ JJ NN|BODY_14|0
+the global and local parameters|DT JJ CC JJ NNS|BODY_13|0
+the ideal bandpass characteristics|DT JJ NN NNS|BODY_11|0
+a given configuration q|DT VBN NN NN|BODY_3|0
+the membrane splines|DT NN NNS|BODY_4|0
+a low probability|DT JJ NN|BODY_7|0
+baye|NN|BODY_8|0
+n 3 )|NN CD -RRB-|BODY_6|0
+a multiresolution relaxation process|DT JJ NN NN|BODY_7|0
+terzopoulos|NNS|BODY_6|0
+the corresponding grid nodes|DT JJ NN NNS|BODY_6|0
+a change|DT NN|BODY_5|0
+the model-fitting process|DT JJ NN|BODY_5|0
+these hybrid models|DT JJ NNS|BODY_1|0
+different frequency components|JJ NN NNS|BODY_9|0
+these grid|DT NN|BODY_3|0
+mean values and covariances|JJ NNS CC NNS|BODY_3|0
+the final recovered shape|DT JJ VBN NN|BODY_18|0
+the initialized 3d shape model|DT JJ JJ NN NN|BODY_13|0
+the advent|DT NN|BODY_1|0
+the parameter u ( same reasoning|DT NN NN -LRB- JJ NN|BODY_3|0
+our experiments|PRP$ NNS|BODY_7|0
+the local magnitude and variation|DT JJ NN CC NN|BODY_3|0
+a (|DT -LRB-|BODY_2|0
+advantage|NN|BODY_6|0
+the hierarchical wavelet-based description|DT JJ JJ NN|BODY_14|0
+a human brain|DT JJ NN|BODY_7:BODY_8|0
+external forces|JJ NNS|BODY_2|0
+the local part|DT JJ NN|BODY_9|0
+a wavelet representation|DT NN NN|BODY_8|0
+k d|NN VBD|BODY_8|0
+a particular coarse-level|DT JJ NN|BODY_5|0
+a multiresolution wavelet representation|DT NN NN NN|BODY_4|0
+z @ \phi|FW FW FW|BODY_5|0
+various fractal orders|JJ JJ NNS|BODY_3|0
+these characteristics|DT NNS|BODY_4|0
+the class ( label )|DT NN -LRB- NN -RRB-|BODY_4|0
+the usual nodal bases|DT JJ NN NNS|BODY_14|0
+interest ( roi) , ( b )|NN -LRB- JJ , -LRB- NN -RRB-|BODY_6|0
+the raw mri data|DT JJ NN NNS|BODY_4|0
+statistical data collection|JJ NNS NN|BODY_4|0
+more detailed prior information|RBR JJ JJ NN|BODY_4|0
+global )|JJ -RRB-|BODY_6|0
+the local deformations|DT JJ NNS|BODY_5|0
+the energies|DT NNS|BODY_3|0
+map ) estimate|NN -RRB- NN|BODY_8|0
+a multi-resolution pyramid|DT NN NN|BODY_4|0
+the stiffness matrix computation|DT NN NN NN|BODY_3|0
+external image|JJ NN|BODY_2|0
+the displayed images|DT VBN NNS|BODY_3|0
+the plethora|DT NN|BODY_5|0
+parameter models|NN NNS|BODY_6|0
+only good model fitting results|RB JJ NN VBG NNS|BODY_5|0
+the structure|DT NN|BODY_4|0
+the vector q c and use q|DT NN NN NN CC NN NN|BODY_3|0
+an important ingredient|DT JJ NN|BODY_3|0
+the increasing popularity|DT VBG NN|BODY_6|0
+the hierarchical basis finite element representation|DT JJ NN NN NN NN|BODY_4|0
+a low resolution mean displacement function|DT JJ NN JJ NN NN|BODY_3|0
+b|NN|BODY_7|0
+the tensor product approximations|DT NN NN NNS|BODY_15|0
+an approximation|DT NN|BODY_2|0
+regular nodal basis|JJ JJ NN|BODY_7|0
+a probabilistic framework [35]|DT JJ NN NN|BODY_3|0
+inner products|JJ NNS|BODY_5|0
+increasingly finer levels|RB JJ NNS|BODY_3|0
+a sagittal section|DT NN NN|BODY_5|0
+difficult shape recovery problems|JJ NN NN NNS|BODY_6|0
+an extension|DT NN|BODY_1|0
+an image array|DT NN NN|BODY_4|0
+each class j|DT NN NN|BODY_4|0
+our future research|PRP$ JJ NN|BODY_1|0
+the displacement map function|DT NN NN NN|BODY_1|0
+the separation frequency j 0|DT NN NN NN CD|BODY_4|0
+some offset deformation|DT VBN NN|BODY_3|0
+the hierarchical finite element method|DT JJ NN NN NN|BODY_3|0
+( c ) superimposition|-LRB- NN -RRB- NN|BODY_16|0
+right top|JJ NN|BODY_4|0
+[36]|NN|BODY_5:BODY_1|0
+the cumulative energy|DT JJ NN|BODY_5|0
+the incorporation|DT NN|ABSTRACT_4|0
+the bandpass characteristic|DT NN NN|BODY_7|0
+a large class|DT JJ NN|ABSTRACT_7|0
+the internal smoothness energy|DT JJ NN NN|BODY_7|0
+the above equation|DT JJ NN|BODY_4|0
+the tensor products|DT NN NNS|BODY_5|0
+these coarse-level wavelet coefficients|DT JJ NN NNS|BODY_2:BODY_1|0
+priors|NNS|BODY_4|0
+the enhanced class|DT JJ NN|BODY_6|0
+the underconstrained nature|DT JJ NN|BODY_7|0
+arbitrary order ( fi)|JJ NN -LRB- NN|BODY_4|0
+the multiresolution wavelet-based pyramid|DT JJ JJ NN|BODY_2|0
+the property|DT NN|BODY_11|0
+a rich variety|DT JJ NN|ABSTRACT_6|0
+combination|NN|BODY_7|0
+19|CD|BODY_23|0
+the following k k hh|DT VBG NN NN NN|BODY_7|0
+wt ( figure|NN -LRB- NN|BODY_2|0
+a vector ff|DT NN NN|BODY_4|0
+the advantages|DT NNS|BODY_2|0
+the finite element solution|DT JJ NN NN|BODY_5|0
+the continuous form|DT JJ NN|BODY_6|0
+all these shape parameters|DT DT NN NNS|BODY_2|0
+fractal generation algorithms|JJ NN NNS|BODY_3|0
+cluster|NN|BODY_8|0
+previous definitions|JJ NNS|BODY_4|0
+the synthesized fractal surfaces|DT JJ JJ NNS|BODY_3|0
+incorporate prior distributions|JJ JJ NNS|BODY_4|0
+local to global shape deformations|JJ TO JJ NN NNS|ABSTRACT_3:BODY_3|0
+our case|PRP$ NN|BODY_3|0
+the superquadric ,|DT JJ ,|BODY_5|0
+our modeling scheme )|PRP$ JJ NN -RRB-|BODY_10|0
+a number|DT NN|BODY_2|0
+a compact description|DT JJ NN|BODY_5|0
+the simulation|DT NN|BODY_5|0
+the center|DT NN|BODY_18|0
+both local and global shape deformations|DT JJ CC JJ NN NNS|BODY_2|0
+abundant literature|JJ NN|BODY_2|0
+mri brain scans|NN NN NNS|BODY_4|0
+26 to , z|CD TO , FW|BODY_3|0
+no additional nodes|DT JJ NNS|BODY_13|0
+an orthogonal basis|DT JJ NN|BODY_2|0
+wavelet decomposition|NN NN|BODY_7|0
+applications|NNS|BODY_2|0
+several advantages|JJ NNS|BODY_2|0
+the specific oe(u )|DT JJ NN -RRB-|BODY_8|0
+the parameter v|DT NN NN|BODY_4|0
+the reconstruction results|DT NN NNS|BODY_2|0
+figure 14|NN CD|BODY_1|0
+reconstruction|NN|BODY_7|0
+global model parameters|JJ NN NNS|BODY_5|0
+a gyrus )|DT NN -RRB-|BODY_9|0
+the upper left corner|DT JJ JJ NN|BODY_2|0
+an o( n ) computational cost )|DT NN NN -RRB- JJ NN -RRB-|BODY_7|0
+more|JJR|BODY_6|0
+a much wider range|DT JJ JJR NN|BODY_5|0
+a closed form expression|DT JJ NN NN|BODY_2|0
+coarse-to-fine search|JJ NN|BODY_3|0
+a new multi-resolution hybrid|DT JJ NN NN|BODY_3|0
+a region|DT NN|BODY_7|0
+scheme [47]|NN NN|BODY_4|0
+the global description|DT JJ NN|BODY_4|0
+a perfectly invertible transform|DT RB JJ VB|BODY_4|0
+the global  parameters|DT JJ NN NNS|BODY_9|0
+a hippocampus shape|DT JJ NN|BODY_5|0
+our underlying global shape|PRP$ VBG JJ NN|BODY_2|0
+our modeling|PRP$ JJ|ABSTRACT_4|0
+the multi-level splitting|DT JJ NN|BODY_6|0
+most likely state|RBS JJ NN|BODY_3|0
+! j and 2|. NN CC CD|BODY_5|0
+an ideal band-pass characteristic|DT JJ NN NN|BODY_3|0
+the multiresolution wavelet basis|DT JJ NN NN|ABSTRACT_1|0
+( d ) configurations|-LRB- NN -RRB- NNS|BODY_8|0
+section 3 )|NN CD -RRB-|BODY_5|0
+all|DT|BODY_8|0
+creation|NN|BODY_9|0
+e|NN|BODY_1|0
+one step|CD NN|BODY_3|0
+the euclidean space|DT JJ NN|BODY_3|0
+the model stiffness|DT NN NN|BODY_1|0
+the technique|DT NN|BODY_3|0
+this energy|DT NN|BODY_1|0
+specific prior knowledge|JJ JJ NN|BODY_4|0
+a transformation|DT NN|BODY_6|0
+an appropriate level|DT JJ NN|BODY_5|0
+specific anatomical shapes|JJ JJ NNS|BODY_2|0
+the underlying global shape|DT VBG JJ NN|BODY_3|0
+equation 13|NN CD|BODY_5|0
+the global and local part|DT JJ CC JJ NN|BODY_6|0
+the global and local parts|DT JJ CC JJ NNS|BODY_9|0
+relatively few parameters|RB JJ NNS|ABSTRACT_6|0
+continuously  scale|RB VBN NN|BODY_2|0
+prior model and sensor model characteristics|JJ NN CC NN NN NNS|BODY_4|0
+both ends|DT NNS|ABSTRACT_3|0
+a parameter vector|DT NN NN|BODY_2|0
+! \gamma4 respectively|. NNP RB|BODY_8|0
+the hierarchical decomposition|DT JJ NN|BODY_7|0
+an arbitrary j|DT JJ NN|BODY_4|0
+( e )|-LRB- NN -RRB-|BODY_20|0
+desired anatomical shapes|JJ JJ NNS|BODY_6|0
+our wt implementation|PRP$ NN NN|BODY_6|0
+fine detail ( detail function|JJ NN -LRB- NN NN|BODY_8|0
+a very fast numerical solution|DT RB JJ JJ NN|BODY_5|0
+the diagonal elements|DT JJ NNS|BODY_3|0
+the deformable superquadric primitive|DT JJ JJ JJ|BODY_12|0
+a multiresolution wavelet basis|DT JJ NN NN|BODY_5|0
+the greater variety|DT JJR NN|BODY_6|0
+the library|DT NN|BODY_6:BODY_1|0
+the previous section|DT JJ NN|BODY_3|0
+the displacement vector function|DT NN NN NN|BODY_3|1
+a new way|DT JJ NN|BODY_10|0
+the useful aspects|DT JJ NNS|BODY_2|0
+two such examples|CD JJ NNS|BODY_2|0
+the unsupervised learning technique|DT JJ NN NN|BODY_3|1
+the 3d model initialization|DT JJ NN NN|BODY_8|0
+the augmentation process|DT NN NN|BODY_10|0
+smooth transitions|JJ NNS|BODY_4|0
+shape models|NN NNS|BODY_5|0
+the training stage|DT NN NN|BODY_4|0
+a ) larger data sets|DT -RRB- JJR NNS NNS|BODY_6|0
+computer vision/medical imaging applications|NN JJ NN NNS|BODY_8|0
+the membrane displacement function|DT NN NN NN|BODY_5|0
+these multiresolution shape models|DT JJ NN NNS|ABSTRACT_2|0
+the frequency characteristics|DT NN NNS|BODY_3|0
+our underlying reference shape|PRP$ JJ NN NN|BODY_3|0
+the clustering|DT NN|BODY_4|0
+the locations|DT NNS|BODY_2|0
+our multiresolution deformable superquadric model|PRP$ NN JJ JJ NN|BODY_4|0
+no loss|DT NN|BODY_6|0
+rotational coordinates|JJ NNS|BODY_5|0
+the reference superquadric shape|DT NN JJ NN|BODY_4|0
+a uniform tessalation|DT JJ NN|BODY_11:BODY_1|0
+the mechanics|DT NNS|BODY_7|0
+geometric parameters|JJ NNS|BODY_6|0
+vector|NN|BODY_4|0
+[2] )|NNP -RRB-|BODY_6|0
+natural detail|JJ NN|ABSTRACT_6:BODY_9|0
+way|NN|BODY_3|0
+semi-global shape|JJ NN|BODY_5|0
+no smooth transition|DT JJ NN|BODY_3|0
+the explicit form|DT JJ NN|BODY_2|0
+( a ) ( b|-LRB- DT -RRB- -LRB- NN|BODY_1|0
+8]|CD|BODY_6|0
+spline models|NN NNS|BODY_1|0
+the membrane increases|DT NN NNS|BODY_6|0
+the models|DT NNS|BODY_1|0
+the observed shapes|DT JJ NNS|BODY_6|0
+the frequency|DT NN|BODY_7|0
+nodal variables )|JJ NNS -RRB-|BODY_9|0
+this enhanced shape|DT JJ NN|BODY_7|0
+global to local shape descriptions|JJ TO JJ NN NNS|BODY_14:BODY_7|0
+the internal energy e p|DT JJ NN NN NN|BODY_2|0
+the local parameters|DT JJ NNS|BODY_8|0
+this enhanced class|DT JJ NN|BODY_2|0
+the sensed data|DT VBN NNS|BODY_8|0
+the value|DT NN|BODY_10|0
+descriptions|NNS|BODY_7|0
+43 , 29 , 2 , 41 , 9 , 44 , 45 , 42 , 14]|CD , CD , CD , CD , CD , CD , CD , CD , CD|BODY_5|0
+many shape modeling schemes|JJ NN JJ NNS|BODY_1|0
+the displacement maps|DT NN NNS|BODY_5|0
+wavelets or quadrature mirror filter pyramids|NNS CC NN NN NN NNS|BODY_1|0
+the multi-resolution basis|DT JJ NN|BODY_8|0
+a wavelet basis representation|DT NN NN NN|BODY_2|0
+no high-pass filtering operation|DT JJ NN NN|BODY_4|0
+[2 ]|DT NN|BODY_9|0
+[27]|NN|BODY_8|0
+the efficient computation|DT JJ NN|BODY_3|0
+two examples|CD NNS|BODY_2|0
+a  satisfactory  fit|DT JJ JJ JJ NN|BODY_4|0
+i .e|FW FW|BODY_10|0
+the associated covariance matrices|DT VBN NN NNS|BODY_8|0
+a multi-resolution wavelet basis|DT JJ NN NN|BODY_7|0
+the mean shapes|DT JJ NNS|BODY_11|0
+the application|DT NN|BODY_1|0
+a training sequence|DT NN NN|BODY_1|0
+a recursive algorithm|DT JJ NN|BODY_2|0
+this section|DT NN|BODY_1:BODY_3|0
+its scale|PRP$ NN|BODY_12|0
+each scale|DT NN|BODY_1|0
+human visual supervision|JJ JJ NN|BODY_2|0
+other global shape parameters|JJ JJ NN NNS|BODY_2|0
+v j+1|FW CD|BODY_1:BODY_7|0
+the continuous strain energy|DT JJ NN NN|BODY_10|0
+a horizontal elliptical contour|DT JJ JJ NN|BODY_1|0
+an approach|DT NN|BODY_1|0
+current prior model p( q )|JJ JJ NN NN NNS -RRB-|BODY_8|0
+distribution [20]|NN NN|BODY_18|0
+etc|FW|BODY_8|0
+fractal dimension|NN NN|BODY_11|0
+increasing frequency|VBG NN|BODY_8|0
+latex|JJ|BODY_9|0
+other words|JJ NNS|BODY_1|0
+section 2.2 )|NN CD -RRB-|BODY_14|0
+superquadric shapes|JJ NNS|BODY_1|0
+the corresponding gibbs distribution|DT JJ NNS NN|BODY_10|0
+the figure 13|DT NN CD|BODY_8|0
+the given measured point d i|DT VBN JJ NN NN NN|BODY_12|0
+the parameter direction|DT NN NN|BODY_11|0
+the windowed|DT NN|BODY_1|0
+volumetric analysis|JJ NN|BODY_1|0
+the representation|DT NN|BODY_6|0
+a hybrid primitive|DT JJ JJ|ABSTRACT_2:BODY_2|0
+the exponentially decaying motion|DT RB VBG NN|BODY_5|0
+the same level|DT JJ NN|BODY_1|0
+brain mri data|NN NN NNS|BODY_10|0
+figure 11|NN CD|BODY_1|0
+the bottom-right corner|DT JJ NN|BODY_4|0
+a gradient descent method|DT JJ NN NN|BODY_6|0
+a new modeling scheme|DT JJ JJ NN|BODY_3|0
+a new shape modeling scheme|DT JJ NN JJ NN|BODY_4|0
+a new shape-modeling scheme|DT JJ JJ NN|ABSTRACT_2|0
+a new technique|DT JJ NN|BODY_9|0
+a supervised learning method|DT JJ NN NN|BODY_3|0
+the unknown probabilities|DT JJ NNS|BODY_6|0
+a finer level|DT NN NN|BODY_8|0
+g g|JJ JJ|BODY_14|0
+the hierarchical orthonormal basis|DT JJ JJ NN|BODY_1|0
+the elastic properties|DT JJ NNS|BODY_11|0
+the object shapes|DT NN NNS|BODY_3|0
+energy minimizing splines|NN VBG NNS|BODY_8|0
+the gibbs sampler [20]|DT NNS NN NN|BODY_6|0
+the variable being|DT JJ NN|BODY_6|0
+shorter time intervals|JJR NN NNS|BODY_6|0
+noisy ) images|JJ -RRB- NNS|BODY_7|0
+each matrix|DT NN|BODY_8|0
+the superscript h ( l ) d d|DT JJ NN -LRB- NN -RRB- NN NN|BODY_1|0
+v j|NN NN|BODY_12|0
+the drawback|DT NN|BODY_1|0
+2.2.2 extension|CD NN|BODY_1|0
+our research|PRP$ NN|BODY_1|0
+34]|CD|BODY_7|0
+( b )|-LRB- NN -RRB-|BODY_6|0
+the separation|DT NN|BODY_1|0
+the locally deformable surface|DT RB JJ NN|BODY_3|0
+the rest|DT NN|BODY_1|0
+45 , 50 , 17 , 13 , 14]|CD , CD , CD , CD , CD|BODY_16|0
+computational resources|JJ NNS|BODY_11|0
+conver- gence|NNS NN|BODY_11|0
+the physically-based model [49]|DT JJ NN NN|BODY_16|0
+nontrivial shapes|JJ NNS|BODY_1|0
+the factor j|DT NN NN|BODY_1|0
+splines|NNS|BODY_1|0
+( a ) ( b ) ( c|-LRB- DT -RRB- -LRB- NN -RRB- -LRB- NN|BODY_1|0
+higher resolutions|JJR NNS|BODY_7|0
+time and frequency resolutions|NN CC NN NNS|BODY_9|0
+a 1d example|DT JJ NN|BODY_15|0
+1.25mm thickness|CD NN|BODY_5|0
+computational efficiency|JJ NN|BODY_1|0
+1 )|CD -RRB-|BODY_6|0
+[32]|NN|BODY_6|0
+qmfs )|NNS -RRB-|BODY_4|0
+these|DT|BODY_1|0
+the large grid spacing|DT JJ NN NN|BODY_5|0
+figure 2|NN CD|BODY_1|0
+the method|DT NN|BODY_7|0
+earlier work|JJR NN|BODY_1|0
+lower energy shapes|JJR NN NNS|BODY_7|0
+the underlying fractal|DT VBG NN|BODY_7|0
+time|NN|BODY_4|0
+a small sample data set|DT JJ NN NN NN|BODY_4|0
+normalization|NN|BODY_1|0
+a self explanatory block diagram|DT NN NN NN NN|BODY_1|0
+imperfect data|JJ NNS|BODY_1|0
+figure model|NN NN|BODY_1|0
+higher frequencies|JJR NNS|BODY_4|0
+extension|NN|BODY_1|0
+thin-plate-membrane splines|NN NNS|BODY_1|0
+[19 , 48 , 3]|CD , CD , CD|BODY_7|0
+section 6|NN CD|BODY_11|1
+7 )|CD -RRB-|BODY_35|0
+j 1 )|NN CD -RRB-|BODY_23|0
+a stiffness matrix|DT NN NN|BODY_1|0
+poor quality data|JJ NN NNS|BODY_2|0
+p ( x(q|NN -LRB- NNP|BODY_1|0
+our application|PRP$ NN|BODY_1|0
+single level subdivisions|JJ NN NNS|BODY_1|0
+the combination|DT NN|BODY_1|0
+nodal interpolation functions|JJ NN NNS|BODY_9|1
+the parametric equation|DT JJ NN|BODY_1|0
+41]|CD|BODY_6|0
+other parameters|JJ NNS|BODY_1|0
+either shape reconstruction or shape recognition tasks|DT NN NN CC NN NN NNS|BODY_4|0
+the partition function z.|DT NN NN NN|BODY_5|0
+the training phase human supervision|DT NN NN JJ NN|BODY_1|0
+thin-plate terms|JJ NNS|BODY_7|0
+4.3 prior model|CD JJ NN|BODY_1|0
+modeling free-form shapes [36]|JJ JJ NNS NN|BODY_5|0
+the link|DT NN|BODY_1|0
+a preselected threshold ) changes|DT JJ NN -RRB- NNS|BODY_5|0
+this augmented set|DT JJ NN|BODY_1|0
+5 supervised learning and model fitting results|CD JJ NN CC NN JJ NNS|BODY_1|0
+its structure|PRP$ NN|BODY_6|0
+orthogonality|NN|BODY_1|0
+the learning|DT NN|BODY_1|0
+parameter|NN|BODY_1|0
+the ( membrane ) displacement function|DT -LRB- NN -RRB- NN NN|BODY_10|0
+3d shape modeling|VBN NN NN|ABSTRACT_1|0
+introduction modeling shapes|NN JJ NNS|BODY_1|0
+a comparison|DT NN|BODY_1|0
+a good population size|DT JJ NN NN|BODY_1|0
+several shape modeling techniques|JJ NN VBG NNS|ABSTRACT_1|0
+any deformable surfaces|DT JJ NNS|BODY_1|0
+the multi-resolution pyramid|DT NN NN|BODY_12|0
+! fi|. NN|BODY_5|0
+a result|DT NN|BODY_1|0
+modeling irregular shapes|NN JJ NNS|BODY_3|0
+these algorithms|DT NNS|BODY_1|0
+these spectra|DT NN|BODY_1|0
+a  semi-global  character|DT NN JJ NN NN|BODY_6|0
+our hybrid models|PRP$ JJ NNS|BODY_1|0
+mr images|JJ NNS|BODY_10|0
+this approximation|DT NN|BODY_7|0
+2.3|CD|BODY_1|0
+figure 9|NN CD|BODY_1|0
+this displacement vector q|DT NN NN NN|BODY_1|0
+[42] )|NNP -RRB-|BODY_8|0
+figure 8|NN CD|BODY_1|0
+the expert anatomist|DT NN NN|BODY_1|0
+the above iterative equation|DT JJ JJ NN|BODY_1|0
+local minima|JJ NN|BODY_9|0
+the functions|DT NNS|BODY_9|0
+formation|NN|BODY_5|0
+he|PRP|BODY_1|0
+the ordinary nodal basis|DT JJ NN NN|BODY_7|0
+contrast|NN|BODY_1|0
+the need|DT NN|BODY_1|0
+p(u|NNS|BODY_1|0
+surface fitting applications|NN JJ NNS|BODY_8|0
+synthesized fractal surfaces|JJ JJ NNS|BODY_9|0
+an important aspect|DT JJ NN|BODY_1|0
+appropriate order|JJ NN|BODY_8|0
+the authors|DT NNS|BODY_1|0
+the implications|DT NNS|BODY_1|0
+the next finer mesh|DT JJ NN NN|BODY_5|0
+these properties|DT NNS|BODY_1|0
+terzopoulos [42]|NNS NNS|BODY_5|0
+( see figure|-LRB- VB NN|BODY_1|0
+the configuration|DT NN|BODY_1|0
+these surfaces|DT NNS|BODY_1|0
+'s theorem [11]|POS NN NN|BODY_11|0
+maximization|NN|BODY_1|0
+the damping matrix c|DT NN NN NN|BODY_1|0
+the modal deformations|DT JJ NNS|BODY_1|0
+a verification|DT NN|BODY_1|0
+the prior models|DT JJ NNS|BODY_5|0
+the prior and sensor models|DT JJ CC JJ NNS|BODY_1|0
+a normalizing|DT JJ|BODY_11|0
+deformation|NN|BODY_9|0
+influence )|NN -RRB-|BODY_8|0
+the model-centered coordinate frame|DT JJ VB NN|BODY_22|0
+the implementation|DT NN|BODY_1|0
+the main goal|DT JJ NN|BODY_1|0
+the two types|DT CD NNS|BODY_1|0
+discussed|VBN|BODY_16|0
+3 probabilistic framework and model mechanics|CD JJ NN CC NN NNS|BODY_1|0
+a detailed description|DT JJ NN|BODY_1|0
+bumps etc|NNS NN|BODY_10|0
+construction|NN|BODY_1|0
+known scalar parameters|VBN NN NNS|BODY_4|0
+one another|CD DT|BODY_10|0
+the formulation|DT NN|BODY_1|0
+the function d(u )|DT NN NN -RRB-|BODY_1|0
+the rate|DT NN|BODY_1|0
+this matrix|DT NN|BODY_5|0
+local deformations|JJ NNS|BODY_4|0
+transformation|NN|BODY_1|0
+16]|CD|BODY_7|0
+hence the condition number|RB DT NN NN|BODY_9|0
+volume|NN|BODY_5|0
+the distributed nature|DT VBN NN|BODY_1|0
+this method|DT NN|BODY_1|0
+the multiresolution pyramid method|DT NN NN NN|BODY_1|0
+[36] fractals|JJ NNS|BODY_1|0
+the initialized model|DT JJ NN|BODY_1|0
+the approximation|DT NN|BODY_1|0
+equations 12 , 28 and 29|NNS CD , CD CC CD|BODY_1|0
+the classes|DT NNS|BODY_10|0
+a computational point|DT JJ NN|BODY_1|0
+a hybrid modeling scheme|DT JJ JJ NN|BODY_1|0
+the multiresolution hybrid models|DT NN NN NNS|BODY_1|0
+this information|DT NN|BODY_1|0
+l 2 (|JJ CD -LRB-|BODY_3|0
+iterative improvment|DT NN|BODY_1|0
+a ) )|DT -RRB- -RRB-|BODY_10|0
+a gibbsian distribution|DT JJ NN|BODY_10|0
+the estimates|DT NNS|BODY_7|0
+the two approximations|DT CD NNS|BODY_5|0
+the mr image data|DT JJ NN NNS|BODY_5|0
+a higher value|DT JJR NN|BODY_1|0
+the membrane and thin-plate models|DT NN CC JJ NNS|BODY_11|0
+the plate membrane models|DT NN NN NNS|BODY_9|0
+the former|DT JJ|BODY_1|0
+a multi-resolution stochastic relaxation algorithm|DT JJ JJ NN NN|BODY_7|0
+coarser|NN|BODY_8|0
+the explicit evaluation|DT JJ NN|BODY_1|0
+sensor measurements|NN NNS|BODY_4|0
+computer vision applications|NN NN NNS|BODY_8|0
+2.1 geometry|CD NN|BODY_1|0
+our purposes|PRP$ NNS|BODY_1|0
+the overall distribution|DT JJ NN|BODY_4|0
+a fast implementation|DT JJ NN|BODY_1|0
+shape reconstruction tasks|NN NN NNS|BODY_4|0
+standard finite element subdivision techniques|JJ JJ NN NN NNS|BODY_8|0
+the purpose|DT NN|BODY_1|0
+2.2.1 detail function|CD NN NN|BODY_1|0
+an important property|DT JJ NN|BODY_1|0
+the derivative|DT NN|BODY_1|0
+0 i|CD NN|BODY_6|0
+the model mechanics|DT NN NNS|BODY_6|0
+computer vi- sion|NN NNS NN|BODY_4|0
+a broad geometric coverage|DT JJ JJ NN|BODY_3|0
+shape reconstruction|NN NN|BODY_1|0
+the retransformation|DT NN|BODY_1|0
+the displacement vector|DT NN NN|BODY_17|0
+dynamics|NNS|BODY_1|0
+the standard way|DT JJ NN|BODY_1|0
+the reference shape|DT NN NN|BODY_1|0
+equation 30 )|NN CD -RRB-|BODY_8|0
+u and v directions|PRP CC RB NNS|BODY_18|0
+the data compression purposes|DT NNS NN NNS|BODY_4|0
+a hierarchical basis finite element scheme|DT JJ NN NN NN NN|BODY_3|0
+the shape recovery process|DT NN NN NN|BODY_1|0
+this however|DT RB|BODY_1|0
+this prior information|DT JJ NN|BODY_1|0
+this approach|DT NN|BODY_1|0
+the part k|DT NN NN|BODY_1|0
+a multiresolution orthonormal wavelet basis|DT NN JJ NN NN|BODY_1|0
+the direct sum operator|DT JJ NN NN|BODY_10|0
+blending approximations|VBG NNS|BODY_6|0
+a constant|DT JJ|BODY_9|0
+various fi|JJ NN|BODY_4|0
+left to right and top|JJ TO JJ CC JJ|BODY_1|0
+sequence|NN|BODY_6|0
+a smaller resolution|DT JJR NN|BODY_5|0
+a wavelet decomposition|DT NN NN|BODY_1|0
+white noise|JJ NN|BODY_1|0
+few additional parameters|JJ JJ NNS|BODY_10|0
+the thin-plate splines|DT JJ NNS|BODY_6|0
+modal deformations and displacement maps|JJ NNS CC NN NNS|BODY_7|0
+the distinction|DT NN|BODY_1|0
+a given level|DT VBN NN|BODY_4|0
+the gibbs sampler technique|DT NN NN NN|BODY_1|0
+the thin-plate-membrane splines|DT JJ NNS|BODY_7|0
+the multiresolution hybrid model|DT NN JJ NN|BODY_5|0
+vogue|NN|ABSTRACT_5|0
+no additional prior information|DT JJ JJ NN|BODY_1|0
+( leonard|-LRB- NN|BODY_1|0
+[22] )|NNP -RRB-|BODY_3|0
+an observed object|DT JJ NN|BODY_8|0
+the reason|DT NN|BODY_1|0
+a supervised learning technique|DT JJ NN NN|BODY_6|0
+prior model|JJ NN|BODY_7|0
+1 (u|CD NN|BODY_1|0
+the new solution|DT JJ NN|BODY_10|0
+figure 13 )|NN CD -RRB-|BODY_7|0
+shape recognition tasks|NN NN NNS|BODY_8|0
+the recovery algorithms|DT NN NNS|BODY_6|0
+such tasks|JJ NNS|BODY_2|0
+modeling natural detail|JJ JJ NN|BODY_2|0
+these basis|DT NN|BODY_1|0
+the standard organization|DT JJ NN|BODY_6|0
+interactive sculpting|JJ NN|BODY_6|0
+these statistics|DT NNS|BODY_1|0
+vector q d|NN NN NN|BODY_1|0
+4 prior model|CD JJ NN|BODY_1|0
+global models or vice-versa|JJ NNS CC NN|BODY_7|0
+6 conclusion|CD NN|BODY_1|0
+the lumped parameter models|DT VBN NN NNS|BODY_1|0
+figure 15(|NN CD|BODY_1|0
+this context|DT NN|BODY_4|0
+this representation|DT NN|BODY_8|0
+the retessalation|DT NN|BODY_1|0
+our probabilistic shape recovery algorithm|PRP$ JJ NN NN NN|BODY_6|0
+fast retessalation|JJ NN|BODY_1|0
+the runge-kutta method [15]|DT NN NN NN|BODY_3|0
+these problems|DT NNS|BODY_3|0
+4.2|CD|BODY_1|0
+a straight-forward and inexpensive way|DT RB CC JJ NN|BODY_4|0
+the multi-resolution wavelet basis|DT JJ NN NN|BODY_1|0
+the key idea|DT JJ NN|BODY_1|0
+model deformations and parameters|NN NNS CC NNS|BODY_6|0
+a salient feature|DT JJ NN|ABSTRACT_1|0
+another salient feature|DT JJ NN|BODY_1|0
+further experimentation|RBR NN|BODY_1|0
+the shape low|DT NN JJ|BODY_9|0
+their description|PRP$ NN|BODY_6:BODY_5|0
+grid nodes|NN NNS|BODY_8|0
+attractive global shape characterization|JJ JJ NN NN|BODY_8|0
+new rest state|JJ NN NN|BODY_9|0
+the observed data|DT JJ NNS|BODY_22|0
+the aforementioned augmentation process|DT JJ NN NN|BODY_9|0
+a scale parameter|DT NN NN|BODY_15|0
+generated shapes|VBN NNS|BODY_9|0
+the single level finite element subdivision|DT JJ NN NN NN NN|BODY_1|0
+a compact representation technique|DT JJ NN NN|BODY_2|0
+a spline or pyramid-based multiresolution method [12]|DT NN CC JJ NN NN NN|BODY_3|0
+scale|NN|BODY_12|0
+smoother interpolation|JJ NN|BODY_1|0
+the true values|DT JJ NNS|BODY_10|0
+the mri brain scan|DT NN NN NN|BODY_6|0
+a hierarchical basis finite element representation|DT JJ NN NN NN NN|BODY_6|0
+an order three runge-kutta method|DT NN CD NN NN|BODY_2|0
+instance|NN|BODY_1|0
+section 4|NN CD|BODY_1|0
+section 4.2|NN CD|BODY_1|0
+surface modeling applications|NN JJ NNS|BODY_1|0
+the earlier sections|DT JJR NNS|BODY_1|0
+the following|DT VBG|BODY_1|0
+the following sections|DT JJ NNS|BODY_1|1
+the parameterized reference shape s(u|DT JJ NN NN NN|BODY_1|0
+the uniform tessalation|DT NN NN|BODY_1|0
+p( q j d)|JJ NN NN NN|BODY_10|0
+multi-resolution geometry|JJ NN|BODY_1|0
+this key attractive feature|DT NN JJ NN|BODY_1|0
+10 , 20 , 40|CD , CD , CD|BODY_10|0
+the equilibrium state|DT NN NN|BODY_7|0
+the internal strain energy e p|DT JJ NN NN NN NN|BODY_1|0
+the model frame|DT NN NN|BODY_5|0
+the state|DT NN|BODY_1|0
+the training process feasible|DT NN NN NN|BODY_8|0
+three successive resolutions|CD JJ NNS|BODY_4|0
+natural images|JJ NNS|BODY_7|0
+the cubic spline interpolants|DT JJ NN NNS|BODY_12|0
+the iterative training phase|DT JJ NN NN|BODY_13|0
+global shape descriptive power|JJ NN NN NN|BODY_9|0
+global shape descriptive powerto|JJ NN NN NN|ABSTRACT_9|0
+purely lumped parameters|RB VBN NNS|BODY_7|0
+4.1 internal energy|CD JJ NN|BODY_1|0
+a question|DT NN|BODY_1|0
+any approach|DT NN|BODY_1|0
+the shape recovery problem|DT NN NN NN|BODY_16|0
+0 (u ) and|CD NN -RRB- CC|BODY_1|0
+this ordinary differential equation|DT JJ JJ NN|BODY_1|0

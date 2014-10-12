@@ -1,0 +1,447 @@
+we|PRP|BODY_11:BODY_22:BODY_18:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|4
+which|WDT|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:ABSTRACT_8:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|5
+the loss|DT NN|BODY_6:BODY_5:BODY_16:BODY_13:BODY_2:BODY_1:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_8|4
+loss|NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|1
+loss concealment|NN NN|BODY_6:BODY_12:ABSTRACT_6:ABSTRACT_4:BODY_3:BODY_7:ABSTRACT_9|0
+the same flow|DT JJ NN|BODY_6:BODY_16:ABSTRACT_7:BODY_8|3
+the other hand|DT JJ NN|BODY_1:ABSTRACT_1:BODY_8|1
+the speech signal|DT NN NN|ABSTRACT_5:BODY_4:BODY_10|1
+packets|NNS|BODY_6:ABSTRACT_4:ABSTRACT_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|1
+hop-by-hop support schemes|JJ NN NNS|BODY_1:ABSTRACT_1|2
+they|PRP|BODY_6:ABSTRACT_4:BODY_1:BODY_2:BODY_4:BODY_9|1
+on one hand|IN CD NN|ABSTRACT_3:BODY_4|0
+the end-to-end level|DT JJ NN|BODY_2:ABSTRACT_1|0
+a flow|DT NN|BODY_5:BODY_2:ABSTRACT_7:BODY_7|1
+the impact|DT NN|ABSTRACT_6:ABSTRACT_4:BODY_2:BODY_24:BODY_3|0
+user perception|NN NN|BODY_6:ABSTRACT_6:BODY_26:ABSTRACT_7|2
+terms|NNS|BODY_5:ABSTRACT_6:ABSTRACT_3:BODY_8|1
+packet loss|NN NN|BODY_5:ABSTRACT_7:BODY_9|0
+the internet|DT NN|ABSTRACT_2:BODY_7|0
+significant speech quality improvements|JJ NN NN NNS|ABSTRACT_2|1
+c.4 [computer systems organization|CD NN NNS NN|ABSTRACT_6:ABSTRACT_9|0
+the decoder filter memories|DT NN NN NNS|ABSTRACT_7|0
+a voice data flow|DT NN NN NN|ABSTRACT_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the speech signal playout|DT NN NN NN|ABSTRACT_9|0
+a higher perceptual impact|DT JJR JJ NN|ABSTRACT_7|0
+best effort packet-switched networks|JJS NN JJ NNS|ABSTRACT_1|0
+more important information|RBR JJ NN|ABSTRACT_5|1
+a network service|DT NN NN|ABSTRACT_4|1
+the concealment performance|DT NN NN|ABSTRACT_3|1
+the long term|DT JJ NN|ABSTRACT_7|1
+[computer communication networks|NN NN NNS|ABSTRACT_2|0
+the packet loss|DT NN NN|ABSTRACT_8|0
+these packet-level metrics|DT NN NNS|ABSTRACT_1|0
+general terms design|JJ NNS NN|ABSTRACT_12|0
+the same cost|DT JJ NN|ABSTRACT_2|0
+even short bursts|RB JJ NNS|ABSTRACT_4|0
+this utility impairment|DT NN NN|ABSTRACT_2|0
+a reliable transmission|DT JJ NN|ABSTRACT_3|0
+an end-to-end model|DT JJ NN|ABSTRACT_2|0
+low-compressing sample-based codecs|JJ JJ NNS|ABSTRACT_3|0
+the loss distribution|DT NN NN|ABSTRACT_6|0
+high-compressing frame-based codecs|JJ JJ NNS|ABSTRACT_1|0
+the application-level utility|DT JJ NN|ABSTRACT_3|0
+the above sensitivity constraints|DT JJ NN NNS|BODY_3:BODY_9|1
+the subjective quality differs|DT JJ NN NNS|BODY_13|1
+the realtime delay constraints|DT NN NN NNS|BODY_3|1
+the lowest bitrate codec|DT JJS JJ NN|BODY_3|1
+a ib suit value|DT NN NN NN|BODY_4|1
+approximate corresponding mos values|JJ JJ NN NNS|BODY_13|1
+the state transition probability|DT NN NN NN|BODY_6:BODY_4:BODY_7|0
+a general markov model|DT JJ NN NN|BODY_4:BODY_8|0
+a very low bitrate|DT RB JJ NN|BODY_2|0
+the itu-t recommendation p.861|DT JJ NN NNS|BODY_10|0
+a very high correlation|DT RB JJ NN|BODY_2|0
+state and transition probabilities|NN CC NN NNS|BODY_2|0
+linear prediction filter coefficients|NN NN NN NNS|BODY_7|0
+the g.7i9 encoder analyzes|DT CD NN NNS|BODY_2|0
+p(k--l )( k )|JJ JJ NN -RRB-|BODY_3|0
+the predictor filter memories|DT NN NN NNS|BODY_6|0
+a moving average filter|DT VBG NN NN|BODY_2|0
+ezactly lc consecutive packets|RB JJ JJ NNS|BODY_7|0
+an intraflow qos scheme|DT JJ JJ NN|BODY_4|0
+an end-to-end internet trace|DT NN NN NN|BODY_3|0
+objective speech quality measurement|JJ NN NN NN|BODY_6:BODY_23|0
+the utility function (|DT NN NN -LRB-|BODY_2|0
+these conditional loss probabilities|DT JJ NN NNS|BODY_7|0
+an example p( z(|DT NN NN NN|BODY_1|0
+the resulting speech quality|DT VBG NN NN|BODY_1|0
+cr== , #+l,k and|FW , JJ CC|BODY_5|0
+a successfully arriving packet|DT RB VBG NN|BODY_3|0
+the last good frame|DT JJ JJ NN|BODY_3|0
+differential red drop probabilities|JJ JJ NN NNS|BODY_2|0
+0 and 1 )|CD CC CD -RRB-|BODY_3|0
+the ap/c concealment algorithm|DT JJ NN NN|BODY_2|0
+the random variable x|DT JJ JJ SYM|BODY_3|0
+the line spectral pairs|DT NN JJ NNS|BODY_4|0
+the objective quality measure|DT JJ NN NN|BODY_2|0
+subjective test result values|JJ NN NN NNS|BODY_6|0
+the endto-end loss recovery|DT JJ NN NN|BODY_6|0
+a considerable performance improvement|DT JJ NN NN|BODY_10|0
+about particular coding schemes|IN JJ NN NNS|BODY_7|0
+the perceptual distortion values|DT JJ NN NNS|BODY_4|0
+the snr-threshold-based resynchronization time|DT JJ NN NN|BODY_10|0
+the linear prediction coefficients|DT NN NN NNS|BODY_7|0
+a queue management mechanism|DT NN NN NN|BODY_10|0
+here higher order models|RB JJR NN NNS|BODY_6|0
+a queue management algorithm|DT NN NN NN|BODY_2|0
+the resulting signal degradation|DT VBG NN NN|BODY_6|0
+the last state x|DT JJ NN NN|BODY_3|0
+a different perceptual impact|DT JJ JJ NN|BODY_11|0
+a generic utility function|DT JJ NN NN|BODY_3|0
+the wed coding scheme|DT NNP NN NN|BODY_7|0
+same size , frequency|JJ NN , NN|BODY_6|0
+a rather small impact|DT RB JJ NN|BODY_3|0
+a + 00 )|DT JJ CD -RRB-|BODY_12|0
+the higher the non-linearity|DT JJR DT NN|BODY_2|0
+embsd ) figure 6|NN -RRB- NN CD|BODY_9|0
+embsd ) figure 7|NN -RRB- NN CD|BODY_13|0
+several adus (voice frames|JJ NN NN NNS|BODY_3|0
+2 ( p( x|CD -LRB- NN NN|BODY_10|0
+two objective quality measures|CD JJ NN NNS|BODY_3|0
+the state transition probabilities|DT NN NN NNS|BODY_15|0
+the overall utility curve|DT JJ NN NN|BODY_8|0
+a burst loss length|DT NN NN NN|BODY_5:BODY_2|0
+( 64 kbit/s )|-LRB- CD NN -RRB-|BODY_6|0
+the associated random variable|DT JJ JJ JJ|BODY_24|0
+the relative frequency pl,k|DT JJ NN NN|BODY_9|0
+the loss concealment repairs|DT NN NN NNS|BODY_8|0
+different qos enhancement approaches|JJ NNS NN NNS|BODY_3|0
+a random variable y|DT JJ JJ NN|BODY_3|0
+a certain speech sample|DT JJ NN NN|BODY_22|0
+the loss indicator function|DT NN NN NN|BODY_12|0
+largely different perceptual importance|RB JJ JJ NN|BODY_4|0
+a 6xed output bitrate|DT JJ NN NN|BODY_3|0
+state x = m|NN NN SYM NN|BODY_3|0
+the relative improvement increases|DT JJ NN NNS|BODY_1|0
+the past loss events|DT JJ NN NNS|BODY_5|0
+( m + 1|-LRB- NN NN CD|BODY_6|0
+a model ( [12]|DT NN -LRB- NNP|BODY_3|0
+the lowest possible bitrate|DT JJS JJ NN|BODY_3|0
+a loss run-length model|DT NN NN NN|BODY_3|0
+every additional lost packet|DT JJ VBN NN|BODY_2|0
+a larger signal degradation|DT JJR NN NN|BODY_15|0
+a video flow )|DT NN NN -RRB-|BODY_6|0
+the human auditory system|DT JJ NN NN|BODY_6|0
+the respective loss condition|DT JJ NN NN|BODY_6|0
+no loss correlation )|DT NN NN -RRB-|BODY_7|0
+an increasing loss rate|DT VBG NN NN|BODY_11|0
+figure 1 b )|NN CD NN -RRB-|BODY_1|0
+such a non-linear behavior*|JJ DT JJ NN|BODY_5|0
+a speech quality measure|DT NN NN NN|BODY_10|0
+the internal loss concealment|DT JJ NN NN|BODY_11|0
+the mean loss rate|DT JJ NN NN|BODY_6|0
+encoder and decoder state|NN CC NN NN|BODY_5|0
+the higher-order models )|DT NN NNS -RRB-|BODY_10|0
+small time intervals )|JJ NN NNS -RRB-|BODY_11|0
+the 444 shaded boxes|DT CD VBN NNS|BODY_1|0
+a significant performance improvement|DT JJ NN NN|BODY_4|0
+a three state model|DT CD NN NN|BODY_1|0
+end-to-end loss recovery mechanisms|JJ NN NN NNS|BODY_3|0
+a burst loss )|DT NN NN -RRB-|BODY_12|0
+it|PRP|BODY_5:BODY_2:BODY_1:BODY_14:BODY_4:BODY_7:BODY_8:BODY_9|2
+the 50 %|DT CD NN|BODY_6:BODY_10|2
+the speech quality|DT NN NN|BODY_4:BODY_8|1
+the perceptual quality|DT JJ NN|BODY_4|2
+sutticient computing power|JJ NN NN|BODY_2|1
+a source coding|DT NN NN|BODY_2|1
+a bitrate range|DT JJ NN|BODY_10|1
+g.729 , g.728|CD , CD|BODY_8|1
+forward error correction|JJ NN NN|BODY_5|1
+less than 0.25|JJR IN CD|BODY_14|1
+high perceptual importance|JJ JJ NN|BODY_8|1
+an end-to-end basis|DT JJ NN|BODY_2|1
+bad , 5|JJ , CD|BODY_18|1
+schematic utility functions|JJ NN NNS|BODY_2|1
+scale ( [4]|NN -LRB- NNP|BODY_16|1
+the proposed mechanisms|DT VBN NNS|BODY_5|1
+more important (|RBR JJ -LRB-|BODY_6|1
+excellent quality )|JJ NN -RRB-|BODY_19|1
+441 figure 1|CD NN CD|BODY_1|1
+less important frames|JJR JJ NNS|BODY_11|1
+1|CD|BODY_5:BODY_17:BODY_14:BODY_4:BODY_10:BODY_7|1
+a loss burst|DT NN NN|BODY_12:BODY_14:BODY_8|0
+the loss process|DT NN NN|BODY_6:BODY_23:BODY_4|0
+the perceptual distortion|DT JJ NN|BODY_15:BODY_2|0
+the g.729 decoder|DT CD NN|BODY_1:BODY_2:BODY_4|0
+a geometric distribution|DT JJ NN|BODY_2|0
+the snr )|DT NN -RRB-|BODY_2|0
+the fl packets|DT NN NNS|BODY_6:BODY_4|0
+the +l packets|DT NN NNS|BODY_5:BODY_2|0
+the previous frame|DT JJ NN|BODY_5:BODY_4|0
+the current packet|DT JJ NN|BODY_5:BODY_18|0
+a higher probability|DT JJR NN|BODY_3|0
+a male speaker|DT JJ NN|BODY_2|0
+a speech fmme|DT NN NN|BODY_2|0
+the current frame|DT JJ NN|BODY_3|0
+the feedback interval|DT NN NN|BODY_2|0
+the time period|DT NN NN|BODY_2|0
+a large number|DT JJ NN|BODY_3|0
+the resynchronization time|DT NN NN|BODY_2:BODY_3|0
+a finite number|DT JJ NN|BODY_2:BODY_4|0
+the gilbert model|DT NN NN|BODY_2|0
+( [17] )|-LRB- NN -RRB-|BODY_2|0
+the conventional methods|DT JJ NNS|BODY_2|0
+the subjective quality|DT JJ NN|BODY_5|0
+piece-wise linear functions|NN JJ NNS|BODY_10|0
+5 m )|CD NN -RRB-|BODY_12|0
+a source coder|DT NN NN|BODY_10|0
+similar network conditions|JJ NN NNS|BODY_2|0
+the cbs ~|DT JJ NN|BODY_2|0
+bernotilli ) model|NNP -RRB- NN|BODY_4|0
+a similar experiment|DT JJ NN|BODY_2|0
+a graceful degradation|DT JJ NN|BODY_2|0
+the conjugate structure|DT NN NN|BODY_3|0
+the feedback information|DT NN NN|BODY_4|0
+the relative cost|DT JJ NN|BODY_3|0
+the signal-t-noise ratio|DT JJ NN|BODY_3|0
+the loss rates|DT NN NNS|BODY_4|0
+5 and 6|CD CC CD|BODY_2|0
+subjective speech quality|JJ NN NN|BODY_12:BODY_7|0
+2.1 packet-level metrics|CD NN NNS|BODY_2|0
+real-time multimedia flows|JJ NNS VBZ|BODY_2|0
+the statistical variability|DT JJ NN|BODY_10|0
+each simulated condition|DT VBN NN|BODY_10|0
+consecutive packet losses|JJ NN NNS|BODY_10|0
+a significant variability|DT JJ NN|BODY_3|0
+the network provider|DT NN NN|BODY_7|0
+snr ) threshold|NN -RRB- NN|BODY_11|0
+a t e|DT NN NN|BODY_10|0
+the +1/-l sub.flows|DT JJ NNS|BODY_12|0
+the appendix ii|DT NN NNS|BODY_9|0
+real network environments|JJ NN NNS|BODY_13|0
+( and not|-LRB- CC RB|BODY_9|0
+0 < k|CD NN NN|BODY_11|0
+the standard deviation|DT JJ NN|BODY_4|0
+k consecutive frames|NN JJ NNS|BODY_6:BODY_5|0
+the sequence number|DT NN NN|BODY_14:BODY_4|0
+an unvoiced/voiced transition|DT JJ NN|BODY_3:BODY_4|0
+a non-linear way|DT JJ NN|BODY_8|0
+x 2 k|SYM CD NN|BODY_8|0
+ovk > 1|JJ NN CD|BODY_12|0
+the same performance|DT JJ NN|BODY_4|0
+the measw ing|DT NN NN|BODY_6|0
+a frame loss|DT NN NN|BODY_1:BODY_4|0
+rarely ( note|RB -LRB- NN|BODY_6|0
+( bernouilli model|-LRB- NNS NN|BODY_7|0
+the adu content|DT NN NN|BODY_1|0
+the quality assessment|DT NN NN|BODY_2|0
+successful packet arrivals|JJ NN NNS|BODY_5|0
+2 2 c-4|CD CD NN|BODY_12|0
+one hand aim|CD NN NN|BODY_3|0
+the special case|DT JJ NN|BODY_13|0
+the output quality|DT NN NN|BODY_3|0
+celp ) model|NN -RRB- NN|BODY_6|0
+a significant degradation|DT JJ NN|BODY_4|0
+all +l packets|DT JJ NNS|BODY_3|0
+the previous figure|DT JJ NN|BODY_3|0
+the gain coefficients|DT NN NNS|BODY_4|0
+the missing update|DT VBG NN|BODY_5|0
+loss run-length model|NN NN NN|BODY_2|0
+the same size|DT JJ NN|BODY_13|0
+the random variable|DT JJ JJ|BODY_9|0
+the mean loss|DT JJ NN|BODY_5|0
+the end systems|DT NN NNS|BODY_4|0
+an arriving packet|DT VBG NN|BODY_11|0
+one loss condition|CD NN NN|BODY_5|0
+k=l pn p;|NN NN NN|BODY_10|0
+mod 2 )|JJ CD -RRB-|BODY_5|0
+the concealed signal|DT VBN NN|BODY_6|0
+the applicationlevel quality|DT JJ NN|BODY_4|0
+a wider range|DT JJR NN|BODY_7|0
+the loss correlation|DT NN NN|BODY_1|0
+the loss probability|DT NN NN|BODY_10|0
+the utility function|DT NN NN|BODY_7|0
+( i .e|-LRB- FW FW|BODY_9|0
+bold typeface )|JJ NN -RRB-|BODY_11|0
+an increasing clp|DT VBG NN|BODY_2|0
+the transmission system|DT NN NN|BODY_3|0
+some packet loss|DT NN NN|BODY_2|0
+a certain robustness|DT JJ NN|BODY_6|0
+the state probability|DT NN NN|BODY_1:BODY_8|0
+the network model|DT NN NN|BODY_3|0
+( 3 )|-LRB- CD -RRB-|BODY_6|0
+crm consecutive packets|JJ JJ NNS|BODY_5|0
+hopby-hop ) and/or|NN -RRB- NN|BODY_3|0
+50 % )|CD NN -RRB-|BODY_4|0
+a signal-t-noise ratio|DT JJ NN|BODY_10|0
+intraflow loss control|NN NN NN|BODY_2|0
+pal < clp|JJ NN NN|BODY_23|0
+burst loss lengths|NN NN NNS|BODY_6|0
+p( y=k )=l-pm|JJ NN NN|BODY_9|0
+no application-specific knowledge|DT JJ NN|BODY_6|0
+loss conc e|NN NN NN|BODY_7|0
+a lossless service|DT JJ NN|BODY_4|0
+the loss rate|DT NN NN|BODY_11|0
+the filter coefficients|DT NN NNS|BODY_8|0
+the utility functions|DT NN NNS|BODY_11|0
+the real and|DT JJ CC|BODY_7|0
+actual perceived quality|JJ VBN NN|BODY_2|0
+a pa&et-switched network|DT JJ NN|BODY_6|0
+a single packet|DT JJ NN|BODY_2|0
+the utility contribution|DT NN NN|BODY_3|0
+the potential gain|DT JJ NN|BODY_9|0
+the missing codewords|DT VBG NNS|BODY_3|0
+a significant impact|DT JJ NN|BODY_11|0
+the above phenomenon|DT JJ NN|BODY_8|0
+a signilicant inlluence|DT JJ NN|BODY_5|0
+e [1,4] )|NN NN -RRB-|BODY_7|0
+the large differences|DT JJ NNS|BODY_9|0
+the error signal|DT NN NN|BODY_4|0
+a previous packet|DT JJ NN|BODY_15|0
+the g.729 codec|DT CD NN|BODY_7|0
+the dotted curve|DT JJ NN|BODY_6|0
+the decoded signal|DT JJ NN|BODY_7|0
+a higher energy|DT JJR NN|BODY_11|0
+the markov chain|DT NN NN|BODY_11|0
+ic + i|JJ JJ NN|BODY_6|0
+an increasing amount|DT VBG NN|BODY_7|0
+the encoded signal|DT JJ NN|BODY_5|0
+pl, ,,d( rn|NN NN NN|BODY_8|0
+a normal distribution|DT JJ NN|BODY_6|0
+a simple computation|DT JJ NN|BODY_20|0
+very similar results|RB JJ NNS|BODY_2|0
+a state transition|DT NN NN|BODY_6|0
+the data path|DT NNS NN|BODY_3|0
+the presented types|DT VBN NNS|BODY_2|0
+no loss events|DT NN NNS|BODY_3|0
+a lossy service|DT JJ NN|BODY_2|0
+the occurence ok|DT NN NN|BODY_5|0
+several loss patterns|JJ NN NNS|BODY_3|0
+the signal degradation|DT NN NN|BODY_4|0
+two frame types|CD NN NNS|BODY_3|0
+a generic way|DT JJ NN|BODY_4|0
+different figure 5|JJ NN CD|BODY_4|0
+the d* coder|DT NN NN|BODY_4|0
+the perceptual model|DT JJ NN|BODY_3|0
+the runlength distribution|DT NN NN|BODY_19|0
+an input signal|DT NN NN|BODY_5|0
+the measurement setup|DT NN NN|BODY_4|0
+a reliable indication|DT JJ NN|BODY_5|0
+isolated packet losses|VBN NN NNS|BODY_2|0
+a previous adu|DT JJ NN|BODY_7|0
+the increasing variability|DT VBG NN|BODY_2|0
+the eighth frame|DT JJ NN|BODY_4|0
+the following ones|DT JJ NNS|BODY_4|0
+the speech sample|DT NN NN|BODY_1|0
+wrong adaptation decisions|JJ NN NNS|BODY_4|0
+both the previous|PDT DT JJ|BODY_17|0
+a memoryless encoding|DT JJ NN|BODY_3|0
+a per-frame basis|DT JJ NN|BODY_3|0
+perceived video/voice quality|VBN NN NN|BODY_3|0
+real-time multimedia traffic|JJ NNS NN|BODY_1|0
+the run-length model|DT NN NN|BODY_1|0
+the previous packet|DT JJ NN|BODY_6|0
+our strong belief|PRP$ JJ NN|BODY_2|0
+the next packet|DT JJ NN|BODY_7|0
+the cross correlation|DT JJ NN|BODY_4|0
+a larger degradation|DT JJR NN|BODY_3|0
+the last sections|DT JJ NNS|BODY_8|0
+the state probabilities|DT NN NNS|BODY_2|0
+a measurement setup|DT NN NN|BODY_5|0
+cpc1 ]cok packet|CD NN NN|BODY_7|0
+that voice flows|DT NN NNS|BODY_1|0
+the transition probabilities|DT NN NNS|BODY_1|0
+a variable parameter|DT JJ NN|BODY_13|0
+442 table 1|CD NN CD|BODY_1|0
+the state space|DT NN NN|BODY_7|0
+the g.729 encoder|DT CD NN|BODY_1|0
+the measured values|DT JJ NNS|BODY_11|0
+2 zc )|CD NN -RRB-|BODY_4|0
+446 figure 10|CD NN CD|BODY_1|0
+clp x 0.3|NN NN CD|BODY_5|0
+higher clp values|JJR NN NNS|BODY_1|0
+table 1 shows|NN CD VBZ|BODY_1|0
+another segment )|DT NN -RRB-|BODY_14|0
+an unvoiced sound|DT JJ NN|BODY_10|0
+a given ulp|DT VBN NN|BODY_1|0
+the major di6culty|DT JJ NN|BODY_1|0
+the frames )|DT NNS -RRB-|BODY_8|0
+3.1 temporal sensitivity|CD JJ NN|BODY_1|0
+much additional information|JJ JJ NN|BODY_7|0
+ulp 5 clp|NN CD NN|BODY_24|0
+443 figure 2|CD NN CD|BODY_1|0
+the lost frame|DT VBN NN|BODY_6|0
+section 4 briefly|NN CD NN|BODY_1|0
+the burst length|DT NN NN|BODY_9|0
+a real-time flow|DT NN NN|BODY_1|0
+relatively small m|RB JJ NN|BODY_1|0
+the shaded area|DT JJ NN|BODY_9|0
+the limited memory|DT JJ NN|BODY_1|0
+other concealment algorithms|JJ NN NNS|BODY_2|0
+the over-proportional sensitivity|DT JJ NN|BODY_1|0
+intra-flow qos enhancement|JJ NNS NN|BODY_7|0
+two state transitions|CD NN NNS|BODY_1|0
+feedback/adaptation nor redundancy|NN CC NN|BODY_1|0
+the periodic property|DT JJ NN|BODY_1|0
+the relative importance|DT JJ NN|BODY_1|0
+a mean-squared error|DT JJ NN|BODY_9|0
+the internet today|DT NN NN|BODY_3|0
+past loss events|IN NN NNS|BODY_5|0
+gilbert model parameters|JJ NN NNS|BODY_4|0
+1 ) )|CD -RRB- -RRB-|BODY_4|0
+the state information|DT NN NN|BODY_6|0
+( 1 )|-LRB- CD -RRB-|BODY_1|0
+a novel terminology|DT NN NN|BODY_5|0
+present embsd results|JJ JJ NNS|BODY_6|0
+the g.729 coda|DT CD NN|BODY_3|0
+intra-flow loss control|JJ NN NN|BODY_4|0
+the desired quality|DT VBN NN|BODY_5|0
+( [19] )|-LRB- NN -RRB-|BODY_1|0
+)|-RRB-|BODY_6:BODY_11:BODY_21:BODY_2:BODY_4:BODY_30:BODY_8:BODY_9|0
+the performance|DT NN|BODY_6:BODY_4|1
+the packets|DT NNS|BODY_2:BODY_3:BODY_4|1
+the decoder|DT NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3|0
+the case|DT NN|BODY_5:BODY_1:BODY_2|2
+this|DT|BODY_2:BODY_1:BODY_3:BODY_9|0
+the parameters|DT NNS|BODY_21:BODY_1:BODY_2:BODY_3:BODY_4|0
+[2] )|NNP -RRB-|BODY_3:BODY_7|2
+the model|DT NN|BODY_12:BODY_1:BODY_3|0
+the results|DT NNS|BODY_2:BODY_1:BODY_3:BODY_7|0
+the state|DT NN|BODY_13:BODY_2:BODY_8|0
+a loss|DT NN|BODY_6:BODY_5:BODY_2|0
+k )|NN -RRB-|BODY_5:BODY_11:BODY_10:BODY_8|0
+i .e|FW FW|BODY_5:BODY_7|0
+the values|DT NNS|BODY_2:BODY_3|0
+voiced frames|VBN NNS|BODY_6:BODY_2:BODY_3:BODY_14:BODY_7|0
+z( s|FW VBZ|BODY_5:BODY_1:BODY_3:BODY_4|0
+loss rates|NN NNS|BODY_3:BODY_8|0
+the system|DT NN|BODY_2|0
+the network|DT NN|BODY_2:BODY_8|0
+utility curve|NN NN|BODY_5:BODY_19:BODY_10|0
+the expense|DT NN|BODY_13:BODY_4|0
+losses|NNS|BODY_3:BODY_7:BODY_9|0
+the range|DT NN|BODY_5:BODY_17|0
+a function|DT NN|BODY_3:BODY_8|0
+the difference|DT NN|BODY_6:BODY_4|0
+this effect|DT NN|BODY_1:BODY_2:BODY_4|0
+1 v|CD NNS|BODY_15:BODY_7|0
+yajnik et|NNP NNP|BODY_5:BODY_2:BODY_8|0
+the probability|DT NN|BODY_6:BODY_1:BODY_4|0
+heterogeneity pcm|NN NN|BODY_2|0
+increasing loss|VBG NN|BODY_2|0
+such utility|JJ NN|BODY_2|0
+the components|DT NNS|BODY_2:BODY_3|0
+one flow|CD NN|BODY_12:BODY_8|0
+other flows|JJ NNS|BODY_14:BODY_4|0
+a )|DT -RRB-|BODY_2:BODY_8|0
+the length|DT NN|BODY_4:BODY_8|0
+voiced sounds|VBN NNS|BODY_2:BODY_10|0
+the energy|DT NN|BODY_6:BODY_3|0
+loss patterns|NN NNS|BODY_21:BODY_4|0
+a packet|DT NN|BODY_1:BODY_29:BODY_9|0
+the presence|DT NN|BODY_2:BODY_4|0
+z( sj|NN NN|BODY_11:BODY_8|0
+the distribution|DT NN|BODY_6:BODY_5|0
+m )|NN -RRB-|BODY_7:BODY_9|0
+the number|DT NN|BODY_1:BODY_3|0
+p( y|JJ NN|BODY_6:BODY_4|0
+similar results|JJ NNS|BODY_5:BODY_1|0
+redundancy schemes|NN NNS|BODY_4|0
+the fraction|DT NN|BODY_2|0
+10 ms|CD NNS|BODY_3|0
+no packet|DT NN|BODY_5:BODY_27|0
+an estimate|DT NN|BODY_3|0
+figure 9|NN CD|BODY_2:BODY_1|0
+the encoder|DT NN|BODY_13:BODY_2|0

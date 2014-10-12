@@ -1,0 +1,1834 @@
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_10:BODY_7:BODY_9|0
+we|PRP|BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the allocator|DT NN|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+chaitin|NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+they|PRP|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+this|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the graph|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+rematerialization|NN|BODY_5:BODY_13:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_8|1
+the number|DT NN|BODY_12:BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+values|NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+p|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+there|EX|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+live ranges|JJ NNS|BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+both|DT|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4|0
+allocation|NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the code|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+a color|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the optimistic allocator|DT JJ NN|BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+code|NN|ABSTRACT_5:BODY_2:BODY_3:BODY_7|0
+l i|JJ FW|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+them|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:ABSTRACT_7:BODY_7|0
+colors|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+registers|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+the stack|DT NN|BODY_6:BODY_2:BODY_3:BODY_7|0
+simplify|VB|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+register allocation|NN NN|BODY_5:BODY_2:BODY_1:BODY_10:BODY_7|0
+the interference graph|DT NN NN|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_4|0
+the cost|DT NN|BODY_5:BODY_17:ABSTRACT_2:BODY_1:BODY_2:BODY_4:BODY_30:BODY_8|0
+nodes|NNS|BODY_5:BODY_31:BODY_13:BODY_2:BODY_3:BODY_4|0
+conservative coalescing|JJ NN|BODY_6:BODY_5:BODY_21:BODY_2:BODY_1:BODY_3:BODY_4|0
+spill cost|VB NN|BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+renumber|NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+each value|DT NN|BODY_1:BODY_2:BODY_7|0
+the diamond graph|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+spilling|VBG|BODY_6:BODY_5:ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_4|0
+coalescing|NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_4|0
+spill code|VB NN|BODY_6:BODY_3:BODY_4:ABSTRACT_7:BODY_9|0
+one|CD|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+example|NN|BODY_2:BODY_1:BODY_10:BODY_4:BODY_7|0
+the compiler|DT NN|BODY_1:BODY_2:BODY_3|0
+coloring|NN|BODY_5:BODY_28:BODY_2:BODY_1:BODY_3:BODY_9|0
+a k-coloring|DT NN|BODY_6:BODY_5:BODY_1:ABSTRACT_3:BODY_4|0
+a collection|DT NN|BODY_3:BODY_4|0
+us|PRP|BODY_11:BODY_2:BODY_3:BODY_4|0
+the results|DT NNS|BODY_5:BODY_1:BODY_3|0
+spill costs|NN NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+select|JJ|BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+some|DT|BODY_2:BODY_4|0
+)|-RRB-|BODY_6:BODY_5:BODY_8:BODY_9|0
+the nodes|DT NNS|BODY_2:BODY_1:BODY_9|0
+these values|DT NNS|BODY_2:BODY_3:BODY_7|0
+the result|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7|0
+copies|NNS|BODY_6:BODY_2:BODY_4|0
+the order|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+the node|DT NN|BODY_5:BODY_2:BODY_3|0
+all|DT|BODY_12:BODY_2:BODY_4:BODY_7:BODY_9|0
+practice|NN|BODY_5:BODY_1:BODY_4:BODY_7|0
+c|NN|BODY_6:BODY_2:BODY_10:BODY_9|0
+priority-based coloring|JJ NN|BODY_2|0
+tomcatv|NN|BODY_2:BODY_3:BODY_10|0
+degree|NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+l j|JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+a node|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+some live ranges|DT JJ NNS|BODY_16:BODY_1:BODY_2:BODY_3:BODY_4|0
+a spill candidate|DT NN NN|BODY_6:BODY_2:BODY_3|0
+a value|DT NN|BODY_6:BODY_11:BODY_1:BODY_7|0
+improvements|NNS|TITLE_1:BODY_1:BODY_4|0
+the ssa graph|DT NN NN|BODY_6:BODY_2:BODY_3|0
+oe-nodes|NNS|BODY_2:BODY_3:BODY_4|0
+a .text size|DT NN NN|BODY_2:BODY_4|0
+propagation|NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+our allocator|PRP$ NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+matula|NN|BODY_2:BODY_3:BODY_4|0
+which|WDT|BODY_3:BODY_4|0
+the tags|DT NNS|BODY_6:BODY_5:BODY_1:BODY_8|0
+each basic block|DT JJ NN|BODY_2|0
+figure 4|NN CD|BODY_2|0
+course|NN|BODY_1|0
+inst|IN|BODY_11:BODY_5:BODY_8|0
+never-killed values|JJ NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+x|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+two live ranges|CD JJ NNS|BODY_2:BODY_1:BODY_3:BODY_4|0
+spill candidates|NN NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4|0
+the program|DT NN|BODY_5:BODY_2:BODY_4|0
+biased coloring|VBN NN|BODY_11:BODY_5:BODY_2:BODY_1:BODY_4:BODY_8|0
+k|NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_4:BODY_7|0
+his colleagues|PRP$ NNS|BODY_2:BODY_3:BODY_4|0
+a register|DT NN|BODY_5:BODY_4:BODY_8|0
+tags|NNS|BODY_6:BODY_1:BODY_2:BODY_3|0
+the values|DT NNS|BODY_1:BODY_4:BODY_7|0
+1|CD|BODY_6:BODY_1:BODY_3|0
+the register|DT NN|BODY_2:BODY_3:BODY_8|0
+a two-coloring|DT JJ|BODY_2:BODY_3:BODY_4|0
+the value|DT NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_8|0
+a version|DT NN|BODY_11:BODY_2:BODY_10:BODY_4|0
+a live range|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+these techniques|DT NNS|BODY_6:BODY_2:BODY_1:ABSTRACT_1|0
+figure 5|NN CD|BODY_2:BODY_3:BODY_8|0
+times|NNS|BODY_12:BODY_6:BODY_1:BODY_3|0
+the times|DT NNS|BODY_6:BODY_2:BODY_9|0
+the same color|DT JJ NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_7|0
+this work|DT NN|BODY_13:BODY_3:BODY_4|0
+'s approach|POS NN|BODY_6:BODY_3:BODY_14|0
+dominance frontiers|NN NNS|BODY_5:BODY_26:BODY_2|0
+the instruction|DT NN|BODY_13:BODY_4|0
+red|NN|BODY_3:BODY_4:BODY_7|0
+the copies|DT NNS|BODY_5:BODY_2:BODY_3|0
+our approach|PRP$ NN|BODY_2:BODY_3|0
+each|DT|BODY_6:BODY_1|0
+table 3|NN CD|BODY_2:BODY_1:BODY_3|1
+an example|DT NN|BODY_1:BODY_2|0
+significant degree|JJ NN|BODY_4:BODY_10:BODY_7|0
+a oe-node|DT NN|BODY_3:BODY_4|0
+the context|DT NN|BODY_13:BODY_2|0
+problems|NNS|BODY_6:BODY_1:BODY_3:BODY_4|0
+a coloring|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+et al|FW NN|BODY_5:BODY_4|0
+the effect|DT NN|BODY_2|0
+coalesce spill costs|NN NN NNS|BODY_10:BODY_8|0
+3|CD|BODY_1:BODY_9|0
+memory|NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+the quality|DT NN|BODY_6:BODY_4|0
+results|NNS|BODY_2:BODY_1|0
+each live range|DT JJ NN|BODY_1:BODY_2:BODY_4|0
+performance|NN|BODY_6:BODY_5:BODY_3|0
+dynamic counts|NN NNS|BODY_2:BODY_3|0
+the flow graph|DT NN NN|BODY_6:BODY_2:BODY_4|0
+the relationship|DT NN|BODY_1:BODY_2|0
+advantage|NN|BODY_2:BODY_4|0
+malcolm|NN|BODY_2:BODY_4|0
+i|NNS|BODY_2:BODY_3:BODY_9|0
+a simple array copy|DT JJ NN NN|BODY_2|0
+a single representation|DT JJ NN|BODY_2|0
+only routines|RB NNS|BODY_2|0
+several|JJ|BODY_2|0
+some spills|DT NNS|BODY_2|0
+the allocator batch|DT NN NN|BODY_2|0
+the long live ranges|DT JJ JJ NNS|BODY_2|0
+the head|DT NN|BODY_11:BODY_5|0
+g|NN|BODY_5:BODY_2:BODY_9|0
+a single walk|DT JJ NN|BODY_3|0
+neighbors|NNS|BODY_5:BODY_7:BODY_9|0
+the procedure|DT NN|BODY_5:BODY_4|0
+optimistic coloring|JJ NN|BODY_11:BODY_1:BODY_14:ABSTRACT_1|0
+the colors|DT NNS|BODY_4:BODY_7|0
+a chaitin-style allocator|DT JJ NN|BODY_5:BODY_2|0
+iloc|NN|BODY_3:BODY_4|0
+candidates|NNS|BODY_2:BODY_4|0
+the target machine|DT NN NN|BODY_5:BODY_15:BODY_7|0
+a set|DT NN|BODY_2:BODY_7|0
+the use|DT NN|BODY_5:BODY_2:BODY_4|0
+color|NN|BODY_5:BODY_1:BODY_7|0
+an instruction|DT NN|BODY_2|0
+loads|NNS|BODY_5:BODY_4|0
+a split|DT NN|BODY_5|0
+integer constants|NN NNS|BODY_5:BODY_2|0
+coalesce|NN|BODY_2:BODY_1:BODY_4|0
+no color|DT NN|BODY_1:BODY_2:BODY_4|0
+the costs|DT NNS|BODY_1:BODY_4|0
+the live ranges|DT JJ NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+16 %|CD NN|BODY_1:BODY_4|0
+the instructions|DT NNS|BODY_13:BODY_7|0
+costs|VBZ|BODY_12:BODY_2|0
+the argument registers|DT NN NNS|BODY_6:BODY_5|0
+note|NN|BODY_1:BODY_3|0
+each block|DT NN|BODY_3|0
+the amount|DT NN|BODY_5:ABSTRACT_6:BODY_3|0
+'s neighbors|POS NNS|BODY_6:BODY_2:BODY_10:BODY_7|0
+this behavior|DT NN|BODY_6|0
+the effects|DT NNS|BODY_2:BODY_3|0
+[10|CD|BODY_5:BODY_3|0
+figure|NN|BODY_5:BODY_10:BODY_4|0
+seconds|NNS|BODY_15:BODY_2|0
+the build-coalesce loop|DT NN NN|BODY_18:BODY_8|0
+this type|DT NN|BODY_2:BODY_4|0
+spite|NN|BODY_3:BODY_8|0
+control-flow analysis|JJ NN|BODY_23:BODY_2|0
+those|DT|BODY_5:BODY_3|0
+data|NNS|BODY_3:BODY_10:BODY_9|0
+dynamic measurements|JJ NNS|BODY_2:BODY_8|0
+partners|NNS|BODY_6:BODY_3|0
+graph coloring|NN NN|BODY_11:BODY_2:BODY_1:BODY_8|0
+np-noise|NN|BODY_6:BODY_1:BODY_3|0
+each node|DT NN|BODY_2:BODY_4|0
+the tree|DT NN|BODY_5:BODY_2:BODY_7|0
+instructions|NNS|BODY_3|0
+copy instructions|NN NNS|BODY_5:BODY_2|0
+'s scheme|POS NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+two improvements|CD NNS|ABSTRACT_2:BODY_8|0
+any u|DT NN|BODY_2:BODY_3|0
+three routines|CD NNS|BODY_2:BODY_4|0
+some cases|DT NNS|BODY_2:BODY_4|0
+two|CD|BODY_4:BODY_8|0
+lle3|NNS|BODY_11:BODY_1|0
+l ij|NN NN|BODY_6:BODY_5:BODY_10|0
+procedures|NNS|BODY_1:ABSTRACT_3:BODY_3|0
+the constraints|DT NNS|BODY_3:BODY_9|0
+a variety|DT NN|BODY_2:BODY_19|0
+'s tag|POS NN|BODY_2|0
+very small routines|RB JJ NNS|BODY_4|0
+a single instruction|DT JJ NN|BODY_3|0
+rematerialization tags|NN NNS|BODY_1:BODY_3:BODY_9|0
+this paper|DT NN|ABSTRACT_1:BODY_4:BODY_7|0
+dead oe-nodes|JJ NNS|BODY_1:BODY_3:BODY_4|0
+analysis|NN|BODY_5:BODY_3|0
+the time|DT NN|BODY_1:BODY_3:BODY_4|0
+2 loads|CD NNS|BODY_2|0
+a new problem|DT JJ NN|BODY_4|0
+an extra copy )|DT JJ NN -RRB-|BODY_4|0
+correct rematerialization|JJ NN|BODY_2|0
+fpppp ( 12 routines ) , matrix300 ( 5 routines )|NN -LRB- CD NNS -RRB- , FW -LRB- CD NNS -RRB-|BODY_4|0
+programming language design and implementation|NN NN NN CC NN|BODY_4|0
+the spec programs|DT NN NNS|BODY_2|0
+these results|DT NNS|BODY_2|0
+the problem|DT NN|BODY_6:BODY_2|0
+e|NN|BODY_3:BODY_4|0
+several versions|JJ NNS|BODY_5:ABSTRACT_4|0
+cycles|NNS|BODY_2:BODY_8|0
+the difference|DT NN|BODY_1:BODY_8|0
+'s 1961 paper|POS CD NN|BODY_3|0
+0|CD|BODY_2|0
+a cost|DT NN|BODY_3|0
+a fixed|DT VBN|BODY_3|0
+a small sample|DT JJ NN|BODY_2|0
+a static constant pool and|DT JJ JJ NN CC|BODY_2|0
+an iterative solution|DT JJ NN|BODY_2|0
+anomalous results|DT NNS|BODY_3|0
+better global behavior|JJR JJ NN|BODY_2|0
+coalesces|NNS|BODY_3|0
+darpa|NN|BODY_3|0
+each instruction type|DT NN NN|BODY_3|0
+ibm corporation|JJ NN|BODY_2|0
+iloc code|JJ NN|BODY_3|0
+insignificant losses|JJ NNS|BODY_3|0
+language extensions|NN NNS|BODY_3|0
+the contribution|DT NN|BODY_2|0
+the improved allocations|DT VBN NNS|BODY_2|0
+the interference graph and coalescing|DT NN NN CC NN|BODY_2|0
+the live variables problem|DT JJ NNS NN|BODY_3|0
+the suite ( spice and nasa7|DT NN -LRB- NN CC NN|BODY_2|0
+this subject|DT NN|BODY_2|0
+l ffi|NN NN|BODY_11:BODY_8|0
+svd|NN|BODY_12:BODY_2:BODY_1|0
+this process|DT NN|BODY_2:BODY_1|0
+the small live ranges|DT JJ JJ NNS|BODY_5:BODY_1:BODY_3|0
+the sum|DT NN|BODY_3|0
+'s book|POS NN|BODY_6:BODY_4|0
+memory and graph coloring|NN CC NN NN|BODY_3|0
+splits|NNS|BODY_2|0
+?|.|BODY_5:BODY_3:BODY_8|0
+most|JJS|BODY_2:BODY_3|0
+the two allocators|DT CD NNS|BODY_3:BODY_7|0
+unrestricted coalescing|JJ NN|BODY_2:BODY_4|0
+the pl.8|DT NNS|BODY_3|0
+this column|DT NN|BODY_2:BODY_4|0
+fischer and proebsting [1|NN CC NN NNS|BODY_5|0
+graph coloring register allocation|NN NN NN NN|BODY_2|0
+the bin-packing allocators|DT NN NNS|BODY_2|0
+the questions|DT NNS|BODY_5|0
+the register allocator|DT NN NN|ABSTRACT_5:BODY_1|0
+abstracting storage allocation problems|JJ NN NN NNS|BODY_2|0
+ben chase|JJ NN|BODY_2|0
+ffl loading non-local frame pointers|JJ NN JJ NN NNS|BODY_16|0
+this technique|DT NN|BODY_2|0
+the interference graph and spill-cost estimates|DT NN NN CC NN NNS|BODY_6|0
+' address|POS NN|BODY_2|0
+briggs|NNS|BODY_6|0
+arguments ( recall|NNS -LRB- NN|BODY_2|0
+a small table|DT JJ NN|BODY_2|0
+the start|DT NN|BODY_5:BODY_14|0
+heuristic|PRP|BODY_2:BODY_3:BODY_4|0
+the i860|DT NN|BODY_5|0
+the memory location|DT NN NN|BODY_6|0
+the rematerialization tags|DT NN NNS|BODY_2|0
+integer multiplies|NN NNS|BODY_7|0
+features|NNS|BODY_2|0
+the impact|DT NN|BODY_6:BODY_3|0
+a copy|DT NN|BODY_6:BODY_4|0
+operands|NNS|BODY_12:BODY_2|0
+degradations|NNS|BODY_6|0
+a machine|DT NN|BODY_5|0
+the main loop|DT JJ NN|BODY_4|0
+the program fpppp|DT NN NN|BODY_2|0
+the asymptotic complexity|DT JJ NN|BODY_6:BODY_4|0
+an order|DT NN|BODY_10|0
+4.1|CD|BODY_2|0
+table 1|NN CD|BODY_2:BODY_3|0
+asymptotically fast algorithms|RB JJ NNS|BODY_2|0
+a complete program|DT JJ NN|BODY_14:BODY_3|0
+limited backtracking|VBN NN|BODY_1:BODY_8|0
+each register class|DT NN NN|BODY_2|0
+those ideas|DT NNS|BODY_2|0
+the column|DT NN|BODY_1:BODY_7|0
+three |CD|BODY_6|0
+all the values|DT DT NNS|BODY_2:BODY_4|0
+examples|NNS|BODY_1:BODY_2|0
+the parascope project|DT NN NN|BODY_2|0
+the significant degree|DT JJ NN|BODY_10|0
+removals|NNS|BODY_2|0
+comparisons|NNS|BODY_3|0
+its neighbors|PRP$ NNS|BODY_13:BODY_3:BODY_8|0
+a comparison|DT NN|BODY_2|0
+cytron|NN|BODY_5|0
+construction|NN|BODY_4|0
+live and avail|JJ CC JJ|BODY_2|0
+sixteen integer registers|CD NN NNS|BODY_18|0
+the process|DT NN|BODY_2:BODY_9|0
+4|CD|BODY_12:BODY_1|0
+ibm|NN|BODY_3:BODY_4|0
+our test suite|PRP$ NN NN|BODY_1:BODY_2|0
+large positive numbers|JJ JJ NNS|BODY_7|0
+register use|NN NN|BODY_16|0
+the example|DT NN|BODY_2:BODY_1|0
+a copy instruction|DT NN NN|BODY_2|0
+this insight [24|DT NN NN|BODY_7|0
+an unloaded ibm|DT JJ NN|BODY_4|0
+'s work|POS NN|BODY_3|0
+the other hand|DT JJ NN|BODY_2:BODY_1|0
+additional iterations|JJ NNS|BODY_2|0
+which neighbor|WDT NN|BODY_8|0
+specific details|JJ NNS|BODY_2|0
+each instruction|DT NN|BODY_2:BODY_3|0
+a split instruction|DT NN NN|BODY_2:BODY_4|0
+a double-precision value|DT NN NN|BODY_2|0
+soffa|NN|BODY_2|0
+allocation (|NN -LRB-|BODY_10|0
+all other instructions|DT JJ NNS|BODY_5|0
+remat|NN|BODY_1:BODY_19|0
+a motivating problem|DT NN NN|BODY_2|0
+svd )|NN -RRB-|BODY_6|0
+previous choices|JJ NNS|BODY_5|0
+the more powerful sparse conditional constant algorithm|DT RBR JJ NN JJ JJ NN|BODY_2|0
+three different spill metrics|CD JJ NN NNS|BODY_4|0
+encode simple information|JJ JJ NN|BODY_6|0
+control-flow paths join|NN NNS VBP|BODY_6|0
+the construction technique inserts|DT NN NN NNS|BODY_2|0
+the set|DT NN|BODY_5:BODY_8|0
+the techniques|DT NNS|BODY_1:ABSTRACT_3|0
+digital equipment corporation|JJ NN NN|BODY_3|0
+little consideration|JJ NN|BODY_4|0
+the coloring problem|DT NN NN|BODY_3|0
+the probabilistic allocator|DT JJ NN|BODY_4|0
+cocke|NN|BODY_2|0
+the form|DT NN|BODY_3|0
+all nodes|DT NNS|BODY_1:BODY_3|0
+less-expensive spills|JJ NNS|BODY_3|0
+the allocation quality|DT NN NN|BODY_6|0
+fewer load instructions|JJR NN NNS|BODY_3|0
+fortran running|JJ VBG|BODY_5|0
+further conservative coalescing|RBR JJ NN|BODY_3|0
+renumber ( recall step 5|NN -LRB- VB NN CD|BODY_5|0
+the implementation|DT NN|BODY_4|0
+wegman and zadeck|NN CC NN|BODY_5|0
+the routine fmin|DT JJ NN|BODY_3|0
+basic block sizes|JJ NN NNS|BODY_3|0
+the compilers|DT NNS|BODY_7|0
+total )|JJ -RRB-|BODY_2|0
+time and space|NN CC NN|BODY_14|0
+5 and 6|CD CC CD|BODY_2|0
+the same tag|DT JJ NN|BODY_2|0
+its applicability|PRP$ NN|BODY_2|0
+the structure|DT NN|BODY_11:BODY_2|0
+.e|NN|BODY_2|0
+our implementation|PRP$ NN|BODY_1|0
+the splits column|DT NNS NN|BODY_1:BODY_4|0
+70 routines|CD NNS|BODY_2|0
+the loop|DT NN|BODY_5:BODY_3|0
+a graph|DT NN|BODY_2:BODY_3|0
+'s heuristic|POS JJ|BODY_2:BODY_3:BODY_4:BODY_7|0
+l k|JJ NN|BODY_6:BODY_4:BODY_7:BODY_8|0
+deference|NN|BODY_4|0
+an interference graph|DT NN NN|BODY_3:BODY_4|0
+some values|DT NNS|BODY_2:ABSTRACT_3:BODY_8|0
+more than three trips|JJR IN CD NNS|BODY_3|0
+loads and stores|NNS CC NNS|BODY_3:BODY_4|0
+spills|NNS|BODY_2|0
+section|NN|BODY_6:BODY_5|0
+either over-spilling|DT JJ|BODY_4|0
+a stronger coloring heuristic|DT JJR NN NN|BODY_2:BODY_4|0
+the right number|DT JJ NN|BODY_6|0
+5a )|CD -RRB-|BODY_6|0
+accumulate availability information|JJ NN NN|BODY_2|0
+this fact|DT NN|BODY_2:BODY_1|0
+s|PRP|BODY_6:BODY_8|0
+2 stores|CD NNS|BODY_3|0
+doduc ( 41 routines )|JJ -LRB- CD NNS -RRB-|BODY_3|0
+multi-valued live ranges|JJ JJ NNS|BODY_3|0
+the sigplan conference|DT NN NN|BODY_3|0
+part|NN|BODY_2:BODY_1|0
+at most 2 operands|IN JJS CD NNS|BODY_2|0
+effective use|JJ NN|BODY_4|0
+'s xlf compiler|POS NN NN|BODY_5:BODY_4|0
+only|RB|BODY_3:BODY_4|0
+cocke and ershov|NN CC NN|BODY_2|0
+marty hopkins|NN NNS|BODY_4|0
+the frame|DT NN|BODY_14|0
+the ibm xl compiler family|DT NN NN NN NN|BODY_4|0
+the pessimistic allocator|DT JJ NN|BODY_6:BODY_5:BODY_9|0
+the assignment|DT NN|BODY_2|0
+a single live range|DT JJ JJ NN|BODY_3:BODY_4|0
+the copy|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+the biasing mechanism|DT NN NN|BODY_1:BODY_3|0
+the size|DT NN|BODY_5:BODY_3|0
+an extra trip|DT JJ NN|BODY_3|0
+each oe-node|DT NN|BODY_2:BODY_3|0
+the need|DT NN|BODY_3:BODY_4|0
+the ordering colors|DT VBG NNS|BODY_2|0
+the resulting object files|DT VBG NN NNS|BODY_2|0
+the early 1960|DT JJ CD|BODY_4|0
+the same inst tag|DT JJ NN NN|BODY_2|0
+its late application|PRP$ JJ NN|BODY_2|0
+rematerialization opportunities|NN NNS|BODY_5|0
+this situation|DT NN|BODY_2:BODY_3|0
+trivially colored nodes|RB JJ NNS|BODY_3:BODY_4|0
+john cocke|NNP NN|BODY_3|0
+the back-end|DT NN|BODY_3|0
+the static data-area|DT JJ NN|BODY_15|0
+any graph|DT NN|BODY_5|0
+a|DT|BODY_5|0
+the same time|DT JJ NN|BODY_1|0
+the floating-point divisions|DT JJ NNS|BODY_6|0
+computer science|NN NN|BODY_4|0
+coloring dates|NN NNS|BODY_3|0
+appendix|NN|BODY_4|0
+a low-level intermediate language|DT JJ JJ NN|BODY_4|0
+routines|NNS|BODY_2|0
+(|-LRB-|BODY_1:BODY_3|0
+the software library|DT NN NN|BODY_2|0
+a total entry|DT JJ NN|BODY_2|0
+department|NN|BODY_3|0
+the published descriptions|DT VBN NNS|BODY_2|0
+any|DT|BODY_3:BODY_4|0
+the experiments|DT NNS|BODY_2|0
+the observed spill costs|DT JJ NN NNS|BODY_2|0
+a suite|DT NN|ABSTRACT_6|0
+any color|DT NN|BODY_2|0
+section 5|NN CD|BODY_1:BODY_3|0
+'s allocator|POS NN|BODY_5:BODY_2|0
+a decrease|DT NN|BODY_6|0
+reference|NN|BODY_4|0
+the indices and limits|DT NNS CC NNS|BODY_5:BODY_2|0
+the operands|DT NNS|BODY_1|0
+ffl loads|JJ NNS|BODY_12|0
+kennedy|NN|BODY_6|0
+run-time performance|NN NN|BODY_3|0
+no more|DT RBR|BODY_5:BODY_3|0
+its partners|PRP$ NNS|BODY_3:BODY_4|0
+any node n|DT NN NN|BODY_7|0
+chow|NN|BODY_2|0
+figure 6|NN CD|BODY_2|0
+arguments|NNS|BODY_3|0
+a wide variety|DT JJ NN|BODY_4|0
+choi|NN|BODY_4|0
+attempts|NNS|BODY_4|0
+a known constant location|DT VBN JJ NN|BODY_13|0
+hood|NN|BODY_5|0
+occasionally one method|RB CD NN|BODY_2|0
+the target architecture|DT NN NN|BODY_6|0
+the algorithm|DT NN|BODY_25:BODY_1|0
+identical tags|JJ NNS|BODY_12:BODY_4|0
+( b|-LRB- NN|BODY_1|0
+32 %|CD NN|BODY_2|0
+a combinatorial explosion|DT JJ NN|BODY_2|0
+a different global result|DT JJ JJ NN|BODY_2|0
+a local choice|DT JJ NN|BODY_1|0
+a new and different interference graph|DT JJ CC JJ NN NN|BODY_2|0
+a node l|DT NN NN|BODY_2|0
+all percentages|DT NNS|BODY_1|0
+all possible copies|DT JJ NNS|BODY_1|0
+all these people|DT DT NNS|BODY_1|0
+an integer or floating-point register|DT NN CC NN NN|BODY_2|0
+another priority-based allocator [23]|DT JJ NN NN|BODY_2|0
+build|VB|BODY_1|0
+but not split instructions|CC RB JJ NNS|BODY_2|0
+different answers|JJ NNS|BODY_2|0
+different choices|JJ NNS|BODY_1|0
+each approach|DT NN|BODY_1|0
+figure 3|NN CD|BODY_1|0
+function results|NN NNS|BODY_1|0
+its merits|PRP$ NNS|BODY_2|0
+its structure|PRP$ NN|BODY_2|0
+its success|PRP$ NN|BODY_2|0
+larus and hilfinger|NN CC NN|BODY_1|0
+no information|DT NN|BODY_2|0
+one or more live ranges|CD CC JJR JJ NNS|BODY_1|0
+our heartfelt thanks|PRP$ NN NNS|BODY_2|0
+section 2 describes|NN CD VBZ|BODY_1|0
+several factors|JJ NNS|BODY_1|0
+several modifications [25]|JJ NNS NN|BODY_2|0
+such backtracking|JJ NN|BODY_1|0
+the copy instruction|DT NN NN|BODY_2|0
+the entire build-coalesce loop|DT JJ NN NN|BODY_2|0
+the hewlett-packard compiler group|DT JJ NN NN|BODY_1|0
+the nearest integer|DT JJS NN|BODY_2|0
+the remaining fifty-nine routines|DT VBG CD NNS|BODY_1|0
+the spec benchmark suite [30]|DT NN NN NN NN|BODY_2|0
+the spill decision|DT NN NN|BODY_1|0
+the static data-area pointer|DT JJ NN NN|BODY_11|0
+the total improvement|DT JJ NN|BODY_1|0
+the two live ranges|DT CD JJ NNS|BODY_1|0
+the unproductive copies|DT JJ NNS|BODY_2|0
+these two mechanisms|DT CD NNS|BODY_1|0
+this allocator|DT NN|BODY_2|0
+this section divides|DT NN NNS|BODY_1|0
+top means|JJ NNS|BODY_1|0
+two major subsections|CD JJ NNS|BODY_2|0
+two powerful consequences|CD JJ NNS|BODY_2|0
+estimated spill costs|VBN NN NNS|BODY_8|0
+a constant|DT JJ|BODY_9|0
+lddrr f14 r14|NN CD NNS|BODY_7|0
+r9 r15 r11|CD CD NNS|BODY_5|0
+the rs/6000 architecture|DT CD NN|BODY_5|0
+cost( l|NN JJ|BODY_5|0
+steps 3 and 4|NNS CD CC CD|BODY_2|0
+convenient experimentation|JJ NN|BODY_3|0
+removal|NN|BODY_2:BODY_4|0
+\gamma11 \gamma5 \gamma26|IN CD NNS|BODY_9|0
+their best|PRP$ JJS|BODY_5|0
+doduc bilan 1,046 966 5 3 8 bilsla colbur|JJ NN CD CD CD CD CD NN NN|BODY_7|0
+the frame pointer|DT NN NN|BODY_10|0
+the contents|DT NNS|BODY_5|0
+zeroin zeroin|NN NN|BODY_6|0
+f15 f0 bc l0023 l0023|CD CD JJ NN NN|BODY_6|0
+chuck lins|NN NNS|BODY_7|0
+means|VBZ|BODY_4|0
+a procedure|DT NN|BODY_5:BODY_3|0
+a , c , b|DT , NN , NN|BODY_3|0
+a packing algorithm|DT NN NN|BODY_4|0
+19 24|CD CD|BODY_8|0
+the rt/pc|DT NN|BODY_3|0
+f15 f14 addi r14 r14 8 sub r7 r10 r14|CD CD NN NNS NNS CD NN CD CD NNS|BODY_9|0
+ldi r14|NN NNS|BODY_3|0
+y @ @|RB IN IN|BODY_5|0
+the tables|DT NNS|BODY_3|0
+callee-saves|NNS|BODY_3|0
+economical use|JJ NN|BODY_2|0
+more consistent improvement|RBR JJ NN|BODY_7|0
+source y ssa y|NN NN NN NN|BODY_5|0
+a fast disjoint|DT JJ NN|BODY_4|0
+peter markstein|NN NN|BODY_8|0
+@ @ diamond graph figure example|IN IN NN NN NN NN|BODY_6|0
+a form|DT NN|BODY_5|0
+the sparc|DT NN|BODY_4|0
+better allocations|JJR NNS|BODY_2:BODY_4|0
+moler|NN|BODY_5:BODY_3|0
+interferences|NNS|BODY_5:BODY_9|0
+a program|DT NN|BODY_4|0
+8|CD|BODY_4|0
+f14 f14 dadd|CD CD NN|BODY_8|0
+our experience|PRP$ NN|BODY_1|0
+fmin 551 370 seval spline 125 117 5 2 6|IN CD CD JJ NN CD CD CD CD CD|BODY_7|0
+fewer loads|JJR NNS|BODY_3|0
+the savings|DT NNS|BODY_2|0
+our target machine|PRP$ NN NN|BODY_17|0
+live range|JJ NN|BODY_2:BODY_4|0
+the discussion|DT NN|BODY_2|0
+superscalar instruction issue|NN NN NN|BODY_3|0
+our instrumentation|PRP$ NN|BODY_2|0
+the array-copy loops|DT NN NNS|BODY_1:BODY_3:BODY_4|0
+a single definition|DT JJ NN|BODY_7|0
+the examples|DT NNS|BODY_2|0
+floating-point constants|JJ NNS|BODY_7|0
+the spilling problem|DT NN NN|BODY_5|0
+splitting|NN|BODY_3|0
+him|PRP|BODY_6|0
+the resulting live range|DT JJ JJ NN|BODY_5:BODY_3|0
+two cycles|CD NNS|BODY_4|0
+a conceptual view|DT JJ NN|BODY_2|0
+the implementation chaitin-style allocators|DT NN NN NNS|BODY_2|0
+earlier optimization|JJR NN|BODY_3|0
+the history|DT NN|BODY_4|0
+these improvements|DT NNS|BODY_2|0
+the remaining six (|DT VBG CD -LRB-|BODY_4|0
+the tag|DT NN|BODY_5|0
+the new one|DT JJ CD|BODY_6|0
+the longer live ranges|DT JJR JJ NNS|BODY_4|0
+a sequence|DT NN|BODY_2|0
+about twenty percent|IN CD NN|BODY_7|0
+no distinction|DT NN|BODY_3|0
+an inappropriate  instruction|DT JJ NN NN|BODY_2|0
+total seval spline|JJ JJ NN|BODY_5|0
+ffl computing|JJ NN|BODY_8|0
+original optimistic load store copy ldi|JJ JJ NN NN NN NNS|BODY_6|0
+that value|DT NN|BODY_3|0
+register pressure|NN NN|BODY_2:BODY_3|0
+many long live ranges|JJ JJ JJ NNS|BODY_7|0
+register latencies|NN NNS|BODY_2|0
+steele|NN|BODY_3|0
+subroutine|JJ|BODY_8|0
+some additional c|DT JJ NN|BODY_5|0
+a single loss|DT JJ NN|BODY_6|0
+the allocators|DT NNS|BODY_5:BODY_3|0
+variables|NNS|BODY_9|0
+the data|DT NNS|BODY_2|1
+chow and hennessy|NN CC JJ|BODY_1|0
+'s technique|POS NN|BODY_5|0
+'s [26]|POS NN|BODY_5|0
+the color-spill process|DT NN NN|BODY_3|0
+an excellent testbed|DT JJ NN|BODY_5|0
+our coloring heuristic|PRP$ NN NN|BODY_2|0
+encouragement|NN|BODY_14|0
+each routine|DT NN|BODY_1:BODY_2|0
+the iloc statements|DT NN NNS|BODY_3|0
+a range|DT NN|BODY_4|0
+svd svd 2,509 1,977 doduc colbur deseco|JJ JJ CD CD JJ NN NN|BODY_8|0
+that machine-specific constraints|WDT JJ NNS|BODY_15|0
+inideb 50 48 4 4 inisla 28 lectur|NN CD CD CD CD NN CD NN|BODY_11|0
+the actual implementation|DT JJ NN|BODY_2|0
+the algorithms|DT NNS|BODY_1:BODY_2|0
+tom murtagh|NN NN|BODY_9|0
+the computation|DT NN|BODY_5:BODY_2|0
+the haifa group|DT NN NN|BODY_4|0
+interesting details|JJ NNS|BODY_4|0
+l ijk (|JJ NN -LRB-|BODY_9|0
+our allocators|PRP$ NNS|BODY_3|0
+6 introducing splits conservative coalescing|CD VBG VBZ JJ NN|BODY_7|0
+.02 .02 .03 build|CD CD CD NN|BODY_9|0
+forsythe|DT|BODY_3|0
+each color and note|DT NN CC NN|BODY_7|0
+all three allocators|DT CD NNS|BODY_6|0
+not all global allocators|RB DT JJ NNS|BODY_2|0
+routine optimistic rematerialization load store|NN JJ NN NN NN|BODY_4|0
+[11 , 25 , 21 , 5]|CD , CD , CD , CD|BODY_5|0
+spill code percentage contribution program|NN NN NN NN NN|BODY_5|0
+this property|DT NN|BODY_2|0
+drigl heat|JJ NN|BODY_10|0
+the live range|DT JJ NN|BODY_5:BODY_3|0
+the function header|DT NN NN|BODY_6|0
+l l|JJ JJ|BODY_4|0
+ge r7|NN CD|BODY_10|0
+nop lla4|JJ NNS|BODY_2|0
+minimal )|JJ -RRB-|BODY_2|0
+.06 .05|CD CD|BODY_10|0
+an allocation|DT NN|BODY_1:BODY_4|0
+limited lookahead|JJ NN|BODY_5:BODY_4|0
+.06 .06|CD CD|BODY_3|0
+@ simple graph z|IN JJ NN FW|BODY_4|0
+the never-killed value p 0|DT JJ NN NN CD|BODY_4|0
+limited coalescing mechanisms|JJ NN NNS|BODY_3|0
+@ @|IN IN|BODY_3|0
+the sparse evaluation graph techniques|DT JJ NN NN NNS|BODY_3|0
+the different values|DT JJ NNS|BODY_5:BODY_3|0
+rice university|NN NN|BODY_5|0
+the c translations|DT NN NNS|BODY_4|0
+these neighbors|DT NNS|BODY_5|0
+the behavior|DT NN|BODY_5|0
+( r7|-LRB- CD|BODY_13|0
+only modest changes|RB JJ NNS|BODY_3|0
+the|DT|BODY_9|0
+unproductive copies|JJ NNS|BODY_4|0
+he|PRP|BODY_1:BODY_4|0
+y minimal y figure|NN JJ NN NN|BODY_6|0
+the pruned ssa graph|DT JJ NN NN|BODY_6:BODY_2|0
+4.2 )|CD -RRB-|BODY_6|0
+a three-coloring|DT NN|BODY_2|0
+particular|JJ|BODY_1:BODY_7|0
+a small number|DT JJ NN|BODY_2|0
+four steps|CD NNS|BODY_2|0
+six steps|CD NNS|BODY_2|0
+fortran|NN|BODY_5|0
+minimizing memory storage requirements|JJ NN NN NNS|BODY_4|0
+the ideas|DT NNS|BODY_3|0
+'e|PRP|BODY_2|0
+our results|PRP$ NNS|BODY_1|0
+the  simple graph |DT JJ JJ NN|BODY_3|0
+the actual code|DT JJ NN|BODY_6:BODY_1|0
+actual color assignments|JJ NN NNS|BODY_5|0
+the output|DT NN|BODY_1:BODY_7|0
+our work|PRP$ NN|BODY_2:BODY_1|0
+she|PRP|BODY_1|0
+access time|NN NN|BODY_9|0
+the maximum extents|DT JJ NNS|BODY_3|0
+this ffl|DT NN|BODY_3|0
+inserting copies|NN NNS|BODY_3|0
+minimal cost|JJ NN|BODY_9|0
+the first row|DT JJ NN|BODY_2|0
+section 6|NN CD|BODY_4|0
+our own experiments|PRP$ JJ NNS|BODY_5|0
+the literature|DT NN|BODY_3|0
+stores|NNS|BODY_5:BODY_2|0
+the overall cost|DT JJ NN|BODY_9|0
+the never-killed value|DT JJ NN|BODY_4|0
+web analysis|NN NN|BODY_4|0
+section 7 )|NN CD -RRB-|BODY_6:BODY_5|0
+5,500 4,957 inithx|CD CD NN|BODY_9|0
+any remaining arguments|DT VBG NNS|BODY_10|0
+this section|DT NN|BODY_6:BODY_1|0
+rice|NN|BODY_3|0
+randy scarborough , rick simpson|JJ JJ , JJ NN|BODY_10|0
+adjacent nodes|JJ NNS|BODY_10|0
+only simple approximations|RB JJ NNS|BODY_3|0
+144 non-comment lines|CD JJ NNS|BODY_15|0
+an optimal coloring|DT JJ NN|BODY_4|0
+seventy routines|CD NNS|BODY_4|0
+'s cost|POS NN|BODY_11|0
+three values|CD NNS|BODY_5|0
+each iloc routine|DT NN NN|BODY_2|0
+the phase|DT NN|BODY_2|0
+over-spilled|JJ|BODY_4|0
+all x|DT NN|BODY_5|0
+goto l0023|NN NN|BODY_12|0
+one possible explanation|CD JJ NN|BODY_5|0
+what situations|WP NNS|BODY_5|0
+test results|NN NNS|BODY_3|0
+the sparse simple constant algorithm|DT JJ JJ JJ NN|BODY_2|0
+load-immediates|NNS|BODY_7|0
+the tests|DT NNS|BODY_16|0
+several values|JJ NNS|BODY_2|0
+the raw data|DT JJ NNS|BODY_2|0
+pointers|NNS|BODY_7|0
+a complete discussion|DT JJ NN|BODY_6|0
+a graph coloring problem|DT NN NN NN|BODY_2|0
+the rematerialization scheme|DT NN NN|BODY_2|0
+the spec benchmark suite [22]|DT NN NN NN NNS|BODY_9|0
+the pl.8 compiler|DT NNS NN|BODY_3|0
+color spill renum|NN VB NN|BODY_11|0
+the papers|DT NNS|BODY_2|0
+a tree|DT NN|BODY_4|0
+the svd routine|DT NN NN|BODY_2:BODY_9|0
+biasing|NN|BODY_2:BODY_1|0
+a detailed level|DT JJ NN|BODY_4|0
+the degrees|DT NNS|BODY_2|0
+non-optimizing compilers|JJ NNS|BODY_4|0
+the color assignment|DT NN NN|BODY_3|0
+connected values|JJ NNS|BODY_11|0
+these|DT|BODY_2|0
+described cycles|VBN NNS|BODY_4|0
+the majority|DT NN|BODY_3|0
+a feasible register assignment|DT JJ NN NN|BODY_7|0
+a stronger heuristic|DT JJR JJ|ABSTRACT_2|0
+space|NN|BODY_6:BODY_3|0
+a 100 hertz clock|DT CD NN NN|BODY_3|0
+uses and stores|NNS CC NNS|BODY_6:BODY_5|0
+time|NN|BODY_5|0
+both kennedy and schwartz credit|DT NN CC NN NN|BODY_5|0
+interference [8]|NN NNS|BODY_7|0
+the core|DT NN|BODY_2|0
+ranges|NNS|BODY_3|0
+costs color spill|VBZ NN VB|BODY_8|0
+the old allocator|DT JJ NN|BODY_5|0
+the spilling|DT NN|BODY_8|0
+variations|NNS|BODY_6|0
+useless splits|JJ NNS|BODY_2|0
+declarations|NNS|BODY_7|0
+the single copy|DT JJ NN|BODY_3|0
+the optimistic coloring|DT JJ NN|BODY_2:BODY_1:BODY_3|0
+n|NN|BODY_11:BODY_4|0
+any nodes|DT NNS|BODY_5:BODY_1|0
+these problems|DT NNS|BODY_3|0
+houston|NN|BODY_6|0
+the search|DT NN|BODY_2|0
+28 cases|CD NNS|BODY_5|0
+the fast , local techniques|DT JJ , JJ NNS|BODY_3|0
+the initial pass|DT JJ NN|BODY_7|0
+'s version|POS NN|BODY_2|0
+the enhancements|DT NNS|BODY_2|0
+the ordering|DT NN|BODY_2|0
+10 times|CD NNS|BODY_2|0
+the opt|DT NN|BODY_7|0
+a number|DT NN|BODY_3|0
+'s notion|POS NN|BODY_2|0
+thirty-seven do-loops|JJ NNS|BODY_2|0
+about a dozen long live ranges|IN DT NN JJ JJ NNS|BODY_2|0
+appropriate instrumentation|JJ NN|BODY_4|0
+881 lines|CD NNS|BODY_3|0
+a matter|DT NN|BODY_4|0
+some machines|DT NNS|BODY_6|0
+coloring-based allocation|JJ NN|BODY_2|0
+special definitions|JJ NNS|BODY_3|0
+those points|DT NNS|BODY_5|0
+a priority-based coloring scheme|DT JJ NN NN|BODY_2|0
+our early discussions|PRP$ JJ NNS|BODY_2|0
+the notation|DT NN|BODY_3|0
+terms|NNS|BODY_4|0
+the case|DT NN|BODY_5:BODY_1|0
+an np-complete problem|DT JJ NN|BODY_5|0
+the answers|DT NNS|BODY_6|0
+the large loop nests|DT JJ NN NNS|BODY_5:BODY_3|0
+o(k|NN|BODY_2|0
+spill decisions|NN NNS|BODY_3:BODY_4|0
+i u|PRP$ NN|BODY_4|0
+several registers|JJ NNS|BODY_4|0
+.56 .56 .62 build|CD CD CD NN|BODY_4|0
+these speeds|DT NNS|BODY_2|0
+the likelihood|DT NN|BODY_1:BODY_2|0
+.01 color|CD NN|BODY_13|0
+our heuristics|PRP$ NNS|BODY_3|0
+global information|JJ NN|BODY_2|0
+these insights|DT NNS|BODY_3|0
+e.g.|FW|BODY_4|0
+modest amounts|JJ NNS|BODY_13|0
+spill code percentage contribution|NN NN NN NN|BODY_3|0
+fortran.|NN|BODY_16:BODY_4|0
+the percentage improvement|DT NN NN|BODY_3|0
+many deeply-nested loops|JJ JJ NNS|BODY_9|0
+versus chaitin|NN NN|BODY_5|0
+c \theta|NN NN|BODY_7|0
+one optimistic|CD JJ|BODY_3|0
+uses|NNS|BODY_6|0
+each case|DT NN|BODY_4|0
+a limited form|DT JJ NN|BODY_3|0
+a linear-time|DT NN|BODY_3|0
+global optimizations|JJ NNS|BODY_7|0
+our use|PRP$ NN|BODY_4|0
+section 4|NN CD|BODY_3|0
+specific problems|JJ NNS|BODY_2|0
+their lattice|PRP$ NN|BODY_2|0
+these pre-allocation  registers|DT JJ NN NNS|BODY_2|0
+'s treatment|POS NN|ABSTRACT_2|0
+a small amount|DT JJ NN|BODY_6|1
+more complex cases|RBR JJ NNS|BODY_6|0
+i ( live range l i )|FW -LRB- JJ NN JJ FW -RRB-|BODY_3|0
+two instructions|CD NNS|BODY_8|0
+a register allocator|DT NN NN|BODY_2|0
+several distinct values|JJ JJ NNS|BODY_2|0
+the target architecture and d|DT NN NN CC NN|BODY_12|0
+.04 .03|CD CD|BODY_2|0
+seven programs|CD NNS|BODY_2|0
+a chaitin- style allocator|DT NNS NN NN|BODY_2|0
+'s method|POS NN|BODY_2:BODY_4|0
+'s basic techniques|POS JJ NNS|BODY_4|0
+'s mechanism|POS NN|BODY_7|0
+a graph coloring register allocator|DT NN NN NN NN|BODY_2|0
+several important extensions|JJ JJ NNS|BODY_2|0
+register sets|NN NNS|BODY_5:BODY_20|0
+each load and store|DT NN CC NN|BODY_3|0
+this modification|DT NN|BODY_3|0
+a node n|DT NN NN|BODY_2|0
+twldrv|NN|BODY_6|0
+the translation|DT NN|BODY_5:BODY_1|0
+but not|CC RB|BODY_5|0
+an approach|DT NN|BODY_4|0
+the effectiveness|DT NN|BODY_3:BODY_7|0
+single-precision and double-precision values|NN CC NN NNS|BODY_4|0
+this sample|DT NN|BODY_2|0
+'s heuristic discovers|POS JJ NNS|BODY_2|0
+these small live ranges|DT JJ JJ NNS|BODY_3|0
+p 1|NN CD|BODY_3|0
+the height|DT NN|BODY_6|0
+a further insignificant improvement|DT JJ JJ NN|BODY_2|0
+unhelpful splits|JJ NNS|BODY_4|0
+this sort|DT NN|BODY_2|0
+our optimizing compiler|PRP$ JJ NN|BODY_3|0
+those spill|DT NN|BODY_5|0
+the three allocators|DT CD NNS|BODY_3|0
+6=|CD|BODY_9|0
+inst inst|IN IN|BODY_6|0
+j note|JJ NN|BODY_10|0
+u|NN|BODY_7|0
+comparative timings|JJ NNS|BODY_2|0
+new live ranges|JJ JJ NNS|BODY_10|0
+an improvement|DT NN|BODY_2|0
+effect|NN|BODY_2|0
+the least expensive mechanism|DT JJS JJ NN|BODY_3|0
+our experience building|PRP$ NN NN|ABSTRACT_4|0
+.02 total .40 .39 .47 .97 .85 1.13 13.55 13.65 13.67 table allocation times|CD NN CD CD CD CD CD CD CD CD CD NN NN NNS|BODY_14|0
+a detailed description|DT JJ NN|ABSTRACT_2|0
+a new live range|DT JJ JJ NN|BODY_2|0
+a worse allocation|DT JJR NN|BODY_4|0
+all the non-productive splits|PDT DT JJ NNS|BODY_2|0
+conservative ) , recall chaitin|JJ -RRB- , NN NN|BODY_3|0
+the distinction|DT NN|BODY_2|0
+the node uncolored|DT NN JJ|BODY_3|0
+a particularly interesting case|DT RB JJ NN|BODY_3|0
+the singular value decomposition|DT JJ NN NN|BODY_5|0
+the remaining three nodes|DT VBG CD NNS|BODY_5|0
+any control-flow paths|DT NN NNS|BODY_4|0
+local information|JJ NN|BODY_3|0
+those two values|DT CD NNS|BODY_10|0
+her work|PRP$ NN|BODY_3|0
+( ssa ) graph|-LRB- FW -RRB- NN|BODY_6|0
+a noticeable difference|DT JJ NN|BODY_3|0
+experimental code generators|JJ NN NNS|BODY_2|0
+a single routine|DT JJ NN|BODY_12|0
+the result value|DT NN NN|BODY_3|0
+the source column|DT NN NN|BODY_1|0
+our rematerialization scheme|PRP$ NN NN|BODY_3|0
+a reasonable amount|DT JJ NN|BODY_2|0
+restrictions|NNS|BODY_3|0
+the second loop|DT JJ NN|BODY_12:BODY_4|0
+figure 7 iloc and c 5.1|NN CD NN CC NN CD|BODY_14|0
+the np-noise|DT NN|BODY_3|0
+fact|NN|BODY_6:BODY_1|0
+the performance|DT NN|ABSTRACT_3|0
+a pointer|DT NN|BODY_3|0
+this term|DT NN|BODY_3|0
+schwartz [29] )|NN NN -RRB-|BODY_3|0
+10 d|CD NN|BODY_8|0
+the operation|DT NN|BODY_10|0
+the variable p|DT JJ NN|BODY_7|0
+optimization|NN|BODY_1:BODY_7|0
+a pattern|DT NN|BODY_2|0
+an analog|DT NN|BODY_4|0
+an optimizing compiler|DT JJ NN|BODY_4|0
+some copies|DT NNS|BODY_4|0
+some insight|DT NN|BODY_3|0
+the interference graph and attempt|DT NN NN CC NN|BODY_2|0
+714 579 11 4 4 19 lectur 257 221 prophy 1,954 1,531 13 9 0 21 repvid supp efill 173 94 21 sgemm table 1 effects|CD CD CD CD CD CD NN CD CD NN CD CD CD CD CD CD JJ NN NN CD CD CD NN NN CD NNS|BODY_10|0
+a rich literature|DT JJ NN|BODY_4|0
+different optimizers|JJ NNS|BODY_6|0
+local allocation|JJ NN|BODY_2|0
+microprocessor-based machines|JJ NNS|BODY_7|0
+real data|JJ NNS|BODY_15|0
+a hypothetical huge  machine|DT JJ JJ NN NN|BODY_3|0
+column|NN|BODY_8|0
+simplify ( step|VB -LRB- VB|BODY_5|0
+the relative removal order|DT JJ NN NN|BODY_3|0
+a priority-based scheme|DT JJ NN|BODY_2|0
+each operation|DT NN|BODY_6|0
+several ideas|JJ NNS|BODY_5|0
+26 cases|CD NNS|BODY_5|0
+the edges|DT NNS|BODY_4|0
+correspond|NN|BODY_2|0
+a coloring paradigm|DT NN NN|BODY_4|0
+its component values|PRP$ NN NNS|BODY_5|0
+the comparison|DT NN|BODY_3|0
+the actual values|DT JJ NNS|BODY_8|0
+an initial tag|DT JJ NN|BODY_4|0
+a significant difference|DT JJ NN|BODY_5|0
+an expensive spill|DT JJ NN|BODY_2|0
+many short live ranges|JJ JJ JJ NNS|BODY_3|0
+each spill|DT NN|BODY_3|0
+tom spillman and matthew zaleski|NN NN CC NN NN|BODY_11|0
+ties|NNS|BODY_4|0
+the most constrained nodes first|DT RBS JJ NNS JJ|BODY_3|0
+knowledge|NN|BODY_5|0
+an extra load and store|DT JJ NN CC NN|BODY_7|0
+the run-time performance|DT NN NN|BODY_3|0
+a simpler technique|DT JJR NN|BODY_3|0
+a pair|DT NN|BODY_2|0
+pastem 289 prophy repvid main table 2 effects|NN CD NN JJ JJ NN CD NNS|BODY_12|0
+a straightforward modification|DT JJ NN|BODY_8|0
+a  splitting|DT NN VBG|BODY_4|0
+a single value|DT JJ NN|BODY_5|0
+the minimal number|DT JJ NN|BODY_3|0
+is x|VBZ NNP|BODY_6|0
+the implementations|DT NNS|BODY_3|0
+only a modest amount|RB DT JJ NN|BODY_5|0
+tag|NN|BODY_6|0
+'s absolute demand|POS JJ NN|BODY_5|0
+the other values|DT JJ NNS|BODY_5|0
+|DT|BODY_9|0
+6|CD|BODY_4|0
+20]|CD|BODY_5|0
+a machine-independent fashion|DT JJ NN|BODY_18|0
+the first loop|DT JJ NN|BODY_3|0
+the expression|DT NN|BODY_8|0
+select spill code oe|JJ NN NN NN|BODY_11|0
+a one-to-one mapping|DT JJ NN|BODY_2|0
+the speed and practicality|DT NN CC NN|BODY_24|0
+the final column|DT JJ NN|BODY_1|0
+the program doduc|DT NN JJ|BODY_14|0
+b / green|NN IN NN|BODY_5|0
+behavior|NN|BODY_7|0
+heuristic solution|JJ NN|BODY_4|0
+a process|DT NN|BODY_2|0
+1284 bytes|CD NNS|BODY_3|0
+the resulting code|DT VBG NN|BODY_3|0
+place|NN|BODY_13|0
+a ffifl d ffifl e c|DT JJ JJ JJ NN NN|BODY_2|0
+the run-time cost|DT NN NN|BODY_3|0
+rematerialization information|NN NN|BODY_8|0
+'s static single assignment|POS JJ JJ NN|BODY_5|0
+inst j|IN JJ|BODY_12|0
+the initialization portion|DT NN NN|BODY_3|0
+a strong impact|DT JJ NN|BODY_2|0
+several advantages|JJ NNS|BODY_2|0
+smallest current degree|JJS JJ NN|BODY_4|0
+the address label|DT NN NN|BODY_6|0
+this information|DT NN|BODY_5|0
+a path|DT NN|BODY_3|0
+these allocators|DT NNS|ABSTRACT_5:BODY_1|0
+matula and beck|NN CC NN|BODY_1|0
+some particular k|DT JJ NN|BODY_7|0
+k colors|JJ NNS|BODY_8|0
+register allocators|NN NNS|ABSTRACT_5|0
+compilation|NN|BODY_9|0
+deletion|NN|BODY_6|0
+each point|DT NN|BODY_5|0
+the code can reference|DT NN NN NN|BODY_2|0
+biased coloring change|JJ NN NN|BODY_5|0
+the huge  results|DT JJ NN NNS|BODY_2|0
+all loads , stores , etc.|DT NNS , NNS , FW|BODY_4|0
+ significant degree|DT JJ NN|BODY_8|0
+5.4 allocation|CD NN|BODY_1|0
+\gamma0|CD|BODY_4|0
+a heuristic that|DT JJ IN|BODY_1|0
+compile-time|NN|BODY_4|0
+figure 7|NN CD|BODY_1|0
+further union operations|JJ NN NNS|BODY_4|0
+insignificant improvements|JJ NNS|BODY_1|0
+memory use [26]|NN NN NN|BODY_4|0
+non-integer constants|JJ NNS|BODY_1|0
+onr grant|JJ NN|BODY_4|0
+our front-end|PRP$ NN|BODY_4|0
+our interference graphs|PRP$ NN NNS|BODY_4|0
+specific cases|JJ NNS|BODY_4|0
+the bit vectors|DT NN NNS|BODY_1|0
+the corresponding c translation|DT JJ NN NN|BODY_4|0
+the disjoint set structure|DT JJ NN NN|BODY_1|0
+the first paper|DT JJ NN|BODY_1|0
+the middle columns|DT JJ NNS|BODY_1|0
+the static data area pointer|DT JJ NNS NN NN|BODY_4|0
+the total|DT NN|BODY_4|0
+the two other fortran programs|DT CD JJ JJ NNS|BODY_1|0
+this research|DT NN|BODY_1|0
+storage allocation problems|NN NN NNS|BODY_2|0
+the relative costs|DT JJ NNS|BODY_2|0
+constants|NNS|BODY_4|0
+testing|NN|BODY_2|0
+this reduction|DT NN|BODY_2|0
+good allocations|JJ NNS|BODY_6|0
+quite large|RB JJ|BODY_2|0
+any instructions|DT NNS|BODY_4|0
+a particular target register|DT JJ NN NN|BODY_5|0
+insertion|NN|BODY_3|0
+a renaming transformation|DT JJ NN|BODY_5|0
+reverse order|JJ NN|BODY_3|0
+the problems|DT NNS|BODY_4|0
+an appropriate instruction|DT JJ NN|BODY_7|0
+the loop indices and limits|DT NN NNS CC NNS|BODY_3|0
+the original allocator|DT JJ NN|BODY_4|0
+high|JJ|BODY_5|0
+splitting allocators|JJ NNS|BODY_4|0
+the spill metric|DT NN JJ|BODY_4|0
+'s original coloring heuristic|POS JJ NN NN|BODY_6|0
+little noticeable effect|RB JJ NN|BODY_4|0
+the generated code|DT VBN NN|BODY_6|0
+the orig|DT NN|BODY_2|0
+support|NN|BODY_1:BODY_4|1
+an assignment|DT NN|BODY_7|0
+our tests|PRP$ NNS|BODY_17|0
+the same register|DT JJ NN|BODY_5:BODY_10|0
+all the copies|PDT DT NNS|BODY_3|0
+a representation|DT NN|BODY_7|0
+unproductive splits|JJ NNS|BODY_5:BODY_1|0
+the required operands|DT VBN NNS|BODY_4|0
+the interference|DT NN|BODY_4|0
+an interval analysis|DT NN NN|BODY_5|0
+the update|DT NN|BODY_3|0
+unneeded copies|JJ NNS|BODY_3|0
+the extra copy|DT JJ NN|BODY_2|0
+existing techniques|VBG NNS|BODY_9|0
+a degree|DT NN|BODY_11|0
+optimistic|JJ|BODY_2:BODY_8|0
+original|JJ|BODY_2|0
+one pessimistic|CD JJ|BODY_4|0
+the strength|DT NN|BODY_5|0
+a best-of-three coloring scheme|DT CD JJ NN|BODY_2|0
+no mechanism|DT NN|BODY_8|0
+immediate loads|JJ NNS|BODY_4|0
+extra rounds|JJ NNS|BODY_3|0
+their tags|PRP$ NNS|BODY_3|0
+133 lines|CD NNS|BODY_3|0
+an infinite register set|DT JJ NN NN|BODY_3|0
+too many neighbors|RB JJ NNS|BODY_6|0
+two allocators|CD NNS|BODY_2|0
+a new importance|DT JJ NN|BODY_2|0
+a difference|DT NN|BODY_3|0
+a difficulty|DT NN|BODY_1|0
+a space savings|DT NN NNS|BODY_3|0
+each table|DT NN|BODY_1|0
+four larger and more complex loop nests|CD JJR CC RBR JJ NN NNS|BODY_3|0
+improved color choice|VBN NN NN|BODY_1|0
+many implementations|JJ NNS|BODY_1|0
+the conservative update|DT JJ NN|BODY_1|0
+the figure|DT NN|BODY_1|0
+the first loop nest|DT JJ NN NN|BODY_1|0
+the simple instrumentation|DT JJ NN|BODY_1|0
+the small array-copy loops|DT JJ NN NNS|BODY_3|0
+the statements|DT NNS|BODY_3|0
+together many combining steps|RB JJ VBG NNS|BODY_3|0
+a two coloring|DT CD NN|BODY_3|0
+the mapping|DT NN|BODY_8|0
+its corresponding node|PRP$ JJ NN|BODY_8|0
+the current live range|DT JJ JJ NN|BODY_4|0
+the key underlying insights|DT JJ JJ NNS|BODY_3|0
+our new approach|PRP$ JJ NN|BODY_3|0
+worse code|JJR NN|BODY_4|0
+allocators|NNS|BODY_5|0
+experience|NN|BODY_3|0
+an exponential number|DT JJ NN|BODY_3|0
+the diamond graph |DT NN NN|BODY_4|0
+two passes|CD NNS|BODY_4|0
+in most cases|IN JJS NNS|BODY_16|0
+an uncoalesced copy|DT JJ NN|BODY_2|0
+a way|DT NN|BODY_5|0
+beck|VB|BODY_3|0
+table 2|NN CD|BODY_2|0
+better results|JJR NNS|BODY_3|0
+the program fmin|DT NN NN|BODY_4|0
+tiny live ranges|JJ JJ NNS|BODY_4|0
+an unlimited number|DT JJ NN|BODY_3|0
+the additional passes|DT JJ NNS|BODY_20|0
+the following two steps|DT VBG CD NNS|BODY_3|0
+these exceptional values|DT JJ NNS|BODY_2|0
+a series|DT NN|BODY_4|0
+unconstrained nodes|JJ NNS|BODY_3|0
+the generation|DT NN|BODY_3|0
+an insight|DT NN|BODY_2|0
+an explosion|DT NN|BODY_4|0
+physical registers|JJ NNS|BODY_4|0
+never-killed )|JJ -RRB-|BODY_8|0
+an edge|DT NN|BODY_2|0
+the parascope programming environment|DT NN NN NN|BODY_2|0
+this effect|DT NN|BODY_5:BODY_1|0
+two representations|CD NNS|BODY_3|0
+dominators|NNS|BODY_4|0
+the distinct live ranges|DT JJ JJ NNS|BODY_4|0
+freedom|NN|BODY_4|0
+the extra copies|DT JJ NNS|BODY_4|0
+'s definition|POS NN|BODY_2|0
+'s stronger coloring heuristic|POS JJR NN JJ|BODY_5|0
+all those|PDT DT|BODY_5|0
+steps|NNS|BODY_1|0
+the particular phase|DT JJ NN|BODY_3|0
+does x|VBZ NNP|BODY_3|0
+the answer|DT NN|BODY_5|0
+rematerialization increases|NN NNS|BODY_3|0
+a mechanism|DT NN|BODY_6|0
+the allocation process|DT NN NN|BODY_6:BODY_8|0
+different intermediate representations|JJ JJ NNS|BODY_4|0
+the machine issues|DT NN NNS|BODY_7|0
+two or more|CD CC JJR|BODY_8|0
+a single cycle|DT JJ NN|BODY_9|0
+a never- killed value|DT RB VBN NN|BODY_3|0
+the first loop forces|DT JJ NN NNS|BODY_3|0
+smaller estimated spill costs|JJR VBN NN NNS|BODY_3|0
+the first available color|DT JJ JJ NN|BODY_4|0
+heuristics|NNS|BODY_3|0
+'s original algorithm|POS JJ NN|BODY_5|0
+a largest degree first  ordering|DT JJS NN JJ NN NN|BODY_2|0
+this improvement|DT NN|BODY_3|0
+their handling|PRP$ NN|BODY_5|0
+a powerful mechanism|DT JJ NN|BODY_2|0
+graph coloring allocators|NN NN NNS|BODY_4|0
+128 registers|CD NNS|BODY_4|0
+'s coloring heuristic|POS NN NN|BODY_6|0
+the same fashion|DT JJ NN|BODY_7|0
+experimental data|JJ NNS|ABSTRACT_2|0
+repeated implementation|VBN NN|ABSTRACT_4|0
+spill selection|NN NN|BODY_5|0
+the one|DT NN|BODY_7|0
+their scheme|PRP$ NN|BODY_5|0
+a direct trade-off|DT JJ NN|BODY_4|0
+the following sense|DT JJ NN|BODY_3|0
+a practical method|DT JJ NN|BODY_5|0
+( b )|-LRB- NN -RRB-|BODY_7|0
+order|NN|BODY_3|0
+unused registers|JJ NNS|BODY_3|0
+node j|VBG NN|BODY_4|0
+their algorithm|PRP$ NN|BODY_3|0
+a bit-matrix|DT NN|BODY_2|0
+551 cycles|CD NNS|BODY_5|0
+decreasing degree|VBG NN|BODY_4|0
+a heuristic method|DT JJ NN|BODY_3|0
+the heuristic|DT NN|BODY_1|0
+the higher cost|DT JJR NN|BODY_27|0
+m|NN|BODY_3|0
+all the coalescing|PDT DT NN|BODY_2|0
+worse allocations|JJR NNS|BODY_3|0
+2k neighbors|DT NNS|BODY_3|0
+each use|DT NN|BODY_10|0
+a bit matrix|DT NN NN|BODY_6|0
+7|CD|BODY_4|0
+the column labeled rematerialization|DT NN VBN NN|BODY_9|0
+other parts|JJ NNS|BODY_2|0
+an empty stack|DT JJ NN|BODY_2|0
+17]|CD|BODY_6|0
+other approaches|JJ NNS|BODY_1|0
+spill choice and placement|NN NN CC NN|BODY_6|0
+this early work|DT JJ NN|BODY_1|0
+opportunities|NNS|BODY_2|0
+the more precise coalescing condition|DT RBR JJ NN NN|BODY_3|0
+only one|RB CD|BODY_5|0
+every instruction|DT NN|BODY_2|0
+the smallest ratio|DT JJS NN|BODY_3|0
+'s register set|POS NN NN|BODY_6|0
+spill code insertion|NN NN NN|BODY_5|0
+the decision|DT NN|BODY_1|0
+the splits|DT NNS|BODY_3|0
+the desired separation|DT VBN NN|BODY_6|0
+choices|NNS|BODY_3|0
+a cleaning|DT NN|BODY_2|0
+certain values|JJ NNS|BODY_2|0
+zero|CD|BODY_3|0
+1989 and 1992|CD CC CD|BODY_5|0
+four|CD|BODY_1|0
+one loss|CD NN|BODY_1|0
+preliminary versions|JJ NNS|BODY_1|0
+the other|DT JJ|BODY_5|0
+this approach|DT NN|BODY_1|0
+tomcatv routine )|NN NN -RRB-|BODY_5|0
+unnecessary splits|JJ NNS|BODY_5|0
+an inconsistency graph|DT NN NN|BODY_2|0
+our  standard  machine|PRP$ NN JJ NN NN|BODY_6|0
+a ) pop|DT -RRB- NN|BODY_4|0
+different parts|JJ NNS|BODY_4|0
+the overall speed|DT JJ NN|BODY_2|0
+remat.|NN|BODY_7|0
+further time|JJ NN|BODY_5|0
+some point|DT NN|BODY_5|0
+some point and cannot|DT NN CC NN|BODY_9|0
+an implementation strategy|DT NN NN|BODY_4|0
+individual tiles|JJ NNS|BODY_2|0
+' thesis [3]|POS NN NN|BODY_7|0
+a display|DT NN|BODY_17|0
+an implementation|DT NN|BODY_1|0
+authors|NNS|BODY_1|0
+greg chaitin|NNP NN|BODY_1|0
+the constant factor|DT JJ NN|BODY_8|0
+the notion|DT NN|BODY_1|0
+a direct measure|DT JJ NN|BODY_2|0
+'s metric|POS JJ|BODY_9|0
+the very low cost|DT RB JJ NN|BODY_22|0
+a term|DT NN|BODY_4|0
+all values|DT NNS|BODY_3|0
+an imprecise but conservative approximation|DT JJ CC JJ NN|BODY_7|0
+two sets|CD NNS|BODY_11|0
+the same order|DT JJ NN|BODY_3|0
+no notion|DT NN|BODY_5|0
+k neighbors|NN NNS|BODY_3|0
+more accurate spill costs|RBR JJ NN NNS|BODY_6|0
+scheme [2]|NN NN|BODY_7|0
+ferrante [9]|JJ NN|BODY_6|0
+146,404 bytes|CD NNS|BODY_4|0
+optimistic allocators|JJ NNS|BODY_3|0
+their metric combines chaitin|PRP$ JJ NNS NN|BODY_1|0
+a compiler|DT NN|BODY_5:BODY_1|0
+[8|CD|BODY_4|0
+the remat|DT NN|BODY_11|0
+enough information|JJ NN|BODY_3|0
+a simple improvement|DT JJ NN|BODY_2|0
+no discussion|DT NN|BODY_2|0
+spill choices|NN NNS|BODY_10|0
+the target register set|DT NN NN NN|BODY_1|0
+up to four integer registers|IN TO CD NN NNS|BODY_1|0
+several different restrictions|JJ JJ NNS|BODY_3|0
+two rounds|CD NNS|BODY_3|0
+a distinguished copy instruction|DT JJ NN NN|BODY_6|0
+two neighbors|CD NNS|BODY_6|0
+machines|NNS|BODY_5|0
+ten|CD|BODY_1|0
+the biased scheme|DT JJ NN|BODY_9|0
+2.|.|BODY_1|0
+sixteen floating-point registers|CD JJ NNS|BODY_19|0
+those neighbors|DT NNS|BODY_5|0
+cases|NNS|BODY_1:BODY_3|0
+the new lattice|DT JJ NN|BODY_1|0
+the remaining nodes|DT VBG NNS|BODY_6|0
+p )|NN -RRB-|BODY_7|0
+more|JJR|BODY_5|0
+very little cost|RB JJ NN|BODY_4|0
+register pairs|NN NNS|BODY_7|0
+each floating-point register|DT NN NN|BODY_1|0
+one cycle|CD NN|BODY_6|0
+that color|WDT NN|BODY_4|0
+the build-coalesce process|DT NN NN|BODY_2|0
+good compile-time performance|JJ JJ NN|BODY_3|0
+the first pass|DT JJ NN|BODY_29|0
+gupta|NN|BODY_1|0
+significant improvements|JJ NNS|BODY_8|0
+the rs/6000|DT CD|BODY_6|0
+29]|CD|BODY_8|0
+a later coalesce|DT JJ NN|BODY_5|0
+addition|NN|BODY_1|0
+a single constraint|DT JJ NN|BODY_2|0
+instrumentation|NN|BODY_4|0
+machine registers|NN NNS|BODY_4|0
+two tables|CD NNS|BODY_4|0
+this heuristic|DT JJ|BODY_2|0
+each live range [6]|DT JJ NN NN|BODY_7|0
+the reverse|DT NN|BODY_4|0
+comparison|NN|BODY_1|0
+a precise interference graph [8]|DT JJ NN NN NNS|BODY_5|0
+the intersection|DT NN|BODY_1|0
+the allocator inserts|DT NN NNS|BODY_2|0
+the minimal coloring|DT JJ NN|BODY_3|0
+two later phases|CD RB NNS|BODY_2|0
+each color|DT NN|BODY_9|0
+the same spill metric|DT JJ NN JJ|BODY_6|0
+'s limited approach|POS JJ NN|BODY_7|0
+two modifications|CD NNS|BODY_3|0
+l ijk|JJ NN|BODY_11|0
+an algorithm|DT NN|BODY_2|0
+the contributing entries|DT VBG NNS|BODY_4|0
+some node|DT NN|BODY_5:BODY_1|0
+shallow loop nests|JJ NN NNS|BODY_4|0
+one possible sequence|CD JJ NN|BODY_1|0
+high degree|JJ NN|BODY_5|0
+the coloring phase|DT NN NN|BODY_3|0
+a subset|DT NN|BODY_3|0
+( c|-LRB- NN|BODY_10|0
+table 1 show|NN CD NN|BODY_2|0
+table 2 show|NN CD NN|BODY_2|0
+the svd|DT NN|BODY_6|0
+the corresponding live ranges|DT JJ JJ NNS|BODY_4|0
+5.2 spill costs|CD NN NNS|BODY_1|0
+smaller pieces|JJR NNS|BODY_4|0
+subgraphs|NNS|BODY_7|0
+all the separate live ranges|PDT DT JJ JJ NNS|BODY_2|0
+its edges|PRP$ NNS|BODY_3:BODY_10|0
+any earlier|DT RBR|BODY_8|0
+elements|NNS|BODY_6|0
+an attractive feature|DT JJ NN|BODY_12|0
+the oe-nodes|DT NNS|BODY_3|0
+a particular live range l i|DT JJ JJ NN NN NN|BODY_4|0
+never-|NNS|BODY_2|0
+a long time|DT JJ NN|BODY_4|0
+numerical methods|JJ NNS|BODY_5:BODY_7|0
+jorge mor|NN NN|BODY_1|0
+loops|NNS|BODY_9|0
+several cases|JJ NNS|BODY_5|0
+several insights|JJ NNS|ABSTRACT_2|0
+all the neighbors|DT DT NNS|BODY_4|0
+some value|DT NN|BODY_3|0
+the wrong  value|DT JJ JJ NN|BODY_3|0
+the new live range l ij|DT JJ JJ NN NN NN|BODY_2|0
+a larger class|DT JJR NN|ABSTRACT_4|0
+the large live ranges|DT JJ JJ NNS|BODY_3|0
+the third and fourth column|DT JJ CC JJ NN|BODY_1|0
+the degree|DT NN|BODY_10|0
+an imprecise interference graph and color|DT JJ NN NN CC NN|BODY_2|0
+an immediate problem|DT JJ NN|BODY_3|0
+two hundred fourteen lines|CD CD CD NNS|BODY_2|0
+'s heuristic fails|POS JJ VBZ|BODY_2|0
+the same allocation|DT JJ NN|BODY_2|0
+a node l i|DT NN NN NN|BODY_7|0
+a problem|DT NN|BODY_3|0
+two versions|CD NNS|BODY_2|0
+a mapping|DT NN|BODY_3|0
+the following steps|DT VBG NNS|BODY_2|0
+a )|DT -RRB-|BODY_5|0
+this row|DT NN|BODY_1|0
+node p|NN NN|BODY_2|0
+turn|NN|BODY_2|0
+some graphs|DT NNS|BODY_8|0
+names [8]|NNS NNS|BODY_7|0
+the graph [8]|DT NN NN|BODY_17|0
+available colors|JJ NNS|BODY_3|0
+an additional constraint|DT JJ NN|BODY_3|0
+all spilling|DT NN|BODY_3|0
+what|WP|BODY_2|0
+little competition|JJ NN|BODY_3|0
+efficient execution|JJ NN|BODY_3|0
+an arbitrary choice|DT JJ NN|BODY_3|0
+the dominator tree|DT NN NN|BODY_4|0
+allocation problems|NN NNS|BODY_3|0
+magnitude|NN|BODY_11|0
+the spill-cost computation|DT NN NN|BODY_2|0
+node x|NN NN|BODY_2|0
+second , late spilling capitalizes|JJ , JJ NN NNS|BODY_1|0
+a real run-time cost|DT JJ NN NN|BODY_2|0
+an uncolored partner l j|DT JJ NN JJ NN|BODY_4|0
+the approximation|DT NN|BODY_2|0
+the decisions|DT NNS|BODY_2:BODY_3|0
+the virtual registers|DT JJ NNS|BODY_2|0
+pairs|NNS|BODY_3|0
+the spectrum|DT NN|BODY_6|0
+the stack frame|DT NN NN|BODY_11|0
+a color distinct|DT NN JJ|BODY_12|0
+mark krentel|NN NN|BODY_1|0
+our ideas|PRP$ NNS|BODY_6|0
+very large routines [3]|RB JJ NNS NNS|BODY_5|0
+chaitin )|NN -RRB-|BODY_11|0
+both live ranges|DT JJ NNS|BODY_6|0
+all remaining nodes|DT VBG NNS|BODY_3|0
+the entire stack|DT JJ NN|BODY_1|0
+no nodes|DT NNS|BODY_5|0
+add-immediates|NNS|BODY_8|0
+the demand|DT NN|BODY_1:BODY_2|0
+all three routines|DT CD NNS|BODY_1|0
+source y y chaitin store p reload p y reload p store p splitting store p reload p y reload p figure 5 rematerialization versus|NN RB RB NN NN NN NN NN RB NN NN NN NN JJ NN NN NN NN RB NN NN NN CD NN NN|BODY_1|0
+the allocation|DT NN|BODY_2:BODY_3|0
+a concise form|DT NN NN|BODY_3|0
+a sufficient condition|DT JJ NN|BODY_2|0
+ x|IN NN|BODY_5|0
+extensive optimization|JJ NN|BODY_5|0
+our experimental allocators|PRP$ JJ NNS|BODY_1|0
+all the remaining nodes|PDT DT VBG NNS|BODY_2|0
+at least k neighbors|IN JJS VB NNS|BODY_3|0
+the second discusses|DT JJ NNS|BODY_1|0
+a poor spill choice|DT JJ NN NN|BODY_5|0
+rs/6000 model 540|CD NN CD|BODY_5|0
+complex , multi-valued live ranges|JJ , JJ JJ NNS|BODY_6|0
+some careful algorithmic work|DT JJ JJ NN|BODY_1|0
+a lightweight spill|DT JJ NN|BODY_6|0
+previous assignments|JJ NNS|BODY_8|0
+all the nodes|PDT DT NNS|BODY_2|0
+each other and thus|DT JJ CC RB|BODY_6|0
+optimistic coloring table 1 shows|JJ NN NN CD VBZ|BODY_1|0
+each c routine|DT NN NN|BODY_1|0
+our instructions|PRP$ NNS|BODY_1|0
+our colleagues|PRP$ NNS|BODY_1|0
+the actions|DT NNS|BODY_2|0
+the running time|DT VBG NN|BODY_2|0
+compile time|JJ NN|BODY_15|0
+a sparse data-flow evaluation graph|DT JJ NN NN NN|BODY_3|0
+a sparse data-flow evaluation graph [9]|DT JJ NN NN NN NN|BODY_3|0
+determine liveness|VB NN|BODY_1|0
+several low-level modifications|JJ JJ NNS|BODY_3|0
+the high-level structure|DT JJ NN|BODY_1|0
+the resulting allocator|DT VBG NN|BODY_1|0
+fortran programs|NN NNS|ABSTRACT_7|0
+rematerial- ization|NNS NN|BODY_4|0
+'s partners|POS NNS|BODY_10:BODY_8|0
+fewer load-immediates|JJR NNS|BODY_3|0
+only cases|JJ NNS|BODY_7|0
+the specific color|DT JJ NN|BODY_8|0
+the largest routine|DT JJS NN|BODY_1|0
+different values|JJ NNS|BODY_7|0
+this goal|DT NN|BODY_1|0
+the minimal column|DT JJ NN|BODY_1|0
+n k|NN NN|BODY_8|0
+several groups|JJ NNS|BODY_1|0
+live range splitting|JJ NN NN|BODY_6|0
+an obvious conclusion|DT JJ NN|BODY_1|1
+4.2|CD|BODY_1|0
+the first presents|DT JJ NNS|BODY_1|0
+this loop|DT NN|BODY_4|0
+the last column|DT JJ NN|BODY_1|0
+a precise interference graph|DT JJ NN NN|BODY_4|0
+the late sixties|DT JJ NNS|BODY_1|0
+it [14 , 15]|PRP CD , CD|BODY_5|0
+an operand value|DT NN NN|BODY_1|0
+the control-flow graph|DT NN NN|BODY_7|0
+distinct colors|JJ NNS|BODY_11|0
+all spills|DT NNS|BODY_5|0
+eleven programs|CD NNS|BODY_5|0
+introduction|NN|BODY_1|0
+the best result|DT JJS NN|BODY_5|0
+more precise (|RBR JJ -LRB-|BODY_1|0
+union|NN|BODY_5|0
+e.g. , r14 and f15|FW , CD CC CD|BODY_10|0
+additional compile-time|JJ NN|BODY_7|1
+the second extends chaitin|DT JJ VBZ NN|ABSTRACT_1|0
+fewer stores|JJR NNS|BODY_5|0
+3.1|CD|BODY_1|0
+golub and reinsch|NN CC NN|BODY_7|0
+our implementation models|PRP$ NN NNS|BODY_1|0
+the classical disjoint set union-find problem|DT JJ NN VBN NN NN|BODY_3|0
+their 5|PRP$ CD|BODY_1|0
+algorithms|NNS|BODY_1|0
+a large number|DT JJ NN|BODY_1|0
+two connected values|CD JJ NNS|BODY_1|0
+virtue|NN|BODY_1|0
+a single , unified structure|DT JJ , JJ NN|BODY_7|0
+each never-killed value|DT JJ NN|BODY_4|0
+one sense|CD NN|BODY_1|0
+[2 , 28]|CD , CD|BODY_5|0
+cost-guided spill selection|JJ NN NN|BODY_8|0
+recent years|JJ NNS|BODY_1|0
+the first implementation|DT JJ NN|BODY_1|0
+section 2 )|NN CD -RRB-|BODY_7|0
+five different loop nests|CD JJ NN NNS|BODY_3|0
+eleven routines|CD NNS|BODY_1|0
+any real machine|DT JJ NN|BODY_5|0
+section 4.2|NN CD|BODY_4|0
+a more sophisticated live range splitting technique|DT RBR JJ JJ NN NN NN|BODY_4|0
+different machines|JJ NNS|BODY_8|0
+'s sparse simple constant algorithm [31]|POS JJ JJ JJ NN NN|BODY_6|0
+chaitin-style graph coloring allocators|NN NN NN NNS|BODY_5|0
+more load-immediates|JJR NNS|BODY_4|0
+no more splits|DT JJR NNS|BODY_4|0
+section 4.2 )|NN CD -RRB-|BODY_6|0
+uniprocessors [12]|NNS NNS|BODY_6|0
+the graph coloring paradigm|DT NN NN NN|BODY_3|0
+sizes|NNS|BODY_5|0
+the larger , longer live ranges|DT JJR , RBR JJ NNS|BODY_5|0
+little or no cost|JJ CC DT NN|BODY_7|0
+the future|DT NN|BODY_4|0
+each run|DT NN|BODY_1|0
+a normal , heavyweight spill|DT JJ , JJ NN|BODY_4|0
+a complete c routine|DT JJ NN NN|BODY_3|0
+the first column|DT JJ NN|BODY_1|0
+renumber chaitin|VB NN|BODY_1|0
+the next sections|DT JJ NNS|BODY_1|0
+discussion|NN|BODY_15|0
+the new definition|DT JJ NN|BODY_1|0
+backtracking|NN|BODY_4|0
+both chaitin-style and chow-style allocators|DT NN CC JJ NNS|BODY_5|0
+both fast and practical|DT JJ CC JJ|BODY_4|0
+global register allocation|JJ NN NN|BODY_8|0
+the coloring|DT NN|BODY_4|0
+the improvements|DT NNS|BODY_1|0
+the necessary rematerialization information|DT JJ NN NN|BODY_3|0
+virtual registers|JJ NNS|BODY_3|0
+the resulting coloring|DT VBG NN|BODY_4|0
+'s coloring heuristic [6]|POS NN JJ NN|BODY_4|0
+each definition point|DT NN NN|BODY_3|0
+itself|PRP|BODY_3|0
+live ranges and values|JJ NNS CC NNS|BODY_3|0
+optimistic coloring and rematerialization|JJ NN CC NN|ABSTRACT_3|0
+such situations|JJ NNS|BODY_5|0
+the next node|DT JJ NN|BODY_4|0
+the hewlett-packard precision architecture compiler papers|DT JJ NN NN NN NNS|BODY_1|0
+simple drivers|JJ NNS|BODY_3|0
+algorithm|NN|BODY_7|0
+definitions|NNS|BODY_6:BODY_7|0
+constant values|JJ NNS|BODY_1|0
+model register allocation|NN NN NN|BODY_1|0
+many routines|JJ NNS|BODY_4|0
+6 implementation insight|CD NN NN|BODY_1|0
+live range splitting [3]|JJ NN NN NN|BODY_6|0
+any value|DT NN|BODY_1|0
+simple things|JJ NNS|BODY_1|0
+no further copies|RB JJ NNS|BODY_5|0
+a single virtual register|DT JJ JJ NN|BODY_1|0
+the initial implementation|DT JJ NN|BODY_1|0
+3.2|CD|BODY_1|0
+the spill|DT NN|BODY_4|0
+this mechanism|DT NN|BODY_1|0
+their spill metric|PRP$ VB JJ|BODY_10|0
+common uses|JJ NNS|BODY_3|0
+full optimization|JJ NN|BODY_6|0
+section 2|NN CD|BODY_1|0
+implementation|NN|BODY_1|0
+the modified renumber|DT VBN NN|BODY_1|0
+a different problem|DT JJ NN|BODY_3|0
+one or more uses|CD CC JJR NNS|BODY_8|0
+ken kennedy|JJ NN|BODY_1|0
+an extensive comparison|DT JJ NN|BODY_1|0
+another approach|DT NN|BODY_1|0
+chow and hennessy [10 , 11]|NN CC JJ CD , CD|BODY_3|0
+3,357,640 bytes|CD NNS|BODY_7|0
+both methods|DT NNS|BODY_1|0
+all subsequent work|DT JJ NN|BODY_1|0
+different problems|JJ NNS|BODY_8|0
+the reduced number|DT JJ NN|BODY_1|0
+the first , optimistic coloring|DT JJ , JJ NN|ABSTRACT_1|0
+the underlying code|DT JJ NN|BODY_8|0
+the second mechanism|DT JJ NN|BODY_1|0
+memory latencies|NN NNS|BODY_1|0
+average , l i|JJ , JJ NN|BODY_1|0
+the early array-copy loops|DT JJ NN NNS|BODY_4|0
+a necessary condition|DT JJ NN|BODY_6|0
+these properties|DT NNS|BODY_4|0
+a load-immediate|DT NN|BODY_4|0
+choosing spill candidates|VBG NN NNS|BODY_1|0
+'s current neighbors|POS JJ NNS|BODY_6|0
+5.3 results|CD NNS|BODY_1|0
+section 4.1|NN CD|BODY_3|0
+our method guarantees|PRP$ NN NNS|BODY_1|0
+11]|CD|BODY_6:BODY_4|0
+further spilling|JJ VBG|BODY_6|0
+the entire suite|DT JJ NN|BODY_1|0
+these two techniques|DT CD NNS|BODY_1|0
+node e|NN NN|BODY_1|0
+these costs|DT NNS|BODY_1|0
+select spill code oe figure|JJ NN NN NN NN|BODY_9|0
+actual machine code|JJ NN NN|BODY_1|0
+building graph coloring allocators|NN NN NN NNS|BODY_2|0
+the right colors|DT JJ NNS|BODY_5|0
+our allocator computes|PRP$ NN NNS|BODY_1|0
+biased coloring capitalizes|VBN NN NNS|BODY_1|0
+'s loop-nesting depth|POS NN NN|BODY_14|0
+the existence|DT NN|BODY_1|0
+more aggressive coloring heuristics|RBR JJ NN NNS|BODY_4|0
+fabri|NN|BODY_1|0
+the cycle|DT NN|BODY_15|0
+.06 .06 .06 .09 .09 .12 .62 .61 .81|CD CD CD CD CD CD CD CD NN|BODY_6|0
+local and global allocation|JJ CC JJ NN|BODY_3|0
+each coalesce|DT NN|BODY_1|0
+its tag|PRP$ NN|BODY_1|0
+the apparent complexity|DT JJ NN|BODY_1|0
+two different coloring heuristics|CD JJ NN NNS|BODY_5|0
+the alpha project|DT NN NN|BODY_4|0
+the spec suite|DT NN NN|BODY_5|0
+a fine-grained hierarchical decomposition|DT JJ JJ NN|BODY_1|0
+a tiling [5]|DT NN NN|BODY_3|0
+our current compiler|PRP$ JJ NN|BODY_1|0
+a naive implementation|DT JJ NN|BODY_1|0
+memory )|NN -RRB-|BODY_6|0
+a / blue|DT IN JJ|BODY_8|0
+bernstein|NN|BODY_1|0
+ershov|NN|BODY_1|0
+the pl.8 compiler [8|DT NNS NN CD|BODY_5|0
+merges two or more values|NNS CD CC JJR NNS|BODY_5|0
+rematerialization table 2|NN NN CD|BODY_1|0
+the ssa column|DT NN NN|BODY_1|0
+a natural way|DT JJ NN|BODY_1|0
+an instruction or ?|DT NN CC .|BODY_4|0
+such values|JJ NNS|BODY_4|0
+the desired result|DT VBN NN|BODY_5|0
+[9]|CD|BODY_4|0
+our scheme|PRP$ NN|BODY_1|0
+their spill costs|PRP$ VB NNS|BODY_5|0
+any implementation|DT NN|BODY_1|0
+figure 1|NN CD|BODY_1|0
+coloring register allocation|NN NN NN|TITLE_2|0
+many greater than 20 %|JJ JJR IN CD NN|BODY_2|0
+spill code [8]|NN NN NN|BODY_7|0
+the final code|DT JJ NN|BODY_5|0
+the improvement|DT NN|BODY_3|0
+'s algorithm|POS NN|BODY_4|0
+the coloring heuristic|DT NN JJ|BODY_1|0
+the first routine|DT JJ NN|BODY_1|0
+the first complete register allocator|DT JJ JJ NN NN|BODY_1|0
+15,616 bytes|CD NNS|BODY_5|0
+3064 bytes|CD NNS|BODY_5|0
+n )|NN -RRB-|BODY_7|0
+the major loop nests|DT JJ NN NNS|BODY_3:BODY_4|0
+chaitin-style graph coloring register allocators|NN NN NN NN NNS|ABSTRACT_3|0
+intermixing conservative coalescing|JJ JJ NN|BODY_1|0
+our method|PRP$ NN|BODY_1|0
+the ideal solution|DT JJ NN|BODY_7|0
+an operand-by-operand basis|DT JJ NN|BODY_14|0
+the callee|DT NN|BODY_7|0
+the introduction|DT NN|BODY_1|0
+costs estimates|NNS NNS|BODY_1|0
+adjacency lists|NN NNS|BODY_4|0
+techniques [2]|NNS NNS|BODY_4|0
+bit-vectored flow analysis|JJ NN NN|BODY_3|0
+the later loop nests|DT JJ NN NNS|BODY_3|0
+bottom|NN|BODY_1|0
+that late point|DT JJ NN|BODY_1|0
+an ordering|DT NN|BODY_1|0
+assigns colors|NNS NNS|BODY_1|0
+negative spill costs|JJ NN NNS|BODY_2|0
+the compiler proceeds|DT NN NNS|BODY_1|0
+the resulting new graph|DT VBG JJ NN|BODY_3|0
+our new method|PRP$ JJ NN|BODY_12|0
+our optimistic coloring heuristic|PRP$ JJ NN NN|BODY_11|0
+more deeply nested loops|RBR RB VBN NNS|BODY_3|0
+outer loops|JJ NNS|BODY_5|0
+the never-killed values|DT JJ NNS|BODY_5|0
+over 40 %|RB CD NN|BODY_4|0
+its high degree|PRP$ JJ NN|BODY_9|0
+2. insert oe-nodes|CD NN NNS|BODY_1|0
+cfa|NN|BODY_1|0
+fewer cycles|JJR NNS|BODY_6|0
+a graph coloring paradigm|DT NN NN NN|BODY_3|0
+any discussion|DT NN|BODY_1|0
+experiment|NN|BODY_1|0
+popular techniques|JJ NNS|BODY_1|0
+several implicit assumptions|JJ JJ NNS|BODY_3|0
+the routines , colbur and ddeflu|DT NNS , NN CC NN|BODY_9|0
+adjacency vectors|NN NNS|BODY_8|0
+improvement|NN|BODY_6|0
+the source and destination values|DT NN CC NN NNS|BODY_1|0
+a particular inst or ?|DT JJ NN CC .|BODY_3|0
+our method tags|PRP$ NN NNS|BODY_1|0
+the defining instruction|DT NN NN|BODY_1|0
+subroutine name|JJ NN|BODY_3|0
+the first two columns|DT JJ CD NNS|BODY_1|0
+all k-colorable graphs|DT JJ NNS|BODY_7|0
+an unrestricted coalesce|DT JJ NN|BODY_6|0
+better code|JJR NN|BODY_5|0
+phase orig|NN NN|BODY_11|0
+the second routine|DT JJ NN|BODY_1|0
+a single basic block|DT JJ JJ NN|BODY_5|0
+arbitrary order|JJ NN|BODY_7|0
+the initial graph|DT JJ NN|BODY_6|0
+current degree|JJ NN|BODY_11|0
+current degree [6]|JJ NN NNS|BODY_5|0
+live range length|JJ NN NN|BODY_3|0
+their priority function|PRP$ NN NN|BODY_1|0
+exactly one definition [13]|RB CD NN NN|BODY_12|0
+an extra pass|DT JJ NN|BODY_1|0
+an optimization phase|DT NN NN|BODY_2|0
+def-use chains|NN NNS|BODY_4|0
+a separate live range|DT JJ JJ NN|BODY_8|0
+our intermediate representation|PRP$ JJ NN|BODY_1|0
+the least expensive way|DT RBS JJ NN|BODY_4|0
+this choice|DT NN|BODY_1|0
+any specific iloc instruction|DT JJ NN NN|BODY_7|0
+a somewhat arbitrary manner|DT RB JJ NN|BODY_3|0
+any spilling|DT NN|BODY_1|0
+select assigns colors|JJ NNS NNS|BODY_1|0
+the desired code|DT VBN NN|BODY_9|0
+the routine|DT NN|BODY_7|0
+the current graph|DT JJ NN|BODY_5|0
+an uncolored node|DT JJ NN|BODY_1|0
+innermost loops|JJ NNS|BODY_2|0
+no more copies|DT JJR NNS|BODY_3|0
+a single live range p 12|DT JJ JJ NN NN CD|BODY_7|0
+neither p 0|DT NN CD|BODY_1|0
+the diamond graph [27]|DT NN NN NN|BODY_5|0
+'s current degree|POS JJ NN|BODY_6|0
+inserting splits|VBG NNS|BODY_1|0
+these two papers|DT CD NNS|BODY_4|0
+three types|CD NNS|BODY_8|0
+the corresponding predecessor block|DT JJ NN NN|BODY_8|0
+these copies|DT NNS|BODY_3|0
+these large live ranges|DT JJ JJ NNS|BODY_5|0
+many cases|JJ NNS|BODY_1|0
+'s live range|POS JJ NN|BODY_7|0
+source note|NN NN|BODY_1|0
+the entire live range|DT JJ JJ NN|BODY_1|0
+the lower loop|DT JJR NN|BODY_1|0
+the upper loop|DT JJ NN|BODY_1|0
+any case|DT NN|BODY_1|0
+spills and n|NNS CC NN|BODY_4|0
+its lifetime|PRP$ NN|BODY_6|0
+no opportunities|DT NNS|BODY_1|0
+our interest|PRP$ NN|BODY_1|0
+several extra steps|JJ JJ NNS|BODY_3|0
+the features|DT NNS|BODY_3|0
+the purposes|DT NNS|BODY_1|0
+a blank|DT JJ|BODY_5|0
+a phenomenon|DT NN|BODY_4|0
+another paper|DT NN|BODY_1|0
+comparing register allocators|NN NN NNS|BODY_1|0
+inspection|NN|BODY_4|0
+its power|PRP$ NN|BODY_6|0
+natu- rally|POS NN|BODY_1|0
+reporting costs|VBG NNS|BODY_1|0
+some study|DT NN|BODY_1|0
+split instructions|NN NNS|BODY_2|0
+the single loss|DT JJ NN|BODY_1|0
+theory|NN|BODY_1|0
+any uncolored node|DT JJ NN|BODY_1|0
+different colors|JJ NNS|BODY_6|0
+any node|DT NN|BODY_1|0
+comments|NNS|BODY_4|0
+each attempt|DT NN|BODY_1|0
+many procedures|JJ NNS|BODY_1|0
+the entire build-coalesce-color process|DT JJ NN NN|BODY_3|0
+their interference graphs|PRP$ NN NNS|BODY_3|0
+'s coalesce phase|POS NN NN|BODY_10|0
+'s original allocator|POS JJ NN|BODY_4|0
+'s original scheme|POS JJ NN|BODY_5|0
+'s pessimistic heuristic|POS JJ PRP|BODY_6|0
+'s pessimistic scheme|POS JJ NN|BODY_4|0
+a subsequent paper|DT JJ NN|BODY_1|0
+any improvements|DT NNS|BODY_1|0
+our own work|PRP$ JJ NN|BODY_1|0
+the first graph coloring allocator|DT JJ NN NN NN|BODY_1|0
+their algorithm differs|PRP$ NN NNS|BODY_1|0
+'s live range splitting [16]|POS JJ NN NN NN|BODY_7|0
+[21]|NNP|BODY_9|0
+an iloc routine|DT NN NN|BODY_1|0
+any live range|DT JJ NN|BODY_1|0
+any particular architecture [3]|DT JJ NN NN|BODY_7|0
+chaitin proves|NN VBZ|BODY_5|0
+multiple nodes|JJ NNS|BODY_1|0
+no partners|DT NNS|BODY_5|0
+the item|DT NN|BODY_6|0
+the same local cost|DT JJ JJ NN|BODY_5|0
+this condition|DT NN|BODY_3|0
+a constrained live range|DT JJ JJ NN|BODY_1|0
+a less constrained graph|DT JJR JJ NN|BODY_2|0
+an integer load immediate instruction|DT NN NN JJ NN|BODY_5|0
+deeply nested loops|RB VBN NNS|BODY_4|0
+graph coloring techniques|NN NN NNS|BODY_1|0
+large spill costs|JJ NN NNS|BODY_2|0
+improved rematerialization|JJ NN|BODY_14|0
+only 370 cycles|RB CD NNS|BODY_8|0
+all the constraints|PDT DT NNS|BODY_6|0
+constructs|NNS|BODY_1|0
+all the other nodes|PDT DT JJ NNS|BODY_4|0
+l ffi k|JJ NN NN|BODY_4|0
+place l i|NN JJ NN|BODY_1|0
+possible coloring|JJ NN|BODY_8|0
+one such example|CD JJ NN|BODY_5|0
+both forms|DT NNS|BODY_1|0
+next , select reinserts nodes|JJ , JJ NNS NNS|BODY_1|0
+only moves l i|RB VBZ JJ NN|BODY_1|0
+that node|DT NN|BODY_1|0
+one exists|CD VBZ|BODY_1|0
+z / red|FW JJ JJ|BODY_3|0
+a result|DT NN|BODY_1|0
+regions|NNS|BODY_1|0
+conservative coalescing cannot|JJ NN NN|BODY_3|0
+negative spill cost|JJ VB NN|BODY_4|0
+other chaitin-style allocators|JJ NN NNS|BODY_1|0
+priority order|NN NN|BODY_4|0
+the original graph|DT JJ NN|BODY_7|0
+assigns|NNS|BODY_1|0
+x k|NNP NN|BODY_13|0
+high demand|JJ NN|BODY_1|0
+a decision tree perspective|DT NN NN NN|BODY_1|0
+a load-immediate  instruction|DT JJ NN NN|BODY_4|0
+a significant improvement [3]|DT JJ NN NN|BODY_4|0
+an optimistic allocator|DT JJ NN|BODY_3|0
+degradation|NN|BODY_2|0
+each step|DT NN|BODY_1|0
+each use point|DT NN NN|BODY_1|0
+no spilling|DT NN|BODY_1|0
+obviously flawed allocations|RB VBN NNS|BODY_7|0
+other implementors|JJ NNS|BODY_3|0
+renumber inserts|NN NNS|BODY_1|0
+seven phases|CD NNS|BODY_2|0
+some non-productive spills|DT JJ NNS|BODY_2|0
+that case|DT NN|BODY_1|0
+the desired register [8]|DT VBN NN NNS|BODY_5|0
+the entire process|DT JJ NN|BODY_5|0
+the first value|DT JJ NN|BODY_4|0
+the spills|DT NNS|BODY_5|0
+these variations|DT NNS|BODY_1|0
+this restriction|DT NN|BODY_1|0
+two competing allocators|CD VBG NNS|BODY_3|0
+very little compile time|RB JJ JJ NN|BODY_2|0
+all spill costs|DT NN NNS|BODY_1|0
+insufficient registers|JJ NNS|BODY_10|0
+low-level intermediate code or assembly code|JJ JJ NN CC NN NN|BODY_4|0
+more values|RBR NNS|BODY_5|0
+other cases|JJ NNS|BODY_1|0
+satisfactory allocations|JJ NNS|BODY_2|0
+simplify rematerialization|VB NN|BODY_1|0
+the former case|DT JJ NN|BODY_1|0
+the latter case|DT JJ NN|BODY_1|0
+the rest|DT NN|BODY_1|0
+this form|DT NN|BODY_1|0
+an executable program|DT JJ NN|BODY_5|0
+different tags|JJ NNS|BODY_8|0
+the following sections|DT JJ NNS|BODY_1|0
+the original virtual registers|DT JJ JJ NNS|BODY_4|0
+their work|PRP$ NN|BODY_1|0
+assignment|NN|BODY_6|0
+neighbor|NN|BODY_9|0
+all splitting|DT NN|BODY_6|0
+at least one extra pass|IN JJS CD JJ NN|BODY_1|0
+a careful implementation|DT JJ NN|BODY_1|0
+a few cases|DT JJ NNS|BODY_1|0
+a nearly perfect allocation|DT RB JJ NN|BODY_6|0
+a serious problem|DT JJ NN|BODY_3|0
+real programs|JJ NNS|BODY_1|0
+the metric|DT JJ|BODY_1|0
+less than two|JJR IN CD|BODY_7|0
+normal coalescing|JJ NN|BODY_1|0
+the resulting single live range|DT VBG JJ JJ NN|BODY_5|0
+the initial definition|DT JJ NN|BODY_4|0
+7. spill code|DT NN NN|BODY_1|0
+coalescing coalescing|NN NN|BODY_1|0
+each copy instruction|DT NN NN|BODY_1|0
+mark l i|NN JJ NN|BODY_1|0
+opt|NN|BODY_1|0
+orig|NN|BODY_1|0
+recall svd.|VBP VBG|BODY_1|0
+their meet operation u|PRP$ VBP NN NN|BODY_1|0
+these ad hoc techniques|DT NN NN NNS|BODY_1|0
+this idea|DT NN|BODY_1|0

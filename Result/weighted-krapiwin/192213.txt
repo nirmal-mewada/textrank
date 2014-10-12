@@ -1,0 +1,253 @@
+that|DT|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_9|1
+the surface|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8:BODY_9|2
+a collection|DT NN|BODY_11:ABSTRACT_2:BODY_2:BODY_10:BODY_4|0
+facets|NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4|0
+'s model|POS NN|ABSTRACT_2:BODY_2:ABSTRACT_3:BODY_3|1
+lambert|JJS|ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_1|1
+rough surfaces|JJ NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_4|0
+computer graphics|NN NNS|BODY_6:ABSTRACT_4:BODY_2:BODY_4|0
+interreflections|NNS|BODY_5:ABSTRACT_4:BODY_2:BODY_4|0
+the viewing direction|DT VBG NN|ABSTRACT_5:BODY_3|0
+the model|DT NN|ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_9|0
+body reflection|NN NN|BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+a lambertian surface|DT JJ NN|ABSTRACT_2:BODY_1|0
+it|PRP|BODY_6:BODY_1:ABSTRACT_1|0
+rough diffuse surfaces|JJ JJ NNS|BODY_5:ABSTRACT_3|0
+the body reflectance|DT NN NN|ABSTRACT_5:BODY_3|0
+a comprehensive model|DT JJ NN|ABSTRACT_2:BODY_3|0
+several real-world objects|JJ NN NNS|BODY_1:ABSTRACT_1|0
+strong agreement|JJ NN|ABSTRACT_2:BODY_4|0
+masking|NN|BODY_6:ABSTRACT_3:BODY_4|0
+the reflectance|DT NN|ABSTRACT_3:BODY_3|0
+a rough surface increases|DT JJ NN NNS|ABSTRACT_4|0
+a very inaccurate approximation|DT RB JJ NN|ABSTRACT_4|0
+radiosity and ray tracing|NN CC NN VBG|ABSTRACT_3|0
+the light source direction|DT NN NN NN|ABSTRACT_6|0
+such a surface|JJ DT NN|ABSTRACT_2|0
+the surface facets|DT NN NNS|ABSTRACT_4|0
+all these surface|PDT DT NN|ABSTRACT_1|0
+the model accounts|DT NN NNS|ABSTRACT_1|0
+the reflectance measurements|DT NN NNS|ABSTRACT_1|0
+we|PRP|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|4
+the facet|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the projected radiance|DT VBN NN|BODY_5:BODY_16:BODY_2:BODY_14:BODY_4|0
+a )|DT -RRB-|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|1
+the same direction|DT JJ NN|BODY_2:BODY_3:BODY_8|0
+torrance and sparrow [30]|NN CC NN NN|BODY_2:BODY_4|1
+the translational symmetry case|DT JJ NN NN|BODY_3|1
+all facets|DT NNS|BODY_13:BODY_2:BODY_4:BODY_7|0
+the vase|DT NN|BODY_2:BODY_1:BODY_7|0
+a very large number|DT RB JJ NN|BODY_2:BODY_8|0
+the masking and shadowing|DT NN CC NN|BODY_4|0
+magnification and reflectance (|NN CC NN -LRB-|BODY_3|0
+the global surface normal|DT JJ NN JJ|BODY_3|0
+the two-bounce interreflection component|DT JJ NN NN|BODY_2|0
+an incident light ray|DT NN NN NN|BODY_4|0
+the first few models|DT JJ JJ NNS|BODY_2|0
+a ) real image|DT -RRB- JJ NN|BODY_5|0
+torrance-sparrow ) lambertian facets|NN -RRB- JJ NNS|BODY_2|0
+spherical harmonic expansion (|JJ JJ NN -LRB-|BODY_7|0
+masking and shadowing ef|JJ CC VBG NN|BODY_6|0
+fairly complex reflectance functions|RB JJ NN NNS|BODY_3|0
+local body reflectance models|JJ NN NN NNS|BODY_3|0
+look-up tables or coefficients|NN NNS CC NNS|BODY_6|0
+d !r ( 2|JJ NN -LRB- CD|BODY_8|0
+several physically-based reflectance models|JJ JJ NN NNS|BODY_4|0
+a single planar facet|DT JJ NN NN|BODY_2|0
+the more general case|DT RBR JJ NN|BODY_3|0
+hanrahan and krueger [10]|JJ CC NN NNS|BODY_4|0
+the geometrical attenuation factor|DT JJ NN NN|BODY_5|0
+any significant specular component|DT JJ JJ NN|BODY_3|0
+q a x z|RB DT SYM FW|BODY_9|0
+oren-nayar ) figure 2|NN -RRB- NN CD|BODY_3|0
+a tilted lambertian facet|DT VBN JJ NN|BODY_6|0
+the same illumination direction|DT JJ NN NN|BODY_4|0
+the slope-area distribution p|DT NN NN NN|BODY_2|0
+very rough sur- faces|RB JJ NNS NNS|BODY_2|0
+a = ( 'a|DT SYM -LRB- ''|BODY_9|0
+( no shadowing )|-LRB- NN NN -RRB-|BODY_4|0
+z -'a=0 3.1 model|FW IN CD NN|BODY_9|0
+the first surface type|DT JJ NN NN|BODY_11|0
+a single sensor element|DT JJ NN NN|BODY_3|0
+the slope and orientation|DT NN CC NN|BODY_5|0
+an accurate reflectance model|DT JJ NN NN|BODY_4|0
+several well-known radiometric definitions|JJ JJ JJ NNS|BODY_3|0
+accurate analytical reflectance models|JJ JJ NN NNS|BODY_5|0
+the following model derivation|DT VBG NN NN|BODY_6|0
+a cylindrical clay vase|DT JJ NN NN|BODY_6|0
+any previous reflectance model|DT JJ NN NN|BODY_4|0
+projected radiance and flux|VBN NN CC NN|BODY_6|0
+nayar [23 , 24]|RB CD , CD|BODY_4|0
+poulin and fournier [26]|NN CC JJ NN|BODY_1|0
+[30] [2 ] [23]|JJ NN NN NN|BODY_3|0
+( b ) image|-LRB- NN -RRB- NN|BODY_1|0
+the lambertian reflectance model|DT JJ NN NN|BODY_3|0
+the same slope 'a|DT JJ NN ''|BODY_14|0
+both these geometrical phenomena|PDT DT JJ NNS|BODY_1|0
+a single sensor pixel|DT JJ NN NN|BODY_7|0
+a surface area da|DT NN NN NN|BODY_1|0
+the adjacent facet|DT JJ NN|BODY_11:BODY_8|1
+a rendered image|DT VBN NN|BODY_2|0
+the real vase|DT JJ NN|BODY_6:BODY_2:BODY_1|0
+the slope-area distribution|DT NN NN|BODY_1:BODY_2:BODY_4|0
+long symmetric v-cavities|JJ JJ NNS|BODY_11:BODY_7|1
+an in- stance|DT JJ NN|BODY_3|1
+a variety|DT NN|BODY_5:BODY_3:BODY_4|0
+the sensor direction|DT NN NN|BODY_5:BODY_7:BODY_8|0
+figure 3 )|NN CD -RRB-|BODY_10:BODY_8|1
+several experimental results|JJ JJ NNS|BODY_2|1
+the roughness model|DT NN NN|BODY_3|1
+the primary cause|DT JJ NN|BODY_2|1
+only important results|RB JJ NNS|BODY_3|1
+the considered facet|DT VBN NN|BODY_8|1
+the proposed model|DT VBN NN|BODY_5|1
+the gaf|DT NN|BODY_18:BODY_2|0
+the reflectance model|DT NN NN|BODY_5:BODY_15:BODY_1|0
+the non-lambertian behavior|DT JJ NN|BODY_1:BODY_3|0
+each facet|DT NN|BODY_6:BODY_2:BODY_3|0
+this deviation|DT NN|BODY_1:BODY_3|1
+a shading function|DT NN NN|BODY_2|0
+the accuracy|DT NN|BODY_3:BODY_4|1
+the area da|DT NN WRB|BODY_4:BODY_7|0
+the projected area|DT JJ NN|BODY_6:BODY_5|0
+the surface patch|DT NN NN|BODY_5:BODY_4|0
+buhl et al|NNP NNP NN|BODY_1:BODY_2|0
+the radiance|DT NN|BODY_5:BODY_13:BODY_1:BODY_3|0
+the same slope|DT JJ NN|BODY_3|0
+the solid angle|DT JJ NN|BODY_10|0
+the previous work|DT JJ NN|BODY_2|0
+wide directional lobes|JJ JJ NNS|BODY_4|0
+'s model [22]|POS NN NN|BODY_4|0
+( 8 )|-LRB- CD -RRB-|BODY_16|0
+anisotropic rough surfaces|JJ JJ NNS|BODY_3|0
+the interreflection equation|DT NN NN|BODY_3|0
+the dot product|DT NN NN|BODY_12|0
+an active area|DT JJ NN|BODY_2|0
+a reflectance model|DT NN NN|BODY_2:BODY_4|0
+a clay vase|DT NN NN|BODY_4|0
+the one-dimensional cross-section|DT JJ NN|BODY_4|0
+a random process|DT JJ NN|BODY_2|0
+which|WDT|BODY_5:BODY_4:BODY_10|0
+the roughness|DT NN|BODY_4|1
+this surface model|DT NN NN|BODY_1:BODY_3|0
+its width w|PRP$ JJ NN|BODY_3|0
+a|DT|BODY_2:BODY_3|0
+the number distribution|DT NN NN|BODY_5|0
+a one-dimensional shape|DT JJ NN|BODY_7|0
+the shape [28]|DT NN NN|BODY_5|0
+a wide range|DT JJ NN|BODY_2|0
+a single term|DT JJ NN|BODY_4|0
+any physical foundation|DT JJ NN|BODY_2|0
+two planar facets|CD JJ NNS|BODY_2|0
+x and y|NN CC NN|BODY_7|0
+the shortest distances|DT NN NNS|BODY_8|0
+a dominant role|DT JJ NN|BODY_7|0
+its reflectance properties|PRP$ NN NNS|BODY_6|0
+( 7 )|-LRB- CD -RRB-|BODY_15|0
+a reflectance function|DT NN NN|BODY_2|0
+any facet normal|DT NN JJ|BODY_2|0
+a vertical highlight|DT JJ NN|BODY_5|0
+a figure 3|DT NN CD|BODY_9|0
+the two facets|DT CD NNS|BODY_11|0
+the same shape|DT JJ NN|BODY_4|0
+such commonplace surfaces|JJ JJ NNS|BODY_4|0
+two well-known techniques|CD JJ NNS|BODY_3|0
+the following change|DT VBG NN|BODY_10|0
+ideal specular reflection|JJ JJ NN|BODY_2|0
+incidence and reflection|NN CC NN|BODY_2|0
+a or oe|DT CC NN|BODY_5|0
+therefore geometrical optics|RB JJ NNS|BODY_4|0
+figure 4( c|NN JJ NN|BODY_12|0
+incoherent directional component|JJ JJ NN|BODY_3|0
+concrete , sand|JJ , NN|BODY_5|0
+the lambertian model|DT JJ NN|BODY_2|0
+the macroscopic roughness|DT JJ NN|BODY_2|0
+only two-bounce interreflections|RB JJ NNS|BODY_2|0
+the occluding boundaries|DT NN NNS|BODY_6|0
+complex geometrical effects|JJ JJ NNS|BODY_3|0
+body reflection components|NN NN NNS|BODY_2|0
+normal facet distributions|JJ NN NNS|BODY_6|0
+two opposing facets|CD VBG NNS|BODY_2|0
+uni-directional single-slope distribution|JJ NN NN|BODY_10|0
+a real image|DT JJ NN|BODY_3|0
+a great extent|DT JJ NN|BODY_3|0
+( da cos|-LRB- NN NNS|BODY_6|0
+the polar angle|DT JJ NN|BODY_12|0
+( 4 )|-LRB- CD -RRB-|BODY_17|0
+the cylindrical vase|DT JJ NN|BODY_4|0
+a large number|DT JJ NN|BODY_3|0
+lrp ( 'a|JJ -LRB- ''|BODY_4|0
+the v-cavity model|DT NN NN|BODY_7|0
+uniform but increases|JJ CC NNS|BODY_5|0
+p ( 'a|NN -LRB- FW|BODY_3|0
+a probability distribution|DT NN NN|BODY_2|0
+each facet area|DT NN NN|BODY_2|0
+the surface area|DT NN NN|BODY_4|0
+unit surface area|NN NN NN|BODY_6|0
+a lambertian facet|DT JJ NN|BODY_15:BODY_1|0
+a complete model|DT JJ NN|BODY_4|0
+the above expression|DT JJ NN|BODY_4|0
+surface roughness model|NN NN NN|BODY_1|0
+a single facet|DT JJ NN|BODY_3|0
+the derived model|DT VBN NN|BODY_1|0
+these two facets|DT CD NNS|BODY_5|0
+[16] [33] )|CD NNS -RRB-|BODY_10|0
+the sensor optics|DT NN NNS|BODY_11|0
+the length l|DT NN NN|BODY_1|0
+a multi-layered surface|DT JJ NN|BODY_7|0
+each interreflection bounce|DT NN NN|BODY_5|0
+the above integral|DT JJ NN|BODY_17|0
+the above gaf|DT JJ NN|BODY_1|0
+the entire surface|DT JJ NN|BODY_4|0
+reflection and incidence|NN CC NN|BODY_9|0
+the graphics community|DT NNS NN|BODY_4|0
+the body component|DT NN NN|BODY_2|0
+rough sur- faces|JJ NNS NNS|BODY_5|0
+a different cause|DT JJ NN|BODY_1|0
+the rough surface|DT JJ NN|BODY_1|0
+the fundamental result|DT JJ NN|BODY_1|0
+a ccd camera|DT JJ NN|BODY_5|0
+all viewing directions|DT NN NNS|BODY_7|0
+the above assumptions|DT JJ NNS|BODY_1|0
+3 reflectance model|CD NN NN|BODY_1|0
+figure 4 )|NN CD -RRB-|BODY_5|0
+realistic image rendering|JJ NN NN|BODY_5|0
+all direc- tions|DT NNS NNS|BODY_2|0
+the facet-number distribution|DT NN NN|BODY_1|0
+the lambertian assumption|DT JJ NN|BODY_1|0
+the standard deviation|DT JJ NN|BODY_1|0
+this radiance contribution|DT NN NN|BODY_1|0
+the facet area|DT NN NN|BODY_1|0
+( 5 )|-LRB- CD -RRB-|BODY_19|0
+figure 1( b|NN JJ NN|BODY_1|0
+a ) non|DT -RRB- FW|BODY_4|0
+the azimuth angle|DT JJ NN|BODY_3|0
+the final result|DT JJ NN|BODY_1|0
+the source direction|DT NN NN|BODY_7|0
+the past decade|DT JJ NN|BODY_1|0
+the source-viewer plane|DT NN NN|BODY_3|0
+the surface plane|DT NN NN|BODY_9|0
+a given normal|DT VBN JJ|BODY_7|0
+a single pixel|DT JJ NN|BODY_6|0
+equal area da|JJ NN NN|BODY_3|0
+torrance and sparrow|NN CC NN|BODY_1|0
+parallel cylindrical sections|JJ JJ NNS|BODY_5|0
+the reflecting surface|DT VBG NN|BODY_1|0
+geometric attenuation factor|JJ NN NN|BODY_1|0
+the total radiance|DT JJ NN|BODY_1|0
+the following discussion|DT VBG NN|BODY_1|0
+an accurate model|DT JJ NN|BODY_1|0
+zero and unity|CD CC NN|BODY_8|0
+oe|NN|BODY_5:BODY_1:BODY_4:BODY_10:BODY_9|0
+the width|DT NN|BODY_2:BODY_1:BODY_7|0
+a surface|DT NN|BODY_5:BODY_2|0
+the one|DT CD|BODY_5:BODY_3|0
+the viewer|DT NN|BODY_6:BODY_5|0
+the angle|DT NN|BODY_5:BODY_4|0
+anisotropic surfaces|JJ NNS|BODY_3|0
+reflectance|NN|BODY_5:BODY_2:BODY_4|0
+radiance|NN|BODY_2:BODY_3:BODY_4|0
+the integral|DT NN|BODY_2|0
+the need|DT NN|BODY_4|0
+the effects|DT NNS|BODY_2|0
+the relationship|DT NN|BODY_2|0

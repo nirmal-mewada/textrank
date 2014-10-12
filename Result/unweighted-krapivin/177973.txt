@@ -1,0 +1,1239 @@
+we|PRP|BODY_6:BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_29:BODY_8|5
+indirect function|JJ NN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+it|PRP|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+that|WDT|BODY_6:BODY_5:BODY_11:ABSTRACT_4:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+c++ programs|JJ NNS|BODY_12:BODY_5:ABSTRACT_5:TITLE_2:ABSTRACT_8:BODY_2:BODY_3:BODY_4:BODY_7|1
+the number|DT NN|BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+this|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4|0
+instructions|NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_13:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+c++|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+breaks|NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+programs|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10|0
+an indirect function call|DT JJ NN NN|BODY_13:ABSTRACT_2:BODY_2:BODY_3:BODY_4|0
+information|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+they|PRP|BODY_6:BODY_3:BODY_4:BODY_9|0
+i-calls|NNS|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+control|NN|BODY_6:BODY_5:BODY_4:BODY_10:ABSTRACT_7:BODY_8|0
+example|NN|BODY_1:BODY_3|0
+indirect function calls|JJ NN NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the cost|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+each program|DT NN|BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+i-call prediction|JJ NN|BODY_6:BODY_31:BODY_2:BODY_4:BODY_7|0
+methods|NNS|BODY_6:BODY_11:BODY_5:BODY_3:BODY_4|0
+prediction|NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+conditional branches|JJ NNS|BODY_6:BODY_2:BODY_3|0
+this information|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+a call site|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+which|WDT|BODY_5:ABSTRACT_3:BODY_3:BODY_4|0
+the program|DT NN|BODY_11:BODY_3:BODY_4:BODY_8|0
+one|CD|BODY_2:BODY_4|0
+conversion|NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_8|1
+languages|NNS|BODY_6:BODY_1:BODY_4|0
+static prediction|JJ NN|BODY_11:BODY_1:BODY_3:BODY_7:BODY_9|0
+q|NN|BODY_5:BODY_2|0
+each call site|DT NN NN|BODY_6:BODY_3:BODY_4:BODY_8|0
+branches|NNS|BODY_13:BODY_2:ABSTRACT_3:BODY_14:BODY_4|0
+what|WP|BODY_5:BODY_3|1
+self|NN|BODY_1:BODY_3:BODY_7|0
+function calls|NN NNS|BODY_6:BODY_3:BODY_7|0
+the performance|DT NN|BODY_6:BODY_5:BODY_4:BODY_7|0
+our results|PRP$ NNS|BODY_2:BODY_1:BODY_7:BODY_8|0
+the interviews|DT NNS|BODY_2:BODY_3|0
+performance|NN|BODY_5:ABSTRACT_4:BODY_4:ABSTRACT_7|0
+this paper|DT NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_7|1
+the programs|DT NNS|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_4:BODY_9|0
+groff|NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+the prediction information|DT NN NN|BODY_2:BODY_3:BODY_4|0
+the address|DT NN|BODY_6:BODY_5:BODY_1:BODY_4|0
+part|NN|BODY_2|0
+)|-RRB-|BODY_6:BODY_11:BODY_5:BODY_4:BODY_7|0
+c|NN|BODY_2:BODY_3:BODY_9|0
+the instruction stream|DT NN NN|BODY_5:BODY_3|0
+a conditional branch|DT JJ NN|BODY_2:BODY_7|0
+the techniques|DT NNS|BODY_6:BODY_5:BODY_4|1
+( p|-LRB- NN|BODY_2:BODY_3:BODY_4|0
+compilers|NNS|ABSTRACT_5:BODY_2:BODY_1|0
+the advantage|DT NN|BODY_2:BODY_1:BODY_3|0
+the btar|DT NN|BODY_6:BODY_2:BODY_3|0
+'s|POS|BODY_6:BODY_5:BODY_3|0
+a number|DT NN|BODY_2:BODY_8|0
+the benefit|DT NN|BODY_6:BODY_4:BODY_10|0
+this transformation|DT NN|BODY_5:BODY_1:BODY_9|0
+input|NN|BODY_1:BODY_4|0
+the percentage|DT NN|BODY_5:BODY_2:BODY_8|0
+btar|NN|BODY_3:BODY_4|0
+a program|DT NN|BODY_6:BODY_12:BODY_7|0
+architectures|NNS|BODY_5:BODY_2:BODY_1|0
+the delay|DT NN|BODY_2:BODY_4:BODY_7|0
+research|NN|BODY_2|0
+these languages|DT NNS|BODY_3:ABSTRACT_1:BODY_9|0
+a variety|DT NN|BODY_6:BODY_3|0
+the set|DT NN|BODY_3:BODY_4|0
+call targets|NN NNS|BODY_5:BODY_4:BODY_9|0
+speculative execution|JJ NN|BODY_2:BODY_3|0
+execution|NN|BODY_3|0
+that type|DT NN|BODY_5:BODY_7|0
+a method|DT NN|BODY_2:BODY_4|0
+other optimizations|JJ NNS|BODY_6:BODY_2|0
+an i-call site|DT JJ NN|BODY_7:BODY_8|0
+sites|NNS|BODY_6:BODY_5|0
+number|NN|BODY_6:BODY_3|0
+some|DT|BODY_2:BODY_3|0
+the|DT|BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+an|DT|BODY_5:BODY_3|0
+the object pointer|DT NN NN|BODY_3:BODY_7|0
+c dmc|NN NN|BODY_3|0
+hardware|NN|BODY_2:BODY_4|0
+percentage|NN|BODY_6:BODY_4|0
+stalls|NNS|BODY_6:BODY_20|0
+accurate|JJ|BODY_9|0
+object-oriented programs|JJ NNS|BODY_2:BODY_3|0
+indirect calls|JJ NNS|BODY_3:BODY_7|0
+the compiler|DT NN|BODY_5|0
+the effect|DT NN|BODY_4|0
+the object-oriented programming style|DT VBD NN NN|BODY_4|0
+a direct method call|DT JJ NN NN|BODY_2:BODY_4|0
+control flow prediction|NN NN NN|BODY_6:ABSTRACT_5:BODY_1|0
+compile-time|NN|BODY_8:BODY_9|0
+a collection|DT NN|ABSTRACT_4:BODY_2|0
+the indirect call|DT JJ NN|BODY_6:BODY_10|0
+the function|DT NN|BODY_4:BODY_7|0
+little work|JJ NN|BODY_2:BODY_3|0
+the results|DT NNS|BODY_2:BODY_1|1
+the like|DT JJ|BODY_8:BODY_9|0
+the destination|DT NN|BODY_2:BODY_3|0
+he|PRP|BODY_1:BODY_8|0
+the percent|DT NN|BODY_2:BODY_3|0
+the processor|DT NN|BODY_2:BODY_8|0
+the call target|DT NN NN|BODY_6:BODY_7|0
+the parameters|DT NNS|BODY_6:BODY_2|0
+many|JJ|BODY_1:BODY_3|0
+c and c++ programs|NN CC NN NNS|BODY_3:BODY_4|0
+p|NN|BODY_5:BODY_3|0
+more instructions|JJR NNS|BODY_5:BODY_18|0
+cycle|NN|BODY_6:BODY_8|0
+ demonstration|JJR NN|BODY_2|0
+( worst case|-LRB- JJS NN|BODY_3:BODY_10|0
+comparison|NN|BODY_1|0
+the graph|DT NN|BODY_1:BODY_4|0
+modern architectures|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_8|0
+2|CD|BODY_3:BODY_4|0
+12]|CD|BODY_3|0
+27|CD|BODY_3|0
+95 %\gamma97 % prediction accuracy [21|CD CD NN NN NN NNS|BODY_2|0
+burke[4|NNS|BODY_2|0
+computer programmers|NN NNS|ABSTRACT_2|0
+function inlining|NN NN|BODY_3|0
+hall[13]|NN|BODY_3|0
+object-oriented languages|JJ NNS|ABSTRACT_3|0
+others [26|NNS NNS|BODY_2|0
+our code transformations|PRP$ NN NNS|BODY_2|0
+qpt|NN|BODY_2:BODY_3|0
+static profile|JJ NN|BODY_2:BODY_8|0
+32 to 512 entries|CD TO CD NNS|BODY_2|0
+a version|DT NN|BODY_2|0
+considerable performance improvement|JJ NN NN|BODY_2|0
+decoded instructions|JJ NNS|BODY_2|0
+hall [13]|NN NN|BODY_2|0
+link-time code generation|JJ NN NN|BODY_2|0
+profile-based methods|JJ NNS|BODY_2|0
+the design|DT NN|BODY_2|0
+the interface definition language system|DT NN NN NN NN|BODY_2|0
+the mispredicted target|DT JJ NN|BODY_2|0
+the next instruction|DT JJ NN|BODY_2|0
+the similar issue|DT JJ NN|BODY_2|0
+( btars|-LRB- NNS|BODY_3|0
+a tree|DT NN|BODY_3|0
+additional hints|JJ NNS|BODY_3|0
+an index|DT NN|BODY_3|0
+an interactive ray tracing environment|DT JJ NN VBG NN|BODY_3|0
+inheritance|NN|BODY_3|0
+many methods|JJ NNS|BODY_3|0
+super-scalar processors|NN NNS|BODY_3|0
+functions|NNS|BODY_4|0
+profile-based prediction|JJ NN|BODY_2:BODY_10|0
+the behavior|DT NN|BODY_2|0
+a lower|DT JJR|BODY_4|0
+branch targets|NN NNS|BODY_5:BODY_7|0
+the improvement|DT NN|ABSTRACT_2:BODY_1|0
+a small number|DT JJ NN|BODY_2:BODY_3|0
+the architecture|DT NN|BODY_6:BODY_2:BODY_1|0
+mechanisms|NNS|ABSTRACT_2:ABSTRACT_1|0
+the i-call|DT NN|BODY_11:BODY_4|0
+this work|DT NN|BODY_1:BODY_2|0
+indirect method|JJ NN|BODY_5:BODY_4|0
+a high likelyhood|DT JJ NN|BODY_2:BODY_4|0
+btb|NN|BODY_5:BODY_2|0
+a decstation|DT NN|BODY_5:BODY_3|0
+a linker|DT NN|BODY_1:BODY_2|0
+prediction information|NN NN|BODY_5:BODY_1|0
+0:5|CD|BODY_1:BODY_2:BODY_7|0
+the most likely target|DT RBS JJ NN|BODY_12:BODY_6:BODY_3|0
+the overhead|DT NN|BODY_3|0
+the c++ type system|DT NN NN NN|BODY_4:BODY_7|0
+static i-call prediction|JJ NN NN|BODY_5:BODY_10|0
+branch prediction mechanisms|NN NN NNS|ABSTRACT_6:BODY_3|0
+practice|NN|BODY_7|0
+a single procedure|DT JJ NN|BODY_2|0
+a table|DT NN|BODY_4|0
+a tcl/tk user interface|DT JJ NN NN|BODY_4|0
+accuracy|NN|BODY_2|0
+explicit branch target registers|JJ NN NN NNS|BODY_2|0
+inline|NN|BODY_4|0
+instruction caches|NN NNS|BODY_4|0
+profile-based static prediction|JJ JJ NN|BODY_2|0
+several flags|JJ NNS|BODY_4|0
+several instructions|JJ NNS|BODY_4|0
+shell|NN|BODY_2|0
+ters|NNS|BODY_2|0
+the branch site address|DT NN NN NN|BODY_2|0
+the branch target [11|DT NN NN NN|BODY_4|0
+the object model|DT NN NN|BODY_4|0
+the other hand|DT JJ NN|BODY_2|0
+method dispatches|NN NNS|BODY_7|0
+the self project [8|DT NN NN NNS|BODY_3|0
+two instructions|CD NNS|BODY_3|0
+conversion |NN|BODY_3|0
+early branch resolution|RB NN NN|BODY_11|0
+cobol|NN|BODY_7|0
+these|DT|BODY_6:BODY_2|0
+table 3|NN CD|BODY_1:BODY_3|0
+inlining|NN|BODY_5|0
+1-bit  )|JJ NN -RRB-|BODY_2|0
+branch bypassing and prepare-to|NN NN CC NN|BODY_12|0
+extensive optimization|JJ NN|BODY_8|0
+the same|DT JJ|BODY_4|0
+the use|DT NN|BODY_8|0
+the work|DT NN|BODY_2|0
+using tables|VBG NNS|BODY_3|0
+the intel pentium|DT NN NN|BODY_2|0
+both|DT|BODY_1:BODY_4|0
+execution program|NN NN|BODY_7|1
+fortran languages|JJ NNS|BODY_7|0
+procedure calls|NN NNS|BODY_3:BODY_7|0
+branch site address|NN NN NN|BODY_3|0
+unique name single target static|JJ NN JJ NN JJ|BODY_2|0
+the previous i-call target|DT JJ NN NN|BODY_3|0
+dec c++|NN JJ|BODY_3|0
+'if conver-|JJ NNS|BODY_4|0
+the reviewers|DT NNS|BODY_4|0
+those calls|DT VBZ|BODY_8|0
+the extra instructions|DT JJ NNS|BODY_5|0
+the penalty|DT NN|BODY_2:BODY_1|0
+the tag|DT NN|BODY_2|0
+oregon 1994|NNP CD|BODY_6|0
+our research|PRP$ NN|BODY_3:BODY_4|0
+program nibb %bp nibb|NN JJ NN JJ|BODY_3|0
+dynamic prediction|JJ NN|BODY_2|0
+the pointer addresses|DT NN NNS|BODY_6|0
+single target static inf 1-bit btb|JJ NN JJ NN JJ NN|BODY_2|0
+trace occurences|NN NNS|BODY_6|1
+the effectiveness|DT NN|BODY_2|0
+2-bit btb congress|JJ NN NN|BODY_3|0
+al [12]|DT NNP|BODY_2|0
+indirect branch or fall-through ) and record|JJ NN CC NN -RRB- CC NN|BODY_6|0
+table 4|NN CD|BODY_1:BODY_4|0
+the pic stub tables|DT NN NN NNS|BODY_2|0
+less compiler effort|RBR JJ NN|BODY_2|0
+a modular , extensible fashion|DT JJ , JJ NN|BODY_4|0
+the characteristics|DT NNS|BODY_2|0
+( instructions|-LRB- NNS|BODY_2|0
+a function call|DT NN NN|BODY_7|0
+14]|CD|BODY_5|0
+respectable|JJ|BODY_10|0
+the accuracy|DT NN|BODY_3|0
+most risc architectures|RBS JJ NNS|BODY_5|0
+gnu g++|NN NN|BODY_2|0
+a value|DT NN|BODY_6:BODY_1|0
+reasonable performance|JJ NN|BODY_3|0
+software resources|NN NNS|BODY_5|0
+this code sequence|DT NN NN|BODY_4|0
+tions|NNS|BODY_4|0
+comments|NNS|BODY_5|0
+sion' )|NN -RRB-|BODY_5|0
+the program ex|DT NN FW|BODY_9|0
+' based|POS VBN|BODY_10|0
+three times|CD NNS|BODY_7|0
+software|NN|BODY_5|0
+prac|FW|BODY_7|0
+memory|NN|BODY_4:BODY_7|0
+the optimization|DT NN|BODY_1:BODY_4|0
+some newly announced architectures|DT RB VBN NNS|BODY_5|0
+prediction hardware|NN NN|BODY_4|0
+an i-call|DT NN|BODY_12:BODY_4|0
+little benifit|JJ NN|BODY_2|0
+the dynamic method lookups|DT JJ NN NNS|BODY_4|0
+the worst case|DT JJS NN|BODY_13:BODY_1|0
+delayed branches|VBN NNS|BODY_9|0
+if-conversion |NN|BODY_3|0
+most programs|JJS NNS|BODY_6:BODY_1|0
+the remaining breaks|DT VBG NNS|BODY_5|0
+a procedure|DT NN|BODY_4|0
+an indirect method call|DT JJ NN NN|BODY_2|0
+comparing prediction techniques|VBG NN NNS|BODY_6|0
+9|CD|BODY_4|0
+customization|NN|BODY_6|0
+ryder [22]|NN NN|BODY_6|0
+our|PRP$|BODY_2|0
+method calls|NN NNS|BODY_4|0
+this study|DT NN|BODY_1:BODY_2|1
+two classes|CD NNS|BODY_2|0
+both targets|DT NNS|BODY_10|0
+the prediction|DT NN|BODY_4|0
+the increased use|DT VBN NN|BODY_6|0
+limits|NNS|BODY_6|0
+all program groff-1 groff-2 groff-3|DT NN NN NN NN|BODY_2|0
+a single call target|DT JJ NN NN|BODY_7|0
+a constant|DT JJ|BODY_9|0
+branch prediction|NN NN|BODY_1:BODY_2|0
+clock|NN|BODY_4|0
+run-time|NN|BODY_3|0
+the most frequently called function|DT RBS RB VBN NN|BODY_4|0
+algol|NN|BODY_5|0
+cuse\gammaif ( p;q|VBN -LRB- NN|BODY_11|0
+for best case|IN JJS NN|BODY_12|0
+another input|DT NN|BODY_4|0
+specific call targets|JJ NN NNS|BODY_5|0
+up to eight instructions|IN TO CD NNS|BODY_7|0
+some architectures|DT NNS|BODY_1|0
+a labour-intensive undertaking|DT JJ NN|BODY_2|0
+empirical computer science|JJ NN NN|BODY_1|0
+explicit call targets|JJ NN NNS|BODY_2|0
+function call a: :foo( )|NN NN NN NN -RRB-|BODY_2|0
+indirect jump hardware predicition|JJ NN NN NN|BODY_2|0
+most function calls|RBS NN VBZ|BODY_1:BODY_3|0
+most proposed implementations|JJS VBN NNS|BODY_1|0
+once this code transformation|RB DT NN NN|BODY_1|0
+only 4-8 btars[1]|RB CD NN|BODY_2|0
+our method|PRP$ NN|BODY_1|0
+the boundaries|DT NNS|BODY_10|0
+the lower line|DT JJR NN|BODY_9|0
+no prediction|DT NN|BODY_6:BODY_5|0
+cpredict|NN|BODY_8|0
+the 1-bit method|DT JJ NN|BODY_6|0
+'if conversion|JJ NN|BODY_9|0
+programmers|NNS|BODY_3|0
+pande and ryder[22]|NN CC NN|BODY_2|0
+possible call targets|JJ NN NNS|BODY_5|0
+portland|NN|BODY_5|0
+those sites|DT NNS|BODY_5|1
+existing branch prediction hardware|VBG NN NN NN|BODY_1:BODY_3|0
+object-oriented programming|JJ NN|BODY_1:ABSTRACT_9|0
+indirection function calls|NN NN NNS|BODY_3|0
+est|NN|BODY_9|0
+call sites|NN NNS|BODY_5:BODY_3|0
+a 2-bit strategy|DT JJ NN|BODY_2|0
+record|NN|BODY_6|0
+btb ) [17 , 23 ]|NN -RRB- CD , CD NN|BODY_2|0
+a load|DT NN|BODY_8|0
+ information|VBN NN|BODY_5|0
+the jump target|DT NN NN|BODY_5|0
+beginning|NN|BODY_3|0
+dataflow analysis|NN NN|BODY_3|0
+dec alpha axp|NN NN NN|BODY_23|0
+branch target buffers|NN NN NNS|BODY_8|0
+other designs|JJ NNS|BODY_1|0
+object polymorphism|NN NN|ABSTRACT_3:BODY_4|0
+the horizontal line )|DT JJ NN -RRB-|BODY_7|0
+the decrease|DT NN|BODY_2|0
+a unique function name|DT JJ NN NN|BODY_5|0
+other code transforma|JJ NN NN|BODY_3|0
+the application|DT NN|BODY_3|0
+figure 1|NN CD|BODY_1:BODY_3|0
+a polymorphic inline cache|DT JJ NN NN|BODY_6|0
+21064 . performance|CD . NN|BODY_24|0
+nibb %bp nibb %bp|JJ NN JJ NN|BODY_4|0
+importance|NN|ABSTRACT_7|0
+the prepare|DT VBP|BODY_4|0
+cnopredict|NN|BODY_6|0
+a sample idl specification|DT NN NN NN|BODY_2|0
+diction|NN|BODY_7|0
+2-bit branch prediction|JJ NN NN|BODY_11|0
+that simple techniques|DT NN NNS|BODY_26|0
+the first considers|DT JJ VBZ|BODY_5|1
+the best case|DT JJS NN|BODY_5:BODY_2|0
+a data-dependent type check|DT NN NN NN|BODY_2|0
+congress|NN|BODY_4|0
+a small cache|DT JJ NN|BODY_3|0
+future i-calls|JJ NNS|BODY_5|0
+the second bar|DT JJ NN|BODY_2:BODY_1|0
+avoids|NNS|BODY_3|0
+efficient implementation|JJ NN|BODY_4|0
+an architecture|DT NN|BODY_5:BODY_1:BODY_7:BODY_9|0
+conditional branches and i-calls|JJ NNS CC NNS|BODY_2|0
+compiler-oriented optimizations|JJ NNS|BODY_3|0
+existing c++ programs|VBG JJ NNS|BODY_7|1
+profile-based static prediction methods|JJ JJ NN NNS|BODY_4:BODY_8|0
+the second|DT JJ|BODY_8|1
+the ibm rios-ii issue|DT NN NN VB|BODY_6|0
+( 3|-LRB- CD|BODY_25|0
+the target|DT NN|BODY_8|0
+(typeof(object )|NN -RRB-|BODY_6|0
+hardware branch prediction mechanisms|NN NN NN NNS|BODY_6|1
+the growth|DT NN|ABSTRACT_8|0
+the method caching|DT NN NN|BODY_6|0
+challenges|NNS|ABSTRACT_4|0
+dec c++ name description congress interpreter|JJ JJ NN NN NN NN|BODY_6|0
+our experimentation|PRP$ NN|BODY_6|0
+the remaining 1\gamma( p +q|DT VBG JJ NN NN|BODY_4|0
+the nibb|DT NN|BODY_6|0
+eliminates delays|NNS NNS|BODY_2|0
+manual pages|JJ NNS|BODY_3|0
+a unique call target|DT JJ NN NN|BODY_2|0
+loops|NNS|BODY_6|0
+the nibb and %bp|DT NN CC NN|BODY_5|0
+more information|JJR NN|BODY_3|0
+a modified version|DT VBN NN|BODY_5|0
+the start|DT NN|BODY_3|0
+some programs|DT NNS|ABSTRACT_6|0
+table-based designs|JJ NNS|BODY_2|0
+the previous prediction|DT JJ NN|BODY_5|0
+groff-2 82.5 86.4 85.6 86.4 groff-3 79.6 85.6 86.4 86.3 table 5|NN CD CD CD CD NN CD CD CD CD NN CD|BODY_3|0
+56.2 76.7 93.2 92.2 96.5 groff-3 6.6 31.2 86.4 79.0 95.3 idl y 99.9 99.9 99.9 99.9 idraw 34.9 83.5 94.6 95.6 98.0 morpher 70.3 92.0 96.7 96.6 97.7 rtsh 2.9 51.1 93.6 96.0 98.0 mean 31.6 66.3 91.2|CD CD CD CD CD NN CD CD CD CD CD JJ NN CD CD CD CD NN CD CD CD CD CD NN CD CD CD CD CD NN CD CD NNP CD CD JJ CD CD CD|BODY_4|0
+the column  sites|DT NN NN NNS|BODY_2|0
+our comparison|PRP$ NN|BODY_5|1
+compile time analysis or information|JJ NN NN CC NN|BODY_5|0
+the frequency|DT NN|BODY_5|0
+trace |NN|BODY_3|0
+a given prediction bit|DT VBN NN NN|BODY_7|0
+normalized execution time|JJ NN NN|BODY_17|0
+the btb|DT NN|BODY_4|0
+combinations|NNS|BODY_6|0
+our work|PRP$ NN|BODY_5|0
+control-flow|NN|BODY_16|0
+191 different subroutines|CD JJ NNS|BODY_3|0
+1gb|CD|BODY_3|0
+procedure values|NN NNS|BODY_4|0
+only conditional branches|JJ JJ NNS|BODY_4|0
+the increase|DT NN|BODY_2|0
+object-oriented libraries support object polymorphism|JJ NNS NN NN NN|BODY_7|0
+a deeply pipelined superscalar architecture|DT RB VBN JJ NN|BODY_7|0
+returns|NNS|BODY_1:BODY_3|0
+the prediction trace|DT NN NN|BODY_5|0
+these prediction rates|DT NN NNS|BODY_2|0
+calls|NNS|BODY_5|0
+the qpt tracing tool|DT NN VBG NN|BODY_2|0
+8.15 7.55 7.60 10.20 9.14 7.40 14.20 median 6.00 6.00 5.00 9.00 5.00 4.00 7.00 stddev 7.57 5.99 7.19 6.06 15.94 8.76 30.94 table 3|CD CD CD CD CD CD CD JJ CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD NN CD|BODY_2|0
+a run-time type check|DT NN NN NN|BODY_5|0
+the probability|DT NN|BODY_4|0
+ static |RB JJ|BODY_3|0
+7 instructions|CD NNS|BODY_4|0
+a high percentage|DT JJ NN|BODY_3|0
+mispredicted control flow|VBN NN NN|BODY_21|0
+a break|DT NN|BODY_6|0
+support|NN|BODY_9|0
+david wall|JJ NN|BODY_5|0
+considerable overlap|JJ NN|BODY_4|0
+a return stack [15]|DT NN NN NN|BODY_4|0
+different inputs|JJ NNS|BODY_3|0
+the branch misprediction characteristics|DT NN NN NNS|BODY_6|0
+the same program input|DT JJ NN NN|BODY_4|0
+mispredicting control flow|NN NN NN|BODY_8|0
+the branch target address|DT NN NN NN|BODY_2|0
+an instruction misfetch penalty|DT NN NN NN|BODY_3|0
+the costs|DT NNS|BODY_5|0
+a dynamicly-typed language|DT JJ NN|BODY_2|0
+a  stub  procedure|DT NN NN NN NN|BODY_3|0
+static prediction hints|JJ NN NNS|BODY_2|0
+execution |NN|BODY_2|0
+a rich|DT JJ|BODY_3|0
+expected instructions|VBN NNS|BODY_19|0
+effective|JJ|BODY_5|0
+the 'stub|DT NN|BODY_6|0
+the 2-bit technique|DT JJ NN|BODY_2|0
+67.7 88.0 69.7 88.3 70.9 88.5 76.2 89.3 doc 56.0 86.5 95.2 92.1 127.6 94.1 176.4 95.7 groff-3 74.0 89.7 75.8 90.0 83.2 90.9 106.7 92.9 idl 45.7 77.7 45.7 77.7 467.3 97.8 468.0 97.8 idraw 71.0 87.1 88.7 89.7 136.0 93.3 154.8 94.1 morpher 51.9 85.8 74.0 90.0 85.1 91.3 87.9 91.6 rtsh 71.6 80.2 72.6 80.4 95.0 85.1 130.5 89.1 table 7|CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD JJ CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN CD|BODY_5|0
+static and dynamic branch pre|JJ CC JJ NN NN|BODY_6|0
+lan- guages|NNS NNS|BODY_4|0
+1-bit techniques|JJ NNS|BODY_3|0
+computer architectures|NN NNS|BODY_3|0
+a surprisingly large number|DT RB JJ NN|BODY_2|0
+all combinations|DT NNS|BODY_4|0
+unpredicted|JJ|BODY_2|0
+the examples|DT NNS|BODY_3|0
+an inline cache access|DT NN NN NN|BODY_5|0
+[19|PRP|BODY_3|0
+the wide-spread popularity|DT JJ NN|BODY_3|0
+a computer|DT NN|BODY_22|0
+bursts|NNS|BODY_4|0
+conventional pro- grams|JJ NNS NNS|BODY_3|0
+a ) object -> a: :foo( )|DT -RRB- NN JJ NN NN -RRB-|BODY_7|0
+c imc|NN NN|BODY_3|0
+better register allocation|JJR NN NN|BODY_7|0
+numerous advantages|JJ NNS|BODY_2|0
+the appropriate method|DT JJ NN|BODY_6|0
+' q'|'' NNS|BODY_7|0
+a direct branch|DT JJ NN|BODY_5|0
+the more common misprediction rate|DT RBR JJ NN NN|BODY_2|0
+else object -> foo( )|JJ NN JJ NN -RRB-|BODY_8|0
+statically|RB|BODY_3|0
+these bit-table techniques|DT JJ NNS|BODY_2|0
+c++ suitable|JJ JJ|BODY_5|0
+4,050 1,200 6 6,613,548 425,072 7,807 52,131,648 table 2|CD CD CD CD CD CD CD NN CD|BODY_4|0
+most|JJS|BODY_4|1
+only calls|RB VBZ|BODY_4|0
+a simulator|DT NN|BODY_2|0
+a staticly-type object oriented language( c++ ) and h-olzle|DT JJ NN VBN NN NN -RRB- CC NN|BODY_4|0
+compile-time i-call prediction|NN NN NN|BODY_2|0
+compiler techniques|NN NNS|BODY_2|0
+our two methods|PRP$ CD NNS|BODY_2|0
+the field|DT NN|BODY_2|0
+the next most likely branch|DT JJ RBS JJ NN|BODY_3|0
+the unique name measure|DT JJ NN NN|BODY_4|0
+these runs|DT NNS|BODY_2|0
+these three executions|DT CD NNS|BODY_5|0
+a single conditional branch|DT JJ JJ NN|BODY_3|0
+myriad variations|JJ NNS|BODY_2|0
+secondary effects|JJ NNS|BODY_2|0
+the control flow|DT NN NN|BODY_2|0
+the converted indirect-function call|DT VBN NN NN|BODY_2|0
+a conditional procedure call|DT JJ NN NN|BODY_4|0
+branch site|NN NN|BODY_6|0
+an important factor|DT JJ NN|ABSTRACT_5|0
+idl idraw morpher rtsh break 9.02 8.36 8.42 9.04 9.86 11.17 9.12 call 14.45 14.62 14.57 11.27 18.92 15.16 14.30 table mean number|JJ NN NN JJ NN CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD NN JJ NN|BODY_2|0
+multiple destinations|JJ NNS|BODY_10|0
+a different linguistic|DT JJ NN|BODY_10|0
+h-olzle et al|JJ NNP NN|BODY_2|0
+execution time|NN NN|BODY_3|0
+the foremost priority|DT JJ NN|BODY_2|0
+c++ v3.0.2 )|JJ NN -RRB-|BODY_4|0
+96.3 table 4|CD NN CD|BODY_5|0
+a dataflow method|DT NN NN|BODY_8|0
+register displacement|NN NN|BODY_3|0
+10 instructions|CD NNS|BODY_7|0
+statically-typed languages|JJ NNS|BODY_5|0
+existing architectures|VBG NNS|BODY_2|0
+hueristics|NNS|BODY_3|0
+instruction-level parallelism|JJ NN|BODY_9|0
+many metrics|JJ NNS|BODY_2|0
+an indirect load|DT JJ NN|BODY_6|0
+the harmonic mean|DT JJ JJ|BODY_5|0
+p )|NN -RRB-|BODY_7|0
+various c++ programs|JJ JJ NNS|BODY_18|0
+544|CD|BODY_7|0
+compiler optimization techniques (unique name elimination|NN NN NNS JJ NN NN|BODY_3|0
+john feehrer|NN NN|BODY_3|0
+the previous example|DT JJ NN|BODY_4|0
+no other function|DT JJ NN|BODY_8|0
+speculative execution and prefetching|JJ NN CC NN|ABSTRACT_2|0
+most indirect function|JJS JJ NN|BODY_9|0
+future work|JJ NN|BODY_2|0
+processors|NNS|BODY_17|0
+different architectural features|JJ JJ NNS|BODY_10|0
+figure 2|NN CD|BODY_4|0
+our i-call predic|PRP$ JJ JJ|BODY_8|0
+these techniques|DT NNS|BODY_3|0
+table 1|NN CD|BODY_1:BODY_4|0
+accurately prediction 95 %\gamma97 %|RB NN CD CD NN|BODY_2|0
+profile-derived static prediction|JJ JJ NN|BODY_2|0
+these registers|DT NNS|BODY_2|0
+a branch site|DT NN NN|BODY_2|0
+|JJ|BODY_4|0
+all programs|DT NNS|BODY_5|0
+i-calls , unique & if conv figure 1|VBZ , JJ CC IN VBN NN LS|BODY_16|0
+the importance|DT NN|BODY_5|0
+a tag|DT NN|BODY_3|0
+date|NN|BODY_5|0
+a balanced-tree implementation|DT JJ NN|BODY_2|0
+additional profile|JJ NN|BODY_9|1
+either profile-derived information|DT JJ NN|BODY_3|0
+all method types|DT NN NNS|BODY_4|0
+the optimizations|DT NNS|BODY_4|0
+a unique or likely call target|DT JJ CC JJ NN NN|BODY_2|0
+cause unpredictable changes|NN JJ NNS|BODY_6|0
+direct calls|JJ VBZ|BODY_4|0
+other compiler optimizations|JJ NN NNS|BODY_2|0
+profile-driven static prediction|RB JJ NN|BODY_2|0
+profiles|NNS|BODY_2|0
+program libraries|NN NNS|BODY_11|0
+targets|NNS|BODY_2|0
+the transformed code|DT VBN NN|BODY_5|0
+popularity|NN|BODY_2|0
+a: :foo( )|JJ NN -RRB-|BODY_3|0
+the last target address|DT JJ NN NN|BODY_2|0
+1|CD|BODY_6:BODY_1|0
+additional improvements|JJ NNS|BODY_2|0
+ben zorn|NNP NN|BODY_2|0
+anda second time|DT JJ NN|BODY_4|0
+the indirect calls|DT JJ NNS|BODY_2|0
+these mechanisms 3 experimental design|DT NNS CD JJ NN|BODY_4|1
+capabilities|NNS|BODY_4|0
+achieved|VBN|BODY_6|0
+further optimized|JJ JJ|BODY_7|0
+a large number|DT JJ NN|BODY_5|0
+c miss|NN NN|BODY_4|0
+2 or 4-way associative|CD CC RB JJ|BODY_3|0
+branch overhead|NN NN|BODY_3|0
+computer architectures and languages|NN NNS CC NNS|BODY_3|0
+customization and other optimizations|NN CC JJ NNS|BODY_1|0
+functional programs|JJ NNS|BODY_3|0
+groff groff version 1.7|JJR JJR NN CD|BODY_1|0
+idl sample backend|JJ NN NN|BODY_1|0
+introduction|NN|BODY_1|0
+more sophisticated compilers|RBR JJ NNS|BODY_1|0
+numerous researchers|JJ NNS|BODY_1|0
+others|NNS|BODY_1|0
+poor performance|JJ NN|BODY_3|0
+significant optimization opportunities|JJ NN NNS|BODY_3|0
+some cases|DT NNS|BODY_1|0
+some designs|DT NNS|BODY_1|0
+the branch target|DT NN NN|BODY_3|0
+the cache|DT NN|BODY_1|0
+the ditroff  text formatter|DT NN VBN NN NN|BODY_3|0
+the instruction cache|DT NN NN|BODY_3|0
+the instruction fetch unit|DT NN VBP NN|BODY_1|0
+the object management group|DT NN NN NN|BODY_3|0
+the self implementation|DT NN NN|BODY_3|0
+the target destination|DT NN NN|BODY_3|0
+this increases|DT NNS|BODY_1|0
+unavoidable breaks|JJ NNS|BODY_4|0
+yield much better performance|NN RB JJR NN|BODY_9|0
+matching data|VBG NNS|BODY_5|0
+modern programming languages|JJ NN NNS|BODY_5|0
+two portions|CD NNS|BODY_4|1
+very accurate i-call prediction rates|RB JJ NN NN NNS|BODY_27|0
+the column|DT NN|BODY_2|0
+ customization  ( e .g.|NN NN NN -LRB- NN NN|BODY_3|0
+2-bit techniques|JJ NNS|BODY_8|0
+existing c++ class libraries|VBG NNS NN NNS|BODY_2|0
+a ?2brs|DT NNP|BODY_8|0
+basic block|JJ NN|BODY_4|0
+worse performance|JJR NN|BODY_2|0
+a branch|DT NN|BODY_9|0
+the possibility|DT NN|BODY_4|0
+a mod|DT JJ|BODY_8|0
+different indirect function call methods|JJ JJ NN NN NNS|BODY_15|0
+deep instruction pipelines|JJ NN NNS|BODY_2|0
+niques|NNS|BODY_5|0
+uncertain control flow changes|JJ NN NN NNS|BODY_5|0
+cycles percentage|NNS NN|BODY_4|0
+the acm principles and practice|DT NN NNS CC NN|BODY_3|0
+a basic-block transition|DT NN NN|BODY_4|0
+the absence|DT NN|BODY_6|0
+adequate coverage|JJ NN|BODY_7|0
+times breaks|NNS NNS|BODY_4|0
+designers|NNS|BODY_2|0
+that signature|DT NN|BODY_7|0
+opportunity|NN|BODY_2|0
+the most recent branch mapping|DT RBS JJ NN NN|BODY_6|0
+more procedure calls|JJR NN NNS|BODY_3|0
+that i-call prediction|DT NN NN|BODY_4|0
+the remaining breaks number|DT VBG NNS NN|BODY_3|0
+152,658,312 doc morpher|CD NN NN|BODY_3|0
+the need|DT NN|BODY_3|1
+prior runs|RB NNS|BODY_10|0
+customize call-sites|NN NNS|BODY_8|0
+detailed statistics|VBN NNS|BODY_5|0
+( 4|-LRB- CD|BODY_28|0
+present|JJ|BODY_3|1
+different aspects|JJ NNS|BODY_2|0
+appropriate|JJ|BODY_6|0
+estimate future control flow decisions|NN NN NN NN NNS|ABSTRACT_3|0
+the differences|DT NNS|BODY_4|0
+a: :x( ) , b: :x( ) , a: :x( )|JJ NN -RRB- , NN NN -RRB- , JJ NN -RRB-|BODY_5|0
+polymorphism|NN|BODY_6|0
+the existing profile information|DT VBG NN NN|BODY_5|0
+the branches and i-calls|DT NNS CC NNS|BODY_6|0
+opportunities|NNS|BODY_5|0
+an existing program executable|DT VBG NN NN|BODY_3|0
+optimizations|NNS|BODY_10|1
+occurrences|NNS|BODY_3|0
+most branches|RBS NNS|BODY_3|0
+becauseaccurate type inference|JJ NN NN|BODY_5|0
+that call site|DT NN NN|BODY_9|0
+track|NN|BODY_4|0
+self and smalltalk|NN CC NN|BODY_5|0
+the direction|DT NN|BODY_5|0
+an instruction cost model|DT NN NN NN|BODY_4|0
+sufficient execution paths|JJ NN NNS|BODY_7|0
+the branch|DT NN|BODY_6:BODY_7|0
+the c++ language|DT JJ NN|BODY_6:BODY_7|0
+switch or case statements|NN CC NN NNS|BODY_11|0
+additional delay|JJ NN|BODY_14|0
+runs|NNS|BODY_5|0
+:foo( )|NN -RRB-|BODY_6|0
+most probable target|RBS JJ NN|BODY_6|0
+very little information|RB JJ NN|BODY_5|0
+much lower probabilities|JJ JJR NNS|BODY_4|0
+unpredictable break|JJ NN|BODY_5|0
+the flow|DT NN|BODY_9|0
+that issue|WDT NN|BODY_4|0
+call and branch targets|NN CC NN NNS|BODY_3|0
+static and dynamic prediction techniques|JJ CC JJ NN NNS|ABSTRACT_4|0
+1,817 309 4 18,352,179 342,266|CD CD CD CD CD|BODY_2|0
+3 instructions|CD NNS|BODY_5|0
+their performance|PRP$ NN|BODY_4|0
+a single function|DT JJ NN|BODY_6|0
+e.g.|FW|BODY_5|0
+the advent|DT NN|BODY_2|0
+a symbol table|DT NN NN|BODY_9|0
+instruction stalls|NN NNS|BODY_3|0
+the final improvement|DT JJ NN|BODY_8|0
+code scheduling|NN NN|BODY_8|0
+inter-run variations|JJ NNS|BODY_5|0
+his research|PRP$ NN|BODY_2|0
+accurate prediction|JJ NN|BODY_2|0
+deeper pipelines|JJR NNS|BODY_3|0
+indirect call prediction|JJ NN NN|ABSTRACT_4|0
+modula-3|NN|BODY_7|0
+-> foo( )|JJ NN -RRB-|BODY_3|0
+an inline cache|DT NN NN|BODY_2|0
+unique branches|JJ NNS|BODY_15|0
+delays|NNS|BODY_5|0
+static-typed object-oriented languages|JJ JJ NNS|BODY_5|0
+static profiling|JJ NN|BODY_2|0
+the self project|DT NN NN|BODY_5|0
+bit-table tech|JJ NN|BODY_4|0
+dynamic methods|JJ NNS|BODY_5|0
+the c++ programs|DT NN NNS|BODY_4|0
+the most effective technique|DT JJS JJ NN|BODY_7|0
+the opportunity|DT NN|BODY_2|0
+the single target measure|DT JJ NN NN|BODY_4|0
+the target prediction|DT NN NN|BODY_6|0
+the optimizations and code transforms|DT NNS CC NN NNS|BODY_2|0
+a larger study|DT JJR NN|BODY_3|0
+%|NN|BODY_6|0
+processor pipeline depths increase and superscalar instruction issue|NN NN NNS NN CC NN NN NN|BODY_2|0
+16]|CD|BODY_4|0
+unix system|NN NN|BODY_10|0
+the static profile static prediction|DT JJ NN JJ NN|BODY_9|0
+compiledlanguagesusing i-calls|VBG NNS|BODY_5|0
+the first widely-available deeply pipelined superscalar microprocessors|DT JJ JJ RB VBN NN NNS|BODY_5|0
+the profile|DT NN|BODY_5|0
+the robustness|DT NN|BODY_6|0
+those languages|DT NNS|BODY_6|0
+a given branch point|DT VBN NN NN|BODY_4|0
+multi-target branches|JJ NNS|BODY_5|0
+measurements|NNS|BODY_6|0
+the intended type signature|DT VBN NN NN|BODY_2|0
+two possible branch targets|CD JJ NN NNS|BODY_3|0
+prior input|JJ NN|BODY_6|0
+btars|NNS|BODY_1:BODY_4|0
+branch|NN|BODY_5|0
+single target i-call sites|JJ NN NN NNS|BODY_4|0
+seven instructions|CD NNS|BODY_4|0
+these misfetch penalties|DT NN NNS|BODY_3|1
+that domain|DT NN|BODY_3|0
+predictable control flow changes|JJ NN NN NNS|BODY_4|0
+standard architectural mechanisms|JJ JJ NNS|ABSTRACT_3|0
+the body|DT NN|BODY_3|0
+our prior measurements|PRP$ JJ NNS|BODY_4|0
+( 2 )|-LRB- CD -RRB-|BODY_6|0
+an extra instruction|DT JJ NN|BODY_2|0
+a dataflow optimization algorithm|DT NN NN NN|BODY_6|0
+all the branches|DT DT NNS|BODY_8|0
+idraw groff morpher rtsh1.0normalized number|JJ NN NN JJ NN|BODY_11|0
+a continued effort|DT JJ NN|BODY_3|0
+conversion changes slope|NN NNS NN|BODY_6|0
+compile-time optimizations|JJ NNS|ABSTRACT_3|0
+community|NN|BODY_3|0
+automatic inlining|JJ NN|BODY_2|0
+unconditional branches|JJ NNS|BODY_2|0
+instructions branches|NNS NNS|BODY_12|0
+a 2brs|DT NNP|BODY_6|0
+benchmark suites|JJ NNS|BODY_4|0
+' 1|`` CD|BODY_2|0
+' 2|`` CD|BODY_7|0
+a programs congress doc|DT NNS NN NN|BODY_10|0
+an indirect call|DT JJ NN|BODY_2|0
+no additional time|DT JJ NN|BODY_4|0
+compute|NN|BODY_6|0
+predictions|NNS|BODY_3|0
+16kb|CD|BODY_3|0
+extra instruction type bits|JJ NN NN NNS|BODY_4|1
+the reason|DT NN|BODY_2|0
+an np-hard problem|DT JJ NN|BODY_3|0
+a benefit|DT NN|BODY_4|0
+a simple instruction type prediction table|DT NN NN NN NN NN|BODY_5|1
+register spills|NN NNS|BODY_8|0
+58 %|CD NN|BODY_2|0
+these simple techniques|DT JJ NNS|BODY_7|0
+extent static , dynamic and compile|NN JJ , JJ CC JJ|BODY_6|1
+very few instructions|RB JJ NNS|BODY_2|0
+type-determination algorithms|NN NNS|BODY_3|0
+significant promise|JJ NN|BODY_3|0
+the solutions|DT NNS|BODY_2|0
+a type check|DT NN NN|BODY_3|0
+cost|NN|BODY_12|0
+existing compilers|VBG NNS|BODY_4|0
+directed methods|VBN NNS|BODY_7|1
+the resource|DT NN|BODY_7|0
+(i-calls|NNS|BODY_4|0
+the previous procedure call or return|DT JJ NN NN CC NN|BODY_4|0
+three classes|CD NNS|BODY_5|0
+a 50 % chance|DT CD NN NN|BODY_2|0
+( 1 )|-LRB- LS -RRB-|BODY_3|0
+the call-graph|DT NN|BODY_3|0
+the various problems|DT JJ NNS|BODY_5|0
+the instructions|DT NNS|BODY_4|0
+less than or|JJR IN CC|BODY_3|0
+instructions and breaks|NNS CC NNS|BODY_7|0
+link-time optimization|NN NN|BODY_4|0
+an 'if|DT JJ|BODY_3|0
+two limits|CD NNS|BODY_2|0
+the remaining 60 %|DT VBG CD NN|BODY_3|0
+our data|PRP$ NNS|BODY_3|0
+considerable work|JJ NN|BODY_3|0
+indirect jumps|JJ NNS|BODY_4|0
+our model|PRP$ NN|BODY_7|0
+branch target address registers|NN NN NN NNS|BODY_3|0
+10 % improvement|CD NN NN|BODY_4|0
+some recent design proposals|DT JJ NN NNS|BODY_2|0
+that compile-time optimizations|DT NN NNS|BODY_7|0
+indirect function call|JJ NN NN|TITLE_1:BODY_8|1
+p ,(1-p) )|NN NN -RRB-|BODY_4|0
+the most common function ( a|DT JJS JJ NN -LRB- DT|BODY_5|0
+pipeline stalls|NN NNS|BODY_3|0
+call prediction|NN NN|BODY_3|1
+c miss and c imc|NN NN CC NN NN|BODY_4|0
+static profile-driven prediction|JJ NN NN|BODY_8|0
+the destinations|DT NNS|BODY_3|0
+each type|DT NN|BODY_4|0
+21064 processor|CD NN|BODY_3|0
+note|NN|BODY_1|0
+so many second most likely targets|RB JJ JJ RBS JJ NNS|BODY_4|0
+both conditional branches|DT JJ NNS|BODY_2|0
+only breaks|RB NNS|BODY_2|0
+suffering|NN|BODY_6|0
+q )|NN -RRB-|BODY_5|0
+idl|NN|BODY_4|0
+static profile-based prediction mechanisms|JJ JJ NN NNS|BODY_2|0
+the btars|DT NNS|BODY_2|0
+2-24 %|CD NN|BODY_5|0
+instruction counts|NN NNS|BODY_6|0
+an if|DT IN|BODY_2|0
+a more in-depth comparisonbetween different static and dynamicmechanisms|DT JJR JJ NNS JJ JJ CC NNS|BODY_30|0
+breaks (|NNS -LRB-|BODY_4|0
+two ways|CD NNS|BODY_5|0
+only two possible targets|RB CD JJ NNS|BODY_3|0
+an average|DT NN|BODY_3|0
+the conditional branches|DT JJ NNS|BODY_6|0
+little trace compression|JJ NN NN|BODY_5|0
+the control-flow misprediction penalty|DT JJ NN NN|BODY_4|0
+highly pipelined , speculative execution architectures|RB VBN , JJ NN NNS|BODY_3|0
+our sample c++ programs|PRP$ NN NN NNS|BODY_3|0
+310;059 indirect function|CD JJ NN|BODY_3|0
+assumedbtars|NNS|BODY_5|0
+5|CD|BODY_2|0
+machine cycles|NN NNS|BODY_4|0
+our prediction architecture|PRP$ NN NN|BODY_2|0
+ffl|NN|BODY_5|0
+the following questions|DT VBG NNS|BODY_4|0
+half|NN|BODY_4|0
+a simple profile-based binary modification|DT JJ JJ JJ NN|BODY_2|0
+traces|NNS|BODY_2|0
+a higher number|DT JJR NN|BODY_4|0
+instruction cache misses|NN NN NNS|BODY_8|0
+5000|CD|BODY_4|0
+how accurate one|WRB JJ NN|BODY_6|0
+the static profile-based prediction mechanism|DT JJ JJ NN NN|BODY_2|0
+the remainder|DT NN|BODY_10|0
+the following cost models|DT JJ NN NNS|BODY_2|0
+the dec alpha axp|DT NN NN NN|BODY_2|0
+the main uncertainty|DT JJ NN|BODY_3|0
+. ffl|. NN|BODY_3|0
+cpredict ( p )|JJ -LRB- NN -RRB-|BODY_5|0
+these results|DT NNS|BODY_7|0
+control flow|NN NN|BODY_3|0
+an upper|DT JJ|BODY_5|0
+profile-based optimization|JJ NN|BODY_3|0
+the 2-bit branch target buffer|DT JJ NN NN NN|BODY_6|0
+a hypothetical case|DT JJ NN|BODY_2|0
+mispredicted breaks|VBN NNS|ABSTRACT_6|0
+unpredictable breaks|JJ NNS|BODY_3|0
+1]|CD|BODY_5|0
+a c programmer|DT NN NN|BODY_1|0
+a c++ graphics library|DT JJ NNS NN|BODY_5|0
+a c++ programmer|DT NN NN|BODY_1|0
+addresses|NNS|BODY_1|0
+compile-time type analysis|JJ NN NN|BODY_5|0
+cycle [28]|NN NN|BODY_5|0
+prediction bits|NN NNS|BODY_5|0
+rtsh ray|NN NN|BODY_1|0
+similar functionality|JJ NN|BODY_5|0
+somecomputersuseexplicit branch target addressregis|NN NN NN NN|BODY_1|0
+the actual bal-|DT JJ NNS|BODY_5|0
+the success|DT NN|BODY_1|0
+these designs|DT NNS|BODY_1|0
+this level|DT NN|BODY_1|0
+those instructions|DT NNS|BODY_5|0
+if-conversion|NN|BODY_4|0
+prediction and infinite and finite dynamic last call prediction|NN CC JJ CC JJ JJ JJ NN NN|BODY_3|0
+three different techniques|CD JJ NNS|BODY_6|0
+the sequence|DT NN|BODY_3|0
+publicly available c++ programs|RB JJ NN NNS|BODY_4|0
+the inputs|DT NNS|BODY_3|0
+( best case ) figure 2|-LRB- JJS NN -RRB- NN CD|BODY_11|0
+the second most likely target|DT JJ RBS JJ NN|BODY_7|0
+static analysis|JJ NN|BODY_4|0
+every control flow change|DT NN NN NN|BODY_4|0
+few compiler or hardware tricks|JJ NN CC NN NNS|BODY_7|0
+the user|DT NN|BODY_8|0
+a p % probability|DT NN NN NN|BODY_6|0
+how frequently compiler-based methods|WRB RB VBN NNS|BODY_7|0
+more subtle optimizations|RBR JJ NNS|BODY_6|0
+the previous section|DT JJ NN|BODY_3|0
+a clever compiler|DT JJ NN|BODY_2|0
+a small 2-bit prediction mechanism|DT JJ JJ NN NN|BODY_3|0
+2.6 library|CD NN|BODY_3:BODY_4|0
+3.1 library|CD NN|BODY_3|0
+doc interactive text formatter|NN JJ NN NN|BODY_1|0
+interactive structured graphics editor|JJ JJ NNS NN|BODY_1|0
+a small ray traced image|DT JJ NN VBN NN|BODY_2|0
+29]|CD|BODY_4|0
+certain cases|JJ NNS|BODY_1|0
+detail|NN|BODY_4|0
+further optimization|JJ NN|BODY_4|0
+more recent work|RBR JJ NN|BODY_1|0
+some dynamic branch prediction mechanisms|DT JJ NN NN NNS|BODY_1|0
+the same time|DT JJ NN|ABSTRACT_1|0
+their productivity|PRP$ NN|ABSTRACT_4|0
+this problem|DT NN|BODY_1|0
+this technique|DT NN|BODY_4|0
+an increasing need|DT VBG NN|BODY_5|0
+fore|NN|BODY_2|0
+many c++ programs|JJ JJ NNS|BODY_4|1
+the breaks|DT NNS|BODY_10|0
+the occurrence|DT NN|ABSTRACT_2|0
+each bar|DT NN|BODY_2|0
+this the unique name measure|DT DT JJ NN NN|BODY_2|0
+dynamically typed object-oriented languages|RB VBN JJ NNS|BODY_5|0
+prior profiles|JJ NNS|BODY_2|0
+a simpler branch prediction technique|DT JJR NN NN NN|BODY_4|0
+( %bp )|-LRB- NN -RRB-|BODY_4|0
+well various techniques|RB JJ NNS|BODY_5|0
+this cost|DT NN|BODY_6|0
+classes|NNS|BODY_12|0
+time|NN|ABSTRACT_2|0
+a substantial number|DT JJ NN|BODY_4|0
+such btb|JJ NN|BODY_5|0
+367 indirect function|CD JJ NN|BODY_4|0
+mechanismsto|NN|BODY_3|0
+not account|RB NN|BODY_3|0
+branch prediction techniques|NN NN NNS|BODY_7|0
+a sense|DT NN|BODY_9|0
+well interprocedural dataflow analysis|RB JJ NN NN|BODY_4|0
+program flow|NN NN|BODY_4|0
+the density|DT NN|BODY_4|0
+table 7|NN CD|BODY_2|0
+us|PRP|BODY_4|0
+the line|DT NN|BODY_3|0
+james|NNS|BODY_2|0
+c programs|NN NNS|BODY_8|0
+the mean nibb|DT JJ NN|BODY_3|0
+the interval|DT NN|BODY_5|0
+the previous basic block|DT JJ JJ NN|BODY_3|0
+i-call destinations|JJ NNS|BODY_5|0
+the normalized execution time|DT JJ NN NN|BODY_2|0
+three entries|CD NNS|BODY_2|0
+10 %|CD NN|BODY_4|0
+doc|NN|BODY_2|0
+adaptive runtime systems|JJ NN NNS|BODY_4|0
+the collection|DT NN|BODY_3|0
+80-90 %|CD NN|BODY_5|0
+single call targets|JJ NN NNS|BODY_3|0
+bcd arithmetic|JJ NN|BODY_9|0
+branch mechanisms [18]|NN NNS NN|BODY_13|0
+cuse\gammaif ( p )|NN -LRB- NN -RRB-|BODY_5|0
+method lookup|NN NN|BODY_9|0
+other architectures|JJ NNS|BODY_1|0
+these efforts|DT NNS|BODY_1|0
+profile-based i-call|JJ JJ|BODY_2|1
+strictly profile-based prediction|RB JJ NN|BODY_2|0
+a greater advantage|DT JJR NN|BODY_3|0
+ecution|NN|BODY_10|0
+static indirect call prediction|JJ JJ NN NN|BODY_6|0
+the paper|DT NN|BODY_6|0
+three c++ compilers|CD JJ NNS|BODY_1|0
+future branch target|JJ NN NN|BODY_7|0
+the first btb|DT JJ NN|BODY_1|0
+risc processor design|NN NN NN|BODY_8|0
+the table|DT NN|BODY_4|0
+explicit branch registers|JJ NN NNS|BODY_4|0
+2bit|PRP|BODY_1|0
+a direct or indirect call|DT JJ CC JJ NN|BODY_8|0
+95 %|CD NN|BODY_5|0
+link-time information|NN NN|BODY_6|0
+icalls|NNS|BODY_8|1
+idealized dynamic prediction techniques|JJ JJ NN NNS|BODY_3|0
+program unique names|NN JJ NNS|BODY_1|0
+the right|DT NN|BODY_3|0
+statically-type object-oriented languages|JJ JJ NNS|BODY_1|0
+4-5 instructions|CD NNS|BODY_6|0
+better register scheduling|JJR NN NN|BODY_6|0
+uniquename elimination|JJ NN|BODY_6|0
+the additional delays|DT JJ NNS|BODY_3|0
+becausemost c++ implementations|RB JJ NNS|BODY_6|0
+tice|NN|BODY_8|0
+a trace|DT NN|BODY_8|0
+the first target instruction|DT JJ NN NN|BODY_6|0
+the previous algorithms|DT JJ NNS|BODY_1|0
+the comparison|DT NN|BODY_10|0
+entries|NNS|BODY_1|0
+the second ( 2-bit |DT JJ -LRB- JJ|BODY_1|0
+decstation 5000|NN CD|BODY_2|0
+the self system|DT NN NN|BODY_1|0
+a branch target buffer|DT NN NN NN|BODY_1|0
+the 2-bit method|DT JJ NN|BODY_8|0
+a long pipeline stall|DT JJ NN NN|BODY_2|0
+how accurate|WRB JJ|BODY_1|0
+the dec alpha axp 21064|DT NN NN NN CD|BODY_8|0
+the measurements|DT NNS|BODY_6|0
+profile information|NN NN|BODY_11|0
+fisher|NN|BODY_1|0
+a 10-page paper|DT JJ NN|BODY_5|0
+performance improvement|NN NN|BODY_11|0
+yet substantial differences|RB JJ NNS|BODY_6|0
+table 6 shows these two values|NN CD VBZ DT CD NNS|BODY_1|0
+a secondary call target|DT JJ NN NN|BODY_6|0
+the good performance|DT JJ NN|BODY_1|0
+prediction techniques|NN NNS|BODY_7|0
+object-oriented design|JJ NN|BODY_5|0
+2.1 compiler optimizations|CD NN NNS|BODY_1|0
+the most common variants|DT RBS JJ NNS|BODY_1|0
+these control-transfer instructions|DT JJ NNS|BODY_1|0
+the pic|DT NN|BODY_1|0
+different programs|JJ NNS|BODY_7|0
+break point|NN NN|BODY_5|0
+dataflow techniques|NN NNS|BODY_6|0
+(y|PRP|BODY_1|0
+configuration management|NN NN|BODY_5|0
+the third bar|DT JJ NN|BODY_1|0
+instruction level parallelism|NN NN NN|BODY_7|0
+a summary|DT NN|BODY_7|0
+a considerable amount|DT JJ NN|BODY_1|0
+a large body|DT JJ NN|BODY_1|0
+pic ) lookup|NN -RRB- NN|BODY_7|0
+a direct function call|DT JJ NN NN|BODY_6|0
+the next three bars|DT JJ CD NNS|BODY_1|0
+the qpt[3 ] program tracing tool|DT JJ SYM NN VBG NN|BODY_6|0
+structured software libraries|VBN NN NNS|BODY_6|0
+trace-based simulation|JJ NN|BODY_6|1
+i-call targets|NN NNS|BODY_5|0
+additional function inlining|JJ NN NN|BODY_4|0
+similar cost/benefit analysis|JJ NN NN|BODY_2|0
+these architectures|DT NNS|BODY_1|0
+the 1-bit technique changes prediction|DT JJ NN NNS NN|BODY_3|0
+a more extensive comparison|DT RBR JJ NN|BODY_1|0
+other ways|JJ NNS|BODY_7|0
+a given call site|DT VBN NN NN|BODY_6|0
+more re|RBR JJ|BODY_1|0
+static profile based prediction|JJ NN VBN NN|BODY_5|0
+the next bar|DT JJ NN|BODY_1|0
+this metric ,|DT JJ ,|BODY_1|0
+resources [6]|NNS NN|BODY_12|0
+morpher structured graphics morphing|RBR JJ NNS NN|BODY_1|0
+the software cache|DT NN NN|BODY_6|0
+metric congress doc groff-3 idl idraw morpher rtsh|JJ NN NN NN JJ NN NN NN|BODY_1|0
+greater improvement|JJR NN|BODY_7|0
+5 conclusions|CD NNS|BODY_1|0
+indirect jump hardware prediction|JJ NN NN NN|BODY_1|0
+indirect jump instructions|JJ NN NNS|BODY_5|0
+predicting branches|VBG NNS|BODY_1|0
+[7]|NN|BODY_4|0
+accurate profile-based measurements|JJ JJ NNS|BODY_1|0
+tion/optimization techniques|NN NNS|BODY_9|0
+the fresco graphics library|DT NN NNS NN|BODY_3|0
+c or fortran programs|NN CC JJ NNS|BODY_11|0
+modern computer architectures|JJ NN NNS|ABSTRACT_1|0
+different assumptions|JJ NNS|BODY_9|0
+the contents|DT NNS|BODY_1|0
+program execu- tion|NN NNS NN|BODY_6|0
+the program execution|DT NN NN|BODY_8|0
+a row|DT NN|BODY_6|0
+scientific computing|JJ NN|BODY_6|0
+a prolog-like language|DT JJ NN|BODY_7|0
+existing control flow prediction techniques|JJ NN NN NN NNS|ABSTRACT_5|0
+existing branch prediction mechanisms|VBG NN NN NNS|BODY_1|0
+fisher and freudenberger [12]|NN CC NN NN|BODY_1|0
+their hypothesis|PRP$ NN|BODY_10|0
+wide-issue processors|JJ NNS|BODY_3|0
+the information|DT NN|BODY_1|0
+the remaining i-calls|DT VBG NNS|BODY_4|0
+instruction times|NN NNS|BODY_5|0
+potential targets|JJ NNS|BODY_6|0
+the inline cache records|DT NN NN NNS|BODY_1|0
+the most recent method|DT RBS JJ NN|BODY_8|0
+another function call|DT NN NN|BODY_7|0
+first encoun-|JJ DT|BODY_3|0
+the different input files|DT JJ NN NNS|BODY_5|0
+this simple technique|DT JJ NN|BODY_1|0
+a single indirect function call|DT JJ JJ NN NN|BODY_4|0
+disk space|NN NN|BODY_4|0
+function parameters|NN NNS|BODY_5|0
+the calling address|DT VBG NN|BODY_1|0
+the prior run|DT JJ VBN|BODY_6|0
+dynamically typed languages|RB VBN NNS|BODY_7|0
+' function|POS NN|BODY_7|0
+c and c++|NN CC NN|BODY_3|0
+[14]|NN|BODY_1|0
+conditional logic|JJ NN|BODY_11|0
+specific call sites|JJ NN NNS|BODY_6|0
+the branch direction or branch op-code [25 , 20 , 2]|DT NN NN CC NN JJ CD , CD , CD|BODY_6|0
+only 2 targets|RB CD NNS|BODY_8|0
+the 1-bit mechanism|DT JJ NN|BODY_1|0
+accurate predictions|JJ NNS|BODY_5|0
+any control flow prediction|DT NN NN NN|BODY_7|0
+4.3|CD|BODY_1|0
+a compiler|DT NN|BODY_1|0
+many misprediction penalties|JJ NN NNS|BODY_6|0
+program control flow|NN NN NN|BODY_7|0
+simple prediction|NN NN|BODY_1|0
+the underlying architecture|DT VBG NN|BODY_12|0
+unique call targets|JJ NN NNS|BODY_5|0
+wall[26]|NN|BODY_1|0
+what type|WDT NN|BODY_1|0
+approximately 99 %|RB CD NN|BODY_1|0
+systems|NNS|BODY_1|0
+a given data type|DT VBN NN NN|BODY_7|0
+branch instructions|NN NNS|BODY_3|0
+fewer conditional operations|JJR JJ NNS|BODY_4|0
+table 5 shows|NN CD VBZ|BODY_1|0
+the second most likely call target|DT JJ RBS JJ NN NN|BODY_9|0
+4 performance comparison|CD NN NN|BODY_1|0
+branch prediction or instruction opcodes|NN NN CC NN NNS|BODY_4|0
+them|PRP|BODY_10|0
+theseoptimizations|DT|BODY_1|0
+proper data encapsulation techniques|JJ NNS NN NNS|BODY_4|0
+the heading  occurrences|DT VBG NN NNS|BODY_1|0
+metric congress doc|JJ NN NN|BODY_1|0
+a 100,000,000 instruction program|DT CD NN NN|BODY_4|0
+both function calls and branches|DT NN NNS CC NNS|BODY_1|0
+most architectures|JJS NNS|BODY_1|0
+the general idea|DT JJ NN|BODY_3|0
+these optimizations|DT NNS|BODY_3|0
+4.1 bounds|CD NNS|BODY_1|0
+4.2 static vs. dynamic prediction|CD JJ CC JJ NN|BODY_1|0
+a comprehensive overview|DT JJ NN|BODY_1|0
+coverage analysis|NN NN|BODY_6|0
+each|DT|BODY_1|0
+existing compilers and linkers|VBG NNS CC NNS|BODY_5|0
+the dynamicly typed language|DT JJ JJ NN|BODY_5|0
+the main differences|DT JJ NNS|BODY_1|0
+the program traces|DT NN NNS|BODY_3|0
+the time|DT NN|BODY_4|0
+ryder[24]|NN|BODY_1|0
+this canonly|DT NN|BODY_1|0
+three reasons|CD NNS|BODY_10|0
+a constant-time method dispatch mechanism|DT NN NN NN NN|BODY_3|0
+a unique type signature|DT JJ NN NN|BODY_3|0
+c.|NN|BODY_4|0
+conventional c programs|JJ NN NNS|BODY_6|0
+many indirect function|JJ JJ NN|BODY_1|0
+method names|NN NNS|BODY_1|0
+assigned gotos|VBN NNS|BODY_4|0
+many existing c++ programs|JJ JJ NN NNS|BODY_1|0
+first glance|JJ NN|BODY_1|0
+fortran programs|JJ NNS|BODY_10|0
+the values|DT NNS|BODY_1|0
+asc-9217394|NN|BODY_1|0
+nsf grant|JJ NN|BODY_3|0
+a 10 page document|DT CD NN NN|BODY_2|0
+the call instruction|DT NN NN|BODY_5|0
+profile-based optimizations|JJ NNS|BODY_6|0
+branch sites|NN NNS|BODY_5|0
+another branch|DT NN|BODY_3|0
+future instructions|JJ NNS|ABSTRACT_6|0
+'s )|POS -RRB-|BODY_5|0
+intended branch targets|VBN NN NNS|BODY_4|0
+one input|CD NN|BODY_1|0
+the entire type hierarchy|DT JJ NN NN|BODY_7|0
+the simulator|DT NN|BODY_1|0
+a np-hard problem|DT JJ NN|BODY_8|0
+one such difference|CD JJ NN|BODY_1|0
+all|DT|BODY_1|0
+2 instructions|CD NNS|BODY_4|0
+loops [25 , 17 , 20]|NNS CD , CD , CD|BODY_11|0
+this collection|DT NN|BODY_1|0
+an indirect call site|DT JJ NN NN|BODY_5|0
+zero percent|CD NN|BODY_6|0
+the left-most bar|DT JJS NN|BODY_1|0
+a direct call|DT JJ NN|BODY_11|0
+the instruction type|DT NN NN|BODY_6|0
+a single target|DT JJ NN|BODY_3|0
+combined i-call and branch prediction techniques|JJ NN CC NN NN NNS|BODY_5|0
+compiler|NN|BODY_1|0
+general|JJ|BODY_1|0
+branch or i-call prediction|NN CC NN NN|BODY_6|0
+'if conversion '|JJ NN ''|BODY_6|0
+both unique name and single target values|DT JJ NN CC JJ NN NNS|BODY_1|0
+dynamic occurrences|JJ NNS|BODY_3|0
+inlining i-calls|VBG NNS|BODY_1|0
+table 2|NN CD|BODY_1|0
+the the branch|DT DT NN|BODY_1|0
+more detail|JJR NN|BODY_6|0
+these different techniques|DT JJ NNS|BODY_7|0
+future runs|NN NNS|BODY_6|0
+likely or unique call targets|JJ CC JJ NN NNS|BODY_2|0
+a c++ program|DT JJ NN|BODY_7|0
+existing computers|VBG NNS|ABSTRACT_8|0
+the different programs|DT JJ NNS|BODY_7|0
+profile-based and dynamic prediction|JJ CC JJ NN|BODY_9|0
+0:86|CD|BODY_3|0
+our architecture assumptions|PRP$ NN NNS|BODY_1|0
+our experience|PRP$ NN|BODY_1|0
+table 4 shows|NN CD VBZ|BODY_1|0
+the c|DT NN|BODY_1|0
+conventional branch prediction studies|JJ NN NN NNS|BODY_1|0
+our knowledge|PRP$ NN|BODY_1|0
+last call/return )|JJ NN -RRB-|BODY_6|0
+the processor pipeline|DT NN NN|BODY_10|0
+a compiler optimization|DT NN NN|BODY_1|0
+a similar technique|DT JJ NN|BODY_2|0
+a simple majority profile-based technique|DT JJ NN JJ NN|BODY_2|0
+another paper|DT NN|BODY_1|1
+another paper [6]|DT NN NN|BODY_1|1
+dataflow-based prediction algorithms|JJ NN NNS|BODY_8|0
+dynamic prediction methods|JJ NN NNS|BODY_1|0
+many ways|JJ NNS|BODY_1|0
+one program ( groff)|CD NN -LRB- NN|BODY_1|0
+profile-based and dynamic prediction techniques|JJ CC JJ NN NNS|BODY_4|0
+some relevant prior work|DT JJ JJ NN|BODY_3|0
+the %bp metric|DT NN JJ|BODY_1|0
+the contrary|DT NN|BODY_1|0
+the digital axp 21064|DT JJ NN CD|BODY_3|0
+the experimental methodology|DT JJ NN|BODY_3|0
+the last prediction mechanism|DT JJ NN NN|BODY_1|0
+the other|DT JJ|BODY_1|0
+the remaining tables|DT VBG NNS|BODY_1|0
+the various i-call prediction mechanisms|DT JJ NN NN NNS|BODY_3|0
+these shortly|DT RB|BODY_2|0
+two infinitely large branch target buffers|CD RB JJ NN NN NNS|BODY_2|0
+x2|NN|BODY_1|0
+x3|NNS|BODY_1|0
+x4|CD|BODY_1|0
+the static profile-based technique|DT JJ JJ NN|BODY_3|0
+this figure conditional branches|DT NN JJ NNS|BODY_1|0
+a long pipeline delay|DT JJ NN NN|BODY_5|0
+profile based prediction techniques outperform compile-time prediction techniques or techniques|NN VBN NN NNS JJ NN NN NNS CC NNS|BODY_1|0
+significant control-flow misprediction penalties|JJ JJ NN NNS|BODY_4|0
+'s execution|POS NN|BODY_13|0
+these breaks|DT NNS|BODY_1|0
+total breaks|JJ NNS|BODY_4|0
+the most relevant prior work|DT RBS JJ JJ NN|BODY_1|0
+dispatching|NN|ABSTRACT_1|0
+the misprediction penalty|DT NN NN|BODY_1|0
+in instruction-level parallelism|IN JJ NN|BODY_6|0
+inlining functions|JJ NNS|BODY_1|0
+mis|NNS|BODY_8|0
+particular|JJ|BODY_1|0
+profiling runs|NN NNS|BODY_5|0
+program execution time|NN NN NN|BODY_3|0
+such large programs|JJ JJ NNS|BODY_8|0
+dataflow equations|NN NNS|BODY_7|0
+this style|DT NN|BODY_1|0
+a figure|DT NN|BODY_2|0
+a morphed running man|DT JJ VBG NN|BODY_2|0
+different input files|JJ NN NNS|BODY_8|0
+the right-most bar|DT JJ NN|BODY_1|0
+the lines|DT NNS|BODY_1|0
+two other inputs|CD JJ NNS|BODY_6|0
+an application|DT NN|BODY_8|0
+an efficient object oriented language|DT JJ NN JJ NN|BODY_6|0
+2.2 branch prediction|CD NN NN|BODY_1|0
+a 10 cycle pipeline delay|DT CD NN NN NN|BODY_4|0
+type inferencing|NN NN|BODY_1|0
+these methods|DT NNS|ABSTRACT_1|0
+2brs icalls|IN NNS|BODY_1|0
+recall figure 1|VB NN CD|BODY_1|0
+whenp|NNP|BODY_1|0

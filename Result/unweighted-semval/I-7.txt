@@ -1,0 +1,250 @@
+we|PRP|BODY_11:ABSTRACT_5:BODY_22:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_7|3
+commitments|NNS|BODY_5:ABSTRACT_4:BODY_13:ABSTRACT_2:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7|1
+which|WDT|BODY_12:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_3:BODY_4:BODY_19:BODY_7|2
+it|PRP|BODY_6:BODY_5:BODY_16:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+that|DT|BODY_6:BODY_5:BODY_15:ABSTRACT_8:BODY_2:BODY_3:BODY_8:ABSTRACT_9|0
+the players|DT NNS|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_13:BODY_3:BODY_24:BODY_4:ABSTRACT_7:BODY_7:BODY_8:BODY_20|0
+col|NN|BODY_12:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+row|NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_8:BODY_9|0
+game theory|NN NN|BODY_6:BODY_2:BODY_3|0
+one|CD|BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|0
+an agent|DT NN|BODY_6:BODY_2:BODY_3:BODY_8|0
+conditional commitments|JJ NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_3|0
+a player|DT NN|ABSTRACT_4:ABSTRACT_2:BODY_8|0
+the actions|DT NNS|BODY_5:ABSTRACT_8:BODY_3|0
+some other commitment types|DT JJ NN NNS|BODY_2|0
+a threat|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+threats|NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+( conditional ) commitment|-LRB- JJ -RRB- NN|ABSTRACT_4|0
+conditional and unconditional commitments|JJ CC JJ NNS|BODY_10|1
+a more comprehensive understanding|DT RBR JJ NN|BODY_5|0
+mixed strategy profile ïƒ|JJ NN NN NN|BODY_7|0
+appropriate fixed point constructions|JJ JJ NN NNS|BODY_6|0
+extortions|NNS|ABSTRACT_8:BODY_3:BODY_7:BODY_8|0
+he|PRP|ABSTRACT_6:BODY_1:BODY_2:BODY_3:BODY_9|0
+the set|DT NN|BODY_15:BODY_2:BODY_8|0
+a certain desired way|DT JJ VBN NN|BODY_8|0
+â· â· ã— î£n|IN IN NNS NN|BODY_7|0
+too abstract a framework|RB JJ DT NN|BODY_2|0
+a ) and ïƒi(|DT -RRB- CC NN|BODY_2|0
+the column player col|DT NN NN NN|BODY_10|0
+a real-valued utility function|DT JJ NN NN|BODY_13|0
+too abstract a model|RB JJ DT NN|BODY_11|0
+player i and ui|NN NN CC FW|BODY_12|0
+pure or mixed strategies|JJ CC JJ NNS|BODY_4|0
+its putting into effect|PRP$ VBG IN NN|BODY_5|0
+his own strategic position|PRP$ JJ JJ NN|ABSTRACT_6|0
+conitzer and sandholm [2|NN CC NN NNS|BODY_1|0
+multiagent systems|JJ NNS|BODY_5:ABSTRACT_5:BODY_4|0
+a mixed strategy ïƒi|DT JJ NN NN|BODY_1|0
+the various universal ingredients|DT JJ JJ NNS|BODY_7|0
+two important early examples|CD JJ JJ NNS|BODY_7|1
+the more general case|DT RBR JJ NN|BODY_7|0
+an optimal commitment profile|DT JJ NN NN|BODY_8|1
+both threats and promises|DT NNS CC NNS|BODY_1|0
+social and behavioral scienceseconomics|JJ CC JJ NNS|ABSTRACT_7|0
+2. related work commitment|DT JJ NN NN|BODY_1|0
+a slightly divergent view|DT RB JJ NN|BODY_1|0
+mere interactive decision theory|JJ JJ NN NN|BODY_7|0
+the last few years|DT JJ JJ NNS|BODY_1|0
+the row player row|DT NN NN NN|BODY_14|0
+a more formal level|DT RBR JJ NN|BODY_1|0
+the most desirable outcome|DT RBS JJ NN|BODY_8|0
+a proper understanding|DT JJ NN|BODY_6:BODY_4|0
+the the sixth intl|DT DT JJ NN|BODY_5|0
+a generic solution concept|DT JJ NN NN|BODY_6|0
+e.g.|FW|ABSTRACT_2:BODY_1:BODY_7:BODY_9|0
+there|EX|BODY_3:BODY_4:BODY_7|0
+the commitments|DT NNS|BODY_6:BODY_5:BODY_23:BODY_4:ABSTRACT_12|0
+promises|NNS|BODY_2:BODY_3|0
+a player i|DT NN NN|BODY_2|0
+a probability distribution|DT NN NN|BODY_3|0
+situations|NNS|BODY_11:BODY_18:BODY_2|0
+the optimal strategy|DT JJ NN|BODY_3|0
+different commitment types|JJ NN NNS|ABSTRACT_3:BODY_3|0
+actions|NNS|BODY_11:BODY_2:BODY_3:BODY_4|1
+the other hand|DT JJ NN|BODY_1:BODY_2|1
+the formal model|DT JJ NN|BODY_2|0
+the strategic features|DT JJ NNS|BODY_5|0
+a set|DT NN|BODY_2:BODY_3:BODY_10|0
+in normal form|IN JJ NN|BODY_4|0
+the computational complexity|DT JJ NN|BODY_2|0
+a tuple (|DT NN -LRB-|BODY_3|0
+a dominated strategy|DT VBN NN|BODY_7|0
+a strategic game|DT JJ NN|BODY_2|0
+the action set|DT NN NN|BODY_4|0
+as well as|RB RB RB|BODY_5|0
+itself|PRP|BODY_2:BODY_3|0
+a better payoff|DT JJR NN|BODY_10|0
+promises and threats|NNS CC NNS|BODY_1:ABSTRACT_3|0
+a software agent|DT NN NN|BODY_3|0
+his strategic position|PRP$ JJ NN|BODY_3:BODY_9|0
+its strategic position|PRP$ JJ NN|BODY_7|0
+s|PRP|BODY_2:BODY_3|1
+a central concept|DT JJ NN|BODY_2|0
+the least one|DT JJS CD|BODY_2|0
+interacting software agents|JJ NN NNS|BODY_4|0
+a commitment type|DT NN NN|BODY_9|1
+the right column|DT JJ NN|BODY_16:BODY_8|0
+more general game|RBR JJ NN|BODY_4|0
+] and harsanyi|JJ CC JJ|BODY_4|1
+j.4 [computer applications]|CD NN NN|ABSTRACT_6|0
+a promise|DT NN|BODY_2:BODY_4|0
+himself|PRP|BODY_11:BODY_5:ABSTRACT_7|0
+the idealized case|DT JJ NN|BODY_5|0
+the efficient application|DT JJ NN|BODY_4|0
+a finite set|DT JJ NN|BODY_8|0
+the other party|DT JJ NN|BODY_5|1
+a wide range|DT JJ NN|BODY_7|0
+a particular kind|DT JJ NN|BODY_3|0
+general the case|JJ DT NN|BODY_2|0
+the strategic lie|DT JJ NN|BODY_2|0
+computer science|NN NN|BODY_3:BODY_4|0
+each commitment type|DT NN NN|BODY_6|1
+the economic literature|DT JJ NN|BODY_5|0
+most surprising phenomena|RBS JJ NNS|BODY_5|0
+a particular action|DT JJ NN|BODY_1|0
+all other actions|DT JJ NNS|BODY_3|0
+section 5 briefly|NN CD NN|BODY_1|0
+a game finite|DT NN NN|BODY_2|0
+the formal properties|DT JJ NNS|ABSTRACT_2|0
+a commitment|DT NN|BODY_5:BODY_4|0
+a significant role|DT JJ NN|BODY_2|0
+a comprehensive class|DT JJ NN|BODY_10|0
+a research tool|DT NN NN|BODY_3|0
+strongly dominated strategies|RB VBN NNS|BODY_4|0
+the game|DT NN|BODY_3:BODY_7|1
+the credibility|DT NN|BODY_3:BODY_4|0
+backward induction solutions|JJ NN NNS|BODY_4|0
+these commitment tactics|DT NN NNS|BODY_15|0
+his own freedom|PRP$ JJ NN|BODY_10|0
+the left column|DT NN NN|BODY_4|0
+applications and developments|NNS CC NNS|BODY_3|0
+a uniform tactic|DT NN NN|BODY_9|0
+the formal notion|DT JJ NN|BODY_4|0
+the 2ã—2 game|DT JJ NN|BODY_2|0
+an additional promise|DT JJ NN|BODY_5|0
+the generic concept|DT JJ NN|BODY_3|1
+normal form )|JJ NN -RRB-|BODY_9|0
+player i|NN NN|BODY_14:BODY_4|0
+fixed point constructions|JJ NN NNS|BODY_3|0
+the stackleberg setting|DT JJ NN|BODY_2|0
+a given order|DT VBN NN|ABSTRACT_6:BODY_21|0
+his commitment conditional|PRP$ NN JJ|BODY_4|0
+an interactive situation|DT JJ NN|BODY_6|0
+the semantic equivalence|DT JJ NN|BODY_1|0
+3.1 strategic games|CD JJ NNS|BODY_1|0
+an optimal commitment|DT JJ NN|ABSTRACT_11|0
+what game theory|WP NN NN|BODY_6|0
+the conditional strategy|DT JJ NN|BODY_2|0
+no strategy profile|DT NN NN|BODY_5|0
+the former setting|DT JJ NN|BODY_1|0
+mixed strategy ïƒi|JJ NN NN|BODY_8|0
+general terms economics|JJ NNS NNS|ABSTRACT_1|0
+the other agents|DT JJ NNS|BODY_11|0
+e.g. , [13]|FW , JJ|BODY_5|0
+a multiagent setting|DT JJ NN|BODY_8|0
+section 3 )|NN CD -RRB-|BODY_11|1
+particular conditional commitments|JJ JJ NNS|BODY_9|0
+the cold war|DT JJ NN|BODY_6|0
+action|NN|BODY_5:BODY_11:BODY_1|0
+a payoff|DT NN|BODY_12:BODY_6:BODY_2|0
+the ultimate commitment|DT JJ NN|BODY_3|0
+a similar line|DT JJ NN|BODY_1|0
+a particular order|DT JJ NN|BODY_6|0
+an extortion|DT NN|BODY_5:ABSTRACT_3:BODY_4|1
+any two commitments|DT CD NNS|BODY_3|0
+all foreseeable circumstances|DT JJ NNS|BODY_7|0
+them|PRP|BODY_12:BODY_8|0
+( multi)agent research|-LRB- JJ NN|BODY_5|0
+mixed strategy profiles|JJ NN NNS|BODY_9|0
+interactive decision making|JJ NN NN|BODY_12|0
+the part|DT NN|BODY_6:BODY_5|0
+a larger game|DT JJR NN|BODY_4|0
+the other players|DT JJ NNS|ABSTRACT_9|0
+that utility functions|DT NN NNS|BODY_4|0
+the strategic aspects|DT JJ NNS|BODY_1|0
+our approach|PRP$ NN|BODY_1:BODY_3|0
+commitment and extortion|NN CC NN|TITLE_1|0
+a number|DT NN|BODY_6:BODY_2|0
+bottom|NN|BODY_2:BODY_14:BODY_7:BODY_9|0
+the exclusion|DT NN|BODY_2|0
+the matrix|DT NN|BODY_2|0
+samet [7|JJ NNS|BODY_4:BODY_7|0
+example|NN|BODY_1:BODY_3|0
+the latter|DT NN|BODY_15:BODY_3|0
+utility|NN|BODY_2:BODY_10|0
+an action|DT NN|ABSTRACT_4:BODY_2:BODY_1|0
+behavior|NN|BODY_6:BODY_7|0
+an overview|DT NN|BODY_2|0
+future research|JJ NN|BODY_5|0
+program equilibrium|NN NN|BODY_5|0
+a game|DT NN|BODY_3|0
+an outlook|DT NN|BODY_4|0
+his definition|PRP$ NN|BODY_4|0
+strategic form|JJ NN|BODY_4|0
+the results|DT NNS|BODY_3|0
+the outcomes|DT NNS|ABSTRACT_7:BODY_7|0
+some situations|DT NNS|BODY_1:BODY_3:ABSTRACT_1|0
+him|PRP|BODY_5:BODY_7|0
+rational threats|JJ NNS|BODY_5|1
+multi-agent systems|JJ NNS|BODY_3|0
+games|NNS|BODY_14:BODY_10|0
+the promiser|DT NN|BODY_5|0
+schelling|NN|BODY_1:BODY_2|0
+potential force|JJ NN|BODY_7|0
+autonomous agents|JJ NNS|BODY_2|0
+the possibility|DT NN|BODY_2:BODY_1|0
+the exploitation|DT NN|BODY_6|0
+theory categories|NN NNS|ABSTRACT_2|0
+the inability|DT NN|BODY_2|0
+equilibrium selection|NN NN|BODY_4|0
+the solution|DT NN|BODY_2|0
+diplomatic policy|JJ NN|BODY_5|0
+top|NN|BODY_6:BODY_4|0
+subject descriptors|NN NNS|ABSTRACT_3|0
+a hostage|DT NN|BODY_10|0
+( ai)iâˆˆn|-LRB- NN|BODY_4|0
+threat game|NN NN|BODY_3|1
+the importance|DT NN|BODY_2|0
+these matters|DT NNS|BODY_2|0
+0) (2|NNP NNP|BODY_5|0
+each player|DT NN|BODY_1:ABSTRACT_10|0
+our analysis|PRP$ NN|BODY_17:BODY_1|0
+iterative elimination|JJ NN|BODY_3|0
+the observation|DT NN|BODY_3|0
+the theory|DT NN|BODY_3|0
+( 0|-LRB- CD|BODY_7|0
+all players|DT NNS|BODY_3|0
+these types|DT NNS|ABSTRACT_3|0
+the outcome|DT NN|BODY_2|0
+this way|DT NN|BODY_4|1
+the threatener|DT NN|BODY_6:BODY_4|0
+his freedom|PRP$ NN|BODY_9|0
+both|DT|BODY_7:BODY_9|1
+the case|DT NN|BODY_1:BODY_3|0
+a ransom|DT NN|BODY_11|0
+its specification|PRP$ NN|BODY_6|0
+the relationship|DT NN|BODY_6|0
+n }|RB NN|BODY_7|0
+the circumstances|DT NNS|ABSTRACT_4:BODY_3:BODY_4|0
+the promisee|DT NN|BODY_4|0
+the extent|DT NN|BODY_3|0
+both players|DT NNS|BODY_2|1
+( cf.|-LRB- NN|BODY_6|0
+the idea|DT NN|BODY_7|1
+possible commitments|JJ NNS|BODY_8|0
+this criticism|DT NN|BODY_2|0
+related work|JJ NN|BODY_2|1
+the complications|DT NNS|BODY_6|0
+certain types|JJ NNS|BODY_5|0
+strategy [|NN NN|BODY_3|0
+section 2|NN CD|BODY_3|1
+such limitations|JJ NNS|BODY_3|0
+the notion|DT NN|ABSTRACT_2|0
+artificial intelligence]|JJ NN|ABSTRACT_4|0
+a player |DT NN|BODY_5|0
+this order|DT NN|BODY_2|0
+they|PRP|BODY_2:BODY_4|0
+the fly|DT NN|BODY_4|0
+tennenholtz|NN|BODY_3|0

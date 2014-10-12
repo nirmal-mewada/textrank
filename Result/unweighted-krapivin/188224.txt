@@ -1,0 +1,1502 @@
+which|WDT|BODY_12:BODY_11:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_35:BODY_6:BODY_5:BODY_27:BODY_10:BODY_7:BODY_8:BODY_9|2
+we|PRP|BODY_6:BODY_5:ABSTRACT_6:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8:ABSTRACT_9|2
+that|WDT|BODY_12:BODY_11:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+viewpoints|NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_12:BODY_22:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+the relationships|DT NNS|BODY_6:BODY_5:BODY_16:TITLE_2:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+example|NN|BODY_6:BODY_11:BODY_2:BODY_1:BODY_3:BODY_9|0
+a number|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:ABSTRACT_7:BODY_7|0
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+fig|NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+core|NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+)|-RRB-|BODY_12:BODY_6:BODY_41:BODY_11:BODY_5:BODY_13:BODY_2:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+the viewpoints framework|DT NNS NN|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+them|PRP|BODY_6:BODY_5:BODY_15:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+s|VBZ|BODY_6:BODY_5:BODY_1:BODY_2:BODY_14:BODY_10:BODY_19:BODY_4|0
+the viewpoint|DT NN|BODY_6:BODY_12:BODY_5:BODY_17:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+inter-viewpoint rules|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+a viewpoint|DT NN|BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|0
+one|CD|BODY_5:BODY_16:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+a variety|DT NN|BODY_12:BODY_1:BODY_2:BODY_3:BODY_10|0
+a tabular collection diagram|DT JJ NN NN|BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|0
+this|DT|BODY_2:BODY_1:BODY_4:BODY_7|0
+there|EX|BODY_12:BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+information|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the rule|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+the viewer|DT NN|BODY_6:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7|0
+a model|DT NN|BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|0
+the integration|DT NN|BODY_6:BODY_11:BODY_15:BODY_4:BODY_10:BODY_8|0
+an agent hierarchy|DT NN NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+viewpoint templates|NN NNS|BODY_5:BODY_3:BODY_4|0
+part|NN|BODY_6:BODY_3:BODY_4|1
+the domain|DT NN|BODY_11:BODY_5:BODY_2:BODY_10:BODY_4:BODY_20|0
+the value|DT NN|BODY_6:BODY_2:BODY_10:BODY_8|0
+integration|NN|BODY_6:BODY_5:BODY_11:BODY_4:BODY_7|0
+two viewpoints|CD NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+some form|DT NN|BODY_6:BODY_3:BODY_7|0
+(|-LRB-|BODY_5:BODY_2:BODY_38:BODY_4:BODY_9|0
+conflict resolution|NN NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_8|0
+in-viewpoint check actions|JJ NN NNS|BODY_1:BODY_3:BODY_8|0
+relationships|NNS|BODY_2:BODY_3:BODY_4|0
+multiple perspectives|JJ NNS|BODY_5:BODY_2:ABSTRACT_3:BODY_7|0
+the agent hierarchy|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_8|0
+a rule|DT NN|BODY_6:BODY_2:BODY_1:BODY_10:BODY_4|0
+terms|NNS|BODY_6:BODY_5:BODY_39:BODY_4|0
+rules|NNS|BODY_6:BODY_2:BODY_3:BODY_7|0
+( fig|-LRB- NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+the development|DT NN|BODY_3:BODY_4:BODY_7|0
+partial specifications|JJ NNS|BODY_6:BODY_3:BODY_4:BODY_10|0
+consistency|NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+the two viewpoints|DT CD NNS|BODY_3:BODY_4:BODY_7:BODY_8|0
+us|PRP|BODY_5:BODY_2:BODY_3:BODY_4|0
+a partial specification|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+e.g.|FW|BODY_5:BODY_3:BODY_4|0
+a system|DT NN|BODY_6:BODY_5:BODY_2:BODY_7|0
+the notion|DT NN|ABSTRACT_2:BODY_3:BODY_7|0
+inconsistency|NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_9|0
+what|WP|BODY_5:BODY_1:BODY_3:BODY_8|0
+the use|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+development|NN|BODY_2:BODY_7:BODY_9|0
+this paper|DT NN|BODY_5:BODY_1:BODY_2:BODY_7|0
+who|WP|BODY_3:BODY_10:BODY_4|0
+an inter-viewpoint rule|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+consistency checking|NN NN|BODY_5:ABSTRACT_5:BODY_1:BODY_7|0
+vp|NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+our framework|PRP$ NN|BODY_6:BODY_2:BODY_4:ABSTRACT_10|0
+objects|NNS|BODY_4:BODY_7|0
+a method|DT NN|BODY_6:BODY_2:BODY_3|0
+particular|JJ|BODY_6:BODY_5:BODY_1:BODY_3|0
+course|NN|BODY_6:BODY_2:BODY_1|0
+viewpoint owners|NN NNS|BODY_6:BODY_1:BODY_4|0
+one viewpoint|CD NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+inconsistency handling|NN NN|BODY_6:BODY_12:BODY_2:BODY_4|0
+the viewpoints|DT NNS|BODY_6:BODY_5:BODY_3|0
+a specification|DT NN|BODY_6:BODY_3:BODY_4|0
+the inter-viewpoint rules|DT JJ NNS|BODY_2:BODY_3:BODY_4|0
+the specification|DT NN|BODY_6:BODY_3:BODY_4:BODY_9|0
+tools|NNS|BODY_3:BODY_9|0
+these rules|DT NNS|BODY_6:BODY_2:BODY_1|0
+a vehicle|DT NN|BODY_5:BODY_3:BODY_9|0
+|VBN|BODY_5:BODY_13:BODY_14:BODY_4|0
+our approach|PRP$ NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the areas|DT NNS|BODY_2:BODY_8|0
+the model|DT NN|BODY_5:BODY_11:BODY_2:BODY_4|0
+the problems|DT NNS|BODY_5:BODY_2:BODY_10|0
+application|NN|BODY_1:BODY_3:BODY_4|0
+multiple viewpoints|JJ NNS|ABSTRACT_2:BODY_2:BODY_3:BODY_4|0
+the development process|DT NN NN|BODY_6:BODY_2:BODY_4|0
+the style slot|DT NN NN|BODY_5:BODY_31:BODY_1:BODY_3:BODY_4|0
+the|DT|BODY_6:BODY_2:BODY_25:BODY_9|0
+inter-viewpoint relationships|JJ NNS|BODY_6:BODY_2|1
+a new viewpoint|DT JJ NN|BODY_3:BODY_8:BODY_9|0
+inter-viewpoint rule application|JJ NN NN|BODY_1:BODY_2|0
+the nature|DT NN|BODY_1:BODY_2:BODY_9|0
+vp d|NN VBD|BODY_15:BODY_4:BODY_10:BODY_7:BODY_9|0
+case studies|NN NNS|BODY_6:BODY_1:BODY_3|0
+the framework|DT NN|BODY_2:BODY_7|0
+fact|NN|BODY_2:BODY_1:BODY_4|0
+the feasibility|DT NN|BODY_5:BODY_2:BODY_3|0
+overlaps|NNS|BODY_2|0
+a precondition|DT NN|BODY_2:BODY_1|0
+the general form|DT JJ NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+consistency checks|NN NNS|BODY_5:BODY_7:BODY_8|0
+vehicles|NNS|BODY_2:BODY_3|0
+1 fig|CD NN|BODY_13:BODY_2|0
+the template|DT NN|BODY_5:BODY_7:BODY_8:BODY_9|0
+time|NN|BODY_10:BODY_7:BODY_9|0
+specifications|NNS|BODY_4:BODY_7|0
+the hierarchy|DT NN|BODY_6:BODY_3|0
+4 viewpoint|CD NN|BODY_2|0
+no other viewpoints|DT JJ NNS|BODY_2|0
+process|NN|BODY_2|0
+the processes|DT NNS|BODY_2|0
+requirements engineering|NNS NN|BODY_6:BODY_1:BODY_4|0
+another|DT|BODY_6:BODY_5:BODY_16:BODY_7|0
+the context|DT NN|ABSTRACT_4:BODY_7|0
+system requirements|NN NNS|BODY_5:BODY_3:BODY_8|0
+example )|NN -RRB-|BODY_15:BODY_7:BODY_8|0
+inter-viewpoint communication|JJ NN|ABSTRACT_3:BODY_3:BODY_4|0
+( e .g.|-LRB- NN NN|BODY_5:BODY_7|0
+each|DT|BODY_6:BODY_2:BODY_1|0
+the above rule|DT JJ NN|BODY_5:BODY_2|0
+length|NN|BODY_3:BODY_4|0
+the work plan slot|DT NN NN NN|BODY_33:BODY_2:BODY_1:BODY_8|0
+ways|NNS|BODY_3:BODY_7|0
+viewpoint trigger actions|NN NN NNS|BODY_13:BODY_1|0
+the very least|DT RB JJS|BODY_5:BODY_3|0
+both|DT|BODY_6:BODY_4|0
+work|NN|BODY_1:BODY_4|0
+the method|DT NN|BODY_1:BODY_3:BODY_8|0
+a framework|DT NN|TITLE_1:BODY_3:BODY_7|0
+environment|NN|BODY_5:ABSTRACT_2|0
+information transfers|NN NNS|BODY_6:BODY_1:BODY_8:BODY_9|0
+requirements|NNS|BODY_5:BODY_2|0
+software engineering|NN NN|BODY_4:BODY_7|0
+the relation|DT NN|BODY_1:BODY_8:BODY_9|0
+our experiences|PRP$ NNS|BODY_2:BODY_3|0
+viewpoint integration|NN NN|BODY_6:BODY_9|0
+the presence|DT NN|BODY_8|0
+inconsistencies|NNS|BODY_5:BODY_4|0
+this context|DT NN|BODY_1:BODY_2:BODY_8|0
+view|NN|BODY_2:BODY_3|0
+the requirements specification method core|DT NNS NN NN NN|BODY_2:ABSTRACT_3|0
+the source viewpoint|DT NN NN|BODY_6:BODY_21:BODY_3|0
+the next section|DT JJ NN|BODY_2:BODY_1|0
+this rule|DT NN|BODY_5:BODY_1|0
+viewpoint interaction|NN NN|BODY_6:BODY_2|0
+this information|DT NN|BODY_6:BODY_12:BODY_8|0
+.e|NN|BODY_5:BODY_3|0
+viewpoint specifications|NN NNS|BODY_2:BODY_4:BODY_8|0
+software development|NN NN|BODY_3:BODY_4|0
+specification|NN|BODY_5:BODY_4|0
+information hiding|NN NN|BODY_4|0
+return library specification publication|NN NN NN NN|BODY_2|0
+sample viewpoint|NN NN|BODY_4|0
+the addition|DT NN|BODY_2|0
+order|NN|BODY_11:BODY_9|0
+feedback|NN|BODY_6:BODY_3|0
+inter-viewpoint consistency checking|JJ NN NN|BODY_6:BODY_2|0
+different viewpoints|JJ NNS|BODY_6:BODY_5:BODY_4:BODY_7|0
+another agent|DT NN|BODY_12:BODY_8|0
+composite system development|JJ NN NN|BODY_6:BODY_4|0
+the |DT|BODY_13:BODY_7|0
+databases|NNS|BODY_3|0
+many , heterogeneous|JJ , JJ|BODY_2|0
+the appropriate viewpoint templates|DT JJ NN NNS|BODY_2|0
+their viewpoint specifications|PRP$ NN NNS|BODY_3|0
+consistency management|NN NN|BODY_2:BODY_4|0
+different notations|JJ NNS|BODY_11:BODY_10|0
+every agent|DT NN|BODY_6:BODY_5|0
+inter-viewpoint check actions|JJ NN NNS|BODY_1|0
+the work plan|DT NN NN|BODY_3:BODY_10|0
+the notation|DT NN|BODY_4:BODY_30|0
+a method designer|DT NN NN|BODY_6:BODY_1|0
+the consistency|DT NN|BODY_3|0
+these relationships|DT NNS|BODY_5:BODY_9|1
+those actions|DT NNS|BODY_2|0
+themselves|PRP|BODY_2:BODY_3|0
+step 2|NN CD|BODY_1:BODY_3|0
+the relationship|DT NN|BODY_6:BODY_13:BODY_1:BODY_7|0
+sections 3 and 4|NNS CD CC CD|BODY_11|0
+methods|NNS|BODY_6:BODY_5:BODY_11:BODY_7|0
+borrower|NN|BODY_11|0
+further work viewpoints|JJ NN NNS|BODY_2|0
+input|NN|BODY_21|0
+method guidance|NN NN|BODY_9|0
+the design|DT NN|BODY_15|0
+a configuration ( structured collection )|DT NN -LRB- VBN NN -RRB-|BODY_3|0
+rule 1|NN CD|BODY_2:BODY_3|0
+such inter-viewpoint rules|JJ JJ NNS|BODY_2|0
+all facets|DT NNS|BODY_11|0
+development participants|NN NNS|BODY_2|0
+models|NNS|BODY_6:BODY_5|0
+some conclusions|DT NNS|BODY_2|1
+most composite systems|JJS JJ NNS|BODY_2|0
+a configuration|DT NN|BODY_3:BODY_4|0
+[44]|NN|BODY_2|0
+formal specifications|JJ NNS|BODY_7|0
+the viewpoints approach|DT NNS NN|BODY_2|0
+the financial resources|DT JJ NNS|BODY_8|0
+the term|DT NN|BODY_1:BODY_3:BODY_9|0
+add(agent ) , remove( agent ) , connect(agent , agent , part-of ) , disconnect(agent , agent , part-of ) in-viewpoint check actions|JJ -RRB- , JJ NN -RRB- , NN , NN , NN -RRB- , NN , NN , NN -RRB- JJ NN NNS|BODY_8|0
+a bnf description|DT NN NN|BODY_9|0
+this setting|DT NN|BODY_6:BODY_5:BODY_3|0
+easterbrook|NN|BODY_2|0
+a domain|DT NN|BODY_17|0
+the predicate vp(t|DT NN NN|BODY_7|0
+more complex relations|RBR JJ NNS|BODY_2|0
+their viewpoint mailboxes|PRP$ NN NNS|BODY_5|0
+views|NNS|BODY_1:BODY_8|0
+the inconsistencies|DT NNS|BODY_2:BODY_3|0
+investigation|NN|BODY_2|0
+any|DT|BODY_3:BODY_8|0
+an agent|DT NN|BODY_6:BODY_3|0
+an extension|DT NN|BODY_6:BODY_2|0
+a|DT|BODY_13:BODY_2|0
+part-of |RB|BODY_5|0
+problems|NNS|BODY_6:BODY_5|0
+[12]|NN|BODY_2|0
+all-inputs-connected-to-actions|NNS|BODY_3|0
+the other hand|DT JJ NN|BODY_2:BODY_4|0
+conflict resolution [17]|NN NN NN|BODY_2|0
+inter-viewpoint rule definition|JJ NN NN|BODY_2|0
+bu t e1|NN NN NNS|BODY_10|0
+each viewpoint|DT NN|BODY_6:BODY_2|0
+this stage|DT NN|BODY_3|0
+the separation|DT NN|BODY_7|0
+an informal description|DT JJ NN|BODY_6:BODY_2|0
+interaction and behaviour|NN CC NN|BODY_5|0
+a project|DT NN|BODY_2:BODY_7|0
+( 2|-LRB- CD|BODY_6:BODY_9|0
+multiple cooperating/interacting agents|JJ VBG NNS|BODY_5|0
+step 3|NN CD|BODY_2:BODY_1|0
+section 5.4|NN CD|BODY_9|0
+the form|DT NN|BODY_6:BODY_11|0
+some|DT|ABSTRACT_2:BODY_8|0
+the requirements or goals|DT NNS CC NNS|BODY_3|0
+actual instances|JJ NNS|BODY_7|0
+software development knowledge|NN NN NN|BODY_6:BODY_5|0
+an incremental step|DT JJ NN|BODY_4|0
+use representation styles|NN NN NNS|BODY_5|0
+the uk department|DT NN NN|BODY_2|0
+these|DT|BODY_2:BODY_7|0
+specification development|NN NN|BODY_6:BODY_3|0
+one way|CD NN|BODY_6:BODY_4|0
+[53]|NN|BODY_4|0
+inter-viewpoint consistency checking and inconsistency handling|JJ NN NN CC NN NN|BODY_2|0
+a converse|DT NN|BODY_2|0
+each leaf agent|DT NN NN|BODY_5:BODY_2|0
+concern development actions|NN NN NNS|BODY_2|0
+a generic , computer-based prototype environment|DT JJ , JJ NN NN|BODY_2|0
+actions|NNS|BODY_5:BODY_4|0
+these stages|DT NNS|BODY_1|0
+their individual manipulation|PRP$ JJ NN|BODY_7|0
+an overall , coherent development process|DT JJ , JJ NN NN|BODY_6|0
+a specification ( c|DT NN -LRB- NN|BODY_2|0
+a hypertext-based environment|DT JJ NN|BODY_3|0
+radical  decentralisation|JJ JJ NN|BODY_5|0
+integer values|NN NNS|BODY_13|0
+viewpoint-based requirements|JJ NNS|BODY_6|0
+these relationships exist|DT NNS VBP|BODY_6|0
+a communication protocol|DT NN NN|BODY_2:BODY_4|0
+semantic relations|JJ NNS|BODY_8|0
+the clash|DT NN|BODY_11|1
+the interacting viewpoints|DT NN NNS|BODY_3|0
+the result|DT NN|BODY_1:BODY_8|0
+some assembly actions|DT NN NNS|BODY_4:BODY_7|0
+organisational  tools|JJ JJ NNS|BODY_4|0
+inter-perspective ( cf|JJ -LRB- NN|BODY_2|0
+the constructive design approach|DT JJ NN NN|BODY_2|0
+representations and processes|NNS CC NNS|BODY_2|0
+( from|-LRB- IN|BODY_3|0
+hewlett-packard research labs|JJ NN NNS|BODY_2|0
+paper michael jackson|NN NN NN|BODY_2|0
+the ng organisational nature|DT NN JJ NN|BODY_3|0
+the rules|DT NNS|BODY_1:BODY_4|0
+requirements elicitation|NNS NN|BODY_2|0
+button|NN|BODY_2|0
+relationship|NN|BODY_11:BODY_9|0
+later action|RB NN|BODY_6|0
+more domain-specific knowledge and rules|JJR JJ NN CC NNS|BODY_2|0
+its mark|PRP$ NN|BODY_4|0
+the existence|DT NN|BODY_6:BODY_9|0
+the need|DT NN|BODY_8|0
+object-oriented method|JJ NN|BODY_7|0
+capabilities|NNS|BODY_8|0
+such integration|JJ NN|BODY_2|0
+ specification|JJ NN|BODY_8|0
+mailboxes |NNS|BODY_2|0
+a more method-specific structural view|DT RBR JJ JJ NN|BODY_2|0
+the loss|DT NN|BODY_8|0
+therefore vehicles|RB NNS|BODY_4|0
+whose value|WP$ NN|BODY_12|0
+scratch|NN|BODY_2|0
+the text|DT NN|BODY_2|0
+the representation scheme|DT NN NN|BODY_6:BODY_4|0
+a smalltalk-based tool|DT JJ NN|BODY_5|0
+tabular collection notation definition fig|JJ NN NN NN NN|BODY_3|0
+viewpoint interfaces|NN NNS|BODY_3|0
+a comparison|DT NN|BODY_4|0
+two different viewpoints|CD JJ NNS|BODY_18|0
+needs|NNS|BODY_2|0
+a means|DT NN|BODY_3:BODY_8|0
+agent|NN|BODY_2:BODY_4|0
+separation|NN|BODY_3:BODY_4|0
+the same object|DT JJ NN|BODY_2|0
+add( source ) , remove( source )|JJ NN -RRB- , NN NN -RRB-|BODY_19|0
+much more significant [52]|RB RBR JJ NN|BODY_13|0
+the 15th international conference|DT JJ JJ NN|BODY_4|0
+processes|NNS|BODY_6:BODY_3|0
+library|NN|BODY_9|0
+granularity|NN|BODY_7|0
+the requirements|DT NNS|ABSTRACT_3:ABSTRACT_1|0
+a prob l|DT NN NN|BODY_4|0
+the work record|DT NN NN|BODY_3:BODY_8|0
+a different domain|DT JJ NN|BODY_23|0
+the as template|DT RB JJ|BODY_11:BODY_3|0
+section 5|NN CD|BODY_5:BODY_9|0
+composite systems|JJ NNS|ABSTRACT_1:BODY_8|0
+different viewpoint specifications|JJ NN NNS|BODY_3:BODY_4|0
+connected-to ) , disconnect( source|NN -RRB- , NN NN|BODY_20|0
+need|NN|BODY_14|0
+the appropriate level|DT JJ NN|BODY_8|0
+the partitioning|DT NN|BODY_3|0
+the loose coupling|DT JJ NN|BODY_4|0
+that describe relationships|IN VB NNS|BODY_5:BODY_8|0
+part-of ) , add( borrower ) , connect( library , staff , part-of ) , connect( library world|NN -RRB- , NN NN -RRB- , NN NN , NN , NN -RRB- , NN NN NN|BODY_10|0
+viewpoint interaction and integration|NN NN CC NN|BODY_4:ABSTRACT_7|0
+multiparadigm programming [40|JJ NN NN|BODY_9|0
+ button|NN NN|BODY_2|0
+types values icon bitmap assembly actions|NNS NNS NN JJ NN NNS|BODY_7|0
+significant size|JJ NN|BODY_3|0
+section 5.1|NN CD|BODY_5|0
+no single development process|DT JJ NN NN|BODY_4|0
+the as template and|DT IN JJ CC|BODY_16|0
+those|DT|BODY_3|0
+a viewpoint template|DT NN NN|BODY_1|0
+the anonymous reviewers|DT JJ NNS|BODY_3|0
+many development participants|JJ NN NNS|ABSTRACT_4:BODY_9|0
+other viewpoints|JJ NNS|BODY_6:BODY_4|0
+an objective|DT NN|BODY_6|0
+complementary participants|JJ NNS|BODY_3|0
+the development techniques|DT NN NNS|BODY_4:BODY_7|0
+further research|JJ NN|BODY_4|1
+[51] )|NN -RRB-|BODY_5|0
+individual templates|JJ NNS|BODY_3|0
+a viewpoint trigger action|DT NN NN NN|BODY_11:BODY_1|0
+types values icon bitmap object|NNS NNS NN NN NN|BODY_17|0
+an input|DT NN|BODY_6:BODY_10|0
+change|NN|BODY_11|0
+the key|DT NN|BODY_5:BODY_1|0
+the hyperview tool|DT NN NN|BODY_8|0
+proof-of-concept |NN|BODY_4|0
+a form|DT NN|BODY_7:BODY_9|0
+their feedback|PRP$ NN|BODY_4|0
+input destination action assembly actions|NN NN NN NN NNS|BODY_18|0
+agent )|NN -RRB-|BODY_6|0
+the simple examples|DT JJ NNS|BODY_3|0
+ check mode|JJ NN NN|BODY_2|0
+a broken line|DT JJ NN|BODY_1|0
+a viewpoint or relation|DT NN CC NN|BODY_2|0
+an invoked inter-viewpoint rule|DT VBN NN NN|BODY_1|0
+multiple methods and notations|JJ NNS CC NNS|ABSTRACT_2|0
+object )|NN -RRB-|BODY_16|0
+such interaction|JJ NN|BODY_2|0
+the mechanism|DT NN|BODY_1|0
+the meta-level rules|DT JJ NNS|BODY_1|0
+these inconsistencies|DT NNS|BODY_2|0
+these requirements|DT NNS|ABSTRACT_1|0
+a vp d|DT NN NN|BODY_15|0
+source|NN|BODY_14|0
+fetched server information|JJ NN NN|BODY_12|0
+notations|NNS|BODY_2|0
+necessarily )|RB -RRB-|BODY_4|0
+em|PRP|BODY_5|0
+l edge-based approach t specification|JJ JJ NN NN NN|BODY_4|0
+our examples|PRP$ NNS|BODY_4|0
+any point|DT NN|BODY_1:BODY_4|0
+pc/ms-windows|NNS|BODY_7|0
+different levels|JJ NNS|BODY_6|0
+) source input action output destination source input action output destination rule|-RRB- NN NN NN NN NN NN NN NN NN NN NN|BODY_11|0
+types values name icon string bitmap relation connected-to( object|NNS NNS NN NN NN NN NN JJ NN|BODY_15|0
+a software system|DT NN NN|BODY_6|0
+consistency checking and conflict resolution|NN NN CC NN NN|BODY_3|0
+consistency checking results|NN NN NNS|BODY_2|0
+a viewpoint specification|DT NN NN|BODY_3|0
+building viewpoint specifications|NN NN NNS|BODY_7|0
+an agenda|DT NN|BODY_3|1
+each having|DT VBG|BODY_7|0
+the development actions|DT NN NNS|BODY_4:BODY_10|0
+62]|JJ|BODY_10|0
+types and values|NNS CC NNS|BODY_8|0
+method users|NN NNS|BODY_3|0
+the early validation|DT JJ NN|BODY_5|0
+achieving integration|VBG NN|BODY_6|0
+individual viewpoint owners|JJ NN NNS|BODY_3|0
+another viewpoint|DT NN|BODY_7|0
+. f|. NN|BODY_3|0
+domain|NN|BODY_5|0
+types values name icon string bitmap|NNS NNS NN NN NN NN|BODY_2:BODY_1:BODY_3|0
+communication load overhead|NN NN NN|BODY_9|0
+( staff ) , connect( library world|-LRB- NN -RRB- , NN NN NN|BODY_8|0
+the visual software process language|DT JJ NN NN NN|BODY_3|0
+template t|JJ NN|BODY_6|0
+incorporate information and/or guidance residing|JJ NN CC NN NN|BODY_4|0
+interoperable , heterogeneous , multidatabase systems|JJ , JJ , JJ NNS|BODY_5|0
+the simple application|DT JJ NN|BODY_6|0
+object1|NNS|BODY_12:BODY_4|0
+a pluralistic|DT JJ|BODY_3|0
+publication|NN|BODY_5|0
+types values name icon string bitmap fig|NNS NNS NN NN NN NN NN|BODY_4|0
+definitions|NNS|BODY_7|0
+its place|PRP$ NN|BODY_10|1
+method construction and deployment|NN NN CC NN|BODY_10|0
+each rule|DT NN|BODY_3|0
+october 1994|JJ CD|BODY_8|0
+notation definition specification add( library world ) , add( library )|NN NN NN NN NN NN -RRB- , NN NN -RRB-|BODY_7|0
+strategy and process notation representation knowledge development process knowledge specification knowledge fig|NN CC NN NN NN NN NN NN NN NN NN NN|BODY_3|0
+a high rate|DT JJ NN|BODY_10|0
+viewpoint b|NN NN|BODY_4|0
+a sample viewpoint|DT NN NN|BODY_2|0
+individual viewpoint development processes|JJ NN NN NNS|BODY_5|0
+2 and 3|CD CC CD|BODY_1|0
+a goal-directed approach|DT JJ NN|BODY_3|0
+the viewer [45]|DT NN NN|BODY_3|0
+protocols|NNS|BODY_4|0
+viewpoint template|NN NN|BODY_3:BODY_4|0
+representation|NN|BODY_5|0
+a named agent|DT VBN NN|BODY_5:BODY_4:BODY_7:BODY_9|0
+locally developed and managed|RB JJ CC VBN|BODY_12|0
+the interference|DT NN|BODY_12|0
+types values name icon string integer bitmap relation part-of(agent|NNS NNS NN NN NN NN JJ NN NN|BODY_5|0
+various named objects|JJ VBN NNS|BODY_12|0
+negotiation and dialogue [20]|NN CC NN NN|BODY_3|0
+( templates )|-LRB- NNS -RRB-|BODY_6|0
+a ( domain|DT -LRB- NN|BODY_9|0
+this check|DT NN|BODY_2:BODY_1|0
+invocation and application|NN CC NN|BODY_3|0
+the object|DT NN|BODY_13|0
+the two viewpoint specifications|DT CD NN NNS|BODY_4|0
+doma|NN|BODY_6|0
+step 1|NN CD|BODY_1:BODY_4|0
+slots|NNS|BODY_6|0
+'s goals|POS NNS|BODY_14|0
+the development rationale|DT NN NN|BODY_7|0
+those basic actions|DT JJ NNS|BODY_2|0
+instantiate viewpoint templates|JJ NN NNS|BODY_4|0
+that values|IN NNS|BODY_5|0
+agent object|NN NN|BODY_14|0
+transition(|NNS|BODY_10|0
+viewpoint|NN|BODY_1:BODY_10:BODY_7|0
+l y-coup l|NN NN NN|BODY_7|0
+the tabular collection diagram|DT JJ NN NN|BODY_6|0
+conflicts|NNS|BODY_1:BODY_7|0
+the role|DT NN|BODY_3|0
+these inter-viewpoint rules|DT JJ NNS|BODY_4|0
+connect( publication|JJ NN|BODY_7|0
+the process models|DT NN NNS|BODY_3|0
+agreement|NN|BODY_5|0
+michael goedicke|VB NN|BODY_5|0
+the agent|DT NN|BODY_3:BODY_4|0
+configuration programming [32|NN NN NNS|BODY_4|0
+a relationship|DT NN|BODY_1:BODY_7|0
+no t show|DT NN NN|BODY_2|0
+every source|DT NN|BODY_3:BODY_7|0
+a special purpose petri|DT JJ NN NN|BODY_5|0
+spec. spec|NN NN|BODY_6|0
+l-vy [54]|JJ NNS|BODY_2|0
+this way|DT NN|BODY_4|0
+a correspondence|DT NN|BODY_2|0
+).name|NN|BODY_11|0
+while|IN|BODY_9|0
+the object modelling technique ( omt|DT NN JJ NN -LRB- NN|BODY_4|0
+connected-to( source|JJ NN|BODY_8|0
+the label |DT NN|BODY_4|0
+these assembly actions|DT NN NNS|BODY_2|0
+) viewpoint template|-RRB- NN NN|BODY_6:BODY_5|0
+local management|JJ NN|BODY_5|0
+each other|DT JJ|BODY_5:ABSTRACT_5|0
+interesting structural information|JJ JJ NN|BODY_4|0
+3|CD|BODY_5|0
+the resolution|DT NN|BODY_6|0
+a  name|DT JJ NN|BODY_4|0
+a single canonical representation|DT JJ JJ NN|BODY_5|0
+a tightly integrated toolset|DT RB VBN NN|BODY_2|0
+a variant|DT NN|BODY_4|0
+the entire core method|DT JJ NN NN|BODY_2|0
+heterogeneous , composite systems|JJ , JJ NNS|BODY_5|0
+multiple , heterogeneous viewpoints|JJ , JJ NNS|BODY_2|0
+= |SYM|BODY_10|0
+traditional software engineering methods|JJ NN NN NNS|BODY_2|0
+unix/x-windows )|NNS -RRB-|BODY_8|0
+[60|CD|BODY_3|0
+the granularity|DT NN|BODY_7|0
+relations|NNS|BODY_2|0
+such transfers|JJ NNS|BODY_2|0
+structure|NN|BODY_2|0
+these modes|DT NNS|BODY_2|0
+development actions|NN NNS|BODY_5:BODY_1|0
+sample|NN|BODY_2|0
+a multiple perspectives integration architecture|DT JJ NNS NN NN|BODY_2|0
+a transition arrow|DT NN NN|BODY_5|0
+the viewpoint framework [21]|DT NN NN NN|BODY_8|0
+viewpoint template descriptions|NN JJ NNS|BODY_2|0
+such an inconsistency|JJ DT NN|BODY_5|0
+a view  or perspective |DT NN RB CC NN|BODY_8|0
+one party|CD NN|BODY_13|0
+[14]|NN|BODY_2|0
+this point|DT NN|BODY_1:BODY_7|0
+dynamic semantics |JJ NNS|BODY_13|0
+an attribute ( e .g|DT NN -LRB- NN NN|BODY_3|0
+ieee transactions|JJ NNS|BODY_6|0
+therefore inter-viewpoint rules|RB JJ NNS|BODY_3|0
+the fixed views|DT JJ NNS|BODY_5|0
+a more detailed account ( and examples )|DT RBR JJ NN -LRB- CC NNS -RRB-|BODY_2|0
+development strategies|NN NNS|BODY_13|0
+structured configurations|JJ NNS|BODY_3|0
+partial representation knowledge|JJ NN NN|BODY_5|0
+dialogue|NN|BODY_4|0
+which information|WDT NN|BODY_3|0
+spec. [ assembly actions|NN JJ NN NNS|BODY_5|0
+inter-viewpoint rule application deals|JJ NN NN NNS|BODY_3|0
+multiple views|JJ NNS|TITLE_3:BODY_4|0
+this setting [16|DT NN NN|BODY_8|0
+connected-to )|NN -RRB-|BODY_6|0
+any communication protocol|DT NN NN|BODY_2|0
+that agent|DT NN|BODY_10|0
+five viewpoint slots|CD NN NNS|BODY_2|0
+step|NN|BODY_2|0
+concerns|NNS|BODY_5:BODY_4|0
+2 rule|CD NN|BODY_12|0
+a child node|DT NN NN|BODY_4|0
+that source agent|DT NN NN|BODY_7|0
+requirements specification|NNS NN|TITLE_4:BODY_4|0
+process modelling languages|NN JJ NNS|BODY_2|0
+requirements methods|NNS NNS|BODY_6|0
+the documentation|DT NN|BODY_7|0
+these actions|DT NNS|BODY_1|0
+different solutions|JJ NNS|BODY_10|0
+both viewpoints|DT NNS|BODY_6:BODY_8|0
+others|NNS|BODY_6:BODY_1|0
+viewpoint types|NN NNS|BODY_5|0
+model agent|JJ NN|BODY_6|0
+a data flow diagram|DT NN NN NN|BODY_3|0
+couples|NNS|BODY_4|0
+its manipulation|PRP$ NN|BODY_5|0
+the issue|DT NN|BODY_4|0
+contradictory requirements|JJ NNS|BODY_6|0
+methods and tools|NNS CC NNS|BODY_12|0
+the multiple specification fragments|DT JJ NN NNS|BODY_16|0
+the feedback|DT NN|BODY_4|0
+intra|NN|BODY_3|0
+individual viewpoints|JJ NNS|BODY_3|0
+lead|NN|BODY_7|0
+different developers|JJ NNS|BODY_4|0
+[35|CD|BODY_3|0
+munich , germany )|JJ , JJ -RRB-|BODY_2|0
+a generic manner|DT JJ NN|BODY_3|0
+library world |NN NN|BODY_5:BODY_3|0
+the purposes|DT NNS|BODY_5|0
+a software development method|DT NN NN NN|BODY_3|0
+all source viewpoints|DT NN NNS|BODY_4|0
+agents|NNS|BODY_8|0
+all-sources -connected-to-inputs|NNS NNS|BODY_2|0
+functional specifications|JJ NNS|BODY_8|0
+the process model|DT NN NN|BODY_2|0
+the semantics|DT NNS|BODY_2|0
+editor and simulator|NN CC NN|BODY_6|0
+the way|DT NN|BODY_4:BODY_9|0
+inter-viewpoint check action|JJ NN NN|BODY_3|0
+hypothetical viewpoints|JJ NNS|BODY_2|0
+viewpoint work records|NN NN NNS|BODY_2|0
+every destination|DT NN|BODY_2|0
+the viewpoint template|DT NN NN|BODY_5|0
+traditional problems|JJ NNS|BODY_8|0
+specifier ) actions|NN -RRB- NNS|BODY_3|0
+source objects|NN NNS|BODY_7|0
+conflicts and inconsistencies|NNS CC NNS|BODY_3|0
+more detail|JJR NN|BODY_4|0
+knowledge source|NN NN|BODY_5|0
+a development technique|DT NN NN|BODY_3|0
+feather [19]|JJ NN|BODY_5|0
+the requirements engineering phase|DT NNS NN NN|BODY_2|0
+many simple viewpoint templates|JJ JJ NN NNS|BODY_4|0
+itself|PRP|BODY_2|0
+cda ) [33]|NN -RRB- NN|BODY_3|0
+communication|NN|BODY_3|0
+hierarchical structuring|JJ NN|BODY_3|0
+ state|VBN NN|BODY_8|0
+the transition  button-press |DT NN VBN NN|BODY_12|0
+objectworks/smalltalk|NN|BODY_4|0
+this quantifier|DT NN|BODY_3|0
+denotes|VBZ|BODY_22|0
+process.name|NN|BODY_8|0
+the same domain ( e .g.|DT JJ NN -LRB- NN NN|BODY_9|0
+immediate resolution|JJ NN|BODY_5|0
+the five slots|DT CD NNS|BODY_4|0
+a denotes|DT VBZ|BODY_16|0
+any domain|DT NN|BODY_17|0
+individual partial specification components|JJ JJ NN NNS|BODY_2|0
+a well|DT RB|BODY_7|0
+context-sensitive aspects|JJ NNS|BODY_9|0
+the system specification|DT NN NN|BODY_5|0
+its own particular process modelling or process programming [48] language|PRP$ JJ JJ NN JJ CC NN NN JJ NN|BODY_3|0
+another directly (|DT RB -LRB-|BODY_7|0
+trade and industry (dti|NN CC NN NNS|BODY_3|0
+additional rationale or explanation|JJ NN CC NN|BODY_3|0
+a tuple|DT NN|BODY_3|0
+the destination viewpoint template|DT NN NN NN|BODY_4|0
+invocation|NN|BODY_4|0
+the transferred information|DT VBN NN|BODY_8|0
+a t t r|DT NN NN NN|BODY_9|0
+vps|NNS|BODY_6|0
+an infrastructure|DT NN|BODY_3|0
+the same domain|DT JJ NN|BODY_4|0
+composite system design|JJ NN NN|BODY_4|0
+program transformation|NN NN|BODY_2|0
+a common , centralised ( bottle-necked ) data structure|DT JJ , JJ -LRB- JJ -RRB- NNS NN|BODY_6|0
+a further distinction|DT JJ NN|BODY_2|0
+a one-to-one relationship|DT JJ NN|BODY_2|0
+redundant |JJ|BODY_6|0
+the same template|DT JJ NN|BODY_9|0
+whose invocation and application|WP$ NN CC NN|BODY_5|0
+the definition stage|DT NN NN|BODY_6|0
+each z schema|DT FW FW|BODY_3|0
+inter-viewpoint rule application viewpoint trigger action inter-viewpoint relationship|JJ NN NN NN NN NN JJ NN|BODY_4|0
+a general model|DT JJ NN|ABSTRACT_6|0
+csp [28|NN NNS|BODY_2|0
+natural language text|JJ NN NN|BODY_4|0
+important roles|JJ NNS|BODY_4|0
+development (|NN -LRB-|BODY_20|0
+the syntactic rules|DT NN NNS|BODY_7|0
+a technique|DT NN|BODY_4|0
+ configuration  or management  viewpoints|JJ NN JJ CC NN JJ NNS|BODY_3|0
+constants|NNS|BODY_4|0
+the overall system|DT JJ NN|BODY_19|0
+multiple development participants|JJ NN NNS|BODY_3|0
+the user|DT NN|BODY_11|0
+a single viewpoint|DT JJ NN|BODY_5|0
+a case tool|DT NN NN|BODY_5|0
+a need|DT NN|BODY_2|0
+overlap |JJ|BODY_3|0
+every source and destination|DT NN CC NN|BODY_5|0
+rule application|NN NN|BODY_13|0
+language translation|NN NN|BODY_5|0
+inconsistency fig|NN NN|BODY_4|0
+expressing , invoking and applying|VBG , VBG CC VBG|BODY_2|0
+the controlled transfer|DT JJ NN|BODY_2|0
+the viewpoint work record|DT NN NN NN|BODY_5|0
+the potential practical problems|DT JJ JJ NNS|BODY_3|0
+vscs|NNS|BODY_3|0
+between two viewpoints|IN CD NNS|BODY_3|0
+the consequences|DT NNS|BODY_4|0
+informal viewpoint template descriptions|JJ NN JJ NNS|BODY_3|0
+both our approach and hp|DT PRP$ NN CC NN|BODY_6|0
+a matter|DT NN|BODY_5|0
+the string values|DT NN NNS|BODY_11|0
+an additional vehicle|DT JJ NN|BODY_4|0
+multiple overlapping views|JJ JJ NNS|BODY_7|0
+the term viewpoint|DT NN NN|BODY_5|1
+each stage|DT NN|BODY_6:BODY_1|0
+[|JJ|BODY_7|0
+a very simple process model|DT RB JJ NN NN|BODY_2|0
+partial requirements specifications|JJ NNS NNS|ABSTRACT_4|0
+the method engineering activities|DT NN NN NNS|BODY_5|0
+axel van lamsweerde|NN NN NN|BODY_3|0
+inter-viewpoint check actions viewpoint trigger actions process model specification add( library ) , add( borrower ) , add( publication ) , connect( library|JJ NN NNS NN NN NNS NN NN NN JJ NN -RRB- , JJ NN -RRB- , JJ NN -RRB- , JJ NN|BODY_4|0
+a wide area network|DT JJ NN NN|BODY_4|0
+the term agent |DT NN NN|BODY_9|1
+these same rules|DT JJ NNS|BODY_6|0
+method and tool integration and integrated project support environments|NN CC NN NN CC JJ NN NN NNS|BODY_3|0
+the proceedings|DT NNS|BODY_3|0
+multiple process models|JJ NN NNS|BODY_5|0
+the method engineering process|DT NN NN NN|BODY_2|0
+attribute1|NNS|BODY_11:BODY_3|0
+the viewpoints context|DT NNS NN|BODY_4|0
+figs|NNS|BODY_1:BODY_3:BODY_8|0
+ inconsistency|NN NN|BODY_8|0
+a concurrency control mechanism|DT NN NN NN|BODY_5|0
+many times|JJ NNS|BODY_6|0
+the  borrower  agent )|DT NN NN NN NN -RRB-|BODY_2|0
+anytime|RB|BODY_5|0
+several types|JJ NNS|BODY_6|0
+the issues|DT NNS|BODY_4|0
+whose specifications|WP$ NNS|ABSTRACT_3|0
+some existence|DT NN|BODY_8|0
+heterogeneous components|JJ NNS|ABSTRACT_2|0
+this viewpoints framework|DT NNS NN|ABSTRACT_5|0
+a kind|DT NN|BODY_2|0
+a method engineer|DT NN NN|BODY_2|0
+attribute|NN|BODY_5|0
+apple macintosh|NN NN|BODY_6|0
+a viewpoint |DT NN|BODY_4|0
+the expression and enactment|DT NN CC NN|BODY_7|0
+his contributions|PRP$ NNS|BODY_6|0
+9|CD|BODY_14|0
+inconsistent|NN|BODY_4|0
+easier|RBR|BODY_5|0
+viewpoint-oriented development process|JJ NN NN|BODY_3|0
+this toolset|DT NN|BODY_2|0
+the development p r oce|DT NN NN NN NN|BODY_3|0
+problem decomposition|NN NN|BODY_2|0
+multiparadigm specification [63|JJ NN NNS|BODY_8|0
+the actions|DT NNS|BODY_15|0
+each viewpoint process model|DT NN NN NN|BODY_7|0
+d , such that|JJ , JJ IN|BODY_10|0
+behaviour analysis|NN NN|BODY_14|0
+local management and distribution|JJ NN CC NN|BODY_3|0
+' process models|POS NN NNS|BODY_3|0
+research problems|NN NNS|BODY_3|0
+the effectiveness|DT NN|BODY_5|0
+consistency and transfer information )|NN CC NN NN -RRB-|BODY_6|0
+approach|NN|BODY_6|0
+software engineering fields|NN NN NNS|BODY_3|0
+the tabular collection specification|DT JJ NN NN|BODY_6|0
+template rules|JJ NNS|BODY_4|0
+vp(tc|NN|BODY_3|0
+a l - spec|DT JJ : NN|BODY_4|0
+a conflict|DT NN|BODY_11|0
+a particular point|DT JJ NN|BODY_6|0
+inter-viewpoint rule definition inter-viewpoint rules|JJ NN NN JJ NNS|BODY_2|0
+multiple perspectives problem|JJ NNS NN|BODY_4|0
+the structuring|DT NN|BODY_5|0
+the functional decomposition|DT JJ NN|BODY_5|0
+two different views|CD JJ NNS|BODY_8|0
+. collection diagram|. NN NN|BODY_3|0
+method definition|NN NN|BODY_3|0
+the partial specifications|DT JJ NNS|BODY_3|0
+two different tabular collection diagrams|CD JJ JJ NN NNS|BODY_17|0
+e .g. , conceptual and ontological relationships|NN NNP , JJ CC JJ NNS|BODY_3|0
+p (|NN -LRB-|BODY_11|0
+objects and relations|NNS CC NNS|BODY_6|0
+agent agent|NN NN|BODY_4|0
+a dot (|DT NN -LRB-|BODY_2|0
+an overview|DT NN|BODY_2|0
+that |DT|BODY_3|0
+uk) [3]|NNS NN|BODY_3|0
+different types|JJ NNS|BODY_3|0
+a  template browser |DT JJ JJ NN|BODY_3|0
+well-formedness )|NN -RRB-|BODY_10|0
+a reusable description|DT JJ NN|BODY_2|0
+various components|JJ NNS|ABSTRACT_4|0
+the core method|DT NN NN|BODY_5|0
+the generic work plan|DT JJ NN NN|BODY_4|0
+a state transition diagram )|DT NN NN NN -RRB-|BODY_6|0
+barghouti [5]|NN NN|BODY_3|0
+a client-server model|DT NN NN|BODY_6|0
+the identification|DT NN|BODY_7|0
+prisma|NN|BODY_3|0
+the viewpoint framework|DT NN NN|BODY_3|0
+an equal value name attribute|DT JJ NN NN NN|BODY_13|0
+pattern|NN|BODY_4|0
+the destination agent|DT NN NN|BODY_9|0
+an output|DT NN|BODY_5|0
+method engineering method use fig|NN NN NN NN NN|BODY_9|0
+any large industrial setting|DT JJ JJ NN|BODY_3|0
+the concerns|DT NNS|BODY_3|0
+7|CD|BODY_10|0
+every name attribute|DT NN NN|BODY_6|0
+certain types|JJ NNS|BODY_6|0
+activities|NNS|BODY_2|0
+this template|DT NN|BODY_5|0
+the class|DT NN|BODY_5|0
+a structural view|DT JJ NN|BODY_4|0
+an example|DT NN|BODY_15|0
+inter-viewpoint check actions viewpoint|JJ NN NNS NN|BODY_4|0
+a  process |DT JJ NN|BODY_2|0
+the discretion|DT NN|BODY_2|0
+a tabular viewpoint viewpoint|DT JJ NN NN|BODY_8|0
+its template|PRP$ NN|BODY_2|0
+the v|DT NN|BODY_3|0
+an understanding|DT NN|BODY_4|0
+a tabular collection form|DT JJ NN NN|BODY_7|0
+a common representation|DT JJ NN|BODY_3|0
+overlap , complement|NN , NN|ABSTRACT_4|0
+) and entailment  (-)|-RRB- CC NN VB NN|BODY_6|0
+the instantiation|DT NN|BODY_3|0
+an actor|DT NN|BODY_4|0
+role  or agent |NN RB CC NN|BODY_6|0
+the style|DT NN|BODY_5|0
+connected-to( output|JJ NN|BODY_9|0
+the structure|DT NN|BODY_5|0
+the development life-cycle and detection|DT NN NN CC NN|BODY_3|0
+a particular ( named ) domain|DT JJ -LRB- VBN -RRB- NN|BODY_15|0
+template construction time|NN NN NN|BODY_18|0
+their own petri nets-based method|PRP$ JJ NN JJ NN|BODY_4|0
+settings|NNS|BODY_3|0
+inconsistency handling rules|NN VBG NNS|BODY_7|0
+communication models|NN NNS|BODY_3|0
+d )|JJ -RRB-|BODY_4|0
+this case|DT NN|BODY_3|0
+tabular data flow forms|JJ NNS NN NNS|BODY_4|0
+requirements specifications|NNS NNS|BODY_7|0
+valuable experience|JJ NN|BODY_6|0
+destination viewpoint success|NN NN NN|BODY_5|0
+another tabular collection diagram|DT JJ NN NN|BODY_7|0
+the tabular collection|DT JJ NN|BODY_11|0
+semi-formal representation schemes|JJ NN NNS|BODY_7|0
+[ assembly actions|JJ NN NNS|BODY_4|0
+coredemo )|NN -RRB-|BODY_3|0
+a viewpoint specification state|DT NN NN NN|BODY_4|0
+the process|DT NN|BODY_2|0
+distributable objects|JJ NNS|BODY_8|0
+process descriptions|NN NNS|BODY_4|0
+( rule 2|-LRB- NN CD|BODY_4|0
+each viewpoint work plan|DT NN NN NN|BODY_2|0
+nodes|NNS|BODY_3|0
+input ).input.name|NN NN|BODY_6|0
+deploy simple representation schemes|NN JJ NN NNS|BODY_5|0
+formal techniques|JJ NNS|BODY_12|0
+) , add(|-RRB- , JJ|BODY_8|0
+the incremental construction|DT JJ NN|BODY_5|0
+i .e|FW FW|BODY_21|0
+classical logic|JJ NN|BODY_3|0
+the representation schemes|DT NN NNS|BODY_5|0
+the transfer mode|DT NN NN|BODY_2|0
+[16]|NNP|BODY_5|0
+the notions|DT NNS|BODY_2|0
+four generic categories|CD JJ NNS|BODY_4|0
+requirements analysis and elicitation|NNS NN CC NN|BODY_3|0
+examples|NNS|BODY_3|0
+such process models|JJ NN NNS|BODY_2|0
+the same problem|DT JJ NN|BODY_11|0
+the startup window|DT JJ NN|BODY_3|0
+another transfer )|DT NN -RRB-|BODY_6|0
+what circumstances|WP NNS|BODY_8|0
+destination.name|NN|BODY_7|0
+many , parallel evolutionary transformations |JJ , JJ JJ NNS|BODY_6|0
+an interest|DT NN|BODY_4|0
+respect|NN|BODY_18|0
+their implementations|PRP$ NNS|BODY_4|0
+a real-time|DT NN|BODY_4|0
+each vp|DT NN|BODY_8|0
+checks|NNS|BODY_4|0
+that attribute one|DT NN NN|BODY_7|0
+invocation step 3|NN NN CD|BODY_2|0
+distributed systems|VBN NNS|BODY_5|0
+agent.name|NN|BODY_4|0
+any conflicts , discrepancies or inconsistencies|DT NNS , NNS CC NNS|BODY_3|0
+the problem|DT NN|BODY_3|0
+multidatabases [6]|NNS NNS|BODY_3|0
+individual viewpoint work plans|JJ NN NN NNS|BODY_4|0
+more than one data model or schema|JJR IN CD NN NN CC NN|BODY_4|0
+multidatabases|NNS|BODY_1|0
+problem-specific ( domain-specific ) viewpoints|JJ -LRB- JJ -RRB- NNS|BODY_1|0
+the work|DT NN|BODY_2|0
+inconsistency respectable |NN JJ|BODY_5|0
+the viewpoint domain|DT NN NN|BODY_29|0
+this development process|DT NN NN|BODY_2|0
+all these cases|PDT DT NNS|BODY_5|0
+inconsistency handling )|NN NN -RRB-|BODY_3|0
+the above form|DT JJ NN|BODY_2|0
+ewer|NN|BODY_4|0
+its scope|PRP$ NN|BODY_4|0
+development process knowledge and specification knowledge|NN NN NN CC NN NN|BODY_6|0
+a statement|DT NN|BODY_2|0
+method construction|NN NN|BODY_2|0
+( 3|-LRB- CD|BODY_14|0
+no distinction|DT NN|BODY_2|0
+our work|PRP$ NN|ABSTRACT_5|0
+scaling-up|NN|BODY_4|0
+some aspect|DT NN|BODY_5|0
+a computer-based tool|DT JJ NN|BODY_7|0
+the complexity|DT NN|BODY_3|0
+14|CD|BODY_2|0
+computer-based tools|JJ NNS|BODY_4|0
+specification fragments|NN NNS|BODY_9|0
+child and parent|NN CC NN|BODY_2|0
+the primitive  work plan actions|DT JJ IN NN NN NNS|BODY_9|0
+an earlier version|DT JJR NN|BODY_1:BODY_4|0
+platforms|NNS|BODY_4|0
+ainsworth|NN|BODY_4|0
+rule definition time|NN NN NN|BODY_2|0
+a source|DT NN|BODY_3|0
+service recipients|NN NNS|BODY_3|0
+specific stages|JJ NNS|BODY_2|0
+a collection|DT NN|BODY_2|0
+local viewpoint process|JJ NN NN|BODY_6|0
+inter-viewpoint specification information inconsistent data meta level inconsistency handling|JJ NN NN NN NNS NN NN NN NN|BODY_3|0
+an interpretation|DT NN|BODY_8|0
+hold|NN|BODY_10|0
+new viewpoints|JJ NNS|BODY_2|0
+the pa r t|DT NN NN NN|BODY_3|0
+the applicability|DT NN|BODY_4|0
+a development rationale|DT NN NN|BODY_2|0
+a simple toolset|DT JJ NN|BODY_2|0
+simple graphical diagramming techniques|JJ JJ VBG NNS|BODY_2|0
+inter-viewpoint rule definition inter-viewpoint rule|JJ NN NN JJ NN|BODY_3|0
+l oca l l y|JJ CC JJ JJ NN|BODY_4|0
+viewpoints )|NNS -RRB-|BODY_4|0
+1 describes|CD VBZ|BODY_5|0
+the output|DT NN|BODY_7|0
+the same name|DT JJ NN|BODY_5|0
+what mechanisms|WP NNS|BODY_4|0
+differs|NNS|BODY_5|0
+notation and process|NN CC NN|BODY_4|0
+application rule|NN NN|BODY_3|0
+requirements engineering views|NNS NN NNS|BODY_2|0
+the same template ) and inter-template rules|DT JJ JJ -RRB- CC JJ NNS|BODY_7|0
+10|CD|BODY_5|0
+pairs|NNS|BODY_4|0
+finer-grain actions|JJ NNS|BODY_6|0
+the case studies|DT NN NNS|BODY_5|0
+the original input|DT JJ NN|BODY_10|0
+different components|JJ NNS|BODY_3|0
+some checks|DT NNS|BODY_8|0
+inconsistency management|NN NN|ABSTRACT_6:BODY_8|0
+conflict resolution strategy|NN NN NN|BODY_8|0
+a choice|DT NN|BODY_14|0
+every partial-spec-1|DT NN|BODY_3|0
+the different development techniques and notations|DT JJ NN NNS CC NNS|BODY_5|0
+these methods|DT NNS|BODY_13|0
+hp|NN|BODY_5|0
+a corresponding agent|DT JJ NN|BODY_4|0
+one agent|CD NN|BODY_8|0
+the problem domain|DT NN NN|BODY_9|0
+a consequence|DT NN|BODY_2|0
+13|CD|BODY_2|0
+(eg|NNP|BODY_7|0
+the agent hierarchy specification|DT NN NN NN|BODY_5|0
+a new agent|DT JJ NN|BODY_4|0
+the destination viewpoint|DT NN NN|BODY_10|0
+corresponding objects and relations|JJ NNS CC NNS|BODY_4|0
+( which|-LRB- WDT|BODY_5|0
+the regions|DT NNS|BODY_2|0
+6 specification ( configuration ) structure|CD NN -LRB- NN -RRB- NN|BODY_3|0
+integrated case tool support|JJ NN NN NN|BODY_3|0
+inter-viewpoint actions|JJ NNS|BODY_1|0
+these activities|DT NNS|BODY_1|0
+these issues|DT NNS|BODY_1|0
+this example|DT NN|BODY_3|0
+viewpoint 1 viewpoint 2 viewpoint 3 viewpoint 5 system specification viewpoint|NN CD NN CD NN CD NN CD NN NN NN|BODY_1|0
+viewpoint-oriented method construction and viewpoint-oriented requirements specification|JJ NN NN CC JJ NNS NN|BODY_3|0
+a viewpoint ) ,|DT NN -RRB- ,|BODY_24|0
+an account|DT NN|BODY_5|0
+the breaking|DT NN|BODY_9|0
+the framework and associated interaction model|DT NN CC JJ NN NN|BODY_3|0
+sundry representation schemes|JJ NN NNS|BODY_11|0
+the deployment|DT NN|BODY_9|0
+the extensive constructive comments|DT JJ JJ NNS|BODY_2|0
+the transformation|DT NN|BODY_7|0
+every input|DT NN|BODY_2|0
+the same thing|DT JJ NN|BODY_5|0
+the z method|DT FW NN|BODY_2|0
+evaluation|NN|BODY_13|0
+its individual specification development process|PRP$ JJ NN NN NN|BODY_4|0
+ borrower |NNP NN|BODY_3|0
+( t|-LRB- NN|BODY_4|0
+the status|DT NN|BODY_4|0
+state-transition diagram|NN NN|BODY_2|0
+( specifies|-LRB- NNS|BODY_28|0
+turn|NN|BODY_8|0
+results|NNS|BODY_5|0
+a tc template|DT NN NN|BODY_5:BODY_4|0
+these relationships ( e .g.|DT NNS -LRB- NN NN|BODY_5|0
+its viewpoint owner|PRP$ NN NN|BODY_2|0
+various specification fragments|JJ NN NNS|BODY_3|0
+the information processing entities|DT NN NN NNS|BODY_7|0
+at least one|IN JJS CD|BODY_7|0
+informal representations|JJ NNS|BODY_3|0
+higher level |JJR NN|BODY_2|0
+step 1 )|NN CD -RRB-|BODY_4|0
+the in-viewpoint consistency|DT JJ NN|BODY_6|0
+logical formulae|JJ NNS|BODY_4|0
+the methods|DT NNS|BODY_7|0
+vp s|NN VBZ|BODY_11|0
+at least one viewpoint|IN JJS CD NN|BODY_9|0
+the decentralisation|DT NN|BODY_4|0
+invoking and|VBG CC|BODY_5|0
+a universal formalism|DT JJ NN|BODY_4|0
+a philosophy|DT NN|BODY_7|0
+gabbay and hunter [24]|NN CC NN NN|BODY_3|0
+an outline description|DT NN NN|BODY_5|0
+1 )|CD -RRB-|BODY_2|0
+a valid relationship|DT JJ NN|BODY_6|0
+a logic-based framework|DT JJ NN|BODY_6|0
+such systems|JJ NNS|ABSTRACT_2|0
+ static semantics|RB JJ NNS|BODY_4|0
+the tabular collection (tc ) template|DT JJ NN NN -RRB- NN|BODY_4|0
+simple fragments|JJ NNS|ABSTRACT_2|0
+process and strategy|NN CC NN|BODY_11|0
+specify|VB|BODY_7|0
+ viewpoints|JJ NNS|BODY_3|0
+the method construction stage|DT NN NN NN|BODY_4|1
+viewpoint development process library world library borrowers administrator librarian v22 catalogue assembly actions|NN NN NN NN NN NN NNS NN NN NN NN NN NNS|BODY_2|0
+the activities|DT NNS|BODY_2|0
+three approaches|CD NNS|BODY_3|0
+the inter-viewpoint check actions part|DT JJ NN NNS NN|BODY_2|0
+8|CD|BODY_7|0
+an object-based framework|DT JJ NN|BODY_2|0
+straddles|NNS|BODY_3|1
+the fore|DT NN|BODY_4|0
+some viewpoints|DT NNS|BODY_2|0
+tolerating inconsistency|JJ NN|BODY_2|0
+8a|NN|BODY_3|0
+a partial identifier or label|DT JJ NN CC NN|BODY_23|0
+simple binary relations ( e .g|JJ JJ NNS -LRB- NN NN|BODY_8|0
+decompose  and backtrack|NN NN CC NN|BODY_4|0
+such a check|JJ DT NN|BODY_6|0
+various stages|JJ NNS|BODY_10|0
+a switch|DT NN|BODY_3|0
+concern|NN|BODY_16|0
+this framework|DT NN|BODY_2|0
+viewpoint )|NN -RRB-|BODY_4|0
+viewpoint plans|NN NNS|BODY_3|0
+checking and integrating multiple viewpoint representation styles|VBG CC VBG JJ NN NN NNS|BODY_6|0
+the usually informal ways|DT RB JJ NNS|BODY_9|0
+inter-viewpoint checks|JJ NNS|BODY_4|0
+a requirements method|DT NNS NN|BODY_3|0
+the  constrained |DT JJ JJ|BODY_5|0
+a viewpoint type |DT NN NN|BODY_2|0
+rule invocation|VB NN|BODY_10|0
+the process-oriented |DT JJ|BODY_12|0
+the requirements specification method core 43]|DT NNS NN NN NN NNS|BODY_4|0
+the viewpoint specification|DT NN NN|BODY_37|0
+an alternative mode|DT JJ NN|BODY_3|0
+expressing and enacting inter-viewpoint relationships-the vehicles|VBG CC VBG JJ NN NNS|ABSTRACT_4|0
+the inconsistent source or destination|DT NN NN CC NN|BODY_8|0
+its terminology|PRP$ NN|BODY_7|1
+successful inter-viewpoint communication|JJ JJ NN|BODY_2|0
+the tc viewpoint template work plan|DT NN NN JJ NN NN|BODY_4|0
+their relationships )|PRP$ NNS -RRB-|BODY_5|0
+any two partial specifications|DT CD JJ NNS|BODY_2|0
+basic editing  actions|JJ NN NNS NNS|BODY_3|0
+an inconsistency|DT NN|BODY_7|0
+in-viewpoint actions|JJ NNS|BODY_3|0
+only those concerns or criteria|RB DT NNS CC NNS|BODY_3|0
+the actual relations|DT JJ NNS|BODY_5|0
+the  method|DT NN NN|BODY_1|0
+logical connectives|JJ NNS|BODY_8|0
+traceability|NN|BODY_4|0
+inter-viewpoint rule|NN NN|BODY_2|0
+two modes|CD NNS|BODY_2|0
+place|NN|BODY_8|0
+the area|DT NN|BODY_15|0
+the leaf agents|DT NN NNS|BODY_7|0
+large numbers|JJ NNS|BODY_6|0
+the scope|DT NN|BODY_6|0
+many simple|JJ JJ|BODY_2|0
+the other|DT JJ|BODY_5:BODY_10|0
+every source or destination|DT NN CC NN|BODY_2|0
+the creation|DT NN|BODY_8|0
+various guises|JJ NNS|BODY_3|0
+means|NNS|BODY_6|0
+( overlapping or interacting ) specifications residing|-LRB- NN CC NN -RRB- NNS NN|BODY_4|0
+a predefined library|DT JJ NN|BODY_2|0
+a particular template )|DT JJ NN -RRB-|BODY_11|0
+interest|NN|BODY_5|0
+a method engineering point|DT NN NN NN|BODY_2|0
+one viewpoint specification|CD NN NN|BODY_6|0
+some way|DT NN|BODY_8|0
+most cases|JJS NNS|BODY_3|0
+a tabular collection viewpoint template|DT JJ NN NN NN|BODY_5|0
+one such modification|CD JJ NN|BODY_1|0
+other transformation services|JJ NN NNS|BODY_5|0
+source input action output destination library publication|NN NN NN NN NN NN NN|BODY_1|0
+every viewpoint|DT NN|BODY_4|0
+'s development|POS NN|BODY_6|0
+patterns|NNS|BODY_10|0
+other words|JJ NNS|BODY_1|0
+the development state and history|DT NN NN CC NN|BODY_36|0
+fy i|JJ NN|BODY_9|0
+a single , simple representation scheme|DT JJ , JJ NN NN|BODY_3|0
+d|VBN|BODY_4|0
+( 1|-LRB- CD|BODY_5|0
+structured analysis|JJ NN|BODY_2|0
+very little|RB JJ|BODY_3|0
+the different relationships|DT JJ NNS|BODY_4|0
+further viewpoints|JJ NNS|BODY_10|0
+a named source or destination|DT VBN NN CC NN|BODY_7|0
+such databases|JJ NNS|BODY_4|0
+principle|NN|BODY_2|0
+requirements engineers|NNS NNS|BODY_3|0
+all-agents-connected , no-name-clashes ,|JJ , JJ ,|BODY_9|0
+an inter-viewpoint communication protocol|DT JJ NN NN|BODY_16|0
+conclusions|NNS|BODY_1|0
+connected-to ) ,|NN -RRB- ,|BODY_22|0
+different developers [46]|JJ NNS NN|BODY_10|0
+modal action logic [11]|JJ NN NN NN|BODY_8|0
+motivation heterogeneity|NN NN|BODY_1|0
+part-of ) ,|NN -RRB- ,|BODY_12|0
+thanks|NNS|BODY_1|0
+the source viewpoint domain )|DT NN NN NN -RRB-|BODY_18|0
+these need|DT NN|BODY_1|0
+'s representation|POS NN|BODY_4|0
+is|VBZ|BODY_2|0
+automated tool support|VBN NN NN|BODY_7|0
+an automatic teller machine|DT JJ NN NN|BODY_2|0
+either|RB|BODY_7|0
+a tabular collection template|DT JJ NN NN|BODY_9|0
+different methods|JJ NNS|BODY_5|0
+an as template|DT IN JJ|BODY_15|0
+the solutions|DT NNS|BODY_5|0
+these two specific viewpoints|DT CD JJ NNS|BODY_8|0
+the organisational and structuring principles|DT JJ CC JJ NNS|BODY_3|0
+contradictions|NNS|BODY_4|0
+a variation|DT NN|BODY_3|0
+the inclusion|DT NN|BODY_1|0
+each template|DT JJ|BODY_4|0
+general ( fig|JJ -LRB- NN|BODY_7|0
+each agent|DT NN|BODY_2|0
+viewpoint resolution  [36]|NN NN RB NN|BODY_7|0
+the tools|DT NNS|BODY_11|0
+particular values|JJ NNS|BODY_1|0
+the method application stage|DT NN NN NN|BODY_7|1
+f orm information|NN NN NN|BODY_3|0
+the general |DT JJ|BODY_2|0
+many others [22]|JJ NNS NNS|BODY_5|0
+many cases|JJ NNS|BODY_1|0
+account|NN|BODY_5|0
+some conflict resolution|DT NN NN|BODY_3|0
+nomenclature|NN|BODY_12|1
+these partial specifications|DT JJ NNS|BODY_9|0
+section 6.1 )|NN CD -RRB-|BODY_9|0
+inconsistency [4|NN NNS|BODY_1|0
+the above actions|DT JJ NNS|BODY_8|0
+the same generic ( multiple perspectives ) problem|DT JJ JJ -LRB- JJ NNS -RRB- NN|BODY_12|0
+specification partial system description development history area|NN JJ NN NN NN NN NN|BODY_1|0
+overlapping and related research work|VBG CC VBN NN NN|BODY_1|1
+text-based notations )|JJ NNS -RRB-|BODY_10|0
+concerns principle|NNS NN|BODY_8|0
+our setting|PRP$ NN|BODY_3|0
+the root|DT NN|BODY_3|0
+a source agent|DT NN NN|BODY_3|0
+the project|DT NN|BODY_9|0
+tool|NN|BODY_1|0
+d) )|NN -RRB-|BODY_8|0
+the work plan actions|DT NN NN NNS|BODY_40|0
+connected-to(|NN|BODY_4|0
+their local viewpoint specifications|PRP$ JJ NN NNS|BODY_6|0
+niskier et al|JJ NNP NN|BODY_1|0
+the application|DT NN|BODY_2|0
+syntactic relations|JJ NNS|BODY_2|0
+t|NN|BODY_6|0
+certain numerical limits|JJ JJ NNS|BODY_14|0
+{ d p|LS VBD NN|BODY_12|0
+the viewpoint trigger actions part|DT NN NN NNS NN|BODY_9|0
+the tc template|DT NN NN|BODY_4|0
+different underlying data models or schemas|JJ JJ NNS NNS CC NNS|BODY_6|0
+( viewpoints )|-LRB- NNS -RRB-|BODY_8|0
+the physical transfer|DT JJ NN|BODY_3|0
+such participants|JJ NNS|BODY_6|0
+the various transfers and transformations|DT JJ NNS CC NNS|BODY_3|0
+every output|DT NN|BODY_4|0
+necessary|JJ|BODY_5|0
+related issues|VBN NNS|BODY_1|0
+their tailorability and reusability|PRP$ NN CC NN|BODY_8|0
+structural consequences|JJ NNS|BODY_1|0
+the inter-viewpoint actions|DT JJ NNS|BODY_2|0
+such viewpoints|JJ NNS|BODY_2|0
+some level|DT NN|BODY_6|0
+the strategy|DT NN|BODY_32|0
+slot|NN|BODY_26|0
+its constituent agents|PRP$ JJ NNS|BODY_2|0
+multiple ( decentralised ) process models interact|JJ -LRB- JJ -RRB- NN NNS NN|BODY_6|0
+larger case studies|JJR NN NNS|ABSTRACT_8|0
+software engineering problems|NN NN NNS|BODY_2|0
+transfer|NN|BODY_6|0
+. 5 , five further viewpoints|. CD , CD JJ NNS|BODY_3|0
+condition x|NN NN|BODY_4|0
+the mechanisms or communication protocols|DT NNS CC NN NNS|BODY_3|0
+the method designer|DT NN NN|BODY_4|0
+tabular collection diagrams|VBN NN NNS|BODY_7|0
+the tabular collection stage|DT JJ NN NN|BODY_4|0
+the first graphical stage|DT JJ JJ NN|BODY_2|0
+whose consistency relationships|WP$ NN NNS|BODY_5|0
+the owner|DT NN|BODY_4|0
+times|NNS|BODY_3|0
+dardenne et al|JJ NNP NN|BODY_1|0
+mode|NN|BODY_5|0
+databases [56]|NNS NNS|BODY_5|0
+development stages|NN NNS|BODY_4|0
+that viewpoint|WDT NN|BODY_8|0
+the other development actions|DT JJ NN NNS|BODY_4|0
+different development techniques|JJ NN NNS|BODY_3|0
+the different tools|DT JJ NNS|BODY_3|0
+a prototype implementation|DT NN NN|BODY_2|0
+the tabular collection (tc ) stages|DT JJ NN NN -RRB- NNS|BODY_7|0
+pattern matching|NN NN|BODY_10|0
+viewpoints ( instances|NNS -LRB- NNS|BODY_5|0
+the last section|DT JJ NN|BODY_2|0
+a treatment|DT NN|BODY_1|0
+the vehicle|DT NN|BODY_2|0
+the pragmatic|DT JJ|BODY_8|0
+the paper|DT NN|BODY_12|0
+no prior knowledge|DT JJ NN|BODY_2|0
+ or |VBN CC|BODY_5|0
+a valid converse|DT JJ NN|BODY_3|0
+the work record slot|DT NN NN NN|BODY_34|0
+a special-purpose tool|DT NN NN|BODY_3|0
+the boundaries|DT NNS|BODY_7|0
+his/her disposal|PRP$ NN|BODY_4|0
+these interfaces|DT NNS|BODY_1|0
+question|NN|BODY_7|0
+the function f(-, vp|DT NN NN NN|BODY_3|0
+so-called indirect  agents|JJ JJ NN NNS|BODY_3|0
+its domain ( label|PRP$ NN -LRB- NN|BODY_10|0
+the domain slot|DT NN NN|BODY_13|0
+'s agent|POS NN|BODY_4|0
+overlapping|NN|BODY_2|0
+one avenue|CD NN|BODY_1|0
+a summary )|DT NN -RRB-|BODY_10|0
+at least one partial-spec-2|IN JJS CD NN|BODY_5|0
+some existential relationship|DT JJ NN|BODY_4|0
+icdc|NN|BODY_6|0
+this failure|DT NN|BODY_3|0
+their method|PRP$ NN|BODY_9|0
+doerry et al|NN NNP NN|BODY_1|0
+two general stages|CD JJ NNS|BODY_4|0
+a parent node|DT NN NN|BODY_6|0
+the current viewpoint|DT JJ NN|BODY_24|0
+that representation|DT NN|BODY_9|0
+the interaction|DT NN|BODY_4|0
+important information|JJ NN|BODY_9|0
+process integration|NN NN|BODY_5|0
+particular , various protocols|JJ , JJ NNS|BODY_1|0
+an intermediary or global representation )|DT NN CC JJ NN -RRB-|BODY_9|0
+all|DT|BODY_7|0
+assembly actions|NN NNS|BODY_1|0
+the construction process|DT NN NN|BODY_8|0
+[57]|NN|BODY_1|0
+meyers and reiss [40] study|NNS CC NN NN NN|BODY_1|0
+our viewpoints-based approach|PRP$ JJ NN|BODY_5|0
+robinson [49]|NN NN|BODY_1|0
+no-actions-name-clashes|NNS|BODY_4|0
+fusion [10]|NN NN|BODY_8|0
+most inter-viewpoint rules|RBS JJ NNS|BODY_1|0
+the hard-coded checks|DT JJ NNS|BODY_6|0
+38]|CD|BODY_6|0
+even a single activity|RB DT JJ NN|BODY_1|0
+closely related viewpoints [16]|RB VBN NNS NN|BODY_5|0
+these tools|DT NNS|BODY_1|0
+object1 and object2|NNS CC NN|BODY_11|0
+software engineering ( ieee cs press )|NN NN -LRB- JJ NNS NN -RRB-|BODY_5|0
+this work|DT NN|BODY_1|0
+software engineering knowledge|NN NN NN|BODY_6|0
+greater viewpoint integration|JJR NN NN|BODY_5|0
+individual behaviours and goals|JJ NNS CC NNS|BODY_6|0
+the mechanisms|DT NNS|BODY_1|0
+their development|PRP$ NN|BODY_9|0
+a problematic research area|DT JJ NN NN|BODY_7|0
+such descriptions|JJ NNS|BODY_13|0
+these methods and tools|DT NNS CC NNS|BODY_17|0
+the an agreement|DT DT NN|BODY_10|0
+this heterogeneity|DT NN|BODY_1|0
+a system requirements specification|DT NN NNS NN|BODY_2|0
+representation , development and specification knowledge|NN , NN CC NN NN|BODY_1|0
+the-fly |JJ|BODY_5|0
+some annotations|DT NNS|BODY_1|0
+such a viewpoint|JJ DT NN|BODY_6|0
+the snapshot|DT NN|BODY_1|0
+leite|NN|BODY_1|0
+perhaps desirable ) information|RB JJ -RRB- NN|BODY_7|0
+the key observation|DT JJ NN|BODY_1|0
+the same way|DT JJ NN|BODY_10|0
+viewpoint process models|NN NN NNS|BODY_6|0
+the preceding two sections|DT VBG CD NNS|BODY_4|0
+agent.name )|NN -RRB-|BODY_13|0
+a method designer )|DT NN NN -RRB-|BODY_7|0
+a similar rule|DT JJ NN|BODY_1|0
+tabular collection (tc )|JJ NN NN -RRB-|BODY_6|0
+our viewpoints framework|PRP$ NNS NN|BODY_5|0
+a and b.|DT CC VBG|BODY_19|0
+typed values|JJ NNS|BODY_5|0
+further work|JJ NN|BODY_1|0
+all the rules|PDT DT NNS|BODY_1|0
+both rules|DT NNS|BODY_1|0
+hyperview [26]|NN NN|BODY_4|0
+integration heterogeneity|NN NN|BODY_1|0
+the  method designer|DT JJ NN NN|BODY_1|0
+a collaborative case study|DT JJ NN NN|BODY_1|0
+decentralised architecture|JJ NN|BODY_4|0
+right ) relations , objects , attributes and values|JJ -RRB- NNS , NNS , NNS CC NNS|BODY_4|0
+scope|NN|BODY_1|0
+diverse domain knowledge|JJ NN NN|BODY_14|0
+the interested reader|DT JJ NN|BODY_1|0
+software specification|NN NN|BODY_6|0
+one technique|CD NN|BODY_1|0
+the tabular collection template|DT JJ NN NN|BODY_11|0
+this inevitable complexity|DT JJ NN|BODY_4|0
+[35]|NNS|BODY_1|0
+graubmann [26 , 27 ]|NN CD , CD NNS|BODY_1|0
+petri nets|NN NNS|BODY_5|0
+46]|CD|BODY_9|0
+creating , developing and managing multiple viewpoints|VBG , VBG CC VBG JJ NNS|BODY_4|0
+the coexistence|DT NN|BODY_1|0
+the former|DT JJ|BODY_9|0
+multiple representation schemes|JJ NN NNS|BODY_8|0
+different representation schemes and development strategies|JJ NN NNS CC NN NNS|ABSTRACT_5|0
+section 3|NN CD|BODY_6|0
+the above|DT JJ|BODY_1|0
+data flow diagrams|NNS NN NNS|BODY_5|0
+z [55]|FW NNP|BODY_1|0
+a viewpoint owner|DT NN NN|BODY_1|0
+such syntactic checks|JJ JJ NNS|BODY_1|0
+the function f maps objects|DT NN NN NNS NNS|BODY_1|0
+viewpoint-oriented requirements engineering|JJ NNS NN|BODY_5|0
+the inter-viewpoint rule|DT JJ NN|BODY_1|0
+different work plans|JJ NN NNS|BODY_13|0
+a single viewpoint template|DT JJ NN NN|BODY_7|0
+shaded areas|VBN NNS|BODY_1|0
+specification viewpoints|NN NNS|BODY_1|0
+a heterogeneous|DT JJ|BODY_7|0
+a co-operative software development environment|DT JJ NN NN NN|BODY_6|0
+action|NN|BODY_9|0
+many viewpoints|JJ NNS|BODY_7|0
+one such tabular collection viewpoint|CD JJ JJ NN NN|BODY_1|0
+its representation style|PRP$ NN NN|BODY_8|0
+siemens|NNS|BODY_1|0
+vp d |RB JJ|BODY_7|0
+syntactically|NN|BODY_4|0
+its converse , rule|PRP$ NN , NN|BODY_5|0
+library world fig|NN NN NN|BODY_1|0
+our implementations|PRP$ NNS|BODY_1|0
+souqui-res|NNS|BODY_1|0
+alternative design solutions|JJ NN NNS|BODY_7|0
+step 3 )|NN CD -RRB-|BODY_14|0
+the software development life-cycle|DT NN NN NN|BODY_3|0
+our model|PRP$ NN|BODY_7|0
+such|JJ|BODY_1|0
+template 3 template 4 fig|JJ CD JJ CD NN|BODY_1|0
+the difficulties|DT NNS|BODY_1|0
+this paper , partial-spec-1 and partial-spec-|DT NN , NN CC NNS|BODY_1|0
+a labelled arrow|DT JJ NN|BODY_1|0
+the next step|DT JJ NN|BODY_3|0
+our research agenda|PRP$ NN NN|BODY_6|0
+such rules|JJ NNS|BODY_1|0
+this knowledge|DT NN|BODY_1|0
+our work )|PRP$ NN -RRB-|BODY_7|0
+only a few integration models|RB DT JJ NN NNS|BODY_1|0
+computer-supported cooperative work ( cscw)|JJ JJ NN -LRB- NN|BODY_4|0
+the same representation scheme|DT JJ NN NN|BODY_5|0
+human development participants|JJ NN NNS|BODY_2|0
+this domain knowledge|DT NN NN|BODY_5|0
+a typical software engineering time constraints|DT JJ NN NN NN NNS|BODY_1|0
+fig . 2|NN . CD|BODY_1|0
+partial specification knowledge|JJ NN NN|BODY_1|0
+our viewpoint integration model|PRP$ NN NN NN|BODY_1|0
+5 and 6|CD CC CD|BODY_1|0
+viewpoint 2 viewpoint 3 viewpoint 4 viewpoint 5 viewpoint|NN CD NN CD NN CD NN CD NN|BODY_1|0
+overlap or association|NN CC NN|BODY_9|0
+research|NN|BODY_1|0
+the end|DT NN|BODY_1|0
+a review|DT NN|BODY_1|0
+an example )|DT NN -RRB-|BODY_10|0
+our computer-based viewpoints|PRP$ JJ NNS|ABSTRACT_1|0
+a particular domain|DT JJ NN|BODY_5|0
+the conflict or inconsistency|DT NN CC NN|BODY_10|0
+simplicity|NN|BODY_3|0
+[21]|NN|BODY_5|0
+[47]|NN|BODY_4|0
+blank specifications ( tables )|JJ NNS -LRB- NNS -RRB-|BODY_7|0
+more work|JJR NN|BODY_7|0
+many methods|JJ NNS|BODY_1|0
+conflict resolution and validation|NN NN CC NN|BODY_5|0
+[ inter-viewpoint check actions|JJ JJ NN NNS|BODY_9|0
+inconsistency [21]|NN NN|BODY_9|0
+the viewpoint templates|DT NN NNS|BODY_1|0
+inter-viewpoint consistency|JJ NN|BODY_11|0
+a snapshot|DT NN|BODY_1|0
+the converse|DT NN|BODY_1|0
+[9 , 30 , 39 , 59] )|CD , CD , CD , CD -RRB-|BODY_8|0
+development rationale|NN NN|BODY_7|0
+intelligent  tool or expert system|JJ NN NN CC NN NN|BODY_4|0
+use|NN|BODY_1|0
+the other viewpoint|DT JJ NN|BODY_10|0
+all times|DT NNS|BODY_9|0
+different specifications|JJ NNS|BODY_5|0
+inter-database relationships|JJ NNS|BODY_8|0
+case tools|NN NNS|BODY_6|0
+general , inter-viewpoint rules|JJ , JJ NNS|BODY_1|0
+the esf project|DT NN NN|BODY_5|0
+butcher [7|NN NNS|BODY_1|0
+specification design|NN NN|BODY_5|0
+viewpoint integration activities|NN NN NNS|BODY_12|0
+'s meta-case capabilities|POS NN NNS|BODY_4|0
+both academic and industrial experiences|DT JJ CC JJ NNS|BODY_1|0
+the cda|DT NN|BODY_4|0
+a software engineering method|DT NN NN NN|BODY_1|0
+name|NN|BODY_1|0
+the particular ( named ) domain d p|DT JJ -LRB- VBN -RRB- NN VBD NN|BODY_3:BODY_9|0
+inter-viewpoint communication protocols|JJ NN NNS|BODY_11|0
+the term viewpoint |DT NN NN|BODY_1|0
+the viewpoints setting|DT NNS NN|BODY_4|0
+temporal logic ( meta-level ) rules|JJ NN -LRB- NN -RRB- NNS|BODY_1|0
+kramer and finkelstein [32|NN CC NN NNS|BODY_1|0
+those styles|DT NNS|BODY_8|0
+[15 , 17]|CD , CD|BODY_7|0
+approaches|NNS|BODY_1|0
+selected knowledge|VBN NN|BODY_1|0
+ states|VBN NNS|BODY_15|0
+destination viewpoint specifications|NN NN NNS|BODY_6|0
+the check|DT NN|BODY_10|0
+an organisational point|DT JJ NN|BODY_1|0
+the confirmation|DT NN|BODY_1|0
+the case study|DT NN NN|BODY_1|0
+this approach|DT NN|BODY_1|0
+arrows|NNS|BODY_1|0
+many partial specifications|JJ JJ NNS|BODY_10|0
+a single domain|DT JJ NN|BODY_6|0
+system specification|NN NN|BODY_1|0
+the existential quantifier|DT JJ NN|BODY_1|0
+the definition|DT NN|BODY_1|0
+various sizes|JJ NNS|BODY_7|0
+invocation time|NN NN|BODY_1|0
+the above rules|DT JJ NNS|BODY_1|0
+its domain|PRP$ NN|BODY_8|0
+method engineering|NN NN|BODY_1|0
+its work plan|PRP$ NN NN|BODY_4|0
+method integration|NN NN|BODY_4|0
+tool integration|NN NN|BODY_4|0
+ transfer mode |JJ NN NN|BODY_1|0
+either viewpoint|DT NN|BODY_6|0
+successful application|JJ NN|BODY_1|0
+many|JJ|BODY_1|0
+a distributed setting|DT VBN NN|BODY_1|0
+their implementation|PRP$ NN|BODY_1|0
+a transfer mode|DT NN NN|BODY_6|0
+a distributed environment|DT VBN NN|BODY_11|0
+analogies|NNS|BODY_1|0
+broken lines|VBN NNS|BODY_1|0
+different templates )|JJ NNS -RRB-|BODY_10|0
+each template )|DT NN -RRB-|BODY_5|0
+kotonya and sommerville [31]|NN CC NN NNS|BODY_1|0
+particular viewpoint templates|JJ NN NNS|BODY_7|0
+the above stages|DT JJ NNS|BODY_1|0
+the configuration|DT NN|BODY_1|0
+the infrastructure|DT NN|BODY_1|0
+this particular configuration|DT JJ NN|BODY_10|0
+viewpoint 1 knowledge viewpoint 2 knowledge translation ?check consistency logical representation|NN CD NN NN CD NN NN NN NN JJ NN|BODY_1|0
+more the more primitive operations|JJR DT JJR JJ NNS|BODY_7|0
+the tc viewpoint|DT JJ NN|BODY_10|0
+a hierarchy|DT NN|BODY_11|0
+formal partial specifications|JJ JJ NNS|BODY_6|0
+single quotes|JJ NNS|BODY_8|0
+the above expressions|DT JJ NNS|BODY_6|0
+a hypothetical relationship|DT JJ NN|BODY_4|0
+information transferred|NN VBN|BODY_6|0
+multi-perspective software development|JJ NN NN|BODY_3|0
+).output.name ce|JJ NN|BODY_11|0
+ library world |JJ NN NN|BODY_5|0
+simplicity and convenience|NN CC NN|BODY_2|0
+a viewpoint process model defines|DT NN NN NN NNS|BODY_1|0
+connecting arrows|VBG NNS|BODY_1|0
+8. related work work|DT VBN NN NN|BODY_1|0
+authors|NNS|BODY_5|0
+different representation schemes|JJ NN NNS|BODY_7|0
+related projects|JJ NNS|BODY_5|0
+a computer-based library cataloguing system|DT JJ NN VBG NN|BODY_1|0
+a non-human viewpoint owner|DT JJ NN NN|BODY_1|0
+these components|DT NNS|BODY_8|0
+se|NN|BODY_4|0
+the partia l -spec-2|DT NN NN NN|BODY_1|0
+our experimental inconsistency handling approach|PRP$ JJ NN VBG NN|BODY_2|0
+the broken lines|DT JJ NNS|BODY_1|0
+a simple problem|DT JJ NN|BODY_6|0
+any information processing entity|DT NN NN NN|BODY_9|0
+so )|RB -RRB-|BODY_9|0
+the identified states|DT VBN NNS|BODY_10|0
+add( return|JJ NN|BODY_10|0
+the viewer ( fig|DT NN -LRB- NN|BODY_1|0
+other rules|JJ NNS|BODY_1|0
+the resultant specification fragments|DT NN NN NNS|ABSTRACT_3|0
+2.|PRP|BODY_1|0
+[29]|NNP|BODY_5|0
+[46]|NN|BODY_1|0
+many software engineering methods )|JJ NN NN NNS -RRB-|BODY_9|0
+our cda case study|PRP$ NN NN NN|BODY_1|0
+our earlier work [23]|PRP$ JJR NN NN|BODY_1|0
+richer  process models|JJR NN NN NNS|BODY_1|0
+the core rule|DT NN NN|BODY_1|0
+the viewer prototype|DT NN NN|BODY_7|0
+the viewpoint interaction model|DT NN NN NN|BODY_1|1
+broken arrows|VBN NNS|BODY_1|0
+viewpoint templates or types |NN NNS CC NNS|BODY_4|0
+the real world |DT JJ NN|BODY_1|0
+cooperative , intelligent agents|JJ , JJ NNS|BODY_7|0
+that point|WDT NN|BODY_12|0
+the constituent development techniques|DT JJ NN NNS|BODY_5|0
+the current specification|DT JJ NN|BODY_11|0
+the two connected viewpoints|DT CD JJ NNS|BODY_4|0
+these different templates|DT JJ NNS|BODY_8|0
+these participants|DT NNS|BODY_7|0
+typical inter-viewpoint communication|JJ JJ NN|BODY_5|0
+'s different stages [43]|POS JJ NNS NNS|BODY_10|0
+'s tabular collection (tc ) viewpoint template|POS JJ NN NN -RRB- NN NN|BODY_8|0
+every rule|DT NN|BODY_1|0
+our viewpoints terminology|PRP$ NNS NN|BODY_1|0
+'s individual work plan|POS JJ NN NN|BODY_5|0
+'s work plan actions|POS NN NN NNS|BODY_10|0
+a viewpoint identifier|DT NN NN|BODY_13|0
+any two representations|DT CD NNS|BODY_6|0
+formal representations|JJ NNS|BODY_4|0
+only the style and work plan slots|RB DT NN CC NN NN NNS|BODY_4|0
+process integration [41]|NN NN NNS|BODY_1|0
+the above problems|DT JJ NNS|BODY_5|0
+the cda method|DT NN NN|BODY_5|0
+the process model guides rules invocation|DT NN NN NNS NNS NN|BODY_14|0
+the total system requirements specification|DT JJ NN NNS NN|BODY_6|0
+transfer mode|VB NN|BODY_1|0
+an associated textual description ( viewpoint )|DT JJ JJ NN -LRB- NN -RRB-|BODY_6|0
+introduction 1.1|NN CD|BODY_1|0
+logical inconsistencies|JJ NNS|BODY_1|0

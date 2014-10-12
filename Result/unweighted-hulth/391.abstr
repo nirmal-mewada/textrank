@@ -1,0 +1,33 @@
+it|PRP|BODY_6:BODY_3|0
+electromagnetic source analysis|JJ NN NN|BODY_5:BODY_2|0
+'s test|POS NN|BODY_2:BODY_3|0
+the wald test|DT NN NN|BODY_6:BODY_5|0
+two sources|CD NNS|BODY_3|0
+msps ) or goodness|NNS -RRB- CC NN|BODY_2|0
+the required number|DT JJ NN|BODY_5|0
+different source and noise settings|JJ NN CC NN NNS|BODY_2|0
+which|WDT|BODY_6:BODY_4|0
+an estimate|DT NN|BODY_4|0
+fit procedures|NN NNS|BODY_3|0
+how many sources|WRB JJ NNS|BODY_7|0
+that|DT|BODY_2|0
+the adjusted hotelling|DT JJ NN|BODY_1:BODY_2|0
+source amplitudes|NN NNS|BODY_6:BODY_7|0
+empirical data (visual evoked fields|JJ NNS JJ JJ NNS|BODY_2|0
+the msps|DT NNS|BODY_1|0
+msps|NNS|BODY_4|0
+a conservative approach|DT JJ NN|BODY_3|0
+bayes information criterion|NNS NN NN|BODY_5|0
+information criterion|NN NN|BODY_4|0
+an application|DT NN|BODY_3|0
+vefs|NNS|BODY_4|0
+existing and new msps|VBG CC JJ NNS|BODY_1|0
+noise|NN|BODY_5|0
+model selection procedures|NN NN NNS|BODY_1|0
+sources|NNS|BODY_6|0
+the commonly used msp residual variance|DT RB VBN JJ JJ NN|BODY_1|0
+the electroencephalogram or magnetoencephalogram|DT NN CC NN|BODY_8|0
+a more liberal approach|DT RBR JJ NN|BODY_8|0
+alternatives|NNS|BODY_1|0
+too many sources|RB JJ NNS|BODY_4|0
+model selection|NN NN|BODY_1|0

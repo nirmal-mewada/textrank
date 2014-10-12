@@ -1,0 +1,54 @@
+a survey|DT NN|BODY_2|0
+hybrid simulation|JJ NN|BODY_1:BODY_4|0
+pt.iii|NNS|BODY_2|0
+we|PRP|BODY_1|0
+region|NN|BODY_13|0
+a cylindrical plasma source|DT JJ NN NN|BODY_13|0
+the onset|DT NN|BODY_7|0
+a massless fluid )|DT JJ NN -RRB-|BODY_4|0
+massless fluid representation|JJ NN NN|BODY_4|0
+the velocity|DT NN|BODY_12|0
+a magnetized plasma flow|DT VBN NN NN|BODY_12|0
+the magnetopause shear layer|DT NN NN NN|BODY_6|0
+particles and electrons|NNS CC NNS|BODY_3|0
+finite size|JJ NN|BODY_11|0
+interaction|NN|BODY_11|0
+the medium|DT NN|BODY_10|0
+particle mixing|NN NN|BODY_5|0
+the field reversal layer|DT NN NN NN|BODY_10|0
+models|NNS|BODY_3|0
+the process|DT NN|BODY_4|0
+a tangential discontinuity|DT JJ NN|BODY_8|0
+compressibility|NN|BODY_9|0
+the middle|DT NN|BODY_9|0
+4|CD|BODY_1|0
+informatika|FW|BODY_1|0
+maks press|NNS NN|BODY_2|0
+p|NN|BODY_2|0
+a transition layer|DT NN NN|BODY_6|0
+the form|DT NN|BODY_7|0
+the instability|DT NN|BODY_5|0
+the magnetic field|DT JJ NN|BODY_8|0
+the electromagnetic hybrid model ( ions|DT JJ JJ NN -LRB- NNS|BODY_2|0
+the simplest model|DT JJS NN|BODY_4|0
+jets|NNS|BODY_7|0
+two-dimensional and three-dimensional hybrid simulation|JJ CC JJ JJ NN|BODY_3|0
+the theory|DT NN|BODY_3|0
+space plasmas|NN NN|BODY_2|0
+the studies|DT NNS|BODY_2|0
+a brief review|DT JJ NN|BODY_2|0
+the kelvin-helmholtz instability|DT NN NN|BODY_5|0
+finite-size objects|JJ NNS|BODY_6|0
+literature|NN|BODY_3|0
+the literature|DT NN|BODY_3|0
+kelvin-helmholtz instability|NN NN|BODY_1|0
+prikl|NN|BODY_3|0
+pressure anisotropy|NN NN|BODY_14|0
+zero own magnetic field|CD JJ JJ NN|BODY_14|0
+a kelvin-helmholtz instability|DT NN NN|BODY_8|0
+the main numerical schemes|DT JJ JJ NNS|BODY_5|0
+electrons|NNS|BODY_5|0
+the article|DT NN|BODY_1|0
+this|DT|BODY_1|0
+5-56 ( 2000 )|CD -LRB- CD -RRB-|BODY_1|0
+mat|NN|BODY_1|0

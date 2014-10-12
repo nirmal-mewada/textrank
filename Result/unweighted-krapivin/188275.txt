@@ -1,0 +1,890 @@
+it|PRP|BODY_12:BODY_11:BODY_2:BODY_3:BODY_4:BODY_6:BODY_36:BODY_5:BODY_1:ABSTRACT_1:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_7:BODY_9|4
+the message|DT NN|BODY_6:BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_6:BODY_5:BODY_15:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_20:BODY_9|1
+the destination|DT NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_16:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_6:BODY_5:ABSTRACT_6:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_15:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+a message|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the cycle|DT NN|BODY_12:BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7|1
+one|PRP|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+the mesh|DT NN|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_7|0
+detour mode|NN NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+fig|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the algorithm|DT NN|BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8|0
+this|DT|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_9|0
+they|PRP|BODY_5:BODY_1:BODY_4:BODY_7:BODY_8|0
+a path|DT NN|BODY_6:BODY_5:ABSTRACT_6:BODY_16:BODY_2:ABSTRACT_3:BODY_3:BODY_4:ABSTRACT_7:BODY_7:BODY_8|0
+nodes|NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+each node|DT NN|BODY_6:ABSTRACT_2:BODY_2:BODY_3:BODY_4|0
+the path|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the link|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+the node|DT NN|BODY_6:BODY_5:BODY_17:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+an incision|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the torus|DT NN|BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+messages|NNS|BODY_1:BODY_3:BODY_4|0
+a circle|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the incision|DT NN|BODY_6:BODY_17:BODY_3:BODY_4:BODY_9|0
+its destination|PRP$ NN|BODY_12:BODY_5:BODY_13:BODY_3:BODY_4:BODY_7|0
+the nodes|DT NNS|BODY_6:BODY_11:BODY_1:BODY_2:BODY_10|0
+incisions|NNS|BODY_2:BODY_1:BODY_3:BODY_4|1
+the graph|DT NN|BODY_6:BODY_3:BODY_4:BODY_8|0
+node|NN|BODY_6:BODY_12:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+k 5|NN CD|BODY_6:BODY_13:BODY_1:BODY_2:BODY_10:BODY_4:BODY_7|0
+the current node|DT JJ NN|BODY_6:BODY_1:BODY_3|0
+a cycle|DT NN|BODY_6:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+extra hops|JJ NNS|BODY_31:BODY_27:BODY_24:BODY_20|0
+the system|DT NN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_9|0
+advantage|NN|BODY_2:BODY_3:BODY_8|0
+this node|DT NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+a jordan curve|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3|0
+h|NN|BODY_6:BODY_5:BODY_2:BODY_14|0
+example|NN|BODY_2:BODY_1:BODY_3|0
+fault-tolerant routing|JJ NN|BODY_6:TITLE_1:BODY_2|0
+free mode|JJ NN|BODY_5:BODY_3:BODY_4:BODY_9|0
+the x direction|DT NN NN|BODY_6:BODY_5:BODY_3:BODY_14:BODY_10|0
+2|CD|BODY_5:BODY_1|1
+the % deliverable and % delivered curves|DT NN JJ CC NN VBN NNS|BODY_2:BODY_4|0
+the number|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+links|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the faulty links|DT NN NNS|BODY_5:BODY_1:BODY_2:BODY_4|0
+us|PRP|BODY_2:BODY_3:BODY_9|0
+the \gammax|DT NN|BODY_2|0
+link failures|NN NNS|BODY_6:BODY_2:BODY_7:BODY_8|0
+cycle|NN|BODY_2|0
+the hypercube|DT NN|BODY_6:BODY_11:BODY_2:BODY_4|0
+each|DT|BODY_6:BODY_10:BODY_7|0
+faults|NNS|BODY_1:BODY_3:BODY_10:BODY_4:BODY_9|0
+this paper|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|2
+the distance|DT NN|BODY_6:BODY_2:BODY_4:BODY_8|0
+the subdivision|DT NN|BODY_6:BODY_3:BODY_4|0
+i i|FW FW|BODY_12:BODY_11:BODY_5:BODY_16:BODY_17:BODY_18:BODY_15:BODY_13:BODY_14:BODY_3:BODY_4|0
+the performance|DT NN|BODY_2:ABSTRACT_1|0
+a node|DT NN|BODY_1:BODY_4|0
+k 3;3|NN NN|BODY_6:BODY_2:BODY_3:BODY_14|0
+the percentage|DT NN|BODY_5:BODY_2:BODY_7|0
+a subdivision|DT NN|BODY_2:BODY_4|0
+s|PRP|BODY_5:BODY_2:BODY_4:BODY_7|0
+any node|DT NN|BODY_6:BODY_1:BODY_4:BODY_9|0
+the shortest path|DT JJS NN|BODY_6:BODY_5:BODY_2|0
+a number|DT NN|BODY_2:BODY_3|0
+its own links|PRP$ JJ NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_3|0
+the width|DT NN|BODY_6:BODY_1:BODY_2|0
+the presence|DT NN|BODY_6:BODY_5:BODY_1|0
+an infinite number|DT JJ NN|BODY_5:BODY_3:BODY_4|0
+the resulting graph|DT VBG NN|BODY_5:BODY_1:BODY_7|0
+simulations|NNS|BODY_2:BODY_1:BODY_3|0
+proof|NN|BODY_1|0
+the message incision|DT NN NN|BODY_5:BODY_13:BODY_2:BODY_4|0
+the routing algorithm|DT NN NN|BODY_5:BODY_1:BODY_3:BODY_8|0
+( n 1|-LRB- NN CD|BODY_12:BODY_5:BODY_10|0
+routing decisions|NN NNS|BODY_5:BODY_3|0
+intermediate nodes|JJ NNS|BODY_6:BODY_2:BODY_7|0
+what|WP|BODY_6:BODY_2:BODY_7|0
+respect|NN|BODY_2:BODY_4:BODY_8|0
+paths|NNS|BODY_2:BODY_7|0
+complexity|NN|BODY_5:BODY_3|0
+the right link|DT JJ NN|BODY_2:BODY_3|0
+a distributed computing system|DT VBN NN NN|ABSTRACT_2:BODY_3|0
+the mesh vector sum|DT NN NN NN|BODY_3:BODY_4|0
+a planar graph|DT NN NN|BODY_3:BODY_4|0
+all faulty links|DT NN NNS|BODY_5:BODY_7:BODY_9|0
+one side|CD NN|BODY_6:BODY_2|0
+the fact|DT NN|BODY_5:BODY_3|0
+the rest|DT NN|BODY_1:BODY_7|0
+blind alleys|JJ NNS|BODY_6:BODY_4|0
+length|NN|BODY_5:BODY_3|0
+each link|DT NN|BODY_1:BODY_3|0
+a mesh|DT NN|BODY_1:BODY_3|0
+shortest paths|NN NNS|BODY_6:BODY_2|0
+a fault-tolerant routing algorithm|DT JJ NN NN|BODY_2:BODY_4|1
+the message system|DT NN NN|BODY_2:BODY_3|0
+the set|DT NN|BODY_2:BODY_1:BODY_4|0
+a set|DT NN|BODY_3:BODY_9|0
+properties|NNS|BODY_6:BODY_5|0
+4|CD|BODY_6:BODY_2:BODY_3:BODY_8|0
+alternate routes|JJ NNS|BODY_3:BODY_4|0
+the course|DT NN|BODY_3:BODY_10:BODY_9|0
+external nodes|JJ NNS|BODY_6:BODY_4|0
+offsets|NNS|BODY_4|0
+any subdivision|DT NN|BODY_12:BODY_5:BODY_1:BODY_9|0
+the links|DT NNS|BODY_5:BODY_3|0
+a shortest path|DT NN NN|ABSTRACT_2:BODY_1:BODY_3|0
+\gammay|NNP|BODY_3|0
+an external node|DT JJ NN|BODY_6:BODY_3:BODY_9|0
+the dimension|DT NN|BODY_5:BODY_10|0
+ftroute|NN|BODY_5:BODY_3|0
+both|DT|BODY_2|0
+1|CD|BODY_1:BODY_2:BODY_3|0
+the outbound link|DT NN NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+the h-mesh|DT NN|BODY_2|0
+those|DT|BODY_6:BODY_5|0
+a 61 node system|DT CD NN NN|BODY_2|0
+little attention|JJ NN|BODY_2|0
+the endpoint vector|DT NN NN|BODY_2:BODY_4|0
+the overhead|DT NN|BODY_2:BODY_7|0
+the network|DT NN|BODY_5:BODY_2|0
+states|NNS|BODY_5:BODY_4:BODY_9|0
+routing|NN|BODY_2:BODY_3|0
+a finite amount|DT JJ NN|BODY_6:ABSTRACT_6:BODY_3:BODY_10|0
+track|NN|BODY_2:BODY_4|0
+meshes|NNS|BODY_5:BODY_2|0
+any two nodes|DT CD NNS|BODY_11:BODY_3|0
+|VBN|BODY_5:BODY_8|0
+the case|DT NN|BODY_5:BODY_2:BODY_1|0
+cycles|NNS|BODY_4|0
+an irregular mesh fragment|DT JJ JJ NN|BODY_2:BODY_7|0
+b ) messages|NN -RRB- NNS|BODY_17:BODY_23|0
+the mesh fragment|DT JJ NN|BODY_2:BODY_4|0
+percent faulty|NN IN|BODY_28:BODY_21|0
+the destination node|DT NN NN|BODY_3:BODY_4|0
+the characteristic vector|DT JJ NN|BODY_2|0
+a %|DT NN|BODY_6:BODY_15:BODY_21:BODY_8|0
+the proof|DT NN|BODY_1:BODY_2|0
+the paths|DT NNS|BODY_2:BODY_7|0
+lemma 1|NN CD|BODY_1:BODY_8|0
+a problem|DT NN|BODY_2:BODY_9|0
+3|CD|BODY_3:BODY_4:BODY_7|0
+the y direction|DT JJ NN|BODY_12:BODY_5:BODY_8|0
+faulty components|NN NNS|ABSTRACT_5:BODY_7|0
+node failures|NN NNS|BODY_2:BODY_3|0
+[2 ]|NN NN|BODY_2:BODY_9|0
+how many unique alternatives|WRB JJ JJ NNS|BODY_2|0
+which point|WDT NN|BODY_5|0
+node n|NN NN|BODY_6:BODY_4|0
+g|NN|BODY_4:BODY_7|0
+these vectors|DT NNS|BODY_3|0
+vectors|NNS|BODY_4|0
+the perimeter|DT NN|BODY_7:BODY_8|0
+a finite number|DT JJ NN|BODY_5:BODY_4|0
+section 2|NN CD|BODY_2:BODY_1|0
+%|NN|BODY_16:BODY_22:BODY_7:BODY_9|0
+the current state|DT JJ NN|BODY_3:BODY_4|0
+the length|DT NN|BODY_6:BODY_3|0
+theorem 2|NN CD|BODY_5:BODY_2:BODY_1|0
+an intuitive notion|DT JJ NN|BODY_8|0
+percent|NN|BODY_11:BODY_9|0
+two incisions|CD NNS|BODY_2:BODY_3|0
+each message|DT NN|ABSTRACT_4:BODY_2|0
+any path|DT NN|BODY_2:BODY_7|0
+the conditions|DT NNS|BODY_4:BODY_8|0
+the order|DT NN|BODY_5:BODY_4|0
+the delivery|DT NN|ABSTRACT_4:BODY_3|0
+the smaller systems|DT JJR NNS|BODY_5:BODY_30|0
+( 0x|-LRB- CD|BODY_7|0
+an exponential function|DT JJ NN|BODY_7|0
+zero|CD|BODY_6:BODY_3|0
+an example|DT NN|BODY_1:BODY_3|0
+hops curve|NNS NN|BODY_5|0
+all|DT|BODY_5:BODY_1:BODY_3|0
+two disjoint sets|CD JJ NNS|BODY_4|0
+1z )|CD -RRB-|BODY_6|0
+their rapid climb|PRP$ JJ NN|BODY_8|0
+the same link|DT JJ NN|BODY_5:BODY_10:BODY_8|0
+an h-mesh|DT NN|BODY_1:BODY_7|0
+planar|NN|BODY_5:BODY_13:BODY_8:BODY_9|0
+a hypercube|DT NN|BODY_6|0
+6|CD|BODY_6|0
+the offsets|DT NNS|BODY_2:BODY_7|0
+architectures|NNS|BODY_2|0
+an internal node|DT JJ NN|BODY_3:BODY_8|0
+one more node|CD JJR NN|BODY_2|0
+large systems|JJ NNS|BODY_11:BODY_27|0
+internal nodes|JJ NNS|BODY_5:BODY_3|0
+e|NN|BODY_2:BODY_3|0
+the large meshes|DT JJ NNS|BODY_7|0
+the sequence|DT NN|BODY_3:BODY_4|0
+improvement|NN|BODY_32|0
+the simulator )|DT NN -RRB-|BODY_7|0
+length one|NN CD|BODY_11:BODY_5|0
+the hypercube [1|DT NN NN|BODY_3|0
+only information|JJ NN|BODY_5|0
+no fault-free path|DT JJ NN|BODY_5:BODY_8|0
+global information|JJ NN|BODY_4:BODY_7|0
+multicomputers|NNS|BODY_6|1
+wrapped meshes|VBN NNS|BODY_5:BODY_2|0
+5|CD|BODY_6|0
+only the incisions|RB DT NNS|BODY_2|0
+our cutting|PRP$ NN|BODY_1|0
+our simulation results|PRP$ NN NNS|BODY_2|0
+results|NNS|BODY_1|0
+section 6|NN CD|BODY_2|0
+the paper|DT NN|BODY_1|0
+the simple algorithm|DT JJ NN|BODY_2|0
+this intuition|DT NN|BODY_1|0
+the two edges|DT CD NNS|BODY_5:BODY_3|0
+a mesh vector sum|DT NN NN NN|BODY_5:BODY_1|0
+the sum|DT NN|BODY_6:BODY_1|0
+i|PRP|BODY_2:BODY_8|0
+curves|NNS|BODY_4|0
+the resulting mesh|DT VBG NN|BODY_6:BODY_3|0
+the detour|DT NN|BODY_5|0
+the slight gap|DT JJ NN|BODY_3|0
+any message|DT NN|BODY_6:BODY_7|0
+regular structure|JJ NN|BODY_10|0
+the algorithm (|DT NN -LRB-|BODY_6|0
+wrap links|NN NNS|BODY_4:BODY_8|0
+these cycles|DT NNS|BODY_6|0
+the likelihood|DT NN|BODY_7|0
+the extra number|DT JJ NN|BODY_4|0
+simple circuitry|JJ NN|BODY_4|0
+our intuition|PRP$ NN|BODY_5|0
+each edge|DT NN|BODY_3|0
+a torus|DT NN|BODY_2|0
+some ways|DT NNS|BODY_31|0
+the increased probability|DT VBN NN|BODY_3|0
+of most systems|IN JJS NNS|BODY_2|0
+a vector|DT NN|BODY_10:BODY_4|0
+an obvious method|DT JJ NN|BODY_3|0
+h-mesh|JJ|BODY_2|0
+\theta j|NN NN|BODY_5|0
+a 64 node system|DT CD NN NN|BODY_5|0
+several characteristics|JJ NNS|BODY_2|0
+an important factor|DT JJ NN|BODY_3|0
+the physical distribution|DT JJ NN|ABSTRACT_4|0
+5 vertices ) , or k 3;3|CD NNS -RRB- , CC NN NN|BODY_7|0
+the complete bipartite graph|DT JJ JJ NN|BODY_8|0
+a reducing hop|DT VBG NN|BODY_2:BODY_3|0
+information|NN|BODY_6|0
+the results|DT NNS|BODY_1:BODY_4|0
+the internal nodes|DT JJ NNS|BODY_2|0
+use|NN|BODY_5|1
+0y|NN|BODY_5|0
+the work|DT NN|BODY_5|0
+the simple|DT NN|BODY_9|0
+ij nodes|JJ NNS|BODY_6|0
+a c-wrapped h-mesh|DT JJ NN|BODY_12:BODY_2|0
+this pair|DT NN|BODY_2|0
+all messages|DT NNS|BODY_2|0
+a series|DT NN|BODY_8|0
+a distance|DT NN|BODY_2|0
+our routing scheme|PRP$ JJ NN|BODY_1:BODY_4|0
+a figure 1|DT NN CD|BODY_12|0
+the next node|DT JJ NN|BODY_6:BODY_2:BODY_4|0
+an unwrapped mesh|DT JJ NN|BODY_6:BODY_3|0
+hexagonal mesh|JJ NN|BODY_13|0
+the deliverable curve|DT JJ NN|BODY_6:BODY_37|0
+a true jordan curve|DT JJ JJ NN|BODY_2:BODY_7|0
+the mesh dimension|DT NN NN|BODY_5|0
+the average difference|DT JJ NN|BODY_2|0
+many common mesh|JJ JJ NN|ABSTRACT_2|0
+the cases|DT NNS|BODY_2|0
+a graph|DT NN|BODY_5:BODY_2|0
+4 shows|CD VBZ|BODY_2:BODY_3|0
+n faults|RB NNS|BODY_8|0
+most|JJS|BODY_1|0
+our routing algorithm|PRP$ NN NN|BODY_3:BODY_7|0
+2e \gamma 1|JJ NN CD|BODY_2|0
+message delivery|NN NN|BODY_5:BODY_3|0
+the routing scheme|DT JJ NN|ABSTRACT_2|0
+any non-faulty link|DT JJ NN|BODY_3|0
+advantages|NNS|BODY_4|0
+percent f f f f f f f f f f f f average number|NN NN NN NN NN NN NN NN NN NN NN NN NN JJ NN|BODY_24|0
+hypercubes|NNS|BODY_6|0
+the directional properties|DT JJ NNS|BODY_2|0
+the 8-torus|DT NN|BODY_4|0
+their length|PRP$ NN|BODY_2|0
+all the links|PDT DT NNS|BODY_1:BODY_3|0
+the finite set|DT JJ NN|BODY_3|0
+node 0|NN CD|BODY_5:BODY_2|0
+little difference|JJ NN|BODY_3|0
+c )|NN -RRB-|BODY_26|0
+route messages|NN NNS|ABSTRACT_3|0
+the processors|DT NNS|BODY_2|0
+some algorithms|DT NNS|BODY_4|0
+a circuit-switched environment|DT JJ NN|BODY_2|0
+a method|DT NN|BODY_3|0
+no other fault-tolerant routing strategy|DT JJ JJ NN NN|BODY_3|0
+dimension|NN|BODY_4|0
+hops|NNS|BODY_6:BODY_4|0
+the complete graph|DT JJ NN|BODY_6|0
+such that|JJ IN|BODY_11|0
+the extra hops curves|DT JJ NNS NNS|BODY_6|0
+183 links|CD NNS|BODY_3|0
+most distributed systems|JJS VBN NNS|BODY_1|0
+the 5-h-mesh|DT JJ|BODY_1|0
+this potential problem|DT JJ NN|BODY_3|0
+cannot|NN|BODY_7|0
+a a a i i i|DT DT DT FW FW FW|BODY_2|0
+an unwrapped hexagonal mesh (h-mesh|DT JJ JJ NN NN|BODY_2|0
+circles|NNS|BODY_4|0
+the fewest possible links|DT JJS JJ NNS|BODY_2|0
+extra hops percent links faulty f 8-torus|JJ NNS NN NNS IN NN NN|BODY_25|0
+percent figure|NN NN|BODY_32|0
+the messages|DT NNS|BODY_6:BODY_3|0
+. 5|. CD|BODY_5:BODY_7|0
+extra hops percent links faulty f 19-h-mesh ( d )|JJ NNS NN NNS IN NN JJ -LRB- NN -RRB-|BODY_23|0
+extra hops percent links faulty f 5-h-mesh ( d )|JJ NNS NN NNS IN NN JJ -LRB- NN -RRB-|BODY_30|0
+parallel ones|JJ NNS|BODY_3|0
+two sets|CD NNS|BODY_9|0
+performance|NN|BODY_33|0
+the 8-torus and 5-dimensional h-mesh|DT NN CC JJ NN|BODY_2|0
+a rectangular nodes|DT JJ NNS|BODY_7|0
+both square andhexagonal meshes|DT JJ JJ NNS|ABSTRACT_3|0
+extra hops percent links faulty f 32-torus ( c )|JJ NNS NN NNS IN NN JJ -LRB- NN -RRB-|BODY_19|0
+two non-parallel incisions|CD JJ NNS|BODY_3:BODY_4:BODY_8|0
+an unwrapped square mesh|DT JJ NN NN|BODY_3|0
+a ) messages|DT -RRB- NNS|BODY_10:BODY_8|0
+generality|NN|BODY_2|0
+common to most mesh architectures|JJ TO JJS NN NNS|BODY_3|0
+dimension 3 node|NN CD NN|BODY_14|0
+i i i percentage|FW FW FW NN|BODY_6:BODY_13:BODY_19|0
+the x-direction and \gamma1|DT NN CC NNS|BODY_6|0
+the downward link|DT JJ NN|BODY_11|0
+all other nodes|DT JJ NNS|BODY_8|0
+the last free node|DT JJ JJ NN|BODY_3|0
+a 32-torus ( 1024 nodes|DT JJ -LRB- CD NNS|BODY_3|0
+that deadlock|DT NN|BODY_8|0
+m y|NN NN|BODY_4|0
+either k 5|DT NN CD|BODY_5|0
+any hop|DT NN|BODY_1:BODY_2|0
+the network interface|DT NN NN|BODY_4|0
+percent f f f f f f f f f f average number|NN NN NN NN NN NN NN NN NN NN NN JJ NN|BODY_18|0
+1 )|CD -RRB-|BODY_3|0
+a central node|DT JJ NN|BODY_7|0
+[6 ]|CD NN|BODY_5|0
+one copy|CD NN|BODY_3|0
+the original|DT JJ|BODY_3|0
+the selected links|DT VBN NNS|BODY_2|0
+every link|DT NN|BODY_12|0
+them|PRP|BODY_6|0
+only a finite number|RB DT JJ NN|BODY_2:BODY_8|0
+an unreachable destination|DT JJ NN|BODY_3|0
+any finite mesh|DT JJ NN|BODY_2|0
+a a a a a a a a a a a a a a a a a a i i|DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT FW FW|BODY_12|0
+a a a a a a a a a a a i i i|DT DT DT DT DT DT DT DT DT DT DT IN IN IN|BODY_10|0
+m z|NN FW|BODY_5|0
+percent figure 7|NN NN CD|BODY_25|0
+theorems 1 and 2 show|DT CD CC CD NN|BODY_2|0
+the peak|DT NN|BODY_3|0
+a link|DT NN|BODY_4|0
+dedicated hardware|JJ NN|BODY_3|0
+the available directions|DT JJ NNS|BODY_8|0
+small systems|JJ NNS|BODY_34|0
+m x|NN NN|BODY_3|0
+messages percent links|NNS NN NNS|BODY_14:BODY_7:BODY_20|0
+their destination|PRP$ NN|BODY_3|0
+thenonexistence|NN|ABSTRACT_2|0
+a faulty h-mesh fig|DT NN JJ NN|BODY_5|0
+much the same|RB DT JJ|BODY_29|0
+a square or triangle|DT NN CC NN|BODY_3|0
+the above modification|DT JJ NN|BODY_6|0
+some considerable expense|DT JJ NN|BODY_2|0
+one corresponding|CD JJ|BODY_9|0
+cycles cycles|NNS NNS|BODY_2|0
+the same|DT JJ|BODY_6:BODY_7|0
+the wrap links|DT NN NNS|BODY_6:BODY_5|0
+to 7|TO CD|BODY_4|0
+the k 5 subdivision|DT NN CD NN|BODY_3|0
+( 1x|-LRB- CD|BODY_4|0
+( n 3|-LRB- NN CD|BODY_2|0
+not )|RB -RRB-|ABSTRACT_5|0
+the corresponding curves|DT JJ NNS|BODY_9|0
+3 vertices|CD NNS|BODY_10|0
+a node failure|DT NN NN|BODY_1:BODY_3|0
+the resulting distribution|DT VBG NN|BODY_5|0
+[1 ] present an algorithm|DT JJ JJ DT NN|BODY_2|0
+endpoint distance|NN NN|BODY_14|0
+other distributed architectures|JJ VBN NNS|BODY_5|0
+larger systems|JJR NNS|BODY_4|0
+memory|NN|BODY_2|0
+faulty|NN|BODY_10:BODY_4:BODY_8|0
+vertical|JJ|BODY_9|0
+the cycle )|DT NN -RRB-|BODY_11:BODY_8|0
+whose other sides|WP$ JJ NNS|BODY_4|0
+32-torus f f f f f f f f f f average number|JJ NN NN NN NN NN NN NN NN NN NN JJ NN|BODY_22|0
+8-torus f f f f f f f f f f f f f f f f f average number|NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN JJ NN|BODY_29|0
+two main problems|CD JJ NNS|BODY_2|0
+a great deal|DT JJ NN|BODY_4|0
+the description|DT NN|BODY_3|0
+a quadratic function|DT JJ NN|BODY_4|0
+n|RB|BODY_9|0
+a continuous non-self-intersecting curve|DT JJ JJ NN|BODY_3|0
+a plane|DT NN|BODY_5|0
+nodes 10 and 7|NNS CD CC CD|BODY_3|0
+an actual vector|DT JJ NN|BODY_3|0
+the graphs|DT NNS|BODY_28|0
+a point|DT NN|BODY_6|0
+mesh diameter|NN NN|BODY_3|0
+3 assures|CD NNS|BODY_2|0
+only the state ( faulty|RB DT NN -LRB- NN|ABSTRACT_4|0
+non-faulty )|JJ -RRB-|BODY_4|0
+a hexagonal mesh|DT JJ NN|BODY_7|0
+few links|JJ NNS|BODY_2|0
+messges percent links|NNS NN NNS|BODY_5|0
+space|NN|BODY_7|0
+message cycles|NN NNS|BODY_4|0
+the horizontal edge|DT JJ NN|BODY_8|0
+the extra hops curve|DT JJ NNS NN|BODY_8|0
+node-disjoint paths|NN NNS|BODY_10|0
+large numbers|JJ NNS|BODY_7|0
+the dead ends|DT JJ NNS|BODY_5|0
+the infinite plane representation|DT JJ NN NN|BODY_5|0
+planar embedding|NN NN|BODY_4|0
+algorithm performance|NN NN|BODY_26|0
+the one immediately|DT CD RB|BODY_4|0
+its 50 percent|PRP$ CD NN|BODY_3|0
+any circles|DT NNS|BODY_5|0
+less than w|RBR IN VB|BODY_6|0
+a convenient detour|DT JJ NN|BODY_5|0
+higher longer|JJR RBR|BODY_7|0
+a store-and-forward system|DT JJ NN|BODY_4|0
+percentage|NN|BODY_4|0
+the attention|DT NN|BODY_7|0
+the individual links|DT JJ NNS|BODY_10|0
+a large number|DT JJ NN|BODY_4|1
+the link degrees counter-clockwise|DT NN NNS NN|BODY_8|0
+m|NN|BODY_7|0
+virtual cut-through )|JJ JJ -RRB-|BODY_5|0
+a result|DT NN|BODY_2|0
+( direction and length )|-LRB- NN CC NN -RRB-|BODY_4|0
+the same row|DT JJ NN|BODY_10|0
+fewer|JJR|BODY_4|0
+two nodes|CD NNS|BODY_13|0
+six oriented directions|CD JJ NNS|BODY_8|0
+only the condition ( faulty|RB DT NN -LRB- NN|BODY_3|0
+the edges|DT NNS|BODY_2|0
+detouring|NN|BODY_6|0
+only the state|RB DT NN|BODY_5|0
+its links|PRP$ NNS|BODY_6:BODY_4|0
+the failure|DT NN|BODY_2:BODY_4|0
+the vectors|DT NNS|BODY_9|0
+jm x e|NN NN NN|BODY_4|0
+g.|VBG|BODY_18:BODY_8|0
+a \theta( 1 ) algorithm|DT NN CD -RRB- NN|BODY_8|0
+this section|DT NN|BODY_2:BODY_1|0
+the unwrapped graph|DT JJ NN|BODY_4|0
+the high number|DT JJ NN|BODY_7|0
+figure 5|NN CD|BODY_3|0
+120 degrees counter-clockwise|CD NNS NN|BODY_10|0
+the bottom edge|DT JJ NN|BODY_15|0
+a larger mesh|DT JJR NN|BODY_2|0
+therefore more|RB JJR|BODY_8|0
+given message m|VBN NN NN|BODY_2|0
+the specific mathematical properties|DT JJ JJ NNS|BODY_3|0
+the time|DT NN|BODY_35|0
+more opportunities|JJR NNS|BODY_3|0
+three integers|CD NNS|BODY_2|0
+an unwrapped h-mesh|DT JJ NN|BODY_7|0
+k|NN|BODY_5|0
+near-minimal paths|JJ NNS|BODY_5|0
+the algorithms|DT NNS|BODY_3|0
+that system|DT NN|BODY_4|0
+non-intersecting paths|JJ NNS|BODY_7|0
+a hop-by-hop basis|DT JJ NN|BODY_4|0
+communication links|NN NNS|BODY_8|0
+edge dimension e|NN NN NN|BODY_2|0
+the situation|DT NN|BODY_3|0
+other faults|JJ NNS|BODY_2|0
+the corresponding nodes|DT JJ NNS|BODY_17|0
+graph h|NN NN|BODY_3|0
+reasonable numbers|JJ NNS|BODY_2|0
+ourselves|PRP|BODY_2|0
+failures|NNS|BODY_5:BODY_3|1
+\gammay directions|JJ NNS|BODY_3|0
+the left and top links|DT JJ CC JJ NNS|BODY_1|0
+the remaining three links point|DT VBG CD NNS NN|BODY_1|0
+any cycle|DT NN|BODY_4|0
+nearly 20 %|RB CD NN|BODY_2|0
+corresponding high through-traffic|JJ JJ NN|BODY_9|0
+the state (|DT NN -LRB-|BODY_2|0
+0 faster|CD JJR|BODY_3|0
+the z direction|DT FW NN|BODY_12:BODY_11|0
+the traversed links|DT VBN NNS|BODY_2|0
+all faults|DT NNS|BODY_5|0
+the shortest paths|DT JJS NNS|BODY_2|0
+c-type wrapping  [2]|NN VBG NN NNS|BODY_3|0
+the concept|DT NN|BODY_3|0
+the wrapped graph|DT VBN NN|BODY_5|0
+an associated vector|DT JJ NN|BODY_2|0
+less|RBR|BODY_5|0
+more paths|JJR NNS|BODY_5|0
+turn|NN|BODY_2|0
+the cycle (|DT NN -LRB-|BODY_8|0
+modifications|NNS|BODY_2|0
+order|NN|BODY_6|0
+a non-zero mesh vector sum|DT JJ NN NN NN|BODY_3|0
+a zero mesh vector sum|DT CD NN NN NN|BODY_3|0
+the first non-faulty link clockwise|DT JJ JJ NN NN|BODY_3|0
+the simpler version|DT JJR NN|BODY_2|0
+( c|-LRB- NN|BODY_1|0
+the same destination|DT JJ NN|BODY_6|0
+the future routing behavior|DT JJ NN NN|BODY_5|0
+o|RB|BODY_4|0
+techniques|NNS|BODY_5|0
+all this information|PDT DT NN|BODY_4|0
+the curve|DT NN|BODY_1|0
+one hop|CD NN|BODY_11:BODY_13:BODY_7:BODY_9|0
+the downward|DT JJ|BODY_4|0
+( n|-LRB- NN|BODY_13|0
+virtual cut-through [4|JJ JJ NNS|BODY_6|0
+the state|DT NN|BODY_3|0
+a fairly large number|DT RB JJ NN|BODY_2|0
+step 3|NN CD|BODY_2:BODY_4|0
+detour mode and|JJ NN CC|BODY_5|0
+0z )|NN -RRB-|BODY_8|0
+an incision before|DT NN RB|BODY_4|0
+'s unique mathematical properties|POS JJ JJ NNS|BODY_5|0
+the hypercube dimension|DT NN NN|BODY_8|0
+optimizations|NNS|BODY_2|0
+our fault-tolerant routing algorithm|PRP$ JJ NN NN|BODY_3|0
+a ) compute w|DT -RRB- NN NN|BODY_5|0
+60 degrees counter-clockwise|CD NNS NN|BODY_7|0
+' k|POS NN|BODY_6|0
+no effort|DT NN|BODY_3|0
+more links|JJR NNS|BODY_4|0
+the next section|DT JJ NN|BODY_2|1
+some test simulations|DT NN NNS|BODY_2|0
+the types|DT NNS|BODY_3|0
+'s path|POS NN|BODY_9|0
+edge dimension 3|NN NN CD|BODY_3|0
+the one|DT NN|BODY_7|0
+the cycle path|DT NN NN|BODY_3|0
+edges|NNS|BODY_3|0
+the percent|DT NN|BODY_4|0
+stick|NN|BODY_6|0
+the selected link|DT VBN NN|BODY_6|0
+these links|DT NNS|BODY_3|0
+this possibility|DT NN|BODY_4|0
+much|JJ|BODY_9|0
+these runs|DT NNS|BODY_2|0
+the edge|DT NN|BODY_7|0
+0|CD|BODY_10|0
+7|CD|BODY_9|0
+figs|NNS|BODY_5:BODY_1|0
+deadlock|NN|BODY_8|0
+an unreachable des|DT JJ FW|BODY_3|0
+the right|DT NN|BODY_4|0
+cycles and halt|NNS CC NN|BODY_6|0
+the external nodes|DT JJ NNS|BODY_5|0
+incision failures|NN NNS|BODY_9|0
+proper handling|JJ NN|BODY_2|0
+all shortest paths|DT JJS NNS|BODY_10|0
+the other side|DT JJ NN|BODY_6|0
+reducing hops|VBG NNS|BODY_6|0
+some form|DT NN|BODY_6|0
+the shortest incision|DT JJS NN|BODY_7|0
+the other ends|DT JJ NNS|BODY_2|0
+a store-and-forward approach|DT JJ NN|BODY_3|0
+the hexagonal mesh fragment|DT JJ JJ NN|BODY_2|0
+the message header|DT NN NN|BODY_6|0
+a single faulty link|DT JJ NN NN|BODY_4|0
+the midpoints|DT NNS|BODY_3|0
+routing algorithms|VBG NNS|BODY_2|0
+the selected outbound link|DT VBN NN NN|BODY_2|0
+the edge dimension|DT NN NN|BODY_1:BODY_4|0
+7 to 0.|CD TO CD|BODY_7|0
+the larger systems|DT JJR NNS|BODY_33|0
+2 )|CD -RRB-|BODY_14|0
+the node-link pair ( n 2|DT JJ NN -LRB- NN CD|BODY_9|0
+only one non-faulty link|RB CD JJ NN|BODY_6|0
+unwrapped meshes|JJ NNS|BODY_2|0
+virtual cut-through [4]|JJ JJ NN|BODY_3|0
+mesh systems|JJ NNS|BODY_11|0
+its tail|PRP$ NN|BODY_8:BODY_9|0
+all endpoint vectors|DT JJ NNS|BODY_4|0
+the mesh size|DT NN NN|BODY_6|0
+each hexagon|DT NN|BODY_1|0
+mesh type interconnections|NN NN NNS|BODY_7|1
+regards|NNS|BODY_8|0
+the jordan curve|DT JJ NN|BODY_10:BODY_7|0
+last entered detour mode|JJ VBN NN NN|BODY_8|0
+a single jordan curve|DT JJ JJ NN|BODY_3|0
+previously selected links|RB VBN NNS|BODY_3|0
+a fault-tolerant routingalgorithm|DT JJ NN|ABSTRACT_2|0
+128 links|CD NNS|BODY_6|0
+to 0|TO CD|BODY_5|0
+link|NN|BODY_11|0
+lemma 3|NN CD|BODY_1|0
+tination|NN|BODY_4|0
+a simple and efficient fault-tolerant routing algorithm|DT JJ CC JJ JJ JJ NN|BODY_3|1
+such systems ftroute|JJ NNS NN|BODY_4|0
+each curve|DT NN|BODY_1|0
+a planar embedding|DT NN NN|BODY_2|0
+the last reducing hop|DT JJ VBG NN|BODY_3|0
+a pair|DT NN|ABSTRACT_4|0
+theorem|PRP|BODY_1:BODY_9|0
+lemma 2|NN CD|BODY_2|0
+each time|DT NN|BODY_5|0
+two hops|CD NNS|BODY_5|0
+both wrapped and unwrapped meshes|DT VBN CC JJ NNS|BODY_2|0
+buffering|NN|BODY_6|0
+the corresponding set|DT JJ NN|BODY_5|0
+some state|DT NN|BODY_2|0
+the reachability|DT NN|BODY_9|0
+a high probability|DT JJ NN|ABSTRACT_5|0
+the wrapped mesh|DT VBN NN|BODY_5:BODY_1|0
+different characteristic vectors|JJ JJ NNS|BODY_3|0
+the first occurrence|DT JJ NN|BODY_1|0
+the property|DT NN|BODY_2|0
+the failed link|DT VBN NN|BODY_7|0
+these meshes|DT NNS|BODY_1|0
+a corresponding node|DT JJ NN|BODY_6|0
+at|IN|BODY_10|0
+nested hexagons|VBN NNS|BODY_9|0
+cross|NN|BODY_2|0
+each vector|DT NN|BODY_1|0
+non-parallel characteristic vectors|JJ JJ NNS|BODY_4|0
+the unwrapped version|DT JJ NN|BODY_2|0
+its tail |PRP$ NN|BODY_3|0
+the outgoing links|DT JJ NNS|BODY_3|0
+any finite homogeneous mesh|DT NN JJ NN|BODY_3|0
+the source and destination nodes|DT NN CC NN NNS|BODY_3|0
+several reasons|JJ NNS|BODY_2|0
+an e-dimensional h-mesh|DT JJ NN|BODY_5|0
+a hexagonal grid|DT JJ NN|BODY_5|0
+this modification|DT NN|BODY_1|0
+every message|DT NN|ABSTRACT_5|0
+3;3 crosses|CD NNS|BODY_3|0
+some|DT|BODY_5|0
+outgoing link|JJ NN|BODY_4|0
+the minimum distance|DT NN NN|BODY_11|0
+incision i|NN NN|BODY_5|0
+a last reducing hop|DT JJ VBG NN|BODY_2|0
+no faulty links|DT NN NNS|BODY_2|0
+faulty (|NN -LRB-|BODY_5|0
+links (vectors|NNS NNS|BODY_5|0
+its incisions|PRP$ NNS|BODY_4|0
+these incisions|DT NNS|BODY_12|0
+free or detour )|JJ CC NN -RRB-|BODY_5|0
+11|CD|BODY_6|0
+\gammaz directions|NNP NNS|BODY_4|0
+available outbound links|JJ NN NNS|BODY_5|0
+( the case|-LRB- DT NN|BODY_4|0
+the source and destination|DT NN CC NN|ABSTRACT_3|0
+message m|NN NN|BODY_2|0
+no way|DT NN|BODY_2|0
+the right edge|DT JJ NN|BODY_5|0
+future states|JJ NNS|BODY_5|0
+the diameter|DT NN|BODY_3|0
+the left edge|DT JJ NN|BODY_8|0
+no fault-free paths|DT JJ NNS|BODY_2|0
+cases|NNS|BODY_4|0
+a finite distance|DT JJ NN|BODY_2|0
+all cases|DT NNS|BODY_5|0
+planar graphs|NN NNS|BODY_2|0
+a different link|DT JJ NN|BODY_10|0
+either depending|DT VBG|BODY_3|0
+a fault free path|DT NN JJ NN|BODY_2|0
+homogeneous mesh architectures|JJ NN NNS|BODY_1|0
+the original mesh|DT JJ NN|BODY_16|0
+that node|DT NN|BODY_7|0
+smaller|JJR|BODY_5|0
+the top edge|DT JJ NN|BODY_18|0
+no faults|DT NNS|BODY_5:BODY_4|0
+returns|NNS|BODY_3|0
+a hypercube increases|DT NN NNS|BODY_4|0
+closer|JJR|BODY_2|0
+any assumption|DT NN|BODY_2|0
+a transition|DT NN|BODY_7|0
+the cycle closest|DT NN JJS|BODY_2|0
+i .e|FW FW|BODY_5|0
+the complete mesh|DT JJ NN|BODY_3|0
+faulty links or nodes|NN NNS CC NNS|ABSTRACT_4|0
+introduction|NN|BODY_1|0
+which link|WDT NN|BODY_5|0
+the above observation|DT JJ NN|BODY_5|0
+the same sequence|DT JJ NN|BODY_8|0
+these nodes|DT NNS|BODY_3|0
+no path|DT NN|BODY_7|0
+theory|NN|BODY_4|0
+a tour|DT NN|BODY_2|0
+a single trip|DT JJ NN|BODY_5|0
+the standard routing algorithms|DT JJ NN NNS|BODY_1|0
+an h-mesh the width|DT JJ DT NN|BODY_1|0
+two modes|CD NNS|BODY_3|0
+each path|DT NN|BODY_4|0
+2.2 hexagonal mesh|CD JJ NN|BODY_1|0
+the system graph|DT NN NN|BODY_12|0
+place|NN|BODY_3|0
+6c and 6d show|JJ CC JJ NN|BODY_1|0
+more information|JJR NN|BODY_1|0
+a single incision|DT JJ NN|BODY_1|0
+3 , 5 , 7]|CD , CD , CD|BODY_4|0
+non-faulty link|JJ NN|BODY_5|0
+that incision failures|DT NN NNS|BODY_6|0
+any reachable destination unreachable|DT JJ NN JJ|BODY_7|0
+4 cycles|CD NNS|BODY_1|0
+the inbound link|DT JJ NN|BODY_3|0
+a 19-h-mesh ( 1027 nodes )|DT JJ -LRB- CD NNS -RRB-|BODY_4|0
+any routing algorithm|DT NN NN|BODY_4|0
+4.2 circles|CD NNS|BODY_3|0
+these cases|DT NNS|BODY_4|0
+the y-direction|DT NN|BODY_7|0
+which links|WDT NNS|BODY_1|0
+2 4.3 incisions|CD CD NNS|BODY_1|0
+section 4|NN CD|BODY_1|0
+the torus and hexagonal mesh|DT NN CC JJ NN|ABSTRACT_3|0
+these modifications deadlock|DT NNS NN|BODY_1|0
+an obvious way|DT JJ NN|BODY_1|0
+mesh architectures|NN NNS|TITLE_2|0
+some work|DT NN|BODY_1|0
+this lemma|DT NN|BODY_2|0
+4.1 types|CD NNS|BODY_1|0
+loss|NN|BODY_1|0
+simulation results|NN NNS|BODY_1|0
+the amount|DT NN|BODY_1|0
+the union|DT NN|BODY_1|0
+the proposed scheme|DT VBN NN|ABSTRACT_1|0
+whose origin and terminus coincide|WP$ NN CC NN NN|BODY_4|0
+mesh-type distributed systems systems|NN VBN NNS NNS|BODY_4|0
+our algorithm|PRP$ NN|BODY_1|0
+these alternatives|DT NNS|BODY_4|0
+the original wrapped mesh|DT JJ VBN JJ|BODY_7|0
+the same argument|DT JJ NN|BODY_1|0
+the authors|DT NNS|BODY_1|0
+w|RB|BODY_15|0
+7a|NNP|BODY_1|0
+2 lemma 2|CD NN CD|BODY_1|0
+5 simulation simulation|CD NN NN|BODY_1|0
+section 5|NN CD|BODY_1|0
+this approach|DT NN|BODY_3|0
+a copy|DT NN|BODY_4|0
+any|DT|BODY_1|0
+each alternative|DT NN|BODY_4|0
+a corresponding vector|DT JJ NN|BODY_4|0
+the greater number|DT JJR NN|BODY_1|0
+the plane|DT NN|BODY_8|0
+\gamma2y )|NN -RRB-|BODY_6|0
+the advantage|DT NN|BODY_1|0
+all directions|DT NNS|BODY_4|0
+all the selected links|DT DT VBN NNS|BODY_1|0
+the square mesh|DT NN NN|BODY_1|0
+the six links|DT CD NNS|BODY_11|0
+the structure|DT NN|BODY_1|0
+these two directions|DT CD NNS|BODY_5|0
+the first kind|DT JJ NN|BODY_1|0
+the second kind|DT JJ NN|BODY_1|0
+this kind|DT NN|BODY_1|0
+our simulations|PRP$ NNS|BODY_1|0
+the outermost hexagon|DT JJ NN|BODY_7|0
+at least one|IN JJS CD|BODY_1|0
+2.1|CD|BODY_1|0
+the c-wrapped hexagonal mesh|DT JJ JJ NN|BODY_4|0
+the hexagonal mesh|DT JJ NN|BODY_5|0
+as|IN|BODY_1|0
+at least two|IN JJS CD|BODY_1|0
+one edge |CD NN|BODY_1|0
+different sets|JJ NNS|BODY_5|0
+section 3 outlines|NN CD NNS|BODY_1|0
+graph g|NN NN|BODY_1|0
+fault-tolerant routing algorithms|JJ NN NNS|BODY_1|0
+these algorithms|DT NNS|BODY_1|0
+a fix|DT NN|BODY_4|0
+most other mesh types|RBS JJ NN NNS|BODY_5|0
+one problem|CD NN|BODY_1|0
+several mesh types|JJ NN NNS|BODY_4|0
+the previous version|DT JJ NN|BODY_1|0
+fault patterns|NN NNS|BODY_5|0
+all links|DT NNS|BODY_1|0
+any link|DT NN|BODY_1|0
+halt|NN|BODY_3|0
+( b )|-LRB- NN -RRB-|BODY_1|0
+algorithm ftroute 1|NN NN CD|BODY_3|0
+the routing|DT NN|BODY_1|0
+thescheme|DT|ABSTRACT_1|0
+definition 2|NN CD|BODY_1|0
+6a and 6b plot|. CC JJ NN|BODY_1|0
+the upper line|DT JJ NN|BODY_1|0
+such a hop|JJ DT NN|BODY_1|0
+2 given this|CD VBN DT|BODY_1|0
+7c and 7d|JJ CC JJ|BODY_1|0
+a uniform random distribution|DT JJ JJ NN|BODY_4|0
+addition|NN|BODY_1|0
+date|NN|BODY_1|0
+discussing circles|VBG NNS|BODY_7|0
+such a message|JJ DT NN|BODY_3|0
+such systems|JJ NNS|BODY_1|0
+the next theorem|DT JJ NN|BODY_1|0
+the two mesh architectures|DT CD NN NNS|BODY_1|0
+the unwrapped mesh|DT JJ NN|BODY_1|0
+this subsection|DT NN|BODY_1|0
+two representative mesh architectures|CD JJ NN NNS|BODY_3|0
+the extra cost|DT JJ NN|BODY_4|0
+this flag|DT NN|BODY_1|0
+.e|NN|BODY_6|0
+two types|CD NNS|BODY_5|0
+some rare cases|DT JJ NNS|BODY_1|0
+theorem 4|PRP CD|BODY_1|0
+these subdivisions|DT NNS|BODY_2|0
+time|NN|BODY_11:BODY_4:ABSTRACT_7:BODY_7|0
+second|JJ|BODY_1|0
+for relatively small systems|IN RB JJ NNS|BODY_3|0
+the example|DT NN|BODY_1|0
+the result|DT NN|BODY_1|0
+6 conclusion|CD NN|BODY_1|1
+all subsequent occurrences|DT JJ NNS|BODY_11|0
+immediately counter-clockwise|RB NN|BODY_4|0
+definition 3|NN CD|BODY_1|0
+a price|DT NN|BODY_2|0
+considerable overhead|JJ NN|BODY_2|0
+a network|DT NN|BODY_5|0
+destinations|NNS|BODY_5|0
+the vertical edge|DT JJ NN|BODY_10|0
+the link counter-clockwise|DT NN NN|BODY_1|0
+these copies|DT NNS|BODY_1|0
+this information messages|DT NN NNS|BODY_1|0
+no incisions|DT NNS|BODY_2|0
+( d )|-LRB- NN -RRB-|BODY_1|0
+2.|PRP|BODY_1|0
+a cycle , halt|DT NN , NN|BODY_8|0
+another flag|DT NN|BODY_1|0
+any selected , non-faulty link|DT VBN , JJ NN|BODY_2:BODY_8|0
+each individual node|DT JJ NN|BODY_9|0
+other information|JJ NN|BODY_1|0
+state|NN|BODY_9|0
+that link|DT NN|BODY_4|0
+11 to 0.|CD TO CD|BODY_12|0
+appropriate|JJ|BODY_12|0
+this curve|DT NN|BODY_1|0
+a reachable destination|DT JJ NN|BODY_6|0
+almost all cases|RB DT NNS|BODY_1|0
+the following theorems|DT VBG NNS|BODY_1|0
+theorem 3|NN CD|BODY_1|0
+these offsets|DT NNS|BODY_1|0
+no non-faulty links|DT NN NNS|BODY_7|0
+its source and destination|PRP$ NN CC NN|BODY_5|0
+source and destination|NN CC NN|ABSTRACT_8|0
+the endpoint distance|DT NN NN|BODY_1|0
+jordan curves|NN NNS|BODY_4|0
+the isolated mesh component and return|DT VBN JJ NN CC NN|BODY_9|0
+the corresponding direction|DT JJ NN|BODY_9|0
+the resulting graphs|DT VBG NNS|BODY_1|0
+faulty links|NN NNS|BODY_6|0
+an infinite planar graph|DT JJ JJ NN|BODY_7|0
+'s main processor|POS JJ NN|BODY_9|0
+the outgoing link|DT JJ NN|BODY_4|0
+a homogeneous mesh|DT JJ NN|BODY_5|0
+in most cases|IN JJS NNS|BODY_4|0
+many mesh-type distributed system architectures|JJ NN VBN NN NNS|BODY_5|1
+the main difficulty|DT JJ NN|BODY_1|0
+the same column|DT JJ NN|BODY_21|0
+the simple routing algorithm|DT JJ NN NN|BODY_5|0
+no subdivisions|DT NNS|BODY_1|0
+the mesh size increases|DT NN NN NNS|BODY_5|0
+an x \theta y mesh|DT NN NN NN NN|BODY_1|0
+any nodes|DT NNS|BODY_7|0
+intersects|NNS|BODY_5|0
+itself|PRP|BODY_5|0
+link i|NN IN|BODY_13|0
+nodes 8 , 9 , 17 , 5 , 12|NNS CD , CD , CD , CD , CD|BODY_5|0
+practice|NN|BODY_1|0
+wrapped|VBN|BODY_3|0
+the connected components|DT JJ NNS|BODY_9|0
+the same node|DT JJ NN|BODY_3|0
+fact|NN|BODY_1|0
+the x-axis , y-axis , or neither|DT NNP , NNP , CC RB|BODY_7|0
+'s available directions|POS JJ NNS|BODY_6|0
+four oriented directions|CD JJ NNS|BODY_3|0
+the corresponding outgoing link|DT JJ JJ NN|BODY_8|0
+a similar argument|DT JJ NN|BODY_1|0
+this example|DT NN|BODY_1|0
+any such node-link pair|DT JJ NN NN|BODY_1|0
+each step|DT NN|BODY_1|0
+figure 4|NN CD|BODY_1|0
+figure 3|NN CD|BODY_1|0
+6a and 6b|NN CC NN|BODY_1|0
+consider k 5|VB NN CD|BODY_1|0
+the path lengths|DT NN NNS|BODY_1|0
+the theorem|DT NN|BODY_1|0
+this algorithm|DT NN|BODY_1|0

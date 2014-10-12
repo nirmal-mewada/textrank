@@ -1,0 +1,38 @@
+multidimensional data visualization|JJ NNS NN|BODY_1:BODY_3|0
+we|PRP|BODY_1|0
+flexibility|NN|BODY_2|0
+the multidimensional image|DT JJ NN|BODY_4|0
+a visual object|DT JJ NN|BODY_2|0
+each|DT|BODY_5|0
+(varying degrees|JJ NNS|BODY_8|0
+e .g.|NN NNP|BODY_2|0
+two dimensions|CD NNS|BODY_3|0
+glyphs ( ware|NNS -LRB- NN|BODY_8|0
+users|NNS|BODY_3|0
+data|NNS|BODY_3|0
+many data parameters|JJ NNS NNS|BODY_4|0
+which|WDT|BODY_3|0
+matlab 6.1|NN CD|BODY_4|0
+spss 10.0)|NN CD|BODY_6|0
+data desk 6.1|NNS NN CD|BODY_3|0
+three-dimensional scatter plots|JJ NN NNS|BODY_7|0
+the application|DT NN|BODY_7|0
+multivariate data|JJ NNS|BODY_6|0
+4.04|CD|BODY_5|0
+data visualization|NNS NN|BODY_2|0
+1998 ) and tcl/tk|CD -RRB- CC NN|BODY_5|0
+the visualization toolkit|DT NN NN|BODY_3|0
+( schroeder et al.|-LRB- FW FW FW|BODY_4|0
+our multi-dimensional data viewer|PRP$ JJ NNS NN|BODY_2|0
+our own data visualization application|PRP$ JJ NNS NN NN|BODY_2|0
+advantages|NNS|BODY_2|0
+a different visual attribute ( e .g. , size or color )|DT JJ JJ NN -LRB- NN NN , NN CC NN -RRB-|BODY_6|0
+a glyph|DT NN|BODY_1|0
+raw experimental data|JJ JJ NNS|BODY_5|0
+the graphical interface|DT JJ NN|BODY_1|0
+) user interactivity|-RRB- NN NN|BODY_9|0
+available software packages|JJ NN NNS|BODY_1|0
+2000 )|CD -RRB-|BODY_9|0
+e .g. , histograms or scatter plots )|NN NNP , NNS CC JJ NNS -RRB-|BODY_4|0
+several psycholinguistic experiments|JJ JJ NNS|BODY_4|0
+some potential limitations|DT JJ NNS|BODY_4|0

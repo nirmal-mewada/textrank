@@ -1,0 +1,956 @@
+the integration|DT NN|ABSTRACT_4:TITLE_2|1
+that|WDT|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4|1
+objects|NNS|BODY_12:ABSTRACT_11:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_19:BODY_7:BODY_9|1
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:ABSTRACT_1:BODY_9|2
+time|NN|BODY_6:BODY_12:BODY_5:ABSTRACT_8:BODY_2:BODY_3:BODY_4:BODY_8|0
+our system|PRP$ NN|BODY_5:BODY_1:BODY_2:ABSTRACT_1:BODY_8|0
+the system|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+controllers|NNS|BODY_6:BODY_13:BODY_2:BODY_1:ABSTRACT_3:BODY_3|2
+an object-oriented framework|DT JJ NN|TITLE_1|0
+interactive animation techniques|JJ NN NNS|TITLE_3|0
+a variety|DT NN|ABSTRACT_5:BODY_1:BODY_2|1
+lazy evaluation|JJ NN|ABSTRACT_5:BODY_2|0
+the use|DT NN|BODY_1:BODY_2:ABSTRACT_3|0
+some|DT|ABSTRACT_2:BODY_4:ABSTRACT_7|0
+the modeling|DT NN|BODY_6:ABSTRACT_2|0
+the mechanisms|DT NNS|ABSTRACT_5:BODY_3|0
+this paper|DT NN|ABSTRACT_1:BODY_4|0
+interactive performance|JJ NN|ABSTRACT_2:BODY_3|0
+control|NN|BODY_5:BODY_2:ABSTRACT_3|0
+cameras|NNS|ABSTRACT_4:BODY_2:BODY_4|0
+changes|NNS|BODY_6:BODY_1:ABSTRACT_1:BODY_4|0
+intra-frame coherency|JJ NN|BODY_5:ABSTRACT_8|0
+shape|NN|BODY_6:ABSTRACT_5|0
+change|NN|ABSTRACT_4:BODY_9|0
+all|DT|BODY_4:ABSTRACT_12|0
+simulation and animation paradigms|NN CC NN NNS|ABSTRACT_6|1
+disparate control methods|JJ NN NNS|ABSTRACT_6|0
+these issues.the system|DT NNS NN|ABSTRACT_8|0
+'s object-oriented architecture|POS JJ NN|ABSTRACT_9|0
+an extensible testbed|DT JJ NN|ABSTRACT_2|0
+the interaction|DT NN|ABSTRACT_5|0
+extensive caching|JJ NN|ABSTRACT_6|0
+various methods|JJ NNS|ABSTRACT_2|0
+such interactions|JJ NNS|ABSTRACT_4|0
+diverse objects|JJ NNS|ABSTRACT_3|0
+modeling tools|JJ NNS|ABSTRACT_2|0
+the issues|DT NNS|ABSTRACT_3|0
+delegation hierarchies|NN NNS|ABSTRACT_10|0
+data-dependency networks|NN NNS|ABSTRACT_4|0
+displayable objects|JJ NNS|ABSTRACT_2|0
+user interfaces|NN NNS|ABSTRACT_7|0
+controller objects|NN NNS|ABSTRACT_7|0
+this system|DT NN|ABSTRACT_1|0
+animation controls|NN NNS|ABSTRACT_3|0
+their attributes|PRP$ NNS|ABSTRACT_13|0
+it|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+an object|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the object|DT NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+messages|NNS|BODY_6:BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|3
+a message|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+example|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+bazinga  rotate trans|NN RB VB NNS|BODY_11|1
+bazinga  figure 4|NN RB NN CD|BODY_13|1
+information|NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+other objects|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+an expensive-to-compute spline surface|DT JJ NN NN|BODY_2|0
+'s collision response interpretation|POS NN NN NN|BODY_2|0
+constructive solid geometry objects|JJ JJ NN NNS|BODY_1:BODY_4|0
+both time and behavior|DT NN CC NN|BODY_7|0
+the most recent displacement|DT RBS JJ NN|BODY_3|0
+the possible controller types|DT JJ NN NNS|BODY_9|0
+a spline path )|DT NN NN -RRB-|BODY_15|0
+the last two decades|DT JJ CD NNS|BODY_2|0
+their own boundary repre|PRP$ JJ NN NN|BODY_5|0
+various objects and phenomena|JJ NNS CC NNS|BODY_7|0
+generalized cylinders or ducts|JJ NNS CC NNS|BODY_12|0
+a single time-varying message|DT JJ JJ NN|BODY_2|0
+essentially all inquired data|RB DT VBN NNS|BODY_3|0
+its own invalid cache|PRP$ JJ JJ NN|BODY_2|0
+the velocity and position|DT NN CC NN|BODY_9|0
+sphere b-rep object bazinga|NN JJ NN NN|BODY_7|0
+a list|DT NN|BODY_6:BODY_5:BODY_17:BODY_3:BODY_4:BODY_10:BODY_7|1
+an articulated arm reach|DT JJ NN NN|BODY_3|0
+/u/john/paint.bi camera sin( 3.14|NNP NN JJ CD|BODY_4|0
+a time-varying delegation hierarchy|DT NN NN NN|BODY_2|0
+a user interface object|DT NN NN NN|BODY_3|0
+one or more objects|CD CC RBR NNS|BODY_4|0
+its orientation througha reference|PRP$ NN NN NN|BODY_5|0
+a classical class-instance hierarchy|DT JJ NN NN|BODY_4|0
+its orientation and shape|PRP$ NN CC NN|BODY_2|0
+a polygonal boundary representa|DT JJ NN NN|BODY_8|0
+velocity and acceleration data|NN CC NN NNS|BODY_2|0
+a csg tree )|DT NN NN -RRB-|BODY_8|0
+a few shape-specific methods|DT JJ JJ NNS|BODY_3|0
+the previously computed value|DT RB VBN NN|BODY_4|0
+several spline path objects|JJ NN NN NNS|BODY_5|0
+the same abstract command|DT JJ JJ NN|BODY_4|0
+an unusually close integration|DT RB JJ NN|BODY_4|0
+large scientific visualization projects|JJ JJ NN NNS|BODY_2|0
+a more suitable one|DT JJR JJ CD|BODY_8|0
+the necessary intermediate values|DT JJ JJ NNS|BODY_5|0
+a screen-aligned text object|DT VBN NN NN|BODY_2|0
+a sample interactive environment|DT NN JJ NN|BODY_7|0
+its own specialized information|PRP$ JJ JJ NN|BODY_3|0
+bazinga  figure 3|JJ NN NN CD|BODY_5|0
+entities ( e .g.|NNS -LRB- NN NN|BODY_3|0
+a 3d pong game|DT JJ NN NN|BODY_8|0
+a selective pro- cess|DT JJ NNS NN|BODY_3|0
+the same collision-response interpretation|DT JJ NN NN|BODY_4|0
+a single real number|DT JJ JJ NN|BODY_3|0
+the weighted average )|DT JJ NN -RRB-|BODY_5|0
+a graphical user interface|DT JJ NN NN|BODY_4|0
+an unusual object (|DT JJ NN -LRB-|BODY_3|0
+a linear transformation )|DT JJ NN -RRB-|BODY_4|0
+that structure and behavior|DT NN CC NN|BODY_4|0
+the inquiring object (|DT VBG NN -LRB-|BODY_5|0
+its ray intersection method|PRP$ NN NN NN|BODY_7|0
+each other , information|DT JJ , NN|BODY_3|0
+a boundary representation (b-rep)|DT NN NN NN|BODY_2|0
+several extruded duct objects|JJ JJ NN NNS|BODY_2|0
+the points and paths|DT NNS CC NNS|BODY_7|0
+a and a controller|DT CC DT NN|BODY_5|0
+the ball and anything|DT NN CC NN|BODY_3|0
+a particular time t|DT JJ NN NN|BODY_4|0
+a general animation system|DT JJ NN NN|BODY_8|0
+the size and shape|DT NN CC NN|BODY_6|0
+another object or list|DT NN CC NN|BODY_11|0
+user-interface objects and controllers|JJ NNS CC NNS|BODY_5|0
+a constraint solver )|DT NN NN -RRB-|BODY_8|0
+the constantly changing nature|DT RB VBG NN|BODY_1|0
+the nature and content|DT NN CC NN|BODY_5|0
+the csg object change|DT JJ NN NN|BODY_2|0
+some or possibly all|DT CC RB DT|BODY_3|0
+animation and modeling systems|NN CC NN NNS|BODY_9|0
+a more general mechanism|DT RBR JJ NN|BODY_1|0
+the given time t|DT VBN NN NN|BODY_8|0
+only the intermediary controller|RB DT JJ NN|BODY_6|0
+its polygonal boundary representation|PRP$ JJ NN NN|BODY_4|0
+a l l figure|DT JJ JJ NN|BODY_1|0
+collision detection and response|NN NN CC NN|BODY_3|0
+only a single attribute|RB DT JJ NN|BODY_9|0
+the csg tree example|DT NN NN NN|BODY_1|0
+a very cheap operation|DT RB JJ NN|BODY_5|0
+the inverse kinematics controller|DT NN NNS NN|BODY_6|0
+interaction strict priority ordering|NN JJ NN NN|BODY_3|0
+modeling or animation technique|JJ CC NN NN|BODY_4|0
+its velocity and acceleration|PRP$ NN CC NN|BODY_4|0
+a single abstract messagethat|DT JJ JJ NN|BODY_1|0
+4.3 message list traversal|CD NN NN NN|BODY_1|0
+a second collision-response object|DT JJ NN NN|BODY_1|0
+other more sophisticated controllers|JJ JJR JJ NNS|BODY_1|0
+an inverse kinematics controller|DT NN NNS NN|BODY_1|0
+the acceleration and velocity|DT NN CC NN|BODY_1|0
+global lighting cal- culations|JJ NN NNS NNS|BODY_4|0
+their appearance and behavior|PRP$ NN CC NN|BODY_6|0
+its behavior and appearance|PRP$ NN CC NN|BODY_8|0
+itself|PRP|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the cache|DT NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+a controlled object|DT JJ NN|BODY_5:BODY_2:BODY_3|1
+the ball|DT NN|BODY_5:BODY_11:BODY_13:BODY_1:BODY_3:BODY_4|0
+the same object|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_10|1
+one|CD|BODY_5:BODY_1:BODY_2:BODY_8:BODY_9|1
+the messages|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_8|0
+control points|NN NNS|BODY_5:BODY_11:BODY_2:BODY_3:BODY_7|0
+which|WDT|BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a control point|DT NN NN|BODY_12:BODY_6:BODY_1:BODY_2:BODY_10|0
+cone object messages|NN NN NNS|BODY_12:BODY_4|1
+several important characteristics|JJ JJ NNS|BODY_2|1
+a csg object|DT JJ NN|BODY_2:BODY_3|0
+an important purpose|DT JJ NN|BODY_2|1
+a cache query|DT NN NN|BODY_9|1
+the back walls|DT JJ NNS|BODY_11:BODY_3:BODY_4:BODY_7|0
+a delegation system|DT NN NN|BODY_6:BODY_1:BODY_4:BODY_7|0
+the fly|DT NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+the particular order|DT JJ NN|BODY_5|1
+the specific attributes|DT JJ NNS|BODY_4|1
+the position|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_9|0
+a and b|DT CC NN|BODY_3|0
+modeling , animation|JJ , NN|BODY_6:BODY_3|0
+the controlled object|DT JJ NN|BODY_5:BODY_4|0
+the controlled objects|DT JJ NNS|BODY_5:BODY_7|0
+the spline equations|DT NN NNS|BODY_3:BODY_8|0
+the intermediary controller|DT JJ NN|BODY_2:BODY_3|0
+'s ctm cache|POS JJ NN|BODY_3|0
+the revolve object|DT JJ NN|BODY_6:BODY_2:BODY_10|0
+all inherent inter-|DT JJ NNS|BODY_2|0
+the sending object|DT VBG NN|BODY_2|0
+the simulated objects|DT JJ NNS|BODY_2|0
+control point values|NN NN NNS|BODY_16:BODY_1|0
+a user interface|DT NN NN|BODY_2|0
+a varying cross-section|DT VBG NN|BODY_14|0
+a canned movie |DT JJ NN|BODY_3|0
+kinematics and dynamics|NNS CC NNS|BODY_5|0
+all modeling tools|DT NN NNS|BODY_3|0
+a kinematic change|DT JJ NN|BODY_2|0
+the simplest way|DT JJS NN|BODY_1:BODY_3|0
+a csg operation|DT NN NN|BODY_10|0
+a growing collection|DT VBG NN|BODY_4|0
+each control point|DT NN NN|BODY_10|0
+'s ray-intersection method|POS NN NN|BODY_2|0
+the system architecture|DT NN NN|BODY_2|0
+the elapsed time|DT JJ NN|BODY_5|0
+the kinematics controller|DT NNS NN|BODY_4|0
+translation and rotation|NN CC NN|BODY_4|0
+cloth simulation [19]|NN NN NN|BODY_5|0
+the rod span|DT NN NN|BODY_5:BODY_2|0
+a collision message|DT NN NN|BODY_8|0
+the csg object|DT JJ NN|BODY_1:BODY_4|0
+an interpolation method|DT NN NN|BODY_9|0
+any related attributes|DT JJ NNS|BODY_6|0
+a static relationship|DT JJ NN|BODY_3|0
+an implicit equation|DT JJ NN|BODY_6|0
+an interactive visualization|DT JJ NN|BODY_5|0
+a special case|DT JJ NN|BODY_3|0
+graphics systems software|NNS NNS NN|BODY_5|0
+the initial conditions|DT JJ NNS|BODY_5|0
+the multiple controllers|DT JJ NNS|BODY_1:BODY_4|0
+simulation and animation|NN CC NN|BODY_2|0
+the data incompatibility|DT NNS NN|BODY_4|0
+3.1 control points|CD NN NNS|BODY_3|0
+their component objects|PRP$ NN NNS|BODY_4|0
+the underlying model|DT JJ NN|BODY_3|0
+4.2 caching messages|CD NN NNS|BODY_1|0
+many interesting features|JJ JJ NNS|BODY_1|0
+the game players|DT NN NNS|BODY_2|0
+the caching mechanism|DT NN NN|BODY_2|0
+the two walls|DT CD NNS|BODY_2|0
+approximately thirty percent|RB CD NN|BODY_5|0
+strict priority ordering|JJ NN NN|BODY_2|0
+its polygonal representation|PRP$ JJ NN|BODY_2:BODY_3|0
+three main areas|CD JJ NNS|BODY_4|0
+such tracking behavior|JJ NN NN|BODY_2|0
+] ( objects|NNP -LRB- NNS|BODY_13|0
+the late 70s|DT JJ NNS|BODY_3|0
+a retained list|DT VBN NN|BODY_3|0
+the collision-response controller|DT JJ NN|BODY_10|0
+a traditional pipeline|DT JJ NN|BODY_5|0
+modeling and anima|NN CC NN|BODY_5|0
+the moved point|DT VBN NN|BODY_4|0
+provided much insight|VBN JJ NN|BODY_6|0
+our modeling tools|PRP$ NN NNS|BODY_5|0
+ren- dering )|CD NN -RRB-|BODY_2|0
+its initial conditions|PRP$ JJ NNS|BODY_7|0
+the caching scheme|DT NN NN|BODY_3|0
+invalid multiple times|JJ JJ NNS|BODY_4|0
+( i .e|-LRB- NNS NN|BODY_6:BODY_5|0
+the control hull|DT NN NN|BODY_8|0
+its boundary representation|PRP$ NN NN|BODY_7|0
+the control points|DT NN NNS|BODY_4|0
+a specified time|DT VBN NN|BODY_4|0
+the numerical differentiation|DT JJ NN|BODY_2|0
+objects and operations|NNS CC NNS|BODY_7|0
+various application-dependent systems|JJ JJ NNS|BODY_7|0
+the runge-kutta method|DT NN NN|BODY_2|0
+the two players|DT CD NNS|BODY_2|0
+a diverse class|DT JJ NN|BODY_5|0
+the dynamic controller|DT JJ NN|BODY_1|0
+a supercomputer analysis|DT NN NN|BODY_4|0
+ours incorporating delegation|PRP$ NN NN|BODY_8|0
+their boundary representations|PRP$ NN NNS|BODY_3|0
+a rigid-body dynamics|DT NN NNS|BODY_2|0
+the appropriate information|DT JJ NN|BODY_3|0
+our interobject dependencies|PRP$ JJ NNS|BODY_4|0
+a wide range|DT JJ NN|BODY_3|0
+the abstract instructions|DT JJ NNS|BODY_7|0
+interesting controller interactions|JJ NN NNS|BODY_2|0
+this apparent change|DT JJ NN|BODY_2|0
+extensive caching use|JJ NN NN|BODY_4|0
+a cachecan invalidate|DT NN NN|BODY_10|0
+invalid rotate trans|JJ NN NNS|BODY_5|0
+standard intermediary controllers|JJ NN NNS|BODY_2|0
+the appropriate ob|DT JJ NN|BODY_2|0
+the path )|DT NN -RRB-|BODY_6|0
+the boundary representation|DT NN NN|BODY_3|0
+changesto many attributes|NN JJ NNS|BODY_2|0
+the simple case|DT NN NN|BODY_2|0
+the next generation|DT JJ NN|BODY_4|0
+a large class|DT JJ NN|BODY_2|0
+much valuable criticism|RB JJ NN|BODY_4|0
+the component objects|DT NN NNS|BODY_5|0
+three real numbers|CD JJ NNS|BODY_6|0
+such batch simulations|JJ NN NNS|BODY_3|0
+( and not|-LRB- CC RB|BODY_9|0
+a path move|DT NN NN|BODY_4|0
+the next step|DT JJ NN|BODY_2|0
+a simple example|DT JJ NN|BODY_6|0
+a pre-scripted plan|DT JJ NN|BODY_6|0
+'s animation systems|POS NN NNS|BODY_2|0
+the collision message|DT NN NN|BODY_10|0
+the valid interval|DT JJ NN|BODY_2|0
+a message rotate|DT NN NN|BODY_6|0
+an earlier version|DT JJR NN|BODY_4|0
+an appropriate mechanism|DT JJ NN|BODY_7|0
+one controller handle|CD NN NN|BODY_2|0
+another object|DT NN|BODY_6:BODY_2:BODY_3:BODY_7:BODY_8|0
+computer graphics problems|NN NNS NNS|BODY_5|0
+the boundary representations|DT NN NNS|BODY_6|0
+the many people|DT JJ NNS|BODY_2|0
+a scaling transformation|DT NN NN|BODY_2|0
+its time-varying function|PRP$ NN NN|BODY_3|0
+the deformation method|DT NN NN|BODY_6|0
+no intrinsic notion|DT JJ NN|BODY_6|0
+a single object|DT JJ NN|BODY_4|0
+a weighted sum|DT JJ NN|BODY_4|0
+no explicit notion|DT JJ NN|BODY_4|0
+a path object|DT NN NN|BODY_4|0
+a spline path|DT NN NN|BODY_6|0
+the kinematic controller|DT JJ NN|BODY_1:BODY_3|0
+a  collision|DT NN NN|BODY_4|0
+other hierarchical collections|JJ JJ NNS|BODY_6|0
+the response message|DT NN NN|BODY_4|0
+a scripting language|DT NN NN|BODY_18|0
+the fly animation|DT NN NN|BODY_3|0
+a uniform scale|DT JJ NN|BODY_4|0
+object iden- tifiers|NN NNS NNS|BODY_7|0
+a transformation matrix|DT NN NN|BODY_6|0
+a different one|DT JJ NN|BODY_8|0
+the animation process|DT NN NN|BODY_4|0
+an interpolation function|DT NN NN|BODY_3|0
+each controlled object|DT JJ NN|BODY_6|0
+the serial interpretation|DT JJ NN|BODY_5|0
+its many kinds|PRP$ JJ NNS|BODY_4|0
+polygonal boundary representations|JJ NN NNS|BODY_3|0
+the tree hierarchy|DT NN NN|BODY_6|0
+the two controllers|DT CD NNS|BODY_4|0
+a kinematic controller|DT JJ NN|BODY_3|0
+a recursive traversal|DT JJ NN|BODY_9|0
+only a cache|RB DT NN|BODY_5|0
+the current score|DT JJ NN|BODY_4|0
+a deformed torus|DT VBN NN|BODY_2|0
+time and messages|NN CC NNS|BODY_3|0
+a null interpretation|DT JJ NN|BODY_3|0
+a collision-response message|DT NN NN|BODY_2|0
+such intermediary controllers|JJ JJ NNS|BODY_1|0
+their physical attributes|PRP$ JJ NNS|BODY_11|0
+a rich collection|DT JJ NN|BODY_2|0
+only one relation|RB CD NN|BODY_3|0
+the same data|DT JJ NNS|BODY_3|0
+a smooth ,|DT JJ ,|BODY_4|0
+two moving objects|CD VBG NNS|BODY_3|0
+a common set|DT JJ NN|BODY_4|0
+a flexible object|DT JJ NN|BODY_5|0
+the term controllers|DT NN NNS|BODY_2|0
+performs ray intersection|NNS NN NN|BODY_10|0
+a meaningful result|DT JJ NN|BODY_5|0
+6 controller interaction|CD NN NN|BODY_1|0
+a tenfold speedup|DT RB JJ|BODY_8|0
+description and rendering|NN CC NN|BODY_9|0
+many simple objects|JJ JJ NNS|BODY_1|0
+more general changes|RBR JJ NNS|BODY_1|0
+smalltalk programming languages|JJ NN NNS|BODY_7|0
+the previous displacement|DT JJ NN|BODY_8|0
+the same way|DT JJ NN|BODY_3|0
+a collision-response controller|DT JJ NN|BODY_2|0
+all the people|PDT DT NNS|BODY_3|0
+heterogenous controller interaction|JJ NN NN|BODY_6|0
+the message list|DT NN NN|BODY_1|0
+a vector function|DT NN NN|BODY_5|0
+the other hand|DT JJ NN|BODY_2|0
+the time interval|DT NN NN|BODY_7|0
+different time steps|JJ NN NNS|BODY_4|0
+an object-specific manner|DT JJ NN|BODY_3|0
+figure 9 )|NN CD -RRB-|BODY_7|0
+only a subset|RB DT NN|BODY_5|0
+a dynamic controller|DT JJ NN|BODY_4|0
+the receiving object|DT VBG NN|BODY_4|0
+which messages invalidate|WDT NNS NN|BODY_2|0
+collision response message|NN NN NN|BODY_6|0
+a spline patch|DT NN NN|BODY_3|0
+the time span|DT NN NN|BODY_4|0
+an object name|DT NN NN|BODY_5|0
+the scientific data|DT JJ NNS|BODY_5|0
+any given time|DT VBN NN|BODY_6|0
+figure 8 )|NN CD -RRB-|BODY_5|0
+the fly move|DT NN NN|BODY_5|0
+the target time|DT NN NN|BODY_11|0
+phigs+ or dor-e|NN CC NN|BODY_5|0
+the appropriate wall|DT JJ NN|BODY_8|0
+traditional graphics packages|JJ NNS NNS|BODY_1|0
+a faster paddle|DT RBR NN|BODY_2|0
+the weighted average|DT JJ NN|BODY_6|0
+its entire nature|PRP$ JJ NN|BODY_7|0
+this global information|DT JJ NN|BODY_10|0
+its invalid cache|PRP$ JJ NN|BODY_4|0
+the first time|DT JJ NN|BODY_1|0
+a ray intersection|DT NN NN|BODY_5|0
+'s message list|POS NN NN|BODY_2|0
+the relative ordering|DT JJ NN|BODY_4|0
+a different kind|DT JJ NN|BODY_5|0
+the next frame|DT JJ NN|BODY_4|0
+a csg tree|DT NN NN|BODY_2|0
+its new position|PRP$ JJ NN|BODY_5|0
+this object-oriented approach|DT JJ NN|BODY_1|0
+a translate )|DT VB -RRB-|BODY_11|0
+an intermediary controller|DT JJ NN|BODY_5|0
+the rigid rod|DT JJ NN|BODY_6|0
+many different objects|JJ JJ NNS|BODY_4|0
+each object|DT NN|BODY_6:BODY_2:BODY_3|0
+its semantic meaning|PRP$ JJ NN|BODY_4|0
+'s overall behavior|POS JJ NN|BODY_9|0
+continuous contact )|JJ NN -RRB-|BODY_15|0
+a simple controller|DT JJ NN|BODY_1|0
+all the messages|DT DT NNS|BODY_5|0
+a new object|DT JJ NN|BODY_4|0
+the next instant|DT JJ NN|BODY_11|0
+an associated value|DT JJ NN|BODY_14|0
+arbitrarily complex expressions|RB JJ NNS|BODY_5|0
+its own methods|PRP$ JJ NNS|BODY_8|0
+a rigid object|DT JJ NN|BODY_9|0
+a non-uniform scale|DT JJ NN|BODY_7|0
+a quartic equation|DT JJ NN|BODY_6|0
+figure 5 )|NN CD -RRB-|BODY_4|0
+this complexity possible|DT NN JJ|BODY_6|0
+function-based control points|JJ NN NNS|BODY_1|0
+a second inquiry|DT JJ NN|BODY_1|0
+figure 4 )|NN CD -RRB-|BODY_5|0
+the correct value|DT JJ NN|BODY_5|0
+the appropriate walls|DT JJ NNS|BODY_6|0
+paths and ducts|NNS CC NNS|BODY_1|0
+the spline path|DT NN NN|BODY_7|0
+the interpretation mechanism|DT NN NN|BODY_1|0
+visually light up|RB JJ RP|BODY_12|0
+more detailed manipulations|RBR JJ NNS|BODY_1|0
+more common objects|RBR JJ NNS|BODY_7|0
+such a message|JJ DT NN|BODY_1|0
+the ball )|DT NN -RRB-|BODY_7|0
+monitoring memory usage|NN NN NN|BODY_1|0
+this linear traversal|DT NN NN|BODY_1|0
+highly specialized messagescan|RB JJ NN|BODY_1|0
+computationally expensive data|RB JJ NNS|BODY_3|0
+each cache stores|DT NN NNS|BODY_1|0
+the prototype-extension relationship|DT NN NN|BODY_1|0
+a class-instance system|DT NN NN|BODY_1|0
+a meaningful way|DT JJ NN|BODY_6|0
+their messages )|PRP$ NNS -RRB-|BODY_20|0
+a third problem|DT JJ NN|BODY_3|0
+figure 1 )|NN CD -RRB-|BODY_8|0
+some other controller|DT JJ NN|BODY_1|0
+another object )|DT NN -RRB-|BODY_12|0
+a particular object|DT JJ NN|BODY_7|0
+controllers and objects|NNS CC NNS|BODY_4|0
+its other attributes|PRP$ JJ NNS|BODY_5|0
+the requested frame|DT VBN NN|BODY_8|0
+the interpolation method|DT NN NN|BODY_4|0
+only the extension|RB DT NN|BODY_6|0
+the corresponding object|DT JJ NN|BODY_11|0
+its own caches|PRP$ JJ NNS|BODY_3|0
+the ideal system|DT JJ NN|BODY_1|0
+a controller|DT NN|BODY_2:BODY_1:BODY_3|1
+caching|NN|BODY_1:BODY_2:BODY_4|1
+the paddles|DT NNS|BODY_5:BODY_13:BODY_3:BODY_10:BODY_4:BODY_8|0
+the path|DT NN|BODY_2:BODY_4:BODY_7:BODY_8|0
+the controller|DT NN|BODY_6:BODY_2:BODY_4|0
+what|WP|BODY_2:BODY_4:BODY_10:BODY_7|1
+the methods|DT NNS|BODY_3:BODY_4|1
+an example|DT NN|BODY_2:BODY_1|0
+a cache|DT NN|BODY_15:BODY_2:BODY_7|1
+an inquiry|DT NN|BODY_5:BODY_2:BODY_14|1
+the duct|DT NN|BODY_5:BODY_1:BODY_3:BODY_10:BODY_8|0
+the figure|DT NN|BODY_2:BODY_1:BODY_8|0
+(|-LRB-|BODY_17:BODY_3:BODY_7:BODY_9|0
+controller interaction|NN NN|BODY_2:BODY_3|0
+functions|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+instance|NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+communication|NN|BODY_12:BODY_2:BODY_3:BODY_4|2
+these messages|DT NNS|BODY_2:BODY_1|0
+a user|DT NN|BODY_6:BODY_4|0
+much faster|RB RBR|BODY_6:BODY_4|1
+themselves|PRP|BODY_2:BODY_4|0
+the walls|DT NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+the need|DT NN|BODY_6:BODY_11|1
+a set|DT NN|BODY_11:BODY_2:BODY_3|0
+the data|DT NNS|BODY_5:BODY_9|1
+its prototype|PRP$ NN|BODY_6:BODY_4:BODY_7:BODY_9|0
+multiple controllers|JJ NNS|BODY_1:BODY_3|0
+the effects|DT NNS|BODY_6:BODY_3:BODY_7|0
+the first|DT JJ|BODY_5:BODY_1|0
+a sphere|DT NN|BODY_6:BODY_10:BODY_4|0
+the association|DT NN|BODY_5:BODY_8|0
+the prototype|DT NN|BODY_6:BODY_2:BODY_4|0
+the value|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+collisions|NNS|BODY_6:BODY_5:BODY_2|0
+our objects|PRP$ NNS|BODY_1|1
+a function|DT NN|BODY_2:BODY_4:BODY_7|0
+this controller|DT NN|BODY_6:BODY_1|1
+velocity|NN|BODY_3:BODY_7:BODY_9|0
+momentum transfers|NN NNS|BODY_13:BODY_4|0
+differential equations|JJ NNS|BODY_5|1
+interactive illustrations|JJ NNS|BODY_6:BODY_2:BODY_1|0
+the points|DT NNS|BODY_2|0
+the behavior|DT NN|BODY_2:BODY_4|0
+less information|JJR NN|BODY_7|1
+cone b-rep|NN NN|BODY_8|1
+its relation|PRP$ NN|BODY_2|1
+image synthesis|NN NN|BODY_5:BODY_1|0
+the message|DT NN|BODY_6:BODY_3:BODY_9|0
+a change|DT NN|BODY_8|0
+the extension|DT NN|BODY_5:BODY_1:BODY_2|0
+another controller|DT NN|BODY_9|1
+actually requested|RB VBN|BODY_6|1
+the paddle|DT NN|BODY_6:BODY_11|0
+any time|DT NN|BODY_3:BODY_4|0
+the end|DT NN|BODY_16|1
+time )|NN -RRB-|BODY_6|1
+interactive updates|JJ NNS|BODY_3|1
+/*a list|DT NN|BODY_6:BODY_9|0
+subsequent messages|JJ NNS|BODY_4|1
+a number|DT NN|BODY_1:BODY_3|0
+atomic values|JJ NNS|BODY_2:BODY_10|0
+that object|IN NN|BODY_10:BODY_7|0
+the rod|DT NN|BODY_2:BODY_1:BODY_10|0
+3.2 messages|CD NNS|BODY_1|1
+'s list|POS NN|BODY_5:BODY_2:BODY_4:BODY_8|0
+several edits|JJ NNS|BODY_1|1
+animation control|NN NN|BODY_2|0
+different controllers|JJ NNS|BODY_2|0
+different rates|JJ NNS|BODY_3|0
+each alike|DT RB|BODY_3|0
+four tires|CD NNS|BODY_2|0
+further research|JJ NN|BODY_3|0
+modifying messages|VBG NNS|BODY_3|0
+the point|DT NN|BODY_2|0
+the specification|DT NN|BODY_3|0
+this surface|DT NN|BODY_3|0
+the wall|DT NN|BODY_5:BODY_1|0
+the controllers|DT NNS|BODY_2:BODY_7|0
+its messages|PRP$ NNS|BODY_3:BODY_7|0
+a fly|DT NN|BODY_2:BODY_3:BODY_4|0
+its methods|PRP$ NNS|BODY_5:BODY_4|0
+all objects|DT NNS|BODY_1:BODY_7|0
+section 2|NN CD|BODY_2:BODY_3|0
+the interval|DT NN|BODY_6:BODY_2:BODY_7|0
+the renderer|DT NN|BODY_1:BODY_10|0
+'s method|POS NN|BODY_3:BODY_7|0
+a rotate|DT NN|BODY_10:BODY_8|0
+any object|DT NN|BODY_6:BODY_3|0
+a chair|DT NN|BODY_2|0
+a duct|DT NN|BODY_1:BODY_3|0
+a translation|DT NN|BODY_4|0
+its position|PRP$ NN|BODY_11:BODY_4:BODY_8|0
+the results|DT NNS|BODY_6:BODY_2|0
+a camera|DT NN|BODY_2:BODY_1|0
+computer graphics|NN NNS|BODY_4|0
+graphics today|NNS NN|BODY_9|0
+spring constraints|NN NNS|BODY_3|0
+the animation|DT NN|BODY_6|0
+references|NNS|BODY_11:BODY_2:BODY_3|0
+values*/ 3.1416|NN CD|BODY_3|0
+heterogeneous controllers|JJ NNS|BODY_2|0
+many methods|JJ NNS|BODY_5|0
+several years|JJ NNS|BODY_5|0
+the text|DT NN|BODY_8|0
+graphics research|NNS NN|BODY_3|0
+more memory|JJR NN|BODY_6|0
+difficult problems|JJ NNS|BODY_4|0
+any joint|DT JJ|BODY_5|0
+'s time|POS NN|BODY_7|0
+as much|RB JJ|BODY_7|0
+e .g.|NN NN|BODY_10|0
+first-class notions|JJ NNS|BODY_8|0
+gestural controls|JJ NNS|BODY_2|0
+surface normals|NN NNS|BODY_7|0
+the start|DT NN|BODY_6|0
+our research|PRP$ NN|BODY_2|0
+each how|DT WRB|BODY_4|0
+those attributes|DT NNS|BODY_7|0
+our models|PRP$ NNS|BODY_2|0
+the tolerances|DT NNS|BODY_7|0
+traditional graphics|JJ NNS|BODY_4|0
+accelerations )|NNS -RRB-|BODY_21|0
+the aspects|DT NNS|BODY_2|0
+the velocity|DT NN|BODY_5|0
+the c++|DT NN|BODY_6|0
+the plane|DT NN|BODY_9|0
+numerical integration|JJ NN|BODY_3|0
+shape modeling|NN NN|BODY_6|0
+time-varying messages|NN NNS|BODY_2|0
+several controllers|JJ NNS|BODY_2|0
+the simulation|DT NN|BODY_4|0
+both endpoints|DT NNS|BODY_3|0
+the goal|DT NN|BODY_5|0
+the parts|DT NNS|BODY_3|0
+these functions|DT NNS|BODY_2|0
+several objects|JJ NNS|BODY_2:BODY_4|0
+a point|DT NN|BODY_3|0
+each|DT|BODY_6:BODY_5|0
+a scene|DT NN|BODY_8|0
+dial objects|NN NNS|BODY_2|0
+geometric primitives|JJ NNS|BODY_3|0
+the artists|DT NNS|BODY_3|0
+boundary representation|NN NN|BODY_4|0
+the eye|DT NN|BODY_2:BODY_7|0
+an identifier|DT NN|BODY_9|0
+a cube|DT NN|BODY_6:BODY_4|0
+the scope|DT NN|BODY_3|0
+'s cache|POS NN|BODY_6|0
+'s cross-section|POS NN|BODY_11|0
+finite-element techniques|NN NNS|BODY_4|0
+the process|DT NN|BODY_8|0
+a class|DT NN|BODY_9|0
+'s position|POS NN|BODY_2|0
+a sequence|DT NN|BODY_4|0
+renderman )|NN -RRB-|BODY_3|0
+all eventualities|DT NNS|BODY_3|0
+i .e|FW FW|BODY_7|0
+the responsibility|DT NN|BODY_1:BODY_3|0
+the emphasis|DT NN|BODY_5|0
+arbitrary information|JJ NN|BODY_2|0
+figure 6|NN CD|BODY_2|0
+the situation|DT NN|BODY_1|0
+these features|DT NNS|BODY_1|0
+this behavior|DT NN|BODY_1|0
+this game|DT NN|BODY_2|0
+this change|DT NN|BODY_3|0
+every object|DT NN|BODY_2|0
+su- perquadrics|NNS NNS|BODY_3|0
+the series|DT NN|BODY_1:BODY_4|0
+an environment|DT NN|BODY_6|0
+ray intersection|NN NN|BODY_5|0
+a copy|DT NN|BODY_2|0
+inverse kinematics|JJ NNS|BODY_7|0
+free-form deformations|JJ NNS|BODY_14|0
+human intervention|JJ NN|BODY_6|0
+its computations|PRP$ NNS|BODY_4|0
+interacting controllers|NN NNS|BODY_3|0
+the performance|DT NN|BODY_3|0
+efficiency mechanisms|NN NNS|BODY_2|0
+incompatible controllers|JJ NNS|BODY_3|0
+the objects|DT NNS|BODY_5:BODY_1|0
+point objects|NN NNS|BODY_3|0
+one endpoint|CD NN|BODY_7|0
+figure 5|NN CD|BODY_8|0
+each message|DT NN|BODY_3|0
+a simulation|DT NN|BODY_6|0
+the realms|DT NNS|BODY_4|0
+object hierarchy|NN NN|BODY_6|0
+3d pong|JJ NN|BODY_3|0
+invalid (|JJ -LRB-|BODY_3|0
+the improvement|DT NN|BODY_2|0
+the amount|DT NN|BODY_3|0
+the length|DT NN|BODY_12|0
+the task|DT NN|BODY_6|0
+straightforward mechanisms|RB NNS|BODY_5|0
+electronic books|JJ NNS|BODY_4|0
+different objects|JJ NNS|BODY_3|0
+tangent information|JJ NN|BODY_11|0
+the problem|DT NN|BODY_7|0
+some messages|DT NNS|BODY_2:BODY_1|0
+response objects|NN NNS|BODY_2|0
+an end-point|DT NN|BODY_4|0
+this messsage|DT NN|BODY_2|0
+many researchers|JJ NNS|BODY_8|0
+certain attributes|JJ NNS|BODY_3|0
+the hull|DT NN|BODY_3|0
+many objects|JJ NNS|BODY_3|0
+more detail|JJR NN|BODY_2|0
+this type|DT NN|BODY_2|0
+the hulls|DT NNS|BODY_5|0
+a goal|DT NN|BODY_4|0
+the sys|DT NNS|BODY_4|0
+some solutions|DT NNS|BODY_2|0
+early 80s|JJ NNS|BODY_4|0
+this result|DT NN|BODY_6|0
+its focus|PRP$ NN|BODY_4|0
+at- tributes|DT NNS|BODY_3|0
+those objects|DT NNS|BODY_8|0
+acceleration (|NN -LRB-|BODY_14|0
+the roots|DT NNS|BODY_5|0
+a figure|DT NN|BODY_1|0
+control-point values|NN NNS|BODY_1|0
+intra-frame coherence|JJ NN|BODY_3|0
+this case|DT NN|BODY_1|0
+this message|DT NN|BODY_1|0
+this regard|DT NN|BODY_3|0
+useful behaviors|JJ NNS|BODY_2|0
+kinematic control|JJ NN|BODY_5|0
+expedite inquiry|JJ NN|BODY_2|0
+their objects|PRP$ NNS|BODY_2|0
+its own|PRP$ JJ|BODY_7|0
+an instance|DT NN|BODY_6|0
+its class|PRP$ NN|BODY_7|0
+the frame|DT NN|BODY_3|0
+batch mode|NN NN|BODY_3|0
+a phenomenon|DT NN|BODY_5|0
+a path|DT NN|BODY_1:BODY_3|0
+this lack|DT NN|BODY_4|0
+a system|DT NN|BODY_5|0
+the deformation|DT NN|BODY_7|0
+the values|DT NNS|BODY_2|0
+the scene|DT NN|BODY_5:BODY_8|0
+the spine|DT NN|BODY_7|0
+an eye|DT NN|BODY_2|0
+a messagebefore|DT RB|BODY_9|0
+the designer|DT NN|BODY_3|0
+the deformations|DT NNS|BODY_2|0
+the complexity|DT NN|BODY_2|0
+this object|DT NN|BODY_8|0
+direct values|JJ NNS|BODY_8|0
+that attribute|DT NN|BODY_5|0
+data structures|NNS NNS|BODY_6|0
+the rotation|DT NN|BODY_7|0
+most transformations|JJS NNS|BODY_2|0
+the parameters|DT NNS|BODY_5|0
+reflections )|NNS -RRB-|BODY_8|0
+] [14]|NN NN|BODY_8|0
+a time|DT NN|BODY_13|0
+a dynamics|DT NNS|BODY_5|0
+the definition|DT NN|BODY_2|0
+several mechanismsthat|JJ NNS|BODY_2|0
+the identity|DT NN|BODY_4|0
+the patch|DT NN|BODY_10|0
+position information|NN NN|BODY_6|0
+some indications|DT NNS|BODY_3|0
+scaled cylinders|VBN NNS|BODY_8|0
+the procedure|DT NN|BODY_4|0
+constraint solvers|NN NNS|BODY_9|0
+revo- lution|NNS NN|BODY_10|0
+the court|DT NN|BODY_3|0
+the fact|DT NN|BODY_3|0
+different ways|JJ NNS|BODY_3|0
+velocity (|NN -LRB-|BODY_12|0
+the details|DT NNS|BODY_9|0
+csg objects|JJ NNS|BODY_4|0
+2.0, 3.0]|CD CD|BODY_8|0
+their paddles|PRP$ NNS|BODY_2|0
+perhaps one|RB NN|BODY_9|0
+this problem|DT NN|BODY_1|0
+all inquiries|DT NNS|BODY_5|0
+the history|DT NN|BODY_2|0
+a mechanism|DT NN|BODY_2|0
+polar coordinates|JJ NNS|BODY_6|0
+this systemworks|DT NNS|BODY_4|0
+different types|JJ NNS|BODY_2|0
+one path|CD NN|BODY_6|0
+instant replay|JJ NN|BODY_4|0
+its components|PRP$ NNS|BODY_2|0
+euclidean coordinates|JJ NNS|BODY_7|0
+the game|DT NN|BODY_4|0
+the byproduct|DT NN|BODY_3|0
+a game|DT NN|BODY_5|0
+time-value pairs|NN NNS|BODY_5|0
+global information|JJ NN|BODY_6|0
+the inaccuracy|DT NN|BODY_6|0
+2nd value|JJ NN|BODY_11|0
+the ends|DT NNS|BODY_9|0
+two sorts|CD NNS|BODY_3|0
+the polygons|DT NNS|BODY_2|0
+the efficiency|DT NN|BODY_2|0
+the attributes|DT NNS|BODY_4|0
+a frame|DT NN|BODY_3|0
+its side|PRP$ NN|BODY_7|0
+a torus|DT NN|BODY_7|0
+the change|DT NN|BODY_6|0
+that interval|DT NN|BODY_7|0
+the linkage|DT NN|BODY_3|0
+its simplest|PRP$ JJS|BODY_4|0
+] [20]|JJ NN|BODY_2|0
+the dials|DT NNS|BODY_9|0
+evaluated values|JJ NNS|BODY_2|0
+no messages|DT NNS|BODY_2|0
+the set|DT NN|BODY_5|0
+no calculations|DT NNS|BODY_3|0
+'s interval|POS NN|BODY_6|0
+mathematical expressions|JJ NNS|BODY_3|0
+two cylinders|CD NNS|BODY_12|0
+csgs )|NNS -RRB-|BODY_5|0
+this situation|DT NN|BODY_3|0
+this way|DT NN|BODY_7|0
+interactive properties|JJ NNS|BODY_2|0
+our game|PRP$ NN|BODY_2|0
+the sender|DT NN|BODY_6|0
+a hierarchy|DT NN|BODY_3|0
+ray intersections|NN NNS|BODY_3|0
+our approach|PRP$ NN|BODY_1|0
+that information|DT NN|BODY_5|0
+a car|DT NN|BODY_1|0
+four times|CD NNS|BODY_4|0
+interaction policies|NN NNS|BODY_4|0
+the essence|DT NN|BODY_1|0
+the iterations|DT NNS|BODY_1|0
+the tire|DT NN|BODY_1|0
+these mechanisms|DT NNS|BODY_1|0
+this list|DT NN|BODY_1|0
+this translation|DT NN|BODY_1|0
+time-varying properties|NN NNS|BODY_4|0
+all aspects|DT NNS|BODY_3|0
+its interpretation|PRP$ NN|BODY_11|0
+'s ducts|POS NNS|BODY_9|0
+'s eyes|POS NNS|BODY_2|0
+less system|JJR NN|BODY_4|0
+scheduling problems|VBG NNS|BODY_6|0
+useful functions|JJ NNS|BODY_4|0
+a deformation|DT NN|BODY_2|0
+] [12]|NN NN|BODY_6|0
+a velocity|DT NN|BODY_1|0
+figure 2|NN CD|BODY_1|0
+implicit surfaces|JJ NNS|BODY_16|0
+parametric coordinates|JJ NNS|BODY_8|0
+solvers )|NNS -RRB-|BODY_11|0
+such illustrations|JJ NNS|BODY_1|0
+the mid-60s|DT NNS|BODY_1|0
+the screen|DT NN|BODY_10|0
+this section|DT NN|BODY_7|0
+successful cooperation|JJ NN|BODY_4|0
+the motion|DT NN|BODY_2|0
+the relationships|DT NNS|BODY_3|0
+all modeling|DT NN|BODY_1|0
+their methods|PRP$ NNS|BODY_3|0
+different messages|JJ NNS|BODY_2|0
+each other|DT JJ|BODY_3:BODY_8|0
+whose values|WP$ NNS|BODY_3|0
+the time|DT NN|BODY_5|0
+both objects|DT NNS|BODY_3|0
+a messageby|DT NN|BODY_7|0
+a court|DT NN|BODY_3|0
+whose momentum|WP$ NN|BODY_4|0
+in- valid|JJ JJ|BODY_8|0
+that path|DT NN|BODY_13|0
+many messages|JJ NNS|BODY_5|0
+many systems|JJ NNS|BODY_1|0
+the splines|DT NNS|BODY_5|0
+controlled objects|JJ NNS|BODY_5|0
+3.3 objects|CD NNS|BODY_1|0
+three items|CD NNS|BODY_4|0
+whatever information|WDT NN|BODY_6|0
+geometric objects|JJ NNS|BODY_1|0
+a name|DT NN|BODY_6|0
+moving obstacles|VBG NNS|BODY_1|0
+these animations|DT NNS|BODY_1|0
+a collision|DT NN|BODY_1|0
+] [10]|JJ NN|BODY_7|0
+other controllers|JJ NNS|BODY_8|0
+those points|DT NNS|BODY_12|0
+) properties|-RRB- NNS|BODY_9|0
+the torus|DT NN|BODY_1|0
+methods|NNS|BODY_2:BODY_3:BODY_4|0
+different situations|JJ NNS|BODY_4|0
+its polygons|PRP$ NNS|BODY_3|0
+new times|JJ NNS|BODY_4|0
+different effects|JJ NNS|BODY_4|0
+new messages|JJ NNS|BODY_4|0
+section 3.4|NN CD|BODY_3:BODY_4|0
+a reference|DT NN|BODY_5|0
+inter-frame coherency|NN NN|BODY_2|0
+their colors|PRP$ NNS|BODY_5|0
+the order|DT NN|BODY_13|0
+modify messages|VB NNS|BODY_4|0
+a mouse|DT NN|BODY_3|0
+a feature|DT NN|BODY_6|0
+the answer|DT NN|BODY_4|0
+its list|PRP$ NN|BODY_5|0
+behavioral modeling|JJ NN|BODY_7|0
+user interaction|NN NN|BODY_8|0
+the spline|DT NN|BODY_1|0
+a paddle|DT NN|BODY_2|0
+several advantages|JJ NNS|BODY_3|0
+'s properties|POS NNS|BODY_7|0
+one instant|CD NN|BODY_3|0
+multiple inquiries|JJ NNS|BODY_5|0
+6.1 problems|CD NNS|BODY_1|0
+the same|DT JJ|BODY_9|0
+priority order|NN NN|BODY_3|0
+the reference|DT NN|BODY_4|0
+the composition|DT NN|BODY_1|0
+the ones|DT NNS|BODY_12|0
+'s behavior|POS NN|BODY_3|0
+a z-buffer|DT NN|BODY_9|0
+the boundaries|DT NNS|BODY_9|0
+the list|DT NN|BODY_11:BODY_7|0
+this issue|DT NN|BODY_11|0
+visual inconsistencies|JJ NNS|BODY_5|0
+its super-class|PRP$ NN|BODY_10|0
+collision-response messages|NN NNS|BODY_9|0
+the distance|DT NN|BODY_1|0
+boolean operations|JJ NNS|BODY_4|0
+control mechanisms|NN NNS|BODY_3|0
+intermediary controllers|JJ NNS|BODY_1|0
+related attributes|JJ NNS|BODY_4|0
+another issue|DT NN|BODY_1|0
+data incompatibility|NNS NN|BODY_3|0
+an attribute|DT NN|BODY_2|0
+lists|NNS|BODY_10:BODY_4:BODY_9|0
+'s extension|POS NN|BODY_8|0
+rendering phases|VBG NNS|BODY_7|0
+two pairs|CD NNS|BODY_1|0
+the chair|DT NN|BODY_1|0
+maximum flexibility|JJ NN|BODY_3|0
+the orientation|DT NN|BODY_1|0
+the reviewers|DT NNS|BODY_5|0
+section 5|NN CD|BODY_3|0
+the second|DT JJ|BODY_6|0
+their calculations|PRP$ NNS|BODY_4|0
+a toolbox|DT NN|BODY_1|0
+each controller|DT NN|BODY_1|0
+interpreting messages|VBG NNS|BODY_1|0
+data caching|NNS NN|BODY_8|0
+this dependency|DT NN|BODY_1|0
+its expense|PRP$ NN|BODY_5|0
+controller implementation|NN NN|BODY_3|0
+section 4.2|NN CD|BODY_5|0
+5 controllers|CD NNS|BODY_1|0
+two users|CD NNS|BODY_4|0
+this path|DT NN|BODY_4|0
+length l|NN NN|BODY_4|0
+these problems|DT NNS|BODY_5|0
+this method|DT NN|BODY_1|0
+colli- sions|NNS NNS|BODY_6|0
+non-geometric objects|JJ NNS|BODY_1|0
+the others|DT NNS|BODY_9|0
+their orientation|PRP$ NN|BODY_12|0
+neither controller|DT NN|BODY_1|0
+such data|JJ NNS|BODY_1|0
+other lists|JJ NNS|BODY_11|0
+multiple edits|JJ NNS|BODY_1|0
+another example|DT NN|BODY_1|0
+behavioral control|JJ NN|BODY_1|0
+interactive techniques|JJ NNS|BODY_1|0
+such interaction|JJ NN|BODY_1|0
+'s capabilities|POS NNS|BODY_6|0
+other words|JJ NNS|BODY_1|0
+the database|DT NN|BODY_1|0
+a renderer|DT NN|BODY_1|0
+constraint methods|NN NNS|BODY_1|0
+these circumstances|DT NNS|BODY_1|0
+most limiting|RBS VBG|BODY_1|0
+new results|JJ NNS|BODY_6|0
+'s techniques|POS NNS|BODY_10|0
+each year|DT NN|BODY_8|0
+acceptable [7]|JJ NN|BODY_12|0
+this ordering|DT NN|BODY_4|0
+its attributes|PRP$ NNS|BODY_6|0
+this ability|DT NN|BODY_1|0
+an overview|DT NN|BODY_1|0
+coherent data|JJ NNS|BODY_7|0
+spline patches|NN NNS|BODY_8|0
+the model|DT NN|BODY_7|0
+two controllers|CD NNS|BODY_8|0
+section 4.1|NN CD|BODY_5|0
+the job|DT NN|BODY_1|0
+a series|DT NN|BODY_1|0
+these caches|DT NNS|BODY_1|0
+different orderings|JJ NNS|BODY_1|0
+the edit|DT NN|BODY_1|0
+each joint|DT NN|BODY_1|0
+variable semantics|JJ NNS|BODY_1|0
+that value|DT NN|BODY_9|0
+multiple intervals|JJ NNS|BODY_9|0
+the air|DT NN|BODY_4|0
+these packages|DT NNS|BODY_1|0
+'s messages|POS NNS|BODY_7|0
+the interpretation|DT NN|BODY_1|0
+the messagessent|DT NN|BODY_1|0
+.e|FW|BODY_3:BODY_8|0
+this solution|DT NN|BODY_1|0
+work|NN|BODY_2:BODY_7|0
+'s|PRP|BODY_6:BODY_5|0
+response|NN|BODY_5|0
+vectors|NNS|BODY_5:BODY_4|0
+intervals|NNS|BODY_2:BODY_4|0
+animation|NN|BODY_6:BODY_4|0
+a|DT|BODY_4:BODY_7|0
+revolution|NN|BODY_6:BODY_7|0
+inserting|NN|BODY_2|0
+us|PRP|BODY_2|0
+values|NNS|BODY_1:BODY_4|0

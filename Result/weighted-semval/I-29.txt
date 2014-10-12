@@ -1,0 +1,625 @@
+that|DT|BODY_11:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|1
+we|PRP|BODY_6:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4|1
+execution|NN|BODY_12:BODY_15:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_5:ABSTRACT_5:BODY_10:BODY_7:BODY_8:ABSTRACT_10:BODY_9|1
+the agent|DT NN|BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_8:BODY_1:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|1
+|NNP|BODY_6:BODY_5:ABSTRACT_8:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:ABSTRACT_9:BODY_9|0
+other agents|JJ NNS|BODY_12:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+a simple temporal network|DT JJ JJ NN|ABSTRACT_11:BODY_9|0
+the problem or solution|DT NN CC NN|BODY_10:ABSTRACT_10|0
+a set|DT NN|BODY_6:ABSTRACT_4:BODY_15:BODY_2:BODY_3:BODY_4|0
+the problem|DT NN|BODY_13:ABSTRACT_2:BODY_1:BODY_3:BODY_4|0
+the expected value|DT VBN NN|ABSTRACT_14:BODY_9|0
+an agent architecture|DT NN NN|ABSTRACT_2:BODY_2|0
+a global view|DT JJ NN|ABSTRACT_8:BODY_8|0
+flexible times schedules|JJ NNS NNS|TITLE_2|0
+changes|NNS|BODY_6:BODY_4:ABSTRACT_7:BODY_7|0
+schedule|NN|BODY_5:BODY_3:BODY_10:BODY_4:BODY_7:ABSTRACT_9:ABSTRACT_10|0
+schedule changes|NN NNS|ABSTRACT_3:BODY_8:BODY_9|0
+opportunities|NNS|BODY_6:ABSTRACT_4:BODY_2|0
+execution events|NN NNS|ABSTRACT_13:BODY_8|0
+( 2|-LRB- CD|BODY_5:ABSTRACT_12|0
+a team|DT NN|ABSTRACT_2:BODY_2:BODY_4|0
+this problem|DT NN|ABSTRACT_3:BODY_4|0
+temporal uncertainty|JJ NN|ABSTRACT_2:BODY_3|0
+those agents|DT NNS|ABSTRACT_4:BODY_10|0
+this set|DT NN|BODY_5:ABSTRACT_11|0
+the performance|DT NN|ABSTRACT_4:BODY_2|0
+all agents|DT NNS|ABSTRACT_4:BODY_4|0
+a portion|DT NN|BODY_5:ABSTRACT_5|0
+inter-dependent activities|JJ NNS|BODY_6:ABSTRACT_5|0
+a globally pre-established schedule|DT RB JJ NN|ABSTRACT_6|0
+an expected optimal (|DT VBN NN -LRB-|ABSTRACT_7|0
+a flexible times representation|DT JJ NNS NN|ABSTRACT_7|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+an incremental rescheduling procedure|DT JJ NN NN|ABSTRACT_13|0
+the joint quality|DT JJ NN|ABSTRACT_2|0
+two basic mechanisms|CD JJ NNS|ABSTRACT_5|0
+the latter acts|DT JJ NNS|ABSTRACT_6|0
+our multi-agent system|PRP$ JJ NN|ABSTRACT_5|0
+some prescribed activities|DT JJ NNS|ABSTRACT_8|0
+this feasible solution|DT JJ NN|ABSTRACT_15|0
+the former hedges|DT JJ NNS|ABSTRACT_1|0
+it|PRP|BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|3
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+the scheduler|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+quality|NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_14:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+the stn|DT NN|BODY_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+methods|NNS|BODY_6:BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+the schedule|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|0
+the flexible times representation|DT JJ NNS NN|BODY_1:BODY_3|1
+the appropriate remote agents|DT JJ JJ NNS|BODY_3|1
+an actual duration constraint|DT JJ NN NN|BODY_7|1
+lower and upper bounds|JJR CC JJ NNS|BODY_11|1
+possibly entire task structures|RB JJ NN NNS|BODY_6|1
+execution and exogenous events|NN CC JJ NNS|BODY_8|1
+the calendar-zero time point|DT NN NN NN|BODY_9|1
+this|DT|BODY_1:BODY_3:BODY_7|0
+two or more agents|CD CC JJR NNS|BODY_4|0
+the quality|DT NN|BODY_6:BODY_12:BODY_3:BODY_4:BODY_7|0
+a new task m7|DT JJ NN NNS|BODY_2|0
+two new sequencing constraints|CD JJ NN NNS|BODY_6|0
+the currently installed schedule|DT RB VBN NN|BODY_3|0
+the next possible slot|DT JJ JJ NN|BODY_5|0
+the routine returns success|DT JJ NNS NN|BODY_2|0
+the year 1 scheduler|DT NN CD NN|BODY_2|0
+sri international and subjected|JJ JJ CC VBN|BODY_6|0
+our current research efforts|PRP$ JJ NN NNS|BODY_2|0
+the year 1 agent|DT NN CD NN|BODY_4|0
+associated method duration distributions|JJ NN NN NNS|BODY_5|0
+the current-time time point|DT JJ NN NN|BODY_3|0
+each scheduled method (|DT JJ NN -LRB-|BODY_4|0
+the next scheduled method|DT JJ JJ NN|BODY_2|0
+the agent trace logs|DT NN NN NNS|BODY_5|0
+the lft( m4 )|DT NN NN -RRB-|BODY_3|0
+lst ] start time|RB JJ NN NN|BODY_9|0
+the entire search space|DT JJ NN NN|BODY_3|0
+360 probs ) model|CD NNS -RRB- NN|BODY_8|0
+the independently conducted coordinators|DT RB VBN NNS|BODY_7|0
+a method completion message|DT NN NN NN|BODY_2|0
+much higher computational demands|RB JJR JJ NNS|BODY_2|0
+the executor and scheduler|DT NN CC NN|BODY_2|0
+a simple precedence constraint|DT JJ NN NN|BODY_2|0
+different sync sum tasks|JJ NN NN NNS|BODY_5|0
+a distributed state manager|DT VBN NN NN|BODY_6|0
+an uncertain and time|DT JJ CC NN|BODY_6|0
+the complete objective view|DT JJ JJ NN|BODY_2|0
+globally higher quality schedules|RB JJR NN NNS|BODY_8|0
+duration ) and relationships|NN -RRB- CC NNS|BODY_6|0
+a globally preestablished schedule|DT RB VBN NN|BODY_6|0
+executor and scheduler threads|NN CC NN NNS|BODY_4|0
+its start time window|PRP$ NN NN NN|BODY_4|0
+the quality and duration|DT NN CC NN|BODY_9|0
+the environment ( mass)|DT NN -LRB- NN|BODY_2|0
+the expected duration (|DT JJ NN -LRB-|BODY_2|0
+all its children execute|DT PRP$ NNS VBP|BODY_7|0
+two basic search strategies|CD JJ NN NNS|BODY_2|0
+2 or more agents|CD CC JJR NNS|BODY_9|0
+only a subjective view|RB DT JJ NN|BODY_2|0
+the next pending activity|DT JJ VBG NN|BODY_5|0
+a new local schedule|DT JJ JJ NN|BODY_5|0
+the actual duration constraint|DT JJ NN NN|BODY_4|0
+the issuing agent signals|DT VBG NN NNS|BODY_5|0
+the default scheduling mode|DT NN NN NN|BODY_2|0
+the local target activity|DT JJ NN NN|BODY_6|0
+activities ( e .g|NNS -LRB- NN NN|BODY_7|0
+managing and executing schedules|VBG CC VBG NNS|BODY_4|0
+the timing and sequence|DT NN CC NN|BODY_4|0
+the expected method duration|DT JJ NN NN|BODY_4|0
+all tasks and methods|DT NNS CC NNS|BODY_4|0
+any remaining computation time|DT VBG NN NN|BODY_3|0
+the continued temporal feasibility|DT JJ JJ NN|BODY_7|0
+a current time update|DT JJ NN NN|BODY_2|0
+the expected duration constraint|DT VBN NN NN|BODY_5|0
+the specified time windows|DT VBN NN NNS|BODY_4|0
+all the other agents|PDT DT JJ NNS|BODY_8|0
+a complete global view|DT JJ JJ NN|BODY_12|0
+a specified short (|DT VBN JJ -LRB-|BODY_4|0
+the other involved agents|DT JJ JJ NNS|BODY_6|0
+each execution decision point|DT NN NN NN|BODY_6|0
+an earliest start time|DT JJS NN NN|BODY_3|0
+the darpa coordinators program|DT NN NNS NN|BODY_6|0
+its effective execution window|PRP$ JJ NN NN|BODY_13|0
+an infeasible enabler constraint|DT JJ NN NN|BODY_2|0
+at most one method|IN JJS CD NN|BODY_8|0
+a high quality task|DT JJ NN NN|BODY_5|0
+aamas 07 ) 5.2|NN CD -RRB- CD|BODY_4|0
+the subsequent scheduled activity|DT JJ JJ NN|BODY_8|0
+any other involved agents|DT JJ JJ NNS|BODY_4|0
+the model or schedule|DT NN CC NN|BODY_8|0
+adjustable ) time period|JJ -RRB- NN NN|BODY_5|0
+the c taems model|DT NN NNS NN|BODY_14|0
+local or remote methods|JJ CC JJ NNS|BODY_8|0
+m5 and m6 leads|CD CC CD NNS|BODY_3|0
+the relevant remote agents|DT JJ JJ NNS|BODY_4|0
+the agenda and attempts|DT NN CC NNS|BODY_3|0
+a current state update|DT JJ NN NN|BODY_3|0
+any local schedule change|DT JJ NN NN|BODY_6|0
+4.1 stn solution representation|CD JJ NN NN|BODY_1|0
+a tightly integrated loop|DT RB VBN NN|BODY_8|0
+an optimal centralized solver|DT JJ JJ NN|BODY_6|0
+probability sensitive contingency schedules|NN JJ NN NNS|BODY_9|0
+the posted start time|DT VBN NN NN|BODY_1|0
+year 1 evaluation problems|NN CD NN NNS|BODY_1|0
+method starts and completions|NN NNS CC NNS|BODY_5|0
+much the same fashion|RB DT JJ NN|BODY_4|0
+a sub-optimal global effect|DT JJ JJ NN|BODY_3|0
+method durations and quality|NN NNS CC NN|BODY_1|0
+all currently known constraints|DT RB VBN NNS|BODY_4|0
+some recognized performance issues|DT VBN NN NNS|BODY_4|0
+method quality and duration|NN NN CC NN|BODY_6|0
+c taems task structures|NN NNS NN NNS|BODY_3|0
+¢ current time advances|RB JJ NN NNS|BODY_9|0
+the current local schedule|DT JJ JJ NN|BODY_6|0
+its time window deadline|PRP$ NN NN NN|BODY_9|0
+a schedule revision process|DT NN NN NN|BODY_7|0
+an associated quality value|DT VBN NN NN|BODY_2|0
+essentially a complete schedule|RB DT JJ NN|BODY_7|0
+any additional enabling conditions|DT JJ VBG NNS|BODY_5|0
+the first method mnew|DT JJ NN NN|BODY_2|0
+uncertain method execution times|JJ NN NN NNS|BODY_3|0
+both m5 and m6|DT PRP CC CD|BODY_6|0
+one or more constraints|CD CC JJR NNS|BODY_4|0
+a flexible times schedule|DT JJ NNS NN|BODY_4|0
+the underlying stn-based representation|DT VBG JJ NN|BODY_1|0
+6.1 communicating non-local constraints|CD NN JJ NNS|BODY_1|0
+this list and attempts|DT NN CC NNS|BODY_3|0
+the the sixth intl|DT DT JJ NN|BODY_3|0
+these scheduled start time|DT JJ NN NN|BODY_1|0
+a special time point|DT JJ NN NN|BODY_1|0
+planning and scheduling decisions|NN CC NN NNS|BODY_15|0
+the distributed agent systems|DT VBN NN NNS|BODY_3|0
+the problem and environment|DT NN CC NN|BODY_17|0
+the quality propagator analyzes|DT NN NN NNS|BODY_1|0
+more advanced coordination mechanisms|JJR JJ NN NNS|BODY_5|0
+the unanticipated scheduling slack|DT JJ NN NN|BODY_3|0
+currently unscheduled remote enablers|RB VBN JJ NNS|BODY_8|0
+each such local method|DT JJ JJ NN|BODY_1|0
+the previously discussed updates|DT RB VBN NNS|BODY_14|0
+the min qaf )|DT NN NN -RRB-|BODY_7|0
+the time window constraints|DT NN NN NNS|BODY_1|0
+a highly dynamic environment|DT RB JJ NN|BODY_6|0
+this schedule management infra-structure|DT NN NN NN|BODY_1|0
+its most basic form|PRP$ JJS JJ NN|BODY_1|0
+the combined quality change|DT VBN NN NN|BODY_1|0
+a single point solution|DT JJ NN NN|BODY_8|0
+a pre-computed initial schedule|DT JJ JJ NN|BODY_1|0
+any currently scheduled methods|DT RB VBN NNS|BODY_1|0
+two currently scheduled methods|CD RB VBN NNS|BODY_11|0
+an execution state update|DT NN NN NN|BODY_7|0
+the freeze period )|DT NN NN -RRB-|BODY_9|0
+the allocator returns failure|DT NN NNS NN|BODY_4|0
+the quality propagator|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the task group|DT NN NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_9|0
+the use|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+.e|FW|BODY_6:BODY_5:BODY_11:BODY_9|0
+agent1|NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+activities|NNS|BODY_6:BODY_2:BODY_3:BODY_8:BODY_9|0
+constraints|NNS|BODY_6:BODY_1:BODY_3:BODY_10:BODY_4|1
+agents|NNS|BODY_12:BODY_5:BODY_2:BODY_7|0
+the impact|DT NN|BODY_6:BODY_5:BODY_3|1
+updates|NNS|BODY_2:BODY_3:BODY_4|1
+an important buffer|DT JJ NN|BODY_6|1
+a deadline )|DT NN -RRB-|BODY_8|1
+conclusions or recommendations|NNS CC NNS|BODY_2|1
+the agent architecture|DT NN NN|BODY_11:BODY_2:BODY_3:BODY_4|0
+all time points|DT NN NNS|BODY_12|1
+this paper|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|1
+a given agent|DT VBN NN|BODY_2:BODY_7:BODY_9|0
+any opinions findings|DT NNS NNS|BODY_1|1
+their local perspective|PRP$ JJ NN|BODY_8|1
+its subjective view|PRP$ JJ NN|BODY_9|1
+a non-local option|DT JJ NN|BODY_2:BODY_1:BODY_3|0
+the task structure|DT NN NN|BODY_6:BODY_12:BODY_8|0
+an agent|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4|0
+the network|DT NN|BODY_13:BODY_3:BODY_8:BODY_9|2
+each agent|DT NN|BODY_2:BODY_1:BODY_3:BODY_7|0
+they|PRP|BODY_5:BODY_2:BODY_4:BODY_7|0
+)|-RRB-|BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+response|NN|BODY_5:BODY_2:BODY_7|0
+the current schedule|DT JJ NN|BODY_11:BODY_10:BODY_9|0
+flexible times scheduling|JJ NNS NN|BODY_3:BODY_4|0
+the executor|DT NN|BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+the enabler activities|DT NN NNS|BODY_2:BODY_4|0
+a net gain|DT JJ NN|BODY_4:BODY_9|0
+e .g.|NN NNP|BODY_5:BODY_4|1
+local schedule changes|JJ NN NNS|BODY_2:BODY_4|0
+the next method|DT JJ NN|BODY_3:BODY_4|0
+an incremental flexible-times|DT JJ NNS|BODY_3|0
+many application environments|JJ NN NNS|BODY_2|0
+the quality impact|DT NN NN|BODY_2|0
+this multi-agent problem|DT JJ NN|BODY_2|0
+the local scheduler|DT JJ NN|BODY_5:BODY_4|0
+the total quality|DT JJ NN|BODY_5:BODY_2|0
+the mechanism proceeds|DT NN NNS|BODY_2|0
+a local option|DT JJ NN|BODY_5:BODY_2|0
+the options manager|DT NNS NN|BODY_6:BODY_3|0
+the mass simulator|DT NN NN|BODY_6|0
+a new schedule|DT JJ NN|BODY_4:BODY_10|0
+the mdp optimal|DT NN NN|BODY_6|0
+this new time|DT JJ NN|BODY_5|0
+the maximum quality|DT JJ NN|BODY_2:BODY_1|0
+our solution framework|PRP$ NN NN|BODY_1:BODY_2|0
+a quality-centric heuristic|DT JJ JJ|BODY_2|0
+random (esp. facilitates|JJ NN NNS|BODY_2|0
+non-temporal model changes|JJ NN NNS|BODY_2|0
+the constraint propagates|DT NN NNS|BODY_6|0
+the entire set|DT JJ NN|BODY_7|0
+â€˜optimal  durations|JJ NN NNS|BODY_11|0
+a consistency check|DT NN NN|BODY_2|0
+flexible times frameworks|JJ NNS NNS|BODY_2|0
+an mdp-based solver|DT JJ NN|BODY_2|0
+a task t|DT NN NN|BODY_2|0
+the target activity|DT NN NN|BODY_8|0
+est( m5 )|JJ CD -RRB-|BODY_4|0
+the probability distribution|DT NN NN|BODY_11|0
+the tt problems|DT NN NNS|BODY_2|0
+the sixth intl|DT JJ NN|BODY_2:BODY_1:BODY_3:BODY_8:BODY_9|0
+the coordinators problem|DT NNS NN|BODY_5:BODY_1|0
+( 1 )|-LRB- CD -RRB-|BODY_2|0
+a domainlevel representation|DT NN NN|BODY_14|0
+various centralized planning|JJ JJ NN|BODY_3|0
+a method m|DT NN NN|BODY_10|0
+more sophisticated reasoning|RBR JJ NN|BODY_3|0
+the explicit use|DT JJ NN|BODY_2|0
+6.96 table 1|CD NN CD|BODY_5|0
+one exception )|CD NN -RRB-|BODY_5|0
+therefore est( m4|RB JJ CD|BODY_7|0
+the expected duration|DT VBN NN|BODY_3|0
+( or dampen|-LRB- CC NN|BODY_8|0
+a second strategy|DT JJ NN|BODY_2|0
+m5 and m7|CD CC NNS|BODY_3|0
+facilitation increases quality|NN NNS NN|BODY_9|0
+year 1 agent|NN CD NN|BODY_7|0
+the subjective view|DT JJ NN|BODY_2|0
+tight scheduler-execution coupling|JJ NN NN|BODY_3|0
+31 ( m6|CD -LRB- CD|BODY_5|0
+calendar-zero and current-time|NN CC NN|BODY_4|0
+their qaf names|PRP$ NN NNS|BODY_5|0
+the initial lists|DT JJ NNS|BODY_5|0
+defense advance research|NN NN NN|BODY_4|0
+a basic ability|DT JJ NN|BODY_6|0
+calendar zero grounds|NN CD NNS|BODY_2|0
+a separate machine|DT JJ NN|BODY_5|0
+the task network|DT NN NN|BODY_4|0
+hence necessitate collaborative|RB JJ NN|BODY_14|0
+the revised constraints|DT VBN NNS|BODY_9|0
+their respective values|PRP$ JJ NNS|BODY_6|0
+a pre-computed set|DT JJ NN|BODY_2|0
+a feasible slot|DT JJ NN|BODY_3|0
+activity durations )|NN NNS -RRB-|BODY_7|0
+the first child|DT JJ NN|BODY_5|0
+temporal decoupling [7|JJ NN NNS|BODY_5|0
+a scenario generator|DT NN NN|BODY_3|0
+that same task/method|WDT JJ NN|BODY_10|0
+the current constraints|DT JJ NNS|BODY_8|0
+unexpected execution results|JJ NN NNS|BODY_8|0
+the non-local impact|DT JJ NN|BODY_7|0
+assumed external constraints|JJ JJ NNS|BODY_3|0
+a revised schedule|DT VBN NN|BODY_12:BODY_7|0
+a brief discussion|DT JJ NN|BODY_2|0
+local scheduling decisions|JJ NN NNS|BODY_2|0
+some experimental results|DT JJ NNS|BODY_2|0
+the term activity|DT NN NN|BODY_3|0
+any communicated changes|DT JJ NNS|BODY_2|0
+the fact|DT NN|BODY_5:BODY_2|1
+a conflict-driven approach|DT JJ NN|BODY_6|0
+two basic principles|CD JJ NNS|BODY_3|0
+as conflict-directed relaxation|IN JJ NN|BODY_4|0
+a larger-scoped change|DT JJ NN|BODY_2|0
+the sequencing constraint|DT NN NN|BODY_4|0
+discrete probability distributions|JJ NN NNS|BODY_2|0
+the taems language|DT NNS NN|BODY_3|0
+an incremental procedure|DT JJ NN|BODY_8|0
+the prototype agent|DT NN NN|BODY_3|0
+the activity hierarchy|DT NN NN|BODY_2|0
+such coordinated action|JJ JJ NN|BODY_3|0
+the est( m7|DT NN NNS|BODY_5|0
+the assessed quality|DT VBN NN|BODY_4|0
+a basic means|DT JJ NN|BODY_2|0
+the activity allocator|DT NN NN|BODY_2:BODY_1|0
+entail inter-agent coordination|NN JJ NN|BODY_9|0
+â€˜new task arrival|NN NN NN|BODY_6|0
+2000 problem instances|CD NN NNS|BODY_2|0
+a remote node|DT JJ NN|BODY_11|0
+an options manager|DT NNS NN|BODY_8|0
+an initial version|DT JJ NN|BODY_2|0
+a basic criterion|DT JJ NN|BODY_10|0
+07 ) ule|CD -RRB- NN|BODY_5|0
+unexpected executional delays|JJ JJ NNS|BODY_7|0
+the success probability|DT NN NN|BODY_6|0
+such constraint relaxations|JJ NN NNS|BODY_6|0
+the duration constraint|DT NN NN|BODY_5|0
+figure 1 )|NN CD -RRB-|BODY_6|0
+1 ) feedback|CD -RRB- NN|BODY_6|0
+a challenging benchmark|DT JJ NN|BODY_2|0
+all its children|DT PRP$ NNS|BODY_2|0
+a specified agent|DT JJ NN|BODY_3|0
+any enabler activities|DT NN NNS|BODY_2|0
+( 3 )|-LRB- CD -RRB-|BODY_9|0
+the high tempo|DT JJ NN|BODY_9|0
+contributors and activators|NNS CC NNS|BODY_6:BODY_13|0
+a committed schedule|DT VBN NN|BODY_4|0
+various pending activities|JJ VBG NNS|BODY_4|0
+a new list|DT JJ NN|BODY_12|0
+its lowest performance|PRP$ JJS NN|BODY_2|0
+the reported quality|DT JJ NN|BODY_9|0
+four principal components|CD JJ NNS|BODY_3|0
+a special task|DT JJ NN|BODY_4|0
+one child executes|CD NN NNS|BODY_3|0
+the enabling conditions|DT VBG NNS|BODY_3|0
+a quality propagator|DT NN NN|BODY_5|0
+two basic components|CD JJ NNS|BODY_4|0
+just the portion|RB DT NN|BODY_3|0
+its underlying implementation|PRP$ VBG NN|BODY_8|0
+actual method durations|JJ NN NNS|BODY_3|0
+another agent )|DT NN -RRB-|BODY_10|0
+its expected duration|PRP$ VBN NN|BODY_6|0
+a longer duration|DT JJR NN|BODY_8|0
+no quality loss|DT NN NN|BODY_5|0
+methods and tasks|NNS CC NNS|BODY_3|0
+an exactly-one task|DT JJ NN|BODY_7|0
+a total ordering|DT JJ NN|BODY_4|0
+the environmental messages|DT JJ NNS|BODY_4|0
+nonlocal options (|JJ NNS -LRB-|BODY_5|0
+a designated [est|DT VBN NN|BODY_8|0
+any such cycle|DT JJ NN|BODY_6|0
+that commence execution|WDT NN NN|BODY_4|0
+a common model|DT JJ NN|BODY_11|0
+any single agent|DT JJ NN|BODY_11|0
+the following actions|DT VBG NNS|BODY_3|0
+the execution intervals|DT NN NNS|BODY_5|0
+a freeze window|DT NN NN|BODY_3|0
+a remote agent|DT JJ NN|BODY_10|0
+the coordination mechanisms|DT NN NNS|BODY_3|0
+a relaxed problem|DT JJ NN|BODY_6|0
+the contributors list|DT NNS NN|BODY_3|0
+the previous section|DT JJ NN|BODY_3|0
+inter-agent synchronization points|JJ NN NNS|BODY_2|0
+the collaborative execution|DT JJ NN|BODY_2|0
+a graph g|DT NN NN|BODY_3|0
+the temporal constraints|DT JJ NNS|BODY_5|0
+a flexible-times schedule|DT NNS NN|BODY_4|0
+an inconsistent state|DT JJ NN|BODY_10|0
+this joint set|DT JJ NN|BODY_7|0
+any higher level|DT JJR NN|BODY_11|0
+the actual duration|DT JJ NN|BODY_2|0
+an extant schedule|DT JJ NN|BODY_7|0
+the scheduler (|DT NN -LRB-|BODY_2|0
+environmental message classes|JJ NN NNS|BODY_3|0
+very little reasoning|RB JJ NN|BODY_5|0
+a separate thread|DT JJ NN|BODY_8|0
+must-schedule enabler activities|NN NN NNS|BODY_8|0
+an inherent bias|DT JJ NN|BODY_2|0
+m5 and m6|CD CC CD|BODY_2|0
+the known distribution|DT VBN NN|BODY_7|0
+later the discussion|RB DT NN|BODY_5|0
+its own thread|PRP$ JJ NN|BODY_2|0
+the option manager|DT NN NN|BODY_1|0
+its current schedule|PRP$ JJ NN|BODY_8|0
+successively scheduled methods|RB VBN NNS|BODY_12|0
+5 + 30|CD JJ CD|BODY_7|0
+first unscheduled and|JJ JJ CC|BODY_4|0
+any scheduled activity|DT VBN NN|BODY_6|0
+the target method|DT NN NN|BODY_8|0
+an incremental scheduler|DT JJ NN|BODY_5|0
+the source m4|DT NN NN|BODY_9|0
+07 ) tivities|CD -RRB- NNS|BODY_5|0
+the outcome distributions|DT NN NNS|BODY_2|0
+year 1 problems|NN CD NNS|BODY_3|0
+a particular method|DT JJ NN|BODY_9|0
+the current solution|DT JJ NN|BODY_9|0
+significantly larger problems|RB JJR NNS|BODY_5|0
+a quick means|DT JJ NN|BODY_3|0
+the revised schedule|DT VBN NN|BODY_5|0
+some successful tests|DT JJ NNS|BODY_5|0
+a joint mission|DT JJ NN|BODY_3|0
+an updated solution|DT VBN NN|BODY_12|0
+2 ) changes|CD -RRB- NNS|BODY_13|0
+shortest path algorithm|JJS NN NN|BODY_4|0
+the freeze window|DT NN NN|BODY_8|0
+an infinite number|DT JJ NN|BODY_8|0
+any given query|DT VBN NN|BODY_7|0
+a conflict results|DT NN NNS|BODY_4|0
+this option response|DT NN NN|BODY_2|0
+a basic hedge|DT JJ NN|BODY_2|0
+figure 4 )|NN CD -RRB-|BODY_4|0
+plans and schedules|NNS CC NNS|BODY_4|0
+the needed queries|DT VBN NNS|BODY_1|0
+the practical constraints|DT JJ NNS|BODY_1|0
+its start time|PRP$ NN NN|BODY_4|0
+the late finish|DT JJ NN|BODY_3|0
+a source-side activity(|DT NN NN|BODY_4|0
+its scheduled activities|PRP$ VBN NNS|BODY_5|0
+any given time|DT VBN NN|BODY_9|0
+all scheduled methods|DT VBN NNS|BODY_7|0
+contract # fa8750-05-c0033|NN # CD|BODY_7|0
+each ordered pair|DT VBN NN|BODY_8|0
+indeed the est|RB DT NN|BODY_1|0
+six experiment classes|CD NN NNS|BODY_12|0
+the hardware configuration|DT NN NN|BODY_1|0
+the second principle|DT JJ NN|BODY_1|0
+this latter property|DT JJ NN|BODY_1|0
+any remote agents|DT JJ NNS|BODY_15|0
+a valid schedule|DT JJ NN|BODY_3|0
+a coordinating agent|DT VBG NN|BODY_2|0
+the existing schedule|DT VBG NN|BODY_11|0
+the target task|DT NN NN|BODY_10|0
+any other agent |DT JJ NN|BODY_9|0
+a local task/method|DT JJ NN|BODY_7|0
+an underlying stn.|DT VBG NN|BODY_16|0
+the leaf level|DT NN NN|BODY_2|0
+the whole problem|DT JJ NN|BODY_9|0
+schedule construction )|NN NN -RRB-|BODY_6|0
+any remote tasks|DT JJ NNS|BODY_8|0
+ current time |DT JJ NN|BODY_11|0
+their subjective views|PRP$ JJ NNS|BODY_12|0
+incremental scheduling frameworks|JJ NN NNS|BODY_1|0
+the execution outcomes|DT NN NNS|BODY_12|0
+available scheduler cycles|JJ NN NNS|BODY_10|0
+activity sequencing constraints|NN NN NNS|BODY_8|0
+the completion time|DT NN NN|BODY_1|0
+the local view|DT JJ NN|BODY_6|0
+a dynamic model|DT JJ VB|BODY_4|0
+the evaluation team|DT NN NN|BODY_1|0
+a recipient agent|DT NN NN|BODY_1|0
+the scheduling process|DT NN NN|BODY_4|0
+¢ method failure|JJ NN NN|BODY_10|0
+the execution state|DT NN NN|BODY_5|0
+schedule execution results|NN NN NNS|BODY_3|0
+facilitates and hinders|NNS CC NNS|BODY_3|0
+producer and consumer|NN CC NN|BODY_4|0
+â€ ¢ method|NN NN NN|BODY_3|0
+the activators list|DT NNS NN|BODY_2|0
+the local agent|DT JJ NN|BODY_11|0
+the overall goal|DT JJ NN|BODY_6|0
+the same problem|DT JJ NN|BODY_4|0
+a and task|DT CC NN|BODY_3|0
+hard and soft|JJ CC JJ|BODY_3|0
+lower priority mode|JJR NN NN|BODY_1|0
+an stn conflict|DT JJ NN|BODY_10|0
+a method|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10|0
+a deadline failure|DT NN NN|BODY_10|0
+the limited facilitates|DT JJ NNS|BODY_1|0
+a min qaf|DT NN NN|BODY_3|0
+global solution improvement|JJ NN NN|BODY_10|0
+this latter process|DT JJ NN|BODY_1|0
+a rescheduling action|DT NN NN|BODY_3|0
+their local schedules|PRP$ JJ NNS|BODY_7|0
+a higher-quality response|DT JJ NN|BODY_5|0
+subsequent scheduled activities|JJ JJ NNS|BODY_6|0
+the other half|DT JJ NN|BODY_1|0
+only simple tactics|RB JJ NNS|BODY_1|0
+this point rescheduling|DT NN NN|BODY_1|0
+current research plans|JJ NN NNS|BODY_3|0
+current system performance|JJ NN NN|BODY_3|0
+more global perspective|JJR JJ NN|BODY_1|0
+possible later updates|JJ RB NNS|BODY_5|0
+the stn level|DT NN NN|BODY_1|0
+its children executes|PRP$ NNS NNS|BODY_10|0
+the problem run|DT NN NN|BODY_16|0
+these local tasks|DT JJ NNS|BODY_11|0
+this local quality|DT JJ NN|BODY_11|0
+7. experimental results|DT JJ NNS|BODY_1|0
+these optimistic assumptions|DT JJ NNS|BODY_6|0
+other problem constraints|JJ NN NNS|BODY_1|0
+maximum global quality|JJ JJ NN|BODY_8|0
+the overarching design|DT NN NN|BODY_1|0
+the method completes|DT NN NNS|BODY_1|0
+agent 2 signals|NN CD NNS|BODY_1|0
+this non-local option|DT JJ NN|BODY_3|0
+unit-capacity resources )|JJ NNS -RRB-|BODY_13|0
+the schedule )|DT NN -RRB-|BODY_9|0
+the first time|DT JJ NN|BODY_1|0
+the problematic activity|DT JJ NN|BODY_4|0
+the core scheduler|DT NN NN|BODY_3|0
+the following sections|DT JJ NNS|BODY_1|0
+other interested agents|JJ JJ NNS|BODY_10|0
+a flexible-times representation|DT JJ NN|BODY_1|0
+a negative cycle|DT JJ NN|BODY_4|0
+a constraint violation|DT NN NN|BODY_5|0
+the currenttime link|DT JJ NN|BODY_1|0
+the allocation pass|DT NN NN|BODY_3|0
+local schedule constraints|JJ NN NNS|BODY_1|0
+various environmental messages|JJ JJ NNS|BODY_3|0
+a sync-sum task|DT JJ NN|BODY_1|0
+associated quality metrics|JJ NN NNS|BODY_10|0
+computation time constraints|NN NN NNS|BODY_8|0
+other execution status|JJ NN NN|BODY_1|0
+higher global quality|JJR JJ NN|BODY_12|0
+our agent scheduler|PRP$ NN NN|BODY_3|0
+a method cannot|DT NN NN|BODY_1|0
+the team goal|DT NN NN|BODY_1|0
+c taems model|NN NNS NN|BODY_10|0
+its local tasks|PRP$ JJ NNS|BODY_7|0
+the latter case|DT JJ NN|BODY_1|0
+one basic mechanism|CD JJ NN|BODY_1|0
+the overall mission|DT JJ NN|BODY_16|0
+agent2|NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+360 probs|CD NNS|BODY_5:BODY_2:BODY_4|0
+a conflict|DT NN|BODY_16:BODY_1:BODY_3:BODY_4|0
+the method|DT NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+figure 1|NN CD|BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+all|DT|BODY_6:BODY_5:BODY_3:BODY_9|0
+there|EX|BODY_2:BODY_1:BODY_4|0
+multi-agent systems|JJ NNS|BODY_3|0
+this case|DT NN|BODY_6:BODY_5:BODY_1:BODY_3|0
+those|DT|BODY_6:BODY_4|1
+the allocator|DT NN|BODY_1:BODY_3:BODY_9|0
+non-local options|JJ NNS|BODY_2:BODY_3|0
+execution dynamics|NN NNS|BODY_5:BODY_2:BODY_10|0
+queries|NNS|BODY_6:BODY_2:BODY_3|1
+temporal constraints|JJ NNS|BODY_2:BODY_3:BODY_10|0
+the set|DT NN|BODY_2:BODY_7|0
+tasks|NNS|BODY_1:BODY_2:BODY_3|0
+time points|NN NNS|BODY_14:BODY_8|0
+an update|DT NN|BODY_6:BODY_2:BODY_10|0
+all activities|DT NNS|BODY_3:BODY_7|0
+subjective view|JJ NN|BODY_6:BODY_2|0
+the schedules|DT NNS|BODY_3:BODY_9|0
+the need|DT NN|BODY_5:BODY_11:BODY_4|0
+agent 2|NN CD|BODY_2:BODY_3|0
+a basis|DT NN|BODY_5:BODY_2:BODY_1|0
+the absence|DT NN|BODY_5|0
+new tasks|JJ NNS|BODY_8:BODY_9|0
+a|DT|BODY_2:BODY_7:BODY_8|0
+the time|DT NN|BODY_11:BODY_4:BODY_8|0
+its timeline|PRP$ NN|BODY_6:BODY_3|0
+the agents|DT NNS|BODY_5:BODY_2|0
+current time|JJ NN|BODY_6:BODY_5|0
+multiple agents|JJ NNS|BODY_11:BODY_10|0
+a means|DT NN|BODY_2:BODY_7|0
+rescheduling|NN|BODY_3:BODY_7:BODY_9|0
+agent schedules|NN NNS|BODY_10:BODY_7:BODY_8|0
+a hedge|DT NN|BODY_2:BODY_4|0
+the activity|DT NN|BODY_7|0
+â€ ¢|JJ NN|BODY_6:BODY_5|0
+each task|DT NN|BODY_17:BODY_1:BODY_9|0
+the capabilities|DT NNS|BODY_3|0
+global improvement|JJ NN|BODY_2:BODY_7|0
+the coupling|DT NN|BODY_1:BODY_3|0
+the timeline|DT NN|BODY_5|0
+390 probs|CD NNS|BODY_2|0
+deadline 55|NN CD|BODY_3|0
+these activities|DT NNS|BODY_3|0
+the propagator|DT NN|BODY_11:BODY_2|0
+the task|DT NN|BODY_13:BODY_20|0
+no quality|DT NN|BODY_13:BODY_2|0
+two types|CD NNS|BODY_2:BODY_1|0
+positive quality|JJ NN|BODY_4:BODY_8|0
+this fact|DT NN|BODY_2|0
+(|-LRB-|BODY_5:BODY_3:BODY_4:BODY_10|0
+this relaxation|DT NN|BODY_2:BODY_4|0
+table 1|NN CD|BODY_1:BODY_2|0
+the order|DT NN|BODY_3|0
+a list|DT NN|BODY_15:BODY_7|0
+more detail|JJR NN|BODY_5|0
+the contributors|DT NNS|BODY_1:BODY_3|0
+100 methods|CD NNS|BODY_4|0
+a task|DT NN|BODY_2:BODY_4|0
+2190 probs|CD NNS|BODY_3|0
+inter-dependent agents|JJ NNS|BODY_7|0
+one agent|CD NN|BODY_3|0
+solution stability|NN NN|BODY_3|0
+dur( m7|JJ NNS|BODY_7|0
+an examination|DT NN|BODY_4|0
+admissible values|JJ NNS|BODY_3|0
+an activity|DT NN|BODY_6|0
+its qaf|PRP$ NN|BODY_3|0
+the posting|DT VBG|BODY_1:BODY_8|0
+executing agents|VBG NNS|BODY_3|0
+the case|DT NN|BODY_1|0
+exceptional events|JJ NNS|BODY_3|0
+those activities|DT NNS|BODY_9|0
+these constraints|DT NNS|BODY_15:BODY_9|0
+precedence constraints|NN NNS|BODY_6|0
+andrew agno|DT NN|BODY_3|0
+97.1 %|CD NN|BODY_3|0
+98.1 %|CD NN|BODY_2|0
+darpa )|NN -RRB-|BODY_6|0
+distributed problem|VBN NN|BODY_2|0
+that chain|WDT NN|BODY_7|0
+the range|DT NN|BODY_2|0
+all children|DT NNS|BODY_8|0
+the evaluators|DT NNS|BODY_2|0
+a version|DT NN|BODY_2|0
+these times|DT NNS|BODY_7|0

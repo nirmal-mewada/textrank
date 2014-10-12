@@ -1,0 +1,477 @@
+type errors|NN NNS|BODY_6:BODY_5:TITLE_1:ABSTRACT_2:BODY_8:BODY_9|1
+the programmer|DT NN|BODY_6:BODY_21:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|2
+that|WDT|BODY_6:BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4|2
+the deductive steps|DT JJ NNS|ABSTRACT_4:BODY_4|1
+an expression|DT NN|BODY_5:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_4|0
+the type error|DT NN NN|ABSTRACT_2:BODY_2|0
+a type error|DT NN NN|ABSTRACT_5:BODY_1:BODY_7|0
+a particular type|DT JJ NN|BODY_3:ABSTRACT_7|0
+an approach|DT NN|ABSTRACT_2:BODY_3|1
+type inference|NN NN|BODY_5:ABSTRACT_5|1
+type reconstruction|NN NN|BODY_1:BODY_3:BODY_4:ABSTRACT_7|0
+the inconsistency|DT NN|ABSTRACT_6:BODY_2:BODY_4:BODY_7|0
+two types|CD NNS|BODY_6:ABSTRACT_5:BODY_1:BODY_4|0
+the source|DT NN|BODY_5:ABSTRACT_4:ABSTRACT_1:BODY_7|0
+the error|DT NN|BODY_6:ABSTRACT_4:BODY_1:BODY_7|0
+the compiler|DT NN|BODY_6:ABSTRACT_6:BODY_3|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|0
+the approach|DT NN|BODY_1:BODY_2:ABSTRACT_1|0
+the form|DT NN|ABSTRACT_3:BODY_4|0
+complex type systems|JJ NN NNS|ABSTRACT_2|0
+the type correctness|DT NN NN|ABSTRACT_4|0
+a unification failure|DT NN NN|ABSTRACT_4|0
+polymorphic type checking|JJ NN NN|ABSTRACT_2|0
+the long chain|DT JJ NN|ABSTRACT_4|0
+an interactive system|DT JJ NN|ABSTRACT_2|0
+the difficulty|DT NN|ABSTRACT_3|0
+compile-time feedback|JJ NN|ABSTRACT_3|0
+type instantiations|NN NNS|ABSTRACT_6:ABSTRACT_7|0
+the type|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+we|PRP|BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|1
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_22:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|5
+which|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+type|NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the function|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+the syntax tree|DT NN NN|BODY_11:BODY_18:BODY_2:BODY_3:BODY_4|1
+the program|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the type reconstruction process|DT NN NN NN|BODY_5:BODY_4|1
+one|CD|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+programming languages and systems|NN NNS CC NNS|BODY_7|1
+their most primitive pieces|PRP$ RBS JJ NNS|BODY_3|1
+certain , finite steps|JJ , JJ NNS|BODY_5|1
+the type variable 'a|DT NN JJ ''|BODY_9|1
+b|NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+a 2 , 4)|DT CD , CD|BODY_11:BODY_18|0
+all the atomic bindings|PDT DT JJ NNS|BODY_3:BODY_4|0
+a strongly-typed functional language|DT JJ JJ NN|BODY_3|0
+the annotated expression tree|DT JJ NN NN|BODY_3|0
+? # ) )|. # -RRB- -RRB-|BODY_6:BODY_2|0
+all the contextual evidence|PDT DT JJ NN|BODY_2|0
+an ad hoc manner|DT NN JJ NN|BODY_2|0
+such a full-length explanation|JJ DT JJ NN|BODY_1|0
+the typeof function-see section|DT NN NN NN|BODY_5|0
+the generic type variable|DT JJ NN NN|BODY_1:BODY_3|0
+the proof tree corresponds|DT NN NN NNS|BODY_2|0
+then appropriate proof trees|RB JJ NN NNS|BODY_2|0
+the following 4 bindings|DT VBG CD NNS|BODY_2|0
+y= ?x ) )|JJ NN -RRB- -RRB-|BODY_2|0
+a single type variable|DT JJ NN NN|BODY_3|0
+each atomic binding maps|DT JJ JJ NNS|BODY_1|0
+the annotated syntax tree|DT JJ NN NN|BODY_3|0
+this rather long expression|DT RB JJ NN|BODY_12|0
+all the essential constructs|DT DT JJ NNS|BODY_5|0
+a else b )|DT JJ NN -RRB-|BODY_11|0
+? b c) )|. NN NN -RRB-|BODY_6|0
+? # ) :bool-?(int-?bool|. # -RRB- NN|BODY_22|0
+( bool-?'i ) *'i|-LRB- NN -RRB- NN|BODY_7|0
+a ( fn x|DT -LRB- NN NN|BODY_21|0
+the two unification calls|DT CD NN NNS|BODY_4|0
+the decorated parse tree|DT JJ NN NN|BODY_5|0
+new unused type variables|JJ JJ NN NNS|BODY_6|0
+the explanation system questions|DT NN NN NNS|BODY_2|0
+all the name changes|DT DT NN NNS|BODY_5|0
+36 its initial assignment|CD PRP$ JJ NN|BODY_3|0
+novice and expert programmers|NN CC NN NNS|BODY_6|0
+the programming language ml|DT NN NN NN|BODY_1|0
+a more refined explanation|DT RBR JJ NN|BODY_2|0
+if # , (|IN # , -LRB-|BODY_4|0
+a let  expression|DT VBD JJ NN|BODY_9|0
+his 1986 popl paper|PRP$ CD JJ NN|BODY_1|0
+an initial type variable|DT JJ NN NN|BODY_2|0
+the else  branch|DT RB NN VB|BODY_11|0
+a type reconstruction algorithm|DT NN NN NN|BODY_1|0
+milner let-style polymor- phism|NN NN NNS NN|BODY_4|0
+introduction one annoying aspect|NN CD VBG NN|BODY_1|0
+the totally unconstrained type|DT RB JJ NN|BODY_3|0
+an explicitly given type|DT RB VBN NN|BODY_5|0
+the original type variable|DT JJ NN NN|BODY_1|0
+( ( fn b|-LRB- -LRB- NN NN|BODY_1|0
+( fn x= ?(|-LRB- JJ NN NN|BODY_1|0
+the same type )|DT JJ NN -RRB-|BODY_14|0
+the british nationality act|DT JJ NN NN|BODY_3|0
+johnson and walz [3]|NN CC NN NN|BODY_3|0
+( f true )|-LRB- NN JJ -RRB-|BODY_1|0
+a simple functional language|DT JJ JJ NN|BODY_3|0
+the wrong  context|DT JJ JJ NN|BODY_2|0
+its interesting type system|PRP$ JJ NN NN|BODY_1|0
+( a 2 )|-LRB- DT CD -RRB-|BODY_1|0
+this|DT|BODY_2:BODY_1:BODY_4|0
+the types|DT NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the type analysis|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+there|EX|BODY_12:BODY_5:BODY_1:BODY_3:BODY_4|0
+the explanation|DT NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+the expression|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+a list|DT NN|BODY_6:BODY_2:BODY_3:BODY_8:BODY_9|0
+a proof tree|DT NN NN|BODY_6:BODY_2|1
+the argument|DT NN|BODY_6:BODY_5:BODY_2:BODY_25:BODY_3|0
+the original type|DT JJ NN|BODY_6:BODY_7|1
+the conditional test|DT JJ NN|BODY_6|1
+all the expressions|DT DT NNS|BODY_3|1
+a type|DT NN|BODY_5:BODY_13:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+each local step|DT JJ NN|BODY_2|1
+their intended type|PRP$ JJ NN|BODY_4|1
+the typing rules|DT JJ NNS|BODY_3:BODY_4:BODY_7|0
+the analysis|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the parse tree|DT NN NN|BODY_5:BODY_2:BODY_3|0
+a type variable|DT NN JJ|BODY_1:BODY_2:BODY_4|0
+( fn x|-LRB- IN NN|BODY_1:BODY_8|0
+a|DT|BODY_12:BODY_5:BODY_1:BODY_3:BODY_4|0
+the question|DT NN|BODY_6:BODY_2|2
+type variable|NN JJ|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the type system|DT NN NN|BODY_2:BODY_3:BODY_7|0
+the formal parameter|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_9|0
+a theorem prover|DT NN NN|BODY_2:BODY_4|0
+a substitution|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4|0
+the system|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|1
+the original algorithm|DT JJ NN|BODY_2|0
+the unification function|DT NN NN|BODY_2:BODY_3|0
+the special effect|DT JJ NN|BODY_3|0
+( fn a=|-LRB- NN NN|BODY_1:BODY_3|0
+the first element|DT JJ NN|BODY_2:BODY_4|0
+the explanation space|DT NN NN|BODY_6:BODY_1:BODY_3|0
+each atomic binding|DT JJ NN|BODY_4|0
+the crucial value|DT JJ NN|BODY_2|0
+the function definition|DT NN NN|BODY_2:BODY_3|0
+the type reconstruction|DT NN NN|BODY_6:BODY_13|0
+the correct type|DT JJ NN|BODY_5|0
+the appropriate places|DT JJ NNS|BODY_5|0
+the generic variables|DT JJ NNS|BODY_5|0
+all integer constants|DT NN NNS|BODY_1:BODY_2|0
+x= ?x )|JJ NN -RRB-|BODY_3|0
+the plus function|DT NN NN|BODY_5|0
+the actual output|DT JJ NN|BODY_1:BODY_10|0
+the body b|DT NN NN|BODY_3|0
+# ,3 )|# CD -RRB-|BODY_4|0
+the let statement|DT VBN NN|BODY_2|0
+# ,3) )|# NN -RRB-|BODY_2|0
+an error message|DT NN NN|BODY_2|0
+no great consequence|DT JJ NN|BODY_2|0
+some interesting information|DT JJ NN|BODY_1|0
+the recursive annotation|DT JJ NN|BODY_1|0
+these how explanations|DT WRB NNS|BODY_1|0
+the proof tree|DT NN NN|BODY_3|0
+the minority usage|DT NN NN|BODY_4|0
+these atomic bindings|DT JJ NNS|BODY_2|0
+the then-current substitution|DT JJ NN|BODY_3|0
+the type bool|DT NN NN|BODY_2:BODY_3|0
+the source fragments|DT NN NNS|BODY_5|0
+the declared types|DT VBN NNS|BODY_2|0
+the prior example|DT JJ NN|BODY_2|0
+the unification process|DT NN NN|BODY_7|0
+their initial types|PRP$ JJ NNS|BODY_4|0
+'s main purpose|POS JJ NN|BODY_2|0
+the individual bindings|DT JJ NNS|BODY_6|0
+the second element|DT JJ NN|BODY_2|0
+a consistent type|DT JJ NN|BODY_3|0
+b end stores|NN NN NNS|BODY_3|0
+polymorphic type reconstruction|JJ NN NN|BODY_3|0
+their original form|PRP$ JJ NN|BODY_5|0
+an individualized set|DT JJ NN|BODY_3|0
+else a !|RB DT .|BODY_6:BODY_5:BODY_10|0
+one correct usage|CD JJ NN|BODY_6|0
+a different sort|DT JJ NN|BODY_2|0
+the legal requirements|DT JJ NNS|BODY_3|0
+a structural question|DT JJ NN|BODY_3|0
+possibly several unifications|RB JJ NNS|BODY_1|0
+the analysis process|DT NN NN|BODY_3|0
+the figure 6|DT NN CD|BODY_2|0
+the further explanation|DT JJ NN|BODY_1|0
+11 , 1991|CD , CD|BODY_7|0
+the explanation system|DT NN NN|BODY_11|0
+3 true )|CD JJ -RRB-|BODY_10|0
+the function plus|DT NN CC|BODY_3|0
+the paper [7|DT NN NNS|BODY_2|0
+the starting point|DT VBG NN|BODY_2|0
+any atomic binding|DT JJ NN|BODY_6|0
+a major shortcoming|DT JJ NN|BODY_2|0
+the generic nature|DT JJ NN|BODY_8|0
+this question useful|DT NN JJ|BODY_2|0
+the reconstruction algorithm|DT NN NN|BODY_3|0
+a depth-first explanation|DT JJ NN|BODY_3|0
+the outermost function|DT JJ NN|BODY_3|0
+the expression (|DT NN -LRB-|BODY_2|0
+a type step|DT NN NN|BODY_8|0
+b # )|NN # -RRB-|BODY_8|0
+the test expression|DT NN NN|BODY_9|0
+a bound identifier|DT JJ NN|BODY_3|0
+a formal parameter|DT JJ NN|BODY_2:BODY_3|0
+the typing rule|DT JJ NN|BODY_2|0
+the top part|DT JJ NN|BODY_11|0
+bool-?'i ( b|NN -LRB- NN|BODY_12|0
+the augmented substitution|DT JJ NN|BODY_6|0
+two such nodes|CD JJ NNS|BODY_2|0
+the following binding|DT VBG NN|BODY_2|0
+bool figure 4|NN NN CD|BODY_29|0
+# ) 3|# -RRB- CD|BODY_15|0
+the relevant parts|DT JJ NNS|BODY_7|0
+# ) )|# -RRB- -RRB-|BODY_13|0
+b ( line|NN -LRB- NN|BODY_3|0
+its initial assignment|PRP$ JJ NN|BODY_4|0
+the function application|DT NN NN|BODY_4|0
+the global point|DT JJ NN|BODY_3|0
+the right domain|DT JJ NN|BODY_24|0
+a particular expression|DT JJ NN|BODY_12:BODY_4|0
+the type variable|DT NN NN|BODY_6:BODY_2|0
+a function definition|DT NN NN|BODY_3|0
+binding type variables|JJ NN NNS|BODY_12|0
+the same type|DT JJ NN|BODY_2|0
+the complete set|DT JJ NN|BODY_5|0
+the arbitrary order|DT JJ NN|BODY_9|0
+the bound identifier|DT JJ NN|BODY_3|0
+the unification step|DT JJ NN|BODY_4|0
+the expression e|DT NN NN|BODY_8|0
+one particular unification|CD JJ NN|BODY_5|0
+this topic [8]|DT NN NN|BODY_5|0
+the conditional statement|DT JJ NN|BODY_6|0
+( twice )|-LRB- RB -RRB-|BODY_7|0
+( 'b-?'b )|-LRB- JJ -RRB-|BODY_1|0
+a well-typed example|DT JJ NN|BODY_2|0
+a else b|DT JJ NN|BODY_3|0
+the recursive traversal|DT JJ NN|BODY_3|0
+the final bindings|DT JJ NNS|BODY_3|0
+the following elements|DT JJ NNS|BODY_3|0
+a modified version|DT VBN NN|BODY_1|0
+our explanation system|PRP$ NN NN|BODY_4|0
+generic type variables|JJ NN NNS|BODY_1|0
+the identifier i|DT NN NN|BODY_3|0
+the the types|DT DT NNS|BODY_4|0
+( fn b|-LRB- NN NN|BODY_1|0
+all atomic bindings|DT JJ NNS|BODY_4|0
+the simple language|DT JJ NN|BODY_17|0
+the type 38|DT NN CD|BODY_4|0
+such a case|JJ DT NN|BODY_20|0
+a let statement|DT VBN NN|BODY_6|0
+the milner let-statement|DT NN NN|BODY_4|0
+the conditional expression|DT JJ NN|BODY_8|0
+the crucial question|DT JJ NN|BODY_1|0
+a type checker|DT NN NN|BODY_1|0
+the following sort|DT VBG NN|BODY_5|0
+the majority usages|DT NN NNS|BODY_7|0
+the previous example|DT JJ NN|BODY_2|0
+a postorder traversal|DT NN NN|BODY_2|0
+a recursive traversal|DT JJ NN|BODY_2|0
+an explanation space|DT NN NN|BODY_2|0
+a let-bound identifier|DT NN NN|BODY_2|0
+understanding type errors|NN NN NNS|BODY_2|0
+figure explanation space|NN NN NN|BODY_1|0
+the type 20|DT NN CD|BODY_4|0
+the type 21|DT NN CD|BODY_5|0
+individual deduction steps|JJ NN NNS|BODY_4|0
+the atomic bindings|DT JJ NNS|BODY_3|0
+the following expression|DT JJ NN|BODY_2|0
+their use [4]|PRP$ NN NN|BODY_6|0
+the two types|DT CD NNS|BODY_4|0
+the function body|DT NN NN|BODY_7:BODY_8|0
+the unification call|DT NN NN|BODY_4|0
+the two approaches|DT CD NNS|BODY_1|0
+the 9 let-binding|DT CD NN|BODY_4|0
+the identifiers b|DT NNS NN|BODY_4|0
+the expression fragments|DT NN NNS|BODY_9|0
+the current location|DT JJ NN|BODY_3|0
+this list representation|DT NN NN|BODY_8|0
+the one location|DT CD NN|BODY_9|0
+the analysis functions|DT NN NNS|BODY_1|0
+an unexpected type|DT JJ NN|BODY_4|0
+the function typeof|DT NN NN|BODY_1|0
+the appropriate types|DT JJ NNS|BODY_4|0
+two inconsistent types|CD NN NNS|BODY_3|0
+some unexpected way|DT JJ NN|BODY_8|0
+a type assignment|DT NN NN|BODY_3|0
+34 [ elided|CD JJ VBD|BODY_1|0
+new jersey [1]|JJ NN NN|BODY_9|0
+the error report|DT NN NN|BODY_1|0
+the initial environment|DT JJ NN|BODY_3|0
+the programming language|DT NN NN|BODY_6|0
+the appropriate question|DT JJ NN|BODY_1|0
+their final form|PRP$ JJ NN|BODY_6|0
+# 3) )|# NN -RRB-|BODY_2|0
+one incorrect usage|CD JJ NN|BODY_7|0
+a prolog program|DT NN NN|BODY_5|0
+( ( f|-LRB- -LRB- NN|BODY_1|0
+the typeof function|DT NN NN|BODY_1|0
+the previous bindings|DT JJ NNS|BODY_14|0
+its type 'a-?'a|PRP$ NN NN|BODY_9|0
+the following example|DT JJ NN|BODY_1|0
+( 'a-?'a )|-LRB- JJ -RRB-|BODY_1|0
+our modified typeof|PRP$ JJ NN|BODY_1|0
+their simple structures|PRP$ JJ NNS|BODY_4|0
+the anonymous referees|DT JJ NNS|BODY_1|0
+the same idea|DT JJ NN|BODY_1|0
+some type variables|DT NN NNS|BODY_4|0
+a crucial insight|DT JJ NN|BODY_1|0
+the type inconsistency|DT NN NN|BODY_6|0
+a polymorphic type|DT JJ NN|BODY_2|0
+the interesting part|DT JJ NN|BODY_1|0
+the next example|DT JJ NN|BODY_1|0
+only that deduction|RB DT NN|BODY_4|0
+the data structure|DT NNS NN|BODY_1|0
+( f 19|-LRB- NN CD|BODY_1|0
+( f 5|-LRB- NN CD|BODY_1|0
+a let construct|DT VBD VB|BODY_4|0
+its actual argument|PRP$ JJ NN|BODY_8|0
+its body b|PRP$ NN NN|BODY_5|0
+that atomic binding|DT JJ NN|BODY_7|0
+the actual argument|DT JJ NN|BODY_6:BODY_4:BODY_8|0
+the type int-?'c|DT NN NN|BODY_6|0
+some function definition|DT NN NN|BODY_5|0
+the type-checking analysis|DT NN NN|BODY_4|0
+a text editor|DT NN NN|BODY_6|0
+conditionals and pairs|NNS CC NNS|BODY_1|0
+the type-checking requirements|DT NN NNS|BODY_1|0
+this algorithm typeof|DT NN NN|BODY_2|0
+some type errors|DT NN NNS|BODY_1|0
+a well-typed expression|DT JJ NN|BODY_4|0
+the third binding|DT JJ NN|BODY_1|0
+the identifier construct|DT NN VB|BODY_1|0
+this case one|DT NN CD|BODY_1|0
+type variable renamings|NN JJ NNS|BODY_3|0
+a type inconsistency|DT NN NN|BODY_2|0
+the correct usage|DT JJ NN|BODY_12|0
+the type assignment|DT NN NN|BODY_7|0
+the final substitution|DT JJ NN|BODY_5:BODY_3|0
+a boolean value|DT JJ NN|BODY_6|0
+the deductive process|DT JJ NN|BODY_6|0
+the same reason|DT JJ NN|BODY_1|0
+a well-designed interface|DT JJ NN|BODY_1|0
+20 the variable|CD DT JJ|BODY_1|0
+the let expression|DT VBN NN|BODY_1|0
+more other deductions|JJR JJ NNS|BODY_4|0
+( bool*int )|-LRB- NN -RRB-|BODY_1|0
+( bool-?'i )|-LRB- NN -RRB-|BODY_1|0
+( bool-?bool )|-LRB- NN -RRB-|BODY_1|0
+( fn y|-LRB- NN NN|BODY_1|0
+( int*bool )|-LRB- NN -RRB-|BODY_1|0
+( int*int )|-LRB- NN -RRB-|BODY_1|0
+( int-?'c )|-LRB- NN -RRB-|BODY_1|0
+( int-?bool )|-LRB- NN -RRB-|BODY_1|0
+( int-?int )|-LRB- NN -RRB-|BODY_1|0
+12 type variable|CD NN JJ|BODY_1|0
+? ? bool|. . NN|BODY_1|0
+the variable b|DT JJ NN|BODY_1|0
+the language|DT NN|BODY_6:BODY_2:BODY_7|0
+the substitution|DT NN|BODY_5:BODY_2:BODY_7:BODY_9|1
+the steps|DT NNS|BODY_6:BODY_13:BODY_7|1
+the binding|DT NN|BODY_2:BODY_8|1
+bool|NN|BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+the domain|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+british citizenship|JJ NN|BODY_2:BODY_4|1
+the instantiation|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+information|NN|BODY_6:BODY_1:BODY_3:BODY_4|1
+figure 5|NN CD|BODY_1:BODY_3|0
+standard ml|JJ NN|BODY_2:BODY_4:BODY_8|0
+the circumstances|DT NNS|BODY_2:BODY_8|1
+a part|DT NN|BODY_3|1
+the conclusion|DT NN|BODY_6:BODY_4|2
+the case|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+unification|NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+type bool|NN VB|BODY_4:BODY_7|1
+volume 2|NN CD|BODY_8|1
+types|NNS|BODY_12:BODY_5:BODY_4|0
+a function|DT NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+the point|DT NN|BODY_5:BODY_4:BODY_7|0
+the deductions|DT NNS|BODY_2:BODY_3|0
+the time|DT NN|BODY_2:BODY_3|0
+the process|DT NN|BODY_2:BODY_3|0
+formal parameter|JJ NN|BODY_11:BODY_2:BODY_3|0
+the syntax|DT NN|BODY_11:BODY_1:BODY_7|0
+a =|DT SYM|BODY_32:BODY_3:BODY_4:BODY_8|0
+the unification|DT NN|BODY_3:BODY_4|0
+b else|NN RB|BODY_6:BODY_11:BODY_8|0
+an identifier|DT NN|BODY_5:BODY_1:BODY_4|0
+no need|DT NN|BODY_13:BODY_2|0
+extra information|JJ NN|BODY_3|0
+the perspective|DT NN|BODY_2:BODY_4|0
+this type|DT NN|BODY_2:BODY_4:BODY_8|0
+the collection|DT NN|BODY_2:BODY_8|0
+int x|NN NN|BODY_28:BODY_25|0
+this information|DT NN|BODY_5:BODY_1:BODY_10|0
+true then|JJ RB|BODY_2:BODY_10|0
+fn b=|IN NN|BODY_4:BODY_9|0
+'s body|POS NN|BODY_3|0
+the body|DT NN|BODY_12:BODY_13:BODY_2|0
+int|JJ|BODY_18:BODY_15:BODY_1:BODY_2:BODY_3:BODY_20|0
+(|-LRB-|BODY_31:BODY_1:BODY_3:BODY_4|0
+a binding|DT NN|BODY_6:BODY_4|0
+a pointer|DT NN|BODY_2|0
+the basis|DT NN|BODY_3|0
+critical parts|JJ NNS|BODY_2|0
+some node|DT NN|BODY_2|0
+structural information|JJ NN|BODY_2|0
+the output|DT NN|BODY_1|0
+the value|DT NN|BODY_2|0
+their types|PRP$ NNS|BODY_2|0
+these circumstances|DT NNS|BODY_2|0
+this algorithm|DT NN|BODY_2|0
+a master|DT NN|BODY_3|0
+any generics|DT NNS|BODY_3|0
+this representation|DT NN|BODY_3|0
+# )|# -RRB-|BODY_6:BODY_2|0
+the flow|DT NN|BODY_5:BODY_2|0
+the explanations|DT NNS|BODY_3:BODY_4|0
+the structure|DT NN|BODY_1:BODY_2|0
+the variable|DT JJ|BODY_2:BODY_1|0
+type variables|NN NNS|BODY_6:BODY_1|0
+this expression|DT NN|BODY_5:BODY_2|0
+this example|DT NN|BODY_12:BODY_1|0
+the minority|DT NN|BODY_2:BODY_3|0
+analysis|NN|BODY_2:BODY_3:BODY_4|0
+the same|DT JJ|BODY_6:BODY_5:BODY_10|0
+the part|DT NN|BODY_5:BODY_3|0
+type analysis|NN NN|BODY_6:BODY_12:BODY_2|0
+explanation space|NN NN|BODY_2|0
+the identifier|DT NN|BODY_5:BODY_2|0
+the one|DT CD|BODY_3|0
+the conditional|DT JJ|BODY_6:BODY_13|0
+( b|-LRB- NN|BODY_1:BODY_7|0
+the node|DT NN|BODY_6:BODY_2|0
+'s thesis|POS NN|BODY_4|0
+our attention|PRP$ NN|BODY_2|0
+the user|DT NN|BODY_4|0
+this list|DT NN|BODY_2|0
+the preponderance|DT NN|BODY_6|0
+line 40|NN CD|BODY_2|0
+let f=(|VBN NN|BODY_2|0
+the expressions|DT NNS|BODY_1:BODY_3|0
+fn i|NN FW|BODY_2|0
+some future|DT NN|BODY_2|0
+a language|DT NN|BODY_2|0
+an error|DT NN|BODY_2:BODY_4|0
+28 *|CD NNS|BODY_1|0
+aiding programmers|VBG NNS|BODY_3|0
+heuristic system|JJ NN|BODY_3|0
+the elements|DT NNS|BODY_2|0
+( +|-LRB- NN|BODY_1|0
+( loops|-LRB- NNS|BODY_1|0
+3 type|CD NN|BODY_1|0
+42 *|CD NNS|BODY_1|0
+function body|NN NN|BODY_2|0
+the subtrees|DT NNS|BODY_2|0
+this issue|DT NN|BODY_1|0
+two levels|CD NNS|BODY_2|0
+this case|DT NN|BODY_1:BODY_8|0
+the cause|DT NN|BODY_6:BODY_11|0
+the paper|DT NN|BODY_3|0
+wand [9]|DT NN|BODY_5:BODY_4|0
+new jersey|JJ NNS|BODY_5|0
+the mistake|DT NN|BODY_5:BODY_3|0
+that result|DT NN|BODY_3|0
+all identifiers|DT NNS|BODY_5:BODY_1|0
+? e|. NN|BODY_3|0
+its body|PRP$ NN|BODY_6|0
+function application|NN NN|BODY_1:BODY_3|0
+any type|DT NN|BODY_2|0
+two pieces|CD NNS|BODY_2|0
+the let|DT VBD|BODY_2|0
+'s work|POS NN|BODY_3|0
+the feeling|DT NN|BODY_2|0
+strongly-typed languages|JJ NNS|BODY_2|0
+type systems|NN NNS|BODY_9|0
+? bool|. NN|BODY_3:BODY_4|0
+another part|DT NN|BODY_1:BODY_7|0
+the information|DT NN|BODY_2:BODY_1|0
+many locations|JJ NNS|BODY_4:BODY_8|0
+the evolution|DT NN|BODY_3|0
+these constructs|DT NNS|BODY_2|0
+introducing errors|VBG NNS|BODY_3|0
+every piece|DT NN|BODY_4|0
+the other|DT JJ|BODY_11|0

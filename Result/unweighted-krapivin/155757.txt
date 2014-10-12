@@ -1,0 +1,1111 @@
+we|PRP|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:ABSTRACT_9:BODY_9|0
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_9|0
+that|WDT|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8|0
+l2fit|NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_29:BODY_8|0
+which|WDT|BODY_6:BODY_5:BODY_34:BODY_13:BODY_3:BODY_4:BODY_10:BODY_8|0
+one|CD|BODY_5:BODY_2:ABSTRACT_3:BODY_3|0
+this|DT|BODY_17:BODY_21:BODY_1:BODY_3:BODY_4:BODY_9|0
+the function|DT NN|BODY_35:BODY_12:BODY_4:BODY_8:BODY_9|0
+the user|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+t|NN|BODY_6:BODY_34:BODY_18:BODY_21:BODY_2|0
+the expression|DT NN|BODY_12:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+this command|DT NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+the port library|DT JJ NN|BODY_6:BODY_5:BODY_16:BODY_10:BODY_4:BODY_7|0
+x|NN|BODY_36:BODY_5:BODY_24:BODY_19:BODY_10:BODY_7|0
+the solution|DT NN|BODY_5:BODY_1:BODY_2:BODY_7:BODY_8|0
+they|PRP|BODY_6:BODY_1:BODY_3|0
+the program|DT NN|BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+these interfaces|DT NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+the output|DT NN|BODY_6:BODY_3:BODY_4:BODY_10:BODY_7|0
+functions|NNS|BODY_13:BODY_2:BODY_3:BODY_4|0
+s|PRP|BODY_16:BODY_3:BODY_4:BODY_7|0
+them|PRP|BODY_6:BODY_4|0
+data|NNS|BODY_6:BODY_5:BODY_3:BODY_10|0
+this section|DT NN|BODY_6:BODY_2:BODY_4|0
+yacc|NN|BODY_2|0
+code|NN|BODY_6:BODY_4|0
+the number|DT NN|BODY_32:BODY_6:BODY_2:BODY_3|0
+f|NN|BODY_5:BODY_7|0
+the name|DT NN|BODY_11:BODY_2:BODY_4:BODY_9|0
+_ _ _|NN NN NN|BODY_12:BODY_11:BODY_22:BODY_16:BODY_17:BODY_18:BODY_21:BODY_15:BODY_23:BODY_13:BODY_26:BODY_25:BODY_3:BODY_24:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_19:BODY_7:BODY_8:BODY_20:BODY_9|0
+instance|NN|BODY_5:BODY_1:BODY_4|0
+a function|DT NN|BODY_4|0
+problems|NNS|ABSTRACT_4:BODY_4:BODY_7|0
+templates|NNS|BODY_1:BODY_7|0
+the root program|DT NN NN|BODY_1:BODY_2:BODY_7|0
+the partial derivatives|DT JJ NNS|BODY_4:BODY_7:BODY_29|0
+the variables|DT NNS|BODY_11:BODY_1:BODY_4|0
+a root|DT NN|BODY_5:BODY_3:BODY_4:BODY_9|0
+show|NN|BODY_22:BODY_2:BODY_7|0
+differential equations|JJ NNS|BODY_5:BODY_2:BODY_1:ABSTRACT_7|0
+)|-RRB-|BODY_11:BODY_15:BODY_7:BODY_9|0
+the dependent variables|DT JJ NNS|BODY_32:BODY_18:BODY_3|0
+lines|NNS|BODY_5:BODY_2:BODY_8|0
+interfaces|NNS|BODY_2:ABSTRACT_3:BODY_4|0
+feval|JJ|BODY_2:BODY_1:BODY_7|0
+there|EX|BODY_6:BODY_2:BODY_24|0
+each x value|DT NN NN|BODY_11:BODY_2:BODY_8|0
+template-driven programming|JJ NN|ABSTRACT_2:BODY_2:BODY_3|1
+the data|DT NNS|BODY_1:BODY_4|0
+an interface|DT NN|BODY_6:BODY_1:BODY_2|0
+this interface|DT NN|BODY_12:BODY_1:BODY_14|0
+a template|DT NN|BODY_12:BODY_26:BODY_2:BODY_3:BODY_4|0
+the command line|DT NN NN|BODY_2:BODY_1:BODY_3|0
+a fortran program|DT JJ NN|BODY_6:BODY_3:BODY_4|0
+_ _|NN NN|BODY_13:BODY_25:BODY_24|0
+its input|PRP$ NN|BODY_12:BODY_3|0
+most|JJS|BODY_5:BODY_1|0
+figure 3|NN CD|BODY_1:BODY_3:BODY_4|0
+a set|DT NN|BODY_6:ABSTRACT_2:BODY_3:BODY_4|0
+the parameters|DT NNS|BODY_2:BODY_4|0
+the template|DT JJ|BODY_5:BODY_2|0
+t( t|JJ NN|BODY_17:BODY_15:BODY_4|0
+the y value|DT NN NN|BODY_6:BODY_4|0
+awk|NN|BODY_6:BODY_11:BODY_1|0
+min|NN|BODY_10:BODY_8|0
+c|NN|BODY_8:BODY_9|0
+all|DT|BODY_11:BODY_3|0
+partial and ordinary differential equations|JJ CC JJ JJ NNS|BODY_15:BODY_10|0
+a single fit|DT JJ NN|BODY_2|0
+both expert and novice users|DT NN CC NN NNS|BODY_2|0
+the input data|DT NN NNS|BODY_2|0
+poss|NN|BODY_16:BODY_8|0
+the interfaces|DT NNS|BODY_2:BODY_1:BODY_7|0
+this problem|DT NN|BODY_2:BODY_3|0
+the boundary conditions|DT NN NNS|BODY_1:BODY_3:BODY_10|0
+20 lines|CD NNS|BODY_3:BODY_7|0
+a canonical parameters|DT JJ NNS|BODY_33:BODY_16|0
+t start|JJ NN|BODY_2:BODY_4|0
+assigns|NNS|BODY_18:BODY_14|0
+(|-LRB-|BODY_6:BODY_7|0
+__ _|NN NN|BODY_12:BODY_3|0
+errors|NNS|BODY_4:BODY_7|0
+one space variable|CD NN NN|BODY_6:BODY_3|0
+the computed values|DT JJ NNS|BODY_6:BODY_11|0
+the equations|DT NNS|BODY_6:BODY_24|0
+the pde|DT NN|BODY_2:BODY_8|0
+the ctime program|DT NN NN|BODY_2|0
+programs|NNS|BODY_2:BODY_3:BODY_4|0
+variables|NNS|BODY_5:BODY_15|0
+many|JJ|BODY_23:BODY_1|0
+ratfor|NN|BODY_3:BODY_8|0
+least squares|JJS NNS|BODY_2|0
+a vector|DT NN|BODY_10:BODY_9|0
+least-squares data|NNS NNS|BODY_5:ABSTRACT_6|0
+input (|NN -LRB-|BODY_22:BODY_39|0
+problem|NN|BODY_3:BODY_9|0
+the logarithm|DT NN|BODY_13:BODY_4|0
+the fifth line|DT JJ NN|BODY_11:BODY_7|0
+the vector p|DT NN NN|BODY_2:BODY_10|0
+novices|NNS|BODY_2:BODY_3|0
+the heat equation|DT NN NN|BODY_2|0
+this template|DT JJ|BODY_5:BODY_8|0
+the tour length|DT NN NN|BODY_3:BODY_4|0
+a few hours|DT JJ NNS|ABSTRACT_6:BODY_2|0
+the fortran program|DT JJ NN|BODY_4:BODY_7|0
+this data|DT NN|BODY_1:BODY_3|0
+an awk program|DT JJ NN|BODY_2:BODY_4|0
+richer grammatical structure|JJR JJ NN|BODY_4|0
+a library|DT NN|BODY_2:BODY_9|0
+*|NN|BODY_2|0
+a great deal|DT JJ NN|BODY_4|0
+many common tasks|JJ JJ NNS|BODY_2|0
+much faster|RB RBR|BODY_4|0
+reasonable dispersal|JJ NN|BODY_2|0
+semantic actions|JJ NNS|BODY_2|0
+subsets|NNS|BODY_4|0
+the eqn operator|DT NN NN|BODY_4|0
+several problem domains|JJ NN NNS|BODY_2:BODY_8|0
+the interval|DT NN|BODY_12:BODY_7|0
+itself|PRP|BODY_3|0
+ambient temperature|JJ NN|BODY_17:BODY_9|0
+most function libraries|JJS NN NNS|BODY_2|0
+the port function dzero|DT JJ NN NN|BODY_2|0
+a common numerical prob|DT JJ JJ NN|BODY_3|0
+a popular form|DT JJ NN|BODY_2|0
+a region|DT NN|BODY_2|0
+compared|VBN|BODY_2|0
+invocation|NN|BODY_3|0
+jlb@research .att.com|NN NN|BODY_2|0
+mff@princeton .edu , bwk@research .att.com|CD NNP , NN NN|BODY_3|0
+the input|DT NN|BODY_3|0
+the unix system|DT NN NN|BODY_2|0
+upper and lower bounds|JJ CC JJR NNS|BODY_3|0
+mobility scaled elementary charge|NN VBD JJ NN|BODY_16:BODY_8|0
+the problem|DT NN|BODY_2:BODY_3:BODY_7|0
+the compiler|DT NN|BODY_11:BODY_8|0
+maple|NN|BODY_5:BODY_2|0
+this approach|DT NN|BODY_2|0
+experts|NNS|BODY_2:BODY_1|0
+this paper|DT NN|BODY_1:BODY_3:ABSTRACT_1|0
+respect|NN|BODY_31:BODY_7|0
+pdes|NNS|BODY_6:BODY_5|0
+error checking|NN NN|BODY_5:BODY_2|0
+figure 1|NN CD|BODY_6:BODY_27:BODY_1|0
+the dotemplate function|DT JJ NN|BODY_1:BODY_4|0
+figure 4|NN CD|BODY_2|0
+the unix shell|DT NN NN|BODY_6|0
+l2fit output|JJ NN|BODY_1:BODY_3|0
+a|DT|BODY_2:BODY_3|0
+cryptology|NN|BODY_7|0
+-e|JJ|BODY_2|0
+60 %|CD NN|BODY_10|0
+a more complete function|DT RBR JJ NN|BODY_15|0
+a unit spike|DT NN NN|BODY_10|0
+an awk implementation|DT JJ NN|BODY_2|0
+kernighan and weinberger [1988|NN CC NN NNS|BODY_10|0
+margaret wright|NN NN|BODY_8|0
+storage limits|NN NNS|BODY_8|0
+the default error tolerance|DT NN NN NN|BODY_10|0
+the first time step|DT JJ NN NN|BODY_9|0
+the resulting ctime program|DT JJ JJ NN|BODY_2|0
+this system|DT NN|BODY_2|0
+vx ||NN NNS|BODY_22|0
+the best fit equation x|DT JJS JJ NN NN|BODY_2|0
+time|NN|BODY_2:BODY_4|0
+init vel|NN NN|BODY_21|0
+awk functions|JJ NNS|BODY_3:BODY_8|0
+no means|DT NNS|BODY_2|0
+numeric function values|JJ NN NNS|BODY_2|0
+a fixed mesh|DT VBN NN|BODY_2|0
+the collection and instructions|DT NN CC NNS|BODY_2|0
+the troff language|DT NN NN|BODY_2|0
+control|NN|BODY_2|0
+various iterative methods|JJ JJ NNS|BODY_3|0
+our routines|PRP$ NNS|BODY_9|0
+this case|DT NN|BODY_1|0
+the residuals|DT NNS|BODY_6:BODY_1|0
+princeton university|NN NN|BODY_19|0
+the starting values|DT VBG NNS|BODY_16|0
+the pictures|DT NNS|BODY_4|0
+a picture|DT NN|BODY_10:BODY_20|0
+the l2fit interface|DT NN NN|BODY_4|0
+us|PRP|BODY_2|0
+the input expression|DT NN NN|BODY_5:BODY_2|0
+port routines|NN NNS|BODY_7:BODY_8|0
+time t|NN JJ|BODY_9|0
+1.96|CD|BODY_4|0
+l2fit performs|NN NNS|BODY_2|0
+conclusions|NNS|BODY_4|1
+the resulting product|DT VBG NN|BODY_4|0
+a couple|DT NN|BODY_1:BODY_3|0
+dennis , gay and welsch [1981]|NN , JJ CC JJ NNS|BODY_13|0
+the range|DT NN|BODY_23:BODY_20|0
+a certain tour|DT JJ NN|BODY_6|0
+nodes|NNS|BODY_8|0
+the input file|DT NN NN|BODY_15:BODY_4|0
+the earlier code|DT JJR NN|BODY_9|0
+the ode system|DT NN NN|BODY_21:BODY_3|0
+our implementation|PRP$ NN|BODY_1:BODY_3|0
+semiconductor device modeling|NN NN NN|BODY_4|0
+our software|PRP$ NN|BODY_2|0
+relative function convergence|JJ NN NN|BODY_37:BODY_20|0
+the sample standard deviation|DT NN NN NN|BODY_14|0
+graphical displays|JJ NNS|BODY_3|0
+a high percentage|DT JJ NN|BODY_6:BODY_4|0
+the type|DT NN|BODY_3|0
+the command-line arguments|DT JJ NNS|BODY_2|0
+graphs|NNS|BODY_3|0
+robust components|JJ NNS|BODY_3|0
+the programs|DT NNS|BODY_1:BODY_4|0
+the fit|DT NN|BODY_6|0
+the small variances|DT JJ NNS|BODY_2|0
+energy balance and fluid dynamics models|NN NN CC NN NNS NNS|BODY_6|0
+the original interface|DT JJ NN|BODY_4|0
+the diagonals|DT NNS|BODY_7|0
+alphabetical order|JJ NN|BODY_13|0
+the implementation|DT NN|BODY_6:BODY_2|0
+root finding|NN NN|ABSTRACT_9|0
+coughran and grosse|NN CC NN|BODY_4|0
+170 lines|CD NNS|BODY_2|0
+a fortran preprocessor dialect|DT JJ NN NN|BODY_9|0
+stiff ordinary differential equations|JJ JJ JJ NNS|BODY_2|0
+our succinct descriptions|PRP$ JJ NNS|BODY_6|0
+a summary page|DT NN NN|BODY_3|0
+effective interfaces|JJ NNS|BODY_4|0
+routines|NNS|BODY_4|0
+the source file|DT NN NN|BODY_8|0
+software re|NN NN|BODY_4|0
+awk and yacc|NN CC NN|BODY_26|0
+these files|DT NNS|BODY_2|0
+wright [1979]|NN NNS|BODY_2|0
+0.0167|CD|BODY_15|0
+the differential -x|DT JJ NN|BODY_2|0
+the new l2fit|DT JJ NN|BODY_2|0
+kernighan and pike [1984|JJ CC JJ NNS|BODY_6|0
+the model c|DT NN NN|BODY_2|0
+point sets|NN NNS|BODY_7|0
+others|NNS|BODY_2|0
+the space range 0|DT NN NN CD|BODY_4|0
+a logarithmic growth|DT JJ NN|BODY_2|0
+nonnumeric functions|JJ NNS|BODY_2|0
+the port|DT NN|BODY_4|0
+the notation d[con|DT NN NN|BODY_2|0
+the residual errors|DT JJ NNS|BODY_26|0
+a program|DT NN|BODY_2:BODY_4|0
+c )|NN -RRB-|BODY_3|0
+data analysis|NNS NN|BODY_3|0
+the grap operator |DT NN NN|BODY_3|0
+their means|PRP$ NNS|BODY_3|0
+building interfaces|NN NNS|BODY_5:BODY_3|0
+0.4u 0.0s|CD NNS|BODY_4|0
+a.out |NN|BODY_8|0
+enough|RB|BODY_7|0
+subarr ) print|JJ -RRB- NN|BODY_13|0
+the -s0.6|DT NNS|BODY_8|0
+the machine|DT NN|BODY_4|0
+the vax archi- tecture|DT NN NNS NN|BODY_8|0
+this 10.5the code|DT CD NN|BODY_4|0
+{ dotemplate( root.tplt|JJ NN NN|BODY_4|0
+c-$ n|JJ NN|BODY_20|0
+several additional half-hour sessions|JJ JJ NN NNS|BODY_6|0
+the computed parameters|DT JJ NNS|BODY_2|0
+1 e|CD NN|BODY_8|0
+colin mal- lows|NN NNS NNS|BODY_6|0
+most large libraries|JJS JJ NNS|BODY_3|0
+regular-expression pattern|NN NN|BODY_5|0
+the code|DT NN|BODY_1:BODY_9|0
+our template-driven approach|PRP$ JJ NN|BODY_2:BODY_4|0
+ple|NN|BODY_2|0
+some help|DT NN|BODY_5|0
+the same pde|DT JJ NN|BODY_3|0
+the initial condition|DT JJ NN|BODY_25:BODY_1|0
+plots|NNS|BODY_3|0
+right scaled background doping init pot log(abs|JJ VBD NN VBG NN NN NNS|BODY_19|0
+the initial time step|DT JJ NN NN|BODY_3|0
+$ 0 >outfile appendix|$ CD NN NN|BODY_14|0
+1/x dx|CD NN|BODY_9|0
+4.0 mics/loop|CD NN|BODY_3|0
+a minimal root program|DT JJ NN NN|BODY_3|0
+daryl pregibon|NN NN|BODY_7|0
+e|NN|BODY_3|0
+exit (|NN -LRB-|BODY_9|0
+its final solution|PRP$ JJ NN|BODY_3|0
+the first plot|DT JJ NN|BODY_9|0
+the graphs|DT NNS|BODY_1:BODY_9|0
+this nasty function|DT JJ NN|BODY_8|0
+what|WP|BODY_3|0
+19.2|CD|BODY_5|0
+t-$ t0|DT NN|BODY_21|0
+an extension|DT NN|BODY_3|0
+added bells and whistles|VBN NNS CC NNS|BODY_7|0
+upper case|JJ NN|BODY_22|0
+string processing|NN NN|BODY_2|0
+roughly 5-10|RB CD|BODY_6|0
+subarr ) system|NN -RRB- NN|BODY_6|0
+180 lines|CD NNS|BODY_11|0
+you|PRP|BODY_4|0
+the computation|DT NN|BODY_28:BODY_2|0
+a smooth function|DT JJ NN|BODY_2|0
+the complete schema|DT JJ NN|BODY_13|0
+the post software|DT NN NN|BODY_4|0
+an adaptive pde solver|DT JJ NN NN|BODY_2|0
+the feval program|DT JJ NN|BODY_4|0
+n ) )+v*x/2d-2 init con n init temp|NN -RRB- CD NN RB NN NN VBP|BODY_20|0
+the execution speed|DT NN NN|BODY_3|0
+error recovery|NN NN|BODY_4|0
+2 mesh points|CD NN NNS|BODY_5|0
+33|CD|BODY_6|0
+this troff document|DT NN NN|BODY_6|0
+<templatefile >|JJ NNS|BODY_11|0
+some computation|DT NN|BODY_4|0
+very little meaning|RB JJ NN|BODY_3|0
+a second example|DT JJ NN|BODY_2|0
+run time|NN NN|BODY_4:BODY_8|0
+int n|NN NN|BODY_11|0
+the ode interface|DT NN NN|BODY_2|0
+3.0u 0.0s|CD NNS|BODY_6|0
+( i|-LRB- FW|BODY_12|0
+30.0 mics/loop|CD NN|BODY_5|0
+9|CD|BODY_7|0
+f77 junk .f -lport 2>junk .err|CD NN NN NN JJ NN|BODY_7|0
+junk .f|NN NN|BODY_5|0
+rounding error|JJ NN|BODY_5|0
+41.0 mics/loop|CD NN|BODY_7|0
+the grap language|DT NN NN|BODY_4|0
+a trivial implementation|DT JJ NN|BODY_8|0
+the first line|DT JJ NN|BODY_9|0
+scientific computing tools|JJ NN NNS|BODY_3|0
+an hour or two|DT NN CC CD|BODY_2|0
+not|RB|BODY_1|0
+outfile , subarr , i )|JJ , JJ , FW -RRB-|BODY_10|0
+the dollar sign|DT NN NN|BODY_1|0
+the error messages|DT NN NNS|BODY_2|0
+the system|DT NN|BODY_2|0
+this process|DT NN|BODY_1|0
+the awk program|DT JJ NN|BODY_12:BODY_1|0
+the power|DT NN|BODY_3|0
+the appropriate document production programs|DT JJ NN NN NNS|BODY_7|0
+a numerical approximation|DT JJ NN|BODY_7|0
+d4|NNS|BODY_10|0
+implicit form|JJ NN|BODY_3|0
+weighted input data file|JJ NN NNS NN|BODY_12|0
+eric grosse|JJ NN|BODY_5|0
+60 lines|CD NNS|BODY_7|0
+function evaluation )|NN NN -RRB-|BODY_5|0
+the functional behavior|DT JJ NN|BODY_7|0
+function dotemplate(templatefile|NN NN|BODY_9|0
+the real value|DT JJ NN|BODY_2|0
+the temporary files|DT JJ NNS|BODY_28|0
+etc|FW|BODY_5:BODY_15|0
+a survey|DT NN|BODY_2|0
+d3|NNS|BODY_9|0
+1070 lines|CD NNS|BODY_5|0
+random number generation|JJ NN NN|BODY_6|0
+typesetting|NN|BODY_3|0
+a substitution array|DT NN NN|BODY_6|0
+d2|NNS|BODY_8|0
+af|NN|BODY_18|0
+computer science|NN NN|BODY_18|0
+troff input|NN NN|BODY_27|0
+hours|NNS|BODY_2:BODY_4|0
+fast implementation|JJ NN|BODY_2|0
+_ _ _ _|JJ JJ JJ JJ|BODY_27:BODY_23|0
+the last two lines|DT JJ CD NNS|BODY_15|0
+parsing )|NN -RRB-|BODY_7|0
+a good library|DT JJ NN|BODY_2|0
+real numbers|JJ NNS|BODY_5|0
+the department|DT NN|BODY_17|0
+{ @exp@|IN NN|BODY_12|0
+a weight|DT NN|BODY_13|0
+the phrase|DT NN|BODY_7|0
+the name t|DT NN NN|BODY_20|0
+four variables|CD NNS|BODY_3|0
+the l2fit .out file|DT JJ NN NN|BODY_4|0
+right taup=|JJ NNS|BODY_12|0
+half|NN|BODY_3|0
+principles|NNS|BODY_3|0
+the bounds|DT NNS|BODY_14|0
+about lines|IN NNS|BODY_2|0
+odes vars|NNS NNS|BODY_10|0
+the square roots|DT JJ NNS|BODY_6|0
+an optimizer|DT NN|BODY_3|0
+time complexity|NN NN|BODY_8|0
+the computed value|DT JJ NN|BODY_5|0
+the smoothed function|DT VBN NN|BODY_11|0
+type|NN|BODY_5|0
+$|$|BODY_14|0
+input expression|NN NN|BODY_14|0
+the fourth line|DT JJ NN|BODY_3|0
+an accurate description|DT JJ NN|BODY_3|0
+1d-2|IN|BODY_13|0
+background doping voltage|NN NN NN|BODY_11|0
+boltzmann|NN|BODY_14|0
+points|NNS|BODY_33:BODY_3|0
+# double precision solution error|# RB NN NN NN|BODY_12|0
+the description|DT NN|BODY_1:BODY_3|0
+$ kp * bc p-log(abs( $ n) )|$ JJ SYM JJR JJ $ JJ -RRB-|BODY_19|0
+another interface|DT NN|BODY_5|0
+1 1 data/kdnodes|CD CD NNS|BODY_10|0
+synonyms|NNS|BODY_6|0
+the above command|DT JJ NN|BODY_6|0
+etc. )|FW -RRB-|BODY_30|0
+c'=-s x 0 1|JJ SYM CD CD|BODY_12|0
+output suitable|NN JJ|BODY_26|0
+data/kdnodes|NNS|BODY_13|0
+inclusion|NN|BODY_5|0
+yacc (|NN -LRB-|BODY_6|0
+$ m|$ NN|BODY_13|0
+name-value pairs|NN NNS|BODY_7|0
+a specified variable|DT VBN JJ|BODY_4|0
+example|NN|BODY_1:BODY_2|0
+the standard error|DT JJ NN|BODY_9|0
+l2fit ( logarithmic scales|NN -LRB- JJ NNS|BODY_25|0
+4.1u 0.0s|CD NNS|BODY_8|0
+an object|DT NN|BODY_2|0
+220 lines|CD NNS|BODY_4|0
+various forms|JJ NNS|BODY_9|0
+the model type|DT NN NN|BODY_7|0
+bill coughran|NN NN|BODY_4|0
+text labels|NN NNS|BODY_29|0
+the first field|DT JJ NN|BODY_6|0
+double d1|JJ NNS|BODY_7|0
+their old values|PRP$ JJ NNS|BODY_8|0
+multiple equations|JJ NNS|BODY_3|0
+one or more fields|CD CC JJR NNS|BODY_5|0
+numerical integration|JJ NN|BODY_6|0
+lexical analysis )|JJ NN -RRB-|BODY_4|0
+several routines|JJ NNS|BODY_8|0
+smooth splines|JJ NNS|BODY_12|0
+this name|DT NN|BODY_13|0
+the use|DT NN|BODY_3|0
+the zero|DT NN|BODY_3|0
+declarations and initializations|NNS CC NNS|BODY_14|0
+languages|NNS|BODY_3|0
+become difficult|VBN JJ|BODY_8|0
+the int program performs|DT NN NN NNS|BODY_5|0
+( names|-LRB- NNS|BODY_21|0
+. af|. NN|BODY_23|0
+numerical subroutines|JJ NNS|ABSTRACT_4:TITLE_2|0
+several kinds|JJ NNS|BODY_3|0
+velocity voltage|NN NN|BODY_18|0
+an afternoon|DT NN|BODY_5|0
+elegant interfaces|JJ NNS|BODY_4|0
+matlab|NN|BODY_2|0
+earlier interfaces|JJR NNS|BODY_3|0
+the time interval|DT NN NN|BODY_5|0
+unweighted input data file|JJ NN NNS NN|BODY_31|0
+vel # potential , concentration , temperature , velocity precision|NN # JJ , NN , NN , NN NN|BODY_11|0
+other template-driven programs|JJ JJ NNS|BODY_2|0
+) description|-RRB- NN|ABSTRACT_2|0
+a logarithmic scale|DT JJ NN|BODY_2|0
+interest|NN|BODY_4|0
+the equation|DT NN|BODY_1:BODY_8|0
+0.121|CD|BODY_11|0
+saturation velocity|NN NN|BODY_10|0
+100 1000 10000 100000 -5circles|CD CD CD CD NNS|BODY_3|0
+100 1000 10000 circles|CD CD CD NNS|BODY_3|0
+primary awk func|JJ JJ NN|BODY_5|0
+similar tools|JJ NNS|BODY_4|0
+confidence|NN|BODY_3|0
+rick becker|NN NN|BODY_3|0
+the least-squares regression|DT NNS NN|BODY_3|0
+their standard errors|PRP$ JJ NNS|BODY_3|0
+the essential ideas|DT JJ NNS|BODY_6|0
+.d least squares regression type|JJ JJS NNS NN NN|BODY_11|0
+'s constant scaled effective mass|POS JJ VBD JJ NN|BODY_15|0
+the port subroutine library|DT NN JJ NN|BODY_7|0
+the excellent algorithm|DT JJ NN|BODY_12|0
+a decreases|DT NNS|BODY_10|0
+the interval ( t start|DT NN -LRB- JJ VBP|BODY_5|0
+s,c ode  s'=c|JJ NN IN NN|BODY_11|0
+other environments|JJ NNS|BODY_5|0
+a phrase|DT NN|BODY_4|0
+lex (|NN -LRB-|BODY_3|0
+hock and schittkowski|NN CC NN|BODY_7|0
+the following command|DT JJ NN|BODY_8|0
+the fortran tem|DT NN NN|BODY_5|0
+our home system|PRP$ NN NN|BODY_3|0
+all straightforward|DT JJ|BODY_7|0
+boltzmann |NN|BODY_6|0
+the -lxy flag requests|DT JJ NN NNS|BODY_2|0
+the mean y value|DT JJ NN NN|BODY_12|0
+derivatives|NNS|BODY_3|0
+inequalities|NNS|BODY_8|0
+problem 5|NN CD|BODY_6|0
+the triangular structure|DT JJ NN|BODY_5|0
+the syntactic structure|DT NN NN|BODY_2|0
+a vector-valued function|DT JJ NN|BODY_8|0
+a pde|DT NN|BODY_2|0
+<math .h>|NN NN|BODY_6|0
+a separate line|DT JJ NN|BODY_5|0
+character|NN|BODY_13|0
+the underlying port software|DT VBG NN NN|BODY_27|0
+conventions and abbreviations|NNS CC NNS|BODY_4|0
+hours or days|NNS CC NNS|BODY_2|0
+the flavor|DT NN|BODY_5|0
+fortran programs|JJ NNS|BODY_9|0
+residuals|NNS|BODY_4|0
+weighted residuals [y|JJ NNS JJ|BODY_4|0
+the run-time cost|DT NN NN|BODY_5|0
+the semi-symbolic nature|DT JJ NN|BODY_9|0
+$ 1)|$ CD|BODY_9|0
+lo|NN|BODY_11|0
+the interval [0.1 , 0.9]|DT NN CD , CD|BODY_6:BODY_11|0
+pdevar pot|NN NN|BODY_10|0
+the -t flag|DT JJ NN|BODY_4|0
+the corresponding average number|DT JJ JJ NN|BODY_7|0
+the length|DT NN|BODY_5|0
+a and c|DT CC NN|BODY_4|0
+the components f|DT NNS NN|BODY_20|0
+a pde.|DT NN|BODY_2|0
+a broad class|DT JJ NN|BODY_3|0
+the library|DT NN|BODY_7|0
+this task|DT NN|BODY_10|0
+section 5|NN CD|BODY_3|0
+single program|JJ NN|BODY_8|0
+the variables and equations|DT NNS CC NNS|BODY_2|0
+the template root.tplt|DT JJ NN|BODY_5|0
+2100 lines|CD NNS|BODY_8|0
+a 30-line troff/grap template )|DT JJ NN NN -RRB-|BODY_9|0
+faulty equations|NN NNS|BODY_4|0
+the semi-linear divergence form|DT JJ NN NN|BODY_7|0
+section 6|NN CD|BODY_3|1
+a+b*log( x|NN NN|BODY_15|0
+the command|DT NN|BODY_9|0
+the explicit form|DT JJ NN|BODY_4|0
+the drift-diffusion|DT NN|BODY_5|0
+14 lines|CD NNS|BODY_5|0
+minimization|NN|ABSTRACT_8|0
+both|DT|BODY_9|0
+the second|DT NN|BODY_6|0
+these awk interfaces|DT JJ NNS|BODY_10|0
+the language development tools|DT NN NN NNS|BODY_5|0
+x values|NN NNS|BODY_11|0
+a , b and c|DT , NN CC NN|BODY_12|0
+the |DT|BODY_12|0
+post|NN|BODY_14|0
+space|NN|BODY_11|0
+the first four lines|DT JJ CD NNS|BODY_9|0
+the coupling|DT NN|BODY_4|0
+above|IN|BODY_2|0
+the oldest and most effective approaches|DT JJS CC RBS JJ NNS|BODY_3|0
+an adaptive mesh spline fitter|DT JJ NN NN NN|BODY_4|0
+the philosophy|DT NN|BODY_2|0
+index|NN|BODY_6|0
+the standard errors|DT JJ NNS|BODY_5|0
+implicit odes|JJ NNS|BODY_5|0
+our interfaces|PRP$ NNS|BODY_10|0
+t stop )|JJ NN -RRB-|BODY_6|0
+the interface|DT NN|BODY_4|0
+' datafile | l2fit -lxy|POS NN NN NN NN|BODY_11|0
+effective mass|JJ NN|BODY_7|0
+a day or two|DT NN CC CD|BODY_5|0
+greater weight|JJR NN|BODY_5|0
+larger x values|JJR NN NNS|BODY_3|0
+an output file|DT NN NN|BODY_5|0
+odes|NNS|BODY_8|0
+many variables|JJ NNS|BODY_3|0
+a half dozen types|DT NN NN NNS|BODY_6|0
+continuation code|NN NN|BODY_6|0
+external f stop double precision function f( x|JJ NN NN JJ NN NN NN NN|BODY_6|0
+the underlying solver|DT JJ NN|BODY_8|0
+exp|NN|BODY_10|0
+a pile|DT NN|BODY_4|0
+a 50-line awk program|DT JJ JJ NN|BODY_2|0
+an expression|DT NN|BODY_2|0
+correct programs|JJ NNS|BODY_2|0
+hock5|NN|BODY_2|0
+minor translations|JJ NNS|BODY_2|0
+other tools|JJ NNS|BODY_4|0
+the base-ten logarithm|DT JJ NN|BODY_2|0
+the fortran ftime|DT JJ NN|BODY_6|0
+three parameters|CD NNS|BODY_9|0
+handling odes|VBG NNS|BODY_4|0
+the iode solver|DT NN NN|BODY_4|0
+salesman tours|NN NNS|BODY_6|0
+space and time|NN CC NN|BODY_16|0
+$ 2 ) }|$ CD -RRB- NN|BODY_10|0
+etc.|FW|BODY_35|0
+ p,c,t,v|NN NNS|BODY_17|0
+$ t0/( $ q*t) )  kp= ( 1.5*$ mu*c)|$ JJ $ JJ -RRB- NN NN -LRB- CD NN|BODY_15|0
+a nonlinear lower-triangular manner|DT JJ JJ NN|BODY_2|0
+the more complex problem domain|DT RBR JJ NN NN|BODY_4|0
+0 1|CD CD|BODY_13|0
+| mail netlib@research|JJ NN NN|BODY_8|0
+the single pde|DT JJ NN|BODY_19|0
+template , 20 lines|JJ , CD NNS|BODY_4|0
+tions|NNS|BODY_6|0
+times c constructs|NNS NN NNS|BODY_5|0
+other programs|JJ NNS|BODY_10|0
+the data-fitting problem|DT NN NN|BODY_2|0
+this program|DT NN|BODY_2|0
+partial differential equations|JJ JJ NNS|BODY_4|0
+their arguments|PRP$ NNS|BODY_14|0
+1|CD|BODY_3|0
+a long format|DT JJ NN|BODY_2|0
+at-signs|NNS|BODY_14|0
+the same options|DT JJ NNS|BODY_24|0
+earlier|JJR|BODY_3|0
+a and b|DT CC NN|BODY_7|0
+left and right|JJ CC JJ|BODY_11|0
+pde variables|JJ NNS|BODY_11|0
+such values|JJ NNS|BODY_6|0
+the form|DT NN|BODY_2|0
+a result|DT NN|BODY_3|0
+y data|RB NNS|BODY_4|0
+domains|NNS|BODY_4|0
+110 lines|CD NNS|BODY_8|0
+our computing environment|PRP$ NN NN|BODY_4|0
+comments|NNS|BODY_10|0
+more processing (|JJR NN -LRB-|BODY_3|0
+the total cpu time|DT JJ NN NN|BODY_7|0
+. vars|. NNS|BODY_17|0
+the squares|DT NNS|BODY_5|0
+two-dimensional pdes|JJ NNS|BODY_3|0
+a given expression|DT VBN NN|BODY_3|0
+graphical display|JJ NN|BODY_5|0
+a 330-line awk program|DT JJ JJ NN|BODY_2|0
+network|NN|BODY_9|0
+fortran|NN|BODY_14:BODY_3|0
+the right tools|DT JJ NNS|BODY_3|0
+a search tree|DT NN NN|BODY_5|0
+tradeoffs|NNS|BODY_25|0
+the mathematical model underlying least-square regression|DT JJ NN VBG NN NN|BODY_25|0
+160 lines|CD NNS|BODY_2|0
+about ten vax-8550 cpu seconds|IN CD CD NN NNS|BODY_9|0
+subroutine libraries|JJ NNS|BODY_4|0
+the coding style|DT NN NN|BODY_4|0
+the fortran file junk .f|DT NN NN NN NN|BODY_6|0
+the appropriate libraries|DT JJ NNS|BODY_6|0
+template interpretation|JJ NN|BODY_6|0
+plate|NN|BODY_6|0
+the ctime keyword|DT JJ NN|BODY_10|0
+c<=10|PRP|BODY_10|0
+the left condition|DT JJ NN|BODY_14|0
+data/tourlen.d input expression|JJ NN NN|BODY_32|0
+awk , root and int|JJ , NN CC NN|BODY_4|0
+another template|DT JJ|BODY_2|0
+individual programmers|NN NNS|BODY_3|0
+the least-squares|DT NNS|BODY_3|0
+the line number|DT NN NN|BODY_7|0
+_ _ _ maria fernandez|NN NN NN NN NNS|BODY_16|0
+each line|DT NN|BODY_3|0
+-con/-x|NN|BODY_3|0
+the jobs|DT NNS|BODY_2|0
+three different but related port routines|CD JJ CC JJ NN NNS|BODY_3|0
+its output|PRP$ NN|BODY_5|0
+0|CD|BODY_26|0
+debugging|NN|BODY_8|0
+100 1000 10000 1000001418 circles|CD CD CD CD NNS|BODY_21|0
+100 1000 100001050 circles|CD CD CD NNS|BODY_38|0
+the next two lines|DT JJ CD NNS|BODY_13|0
+the time range|DT NN NN|BODY_3|0
+links|NNS|BODY_5|0
+p( 1 )|JJ CD -RRB-|BODY_3|0
+0.630579 0.733034 0.499881 standard errors|CD CD CD JJ NNS|BODY_34|0
+15.621 0.281858 standard errors|CD CD JJ NNS|BODY_17|0
+shell|NN|BODY_7|0
+an option|DT NN|BODY_31|0
+an efficient sort|DT JJ NN|BODY_3|0
+one possibility|CD NN|BODY_3|0
+sophisticated interface|JJ NN|BODY_3|0
+a and f|DT CC NN|BODY_12|0
+a tight loop|DT JJ NN|BODY_5|0
+ordinary differential equations or odes|JJ JJ NNS CC NNS|BODY_3|0
+file|NN|BODY_3|0
+double precision f|JJ NN NN|BODY_7|0
+the necessary jacobian information|DT JJ NN NN|BODY_28|0
+a sequence|DT NN|BODY_10|0
+the program and executes|DT NN CC NNS|BODY_8|0
+a weighted regression|DT JJ NN|BODY_10|0
+the -w flag calls|DT JJ NN NNS|BODY_9|0
+name-value phrases|NN NNS|BODY_3|0
+the program name|DT NN NN|BODY_9|0
+a simple one|DT JJ CD|ABSTRACT_5|0
+appendix|NN|BODY_1|0
+u( t|JJ NN|BODY_8|0
+the timing loop|DT NN NN|BODY_5|0
+objects|NNS|BODY_4|0
+its equilibrium value|PRP$ NN NN|BODY_2|0
+b decreases|NN NNS|BODY_14|0
+d tx=tt states|VBD JJ NNS|BODY_3|0
+a single troff output file|DT JJ NN NN NN|BODY_7|0
+the command show|DT NN NN|BODY_13|0
+just 6 lines|RB CD NNS|BODY_3|0
+transparent|JJ|BODY_3|0
+that algorithm|DT NN|BODY_3|0
+simple problems|JJ NNS|BODY_2|0
+the bottom graph|DT NN NN|BODY_2|0
+print|NN|BODY_8|0
+better data|JJR NNS|BODY_2|0
+questions|NNS|BODY_6|0
+extensive use|JJ NN|BODY_6|0
+vars|NNS|BODY_13|0
+all possible cases|DT JJ NNS|BODY_9|0
+the technique|DT NN|BODY_2|0
+more useful error messages|RBR JJ NN NNS|BODY_2|0
+a few days|DT JJ NNS|ABSTRACT_7|0
+both variables|DT NNS|BODY_5|0
+the helpful comments|DT JJ NNS|BODY_2|0
+the tools most convenient|DT NNS RBS JJ|BODY_2|0
+the unix|DT NN|BODY_6|0
+ode|NN|BODY_19|0
+a 9-line template|DT JJ NN|BODY_4|0
+pipe-like interfaces|JJ NNS|BODY_2|0
+the way|DT NN|BODY_11|0
+the numerical routines|DT JJ NNS|BODY_5|0
+b l and b r|NN NN CC NN NN|BODY_3|0
+the names|DT NNS|BODY_15|0
+each field|DT NN|BODY_4|0
+certain straightforward data processing tasks|JJ JJ NNS NN NNS|BODY_2|0
+a version|DT NN|BODY_4|0
+search tree data|NN NN NNS|BODY_2|0
+tsp data|NN NNS|BODY_2|0
+the details|DT NNS|BODY_3|0
+exp(1-x)*( 1+log( x|JJ JJ NN|BODY_14|0
+both fields|DT NNS|BODY_14|0
+that t( 0|DT JJ CD|BODY_2|0
+a sample program|DT NN NN|BODY_3|0
+hi|PRP|BODY_12|0
+a single c program # c concentration|DT JJ NN NN # NN NN|BODY_5|0
+0.044|CD|BODY_12|0
+simple , concise interfaces|JJ , JJ NNS|BODY_7|0
+the format <lower bound > <upper|DT NN NN VBN NN NN|BODY_4|0
+the translation|DT NN|BODY_3|0
+approxi- mate|DT NN|BODY_2|0
+the fixed mesh pde solver post|DT VBN NN NN NN NN|BODY_5|0
+the complete root program|DT JJ NN NN|BODY_1|0
+the fortran compiler|DT JJ NN|BODY_8|0
+initial conditions|JJ NNS|BODY_2|0
+its command line|PRP$ NN NN|BODY_3|0
+the top|DT NN|BODY_26|0
+the three arguments|DT CD NNS|BODY_2|0
+more complicated problems|RBR JJ NNS|BODY_2|0
+0.12083 0.0166733 0.00240624 algorithm termination|CD CD CD NN NN|BODY_35|0
+0.484768 0.0440454 algorithm termination|CD CD NN NN|BODY_18|0
+the scenes|DT NNS|BODY_1:BODY_3|0
+-s0.6 -w -lx a+b*log( x|DT JJ JJ NN NN|BODY_9|0
+our users|PRP$ NNS|BODY_2|0
+10-line fortran templates )|JJ JJ NNS -RRB-|BODY_6|0
+'s view|POS NN|BODY_3|0
+the routines|DT NNS|BODY_8|0
+survey template-driven interfaces|NN JJ NNS|BODY_6|0
+machines|NNS|BODY_7|0
+about 40 lines|IN CD NNS|BODY_7|0
+reason|NN|BODY_2|0
+ranges|NNS|BODY_7|0
+several|JJ|BODY_2|0
+application|NN|ABSTRACT_5|0
+the sum|DT NN|BODY_4|0
+a number|DT NN|BODY_3|0
+a naive user|DT JJ NN|BODY_4|0
+the regression|DT NN|BODY_6|0
+two numeric fields|CD JJ NNS|BODY_5|0
+similar interfaces|JJ NNS|BODY_2|0
+such an interface|JJ DT NN|ABSTRACT_4|0
+ c|IN NN|BODY_17|0
+keyword|NN|BODY_2|0
+value pairs|NN NNS|BODY_3|0
+the fortran compilation status|DT JJ NN NN|BODY_3|0
+the domains|DT NNS|BODY_3|0
+the odes|DT NNS|BODY_15|0
+this ode|DT NN|BODY_6|0
+course|NN|BODY_2|0
+the phrases|DT NNS|BODY_7|0
+the most complex program|DT RBS JJ NN|ABSTRACT_8|0
+other parts|JJ NNS|BODY_3|0
+this paper deal|DT NN NN|BODY_4|0
+ten y observations|CD NN NNS|BODY_7|0
+a , f and bc|DT , NN CC NN|BODY_30|0
+the double precision|DT JJ NN|BODY_5|0
+section 3|NN CD|BODY_4|0
+the object code|DT NN NN|BODY_9|0
+several major parts|JJ JJ NNS|BODY_3|0
+ control-d|JJ NN|BODY_4|0
+each program|DT NN|BODY_1|0
+each variable|DT JJ|BODY_4|0
+electronic addresses|JJ NNS|BODY_1|0
+lem|NN|BODY_4|0
+nls@research .att.com|NN NN|BODY_4|0
+the library procedures|DT NN NNS|BODY_4|0
+the min program performs|DT NN NN NNS|BODY_1|0
+this code|DT NN|BODY_1|0
+with most programs|IN JJS NNS|BODY_1|0
+fortran expressions|JJ NNS|BODY_5|0
+the only program|DT JJ NN|BODY_2|0
+our program|PRP$ NN|BODY_2|0
+a template-driven awk program|DT JJ JJ NN|BODY_2|0
+a fortran routine|DT JJ NN|BODY_3|0
+mini- mized|CD JJ|BODY_5|0
+the value|DT NN|BODY_7|0
+numerical routines|JJ NNS|BODY_13|0
+-s0.6 -lxy a+b*x*c data/tourlen.d least squares regression type|DT JJ JJ JJ JJS NNS NN NN|BODY_30|0
+extensive error checking|JJ NN NN|BODY_4|0
+numerical experts|JJ NNS|BODY_5|0
+these applications|DT NNS|BODY_2|0
+the five programs|DT CD NNS|BODY_5|0
+the text|DT NN|BODY_25|0
+the appropriate routine|DT JJ NN|BODY_2|0
+complete information|JJ NN|BODY_6|0
+another choice|DT NN|BODY_5|0
+how large|WRB JJ|BODY_9|0
+a few dozen lines|DT JJ NN NNS|BODY_3|0
+a single fortran expression|DT JJ JJ NN|BODY_8|0
+traditional approaches|JJ NNS|BODY_6|0
+an expression tree|DT NN NN|BODY_7|0
+this paper )|DT NN -RRB-|BODY_5|0
+our favorite univariate function and interval|PRP$ JJ JJ NN CC NN|BODY_3|0
+problem descriptions|NN NNS|BODY_2|0
+parameters|NNS|BODY_7|0
+the x values|DT NN NNS|BODY_11|0
+a file|DT NN|BODY_3|0
+an exponential model|DT JJ NN|BODY_4|0
+' .1 .9|'' CD CD|BODY_16|0
+a single data set|DT JJ NN NN|BODY_3|0
+many programmer-years|JJ NNS|BODY_3|0
+some people|DT NNS|BODY_1|0
+such environments|JJ NNS|BODY_1|0
+the fitted function|DT VBN NN|BODY_3|0
+the top graph displays|DT JJ NN NNS|BODY_1|0
+a dozen l2fit regressions|DT NN NN NNS|BODY_5|0
+the success|DT NN|BODY_2|0
+these initial and boundary conditions conflict|DT JJ CC NN NNS NN|BODY_5|0
+value|NN|BODY_4|0
+4]|NNS|BODY_8|0
+the function sin( x )|DT NN NN NN -RRB-|BODY_6|0
+what mesh|WP NN|BODY_7|0
+temporary files|JJ NNS|BODY_5|0
+x and t|SYM CC VBP|BODY_8|0
+a session|DT NN|BODY_4|0
+u|NN|BODY_33|0
+similar problems|JJ NNS|BODY_3|0
+a programmer|DT NN|BODY_2|0
+a dialog|DT NN|BODY_2|0
+the following services|DT VBG NNS|BODY_2|0
+a , b , c , etc.|DT , NN , NN , FW|BODY_5|0
+the fields|DT NNS|BODY_5:BODY_1|0
+for least squares|IN JJS NNS|BODY_6|0
+access|NN|BODY_2|0
+a template program|DT JJ NN|BODY_3|0
+detail|NN|BODY_6:BODY_4|0
+the functional form y|DT JJ NN NN|BODY_5|0
+command line|NN NN|BODY_28|0
+smooth( x ) pairs|JJ RB -RRB- NNS|BODY_8|0
+no elegant way|DT JJ NN|BODY_3|0
+a 60-line troff and grap template|DT JJ NN CC NN NN|BODY_6|0
+the major areas|DT JJ NNS|BODY_6|0
+the next phrase|DT JJ NN|BODY_22|0
+the phrase t 0 1|DT NN VBP CD CD|BODY_19|0
+more insight|JJR NN|BODY_8|0
+the target programming language|DT NN NN NN|BODY_5|0
+an invocation|DT NN|BODY_3|0
+a 45-line fortran template|DT JJ NN NN|BODY_4|0
+the common cases|DT JJ NNS|BODY_2|0
+the averaged cost|DT VBN NN|BODY_5|0
+_ command line|JJ NN NN|BODY_7|0
+the answer|DT NN|BODY_11:BODY_9|0
+easy access|JJ NN|BODY_4|0
+the examples|DT NNS|BODY_2|0
+a file show|DT NN NN|BODY_18|0
+about 150 lines|IN CD NNS|BODY_5|0
+a unix system filter|DT NN NN NN|BODY_2|0
+complexity|NN|BODY_5|0
+- 0.39|: CD|BODY_6|0
+a sort pipe|DT NN NN|BODY_5|0
+scripts|NNS|BODY_3|0
+a yacc-based program|DT JJ NN|BODY_1|0
+awk programs|JJ NNS|BODY_1|0
+data and re-expressing data|NNS CC NN NNS|BODY_5|0
+error detection and recovery|NN NN CC NN|BODY_5|0
+structure|NN|BODY_5|0
+sup |NN|BODY_5|0
+the fortran exponentiation operator|DT JJ NN NN|BODY_1|0
+the weighted residuals|DT JJ NNS|BODY_1|0
+the partials|DT NNS|BODY_5|0
+a shorter implementation|DT JJR NN|BODY_7|0
+pairs|NNS|BODY_6|0
+a few additional hours|DT JJ JJ NNS|BODY_1|0
+an index|DT NN|BODY_1|0
+an input flag|DT NN NN|BODY_11|0
+an interactive session|DT JJ NN|BODY_1|0
+another program solves|DT NN NNS|BODY_1|0
+completeness|NN|BODY_1|0
+errpar 1e-2 1e-2 figure 4|JJ CD CD NN CD|BODY_23|0
+instantiating templates|VBG NNS|BODY_16|0
+integration methods|NN NNS|BODY_9|0
+naming parameters|VBG NNS|BODY_7|0
+several anonymous referees|JJ JJ NNS|BODY_9|0
+some purposes|DT NNS|BODY_1|0
+the awk programming language|DT JJ NN NN|BODY_11|0
+the body|DT NN|BODY_1|0
+the default 0.1 % accuracy|DT NN CD NN NN|BODY_10|0
+the default initial time-step|DT NN JJ NN|BODY_1|0
+the evolution|DT NN|BODY_1|0
+their default size|PRP$ NN NN|BODY_11|0
+width roughly|JJ RB|BODY_11|0
+the related smooth program computes|DT VBN JJ NN NNS|BODY_1|0
+primary concern|JJ NN|BODY_5|0
+an important open problem|DT JJ JJ NN|BODY_5|0
+other interfaces|JJ NNS|BODY_1|0
+the troff output file l2fit .out|DT NN NN NN NN NN|BODY_4|0
+0 figure 3|CD NN CD|BODY_22|0
+the model|DT NN|BODY_5|0
+that x|IN NN|BODY_15|0
+( all|-LRB- DT|BODY_1|0
+gill , murray|NN , NN|BODY_1|0
+data compression|NNS NN|BODY_8|0
+08544|CD|BODY_20|0
+that template|WDT VBP|BODY_1|0
+the covariance matrix )|DT NN NN -RRB-|BODY_8|0
+the two variables|DT CD NNS|BODY_17|0
+bill coughran )|NN NN -RRB-|BODY_5|0
+this timing program|DT NN NN|BODY_1|0
+broad but short test cases|JJ CC JJ NN NNS|BODY_10|0
+a 140-line awk program|DT JJ JJ NN|BODY_10|0
+the above specification|DT JJ NN|BODY_1|0
+useful software|JJ NN|BODY_4|0
+the first three lines|DT JJ CD NNS|BODY_1|0
+symbol-table management|JJ NN|BODY_3|0
+a 50-line fortran template )|DT JJ JJ NN -RRB-|BODY_12|0
+figure|NN|BODY_1|0
+the primary graph|DT JJ NN|BODY_1|0
+logarithmic x and y scales|JJ NN CC NN NNS|BODY_4|0
+these two graphs|DT CD NNS|BODY_1|0
+these complicated mathematical objects|DT JJ JJ NNS|BODY_7|0
+a second experiment|DT JJ NN|BODY_1|0
+95 % confidence intervals )|CD NN NN NNS -RRB-|BODY_5|0
+a simple version|DT JJ NN|BODY_1|0
+nl2sol )|NN -RRB-|BODY_14|0
+that program|WDT NN|BODY_1|0
+the documentation|DT NN|BODY_1|0
+especially nested constructions|RB VBN NNS|BODY_5|0
+template-driven awk programs|JJ JJ NNS|BODY_8|0
+a compiler|DT NN|BODY_3|0
+a search|DT NN|BODY_9|0
+the points|DT NNS|BODY_7|0
+the complete programs|DT JJ NNS|BODY_1|0
+the second line|DT JJ NN|BODY_14|0
+the software underlying poss|DT NN VBG NN|BODY_1|0
+equation|NN|BODY_4|0
+the solution vector x(t )|DT NN NN NN -RRB-|BODY_10|0
+chapter 8]|NN NN|BODY_7|0
+the casual user|DT JJ NN|BODY_4|0
+section|NN|BODY_5|1
+template-driven pro-|JJ NNS|BODY_4|0
+semiconductor device behavior|NN NN NN|BODY_7|0
+a parameter changes|DT NN NNS|BODY_9|0
+integration|NN|ABSTRACT_10|0
+note|NN|BODY_1|0
+that region|IN NN|BODY_7|0
+finite-difference derivatives|NN NNS|BODY_10|0
+the default direct factorization schemes|DT NN JJ NN NNS|BODY_4|0
+use|NN|BODY_5|0
+the awk script|DT JJ NN|BODY_1|0
+data files|NNS NNS|BODY_4|0
+the single independent variable x|DT JJ JJ JJ NN|BODY_5|0
+the unit square|DT NN NN|BODY_8|0
+exam|NN|BODY_1|0
+the same normal distribution|DT JJ JJ NN|BODY_27|0
+some values|DT NNS|BODY_1|0
+implementation languages|NN NNS|BODY_27|0
+the quality|DT NN|BODY_1|0
+the specification|DT NN|BODY_1|0
+- 1|: CD|BODY_5|0
+a 40-line fortran template|DT JJ NN NN|BODY_3|0
+about ten minutes|IN CD NNS|BODY_7|0
+one possible fortran implementation parses|CD JJ NN NN NNS|BODY_1|0
+that system|DT NN|BODY_5|0
+the file|DT NN|BODY_1|0
+the grap log function|DT NN NN NN|BODY_1|0
+the various languages|DT JJ NNS|BODY_3|0
+this minimal program|DT JJ NN|BODY_1|0
+large environments|JJ NNS|BODY_1|0
+sophisticated software libraries|JJ NN NNS|BODY_5|0
+a short (|DT JJ -LRB-|ABSTRACT_1|0
+the errors|DT NNS|BODY_1|0
+the first few applications|DT JJ JJ NNS|BODY_5|0
+the domain|DT NN|BODY_5|0
+the template-driven interfaces|DT JJ NNS|BODY_1|0
+differential equation solvers|JJ NN NNS|BODY_4|0
+template-driven interfaces|JJ NNS|TITLE_1|0
+fortran syntax errors|CD JJ NNS|BODY_9|0
+l2fit .out|NN NN|BODY_4|0
+port|NN|BODY_5|0
+their software libraries|PRP$ NN NNS|BODY_5|0
+the next command|DT JJ NN|BODY_1|0
+an obvious extension|DT JJ NN|BODY_1|0
+pde solvers|DT NNS|BODY_5|0
+theory|NN|BODY_1|0
+a unique solution|DT JJ NN|BODY_4|0
+many solutions|JJ NNS|BODY_1|0
+our home machine|PRP$ NN NN|BODY_10|0
+the complete l2fit|DT JJ NN|BODY_1|0
+ @ )|JJ NN -RRB-|BODY_15|0
+a more substantial input file|DT RBR JJ NN NN|BODY_1|0
+4|CD|BODY_1|0
+numerical answers|JJ NNS|BODY_4|0
+0.0010|CD|BODY_16|0
+the letter|DT NN|BODY_1|0
+the file data/tourlen.d|DT NN NN|BODY_2|0
+a few hundred lines|DT JJ CD NNS|BODY_6|0
+line|NN|BODY_1|0
+the form f|DT NN NN|BODY_25|0
+the graph|DT NN|BODY_1|0
+finite-difference methods|NN NNS|BODY_36|0
+type int and float|NN NN CC NN|BODY_16|0
+l2fit runs|NN NNS|BODY_5|0
+the grap output|DT NN NN|BODY_6|0
+its limited domain|PRP$ JJ NN|BODY_3|0
+regression|NN|BODY_1|0
+template instantiation and error message reporting )|JJ NN CC NN NN NN -RRB-|BODY_11|0
+given initial conditions|VBN JJ NNS|BODY_1|0
+section 4|NN CD|BODY_1|0
+addition|NN|BODY_1|0
+the corresponding output values|DT JJ NN NNS|BODY_13|0
+( char et al [1988 ]|-LRB- NN FW JJ CD NNS|BODY_1|0
+the first output value|DT JJ NN NN|BODY_1|0
+a description|DT NN|BODY_1|0
+contrast|NN|BODY_1|0
+implementation time|NN NN|BODY_3|0
+the price|DT NN|BODY_1|0
+a small example|DT JJ NN|BODY_5|0
+a specified interval|DT JJ NN|BODY_5|0
+the investment|DT NN|BODY_1|0
+its applications|PRP$ NNS|BODY_1|0
+6|CD|BODY_1|0
+,y ) pairs|RB -RRB- NNS|BODY_40:BODY_23|0
+fox [1984]|NN NN|BODY_8|0
+a side-effect|DT NN|BODY_12|0
+the final values|DT JJ NNS|BODY_1|0
+]/stddev( x )|JJ SYM -RRB-|BODY_7|0
+these variants|DT NNS|BODY_4|0
+users|NNS|BODY_5|0
+various c expressions|JJ NN NNS|BODY_6|0
+a 250-line fortran template|DT JJ NN NN|BODY_10|0
+( x ,p)|-LRB- NN NN|BODY_6|0
+a side effect|DT NN NN|BODY_1|0
+the variable a|DT JJ DT|BODY_1|0
+section 2|NN CD|BODY_1|0
+a template file|DT JJ NN|BODY_3|0
+the underlying numerical software|DT VBG JJ NN|BODY_10|0
+many systems|JJ NNS|BODY_3|0
+a poss description|DT JJ NN|BODY_1|0
+approximately erfc( x/2-'t )|RB JJ NN -RRB-|BODY_9|0
+the more complex problems|DT RBR JJ NNS|BODY_8|0
+a more sophisticated version|DT RBR JJ NN|BODY_1|0
+other applications|JJ NNS|BODY_1|1
+our approach|PRP$ NN|ABSTRACT_1|0
+another|DT|BODY_6|0
+introduction numerical subroutine packages|NN JJ NN NNS|BODY_1|0
+elementary problems|JJ NNS|BODY_3|0
+reals|NNS|BODY_10|0
+numerical functions|JJ NNS|BODY_5|0
+precisely three arguments|RB CD NNS|BODY_4|0
+two flags|CD NNS|BODY_1|0
+7. conclusions|CD NNS|BODY_1|0
+the underlying nl2sol program|DT JJ NN NN|BODY_1|0
+experienced users|JJ NNS|BODY_3|0
+template functions )|JJ NNS -RRB-|BODY_10|0
+2. template-driven programming|DT JJ NN|BODY_1|0
+our goal|PRP$ NN|BODY_1|0
+most users|JJS NNS|BODY_5|0
+the temperature|DT NN|BODY_3|0
+the library code|DT NN NN|BODY_1|0
+bentley and kernighan [1986]|NN CC NN NN|BODY_7|0
+2] summarizes|CD VBZ|BODY_1|0
+weeks|NNS|BODY_4|0
+the right|DT JJ|BODY_16|0
+the goal|DT NN|BODY_1|0
+d3 nonzero values|JJ NN NNS|BODY_12|0
+subsequent pairs|JJ NNS|BODY_1|0
+benvenuti et al [1991 ]|NNP NNP JJ NN NNS|BODY_1|0
+netlib|NN|BODY_4|0
+the desired accuracy|DT VBN NN|BODY_9|0
+the x value|DT NN NN|BODY_1|0
+a numerical routine|DT JJ NN|BODY_4|0
+within fortran|IN NN|BODY_7|0
+an effective solver|DT JJ NN|BODY_11|0
+the following design goals|DT VBG NN NNS|BODY_5|0
+a natural logarithm function|DT JJ NN NN|BODY_4|0
+anything|NN|BODY_5|0
+caching|NN|BODY_7|0
+the graphical summary|DT JJ NN|BODY_6|0
+the job|DT NN|BODY_1|0
+the template-driven style|DT JJ NN|BODY_1|0
+that real|DT JJ|BODY_9|0
+the output graph|DT NN NN|BODY_13|0
+such information|JJ NN|BODY_2|0
+this example|DT NN|BODY_1|0
+an experiment|DT NN|BODY_1|0
+simple descriptions|JJ NNS|BODY_5|0
+the awk programs|DT JJ NNS|BODY_7|0
+the other|DT JJ|BODY_1|0
+a nonlinear equation|DT JJ NN|BODY_4|0
+the input and output data structures|DT NN CC NN NNS NNS|BODY_7|0
+the procedures|DT NNS|BODY_9|0
+the least-squares routine|DT NNS NN|BODY_4|0
+the time command|DT NN NN|BODY_7|0
+batch programs|NN NNS|BODY_2|0
+a template c program|DT JJ NN NN|BODY_7|0
+template-driven programs|JJ NNS|BODY_9|0
+the appropriate port routine|DT JJ NN NN|BODY_5|0
+the appropriate subroutine|DT JJ NN|BODY_6|0
+interested users|JJ NNS|BODY_1|0
+more detail|JJR NN|BODY_4|0
+some desirable features|DT JJ NNS|BODY_12|0
+that library )|WDT NN -RRB-|BODY_9|0
+neither choice|DT NN|BODY_1|0
+rice [1989 , p|NN CD , NN|BODY_1|0
+the fortran compile|DT NN NN|BODY_1|0
+the problem specifications|DT NN NNS|BODY_1|0

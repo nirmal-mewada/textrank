@@ -1,0 +1,1092 @@
+we|PRP|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_6:BODY_5:ABSTRACT_6:BODY_16:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+p|NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8|0
+the algorithm|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+that|WDT|BODY_12:BODY_5:BODY_34:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the linear extensions|DT JJ NNS|BODY_5:ABSTRACT_4:BODY_18:ABSTRACT_2:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|0
+g|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+2|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+the graph|DT NN|BODY_6:BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_10:ABSTRACT_7:BODY_8|0
+the poset|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8:ABSTRACT_9:BODY_9|0
+a|DT|BODY_12:BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+x|NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+linear extensions|NN NNS|ABSTRACT_5:TITLE_1:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+0 ( p )|CD -LRB- NN -RRB-|BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+there|EX|BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+constant amortized time|JJ JJ NN|BODY_6:BODY_5:ABSTRACT_6:BODY_2:ABSTRACT_3:BODY_3:BODY_4|0
+a and b|DT CC NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|0
+)|-RRB-|BODY_6:BODY_5:BODY_2:BODY_29:BODY_7:BODY_9:BODY_20|0
+this|DT|BODY_16:BODY_1:BODY_4:BODY_10:BODY_8|0
+a linear extension|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+combinatorial objects|JJ NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_3|0
+the sign|DT NN|BODY_6:BODY_11:BODY_2:BODY_4:BODY_10:BODY_7|0
+a hamiltonian cycle|DT JJ NN|BODY_5:BODY_13:BODY_2:BODY_3:BODY_10:BODY_7|0
+time|NN|BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_2:ABSTRACT_7:BODY_7|0
+a hamiltonian path|DT JJ NN|BODY_1:BODY_3:BODY_4:BODY_9|0
+y|PRP|BODY_11:BODY_3:BODY_4|0
+canada|NN|BODY_6:BODY_14:BODY_4:BODY_8|0
+i|IN|BODY_6:BODY_40:BODY_1:BODY_2:BODY_3:BODY_4|0
+permutations|NNS|BODY_2:BODY_3:BODY_4:BODY_7|0
+a b-poset|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+a poset|DT NN|BODY_5:ABSTRACT_5:BODY_2:BODY_1:ABSTRACT_3:BODY_14:BODY_3:BODY_4:BODY_8|0
+1|CD|BODY_11:BODY_27:BODY_1:BODY_7|0
+g( p )|JJ NN -RRB-|BODY_5:BODY_2:BODY_4:BODY_8|0
+transpositions|NNS|BODY_12:BODY_16:BODY_4:BODY_7:BODY_9|0
+example|NN|BODY_6:BODY_1|0
+a poset p|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+s|VBZ|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|0
+a transposition|DT NN|BODY_11:BODY_5:BODY_9|0
+e( p|JJ NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_3|0
+its predecessor|PRP$ NN|BODY_12:ABSTRACT_5:BODY_10:BODY_7|0
+vertices|NNS|BODY_6:BODY_11:BODY_2:BODY_3:BODY_9|0
+counting|NN|BODY_6:BODY_3:BODY_4|0
+successive extensions|JJ NNS|BODY_6:BODY_3:BODY_7:BODY_9|0
+the value|DT NN|BODY_2:BODY_1:BODY_3|0
+the right|DT NN|BODY_6:BODY_3:BODY_4:BODY_7|0
+b|NN|BODY_5:BODY_16:BODY_4:BODY_8|0
+posets|NNS|BODY_2:BODY_3:BODY_4|0
+the element|DT NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+minimal elements|JJ NNS|BODY_6:BODY_3:BODY_4:BODY_8|0
+the existence|DT NN|BODY_1:BODY_2:BODY_3|0
+a 1|DT CD|BODY_11:BODY_2:BODY_8|0
+the proof|DT NN|BODY_1:BODY_14:BODY_3|0
+0|CD|BODY_6:BODY_1:BODY_3|0
++l|NN|BODY_2:BODY_38:BODY_3|0
+part|NN|BODY_2:BODY_3:BODY_4|0
+the set|DT NN|BODY_6:BODY_2:BODY_3|0
+the complexity|DT NN|BODY_6:BODY_3:BODY_4|0
+the elements|DT NNS|BODY_6:BODY_3:BODY_4:BODY_7|0
+(|-LRB-|BODY_6:BODY_1:BODY_3|0
+the cycle|DT NN|BODY_5:BODY_2|0
+the preprocessing|DT NN|BODY_5:BODY_3|0
+q|NN|BODY_13:BODY_8:BODY_9|0
+each extension|DT NN|ABSTRACT_4:BODY_4:BODY_9|0
+figure|NN|BODY_2:BODY_3:BODY_9|0
+0 ( p|CD -LRB- NN|BODY_11:BODY_2:BODY_4|0
+genle( i-1 )|JJ NN -RRB-|BODY_21:BODY_15:BODY_30:BODY_9|0
+this paper|DT NN|BODY_2:ABSTRACT_1:BODY_7|0
+a graph|DT NN|BODY_1:BODY_2:BODY_3|0
+extensions|NNS|BODY_6:BODY_5:BODY_15:BODY_3:BODY_19|0
+genle|NN|BODY_13:BODY_3:BODY_7|0
+the vertices|DT NNS|BODY_2:BODY_14:BODY_4|0
+switch|NN|BODY_6:BODY_5:BODY_7|0
+l|NN|BODY_11:BODY_4:BODY_8|0
+the order xy|DT NN NN|BODY_2:BODY_8|0
+their relation|PRP$ NN|BODY_4|0
+the listing|DT NN|BODY_5:BODY_2|0
+varol and rotem [24]|NN CC NN NN|BODY_5:BODY_3|0
+the extensions|DT NNS|BODY_3:BODY_4:BODY_9|0
+the calling sequence|DT VBG NN|BODY_17:BODY_10:BODY_7:BODY_9|0
+the class|DT NN|BODY_3|0
+elements|NNS|ABSTRACT_8:BODY_2:BODY_1:BODY_4:BODY_9|0
+the generation question|DT NN NN|BODY_5:BODY_1:BODY_3|0
+.e|NN|BODY_3:BODY_10:BODY_8|0
+each|DT|BODY_2:BODY_3|0
+us|PRP|BODY_2:BODY_1:BODY_3|0
+theorem 3.3|JJ CD|BODY_2:BODY_1:BODY_3|0
+figure 5|NN CD|BODY_6:BODY_3|0
+a[i]|PRP|BODY_1:BODY_2:BODY_14|0
+constant amortized time generation|JJ JJ NN NN|BODY_2|0
+the lengths|DT NNS|BODY_5:BODY_4|0
+figure 1|NN CD|BODY_12:BODY_1:BODY_3:BODY_10:BODY_7|0
+the generation|DT NN|BODY_6:BODY_1:BODY_2|0
+move(|NN|BODY_28:BODY_23:BODY_19|0
+a pair|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+h( p )|NN NN -RRB-|BODY_3:BODY_4|0
+e( p )|JJ NN -RRB-|BODY_5:BODY_1:BODY_4:BODY_9|0
+fi|JJ|BODY_2:BODY_10|0
+one|CD|BODY_1:ABSTRACT_1:BODY_8|0
+the b-poset|DT NN|BODY_6|0
+induction|NN|BODY_2:BODY_3|0
+h( x )|JJ NN -RRB-|BODY_2:BODY_3|0
+h 0|NN CD|BODY_5:BODY_3|0
+a delay 2 ordering|DT NN CD NN|BODY_3:BODY_4|0
+our algorithm|PRP$ NN|BODY_5|0
+the recursion|DT NN|BODY_2:BODY_8|0
+\sigmae( p|JJ NN|BODY_36:BODY_2|0
+the union|DT NN|BODY_1:BODY_8|0
+the remainder|DT NN|BODY_1:BODY_2:BODY_7|0
+ + |JJ NN|BODY_6:BODY_11|0
+2 )|CD -RRB-|BODY_6:BODY_2|0
+computation|NN|BODY_5:BODY_2:BODY_9|0
+calls|NNS|BODY_12:BODY_9|0
+n vertices|NN NNS|BODY_2:BODY_4|0
+every vertex|DT NN|BODY_6:BODY_8|0
+gray codes|JJ NNS|BODY_1:BODY_3|0
+the two copies|DT CD NNS|BODY_11:BODY_3:BODY_7|0
+lemma 5.2|NN CD|BODY_15:BODY_2:BODY_1|0
+0 ( p ) \theta k 2|CD -LRB- NN -RRB- NN NN CD|BODY_14:BODY_3:BODY_4:BODY_8|0
+the partite sets|DT NN NNS|BODY_2:BODY_1:BODY_9|0
+the size|DT NN|BODY_3:BODY_8|0
+this path|DT NN|BODY_4|0
+3|CD|BODY_1:BODY_3|0
+the first constant amortized time algorithm|DT JJ JJ JJ NN NN|ABSTRACT_2:BODY_3|0
+s( p )|NN NN -RRB-|BODY_15:BODY_3:BODY_7|0
+( webster|-LRB- NN|BODY_4|0
+a 12 element fence|DT CD NN NN|BODY_4|0
+the adverb|DT NN|BODY_2|0
+the program|DT NN|BODY_2|0
+a maximal sequence|DT JJ NN|BODY_5:BODY_2|0
+$|$|ABSTRACT_5:ABSTRACT_8:ABSTRACT_7|0
+each internal node|DT JJ NN|BODY_1:BODY_4|0
+the posets|DT NNS|BODY_3|0
+linear extension|NN NN|BODY_6:BODY_3|0
+14 grid|CD NN|BODY_3|0
+91 seconds|CD NNS|BODY_3|0
+a 14 element fence|DT CD NN NN|BODY_2|0
+the 2|DT CD|BODY_2|0
+the first call|DT JJ NN|BODY_2|0
+the term|DT NN|BODY_2|0
+then a and b|RB DT CC NN|BODY_3|0
+topological sorting |JJ NN|BODY_3|0
+the call genle( i|DT NN NN NN|BODY_1:BODY_4|0
+the counting question|DT VBG NN|BODY_1:BODY_3:BODY_4|0
+t [x|NN NN|BODY_6:BODY_2|0
+genle(i-1 )|NN -RRB-|BODY_3:BODY_10:BODY_8|0
+[11]|NN|BODY_6:BODY_8|0
+the incidence matrix|DT NN NN|BODY_6:BODY_3|0
+fact|NN|BODY_5:BODY_1|0
+all the linear extensions|PDT DT JJ NNS|BODY_3:BODY_4|0
+a )|DT -RRB-|BODY_2:BODY_3|0
+the converse|DT NN|BODY_1:BODY_3|0
+j. van den heuvel|NNP NNP NN NN|BODY_5|0
+twenty-four vertices|CD NNS|BODY_2|0
+siblings|NNS|BODY_2:BODY_3:BODY_4:BODY_7|0
+fig|NN|BODY_31:BODY_8|0
+the algorithms|DT NNS|BODY_10|0
+the precedence constraints|DT NN NNS|BODY_9|0
+all elements c|DT NNS NN|BODY_9|0
+each iteration|DT NN|BODY_1|0
+the trace|DT NN|BODY_11:BODY_9|0
+steinhaus [22]|JJ NN|BODY_2|0
+nothing|NN|BODY_17:BODY_3|0
+the next ,|DT JJ ,|BODY_11|0
+a new extension|DT JJ NN|BODY_8|0
+figure 2|NN CD|BODY_6:BODY_2|0
+these extensions|DT NNS|BODY_1|0
+them|PRP|BODY_5:BODY_4|0
+the path|DT NN|BODY_5:BODY_8|0
+the preceding argument|DT VBG NN|BODY_2|0
+computer science|NN NN|BODY_3:BODY_8|0
+a new linear extension l|DT JJ NN NN NN|BODY_2|0
+\gamma ) vertices|NN -RRB- NNS|BODY_3|0
+pairs|NNS|BODY_2:BODY_4|0
+k|NN|BODY_3:BODY_7|0
+two disjoint chains|CD NN NNS|BODY_2:BODY_4|0
+the square|DT NN|BODY_4:BODY_8|0
+these|DT|BODY_5|0
+the order|DT NN|BODY_12:BODY_5|0
+the b|DT NN|BODY_9|0
+each linear extension \gammaff i|DT NN NN NN NN|BODY_5|0
+array le|NN NN|BODY_2:BODY_4|0
+a 1 a a 1|DT CD DT DT CD|BODY_11|0
+p[z ]|NN NN|BODY_6:BODY_5|0
+an edge|DT NN|BODY_8:BODY_9|0
+array li|NN NNS|BODY_6|0
+the spanning trees|DT NN NNS|BODY_2:BODY_7|0
+all|DT|ABSTRACT_3:BODY_7|0
+victoria|NN|BODY_11:BODY_10|0
+our algorithms|PRP$ NNS|BODY_2|0
+s( p|JJ NN|BODY_10:BODY_4|0
+standard young tableau|JJ JJ NN|BODY_2|0
+the poset p|DT NN NN|BODY_5:BODY_3|0
+ff|NN|BODY_2:BODY_9|0
+the next plus|DT JJ NN|BODY_5|0
+the efficient algorithm|DT JJ NN|BODY_6|0
+n and m|NN CC NN|BODY_11|0
+every pair|DT NN|BODY_2:BODY_10|0
+height 1|NN CD|BODY_2|0
+every poset p|DT NN NN|BODY_2:BODY_1|0
+a path|DT NN|BODY_13:BODY_4|0
+university|NN|BODY_4:BODY_9|0
+an ideal|DT NN|BODY_2:BODY_7|0
+two|CD|BODY_6:BODY_4|0
+our initial algorithm|PRP$ JJ NN|BODY_2|0
+the cube|DT NN|BODY_1:BODY_3|0
+5.3 and 5.4|CD CC CD|BODY_4|0
+conjectures|NNS|BODY_3|0
+mr(|JJ|BODY_1:BODY_4|0
+the theorem|DT NN|BODY_1:BODY_2|0
+an isomorphism|DT NN|BODY_5:BODY_10|0
+constant time|JJ NN|BODY_2:BODY_7|0
++fi i|JJ NN|BODY_5|0
+a small amount|DT JJ NN|BODY_9|0
++e 0|NN CD|BODY_9|0
+( b|-LRB- NN|BODY_13|0
+yannakakis|NNS|BODY_7|0
+a cycle|DT NN|BODY_2|0
+follows|VBZ|BODY_4|0
+bg ) \theta k 2|NN -RRB- NN NN CD|BODY_4|0
+track|NN|BODY_2:BODY_9|0
+the index|DT NN|BODY_2|0
+e( p)|NN NN|BODY_2:BODY_3|0
+an algorithm|DT NN|ABSTRACT_2:BODY_2|0
+the transitive closure|DT JJ NN|BODY_9|0
+figure 8|NN CD|BODY_3|0
+quick succession|JJ NN|BODY_3|0
+the 2,702,765 extensions|DT CD NNS|BODY_3|0
+the current linear extension|DT JJ NN NN|BODY_6:BODY_2|0
+o(|NN|BODY_2|0
+lemma 3.2|NN CD|BODY_2:BODY_1|0
+the figures|DT NNS|BODY_8|0
+riht )|NN -RRB-|BODY_14:BODY_8|0
+hamiltonian cycles|JJ NNS|BODY_2:BODY_4|0
+some computation|DT NN|BODY_3:BODY_4|0
+such problems|JJ NNS|BODY_7|0
+update|NN|BODY_2|0
+1 then|CD RB|BODY_1:BODY_2|0
+a total ordering|DT JJ NN|BODY_5:BODY_2:BODY_7:BODY_9|0
+all linear extensions|DT JJ NNS|BODY_8|0
+ken wong|JJ NN|BODY_9|0
+k 2;6 shows|NN CD NNS|BODY_2|0
+0 ( p ) \theta k|CD -LRB- NN -RRB- NN NN|BODY_2:BODY_3|0
+one extension|CD NN|BODY_10|0
+johnson [10]|NNP NNP|BODY_3|0
+such|JJ|BODY_11:BODY_3|0
+recursive calls|JJ NNS|BODY_1:BODY_3|0
+no algorithm|DT NN|BODY_6|0
+the worst case|DT JJS NN|BODY_7|0
+counting problems|VBG NNS|BODY_5|0
+a result|DT NN|BODY_5:BODY_1|0
+bg|NN|BODY_6:BODY_4|0
+b oe|NN NN|BODY_6:BODY_23|0
+trotter [23|NN NNS|BODY_4|0
+work|NN|BODY_7|0
+malcolm smith|NN NN|BODY_6|0
+( + ) or minus ( \gamma )|-LRB- NN -RRB- CC NN -LRB- NN -RRB-|BODY_2|0
+4.1|CD|BODY_2|0
+each call|DT NN|BODY_1|0
+one more linear extension|CD JJR NN NN|BODY_2|0
+the current sign|DT JJ NN|BODY_1|0
+theorem|PRP|BODY_1|0
+constant computation|JJ NN|BODY_6|0
+at most unity|IN JJS NN|BODY_9|0
+a 1 oe c|DT CD NN NN|BODY_7|0
+these algorithms|DT NNS|BODY_2|0
+one obvious way|CD JJ NN|BODY_6|0
+helpful discussions|JJ NNS|BODY_5|0
+an extension|DT NN|BODY_15:BODY_1:BODY_4|0
+the algorithm executes|DT NN NNS|BODY_3|0
+a 4 , 6|DT CD , CD|BODY_5|0
+the pascal procedure genle|DT JJ NN NN|BODY_2|0
+1 ) time|CD -RRB- NN|BODY_3|0
+a while-loop or for-loop|DT NN CC NN|BODY_2|0
+fi)|NN|BODY_12:BODY_5|0
+each vertex|DT NN|BODY_5:BODY_1|0
+\theta k 2|NNP NN CD|BODY_11:BODY_8|0
+the orders|DT NNS|BODY_10|0
+b 1 oe c|NN CD NN NN|BODY_8|0
+the basis|DT NN|BODY_5|0
+this algorithm|DT NN|BODY_2|0
+a if|DT IN|BODY_20|0
+this property|DT NN|BODY_5:BODY_4|0
+the relation set|DT NN NN|BODY_7|0
+that minus ( \gamma|DT NN -LRB- NN|BODY_4|0
++|JJ|BODY_2:BODY_4|0
+only|RB|BODY_10|0
+f+l|NN|BODY_3|0
+at least s times|IN JJS PRP NNS|BODY_9|0
+the element x|DT NN NN|BODY_2|0
+a ) and mr( b ) change|DT -RRB- CC CD NN -RRB- NN|BODY_8|0
+a gray code listing|DT JJ NN NN|BODY_5|0
+the last extension|DT JJ NN|BODY_2:BODY_1|0
+ontario|NNP|BODY_6|0
+length|NN|BODY_14|0
+the flipping|DT NN|BODY_8|0
+various polynomial time complexity measures|JJ NN NN NN NNS|BODY_2|0
+[13] )|NN -RRB-|BODY_5|0
+the details|DT NNS|BODY_2|0
+the inductive hypothesis|DT JJ NN|BODY_6:BODY_1|0
+a delay k|DT NN NN|BODY_2|0
+ple|NN|BODY_2|0
+only the edges|RB DT NNS|BODY_4|0
+a maximum element|DT JJ NN|BODY_3|0
+p i|NN NN|BODY_3|0
+the following lemma|DT VBG NN|BODY_1:BODY_4|0
+a elements|DT NNS|BODY_3|0
+b 1|NN CD|BODY_3|0
+the point|DT NN|BODY_15|0
+c oe|NN NN|BODY_19|0
+the ith pair|DT JJS NN|BODY_5|0
+the occurrence|DT NN|BODY_5:BODY_2|0
+mike fellows|JJ NNS|BODY_3|0
+carla savage|NN JJ|BODY_4|0
+brightwell and winkler [4|NN CC NN NNS|BODY_2|0
+c oe b|NN NN NN|BODY_21|0
+all c 2 s( p)|DT NN CD NN NN|BODY_18|0
+the underlying computation tree|DT JJ NN NN|BODY_3|0
+only outputs|RB VBZ|BODY_5|0
+precedence constraints|NN NNS|BODY_4|0
+the extension|DT NN|BODY_1:BODY_9|0
+i .e|FW FW|BODY_5|0
+the t-th iteration|DT JJ NN|BODY_2|0
+abff|RB|BODY_4|0
+procedure|NN|BODY_6|0
+grant|NN|BODY_5|0
+adjacent transpositions|JJ NNS|BODY_6|0
+linear extension fig|JJ NN NN|BODY_7|0
+the linear extension|DT JJ NN|BODY_5:BODY_1|0
+other words|JJ NNS|BODY_1|0
+the input|DT NN|BODY_5:BODY_3|0
+ \gamma|JJ NN|BODY_3:BODY_8|0
+the iteration|DT NN|BODY_4:BODY_7|0
+the total computation|DT JJ NN|BODY_4|0
+z|FW|BODY_8|0
+g \theta k 2|NN NN NN CD|BODY_16:BODY_3|0
+algorithms|NNS|BODY_3|0
+o( n|JJ NN|BODY_5|0
+b.c.|NNP|BODY_12|0
+simon fraser university|JJ NN NN|BODY_4|0
+genle(i-1 ) )|NN -RRB- -RRB-|BODY_16|0
+typical :=|JJ IN|BODY_12|0
+a class|DT NN|BODY_2|0
+some set|DT NN|BODY_2|0
+any interesting relationship|DT JJ NN|BODY_2|0
+right ( a[i]|JJ -LRB- NN|BODY_11|0
+change signs|NN NNS|BODY_8|0
+all the n-bit strings|PDT DT JJ NNS|BODY_5|0
+a i and b i|DT NN CC NN NN|BODY_3:BODY_4|0
+n|RB|BODY_7|0
+yeilds|NNS|BODY_5|0
+$ o(e(\cp) )$|$ JJ NN|ABSTRACT_8|0
+n 2 )|NN CD -RRB-|BODY_3|0
+this necessary condition|DT JJ NN|BODY_2|0
+the position|DT NN|BODY_7|0
+the @ @|DT JJ JJ|BODY_6|0
+mrb|NNS|BODY_2|0
+the relative ordering|DT JJ NN|BODY_4|0
+the minus|DT NN|BODY_2|0
+( + )|-LRB- NN -RRB-|BODY_7|0
+and therefore|CC RB|BODY_7|0
+a poset $ {\cal p} $|DT JJ $ JJ IN $|ABSTRACT_3|0
+the edges|DT NNS|BODY_1:BODY_8|0
+t [y|NN NN|BODY_5|0
+the poset p+x|DT NN NN|BODY_2|0
+happens|VBZ|BODY_5|0
+their order|PRP$ NN|BODY_14|0
+height (js(|NN NNS|BODY_8|0
+all other elements|DT JJ NNS|BODY_6:BODY_14|0
+which correspond|WDT NN|BODY_5|0
+(adjacent ) transpositions|JJ -RRB- NNS|BODY_3:BODY_4|0
+an open problem|DT JJ NN|BODY_2|0
+a be|DT VB|BODY_11|0
+this result|DT NN|BODY_2|0
+the next|DT JJ|BODY_3|0
+each linear extension|DT JJ NN|BODY_3|0
+this graph|DT NN|BODY_6:BODY_1|0
+l induces|NN VBZ|BODY_9|0
+toronto|CD|BODY_5|0
+an even number|DT RB NN|BODY_2:BODY_8|0
+changes|NNS|BODY_4|0
+switch( 0|NN CD|BODY_4|0
+the typical case|DT JJ NN|BODY_2|0
+genle( 1|NN CD|BODY_2|0
+repeat mra move( a[i]|NN NN NN NN|BODY_13|0
+an appropriate representation|DT JJ NN|BODY_2|0
+genle(0 )|NN -RRB-|BODY_2|0
+typical|JJ|BODY_17|0
+integers|NNS|BODY_3|0
+' e( p)|POS NN NN|BODY_13|0
+a oe c|DT NN NN|BODY_22|0
+c|NN|BODY_4|0
+combinatorists|NNS|BODY_3|0
+computer scientists|NN NNS|BODY_3|0
+many|JJ|BODY_4|0
+\theta k|NN NN|BODY_1:BODY_2:BODY_4|0
+i-1 )|NN -RRB-|BODY_25|0
+a #p-complete object|DT JJ NN|BODY_5:BODY_3|0
+its neighbor|PRP$ NN|BODY_3|0
+the euler numbers|DT NN NNS|BODY_2|0
+whose time complexity|WP$ NN NN|BODY_4|0
+sorting algorithms|VBG NNS|BODY_2|0
+the inverse li|DT NN NNS|BODY_2|0
+the algorithm genle|DT NN NN|BODY_2:BODY_1|0
+a vertical edge|DT JJ NN|BODY_2|0
+complexity o(e( p)|NN JJ NN|BODY_8|0
+a proof|DT NN|BODY_4|0
+genle( maxpair )|JJ NN -RRB-|BODY_1:BODY_3|0
+fa|NN|BODY_3|0
+the order i|DT NN NN|BODY_5:BODY_9|0
+some preprocessing|DT NN|BODY_2|0
+uses|NNS|BODY_3|0
+[18] ,[15]|JJ NN|BODY_5|0
+a each linear extension|DT DT NN NN|BODY_8|0
+the sake|DT NN|BODY_5|0
+( i .e|-LRB- NN NN|BODY_5|0
+s[x ]|NN NN|BODY_2|0
+o( n \delta e( p) )|JJ NN NN NN NN -RRB-|BODY_5|0
+all elements|DT NNS|BODY_7|0
+. 6|. CD|BODY_8|0
+a reflexive , transitive , and antisymmetric relation r( p|DT JJ , JJ , CC JJ NN NN NN|BODY_3|0
+the|DT|BODY_10|0
+the induction|DT NN|BODY_2|0
+the leftmost|DT JJS|BODY_4|0
+returns|NNS|BODY_4|0
+r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r fig|NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN|BODY_11|0
+practice|NN|BODY_6:BODY_3|0
+a special case|DT JJ NN|BODY_3|0
+the existence question|DT NN NN|BODY_1|0
+fl such that|NN JJ IN|BODY_3|0
+the hamiltonian path|DT JJ NN|BODY_4|0
+every other element|DT JJ NN|BODY_9|0
+a constant amount|DT JJ NN|BODY_4|0
+each node|DT NN|BODY_3|0
+the results|DT NNS|BODY_4|0
+height js( p)j|NN NN NN|BODY_4|0
+hamiltonian forms|JJ NNS|BODY_4|0
+figure 4|NN CD|BODY_1:BODY_3|0
+the graph h( p )|DT NN NN NN -RRB-|BODY_2|0
+plus|CC|BODY_6|0
+a depending|DT VBG|BODY_13|0
+an n-set correspond|DT JJ NN|BODY_2|0
+the work|DT NN|BODY_2|0
+each bit string|DT NN NN|BODY_6|0
+pendant vertices|JJ NNS|BODY_4|0
+the corresponding linear extensions|DT JJ NN NNS|BODY_13|0
+mra := 0|NN IN CD|BODY_10|0
+last pair|JJ NN|BODY_3|0
+the preceding proof|DT VBG NN|BODY_3|0
+the practical range|DT JJ NN|BODY_3|0
+the most important sets|DT RBS JJ NNS|ABSTRACT_2|0
+a recursive call|DT JJ NN|BODY_5|0
+two non-trivial chains|CD JJ NNS|BODY_9|0
+p , +l and \gammal both|NN , JJ CC JJ DT|BODY_3|0
+each permutation|DT NN|BODY_9|0
+all such i|DT JJ NN|BODY_2|0
+the total amount|DT JJ NN|BODY_1:BODY_8|0
+at least two calls|IN JJS CD NNS|BODY_2|0
+a given shape|DT VBN NN|BODY_3|0
+m5s 1a4|NN CD|BODY_7|0
+0 ( p+x|CD -LRB- NN|BODY_4|0
+' s( p)|POS NN NN|BODY_2|0
+r( p ) [ r( q )|JJ NN -RRB- NN JJ NN -RRB-|BODY_2|0
+the recursive algorithm|DT JJ NN|BODY_3|1
+johnson|NN|BODY_6|0
+a oe b|DT NN NN|BODY_1:BODY_7|0
+the outset|DT NN|BODY_4|0
+an adjacent transposition|DT JJ NN|BODY_11|0
+a naturally|DT RB|ABSTRACT_3|0
+the weighted sum|DT JJ NN|BODY_3|0
+s( q ) 6=|JJ NN -RRB- NN|BODY_8|0
+both|DT|BODY_6|0
+any two minimal elements|DT CD JJ NNS|BODY_12|0
+exactly one minimal element x|RB CD JJ NN NN|BODY_10|0
+a horizontal edge|DT JJ NN|BODY_5|0
+no linear extension|DT NN NN|BODY_4|0
+2y2|CD|BODY_13|0
+all the n|PDT DT NN|BODY_6|0
+\gamma|NNP|BODY_5|0
+exactly those linear extensions|RB DT JJ NNS|BODY_3|0
+later sections|JJ NNS|BODY_3|0
+@ @ @|JJ JJ JJ|BODY_7|0
+great interest|JJ NN|BODY_2|0
+interest|NN|BODY_2|0
+each successive extension differs|DT JJ NN NNS|BODY_10|0
+the canonical linear extension|DT JJ JJ NN|BODY_2|0
+the call genle(i-1 )|DT NN NN -RRB-|BODY_9|0
+m|NN|BODY_2|0
+i )|FW -RRB-|BODY_2|0
+its right|PRP$ NN|BODY_3:BODY_4:BODY_7|0
+the array le|DT NN NN|BODY_4:BODY_8|0
+the edge [+aflb|DT NN NN|BODY_4|0
+a maxpair / fig|DT NN VBP NN|BODY_15|0
+a respectively )|DT RB -RRB-|BODY_37|0
+each b-poset|DT NN|BODY_14|0
+more precisely|JJR RB|BODY_17|0
+b )|NN -RRB-|BODY_12|0
+burnaby|NN|BODY_5|0
+a constant amortized time algorithm|DT JJ JJ NN NN|BODY_6|0
+\sigmae( p +a b|JJ NN NN NN|BODY_3|0
+0 )|CD -RRB-|BODY_12|0
+fl|NN|BODY_3|0
+the 2b-poset p loss|DT JJ NN NN|BODY_9|0
+not right ( a[i] )|RB JJ -LRB- NN -RRB-|BODY_16|0
+b[i]|NN|BODY_5|0
+0 ( pnfa|CD -LRB- NN|BODY_3|0
+x := 1 to|NNP IN CD TO|BODY_18|0
+different partite sets|JJ NN NNS|BODY_7|0
+constant amortized time generation algorithms|JJ JJ NN NN NNS|BODY_3|0
+the way|DT NN|BODY_4|0
+each time move or switch|DT NN NN CC NN|BODY_6|0
+the array|DT NN|BODY_5|0
+a move|DT NN|BODY_4|0
+visits|NNS|BODY_7|0
+obvious ( move b|JJ -LRB- NN NN|BODY_6|0
+a method|DT NN|BODY_4|0
+space|NN|BODY_4|0
+class|NN|ABSTRACT_4|0
+) else switch|-RRB- JJ NN|BODY_24|0
+( mr(|-LRB- CD|BODY_7|0
+successive objects|JJ NNS|BODY_4|0
+an element x|DT NN NN|BODY_3|0
+switch( 2 )|NN CD -RRB-|BODY_7|0
+just changes|RB NNS|BODY_5|0
+a loopfree  algorithm (|DT JJ JJ NN -LRB-|BODY_4|0
+a =|DT SYM|BODY_6|0
+each leaf|DT NN|BODY_6|0
+h(|JJ|BODY_6|0
+$ o( n<s n=|$ JJ NN NN|ABSTRACT_6|0
+the probability|DT NN|BODY_9|0
+a partially ordered set ( poset )|DT RB VBN VBN -LRB- NN -RRB-|BODY_4|0
+s[z ]|NN NN|BODY_4|0
+such listings|JJ NNS|BODY_3|0
+the previous sections|DT JJ NNS|BODY_5|0
+sekanina [19]|NN NN|BODY_2|0
+successive permutations|JJ NNS|BODY_4|0
+a s fig|DT VBZ NN|BODY_12|0
+incident edges|NN NNS|BODY_3|0
+move|NN|BODY_6|0
+an antichain|DT NN|BODY_6|0
+a 2b-poset as|DT JJ IN|BODY_5|0
+the adjacent transposition graph|DT JJ NN NN|BODY_7|0
+knuth and szwarcfiter [12]|NN CC NN NN|BODY_4|0
+the largest index j|DT JJS NN NN|BODY_3|0
+the varol and rotem algorithm|DT NN CC NN NN|BODY_2|0
+the preprocessing routine|DT NN NN|BODY_16|0
+the lower bound|DT JJR VBN|BODY_6|0
+the average position|DT JJ NN|BODY_4|0
+its set|PRP$ NN|ABSTRACT_4|0
+x :=|NNP IN|BODY_26|0
+pascal procedure|NN NN|BODY_32|0
+transposition graphs|NN NNS|BODY_1:BODY_3|0
+. 1|. CD|BODY_13|0
+a i\gamma1 and b i\gamma1|DT NN CC NN NN|BODY_6:BODY_5|0
+the same vertex set|DT JJ NN NN|BODY_3|0
+a pendant edge|DT JJ NN|BODY_4|0
+no one|DT NN|BODY_5|0
+y department|NN NN|BODY_7|0
+many np-complete one-processor scheduling problems|JJ JJ NN NN NNS|BODY_3|0
+1 )|CD -RRB-|BODY_2|0
+the o( n ) amortized time algorithm|DT JJ NN -RRB- JJ NN NN|BODY_7|0
+derek corneil|NN NN|BODY_2|0
+1 oe x|CD NN SYM|BODY_5|0
+n elements|NN NNS|BODY_8|0
+the transposition graph|DT NN NN|BODY_2|0
+whose elements|WP$ NNS|BODY_3|0
+the other|DT JJ|BODY_7|0
+the atypical  case|DT JJ JJ NN|BODY_4|0
+d 0 ( ff|JJ CD -LRB- NN|BODY_11|0
+the most common  closeness  criteria|DT RBS JJ NN NN NN NNS|BODY_3|0
++l 0|NN CD|BODY_39|0
+whose running time|WP$ VBG NN|BODY_3|0
+one copy|CD NN|BODY_5|0
+a possible characterization|DT JJ NN|BODY_5|0
+the algorithm runs|DT NN VBZ|BODY_1|0
+these cases|DT NNS|BODY_7|0
+e( {\cal p})|JJ JJ NN|ABSTRACT_7|0
+fi i|JJ NN|BODY_6:BODY_3|0
+x2s(|NN|BODY_4|0
+one linear extension|CD NN NN|BODY_2|0
+i+2|NNS|BODY_3|0
+place|NN|BODY_3|0
+proper order|JJ NN|BODY_3|0
+the b-posets|DT NNS|BODY_4|0
+a naturally defined class|DT RB VBN NN|BODY_4|0
+ffi|NN|BODY_4|0
+the previous x-runs|DT JJ NNS|BODY_5|0
+281 seconds|CD NNS|BODY_4|0
+8.3 seconds|CD NNS|BODY_4|0
+linear extension |JJ NN|BODY_4|0
+p + ba )|NN NN NN -RRB-|BODY_4|0
+the 199,360,981 extensions|DT CD NNS|BODY_1|0
+the 2,674,440 extensions|DT CD NNS|BODY_1|0
+the proposition|DT NN|BODY_1|0
+these papers|DT NNS|BODY_1|0
+all possible ways|DT JJ NNS|BODY_10|0
+results|NNS|BODY_6|0
+a 2|DT CD|BODY_9|0
+typical := false|JJ IN JJ|BODY_4|0
+all pairs $ x,y$|DT NNS $ CD|ABSTRACT_4|0
+the atypical case|DT JJ NN|BODY_2|0
+every other b-poset|DT JJ NN|BODY_7|0
+np-complete )|JJ -RRB-|BODY_2|0
+the sum|DT NN|BODY_4|0
+pg[ fx|JJ NN|BODY_8|0
+the signs|DT NNS|BODY_3|0
+two arrays|CD NNS|BODY_2|0
+a general understanding|DT JJ NN|BODY_5|0
+the final permutation|DT JJ NN|BODY_3|0
+generality|NN|BODY_10|0
+if|IN|BODY_6|0
+four global arrays|CD JJ NNS|BODY_3|0
+the amount|DT NN|BODY_3|0
+instances|NNS|BODY_7|0
+right ( b[i]|JJ -LRB- NN|BODY_5|0
+generation algorithms|NN NNS|BODY_4|0
+the graph g( p|DT NN NN NN|BODY_5|0
+the counting|DT NN|BODY_2|0
+internal nodes|JJ NNS|BODY_6|0
+at least two children|IN JJS CD NNS|BODY_2|0
+inductively|JJ|BODY_2|0
+move( b[i]|NN NN|BODY_7|0
+the disjoint union|DT NN NN|BODY_7|0
+genle( 2 )|NN CD -RRB-|BODY_8|0
+a closed walk|DT JJ NN|BODY_6|0
+s[x|NN|BODY_2|0
+typical and odd ( mrb|JJ CC JJ -LRB- NNS|BODY_22|0
+a certain kind|DT JJ NN|BODY_2|0
+the sense|DT NN|BODY_4|0
+these cycles|DT NNS|BODY_5|0
+an improvement|DT NN|BODY_6|0
+two chains|CD NNS|BODY_8|0
+distance two|NN CD|BODY_6|0
+the many other combinatorial objects|DT JJ JJ JJ NNS|BODY_6|0
+$ p (|$ NN -LRB-|ABSTRACT_3|0
+all i and j|DT NN CC NN|BODY_6|0
+thus the vertices|RB DT NNS|BODY_12|0
+distance one|NN CD|BODY_4|0
+its vertex set|PRP$ NN NN|BODY_10|0
+several classes|JJ NNS|BODY_2|0
+poset|NN|BODY_3|0
+2e( p )|JJ NN -RRB-|BODY_3:BODY_4|0
+an ordering ff|DT VBG NN|BODY_2|0
+the triangle|DT NN|BODY_3|0
+generates|VBZ|BODY_35|0
+the purpose|DT NN|BODY_1|0
+the cycle h|DT NN NN|BODY_7|0
+each linear extension l|DT JJ NN NN|BODY_2|0
+the pairs|DT NNS|BODY_6|0
+any|DT|BODY_5|0
+zero or one elements|CD CC CD NNS|BODY_5|0
+all #p-complete problems|DT JJ NNS|BODY_1|0
+rithms|NNS|BODY_3|0
+the set fx|DT VBN NN|BODY_5|0
+a total order ) , g( p ) \theta k 2|DT JJ NN -RRB- , NN NN -RRB- NN NN CD|BODY_7|0
+(u|NNP|BODY_3|0
+a size difference|DT NN NN|BODY_3|0
+an xy-run|DT JJ|BODY_4|0
+one partite set|CD NN NN|BODY_15|0
+h|NN|BODY_1:BODY_4|0
+adjacent are|JJ VBP|BODY_6|0
+a variable isplus|DT JJ NN|BODY_7|0
+delay 2|NN CD|BODY_3|0
+the linear extension l|DT JJ NN NN|BODY_2|0
+a fast algorithm|DT JJ NN|BODY_5|0
+arbitrary posets|JJ NNS|BODY_4|0
+. 5|. CD|BODY_12|0
+a given input|DT VBN NN|BODY_3|0
+hypothesis|NN|BODY_33|0
+section 3|NN CD|BODY_2|0
+a -p b|DT JJ NN|BODY_4|0
+differs from|NNS IN|BODY_4|0
++a 1 b 1|NNP CD NN CD|BODY_2|0
+p)|NN|BODY_2|0
+genle , i .e|JJ , FW FW|BODY_3|0
+the calling sequence genle(|DT VBG NN NN|BODY_5|0
+two poset elements|CD NN NNS|BODY_5|0
+g (|NN -LRB-|BODY_7|0
+the natural sciences and engineering research council|DT JJ NNS CC NN NN NN|BODY_3|0
+the same|DT JJ|BODY_5|0
+existence|NN|BODY_5|0
+t \gamma t [x|NN NN NN NN|BODY_3|0
+elements x and y|NNS NN CC NN|BODY_5|0
+the same running time|DT JJ NN NN|BODY_2|0
+r( p ) [ f(|JJ NN -RRB- NN NN|BODY_10|0
+construction|NN|BODY_3|0
+0 ( q ) \theta k|CD -LRB- NN -RRB- NN NN|BODY_6|0
+more objects|JJR NNS|BODY_6|0
+those|DT|BODY_7|0
+wells|NNS|BODY_5|0
+fleischner [7|NN NNS|BODY_6|0
+0 ( p ) \theta k2|CD -LRB- NN -RRB- NN NN|BODY_10|0
+extensions )|NNS -RRB-|BODY_3|0
+note|NN|BODY_1|0
+the run|DT NN|BODY_5|0
+series-parallel or bounded width , efficient algorithms|JJ CC VBN JJ , JJ NNS|BODY_3|0
+an associated pair|DT JJ NN|BODY_3|0
+a small example|DT JJ NN|BODY_4|0
+a delay 3 ordering|DT NN CD NN|BODY_2:BODY_4|0
+the following procedure calls|DT JJ NN NNS|BODY_6|0
+a ) = mra|DT -RRB- SYM NN|BODY_5|0
+an example|DT NN|BODY_8|0
+d(ff|NN|BODY_4|0
+another linear extension|DT JJ NN|BODY_5|0
+the isomorphism|DT NN|BODY_2|0
+$ e( {\cal p}|$ JJ JJ IN|ABSTRACT_6|0
+this cycle|DT NN|BODY_2|0
+the reader|DT NN|BODY_1|0
+a 2 b|DT CD NN|BODY_3|0
+1 ) and (u|CD -RRB- CC NNP|BODY_4|0
+the ideals|DT NNS|BODY_2|0
+no element b|DT NN NN|BODY_5|0
+the relations|DT NNS|BODY_7|0
+2 h( 1|CD NN CD|BODY_6:BODY_3|0
+b[ maxpair|JJ NN|BODY_6|0
+the walk|DT NN|BODY_5|0
+a poset q|DT NN NN|BODY_3|0
+class h(|NN NN|BODY_2|0
+the poset elements department|DT NN NNS NN|BODY_2|0
+maxpair|NN|BODY_2|0
+the graph g( p ) \theta k|DT NN NN NN -RRB- NN NN|BODY_9|0
+cg|NN|BODY_6|0
+oe x j|NN NN NN|BODY_5|0
+an efficient algorithm|DT JJ NN|BODY_3|0
+any poset|DT NN|BODY_2|0
+their elements|PRP$ NNS|BODY_7|0
+the set s( p)nt|DT NN NN NN|BODY_6|0
+figure 3|NN CD|BODY_10:BODY_7|0
+one pendant vertex|CD JJ NN|BODY_10|0
+storage|NN|BODY_12|0
+a counterexample|DT NN|BODY_1|0
+private communication )|JJ NN -RRB-|BODY_6|0
+b ) 2 r( p )|NN -RRB- CD NN NN -RRB-|BODY_3|0
+the level|DT NN|BODY_7|0
+m k|NN NN|BODY_5|0
+the same list|DT JJ NN|BODY_4|0
+l yields|NN NNS|BODY_4|0
+t )|NN -RRB-|BODY_4|0
+the reverse|DT NN|BODY_3|0
+a unit cost oracle|DT NN NN NN|BODY_4|0
+before|RB|BODY_6|0
+all 1|DT CD|BODY_5|0
+g( p ) \theta k|NN NN -RRB- NN NN|BODY_3|0
+p 0|NN CD|BODY_3|0
+'s collegiate dictionary [1] )|POS JJ NN NN -RRB-|BODY_5|0
+4.2 seconds|CD NNS|BODY_5|0
+a sun sparcstation slc|DT NN NN NN|BODY_1|0
+one definition|CD NN|BODY_1|0
+o(e( p n|JJ NN NN|BODY_4|0
+a graph g|DT NN NN|BODY_4|0
+graphs|NNS|BODY_3|0
+other combinatorial objects|JJ JJ NNS|BODY_4|0
+$ n$|$ NN|ABSTRACT_6|0
+the binary|DT JJ|BODY_2|0
+a j and b j|DT NN CC NN NN|BODY_7|0
+general 2-connected|JJ JJ|BODY_2|0
+its recursive calls|PRP$ JJ NNS|BODY_4|0
+only adjacent transpositions|RB JJ NNS|BODY_12|0
+the best extension|DT JJS NN|BODY_10|0
+the current one )|DT JJ CD -RRB-|BODY_9|0
+the manuscript|DT NN|BODY_11|0
+the well-known algorithm|DT JJ NN|BODY_1|0
+the total number|DT JJ NN|BODY_18|0
+k y|NN NN|BODY_5|0
+a sense|DT NN|BODY_1|0
+some interesting questions|DT JJ NNS|BODY_2|0
+two vertices|CD NNS|BODY_11|0
+[2] ,[21] )|JJ NN -RRB-|BODY_6|0
+more than one|JJR IN CD|BODY_10|0
+the most efficient|DT RBS JJ|BODY_1|0
+j|NN|BODY_7|0
+a large number|DT JJ NN|BODY_8|0
+the set s( p ) [ s( q|DT NN NN NN -RRB- NN NN NN|BODY_6|0
+that right|DT NN|BODY_4|0
+a particular manner|DT JJ NN|BODY_6|0
+the initial call|DT JJ NN|BODY_3|0
+the next section|DT JJ NN|BODY_7|0
+a maxpair|DT NN|BODY_12|0
+ffia 1|NN CD|BODY_7|0
+otherwise the existence|RB DT NN|BODY_3|0
+an in-place algorithm|DT JJ NN|BODY_2|0
+ + ) vertex|JJ NN -RRB- NN|BODY_6|0
+exactly one adjacent pair|RB CD JJ NN|BODY_2|0
+both odd ( [5] , [6] , and [16] )|DT JJ -LRB- JJ , JJ , CC NNP -RRB-|BODY_12|0
+is|VBZ|BODY_9|0
+the list l|DT NN NN|BODY_10|0
+the version|DT NN|BODY_6|0
+research|NN|BODY_1|0
+p n g|NN NN NN|BODY_10|0
+an array le|DT NN NN|BODY_4|0
+the best possible answer|DT JJS JJ NN|BODY_2|0
+two copies|CD NNS|BODY_6|0
+a minimum element|DT JJ NN|BODY_1|0
+every other linear extension|DT JJ JJ NN|BODY_7|0
+some related questions|DT JJ NNS|BODY_1|0
+the list l 1|DT NN NN CD|BODY_13|0
+the difference|DT NN|BODY_7|0
+a family|DT NN|BODY_2|0
+some classes|DT NNS|BODY_2|0
+the same relationship|DT JJ NN|BODY_13|0
+v|NNS|BODY_6|0
+the paper|DT NN|BODY_3|0
+this section|DT NN|BODY_2:BODY_1|1
+the set s( p ) [ fa|DT NN NN NN -RRB- NN NN|BODY_4|0
+the n|DT NN|BODY_2|0
+the sequence|DT NN|BODY_8|0
+a generation algorithm runs|DT NN NN VBZ|BODY_2|0
+only a constant amount|RB DT JJ NN|BODY_1|0
+h( 1|NN CD|BODY_5|0
+two pendant vertices|CD JJ NNS|BODY_4|0
+section 6|NN CD|BODY_2|0
+ posetswhose linear extensions|JJ NNS|BODY_11|0
+confusion|NN|BODY_6|0
+an overview|DT NN|BODY_2|0
+the fastest previously known algorithm|DT JJS RB VBN NN|ABSTRACT_1:BODY_10|0
+adjacent or not|JJ CC RB|BODY_5|0
+a unique minimum|DT JJ NN|BODY_3|0
+such trees|JJ NNS|BODY_3|0
+each time|DT NN|BODY_1|0
+every linear extension|DT JJ NN|BODY_2|0
+constant factors|JJ NNS|BODY_7|0
+the same vertex|DT JJ NN|BODY_6|0
+a delay 2 listing|DT NN CD NN|BODY_17|0
+many problems|JJ NNS|BODY_4|0
+the example|DT NN|BODY_1|0
+that poset|DT NN|BODY_6|0
+figure 1 ( two 2-element chains|NN CD -LRB- CD JJ NNS|BODY_3|0
+two minimal elements|CD JJ NNS|BODY_2|0
+a oe c oe b|DT NN NN NN NN|BODY_6|0
+another way|DT NN|BODY_1|0
+the corresponding distance|DT JJ NN|BODY_14|0
+incomparable elements|JJ NNS|BODY_9|0
+its inverse|PRP$ NN|BODY_7|0
+an initial object|DT JJ NN|BODY_3|0
+a oe b oe c|DT NN NN NN NN|BODY_4|0
+the product|DT NN|BODY_4|0
+r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r \gammaay r r r r r r r r r r r r r r r r r r r r r r r r r r fig|NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN|BODY_8|0
+a 6- b and b|DT CD NN CC NN|BODY_3|0
+p+abc|NN|BODY_2|0
+a c|DT NN|BODY_3|0
+baff i|NN NN|BODY_6|0
+8-cycle|NN|BODY_6|0
+the distance|DT NN|BODY_7|0
+the same size|DT JJ NN|BODY_3|0
+minimal|JJ|BODY_4|0
+a negative sign|DT JJ NN|BODY_5|0
+p +|NN NNS|BODY_4|0
+pnt|NN|BODY_4|0
+the poset fffi|DT NN NN|BODY_6|0
+algorithm genle.|NN NN|BODY_4|0
+a edge|DT NN|BODY_6|0
+no hamiltonian cycle|DT JJ NN|BODY_5|0
+no hamiltonian path|DT JJ NN|BODY_12|0
+the left )|DT NN -RRB-|BODY_10|0
+a popular strategy|DT JJ NN|BODY_1|0
+no constant amortized time generation algorithm|DT JJ JJ NN NN NN|BODY_1|0
+the boolean function right( x )|DT JJ NN NN NN -RRB-|BODY_1|0
+0 ( p ) k|CD -LRB- NN -RRB- NN|BODY_3|0
+exam|NN|BODY_1|0
+the basic strategy|DT JJ NN|BODY_1|0
+i \gamma 1|DT NN CD|BODY_10|0
+one bit|CD NN|BODY_9|0
+the catalan numbers|DT NN NNS|BODY_2|0
+its correctness|PRP$ NN|BODY_5|0
+switch ( maxpair )|NN -LRB- NN -RRB-|BODY_2|0
+preprocessing )|VBG -RRB-|BODY_10|0
+wilf [26]|JJ NN|BODY_6|0
+let maxpair|VB NN|BODY_1|0
+the constants|DT NNS|BODY_1|0
+the following result|DT JJ NN|BODY_6|0
+\gammafi i|JJ NN|BODY_6|0
+each linear extension l 2 e( p genle( i )|DT JJ NN NN CD NN NN NN NN -RRB-|BODY_1|0
+our results|PRP$ NNS|BODY_1|0
+[15]|NN|BODY_2|0
+papadimitriou|PRP|BODY_8|0
+\gammal j l 2 e( p)g|JJ NN NN CD NN NN|BODY_4|0
+most t times|RBS NN NNS|BODY_10|0
+pruesse and ruskey [15]|NN CC NN NN|BODY_1|0
+lemma 2.1|NN CD|BODY_5|0
+the result|DT NN|BODY_1|0
+c)g|NN|BODY_14|0
+a hamiltonian cycle h 0|DT JJ NN NN CD|BODY_5|0
+the inductive procedure genle|DT JJ NN NN|BODY_1|0
+posets p and q|NNS NN CC NN|BODY_1|0
+t|NN|BODY_1|0
+the inductive proof|DT JJ NN|BODY_4|1
+the recent result|DT JJ NN|BODY_1|0
+[20] )|NNP -RRB-|BODY_6|0
+this case|DT NN|BODY_1|0
+sorting and scheduling problems|NN CC NN NNS|BODY_5|0
+the conjecture|DT NN|BODY_4|0
+an n element poset|DT NN NN NN|BODY_4|0
+|e(\cp)|$|NN|ABSTRACT_9|0
+the edge|DT NN|BODY_4|0
+]|SYM|BODY_6|0
+each fi a|DT JJ DT|BODY_1|0
+the plus extensions|DT JJ NNS|BODY_6|0
+generating \sigmae( p )|VBG JJ NN -RRB-|BODY_4|0
+a single transposition|DT JJ NN|BODY_14|0
+these pairs|DT NNS|BODY_1|0
+clarity|NN|BODY_6|0
+ruskey [17]|NN NN|BODY_1|0
+a further refinement|DT JJ NN|BODY_1|0
+the permutations|DT NNS|BODY_1|0
+no elements|DT NNS|BODY_4|0
+this set|DT NN|BODY_1|0
+min( p )|NN NN -RRB-|BODY_10|0
+le|NN|BODY_3|0
+connection|NN|BODY_1|0
+kalvin and varol [11]|NN CC NN NN|BODY_6|0
+a set s( p )|DT VBN NN NN -RRB-|BODY_4|0
+empty )|JJ -RRB-|BODY_11|0
+the base cases|DT NN NNS|BODY_1|0
+a pascal procedure implementing genle|DT JJ NN VBG NN|BODY_1|0
+this preprocessing|DT NN|BODY_1|0
+most k|JJS NN|BODY_15|0
+cover(|NN|BODY_1|0
+the reference|DT NN|BODY_1|0
+an easily-counted , easily-generated , but more numerous object|DT JJ , JJ , CC RBR JJ NN|BODY_9|0
+our implementation|PRP$ NN|BODY_3|0
+each odd i|DT JJ NN|BODY_6|0
+hamiltonian graphs|JJ NNS|BODY_4|0
+theorem 3.3 shows|, CD NNS|BODY_1|0
+suppose l|VB NN|BODY_1|0
+some small and prescribed way|DT JJ CC JJ NN|BODY_6|0
+the initial linear extension|DT JJ JJ NN|BODY_1|0
+counting ideals|VBG NNS|BODY_1|0
+its neighbors|PRP$ NNS|BODY_9|0
+what|WP|BODY_1|0
+one or two adjacent transpositions|CD CC CD JJ NNS|ABSTRACT_6|0
+figure 7 does this|NN CD VBZ DT|BODY_4|0
+\gammal|JJ|BODY_4|0
+each such linear extension|DT JJ NN NN|BODY_1|0
+time o(e( p) )|NN JJ NN -RRB-|BODY_6|0
+two questions|CD NNS|BODY_2|0
+0 ( p) )|CD -LRB- NN -RRB-|BODY_7|0
+[8] , [14]|JJ , JJ|BODY_2|0
+every connected graph|DT VBN NN|BODY_4|0
+the upper bound|DT JJ JJ|BODY_1|0
+the height|DT NN|BODY_1|0
+therefore g( p hamiltonian|RB JJ JJ JJ|BODY_2|0
+js( p)j|JJ NN|BODY_4|0
+the proof proceeds|DT NN NNS|BODY_1|0
+the arrays|DT NNS|BODY_1|0
+the previous xy-runs|DT JJ NNS|BODY_6|0
++l and \gammal|NNP CC NNP|BODY_1|0
+ \gamma )|JJ NN -RRB-|BODY_12|0
+o( n )|JJ NN -RRB-|BODY_6|0
+the procedures move|DT NNS VBP|BODY_1|0
+its left|PRP$ NN|BODY_4|0
+r( p)[ r( q )|JJ NN JJ NN -RRB-|BODY_10|0
+0 ( pnfag ) \theta k 2|CD -LRB- NN -RRB- NN NN CD|BODY_7|0
+a bipartite graph|DT JJ NN|BODY_1|0
+they|PRP|BODY_1|0
+element disjoint total orders|NN NN NN NNS|BODY_1|0
+( generalized or combinatorial ) gray codes|-LRB- VBN CC JJ -RRB- JJ NNS|BODY_5|0
+g 2 h( 1|NN CD NN CD|BODY_1|0
+fruskey@csr.uvic.ca|NN|BODY_15|0
+gara@cs|NNS|BODY_9|0
+termination|NN|BODY_1|0
+a oe y|DT NN NN|BODY_1|0
+mr( b )|JJ NN -RRB-|BODY_1|0
+the typical  case|DT JJ JJ NN|BODY_1|0
+minus|NN|BODY_5|0
+listings|NNS|BODY_1|0
+the associated counting problem|DT VBN NN NN|BODY_6|0
+an x-run|DT NN|BODY_1|0
+each i|DT NN|BODY_1|0
+arithmetic|NN|BODY_8|0
+each +l and \gammal|DT NNP CC NNP|BODY_4|0
+je( p)j|NN NN|BODY_6|0
+every level|DT NN|BODY_1|0
+1.7 seconds|CD NNS|BODY_4|0
+example bouchitte and habib [3] )|NN NN CC NN NN -RRB-|BODY_5|0
+this labeling|DT NN|BODY_1|0
+no pendant vertices|DT JJ NNS|BODY_12|0
+adjacent elements|JJ NNS|BODY_10|0
+two adjacent elements|CD JJ NNS|BODY_12|0
+figure 6|NN CD|BODY_13|0
+min( p|NN NN|BODY_1|0
+the preprocessed poset p|DT JJ NN NN|BODY_8|0
+each signed linear extension|DT JJ NN NN|BODY_1|0
+a a a a a a a a a a a a a a a a a a a a|DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT DT|BODY_1|0
+this lemma|DT NN|BODY_1|0
+@ @ @ y 9 r r r r r r r r r r r r fig|JJ JJ JJ NN CD NN NN NN NN NN NN NN NN NN NN NN NN NN|BODY_5|0
+let p|VB NN|BODY_1|0
+2-connected transposition graphs|JJ NN NNS|BODY_4|0
+every 2-connected graph|DT JJ NN|BODY_9|0
+ +|JJ JJ|BODY_14|0
+generating|VBG|BODY_7|0
+a 1 and|DT CD CC|BODY_11|0
+the general case|DT JJ NN|BODY_4|0
+a few adjacent transposi- tions|DT JJ JJ NNS NNS|BODY_4|0
+only one or two adjacent transpositions|RB CD CC CD JJ NNS|BODY_10|0
+the set e( p)|DT NN NN NN|BODY_4|0
+ff and fi|NN CC NN|BODY_1|0
+particular posets|JJ NNS|BODY_9|0
+the case|DT NN|BODY_1|0
+all b-posets|DT NNS|BODY_1|0
+particular classes|JJ NNS|BODY_1|0
+generating various classes|VBG JJ NNS|BODY_1|0
+the current subposet|DT JJ NN|BODY_5|0
+right ( b[ maxpair+1|JJ -LRB- NN JJ|BODY_1|0
+2 then|CD RB|BODY_1|0
+the endpoints|DT NNS|BODY_10|0
+a 6= b|DT JJ NN|BODY_5|0
+no pair|DT NN|BODY_1|0
+such a listing|JJ DT NN|BODY_1|0
+' ]g|'' NN|BODY_10|0
+the same position|DT JJ NN|BODY_6|0
+this call|DT NN|BODY_1|0
+the rightmost|DT RB|BODY_13|0
+4|CD|BODY_1|0
+our discussion|PRP$ NN|BODY_1|0
+the basic structure|DT JJ NN|BODY_1|0
+the following section|DT VBG NN|BODY_7|0
+the implementation|DT NN|BODY_1|0
+the main procedure|DT JJ NN|BODY_1|0
+the termination|DT NN|BODY_1|0
+the time complexity|DT NN NN|BODY_1|0
+suppose p|VB NN|BODY_1|0
+a lemma|DT NN|BODY_1|0
+the corresponding counting problem|DT JJ NN NN|BODY_5:ABSTRACT_7|0
+the current x-run|DT JJ JJ|BODY_9|0
+the current xy-run|DT JJ JJ|BODY_6|0
+the only occasion|DT JJ NN|BODY_1|0
+the operation|DT NN|BODY_1|0
+the question|DT NN|BODY_1|0
+a unique minimum element|DT JJ NN NN|BODY_1|0
+babai ( private communication )|FW -LRB- JJ NN -RRB-|BODY_1|0
+its transposition graph|PRP$ NN NN|BODY_15:BODY_3|0
+any b-poset|DT NN|BODY_4|0
+the input poset|DT NN NN|BODY_11|0
+xyi|NNP|BODY_1|0
+a vertex u|DT JJ NN|BODY_1|0
+the copies|DT NNS|BODY_1|0
+actually output|RB NN|BODY_9|0
+all 2b-posets|DT NNS|BODY_6|0
+an n element|DT NN NN|BODY_6|0
+isplus|NN|BODY_6|0
+g 2|NN CD|BODY_11|0
+nserc.|VBG|BODY_3|0
+\gammal if|JJ IN|BODY_2|0
+g \theta k|NN NN NN|BODY_8|0
+1/2|CD|BODY_7|0
+any linear extension l|DT JJ NN NN|BODY_1|0
+delay c|NN NN|BODY_5|0
+g( p ) proof|JJ NN -RRB- NN|BODY_4|0
+hamiltonian proof|JJ NN|BODY_6|0
+the subgraph|DT NN|BODY_1|0
+an element|DT NN|BODY_1|0
+an ordered pair|DT JJ NN|BODY_1|0
+a spanning tree|DT NN NN|BODY_1|0
+leaves|NNS|BODY_11:BODY_4|0
+objects|NNS|BODY_9|0
+one only|CD RB|BODY_1|0
+arrays|NNS|BODY_1|0
+enumeration|NN|BODY_1|0
+the problem|DT NN|BODY_1|0
+the space|DT NN|BODY_1|0
+a conjecture|DT NN|BODY_2|0
+a similar fashion|DT JJ NN|BODY_9|0
+each even i|DT RB FW|BODY_1|0
+our preprocessing|PRP$ NN|BODY_2|0
+our terminology and notation|PRP$ NN CC NN|BODY_2|0
+the following proposition|DT JJ NN|BODY_3|0
+the following theorem|DT VBG NN|BODY_2|0
+the only algorithm|DT JJ NN|BODY_1|0
+these 2b-posets|DT NNS|BODY_5|0
+this intuition|DT NN|BODY_5|0
+this question|DT NN|BODY_1|0
+this the atypical case|DT DT JJ NN|BODY_6|0
+this the typical case|DT DT JJ NN|BODY_5|0
+2. strategy and definitions|DT NN CC NNS|BODY_1|0
+by l.|IN VBG|BODY_1|0
+conjecture 5.3|NN CD|BODY_1|0
+conjecture 5.4|NN CD|BODY_1|0
+corollary 3.4|NN CD|BODY_1|0
+definition 3.1|NN CD|BODY_1|0
+introduction|NN|BODY_1|0
+lemma|NN|BODY_1|0
+lemma 2.1 , g( p )|NN CD , JJ NN -RRB-|BODY_1|0
+lemma 5.1|NN CD|BODY_1|0
+proof|NN|BODY_1|0
+proposition 4.2|NN CD|BODY_1|0
+remarks|NNS|BODY_1|0
+suppose js( p)j|VB NN NNS|BODY_1|0
+that ba )|DT NN -RRB-|BODY_1|0
+the resulting walk h|DT VBG NN NN|BODY_1|0
+theorem 5.5|NN CD|BODY_1|0
+these graphs|DT NNS|BODY_1|0

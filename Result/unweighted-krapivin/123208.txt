@@ -1,0 +1,991 @@
+we|PRP|BODY_12:BODY_6:BODY_11:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+n|NN|BODY_12:BODY_11:BODY_17:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_32:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_12:BODY_5:BODY_16:BODY_28:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+each node|DT NN|BODY_6:BODY_11:BODY_5:ABSTRACT_4:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the number|DT NN|BODY_6:BODY_35:BODY_5:BODY_18:BODY_26:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10|0
+it|PRP|BODY_5:BODY_17:BODY_13:BODY_1:BODY_2:BODY_3:BODY_9|0
+the order|DT NN|BODY_6:BODY_11:BODY_5:BODY_27:BODY_21:BODY_1:BODY_2:BODY_10:BODY_4:BODY_7|0
+the set|DT NN|BODY_12:BODY_11:BODY_5:BODY_22:BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_30:BODY_9|0
+the network|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_15:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a|DT|BODY_6:BODY_5:BODY_16:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|0
+p|NN|BODY_11:BODY_13:BODY_2:BODY_1:BODY_3:BODY_14:BODY_4:BODY_10:BODY_7:BODY_9|0
+there|EX|BODY_12:BODY_13:BODY_2:BODY_1:BODY_3:BODY_8|0
+he|PRP|BODY_6:BODY_2:BODY_4:BODY_7|0
+fig|NN|BODY_6:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+a path|DT NN|BODY_6:BODY_5:BODY_17:BODY_25:BODY_1:BODY_7:BODY_8|0
+1|CD|BODY_6:BODY_1:BODY_3:BODY_4:BODY_8|0
+the path|DT NN|BODY_16:BODY_2:BODY_3:BODY_7:BODY_9|0
+the operational overhead|DT JJ NN|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|0
+nodes|NNS|BODY_6:ABSTRACT_6:BODY_27:BODY_2:BODY_4:BODY_8:BODY_9|0
+a node|DT NN|BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_8|0
+that|WDT|BODY_6:BODY_1:BODY_4:BODY_29:BODY_7:BODY_9|0
+routing strategy|NN NN|BODY_6:BODY_11:BODY_5:BODY_22:BODY_2:ABSTRACT_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+aprs|NNS|BODY_6:BODY_15:BODY_13:BODY_2:BODY_1:BODY_3|0
+loops|NNS|BODY_31:BODY_18:BODY_4:BODY_8:BODY_9|0
+one|CD|BODY_22:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+l|NN|BODY_6:BODY_18:BODY_2:BODY_4:BODY_8:BODY_20|0
+this|DT|BODY_1:BODY_9|0
+the configuration c|DT NN NN|BODY_11:BODY_15:BODY_1:BODY_3:BODY_10|0
+the delay|DT NN|BODY_5:BODY_1:BODY_2:BODY_14:BODY_10:BODY_7:BODY_8|0
+.e|NN|BODY_6:BODY_18:BODY_4:BODY_7:BODY_9|0
+s|PRP|BODY_12:BODY_6:BODY_5:BODY_1:BODY_14:BODY_9|0
+a routing strategy|DT NN NN|BODY_5:BODY_11:BODY_15:BODY_2:BODY_3:BODY_4|0
+p nodes|NN NNS|BODY_15:BODY_2:BODY_3:BODY_10:BODY_7|0
+the minimal order|DT JJ NN|BODY_32:ABSTRACT_2:BODY_3:BODY_9|0
+the routing message|DT JJ NN|BODY_6:BODY_1:BODY_3:BODY_7|0
+the case|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1|0
+some nodes|DT NNS|BODY_2:BODY_3:BODY_4|0
+strategies|NNS|BODY_5:BODY_2:BODY_3|0
+every node|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+3|CD|BODY_12:BODY_3:BODY_4:BODY_9|0
+eq|NN|BODY_15:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+k|NN|BODY_6:BODY_3:BODY_10:BODY_8|0
+2|CD|BODY_5:BODY_4:BODY_7:BODY_8|0
+e|NN|BODY_2:BODY_3:BODY_4|0
+n )|NN -RRB-|BODY_6:BODY_12:BODY_14:BODY_3:BODY_4|0
+d|JJ|BODY_6:BODY_11:BODY_1:BODY_7:BODY_9|0
+the difference|DT NN|BODY_18:BODY_26:BODY_8:BODY_9|0
+note|NN|BODY_13:BODY_1|0
+configurations|NNS|BODY_5:BODY_36:BODY_2:BODY_1|0
+corollary 1.1|JJ CD|BODY_15:BODY_2:BODY_1:BODY_4|0
+sp|NN|BODY_5:BODY_1:BODY_7:BODY_8|0
+follows|VBZ|BODY_2:BODY_3:BODY_8|0
+the c-property|DT NN|BODY_4:BODY_8|0
+( i|-LRB- FW|BODY_12:BODY_5:BODY_3:BODY_8|0
+r|NN|BODY_11:BODY_2:BODY_1:BODY_10|0
+the upper bound|DT JJ JJ|BODY_5:BODY_2|0
+the routing strategy|DT NN NN|BODY_5:BODY_16:BODY_2|0
+c|NN|BODY_6:BODY_15:BODY_4:BODY_8|0
+the optimal configuration|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+all|DT|BODY_6:BODY_12:BODY_4:BODY_10|0
+a tree t|DT NN NN|BODY_2:BODY_3:BODY_4|0
+routing strategies|JJ NNS|BODY_3:BODY_4:BODY_8|0
+the minimal order routing strategy|DT JJ NN NN NN|BODY_1:BODY_2|0
+strategy|NN|BODY_28:BODY_8|0
+)|-RRB-|BODY_5:BODY_2:BODY_4|0
+link delays|NN NNS|BODY_3:BODY_10:BODY_9|0
+link/node failures|NN NNS|BODY_5:ABSTRACT_4:BODY_2|0
+time intervals|NN NNS|BODY_11:BODY_2:BODY_3|0
+the network adaptability|DT NN NN|BODY_4:BODY_7|0
+the same procedure|DT JJ NN|BODY_5:BODY_10|0
+loop-free routing strategy|JJ NN NN|BODY_2:BODY_3:BODY_10|0
+its neighbors|PRP$ NNS|BODY_5:BODY_7|0
+theorem 1|NN CD|BODY_2:BODY_4:BODY_7|0
+sb|NN|BODY_2:BODY_7:BODY_9|0
+assignments|NNS|BODY_11:BODY_2:BODY_19:BODY_7|0
+possible configurations|JJ NNS|BODY_6:BODY_2:BODY_10|0
+routing messages|NN NNS|BODY_12:BODY_13:BODY_3|0
+m ( c )|NN -LRB- NN -RRB-|BODY_6:BODY_5:BODY_1|0
+table 3|NN CD|BODY_6:BODY_2|0
+the configurations|DT NNS|BODY_3:BODY_9|0
+the configuration|DT NN|BODY_5:BODY_15:BODY_2|0
+the network delay table|DT NN NN NN|BODY_6:BODY_3:BODY_10:BODY_9|0
+the network recovery process|DT NN NN NN|BODY_2:BODY_1|0
+they|PRP|BODY_5:BODY_1|0
+the sum|DT NN|BODY_15:BODY_4|0
+r ( k )|NN -LRB- NN -RRB-|BODY_2:BODY_3|0
+a routing message|DT JJ NN|BODY_5:BODY_3:BODY_14|0
+a node n|DT NN NN|BODY_4:BODY_7|0
+a b|DT NN|BODY_3|0
+one node|CD NN|BODY_11:BODY_3|0
+a loop|DT NN|BODY_13:BODY_3:BODY_8|0
+b|NN|BODY_13:BODY_20|0
+the global information|DT JJ NN|BODY_5:BODY_8|0
+a higher average order|DT JJR JJ NN|BODY_6:BODY_17|0
+faulty|NN|BODY_17:BODY_15:BODY_2:BODY_3:BODY_7|0
+__ _|JJ NN|BODY_12:BODY_6:BODY_16|0
+operational overhead|JJ NN|BODY_5:BODY_1|0
+m ( c )=2|NN -LRB- NN NN|BODY_11:BODY_10:BODY_9|0
+v( n )|VBD NN -RRB-|BODY_3|0
+o|IN|BODY_12:BODY_1:BODY_2|0
+strategy vectors|NN NNS|BODY_4:BODY_7|0
+the following theorem|DT VBG NN|BODY_2:BODY_4|0
+effects|NNS|BODY_3:BODY_4|0
+s1|NNS|BODY_5:BODY_1:BODY_2|0
+the interval|DT NN|BODY_6:BODY_23|0
+two fields|CD NNS|BODY_2:BODY_3|0
+that node|DT NN|BODY_8:BODY_9|0
+order|NN|BODY_5:BODY_10|0
+loop-free strategy|JJ NN|BODY_11:BODY_7|0
+each path|DT NN|BODY_12:BODY_5|0
+one more node n|CD JJR NN NN|BODY_6:BODY_2|0
+0, 0, 0]|NNP NNP NNP|BODY_3:BODY_8|0
+the second order routing strategy|DT JJ NN NN NN|BODY_5:BODY_2|0
+whose strategy vector|WP$ NN NN|BODY_2|0
+as|IN|BODY_2:BODY_8|0
+the d-vectors|DT NNS|BODY_1:BODY_3|0
+all potential looping|DT JJ NN|BODY_12:BODY_6:BODY_5|0
+its adopted strategy vector|PRP$ VBN NN NN|BODY_2|0
+the second node|DT JJ NN|BODY_6:BODY_8|0
+( 12 )|-LRB- CD -RRB-|BODY_1|0
+[8 ]|CD NN|BODY_3|0
+routing|NN|BODY_3|0
+the orders|DT NNS|BODY_2:BODY_9|0
+h( l|JJ NN|BODY_2:BODY_9|0
+a compromise|DT NN|ABSTRACT_2:BODY_3:BODY_7|0
+i|NN|BODY_6:BODY_5|0
+a set|DT NN|BODY_3:BODY_7|0
+less than or|RBR IN CC|BODY_12:BODY_21:BODY_7|0
+e r|NN NN|BODY_11:BODY_8|0
+nt|NN|BODY_1:BODY_3:BODY_7|0
+t|NN|BODY_2:BODY_1|0
+an ordered set|DT VBN NN|BODY_12:BODY_11|0
+loop-free paths|JJ NNS|BODY_6:BODY_10|0
+( ii|-LRB- NNS|BODY_25:BODY_8|0
+its neighboring nodes|PRP$ JJ NNS|BODY_6:BODY_5:BODY_7:BODY_8|0
+( i )|-LRB- NN -RRB-|BODY_12:BODY_8|0
+>|NN|BODY_19:BODY_7|0
+all nodes|DT NNS|BODY_11:ABSTRACT_4|0
+'s routing strategy|POS VBG NN|BODY_7:BODY_9|0
+the|DT|BODY_3|0
+case|NN|BODY_6:BODY_4|0
+proof|NN|BODY_5:BODY_25|0
+this fact|DT NN|BODY_13:BODY_2|0
+any connected graph|DT VBN NN|BODY_28:BODY_13|0
+multi-node loops|JJ VBZ|BODY_3:BODY_8|0
+lemma 1|NN CD|BODY_6:BODY_1:BODY_7|0
+nt .dly i\jd i\jd i\jd i\jd|NN JJ CC CC CC CC|BODY_2:BODY_4|0
+any two adjacent nodes|DT CD JJ NNS|BODY_11:BODY_29|0
+m|NN|BODY_6:BODY_8|0
+j|NN|BODY_4:BODY_7|0
+the node|DT NN|BODY_5:BODY_4|0
+considerable attention|JJ NN|BODY_5|0
+distributed adap|VBN NN|BODY_3|0
+the numbers|DT NNS|BODY_4:BODY_19|0
+each|DT|BODY_6:BODY_14|0
+no looping|DT NN|BODY_3:BODY_4:BODY_9|0
+order loop|NN NN|BODY_3:BODY_8|0
+'s previous routing strategy|POS JJ NN NN|BODY_2|0
+a typica xample|DT NN NN|BODY_5|0
+these quantities|DT NNS|BODY_3|0
+c )|NN -RRB-|BODY_8:BODY_9|0
+this network|DT NN|BODY_3:BODY_4:BODY_7|0
+( aprs|-LRB- NNS|BODY_3|0
+[3 ]|CD NN|BODY_4|0
+a )|DT -RRB-|BODY_12:BODY_13:BODY_10|0
+the resulting graph|DT VBG NN|BODY_3:BODY_10|0
+'s current routing strategy (acrs|POS JJ NN NN NNS|BODY_2|0
+a different approach|DT JJ NN|BODY_4|0
+a key|DT NN|BODY_4|0
+packet switching networks|NN VBG NNS|BODY_2|0
+the multi-order routing strategy|DT NN NN NN|BODY_5:BODY_4|1
+a and b|DT CC NN|BODY_9|0
+a given network|DT VBN NN|BODY_2:BODY_9|0
+> [0 , 0, 0,|NNS CD , CD CD|BODY_14|0
+[3 , 4 , 5 , 6 , 7 , 8 , 9 , 10]|CD , CD , CD , CD , CD , CD , CD , CD|BODY_2|0
+their high potential|PRP$ JJ NN|BODY_6|0
+0, 0, 0, 0]|CD CD CD NN|BODY_15|0
+the node computer|DT NN NN|BODY_10|0
+some inherent drawbacks|DT JJ NNS|BODY_3|0
+the same major features|DT JJ JJ NNS|BODY_3|0
+the corresponding formulas|DT JJ NNS|BODY_13|0
+the required order|DT JJ NN|BODY_6:BODY_1|0
+[5 , 6 , 7]|CD , CD , CD|BODY_2|0
+poor adaptability and inefficiency [7|JJ NN CC NN NNS|BODY_4|0
+oth assumptions|DT NNS|BODY_12|0
+the constraint|DT NN|BODY_17:BODY_7|0
+the main schemes|DT JJ NNS|BODY_3|0
+( b )|-LRB- NN -RRB-|BODY_6:BODY_2|0
+the use|DT NN|BODY_7|0
+rm|NN|BODY_2:BODY_1|0
+the special nature|DT JJ NN|BODY_2|0
+our problem|PRP$ NN|BODY_3|0
+=r|NN|BODY_4|0
+multi-order routing strategy|NN NN NN|BODY_2|0
+the propagation delay|DT NN NN|BODY_13|0
+=r 5-4|NN CD|BODY_5|0
+the weighting factor|DT VBG NN|BODY_3|0
+the above strategy|DT JJ NN|BODY_19|0
+a close dependence|DT JJ NN|BODY_4|0
+[10]|NN|BODY_6|0
+the main factor|DT JJ NN|BODY_14|0
+routing message|JJ NN|BODY_3|0
+more provisions|RBR NNS|BODY_6|0
+the incremental cost|DT JJ NN|BODY_2|0
+complexity|NN|BODY_1|0
+the k-th order routing strategy|DT JJ NN NN NN|BODY_11:BODY_4:BODY_9|0
+ship|NN|BODY_2|0
+infrequent failures|JJ NNS|BODY_17|0
+links|NNS|BODY_6:BODY_11|0
+spl( c )|JJ NN -RRB-|BODY_3:BODY_4|0
+ive routing algorithms|JJ VBG NNS|BODY_4|0
+the function g( c|DT NN NN NN|BODY_2|0
+'s|POS|BODY_6:BODY_12|0
+an b|DT NN|BODY_7|0
+the example network|DT NN NN|BODY_5:BODY_8|0
+every pair|DT NN|BODY_5:BODY_7|0
+skipped )|VBN -RRB-|BODY_13|0
+the values c|DT NNS NN|BODY_8|0
+special cases|JJ NNS|BODY_18|0
+heorem 1|NN CD|BODY_3|0
+)+1|CD|BODY_8|0
+eac ode|DT NN|BODY_2:BODY_3|0
+the node change|DT NN NN|BODY_11|0
+128 ms|CD NNS|BODY_18|0
+overhead|NN|BODY_16|0
+~|NNS|BODY_3|0
+each sb|DT NN|BODY_2|0
+a e|DT NN|BODY_5|0
+]|SYM|BODY_12|0
+new minimal order|JJ JJ NN|BODY_2|0
+2nd( l )=n|JJ NN NN|BODY_2|0
+adaptability c possesses|NN NN NNS|BODY_2|0
+d( l ) l < d( p|JJ NN -RRB- NN NN JJ NN|BODY_1|0
+e eqs|NN NNS|BODY_2|0
+its excessive overhead|PRP$ JJ NN|BODY_2|0
+section 5|NN CD|BODY_2|0
+the computational overhead|DT JJ NN|BODY_1|0
+the smalle t( c )|DT JJ NN NN -RRB-|BODY_1|0
+this naive approach|DT JJ NN|BODY_1|0
+this pape|DT NN|BODY_1|0
+the hardware and software c|DT NN CC NN NN|BODY_5|0
+spl( c|JJ NN|BODY_5:BODY_4|0
+a loop l|DT NN NN|BODY_13:BODY_1|0
+a cannot|DT NN|BODY_2|0
+the one i prs|DT CD NN NNS|BODY_4|0
+every other node|DT JJ NN|BODY_4|0
+a high order routing strategy|DT JJ NN NN NN|BODY_8|0
+an order|DT NN|BODY_16:BODY_4|0
+h ( p|NN -LRB- NN|BODY_2:BODY_1|0
+subsets|NNS|BODY_2:BODY_3|0
+information|NN|BODY_8|0
+the recovery|DT NN|BODY_10|0
+any distinction|DT NN|BODY_8|0
+light|NN|BODY_2|0
+the optimization|DT NN|BODY_2|0
+notice|NN|BODY_1|0
+greater than one|JJR IN PRP|BODY_11:BODY_30|0
+the strategy compatibility|DT NN NN|BODY_6:BODY_34|0
+every link/node|DT NN|BODY_11|0
+r ( n )|NN -LRB- NN -RRB-|BODY_5|0
+0, 0]|CD NN|BODY_5:BODY_4|0
+computation and memory|NN CC NN|BODY_3|0
+olerable|JJ|BODY_6|0
+the selection|DT NN|BODY_10|0
+an example|DT NN|BODY_12:BODY_1|0
+the form|DT NN|BODY_6|0
+ov[3]|NN|BODY_11|0
+a this|DT DT|BODY_9|0
+the use and implementation|DT NN CC NN|BODY_7|0
+the optimal path|DT JJ NN|BODY_6:BODY_11:BODY_7|0
+the tradeoff|DT NN|BODY_6|0
+the vicinity|DT NN|BODY_10|0
+d ( k )|VBN -LRB- NN -RRB-|BODY_17:BODY_1|0
+(|-LRB-|BODY_5:BODY_3|0
+n -a|NN NN|BODY_4|0
+_ rout e val ( e .g.|NN NN NN NN -LRB- NN NNP|BODY_17|0
+c c|NN NN|BODY_7|0
+tradeo|NN|BODY_2|0
+the method|DT NN|BODY_5|0
+different amounts|JJ NNS|BODY_7|0
+a numerical demonstration|DT JJ NN|BODY_2|0
+( n ,n|-LRB- NN NN|BODY_2|0
+d( p ) < d|JJ NN -RRB- NN NN|BODY_5|0
+a subset|DT NN|BODY_2|0
+a given topology|DT VBN NN|BODY_4|0
+a given d|DT VBN NN|BODY_8|0
+failure|NN|BODY_10|0
+contributions|NNS|BODY_5|0
+a strategy vector|DT NN NN|BODY_8|0
+drastic change|JJ NN|BODY_2|0
+different routing strategies|JJ NN NNS|ABSTRACT_8|0
+its optimal routing stra|PRP$ JJ NN NN|BODY_8|0
+higher operational overheads|JJR JJ NNS|BODY_7|0
+[( m +c )k|NN NN NN NN|BODY_3|0
+various procedures|JJ NNS|BODY_3|0
+all k-th order routing strategies|DT JJ NN NN NNS|BODY_4|0
+little dependence|JJ NN|BODY_2|0
+a 14|DT CD|BODY_4|0
+the minimal order vector|DT JJ NN NN|BODY_17|0
+the derivation|DT NN|BODY_3|0
+a higher order routing strategy|DT JJR NN NN NN|BODY_2|0
+min|NN|BODY_4|0
+entries|NNS|BODY_16|0
+delay tradeoff|NN NN|BODY_2|0
+a function d|DT NN NN|BODY_14|0
+the factors|DT NNS|BODY_6|0
+the same routing strategy|DT JJ NN NN|ABSTRACT_3:BODY_3|0
+the network b|DT NN NN|BODY_19|0
+spl( c ) and v(sb|JJ NN -RRB- CC NN|BODY_3|0
+theorem 2|NN CD|BODY_1:BODY_9|0
+such neighbors|JJ NNS|BODY_7|0
+the construction|DT NN|BODY_9|0
+2 -1|CD NN|BODY_7|0
+the graph|DT NN|BODY_14|0
+8.|CD|BODY_3|0
+rom|NN|BODY_8|0
+this choice|DT NN|BODY_5|0
+the slowdown|DT NN|BODY_9|0
+0, 1]|CD CD|BODY_4:BODY_9|0
+1 , 1 , 1]|CD , CD , CD|BODY_16|0
+34 a a a 21|CD DT DT DT CD|BODY_3|0
+the same , excep hat different values|DT JJ , JJ NN JJ NNS|BODY_5|0
+all p|DT NN|BODY_3|0
+this proposal|DT NN|ABSTRACT_7|0
+the first k nodes|DT JJ NN NNS|BODY_3|0
+the second and third nodes|DT JJ CC JJ NNS|BODY_12|0
+nothing|NN|BODY_6|0
+the path p|DT NN NN|BODY_19:BODY_8|0
+the se f positive integers|DT NN NN JJ NNS|BODY_13|0
+required order|VBN NN|BODY_2|0
+the main idea|DT JJ NN|BODY_2|0
+minimal order|JJ NN|BODY_4|0
+d and d|JJ CC JJ|BODY_4|0
+the new optimal path|DT JJ JJ NN|BODY_11:BODY_2|0
+certain a missions|JJ DT NNS|BODY_12|0
+the above modification|DT JJ NN|BODY_5|0
+the cost required pe econd|DT NN VBN NN NN|BODY_2|0
+a given network topology|DT VBN NN NN|BODY_5|0
+upper and lower bounds|JJ CC JJR NNS|BODY_5|0
+execution time|NN NN|BODY_5|0
+an appropriate design objective function|DT JJ NN NN NN|BODY_11|0
+infrequent looping|JJ NN|BODY_5|0
+the n-th f order routing strategy|DT JJ NN NN NN NN|BODY_4|0
+( 4 )|-LRB- CD -RRB-|BODY_2|0
+h( l ) > r|JJ NN -RRB- NN NN|BODY_4|0
+this paper|DT NN|BODY_2:BODY_1|0
+n contains|NN VBZ|BODY_21|0
+ach link|DT NN|BODY_4|0
+] >|SYM NNS|BODY_10|0
+two adjacent nodes|CD JJ NNS|BODY_5|0
+all _|DT NNS|BODY_6|0
+the procedure|DT NN|BODY_2|0
+sp such|NN JJ|BODY_4|0
+a e c network|DT NN NN NN|BODY_5|0
+a configuration|DT NN|BODY_3|0
+a network|DT NN|BODY_1|0
+a measure|DT NN|BODY_13|0
+the proposed strategy|DT VBN NN|BODY_7|0
+a ;begin|DT NN|BODY_6|0
+the three cases|DT CD NNS|BODY_2|0
+the sam umber|DT NN NN|BODY_2|0
+significant overheads|JJ NNS|BODY_2|0
+=778|CD|BODY_10|0
+the e number|DT NN NN|BODY_18|0
+j-t rder|JJ NN|BODY_5|0
+1- i|NNP FW|BODY_2|0
+< r|NN NN|BODY_11|0
+equired time intervals|VBN NN NNS|BODY_2|0
+the resulting|DT VBG|BODY_5|0
+a computer network n|DT NN NN NN|BODY_2|0
+a p-tuple|DT NN|BODY_9|0
+node n|NN NN|BODY_2:BODY_3|0
+i-jd d ( 2|JJ NN -LRB- CD|BODY_2|0
+n -v( n ) test delay|RB JJ RB -RRB- NN NN|BODY_4|0
+max|NN|BODY_3|0
+r subsets|NN NNS|BODY_8|0
+0,|NN|BODY_4|0
+a path p -sp|DT NN NN NN|BODY_12|0
+p(p-1)q times|JJ NNS|BODY_9|0
+tidas|NNS|BODY_17|0
+routin essages|NN NNS|BODY_4|0
+respec|NN|BODY_6|0
+( i .e|-LRB- FW FW|BODY_5|0
+second|NN|BODY_3|0
+section 4.1|NN CD|BODY_12:BODY_1|0
+the essential issue|DT JJ NN|BODY_4|0
+31-21 a 13-23 a 32-32 a 42-32 a 24-34 a 34-34|CD DT CD DT CD DT CD DT CD DT CD|BODY_12|0
+( m|-LRB- NN|BODY_10|0
+a lower average order|DT JJR JJ NN|BODY_10|0
+mor onfigurations|JJR NNS|BODY_8|0
+sp -r|NN NN|BODY_15|0
+2nd( l )|JJ NN -RRB-|BODY_7|0
+an n-tuple [n|DT JJ NN|BODY_6|0
+only a fairly small portion|RB DT RB JJ NN|BODY_4|0
+- i|: FW|BODY_2|0
+uv-ij iv|JJ NN|BODY_5|0
+nd|NN|BODY_2|0
+an such|DT JJ|BODY_2|0
+n d(|RB JJ|BODY_11|0
+a star structure|DT NN NN|BODY_4|0
+a mal number|DT JJ NN|BODY_4|0
+edges|NNS|BODY_5|0
+the values|DT NNS|BODY_6|0
+certain failures|JJ NNS|BODY_2|0
+) i subject|-RRB- FW NN|BODY_10|0
+times|NNS|BODY_19|0
+mentioned|VBN|BODY_3|0
+all loops|DT NNS|BODY_2|0
+the shortest delay|DT JJS NN|BODY_3|0
+a significant improvement|DT JJ NN|BODY_2|0
+m= spl( c )|JJ JJ NN -RRB-|BODY_6|0
+section 4|NN CD|BODY_5|0
+{j+1|CD|BODY_7|0
+w d|JJ NN|BODY_4|0
+its d-vector|PRP$ NN|BODY_17|0
+looping|NN|BODY_5:BODY_4|0
+messages|NNS|BODY_7|0
+the entir etwork|DT NN NN|BODY_6|0
+rt( c )|JJ NN -RRB-|BODY_12|0
+a then|DT RB|BODY_14|0
+augmented minimal delay vectors|JJ JJ NN NNS|BODY_4|0
+the summation|DT NN|BODY_19|0
+some|DT|BODY_4|0
+all link delays|DT NN NNS|BODY_20|0
+compatibility|NN|BODY_9|0
+0, 0,|CD CD|BODY_5|0
+outer maximal function|JJ JJ NN|BODY_3|0
+the one|DT CD|BODY_9|0
+two maximal functions|CD JJ NNS|BODY_2|0
+all sb|DT NN|BODY_7|0
+informa ion|NN NN|BODY_4|0
+__|NNS|BODY_5|0
+message|NN|BODY_5|0
+l e maximal function|NN NN JJ NN|BODY_12|0
+'s )|POS -RRB-|BODY_10|0
+a different assignment|DT JJ NN|BODY_9|0
+d-vectors|NNS|BODY_3|0
+the exact expression|DT JJ NN|BODY_2|0
+the network executes|DT NN NNS|BODY_11|0
+2 , 3 , 2 , 1 , 1 , 1|CD , CD , CD , CD , CD , CD|BODY_5|0
+r note|JJ NN|BODY_11|0
+different u\v( sub )|JJ NN NN -RRB-|BODY_7|0
+the information|DT NN|BODY_2|0
+an equal probability|DT JJ NN|BODY_9|0
+( 11 )|-LRB- CD -RRB-|BODY_1|0
+i )|FW -RRB-|BODY_5|0
+i-k , * i-k , j proof|JJ , JJ JJ , JJ NN|BODY_5|0
+xample 1|NN CD|BODY_4|0
+a considerable amount|DT JJ NN|BODY_15|0
+the traffic density|DT NN NN|BODY_6|0
+( n|-LRB- NN|BODY_11|0
+each configuration c|DT NN NN|BODY_3|0
+c c c r|NN NN NN NN|BODY_4|0
+the formula|DT NN|BODY_4|0
+computer links|NN NNS|BODY_8|0
+the ardinality|DT NN|BODY_10|0
+the following two steps|DT VBG CD NNS|BODY_4|0
+2 , 3 , 2 , 1 , 0, 1 , 2] ( evaluated ) [3 , 2 , 2 , 2 , 1 , 1 , 1 , 2] (|CD , CD , CD , CD , CD CD , CD -LRB- VBN -RRB- CD , CD , CD , CD , CD , CD , CD , CD -LRB-|BODY_9|0
+not only the delay|RB RB DT NN|BODY_5|0
+a m|DT NN|BODY_13|0
+any node|DT NN|BODY_13|0
+a path p -sp and r|DT NN NN NN CC NN|BODY_21|0
+the optimal path )|DT JJ NN -RRB-|BODY_6|0
+ew nonfaulty path )|JJ NN NN -RRB-|BODY_9|0
+a network delay table|DT NN NN NN|BODY_2|0
+the very reason|DT JJ NN|BODY_2|0
+respec-|NNS|BODY_5|0
+n and n|NN CC NN|BODY_2|0
+the maximum|DT NN|BODY_2|0
+=85 d|CD VBN|BODY_6|0
+either|DT|BODY_10|0
+{0,1,2|NN|BODY_6|0
+the necessity|DT NN|BODY_2|0
+a b g|DT NN NN|BODY_6|0
+a ssume|DT NN|BODY_5|0
+adaptability|NN|BODY_14|0
+n ]|RB NN|BODY_7|0
+the tidas network|DT JJ NN|BODY_9|0
+l( p )|JJ NN -RRB-|BODY_4|0
+the f use|DT NN NN|BODY_3|0
+the subscript|DT NN|BODY_7|0
+the d-vector|DT NN|BODY_6|0
+the ideas|DT NNS|BODY_3|0
+a routing routing message|DT NN NN NN|BODY_3|0
+our proposed strategy|PRP$ VBN NN|BODY_2|0
+inimum order vector|JJ NN NN|BODY_3|0
+whose i-th element|WP$ JJ NN|BODY_10|0
+all the loops|PDT DT NNS|BODY_6|0
+the delay function|DT NN NN|BODY_16|0
+different sp|JJ NN|BODY_11|0
+a evaluation|DT NN|BODY_8|0
+on-line recalcu ation|JJ NN NN|BODY_3|0
+most nodes|RBS NNS|BODY_3|0
+n-v( n ) , n ,n -a|JJ NN -RRB- , NN NN NN|BODY_6|0
+a simple example|DT JJ NN|BODY_2|0
+. ,m}|. NN|BODY_7|0
+the shor- ijn|DT NNS NN|BODY_3|0
+the e|DT NN|BODY_7|0
+[3 , 2 , 3 , 2 , 1 , 1 , 1 , 2] ( evaluated ) [3 , 2 , 3 , 2 , 1 , 1 , 0, 2] (|CD , CD , CD , CD , CD , CD , CD , CD -LRB- VBN -RRB- CD , CD , CD , CD , CD , CD , CD CD -LRB-|BODY_5|0
+= [3 , 2 , 3 , 1 , 1 , 1 , 1 , 1]|SYM CD , CD , CD , CD , CD , CD , CD , CD|BODY_4|0
+a new nonfaulty ptimal path|DT JJ NN JJ NN|BODY_4|0
+loop-free trategy|JJ NN|BODY_18|0
+||NNP|BODY_5|0
+0] and [1|NNP CC RB|BODY_7|0
+necessary definitions|JJ NNS|BODY_3|1
+that d|DT NN|BODY_2|0
+.( 12 ) l( p )-sb and u|JJ CD -RRB- NN NN NN CC NN|BODY_4|0
+the same strategy|DT JJ NN|BODY_3|0
+the average probability|DT NN NN|BODY_10|0
+d d r|NN NN NN|BODY_2|0
+switch|NN|BODY_7|0
+any other node|DT JJ NN|BODY_5|0
+all the graphs|PDT DT NNS|BODY_6|0
+the maxi|DT NN|BODY_3|0
+the algorithm|DT NN|BODY_2|0
+useless routing messages|JJ NN NNS|BODY_3|0
+every n|DT NN|BODY_3|0
+d d ( b ) proof|NN NN -LRB- NN -RRB- NN|BODY_3|0
+= d =2410 and and|SYM VBN CD CC CC|BODY_9|0
+ov[7|NNS|BODY_6|0
+certain link failures|JJ NN NNS|BODY_3|0
+the following sequence|DT VBG NN|BODY_4|0
+network delay tables|NN NN NNS|BODY_4|0
+the delay rm|DT NN NN|BODY_4|0
+the key|DT NN|BODY_4|0
+n(t,m )|NN -RRB-|BODY_5|0
+a function h|DT NN NN|BODY_4|0
+the sam|DT NN|BODY_4|0
+m ( c )=1|NN -LRB- NN NN|BODY_10|0
+the resulting sequence|DT JJ NN|BODY_9|0
+n h( l|RB JJ NN|BODY_9|0
+a llustration|DT NN|BODY_2|0
+the tree|DT NN|BODY_3|0
+the routing messages|DT NN NNS|BODY_3|0
+each minimal path|DT JJ NN|BODY_6|0
+the routing message rm|DT JJ NN NN|BODY_6|0
+a combinatorial approach|DT JJ NN|BODY_3|0
+the network delay tables|DT NN NN NNS|BODY_10|0
+this idea|DT NN|BODY_3|0
+d( p )|JJ NN -RRB-|BODY_18|0
+the starting nodes|DT VBG NNS|BODY_5|0
+the first order loop ( n|DT JJ NN NN -LRB- NN|BODY_3|0
+the network topology and varie rom|DT NN NN CC NN NN|BODY_10|0
+i-jd r increases|JJ NN NNS|BODY_3|0
+undesirable looping n case|JJ NN NN NN|BODY_4|0
+the bounds|DT NNS|BODY_5|0
+eq.(7 )|NNS -RRB-|BODY_11|0
+. and q|. CC JJ|BODY_11|0
+a ) d d|DT -RRB- NN NN|BODY_2|0
+every fixed time|DT VBN NN|BODY_15|0
+a large storage area|DT JJ NN NN|BODY_4|0
+k+1|CD|BODY_7|0
+now|RB|BODY_4|0
+an arbitrary node|DT JJ NN|BODY_3|0
+small on-line changes|JJ JJ NNS|BODY_9|0
+such a subset|JJ DT NN|BODY_9|0
+the need|DT NN|BODY_2|0
+v( n ||VBD NN NN|BODY_9|0
+e corresponds|NN NNS|BODY_8|0
+an arbitrary sb|DT JJ NN|BODY_11|0
+sl such|NN JJ|BODY_14|0
+i-k ages|JJ NNS|BODY_5|0
+l notation|JJ NN|BODY_4|1
+i-jd i-jd|JJ JJ|BODY_5|0
+l , l ,|JJ , JJ ,|BODY_3|0
+c-property|NN|BODY_3|0
+such a way|JJ DT NN|BODY_8|0
+every loop|DT NN|BODY_6|0
+a certain loop|DT JJ NN|BODY_7|0
+the test|DT NN|BODY_4|0
+the optimal order|DT JJ NN|BODY_6|0
+a broken path|DT JJ NN|BODY_8|0
+2nd( l d|JJ NN NN|BODY_15|0
+the lower order routing strategy|DT JJR NN NN NN|BODY_2|0
+a shows|DT NNS|BODY_3|0
+the original graph|DT JJ NN|BODY_8|0
+1-i-8|NNS|BODY_3|0
+'s adaptation|POS NN|BODY_5|0
+introduction|NN|BODY_1|0
+routing tmessages|NN NNS|BODY_5|0
+the rpanet|DT NN|BODY_1|0
+their performance and reliability [1|PRP$ NN CC NN NNS|BODY_5|0
+m ( c|NN -LRB- NN|BODY_8:BODY_9|0
+i-jd i-jd d r|JJ JJ NN NN|BODY_3|0
+c ) , i .e|NN -RRB- , FW FW|BODY_5|0
+the theorem|DT NN|BODY_8|0
+a correct routing decision|DT JJ JJ NN|BODY_2|0
+m .set|NN NN|BODY_4|0
+its adjacent nodes|PRP$ JJ NNS|BODY_13|0
+second induced|JJ NN|BODY_2|0
+a systematic procedure|DT JJ NN|BODY_6:ABSTRACT_1|0
+links/nodes|NNS|BODY_7|0
+some subsets|DT NNS|BODY_4|0
+acrs|NNS|BODY_1|0
+the following two cases|DT VBG CD NNS|BODY_11|0
+failures|NNS|BODY_6|0
+each entry|DT NN|BODY_9|0
+attaching and attached nodes|VBG CC VBN NNS|BODY_2|0
+i-jd i\jd|JJ NN|BODY_13|0
+a dominating factor|DT VBG NN|BODY_3|0
+positive real numbers|JJ JJ NNS|BODY_23|0
+a i\j nd nt .set|DT NN NN NN NN|BODY_6|0
+the shortest delay path|DT JJS NN NN|BODY_8|0
+the xample network|DT NN NN|BODY_2|0
+d =94|VBN CD|BODY_5|0
+i\jd i\j|CC NN|BODY_5|0
+those|DT|BODY_6|0
+a a u 1|DT DT NN CD|BODY_5|0
+contradictory|NN|BODY_2|0
+rc( c|JJ NN|BODY_1|0
+example|NN|BODY_10|0
+problem|NN|BODY_8|0
+the maximal function|DT JJ NN|BODY_2|0
+[4 ]|CD NN|BODY_2|0
+the integer|DT NN|BODY_12|0
+all possible paths|DT JJ NNS|BODY_10|0
+et l( p|FW FW NN|BODY_16|0
+each assignment|DT NN|BODY_5|0
+times s2|NNS NN|BODY_2|0
+mes|NNS|BODY_4|0
+hop functions|NN NNS|BODY_7|0
+potential looping|JJ NN|BODY_4|0
+the inne aximal function|DT JJ NN NN|BODY_2|0
+cardinality n|NN NN|BODY_3|0
+routing strategy off-line , incorporate|NN NN JJ , JJ|BODY_4|0
+n -v( n )|NN JJ NN -RRB-|BODY_24|0
+the same|DT JJ|BODY_2|0
+consideration|NN|BODY_2|0
+inimal order|JJ NN|BODY_3|0
+the value|DT NN|BODY_9|0
+our discussion|PRP$ NN|BODY_5:BODY_1|0
+the network n|DT NN NN|BODY_4|0
+f( c )|JJ NN -RRB-|BODY_7|0
+the relation|DT NN|BODY_1|0
+the loops|DT NNS|BODY_1|0
+addition|NN|BODY_3|0
+their difference|PRP$ NN|BODY_6|0
+the k-th order strategy|DT JJ NN NN|BODY_4|0
+otice|NN|BODY_14|0
+i .e|FW FW|BODY_8|0
+[9 ]|DT NN|BODY_10|0
+each pair|DT NN|BODY_5|0
+a k|DT NN|BODY_2|0
+o =|RB SYM|BODY_6|0
+l e reliability and adaptability|JJ NN NN CC NN|BODY_7|0
+the various routing algorithms|DT JJ VBG NNS|BODY_1|0
+the optimal paths|DT JJ NNS|BODY_5|0
+the minimal delay|DT JJ NN|BODY_8|0
+a record|DT NN|BODY_2|0
+the part|DT NN|BODY_12|0
+ping-pong type|JJ NN|BODY_2|0
+the network opera ions|DT NN NN NNS|BODY_4|0
+2 -1 )+1|CD NN NN|BODY_24|0
+the arpanet|DT NN|BODY_1|0
+these|DT|BODY_6|0
+l note|JJ NN|BODY_4|0
+utations|NNS|BODY_7|0
+each node computer|DT NN NN|BODY_6|0
+( spl)|-LRB- NN|BODY_5|0
+only when l|RB WRB NN|BODY_2|0
+4.2|CD|BODY_16|0
+hand|NN|BODY_11|0
+the e delays|DT NN NNS|BODY_4|0
+possible|JJ|BODY_6|0
+lp( c e|JJ NN NN|BODY_12|0
+our analytical results|PRP$ JJ NNS|BODY_2|0
+the strategy compatibility f|DT NN NN NN|BODY_9|0
+the answer|DT NN|BODY_6|0
+h( l ) >|JJ JJ -RRB- NN|BODY_10|0
+loop-free routing|JJ NN|BODY_33|0
+oop|NN|BODY_24|0
+description|NN|BODY_1|0
+appropriate stochastic aspects|JJ JJ NNS|BODY_14|0
+any path|DT NN|BODY_8|0
+the hop function|DT NN NN|BODY_7|0
+_ _ _|JJ JJ JJ|BODY_10|0
+our design objective|PRP$ NN NN|BODY_1|0
+routing stra egy|NN NN NN|BODY_7|0
+tables 1|NNS CD|BODY_3|0
+a 14-14 a 21-21|DT CD DT CD|BODY_6|0
+a link/node failure|DT NN NN|BODY_6|0
+its second optimal path|PRP$ JJ JJ NN|BODY_15|0
+a 4-5 6-5 5 nd e 1|DT CD CD CD NN NN LS|BODY_6|0
+120 )|CD -RRB-|BODY_2|0
+r nodes|NN NNS|BODY_2|0
+modification|NN|BODY_7|0
+due|JJ|BODY_1|0
+link delay|NN NN|BODY_15|0
+the order r|DT NN JJ|BODY_4|0
+assign ents|NN NNS|BODY_4|0
+the se|DT NN|BODY_9|0
+integer|NN|BODY_4|0
+network structure|NN NN|BODY_3|0
+recovery|NN|BODY_5|0
+a strategy vector [1|DT NN NN NNP|BODY_3|0
+extensive protocols|JJ NNS|BODY_8|0
+the set aths|DT NN NNS|BODY_2|0
+delay table as|NN NN IN|BODY_10|0
+each possible configuration note|DT JJ NN NN|BODY_3|0
+the outing message|DT JJ NN|BODY_16|0
+d d d|JJ JJ JJ|BODY_2|0
+12]|CD|BODY_5|0
+a the routing algorithms|DT DT NN NNS|BODY_1|0
+the following straightforwar|DT VBG NN|BODY_10|0
+the same node|DT JJ NN|BODY_29|0
+example 1|NN CD|BODY_14|0
+c and l|NN CC JJ|BODY_16|0
+the set sp|DT NN NN|BODY_6|0
+an arbitrary link failure|DT JJ NN NN|BODY_4|0
+tw djacent nodes|JJ JJ NNS|BODY_20|0
+first few odes|JJ JJ NNS|BODY_8|0
+two nodes|CD NNS|BODY_5|0
+tree|NN|BODY_3|0
+the knowledge|DT NN|BODY_31|0
+their orders|PRP$ NNS|BODY_7|0
+all possible strategy vectors|DT JJ NN NNS|BODY_5|0
+f( c|NN NN|BODY_2|0
+a uniform traffic density|DT NN NN NN|BODY_4|0
+i\jd|NN|BODY_5|0
+path|NN|BODY_7|0
+1-31-3 , 1-2,3 1-1-2|JJ , JJ JJ|BODY_3|0
+the pair {j|DT NN NN|BODY_5|0
+the expected number|DT JJ NN|BODY_1|0
+the presence|DT NN|ABSTRACT_3|0
+advance|NN|BODY_6|0
+n v|NN NN|BODY_23|0
+a possible path|DT JJ NN|BODY_2|0
+all potential loops|DT JJ NNS|BODY_13|0
+0 and 1|CD CC CD|BODY_5|0
+the hypothesis|DT NN|BODY_3|0
+hops|NNS|BODY_5|0
+the labeled graph|DT VBN NN|BODY_2|0
+a part|DT NN|BODY_3|0
+global information|JJ NN|BODY_4|0
+an ordered sequence representation|DT VBN NN NN|BODY_7|0
+every tree|DT NN|BODY_9|0
+20 , 19 , 17 and 20 time intervals|CD , CD , CD CC CD NN NNS|BODY_3|0
+the tim ntervals|DT NN NNS|BODY_2|0
+this message|DT NN|BODY_8|0
+2 +3 (m-1 )|CD CD NN -RRB-|BODY_7|0
+n(t|NN|BODY_5|0
+tables 1 , 2|NNS CD , CD|BODY_2|0
+0|CD|BODY_6|0
+3-3-2,3-2|CD|BODY_9|0
+an r|DT NN|BODY_7|0
+lemma e|NN NN|BODY_2|0
+the portion|DT NN|BODY_5|0
+a higher-orde oop|DT JJ NN|BODY_6|0
+the k-th component|DT JJ NN|BODY_15|0
+k=1|CD|BODY_20|0
+formu|NNS|BODY_3|0
+the higher-order loop|DT NN NN|BODY_8|0
+by one anonymous referee e|IN CD JJ NN NN|BODY_14|0
+denotes|NNS|BODY_20|0
+subject|NN|BODY_16|0
+ot result|JJ NN|BODY_7|0
+some failure hose recovery costs|DT NN NN NN NNS|BODY_18|0
+any subset|DT NN|BODY_3|0
+a direct link l|DT JJ NN NN|BODY_3|0
+its new optimal path|PRP$ JJ JJ NN|BODY_4|0
+some other destination|DT JJ NN|BODY_9|0
+2 ways|CD NNS|BODY_2|0
+the formulas|DT NNS|BODY_2|0
+nt .set|NN NN|BODY_10|0
+the first k+1 nodes|DT JJ CD NNS|BODY_12|0
+the link l|DT NN NN|BODY_1:BODY_14|0
+the minimal number|DT JJ NN|BODY_26|0
+the net-work delay table|DT NN NN NN|BODY_9|0
+the umbers|DT NNS|BODY_10|0
+the looping effects|DT JJ NNS|BODY_4|0
+a given network structure|DT VBN NN NN|BODY_3|0
+the above algorithm|DT JJ NN|BODY_4|0
+usually many paths|RB JJ NNS|BODY_2|0
+acceptable assignments|JJ NNS|BODY_27|0
+the insufficient order|DT JJ NN|BODY_6|0
+aprs )|NNS -RRB-|BODY_19|0
+a short time period|DT JJ NN NN|BODY_12|0
+exactly the number|RB DT NN|BODY_9|0
+the optimization algorithm|DT NN NN|BODY_2|0
+. 5|. CD|BODY_14|0
+optimization|NN|BODY_1|0
+n wil result|NN JJ NN|BODY_5|0
+3 r l|CD NN NN|BODY_1|0
+let sb|VB NN|BODY_1|0
+a a ( ii )|DT DT -LRB- NNS -RRB-|BODY_5|0
+loop-fre outing strategies|JJ JJ NNS|BODY_18|0
+the routing stra egy|DT NN NN NN|BODY_12:BODY_3|0
+c and m|NN CC NN|BODY_1|0
+al odes|DT NNS|BODY_4|0
+f network|NN NN|BODY_6|0
+the routing strategy [4]|DT NN NN NN|BODY_7|0
+at most two distinct numbers|IN JJS CD JJ NNS|BODY_3|0
+i-k|NN|BODY_8|0
+both|DT|BODY_5|0
+mm|CD|BODY_2|0
+n such|NN JJ|BODY_5|0
+the performance|DT NN|BODY_3|0
+the network structure|DT NN NN|ABSTRACT_9|0
+n -a t|NN NN NN|BODY_9|0
+e fig|NN NN|BODY_4|0
+other nodes|JJ NNS|BODY_8|0
+h( p )|JJ NN -RRB-|BODY_9|0
+uv-ij and u- here m|JJ CC RB RB NN|BODY_8|0
+network failures|NN NNS|BODY_7|0
+a distribution vector (d-vector|DT NN NN NN|BODY_13|0
+2 +3 (m-1 )]|CD CD NN NN|BODY_9|0
+tables 1 and 2|NNS CD CC CD|BODY_11|0
+3 v|CD FW|BODY_6|0
+the operation|DT NN|BODY_5|0
+the networ delay table|DT JJ NN NN|BODY_9|0
+the memory requirement|DT NN NN|BODY_6|0
+routing strategy speed|NN NN NN|BODY_3|0
+the optimal routing strategy|DT JJ NN NN|BODY_6|0
+the maximal adaptability|DT JJ NN|BODY_3|0
+tegy|NN|BODY_9|0
+the routing trategy|DT NN NN|BODY_4|0
+ine|NN|BODY_8|0
+the quan ity r|DT JJ NN NN|BODY_1|0
+a nod|DT NN|BODY_14|0
+a configuration c|DT NN NN|BODY_2|0
+each ode|DT NN|BODY_4|0
+n-a|NN|BODY_4:BODY_9|0
+the outer maximal function|DT JJ JJ NN|BODY_3|0
+receiving nodes|VBG NNS|BODY_9|0
+the sake|DT NN|BODY_1|0
+1 -j-k|CD NN|BODY_6|0
+r denote|NN NN|BODY_1|0
+raph|NN|BODY_9|0
+such cases|JJ NNS|BODY_4|0
+the r c operational overhead|DT NN NN JJ NN|BODY_8|0
+definitions and notation|NNS CC NN|BODY_1|0
+a sud en|DT JJ FW|BODY_1|0
+the above reasoning|DT JJ NN|BODY_1|0
+( 1 ) and ( 2|-LRB- CD -RRB- CC -LRB- CD|BODY_1|0
+more configurations|JJR NNS|BODY_21|0
+the following corollary|DT VBG NN|BODY_14|0
+our method but yields interesting solutions|PRP$ NN CC NNS JJ NNS|BODY_6|0
+this case|DT NN|BODY_6|0
+( 3 ) and ( 4 )|-LRB- CD -RRB- CC -LRB- CD -RRB-|BODY_1|0
+minimal order loop-free routing strategy|JJ NN JJ NN NN|TITLE_1:BODY_1|0
+let nt|VB NN|BODY_1|0
+ther two equations|DT CD NNS|BODY_1|0
+f|NN|BODY_3|0
+its link delays|PRP$ NN NNS|BODY_6|0
+such a d case|JJ DT JJ NN|BODY_1|0
+an thus|DT RB|BODY_10|0
+example path p -sp|NN NN NN NN|BODY_1|0
+'strategy compatibility|POS NN|BODY_6|0
+( 1 )|-LRB- CD -RRB-|BODY_1|0
+assignment|NN|BODY_1|0
+1 m-1|CD NN|BODY_8|0
+remarks|NNS|BODY_1|0
+th elay|DT NN|BODY_22|0
+r ( k|NN -LRB- NN|BODY_1|0
+this modification|DT NN|BODY_1|0
+1 )|CD -RRB-|BODY_11|0
+each configuration|DT NN|BODY_10|0
+the entries|DT NNS|BODY_1|0
+s2|NN|BODY_11|0
+how lemma 1|WRB NN CD|BODY_1|0
+a path p|DT NN NN|BODY_4|0
+the orresponding path|DT JJ NN|BODY_13|0
+a ( i )|DT -LRB- NN -RRB-|BODY_4|0
+a c c 9 r b )|DT NN NN CD NN NN -RRB-|BODY_4|0
+the cardinality|DT NN|BODY_1|0
+the value k-i|DT NN NN|BODY_20|0
+r >|NN NN|BODY_3|0
+acceptably fast recovery fromnode/link failures|RB JJ NN NN NNS|BODY_6|0
+the other distri|DT JJ NN|BODY_1|0
+these nodes|DT NNS|BODY_4|0
+the entire network|DT JJ NN|BODY_5|0
+this usually intro|DT RB NN|BODY_1|0
+another|DT|BODY_12|0
+( 2|-LRB- CD|BODY_1|0
+a con- radiction|DT NNS NN|BODY_5|0
+conclusion|NN|BODY_1|0
+the whole procedure|DT JJ NN|BODY_6|0
+a result|DT NN|BODY_1|0
+i *|NN NN|BODY_12|0
+sort l|NN RB|BODY_1|0
+the original trees|DT JJ NNS|BODY_6|0
+the operational overhead and network adaptability|DT JJ NN CC NN NN|ABSTRACT_3:BODY_8|0
+the test result|DT NN NN|BODY_1|0
+( k )|-LRB- NN -RRB-|BODY_7|0
+the loop l|DT NN NN|BODY_9|0
+r l >|NN NN NN|BODY_5|0
+com|NN|BODY_6|0
+a second order l oop|DT JJ NN NN NN|BODY_15|0
+the second order loop ( n|DT JJ NN NN -LRB- NN|BODY_5|0
+the minimal number ssignments|DT JJ NN NNS|BODY_9|0
+a ree structure|DT JJ NN|BODY_3|0
+induction|NN|BODY_6|0
+the total number|DT JJ NN|BODY_1|0
+the following interesting combinatorial problem|DT VBG JJ JJ NN|BODY_3|0
+the umber|DT NN|BODY_1|0
+the strategy com- patibility|DT NN , NN|BODY_5|0
+their optimal paths|PRP$ JJ NNS|BODY_5|0
+ther nodes|DT NNS|BODY_11|0
+eqs|NNS|BODY_5:BODY_1|0
+the case e|DT NN NN|BODY_1|0
+the equations|DT NNS|BODY_1|0
+[1 , 1 , 0, 1]|NNP , CD , CD CD|BODY_9|0
+conveni- ence|NNS NN|BODY_1|0
+( 6|-LRB- CD|BODY_1|0
+rt( c ) , rt( c ) and rt( c )|JJ NN -RRB- , JJ NN -RRB- CC JJ NN -RRB-|BODY_1|0
+computer c nodes|NN NN NNS|BODY_6|0
+sufficient enough|JJ JJ|BODY_5|0
+2. description|DT NN|BODY_1|0
+2.1|CD|BODY_3|0
+a design objective function f( c|DT NN NN NN NN NN|BODY_1|0
+the above objective function|DT JJ JJ NN|BODY_1|0
+a minimal delay table|DT JJ NN NN|BODY_1|0
+enough routing information|JJ NN NN|BODY_1|0
+q|NNS|BODY_3|0
+q.e.d. note|VBN NN|BODY_1|0
+the above formulas|DT JJ NNS|BODY_1|0
+such missions|JJ NNS|BODY_6|0
+d 1|VBD CD|BODY_5|0
+all n eqs|DT NN NN|BODY_7|0
+configuration c|NN NN|BODY_1|0
+neighboring nodes|VBG NNS|BODY_14|0
+many assignments|JJ NNS|BODY_14|0
+the above observations|DT JJ NNS|BODY_1|0
+two equations|CD NNS|BODY_3|0
+( 5 ) and heorem 1|-LRB- CD -RRB- CC NN CD|BODY_1|0
+( 7|-LRB- CD|BODY_1|0
+( 7 )|-LRB- CD -RRB-|BODY_1|0
+[4]|NN|BODY_1|0
+a labeled graph|DT VBN NN|BODY_1|0
+a minimal order loop-free routing strategy|DT JJ NN JJ NN NN|BODY_4|0
+l iii )|JJ NNS -RRB-|BODY_13|0
+our presentation|PRP$ NN|BODY_1|0
+section 2|NN CD|BODY_1|1
+section 3|NN CD|BODY_1|0
+spl( c ( c )|JJ NN -LRB- NN -RRB-|BODY_8|0
+the lower bound|DT JJR VBN|BODY_2:BODY_1|0
+this example network|DT NN NN|BODY_1|0
+this rocedure|DT NN|BODY_1|0
+here 3|RB CD|BODY_4|0
+such a case|JJ DT NN|BODY_1|0
+let p|VB NN|BODY_1|0
+1-j-m|JJ|BODY_7|0
+double counts|JJ NNS|BODY_10|0
+n.|NN|BODY_5|0
+( 1|-LRB- CD|BODY_1|0
+conse uently|NN RB|BODY_1|0
+them|PRP|BODY_6|0
+the problem|DT NN|BODY_2|0
+this strategy|DT NN|BODY_1|0
+table 1|NN CD|BODY_2|0
+the complete graph k|DT JJ NN NN|BODY_1|0
+more than two nodes|JJR IN CD NNS|BODY_10|0
+a second optimal path|DT JJ JJ NN|BODY_10|0
+its spanning tree|PRP$ NN NN|BODY_30|0
+the solution|DT NN|BODY_7|0
+( b|-LRB- NN|BODY_1|0
+0 or 1|CD CC CD|BODY_4|0
+2 3 4 5 respectively|CD CD CD CD RB|BODY_6|0
+a contradiction|DT NN|BODY_5|0
+a new nonfaulty r optimal path|DT JJ NN NN JJ NN|BODY_13|0
+possible numbers|JJ NNS|BODY_3|0
+sl|NN|BODY_33|0
+the o -th order routing strategy|DT RB JJ NN NN NN|BODY_11|0
+their new optimal paths|PRP$ JJ NN NNS|BODY_5:BODY_4|0
+the expected numbe|DT VBN NN|BODY_1|0
+the node n|DT NN NN|BODY_5|0
+let dl|VB NN|BODY_1|0
+6 , 5 , 5 and 4|CD , CD , CD CC CD|BODY_7|0
+a resulting loop l|DT VBG NN NN|BODY_2|0
+a multiorder routing strategy|DT NN NN NN|ABSTRACT_1|0
+most conventional methods|JJS JJ NNS|ABSTRACT_1|0
+most l conventional methods|JJS JJ JJ NNS|BODY_1|0
+ulti-node loops|JJ NNS|BODY_5|0
+table|NN|BODY_7|0
+the following modification|DT VBG NN|BODY_14|0
+( 12 ) */ note|-LRB- CD -RRB- NN NN|BODY_1|0
+comparisons|NNS|BODY_5|0
+let r|VB NN|BODY_1|0
+the corresponding routing strategy|DT JJ JJ NN|BODY_5|0
+ff 4.1|NN CD|BODY_9|0
+looping effects|JJ NNS|BODY_7|0
+v(sb|NN|BODY_7|0
+( 5 )|-LRB- CD -RRB-|BODY_1|0
+formulas|NNS|ABSTRACT_1|0
+ig|NN|BODY_5|0
+( recall|-LRB- NN|BODY_1|0
+( 6 )|-LRB- CD -RRB-|BODY_1|0
+( 7 ) and ( 8 )|-LRB- CD -RRB- CC -LRB- CD -RRB-|BODY_1|0
+several illustrative examples|JJ JJ NNS|ABSTRACT_1|0
+the computational cost|DT JJ NN|BODY_1|0
+using theorem 1 and eq|VBG NN CD CC NN|BODY_1|0

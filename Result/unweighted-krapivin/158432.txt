@@ -1,0 +1,1640 @@
+it|PRP|BODY_12:BODY_11:BODY_22:BODY_42:BODY_13:ABSTRACT_3:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_15:BODY_13:ABSTRACT_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9:ABSTRACT_10|0
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_48:BODY_9|3
+that|WDT|BODY_11:BODY_18:BODY_2:BODY_14:BODY_3:BODY_4:BODY_33:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|0
+the processor|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_17:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+execution|NN|BODY_12:BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the instance|DT NN|BODY_11:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|0
+an instance|DT NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the executing processor|DT VBG NN|BODY_6:BODY_31:BODY_5:BODY_43:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|0
+a processor|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the pipeline|DT NN|BODY_15:BODY_23:BODY_2:BODY_3:BODY_24:BODY_4:BODY_6:BODY_5:BODY_83:BODY_1:BODY_19:BODY_7:BODY_8|0
+no entries|DT NNS|BODY_11:BODY_22:BODY_42:BODY_67:BODY_66:BODY_2:BODY_4:BODY_47:BODY_6:BODY_31:BODY_7:BODY_8:BODY_48:BODY_9|0
+the contour|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+control|NN|BODY_5:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the contour model|DT NN NN|BODY_46:BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_8|0
+the algorithm|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_14:BODY_7:BODY_8|0
+the semantics|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_51|0
+a task type|DT NN NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+ada|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+the interpreter|DT NN|BODY_2:BODY_1:BODY_3|0
+the value|DT NN|BODY_33:BODY_5:BODY_2:BODY_1:BODY_4:BODY_8|0
+\pi|NNS|BODY_33:BODY_5:BODY_40:BODY_22:BODY_16:BODY_17:BODY_15:BODY_21:BODY_26:BODY_75:BODY_30:BODY_8|0
+the task instance|DT NN NN|BODY_32:BODY_6:BODY_21:BODY_25:BODY_2:BODY_24:BODY_14:BODY_19:BODY_4:BODY_29:BODY_7:BODY_9|0
+the declaration array|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+my num|PRP$ NN|BODY_35:BODY_59:BODY_16:BODY_17:BODY_26:BODY_2:BODY_19:BODY_4:BODY_7|0
+primes|NNS|BODY_11:BODY_5:BODY_22:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+new chkr|JJ NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_10:BODY_8|0
+chk|VBP|BODY_12:BODY_18:BODY_13:BODY_23:BODY_26:BODY_2:BODY_14:BODY_24:BODY_73:BODY_4:BODY_33:BODY_5:BODY_34:BODY_53:BODY_7|0
+the|DT|BODY_6:BODY_5:BODY_1:BODY_4|0
+a task instance|DT NN NN|BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+ada tasking|NN NN|BODY_47:BODY_6:BODY_5:ABSTRACT_4:BODY_52:TITLE_2:ABSTRACT_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7|0
+instructions|NNS|BODY_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+instruction|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+tasks|NNS|BODY_6:BODY_5:ABSTRACT_11:BODY_14:BODY_10:BODY_7:BODY_9|0
+a task|DT NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+a rendezvous|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+a program|DT NN|BODY_5:ABSTRACT_6:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|0
+the model|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the task|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_14:BODY_4:BODY_7|0
+fdr-1|NN|BODY_81:BODY_32:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_8|0
+fdr|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_20|0
+part|NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+a select statement|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+relative primeness|JJ NN|BODY_11:BODY_3:BODY_14:BODY_7:BODY_9|0
+pri-1|NN|BODY_6:BODY_39:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the execution|DT NN|BODY_5:BODY_2:BODY_3|0
+the body|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+instances|NNS|BODY_11:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+task instances|NN NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+statements|NNS|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+processor fdr-1|NN NN|BODY_12:BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+information|NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the data|DT NNS|BODY_2:BODY_3:BODY_4|0
+they|PRP|BODY_6:BODY_5:BODY_3:BODY_4|1
+them|PRP|BODY_11:BODY_5:BODY_3:BODY_4|0
+processor chkr-1|NN NN|BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_4|0
+the entry|DT NN|BODY_6:BODY_5:BODY_4:BODY_7:BODY_8|0
+one|CD|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4:BODY_8|0
+chkr-2|NN|BODY_69:BODY_25:BODY_3:BODY_4:BODY_8:BODY_9|0
+4|CD|BODY_63:BODY_27:BODY_2:BODY_1:BODY_14:BODY_19|0
+us|PRP|BODY_6:BODY_2|0
+the program|DT NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the parent|DT NN|BODY_6:BODY_5:BODY_1:BODY_14:BODY_4|0
+the new processor|DT JJ NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_4|0
+there|EX|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+a series|DT NN|BODY_2:BODY_4:BODY_9|0
+its parent|PRP$ NN|BODY_6:BODY_4:BODY_8|0
+the state|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the rendezvous|DT NN|BODY_6:BODY_12:BODY_5:BODY_34:BODY_1:BODY_10:BODY_7|0
+chkr-1|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+contours|NNS|BODY_6:BODY_5:BODY_3|0
+the scope units|DT NN NNS|BODY_6:BODY_5:BODY_2:BODY_4|0
+the select statement|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+type chkr|NN NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+the new contour|DT JJ NN|BODY_32:BODY_6:BODY_5:BODY_15:BODY_3:BODY_10:BODY_7|0
+front|NN|BODY_16:BODY_1:BODY_3:BODY_4:BODY_9|0
+the data array|DT NNS NN|BODY_6:BODY_1:BODY_4|0
+the record|DT NN|BODY_5:BODY_2:BODY_1|0
+i|NN|BODY_6:BODY_2:BODY_7:BODY_8|0
+alternative|NN|BODY_6:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+the snapshot|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the collection|DT NN|BODY_5:BODY_17:BODY_1:BODY_4:BODY_7:BODY_8|0
+the expression stack|DT NN NN|BODY_6:BODY_5:BODY_42:BODY_4:BODY_7|0
+use|NN|BODY_2:BODY_3|0
+the definitions|DT NNS|BODY_12:BODY_3:BODY_7|0
+integer )|NN -RRB-|BODY_33:BODY_37:BODY_4:BODY_9|1
+chkr ptr|NN NN|BODY_6:BODY_17:BODY_2:BODY_3:BODY_8:BODY_30|0
+make chkr|NN NN|BODY_5:BODY_13:BODY_2:BODY_3:BODY_4|0
+the call|DT NN|BODY_5:BODY_3:BODY_4|0
+'s model|POS NN|BODY_2:BODY_4:BODY_7|0
+the task type|DT NN NN|BODY_3:BODY_38:BODY_4:BODY_7:BODY_8|0
+%ret|NN|BODY_5:BODY_3:BODY_7:BODY_9|0
+u|PRP|BODY_14:BODY_3:BODY_4:BODY_8:BODY_20|0
+entries|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|0
+the environment pointer|DT NN NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+figures|NNS|BODY_5:BODY_1:BODY_2|0
+the task information block|DT NN NN NN|BODY_31:BODY_2:BODY_1:BODY_9|0
+our model|PRP$ NN|BODY_1:BODY_2:BODY_4|0
+the row|DT NN|BODY_2|0
+johnston|NNP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the values|DT NNS|BODY_11:BODY_1:BODY_8|0
+a scope unit|DT NN NN|BODY_2:BODY_1|0
+the lifetime|DT NN|BODY_2:BODY_7:BODY_8|0
+snapshots|NNS|BODY_5:BODY_2|0
+:1|CD|BODY_15:BODY_4:BODY_9|0
+processor chkr-1 executes instructions|NN NN NNS NNS|BODY_18:BODY_24:BODY_37|0
+tasking|NN|BODY_5:BODY_2:BODY_4:BODY_9|0
+num|NN|BODY_12:BODY_16:BODY_13:BODY_2:BODY_3|0
+the entry queue|DT NN NN|BODY_2:BODY_3:BODY_4|0
+termination|NN|BODY_22:BODY_2:BODY_3:BODY_4|0
+algorithm contour|NN NN|BODY_5:BODY_18:BODY_24|0
+its dependents|PRP$ NNS|BODY_6:BODY_12:BODY_5:BODY_4|0
+the local data|DT JJ NNS|BODY_6:BODY_5:BODY_10:BODY_9|0
+figure 1|NN CD|BODY_17:BODY_2:BODY_4|0
+a call|DT NN|BODY_6:BODY_5:BODY_4|0
+the label|DT NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+processor fdr-1 executes instruction|NN NN NNS NN|BODY_19:BODY_29:BODY_20|0
+integer|NN|BODY_28:BODY_19:BODY_10:BODY_7|0
+processors|NNS|BODY_11:BODY_1:BODY_8:BODY_9|0
+a programmer|DT NN|BODY_5|0
+the level|DT NN|BODY_2:BODY_3|0
+ready|JJ|BODY_68:BODY_49:BODY_10:BODY_9|0
+the parameter values|DT NN NNS|BODY_6:BODY_5:BODY_3:BODY_9|0
+the alrm|DT NN|BODY_1:BODY_7|0
+this paper|DT NN|BODY_6:BODY_1:BODY_4:BODY_7|0
+identifiers|NNS|BODY_6:BODY_4|0
+chkr chkr|JJ JJ|BODY_2:BODY_14|0
+an accept statement|DT VB NN|BODY_6:BODY_5:BODY_3:BODY_8|0
+a collection|DT NN|BODY_2:BODY_10:BODY_4|0
+task|NN|BODY_12:BODY_10:BODY_7:BODY_9|0
+code|NN|BODY_4:BODY_9|0
+the dependents|DT NNS|BODY_1:BODY_4|0
+the contours|DT NNS|BODY_1:BODY_3:BODY_8|0
+the presence|DT NN|BODY_12:BODY_2:BODY_4|0
+calls|NNS|BODY_6:BODY_3:BODY_7|0
+the select instruction|DT JJ NN|BODY_1:BODY_3:BODY_4|0
+formal parameter declarations|JJ NN NNS|BODY_2|0
+the blocked-waiting codes|DT NN NNS|BODY_2|0
+the processors pri-1 or fdr-1|DT NNS NN CC NN|BODY_2|0
+the return|DT NN|BODY_2|0
+each processor|DT NN|BODY_6:BODY_2:BODY_1|0
+the computation|DT NN|BODY_12:BODY_5:BODY_11:BODY_8|0
+the cell|DT NN|BODY_6:BODY_4:BODY_8|0
+the name|DT NN|BODY_3|0
+labels|NNS|BODY_2|0
+the algorithm contour|DT NN NN|BODY_6:BODY_5:BODY_17:BODY_1:BODY_3|0
+the task information blocks|DT NN NN NNS|BODY_16:BODY_1:BODY_14|0
+the referencing environment|DT VBG NN|BODY_2:BODY_1:BODY_4|0
+the caller|DT NN|BODY_11:BODY_2:BODY_10|0
+our contour model|PRP$ NN NN|BODY_46:BODY_1:BODY_3|0
+the effect|DT NN|BODY_2|0
+the new task instance|DT JJ NN NN|BODY_6:BODY_2:BODY_8|0
+the sequence|DT NN|BODY_5:BODY_3:BODY_4|0
+future work|JJ NN|BODY_2:BODY_3|1
+3|CD|BODY_12:BODY_2:BODY_1:BODY_4:BODY_7|0
+relationships|NNS|ABSTRACT_8:BODY_2:BODY_3|0
+c4|CD|BODY_41:BODY_31:BODY_20|0
+the declarations|DT NNS|BODY_2:BODY_7|0
+a reference|DT NN|BODY_11:BODY_4:BODY_8|0
+icons|NNS|BODY_5:BODY_2|0
+executing instructions|VBG NNS|BODY_4:BODY_8|0
+the information|DT NN|BODY_12:BODY_7|0
+the loop parameter|DT NN NN|BODY_6:BODY_3|0
+the new instance|DT JJ NN|BODY_6:BODY_2:BODY_9|0
+its next synchronization point|PRP$ JJ NN NN|BODY_6:BODY_2|0
+the protocol|DT NN|BODY_1:BODY_3|0
+the base contour|DT NN NN|BODY_2:BODY_3:BODY_4|0
+num:hi fget num|DT NN NN|BODY_33:BODY_12:BODY_52:BODY_17:BODY_25|0
+the scope|DT NN|BODY_6:BODY_13:BODY_4|0
+the task allocator|DT NN NN|BODY_2:BODY_4:BODY_7|0
+% x|NN NN|BODY_34:BODY_3|0
+inputs|NNS|BODY_6|0
+an algorithm|DT NN|BODY_2:BODY_9|0
+processor fdr-1 executes instructions|NN NN NNS NNS|BODY_43:BODY_27|0
+the effects|DT NNS|BODY_6:BODY_11|0
+an implementation|DT NN|BODY_1:BODY_2:BODY_4|0
+the innermost enclosing contour|DT JJ NN NN|BODY_6|0
+a passable|DT NN|BODY_2:BODY_3|0
+the entry queues|DT NN NNS|BODY_13:BODY_1:BODY_7|0
+information blocks|NN NNS|BODY_12:BODY_7:BODY_8|0
+procedures|NNS|BODY_6:BODY_3|0
+an automated interpreter|DT JJ NN|BODY_2:BODY_1|0
+other instances|JJ NNS|BODY_5:BODY_7|0
+all|DT|BODY_11:BODY_2:BODY_3:BODY_4|0
+e .g.|NN NNP|BODY_4:BODY_8|0
+a completed label|DT VBN NN|BODY_5:BODY_4|0
+int|NN|BODY_22:BODY_8|0
+each instance|DT NN|BODY_1:BODY_4|0
+the chkr task instances|DT NN NN NNS|BODY_2:BODY_4|0
+example|NN|BODY_1|0
+the access type|DT NN NN|BODY_5|0
+my num \pi com |PRP$ NN NNP NN|BODY_21:BODY_79|0
+copies|NNS|BODY_5:BODY_8|0
+those alternatives|DT NNS|BODY_6:BODY_9|0
+a nonterminating program|DT JJ NN|BODY_2|0
+axiomatic or denotational techniques|JJ CC JJ NNS|BODY_2|0
+lack concreteness|NN NN|BODY_2|0
+language imple|NN NN|BODY_4|0
+the shortcomings|DT NNS|BODY_4|0
+true|JJ|BODY_4|0
+the actual parameters|DT JJ NNS|BODY_3:BODY_7|0
+transfers control|NNS NN|BODY_11:BODY_7|0
+the basis|DT NN|BODY_45:BODY_2|0
+the use|DT NN|BODY_5:BODY_1:ABSTRACT_1|0
+the result|DT NN|BODY_2|0
+section 6|NN CD|BODY_6:BODY_5:BODY_10|0
+null front chkr ptr chkr|JJ JJ NN NN NN|BODY_15:BODY_14|0
+2|CD|BODY_1:BODY_4:BODY_8|0
+fg front|JJ JJ|BODY_35:BODY_27:BODY_54|0
+a new chkr task|DT JJ NN NN|BODY_6:BODY_12:BODY_8|0
+described|VBN|BODY_3|0
+no accept alternative|DT VB JJ|BODY_3|0
+stack-based implementation models|JJ NN NNS|BODY_2|0
+their select instructions block|PRP$ JJ NNS NN|BODY_2|0
+the master|DT NN|BODY_5:BODY_2|0
+the execution contour|DT NN NN|BODY_12:BODY_3|0
+an execution contour|DT NN NN|BODY_3:BODY_7|0
+the creation|DT NN|BODY_3:BODY_10|0
+procedure|NN|BODY_6:BODY_5|0
+a terminate alternative|DT VBP NN|BODY_7:BODY_8|0
+this time|DT NN|BODY_13:BODY_1|0
+references|NNS|BODY_2:BODY_38|0
+the tasking semantics|DT NN NNS|BODY_6:ABSTRACT_5:BODY_7|0
+exception handling|NN NN|BODY_5:BODY_9|0
+abstraction|NN|BODY_4:BODY_7|0
+the accept statement|DT VBP NN|BODY_6:BODY_4|0
+chkr|NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8|0
+a block|DT NN|BODY_4:BODY_7|0
+ada language text books|NN NN NN NNS|BODY_2|0
+at least one|IN JJS CD|BODY_6|0
+activating|VBG|BODY_6:BODY_10:BODY_4|0
+the next two sections|DT JJ CD NNS|BODY_1:BODY_7|0
+the relative primeness check|DT JJ NN NN|BODY_2:BODY_3|0
+the procedure|DT NN|BODY_5:BODY_1:BODY_3:BODY_8|0
+the initialization|DT NN|BODY_5:BODY_8|0
+some open alternative|DT JJ NN|BODY_4|0
+an open terminate alternative|DT JJ VBP NN|BODY_13:BODY_10|0
+ada issues|NN NNS|BODY_2|0
+an instance i|DT NN NN|BODY_2:BODY_4|0
+the dependency hierarchy|DT NN NN|BODY_5|0
+a record|DT NN|BODY_5:BODY_2|0
+the original contour model|DT JJ NN NN|BODY_2|0
+10|CD|BODY_6:BODY_11:BODY_5|0
+processor pri-1 executes instructions|NN NN NNS NNS|BODY_28:BODY_17|0
+the top level procedure|DT JJ NN NN|BODY_2:BODY_7|0
+the input value|DT NN NN|BODY_5|0
+a tasking debugger [8|DT NN NN NNS|BODY_4|0
+values|NNS|BODY_33:BODY_2|0
+a new processor|DT JJ NN|BODY_1:BODY_3:BODY_4|0
+a deeper understanding|DT JJR NN|BODY_6:ABSTRACT_4:BODY_4|0
+the elaborate instruction p2|DT JJ NN NN|BODY_1:BODY_3:BODY_7|0
+rendezvous|NN|BODY_5:BODY_30|0
+the guards|DT NNS|BODY_5:BODY_3|0
+the set|DT NN|BODY_2:BODY_4|0
+the contour for-1|DT NN JJ|BODY_3:BODY_30|0
+a brief overview|DT JJ NN|BODY_2|0
+then 5|RB CD|BODY_64:BODY_4|0
+'s base contour|POS NN NN|BODY_11:BODY_4|0
+'s contour model|POS NN NN|BODY_2:BODY_3:BODY_8|0
+the ada semantics|DT NN NNS|BODY_2:BODY_1|0
+a description|DT NN|BODY_5|0
+other tasks|JJ NNS|BODY_1:BODY_8|0
+this document|DT NN|BODY_2|0
+the first stage|DT JJ NN|BODY_5:BODY_3|0
+a visual execution model|DT JJ NN NN|TITLE_1:BODY_2:BODY_3:ABSTRACT_1|0
+the activating|DT NN|BODY_4|0
+the checks|DT NNS|BODY_6|0
+the relationship|DT NN|BODY_11|0
+an|DT|BODY_6:BODY_1|0
+the inadequacy|DT NN|BODY_8|0
+a direct master|DT JJ NN|BODY_2:BODY_3|0
+alrm ) [21]|NN -RRB- NN|BODY_2|0
+the program names|DT NN NNS|BODY_2|0
+the instruction pointer and environment pointer|DT NN NN CC NN NN|BODY_5:BODY_4:BODY_7|0
+this terminology|DT NN|BODY_11|1
+\pi run|NN NN|BODY_10:BODY_4|0
+chkr(2,front )|NN -RRB-|BODY_2|0
+the proc|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the run-time stack|DT NN NN|BODY_6:BODY_5|0
+null front chkr ptr chkr fdr |JJ JJ NN NN NN IN|BODY_6:BODY_34:BODY_13:BODY_25:BODY_24:BODY_3|0
+the language|DT NN|BODY_4|0
+their mathematical properties|PRP$ JJ NNS|BODY_2|0
+:1 transfers|CD NNS|BODY_5|0
+all instances|DT NNS|BODY_5:BODY_8|0
+'s local data|POS JJ NNS|BODY_5:BODY_7|0
+their components|PRP$ NNS|BODY_6|0
+num:hi chkr-2|JJ NN|BODY_30:BODY_8|0
+group language|NN NN|BODY_2|0
+other information structure models|JJ NN NN NNS|BODY_2|0
+the formal parameters|DT JJ NNS|BODY_4:BODY_8|0
+this normal progression|DT JJ NN|BODY_2|0
+axiomatic semantics|JJ NNS|BODY_5|0
+program|NN|BODY_1:BODY_3|0
+a pair|DT NN|BODY_2|0
+packages|NNS|BODY_3:BODY_8|0
+an entry|DT NN|BODY_1:BODY_4|0
+the results|DT NNS|BODY_2|0
+sor|NN|BODY_17|0
+memory|NN|BODY_5|0
+presentation obscures subtleties|NN NNS NNS|BODY_2|0
+another check|DT VB|BODY_15|0
+an initial snapshot make chkr|DT JJ NN NN NN|BODY_8|0
+max|NN|BODY_3:BODY_8|0
+the static link|DT JJ NN|BODY_2|0
+snapshot 2|NN CD|BODY_16:BODY_1|0
+chkr-3 ready|JJ JJ|BODY_70:BODY_51|0
+these definitions|DT NNS|BODY_7|0
+the conditions|DT NNS|BODY_5:BODY_8|0
+the processor chkr-1|DT NN NN|BODY_2|0
+the sacc blocked-waiting code and associates|DT JJ NN NN CC NNS|BODY_2|0
+blocks|NNS|BODY_5:BODY_3|0
+a computation|DT NN|BODY_8:BODY_9|0
+informal explanation|JJ NN|BODY_11|0
+a storage cell|DT NN NN|BODY_2|0
+the nesting|DT NN|BODY_5:BODY_1:BODY_3|0
+programs|NNS|BODY_6:BODY_3|0
+selective acceptance|JJ NN|BODY_13|0
+threads|NNS|ABSTRACT_6:BODY_3|0
+a task instance progresses|DT NN NN NNS|BODY_2|0
+the notion|DT NN|BODY_2:BODY_3|0
+its computation|PRP$ NN|BODY_12:BODY_6:BODY_3|0
+any open alternative|DT JJ NN|BODY_3|0
+asynchronous tasks|JJ NNS|ABSTRACT_5:BODY_2|0
+which point|WDT NN|BODY_4:BODY_7|0
+a particular execution|DT JJ NN|BODY_47:BODY_8|0
+pri-1.front \pi run|JJ NNP VBP|BODY_27:BODY_15|0
+its creation|PRP$ NN|BODY_2|0
+additional information|JJ NN|BODY_2|0
+its attributes ( e .g.|PRP$ NNS -LRB- NN NN|BODY_4|0
+many|JJ|BODY_3|0
+the trivial program|DT JJ NN|BODY_3|0
+variations|NNS|BODY_3|0
+progress|NN|BODY_11:BODY_3|0
+the statements|DT NNS|BODY_2:BODY_4|0
+a single object|DT JJ NN|BODY_4|0
+my num chkr-2 \pi|PRP$ NN JJ NNP|BODY_16:BODY_57:BODY_76|0
+initial values|JJ NNS|BODY_8|0
+f5|CD|BODY_5|0
+the second component|DT JJ NN|BODY_13|0
+the prime number|DT JJ NN|BODY_16:BODY_3|0
+this|DT|BODY_1|0
+instructions m5 , m6|NNS CD , CD|BODY_9|0
+)|-RRB-|BODY_5|0
+chkr-1 , chkr-3 and chkr-4|JJ , JJ CC NN|BODY_23:BODY_3|1
+the elaborate instruction c2|DT JJ NN NN|BODY_5|0
+its next machine cycle|PRP$ JJ NN NN|BODY_5:BODY_1|0
+the check|DT NN|BODY_12:BODY_2|0
+a procedure|DT NN|BODY_5:BODY_10|0
+c5 :0|POS NN|BODY_42:BODY_3|0
+its state|PRP$ NN|BODY_6:BODY_5:BODY_2|0
+the references|DT NNS|BODY_3|0
+a new instance|DT JJ NN|BODY_11:BODY_4|0
+snapshot 3|NN CD|BODY_15:BODY_1|0
+section 3|NN CD|BODY_8:BODY_9|0
+its get num entry|PRP$ VBP NN NN|BODY_5:BODY_7|0
+the end|DT NN|BODY_5:BODY_9|0
+a new contour|DT JJ NN|BODY_2:BODY_3|0
+fg front chkr ptr chkr fdr |VBG JJ NN NN NN NN|BODY_15:BODY_14:BODY_19|0
+chk it(val|NN NN|BODY_36:BODY_3|0
+the processors fdr-1 and chkr-1|DT NNS NN CC NN|BODY_4|0
+new val|JJ NN|BODY_27:BODY_9|0
+storage cells|NN NNS|BODY_1:BODY_3|0
+the global environment|DT JJ NN|BODY_3:BODY_4|0
+[10]|NNP|BODY_3|0
+a more tutorial format|DT JJR JJ NN|BODY_5|0
+5|CD|BODY_27:BODY_1|0
+\pi com|NNP NN|BODY_60:BODY_20|0
+prime numbers|JJ NNS|BODY_3|0
+task types|NN NNS|BODY_12:BODY_1:BODY_4|0
+@ @r f|RB JJ NN|BODY_12:BODY_11|0
+abnormal|JJ|BODY_5:BODY_3|0
+requests|NNS|BODY_4|0
+the discussion|DT NN|BODY_5:BODY_4|0
+term|NN|BODY_3|0
+only three processor states|RB CD NN NNS|BODY_3|0
+the case|DT NN|BODY_1:BODY_3|0
+num(num:|NNS|BODY_32:BODY_8|1
+'s activation|POS NN|BODY_11:BODY_7|0
+the conventions|DT NNS|BODY_1:BODY_3|0
+deallocation|NN|BODY_16:BODY_8|0
+the activation|DT NN|BODY_5:BODY_3|0
+new pri|JJ NN|BODY_15:BODY_9|0
+a data array|DT NN NN|BODY_6:BODY_4|0
+entry queues|NN NNS|BODY_2:BODY_4|0
+execution contours|NN NNS|BODY_2:BODY_3|0
+capabilities|NNS|BODY_2|0
+the sense|DT NN|BODY_2|0
+show|NN|BODY_2|0
+the example|DT NN|BODY_34:BODY_1:BODY_3|0
+the hundreds|DT NNS|BODY_3|0
+the states|DT NNS|BODY_4|0
+those|DT|BODY_3|0
+scope units|NN NNS|BODY_2:BODY_4|0
+elaboration|NN|BODY_1:BODY_7|0
+the paper|DT NN|BODY_3:ABSTRACT_1|0
+a completed instance|DT VBD NN|BODY_1|0
+any further processing|DT JJ NN|BODY_2|0
+connecting instruction boxes|VBG NN NNS|BODY_1|0
+control flow|NN NN|BODY_2|0
+chkr(new pri|JJ NN|BODY_6:BODY_9|0
+the bottom|DT NN|BODY_4|0
+the static chain|DT JJ NN|BODY_6:BODY_1|0
+a|DT|BODY_1:BODY_7:BODY_8|0
+temporary storage|JJ NN|BODY_9|0
+each contour|DT NN|BODY_1:BODY_2|0
+the definitive reference|DT JJ NN|BODY_3|0
+notational conventions|JJ NNS|BODY_2|0
+max activation elaborate task|NN NN JJ NN|BODY_3|0
+their visual clarity|PRP$ JJ NN|BODY_3|0
+direct dependences|JJ NNS|BODY_8|0
+the variable max|DT JJ NN|BODY_4|0
+a paper|DT NN|BODY_4|0
+this notice|DT NN|BODY_3|0
+these rules|DT NNS|BODY_3|0
+\pi com \pi|NNS IN NNS|BODY_35:BODY_14|0
+%fdr|NN|BODY_5:BODY_3|0
+arguments|NNS|BODY_3|0
+programming language|NN NN|BODY_4|0
+the numbers|DT NNS|BODY_3|0
+instance|NN|BODY_8:BODY_9|0
+a request|DT NN|BODY_14|0
+the first input value|DT JJ NN NN|BODY_3|0
+deallocates|NNS|BODY_2|0
+different algorithms|JJ NNS|BODY_12|0
+an enter instruction|DT VB NN|BODY_12:BODY_2|0
+this section|DT NN|BODY_3|0
+three local data objects|CD JJ NNS NNS|BODY_2|0
+unblocking|JJ|BODY_5|0
+the interaction|DT NN|BODY_3|0
+[5]|NN|BODY_3|0
+:0|NN|BODY_6:BODY_14|0
+the select-waiting set|DT JJ NN|BODY_2:BODY_1|0
+languages [17]|NNS NNS|BODY_10|0
+a textbook|DT NN|BODY_3|0
+this point|DT NN|BODY_1:BODY_3|0
+components|NNS|BODY_5|0
+the major tasking fea|DT JJ NN NN|BODY_6|0
+some instance|DT NN|BODY_3|0
+no entries ecall|DT NNS NN|BODY_12:BODY_23|0
+real-time applications|NN NNS|BODY_4|0
+the ada programming language|DT NN NN NN|BODY_2|0
+the ada select statement|DT NN JJ NN|BODY_6|0
+the dependency diagram|DT NN NN|BODY_5:BODY_10|0
+the beginning|DT NN|BODY_7|0
+neither|DT|BODY_6|0
+the procedure call instruction|DT NN NN NN|BODY_2|0
+a natural interface|DT JJ NN|BODY_3|0
+com|NN|BODY_2|0
+my num chkr-3 \pi|PRP$ NN JJ NNP|BODY_58:BODY_77|0
+type chkr ptr|NN NN NN|BODY_6|0
+num:hi chkr-3|JJ NN|BODY_31:BODY_10|0
+its referencing environment|PRP$ NN NN|BODY_7|0
+the primes example|DT NNS NN|BODY_29|0
+( bottom left box )|-LRB- NN NN NN -RRB-|BODY_7|0
+a visual semantics|DT JJ NNS|BODY_3|0
+data structure diagrams|NNS NN NNS|BODY_2|0
+out chkr ptr )|RP NN NN -RRB-|BODY_12:BODY_9|0
+attest|NN|BODY_7|0
+c2|NNS|BODY_40:BODY_19|0
+int ctr int ecall|NN NN NN NN|BODY_23|0
+the root instance|DT NN NN|BODY_6:BODY_5|0
+our attention|PRP$ NN|BODY_3|0
+the execution status|DT NN NN|BODY_5|0
+a given program|DT VBN NN|BODY_4|0
+the pipeline checks|DT NN NNS|BODY_6|1
+middle box )|JJ NN -RRB-|BODY_9|0
+the current value|DT JJ NN|BODY_2|0
+the designated alternatives|DT VBN NNS|BODY_34|0
+ordered lists|VBN NNS|BODY_2|0
+all copies|DT NNS|BODY_4|0
+task information|NN NN|BODY_10|0
+a child|DT NN|BODY_9|0
+the compare instruction|DT NN NN|BODY_4|0
+call|NN|BODY_20|0
+new pri ecall new chkr.get num|JJ NN NN JJ NN NN|BODY_4|0
+these concepts|DT NNS|BODY_2|0
+nxt chkr|JJ NN|BODY_5|0
+p2 task fdr|DT NN NN|BODY_5|1
+his generous advice|PRP$ JJ NN|BODY_4|0
+driven|VBN|BODY_2|0
+the programmer|DT NN|BODY_7|0
+p1 procedure primes|JJ NN NNS|BODY_4|1
+clarifications|NNS|BODY_5|0
+my num:=num rend exit num int|PRP$ NN NN NN NN IN|BODY_18|0
+[13]|VBG|BODY_5|0
+the referencing environments|DT VBG NNS|BODY_3|0
+the concepts|DT NNS|BODY_5|0
+the meanings|DT NNS|BODY_31|0
+entry names|NN NNS|BODY_5:BODY_3|0
+6|CD|BODY_6:BODY_1|0
+its select instruction|PRP$ JJ NN|BODY_26:BODY_7|1
+thoughtful reviews|JJ NNS|BODY_5|0
+its parent , initiating and completing rendezvous|PRP$ NN , NN CC VBG NN|BODY_12|0
+all ada language features|DT NN NN NNS|BODY_4|0
+first pushes|JJ NNS|BODY_2|0
+the ecall instruction|DT NN NN|BODY_2|0
+the declared object|DT VBN NN|BODY_4|0
+box )|NN -RRB-|BODY_6|0
+the steps|DT NNS|BODY_3|0
+an expression stack|DT NN NN|BODY_8|0
+processor pri-1 executes instruction|NN NN NNS NN|BODY_16|0
+\pi com fdr-110ctr |NNP NN NN|BODY_16:BODY_29|0
+units|NNS|BODY_4|0
+terminating|NN|BODY_12:BODY_3|0
+the visual utility|DT JJ NN|BODY_8|0
+the last|DT JJ|BODY_1:BODY_2|0
+blocked-waiting codes|NN NNS|BODY_36|0
+nxt chkr /= null|NN NN NN NN|BODY_39|0
+block-structured languages|JJ NNS|BODY_5:BODY_3|0
+the primes program|DT NNS NN|BODY_7|0
+an elaborate instruction|DT JJ NN|BODY_2:BODY_1|0
+this master|DT NN|BODY_8|0
+the termination|DT NN|BODY_6|0
+f6 :1|CD CD|BODY_45|0
+sequences|NNS|BODY_5|0
+block|NN|BODY_9|0
+my num int int|PRP$ NN IN IN|BODY_19|0
+access chkr|NN NN|BODY_7|0
+little help|JJ NN|BODY_4|0
+objects|NNS|BODY_7|0
+their select instructions|PRP$ JJ NNS|BODY_24:BODY_3|0
+1|CD|BODY_6:BODY_1|0
+enter|VBP|BODY_11:BODY_2|0
+block statements|NN NNS|BODY_8|0
+num 3|NN CD|BODY_10|1
+distributed termination|VBN NN|BODY_7|0
+the model [5|DT NN CD|BODY_4|0
+other calls|JJ NNS|BODY_8|0
+figure 2|NN CD|BODY_4|0
+changes|NNS|BODY_2|0
+ctr|NN|BODY_22|0
+p4 entry|DT NN|BODY_7|1
+figure 4|NN CD|BODY_30|0
+open figure 5|JJ NN CD|BODY_35|0
+new value|JJ NN|BODY_40|0
+intermediate values|JJ NNS|BODY_10|0
+the global referencing environment|DT JJ NN NN|BODY_6|0
+the overview|DT NN|BODY_6|0
+no caller|DT NN|BODY_2|0
+p8 procedure|DT NN|BODY_8|0
+creation|NN|BODY_2|0
+evaluation|NN|BODY_4|0
+no open alternatives|DT JJ NNS|BODY_3|0
+certain events|JJ NNS|BODY_10|0
+num:hi ready fget num|DT JJ NN NN|BODY_11:BODY_1:BODY_4|0
+its algorithm|PRP$ NN|BODY_12:BODY_5:BODY_9|0
+%fdr)|NN|BODY_10|0
+programmers|NNS|BODY_5:ABSTRACT_3|0
+any passable|DT NNS|BODY_9|0
+the material|DT NN|BODY_7|0
+its next two machine cycles|PRP$ JJ CD NN NNS|BODY_4|0
+its terminate instruction|PRP$ VBP NN|BODY_2|0
+the potential|DT NN|BODY_8|0
+tasking )|NN -RRB-|BODY_10|0
+c8 loop select c10|CD NN JJ CD|BODY_35|0
+no arguments|DT NNS|BODY_2|0
+the type|DT NN|BODY_6:BODY_5:BODY_8|0
+the statement|DT NN|BODY_1:BODY_4|0
+the implementation|DT NN|BODY_4|0
+subtleties|NNS|ABSTRACT_2:BODY_2|0
+@r \gamma\psi|JJ NNS|BODY_7|0
+the first prime f6|DT JJ JJ NNS|BODY_21|0
+a circular configuration|DT JJ NN|BODY_3|0
+directed edges|VBN NNS|BODY_4|0
+its call|PRP$ NN|BODY_27|0
+the complete instruction|DT JJ NN|BODY_2:BODY_10|0
+the selective wait statement|DT JJ NN NN|BODY_7|0
+the active threads|DT JJ NNS|BODY_13:BODY_8|0
+these constructs|DT NNS|BODY_7|0
+both|DT|BODY_1:BODY_4|0
+figure 3|NN CD|BODY_23:BODY_4|0
+pointer|NN|BODY_4|0
+general features|JJ NNS|BODY_3|0
+the declarative part|DT JJ NN|BODY_1:BODY_3|0
+the same program|DT JJ NN|BODY_7|0
+the manner|DT NN|BODY_4:BODY_7:ABSTRACT_12|0
+the usual orderly fashion|DT JJ JJ NN|BODY_2|0
+local constants|JJ NNS|BODY_3|0
+a set|DT NN|BODY_6:BODY_2|0
+the direct master|DT JJ NN|BODY_1:BODY_3|0
+'s instruction pointer|POS NN NN|BODY_11:BODY_10:BODY_9|0
+activates|NNS|BODY_2|0
+several tasks|JJ NNS|BODY_7|0
+such instances|JJ NNS|BODY_2|0
+the progression|DT NN|BODY_7|0
+its own execution contour|PRP$ JJ NN NN|BODY_3|0
+c13 or c17|NN CC NN|BODY_38|0
+their generality|PRP$ NN|BODY_4|0
+p6 end chkr|NN NN NN|BODY_5|0
+the next three machine cycles|DT JJ CD NN NNS|BODY_3:BODY_4|0
+other important aspects|JJ JJ NNS|BODY_3|0
+the main differences|DT JJ NNS|BODY_4|0
+reference purposes|NN NNS|BODY_5|0
+any sequence|DT NN|BODY_2|0
+the example program|DT NN NN|BODY_8|0
+a terminal|DT NN|BODY_44|0
+processor chkr-2 executes instructions|NN JJ NNS NNS|BODY_39|0
+themselves|PRP|BODY_7|0
+sections|NNS|BODY_44|0
+parameter passing|NN NN|BODY_3|0
+the task instances|DT NN NNS|BODY_1:BODY_4|0
+a concurrent task instance|DT JJ NN NN|BODY_4|0
+'s clarifications|POS NNS|BODY_3|0
+snap-shots|NNS|BODY_6|0
+the need|DT NN|BODY_2|0
+proc|NN|BODY_16|0
+its deallocation|PRP$ NN|BODY_3|0
+instruction f6 :0|NN CD NN|BODY_29|0
+the for-loop ,|DT JJ ,|BODY_10|0
+either terminated or|DT VBN CC|BODY_9|0
+17|CD|BODY_37|0
+berry|NN|BODY_2|0
+return label|NN NN|BODY_40|0
+many drafts|JJ NNS|BODY_6|0
+several different phases|JJ JJ NNS|BODY_3|0
+a terminated task|DT VBN NN|BODY_3|0
+any number|DT NN|BODY_4|0
+the contents|DT NNS|BODY_3|0
+the primeness check|DT NN NN|BODY_2|0
+the resulting record|DT VBG NN|BODY_2|0
+num activation elaborate task|NN NN JJ NN|BODY_17|0
+assigns|NNS|BODY_7:BODY_9|0
+instruction m3 :0|NN NNS NN|BODY_2|0
+an abstraction|DT NN|BODY_2|0
+the contour model interpreter|DT NN NN NN|BODY_2|0
+finishing execution|VBG NN|BODY_2|0
+dan berry|NN NN|BODY_3|0
+algorithm contours|NN NNS|BODY_2:BODY_3|0
+front acc|JJ NN|BODY_15|0
+each task instance|DT NN NN|BODY_3|0
+an implicit formal input param|DT JJ JJ NN NN|BODY_5|0
+a 10 to chkr-1|DT CD TO CD|BODY_11|0
+allocate|NN|BODY_2|0
+7|CD|BODY_7|0
+the associated guard and flow|DT JJ NN CC NN|BODY_4|0
+the first column|DT JJ NN|BODY_3|0
+section 5|NN CD|BODY_1:BODY_4|0
+return|NN|BODY_3|0
+the instance blocks|DT NN NNS|BODY_3|0
+the declaration|DT NN|BODY_11:BODY_1|0
+various executions|JJ NNS|BODY_6|0
+a single processor|DT JJ NN|BODY_2|0
+any|DT|BODY_3|0
+completes|NNS|BODY_4|0
+the most difficult|DT RBS JJ|BODY_7|0
+segments|NNS|BODY_8|0
+consistency and complete|NN CC JJ|BODY_6|0
+copyright 1993 c|NN CD NN|BODY_6|0
+describing programs|VBG NNS|BODY_2|0
+operating systems|VBG NNS|BODY_4|0
+the processor sym|DT NN NN|BODY_15|0
+a broken arrow|DT JJ NN|BODY_2|0
+such contours|JJ NNS|BODY_2|0
+no effect|DT NN|BODY_4:BODY_7|0
+a representation|DT NN|BODY_2|0
+an initial snapshot|DT JJ NN|BODY_3|0
+different language features|JJ NN NNS|BODY_4|0
+the allocated tasks|DT VBN NNS|BODY_4|0
+chkr-3 term chkr-2 term pri-1|NN NN NN NN NN|BODY_28|0
+all dependents|DT NNS|BODY_4:BODY_7|0
+the preferred method|DT JJ NN|BODY_3|0
+data|NNS|BODY_6|0
+the left|DT NN|BODY_2|0
+a single version|DT JJ NN|BODY_5|0
+the only processor|DT JJ NN|BODY_2:BODY_3|0
+c9|CD|BODY_26|0
+reverse|NN|BODY_6|0
+a check|DT VB|BODY_13|0
+:1 blocks|CD NNS|BODY_2|0
+positive num|JJ NN|BODY_24|0
+certain tasks|JJ NNS|BODY_6|0
+6 , 7 and 8|CD , CD CC CD|BODY_4|0
+a sleeping master results|DT VBG NN NNS|BODY_5|0
+a precise specification|DT JJ NN|BODY_3|0
+the interplay|DT NN|BODY_6|0
+the johnston|DT NNP|BODY_6|0
+a successor link|DT NN NN|BODY_15:BODY_8|0
+actual parameters|JJ NNS|BODY_12|0
+its chk|PRP$ NN|BODY_11:BODY_8|0
+two main contour diagrams|CD JJ NN NNS|BODY_2|0
+lower-case and program names|JJ CC NN NNS|BODY_3|0
+the remaining stages|DT VBG NNS|BODY_2|0
+( e .g.|-LRB- NN NN|BODY_12|0
+more abstract levels|RBR JJ NNS|BODY_4|0
+return labels|NN NNS|BODY_7|0
+the specification|DT NN|BODY_12:BODY_1|0
+the blocked|DT VBN|BODY_10|0
+an end activation instruction|DT NN NN NN|BODY_2|0
+callers|NNS|BODY_4|0
+more complex tasking programs|RBR JJ NN NNS|BODY_2|0
+therefore the same|RB DT JJ|BODY_4|0
+my num := num|PRP$ NN IN NN|BODY_34|0
+\omega \omega \omega \omega \omega \omega oe hy \phi \phi \phi \phi \phi*chkr-4 term|JJ JJ JJ JJ JJ JJ NN NN NNP NNP NNP NNP NN NN|BODY_27|0
+the associated access type|DT JJ NN NN|BODY_12:BODY_14|0
+a given set|DT VBN NN|BODY_5|0
+no entries ready no entries|DT NNS JJ DT NNS|BODY_29|0
+ready snapshot 1|JJ NN CD|BODY_7|0
+the act|DT NN|BODY_3|0
+an example program|DT NN NN|BODY_4|0
+ptr chkr fdr chkr-2 chkr-3 chkr-4 \pi com|NN NN NN NN NN NNS NN NN|BODY_36|0
+that acm|IN NN|BODY_6|0
+the base|DT NN|BODY_5|0
+four machine cycles|CD NN NNS|BODY_8|0
+manipulation|NN|BODY_4|0
+maximum prime|JJ JJ|BODY_20|0
+the instruction pointer|DT NN NN|BODY_3|0
+the form new tt |DT NN JJ NN|BODY_8|0
+blocked-waiting conditions|JJ NNS|BODY_6|0
+the status|DT NN|BODY_3|0
+simple instruction pointers|NN NN NNS|BODY_3|0
+f8:0|CD|BODY_44|0
+descriptive tags|NN NNS|BODY_28|0
+an unguarded accept alternative|DT JJ VB JJ|BODY_6|0
+the one distinguished branch designates|DT CD JJ NN NNS|BODY_7|0
+each row|DT NN|BODY_5:BODY_1:BODY_7|0
+executing instructions f4|VBG NNS NNS|BODY_4|0
+an empty collection|DT JJ NN|BODY_4|0
+the elaborate instruction|DT JJ NN|BODY_1:BODY_7|0
+act \pi|NN NNS|BODY_11|0
+the activation record|DT NN NN|BODY_4|0
+1-3|JJ|BODY_6|0
+a base contour|DT NN NN|BODY_6:BODY_4|0
+any one|DT CD|BODY_3|0
+the activation and/or execution|DT NN CC NN|BODY_7|0
+a complete instruction|DT JJ NN|BODY_1:BODY_3|0
+the next instruction|DT JJ NN|BODY_13:BODY_1|0
+instruction c1|NN NN|BODY_4|0
+'s contour model and berry|POS NN NN CC NN|BODY_2|0
+the diagrams|DT NNS|BODY_9|0
+pri-1.front snapshot executes instruction|JJ VBD NNS NN|BODY_36|0
+the ecall instruction m4|DT NN NN NNS|BODY_4|0
+an activation record|DT NN NN|BODY_4|0
+four phases|CD NNS|BODY_3|0
+more common stack-based execution models|RBR JJ JJ NN NNS|BODY_5|0
+fdr-110ctr \pi|NN NNP|BODY_56|0
+rigorous mathematical notations results|JJ JJ NNS NNS|BODY_2|0
+the absence|DT NN|BODY_2|0
+actual output parameters|JJ NN NNS|BODY_39|0
+section 4|NN CD|BODY_4|0
+pri-1 associates|JJ NNS|BODY_2|0
+first 4|JJ CD|BODY_3|0
+their relationship|PRP$ NN|BODY_8|0
+the flexibility and control|DT NN CC NN|BODY_3|0
+the data arrays|DT NNS NNS|BODY_6|0
+an anonymous task type|DT JJ NN NN|BODY_3|0
+a select-waiting set|DT JJ NN|BODY_3|0
+m5 , m6 , f6 :0 , f6 :1|CD , CD , CD NN , CD CD|BODY_28|0
+( top|-LRB- NN|BODY_5|0
+the motivation|DT NN|BODY_10|0
+m1 parameters|CD NNS|BODY_37|0
+chkr tag|NN NN|BODY_25|0
+explicit rules|JJ NNS|BODY_3|0
+global data|JJ NNS|BODY_4|0
+the rows|DT NNS|BODY_4|0
+results|NNS|BODY_9|0
+14|CD|BODY_61|0
+true:c14 loop rend|NN NN NN|BODY_15|0
+nuances|NNS|BODY_11|0
+individual storage cells|JJ NN NNS|BODY_5|0
+the same program and set|DT JJ NN CC NN|BODY_5|0
+binding|NN|BODY_5|0
+a program unit|DT NN NN|BODY_3|0
+the contour name|DT NN NN|BODY_9|0
+a simple interpreter|DT JJ NN|BODY_4|0
+synchronization and communication|NN CC NN|BODY_4|0
+procedure values|NN NNS|BODY_3|0
+higher-level instructions|JJ NNS|BODY_2|0
+section|NN|BODY_6:BODY_4|1
+instruction f4|NN NNS|BODY_2|0
+contour model instructions|NN NN NNS|BODY_2|0
+ptr chkr|NN NN|BODY_55|0
+an execution status|DT NN NN|BODY_13|0
+actual input|JJ NN|BODY_5|0
+reclaiming storage|JJ NN|BODY_4|0
+the dependencies diagram|DT NNS NN|BODY_13|0
+a higher level|DT JJR NN|BODY_6|0
+\omega \omega \omega \omega oe hy \phi \phi \phi \phi \phi*chkr-4 chkr-3 chkr-2 pri-1 com|JJ JJ JJ JJ NN NN NNP NNP NNP NNP NN NN NN NN NN|BODY_5|0
+an environment pointer|DT NN NN|BODY_6|0
+( p1 , p2 , etc. )|-LRB- NNS , NNS , FW -RRB-|BODY_2|0
+fdr @|JJ NN|BODY_6|0
+all chkr task instances|DT NN NN NNS|BODY_38|0
+interaction|NN|BODY_9|0
+software practitioners|NN NNS|BODY_3|0
+a model|DT NN|BODY_4|0
+alternative or a terminate alternative|JJ CC DT VBP JJ|BODY_2|0
+a select/accept statement|DT JJ NN|BODY_33|0
+object acc access object atype access type int integer lab label proc procedure ttype task type|NN JJ NN NN JJ NN NN IN NN NN NN NN NN NN NN NN|BODY_26|0
+an instance issues|DT NN NNS|BODY_2|0
+input and output|NN CC NN|BODY_4|0
+processor symbols|NN NNS|BODY_7|0
+c8|NNS|BODY_25|0
+the selective wait alternatives|DT JJ NN NNS|BODY_2|0
+the full generality|DT JJ NN|BODY_4|0
+a processor corresponds|DT NN NNS|BODY_3|0
+consistency|NN|BODY_5|0
+the major tasking features|DT JJ VBG NNS|BODY_6|0
+complete null activate fdr elaborate task|JJ JJ JJ IN JJ NN|BODY_13|0
+an access|DT NN|BODY_3|0
+the procedure and task bodies|DT NN CC NN NNS|BODY_2:BODY_3|1
+p12:0 task information|DT NN NN|BODY_29|0
+else|JJ|BODY_41|0
+a given scope unit|DT VBN NN NN|BODY_2|0
+behalf|NN|BODY_9|0
+transferring control|VBG NN|BODY_10|0
+execution corresponds|NN NNS|BODY_3|0
+initial value|JJ NN|BODY_37|0
+[12 , 16 , 19]|NN , CD , CD|BODY_4|0
+the first three processors|DT JJ CD NNS|BODY_1|0
+their master|PRP$ NN|BODY_4|0
+this particular contour model|DT JJ NN NN|BODY_1|0
+completion|NN|BODY_3|0
+the terminate alternative|DT VBP NN|BODY_2|0
+other copyright policies standard natural language descriptions|JJ NN NNS JJ JJ NN NNS|BODY_8|0
+chkr ecall nxt|NN NN NN|BODY_21|0
+etc. )|FW -RRB-|BODY_41|0
+the called procedure|DT VBN NN|BODY_4|0
+designate potential accept alternatives|JJ JJ VBP NNS|BODY_6|0
+two alternatives|CD NNS|BODY_5|0
+the tags|DT NNS|BODY_32|0
+the labels|DT NNS|BODY_6|0
+program text|NN NN|BODY_3|0
+a completed label and set|DT VBN NN CC NN|BODY_4|0
+an abbreviation|DT NN|BODY_3|0
+instruction boxes|NN NNS|BODY_4|0
+a snapshot|DT NN|BODY_1|0
+the dynamic chain|DT JJ NN|BODY_5|0
+( right box )|-LRB- JJ NN -RRB-|BODY_11|0
+the top-level procedure|DT JJ NN|BODY_6:BODY_3|0
+the superscript com|DT NN NN|BODY_8|0
+conventions|NNS|BODY_6|0
+@|NN|BODY_20|0
+its child instances|PRP$ NN NNS|BODY_3|0
+%fdr , fdr , chkr|NN , NN , NN|BODY_5|0
+3.max loop|NN NN|BODY_23|0
+task body fdr|NN NN NN|BODY_17|0
+value|NN|BODY_5|0
+chkr-4 ready|NN JJ|BODY_71|0
+the same computation|DT JJ NN|BODY_3|0
+f7 chkr-2 pri-1 com|IN JJ NN NN|BODY_46|0
+the main procedure|DT JJ NN|BODY_7|0
+the terminated processor|DT VBN NN|BODY_4|0
+activate new chkr chkr:chkr|JJ JJ JJ NN|BODY_5|0
+the modes and types|DT NNS CC NNS|BODY_3|0
+an activation-waiting set|DT JJ NN|BODY_5|0
+@r|JJ|BODY_18|0
+the procedure call instruction allocates|DT NN NN NN NNS|BODY_4|0
+functions|NNS|BODY_7|0
+the rule|DT NN|BODY_2|0
+c.|NN|BODY_7|0
+ptr chkr fdr |NN NN NN|BODY_28|0
+ready no entries|JJ DT NNS|BODY_10|0
+a 3|DT CD|BODY_5|0
+data objects|NNS NNS|BODY_3|0
+local data|JJ NNS|BODY_2|0
+this case|DT NN|BODY_1|0
+logically )|RB -RRB-|BODY_7|0
+a dynamically created pipeline|DT RB VBN NN|BODY_4|0
+the same effect|DT JJ NN|BODY_2|0
+every dependent|DT JJ|BODY_7|0
+eter|NN|BODY_6|0
+shared environments|VBN NNS|BODY_2|0
+arbitrary scope units|JJ NN NNS|BODY_4|0
+the processors fdr-1|DT NNS NN|BODY_2|0
+multiple threads|JJ NNS|BODY_2|0
+details|NNS|BODY_2|0
+processor fdr-1 and executes|NN NN CC NNS|BODY_3|0
+chkr-1.get num|NN NN|BODY_21|0
+different snapshot sequences|JJ NN NNS|BODY_4|0
+their execution|PRP$ NN|BODY_6|0
+moves processor chkr-1|NNS NN NN|BODY_6|0
+erroneous executions|JJ NNS|BODY_3|0
+f2 max|JJ NN|BODY_18|0
+chkr-2 task information blocks|JJ NN NN NNS|BODY_21|0
+the branches|DT NNS|BODY_4|0
+c10-c12 , c16 , c17 , c19 and m1-m3 :1|CD , CD , CD , CD CC CD CD|BODY_38|0
+either|DT|BODY_1|0
+figure 5|NN CD|BODY_1|0
+rows|NNS|BODY_1|0
+snap-shot 4|JJ CD|BODY_3|0
+the parameter passing mode|DT NN VBG NN|BODY_3|0
+the procedure call|DT NN NN|BODY_3|0
+the return instruction m6|DT NN NN NNS|BODY_1|0
+this purpose|DT NN|BODY_3|0
+the top level proce|DT JJ NN NN|BODY_2|0
+function|NN|BODY_5|0
+the algorithm and record|DT NN CC NN|BODY_3|0
+the occurrence|DT NN|BODY_9|0
+more pre|JJR NN|BODY_5|0
+dependencies|VBZ|BODY_30|0
+new threads|JJ NNS|BODY_9|0
+5 and 6 show|CD CC CD NN|BODY_45|0
+18|CD|BODY_43|0
+the last two rows|DT JJ CD NNS|BODY_6|0
+the second stage|DT JJ NN|BODY_9|0
+generics|NNS|BODY_4|0
+result|NN|BODY_62|0
+the new procedure instance and transfers|DT JJ NN NN CC NNS|BODY_4|0
+the called instance service|DT VBN NN NN|BODY_3|0
+control )|NN -RRB-|ABSTRACT_7|0
+real-time and embedded software|JJ CC JJ NN|BODY_5|0
+the call chain|DT NN NN|BODY_7|0
+cases|NNS|BODY_4|0
+reference below|NN IN|BODY_3|0
+our discussion|PRP$ NN|BODY_6|0
+a static portion|DT JJ NN|BODY_2|0
+the remote procedure|DT JJ NN|BODY_5|0
+both 2 and 3|DT CD CC CD|BODY_8|0
+get num:hi ready chkr-2|VB NNS JJ JJ|BODY_24|0
+defines|NNS|BODY_5|0
+status|NN|BODY_11|0
+c19 c6|CD NNS|BODY_8|0
+response|NN|BODY_6|0
+two important features|CD JJ NNS|BODY_2|0
+top half|NN NN|BODY_15|0
+race conditions|NN NNS|BODY_4|0
+an elaborated instance|DT VBN NN|BODY_3|0
+separate diagrams|JJ NNS|BODY_3|0
+the open selective wait alternatives|DT JJ JJ NN NNS|BODY_3|0
+a direct dependence|DT JJ NN|BODY_2|0
+the basic model|DT JJ NN|BODY_50|0
+chkr-4|NN|BODY_6|0
+@ @r \pi|RB JJ NNS|BODY_17|0
+tt|NN|BODY_9|0
+a processor symbol|DT NN NN|BODY_6|0
+its static link and place|PRP$ JJ NN CC NN|BODY_5|0
+specifications|NNS|BODY_3|0
+exceptions|NNS|BODY_4|0
+access objects|NN NNS|BODY_8|0
+processor fdr-1 executes instruction m3|NN NN NNS NN NN|BODY_8|0
+no passable alternatives|DT JJ NNS|BODY_2|0
+subprograms and calls|NNS CC NNS|BODY_4|0
+updates|NNS|BODY_9|0
+rend|NN|BODY_28|0
+the designated entry queue|DT VBN NN NN|BODY_26|0
+primitive operations|JJ NNS|BODY_3|0
+open alternatives|JJ NNS|BODY_5|0
+each procedure|DT NN|BODY_4|0
+(cells|NNS|BODY_2|0
+two implicit parameters|CD JJ NNS|BODY_4|0
+this high-level execution model|DT JJ NN NN|ABSTRACT_2|0
+a subset|DT NN|BODY_4|0
+task dependence and termination|NN NN CC NN|BODY_4|0
+an example|DT NN|BODY_2|0
+ready act|JJ NN|BODY_10|0
+expression|NN|BODY_7|0
+a new procedure activation|DT JJ NN NN|BODY_6|0
+aspects|NNS|BODY_49|0
+its declarative part|PRP$ JJ NN|BODY_5|0
+acc|NN|BODY_7|0
+chkr-3|NN|BODY_5|0
+s|PRP|BODY_3|0
+a potential execution|DT JJ NN|BODY_7|0
+nondeterminism|NN|BODY_7|0
+'s prime c22 end|POS JJ NN NN|BODY_43|0
+the static task fdr|DT JJ NN NN|BODY_21|0
+pri-1.front act|JJ NN|BODY_6|0
+instruction , allocates|NN , NNS|BODY_4|0
+pri-1:front|NN|BODY_7|0
+my num chkr-4 \pi|PRP$ NN NN NNP|BODY_78|0
+further stipulates|JJ NNS|BODY_8|0
+num:hfdr-1i ready fget num|JJ JJ NN NN|BODY_22|0
+complete execution|JJ NN|BODY_4|0
+the procedure and transfers|DT NN CC NNS|BODY_3|0
+my num snapshot 9|PRP$ NN VBD CD|BODY_28|0
+an instance p|DT NN NN|BODY_2|0
+a stack diagram|DT NN NN|BODY_3|0
+an understanding|DT NN|BODY_4|0
+the propagation|DT NN|BODY_3|0
+the arguments|DT NNS|BODY_3|0
+the formal input|DT JJ NN|BODY_3|0
+explicit static links and environment pointers|JJ JJ NNS CC NN NNS|BODY_3|0
+int rend exit rend|IN NN NN NN|BODY_11|0
+the distinction|DT NN|BODY_5|0
+a chkr|DT NN|BODY_3|0
+the pipeline chkr-3 chkr-2 pri-1 com|DT NN JJ JJ NN NN|BODY_65|0
+fget num|NN NN|BODY_72|0
+a label|DT NN|BODY_9|0
+the called instance executes|DT VBN NN NNS|BODY_8|0
+stage|NN|BODY_7|0
+another iteration|DT NN|BODY_9|0
+front.chk|NN|BODY_11|0
+its elaborated tasks|PRP$ JJ NNS|BODY_3|0
+any collections|DT NNS|BODY_5|0
+an instruction pointer|DT NN NN|BODY_2|0
+a new stage|DT JJ NN|BODY_7|0
+prime and results|JJ CC NNS|BODY_6|0
+statement|NN|BODY_2|0
+the fetched instruction|DT VBN NN|BODY_15|0
+an allocated instance|DT VBN NN|BODY_7|0
+the thread|DT NN|BODY_6|0
+num:hi chkr-4|JJ NNS|BODY_32:BODY_11|0
+an introduction|DT NN|ABSTRACT_2|0
+a candidate|DT NN|BODY_6|0
+their bodies|PRP$ NNS|BODY_7|0
+'s get num entry|POS VB NN NN|BODY_4|0
+chkr-1.nxt chkr null chkr-2 |JJ NN JJ JJ|BODY_32|0
+make-2 \pi|NN NNP|BODY_31|0
+either complete|DT JJ|BODY_5|0
+the default initial value|DT NN JJ NN|BODY_7|0
+\pi com \pi run|NNS IN NNS VBP|BODY_26|0
+all but one|DT CC CD|BODY_3|0
+a task declaration|DT NN NN|BODY_5|0
+expand|VB|BODY_3|0
+the pipeline checks numbers|DT NN NNS NNS|BODY_8|0
+our snapshots|PRP$ NNS|BODY_2|0
+get num:hi ready fget num|VB NNS JJ NN NN|BODY_13|0
+chkr associates|JJ NNS|BODY_3|0
+a task type synchronize|DT NN NN NN|BODY_3|0
+the base contour fdr-1 and updates|DT NN NN NN CC NNS|BODY_3|0
+attention|NN|BODY_3|0
+num chkr|NN NN|BODY_10|0
+exit|NN|BODY_21|0
+those processors|DT NNS|BODY_4|0
+select true:c10|JJ NN|BODY_14|0
+an instance requests|DT NN NNS|BODY_2|0
+conclusions|NNS|BODY_2|1
+an initial record|DT JJ NN|BODY_5|0
+16|CD|BODY_22|0
+the beginning and ending|DT NN CC NN|BODY_5|0
+only a single instance|RB DT JJ NN|BODY_2|0
+this task|DT NN|BODY_3|0
+inconsistencies|NNS|BODY_6|0
+readability|NN|BODY_5:BODY_1|1
+any such function-based semantic techniques|DT JJ JJ JJ NNS|BODY_1|0
+endwhile|NN|BODY_5|0
+formal semantic specifications|JJ JJ NNS|BODY_1|0
+mentations|NNS|BODY_5|0
+natural language descriptions|JJ NN NNS|BODY_5|0
+these descriptions|DT NNS|BODY_1|0
+a special root task type|DT JJ NN NN NN|BODY_3|0
+a valuable visual aid|DT JJ JJ NN|BODY_4|0
+a procedure or block|DT NN CC NN|BODY_11|0
+particular|JJ|BODY_1|0
+the environment pointers|DT NN NNS|BODY_7|0
+9|CD|BODY_10|0
+two independent threads|CD JJ NNS|BODY_2|0
+declarations|NNS|BODY_5|0
+functions and procedures|NNS CC NNS|BODY_4|0
+all child|DT NN|BODY_5|0
+enclose|NN|BODY_4|0
+the current snapshot|DT JJ NN|BODY_5|0
+abnormal phases|JJ NNS|BODY_5|0
+chkr-2 ready get|JJ JJ VB|BODY_50|0
+diagrams|NNS|BODY_2|0
+a sample execution|DT NN NN|BODY_2|0
+'s parent|POS NN|BODY_6|0
+the output statement|DT NN NN|BODY_3|0
+the contour diagrams|DT NN NNS|BODY_4|0
+some caller|DT NN|BODY_3|0
+a variety|DT NN|BODY_1|0
+ada tasking [11]|NN NN NN|BODY_7|0
+contrast|NN|BODY_1|0
+1 shows|CD NNS|BODY_4|0
+checker task instances|NN NN NNS|BODY_5|0
+the designated task|DT VBN NN|BODY_31|0
+an entry call|DT NN NN|BODY_3|0
+six declarations|CD NNS|BODY_3|0
+time|NN|BODY_4|0
+the names|DT NNS|BODY_6|0
+a value|DT NN|BODY_2|0
+a boolean guard|DT JJ NN|BODY_3|0
+2 and 3|CD CC CD|BODY_2|0
+instruction f1|NN NN|BODY_2|0
+the six rows|DT CD NNS|BODY_4|0
+attributes|NNS|BODY_6|0
+the call and executes|DT NN CC NNS|BODY_9|0
+the existence|DT NN|BODY_1|0
+two ways|CD NNS|BODY_4|0
+the instruction pointers|DT NN NNS|BODY_2|0
+subprograms|NNS|BODY_7|0
+the processor symbol|DT NN NN|BODY_5|0
+the entry call statement|DT NN NN NN|BODY_2|0
+elaborate instructions|JJ NNS|BODY_5|0
+the same [6]|DT JJ NN|BODY_6|0
+assignment|NN|BODY_2|0
+a percent sign|DT NN NN|BODY_7|0
+[17 , 18]|CD , CD|BODY_3|0
+the ada language reference manual|DT NN NN NN NN|BODY_1|0
+semantic definitions|JJ NNS|ABSTRACT_3|0
+a new snapshot|DT JJ NN|BODY_16|0
+max call|NN NN|BODY_1|0
+5 passes|CD VBZ|BODY_5|0
+the sleeping master|DT NN NN|BODY_6|0
+successor links|NN NNS|BODY_4|0
+pri-1 comfdr-1task information blocks|NN NN NN NNS|BODY_21|0
+similar snapshots|JJ NNS|BODY_1|0
+each selective wait alternative|DT JJ NN NN|BODY_1|0
+the last number|DT JJ NN|BODY_16|0
+the notations|DT NNS|BODY_1|0
+a new execution contour|DT JJ NN NN|BODY_5|0
+procedure and task bodies|NN CC NN NNS|BODY_20|0
+function , procedure or task|NN , NN CC NN|BODY_8|0
+the activate instruction p10|DT JJ NN NN|BODY_3|0
+the contour chkr-1|DT NN NN|BODY_7|0
+primes @r \gamma\psi oe|NNS CC NNS NN|BODY_19|0
+m3 new chkr|JJ JJ NN|BODY_10|0
+7 relationship|CD NN|BODY_1|0
+the designated dependents|DT VBN NNS|BODY_23|0
+no guards|DT NNS|BODY_8|0
+the upper left corner|DT JJ JJ NN|BODY_2|0
+the base contours|DT NN NNS|BODY_3|0
+permission|NN|BODY_1|0
+the style|DT NN|BODY_1|0
+the master pri-1|DT NN NN|BODY_2|0
+dure|NN|BODY_3|0
+the superscript term|DT JJ NN|BODY_2|0
+the interpreter updates chkr-1|DT NN NNS NN|BODY_9|0
+the next number|DT JJ NN|BODY_10|0
+the stack diagram|DT NN NN|BODY_30|0
+pl/1 [4]|DT NN|BODY_6|0
+the input diagram|DT NN NN|BODY_6|0
+code indication|NN NN|BODY_18|0
+the remaining rows|DT VBG NNS|BODY_2|0
+the exception|DT NN|BODY_1|0
+other storage cells|JJ NN NNS|BODY_7|0
+a cell|DT NN|BODY_5|0
+the elaboration|DT NN|BODY_4|0
+the environments|DT NNS|BODY_4:ABSTRACT_9|0
+our model and stack-based execution models|PRP$ NN CC JJ NN NNS|BODY_12|0
+this information|DT NN|BODY_2|0
+the entries|DT NNS|BODY_7|0
+an allocated task instance|DT VBN NN NN|BODY_2|0
+the alternative|DT JJ|BODY_5|0
+models|NNS|BODY_2|0
+the second element|DT JJ NN|BODY_11|0
+the blocked dependents|DT VBN NNS|BODY_3|0
+an empty activation-waiting|DT JJ NN|BODY_2|0
+algol programs|NN NNS|BODY_4|0
+program states|NN NNS|BODY_3|0
+its termination|PRP$ NN|BODY_4|0
+the example execution|DT NN NN|BODY_2|0
+\pi com |NNP NN|BODY_25:BODY_4:BODY_7|0
+a new chkr|DT JJ NN|BODY_13|0
+exe- cution|DT NN|BODY_4|0
+c6|NNS|BODY_16|0
+the called task|DT VBN NN|BODY_6|0
+'s expression stack|POS NN NN|BODY_6|0
+new instances|JJ NNS|BODY_5|0
+the task type %fdr|DT NN NN NN|BODY_5|0
+c3 nxt chkr|CD NN NN|BODY_29|0
+the label value|DT NN NN|BODY_2|0
+15|CD|BODY_80|0
+nested contour diagrams|JJ NN NNS|BODY_5|0
+a task information block|DT NN NN NN|BODY_6|0
+no entries ready no entries ready fget num|DT NNS JJ DT NNS JJ NN NN|BODY_13|0
+variable|JJ|BODY_4|0
+the other|DT JJ|BODY_8|0
+their algorithm contours|PRP$ NN NNS|BODY_3|0
+the parallel execution|DT JJ NN|BODY_6|0
+the global environment ( contour pri-1|DT JJ NN -LRB- NN NN|BODY_3|0
+an overview|DT NN|BODY_2|0
+model programs|NN NNS|BODY_3|0
+chkr-4 \pi|NNS NN|BODY_20|0
+instruction allocates|NN NNS|BODY_2|0
+all three stages|DT CD NNS|BODY_7|0
+the blocked processor|DT VBD NN|BODY_11|0
+other scope units|JJ NN NNS|BODY_5|0
+the same procedure|DT JJ NN|BODY_4|0
+explicit successor links|JJ NN NNS|BODY_2|0
+the placement|DT NN|BODY_5|0
+null snapshot 12|JJ NN CD|BODY_18|0
+a completion phase|DT NN NN|BODY_9|0
+its number print|PRP$ NN NN|BODY_15|0
+activating tasks|NN NNS|BODY_8|0
+which dependents|WDT NNS|BODY_7|0
+no master|DT NN|BODY_8|0
+some master|DT NN|BODY_5|0
+the key data values|DT JJ NNS NNS|BODY_4|0
+task management|NN NN|BODY_4|0
+an interleaving symbolic executor [15]|DT JJ JJ NN NN|BODY_5|0
+no calls|DT NNS|BODY_5|0
+these natural language descriptions|DT JJ NN NNS|BODY_9|0
+the phases|DT NNS|BODY_6|0
+the notation|DT NN|BODY_3|0
+access|NN|BODY_3|0
+numbers|NNS|BODY_6|0
+then deallocates processor fdr-1|RB VBZ NN NN|BODY_3|0
+the formal input parameter num|DT JJ NN NN NN|BODY_6|0
+elaborated or allocated|JJ CC VBN|BODY_3|0
+the proces|DT NNS|BODY_6|0
+fact|NN|BODY_7|0
+some check|DT NN|BODY_4|0
+null snapshot 11|JJ VBD CD|BODY_23|0
+7 passes|CD VBZ|BODY_5|0
+parameters|NNS|BODY_6|0
+the called processor|DT VBN NN|BODY_3|0
+13|CD|BODY_36|0
+8|CD|BODY_17|0
+flight navigation or process control software|NN NN CC NN NN NN|BODY_5|0
+introduction|NN|BODY_1|0
+entry calls|NN NNS|BODY_14|0
+a child instance|DT NN NN|BODY_5|0
+initialization|NN|BODY_1|0
+an associated state|DT JJ NN|BODY_2|0
+indirect dependences|JJ NNS|BODY_2|0
+get num|VB NN|BODY_4|0
+no entries ready fget num|DT NNS JJ NN NN|BODY_32:BODY_23|0
+data structures|NNS NNS|BODY_3|0
+executions|NNS|BODY_6|0
+its argument|PRP$ NN|BODY_18|0
+an abstract machine|DT JJ NN|BODY_6|0
+'s convention|POS NN|BODY_5|0
+an access type|DT NN NN|BODY_3|0
+this task instance|DT NN NN|BODY_7|0
+the retention model|DT NN NN|BODY_4|0
+a new task instance|DT JJ NN NN|BODY_3|0
+a template|DT JJ|BODY_5|0
+activation|NN|BODY_5|0
+specific requirements|JJ NNS|BODY_3|0
+two entry queues|CD NN NNS|BODY_3|0
+\omega \omega \omega oe task information blocks|JJ JJ JJ NN NN NN NNS|BODY_10|0
+an open|DT JJ|BODY_5|0
+@task information blocks|NN NN NNS|BODY_5|0
+instruction f7|NN NNS|BODY_6|0
+the final stage|DT JJ NN|BODY_4|0
+leaving functions , procedures and blocks|VBG NNS , NNS CC NNS|BODY_2|0
+this uncertainty|DT NN|BODY_2|0
+their execution contours|PRP$ NN NNS|BODY_6|0
+c|NN|BODY_6|0
+its static chain|PRP$ JJ NN|BODY_3|0
+'s locus|POS NN|BODY_4|0
+no call|DT NN|BODY_3|0
+these figures|DT NNS|BODY_2|0
+the bottom half|DT JJ NN|BODY_8|0
+a sleeping master|DT VBG NN|BODY_3|0
+a thread|DT NN|BODY_3|0
+a contour model|DT NN NN|ABSTRACT_2|0
+task information blocks|NN NN NNS|BODY_41|0
+task execution|NN NN|BODY_3|0
+the implicit declaration|DT JJ NN|BODY_4|0
+snapshot 17|NN CD|BODY_2|0
+'s interface|POS NN|BODY_5|0
+num-1 )|JJ -RRB-|BODY_3|0
+their select instructions and chkr-2|PRP$ JJ NNS CC NN|BODY_5|1
+an accept statement blocks|DT VB NN NNS|BODY_3|0
+special components|JJ NNS|BODY_10|0
+the number|DT NN|BODY_3|0
+the activations|DT NNS|BODY_6|0
+example program fragments|NN NN NNS|BODY_12|0
+the entry chk|DT NN NN|BODY_9|0
+a single input value|DT JJ NN NN|BODY_4|0
+the for-block|DT NN|BODY_1|0
+the ecall instruction f7|DT NN NN NNS|BODY_4|0
+what|WP|BODY_11:ABSTRACT_4|0
+the completed label|DT VBN NN|BODY_8|0
+the phase|DT NN|BODY_6|0
+' return labels|POS NN NNS|BODY_9|0
+a complex object|DT JJ NN|BODY_7|0
+the scope unit|DT NN NN|BODY_18|0
+a some point|DT DT NN|BODY_8|0
+ending|VBG|BODY_11:BODY_5|0
+some point|DT NN|BODY_3|0
+a declarative part|DT JJ NN|BODY_2|0
+elaborated blocks|JJ NNS|BODY_3|0
+the contour pri-1|DT NN NN|BODY_10:BODY_9|0
+its entries|PRP$ NNS|BODY_7:BODY_8|0
+dependents|NNS|BODY_6|0
+( p11 )|-LRB- NNS -RRB-|BODY_6|0
+( p12:0 )|-LRB- NN -RRB-|BODY_9|0
+the rendezvous or pass|DT NN CC NN|BODY_4|0
+a contour|DT NN|BODY_1:BODY_9|0
+a separate execution status|DT JJ NN NN|BODY_10|0
+snapshot 1|NN CD|BODY_4|0
+certain implicit declarations|JJ JJ NNS|BODY_3|0
+its relative primeness checks|PRP$ JJ NN NNS|BODY_7|0
+the prime|DT JJ|BODY_5|0
+a single thread|DT JJ NN|BODY_3|0
+[2]|NNP|BODY_12|1
+textual descriptions|JJ NNS|BODY_1|0
+declarative regions|JJ NNS|BODY_7|0
+stage positive numbers|NN JJ NNS|BODY_14|0
+'s masters|POS NNS|BODY_15:BODY_10|0
+fg front chkr ptr chkr|JJ JJ NN NN NN|BODY_74|0
+a master|DT NN|BODY_2|0
+a new label|DT JJ NN|BODY_6|0
+the nth prime sending those numbers|DT JJ JJ VBG DT NNS|BODY_10|0
+a for-block|DT NN|BODY_4|0
+m4 new chkr.get num(new pri )|CD JJ NN JJ NN -RRB-|BODY_13|0
+instruction p1|NN NN|BODY_6|0
+names|NNS|BODY_5|0
+pri-1.front null|JJ JJ|BODY_9|0
+the deallocated contour|DT VBN NN|BODY_9|0
+the instances|DT NNS|BODY_5|0
+an allocated instance blocks|DT VBN NN NNS|BODY_2|0
+the front|DT NN|BODY_18|0
+a notational convenience|DT JJ NN|BODY_6|0
+9 and 10|CD CC CD|BODY_82|0
+the instruction|DT NN|BODY_7|0
+the next task instance|DT JJ NN NN|BODY_6|0
+large numbers|JJ NNS|BODY_4|0
+synchronizes|NNS|BODY_3|0
+several additional diagrams|JJ JJ NNS|BODY_5|0
+a separate diagram|DT JJ NN|BODY_7|0
+num-1|NN|BODY_3|0
+any additional stages|DT JJ NNS|BODY_5|0
+executes|NNS|BODY_2|0
+the activation-waiting set|DT JJ NN|BODY_7|0
+the current phase|DT JJ NN|BODY_4|0
+its lifetime|PRP$ NN|BODY_1|0
+a number|DT NN|BODY_1|0
+remote procedures|JJ NNS|BODY_3|0
+one or more concurrent instances|CD CC JJR JJ NNS|BODY_3|0
+any parameters|DT NNS|BODY_9|0
+its terminated attribute )|PRP$ VBN NN -RRB-|BODY_5|0
+the 9|DT CD|BODY_8|0
+the direct declaration|DT JJ NN|BODY_2:BODY_1|0
+chkr-2 null|JJ JJ|BODY_34|0
+dynamic objects|JJ NNS|BODY_4|0
+five such phases|CD JJ NNS|BODY_2|0
+task body chkr|NN NN NN|BODY_25|0
+the new contour and passes|DT JJ NN CC NNS|BODY_5|0
+ready tasks|JJ NNS|BODY_13|0
+each master|DT NN|BODY_12|0
+a 9 to chkr-1|DT CD TO CD|BODY_6|0
+a flow chart-like network|DT NN JJ NN|BODY_9|0
+running|VBG|BODY_5|0
+the designated entry queue and blocks|DT VBN NN NN CC NNS|BODY_3:BODY_7|0
+the instance synchronizes|DT NN NNS|BODY_5|0
+highly abstract mathematical specifications|RB JJ JJ NNS|BODY_2|0
+tasks interact|NNS NN|ABSTRACT_14:BODY_9|0
+the new chkr task|DT JJ NN NN|BODY_3|0
+the interpreter copies|DT NN NNS|BODY_1|0
+the nxt chkr cells|DT JJ NN NNS|BODY_4|0
+reference|NN|BODY_4|0
+additional components|JJ NNS|BODY_2|0
+all the information|DT DT NN|BODY_2|0
+p|NN|BODY_10|0
+the tasks|DT NNS|BODY_8|0
+these conditions|DT NNS|BODY_1|0
+a more sophisticated interpreter|DT RBR JJ NN|BODY_1|0
+the call instruction and assigns|DT NN NN CC NNS|BODY_7|0
+enter 3|VBP CD|BODY_24|0
+a unique name|DT JJ NN|BODY_3|0
+four stages|CD NNS|BODY_2|0
+the first task instance|DT JJ NN NN|BODY_2|0
+the environment|DT NN|BODY_10:BODY_9|0
+three machines cycles|CD NNS NNS|BODY_5|0
+two numbers|CD NNS|BODY_3|0
+the rend|DT NN|BODY_2|0
+new chkr )|JJ NN -RRB-|BODY_14|0
+the first instruction|DT JJ NN|BODY_6|0
+f6 :0-f6|CD NNS|BODY_10|0
+snapshot 10|NN CD|BODY_5|0
+chkr tasks|JJ NNS|BODY_6|0
+its activating state|PRP$ JJ NN|BODY_3|0
+front assigns|JJ NNS|BODY_3|0
+a special case|DT JJ NN|BODY_8|0
+the concept|DT NN|BODY_1|0
+a pointer|DT NN|BODY_5:BODY_1|0
+basic run-time management concerns [9]|JJ NN NN NNS NNS|BODY_8|0
+the solid arrow|DT JJ NN|BODY_13|0
+the icons|DT NNS|BODY_1|0
+the null access value|DT JJ NN NN|BODY_5|0
+the end activation instruction c4|DT NN NN NN NNS|BODY_6|0
+no dependents|DT NNS|BODY_9|0
+that type|DT NN|BODY_5|0
+m1|NNS|BODY_6|0
+this way deallocation|DT NN NN|BODY_1|0
+tures|NNS|BODY_7|0
+a declaration array|DT NN NN|BODY_4|0
+a dependency|DT NN|BODY_3|0
+the figures|DT NNS|BODY_1|0
+the snapshots|DT NNS|BODY_1|0
+a proc|DT NN|BODY_6|0
+a run-time error|DT NN NN|BODY_4|0
+normal circumstances|JJ NNS|BODY_1|0
+the select instruction c9 blocks processor chkr-1|DT JJ NN CC NNS NN NN|BODY_1|0
+the new prime number and returns|DT JJ JJ NN CC NNS|BODY_3|0
+our protocol|PRP$ NN|BODY_1|0
+the entry call instruction|DT NN NN NN|BODY_1|0
+implicit initial values|JJ JJ NNS|BODY_4|0
+bers|NNS|BODY_25|0
+non-enclosing contours|JJ VBZ|BODY_7|0
+the dashed boxes|DT VBN NNS|BODY_1|0
+concurrent instances|JJ NNS|BODY_4|0
+a call instruction|DT NN NN|BODY_1|0
+the call instruction|DT NN NN|BODY_1|0
+the accept alternative|DT VBP NN|BODY_8|0
+the allocated instance|DT VBN NN|BODY_1|0
+the allocator|DT NN|BODY_5|0
+alternatives|NNS|BODY_10|0
+all the ada language|DT DT NN NN|BODY_8|0
+terminates|NNS|BODY_5|0
+the greek symbol \pi|DT JJ NN NN|BODY_3|0
+these first three phases|DT JJ CD NNS|BODY_4|0
+one open passable alternative|CD JJ JJ NN|BODY_6|0
+an exception|DT NN|BODY_4|0
+all implicitly declared data|DT JJ VBN NNS|BODY_11|0
+the alternatives|DT NNS|BODY_7|0
+the exit instruction|DT NN NN|BODY_1|0
+a task value|DT NN NN|BODY_3|0
+rendezvous-blocks|NNS|BODY_3|0
+the task body|DT NN NN|BODY_3|0
+instruction c6|NN NNS|BODY_1|0
+this one|DT CD|BODY_9|0
+all snapshots|DT NNS|BODY_5|0
+both algorithms|DT NNS|BODY_1|0
+higher-level diagrams|JJ NNS|BODY_1|0
+their calls|PRP$ NNS|BODY_5|0
+a hardware|DT NN|BODY_3|0
+the machine cycle|DT NN NN|BODY_1|0
+the activate instruction|DT JJ NN|BODY_1|0
+the lifetimes|DT NNS|BODY_1|0
+the same task type|DT JJ NN NN|BODY_8|0
+contour chkr-1|NN NN|BODY_6|0
+run-time|NN|BODY_8|0
+processor names|NN NNS|BODY_3|0
+acm|NN|BODY_7|0
+axiomatic and denotational specifications|JJ CC JJ NNS|BODY_1|0
+bol|NN|BODY_16|0
+ness|NN|BODY_7|0
+process control systems|NN NN NNS|BODY_5|0
+the activate instruction m3|DT JJ NN NNS|BODY_1|0
+the for-block and terminates|DT NN CC NNS|BODY_12|0
+a descriptive tag|DT NN NN|BODY_5|0
+the end activation instruction|DT NN NN NN|BODY_1|0
+both 9 and 10|DT CD CC CD|BODY_1|0
+memory cells and registers|NN NNS CC NNS|BODY_4|0
+snap-shot 11|NN CD|BODY_1|0
+an ada program|DT NN NN|BODY_3|0
+its lifetime [2 , 14]|PRP$ NN CD , CD|BODY_4|0
+fairly minor extensions|RB JJ NNS|BODY_1|0
+snapshot 18|NN CD|BODY_3|0
+snapshot 5|NN CD|BODY_5|0
+this context|DT NN|BODY_1|0
+a single terminate statement|DT JJ VBP NN|BODY_8|0
+subprogram call and return|NN NN CC NN|BODY_4|0
+instruction c14|NN NNS|BODY_14|0
+task types and procedures|NN NNS CC NNS|BODY_9|0
+the next snapshot|DT JJ NN|BODY_1|0
+upper-case|NN|BODY_5|0
+some concurrent task instance|DT JJ NN NN|BODY_5|0
+the table figure figure primes|DT NN NN NN NNS|BODY_1|0
+deadlock [22]|NN NN|BODY_9|0
+%lim.|NN|BODY_35|0
+tasking statements|NN NNS|BODY_7|0
+every algorithm|DT NN|BODY_1|0
+the loop|DT NN|BODY_7|0
+atomic instructions|JJ NNS|BODY_10|0
+their definition|PRP$ NN|BODY_1|0
+all block-structured programming languages|DT JJ NN NNS|BODY_1|0
+certain master and dependence relations|JJ NN CC NN NNS|BODY_4|0
+snapshot 9|NN CD|BODY_6|0
+an automated version|DT JJ NN|BODY_1|0
+itself|PRP|BODY_4|0
+our presentation|PRP$ NN|BODY_1|0
+static links|JJ NNS|BODY_7|0
+such situations|JJ NNS|BODY_1|0
+every sequence|DT NN|BODY_1|0
+various properties|JJ NNS|BODY_1|0
+section 2|NN CD|BODY_1|0
+a chkr task|DT JJ NN|BODY_12|0
+their execution status ( bottom half )|PRP$ NN NN -LRB- NN NN -RRB-|BODY_17|0
+the leading accept statement|DT VBG VB NN|BODY_1|0
+its upper left hand corner|PRP$ JJ JJ NN NN|BODY_3|0
+explicit elaboration|JJ NN|BODY_1|0
+the same time|DT JJ NN|BODY_1|0
+an abnormal task instance|DT JJ NN NN|BODY_1|0
+any further rendezvous|DT JJ NN|BODY_3|0
+deadlocks|NNS|BODY_8|0
+5 we|CD PRP|BODY_1|0
+acknowledgements|NNS|BODY_1|0
+8 conclusions|CD NNS|BODY_1|0
+the outermost contour primes|DT JJ NN NNS|BODY_1|0
+various contour model instructions|JJ NN NN NNS|BODY_4|0
+:0-c6|NN|BODY_5|0
+separate language features|JJ NN NNS|BODY_8|0
+tasking primitives|NN NNS|BODY_13|0
+the language design|DT NN NN|BODY_3|0
+this reason|DT NN|BODY_1|0
+open terminate alternatives|JJ VBP NNS|BODY_6|0
+their algorithms|PRP$ NNS|BODY_7|0
+snap-shot 7|NN CD|BODY_1|0
+the four chkr tasks|DT CD NN NNS|BODY_1|0
+the new execution contour|DT JJ NN NN|BODY_9|0
+the final instruction returns|DT JJ NN NNS|BODY_1|0
+chkr ptr )|JJ NN -RRB-|BODY_6|0
+the instance terminates|DT NN NNS|BODY_6|0
+an execution|DT NN|BODY_5|0
+the first element|DT JJ NN|BODY_1|0
+an executing program|DT VBG NN|BODY_1|0
+evolving diagrams|VBG NNS|BODY_3|0
+instantaneous machine states|JJ NN NNS|BODY_10|0
+enclosing contours|NN NNS|BODY_7|0
+their entries|PRP$ NNS|BODY_8|0
+the superscript|DT NN|BODY_1|0
+these conventions|DT NNS|BODY_1|0
+whose guards|WP$ NNS|BODY_10|0
+its dynamic chain|PRP$ JJ NN|BODY_12|0
+the access type chkr ptr|DT NN NN NN NN|BODY_1|0
+its creation and termination|PRP$ NN CC NN|BODY_8|0
+its body|PRP$ NN|BODY_8|0
+the appropriate enter instruction|DT JJ VBP NN|BODY_8|0
+this program|DT NN|BODY_48|0
+the number 4|DT NN CD|BODY_1|0
+the interpreter unblocks pri-1|DT NN NNS NN|BODY_3|0
+particular , explicit elaborations|JJ , JJ NNS|BODY_1|0
+these modifications|DT NNS|BODY_1|0
+a rend exit instruction|DT NN NN NN|BODY_1|0
+the instance [21]|DT NN NN|BODY_4|0
+the rendezvous-block|DT NN|BODY_3|0
+executing instructions f 1-f3|VBG NNS NN NN|BODY_1|0
+get num.|VB NN|BODY_35|0
+a particular program execution|DT JJ NN NN|BODY_7|0
+the successor link|DT NN NN|BODY_1|0
+the pro- cessors|DT NNS NNS|BODY_6|0
+the first step|DT JJ NN|BODY_1|0
+either task types or procedure values|DT NN NNS CC NN NNS|BODY_6|0
+ter- minate|DT NN|BODY_9|0
+a stack model|DT NN NN|BODY_1|0
+its own run-time stack|PRP$ JJ NN NN|BODY_3|0
+the next four instructions|DT JJ CD NNS|BODY_1|0
+contour pri-1|NN NN|BODY_7|0
+the latter case|DT JJ NN|BODY_1|0
+john- ston|DT NN|BODY_1|0
+this version|DT NN|BODY_1|0
+this rule|DT NN|BODY_1|0
+this direct dependence|DT JJ NN|BODY_1|0
+m1 )|CD -RRB-|BODY_6|0
+the abort statement|DT JJ NN|BODY_1|0
+4 overview|CD NN|BODY_1|0
+a mechanical implementation|DT JJ NN|BODY_1|0
+a retention model|DT NN NN|BODY_2|0
+an information structure model [23]|DT NN NN NN NNS|BODY_2|0
+a discussion|DT NN|BODY_1|0
+a remote procedure call|DT JJ NN NN|BODY_3|0
+our treatment|PRP$ NN|BODY_1|0
+task creation and activation|NN NN CC NN|BODY_7|0
+the entry call|DT NN NN|BODY_1|0
+no initial value|DT JJ NN|BODY_9|0
+the main tasking features|DT JJ NN NNS|BODY_1|0
+12 shows|CD NNS|BODY_1|0
+15 shows|CD NNS|BODY_1|0
+6 shows|CD NNS|BODY_1|0
+both 6 and 8|DT CD CC CD|BODY_1|0
+the final phase|DT JJ NN|BODY_1|0
+this first phase|DT JJ NN|BODY_1|0
+a global scope unit|DT JJ NN NN|BODY_16|0
+fdr.|PRP$|BODY_4|0
+the alrm further states|DT NN JJ NNS|BODY_1|0
+instruction m3 :1 activates|NN CD CD NNS|BODY_1|0
+6 as|CD IN|BODY_1|0
+the task instance pri-1|DT NN NN NN|BODY_1|0
+get|VB|BODY_5|0
+a first-come-first-served basis|DT JJ NN|BODY_5|0
+its use|PRP$ NN|ABSTRACT_5|0
+this algorithm|DT NN|BODY_2|0
+the first component|DT JJ NN|BODY_1|0
+the location pri-1.front|DT NN NN|BODY_4|0
+no direct dependences|DT JJ NNS|BODY_4|0
+no output|DT NN|BODY_2|0
+share global variables|NN JJ NNS|BODY_8|0
+the ensuing rendezvous|DT VBG NN|BODY_1|0
+that point|WDT NN|BODY_10|0
+the processors pri-1 and fdr-1|DT NNS NN CC NN|BODY_4|0
+more detail|JJR NN|BODY_6|0
+the put instruction m5|DT NN NN NN|BODY_3|0
+the bent arrow|DT JJ NN|BODY_1|0
+the rules|DT NNS|BODY_1|0
+the caller blocks|DT NN NNS|BODY_1|0
+the designated children|DT VBN NNS|BODY_20|0
+the corresponding access type|DT JJ NN NN|BODY_10|0
+various points|JJ NNS|BODY_1|0
+figure|NN|BODY_6|0
+its environment pointer|PRP$ NN NN|BODY_8|0
+the rend exit instruction c7|DT NN NN NN NNS|BODY_1|0
+'s lifetime|POS NN|BODY_6|0
+eligible|NN|BODY_15|0
+such points|JJ NNS|BODY_2|0
+instruction f6 :1|NN CD CD|BODY_1|0
+the first two components|DT JJ CD NNS|BODY_1|0
+the interpreter first copies|DT NN JJ NNS|BODY_1|0
+the output diagram|DT NN NN|BODY_1|0
+the return instruction copies|DT NN NN NNS|BODY_1|0
+this instruction|DT NN|BODY_3|0
+the nested contours|DT VBN NNS|BODY_1|0
+various other components|JJ JJ NNS|BODY_1|0
+a specification and body|DT NN CC NN|BODY_3|0
+the designated type|DT VBN NN|BODY_11|0
+follows|VBZ|BODY_5|0
+an execution contour c|DT NN NN NN|BODY_1|0
+additional data structures|JJ NNS NNS|BODY_1|0
+all the chkr task instances|DT DT NN NN NNS|BODY_7|0
+13 shows processor fdr-1|CD NNS NN NN|BODY_1|0
+a practical tool|DT JJ NN|BODY_4|0
+a task allocator|DT NN NN|BODY_7|0
+an object declaration|DT NN NN|BODY_5|0
+entry|NN|BODY_13:BODY_10|0
+individual snapshot diagrams|JJ NN NNS|BODY_9|0
+parallel|NN|BODY_7|0
+such|JJ|BODY_1|0
+the abnormal phase|DT JJ NN|BODY_4|0
+the parent blocks|DT NN NNS|BODY_1|0
+instructions and unblocks chkr-1 , chkr-3 and chkr-4.|NNS CC NNS NN , NN CC NN|BODY_7|0
+a terminated one|DT VBN CD|BODY_5|0
+( p12:1 )|-LRB- NNS -RRB-|BODY_12|0
+brevity|NN|BODY_1|0
+convention|NN|BODY_1|0
+simplicity|NN|BODY_1|0
+snapshot 16|NN CD|BODY_1|1
+subsequent diagrams|JJ NNS|BODY_6|0
+the sequel|DT NN|BODY_1|0
+[17]|NN|BODY_6|0
+natural language design|JJ NN NN|ABSTRACT_5|0
+the contour primes|DT NN NNS|BODY_6|0
+the enclosing algorithm contour|DT VBG NN NN|BODY_9|0
+the first row|DT JJ NN|BODY_1|0
+a particular machine cycle|DT JJ NN NN|BODY_18|0
+its instruction pointer|PRP$ NN NN|BODY_6|0
+terminated|VBN|BODY_7|0
+the blocked-waiting code|DT JJ NN|BODY_5|0
+the ecall blocked-waiting code|DT JJ NN NN|BODY_5|0
+the enclosing contour fdr-1|DT NN NN NN|BODY_5|0
+the horizontal arrow|DT JJ NN|BODY_1|0
+the subscript|DT NN|BODY_1|0
+a slightly different fashion|DT RB JJ NN|BODY_5|0
+chkr-3 \pi|NN NN|BODY_18|0
+contour chkr-2|NN NN|BODY_8|0
+order|NN|BODY_16|0
+the for-loop|DT NN|BODY_1|0
+fdr and chkr|NN CC NN|BODY_4|0
+the remaining instructions|DT VBG NNS|BODY_1|0
+snapshot 8|NN CD|BODY_1|0
+this type|DT NN|BODY_7|0
+section 3 presents|NN CD NNS|BODY_1|0
+their run-time instances|PRP$ NN NNS|BODY_9|0
+the classification|DT NN|BODY_1|0
+its base contour|PRP$ NN NN|BODY_6|0
+the contour make-1|DT NN NN|BODY_6|0
+its masters|PRP$ NNS|BODY_5|0
+ordinary programmers|JJ NNS|BODY_4|0
+processor chkr-2|NN NN|BODY_1|0
+the open alternatives|DT JJ NNS|BODY_5|0
+the program executes|DT NN NNS|BODY_12|0
+this work|DT NN|BODY_7|0
+its direct master|PRP$ JJ NN|BODY_5|0
+the rendezvous completes|DT NN NNS|BODY_1|0
+all other dependences|DT JJ NNS|BODY_1|0
+both processors chkr-1 and fdr-1|DT NNS NN CC NN|BODY_1|0
+such descriptions|JJ NNS|BODY_1|0

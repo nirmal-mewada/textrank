@@ -1,0 +1,554 @@
+we|PRP|BODY_21:BODY_26:ABSTRACT_2:BODY_2:BODY_25:BODY_3:BODY_4:BODY_35:BODY_6:BODY_5:BODY_34:BODY_27:BODY_1:BODY_49:ABSTRACT_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_30:BODY_20:BODY_9|11
+that|WDT|BODY_12:BODY_11:BODY_63:BODY_18:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|1
+the agent|DT NN|BODY_6:BODY_5:BODY_17:ABSTRACT_8:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:ABSTRACT_9:BODY_9|1
+which|WDT|BODY_12:BODY_11:BODY_17:BODY_18:ABSTRACT_3:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:ABSTRACT_7:BODY_10:BODY_7:BODY_9|1
+a task or plan|DT NN CC NN|BODY_6:BODY_5:ABSTRACT_5:BODY_1:BODY_3:BODY_4:ABSTRACT_7|0
+unsuccessful tasks and plans|JJ NNS CC NNS|ABSTRACT_4:BODY_2|0
+an operational semantics|DT JJ NNS|BODY_6:ABSTRACT_2|1
+a bdi-style architecture|DT JJ NN|ABSTRACT_5:BODY_3|1
+aborting|NN|ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|1
+another agent|DT NN|BODY_11:ABSTRACT_13:BODY_10:BODY_9|1
+|NNP|BODY_6:BODY_5:BODY_18:BODY_2:BODY_10:BODY_4:ABSTRACT_10|0
+us|PRP|BODY_5:ABSTRACT_8:BODY_1:BODY_2:BODY_3|0
+each plan|DT NN|ABSTRACT_2:BODY_3:BODY_4:ABSTRACT_10|0
+action|NN|BODY_5:ABSTRACT_5:BODY_3|0
+a particular agent system|DT JJ NN NN|ABSTRACT_11|0
+a bdi-based execution model|DT JJ NN NN|ABSTRACT_9|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+some agent programming languages|DT NN VBG NNS|ABSTRACT_5|0
+a key technical challenge|DT JJ JJ NN|ABSTRACT_1|0
+the failure method|DT NN NN|ABSTRACT_4|0
+artificial intelligence-intelligent agents|JJ JJ NNS|ABSTRACT_3|0
+general terms design|JJ NNS NN|ABSTRACT_4|0
+an optional abort-method|DT JJ NN|ABSTRACT_3|0
+an appropriate course|DT JJ NN|ABSTRACT_4|0
+the abort methods|DT NN NNS|ABSTRACT_9|0
+the execution cycle|DT NN NN|ABSTRACT_3|0
+parallel execution threads|JJ NN NNS|ABSTRACT_5|0
+an appropriate sequence|DT JJ NN|ABSTRACT_11|0
+such a decision|JJ DT NN|ABSTRACT_7|0
+it|PRP|BODY_11:BODY_16:BODY_21:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_54:BODY_9|1
+the goal|DT NN|BODY_12:BODY_17:BODY_23:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_53:BODY_1:BODY_10:BODY_7:BODY_29:BODY_9|1
+the task|DT NN|BODY_12:BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+failure|NN|BODY_6:BODY_16:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8|3
+a single transition conclusion|DT JJ NN NN|BODY_9|1
+the abstract agent language|DT JJ NN NN|BODY_10:BODY_8|1
+the tasks and plans|DT NNS CC NNS|BODY_3|1
+any opinions , findings|DT NNS , NNS|BODY_1|1
+p|NN|BODY_11:BODY_18:BODY_15:BODY_2:BODY_14:BODY_38:BODY_4:BODY_5:BODY_53:BODY_44:BODY_19:BODY_7:BODY_8|2
+v|NN|BODY_6:BODY_32:BODY_11:BODY_28:BODY_13:BODY_1:BODY_3:BODY_4:BODY_10:BODY_19:BODY_8:BODY_20|0
+p1 âˆ’â† ’ b|NNS NNP NNP NN|BODY_46:BODY_35:BODY_34:BODY_39|0
+a pair processing architecture|DT NN VBG NN|BODY_4|0
+a single step yields|DT JJ NN NNS|BODY_4|0
+the agent execution cycle|DT NN NN NN|BODY_6:BODY_9|0
+belief a( v )|NN NN NN -RRB-|BODY_2|0
+a possible abort point|DT JJ NN NN|BODY_5|0
+a guarded alternative ïˆiî¸|DT JJ NN NNS|BODY_64|0
+â´ âˆ’â† ’ b|JJ JJ NN NN|BODY_15:BODY_39:BODY_9|0
+the parents and children|DT NNS CC NNS|BODY_7|0
+the first parallel branch|DT JJ JJ NN|BODY_10|0
+a new pap identifier|DT JJ NN NN|BODY_5:BODY_3|0
+the failure condition ï†f|DT NN NN NN|BODY_2|0
+the old plan body|DT JJ NN NN|BODY_1:BODY_24|0
+the first plan clause|DT JJ NN NN|BODY_2:BODY_4|0
+a new variable distinct|DT JJ JJ JJ|BODY_2:BODY_7|0
+plan aborting or failure|NN NN CC NN|BODY_1|0
+task aborting or failure|NN NN CC NN|BODY_2|0
+( !afc !twp )|-LRB- JJ NN -RRB-|BODY_10|0
+our extended bdi semantics|PRP$ JJ NN NNS|BODY_3|0
+the second plan clause|DT JJ NN NN|BODY_5:BODY_7|0
+a dedicated agent failure|DT JJ NN NN|BODY_3|0
+!e âˆ’â† ’ b|. NNP NNP NN|BODY_26|0
+that appropriate clean-up methods|IN JJ JJ NNS|BODY_6|0
++b î¼v( âˆ’b )|NN JJ NN -RRB-|BODY_5|0
+a high-level agent language|DT JJ NN NN|BODY_3|0
+the current active plan|DT JJ JJ NN|BODY_1|0
+âˆ’b | ?ï† ||NNP IN . IN|BODY_7|0
+nil î¼v( !e )|NN JJ NN -RRB-|BODY_7|0
+more dynamic agent reasoning|JJR JJ NN NN|BODY_4|0
+a different operational semantics|DT JJ JJ NNS|BODY_2|0
+one applicable plan body|CD JJ NN NN|BODY_2|0
+any one agent system|DT CD NN NN|BODY_7|0
+â€ ¢ a(v )|JJ JJ NN -RRB-|BODY_3|0
+multi-agent systems ( aamas|JJ NNS -LRB- NN|BODY_3|0
+abstract ( twa )|JJ -LRB- CD -RRB-|BODY_2|0
+the standard execution cycle|DT JJ NN NN|BODY_3|0
+e ) } b|NN -RRB- NN NN|BODY_25|0
+failed tasks or plans|VBN NNS CC NNS|BODY_3|0
+the support meeting submission|DT NN NN NN|BODY_5|0
+no explicit clean up|DT JJ JJ IN|BODY_10|0
+each plan clause e|DT NN NN NN|BODY_6|0
+a failed goal )|DT JJ NN -RRB-|BODY_4|0
+!e(v ) î¼v( p1|NN -RRB- JJ NNS|BODY_8|0
+the bdi formalism (|DT JJ NN -LRB-|BODY_8|0
+p :true b ||NN JJ NN NN|BODY_10|0
+abortor at least suspend|IN IN JJS VB|BODY_6|0
+the existing execution structures|DT VBG NN NNS|BODY_2|0
+c â† ? p|NN NN NN NN|BODY_15|0
+the current program pi|DT JJ NN NN|BODY_5|0
+the cancel paper number|DT VB NN NN|BODY_7|0
+guarded alternatives ( c1|JJ NNS -LRB- NNS|BODY_6|0
+a pre-defined plan library|DT JJ NN NN|BODY_6|0
+a higher priority )|DT JJR NN -RRB-|BODY_7|0
+the transformation î¼v( â·|DT NN JJ NNS|BODY_22|0
+true gs b ||JJ NNS NN NN|BODY_10|0
+the task or plan|DT NN CC NN|BODY_4|0
+a central technical challenge|DT JJ JJ NN|BODY_1|0
+the appropriate clean-up code|DT JJ JJ NN|BODY_3|0
+both failure and aborting|DT NN CC NN|BODY_7|0
+no more active children|DT RBR JJ NNS|BODY_2|0
+the transformed source needs|DT VBN NN NNS|BODY_2|0
+the a( v )|DT JJ NN -RRB-|BODY_3|0
+the list suffix relationship|DT NN NN NN|BODY_5|0
+the paper number registry|DT NN NN NN|BODY_3|0
+the current program p|DT JJ NN NN|BODY_11|0
+( ( !apn(v )|-LRB- -LRB- NN -RRB-|BODY_14|0
+aamas 07 ) 9|NN CD -RRB- CD|BODY_4|0
+a plan clause e|DT NN NN NN|BODY_3|0
+the ijcai submission example|DT NN NN NN|BODY_4|0
+the allocated paper number|DT VBN NN NN|BODY_4|0
+aamas 07 ) 13|NN CD -RRB- CD|BODY_4|0
+true â† ? prependid(v|JJ JJ NN NN|BODY_4|0
+its tasks and plans|PRP$ NNS CC NNS|BODY_9|0
+the translated plan clause|DT VBN NN NN|BODY_2|0
+all possible alternate plans|DT JJ JJ NNS|BODY_14|0
+p âˆ’â† ’ b|NN JJ NN NN|BODY_25|0
+â´ gr figure 2|JJ NN NN CD|BODY_59|0
+a most general unifier|DT RBS JJ NN|BODY_10|0
+an augmented agent language|DT JJ NN NN|BODY_3|0
+s0 âˆ’â†’âˆ — sn|DT JJ NN NN|BODY_1|0
+!cpn(v) ) !cpn(v) )|NN -RRB- NN -RRB-|BODY_46|0
+2. motivating example alice|DT NN NN NN|BODY_1|0
+the second parallel branch|DT JJ JJ NN|BODY_7|0
+î  \ p|VBD JJ NN NN|BODY_9|0
+a goal deletion plan|DT NN NN NN|BODY_1:BODY_8|0
+an extra context parameter|DT JJ NN NN|BODY_22|0
+execution and failure handling|NN CC NN NN|BODY_5|0
+applicable )4 and p|JJ NNS CC NN|BODY_23|0
+the failed goal g|DT JJ NN NN|BODY_7|0
+goal and intention states|NN CC NN NNS|BODY_6|0
+a goal failure event|DT NN NN NN|BODY_12|0
+implemented bdi agent systems|VBN JJ NN NNS|BODY_14|0
+one applicable plan clause|CD JJ NN NN|BODY_2|0
+the jason system [6]|DT NN NN NN|BODY_5|0
+the usual bdi fashion|DT JJ NN NN|BODY_6|0
+the primitive action prependid(v|DT JJ NN NN|BODY_2|0
+the second rule states|DT JJ NN NNS|BODY_4|0
+the parent task tp|DT NN NN NN|BODY_3|0
+meta-level default failure handlers|JJ NN NN NNS|BODY_8|0
+the designated clean-up method|DT VBN JJ NN|BODY_6|0
+the actions or sub-tasks|DT NNS CC NNS|BODY_4|0
+î¼v( p1 p2 )|DT JJ NN -RRB-|BODY_2|0
+simplistic plan-level failure handling|JJ NN NN NN|BODY_2|0
+a corresponding operational semantics|DT JJ JJ NNS|BODY_8|0
+paper submission ( hps)|NN NN -LRB- NN|BODY_1|0
+the success condition ï†s|DT NN NN NN|BODY_1|0
+the bdi agent implementation|DT JJ NN NN|BODY_4|0
+the common plan representation|DT JJ NN NN|BODY_1|0
+â€ ¢ abort(v )|JJ JJ NN -RRB-|BODY_5|0
+success [12 , 14]|NN CD , CD|BODY_10|0
+for most can constructs|IN JJS MD NNS|BODY_1|0
+two or more sub-programs|CD CC JJR NNS|BODY_1|0
+no other applicable plans|DT JJ JJ NNS|BODY_3|0
+no goal deletion plan|DT NN NN NN|BODY_1|0
+clearance ( afc )|NN -LRB- NN -RRB-|BODY_1|0
+send clearance request (scr|VB NN NN NN|BODY_1|0
+the final rule gr|DT JJ NN NN|BODY_1|0
+such meta level facilities|PDT NN NN NNS|BODY_1|0
+the one non-standard extension|DT CD JJ NN|BODY_1|0
+aborting plans and tasks|NN NNS CC NNS|BODY_6|0
+the relevant a facts|DT JJ DT NNS|BODY_5|0
+the current intention )|DT JJ NN -RRB-|BODY_14|0
+the first rule states|DT JJ NN NNS|BODY_1|0
+the first two situations|DT JJ CD NNS|BODY_6|0
+the abort handling program|DT NN VBG NN|BODY_6|0
+!wfr(r , v )|JJ , FW -RRB-|BODY_6|0
+its own internal events|PRP$ JJ JJ NNS|BODY_5|0
+the predicate sa( v|DT NN NN NN|BODY_2|0
+the third rule gi|DT JJ NN NN|BODY_1|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7:BODY_9|0
+this|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+our approach|PRP$ NN|BODY_1:BODY_2:BODY_3:BODY_8|1
+the operational semantics|DT JJ NNS|BODY_2:BODY_1|1
+san( v )|JJ NN -RRB-|BODY_5:BODY_3:BODY_10|1
+an intelligent agent|DT JJ NN|BODY_1:BODY_3|1
+conclusions or recommendations|NNS CC NNS|BODY_2|1
+the program p|DT NN NN|BODY_18:BODY_1|1
+an important element|DT JJ NN|BODY_3|1
+the program|DT NN|BODY_6:BODY_5:BODY_22:BODY_3:BODY_4:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|1
+a parent pap|DT NN NN|BODY_5|1
+an important capability|DT JJ NN|BODY_2|1
+the first time|DT JJ NN|BODY_4|1
+interior-national business center|JJ NN NN|BODY_9|1
+a worked example|DT VBD NN|BODY_8|1
+a derivation rule|DT NN NN|BODY_1|1
+an aborted plan|DT JJ NN|BODY_5|1
+section 5 discusses|NN CD NNS|BODY_1|1
+the failure|DT NN|BODY_6:BODY_5:BODY_28:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|2
+â¬a( v )|JJ NN -RRB-|BODY_31:BODY_16:BODY_18:BODY_23:BODY_13:BODY_10:BODY_8|0
+âˆ’a( v )|JJ NN -RRB-|BODY_47:BODY_13:BODY_24:BODY_19:BODY_7|0
+a task|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+.e|FW|BODY_6:BODY_16:BODY_13:BODY_26:BODY_4:BODY_7:BODY_9|0
+one|CD|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+)|-RRB-|BODY_12:BODY_11:BODY_16:BODY_17:BODY_43:BODY_21:BODY_15:BODY_13:BODY_26:BODY_4:BODY_6:BODY_5:BODY_34:BODY_19:BODY_10:BODY_51:BODY_7|0
+the context variable|DT NN NN|BODY_2|0
+the semantics|DT NNS|BODY_2:BODY_3:BODY_14:BODY_9|1
+the can language|DT NN NN|BODY_5:BODY_2|0
+the sixth intl|DT JJ NN|BODY_6:BODY_2:BODY_1|0
+the source transformation|DT NN NN|BODY_12:BODY_3:BODY_4|0
+a new pap|DT JJ NN|BODY_21:BODY_3:BODY_9|0
+a single step|DT JJ NN|BODY_2|0
+the orderly execution|DT JJ NN|BODY_2|0
+the pap v|DT NN NN|BODY_6:BODY_4|0
+her calo agent|PRP$ NN NN|BODY_2:BODY_4|0
+a plan library|DT NN NN|BODY_4:BODY_8|0
++a( v )|JJ NN -RRB-|BODY_6:BODY_11:BODY_21:BODY_14:BODY_7:BODY_8:BODY_20|0
+support meeting submission|NN NN NN|BODY_17:BODY_4|0
+the plan clause|DT NN NN|BODY_21:BODY_14|0
+plans|NNS|BODY_6:BODY_5:BODY_15:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+a knowledge worker|DT NN NN|BODY_2|0
+personal assistive agent|JJ JJ NN|BODY_4|0
+âˆ’â† ’ s1|JJ NN NNS|BODY_2|0
+an alternate plan|DT JJ NN|BODY_6:BODY_5:BODY_8|0
+a bdi-style agent|DT JJ NN|BODY_3:BODY_8|0
+the goal adoption|DT NN NN|BODY_9|0
+the remaining alternatives|DT VBG NNS|BODY_8|0
+its intention structure|PRP$ NN NN|BODY_11|0
+an agent|DT NN|BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|1
+unruh et al|JJ NNP NN|BODY_3:BODY_7|0
+( e .g.|-LRB- NN NN|BODY_11:BODY_8|0
+the environment invalidate|DT NN NN|BODY_10|0
+only san( v|RB JJ FW|BODY_7|0
+the basic (|DT JJ -LRB-|BODY_7|0
+the ijcai conference|DT NN NN|BODY_2|0
+[51 , 42|CD , CD|BODY_6|0
+the current program|DT JJ NN|BODY_6|0
+the form e|DT NN NN|BODY_14:BODY_9|0
+the original program|DT JJ NN|BODY_11:BODY_2|0
+multi-agent exception handling|JJ NN NN|BODY_2|0
+the similar sentinels|DT JJ NNS|BODY_6|0
+the anonymous reviewers|DT JJ NNS|BODY_3|0
+v ) task|FW -RRB- NN|BODY_2|0
+most agent systems|JJS NN NNS|BODY_2|0
+an external factor|DT JJ NN|BODY_2:BODY_8|0
+the descendant paps|DT NN NNS|BODY_2:BODY_3|0
+failure and aborting|NN CC IN|BODY_1:BODY_3|0
+submission ( sms|NN -LRB- NNS|BODY_7|0
+jack and spark|NN CC NN|BODY_2:BODY_3|0
+a particular task|DT JJ NN|BODY_5:BODY_3|0
+the current plan|DT JJ NN|BODY_2:BODY_9|0
+research projects agency|NN NNS NN|BODY_5|0
+that program p|WDT NN NN|BODY_7|0
+a choice operator|DT NN NN|BODY_2|0
+the bdi formalism|DT NN NN|BODY_2|0
+goal deletion events|NN NN NNS|BODY_6:BODY_2|0
+a plan failure|DT NN NN|BODY_1:BODY_2|0
+the other branch|DT JJ NN|BODY_5:BODY_3|0
+a key issue|DT JJ NN|BODY_1|0
+an achievement goal|DT NN NN|BODY_2|0
+forward recovery actions|JJ NN NNS|BODY_2|0
+the above defines|DT JJ NNS|BODY_1|0
+the fab constructs|DT NN NNS|BODY_2|0
+the undo process|DT VB NN|BODY_1|0
+the user language|DT NN NN|BODY_2|0
+ground belief atoms|NN NN NNS|BODY_2|0
+f( v )|JJ NNS -RRB-|BODY_52:BODY_7|0
+ b ||NN NN IN|BODY_29|0
+¨ ï†f b|FW IN NN|BODY_33:BODY_24|0
+the a( v|DT JJ NN|BODY_4|0
+an informal description|DT JJ NN|BODY_9|0
+the parent task|DT NN NN|BODY_6:BODY_2|0
+another applicable plan|DT JJ NN|BODY_5|0
+a rational agent|DT JJ NN|BODY_3|0
+failure and abort|NN CC NN|BODY_4:BODY_10:BODY_8|0
+( common approaches|-LRB- JJ NNS|BODY_3|0
+a jason agent|DT NN NN|BODY_10|0
+a bdi agent|DT JJ NN|BODY_4|0
+a single agent|DT JJ NN|BODY_2|0
+its earlier actions|PRP$ JJR NNS|BODY_5|0
+failure-handling strategy rules|JJ NN NNS|BODY_2|0
+a paper number|DT NN NN|BODY_6:BODY_1|0
+the extended version|DT JJ NN|BODY_3|0
+v ) action|FW -RRB- NN|BODY_5|0
+sri international was|DT JJ VBD|BODY_3|0
+) â‰ ¡|-RRB- NN NN|BODY_9|0
+a replacement laptop|DT NN NN|BODY_4|0
+a unified approach|DT JJ NN|BODY_7:BODY_9|0
+no active child|DT JJ NN|BODY_5|0
+company internal procedures|NN JJ NNS|BODY_2|0
+each plan clause|DT NN NN|BODY_13:BODY_1|0
+hâ¨ubner et al|NN NNP NN|BODY_2|0
+work plan failure|NN NN NN|BODY_2|0
+interest ( ijcai|NN -LRB- FW|BODY_20|0
+a commitment )|DT NN -RRB-|BODY_12|0
+the fhc approach|DT JJ NN|BODY_1|0
+the sms plan|DT NNS NN|BODY_3|0
+p2 | p1|DT IN NNS|BODY_9|0
+a reflective capability|DT JJ NN|BODY_3|0
+the goal level|DT NN NN|BODY_2|0
+the specific constructs|DT JJ NNS|BODY_6|0
+the two authors|DT CD NNS|BODY_2|0
+her travel plans|PRP$ NN NNS|BODY_3|0
+an active child|DT JJ NN|BODY_1:BODY_3|0
+a parameter m|DT NN NN|BODY_18|0
+the plan level|DT NN NN|BODY_2|0
+each new pap|DT JJ NN|BODY_5|0
+the clean-up methods|DT JJ NNS|BODY_1:BODY_3|0
+the contained program|DT VBN NN|BODY_36|0
+executing two programs|VBG CD NNS|BODY_3|0
+its best course|PRP$ JJS NN|BODY_4|0
+no active children|DT JJ NNS|BODY_36:BODY_21|0
+its cognitive attitudes|PRP$ JJ NNS|BODY_3|0
+the new identifier|DT JJ NN|BODY_4|0
+the success condition|DT NN NN|BODY_7:BODY_9|0
+every child pap|DT NN NN|BODY_4|0
+3 ( afc|CD -LRB- NN|BODY_5|0
+an extra variable|DT JJ NN|BODY_10|0
+a planning component|DT NN NN|BODY_6|0
+a greater overhead|DT JJR NN|BODY_4|0
+( b ||-LRB- NN NN|BODY_5|0
+the initial plan|DT JJ NN|BODY_3|0
+implemented bdi systems|VBN NN NNS|BODY_3|0
+the agent programmer|DT NN NN|BODY_2|0
+the first p|DT JJ VB|BODY_8|0
+an agent capable|DT NN JJ|BODY_6|0
+the second branch|DT JJ NN|BODY_3|0
+!wfr( r )|JJ NN -RRB-|BODY_14|0
+logic and knowledge|NN CC NN|BODY_2|0
+no specific action|DT JJ NN|BODY_5|0
+our failure methods|PRP$ NN NNS|BODY_2|0
+the failed abort-method|DT VBN NN|BODY_4|0
+the failed goal|DT JJ NN|BODY_9|0
+the current state|DT JJ NN|BODY_5|0
+all relevant plan|DT JJ NN|BODY_3|0
+a complementary topic|DT JJ NN|BODY_5|0
+ï†f â´ )|JJ NN -RRB-|BODY_5:BODY_19:BODY_9|0
+ï†s âˆ ¨|FW FW FW|BODY_47|0
+a failed failure|DT JJ NN|BODY_5|0
+a context condition|DT NN NN|BODY_15|0
+a list [42|DT NN NN|BODY_6|0
+our procedure-based approach|PRP$ JJ NN|BODY_2|0
+the exclamation mark|DT NN NN|BODY_20|0
+the wait condition|DT NN NN|BODY_2|0
+two new contexts|CD JJ NNS|BODY_2|0
+piî¸ | e|NN IN NN|BODY_20|0
+the full complexity|DT JJ NN|BODY_4|0
+p1 p2 executes|LS . NNS|BODY_4|0
+a new identifier|DT JJ NN|BODY_6|0
+) task failure|-RRB- NN NN|BODY_13|0
+our example )|PRP$ NN -RRB-|BODY_21|0
+the existing task|DT VBG NN|BODY_7|0
+the execution model|DT NN NN|BODY_5|0
+the following predicates|DT VBG NNS|BODY_2|0
+each plan body|DT NN NN|BODY_11|0
+â´ gi p|JJ NN NN|BODY_29|0
+task interaction effects|NN NN NNS|BODY_8|0
+the possible interleaving|DT JJ NN|BODY_2|0
+an omitted c|DT VBN NN|BODY_17|0
+the second plan|DT JJ NN|BODY_10|0
+goal-based semantic compensation|JJ JJ NN|BODY_6|0
+other goal types|JJ NN NNS|BODY_3|0
+single cohesive units|JJ JJ NNS|BODY_7|0
+a brief summary|DT JJ NN|BODY_4|0
+air traffic control|NN NN NN|BODY_4|0
+| nil 4|IN NN CD|BODY_16|0
+a particular course|DT JJ NN|BODY_2|0
+the following rules|DT VBG NNS|BODY_3|0
+a conference submission|DT NN NN|BODY_5|0
+its next course|PRP$ JJ NN|BODY_4|0
+alice tasks calo|DT NNS NN|BODY_2|0
+an alternative behaviour|DT JJ NN|BODY_4|0
+the guard operator|DT NN NN|BODY_4|0
+a source transformation|DT NN NN|BODY_5|0
+î  âˆ §|JJ JJ NN|BODY_23|0
+4 ( twp)|CD -LRB- NN|BODY_6|0
+â´ | p1|JJ IN NNS|BODY_12|0
+our extended version|PRP$ JJ NN|BODY_3|0
+a primitive action|DT JJ NN|BODY_62|0
+relatively little work|RB JJ NN|BODY_2|0
+an extra parameter|DT JJ NN|BODY_8|0
+î¼v( p1 )|JJ NNS -RRB-|BODY_10|0
+p ) :false|NN -RRB- NN|BODY_15|0
+auxiliary compound forms|JJ NN NNS|BODY_3|0
+î¼v ( p)|NN -LRB- NN|BODY_11|0
+aborting and failure|NN CC NN|BODY_4|0
+the first author|DT JJ NN|BODY_1|0
+p â£ p|NN FW NN|BODY_28|0
+) âˆ §|-RRB- FW NN|BODY_18|0
+the former because|DT JJ IN|BODY_2|0
+the agent system|DT NN NN|BODY_4|0
+the cleanup methods|DT NN NNS|BODY_12|0
+some particular code|DT JJ NN|BODY_5|0
+the abort method|DT NN NN|BODY_3|0
+dedicated compensation actions|VBN NN NNS|BODY_3|0
+the second p|DT JJ VB|BODY_9|0
+an abort )|DT NN -RRB-|BODY_5|0
+the relevant failure|DT JJ NN|BODY_2|0
+a failed plan|DT VBN NN|BODY_7|0
+a logical formula|DT JJ NN|BODY_16|0
+a parent task|DT NN NN|BODY_7|0
+the following sub-tasks|DT VBG NNS|BODY_6|0
+a new context|DT JJ NN|BODY_5|0
+an internal deliberation|DT JJ NN|BODY_2|0
+a( v )|JJ NN -RRB-|BODY_7|0
+a considerable amount|DT JJ NN|BODY_2|0
+the appropriate actions|DT JJ NNS|BODY_5|0
+a sensible abort-method|DT JJ NN|BODY_6|0
+an explicit representation|DT JJ NN|BODY_2|0
+p â£ p2|NN FW .|BODY_42|0
+completion unhindered or|NN VBN CC|BODY_6|0
+some other decision|DT JJ NN|BODY_7|0
+a particular set|DT JJ NN|BODY_10|0
+abort- methods pf|NNS NNS NN|BODY_2|0
+the relevant contexts|DT JJ NNS|BODY_6|0
+a fatal flaw|DT JJ NN|BODY_5|0
+a plan clause|DT NN NN|BODY_6|0
+a certain state|DT JJ NN|BODY_9|0
+the parent plans|DT NN NNS|BODY_7|0
+the first goal|DT JJ NN|BODY_4|0
+an analysis tool|DT NN NN|BODY_2|0
+the translated plan|DT VBN NN|BODY_1|0
+company policy changes|NN NN NNS|BODY_2|0
+the above situations|DT JJ NNS|BODY_2|0
+the goal base|DT NN NN|BODY_4|0
+an sms task|DT NNS NN|BODY_3|0
+) sequence b|-RRB- NN NN|BODY_45|0
+the plan body|DT NN NN|BODY_1:BODY_24|0
+agent crash recovery|NN JJ NN|BODY_5|0
+the resulting architecture|DT VBG NN|BODY_1|0
+the language constructs|DT NN NNS|BODY_6|0
+the internal deliberations|DT JJ NNS|BODY_4|0
+the latter view|DT JJ NN|BODY_2|0
+some earlier decisions|DT JJR NNS|BODY_11|0
+an appropriate level|DT JJ NN|BODY_3|0
+the possible existence|DT JJ NN|BODY_3|0
+a plan body|DT NN NN|BODY_2|0
+some conflicting task|DT VBG NN|BODY_6|0
+a parallel branch|DT JJ NN|BODY_4|0
+a predetermined set|DT JJ NN|BODY_8|0
+a static set|DT JJ NN|BODY_4|0
+the new task|DT JJ NN|BODY_1|0
+the fab( p|DT NN NN|BODY_1:BODY_9|0
+sub-task ) t|NN -RRB- NN|BODY_6|0
+) +f( v|-RRB- NN FW|BODY_42|0
+the active context|DT JJ NN|BODY_4|0
+a basic configuration|DT JJ NN|BODY_1|0
+a fail condition|DT VBP NN|BODY_11|0
+the existing list|DT VBG NN|BODY_7|0
+this simple modification|DT JJ NN|BODY_2|0
+another applicable alternative|DT JJ NN|BODY_9|0
+clearance ( afc|NN -LRB- NN|BODY_3|0
+a situated world|DT VBN NN|BODY_11|0
+any undo actions|DT VB NNS|BODY_3|0
+the general nature|DT JJ NN|BODY_2|0
+the deliberation cycle|DT NN NN|BODY_7|0
+its descendants )|PRP$ NNS -RRB-|BODY_9|0
+the failure-handling knowledge|DT NN NN|BODY_6|0
+the default behaviour|DT NN NN|BODY_2|0
+our fab( p|PRP$ NN NN|BODY_4|0
+all these abort-methods|PDT DT NNS|BODY_7|0
+the current set|DT JJ NN|BODY_6|0
+the ancestor relationship|DT NN NN|BODY_3|0
+the precise sequence|DT JJ NN|BODY_6|0
+the existing plan(|DT VBG NN|BODY_5|0
+?false ) second|JJ -RRB- JJ|BODY_25|0
+no alternative plans|DT NN NNS|BODY_9|0
+default behavioural rules|NN NN NNS|BODY_3|0
+our primary contribution|PRP$ JJ NN|BODY_1|0
+the parallel operator|DT JJ NN|BODY_27|0
+a reasonable response|DT JJ NN|BODY_5|0
+multiple concurrent sub-plans|JJ JJ NNS|BODY_3|0
+neither possible (|DT JJ -LRB-|BODY_9|0
+the technical challenges|DT JJ NNS|BODY_4|0
+the task !twp(v|DT NN NNP|BODY_50|0
+a new program|DT JJ NN|BODY_8|0
+a procedure-based approach|DT JJ NN|BODY_3|0
+forward recovery procedures|JJ NN NNS|BODY_4|0
+a particular state|DT JJ NN|BODY_6|0
+associated active plans|JJ JJ NNS|BODY_5|0
+the latter case|DT JJ NN|BODY_5|0
+in section 4.2|IN NN CD|BODY_5|0
+each atomic action|DT JJ NN|BODY_5|0
+a further item|DT JJ NN|BODY_1|0
+the event rule|DT NN NN|BODY_1|0
+the belief base|DT NN NN|BODY_1|0
+the informal semantics|DT JJ NNS|BODY_1|0
+an explicit goal|DT JJ NN|BODY_1|0
+a particular pap|DT JJ NN|BODY_8|0
+( assuming ï†s|-LRB- VBG NN|BODY_11|0
+the select rule|DT JJ NN|BODY_1|0
+a key feature|DT JJ NN|BODY_1|0
+its internal state|PRP$ JJ NN|BODY_11|0
+the existing context|DT VBG NN|BODY_3|0
+no further deliberation|DT JJ NN|BODY_5|0
+the intention structure|DT NN NN|BODY_6|0
+their failure-handling goals|PRP$ JJ NNS|BODY_1|0
+our future work|PRP$ JJ NN|BODY_6|0
+domain task knowledge|NN NN NN|BODY_5|0
+the deliberation process|DT NN NN|BODY_7|0
+the afc subplan|DT JJ NN|BODY_4|0
+the environment )|DT NN -RRB-|BODY_12|0
+the usual way|DT JJ NN|BODY_4|0
+our approach associates|PRP$ NN NNS|BODY_1|0
+a state-based protocol|DT JJ NN|BODY_5|0
+their abort methods|PRP$ JJ NNS|BODY_9|0
+failure clean-up plans|NN JJ NNS|BODY_1|0
+the abort-method need|DT JJ NN|BODY_1|0
+v and v|NN CC NN|BODY_1|0
+the compound constructs|DT NN NNS|BODY_1|0
+an arbitrary program|DT JJ NN|BODY_12|0
+the sms task|DT NNS NN|BODY_3|0
+an execution event|DT NN NN|BODY_1|0
+the third situation|DT JJ NN|BODY_1|0
+the repeat execution|DT NN NN|BODY_1|0
+the program p.|DT NN NN|BODY_4|0
+a plan p|DT NN NN|BODY_1|0
+the operational rules|DT JJ NNS|BODY_3|0
+paper ( twp)|NN -LRB- NN|BODY_1|0
+no formal semantics|DT JJ NNS|BODY_1|0
+the same assumption|DT JJ NN|BODY_13|0
+the earlier work|DT JJR NN|BODY_3|0
+a given program|DT VBN NN|BODY_12|0
+the first plan|DT JJ NN|BODY_1|0
+the second way|DT JJ NN|BODY_1|0
+cancel clearance request.3|VB NN NNS|BODY_4|0
+a pragmatic one|DT JJ CD|BODY_3|0
+the aborted branch|DT JJ NN|BODY_5|0
+the overall task|DT JJ NN|BODY_8|0
+4.2 aborting intentions|CD NN NNS|BODY_1|0
+the clearance request|DT NN NN|BODY_7|0
+another applicable one|DT JJ CD|BODY_5|0
+a stable state|DT JJ NN|BODY_6|0
+the waiting branch|DT VBG NN|BODY_1|0
+the former case|DT JJ NN|BODY_1|0
+4.3 worked example|CD VBD NN|BODY_1|0
+the construct ï†|DT VB NNS|BODY_1|0
+all this together|PDT DT RB|BODY_1|0
+tasks and plans|NNS CC NNS|BODY_1|0
+this new context|DT JJ NN|BODY_24|0
+the task !ccr(v|DT NN NN|BODY_1|0
+tasks|NNS|BODY_5:BODY_11:BODY_2:BODY_3:BODY_4|0
+p2|DT|BODY_58:BODY_57:BODY_3:BODY_44:BODY_50:BODY_37:BODY_9|0
+a goal|DT NN|BODY_6:BODY_5:BODY_25:BODY_2:BODY_3:BODY_4|0
+the execution|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the plan|DT NN|BODY_5:BODY_22:BODY_3:BODY_10:BODY_7|0
+goals|NNS|BODY_6:BODY_11:BODY_5:BODY_61:BODY_1:BODY_3:BODY_4:BODY_7|0
+the context|DT NN|BODY_12:BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_8|0
+the abort-method|DT NN|BODY_5:BODY_13:BODY_2:BODY_3|0
+can|NN|BODY_2:BODY_3:BODY_4|0
+calo|NN|BODY_11:BODY_18:BODY_2:BODY_1:BODY_4:BODY_7|0
+multi-agent systems|JJ NNS|BODY_3|0
+a set|DT NN|BODY_5:BODY_2:BODY_3|0
+' ï†s|POS NNS|BODY_56:BODY_41:BODY_11:BODY_17:BODY_52:BODY_18:BODY_27:BODY_13:BODY_3:BODY_37:BODY_7|0
+the programmer|DT NN|BODY_2:BODY_3|0
+example|NN|BODY_6:BODY_1:BODY_4|0
+the case|DT NN|BODY_1:BODY_2:BODY_4|0
+goal|NN|BODY_12:BODY_6:BODY_36:BODY_40:BODY_17:BODY_15:BODY_26:BODY_2:BODY_7:BODY_51:BODY_55|0
+san( v|JJ NN|BODY_5:BODY_2:BODY_4:BODY_19:BODY_8|0
+a belief|DT NN|BODY_11:BODY_10:BODY_4:BODY_7:BODY_8|0
+a plan|DT NN|BODY_5:BODY_2:BODY_4:BODY_8:BODY_9|0
+a paper|DT NN|BODY_3:BODY_8|0
+v )|RB -RRB-|BODY_24:BODY_3:BODY_19:BODY_8|0
+abort-methods|NNS|BODY_2:BODY_3:BODY_4:BODY_9|0
+the world|DT NN|BODY_10:BODY_7:BODY_8|0
+the fab|DT NN|BODY_3:BODY_24:BODY_4:BODY_9|0

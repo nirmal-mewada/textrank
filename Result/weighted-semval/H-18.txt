@@ -1,0 +1,212 @@
+multiple documents|JJ NNS|BODY_6:BODY_5:BODY_11:TITLE_3:BODY_23:ABSTRACT_2:ABSTRACT_8:BODY_3:BODY_4:BODY_8|1
+topic segmentation|NN NN|BODY_5:ABSTRACT_4:TITLE_1:BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+we|PRP|BODY_6:BODY_11:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|6
+documents|NNS|BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_21:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|1
+term weights|NN NNS|BODY_12:BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_1:BODY_2:BODY_3:BODY_19:BODY_4:ABSTRACT_12|1
+it|PRP|BODY_5:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_9|1
+that|WDT|BODY_6:BODY_11:BODY_1:ABSTRACT_3:BODY_3:BODY_4:ABSTRACT_9:BODY_20|3
+mi|FW|ABSTRACT_6:ABSTRACT_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+segmentation|NN|BODY_6:BODY_5:ABSTRACT_4:BODY_27:BODY_2:BODY_3:BODY_4|1
+a document|DT NN|BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_8|1
+single-document segmentation|NN NN|ABSTRACT_4:ABSTRACT_2:BODY_1:BODY_25:BODY_2:BODY_3|0
+multi-document segmentation|JJ NN|BODY_5:ABSTRACT_6:BODY_28:BODY_2:BODY_1:BODY_7|1
+the performance|DT NN|BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_4:BODY_7|0
+our methods|PRP$ NNS|BODY_2:BODY_3:ABSTRACT_1|0
+multiple similar documents|JJ JJ NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_7|0
+single documents|JJ NNS|BODY_2:ABSTRACT_3:BODY_3:BODY_7|0
+information|NN|BODY_5:BODY_2:ABSTRACT_1:BODY_7|0
+our algorithm|PRP$ NN|ABSTRACT_2:BODY_3:BODY_8|0
+stop words|NN NNS|ABSTRACT_5:BODY_1:BODY_3:BODY_4|0
+the optimal segmentation|DT JJ NN|ABSTRACT_2:BODY_2|0
+information search and retrieval-clustering|NN NN CC NN|ABSTRACT_3|0
+information storage and retrieval]|NN NN CC NN|ABSTRACT_2|0
+natural language processing-text analysis|JJ NN NN NN|ABSTRACT_8|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+a novel unsupervised method|DT NN JJ NN|ABSTRACT_3|0
+mi( or wmi )|NN CC NN -RRB-|ABSTRACT_3|0
+which|WDT|BODY_6:BODY_5:BODY_11:BODY_16:BODY_22:BODY_17:BODY_3:BODY_4:BODY_7:BODY_9|1
+the number|DT NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_15:BODY_2:BODY_3:BODY_14:BODY_24:BODY_4:BODY_7:BODY_9|1
+ë†s|NNP|BODY_12:BODY_11:BODY_16:BODY_17:BODY_15:BODY_2:BODY_24:BODY_4:BODY_6:BODY_5:BODY_31:BODY_10:BODY_7:BODY_8:BODY_9|3
+segments|NNS|BODY_6:BODY_5:BODY_13:BODY_23:BODY_2:BODY_25:BODY_3:BODY_4:BODY_19:BODY_7:BODY_9|1
+)|-RRB-|BODY_16:BODY_17:BODY_18:BODY_21:BODY_2:BODY_3:BODY_4:BODY_6:BODY_34:BODY_27:BODY_10:BODY_7:BODY_8|0
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+sentences|NNS|BODY_12:BODY_11:BODY_5:BODY_16:BODY_1:BODY_3:BODY_8:BODY_9|0
+ë†s )|NNS -RRB-|BODY_6:BODY_5:BODY_36:BODY_23:BODY_13:BODY_3:BODY_10:BODY_29:BODY_8:BODY_9|0
+the set|DT NN|BODY_6:BODY_11:BODY_18:BODY_2:BODY_10:BODY_20|0
+words|NNS|BODY_6:BODY_5:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4|0
+d|NN|BODY_12:BODY_5:BODY_17:BODY_27:BODY_13:BODY_2:BODY_3:BODY_4:BODY_29:BODY_8:BODY_20|0
+there|EX|BODY_2:BODY_1:BODY_3|1
+k|NN|BODY_11:BODY_40:BODY_13:BODY_14:BODY_4:BODY_7|0
+wmil|NNP|BODY_5:BODY_15:BODY_13:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+terms|NNS|BODY_12:BODY_16:BODY_18:BODY_1:BODY_3|1
+topic segmentation and alignment|NN NN CC NN|BODY_2:BODY_3:BODY_10:BODY_4:BODY_9|1
+the same topic|DT JJ NN|BODY_6:BODY_5:BODY_15:BODY_25:BODY_4|0
+stage 2|NN CD|BODY_2:BODY_1:BODY_3:BODY_14:BODY_4|0
+multi-document segmentation and alignment|JJ NN CC NN|BODY_2:BODY_1:BODY_3:BODY_9|0
+the results|DT NNS|BODY_5:BODY_17:BODY_1:BODY_2:BODY_4|0
+t|NN|BODY_12:BODY_23:BODY_1:BODY_3:BODY_10|0
+an iterative greedy algorithm|DT NN JJ NN|BODY_1:BODY_2|1
+p|NN|BODY_6:BODY_26:BODY_3:BODY_4|0
+sd|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|1
+the term weights|DT NN NNS|BODY_5:BODY_2:BODY_3|1
+1|CD|BODY_11:BODY_3:BODY_10:BODY_4|0
+the iterative greedy algorithm|DT NN JJ NN|BODY_2:BODY_3|1
+bipartite graph partitioning [28|JJ NN NN NNS|BODY_10|1
+the personal writing style|DT JJ NN NN|BODY_21:BODY_8|1
+= 1|SYM CD|BODY_6:BODY_5:BODY_3:BODY_10|1
+the most important elements|DT RBS JJ NNS|BODY_26|1
+dynamic programming and show|JJ NN CC NN|BODY_3|1
+topical classification or clustering|JJ NN CC NN|BODY_1|1
+them|PRP|BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+the criterion|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|1
+no necessary hyper parameters|DT JJ NN NNS|BODY_3|1
+simultaneous term weight estimation|JJ NN NN NN|BODY_9|1
+4.2 weighted mutual information|CD JJ JJ NN|BODY_1|1
+mil and wmil|JJ CC JJ|BODY_6:BODY_1:BODY_2:BODY_4:BODY_7|0
+the algorithm|DT NN|BODY_6:BODY_5:BODY_21:BODY_4:BODY_7|0
+mil|NN|BODY_6:BODY_5:BODY_18:BODY_15:BODY_2:BODY_3:BODY_8:BODY_9|0
+each|DT|BODY_5:BODY_13:BODY_1:BODY_3|0
+cue words|NN NNS|BODY_6:BODY_2:BODY_3|0
+a local maximum|DT JJ NN|BODY_2:BODY_4|1
+term clustering|NN NN|BODY_1:BODY_2:BODY_4|0
+document-dependent stop words|JJ NN NNS|BODY_6:BODY_5:BODY_3:BODY_19:BODY_8|1
+our goal|PRP$ NN|BODY_2:BODY_3:BODY_4|0
+i( ë†t|NN NN|BODY_12:BODY_6:BODY_5:BODY_3|1
+each document|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+the second data set|DT JJ NNS NN|BODY_3|0
+just a special case|RB DT JJ NN|BODY_2|0
+the multi-document topic segmentation|DT JJ NN NN|BODY_3|0
+the document number|DT NN NN|BODY_12:BODY_6:BODY_1:BODY_3|0
+the generic stop words|DT JJ NN NNS|BODY_3|0
+prof. j. scott payne|DT NNP NN NN|BODY_4|0
+the error rate|DT NN NN|BODY_34:BODY_1:BODY_3:BODY_4|0
+tables 1 , 4|NNS CD , CD|BODY_9|0
+additional document-dependent stop words|JJ JJ NN NNS|BODY_2|0
+the same segment|DT JJ NN|BODY_6:BODY_2:BODY_4:BODY_20|0
+the best term clustering|DT JJS NN NN|BODY_3|0
+term clusters|NN NNS|BODY_5:BODY_11:BODY_13:BODY_3:BODY_8:BODY_9|0
+conditional random fields [17]|JJ JJ NNS NNS|BODY_5|0
+case 1 and 2|NN CD CC CD|BODY_2|0
+3-5 6-8 9-11 addp03|CD IN CD IN|BODY_30|0
+a coherent topic segment|DT JJ NN NN|BODY_6|0
+a better performance|DT JJR NN|BODY_5:BODY_2:BODY_9|0
+the joint probability distribution|DT JJ NN NN|BODY_1:BODY_2|0
+a very large number|DT RB JJ NN|BODY_7|0
+ë†sk )log pw( ë†t|NN NN NN NN|BODY_7|0
+stage 1 ( step|NN CD -LRB- NN|BODY_6|0
+a totally different sequence|DT RB JJ NN|BODY_7|0
+current term clustering cluë†t|JJ NN NN NN|BODY_3|0
+the whole training set|DT JJ NN NN|BODY_6:BODY_5:BODY_3|0
+the average error rates|DT JJ NN NNS|BODY_3|0
+( 0 ) d|-LRB- CD -RRB- NN|BODY_5|0
+all the previous methods|PDT DT JJ NNS|BODY_2|0
+mil wmil k mik|CD NN NN NN|BODY_12|0
+0, return clu( i)|CD NN NN NN|BODY_5|0
+mil and wmil both|JJ CC JJ DT|BODY_3|0
+every possible sequential segment|DT JJ JJ NN|BODY_6|0
+a related research area|DT JJ NN NN|BODY_2|0
+’ ë†x and cluy|JJ NN CC NN|BODY_4|0
+dynamic programming|JJ NN|BODY_5:BODY_2:BODY_4:BODY_10|0
+p(error|predicted , real )|VBN , JJ -RRB-|BODY_35|0
+{t1 , t2 ,|NN , NN ,|BODY_3|0
+( weighted ) mi|-LRB- JJ -RRB- NNS|BODY_6|0
+the gradually changing amount|DT RB VBG NN|BODY_5|0
+the term frequency tf|DT NN NN NN|BODY_17|0
+xâˆˆx yâˆˆ y p(x|NN NN NN NN|BODY_5|0
+equation ( 6 )|NN -LRB- CD -RRB-|BODY_8|0
+y â† ’ ë†y|NN IN JJ NN|BODY_5|0
+that for most cases|IN IN JJS NNS|BODY_2|0
+the the same topic|DT DT JJ NN|BODY_4|0
+¤ m + 1|NN NN NN CD|BODY_14|0
+0 â‰ ¤ m|CD VBN NN NN|BODY_8:BODY_9|0
+different hyper parameter values|JJ NN NN NNS|BODY_4|0
+the proportion overlapped sentences|DT NN JJ NNS|BODY_24|0
+the two random variables|DT CD JJ NNS|BODY_3|0
+term frequency|NN NN|BODY_11:BODY_3:BODY_4|0
+( i+j ) ë†t|-LRB- NN -RRB- NN|BODY_7|0
+lexical cohesion or similarity|JJ NN CC NN|BODY_7|0
+d s sentence s|NN VBZ NN VBZ|BODY_13|0
+5.2 shared topic detection|CD VBN NN NN|BODY_1|0
+partial wmi piw( ë†t|JJ NN NN NN|BODY_4|0
+the best cluster ë†t|DT JJS NN NN|BODY_18|0
+the first n sentence|DT JJ NN NN|BODY_2|0
+the objective function iw|DT JJ NN NN|BODY_4|0
+two to 56 sentences|CD TO CD NNS|BODY_3|0
+the best one segd(|DT JJS NN NN|BODY_6|0
+= 0, and iw|SYM JJ CC JJ|BODY_6|0
+average error rates|JJ NN NNS|BODY_6:BODY_10:BODY_8|0
+mil and wmil #|CD CC NN #|BODY_32|0
+the leftmost m sentences|DT JJS NN NNS|BODY_4|0
+ë†s ) ë†tâˆˆ ë†t|NNP -RRB- NN NN|BODY_7|0
+partial pw( ë†s )|JJ NN NNP -RRB-|BODY_6|0
+only a sequential structure|RB DT JJ NN|BODY_4|0
+argmaxë†si( ë†t( i+1 )|NN JJ IN -RRB-|BODY_35|0
+argmaxë†siw( ë†t( i )|NN JJ NN -RRB-|BODY_28|0
+segments [15 , 25|NNS CD , CD|BODY_7|0
+more document-dependent stop words|RBR JJ NN NNS|BODY_4|0
+1 )|CD -RRB-|BODY_6:BODY_3:BODY_7:BODY_8|0
+seg ( 0 )|NN -LRB- CD -RRB-|BODY_6|0
+the term weight estimation|DT NN NN NN|BODY_3|0
+the tf-idf weight [22]|DT JJ NN NNS|BODY_8|0
+the best term cluster|DT JJS NN NN|BODY_22|0
+much higher term frequencies|RB JJR NN NNS|BODY_4|0
+a = 0, b|DT SYM JJ NN|BODY_6:BODY_19:BODY_9|0
+mil and table 3|NN CC NN CD|BODY_6|0
+the estimate term weights|DT NN NN NNS|BODY_2|0
+just a synthetic set|RB DT JJ NN|BODY_4|0
+s|PRP|BODY_33:BODY_5:BODY_26:BODY_2:BODY_7|0
+the default case wmil|DT NN NN NN|BODY_2|0
+all the error rates|PDT DT NN NNS|BODY_5|0
+probably only local maxima|RB RB JJ NN|BODY_3|0
+the alignment mapping function|DT NN NN NN|BODY_1|0
+the same sequential order|DT JJ JJ NN|BODY_8|0
+a new term cluster|DT JJ NN NN|BODY_4|0
+multidocument segmentation and alignment|JJ NN CC NN|BODY_6|0
+whereas most existing research|IN JJS VBG NN|BODY_5|0
+wrong predicted segment labels|JJ VBN NN NNS|BODY_6|0
+the other three types|DT JJ CD NNS|BODY_5|0
+the initial alignment ali(|DT JJ NN NN|BODY_1|0
+the initial segmentation seg(|DT JJ NN NN|BODY_1|0
+singledocument segmentation|NN NN|BODY_5:BODY_2:BODY_4|0
+all the previous approaches|PDT DT JJ NNS|BODY_4|0
+4.1 mutual information mi|CD JJ NN NNS|BODY_1|0
+step 2.2 and 2.3|NN CD CC CD|BODY_6|0
+exactly one term cluster|RB CD NN NN|BODY_2|0
+supervised or unsupervised methods|JJ CC JJ NNS|BODY_6|0
+text classification and clustering|NN NN CC NN|BODY_1|0
+step 1 , 2.2|NN CD , CD|BODY_1|0
+the latent topical structure|DT JJ JJ NN|BODY_5|0
+the same training set|DT JJ NN NN|BODY_7|0
+the these two segments|DT DT CD NNS|BODY_5|0
+( 0 ) ë†t|-LRB- CD -RRB- NN|BODY_10|0
+case 2 ( alignment|NN CD -LRB- NN|BODY_1|0
+2.3 i + +|CD NN NN NN|BODY_41|0
+about the same sub-topic|IN DT JJ JJ|BODY_10|0
+the adjustable threshold î¸|DT JJ NN NN|BODY_26|0
+one to two documents|CD TO CD NNS|BODY_1|0
+document number = 5|NN NN SYM CD|BODY_1|0
+no extra hyper parameter|DT JJ NN NN|BODY_6|0
+mil and wmil views|JJ CC JJ NNS|BODY_1|0
+a good term clustering|DT JJ NN NN|BODY_1|0
+equation ( 3 )|NN -LRB- CD -RRB-|BODY_6|0
+different segments|JJ NNS|BODY_12:BODY_2:BODY_4:BODY_9|0
+seg|NN|BODY_2:BODY_3|0
+all p segments|DT NN NNS|BODY_13:BODY_4:BODY_8|0
+previous research|JJ NN|BODY_1:BODY_4|0
+m(sm|NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+term co-clustering|NN NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+the total number|DT JJ NN|BODY_17:BODY_15:BODY_10:BODY_7|0
+the loss|DT NN|BODY_11:BODY_1:BODY_2:BODY_7|0
+stage 3|NN CD|BODY_5:BODY_11:BODY_1:BODY_4|0
+the effect|DT NN|BODY_5:BODY_2:BODY_4|0
+this data set|DT NN NN|BODY_1:BODY_2:BODY_8|0
+l âˆ ’|JJ JJ NN|BODY_11:BODY_4|0
+l segments|JJ NNS|BODY_3:BODY_7|0
+w = 1|NN SYM CD|BODY_11:BODY_3:BODY_9|0
+error rates|NN NNS|BODY_5:BODY_31:BODY_10|0
+ed( ë†t|JJ NN|BODY_3:BODY_9|0
+different hyper parameters|JJ NN NNS|BODY_11:BODY_1:BODY_3|0
+iterative and greedy|NN CC JJ|BODY_2|0
+the first time|DT JJ NN|BODY_3|0
+term weights wë†t|NN NNS NN|BODY_2|0
+the case|DT NN|BODY_1:BODY_3|0

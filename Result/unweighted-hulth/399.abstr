@@ -1,0 +1,31 @@
+low-voltage dram|NN NN|BODY_5:BODY_1:BODY_3|0
+the proposed scheme|DT VBN NN|BODY_3|0
+data-retention time|NN NN|BODY_5:BODY_4|0
+which|WDT|BODY_8|0
+more cells|JJR NNS|BODY_6|0
+the conventional scheme|DT JJ NN|BODY_6|0
+2.4 times|CD NNS|BODY_5|0
+sense amplifiers|NN NNS|BODY_5|0
+an offset-cancellation sense-amplifier scheme ( ocsa|DT NN NN NN -LRB- NN|BODY_2|0
+efficiency|NN|BODY_2|0
+the data-retention time|DT NN NN|BODY_2|0
+that|WDT|BODY_3|0
+the memory cell|DT NN NN|BODY_7|0
+low power dissipation and compatibility|JJ NN NN CC NN|BODY_6|0
+the major obstacles|DT JJ NNS|BODY_2|0
+low signal level|JJ NN NN|BODY_6|0
+1.5-v supply voltage|CD NN NN|BODY_4|0
+the number|DT NN|BODY_4|0
+the degradation|DT NN|BODY_4|0
+a novel bitline sensing scheme|DT NN NN VBG NN|BODY_4|0
+scheme|NN|BODY_2|0
+offset-cancellation sense|NN NN|BODY_3|0
+2.0 v|CD NN|BODY_7|0
+each sense amplifier|DT NN NN|BODY_7|0
+this paper|DT NN|BODY_1|0
+power-consuming refresh operations|JJ JJ NNS|BODY_9|0
+it|PRP|BODY_1|0
+measurements|NNS|BODY_1|0
+low-voltage|NN|BODY_7|0
+one|CD|BODY_1|0
+low supply voltage|JJ NN NN|BODY_5|0

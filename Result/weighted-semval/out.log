@@ -1,0 +1,500 @@
+ ----------------------------------------------------- 
+0. File: C-1.txt
+Gold: [grid servic discoveri, uddi, distribut web-servic discoveri architectur, dht base uddi registri hierarchi, deploy issu, bamboo dht code, case-insensit search, queri, longest avail prefix, qo-base servic discoveri, autonom control, uddi registri, scalabl issu, soft state, dht, web servic, grid comput, md, discoveri]
+Gen : [uddi, multiple registries, grids, scalable grid service discovery, autonomous control, the scalability issue, the need, multiple uddi registries, the same time, this paper, the dude architecture, uddi registries, uddi more robust, its scaling issues, planetlab, registries, grid computing, grid, uddi deployment engine ), ( distributed hash tables]
+C-1.txt,0.52,0.4,0.45,0.26,0.26,0.26
+ ----------------------------------------------------- 
+1. File: C-14.txt
+Gold: [target detect, sensor network, path exposur, number of sensor+sensor number, sequenti deploy, minimum exposur, random sensor placement, sensor field, target decai, collabor target detect, deploy, exposur, valu fusion]
+Gen : [sensors, target detection, the cost, the number, deployment, this paper, a region, each step, path exposure, a deployment, steps, design, [computer-communication networks, the sensors, the region, the target, the exposure, the probability, the problem, the minimum exposure]
+C-14.txt,0.41,0.39,0.4,0.25,0.31,0.28
+ ----------------------------------------------------- 
+2. File: C-17.txt
+Gold: [voip conferenc system, packet-switch network, audio servic framework, virtual conferenc environ, confer server, loud number, partial mix, voic activ detect, suffici of three simultan speaker+three simultan speaker suffici, vad techniqu, vce, voip, real-time audio, simultan speaker, sip]
+Gen : [a voip conferencing system, the traffic, the same time, the internet, a conference server, a virtual conferencing environment,  loudness number, an audio service framework, categories and subjects descriptors, a physical face-to-face conference, the number, the conference, clients, packets, css, fig, the clients, the total number, traffic, a cs]
+C-17.txt,0.46,0.43,0.44,0.28,0.33,0.3
+ ----------------------------------------------------- 
+3. File: C-18.txt
+Gold: [malwar, swarm worm, emerg intellig, slammer worm, local commun mechan, zachik, prng method, pre-gener target list, distribut intellig, intrus detect, countermeasur system, emerg behavior, internet worm, swarm intellig]
+Gen : [swarm worms, worms, the zachik worm, the fastest computer worm, a swarm worm, a new generation, next generation worms, the slammer worm, the behavior, emergent intelligence, zachik, slammer, the concept, magnitude, rate detection, preliminary results, whose behavior, this manuscript, 90 percent, malware exhibiting]
+C-18.txt,0.38,0.36,0.37,0.22,0.29,0.25
+ ----------------------------------------------------- 
+4. File: C-19.txt
+Gold: [protocol framework, distribut algorithm, distribut system, servic interfac, network, commun, event-base framework, stack, modul, request, repli, modular, dynam protocol replac]
+Gen : [implementing and composing protocols, events, protocol modules, protocol frameworks, a service-based protocol framework, distributed protocols, protocols, a new abstraction, categories and subject descriptors, the most common approach, an experimental implementation, the main abstraction, a local interaction, an alternative approach, a request, a service interface, e.g, an event, a reply, event-based frameworks]
+C-19.txt,0.36,0.53,0.43,0.21,0.31,0.25
+ ----------------------------------------------------- 
+5. File: C-20.txt
+Gold: [internet-base servic, data center migrat, wan, lan, virtual server, storag replic, synchron replic, asynchron replic, network support, storag, voic-over-ip, voip, databas]
+Gen : [data center migration, data, server migration and replication, the replication and migration, a robust cooperative context, services, internet-based service providers, new network functions, a significant concern, server virtualization technologies, outages, the face, data center services, data center facilities, a non-disruptive manner, categories and subject descriptors, the internet ), the network, the application, asynchronous replication]
+C-20.txt,0.36,0.56,0.43,0.1,0.15,0.12
+ ----------------------------------------------------- 
+6. File: C-22.txt
+Gold: [data, object-orient applic, mobil object framework, mobjex, java, metricscontain, metric collect, proxi, perform and scalabl, measur, propag and deliveri, framework, adapt, mobil object]
+Gen : [metrics, mobile applications, the solution, a mobile object framework, this paper, mobile objects, terms, a number, middleware supported adaptation, runtime metrics collection, object mobility, the basis, the system, runtimes, the measurement and propagation, the mobile object system, scalability , efficiency, implementation and testing, an abstract representation, worst case performance]
+C-22.txt,0.37,0.56,0.44,0.1,0.14,0.12
+ ----------------------------------------------------- 
+7. File: C-23.txt
+Gold: [distribut resourc, data grid applic, replic, co-alloc, larg dataset, resourc manag protocol, replica, co-alloc strategi, server, perform, grid comput, data grid, replica select, data transfer, globu, gridftp]
+Gen : [data, faster servers, files, the slowest server, the performance, the co-allocation architecture, datasets, replica servers, the idle time, our approach, an effective scheme, a dynamic adjustment mechanism, a dynamic coallocation scheme, namely recursive-adjustment co-allocation scheme, categories and subject descriptors, data transfers, the time, the globus toolkit, [17], a collection]
+C-23.txt,0.29,0.4,0.33,0.1,0.13,0.11
+ ----------------------------------------------------- 
+8. File: C-27.txt
+Gold: [wireless sensor network, local, rang-base local, rang-free scheme, transmiss, perform, accuraci, local error, sensor network, spotlight system, local techniqu, distribut, event distribut, laser]
+Gen : [sensor nodes, the sensor nodes, localization, nodes, the wireless sensor nodes, a novel localization system, a sub-meter localization error, real-time and embedded systems, less than $ 1000, a 20cm localization error, the spotlight device, the spotlight system, events, the system, the localization error, the network, the event, an event, the range-based localization schemes, the localization cost function]
+C-27.txt,0.47,0.53,0.5,0.18,0.21,0.19
+ ----------------------------------------------------- 
+9. File: C-28.txt
+Gold: [biolog sequenc comparison, adapt multi-polici grid servic, task alloc, blast search, packageblast, bioinformat, grid comput, comput biologi, genom project, segment genet databas, heterogen non-dedic platform, grid environ, pss, packag weight adapt self-schedul]
+Gen : [packageblast, blast searches, the nodes, the chosen allocation policy, grid nodes execution weight, very good speedups, this paper, an infrastructure, the lowest execution times, the current computational power, no single allocation strategy, medical sciences, systems ], [ life, distributed applications, categories and subject descriptors, pss, blast, pi, work units]
+C-28.txt,0.24,0.29,0.26,0.15,0.21,0.18
+ ----------------------------------------------------- 
+10. File: C-29.txt
+Gold: [conflex-g, omnirpc, conform space search, bio-molecul, rpc modul, initi procedur, mpu, pc cluster, grid comput, grid rpc system, molecular mechan, automat initializ modul, comput chemistri]
+Gen : [conflex-g, omnirpc, conflex, trial structures, the time, the performance, the trial structure, the case, the grid, a trial structure, a grid rpc system, the load imbalance, performance, a restricted persistence model, each trial structure optimization, implementation and performance evaluation, the initialization procedure, each call, a large number, conflexg]
+C-29.txt,0.28,0.33,0.3,0.24,0.31,0.27
+ ----------------------------------------------------- 
+11. File: C-3.txt
+Gold: [grid comput, resourc select, grid environ, parallel comput, homogen parallel environ, heterogen of resourc+resourc heterogen, high-bandwidth local-area network, lower-bandwidth wide-area network, network link, commun time, idl time of the processor+the processor idl time, degre of parallel+parallel degre, overload resourc, divid-and-conquer, self-adapt]
+Gen : [the application, resources, our approach, adaptation, an application, one important problem, a number, resource selection, a performance model, the application run, significant performance improvements, the grid environment, the resource, categories and subject descriptors, an appropriate resource, [computer communication networks], a complex task, these two problems, very slow processors, overloaded wan links]
+C-3.txt,0.25,0.28,0.26,0.06,0.07,0.06
+ ----------------------------------------------------- 
+12. File: C-30.txt
+Gold: [overlai mesh, data dissemin, overlai network, ip multicast, multipoint commun, high-bandwidth data distribut, larg-file transfer, real-time multimedia stream, bullet, bandwidth probe, peer-to-peer, ransub, content deliveri, tfrc, bandwidth, overlai]
+Gen : [bullet, data, nodes, receivers, tree, each child, the tree, a node, the bandwidth, time, each node, bandwidth, packets, ransub, bullet , a number, all nodes, the root, the entire parent stream, the system]
+C-30.txt,0.31,0.21,0.25,0.21,0.19,0.2
+ ----------------------------------------------------- 
+13. File: C-31.txt
+Gold: [peer-to-peer, file share system, intranet, author, document, apocrita, jxta, distribut index, peer-to-peer distribut model, idl queri, index file, incom file, p2p search, p2p, file share]
+Gen : [apocrita, the document, a document, some search tools, a particular document, multiple different documents, the process, this paper, such documents, the user, these documents, local documents, author documents, the organization, various purposes, multiple users, another user, google desktop, a solution, incorrect version]
+C-31.txt,0.24,0.24,0.24,0.07,0.07,0.07
+ ----------------------------------------------------- 
+14. File: C-32.txt
+Gold: [object storag system, collabor strong-consist applic, wide-area network, cooper web cach, fine-grain share, transact, fault-toler properti, buddycach, domin perform cost, optimist system, peer fetch, multi-user oo7 benchmark, cooper cach, fine-grain share, fault-toler]
+Gen : [buddycache, collaborative applications, access, the presence, a shared work environment, performance, time, a transactional caching protocol, shared objects, 40 to 80 milliseconds, a buddycache prototype, up to 50 %, efficient access, strong consistency, the multiuser 007 benchmark, the server, clients, the redirector, the client, objects]
+C-32.txt,0.28,0.31,0.29,0.05,0.07,0.06
+ ----------------------------------------------------- 
+15. File: C-33.txt
+Gold: [context-awar, context provid, negoti, context-awar comput, concret negoti model, distribut applic, pervas comput, reput, qualiti of context+context qualiti, persuas argument]
+Gen : [context, context information, rewards-based negotiation, a centralized selection mechanism, an appropriate context provider, a challenging problem, our approach and show, a concrete negotiation model, rewards, systems ], categories and subject descriptors, a novel approach, each other, appropriate context information, most existing approaches, which context information, distributed context providers, negotiation, context-aware computing, the proceeds]
+C-33.txt,0.33,0.53,0.41,0.22,0.4,0.29
+ ----------------------------------------------------- 
+16. File: C-34.txt
+Gold: [sensor network, kei pool, kei predistribut, hierarch hypercub model, secur, pairwis kei establish algorithm, cluster-base distribut model, polynomi kei, encrypt, node code, high fault-toler, pairwis kei]
+Gen : [pairwise key establishment, each other, cluster deployed sensor networks, the mapping relationship, the idea, sensors, security, pairwise key, kdc( key distribution center, the working performance, a new general framework, ,u,m ,v,n ), the new algorithm, a new kind, distributed systems-distributed applications, a fundamental role, pairwise key predistribution, security issue, wireless sensor networks, polynomial pool schemes]
+C-34.txt,0.29,0.45,0.35,0.1,0.17,0.13
+ ----------------------------------------------------- 
+17. File: C-36.txt
+Gold: [secur publish/subscrib system, distribut access control, multipl administr domain, attribut encrypt, multi-domain, overal commun overhead, distribut system-distribut applic, perform, encrypt, congest charg servic, distribut access control, administr domain]
+Gen : [the number, security, this paper, the network, publish/subscribe systems, the use, dynamic multi-domain publish/subscribe networks, the event transport network, access, the event, events, access control, the broker network, attribute encryption, the event content, brokers, the event type, attributes, the encryption key, encryption]
+C-36.txt,0.39,0.33,0.36,0.0,0.0,0.0
+ ----------------------------------------------------- 
+18. File: C-38.txt
+Gold: [peer-to-peer stream, congest control, receiv-driven approach, receiv-driven overlai, distribut system, design, measur, effici overlai structur, pro, proper subset of parent peer, gossip-base peer discoveri, receiv-driven parent select, peer-to-peer stream]
+Gen : [peers, the overlay, each receiver, pro, ( ii, ( i, this paper, parent peers, heterogeneous and asymmetric bandwidth, other participating peers, congestion controlled bandwidth, non-interactive streaming applications, a receiver-driven approach, participating peers, the best subset, peer-to-peer receiver-driven overlays, high churn rate, design, an unstructured overlay, any explicit coordination]
+C-38.txt,0.38,0.48,0.43,0.11,0.17,0.13
+ ----------------------------------------------------- 
+19. File: C-4.txt
+Gold: [end-to-end model, sampl-base codec, loss recoveri and control, loss sensit, network support for real-time multimedia, qualiti of servic+servic qualiti, end-to-end loss recoveri, voip traffic, intra-flow loss control, packet-level metric, gener markov model, sensit of voip traffic+voip traffic sensit, queue manag algorithm, frame-base codec, voic over ip, loss conceal, loss metric, object speech qualiti measur, queue manag, differenti servic]
+Gen : [the loss, loss, loss concealment, the same flow, the other hand, the speech signal, packets, hop-by-hop support schemes, on one hand, the end-to-end level, a flow, the impact, user perception, terms, packet loss, the internet, significant speech quality improvements, c.4 [computer systems organization, the decoder filter memories, a voice data flow]
+C-4.txt,0.25,0.21,0.23,0.06,0.05,0.05
+ ----------------------------------------------------- 
+20. File: C-40.txt
+Gold: [edg index, dynam virtual environ, game-base applic, mutabl virtual content, spatial databas, spatial index method, real-time visibl test, object-initi view model, object pop, 3d spatial extens, 3d object stream, object pop problem, spatial index, visibl model]
+Gen : [edge indexing, objects, a set, the user, highly dynamic virtual environmentsâˆ, extremely dynamic virtual environments, a very challenging task, three-dimensional graphics and realism, virtual reality general terms, various spatial indexing methods, the moving geometry objects, a spatial database problem, a local storage medium, server throughput and scalability, node indexing, the side length, entities, cell evaluations, 1 ), the aoi]
+C-40.txt,0.24,0.38,0.29,0.1,0.14,0.12
+ ----------------------------------------------------- 
+21. File: C-6.txt
+Gold: [spectrum content manag system, continu media storag, home-network scenario, applic program interfac, content distribut network, uniform resourc locat, polici manag, network enabl dvr, high-perform databas system, carrier-grade spectrum manag, distribut content manag]
+Gen : [content, continuous media content, storage, the storage, a content management system, content management, track, design and implementation, a network, the task, the convergence, networking technologies, advances, h.3.4 [ information systems, the design and implementation, spectrum, the same content, tv or radio content, computer-communication networks-distributed systems, the spectrum architecture]
+C-6.txt,0.38,0.35,0.36,0.0,0.0,0.0
+ ----------------------------------------------------- 
+22. File: C-8.txt
+Gold: [oper transform, cot, context-base ot, causal-depend, concurr condit, concurr relat, invers oper, document state, origin oper, transform oper, invers cluster, vector represent of oper context+oper context vector represent, histori buffer, exclus transform, oper context, ot, context-base ot, consist mainten, undo, group editor, distribut applic]
+Gen : [operation context, the cot algorithm, transformation functions, prior ot control algorithms, all prior ot systems, a generic collaboration engine, causality, this problem, this paper, an increasing number, ot, its continual evolution, the theoretical foundation, the main results, novel collaborative applications, context-based operational transformation, the theory, a range, the design, better understanding]
+C-8.txt,0.23,0.25,0.24,0.1,0.1,0.1
+ ----------------------------------------------------- 
+23. File: C-86.txt
+Gold: [resourc alloc system, combinatori auction, market-base system, distribut system, strateg behavior, ration, auction-base scheme, mirag system, sensornet testb, node-hour price, usabl overhead, batch schedul, distribut applic, resourc alloc, market-base system]
+Gen : [mirage, time, a repeated combinatorial auction, market-based resource allocation systems, a deployed microeconomic resource, real computer systems, current auction scheme, a four-month period, repeated combinatorial auctions, some initial steps, 312,148 node hours, 11 research projects, observed strategic user behavior, categories and subject descriptors, distributed resource allocation, general terms measurement, users, the system, resources, bids]
+C-86.txt,0.29,0.5,0.37,0.0,0.0,0.0
+ ----------------------------------------------------- 
+24. File: C-9.txt
+Gold: [decentr adapt servic, resourc manag, home environ, infrastructur, client, long-term servic, eda, local limit, global limit, resourc, node, grid comput, fragment object, adapt]
+Gen : [decentralized adaptive services, edas, services, a grid-like infrastructure, flexible service models, available resources, the environment, an environment, a traditional clientserver scenario, categories and subject descriptors, software engineering interoperability[distributed objects, source-code repository etc. ), scalability and resource-aware distribution, grid computing evolves, a rising number, storage and bandwidth, [computer communication networks, distributed mobile objects, the administrative complexity, general terms design]
+C-9.txt,0.24,0.53,0.33,0.16,0.21,0.18
+ ----------------------------------------------------- 
+25. File: H-10.txt
+Gold: [document cluster, regular, global regular, cluster hierarchi, spectrum, specifi search, hierarch method, partit method, label predict, function estim, manifold, document cluster]
+Gen : [more and more attentions, methods, our method, information storage and retrieval], information search and retrieval-clustering, all those local regularizers, a sparse symmetric matrix, categories and subject descriptors, a global smoothness regularizer, traditional document clustering methods, â· â· â·, xi, the local regularized predictors, local and global regularization, the conclusions and discussions, all the local predictors, the k-th smallest eigenvalue, matrix ( p âˆ, the final cluster results, âˆ ’ qi 2]
+H-10.txt,0.18,0.38,0.24,0.0,0.0,0.0
+ ----------------------------------------------------- 
+26. File: H-11.txt
+Gold: [relev feedback, imag represent, contentbas imag retriev, activ learn, least squar regress model, optim experiment design, top return imag, precis rate, intrins geometr structur, patten recognit, label, imag retriev, activ learn]
+Gen : [laplacian optimal design, image retrieval, relevance feedback image retrieval, the top returned images, optimal experimental design, the local geometrical structure, the most informative (, the most informative ones, this paper, our algorithm, the image space, the geometrical structure, the most ), images, each other, the user , relevance feedback, a classifier, the classifier, information storage and retrieval]]
+H-11.txt,0.48,0.42,0.44,0.24,0.33,0.28
+ ----------------------------------------------------- 
+27. File: H-12.txt
+Gold: [search engin, snippet gener, document cach, link graph measur, perform, web summari, special-purpos filesystem, ram, document compact, text fragment, precomput final result page, vbyte code scheme, semi-static compress, document cach]
+Gen : [web search, documents, efficient generation, a search engine, experimentation, the number, snippet generation time, ram, search engines, result snippets, simulation, fast generation, part, information search and retrieval, information storage and retrieval], only a marginal, document cache, query biased document snippets, secondary storage, finding documents]
+H-12.txt,0.36,0.33,0.35,0.11,0.15,0.13
+ ----------------------------------------------------- 
+28. File: H-13.txt
+Gold: [clickthrough pattern, caption featur, web search behavior, human factor, extract summar, snippet, queri log, queri re-formul, signific word, clickthrough invers, queri term match, web search, summar]
+Gen : [the influence, users, caption features, clickthrough patterns, the url, captions, the snippet, algorithms and guidelines, web search behavior, user behavior, a methodology, these captions, this paper, the length, the caption, web search, information storage and retrieval], relatively simple caption features, all terms query terms, a commercial search engine]
+H-13.txt,0.42,0.5,0.45,0.28,0.38,0.32
+ ----------------------------------------------------- 
+29. File: H-14.txt
+Gold: [popular destin, web search interact, improv queri, retriev perform, relat queri, inform-seek experi, queri trail, session trail, lookup-base approach, log-base evalu, user studi, search destin, enhanc web search]
+Gen : [popular destinations, destinations, other users, many users, exploratory tasks, search, users, subjects, baseline, querysuggestion, queries, querydestination, suggestions, all domains, the user, the systems, search trails, the study, the target query, pages]
+H-14.txt,0.39,0.33,0.36,0.06,0.08,0.07
+ ----------------------------------------------------- 
+30. File: H-16.txt
+Gold: [effici cach system, web search engin, static cach, dynam cach, cach queri result, cach post list, static cach, answer and post list, queri log, effect of static cach+static cach effect, distribut of the queri+the queri distribut, data-access hierarchi, disk layer, remot server layer, cach, web search, inform retriev system]
+Gen : [caching, the impact, lists, static caching, the query log, the distribution, posting lists, different levels, time, web search engines, caching posting lists, the limitations, the problem, a query log spanning, answers, a whole year, information storage and retrieval], information search and retrieval, static vs. dynamic caching, a memory/disk layer]
+H-16.txt,0.56,0.54,0.55,0.25,0.31,0.28
+ ----------------------------------------------------- 
+31. File: H-17.txt
+Gold: [web search engin, larg-scale invert index, queri load, prune index, onlin search market, degrad of result qualiti+result qualiti degrad, prune-base perform optim, prune techniqu, result comput algorithm, top-match page, top search result, optim size, invert index, prune, correct guarante]
+Gen : [ip, queries, the p-index, the queries, ti]
+H-17.txt,0.25,0.04,0.06,0.0,0.0,0.0
+ ----------------------------------------------------- 
+32. File: H-18.txt
+Gold: [topic detect, track, topic segment, local and sequenti inform of document, singl document, multipl document, wmu, share topic, optim boundari, singl-document segment, multi-document segment, cue term, stop word, term weight, perform of topic segment+topic segment perform, share topic detect, topic align, mutual inform]
+Gen : [multiple documents, topic segmentation, documents, term weights, mi, segmentation, a document, single-document segmentation, multi-document segmentation, the performance, our methods, multiple similar documents, single documents, information, our algorithm, stop words, the optimal segmentation, information search and retrieval-clustering, information storage and retrieval], natural language processing-text analysis]
+H-18.txt,0.5,0.52,0.51,0.16,0.17,0.16
+ ----------------------------------------------------- 
+33. File: H-19.txt
+Gold: [event detect, word trajectori, aperiod event, period event, word signal, spectral analysi, topic detect, topic track, text stream, new stream, time seri, featur categor, dft, gaussian]
+Gen : [features, an event, a set, the truncated gaussian approach, information storage and retrieval], a completely unsupervised manner, stopwords, events, hh, 330 important periodic events, the 1,087 hl features, ( in)active representative features, a few news stories, ( a)periodic representative features, a very short time, the same periodic event, the sheffield league results, a heuristic hs algorithm, a whole new perspective, its low power value]
+H-19.txt,0.14,0.26,0.19,0.05,0.07,0.06
+ ----------------------------------------------------- 
+34. File: H-2.txt
+Gold: [short keyword queri, web retriev, web queri, person inform repositori, search output, addit queri keyword, granular level, term and compound level analysi, global co-occurr statist, extern thesauru, extens empir analysi, ambigu queri, qualiti, output rank, person search framework, expans process, variou featur of each queri, adapt algorithm, signific improv, static expans approach, person web search, queri expans, desktop profil, keyword extract, keyword co-occurr]
+Gen : [the web, the expansion process, personal information repository, the search output, a separate set, terms, global co-occurrence statistics, the adaptive algorithms, increasing granularity levels, four different scenarios, personalized query expansion, information search and retrieval, information storage and retrieval], a very strong increase, the additional query keywords, this personalized search framework, categories and subject descriptors, our extensive empirical analysis, such web queries, five broad techniques]
+H-2.txt,0.61,0.55,0.58,0.35,0.28,0.31
+ ----------------------------------------------------- 
+35. File: H-20.txt
+Gold: [new event detect, stream of new stori+new stori stream, volum of new+new volum, new index-tree, term reweight approach, ned accuraci, term weight, statist, train data, name entiti reweight mode, class of stori+stori class, linguist data consortium, baselin system, exist system, topic detect and track, name entiti, real-time index]
+Gen : [stories, terms, ned task, news stories, different types, term weights, system-1, named entities, a story, a topic, tf-idf model, the story, the topic, two stories, the term, the basic model, the set, the number, table 2, a new story]
+H-20.txt,0.35,0.2,0.26,0.14,0.12,0.13
+ ----------------------------------------------------- 
+36. File: H-21.txt
+Gold: [queri classif, search engin, search advertis, machin learn, relev feedback, vote scheme, crawl, topic taxonomi, affin score, condit probabl, adapt, inform retriev, web search, blind relev feedback]
+Gen : [rare queries, the query, queries, search results, query classification, q ), the search engine, the target taxonomy, p( cj|q )]
+H-21.txt,0.5,0.22,0.3,0.25,0.14,0.18
+ ----------------------------------------------------- 
+37. File: H-24.txt
+Gold: [search engin, queri, relev inform, search strategi, toler latenc, advanc syntax, navig behavior, search behavior, search success, relev feedback, relev, queri syntax, advanc search featur, expert search]
+Gen : [advanced search engine users, users, advanced users, search success, query operators, queries, advanced syntax, the number, search trails, padvanced, relevant information, operators]
+H-24.txt,0.62,0.5,0.55,0.33,0.29,0.31
+ ----------------------------------------------------- 
+38. File: H-25.txt
+Gold: [term-base feedback, inform retriev, languag model, queri expans process, queri model, interact adhoc search, retriev perform, probabl, kl-diverg, present term, queri expans, interact retriev]
+Gen : [the user, terms, term feedback, proceedings, relevance feedback, tfb, the topic, feedback, the number, presentation terms, the terms, research and development, the relevance, the performance, the user , figure 1]
+H-25.txt,0.31,0.24,0.27,0.07,0.08,0.08
+ ----------------------------------------------------- 
+39. File: H-26.txt
+Gold: [machin learn, rank retriev system, learn techniqu, mean averag precis, optim solut, relax of map+map relax, inform retriev system, probabl, surrog measur, loss function, supervis learn, machin learn for inform retriev, support vector machin, rank]
+Gen : [our method, map, a globally optimal solution, a support vector method, information search and retrieval], categories and subject descriptors, svmâˆ † map, |cx | +, y ), ( henceforth base functions, other important ir measures, î´j+1(i , |cx |, the best retrieval functions, optj ) < 0,, previously proposed svm methods, the performance, the ranking, documents, the most violated constraint, the scores]
+H-26.txt,0.22,0.38,0.28,0.05,0.07,0.06
+ ----------------------------------------------------- 
+40. File: H-29.txt
+Gold: [feedback method, posterior distribut, enhanc feedback model, inform retriev, queri expans, probabl distribut, pseudo-relev feedback, vector space-base algorithm, risk, feedback model, estim uncertainti, languag model, feedback distribut]
+Gen : [the original query, the risk or variance, the feedback model, the enhanced feedback model, the baseline feedback method, the individual document models, an important statistical dimension, existing pseudo-relevance feedback methods, a slightly modified query, individual feedback model precision, the output feedback model, the single feedback model, the mean and mode, a feedback model distribution, an individual feedback model, a query expansion term, any opinions , findings, document and query sampling, feedback, #weight(0.5 #combine(ireland peace talks]
+H-29.txt,0.25,0.42,0.31,0.1,0.15,0.12
+ ----------------------------------------------------- 
+41. File: H-3.txt
+Gold: [user profil, queri-specif context, user-centric on, domain of interest+interest domain, context factor, word sens disambigu, inform need, search context, domain knowledg, util of gener knowledg+gener knowledg util, problem of knowledg ambigu+knowledg ambigu problem, context-independ, context inform, domain model, radic solut, googl person search, queri context, term relat, languag model]
+Gen : [query, the user , the user, queries, interest, information retrieval, query contexts, information storage and retrieval], information search and retrieval, a query, several trec collections, an ir model, the context factors, categories and subject descriptors, context, significant improvements, both types, query and context, many contextual factors, query-specific contexts]
+H-3.txt,0.32,0.23,0.27,0.13,0.11,0.11
+ ----------------------------------------------------- 
+42. File: H-30.txt
+Gold: [robust queri expans techniqu, languag model queri expans techniqu, relev feedback, pseudo-relev feedback, inform retriev, languag model approach, web search, queri expans, mrf, rocchio algorithm, languag model framework, rm3, document rout, ad-hoc retriev, mrf model, relev distribut, markov random field]
+Gen : [latent concept expansion, relevance models, the model, query expansion, features, lce, the mrf model, documents, the original query, the concepts, the number, |d| +, part, cliques, queries, the query]
+H-30.txt,0.38,0.23,0.29,0.07,0.06,0.06
+ ----------------------------------------------------- 
+43. File: H-31.txt
+Gold: [multinomi distribut, queri gener probabilist model, poisson distribut, two-stage smooth, multivari bernoullu distribut, speech recognit, term frequenc, perterm smooth, new term-depend smooth algorithm, vocabulari set, homogen poisson process, singl pseudo term, languag model, poisson process, queri gener, formal model, term depend smooth]
+Gen : [the poisson model, the performance, the query, a document, multinomial language models, retrieval, the document language model, a poisson language model, the likelihood]
+H-31.txt,0.56,0.19,0.28,0.0,0.0,0.0
+ ----------------------------------------------------- 
+44. File: H-32.txt
+Gold: [us of linguist+linguist us, extern knowledg, comput of human interest+human interest comput, new corpu, question topic, inform nugget, sentenc fragment, human reader, interest, interest nugget, uniqu qualiti, surpris factor, lexic pattern, manual labor, baselin system, definit question answer, human interest]
+Gen : [interesting nuggets, definitional question answering, the topic, informative and interesting nuggets, an average human reader, a lexical patternbased approach, the low agreement rates, a complete definitional coverage, the soft-pattern bigram model, unimportant or uncommon information, some important factual information, this a difficult task, the more common method, the human interest model, the trec 2005 question, a unigram language model, the unigram language model, just about any topic, 37( 1 ) :145, the most relevant article]
+H-32.txt,0.24,0.33,0.28,0.06,0.06,0.06
+ ----------------------------------------------------- 
+45. File: H-4.txt
+Gold: [person inform manag, measur, experiment, human factor, re-find inform, privaci issu, taxonomi, individu collect, email messag, naturalist approach, laboratori-base studi, user evalu]
+Gen : [tasks, information, the tasks, people, users, researchers, the approach, a diary study, this paper, the difficulties, re-finding tasks, participants, the participants, the task, experimenters, the user, respect, the information, email, task types]
+H-4.txt,0.38,0.29,0.32,0.07,0.08,0.07
+ ----------------------------------------------------- 
+46. File: H-5.txt
+Gold: [util-base inform distil, tempor order document, passag rank, adapt filter, ad-hoc retriev, novelti detect, new evalu methodolog, answer kei, nugget-match rule, unifi framework, ndcg metric, util-base distil, unifi framework, adapt filter, passag rank, ï¬‚exibl user feedback, evalu methodolog]
+Gen : [utility-based information distillation, respect, text, novelty detection, the utility, answer keys, our experiments, multiple queries, fine-grained user feedback, information search and retrieval], a novel evaluation scheme, categories and subject descriptors, the novelty detection components, the user, the system, passages, feedback, a nugget, a passage, q )]
+H-5.txt,0.33,0.33,0.33,0.05,0.07,0.06
+ ----------------------------------------------------- 
+47. File: H-7.txt
+Gold: [model, content-base, recommend system, linear regress, collabor filter, paramet, learn techniqu, ir, em algorithm, classif, rate, recommend system, inform filter, person, bayesian hierarch model]
+Gen : [this paper, information, theory, users, a bayesian hierarchical model, the sparseness, millions, user feedback, a user, the model parameters, efficient bayesian hierarchical user, the data, algorithms, other users, each individual user , recommendation systems, interest, information filtering general terms, the efficacy and efficiency, a better user profile]
+H-7.txt,0.39,0.45,0.42,0.11,0.14,0.13
+ ----------------------------------------------------- 
+48. File: H-8.txt
+Gold: [inform retriev, evalu, relev judgement, reusabl, lowerest-confid comparison, mtc, rtc, expect, varianc, distribut of relev+relev distribut, test collect]
+Gen : [judgments, relevance judgments, confidence, relevance, rtc]
+H-8.txt,0.5,0.13,0.2,0.2,0.09,0.13
+ ----------------------------------------------------- 
+49. File: H-9.txt
+Gold: [retriev model, rank function, ambigu, cluster view, meaning cluster label, histori collect, past queri, clickthrough, star cluster algorithm, suffix tree cluster algorithm, search result snippet, monothet cluster algorithm, pseudo-document, pairwis similar graph, similar threshold paramet, centroid-base method, cosin similar, centroid prototyp, reciproc rank, log-base method, mean averag precis, search result organ, search engin log, interest aspect]
+Gen : [search results, web search, a user, a commercial search engine, more meaningful cluster labels, users, past query words, these two deficiencies, the clusters, our method, the interesting aspects, clustering search results, the cluster labels, the right cluster, a topic, interesting aspects, the utility, ( 2, ( 1, the user]
+H-9.txt,0.56,0.24,0.33,0.13,0.08,0.1
+ ----------------------------------------------------- 
+50. File: I-1.txt
+Gold: [intellig agent, failur, deal, cleanup method, abort-method, oper semant, task, goal, goal construct, agent, reactiv and delib architectur, formal model of agenc+agenc formal model]
+Gen : [the agent, a task or plan, unsuccessful tasks and plans, an operational semantics, a bdi-style architecture, aborting, another agent, , each plan, action, a particular agent system, a bdi-based execution model, categories and subject descriptors, some agent programming languages, a key technical challenge, the failure method, artificial intelligence-intelligent agents, general terms design, an optional abort-method, an appropriate course]
+I-1.txt,0.29,0.5,0.37,0.11,0.17,0.13
+ ----------------------------------------------------- 
+51. File: I-10.txt
+Gold: [multi-agent learn, collabor concept learn, learn process, knowledg, ma-consist, increment learn, agent, updat mechan, synchron, multi-agent learn]
+Gen : [smile, each agent, information k, the whole mas, the whole set, a single agent, a multi agent system, the examples, a multi-agent system, the resulting method smile, the concept representation ), categories and subject descriptors, some difficult boolean formulas, i.2.11 [artificial intelligence], supervised concept learning, the corresponding protocol, the same learning, the mas, examples, agents]
+I-10.txt,0.15,0.33,0.21,0.06,0.11,0.08
+ ----------------------------------------------------- 
+52. File: I-11.txt
+Gold: [agent reason, extern behavior, intern state, agent behavior predict, behavior evolut and extrapol, nonlinear dynam system, agent's goal, emot, pheromon flavor, disposit, futur behavior, plan recognit, plan infer, evolut, predict, bdi, swarm intellig, digit pheromon, dynam]
+Gen : [the agent, , agents, the environment, the world, the dynamics, , and then, intentions, reasoning, extrapolation ), account, internal state, their future behavior, a faster-than-real-time agentbased model, categories and subject descriptors, bee ( behavior evolution, the past and present, [artificial intelligence], these inward characteristics, bee]
+I-11.txt,0.32,0.32,0.32,0.17,0.16,0.16
+ ----------------------------------------------------- 
+53. File: I-12.txt
+Gold: [probabilist paramet, agent, inform share, decis make, fast-pace environ, multi-agent distribut system, learn mechan, select-share, paramet estim, adjust autonomi, interrupt manag]
+Gen : [similarity, this paper, the distribution, an agent, other agents, the agent, estimations, , the level, the structure, agents, the selective-sharing mechanism, the number, observations, the user, types, the probability, data, the ca, the cost]
+I-12.txt,0.18,0.15,0.16,0.06,0.09,0.07
+ ----------------------------------------------------- 
+54. File: I-14.txt
+Gold: [peer-to-peer inform retriev system, reinforc learn, distribut search algorithm, rout decis, util, network, learn algorithm, rout polici, queri, peer-to-peer inform retriev, multi-agent learn, distribut search control]
+Gen : [agents, a reinforcement learning, the agents, the learning algorithm, this paper, relevant documents, incoming queries, the neighboring agents, information, the downstream agents, the queries, the estimates, the new routing policies, the feedback information, the learned policies, the dynamic run-time characteristics, their direct neighboring agents, categories and subject descriptors, the distributed search sessions, agent]
+I-14.txt,0.35,0.53,0.42,0.22,0.33,0.27
+ ----------------------------------------------------- 
+55. File: I-15.txt
+Gold: [inform search and share, social network, cooper agent, peer to peer search network, peer-to-peer system, dynam and larg scale network, decentr partial-observ markov decis process, decentr control, myopic algorithm, knn approach, gradient search scheme, artifici social system, perform, scalabl, robust, depend]
+Gen : [agents, information searching, the network, acquaintances, queries, indices, their information provision abilities, information, an agent, each agent, the system, the number, the agent, its acquaintances, information sharing, messages, peers, the query, profiles, case]
+I-15.txt,0.44,0.23,0.3,0.0,0.0,0.0
+ ----------------------------------------------------- 
+56. File: I-16.txt
+Gold: [advanc bid agent, bluscreen, experiment public advertis system, bluetooth, probabilist model, centralis optim alloc, distribut artifici intellig, decentralis multi-agent auction mechan, independ poisson process, decis theoret approach, stochast optimis algorithm, bid agent, auction, public displai]
+Gen : [an advanced bidding agent, the simple bidding strategy, users, the presence, this paper, 7.5 %, the adverts, 25 %, more users, the behaviour, agents, advertisement selection, public displays, first-price sealed bid auctions, their bluetooth enabled devices, a centralised optimal allocation, a simple bidding strategy, the centralised optimal allocation, the highly uncertain environment, categories and subject descriptors]
+I-16.txt,0.29,0.29,0.29,0.18,0.21,0.19
+ ----------------------------------------------------- 
+57. File: I-18.txt
+Gold: [on-board plan, satellit swarm, commun and negoti, reactiv decis rule, inform system applic, multiag system, task and resourc alloc, objectag architectur, teamag, dip, prospect ant, cooper distribut problem solv, coordin, cooper and teamwork]
+Gen : [a satellite swarm, a communication protocol, reactive decision rules, the problem, on-board planning, categories and subject descriptors, i.2.8 [artificial intelligence], information systems applications], i.2.11 [artificial intelligence], a solving method, a global behaviour, communication and negotiation, the paper deals, the mission requirements, agents, the agents, a request, a set, information, requests]
+I-18.txt,0.39,0.43,0.41,0.11,0.14,0.13
+ ----------------------------------------------------- 
+58. File: I-19.txt
+Gold: [optim bid strategi, global bid agent, simultan second-price auction, non-decreas valuat distribut, onlin market, multiag system, market effici, perfect substitut, vickrei auction, social and behavior scienc, utilitymaximis strategi, simultan auction]
+Gen : [the case, auctions, a global bidder, the global bidder, optimal bidding strategies, the local bidders, the number, concurrent second-price auctions, a single auction, perfectly substitutable goods, markets, perfect substitutes, participates, the problem, this case, the market, this analysis, analytical and simulation results, a global bidding agent, categories and subject descriptors]
+I-19.txt,0.37,0.43,0.4,0.18,0.25,0.21
+ ----------------------------------------------------- 
+59. File: I-20.txt
+Gold: [prefer aggreg, multiag applic, vote theori, banzhaf power index, analysi of algorithm and problem complex+algorithm and problem complex analysi, social choic theori, autom agent vote, network flow game, probabilist model, connect game, comput complex, vote, power index]
+Gen : [the banzhaf power index, economics, multiagent applications, network flow games, theory, agents, each edge/agent, [ theory, parts, such a flow, a particular multiagent domain, a variety, a source, an important topic, a weighted voting system, social and behavioral scienceseconomics, how much real power, a given size, some restricted network flow, each agent]
+I-20.txt,0.44,0.48,0.46,0.17,0.23,0.19
+ ----------------------------------------------------- 
+60. File: I-21.txt
+Gold: [referr system, purchas behaviour, word-of-mouth commun, market system, defect behaviour, psycholog affin, switch behaviour, agent-base model, social psycholog, market barrier, consum choic, switch cost, social network, cognit model, artifici social system]
+Gen : [market barriers, agents, the structure and function, word-of-mouth, the extent, products, other agents, referrals, time, preferential attachment, the imposition, the effectiveness, the notion, a set, categories and subject descriptors, the resulting behavioural effects, various network structures, both small-world effects, this effectiveness changes, a satisficing model]
+I-21.txt,0.28,0.33,0.3,0.06,0.07,0.06
+ ----------------------------------------------------- 
+61. File: I-22.txt
+Gold: [share belief map, multiag teamwork, heurist, reason, problem-solv, collabor, teamwork, expect, teamwork schema, human-agent team perform, cognit load theori, human perform, resourc alloc, task perform, info-share, multi-parti commun, cognit model, human-center teamwork, share belief map]
+Gen : [mental models, shared mental models, hap teams, agents, the concept, loads, a team, the establishment, shared belief maps, human-agent-pairs, team members, the right time, an agent, information, teams, cognitive load, fig, secondary task performance, human , a human subject]
+I-22.txt,0.45,0.38,0.42,0.06,0.06,0.06
+ ----------------------------------------------------- 
+62. File: I-26.txt
+Gold: [pairwis partnership, decis, peer-to-peer applic, inform process, util, search cost, multi-equilibrium scenario, equilibrium strategi, parallel interact, bound methodolog, coalit format, partnership format, partnership, costli environ, search perform, instantan decis make, sequenti decis make, two-side search, match]
+Gen : [the agents, agents, partnerships, parallel two-sided economic search, several other agents, parallel, an efficient means, each search stage, the proposed search strategy, the same search stage, the distributed equilibrium strategies, categories and subject descriptors, the one currently, a stable equilibrium, the proposed model, general terms algorithms, artificial intelligenceintelligent agents, a potential partnership, the agent, a partnership]
+I-26.txt,0.25,0.21,0.23,0.07,0.05,0.06
+ ----------------------------------------------------- 
+63. File: I-29.txt
+Gold: [manag schedul, distribut environ, agent architectur, schedul, inter-depend activ, geograph separ, flexibl time, central plan, manag, schedul-execut, slack, shortest path algorithm, activ alloc, conflict-driven approach, optimist synchron, inter-agent coordin, perform, multi-agent schedul]
+Gen : [execution, the agent, , other agents, a simple temporal network, the problem or solution, a set, the problem, the expected value, an agent architecture, a global view, flexible times schedules, schedule, schedule changes, opportunities, execution events, ( 2, a team, this problem, temporal uncertainty]
+I-29.txt,0.26,0.18,0.21,0.13,0.11,0.12
+ ----------------------------------------------------- 
+64. File: I-30.txt
+Gold: [social network, social relationship, task alloc, util, alloc, algorithm, commun messag, behavior, multiag system, strateg agent, interact, agent, resourc, comput complex]
+Gen : [agents, the agents, a set, the task allocation problem, the results, tasks, resources, the gdap, the tasks, the number, the problem, the upper bound, the optimal solution, each agent, the quality, task allocation, the solution quality, the social network, the resource ratio, the task]
+I-30.txt,0.35,0.33,0.34,0.25,0.29,0.27
+ ----------------------------------------------------- 
+65. File: I-31.txt
+Gold: [knowledg represent formal, social welfar function, complet axiomatis, syntax and semant of jal+jal syntax and semant, discurs paradox, judgment aggreg rule, arrow's theorem, express, non-dictatorship, unanim, prefer aggreg, arrow logic, jal, judgment aggreg, modal logic]
+Gen : [reasoning, knowledge representation formalisms, judgment and preference aggregation, agents, the logic, a special case, about preference aggregation ), their preferences , judgments, the social choice mechanisms, a single consistent set, the recently emerging field, categories and subject descriptors, the logical language, judgment aggregation studies, a logical perspective, how multiple sets, the discursive paradox, theorem and condorcet , artificial intelligencemultiagent systems, judgment aggregation scenarios]
+I-31.txt,0.26,0.36,0.3,0.15,0.2,0.17
+ ----------------------------------------------------- 
+66. File: I-32.txt
+Gold: [multiag environ, adversari interact, adversari environ, behavior axiom, bilater and multilater instanti, evalu function, benefici action, connect-four game, empir studi, axiomat model, zero-sum encount, treatment group, eval valu, interact, agent, multiag system, modal logic]
+Gen : [bounded rational agents, an adversarial environment model, an agent, agents, e .g., the opponent, an omniscient utility maximizer, classical utility-based search methods, categories and subject descriptors, the agent, î±, aag, the game, part, agent, the black player, ae ag, tî±, the set, the environment]
+I-32.txt,0.19,0.17,0.18,0.06,0.06,0.06
+ ----------------------------------------------------- 
+67. File: I-33.txt
+Gold: [formal method, institut norm, abstract constraint, formal for repres organiz structur, entiti, properti, descript logic, dynam logic, terminolog axiom, role, infrastructur, institut, norm, logic, organiz structur]
+Gen : [organizational structures, institutions, roles, agents, the notion, an implemented system, a formal semantics, the paper, a formal relation, institution, a formal road, open systems, the development, categories and subject descriptors, institutions and organizations, constructsorganizational structures-which are, a refinement process, a useful heuristics, artificial intelligence], norms]
+I-33.txt,0.19,0.28,0.22,0.16,0.2,0.18
+ ----------------------------------------------------- 
+68. File: I-34.txt
+Gold: [virtual organ, multi-agent system, norm-regul vo, agent, norm conflict, conflict prohibit, norm inconsist, extern agent, governor agent, artifici social system]
+Gen : [conflict and inconsistency, norms, agents, actions, a conflict, norm-regulated virtual organizations, multi-agent systems, an action, categories and subject descriptors, such conflicts and inconsistencies, both obliged and prohibited, individual and global goals, our proposed solution, artificial intelligence-multi-agent systems, expert systems law, i.2.11 [artificial intelligence], a useful notion, the indirect conflicts/inconsistencies, actions and norms, an e-science example]
+I-34.txt,0.35,0.73,0.48,0.06,0.1,0.07
+ ----------------------------------------------------- 
+69. File: I-35.txt
+Gold: [algorithm, activ, scenario, norm posit, protocol, norm scene, norm transit rule, norm structur, bi-partit graph, prohibit, permiss overlap, token, conflict, regul multi-agent system, norm conflict, electron institut, organis, coordin]
+Gen : [normative positions, norms, coloured petri nets, the notion, agents, well-known theoretical results, a tractable algorithm, the distributed enactment, the dynamic nature, distributed norm management, regulated multi-agent systems, multiple , related activities, the normative structure (, truly distributed computational realisations, categories and subject descriptors, a normative model, online conflict resolution, a challenging issue, the distributed management, cpns]
+I-35.txt,0.22,0.33,0.27,0.05,0.06,0.05
+ ----------------------------------------------------- 
+70. File: I-4.txt
+Gold: [multipl agent, negoti framework, negoti chain, semi-cooper multi-agent system, pre-negoti, multi-link negoti, agent, distribut set, multipl concurr task, virtual organ, sub-task reloc, reput mechan, complex suppli-chain scenario, flexibl, multi-link negoti]
+Gen : [the agent, meta-level coordination, agents, each negotiation, each agent, the negotiation, flexibility, the negotiations, this work, the agents, a more accurate model, this more accurate model, multiple related negotiations, each individual agent, the relationship, a better negotiation solution, categories and subject descriptors, other agents, the pc manufacturer, a set]
+I-4.txt,0.26,0.21,0.23,0.15,0.14,0.15
+ ----------------------------------------------------- 
+71. File: I-5.txt
+Gold: [multi-agent system, agent, resourc alloc, distribut algorithm, dynam alloc task, network of server+server network, server utilis, adapt process, competit, predictor, distribut control, self-organis]
+Gen : [agents, a multi-server environment, the resource allocation problem, techniques, this paper, a purely emergent effect, self-organising agent-based resource allocation, the resource allocation, efficient resource allocation, the system, our solution, resources and resource consumers, categories and subject descriptors, a distributed algorithm, distributed multiagent systems, artificial intelligence], a distributed environments, account, the self-organisation, these techniques]
+I-5.txt,0.22,0.32,0.26,0.16,0.25,0.19
+ ----------------------------------------------------- 
+72. File: I-6.txt
+Gold: [agent commun languag, dynam semant, social reason, commit-base semant, state transit system, reput-base adapt, mutual of expect+expect mutual, recoveri mechan, non-redund, social reason]
+Gen : [dynamic semantics, our framework, compliant and expected behaviour, a common framework, commitment-based acl semantics, agent communication, an improved notion, open multiagent systems, agent communication languages, this paper, the acl, sanction and reward mechanisms, categories and subject descriptors, agent communication languages (acls, a simple mechanism, concrete dynamic semantics, the fundamental problems, alternative semantic variants, artificial intelligence-multiagent systems, agents]
+I-6.txt,0.21,0.39,0.27,0.1,0.22,0.14
+ ----------------------------------------------------- 
+73. File: I-7.txt
+Gold: [commit, credibl, game theori, decis make, strateg posit, freedom of action+action freedom, multiag system, distribut comput, electron market, extort, stackleberg set, optim condit commit, sequenti commit type, induct hypothesi, pareto effici, pareto effici condit extort]
+Gen : [commitments, the players, conditional commitments, a player, the actions, extortions, multiagent systems, e.g., the commitments, an extortion, different commitment types, promises and threats, a given order, commitment and extortion, an action, the outcomes, some situations, each player, the circumstances, ( conditional ) commitment]
+I-7.txt,0.29,0.15,0.2,0.14,0.13,0.13
+ ----------------------------------------------------- 
+74. File: I-9.txt
+Gold: [multi-agent environ, interact behavior, tempor constraint, interact protocol, linear logic, multipl conjunct, classic conjunct, level of predict+predict level, pre-commit, linear implic, emerg protocol, condit commit, request messag, causal relationship, agent commun languag and protocol, logic and formal model of agenc and multi-agent system]
+Gen : [temporal linear logic, agents, commitments, protocols, protocol actions, the notion, flexible agent interactions, flexibility, operations, the development, the internet, tight integration, categories and subject descriptors, a reasoning system, the end results, general terms theory, an explicit mapping, a significant degree, an open system, a crucial aspect]
+I-9.txt,0.22,0.23,0.23,0.0,0.0,0.0
+ ----------------------------------------------------- 
+75. File: J-1.txt
+Gold: [trade reduct, budget balanc, intern competit, extern competit, effici, power of player+player power, gener trade reduct, gtr, optim, inequ in welfar, multi-mind player, budget-balanc mechan, homogen good, spatial distribut market]
+Gen : [a mechanism, generalized trade reduction mechanisms, this paper, the welfare, ir, several open problems, budget balanced mechanisms, strategic transportation edges, a wide range, problems, social welfare, distributed markets, supply chains, [15 ], [social and behavioral sciences, k.4.4 [ electronic commerce], a generalized trade reduction, categories and subject descriptors, double sided markets, several desirable properties]
+J-1.txt,0.24,0.33,0.28,0.0,0.0,0.0
+ ----------------------------------------------------- 
+76. File: J-10.txt
+Gold: [onlin review, reput mechan, featur-by-featur estim of qualiti, absenc of clear incent+clear incent absenc, util of the product+product util, brag-and-moan model, rate, great probabl bi-modal, u-shape distribut, semant orient of product evalu, correl, larg span of time]
+Gen : [reviews, users, the user, ratings, the ratings, the difference, reports, feature f, quality, the textual comment, the reviews, c v, the hotel, â€, the number, the average rating, wi f]
+J-10.txt,0.21,0.1,0.14,0.07,0.08,0.08
+ ----------------------------------------------------- 
+77. File: J-11.txt
+Gold: [algorithm game theori, market, trade network, interact of buyer and seller+buyer and seller interact, initi endow of monei, bid price, perfect competit, benefit, maximum and minimum amount, econom and financ, strateg behavior of trader, complementari slack, monopoli, trade network]
+Gen : [traders, prices, buyers and sellers, all buyers and sellers, individual buyers and sellers, trade, all equilibria lead, an efficient (, optimal ) allocation, a trader, the network structure, the same intermediaries, a positive profit, sellers, [social and behavioral sciences, economics general terms economics, categories and subject descriptors, a more general type, each buyer and seller, job applicants and employers]
+J-11.txt,0.28,0.28,0.28,0.0,0.0,0.0
+ ----------------------------------------------------- 
+78. File: J-13.txt
+Gold: [hypergraph, combinatori auction, hypertre decomposit, well-known mechan for resourc and task alloc, hypertre-base decomposit method, hypergraph hg, complex of structur item graph+structur item graph complex, simplif of the primal graph+primal graph simplif, structur item graph, fix treewidth, accept bid price, polynomi time]
+Gen : [structured item graphs, combinatorial auctions, hypertree decompositions, the winner determination problem, an item graph, a structured item graph, polynomial time, the class, means, instances, the notion, fact, one-to-one correspondence, the accepted bid prices, the items, edges, treewidth, hypertree width, items, the existence]
+J-13.txt,0.42,0.39,0.41,0.22,0.33,0.27
+ ----------------------------------------------------- 
+79. File: J-14.txt
+Gold: [graphic game, nash equilibrium, approxim scheme, exponenti-time algorithm, approxim, variou sociallydesir properti, overal payoff, distribut profit, social welfar, integ-payoff graphic game g, sever drawback, strategi profil, degre-bound graph]
+Gen : [graphical games, a nash equilibrium, the best response policy, nash equilibria, a graphical game, the underlying graph, the social welfare, all nash equilibria, the data structure, a bounded-degree tree, good nash equilibria, social and behavioral sciences-economics, categories and subject descriptors, another attractive solution concept, such an equilibrium, kearns et al, an efficient algorithm, general terms algorithms, j.4 [computer applications], fair equilibrium selection]
+J-14.txt,0.24,0.33,0.28,0.17,0.23,0.19
+ ----------------------------------------------------- 
+80. File: J-15.txt
+Gold: [auction, multiattribut auction, prefer handl, theori of measur valu function+measur valu function theori, iter auction mechan, mvf, gau, gai base auction]
+Gen : [a set, a multiattribute auction, attributes, generalized value decomposition, structured multiattribute auctions, preferences, social and behavioral sciences-economics, an underlying order, approximately optimal allocations, a cardinal utility representation, subject descriptors, highly restrictive forms, algorithms, local conditional independence relations, clusters, an iterative auction mechanism, j.4 [computer applications], generalized additive structure, measurable value functions, the full space]
+J-15.txt,0.18,0.47,0.26,0.1,0.25,0.14
+ ----------------------------------------------------- 
+81. File: J-17.txt
+Gold: [mechan design, approxim algorithm, schedul, multi-dimension schedul, cycl monoton, makespan minim, algorithm, random mechan, us of fraction mechan+fraction mechan us, truth mechan design, fraction domain, schedul]
+Gen : [cycle monotonicity, truthful mechanism design, truthfulness, a fractional truthful mechanism, a multidimensional scheduling domain, the first truthful mechanisms, any c-approximation algorithm, a general technique, the multidimensional setting, algorithmic mechanism design, the processing time, a black-box fashion, a multidimensional problem, non-trivial performance guarantees, truthful mechanisms, economics general terms algorithms, m)-approximation truthful mechanisms [22, a well-motivated special case, the few known results, categories and subject descriptors]
+J-17.txt,0.27,0.6,0.37,0.11,0.18,0.13
+ ----------------------------------------------------- 
+82. File: J-18.txt
+Gold: [auction, mediat, ex post equilibrium, agent, posit auction, electron commerc, richer class of posit auction, next-price posit auction, multi-agent system, t-strategi, vcg outcom function, self-price posit auction, equilibrium]
+Gen : [position auctions, mediators, the mediator, an ex post equilibrium, the tie breaking rule, the self-price position auction, behalf, a mediator, all k-price position auctions, the mediator services, such desired mediators, a richer class, [social and behavioral sciences, some nice theoretical properties, categories and subject descriptors, the following rationality condition, current position auctions, the vcg outcome function, a position auction, the players]
+J-18.txt,0.32,0.56,0.41,0.12,0.15,0.13
+ ----------------------------------------------------- 
+83. File: J-2.txt
+Gold: [mechan design, vickrei-clark-grove, redistribut payment, effici mechan, strategi-proof, individu ration mechan, mechan, linear vcg redistribut mechan, transform to linear program, analyt character, worst-case optim mechan, vickrei-clark-grove mechan, payment redistribut]
+Gen : [the agents, the mechanism, agents, the bailey-cavallo mechanism (, one or more items, the vcg mechanism, the family, a mechanism, the vcg payment, all anonymous deterministic mechanisms, the worst case ), the surplus payment corresponds, ( strongly ) budget, the bailey-cavallo mechanism, a linear program, social and behavioral sciences-economics, categories and subject descriptors, ’ m, the total vcg payment, the worst-case optimal mechanism]
+J-2.txt,0.26,0.41,0.32,0.06,0.08,0.07
+ ----------------------------------------------------- 
+84. File: J-20.txt
+Gold: [barter-exchang market, match, column gener, kidnei, transplant, market characterist, instanc gener, solut approach, edg formul, cycl formul, barter, exchang, match, branch-and-price]
+Gen : [a cycle, agents, patients, the cycle, kidney disease, the item, each agent, barter exchange markets, the clearing problem, cycles, their items, these markets, this cycle-length constraint, the next agent, nationwide kidney exchanges, algorithms and problem complexity], social and behavioral sciences-economics, the only ethical way, a cadaver kidney, categories and subject descriptors]
+J-20.txt,0.21,0.29,0.24,0.0,0.0,0.0
+ ----------------------------------------------------- 
+85. File: J-21.txt
+Gold: [inform market, dynam parimutuel market, project game model, predict market, market score rule, spheric score rule, long-rang manipul strategi, social and behavior scienc-econom, liquid time, strateg analysi, dpm, msr, project game]
+Gen : [information markets, a strategic model, a market, the projection game, social and behavioral sciences-economics, the spherical scoring rule, an attractive geometric visualization, categories and subject descriptors, the dynamic parimutuel market, general terms economics, dynamic parimutuel markets, market scoring rules, several strategic properties, complex strategic scenarios, a useful model, two new designs, an analytic method, a special form, a means, our central contribution]
+J-21.txt,0.35,0.52,0.42,0.21,0.31,0.25
+ ----------------------------------------------------- 
+86. File: J-22.txt
+Gold: [permut bet, subset bet, bilater trade partner, polynomi-time algorithm, inform aggreg, permut combinator, pair-bet market, bipartit graph, minimum feedback, greedi algorithm, complex polynomi transform, predict market, express bet, order match, comput complex]
+Gen : [traders, orders, two expressive betting languages, a permutation betting scenario, polynomial time, candidates, the number, the final ordering, a natural greedy algorithm, the auctioneer problem, the computational complexity, pair betting, indivisible orders, the outcome, a sufficient condition, the existence, social and behavioral sciences-economics, both unnatural and intractable, positions 4 , 9, categories and subject descriptors]
+J-22.txt,0.26,0.35,0.3,0.05,0.07,0.06
+ ----------------------------------------------------- 
+87. File: J-23.txt
+Gold: [frugal ratio, bootstrap techniqu, vertex-cover auction, transfer util, consecut payment bound, monoton alloc rule, co-oper, polynomi-time, nonmonoton, auction, frugal, vertex cover]
+Gen : [respect, the frugality ratio, path auctions, ( 2, a factor, bab, ntumin( c, bi]
+J-23.txt,0.33,0.16,0.21,0.13,0.08,0.1
+ ----------------------------------------------------- 
+88. File: J-25.txt
+Gold: [combinatori bet, effect probabl assess, arbitrari logic combin, compound secur, bayesian network, combin-valu trade, approxim algorithm, payoff vector, tractabl case, base secur, compound secur market, comput complex of match, combinatori bet, trade in financi instrument base on logic formula, risk alloc, inform aggreg, hedg, specul, bet, gambl]
+Gen : [securities, bids, agents, the auctioneer , the matching problem, the problem, a compound securities market, risk, compound securities, the divisible case, the latter hardness result, social and behavioral sciences-economics, complexity-nonnumerical algorithms and problems, their optimal risk exposure, categories and subject descriptors, formal definitions and examples, the auctioneer, the adversary, the ( possibly state-contingent, a matching]
+J-25.txt,0.24,0.2,0.22,0.11,0.11,0.11
+ ----------------------------------------------------- 
+89. File: J-26.txt
+Gold: [optim set of contract, classic princip-agent, qualiti of servic+servic qualiti, combinatori agenc, nash equilibrium, contract action, k-orbit, anonym technolog, seri-parallel network, price of unaccount+unaccount price, agenc theori, princip-agent model, incent, con]
+Gen : [the principal, the agents, a set, [social and behavioral sciences, the classical principalagent problem, k.4.4 [ electronic commerce], categories and subject descriptors, his own selfish goal, agents, the optimal contract, the agency case, the case, the orbit, an optimal contract, the next optimal contract, the next transition point, only a single transition, = ck 2 2, the value, the number]
+J-26.txt,0.19,0.22,0.2,0.0,0.0,0.0
+ ----------------------------------------------------- 
+90. File: J-27.txt
+Gold: [learn from reveal prefer, complex problem, forecast, probabl approxim correct, monoton concav util function, demand function, rationaliz, finit set of observ+observ finit set, incom-lipschitz, fat shatter dimens, reveal prefer, machin learn, fat shatter]
+Gen : [revealed preference, demand functions, this line, the utility function, afriat , varian [20], afriat [1, [3, research, algorithms, social and behavioral sciences-economics, categories and subject descriptors, confidence, teo and vohra [17], the present paper complements, complexity, all demand functions, a general degree, prices and demands, i.2.6 [ learning]]
+J-27.txt,0.19,0.26,0.22,0.11,0.15,0.13
+ ----------------------------------------------------- 
+91. File: J-28.txt
+Gold: [approxim-effici and approximatelystrategyproof auction mechan, singl-good multi-unit alloc problem, fulli polynomi-time approxim scheme, vickrei-clark-grove, forward auction, revers auction, equilibrium, margin-decreas piecewis constant curv, bid languag, dynam program, approxim algorithm, multi-unit auction, strategyproof]
+Gen : [j ), i ), the generalized knapsack, the vcg mechanism, the value, the generalized knapsack problem, an optimal solution, ( i, v âˆ — (]
+J-28.txt,0.22,0.08,0.11,0.0,0.0,0.0
+ ----------------------------------------------------- 
+92. File: J-3.txt
+Gold: [budget optim, search-base advertis auction, internet, advertis, game theori, intrigu heurist, keyword, uniform bid strategi, vickrei clark grove, lp, gener second price, sponsor search, optim, auction, bid]
+Gen : [the budget optimization problem, categories and subject descriptors, a complex optimization problem, this budget optimization problem, an important open direction, ) alternate bidding goals, a stochastic bidding strategy, robust and less reliant, the top p advertisers, the bidding optimization problem, a more detailed description, a generalized second price, positive and negative results, the best such strategy, 1.2 our main results, the advertiser, the internet search company, the individual query landscapes, at most two children, the worst-case click-price curve]
+J-3.txt,0.22,0.36,0.27,0.0,0.0,0.0
+ ----------------------------------------------------- 
+93. File: J-30.txt
+Gold: [bound action space, implement, domin strategi, social-choic function, decis function, singl-cross condit, multilinear function, optim mechan, action-bound mechan, probabl of success+success probabl, mechansm design, singl-cross condit, commun complex]
+Gen : [the agents, a bounded action space, mechanism design, the optimal mechanisms, no additional cost, games, implementation, any multilinear social-choice rule, [social and behavioral sciences, k.4.4 [ electronic commerce], categories and subject descriptors, general terms economics, their action space, o( 1 k2, an expected loss, type- and action, a general framework, the optimal mechanism, traditional mechanism design, public-good models]
+J-30.txt,0.21,0.33,0.25,0.16,0.25,0.19
+ ----------------------------------------------------- 
+94. File: J-31.txt
+Gold: [optim strategi, multiag system, simultan manner, stackelberg model, leadership model, pure strategi, mix strategi, normal-form game, bayesian game, nash equilibrium, np-hard, game theori, commit, leadership, stackelberg]
+Gen : [the optimal strategy, pure strategies, mechanism design, strategies, a strategy, commitment, one player, multiagent systems, the players, leadership, their strategies, toâˆ — vincent conitzer, the designer, such models, mixed strategies, social and behavioral sciences-economics, categories and subject descriptors, a leadership position ), f.2 [ theory, the other player]
+J-31.txt,0.42,0.53,0.47,0.38,0.4,0.39
+ ----------------------------------------------------- 
+95. File: J-32.txt
+Gold: [graphic game, larg-scale distribut network, nash equilibrium, degre, dynam program-base algorithm, ppad-complet, bound-degre tree, gener algorithm, respons polici, downstream pass, breakpoint polici]
+Gen : [a nash equilibrium, polynomial time, [0, v ), the best response policy, the algorithm, a union, the case, the best response policies, rectangles, each vertex, w ), a breakpoint policy, the downstream pass, the root, u)]
+J-32.txt,0.41,0.35,0.38,0.29,0.36,0.32
+ ----------------------------------------------------- 
+96. File: J-4.txt
+Gold: [revenu, keyword auction, revenu-optim rank, rank rule, search engin, advertis, sponsor search, rank-by-bid, rank-by-revenu, profit, advertis revenu, price search keyword, optim auction design problem, sponsor search]
+Gen : [keyword auctions, bidders, equilibrium, the correlation, yahoo!, symmetric equilibrium, revenue, ws, value and relevance, bids, agent, nash equilibrium, varian [11], relevance, click, rank-by-bid, the page, -1, efficiency]
+J-4.txt,0.2,0.24,0.22,0.17,0.23,0.19
+ ----------------------------------------------------- 
+97. File: J-7.txt
+Gold: [diffus process, game-theoret diffus model, strateg incompat, bilingu, limit compat, interoper, non-convex properti, character, morri's theorem, contagion threshold, contagion game, potenti function, algorithm game theori, contagion on network, diffus of innov+innov diffus]
+Gen : [compatibility, a limited strategic alliance, a and b, both a and b., a very simple model, [social and behavioral sciences, economics general terms economics, a google research grant, categories and subject descriptors, some surprising non-monotonicity properties, ab, nodes, vertices, agents, 1 âˆ ’ q, any v âˆˆ sab, a more complex structure, a more detailed picture, the model posits nodes, the basic game-theoretic models]
+J-7.txt,0.17,0.25,0.2,0.0,0.0,0.0
+ ----------------------------------------------------- 
+98. File: J-8.txt
+Gold: [cost share connect game, number of player+player number, singl sourc and sink, singl sourc multipl sink, multi sourc and sink, cost of the edg+edg cost, fair connect game, gener connect game, graph topolog, strong equilibrium, coalit, specif cost, extens parallel graph, optim solut, game theori, nash equilibrium, price of anarchi+anarchi price, strong price of anarchi, network design, cost share game]
+Gen : [cost sharing connection games, strong equilibrium, the cost, players, a strong equilibrium, each player, an extension parallel graph, fair connection games, the optimal solution, the edges, anarchy, our main existence results, any fair connection games, k.4.4 [ electronic commerce], categories and subject descriptors, ( general connection games, the players, a fair connection game, the set, player i]
+J-8.txt,0.48,0.39,0.43,0.07,0.05,0.06
+ ----------------------------------------------------- 
+99. File: J-9.txt
+Gold: [econom theori, empir and laboratori evid, equilibrium price, financi secur, secur's valu, comput process, path toward equilibrium, trader, market price, simplifi model, trade strategi, comput properti of the process, secur, payoff, threshold function, probabl distribut, round, number of bit+bit number, distribut inform, lower bound, worst case, inform market, distribut inform market, market comput, inform aggreg, converg to equilibrium, ration expect, effici market hypothesi]
+Gen : [at most n rounds, all prior probability distributions, a distributed information market, an information market, weighted threshold functions, information, a simplified model, equilibrium, the worst case, the market price, the other hand, the computational process, these threshold securities, c.2.4 [computer systems organization, social and behavioral scienceseconomics, categories and subject descriptors, at least n/2 rounds, the proper equilibrium, distributed input bits, evidence-the equilibrium price]
+J-9.txt,0.47,0.41,0.44,0.35,0.25,0.29

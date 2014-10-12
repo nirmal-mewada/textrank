@@ -1,0 +1,600 @@
+structured item graphs|JJ NN NNS|BODY_5:BODY_17:TITLE_3:ABSTRACT_8:BODY_2:BODY_3:BODY_4:BODY_10|3
+combinatorial auctions|JJ NNS|TITLE_2:ABSTRACT_2:BODY_2:BODY_1:ABSTRACT_7|0
+we|PRP|BODY_12:BODY_18:BODY_13:BODY_26:ABSTRACT_2:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_19:BODY_7:BODY_8|15
+it|PRP|BODY_12:BODY_16:BODY_17:ABSTRACT_3:BODY_25:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:ABSTRACT_9:BODY_9|4
+hypertree decompositions|NN NNS|BODY_6:BODY_11:TITLE_4:BODY_2:BODY_14:BODY_3:BODY_7|1
+that|WDT|BODY_12:BODY_6:BODY_5:BODY_11:ABSTRACT_5:BODY_27:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+the winner determination problem|DT NN NN NN|BODY_6:BODY_12:BODY_5:ABSTRACT_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_7:BODY_8|2
+an item graph|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:ABSTRACT_1:BODY_4|1
+a structured item graph|DT JJ NN NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_8:ABSTRACT_3:BODY_4|2
+polynomial time|JJ NN|BODY_6:BODY_5:BODY_11:ABSTRACT_4:BODY_17:BODY_2:ABSTRACT_3:BODY_8|3
+the class|DT NN|ABSTRACT_6:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|4
+(|-LRB-|BODY_81:BODY_5:ABSTRACT_5:BODY_57:BODY_69:BODY_13:BODY_7|0
+means|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_3:BODY_7|1
+instances|NNS|BODY_12:BODY_5:ABSTRACT_4:BODY_4:ABSTRACT_7:BODY_9|3
+the notion|DT NN|BODY_5:ABSTRACT_2:BODY_2:BODY_3|2
+fact|NN|BODY_2:BODY_1:ABSTRACT_1:BODY_8|1
+one-to-one correspondence|JJ NN|BODY_5:BODY_11:ABSTRACT_4:BODY_18:BODY_3:BODY_10|2
+the accepted bid prices|DT VBN NN NNS|BODY_6:ABSTRACT_9|0
+the items|DT NNS|ABSTRACT_5:ABSTRACT_8:BODY_24:BODY_14:BODY_8|0
+edges|NNS|BODY_6:BODY_12:BODY_11:ABSTRACT_6:BODY_7:BODY_9|0
+treewidth|NN|BODY_6:BODY_15:ABSTRACT_7|2
+hypertree width|NN NN|BODY_13:BODY_10:ABSTRACT_7:BODY_7:BODY_9|2
+items|NNS|BODY_6:BODY_11:ABSTRACT_5:BODY_14:BODY_7|0
+the existence|DT NN|BODY_6:ABSTRACT_4:BODY_1:BODY_4|0
+the tractability|DT NN|BODY_6:ABSTRACT_2:BODY_3|0
+many item graphs|JJ NN NNS|BODY_1:ABSTRACT_1|0
+a connected subgraph|DT VBN NN|BODY_26:ABSTRACT_10|0
+a recently introduced measure|DT RB VBN NN|ABSTRACT_4|1
+( dual ) hypergraphs|-LRB- JJ -RRB- NNS|ABSTRACT_6|1
+social and behavioral sciences-economics|JJ CC JJ NNS|ABSTRACT_3|0
+a given combinatorial auction|DT VBN JJ NN|ABSTRACT_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+whose associated item graphs|WP$ JJ NN NNS|ABSTRACT_6|0
+a crucial open problem|DT JJ JJ NN|ABSTRACT_7|0
+whose bidder interactions|WP$ NN NNS|ABSTRACT_5|1
+f.2 [ theory|CD JJR NN|ABSTRACT_4|0
+a fixed treewidth|DT JJ NN|ABSTRACT_4|0
+this bad news|DT JJ NN|ABSTRACT_1|0
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|4
+h|NN|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_19:BODY_7:BODY_8:BODY_20|1
+t|NN|BODY_72:BODY_13:BODY_2:BODY_3:BODY_4:BODY_33:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_9:BODY_78|0
+hv|PRP|BODY_11:BODY_22:BODY_15:BODY_43:BODY_13:BODY_2:BODY_3:BODY_4:BODY_5:BODY_27:BODY_1:BODY_10:BODY_48:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_11:BODY_15:BODY_27:BODY_13:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_20|0
+hâˆ —|JJ NN|BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+k )|NN -RRB-|BODY_6:BODY_2:BODY_4:BODY_8:BODY_9|2
+the hyperedges|DT NNS|BODY_11:BODY_5:BODY_2:BODY_3:BODY_44:BODY_19:BODY_4:BODY_7|1
+the set|DT NN|BODY_6:BODY_31:BODY_11:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+.e|NN|BODY_5:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7|3
+a hypergraph h|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|0
+( x|-LRB- NN|BODY_41:BODY_12:BODY_11:BODY_22:BODY_16:BODY_27:BODY_13:BODY_2:BODY_8|0
+nodes|NNS|BODY_5:BODY_11:BODY_3:BODY_4:BODY_10:BODY_9|0
+) ) âˆ ©|-RRB- -RRB- NN NN|BODY_14:BODY_3:BODY_10:BODY_8|2
+hg|NN|BODY_6:BODY_13:BODY_2:BODY_3:BODY_9|0
+( resp.|-LRB- NN|BODY_22:BODY_17:BODY_13:BODY_3:BODY_7:BODY_9|1
+polynomial ( e .g.|JJ -LRB- NN NN|BODY_3|1
+logarithmic space and weights|JJ NN CC NNS|BODY_2|1
+the packing|DT NN|BODY_5:BODY_3:BODY_7:BODY_9|1
+the hypertree width )|DT NN NN -RRB-|BODY_7|1
+an important open problem|DT JJ JJ NN|BODY_10|1
+td|NN|BODY_5:BODY_2:BODY_4:BODY_7:BODY_9|0
+x|NN|BODY_12:BODY_32:BODY_6:BODY_18:BODY_13:BODY_2:BODY_1:BODY_7:BODY_8:BODY_9|0
+a combinatorial auction scenario|DT JJ NN NN|BODY_6|1
+c ) âˆˆ e|NN -RRB- VBD NN|BODY_52:BODY_42:BODY_2:BODY_7:BODY_29|0
+î² ) âˆˆ pg|NN -RRB- NN NN|BODY_13:BODY_24:BODY_4:BODY_8|0
+the auctioneer|DT NN|BODY_8:BODY_9|2
+each node|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_9|0
+the dual hypergraph|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_8|2
+an edge|DT NN|BODY_5:BODY_4:BODY_7:BODY_8|1
+v|NNS|BODY_6:BODY_2:BODY_1:BODY_10:BODY_7:BODY_8|0
+item graphs|NN NNS|BODY_2:BODY_1:BODY_3:BODY_8|2
+y ) âˆˆ e|NN -RRB- VBD NN|BODY_12:BODY_42:BODY_3:BODY_14:BODY_9|0
+computesetpackingk|NN|BODY_2:BODY_1:BODY_4:BODY_7|0
+e( h)|JJ NN|BODY_6:BODY_5:BODY_3:BODY_8:BODY_9|0
+b|NN|BODY_35:BODY_6:BODY_5:BODY_3:BODY_10|0
+the primal graph|DT JJ NN|BODY_1:BODY_3:BODY_4|1
+3|CD|BODY_12:BODY_5:BODY_17:BODY_21:BODY_3:BODY_9|0
+e( h) | h|NN JJ NN NN|BODY_4|0
+strict hypertree decompositions|JJ NN NNS|BODY_2:BODY_3:BODY_9|1
+the structural decomposition techniques|DT JJ NN NNS|BODY_2|0
+ï‡( p ) }|JJ NN -RRB- NN|BODY_6:BODY_36|0
+bounded-width structured item graphs|JJ VBN NN NNS|BODY_2|0
+a combinatorial auction i|DT JJ NN NN|BODY_5:BODY_4|0
+i( ï‡( w(x ,y)|JJ JJ JJ NN|BODY_19|0
+all the possible packings|PDT DT JJ NNS|BODY_2:BODY_4|0
+o(log n ) bits|NN NN -RRB- NNS|BODY_6|0
+figure 2.( b )|NN CD NN -RRB-|BODY_2|0
+a k-width hypertree decomposition|DT JJ NN NN|BODY_5:BODY_3|0
+w(x,z ) ( resp.|NNP -RRB- -LRB- NN|BODY_31|0
+a highly parallelizable algorithm|DT RB JJ NN|BODY_2|0
+clear ( e .g.|JJ -LRB- NN NNP|BODY_10|0
+n} âˆª {( nsx|JJ NN FW NN|BODY_10|0
+the dual hypergraph â¯h|DT JJ NN NN|BODY_5|0
+k ) and c(hw|NN -RRB- CC NN|BODY_3|0
+size ( |e( h)|NN -LRB- JJ NN|BODY_7|0
+whose dual hypergraphs|WP$ JJ NNS|BODY_12:BODY_6:BODY_5:BODY_9|2
+the hypergraph h i0,b0|DT NN NN NN|BODY_1|0
+a combinatorial auction|DT JJ NN|BODY_5:BODY_13:BODY_2:BODY_1:BODY_4|1
+a tree decomposition td|DT NN NN NN|BODY_11|0
+bx ) | x|NN -RRB- NN NN|BODY_9|0
+hg. â€ ¢ sa1|PRP$ JJ NN NNS|BODY_12|0
+a 2-width hypertree decomposition|DT JJ NN NN|BODY_27:BODY_1|0
+y ) âˆˆ e}|NN -RRB- VBD NN|BODY_17:BODY_13|0
+hâˆˆh w( h )|NN VBN NN -RRB-|BODY_11|0
+each partial packing hv|DT JJ NN NN|BODY_21:BODY_26|0
+the reader|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+maxhcâˆˆhc|hvâ‰ˆ hc c hc|JJ NN NN NN|BODY_54|0
+âˆ © hv )|IN NN NN -RRB-|BODY_62|0
+â¯hv âˆˆ hv )|DT JJ NN -RRB-|BODY_5|0
+set best packing *|NN JJS NN SYM|BODY_58|0
+nte y } -notice|NN NN NN NN|BODY_62|0
+nse x } -notice|NN SYM NN NN|BODY_54|0
+i,b ( item( bi)|JJ -LRB- NN NN|BODY_8|0
+) v hv :=|-RRB- NN NN IN|BODY_59|0
+bx} , sa3 x|NN , JJ SYM|BODY_15|0
+figure 1.( b )|NN CD NN -RRB-|BODY_3|0
+n( h)|JJ NN|BODY_22:BODY_15:BODY_10:BODY_7|1
+biâˆˆbâˆ — pay( bi)|JJ , NN NN|BODY_8|0
+a vertex bt( x|DT NN NN NN|BODY_9|0
+{h1 } = 1|CD IN SYM CD|BODY_27|0
+z ) ( resp.|FW -RRB- -LRB- NN|BODY_28|0
+t ) over g|NN -RRB- IN VBG|BODY_9|0
+h1|NNS|BODY_2:BODY_3:BODY_8:BODY_9|1
+( c3 ) âˆ€î±|-LRB- NN -RRB- NN|BODY_10|0
+i0 = {i1 ,|NN SYM JJ ,|BODY_7|0
+â€ ¢ ta1 x|JJ NN NN SYM|BODY_25|0
+figure 5.( b )|NN JJ NN -RRB-|BODY_3|0
+a vertex bs( x|DT NN NN NN|BODY_3|0
+the path connecting v1|DT NN VBG NNS|BODY_7|0
+’ {hv | âˆƒhc|NNP NNP NN NNP|BODY_44|0
+a k-bounded hypertree decomposition|DT JJ NN NN|BODY_5|0
+1 ) = c(ig|CD -RRB- SYM NN|BODY_7|0
+any 152 figure 1|DT CD NN CD|BODY_13|0
+a combinatorial auction i0|DT JJ NN NN|BODY_5|0
+( 2 ) v3|-LRB- CD -RRB- NN|BODY_11|0
+( 3 ) v2|-LRB- CD -RRB- NN|BODY_17|0
+( 4 ) v1|-LRB- CD -RRB- NN|BODY_25|0
+:= w( hv )|IN JJ NN -RRB-|BODY_49|0
+the second crucial observation|DT JJ JJ NN|BODY_5|0
+the block ns(x ,e|DT NN NN NN|BODY_21|0
+a 3-width tree decomposition|DT JJ NN NN|BODY_4|0
+the hamiltonian path problem|DT JJ NN NN|BODY_4|0
+the form bs( x|DT NN NN NN|BODY_8|0
+the form ns(x ,e|DT NN NN NN|BODY_12|0
+two example item graphs|CD NN NN NNS|BODY_4|0
+hâˆ — := â¯hr|JJ NN IN NNP|BODY_80|0
+any [v ]-component c|DT NN JJ NN|BODY_1|0
+a combinatorial auction problem|DT JJ NN NN|BODY_10|0
+a parallel complexity class|DT JJ NN NN|BODY_2|0
+î»( p ) }|NN NN -RRB- NN|BODY_21|0
+the auction hypergraph h.|DT NN NN NN|BODY_6|0
+g( h i,b )|JJ NN NN -RRB-|BODY_6|0
+r )]-component cr s.t|NN JJ NN NN|BODY_15|0
+âˆƒî± , î² âˆˆ|JJ , NN NN|BODY_22|0
+resource and task allocation|NN CC NN NN|BODY_3|0
+the form w(x ,y|DT NN NN NN|BODY_17|0
+that h1 âˆˆ hv|DT JJ NN NN|BODY_2|0
+a ) and notice|DT -RRB- CC NN|BODY_5|0
+a hypertree decomposition t|DT NN NN NN|BODY_2|0
+that |s| â‰ ¤|IN JJ NN NN|BODY_20|0
++ 1)k at most|JJ JJ IN JJS|BODY_8|0
+a vertex nt(y ,e|DT NN NN NN|BODY_10|0
+v âˆˆ h }|RB IN NN NN|BODY_4|0
+a fixed constant k|DT JJ JJ NN|BODY_4|0
+the dual hypergraph )|DT JJ NN -RRB-|BODY_7|0
+î± ) âˆˆ pg|NN -RRB- NN NN|BODY_15|0
+figure 3.( b )|NN IN NN -RRB-|BODY_7|0
+the hamiltonian path )|DT JJ NN -RRB-|BODY_15|0
+a smooth weighting function|DT JJ VBG NN|BODY_5|0
+a polynomially-time computable function|DT NN JJ NN|BODY_4|0
+a given constant k|DT VBN JJ NN|BODY_3|0
+an other interesting question|DT JJ JJ NN|BODY_1|0
+the variable v hv|DT JJ NN NN|BODY_7|0
+all the following conditions|DT DT JJ NNS|BODY_9|0
+( 1 ) v4|-LRB- CD -RRB- NN|BODY_5|0
+the function bottomup checks|DT NN NN NNS|BODY_1|0
+hypertree width 1 )|JJ NN CD -RRB-|BODY_8|0
+a vertex ns(x ,e|DT NN NN NN|BODY_5|0
+the best partial packing|DT JJS JJ NN|BODY_4|0
+a tree decomposition [16]|DT NN NN NN|BODY_1|0
+just a different formulation|RB DT JJ NN|BODY_2|0
+all its hypertree decompositions|DT PRP$ NN NNS|BODY_5|0
+all its tree decompositions|DT PRP$ NN NNS|BODY_5|0
+a weighting function w|DT VBG NN NN|BODY_4|0
+figure 3.( c )|NN JJ NN -RRB-|BODY_3|0
+strict hypertree width|JJ NN NN|BODY_2:BODY_3|1
+w( { } )|VBN JJ NN -RRB-|BODY_12|0
+1)-width strict hypertree decomposition2|JJ JJ NN NN|BODY_6|0
+the weight v hv|DT NN NN VBG|BODY_9|0
+the corresponding hamiltonian path|DT JJ JJ NN|BODY_9|0
+the hypertree decomposition|DT NN NN|BODY_5:BODY_1|1
+such an item graph|JJ DT NN NN|BODY_8|0
+an example acyclic hypergraph|DT NN JJ NN|BODY_4|0
+all the possible outcomes|PDT DT JJ NNS|BODY_9|0
+the following theorem shows|DT VBG NN NNS|BODY_1|0
+the most general class|DT JJS JJ NN|BODY_1|0
+some relevant special classes|DT JJ JJ NNS|BODY_1|0
+the class c(hw|DT NN NN|BODY_3|1
+1 ) âš‚ c(hw|CD -RRB- NN NN|BODY_5|0
+each directed edge e|DT VBN NN NN|BODY_1|0
+y ) âˆˆ e.|NN -RRB- NN NN|BODY_23|0
+a special item graph|DT JJ NN NN|BODY_1|0
+the dual hypergraph h|DT JJ NN NN|BODY_1|0
+the packing hâˆ —|DT NN NN NN|BODY_1|0
+instance|NN|BODY_5:BODY_1:BODY_9|2
+4.1 strict hypertree decompositions|CD JJ NN NNS|BODY_1|0
+y âˆˆ n( h)|RB JJ VBP RB|BODY_6|0
+the item graph|DT NN NN|BODY_5:BODY_2|1
+a [v ]-path ï€|DT NN NN NN|BODY_1|0
+condition ( 1 )|NN -LRB- CD -RRB-|BODY_1|0
+a k-width tree decomposition|DT JJ NN NN|BODY_1|0
+exponentially many item graphs|RB JJ NN NNS|BODY_1|0
+159 weighted-set packing problems|CD JJ NN NNS|BODY_1|0
+figure 5.( c )|NN JJ NN -RRB-|BODY_12|0
+an arbitrary item graph|DT JJ NN NN|BODY_1|0
+ï‡|RB|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10|0
+a game theoretic view|DT NN JJ NN|BODY_1|0
+ï‡( ns(x ,e)|NN JJ NN|BODY_11:BODY_4|1
+the path|DT NN|BODY_6:BODY_5|1
+g|NN|BODY_33:BODY_5:BODY_1:BODY_2:BODY_19:BODY_8|0
+some special kinds|DT JJ NNS|BODY_5:BODY_4|1
+âˆ § h|JJR JJ VB|BODY_25|1
+its dual â¯h|PRP$ JJ NN|BODY_6:BODY_14|1
+the proof|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+a solution|DT NN|BODY_12:BODY_3:BODY_10:BODY_8:BODY_9|0
+e( h) }|JJ NN NN|BODY_26|1
+e.g.|FW|BODY_6:BODY_5:BODY_11:BODY_7:BODY_9|0
+ï‡( nt(y ,e)|NN JJ NN|BODY_15:BODY_9|1
+the hypergraph|DT NN|BODY_6:BODY_16:BODY_3|1
+e .g.|NN NNP|BODY_12:BODY_6:BODY_3|1
+nty|NN|BODY_18:BODY_67:BODY_14:BODY_49:BODY_19|0
+all the hyperegdes|PDT DT NNS|BODY_4|1
+each vertex|DT NN|BODY_71:BODY_5:BODY_2:BODY_1:BODY_3|0
+each node x|DT NN NN|BODY_21:BODY_1:BODY_14|1
+the same item|DT JJ NN|BODY_8|1
+a line [10]|DT NN NN|BODY_6|1
+two new bids|CD JJ NNS|BODY_6|1
+the best simplification|DT JJS NN|BODY_2|1
+) ( resp.|-RRB- -LRB- NN|BODY_12|1
+}|NN|BODY_6:BODY_3:BODY_4:BODY_9|0
+our new approach|PRP$ JJ NN|BODY_5|1
+a maxwsp problem|DT NN NN|BODY_12|1
+a selling strategy|DT NN NN|BODY_6|1
+a tree [3]|DT NN NN|BODY_8|1
+a cycle [4]|DT NN NN|BODY_7|1
+the hypergraph h|DT NN VB|BODY_11|1
+k ( short|NN -LRB- JJ|BODY_7|1
+the two hyperedges|DT CD NNS|BODY_3|1
+the weighting functions|DT NN NNS|BODY_1|1
+several application scenarios|JJ NN NNS|BODY_3|1
+winner determination problem|NN NN NN|BODY_2|1
+hypertree decomposition (|JJ NN -LRB-|BODY_4|1
+the robber|DT NN|BODY_6:BODY_1:BODY_4:BODY_7|0
+a tractable class|DT JJ NN|BODY_5|1
+the further requirements|DT JJ NNS|BODY_10|1
+the maximum number|DT JJ NN|BODY_8|1
+the open question|DT JJ NN|BODY_3|1
+those item graphs|DT NN NNS|BODY_5|1
+strictly larger classes|RB JJR NNS|BODY_3|1
+the top-down phase|DT JJ NN|BODY_2:BODY_3|0
+polynomial time algorithms|JJ NN NNS|BODY_1|1
+= âˆ…|SYM NN|BODY_6:BODY_18:BODY_3:BODY_7|0
+a logcfl algorithm|DT NN NN|BODY_12|1
+an important class|DT JJ NN|BODY_1|1
+the maximum weight|DT JJ NN|BODY_15:BODY_3:BODY_4:BODY_8|0
+( c2 )|-LRB- NN -RRB-|BODY_2:BODY_4:BODY_7|0
+end|NN|BODY_86:BODY_12:BODY_11:BODY_63:BODY_67:BODY_64|0
+such that|JJ IN|BODY_6:BODY_18:BODY_4:BODY_8|0
+a clique|DT NN|BODY_56:BODY_34:BODY_27:BODY_65:BODY_20|0
+bx|NN|BODY_12:BODY_6:BODY_36:BODY_22:BODY_13:BODY_23:BODY_37:BODY_10:BODY_7:BODY_29:BODY_9|0
+1|CD|BODY_6:BODY_11:BODY_3:BODY_10:BODY_7|0
+the weight|DT NN|BODY_3:BODY_7:BODY_8|0
+the minimum width|DT JJ NN|BODY_4|0
+all the packings|DT DT NNS|BODY_4:BODY_9|0
+the nodes|DT NNS|BODY_5:BODY_11:BODY_2:BODY_7|0
+p|NN|BODY_5:BODY_28:BODY_15:BODY_21:BODY_14:BODY_20|0
+a packing|DT NN|BODY_6:BODY_2:BODY_4:BODY_9|0
+a hypergraph|DT NN|BODY_2:BODY_3|0
+a hypertree decomposition|DT NN NN|BODY_2:BODY_1|0
+the packing {h2|DT NN NN|BODY_6:BODY_3|0
+a packing h|DT NN NN|BODY_16:BODY_1:BODY_8|0
+a )|DT -RRB-|BODY_2:BODY_3:BODY_7|0
+h i0,b0|NN NN|BODY_22:BODY_2:BODY_19|0
+its great generality|PRP$ JJ NN|BODY_3|0
+these two hyperedges|DT CD NNS|BODY_63:BODY_55|0
+a packing hc|DT NN NN|BODY_5:BODY_2|0
+example maxwsp problem|NN JJ NN|BODY_23:BODY_14|0
+pay( bi )|JJ NN -RRB-|BODY_4:BODY_9|0
+( c3 )|-LRB- NNS -RRB-|BODY_1:BODY_8|0
+such|JJ|BODY_6:BODY_11:BODY_16:BODY_9|0
+ï‡( p )|JJ NN -RRB-|BODY_18:BODY_23|0
+each|DT|BODY_6:BODY_1:BODY_2|0
+w(x ,y )|JJ NN -RRB-|BODY_6:BODY_5|0
+each vertex p|DT NN NN|BODY_12:BODY_11|0
+a weighting function|DT NN NN|BODY_2:BODY_1:BODY_3|0
+the algorithm computesetpackingk|DT NN NN|BODY_6:BODY_4|0
+a vertex|DT NN|BODY_5:BODY_11:BODY_3:BODY_7|0
+h i,b )|NN IN -RRB-|BODY_12:BODY_16|0
+the packing hhv,c|DT NN NN|BODY_4:BODY_9|0
+the connectedness condition|DT NN NN|BODY_11:BODY_2:BODY_10|0
+e-commerce competence center|JJ NN NN|BODY_5|0
+tractable combinatorial auctions|NN JJ NNS|BODY_2:BODY_4|0
+the bottom-up phase|DT JJ NN|BODY_6:BODY_2|0
+( c4 )|-LRB- NNS -RRB-|BODY_6:BODY_1:BODY_9|0
+the set hv|DT NN NN|BODY_2:BODY_4|0
+a research visit|DT NN NN|BODY_2|0
+the class c(ig|DT NN NN|BODY_3:BODY_8|0
+the initialization step|DT NN NN|BODY_2:BODY_4|0
+the set {p|DT NN NN|BODY_34:BODY_4|0
+w(z ,y) )|NN NN -RRB-|BODY_32|0
+the vertices|DT NNS|BODY_6:BODY_3:BODY_4:BODY_9|0
+all the hypergraphs|PDT DT NNS|BODY_4:BODY_8|0
+an actual restriction|DT JJ NN|BODY_5|0
+( 1 )|-LRB- CD -RRB-|BODY_17:BODY_4|0
+the third ingredient|DT JJ NN|BODY_2|0
++ 1)2k )|JJ JJ -RRB-|BODY_4:BODY_8|0
+a set|DT NN|BODY_13:BODY_2:BODY_3:BODY_4|0
+the following conditions|DT JJ NNS|BODY_6:BODY_16|0
+a set dg|DT NN NN|BODY_1:BODY_2|0
+the nodes {bsx|DT NNS NN|BODY_21:BODY_8|0
+a packing hv|DT NN NN|BODY_6|0
+no other node|DT JJ NN|BODY_1|0
+the weight hv|DT NN NN|BODY_2|0
+( |e( h)|-LRB- NN NN|BODY_4:BODY_8|0
+vertices|NNS|BODY_5:BODY_2:BODY_3:BODY_14:BODY_4|0
+the hypertree width|DT NN NN|BODY_4|0
+the different definition|DT JJ NN|BODY_11|0
+the technical role|DT JJ NN|BODY_9|0
+= v2 {h4|SYM NN NNS|BODY_21|0
+1 detailed proofs|CD JJ NNS|BODY_31|0
+{h | x|JJ NN NN|BODY_16|0
+the only kind|DT JJ NN|BODY_2|0
+any item graph|DT NN NN|BODY_12:BODY_1|0
+a rational number|DT JJ NN|BODY_5|0
+the key ingredients|DT JJ NNS|BODY_4|0
+nse3 x }|DT NN NN|BODY_13|0
+w( h2 )|JJ NN -RRB-|BODY_8|0
+) âˆˆ e}|-RRB- VBD NN|BODY_19|0
+the tree t|DT NN NN|BODY_2|0
+each vertex b|DT NN NN|BODY_32:BODY_18|0
+a high-level overview|DT JJ NN|BODY_3|0
+sx ( resp.|JJ -LRB- NN|BODY_12|0
+âˆˆ e( h)|JJ JJ NN|BODY_12:BODY_19:BODY_9|0
+a maximal [v|DT JJ NN|BODY_2|0
+the classes c(ig|DT NNS NN|BODY_2|0
+hyperedges|NNS|BODY_6:BODY_12:BODY_5:BODY_1:BODY_4|0
+the main ingredients|DT JJ NNS|BODY_4|0
+a graph g|DT NN NN|BODY_2:BODY_1|0
+the two nodes|DT CD NNS|BODY_5|0
+hv1 and propagates|NNS CC NNS|BODY_5|0
+the set {h|DT NN NN|BODY_2|0
+the polynomial-time algorithm|DT NN NN|BODY_2|0
+these hyperedges|DT NNS|BODY_31:BODY_17:BODY_15:BODY_26|0
+the above results|DT JJ NNS|BODY_2|0
+the above hyperedges|DT JJ NNS|BODY_3|0
+âˆˆ n( h)|RB JJ NN|BODY_6:BODY_3:BODY_4|0
+âš† n( h)|JJ JJ NN|BODY_2|0
+nice hypertree decompositions|JJ NN NNS|BODY_2|0
+the open problem|DT JJ NN|BODY_4|0
+) âš‡ dg|-RRB- NN NN|BODY_5|0
+x | e|NN FW NN|BODY_11|0
+item( bi)âˆ©item( bj|DT JJ NN|BODY_6|0
+bdx } -notice|JJ NN NN|BODY_30|0
+practically efficient algorithms|RB JJ NNS|BODY_4|0
+( h )|-LRB- NN -RRB-|BODY_5|0
+âˆ ’ w(|IN NNP JJ|BODY_61|0
+( nse x|-LRB- NN NN|BODY_14|0
+â€ ¢ tx|JJ JJ NN|BODY_14|0
+e4 = (y|NN SYM NN|BODY_18|0
+return hâˆ —|NN JJ NN|BODY_85|0
+g( h i,b|JJ NN NN|BODY_4|0
+context free languages|NN JJ NNS|BODY_8|0
+the root v1|DT NN NN|BODY_2|0
+the packing h|DT NN NN|BODY_7|0
+some edge e|DT NN NN|BODY_21:BODY_10|0
+hhv,c := â¯hc|NN IN JJ|BODY_56|0
+every pair 155|DT NN CD|BODY_6|0
+the best packing|DT JJS NN|BODY_5|0
+specialized data structures|JJ NNS NNS|BODY_6|0
+figure 1.( c|NN CD NN|BODY_3|0
+w(z ,y )|NN NN -RRB-|BODY_12|0
+y ( resp.|NN -LRB- NNP|BODY_11|0
+the algorithm equips|DT NN NNS|BODY_2|0
+= v2 {h3|SYM NN NNS|BODY_20|0
+the additional conditions|DT JJ NNS|BODY_3|0
+) âš‡ {btx|-RRB- NN NN|BODY_11|0
+the primary aim|DT JJ NN|BODY_7|0
+pg|NN|BODY_11:BODY_4:BODY_7|0
+the variable hhv,c.|DT JJ NN|BODY_5:BODY_7|0
+) âš‡ {bsx|-RRB- NN NN|BODY_5|0
+each 1 â‰|DT CD CD|BODY_10|0
+nt(y ,e) )|JJ NN -RRB-|BODY_23|0
+( 2 )|-LRB- CD -RRB-|BODY_24|0
+the hypergraph representation|DT NN NN|BODY_2|0
+the original hypergraph|DT JJ NN|BODY_4|0
+v3 {h1 }|NN CD IN|BODY_13|0
+c4 ) âˆ€s|NNS -RRB- NN|BODY_19|0
+their generality )|PRP$ NN -RRB-|BODY_18:BODY_9|0
+( a )|-LRB- DT -RRB-|BODY_4|0
+â€ ¢ sx|JJ JJ NN|BODY_8|0
+each pair h|DT NN NN|BODY_7|0
+some interesting insight|DT JJ NN|BODY_4|0
+tractable packing problems|JJ NN NNS|BODY_3|0
+the connectivity condition|DT NN NN|BODY_6|0
+a sequence x|DT NN NN|BODY_4|0
+b = {b1|NN SYM CD|BODY_9|0
+âˆƒv âˆˆ t|NNP VBD NN|BODY_34|0
+hc|NN|BODY_6:BODY_5:BODY_25:BODY_3|0
+the nodes {nty|DT NNS NN|BODY_66|0
+its current position|PRP$ JJ NN|BODY_6|0
+h i,b w.r.t|NN NN NN|BODY_4|0
+© hv )|JJ NN -RRB-|BODY_8|0
+( 3 )|-LRB- CD -RRB-|BODY_31|0
+d} âˆˆ e|JJ VBD NN|BODY_26|0
+v1 {h5 }|DT CD NN|BODY_2|0
+figure 1.(d )|NN CC -RRB-|BODY_5|0
+three basic observations|CD JJ NNS|BODY_2|0
+t opdown( c|NN NN NN|BODY_9|0
+thy = {nty|JJ SYM NN|BODY_48|0
+w(x ,t )|JJ NN -RRB-|BODY_3|0
+a subset b|DT JJ NN|BODY_4|0
+156 figure 3|CD NN CD|BODY_22|0
+the form w(x,z)|DT NN NN|BODY_9|0
+a rooted tree|DT JJ NN|BODY_7|0
+h = h|NN SYM NN|BODY_9|0
+an edge e|DT NN NN|BODY_7|0
+each edge {b|DT NN NN|BODY_25|0
+a deep understanding|DT JJ NN|BODY_6|0
+nte y }|NN NN NN|BODY_9:BODY_20|0
+the weighting function|DT NN NN|BODY_7|0
+a key issue|DT JJ NN|BODY_2|0
+an interesting characterization|DT JJ NN|BODY_4|0
+the nodes {nsx|DT NNS FW|BODY_57|0
+two item graphs|CD NN NNS|BODY_21|0
+bounded tree width|VBN NN NN|BODY_15|0
+the nodes nsx|DT NNS NN|BODY_16|0
+hypertree width (|JJ NN -LRB-|BODY_6|0
+their hypertree width|PRP$ NN NN|BODY_4|0
+ï‡ and î»|RB CC RB|BODY_8|0
+the nodes bsx|DT NNS NN|BODY_7|0
+the form e|DT NN NN|BODY_26|0
+nt(y ,e )|JJ NN -RRB-|BODY_10|0
+the nodes {btx|DT NNS FW|BODY_35|0
+the nodes {bx|DT NNS FW|BODY_28|0
+the starting point|DT VBG NN|BODY_6|0
+{h5 } conforms|CD NN NNS|BODY_4|0
+h âˆˆ h|NN NN NN|BODY_8|0
+no further vertex|DT JJ NN|BODY_8|0
+a precise relationship|DT JJ NN|BODY_3|0
+) âš‡ dg.|-RRB- NN NN|BODY_20|0
+nte3 t }|DT NN NN|BODY_17|0
+an elaborate reduction|DT JJ NN|BODY_3|0
+such that {h1|PDT DT NNS|BODY_6|0
+each bid bi|DT NN NN|BODY_1|0
+our running example|PRP$ VBG NN|BODY_1|0
+a specific role|DT JJ NN|BODY_3|0
+= v4 {h4|SYM NN NNS|BODY_8|0
+s|VBZ|BODY_11:BODY_2:BODY_10:BODY_7|0
+the terminating point|DT NN NN|BODY_10|0
+a logspace transducer|DT NN NN|BODY_4|0
+several application domains|JJ NN NNS|BODY_4|0
+the quadratic dependency|DT JJ NN|BODY_7|0
+very good news|RB JJ NN|BODY_3|0
+{h5 } }|DT JJ JJ|BODY_7|0
+a node t|DT NN NN|BODY_9|0
+the example construction|DT NN NN|BODY_6|0
+h1 ( resp.|NNS -LRB- NN|BODY_8|0
+the latter result|DT JJ NN|BODY_2|0
+figure 2.(a )|NN CD -RRB-|BODY_7|0
+precisely that e|RB DT NN|BODY_8|0
+exactly two nodes|RB CD NNS|BODY_6|0
+the hypergraph h1|DT NN NN|BODY_3|0
+a [v ]-component|DT NN NN|BODY_1|0
+hd = t|NN SYM NN|BODY_1|0
+hypertree decomposition [7]|NN NN NN|BODY_4|0
+154 figure 2|CD NN CD|BODY_1|0
+www.mat .unical .it/âˆ¼ggreco/papers/ca.pdf|NN JJ NN|BODY_33|0
+h = {h1}|NN SYM NN|BODY_3|0
+one special vertex|CD JJ NN|BODY_16|0
+the graph g|DT NN NN|BODY_4|0
+bt( x )|JJ NN -RRB-|BODY_9|0
+bs( x )|JJ NN -RRB-|BODY_5|0
+their representation )|PRP$ NN -RRB-|BODY_7|0
+the decomposition power|DT NN NN|BODY_6|0
+the hypergraph hg|DT NN NN|BODY_5|0
+a hypergraph (|DT NN -LRB-|BODY_9|0
+main * )|JJ SYM -RRB-|BODY_70|0
+ns(x ,e )|JJ NN -RRB-|BODY_7|0
+the form w(|DT NN NN|BODY_4|0
+all such packings|DT JJ NNS|BODY_16|0
+a labelling function|DT NN NN|BODY_11|0
+a vertex p|DT JJ NN|BODY_11|0
+w(y ,t )|JJ NN -RRB-|BODY_6|0
+other structural restrictions|JJ JJ NNS|BODY_5|0
+very bad news|RB JJ NN|BODY_2|0
+a directed graph|DT VBN NN|BODY_3:BODY_10|0
+the weight function|DT NN NN|BODY_4|0
+td = t|NN SYM NN|BODY_3|0
+a natural generalization|DT JJ NN|BODY_6|0
+the maximum value|DT JJ NN|BODY_12|0
+large tractable classes|JJ JJ NNS|BODY_9|0
+some approximability results|DT NN NNS|BODY_4|0
+some other kinds|DT JJ NNS|BODY_5|0
+each node c|DT NN NN|BODY_8|0
+one such vertex|CD JJ NN|BODY_2|0
+either left uncovered|DT JJ JJ|BODY_8|0
+¤ |n| +|JJ NN NN|BODY_4|0
+ï‡( w )|JJ NN -RRB-|BODY_10|0
+the rational number|DT JJ NN|BODY_9|0
+the following |pg||DT VBG NN|BODY_3|0
+the basic game|DT JJ NN|BODY_2|0
+an arbitrary vertex|DT JJ NN|BODY_4|0
+a set v|DT NN RB|BODY_9|0
+an hamiltonian path|DT JJ NN|BODY_7|0
+an open question|DT JJ NN|BODY_2|0
+i = {i1|NN SYM CD|BODY_4|0
+the packing hr|DT NN NN|BODY_3|0
+a [v ]-path|DT RB NN|BODY_6|0
+that hâˆ —|DT JJ NN|BODY_2|0
+a connected subtree|DT JJ NN|BODY_37|0
+the second phase|DT JJ NN|BODY_1|0
+each vertex w|DT JJ NN|BODY_4|0
+a special kind|DT JJ NN|BODY_6|0
+a vertex v|DT JJ NN|BODY_4|0
+the main result|DT JJ NN|BODY_1|0
+an item tree|DT NN NN|BODY_5|0
+a one-to-one correspondence|DT JJ NN|BODY_5|0
+a hamiltonian path|DT JJ NN|BODY_7|0
+the root r|DT NN NN|BODY_5|0
+a hypergraph hg|DT NN NN|BODY_3|0
+a pair t|DT NN NN|BODY_5|0
+t ) }|NN -RRB- NN|BODY_19|0
+the outcome bâˆ|DT NN NN|BODY_3|0
+all the elements|PDT DT NNS|BODY_4|0
+a pair i|DT NN NN|BODY_2|0
+a tree decomposition|DT NN NN|BODY_4|0
+each children c|DT NNS NN|BODY_7|0
+the function topdown|DT NN NN|BODY_1|0
+a hypertree hd|DT NN NN|BODY_3|0
+a triple t|DT JJ NN|BODY_3|0
+all the leaves|DT DT NNS|BODY_32|0
+the maxwsp problem|DT NN NN|BODY_4|0
+each child c|DT NN NN|BODY_5:BODY_1|0
+only the hyperedges|RB DT NNS|BODY_6|0
+time o(|pg|2 )|NN NNS -RRB-|BODY_10|0
+figure 1.(a )|NN CD -RRB-|BODY_2|0
+the individual items|DT JJ NNS|BODY_9|0
+figure 5.(a )|NN CD -RRB-|BODY_15|0
+the four conditions|DT CD NNS|BODY_6|0
+â¡ theorem 4|NN NN CD|BODY_7|0
+the packing hâˆ|DT NN NN|BODY_1|0
+vâˆˆv i(v )|NN NN -RRB-|BODY_12|0
+an arbitrary set|DT JJ NN|BODY_4|0
+an initialization step|DT NN NN|BODY_1|0
+w i0,b0 )|JJ NN -RRB-|BODY_10|0
+nse x }|NN SYM NN|BODY_52|0
+the hamiltonian path|DT JJ NN|BODY_9|0
+an example construction|DT NN NN|BODY_6|0
+w( hv )|JJ RB -RRB-|BODY_3|0
+ã—(|e( h)|+1)k+1 )|JJ NNS -RRB-|BODY_4|0
+the basic relationship|DT JJ NN|BODY_1|0
+i|NN|BODY_11:BODY_2:BODY_9|0
+the strict hypertree|DT JJ NN|BODY_1|0
+’ v )|JJ NN -RRB-|BODY_6|0
+hv and hc|NN CC VBD|BODY_3|0
+a further avenue|DT JJ NN|BODY_1|0
+vâˆˆn ï‡(v )|NN NN -RRB-|BODY_8|0
+w )|VBD -RRB-|BODY_5:BODY_11:BODY_2:BODY_4:BODY_7|0
+the above result|DT JJ NN|BODY_1|0
+each edge e|DT NN NN|BODY_1|0
+âš† ï‡(v )|JJ NN -RRB-|BODY_8|0
+special hypertree decompositions|JJ NN NNS|BODY_3|0
+very simple scenarios|RB JJ NNS|BODY_7|0
+w = v1|JJ SYM CD|BODY_2|0
+the set dg|DT NN NN|BODY_1|0
+tractable maxwsp instances|NN NN NNS|BODY_7|0
+structured item graph|JJ NN NN|BODY_6|0
+3.1 hypertree decomposition|CD NN NN|BODY_1|0
+h1 âˆˆ hw|JJ JJ RB|BODY_7|0
+the bottom-down computation|DT NN NN|BODY_11|0
+the bottom-down phase|DT JJ NN|BODY_6|0
+a further example|DT JJ NN|BODY_1|0
+the third kind|DT JJ NN|BODY_6|0
+the following theorem|DT VBG NN|BODY_4|0
+a higly-parallelizeable algorithm|DT JJ NN|BODY_6|0
+the following lemma|DT VBG NN|BODY_1|0
+the functional version|DT JJ NN|BODY_1|0
+polynomial time [7]|JJ NN NN|BODY_10|0
+the packing â¯hc|DT NN NN|BODY_1|0
+a crucial problem|DT JJ NN|BODY_1|0
+the general idea|DT JJ NN|BODY_1|0
+vertices( t )|JJ NN -RRB-|BODY_5|0
+o(|t| ) times|NN -RRB- NNS|BODY_8|0
+the first phase|DT JJ NN|BODY_1|0
+the procedure bottomup|DT NN NN|BODY_7|0
+1 ( cf|CD -LRB- NN|BODY_1|0
+p example 3|NN NN CD|BODY_1|0
+2 )|CD -RRB-|BODY_6:BODY_39:BODY_4:BODY_8|0
+each edge|DT NN|BODY_5:BODY_11:BODY_18:BODY_8|0
+( n|-LRB- NN|BODY_5:BODY_11:BODY_2:BODY_7|0
+vertex|NN|BODY_6:BODY_3|0

@@ -1,0 +1,752 @@
+we|PRP|BODY_12:BODY_11:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|9
+that|WDT|BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:ABSTRACT_6:BODY_5:ABSTRACT_4:BODY_1:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_12:BODY_11:BODY_18:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|1
+i|NN|BODY_22:BODY_16:BODY_17:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_29:BODY_7:BODY_8:BODY_20:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|1
+this|DT|BODY_11:BODY_16:BODY_18:BODY_13:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8|1
+truthfulness|NN|BODY_6:BODY_11:ABSTRACT_4:BODY_17:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_9|2
+jobs 6 , 7|NNS CD , CD|BODY_6:BODY_3|0
+a fractional truthful mechanism|DT JJ NN NN|BODY_5:ABSTRACT_3:BODY_4|0
+a fractional assignment x|DT JJ NN NN|BODY_3:BODY_4|0
+no truthful deterministic mechanism|DT JJ JJ NN|BODY_3:BODY_4|0
+lavi and swamy [16]|JJ CC JJ NN|BODY_3|0
+the related machines setting|DT JJ NNS NN|BODY_2|0
+a randomized rounding procedure|DT JJ NN NN|BODY_6:BODY_4|0
+a randomized rounding algorithm|DT JJ NN NN|BODY_2:BODY_4|0
+at least one scenario|IN JJS CD NN|BODY_3|0
+np2,t 2 |t l|RB CD NN NN|BODY_3:BODY_7|0
+other mechanism design settings|JJ NN NN NNS|BODY_4|0
+economics general terms algorithms|NNS JJ NNS NNS|ABSTRACT_6|0
+l < npl,t l|JJ NN NN JJ|BODY_1|0
+our construction and proof|PRP$ NN CC NN|BODY_1|0
+the same processing-time vector|DT JJ NN NN|BODY_2|0
+tâˆ — > tl|JJ NN NN NN|BODY_2|0
+our mechanism design problem|PRP$ NN NN NN|BODY_3|0
+lemmas 4.1 and 4.2|NNS CD CC CD|BODY_2|0
+a tuple ( f|DT NN -LRB- NN|BODY_2|0
+the total load (|DT JJ NN -LRB-|BODY_17|0
+the total utility calculation|DT JJ NN NN|BODY_11|0
+a multidimensional scheduling domain|DT JJ NN NN|ABSTRACT_4:ABSTRACT_2:BODY_4|0
+therefore its approximation ratio|RB PRP$ NN NN|BODY_4|0
+a ( 1 +|DT -LRB- CD NN|BODY_9|0
+its own processing time|PRP$ JJ NN NN|BODY_4:BODY_8|0
+a and set pa|DT CC VBN VB|BODY_5|0
+a 3-approximation deterministic mechanism|DT NN NN NN|BODY_8|0
+an m-approximation positive result|DT NN JJ NN|BODY_2|0
+a and the weight|DT CC DT NN|BODY_9|0
+the total cost )|DT JJ NN -RRB-|BODY_6|0
+vk i âˆˆ vi|JJ NN IN FW|BODY_9|0
+( i , j1|-LRB- FW , CD|BODY_2|0
+) having capacity 1|-RRB- VBG NN CD|BODY_5|0
+a standard basic result|DT NN JJ NN|BODY_13|0
+most opt( p )|JJS JJ NN -RRB-|BODY_11:BODY_10:BODY_8|0
+m â· l +|NN RB JJ NN|BODY_2|0
+= k + 1|SYM NN NNP CD|BODY_12|0
+an arbitrary approximation algorithm|DT JJ NN NN|BODY_2:BODY_3|0
+an augmenting path p|DT JJ NN NN|BODY_2:BODY_8|0
+l)np2,t l i +|JJ JJ NN VBP|BODY_34|0
+an integral max-flow (|DT JJ NN -LRB-|BODY_2|0
+the total welfare (|DT JJ NN -LRB-|BODY_5|0
+the job-dependent two values|DT JJ CD NNS|BODY_4|0
+a rather simple fashion|DT RB JJ NN|BODY_5|0
+¤ î´a ,b âˆ€a|JJ NN NN NN|BODY_8|0
+the classic restricted machines|DT JJ VBN NNS|BODY_2|0
+a satisfies the conditions|DT $ DT NNS|BODY_2|0
+’ np1,t âˆ—( p1|DT NN NN NN|BODY_11|0
+m)-approximation truthful mechanisms [22|NN NN NNS NN|ABSTRACT_6|0
+at most câ·opt( p|IN JJS JJ NN|BODY_5|0
+the optimal makespan (|DT JJ NN -LRB-|BODY_2|0
+a randomized truthful mechanism|DT JJ NN NN|BODY_2|0
+equation ( 10 )|NN -LRB- CD -RRB-|BODY_2|0
+no deterministic truthful mechanism|DT NN NN NN|BODY_2|0
+np, t > np|JJ NN NN NN|BODY_3|0
+only a fractional schedule|RB DT JJ NN|BODY_3|0
+hjâ· xi j m|JJ NN NN NN|BODY_7|0
+the two-values scheduling domain|DT NNS NN NN|BODY_2|0
+social choice theory )|JJ NN NN -RRB-|BODY_5|0
+most opt( p )+max|JJS JJ NN NN|BODY_5|0
+a 3c-approximation truthful-in-expectation mechanism|DT NN NN NN|BODY_5:BODY_4|0
+a â† ’ r,|DT JJ NN NN|BODY_11|0
+the two-value scheduling problem|DT JJ NN NN|BODY_3|0
+ë†t â‰ ¥ m|JJ JJ NN NN|BODY_5|0
+l, and xi j|NN CC NN JJ|BODY_17|0
+a tuple ( x|DT NN -LRB- NNP|BODY_2|0
+the smallest such t|DT JJS JJ NN|BODY_3|0
+l, hj = h)|JJR IN SYM NN|BODY_4|0
+np1,t l i â´|NN JJ NN NN|BODY_15|0
+condition ( 3 )|NN -LRB- CD -RRB-|BODY_3|0
+ij , ( 1|JJ , -LRB- CD|BODY_17|0
+the multidimensional unrelated machines|DT JJ JJ NNS|BODY_2|0
+a much harder problem|DT RB JJR NN|BODY_6|0
+the above algorithm returns|DT JJ NN NNS|BODY_2|0
+k ,p k âˆ’1â‰¤k<k|NN NN NN NN|BODY_4|0
+a false processing time|DT JJ NN NN|BODY_6|0
+at least ( size|IN JJS -LRB- NN|BODY_3|0
+all the low jobs|PDT DT JJ NNS|BODY_3|0
+the unrelated machines problem|DT JJ NNS NN|BODY_6|0
+any c-approximation fractional algorithm|DT NN JJ NN|BODY_4|0
+the true processing times|DT JJ NN NNS|BODY_7|0
+all the other machines|PDT DT JJ NNS|BODY_5|0
+¥ np2,t l âˆ|DT JJ NN NN|BODY_9|0
+the following key inequality|DT VBG JJ NN|BODY_3|0
+the more general context|DT RBR JJ NN|BODY_7|0
+the polynomially many multiples|DT RB JJ NNS|BODY_6|0
+a 3-approximation truthfulin-expectation mechanism|DT NN NN NN|BODY_3|0
+=i p j p2|NNP NN NN NN|BODY_10|0
+the first truthful mechanisms|DT JJ JJ NNS|ABSTRACT_2:BODY_2|0
+â‰ ¤ 1 m|NN NN CD NN|BODY_7|0
+' np1,t âˆ—( p1|POS NN NN NN|BODY_14|0
+[18 , 25] )|CD , CD -RRB-|BODY_7|0
+vk i (xk )|RB JJ NN -RRB-|BODY_2|0
+some 2 < î±|DT CD JJ NN|BODY_3|0
+the only positive results|DT RB JJ NNS|BODY_3|0
+âˆ ’ x j|JJ NN NN NN|BODY_12|0
+nisan and ronen [22]|JJ CC JJ NN|BODY_2|0
+true processing time vector|JJ NN NN NN|BODY_30|0
+the residual graph gp|DT JJ NN NN|BODY_5|0
+n2,1 l ) (|RB JJ -RRB- -LRB-|BODY_28|0
+pij â‰ ¤ c|NN JJ NN NN|BODY_12|0
+at least |s |â·l|IN JJS NNS NN|BODY_6|0
+1 â‰ ¤ k|CD JJ NN NN|BODY_3|0
+the first such algorithm|DT JJ JJ NN|BODY_4|0
+a ( 2 )|DT -LRB- CD -RRB-|BODY_10|0
+the only private parameter|DT JJ JJ NN|BODY_7|0
+pâˆ’i ) +n( h,pâˆ’i)|NN -RRB- NN NN|BODY_11|0
+the same processing time|DT JJ NN NN|BODY_2|0
+a new maximal segment|DT JJ JJ NN|BODY_4|0
+q i =i vi|FW NN FW FW|BODY_5|0
+scenarios 1 , 2|NNS CD , CD|BODY_5|0
+so p j p2|RB JJ NN NNS|BODY_6|0
+the celebrated vcg [26|DT JJ JJ NNS|BODY_2|0
+a directed bipartite graph|DT VBN JJ NN|BODY_4|0
+¤ xkâˆ — ij|NN JJ JJ NN|BODY_8|0
+lj â‰ ¤ hj|JJ JJ NN JJ|BODY_5|0
+a certain algorithmic condition|DT JJ JJ NN|BODY_8|1
+at least her utility|IN JJS PRP$ NN|BODY_6|0
+a {0 , 1}-assignment|DT NN , JJ|BODY_8|0
+’ |s| âˆ ’|DT VBN VB DT|BODY_5|0
+a common ratio r|DT JJ NN NN|BODY_5|0
+nâˆ’np, t )â·h âˆ’mâ·t|JJ NN NN NN|BODY_3|0
+such a general statement|JJ DT JJ NN|BODY_6|0
+an edge ( j|DT NN -LRB- NN|BODY_8|0
+our methods and analyses|PRP$ NNS CC NNS|BODY_1|0
+t1 = tâˆ —|DT SYM JJ NNS|BODY_1|0
+a = f( vi|DT SYM JJ NN|BODY_3|0
+our constructions and proofs|PRP$ NNS CC NNS|BODY_4|0
+1 ) â· h|CD -RRB- IN NN|BODY_6|0
+that n2,1 l >|DT JJ JJ NNS|BODY_5|0
+a directed weighted graph|DT VBN JJ NN|BODY_5|0
+makespan 2l + h|NN JJ NN NN|BODY_2|0
+such an alternative goal|JJ DT JJ NN|BODY_3|0
+l â· l+( nâˆ’|s|)â·h|JJ JJ NN NN|BODY_4|0
+p1 ) > tl|NNS -RRB- NN NN|BODY_3|0
+the classic scheduling model|DT JJ NN NN|BODY_2|0
+randomized algorithms and algorithms|JJ NNS CC NNS|BODY_2|0
+a random assignment x|DT JJ NN NN|BODY_4|0
+the last high job|DT JJ JJ NN|BODY_5|0
+np1,t l > m|JJ JJ NN NN|BODY_4|0
+lj and pk+1 ij|JJ CC JJ NN|BODY_8|0
+the above scheduling domains|DT JJ NN NNS|BODY_4|0
+a significantly better (|DT RB JJR -LRB-|BODY_6|0
+the classical restricted-machines model|DT JJ NNS NN|BODY_12|0
+a recent rounding procedure|DT JJ JJ NN|BODY_3|0
+exactly nopt( p )|RB JJ NN -RRB-|BODY_3|0
+— ( p )|NN -LRB- NN -RRB-|BODY_4|0
+) having capacity t/l|-RRB- VBG NN NN|BODY_7|0
+the declared pis )|DT VBN NN -RRB-|BODY_5|1
+the most balanced ones|DT JJS JJ NNS|BODY_4|0
+the true processing time|DT JJ NN NN|BODY_9|0
+inequality ( 7 )|NN -LRB- CD -RRB-|BODY_6|0
+a well-motivated special case|DT JJ JJ NN|ABSTRACT_2|0
+xf ij > 0|JJ NN NN CD|BODY_1|0
+the corresponding schedule )|DT JJ NN -RRB-|BODY_10|0
+tl and t2 =|NN CC NN SYM|BODY_3|0
+at least 1/m )|IN JJS IN -RRB-|BODY_16|0
+the abstract social choice|DT JJ JJ NN|BODY_2|0
+all edges ( j|DT NNS -LRB- NNS|BODY_3|0
+a schedule and hands|DT NN CC NNS|BODY_7|0
+our specific algorithm )|PRP$ JJ NN -RRB-|BODY_14|0
+5.7 and 5.12 show|CD CC CD NN|BODY_3|0
+m â· t (|NN IN NN -LRB-|BODY_5|0
+certain algorithmic monotonicity conditions|JJ JJ NN NNS|BODY_2|0
+her utility equals zero|PRP$ NN NNS CD|BODY_16|0
+n jobs or tasks|RB NNS CC NNS|BODY_2|0
+every true processing-time vector|DT JJ NN NN|BODY_7|0
+the few known results|DT JJ VBN NNS|ABSTRACT_3|0
+the generalized assignment problem|DT JJ NN NN|BODY_4|0
+at most tl i|IN JJS JJ FW|BODY_11|0
+a given assignment )|DT VBN NN -RRB-|BODY_4|0
+almost all positive results|RB DT JJ NNS|BODY_2|0
+multidimensional vs. single-dimensional domains|JJ CC JJ NNS|BODY_14|0
+the negative of i|DT JJ IN FW|BODY_8|0
+the schedule and payments|DT NN CC NNS|BODY_22|0
+= pi( p2 i|SYM NN NNS NN|BODY_36|0
+threshold t + 1|NN NN NNS CD|BODY_13|0
+a concrete algorithmic problem|DT JJ JJ NN|BODY_4|0
+each such job j|DT JJ NN NN|BODY_6|0
+at most t +h|IN JJS NN NN|BODY_4|0
+any other vector p2|DT JJ NN NNS|BODY_9|0
+every maximum flow x|DT NN NN NN|BODY_5|0
+the mechanism ( f|DT NN -LRB- NN|BODY_4|0
+all the possible assignments|PDT DT JJ NNS|BODY_3|0
+a pseudopolynomial time algorithm|DT JJ NN NN|BODY_4|0
+our two scheduling domains|PRP$ CD NN NNS|BODY_1|0
+inequality ( 1 )|NN -LRB- CD -RRB-|BODY_1|0
+j a low job|RB DT JJ NN|BODY_3|0
+the previous threshold t|DT JJ NN NN|BODY_11|0
+the current lowest load|DT JJ JJS NN|BODY_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+mualem and schapira [20]|NN CC NN NN|BODY_1|0
+definition 2.1 ( truthfulness|NN CD -LRB- NN|BODY_1|0
+a 3-approximation truthful-in-expectation mechanism|DT NN NN NN|BODY_14|0
+proposition 5.1 cycle monotonicity|NN CD NN NN|BODY_1|0
+various follow-up results [2|JJ JJ NNS NNS|BODY_1|0
+the job-dependent two-values case|DT NN NNS NN|BODY_1|0
+the survey [12] )|DT NN NN -RRB-|BODY_8|0
+any such scheduling domain|DT JJ NN NN|BODY_9|0
+the left hand side|DT JJ NN NN|BODY_1|0
+( 3 ) thus|-LRB- CD -RRB- RB|BODY_1|0
+a 2-approximation truthful-in-expectation mechanism|DT JJ NN NN|BODY_9|0
+) opt( p )|-RRB- NN NN -RRB-|BODY_4|0
+a maximal segment k|DT JJ NN NN|BODY_1|0
+the jobdependent two-values case|DT NN NNS NN|BODY_3|0
+( 9 ) combining|-LRB- CD -RRB- VBG|BODY_1|0
+our multidimensional scheduling domains|PRP$ JJ NN NNS|BODY_5|1
+this fractional truthful mechanism|DT JJ NN NN|BODY_1|0
+n2,1 l > 0)|DT JJ NN NN|BODY_10|0
+the following two scenarios|DT VBG CD NNS|BODY_1|0
+a satisfies cycle monotonicity|DT NNS NN NN|BODY_2|0
+a random integral assignment|DT JJ JJ NN|BODY_4|0
+a 3capproximation truthful-in-expectation mechanism|DT NN NN NN|ABSTRACT_4|0
+her true processing-time vector|PRP JJ NN NN|BODY_11|0
+a polynomial time algorithm|DT JJ NN NN|BODY_6|0
+np2,t l âˆ’n2,1 h|RB NN IN NN|BODY_9|0
+their true processing times|PRP$ JJ NN NNS|BODY_13|0
+’ 1 , k|NNP CD , NN|BODY_5|0
+pâˆ’i ) and p|NN -RRB- CC JJ|BODY_6|0
+n2,1 l ( 7|DT NN -LRB- CD|BODY_11|0
+this new instance ëœp|DT JJ NN NN|BODY_1|0
+a 2-approximation truthful mechanism|DT JJ NN NN|BODY_7|0
+our specific scheduling domain|PRP$ JJ VBG NN|BODY_9|0
+the above price-assignment problem|DT JJ NN NN|BODY_2|0
+the two-values scheduling model|DT NNS NN NN|BODY_8|0
+its incurred cost )|PRP$ VBN NN -RRB-|BODY_13|0
+each output assignment )|DT NN NN -RRB-|BODY_11|0
+the actual approximation algorithm|DT JJ NN NN|BODY_3|0
+the following assignment xf|DT JJ NN NN|BODY_5|0
+lemma 5.12 algorithm 2|NN CD NN CD|BODY_1|0
+tâˆ — = tl|DT NN SYM NN|BODY_1|0
+l â· h l|NN NN NN NN|BODY_4|0
+the resulting mechanism truthful|DT JJ NN NN|BODY_10|0
+a simple augmenting path|DT JJ JJ NN|BODY_1|0
+a truthful mechanism|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+cycle monotonicity|NN NN|BODY_6:BODY_5:TITLE_3:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:ABSTRACT_7:BODY_7|2
+the allocation graph|DT NN NN|BODY_6:BODY_12:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|0
+.e|NN|BODY_5:BODY_11:ABSTRACT_5:BODY_26:BODY_2:BODY_14:BODY_3:BODY_10:BODY_7:BODY_8|0
+truthful mechanism design|JJ NN NN|BODY_6:ABSTRACT_6:TITLE_1:BODY_3:BODY_4:BODY_8|0
+a prefix-maximal flow|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+a|DT|BODY_6:BODY_12:BODY_11:BODY_5:BODY_1:BODY_2:BODY_14:BODY_4:BODY_7:BODY_9|0
+opt( p )|JJ NN -RRB-|BODY_6:BODY_5:BODY_13:BODY_2:BODY_4:BODY_7|0
+the total load|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_7:BODY_9|0
+t l i|NN JJ FW|BODY_6:BODY_12:BODY_7:BODY_8:BODY_9|0
+the approximation algorithm|DT NN NN|BODY_2:BODY_4|0
+a special case|DT JJ NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+t|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+any c-approximation algorithm|DT NN NN|BODY_6:ABSTRACT_3:BODY_3|1
+the makespan-minimization problem|DT NN NN|BODY_2:BODY_3|0
+a general technique|DT JJ NN|ABSTRACT_2:BODY_2:BODY_4|1
+( 7 )|-LRB- CD -RRB-|BODY_6:BODY_1:BODY_3:BODY_4|0
+the approximation ratio|DT NN NN|BODY_5:BODY_4:BODY_7:BODY_8|0
+the social designer|DT JJ NN|BODY_1:BODY_2:BODY_4|0
+this lower bound|DT JJR VBN|BODY_6:BODY_2|0
+pij âˆˆ {lj|JJ NN NN|BODY_2:BODY_3|0
+vi âˆˆ vi|FW IN FW|BODY_6:BODY_3:BODY_7|0
+the other machines|DT JJ NNS|BODY_12:BODY_6:BODY_23:BODY_9|0
+p i =i|NN FW FW|BODY_5:BODY_2|0
+a machine i|DT NN NN|BODY_2:BODY_8:BODY_9|0
+an approximation algorithm|DT NN NN|BODY_5:BODY_3|0
+( 10 )|-LRB- CD -RRB-|BODY_11:BODY_2|1
+a convex combination|DT NN NN|BODY_11:BODY_7|0
+a player i|DT NN NN|BODY_2:BODY_1|0
+every job j|DT NN NN|BODY_6:BODY_16:BODY_4|0
+an approximation ratio|DT NN NN|BODY_5:BODY_4:BODY_9|0
+the multidimensional setting|DT JJ NN|BODY_3:ABSTRACT_7|0
+( 3 )|-LRB- CD -RRB-|BODY_2:BODY_7:BODY_8|0
+an optimal schedule|DT JJ NN|BODY_6:BODY_1:BODY_2:BODY_8|0
+the maximum load|DT JJ NN|BODY_16:BODY_3:BODY_9|0
+a feasible assignment|DT JJ NN|BODY_2|0
+n2,1 l â‰|DT JJ DT|BODY_7:BODY_8|0
+the empty set|DT JJ NN|BODY_11:BODY_23:BODY_8|0
+explicit price specifications|JJ NN NNS|BODY_6:BODY_3|0
+a fractional assignment|DT JJ NN|BODY_4:BODY_9|0
+the residual graph|DT JJ NN|BODY_13:BODY_2:BODY_3|0
+the monotonicity condition|DT NN NN|BODY_2:BODY_1:BODY_4|1
+every machine i|DT NN NN|BODY_3:BODY_7|0
+every integer k|DT NN NN|BODY_6:BODY_7|0
+a 2approximation algorithm|DT CD NN|BODY_5:BODY_3|0
+at least second1|IN JJS NNS|BODY_2|0
+a max-flow problem|DT JJ NN|BODY_2:BODY_3|0
+kumar et al|JJ NNP NN|BODY_2:BODY_4|0
+np2,t 2 âˆ|NN CD NN|BODY_5:BODY_2|0
+a cycle-monotone algorithm|DT NN NN|BODY_2:BODY_7|0
+this truncated flow|DT JJ NN|BODY_2:BODY_8|0
+our randomized mechanism|PRP$ JJ NN|BODY_2:BODY_1:BODY_3|0
+p i xij|NN IN FW|BODY_13:BODY_7|0
+the fractional assignment|DT JJ NN|BODY_3:BODY_7|0
+all the jobs|PDT DT NNS|BODY_6:BODY_9|0
+every player i|DT NN NN|BODY_4|0
+the instance ëœp|DT NN NN|BODY_3:BODY_4|0
+a vector x|DT NN NN|BODY_3:BODY_4|0
+a job j|DT NN NN|BODY_2:BODY_1:BODY_8|0
+the total work|DT JJ NN|BODY_5|0
+the optimal schedule|DT JJ NN|BODY_3|0
+all jobs j|DT NNS NNS|BODY_10:BODY_8|0
+a fractional domain|DT JJ NN|BODY_2:BODY_1:BODY_4|0
+( nk+1,k h|-LRB- NN NN|BODY_5|0
+xij > 0|NNP NNP CD|BODY_6:BODY_3|0
+the former objective|DT JJ NN|BODY_3|0
+the assignment x|DT NN NN|BODY_1:BODY_8|0
+a sub-optimal makespan|DT JJ NN|BODY_2|0
+the prices )|DT NNS -RRB-|BODY_5|0
+( and not|-LRB- CC RB|BODY_4|0
+the above inequality|DT JJ NN|BODY_5:BODY_2|0
+our first result|PRP$ JJ NN|BODY_2:BODY_1|0
+the potential benefits|DT JJ NNS|BODY_2|0
+the type h|DT NN NN|BODY_12:BODY_15|0
+gui et al|FW FW NN|BODY_2:BODY_8|0
+np2,t l âˆ|JJ NN NNS|BODY_6:BODY_8|0
+cycle monotonicity lemma|NN NN NN|BODY_2|0
+the above state|DT JJ NN|BODY_2|0
+an optimum schedule|DT JJ NN|BODY_5:BODY_3:BODY_7|0
+i s point|NN VBZ NN|BODY_12|0
+a randomized mechanism|DT JJ NN|BODY_1:BODY_3|0
+the two-values case|DT NNS NN|BODY_1:BODY_3|0
+the other players|DT JJ NNS|BODY_3:BODY_4|0
+any input p|DT NN NN|BODY_4|0
+a low machine|DT JJ NN|BODY_11:BODY_8|0
+â‰ ¥ 1.14|JJ NN CD|BODY_8|0
+( or equivalently|-LRB- CC RB|BODY_6|0
+a valid flow|DT JJ NN|BODY_2|0
+edge ( j|NN -LRB- NN|BODY_11|0
+pi ( p|NN -LRB- NN|BODY_2|0
+social cost )|JJ NN -RRB-|BODY_7|0
+algorithmic mechanism design|JJ NN NN|ABSTRACT_6:BODY_1|0
+the scheduling domain|DT NN NN|BODY_1:BODY_2|0
+the other ,|DT JJ ,|BODY_6|0
+6 , 7|CD , CD|BODY_3|0
+every instance p|DT NN NN|BODY_3:BODY_8|0
++ max{j :xij|JJ JJ NN|BODY_5|0
+the makespan (irrespective|DT NN NN|BODY_7|0
+pij = l|NN SYM NN|BODY_5:BODY_3|0
+some maximal segment|DT JJ NN|BODY_2|0
+the desired properties|DT VBN NNS|BODY_2|0
+the initial schedule|DT JJ NN|BODY_2|0
+the resulting assignment|DT VBG NN|BODY_1|0
+this spreading out|DT VBG RP|BODY_1|0
+at least min|IN JJS NN|BODY_5|0
+each machine i|DT NN NN|BODY_2:BODY_4|0
+the different entities|DT JJ NNS|BODY_4|0
+even the existence|RB DT NN|BODY_4|0
+the social welfare|DT JJ NN|BODY_5|0
+the other hand|DT JJ NN|BODY_1:BODY_19|0
+an edge b|DT NN NN|BODY_10|0
+every p1 i|DT NN NN|BODY_7:BODY_9|0
++ p j|JJ NN RB|BODY_7|0
+pâˆ’i ) â´|NN -RRB- NN|BODY_13:BODY_10|0
+l â· nâˆ’i|JJ VB NN|BODY_5|0
+an assignment/flow x|DT NN NN|BODY_3|0
+a 0.5-approximation mechanism|DT NN NN|BODY_7|0
+1 â‰ ¡|CD NN NN|BODY_6:BODY_14|0
+leverages cycle monotonicity|NNS NN NN|ABSTRACT_6|0
+the current assignment|DT JJ NN|BODY_2|0
+( xi j|-LRB- FW RB|BODY_14|0
+1 = k|CD SYM NN|BODY_3|0
+edges ( i|NNS -LRB- FW|BODY_6|0
+the underlying algorithm|DT VBG NN|BODY_3|0
+the related-machines problem|DT NNS NN|BODY_13|0
+n2,1 h +|NN JJ NN|BODY_3:BODY_7:BODY_9|0
+two specific classes|CD JJ NNS|BODY_7|0
+âˆž} ) setting|NN -RRB- NN|ABSTRACT_7|0
+the social planner|DT JJ NN|BODY_3|0
+the classic goal|DT JJ NN|BODY_2|0
+edge ( i|NN -LRB- FW|BODY_4|0
+a lower bound|DT JJR VBN|BODY_2|0
+a scheduling mechanism|DT NN NN|BODY_2|0
+the informational assumption|DT JJ NN|BODY_2|0
+very little attention|RB JJ NN|BODY_3|0
+leverage monotonicity conditions|NN NN NNS|BODY_3|0
+an arbitrary node|DT JJ NN|BODY_4|0
+at most m|IN JJS NN|BODY_6:BODY_5|0
++ n2,1 l|JJR FW NN|BODY_4|0
+ë› ë›{ j|FW FW FW|BODY_11:BODY_3|0
+deterministic truthful mechanisms.archer|JJ JJ NN|BODY_10|0
+a maximal set|DT JJ NN|BODY_7|0
+)/m + p|NNP FW NN|BODY_15|0
+simple augmenting paths|JJ NN NNS|BODY_14:BODY_4|0
+a prefix-maximal assignment|DT JJ NN|BODY_2|0
+an envy-minimizing allocation|DT JJ NN|BODY_6|0
+any capproximation algorithm|DT NN NN|BODY_3|0
+some such condition|DT JJ NN|BODY_2|0
+’ np1,t l|DT JJ JJ|BODY_8|0
+the first work|DT JJ NN|ABSTRACT_5|0
+) approximation ratio|-RRB- NN NN|BODY_8|0
+â‰ ¤ c|RB JJ NN|BODY_3|0
+np ,opt( p|RB JJ NN|BODY_6|0
+pij âˆˆ {l|JJ NN NN|BODY_7:BODY_9|0
+all these jobs|PDT DT NNS|BODY_3|1
+that np, t|DT JJ NN|BODY_6|0
+< p j|JJ NN NN|BODY_4|0
+consecutive indices k|JJ NNS NN|BODY_8|0
+algorithm 2 yield|NN CD NN|BODY_5|0
+incorporate fairness criteria|JJ NN NNS|BODY_3|0
+c2 i denote|DT NN FW|BODY_2|0
+archer and tardos|NN CC NNS|BODY_1|0
+at least second2|IN JJS NNS|BODY_3|0
+lipton et al|NN NNP NN|BODY_1|0
+the latter objective|DT JJ NN|BODY_3|0
+the second-best schedule|DT JJ NN|BODY_1|0
+the secondbest schedule|DT NN NN|BODY_1|0
+pij = lj|JJ SYM NN|BODY_3|0
+the schedule output|DT NN NN|BODY_17|0
+pijxij =p j|JJ JJ NN|BODY_6|0
+a maximal segment|DT JJ NN|BODY_6|0
+the existence proof|DT NN NN|BODY_4|0
+the shortest path|DT JJS NN|BODY_7|0
+the processing time|DT NN NN|BODY_6:ABSTRACT_4|0
+a simpler condition|DT JJR NN|BODY_8|0
+a greedy manner|DT JJ NN|BODY_5|0
+approximation claim 5.4|NN NN CD|BODY_2|0
+no deterministic mechanism|DT JJ NN|BODY_3|1
+the inequality |s|DT NN NN|BODY_2|0
+various positive results|JJ JJ NNS|BODY_4|1
+a general method|DT JJ NN|BODY_2|0
+some unassigned jobs|DT JJ NNS|BODY_2|0
+such a job|JJ DT NN|BODY_9|0
+problem complexity ]|NN NN NN|ABSTRACT_4|0
+a black-box fashion|DT JJ NN|BODY_6:ABSTRACT_8|0
+a rounding procedure|DT JJ NN|BODY_9|0
+h â· hi|NN NN NNS|BODY_7|0
+a deterministic mechanism|DT JJ NN|BODY_2|0
+a black box|DT JJ NN|BODY_3:BODY_9|0
+nâˆ’i p, t|RB JJ NN|BODY_4|0
+at most 2mn|IN JJS CD|BODY_11|0
+t ) (|TO -RRB- -LRB-|BODY_5|0
+a careful modification|DT JJ NN|BODY_16|0
+a multidimensional problem|DT JJ NN|BODY_6:ABSTRACT_6:BODY_8|0
+np2,t l âˆ’n2,1|NN NN IN|BODY_6|0
+at mostp j|IN JJS NN|BODY_4|0
+all fractional assignments|DT JJ NNS|BODY_5|0
+the last job|DT JJ NN|BODY_2|0
+npk+1,t l âˆ|JJ JJ NN|BODY_9|0
+l â· ni|JJ NN NNS|BODY_5|0
+the fractional schedule|DT JJ NN|BODY_10|0
+the rounding procedure|DT JJ NN|BODY_7|0
+xij + p|FW FW NN|BODY_12|0
+â‰ ¥ p|FW NN NN|BODY_11|0
+any two instances|DT CD NNS|BODY_4|0
+np1,t l â‰|JJ NN NN|BODY_5|0
+l)np1,t l i|JJ JJ NN|BODY_17|0
+the complete assignment|DT JJ NN|BODY_2|0
+every v1 i|DT CD NN|BODY_8|0
+any type pi|DT NN NN|BODY_10|0
+approximation ratio 3|NN NN CD|BODY_4|0
+the lj-hj setting|DT JJ NN|BODY_5:BODY_4|0
+the iterative-augmenting-paths algorithm|DT NNS NN|BODY_3|0
+at most (|IN JJS -LRB-|BODY_3|0
+the speed si|DT NN FW|BODY_6|0
+âˆ ’ pb|NN NN NN|BODY_6|0
+a high machine|DT JJ NN|BODY_5:BODY_3|0
+pi( p )|JJ NN -RRB-|BODY_3|0
+p i ,i|NN IN FW|BODY_8|0
+p j :pij|NN NN IN|BODY_8|0
+1 and p2|CD CC NNS|BODY_4|0
+= { j|SYM CC NN|BODY_6|0
+as high jobs|RB JJ NNS|BODY_10|0
+such a domain|JJ DT NN|ABSTRACT_5|0
+p i :pi|NN NN FW|BODY_6|0
+that cycle monotonicity|DT NN NN|BODY_5|0
+most opt( p|JJS JJ NN|BODY_16|0
+non-trivial performance guarantees|JJ NN NNS|ABSTRACT_3:BODY_3|0
+unknown single-minded players|JJ JJ NNS|BODY_7|0
+the specific importance|DT JJ NN|BODY_2|0
+the core property|DT NN NN|BODY_2|0
+a maximum flow|DT NN NN|BODY_4|0
+the above network|DT JJ NN|BODY_3|0
+vi( a )|JJ DT -RRB-|BODY_12|0
+the allocation rule|DT NN NN|BODY_6|0
+( b )|-LRB- NN -RRB-|BODY_8|0
+the minimum value|DT JJ NN|BODY_4|0
+an arbitrary order|DT JJ NN|BODY_2|0
+such an edge|JJ DT NN|BODY_8|0
+â´ â‰ ¥|JJ NN NN|BODY_6:BODY_7:BODY_8|0
+t âˆ—( p|NN NN NN|BODY_6|0
+p1 i )|NN NN -RRB-|BODY_31|0
+âˆ ’ pk+1|JJ JJ NNS|BODY_6:BODY_5:BODY_7|0
+all reverse edges|PDT JJ NNS|BODY_5|0
+( pij )j|-LRB- NNS NN|BODY_5:BODY_7|0
+a truthful-in-expectation mechanism|DT NN NN|BODY_3|0
+its entire vector|PRP$ JJ NN|BODY_5|0
+the reverse edges|DT JJ NNS|BODY_13|0
+the randomized algorithm|DT JJ NN|BODY_10|0
+1 ) yields|CD -RRB- NNS|BODY_7|0
+our fractional mechanism|PRP$ JJ NN|BODY_3|0
+h} ë› ë›|FW FW FW|BODY_8|0
+=i xi j/m|NNP NN NN|BODY_5|0
+c1 i â‰|DT FW FW|BODY_2|0
+4 ) nk|CD -RRB- NN|BODY_9|0
+the scheduling setting|DT NN NN|BODY_17|0
+certain properties )|JJ NNS -RRB-|BODY_4|0
+a multidimensional domain|DT JJ NN|BODY_2|0
+i , j1|FW , CD|BODY_3|0
+ui = pi|FW SYM NN|BODY_3|0
+j xk+1 ij|RB CD NNS|BODY_3|0
+n2,1 h âˆ|RB NN VB|BODY_27|0
+player i (|NN NN -LRB-|BODY_16|0
+xk ijpk ij|RB JJ NN|BODY_4|0
+the tl -threshold|DT NN NN|BODY_6|0
+every integer t|DT NN NN|BODY_5|0
+a common objective|DT JJ NN|BODY_2|0
+an lp-optimum assignment|DT JJ NN|BODY_5|0
+the l-h case|DT JJ NN|BODY_8|0
+an exponential number|DT JJ NN|BODY_8|0
+the fractional assignments|DT JJ NNS|BODY_9|0
+a and f(vi|DT CC NN|BODY_9|0
+’ xij )/m|JJ FW NN|BODY_12|0
+a selfish entity|DT JJ NN|BODY_2|0
+âˆ ’ p|NN NN NN|BODY_3|0
+ijp1 ij â‰|DT JJ NN|BODY_13|0
+its own utility|PRP$ JJ NN|BODY_9|0
+our scheduling problem|PRP$ NN NN|BODY_3|0
+any fixed number|DT JJ NN|BODY_5|0
+also our proof|RB PRP$ NN|BODY_5|1
+lemma 5.8 (|NN CD -LRB-|BODY_6|0
+a strategic player|DT JJ NN|BODY_5|0
+the optimal makespan|DT JJ NN|BODY_3|0
+all possible types|DT JJ NNS|BODY_3|0
+h âˆ’l)n( h,pâˆ’i)|NN JJ NN|BODY_8|0
+efficiently computable prices|RB JJ NNS|BODY_12|0
+â‰ ¥ np,|JJ JJ NN|BODY_3|0
+the required conditions|DT JJ NNS|BODY_6|0
+their processing times|PRP$ NN NNS|BODY_3|0
+( h âˆ|-LRB- NN NN|BODY_3|0
+the following result|DT VBG NN|BODY_2|0
+the minimum welfare|DT JJ NN|BODY_3|0
+possibly i )|RB NN -RRB-|BODY_4|0
+the term nâ·h|DT NN NN|BODY_7|0
+an augmenting path|DT JJ NN|BODY_4|0
+the main goal|DT JJ NN|BODY_10|0
+the earlier inequality|DT JJR NN|BODY_4|0
+every other declaration|DT JJ NN|BODY_20|0
+any truthful mechanism|DT JJ NN|BODY_1|0
+a deterministic schedule|DT JJ NN|BODY_2|0
+ë†t < m|JJ NN NN|BODY_3|0
+false processing times|JJ NN NNS|BODY_15|0
+the declarations vâˆ’i|DT NNS NN|BODY_2|0
+( xij)i ,j|-LRB- NNP NN|BODY_4|0
+ëœpij âˆˆ {1|NNP NNP NNP|BODY_3|0
+a valid assignment|DT JJ NN|BODY_3|0
+' xij+ p|POS NN NN|BODY_10|0
+combinatorial auctions )|JJ NNS -RRB-|BODY_6|0
+m unrelated machines|NN JJ NNS|ABSTRACT_4|0
+t1 = tl|DT SYM JJ|BODY_2|0
+the new payments|DT JJ NNS|BODY_1|0
+î± = 2.364|JJ SYM CD|BODY_9|0
+that l, h|DT NN NN|BODY_2|0
+kâˆ — â‰|JJ NNS IN|BODY_8|0
+the opposite pattern|DT JJ NN|BODY_8|0
+any p1 i|DT JJ NN|BODY_3|0
+otherwise cycle monotonicity|RB NN NN|BODY_2|0
+an explicit procedure|DT JJ NN|BODY_2|0
+â· l âˆ|IN JJ VB|BODY_9|0
+the output assignment|DT NN NN|BODY_14|0
+such a procedure|JJ DT NN|BODY_1|0
+xk+1 = x1|RP SYM CD|BODY_5|0
+â· â‰ ¥|FW NN FW|BODY_22|0
+some kâˆ —|DT JJ NNS|BODY_2|0
+computational considerations )|JJ NNS -RRB-|BODY_8|0
+mechanism design studies|NN NN NNS|BODY_1|0
+these special settings|DT JJ NNS|BODY_6|0
+that |s ||DT JJ NN|BODY_7|0
+any prefix-maximal flow|DT JJ NN|BODY_6|0
+a decreasing function|DT VBG NN|BODY_4|0
+the mechanism m|DT NN NN|BODY_4|0
+2â·opt( p )|JJ NN -RRB-|BODY_8|0
+the above reduction|DT JJ NN|BODY_2|0
+an implementable algorithm|DT JJ NN|BODY_6|0
+any machine i|DT NN NN|BODY_2|0
+k=1 p j|CD NN NN|BODY_3|0
+any assignment ëœx|DT NN NN|BODY_2|0
+the algorithmic procedure|DT JJ NN|BODY_5|0
+ëœ â‰ ¥|JJ JJ NN|BODY_9|0
+an elementary fact|DT JJ NN|BODY_1|0
+an integral assignment|DT JJ NN|BODY_6|0
+the expected payments|DT VBN NNS|BODY_6|0
+np, t |t|RB NN NN|BODY_8|0
+¥ nopt( p|NN JJ NN|BODY_4|0
+our second result|PRP$ JJ NN|BODY_1|0
+¤ hj )|JJ JJ -RRB-|BODY_10|0
+the price pi|DT NN NN|BODY_3|0
+a source node|DT NN NN|BODY_2|0
+the makespan-minimization objective|DT NN NN|BODY_1|0
+two special cases|CD JJ NNS|BODY_2|0
+another additive factor|DT JJ NN|BODY_4|0
+any integer flow|DT NN NN|BODY_1|0
+a vector specifying|DT NN NN|BODY_3|0
+alternative optimization goals|NN JJ NNS|BODY_1|0
+â‰ ¥ |s|DT JJ NNS|BODY_3|0
+a cost cij|DT NN NN|BODY_7|0
+the value-monotonicity condition|DT NN NN|BODY_2|0
+â‰ ¤ 1/m|RB JJ JJ|BODY_8|0
+the main contributions|DT JJ NNS|BODY_2|0
+j ëœpij ëœxij|NN NN NN|BODY_8|0
+a convenient characterization|DT JJ NN|BODY_9|0
+a path p|DT NN NN|BODY_4|0
+the algorithmic side|DT JJ NN|BODY_11|0
+the unassigned portions|DT JJ NNS|BODY_5|0
+its low jobs|PRP$ JJ NNS|BODY_10|0
+the new assignment|DT JJ NN|BODY_6|0
+no unassigned jobs|DT JJ NNS|BODY_2|0
+( a )|-LRB- DT -RRB-|BODY_3|0
+a fractional relaxation|DT JJ NN|ABSTRACT_4|0
+an algorithm f|DT NN NN|BODY_3|0
+the prefix-maximal flow|DT JJ NN|BODY_1|0
+p j xijpij|NN NN NN|BODY_6|0
+the low jobs|DT JJ NNS|BODY_4|0
+explicit price definitions|JJ NN NNS|ABSTRACT_2|0
+the following definition|DT VBG NN|BODY_2|0
+some type pi|DT NN NN|BODY_9|0
+the total size|DT JJ NN|BODY_12|0
+a non-negative utility|DT JJ NN|BODY_3|0
+the few results|DT JJ NNS|BODY_3|0
+a brief exposition|DT JJ NN|BODY_2|0
+a capproximation algorithm|DT NN NN|BODY_3|0
+its approximation guarantee|PRP$ NN NN|BODY_3|0
+such a max-flow|JJ DT NN|BODY_2|0
+= pi( p1|SYM NN IN|BODY_30|0
+= x(p1 i|SYM CD NN|BODY_27|0
+its remaining fraction|PRP$ VBG NN|BODY_14|0
+a 2-approximation algorithm|DT JJ NN|BODY_3|0
+i = i|FW SYM FW|BODY_14|0
+truthful iff f|JJ NN NN|BODY_6|0
+the forward edges|DT JJ NNS|BODY_7|0
+the cost subject|DT NN NN|BODY_11|0
+their helpful comments|PRP$ JJ NNS|BODY_8|0
+these lower bounds|DT JJR NNS|BODY_1|0
+all forward edges|PDT JJ NNS|BODY_11|0
+the fractional algorithm|DT JJ NN|BODY_3|0
+a c-approximation algorithm|DT NN NN|BODY_2|0
+one additional concept|CD JJ NN|BODY_2|0
+at most tl|IN JJS NN|BODY_3|0
+the private information|DT JJ NN|BODY_1|0
+a fractional mechanism|DT JJ NN|BODY_3|0
+’ l â‰|JJ JJ NN|BODY_3|0
+our greedy rule|PRP$ JJ NN|BODY_3|0
+the negative side|DT JJ NN|BODY_1|0
+shmoys and tardos|NNS CC NNS|BODY_1|0
+hj â‰¡high )|JJ JJ -RRB-|BODY_8|0
+î´a ,b :=|DT JJ NN|BODY_1|0
+corollary 5.9 )|NN CD -RRB-|BODY_9|0
+k = 1|NN SYM CD|BODY_13|0
+our construction uses|PRP$ NN NNS|BODY_1|0
+ni p, t|FW JJ NN|BODY_6|0
+the different machines|DT JJ NNS|BODY_8|0
+various lower bounds|JJ JJR NNS|BODY_3|0
+this simpler condition|DT JJR NN|BODY_1|0
+1 m â´|CD NN NN|BODY_7|0
+nisan and ronen|JJ CC JJ|BODY_1|0
+an integral schedule|DT JJ NN|BODY_3|0
+j +1 )|NN IN -RRB-|BODY_15|0
+the price definition|DT NN NN|BODY_4|0
+player i )|NN FW -RRB-|BODY_11|0
+at least li|IN JJS NNS|BODY_6|0
+the desired inequality|DT VBN NN|BODY_3|0
+x1 , x2|NNP , NN|BODY_1|0
+260 5.4 impossibility|CD CD NN|BODY_1|0
+t as follows|JJ IN VBZ|BODY_3|0
+the last term|DT JJ NN|BODY_1|0
+the optimum makespan|DT JJ NN|BODY_4|1
+the two-value case|DT JJ NN|BODY_12|0
+2. preliminaries 2.1|. NNS CD|BODY_1|0
+nâˆ ’ |s||JJ JJ NN|BODY_9|0
+their assigned jobs|PRP$ JJ NNS|BODY_15|0
+j > m|NN NN NN|BODY_12|0
+definition 3.1 (|NN CD -LRB-|BODY_1|0
+( 8 )|-LRB- CD -RRB-|BODY_1|0
+no negative cycles|DT JJ NNS|BODY_7|0
+no negative-length cycles|DT NN NNS|BODY_5|0
+a certain amount|DT JJ NN|BODY_5|1
+a â† ’|DT JJ NN|BODY_10|0
+the payment pi|DT NN NN|BODY_1|0
+xf ij >|JJ NN NN|BODY_1|0
+( 6 )|-LRB- CD -RRB-|BODY_15|0
+the pij values|DT NN NNS|BODY_4|0
+various 2-approximation algorithms|JJ JJ NNS|BODY_7|0
+our randomized mechanisms|PRP$ JJ NNS|ABSTRACT_1|0
+a core component|DT NN NN|BODY_1|0
+also [11] )|RB JJ -RRB-|BODY_6|1
+the algorithmic problem|DT JJ NN|BODY_1|0
+such an assignment|PDT DT NN|BODY_1|0
+the following lemma|DT VBG NN|BODY_1|0
+related machines )|JJ NNS -RRB-|BODY_8|0
+the strategic players|DT JJ NNS|ABSTRACT_8|0
+â‰ ¥ 1/m|RB JJ JJ|BODY_11|0
+her true value|PRP$ JJ NN|BODY_9|0
+2.2 mechanism design|CD NN NN|BODY_1|0
+a 3-approximation mechanism|DT NN NN|BODY_9|0
+a polynomial-time mechanism|DT NN NN|BODY_1|0
+both these settings|DT DT NNS|BODY_1|0
+corollary 3.4 here|JJ CD RB|BODY_2|0
+our first step|PRP$ JJ NN|BODY_1|0
+t1 > tl|DT JJ NN|BODY_1|0
+the greedy property|DT JJ NN|BODY_1|0
+a randomized algorithm|DT JJ NN|BODY_1|0
+a similar argument|DT JJ NN|BODY_11|0
+the main technique|DT JJ NN|BODY_1|0
+few positive results|JJ JJ NNS|BODY_1|0
+most positive results|RBS JJ NNS|BODY_1|0
+the following flow|DT VBG NN|BODY_1|0
+at most t|IN JJS NN|BODY_11|0
+the sink t|DT NN NN|BODY_7|0
+the true load|DT JJ NN|BODY_1|0
+all the edges|PDT DT NNS|BODY_1|0
+that node i|DT NN NN|BODY_1|0
+the remaining jobs|DT VBG NNS|BODY_1|0
+claim 5.9 )|NN CD -RRB-|BODY_13|0
+( 11 )|-LRB- CD -RRB-|BODY_1|0
+|s | â·|FW FW FW|BODY_2|0
+l} ë› ë›|FW FW FW|BODY_16|0
+at most doubled|IN JJS VBN|BODY_8|0
+a basic question|DT JJ NN|BODY_1|0
+a fractional schedule|DT JJ NN|BODY_5|0
+the general problem|DT JJ NN|BODY_10|0
+the same bounds|DT JJ NNS|BODY_6|0
+the constructed mechanism|DT VBN NN|BODY_8|0
+such a mechanism|PDT DT NN|BODY_1|0
+a threshold t|DT NN NN|BODY_6|0
+exactly one machine|RB CD NN|BODY_6:BODY_8|0
+an approximation guarantee|DT NN NN|BODY_6|0
+such a statement|JJ DT NN|BODY_3|0
+a truthfulin-expectation mechanism|DT NN NN|ABSTRACT_7|0
+another novel idea|DT NN NN|BODY_4|0
+the instance p|DT NN NN|BODY_12|0
+the flow-phase )|DT NN -RRB-|BODY_8|0
+a satisfies cycle-monotonicity|DT NNS NN|BODY_1|0
+pâˆ’i )|RB -RRB-|BODY_12:BODY_6:BODY_11:BODY_5:BODY_34:BODY_28:BODY_2:BODY_3:BODY_37:BODY_8:BODY_9|0
+p|NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+1|LS|BODY_12:BODY_6:BODY_5:BODY_15:BODY_13:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_8|0
+the makespan|DT NN|BODY_5:BODY_13:BODY_2:BODY_4:BODY_10:BODY_19:BODY_7|0
+machine i|NN NN|BODY_11:BODY_2:BODY_24:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+one|CD|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_10:BODY_4|0
+every i|DT NN|BODY_12:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+truthful mechanisms|JJ NNS|BODY_6:ABSTRACT_2:BODY_3:BODY_4:ABSTRACT_7:BODY_7:BODY_8|0
+l +|NN NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+each job|DT NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+the load|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_8:BODY_9|0
+p )|NN -RRB-|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|0
+the algorithm|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+tâˆ —|JJ NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+the jobs|DT NNS|BODY_12:BODY_5:BODY_15:BODY_2:BODY_3:BODY_7:BODY_9|0
+jobs|NNS|BODY_6:BODY_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+pk ij|NN NN|BODY_6:BODY_12:BODY_16:BODY_23:BODY_1:BODY_4:BODY_7:BODY_9|0
+pij|NN|BODY_6:BODY_11:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0

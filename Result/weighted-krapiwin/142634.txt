@@ -1,0 +1,282 @@
+which|WDT|BODY_5:BODY_11:ABSTRACT_6:BODY_17:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|1
+that|WDT|BODY_6:BODY_12:BODY_31:BODY_11:BODY_5:ABSTRACT_4:BODY_18:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|3
+we|PRP|BODY_6:BODY_23:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7|7
+the system|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+graphical interfaces|JJ NNS|TITLE_2:BODY_26|1
+trip3|NNS|ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_9|0
+mapping rules|NN NNS|BODY_6:ABSTRACT_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+application data|NN NNS|BODY_6:BODY_5:ABSTRACT_11:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|1
+the bi-directional translation model|DT JJ NN NN|BODY_5:ABSTRACT_5:BODY_2:BODY_9|2
+the translation|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:ABSTRACT_12|0
+the correspondence|DT NN|ABSTRACT_6:BODY_13:BODY_1:BODY_3:BODY_7:BODY_8|0
+( 2|-LRB- CD|BODY_33:BODY_5:BODY_1:BODY_2:BODY_7:ABSTRACT_9|1
+the programmer|DT NN|BODY_6:ABSTRACT_4:BODY_3:BODY_4:BODY_10:BODY_9|0
+( 1|-LRB- CD|BODY_28:ABSTRACT_4:BODY_4|1
+pbve ) scheme|NN -RRB- NN|BODY_5:ABSTRACT_5:BODY_7|3
+users|NNS|ABSTRACT_3:BODY_4|0
+generalization|NN|BODY_2:ABSTRACT_3:BODY_7|0
+a direct manipulation interface|DT JJ NN NN|ABSTRACT_12|1
+the textual application program|DT JJ NN NN|ABSTRACT_2|0
+its corresponding example visualization|PRP$ JJ NN NN|ABSTRACT_14|0
+the graphical image|DT JJ NN|ABSTRACT_8|0
+the designer|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+it|PRP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+direct manipulation|JJ NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|2
+the mapping rules|DT NN NNS|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|1
+the user|DT NN|BODY_2:BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|0
+example|NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+he|PRP|BODY_6:BODY_11:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8|0
+vsr clauses|JJ NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+there|EX|BODY_6:BODY_18:BODY_15:BODY_1:BODY_3:BODY_4|0
+objects|NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_7:BODY_8:BODY_20|0
+the vsr clauses|DT NN NNS|BODY_6:BODY_5:BODY_1:BODY_3:BODY_7:BODY_9|0
+the application data|DT NN NNS|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_10:BODY_7|1
+its visual representation|PRP$ JJ NN|BODY_6:BODY_5:BODY_16:BODY_10:BODY_4:BODY_9|1
+the picture|DT NN|BODY_5:BODY_11:BODY_3:BODY_7|0
+.e|NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+geometrical relationships|JJ NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|1
+the objects|DT NNS|BODY_6:BODY_13:BODY_2:BODY_3:BODY_4|0
+the rule|DT NN|BODY_6:BODY_2:BODY_4|2
+the object|DT NN|BODY_21:BODY_2:BODY_3:BODY_14|0
+trip2|NN|BODY_1:BODY_3|0
+this example|DT NN|BODY_6:BODY_2:BODY_1:BODY_10|1
+gui|NN|BODY_2:BODY_3:BODY_4|1
+the actual visualization examples|DT JJ NN NNS|BODY_11|1
+an example|DT NN|BODY_12:BODY_2:BODY_3|0
+the spatial parser|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+a tree|DT NN|BODY_5:BODY_13:BODY_3:BODY_19|2
+. % % rule|. NN NN NN|BODY_10:BODY_7|2
+the terminal case|DT NN NN|BODY_6:BODY_11:BODY_5:BODY_2|1
+the example application data|DT NN NN NNS|BODY_5:BODY_3|0
+graphical objects|JJ NNS|BODY_5:BODY_13:BODY_14:BODY_4|0
+the variables|DT NNS|BODY_6:BODY_2:BODY_4:BODY_8|0
+the boss|DT NN|BODY_5:BODY_15:BODY_13:BODY_7|0
+our previous research trip[14]|PRP$ JJ NN NN|BODY_2|1
+the relationship|DT NN|BODY_12:BODY_5:BODY_19:BODY_9|0
+a gui programming environment|DT NN NN NN|BODY_3|1
+a prototype system trip3|DT NN NN NN|BODY_2|1
+the generated mapping rule|DT VBN NN NN|BODY_1|1
+a prototype system trip2[25]|DT NN NN NN|BODY_3|1
+the most important issue|DT RBS JJ NN|BODY_1|1
+the pict editor view|DT NN NN NN|BODY_5:BODY_3:BODY_7|0
+asr data|VBN NNS|BODY_21:BODY_2:BODY_3|2
+one geometrical relationship object|CD JJ NN NN|BODY_2|0
+one|CD|BODY_3:BODY_4|0
+widgets|NNS|BODY_6:BODY_5:BODY_13:BODY_2|0
+the sample asr clauses|DT NN NN NNS|BODY_2:BODY_3|0
+the process|DT NN|BODY_5:BODY_3:BODY_4|0
+variables|NNS|BODY_5:BODY_13:BODY_3:BODY_4|0
+an experienced gui programmer|DT JJ NN NN|BODY_2:BODY_4|0
+clarke|NN|BODY_6:BODY_4:BODY_7:BODY_8|0
+the rule generation phase|DT NN NN NN|BODY_5:BODY_1:BODY_3|0
+a sample picture|DT NN NN|BODY_6:BODY_2:BODY_3|0
+declarative translation rules|JJ NN NNS|BODY_6:BODY_4|1
+programming|NN|BODY_6:BODY_7:BODY_8|0
+the right dotted rectangle|DT JJ JJ NN|BODY_7|0
+x-stable ( or correspondingly|JJ -LRB- CC RB|BODY_7|0
+the asr data|DT NN NNS|BODY_6:BODY_2:BODY_3|0
+one generalized vsr clause|CD JJ IN NN|BODY_9|0
+a tree diagram|DT NN NN|BODY_16:BODY_9|2
+the two recursive occurrences|DT CD JJ NNS|BODY_3|0
+a sample asr clause|DT NN NN NN|BODY_5|0
+an elaborate macro facility|DT JJ JJ NN|BODY_2|0
+a canonical data representation|DT JJ NNS NN|BODY_2:BODY_3|0
+the confirmation panel|DT NN NN|BODY_12:BODY_5:BODY_3|0
+the recursive case|DT JJ NN|BODY_4:BODY_8|1
+the tree diagram|DT NN NN|BODY_2|1
+a faster communication mechanism|DT JJR NN NN|BODY_1|0
+the appropriate visual mapping|DT JJ JJ NN|BODY_4|0
+horizontal and vertical|JJ CC JJ|BODY_6:BODY_4|0
+trip2 our previous works|NN PRP$ JJ NNS|BODY_2|0
+the layout|DT NN|BODY_12:BODY_5:BODY_1:BODY_9|0
+the followings|DT NNS|BODY_6:BODY_3:BODY_8|0
+tween ar and asr|CD NN CC NN|BODY_4|0
+a more complex instance|DT RBR JJ NN|BODY_6|0
+the shaded rectangle )|DT JJ NN -RRB-|BODY_6|0
+'s multiple snapshots scheme[16]|POS JJ NNS NN|BODY_2|0
+the least square method[14]|DT JJS JJ NNS|BODY_8|0
+a certain vertical gap|DT JJ JJ NN|BODY_3|0
+our prototype system trip3|PRP$ NN NN NNS|BODY_11:BODY_1|0
+the most difficult problem|DT RBS JJ NN|BODY_6|0
+the four data representations|DT CD NNS NNS|BODY_2|0
+two objects|CD NNS|BODY_2:BODY_4|0
+an enhanced 7 hypercard|DT JJ CD NN|BODY_5|0
+the inverse mapping rules|DT NN NN NNS|BODY_1:BODY_10|0
+instead topological relationships|RB JJ NNS|BODY_4|1
+visual examples figure 4|JJ NNS NN CD|BODY_3|0
+direct manipulation graphical editors|JJ NN JJ NNS|BODY_4|0
+the resulting constraint system|DT VBG NN NN|BODY_10|0
+the visualized organization diagram|DT JJ NN NN|BODY_5|0
+the tree diagram figure|DT NN NN NN|BODY_2|0
+this (vsr ) level|DT NN -RRB- NN|BODY_3|0
+the rule application phase|DT NN NN NN|BODY_1:BODY_4|0
+pbve|NN|BODY_5:BODY_2:BODY_1|1
+two new asr clauses|CD JJ NN NNS|BODY_5|0
+a constraint-based graphics system|DT JJ NNS NN|BODY_2|0
+prolog and forces enumeration|NN CC NNS NN|BODY_5:BODY_3|0
+problem ( 1 )|NN -LRB- CD -RRB-|BODY_2|0
+the actual visual images|DT JJ JJ NNS|BODY_2|0
+constraints|NNS|BODY_12:BODY_5:BODY_13:BODY_3|0
+visualization|NN|BODY_6:BODY_4:BODY_7|0
+editable ) figure 8|NN -RRB- NN CD|BODY_4|0
+the above-mentioned mapping rule|DT JJ NN NN|BODY_5|0
+the actual asr data|DT JJ NN NNS|BODY_5|0
+a designer|DT NN|BODY_1:BODY_2:BODY_4|0
+the inferred geometrical relationships|DT VBN JJ NNS|BODY_9|0
+a graphical simulation laboratory|DT JJ NN NN|BODY_3|0
+all matching asr clauses|DT VBG NN NNS|BODY_6:BODY_4|0
+the vsr clause adjacent|DT JJ NN JJ|BODY_11|0
+high-level application semantics trip3|JJ NN NNS NNS|BODY_12|0
+the translated vsr data|DT VBN NN NNS|BODY_5|0
+the set 4 note|DT NN CD NN|BODY_3|0
+( 1 ) specification|-LRB- CD -RRB- NN|BODY_7|0
+the automated rule generation|DT VBN NN NN|BODY_5|0
+the constraints object[0].y meaning|DT NNS NN NN|BODY_3|0
+the second list parameter|DT JJ NN NN|BODY_7|0
+objects ( step 1|NNS -LRB- NN CD|BODY_10|0
+a new person george|DT JJ NN NN|BODY_4|0
+the declarative mapping rules|DT NN NN NNS|BODY_2|0
+the inference engine )|DT NN NN -RRB-|BODY_8|0
+clear and concise specification|JJ CC JJ NN|BODY_6|0
+a stable object anobject|DT JJ NN NN|BODY_3|0
+the drawing editor )|DT NN NN -RRB-|BODY_5|0
+a macdraw-like drawing editor|DT JJ NN NN|BODY_4|0
+its visual representation declaratively|PRP$ JJ NN NN|BODY_3|0
+the current prototype system|DT JJ NN NN|BODY_2|0
+its proper visual representation|PRP$ JJ JJ NN|BODY_7|0
+the following a-priori knowledge|DT VBG NN NN|BODY_3|0
+this minor modifi- cation|DT JJ NNS NN|BODY_2|0
+'s intended visualization|POS JJ NN|BODY_9|1
+object layout system )|NN NN NN -RRB-|BODY_3|0
+the two dotted rectangles|DT CD VBN NNS|BODY_1:BODY_14|0
+the high-level semantic information|DT JJ JJ NN|BODY_3|0
+this particular example picture|DT JJ NN NN|BODY_9|0
+the necessary vsr clauses|DT JJ NN NNS|BODY_2|0
+its corresponding organization diagram|PRP$ JJ NN NN|BODY_8|0
+)|-RRB-|BODY_2:BODY_3|0
+a generic macdraw-like editor|DT JJ JJ NN|BODY_9|0
+( 2 ) programmers|-LRB- CD -RRB- NNS|BODY_12|0
+figure example database schema|NN NN NN NN|BODY_1|0
+the sample asr data|DT NN NN NNS|BODY_3|0
+his intended geometrical relationships|PRP$ VBN JJ NNS|BODY_2|0
+the application-dependent abstract data|DT JJ JJ NNS|BODY_4|0
+canonical data representation layers|JJ NNS NN NNS|BODY_1|0
+this organization diagram example|DT NN NN NN|BODY_1|0
+the rule organization rule|DT NN NN NN|BODY_1|0
+both peridot and uofa*|DT NN CC NN|BODY_1|0
+the asr sample editor|DT NN NN NN|BODY_6|0
+the first parameter hogan|DT JJ NN NN|BODY_1|0
+the interactive graph layout|DT JJ NN NN|BODY_1|0
+the graph layout module[13]|DT NN NN NN|BODY_3|0
+its example visual representation|PRP$ NN JJ NN|BODY_6|0
+4.3.2 generating mapping rules|CD VBG NN NNS|BODY_1|0
+line ( 5 )|NN -LRB- CD -RRB-|BODY_1|0
+visual structure representation (vsr|JJ NN NN NN|BODY_1|0
+all the other objects|PDT DT JJ NNS|BODY_5|0
+4.3.1 generating mapping rules|CD VBG NN NNS|BODY_1|0
+20 unit vertical gaps|CD NN JJ NNS|BODY_10|0
+a list variable [v2-v3]|DT NN JJ NNS|BODY_10|0
+our organization diagram example|PRP$ NN NN NN|BODY_1|0
+the organization diagram (|DT NN NN -LRB-|BODY_1|0
+the corresponding er diagram|DT JJ NN NN|BODY_7|0
+the above two issues|DT JJ CD NNS|BODY_4|0
+the prototype system trip3|DT NN NN NN|BODY_5|0
+such floating  objects|JJ JJ JJ NNS|BODY_5|0
+more complex application data|RBR JJ NN NNS|BODY_3|0
+the natural geometrical relationships|DT JJ JJ NNS|BODY_1|0
+the execution order|DT NN NN|BODY_2|0
+high-level application data|JJ NN NNS|BODY_5:BODY_4|1
+the other|DT JJ|BODY_5:BODY_7:BODY_8:BODY_9|0
+a horizontal relationship|DT JJ NN|BODY_6:BODY_2|0
+those|DT|BODY_6:BODY_4|0
+the current implementation|DT JJ NN|BODY_5:BODY_1|0
+clauses|NNS|BODY_12:BODY_3:BODY_4:BODY_7|0
+figure 1|NN CD|BODY_1:BODY_3:BODY_4|0
+gui programming|JJ NN|BODY_3:BODY_8:BODY_9|0
+relationships|NNS|BODY_6:BODY_5:BODY_14:BODY_7|0
+[heinlein,clarke ,herbert] )|JJ NN -RRB-|BODY_6:BODY_2:BODY_4|0
+non-recursive data structure|JJ NNS NN|BODY_5:BODY_2|0
+declarative mapping rules|VB NN NNS|BODY_1:BODY_3|0
+a registered trademark|DT JJ NN|BODY_6:BODY_2|0
+the diagram|DT NN|BODY_16:BODY_3:BODY_4:BODY_8:BODY_9|0
+the mapping rule|DT NN NN|BODY_1:BODY_2|0
+the set|DT NN|BODY_11:BODY_4|0
+all the objects|PDT DT NNS|BODY_4:BODY_8|0
+'s intention|POS NN|BODY_5:BODY_4:BODY_9|0
+3 )|CD -RRB-|BODY_2|0
+all objects|DT NNS|BODY_2:BODY_3:BODY_7|0
+the recursive occurrences|DT JJ NNS|BODY_6:BODY_5|0
+the example picture|DT NN NN|BODY_7:BODY_9|0
+the pbve framework|DT JJ NN|BODY_13:BODY_2|0
+itself|PRP|BODY_5:BODY_4:BODY_10:BODY_7|0
+the cons-cell diagram|DT NN NN|BODY_5:BODY_3|0
+the backtrack mechanism|DT NN NN|BODY_2:BODY_4|0
+the width|DT NN|BODY_12:BODY_17|0
+this paper|DT NN|BODY_2|0
+arbitrary number|JJ NN|BODY_19:BODY_4:BODY_7|0
+an object|DT NN|BODY_5:BODY_17:BODY_4:BODY_10|0
+the menu|DT NN|BODY_4:BODY_9|0
+flat and flavor|JJ CC NN|BODY_10|0
+the list|DT NN|BODY_10:BODY_8|0
+the example pic|DT NN NN|BODY_12|0
+the rules|DT NNS|BODY_22:BODY_7|0
+complex application data|JJ NN NNS|BODY_6:BODY_9|0
+the example|DT NN|BODY_6:BODY_3:BODY_7|0
+the abstraction capability|DT NN NN|BODY_2:BODY_9|0
+a human designer|DT JJ NN|BODY_3:BODY_10|0
+a framework|DT NN|BODY_2|0
+its corresponding asr|PRP$ JJ NN|BODY_4|0
+the list structure|DT NN NN|BODY_3:BODY_4|0
+their sample pictures|PRP$ NN NNS|BODY_7|0
+a single rule|DT JJ NN|BODY_3|0
+figure 3 )|NN CD -RRB-|BODY_11:BODY_15:BODY_9|0
+the organization data|DT NN NNS|BODY_7|0
+recursive data structures|JJ NNS NNS|BODY_5:BODY_8:BODY_9|0
+their inter- communications|PRP$ NNS NNS|BODY_6|0
+an enhanced version|DT JJ NN|BODY_2|0
+merely a pair|RB DT NN|BODY_2|0
+a set|DT NN|BODY_6:BODY_5|0
+asr and vsr|NN CC NN|BODY_1:BODY_3|0
+rule generation|NN NN|BODY_2:BODY_3|0
+its corresponding picture|PRP$ JJ NN|BODY_3:BODY_4|0
+the future work|DT JJ NN|BODY_3|0
+the style|DT NN|BODY_2:BODY_3:BODY_9|0
+[hogan ,heinlein] )|NN NN -RRB-|BODY_11:BODY_3|0
+18] , garnet[21|CD , CD|BODY_4|0
+oak[26] employ constraints|JJ NN NNS|BODY_7|0
+herbert|NN|BODY_5:BODY_8:BODY_9|0
+i .e|FW FW|BODY_6:BODY_3|0
+the sample picture|DT NN NN|BODY_5:BODY_2|0
+a generalization mechanism|DT NN NN|BODY_5|0
+colors and movements|NNS CC NNS|BODY_9|0
+horizontal delete center|JJ JJ NN|BODY_2|0
+the backtrack %|DT NN NN|BODY_12|0
+the message expression|DT NN NN|BODY_15|0
+specific application data|JJ NN NNS|BODY_6|0
+each parameter|DT NN|BODY_3:BODY_7|0
+graphical user interfaces|JJ NN NNS|BODY_6|0
+uims[10 , 11]|CD , CD|BODY_6|0
+an er diagram|DT NN NN|BODY_3|0
+( gui)[ 8]|-LRB- NNS NN|BODY_7|0
+the set xstableobjects|DT NN NNS|BODY_9|0
+[x ,h] )|NN NN -RRB-|BODY_7|0
+tion|NN|BODY_15:BODY_7:BODY_8|0
+a large graph|DT JJ NN|BODY_6|0
+example er diagram|NN NN NN|BODY_3|0
+( i .e|-LRB- NN NN|BODY_2|0
+the inverse rule|DT NN NN|BODY_4|0
+they|PRP|BODY_1:BODY_3:BODY_8|0
+a macdraw-like drawing|DT JJ VBG|BODY_5|0
+the context|DT NN|BODY_3:BODY_8|0
+a result|DT NN|BODY_5:BODY_1|0
+a geometrical relationship|DT JJ NN|BODY_7|0
+both|DT|BODY_2|0
+the geometrical relationship|DT JJ NN|BODY_10|0
+the users|DT NNS|BODY_6:BODY_16|0
+'s data representation|POS NNS NN|BODY_2|0
+pbe ) paradigm|NN -RRB- NN|BODY_6:BODY_10|0
+colored dotted lines|JJ JJ NNS|BODY_6:BODY_8|0
+the geometrical constraints|DT JJ NNS|BODY_2|0
+saburo] ) )|NN -RRB- -RRB-|BODY_11|0
+each new re|DT JJ NN|BODY_5|0
+his intended visualization|PRP$ JJ NN|BODY_2|0

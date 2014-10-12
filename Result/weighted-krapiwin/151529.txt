@@ -1,0 +1,436 @@
+we|PRP|BODY_11:BODY_21:BODY_13:BODY_23:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|13
+discrete random variates|JJ JJ NNS|BODY_5:TITLE_2|0
+time|NN|BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|1
+that|WDT|BODY_12:BODY_6:BODY_11:BODY_5:ABSTRACT_5:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+the long-run expected effort|DT JJ JJ NN|BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_8|1
+a variate|DT JJ|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9:ABSTRACT_10|3
+a random variable x|DT JJ JJ SYM|ABSTRACT_4:BODY_4|0
+o( 1 )|JJ CD -RRB-|BODY_5:ABSTRACT_4:BODY_2|1
+the three algorithms|DT CD NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_10:BODY_4:BODY_7|0
+terms|NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:ABSTRACT_7:BODY_8:BODY_9|1
+1 ) time|CD -RRB- NN|BODY_5:BODY_11:ABSTRACT_4|0
+the most fundamental operations|DT JJS JJ NNS|ABSTRACT_2|0
+the well-known alias algorithm|DT JJ JJ NN|ABSTRACT_1|0
+a more difficult problem|DT RBR JJ NN|ABSTRACT_1|0
+three rejection-based algorithms|CD JJ NNS|ABSTRACT_2|1
+the expected effort|DT VBN NN|ABSTRACT_9|1
+fairly unrestrictive conditions|RB JJ NNS|ABSTRACT_2|1
+the simplest form|DT JJS NN|ABSTRACT_1|0
+it|PRP|BODY_12:BODY_11:BODY_16:BODY_13:BODY_2:BODY_24:BODY_14:BODY_3:BODY_4:BODY_5:BODY_1:BODY_7:BODY_8|1
+s|PRP|BODY_11:BODY_15:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_20|0
+generate2|NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|3
+)|-RRB-|BODY_5:BODY_11:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+which|WDT|BODY_6:BODY_12:BODY_5:BODY_23:BODY_3:BODY_4:BODY_10:BODY_7|0
+the a i (|DT DT NN -LRB-|BODY_2:BODY_3:BODY_10:BODY_8|1
+an important open problem|DT JJ JJ NN|BODY_3|1
+twice as much if|RB RB JJ IN|BODY_6|1
+the uniform upper bound|DT JJ JJ JJ|BODY_11|1
+the third competing scheme|DT JJ VBG NN|BODY_1|1
+the acceptance probability|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|3
+a i|DT NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the long-run acceptance probability|DT JJ NN NN|BODY_11:BODY_5:BODY_15:BODY_2|0
+the underlying markov process|DT JJ NN NN|BODY_13:BODY_2:BODY_7:BODY_8|0
+lim p ( acceptance|JJ NN -LRB- NN|BODY_17:BODY_19:BODY_7:BODY_8|0
+the same discrete values|DT JJ NN NNS|BODY_2|0
+the asymptotic resource bounds|DT JJ NN NNS|BODY_2|0
+the above simulation procedure|DT JJ NN NN|BODY_2|0
+the future event list|DT JJ NN NN|BODY_2|0
+fishman and yarberry [6|NN CC NN NNS|BODY_2|0
+'product-form ' queueing networks|JJ '' NN NNS|BODY_2|0
+o( n ) time|JJ NN -RRB- NN|BODY_2|0
+the pseudo upper bounds|DT NN JJ NNS|BODY_1|0
+o(log j\phij ) operations|JJ NN -RRB- NNS|BODY_4|0
+the total additional cost|DT NN JJ NN|BODY_5|0
+the interval ( 0|DT NN -LRB- CD|BODY_6:BODY_4|0
+their respective upper bounds|PRP$ JJ JJ NNS|BODY_3|0
+more than one bucket|RBR IN CD NN|BODY_6|0
+the total jump rate|DT JJ NN NN|BODY_3|0
+' ( e .g.|POS -LRB- NN NN|BODY_2|0
+the above 'binary-tree algorithm|DT JJ JJ NN|BODY_2|0
+a variate for x|DT JJ IN NN|BODY_4|0
+the next external arrival|DT JJ JJ NN|BODY_6|0
+a geometric random variable|DT JJ JJ JJ|BODY_10|0
+theorem 2.4 let h|DT CD VB NN|BODY_6|0
+the modeling and analysis|DT JJ CC NN|BODY_2|0
+one or more buckets|CD CC JJR NNS|BODY_3|0
+the following two theorems|DT VBG CD NNS|BODY_3|0
+o( 1 ) complexity|RB CD -RRB- NN|BODY_4|0
+the first competing scheme|DT JJ JJ NN|BODY_5|0
+the steady state rates|DT JJ NN NNS|BODY_6|0
+these last two expressions|DT JJ CD NNS|BODY_6|0
+the queueing- network models|DT NNP NN NNS|BODY_5|0
+pass and acceptance probability|NN CC NN NN|BODY_6|0
+!( g( :) )|JJ JJ NN -RRB-|BODY_4|0
+the the next queue|DT DT JJ NN|BODY_9|0
+the associated markov process|DT JJ NN NN|BODY_3|0
+the next inter-event time|DT JJ JJ NN|BODY_7|0
+routing probabilities r c|JJ NNS NN NN|BODY_7|0
+modified definitions and assumptions|JJ NNS CC NNS|BODY_7|0
+a constant time algorithm|DT JJ NN NN|BODY_2|0
+accept and output i|VB CC NN NNS|BODY_3|0
+o(log n ) operations|NN NN -RRB- NNS|BODY_7|0
+a a the problem|DT DT DT NN|BODY_6|0
+a few more operations|DT JJ JJR NNS|BODY_4|0
+a random variable y|DT JJ JJ NN|BODY_10|0
+the dynamic rate vector|DT JJ NN NN|BODY_5:BODY_13|0
+n and w i|NN CC NN IN|BODY_6|0
+o(log n ) time|NN NN -RRB- NN|BODY_5|0
+the above two expressions|DT JJ CD NNS|BODY_4|0
+a high implicit constant|DT JJ JJ NN|BODY_6|0
+a long-run expected effort|DT JJ JJ NN|BODY_5|0
+the o( ) function|DT NN -RRB- NN|BODY_1|0
+the ith leaf node|DT JJS NN NN|BODY_2|0
+discrete random variate generation|JJ JJ JJ NN|BODY_3|0
+an arbitrary time instant|DT JJ NN NN|BODY_3|0
+time lim 4 application|NN JJ CD NN|BODY_18|0
+space etc. ) bounds|NN NN -RRB- NNS|BODY_7|0
+the uniform random variable|DT JJ JJ JJ|BODY_5|0
+m 3 random rates|NN CD JJ NNS|BODY_5|0
+good pseudo upper bounds|JJ NN JJ NNS|BODY_6|0
+5.1 multiserver queueing networks|CD JJ NN NNS|BODY_1|0
+the following sampling process|DT VBG JJ NN|BODY_3|0
+particular , unsatisfactory performance|JJ , JJ NN|BODY_1|0
+the binary-tree method (|DT JJ NN -LRB-|BODY_10|0
+the first competing method|DT JJ JJ NN|BODY_1|0
+the above three algorithms|DT JJ CD NNS|BODY_10:BODY_7|0
+1 preprocessing step 1|CD JJ NN CD|BODY_6|0
+steady state  )|JJ NN NN -RRB-|BODY_3|0
+an a 0 i|DT DT CD FW|BODY_2|0
+theorems 2.1 , 2.2|DT CD , CD|BODY_2|0
+an implicit constant factor|DT JJ JJ NN|BODY_4|0
+greater than one half|JJR IN CD NN|BODY_11|0
+the well-known 'alias algorithm|DT JJ JJ NN|BODY_1|0
+the second competing method|DT NN VBG NN|BODY_1|0
+the fourth competing scheme|DT JJ VBG NN|BODY_1|0
+a discrete event system|DT JJ NN NN|BODY_4|0
+size l and n|NN NN CC NN|BODY_4|0
+a single flip )|DT JJ JJ -RRB-|BODY_10|0
+transit(tailored ) and generate3|JJ -RRB- CC NN|BODY_3|0
+a higher acceptance probability|DT JJR NN NN|BODY_7|0
+such a data structure|JJ DT NN NN|BODY_1|0
+the next service completion|DT JJ NN NN|BODY_7|0
+moderate to heavy traffic|JJ TO JJ NN|BODY_6|0
+a i ] )|DT NN NN -RRB-|BODY_7|0
+the assumed traffic conditions|DT VBN NN NNS|BODY_1|0
+all the three algorithms|PDT DT CD NNS|BODY_1|0
+greater than 100 )|JJR IN CD -RRB-|BODY_3|0
+a dynamic rate vector|DT JJ NN NN|BODY_11|0
+the maximum service rate|DT JJ NN NN|BODY_1|0
+the servers and customers|DT NNS CC NNS|BODY_3|0
+the long-run standard deviation|DT JJ JJ NN|BODY_12|0
+a fixed positive number|DT VBN JJ NN|BODY_1|0
+1 ) =[ y|CD -RRB- NN NN|BODY_3|0
+some other queueing networks|DT JJ NN NNS|BODY_3|0
+a uniform variate u|DT JJ JJ NN|BODY_1|0
+algorithm generate1 step 1|NN JJ NN CD|BODY_1|0
+algorithm generate2 step 1|NN JJ NN CD|BODY_1|0
+algorithm generate3 step 1|NN JJ NN CD|BODY_1|0
+the number|DT NN|BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+queue i|VB NN|BODY_6:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+the binary tree|DT JJ NN|BODY_6:BODY_3:BODY_4:BODY_8|1
+there|EX|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the algorithm transit|DT NN NN|BODY_2:BODY_8|2
+the expected number|DT VBN NN|BODY_6:BODY_2|1
+a performance measure|DT NN NN|BODY_2|1
+generate3|NNS|BODY_12:BODY_6:BODY_11:BODY_1:BODY_3:BODY_14:BODY_10:BODY_4:BODY_8:BODY_9|1
+greater than 1=2|JJR IN CD|BODY_12:BODY_8|1
+the event list|DT NN NN|BODY_6|1
+the event-list approach|DT JJ NN|BODY_5|1
+three simple algorithms|CD JJ NNS|BODY_4|1
+the left side|DT JJ NN|BODY_7|1
+the following conclusions|DT JJ NNS|BODY_12|1
+the algorithm|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_7|1
+generate1|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_19:BODY_4|1
+transit(tailored )|JJ -RRB-|BODY_1:BODY_2:BODY_3:BODY_4|1
+the case|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8|0
+the alias algorithm|DT JJ NN|BODY_1:BODY_2:BODY_3:BODY_10|0
+generate2 and generate3|NNS CC NNS|BODY_5:BODY_2:BODY_3:BODY_4|0
+the acceptance probabilities|DT NN NNS|BODY_6:BODY_2:BODY_1:BODY_9|0
+u|PRP|BODY_2:BODY_1:BODY_4:BODY_7|1
+a major fraction|DT JJ NN|BODY_1:BODY_3:BODY_7|0
+1|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the memory requirements|DT NN NNS|BODY_1:BODY_3:BODY_4|0
+[2 ] pp|DT NN RP|BODY_3:BODY_4|0
+a 0 (|DT CD -LRB-|BODY_18:BODY_2:BODY_4|0
+the rejection algorithm|DT NN NN|BODY_1:BODY_2:BODY_3|0
+the defining parameters|DT NN NNS|BODY_3:BODY_10:BODY_9|0
+\phi and ffi|NNP CC JJ|BODY_2:BODY_8|0
+the algorithm generate2|DT NN NN|BODY_17:BODY_2:BODY_8|0
+log 2 n|NN CD NN|BODY_5:BODY_4|0
+a nonnegative solution|DT JJ NN|BODY_5:BODY_3|0
+the service rate|DT NN NN|BODY_11:BODY_4|0
+the markov process|DT NN NN|BODY_1:BODY_4|0
+the a i|DT DT NN|BODY_5:BODY_4|0
+generate1 one bucket|JJ CD NN|BODY_2|0
+geometric random variables|JJ JJ NNS|BODY_2|0
+our last algorithm|PRP$ JJ NN|BODY_2|0
+p ( acceptance|NN -LRB- NN|BODY_12:BODY_6:BODY_5:BODY_3:BODY_7:BODY_9|0
+the total number|DT JJ NN|BODY_3:BODY_7|0
+the two algorithms|DT CD NNS|BODY_2:BODY_3:BODY_4|0
+o( n )|JJ NN -RRB-|BODY_11:BODY_3:BODY_4|0
+an equivalent version|DT JJ NN|BODY_1:BODY_3|0
+the algorithm generate1|DT NN NN|BODY_1:BODY_3:BODY_7|0
+( 9 )|-LRB- CD -RRB-|BODY_3|0
+the run times|DT NN NNS|BODY_1:BODY_7|0
+the general version|DT JJ NN|BODY_2|0
+the above chart|DT JJ NN|BODY_3:BODY_10|0
+multi-dimensional markov processes|JJ NN NNS|BODY_3|0
+the following scheme|DT VBG NN|BODY_14|0
+professor kurt mehlhorn|NN NN NN|BODY_4|0
+the two sons|DT CD NNS|BODY_5|0
+n leaf nodes|NN NN NNS|BODY_4|0
+the arrays c|DT NNS NN|BODY_5|0
+a multiclass network|DT JJ NN|BODY_2|0
+( 7 )|-LRB- CD -RRB-|BODY_4:BODY_9|0
+an array b|DT NN NN|BODY_5:BODY_3|0
+the counter ffi|DT NN NN|BODY_5|0
+the upper bound|DT JJ JJ|BODY_3:BODY_4|0
+the above conditions|DT JJ NNS|BODY_13|0
+the data structure|DT NNS NN|BODY_2:BODY_1|0
+the jackson network|DT NN NN|BODY_12:BODY_1:BODY_7|0
+the same distribution|DT JJ NN|BODY_6:BODY_4:BODY_7|0
+a single server|DT JJ NN|BODY_3|0
+a positive step|DT JJ NN|BODY_2|0
+the elapsed time|DT JJ NN|BODY_1:BODY_4|0
+compute l i|JJ JJ IN|BODY_2|0
+j\phij and ffi|NN CC NN|BODY_2|0
+the event type|DT NN NN|BODY_3|0
+the form fi|DT NN NN|BODY_5:BODY_4|0
+the expected rates|DT VBN NNS|BODY_2|0
+a single 'bucket|DT JJ NN|BODY_16|0
+the l buckets|DT JJ NNS|BODY_2|0
+pseudo upper bounds|NN JJ NNS|BODY_2|0
+the four events|DT CD NNS|BODY_3|0
+zero or more|CD CC JJR|BODY_2|0
+an a i|DT DT FW|BODY_1|0
+rate -, arrivals|NN JJ NNS|BODY_8|0
+the long-run performance|DT JJ NN|BODY_6:BODY_9|0
+bucket j (|NN NN -LRB-|BODY_5|0
+a large n|DT JJ RB|BODY_10|0
+fi 0 transit|JJ CD NN|BODY_5|0
+the initial contents|DT JJ NNS|BODY_2|0
+the nth network|DT JJ NN|BODY_3|0
+the efficient simulation|DT JJ NN|BODY_6|0
+these traffic conditions|DT NN NNS|BODY_9|0
+any other node|DT JJ NN|BODY_2|0
+professor bennet fox|NN NN NN|BODY_3|0
+the remaining queues|DT VBG NNS|BODY_7|0
+the service completions|DT NN NNS|BODY_8|0
+the outcome i|DT NN NN|BODY_4|0
+2.2 algorithm generate2|CD NN NNS|BODY_1|0
+a different context|DT JJ NN|BODY_3|0
+a similar algorithm|DT JJ NN|BODY_1|0
+each outcome i|DT NN NN|BODY_3|0
+fairly unrestrictive assumptions|RB JJ NNS|BODY_1|0
+the random variables|DT JJ NNS|BODY_1|0
+this data structure|DT NN NN|BODY_1|0
+this standard approach|DT JJ NN|BODY_3|0
+the following assumptions|DT JJ NNS|BODY_2|0
+e o( )|NN NN -RRB-|BODY_4|0
+the service rates|DT NN NNS|BODY_9|0
+the rates|DT NNS|BODY_6:BODY_5:BODY_3:BODY_7:BODY_8|0
+a low b[|DT JJ NN|BODY_5|0
+all the entries|PDT DT NNS|BODY_2|0
+the outside arrive|DT JJ VBP|BODY_9|0
+future event schedule|JJ NN NN|BODY_5|0
+the various servers|DT JJ NNS|BODY_4|0
+this paper attempt|DT NN NN|BODY_2|0
+a variate j|DT JJ NN|BODY_2|0
+exogenous arrival rate|JJ NN NN|BODY_5|0
+the inter-event time|DT JJ NN|BODY_5|0
+the mth time|DT NN NN|BODY_6|0
+a run time|DT VBN NN|BODY_2|0
+a binary tree|DT JJ NN|BODY_2|0
+the ith rate|DT JJS NN|BODY_5|0
+upper bounds changes|JJ NNS NNS|BODY_10|0
+the following bounds|DT VBG NNS|BODY_2:BODY_3|0
+professor george fishman|NN NN NN|BODY_2|0
+n 0 such|RB CD JJ|BODY_8|0
+a value z|DT NN FW|BODY_5|0
+( i .e|-LRB- FW FW|BODY_2|0
+occasional global updates|JJ JJ NNS|BODY_3|0
+the appropriate choice|DT JJ NN|BODY_9|0
+a poisson process|DT NN NN|BODY_3|0
+the following properties|DT VBG NNS|BODY_10|0
+typically the case|RB DT NN|BODY_5|0
+theorem 3.3 completes|NN CD NNS|BODY_9|0
+d and y|NN CC NN|BODY_4|0
+the following circumstances|DT JJ NNS|BODY_3|0
+the array b|DT NN NN|BODY_3|0
+a service completion|DT NN NN|BODY_9|0
+each queue i|DT NN VBP|BODY_6|0
+the maximum number|DT JJ NN|BODY_3|0
+the above method|DT JJ NN|BODY_3|0
+only every 20|RB DT CD|BODY_3|0
+all the customers|PDT DT NNS|BODY_9|0
+the steady-state behavior|DT NN NN|BODY_12|0
+each class c|DT NN NN|BODY_4|0
+the current context|DT JJ NN|BODY_4|0
+each nonempty queue|DT JJ NN|BODY_5|0
+the next arrival|DT JJ NN|BODY_4|0
+the right side|DT JJ NN|BODY_3|0
+the current tools|DT JJ NNS|BODY_5|0
+the underlying process|DT JJ NN|BODY_12|0
+approximate these quantities|JJ DT NNS|BODY_3|0
+a i =-a|DT FW NN|BODY_5|0
+all traffic conditions|DT NN NNS|BODY_4|0
+the 'traffic equa|DT JJ NN|BODY_4|0
+a uniform variable|DT JJ JJ|BODY_3|0
+the following table|DT VBG NN|BODY_2|0
+a majorizing n-vector|DT JJ NN|BODY_4|0
+the maximum rates|DT NN NNS|BODY_3|0
+the left child|DT JJ NN|BODY_4:BODY_7|0
+the following analog|DT VBG NN|BODY_4|0
+the parameter m|DT NN NN|BODY_5|0
+the following operations|DT VBG NNS|BODY_4|0
+the average complexity|DT JJ NN|BODY_9|0
+the next event-type|DT JJ NN|BODY_8|0
+the implicit constant|DT JJ NN|BODY_4|0
+a variate i|DT JJ NN|BODY_2|0
+the operation count|DT NN NN|BODY_2|0
+the b array|DT NN NN|BODY_6|0
+probability r 0i|NN NN NNP|BODY_6|0
+this specific example|DT JJ NN|BODY_4|0
+yet another algorithm|RB DT NN|BODY_3|0
+this typical situations|DT JJ NNS|BODY_10|0
+the first time|DT JJ NN|BODY_8|0
+another partitioning scheme|DT NN NN|BODY_2|0
+the p i|DT NN NN|BODY_6|0
+approximately m times|RB JJ NNS|BODY_2|0
+a fraction )|DT NN -RRB-|BODY_8|0
+their valuable comments|PRP$ JJ NNS|BODY_6|0
+our first algorithm|PRP$ JJ NN|BODY_3|0
+product form instances|NN NN NNS|BODY_4|0
+the following theorems|DT VBG NNS|BODY_7|0
+a brief comparison|DT JJ NN|BODY_6|0
+n non-negative numbers|NN JJ NNS|BODY_2|0
+independent random variables|JJ JJ NNS|BODY_5|0
+on well as|RB RB IN|BODY_5|0
+1 ) generate2|CD -RRB- NN|BODY_6|0
+( 8 )|-LRB- CD -RRB-|BODY_2|0
+a data structure|DT NN NN|BODY_3|0
+a simple exercise|DT JJ NN|BODY_2|0
+essentially any network|RB DT NN|BODY_5|0
+the total rate|DT JJ NN|BODY_12:BODY_1|0
+a i ]|DT VBP NN|BODY_5|0
+a smaller value|DT JJR NN|BODY_9|0
+a discrete version|DT JJ NN|BODY_11:BODY_3|0
+the population size|DT NN NN|BODY_9|0
+a finite -a|DT JJ NN|BODY_3|0
+the bottom level|DT NN NN|BODY_5|0
+6.2 method ii|CD NN NNS|BODY_1|0
+the jth server|DT NN NN|BODY_5|0
+the sth jump|DT NN NN|BODY_5|0
+this queueing network|DT NN NN|BODY_2|0
+uniform variate generation|JJ JJ NN|BODY_9|0
+6.1 method i|CD NN NN|BODY_1|0
+however its implementation|RB PRP$ NN|BODY_5|0
+the central component|DT JJ NN|BODY_1|0
+class c customers|NN NN NNS|BODY_5|0
+practical interest )|JJ NN -RRB-|BODY_10|0
+a global update|DT JJ NN|BODY_2:BODY_8|0
+a uniform number|DT JJ NN|BODY_4|0
+lim n-a y|JJ NN NN|BODY_21|0
+6.3 method iii|CD NN NN|BODY_1|0
+any given time|DT VBN NN|BODY_2|0
+two additional algorithms|CD JJ NNS|BODY_2|0
+the corresponding expression|DT JJ NN|BODY_14|0
+significantly more time|RB JJR NN|BODY_3|0
+a function f(|DT NN NN|BODY_2|0
+a 1 (|DT CD -LRB-|BODY_7|0
+l i l|JJ FW JJ|BODY_9|0
+times step 1|NNS NN CD|BODY_9|0
+the random variable|DT JJ JJ|BODY_15|0
+( 10 )|-LRB- CD -RRB-|BODY_2|0
+a d proof|DT JJ NN|BODY_5|0
+the event acceptance|DT NN NN|BODY_5|0
+a theorem 4.1|DT NN CD|BODY_4|0
+a i d|DT NN VBN|BODY_6|0
+our three algorithms|PRP$ CD NNS|BODY_2|0
+at most two|IN JJS CD|BODY_2|0
+the same algorithm|DT JJ NN|BODY_1|0
+one less operation|CD JJR NN|BODY_2|0
+slightly better performance|RB JJR NN|BODY_2|0
+long-run expected effort|JJ JJ NN|BODY_6:BODY_16|0
+random (uniformly )|JJ NN -RRB-|BODY_3|0
+6 improving performance|CD VBG NN|BODY_1|0
+such a procedure|PDT DT NN|BODY_1|0
+large-scale telephone networks|JJ NN NNS|BODY_7|0
+this multiclass network|DT JJ NN|BODY_11|0
+the prefix sums|DT JJ NNS|BODY_1|0
+uniform random variates|JJ JJ NNS|BODY_3|0
+a major theme|DT JJ NN|BODY_1|0
+a similar reinitialization|DT JJ NN|BODY_1|0
+the arrival process|DT NN NN|BODY_21|0
+their upper bounds|PRP$ JJ NNS|BODY_7|0
+the dynamic version|DT JJ NN|BODY_1|0
+this special structure|DT JJ NN|BODY_4|0
+high service rates|JJ NN NNS|BODY_8|0
+the generate algorithms|DT VBP NNS|BODY_8|0
+generate1 and generate2|NN CC NN|BODY_5|0
+this special property|DT JJ NN|BODY_3|0
+a 0 i|DT CD VBZ|BODY_4|0
+the service discipline|DT NN NN|BODY_1|0
+the static version|DT JJ NN|BODY_1|0
+the outside )|DT NN -RRB-|BODY_10|0
+2 corollary 2.2|CD NN CD|BODY_1|0
+a new iteration|DT JJ NN|BODY_1|0
+a priority queue|DT NN NN|BODY_10|0
+the queue )|DT JJ -RRB-|BODY_11|0
+the simplest version|DT JJS NN|BODY_1|0
+any fixed 0|DT VBN CD|BODY_4|0
+given a(s )|VBN NNS -RRB-|BODY_3|0
+n random outcomes|RB JJ NNS|BODY_6|0
+the desired result|DT VBN NN|BODY_25|0
+the majorizing n-vector|DT JJ NN|BODY_5|0
+the variables x(s|DT NNS NNS|BODY_5|0
+the individual servers|DT JJ NNS|BODY_8|0
+the tailored algorithms|DT JJ NNS|BODY_7|0
+the reference vector|DT NN NN|BODY_5|0
+any outcome i|DT NN NN|BODY_4|0
+this non-product-form network|DT JJ NN|BODY_11|0
+the inhomogeneous case|DT JJ NN|BODY_1|0
+the following result|DT VBG NN|BODY_3|0
+any fixed ff|DT VBN NN|BODY_2|0
+. 157-158 )|. CD -RRB-|BODY_4|0
+a changing distribution|DT VBG NN|BODY_5|0
+a non-product-form network|DT JJ NN|BODY_2|0
+a majorizing vector|DT JJ NN|BODY_5|0
+a non-uniform n-vector|DT JJ NN|BODY_5|0
+several competing schemes|JJ VBG NNS|BODY_4|0
+) and generate3|-RRB- CC NN|BODY_3|0
+o( mn )|JJ NN -RRB-|BODY_2|0
+a i n|DT FW NN|BODY_6|0
+a finite b|DT NN NN|BODY_2|0
+n single-server queues|RB JJ NNS|BODY_2|0
+the traffic conditions|DT NN NNS|BODY_7|0
+( a1 )|-LRB- NNS -RRB-|BODY_1|0
+the current rates|DT JJ NNS|BODY_1|0
+probability fixed proof|NN VBN NN|BODY_8|0
+an informal description|DT JJ NN|BODY_1|0
+its acceptance probability|PRP$ NN NN|BODY_3|0
+the streamlined algorithm|DT JJ NN|BODY_1|0
+roughly the same|RB DT JJ|BODY_6|0
+its data structures|PRP$ NNS NNS|BODY_3|0
+the worst case|DT JJS NN|BODY_3|0
+probability r ij|NN NN NN|BODY_15|0
+the following assumption|DT JJ NN|BODY_2|0
+any constant 0|DT JJ CD|BODY_8|0
+a certain probability|DT JJ NN|BODY_7|0
+continuous random variables|JJ JJ NNS|BODY_3|0
+assumption a3 )|NN RB -RRB-|BODY_6|0
+fox [10] [7]|NN NN NN|BODY_3|0
+the above algorithm|DT JJ NN|BODY_1|0
+any rejection algorithm|DT NN NN|BODY_1|0
+an analogous fashion|DT JJ NN|BODY_1|0
+the key observation|DT JJ NN|BODY_1|0
+the nm servers|DT NN NNS|BODY_2|0
+a random manner|DT JJ NN|BODY_8|0
+this case y|DT NN NN|BODY_1|0
+sufficiently small d|RB JJ NN|BODY_1|0
+let step 3|VB NN CD|BODY_1|0
+transit|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+queueing networks|NN NNS|BODY_2:BODY_1:BODY_3:BODY_19|0
+the time|DT NN|BODY_6:BODY_5:BODY_3|0
+i|NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_4|0
+the effort|DT NN|BODY_2:BODY_3:BODY_4:BODY_7|0

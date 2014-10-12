@@ -1,0 +1,617 @@
+we|PRP|BODY_16:BODY_13:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8|16
+it|PRP|BODY_16:BODY_18:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_31:BODY_1:BODY_10:BODY_7:BODY_20|1
+which|WDT|BODY_6:BODY_5:BODY_18:BODY_13:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|4
+they|PRP|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_8|5
+the first 5 results|DT JJ CD NNS|BODY_16:BODY_26:BODY_20|0
+another very important benefit|DT RB JJ NN|BODY_3|1
+desktop based sentence selection|NN VBN NN NN|BODY_2|0
+desktop data desktop data|NN NNS NN NNS|BODY_2|0
+less than four terms|RBR IN CD NNS|BODY_2|0
+information search and retrieval|NN NN CC NN|ABSTRACT_3|0
+the self-selected specific ones|DT JJ JJ NNS|BODY_7|0
+the top log queries|DT JJ NN NNS|BODY_3|0
+information storage and retrieval]|NN NN CC NN|ABSTRACT_2|0
+such personalized search results|JJ JJ NN NNS|BODY_4|0
+a comprehensive literature review|DT JJ NN NN|BODY_2|1
+a somewhat different language|DT RB JJ NN|BODY_5|0
+the randomly selected ones|DT RB VBN NNS|BODY_5|0
+the web search output|DT NN NN NN|BODY_14:BODY_7|0
+2.0 and 2.3 terms|CD CC CD NNS|BODY_2|0
+up to 51.28 %|RB TO CD NN|BODY_5:BODY_7|1
+dfx,y dfx â· dfy|JJ JJ NNS VBP|BODY_9|0
+the entire personal desktop|DT JJ JJ NN|BODY_7|0
+a very rich repository|DT RB JJ NN|BODY_3|0
+the many technical queries|DT JJ JJ NNS|BODY_4|0
+0.09 0.52 p <|CD CD NN NN|BODY_6|0
+adaptive personalized query expansion|JJ JJ NN NN|BODY_2|0
+small clear 0table 3|JJ JJ JJ CD|BODY_1|0
+the corresponding tf scores|DT JJ NN NNS|BODY_2|0
+moving web search personalization|VBG NN NN NN|BODY_2|0
+1 âˆ ’ p1|CD NN JJ NNS|BODY_17|0
+together two ir areas|RB CD NN NNS|BODY_3|0
+at most one compound|IN JJS CD NN|BODY_4|0
+a 7.2 million entries|DT CD CD NNS|BODY_8|0
+( 1 ) synonyms|-LRB- CD -RRB- NNS|BODY_6|0
+a rather average performance|DT RB JJ NN|BODY_5|0
+thesauri encapsulate global knowledge|DT JJ JJ NN|BODY_2|0
+the bm25 weighting scheme|DT CD NN NN|BODY_8|0
+the first two algorithms|DT JJ CD NNS|BODY_2|0
+scope and clarity levels|NN CC NN NNS|BODY_5|0
+almost all our algorithms|RB DT PRP$ NNS|BODY_2|0
+p1 = k1 n1|JJ SYM CD NNS|BODY_2|0
+the two binomial processes|DT CD JJ NNS|BODY_2|0
+the query term weights|DT NN NN NNS|BODY_7|0
+local desktop query context|JJ NN NN NN|BODY_6|0
+the parameter space â„¦|DT NN NN NN|BODY_11|0
+more than 80 %|JJR IN CD NN|BODY_2|0
+several industrial search engines|JJ JJ NN NNS|BODY_3|0
+the three different approaches|DT CD JJ NNS|BODY_4|0
+top-k relevant desktop documents|JJ JJ NN NNS|BODY_5|0
+k1 â¡ â· pk2|CD JJ NN NN|BODY_25|0
+the first ten sentences|DT JJ CD NNS|BODY_5|0
+the lexical dispersion hypothesis|DT JJ NN NN|BODY_2|0
+all desktop level parts|DT NN NN NNS|BODY_2|0
+the more likely will|DT JJR JJ NN|BODY_5|0
+some other possible factors|DT JJ JJ NNS|BODY_5|0
+( 1 ) teevan|-LRB- CD -RRB- NN|BODY_6|0
+the lexical compounds method|DT JJ NNS NN|BODY_3|0
+these possible expansion terms|DT JJ NN NNS|BODY_8|0
+a hybrid tfxidf approach|DT JJ NN NN|BODY_2|0
+( 1 ) tf|-LRB- CD -RRB- NN|BODY_2|0
+all their lexical compounds|DT PRP$ JJ NNS|BODY_3|0
+70 and 90 urls|CD CC CD NNS|BODY_3|0
+a very good outcome|DT RB JJ NN|BODY_1|0
+all term co-occurrence metrics|DT NN NN NNS|BODY_3|0
+their most important sentences|PRP$ RBS JJ NNS|BODY_7|1
+each keyword ki 3|DT NN NN CD|BODY_8|0
+pml( w| query )|VBD JJ NN -RRB-|BODY_12|0
+very short queries [20]|RB JJ NNS NN|BODY_6|0
+the past click history|DT JJ NN NN|BODY_4|0
+( 2 ) sub-concepts|-LRB- CD -RRB- NNS|BODY_7|0
+the more query terms|DT JJR NN NNS|BODY_3|0
+the previously presented approach|DT RB VBN NN|BODY_4|0
+several query expansion techniques|JJ NN NN NNS|BODY_9|0
+the above mentioned sets|DT IN VBN NNS|BODY_20|0
+â€ ¢ cosine similarity|NN NN NN NN|BODY_4|0
+at least t times|IN JJS JJ NNS|BODY_6|0
+the best possible dcg|DT JJS JJ NN|BODY_10|0
+a desktop search application|DT JJ NN NN|BODY_5|0
+more relevant output documents|JJR JJ NN NNS|BODY_2|0
+the most important ones|DT RBS JJ NNS|BODY_6|1
+a necessary further step|DT JJ JJ NN|BODY_4|0
+the matching desktop documents|DT NN NN NNS|BODY_2|0
+the global desktop collection|DT JJ NN NN|BODY_4|0
+c2 = âˆ wâˆˆquery|NN SYM FW NNP|BODY_9|0
+the same experimental setup|DT JJ JJ NN|BODY_3|0
+a thorough empirical analysis|DT JJ JJ NN|BODY_7|0
+regular and optimized (|JJ CC JJ -LRB-|BODY_3|0
+up to 6.62 %|IN TO CD NN|BODY_3|0
+the top-5 results output|DT JJ NNS NN|BODY_13|0
+a global desktop analysis|DT JJ NN NN|BODY_4|0
+another 8.9 % improvement|DT CD NN NN|BODY_2|0
+the worst possible dcg|DT JJS JJ NN|BODY_8|0
+the entire desktop data|DT JJ NN NNS|BODY_2|0
+the pir and c2|DT NN CC NN|BODY_6|0
+her previously issued query|PRP$ RB VBN NN|BODY_4|0
+a link analysis expert|DT NN NN NN|BODY_2|0
+at least one term|IN JJS CD NN|BODY_9|0
+only one top compound|RB CD JJ NN|BODY_4|0
+document ) lexical compounds|NN -RRB- JJ NNS|BODY_5|0
+a very strong increase|DT RB JJ NN|ABSTRACT_6|0
+at least 10 hits|IN JJS CD NNS|BODY_9|0
+the document and pos|DT NN CC NNS|BODY_11|0
+far the largest amount|RB DT JJS NN|BODY_7|0
+the new approaches )|DT JJ NNS -RRB-|BODY_11|0
+kj ) on-line computation|VBD -RRB- JJ NN|BODY_14|0
+the representative query expansion|DT JJ NN NN|BODY_4|0
+the above search (|DT IN NN -LRB-|BODY_33|0
+each particular query keyword|DT JJ NN NN|BODY_3|0
+the overall best algorithm|DT JJ JJS NN|BODY_3|0
+the most frequent compounds|DT RBS JJ NNS|BODY_6|0
+the additional query keywords|DT JJ NN NNS|ABSTRACT_3|0
+this personalized search framework|DT JJ NN NN|ABSTRACT_2|0
+up to 25.8 %|RB TO CD NN|BODY_3|0
+a given collection (|DT VBN NN -LRB-|BODY_5|0
+one self-selected specific query|CD JJ JJ NN|BODY_13|1
+the initial search request|DT JJ NN NN|BODY_5|0
+one self-selected ambiguous query|CD JJ JJ NN|BODY_17|1
+up to 52.9 %|RB TO CD NN|BODY_6|0
+( 2 ) wn[syn]|-LRB- CD -RRB- NN|BODY_5|0
+p2 ) | p1|NN -RRB- NN NNS|BODY_6|0
+the clear desktop queries|DT JJ NN NNS|BODY_5|1
+the most relevant terms|DT RBS JJ NNS|BODY_3|0
+randomly selected log queries|RB VBN NN NNS|BODY_5|0
+the clear search tasks|DT JJ NN NNS|BODY_3|0
+âˆ’2 â· log î»|DT JJ NN NN|BODY_4|0
+several lexical analysis algorithms|JJ JJ NN NNS|BODY_4|0
+the expansion process adaptive|DT NN NN NN|BODY_4|0
+the initial query terms|DT JJ NN NNS|BODY_11|0
+three local analysis techniques|CD JJ NN NNS|BODY_3|0
+the simplest possible measures|DT JJS JJ NNS|BODY_1|0
+a document or group|DT NN CC NN|BODY_12|0
+a very unstructured way|DT RB JJ NN|BODY_2|0
+2 â· [log l(p1|CD JJ NN NNS|BODY_5|0
+the most detailed expansions|DT RBS JJ NNS|BODY_4|0
+the same underlying parameter|DT JJ JJ NN|BODY_3|0
+the second best approach|DT JJ JJS NN|BODY_4|0
+the desktop co-occurrence level|DT NN NN NN|BODY_6|0
+the desktop level relationship|DT NN NN NN|BODY_3|1
+( 3 ) super-concepts|-LRB- CD -RRB- NNS|BODY_14|0
+an input query q|DT NN NN NN|BODY_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the most applied technique|DT RBS JJ NN|BODY_18|0
+the self-selected ambiguous ones|DT JJ JJ NNS|BODY_9|0
+the currently generic ones|DT RB JJ NNS|BODY_6|0
+the five generic approaches|DT CD JJ NNS|BODY_3|0
+the average query lengths|DT JJ NN NNS|BODY_1|0
+kraft and zien [19]|NN CC NN NNS|BODY_1|0
+lam and jones [21]|NN CC NNS NNS|BODY_1|0
+the search engine side|DT NN NN NN|BODY_6|0
+the original search request|DT JJ NN NN|BODY_7|0
+personalized web search )|JJ NN NN -RRB-|BODY_16|0
+any additional qualitative gain|DT JJ JJ NN|BODY_4|0
+1 âˆ ’ p)nâˆ’k|CD NN NN NN|BODY_21|0
+our desktop specific techniques|PRP$ NN NN NNS|BODY_5|0
+statistical significance using t-tests|JJ NN VBG NNS|BODY_2|0
+jeh and widom [16]|NN CC NN NN|BODY_1|1
+only two other approaches|RB CD JJ NNS|BODY_1|0
+our extensive empirical analysis|PRP$ JJ JJ NN|ABSTRACT_1|0
+the personal information repository|DT JJ NN NN|BODY_12|0
+the search engine log|DT NN NN NN|BODY_7|0
+anick and tipirneni [2|NN CC NN NNS|BODY_1|0
+top and bottom performances|JJ CC JJ NNS|BODY_8|0
+the newly added terms|DT RB VBN NNS|BODY_1|0
+the query clarity level|DT NN NN NN|BODY_3|0
+the thesaurus based expansion|DT NN VBN NN|BODY_1|0
+the query canon book|DT NN NN NN|BODY_1|0
+a real life scenario|DT JJ NN NN|BODY_1|1
+both tf and lc[o]|DT JJ CC RBR|BODY_1|0
+the log based queries|DT NN VBN NNS|BODY_4|0
+term and document frequency|NN CC NN NN|BODY_1:BODY_3|0
+the altavista query log|DT NN NN NN|BODY_7|0
+the actual search algorithm|DT JJ NN NN|BODY_5|0
+several possible compound expressions|JJ JJ NN NNS|BODY_1|0
+the web search scenario|DT NN NN NN|BODY_2|0
+an off-line preprocessing phase|DT JJ JJ NN|BODY_5|0
+only c1 and c2|RB CD CC CD|BODY_2|0
+some top frequent queries|DT JJ JJ NNS|BODY_2|0
+the run-time computation speed|DT NN NN NN|BODY_1|0
+wordnet based expansion terms|NN VBN NN NNS|BODY_2|0
+exactly our targeted scenario|RB PRP$ JJ NN|BODY_8|0
+a broadly explored method|DT RB JJ NN|BODY_1|0
+both x and y|DT NN CC NN|BODY_7|0
+the proposed new keywords|DT VBN JJ NNS|BODY_5|1
+large ambiguous 4 lc[o]|JJ JJ CD NN|BODY_3|0
+at least three meanings|IN JJS CD NNS|BODY_20|1
+tf and lc[o] )|NN CC NN -RRB-|BODY_8|0
+the query ambiguity level|DT NN NN NN|BODY_5|0
+large clear 2 lc[o]|JJ JJ CD NN|BODY_1|0
+thesaurus based query expansion|DT VBN NN NN|BODY_1|0
+.e|NN|BODY_12:BODY_5:BODY_16:BODY_3:BODY_19:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_31:BODY_5:BODY_11:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|1
+user |NN|BODY_12:BODY_6:BODY_5:BODY_3:BODY_10:BODY_19:BODY_4:BODY_7|1
+the user query|DT NN NN|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+our algorithms|PRP$ NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|0
+the query|DT NN|BODY_6:BODY_5:BODY_3:BODY_10:BODY_4:BODY_8|1
+this|DT|BODY_6:BODY_5:BODY_2:BODY_1|0
+the total number|DT JJ NN|BODY_6:BODY_18:BODY_15:BODY_9|0
+a and b|DT CC NN|BODY_12:BODY_5:BODY_3|0
+the original query|DT JJ NN|BODY_6:BODY_28:BODY_4|1
+global co-occurrence statistics|JJ NN NNS|BODY_11:ABSTRACT_7:BODY_8|0
+lc[o] ( p|NN -LRB- NN|BODY_5:BODY_4|0
+term co-occurrence statistics|NN NN NNS|BODY_2:BODY_1:BODY_4|1
+the expansion process|DT NN NN|ABSTRACT_4:BODY_7:BODY_8|1
+personal information repository|JJ NN NN|BODY_5:ABSTRACT_8:BODY_7|3
+a high potential|DT JJ NN|BODY_2:BODY_3|0
+statistically significant improvements|RB JJ NNS|BODY_3:BODY_4|0
+the adaptive algorithms|DT JJ NNS|ABSTRACT_3:BODY_3|0
+the relevant results|DT JJ NNS|BODY_5:BODY_7|0
+the language model|DT NN NN|BODY_5:BODY_3|0
+a position score|DT NN NN|BODY_5:BODY_2|0
+the user|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_9|0
+( 1 )|-LRB- CD -RRB-|BODY_12:BODY_2|1
+the expansion terms|DT NN NNS|BODY_2:BODY_3|0
+the df scores|DT JJ NNS|BODY_5:BODY_2|0
+the optimal number|DT JJ NN|BODY_5:BODY_2|0
+the personal machine|DT JJ NN|BODY_2|1
+the search engine|DT NN NN|BODY_10:BODY_7|0
+increasing granularity levels|VBG NN NNS|BODY_6:ABSTRACT_5|0
+each keyword k|DT NN NN|BODY_2|0
+randomly selected queries|RB VBN NNS|BODY_1:BODY_8|0
+very few suggestions|RB JJ NNS|BODY_3|0
+the entire query|DT JJ NN|BODY_7|0
+an additional improvement|DT JJ NN|BODY_18:BODY_2|1
+four different scenarios|CD JJ NNS|ABSTRACT_2:BODY_10|0
+the self-selected ones|DT JJ NNS|BODY_5|0
+the relevant documents|DT JJ NNS|BODY_5|0
+that useful information|DT JJ NN|BODY_4|0
+tf and df|NN CC NN|BODY_2|0
+0.32 0.43 p|CD CD NN|BODY_3|0
+them|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|2
+0.40tf 0.43 p|CD CD NN|BODY_2|0
+all the documents|DT DT NNS|BODY_8|0
+¢ likelihood ratio|NN NN NN|BODY_11|0
+both adaptive approaches|DT JJ NNS|BODY_6|0
+query expansion suggestions|NN NN NNS|BODY_4|0
+web search personalization|NN NN NN|BODY_5|0
+6th framework programme|JJ NN NN|BODY_9|0
+term relationship levels|NN NN NNS|BODY_2|0
+â€|NNS|BODY_12:BODY_2:BODY_19:BODY_4:BODY_7:BODY_8|3
+q ) 7|NN -RRB- CD|BODY_37|0
+latent semantic analysis|JJ JJ NN|BODY_5|0
+very good results|RB JJ NNS|BODY_2:BODY_4|0
+the log queries|DT NN NNS|BODY_3|0
+the document frequency|DT NN NN|BODY_2|0
+the employed algorithms|DT VBN NNS|BODY_2|0
+several simple methods|JJ JJ NNS|BODY_3|1
+k1 , k2|CD , CD|BODY_12:BODY_16:BODY_21|0
+0.04 df 0.17|CD NN CD|BODY_4|0
+the query clarity|DT NN NN|BODY_15|0
+all such compounds|DT JJ NNS|BODY_6|0
+pseudo relevance feedback|NN NN NN|BODY_3|0
+’ pos nrwords|JJ NNS NNS|BODY_4|0
+the web query|DT NN NN|BODY_2:BODY_7|1
+tf > ms|JJ JJ NNS|BODY_5|0
+0.01 wn[syn] 0.51|CD NN CD|BODY_7|0
+0.14 0.45 p|CD CD NN|BODY_7|0
+the entire pir|DT JJ NN|BODY_4|0
+each term t|DT NN NN|BODY_22:BODY_9|0
+0.36lc[o] 0.44 p|CD CD NN|BODY_6|0
+a single topic|DT JJ NN|BODY_13|0
+0.01 ss 0.33|CD NN CD|BODY_8|0
+0.35tc[mi ] 0.40|CD NN CD|BODY_10|0
+algorithm ndcg signific|NN NN NN|BODY_2:BODY_1|0
+top frequent queries|JJ JJ NNS|BODY_1|0
+o22 â· log|CD JJ NN|BODY_19|0
+overall descriptive sentences|JJ JJ NNS|BODY_2|0
+â· log p|JJ NN NN|BODY_21|0
+return top-k terms|NN JJ NNS|BODY_38|0
+the web environment|DT NN NN|BODY_4|0
+global desktop analysis|JJ NN NN|BODY_2|0
+the previous analysis|DT JJ NN|BODY_1:BODY_7|0
+this metric performs|DT JJ NNS|BODY_11|0
+â· log p2|JJ NN NNS|BODY_18|0
+more informative terms|RBR JJ NNS|BODY_3|0
+query relevant keywords|NN JJ NNS|BODY_3|0
+google ( p|JJ -LRB- NN|BODY_4|0
+0.01 0.49 p|CD CD NN|BODY_10|0
+the following form|DT VBG NN|BODY_4|0
+suitable expansion terms|JJ NN NNS|BODY_2|0
+their salience score|PRP$ NN NN|BODY_4|0
+dfx,y pdfx â·|JJ NN NNS|BODY_6|0
+the interesting discussions|DT JJ NNS|BODY_7|1
+two major components|CD JJ NNS|BODY_2|0
+generated expansion keywords|VBN NN NNS|BODY_3:BODY_4|0
+only little attention|RB JJ NN|BODY_8|0
+a â¬b )|DT NN -RRB-|BODY_7|0
+the following contributions|DT JJ NNS|BODY_3|1
+p( â¬a b)|JJ NN NN|BODY_5|0
+the normalized version|DT JJ NN|BODY_3|0
+its predefined searching|PRP$ JJ NN|BODY_5|0
+the static personalization|DT JJ NN|BODY_3|0
+1 + tf|CD NN NN|BODY_6|0
+log( # documents|JJ # NNS|BODY_9|0
+the matching documents|DT VBG NNS|BODY_7|0
+two log-based queries|CD JJ NNS|BODY_5|0
+o12 â· log|CD JJ NN|BODY_16|0
+short input queries|JJ NN NNS|BODY_3|0
+( i .e|-LRB- FW FW|BODY_3|0
+a target set|DT NN NN|BODY_5|0
+large data sets|JJ NNS NNS|BODY_2|0
+a particular user|DT JJ NN|BODY_5|0
+â· log p1|JJ NN NNS|BODY_15|0
+two self-selected ones|CD JJ NNS|BODY_6|0
+c1 âˆˆ [12|CD NN NN|BODY_14|0
+respectively cosine similarity|RB JJ NN|BODY_3|0
+the particular hypothesis|DT JJ NN|BODY_13|0
+an ir scientist|DT NN NN|BODY_4|0
+cui et al|FW FW NN|BODY_5|0
+0.01 wn[syn] 0.79|CD NN CD|BODY_7|0
+such new keywords|JJ JJ NNS|BODY_4|1
+both strongly significant|DT RB JJ|BODY_8|0
+0.01 0.44table 4|CD JJ CD|BODY_13|0
+0.01 table 5|CD NN CD|BODY_13|0
+0.01 tc[cs] 0.60|CD NN CD|BODY_11|0
+the ratings )|DT NNS -RRB-|BODY_11|0
+not many papers|RB JJ NNS|BODY_4|0
+a small set|DT JJ NN|BODY_9|1
+other personal documents|JJ JJ NNS|BODY_3|0
+0.44a[lc o/tf] 0.81|CD NN CD|BODY_8|0
+a rich measure|DT JJ NN|BODY_2|0
+all term co-occurrence|DT NN NN|BODY_3|0
+lexical affinity relationships|JJ NN NNS|BODY_4|0
+the issued keywords|DT VBN NNS|BODY_2|0
+simple keyword search|JJ NN NN|BODY_3|0
+) log queries|-RRB- NN NNS|BODY_23:BODY_19|0
+the search output|DT NN NN|BODY_6:BODY_14:ABSTRACT_9|2
+3.2.1 experimental setup|JJ JJ NN|BODY_2|0
+its underlying process|PRP$ JJ NN|BODY_2|0
+0.01 df 0.37|CD NN CD|BODY_4|0
+topic preference vectors|NN NN NNS|BODY_6|0
+a topicoriented pagerank|DT JJ NN|BODY_2|0
+rather the identification|RB DT NN|BODY_7|0
+the proposed term|DT VBN NN|BODY_14|1
+a[lc o/tf] yields|JJ NN NNS|BODY_2|0
+the massive resources|DT JJ NNS|BODY_4|1
+the generated expansions|DT VBN NNS|BODY_2|0
+¢ medium scope|IN NN NN|BODY_12|0
+0.01 ss 0.56|CD NN CD|BODY_9|0
+the search algorithm|DT NN NN|BODY_4|0
+the search results|DT NN NNS|BODY_2|0
+a better formulation|DT JJR NN|BODY_2|0
+user selected paths|NN VBN NNS|BODY_9|0
+0.01 lc[o] 0.69|CD NN CD|BODY_7|0
+the search interface1|DT NN NN|BODY_12|0
+real life requests|JJ NN NNS|BODY_3|0
+the employed algorithm|DT VBN NN|BODY_7|0
+2.9 and 1.8|CD CC CD|BODY_4|0
+p( â¬aâ¬b )|JJ NN -RRB-|BODY_9|0
+the ndcg values|DT NN NNS|BODY_1|0
+p( a b)|JJ DT NN|BODY_3|0
+the document sentences|DT NN NNS|BODY_3|0
+the co-occurence level|DT NN NN|BODY_35|0
+our previous analysis|PRP$ JJ NN|BODY_4|0
+the relevant background|DT JJ NN|BODY_2|0
+a rich repository|DT JJ NN|BODY_5|0
+the experimental setup|DT JJ NN|BODY_8|1
+relative ndcg gain|JJ JJ NN|BODY_2|0
+the european commission|DT JJ NN|BODY_7|0
+the latter indicator|DT JJ NN|BODY_5|0
+the top-5 urls|DT CD NNS|BODY_3|0
+three such approaches|CD JJ NNS|BODY_2|0
+their desktop indexes|PRP$ NN NNS|BODY_10|0
+the winning method|DT NN NN|BODY_6|0
+a vast amount|DT JJ NN|BODY_2|0
+the average number|DT JJ NN|BODY_7|0
+( 8 )|-LRB- CD -RRB-|BODY_11|0
+its clarity level|PRP$ NN NN|BODY_12|1
+a high df|DT JJ NN|BODY_4|0
+wordnet based expansion|NN VBN NN|BODY_4|0
+the similarity coefficient|DT NN NN|BODY_12|0
+the first term|DT JJ NN|BODY_10|0
+their clarity predictions|PRP$ NN NNS|BODY_5|0
+various query features|JJ NN NNS|BODY_4|0
+two such techniques|CD JJ NNS|BODY_3|1
+enhanced web search|VBN NN NN|BODY_2|0
+the best performance|DT JJS NN|BODY_2|0
+p = 0.01|NN SYM CD|BODY_9|0
+small data sets|JJ NNS NNS|BODY_2|0
+pcoll( w )|NN NN -RRB-|BODY_16|0
+sentence based summaries|NN VBN NNS|BODY_2|0
+the original expression|DT JJ NN|BODY_7|1
+the imperfect selection|DT NN NN|BODY_2|0
+query expansion keywords|NN NN NNS|BODY_4|0
+every output term|DT NN NN|BODY_6|0
+the query scope|DT NN NN|BODY_5|0
+the following sets|DT VBG NNS|BODY_5|0
+the retrieval process|DT JJ NN|BODY_2|0
+the proposed query|DT VBN NN|BODY_3|1
+the personal collection|DT JJ NN|BODY_7|1
+each set si|DT NN FW|BODY_19|0
+the top-k terms|DT JJ NNS|BODY_7|0
+a large set|DT JJ NN|BODY_3|0
+the output urls|DT NN NNS|BODY_10|0
+maxï‰âˆˆâ„¦0 h( ï‰|JJ JJ NN|BODY_5|0
+p1 )( n1âˆ’k1|NNS JJ NNS|BODY_24|0
+the co-occurrence likelihood|DT NN NN|BODY_10|0
+five broad techniques|CD JJ NNS|ABSTRACT_2|0
+one more operation|CD JJR NN|BODY_4|0
+the likelihood ratio|DT NN NN|BODY_2|0
+no visible improvements|DT JJ NNS|BODY_6|0
+â· log î»|JJ NN NN|BODY_13|0
+the main goal|DT JJ NN|BODY_7|0
+the top-ranked documents|DT JJ NNS|BODY_4|0
+p( aâ¬b )|NNS NN -RRB-|BODY_7|0
+the term pagerank|DT NN NN|BODY_2|0
+everyday life terms|JJ NN NNS|BODY_3|0
+this algorithmic framework|DT JJ NN|BODY_3|0
+the latter one|DT JJ CD|BODY_4|0
+several different areas|JJ JJ NNS|BODY_3|0
+one desktop term|CD NN NN|BODY_3|0
+a strong focus|DT JJ NN|BODY_11|1
+different core ideas|JJ NN NNS|BODY_5|0
+the former ones|DT JJ NNS|BODY_2|0
+the first appearance|DT JJ NN|BODY_13|0
+the clarity level|DT NN NN|BODY_5|0
+low recall searches|JJ NN NNS|BODY_5|0
+different gain values|JJ NN NNS|BODY_8|0
+all four queries|DT CD NNS|BODY_3|0
+âˆª tsc(k )|JJ NN -RRB-|BODY_5|0
+a separate set|DT JJ NN|BODY_14:ABSTRACT_1|1
+more complex combinations|RBR JJ NNS|BODY_3|0
+tsc( k )|JJ NN -RRB-|BODY_6|0
+their everyday activities|PRP$ JJ NNS|BODY_3|0
+the actual frequency|DT JJ NN|BODY_3|0
+the submitted query|DT VBN NN|BODY_15|0
+the output expansion|DT NN NN|BODY_2|0
+the square amount|DT JJ NN|BODY_12|0
+a new term|DT JJ NN|BODY_3|0
+the generated scores|DT VBN NNS|BODY_3|0
+the cosine distance|DT NN NN|BODY_15|0
+the self-selected queries|DT JJ NNS|BODY_2|0
+not all interests|RB DT NNS|BODY_8|0
+summary based techniques|NN VBN NNS|BODY_4|1
+mindocs = 5|NNS SYM CD|BODY_3|0
+the adaptive application|DT JJ NN|BODY_3|0
+statistically significant )|RB JJ -RRB-|BODY_10|0
+a wide span|DT JJ NN|BODY_6|0
+their interest areas|PRP$ NN NNS|BODY_7|1
+further sorted depending|RB JJ VBG|BODY_2|0
+all personal information|DT JJ NN|BODY_2|0
+the huge amount|DT JJ NN|BODY_4|0
+an estimate number|DT NN NN|BODY_2|0
+our personalization algorithms|PRP$ NN NNS|BODY_3|0
+the main topics|DT JJ NNS|BODY_6|0
+no visible differences|DT JJ NNS|BODY_2|0
+filter potential keywords|NN JJ NNS|BODY_3|0
+a separate analysis|DT JJ NN|BODY_3|0
+a higher dcg|DT JJR NN|BODY_3|0
+closely related words|RB VBN NNS|BODY_8|0
+our adaptive algorithms|PRP$ JJ NNS|BODY_17|1
+the ambiguity level|DT NN NN|BODY_2|0
+two binomial distributions|CD JJ NNS|BODY_2|0
+relevant desktop documents|JJ NN NNS|BODY_5|1
+chirita et al|NN VBD JJ|BODY_12|0
+fewer expansion terms|JJR NN NNS|BODY_4|0
+the same procedure|DT JJ NN|BODY_10|1
+highly ranked documents|RB VBD NNS|BODY_5|0
+the previous section|DT JJ NN|BODY_2|0
+computing co-occurrence levels|VBG NN NNS|BODY_4|0
+web query reformulation|NN NN NN|BODY_3|1
+web search queries|NN NN NNS|BODY_5|1
+the following formulas|DT VBG NNS|BODY_2|0
+different relevance levels|JJ NN NNS|BODY_6|0
+the server side|DT NN NN|BODY_3|0
+a large collection|DT JJ NN|BODY_2|0
+a new one|DT JJ CD|BODY_4|1
+those terms co-occurring|DT NNS NN|BODY_3|0
+the null hypothesis|DT JJ NN|BODY_2|0
+the query )|DT NN -RRB-|BODY_6|0
+a specific person|DT JJ NN|BODY_6|0
+our expansion algorithms|PRP$ NN NNS|BODY_5|0
+the local desktop|DT JJ NN|BODY_4|0
+some initial experiments|DT JJ NNS|BODY_3|1
+the square number|DT JJ NN|BODY_3|0
+the open directory|DT JJ NN|BODY_7|0
+the maximum amount|DT JJ NN|BODY_4|0
+the second part|DT JJ NN|BODY_1|1
+three granularity levels|CD NN NNS|BODY_2|0
+only one meaning|RB CD NN|BODY_16|1
+the inherent ambiguity|DT JJ NN|ABSTRACT_1|0
+the desktop level|DT NN NN|BODY_2|0
+a good resolution|DT JJ NN|BODY_4|0
+a fixed number|DT JJ NN|BODY_6|0
+quite different types|RB JJ NNS|BODY_2|0
+p 0.01 )|NN CD -RRB-|BODY_9|0
+keyword expansion terms|NN NN NNS|BODY_7|0
+16 pagerank vectors|CD NN NNS|BODY_4|0
+the query length|DT NN NN|BODY_3|0
+the following interpretations|DT VBG NNS|BODY_11|0
+all profile information|DT NN NN|BODY_1|1
+the off-line computation|DT JJ NN|BODY_1|0
+more additional terms|JJR JJ NNS|BODY_2|0
++ log l(p2|JJ NN NN|BODY_8|0
+many other attempts|JJ JJ NNS|BODY_2|0
+each query keyword|DT NN NN|BODY_4|0
+the statistical metrics|DT JJ NNS|BODY_7|1
+the selection proceeds|DT NN NNS|BODY_3|0
+optimized lexical compounds|JJ JJ NNS|BODY_4|0
+a large number|DT JJ NN|BODY_4|0
+a better query|DT JJR NN|BODY_3|0
+the search process|DT NN NN|BODY_3|1
+several desktop documents|JJ NN NNS|BODY_3|0
+our case )|PRP$ NN -RRB-|BODY_8|0
+the general approach|DT JJ NN|BODY_6|0
+those personal documents|DT JJ NNS|BODY_6|1
+a thorough insight|DT JJ NN|BODY_2|0
+such web queries|JJ NN NNS|ABSTRACT_3|1
+the adaptivity procedure|DT NN NN|BODY_3|0
+ambiguous query keywords|JJ NN NNS|BODY_3|0
+the initial query|DT JJ NN|BODY_6|0
+the main idea|DT JJ NN|BODY_1|0
+their h values|PRP$ NN NNS|BODY_39|0
+the local repository|DT JJ NN|BODY_9|0
+the obtained grades|DT VBN NNS|BODY_1|0
+the personalized scores|DT JJ NNS|BODY_14|1
+the entire collection|DT JJ NN|BODY_6:BODY_19|0
+a subsequent investigation|DT JJ NN|BODY_8|0
+many statistical measures|JJ JJ NNS|BODY_1|0
+the desktop data|DT NN NNS|BODY_6|0
+those desktop documents|DT NN NNS|BODY_4|0
+the calculated level|DT JJ NN|BODY_3|0
+1 search engines|CD NN NNS|BODY_1|0
+the static algorithms|DT JJ NNS|BODY_7|0
+output quality [36]|NN NN NN|BODY_6|0
+automatic query expansion|JJ NN NN|BODY_5|0
+the personalization aspect|DT NN NN|BODY_1|0
+too noisy suggestions|RB JJ NNS|BODY_5|0
+their associated hypotheses|PRP$ JJ NNS|BODY_4|0
+additional query keywords|JJ NN NNS|BODY_3|0
+lexical compounds metrics|JJ NNS NNS|BODY_3|0
+the query [17]|DT NN NN|BODY_4|0
+the desktop document|DT NN NN|BODY_18|0
+all other techniques|DT JJ NNS|BODY_1|0
+the experimental collections|DT JJ NNS|BODY_1|0
+interactive query expansion|JJ NN NN|BODY_1|0
+our personalized scenario|PRP$ JJ NN|BODY_1|0
+the co-occurrence matrix|DT NN NN|BODY_11|0
+the co-occurrence methods|DT NN NNS|BODY_1|0
+the visited pages|DT VBN NNS|BODY_6|0
+an external thesaurus|DT JJ NN|BODY_6|1
+a new query|DT JJ NN|BODY_1|0
+the input keywords|DT NN NNS|BODY_5|0
+highly relevant ones|RB JJ NNS|BODY_7|0
+the highest frequencies|DT JJS NNS|BODY_3|0
+table 4 )|NN CD -RRB-|BODY_6|0
+nie et al|JJ NNP NN|BODY_1|0
+the booming popularity|DT JJ NN|BODY_1|0
+table 5 )|NN CD -RRB-|BODY_6|0
+topic-sensitive pagerank [13]|JJ NN NN|BODY_7|0
+4.1 adaptivity factors|CD NN NNS|BODY_1|0
+such a query|JJ DT NN|BODY_1|0
+the overall results|DT JJ NNS|BODY_1|0
+document clustering )|NN NN -RRB-|BODY_12|0
+the input document|DT NN NN|BODY_15|0
+a low score|DT JJ NN|BODY_5|0
+the next section|DT JJ NN|BODY_4|0
+the major reason|DT JJ NN|BODY_1|0
+the adaptivity process|DT NN NN|BODY_8|0
+her search goals|PRP$ NN NNS|BODY_3|0
+e .g. ,|NN NNP ,|BODY_4|0
+this new approach|DT JJ NN|BODY_3|0
+this particular case|DT JJ NN|BODY_7|0
+the final term|DT JJ NN|BODY_1|0
+the query pagerank|DT NN NN|BODY_2|0
+the second term|DT JJ NN|BODY_1|0
+some other approaches|DT JJ NNS|BODY_1|0
+chang and hsu|NN CC NN|BODY_1|0
+the output rankings|DT NN NNS|ABSTRACT_8|0
+2. previous work|DT JJ NN|BODY_1|0
+for details )|IN NNS -RRB-|BODY_21|0
+the multiple topics|DT JJ NNS|BODY_5|0
+web search results|NN NN NNS|BODY_9|0
+the user profile|DT NN NN|BODY_5:BODY_1|0
+her original request|PRP$ JJ NN|BODY_6|0
+this query orientation|DT NN NN|BODY_1|0
+this query type|DT NN NN|BODY_5|0
+the following metrics|DT VBG NNS|BODY_1|0
+the very beginning|DT RB NN|BODY_7|0
+all desktop items|DT NN NNS|BODY_9|0
+every personal item|DT JJ NN|BODY_12|0
+( 4 )|-LRB- CD -RRB-|BODY_19|0
+rather general suggestions|RB JJ NNS|BODY_32|0
+the subsequent analysis|DT JJ NN|BODY_5|0
+topic oriented rankings|NN VBN NNS|BODY_7|0
+a simplified version|DT JJ NN|BODY_1|0
+this harder scenario|DT JJR NN|BODY_1|0
+a clear query|DT JJ NN|BODY_3|0
+pseudo rf )|NN NN -RRB-|BODY_6|0
+the run-time phase|DT NN NN|BODY_1|0
+the main parameter|DT JJ NN|BODY_1|0
+the relative differences|DT JJ NNS|BODY_1|0
+the first part|DT JJ NN|BODY_1|0
+the proposed algorithms|DT VBN NNS|BODY_1|1
+the two terms|DT CD NNS|BODY_7|0
+p = 0.04|NN SYM CD|BODY_8|0
+significant privacy concerns|JJ NN NNS|BODY_5|0
+these new keywords|DT JJ NNS|BODY_4|0
+the 16 topics|DT CD NNS|BODY_12|0
+the two statistics|DT CD NNS|BODY_5|0
+the correct topic|DT JJ NN|BODY_6|0
+the selected documents|DT VBN NNS|BODY_9|0
+a certain query|DT JJ NN|BODY_5|0
+the highest scores|DT JJS NNS|BODY_17|0
+an input expression|DT NN NN|BODY_19|0
+personalized query expansion|JJ NN NN|TITLE_1|0
+1 tf /|CD NN NN|BODY_1|0
+algorithmic specific aspects|JJ JJ NNS|BODY_1|0
+co-occurrence based techniques|NN VBN NNS|BODY_1|0
+medium ambiguous 3|NN JJ CD|BODY_1|0
+query formulation process|NN NN NN|BODY_1|0
+relevance feedback techniques|NN NN NNS|BODY_1|0
+the personalization algorithm|DT NN NN|BODY_1|0
+thesaurus based techniques|PRP$ VBN NNS|BODY_1|0
+expansion terms|NN NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|2
+the desktop|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+terms|NNS|BODY_11:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8|2
+the web|DT NN|TITLE_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0

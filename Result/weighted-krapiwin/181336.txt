@@ -1,0 +1,507 @@
+distributed-memory multiprocessors|NN NNS|TITLE_2:ABSTRACT_2:BODY_14|1
+static and dynamic scheduling|JJ CC JJ NN|TITLE_1:ABSTRACT_3|0
+which|WDT|BODY_6:BODY_5:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+the processors|DT NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_1:BODY_14:BODY_3:BODY_4:BODY_9|1
+the workload|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_8|1
+the performance|DT NN|BODY_11:BODY_5:BODY_2:BODY_3:ABSTRACT_1:BODY_7|1
+them|PRP|BODY_12:BODY_6:ABSTRACT_4:BODY_10:BODY_4:BODY_7|1
+this paper|DT NN|BODY_1:ABSTRACT_1|1
+data locality|NNS NN|BODY_5:ABSTRACT_4:BODY_2:ABSTRACT_3:BODY_3|0
+this way data locality|DT NN NNS NN|ABSTRACT_1|0
+uniform memory access costs|JJ NN NN NNS|ABSTRACT_3|0
+a new scheduling algorithm|DT JJ NN NN|ABSTRACT_2|0
+the parallel execution|DT JJ NN|ABSTRACT_2|1
+an important issue|DT JJ NN|ABSTRACT_1|1
+a large source|DT JJ NN|ABSTRACT_2|0
+the new algorithm|DT JJ NN|ABSTRACT_2|0
+many numerical applications|JJ JJ NNS|ABSTRACT_4|0
+shared-memory multiprocessors|NN NNS|ABSTRACT_2|0
+we|PRP|BODY_11:BODY_70:BODY_52:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|6
+the scheduler|DT NN|BODY_6:BODY_5:BODY_16:BODY_15:BODY_2:BODY_1:BODY_44:BODY_3:BODY_10:BODY_4|0
+it|PRP|BODY_11:BODY_22:BODY_18:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_9|2
+hs|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4|2
+the data distribution scheme|DT NNS NN NN|BODY_5:BODY_7|2
+gss and trapezoid scheduling|NN CC NN NN|BODY_3|1
+processors efficiency figure 7|NNS NN NN CD|BODY_8|1
+the best data dis|DT JJS NNS NNS|BODY_5|1
+some static scheduling solutions|DT JJ NN NNS|BODY_3|1
+sarkar and hennessy [sh86|NN CC NN NNS|BODY_1|1
+a load request msg|DT NN NN NN|BODY_15:BODY_27:BODY_50|0
+) optimal static schedule|-RRB- JJ JJ NN|BODY_3:BODY_8|0
+a load migrated msg|DT NN VBD NN|BODY_12:BODY_18:BODY_48|0
+an optimal static scheduling|DT JJ JJ NN|BODY_3|0
+the corresponding destination worker|DT JJ NN NN|BODY_2|0
+the granularity control loop|DT NN NN NN|BODY_5|0
+uniform memory access cost|JJ NN NN NN|BODY_6|0
+the respective local matrices|DT JJ JJ NNS|BODY_8|0
+a similar two-level scheme|DT JJ JJ NN|BODY_2|0
+three perfectly nested loops|CD RB VBN NNS|BODY_13|0
+static , self-, chunk|JJ , JJ NN|BODY_5|0
+the right times (|DT JJ NNS -LRB-|BODY_8|0
+the loop body size|DT NN NN NN|BODY_2|0
+all the experimental results|PDT DT JJ NNS|BODY_3|0
+gss or trapezoid scheduling|NN CC NN NN|BODY_2|0
+( load[ ] vector|-LRB- NNS NN NN|BODY_3|0
+static and dy- namic|JJ CC RB JJ|BODY_5|0
+not yet executed iterations|RB RB VBN NNS|BODY_2|0
+the cmmd message-passing library|DT JJ NN NN|BODY_5|0
+its  sensi- tiveness |PRP$ JJ NNS NN|BODY_5|0
+matrix multiplication ( mm)|NN NN -LRB- JJ|BODY_3|0
+more than one iteration|JJR IN CD NN|BODY_6|0
+its non-executed local chunks|PRP$ JJ JJ NNS|BODY_3|0
+the same scheduling algorithm|DT JJ NN NN|BODY_4|0
+my next non-executed chunk|PRP$ JJ JJ NN|BODY_14:BODY_20|0
+multiplication ) , semi-uniform|NN -RRB- , NN|BODY_8|0
+the processed remote data|DT VBN JJ NNS|BODY_3|0
+most dynamic scheduling algorithms|RBS JJ NN NNS|BODY_1|0
+tawbi and feautrier [tf92|NN CC NN NNS|BODY_1|0
+all the scheduling algorithms|DT DT NN NNS|BODY_3|0
+the three scheduling algorithms|DT CD NN NNS|BODY_12|0
+each local iteration space|DT JJ NN NN|BODY_3|0
+processors0.990.970.950.93 efficiency figure efficiency|JJ NN NN NN|BODY_10|0
+the high communication overhead|DT JJ NN NN|BODY_3|0
+static scheduling level problem|JJ NN NN NN|BODY_34|0
+the workloadredistribution( ) function|DT NN -RRB- NN|BODY_8|0
+the chunk migration costs|DT NN NN NNS|BODY_4|0
+the hs implementation scheduler|DT NNS NN NN|BODY_34|0
+a deterministic assignment policy|DT JJ NN NN|BODY_7|0
+july 11-15 , 1994|RB CD , CD|BODY_4|0
+the static distribution scheme|DT JJ NN NN|BODY_7|0
+a non-uniform parallel loop|DT JJ JJ NN|BODY_4|0
+a loop scheduling algorithm|DT NN NN NN|BODY_4|0
+a message-passing distributed-memory machine|DT NN NN NN|BODY_3|0
+case load migrated msg|NN NN JJ NN|BODY_26:BODY_25|0
+the load request message|DT NN NN NN|BODY_3|0
+the sequential innermost loop|DT JJ JJ NN|BODY_9|0
+the dynamic scheduling strategies|DT JJ NN NNS|BODY_2|0
+its original place load|PRP$ JJ NN NN|BODY_25|0
+the local loop body|DT JJ NN NN|BODY_6|0
+the following scheduling algorithms|DT VBG NN NNS|BODY_3|0
+hybrid scheduling ( hs)|JJ NN -LRB- NN|BODY_4|0
+a block-wise static distribution|DT NN JJ NN|BODY_2|0
+this remaining load (|DT VBG NN -LRB-|BODY_68|0
+the slowest one (|DT JJS CD -LRB-|BODY_9|0
+the original data distribution|DT JJ NNS NN|BODY_4|0
+the dynamic scheduling algorithms|DT JJ NN NNS|BODY_3|0
+the relatively reduced number|DT RB JJ NN|BODY_4|0
+a heavily loaded part|DT RB VBN NN|BODY_4|0
+all the local memories|PDT DT JJ NNS|BODY_12|0
+static and dynamic strategies|JJ CC JJ NNS|BODY_3|0
+its next non-executed chunk|PRP$ JJ JJ NN|BODY_28|0
+the parallelized loop body|DT JJ NN NN|BODY_4|0
+such a two-level strategy|JJ DT JJ NN|BODY_2|0
+an optimal static schedule|DT JJ JJ NN|BODY_7|0
+their statically distributed workload|PRP$ NN VBN NN|BODY_2|0
+a dynamic processor co-ordination|DT JJ NN NN|BODY_2|0
+all the workers process|PDT DT NNS NN|BODY_3|0
+a block distributed loop|DT NN VBN NN|BODY_3|0
+each local chunk load|DT JJ NN NN|BODY_7|0
+two different matrix sizes|CD JJ NN NNS|BODY_10|0
+some dynamic scheduling strategies|DT JJ NN NNS|BODY_3|0
+a large input matrix|DT JJ NN NN|BODY_2|0
+doall or parallel loops|JJ CC JJ NNS|BODY_3|0
+the ipsc/2 hyper-cube multicomputer|DT NN NN NN|BODY_8|0
+only the load messages|RB DT NN NNS|BODY_5|0
+constantine d. polychronopou- los|NN VBN NNS NNS|BODY_4|0
+the heavily loaded processors|DT RB VBN NNS|BODY_3|0
+synchronization and data sharing|NN CC NNS NN|BODY_5|0
+a reasonable load balancing|DT JJ NN NN|BODY_7|0
+a heavily loaded worker|DT RB VBN NN|BODY_5|0
+the same workload (|DT JJ NN -LRB-|BODY_5|0
+case load request msg|NN NN NN NN|BODY_17|0
+all the load messages|PDT DT NN NNS|BODY_5|0
+two consecutive load messages|CD JJ NN NNS|BODY_2|0
+a possible load unbalance|DT JJ NN NN|BODY_1|0
+a 3-depth nested loop|DT JJ VBN NN|BODY_3|0
+the load redistribution process|DT NN NN NN|BODY_5|0
+cyclic loop distribution scheme|JJ NN NN NN|BODY_10|0
+the local iteration spaces|DT JJ NN NNS|BODY_6|0
+self-scheduling ( ss) [ty86]|JJ -LRB- JJ NN|BODY_1|0
+the local computation time|DT JJ NN NN|BODY_5|0
+its limited communication cost|PRP$ JJ NN NN|BODY_3|0
+the workload redistribution process|DT NN NN NN|BODY_6|0
+the workload redistribution level|DT NN NN NN|BODY_4|0
+the workload redistribution phase|DT NN NN NN|BODY_1|0
+static ) data distribution|JJ -RRB- NNS NN|BODY_4|0
+a linear optimization problem|DT NN NN NN|BODY_3|0
+the the next one|DT DT JJ CD|BODY_2|0
+the fully dynamic schedulings|DT RB JJ NNS|BODY_3|0
+another potencial performance bottleneck|DT JJ NN NN|BODY_2|0
+3.3 dynamic processor coordination|CD JJ NN NN|BODY_1|0
+considering cross-iteration data dependencies|VBG NN NNS NNS|BODY_1|0
+a fully dynamic environment|DT RB JJ NN|BODY_5|0
+its last local chunk|PRP$ JJ JJ NN|BODY_7|0
+the following local chunk|DT VBG JJ NN|BODY_4|0
+a loop scheduling strategy|DT NN NN NN|BODY_1|0
+the dynamic scheduling duties|DT JJ NN NNS|BODY_5:BODY_7|0
+all the other processors|PDT DT JJ NNS|BODY_7|0
+the other two loops|DT JJ CD NNS|BODY_1|0
+the total communication cost|DT JJ NN NN|BODY_1|0
+the parallel loop|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_8:BODY_9|1
+the workers|DT NNS|BODY_47:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+processors efficiency number|NNS NN NN|BODY_6:BODY_4:BODY_7|3
+just one scheduler|RB CD NN|BODY_2:BODY_4|1
+the efficiency|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|1
+perfectly-nested parallel loops|JJ JJ NNS|BODY_3|1
+large loop bodies|JJ JJ NNS|BODY_3:BODY_4|1
+a scheduling method|DT NN NN|BODY_2|1
+a tapering scheduling|DT NN NN|BODY_2|1
+some scheduling strategies|DT VBG NNS|BODY_2|1
+a different function|DT JJ NN|BODY_4|1
+the decreasing size|DT NN NN|BODY_5|1
+the load|DT NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+transitive closure conclusions|JJ NN NNS|BODY_10|1
+the hybrid scheduling|DT NN NN|BODY_8|1
+a two-level scheme|DT JJ NN|BODY_2|1
+processors0.60.40.2 efficiency number|NNS NN NN|BODY_5|1
+an important result|DT JJ NN|BODY_1|1
+the one hand|DT CD NN|BODY_1|1
+3 scheduling scheme|CD NN NN|BODY_1|1
+the chunks|DT NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_8|1
+) exit( )|-RRB- NN -RRB-|BODY_41:BODY_31:BODY_34:BODY_62:BODY_24:BODY_48|0
+the execution|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the communication overhead|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+the local computations|DT JJ NNS|BODY_2:BODY_4:BODY_7|0
+the requesting processor|DT VBG NN|BODY_52:BODY_18:BODY_13:BODY_23:BODY_19|0
+the size|DT NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_4|0
+iterations|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the local memories|DT JJ NNS|BODY_15:BODY_3:BODY_7:BODY_8|0
+the dynamic level|DT JJ NN|BODY_5:BODY_2:BODY_3|0
+the same time|DT JJ NN|BODY_3:BODY_10:BODY_7:BODY_9|0
+the static level|DT JJ NN|BODY_6:BODY_3:BODY_4|0
+the loop body|DT NN NN|BODY_3:BODY_4|0
+that|WDT|BODY_6:BODY_1:BODY_3:BODY_4:BODY_10:BODY_9|1
+the execution time|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_10|0
+the local memory|DT JJ NN|BODY_5:BODY_7|0
+the data locality|DT NNS NN|BODY_5:BODY_2:BODY_1|0
+the classification list|DT NN NN|BODY_47:BODY_41:BODY_44|0
+its local chunks|PRP$ JJ NNS|BODY_6:BODY_5:BODY_7|0
+all the processors|PDT DT NNS|BODY_6:BODY_5:BODY_1:BODY_4|0
+a detailed description|DT JJ NN|BODY_3|0
+the local loops|DT JJ NNS|BODY_3:BODY_73|0
+a remote chunk|DT JJ NN|BODY_1:BODY_3:BODY_7|0
+all the workers|PDT DT NNS|BODY_1:BODY_3:BODY_4:BODY_9|0
+the tc program|DT NN NN|BODY_1:BODY_2|0
+my local queue|PRP$ JJ NN|BODY_22:BODY_21:BODY_29:BODY_60:BODY_8|0
+each remote chunk|DT JJ NN|BODY_3|0
+such an approach|JJ DT NN|BODY_2|0
+the remaining iterations|DT VBG NNS|BODY_3|0
+static scheduling performs|JJ NN NNS|BODY_2|0
+their work well|PRP$ NN RB|BODY_2|0
+the outermost loop|DT JJ NN|BODY_6:BODY_1:BODY_4|0
+figure 3 )|NN CD -RRB-|BODY_6:BODY_4|0
+the input matrix|DT NN NN|BODY_1:BODY_2|0
+the transferlimit parameter|DT NN NN|BODY_2:BODY_4|0
+the remote chunk|DT JJ NN|BODY_2:BODY_7|0
+the data-sharing cost|DT NN NN|BODY_2|0
+research and development|NN CC NN|BODY_6|0
+body( i )|NN NN -RRB-|BODY_6:BODY_4|0
+a distributed-memory multiprocessor|DT JJ NN|BODY_4:BODY_7|0
+transitive closure )|JJ NN -RRB-|BODY_15:BODY_2|0
+the communication cost|DT NN NN|BODY_6|0
+the workload counters|DT NN NNS|BODY_2:BODY_1|0
+a minimum number|DT JJ NN|BODY_6|0
+the upper bound|DT JJ JJ|BODY_4|0
+the relative speeds|DT JJ NNS|BODY_5|0
+a major concern|DT JJ NN|BODY_5:BODY_3|0
+its load messages|PRP$ NN NNS|BODY_7|0
+partial differential equations|JJ JJ NNS|BODY_5|0
+the other hand|DT JJ NN|BODY_1|0
+the remote mem|DT JJ FW|BODY_6|0
+an efficient method|DT JJ NN|BODY_4|0
+sparse matrix computation|JJ NN NN|BODY_4|0
+a research stay|DT NN NN|BODY_4|0
+the parallelism present|DT NN NN|BODY_4|0
+the following one|DT VBG CD|BODY_2:BODY_7|0
+the scheduling duties|DT NN NNS|BODY_3:BODY_20|0
+shared-memory parallel machines|JJ JJ NNS|BODY_3|0
+the static one|DT JJ CD|BODY_2|0
+the scheduling strategy|DT NN NN|BODY_5|0
+a requesting processor|DT VBG NN|BODY_15:BODY_19|0
+successive remote chunks|JJ JJ NNS|BODY_4|0
+the innermost one|DT JJ CD|BODY_14|0
+the remaining chunks|DT VBG NNS|BODY_4:BODY_65|0
+the worst performer|DT JJS NN|BODY_4|0
+the next one|DT JJ CD|BODY_4:BODY_7|0
+a similar way|DT JJ NN|BODY_3|0
+chunk size( c|NN NN NN|BODY_3|0
+the transferred chunks|DT VBN NNS|BODY_3|0
+a ) number|DT -RRB- NN|BODY_4|0
+schedules large chunks|NNS JJ NNS|BODY_2|0
+static scheduling schemes|JJ NN NNS|BODY_2|0
+a different kind|DT JJ NN|BODY_5|0
+the parallelized loop|DT JJ NN|BODY_5:BODY_4|0
+its workload counter|PRP$ NN NN|BODY_4|0
+a hybrid scheme|DT JJ NN|BODY_2|0
+dynamic workload changes|JJ NN NNS|BODY_6|0
+three major types|CD JJ NNS|BODY_4|0
+the selected worker|DT JJ NN|BODY_4|0
+the local loads|DT JJ NNS|BODY_5|0
+update workload counters|NN NN NNS|BODY_36|0
+the simplest strategy|DT JJS NN|BODY_2|0
+b ) hsr|NN -RRB- NN|BODY_8|0
+the experimental results|DT JJ NNS|BODY_2|0
+no data dependence|DT NNS NN|BODY_6|0
+the control scheme|DT NN NN|BODY_6|0
+the corresponding workers|DT JJ NNS|BODY_37|0
+the static strategy|DT JJ NN|BODY_4|0
+more experimental results|RBR JJ NNS|BODY_4|0
+the assignment problem|DT NN NN|BODY_3|0
+a new approach|DT JJ NN|BODY_2|0
+( all workers|-LRB- DT NNS|BODY_59:BODY_28:BODY_21|0
+the first loop|DT JJ NN|BODY_2|0
+the high synchronization|DT JJ NN|BODY_3|0
+the original (|DT JJ -LRB-|BODY_3|0
+assigns large chunks|NNS JJ NNS|BODY_3|0
+all load msgs|DT NN NNS|BODY_35|0
+the migrated data|DT JJ NNS|BODY_28:BODY_29|0
+the access time|DT NN NN|BODY_4|0
+the local chunks|DT JJ NNS|BODY_3|0
+an efficient solution|DT JJ NN|BODY_3|0
+a heavy workload|DT JJ NN|BODY_3|0
+50 % efficiency|CD NN NN|BODY_3|0
+a shared-memory environment|DT NN NN|BODY_3|0
+an experimental comparison|DT JJ NN|BODY_1|0
+rudolph and polychronopoulos|JJ CC NNS|BODY_3|0
+the light-loaded ones|DT JJ NNS|BODY_5|0
+two matrix sizes|CD NN NNS|BODY_2|0
+the same data|DT JJ NNS|BODY_5|0
+too many chunks|RB JJ NNS|BODY_3|0
+a centralized queue|DT JJ NN|BODY_2|0
+the chunk migrations|DT NN NNS|BODY_6|0
+the data space|DT NN NN|BODY_2|0
+) figure 2|-RRB- NN CD|BODY_33|0
+the second level|DT JJ NN|BODY_2|0
+its owner (|PRP$ NN -LRB-|BODY_29:BODY_30|0
+the former case|DT JJ NN|BODY_2|0
+load ( chunks|NN -LRB- NNS|BODY_2|0
+the efficient execution|DT JJ NN|BODY_5|0
+a non-executed chunk|DT JJ NN|BODY_6|0
+the above section|DT JJ NN|BODY_2|0
+the size (|DT NN -LRB-|BODY_6|0
+a sequential one|DT JJ CD|BODY_4|0
+the hybrid degree|DT JJ NN|BODY_3|0
+the two extremes|DT CD NNS|BODY_4|0
+the the rest|DT DT NN|BODY_2|0
+the slow workers|DT JJ NNS|BODY_2|0
+the number )|DT NN -RRB-|BODY_7|0
+above dynamic scheduling|JJ JJ NN|BODY_2|0
+a and c|DT CC NN|BODY_4|0
+a fast worker|DT JJ NN|BODY_2|0
+half 1 's|PDT CD POS|BODY_2|0
+a big difference|DT JJ NN|BODY_3|0
+a load message|DT NN NN|BODY_2|0
+the best solution|DT JJS NN|BODY_2|0
+seven different types|CD JJ NNS|BODY_5|0
+a typical example|DT JJ NN|BODY_2|0
+a better load-balance|DT JJR NN|BODY_6|0
+such an algo|JJ DT NN|BODY_2|0
+a control mes|DT NN NNS|BODY_5|0
+a large part|DT JJ NN|BODY_2|0
+its original location|PRP$ JJ NN|BODY_46:BODY_39|0
+the first row|DT JJ NN|BODY_10|0
+the classification work|DT NN NN|BODY_35|0
+the first half|DT JJ NN|BODY_8|0
+all the data|PDT DT NNS|BODY_2|0
+the execution times|DT NN NNS|BODY_5|0
+the same size|DT JJ NN|BODY_3|0
+granularity control loop|NN NN NN|BODY_10|0
+the heavy-loaded processors|DT JJ NNS|BODY_3|0
+around 75 %|IN CD NN|BODY_5|0
+my workload counter|PRP$ NN NN|BODY_19|0
+a simple protocol|DT JJ NN|BODY_4|0
+last local chunk|JJ JJ NN|BODY_12|0
+the scheduler requests|DT NN NNS|BODY_26|0
+the best performer|DT JJS NN|BODY_2|0
+the tc benchmark|DT NN NN|BODY_3|0
+no more chunks|DT JJR NNS|BODY_31|0
+his compiler group|PRP$ NN NN|BODY_3|0
+the work-load unbalances|DT NN NNS|BODY_5|0
+the partitioning scheme|DT NN NN|BODY_7|0
+a partial replication|DT JJ NN|BODY_6|0
+the last time|DT JJ NN|BODY_5|0
+a great amount|DT JJ NN|BODY_8|0
+workload redistribution migration|NN NN NN|BODY_64|0
+any load migration|DT NN NN|BODY_3|0
+a later stage|DT JJ NN|BODY_7|0
+a fast processor|DT JJ NN|BODY_3|0
+its local computation|PRP$ JJ NN|BODY_5|0
+remotely table 1|NN NN CD|BODY_32|0
+distributed-memory parallel machines|JJ JJ NNS|BODY_6:BODY_1|0
+no pending messages|DT VBG NNS|BODY_14|0
+)f case load|VBN NN NN|BODY_10:BODY_8|0
+the value 2|DT NN CD|BODY_2|0
+more remote load|RBR JJ NN|BODY_4|0
+the numeric address|DT JJ NN|BODY_2|0
+the data distribution|DT NNS NN|BODY_5|0
+break;gg figure 5|NN NN CD|BODY_42|0
+the first attempt|DT JJ NN|BODY_2|0
+break;gg figure 4|NN NN CD|BODY_49|0
+a processor load|DT NN NN|BODY_29|0
+the same number|DT JJ NN|BODY_3|0
+remote memory accesses|JJ NN NNS|BODY_5|0
+the synchronization overhead|DT NN NN|BODY_1|0
+the global impact|DT JJ NN|BODY_3|0
+an input matrix|DT NN NN|BODY_5|0
+a critical factor|DT JJ NN|BODY_4|0
+static ) scheduling|JJ -RRB- NN|BODY_3|0
+a parallel machine|DT JJ NN|BODY_2|0
+the scheduler orders|DT NN NNS|BODY_2|0
+its local queue|PRP$ JJ NN|BODY_20|0
+the available processors|DT JJ NNS|BODY_4|0
+the workload counter|DT NN NN|BODY_1|0
+the last chunks|DT JJ NNS|BODY_74|0
+) optimal solution|-RRB- JJ NN|BODY_5|0
+the load balance|DT NN NN|BODY_4|0
+( no message|-LRB- DT NN|BODY_53|0
+the type meaning|DT NN NN|BODY_2|0
+different communication paths|JJ NN NNS|BODY_7|0
+such a way|JJ DT NN|BODY_5|0
+a multi-scheduler extension|DT JJ NN|BODY_2|0
+a high frequency|DT JJ NN|BODY_4|0
+one local chunk|CD JJ NN|BODY_6|0
+a load msg|DT NN NN|BODY_5|0
+just one iteration|RB CD NN|BODY_5|0
+the initial workload|DT JJ NN|BODY_3|0
+the data content|DT NNS NN|BODY_10|0
+a non-uniform loop|DT JJ NN|BODY_8|0
+( no load|-LRB- DT NN|BODY_31:BODY_38|0
+the constant transferlimit|DT JJ NN|BODY_8|0
+efficiently such classification|RB JJ NN|BODY_3|0
+the rest|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_4|1
+overlap ) most|NN -RRB- JJS|BODY_3|0
+its dynamic level|PRP$ JJ NN|BODY_4|0
+the requesting worker|DT VBG NN|BODY_5|0
+a dynamic redistribution|DT JJ NN|BODY_3|0
+the iteration space|DT NN NN|BODY_4|0
+a few dozens|DT JJ NNS|BODY_4|0
+( no messages|-LRB- DT NNS|BODY_33:BODY_40|0
+more or less|JJR CC JJR|BODY_9|0
+a reduction operation|DT NN NN|BODY_15|0
+dynamic scheduling level|JJ NN NN|BODY_50|0
+the original owner|DT JJ NN|BODY_5|0
+the local loop|DT JJ NN|BODY_1|0
+n local iterations|NN JJ NNS|BODY_4|0
+int 'l conf|JJ JJ NN|BODY_1|0
+the fastest processors|DT JJS NNS|BODY_3|0
+our benchmark programs|PRP$ NN NNS|BODY_5|0
+the global ones|DT JJ NNS|BODY_13|0
+the periodic classification|DT JJ NN|BODY_3|0
+this irregular problem|DT JJ NN|BODY_6|0
+the interconnection network|DT NN NN|BODY_4|0
+dynamic scheduling strategies|JJ NN NNS|BODY_1|0
+the gss algorithm|DT NN NN|BODY_2|0
+the dynamic phase|DT JJ NN|BODY_1|0
+hybrid schedul- ing|JJ NNS NN|BODY_3|0
+trapezoid scheduling [tn93]|VBN NN NN|BODY_1|0
+each requesting processor|DT VBG NN|BODY_3|0
+next subsection )|JJ NN -RRB-|BODY_4|0
+two benchmark programs|CD JJ NNS|BODY_4|0
+the first phase|DT JJ NN|BODY_1|0
+the other half|DT JJ NN|BODY_7|0
+lightly loaded processors|RB VBN NNS|BODY_6|0
+the same chunk|DT JJ NN|BODY_5|0
+this load redistribution|DT NN NN|BODY_1|0
+the dynamic one|DT JJ CD|BODY_5|0
+a given threshold|DT VBN NN|BODY_6|0
+the input data|DT NN NNS|BODY_12|0
+the completion time|DT NN NN|BODY_5|0
+an irregular program|DT JJ NN|BODY_1|0
+each local chunk|DT JJ NN|BODY_1|0
+a simple strategy|DT JJ NN|BODY_1|0
+a distributed-memory machine|DT NN NN|BODY_1|0
+the second phase|DT JJ NN|BODY_1|0
+chunk number i|NN NN NNS|BODY_11|0
+the chunks )|DT NNS -RRB-|BODY_6|0
+the successive chunks|DT JJ NNS|BODY_5|0
+the same processor|DT JJ NN|BODY_9|0
+the local code|DT JJ NN|BODY_1|0
+the local tc|DT JJ NN|BODY_1|0
+the same algorithm|DT JJ NN|BODY_1|0
+a1[ ] )|JJ NN -RRB-|BODY_12|0
+a low performance|DT JJ NN|BODY_3|0
+this dynamic redistribution|DT JJ NN|BODY_1|0
+the net result|DT JJ NN|BODY_1|0
+figure 7 )|NN CD -RRB-|BODY_4|0
+4 experimental evaluation|CD JJ NN|BODY_1|0
+4.1 benchmark programs|CD NN NNS|BODY_1|0
+4.2 scheduling algorithms|CD NN NNS|BODY_1|0
+a good performance|DT JJ NN|BODY_4|0
+hsp and hsr|NN CC NN|BODY_1|0
+the more accuracy|DT JJR NN|BODY_1|0
+this last action|DT JJ NN|BODY_1|0
+two simple mechanisms|CD JJ NNS|BODY_4|0
+a critical point|DT JJ NN|BODY_1|0
+a gss-like scheme|DT JJ NN|BODY_4|0
+the selected workers|DT VBN NNS|BODY_4|0
+this redistribution process|DT NN NN|BODY_1|0
+sufficiently large matrices|RB JJ NNS|BODY_4|0
+a chosen mhlw|DT VBN NN|BODY_1|0
+the pro- cessors|DT NNS NNS|BODY_37|0
+all the cases|PDT DT NNS|BODY_1|0
+the slowest ones|DT JJS NNS|BODY_5|0
+all the actions|PDT DT NNS|BODY_1|0
+a certain unbalance|DT JJ NN|BODY_1|0
+a single chunk|DT JJ NN|BODY_11|0
+3.2 workload redistribution|CD NN NN|BODY_1|0
+a worker )|DT NN -RRB-|BODY_9|0
+the corresponding data|DT JJ NNS|BODY_7|0
+their local chunks|PRP$ JJ NNS|BODY_4|0
+a large number|DT JJ NN|BODY_1|0
+static scheduling|JJ NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+one|CD|BODY_5:BODY_36:BODY_1:BODY_2:BODY_3:BODY_7:BODY_54|0
+the loop|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_4:BODY_7|0
+the data|DT NNS|BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the literature|DT NN|BODY_6:BODY_3:BODY_4|2
+workers|NNS|BODY_5:BODY_58:BODY_40:BODY_2:BODY_3:BODY_4:BODY_51:BODY_20|0
+there|EX|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_30|0
+loop scheduling|NN NN|BODY_13:BODY_2|1
+a worker|DT NN|BODY_17:BODY_27:BODY_13:BODY_1:BODY_3:BODY_8|0
+the case|DT NN|BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+many applications|JJ NNS|BODY_2|1
+the paper|DT NN|BODY_5:BODY_4|1
+each processor|DT NN|BODY_5:BODY_2:BODY_3|0
+distributed-memory machines|JJ NNS|BODY_4:BODY_8|1
+our experiments|PRP$ NNS|BODY_2:BODY_1:BODY_3:BODY_4|0
+the set|DT NN|BODY_5:BODY_3:BODY_4:BODY_8|0
+)|-RRB-|BODY_5:BODY_10:BODY_7:BODY_75:BODY_8|0
+the scheduling|DT NN|BODY_2:BODY_3|0
+a load|DT NN|BODY_56:BODY_17:BODY_13:BODY_3|0
+this kind|DT NN|BODY_6:BODY_3:BODY_4|0
+a chunk|DT NN|BODY_1:BODY_7:BODY_8:BODY_20|0
+the number|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the cm-5|DT CD|BODY_6:BODY_3:BODY_4|0
+gss(0 )|CD -RRB-|BODY_2:BODY_4|0
+this way|DT NN|BODY_1|0
+the iterations|DT NNS|BODY_3|0
+this case|DT NN|BODY_1:BODY_2|0
+msg|NN|BODY_32:BODY_11:BODY_34:BODY_22:BODY_39:BODY_14:BODY_37:BODY_9|0
+processors efficiency|NNS NN|BODY_3:BODY_7|0
+this program|DT NN|BODY_12:BODY_1:BODY_2|0
+load messages|NN NNS|BODY_5:BODY_2:BODY_3|0
+the beginning|DT NN|BODY_3:BODY_4|0
+numa machines|NN NNS|BODY_2:BODY_3|0
+the communication|DT NN|BODY_66:BODY_1:BODY_4|0
+charge|NN|BODY_6:BODY_2:BODY_4:BODY_19|0
+some actions|DT NNS|BODY_6:BODY_5|0
+matrix multiplication|NN NN|BODY_11|0
+a number|DT NN|BODY_11:BODY_3|0
+message-passing machines|VBG NNS|BODY_2:BODY_4|0
+a (|DT -LRB-|BODY_4:BODY_7|0
+remote chunks|JJ NNS|BODY_2:BODY_3|0
+example|NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+a )|DT -RRB-|BODY_4:BODY_9|0
+all processors|DT NNS|BODY_5:BODY_4|0
+a processor|DT NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+the influence|DT NN|BODY_2:BODY_4|0
+a total|DT NN|BODY_6:BODY_5|0
+the benefits|DT NNS|BODY_67:BODY_3|0
+a loop|DT NN|BODY_2:BODY_4|0
+a part|DT NN|BODY_2|0
+symbolic analysis|JJ NN|BODY_2|0
+some heuristics|DT NNS|BODY_2|0
+these messages|DT NNS|BODY_2|0
+a difference|DT NN|BODY_5:BODY_4|0
+the migration|DT NN|BODY_3|0
+the fact|DT NN|BODY_2|0
+dynamic level|JJ NN|BODY_1:BODY_8|0

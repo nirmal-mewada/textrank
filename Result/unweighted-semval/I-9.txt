@@ -1,0 +1,489 @@
+which|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:ABSTRACT_9:BODY_9|3
+agents|NNS|BODY_11:BODY_15:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:ABSTRACT_9:BODY_8:BODY_9|3
+commitments|NNS|BODY_11:BODY_16:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_7:BODY_7:ABSTRACT_9:BODY_8:BODY_9|2
+we|PRP|BODY_6:BODY_11:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|2
+cus|NN|BODY_5:BODY_22:BODY_16:BODY_15:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:BODY_8|0
+mer|NN|BODY_6:BODY_5:BODY_21:BODY_13:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_30|0
+pre-commitments|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+resources|NNS|BODY_11:BODY_5:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+protocols|NNS|BODY_5:ABSTRACT_6:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|1
+linear logic|JJ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+cus |NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_25:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_20|1
+this|DT|BODY_13:BODY_1:BODY_2:ABSTRACT_1:BODY_4|0
+credit|NN|BODY_6:BODY_5:BODY_11:BODY_16:BODY_13:BODY_26:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+a|DT|BODY_6:BODY_5:BODY_2:BODY_4|0
+a ( 1 b)|DT -LRB- CD NN|BODY_2|0
+a request or proposal|DT NN CC NN|BODY_2:BODY_7|0
+the agent reasoning process|DT NN NN NN|BODY_3|0
+the specification and execution|DT NN CC NN|BODY_3|0
+natural and expressive specification|JJ CC JJ NN|BODY_5|0
+a breakable base commitment|DT JJ NN NN|BODY_2|0
+available one time point|JJ CD NN NN|BODY_2|0
+classical or temporal logic|JJ CC JJ NN|BODY_2|0
+the next time point|DT JJ NN NN|BODY_22:BODY_7|0
+fluent ) and phases|JJ -RRB- CC NNS|BODY_8|0
+the australian research council|DT JJ NN NN|BODY_3|0
+internal and external choices|JJ CC JJ NNS|BODY_6:BODY_7|0
+the formula cricket b@mm|DT NN NN NN|BODY_2|0
+our conclusions and items|PRP$ NNS CC NNS|BODY_2|1
+intelligent , interconnected systems|JJ , JJ NNS|BODY_3|0
+our framework|PRP$ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the others and hence|DT NNS CC RB|BODY_5|0
+m@c 10$ @mc c|JJ JJ NN NN|BODY_3|0
+that|WDT|BODY_6:BODY_11:BODY_5:BODY_1:BODY_3:BODY_7:BODY_8|0
+cond âš• com )âš¥|JJ NN NN NN|BODY_5:BODY_3|0
+the propositional logic level|DT JJ NN NN|BODY_6|0
+the corresponding legal sequences|DT JJ JJ NNS|BODY_2|0
+a more complex logic|DT RBR JJ NN|BODY_2|0
+paypal paid@mm ) ism|JJ NN -RRB- NN|BODY_9|0
+current resources and capabilities|JJ NNS CC NNS|BODY_7|0
+the source and destination|DT NN CC NN|BODY_5|0
+the two engaged agents|DT CD VBD NNS|BODY_3|0
+all the temporal operators|PDT DT JJ NNS|BODY_4|0
+not appr@c paypal paid@mm|RB JJ NN NN|BODY_10|0
+commitments and protocol states|NNS CC NN NNS|BODY_4|0
+inner and outer choices|JJ CC JJ NNS|BODY_3|0
+external ( âš• )|JJ -LRB- NN -RRB-|BODY_4|0
+time order or sequencing|NN NN CC NN|BODY_4|0
+the online sales scenario|DT JJ NNS NN|BODY_2|0
+the agent customer cus|DT NN NN NN|BODY_6|0
+a time instance n1|DT NN NN NNS|BODY_3|0
+aamas 07 ) resources|NN CD -RRB- NNS|BODY_4|0
+linear logic and tll|NN NN CC NN|BODY_4|0
+the same logic mechanism|DT JJ NN NN|BODY_4|0
+10$ @cc âš—pay m@c|CD JJ NN NN|BODY_11|0
+the location and ownership|DT NN CC NN|BODY_5|0
+either a or b|DT DT CC NN|BODY_3|0
+agent negotiation and planning|NN NN CC NN|BODY_3|0
+credit paym@m .b b|NN NN JJ NN|BODY_7|0
+[ cricket b@cc ]âš¥|NN NN NN NN|BODY_5:BODY_10|0
+the description and reasoning|DT NN CC NN|BODY_5|0
+aamas 07 ) 127|NN CD -RRB- CD|BODY_4|0
+the interaction cus requests|DT NN NN NNS|BODY_12|0
+( sometime ) [6]|-LRB- RB -RRB- NN|BODY_4|0
+both a and b.|DT DT CC VBG|BODY_4|0
+protocols more error prone|NNS RBR NN JJ|BODY_4|0
+a â‡ ’ b|DT NN NN NN|BODY_5|0
+@c .c c c|NN JJ NN NN|BODY_8|0
+the key word request|DT JJ NN VBP|BODY_2|0
+the resources or actions|DT NNS CC NNS|BODY_4|0
+a breakable conditional commitment|DT JJ JJ NN|BODY_1|0
+cus ( cricket b@cc|NN -LRB- NN NN|BODY_13|0
+a relatively independent thread|DT RB JJ NN|BODY_3|0
+a particularly useful feature|DT RB JJ NN|BODY_4|0
+handling and enforcement mechanisms|NN CC NN NNS|BODY_8|0
+aamas 07 ) 129|NN CD -RRB- CD|BODY_4|0
+âš— cricket b@mâš¥ m|NN NN NN NN|BODY_12|0
+the corresponding positive formulas|DT JJ JJ NNS|BODY_8|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+dynamic and complex interactions|JJ CC JJ NNS|BODY_8|0
+) âš•m credit paym@mb|-RRB- NN NN NN|BODY_7|0
+the formula cricket b@cc|DT NN NN NN|BODY_1|0
+about ( 1 b)|RB -LRB- CD NN|BODY_4|0
+10 dollars and payment|CD NNS CC NN|BODY_2|0
+that î  results|DT JJ NN NNS|BODY_4|0
+n1 cricket b@mâš¥ m|DT NN NN NN|BODY_9|0
+the current state formulas|DT JJ NN NNS|BODY_3|0
+2.1 linear logic logic|CD NN NN NN|BODY_1|0
+the proof construction mechanism|DT NN NN NN|BODY_1|0
+the resource cricket b@mm|DT NN NN NN|BODY_12|0
+more resources or actions|JJR NNS CC NNS|BODY_6|0
+the proof construction process|DT NN NN NN|BODY_3|0
+all the possible combinations|PDT DT JJ NNS|BODY_7|0
+a base commitment comâš¥|DT NN NN NN|BODY_1|0
+the advantages and limitations|DT NNS CC NNS|BODY_2|0
+a more fundamental form|DT RBR JJ NN|BODY_2|0
+âš— cricket b@cc )|NN NN NN -RRB-|BODY_7|0
+concurrent and reactive programs|JJ CC JJ NNS|BODY_3|0
+some initial interaction commitments|DT JJ NN NNS|BODY_1|0
+the preferred payment method|DT JJ NN NN|BODY_4|0
+the general representation form|DT JJ NN NN|BODY_1|0
+pre-commitments and state formulas|NNS CC NN NNS|BODY_7|0
+a received proposal c|DT VBN NN NN|BODY_1|0
+paypal or credit card|NN CC NN NN|BODY_17|0
+the extra token cond|DT JJ JJ NN|BODY_1|0
+the corresponding positive formula|DT JJ JJ NN|BODY_3|0
+multiple adjacent time points|JJ JJ NN NNS|BODY_6|0
+supply and negative formulas|NN CC JJ NNS|BODY_5|0
+2.2 temporal linear logic|CD JJ JJ NN|BODY_1|0
+n1 credit paid@mm )|CD NN NN -RRB-|BODY_23|0
+the full propositional tll.|DT JJ JJ NN|BODY_10|0
+their own protocol commitments|PRP$ JJ NN NNS|BODY_3|0
+( credit paym@mb )|-LRB- NN NN -RRB-|BODY_31|0
+a proof search task|DT NN NN NN|BODY_11|0
+an extra abstract layer|DT JJ JJ NN|BODY_1|0
+10 dollars|CD NNS|BODY_6:BODY_5:BODY_18:BODY_15:BODY_2:BODY_4:BODY_8|0
+them|PRP|BODY_6:BODY_5:BODY_13:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|0
+proof search|JJ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|0
+protocol actions|NN NNS|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_8|1
+a cricket bat|DT NN NN|BODY_6:BODY_5:BODY_14:BODY_3:BODY_4:BODY_7|0
+the choice|DT NN|BODY_11:BODY_1:BODY_2:BODY_4:BODY_8|0
+credit payment|NN NN|BODY_6:BODY_22:BODY_2:BODY_3:BODY_4:BODY_8|0
+time|NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_7:BODY_9|0
+a linear implication|DT JJ NN|BODY_5:BODY_2:BODY_3|0
+the conditions|DT NNS|BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the proposal|DT NN|BODY_5:BODY_1:BODY_2:BODY_10:BODY_7|0
+the sixth intl|DT JJ NN|BODY_15:BODY_13:BODY_2:BODY_3:BODY_10:BODY_7|1
+the linear implication|DT NN NN|BODY_2:BODY_1:BODY_3|0
+the owner agent|DT NN NN|BODY_6:BODY_5:BODY_2|0
+the agents|DT NNS|BODY_6:BODY_1:BODY_2:BODY_4:BODY_8|0
+the cricket bat|DT NN NN|BODY_2:BODY_7:BODY_8|0
+commitment|NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+a conditional commitment|DT JJ NN|BODY_3:BODY_4|1
+temporal linear logic|JJ JJ NN|TITLE_1:ABSTRACT_8:BODY_3:BODY_7|1
+a multiplicative conjunction|DT JJ NN|BODY_2|0
+the commitment layer|DT NN NN|BODY_3|0
+a or b|DT CC NN|BODY_3:BODY_4|0
+a base commitment|DT NN NN|BODY_4:BODY_8|0
+the desired flexibility|DT VBN NN|BODY_5:BODY_2|0
+their interactive behaviors|PRP$ JJ NNS|BODY_2:BODY_4:BODY_7|0
+the proposed agent|DT JJ NN|BODY_3:BODY_7|2
+( anytime )|-LRB- RB -RRB-|BODY_3|0
+the time order|DT NN NN|BODY_23:BODY_7|0
+the commitment part|DT NN NN|BODY_4:BODY_7|1
+10$ @cc )|CD NN -RRB-|BODY_16:BODY_20|0
+interaction|NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_3:BODY_4:BODY_7|0
+formulas|NNS|BODY_6:BODY_5:BODY_1:BODY_4|1
+the condition part|DT NN NN|BODY_4|0
+combining and additive|VBG CC JJ|BODY_5|0
+a design metaphor|DT NN NN|BODY_2|0
+control and purposes|NN CC NNS|BODY_7|0
+general terms theory|JJ NNS NN|ABSTRACT_7|0
+any pending commitments|DT VBG NNS|BODY_5:BODY_4|0
+the current state|DT JJ NN|BODY_5:BODY_4|0
+ïƒ sale quote@m|JJ NN NN|BODY_7:BODY_9|0
+a chocolate bar|DT NN NN|BODY_4:BODY_9|0
+10 continuously (|CD RB -LRB-|BODY_7|0
+cricket b@c m|NN NN NN|BODY_4|0
+correct time points|JJ NN NNS|BODY_2|0
+conditional commitments|JJ NNS|BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|1
+a modular design|DT JJ NN|BODY_6|0
+formula mapping issues|NN NN NNS|BODY_2|1
+a natural expression|DT JJ NN|BODY_2|0
+the owner (|DT NN -LRB-|BODY_7|1
+our running example|PRP$ VBG NN|BODY_1:BODY_3|0
+their own thread|PRP$ JJ NN|BODY_6|0
+the interaction context|DT NN NN|BODY_4|0
+the other hand|DT JJ NN|BODY_1:BODY_2|0
+200 cricket bats|CD NN NNS|BODY_2:BODY_4|0
+a declarative manner|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+07 ) ditions|CD -RRB- NNS|BODY_5|0
+a customer cus|DT NN NN|BODY_1|0
+one consistent system|CD JJ NN|BODY_2|0
+this specification process|DT NN NN|BODY_2|0
+adjacent time points|JJ NN NNS|BODY_6|0
+specification and execution|NN CC NN|BODY_4|0
+one own choice|CD JJ NN|BODY_2|0
+the required formulas|DT JJ NNS|BODY_6:BODY_1|0
+the commitment concept|DT NN NN|BODY_3|0
+such fixed sequences|JJ JJ NNS|BODY_3|0
+ebank and mer|NN CC NN|BODY_5|0
+specification and verification|NN CC NN|BODY_2|0
+that cusm mit|DT NN NN|BODY_6|0
+the condition î“|DT NN NN|BODY_2:BODY_1|1
+actions or events|NNS CC NNS|BODY_3|0
+such a design|PDT DT NN|BODY_2:BODY_1|0
+our tll framework|PRP$ NN NN|BODY_4|0
+the state formulas|DT NN IN|BODY_4:BODY_7|0
+a payment method|DT NN NN|BODY_3:BODY_8|0
+12 , 10|CD , CD|BODY_2|0
+model and reason|NN CC NN|BODY_3|0
+)c m n1(|JJ VB NN|BODY_9|0
+âš• credit paym@mb|JJ NN NN|BODY_3:BODY_4|0
+proof search techniques|JJ NN NNS|BODY_3|0
+associate protocols actions|JJ NNS NNS|BODY_2|0
+online sale interactions|JJ NN NNS|BODY_4|0
+each participating agent|DT VBG NN|BODY_5:BODY_4|0
+the consumed resources|DT VBN NNS|BODY_4|0
+pre-commitments and capabilities|NNS CC NNS|BODY_4|0
+10$ @c âš—|JJ JJ NNS|BODY_2|0
+external choices (others|JJ NNS NNS|BODY_8|0
+a logic connective|DT NN NN|BODY_7|0
+an explicit mapping|DT JJ NN|ABSTRACT_4|0
+[10$ @cc âš—pay|JJ JJ NN|BODY_6|0
+the merchant mer|DT NN NN|BODY_2|0
+a vital role|DT JJ NN|BODY_3|0
+a natural mechanism|DT JJ NN|BODY_2|0
+the background material|DT NN NN|BODY_2|0
+a full set|DT JJ NN|BODY_5|0
+a credit payment|DT NN NN|BODY_3:BODY_29|0
+the appropriate rules|DT JJ NNS|BODY_6|0
+n1 credit paym@mb|DT NN NN|BODY_4|0
+a certain level|DT JJ NN|BODY_6|1
+n1 paypal paid@m|DT JJ NN|BODY_2|0
+a shorthand notation|DT NN NN|BODY_5|0
+all the requirements|DT DT NNS|BODY_2|0
+a successful sale|DT JJ NN|BODY_5|0
+the conditional commitment|DT JJ NN|BODY_5:BODY_4|0
+an internal choice|DT JJ NN|BODY_3|0
+tll inference rules|NN NN NNS|BODY_6|0
+a direct mapping|DT JJ NN|BODY_3|0
+( discharged )|-LRB- VBN -RRB-|BODY_9|0
+the owner agent |DT NN NN|BODY_6|0
+the actual execution|DT JJ NN|BODY_5|0
+the other party|DT JJ NN|BODY_3|0
+an unlimited number|DT JJ NN|BODY_3|0
+â€ ¢ commitments|NN NN NNS|BODY_5|0
+various interaction concepts|JJ NN NNS|BODY_3|0
+tll. and âš•|NN CC NNS|BODY_6|0
+an elegant means|DT JJ NN|BODY_4|0
+each conditional commitment|DT JJ NN|BODY_2|0
+describing and reasoning|VBG CC NN|BODY_3|0
+the additive connectives|DT JJ NNS|BODY_3|0
+tll sequent calculus|DT JJ NN|BODY_4|0
+( credit paym@m|-LRB- NN NN|BODY_8|0
+n1âˆ’1 credit paym@m|NNS NN NN|BODY_6|0
+the respective 126|DT JJ CD|BODY_12|0
+the old state|DT JJ NN|BODY_4|0
+its negative form|PRP$ JJ NN|BODY_3|0
+sequent calculus rules|JJ NN NNS|BODY_4|0
+the temporal operators|DT JJ NNS|BODY_1|0
+these extra tasks|DT JJ NNS|BODY_1|0
+these time properties|DT NN NNS|BODY_1|0
+the various concepts|DT JJ NNS|BODY_5|0
+agent cus cus|NN NN NN|BODY_2|0
+rule 1c c|NN JJ NN|BODY_2|0
+a strong promise|DT JJ NN|BODY_11|0
+a further assumption|DT JJ NN|BODY_8|0
+its original proposal|PRP$ JJ NN|BODY_3|0
+the propositional level|DT JJ NN|BODY_4|0
+a significant degree|DT JJ NN|ABSTRACT_5|0
+the overall level|DT JJ NN|BODY_3|0
+âš¥ m cricket|JJ NN NN|BODY_2|0
+linear logic formulas|JJ NN NNS|BODY_8|1
+the payment method|DT NN NN|BODY_1:BODY_10|0
+an open system|DT JJ NN|ABSTRACT_3|0
+internal enforcement mechanisms|JJ NN NNS|BODY_3|0
+a potential commitment|DT JJ NN|BODY_2|0
+a flexible approach|DT JJ NN|BODY_1|0
+legal computations [11]|JJ NNS NN|BODY_3|0
+the same instances|DT JJ NNS|BODY_3|0
+all the effects|DT DT NNS|BODY_5|0
+a distributed manner|DT VBN NN|BODY_4|0
+the expressive power|DT JJ NN|BODY_4|0
+partial deduction techniques|JJ NN NNS|BODY_5|0
+negative formulas )|JJ NNS -RRB-|BODY_12|0
+removing or adding|VBG CC VBG|BODY_3|0
+a bank ebank|DT NN NN|BODY_4|0
+the current needs|DT JJ NNS|BODY_10|0
+m rule 1|NN NN CD|BODY_10|0
+the same time|DT JJ NN|BODY_5|0
+an execution mechanism|DT NN NN|BODY_2|0
+a visually-based tool|DT JJ NN|BODY_2|0
+their specified pre-commitments|PRP$ VBN NNS|BODY_3|0
+the designing process|DT VBG NN|BODY_6|0
+concrete time points|JJ NN NNS|BODY_6|0
+agent mer mer|NN NN NN|BODY_2|0
+a sensible choice|DT JJ NN|BODY_3|0
+the recipient agent|DT NN NN|BODY_2|0
+a reasoning system|DT NN NN|ABSTRACT_7|1
+ease and flexibility|NN CC NN|BODY_5|0
+yolum and singh|NN CC NN|BODY_2|0
+with four connectives|IN CD NNS|BODY_6|0
+credit card) m|NN NN NN|BODY_6|0
+a unit price|DT NN NN|BODY_4|0
+either informing mer|DT VBG NN|BODY_24|0
+some interactive actions|DT JJ NNS|BODY_8|0
+the internal choices|DT JJ NNS|BODY_7|0
+such tll specifications|JJ JJ NNS|BODY_3|0
+200 cricket b@m|CD NN NN|BODY_8|0
+a simple model|DT JJ NN|BODY_3|0
+states and capabilities|NNS CC NNS|BODY_10|0
+the respective agents|DT JJ NNS|BODY_9|0
+a sale quote|DT NN NN|BODY_20|0
+a relevant pre-commitment|DT JJ NN|BODY_7|0
+an appropriate agent|DT JJ NN|BODY_8|0
+the agent paradigm|DT NN NN|BODY_1|0
+a formal system|DT JJ NN|BODY_3|0
+an agent merchant|DT NN NN|BODY_3|0
+consideration on-going changes|NN JJ NNS|BODY_15|0
+many other approaches|JJ JJ NNS|BODY_1|0
+modeling and reasoning|NN CC NN|BODY_4|0
+the intrinsic meanings|DT JJ NNS|BODY_4|0
+resources and actions|NNS CC NNS|BODY_9|0
+an abstract layer|DT JJ NN|BODY_7|0
+a driving pressure|DT VBG NN|BODY_14|0
+the customer agent|DT NN NN|BODY_3|0
+the base commitments|DT NN NNS|BODY_6|0
+the initial proposal|DT JJ NN|BODY_5|0
+all negative formulas|DT JJ NNS|BODY_6|0
+some detailed knowledge|DT JJ NN|BODY_5|0
+their interactive actions|PRP$ JJ NNS|BODY_2|0
+credit not appr@c|NN RB NN|BODY_4|0
+credit check results|NN NN NNS|BODY_7|0
+their respective pre-commitments|PRP$ JJ NNS|BODY_4|0
+consumption and supply|NN CC NN|BODY_3|0
+the proof search|DT NN NN|BODY_5|0
+the right choices|DT JJ NNS|BODY_10|0
+one cricket bat|CD NN NN|BODY_7|0
+specification and generation|NN CC NN|BODY_3|0
+a human-designed mapping|DT JJ NN|BODY_3|0
+a similar manner|DT JJ NN|BODY_10|0
+the end results|DT NN NNS|ABSTRACT_5|1
+n1 cricket b@cc|DT NN NN|BODY_7|0
+no unnecessary constraint|DT JJ NN|BODY_2|0
+the accepted proposal|DT VBN NN|BODY_4|0
+resources , commitments|NNS , NNS|BODY_10|0
+the rule condition|DT NN NN|BODY_3|0
+an internal view|DT JJ NN|BODY_2|0
+the credit payment|DT NN NN|BODY_11:BODY_3:BODY_4|0
+their potential form|PRP$ JJ NN|BODY_3|0
+resources and goals|NNS CC NNS|BODY_8|0
+cricket b@cc )|NN NN -RRB-|BODY_8|0
+each cricket bat|DT NN NN|BODY_4|0
+existing logic connectives|VBG NN NNS|BODY_1|0
+agent interaction protocols|NN NN NNS|BODY_6|0
+a given set|DT VBN NN|BODY_2|0
+resources and commitments|NNS CC NNS|BODY_6|0
+model interaction protocols|NN NN NNS|BODY_4|0
+the central role|DT JJ NN|BODY_2|0
+one major disadvantage|CD JJ NN|BODY_1|0
+the interactive actions|DT JJ NNS|BODY_10|0
+a logic proposition|DT NN NN|BODY_8|0
+a modular approach|DT JJ NN|BODY_3|0
+rule 4 applicable|NN CD JJ|BODY_6|0
+current approaches [11|JJ NNS NNS|BODY_1|0
+dollar âš— dollar|NN RP NN|BODY_3|0
+this ability [5]|DT NN NN|BODY_3|0
+the other condition|DT JJ NN|BODY_1|0
+another troublesome aspect|DT JJ NN|BODY_1|0
+commitment based approaches|NN VBN NNS|BODY_1|0
+1 or b|CD CC NN|BODY_8|0
+a particular state|DT JJ NN|BODY_7|0
+10$ @mm )|CD NN -RRB-|BODY_13|0
+the produced resources|DT VBN NNS|BODY_5|0
+ choice )|IN NN -RRB-|BODY_9|0
+any relevant precommitments|DT JJ NNS|BODY_8|0
+a = a.|DT SYM NN|BODY_8|0
+a crucial aspect|DT JJ NN|ABSTRACT_1|0
+flexible agent interactions|JJ NN NNS|TITLE_3|0
+a commitment phase|DT NN NN|BODY_4|0
+the desired interactions|DT VBN NNS|BODY_4|0
+the other agent|DT JJ NN|BODY_6|0
+but not both|CC RB DT|BODY_4|0
+the above scenario|DT JJ NN|BODY_5|0
+linear logic [3|JJ NN NNS|BODY_1|0
+our further work|PRP$ JJ NN|BODY_1|0
+a merchant mer|DT NN NN|BODY_1|0
+the conditions î“|DT NNS VBP|BODY_8|1
+our approach differs|PRP$ NN NNS|BODY_1|0
+particular , tll|JJ , JJ|BODY_1|0
+a general form|DT JJ NN|BODY_1|0
+the requesting agents|DT VBG NNS|BODY_3|0
+the search result|DT NN NN|BODY_1|0
+3.3 protocol construction|CD NN NN|BODY_1|0
+no temporal operators|DT JJ NNS|BODY_2|0
+any unnecessary constraints|DT JJ NNS|BODY_8|0
+the first case|DT JJ NN|BODY_1|0
+the second case|DT JJ NN|BODY_1|0
+the above example|DT JJ NN|BODY_1|0
+precise time points|JJ NN NNS|BODY_1|0
+the engaged agents|DT VBN NNS|BODY_5|0
+the next time|DT JJ NN|BODY_6|0
+the dynamic manipulation|DT JJ NN|BODY_1|0
+n1 10$ @c|DT JJ NN|BODY_1|0
+the time range|DT NN NN|BODY_3|0
+3.5 generating interactions|CD VBG NNS|BODY_1|0
+4.1 specifying protocol|CD NN NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+liveness and safety|NN CC NN|BODY_5|0
+location and ownership|NN CC NN|BODY_5|0
+agent interactions protocols|NN NNS NNS|BODY_1|0
+such an approach|PDT DT NN|BODY_1|0
+the proof construction|DT NN NN|BODY_1|0
+particular interactive actions|JJ JJ NNS|BODY_3|0
+an external mechanism|DT JJ NN|ABSTRACT_8|0
+any interested parties|DT JJ NNS|BODY_4|0
+each participating agents|DT VBG NNS|BODY_5|0
+the actual order|DT JJ NN|BODY_1|0
+section 4 discusses|NN CD NNS|BODY_1|0
+4.3 interaction 1|CD NN CD|BODY_1|0
+a failure notice|DT NN NN|BODY_1|0
+interactive actions|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|0
+the notion|DT NN|ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7|1
+the commitment|DT NN|BODY_6:BODY_5:BODY_4|0
+flexibility|NN|BODY_11:BODY_5:ABSTRACT_6:BODY_1:BODY_10|0
+there|EX|BODY_5:ABSTRACT_2:BODY_2:BODY_1|0
+a commitment|DT NN|BODY_1:BODY_2:BODY_3:BODY_8|0
+multi-agent systems|JJ NNS|BODY_3|0
+ebank|NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_9|0
+any time|DT NN|BODY_5:BODY_3:BODY_19:BODY_7|0
+)|-RRB-|BODY_5:BODY_28:BODY_2:BODY_7|0
+a request|DT NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+operations|NNS|BODY_5:ABSTRACT_6:BODY_3:BODY_4|0
+changes|NNS|BODY_6:BODY_1:BODY_3:BODY_4:BODY_9|0
+tll|NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+agent interaction|NN NN|BODY_6:BODY_12:BODY_5:BODY_2:BODY_4|0
+the concept|DT NN|BODY_2|0
+interaction protocols|NN NNS|BODY_6:BODY_3:BODY_4:BODY_8|1
+( credit|-LRB- NN|BODY_27:BODY_2:BODY_3|0
+request|VBP|BODY_5:BODY_3:BODY_10|0
+the use|DT NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+a number|DT NN|BODY_3:BODY_4|0
+the development|DT NN|ABSTRACT_2:BODY_2|0
+what|WDT|BODY_6:BODY_3:BODY_4:BODY_7|0
+they|PRP|BODY_4:BODY_8:BODY_9|0
+a proposal|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the ability|DT NN|BODY_6:BODY_2:BODY_1|0
+a set|DT NN|BODY_2:BODY_3|0
+agent mer|NN NN|BODY_6:BODY_3:BODY_4|0
+the environment|DT NN|BODY_11:BODY_16:BODY_2:BODY_7|0
+the modeling|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+temporal logic|JJ NN|BODY_1:BODY_3:BODY_4|0
+the flexibility|DT NN|BODY_12:BODY_2:BODY_9|0
+base commitments|JJ NNS|BODY_6:BODY_16:BODY_3:BODY_4:BODY_7|0
+tll framework|NN NN|BODY_2:BODY_3|0
+the internet|DT NN|ABSTRACT_4:BODY_2|0
+the agent|DT NN|BODY_6:BODY_1:BODY_2|0
+linear implication|JJ NN|BODY_5:BODY_1:BODY_8:BODY_9|0
+rule 1|NN CD|BODY_2:BODY_7|0
+the specification|DT NN|BODY_6:BODY_5:BODY_7|0
+copies|NNS|BODY_5:BODY_3:BODY_4|0
+one dollar|CD NN|BODY_5:BODY_7:BODY_8|0
+a formula|DT NN|BODY_2:BODY_1|0
+a variety|DT NN|BODY_2|0
+this example|DT NN|BODY_2|0
+the protocol|DT NN|BODY_6:BODY_1:BODY_10|0
+the condition|DT NN|BODY_15:BODY_1:BODY_9|0
+the actions|DT NNS|BODY_6:BODY_5|0
+the formulas|DT NNS|BODY_6:BODY_5:BODY_8|0
+the order|DT NN|BODY_6:BODY_5:BODY_13:BODY_3|0
+one agent|CD NN|BODY_4|0
+use|NN|BODY_6:BODY_5:BODY_13:BODY_2|0
+actions|NNS|BODY_5:BODY_7:BODY_9|1
+rule 4|NN CD|BODY_19:BODY_7|0
+cricket bats|NN NNS|BODY_2:BODY_4|0
+|NNP|BODY_6:BODY_5:BODY_3:BODY_7|1
+other agents|JJ NNS|BODY_5:BODY_8:BODY_9|1
+agent systems|NN NNS|BODY_1:BODY_2:BODY_4|0
+proposals|NNS|BODY_2:BODY_3|0
+.e|NN|BODY_5:BODY_3:BODY_4:BODY_9|0
+further work|JJ NN|BODY_2:BODY_3|2
+the changes|DT NNS|BODY_6:BODY_3|0
+cricket b@m|JJ NN|BODY_2:BODY_4|0
+the capability|DT NN|BODY_1:BODY_3:BODY_4|0
+modeling resources|JJ NNS|BODY_2:BODY_7|0
+a search|DT NN|BODY_6:BODY_3|0
+proof construction|NN NN|BODY_2:BODY_8|0
+î“ î |JJ JJ|BODY_2|0
+condition formulas|NN NNS|BODY_4:BODY_9|0
+the advantages|DT NNS|BODY_3:BODY_7|0
+tight integration|JJ NN|ABSTRACT_5:BODY_4|0
+an overhead|DT NN|BODY_2|0
+but not|CC RB|BODY_3|0
+next )|JJ -RRB-|BODY_2|0
+agent cus|NN NN|BODY_12:BODY_4:BODY_8|0
+negative formulas|JJ NNS|BODY_6:BODY_2:BODY_4|0
+an example|DT NN|BODY_1:BODY_3|0
+the number|DT NN|BODY_6:BODY_7|0
+n1|CD|BODY_2:BODY_19:BODY_7|0
+external choices|JJ NNS|BODY_11:BODY_8|0
+the encoding|DT NN|BODY_6:BODY_2|1
+m|NN|BODY_1:BODY_4:BODY_7:BODY_9|0
+particular|JJ|BODY_1:BODY_2|1
+[8 ]|DT NN|BODY_2:BODY_3|0
+artificial intelligence]|JJ NN|ABSTRACT_2|0
+any number|DT NN|BODY_2|0
+internal choices|JJ NNS|BODY_10:BODY_4|0
+payment method|NN NN|BODY_6:BODY_10|0

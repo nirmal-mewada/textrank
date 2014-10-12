@@ -1,0 +1,603 @@
+constructive solid geometry|JJ JJ NN|TITLE_3:BODY_1:ABSTRACT_1|0
+we|PRP|BODY_12:BODY_11:BODY_22:BODY_15:BODY_23:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|9
+which|WDT|BODY_12:BODY_11:BODY_21:BODY_13:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_27:BODY_10:BODY_7:BODY_8:BODY_9|1
+bounds|NNS|BODY_17:BODY_18:ABSTRACT_3:BODY_2:BODY_25:BODY_3:BODY_14:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_7:BODY_9|2
+the rewrite rules|DT NN NNS|BODY_6:BODY_5:BODY_13:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_9|0
+the refinement rules|DT NN NNS|ABSTRACT_2:BODY_8|0
+a bounding function|DT VBG NN|BODY_3:ABSTRACT_1|0
+totally consistent bounding functions|RB JJ VBG NNS|ABSTRACT_3|0
+a solid modeling system|DT JJ JJ NN|ABSTRACT_4|0
+three and four dimensions|CD CC CD NNS|ABSTRACT_7|0
+whose internal nodes|WP$ JJ NNS|ABSTRACT_6|0
+their theoretical insight|PRP$ JJ NN|ABSTRACT_5|0
+the desirable properties|DT JJ NNS|ABSTRACT_5|0
+the constituent sets|DT JJ NNS|ABSTRACT_5|0
+general boolean algebras|JJ JJ NNS|ABSTRACT_6|0
+surprisingly good bounds|RB JJ NNS|ABSTRACT_6|0
+that|IN|BODY_11:BODY_16:BODY_18:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8|3
+a binary node t|DT JJ NN NN|BODY_2|1
+complement or difference operators|NN CC NN NNS|BODY_5|1
+it|PRP|BODY_12:BODY_6:BODY_11:BODY_5:BODY_21:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+the standard box bounds|DT JJ NN NNS|BODY_2|0
+a ) ( b|DT -RRB- -LRB- NN|BODY_2|0
+the 5 non-empty bounds|DT CD JJ NNS|BODY_13|0
+the bound fi( t|DT JJ NN NN|BODY_6:BODY_5|0
+the new bounding function|DT JJ NN NN|BODY_12|0
+a single bounding function|DT JJ NN NN|BODY_2|0
+the aligned box system|DT VBN NN NN|BODY_5:BODY_2|0
+the tree node labels|DT NN NN NNS|BODY_2|0
+the 'current ' bounds|DT JJ '' NNS|BODY_2|0
+convenient ( e .g.|JJ -LRB- NN NNP|BODY_6|0
+figure 5( b )|NN JJ NN -RRB-|BODY_3|0
+the axioms and theorems|DT NNS CC NNS|BODY_9|0
+any null-bounded internal node|DT JJ JJ NN|BODY_2|0
+the left slightly (|DT JJ RB -LRB-|BODY_5|0
+a collision detection application|DT NN NN NN|BODY_4|0
+the csg tree [13|DT NN NN NN|BODY_6|0
+a four-tuple , viz.|DT JJ , NN|BODY_4|0
+the tree 1 (|DT NN CD -LRB-|BODY_14|0
+a b 0 satisfying|DT NN CD JJ|BODY_10:BODY_19|0
+b and c overlapping|NN CC NN NN|BODY_6|0
+no new null (|DT JJ NN -LRB-|BODY_16|0
+\gamma ( set difference|NN -LRB- VBN NN|BODY_11|0
+a robot ( modelled|DT NN -LRB- JJ|BODY_4|0
+' a  b|POS DT NN NN|BODY_8|0
+a ) figure 7|DT -RRB- NN CD|BODY_2|0
+the appropriate boolean lattice|DT JJ JJ NN|BODY_6|0
+the original primitive interpretation|DT JJ JJ NN|BODY_5|0
+a 'rectangle ' (|DT JJ POS -LRB-|BODY_9|0
+inner and outer bounds|JJ CC JJ NNS|BODY_5|0
+5.2.1 spherical bound system|CD JJ JJ NN|BODY_2|0
+a bf system sensible|DT JJ NN NN|BODY_10|0
+only a few (|RB DT JJ -LRB-|BODY_7|0
+three-dimensional example ffl rules|JJ NN NN NNS|BODY_11|0
+one entity and t|CD NN CC NN|BODY_3|0
+the most practical promise|DT RBS JJ NN|BODY_6|0
+a solid modelling system|DT JJ JJ NN|BODY_11|0
+the corresponding set operations|DT JJ NN NNS|BODY_3|0
+the exact combination system|DT JJ NN NN|BODY_5|0
+the trees t 1|DT NNS NN CD|BODY_4|0
+the appropriate smallest bound|DT JJ JJS JJ|BODY_6|0
+a ) z y|DT -RRB- FW NN|BODY_9|0
+@ @ figure 8|'' '' NN CD|BODY_13|0
+at most n values|IN JJS NN NNS|BODY_5|0
+a standard bound places|DT NN VBN NNS|BODY_2|0
+chose u and t|VBD NN CC NN|BODY_12|0
+fi 0 ( t|JJ CD -LRB- NN|BODY_9|0
+the smaller sphere forms|DT JJR NN NNS|BODY_10|0
+the bounded interpretation function|DT VBN NN NN|BODY_5|0
+the special u operation|DT JJ NN NN|BODY_11|0
+union and intersection nodes|NN CC NN NNS|BODY_5|0
+an initial tc-bf fi|DT JJ NN NN|BODY_3|0
+' '( l )|POS JJ NN -RRB-|BODY_5|0
+the standard box operations|DT JJ NN NNS|BODY_7|0
+an double bounding function|DT JJ VBG NN|BODY_5|0
+a tree and returns|DT NN CC NNS|BODY_9|0
+all the vertical bars|DT DT JJ NNS|BODY_7|0
+the downward principle (|DT JJ NN -LRB-|BODY_11|0
+the i-zone and u-zone|DT NN CC NN|BODY_6|0
+ffl this bound system|RB DT JJ NN|BODY_3|0
+the powerset lattice )|DT NN NN -RRB-|BODY_7|0
+the natural application order|DT JJ NN NN|BODY_4|0
+the non-null bounded nodes|DT JJ VBN NNS|BODY_4|0
+t 1 , etc.|NN CD , FW|BODY_3|0
+' isos system [1]|POS NNS NN NN|BODY_5|0
+'s production automation project|POS NN NN NN|BODY_6|0
+the other practical systems|DT JJ JJ NNS|BODY_1|0
+fi 1 ( t|JJ CD -LRB- NN|BODY_3|0
+all smaller primitive interpretations|DT JJR JJ NNS|BODY_12|0
+any other primitive interpretation|DT JJ JJ NN|BODY_9|0
+the lower two primitives|DT JJR CD NNS|BODY_5|0
+arbitrarily complex primitive shapes|RB JJ JJ NNS|BODY_7|0
+the available rewrite rules|DT JJ NN NNS|BODY_8|0
+figure 1( c )|NN JJ NN -RRB-|BODY_2|0
+the above formulae hold|DT JJ JJ NN|BODY_9|0
+particular the left-most node|JJ DT JJ NN|BODY_8|0
+an implicit intersection node|DT JJ NN NN|BODY_3|0
+the primitive interpretation function|DT JJ NN NN|BODY_2|0
+exactly one upward pass|RB CD RB NN|BODY_4|0
+the normal up-then-down procedure|DT JJ JJ NN|BODY_9|0
+an s-bound function (|DT JJ NN -LRB-|BODY_7|0
+a primitive interpretation function|DT JJ NN NN|BODY_3|0
+any internal node t|DT JJ NN NN|BODY_2|0
+the same final state|DT JJ JJ NN|BODY_7|0
+a single downward principle|DT JJ JJ NN|BODY_8|0
+a unique natural pair|DT JJ JJ NN|BODY_8|0
+the 'obvious ' rules|DT JJ '' NNS|BODY_8|0
+the conditional distributive identity|DT JJ JJ NN|BODY_8|0
+the first question being|DT JJ NN NN|BODY_4|0
+an empty box (|DT JJ NN -LRB-|BODY_9|0
+some fixed tree t|DT VBN NN NN|BODY_5|0
+the unit time cost|DT NN NN NN|BODY_6|0
+any existing null bounds|DT VBG JJ NNS|BODY_2|0
+difference and complement operations|NN CC NN NNS|BODY_13|0
+an aligned box )|DT VBN NN -RRB-|BODY_7|0
+the consistent bounding functions|DT JJ NN NNS|BODY_2|0
+the two two-dimensional shapes|DT CD JJ NNS|BODY_3|0
+difference or complement operations|NN CC NN NNS|BODY_2|0
+no a priori knowledge|DT DT JJ NN|BODY_9|0
+some specific tc-bf systems|DT JJ JJ NNS|BODY_2|0
+at most n \gamma|IN JJS NN NN|BODY_3|0
+an internal node t|DT JJ NN NN|BODY_6:BODY_5:BODY_8|0
+a small csg tree|DT JJ NN NN|BODY_4|0
+idempotent ( x u|JJ -LRB- NN PRP|BODY_9|0
+a consistent bounding function|DT JJ NN NN|BODY_12|0
+4 primitive shapes )|CD JJ NNS -RRB-|BODY_7|0
+no new null bounds|DT JJ JJ NNS|BODY_12|0
+a new totally consistent|DT JJ RB JJ|BODY_3|0
+a unique fixed point|DT JJ JJ NN|BODY_4|0
+a constraint manipulation system|DT NN NN NN|BODY_6|0
+four-dimensional space-time [5] )|JJ NN NN -RRB-|BODY_9|0
+a bounding function fi|DT VBG NN NN|BODY_2|0
+its active zone [7]|PRP$ JJ NN NN|BODY_9|0
+some standard bound set|DT NN VBN NN|BODY_6|0
+dimensions ) and (u|NNS -RRB- CC NN|BODY_6|0
+some notation and conventions|DT NN CC NNS|BODY_3|0
+fi( t ) u|JJ NN -RRB- NN|BODY_22|0
+the two internal nodes|DT CD JJ NNS|BODY_6|0
+a new interpretation function|DT JJ NN NN|BODY_3|0
+figure 7( c )|NN JJ NN -RRB-|BODY_1|0
+a simple case analysis|DT JJ NN NN|BODY_1|0
+the root node [5]|DT NN NN NNS|BODY_10|0
+l, p n )|NN NN NN -RRB-|BODY_7|0
+any extra space requirements|DT JJ NN NNS|BODY_11|0
+different , orthogonal axes|JJ , JJ NNS|BODY_4|0
+all the above discussion|PDT DT JJ NN|BODY_1|0
+this new sense )|DT JJ NN -RRB-|BODY_10|0
+outer , standard bounds|JJ , JJ NNS|BODY_9|0
+the smallest possible volume|DT JJS JJ NN|BODY_13|0
+figure 9( c )|NN JJ NN -RRB-|BODY_1|0
+the following counterexample shows|DT VBG NN NNS|BODY_1|0
+a given initial fi)|DT VBN JJ NN|BODY_11|0
+little computation time [4]|JJ NN NN NN|BODY_5|0
+the standard aligned bounds|DT JJ VBN NNS|BODY_1|0
+the resulting fi need|DT VBG JJ NN|BODY_3|0
+a two-dimensional robot arm|DT JJ NN NN|BODY_1|0
+all the horizontal bars|DT DT JJ NNS|BODY_10|0
+a general bf system|DT JJ NN NN|BODY_1|0
+denoting union and intersection|VBG NN CC NN|BODY_7|0
+the two original spheres|DT CD JJ NNS|BODY_3|0
+the smallest enclosing rectangle|DT JJS JJ NN|BODY_2|0
+a set difference operator|DT NN NN NN|BODY_11|0
+up pass/down pass pairs|RB RB VB NNS|BODY_9|0
+an arbitrary bounding function|DT JJ NN NN|BODY_5|0
+meaningful , symmetric rules|JJ , JJ NNS|BODY_6|0
+the natural application sequence|DT JJ NN NN|BODY_1|0
+a general internal node|DT JJ JJ NN|BODY_1|0
+5.4.1 exact combination operations|CD JJ NN NNS|BODY_1|0
+any standard bounding function|DT JJ NN NN|BODY_2|0
+our solid modelling system|PRP$ JJ JJ NN|BODY_5|0
+two geometric entities intersect|CD JJ NNS NN|BODY_3|0
+figure 1( f )|NN JJ NN -RRB-|BODY_15|0
+t|NN|BODY_12:BODY_11:BODY_16:BODY_18:BODY_21:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|3
+a leaf node|DT NN NN|BODY_5:BODY_2:BODY_7|1
+the two bounds|DT CD NNS|BODY_6:BODY_7:BODY_8|1
+the intermediate computations|DT JJ NNS|BODY_9|1
+the important thing|DT JJ NN|BODY_8|1
+a shape jt|DT NN JJ|BODY_7|1
+maxima and minima|NN CC NN|BODY_12|1
+concepts and definitions|NNS CC NNS|BODY_5|1
+a bewildering array|DT VBG NN|BODY_4|1
+the bounds )|DT NNS -RRB-|BODY_11|1
+the simple observations|DT JJ NNS|BODY_6|1
+a union operation|DT NN NN|BODY_3|1
+our csg trees|PRP$ NN NNS|BODY_6|1
+its child nodes|PRP$ NN NNS|BODY_5|1
+the final answer|DT JJ NN|BODY_10|1
+the leaf-node boxes|DT NN NNS|BODY_16|1
+the tree|DT NN|BODY_11:BODY_16:BODY_17:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8|0
+the root node|DT NN NN|BODY_12:BODY_5:BODY_16:BODY_17:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a csg tree|DT NN NN|BODY_6:BODY_23:BODY_3:BODY_8:BODY_9|0
+the csg tree|DT NN NN|BODY_5:BODY_16:BODY_2:BODY_4:BODY_9|0
+the bound set|DT VBD NN|BODY_6:BODY_2:BODY_7|0
+a standard bf|DT JJ NN|BODY_6:BODY_3:BODY_9|0
+the same tree|DT JJ NN|BODY_5:BODY_14:BODY_3|0
+the upward principle|DT JJ NN|BODY_6:BODY_5:BODY_2|0
+a tree t|DT NN NN|BODY_5:BODY_17:BODY_15:BODY_14:BODY_4:BODY_7|0
+the bounding function|DT NN NN|BODY_6:BODY_2:BODY_4|0
+an up pass|DT RB NN|BODY_12:BODY_2:BODY_4|0
+the internal nodes|DT JJ NNS|BODY_5:BODY_10:BODY_9|0
+the leaf nodes|DT NN NNS|BODY_11:BODY_5:BODY_1:BODY_7|0
+the outer bound|DT JJ JJ|BODY_15:BODY_13:BODY_8|0
+all the bounds|PDT DT NNS|BODY_9|0
+the existing bounds|DT VBG NNS|BODY_5:BODY_3|0
+the other ,|DT JJ ,|BODY_4:BODY_9|0
+\pi upward principle|RB JJ NN|BODY_2:BODY_3|0
+a bf fi|DT NN NN|BODY_6:BODY_16:BODY_3:BODY_14|0
+the diagonal bar|DT JJ NN|BODY_2:BODY_3|0
+the upward rule|DT JJ NN|BODY_5:BODY_2:BODY_9|0
+the active zone|DT JJ NN|BODY_5:BODY_10|0
+a bounded tree|DT VBN NN|BODY_11:BODY_26|0
+the normal way|DT JJ NN|BODY_5:BODY_1:BODY_7|0
+a suitable set|DT JJ NN|BODY_3:BODY_7|0
+a dbf b|DT NN NN|BODY_6:BODY_13:BODY_4|0
+the new sphere|DT JJ NN|BODY_2:BODY_4|0
+the bound systems|DT JJ NNS|BODY_2:BODY_1|0
+whose outer bounds|WP$ JJ NNS|BODY_2:BODY_3|0
+fi 0 )|JJ CD -RRB-|BODY_3:BODY_10|0
+the original tree|DT JJ NN|BODY_3:BODY_9|0
+the exact form|DT JJ NN|BODY_12:BODY_5|0
+whose inner bounds|WP$ JJ NNS|BODY_4|0
+an exact relationship|DT JJ NN|BODY_3:BODY_8|0
+the fourth dimension|DT JJ NN|BODY_8|0
+the union node|DT NN NN|BODY_2:BODY_10|0
+the frame )|DT NN -RRB-|BODY_8|0
+the resultant 'intersection|DT NN NN|BODY_5|0
+a down pass|DT RB NN|BODY_13:BODY_7|0
+volume property calculation|NN NN NN|BODY_2|0
+an s-bound function|DT JJ NN|BODY_2:BODY_4|0
+the downward principle|DT JJ NN|BODY_13:BODY_7|0
+a tc-bf system|DT JJ NN|BODY_3|0
+a two-dimensional example|DT JJ NN|BODY_5:BODY_10|0
+' g( t|'' NN NN|BODY_19|0
+any boolean algebra|DT JJ NN|BODY_2|0
+the root-these uses|DT NN NNS|BODY_6|0
+the set 4|DT NN CD|BODY_12|0
+such a construction|JJ DT NN|BODY_2|0
+the set union|DT NN NN|BODY_5|0
+the original spheres|DT JJ NNS|BODY_34:BODY_29|0
+the partial shapes|DT JJ NNS|BODY_10:BODY_4|0
+the downward rule|DT JJ NN|BODY_15:BODY_10|0
+the set operation|DT NN NN|BODY_3:BODY_8|0
+u and t|NN CC NN|BODY_12:BODY_10|0
+a rich source|DT JJ NN|BODY_2|0
+a suitable superset|DT JJ NN|BODY_10|0
+the general applicability|DT JJ NN|BODY_2|0
+the right-hand child|DT JJ NN|BODY_14|0
+complex geometric computations|JJ JJ NNS|BODY_7|0
+all fi 0|DT NN CD|BODY_15|0
+the box-bf system|DT JJ NN|BODY_3:BODY_4|0
+the tree b|DT NN NN|BODY_2|0
+i k corresponds|FW NN NNS|BODY_3|0
+many other systems|JJ JJ NNS|BODY_5|0
+two such spheres|CD JJ NNS|BODY_4|0
+the appropriate (|DT JJ -LRB-|BODY_10|0
+introduction outer bounds|NN JJ NNS|BODY_1|0
+the key idea|DT JJ NN|BODY_1|0
+the second author|DT JJ NN|BODY_1|0
+the euclidean distance|DT JJ NN|BODY_5|0
+the maximal-radius line|DT JJ NN|BODY_4|0
+the intersection volume|DT NN NN|BODY_12|0
+f( t )|JJ NN -RRB-|BODY_18|0
+19 primitive shapes|CD JJ NNS|BODY_5|0
+the practical use|DT JJ VBP|BODY_11|0
+the bound operations|DT JJ NNS|BODY_5:BODY_7|0
+their intersection set|PRP$ NN NN|BODY_5|0
+a new sphere|DT JJ NN|BODY_22:BODY_9|0
+the one-dimensional case|DT JJ NN|BODY_11:BODY_23|0
+s-bounds and tc-bounds|NNS CC NNS|BODY_10|0
+the same bounds|DT JJ NNS|BODY_2|0
+collision detection (|NN NN -LRB-|BODY_7|0
+huge ( speedups|JJ -LRB- NNS|BODY_9|0
+figure 3( c|NN IN NN|BODY_11|0
+this bound propagates|DT VBN NNS|BODY_11|0
+an aligned box|DT VBN NN|BODY_6|0
+a difference node|DT NN NN|BODY_2|0
+the intersection test|DT NN NN|BODY_5|0
+the cartesian product|DT JJ NN|BODY_7|0
+a downward pass|DT JJ NN|BODY_5:BODY_9|0
+specific operators (u|JJ NNS RB|BODY_5|0
+the internal bounds|DT JJ NNS|BODY_6:BODY_3|0
+the thick lines|DT JJ NNS|BODY_11|0
+just con- sistency|RB VBN NN|BODY_3|0
+the desirable property|DT JJ NN|BODY_16|0
+the set algebra|DT NN NN|BODY_2:BODY_3|0
+the different bounds|DT JJ NNS|BODY_10|0
+,\omega and \psi|JJ CC NNS|BODY_8|0
+the four-dimensional prisms|DT JJ NNS|BODY_9|0
+the downward pass|DT JJ NN|BODY_6:BODY_3|0
+the same domain|DT JJ NN|BODY_17|0
+a u b|DT NN NN|BODY_20|0
+these bound computations|DT JJ NNS|BODY_5|0
+the smallest such|DT JJS JJ|BODY_13|0
+a box-bf system|DT NN NN|BODY_5:BODY_8|0
+r and e|NN CC NN|BODY_5|0
+z ( b|FW -LRB- NN|BODY_8|0
+the final shape|DT JJ NN|BODY_13|0
+ and [|JJ CC JJ|BODY_13|0
+the exact-combination system|DT NN NN|BODY_2|0
+the entire tree|DT JJ NN|BODY_2:BODY_8|0
+the practical results|DT JJ NNS|BODY_2|0
+the upward theorem|DT JJ NN|BODY_25|0
+the resulting sphere|DT VBG NN|BODY_26|0
+@ @ @|'' '' ''|BODY_11:BODY_10:BODY_7:BODY_8:BODY_9|0
+the fourth shows|DT JJ NNS|BODY_12|0
+the downward theorem|DT JJ NN|BODY_10|0
+jt j 0|JJ NN CD|BODY_14|0
+our modelling system|PRP$ JJ NN|BODY_3|0
+the generalised theorems|DT VBN NNS|BODY_4|0
+whose outer/inner bounds|WP$ JJ NNS|BODY_2|0
+the same alignment|DT JJ NN|BODY_10|0
+the rightmost primitive|DT JJ JJ|BODY_4|0
+general convex sets|JJ NN NNS|BODY_4|0
+faster geometrical operations|RBR JJ NNS|BODY_2|0
+j \delta j|NN NN NN|BODY_4|0
+an additional rule|DT JJ NN|BODY_20|0
+two convex polygons|CD NN NNS|BODY_5|0
+a particular tree|DT JJ NN|BODY_4|0
+the primitive interpretation|DT JJ NN|BODY_3|0
+a dual system|DT JJ NN|BODY_9|0
+a rich area|DT JJ NN|BODY_12|0
+f and g|NN CC NN|BODY_15|0
+potential edge segments|JJ NN NNS|BODY_4|0
+interference detection [4|NN NN NNS|BODY_6|0
+a bounds system|DT NNS NN|BODY_3|0
+any dimensionality )|DT NN -RRB-|BODY_5|0
+the normal sense|DT JJ NN|BODY_6|0
+of bound '|IN JJ ''|BODY_2|0
+a totally consistent|DT RB JJ|BODY_4|0
+these bound systems|DT JJ NNS|BODY_5|0
+the primitive nodes|DT JJ NNS|BODY_4|0
+the sets fi(|DT NNS NNS|BODY_8|0
+the set z|DT NN NN|BODY_10|0
+a linear number|DT JJ NN|BODY_4|0
+the padl series|DT JJ NN|BODY_8|0
+a rectangle )|DT NN -RRB-|BODY_3|0
+the obvious rules|DT JJ NNS|BODY_5|0
+figure 2( c|NN JJ NN|BODY_8|0
+a simple example|DT JJ NN|BODY_1|0
+a special rule|DT JJ NN|BODY_3|0
+the child node|DT NN NN|BODY_13|0
+i( t )|JJ NN -RRB-|BODY_6|0
+the following bounds|DT VBG NNS|BODY_2|0
+the set identity|DT NN NN|BODY_7|0
+a rich ground|DT JJ NN|BODY_3|0
+a thin box|DT JJ NN|BODY_7|0
+the same arguments|DT JJ NNS|BODY_7|0
+an initial tc-dbf|DT JJ NN|BODY_2|0
+any useful information|DT JJ NN|BODY_13|0
+consistent bounding function|JJ VBG NN|BODY_4|0
+the universal set|DT JJ NN|BODY_14|0
+( alternately )|-LRB- RB -RRB-|BODY_4|0
+the tc-bf system|DT JJ NN|BODY_6|0
+two convex polyhedra|CD NN NN|BODY_10|0
+the other element|DT JJ NN|BODY_16|0
+a two-dimensional slice|DT JJ NN|BODY_2|0
+the new spheres|DT JJ NNS|BODY_11|0
+the two theorems|DT CD NNS|BODY_24|0
+these aligned bounds|DT VBN NNS|BODY_3|0
+its two children|PRP$ CD NNS|BODY_5|0
+the exact sets|DT JJ NNS|BODY_4|0
+the simple shapes|DT JJ NNS|BODY_10|0
+a closed interval|DT JJ NN|BODY_13|0
+the tree )|DT NN -RRB-|BODY_11|0
+the label t|DT NN NN|BODY_6|0
+our main consideration|PRP$ JJ NN|BODY_3|0
+any further tc-bfs|DT JJ NNS|BODY_6|0
+an serc studentship|DT NN NN|BODY_5|0
+the most useful|DT RBS JJ|BODY_4|0
+a smaller bf|DT JJR NN|BODY_12|0
+an environment modelled|DT NN VBN|BODY_4|0
+a two-dimensional case|DT JJ NN|BODY_2|0
+this bound system|DT JJ NN|BODY_2|0
+the sphere operators|DT NN NNS|BODY_8|0
+the immediate dual|DT JJ JJ|BODY_5|0
+certain geometric computations|JJ JJ NNS|BODY_10|0
+fi or fi|JJ CC JJ|BODY_9|0
+a unique answer|DT JJ NN|BODY_4|0
+a node t|DT NN NN|BODY_7|0
+the new bound|DT JJ VBD|BODY_4|0
+a special case|DT JJ NN|BODY_3|0
+the operators t|DT NNS NN|BODY_6|0
+a bound analysis|DT JJ NN|BODY_5|0
+their apparent simplicity|PRP$ JJ NN|BODY_3|0
+a tc-bf (|DT JJ -LRB-|BODY_19|0
+the sensibility condition|DT NN NN|BODY_7|0
+the smaller sphere|DT JJR NN|BODY_19|0
+a desirable property|DT JJ NN|BODY_2|0
+the limiting case|DT VBG NN|BODY_2|0
+the bounds increases|DT NNS NNS|BODY_5|0
+all \omega and|DT JJ CC|BODY_3|0
+initial convex-hull bounds|JJ JJ VBZ|BODY_9|0
+the best tc-bf|DT JJS NN|BODY_6|0
+two s-bound functions|CD JJ NNS|BODY_13|0
+the tree nodes|DT NN NNS|BODY_6|0
+a new tree|DT JJ NN|BODY_2|0
+initial internal bounds|JJ JJ NNS|BODY_4|0
+a  c|DT VB NN|BODY_16|0
+an intersection operation|DT NN NN|BODY_2|0
+total consistency )|JJ NN -RRB-|BODY_21|0
+our practical implementation|PRP$ JJ NN|BODY_8|0
+these rules )|DT NNS -RRB-|BODY_7|0
+a unique set|DT JJ NN|BODY_4|0
+a a fixed-point|DT DT JJ|BODY_15|0
+the two rectangles|DT CD NNS|BODY_3|0
+the same axis|DT JJ NN|BODY_2|0
+any bounds are|DT NNS VBP|BODY_11|0
+the corresponding composite|DT JJ NN|BODY_3|0
+the multi-dimensional case|DT JJ NN|BODY_2|0
+all set operations|DT VBN NNS|BODY_9|0
+the descendent nodes|DT NN NNS|BODY_5|0
+this simple case|DT JJ NN|BODY_3|0
+parent t p|NN NN NN|BODY_16:BODY_17:BODY_19|0
+a ' b|DT `` NN|BODY_3|0
+the general cases|DT JJ NNS|BODY_13|0
+a bounding system|DT NN NN|BODY_3|0
+a single pass|DT JJ NN|BODY_8|0
+the down pass|DT JJ NN|BODY_7|0
+( r l|-LRB- NN NN|BODY_2|0
+the left-most term|DT JJ NN|BODY_17|0
+a total cost|DT JJ NN|BODY_2|0
+the sphere system|DT NN NN|BODY_6|0
+the inner bound|DT JJ JJ|BODY_12|0
+the new box-bf|DT JJ NN|BODY_14|0
+the formal analysis|DT JJ NN|BODY_3|0
+two arbitrary tc-bfs|CD JJ NNS|BODY_4|0
+pass/down pass pair|NN NN NN|BODY_3|0
+a worst case|DT JJS NN|BODY_4|0
+the bf systems|DT NN NNS|BODY_4|0
+b 2 k|NN CD NN|BODY_3|0
+the convergence results|DT NN NNS|BODY_3|0
+the left-most node|DT JJ NN|BODY_2|0
+no natural choice|DT JJ NN|BODY_4|0
+the aligned boxes|DT VBN NNS|BODY_10|0
+the same values|DT JJ NNS|BODY_6|0
+the first author|DT JJ NN|BODY_3|0
+the circle uc|DT NN NN|BODY_13|0
+the subsequent processing|DT JJ NN|BODY_3|0
+the partial shape|DT JJ NN|BODY_9|0
+our geometric computations|PRP$ JJ NNS|BODY_6|0
+the total number|DT JJ NN|BODY_7|0
+a shape (|DT NN -LRB-|BODY_6|0
+the leaf-node hulls|DT NN NNS|BODY_10|0
+whatever the dimensionality|WDT DT NN|BODY_10|0
+an inner bound|DT JJ JJ|BODY_4|0
+a large square|DT JJ NN|BODY_3|0
+the combination operators|DT NN NNS|BODY_6|0
+the appropriate definitions|DT JJ NNS|BODY_3|0
+a top-down set|DT JJ NN|BODY_8|0
+the larger sphere|DT JJR NN|BODY_7|0
+a lower bound|DT JJR VBN|BODY_3|0
+every primitive interpretation|DT JJ NN|BODY_11|0
+a bottom-up set|DT JJ NN|BODY_3|0
+a simple box|DT JJ NN|BODY_5|0
+the convergence properties|DT NN NNS|BODY_2|0
+the two concepts|DT CD NNS|BODY_8|0
+the associated theorems|DT JJ NNS|BODY_3|0
+many modelling systems|JJ JJ NNS|BODY_1|0
+a and pass|DT CC NN|BODY_5|0
+the overlap area|DT JJ NN|BODY_9|0
+let fi 1|VB NN CD|BODY_3|0
+a  b|DT JJ NN|BODY_8|0
+new bounding functions|JJ NN NNS|BODY_3|0
+their corresponding object|PRP$ JJ NN|BODY_5|0
+these two hulls|DT CD NNS|BODY_2|0
+the original form|DT JJ NN|BODY_24|0
+a fixed-point 7|DT JJ CD|BODY_2|0
+the same sort|DT JJ NN|BODY_5|0
+the tree correspond|DT NN NN|BODY_2|0
+all arguments t|DT NNS NN|BODY_20|0
+simultaneous constraints increases|JJ NNS NNS|BODY_7|0
+the child nodes|DT NN NNS|BODY_7|0
+the active zones|DT JJ NNS|BODY_4|0
+the main results|DT JJ NNS|BODY_3|0
+figure 2( b|NN JJ NN|BODY_1|0
+the largest area|DT JJS NN|BODY_6|0
+the two-dimensional case|DT JJ NN|BODY_5|0
+b and c|NN CC NN|BODY_8|0
+the same shape|DT JJ NN|BODY_16|0
+two finite bounds|CD JJ NNS|BODY_2|0
+' generality '|'' NN ''|BODY_3|0
+, and then|, CC RB|BODY_10|0
+a simpler tree|DT JJR NN|BODY_10|0
+most ) n|RBS -RRB- NN|BODY_11|0
+a parent node|DT NN NN|BODY_10|0
+a class k|DT NN NN|BODY_3|0
+an entire paper|DT JJ NN|BODY_5|0
+these other types|DT JJ NNS|BODY_2|0
+a 'window '|DT NN POS|BODY_4|0
+the general case|DT JJ NN|BODY_1:BODY_14|0
+a theoretical limitation|DT JJ NN|BODY_2|0
+the u operation|DT NN NN|BODY_3|0
+the horizontal bar|DT JJ NN|BODY_5|0
+the resulting bounds|DT VBG NNS|BODY_6|0
+( e .g.|-LRB- NN NN|BODY_26|0
+an upward pass|DT JJ NN|BODY_5|0
+an immediate subtree|DT JJ NN|BODY_5|0
+this intersection set|DT NN NN|BODY_4|0
+a convenient label|DT JJ NN|BODY_3|0
+a csg description|DT JJ NN|BODY_2|0
+the total set|DT JJ NN|BODY_2|0
+1 ) ,|CD -RRB- ,|BODY_4|0
+the primitive polygons|DT JJ NNS|BODY_4|0
+the appropriate alignment|DT JJ NN|BODY_12|0
+a syntactic structure|DT JJ NN|BODY_4|0
+the interesting parts|DT JJ NNS|BODY_7|0
+a simple tree|DT NN NN|BODY_1|0
+figure 9 shows|NN CD NNS|BODY_1|0
+boundary evaluation )|NN NN -RRB-|BODY_8|0
+a ) )|DT -RRB- -RRB-|BODY_8|0
+the far end|DT JJ NN|BODY_10|0
+the practical implementations|DT JJ NNS|BODY_1|0
+one dimensional lines|CD JJ NNS|BODY_3|0
+a \psi node|DT NNS NN|BODY_15|0
+the bound system|DT JJ NN|BODY_4|0
+the one-dimensional example|DT JJ NN|BODY_1|0
+boolean algebra )|JJ NN -RRB-|BODY_10|0
+all the nodes|PDT DT NNS|BODY_12|0
+the proper principle|DT JJ NN|BODY_1|0
+these sphere operators|DT NN NNS|BODY_1|0
+5.4 theoretical aspects|CD JJ NNS|BODY_1|0
+f ( x|NN -LRB- SYM|BODY_1|0
+our csg modeller|PRP$ NN NN|BODY_1|0
+the operator x|DT NN NN|BODY_11|0
+each node t|DT NN IN|BODY_9|0
+the two subtrees|DT CD NNS|BODY_14|0
+a consistent manner|DT JJ NN|BODY_6|0
+the lattice infimum|DT NN NN|BODY_10|0
+this paper )|DT NN -RRB-|BODY_5|0
+geometric modelling systems|JJ JJ NNS|BODY_9|0
+an alternative possibility|DT JJ NN|BODY_1|0
+desirable computational properties|JJ JJ NNS|BODY_7|0
+this tc-bf system|DT JJ NN|BODY_6|0
+a double-bounded interpretation|DT JJ NN|BODY_1|0
+pass/down pass pairs|NN NN NNS|BODY_1|0
+any such algebra|DT JJ NN|BODY_7|0
+the two bars|DT CD NNS|BODY_16|0
+appropriate dimensionality )|JJ NN -RRB-|BODY_10|0
+7.1 double bounds|CD JJ NNS|BODY_1|0
+the originals spheres|DT NNS NNS|BODY_9|0
+figure 7(d )|NN JJ -RRB-|BODY_1|0
+! n )|. NN -RRB-|BODY_9|0
+5.2.3 prism bounds|CD NN NNS|BODY_1|0
+such a restriction|PDT DT NN|BODY_1|0
+some final value|DT JJ NN|BODY_8|0
+such a bound|JJ DT JJ|BODY_4|0
+simple shapes [11]|JJ NNS NN|BODY_6|0
+3 related work|CD JJ NN|BODY_1|0
+figure 1(e )|NN JJ -RRB-|BODY_7|0
+6 double bounds|CD JJ NNS|BODY_1|0
+3 infinite half-spaces|CD JJ NNS|BODY_1|0
+the waist joint|DT NN NN|BODY_1|0
+the bound operators|DT JJ NNS|BODY_1|0
+these new operators|DT JJ NNS|BODY_8|0
+these other operators|DT JJ NNS|BODY_7|0
+a node 11|DT NN CD|BODY_11|0
+the final set|DT JJ NN|BODY_6|0
+all smaller interpretations|DT JJR NNS|BODY_6|0
+the upward pass|DT JJ NN|BODY_4|0
+totally consistent )|RB JJ -RRB-|BODY_14|0
+the other hand|DT JJ NN|BODY_1|0
+the notation f|DT NN NN|BODY_1|0
+[12 , 7]|CD , CD|BODY_8|0
+the theoretical underpinnings|DT JJ NNS|BODY_5|0
+the natural order|DT JJ NN|BODY_1|0
+multiple bf systems|JJ NN NNS|BODY_9|0
+the obvious operators|DT JJ NNS|BODY_1|0
+a three-dimensional example|DT JJ NN|BODY_1|0
+our usual order|PRP$ JJ NN|BODY_1|0
+all possible bounds|DT JJ NNS|BODY_11|0
+5 applying tc-bounds|CD VBG NNS|BODY_1|0
+the appropriate principles|DT JJ NNS|BODY_1|0
+the bf fi|DT NN NN|BODY_8|0
+1 non-null leaf|CD JJ NN|BODY_6|0
+no new null|DT JJ NN|BODY_12|0
+the outer bounds|DT JJ NNS|BODY_7|0
+the detailed geometry|DT JJ NN|BODY_6|0
+two interlocking 'combs|CD JJ NNS|BODY_3|0
+the normal idea|DT JJ NN|BODY_1|0
+a good tc-bf.|DT JJ NN|BODY_6|0
+the general form|DT JJ NN|BODY_1|0
+the best fit|DT JJS NN|BODY_10|0
+5.4.2 relative consistency|CD JJ NN|BODY_1|0
+a different order|DT JJ NN|BODY_2|0
+other bounding functions|JJ JJ NNS|BODY_1|0
+that non-standard bounds|DT JJ NNS|BODY_5|0
+totally consistent bounds|RB JJ NNS|BODY_1|0
+figure 1( b|NN JJ NN|BODY_1|0
+nice algebraic properties|JJ JJ NNS|BODY_5|0
+the difference case|DT NN NN|BODY_12|0
+the preferred alignment|DT JJ NN|BODY_8|0
+smaller consistent bounds|JJR JJ NNS|BODY_5|0
+a geometric significance|DT JJ NN|BODY_10|0
+a preprocessing stage|DT JJ NN|BODY_6|0
+consider figure 6|VB NN CD|BODY_1|0
+the intersected region|DT JJ NN|BODY_9|0
+the merging property|DT VBG NN|BODY_7|0
+the other circles|DT JJ NNS|BODY_1|0
+the intersection set|DT NN NN|BODY_5|0
+another tc-bf function|DT JJ NN|BODY_7|0
+the convex hull|DT NN NN|BODY_8|0
+become null-bounded [4]|VBN JJ NN|BODY_20|0
+the bounds|DT NNS|BODY_6:BODY_11:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+the rules|DT NNS|BODY_5:BODY_28:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0

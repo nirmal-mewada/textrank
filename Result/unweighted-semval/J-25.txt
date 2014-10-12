@@ -1,0 +1,223 @@
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8:BODY_9|7
+securities|NNS|BODY_6:BODY_11:BODY_5:TITLE_4:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|2
+the auctioneer|DT NN|BODY_6:BODY_12:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|2
+that|WDT|BODY_6:BODY_5:ABSTRACT_6:BODY_15:BODY_1:BODY_3:BODY_14:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+the adversary|DT NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+one|CD|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4|0
+all|DT|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|1
+which|WDT|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+each|DT|BODY_5:BODY_16:BODY_15:BODY_2:BODY_1:BODY_3:BODY_19:BODY_4:BODY_29:BODY_8|0
+c|NN|BODY_5:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+agents|NNS|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+bids|NNS|BODY_6:BODY_11:BODY_5:ABSTRACT_4:BODY_15:BODY_1:BODY_3:BODY_4|1
+a matching|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+(|-LRB-|BODY_6:BODY_12:ABSTRACT_5:BODY_21:BODY_1:BODY_3:BODY_10:BODY_8|0
+a set|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+the auctioneer |DT NN|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|1
+a âˆ § b|DT JJ NN NN|BODY_11:BODY_13:BODY_7|0
+either 0 or 1|DT CD CC CD|BODY_3:BODY_4:BODY_7|0
+the matching problem|DT NN NN|BODY_12:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|1
+a compound securities market|DT NN NNS NN|ABSTRACT_3:ABSTRACT_1:BODY_4|0
+the number and complexity|DT NN CC NN|BODY_9|0
+the corresponding payoff vectors|DT JJ NN NNS|BODY_1|0
+all the available securities|PDT DT JJ NNS|BODY_3|0
+some necessary background information|DT JJ NN NN|BODY_2|0
+the resulting incentive properties|DT VBG NN NNS|BODY_2|0
+at most 2 variables|IN JJS CD NNS|BODY_12:BODY_3|0
+buy and sell orders|NN CC VB NNS|BODY_3:BODY_4|0
+a payoff vector î¥|DT NN NN NN|BODY_3|0
+the form q units|DT NN NN NNS|BODY_3|0
+a state space â„¦|DT NN NN NN|BODY_2|0
+a particular price )|DT JJ NN -RRB-|BODY_7|0
+the 2n possible combinations|DT JJ JJ NNS|BODY_2|0
+risk|NN|BODY_6:BODY_5:ABSTRACT_4:BODY_3:BODY_8|0
+î¥ = î¥ a1a2a3|IN SYM IN NNS|BODY_2|0
+the n base events|DT NN NN NNS|BODY_7|0
+at most 3 variables|IN JJS CD NNS|BODY_7|0
+one unit|CD NN|BODY_6:BODY_18:BODY_2:BODY_1:BODY_14:BODY_4:BODY_10|0
+the combinatorial auctioneer corresponds|DT JJ NN NNS|BODY_2|0
+â· âˆ ¨ ak|NN JJ JJ JJ|BODY_5|0
+idea futures markets [16]|NN NNS NNS NNS|BODY_15|0
+the same price/payoff behavior|DT JJ NN NN|BODY_4:BODY_9|0
+2. single negative events|DT JJ JJ NNS|BODY_1|0
+in different complexity classes|RB JJ NN NNS|BODY_2|0
+the resulting reasonable strategies|DT VBG JJ NNS|BODY_1|0
+this î£p 2-complete hardness|DT NN JJ NN|BODY_1|0
+ordinary sequential trading breaks|JJ JJ NN NNS|BODY_3|0
+social and behavioral sciences-economics|JJ CC JJ NNS|ABSTRACT_8|0
+all the potential causes|PDT DT JJ NNS|BODY_6|0
+january 4 , 2004|JJ CD , CD|BODY_18:BODY_7|0
+the indivisible matching problem|DT JJ NN NN|BODY_2|0
+2.1 background and notation|CD NN CC NN|BODY_2|0
+at least 2 securities|IN JJS CD NNS|BODY_10|0
+î¥1 = âˆ’0.3 ,âˆ’0.3|RB SYM CD NNS|BODY_2|0
+observations 3 and 4|NNS CD CC CD|BODY_8|0
+î¥1 = âˆ’0.4 ,âˆ’0.4|RB SYM CD NNS|BODY_2|0
+each cheap security costs|DT JJ NN NNS|BODY_3|0
+this last objective function|DT JJ JJ NN|BODY_2|0
+$ 0 iff ï†|$ CD NN NN|BODY_4|0
+substitutability and complementarity relationships|NN CC NN NNS|BODY_2|0
+no clear dividing line|DT JJ NN NN|BODY_6|0
+âˆ ’ 3 5|JJR NN CD CD|BODY_7|0
+( x1 âˆ §|-LRB- CD NN NN|BODY_11|0
+1 8q ) +|CD NN -RRB- NN|BODY_20|0
+the most recent person|DT RBS JJ NN|BODY_15|0
+a market scoring rule|DT NN NN NN|BODY_3|0
+a joint probability distribution|DT JJ NN NN|BODY_2|0
+a corresponding base security|DT JJ NN NN|BODY_5|0
+the two matching problems|DT CD VBG NNS|BODY_9|0
+â· âˆ § zn|NN JJ JJ NN|BODY_8:BODY_9|0
+the class î£p 2|DT NN NN CD|BODY_4|0
+both np and conp.|DT NN CC NN|BODY_3|0
+complexity-nonnumerical algorithms and problems|JJ NNS CC NNS|ABSTRACT_6|0
+constant absolute risk aversion|JJ JJ NN NN|BODY_4|0
+the compound-security matching problem|DT NN NN NN|BODY_4|0
+the resulting combinatorial exchange|DT VBG JJ NN|BODY_5|0
+the buyer and settings|DT NN CC NNS|BODY_5|0
+three variables and c2|CD NNS CC NN|BODY_3|0
+the central auctioneer problem|DT JJ NN NN|BODY_1|0
+december 31 , 2003|NN CD , CD|BODY_12|0
+the securities market framework|DT NNS NN NN|BODY_5|0
+the cash and securities|DT NN CC NNS|BODY_5|0
+subscripts ( e .g.|NNS -LRB- NN NN|BODY_3|0
+every other base event|DT JJ NN NN|BODY_5|0
+( î±i > 0)|-LRB- NNS NN NN|BODY_2|0
+âˆ’( q + q|JJ NN NN NN|BODY_11:BODY_22|0
+false ( 0 )|JJ -LRB- CD -RRB-|BODY_4|0
+only 2n linearly-independent securities|RB CD JJ NNS|BODY_2|0
+the orders and z|DT NNS CC NN|BODY_9|0
+â¯b âˆ ¨ c|NN JJ NN NN|BODY_14|0
+a much different framework|DT JJ JJ NN|BODY_2|0
+all meaningful future outcomes|DT JJ JJ NNS|BODY_2|0
+a total nonpositive auctioneer |DT JJ JJ NN|BODY_16|0
+a complex matching problem|DT JJ NN NN|BODY_4|0
+the divisible matching problem|DT JJ NN NN|BODY_3|0
+the number or complexity|DT NN CC NN|BODY_10|0
+î¥ ï‰ auc )|JJ NN NN -RRB-|BODY_10|0
+a âˆ § b)|DT NN IN IN|BODY_12|0
+a smaller securities market|DT JJR NNS NN|BODY_8|0
+a subjective expected profit|DT JJ JJ NN|BODY_3|0
+arbitrarily many base events|RB JJ JJ NNS|BODY_5|0
+the existence or nonexistence|DT NN CC NN|BODY_5|0
+âˆ § y )|VBN JJ NN -RRB-|BODY_5|0
+the above constraint )|DT JJ NN -RRB-|BODY_4|0
+0. q > q|CD NN NN NN|BODY_13|0
+such atomic securities .1|JJ JJ NNS NNS|BODY_5|0
+a corresponding binary event|DT JJ JJ NN|BODY_5|0
+p such that x|NN JJ IN NN|BODY_7|0
+some state ek not|DT NN NN RB|BODY_2|0
+more than 3 variables|JJR IN CD NNS|BODY_5|0
+the latter hardness result|DT NN NN NN|ABSTRACT_2|1
+all the other securities|PDT DT JJ NNS|BODY_5|0
+an appropriate linear program|DT JJ JJ NN|BODY_6|0
+the orders and ï„|DT NNS CC NN|BODY_3|0
+at least one î±i|IN JJS CD RB|BODY_7|0
+their own subjective probabilities|PRP$ JJ JJ NNS|BODY_2|0
+an instance ( x|DT NN -LRB- NNP|BODY_2|0
+$ 1 iff acme |$ CD NN NN|BODY_4|0
+( .5 âˆ ’|-LRB- CD NN NN|BODY_4|0
+the ci or c|DT NNS CC NN|BODY_4|0
+the ( possibly state-contingent|DT -LRB- RB NN|BODY_6|1
+the âˆ’î¥ ï‰ i|DT JJ NN NN|BODY_5|0
+their optimal risk exposure|PRP$ JJ NN NN|ABSTRACT_7|0
+a very high degree|DT RB JJ NN|BODY_4|0
+every negated variable â¯xi|DT JJ JJ NN|BODY_4|0
+a finan144 cial exchange|DT CD JJ NN|BODY_3|0
+infinitely many atomic securities|RB JJ JJ NNS|BODY_4|0
+all possible future outcomes|DT JJ NN NNS|BODY_1|0
+the 22n compound events|DT CD NN NNS|BODY_9|0
+a complete market form|DT JJ NN NN|BODY_3|0
+a common transaction price|DT JJ NN NN|BODY_2|0
+2(|clauses| ) < 1|CD -RRB- NN CD|BODY_7|0
+the material balance constraint|DT JJ NN NN|BODY_1|0
+polynomially many base events|RB JJ JJ NNS|BODY_7|0
+bids 1 , 3|NNS CD , CD|BODY_2|0
+the corresponding payoff vector|DT JJ NN NN|BODY_1|0
+a âˆ § â¯b|DT JJ NN NN|BODY_8|0
+efficient pricing and allocation|JJ NN CC NN|BODY_5|0
+the respective negated disjuncts|DT JJ JJ NNS|BODY_7|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+some variable , xi|DT JJ , NN|BODY_3|0
+linearly independent financial instruments-securities|JJ JJ JJ NNS|BODY_2|0
+o( 2n ) space|JJ JJ -RRB- NN|BODY_5|0
+both a and b|DT DT CC NN|BODY_5|0
+variable payoffs and prices|JJ NNS CC NNS|BODY_6|0
+the first two bids|DT JJ CD NNS|BODY_11|0
+a more natural way|DT RBR JJ NN|BODY_1|0
+a nonempty proper subset|DT JJ JJ NN|BODY_4|0
+a cheap security sc|DT JJ NN NN|BODY_6|0
+the following two forms|DT VBG CD NNS|BODY_5|0
+the single security ï†|DT JJ NN NN|BODY_4|0
+formal definitions and examples|JJ NNS CC NNS|ABSTRACT_6|0
+the full payoff vectors|DT JJ NN NNS|BODY_4|0
+either s2 or s3|DT NN CC NN|BODY_3|0
+the optimal buying strategy|DT JJ NN NN|BODY_3|0
+( auctioneer alternatives ii|-LRB- NN NNS NNS|BODY_1|0
+a or b occurs|DT CC NN VBZ|BODY_7|0
+many cases or approximate|JJ NNS CC NN|BODY_6|0
+any hedge or speculation|DT NN CC NN|BODY_6|0
+no fully rational buyer|DT RB JJ NN|BODY_3|0
+every ïˆj and ï„|DT NN CC NN|BODY_6|0
+only exactly q units|RB RB VBN NNS|BODY_3|0
+$ 0.2 â€ ¢|$ CD VBZ RB|BODY_5|0
+( â¯wi âˆ§wi+1 )|-LRB- NN NN -RRB-|BODY_4|0
+the four disjoint states|DT CD JJ NNS|BODY_4|0
+all the cheap securities|PDT DT JJ NNS|BODY_4|0
+the most straightforward formulation|DT RBS JJ NN|BODY_5|0
+the payoff î¥ ï‰|DT NN NN NN|BODY_1|0
+a1a2|a1 âˆ ¨ a2|DT JJ NN NN|BODY_7|0
+a single s security|DT JJ VBZ NN|BODY_14|0
+2 another reasonable variation|CD DT JJ NN|BODY_1|0
+)u î¥ ï‰ auc|NNP NNP IN NN|BODY_10|0
+a heuristically derived answer|DT RB VBN NN|BODY_5|0
+section 4 briefly discusses|NN CD NN NNS|BODY_1|0
+various possible future states|JJ JJ JJ NNS|BODY_4|0
+3 or fewer variables|CD CC JJR NNS|BODY_7|0
+|â„¦ | and |s||NN NN CC NN|BODY_1|0
+the input ( x|DT NN -LRB- NN|BODY_1|0
+a new auxiliary variable|DT JJ JJ JJ|BODY_13|0
+all i and j|DT NN CC NN|BODY_8|0
+just on individual goods|RB IN JJ NNS|BODY_6|0
+the problem|DT NN|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_4|1
+a tiny positive quantity|DT JJ JJ NN|BODY_41|0
+each clause c âˆˆ|DT NN NN NN|BODY_1|0
+the same cost )|DT JJ NN -RRB-|BODY_12|0
+the reduced linear program|DT JJ NN NN|BODY_4|0
+all corresponding payoff vectors|DT JJ NN NNS|BODY_4|0
+a base security q|DT NN NN NN|BODY_2|0
+a simple case analysis|DT JJ NN NN|BODY_1|0
+divisible and indivisible orders|JJ CC JJ NNS|BODY_2|0
+each existential variable xi|DT JJ JJ NN|BODY_1|0
+only the securities market|RB DT NNS NN|BODY_3|0
+q + q >|RB JJ RB NN|BODY_8|0
+a compound security a|b|DT NN NN NNS|BODY_17|0
+its most general form|PRP$ JJS JJ NN|BODY_1|0
+|c | = q|NNP NNP SYM NN|BODY_2|0
+at least one security|IN JJS NN NN|BODY_7|0
+the polynomial-time hierarchy collapses|DT NN NN NNS|BODY_1|0
+( trade maximization problem|-LRB- NN NN NN|BODY_1|0
+an acme stock option|DT NN NN NN|BODY_1|0
+both c1 and c2|DT NNS CC NNS|BODY_7|0
+a slightly messier argument|DT RB RBR NN|BODY_1|0
+( â¯xi âˆ§q )|-LRB- NN NN -RRB-|BODY_2|0
+all the s securities|PDT DT VBZ NNS|BODY_3|0
+divisible or indivisible orders|JJ CC JJ NNS|BODY_1|0
+no truly complete market|DT RB JJ NN|BODY_1|0
+compound securities|NN NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4|0
+1|CD|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+the buyer|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+the securities|DT NNS|BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|1
+the divisible case|DT JJ NN|BODY_5:ABSTRACT_4:BODY_2:BODY_4:BODY_7:BODY_8|0
+an exponential number|DT JJ NN|BODY_6:BODY_4:BODY_10:BODY_7|0
+s|VBZ|BODY_13:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7|0
+the number|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+example|NN|BODY_5:BODY_1|0
+they|PRP|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|1
+x|NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_1:BODY_2:BODY_14:BODY_8|0
+î¥ ï‰ auc|JJ NN NN|BODY_11:BODY_5:BODY_3:BODY_9|0
+a and b|DT CC NN|BODY_5:BODY_16:BODY_4|0
+a match|DT NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3|0
+n expensive securities|RB JJ NNS|BODY_3:BODY_4|0
+orders|NNS|BODY_15:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0

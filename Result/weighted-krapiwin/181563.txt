@@ -1,0 +1,447 @@
+an approach|DT NN|TITLE_1:ABSTRACT_3:BODY_4|1
+communication-efficient data redistribution|JJ NNS NN|ABSTRACT_4:TITLE_2|0
+we|PRP|BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|5
+data redistribution|NNS NN|BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_20|3
+the communication cost|DT NN NN|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+arrays|NNS|BODY_5:ABSTRACT_5:BODY_3:BODY_4:BODY_8|0
+regular data distributions|JJ NNS NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3|0
+the intel ipsc/860|DT NN NN|ABSTRACT_2:BODY_2|0
+an analytical model|DT JJ NN|ABSTRACT_3:BODY_3|0
+data parallel languages|NNS JJ NNS|ABSTRACT_3|1
+the distributed-memory implementation|DT JJ NN|ABSTRACT_2|1
+high performance fortran|JJ NN NN|ABSTRACT_4|1
+the analytical model|DT JJ NN|ABSTRACT_2|0
+this algebraic representation|DT JJ NN|ABSTRACT_1|0
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_21:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+fi d|JJ NN|BODY_6:BODY_5:BODY_11:BODY_3:BODY_8|0
+it|PRP|BODY_6:BODY_11:BODY_2:BODY_1:BODY_3|0
+processors|NNS|BODY_12:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_9|0
+permutations|NNS|BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+that|WDT|BODY_6:BODY_5:BODY_2|1
+0|CD|BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+processor q|NN NN|BODY_2:BODY_3:BODY_9|0
+terms|NNS|BODY_11:BODY_2:BODY_3:BODY_4|2
+the distribution basis|DT NN NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_4|0
+q(fis|NN|BODY_6:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+each processor|DT NN|BODY_6:BODY_2:BODY_3:BODY_7|1
+the vector basis e|DT JJ NN NN|BODY_13:BODY_1:BODY_2:BODY_3:BODY_7|0
+the distribution bases|DT NN NNS|BODY_5:BODY_13:BODY_2:BODY_1:BODY_14:BODY_7|0
+a processor|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+the communication|DT NN|BODY_2:BODY_1:BODY_3:BODY_9|2
+the total communication cost|DT JJ NN NN|BODY_6:BODY_4:BODY_8|1
+the difference|DT NN|BODY_5:BODY_1:BODY_3:BODY_10:BODY_7|0
+the redistribution|DT NN|BODY_5:BODY_1:BODY_2:BODY_4:BODY_8|0
+the time|DT NN|BODY_5:BODY_15:BODY_3:BODY_4|0
+a( i )|IN NN -RRB-|BODY_5:BODY_15:BODY_4:BODY_8:BODY_9|0
+the sequence|DT NN|BODY_6:BODY_1:BODY_2:BODY_3|1
+the number|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+fi d ) permutations|JJ NN -RRB- NNS|BODY_5:BODY_4:BODY_7:BODY_8|1
+the tensor product|DT NN NN|BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+fi d )|JJ NN -RRB-|BODY_12:BODY_5:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
++bs|NNS|BODY_6:BODY_5:BODY_4:BODY_7:BODY_9|0
+the array|DT NN|BODY_22:BODY_1:BODY_2:BODY_3:BODY_10:BODY_7|0
+the tensor basis|DT JJ NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+a message|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|0
+a|DT|BODY_2:BODY_3|0
+the data redistribution|DT NNS NN|BODY_5:BODY_16:BODY_2:BODY_8|0
+l s2|JJ NN|BODY_5:BODY_3:BODY_10|0
+communication efficient data redistribution|NN JJ NNS NN|BODY_5|1
+the lowest communication cost|DT JJS NN NN|BODY_2:BODY_4|0
+the tensor product representation|DT NN NN NN|BODY_1:BODY_2:BODY_4|0
+the total cost|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_7|0
+each|DT|BODY_6:BODY_5:BODY_3:BODY_4|0
+section 3.1|NN CD|BODY_2:BODY_10:BODY_7:BODY_9|0
+a sequence|DT NN|BODY_12:BODY_5:BODY_2:BODY_4|0
+the cost|DT NN|BODY_15:BODY_1:BODY_3:BODY_4|0
+the size|DT NN|BODY_6:BODY_12:BODY_5:BODY_1:BODY_3|0
+the single-phase data redistribution|DT JJ NNS NN|BODY_2:BODY_1:BODY_9|0
+data|NNS|BODY_6:BODY_12:BODY_2:BODY_7:BODY_8|0
+fi l l s2|JJ JJ JJ NN|BODY_2:BODY_1|0
+redistribution|NN|BODY_5:BODY_1:BODY_8|0
+the multi-phase redistribution strategy|DT JJ NN NN|BODY_3:BODY_4|0
+the index|DT NN|BODY_12:BODY_6:BODY_2:BODY_7|0
+example|NN|BODY_6:BODY_1:BODY_10|0
+the tensor product theory|DT NN NN NN|BODY_2|0
+all processors ir p\gammab|DT NNS NN NN|BODY_5:BODY_4|0
+fi l l d2|JJ JJ JJ NN|BODY_6:BODY_5:BODY_11:BODY_3|0
+the corresponding distribution bases|DT JJ NN NNS|BODY_2|0
+s|VBZ|BODY_4:BODY_8:BODY_9|1
+a base r representation|DT NN NN NN|BODY_7|0
+a regular data distribution|DT JJ NNS NN|BODY_5:BODY_2|0
+distributions|NNS|BODY_3:BODY_7|0
+the two-phase redistribution strategy|DT JJ NN NN|BODY_2|0
+a multi-dimensional array|DT JJ NN|BODY_12:BODY_2:BODY_4|0
+template element d(i )|NN NN NN -RRB-|BODY_4|0
+ae 8 ps\omega e|JJ CD JJ NN|BODY_2|0
+the target distribution basis|DT NN NN NN|BODY_4|0
+a single address space|DT JJ NN NN|BODY_2|0
+distribution basis fi i|NN NN JJ IN|BODY_3|0
+l ps\omega e bs|JJ JJ NN NNS|BODY_4|0
+the target distribution bases|DT NN NN NNS|BODY_13:BODY_10|0
+fig|NN|BODY_12:BODY_1:BODY_2|1
+nasa lewis research center|NN NN NN NN|BODY_4|0
+the tuple ( p|DT NN -LRB- NN|BODY_3|0
+each array dimension changes|DT NN NN NNS|BODY_3|0
+the processor index function|DT NN NN NN|BODY_5|0
+( hpf ) [6]|-LRB- NN -RRB- NN|BODY_2|0
+all possible input distributions|DT JJ NN NNS|BODY_2|0
+some data redistribution strategies|DT NNS NN NNS|BODY_1|0
+the two phase strategy|DT CD NN NN|BODY_2|0
+distribution basis fi i+1|NN NN JJ NNS|BODY_4|0
+the data|DT NNS|BODY_5:BODY_13:BODY_10:BODY_8|0
+the underlying mesh architecture|DT VBG JJ NN|BODY_4|0
+a 27 element array|DT CD NN NN|BODY_4|0
+the single-phase redistribution corresponds|DT JJ NN NNS|BODY_4|0
+at most two messages|IN JJS CD NNS|BODY_3|0
+the inter-processor data communication|DT NN NNS NN|BODY_2|0
+a communication cost model|DT NN NN NN|BODY_2:BODY_1|0
+element a( i )|NN NN IN -RRB-|BODY_6:BODY_11|0
+dist ) distribution basis|NN -RRB- NN NN|BODY_3|0
+the factorized tensor bases|DT VBN NN NNS|BODY_5|0
+the difference and union|DT NN CC NN|BODY_11|0
+table 1( b )|NN JJ NN -RRB-|BODY_1:BODY_4|0
+the tensor product notation|DT NN NN NN|BODY_2|0
+l 2\omega l s2|JJ JJ JJ NNS|BODY_10|0
+the resulting tensor basis|DT VBG JJ NN|BODY_7|0
+the first method costs|DT JJ NN NNS|BODY_1|0
+a different data distribution|DT JJ NNS NN|BODY_21|0
+fi d ) corresponds|JJ NN -RRB- NNS|BODY_2|0
++v 1 r b|NNP CD NN NN|BODY_12|0
+the data index sets|DT NNS NN NNS|BODY_3|0
+separate the distribution bases|JJ DT NN NNS|BODY_11|0
+the first phase accesses|DT JJ NN NNS|BODY_4|0
+l d21\omega e bs|NN JJ NN NNS|BODY_7|0
+arbitrary block-cyclic data distributions|JJ JJ NNS NNS|BODY_3|0
+\gammab|PRP|BODY_5:BODY_11:BODY_4:BODY_7|0
+processor bases and ae|NN NNS CC NNS|BODY_5|0
+t\omega \delta\omega oe n|JJ JJ NN NN|BODY_10|0
+a linear data array|DT JJ NNS NN|BODY_3|0
+a virtual processor array|DT JJ NN NN|BODY_4|0
+the appropriate data basis|DT JJ NNS NN|BODY_3|0
+the intermediate distributions|DT JJ NNS|BODY_3|1
+the total startup cost|DT JJ NN NN|BODY_4|0
+(|-LRB-|BODY_11:BODY_5:BODY_4:BODY_9|0
+the processor|DT NN|BODY_6:BODY_3:BODY_4:BODY_9|0
+the intel ipsc/860 show|DT NN NN NN|BODY_2|0
+) bs figure 3|-RRB- NNS NN CD|BODY_2|0
++l s2 r b|JJ NNS NN NN|BODY_13|0
+at most r b|IN JJS NN NN|BODY_10|0
+all possible multi-phase strategies|DT JJ JJ NNS|BODY_5|0
+the communication cost model|DT NN NN NN|BODY_1|0
+a general cyclic( bs|DT JJ NN NNS|BODY_1|0
+the actual communication time|DT JJ NN NN|BODY_5|0
+the message startup times|DT NN NN NNS|BODY_5|0
+the tensor basis ae|DT NN NN NNS|BODY_5|0
+the presented cost model|DT VBN NN NN|BODY_4|0
+24 l|CD NN|BODY_5:BODY_3:BODY_7|0
+the largest communication cost|DT JJS NN NN|BODY_5|0
+an abstract processor array|DT JJ NN NN|BODY_4|0
+the initial distribution basis|DT JJ NN NN|BODY_2|0
+a local index b|DT JJ NN NN|BODY_7|0
+the actual array parameters|DT JJ NN NNS|BODY_1|0
+the intermediate data distribution|DT JJ NNS NN|BODY_1|0
+the virtual processor array|DT JJ NN NN|BODY_3|0
+the tensor basis e|DT NN NN NN|BODY_4|0
+the distribution bases difference|DT NN NNS NN|BODY_4|0
+intermediate data distri- butions|JJ NNS NNS NNS|BODY_5|0
+index and distribution functions|NN CC NN NNS|BODY_7|0
+the following loop nest|DT VBG NN NN|BODY_5|0
+a communication matrix c|DT NN NN NN|BODY_5|0
+at most four messages|IN JJS CD NNS|BODY_5|0
+3.1 perfect power data|CD JJ NN NNS|BODY_1|0
+l l l d22|JJ JJ JJ NNS|BODY_3|0
+the distribution function dist|DT NN NN NN|BODY_1|0
+a multi-phase redistribution strategy|DT JJ NN NN|BODY_4|0
+the two distribution bases|DT CD NN NNS|BODY_6:BODY_1|0
+the following indexing functions|DT JJ NN NNS|BODY_5|0
+vector bases e m|JJ NNS NN NN|BODY_3|0
+the indexing code generation|DT NN NN NN|BODY_3|0
+the above example|DT JJ NN|BODY_1:BODY_14|1
+l 12 l l|JJ CD JJ JJ|BODY_9|0
+the source distribution basis|DT NN NN NN|BODY_1|0
+a linear processor array|DT JJ NN NN|BODY_4|0
+the first factorization corresponds|DT JJ NN NNS|BODY_1|0
+e r c|NN NN NN|BODY_2:BODY_4:BODY_8:BODY_9|0
+the vector basis 5|DT NN NN CD|BODY_4|0
+r ts p te|JJ NNS NN NN|BODY_5|0
+position i and zeros|NN NN CC NNS|BODY_5|0
+the maximum communication time|DT JJ NN NN|BODY_1|0
+the message setup time|DT NN NN NN|BODY_1|0
+the multi-phase strategy corresponds|DT JJ NN NNS|BODY_1|0
+the regular distribution bases|DT JJ NN NNS|BODY_1|0
+the following optimization problem|DT VBG NN NN|BODY_5|0
+the appropriate intermediate distributions|DT JJ JJ NNS|BODY_3|0
+the other cases|DT JJ NNS|BODY_2:BODY_7|0
+the remaining cost estimates|DT VBG NN NNS|BODY_12|0
+the intermediate data distributions|DT JJ NNS NNS|BODY_1|0
+the required commu- nication|DT JJ NNS NN|BODY_6|0
+4 communication-efficient data redistribution|CD JJ NNS NN|BODY_1|0
+the underlying physical network|DT JJ JJ NN|BODY_7|0
+the local index|DT JJ NN|BODY_6:BODY_3:BODY_8|0
+the second factorization corresponds|DT JJ NN NNS|BODY_1|0
+the two-phase redistribution corresponds|DT JJ NN NNS|BODY_1|0
+the first data redistribution|DT JJ NNS NN|BODY_1|0
+) l and local(fid|-RRB- NN CC NN|BODY_1|0
+such a tensor basis|PDT DT NN NN|BODY_1|0
+p|NN|BODY_5:BODY_17:BODY_19:BODY_4|0
+the largest message size|DT JJS NN NN|BODY_1|0
+ts|NNS|BODY_13:BODY_2:BODY_3:BODY_9|0
+l|JJ|BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+bs|NNS|BODY_5:BODY_1:BODY_3:BODY_9|0
+block figure 1|NN NN CD|BODY_19|1
+cyclic target distribution|JJ NN NN|BODY_18|1
+permutation f-;a ;s|NN NN NNS|BODY_10|1
+p processors|NN NNS|BODY_15:BODY_13:BODY_2|0
+a perfect power|DT JJ NN|BODY_5:BODY_8|0
+the vector basis|DT JJ NN|BODY_5:BODY_2:BODY_3|0
+the path length|DT NN NN|BODY_6:BODY_18|0
+the two-phase strategy|DT JJ NN|BODY_5:BODY_1|0
+the vector bases|DT NN NNS|BODY_2:BODY_7|0
+l l s2|JJ JJ NN|BODY_2:BODY_4|0
+0 and \delta\omega|CD CC JJ|BODY_11:BODY_10|0
+a processor basis|DT NN NN|BODY_4:BODY_8|0
+algorithm 1|NN LS|BODY_6:BODY_5:BODY_2:BODY_8|0
+a linear array|DT JJ NN|BODY_2|0
+the redistribution cost|DT NN NN|BODY_2:BODY_10|0
+the factorization 4|DT NN CD|BODY_3|0
+single-phase data redistribution|JJ NNS NN|BODY_6:BODY_11:BODY_4|0
+a data size|DT NN NN|BODY_5:BODY_4|0
+the transmission cost|DT NN NN|BODY_3|0
+cyclic( 256 )|JJ CD -RRB-|BODY_6:BODY_5|0
+the intermediate distribution|DT JJ NN|BODY_2|0
+the two strategies|DT CD NNS|BODY_2:BODY_1|0
+a two-level mapping|DT JJ NN|BODY_2|0
+each array dimension|DT NN NN|BODY_2|0
+the actual parameters|DT JJ NNS|BODY_3|0
+the actual values|DT JJ NNS|BODY_3|0
+the smallest cost|DT JJS NN|BODY_2|0
+two vector bases|CD NN NNS|BODY_2|0
+the processor sets|DT NN NNS|BODY_2:BODY_4|0
+l l l|JJ JJ JJ|BODY_5:BODY_2|0
+8 ps\omega e|CD JJ NN|BODY_6:BODY_4|0
+n|NN|BODY_2:BODY_3|0
+all source processors|DT NN NNS|BODY_2|0
+runtime array redistribution|NN NN NN|BODY_2|0
+the optimal partition|DT JJ NN|BODY_2|0
+these routing techniques|DT NN NNS|BODY_2|0
+the case|DT NN|BODY_6:BODY_2|0
+two tensor bases|CD NN NNS|BODY_2:BODY_3|0
+array|NN|BODY_2:BODY_1|0
+one step|CD NN|BODY_3:BODY_4|0
+the processor basis|DT NN NN|BODY_1:BODY_3:BODY_4|0
+a mesh-connected computer|DT JJ NN|BODY_3|0
+each permutation|DT NN|BODY_6:BODY_5:BODY_1|0
+)|-RRB-|BODY_6:BODY_14:BODY_4:BODY_7|0
+the single-phase strategy|DT NN NN|BODY_2:BODY_3|0
+fi 2 )|JJ CD -RRB-|BODY_11:BODY_4|0
+communication|NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_9|0
+processor u|NN PRP|BODY_15:BODY_2:BODY_9|0
+the total times|DT JJ NNS|BODY_2:BODY_3|0
+a 32-node intel|DT JJ NN|BODY_7|0
+this section|DT NN|BODY_2:BODY_8|0
+two-phase( 2 )|JJ CD -RRB-|BODY_4|0
+the factorization|DT NN|BODY_1:BODY_3:BODY_4|0
+the indexing time|DT NN NN|BODY_2|0
+processor|NN|BODY_16:BODY_2|0
+the redistribution communication|DT NN NN|BODY_6:BODY_7|0
+ffl data redistribution|JJ NNS NN|BODY_2|0
+the entire arrays|DT JJ NNS|BODY_7|0
+a second redistribution|DT JJ NN|BODY_8|0
+block-cyclically distributed arrays|RB VBN NNS|BODY_3|0
+the target distribution|DT NN NN|BODY_1:BODY_9|0
+e 2 0|NN CD CD|BODY_10|0
+the processor index|DT NN NN|BODY_5:BODY_4|0
+message transmission cost|NN NN NN|BODY_5|0
+l l d2|NN NN NN|BODY_2:BODY_8|0
+the array sections|DT NN NNS|BODY_5|0
+a one-dimensional array|DT JJ NN|BODY_5|0
+the array elements|DT NN NNS|BODY_11:BODY_20|0
+the total number|DT JJ NN|BODY_1:BODY_7|0
+access|NN|BODY_5:BODY_2|0
+invertible index expressions|JJ NN NNS|BODY_5|0
+a processor communicates|DT NN NNS|BODY_4|0
+the data communication|DT NNS NN|BODY_3|0
+two two-phase strategies|CD JJ NNS|BODY_4|0
+a fortran-90 ex|DT CD FW|BODY_3|0
+mod bs pbs|JJ NNS NNS|BODY_9|0
+the following sequence|DT VBG NN|BODY_2|0
+data arrays|NNS NNS|BODY_2:BODY_3|0
+q1 and q2|NNS CC NNS|BODY_7|0
+compatible tensor bases|JJ NN NNS|BODY_3|0
+a column vector|DT NN NN|BODY_2|0
+these aligned arrays|DT VBN NNS|BODY_11|0
+different factor- izations|JJ NNS NNS|BODY_2|0
+the second phase|DT JJ NN|BODY_6:BODY_7|0
+the largest size|DT JJS NN|BODY_5|0
+a processor ba|DT NN FW|BODY_6|0
+their access patterns|PRP$ NN NNS|BODY_19|0
+three contention-free steps|CD JJ NNS|BODY_8|0
+closed forms|JJ NNS|BODY_6:BODY_2:BODY_3|0
+0 1 )|CD CD -RRB-|BODY_3|0
+local index function|JJ NN NN|BODY_7|0
+global index function|JJ NN NN|BODY_8|0
+hpf array statements|JJ NN NNS|BODY_2|0
+2 l 12|CD JJ CD|BODY_14:BODY_8|0
+a fixed number|DT JJ NN|BODY_6:BODY_2:BODY_7:BODY_8|0
+the index functions|DT NN NNS|BODY_2|0
+the square parenthesis|DT NN NN|BODY_10|0
+the data re-distribution|DT NNS NN|BODY_2|0
+matrix and b|NN CC NN|BODY_5|0
+a cartesian grid|DT JJ NN|BODY_2|0
+a 3 \theta|DT CD NN|BODY_2|0
+a multiplicative partition|DT JJ NN|BODY_16:BODY_7|0
+contention-free steps|JJ NNS|BODY_3:BODY_7:BODY_8:BODY_9|0
+the absence|DT NN|BODY_3:BODY_4:BODY_7|0
+element a( i|NN NN NN|BODY_2|0
+cyclic( 8 )|JJ CD -RRB-|BODY_6|0
+the source node|DT NN NN|BODY_10|0
+all the data|DT DT NNS|BODY_4|0
+performs data redistribution|NNS NNS NN|BODY_2|0
+the remapping ae|DT VBG NNS|BODY_5|0
+all data bases|DT NNS NNS|BODY_2|0
+the second requires|DT JJ VBZ|BODY_4|0
+two phases|CD NNS|BODY_2:BODY_3|0
+a value 0|DT NN CD|BODY_5|0
+the multi-phase redistribution|DT JJ NN|BODY_2|0
+a fixed set|DT JJ NN|BODY_6|0
+the processor bases|DT NN NNS|BODY_3|0
+the interprocessor communication|DT NN NN|BODY_3|0
+the cost model|DT NN NN|BODY_1|0
+r 2 ts|NN CD NNS|BODY_3|0
+6 s1\omega e|CD JJ NN|BODY_4|0
+a similar argument|DT JJ NN|BODY_1|0
+the second costs|DT JJ NNS|BODY_3|0
+these comput- ers|DT NNS NNS|BODY_3|0
+x and y|NN CC NN|BODY_3|0
+e 4 corresponds|NN CD NNS|BODY_13:BODY_7|0
+an integer r|DT NN NN|BODY_6|0
+a block distribution|DT NN NN|BODY_3:BODY_4|0
+the maximum number|DT JJ NN|BODY_3:BODY_4|0
+all the elements|PDT DT NNS|BODY_2|0
+the network contention|DT NN NN|BODY_2:BODY_7|0
+tions , q0|NNS , CD|BODY_6|0
+\delta\omega oe n|JJ NN NN|BODY_9|0
+cyclic( 16 )|JJ CD -RRB-|BODY_7|0
+every vector basis|DT NN NN|BODY_6|0
+the distribution|DT NN|BODY_2:BODY_3|0
+the two phases|DT CD NNS|BODY_3|0
+the largest number|DT JJS NN|BODY_1:BODY_4|0
+a shared array|DT VBN NN|BODY_20|0
+the redistribution method|DT NN NN|BODY_4|0
+s11 r b|CD NN NN|BODY_11|0
+the general case|DT JJ NN|BODY_2|0
+q|NN|BODY_6:BODY_11:BODY_3|0
+a non-perfect-power data|DT NN NNS|BODY_8|0
+preliminary performance results|JJ NN NNS|BODY_1|0
+) system space|-RRB- NN NN|BODY_12|0
+ffl network contention|NN NN NN|BODY_9|0
+the dominant component|DT JJ NN|BODY_2|0
+a data basis|DT NN NN|BODY_9|0
+global in- dices|JJ JJ NNS|BODY_7|0
+the destination node|DT NN NN|BODY_11|0
+a cyclic distribution|DT JJ NN|BODY_4|0
+a local index|DT JJ NN|BODY_3|0
+a i ;j|DT NN NN|BODY_6:BODY_5|0
+compatible distribution bases|JJ NN NNS|BODY_8|0
+fi d corresponds|NN NN NNS|BODY_3|0
+the single-phase redistribution|DT JJ NN|BODY_5:BODY_1|0
+the distributed array|DT VBN NN|BODY_9|0
+the advanced concepts|DT JJ NNS|BODY_2|0
+various interconnection networks|JJ NN NNS|BODY_5|0
+only the distribution|RB DT NN|BODY_2|0
+transfer time (te|NN NN NN|BODY_14|0
+an array|DT NN|BODY_1:BODY_2:BODY_3|0
+a global index|DT JJ NN|BODY_3|0
+the source distribution|DT NN NN|BODY_5|0
+the block matrix|DT NN NN|BODY_3|0
+data distributions|NNS NNS|BODY_5:BODY_3|0
+the two-phase strategies|DT JJ NNS|BODY_3|0
+data index set|NNS NN NN|BODY_14:BODY_8|0
+processor local indices|NN JJ NNS|BODY_10|0
++bs similar evaluation|RB JJ NN|BODY_6|0
+l+( ( 0|NN -LRB- CD|BODY_4|0
+a two-dimensional array|DT JJ NN|BODY_5|0
+non-consecutive data elements|JJ NNS NNS|BODY_6|0
+l bs pbs|NN NNS NNS|BODY_6|0
+the communication bandwidth|DT NN NN|BODY_17|0
+several other pairs|JJ JJ NNS|BODY_12|0
+the communication c|DT NN NN|BODY_4|0
+a total size|DT JJ NN|BODY_5|0
+a source processor|DT NN NN|BODY_3|0
+the local address|DT JJ NN|BODY_14:BODY_8|0
+one|CD|BODY_4:BODY_9|0
+the corresponding functions|DT JJ NNS|BODY_4|0
+a given source|DT VBN NN|BODY_7|0
+\theta r bs|NN JJ NNS|BODY_4|0
+a required communication|DT JJ NN|BODY_7|0
+all possible factorizations|DT JJ NNS|BODY_3|0
+the second method|DT JJ NN|BODY_1|0
+r b|NN NN|BODY_3:BODY_7|0
+cyclic figure 4|NN NN CD|BODY_3|0
+block target distribution|NN NN NN|BODY_2|0
+cost metrics|NN NNS|BODY_4|0
+a distinct processor|DT JJ NN|BODY_8|0
+startup time (ts|JJ NN NNS|BODY_4|0
+a specific example|DT JJ NN|BODY_2|0
+a and b|DT CC NN|BODY_2|0
+perfect power data|JJ NN NNS|BODY_7|0
+larger data sizes|JJR NNS NNS|BODY_1|0
+simple regular sections|JJ JJ NNS|BODY_5|0
+the basis union|DT NN NN|BODY_6|0
+the local memory|DT JJ NN|BODY_6|0
+the k-phase redistribution|DT NN NN|BODY_2|0
+two and difference|CD CC NN|BODY_6|0
+that processor q|DT NN NN|BODY_4|0
+all the messages|PDT DT NNS|BODY_7|0
+no redundant messages|DT JJ NNS|BODY_6|0
+a template d|DT JJ NN|BODY_3|0
+data redistribu- tion|NNS NNS NN|BODY_7|0
+order number|NN NN|BODY_4:BODY_9|0
+a distribution basis|DT NN NN|BODY_5:BODY_1|0
+the above analysis|DT JJ NN|BODY_1|0
+the multidimensional array|DT JJ NN|BODY_4|0
+the redistribution strategy|DT NN NN|BODY_1|0
+a mesh network|DT NN NN|BODY_5|0
+the two-phase redistribution|DT JJ NN|BODY_4|0
+a block fashion|DT NN NN|BODY_10|0
+the mapping|DT NN|BODY_2:BODY_4|0
+the total time|DT JJ NN|BODY_1|0
+the data array|DT NNS NN|BODY_5|0
+the union u(fi1|DT NN NNS|BODY_3|0
+introduction distributed-memory machines|NN JJ NNS|BODY_1|0
+the previous discussion|DT JJ NN|BODY_2|0
+the global index|DT JJ NN|BODY_7|0
+b d bs|NN JJ NNS|BODY_4|0
+processors ir p\gammab|NNS NN NN|BODY_5|0
+the required communication|DT VBN NN|BODY_11:BODY_1|0
+the r c|DT NN NN|BODY_7|0
+a template|DT NN|BODY_2:BODY_3|0
+vector basis e|NN NN NN|BODY_7|0
+block size three|NN NN CD|BODY_2|0
+the special case|DT JJ NN|BODY_14|0
+the total size|DT JJ NN|BODY_6|0
+a programming model|DT NN NN|BODY_1|0
+network con- tention|NN NNS NN|BODY_7|0
+( ( bd|-LRB- -LRB- NN|BODY_10|0
+the underlying topology|DT JJ NN|BODY_1|0
+= p \theta|SYM NN NN|BODY_7|0
+a( 0|DT CD|BODY_2|0
+the necessary communication|DT JJ NN|BODY_3|0
+the array columns|DT NN NNS|BODY_3|0
+a multi-phase strategy|DT JJ NN|BODY_3|0
+a tensor basis|DT JJ NN|BODY_1|0
+a multidimensional array|DT JJ NN|BODY_2|0
+the array rows|DT NN NNS|BODY_3|0
+the first redistribution|DT JJ NN|BODY_1|0
+the two approaches|DT CD NNS|BODY_2|0
+processor r b|NN NN NN|BODY_4|0
+the data distributions|DT NNS NNS|BODY_11|0
+the use|DT NN|BODY_1:BODY_3:BODY_4|0
+cyclic distribution|JJ NN|BODY_12:BODY_2|0
+identical communication times|JJ NN NNS|BODY_3|0
+these indexing functions|DT NN NNS|BODY_1|0
+the source|DT NN|BODY_19:BODY_9|0
+l l 12|JJ JJ CD|BODY_7|0
+4 cor- responds|CD NNS NNS|BODY_3|0
+fixed routing rules|JJ NN NNS|BODY_13|0
+the other processors|DT JJ NNS|BODY_4|0

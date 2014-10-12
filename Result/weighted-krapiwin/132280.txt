@@ -1,0 +1,709 @@
+that|WDT|BODY_12:BODY_11:BODY_22:BODY_17:BODY_13:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_7:BODY_8:BODY_9|3
+models|NNS|BODY_12:BODY_11:BODY_15:ABSTRACT_2:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8|1
+a methodology and formalism|DT NN CC NN|ABSTRACT_2:BODY_4|0
+physical modeling and reasoning|JJ NN CC NN|ABSTRACT_5:BODY_3|0
+multiple , cooperative models|JJ , JJ NNS|BODY_5:ABSTRACT_3|0
+there|EX|BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+a multimodel methodology|DT JJ NN|TITLE_1|0
+qualitative model engineering|JJ NN NN|TITLE_2|0
+either analyzing or reasoning|DT NN CC NN|ABSTRACT_5|0
+the aims and approaches|DT NNS CC NNS|ABSTRACT_1|0
+a uniform language|DT JJ NN|ABSTRACT_4|0
+building intelligent machines|NN JJ NNS|ABSTRACT_4|0
+theory and methodology|NN CC NN|ABSTRACT_3|0
+artificial intelligence domain|JJ NN NN|ABSTRACT_2|0
+the simulation communities|DT NN NNS|ABSTRACT_3|0
+we|PRP|BODY_6:BODY_11:BODY_5:BODY_17:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|11
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+which|WDT|BODY_6:BODY_5:BODY_17:BODY_18:BODY_27:BODY_13:BODY_3:BODY_10:BODY_4|2
+water|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the boiling water system|DT VBG NN NN|BODY_18:BODY_2:BODY_1:BODY_3|1
+an important special case|DT JJ JJ NN|BODY_5|1
+a common state space|DT JJ NN NN|BODY_8|1
+a more careful statement|DT JJR JJ NN|BODY_2|1
+sample questions and answers|NN NNS CC NNS|BODY_3|1
+9 and 10 respectively|CD CC CD RB|BODY_10|1
+informally specified system components|RB VBN NN NNS|BODY_7|1
+an fsa-controlled multimodel|DT JJ JJ|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|2
+a discrete event simulation|DT JJ NN NN|BODY_6:BODY_2|0
+a discrete event model|DT JJ NN NN|BODY_3:BODY_4|0
+a more detailed representation|DT RBR JJ NN|BODY_2|0
+the commonalities and points|DT NNS CC NNS|BODY_2|0
+the boiling water domain|DT VBG NN NN|BODY_6:BODY_2|0
+combined continuous/discrete event models|VBN JJ NN NNS|BODY_6:BODY_3|0
+the total state set|DT JJ NN VBD|BODY_17:BODY_2|0
+the discrete event form|DT JJ NN NN|BODY_4|0
+a cold not cold|DT JJ RB JJ|BODY_12|0
+such a multi-layer system|JJ DT JJ NN|BODY_3|0
+the most abstract levels|DT RBS JJ NNS|BODY_2|0
+only the information present|RB DT NN NN|BODY_2|0
+a landmark  [21]|DT NN NN NN|BODY_6|0
+39] and simulation [21]|NN CC NN NN|BODY_7|0
+figure model refinement procedure|NN NN NN NN|BODY_5|0
+one input or control|CD NN CC NN|BODY_2|0
+fk heating figure 8|JJ NN NN CD|BODY_4|0
+the 2 state automaton|DT CD NN NN|BODY_6|0
+exp ( explanation )|NN -LRB- NN -RRB-|BODY_6|0
+the hierarchical system structure|DT JJ NN NN|BODY_2|0
+a priori knowledge base|DT JJ NN NN|BODY_3|0
+a more efficient simulation|DT RBR JJ NN|BODY_5|0
+a future event list|DT JJ NN NN|BODY_7|0
+a flat  structure|DT JJ NN NN|BODY_3|0
+how certain simulation methods|WRB JJ NN NNS|BODY_4|0
+the causal modeling method|DT JJ NN NN|BODY_4|0
+water ) or startphaseone|NN -RRB- CC NN|BODY_13|0
+' f ' performs|'' NN '' NNS|BODY_2|0
+the time and state|DT NN CC NN|BODY_3|0
+diag ( diagnostic )|NN -LRB- JJ -RRB-|BODY_5|0
+such high level models|JJ JJ NN NNS|BODY_3|0
+the human modeller (|DT JJ NN -LRB-|BODY_2|0
+a strong knowledge representation|DT JJ NN NN|BODY_3|0
+h f ( height|JJ NN -LRB- NN|BODY_6|0
+a potential event location|DT JJ NN NN|BODY_3|0
+a state variable denotes|DT NN JJ NNS|BODY_2|0
+an integrated model base|DT JJ NN NN|BODY_11|0
+an elapsed time e|DT JJ NN NN|BODY_23|0
+the otherwise the phase|DT RB DT NN|BODY_12|0
+the state vector )|DT NN NN -RRB-|BODY_6|0
+one level match components|CD NN NN NNS|BODY_4|0
+a cost effective way|DT NN JJ NN|BODY_2|0
+the pc board model|DT JJ NN NN|BODY_2|0
+the suggested multi-model approach|DT VBN JJ NN|BODY_2|0
+segmentation and partition criteria|NN CC NN NNS|BODY_2|0
+hw and figure 12|NN CC NN CD|BODY_3|0
+) and simulation communities|-RRB- CC NN NNS|BODY_7|0
+an existing knowledge base|DT VBG NN NN|BODY_3|0
+our model engineering process|PRP$ NN NN NN|BODY_3|0
+cognitive and linguistic links|JJ CC JJ NNS|BODY_9|0
+the start and end|DT NN CC NN|BODY_3|0
+type  petri net |NN RB NN JJ|BODY_4|0
+a discrete updating process|DT JJ VBG NN|BODY_5|0
+the same continuous model|DT JJ JJ NN|BODY_3|0
+the transitions c p;p0|DT NNS NN NN|BODY_7|0
+a lumped  state|DT JJ JJ NN|BODY_7|0
+a methodology and formalisms|DT NN CC NNS|BODY_2|0
+the resulting devs formalism|DT VBG JJ NN|BODY_3|0
+hf=ht underflow overflow cold|JJ JJ JJ NN|BODY_6|0
+a strong cognitive mapping|DT JJ NN NN|BODY_6|0
+the functional block knowledge|DT JJ NN NN|BODY_2|0
+their simgen [17] system|PRP$ JJ NN NN|BODY_5|0
+our knowledge base approach|PRP$ NN NN NN|BODY_1|0
+the above model types|DT JJ NN NNS|BODY_3|0
+the gasp modeling language|DT NN VBG NN|BODY_3|0
+the simulation literature [32|DT NN NN NNS|BODY_1|0
+the continuous model level|DT JJ NN NN|BODY_15|0
+six state automaton controller|CD NN JJ NN|BODY_8|0
+y z tdtg fig|NN FW JJ NN|BODY_8|0
+the devs&dess formalism [30]|DT NN NN NN|BODY_3|0
+oe oe oe overflow|NN NN NN NN|BODY_5|0
+a first order lag|DT JJ NN NN|BODY_10|0
+t ( temperature )|NN -LRB- NN -RRB-|BODY_3|0
+oe oe oe underflow|NN NN NN NN|BODY_6|0
+how three state variables|WRB CD NN NNS|BODY_2|0
+all possible input functions|DT JJ NN NNS|BODY_5|0
+the new model starts|DT JJ NN NNS|BODY_7|0
+c ) boiling phase|NN -RRB- VBG NN|BODY_11|0
+the value 4:2 (|DT NN CD -LRB-|BODY_8|0
+the appropriate formal models|DT JJ JJ NNS|BODY_7|0
+time and state space|NN CC NN NN|BODY_10|0
+the latent heat effect|DT JJ NN NN|BODY_6|0
+two distinct model types|CD JJ NN NNS|BODY_3|0
+the transitions and activations|DT NNS CC NNS|BODY_3|0
+both input and phase|DT NN CC NN|BODY_3|0
+the sequential state set|DT JJ NN VBD|BODY_15|0
+a detailed mathematical model|DT JJ JJ NN|BODY_2|0
+a devs spec- ification|DT JJ NNS NN|BODY_6|0
+the next section )|DT JJ NN -RRB-|BODY_7|0
+the design and execution|DT NN CC NN|BODY_3|0
+( i=off and f|-LRB- NN CC NN|BODY_4|0
+the common state set|DT JJ NN NN|BODY_15|0
+the purpose and goals|DT NN CC NNS|BODY_3|0
+a finite state automaton|DT JJ NN NN|BODY_6|0
+some basic philosophical questions|DT JJ JJ NNS|BODY_4|0
+the fsa and qm|DT NN CC NN|BODY_14|0
+the canonical systems definition|DT JJ NNS NN|BODY_6|0
+a common state set|DT JJ NN NN|BODY_4|0
+a very hard problem|DT RB JJ NN|BODY_8|0
+the boiling water example|DT VBG NN NN|BODY_3|0
+the internal event transitions|DT JJ NN NNS|BODY_2|0
+qualitative and quantitative modeling|JJ CC JJ NN|BODY_3|0
+its external transition function|PRP$ JJ NN NN|BODY_6|0
+a ) heating phase|DT -RRB- NN NN|BODY_6|0
+an autonomous robot )|DT JJ NN -RRB-|BODY_5|0
+the more symbolic levels|DT JJR JJ NNS|BODY_7|0
+one functional block level|CD JJ NN NN|BODY_5|0
+both detailed mathematical models|DT JJ JJ NNS|BODY_2|0
+a model 2 models|DT NN CD NNS|BODY_17|0
+a combined continuous/discrete-event model|DT VBN NN NN|BODY_1|0
+a more complete discussion|DT RBR JJ NN|BODY_1|0
+fishwick and zeigler [15]|NN CC NN NN|BODY_4|0
+more than one condition|RBR IN CD NN|BODY_4|0
+the boiling water process|DT NN NN NN|BODY_4|0
+the system formalism [41]|DT NN NN NN|BODY_4|0
+the personality and knowledge|DT NN CC NN|BODY_4|0
+each transition ( pair|DT NN -LRB- NN|BODY_26|0
+a second level abstraction|DT JJ NN NN|BODY_2|0
+linguistic and cognitive pieces|JJ CC JJ NNS|BODY_5|0
+the high abstraction level|DT JJ NN NN|BODY_4|0
+the second level fsa|DT JJ NN NN|BODY_6|0
+discrete and continuous behaviors|JJ CC JJ NNS|BODY_5|0
+the knowledge base schemata|DT NN NN NN|BODY_2|0
+a larger service process|DT JJR NN NN|BODY_17|0
+the lowest abstraction/aggregation level|DT JJS NN NN|BODY_6|0
+a single server queue|DT JJ NN NN|BODY_5|0
+the common state space|DT JJ NN NN|BODY_7|0
+model based reasoning [34]|NN VBN NN NNS|BODY_9|0
+a devs equivalent [41]|DT JJ JJ NNS|BODY_6|0
+hotter ) water boiling|JJR -RRB- NN VBG|BODY_8|0
+system structure and behavior|NN NN CC NN|BODY_8|0
+a diagnostic question yields|DT JJ NN NNS|BODY_1|0
+the external transition function|DT JJ NN NN|BODY_16|0
+the discrete event simulation|DT JJ NN NN|BODY_3|0
+basic physical system properties|JJ JJ NN NNS|BODY_4|0
+visually sensed previous occurrences|RB VBN JJ NNS|BODY_5|0
+a system theoretic manner|DT NN JJ NN|BODY_4|0
+a more concrete representation|DT JJR JJ NN|BODY_2|0
+a more advanced robot|DT RBR JJ NN|BODY_1|0
+a stepwise refinement process|DT NN NN NN|BODY_16|0
+its model base [45]|PRP$ NN NN NNS|BODY_6|0
+ref ( reference )|NN -LRB- NN -RRB-|BODY_7|0
+this the devs model|DT DT JJ NN|BODY_1|0
+the phase overf low|DT NN RP JJ|BODY_5|0
+such a devs-scheme [43]|JJ DT NN NN|BODY_5|0
+the more restricted case|DT RBR JJ NN|BODY_1|0
+a phase and q|DT NN CC NN|BODY_7|0
+a human domain expert|DT JJ NN NN|BODY_4|0
+the internal transition function|DT JJ NN NN|BODY_24|0
+a specific time t|DT JJ NN NN|BODY_7|0
+the currently active submodel|DT RB JJ NN|BODY_5|0
+such an fsa-controlled multimodel|PDT DT JJ NN|BODY_1|0
+the devs specification language|DT NNS NN NN|BODY_5|0
+four possible model types|CD JJ NN NNS|BODY_14|0
+m6 m3 heating i=off|CD CD NN NN|BODY_1|0
+the same system description|DT JJ NN NN|BODY_5|0
+the canonical model definition|DT JJ NN NN|BODY_1|0
+a gasp language extension|DT NN NN NN|BODY_4|0
+designing and executing multi-models|VBG CC VBG NNS|BODY_6|0
+the time advance function|DT NN NN NN|BODY_4|0
+different knowledge representation levels|JJ NN NN NNS|BODY_10|0
+a good continuous model|DT JJ JJ NN|BODY_1|0
+the input induced phase|DT NN VBN NN|BODY_1|0
+a given phase p|DT VBN NN NN|BODY_20|0
+the event switch statement|DT NN NN NN|BODY_7|0
+our modeling and analysis|PRP$ JJ CC NN|BODY_5|0
+a functional block level|DT JJ NN NN|BODY_6|0
+3.7 discrete event simulation|CD JJ NN NN|BODY_1|0
+question answering and choice|NN NN CC NN|BODY_1|0
+a single level graph|DT JJ NN NN|BODY_2|0
+a block network orientation|DT NN NN NN|BODY_12|0
+the event identification procedure|DT NN NN NN|BODY_4|0
+a lower abstraction level|DT JJR NN NN|BODY_12|0
+whose structure and parameters|WP$ NN CC NNS|BODY_4|0
+the functional block level|DT JJ NN NN|BODY_11|0
+the individual fsa levels|DT JJ NN NNS|BODY_1|0
+the parameter h t|DT NN NN NN|BODY_1|0
+a definite boundary crossing|DT JJ NN NN|BODY_5|0
+more efficient discrete-event simulation|RBR JJ NN NN|BODY_28|0
+the same block formalism|DT JJ NN NN|BODY_5|0
+intensional and contextual knowledge|JJ CC JJ NN|BODY_3|0
+a printed circuit board|DT VBN NN NN|BODY_2|0
+the model relation points|DT NN NN NNS|BODY_1|0
+the state , q|DT NN , NN|BODY_8|0
+a more detailed formalization|DT RBR JJ NN|BODY_1|0
+events|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_7|1
+the system|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4|1
+state transition model|NN NN NN|BODY_2|1
+the state trajectory|DT NN NN|BODY_6:BODY_2|1
+an important class|DT JJ NN|BODY_1|1
+general systems theory|JJ NNS NN|BODY_4|1
+events and partitions|NNS CC NNS|BODY_3|1
+the underflow state|DT JJ NN|BODY_7|1
+a and b|DT CC NN|BODY_5|1
+the following routines|DT JJ NNS|BODY_3|1
+the switch statements|DT NN NNS|BODY_7|1
+use qualitative models|NN NN NNS|BODY_2|1
+the temperature increases|DT NN NNS|BODY_4|1
+certain modeling methods|JJ NN NNS|BODY_4|1
+the component models|DT NN NNS|BODY_7|1
+the model approaches|DT NN NNS|BODY_3|1
+the devs structure|DT JJ NN|BODY_1|1
+a and b.|DT CC VBG|BODY_7|1
+an important facet|DT JJ NN|BODY_1|1
+high autonomy systems|JJ NN NNS|BODY_7|1
+the presented multimodel|DT VBN JJ|BODY_5|1
+definite cognitive associations|JJ NN NNS|BODY_3|1
+a particular model|DT JJ NN|BODY_14|1
+a top-down approach|DT JJ NN|BODY_5|1
+the query system|DT NN NN|BODY_1|1
+the model|DT NN|BODY_12:BODY_6:BODY_5:BODY_18:BODY_1:BODY_4:BODY_7:BODY_8|0
+the multimodel|DT JJ|BODY_5:BODY_22:BODY_2:BODY_3:BODY_4:BODY_8:BODY_20|0
+the input|DT NN|BODY_11:BODY_5:BODY_1:BODY_3:BODY_8:BODY_9|0
+instance|NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+a system|DT NN|BODY_5:BODY_3:BODY_10:BODY_7:BODY_9|2
+this|DT|BODY_1:BODY_3|3
+the transition function|DT NN NN|BODY_16:BODY_2:BODY_3|0
+the output function|DT NN NN|BODY_2|0
+a model|DT NN|BODY_5:BODY_11:BODY_1:BODY_3:BODY_4|0
+two possible values|CD JJ NNS|BODY_12:BODY_2|0
+the devs formalism|DT NN NN|BODY_5:BODY_23:BODY_1|0
+the transfer function|DT NN NN|BODY_2:BODY_3|0
+a phase|DT NN|BODY_11:BODY_2:BODY_3:BODY_4:BODY_8|1
+the original system|DT JJ NN|BODY_5:BODY_2|0
+the action tree|DT NN NN|BODY_5:BODY_2|0
+a devs representation|DT JJ NN|BODY_5:BODY_2|0
+the refinement process|DT NN NN|BODY_2:BODY_4|0
+discrete event models|JJ NN NNS|BODY_1:BODY_4:BODY_10|0
+the water|DT NN|BODY_11:BODY_2:BODY_10:BODY_7:BODY_8|1
+a phase graph|DT NN NN|BODY_2|0
+the general case|DT JJ NN|BODY_2:BODY_3|0
+the liquid level|DT JJ NN|BODY_2:BODY_1|0
+a given state|DT VBN NN|BODY_3|0
+a tie-breaking mechanism|DT NN NN|BODY_2|0
+finite state automata|JJ NN NN|BODY_3|0
+32] first implemented|JJ JJ VBN|BODY_2|0
+a detailed representation|DT JJ NN|BODY_2|0
+any system model|DT NN NN|BODY_2|0
+the term event |DT NN NN|BODY_2|0
+two or more|CD CC JJR|BODY_2|0
+the phase graph|DT NN NN|BODY_1:BODY_4|0
+zero , one|CD , CD|BODY_5|0
+the partition block|DT NN NN|BODY_6:BODY_3|0
+oe oe oe|NN NN NN|BODY_3:BODY_4|0
+a step-by-step generation|DT NN NN|BODY_2|0
+the other hand|DT JJ NN|BODY_2|0
+successive model states|JJ NN NNS|BODY_3|0
+the action hierarchy|DT NN NN|BODY_3:BODY_4|0
+the computational resources|DT JJ NNS|BODY_5|0
+a specific layer|DT JJ NN|BODY_3|0
+classical system theory|JJ NN NN|BODY_3|0
+more transition conditions|JJR NN NNS|BODY_6|0
+the classical theory|DT JJ NN|BODY_3:BODY_4|0
+the first phase|DT JJ NN|BODY_16|0
+event statement blocks|NN NN NNS|BODY_2|0
+the state set|DT NN VBN|BODY_4:BODY_8|0
+a continuous implementation|DT JJ NN|BODY_6|0
+the immediate cause|DT JJ NN|BODY_3|0
+a general system|DT JJ NN|BODY_4|0
+the systems literature|DT NNS NN|BODY_5|0
+a short answer|DT JJ NN|BODY_2|0
+qualitative physics [17]|JJ NNS NNS|BODY_8|0
+f underflow phase|NN JJ NN|BODY_18|0
+the minimum time|DT JJ NN|BODY_2|0
+the system phase|DT NN NN|BODY_3|0
+hotter or water|JJR CC NN|BODY_7|0
+the fsa-controlled multimodel|DT JJ NN|BODY_5|0
+the multimodel switches|DT JJ NNS|BODY_2|0
+all generalized capacitances|DT JJ NNS|BODY_6|0
+burnt _ underflow|JJ FW FW|BODY_5|0
+the modeling objectives|DT VBG NNS|BODY_3|0
+the block graph|DT NN NN|BODY_7|0
+the ai work|DT VBP NN|BODY_2|0
+the multimodel concept|DT JJ NN|BODY_3|0
+an articulated figure|DT JJ NN|BODY_4|0
+the ambient temperature|DT JJ NN|BODY_2|0
+a not cold|DT RB JJ|BODY_10|0
+a block diagram|DT NN NN|BODY_2|0
+discrete events [4|JJ NNS NNS|BODY_2|0
+the topmost fsa|DT JJ NN|BODY_5:BODY_1|0
+the topmost level|DT JJ NN|BODY_10|0
+fsa-2 and fsa-3|NN CC NN|BODY_1|0
+our refinement procedure|PRP$ NN NN|BODY_1|0
+the direct solution|DT JJ NN|BODY_1|0
+this differential equation|DT JJ NN|BODY_2|0
+attr isa isa|NN NN NN|BODY_8|0
+the various models|DT JJ NNS|BODY_5|0
+well known entities|RB VBN NNS|BODY_6|0
+inputs and outputs|NNS CC NNS|BODY_4|0
+the sudden change|DT JJ NN|BODY_12|0
+a devs specification|DT NN NN|BODY_2|0
+a , b|DT , NN|BODY_4|0
+generalized dynamical features|JJ JJ NNS|BODY_8|0
+finite state automaton |JJ NN NN|BODY_4|0
+a pot )|DT NN -RRB-|BODY_5|0
+two fundamental ways|CD JJ NNS|BODY_3|0
+i=on or i=off|IN CC NN|BODY_2|0
+devs ) [45]|NN -RRB- NN|BODY_3|0
+the formal structure|DT JJ NN|BODY_3|0
+attr part_of part_of|NN NN NN|BODY_7|0
+then the system|RB DT NN|BODY_3|0
+a simulation environment|DT NN NN|BODY_5|0
+a strong role|DT JJ NN|BODY_9|0
+the existing models|DT VBG NNS|BODY_2|0
+the following variables|DT VBG NNS|BODY_2|0
+a complex process|DT JJ NN|BODY_3|0
+such morphism concepts|JJ NN NNS|BODY_3|0
+the continuous models|DT JJ NNS|BODY_2:BODY_1|0
+informal system descriptions|JJ NN NNS|BODY_2|0
+a formal interpretation|DT JJ NN|BODY_2|0
+time or state|NN CC NN|BODY_7|0
+discrete event systems|JJ NN NNS|BODY_2|0
+a bouncing ball|DT NN NN|BODY_2|0
+a transition condition|DT NN NN|BODY_1:BODY_2|0
+a cross product|DT JJ NN|BODY_3|0
+efficient discrete-event sim|JJ NN FW|BODY_4|0
+thermal capacitance c|DT NN NN|BODY_2|0
+an arbitrary predicate|DT JJ NN|BODY_17|0
+all partition blocks|DT NN NNS|BODY_2|0
+1 ) create|CD -RRB- VBP|BODY_10|0
+a homomorphic relation|DT JJ NN|BODY_4|0
+a complex system|DT JJ NN|BODY_3|0
+the foaming activity|DT NN NN|BODY_3|0
+a scheduled event|DT VBN NN|BODY_6|0
+that gain control|WDT NN NN|BODY_4|0
+segmentation and partitioning|NN CC NN|BODY_2|0
+most system models|JJS NN NNS|BODY_8|0
+f figure 11|NN NN CD|BODY_4|0
+a figure 10|DT NN CD|BODY_7|0
+190 ffi c|CD JJ NN|BODY_5|0
+the model form|DT NN NN|BODY_10|0
+two more levels|CD JJR NNS|BODY_7|0
+qualitative reasoning [3|JJ NN NNS|BODY_6|0
+an ai problem|DT VBP NN|BODY_2|0
+the focal point|DT JJ NN|BODY_4|0
+further state refinement|JJ NN NN|BODY_4|0
+the pot water|DT NN NN|BODY_5|0
+a system affords|DT NN NNS|BODY_4|0
+hw ( height|NN -LRB- NN|BODY_4|0
+a reachability tree |DT NN NN|BODY_3|0
+the limiting value|DT VBG NN|BODY_3|0
+lower level states|JJR NN NNS|BODY_6|0
+addanki et al|NN NNP NN|BODY_7|0
+the term event|DT NN NN|BODY_5|0
+example model formalisms|NN NN NNS|BODY_3|0
+a complete model|DT JJ NN|BODY_5|0
+the following trajectories|DT VBG NNS|BODY_10|0
+good potential locations|JJ JJ NNS|BODY_2|0
+state and time|NN CC NN|BODY_7|0
+the same state|DT JJ NN|BODY_8|0
+more detailed models|JJR JJ NNS|BODY_4|0
+a shaded region|DT JJ NN|BODY_5|0
+the tie-breaking rules|DT NN NNS|BODY_2|0
+[42 , 32]|CD , CD|BODY_8|0
+the state transition|DT NN NN|BODY_2|0
+the capacitance law|DT NN NN|BODY_3|0
+integrator or delay|NN CC NN|BODY_5|0
+a data flow|DT NN NN|BODY_4|0
+the manifestation link|DT NN NN|BODY_4|0
+2 ) reason|CD -RRB- NN|BODY_12|0
+whose individual transitions|WP$ JJ NNS|BODY_5|0
+( boiling;on )|-LRB- NN -RRB-|BODY_8|0
+some difficult problems|DT JJ NNS|BODY_6|0
+the state variable|DT NN JJ|BODY_6|0
+forbus and falkenheiner|NN CC NN|BODY_4|0
+the artificial intelligence|DT JJ NN|BODY_6|0
+the external events|DT JJ NNS|BODY_2|0
+the fsa coordinator|DT NN NN|BODY_2|0
+a reached hypothesis|DT VBN NN|BODY_2|0
+homomorphic mapping insures|JJ NN NNS|BODY_3|0
+a continuous process|DT JJ NN|BODY_6|0
+these input values|DT NN NNS|BODY_5|0
+a combined model|DT VBN NN|BODY_1|0
+a deterministic system|DT JJ NN|BODY_3|0
+a internal transition|DT JJ NN|BODY_1|0
+different modeling methods|JJ JJ NNS|BODY_1|0
+generic phase graph|JJ NN NN|BODY_3|0
+hw and hw|NN CC NN|BODY_3|0
+the second level|DT JJ NN|BODY_1|0
+the two systems|DT CD NNS|BODY_9|0
+a typical element|DT JJ NN|BODY_1:BODY_2|0
+the cross product|DT JJ NN|BODY_9|0
+the simulation model|DT NN NN|BODY_5|0
+a step input|DT NN NN|BODY_11|0
+continuous state space|JJ NN NN|BODY_5|0
+the on=off input|DT NN NN|BODY_3|0
+a brief review|DT JJ NN|BODY_2|0
+simple causal models|JJ JJ NNS|BODY_4|0
+a formal specification|DT JJ NN|BODY_4|0
+a ha f|DT WP NN|BODY_10|0
+an accurate time|DT JJ NN|BODY_5|0
+continuous system formalisms|JJ NN NNS|BODY_3|0
+the thermal conductivity|DT JJ NN|BODY_9|0
+the absolute value|DT JJ NN|BODY_6|0
+informal system representations|JJ NN NNS|BODY_6|0
+2.2 model types|CD NN NNS|BODY_8|0
+heating element )|NN NN -RRB-|BODY_7|0
+recent ai literature|JJ VBP NN|BODY_3|0
+the heuristic approaches|DT JJ NNS|BODY_6|0
+model heat conduction|NN NN NN|BODY_2|0
+the basic primitives|DT JJ NNS|BODY_5|0
+next internal event|JJ JJ NN|BODY_4|0
+convection and radiation|NN CC NN|BODY_3|0
+the overflow state|DT JJ NN|BODY_3|0
+modeling and reasoning|NN CC NN|BODY_6|0
+a common set|DT JJ NN|BODY_3|0
+petri nets )|NN NNS -RRB-|BODY_10|0
+the state variables|DT NN NNS|BODY_5|0
+model complex systems|NN JJ NNS|BODY_7|0
+our simplified formalization|PRP$ JJ NN|BODY_4|0
+this physical system|DT JJ NN|BODY_4|0
+any additional knowledge|DT JJ NN|BODY_7|0
+a transition fires|DT NN NNS|BODY_8|0
+the heating element|DT NN NN|BODY_6|0
+a block model |DT NN NN|BODY_2|0
+several methods [12|JJ NNS NNS|BODY_19|0
+the burnt smell |DT NN NN|BODY_2|0
+a multimodel characterization|DT JJ NN|BODY_4|0
+the devs representation|DT NN NN|BODY_24|0
+the previous one|DT JJ NN|BODY_6|0
+the same refinement|DT JJ NN|BODY_6|0
+the next phase|DT JJ NN|BODY_2|0
+the old model|DT JJ NN|BODY_9|0
+( prediction )|-LRB- NN -RRB-|BODY_4|0
+analysis or simulation|NN CC NN|BODY_3|0
+nexttowaterfountain ( signifying|JJ -LRB- NN|BODY_8|0
+the petri net|DT NN NN|BODY_9|0
+the following assumptions|DT JJ NNS|BODY_2|0
+a general knowledge|DT JJ NN|BODY_2|0
+a useful form|DT JJ NN|BODY_2|0
+a wide range|DT JJ NN|BODY_4|0
+a comprehensive overview|DT JJ NN|BODY_4|0
+3 automata levels|CD NN NNS|BODY_4|0
+the internal transitions|DT JJ NNS|BODY_2|0
+f( x 2|NN NN CD|BODY_4|0
+an abstract model|DT JJ NN|BODY_2|0
+the formal correspondence|DT JJ NN|BODY_2|0
+some device ontologies|DT NN NNS|BODY_3|0
+a block graph|DT NN NN|BODY_7|0
+a continuous model|DT JJ NN|BODY_5:BODY_4|0
+the prevailing input|DT VBG NN|BODY_6|0
+the three levels|DT CD NNS|BODY_5|0
+the the phase|DT DT NN|BODY_9|0
+a sample state|DT NN NN|BODY_14|0
+the 3 levels|DT CD NNS|BODY_4|0
+the room wall|DT NN NN|BODY_3|0
+an autonomous agent|DT JJ NN|BODY_6|0
+unnatu- foam water|RB NN NN|BODY_4|0
+the metal pot|DT NN NN|BODY_4|0
+the default information|DT NN NN|BODY_11|0
+the current level|DT JJ NN|BODY_4|0
+the knowledge base|DT NN NN|BODY_6:BODY_1|0
+a queuing network|DT JJ NN|BODY_14|0
+an input variable|DT NN JJ|BODY_6|0
+the devs equivalent|DT NN NN|BODY_3|0
+our state variable|PRP$ NN NN|BODY_2|0
+a strong emphasis|DT JJ NN|BODY_10|0
+the above construction|DT JJ NN|BODY_2|0
+a conceptual framework|DT JJ NN|BODY_3|0
+the general formalism|DT JJ NN|BODY_10|0
+whose structural -rather|WP$ JJ JJ|BODY_8|0
+a conceptual foundation|DT JJ NN|BODY_2|0
+the t p\gamma?p0|DT NN NN|BODY_5|0
+the input argument|DT NN NN|BODY_5|0
+the following capabilities|DT VBG NNS|BODY_5|0
+a simplified model|DT JJ VB|BODY_13|0
+the partition blocks|DT NN NNS|BODY_7|0
+key system concepts|JJ NN NNS|BODY_4|0
+how causal models|WRB JJ NNS|BODY_4|0
+the water start|DT NN NN|BODY_6|0
+continuous models m|JJ NNS NN|BODY_3|0
+3.4 refinement refinement|CD NN NN|BODY_1|0
+equivalent model types|JJ NN NNS|BODY_5|0
+external ) transitions|JJ -RRB- NNS|BODY_2|0
+classical systems theory|JJ NNS NN|BODY_3|0
+an intelligent system|DT JJ NN|BODY_4|0
+) cold phase|-RRB- JJ NN|BODY_14|0
+a single level|DT JJ NN|BODY_6|0
+the proper level|DT JJ NN|BODY_13|0
+complicated boundary conditions|VBN NN NNS|BODY_4|0
+the heating model|DT NN NN|BODY_2|0
+classes and instances|NNS CC NNS|BODY_3|0
+this particular heuristic|DT JJ JJ|BODY_2|0
+( i .e|-LRB- FW FW|BODY_3|0
+more formal approaches|RBR JJ NNS|BODY_12|0
+a large selection|DT JJ NN|BODY_3|0
+a hierarchical organization|DT JJ NN|BODY_2|0
+its devs equivalent|PRP$ NN NN|BODY_4|0
+the following acronyms|DT VBG NNS|BODY_1|0
+the starting height|DT VBG NN|BODY_8|0
+some physical theory|DT JJ NN|BODY_3|0
+a petri net|DT NN NN|BODY_3|0
+heterogeneous inter-level coupling|JJ JJ NN|BODY_2|0
+homomorphic behavior preservation|JJ NN NN|BODY_3|0
+partition system components|NN NN NNS|BODY_4|0
+the total system|DT JJ NN|BODY_3|0
+abstract those features|JJ DT NNS|BODY_10|0
+one large model|CD JJ NN|BODY_4|0
+the quantitative information|DT JJ NN|BODY_2|0
+our example formulation|PRP$ NN NN|BODY_2|0
+the boiling temperature|DT NN NN|BODY_3|0
+an evacuation procedure|DT NN NN|BODY_2|0
+a block model|DT NN NN|BODY_8|0
+( 1 )|-LRB- CD -RRB-|BODY_8|0
+exactly one submodel|RB CD NN|BODY_6|0
+linguistic association )|JJ NN -RRB-|BODY_3|0
+a significant (|DT JJ -LRB-|BODY_7|0
+the current phase|DT JJ NN|BODY_4|0
+other model formalisms|JJ NN NNS|BODY_3|0
+little simulation research|JJ NN NN|BODY_5|0
+an external event|DT JJ NN|BODY_8|0
+the input event|DT NN NN|BODY_11|0
+hot water )|JJ NN -RRB-|BODY_5|0
+an executable model|DT JJ NN|BODY_7|0
+the following sections|DT JJ NNS|BODY_14|0
+a simulation process|DT NN NN|BODY_3|0
+a considerable amount|DT JJ NN|BODY_2|0
+the canonical formulation|DT JJ NN|BODY_12|0
+the continuous approach|DT JJ NN|BODY_1|0
+3.6 devs abstraction|CD JJ NN|BODY_1|0
+homogeneous fsa refinement|JJ NN NN|BODY_14|0
+two object hierarchies|CD NN NNS|BODY_12|0
+the input set|DT NN NN|BODY_5|0
+the object hierarchies|DT NN NNS|BODY_5|0
+the explosive number|DT JJ NN|BODY_6|0
+this latter interest|DT JJ NN|BODY_2|0
+many more scenarios|JJ JJR NNS|BODY_7|0
+a discrete event|DT JJ NN|BODY_7|0
+state transition orientation|NN NN NN|BODY_11|0
+the surface area|DT NN NN|BODY_6|0
+such a minimum|JJ DT NN|BODY_12|0
+the final level|DT JJ NN|BODY_6|0
+many other correlations|JJ JJ NNS|BODY_2|0
+the dotted arcs|DT VBN NNS|BODY_12|0
+the lowest level|DT JJS NN|BODY_8|0
+[41 , 42]|CD , CD|BODY_6|0
+the water )|DT NN -RRB-|BODY_9|0
+an immediate effect|DT JJ NN|BODY_12|0
+an intrinsic characteristic|DT JJ NN|BODY_4|0
+action and object|NN CC NN|BODY_7|0
+the pot boils|DT NN NNS|BODY_9|0
+our earlier interpretation|PRP$ JJR NN|BODY_2|0
+these particular networks|DT JJ NNS|BODY_1|0
+an explicit component|DT JJ NN|BODY_3|0
+the same process|DT JJ NN|BODY_2|0
+our first step|PRP$ JJ NN|BODY_1|0
+the new phases|DT JJ NNS|BODY_9|0
+the negative side|DT JJ NN|BODY_1|0
+a generalized resistance|DT JJ NN|BODY_8|0
+the same system|DT JJ NN|BODY_7|0
+the switch statement|DT NN NN|BODY_1|0
+the winning condition|DT VBG NN|BODY_7|0
+several transition conditions|JJ NN NNS|BODY_2|0
+our multimodel approach|PRP$ JJ NN|BODY_2|0
+the sign change|DT NN NN|BODY_1|0
+no internal transitions|DT JJ NNS|BODY_3|0
+ffi m(p )|JJ NN -RRB-|BODY_15|0
+a small amount|DT JJ NN|BODY_1|0
+our knowledge base|PRP$ NN NN|BODY_1|0
+the chip level|DT NN NN|BODY_1|0
+a solid arc|DT JJ NN|BODY_2|0
+the output set|DT NN NN|BODY_8|0
+a motion trajectory|DT NN NN|BODY_12|0
+our method differs|PRP$ NN NNS|BODY_1|0
+the man relation|DT NN NN|BODY_1|0
+the chief problems|DT NN NNS|BODY_1|0
+table 2 )|NN CD -RRB-|BODY_5|0
+the physical system|DT JJ NN|BODY_4|0
+the individual components|DT JJ NNS|BODY_1|0
+98 degrees celsius|CD NNS NN|BODY_10|0
+figure 11 displays|NN CD NNS|BODY_1|0
+how much money|WRB JJ NN|BODY_7|0
+the state trajectories|DT NN NNS|BODY_6|0
+the higher level|DT JJR NN|BODY_5|0
+the pair (u|DT NN NN|BODY_4|0
+the dynamical behavior|DT JJ NN|BODY_4|0
+some predetermined level|DT JJ NN|BODY_2|0
+table 2 displays|NN CD VBZ|BODY_1|0
+one transition condition|CD NN NN|BODY_2|0
+an elapsed time|DT JJ NN|BODY_10|0
+the final refinement|DT JJ NN|BODY_1|0
+the block network|DT NN NN|BODY_7|0
+such t p\gamma?p0|JJ NN NN|BODY_10|0
+a greater percentage|DT JJR NN|BODY_15|0
+input and output|NN CC NN|BODY_4|0
+the first requirement|DT JJ NN|BODY_1|0
+water state space|NN NN NN|BODY_3|0
+the boiling process|DT NN NN|BODY_6|0
+the temperature knob|DT NN NN|BODY_3|0
+a control knob|DT NN NN|BODY_14|0
+the refinement corresponds|DT NN NNS|BODY_2|0
+a dataflow model|DT NN NN|BODY_1|0
+all model knowledge|DT NN NN|BODY_1|0
+these two models|DT CD NNS|BODY_1|0
+the state vector|DT NN NN|BODY_1|0
+ambient temperature )|JJ NN -RRB-|BODY_6|0
+the detailed simulation|DT JJ NN|BODY_4|0
+figure 8 displays|NN CD NNS|BODY_1|0
+a system morphism|DT NN NN|BODY_6|0
+the state behavior|DT NN NN|BODY_1|0
+( on,off )|-LRB- IN -RRB-|BODY_3|0
+the input trajectories|DT NN NNS|BODY_1|0
+the new models|DT JJ NNS|BODY_1|0
+19 , 45|CD , CD|BODY_3|0
+such a morphism|JJ DT NN|BODY_1|0
+general state variables|JJ NN NNS|BODY_1|0
+ compartmental model|RB JJ NN|BODY_5|0
+an arbitrary question|DT JJ NN|BODY_1|0
+the same type|DT JJ NN|BODY_5|0
+corresponding transi- tions|JJ NNS NNS|BODY_10|0
+the hyp relation|DT NN NN|BODY_1|0
+t time units|JJ NN NNS|BODY_10|0
+the initial state|DT JJ NN|BODY_5|0
+such lumped models|JJ JJ NNS|BODY_1|0
+the simulation literature|DT NN NN|BODY_1|0
+the model [45]|DT NN NN|BODY_6|0
+combined simulation modeling|VBN NN NN|BODY_5|0
+the heating state|DT NN NN|BODY_4|0
+this new fsa|DT JJ NN|BODY_1|0
+the top part|DT JJ NN|BODY_1|0
+any given time|DT VBN NN|BODY_19|0
+the initial conditions|DT JJ NNS|BODY_1|0
+the question answering|DT NN NN|BODY_7|0
+the multimodel approach|DT JJ NN|BODY_1|0
+simulation model types|NN NN NNS|BODY_2|0
+figure 9 displays|NN CD NNS|BODY_1|0
+the total capacitance|DT JJ NN|BODY_9|0
+all boundary conditions|DT NN NNS|BODY_8|0
+a duration t|DT NN NN|BODY_10|0
+a concrete example|DT JJ NN|BODY_1|0
+a systems view|DT NNS NN|BODY_6|0
+a different model|DT JJ NN|BODY_1|0
+a square wave|DT JJ NN|BODY_3|0
+an input trajectory|DT NN NN|BODY_1|0
+any abstraction level|DT NN NN|BODY_6|0
+the dynamical model|DT JJ NN|BODY_5|0
+continuous systems systems|JJ NNS NNS|BODY_1|0
+an internal transition|DT JJ NN|BODY_3|0
+the elapsed time|DT VBN NN|BODY_1|0
+specific transition conditions|JJ NN NNS|BODY_5|0
+the knob control|DT NN NN|BODY_2|0
+the possible values|DT JJ NNS|BODY_4|0
+'s system knowledge|POS NN NN|BODY_3|0
+this generic knowledge|DT JJ NN|BODY_1|0
+a predictive question|DT JJ NN|BODY_1|0
+a reference question|DT NN NN|BODY_1|0
+the end result|DT NN NN|BODY_1|0
+all the water|PDT DT NN|BODY_10|0
+at time x|IN NN NN|BODY_9|0
+the devs formulation|DT NN NN|BODY_1|0
+behavior preserving morphisms|NN VBG NNS|BODY_6|0
+different abstraction levels|JJ NN NNS|BODY_7|0
+discrete event simulations|JJ NN NNS|BODY_1|0
+model context switches|NN NN NNS|BODY_12|0
+the preceding formulation|DT VBG NN|BODY_1|0
+3.2 knowledge base|CD NN NN|BODY_1|0
+a mathematical model|DT JJ NN|BODY_1|0
+temporal phase information|JJ NN NN|BODY_4|0
+the next section|DT JJ NN|BODY_1|0
+the second requirement|DT JJ NN|BODY_1|0
+the last fsa|DT JJ NN|BODY_1|0
+2.3 event identification|CD NN NN|BODY_1|0
+model m(p )|NN NN -RRB-|BODY_8|0
+the new phase|DT JJ NN|BODY_8|0
+3 example system|CD NN NN|BODY_1|0
+i rate constants|NN NN NNS|BODY_11|0
+such a structure|JJ DT NN|BODY_5|0
+the old phase|DT JJ NN|BODY_13|0
+the system formalism|DT NN NN|BODY_1|0
+the fsa|DT NN|BODY_6:BODY_5:BODY_11:BODY_28:BODY_3:BODY_4:BODY_9|0
+one|CD|BODY_5:BODY_18:BODY_1:BODY_2:BODY_4:BODY_10:BODY_9|0
+a set|DT NN|BODY_6:BODY_5:BODY_18:BODY_23:BODY_1:BODY_2:BODY_8|0
+the state|DT NN|BODY_21:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+abstraction|NN|BODY_5:BODY_2:BODY_3:BODY_14:BODY_7:BODY_8:BODY_9|0
+the phase|DT NN|BODY_6:BODY_5:BODY_13:BODY_10:BODY_7:BODY_9|0
+the pot|DT NN|BODY_12:BODY_6:BODY_1:BODY_3:BODY_10:BODY_7|0
+fig|NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_9|0
+systems|NNS|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_7|0
+the robot|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+the set|DT VBN|BODY_12:BODY_2:BODY_3:BODY_10:BODY_4:BODY_9|0
+an event|DT NN|BODY_6:BODY_1:BODY_2:BODY_10:BODY_4:BODY_8|0
+questions|NNS|BODY_6:BODY_16:BODY_3:BODY_4:BODY_9|0

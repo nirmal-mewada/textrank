@@ -1,0 +1,61 @@
+we|PRP|BODY_1:BODY_2:BODY_3|0
+a smooth approximation|DT JJ NN|BODY_2|0
+the method|DT NN|BODY_2|0
+the widely used correlation method|DT RB VBN NN NN|BODY_2|0
+this practical advantage|DT JJ NN|BODY_2|0
+an adapted version|DT VBN NN|BODY_2|0
+outliers|NNS|BODY_2|0
+the simultaneous perturbation stochastic approximation ( spsa ) method|DT JJ NN JJ NN -LRB- NN -RRB- NN|BODY_3|0
+the usual distortion measures|DT JJ NN NNS|BODY_3|0
+a relatively long period|DT RB JJ NN|BODY_9|0
+the spsa method|DT NN NN|BODY_2|0
+drug effects|NN NNS|BODY_11|0
+the class-distortion measure|DT NN NN|BODY_7|0
+a classical method|DT JJ NN|BODY_3|0
+a single patient|DT JJ NN|BODY_8|0
+ecg analysis|JJ NN|BODY_3|0
+the study|DT NN|BODY_10|0
+electrocardiogram (ecg ) signals|NN NN -RRB- NNS|BODY_7|0
+the classification|DT NN|BODY_4|0
+t-wave alternants|NN NNS|BODY_9|0
+two ecg cycles|CD JJ NNS|BODY_6|0
+compression|NN|BODY_6|0
+monitoring|NN|BODY_5|0
+the distance|DT NN|BODY_5|0
+our approach|PRP$ NN|BODY_2|0
+arrythmias|NNS|BODY_8|0
+qrs|NNS|BODY_7|0
+morphology changes|NN NNS|BODY_6|0
+332-41|CD|BODY_1|0
+37|CD|BODY_1|0
+contr.|NN|BODY_1|0
+mar|NN|BODY_2|0
+p|NN|BODY_2|0
+vol|NN|BODY_2|0
+a modification|DT NN|BODY_2|0
+high-resolution ecg analysis|JJ JJ NN|BODY_4|0
+late potential analysis|JJ JJ NN|BODY_5|0
+a new distortion measure|DT JJ NN NN|BODY_4|0
+mind|NN|BODY_3|0
+a randomization procedure|DT NN NN|BODY_3|0
+an experimental comparison|DT JJ NN|BODY_1|0
+both simulated and real data|DT VBN CC JJ NNS|BODY_3|0
+real data|JJ NNS|BODY_3|0
+that computational complexity|DT JJ NN|BODY_3|0
+the main idea|DT JJ NN|BODY_1|0
+the price|DT NN|BODY_1|0
+the viability|DT NN|BODY_1|0
+average-distance|NN|BODY_4|0
+j.|VBG|BODY_4|0
+the new class-distortion-measure|DT JJ NN|BODY_1|0
+the resulting nonsmooth optimization problem|DT VBG JJ NN NN|BODY_1|0
+the use|DT NN|BODY_1|0
+time|NN|BODY_10|0
+ventricular activation|JJ NN|BODY_12|0
+a min-max criterion|DT JJ NN|BODY_8|0
+cluster analysis or vector quantization|NN NN CC NN NN|BODY_4|0
+the novelty|DT NN|BODY_1|0
+the particular application|DT JJ NN|BODY_1|0
+1992 )|CD -RRB-|BODY_1|0
+automat|NN|BODY_1|0
+spall ( ieee trans|NN -LRB- NN NNS|BODY_1|0

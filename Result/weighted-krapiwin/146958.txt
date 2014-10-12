@@ -1,0 +1,445 @@
+that|WDT|BODY_11:BODY_16:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_7:BODY_8:BODY_9|2
+the reliability|DT NN|BODY_6:BODY_5:ABSTRACT_3:BODY_3:BODY_8|3
+versions|NNS|BODY_11:ABSTRACT_6:BODY_4:BODY_8|2
+the synchronization structure|DT NN NN|BODY_5:ABSTRACT_2|0
+module execution times|JJ NN NNS|ABSTRACT_8:BODY_2:BODY_10|0
+real-time software reliability|JJ NN NN|TITLE_2|0
+these test cases|DT NN NNS|BODY_1:ABSTRACT_1|0
+estimation and enhancement|NN CC NN|TITLE_1|0
+mutation testing|NN NN|BODY_6:ABSTRACT_5:BODY_2:BODY_4:BODY_10|0
+high-quality , mutation-tested code|JJ , JJ NN|ABSTRACT_3|0
+automatically generated test cases|RB VBN NN NNS|ABSTRACT_3|0
+a simulation-based method|DT JJ NN|ABSTRACT_1|1
+fault-tolerant software systems|JJ NN NNS|ABSTRACT_3|0
+we|PRP|BODY_12:BODY_6:BODY_5:BODY_16:BODY_17:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|12
+which|WDT|BODY_6:BODY_5:BODY_11:BODY_16:BODY_2:BODY_3:BODY_19:BODY_10:BODY_4:BODY_7:BODY_8|0
+it|PRP|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|1
+the higher quality code|DT JJR NN NN|BODY_2:BODY_4|1
+a very simple one|DT RB JJ CD|BODY_3:BODY_14|2
+an independent model parameter|DT JJ NN NN|BODY_6:BODY_5:BODY_8|1
+the timing constraint t|DT NN NN NN|BODY_7|1
+the natural  synchronization|DT JJ NN NN|BODY_6|1
+the single version case|DT JJ NN NN|BODY_11|1
+function f and \pi|NN NN CC NN|BODY_7|1
+a natural high correlation|DT JJ JJ NN|BODY_12|1
+demillo et al [7]|FW FW JJ NN|BODY_4|1
+a complete case study|DT JJ NN NN|BODY_15:BODY_4|2
+new mutation test focus|JJ NN NN NN|BODY_3|1
+ammann and knight [1|NN CC NN NNS|BODY_1|1
+a ( x )|DT -LRB- NN -RRB-|BODY_23:BODY_2:BODY_3:BODY_7|0
+test data|NN NNS|BODY_15:BODY_2:BODY_3:BODY_4|1
+one or more tokens|CD CC JJR NNS|BODY_2:BODY_10|0
+five independently developed implementations|CD RB VBN NNS|BODY_6:BODY_4|0
+the new test cases|DT JJ NN NNS|BODY_2:BODY_4|0
+a acceleration(i,0 ) to|DT NN -RRB- TO|BODY_2|0
+a directed bipartite graph|DT VBN JJ NN|BODY_2|0
+whose two vertex sets|WP$ CD JJ NNS|BODY_3|0
+each module m i|DT NN NN NN|BODY_2|0
+eckhardt and lee [12]|JJ CC JJ NN|BODY_2|0
+the probability|DT NN|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|0
+the constraint satisfaction mechanism|DT NN NN NN|BODY_4|0
+the same mutation criteria|DT JJ NN NNS|BODY_2|0
+a randomly chosen program|DT RB VBN NN|BODY_12:BODY_4|0
+a concurrently enabled transition|DT RB VBN NN|BODY_21|0
+systems performance modeling [3|NNS NN JJ NNS|BODY_4|0
+\gamma2 \gamma1135 figure 7|CD CD NN CD|BODY_3|0
+these new test cases|DT JJ NN NNS|BODY_3|0
+more than 10 years|JJR IN CD NNS|BODY_3|0
+an average pairwise correlation|DT JJ NN NN|BODY_7|0
+empirical execution time profiles|JJ NN NN NNS|BODY_5|0
+a specific variation direction|DT JJ NN NN|BODY_9|0
+the unit impulse function|DT NN NN NN|BODY_12|0
+additional significant reliability enhancement|JJ JJ NN NN|BODY_4|0
+figures 4 and 5|NNS CD CC CD|BODY_3|0
+non-trivial , conservative estimates|JJ , JJ NNS|BODY_2|0
+our results impact unit|PRP$ NNS NN NN|BODY_1|0
+the five original modules|DT CD JJ NNS|BODY_2|0
+30 test cases \theta|CD NN NNS NN|BODY_5|0
+our n-version software system|PRP$ NN NN NN|BODY_3|0
+150 total responses )|CD JJ NNS -RRB-|BODY_7|0
+a group correlation factor|DT NN NN NN|BODY_7|0
+100 test cases \theta|CD NN NNS NN|BODY_9|0
+the legal input space|DT JJ NN NN|BODY_3|0
+the downward mutation gradient|DT JJ NN NN|BODY_8|0
+'s data diversity [1]|POS NNS NN NN|BODY_4|0
+the random variable \theta(|DT JJ JJ NNS|BODY_2|0
+( g1,g2 ) space|-LRB- NN -RRB- NN|BODY_5|0
+the execution time profile|DT NN NN NN|BODY_8|0
+the present testing framework|DT JJ NN NN|BODY_2|0
+the real-time software environment|DT JJ NN NN|BODY_2|0
+a special restart transition|DT JJ NN NN|BODY_17|0
+the same relative location|DT JJ JJ NN|BODY_4|0
+its initial token assignment|PRP$ JJ JJ NN|BODY_3|0
+littlewood and miller [19]|JJ CC RBR RB|BODY_3|0
+not specific test data|RB JJ NN NNS|BODY_3|0
+our multiversion software model|PRP$ NN NN NN|BODY_1|0
+the average execution time|DT JJ NN NN|BODY_1|0
+3 or more versions|CD CC JJR NNS|BODY_3|0
+that completes ( returns|DT NNS -LRB- NNS|BODY_2|0
+the previous three values|DT JJ CD NNS|BODY_5|0
+the unknown operational distribution|DT JJ JJ NN|BODY_5|0
+a randomly selected program|DT RB VBN NN|BODY_4|0
+forced minor random variation|JJ JJ JJ NN|BODY_7|0
+42 to 55 lines|CD TO CD NNS|BODY_3|0
+the path expression constraint|DT NN NN NN|BODY_4|0
+the petri net model|DT NN JJ NN|BODY_4|0
+the same functional behavior|DT JJ JJ NN|BODY_7|0
+high density failure regions|JJ NN NN NNS|BODY_8|0
+their real execution times|PRP$ JJ NN NNS|BODY_8|0
+a 5-version voting system|DT JJ NN NN|BODY_9|0
+such execution time distributions|JJ NN NN NNS|BODY_5|0
+the entire input domain|DT JJ NN NN|BODY_3|0
+the firing time distributions|DT NN NN NNS|BODY_2|0
+the same syntactic information|DT JJ NN NN|BODY_2|0
+'s data diversity technique|POS NNS NN NN|BODY_3|0
+two independently chosen programs|CD RB VBN NNS|BODY_2|0
+both independently selected programs|DT RB VBN NNS|BODY_12|0
+lesser mutation kill potential|JJR NN NN JJ|BODY_5|0
+an incorrect program state|DT JJ NN NN|BODY_3|0
+the xpsc simulation results|DT NN NN NNS|BODY_7|0
+a simple empirical investigation|DT JJ JJ NN|BODY_2|0
+arbitrary firing time distributions|JJ NN NN NNS|BODY_7|0
+the 100 test cases|DT CD NN NNS|BODY_3|0
+the model , t|DT NN , NN|BODY_4|0
+two or fewer exec|CD CC JJR NN|BODY_10|0
+j ( x )]|NN -LRB- NN NN|BODY_26|0
+even relatively low correlation|RB RB JJ NN|BODY_3|0
+modeling [23 , 26]|JJ CD , CD|BODY_6|0
+automatically selected test cases|RB VBN NN NNS|BODY_7|0
+the software development environment|DT NN NN NN|BODY_6|0
+firing time distribution percentiles|NN NN NN NNS|BODY_12|0
+the godzilla-generated test cases|DT JJ NN NNS|BODY_8|0
+these execution time distributions|DT NN NN NNS|BODY_5|0
+( software modules )|-LRB- NN NNS -RRB-|BODY_11|0
+the mutation kill gradient|DT NN NN NN|BODY_10|0
+a acceleration m 5|DT NN NN CD|BODY_4|0
+the resulting dramatic improvement|DT VBG JJ NN|BODY_1|0
+automatically generated test data|RB VBN NN NNS|BODY_23|0
+the individual unit developers|DT JJ NN NNS|BODY_13|0
+the upward mutation gradient|DT JJ NN NN|BODY_5|0
+( cbt ) system|-LRB- NN -RRB- NN|BODY_6|0
+the correlation k approaches|DT NN NN NNS|BODY_10|0
+the hardware fault-injection experiment|DT NN NN NN|BODY_3|0
+the selected time elapses|DT VBN NN NNS|BODY_1|0
+average pairwise sample correlation|JJ NN NN NN|BODY_1|0
+the derived reliability estimate|DT VBN NN NN|BODY_9|0
+the 5 fortran-77 versions|DT CD CD NNS|BODY_1|0
+very tight timing constraints|RB JJ NN NNS|BODY_3|0
+module execution time distributions|JJ NN NN NNS|BODY_1|0
+the execution time distributions|DT NN NN NNS|BODY_1|0
+f i ( t|NN FW -LRB- NN|BODY_1|0
+an n-version voting system|DT NN NN NN|BODY_4|0
+89 to 151 milliseconds|CD TO CD NNS|BODY_4|0
+random (uniform ) sampling|JJ NN -RRB- NN|BODY_1|0
+a technically difficult task|DT RB JJ NN|BODY_5|0
+our 5-version voting system|PRP$ JJ NN NN|BODY_6|0
+a randomly chosen input|DT RB VBN NN|BODY_5|0
+no single test case|DT JJ NN NN|BODY_1|0
+non-zero firing time distributions|JJ NN NN NNS|BODY_3|0
+a mutation testing system|DT NN NN NN|BODY_5|0
+an inconsequential value )|DT JJ NN -RRB-|BODY_5|0
+the module source code|DT JJ NN NN|BODY_5|0
+a second major concern|DT JJ JJ NN|BODY_1|0
+a conservative reliability estimate|DT JJ NN NN|BODY_1|0
+each|DT|BODY_5:BODY_2:BODY_1:BODY_7:BODY_8|0
+the mean time|DT JJ NN|BODY_3|1
+)|-RRB-|BODY_12:BODY_5:BODY_16:BODY_17:BODY_25:BODY_8:BODY_20:BODY_9|1
+test cases|NN NNS|BODY_1:BODY_2:BODY_3|0
+p|NN|BODY_12:BODY_11:BODY_5:BODY_13:BODY_3|2
+the synchronization model|DT NN NN|BODY_1:BODY_2:BODY_4|0
+all the inputs|PDT DT NNS|BODY_14|1
+the range [105|DT NN CD|BODY_8|1
+p(t )= f(t|JJ JJ NN|BODY_13|1
+forced minor variations|JJ JJ NNS|BODY_3|1
+our proposed method|PRP$ VBN NN|BODY_6|1
+the real benefit|DT JJ NN|BODY_2|1
+a 5-version implementation|DT NN NN|BODY_6|1
+our coding experiment|PRP$ VBG NN|BODY_2|1
+the present experiment|DT JJ NN|BODY_13|1
+the relative merits|DT JJ NNS|BODY_7|1
+the proposed method|DT VBN NN|BODY_5|1
+one important criterion|CD JJ NN|BODY_1|1
+figure 4|NN CD|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|1
+the mutated statement|DT JJ NN|BODY_5:BODY_2:BODY_4|0
+failures|NNS|BODY_5:BODY_2:BODY_3:BODY_7|1
+a test case|DT NN NN|BODY_6:BODY_1:BODY_3:BODY_10:BODY_8|0
+the input space|DT NN NN|BODY_6:BODY_2:BODY_3:BODY_10|0
+a test set|DT NN NN|BODY_16:BODY_2|0
+us|PRP|BODY_2:BODY_3:BODY_4:BODY_8|0
+transitions|NNS|BODY_2:BODY_3:BODY_14|0
+the timing constraint|DT VBG NN|BODY_11:BODY_2:BODY_4:BODY_8|0
+the test cases|DT NN NNS|BODY_1:BODY_3:BODY_4|0
+the exec|DT NN|BODY_16:BODY_2:BODY_7|2
+the results|DT NNS|BODY_5:BODY_1:BODY_3|1
+the test case|DT NN NN|BODY_2:BODY_3|0
+programs|NNS|BODY_21:BODY_8:BODY_9|1
+an execution time|DT NN NN|BODY_5:BODY_3:BODY_4|0
+figure 6|NN CD|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|1
+ammann and knight|NN CC NN|BODY_2:BODY_3|0
+the original program|DT JJ NN|BODY_2:BODY_4:BODY_10:BODY_9|0
+g1 and g2|NN CC NN|BODY_6:BODY_5:BODY_1|0
+the 5 versions|DT CD NNS|BODY_6:BODY_3|0
+random testing|JJ NN|BODY_5:BODY_2:BODY_8|1
+a random variable|DT JJ JJ|BODY_5:BODY_2|0
+the accelerometer sensor|DT NN NN|BODY_3:BODY_7|0
+a firing time|DT NN NN|BODY_6:BODY_3|0
+5 versions )|CD NNS -RRB-|BODY_6:BODY_10|0
+the test data|DT NN NNS|BODY_1:BODY_2|0
+the distribution function|DT NN NN|BODY_2:BODY_10|0
+a deterministic parameter|DT JJ NN|BODY_3|0
+a status(i,0 )|DT NN -RRB-|BODY_3|0
+the timer transition|DT NN NN|BODY_2|0
+the mutation operators|DT NN NNS|BODY_1:BODY_7|0
+the following steps|DT JJ NNS|BODY_2|0
+the mutation score|DT NN NN|BODY_1:BODY_9|0
+the t range|DT NN NN|BODY_4|0
+analytically [5 ]|RB CD NN|BODY_3|0
+vigorous debate [2|JJ NN NNS|BODY_6|0
+a special type|DT JJ NN|BODY_6|0
+an exec i|DT NN NN|BODY_2|0
+the right-hand endpoints|DT JJ NNS|BODY_3|0
+10 , 14]|CD , CD|BODY_5|0
+the mean (-)|DT JJ NN|BODY_4|0
+the voting mechanism|DT NN NN|BODY_5|0
+strikingly \gamma5 \gamma4|RB CD CD|BODY_2|0
+a single version|DT JJ NN|BODY_2|0
+the standard deviation|DT JJ NN|BODY_5|0
+the system clock|DT NN NN|BODY_22|0
+a significant reduction|DT JJ NN|BODY_2|0
+an enhancement programmers|DT NN NNS|BODY_2|0
+the correct outputs|DT JJ NNS|BODY_9|0
+computer system reliability|NN NN NN|BODY_4|0
+an effective means|DT JJ NN|BODY_3|0
+such test data|JJ NN NNS|BODY_2|0
+a acceleration right|DT NN NN|BODY_2|0
+correlation factor k|NN NN NN|BODY_5|0
+the godzilla generator|DT NN NN|BODY_2|0
+circles and transitions|NNS CC NNS|BODY_2|0
+a acceleration m|DT NN NN|BODY_1|0
+a bias 3|DT NN CD|BODY_2|0
+a complementary technique|DT JJ NN|BODY_1|0
+the necessity condition|DT NN NN|BODY_2|0
+the partial solution|DT JJ NN|BODY_1|0
+the 5-version software|DT NN NN|BODY_2|0
+trivial ) input|JJ -RRB- NN|BODY_4|0
+a thin rectangle|DT JJ NN|BODY_3|0
+a greater probability|DT JJR NN|BODY_10|0
+random test cases|JJ NN NNS|BODY_6|0
+tight timing requirements|JJ NN NNS|BODY_2|0
+an enabled transition|DT VBN NN|BODY_20|0
+\theta b (|NN NN -LRB-|BODY_8|0
+a strong test|DT JJ NN|BODY_3|0
+a semantic difference|DT JJ NN|BODY_6|0
+a zero correlation|DT CD NN|BODY_2|0
+multi-version software model|NN NN NN|BODY_16|0
+extremal values criteria|JJ NNS NNS|BODY_5|0
+simple petri net|JJ NN NN|BODY_7|0
+an alternative set|DT JJ NN|BODY_2|0
+a testing technique|DT NN NN|BODY_2|0
+each output place|DT NN NN|BODY_19|0
+an adequacy-based scheme|DT JJ NN|BODY_3|0
+a mutation-directed variation|DT JJ NN|BODY_2|0
+the first pass|DT JJ NN|BODY_9|0
+the complete path|DT JJ NN|BODY_2|0
+a natural environment|DT JJ NN|BODY_10|0
+a uniform distribution|DT JJ NN|BODY_2|0
+these reliability estimates|DT NN NNS|BODY_3|0
+this correlated firing|DT JJ NN|BODY_10|0
+a constraint-based testing|DT JJ NN|BODY_5|0
+directly incorporate results|RB JJ NNS|BODY_5|0
+this mutation score|DT NN NN|BODY_11|0
+a conservative estimate|DT JJ NN|BODY_6|0
+figure 4 show|NN CD NN|BODY_5|0
+a single group|DT JJ NN|BODY_3|0
+a acceleration calculate|DT NN NN|BODY_3|0
+the narrow range|DT JJ NN|BODY_6|0
+any single version|DT JJ NN|BODY_4|0
+upward gradient movement|RB NN NN|BODY_3|0
+an initial condition|DT JJ NN|BODY_4|0
+'s notation [19]|POS NN NN|BODY_2|0
+a software analogue|DT NN NN|BODY_2|0
+the correct output|DT JJ NN|BODY_3|0
+the transition fires|DT NN NNS|BODY_2|0
+) the same|-RRB- DT JJ|BODY_9|0
+the mothra system|DT NN NN|BODY_4|0
+a random direction|DT JJ NN|BODY_5|0
+the complete control|DT JJ NN|BODY_12|0
+significant reliability enhancement|JJ NN NN|BODY_5|0
+the three dimensions|DT CD NNS|BODY_2|0
+the syntactic change|DT NN NN|BODY_4|0
+( one group|-LRB- CD NN|BODY_1|0
+3778 non-equivalent mutants|CD JJ NNS|BODY_3|0
+a real-time environment|DT JJ NN|BODY_1|0
+a substantial clarification|DT JJ NN|BODY_1|0
+an alternative interpretation|DT JJ NN|BODY_1|0
+asp specification summary|NN NN NN|BODY_2|0
+each test case|DT NN NN|BODY_3|0
+the 5 programmers|DT CD NNS|BODY_1|0
+the module specifications|DT NN NNS|BODY_1|0
+the program versions|DT NN NNS|BODY_3|0
+a close approximation|DT JJ NN|BODY_12|0
+a correlated group|DT JJ NN|BODY_4|0
+the conditional density|DT JJ NN|BODY_9|0
+less data sensitivity|JJR NNS NN|BODY_9|0
+some correct answers|DT JJ NNS|BODY_3|0
+our implementation (|PRP$ NN -LRB-|BODY_3|0
+a self-contained piece|DT JJ NN|BODY_5|0
+estimated system reliability|JJ NN NN|BODY_2|0
+a major impact|DT JJ NN|BODY_5|0
+5 original versions|CD JJ NNS|BODY_7|0
+other enabled transitions|JJ VBD NNS|BODY_2|0
+a given input|DT VBN NN|BODY_6|0
+every input place|DT NN NN|BODY_8|0
+the concurrent operation|DT JJ NN|BODY_2|0
+binary ( success|JJ -LRB- NN|BODY_12|0
+a system retry|DT NN NN|BODY_4|0
+the reliability model|DT NN NN|BODY_5|0
+an effective time|DT JJ NN|BODY_2|0
+any linear relationship|DT JJ NN|BODY_7|0
+the program inputs|DT NN NNS|BODY_5|0
+the possible pairings|DT JJ NNS|BODY_20|0
+the 5-version system|DT NN NN|BODY_4|0
+a simple model|DT JJ NN|BODY_3|0
+the 15,000 failure|DT CD NN|BODY_3|0
+all input values|DT NN NNS|BODY_2|0
+mutation kill scores|NN NN NNS|BODY_9|0
+a dramatic increase|DT JJ NN|BODY_4|0
+a rapid decrease|DT JJ NN|BODY_2|0
+the necessity constraint|DT NN NN|BODY_5|0
+a program module|DT NN NN|BODY_4|0
+a random number|DT JJ NN|BODY_3|0
+the improved modules|DT JJ NNS|BODY_3|0
+a collection p|DT NN NN|BODY_7|0
+the same execution|DT JJ NN|BODY_8|0
+the test program|DT NN NN|BODY_4|0
+the original set|DT JJ NN|BODY_4|0
+this necessity constraint|DT NN NN|BODY_2|0
+the same task|DT JJ NN|BODY_9|0
+stringent a test|JJ DT NN|BODY_3|0
+a domain region|DT NN NN|BODY_4|0
+the same classes|DT JJ NNS|BODY_3|0
+a correct vote|DT JJ NN|BODY_7|0
+their legal ranges|PRP$ JJ NNS|BODY_2|0
+each execution time|DT NN NN|BODY_10|0
+test case sets|NN NN NNS|BODY_3|0
+random variable x|JJ JJ SYM|BODY_4|0
+the input variables|DT NN NNS|BODY_8|0
+the five programmers|DT CD NNS|BODY_3|0
+ stressful input|JJ JJ NN|BODY_5|0
+the path expression|DT NN NN|BODY_3|0
+a wide range|DT JJ NN|BODY_5|0
+a constraint system|DT NN NN|BODY_4|0
+independently chosen inputs|RB VBN NNS|BODY_9|0
+an automated system|DT JJ NN|BODY_4|0
+an erroneous state|DT JJ NN|BODY_3|0
+an infinite-time response|DT JJ NN|BODY_9|0
+the standard way|DT JJ NN|BODY_7|0
+the mutant differs|DT JJ NNS|BODY_7|0
+15,000 system failure|CD NN NN|BODY_5|0
+the program being|DT NN NN|BODY_4|0
+each execution path|DT NN NN|BODY_6|0
+a labor-intensive task|DT JJ NN|BODY_2|0
+high quality tests|JJ NN NNS|BODY_4|0
+this new set|DT JJ NN|BODY_1|0
+the mttf improvement|DT JJ NN|BODY_5|0
+a fundamental premise|DT JJ NN|BODY_3|0
+n software versions|NN NN NNS|BODY_6|0
+a minor variation|DT JJ NN|BODY_2|0
+a petri net|DT NN NN|BODY_1|0
+independently developed programs|RB VBN NNS|BODY_4|0
+places and transitions|NNS CC NNS|BODY_4|0
+the firing time|DT VBG NN|BODY_1|0
+the key observation|DT JJ NN|BODY_1|0
+mutation-generated i/o pairs|JJ NN NNS|BODY_6|0
+the final state|DT JJ NN|BODY_6|0
+a dramatic improvement|DT JJ NN|BODY_4|0
+a convenient check|DT JJ NN|BODY_6|0
+whatever natural correlation|WDT JJ NN|BODY_3|0
+this sufficiency condition|DT NN NN|BODY_3|0
+figure 8 results|NN CD NNS|BODY_2|0
+as much potential|IN JJ NN|BODY_9|0
+a functional failure|DT JJ NN|BODY_8|0
+a precipitous drop|DT JJ NN|BODY_3|0
+the different types|DT JJ NNS|BODY_7|0
+the firing transition|DT VBG NN|BODY_23|0
+( oe )|-LRB- NN -RRB-|BODY_6|0
+multiple correct answers|JJ JJ NNS|BODY_2|0
+software fault tolerance|NN NN NN|BODY_4|0
+the relative effects|DT JJ NNS|BODY_2|0
+several mutation systems|JJ NN NNS|BODY_5|0
+an n-version system|DT NN NN|BODY_1|0
+a specific value|DT JJ NN|BODY_3|0
+the mutants [8]|DT NNS NN|BODY_5|0
+a substantial improvement|DT JJ NN|BODY_8|0
+the two sets|DT CD NNS|BODY_1|0
+100 test cases|CD NN NNS|BODY_4|0
+the reliability estimate|DT NN NN|BODY_6|0
+f( n 3g|JJ NN NN|BODY_11|0
+the reliability measure|DT NN NN|BODY_7|0
+the mutation gradient|DT NN NN|BODY_1|0
+the reachability condition|DT NN NN|BODY_1|0
+the correlation curve|DT NN NN|BODY_5:BODY_7|0
+functional failures|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8|0
+tight timing constraints|JJ NN NNS|BODY_6|0
+a path expression|DT NN NN|BODY_4|0
+mutation testing [7|NN NN NNS|BODY_1|0
+a second technique|DT JJ NN|BODY_1|0
+different correlation assumptions|JJ NN NNS|BODY_3|0
+a separate version|DT JJ NN|BODY_1|0
+only 20 responses|RB CD NNS|BODY_8|0
+sunos version 4.1|NNS NN CD|BODY_6|0
+' j 'i|POS NN ,|BODY_5|0
+the only parameters|DT JJ NNS|BODY_1|0
+these new distributions|DT JJ NNS|BODY_2|0
+subsequent test cases|JJ NN NNS|BODY_5|0
+a zero covariance|DT CD NN|BODY_1|0
+reasonable computational complexity|JJ JJ NN|BODY_3|0
+these input sets|DT NN NNS|BODY_1|0
+the timer completes|DT NN NNS|BODY_1|0
+the sufficiency condition|DT NN NN|BODY_1|0
+figure 3 )|NN CD -RRB-|BODY_7|0
+a correct answer|DT JJ NN|BODY_5|0
+the expected value|DT VBN NN|BODY_1|0
+the total number|DT JJ NN|BODY_1|0
+each input place|DT NN NN|BODY_17|0
+a further condition|DT JJ NN|BODY_1|0
+even well-tested programs|RB JJ NNS|BODY_1|0
+mutation testing systems|NN NN NNS|BODY_1|0
+the correct transitions|DT JJ NNS|BODY_8|0
+3 mutation testing|CD NN NN|BODY_1|0
+all 3778 mutants|DT CD NNS|BODY_3|0
+the new set|DT JJ NN|BODY_1|0
+only functional errors|RB JJ NNS|BODY_7|0
+the attached distribution|DT VBN NN|BODY_4|0
+the godzilla system|DT NN NN|BODY_1|0
+a major advantage|DT JJ NN|BODY_1|0
+larger than 1=2|JJR IN CD|BODY_14|0
+specific input x|JJ NN SYM|BODY_14|0
+the two classes|DT CD NNS|BODY_1|0
+its execution time|PRP$ NN NN|BODY_4|0
+a second experiment|DT JJ NN|BODY_1|0
+all five versions|DT CD NNS|BODY_1|0
+reliability enhancement techniques|NN NN NNS|BODY_6|0
+one timer interval|CD NN NN|BODY_6|0
+any acceptance testing|DT NN NN|BODY_4|0
+the first extension|DT JJ NN|BODY_1|0
+the second extension|DT JJ NN|BODY_1|0
+all test cases|DT NN NNS|BODY_3|0
+an extended study|DT JJ NN|BODY_1|0
+the constraint system|DT NN NN|BODY_10|0
+the mutation operator|DT NN NN|BODY_6|0
+the latter case|DT JJ NN|BODY_7|0
+system failure state|NN NN NN|BODY_4|0
+one such technique|CD JJ NN|BODY_1|0
+the mutation-generated cases|DT JJ NNS|BODY_9|0
+the input cases|DT NN NNS|BODY_1|0
+the range 0|DT NN CD|BODY_5|0
+this implementation transitions|DT NN NNS|BODY_1|0
+the module|DT NN|BODY_2:BODY_1:BODY_3|0
+faults|NNS|BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the program|DT NN|BODY_2:BODY_3:BODY_7:BODY_9|0
+the correlation|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_7|0
+this|DT|BODY_5:BODY_1:BODY_2:BODY_4|0
+correct output|JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+m 0|NN CD|BODY_5:BODY_2|0
+the direction|DT NN|BODY_3:BODY_4:BODY_7|0

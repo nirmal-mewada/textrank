@@ -1,0 +1,887 @@
+we|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|1
+which|WDT|BODY_6:BODY_12:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the number|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+there|EX|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_9|0
+sql statements|JJ NNS|BODY_6:BODY_5:BODY_17:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+information|NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+the percentage|DT NN|BODY_12:BODY_6:BODY_1:BODY_2:BODY_10:BODY_4:BODY_9|0
+the sql statements|DT NN NNS|BODY_2:BODY_3:BODY_4:BODY_9|0
+redwar|NN|BODY_11:BODY_2:BODY_3:BODY_4|0
+the sql analyzer|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+cursor|NN|BODY_5:BODY_4:BODY_7:BODY_9|0
+the average|DT NN|BODY_6:BODY_2:BODY_1|0
+this|DT|BODY_5:BODY_2:BODY_1:ABSTRACT_1|0
+db2|NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+statement|NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+that|WDT|BODY_3:BODY_4:BODY_8|0
+the trace analyzer|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+views|NNS|BODY_5:BODY_1:BODY_10:BODY_4|0
+index scan|NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+rows|NNS|BODY_5:BODY_13:BODY_2:BODY_10:BODY_7|0
+statements|NNS|BODY_2:BODY_3:BODY_4|0
+the average number|DT JJ NN|BODY_6:BODY_1:BODY_2|0
+tuples|NNS|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+run time|VBN NN|BODY_2:BODY_4|0
+clause|NN|BODY_5:BODY_3:BODY_4|0
+it|PRP|BODY_1:BODY_7|0
+the workload|DT NN|BODY_6:BODY_5:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+'s|POS|BODY_5:BODY_11:BODY_13:BODY_2:BODY_4|0
+the executions|DT NNS|BODY_2:BODY_3:BODY_10:BODY_4:BODY_9|0
+the second operand|DT JJ NN|BODY_6:BODY_5:BODY_4|0
+the predicates|DT NNS|BODY_5:BODY_1:BODY_3|0
+table|NN|BODY_6:BODY_1:BODY_3:BODY_9|1
+them|PRP|BODY_6:BODY_2:BODY_3:BODY_4|0
+a large number|DT JJ NN|BODY_16:BODY_2:BODY_7|0
+the information|DT NN|BODY_2:BODY_3|0
+a view|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8|0
+one|NN|BODY_5:BODY_2:BODY_3|0
+qualified tuple|VBN NN|BODY_17:BODY_13:BODY_14:BODY_3:BODY_7|0
+columns|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+an average|DT NN|BODY_12:BODY_11:BODY_5:BODY_15:BODY_4|0
+a set|DT NN|BODY_5:BODY_2:BODY_8|0
+pages|NNS|BODY_12:BODY_11:BODY_7:BODY_8|0
+the|DT|BODY_2:BODY_1:BODY_3|0
+dm|NN|BODY_5:BODY_2:BODY_7|0
+the distribution|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|1
+the catalog|DT NN|BODY_6:BODY_2:BODY_3|0
+executions|NNS|BODY_2:BODY_3:BODY_7|0
+static sql|JJ NN|BODY_1:BODY_4|0
+the sql|DT NN|BODY_2:BODY_3|0
+the statement type|DT NN NN|BODY_6:BODY_3:BODY_4|0
+the column|DT NN|BODY_5:BODY_8:BODY_9|0
+this paper|DT NN|BODY_2:BODY_1:BODY_4:BODY_10|0
+the order|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+the catalog tables|DT NN NNS|BODY_5:BODY_2:BODY_1|0
+.e|NN|BODY_6:BODY_3:BODY_4|0
+etc|FW|BODY_11:BODY_13:BODY_10:BODY_8|0
+a value|DT NN|BODY_2:BODY_3:BODY_4|0
+fetches|NNS|BODY_6:BODY_4|0
+a few|DT JJ|BODY_5:BODY_15:BODY_2|0
+data|NNS|BODY_3:BODY_4:BODY_8|0
+update|NN|BODY_5:BODY_8:BODY_9|0
+predicate|NN|BODY_2|0
+90 %|CD NN|BODY_6:BODY_1:BODY_7|0
+note|NN|BODY_1|0
+the trace records|DT NN NNS|BODY_6:BODY_2|0
+relations|NNS|BODY_5:BODY_2|0
+terms|NNS|BODY_2:BODY_4:BODY_7|0
+the execution behavior|DT NN NN|BODY_2:BODY_3|0
+rds|NNS|BODY_1:BODY_3:BODY_9|0
+each sql statement|DT JJ NN|BODY_5:BODY_4|0
+others|NNS|BODY_3:BODY_4|0
+[12]|NNS|BODY_12:BODY_3:BODY_4:BODY_8|0
+the application plans|DT NN NNS|BODY_2:BODY_8|0
+dynamic sql|JJ NN|BODY_2:BODY_1|0
+one column|NN NN|BODY_3:BODY_9|0
+more than half|JJR IN NN|BODY_6:BODY_8|0
+each type|DT NN|BODY_6:BODY_4:BODY_9|0
+predicates|NNS|BODY_2:BODY_4:BODY_9|0
+an sql statement|DT JJ NN|BODY_5:BODY_7|0
+the composition|DT NN|BODY_6:ABSTRACT_6:BODY_10:BODY_9|0
+insert statements|JJ NNS|BODY_2:BODY_4:BODY_8|0
+one row|CD NN|BODY_5:BODY_2|0
+an image copy|DT NN NN|BODY_6:ABSTRACT_6:BODY_4|0
+the transactions|DT NNS|BODY_2:BODY_3|0
+the database|DT NN|BODY_2:BODY_4|0
+aggregate functions|JJ NNS|BODY_5:BODY_11:BODY_1|0
+the plans|DT NNS|BODY_11:BODY_7|0
+the time|DT NN|BODY_3:BODY_7:BODY_8|0
+)|-RRB-|BODY_3|0
+they|PRP|BODY_6:BODY_1|0
+a plan|DT NN|BODY_3:BODY_4|0
+the case|DT NN|BODY_2|0
+dynamic statements|JJ NNS|BODY_2:BODY_1:BODY_3|0
+relational database systems|JJ NN NNS|BODY_1:BODY_2|0
+a response time|DT NN NN|BODY_3:BODY_7|0
+a benchmark workload|DT JJ NN|ABSTRACT_3:BODY_3|0
+statement number|NN NN|BODY_3:BODY_10|0
+reports|NNS|BODY_5:BODY_3|0
+one tuple|CD NN|BODY_4:BODY_8|0
+statistics|NNS|BODY_1:BODY_3|0
+example|NN|BODY_1|0
+no index|DT NN|BODY_5:BODY_3|0
+database systems|NN NNS|BODY_5:ABSTRACT_5:BODY_8|0
+their types|PRP$ NNS|BODY_2:BODY_3|0
+this study|DT NN|BODY_2:BODY_3|0
+subquery|NN|BODY_4:BODY_9|0
+access path selection|NN NN NN|BODY_6:BODY_5|0
+the first operand|DT JJ NN|BODY_2|0
+more than 90 %|JJR IN CD NN|BODY_2:BODY_8|0
+the maximum number|DT JJ NN|BODY_5:BODY_4|0
+the name|DT NN|BODY_2:BODY_4|0
+insert|NN|BODY_1:BODY_3|0
+most|JJS|BODY_5:BODY_1|0
+a production db2 system|DT NN NN NN|ABSTRACT_2:BODY_3|0
+indicated|VBN|BODY_3|0
+the updates|DT NNS|BODY_2|0
+table space scan|NN NN NN|BODY_11:BODY_4:BODY_10|0
+the sysviews table|DT NNS NN|BODY_2:BODY_1:BODY_4|0
+24,364 static sql statements|CD JJ JJ NNS|BODY_2|0
+323 base tables|CD NN NNS|BODY_2|0
+a particular plan-id|DT JJ NN|BODY_2|0
+result tuples|NN NNS|BODY_2|0
+similar statistics|JJ NNS|BODY_2|0
+the distributions|DT NNS|BODY_2|0
+the transaction executions|DT NN NNS|BODY_2|0
+unqualified tuples|JJ NNS|BODY_2|0
+the average 32.9 columns|DT JJ CD NNS|BODY_3|0
+transaction execution time|NN NN NN|BODY_3|0
+the structure and complexity|DT NN CC NN|BODY_6:BODY_5:BODY_2:ABSTRACT_1|0
+execution time|NN NN|BODY_3:BODY_7|0
+constructs|NNS|BODY_4:BODY_7|0
+scan|JJ|BODY_3:BODY_10|0
+multiple rows|JJ NNS|BODY_2:BODY_3|0
+the view|DT NN|BODY_1:BODY_3|0
+the corresponding sql statement|DT JJ NN NN|BODY_4|0
+77 %|CD NN|BODY_5:BODY_8|0
+open|JJ|BODY_3:BODY_8|0
+a transaction|DT NN|BODY_3:BODY_4|0
+the same sql statement|DT JJ JJ NN|BODY_3:BODY_4|0
+the relations|DT NNS|BODY_6:BODY_3|0
+transactions/queries|NNS|ABSTRACT_5:BODY_8:BODY_9|0
+table 3a|NN NN|BODY_1:BODY_2|0
+fact|NN|BODY_2:BODY_4|0
+the cursor concept|DT NN NN|BODY_1:BODY_2|0
+( 1 )  singleton|-LRB- CD -RRB- NN NN|BODY_3|0
+( 3 ) delete|-LRB- CD -RRB- NN|BODY_5|0
+a. shibamiya|NN NN|BODY_5|0
+g.|NNP|BODY_3|0
+the text|DT NN|BODY_5:BODY_3|0
+columns and rows|NNS CC NNS|BODY_5:BODY_3|0
+the structural characteristics|DT JJ NNS|BODY_1:BODY_3|0
+values|NNS|BODY_6:BODY_5:BODY_4|0
+bytes|NNS|BODY_4|0
+an average column width|DT JJ NN NN|BODY_4|0
+both base tables and views|DT NN NNS CC NNS|BODY_2|0
+more variations|RBR NNS|BODY_2|0
+the ims transaction workload|DT NNS NN NN|BODY_4|0
+three index|CD NN|BODY_9|0
+a db2 environment|DT NN NN|ABSTRACT_4:BODY_4|0
+each column|DT NN|BODY_6:BODY_3|0
+88.56 %|CD NN|BODY_2|0
+9.5 bytes|CD NNS|BODY_7|0
+( 4 ) insert|-LRB- CD -RRB- NN|BODY_6|0
+degrange|NN|BODY_2|0
+five types|CD NNS|BODY_2|0
+p. selinger|NN NN|BODY_6|0
+1.9 %|CD NN|BODY_10|0
+no where clause|DT WRB NN|BODY_8|0
+one record|CD NN|BODY_5|0
+a subquery (|DT NN -LRB-|BODY_6|0
+certain attribute values|JJ NN NNS|BODY_3|0
+the uniform assumption|DT JJ NN|BODY_5|0
+a time|DT NN|BODY_6|0
+the existence|DT NN|BODY_3|0
+these tables|DT NNS|BODY_2|0
+% ) dynamic sql statements reference views|NN -RRB- JJ JJ NNS NN NNS|BODY_6|0
+another expression|DT NN|BODY_5|0
+the database catalog|DT NN NN|BODY_3:ABSTRACT_7:BODY_7|0
+the maximum column width|DT NN NN NN|BODY_8|0
+the class 3 performance trace|DT NN CD NN NN|BODY_6:BODY_4|0
+those sql statements|DT JJ NNS|BODY_5:BODY_1|0
+the insert column|DT NN NN|BODY_5|0
+the qualified tuple|DT JJ NN|BODY_7|0
+union texas petroleum|NN NNS NN|BODY_2|0
+about one fifth|IN CD NN|BODY_8|0
+seqd)|NN|BODY_6|0
+the effect|DT NN|BODY_2|0
+reference|NN|BODY_9|0
+99.6 %|CD NN|BODY_8|0
+one or two indexes|CD CC CD NNS|BODY_3|0
+all reference|DT NN|BODY_7|0
+rds ) and data manager|NNS -RRB- CC NNS NN|BODY_4|0
+sql statement structure|JJ NN NN|BODY_1:BODY_4|0
+each execution results|DT NN NNS|BODY_3|0
+the representation|DT NN|BODY_2|0
+the mutiple-record|DT NN|BODY_6|0
+index ( indx) , table space|NN -LRB- NN , NN NN|BODY_5|0
+pcity )|NN -RRB-|BODY_2|0
+each static sql statement|DT JJ NN NN|BODY_2|0
+one or more rows|CD CC JJR NNS|BODY_2:BODY_4|0
+type statements|NN NNS|BODY_2|0
+identification|NN|BODY_4|0
+a variety|DT NN|BODY_2|0
+insight|NN|BODY_8|0
+very selective predicates|RB JJ NNS|BODY_7|0
+transaction execution|NN NN|BODY_5:BODY_3:BODY_4|0
+workloads|NNS|BODY_2:BODY_1|0
+predicate tests|NN NNS|BODY_2|0
+select|JJ|BODY_6:BODY_4|0
+relations and views|NNS CC NNS|BODY_11:BODY_10:ABSTRACT_7|0
+dynamic sql statements|JJ JJ NNS|BODY_3|0
+manipulative type statements|JJ NN NNS|BODY_5:BODY_4|0
+by|IN|BODY_7|0
+throughput and response time requirements|NN CC NN NN NNS|BODY_3|0
+lakshmi|NNS|BODY_4|0
+select , ( 2 ) update|JJ , -LRB- CD -RRB- NN|BODY_4|0
+these|DT|BODY_1|0
+a column name|DT NN NN|BODY_3:BODY_4|0
+phase 1|NN CD|BODY_3|0
+the where clause|DT WRB NN|BODY_5:BODY_1:BODY_3|0
+retrievals|NNS|BODY_6|0
+the objective|DT NN|BODY_1:BODY_9|0
+relational data services|JJ NNS NNS|BODY_3|0
+two indexes|CD NNS|BODY_7|0
+the table characteristics|DT NN NNS|BODY_2|0
+9.6 %|CD NN|BODY_8|0
+only a few sql statements|RB DT JJ JJ NNS|BODY_3|0
+the important information|DT JJ NN|ABSTRACT_2:BODY_2|0
+avg , max , min , sum , count( *)|NN , NN , NN , NN , NN NN|BODY_3|0
+a db2|DT NN|BODY_11|0
+the makeup and behavior|DT NN CC NN|BODY_4:BODY_7:BODY_8|0
+data skew|NNS NNS|BODY_2|0
+non-optimal access path selection|JJ NN NN NN|BODY_6|0
+each statement type|DT NN NN|BODY_1:BODY_4|0
+a meaningful way|DT JJ NN|BODY_7|0
+view definition|NN NN|BODY_5:BODY_1|0
+a relational database workload analyzer|DT JJ NN NN NN|BODY_3:ABSTRACT_1|0
+the index key|DT NN NN|BODY_11:BODY_7|0
+some|DT|BODY_2:BODY_1|0
+attribute values|NN NNS|BODY_5|0
+a basic predicate|DT JJ NN|BODY_1|0
+a db2 start trace command|DT NN NN NN NN|BODY_2|0
+a null predicate tests|DT JJ NN NNS|BODY_1|0
+about 4.5 seconds|IN CD NNS|BODY_2|0
+all scan types|DT JJ NNS|BODY_2|0
+each sql execution|DT JJ NN|BODY_1|0
+multiple columns|JJ NNS|BODY_2|0
+not all sql statements|RB DT JJ NNS|BODY_1|0
+null values|JJ NNS|BODY_2|0
+relational database environments|JJ NN NNS|TITLE_2|0
+the average transaction response time|DT JJ NN NN NN|BODY_1|0
+the catalog sysstmt table|DT NN NN NN|BODY_2|0
+the indexes|DT NNS|BODY_1|0
+the remaining 0.4 %|DT VBG CD NN|BODY_1|0
+the select|DT JJ|BODY_1|0
+the singleton select and cursor|DT JJ JJ CC NN|BODY_2|0
+the tracing facility|DT VBG NN|BODY_1|0
+their help and advice|PRP$ NN CC NN|BODY_2|0
+two values|CD NNS|BODY_2|0
+very long searches|RB JJ NNS|BODY_2|0
+wolf|NN|BODY_1|0
+workload characterization|NN NN|TITLE_1|0
+27 msec|CD NN|BODY_3|0
+the early stages|DT JJ NNS|BODY_2|0
+17.0 %|CD NN|BODY_6|0
+statements appearing|NNS VBG|BODY_6|0
+thirty tables|CD NNS|BODY_3|0
+the fetch statement|DT VBP NN|BODY_2|0
+the results|DT NNS|BODY_1:ABSTRACT_1|0
+the trace|DT NN|BODY_7|0
+the sql statement analysis|DT JJ NN NN|BODY_2:BODY_4|0
+transaction|NN|BODY_2|0
+75 %|CD NN|BODY_2|0
+subsystem related events|NN VBN NNS|BODY_5|0
+select s.city|JJ NN|BODY_3|0
+its run time records|PRP$ VBP NN NNS|BODY_3|0
+manager io requests|NN NN NNS|BODY_7|0
+the executed sql statement distributions|DT VBN JJ NN NNS|BODY_2|0
+an invocation|DT NN|BODY_3|0
+a comparison operator|DT NN NN|BODY_4|0
+fig|NN|BODY_5:BODY_1|0
+some pages|DT NNS|BODY_3:BODY_4|0
+an embedded sql statement|DT JJ NN NN|BODY_2|0
+an index|DT NN|BODY_4|0
+what kind|WP NN|BODY_2|0
+static sql statement|JJ NN NN|BODY_2|0
+the optimality|DT NN|BODY_4|0
+less than 10 rows|JJR IN CD NNS|BODY_5|0
+one index|CD NN|BODY_5|0
+basic , quantified , between , null , like ,|JJ , JJ , IN , JJ , JJ ,|BODY_3|0
+fetc hes|NN NNS|BODY_5|0
+singleton select , sum|JJ JJ , NN|BODY_6|0
+input variables|NN NNS|BODY_2|0
+all base tables and views|DT NN NNS CC NNS|BODY_5|0
+nearly 40 %|RB CD NN|BODY_4|0
+systems [11]|NNS NNS|BODY_3|0
+6 times|CD NNS|BODY_4|0
+the average column width|DT NN NN NN|BODY_6|0
+the other two|DT JJ CD|BODY_7|0
+access plan selection|NN NN NN|BODY_8|0
+an|DT|BODY_1|0
+related events|VBN NNS|BODY_6|0
+the view definition|DT NN NN|BODY_1:BODY_3|0
+a subquery|DT NN|BODY_5|0
+different invocations|JJ NNS|BODY_5|0
+results|NNS|BODY_5|0
+(around 0.18 %|JJ CD NN|BODY_8|0
+two-way|JJ|BODY_4|0
+the application|DT NN|BODY_5|0
+a dynamic sql|DT JJ NN|BODY_7|0
+descriptions|NNS|BODY_2|0
+the fraction|DT NN|BODY_8|0
+33.1 %|CD NN|BODY_4|0
+the sql statement|DT JJ NN|BODY_2|0
+( rds|-LRB- NNS|BODY_7|0
+implications|NNS|BODY_2|0
+sql statement types|JJ NN NNS|BODY_3|0
+a real-life example|DT NN NN|BODY_5|0
+the one|DT CD|BODY_2|0
+a query|DT NN|BODY_2|0
+more|JJR|BODY_8|0
+cobol and pl/ i|NN CC NN NN|BODY_2|0
+the form  column comparison operator value|DT NN NN NN NN NN NN|BODY_7|0
+transaction plan description|NN NN NN|BODY_3|0
+open cursor|JJ NN|BODY_4|0
+a very extensive run-time tracing facility|DT RB JJ NN VBG NN|BODY_2|0
+the relevant workload information|DT JJ NN NN|BODY_2|0
+i .e|FW FW|BODY_4|0
+times|NNS|BODY_7|0
+very few joins|RB JJ VBZ|BODY_3|0
+the view analysis|DT NN NN|BODY_3|0
+the frequently executed plans|DT RB VBN NNS|BODY_6|0
+all the supplier city and parts city pairs|DT DT NN NN CC NNS NN NNS|BODY_2|0
+whose values|WP$ NNS|BODY_3|0
+uniform distribution|JJ NN|BODY_4|0
+group|NN|BODY_1:BODY_4|0
+an expression|DT NN|BODY_3|0
+assumption|NN|BODY_3|0
+the data manager|DT NNS NN|BODY_4|0
+e.g|NN|BODY_4|0
+a similar way|DT JJ NN|BODY_2|0
+their types [13]|PRP$ NNS RB|BODY_2|0
+multiple-record insert|JJ NN|BODY_3|0
+the characteristics|DT NNS|BODY_2|0
+only 20 %|RB CD NN|BODY_2|0
+the tuple|DT NN|BODY_2|0
+each cursor|DT NN|BODY_2|0
+peak period|JJ NN|BODY_5:BODY_3|0
+programming languages|NN NNS|BODY_3|0
+simple predicates|JJ NNS|BODY_6|0
+5381 static sql statements|RB JJ JJ NNS|BODY_2|0
+our knowledge|PRP$ NN|BODY_2|0
+( i .e|-LRB- IN NN|BODY_5|0
+a maximum|DT NN|BODY_5|0
+a hundred executions|DT CD NNS|BODY_4|0
+the command|DT NN|BODY_2|0
+s-select means|JJ VBZ|BODY_9|0
+25 %|CD NN|BODY_4|0
+etc.|FW|BODY_6|0
+the detailed events|DT JJ NNS|BODY_3|0
+select)|NN|BODY_4|0
+a table name|DT NN NN|BODY_2|0
+305 application plans|CD NN NNS|BODY_2|0
+about 95 % access|IN CD NN NN|BODY_5|0
+ibm research|JJ NN|BODY_2|0
+next|JJ|BODY_3|0
+the singleton select and cursor select show|DT JJ JJ CC JJ JJ NN|BODY_2|0
+a qualified tuple|DT JJ NN|BODY_5:BODY_4|0
+a two-hour interval|DT JJ NN|ABSTRACT_5|0
+execution plan generation|NN NN NN|BODY_6|0
+a two hour interval|DT CD NN NN|BODY_2:BODY_4|0
+one rds|CD NNS|BODY_4|0
+the total number|DT JJ NN|BODY_6:BODY_1|0
+various components|JJ NNS|BODY_2|0
+two with one view|CD IN CD NN|BODY_6|0
+every 40.1 ( =90.64/2.26 )|DT CD -LRB- CD -RRB-|BODY_5|0
+the rds|DT NNS|BODY_7|0
+the efficiency|DT NN|BODY_4|0
+join queries|VB NNS|BODY_2|0
+75.9 %|CD NN|BODY_2|0
+96.8 %|CD NN|BODY_6|0
+% ) static sql statements|NN -RRB- JJ JJ NNS|BODY_4|0
+87 %|CD NN|BODY_2|0
+an accounting type application|DT NN NN NN|BODY_5|0
+little|RB|BODY_5|0
+detailed lock information|JJ NN NN|BODY_8|0
+only 4|RB CD|BODY_2|0
+this accounting type workload|DT NN NN NN|BODY_4|0
+sort detail|NN NN|BODY_9|0
+internal control structures|JJ NN NNS|BODY_6|0
+every index|DT NN|BODY_3|0
+the syskeys table|DT NNS NN|BODY_4|0
+cursor select , max 34 times|NN JJ , JJ CD NNS|BODY_5|0
+our work|PRP$ NN|BODY_2|0
+some structure information|DT NN NN|BODY_5|0
+less than 20 sql statements|JJR IN CD JJ NNS|BODY_9|0
+plan|NN|BODY_3|0
+the adaptive approach|DT JJ NN|BODY_7|0
+a collection|DT NN|BODY_5:BODY_3|0
+a range|DT NN|BODY_4|0
+51.6 %|CD NN|BODY_10|0
+different environments|JJ NNS|BODY_3|0
+another way|DT NN|BODY_3|0
+clauses|NNS|BODY_6:BODY_5|0
+each table and view|DT NN CC NN|BODY_3|0
+the rds column|DT NNS NN|BODY_7|0
+this information|DT NN|BODY_4|0
+us|PRP|BODY_6|0
+125,428 dynamic sql statements|CD JJ JJ NNS|BODY_3|0
+567 views|CD NNS|BODY_3|0
+almost 5 %|RB CD NN|BODY_1|0
+authorization-id|NN|BODY_3|0
+dynamic|JJ|BODY_3|0
+furthermore , more than 80 %|JJR , RBR IN CD NN|BODY_1|0
+less than 10 sql statements|JJR IN CD JJ NNS|BODY_3|0
+overhead|NN|BODY_1|0
+selection|NN|BODY_1|0
+some four-way join operation|DT JJ VBP NN|BODY_3|0
+table 3b|NN NN|BODY_1|0
+table 6 shows|NN CD VBZ|BODY_1|0
+the 2 hour tracing interval|DT CD NN VBG NN|BODY_1|0
+the dm level|DT NN NN|BODY_3|0
+the environment|DT NN|BODY_1|0
+the predicates types|DT NNS NNS|BODY_3|0
+a unique number|DT JJ NN|BODY_2|0
+the operations|DT NNS|BODY_3|0
+the base tables|DT NN NNS|BODY_1|0
+various design issues|JJ NN NNS|BODY_7|0
+a particular statement|DT JJ NN|BODY_7|0
+an sql trace|DT JJ NN|BODY_1:BODY_3|0
+) qualified tuple|-RRB- VBD NN|BODY_8|0
+structure analysis|NN NN|BODY_6|0
+the dynamic statements|DT JJ NNS|BODY_2|0
+two parts|CD NNS|BODY_2|0
+p.city|NN|BODY_4|0
+e.g.|FW|BODY_6|0
+76 times|CD NNS|BODY_7|0
+a width|DT NN|BODY_3|0
+strings|NNS|BODY_7|0
+base tables|NN NNS|BODY_8|0
+a single table space ) , tables , views , columns , indexes application plans|DT JJ NN NN -RRB- , NNS , NNS , NNS , NNS NN NNS|BODY_7|0
+query optimizers|NN NNS|BODY_2|0
+select queries|JJ NNS|BODY_13|0
+transactions|NNS|BODY_5|0
+a like predicate|DT JJ NN|BODY_6|0
+a constant|DT JJ|BODY_5|0
+alternative design trade-offs|NN NN NNS|BODY_4|0
+the alternative design tradeoffs|DT NN NN NNS|ABSTRACT_4|0
+storage|NN|BODY_5|0
+a cursor select|DT NN JJ|BODY_4|0
+count( *|NN NN|BODY_2|0
+28 %|CD NN|BODY_9|0
+all kinds|DT NNS|BODY_2|0
+a production db2 workload|DT NN NN NN|BODY_6|0
+dynamic sql and|JJ JJ CC|BODY_2|0
+each getting|DT VBG|BODY_3|0
+a relational system|DT JJ NN|BODY_5|0
+its statement number|PRP$ NN NN|BODY_4|0
+38.4 %|CD NN|BODY_2|0
+construct|VB|BODY_2|0
+sql ) trace|NN -RRB- NN|ABSTRACT_4|0
+0.9 %|CD NN|BODY_10:BODY_8|0
+7.7 %|CD NN|BODY_4|0
+a database request module|DT NN NN NN|BODY_3|0
+our study|PRP$ NN|BODY_4|0
+1.4 %|CD NN|BODY_7|0
+4.7 %|CD NN|BODY_3|0
+a per plan|DT FW NN|BODY_2|0
+0.76/0.72 )|CD -RRB-|BODY_6|0
+detailed information|JJ NN|BODY_2|0
+2438 transactions ( plan|CD NNS -LRB- NN|BODY_2|0
+the two hour period|DT CD NN NN|BODY_5|0
+run-time trace records|JJ NN NNS|BODY_6|0
+7 popular  transaction plans|CD JJ JJ NN NNS|BODY_2|0
+'s executed|POS VBN|BODY_3|0
+whether a large index scan|IN DT JJ NN NN|BODY_5|0
+order|NN|BODY_3|0
+'s involve group|POS VB NN|BODY_3|0
+table space|NN NN|BODY_5|0
+17|CD|BODY_4|0
+often constructs|RB NNS|BODY_2|0
+1.06 (|CD -LRB-|BODY_5|0
+more than 1,000,000 rows|RBR IN CD NNS|BODY_5|0
+47 (|CD -LRB-|BODY_2|0
+a major application environment|DT JJ NN NN|BODY_7|0
+insert and 2 times|NN CC CD NNS|BODY_8|0
+a db2 production environment|DT NN NN NN|BODY_2|0
+tuple|NN|BODY_5|0
+a few situations|DT JJ NNS|BODY_3|0
+a join- operation|DT RB NN|BODY_8|0
+100 %|CD NN|BODY_8|0
+in 8 selects|IN CD NNS|BODY_3|0
+the rows|DT NNS|BODY_3|0
+a simple retrieval statement|DT JJ JJ NN|BODY_2|0
+the sargable predicates|DT JJ NNS|BODY_6|0
+61.4)|CD|BODY_5|0
+the original sql statements|DT JJ NN NNS|BODY_8|0
+a cursor|DT NN|BODY_3:BODY_7|0
+ts , t and ix|NNS , NN CC NN|BODY_3|0
+static sql.|JJ NN|BODY_6:BODY_3|0
+two hundred|CD CD|BODY_2|0
+all the necessary information|PDT DT JJ NN|BODY_2|0
+less than 5 predicates|JJR IN CD NNS|BODY_4|0
+the elapsed time|DT JJ NN|BODY_9|0
+each invocation|DT NN|BODY_3|0
+the structure|DT NN|BODY_2|0
+general the functions and capabilities|JJ DT NNS CC NNS|BODY_4|0
+one predicate|CD NN|BODY_5:BODY_8|0
+multiple tables|JJ NNS|BODY_6|0
+an input variable|DT NN JJ|BODY_3|0
+4.10|CD|BODY_6|0
+the form|DT NN|BODY_2|0
+aggregate function|JJ NN|BODY_10|0
+28 inserts|CD NNS|BODY_5|0
+the filtering factors|DT NN NNS|BODY_2|0
+a parameter|DT NN|BODY_6|0
+each|DT|BODY_8|0
+a basic predicate type|DT JJ NN NN|BODY_3|0
+several issues|JJ NNS|BODY_2|0
+14 k rows|CD NN NNS|BODY_3|0
+a lot|DT NN|BODY_4|0
+less than 5 sql|JJR IN CD JJ|BODY_12|0
+the column width|DT NN NN|BODY_3|0
+each commit point|DT JJ NN|BODY_2|0
+the embedded sql|DT JJ NN|BODY_3|0
+the complied form|DT VBN NN|BODY_7|0
+a fetc h statement|DT JJ NN NN|BODY_4|0
+the numerical positions|DT JJ NNS|BODY_8|0
+the row|DT NN|BODY_10|0
+a structured query language|DT JJ NN NN|ABSTRACT_3|0
+subqueries|NNS|BODY_10|0
+table 9|NN CD|BODY_1:BODY_4|0
+the catalog information|DT NN NN|BODY_5|0
+an integrated and comprehensive picture|DT JJ CC JJ NN|BODY_5|0
+a transaction plan|DT NN NN|BODY_3|0
+2 to 5 predicates|CD TO CD NNS|BODY_3|0
+all executions|DT NNS|BODY_2|0
+all dynamic sql statements|DT JJ JJ NNS|BODY_3|0
+each predicate|DT NN|BODY_2|0
+aggregate statistics|JJ NNS|BODY_3|0
+each other|DT JJ|BODY_4|0
+definition dynamic select|NN JJ VBP|BODY_2|0
+selectivity variations|NN NNS|BODY_3|0
+the sysstmt table|DT NN NN|BODY_1|0
+no prior work|DT JJ NN|BODY_4|0
+occasional transaction execution|JJ NN NN|BODY_6|0
+about half|IN NN|BODY_7|0
+the where clauses|DT WRB NNS|BODY_3|0
+a retrieval type statement|DT JJ NN NN|BODY_4|0
+start time|NN NN|BODY_3|0
+a single fetch statement|DT JJ VB NN|BODY_4|0
+the average two hundred|DT JJ CD CD|BODY_3|0
+how many tuples|WRB JJ NNS|BODY_5|0
+a second|DT JJ|BODY_4|0
+large transactions|JJ NNS|BODY_6|0
+a where clause|DT WRB NN|BODY_4|0
+a clear need|DT JJ NN|BODY_2|0
+the cursor name|DT NN NN|BODY_3|0
+where , group|WRB , NN|BODY_8|0
+run-time behavior|JJ NN|ABSTRACT_4|0
+quite a lot|RB DT NN|BODY_3|0
+table spaces|NN NNS|BODY_3|0
+several expansions or substitutions|JJ NNS CC NNS|BODY_4|0
+the usual suppliers ( s) , parts ( p)|DT JJ NNS -LRB- VBN , NNS -LRB- NN|BODY_6|0
+60 sql|CD NN|BODY_3|0
+the dm|DT NN|BODY_3|0
+the data manipulative sql statements|DT NNS JJ JJ NNS|BODY_1:BODY_3|0
+the makeup|DT NN|ABSTRACT_3|0
+other application environments|JJ NN NNS|BODY_2|0
+average behavior|JJ NN|BODY_2|0
+a host|DT NN|BODY_8|0
+the from|DT IN|BODY_3|0
+the columns|DT NNS|BODY_2|0
+the group|DT NN|BODY_4|0
+the target|DT NN|BODY_4|0
+two columns|CD NNS|BODY_5|0
+a where|DT WRB|BODY_3|0
+redwar )|NN -RRB-|ABSTRACT_2|0
+table 4b|NN NNS|BODY_5:BODY_1|0
+only multiple-record insert statements|RB JJ NN NNS|BODY_3|0
+the data manipulative type sql|DT NNS NN NN JJ|BODY_4|0
+the following view|DT VBG NN|BODY_2|0
+access|NN|BODY_7|0
+30 %|CD NN|BODY_2|0
+parentheses|NNS|BODY_5:BODY_4|0
+a simple|DT NN|BODY_6|0
+72 % )|CD NN -RRB-|BODY_2|0
+10 tuples|CD NNS|BODY_4|0
+time|NN|BODY_4|0
+the rest|DT NN|BODY_4|0
+every 11.3 ( =2.26/0.20 ) dm|DT CD -LRB- CD -RRB- NN|BODY_9|0
+sargable predicates|JJ NNS|BODY_4|0
+the external view|DT JJ NN|BODY_2|0
+all stored data|DT VBN NNS|BODY_6|0
+an sql|DT NN|BODY_5|0
+a three way|DT CD NN|BODY_3|0
+various types|JJ NNS|BODY_4|0
+the statements|DT NNS|BODY_2|0
+the average 0.69 cursor select invocations|DT JJ CD NN JJ NNS|BODY_7|0
+96 %|CD NN|BODY_2|0
+debit credit|NN NN|BODY_9|0
+9.4 bytes|CD NNS|BODY_5|0
+[18]|NN|BODY_5|0
+the tables|DT NNS|BODY_1|0
+this workload|DT NN|BODY_1|0
+a complex|DT NN|BODY_5|0
+qualified tuples|VBD NNS|BODY_8|0
+an artificial|DT NN|BODY_3|0
+some search arguments|DT NN NNS|BODY_3|0
+shipment ( sp) relations|NN -LRB- JJ NNS|BODY_7|0
+c- select|RB JJ|BODY_6|0
+the mean response time|DT JJ NN NN|BODY_4|0
+transaction run-time behavior|NN NN NN|BODY_6:BODY_1|0
+the predicate types|DT NN NNS|BODY_5|0
+execution|NN|BODY_5|0
+the same form|DT JJ NN|BODY_2|0
+none|NN|BODY_1|0
+update-nc|NNP|BODY_4|0
+sql statements and transactions|JJ NNS CC NNS|BODY_5:BODY_4|0
+the entire table )|DT JJ NN -RRB-|BODY_7|0
+such a software tool|PDT DT NN NN|BODY_5|0
+the select , delete , update|DT JJ , JJ , NN|BODY_7|0
+application plans|NN NNS|BODY_7|0
+indexes|NNS|BODY_2|0
+a good testbed|DT JJ NN|BODY_10|0
+e .g|NN NN|BODY_7|0
+stored data|VBN NNS|BODY_4|0
+close to 87 %|JJ TO CD NN|BODY_2|0
+the cursor select statements|DT NN JJ NNS|BODY_3|0
+a predicate|DT NN|BODY_3|0
+1147.67 tuples|CD NNS|BODY_16|0
+3 % use work file scan|CD NN VBP NN NN NN|BODY_14|0
+36.07 (|CD -LRB-|BODY_13|0
+453.2 tuples|CD NNS|BODY_6|0
+64.79 tuples|CD NNS|BODY_12|0
+an application plan|DT NN NN|BODY_3|0
+the dbrm|DT NN|BODY_10|0
+prepare-c|NN|BODY_2|0
+sql related events|JJ JJ NNS|BODY_4|0
+cursor control|NN NN|BODY_11|0
+delete|JJ|BODY_10|0
+other views|JJ NNS|BODY_3|0
+prepare-nc|NN|BODY_6|0
+our methodology|PRP$ NN|BODY_2|0
+the methodology|DT NN|BODY_2|0
+singleton selects|NN NNS|BODY_3|0
+a select clause )|DT JJ NN -RRB-|BODY_5|0
+multiple-record insert statements|JJ JJ NNS|BODY_3|0
+the maximum|DT NN|BODY_4|0
+substantial variations|JJ NNS|BODY_2|0
+operand types|NN NNS|BODY_6|0
+each sql type|DT NN NN|BODY_3|0
+cursor ( w/wo update of)|NN -LRB- NN NN NN|BODY_7|0
+dalton|NN|BODY_1|0
+j.|NN|BODY_7|0
+the data manipulation sql statements|DT NNS NN NN NNS|BODY_1|0
+cursor selects|NN NNS|BODY_6|0
+performance [9]|NN NN|BODY_7|0
+the presence|DT NN|BODY_1|0
+the sql statement composition|DT JJ NN NN|BODY_3|0
+virtual tables|JJ NNS|BODY_2|0
+that information|DT NN|BODY_4|0
+views )|NNS -RRB-|BODY_9|0
+four indexes|CD NNS|BODY_11|0
+4006 bytes|CD NNS|BODY_9|0
+a small table|DT JJ NN|BODY_10|0
+just one view|RB CD NN|BODY_8|0
+any or all )|DT CC DT -RRB-|BODY_7|0
+an attempt|DT NN|BODY_2|0
+fetch and ( singleton|VB CC -LRB- NN|BODY_1|0
+environment|NN|BODY_12|0
+less than 100 rows|JJR IN CD NNS|BODY_9|0
+all inserts|PDT NNS|BODY_7|0
+structural information|JJ NN|BODY_3|0
+work file ( seqw)|NN NN -LRB- NN|BODY_7|0
+half|NN|BODY_1|0
+that relation citypairs|DT NN NNS|BODY_3|0
+the constructs|DT NNS|BODY_6|0
+the workload study|DT NN NN|ABSTRACT_2|0
+the average response time|DT JJ NN NN|BODY_1|0
+a million|DT CD|BODY_6|0
+etc. )|FW -RRB-|BODY_9|0
+certain rows|JJ NNS|BODY_4|0
+the static sql statements|DT JJ NN NNS|BODY_9|0
+phase|NN|BODY_5|0
+all base tables|DT NN NNS|BODY_3|0
+read-only transactions|JJ NNS|BODY_3|0
+maximum number|JJ NN|BODY_3|0
+a join|DT VB|BODY_8|0
+dm) [15|NN CD|BODY_5|0
+statement appearances|NN NNS|BODY_4|0
+sql statement structure and transaction behavior|JJ NN NN CC NN NN|BODY_9|0
+a debit-credit type banking workload|DT NN NN NN NN|BODY_1|0
+the dm and rds|DT NN CC NNS|BODY_3|0
+the table space|DT NN NN|BODY_11|0
+time statistics|NN NNS|BODY_2|0
+sql execution|NN NN|BODY_8|0
+a few 3-way and 4-way joins|DT JJ JJ CC JJ VBZ|BODY_5|0
+more than 10,000 tuples|JJR IN CD NNS|BODY_9|0
+close cursor|JJ NN|BODY_6|0
+(scity|NN|BODY_1|0
+a select clause|DT JJ NN|BODY_5|0
+table 8|NN CD|BODY_1|0
+the identification|DT NN|BODY_1|0
+the frequent occurrences|DT JJ NNS|BODY_1|0
+an open/close pair|DT JJ NN|BODY_1|0
+the view information|DT NN NN|BODY_1|0
+[7]|NN|BODY_8|0
+contrast|NN|BODY_1|0
+in.|NN|BODY_4|0
+the following subsections|DT VBG NNS|BODY_1|0
+consideration|NN|BODY_4|0
+two views|CD NNS|BODY_8|0
+the db2 workload|DT NN NN|BODY_3|0
+[10]|NNP|BODY_9|0
+systables|NNS|BODY_1|0
+the corresponding scan type executions|DT JJ NN NN NNS|BODY_9|0
+ever more stringent [1]|RB RBR JJ NN|BODY_4|0
+his contributions|PRP$ NNS|BODY_1|0
+count(distinct)|NN|BODY_4|0
+551|CD|BODY_7|0
+the program|DT NN|BODY_1|0
+all these statistics|PDT DT NNS|BODY_1|0
+sysviews or sysstmt|NNS CC NN|BODY_1|0
+the access plan|DT NN NN|BODY_1|0
+the same shipment|DT JJ NN|BODY_3|0
+all qualified tuples|DT JJ NNS|BODY_6|0
+the scan type |DT JJ NN|BODY_1|0
+] [8]|JJ NN|BODY_7|0
+table characteristics|NN NNS|BODY_1|0
+[4 ]|CD SYM|BODY_4|0
+the base table|DT NN NN|BODY_3|0
+their definitions|PRP$ NNS|BODY_7|0
+less than 10 )|RBR IN CD -RRB-|BODY_4|0
+run time statistics|VBN NN NNS|BODY_3|0
+the catalog table|DT NN NN|BODY_7|0
+the second phase|DT JJ NN|BODY_1|0
+join type queries|VBP NN NNS|BODY_6|0
+the same transaction plan|DT JJ NN NN|BODY_6|0
+a  cursor |DT JJ NN|BODY_1|0
+statement basis|NN NN|BODY_3|0
+each time|DT NN|BODY_1|0
+application plan description|NN NN NN|BODY_1|0
+different extent and detail|JJ NN CC NN|BODY_4|0
+the db2 catalog [13]|DT NN NN NN|BODY_4|0
+both the static|PDT DT JJ|BODY_1|0
+described above|VBN IN|BODY_7|0
+the workload analyzer|DT NN NN|BODY_1|0
+[14]|NN|BODY_3|0
+section 2|NN CD|BODY_1|0
+the measured interval|DT JJ NN|BODY_4|0
+summary information|NN NN|BODY_9|0
+a hundred seconds|DT CD NNS|BODY_9|0
+the various parameters|DT JJ NNS|BODY_1|0
+introduction|NN|BODY_1|0
+both software and hardware designs|DT NN CC NN NNS|BODY_3|0
+insert.|NN|BODY_10|0
+table 5|NN CD|BODY_6|0
+a sequence number|DT NN NN|BODY_4|0
+34 different plans|CD JJ NNS|BODY_4|0
+tables and views|NNS CC NNS|BODY_7|0
+each transaction invocation|DT NN NN|BODY_10|0
+not rejected|RB VBN|BODY_1|0
+fetch|VB|BODY_1|0
+22|CD|BODY_6|0
+se-|NNS|BODY_10|0
+the run time statistics|DT VBN NN NNS|BODY_1|0
+any or all.|DT CC $|BODY_6|0
+per- formance , accounting and statistical data|NNS NN , NN CC JJ NNS|BODY_3|0
+the 567 views|DT CD NNS|BODY_1|0
+the invocation|DT NN|BODY_1|0
+various run time statistics|JJ VBN NN NNS|BODY_8|0
+other words|JJ NNS|BODY_1|0
+the db2 catalog|DT NN NN|BODY_5|0
+a majority|DT NN|BODY_1|0
+the aggregate functions|DT JJ NNS|BODY_1|0
+the sysindexes table|DT NNS NN|BODY_1|0
+a|DT|BODY_1|0
+dbrm )|NN -RRB-|BODY_4|0
+the cursor|DT NN|BODY_7|0
+section 3|NN CD|BODY_5|0
+a quantified predicate|DT JJ NN|BODY_1|0
+459 dynamic sql statements|CD JJ JJ NNS|BODY_3|0
+the best|DT JJS|BODY_1|0
+union.|NN|BODY_14|0
+the purpose|DT NN|BODY_1|0
+less than ten executions|JJR IN CD NNS|BODY_8|0
+the sql trace|DT JJ NN|BODY_1|0
+the access path|DT NN NN|BODY_5|0
+this issue|DT NN|BODY_2|0
+different statements|JJ NNS|BODY_5|0
+about 5 %|IN CD NN|BODY_1|0
+few|JJ|BODY_1|0
+a petroleum company|DT NN NN|BODY_6|0
+analyzing data manipulative sql statement structures|NN NNS JJ NN NN NNS|BODY_6|0
+a relational database workload analyzer ( redwar )|DT JJ NN NN NN -LRB- NN -RRB-|BODY_1|0
+one relation|CD NN|BODY_6|0
+run time behavior|NN NN NN|BODY_3|0
+the view definitions|DT VB NNS|BODY_4|0
+information db2|NN NN|BODY_1|0
+records|NNS|BODY_9|0
+a certain pattern|DT JJ NN|BODY_9|0
+dynamic sql statement|JJ NN NN|BODY_5|0
+a base table|DT NN NN|BODY_6|0
+the first phase|DT JJ NN|BODY_1|0
+this end|DT NN|BODY_1|0
+two phases|CD NNS|BODY_2|0
+an  x |DT NN NN|BODY_2|0
+the performance trace|DT NN NN|BODY_1|0
+each view statement|DT NN NN|BODY_6|0
+the application plan|DT NN NN|BODY_5|0
+each application executes|DT NN NNS|BODY_1|0
+each qualified tuple retrieval|DT VBN NN NN|BODY_7|0
+[16] [17]|NNP NNP|BODY_14|0
+dynamic sql parameter|JJ NN NN|BODY_5|0
+the run time trace|DT NN NN NN|BODY_4|0
+systems|NNS|BODY_4|0
+the maximum table size|DT JJ NN NN|BODY_9|0
+run-time [13] [14]|NN NN NN|BODY_5|0
+the batch update|DT NN NN|BODY_1|0
+the workload analysis|DT NN NN|BODY_5|0
+11.7 %|CD NN|BODY_6|0
+10 )|CD -RRB-|BODY_1|0
+yes|RB|BODY_1|0
+operations|NNS|BODY_4|0
+subquery constructs|JJ NNS|BODY_5|0
+1.03|CD|BODY_4|0
+index|NN|BODY_7|0
+disguise|NN|BODY_7|0
+72 %|CD NN|BODY_1|0
+the particular scan type|DT JJ NN NN|BODY_5|0
+certain information|JJ NN|BODY_1|0
+dynamic sql [12]|JJ JJ NN|BODY_1|0
+a larger tail distribution|DT JJR NN NN|BODY_2|0
+on-line updates/inserts/deletes|JJ NNS|BODY_4|0
+the tracing period|DT VBG NN|BODY_1|0
+each application plan|DT NN NN|BODY_3|0
+syscolumns|NNS|BODY_1|0
+the sql trace records|DT JJ NN NNS|BODY_1|0
+the sysplan table|DT NN NN|BODY_1|0
+more than one relation|RBR IN CD NN|BODY_1|0
+both static sql statements|DT JJ JJ NNS|BODY_1|0
+5 conclusion|CD NN|BODY_1|0
+section 5|NN CD|BODY_2|0
+dm and rds|NN CC NNS|BODY_4|0
+almost 85 %|RB CD NN|BODY_1|0
+sysstmt.|PRP$|BODY_5|0
+table 2|NN CD|BODY_1|0
+both|DT|BODY_1|0
+one or more dbrm|CD CC JJR NN|BODY_1|0
+a fetch|DT VBP|BODY_1|0
+create and drop|VB CC VB|BODY_1|0
+each sql statement type|DT JJ NN NN|BODY_1|0
+section 4|NN CD|BODY_1|0
+the above statement|DT JJ NN|BODY_1|0
+the following observations|DT JJ NNS|BODY_3|0
+the following statement|DT VBG NN|BODY_3|0
+the pages scan  column|DT NNS JJ NN NN|BODY_1|0
+the particular environment|DT JJ NN|BODY_1|0
+the transaction/plan execution frequency|DT NN NN NN|BODY_2|0
+the numbers|DT NNS|BODY_1|0
+about 80 fetc hes|IN CD JJ NNS|BODY_10|0
+other statement types|JJ NN NNS|BODY_8|0
+fetch.|NN|BODY_8|0
+a tuple|DT NN|BODY_1|0
+table 4c|NN JJ|BODY_1|0
+the db2|DT NNS|BODY_5|0
+repeated fetch statements|VBN VB NNS|BODY_8|0
+this environment|DT NN|BODY_1|0
+32.9|CD|BODY_5|0
+the tuples|DT NNS|BODY_6|0
+is|VBZ|BODY_1|0
+table 1|NN CD|BODY_1|0
+all|DT|BODY_1|0
+the aggregate statistics|DT JJ NNS|BODY_1|0
+the table|DT NN|BODY_14|0
+the table , etc|DT NN , FW|BODY_14|0
+data manipulation|NNS NN|BODY_3|0
+our analysis|PRP$ NN|BODY_1|0
+the transaction statistics|DT NN NNS|BODY_1|0
+the select clause|DT JJ NN|BODY_6:BODY_9|1
+cursor select statements|NN JJ NNS|BODY_8|0
+another 8 %|DT CD NN|BODY_1|0
+a large number (|DT JJ NN -LRB-|BODY_1|0
+the authors|DT NNS|BODY_1|0
+the averages and maximum values|DT NNS CC NN NNS|BODY_1|0
+the basic predicate type|DT JJ NN NN|BODY_1|0

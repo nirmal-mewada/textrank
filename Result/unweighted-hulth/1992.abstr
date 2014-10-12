@@ -1,0 +1,59 @@
+feature points|NN NNS|BODY_2:BODY_3|0
+the mark|DT NN|BODY_1:BODY_3|0
+geometrical distortions|JJ NNS|BODY_1:BODY_3:BODY_8:BODY_9|0
+we|PRP|BODY_2:BODY_1|0
+correlation properties|NN NNS|BODY_2|0
+watermarking schemes|NN NNS|BODY_2|0
+jpeg compression|NNP NN|BODY_3|0
+the fact|DT NN|BODY_2|0
+the presented scheme|DT VBN NN|BODY_2|0
+the scheme|DT NN|BODY_3|0
+the set|DT NN|BODY_6|0
+the different perspectives|DT JJ NNS|BODY_3|0
+local transformations|JJ NNS|BODY_5|0
+each triangle|DT NN|BODY_3|0
+rotations and translations|NNS CC NNS|BODY_4|0
+geometrical transformations|JJ NNS|BODY_4|0
+the signature|DT NN|BODY_2|0
+a content descriptor|DT NN NN|BODY_4|0
+periodical properties|JJ NNS|BODY_2|0
+their robustness|PRP$ NN|BODY_3|0
+a delaunay tessellation|DT NN NN|BODY_5|0
+classical watermarking methods|JJ NN NNS|BODY_2|0
+a classical additive scheme|DT JJ JJ NN|BODY_2|0
+the image|DT NN|BODY_4|0
+an overview|DT NN|BODY_1|0
+self-synchronizing schemes|JJ NNS|BODY_2|0
+global transformations|JJ NNS|BODY_3|0
+watermarking|NN|BODY_5|0
+an embedding and detection scheme|DT NN CC NN NN|BODY_2|0
+this paper|DT NN|BODY_3|0
+template insertion|JJ NN|BODY_6|0
+two classes|CD NNS|BODY_2|0
+invariant properties|JJ NNS|BODY_4|0
+transforms|NNS|BODY_5|0
+robustness|NN|BODY_7|0
+information|NN|BODY_7|0
+the original image|DT JJ NN|BODY_8|0
+a new approach|DT JJ NN|BODY_4|0
+digital images|JJ NNS|BODY_6|0
+a new class|DT JJ NN|BODY_1|0
+the detection|DT NN|BODY_1|0
+the different triangles|DT JJ NNS|BODY_3|0
+the image content|DT NN NN|BODY_3|0
+geometrical attack and transformations|JJ NN CC NNS|BODY_4|0
+results|NNS|BODY_1|0
+the performance|DT NN|BODY_1|0
+these different manipulations|DT JJ NNS|BODY_4|0
+the stirmark attack|DT NN NN|BODY_6|0
+an enhanced detector|DT JJ NN|BODY_5|0
+points|NNS|BODY_7|0
+the tessellation|DT NN|BODY_4|0
+such content-based watermarking scheme|JJ JJ NN NN|BODY_4|0
+our concluding remarks|PRP$ VBG NNS|BODY_1|0
+salient points|JJ NNS|BODY_5|0
+theses schemes|DT NNS|BODY_1|0
+the weaknesses|DT NNS|BODY_1|0
+the embedding|DT NN|BODY_1|0
+invariant watermarking|JJ NN|BODY_1|0
+three different types|CD JJ NNS|BODY_1|0

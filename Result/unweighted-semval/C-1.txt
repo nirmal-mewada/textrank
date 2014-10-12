@@ -1,0 +1,424 @@
+we|PRP|BODY_6:BODY_5:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|3
+that|WDT|BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_3:BODY_4:BODY_8|0
+the dht|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+it|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4:BODY_8|1
+uddi|NNS|BODY_6:BODY_5:ABSTRACT_4:TITLE_2:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:ABSTRACT_7:BODY_7|0
+which|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the proxy registry|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the service|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8|0
+top|NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+this|DT|BODY_6:BODY_2:BODY_1:BODY_3|0
+multiple registries|JJ NNS|BODY_5:BODY_2:ABSTRACT_3:BODY_7:BODY_9|0
+services|NNS|BODY_5:BODY_3:BODY_4|1
+the proxy|DT NN|BODY_2:BODY_1:BODY_4|0
+grids|NNS|ABSTRACT_6:ABSTRACT_8:ABSTRACT_2:BODY_2:BODY_4:BODY_7:BODY_8|1
+a registry|DT NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+a service|DT NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_9|0
+dhts|VBD|BODY_3:BODY_7:BODY_9|1
+the unique uddi key|DT JJ JJ NN|BODY_6:BODY_5:BODY_4|0
+a client|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+the query url|DT NN NN|BODY_2:BODY_3:BODY_7|0
+the service name|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+the local uddi registry|DT JJ NN NN|BODY_4:BODY_7|0
+different distributed computing infrastructure/platforms|JJ VBN VBG NNS|BODY_3|0
+the ability|DT NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+a specialized grid service|DT JJ NN NN|BODY_4|0
+uddi ( universal description|NNP -LRB- JJ NN|BODY_8|0
+the web service version|DT NN NN NN|BODY_2|0
+the uddi v3.0.2 specification|DT NNP CD NN|BODY_3|1
+( distributed hash tables|-LRB- VBN NN NNS|ABSTRACT_2|0
+the uddi public article|DT NN JJ NN|BODY_5|0
+the service discovery function|DT NN NN NN|BODY_3|0
+monitoring and discovery service|NN CC NN NN|BODY_10|0
+a new local registry|DT JJ JJ NN|BODY_4:BODY_9|0
+its local proxy registry|PRP$ JJ NN NN|BODY_2:BODY_3|0
+profit or commercial advantage|NN CC JJ NN|BODY_12|0
+the major industry supporters|DT JJ NN NNS|BODY_3|0
+a large identifier space|DT JJ NN NN|BODY_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+this crucial design choice|DT JJ NN NN|BODY_1|0
+a local proxy registry|DT JJ NN NN|BODY_2|0
+the globus toolkit version|DT NN NN NN|BODY_6|0
+other grid computing standards|JJ NN NN NNS|BODY_9|0
+both planetlab1 and planetlab2.rdfrancetelecom.com|DT NNS CC NN|BODY_3|0
+> <xs :element name|JJ . NN NN|BODY_7|0
+3 ( v3 )|CD -LRB- NN -RRB-|BODY_5|0
+4 ( gt4 )|CD -LRB- NN -RRB-|BODY_7|0
+a logical semantic overlay|DT JJ JJ NN|BODY_2|0
+a common software package|DT JJ NN NN|BODY_3|0
+the network maintenance protocol|DT NN NN NN|BODY_12|0
+a seamless federation mechanism|DT JJ NN NN|BODY_7|0
+the transparent proxy approach|DT JJ JJ NN|BODY_2|0
+a new uddi registry|DT JJ NN NN|BODY_7|0
+multiple proxy uddi registries|JJ JJ NN NNS|BODY_19|0
+a simple lookup operation|DT JJ NN NN|BODY_2|0
+grid and p2p computing|NN CC NN NN|BODY_2|0
+the uddi business registries|DT NNP NN NNS|BODY_4|1
+the only known uses|DT RB VBN NNS|BODY_2|0
+the dht lookup return|DT JJ NN NN|BODY_2|0
+( agent management system|-LRB- NN NN NN|BODY_2|0
+scalable web service permission|JJ NN NN NN|BODY_5|0
+a semantic markup language|DT JJ NN NN|BODY_3|0
+other distributed computing platforms/middleware|JJ VBN NN NN|BODY_1|0
+resource and request descriptions|NN CC NN NNS|BODY_1|0
+their respective uddi registries|PRP$ JJ JJ NNS|BODY_4|0
+the use case diagram|DT NN NN NN|BODY_5|0
+> â€ ¦ </xs|JJ JJ NN NNS|BODY_17|0
+personal or classroom use|JJ CC NN NN|BODY_9|0
+the web services standards|DT NN NNS NNS|BODY_4|0
+only relevant uddi registries|RB JJ NNP NNS|BODY_6|0
+the first 12 characters|DT JJ CD NNS|BODY_2|0
+an initial syntax-based search|DT JJ JJ NN|BODY_4|0
+an extended uddi registry|DT JJ NN NN|BODY_2|1
+the bamboo dht [11]|DT NN NN NN|BODY_2|0
+the same identifier space|DT JJ NN NN|BODY_3|0
+the first 10 characters|DT JJ CD NNS|BODY_6|0
+dude architecture service information|JJ NN NN NN|BODY_2|0
+another service discovery mechanism|DT NN NN NN|BODY_2|0
+less than 5 characters|JJR IN CD NNS|BODY_2|0
+digital or hard copies|JJ CC JJ NNS|BODY_6|0
+a distributed uddi system|DT VBN IN NN|BODY_6|1
+the pastry dht [8|DT NN NN NNS|BODY_3|0
+all the potential sellers|PDT DT JJ NNS|BODY_6|0
+prefix-based routing and changes|JJ NN CC NNS|BODY_9|0
+p2p ) distributed system|NN -RRB- VBN NN|BODY_3:BODY_4|0
+the web services community|DT NN NNS NN|BODY_5:BODY_1|0
+easy and ubiquitous searching|JJ CC JJ NN|BODY_7|0
+a copy or reference|DT NN CC NN|BODY_4|0
+just one dht node|RB CD JJ NN|BODY_5|0
+all responses and returns|DT NNS CC NNS|BODY_3|0
+the proxy registry queries|DT NN NN NNS|BODY_2|0
+consistent routing or lookup|JJ NN CC NN|BODY_1|0
+the most recent information|DT RBS JJ NN|BODY_4|0
+the numerically closest identifier|DT RB JJS NN|BODY_4|0
+the registry|DT NN|BODY_6:BODY_1:BODY_3:BODY_8|0
+the other dht nodes|DT JJ NN NNS|BODY_4|0
+the routing table entry|DT NN NN NN|BODY_1|0
+a uddi unique key|DT NNP JJ NN|BODY_3|0
+commodity markets and auctions|NN NNS CC NNS|BODY_7|0
+all potential search terms|DT JJ NN NNS|BODY_3|0
+france telecom and hp|NN NN CC NN|BODY_1|0
+uddi deployment engine )|RB JJ NN -RRB-|ABSTRACT_5|1
+our dht based approach|PRP$ NN VBN NN|BODY_8|0
+the grid computing scenario|DT NN NN NN|BODY_1|0
+the first motivating factor|DT JJ NN NN|BODY_1|0
+discovering services meeting qos|VBG NNS NN NNS|BODY_1|0
+every planetlab host machine|DT NN NN NN|BODY_1|0
+2.3 distributed hash tables|CD VBN NN NNS|BODY_1|0
+the regular expression matches|DT JJ NN NNS|BODY_2|0
+the second motivating factor|DT JJ NN NN|BODY_1|0
+the corresponding uddi keys|DT JJ NN NNS|BODY_5|0
+a new service|DT JJ NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_10|0
+a similar process results|DT JJ NN NNS|BODY_1|0
+an ideal service registry|DT JJ NN NN|BODY_8|0
+the dispersed uddi registries|DT VBN NNP NNS|BODY_3|0
+the current uddi standard|DT JJ NNP NN|BODY_3|0
+other service discovery mechanisms|JJ NN NN NNS|BODY_6|0
+the query string maps|DT NN NN NNS|BODY_7|0
+the respective uddi registries|DT JJ JJ NNS|BODY_4|0
+the query service request|DT NN NN NN|BODY_3|0
+the null prefix maps|DT JJ NN NNS|BODY_7|0
+scalable grid service discovery|JJ NN NN NN|TITLE_1|0
+the longest available prefix|DT JJS JJ NN|BODY_4|0
+the uddi query mechanism|DT NN NN NN|BODY_2|0
+the word computer|DT NN NN|BODY_11:BODY_7:BODY_8|0
+one|CD|BODY_2:BODY_3:BODY_4|0
+a uddi registry|DT NNP NN|BODY_5:BODY_2:BODY_1|0
+the dht.|DT NN|BODY_6:BODY_3:BODY_14:BODY_4:BODY_7|0
+this work|DT NN|BODY_5:BODY_2:BODY_4:BODY_8|0
+a dht|DT NN|BODY_2:BODY_1:BODY_3|0
+uddi v3|NNP NN|BODY_5:BODY_2:BODY_1|0
+scalability|NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+autonomous control|JJ NN|ABSTRACT_6:ABSTRACT_14:BODY_3:BODY_8|0
+the scalability issue|DT NN NN|BODY_2:ABSTRACT_3:BODY_3:BODY_4|0
+the need|DT NN|ABSTRACT_4:BODY_2:BODY_4|0
+the local registries|DT JJ NNS|BODY_5:BODY_3|0
+there|EX|BODY_18:BODY_1|0
+the hash|DT NN|BODY_6:BODY_3:BODY_10|0
+a structured overlay|DT JJ NN|BODY_6:BODY_5|0
+multiple uddi registries|JJ NN NNS|ABSTRACT_4:BODY_3|0
+the uddi proxy|DT NNP NN|BODY_3|0
+> <xs:complextype> <xs|JJ JJ .|BODY_11:BODY_13|0
+the query string|DT JJ NN|BODY_3:BODY_4|0
+the put/get abstraction|DT NN NN|BODY_3|0
+the other nodes|DT JJ NNS|BODY_12:BODY_5|0
+the same time|DT JJ NN|BODY_5:ABSTRACT_4|0
+a dht key|DT JJ NN|BODY_2|0
+a soft state|DT JJ NN|BODY_3|0
+an application article|DT NN NN|BODY_2|0
+an object name|DT NN NN|BODY_3|0
+md5 or sha-1|CD CC NN|BODY_2|0
+prior specific permission|JJ JJ NN|BODY_3|0
+the data needs|DT NNS NNS|BODY_2|0
+the uddi specification|DT NNP NN|BODY_3|0
+the uddi registry|DT NNP NN|BODY_4:BODY_8|0
+the uddi registries|DT NN NNS|BODY_3:BODY_4|0
+our current implementation|PRP$ JJ NN|BODY_1:BODY_4|0
+the uddi key|DT NN NN|BODY_7:BODY_8:BODY_9|0
+a search|DT NN|BODY_5:BODY_2:BODY_1|0
+a service name|DT NN NN|BODY_3|0
+the nodes|DT NNS|BODY_1:BODY_2:BODY_4|0
+grouse .hpl .hp.com|NN NN NN|BODY_4:BODY_8|0
+the dht nodes|DT NN NNS|BODY_3:BODY_4|0
+our proposed architecture|PRP$ JJ NN|BODY_2|1
+each|DT|BODY_12:BODY_3:BODY_4|0
+the related work|DT JJ NN|BODY_2|0
+an open source|DT JJ NN|BODY_3|0
+uddi v3 registry|IN CD NN|BODY_6|0
+the dude architecture|DT JJ NN|ABSTRACT_1:BODY_4|0
+an overlay network|DT JJ NN|BODY_2|0
+first i digits|JJ NN NNS|BODY_7|0
+a rendezvous mechanism|DT NN NN|ABSTRACT_3|0
+an interesting alternative|DT JJ NN|BODY_4|0
+the full citation|DT JJ NN|BODY_15|0
+the search string|DT NN NN|BODY_1:BODY_7|0
+various market models|JJ NN NNS|BODY_6|0
+a recent article|DT JJ NN|BODY_3|0
+the new registry|DT JJ NN|BODY_1:BODY_3|0
+a hierarchical fashion|DT JJ NN|BODY_5|0
+multiple proxy registries|JJ NN NNS|BODY_2|0
+the dht key|DT NN NN|BODY_6|0
+the service information|DT NN NN|BODY_1:BODY_3|0
+their respective entries|PRP$ JJ NNS|BODY_4|0
+the routing tables|DT NN NNS|BODY_2|0
+uddi registries|NNP NNS|BODY_5:ABSTRACT_6:BODY_9|0
+the dht node|DT NN NN|BODY_1:BODY_4|0
+the uddi standard|DT NNP NN|BODY_2|0
+the service properties|DT NN NNS|BODY_2|1
+multiple values|JJ NNS|BODY_2:BODY_3|0
+the mds4 component|DT CD NN|BODY_5|0
+the search result|DT NN NN|BODY_8|0
+new local registry|JJ JJ NN|BODY_3|0
+the matching registries|DT VBG NNS|BODY_5|0
+ws mds )|NN NNS -RRB-|BODY_4|0
+ > <xs|IN JJ .|BODY_8|0
+a large scale|DT JJ NN|BODY_6|0
+the prefix sizes|DT JJ NNS|BODY_2|0
+other distant nodes|JJ JJ NNS|BODY_9|0
+the dht keys|DT NN NNS|BODY_1|0
+the routing table|DT NN NN|BODY_1|0
+:xs= http ://www.w3.org/2001/xmlschema|JJ NN NN|BODY_4|0
+all uddi registries|DT NNP NNS|BODY_6:BODY_9|0
+qos-based service discovery|JJ NN NN|BODY_3|1
+the inherent simplicity|DT JJ NN|BODY_2|0
+a grid economy|DT NN NN|BODY_4|0
+both uddi 1|DT NNP CD|BODY_3|0
+uddi more robust|NNP RBR JJ|BODY_6:ABSTRACT_7|0
+the hash function|DT NN NN|BODY_4|0
+such a registry|JJ DT NN|BODY_8|0
+large scale discovery|JJ NN NN|BODY_6|1
+our current solution|PRP$ JJ NN|BODY_3|0
+a distributed architecture|DT VBN NN|BODY_5|1
+the scalability benefits|DT NN NNS|BODY_2|0
+every advertised service|DT JJ NN|BODY_3|0
+a simple interface|DT JJ NN|BODY_3|0
+all dht nodes|DT JJ NNS|BODY_3|0
+the qos framework|DT NNS NN|BODY_6|0
+a sequence diagram|DT NN NN|BODY_6|0
+a few services|DT JJ NNS|BODY_2|0
+the search|DT NN|BODY_1:BODY_3:BODY_7|0
+different globus containers|JJ NN NNS|BODY_3|0
+private uddi registries|JJ NNP NNS|BODY_5|0
+two proxy uddi|CD JJ NN|BODY_2|0
+more efficient routing|RBR JJ NN|BODY_6:BODY_7|0
+a service query|DT NN NN|BODY_4|0
+distributed file storage|VBN NN NN|BODY_4|0
+the juddi source|DT NN NN|BODY_2|0
+the following schema|DT VBG NN|BODY_2|0
+the proposed architecture|DT JJ NN|BODY_2|1
+those hash values|DT JJ NNS|BODY_3|0
+respective uddi keys|JJ JJ NNS|BODY_3|0
+the scalability issues|DT NN NNS|BODY_2|0
+a federated query|DT JJ NN|BODY_5|0
+scalability and autonomy|NN CC NN|BODY_4|0
+such an approach|JJ DT NN|BODY_4|0
+a discovery framework|DT NN NN|BODY_2|0
+the network diagram|DT NN NN|BODY_2|0
+2 more entries|CD JJR NNS|BODY_2|0
+a secondary motivation|DT JJ NN|BODY_1|0
+dht based systems|NN VBN NNS|BODY_3|0
+general terms design|JJ NNS NN|ABSTRACT_1|0
+our dht deployment|PRP$ NN NN|BODY_1|0
+the same key|DT JJ NN|BODY_3|0
+the same value|DT JJ NN|BODY_2|0
+a service figure|DT NN NN|BODY_5|0
+the uddi interfaces|DT NNP NNS|BODY_4|0
+a physical layer|DT JJ NN|BODY_4|0
+the lookup operations|DT NN NNS|BODY_2|0
+their uddi registries|PRP$ JJ NNS|BODY_4|0
+a good match|DT JJ NN|BODY_2|0
+the necessary information|DT JJ NN|BODY_4|0
+the service apis|DT NN NN|BODY_3|0
+the bootstrapping process|DT JJ NN|BODY_8|0
+specific services need|JJ NNS NN|BODY_5|0
+a major concern|DT JJ NN|BODY_2|0
+all or part|DT CC NN|BODY_7|0
+just this abstraction|RB DT NN|BODY_2|0
+france discovery mechanisms|NN NN NNS|BODY_6|0
+a full search|DT JJ NN|BODY_7|0
+relatively new tool|RB JJ NN|BODY_4|0
+all distributed applications|DT VBN NNS|BODY_3|0
+this dht node|DT JJ NN|BODY_10|0
+hierarchical virtual organizations|JJ JJ NNS|BODY_3|0
+several uddi registries|JJ NNS NNS|BODY_3|0
+the dht acts|DT NN NNS|BODY_6|0
+three crucial scenarios|CD JJ NNS|BODY_8|0
+the overlay paths|DT NN NNS|BODY_10|0
+three usage scenarios|CD NN NNS|BODY_2|0
+the technical information|DT JJ NN|BODY_2|0
+the same service|DT JJ NN|BODY_2|0
+resources and services|NNS CC NNS|BODY_3|0
+a rendezvous network|DT NN NN|BODY_7|0
+later that deal|RB DT NN|BODY_3|0
+article 2 function|NN CD NN|BODY_5|0
+the transient nature|DT JJ NN|BODY_3|0
+a brief overview|DT JJ NN|BODY_3|0
+our dude framework|PRP$ NN NN|BODY_4|0
+the default behavior|DT NN NN|BODY_2|0
+the aggregated set|DT JJ NN|BODY_4|0
+the dht service|DT JJ NN|BODY_5:BODY_1|0
+our proxy registries|PRP$ NN NNS|BODY_3|0
+a better solution|DT JJR NN|BODY_3|0
+grid information services|NN NN NNS|BODY_4|0
+a certain name|DT JJ NN|BODY_4|0
+distributed search tree|VBN NN NN|BODY_7|0
+grid service discovery|NN NN NN|BODY_3|0
+operations|NNS|BODY_2:BODY_3:BODY_7|0
+in yellow pages|RB JJ NNS|BODY_1|0
+our concluding remarks|PRP$ VBG NNS|BODY_5|0
+section 7 discusses|NN CD NNS|BODY_1|0
+an exact match|DT JJ NN|BODY_5|0
+the previous case|DT JJ NN|BODY_2|0
+a regular expression|DT JJ NN|BODY_2|0
+a hash function|DT NN NN|BODY_1|0
+its dht key|PRP$ JJ NN|BODY_4|0
+no normative description|DT JJ NN|BODY_1|0
+the uddi service|DT NNP NN|BODY_1|0
+uddi 1 registry|NNP CD NN|BODY_5|0
+the yellow pages|DT JJ NNS|BODY_5|0
+the first page|DT JJ NN|BODY_16|0
+a searchable keyword|DT JJ NN|BODY_4|0
+a given service|DT VBN NN|BODY_3:BODY_4|0
+an ontology-based matchmaker|DT JJ NN|BODY_3|0
+its local proxy|PRP$ JJ NN|BODY_2|0
+the 12th character|DT JJ NN|BODY_10|0
+unstructured p2p communities|JJ JJ NNS|BODY_5|0
+accessing network services|VBG NN NNS|BODY_4|0
+a matching service|DT JJ NN|BODY_5|0
+content distribution networks|JJ NN NNS|BODY_7|0
+various different purposes|JJ JJ NNS|BODY_10|0
+get( ) operations|NNP -RRB- NNS|BODY_5|0
+over 25 countries|IN CD NNS|BODY_4|0
+the search results|DT NN NNS|BODY_5|0
+the bamboo dht|DT NN NN|BODY_1|0
+this null prefix|DT JJ NN|BODY_1|0
+each local registry|DT JJ NN|BODY_1|0
+a routing table|DT NN NN|BODY_10|0
+these search terms|DT NN NNS|BODY_1|0
+the network|DT NN|BODY_6:BODY_8|0
+the core idea|DT NN NN|BODY_1|0
+the dude proxy|DT NN NN|BODY_1|1
+an oasis standard|DT NN NN|BODY_6|0
+the business entities|DT NN NNS|BODY_4|0
+the search terms|DT NN NNS|BODY_6|0
+the overlay network|DT JJ NN|BODY_4|0
+the underlying network|DT JJ NN|BODY_7:BODY_8|0
+routing and lookup|NN CC NN|BODY_4|0
+its scaling issues|PRP$ NN NNS|ABSTRACT_8:BODY_7|0
+its proxy registry|PRP$ JJ NN|BODY_3|0
+the ux server|DT NN NN|BODY_1|0
+the federated service|DT JJ NN|BODY_4|0
+the identifier space|DT NN NN|BODY_1|0
+this graph structure|DT NN NN|BODY_5|0
+peer-to-peer computing [5]|JJ NN NN|BODY_7|0
+the juddi registries|DT NN NNS|BODY_4|0
+locally found results|RB VBN NNS|BODY_6|0
+figure 1 highlights|NN CD NNS|BODY_1|1
+all lower-case letters|DT JJ NNS|BODY_6|0
+the fundamental problem|DT JJ NN|BODY_1|0
+uddi version|NNP NN|BODY_2:BODY_4|0
+a dht infrastructure|DT NN NN|BODY_8|1
+uddi 2 registry|NNP CD NN|BODY_5|0
+an industry standard|DT NN NN|BODY_5|0
+grid discovery services|NN NN NNS|BODY_1|0
+initial prototype testing|JJ NN NN|BODY_1|0
+the dht implementation|DT NN NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+its basic function|PRP$ JJ NN|BODY_1|0
+the uddi keys|DT NN NNS|BODY_1|0
+the dht overlay|DT JJ NN|BODY_13|0
+all the registries|PDT DT NNS|BODY_6|0
+the dht query|DT NN NN|BODY_1|0
+new key-value pairs|JJ NN NNS|BODY_1|0
+the simplest extension|DT JJS NN|BODY_1|0
+a case-insensitive search|DT JJ NN|BODY_1|0
+embedded wildcard characters|VBN JJ NNS|BODY_4|0
+these returned results|DT VBN NNS|BODY_1|0
+the relevant registries|DT JJ NNS|BODY_3|0
+web services technology|NN NNS NN|BODY_4|0
+the registry entry|DT NN NN|BODY_9|0
+the authors|DT NNS|BODY_2|0
+sequence diagram|NN NN|BODY_2|0
+planetlab|NN|ABSTRACT_2:BODY_2:BODY_1:BODY_4|0
+information|NN|BODY_2:BODY_3:BODY_4|0
+white pages|JJ NNS|BODY_6:BODY_2|0
+the problem|DT NN|BODY_3:BODY_9|0
+registries|NNS|BODY_6:ABSTRACT_12:BODY_9|0
+this paper|DT NN|BODY_1:BODY_3:ABSTRACT_1:BODY_7|2
+the response|DT NN|BODY_3|0
+this key|DT NN|BODY_1:BODY_3:BODY_4|0
+the value|DT NN|BODY_6:BODY_1|0
+a node|DT NN|BODY_5:BODY_3|0
+a set|DT NN|BODY_5:BODY_3|0
+this approach|DT NN|BODY_5:BODY_1|0
+real-world conditions|NN NNS|BODY_5:BODY_3|0
+service discovery|NN NN|BODY_3:BODY_4|0
+its proxy|PRP$ NN|BODY_6:BODY_4|0
+a query|DT NN|BODY_5:BODY_4|0
+the architecture|DT NN|BODY_2:BODY_1|0
+nodes|NNS|BODY_6:BODY_1:BODY_4|0
+multi-registry environments|JJ NNS|BODY_5:BODY_3|0
+the query|DT NN|BODY_11:BODY_2|0
+the context|DT NN|BODY_1:BODY_3|0
+a lookup|DT NN|BODY_2|0
+2 service|CD NN|BODY_3|0
+a language|DT NN|BODY_3|0
+multiple ways|JJ NNS|BODY_2|0
+the node|DT NN|BODY_3|0
+these topologies|DT NNS|BODY_2|0
+grid computing|NN NN|ABSTRACT_4:BODY_2:BODY_4|0
+deployment issues|NN NNS|BODY_2|0
+more functionality|JJR NN|BODY_2|0
+multiple entries|JJ NNS|BODY_2|0
+rdf schema|NN NN|BODY_2|0
+research/academic institutions|JJ NNS|BODY_2|0
+the queries|DT NNS|BODY_2|0
+these entries|DT NNS|BODY_2|0
+details|NNS|BODY_1:BODY_3|1
+this area|DT NN|BODY_3|0
+the steps|DT NNS|BODY_2|0
+the convergence|DT NN|BODY_5:BODY_1|0
+2|CD|BODY_3:BODY_4|0
+the results|DT NNS|BODY_1|0
+the internet|DT NN|BODY_2:BODY_4|0
+turn|NN|BODY_5:BODY_2|0
+this service|DT NN|BODY_11:BODY_2:BODY_7|0
+part|NN|BODY_11:BODY_7|0
+they|PRP|BODY_2:BODY_1|0
+systems|NNS|BODY_3:BODY_4|0
+a peer-to-peer|DT NN|BODY_2:BODY_3|0
+figure 1|NN CD|BODY_2:BODY_1|0
+grid|NN|BODY_6:ABSTRACT_2:BODY_2|0
+our implementation|PRP$ NN|BODY_3|0
+section 8|NN CD|BODY_4|0
+their services|PRP$ NNS|BODY_4|0
+our work|PRP$ NN|BODY_2:BODY_1|0
+them|PRP|BODY_5:BODY_9|0
+its own|PRP$ JJ|BODY_6|0
+this notice|DT NN|BODY_14|0
+a decision|DT NN|BODY_7|0
+the reader|DT NN|BODY_3|0
+port number|JJ NN|BODY_7|0
+ip address|NN NN|BODY_6|0
+publish-subscribe systems|JJ NNS|BODY_6|0
+each other|DT JJ|BODY_4|0

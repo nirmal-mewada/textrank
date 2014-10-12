@@ -1,0 +1,363 @@
+we|PRP|BODY_12:BODY_16:BODY_13:ABSTRACT_2:BODY_2:BODY_24:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_50:BODY_10:BODY_8:BODY_9|14
+which|WDT|BODY_22:BODY_17:BODY_13:BODY_3:BODY_4:BODY_6:BODY_5:BODY_36:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+norms|NNS|BODY_12:BODY_11:BODY_17:BODY_18:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_33:BODY_6:BODY_5:BODY_34:ABSTRACT_4:BODY_1:BODY_7:BODY_8|0
+it|PRP|BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_1:BODY_10:BODY_4|1
+agents|NNS|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|2
+that|DT|BODY_6:BODY_5:BODY_11:ABSTRACT_5:BODY_23:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+)|-RRB-|BODY_6:BODY_11:BODY_18:BODY_13:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8|0
+the next execution state|DT JJ NN NN|BODY_3:BODY_4|0
+resource sharing and problem|NN NN CC NN|BODY_2|0
+ï„n ) â· ïƒ|NN -RRB- NN IN|BODY_13|0
+the set cfls( î©|DT NN NN NN|BODY_5:BODY_4|0
+( 1 , 2|-LRB- CD , CD|BODY_7|0
+software and human agents|NN CC JJ NNS|BODY_4|0
+the vo description i|DT FW NN NN|BODY_3|0
+the current vo enactment|DT JJ FW NN|BODY_9|0
+openness whereby new components|NN WRB JJ NNS|BODY_5|0
+â£ â¢ â  â¡|JJ JJ NN NNS|BODY_5|1
+norm conflict and inconsistency|JJ NN CC NN|BODY_3|0
+the different components (vos|DT JJ NNS NNS|BODY_5|0
+( 0 , 1|-LRB- CD , CD|BODY_5|0
+0, p( x) )|CD JJ NN -RRB-|BODY_4|0
+y ) fa:bp( y|NN -RRB- NN NN|BODY_8|0
+the global configuration (|DT JJ NN -LRB-|BODY_7|0
+z ) pa:rp( c|FW -RRB- NN NN|BODY_9|0
+the p deontic modality|DT NN JJ NN|BODY_4|0
+a tuple space )|DT JJ NN -RRB-|BODY_6|0
+an execution state îž|DT NN NN NN|BODY_3|0
+a normative state î©|DT JJ NN NN|BODY_5:BODY_4|0
+;/.-,( )*+2 figure 1|JJ JJ NN CD|BODY_6|0
+the specification and operation|DT NN CC NN|BODY_5|0
+different conflicts and inconsistencies|JJ NNS CC NNS|BODY_3|0
+a possibly infinite set|DT RB JJ NN|BODY_7|0
+the external agent|DT JJ NN|BODY_6:BODY_15:BODY_2:BODY_4:BODY_7|0
+an annotated prohibition ï‰|DT JJ NN NN|BODY_3|0
+â· ïƒ ) 5|NN NN -RRB- CD|BODY_4|0
+their most generic formulation|PRP$ JJS JJ NN|BODY_2|0
+a variable and ï„|DT JJ CC NN|BODY_7|0
+( ïƒc âˆˆ î£c|-LRB- NNP NNP NN|BODY_24|0
+x/c , y/d }|JJ , JJ NN|BODY_6|0
+a most desirable feature|DT RBS JJ NN|BODY_3|0
+a global execution state|DT JJ NN NN|BODY_2|0
+the very same machinery|DT RB JJ NN|BODY_4|0
+¤ te figure 6|NN JJ NN CD|BODY_32|0
+the shared tuple space|DT VBN NN NN|BODY_7|0
+the deontic modalities p|DT JJ NNS NN|BODY_7|0
+fï„1:ï„2 ï• ) î£c|CD NN -RRB- NN|BODY_12|0
+a virtual organization i|DT JJ NN NN|BODY_2|0
+an existing set î©|DT JJ NN NNS|BODY_2|0
+an explicit global account|DT JJ JJ NN|BODY_4|1
+all possible execution states|DT JJ NN NNS|BODY_4|0
+ïƒ ) âˆ §|NN -RRB- NN VBD|BODY_19|0
+the tuple space [12]|DT NN NN NN|BODY_4|0
+curtailed norm and role|VBN NN CC NN|BODY_35|0
+( line 9 )|-LRB- NN CD -RRB-|BODY_2|0
+ïƒ = { a/a|DT SYM JJ NN|BODY_7|0
+conflicting or inconsistent norms|NN CC NN NNS|BODY_4|0
+firstorder term unification [8|JJR NN NN NNS|BODY_3|0
+more than one tuple|JJR IN CD NN|BODY_5|0
+an implicit existential quantification|DT JJ JJ NN|BODY_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+more than one edge|JJR IN NN NN|BODY_10|0
+the design or behaviour|DT NN CC NN|BODY_3|0
+the agents and values|DT NNS CC NNS|BODY_8|0
+the agents and roles|DT NNS CC NNS|BODY_26|0
+an agent and role|DT NN CC NN|BODY_4|0
+a lowest common denominator|DT JJS JJ NN|BODY_3|0
+) or inconsistent (|-RRB- CC NN -LRB-|BODY_8|0
+ï• ) â· ïƒ|NN -RRB- NN NN|BODY_1|0
+a new set î©|DT JJ NN NNS|BODY_35|0
+an implicit universal quantification|DT JJ JJ NN|BODY_2|0
+) and fa:bp( y|-RRB- CC NN NN|BODY_3:BODY_20|0
+the conflict resolution algorithm|DT NN NN NN|BODY_1|0
+such conflicts and inconsistencies|JJ NNS CC NNS|ABSTRACT_4|0
+ground atomic formulae ï•|NN JJ NNS NNS|BODY_4|0
+both obliged and prohibited|DT VBN CC VBN|ABSTRACT_4|0
+the same unifier ïƒ|DT JJ NN NN|BODY_43|0
+either variables or constants|DT NNS CC NNS|BODY_11|0
+their corresponding governor agents|PRP$ JJ NN NNS|BODY_10|0
+a given prohibition ï‰|DT VBN NN NN|BODY_8|0
+a linear computational complexity|DT NN JJ NN|BODY_11|0
+( nested ) terms|-LRB- VBN -RRB- NNS|BODY_13|0
+individual and global goals|JJ CC JJ NNS|ABSTRACT_6|0
+a simple mathematical framework|DT JJ JJ NN|BODY_4|0
+norm conflicts and inconsistencies|NN NNS CC NNS|BODY_4|0
+our explicit global account|PRP$ JJ JJ NN|BODY_1|0
+the norm temporal influence|DT NN JJ NN|BODY_5|0
+a fully ground norm|DT RB NN NN|BODY_17|0
+new conflicts and inconsistencies|JJ NNS CC NNS|BODY_3|0
+open and heterogeneous mass|JJ CC JJ NN|BODY_2|0
+a prohibition and permission|DT NN CC NN|BODY_7|0
+more than one role|JJR IN CD NN|BODY_8|0
+a first-order atomic formula|DT JJ JJ NN|BODY_13|0
+the unify relationship checks|DT JJ NN NNS|BODY_1|0
+they|PRP|BODY_6:BODY_12:BODY_11:BODY_27:BODY_21:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8|1
+ï•|NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_18:BODY_21:BODY_10:BODY_4:BODY_9|0
+ta|TO|BODY_12:BODY_6:BODY_5:BODY_27:BODY_15:BODY_13:BODY_19:BODY_7:BODY_8|0
+s|VBZ|BODY_12:BODY_11:BODY_16:BODY_17:BODY_21:BODY_13:BODY_25:BODY_3:BODY_4:BODY_5:BODY_19:BODY_7:BODY_20|0
+î©|NN|BODY_5:BODY_16:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+actions|NNS|BODY_6:BODY_11:BODY_21:BODY_13:BODY_2:ABSTRACT_3:BODY_19:BODY_4:BODY_7:BODY_9|2
+a substitution ïƒ|DT NN NN|BODY_5:BODY_17:BODY_2|0
+the governor agent|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_8|0
+the action|DT NN|BODY_6:BODY_36:BODY_2:BODY_4:BODY_19:BODY_7|0
+a logic program|DT NN NN|BODY_6:BODY_27:BODY_2|1
+a finite-state machine|DT NN NN|BODY_5:BODY_14:BODY_8|0
+ïƒ|NNP|BODY_11:BODY_5:BODY_26:BODY_53:BODY_3:BODY_9|0
+a conflict|DT NN|BODY_6:BODY_11:ABSTRACT_8:BODY_2:ABSTRACT_7:BODY_7|1
+instance|NN|BODY_11:BODY_5:BODY_2:BODY_1:BODY_8|0
+cfls( î© )|JJ NN -RRB-|BODY_5:BODY_27:BODY_54|0
+the termination condition|DT NN NN|BODY_2:BODY_4|0
+a finite set|DT NN NN|BODY_5:BODY_14|0
+the conflict set|DT NN NN|BODY_13:BODY_3|1
+the atomic formulae|DT JJ NNS|BODY_5:BODY_3|0
+tuple ( i|NN -LRB- FW|BODY_12:BODY_4|2
+the normative positions|DT JJ NNS|BODY_5:BODY_2|1
+norm-aware agent societies|JJ NN NNS|BODY_1:BODY_4:BODY_7|0
+the vo enactment|DT FW NN|BODY_5:BODY_10|0
+web-service orchestration [14]|NN NN NN|BODY_3|0
+a new norm|DT JJ NN|BODY_5:BODY_8|0
+the initial state|DT JJ NN|BODY_12:BODY_13|0
+â· â· â·|JJ JJ JJ|BODY_3:BODY_7|0
+j ( fa:rp(x|NN -LRB- NN|BODY_17:BODY_2|0
+permissions and prohibitions|NNS CC NNS|BODY_4|0
+the deontic modalities|DT JJ NNS|BODY_12:BODY_7|0
+a generic loop|DT JJ NN|BODY_3|0
+possibly empty set|RB JJ NN|BODY_5:BODY_4|0
+conflict and inconsistency|NN CC NN|TITLE_1:BODY_3|1
+artificial intelligence-multi-agent systems|JJ JJ NNS|ABSTRACT_6|0
+the prohibition|DT NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+the edges con//|DT NNS NN|BODY_2|0
+ï‰ âˆˆ î©|RB JJ NN|BODY_10:BODY_4|0
+the unification problem|DT NN NN|BODY_2|1
+a fundamental issue|DT JJ NN|BODY_3|1
+a promising approach|DT JJ NN|BODY_7|0
+the remaining prohibitions|DT VBG NNS|BODY_3:BODY_8|0
+a normative state|DT JJ NN|BODY_2:BODY_7|0
+global normative states|JJ JJ NNS|BODY_5:BODY_1|0
+a finite number|DT JJ NN|BODY_2|0
+expert systems law|JJ NNS NN|ABSTRACT_4|0
+i.2.11 [artificial intelligence]|DT JJ NN|ABSTRACT_5|0
+the same role|DT JJ NN|BODY_2|0
+our previous discussion|PRP$ JJ NN|BODY_2|0
+= x 3|SYM SYM CD|BODY_11|0
+the sixth intl|DT JJ NN|BODY_12:BODY_5:BODY_1|0
+a ,b) //|DT NN NN|BODY_5|0
+z ) p(x|FW -RRB- NN|BODY_7|0
+x/ï„ âˆˆ ïƒ|JJ NN IN|BODY_10|0
+) fa:bp( y|-RRB- NN NN|BODY_6|0
+ï„i â· ïƒ|RB JJ NN|BODY_12:BODY_11|0
+a , b)|DT , NN|BODY_6:BODY_9|0
+a simple vo|DT JJ NN|BODY_3|1
+a blackboard-like solution|DT JJ NN|BODY_5|0
+ï„ â· ïƒ|RB NN NN|BODY_22:BODY_21:BODY_7:BODY_8|0
+the domain axioms|DT NN NNS|BODY_2|0
+norm-regulated software agents|JJ NN NNS|BODY_5|0
+a constant c|DT JJ NN|BODY_7|0
+outside the influence|IN DT NN|BODY_7|0
+there|EX|BODY_6:ABSTRACT_5:BODY_1:ABSTRACT_1:BODY_4:BODY_7:BODY_9|0
+the current state|DT JJ NN|BODY_4|0
+their activation periods|PRP$ NN NNS|BODY_31|0
+a norm conflict|DT JJ NN|BODY_2|0
+the following î©|DT VBG NN|BODY_16|0
+the two kinds|DT CD NNS|BODY_2|0
+the maintenance process|DT NN NN|BODY_12|0
+the maximal set|DT JJ NN|BODY_1:BODY_2|0
+the governor agent |DT NN NN|BODY_5|0
+an external agent|DT JJ NN|BODY_5|0
+the following definition|DT VBG NN|BODY_2:BODY_3|0
+more recent work|RBR JJ NN|BODY_5|1
+an interesting area|DT JJ NN|BODY_6|0
+processing one element|NN CD NN|BODY_6|0
+a capital letter|DT NN NN|BODY_8|0
+t } |(s|NN NN NN|BODY_13|0
+an atomic formula|DT JJ NN|BODY_3|0
+ta , te|TO , NN|BODY_4:BODY_9|0
+the available agents|DT JJ NNS|BODY_3|0
+the annotated set|DT JJ NN|BODY_18|0
+the norm influence|DT JJ NN|BODY_6|0
+) figure 2|-RRB- NN CD|BODY_10|0
+b) ) {}|NN -RRB- NN|BODY_10|0
+1 â‰ ¤|CD NN NN|BODY_11|0
+( fa :rp(a|-LRB- NN NN|BODY_9|0
+each loop )|DT NN -RRB-|BODY_2|0
+the previous section|DT JJ NN|BODY_4|0
+the ground prohibition|DT NN NN|BODY_15|0
+an agent identifier|DT NN NN|BODY_12|0
+î© := î©|NNS JJ NNS|BODY_5|0
+virtual organizations (vos|JJ NNS NNS|BODY_1|0
+the existing ones|DT JJ NNS|BODY_11|0
+the first loop|DT JJ NN|BODY_14|0
+all ground prohibitions|DT NN NNS|BODY_7|0
+the agent identifier|DT NN NN|BODY_4|0
+( line 8|-LRB- NN CD|BODY_12|0
+the set operations|DT NN NNS|BODY_4|0
+external agents interact|JJ NNS NN|BODY_8|0
+conflictalgorithm conflictresolution( î©|NN NN NNS|BODY_3|0
+the virtual organization|DT JJ NN|BODY_5|0
+0 â‰ ¤|CD JJ NN|BODY_13|0
+variables and strings|NNS CC NNS|BODY_9|0
+? 2 action|NN CD NN|BODY_7|0
+( nested )|-LRB- VBN -RRB-|BODY_6:BODY_10|0
+thus facilitating coordination|RB NN NN|BODY_3|0
+a new set|DT JJ NN|BODY_4|0
+a truthful record|DT JJ NN|BODY_2|0
+other relevant information|JJ JJ NN|BODY_5|0
+r âˆˆ roles|NN JJ NNS|BODY_13|0
+a role label|DT NN NN|BODY_14|0
+y/h } ff|JJ NN NN|BODY_10|0
+âˆ ’ te||JJ NN NN|BODY_20|0
+5 forall( ïƒ|CD JJ NN|BODY_23|0
+¤ |ta âˆ|NNP NNP JJ|BODY_21|0
+the applicable norms|DT JJ NNS|BODY_4|0
+pï„ :ï„ ï•|JJ JJ NN|BODY_7|0
+y/d } +|NNP NNP NNP|BODY_36|0
+variables and ag1|NNS CC NNS|BODY_10|0
+âˆ€a âˆˆ agents|JJ JJ NNS|BODY_15|0
+:= î© âˆ|JJ NNS NN|BODY_13|0
+a direct comparison|DT JJ NN|BODY_4|0
+d) ) âˆ…|NN -RRB- NN|BODY_4|0
+{ oa :rï•|JJ NN NN|BODY_12|0
+a candidate action|DT NN NN|BODY_6|0
+te } end|NN JJ NN|BODY_28|0
+a fine-grained way|DT JJ NN|BODY_15|0
+) two portions|-RRB- CD NNS|BODY_14|0
+ïƒ ( condition|NN -LRB- NN|BODY_29|0
+a âˆˆ agents|DT JJ NNS|BODY_11|0
+permissions and obligations|NNS CC NNS|BODY_4|0
+a small letter|DT JJ NN|BODY_10|0
+te âˆˆ î©|JJ NN CC|BODY_16|0
+3.2 conflict resolution|CD NN NN|BODY_14|0
+very efficient ways|RB JJ NNS|BODY_6|1
+a useful notion|DT JJ NN|ABSTRACT_2|0
+the set î©|DT NN NN|BODY_3|0
+our norm-regulated vos|PRP$ JJ NNS|BODY_3|0
+a ) detect|DT -RRB- VBP|BODY_5|0
+a few )|DT JJ -RRB-|BODY_9|0
+) and fa:rq(x|-RRB- CC NN|BODY_14|0
+ïƒ ) )|NN -RRB- -RRB-|BODY_27|0
+the observable behaviour|DT JJ NN|BODY_2|0
+3 ï‰ =|CD NNP SYM|BODY_11|0
+the indirect conflicts/inconsistencies|DT JJ NNS|ABSTRACT_4|0
+an execution state|DT NN NN|BODY_6|0
+ïƒ ) 3|NN -RRB- CD|BODY_19|0
+a simple means|DT JJ NN|BODY_2|1
+the original scope|DT JJ NN|BODY_10|0
+the triple s|DT JJ VBZ|BODY_3|0
+this conflict set|DT NN NN|BODY_7|0
+a unification algorithm|DT NN NN|BODY_4|0
+a minimalistic definition|DT JJ NN|BODY_3|0
+fï„ :ï„ ï•|JJ JJ NN|BODY_8|0
+actions and norms|NNS CC NNS|ABSTRACT_4|0
+oï„ :ï„ ï•|JJ JJ NN|BODY_4|0
+the grid [9]|DT NN NN|BODY_5|0
+end figure 3|NN NN CD|BODY_29|0
+î©id )âˆ §|JJ NN NN|BODY_16|1
+its first argument|PRP$ JJ NN|BODY_5|0
+the appropriate terms|DT JJ NNS|BODY_37|0
+the curtailed scope|DT VBN NN|BODY_5|0
+a possibly empty|DT RB JJ|BODY_5|0
+4 main( id|CD JJ JJ|BODY_8|1
+the execution states|DT NN NNS|BODY_2|0
+2 non-trustworthy agents|CD JJ NNS|BODY_7|0
+our curtailed norms|PRP$ VBN NNS|BODY_3|0
+a suitable implementation|DT JJ NN|BODY_3|0
+our virtual organizations|PRP$ JJ NNS|BODY_2|0
+the combinatorial effort|DT NN NN|BODY_3|0
+the following conditions|DT VBG NNS|BODY_9|0
+first-order atomic formulae|JJ JJ NNS|BODY_10|0
+any non-deterministic choices|DT JJ NNS|BODY_4|0
+its annotation î£c|PRP$ NN NN|BODY_5|0
+any higher-level formalism|DT JJ NN|BODY_13|0
+a specific prohibition|DT JJ NN|BODY_4|0
+the social burden|DT JJ NN|BODY_3|0
+its two loops|PRP$ CD NNS|BODY_4|0
+any obligation specific|DT NN NN|BODY_3|0
+[18] and [20]|NNP CC NNP|BODY_3|0
+survey related work|NN VBN NN|BODY_3|0
+07 ) influence|CD -RRB- NN|BODY_5|0
+an actual action|DT JJ NN|BODY_9|0
+such an annotation|JJ DT NN|BODY_2|0
+the potential agents|DT JJ NNS|BODY_5|0
+r and ground|NN CC NN|BODY_10|0
+â· ïƒ )|NN IN -RRB-|BODY_15|0
+the only way|DT JJ NN|BODY_12|0
+all prohibited actions|DT VBN NNS|BODY_3|0
+only permitted actions|RB VBN NNS|BODY_2|0
+the design process|DT NN NN|BODY_8|0
+4 , 5|CD , CD|BODY_9|0
+the following set|DT VBG NN|BODY_25|0
+an e-science example|DT NN NN|ABSTRACT_3|0
+the domain-dependent interrelations|DT JJ NNS|ABSTRACT_2|0
+a fine-grained solution|DT JJ NN|BODY_2|0
+all conflicting prohibitions|DT VBG NNS|BODY_4|0
+their influence (|PRP$ NN -LRB-|BODY_6|0
+any particular way|DT JJ NN|BODY_2|0
+the governor agents|DT NN NNS|BODY_1|0
+the specified action|DT JJ NN|BODY_11|0
+a conflictfree set|DT JJ NN|BODY_4|0
+( lines 5-6|-LRB- NNS NN|BODY_2|0
+a given î©|DT VBN NN|BODY_3|0
+conflict & inconsistency|NN CC NN|BODY_1|0
+a new î©|DT JJ NN|BODY_4|0
+any normative aspects|DT JJ NNS|BODY_7|0
+all these conflicts|DT DT NNS|BODY_3|0
+a pairwise comparison|DT NN NN|BODY_5|0
+a separate set|DT JJ NN|BODY_16|0
+its new set|PRP$ JJ NN|BODY_5|0
+a time stamp|DT NN NN|BODY_19|0
+different virtual organizations|JJ JJ NNS|ABSTRACT_4|0
+the formulae ï•|DT JJ NN|BODY_15|0
+the annotation î£c|DT NN NN|BODY_1|1
+ï„ , ï„|NN , NN|BODY_4|0
+3.1 conflict detection|CD NN NN|BODY_1|0
+a vo i|DT FW FW|BODY_1|0
+norm-governed virtual organizations|JJ JJ NNS|ABSTRACT_1|0
+the first clause|DT JJ NN|BODY_5|0
+the unique identifier|DT JJ NN|BODY_3|0
+ground agent/role pairs|NN NN NNS|BODY_8|0
+external agent )|JJ NN -RRB-|BODY_6|0
+a choice point|DT NN NN|BODY_8|0
+a conflict set|DT NN NN|BODY_6|0
+the norm cannot|DT JJ NN|BODY_6|0
+a governor agent|DT NN NN|BODY_12|0
+a permission overlap|DT NN NN|BODY_4|1
+a finite-state machine1|DT NN NN|BODY_4|1
+the first requirement|DT JJ NN|BODY_1|0
+the second requirement|DT JJ NN|BODY_1|0
+atomic first-order formulae|JJ JJ JJ|BODY_13|0
+roles|NNS|BODY_6:BODY_5:BODY_15:BODY_1:BODY_8:BODY_9|3
+a similar process|DT JJ NN|BODY_3|0
+its second parameter|PRP$ JJ NN|BODY_4|0
+such function h|JJ NN NN|BODY_1|0
+) âˆˆ e}|-RRB- NN NN|BODY_14|0
+norm-regulated virtual organizations|JJ JJ NNS|TITLE_2|0
+pn ( ï„0|NN -LRB- CD|BODY_7|0
+the sample vo|DT NN NN|BODY_1|0
+normaware agent societies|JJ NN NNS|BODY_5|0
+the same way|DT JJ NN|BODY_1|0
+the final î©|DT JJ NN|BODY_1|0
+multi-agent systems|JJ NNS|BODY_2:ABSTRACT_3:BODY_3|0
+such normative aspects|JJ JJ NNS|BODY_1|0
+predicate filter norms/4|VB NN NNS|BODY_1|0
+their adopted roles|PRP$ VBN NNS|BODY_8|0
+t âˆˆ îž}|NN NN NN|BODY_17|0
+a similar approach|DT JJ NN|BODY_1|0
+a final state|DT JJ NN|BODY_14|0
+9 main( id|CD JJ JJ|BODY_23|1
+the obligation demands|DT NN NNS|BODY_1|0
+the following example|DT VBG NN|BODY_3|0
+aamas 07 )|NN CD -RRB-|BODY_4|0
+the management (|DT NN -LRB-|BODY_1|0
+2.2 norm-regulated vos|CD JJ NNS|BODY_1|0
+another important concept|DT JJ NN|BODY_1|1
+our proposed solution|PRP$ JJ NN|ABSTRACT_1|1
+the next section|DT JJ NN|BODY_1|0
+an explicit account|DT JJ NN|ABSTRACT_1|0
+any realistic account|DT JJ NN|ABSTRACT_1|0
+the changing nature|DT VBG NN|ABSTRACT_1|0
+their dynamic nature|PRP$ JJ NN|ABSTRACT_3|0
+a pairwise inspection|DT NN NN|BODY_6|0
+) âˆˆ e.|-RRB- IN NN|BODY_21|0
+( introduced )|-LRB- VBN -RRB-|BODY_14|0
+the algorithm forms|DT NN NNS|BODY_1|0
+an action|DT NN|ABSTRACT_3:BODY_3:BODY_10:ABSTRACT_7:BODY_7|0

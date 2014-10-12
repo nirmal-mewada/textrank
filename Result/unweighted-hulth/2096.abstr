@@ -1,0 +1,68 @@
+rainfall|NN|BODY_6:BODY_4:BODY_7|0
+each|DT|BODY_5:BODY_3|0
+the district|DT NN|BODY_5:BODY_3|0
+which|WDT|BODY_7:BODY_8|0
+meteorological stations|JJ NNS|BODY_2:BODY_9|0
+a distance measure|DT NN NN|BODY_2|0
+the spatial correlation|DT JJ NN|BODY_3|0
+a multivariate normal distribution|DT JJ JJ NN|BODY_2|0
+rainfall data|NN NNS|BODY_2|0
+estimated rainfall parameters|VBN NN NNS|BODY_2|0
+part|NN|BODY_2|0
+a small number|DT JJ NN|BODY_12|0
+maize|NN|BODY_10|0
+crop production modeling|NN NN NN|BODY_2|0
+long-term meteorological records|JJ JJ NNS|BODY_11|0
+southern africa|JJ NN|BODY_3|0
+a larger simulation model|DT JJR NN NN|BODY_3|0
+log-transformed rainfall|JJ NN|BODY_2|0
+these stations|DT NNS|BODY_3|0
+long time series|JJ NN NN|BODY_5|0
+30 related variables|CD JJ NNS|BODY_3|0
+observed parameters|JJ NNS|BODY_3|0
+random numbers|JJ NNS|BODY_2|0
+situations|NNS|BODY_2|0
+yields|NNS|BODY_9|0
+that|WDT|BODY_4|0
+spatial correlation|JJ NN|BODY_5|0
+the wards|DT NNS|BODY_5|0
+spatial units|JJ NNS|BODY_9|0
+intra-seasonal temporal correlation|JJ JJ NN|BODY_4|0
+long-term climatic records|JJ JJ NNS|BODY_3|0
+this distribution|DT NN|BODY_3|0
+dekadly rainfall|RB NN|BODY_4|0
+the food system|DT NN NN|BODY_4|0
+areas|NNS|BODY_10|0
+the one meteorological station|DT CD JJ NN|BODY_4|0
+a district|DT NN|BODY_5|0
+a methodology|DT NN|BODY_5|0
+the 36 dekads|DT CD NNS|BODY_4|0
+that rainfall|IN NN|BODY_5|0
+this paper|DT NN|BODY_4|0
+dekads|NNS|BODY_7|0
+the year|DT NN|BODY_5|0
+any given station|DT VBN NN|BODY_6|0
+a crop production component|DT NN NN NN|BODY_8|0
+a mean|DT NN|BODY_6|0
+a set|DT NN|BODY_8|0
+zimbabwe|NN|BODY_6|0
+standard deviation|JJ NN|BODY_7|0
+a covariance matrix|DT NN NN|BODY_1|0
+wards|NNS|BODY_4|0
+sites|NNS|BODY_13|0
+a spatial rainfall|DT JJ NN|BODY_1|0
+the work|DT NN|BODY_1|0
+preliminary analysis|JJ NN|BODY_1|0
+this spatial correlation structure|DT JJ NN NN|BODY_1|0
+rainfall records|NN NNS|BODY_6|0
+cross-validation|NN|BODY_1|0
+small grains and groundnuts|JJ NNS CC NNS|BODY_11|0
+sets|NNS|BODY_1|0
+the methodology|DT NN|BODY_1|0
+each ward|DT NN|BODY_1|0
+any given dekad|DT VBN NN|BODY_6|0
+negligible temporal correlation|JJ JJ NN|BODY_6|0
+the 30 wards|DT CD NNS|BODY_6|0
+the interpolation process|DT NN NN|BODY_6|0
+neighbouring stations|NN NNS|BODY_8|0
+only a limited number|RB DT JJ NN|BODY_1|0

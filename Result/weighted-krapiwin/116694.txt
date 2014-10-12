@@ -1,0 +1,1051 @@
+that|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_4:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|3
+convergence|NN|BODY_6:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+there|EX|BODY_6:ABSTRACT_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the solution|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|0
+model-based vision|JJ NN|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_7:BODY_8|2
+arbitrary curved surfaces|JJ JJ NNS|BODY_6:ABSTRACT_5|1
+the image measurements|DT NN NNS|ABSTRACT_4:BODY_1:BODY_4|0
+a 3-d model|DT JJ NN|BODY_5:ABSTRACT_5:BODY_4|0
+the levenberg-marquardt method|DT JJ NN|BODY_2:ABSTRACT_1:BODY_4|0
+2-d image features|JJ NN NNS|BODY_5:ABSTRACT_6|0
+objects|NNS|ABSTRACT_4:BODY_2:BODY_3|1
+the ability|DT NN|ABSTRACT_2:BODY_3|1
+internal parameters|JJ NNS|ABSTRACT_7:BODY_8|1
+any number|DT NN|ABSTRACT_6:BODY_7|1
+the author|DT NN|BODY_1:ABSTRACT_1:BODY_4:BODY_7|0
+these techniques|DT NNS|BODY_1:ABSTRACT_1:BODY_4|0
+unknown parameters|JJ NNS|BODY_5:ABSTRACT_8|0
+three-dimensional models|JJ NNS|TITLE_2|0
+curved , parameterized objects|JJ , JJ NNS|ABSTRACT_3|0
+projection and model parameters|NN CC NN NNS|ABSTRACT_3|0
+a much wider class|DT JJ JJR NN|ABSTRACT_3|0
+numerical stabilization methods|JJ NN NNS|ABSTRACT_1|0
+the motion|DT NN|ABSTRACT_2|0
+variable dimensions|JJ NNS|ABSTRACT_9|0
+take account|VB NN|ABSTRACT_2|0
+inherent inaccuracies|JJ NNS|ABSTRACT_3|0
+their application|PRP$ NN|ABSTRACT_1|0
+fewer matches|JJR NNS|ABSTRACT_7|0
+useful solutions|JJ NNS|ABSTRACT_5|0
+surface deformations|NN NNS|ABSTRACT_10|0
+current methods|JJ NNS|ABSTRACT_2|0
+previous methods|JJ NNS|ABSTRACT_5|0
+it|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|6
+which|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|2
+we|PRP|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+this|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|2
+the model|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|1
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+respect|NN|BODY_12:BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_9|0
+the problem|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+the initial problem formulation|DT JJ NN NN|BODY_4|1
+enough simple local approximations|RB JJ JJ NNS|BODY_4|1
+the only important issue|DT RB JJ NN|BODY_5|1
+all possible exact solutions|DT JJ JJ NNS|BODY_2|1
+approximate the appropriate measurements|JJ DT JJ NNS|BODY_3|1
+some specific vision applications|DT JJ NN NNS|BODY_4|1
+some tentative initial matches|DT JJ JJ NNS|BODY_3|1
+the acronym system [3]|DT NN NN NN|BODY_4|1
+ponce and kriegman [29]|NN CC NN NN|BODY_5|1
+a quite different approach|DT RB JJ NN|BODY_1|1
+the more important normalization|DT RBR JJ NN|BODY_1|1
+some matching image features|DT JJ NN NNS|BODY_8|1
+the six viewpoint parameters|DT CD NN NNS|BODY_3:BODY_7|0
+viewpoint and model parameters|NN CC NN NNS|BODY_2:BODY_4|0
+the signed perpendicular distance|DT JJ JJ NN|BODY_11:BODY_7|0
+the first two iterations|DT JJ CD NNS|BODY_3|0
+much worse parameter estimates|RB JJR NN NNS|BODY_3|0
+an inverse lookup table|DT NN NN NN|BODY_2|0
+less than 90 degrees|JJR IN CD NNS|BODY_6|0
+a new stable position|DT JJ JJ NN|BODY_2|0
+the shape and appearance|DT NN CC NN|BODY_3|0
+a dense pointer network|DT JJ NN NN|BODY_4|0
+r rigid subpart translation|NN JJ NN NN|BODY_5|0
+a specific numerical procedure|DT JJ JJ NN|BODY_6|0
+the last 2 joints|DT JJ CD NNS|BODY_6|0
+shading or surface properties|NN CC NN NNS|BODY_1|0
+the initial starting position|DT JJ VBG NN|BODY_2|0
+articulated or flexible objects|JJ CC JJ NNS|BODY_5|0
+a gradually narrowing range|DT RB VBG NN|BODY_3|0
+'s method and least-squares|POS NN CC NNS|BODY_2|0
+previous rotations and translations|JJ NNS CC NNS|BODY_7|0
+the projected model segments|DT VBN NN NNS|BODY_4|0
+a similar simultaneous minimization|DT JJ JJ NN|BODY_2|0
+the previous best estimate|DT JJ JJS NN|BODY_4|0
+the visibility and locations|DT NN CC NNS|BODY_6|0
+simple polyhedral 3-d ob|JJ NN JJ NN|BODY_4|0
+the visual system (attention|DT JJ NN NN|BODY_7|0
+the average image rotation|DT JJ NN NN|BODY_7|0
+the new model position|DT JJ NN NN|BODY_3|0
+the maximum possible length|DT NN JJ NN|BODY_6|0
+the projected model curves|DT VBN NN NNS|BODY_5|0
+up to four solutions|IN TO CD NNS|BODY_3|0
+an image point (u|DT NN NN NN|BODY_4|0
+this same directional derivative|DT JJ JJ NN|BODY_3|0
+most current video standards|RBS JJ NN NNS|BODY_7|0
+very few model features|RB JJ NN NNS|BODY_7|0
+the vector ( 0|DT NN -LRB- CD|BODY_7|0
+the corresponding 4-point problem|DT JJ JJ NN|BODY_2|0
+a fully general system|DT RB JJ NN|BODY_8|0
+its original starting position|PRP$ JJ VBG NN|BODY_9|0
+fx z afy z|JJ FW JJ FW|BODY_7|0
+the models and features|DT NNS CC NNS|BODY_3|0
+the width-to-height aspect ratio|DT JJ NN NN|BODY_4|0
+a stabilized minimization approach|DT VBN NN NN|BODY_2|0
+the application and testing|DT NN CC NN|BODY_2|0
+that one measured error|WDT CD VBN NN|BODY_8|0
+the final parameter determination|DT JJ NN NN|BODY_4|0
+the orientation and location|DT NN CC NN|BODY_6|0
+figure 3( b )|NN JJ NN -RRB-|BODY_3|0
+more than one frame|JJR IN CD NN|BODY_3|0
+an arbitrary 3-d rotation|DT JJ JJ NN|BODY_4|0
+the closest matching point|DT JJS NN NN|BODY_2|0
+a sufficiently close approximation|DT RB JJ NN|BODY_6|0
+such an occluding point|JJ DT NN NN|BODY_2|0
+the angular velocity vector|DT JJ NN NN|BODY_6|0
+this matrix equation states|DT NN NN NNS|BODY_7|0
+the initial curve description|DT JJ NN NN|BODY_5|0
+the projected model curve|DT VBN JJ NN|BODY_11:BODY_9|0
+baker & sullivan [34]|NN CC NN NNS|BODY_4|0
+just a linear combination|RB DT NN NN|BODY_3|0
+o( n 3 )|VBD NN CD -RRB-|BODY_3|0
+model and image curves|NN CC NN NNS|BODY_6|0
+model and image edges|NN CC NN NNS|BODY_3|0
+each parameter and estimates|DT NN CC NNS|BODY_7|0
+the identity matrix i|DT NN NN FW|BODY_11|0
+such an occluding contour|JJ DT NN NN|BODY_7|0
+a rigid object )|DT JJ NN -RRB-|BODY_8|0
+the projected model line|DT VBN NN NN|BODY_5|0
+less than 1 second|RBR IN CD JJ|BODY_5|0
+the parameter solving problem|DT NN VBG NN|BODY_2|0
+the non-linear iterative solution|DT JJ JJ NN|BODY_9|0
+an even smaller fraction|DT RB JJR NN|BODY_5|0
+the actual model edge|DT JJ NN NN|BODY_5|0
+a rotation or translation|DT NN CC NN|BODY_2|0
+all available quantitative information|DT JJ JJ NN|BODY_5|0
+more advanced numerical methods|JJR JJ JJ NNS|BODY_4|0
+the most reliable matches|DT RBS JJ NNS|BODY_4|0
+the householder algorithm (|DT NN NN -LRB-|BODY_4|0
+the most expensive aspects|DT RBS JJ NNS|BODY_4|0
+the canny edge detector|DT JJ NN NN|BODY_7|0
+this perpendicular error measure|DT JJ NN NN|BODY_2|0
+a good first estimate|DT JJ JJ NN|BODY_6|0
+approximate viewpoint parameter estimates|JJ NN NN NNS|BODY_5|0
+expected error following reweighting|JJ NN VBG NN|BODY_5|0
+velocity and acceleration measurements|NN CC NN NNS|BODY_4|0
+the best solution method|DT JJS NN NN|BODY_5|0
+a diagonal matrix w|DT JJ NN NN|BODY_5|0
+an appropriate initial choice|DT JJ JJ NN|BODY_2|0
+the original non-linear function|DT JJ JJ NN|BODY_3|0
+accurate 3-d image data|JJ JJ NN NNS|BODY_3|0
+the current parameter estimates|DT JJ NN NNS|BODY_4|0
+specific final parameter estimates|JJ JJ NN NNS|BODY_3|0
+the desired default value|DT VBN NN NN|BODY_16|0
+the u-axis and d|DT NNP CC NN|BODY_10|0
+only one analytic solution|RB CD JJ NN|BODY_2|0
+the current projected contours|DT JJ VBN NNS|BODY_4|0
+a false local minimum|DT JJ JJ NN|BODY_5|0
+a surface or line|DT NN CC NN|BODY_2|0
+single-precision floating point arithmetic|NN VBG NN NN|BODY_4|0
+the model and points|DT NN CC NNS|BODY_8|0
+the corresponding normal equations|DT JJ JJ NNS|BODY_4|0
+the most cost-effective solution|DT RBS JJ NN|BODY_7|0
+its previous estimated viewpoint|PRP$ JJ JJ NN|BODY_3|0
+the new viewpoint estimate|DT JJ NN NN|BODY_5|0
+a rotation axis )|DT NN NN -RRB-|BODY_15|0
+almost no effect )|RB DT NN -RRB-|BODY_8|0
+the most valuable technique|DT RBS JJ NN|BODY_1|0
+its fast quadratic convergence|PRP$ JJ JJ NN|BODY_5|0
+a higher-level search process|DT JJ NN NN|BODY_4|0
+the underlying approximating patches|DT VBG NN NNS|BODY_1|0
+the following matrix equation|DT VBG NN NN|BODY_3|0
+the simultaneous solution method|DT JJ NN NN|BODY_1|0
+each frame data structure|DT NN NNS NN|BODY_1|0
+huttenlocher and ullman [13]|NN CC NN NNS|BODY_1|0
+the matching image edges|DT JJ NN NNS|BODY_9|0
+an extremely efficient form|DT RB JJ NN|BODY_4|0
+kw( x d)k 2|NN NN NN CD|BODY_11|0
+the matching image segments|DT JJ NN NNS|BODY_5|0
+each variable rotation frame|DT JJ NN NN|BODY_1|0
+the most common forms|DT RBS JJ NNS|BODY_1|0
+a datacube image processor|DT NN NN NN|BODY_1|0
+the same standard deviation|DT JJ JJ NN|BODY_6|0
+the predicted image edges|DT VBN NN NNS|BODY_11|0
+completely indeterminate continuous variables|RB JJ JJ NNS|BODY_9|0
+frame  data structures|NN NN NNS NNS|BODY_6|0
+rotation or translation transformations|NN CC NN NNS|BODY_13|0
+each variable translation frame|DT JJ NN NN|BODY_1|0
+the extremely good performance|DT RB JJ NN|BODY_1|0
+a general recognition problem|DT JJ NN NN|BODY_1|0
+more than one viewpoint|JJR IN CD NN|BODY_8|0
+a very simple example|DT RB JJ NN|BODY_1|0
+the right hand side|DT JJ NN NN|BODY_5|0
+missing and noisy data|VBG CC JJ NNS|BODY_9|0
+a simple matching algorithm|DT JJ NN NN|BODY_1|0
+a simple modeling language|DT JJ JJ NN|BODY_1|0
+good accuracy and stability|JJ NN CC NN|BODY_4|0
+the motion tracking problem|DT NN NN NN|BODY_1|0
+a single 2-d image|DT JJ JJ NN|BODY_6|0
+certain motion tracking problems|JJ NN NN NNS|BODY_1|0
+the most convincing reason|DT RBS JJ NN|BODY_1|0
+any false outlier matches|DT JJ NN NNS|BODY_8|0
+the model fitting process|DT NN JJ NN|BODY_5|0
+the previous 2 frames|DT JJ CD NNS|BODY_9|0
+the normal equations|DT JJ NNS|BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7|0
+the image|DT NN|BODY_6:BODY_5:BODY_1:BODY_10:BODY_4:BODY_9|1
+the prior model|DT JJ NN|BODY_11:BODY_13:BODY_2:BODY_9|1
+a wide range|DT JJ NN|BODY_6:BODY_5:BODY_11:BODY_4|0
+internal model parameters|JJ NN NNS|BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+each parameter|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_14:BODY_7:BODY_8|1
+any desired degree|DT VBN NN|BODY_2:BODY_8|1
+the prior estimates|DT JJ NNS|BODY_3:BODY_4|1
+the standard deviations|DT JJ NNS|BODY_2:BODY_3|1
+the matching process|DT JJ NN|BODY_3:BODY_7|1
+this paper|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|1
+practical parameter determination|JJ NN NN|BODY_7|1
+the modeling requirements|DT JJ NNS|BODY_3|1
+the best approach|DT JJS NN|BODY_6|1
+otherwise an approximation|RB DT NN|BODY_4|1
+almost every dimension|RB DT NN|BODY_6|1
+all possible sources|DT JJ NNS|BODY_5|1
+many modeling systems|JJ JJ NNS|BODY_6|1
+general model-based vision|JJ JJ NN|BODY_8|1
+matched image features|VBN NN NNS|BODY_9|1
+the vision domain|DT NN NN|BODY_7|1
+an arbitrary function|DT JJ NN|BODY_1|1
+the standard deviation|DT JJ NN|BODY_6:BODY_10:BODY_8|0
+the initial interpretation|DT JJ NN|BODY_9|1
+one important component|CD JJ NN|BODY_1|1
+the original image|DT JJ NN|BODY_6:BODY_5:BODY_9|0
+the partial derivatives|DT JJ NNS|BODY_3:BODY_4:BODY_10|0
+the viewpoint parameters|DT NN NNS|BODY_5:BODY_3|0
+a prior model|DT JJ NN|BODY_2:BODY_4|0
+a standard deviation|DT JJ NN|BODY_2:BODY_4:BODY_9|0
+the line|DT NN|BODY_12:BODY_11:BODY_2:BODY_3:BODY_8:BODY_9|0
+the directional derivative|DT JJ JJ|BODY_2:BODY_1:BODY_3|0
+the stabilization methods|DT NN NNS|BODY_1:BODY_9|0
+the partial derivative|DT JJ NN|BODY_1:BODY_8|0
+a hand drill|DT NN NN|BODY_3:BODY_9|0
+the parameter values|DT NN NNS|BODY_3:BODY_4|0
+very large numbers|RB JJ NNS|BODY_4:BODY_8|0
+j t j|RB JJ RB|BODY_5:BODY_7|0
+each model point|DT NN NN|BODY_2:BODY_1:BODY_3|0
+3-d to 2-d|JJ TO JJ|BODY_3|0
+the best ones|DT JJS NNS|BODY_3|0
+the default solution|DT NN NN|BODY_2|0
+model-based motion tracking|JJ NN NN|BODY_3:BODY_4|0
+the unknown parameters|DT JJ NNS|BODY_6:BODY_3|0
+the starting parameter|DT VBG NN|BODY_2|0
+the starting point|DT VBG NN|BODY_6:BODY_10|0
+20 correct matches|CD JJ NNS|BODY_3|0
+the jacobian matrix|DT JJ NN|BODY_6:BODY_5|0
+a modeling system|DT JJ NN|BODY_2:BODY_3|0
+an image point|DT NN NN|BODY_2|0
+a non-linear system|DT JJ NN|BODY_11:BODY_4|0
+a large increase|DT JJ NN|BODY_4|0
+even one outlier|RB CD NN|BODY_2|0
+all the changes|DT DT NNS|BODY_11|0
+a human finger|DT JJ NN|BODY_7|0
+a translation direction|DT NN NN|BODY_13|0
+each edge element|DT NN NN|BODY_6|0
+simple local approximations|JJ JJ NNS|BODY_6|0
+a new set|DT JJ NN|BODY_5|0
+a single parameter|DT JJ NN|BODY_8|0
+the various parameters|DT JJ NNS|BODY_7|0
+a major problem|DT JJ NN|BODY_8|0
+occlusion and errors|NN CC NNS|BODY_2|0
+the appropriate uncertainties|DT JJ NNS|BODY_15|0
+mundy [32 ]|JJ NN NN|BODY_3|0
+the focal length|DT JJ NN|BODY_10|0
+a single view|DT JJ NN|BODY_8|0
+a constant proportional|DT JJ JJ|BODY_9|0
+low-level edge detection|JJ NN NN|BODY_3|0
+the viewpoint solution|DT NN NN|BODY_3|0
+the right-hand side|DT JJ NN|BODY_5|0
+the 3-point problem|DT JJ NN|BODY_2|0
+many practical applications|JJ JJ NNS|BODY_2|0
+the image plane|DT NN NN|BODY_2|0
+a starting position|DT VBG NN|BODY_2|0
+a local minimum|DT JJ NN|BODY_5:BODY_3|0
+complex analytic representations|JJ JJ NNS|BODY_4|0
+derived image features|VBN NN NNS|BODY_4|0
+the generated contours|DT VBN NNS|BODY_3|0
+the appropriate interpolation|DT JJ NN|BODY_6|0
+z 3-axis rotation|FW CD NN|BODY_4|0
+projected model edges|VBN NN NNS|BODY_8|0
+each surface polygon|DT NN NN|BODY_3|0
+the accuracy requirements|DT NN NNS|BODY_1|0
+] edge detection|JJ NN NN|BODY_2|0
+the motion tracking|DT NN NN|BODY_2|0
+their valid range|PRP$ JJ NN|BODY_4|0
+false local minima|JJ JJ NN|BODY_6|0
+about 6 iterations|IN CD NNS|BODY_5|0
+a model point|DT NN NN|BODY_2|0
+the author [19]|DT NN NNP|BODY_2|0
+about 4000 lines|IN CD NNS|BODY_6|0
+the correct match|DT JJ NN|BODY_13|0
+polygonal surface patches|JJ NN NNS|BODY_5|0
+new starting points|JJ VBG NNS|BODY_6|0
+horaud et al|NN NNP NN|BODY_6|0
+this final result|DT JJ NN|BODY_4|0
+a simple solution|DT JJ NN|BODY_3|0
+subpart figure 1|NN NN CD|BODY_8|0
+the perpendicular distance|DT JJ NN|BODY_6:BODY_1|0
+the perpendicular errors|DT JJ NNS|BODY_2|0
+] and grimson|NNP CC NNP|BODY_5|0
+robustness and efficiency|NN CC NN|BODY_3|0
+householder orthogonal transformations|NN JJ NNS|BODY_6|0
+a general technique|DT JJ NN|BODY_3|0
+virtually every case|RB DT NN|BODY_4|0
+faugeras & hebert|NNS CC NN|BODY_4|0
+each translation frame|DT NN NN|BODY_12|0
+the desired solution|DT VBN NN|BODY_5|0
+the remaining ones|DT JJ NNS|BODY_5|0
+consistent partial matches|JJ JJ NNS|BODY_2|0
+an internal parameter|DT JJ NN|BODY_3|0
+initial parameter values|JJ NN NNS|BODY_6|0
+a large fraction|DT JJ NN|BODY_3|0
+the corresponding column|DT JJ NN|BODY_7|0
+a non-linear function|DT JJ NN|BODY_4|0
+different precomputed results|JJ JJ NNS|BODY_3|0
+most recognition problems|JJS NN NNS|BODY_3|0
+all viewpoints )|DT NNS -RRB-|BODY_8|0
+both viewpoint parameters|DT NN NNS|BODY_2|0
+the current view|DT JJ NN|BODY_3|0
+grouping and indexing|NN CC NN|BODY_7|0
+another model subpart|DT NN NN|BODY_9|0
+a sun 3/260|DT NN CD|BODY_6|0
+a small subset|DT JJ NN|BODY_10|0
+all model points|DT NN NNS|BODY_3|0
+the sequential composition|DT JJ NN|BODY_6|0
+'s earlier version|POS JJR NN|BODY_8|0
+a detailed analysis|DT JJ NN|BODY_2|0
+the image edges|DT NN NNS|BODY_2|0
+a robot hand|DT NN NN|BODY_7|0
+some cir- cumstances|DT NNS NNS|BODY_5|0
+3 model lines|CD NN NNS|BODY_7|0
+model-based motion track|JJ NN NN|BODY_6|0
+the lower part|DT JJR NN|BODY_14|0
+the image curve|DT NN NN|BODY_7|0
+a 3-d vector|DT JJ NN|BODY_2|0
+alternative iterative approaches|JJ JJ NNS|BODY_2|0
+only a subset|RB DT NN|BODY_6|0
+the correct solution|DT JJ NN|BODY_3|0
+several starting positions|JJ VBG NNS|BODY_6|0
+linearization and iteration|NN CC NN|BODY_4|0
+the simple solution|DT JJ NN|BODY_2|0
+a new d|DT JJ NN|BODY_5|0
+the model parameters|DT NN NNS|BODY_1|0
+the perpendicular error|DT JJ NN|BODY_5|0
+the occluding boundaries|DT NN NNS|BODY_7|0
+the viewing direction|DT NN NN|BODY_3|0
+a local rather|DT JJ RB|BODY_5|0
+a smooth surface|DT JJ NN|BODY_4|0
+any prior knowledge|DT JJ NN|BODY_2|0
+the instantaneous motion|DT JJ NN|BODY_4|0
+the current set|DT JJ NN|BODY_6|0
+the weighting matrix|DT NN NN|BODY_3|0
+each parameter correction|DT NN NN|BODY_4|0
+the perpendicular projection|DT JJ NN|BODY_8|0
+the new data|DT JJ NNS|BODY_4|0
+new in- formation|JJ JJ NN|BODY_4|0
+this system wd|DT NN NN|BODY_2|0
+the euclidean norm|DT JJ NN|BODY_6|0
+robust model-based recognition|JJ JJ NN|BODY_3|0
+simple linear approximations|JJ NN NNS|BODY_5|0
+the matrix equation|DT NN NN|BODY_3|0
+the minimum amount|DT JJ NN|BODY_5|0
+far more measurements|RB JJR NNS|BODY_4|0
+an analytic method|DT JJ NN|BODY_7|0
+pure gradient descent|JJ NN NN|BODY_4|0
+some initial approximation|DT JJ NN|BODY_5|0
+dhome et al|NN NNP NN|BODY_10|0
+a square system|DT JJ NN|BODY_7|0
+the householder algorithm|DT NN NN|BODY_9|0
+the increased number|DT JJ NN|BODY_3|0
+some figure 4|DT NN CD|BODY_5|0
+3 rotation matrix|CD NN NN|BODY_4|0
+the projected segments|DT VBN NNS|BODY_10|0
+the closest segment|DT JJS NN|BODY_10|0
+the same parameter|DT JJ NN|BODY_2|0
+a practical basis|DT JJ NN|BODY_5|0
+the second iteration|DT JJ NN|BODY_6|0
+the residual de-|DT NN NNS|BODY_7|0
+a diagonal matrix|DT JJ NN|BODY_8|0
+the video camera|DT JJ NN|BODY_8|0
+the left side|DT JJ NN|BODY_3|0
+one particular perception|CD JJ NN|BODY_6|0
+a motion sequence|DT NN NN|BODY_7|0
+an incremental rotation|DT JJ NN|BODY_5|0
+an image edge|DT NN NN|BODY_8|0
+projected model features|VBN NN NNS|BODY_2|0
+the final interpretation|DT JJ NN|BODY_3|0
+the parameter vector|DT NN NN|BODY_3|0
+a linear approximation|DT JJ NN|BODY_10|0
+'s applications )|POS NNS -RRB-|BODY_5|0
+the image matches|DT NN NNS|BODY_3|0
+the final solution|DT JJ NN|BODY_7|0
+a systematic exploration|DT JJ NN|BODY_2|0
+the three rotations|DT CD NNS|BODY_7|0
+u and v|NN CC NN|BODY_5|0
+a candidate set|DT NN NN|BODY_11|0
+usually many points|RB JJ NNS|BODY_2|0
+the data measurements|DT NNS NNS|BODY_8|0
+the projected locations|DT JJ NNS|BODY_4|0
+a stable manner|DT JJ NN|BODY_10|0
+the diagonal that|DT JJ IN|BODY_7|0
+most potential applications|JJS JJ NNS|BODY_8|0
+a mean direction|DT JJ NN|BODY_4|0
+a wire-frame model|DT NN NN|BODY_4|0
+more complex splines|RBR JJ NNS|BODY_2|0
+the visual appearance|DT JJ NN|BODY_4|0
+at most =2|IN JJS CD|BODY_3|0
+one particular set|CD JJ NN|BODY_2|0
+a high degree|DT JJ NN|BODY_7|0
+the projected points|DT VBN NNS|BODY_4|0
+about 6 seconds|IN CD NNS|BODY_4|0
+twice the word-length|RB DT NN|BODY_8|0
+fitting 3-d models|JJ JJ NNS|BODY_4|0
+special treat- ment|JJ NNS NN|BODY_4|0
+an adverse effect|DT JJ NN|BODY_4|0
+the cross product|DT JJ NN|BODY_5|0
+full 3-d rotations|JJ JJ NNS|BODY_5|0
+f z @x|NN FW FW|BODY_7|0
+the directional derivatives|DT JJ NNS|BODY_15:BODY_1|0
+the projection function|DT NN NN|BODY_9|0
+the error vector|DT NN NN|BODY_2|0
+( i .e|-LRB- NN NN|BODY_7|0
+a linear system|DT JJ NN|BODY_2|0
+a simplified version|DT JJ NN|BODY_6|0
+the same iterations|DT JJ NNS|BODY_4|0
+full three-degree-of-freedom rotations|JJ NN NNS|BODY_2|0
+the final results|DT JJ NNS|BODY_3|0
+j j wd|NN NN NN|BODY_5|0
+these prior constraints|DT JJ NNS|BODY_2|0
+the following form|DT JJ NN|BODY_6|0
+the multiple solutions|DT JJ NNS|BODY_10|0
+a promising candidate|DT JJ NN|BODY_2|0
+enough zero rows|JJ CD NNS|BODY_6|0
+the upper part|DT JJ NN|BODY_4|0
+its computational cost|PRP$ JJ NN|BODY_6|0
+an essential component|DT JJ NN|BODY_7|0
+quantitative parameter determination|JJ NN NN|BODY_7|0
+unit standard deviation|NN JJ NN|BODY_6:BODY_4|0
+3 model points|CD NN NNS|BODY_5|0
+arbitrary flexible motions|JJ JJ NNS|BODY_5|0
+an accurate fit|DT JJ NN|BODY_9|0
+the first set|DT JJ NN|BODY_8|0
+the above functions|DT JJ NNS|BODY_3|0
+the weighting )|DT NN -RRB-|BODY_8|0
+only a few|RB DT JJ|BODY_3|0
+a considerable increase|DT JJ NN|BODY_3|0
+the vision community|DT NN NN|BODY_5|0
+some extra matches|DT JJ NNS|BODY_2|0
+a special technique|DT JJ NN|BODY_2|0
+an arbitrary number|DT JJ NN|BODY_7|0
+the estimated rotation|DT JJ NN|BODY_5|0
+the original system|DT JJ NN|BODY_3|0
+this solution method|DT NN NN|BODY_5|0
+a vision system|DT NN NN|BODY_3|0
+@d @p cos|NN NN NNS|BODY_6|0
+useful approximate solutions|JJ JJ NNS|BODY_2|0
+one initial application|CD JJ NN|BODY_3|0
+3 image points|CD NN NNS|BODY_6|0
+the same constants|DT JJ NNS|BODY_3|0
+a non-linear operation|DT JJ NN|BODY_4|0
+the stabilized algorithm|DT VBN NN|BODY_4|0
+the linear system|DT NN NN|BODY_5|0
+their partial derivatives|PRP$ JJ NNS|BODY_8|0
+the efficient computation|DT JJ NN|BODY_3|0
+more error measurements|JJR NN NNS|BODY_2|0
+that stabilization methods|DT NN NNS|BODY_7|0
+the computational cost|DT JJ NN|BODY_2|0
+sin and cos|NN CC NNS|BODY_9|0
+their internal parameters|PRP$ JJ NNS|BODY_4|0
+a scalar parameter|DT NN NN|BODY_3|0
+many natural objects|JJ JJ NNS|BODY_7|0
+a stabilization method|DT NN NN|BODY_2|0
+significantly more constraints|RB JJR NNS|BODY_4|0
+some multi-scale curve|DT JJ NN|BODY_2|0
+an internal model|DT JJ NN|BODY_1|0
+the previous frame|DT JJ NN|BODY_6|0
+the model representation|DT NN NN|BODY_2|0
+any standard method|DT JJ NN|BODY_10|0
+all unknown parameters|DT JJ NNS|BODY_3|0
+coordinate system translation|VB NN NN|BODY_1|0
+determining model parameters|VBG NN NNS|BODY_9|0
+tendon contraction )|JJ NN -RRB-|BODY_9|0
+the parameter corrections|DT NN NNS|BODY_13|0
+these edge points|DT NN NNS|BODY_2|0
+such an approach|PDT DT NN|BODY_1|0
+the same solution|DT JJ NN|BODY_10|0
+an approximate solution|DT JJ NN|BODY_3|0
+2-d image segments|JJ NN NNS|BODY_11|0
+the next section|DT JJ NN|BODY_2|0
+slow ) convergence|JJ -RRB- NN|BODY_8|0
+the camera lens|DT NN NN|BODY_11|0
+our initial focus|PRP$ JJ NN|BODY_3|0
+a velocity estimate|DT NN NN|BODY_7|0
+all possible solutions|DT JJ NNS|BODY_3|0
+any particular rate|DT JJ NN|BODY_2|0
+the current estimate|DT JJ NN|BODY_11|0
+the iterative techniques|DT NN NNS|BODY_4|0
+a substantial role|DT JJ NN|BODY_6|0
+the term alignment|DT NN NN|BODY_2|0
+introduction model-based vision|NN JJ NN|BODY_1|0
+a parameter p|DT NN NN|BODY_5|0
+a caching mechanism|DT NN NN|BODY_1|0
+fischler and bolles|NN CC NNS|BODY_1|0
+the external stimulus|DT JJ NN|BODY_8|0
+dense surface descriptions|JJ NN NNS|BODY_5|0
+figure 1 )|NN CD -RRB-|BODY_9|0
+these direction vectors|DT NN NNS|BODY_9|0
+its current viewpoint|PRP$ JJ NN|BODY_5|0
+monte carlo techniques|NN NN NNS|BODY_10|0
+local independent optimization|JJ JJ NN|BODY_7|0
+the range|DT NN|BODY_6:BODY_5:BODY_4|0
+3] and superquadrics|JJ CC NNS|BODY_6|0
+other higher-level reasoning|JJ JJ NN|BODY_5|0
+485 pixel images|CD JJ NNS|BODY_5|0
+the model points|DT NN NNS|BODY_7|0
+non-square aspect ratios|JJ NN NNS|BODY_8|0
+all these methods|PDT DT NNS|BODY_1|0
+efficient parameter solving|JJ NN VBG|BODY_10|0
+a recognition problem|DT NN NN|BODY_4|0
+the final result|DT JJ NN|BODY_6|0
+its initial publication|PRP$ JJ NN|BODY_5|0
+each previous iteration|DT JJ NN|BODY_13|0
+equation ( 2|NN -LRB- CD|BODY_15|0
+ishii et al|FW FW NN|BODY_1|0
+the precise position|DT JJ NN|BODY_1|0
+goldberg & lowe|NNP CC JJR|BODY_1|0
+the rotation angle|DT NN NN|BODY_7|0
+a least-squares minimization|DT NNS NN|BODY_5|0
+the same mechanism|DT JJ NN|BODY_1|0
+singular value decomposition|JJ NN NN|BODY_7|0
+the new form|DT JJ NN|BODY_1|0
+no further computation|DT JJ NN|BODY_4|0
+an error measurement|DT NN NN|BODY_6|0
+the current viewpoint|DT JJ NN|BODY_5|0
+3 image lines|CD NN NNS|BODY_8|0
+many numerical texts|JJ JJ NNS|BODY_1|0
+some circumstances-such as|DT JJ IN|BODY_1|0
+the image frame|DT NN NN|BODY_7|0
+complex object models|JJ NN NNS|BODY_9|0
+the competing methods|DT VBG NNS|BODY_7|0
+a close study|DT JJ NN|BODY_1|0
+previous approaches attempts|JJ NNS NNS|BODY_1|0
+rotations and translations|NNS CC NNS|BODY_6|0
+the selected matches|DT VBN NNS|BODY_1|0
+many internal parameters|JJ JJ NNS|BODY_3|0
+translations and rotations|NNS CC NNS|BODY_1|0
+a particular parameter|DT JJ NN|BODY_4|0
+arbitrary model features|JJ NN NNS|BODY_7|0
+its expected value|PRP$ VBN NN|BODY_7|0
+5.2 efficient computation|CD JJ NN|BODY_1|0
+his solution methods|PRP$ NN NNS|BODY_1|0
+higher standard deviations|JJR JJ NNS|BODY_5|0
+the rotation parameters|DT NN NNS|BODY_1|0
+each image measurement|DT NN NN|BODY_9|0
+all these constraints|DT DT NNS|BODY_1|0
+the overconstrained nature|DT JJ NN|BODY_1|0
+the obvious problem|DT JJ NN|BODY_1|0
+initial parameter estimates|JJ NN NNS|BODY_5|0
+real-time motion tracking|JJ NN NN|BODY_8|0
+this minimum data|DT JJ NNS|BODY_12|0
+an ill-conditioned solution|DT JJ NN|BODY_10|0
+the appropriate solution|DT JJ NN|BODY_1|0
+nonlinear least-squares minimization|JJ NNS NN|BODY_7|0
+all these reasons|PDT DT NNS|BODY_1|0
+4.2 efficient computation|CD JJ NN|BODY_1|0
+even these levels|RB DT NNS|BODY_4|0
+this fast rate|DT JJ NN|BODY_1|0
+this second iteration|DT JJ NN|BODY_1|0
+many real-world objects|JJ NN NNS|BODY_3|0
+our matching algorithm|PRP$ NN NN|BODY_1|0
+computer graphics|NN NNS|BODY_6:BODY_1:BODY_2:BODY_7|2
+the use|DT NN|BODY_5:BODY_1:BODY_2|1
+'s method|POS NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8|0
+this system|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+model fitting|NN NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the matches|DT NNS|BODY_2:BODY_7:BODY_9|1
+the case|DT NN|BODY_5:BODY_2:BODY_1:BODY_8|0
+edges|NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+a model|DT NN|BODY_2:BODY_3:BODY_7|1
+each|DT|BODY_6:BODY_2:BODY_4:BODY_9|0
+each point|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+this work|DT NN|BODY_1:BODY_3:BODY_4|1
+the error|DT NN|BODY_2:BODY_3:BODY_7:BODY_9|0
+each row|DT NN|BODY_12:BODY_6:BODY_2|0
+the system|DT NN|BODY_6:BODY_5:BODY_3|0
+the models|DT NNS|BODY_1:BODY_3|1
+multiple solutions|JJ NNS|BODY_6:BODY_3:BODY_4:BODY_7|0
+that frame|WDT NN|BODY_6:BODY_2:BODY_10:BODY_7|0
+models|NNS|BODY_6:BODY_2:BODY_3|0
+an example|DT NN|BODY_2:BODY_1:BODY_7|0
+one|CD|BODY_1:BODY_3:BODY_8|1
+the work|DT NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+these|DT|BODY_5:BODY_1:BODY_3:BODY_4|0
+the value|DT NN|BODY_6:BODY_13:BODY_1|0
+standard deviations|JJ NNS|BODY_6:BODY_5:BODY_2|0
+the number|DT NN|BODY_5:BODY_1:BODY_4|0
+real time|JJ NN|BODY_3:BODY_8|0
+partial derivatives|JJ NNS|BODY_2:BODY_4:BODY_7|0
+the object|DT NN|BODY_6:BODY_7|1
+an image|DT NN|BODY_6:BODY_2:BODY_3|0
+the locations|DT NNS|BODY_1:BODY_4|1
+elimination methods|NN NNS|BODY_3|1
+the method|DT NN|BODY_2|0
+new matches|JJ NNS|BODY_1:BODY_7|1
+one quantity|CD NN|BODY_5|1
+rotation|NN|BODY_1:BODY_14:BODY_4:BODY_9|0
+this level|DT NN|BODY_6|1
+a number|DT NN|BODY_2:BODY_3|0
+a function|DT NN|BODY_5:BODY_4|0
+this problem|DT NN|BODY_6:BODY_5:BODY_1:BODY_3|0
+future directions|JJ NNS|BODY_2|1
+the inner-loop|DT JJ|BODY_2|1
+unwanted errors|JJ NNS|BODY_6|1
+fitting models|JJ NNS|BODY_5|1
+all|DT|BODY_2:BODY_1:BODY_3|0
+no doubt|DT NN|BODY_3|1
+the values|DT NNS|BODY_4|1
+projected contours|VBD NNS|BODY_3|1
+other features|JJ NNS|BODY_5|1
+a system|DT NN|BODY_6:BODY_11:BODY_3|0
+occluding contours|VBG NNS|BODY_4|1
+general methods|JJ NNS|BODY_4|1
+most cases|JJS NNS|BODY_1|1
+the positions|DT NNS|BODY_3|1
+the stabilization|DT NN|BODY_2:BODY_3:BODY_7|0
+viewpoint parameters|NN NNS|BODY_5:BODY_4:BODY_9|0
+generic classes|JJ NNS|BODY_2|1
+the trade-offs|DT NNS|BODY_2:BODY_4|0
+newton|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+important differences|JJ NNS|BODY_4|1
+7 conclusions|CD NNS|BODY_1|1
+the parameter|DT NN|BODY_5:BODY_2|0
+model representation|NN NN|BODY_2:BODY_3|0
+a tree|DT NN|BODY_12:BODY_5:BODY_3|0
+the surface|DT NN|BODY_1:BODY_2:BODY_9|0
+perpendicular errors|JJ NNS|BODY_5:BODY_1:BODY_2|0
+human vision|JJ NN|BODY_5:BODY_2|0
+the methods|DT NNS|BODY_1:BODY_4|0
+one iteration|CD NN|BODY_1:BODY_2|0
+practice|NN|BODY_5:BODY_2:BODY_4:BODY_7:BODY_9|0
+the vector|DT NN|BODY_12:BODY_3:BODY_7|0
+the process|DT NN|BODY_5|0
+gray bars|JJ NNS|BODY_2:BODY_3|0
+matches|NNS|BODY_6:BODY_5:BODY_7:BODY_9|0
+the application|DT NN|BODY_1:BODY_3|0
+volumetric primitives|JJ NNS|BODY_3:BODY_4|0
+image edges|NN NNS|BODY_2:BODY_3|0
+each element|DT NN|BODY_10:BODY_4|0
+the face|DT NN|BODY_3:BODY_8|0
+the influence|DT NN|BODY_5:BODY_10|0
+the basis|DT NN|BODY_6:BODY_9|0
+these methods|DT NNS|BODY_5:BODY_1:BODY_2:BODY_4|0
+figure 5|NN CD|BODY_1:BODY_3|0
+the position|DT NN|BODY_5:BODY_1:BODY_8|0
+the origin|DT NN|BODY_13:BODY_3:BODY_8|0
+parameter values|NN NNS|BODY_3:BODY_8|0
+motion tracking|NN NN|BODY_5:BODY_2:BODY_3|0
+the set|DT NN|BODY_5:BODY_9|0
+the algorithm|DT NN|BODY_2:BODY_4|0
+certain classes|JJ NNS|BODY_2:BODY_3|0
+the frame|DT NN|BODY_6:BODY_4|0
+this point|DT NN|BODY_8:BODY_9|0
+x|NN|BODY_11:BODY_2:BODY_10:BODY_9|0
+curved surfaces|JJ NNS|BODY_3:BODY_4|0
+vision|NN|BODY_2:BODY_4:BODY_8:BODY_9|0
+the root|DT NN|BODY_1:BODY_4:BODY_7|0
+each iteration|DT NN|BODY_1:BODY_3:BODY_10|0
+the residual|DT NN|BODY_5:BODY_3|0
+the camera|DT NN|BODY_6:BODY_2|0
+the fact|DT NN|BODY_4:BODY_8|0
+the inverse|DT NN|BODY_5:BODY_8|0
+the components|DT NNS|BODY_14:BODY_4|0
+a vector|DT NN|BODY_5:BODY_8|0
+j t|NN NN|BODY_14:BODY_8|0
+the output|DT NN|BODY_2|0
+zero corrections|CD NNS|BODY_3|0
+image measurements|NN NNS|BODY_11:BODY_5:BODY_3|0
+the handle|DT NN|BODY_6:BODY_3|0
+parameter determination|NN NN|BODY_5:BODY_2|0
+the scene|DT NN|BODY_5:BODY_7|0
+the operation|DT NN|BODY_5:BODY_2|0
+camera-centered coordinates|DT NNS|BODY_4|0
+perspective projection|NN NN|BODY_1:BODY_7|0
+typical errors|JJ NNS|BODY_5:BODY_10|0
+the constraints|DT NNS|BODY_6:BODY_2|0
+model-based recognition|JJ NN|BODY_6:BODY_2|0
+p|NN|BODY_12:BODY_5:BODY_13:BODY_1|0
+the reliability|DT NN|BODY_6:BODY_1|0
+that field|DT NN|BODY_3|0
+this language|DT NN|BODY_3|0
+iterative reweighting|JJ NN|BODY_4|0
+robust methods|JJ NNS|BODY_3|0
+x i|NN NN|BODY_5:BODY_7|0
+the presence|DT NN|BODY_4|0
+this approach|DT NN|BODY_2|0
+local minima|JJ NN|BODY_7|0
+y translation|JJ NN|BODY_3|0
+nearby alternatives|JJ NNS|BODY_14|0
+a description|DT NN|BODY_2|0
+x translation|NN NN|BODY_2|0
+translation errors|NN NNS|BODY_7|0
+that error|WDT NN|BODY_12|0
+many areas|JJ NNS|BODY_10|0
+prior knowledge|JJ NN|BODY_2|0
+the centers|DT NNS|BODY_6:BODY_3|0
+the absence|DT NN|BODY_7|0
+et al|NNP NN|BODY_3|0
+model parameters|NN NNS|BODY_5:BODY_7|0
+v )|RB -RRB-|BODY_5:BODY_7|0
+each rotation|DT NN|BODY_14|0
+the pyramid|DT NN|BODY_9|0
+local approximation|JJ NN|BODY_2|0
+its properties|PRP$ NNS|BODY_6|0
+the default|DT NN|BODY_6|0
+different parameters|JJ NNS|BODY_8|0
+image matches|NN NNS|BODY_6|0
+this procedure|DT NN|BODY_2|0
+these problems|DT NNS|BODY_1:BODY_3|0
+led targets|VBN NNS|BODY_9|0
+guaranteed (|VBN -LRB-|BODY_7|0
+heavy lines|JJ NNS|BODY_2:BODY_3|0
+partial matches|JJ NNS|BODY_10|0
+the visibility|DT NN|BODY_2|0
+the distance|DT NN|BODY_6:BODY_7|0
+figure 4|NN CD|BODY_6:BODY_1|0
+2-d images|JJ NNS|BODY_2|0
+curved objects|JJ NNS|BODY_5:BODY_10|0
+the assumption|DT NN|BODY_2:BODY_1|0
+the transpose|DT NN|BODY_15|0
+a tikhonov|DT NN|BODY_9|0
+further matches|JJ NNS|BODY_4|0
+its potential|PRP$ JJ|BODY_5|0
+levenberg [17]|NN NN|BODY_5|0
+each frame|DT NN|BODY_1:BODY_3|0
+the left|DT NN|BODY_2|0
+the availablity|DT NN|BODY_2|0
+the rotation|DT NN|BODY_2|0
+convergence worrall|NN NN|BODY_3|0
+robotic interaction|JJ NN|BODY_6|0
+this minimization|DT NN|BODY_1:BODY_9|0
+e i|NN NN|BODY_9|0
+surface curvatures|NN NNS|BODY_2|0
+all points|DT NNS|BODY_5:BODY_1|0
+large ranges|JJ NNS|BODY_3|0
+rotation errors|NN NNS|BODY_5|0
+the sum|DT NN|BODY_10|0
+all parameters|DT NNS|BODY_2|0
+parameter i|NN FW|BODY_17:BODY_10|0
+this algorithm|DT NN|BODY_9|0
+later iterations|RB NNS|BODY_9|0
+initial estimates|JJ NNS|BODY_3|0
+generalized cylinders|JJ NNS|BODY_5|0
+model input|NN NN|BODY_4|0
+those arising|DT VBG|BODY_3|0
+a path|DT NN|BODY_4|0
+model points|NN NNS|BODY_9|0
+parameter p|NN NN|BODY_11|0
+frame transformation|NN NN|BODY_2|0
+any time|DT NN|BODY_7|0
+] show|JJ NN|BODY_2|0
+t w|NN NN|BODY_9|0
+an average|DT NN|BODY_4|0
+each edge|DT NN|BODY_5|0
+existing systems|VBG NNS|BODY_5|0
+straight edges|JJ NNS|BODY_2|0
+. 22ff|. CD|BODY_2|0
+an object|DT NN|BODY_6|0
+independent directions|JJ NNS|BODY_8|0
+specific properties|JJ NNS|BODY_2|0
+specific objects|JJ NNS|BODY_4|0
+selected points|VBN NNS|BODY_6|0
+non-linear iteration|JJ NN|BODY_10|0
+image features|NN NNS|BODY_5:BODY_9|0
+the derivatives|DT NNS|BODY_3|0
+precomputed results|JJ NNS|BODY_2|0
+the cosine|DT NN|BODY_6|0
+other components|JJ NNS|BODY_6|0
+the way|DT NN|BODY_3|0
+variable transformations|JJ NNS|BODY_6|0
+a time|DT NN|BODY_5|0
+parameter s|NN VBZ|BODY_6|0
+figure 6|NN CD|BODY_4|0
+a problem|DT NN|BODY_1:BODY_4|0
+each side|DT NN|BODY_4|0
+many years|JJ NNS|BODY_4|0
+the length|DT NN|BODY_2|0
+a pyramid|DT NN|BODY_2|0
+these edges|DT NNS|BODY_1:BODY_3|0
+a method|DT NN|BODY_4|0
+large numbers|JJ NNS|BODY_10|0
+much research|JJ NN|BODY_7|0
+figure 7|NN CD|BODY_5|0
+the results|DT NNS|BODY_12|0
+the benefit|DT NN|BODY_2|0
+goad [7|NN NNS|BODY_5|0
+the height|DT NN|BODY_8|0
+the end-points|DT NNS|BODY_2|0
+the patch|DT NN|BODY_3|0
+kjx ek|NN NN|BODY_5|0
+video rates|NN NNS|BODY_8|0
+approximating patches|VBG NNS|BODY_4|0
+each itera|DT NN|BODY_13|0
+all solutions|DT NNS|BODY_5|0
+prior constraints|JJ NNS|BODY_4|0
+iterative convergence|JJ NN|BODY_3|0
+its elements|PRP$ NNS|BODY_5|0
+3-d points|JJ NNS|BODY_2|0
+this use|DT NN|BODY_2|0
+the issue|DT NN|BODY_4|0
+any combination|DT NN|BODY_6|0
+this equation|DT NN|BODY_4|0
+image locations|NN NNS|BODY_4|0
+orthographic projection|JJ NN|BODY_4|0
+the coordinates|DT NNS|BODY_11|0
+the parameters|DT NNS|BODY_3|0
+figure 1|NN CD|BODY_4|0
+a 3|DT CD|BODY_3|0
+3-d viewpoint|JJ NN|BODY_7|0
+any precomputation|DT NN|BODY_4|0
+this parameter|DT NN|BODY_2|0
+common symmetries|JJ NNS|BODY_3|0
+compute corrections|NN NNS|BODY_5|0
+the level|DT NN|BODY_6|0
+each solution|DT NN|BODY_4|0
+the edges|DT NNS|BODY_7|0
+these points|DT NNS|BODY_4|0
+human perception|NN NN|BODY_5|0
+since w|IN NN|BODY_7|0
+( 1|-LRB- CD|BODY_13|0
+random intervals|JJ NNS|BODY_4|0
+certain shapes|JJ NNS|BODY_4|0
+surface discontinuities|NN NNS|BODY_8|0
+a leaf|DT NN|BODY_2|0
+starting positions|VBG NNS|BODY_12|0
+the projection|DT NN|BODY_4|0
+coordinate transformations|VB NNS|BODY_4|0
+each pixel|DT NN|BODY_5|0
+iteration i|NN FW|BODY_4|0
+much better|RB JJR|BODY_5|0
+their ability|PRP$ NN|BODY_2|0
+a factor|DT NN|BODY_8|0
+this process|DT NN|BODY_2|0
+the constants|DT NNS|BODY_8|0
+the orientation|DT NN|BODY_7|0
+a along|DT RB|BODY_4|0
+the speed|DT NN|BODY_6|0
+non-zero preferences|JJ NNS|BODY_7|0
+many matches|JJ NNS|BODY_2|0
+image coordinates|NN NNS|BODY_6|0
+the art|DT NN|BODY_3|0
+arbitrary models|JJ NNS|BODY_3|0
+the degree|DT NN|BODY_5|0
+the equation|DT NN|BODY_5|0
+several times|JJ NNS|BODY_3|0
+i )|FW -RRB-|BODY_2|0
+a precision|DT NN|BODY_7|0
+these steps|DT NNS|BODY_4|0
+the complexity|DT NN|BODY_1|0
+much work|RB NN|BODY_4|0
+occluding boundaries|VBG NNS|BODY_3|0
+local linearity|JJ NN|BODY_2|0
+two iterations|CD NNS|BODY_5|0
+perpendicular bars|JJ NNS|BODY_4|0
+the diagonals|DT NNS|BODY_9|0
+a sun|DT NN|BODY_7|0
+the contour|DT NN|BODY_5|0
+one row|CD NN|BODY_12|0
+few parameters|JJ NNS|BODY_5|0
+the path|DT NN|BODY_6|0
+the 2-norm|DT JJ|BODY_4|0
+this version|DT NN|BODY_3|0
+the match|DT NN|BODY_5|0
+the trade-off|DT NN|BODY_3|0
+object sub-categories|NN NNS|BODY_3|0
+three rotations|CD NNS|BODY_2|0
+arbitrary objects|JJ NNS|BODY_5|0
+individual axes|JJ NNS|BODY_3|0
+no specification|DT NN|BODY_3|0
+many operations|JJ NNS|BODY_3|0
+( 2|-LRB- CD|BODY_10|0
+non-linear parameters|JJ NNS|BODY_4|0
+parallel architectures|JJ NNS|BODY_3|0
+another constant|DT JJ|BODY_2|0
+the risk|DT NN|BODY_4|0
+a person|DT NN|BODY_8|0
+the rate|DT NN|BODY_7|0
+a column|DT NN|BODY_6|0
+the errors|DT NNS|BODY_5|0
+nearby points|JJ NNS|BODY_8|0
+the x-axis|DT NNP|BODY_6|0
+the addition|DT NN|BODY_6|0
+most applications|RBS NNS|BODY_7|0
+fewer rows|JJR NNS|BODY_2|0
+error measurements|NN NNS|BODY_6|0
+the tree|DT NN|BODY_2|0
+each constraint|DT NN|BODY_3|0
+each match|DT NN|BODY_3|0
+major gains|JJ NNS|BODY_5|0
+potential ambiguities|JJ NNS|BODY_4|0
+potentially unstable|RB JJ|BODY_4|0
+subsequent iterations|JJ NNS|BODY_6|0
+2 points|CD NNS|BODY_10|0
+our attention|PRP$ NN|BODY_3|0
+small constants|JJ NNS|BODY_6|0
+surface patches|NN NNS|BODY_4|0
+these quantities|DT NNS|BODY_4|0
+described above|VBN IN|BODY_9|0
+few attempts|JJ NNS|BODY_2|0
+other relationships|JJ NNS|BODY_8|0
+the square|DT NN|BODY_9|0
+the weight|DT NN|BODY_5|0
+perspective distortion|NN NN|BODY_3|0
+self-occluding edges|JJ NNS|BODY_2|0
+different frames|JJ NNS|BODY_3|0
+the data|DT NNS|BODY_7|0
+more matches|JJR NNS|BODY_2|0
+the degrees|DT NNS|BODY_3|0
+this tree|DT NN|BODY_5|0
+the translations|DT NNS|BODY_4|0
+another approach|DT NN|BODY_1|0
+kumar shows|JJ NNS|BODY_1|0
+noisy data|JJ NNS|BODY_5|0
+their results|PRP$ NNS|BODY_1|0
+a procedure|DT NN|BODY_8|0
+this matrix|DT NN|BODY_11|0
+the transformations|DT NNS|BODY_5|0
+graphics applications|NNS NNS|BODY_4|0
+each weight|DT NN|BODY_7|0
+difficult problems|JJ NNS|BODY_4|0
+certain quantities|JJ NNS|BODY_2|0
+this case|DT NN|BODY_1|0
+a matter|DT NN|BODY_4|0
+4 solving|CD VBG|BODY_1|0
+many situations|JJ NNS|BODY_1|0
+these matches|DT NNS|BODY_1|0
+free parameters|JJ NNS|BODY_3|0
+the non-linearities|DT NNS|BODY_7|0
+modern hardware|JJ NN|BODY_4|0
+other sets|JJ NNS|BODY_6|0
+rectangular blocks|JJ NNS|BODY_4|0
+one frame|CD NN|BODY_4|0
+occlusion )|NN -RRB-|BODY_4|0
+a point|DT NN|BODY_3|0
+partition problems|NN NNS|BODY_7|0
+little likelihood|JJ NN|BODY_5|0
+any viewpoint|DT NN|BODY_3|0
+this method|DT NN|BODY_8|0
+potential matches|JJ NNS|BODY_6|0
+unknown-the accuracy|DT NN|BODY_4|0
+the lessons|DT NNS|BODY_1|0
+incorrect matches|JJ NNS|BODY_6|0
+this position|DT NN|BODY_7|0
+many people|JJ NNS|BODY_4|0
+the wrist|DT NN|BODY_10|0
+a couple|DT NN|BODY_3|0
+an x|DT NN|BODY_12:BODY_2|0
+those functions|DT NNS|BODY_3|0
+further data|JJ NNS|BODY_8|0
+the determination|DT NN|BODY_4|0
+this stabilization|DT NN|BODY_3|0
+the acceleration|DT NN|BODY_5|0
+marquardt [24]|JJ NN|BODY_7|0
+rigid objects|JJ NNS|BODY_10:BODY_4|0
+the objects|DT NNS|BODY_7|0
+1 )|CD -RRB-|BODY_8|0
+a minimum|DT NN|BODY_7|0
+the possibility|DT NN|BODY_7|0
+c code|NN NN|BODY_7|0
+considerable attention|JJ NN|BODY_1|0
+these deviations|DT NNS|BODY_1|0
+our case|PRP$ NN|BODY_1|0
+the edge|DT NN|BODY_7|0
+rotation parameters|NN NNS|BODY_8|0
+5 iterations|CD NNS|BODY_1|0
+each type|DT NN|BODY_1|0
+90 degrees|CD NNS|BODY_6|0
+rock [31]|NN NN|BODY_1|0
+model-based matching|JJ NN|BODY_1|0
+this link|DT NN|BODY_1|0
+variable height|JJ NN|BODY_4|0
+edge-based matching|JJ NN|BODY_2|0
+that point|IN NN|BODY_8|0
+reliable identifications|JJ NNS|BODY_1|0
+local connectivity|JJ NN|BODY_10|0
+this figure|DT NN|BODY_1|0
+new information|JJ NN|BODY_7|0
+the primitives|DT NNS|BODY_11|0
+this rotation|DT NN|BODY_9|0
+some applications|DT NNS|BODY_8|0
+the perception|DT NN|BODY_1|0
+non-linear convergence|JJ NN|BODY_10|0
+global minimum|JJ NN|BODY_6|0
+the section|DT NN|BODY_1|0
+6 results|CD NNS|BODY_1|0
+simple models|JJ NNS|BODY_1|0
+these costs|DT NNS|BODY_4|0
+the diagonal|DT JJ|BODY_11|0
+this determination|DT NN|BODY_1|0
+this behavior|DT NN|BODY_1|0
+non-linear least-squares|JJ NNS|BODY_5|0
+4.1 newton|CD NN|BODY_1|0
+least-squares minimization|NNS NN|BODY_5|0
+later matches|RB NNS|BODY_8|0
+the right|DT NN|BODY_5|0
+let l|VB NN|BODY_1|0
+the language|DT NN|BODY_1|0
+one axis|CD NN|BODY_2|0
+the point|DT NN|BODY_15:BODY_10|0
+three axes|CD NNS|BODY_2|0
+parameter estimates|NN NNS|BODY_7|0
+y )|NN -RRB-|BODY_9|0
+the viewpoint|DT NN|BODY_6|0
+visual interpretation|JJ NN|BODY_6|0
+a discontinuity|DT NN|BODY_5|0
+underlying polygons|VBG NNS|BODY_11|0
+a solution|DT NN|BODY_1|0
+their paper|PRP$ NN|BODY_1|0
+figure 2|NN CD|BODY_1|0
+see [21]|VB NN|BODY_1|0
+figure 3|NN CD|BODY_3|0
+higher precision|JJR NN|BODY_1|0
+either situation|DT NN|BODY_2|0
+a record|DT NN|BODY_1|0
+these transformations|DT NNS|BODY_2|0
+these solutions|DT NNS|BODY_10|0
+bray [2|NN NNS|BODY_1|0
+that time|DT NN|BODY_1|0
+many parameters|JJ NNS|BODY_7|0
+some research|DT NN|BODY_1|0
+6.1 application|CD NN|BODY_1|0
+'s parameters|POS NNS|BODY_11|0
+'s variable|POS JJ|BODY_7|0
+0 d|CD NN|BODY_10|0
+levenberg-marquardt methods|JJ NNS|BODY_8|0
+linear equations|JJ NNS|BODY_12|0
+recent years|JJ NNS|BODY_1|0
+other non-linearities|JJ NNS|BODY_6|0
+the alternative|DT NN|BODY_1|0
+the field|DT NN|BODY_1|0
+this error|DT NN|BODY_14|0
+the function|DT NN|BODY_7|0
+the corrections|DT NNS|BODY_5|0
+variable parameters|JJ NNS|BODY_5|0
+roberts [30]|NNS NNS|BODY_4|0
+one time|CD NN|BODY_7|0
+smaller subsets|JJR NNS|BODY_10|0
+practical value|JJ NN|BODY_8|0
+one problem|CD NN|BODY_1|0
+its parent|PRP$ NN|BODY_4|0
+that parameter|DT NN|BODY_11|0
+our problem|PRP$ NN|BODY_1|0
+larger rotations|JJR NNS|BODY_1|0
+ill-conditioned problems|JJ NNS|BODY_8|0
+expected values|JJ NNS|BODY_6|0
+fact|NN|BODY_6:BODY_1:BODY_3|0
+those|DT|BODY_6:BODY_4:BODY_8|0

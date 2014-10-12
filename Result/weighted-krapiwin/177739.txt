@@ -1,0 +1,542 @@
+we|PRP|ABSTRACT_6:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_10:BODY_7:BODY_9|10
+which|WDT|BODY_61:BODY_21:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_10:BODY_7:ABSTRACT_9:BODY_8:BODY_9|5
+first-order multiparty interactions|JJ JJ NNS|BODY_5:TITLE_1:BODY_2:BODY_8|0
+processes|NNS|BODY_12:BODY_6:BODY_5:ABSTRACT_6:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_42:BODY_2:ABSTRACT_3:BODY_3:BODY_14:BODY_4:BODY_37:BODY_6:BODY_5:BODY_1:BODY_50:ABSTRACT_7:BODY_10:BODY_8:BODY_9|1
+the algorithm|DT NN|BODY_12:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+a set|DT NN|BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+a first-order interaction|DT NN NN|BODY_6:ABSTRACT_2:BODY_2:BODY_3:BODY_7|1
+the interaction|DT NN|BODY_5:ABSTRACT_5:BODY_17:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+a first-order multiparty interaction|DT NN NN NN|BODY_1:ABSTRACT_1|0
+enrolement statements|NN NNS|BODY_11:BODY_5:ABSTRACT_2:BODY_3:BODY_7:BODY_8|2
+roles|NNS|BODY_12:BODY_6:BODY_5:BODY_11:ABSTRACT_5:ABSTRACT_3:BODY_3:BODY_7:BODY_8|0
+an abstraction mechanism|DT NN NN|ABSTRACT_2:BODY_2:BODY_3|0
+first-order interactions|JJ NNS|BODY_6:BODY_1:BODY_2:ABSTRACT_3:BODY_3|0
+generic roles|JJ NNS|ABSTRACT_4:BODY_2:BODY_4|0
+run time|NN NN|BODY_6:BODY_5:BODY_2:ABSTRACT_7|0
+all roles|DT NNS|ABSTRACT_6:BODY_10:BODY_4|0
+alternative commands|JJ NNS|BODY_5:ABSTRACT_4|0
+actual processes|JJ NNS|BODY_1:ABSTRACT_1:BODY_7|0
+the enrolement guard-scheduling problem|DT NN NN NN|ABSTRACT_3:ABSTRACT_1|1
+the first such solution|DT JJ JJ NN|ABSTRACT_4|1
+the judicious scheduling|DT JJ NN|ABSTRACT_4|0
+formal process roles|JJ NN NNS|ABSTRACT_6|0
+it|PRP|BODY_12:BODY_22:BODY_18:BODY_15:BODY_13:BODY_26:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|2
+a process|DT NN|BODY_6:BODY_11:BODY_5:BODY_28:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|2
+i|NN|BODY_11:BODY_17:BODY_21:BODY_13:BODY_25:BODY_2:BODY_3:BODY_4:BODY_6:BODY_35:BODY_5:BODY_36:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+coord i|NN NN|BODY_11:BODY_22:BODY_15:BODY_13:BODY_2:BODY_25:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|0
+slave i|NN NN|BODY_2:BODY_3:BODY_73:BODY_4:BODY_65:BODY_6:BODY_5:BODY_1:BODY_44:BODY_10:BODY_8:BODY_9:BODY_55|0
+p i|NN NN|BODY_12:BODY_6:BODY_11:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4|1
+a quorum|DT NN|BODY_11:BODY_16:BODY_15:BODY_2:BODY_39:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_20|0
+p|NN|BODY_6:BODY_5:BODY_34:BODY_23:BODY_1:BODY_3:BODY_4:BODY_29:BODY_7:BODY_9|1
+slave j|NN NN|BODY_6:BODY_43:BODY_21:BODY_23:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_19:BODY_7:BODY_8|0
+the maximum matching problem|DT NN NN NN|BODY_3:BODY_4|1
+p j|NN NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_9|0
+at most one role|IN JJS CD NN|BODY_6:BODY_5|1
+more than one process|JJR IN CD NN|BODY_8|1
+the first such algorithm|DT JJ JJ NN|BODY_5|1
+an efficient distributed algorithm|DT JJ VBN NN|BODY_3|1
+two less severe forms|CD RBR JJ NNS|BODY_3|1
+two restricted naming conventions|CD JJ NN NNS|BODY_2|1
+a process p i|DT NN NN NN|BODY_2:BODY_3|0
+the unique entry times|DT JJ NN NNS|BODY_2|0
+its current enrolement phase|PRP$ JJ NN NN|BODY_5:BODY_4:BODY_9|0
+a coordinator|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_20|1
+a process p j|DT NN NN NN|BODY_6:BODY_1:BODY_3|0
+the accompanying proof system|DT JJ NN NN|BODY_2|0
+r 2 r i|NN CD NN FW|BODY_47:BODY_30|0
+a particular group g|DT JJ NN NN|BODY_4|0
+a given enrolement phase|DT VBN NN NN|BODY_5:BODY_3|0
+all the other participants|PDT DT JJ NNS|BODY_4|0
+some other established quorum|DT JJ VBN NN|BODY_6:BODY_4|0
+the national science foundation|DT JJ NN NN|BODY_10|0
+pairs ( p r|NNS -LRB- NN NN|BODY_2|0
+the same role name|DT JJ NN NN|BODY_7|0
+any other three processes|DT JJ CD NNS|BODY_11|0
+multiparty interaction guard scheduling|JJ NN NN NN|BODY_3|0
+the coordinator and slave|DT NN CC NN|BODY_2|0
+captor= ( p \gamma|NN -LRB- NN NN|BODY_18|0
+one or more committees|CD CC JJR NNS|BODY_8|0
+a probabilistic , completely|DT JJ , RB|BODY_5|0
+a coordinator p i|DT NN NN NN|BODY_1:BODY_3|0
+true iff slave i|JJ NN NN IN|BODY_43:BODY_51|0
+\gamma ! reply reply|NN . NN NN|BODY_23|0
+2 p( i )|CD JJ NN -RRB-|BODY_8|0
+fill role r k|VB NN NN NN|BODY_6|0
+the current partial quorum|DT JJ JJ NN|BODY_49:BODY_4|0
+its deferred capture request|PRP$ VBN NN NN|BODY_11:BODY_29|0
+concurrently two compo- nents|RB CD NNS NNS|BODY_5|0
+d grants coord i|JJ NNS NN NN|BODY_9|0
+cessful , i .e|JJ , FW FW|BODY_2|0
+a single generic role|DT JJ JJ NN|BODY_5|0
+the triple ( p|DT JJ -LRB- NN|BODY_5:BODY_9|0
+slave 1 and idles|NN CD CC NNS|BODY_9|0
+the confirmation switch ok|DT NN NN NN|BODY_2:BODY_1|0
+2.4 receive switch ok|CD VBP NN NN|BODY_24|0
+1.1 active aborted for|CD JJ JJ IN|BODY_6|0
+delete ( p j|FW -LRB- NN NN|BODY_33|0
+slave active := false|NN JJ NN JJ|BODY_12|0
+figures 1 and 2|NNS CD CC CD|BODY_1:BODY_3|0
+more than one role|JJR IN CD NN|BODY_6|0
+three roles r 1|CD NNS NN CD|BODY_6|0
+its two neighboring forks|PRP$ CD JJ NNS|BODY_5|0
+a process p m|DT NN NN NN|BODY_2|0
+the guard scheduling problem|DT NN NN NN|BODY_2:BODY_1|0
+the first first-order solution|DT JJ JJ NN|BODY_8|0
+a quorum q \gamma|DT NN NN NN|BODY_17|0
+slave 6 captures slave|NN CD NNS NN|BODY_16|0
+r 2 r j|NN CD NN NN|BODY_13|0
+such that slave i|PDT WDT NN IN|BODY_60|0
+each existing process p|DT VBG NN NN|BODY_7|0
+a distinct pro- cess|DT JJ NNS NN|BODY_6|0
+a process p not|DT NN NN RB|BODY_32|0
+its deferred capture requests|PRP$ JJ NN NNS|BODY_4|0
+the unique entry time|DT JJ NN NN|BODY_4|0
+a zeroth-order multicast inter-action|DT NN NN NN|BODY_2|0
+a generic recipient role|DT JJ NN NN|BODY_5|0
+the pairs ( p|DT NNS -LRB- NN|BODY_12|0
+only the youngest process|RB DT JJS NN|BODY_3|0
+a new capture request|DT JJ NN NN|BODY_30|0
+a slave p j|DT NN NN NN|BODY_4|0
+at least k quorums|IN JJS NN NNS|BODY_4|0
+nil whenever d 6=|JJ WRB NN NN|BODY_3|0
+a dynamically changing environment|DT RB VBG NN|BODY_3:BODY_4|0
+any other potential participants|DT JJ NN NNS|BODY_4|0
+at least k coordinators|IN JJS NN NNS|BODY_8|0
+( r i )|-LRB- NN FW -RRB-|BODY_8|0
+a more pleasant form|DT RBR JJ NN|BODY_1|0
+the set r j|DT NN NN NN|BODY_7|0
+the ( p k|DT -LRB- NN NN|BODY_10|0
+the two restricted forms|DT CD JJ NNS|BODY_1|0
+the smallest i 0|DT JJS NN CD|BODY_11|0
+a captured slave j|DT VBN NN NN|BODY_17|0
+true iff coord i|JJ NN NN NN|BODY_15|0
+each triple ( p|DT JJ -LRB- NN|BODY_7|0
+each interaction 3 i|DT NN CD NN|BODY_1|0
+the same first-order interaction|DT JJ JJ NN|BODY_15|0
+the other enrolers [9]|DT JJ NNS NNS|BODY_5|0
+rad- dle and script|NNS NN CC NN|BODY_1|0
+a coordinator coord j|DT NN NN NN|BODY_8|0
+7 dynamically changing environment|CD RB VBG NN|BODY_1|0
+a new entry time|DT JJ NN NN|BODY_9|0
+somewhat different role structures|RB JJ NN NNS|BODY_3|0
+a somewhat different scenario|DT RB JJ NN|BODY_1|0
+again our multicast example|RB PRP$ NN NN|BODY_1|0
+the variable g i|DT JJ NN NN|BODY_1|0
+the coordinator p i|DT NN NN NN|BODY_9|0
+their p( i )|PRP$ NN NN -RRB-|BODY_6|0
+the next enrolement phase|DT JJ NN NN|BODY_9|0
+'s deferred capture request|POS VBN NN NN|BODY_8|0
+at most 6 messages|IN JJS CD NNS|BODY_4|0
+our algorithm|PRP$ NN|BODY_5:BODY_2:BODY_1:BODY_3|1
+an interaction|DT NN|BODY_6:BODY_17:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+there|EX|BODY_2:BODY_1:BODY_3:BODY_10:BODY_8|0
+'s capture request|POS NN NN|BODY_5:BODY_14:BODY_3:BODY_7:BODY_8|0
+coord k|NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_9|0
+the partial quorum|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_1|1
+the same role|DT JJ NN|BODY_3:BODY_9|1
+enrolement guard scheduling|NN NN NN|BODY_3|1
+the set|DT NN|BODY_12:BODY_2:BODY_1:BODY_14:BODY_3:BODY_7:BODY_9|0
+any one time|DT CD NN|BODY_8|1
+this generic role|DT JJ NN|BODY_2|1
+an interaction i|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_3|0
+the new process|DT JJ NN|BODY_2:BODY_10:BODY_8|0
+the quorum|DT NN|BODY_5:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+ip|NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_10|0
+coord j \gamma|NN NN NN|BODY_13:BODY_25:BODY_29:BODY_7|0
+the six processes|DT CD NNS|BODY_5:BODY_2|0
+slave j \gamma|NN NNS NN|BODY_46:BODY_40:BODY_37:BODY_29|0
+p m|NN NN|BODY_12:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+a capture request|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_10:BODY_7|0
+slave|NN|BODY_6:BODY_57:BODY_2:BODY_1:BODY_3:BODY_10|0
+its enrolement phase|PRP$ NN NN|BODY_2:BODY_3:BODY_7|0
+the entry time|DT NN NN|BODY_2|0
+a process p|DT NN NN|BODY_2:BODY_4|0
+# ( p|# -LRB- NN|BODY_5:BODY_1:BODY_2|0
+the participants|DT NNS|BODY_12:BODY_6:BODY_5:BODY_3:BODY_7|0
+some or all|DT CC DT|BODY_5:BODY_4|0
+a quorum q|DT NN NN|BODY_11:BODY_5:BODY_2:BODY_4|0
+a csp-like repetitive|DT JJ NN|BODY_2|0
+raddle and ip|NN CC NN|BODY_4|0
+the existing constructs|DT VBG NNS|BODY_2|0
+better response time|JJR NN NN|BODY_4:BODY_7|0
+q|NNS|BODY_6:BODY_5:BODY_11:BODY_15:BODY_3:BODY_7:BODY_8|0
+the message complexity|DT NN NN|BODY_1:BODY_3|0
+the following program|DT VBG NN|BODY_2:BODY_3|0
+( r i|-LRB- NN NN|BODY_45:BODY_10|0
+the enrolement phase|DT NN NN|BODY_5:BODY_68:BODY_3|0
+process p i|NN NN FW|BODY_6:BODY_4|0
+section 3 )|NN CD -RRB-|BODY_5:BODY_3|0
+a priority queue|DT NN NN|BODY_70:BODY_4|0
+a higher level|DT JJR NN|BODY_2|0
+their own a[|PRP$ JJ JJ|BODY_5|0
+an alternative command|DT JJ NN|BODY_3:BODY_4|0
+each guarded command|DT VBN NN|BODY_3|0
+a common member|DT JJ NN|BODY_17|0
+a partial quorum|DT JJ NN|BODY_2:BODY_8|0
+its partial quorum|PRP$ JJ NN|BODY_11:BODY_14:BODY_10|0
+an enrolement statement|DT NN NN|BODY_2|0
+the guarded commands|DT JJ NNS|BODY_5|0
+the disjointedness condition|DT NN NN|BODY_1:BODY_4|0
+the participating processes|DT VBG NNS|BODY_2|0
+p k|NN NN|BODY_11:BODY_2:BODY_1:BODY_3:BODY_8|0
+the youngest process|DT JJS NN|BODY_6:BODY_3:BODY_14|0
+p( i )|JJ NN -RRB-|BODY_6:BODY_18|0
+4 entry times|CD NN NNS|BODY_1|0
+a switch message|DT NN NN|BODY_16:BODY_2|0
+the potential concurrency|DT JJ NN|BODY_5|0
+concurrent activations|JJ NNS|BODY_6:BODY_3:BODY_14:BODY_4|0
+his constructive comments|PRP$ JJ NNS|BODY_10|0
+first-order interaction 2-cast|NN NN JJ|BODY_6|0
+a yes message|DT RB NN|BODY_2:BODY_10|0
+the safety property|DT NN NN|BODY_4|0
+the main contribution|DT JJ NN|BODY_3|0
+this 2-cast interaction|DT JJ NN|BODY_12|0
+chandy and misra|NN CC NN|BODY_3|0
+an alternative process|DT JJ NN|BODY_2|0
+slave 4 as|NN CD RB|BODY_2|0
+their companion slaves|PRP$ NN NNS|BODY_12|0
+transmitter( m )@2-cast|NN NN NN|BODY_8|0
+deferred reply swflag|VBN NN NN|BODY_39|0
+the recipient roles|DT JJ NNS|BODY_2|0
+a fixed coordinator|DT JJ NN|BODY_3|0
+committee coordination [3]|NN NN NN|BODY_5|0
+multiparty interactions-both zeroth-order|JJ JJ NN|BODY_2|0
+2 r i|CD NN FW|BODY_31|0
+an interaction statement|DT NN NN|BODY_2|0
+a fine tuning|DT JJ NN|BODY_2|0
+a multiparty synchronization|DT JJ NN|BODY_7|0
+the following issues|DT VBG NNS|BODY_8|0
+the sole source|DT JJ NN|BODY_7|0
+some coord k|DT NN NN|BODY_2|0
+a multiparty interaction|DT JJ NN|BODY_2|0
+two other processes|CD JJ NNS|BODY_4|0
+that p j|WDT NN NN|BODY_4|0
+the same interaction|DT JJ NN|BODY_4:BODY_7|0
+all its members|DT PRP$ NNS|BODY_13|0
+any quorum|DT NN|BODY_41:BODY_24:BODY_4:BODY_7:BODY_9|1
+the undirected graph|DT JJ NN|BODY_4|0
+formal process param|JJ NN NN|BODY_8|0
+2 ( liveness|CD -LRB- NN|BODY_2|0
+the smallest timestamp|DT JJS NN|BODY_3|0
+the two components|DT CD NNS|BODY_3|0
+exactly these processes|RB DT NNS|BODY_5|0
+the capture request|DT NN NN|BODY_18:BODY_7|0
+its idle state|PRP$ JJ NN|BODY_5:BODY_7|0
+their enrolement phase|PRP$ NN NN|BODY_3|0
+i [ i]|FW FW FW|BODY_2|0
+1.2 active target|CD JJ NN|BODY_14|0
+i. p i|NN NN NN|BODY_9|0
+some valuable insights|DT JJ NNS|BODY_7|0
+mutually disjoint sets|RB JJ NNS|BODY_6:BODY_11:BODY_3:BODY_4|0
+a delete operation|DT JJ NN|BODY_5|0
+its current captor|PRP$ JJ NN|BODY_53|0
+this wait- ing|DT NNS NN|BODY_7|0
+its quorum-building ac|PRP$ NN NN|BODY_4|0
+no two committees|DT CD NNS|BODY_16|0
+a distributed algorithm|DT VBN NN|BODY_6|0
+q and r|NNS CC NN|BODY_4|0
+r 1.3 active|NN CD JJ|BODY_16|0
+the first-order interaction|DT JJ NN|BODY_7|0
+the older coordinator|DT JJR NN|BODY_6:BODY_7|0
+no straightforward way|DT JJ NN|BODY_2|0
+( p r|-LRB- NN NN|BODY_14|0
+the non-local value|DT JJ NN|BODY_8|0
+the new child|DT JJ NN|BODY_3|0
+most 6m messages|RBS JJ NNS|BODY_3|0
+a possible scenario|DT JJ NN|BODY_3|0
+each process p|DT NN NN|BODY_3|0
+the role [6]|DT NN NN|BODY_5|0
+no two guards|DT CD NNS|BODY_5|0
+too many quorums|RB JJ NNS|BODY_3|0
+the actual value|DT JJ NN|BODY_9|0
+an infinite sequence|DT JJ NN|BODY_3|0
+a slave j|DT NN NN|BODY_8|0
+r( i )|JJ NN -RRB-|BODY_2|0
+both slave 5|DT NN CD|BODY_15|0
+low message complexity|JJ NN NN|BODY_2|0
+the zeroth-order case|DT NN NN|BODY_18:BODY_1|0
+many multiparty applications|JJ JJ NNS|BODY_2|0
+its enrollment phase|PRP$ NN NN|BODY_2|0
+queue reply \gamma|NN NN NN|BODY_32|0
+1.6 receive switch|CD VBP NN|BODY_39|0
+the two co-ordinators|DT CD NNS|BODY_4|0
+both request capture|DT NN NN|BODY_19|0
+no two elements|DT CD NNS|BODY_7|0
+too many messages|RB JJ NNS|BODY_7|0
+its capture request|PRP$ NN NN|BODY_13|0
+its quorum-building activity|PRP$ NN NN|BODY_5|0
+a first-order inter-action|DT JJ NN|BODY_13|0
+the liveness property|DT NN NN|BODY_1|0
+its own action|PRP$ JJ NN|BODY_9|0
+a message m|DT NN NN|BODY_5|0
+the following variables|DT JJ NNS|BODY_3|0
+the aggressive approach|DT JJ NN|BODY_6|0
+prof. nissim francez|DT NN NNS|BODY_3|0
+the transmitter names|DT NN NNS|BODY_4|0
+just an instance|RB DT NN|BODY_2|0
+the second form|DT JJ NN|BODY_2|0
+triple . reply|JJ . NN|BODY_6|0
+the multiparty interactions|DT JJ NNS|BODY_4|0
+the conservative approach|DT JJ NN|BODY_4|0
+'s deferred request|POS JJ NN|BODY_3:BODY_10|0
+a coordinator i|DT NN NN|BODY_3|0
+a subset q|DT NN NN|BODY_5|0
+the set r|DT NN NN|BODY_10|0
+only one interaction|RB CD NN|BODY_3|0
+2 r( i|CD NN NN|BODY_2|0
+an older coordinator|DT JJR NN|BODY_3|0
+a different process|DT JJ NN|BODY_3|0
+any capture requests|DT NN NNS|BODY_4|0
+the logical clock|DT JJ NN|BODY_7|0
+that p i|IN NN NN|BODY_9|0
+the other participants|DT JJ NNS|BODY_6|0
+their naming specifications|PRP$ NN NNS|BODY_4|0
+only one coordinator|RB CD NN|BODY_12:BODY_7|0
+all deferred requests|DT JJ NNS|BODY_10|0
+an acknowledgement message|DT NN NN|BODY_4|0
+timestamp t i|NN NN NN|BODY_5|0
+a single repetitive|DT JJ NN|BODY_7|0
+level n enrolement|NN NN NN|BODY_4|0
+the following procedure|DT VBG NN|BODY_9|0
+the following en-|DT VBG RB|BODY_4|0
+b[y := m|NN NN NN|BODY_12|0
+the existing processes|DT VBG NNS|BODY_3|0
+capture coord i|NN NN FW|BODY_4|0
+edges ( r|NNS -LRB- NN|BODY_7|0
+'s message complexity|POS NN NN|BODY_3|0
+the same enrole|DT JJ NN|BODY_2|0
+slave 1 coord|NN CD VB|BODY_6|0
+a distributed system|DT VBN NN|BODY_4|0
+roles p i|NNS NN NN|BODY_15:BODY_13|0
+triples ( p|NNS -LRB- NN|BODY_5|0
+an arbitrary number|DT JJ NN|BODY_5|0
+no other process|DT JJ NN|BODY_7|0
+the time complexity|DT NN NN|BODY_3|0
+'s logical clock|POS JJ NN|BODY_7|0
+the guard-scheduling problem|DT NN NN|BODY_1|0
+9r 2 p|RB CD NN|BODY_23|0
+the other processes|DT JJ NNS|BODY_6|0
+a coord j|DT NN NN|BODY_2|0
+grants coord j|NNS NN NN|BODY_3|0
+zeroth-order multiparty interactions|NN NN NNS|BODY_2|0
+its priority queue|PRP$ NN NN|BODY_9|0
+the communication graph|DT NN NN|BODY_2|0
+p k for-|NN NN NNS|BODY_10|0
+the distributed algorithms|DT VBN NNS|BODY_1|0
+any single role|DT JJ NN|BODY_7|0
+an underlying network|DT JJ NN|BODY_4|0
+the first-order case|DT JJ NN|BODY_1|0
+ip and script|NN CC NN|BODY_4|0
+a finite amount|DT JJ NN|BODY_5|0
+the symmetric roles|DT JJ NNS|BODY_3|0
+all the roles|DT DT NNS|BODY_8|0
+their potential roles|PRP$ JJ NNS|BODY_4|0
+the same technique|DT JJ NN|BODY_1|0
+all such pairs|DT JJ NNS|BODY_5|0
+active , i|JJ , FW|BODY_2|0
+some coord l|DT NN NN|BODY_11|0
+( p k|-LRB- NN NN|BODY_3|0
+a common partner|DT JJ NN|BODY_8|0
+the two forms|DT CD NNS|BODY_3|0
+these p i|DT JJ NN|BODY_1|0
+a role r|DT NN NN|BODY_9|0
+another yet-to-be-tried interaction|DT JJ NN|BODY_2|0
+a p k|DT NN NN|BODY_6|0
+a new child|DT JJ NN|BODY_2|0
+the natural unit|DT JJ NN|BODY_1|0
+their local computation|PRP$ JJ NN|BODY_3|0
+a first-order setting|DT JJ NN|BODY_4|0
+each ( p|DT -LRB- NN|BODY_9|0
+any role r|DT NN NN|BODY_2|0
+every captured slave|DT VBN NN|BODY_5|0
+any additional slaves|DT JJ NNS|BODY_14|0
+any additional processes|DT JJ NNS|BODY_6|0
+a release message|DT NN NN|BODY_2|0
+its message complexity|PRP$ NN NN|BODY_7|0
+role r i|NN NN NN|BODY_14:BODY_7|0
+a success message|DT NN NN|BODY_2|0
+another slave k|DT NN NN|BODY_9|0
+request( t j|NN NN NN|BODY_5|0
+its own coordinator|PRP$ JJ NN|BODY_5|0
+role r j|NN NN NN|BODY_12|0
+the first restriction|DT JJ NN|BODY_1|0
+the best-known bound|DT JJ JJ|BODY_1|0
+a request message|DT NN NN|BODY_2|0
+the graph [11]|DT NN NN|BODY_8|0
+the younger coordinator|DT JJR NN|BODY_1|0
+the above algorithm|DT JJ NN|BODY_1|0
+their logical clocks|PRP$ JJ NNS|BODY_4|0
+all recipient roles|DT NN NNS|BODY_4|0
+the entry times|DT NN NNS|BODY_1|0
+the highest priority|DT JJS NN|BODY_1|0
+a distinct process|DT JJ NN|BODY_9|0
+these deferred requests|DT JJ NNS|BODY_1|0
+the targeted interaction|DT JJ NN|BODY_11|0
+6 partners-named enrolement|CD JJ NN|BODY_1|0
+variable t i|JJ NN NN|BODY_6|0
+their enrollment phases|PRP$ NN NNS|BODY_6|0
+'s communication graph|POS NN NN|BODY_9|0
+a younger slave|DT JJR NN|BODY_5|0
+a worst-case scenario|DT JJ NN|BODY_2|0
+the first-order type|DT NN NN|BODY_5|0
+all other participants|DT JJ NNS|BODY_4|0
+( slave i|-LRB- NN NN|BODY_1|0
+capturing pro- cesses|VBG NNS NNS|BODY_5|0
+i building activity|NN NN NN|BODY_6|0
+which excluded p|WDT VBN NN|BODY_11|0
+each role r|DT NN NN|BODY_1|0
+its p(r )|PRP$ NN -RRB-|BODY_12|0
+a withdrawal message|DT NN NN|BODY_23|0
+an idle state|DT JJ NN|BODY_10|0
+the zeroth-order algorithms|DT NN NNS|BODY_1|0
+their capture requests|PRP$ NN NNS|BODY_11|0
+2. slave j|DT NN NN|BODY_1|0
+a younger process|DT JJR NN|BODY_10|0
+francez and i.|NNS CC NN|BODY_1|0
+the multicast example|DT NN NN|BODY_1|0
+enrolement|NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+such|JJ|BODY_12:BODY_15:BODY_3:BODY_8|0
+the problem|DT NN|BODY_6:BODY_7:BODY_8|1
+an instance|DT NN|BODY_6:BODY_16:BODY_2:BODY_4|0
+the number|DT NN|BODY_6:BODY_4:BODY_7|0
+.e|NN|BODY_6:BODY_22:BODY_2:BODY_3:BODY_9|0
+maximum matching|JJ VBG|BODY_6:BODY_2:BODY_9|1
+1|CD|BODY_17:BODY_1:BODY_2:BODY_3:BODY_8|0
+itself|PRP|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+( p|-LRB- NN|BODY_18:BODY_67:BODY_8|0
+the coordinator|DT NN|BODY_5:BODY_2:BODY_10|0
+this setting|DT NN|BODY_3:BODY_4|1
+r|NN|BODY_12:BODY_6:BODY_11:BODY_3:BODY_7|0
+ment|NN|BODY_47:BODY_5:BODY_2:BODY_3|0
+role r|NN NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+partners-named enrolement|JJ NN|BODY_15:BODY_2:BODY_1:BODY_3|0
+:= false|NN JJ|BODY_31:BODY_26:BODY_14:BODY_24|0
+the slave|DT NN|BODY_6:BODY_5:BODY_31:BODY_27:BODY_7|0
+the failure|DT NN|BODY_10:BODY_9|1
+i )|NN -RRB-|BODY_12:BODY_34:BODY_13|0
+the following|DT VBG|BODY_1:BODY_10|1
+linear time|NN NN|BODY_12:BODY_7|1
+coord|NN|BODY_21:BODY_2:BODY_1:BODY_3:BODY_38:BODY_7|0
+which processes|WDT NNS|BODY_11:BODY_8|1
+this scheme|DT NN|BODY_1:BODY_4|1
+the queue|DT NN|BODY_6:BODY_15:BODY_1:BODY_8|0
+a role|DT NN|BODY_35:BODY_11:BODY_3|0
+slave 4|NN CD|BODY_3:BODY_20|0
+r i|NN PRP|BODY_12:BODY_27:BODY_4:BODY_7|0
+different coordinators|JJ NNS|BODY_2|0
+a guard|DT NN|BODY_3|0
+two processes|CD NNS|BODY_2:BODY_3|0
+the recipients|DT NNS|BODY_6:BODY_5|0
+this|DT|BODY_2:BODY_1|0
+example|NN|BODY_1|0
+the processes|DT NNS|BODY_5:BODY_3:BODY_9|0
+a flag|DT NN|BODY_41:BODY_13:BODY_49|0
+symmetric roles|JJ NNS|BODY_4|0
+zeroth-order|NN|BODY_4|0
+multiparty interactions|JJ NNS|BODY_2:BODY_4|0
+m|NN|BODY_6:BODY_10:BODY_9|0
+slave 1|NN CD|BODY_2:BODY_3:BODY_9|0
+the process|DT NN|BODY_6:BODY_5:BODY_4|0
+0 )|CD -RRB-|BODY_36:BODY_11:BODY_28:BODY_7|0
+all pairs|DT NNS|BODY_12:BODY_27|0
+a time|DT NN|BODY_13:BODY_7:BODY_8|0
+a transmitter|DT NN|BODY_4|0
+the constant|DT NN|BODY_2:BODY_1|0
+y :=|NN NNS|BODY_10|0
+. slave|. NN|BODY_11:BODY_4|0
+the algorithms|DT NNS|BODY_1|0
+the sense|DT NN|BODY_5|0
+success( i|JJ FW|BODY_6:BODY_5:BODY_3|0
+grant ccr-8704309.r|NN NN|BODY_11|0
+zeroth-order interactions|NN NNS|BODY_2|0
+some process|DT NN|BODY_11:BODY_4:BODY_7|0
+an attempt|DT NN|BODY_2:BODY_1:BODY_8|0
+both components|DT NNS|BODY_6|0
+ment phase|NN NN|BODY_5:BODY_3|0
+the triple|DT JJ|BODY_2|0
+increased performance|VBN NN|BODY_6|0
+true so|JJ IN|BODY_2|0
+r( i|JJ NN|BODY_6|0
+4|CD|BODY_22:BODY_1:BODY_3:BODY_7|0
+the absence|DT NN|BODY_2|0
+technical results|JJ NNS|BODY_2|0
+p 5|NN CD|BODY_1:BODY_4|0
+slave 5|NN CD|BODY_5|0
+indeed enroles|RB NNS|BODY_7|0
+these algorithms|DT NNS|BODY_3|0
+every slave|DT NN|BODY_17:BODY_13|0
+whose guard|WP$ NN|BODY_5|0
+the zeroth-order|DT NN|BODY_5|0
+the team|DT NN|BODY_3|0
+each role|DT NN|BODY_1:BODY_8|0
+the possibility|DT NN|BODY_2:BODY_10|0
+'s together|POS RB|BODY_2|0
+2 (y|CD NN|BODY_8|0
+the system|DT NN|BODY_4|0
+this paper|DT NN|BODY_1:BODY_4|0
+the actions|DT NNS|BODY_11:BODY_1|0
+our strategy|PRP$ NN|BODY_6:BODY_1|0
+the enrole|DT NN|BODY_46:BODY_4|0
+any time|DT NN|BODY_3:BODY_4|0
+out )|RP -RRB-|BODY_9|0
+slave 3|NN CD|BODY_6:BODY_10|0
+r )|NN -RRB-|BODY_6:BODY_4|0
+increasing or-|VBG NNS|BODY_3|0
+either case|DT NN|BODY_1|0
+process ids|NN NNS|BODY_2|0
+the theorem|DT NN|BODY_2|0
+the second|DT NN|BODY_2|0
+process inter-action|NN NN|BODY_2|0
+the attempt|DT NN|BODY_19:BODY_9|0
+2|CD|BODY_6:BODY_1|0
+this problem|DT NN|BODY_2|0
+each professor|DT NN|BODY_6|0
+the language|DT NN|BODY_8|0
+each interaction|DT NN|BODY_4:BODY_8|0
+p(r )|NN -RRB-|BODY_14:BODY_4|0
+a problem|DT NN|BODY_7|0
+some form|DT NN|BODY_3|0
+its clock|PRP$ NN|BODY_2:BODY_3|0
+any sequentialization|DT NN|BODY_3|0
+fewer messages|JJR NNS|BODY_5:BODY_1|0
+interaction|NN|BODY_16:BODY_14:BODY_3:BODY_4|0
+logically separate|RB JJ|BODY_4|0
+only role|RB NN|BODY_3|0
+1 even|CD RB|BODY_4|0
+multiparty interaction|JJ NN|BODY_3|0
+'s request|POS NN|BODY_4:BODY_7|0
+)@2-cast r|NN NN|BODY_9|0
+np-complete proof|JJ NN|BODY_11|0
+i 0|NN CD|BODY_2:BODY_8|0
+coord 2|NN CD|BODY_10|0
+each activation|DT NN|BODY_4|0
+first-order guards|JJ NNS|BODY_10|0
+13 ]|CD NNS|BODY_3|0
+t \gamma|NN NN|BODY_16|0
+times desire|NNS NN|BODY_3|0
+their partners|PRP$ NNS|BODY_10|0
+the risk|DT NN|BODY_8|0
+ relation|JJ NN|BODY_8|0
+slave k|NN NN|BODY_16:BODY_14|0
+a university|DT NN|BODY_7|0
+joint actions|JJ NNS|BODY_6|0
+p names|NN NNS|BODY_4|0
+each p(r|DT NN|BODY_3|0
+the fact|DT NN|BODY_6:BODY_4|0
+coord 3|NN CD|BODY_11|0
+the implementation|DT NN|BODY_9|0
+command 1.1|NN CD|BODY_3|0
+the response|DT NN|BODY_1:BODY_7|0
+the enrolers|DT NNS|BODY_6|0
+each slave|DT NN|BODY_16:BODY_9:BODY_20|0
+p target|NN NN|BODY_32|0
+shaji bhaskar|NN NN|BODY_9|0
+o(6m )|NN -RRB-|BODY_4|0
+the context|DT NN|BODY_3|0
+its parent|PRP$ NN|BODY_1:BODY_3|0
+i :=|FW NN|BODY_13|0
+other processes|JJ NNS|BODY_11:BODY_7:BODY_8|0
+theorem 2|NN CD|BODY_2|0
+true \gamma|JJ NN|BODY_22|0
+the algo|DT NN|BODY_2|0

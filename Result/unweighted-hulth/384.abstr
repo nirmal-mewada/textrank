@@ -1,0 +1,39 @@
+star trackers initial attitude acquisition|NN NNS JJ NN NN|BODY_2|0
+reliability and accuracy|NN CC NN|BODY_3|0
+the on-board database|DT JJ NN|BODY_3|0
+both|DT|BODY_2|0
+efficient organization|JJ NN|BODY_2|0
+reference|NN|BODY_4|0
+the former|DT JJ|BODY_4|0
+a crucial step|DT JJ NN|BODY_2|0
+the stars|DT NNS|BODY_5|0
+a sensor|DT NN|BODY_6|0
+emphasis|NN|BODY_2|0
+erroneous solution|JJ NN|BODY_2|0
+the inertial pointing|DT JJ VBG|BODY_12|0
+proper evaluation|JJ NN|BODY_3|0
+the attainable sky coverage|DT JJ NN NN|BODY_4|0
+detection|NN|BODY_5|0
+the identification|DT NN|BODY_3|0
+0.2 %|CD NN|BODY_3|0
+the computation|DT NN|BODY_11|0
+minimum star brightness|NN VB NN|BODY_4|0
+the average|DT NN|BODY_10|0
+the case|DT NN|BODY_4|0
+0.02 degrees|CD NNS|BODY_9|0
+single runs|JJ NNS|BODY_5|0
+attitude determination accuracy|NN NN NN|BODY_7|0
+the order|DT NN|BODY_8|0
+the procedure|DT NN|BODY_6|0
+a modern star tracker|DT JJ NN NN|BODY_3|0
+brightness-independent start-up routine|JJ JJ NN|BODY_1|0
+a brightness-independent initial acquisition algorithm|DT JJ JJ NN NN|BODY_5|0
+criteria|NNS|BODY_1|0
+test results|NN NNS|BODY_1|0
+the primary target|DT JJ NN|BODY_5|0
+a charge coupled device (ccd ) photodetector|DT NN VBN NN NN -RRB- NN|BODY_7|0
+star catalog generation preprocessing|VB NN NN NN|BODY_1|0
+the on-board catalog|DT JJ NN|BODY_6|0
+this|DT|BODY_1|0
+probability|NN|BODY_1|0
+the boresight|DT NN|BODY_13|0

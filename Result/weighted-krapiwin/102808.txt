@@ -1,0 +1,719 @@
+we|PRP|BODY_12:BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_14:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|11
+wait-free synchronization|JJ NN|TITLE_1:BODY_2:BODY_3|0
+there|EX|BODY_5:BODY_13:ABSTRACT_2:ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|4
+which|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|3
+a wait-free implementation|DT JJ NN|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_8|4
+one|CD|BODY_6:BODY_5:ABSTRACT_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|2
+atomic read/write registers|JJ JJ NNS|BODY_6:ABSTRACT_3:BODY_3:BODY_4:BODY_9|1
+a concurrent data object|DT JJ NNS NN|ABSTRACT_2:BODY_2|0
+x|NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_3:BODY_7:BODY_9:ABSTRACT_10|1
+no wait-free implementation|DT JJ NN|BODY_5:BODY_8:ABSTRACT_9|1
+wait-free implementations|JJ NNS|BODY_2:BODY_4:ABSTRACT_10|1
+the other processes|DT JJ NNS|BODY_10:BODY_7:ABSTRACT_10|0
+a finite number|DT JJ NN|BODY_5:ABSTRACT_7:BODY_7|0
+the execution speeds|DT NN NNS|ABSTRACT_9:BODY_9|0
+objects|NNS|BODY_6:BODY_5:BODY_16:ABSTRACT_8:ABSTRACT_3:BODY_3:BODY_4|0
+the standard message-passing primitives|DT JJ NN NNS|ABSTRACT_5|0
+much recent attention|JJ JJ NN|ABSTRACT_6|1
+simple universal objects|JJ JJ NNS|ABSTRACT_3|1
+any sequential object|DT JJ NN|ABSTRACT_7|1
+concurrent data structures|JJ NN NNS|ABSTRACT_8|0
+much recent work|JJ JJ NN|ABSTRACT_6|0
+a concensus protocol|DT NN NN|ABSTRACT_5|0
+classical synchronization primitives|JJ NN NNS|ABSTRACT_1|0
+one data object|CD NN NN|ABSTRACT_3|0
+it|PRP|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|3
+p|NN|BODY_12:BODY_11:BODY_2:BODY_3:BODY_24:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8|0
+that|WDT|BODY_6:BODY_5:BODY_17:BODY_18:BODY_23:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+operations|NNS|BODY_6:BODY_5:BODY_23:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+the protocol|DT NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+a set|DT NN|BODY_6:BODY_5:BODY_11:BODY_17:BODY_21:BODY_2:BODY_1:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8|1
+s|VBZ|BODY_12:BODY_11:BODY_22:BODY_18:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_29:BODY_7:BODY_8:BODY_20|0
+a|DT|BODY_12:BODY_16:BODY_21:BODY_13:BODY_23:BODY_26:BODY_2:BODY_4:BODY_6:BODY_5:BODY_27:BODY_1:BODY_10|0
+they|PRP|BODY_33:BODY_6:BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+the object|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+q|NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_37:BODY_4:BODY_10:BODY_7|0
+each process|DT NN|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3|0
+such simple memory-to-memory operations|JJ JJ NN NNS|BODY_19|1
+no two-process consensus protocol|DT JJ NN NN|BODY_5|1
+the traditional locking-based techniques|DT JJ JJ NNS|BODY_3|1
+a simple new technique|DT JJ JJ NN|BODY_4|1
+move or memory-to-memory swap|NN CC NN NN|BODY_20|1
+3.1 atomic read/write registers|CD JJ JJ NNS|BODY_1|1
+a lower consensus number|DT JJR NN NN|BODY_9|1
+consensus number|NN NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|2
+0|CD|BODY_11:BODY_16:BODY_15:BODY_23:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_30:BODY_8|0
+the queue|DT NN|BODY_12:BODY_6:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+an object|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|2
+the first universal construction|DT JJ JJ NN|BODY_2|0
+our universal construction yields|PRP$ JJ NN NNS|BODY_2|0
+loui and abu-amara [21]|JJ CC JJ NN|BODY_2|0
+our randomized consensus protocol|PRP$ JJ NN NN|BODY_2|0
+well-known non-trivial read-modify-write operations|JJ JJ JJ NNS|BODY_2|0
+atomic read/write registers [4|JJ JJ NNS NNS|BODY_4|0
+max(head [ p ]|NN RB NN SYM|BODY_5:BODY_36|0
+its invocation and re|PRP$ NN CC NN|BODY_9|0
+a 2n-process consensus protocol|DT JJ NN NN|BODY_4|0
+ sticky-byte  registers|JJ JJ JJ NNS|BODY_3|0
+any non-trivial read-modify-write operation|DT JJ JJ NN|BODY_3:BODY_4|0
+proof|NN|BODY_1:BODY_3:BODY_7|1
+two invocations and responses|CD NNS CC NNS|BODY_1|0
+the latter copies values|DT JJ NNS NNS|BODY_5|0
+synchronous vs. asynchronous communication|JJ FW JJ NN|BODY_6|0
+simpler atomic registers [4|JJR JJ NNS NNS|BODY_5|0
+asynchronous , fault-tolerant systems|JJ , JJ NNS|BODY_2|0
+this apparent sequential interleaving|DT JJ JJ NN|BODY_11|0
+14 universal figure 14|CD JJ NN CD|BODY_30|0
+synchronous vs. asynchronous processors|JJ FW JJ NNS|BODY_5|0
+the former copies values|DT JJ NNS NNS|BODY_3|0
+a universal construction lemma|DT JJ NN FW|BODY_31|0
+the classical synchronization primitives|DT JJ NN NNS|BODY_21|0
+both p and q|DT NN CC NN|BODY_2:BODY_1|0
+previous := r r|JJ NN NN NN|BODY_7|0
+create( consensus object )|JJ NN NN -RRB-|BODY_13|0
+a two-process consensus protocol|DT JJ NN NN|BODY_3|0
+each input event e|DT NN NN NN|BODY_4|0
+'s new sequence number|POS JJ NN NN|BODY_6|0
+the maximal sequence number|DT JJ NN NN|BODY_9|0
+a a component automaton|DT DT NN NN|BODY_4|0
+first decide figure 9|JJ VBP NN CD|BODY_17|0
+atomic registers|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|2
+the natural partial order|DT JJ JJ NN|BODY_6|0
+a non-blocking peek operation|DT JJ NN NN|BODY_3|0
+point-to-point fifo message channels|JJ JJ NN NNS|BODY_5|0
+the read-modify-write register r|DT JJ NN NN|BODY_3|0
+a shared register (|DT VBN NN -LRB-|BODY_13|0
+an enq and q|DT NN CC NN|BODY_13|0
+an n-process consensus protocol|DT JJ NN NN|BODY_5|0
+the bounded wait-free condition|DT VBN JJ NN|BODY_4|0
+invoc ) returns( result|NN -RRB- NN NN|BODY_7|0
+input ) return peek(q|NN -RRB- NN NN|BODY_6|0
+each individual 2m-process protocol|DT JJ JJ NN|BODY_3|0
+model objects and processes|NN NNS CC NNS|BODY_3|0
+p executes statement #2|NN NNS NN NNP|BODY_10|0
+infinite consensus number proof|JJ NN NN NN|BODY_4|0
+the i/o automaton model|DT NN NN NN|BODY_2|0
+a particularly simple way|DT RB JJ NN|BODY_6|0
+all i and j|DT NN CC NN|BODY_3|0
+many similar data types|JJ JJ NNS NNS|BODY_3|0
+executes statement # 2|NNS NN # CD|BODY_2|0
+this program yield protocols|DT NN NN NNS|BODY_2|0
+the following data structures|DT VBG NNS NNS|BODY_2|0
+the most natural way|DT RBS JJ NN|BODY_2|0
+t ( p )|NN -LRB- NN -RRB-|BODY_3|0
+the following internal events|DT VBG JJ NNS|BODY_20|0
+a reflexive partial order|DT JJ JJ NN|BODY_4|0
+at least one process|IN JJS CD NN|BODY_1|0
+the randomized consensus protocol|DT JJ NN NN|BODY_1|0
+invocation and response events|NN CC NN NNS|BODY_6|0
+i ( f j|NN -LRB- NN NN|BODY_7|0
+a single register r|DT JJ NN NN|BODY_7|0
+the function max( c|DT NN NN NN|BODY_3|0
+processes p and objects|NNS NN CC NNS|BODY_3|0
+constructions and impossibility results|NNS CC NN NNS|BODY_4|0
+prefer[ q ] end|JJ NN NN NN|BODY_9|0
+a concurrent system ff|DT JJ NN NN|BODY_5|0
+a wait-free implementation guarantees|DT JJ NN NNS|BODY_4|0
+some universal  objects|DT JJ JJ NNS|BODY_8|0
+whose expected running time|WP$ VBN VBG NN|BODY_4|0
+fairness or liveness assumptions|NN CC NN NNS|BODY_3|0
+an atomic read/write register|DT JJ NN NN|BODY_4|0
+each output event res|DT NN NN NNS|BODY_25|0
+figure 7 ( q|NN CD -LRB- NN|BODY_3|0
+that jconcur( p )j|DT JJ NN NN|BODY_5|0
+either announce[ p ]|DT NN NN NN|BODY_6|0
+anderson and gouda [1]|NN CC NN NN|BODY_6|0
+bar-noy and dolev [3|NN CC NN NNS|BODY_1|0
+its phase-two single-writer register|PRP$ NN NN NN|BODY_5|0
+the common decision value|DT JJ NN NN|BODY_9|0
+n 3 ) worst-case|NN CD -RRB- NN|BODY_4|0
+statement # 5 )|NN # CD -RRB-|BODY_5|0
+an invocation and alternates|DT NN CC NNS|BODY_8|0
+22 atomic m-register assignment|CD JJ JJ NN|BODY_2|0
+the following sequential execution|DT VBG JJ NN|BODY_1|0
+the relative execution speeds|DT JJ NN NNS|BODY_7|0
+all the input events|DT DT NN NNS|BODY_21|0
+an arbitrary pair hs|DT JJ NN NNS|BODY_5|0
+at most n cells|IN JJS NN NNS|BODY_8|0
+a finite expected number|DT NN VBN NN|BODY_8|0
+three or more processes|CD CC JJR NNS|BODY_12:BODY_4|0
+( 2 ) e|-LRB- CD -RRB- NN|BODY_24|0
+an infinite sequential execution|DT JJ JJ NN|BODY_3|0
+a unique anchor cell|DT JJ NN NN|BODY_2|0
+f i and r,|NN NN CC NN|BODY_16|0
+the following alternative execution|DT VBG JJ NN|BODY_3|0
+a particular linearizable object|DT JJ JJ NN|BODY_2|0
+ffl out( a )|NN JJ DT -RRB-|BODY_13|0
+2 ) read operations|CD -RRB- VBN NNS|BODY_6|0
+the first condition rules|DT JJ NN NNS|BODY_1|0
+a randomized consensus protocol|DT JJ NN NN|BODY_2|0
+an atomic fetch&add operation|DT JJ NN NN|BODY_1|0
+an associated consensus number|DT JJ NN NN|BODY_4|0
+statement # 2 )|NN # CD -RRB-|BODY_5|0
+each register r i|DT NN NN VBN|BODY_5|0
+the matching input event|DT JJ NN NN|BODY_28|0
+the matching output event|DT JJ NN NN|BODY_23|0
+the second condition rules|DT JJ NN NNS|BODY_1|0
+public and private registers|JJ CC JJ NNS|BODY_6|0
+the following auxiliary variables|DT VBG JJ NNS|BODY_2|0
+memory-to-memory move or swap|NN NN CC NN|BODY_4|0
+the notation apply( p|DT NN NN NN|BODY_3|0
+a consensus protocol ff|DT NN NN NN|BODY_6|0
+the same history fragment|DT JJ NN NN|BODY_6:BODY_5:BODY_10:BODY_7:BODY_9|0
+more than n cells|RBR IN RB NNS|BODY_3|0
+the nyu ultracomputer project|DT NN NN NN|BODY_1|0
+the i/o automata formalism|DT NN NN NN|BODY_9|0
+its old sequence number|PRP$ JJ NN NN|BODY_7|0
+statement # 3 )|NN # CD -RRB-|BODY_10|0
+hence s( q )|RB JJ NN -RRB-|BODY_4|0
+the two read-modify-write operations|DT CD JJ NNS|BODY_4|0
+the decision value x|DT NN NN NN|BODY_8|0
+the basic correctness condition|DT JJ NN NN|BODY_1|0
+simply a read operation|RB DT NN NN|BODY_5|0
+the first queue operation|DT JJ NN NN|BODY_5|0
+their real-time  order|PRP$ JJ NN NN|BODY_4|0
+an interfering set f|DT JJ VBN NN|BODY_20|0
+more complex data structures|RBR JJ NNS NNS|BODY_3|0
+every concurrent system linearizable|DT JJ NN JJ|BODY_5|0
+process and object names|NN CC NN NNS|BODY_1|0
+a read-modify-write register r|DT JJ NN NN|BODY_7|0
+head [ q] )|NN RB NN -RRB-|BODY_6|0
+a wait-free linearizable implementation|DT JJ JJ NN|BODY_1|0
+statement # 9 )|NN # CD -RRB-|BODY_7|0
+many common read-modify-write operations|JJ JJ JJ NNS|BODY_3|0
+a concurrent system fp|DT JJ NN NN|BODY_1|0
+eventual decision value x|JJ NN NN NN|BODY_3|0
+the following two-phase protocol|DT VBG JJ NN|BODY_2|0
+the higher sequence number|DT JJR NN NN|BODY_6|0
+each h jp i|DT NN NN NN|BODY_3|0
+the last theorem shows|DT JJ NN NNS|BODY_1|0
+theorem 3 read/write registers|NN CD JJ NNS|BODY_1|0
+all its sequential executions|DT PRP$ NN NNS|BODY_3|0
+a simple consensus problem|DT JJ NN NN|BODY_10|0
+that update auxiliary variables|DT NN JJ NNS|BODY_9|0
+a concurrent object implementation|DT JJ NN NN|BODY_1|0
+a matching enabled response|DT VBG VBN NN|BODY_9|0
+at most one process|IN JJS CD NN|BODY_4|0
+the other 's preference|DT JJ POS NN|BODY_6|0
+yields decision value x|NNS NN NN NN|BODY_7|0
+more than m processes|JJR IN NN NNS|BODY_9|0
+two or more processes|CD CC JJR NNS|BODY_6:BODY_8|0
+a new i/o automaton|DT JJ NN NN|BODY_1|0
+t ( q )|NN -LRB- NN -RRB-|BODY_4|0
+the usual commutativity argument|DT JJ NN NN|BODY_1|0
+a consensus protocol|DT NN NN|BODY_1:BODY_2:BODY_4|0
+1|CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the cell|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_3:BODY_4:BODY_8|0
+a system|DT NN|BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|2
+r|NN|BODY_6:BODY_5:BODY_22:BODY_27:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the value|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+cells|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+p and q|NN CC NN|BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+a qualitative break|DT JJ NN|BODY_2|1
+gottlieb et al|NNP NNP NN|BODY_4|1
+a consensus object|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_8|0
+a process|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+many important problems|JJ JJ NNS|BODY_4|1
+the list|DT NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+atomic m-register assignment|JJ JJ NN|BODY_3|1
+conclusions wait-free synchronization|NNS JJ NN|BODY_1|1
+several important implications|JJ JJ NNS|BODY_2|1
+multi-reader/multi-writer atomic registers|JJ JJ NNS|BODY_6|1
+the first part|DT JJ NN|BODY_1|1
+the second part|DT JJ NN|BODY_1|1
+fewer ) processes|JJR -RRB- NNS|BODY_7|1
+f|NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+a concurrent system|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4|0
+any object|DT NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|2
+the process|DT NN|BODY_5:BODY_2:BODY_3|0
+f i|NN NN|BODY_5:BODY_24:BODY_14:BODY_7:BODY_29:BODY_8:BODY_9|0
+value ) returns(value|NN -RRB- NN|BODY_6:BODY_5:BODY_11:BODY_4:BODY_7:BODY_20|0
+the decision value|DT NN NN|BODY_2:BODY_1:BODY_4|0
+a sequential execution|DT JJ NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the processes|DT NNS|BODY_12:BODY_13:BODY_1:BODY_4:BODY_8|0
+the processes share|DT NNS NN|BODY_1:BODY_2|0
+all other processes|DT JJ NNS|BODY_6:BODY_7|0
+the following assertion|DT VBG NN|BODY_5:BODY_2|0
+every history h|DT NN NN|BODY_2:BODY_4|0
+the wait-free condition|DT JJ NN|BODY_6:BODY_2:BODY_1|0
+s( p )|JJ NN -RRB-|BODY_6:BODY_3:BODY_9|0
+a free cell|DT JJ NN|BODY_2:BODY_4|0
+the first item|DT JJ NN|BODY_13:BODY_3:BODY_7|0
+a linked list|DT VBN NN|BODY_5:BODY_4|0
+two public registers|CD JJ NNS|BODY_6:BODY_4|0
+a concurrent object|DT JJ NN|BODY_1:BODY_2:BODY_3|0
+a decision step|DT NN NN|BODY_11:BODY_1:BODY_7:BODY_9|0
+a new cell|DT JJ NN|BODY_2:BODY_3|0
+( f j|-LRB- NN NN|BODY_2:BODY_3|0
+a partial deq|DT JJ NN|BODY_2:BODY_4|0
+an n-element array|DT NN NN|BODY_3:BODY_4|0
+a universal construction|DT JJ NN|BODY_2|0
+processes|NNS|BODY_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+an i/o automaton|DT NN NN|BODY_2|0
+statement # 4|NN # CD|BODY_6:BODY_13:BODY_3|0
+the head array|DT NN NN|BODY_6:BODY_5|0
+the implements relation|DT NNS NN|BODY_5:BODY_1|0
+only one process|JJ CD NN|BODY_5:BODY_3|0
+infinite consensus number|JJ NN NN|BODY_6:BODY_18:BODY_3|0
+the anonymous referees|DT JJ NNS|BODY_8|0
+this paper hold|DT NN NN|BODY_2|0
+oe respond oe|NNP NN NNP|BODY_2|0
+a univalent state|DT JJ NN|BODY_6:BODY_11:BODY_2|0
+the anchor cell|DT NN NN|BODY_2|0
+a critical section|DT JJ NN|BODY_4|0
+concur( p )|JJ NN -RRB-|BODY_5:BODY_2|0
+send and receive|VB CC VB|BODY_11|0
+the following assertions|DT JJ NNS|BODY_2:BODY_3|0
+a non-blocking implementation|DT JJ NN|BODY_2|0
+such objects centers|JJ NNS NNS|BODY_2|0
+an execution fragment|DT NN NN|BODY_5:BODY_11:BODY_2|0
+a convenient way|DT JJ NN|BODY_2|0
+a history fragment|DT NN NN|BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+a value e|DT NN NN|BODY_4|0
+each input event|DT NN NN|BODY_11:BODY_21|0
+the initial state|DT JJ NN|BODY_2:BODY_4|0
+the current value|DT JJ NN|BODY_5|0
+its sequence number|PRP$ NN NN|BODY_9|0
+the augmented queue|DT VBN NN|BODY_2:BODY_4|0
+sequential consistency [17]|JJ NN NN|BODY_2|0
+a message-passing model|DT NN NN|BODY_3|0
+n+1 other cells|DT JJ NNS|BODY_2|0
+the first cell|DT JJ NN|BODY_5|0
+the following corollary|DT VBG NN|BODY_2|0
+an augmented queue|DT VBN NN|BODY_2|0
+a total deq|DT JJ NN|BODY_4|0
+the external events|DT JJ NNS|BODY_7:BODY_9|0
+a consensus number|DT NN NN|BODY_4:BODY_8|0
+a simplified form|DT JJ NN|BODY_4|0
+the full power|DT JJ NN|BODY_8|0
+two-process con- sensus|JJ NNS NN|BODY_6:BODY_4|0
+greater than or|JJR IN CC|BODY_14:BODY_9|0
+three output events|CD NN NNS|BODY_2|0
+a process p|DT NN NN|BODY_2:BODY_1|0
+atomic  registers|JJ NNS NNS|BODY_2|0
+the following observations|DT JJ NNS|BODY_2|0
+some memory locations|DT NN NNS|BODY_5|0
+the type *cell |DT NN NN|BODY_5|0
+a pending invocation|DT VBG NN|BODY_6:BODY_11|0
+a compare&swap register|DT NN NN|BODY_2:BODY_4|0
+a figure 2|DT NN CD|BODY_4|0
+the y-valent state|DT JJ NN|BODY_2|0
+a fifo queue|DT JJ NN|BODY_1:BODY_3|0
+queues or sets|NNS CC NNS|BODY_9|0
+a different structure|DT JJ NN|BODY_2|0
+the other group|DT JJ NN|BODY_6:BODY_8|0
+a bivalent state|DT JJ NN|BODY_6:BODY_5:BODY_3|0
+a sequential object|DT JJ NN|BODY_3|0
+the main loop|DT JJ NN|BODY_2:BODY_3|0
+a faulty process|DT NN NN|BODY_3|0
+an x-valent state|DT JJ NN|BODY_13:BODY_1:BODY_4|0
+all source processes|DT NN NNS|BODY_1|0
+the same group|DT JJ NN|BODY_2|0
+synchronous communi- cation|JJ NNS NN|BODY_4|0
+highly concurrent queues|RB JJ NNS|BODY_4|0
+either decision value|DT NN NN|BODY_2|0
+the current execution|DT JJ NN|BODY_4|0
+the upper bound|DT JJ JJ|BODY_6|0
+simpler objects [14|JJR NNS NNS|BODY_10|0
+the validity condition|DT NN NN|BODY_3|0
+two-process consensus kruskal|JJ NN NN|BODY_16|0
+announce[ p ].new.result|DT NN NN|BODY_29|0
+hhead[ p return|NN NN NN|BODY_28|0
+an infinite number|DT JJ NN|BODY_4:BODY_7|0
+a y-valent state|DT JJ NN|BODY_5:BODY_17:BODY_8|0
+the current literature|DT JJ NN|BODY_2|0
+some universal objects|DT JJ NNS|BODY_7|0
+what , new|WP , JJ|BODY_12|0
+database synchronization [11|NN NN NNS|BODY_5|0
+'s current value|POS JJ NN|BODY_2|0
+the list (|DT NN -LRB-|BODY_8|0
+complex atomic registers|JJ JJ NNS|BODY_4|0
+each such cell|DT JJ NN|BODY_6|0
+the following relation|DT VBG NN|BODY_3|0
+q( q )|JJ NN -RRB-|BODY_3:BODY_4|0
+the termination assertion|DT NN NN|BODY_1|0
+the consensus number|DT NN NN|BODY_2|0
+the released bits|DT VBN NNS|BODY_3|0
+the internal states|DT JJ NNS|BODY_6:BODY_3|0
+only the first|RB DT JJ|BODY_4|0
+invocations and responses|NNS CC NNS|BODY_5:BODY_3:BODY_9|0
+the first decide|DT JJ VB|BODY_10|0
+a starting state|DT VBG NN|BODY_6:BODY_5|0
+announce[ p c|DT NN NN|BODY_18|0
+create( consensus object|JJ NN NN|BODY_14|0
+each history h|DT NN NN|BODY_2:BODY_1|0
+the maximal subsequence|DT JJ NN|BODY_2|0
+a queue item|DT JJ NN|BODY_3|0
+the protocol state|DT NN NN|BODY_2|0
+concurrent deq operations|JJ NN NNS|BODY_4|0
+a related result|DT JJ NN|BODY_4|0
+:n] and r[1|NNS CC NNS|BODY_4|0
+:= help else|NN NN RB|BODY_22|0
+apply( d .inv|JJ VBD NN|BODY_26|0
+a two-register array|DT JJ NN|BODY_4|0
+order oe h|NN NN NN|BODY_3|0
+the preceding cells|DT VBG NNS|BODY_5|0
+non-fifo message delivery|JJ NN NN|BODY_7|0
+a front-end cannot|DT JJ NN|BODY_3|0
+a basic question|DT JJ NN|BODY_2|0
+the after field|DT RB NN|BODY_1:BODY_8|0
+respective sequence numbers|JJ NN NNS|BODY_7|0
+register , f|NN , NN|BODY_5|0
+the read-modify-write swap|DT JJ NN|BODY_3|0
+the next cell|DT JJ NN|BODY_6:BODY_5|0
+the register values|DT NN NNS|BODY_1:BODY_4|0
+the assertion r|DT NN NN|BODY_8|0
+an input value|DT NN NN|BODY_3|0
+that s(i )|DT NN -RRB-|BODY_11|0
+the opposite order|DT JJ NN|BODY_7:BODY_9|0
+no incoming edges|DT JJ NNS|BODY_4|0
+an empty queue|DT JJ NN|BODY_3|0
+certain commutativity properties|JJ NN NNS|BODY_4|0
+the x-valent state|DT JJ NN|BODY_5:BODY_2|0
+two predefined groups|CD JJ NNS|BODY_2|0
+the new field|DT JJ NN|BODY_3|0
+a function )|DT NN -RRB-|BODY_3|0
+function ) returns(value|NN -RRB- NN|BODY_6|0
+p( p )|JJ NN -RRB-|BODY_2:BODY_4|0
+this queue implementation|DT NN NN|BODY_2|0
+the impossibility hierarchy|DT NN NN|BODY_3|0
+some other process|DT JJ NN|BODY_3:BODY_10|0
+previous = old|JJ SYM JJ|BODY_9|0
+the additional condition|DT JJ NN|BODY_2|0
+different input values|JJ NN NNS|BODY_2|0
+a queue implementation|DT NN NN|BODY_2|0
+an arbitrary number|DT JJ NN|BODY_6|0
+one enqueuing process|CD JJ NN|BODY_4|0
+any subsequent operation|DT JJ NN|BODY_5:BODY_7|0
+an operation|DT NN|BODY_6:BODY_2:BODY_4:BODY_8:BODY_9|0
+a partial real-time|DT JJ NN|BODY_2|0
+the fifo queue|DT NN NN|BODY_2|0
+a creation operation|DT NN NN|BODY_5|0
+the basic structure|DT JJ NN|BODY_3|0
+rm w( r|NN NN NN|BODY_3|0
+the value 0|DT NN CD|BODY_2|0
+the decision step|DT NN NN|BODY_10|0
+the queue q|DT NN NN|BODY_4|0
+states and events|NNS CC NNS|BODY_16|0
+strict serializability [24]|JJ NN NNS|BODY_3|0
+decision value x|NN NN NN|BODY_7:BODY_9|0
+prefer[ p ]|JJ NN NN|BODY_2|0
+return different results|NN JJ NNS|BODY_9|0
+a thorough analysis|DT JJ NN|BODY_4|0
+announce[ p ]|DT NN NN|BODY_6:BODY_7|0
+the iden- tity|DT NNS NN|BODY_2|0
+n-process consensus theorem|JJ NN NN|BODY_12|0
+each a step|DT DT NN|BODY_17|0
+the memory-to-memory swap|DT NN NN|BODY_2|0
+these compound state|DT JJ NN|BODY_2|0
+such a specification|JJ DT NN|BODY_2|0
+a universal object|DT JJ NN|BODY_5|0
+every r[ p|DT NN NN|BODY_4|0
+such an implementation|JJ DT NN|BODY_2|0
+its own cell|PRP$ JJ NN|BODY_4:BODY_7|0
+undetected halting failures|JJ NN NNS|BODY_5|0
+the reverse order|DT NN NN|BODY_6:BODY_7|0
+a public register|DT JJ NN|BODY_9|0
+the least process|DT JJS NN|BODY_2|0
+a / b |DT NN NN|BODY_3|0
+each individual process|DT JJ NN|BODY_10|0
+free storage management|JJ NN NN|BODY_2|0
+the same register|DT JJ NN|BODY_11:BODY_3|0
+the former exchanges|DT JJ NNS|BODY_4|0
+head [ p|NN NN NN|BODY_4|0
+a common pool|DT JJ NN|BODY_4|0
+the list increase|DT NN NN|BODY_3|0
+every cell reachable|DT NN NN|BODY_6|0
+an additional field|DT JJ NN|BODY_2|0
+arbitrary wait-free synchronization|JJ JJ NN|BODY_3|0
+a distinguished set|DT JJ NN|BODY_8|0
+previous := r|JJ NN NN|BODY_8|0
+that message-passing architectures|DT NN NNS|BODY_2|0
+the event e|DT NN NN|BODY_10|0
+x and y|NN CC NN|BODY_18:BODY_9|0
+the sequence number|DT NN NN|BODY_4|0
+a rich structure|DT JJ NN|BODY_3|0
+the object x|DT NN NN|BODY_4|0
+the mathematical structure|DT JJ NN|BODY_4|0
+any v 6=|DT NN NN|BODY_7|0
+ registers r|NNS NNS NN|BODY_4|0
+the lower bound|DT RBR JJ|BODY_4|0
+a composite automaton|DT JJ NN|BODY_3|0
+the latter exchanges|DT JJ NNS|BODY_7|0
+the protocol (|DT NN -LRB-|BODY_3|0
+more powerful primitives|JJR JJ NNS|BODY_4:BODY_7|0
+i ? j|NN . FW|BODY_8|0
+statement # 3|NN # CD|BODY_35|0
+. ffl new|. IN JJ|BODY_7|0
+) 8 decide(|-RRB- CD NN|BODY_25|0
+a straightforward exercise|DT JJ NN|BODY_2|0
+a consensus cell|DT NN NN|BODY_2|0
+a source process|DT NN NN|BODY_2|0
+@ @ @r|NN NN NN|BODY_16|0
+each individual object|DT JJ NN|BODY_7|0
+its scheduling quantum|PRP$ NN NN|BODY_6|0
+a finite sequence|DT NN NN|BODY_14|0
+'s result value|POS NN NN|BODY_7|0
+the f i|DT NN NN|BODY_6|0
+a similar approach|DT JJ NN|BODY_4|0
+universal con- struction|JJ NNS NN|BODY_4|0
+the argument value|DT NN NN|BODY_9|0
+the basic definition|DT JJ NN|BODY_5|0
+compare&swap history fragment|NN NN NN|BODY_11|0
+the queue specification|DT NN NN|BODY_6:BODY_5|0
+one more operation|CD JJR NN|BODY_5|0
+one additional operation|CD JJ NN|BODY_4|0
+n-process consensus decide(input|JJ NN NN|BODY_19|0
+\gamma out( s)|NN CC NN|BODY_20|0
+a loop invariant|DT NN JJ|BODY_34|0
+the real-time precedence|DT NN NN|BODY_12|0
+figure 1 collapses|NN CD VBZ|BODY_4|0
+the relative ordering|DT JJ NN|BODY_3|0
+1] and r[p|JJ CC NN|BODY_2|0
+a directed graph|DT VBN NN|BODY_3|0
+the following fields|DT VBG NNS|BODY_6|0
+statement # 7|NN # CD|BODY_5|0
+the the value|DT DT NN|BODY_10|0
+many obvious optimizations|JJ JJ NNS|BODY_3|0
+old and new|JJ CC JJ|BODY_3|0
+the cell p|DT NN NN|BODY_7|0
+the following ffl|DT VBG NN|BODY_4|0
+state its domain|NN PRP$ NN|BODY_7|0
+its single-writer register|PRP$ NN NN|BODY_4|0
+a[ p validity|NN NN NN|BODY_4|0
+a reset operation|DT NN NN|BODY_4|0
+three process consensus|CD NN NN|BODY_4|0
+an operation 2|DT NN CD|BODY_8|0
+a result value|DT NN NN|BODY_11:BODY_14|0
+a data structure|DT NN NN|BODY_3|0
+a register r|DT NN NN|BODY_5|0
+that one object|DT CD NN|BODY_4|0
+the setting released[i]|DT VBG NN|BODY_4|0
+the decide operation|DT VBP NN|BODY_6|0
+ and history |RB CC NN|BODY_17|0
+every system fp|DT NN NN|BODY_3|0
+the two operations|DT CD NNS|BODY_3|0
+:= input 1|NN NN CD|BODY_7|0
+# 4 )|# CD -RRB-|BODY_4|0
+an immediate consequence|DT JJ NN|BODY_2|0
+0 and returns|CD CC NNS|BODY_7|0
+the conventional read|DT JJ NN|BODY_5|0
+a single operation|DT JJ NN|BODY_2|0
+@ @ @|DT DT DT|BODY_4|0
+a similar state|DT JJ NN|BODY_6|0
+the resulting theory|DT VBG NN|BODY_2|0
+the same compare&swap(r|DT JJ NN|BODY_5|0
+whose sequential specifications|WP$ JJ NNS|BODY_4|0
+the other fields|DT JJ NNS|BODY_2|0
+ff 1 1|NN CD CD|BODY_5|0
+the impossibility results|DT NN NNS|BODY_5|0
+a non-deterministic automaton|DT JJ IN|BODY_3|0
+@r \gamma\psi \gamma\psi|JJ IN IN|BODY_5|0
+a wait-free solution|DT JJ NN|BODY_3|0
+figure ( q|NN -LRB- NN|BODY_3|0
+1] ( statement|JJ -LRB- NN|BODY_6|0
+m and w|NN CC NN|BODY_4|0
+a simple test|DT JJ NN|BODY_2|0
+a simple technique|DT JJ NN|BODY_3|0
+any other object|DT JJ NN|BODY_4:BODY_9|0
+only finite sets|RB JJ NNS|BODY_4|0
+processes and objects|NNS CC NNS|BODY_5|0
+each consensus object|DT NN NN|BODY_3|0
+( 1 )|-LRB- CD -RRB-|BODY_3|0
+a local property|DT JJ NN|BODY_5|0
+all component automata|DT NN NN|BODY_4|0
+its own pool|PRP$ JJ NN|BODY_3|0
+x-valent state @|JJ NN NN|BODY_21|0
+3.2 read-modify-write operations|CD JJ NNS|BODY_10|0
+different default values|JJ NN NNS|BODY_6|0
+a doubly-linked list|DT JJ NN|BODY_4|0
+2] to 0,|CD TO CD|BODY_11|0
+neither r i|DT NN NN|BODY_7|0
+'s sequential specification|POS JJ NN|BODY_6|0
+1 ) e|CD -RRB- NN|BODY_8|0
+a sequential history|DT JJ NN|BODY_4|0
+many invaluable suggestions|JJ JJ NNS|BODY_9|0
+shared data structures|VBN NNS NNS|BODY_15|0
+certain multiprocessor architectures|JJ NN NNS|BODY_3|0
+any such protocol|DT JJ NN|BODY_5|0
+any particular process|DT JJ NN|BODY_6|0
+a linearizable object|DT JJ NN|BODY_1|0
+the data structure|DT NNS NN|BODY_2|0
+'s last announcement|POS JJ NN|BODY_13:BODY_8|0
+certain trivial solutions|JJ JJ NNS|BODY_30|0
+a shared channel|DT VBN NN|BODY_6|0
+the deq operation|DT NN NN|BODY_5|0
+two concurrent objects|CD JJ NNS|BODY_4|0
+'s old value|POS JJ NN|BODY_2|0
+output events res|NN NNS NNS|BODY_11|0
+the only way|DT JJ NN|BODY_2|0
+at least 2.|IN JJS CD|BODY_5:BODY_3:BODY_4|0
+the consensus problem|DT NN NN|BODY_3|0
+its input value|PRP$ NN NN|BODY_2|0
+no wait-free solution|DT JJ NN|BODY_14|0
+the remaining fields|DT VBG NNS|BODY_4|0
+theorem 28 proceeds|JJ CD NNS|BODY_10|0
+a private pool|DT JJ NN|BODY_2|0
+some history fragment|DT NN NN|BODY_4|0
+a new round|DT JJ NN|BODY_9|0
+the following sense|DT JJ NN|BODY_3|0
+the last cell|DT JJ NN|BODY_8|0
+the previous cell|DT JJ NN|BODY_11|0
+its own input|PRP$ JJ NN|BODY_2:BODY_7|0
+the following execution|DT VBG NN|BODY_4|0
+the following section|DT VBG NN|BODY_6|0
+its own preference|PRP$ JJ NN|BODY_4|0
+an output event|DT NN NN|BODY_17|0
+two single-writer registers|CD NN NNS|BODY_2|0
+the shared objects|DT VBN NNS|BODY_9|0
+the object (|DT NN -LRB-|BODY_10|0
+states and e|NNS CC NN|BODY_24|0
+the wait-free guarantee|DT JJ NN|BODY_1|0
+statement # 2|NN # CD|BODY_11|0
+'s sequence number|POS NN NN|BODY_9|0
+the usual construction|DT JJ NN|BODY_2|0
+a transition relation|DT NN NN|BODY_20|0
+these impossibility results|DT NN NNS|BODY_1|0
+a single thread|DT JJ NN|BODY_3|0
+the traditional approach|DT JJ NN|BODY_1|0
+this helping step|DT VBG NN|BODY_2|0
+these classical primitives|DT JJ NNS|BODY_4|0
+its first event|PRP$ JJ NN|BODY_2|0
+an outgoing edge|DT JJ NN|BODY_4|0
+consensus number 1|NN NN CD|BODY_4|0
+consensus number 2|NN NN CD|BODY_2|0
+n-process consensus 1|JJ NN CD|BODY_9|0
+no concurrent operations|DT JJ NNS|BODY_4|0
+the same default|DT JJ NN|BODY_4|0
+'s control flow|POS NN NN|BODY_4|0
+3 memory-to-memory move|CD NN NN|BODY_1|0
+a process history|DT NN NN|BODY_6|0
+an input event|DT NN NN|BODY_13|0
+each output event|DT NN NN|BODY_15|0
+'s protocol terminates|POS NN NNS|BODY_2|0
+such a state|JJ DT NN|BODY_2|0
+the next operation|DT JJ NN|BODY_9|0
+the same sequence|DT JJ NN|BODY_3|0
+the largest n|DT JJS NN|BODY_4|0
+the internal state|DT JJ NN|BODY_3|0
+'s state components|POS NN NNS|BODY_28|0
+the linearizability condition|DT NN NN|BODY_4|0
+the linearization order|DT NN NN|BODY_4|0
+related correctness conditions|VBN NN NNS|BODY_1|0
+the composed automaton|DT VBN NN|BODY_2|0
+default value x|NN NN NN|BODY_3|0
+one last detail|CD JJ NN|BODY_2|0
+the maximum number|DT JJ NN|BODY_6|0
+any other objects|DT JJ NNS|BODY_3|0
+distinct default values|JJ NN NNS|BODY_4|0
+simplified i/o automata|JJ NN NNS|BODY_1|0
+m \gamma 1|NN NN CD|BODY_3|0
+the non-blocking condition|DT JJ NN|BODY_1|0
+a protocol state|DT NN NN|BODY_1|0
+different decision values|JJ NN NNS|BODY_5|0
+the first phase|DT JJ NN|BODY_1|0
+'s private register|POS JJ NN|BODY_11|0
+( v )|-LRB- FW -RRB-|BODY_4|0
+i/o automata [22]|NN NN NN|BODY_5|0
+a machine architecture|DT NN NN|BODY_1|0
+whose released bits|WP$ VBN NNS|BODY_6|0
+6= f(v )|JJ NN -RRB-|BODY_7|0
+the value 1|DT NN CD|BODY_3|0
+# 8 )|# CD -RRB-|BODY_7|0
+# 1 )|# CD -RRB-|BODY_5|0
+the corresponding operations|DT JJ NNS|BODY_7|0
+an initial state|DT JJ NN|BODY_6|0
+let complete( h)|VB NN NNS|BODY_1|0
+a sequential specification|DT JJ NN|BODY_3|0
+one dequeuing process|CD JJ NN|BODY_5|0
+the author [13]|DT NN NN|BODY_1|0
+those two processes|DT CD NNS|BODY_7|0
+a unique p|DT JJ NN|BODY_4|0
+the first assertion|DT JJ NN|BODY_1|0
+the first swap|DT JJ NN|BODY_3|0
+a case analysis|DT NN NN|BODY_2|0
+the same property|DT JJ NN|BODY_27|0
+a two-element array|DT JJ NN|BODY_3|0
+the second stage|DT JJ NN|BODY_1|0
+4.2 memory management|CD NN NN|BODY_1|0
+asynchronous message buffers|JJ NN NNS|BODY_5|0
+figure 1 )|NN CD -RRB-|BODY_8|0
+most recent work|RBS JJ NN|BODY_1|0
+the fundamental problem|DT JJ NN|BODY_1|0
+'s decision value|POS NN NN|BODY_3|0
+this common value|DT JJ NN|BODY_1|0
+3.6 multiple assignment|CD JJ NN|BODY_1|0
+paterson [9] )|NN NN -RRB-|BODY_6|0
+the same order|DT JJ NN|BODY_7|0
+the front-end automaton|DT JJ NN|BODY_11|0
+an arbitrary set|DT JJ NN|BODY_4|0
+p( q )|JJ NN -RRB-|BODY_1|0
+a condition true|DT NN JJ|BODY_6|0
+common synchronization primitives|JJ NN NNS|BODY_5|0
+a total order|DT JJ NN|BODY_3|0
+an object implementation|DT NN NN|BODY_1|0
+linearizable concurrent systems|JJ JJ NNS|BODY_3|0
+well-formed concurrent systems|JJ JJ NNS|BODY_3|0
+no largest n|DT JJS NN|BODY_1|0
+component starting states|NN VBG NNS|BODY_8|0
+our construction resets|PRP$ NN NNS|BODY_1|0
+a read-modify-write operation|DT JJ NN|BODY_1|0
+the identity function|DT NN NN|BODY_3|0
+readers or writers|NNS CC NNS|BODY_5|0
+the fetch&cons operation|DT NNS NN|BODY_1|0
+4 universality results|CD NN NNS|BODY_1|0
+the ordering procedure|DT NN NN|BODY_1|0
+3.5 memory-to-memory operations|CD NN NNS|BODY_1|0
+abstract data types|JJ NNS NNS|BODY_5|0
+2.2 concurrent systems|CD JJ NNS|BODY_1|0
+the earliest assignment|DT JJS NN|BODY_4|0
+the basic idea|DT JJ NN|BODY_1|0
+such a triple|PDT DT JJ|BODY_1|0
+particular , operations|JJ , NNS|BODY_1|0
+shared fifo queues|VBN RB NNS|BODY_7|0
+the only operations|DT JJ NNS|BODY_1|0
+the associated response|DT VBN NN|BODY_6|0
+at most 2m|IN JJS JJ|BODY_10|0
+12 fifo queues|CD CD NNS|BODY_1|0
+greater than 2.|JJR IN CD|BODY_8|0
+an error value|DT NN NN|BODY_11|0
+c and d|NN CC NN|BODY_1|0
+the first process|DT JJ NN|BODY_1|0
+an object x|DT NN NN|BODY_1|0
+the first stage|DT JJ NN|BODY_1|0
+3 impossibility results|CD NN NNS|BODY_1|0
+the second phase|DT JJ NN|BODY_1|0
+test&set  registers|NN NN NNS|BODY_9|0
+the first component|DT JJ NN|BODY_1|0
+p or q.|NN CC NN|BODY_9|0
+more fundamental primitives|RBR JJ NNS|BODY_7|0
+q and p|NN CC NN|BODY_7|0
+a failure-free system|DT JJ NN|BODY_1|0
+a read overlaps|DT VBN NNS|BODY_1|0
+lemma 23 places|NN CD NNS|BODY_1|0
+a matching response|DT JJ NN|BODY_3|0
+p or q|NN CC NN|BODY_5:BODY_7|0
+r and prefer|NN CC VBP|BODY_1|0
+the fetch&add operation|DT JJ NN|BODY_1|0
+an unthreaded cell|DT JJ NN|BODY_2|0
+the representation object|DT NN NN|BODY_9|0
+a now-familiar argument|DT JJ NN|BODY_1|0
+2.1 i/o automata|CD NN NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+compatible i/o automata|JJ NN NN|BODY_3|0
+the first value|DT JJ NN|BODY_3|0
+its input events|PRP$ NN NNS|BODY_1|0
+the three processes|DT CD NNS|BODY_1|0
+consensus number m|NN NN NN|BODY_6|0
+a triple (|DT JJ -LRB-|BODY_1|0
+ri 2 apply|NN CD VBP|BODY_12:BODY_9|0
+the loop index|DT NN NN|BODY_38|0
+many interesting problems|JJ JJ NNS|BODY_1|0
+practical implementation techniques|JJ NN NNS|BODY_1|0
+that process|DT NN|BODY_5:BODY_2:BODY_7|0
+p i|NN NN|BODY_6:BODY_4:BODY_10:BODY_7|0
+a pointer|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_10:BODY_7|0
+our model|PRP$ NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+consensus|NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+the following|DT VBG|BODY_33:BODY_2:BODY_7|0
+the operation|DT NN|BODY_12:BODY_6:BODY_1:BODY_3:BODY_4|0

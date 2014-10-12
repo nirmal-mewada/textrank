@@ -1,0 +1,372 @@
+we|PRP|BODY_6:BODY_11:BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8:BODY_9|9
+that|WDT|BODY_6:BODY_11:BODY_5:BODY_14:BODY_3:BODY_4|0
+data|NNS|BODY_6:BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:ABSTRACT_10|3
+the application|DT NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+it|PRP|BODY_6:BODY_5:BODY_13:BODY_1:BODY_3:BODY_8|0
+the network|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|1
+which|WDT|BODY_6:BODY_5:BODY_3:BODY_10:BODY_7|1
+the new data center|DT JJ NNS NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+the virtual server|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|0
+the server management system|DT NN NN NN|BODY_6:BODY_5:BODY_1:BODY_4|0
+asynchronous replication|JJ NN|BODY_1:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|1
+the remote data center|DT JJ NNS NN|BODY_10:BODY_4:BODY_7:BODY_9|0
+the same network address|DT JJ NN NN|BODY_6:BODY_3|0
+the technical building blocks|DT JJ NN NNS|BODY_5:BODY_3|0
+the shirako system [10]|DT NN NN NN|BODY_2|0
+a wide area network|DT JJ NN NN|BODY_6:BODY_8|0
+the migration|DT NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+server migration and replication|NN NN CC NN|ABSTRACT_3:BODY_3|2
+no single fault model|DT JJ NN NN|BODY_2|1
+the wide area network|DT JJ NN NN|BODY_8|0
+a very effective tool|DT RB JJ NN|BODY_3|0
+application state and potentially|NN NN CC RB|BODY_4|0
+live data center migration|VB NNS NN NN|BODY_6|0
+general the available technologies|JJ DT JJ NNS|BODY_7|0
+the server migration process|DT NN NN NN|BODY_7|0
+a local/primary storage system|DT JJ NN NN|BODY_3|0
+a network connectivity viewpoint|DT NN NN NN|BODY_7|0
+all the storage operations|PDT DT NN NNS|BODY_5|0
+the data center migration|DT NNS NN NN|BODY_5|0
+the data center provider|DT NNS NN NN|BODY_8|0
+the following two categories|DT VBG CD NNS|BODY_2|0
+the cold standby approach|DT JJ NN NN|BODY_2|0
+ibm extended remote copy|JJ JJ JJ NN|BODY_7|0
+the new mac address|DT JJ NN NN|BODY_5|0
+the virtual server experience|DT JJ NN NN|BODY_7|0
+( 4 ) time|-LRB- CD -RRB- NN|BODY_15|0
+the replication and migration|DT NN CC NN|ABSTRACT_4:BODY_3|0
+a robust cooperative context|DT JJ JJ NN|TITLE_3|0
+complete data center outages|JJ NNS NN NNS|BODY_4|1
+( 1 ) amount|-LRB- CD -RRB- NN|BODY_3|0
+a more preferred route|DT RBR JJ NN|BODY_2|0
+the network ( твтйтитд|DT NN -LRB- NN|BODY_3|0
+( 2 ) amount|-LRB- CD -RRB- NN|BODY_7|0
+the entire data center|DT JJ NNS NN|BODY_7|0
+the stringent timing requirements|DT JJ NN NNS|BODY_2|0
+a local area network|DT JJ NN NN|BODY_6|0
+that consistent data point|DT JJ NNS NN|BODY_6|0
+very little downtime (|RB JJ NN -LRB-|BODY_8|0
+a different application area|DT JJ NN NN|BODY_2|0
+not all networking changes|RB DT NN NNS|BODY_5|0
+a storage area network|DT NN NN NN|BODY_5|0
+a more dynamic fashion|DT JJR JJ NN|BODY_4|0
+a shared lan environment|DT VBN NN NN|BODY_2|0
+an unsolicited arp reply|DT JJ JJ NN|BODY_3|0
+a data center provider|DT NN NN NN|BODY_7|0
+the more preferred route|DT JJR JJ NN|BODY_5|0
+the service provider edge|DT NN NN NN|BODY_4|0
+the underlying virtualization framework|DT VBG NN NN|BODY_6|0
+the storage replication subsystem|DT NN NN NN|BODY_4|0
+network and storage mechanisms|NN CC NN NNS|BODY_4|0
+the safe live migration|DT JJ JJ NN|BODY_4|0
+the routerfarm approach [2]|DT NN NN NN|BODY_4|0
+a routed non-lan environment|DT JJ JJ NN|BODY_6|0
+existing server virtualization technologies|VBG NN NN NNS|BODY_3|0
+the required network changes|DT VBN NN NNS|BODY_2|1
+the virtual server address|DT JJ NN NN|BODY_4|0
+a sip proxy server|DT NN NN NN|BODY_2|0
+a remote replication system|DT JJ NN NN|BODY_3|1
+the network data path|DT NN NNS NN|BODY_3|0
+твтйти  and твтйти |JJ NN CC JJ|BODY_5|0
+( 3 ) amount|-LRB- CD -RRB- NN|BODY_12|0
+the more general case|DT RBR JJ NN|BODY_2|0
+the necessary networking changes|DT JJ NN NNS|BODY_6|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+power supplies etc )|NN NNS NN -RRB-|BODY_4|0
+heavy weight replication techniques|JJ NN NN NNS|BODY_5|0
+a local storage system|DT JJ NN NN|BODY_6|0
+any local write coalescing|DT JJ VB NN|BODY_3|0
+a virtual server vs|DT JJ NN NN|BODY_4|0
+a direct performance impact|DT JJ NN NN|BODY_6|0
+the ursa minor system|DT JJ JJ NN|BODY_1|1
+the previously checkpointed state|DT RB VBN NN|BODY_6|0
+the disk storage system|DT NN NN NN|BODY_9|0
+continuous availability and operation|JJ NN CC NN|BODY_7|0
+the two data centers|DT CD NNS NNS|BODY_7|0
+a data center [22]|DT NNS NN NN|BODY_7|0
+a relatively minor outage|DT RB JJ NN|BODY_1|0
+current virtual machine software|JJ JJ NN NN|BODY_1|0
+figure 1( c )|NN JJ NN -RRB-|BODY_10|0
+most virtual machine software|RBS JJ NN NN|BODY_1|0
+sophisticated data mirroring technologies|JJ NNS NN NNS|BODY_3|0
+slower time scale network|JJR NN NN NN|BODY_1|0
+the service or application|DT NN CC NN|BODY_11|0
+application and storage state|NN CC NN NN|BODY_5|0
+the two virtual servers|DT CD JJ NNS|BODY_6|0
+unplanned outages or failures|JJ NNS CC NNS|BODY_6|1
+more and more state|JJR CC JJR NN|BODY_1|0
+figure 1( b )|NN JJ NN -RRB-|BODY_1|0
+the existing configuration interfaces|DT VBG NN NNS|BODY_7|0
+downtimes [18 , 12]|RB CD , CD|BODY_6|0
+unplanned data center outages|JJ NNS NN NNS|BODY_4|1
+the consistent data point|DT JJ NNS NN|BODY_4|0
+the more advanced information|DT RBR JJ NN|BODY_1|0
+wan live server migration|JJ JJ NN NN|BODY_1|0
+a wide area environment|DT JJ NN NN|BODY_1|0
+manual configuration time scales|JJ NN NN NNS|BODY_7|0
+such local redundancy mechanisms|JJ JJ NN NNS|BODY_4|0
+a new data center|DT JJ NNS NN|BODY_4|0
+the same data blocks|DT JJ NNS NNS|BODY_5|0
+synchronous replication|JJ NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+live server migration|JJ NN NN|BODY_1:BODY_4:BODY_7:BODY_8|2
+this|DT|BODY_6:BODY_2:BODY_1:BODY_4:BODY_8|0
+use|NN|BODY_6:ABSTRACT_2:BODY_2:BODY_7|0
+our approach|PRP$ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+a virtual server|DT JJ NN|BODY_4:BODY_7|0
+the storage system|DT NN NN|BODY_5:BODY_2:BODY_4|0
+the migration software|DT NN NN|BODY_5:BODY_2:BODY_4|0
+server virtualization technologies|NN NN NNS|BODY_2:ABSTRACT_3|0
+a data center|DT NNS NN|BODY_5:BODY_2|0
+the remote site|DT JJ NN|BODY_6:BODY_5|0
+live migration|VB NN|BODY_6:BODY_3:BODY_4:BODY_7|0
+the secondary site|DT JJ NN|BODY_3:BODY_7|0
+services|NNS|BODY_5:ABSTRACT_4:BODY_1:BODY_3:BODY_4:BODY_8|1
+context aware migration|NN JJ NN|BODY_3|1
+the application state|DT NN NN|BODY_4|0
+a lan environment|DT NN NN|BODY_1:BODY_2|0
+the maintenance event|DT NN NN|BODY_5:BODY_1|0
+the data center|DT NNS NN|BODY_3:BODY_4|0
+this initial phase|DT JJ NN|BODY_2:BODY_4|0
+such remote replication|JJ JJ NN|BODY_3|0
+the remote location|DT JJ NN|BODY_2:BODY_7|0
+migration|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_8:BODY_9|0
+wide area networks|JJ NN NNS|BODY_4:BODY_10|1
+a physical server|DT JJ NN|BODY_5:BODY_8|0
+virtual server migration|JJ NN NN|BODY_1:BODY_2|0
+some data loss|DT NNS NN|BODY_1:BODY_3|0
+server migration|NN NN|BODY_12:BODY_1:BODY_2|1
+virtual machine migration|JJ NN NN|BODY_4|0
+the storage level|DT NN NN|BODY_2|0
+one data center|CD NN NN|BODY_2|0
+the server platforms|DT NN NNS|BODY_7|0
+the file system|DT NN NN|BODY_7|1
+application memory state|NN NN NN|BODY_5:BODY_2|0
+a quick switch-over|DT JJ NN|BODY_5|0
+live migration techniques|JJ NN NNS|BODY_13|0
+the ip address(es|DT NN NNS|BODY_2:BODY_7|0
+physical server b|JJ NN NN|BODY_6|0
+full application mirroring|JJ NN NN|BODY_2|0
+the routerfarm work|DT NN NN|BODY_4|0
+these and others|DT CC NNS|BODY_2|0
+the migrated server|DT JJ NN|BODY_8|0
+the same feat|DT JJ NN|BODY_4|0
+the physical servers|DT JJ NNS|BODY_6|0
+the increased use|DT VBN NN|BODY_2|0
+the service provider|DT NN NN|BODY_10:BODY_4|0
+the local switch|DT JJ NN|BODY_7|0
+data-type specific selections|JJ JJ NNS|BODY_4|1
+a large number|DT JJ NN|BODY_2|0
+data center management|NNS NN NN|BODY_4|0
+any significant downtime|DT JJ NN|BODY_10|0
+a detailed taxonomy|DT JJ NN|BODY_3|0
+the actual services|DT JJ NNS|BODY_4|0
+our approach differs|PRP$ NN NNS|BODY_3|0
+current routing protocols|JJ NN NNS|BODY_3|0
+every data block|DT NNS NN|BODY_5:BODY_1|0
+another networking step|DT VBG NN|BODY_2|0
+these desirable properties|DT JJ NNS|BODY_1|0
+the two environments|DT CD NNS|BODY_6|0
+our basic approach|PRP$ JJ NN|BODY_2|0
+a ( твтдтгтжте|DT -LRB- NN|BODY_5|0
+synchronous replication systems|JJ NN NNS|BODY_6:BODY_2|0
+the primary site|DT JJ NN|BODY_2|0
+no current mechanisms|DT JJ NNS|BODY_3|0
+the data centers|DT NN NNS|BODY_6|1
+all three subsystems|DT CD NNS|BODY_6|0
+continuous access xp|JJ NN NN|BODY_8|0
+a certain amount|DT JJ NN|BODY_6:BODY_4|0
+these building blocks|DT NN NNS|BODY_2|0
+internet-based service providers|JJ NN NNS|ABSTRACT_2:BODY_2|1
+a virtualized replica|DT JJ NN|BODY_3|0
+redundant lan devices|JJ NN NNS|BODY_4|0
+impacting application performance|JJ NN NN|BODY_5|0
+the final state|DT JJ NN|BODY_9|0
+data center services|NNS NN NNS|ABSTRACT_3:BODY_3:BODY_8|0
+the network state|DT NN NN|BODY_2|0
+an ip tunnel|DT NN NN|BODY_4|0
+application and storage|NN CC NN|BODY_2|0
+a simultaneous switch-over|DT JJ NN|BODY_3|0
+the recovery point|DT NN NN|BODY_3|0
+a tighter rpo|DT JJR NN|BODY_9|0
+optimal data flow|JJ NNS NN|BODY_3|0
+the same way|DT JJ NN|BODY_6|0
+the application )|DT NN -RRB-|BODY_7|0
+твтйтитйте and твтйтитйтз|NN CC VB|BODY_8|0
+a new copy|DT JJ NN|BODY_3|0
+orchestrated network changes|JJ NN NNS|BODY_7|0
+a key requirement|DT JJ NN|BODY_3|0
+a synchronous basis|DT JJ NN|BODY_10|0
+no data loss|DT NNS NN|BODY_2|0
+the previous case|DT JJ NN|BODY_2|0
+multiple network connections|JJ NN NNS|BODY_3|0
+new router functionality|JJ NN NN|BODY_6|0
+the wide area|DT JJ NN|BODY_2|0
+a management tool|DT NN NN|BODY_9|0
+an application-aware manner|DT JJ NN|BODY_3|0
+storage ( nas|NN -LRB- NNS|BODY_4|0
+the different approaches|DT JJ NNS|BODY_4|0
+the internet )|DT NN -RRB-|ABSTRACT_5|1
+semantic-aware replication [13]|JJ NN NN|BODY_3|1
+7 , 11]|CD , CD|BODY_4|0
+твтйти ) router|NNP -RRB- NN|BODY_5|0
+the migration system|DT NN NN|BODY_2|0
+the primary activity|DT JJ NN|BODY_2|0
+a network element|DT NN NN|BODY_4|0
+ongoing network connections|JJ NN NNS|BODY_5:BODY_13|0
+live wan migration|JJ NN NN|BODY_3|0
+data centers|NNS NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+the main enabler|DT JJ NN|BODY_3|0
+any state changes|DT NN NNS|BODY_5|0
+live vm migration|JJ NN NN|BODY_5|0
+these existing mechanisms|DT JJ NNS|BODY_2|0
+performance ( impact|NN -LRB- NN|BODY_6|0
+asynchronous replication systems|JJ NN NNS|BODY_2|0
+wide maintenance operations|JJ NN NNS|BODY_7|0
+the ip address|DT NN NN|BODY_6|0
+some remote location|DT JJ NN|BODY_4|0
+an unresolved problem|DT JJ NN|BODY_5|0
+the right balance|DT JJ NN|BODY_5|0
+wan server migration|JJ NN NN|BODY_2|1
+any persistent state|DT JJ NN|BODY_3|0
+one physical machine|CD JJ NN|BODY_5|0
+one physical server|CD JJ NN|BODY_8|0
+the networking requirements|DT NN NNS|BODY_2|0
+the service context|DT NN NN|BODY_8|0
+an attractive tool|DT JJ NN|BODY_3|0
+both lower throughput|DT JJR NN|BODY_8|0
+the different subsystems|DT JJ NNS|BODY_7|0
+the appropriate ce|DT JJ NN|BODY_6|0
+the virtual server |DT JJ NN|BODY_2|0
+ce ) routers|NN -RRB- NNS|BODY_3|0
+any active applications|DT JJ NNS|BODY_3|0
+network level reachability|NN NN NN|BODY_1|0
+the remote systems|DT JJ NNS|BODY_11|0
+data center b|NNS NN NN|BODY_6|0
+this the vs|DT DT NN|BODY_8|0
+data center facilities|NNS NN NNS|BODY_6:ABSTRACT_6|0
+a similar set|DT JJ NN|BODY_8|0
+new network functions|JJ NN NNS|ABSTRACT_2:BODY_2|2
+the same mechanism|DT JJ NN|BODY_4|0
+a significant challenge|DT JJ NN|BODY_2|0
+the migration services|DT NN NNS|BODY_5|0
+the networking part|DT NN NN|BODY_5|0
+disaster recovery [20|NN NN NN|BODY_3|0
+the live migration|DT JJ NN|BODY_4|0
+the customer edge|DT NN NN|BODY_2|0
+a periodic snapshot|DT JJ NN|BODY_3|0
+ip address mobility|NN NN NN|BODY_4|0
+some application state|DT NN NN|BODY_3|0
+extremely short downtimes|RB JJ NNS|BODY_7|0
+planned maintenance events|VBN NN NNS|BODY_6:BODY_2|0
+data center migration|NNS NN NN|ABSTRACT_4:TITLE_1:BODY_1:BODY_4|0
+live service migration|JJ NN NN|BODY_4|0
+just another network|RB DT NN|BODY_4|0
+the replication system|DT NN NN|BODY_3|0
+remote replication technologies|JJ NN NNS|BODY_9|1
+an impending failure|DT JJ NN|BODY_3|0
+the more effective|DT RBR JJ|BODY_4|0
+data center operations|NNS NN NNS|BODY_4|0
+this second signal|DT JJ NN|BODY_2|0
+all the subsequent|PDT DT JJ|BODY_7|0
+the time constraints|DT NN NNS|BODY_6|0
+three essential subsystems|CD JJ NNS|BODY_3|0
+the final migration|DT JJ NN|BODY_3|0
+an alternate approach|DT JJ NN|BODY_10|0
+a convenient point|DT JJ NN|BODY_2|0
+state and storage|NN CC NN|BODY_2|0
+the primary components|DT JJ NNS|BODY_3|0
+a business/usability point|DT NN NN|BODY_1|0
+modern virtualization environments|JJ NN NNS|BODY_1|0
+a server perspective|DT NN NN|BODY_3|0
+the previous section|DT JJ NN|BODY_6|0
+the initial transfer|DT JJ NN|BODY_4|1
+a performance impact|DT NN NN|BODY_3|0
+a local change|DT JJ NN|BODY_3|0
+numerous commercial products|JJ JJ NNS|BODY_4|0
+a non-disruptive fashion|DT JJ NN|BODY_5|0
+network management systems|NN NN NNS|BODY_4|0
+application/service level semantics|NN NN NNS|BODY_8|0
+a high priority|DT JJ NN|BODY_6|0
+an excellent description|DT JJ NN|BODY_1|0
+the latter case|DT JJ NN|BODY_1|0
+the appropriate time|DT JJ NN|BODY_9|0
+the second challenge|DT JJ NN|BODY_1|0
+the final server|DT JJ NN|BODY_1|0
+the migration semantics|DT NN NNS|BODY_5|0
+the new site|DT JJ NN|BODY_11|0
+the primary system|DT JJ NN|BODY_6|0
+a wan environment|DT JJ NN|BODY_5|0
+provider edge routers|NN NN NNS|BODY_9|0
+an intermediate approach|DT JJ NN|BODY_1|0
+the other extreme|DT JJ NN|BODY_1|0
+our main contribution|PRP$ JJ NN|BODY_1|0
+2.2 networking requirements|CD NN NNS|BODY_1|0
+a significant concern|DT JJ NN|BODY_1:ABSTRACT_1|1
+a voip server|DT NN NN|BODY_1|0
+the networking level|DT NN NN|BODY_6|0
+the one extreme|DT CD JJ|BODY_1|0
+this hot standby|DT JJ NN|BODY_1|0
+the same functionality|DT JJ NN|BODY_9|0
+the proxy server|DT NN NN|BODY_6|0
+disk storage needs|NN NN NNS|BODY_1|0
+the lan environment|DT NN NN|BODY_1|0
+such failures )|JJ NNS -RRB-|BODY_10|0
+the network part|DT NN NN|BODY_1|0
+a localized manner|DT JJ NN|BODY_9|0
+the lan environments|DT NN NNS|BODY_10|0
+second , due|JJ , JJ|BODY_1|0
+lan ) environment|NN -RRB- NN|BODY_7|0
+the desired rpos|DT VBN NNS|BODY_8|0
+such a case|JJ DT NN|BODY_1|0
+the network )|DT NN -RRB-|BODY_6|1
+continued storage access|JJ NN NN|BODY_9|0
+a disaster [13]|DT NN NN|BODY_7|0
+a similar spirit|DT JJ NN|BODY_1|0
+the pre-established tunnel|DT JJ NN|BODY_8|0
+a consistent state|DT JJ NN|BODY_6|0
+failure avoidance [6]|NN NN NN|BODY_5|0
+a non-disruptive manner|DT JJ NN|ABSTRACT_7:BODY_7|0
+the physical server|DT JJ NN|BODY_4|0
+the mms signals|DT NNS NNS|BODY_1|0
+3.1 maintenance outages|CD NN NNS|BODY_1|0
+3.2 unplanned outages|CD JJ NNS|BODY_1|1
+no performance impact|DT NN NN|BODY_4|0
+the checkpoint boundary|DT NN NN|BODY_5|0
+264 figure 1|CD NN CD|BODY_1|0
+edge router support|NN NN NN|BODY_12|0
+the local disk|DT JJ NN|BODY_14|0
+the server migration|DT NN NN|BODY_1|0
+the amount|DT NN|BODY_6:BODY_1:BODY_4:BODY_7|0
+data center|NNS VBP|BODY_6:BODY_5:BODY_3:BODY_4:BODY_9|0
+outages|NNS|BODY_6:ABSTRACT_6:BODY_13:BODY_3:BODY_4:ABSTRACT_12|3
+normal operation|JJ NN|BODY_5:BODY_2:BODY_4|0
+the service|DT NN|BODY_6:BODY_5:BODY_3|0
+storage|NN|BODY_6:BODY_2:BODY_1|0
+the context|DT NN|BODY_1:BODY_2:BODY_7|0
+the case|DT NN|BODY_2:BODY_3|0
+the face|DT NN|BODY_12:BODY_5:ABSTRACT_11:ABSTRACT_5:ABSTRACT_4:BODY_4|3
+time|NN|BODY_2:BODY_7:BODY_8|0
+a wan|DT NN|BODY_6:BODY_5:BODY_3|0
+there|EX|BODY_6:BODY_1:BODY_2:BODY_3|0
+the mms|DT NNS|BODY_2:BODY_1:BODY_3|0
+work|NN|BODY_2:BODY_4|0
+the time|DT NN|BODY_6:BODY_12:BODY_4|0
+the internet|DT NN|BODY_5:BODY_3|1
+the frequency|DT NN|BODY_6:BODY_4|0
+the overhead|DT NN|BODY_3|0
+the pe|DT NN|BODY_5:BODY_7|0
+the communication|DT NN|BODY_4|0
+the vs|DT NN|BODY_5:BODY_3:BODY_4|0
+the server|DT NN|BODY_2:BODY_4:BODY_8|0
+failures|NNS|BODY_5:BODY_2:BODY_4|0
+the tunnel|DT NN|BODY_6:BODY_2:BODY_7|0
+this manner|DT NN|BODY_1:BODY_3|0
+the data|DT NNS|BODY_2:BODY_4|0
+the storage|DT NN|BODY_3|0
+replication|NN|BODY_6:BODY_5:BODY_4|0
+these mechanisms|DT NNS|BODY_5|1
+the need|DT NN|BODY_2:BODY_7|0
+the ability|DT NN|BODY_6:BODY_3|0
+these components|DT NNS|BODY_6:BODY_5|0
+a number|DT NN|BODY_6:BODY_3|0
+addition|NN|BODY_5:BODY_1:BODY_2:BODY_4|0

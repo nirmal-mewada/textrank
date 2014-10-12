@@ -1,0 +1,628 @@
+we|PRP|BODY_12:BODY_11:BODY_22:BODY_16:BODY_15:BODY_26:BODY_2:BODY_38:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_34:ABSTRACT_4:BODY_45:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_30:BODY_8:BODY_9|18
+which|WDT|BODY_12:BODY_11:BODY_18:BODY_21:BODY_23:BODY_13:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|2
+hyperlog|NN|BODY_6:BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_7|1
+the hypernode model|DT NN NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8:BODY_9|0
+the representation and manipulation|DT NN CC NN|TITLE_2|0
+respect|NN|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_22:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|1
+graphs|NNS|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_8:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+hypernodes and types|NNS CC NNS|BODY_6:BODY_5:ABSTRACT_3|1
+hypernodes|NNS|BODY_6:BODY_5:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_9|0
+the operational semantics|DT JJ NNS|BODY_5:ABSTRACT_2:BODY_3|0
+a data model|DT NN NN|ABSTRACT_3:BODY_3|0
+a nested-graph model|DT NN NN|TITLE_1|0
+a rule-based query language|DT JJ NN NN|ABSTRACT_2|0
+the single data structure|DT JJ NNS NN|ABSTRACT_1|0
+our graph types|PRP$ NN NNS|ABSTRACT_3|1
+conventional type-forming operators|JJ NN NNS|ABSTRACT_2|1
+the theoretical foundations|DT JJ NNS|ABSTRACT_2|1
+an essential feature|DT JJ NN|ABSTRACT_5|0
+graph-based user interfaces|JJ NN NNS|ABSTRACT_4|0
+three recent trends|CD JJ NNS|ABSTRACT_1|0
+hyperlog and show|NN CC NN|ABSTRACT_3|0
+computation and update|NN CC NN|ABSTRACT_6|0
+it|PRP|BODY_11:BODY_21:BODY_26:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_20|1
+ name code code|IN NN NN NN|BODY_3|1
+the simpler nested graphs|DT JJR JJ NNS|BODY_9|1
+some conventional type-forming operators|DT JJ NN NNS|BODY_4|1
+the hypernode model )|DT NN NN -RRB-|BODY_10|1
+a hypernode repository|DT NN NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_18:BODY_15:BODY_1:BODY_2:BODY_10:BODY_4:BODY_7:BODY_9|1
+a countably infinite set|DT RB JJ NN|BODY_6:BODY_14:BODY_9|0
+the right hand side|DT JJ NN NN|BODY_24:BODY_7|0
+the left hand side|DT JJ NN NN|BODY_3:BODY_7|0
+the nodes and edges|DT NNS CC NNS|BODY_2:BODY_19|0
+the relational data model|DT JJ NNS NN|BODY_2|0
+the transient hypernode store|DT JJ NN NN|BODY_2|0
+more than $ 200|JJR IN $ CD|BODY_6:BODY_7|0
+y nat currency passengers|NN JJ NN NNS|BODY_4:BODY_7|0
+a data modelling tool|DT NN NN NN|BODY_5|0
+primitive nodes and labels|JJ NNS CC NNS|BODY_2:BODY_3|0
+destination ) or backwards|NN -RRB- CC NNS|BODY_4|0
+any associated text )|DT VBN NN -RRB-|BODY_4|0
+a positive match c.f|DT JJ NN NN|BODY_6|0
+the meta data (types|DT NN NNS NNS|BODY_4|0
+data ( hypernodes )|NNS -LRB- NNS -RRB-|BODY_26|0
+the type example instances|DT NN NN NNS|BODY_2|0
+ child none person|NN NN NN NN|BODY_21|0
+the following proposition states|DT VBG NN NNS|BODY_4:BODY_9|0
+the set types airlines|DT NN NNS NNS|BODY_5|0
+all the database entities|DT DT NN NNS|BODY_1:BODY_4|0
+( i ) rf|-LRB- FW -RRB- NN|BODY_3|0
+every node and edge|DT NN CC NN|BODY_25|0
+figure 9 , time|NN CD , NN|BODY_5|0
+a node or edge|DT NN CC NN|BODY_4|0
+} ,spouse-{ .}} }|JJ JJ NN JJ|BODY_11|0
+the content and structure|DT NN CC NN|BODY_5|0
+primitive data types )|JJ NN NNS -RRB-|BODY_6|0
+the current marked nodes|DT JJ JJ NNS|BODY_12|0
+data and meta data|NNS CC NN NNS|BODY_2|0
+a step-wise schema design|DT JJ NN NN|BODY_2|0
+only a finite number|RB DT JJ NN|BODY_12:BODY_5|0
+logic-based deductive database languages|JJ JJ NN NNS|BODY_3|0
+a graph-based data model|DT JJ NNS NN|BODY_3:BODY_4|0
+the data ( hypernodes|DT NNS -LRB- NNS|BODY_3|0
+a distinguished primitive node|DT JJ JJ NN|BODY_5|0
+a hypernode repository hr|DT NN NN NN|BODY_1:BODY_7|0
+the referential integrity requirement|DT JJ NN NN|BODY_2|0
+grant number gr/g26662 )|NN NN NNS -RRB-|BODY_3|0
+its nodes and edges|PRP$ NNS CC NNS|BODY_1|0
+at least one instance|IN JJS CD NN|BODY_24|0
+a record type t|DT NN NN NN|BODY_1:BODY_2|0
+a single outgoing edge|DT JJ JJ NN|BODY_5|0
+classification (via types )|NN NN NNS -RRB-|BODY_6|0
+the required one-to-one mapping|DT JJ JJ NN|BODY_3|0
+at least one edge|IN JJS CD NN|BODY_16|0
+r-1 -t i r|JJ JJ IN NN|BODY_2|0
+parallel all the rules|RB DT DT NNS|BODY_8|0
+every label g t|DT NN VBG NN|BODY_5|0
+a directed labelled graph|DT VBN JJ NN|BODY_5|0
+our label generation semantics|PRP$ NN NN NNS|BODY_6|0
+all the rule heads|DT DT NN NNS|BODY_5|0
+one or more nodes|CD CC JJR NNS|BODY_5|0
+the storage manager stores|DT NN NN NNS|BODY_2|0
+the identity function id|DT NN NN NN|BODY_4|0
+the entity integrity requirement|DT NN NN NN|BODY_4|0
+distinguished left hand side|JJ JJ NN NN|BODY_5|0
+union and intersection constructors|NN CC NN NNS|BODY_4|0
+t ) and edges|NN -RRB- CC NNS|BODY_10|0
+a couple , c|DT NN , NN|BODY_2|0
+a partial recursive mapping|DT JJ JJ NN|BODY_3|0
+the new current node|DT JJ JJ NN|BODY_10|0
+( ii ) n|-LRB- NNS -RRB- NN|BODY_6|0
+their right hand side|PRP$ JJ NN NN|BODY_9|0
+the successor y nat|DT NN NN NN|BODY_3|0
+the data abstraction concepts|DT NNS NN NNS|BODY_5|0
+a single incoming edge|DT JJ JJ NN|BODY_3|0
+one or more matches|CD CC JJR NNS|BODY_8|0
+the current node (|DT JJ NN -LRB-|BODY_42|0
+the above rule body|DT JJ NN NN|BODY_4|0
+a conceptual data model|DT JJ NN NN|BODY_2|0
+all the string constants|PDT DT NN NNS|BODY_8|0
+a flight bookings database|DT NN NNS NN|BODY_4|0
+an extendible hashing scheme|DT JJ NN NN|BODY_4|0
+these last two conditions|DT JJ CD NNS|BODY_1|0
+the primitive nodes flight_no|DT JJ NNS NN|BODY_2|0
+other deductive database languages|JJ JJ NN NNS|BODY_2|0
+a hypernode cur_down current_node|DT NN NN VBD|BODY_39|0
+the navigation and cur_node|DT NN CC NN|BODY_5|0
+the maximal number maxnum|DT JJ NN NN|BODY_6|0
+program and rule names|NN CC NN NNS|BODY_4|0
+an abstraction  operation|DT NN NN NN|BODY_2|0
+the same level c.f|DT JJ NN NN|BODY_7|0
+e-) satisfies conditions t1|JJ NNS NNS NNS|BODY_20|0
+the left hand sides|DT JJ NN NNS|BODY_2|0
+the following two conditions|DT VBG CD NNS|BODY_19|0
+the empty set )|DT JJ NN -RRB-|BODY_6|0
+all the natural numbers|DT DT JJ NNS|BODY_2|0
+that infer( p,hr )|DT JJ NN -RRB-|BODY_2|0
+five graphically-represented primitive operations|CD JJ JJ NNS|BODY_6|0
+a new natural number|DT JJ JJ NN|BODY_19|0
+the set inst( tr|DT NN NN NN|BODY_3|0
+primitive nodes or labels|JJ NNS CC NNS|BODY_3|0
+a primitive node )|DT JJ NN -RRB-|BODY_44|0
+the next two sections|DT JJ CD NNS|BODY_3|0
+a right hand side|DT JJ NN NN|BODY_4|0
+however two fundamental differences|RB CD JJ NNS|BODY_2|0
+sections 3.5 and 3.6|NNS CD CC CD|BODY_4|0
+type repositories and types|NN NNS CC NNS|BODY_2|0
+the actual link label|DT JJ NN NN|BODY_10|0
+a shared rule body|DT VBN NN NN|BODY_2|0
+a shared rule head|DT VBN NN NN|BODY_2|0
+the two modelling approaches|DT CD JJ NNS|BODY_3|0
+a set type hypernodes|DT NN NN NNS|BODY_3|0
+introduction recent database research|NN JJ NN NN|BODY_1|0
+densely connected database graphs|RB VBN NN NNS|BODY_6|0
+the design and browsing|DT NN CC NN|BODY_5|0
+the former and identifiers|DT JJ CC NNS|BODY_9|0
+the structure and content|DT NN CC NN|BODY_6|0
+. routes and flights|. NNS CC NNS|BODY_2|0
+a separate database entity|DT JJ NN NN|BODY_7|0
+the following rule body|DT JJ NN NN|BODY_2|0
+the node none person|DT NN NN NN|BODY_3|0
+each such primitive type|DT JJ JJ NN|BODY_3|0
+hyp hr ( g)|JJ FW -LRB- NN|BODY_5|0
+l, and the set|JJ CC DT NN|BODY_9|0
+the only non-deterministic steps|DT JJ JJ NNS|BODY_4|0
+generating successors ad infinitum|VBG NNS NN NN|BODY_2|0
+efficiency and expressiveness issues|NN CC NN NNS|BODY_2|0
+the syntax and semantics|DT NN CC NNS|BODY_3|0
+l and ( n,e)|JJ CC -LRB- NN|BODY_6|0
+hyp tr ( t)|JJ NN -LRB- NN|BODY_4|0
+the operator fix( p,hr|DT NN NN NN|BODY_2|0
+range restriction [2] )|NN NN NN -RRB-|BODY_17|0
+one general-purpose graph constructor|CD JJ NN NN|BODY_6|0
+the previous  nodes|DT JJ NN NNS|BODY_27|0
+some counter variable being|DT NN JJ NN|BODY_5|0
+a new hypernode repository|DT JJ NN NN|BODY_2|0
+the underlying data structure|DT VBG NNS NN|BODY_5|0
+the insertions and deletions|DT NNS CC NNS|BODY_5|0
+n the two graphs|RB DT CD NNS|BODY_4|0
+the next  nodes|DT JJ NN NNS|BODY_12|0
+only nodes and edges|JJ NNS CC NNS|BODY_17|0
+an associated transformation language|DT VBN NN NN|BODY_3|0
+a static type checking|DT JJ NN NN|BODY_2|0
+our more recent work|PRP$ JJR JJ NN|BODY_2|0
+each query q i|DT NN NN NN|BODY_15|0
+a pair ( n,e)|DT NN -LRB- NN|BODY_2|0
+a pair ( m,f)|DT NN -LRB- NN|BODY_3|0
+our current research effort|PRP$ JJ NN NN|BODY_1|0
+the airlines and airports|DT NNS CC NNS|BODY_11|0
+every primitive node n|DT JJ NN NN|BODY_10|0
+the database browsing functions|DT NN VBG NNS|BODY_4|0
+a hypernode program p|DT NN NN NN|BODY_5|0
+the graph-based data model|DT JJ NNS NN|BODY_4|0
+r ( q )|NN -LRB- NN -RRB-|BODY_9|0
+new nodes and links|JJ NNS CC NNS|BODY_4|0
+a hypernode ( n,e)|DT NN -LRB- NN|BODY_1|0
+( iii ) e|-LRB- NNS -RRB- NN|BODY_1|0
+its left hand side|PRP$ JJ NN NN|BODY_29|0
+a flights bookings database|DT NNS NNS NN|BODY_6:BODY_5|0
+so nested relations [30]|RB VBN NNS NN|BODY_4|0
+( iii ) tc|-LRB- NNS -RRB- NN|BODY_1|0
+a semantic net )|DT JJ NN -RRB-|BODY_6|0
+a simple query facility|DT JJ NN NN|BODY_1|0
+related languages and models|JJ NNS CC NNS|BODY_5|0
+the closed world assumption|DT JJ NN NN|BODY_5|0
+the old hypernode repository|DT JJ NN NN|BODY_4|0
+( ii ) pt|-LRB- NNS -RRB- NN|BODY_1|0
+type flight_no_att and airline_att|NN NN CC NN|BODY_5|0
+a single flat graph|DT JJ JJ NN|BODY_5|0
+the natural numbers type|DT JJ NNS NN|BODY_9|0
+a type repository tr|DT NN NN NN|BODY_1|0
+such equations type equations|JJ NNS NN NNS|BODY_2|0
+( n,e) and (n-,e-)|-LRB- NN CC NN|BODY_7|0
+the instance lev- els|DT NN NNS NNS|BODY_6|0
+both querying and browsing|DT NN CC NN|BODY_22|0
+missing or incomplete information|VBG CC JJ NN|BODY_3|0
+( ii ) edges|-LRB- NNS -RRB- NNS|BODY_1|0
+the next theorem states|DT JJ NN NNS|BODY_1|0
+computation and database update|NN CC NN NN|BODY_6|0
+deductive and object-oriented database|JJ CC JJ NN|BODY_1|0
+there|EX|BODY_5:BODY_11:BODY_15:BODY_13:BODY_26:BODY_1:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+a hypernode|DT NN|BODY_16:BODY_23:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+a particular type|DT JJ NN|BODY_5:BODY_9|1
+ british airways|IN JJ NNS|BODY_2|1
+the hypernodes pt1|DT NNS NNS|BODY_4|1
+a natural formalisation|DT JJ NN|BODY_6|1
+nested graph structures|JJ NN NNS|BODY_4|1
+r3.1 r3.2 fig|CD CD NN|BODY_1|1
+these navigational operators|DT JJ NNS|BODY_2|1
+these two points|DT CD NNS|BODY_1|1
+per3 and per4|NNS CC NNS|BODY_8|1
+a number|DT NN|BODY_12:BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_7|0
+a set|DT NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_3:BODY_4:BODY_9|0
+a finite set|DT JJ NN|BODY_6:BODY_12:BODY_17:BODY_2:BODY_4:BODY_7|0
+example|NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_8:BODY_9|0
+the node set|DT NN NN|BODY_41:BODY_11:BODY_2:BODY_3|0
+the current hypernode|DT JJ NN|BODY_33:BODY_12:BODY_1:BODY_4:BODY_7|0
+the same type|DT JJ NN|BODY_13:BODY_2:BODY_14:BODY_9|0
+a record type|DT NN NN|BODY_11:BODY_2|0
+the hypernode repository|DT NN NN|BODY_6:BODY_11:BODY_4:BODY_7:BODY_9|0
+the following rule|DT JJ NN|BODY_6:BODY_23:BODY_14|0
+infer( p,hr )|JJ NN -RRB-|BODY_5:BODY_1:BODY_4:BODY_8|0
+a substitution q|DT NN NN|BODY_22:BODY_2|0
+the storage manager|DT NN NN|BODY_2:BODY_25|0
+the singleton set|DT JJ NN|BODY_2:BODY_7|0
+the natural numbers|DT JJ NNS|BODY_6:BODY_2:BODY_3|0
+the hyperlog evaluator|DT NN NN|BODY_2:BODY_4|0
+each x i|DT SYM NN|BODY_6|0
+a hyperlog program|DT NN NN|BODY_1:BODY_14:BODY_4|0
+the previous contents|DT JJ NNS|BODY_46:BODY_35:BODY_23:BODY_8|0
+a unique solution|DT JJ NN|BODY_6:BODY_2:BODY_8|0
+the database graph|DT NN NN|BODY_2|0
+the types airport|DT NNS NN|BODY_2|0
+a hypernode (|DT NN -LRB-|BODY_3|0
+a further hypernode|DT JJ NN|BODY_6:BODY_3|0
+the update programs|DT NN NNS|BODY_3|0
+fare and name|NN CC NN|BODY_16:BODY_7|0
+a query q|DT NN NN|BODY_16:BODY_7|0
+fix( p,hr )|JJ NN -RRB-|BODY_1:BODY_2|0
+the disjoint union|DT JJ NN|BODY_2:BODY_7|0
+a negative node|DT JJ NN|BODY_9|0
+{ { }}|NNP NNP NNP|BODY_9|0
+new primitive nodes|JJ JJ NNS|BODY_7|0
+a finite number|DT JJ NN|BODY_6:BODY_8|0
+per3 person name|RB NN NN|BODY_22|0
+a primitive type|DT JJ NN|BODY_6|0
+the same formalism|DT JJ NN|BODY_5:BODY_3|0
+a time polynomial|DT NN NN|BODY_6:BODY_5|0
+the set|DT NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_19:BODY_37:BODY_4:BODY_10:BODY_7:BODY_8|0
+the remaining types|DT VBG NNS|BODY_2|0
+other graph-based models|JJ JJ NNS|BODY_1:BODY_2:BODY_3|0
+a program p|DT NN NN|BODY_32:BODY_5|0
+the form e)|DT NN NN|BODY_3:BODY_4|0
+logic database languages|NN NN NNS|BODY_7|0
+the graphs tc|DT NNS NN|BODY_4|0
+meta data (types|NN NNS NNS|BODY_27|0
+the type route|DT NN NN|BODY_2|0
+p1 and p2|NNS CC NN|BODY_5:BODY_7|0
+these abstraction concepts|DT NN NNS|BODY_2|0
+passenger ( c.f|NN -LRB- NN|BODY_16|0
+special-purpose access methods|JJ NN NNS|BODY_7|0
+the four equations|DT CD NNS|BODY_2:BODY_3|0
+a negative (|DT JJ -LRB-|BODY_5|0
+such a set|JJ DT NN|BODY_5:BODY_2|0
+the current node|DT JJ NN|BODY_5:BODY_19:BODY_4|0
+the dynamic creation|DT JJ NN|BODY_3|0
+the node sets|DT NN NNS|BODY_6:BODY_4|0
+a positive edge|DT JJ NN|BODY_4|0
+complex objects [27]|JJ NNS NN|BODY_10|0
+a recent extension|DT JJ NN|BODY_9|0
+the terms edge|DT NNS NN|BODY_1|0
+the two paradigms|DT CD NNS|BODY_2|0
+a type t|DT NN NN|BODY_1:BODY_4|0
+each real-world object|DT NN NN|BODY_6|0
+6 2.4 expressiveness|CD CD NN|BODY_3|0
+the  source |DT NN NN|BODY_3|0
+a related set|DT JJ NN|BODY_2|0
+a goto statement|DT NN NN|BODY_4|0
+the current state|DT JJ NN|BODY_13|0
+the type flight_bookings_schema|DT NN NN|BODY_3|0
+the greater relation|DT JJR NN|BODY_5:BODY_9|0
+the graph ticket|DT NN NN|BODY_3|0
+the types date|DT NNS NN|BODY_3|0
+six further types|CD JJ NNS|BODY_2|0
+the empty set|DT JJ NN|BODY_7|0
+the above types|DT JJ NNS|BODY_3:BODY_7|0
+greater y numbers|JJR NN NNS|BODY_1:BODY_3|0
+( n+,e+ )|-LRB- NN -RRB-|BODY_4|0
+the database independent|DT NN JJ|BODY_5|0
+a query language|DT NN NN|BODY_2:BODY_1|0
+jill  surname |RB NN JJ|BODY_20|0
+a run-time error|DT NN NN|BODY_2|0
+label seq steps|NN VBN NNS|BODY_4|0
+a distinguished hypernode|DT JJ NN|BODY_4|0
+all transitive dependents|DT JJ NNS|BODY_3:BODY_8|0
+the new time|DT JJ NN|BODY_8|0
+a hypergraph-based model|DT JJ NN|BODY_2|0
+all these models|PDT DT NNS|BODY_3|0
+airline and airport|NN CC NN|BODY_4|0
+the set tp|DT NN NN|BODY_4|0
+whose attribute values|WP$ NN NNS|BODY_3|0
+each object store|DT NN NN|BODY_5:BODY_1|0
+(typically text )|RB NN -RRB-|BODY_7|0
+per1 and per2|NNS CC NNS|BODY_4|0
+the arithmetic functions|DT JJ NNS|BODY_3|0
+a directed graph|DT VBN NN|BODY_3:BODY_4|0
+object-oriented programming [32|JJ NN NNS|BODY_11|0
+a 2 ,|DT CD ,|BODY_7|0
+the type tags|DT NN NNS|BODY_1:BODY_2|0
+the declarative querying|DT JJ NN|BODY_4|0
+its uniform storage|PRP$ JJ NN|BODY_25|0
+positive  edges|JJ NN NNS|BODY_2|0
+the four queries|DT CD NNS|BODY_6|0
+two disjoint sets|CD JJ NNS|BODY_5:BODY_4|0
+the type t|DT NN IN|BODY_14|0
+each natural number|DT JJ NN|BODY_6:BODY_10|0
+a query session|DT NN NN|BODY_3|0
+each inference step|DT NN NN|BODY_3|0
+fig . 9|NN . CD|BODY_1|0
+the hypernode project|DT NN NN|BODY_1|0
+the resulting hypergraph|DT VBG NN|BODY_1|0
+these query graphs|DT NN NNS|BODY_1|0
+trans_deps trans_deps fig|NNS NNS NN|BODY_1|0
+two object stores|CD NN NNS|BODY_1|0
+types and programs|NNS CC NNS|BODY_3|0
+partially typed graphs|RB VBN NNS|BODY_7|0
+the only problem|DT JJ NN|BODY_9|0
+the entity-relationship model|DT NN NN|BODY_7|0
+appropriate primitive types|JJ JJ NNS|BODY_3|0
+our hypernode dbms|PRP$ NN NNS|BODY_2|0
+good or graphlog|JJ CC NN|BODY_6|0
+a graph-based approach|DT JJ NN|BODY_4|0
+a herbrand universe|DT NN NN|BODY_4|0
+a relation type|DT NN NN|BODY_3|0
+the set p|DT NN NN|BODY_2|0
+the database hypergraph|DT NN NN|BODY_2|0
+{10,x nat }|CD JJ NN|BODY_18|0
+representation and computation|NN CC NN|BODY_6|0
+( e .g|-LRB- NN NN|BODY_4|0
+positive  nodes|JJ NN NNS|BODY_2|0
+some old time|DT JJ NN|BODY_12|0
+both database browsing|DT NN NN|BODY_2|0
+the types rf|DT NNS NN|BODY_4|0
+a rule-based language|DT JJ NN|BODY_2:BODY_10|0
+a two-year project|DT JJ NN|BODY_6|0
+the seq hypernode|DT NN NN|BODY_6|0
+the maximum size|DT JJ NN|BODY_10|0
+the source node|DT NN NN|BODY_4|0
+new primitive types|JJ JJ NNS|BODY_3|0
+a positive query|DT JJ NN|BODY_2|0
+a detailed description|DT JJ NN|BODY_24|0
+its inherent support|PRP$ JJ NN|BODY_11|0
+negative constant nodes|JJ JJ NNS|BODY_11|0
+the time_of_dep attribute|DT NN NN|BODY_3|0
+a n (|DT RB -LRB-|BODY_8|0
+r( u(hr) )|JJ NN -RRB-|BODY_20|0
+nodes and edges|NNS CC NNS|BODY_8|0
+our own approach|PRP$ JJ NN|BODY_4|0
+a mapping type|DT NN NN|BODY_5|0
+the fixpoint computation|DT NN NN|BODY_5|0
+this update program|DT NN NN|BODY_3|0
+the old time|DT JJ NN|BODY_4|0
+the destination node|DT NN NN|BODY_6|0
+each isomorphism r|DT NN NN|BODY_13|0
+our final program|PRP$ JJ NN|BODY_6|0
+an extended example|DT VBN NN|BODY_5:BODY_4|0
+an uppercase letter|DT JJ NN|BODY_11:BODY_5|0
+the physical level|DT JJ NN|BODY_10|0
+the equation e)q|DT NN NN|BODY_4|0
+set types )|NN NNS -RRB-|BODY_10|0
+a rule q|DT NN NN|BODY_26:BODY_1:BODY_8|0
+the first version|DT JJ NN|BODY_4|0
+an object identity|DT NN NN|BODY_17|0
+a distinct variable|DT JJ JJ|BODY_7|0
+any variable appearing|DT JJ VBG|BODY_7|0
+{10- / x}|NNP NNP NNP|BODY_19|0
+these new equations|DT JJ NNS|BODY_3|0
+the intended type|DT JJ NN|BODY_20|0
+the primitive constants|DT JJ NNS|BODY_7|0
+this construction differs|DT NN NNS|BODY_2|0
+each c i|DT NN NN|BODY_9|0
+an arbitrary one|DT JJ CD|BODY_11|0
+this recent work|DT JJ NN|BODY_3|0
+mappings ( c.f|NNS -LRB- NN|BODY_13|0
+the usual idea|DT JJ NN|BODY_3|0
+the type information|DT NN NN|BODY_6|0
+all the nodes|PDT DT NNS|BODY_40|0
+the goto statement|DT NN NN|BODY_4|0
+the same label|DT JJ NN|BODY_5|0
+q 0 q|NN CD NN|BODY_9|0
+( h2 )|-LRB- NN -RRB-|BODY_22|0
+the homomorphism f|DT NN NN|BODY_5|0
+a query e)|DT NN NN|BODY_3|0
+the notation n|DT NN NN|BODY_2|0
+the updates (|DT NNS -LRB-|BODY_4|0
+the four operators|DT CD NNS|BODY_5|0
+the navigational functions|DT JJ NNS|BODY_1|0
+'s instance graph|POS NN NN|BODY_5|0
+some n i|DT RB FW|BODY_8|0
+1 -n 2|CD NN CD|BODY_3|0
+a necessary consequence|DT JJ NN|BODY_13|0
+the sets hyp(n1|DT NNS NNS|BODY_15|0
+inst( tr )|JJ NN -RRB-|BODY_4|0
+each a i|DT DT NN|BODY_10|0
+no two equations|DT CD NNS|BODY_20|0
+operation ( ii|NN -LRB- NNS|BODY_1|0
+the former support|DT JJ NN|BODY_1|0
+a brief discussion|DT JJ NN|BODY_3|0
+the resulting repository|DT VBG NN|BODY_8|0
+( n 1|-LRB- NN CD|BODY_4|0
+a node n|DT NN NN|BODY_3|0
+a hypernode cur_up|DT NN NN|BODY_31|0
+the specific node|DT JJ NN|BODY_6|0
+browsing and querying|NN CC NN|BODY_5:BODY_8|0
+the greater mapping|DT JJR NN|BODY_22|0
+'s schema graphs|POS NN NNS|BODY_2|0
+the following program|DT VBG NN|BODY_2|0
+2- column tables|CD NN NNS|BODY_5|0
+a hybrid model|DT JJ NN|BODY_7|0
+the type nat|DT NN NN|BODY_2|0
+the mapping trans_deps|DT NN NNS|BODY_11|0
+c ad infinitum|NN NN NN|BODY_3|0
+the main features|DT JJ NNS|BODY_2|0
+passengers and places|NNS CC NNS|BODY_4:BODY_9|0
+the attribute types|DT NN NNS|BODY_3|0
+a distinct element|DT JJ NN|BODY_10|0
+graphs or hypergraphs|NNS CC NNS|BODY_1|0
+their own right|PRP$ JJ NN|BODY_6|0
+the meta data|DT NN NNS|BODY_4|0
+any null value|DT JJ NN|BODY_6|0
+condition ( iv)|NN -LRB- NN|BODY_1|0
+every type t|DT NN NN|BODY_2|0
+some specific instances|DT JJ NNS|BODY_2|0
+any non-zero element|DT JJ NN|BODY_9|0
+this negative result|DT JJ NN|BODY_9|0
+the element 0|DT NN CD|BODY_3|0
+the set p.|DT NN NN|BODY_8|0
+all the hypernodes|PDT DT NNS|BODY_32|0
+european and american|JJ CC JJ|BODY_1|0
+other non-monotonic formalisms|JJ JJ NNS|BODY_7|0
+a specific node|DT JJ NN|BODY_13|0
+a repository hr|DT NN NN|BODY_3|0
+primitive or otherwise|JJ CC RB|BODY_3|0
+one primitive node|CD JJ NN|BODY_2|0
+hr or hr-|NN CC NNS|BODY_5|0
+( t4 )|-LRB- NN -RRB-|BODY_4|0
+successive natural numbers|JJ JJ NNS|BODY_5|0
+efficiently three operations|RB CD NNS|BODY_6|0
+the only way|DT JJ NN|BODY_7|0
+'s rule-based updates|POS JJ NNS|BODY_3|0
+a declarative query|DT NN NN|BODY_6|0
+a lowercase letter|DT JJ NN|BODY_5:BODY_8|0
+simply hyp( g|RB JJ NN|BODY_6|0
+many inter-connected nodes|JJ JJ NNS|BODY_6|0
+the annotation information|DT NN NN|BODY_8|0
+all hypernode repositories|DT NN NNS|BODY_4|0
+the following conditions|DT VBG NNS|BODY_14|0
+a ) fix|DT -RRB- NN|BODY_8|0
+its formal foundation|PRP$ JJ NN|BODY_3|0
+newly generated labels|RB VBN NNS|BODY_23|0
+a non-printable entity|DT JJ NN|BODY_4|0
+conditions ( t3|NNS -LRB- NNS|BODY_3|0
+the index manager|DT NN NN|BODY_5|0
+each such forest|DT JJ NN|BODY_1|0
+all smaller natural|DT JJR JJ|BODY_11|0
+so unstructured text|RB JJ NN|BODY_7|0
+a label table|DT NN NN|BODY_2|0
+a counter ctr1|DT NN NN|BODY_13|0
+3.7 using hyperlog|CD VBG NN|BODY_1|0
+only the structure|RB DT NN|BODY_7|0
+tl , such|JJ , JJ|BODY_16|0
+right hand side|JJ NN NN|BODY_8|0
+'s transformation language|POS NN NN|BODY_3|0
+the computational completeness|DT JJ NN|BODY_2|0
+the reasonable assumption|DT JJ NN|BODY_2|0
+a primitive node|DT JJ NN|BODY_11|0
+each positive variable|DT JJ NN|BODY_9|0
+the following rules|DT JJ NNS|BODY_17|0
+a further example|DT JJ NN|BODY_1|0
+relations natur- ally|NNS NNS NN|BODY_3|0
+semi-naive evaluation [35]|JJ NN JJ|BODY_8|0
+the general case|DT JJ NN|BODY_3|0
+the representational expressiveness|DT JJ NN|BODY_3|0
+the counter ctr|DT NN NN|BODY_6|0
+left hand side|JJ NN NN|BODY_4|0
+arbitrarily complex objects|RB JJ NNS|BODY_7|0
+p1,p2,n1 and n2|NNS CC NNS|BODY_4|0
+the corresponding graphs|DT JJ NNS|BODY_3|0
+y greater z|NN JJR FW|BODY_2|0
+new ( ii|JJ -LRB- NNS|BODY_6|0
+the following routes|DT JJ NNS|BODY_3|0
+a hypertext database|DT NN NN|BODY_6|0
+a hypernode old|DT NN JJ|BODY_2|0
+the program p.|DT NN NN|BODY_4|0
+a parent graph|DT NN NN|BODY_7:BODY_9|0
+null( t )|JJ NN -RRB-|BODY_9|0
+a large number|DT JJ NN|BODY_5|0
+an exponential number|DT JJ NN|BODY_6|0
+its intended type|PRP$ JJ NN|BODY_26|0
+type ( m,f)|NN -LRB- NN|BODY_6|0
+a type repository|DT NN NN|BODY_3:BODY_4|0
+our graphical representations|PRP$ JJ NNS|BODY_2|0
+complex systems [19]|JJ NNS NN|BODY_9|0
+a repeated matching|DT VBN NN|BODY_3|0
+figure 18 )|NN CD -RRB-|BODY_12|0
+conventional data models|JJ NNS NNS|BODY_4|0
+the appropriate type|DT JJ NN|BODY_14:BODY_7|0
+a new set|DT JJ NN|BODY_8|0
+a hyperlog rule|DT NN NN|BODY_6|0
+a hypernode cur_in|DT NN NN|BODY_17|0
+a hypernode cur_out|DT NN NN|BODY_2|0
+the graphical representation|DT JJ NN|BODY_5|0
+hypernodes and repositories|NNS CC NNS|BODY_2|0
+such values types|JJ NNS NNS|BODY_2|0
+the more variables|DT JJR NNS|BODY_2|0
+nodes and relationships|NNS CC NNS|BODY_3|0
+a counter program|DT NN NN|BODY_4|0
+a homomorphism f|DT NN NN|BODY_8|0
+a hypernode database|DT NN NN|BODY_2|0
+the attribute names|DT NN NNS|BODY_6|0
+distinguished constants c|JJ NNS NN|BODY_4|0
+a powerful language|DT JJ NN|BODY_4|0
+predefined browsing forwards|VBN NN NNS|BODY_4|0
+thereby implementing operation|RB VBG NN|BODY_8|0
+two binary operators|CD JJ NNS|BODY_2|0
+the multi-level nesting|DT JJ NN|BODY_2|0
+an abstraction tool|DT NN NN|BODY_3|0
+an initial set|DT JJ NN|BODY_4|0
+a labelled graph|DT JJ NN|BODY_16|0
+data modelling )|NNS JJ -RRB-|BODY_17|0
+a single graph|DT JJ NN|BODY_6|0
+the potential number|DT JJ NN|BODY_10|0
+old to new|JJ TO JJ|BODY_6|0
+the incorrectly typed|DT RB VBN|BODY_6|0
+each rule r|DT NN NN|BODY_6|0
+a special case|DT JJ NN|BODY_7|0
+all the variables|DT DT NNS|BODY_9|0
+labelled directed edges|VBN VBN NNS|BODY_3|0
+condition h2 corresponds|NN NN NNS|BODY_1|0
+any exising equation|DT JJ NN|BODY_4|0
+a typical instance|DT JJ NN|BODY_1|0
+the physical addresses|DT JJ NNS|BODY_5|0
+each match q|DT NN NN|BODY_2|0
+each hyperlog rule|DT NN NN|BODY_1|0
+nodes and e|NNS CC NN|BODY_8|0
+the rule body|DT NN NN|BODY_6|0
+this solution assigns|DT NN NNS|BODY_1|0
+a repository )|DT NN -RRB-|BODY_16|0
+arbitrarily many times|RB JJ NNS|BODY_5|0
+a similar label|DT JJ NN|BODY_8|0
+a further feature|DT JJ NN|BODY_1|0
+the label numbers|DT NN NNS|BODY_5|0
+the latter facility|DT JJ NN|BODY_1|0
+these derived tuples|DT VBN NNS|BODY_1|0
+the new repository|DT JJ NN|BODY_6|0
+2 e 2|CD NN CD|BODY_11|0
+the edge information|DT NN NN|BODY_1|0
+negative  nodes|JJ NN NNS|BODY_3|0
+the types airlines|DT NNS NNS|BODY_1|0
+the passenger-ticket relationship|DT NN NN|BODY_7|0
+the mapping )|DT NN -RRB-|BODY_17|0
+the current step.|DT JJ NN|BODY_7|0
+the underlying relation|DT JJ NN|BODY_4|0
+( iv) fc|-LRB- NN NN|BODY_1|0
+computations and updates|NNS CC NNS|BODY_7|0
+a bipartite graph|DT JJ NN|BODY_3|0
+set( t )|NN NN -RRB-|BODY_4|0
+such an integration|DT DT NN|BODY_5|0
+general-purpose declarative querying|JJ NN NN|BODY_3|0
+a uniform storage|DT JJ NN|BODY_1|0
+a common node|DT JJ NN|BODY_6|0
+negative  edges|JJ NN NNS|BODY_4|0
+a real-world entity|DT NN NN|BODY_7|0
+the current step|DT JJ NN|BODY_1|0
+the types flight|DT NNS NN|BODY_1|0
+no more updates|DT JJR NNS|BODY_7|0
+the program p|DT NN NN|BODY_5|0
+good embeds semantics|JJ NNS NNS|BODY_1|0
+section 3.3 below|NN CD IN|BODY_5|0
+the set c|DT NN NN|BODY_1|0
+so matching queries|RB JJ NNS|BODY_6|0
+the component types|DT NN NNS|BODY_1|0
+parametrised hyperlog programs|JJ NN NNS|BODY_4|0
+the key innovations|DT JJ NNS|BODY_1|0
+the example schema|DT NN NN|BODY_2|0
+any finite depth|DT JJ NN|BODY_3|0
+a clear way|DT JJ NN|BODY_8|0
+some well-defined domain|DT JJ NN|BODY_11|0
+the above rule|DT JJ NN|BODY_1|0
+x and y|SYM CC NN|BODY_3|0
+the program deps_prog|DT NN NN|BODY_1|0
+a further operator|DT JJ NN|BODY_1|0
+object-oriented databases )|JJ NNS -RRB-|BODY_23|0
+a declarative semantics|DT NN NNS|BODY_13|0
+a prototype implementation|DT NN NN|BODY_3|0
+good and graphlog|JJ CC NN|BODY_1|0
+some hypernode programs|DT NN NNS|BODY_12|0
+the above definition|DT JJ NN|BODY_2|0
+the above equality|DT JJ NN|BODY_1|0
+the latter solution|DT JJ NN|BODY_3|0
+the present paper|DT JJ NN|BODY_1|0
+the previous research|DT JJ NN|BODY_1|0
+the terms graph|DT NNS NN|BODY_3|0
+these graphs queries|DT NNS NNS|BODY_2|0
+this matching process|DT JJ NN|BODY_1|0
+the repository [15]|DT NN NN|BODY_11|0
+alternative  trails |JJ JJ NNS|BODY_2|0
+further primitive operators|JJ JJ NNS|BODY_4|0
+their associated hypernodes|PRP$ JJ NNS|BODY_5|0
+the fixpoint semantics|DT JJ NNS|BODY_1|0
+the update completeness|DT NN NN|BODY_1|0
+this unique feature|DT JJ NN|BODY_1|0
+a priori type-incorrect|DT JJ NN|BODY_7|0
+computationally complete [18]|RB JJ NN|BODY_7|0
+the update program|DT NN NN|BODY_5|0
+a fixpoint operator|DT NN NN|BODY_5|0
+the current context|DT JJ NN|BODY_1|0
+page-oriented hypertext databases|JJ NN NNS|BODY_3|0
+a non-well-founded set|DT JJ NN|BODY_5|0
+two main reasons|CD JJ NNS|BODY_4|0
+figure 13 )|NN CD -RRB-|BODY_8|0
+a variable label|DT JJ NN|BODY_15|0
+type t )|NN NN -RRB-|BODY_10|0
+its node set|PRP$ NN NN|BODY_5|0
+general np-complete theorem|JJ JJ NN|BODY_6|0
+the following theorem|DT VBG NN|BODY_1|0
+repositories and hypernodes|NNS CC NNS|BODY_5|0
+previous examples )|JJ NNS -RRB-|BODY_8|0
+that|WDT|BODY_6:BODY_5:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0

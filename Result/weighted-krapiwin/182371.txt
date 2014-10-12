@@ -1,0 +1,511 @@
+measure|NN|BODY_6:BODY_12:BODY_5:TITLE_1:BODY_3:BODY_4|0
+that|IN|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:ABSTRACT_12:BODY_20:BODY_9|4
+it|PRP|BODY_5:BODY_15:BODY_13:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_7:BODY_9|2
+np|JJ|BODY_15:ABSTRACT_13:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_4:BODY_1:ABSTRACT_7:BODY_10:BODY_19:BODY_7:BODY_8|3
+this|DT|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4|1
+languages|NNS|BODY_5:ABSTRACT_11:BODY_3:BODY_24:BODY_4:BODY_8|0
+e|NN|BODY_5:BODY_11:ABSTRACT_5:BODY_26:ABSTRACT_8:BODY_2:BODY_24:BODY_4:BODY_7:BODY_8|2
+measure 0|NN CD|ABSTRACT_4:BODY_27:BODY_25:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|4
+this paper|DT NN|ABSTRACT_2:BODY_1:BODY_2:BODY_4|1
+almost every language|RB DT NN|BODY_6:ABSTRACT_4:BODY_13:BODY_2:BODY_10:BODY_7|0
+the proof|DT NN|BODY_5:BODY_2:BODY_1:ABSTRACT_1:BODY_10:BODY_9|0
+the main theorem|DT JJ NN|BODY_5:ABSTRACT_2:BODY_2:BODY_3:ABSTRACT_1|0
+-hard language|JJ NN|ABSTRACT_6:ABSTRACT_4:BODY_18:BODY_2:BODY_3:ABSTRACT_7:BODY_7:ABSTRACT_12|1
+)|-RRB-|BODY_5:BODY_2:BODY_4:BODY_8:ABSTRACT_10|0
+feasible deterministic algorithms|JJ JJ NNS|BODY_12:ABSTRACT_6|0
+the sparseness criterion|DT NN NN|BODY_6:ABSTRACT_4:BODY_4|0
+the combinatorial technique|DT JJ NN|BODY_2:ABSTRACT_1|0
+linear nonuniform advice|NN NN NN|BODY_13:ABSTRACT_7|0
+i .e|FW FW|BODY_5:BODY_14:BODY_3:BODY_4:ABSTRACT_9|0
+every real $ \alpha<1$|DT JJ $ CD|ABSTRACT_7|1
+n= 6 >{ \alpha}|NN CD NN NN|ABSTRACT_2|0
+8 >{ p}_ {(|CD NN NN NN|ABSTRACT_5|0
+the hypothesis $ \p\ne\np$|DT NN $ JJ|ABSTRACT_3|0
+n=15 >{ p}_{n<s|CD JJ NNS|ABSTRACT_9|1
+the stronger conclusion|DT JJR NN|ABSTRACT_6|1
+a stronger hypothesis---namely|DT JJR NN|ABSTRACT_2|1
+this stronger hypothesis|DT JJR NN|ABSTRACT_2|0
+'s 1987 result|POS CD NN|ABSTRACT_3|0
+every $ \leq<s|DT $ JJ|ABSTRACT_4|0
+3 >{ \alpha}|CD NN NN|ABSTRACT_9|0
+n=12 >{ p}_{btt|CD JJ NN|ABSTRACT_5|0
+$ \alpha=0.99$ )|$ JJ -RRB-|ABSTRACT_4|0
+we|PRP|BODY_12:BODY_18:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_12:BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+a|DT|BODY_12:BODY_21:BODY_13:BODY_2:BODY_3:BODY_4:BODY_33:BODY_5:BODY_1:BODY_10:BODY_7:BODY_20:BODY_9|1
+.e|NN|BODY_6:BODY_5:BODY_11:BODY_15:BODY_23:BODY_4:BODY_7:BODY_8:BODY_9|1
+q k|NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|0
+1g|CD|BODY_12:BODY_6:BODY_5:BODY_18:BODY_13:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_11:BODY_2:BODY_4:BODY_7:BODY_30:BODY_8:BODY_9|1
+r( p i )|NN NN NN -RRB-|BODY_11:BODY_3:BODY_7|1
+-ideal , i .e|JJ , NN FW|BODY_12|1
+the measure conservation theorem|DT NN NN NN|BODY_19|1
+karp and lipton [11]|NN CC NN NNS|BODY_1|1
+the past 15 years|DT JJ CD NNS|BODY_6|1
+theorems 1.3 and 1.4|DT CD CC CD|BODY_6|1
+the hypothesis and conclusion|DT NN CC NN|BODY_8|1
+e and e 2|NN CC NN CD|BODY_6:BODY_3:BODY_4|0
+the set|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the weak stochasticity theorem|DT JJ NN NN|BODY_6:BODY_2:BODY_3:BODY_7|0
+x|NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+b|NN|BODY_6:BODY_11:BODY_31:BODY_5:BODY_2:BODY_10:BODY_4|0
+k|NN|BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+a language|DT NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_3:BODY_10:BODY_20|1
+a negligibly small subset|DT RB JJ NN|BODY_5:BODY_7:BODY_8|0
+our main theorem yields|PRP$ JJ NN NNS|BODY_2|0
+the consequences and reasonableness|DT NNS CC NN|BODY_2|0
+theorems 4.3 and 1.2|DT CD CC CD|BODY_3|0
+a density function d|DT NN NN NN|BODY_2|0
+;j;k z2f0 ;1g -cn|NNP CD NN NN|BODY_4:BODY_8|0
+the set p n|DT VBN NN NN|BODY_6:BODY_2|0
+other classes and reducibilities|JJ NNS CC NNS|BODY_4|0
+( algorithm ) oe|-LRB- NN -RRB- NN|BODY_7|0
+any a priori reason|DT DT JJ NN|BODY_6:BODY_2:BODY_8|0
+a measure 0 subset|DT NN CD NN|BODY_3:BODY_9|0
+a fixed betting strategy|DT VBN VBG NN|BODY_6|0
+the advice function h|DT NN NN NN|BODY_2|0
+n 3 \theta f0|NN CD NN CD|BODY_4|0
+all sufficiently large n|DT RB JJ NN|BODY_4|0
+a suitable binary encoding|DT JJ JJ NN|BODY_5|0
+property ( i )|NN -LRB- FW -RRB-|BODY_2|0
+capital ( money )|NN -LRB- NN -RRB-|BODY_5|0
+a q-truth table function|DT NN NN NN|BODY_1:BODY_8|0
+the polynomial time hierarchy|DT NN NN NN|BODY_3|0
+an js k j|DT JJ NN NN|BODY_2|0
+most frequent query selection|RBS JJ NN NN|BODY_3|0
+the resource-bounded measure theory|DT JJ NN NN|BODY_2|0
+jc =n j -(n|JJ NN NN NN|BODY_25|0
+a function q adv(q|DT NN NN NN|BODY_3|0
+the membership or nonmembership|DT NN CC NN|BODY_4|0
+dense , i .e|JJ , FW FW|BODY_3|0
+a p-computable 2-ds such|DT JJ JJ JJ|BODY_2|0
+all n 2 n.|DT NN CD NN|BODY_5:BODY_10|0
+all x 2 f0|DT NN CD CD|BODY_6:BODY_17|0
+all c 2 dtime(t|DT NN CD NN|BODY_24|0
+the strategy oe bets|DT NN NN NNS|BODY_3|0
+the unique language r(ffi)|DT JJ NN NN|BODY_7|0
+its characteristic sequence -a|PRP$ JJ NN NN|BODY_6:BODY_4|0
+fi fi fi b|JJ JJ JJ NN|BODY_4|0
+an advice function h|DT NN NN NN|BODY_13:BODY_8|0
+n 0 , 2|NN CD , CD|BODY_4|0
+the string w i|DT NN NN NN|BODY_4|0
+( 1.4 ) if|-LRB- CD -RRB- IN|BODY_6|0
+the resulting existence proof|DT VBG NN NN|BODY_5|0
+q\gammatt ( truth-table reducibility|NN -LRB- JJ NN|BODY_13|0
+a general-purpose randomness property |DT JJ NN NN|BODY_2|0
+the main technical content|DT JJ JJ NN|BODY_2|0
+the classes p i|DT NNS NN NN|BODY_5|0
+a 62 ws 3|DT CD NN CD|BODY_15:BODY_3|0
+low space-bounded kolmogorov complexity|JJ JJ NN NN|BODY_7|0
+the following sufficient condition|DT VBG JJ NN|BODY_2|0
+the internal measure structures|DT JJ NN NNS|BODY_2|0
+the strategy oe computes|DT NN NN NNS|BODY_2|0
+the following special case|DT VBG JJ NN|BODY_4|0
+a fixed polynomial q|DT VBN NN NN|BODY_3|0
+jh( n ) j|JJ NN -RRB- NN|BODY_7|0
+some fixed dtime( 2|DT VBN NN CD|BODY_8|0
+a very general theory|DT RB JJ NN|BODY_6|0
+4.3 above , every|CD IN , DT|BODY_23|0
+a straightforward , au|DT NN , NN|BODY_4|0
+the present paper shows|DT JJ NN NNS|BODY_3|0
+( turing reducibility )|-LRB- VBG NN -RRB-|BODY_10|0
+n n \theta f0|NN NN NN CD|BODY_4|0
+a stronger stochasticity property|DT JJR NN NN|BODY_3|0
+the singleton set fag|DT JJ NN NN|BODY_11|0
+1 ( x )|CD -LRB- NN -RRB-|BODY_4|0
+at most 2 n|IN JJS CD RB|BODY_3|0
+the truth table reducibility|DT NN NN NN|BODY_3|0
+not / all languages|RB NN DT NNS|BODY_8|0
+weak stochasticity theorems )|JJ NN NNS -RRB-|BODY_10|0
+the above coin-tossing experiment|DT JJ JJ NN|BODY_8|0
+w i 62 l|NN NN CD NN|BODY_7|0
+a general-purpose randomness property|DT JJ NN NN|BODY_4|0
+each j 2 n|DT NN CD NN|BODY_7|0
+( sparse) :theorem 1.3|-LRB- NNS NN CD|BODY_2|0
+all infinite binary sequences|DT JJ JJ NNS|BODY_4|0
+a very general result|DT RB JJ NN|BODY_3|0
+the following two properties|DT VBG CD NNS|BODY_17:BODY_4|0
+a simple combinatorial proof|DT NN JJ NN|BODY_3|0
+all a 2 np|DT DT CD NN|BODY_4|0
+such a strategy oe|PDT DT NN NN|BODY_3|0
+some fixed polynomial r|DT VBN NN NN|BODY_4|0
+a p-computable 3-ds d|DT JJ JJ NN|BODY_16|0
+at most 1r rows|IN JJS JJ NNS|BODY_5|0
+all n 2 n|DT RB CD RB|BODY_10|0
+some general-purpose randomness properties|DT JJ NN NNS|BODY_7|0
+all ( writing whence|DT -LRB- NN NN|BODY_7|0
+each a ' f0|DT DT `` NN|BODY_5|0
+e 2 ( np|NN CD -LRB- NN|BODY_4|0
+y z2f0 ;1g -cn|RB CD JJ NN|BODY_4|0
+n 2 \theta f0|NN CD NN NN|BODY_11|0
+no sparse language m|DT JJ NN NN|BODY_3|0
+exponential time complexity classes|JJ NN NN NNS|BODY_5|0
+q\gammatt -reduction ( f|NN NN -LRB- NN|BODY_14|0
+each x 2 f0|DT NN CD CD|BODY_5|0
+( exponentially ) dense|-LRB- RB -RRB- JJ|BODY_13|0
+( polynomially ) sparse|-LRB- RB -RRB- NN|BODY_3|0
+all w 2 f0|DT NN CD CD|BODY_5|0
+a 2 e 2|DT CD NN CD|BODY_7|0
+the qualitative separation result|DT JJ NN NN|BODY_6|0
+1 ) as follows|CD -RRB- IN VBZ|BODY_6|0
+ measure 0 subset |WDT NN CD NN|BODY_1|0
+espace=dspace( 2 linear )|NN CD NN -RRB-|BODY_9|0
+the successive strings a.|DT JJ NNS NN|BODY_5|0
+theorems 1.1 and 1.2|DT CD CC CD|BODY_6|0
+\gammatt ( dense c|NN -LRB- JJ NN|BODY_7|0
+np 6' p n|NN JJ NN NN|BODY_5|0
+all n 2 k|DT NN CD NN|BODY_7|0
+1g q( jxj )|CD NN NN -RRB-|BODY_7|0
+the dyadic rational r|DT JJ JJ NN|BODY_6|0
+independent 0-1-valued random variables|JJ JJ JJ NNS|BODY_1|0
+2. using lemma 3.1|DT VBG NN CD|BODY_1|0
+the following lemma captures|DT VBG NN NNS|BODY_1|0
+any larger class )|DT JJR NN -RRB-|BODY_4|0
+high space-bounded kolmogorov complexity|JJ JJ NN NN|BODY_1|0
+1.3 and 1.4 above|CD CC CD IN|BODY_5|0
+ p 6= np|NNP NN NN NN|BODY_7|0
+lemmas 3.3 and 3.2.|NN CD CC CD|BODY_4|0
+the matrix q k|DT NN NN NN|BODY_9|0
+-(npje ) 6= 0|NNP -RRB- CD CD|BODY_1|0
+more discussion and examples|JJR NN CC NNS|BODY_4|0
+the following three components|DT VBG CD NNS|BODY_4|0
+a real number ffl|DT JJ NN NN|BODY_17|0
+a j;k 2 [0|DT NN CD CD|BODY_1|0
+all j 2 n.|DT NN CD NN|BODY_6|0
+the following separation result|DT VBG NN NN|BODY_3|0
+e [15 , 16]|NN CD , CD|BODY_6|0
+general theorems concerning measure|JJ NNS VBG NN|BODY_5|0
+the function xi )|DT NN NN -RRB-|BODY_4|0
+a very remarkable algorithm|DT RB JJ NN|BODY_3|0
+a complexity class c|DT NN NN NN|BODY_5|0
+( mahaney [19] )|-LRB- NN NN -RRB-|BODY_1|0
+( meyer [21] )|-LRB- NN NN -RRB-|BODY_1|0
+2 our main results|CD PRP$ JJ NNS|BODY_1|0
+every real ff proof|DT JJ NN NN|BODY_1|0
+every real number ff|DT JJ NN NN|BODY_1|0
+lemma 2.1.[4 , 7]|NN CD , CD|BODY_1|0
+some terminology and notation|DT NN CC NN|BODY_1|0
+1g 1|CD CD|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+a 2 e|DT CD NN|BODY_6:BODY_3|1
+several significant results|JJ JJ NNS|BODY_4|1
+the measure-theoretic hypotheses|DT JJ NNS|BODY_6|1
+a stronger conclusion|DT JJR NN|BODY_4|1
+pp , pspace|RP , NN|BODY_21|1
+the density criterion|DT NN NN|BODY_2|1
+this general method|DT JJ NN|BODY_2|1
+( countable unions|-LRB- NN NNS|BODY_15|1
+a  p|DT JJ JJ|BODY_11|1
+the first question|DT JJ NN|BODY_2|1
+the following sense|DT JJ NN|BODY_4:BODY_7|1
+a density function|DT NN NN|BODY_2:BODY_1:BODY_4|0
+-measure 0 sets|JJ CD NNS|BODY_5|1
+a proper ideal|DT JJ JJ|BODY_22|1
+( 3.1 )|-LRB- CD -RRB-|BODY_4|1
+the ongoing investigation|DT JJ NN|BODY_1|1
+any other class|DT JJ NN|BODY_22|1
+an important feature|DT JJ NN|BODY_1|1
+all density functions|DT NN NNS|BODY_1|1
+our proof|PRP$ NN|BODY_6:BODY_1:BODY_14:BODY_3|1
+2|LS|BODY_5:BODY_1:BODY_3:BODY_4|0
+our main theorem|PRP$ JJ NN|BODY_1:BODY_2:BODY_3|0
+e 2|NN CD|BODY_6:BODY_28:BODY_10:BODY_8:BODY_9|1
+every language|DT NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+an n-ds d|DT JJ NN|BODY_2|0
+the form|DT NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+( 1.1 )|-LRB- CD -RRB-|BODY_5:BODY_2:BODY_3|0
+a ' f0|DT `` NN|BODY_12:BODY_11:BODY_4|0
+(|-LRB-|BODY_6:BODY_5:BODY_1:BODY_3|0
+[15 ]|CD NN|BODY_3:BODY_4:BODY_20|1
+every real ff|DT JJ NN|BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a set x|DT NN NN|BODY_6:BODY_2:BODY_1|0
+our main result|PRP$ JJ NN|BODY_6:BODY_11:BODY_3|0
+1|CD|BODY_16:BODY_1:BODY_4|1
+classical lebesgue measure|JJ NN NN|BODY_4:BODY_8|0
+the probabilistic method|DT NN NN|BODY_3:BODY_9|0
+the measure structure|DT NN NN|BODY_4:BODY_9|0
+( 3.2 )|-LRB- CD -RRB-|BODY_3|0
+mundhenk [2 ]|JJ NN NNS|BODY_3|0
+a null cover|DT JJ NN|BODY_2:BODY_1:BODY_3:BODY_10|0
+( x )|-LRB- NN -RRB-|BODY_6:BODY_9|0
+a negligible subset|DT JJ NN|BODY_5:BODY_9|0
+b and c|NN CC NN|BODY_28:BODY_9|0
+e) 6= 0,|JJ JJ NN|BODY_3|0
+a fair coin|DT JJ NN|BODY_12:BODY_14:BODY_7|0
+n ) )|NN -RRB- -RRB-|BODY_3:BODY_9|0
+the class c|DT NN NN|BODY_3|0
+only a by-product|RB DT NN|BODY_4|0
+qualitative separation results|JJ NN NNS|BODY_2|0
+the above definition|DT JJ NN|BODY_4|0
+a polynomial p|DT NN NN|BODY_1:BODY_7|0
+no sparse language|DT JJ NN|BODY_2|0
+resource-bounded measure theory|JJ NN NN|BODY_2:BODY_3|0
+the characteristic string|DT JJ NN|BODY_11|0
+the polynomial-time hierarchy|DT NN NN|BODY_12:BODY_2|0
+a given type|DT VBN NN|BODY_16:BODY_13|0
+1g ! [0|. . CD|BODY_5|0
+a specific object|DT JJ NN|BODY_17:BODY_14|0
+a q( jxj)-input|DT NN NN|BODY_9|0
+successively longer prefixes|RB JJR NNS|BODY_2|0
+this paper concern|DT NN NN|BODY_2|0
+the measure conservation|DT NN NN|BODY_2:BODY_9|0
+the polynomial )|DT NN -RRB-|BODY_3|0
+'s terminology [12|POS NN NN|BODY_5|0
+a function b|DT NN NN|BODY_3|0
+2 n ffl|CD NN NN|BODY_3|0
+( 1 )|-LRB- CD -RRB-|BODY_1|0
+all our series|DT PRP$ NN|BODY_1|0
+our main results|PRP$ JJ NNS|BODY_1|0
+see section 3|VB NN CD|BODY_1|0
+the following lemma|DT VBG NN|BODY_2:BODY_1|0
+this well-known lemma|DT JJ NN|BODY_1|0
+the smfq selection|DT NN NN|BODY_3:BODY_4|0
+theorem 4.3 strengthens|NN CD NNS|BODY_2|0
+the random experiment|DT JJ NN|BODY_6:BODY_1:BODY_8|0
+a 2 y|DT CD NN|BODY_9|0
+w 2 f0|NN CD CD|BODY_6|0
+q q-query function|RB JJ NN|BODY_2|0
+the strategy oe|DT NN NN|BODY_1:BODY_4|0
+a credible state|DT JJ NN|BODY_6|0
+negligibly small subset|RB JJ NN|BODY_4:BODY_8|0
+~ k ;r|JJ NN NN|BODY_5|0
+the boolean value|DT JJ NN|BODY_21:BODY_4|0
+the quantitative structure|DT JJ NN|BODY_4|0
+infinitely many levels|RB JJ NNS|BODY_3|0
+a function h|DT NN NN|BODY_2|0
+1g -cn such|JJ JJ JJ|BODY_8|0
+a computation b|DT NN NN|BODY_3|0
+an independent toss|DT JJ NN|BODY_6:BODY_11:BODY_13|0
+n ff queries|NN JJ VBZ|BODY_5|0
+a function d|DT NN NN|BODY_1:BODY_10|0
+an enormous gap|DT JJ NN|BODY_4|0
+1g such that|CD JJ IN|BODY_5:BODY_4|0
+a function f|DT NN NN|BODY_3|0
+no such scheme|DT JJ NN|BODY_4|0
+that cover x|WDT NN NN|BODY_6:BODY_14|0
+the uniform distribution|DT JJ NN|BODY_2|0
+a guessed value |DT VBN NN|BODY_7|0
+its associated projections|PRP$ JJ NNS|BODY_9|0
+k ' f0|NN '' CD|BODY_2|0
+a constructor ffi|DT NN NN|BODY_2|0
+several open questions|JJ JJ NNS|BODY_2|0
+the corresponding result|DT JJ NN|BODY_2|0
+2 a] ]|CD JJ SYM|BODY_8|0
+all sufficiently large|DT RB JJ|BODY_26|0
+all covers x|DT NNS NN|BODY_6|0
+a polynomial notion|DT JJ NN|BODY_3|0
+truth-table reducibility )|JJ NN -RRB-|BODY_12|0
+\gammatt -hard language|DT JJ NN|BODY_6:BODY_4|0
+the set f0|DT NN NN|BODY_2|0
+the following result|DT JJ NN|BODY_3|0
+the pairing function|DT NN NN|BODY_8|0
+' p r|'' NN NN|BODY_26|0
+the msdh-diagram.ps output|DT NNS NN|BODY_22|0
+a set z|DT NN NN|BODY_2|0
+a fraction r|DT NN NN|BODY_5|0
+the successive bits|DT JJ NNS|BODY_7|0
+weak stochasticity theorems|JJ NN NNS|BODY_3|0
+their computational complexities|PRP$ JJ NNS|BODY_2|0
+the measure structures|DT NN NNS|BODY_2|0
+q( n )|JJ NN -RRB-|BODY_14|0
+a detailed account|DT JJ NN|BODY_3|0
+a such that|DT JJ IN|BODY_6|0
+its current capital|PRP$ JJ NN|BODY_8|0
+d 2 dtime(|VBN CD NN|BODY_3|0
+z 2 f0|FW CD CD|BODY_7|0
+the green string|DT JJ NN|BODY_4|0
+the string w|DT NN NN|BODY_8|0
+each x 2|DT NN CD|BODY_4|0
+the sequence f|DT NN NN|BODY_3|0
+the characteristic sequence|DT JJ NN|BODY_5|0
+weakly stochastic (|JJ JJ -LRB-|BODY_6|0
+all advice functions|DT NN NNS|BODY_5|0
+all subclasses c|DT NNS NN|BODY_4|0
+all coded pairs|DT VBD NNS|BODY_7|0
+'s capital diverges|POS NN NNS|BODY_6|0
+the condition -(np|DT NN NN|BODY_1|0
+the key idea|DT JJ NN|BODY_2|0
+the above choices|DT JJ NNS|BODY_2|0
+g( x )|JJ NN -RRB-|BODY_7|0
+p|NN|BODY_5:BODY_2:BODY_7:BODY_9|0
+a ( j|DT -LRB- NN|BODY_14|0
+jf i (|JJ NN -LRB-|BODY_2|0
+all y k|DT NN NN|BODY_5|0
+the series 1|DT NN CD|BODY_4|0
+uniformly good approximations|RB JJ NNS|BODY_11|0
+q(jwj ) steps|. -RRB- NNS|BODY_4|0
+the complement c;fl|DT NN NN|BODY_10|0
+whose special cases|WP$ JJ NNS|BODY_7|0
+the following conditions|DT VBG NNS|BODY_4|0
+the following construction|DT JJ NN|BODY_13|0
+)( w )|JJ NN -RRB-|BODY_2|0
+no green string|DT JJ NN|BODY_6|0
+'s direct proof|POS JJ NN|BODY_6:BODY_3|0
+a 2 cw|DT CD NN|BODY_5|0
+the following form|DT VBG NN|BODY_3|0
+all ( writing|DT -LRB- NN|BODY_12|0
+the successive strings|DT JJ NNS|BODY_8|0
+such a strategy|JJ DT NN|BODY_6|0
+tomatic  construction|JJ JJ NN|BODY_5|0
+the first result|DT JJ NN|BODY_6|0
+the betting progresses|DT VBG NNS|BODY_7|0
+' s[d i|POS JJ PRP|BODY_6|0
+o(log n )|NN NN -RRB-|BODY_4|0
+the conditional probabilities|DT JJ NNS|BODY_5|0
+given functions t|VBN NNS NN|BODY_17|0
+the language a=h|DT NN NN|BODY_15|0
+the polynomial-time reducibilities|DT NN NNS|BODY_9|0
+sufficient computational resources|JJ JJ NNS|BODY_10|0
+that theorem 4.4|DT NN CD|BODY_2|0
+r 2 n|NN CD NN|BODY_8|0
+a uniform enumeration |DT NN NN|BODY_2|0
+the n-fold composition|DT JJ NN|BODY_8|0
+the general principles|DT JJ NNS|BODY_2|0
+the above sense|DT JJ NN|BODY_3|0
+1g \theta f0|CD NN CD|BODY_4|0
+the class rec|DT NN NN|BODY_10|0
+all recursive languages|DT JJ NNS|BODY_11|0
+a function m|DT NN NN|BODY_4|0
+a bounded number|DT VBN NN|BODY_4|0
+the greatest number|DT JJS NN|BODY_5|0
+the set y|DT NN NN|BODY_2|0
+polynomial-time conjunctive reducibility|NN JJ NN|BODY_5|0
+this quantitative objective|DT JJ NN|BODY_5|0
+f and g|NN CC NN|BODY_9|0
+a on c=n|DT RB JJ|BODY_4|0
+a function g|DT NN NN|BODY_2|0
+the greatest integer|DT JJS NN|BODY_8|0
+a detailed verification |DT JJ NN|BODY_3|0
+( iii )|-LRB- NN -RRB-|BODY_4|0
+a sufficient condition|DT JJ NN|BODY_2|0
+the standard ordering|DT JJ NN|BODY_11|0
+our current knowledge|PRP$ JJ NN|BODY_4|0
+a good job|DT JJ NN|BODY_3|0
+the weak stochasticity |DT JJ NN|BODY_4|0
+more explanatory power|JJR NN NN|BODY_7|0
+) :theorem 1.1|-RRB- NN CD|BODY_2|0
+a string w|DT NN NN|BODY_2:BODY_1|0
+a q-query function|DT JJ NN|BODY_6|0
+such that f|PDT DT NN|BODY_5|0
+i from f0|FW IN CD|BODY_3|0
+an incorrect guess|DT JJ NN|BODY_6|0
+a uniform system|DT JJ NN|BODY_4|0
+this complexity-theoretic version|DT JJ NN|BODY_2|0
+a resource-bounded instance|DT JJ NN|BODY_6|0
+the main result|DT JJ NN|BODY_3|0
+' dtime( 2|POS NN CD|BODY_2|0
+a class c|DT NN NN|BODY_23|0
+the abundance theorem|DT NN NN|BODY_4|0
+a useful tool|DT JJ NN|BODY_3|0
+all the guesses|DT DT NNS|BODY_10|0
+-p lemma 3.3|JJ NN CD|BODY_3|0
+( ii )|-LRB- NNS -RRB-|BODY_4|0
+a measure-theoretic result|DT JJ NN|BODY_3|0
+a prediction scheme |DT NN NN|BODY_29|0
+the known implications|DT VBN NNS|BODY_4|0
+the widely-believed conjectures|DT JJ NNS|BODY_3|0
+a green string|DT JJ NN|BODY_7|0
+the following properties|DT VBG NNS|BODY_8|0
+a resource-bounded generalization|DT JJ NN|BODY_7|0
+p-random languages [17]|JJ NNS CC|BODY_14|0
+all such functions|DT JJ NNS|BODY_4|0
+a 2 dense|DT CD JJ|BODY_15|0
+a 2 sparse|DT CD NN|BODY_5|0
+an open question|DT JJ NN|BODY_2|0
+so our discussion|RB PRP$ NN|BODY_5|0
+a to b|DT TO NN|BODY_12|0
+a sequence x|DT NN NN|BODY_3:BODY_8|0
+the quantitative content|DT JJ NN|BODY_4|0
+the property (|DT NN -LRB-|BODY_4|0
+a universal function|DT JJ NN|BODY_6|0
+a 1-ds d|DT JJ NN|BODY_4|0
+the probability pr[x|DT NN NN|BODY_3|0
+the advice class|DT NN NN|BODY_19|0
+every p n|DT NN NN|BODY_3|0
+d ~ k|JJ NN NN|BODY_3|0
+the condition /|DT NN NN|BODY_5:BODY_22|0
+the standard enumeration|DT JJ NN|BODY_7|0
+four such results|CD JJ NNS|BODY_2|0
+traditional complexity-theoretic hypotheses|JJ JJ NNS|BODY_8|0
+an advice function|DT NN NN|BODY_1|0
+a polynomial g|DT NN NN|BODY_2|0
+the guessed value|DT VBN NN|BODY_1|0
+1-output boolean circuit|JJ JJ NN|BODY_10|0
+lemma 4.1 )|NN CD -RRB-|BODY_4|0
+a query-counting function|DT NN NN|BODY_1|0
+a complexity class|DT NN NN|BODY_4|0
+( 1.2 )|-LRB- CD -RRB-|BODY_4|0
+e-bi-immune languages [20]|JJ NNS CC|BODY_16|0
+each q k|DT NN NN|BODY_1|0
+weakly ( 2|RB -LRB- CD|BODY_4|0
+ \sigma p|JJ NN NN|BODY_9|0
+the actual value|DT JJ NN|BODY_1|0
+a similar status|DT JJ NN|BODY_4|0
+karp and lipton|JJ CC NN|BODY_1|0
+ogiwara and watanabe|NNP CC NN|BODY_1|0
+the primary objective|DT JJ NN|BODY_1|0
+( i )|-LRB- FW -RRB-|BODY_19|0
+( such applications|-LRB- JJ NNS|BODY_1|0
+a function ~|DT NN NN|BODY_2|0
+[x 2 a]]|NN CD NN|BODY_9|0
+a set \delta|DT NN NN|BODY_1|0
+a technical standpoint|DT JJ NN|BODY_1|0
+the empty string|DT JJ NN|BODY_3|0
+suitable parameters )|JJ NNS -RRB-|BODY_7|0
+such a result|PDT DT NN|BODY_1|0
+q 0 green|NN CD NN|BODY_4|0
+the other hand|DT JJ NN|BODY_1|0
+the global value|DT JJ NN|BODY_1|0
+the latter proof|DT JJ NN|BODY_1|0
+p 6= np|NN NN NN|BODY_1|0
+the bound 3n|DT JJ NN|BODY_5|0
+condition ( ii|NN -LRB- NNS|BODY_1|0
+-(np j e)|JJ NN NN|BODY_9|0
+all weakly languages|DT JJ NNS|BODY_4|0
+nonnegative real numbers|JJ JJ NNS|BODY_7|0
+x row x|NN NN NN|BODY_1|0
+y undefined )|RB JJ -RRB-|BODY_2|0
+the interested reader|DT JJ NN|BODY_1|0
+these three components|DT CD NNS|BODY_1|0
+np ( ff|NN -LRB- NN|BODY_25|0
+e) 6= 0|JJ JJ CD|BODY_4|0
+a thorough survey|DT JJ NN|BODY_2|0
+infinitely many n|RB JJ NN|BODY_2|0
+considerable explanatory power|JJ JJ NN|BODY_5|0
+this fortunate circumstance|DT JJ NN|BODY_1|0
+various complexity classes|JJ NN NNS|BODY_13|0
+the above definitions|DT JJ NNS|BODY_8|0
+a sequence 1|DT NN CD|BODY_1|0
+the set c.|DT NN NN|BODY_34|0
+internal measure structure|JJ NN NN|BODY_7|0
+w v x|NN NN NN|BODY_11|0
+that ( ii|DT -LRB- NNS|BODY_1|0
+a few definitions|DT JJ NNS|BODY_3|0
+just one example|RB CD NN|BODY_2|0
+state this condition|NN DT NN|BODY_1|0
+other complexity classes|JJ NN NNS|BODY_7|0
+all other rows|DT JJ NNS|BODY_11|0
+all lower levels|DT JJR NNS|BODY_6|0
+n ff and|NN NN CC|BODY_11|0
+jc =n j|JJ NN NN|BODY_16|0
+two open questions|CD JJ NNS|BODY_2|0
+1 )|CD -RRB-|BODY_5:BODY_2:BODY_1:BODY_4|0
+2 p i|CD NN NN|BODY_1|0
+c|NN|BODY_25:BODY_3:BODY_4:BODY_7|0
+a function|DT NN|BODY_2:BODY_7|0
+terms|NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+s|PRP|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+2 f0|CD CD|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+f0|CD|BODY_6:BODY_12:BODY_5:BODY_3:BODY_8:BODY_9|0
+( ii|-LRB- NNS|BODY_6:BODY_2:BODY_1|0
+0|CD|BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+example|NN|BODY_1:BODY_2:BODY_3:BODY_8:BODY_9|0
+weak stochasticity|JJ NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+section 3|NN CD|BODY_1:BODY_2:BODY_4|0
+theorem 4.3|NN CD|BODY_6:BODY_2:BODY_3:BODY_4|0
+n )|RB -RRB-|BODY_3:BODY_8:BODY_9|0
+all languages|DT NNS|BODY_6:BODY_5:BODY_14:BODY_10:BODY_7|0
+all|DT|BODY_5:BODY_17:BODY_2:BODY_1|0
+d|VBN|BODY_1:BODY_3:BODY_4:BODY_9|0
+our choice|PRP$ NN|BODY_2:BODY_1:BODY_3|0
+( i|-LRB- FW|BODY_1:BODY_3|0
+each string|DT NN|BODY_5:BODY_16:BODY_3|0

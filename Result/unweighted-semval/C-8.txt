@@ -1,0 +1,712 @@
+it|PRP|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_15:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|1
+)|-RRB-|BODY_12:BODY_11:BODY_22:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_5:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4|4
+o|IN|BODY_6:BODY_5:BODY_11:BODY_16:BODY_17:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+ds|NNS|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+operations|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_20:BODY_9|2
+operation context|NN NN|BODY_6:BODY_5:ABSTRACT_6:TITLE_1:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|3
+cd|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+o2|DT|BODY_12:BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+oa|NN|BODY_6:BODY_5:BODY_13:BODY_26:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_19:BODY_7|0
+c(|NN|BODY_6:BODY_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the document state|DT NN NN|BODY_6:BODY_5:BODY_21:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|1
+the context|DT NN|BODY_21:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|1
+ox|NN|BODY_6:BODY_5:BODY_11:BODY_18:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+the basic cot algorithm|DT JJ NN NN|BODY_1:BODY_2:BODY_3|1
+an original normal operation|DT JJ JJ NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the cot algorithm|DT NN NN|ABSTRACT_2:BODY_1:BODY_3:ABSTRACT_1|0
+o1|NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_9|0
+) âˆª { o}|-RRB- NN NN NN|BODY_6:BODY_5:BODY_7|0
+the largest sequence number|DT JJS NN NN|BODY_2:BODY_3|0
+exciting opportunities and challenges|JJ NNS CC NNS|BODY_2|0
+the same document state|DT JJ NN NN|BODY_5:BODY_3|0
+step 2-( c )|NN JJ NN -RRB-|BODY_12:BODY_11|0
+an original inverse operation|DT JJ NN NN|BODY_2:BODY_3|0
+the operation context theory|DT NN NN NN|BODY_3|2
+the first ot algorithm|DT JJ JJ NN|BODY_2|0
+the two input operations|DT CD NN NNS|BODY_4|0
+the eager coupling scheme|DT JJ NN NN|BODY_3|0
+this special transformation function|DT JJ NN NN|BODY_2|0
+all existing ot algorithms|DT VBG JJ NNS|BODY_2:BODY_7|0
+a distributed synchronization protocol|DT VBN NN NN|BODY_13|0
+the same original operation|DT JJ JJ NN|BODY_7|0
+the control algorithm level|DT NN NN NN|BODY_2:BODY_7|0
+the same transformation process|DT JJ NN NN|BODY_10|0
+the two concurrent operations|DT CD JJ NNS|BODY_2|0
+prior ot control algorithms|JJ JJ NN NNS|BODY_6:ABSTRACT_2|0
+a high-level control algorithm|DT JJ NN NN|BODY_2|0
+the same inverse group|DT JJ JJ NN|BODY_2|0
+the current document state|DT JJ NN NN|BODY_6|0
+an original operation oa|DT JJ NN NN|BODY_2|0
+correct transformation target operations|JJ NN NN NNS|BODY_7|0
+the context-difference parameter cd|DT NN NN NN|BODY_15|0
+global sequencing ) [26]|JJ NN -RRB- NN|BODY_9|0
+existing and new problems|VBG CC JJ NNS|ABSTRACT_4|0
+2 ( cp2 )|CD -LRB- NN -RRB-|BODY_2|0
+each original inverse operation|DT JJ NN NN|BODY_1|0
+html/xml and tree-structured document|JJ CC JJ NN|BODY_9|0
+all original inverse operations|DT JJ NN NNS|BODY_2|0
+the real correctness issues|DT JJ NN NNS|BODY_6|1
+the transformation function level|DT NN NN NN|BODY_4|0
+all prior ot systems|DT JJ JJ NNS|ABSTRACT_4:BODY_1|0
+information interfaces and presentation]|NN NNS CC NN|ABSTRACT_5|0
+total ordering ) [23]|JJ NN -RRB- NN|BODY_6|0
+both cot and goto-anyundo|DT NN CC IN|BODY_2|0
+all original normal operations|DT JJ JJ NNS|BODY_18:BODY_1|0
+hence different correctness requirements|RB JJ NN NNS|BODY_5|0
+original normal operations [4|JJ JJ NNS NNS|BODY_11|0
+three primitive operations insert|CD JJ NNS NN|BODY_9|0
+the inverse sequence number|DT NN NN NN|BODY_10|0
+consistency maintenance and group|NN NN CC NN|ABSTRACT_4|0
+suitable criteria and conditions|JJ NNS CC NNS|BODY_7|1
+goto and anyundo (|NN CC NN -LRB-|BODY_3|0
+a comprehensive testing suite|DT JJ NN NN|BODY_2|0
+operation execution and transformation|NN NN CC NN|BODY_4|0
+a document state ds|DT NN NN NNS|BODY_6:BODY_1|0
+a generic collaboration engine|DT JJ NN NN|BODY_2:ABSTRACT_3|0
+both o1 and o2|DT NNS CC NNS|BODY_2:BODY_10|0
+each pair ( nsj|DT NN -LRB- NN|BODY_10|0
+prior ot algorithms [4|JJ JJ NNS NNS|BODY_5|0
+the original normal operation|DT JJ JJ NN|BODY_16|0
+the corresponding normal operation|DT JJ JJ NN|BODY_8|0
+a lazy coupling strategy|DT JJ NN NN|BODY_3|0
+the following three steps|DT VBG CD NNS|BODY_2|0
+âˆ ’ c( o2|VBN IN JJ NN|BODY_7|0
+neither sufficient nor necessary|DT JJ CC JJ|BODY_4|0
+an extended et function|DT JJ FW NN|BODY_2|0
+the corresponding version group|DT JJ NN NN|BODY_3|0
+our observations and opinions|PRP$ NNS CC NNS|BODY_3|1
+a collaborative editing session|DT JJ NN NN|BODY_3|0
+’ 1 , 1|DT CD , CD|BODY_17|0
+) âˆª {org( ox)}|-RRB- NN NN NN|BODY_6:BODY_5:BODY_20|0
+not only original operations|RB RB JJ NNS|BODY_4|0
+the normal tie-breaking rule|DT JJ JJ NN|BODY_3|0
+a new theoretical framework|DT JJ JJ NN|ABSTRACT_5|0
+a uniformed theoretical framework|DT JJ JJ NN|BODY_6|0
+the cot algorithm level|DT NN NN NN|BODY_2|0
+the local sequence number|DT JJ NN NN|BODY_13|0
+the it function [23]|DT PRP NN NN|BODY_2|0
+the context difference cd|DT NN NN NN|BODY_8|0
+the capability and quality|DT NN CC NN|BODY_3|0
+inverse or transformed operations|NN CC VBN NNS|BODY_2|0
+the first operation ox|DT JJ NN NN|BODY_5|0
+an extra decouple-goto-recouple scheme|DT JJ NN NN|BODY_2|0
+correct execution and transformation|JJ NN CC NN|BODY_6|0
+the got algorithm [23|DT VBN NN NNS|BODY_6|1
+the document state ds|DT NN NN NNS|BODY_12|0
+an inverse operation oa|DT JJ NN NN|BODY_3|0
+the transform( ) procedure|DT NN -RRB- NN|BODY_17|0
+the same initial document|DT JJ JJ NN|BODY_3|0
+a different ot component|DT JJ JJ NN|BODY_5|0
+real ot system design|JJ JJ NN NN|BODY_1|0
+the expensive goto algorithm|DT JJ NN NN|BODY_4|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+an n-dimensional context vector|DT JJ NN NN|BODY_4|0
+a triple ( sid|DT JJ -LRB- NN|BODY_2|0
+n âˆ ’ 1|NN JJ NN CD|BODY_6|0
+its corresponding normal operation|PRP$ JJ JJ NN|BODY_3|0
+several prior ot systems|JJ JJ JJ NNS|BODY_2|0
+essential relationships and conditions|JJ NNS CC NNS|BODY_3|0
+simple and efficient solutions|JJ CC JJ NNS|BODY_4|0
+1 ) ] ]|CD -RRB- NN NN|BODY_11|0
+the same version group|DT JJ NN NN|BODY_8|0
+o ) and c(|IN -RRB- CC NN|BODY_7|0
+the following context vector|DT VBG NN NN|BODY_5|0
+a new context difference|DT JJ NN NN|BODY_18|0
+the core procedure transform(|DT NN NN NN|BODY_3|0
+that ox c oa|IN NN NN NN|BODY_5|0
+the extended transform( )|DT JJ NN -RRB-|BODY_1|0
+= {o1 , o2|SYM CD , CD|BODY_7|0
+both oa and ob|DT NN CC NN|BODY_2|0
+’ ox and ox|NN NN CC NN|BODY_27|0
+c( ox ) (cc6)|NN NN -RRB- NN|BODY_6|0
+definitions 1 and 2|NNS CD CC CD|BODY_1|0
+normal and inverse operations|JJ CC NN NNS|BODY_8|0
+the internal data structure|DT JJ NNS NN|BODY_2|0
+context-dependency relation c â†|NN NN NN NN|BODY_1|0
+the initial document state|DT JJ NN NN|BODY_13:BODY_1|0
+all follow-up ot algorithms|DT JJ JJ NNS|BODY_6|0
+o2 â† ’ o3|DT JJ NN NNS|BODY_3|0
+an original operation ox|DT JJ NN NN|BODY_13|0
+a correct total order|DT JJ JJ NN|BODY_1|0
+the transformed ) o2|DT VBN -RRB- NN|BODY_6|0
+other normal editing operations|JJ JJ NN NNS|BODY_8|0
+the operation buffering level|DT NN NN NN|BODY_7|0
+several prior ot algorithms|JJ JJ JJ NNS|BODY_1|0
+the operation buffering strategy|DT NN NN NN|BODY_6|0
+an operation|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|1
+7.3 ot buffering strategies|CD JJ NN NNS|BODY_1|0
+the same normal operation|DT JJ JJ NN|BODY_3|0
+= {o1 , o3}|SYM NN , NN|BODY_8|0
+the recursive transform( o1|DT JJ NN NNS|BODY_1|0
+the undo policy [21]|DT VB NN NN|BODY_4|0
+the above transformation properties|DT JJ NN NNS|BODY_1|1
+an ot-based group editor|DT JJ NN NN|BODY_1|0
+other distributed computing systems|JJ VBN VBG NNS|BODY_3|0
+a state vector [4]|DT NN NN NN|BODY_10|0
+step ( 5 )|NN -LRB- CD -RRB-|BODY_7|0
+their corresponding normal operations|PRP$ JJ JJ NNS|BODY_4|0
+the causality theory limitation|DT NN NN NN|BODY_1|0
+alternative views and approaches|JJ NNS CC NNS|BODY_1|0
+cot|NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_7|0
+the whole cot algorithm|DT JJ NN NN|BODY_3|0
+a complete ot solution|DT JJ JJ NN|BODY_1|0
+the if-then part )|DT NN NN -RRB-|BODY_12|0
+ensure tpsafety( ) )|VB JJ -RRB- -RRB-|BODY_11|0
+the transformed operation oa|DT VBN NN NN|BODY_14|0
+the correct undo effect|DT JJ VB NN|BODY_14|0
+an inverse operation o2|DT NN NN NN|BODY_3|0
+some identified transformation properties/conditions|DT VBN NN NNS|BODY_4|0
+an eager coupling strategy|DT JJ NN NN|BODY_1|0
+the same total order|DT JJ JJ NN|BODY_10|0
+some important transformation properties|DT JJ NN NNS|BODY_8|1
+cot-do , transform( o2|JJ , JJ NN|BODY_1|0
+definition 4-item 3 )|NN JJ CD -RRB-|BODY_12|0
+existing and new applications|VBG CC JJ NNS|BODY_1|0
+their types and parameters|PRP$ NNS CC NNS|BODY_5|1
+one ot correctness issue|CD JJ NN NN|BODY_1|0
+original normal editing operations|JJ JJ NN NNS|BODY_6|0
+the document 280 state|DT NN CD NN|BODY_9|0
+the document state representation|DT NN NN NN|BODY_1|0
+definition 3-item 2 )|NN JJ CD -RRB-|BODY_9|0
+the new document state|DT JJ NN NN|BODY_6|0
+the dopt algorithm [4]|DT NN NN NN|BODY_1|0
+property 1 ( cp1)3|NN CD -LRB- NN|BODY_1|0
+property 2 ( ip2)4|NN CD -LRB- NN|BODY_1|0
+ob|NN|BODY_6:BODY_11:BODY_5:BODY_22:BODY_15:BODY_13:BODY_3:BODY_10:BODY_7:BODY_8|0
+transformation functions|NN NNS|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|1
+an inverse operation|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+an ot system|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4|2
+cp2|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+this problem|DT NN|BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_4|0
+original normal operations|JJ JJ NNS|BODY_6:BODY_2:BODY_3:BODY_9|0
+respect|NN|BODY_6:BODY_17:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_19|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_9|0
+the ot system|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+an operation context|DT NN NN|BODY_2:BODY_3|0
+an original operation|DT JJ NN|BODY_6:BODY_1:BODY_2:BODY_4:BODY_10|0
+a necessary condition|DT JJ NN|BODY_5:BODY_3:BODY_9|1
+causality|NN|ABSTRACT_2:BODY_2:BODY_4:BODY_9|1
+all operations|DT NNS|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+an increasing number|DT VBG NN|ABSTRACT_5:BODY_2|0
+operation|NN|BODY_6:BODY_5:BODY_11:BODY_3:BODY_4|1
+the original operation|DT JJ NN|BODY_6:BODY_3:BODY_10|0
+figure 1|NN CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+ot|NNP|ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4|0
+the cot solution|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the false-tie problem|DT JJ NN|BODY_5:BODY_2:BODY_7|0
+c( o2|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_4:BODY_9|0
+original operations|JJ NNS|BODY_5:BODY_1:BODY_14:BODY_4:BODY_7:BODY_9|0
+a context vector|DT NN NN|BODY_3:BODY_9|0
+the new cd|DT JJ NN|BODY_6:BODY_30|0
+these transformation properties|DT NN NNS|BODY_5:BODY_2:BODY_1|0
+an operation ox|DT NN NN|BODY_1:BODY_25:BODY_3:BODY_4|0
+the causality theory|DT NN NN|BODY_2:BODY_3|0
+the context vector|DT NN NN|BODY_6:BODY_1:BODY_4|2
+inverse operations|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+simple puzzle scenarios|JJ NN NNS|BODY_2:BODY_3|0
+oa c ob|NN NN NN|BODY_4:BODY_8|0
+the site identifiers|DT NN NNS|BODY_5:BODY_3|0
+ip2 and ip3|NNS CC NNS|BODY_6:BODY_2:BODY_3:BODY_10:BODY_8|0
+undo( o2 )|JJ NN -RRB-|BODY_1:BODY_3|0
+o3|NNS|BODY_6:BODY_12:BODY_13:BODY_1:BODY_10:BODY_7:BODY_8|0
+a difficult issue|DT JJ NN|BODY_2|0
+a real implementation|DT JJ NN|BODY_2|0
+complex puzzle scenarios|JJ NN NNS|BODY_4|0
+the essential condition|DT JJ NN|BODY_2|0
+) := c(|-RRB- NN NN|BODY_5:BODY_19:BODY_4|0
+a central topic|DT JJ NN|BODY_2|0
+cd ) 1|NN -RRB- CD|BODY_2:BODY_3|0
+an inverse group|DT NN NN|BODY_34:BODY_14|0
+the site identifier|DT NN NN|BODY_6:BODY_11|0
+context-based conditions cc2|JJ NNS NNS|BODY_16|0
+the cot work|DT NN NN|BODY_2|0
+one inverse group|CD NN NN|BODY_5|0
+cc3 and cc6|NNS CC NNS|BODY_8|0
+a transformed operation|DT VBN NN|BODY_1:BODY_3:BODY_4|0
+the verification criteria|DT NN NNS|BODY_4|0
+the same group|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+0 â‰ ¤|CD JJ NN|BODY_6:BODY_15|0
+the got algorithm|DT VBN NN|BODY_4|0
+an inverse o2|DT NN NNS|BODY_2:BODY_3|0
+two original operations|CD JJ NNS|BODY_2|0
+essential ot conditions|JJ JJ NNS|BODY_3|0
+the technical challenges|DT JJ NNS|BODY_5|0
+another inverse property|DT NN NN|BODY_2|0
+their corresponding inverses|PRP$ JJ NNS|BODY_6:BODY_11|0
+comprehensive testing cases|JJ NN NNS|BODY_3|0
+one ot component|CD JJ NN|BODY_3|0
+o2 and o3|NN CC NNS|BODY_11|0
+( 1 )|-LRB- CD -RRB-|BODY_3:BODY_10|0
+the do-undo ordering|DT JJ NN|BODY_7|0
+an important role|DT JJ NN|BODY_4|1
+generally two ways|RB CD NNS|BODY_2|0
+10 , 24]|CD , RB|BODY_14|0
+the tibot system|DT NN NN|BODY_12|0
+consistency maintenance (|NN NN -LRB-|BODY_4|1
+original inverse operations|JJ NN NNS|BODY_5:BODY_2|0
+cc2 and cc5|CD CC CD|BODY_6|0
+c( o3|JJ PRP|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the operation context|DT NN NN|BODY_2:BODY_4|0
+ot correctness issues|JJ NN NNS|BODY_4|0
+the history buffer|DT NN NN|BODY_3|0
+the cp2-violation problem|DT NN NN|BODY_4:BODY_8|0
+the transformation process|DT NN NN|BODY_3:BODY_4|0
+the same site|DT JJ NN|BODY_2|0
+the nice system|DT JJ NN|BODY_10|0
+2. convergence property|. NN NN|BODY_1|0
+a system-oriented approach|DT JJ NN|BODY_1|0
+a systematic approach|DT JJ NN|BODY_1|0
+table-centric applications [14|JJ NNS NNS|BODY_8|0
+the soct4 system|DT NN NN|BODY_7|0
+a control strategy|DT NN NN|BODY_8|0
+their causal order|PRP$ JJ NN|BODY_6|0
+its context c(|PRP$ NN NN|BODY_3:BODY_4|0
+[ ] )|JJ NN -RRB-|BODY_8|0
+a document state|DT NN NN|BODY_2:BODY_4|0
+a state vector|DT NN NN|BODY_2|0
+the whole set|DT JJ NN|BODY_12|0
+also transformed versions|RB VBN NNS|BODY_5|0
+n collaborating sites|NN VBG NNS|BODY_4|0
+the necessary insights|DT JJ NNS|BODY_5|1
+an undo/redo scheme|DT NNP NN|BODY_5|0
+all transformed operations|DT VBN NNS|BODY_6|0
+transformation target operations|NN NN NNS|BODY_13|0
+causally related operations|RB JJ NNS|BODY_5|0
+n inverse clusters|NN NN NNS|BODY_2|0
+different control algorithms|JJ NN NNS|BODY_2|0
+the total order|DT JJ NN|BODY_31|0
+the reduce system|DT VBP NN|BODY_3|0
+the correctness issues|DT NN NNS|BODY_2|0
+a normal operation|DT JJ NN|BODY_1:BODY_3|0
+[19 , 13]|CD , CD|BODY_5|0
+capture essential requirements|NN JJ NNS|BODY_3|0
+the gotoanyundo-based system|DT JJ NN|BODY_2|0
+a complex system|DT JJ NN|BODY_2|0
+the undo problem|DT VB NN|BODY_3|0
+the concurrency condition|DT NN NN|BODY_2|0
+a sequence number|DT NN NN|BODY_4|0
+ensure tpsafety( cd|VB JJ NN|BODY_4|0
+the undo command|DT VB NN|BODY_1:BODY_3|0
+the causal ordering|DT JJ NN|BODY_10|0
+an important element|DT JJ NN|BODY_2|1
+ot systems [4|JJ NNS NNS|BODY_9|0
+c( o2 )|JJ NN -RRB-|BODY_3:BODY_4|0
+j < k|RB JJ NN|BODY_33:BODY_13|0
+definition 5 )|NN CD -RRB-|BODY_9|0
+its continual evolution|PRP$ JJ NN|BODY_11:ABSTRACT_9|0
+the same way|DT JJ NN|BODY_4|0
+the context-dependency/-independency relation|DT NN NN|BODY_3:BODY_4|0
+( 4 )|-LRB- CD -RRB-|BODY_23|0
+another distinctive feature|DT JJ NN|BODY_2|0
+similar capabilities [22|JJ NNS NN|BODY_5|0
+the same position|DT JJ NN|BODY_7|0
+each document state|DT NN NN|BODY_2|0
+different ot systems|JJ JJ NNS|BODY_1|0
+different transformation functions|JJ NN NNS|BODY_3|0
+isj inverse operations|NN NN NNS|BODY_15|0
+cp1 nor cp2|CD CC CD|BODY_2|0
+delete and update|JJ CC VB|BODY_10|0
+all known puzzles|DT VBN NNS|BODY_2|1
+cd ) )|NN -RRB- -RRB-|BODY_11|0
+a special case|DT JJ NN|BODY_3|0
+anyundo algorithms [22|DT NNS NN|BODY_11|1
+o2 and o1|NN CC NNS|BODY_8|0
+these technical details|DT JJ NNS|BODY_2|0
+the normal operation|DT JJ NN|BODY_36|0
+only the combination|RB DT NN|BODY_2|0
+an ordered set|DT VBN NN|BODY_3|0
+such a way|JJ DT NN|BODY_11|0
+, and ip3|, CC RB|BODY_3|0
+their context-dependency order|PRP$ NN NN|BODY_6:BODY_9|0
+the vector representation|DT NN NN|BODY_1:BODY_3:BODY_4|0
+the causal-dependency/-independency relation|DT NN NN|BODY_2|0
+o1 and o3|RB CC RB|BODY_5:BODY_8|0
+their generation sites|PRP$ NN NNS|BODY_4|0
+their transformed versions|PRP$ VBN NNS|BODY_3|0
+the got system|DT VBN NN|BODY_4|0
+definition 4-item 2|NN JJ CD|BODY_1:BODY_7|0
+this decouple-recouple scheme|DT JJ NN|BODY_2|0
+hb ) schemes|NN -RRB- NNS|BODY_4|0
+) âš† ds|-RRB- NN NNS|BODY_3:BODY_8|0
+a total order|DT JJ NN|BODY_4:BODY_7|0
+the selected operation|DT VBN NN|BODY_5|0
+a context c(|DT NN NN|BODY_2|0
+the cotundo part|DT NN NN|BODY_6|0
+the context difference|DT NN NN|BODY_11:BODY_8|0
+their contexts corresponds|PRP$ NNS NNS|BODY_3|0
+an operation ob|DT NN NN|BODY_3|0
+the cot-do part|DT JJ NN|BODY_3|0
+the state c(|DT NN NN|BODY_12:BODY_11|0
+oa and ob|NN CC NN|BODY_2|0
+the contextdependency relations|DT NN NNS|BODY_3|0
+âˆ ’ c(|JJ NN NN|BODY_2:BODY_3|0
+document state representation|NN NN NN|BODY_1:BODY_9|0
+transform( ) )|NN -RRB- -RRB-|BODY_22|0
+a concrete scenario|DT JJ NN|BODY_3|0
+early ot work|JJ JJ NN|BODY_2|0
+the concurrency relationships|DT NN NNS|BODY_3|0
+the second condition|DT JJ NN|BODY_3|0
+a new cd|DT JJ NN|BODY_27|0
+figure 1 (|NN CD -LRB-|BODY_2|0
+all inverse operations|DT JJ NNS|BODY_27|0
+vector logical clocks|NN JJ NNS|BODY_2|0
+a new inverse|DT JJ NN|BODY_24|0
+certain ot properties/conditions|JJ JJ NNS|BODY_4|0
+1 ( ip1|CD -LRB- NN|BODY_3|0
+( 5 )|-LRB- CD -RRB-|BODY_26|0
+the other operation|DT JJ NN|BODY_14|0
+these context-based conditions|DT JJ NNS|BODY_13:BODY_1|0
+the old cd|DT JJ NN|BODY_29|0
+both consistency maintenance|DT NN NN|BODY_3|0
+prior ot algorithms|RB JJ NNS|BODY_2|0
+â— ¦ [ob|VBP JJ NN|BODY_14|0
+the theoretical foundation|DT JJ NN|BODY_2:ABSTRACT_1|0
+the position tie|DT NN NN|BODY_9|0
+no explicit representation|DT JJ NN|BODY_2|0
+command undo( o2|NN NN NN|BODY_5|0
+a transformation process|DT NN NN|BODY_4|0
+an experimental method|DT JJ NN|BODY_1|0
+the decouple-recouple scheme|DT JJ NN|BODY_4|0
+the basic idea|DT JJ NN|BODY_3|0
+concurrent operations [4|JJ NNS NNS|BODY_11|0
+any original operation|DT JJ NN|BODY_2|0
+a partial solution|DT JJ NN|BODY_4|0
+the following properties|DT VBG NNS|BODY_3|0
+) and group|-RRB- CC NN|BODY_5|1
+their execution order|PRP$ NN NN|BODY_5|0
+22 , 23]|CD , CD|BODY_6|0
+an undo solution|DT VB NN|BODY_8|0
+three editing operations|CD JJ NNS|BODY_2|0
+the high-level procedure|DT JJ NN|BODY_4|0
+the undo mechanism|DT VB NN|BODY_3|0
+all otrelated conditions|DT JJ NNS|BODY_7|0
+future ot research|JJ JJ NN|BODY_3|0
+o3 and o1|NNS CC NNS|BODY_3|0
+the causality relation|DT NN NN|BODY_2|0
+causal-dependency/-independency and briefly|NN CC NN|BODY_2|0
+every transformation process|DT NN NN|BODY_6|0
+the original operations|DT JJ NNS|BODY_4|0
+neither oa c|DT NN NN|BODY_5|0
+two document states|CD NN NNS|BODY_10|0
+comparison and manipulation|NN CC NN|BODY_4|0
+buffers and uses|NNS CC NNS|BODY_3|0
+two input parameters|CD NN NNS|BODY_2|0
+these two operations|DT CD NNS|BODY_12|0
+cd ) repeat|NN -RRB- NN|BODY_2|0
+an important indicator|DT JJ NN|BODY_4|1
+( 2 )|-LRB- CD -RRB-|BODY_11|0
+ip3safe inverse procedure|JJ NN NN|BODY_2|0
+the global knowledge|DT JJ NN|BODY_6|0
+multiple interrelated components|JJ JJ NNS|BODY_3|0
+a new foundation|DT JJ NN|BODY_8|0
+cot ) capable|NN -RRB- JJ|BODY_3|0
+the causality relationships|DT NN NNS|BODY_3|0
+the above definition|DT JJ NN|BODY_2|0
+the concurrency relation|DT NN NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+their space usage|PRP$ NN NN|BODY_5|0
+this buffering structure|DT NN NN|BODY_1|0
+the key elements|DT JJ NNS|BODY_2|1
+the main results|DT JJ NNS|ABSTRACT_3:BODY_3|0
+the context-dependency relation|DT NN NN|BODY_2|0
+correct operation execution/transformation|JJ NN NN|BODY_9|0
+time-internal ) [12]|NN -RRB- NN|BODY_14|0
+an identity operation|DT NN NN|BODY_20|0
+the contextdifference parameter|DT NN NN|BODY_8|0
+c(ob ) before|NN -RRB- IN|BODY_4|0
+the local site|DT JJ NN|BODY_3|1
+the key reasons|DT JJ NNS|BODY_3|0
+definition 4-item3 )|NN JJ -RRB-|BODY_12|0
+a single theory|DT JJ NN|BODY_5|0
+integers ( sid|NNS -LRB- NN|BODY_8|0
+a journal version|DT NN NN|BODY_8|0
+its initial state|PRP$ JJ NN|BODY_9|0
+sid and ns|NN CC NNS|BODY_5|0
+c( oa )|NN NN -RRB-|BODY_7|0
+another operation ob|DT NN NN|BODY_4|0
+3.4 context-based conditions|CD JJ NNS|BODY_1|0
+all ot systems|DT JJ NNS|BODY_7|0
+section 7 )|NN CD -RRB-|BODY_9|0
+’ c( o3|VBP NN NN|BODY_9|0
+this document state|DT NN NN|BODY_1|0
+3.1 basic concept|CD JJ NN|BODY_2|0
+the rp requirement|DT JJ NN|BODY_5|0
+the term ittransform|DT NN NN|BODY_3|0
+’ c( o)1|JJ NN NNS|BODY_3|0
+) âˆ ’|-RRB- NN NN|BODY_10|0
+’ c( o2|VBP NN NN|BODY_9|0
+all normal operations|DT JJ NNS|BODY_1|0
+the pre-conditions (pc|DT NNS NN|BODY_4|0
+the very beginning|DT JJ NN|BODY_4|0
+the key step|DT JJ NN|BODY_11|0
+the current state|DT JJ NN|BODY_7|0
+the causal relation|DT JJ NN|BODY_2|0
+an ip3-safe inverse|DT JJ NN|BODY_9|0
+the new context|DT JJ NN|BODY_5|0
+all contextindependent operations|DT JJ NNS|BODY_2|0
+a control algorithm|DT NN NN|BODY_7|0
+only the undo-part|RB DT NN|BODY_3|0
+any type (original|DT NN NN|BODY_5|0
+as-is and ds0|NNS CC NN|BODY_7|0
+a distinctive feature|DT JJ NN|BODY_4|0
+the low-level transformation|DT JJ NN|BODY_3|1
+the ip3-safe inverse|DT JJ NN|BODY_1:BODY_3|0
+some late stage|DT JJ NN|BODY_11|0
+context-independency relation c|NN NN NN|BODY_1|0
+the same context|DT JJ NN|BODY_5|0
+site i|NN FW|BODY_18:BODY_2:BODY_19:BODY_29|0
+two different kinds|CD JJ NNS|BODY_3|0
+oa = oa|NN SYM NN|BODY_10|0
+a buffering structure|DT NN NN|BODY_2|0
+2 and 3|CD CC CD|ABSTRACT_10|0
+the notation org(|DT NN NN|BODY_4|0
+a new context|DT JJ NN|BODY_11|0
+all executed operations|DT VBN NNS|BODY_5|0
+the causaldependency relation|DT NN NN|BODY_3|0
+transformation properties cot|NN NNS NN|BODY_1|0
+some useful heuristics|DT JJ NNS|BODY_3|0
+the set difference|DT NN NN|BODY_4|0
+a transformed version|DT VBN NN|BODY_4|0
+) = ds|-RRB- SYM NNS|BODY_3|0
+2. transform( ox|CD NN NN|BODY_5|0
+the sequence number|DT NN NN|BODY_6:BODY_4|0
+3.5 context vector|CD NN NN|BODY_1|1
+all three operations|DT CD NNS|BODY_8|0
+the state vector|DT NN NN|BODY_4|0
+an operation corresponds|DT NN NNS|BODY_2|0
+the same state|DT JJ NN|BODY_10|0
+the contextdependent operations|DT NN NNS|BODY_3|0
+( e .g|-LRB- NN NN|BODY_5|0
+7.2 cot versus|CD NN NN|BODY_1|0
+other normal operations|JJ JJ NNS|BODY_5|0
+a given context|DT VBN NN|BODY_6|0
+over 15 years|IN CD NNS|BODY_1|0
+many ot systems|JJ JJ NNS|BODY_5|0
+19 , 23]|CD , CD|BODY_10|0
+the cot-based system|DT JJ NN|BODY_1|0
+one theoretical underpinning|CD JJ NN|BODY_1|0
+definition 4-item 3|NN JJ CD|BODY_7|0
+4.1 cot-do cot-do|CD NN NN|BODY_1|0
+[8 , 11|CD , CD|BODY_4|0
+an operation set|DT NN NN|BODY_4|0
+plain-text group editors|JJ NN NNS|BODY_4|0
+the cot solutions|DT NN NNS|BODY_1|0
+the dopt algorithm|DT NN NN|BODY_1|0
+these original operations|DT JJ NNS|BODY_1|0
+) (cc2 )|-RRB- NN -RRB-|BODY_6|0
+) (cc4 )|-RRB- CD -RRB-|BODY_4|0
+the recursive call|DT JJ NN|BODY_1|0
+consistency maintenance [21]|NN NN NN|BODY_12|0
+the goto-anyundo-based system|DT JJ NN|BODY_1|0
+o3 ) [21]|JJ -RRB- NN|BODY_9|0
+the dopt-puzzle [22]|DT NN NN|BODY_5|0
+pc-ip2 and pc-ip3|NNS CC NNS|BODY_10|0
+cot-do and cot-undo|NN CC NN|BODY_2|0
+o is inverse|RB VBZ NN|BODY_1|0
+no normal operation|DT JJ NN|BODY_1|0
+the inverse cluster|DT NN NN|BODY_1|0
+definition 4-item 1|NN JJ CD|BODY_10|0
+section 2 )|NN CD -RRB-|BODY_4|0
+another major limitation|DT JJ NN|BODY_1|0
+novel collaborative applications|NN NN NNS|ABSTRACT_6:BODY_4|0
+the undo effect|DT VB NN|BODY_1|0
+every transformed operation|DT VBN NN|BODY_1|0
+definition 3 )|NN CD -RRB-|BODY_7|0
+the main difference|DT JJ NN|BODY_1|0
+various transformation properties/conditions|JJ NN NNS|BODY_7|0
+the first ox|DT JJ NN|BODY_1|0
+an efficient way|DT JJ NN|BODY_9|1
+only original operations|RB JJ NNS|BODY_4|0
+the operation executions|DT NN NNS|BODY_1|0
+context-based operational transformation|JJ JJ NN|TITLE_2|0
+the set representation|DT NN NN|BODY_1|0
+this new concept|DT JJ NN|BODY_1|0
+any operation ox|DT NN NN|BODY_1|0
+another important component|DT JJ NN|BODY_1|1
+the next step|DT JJ NN|BODY_8|0
+the procedure transform(|DT NN NN|BODY_1|0
+an undone operation|DT JJ NN|BODY_5|0
+essential correctness requirements|JJ NN NNS|ABSTRACT_6|0
+many repeated transformations|JJ VBN NNS|BODY_4|0
+such a version|JJ DT NN|BODY_1|0
+that ox c|IN NN NN|BODY_7|0
+the following discussion|DT VBG NN|BODY_1|0
+the following section|DT VBG NN|BODY_1|0
+[23 , 21]|CD , CD|BODY_6|0
+some executed operations|DT VBN NNS|BODY_8|0
+an operation 1|DT NN CD|BODY_2|0
+o to ds.|RB TO VBG|BODY_3|0
+{o1 , o2|CD , NN|BODY_7:BODY_8|0
+the context requirement|DT NN NN|BODY_6|0
+org( o1 )|JJ NNS -RRB-|BODY_12|0
+org( o3 )|JJ NNS -RRB-|BODY_9|0
+this new inverse|DT JJ NN|BODY_1|0
+283 4.2 cot-undo|CD CD NN|BODY_1|0
+org( o2 )|JJ NN -RRB-|BODY_10|0
+a context|DT NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|1
+the same|DT JJ|BODY_11:BODY_13:BODY_4:BODY_7|0
+c( o1|JJ NNS|BODY_13:BODY_3:BODY_4:BODY_8|0
+cd )|NN -RRB-|BODY_6:BODY_3:BODY_4:BODY_7|0
+a do-undo-pair|DT NN|BODY_12:BODY_5:BODY_15:BODY_3:BODY_4:BODY_7|0
+’ ob|NN NN|BODY_6:BODY_5:BODY_28:BODY_7:BODY_8|0
+there|EX|BODY_12:BODY_2:BODY_1:BODY_3:BODY_24|0
+2|CD|BODY_5:ABSTRACT_8:BODY_1|0
+these properties|DT NNS|BODY_12:BODY_5:BODY_2:BODY_3:BODY_8:BODY_9|0
+any operation|DT NN|BODY_5:BODY_13:BODY_2:BODY_1|0
+( 2|-LRB- CD|BODY_12:BODY_11:BODY_16:BODY_8|0
+the pre-condition|DT NN|BODY_2|0
+the|DT|BODY_25:BODY_2:BODY_1:BODY_4|0
+a range|DT NN|BODY_5:ABSTRACT_5:BODY_2:BODY_3|0
+the design|DT NN|BODY_6:ABSTRACT_3:BODY_4:BODY_9|0
+the pre-conditions|DT NNS|BODY_6:BODY_11:BODY_2:BODY_1:BODY_4:BODY_8|0
+the theory|DT NN|BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_8|3
+a pair|DT NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+oa )|NN -RRB-|BODY_6:BODY_5:BODY_13:BODY_9|0
+this|DT|BODY_6:BODY_1:BODY_7|0
+the use|DT VB|BODY_3:BODY_4|0
+the generation|DT NN|BODY_6:BODY_12:BODY_21:BODY_2:BODY_14:BODY_4|0
+ip2|NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the operation|DT NN|BODY_5:BODY_11:BODY_3:BODY_8|0
+they|PRP|BODY_5:BODY_1:BODY_4:BODY_7|1
+ip3safe inverse(|JJ NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+the solution|DT NN|BODY_11:BODY_2:BODY_1|0
+state vectors|NN NNS|BODY_5:BODY_3:BODY_4|0
+e .g|NN NN|BODY_4:BODY_10:BODY_9|0
+the effect|DT NN|BODY_5:BODY_18:BODY_14:BODY_4:BODY_10:BODY_8:BODY_20:BODY_9|0
+context-based conditions|JJ NNS|BODY_2:BODY_7|1
+both|DT|BODY_6:ABSTRACT_2:BODY_2:BODY_1:BODY_7|0
+the dopt-puzzle|DT NN|BODY_12:BODY_6:BODY_4:BODY_7|0
+other operations|JJ NNS|BODY_4:BODY_7|0
+different divisions|JJ NNS|BODY_2:BODY_4|0
+any type|DT NN|BODY_3:BODY_4:BODY_9|0
+sequence number|NN NN|BODY_17:BODY_37:BODY_7|0
+) procedure|-RRB- NN|BODY_2|0
+the parameters|DT NNS|BODY_2|0
+document states|NN NNS|BODY_4:BODY_7:BODY_8|0
+normal operations|JJ NNS|BODY_28:BODY_3|0
+ob )|NN -RRB-|BODY_12:BODY_6:BODY_7:BODY_8|0
+the correctness|DT NN|BODY_5:BODY_3:BODY_4|0
+two parts|CD NNS|BODY_2|0
+the set|DT NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_8|1
+the do-part|DT NN|BODY_2:BODY_8|0
+another operation|DT NN|BODY_4:BODY_10:BODY_8|0
+different orders|JJ NNS|BODY_6:BODY_2:BODY_4:BODY_7|0
+{ }|CD NNS|BODY_2:BODY_3:BODY_4|0
+terms|NNS|BODY_5:BODY_13:BODY_4:BODY_8|0
+an inverse|DT NN|BODY_2:BODY_1:BODY_3|0
+these operations|DT NNS|BODY_5:BODY_4|0
+the inverse|DT NN|BODY_6:BODY_13|0
+better understanding|JJR NN|ABSTRACT_6:BODY_7:BODY_9|0
+consistency maintenance|NN NN|BODY_3:BODY_4|0
+the effects|DT NNS|BODY_6:BODY_7:BODY_9|0
+the reader|DT NN|BODY_6:BODY_3|0
+ot algorithms|JJ NNS|ABSTRACT_2:BODY_2:BODY_3|0
+cp1|NN|BODY_5:BODY_2:BODY_4|0
+those solutions|DT NNS|ABSTRACT_6:BODY_7|0
+step 1|NN CD|BODY_10:BODY_9|0
+the group|DT NN|BODY_5:BODY_11:BODY_3|0
+{o1} )|NNP -RRB-|BODY_2|0
+a solution|DT NN|BODY_2|0
+control algorithms|NN NNS|BODY_2:BODY_10|0
+ot systems|JJ NNS|BODY_5:BODY_2:BODY_1|0
+transformed operations|VBN NNS|BODY_6:BODY_8:BODY_9|0
+the algorithm|DT NN|BODY_5:BODY_3|0
+their reuse|PRP$ NN|BODY_4|0
+this issue|DT NN|BODY_4|0
+various heuristics|JJ NNS|BODY_2|0
+ip3|NN|BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a meta-level|DT NN|BODY_6:BODY_3|0
+ot )|JJ -RRB-|ABSTRACT_2:BODY_2|0
+other steps|JJ NNS|BODY_3|0
+overhead transformations|JJ NNS|BODY_2|0
+example|NN|BODY_1|0
+( ns1|-LRB- NNS|BODY_11:BODY_23:BODY_7|0
+formal verification|JJ NN|BODY_1:BODY_8|1
+any ox|DT NN|BODY_2|0
+any operations|DT NNS|BODY_2:ABSTRACT_3:BODY_3|0
+its complexity|PRP$ NN|ABSTRACT_8:BODY_9|0
+cc6|NNS|BODY_6:BODY_1:BODY_3:BODY_4|0
+the root|DT NN|BODY_5:BODY_4|0
+isj )|NN -RRB-|BODY_31:BODY_11|0
+this condition|DT NN|BODY_2:BODY_9|0
+ncd (|JJ -LRB-|BODY_12:BODY_21|0
+ot correctness|JJ NN|BODY_2:BODY_3|0
+[computer-communication networks|NN NNS|ABSTRACT_2|0
+experimental methods|JJ NNS|BODY_2|1
+context-independent operations|JJ NNS|BODY_6:BODY_5:BODY_4|0
+undo( o2|NN NNS|BODY_2|0
+c( oa|JJ NN|BODY_11|0
+common patterns|JJ NNS|BODY_8|0
+the document|DT NN|BODY_6:BODY_5:BODY_8|0
+ox )|NN -RRB-|BODY_5:BODY_17:BODY_14:BODY_3:BODY_7|0
+procedure 1|NN CD|BODY_1:BODY_4|0
+the foundation|DT NN|BODY_2:ABSTRACT_3|0
+= {o1}|SYM NN|BODY_10:BODY_8|0
+the problem|DT NN|BODY_6:BODY_8|0
+each operation|DT NN|BODY_6:BODY_3|0
+its solution|PRP$ NN|BODY_5|0
+procedure 2|NN CD|BODY_2|0
+transform( )|NN -RRB-|BODY_13:BODY_2|0
+parameters o2|NNS NNS|BODY_5:BODY_2|0
+this result|DT NN|BODY_6|0
+past research|JJ NN|BODY_1:BODY_3|1
+= {o2}|SYM NN|BODY_3:BODY_4:BODY_9|0
+all types|DT NNS|BODY_5:BODY_4:BODY_10|0
+oa ob|NN NN|BODY_3:BODY_9|0
+bo begole|NN NN|BODY_2|0
+the purpose|DT NN|BODY_7|0
+0, 1|NNP CD|BODY_5|0
+the original|DT JJ|BODY_6:BODY_10|0
+the system|DT NN|BODY_5|0
+correct it-transformation|JJ NN|BODY_3|0
+transformed versions|VBN NNS|BODY_3|0
+causal-dependency/-independency relations|NN NNS|BODY_2|0
+breaking pccp2|NN NN|BODY_2|0
+ccu [2]|NN NN|BODY_2|0
+each site|DT NN|BODY_5:BODY_4|0
+cot-do|NN|BODY_2:BODY_1:BODY_3|0
+systems-distributed applications|JJ NNS|ABSTRACT_3|0
+= j|SYM RB|BODY_11:BODY_17|0
+the soundness|DT NN|BODY_5:BODY_1|1
+both parts|DT NNS|BODY_1|0
+correctness results|NN NNS|BODY_2|0
+ot issues|JJ NNS|BODY_2|0
+the state|DT NN|BODY_10:BODY_9|0
+correctness problems|NN NNS|BODY_3|0
+contextbased conditions|JJ NNS|BODY_7:BODY_9|0
+o1 )|NNP -RRB-|BODY_3:BODY_8|0
+this puzzle|DT NN|BODY_2:BODY_1|0
+their components|PRP$ NNS|BODY_4|0
+these components|DT NNS|BODY_6|0
+( 3|-LRB- CD|BODY_23:BODY_19|0
+{o2} )|NNP -RRB-|BODY_2|0
+a technique|DT NN|ABSTRACT_3|0
+( 1|-LRB- CD|BODY_3:BODY_8|0
+two operations|CD NNS|BODY_23|0
+a number|DT NN|BODY_7|0
+one issue|CD NN|BODY_3|0
+this ox|DT NN|BODY_10|0
+operation execution/transformation|NN NN|BODY_5|0
+= {}|SYM NN|BODY_5:BODY_3:BODY_7|0
+anonymous reviewers|JJ NNS|BODY_3|0
+o is|IN VBZ|BODY_22:BODY_9|0
+et functions|FW NNS|BODY_4:BODY_7|0
+goto-anyundo )|NNP -RRB-|BODY_4|0
+their pre-conditions|PRP$ NNS|BODY_2|0
+c(ob )|NN -RRB-|BODY_6:BODY_8|0
+= {o1|SYM CD|BODY_10:BODY_8|0
+important discoveries|JJ NNS|BODY_2|1
+this work|DT NN|BODY_2|0
+cv (|PRP -LRB-|BODY_7:BODY_8|0
+concurrent operations|JJ NNS|BODY_7|0
+different sites|JJ NNS|BODY_4|0
+the quality|DT NN|ABSTRACT_5|0
+section 4|NN CD|BODY_1:BODY_4|1
+their execution|PRP$ NN|BODY_6:BODY_8|0
+precise definitions|JJ NNS|BODY_8|0
+command )|NN -RRB-|BODY_7|0
+an issue|DT NN|BODY_3|0
+’ c(|NN NN|BODY_5:BODY_4|0

@@ -1,0 +1,296 @@
+we|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_23:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_9|12
+edge indexing|NN NN|BODY_5:BODY_16:TITLE_1:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|2
+that|WDT|BODY_11:BODY_23:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_7:BODY_8:ABSTRACT_10:BODY_9|6
+which|WDT|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_4:BODY_7:BODY_9|1
+objects|NNS|BODY_12:BODY_5:ABSTRACT_4:BODY_1:BODY_3:BODY_4:BODY_8|1
+a set|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:ABSTRACT_7:BODY_8|0
+one|CD|ABSTRACT_8:BODY_2:BODY_1:BODY_3:BODY_4|0
+the user|DT NN|BODY_6:ABSTRACT_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+they|PRP|BODY_5:ABSTRACT_2:BODY_1:BODY_3:ABSTRACT_1:BODY_20|0
+highly dynamic virtual environmentsâˆ|RB JJ JJ NN|TITLE_3|0
+extremely dynamic virtual environments|RB JJ JJ NNS|ABSTRACT_2|0
+a very challenging task|DT RB JJ NN|ABSTRACT_3|0
+three-dimensional graphics and realism|JJ NNS CC NN|ABSTRACT_10|0
+virtual reality general terms|JJ NN JJ NNS|ABSTRACT_11|0
+various spatial indexing methods|JJ JJ NN NNS|ABSTRACT_5|0
+the moving geometry objects|DT VBG NN NNS|ABSTRACT_5|0
+a spatial database problem|DT JJ NN NN|ABSTRACT_3|0
+a local storage medium|DT JJ NN NN|ABSTRACT_9|0
+server throughput and scalability|NN NN CC NN|ABSTRACT_11|0
+it|PRP|BODY_6:BODY_5:BODY_25:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+node indexing|JJ NN|BODY_11:BODY_5:BODY_18:BODY_1:BODY_2:BODY_24:BODY_3:BODY_4|1
+the side length|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_20|0
+entities|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+cell evaluations|NN NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8:BODY_9|2
+1|CD|BODY_6:BODY_11:BODY_5:BODY_17:BODY_2:BODY_10:BODY_9|2
+1 )|CD -RRB-|BODY_5:BODY_16:BODY_13:BODY_25:BODY_3:BODY_10:BODY_4:BODY_7|0
+the aoi|DT NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+all the node structures|PDT DT NN NNS|BODY_5:BODY_3:BODY_8|1
+the system|DT NN|BODY_6:BODY_18:BODY_15:BODY_1:BODY_2:BODY_4|0
+lemma 1 , n4|NN CD , DT|BODY_4|1
+our newly proposed method|PRP$ RB VBN NN|BODY_2|1
+the object popping problem|DT NN VBG NN|BODY_1:BODY_4|1
+dynamic extensibility and scalability|JJ NN CC NN|BODY_2|1
+a new view paradigm|DT JJ NN NN|BODY_5|1
+a fast indexing method|DT JJ NN NN|BODY_7|1
+the query evaluation cost|DT NN NN NN|BODY_3|1
+its efficient indexing method|PRP$ JJ NN NN|BODY_7|1
+how many object updates|WRB JJ NN NNS|BODY_3|1
+a given time period|DT VBN NN NN|BODY_5|1
+the leftmost node structure|DT JJS NN NN|BODY_7|1
+a new view model|DT JJ NN NN|BODY_3|1
+the object-initiated view model|DT JJ NN NN|BODY_6|1
+a bottom-up update strategy|DT NN NN NN|BODY_1|1
+our edge indexing implementation|PRP$ NN NN NN|BODY_9|1
+various local rendering algorithms|JJ JJ NN NNS|BODY_1|1
+other spatial indexing methods|JJ JJ NN NNS|BODY_1|1
+an object|DT NN|BODY_6:BODY_15:BODY_1:BODY_10:BODY_4:BODY_7|0
+the number|DT NN|BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_9|0
+the total elapsed time|DT JJ JJ NN|BODY_5:BODY_2:BODY_1:BODY_14|0
+j )|NNS -RRB-|BODY_35:BODY_11:BODY_5:BODY_10:BODY_7:BODY_9|0
+a highly dynamic environment|DT RB JJ NN|BODY_6:BODY_5:BODY_17|0
+td|NN|BODY_6:BODY_13:BODY_2:BODY_1:BODY_4:BODY_9|0
+single-table edge indexing|JJ NN NN|BODY_5:BODY_27:BODY_2:BODY_1:BODY_3:BODY_4|0
+token insertions and removals|JJ NNS CC NNS|BODY_6:BODY_8|0
+two-table edge indexing|JJ NN NN|BODY_6:BODY_15:BODY_2:BODY_1:BODY_24:BODY_7|0
+a given user point|DT VBN NN NN|BODY_5:BODY_2|0
+the expected completion time|DT VBN NN NN|BODY_6:BODY_3|0
+the expected processing time|DT VBN NN NN|BODY_22:BODY_1:BODY_4|0
+incremental update | q||JJ NN NN NNS|BODY_12:BODY_19|0
+relevant , retrieved items|JJ , JJ NNS|BODY_3|0
+a significant system penalty|DT JJ NN NN|BODY_2|0
+the two single-table methods|DT CD JJ NNS|BODY_3|0
+a subsequent two-step algorithm|DT JJ JJ NN|BODY_2|0
+the average side length|DT JJ NN NN|BODY_6:BODY_1:BODY_3|0
+the maximum reachable distance|DT JJ JJ NN|BODY_4|0
+s|PRP|BODY_5:BODY_2:BODY_3|0
+two row-wise adjacent cells|CD NN JJ NNS|BODY_2:BODY_14|0
+node and edge structures|NN CC NN NNS|BODY_3|0
+a collaborative virtual environment|DT JJ JJ NN|BODY_2|0
+different edge indexing methods|JJ NN NN NNS|BODY_4|0
+( i+ m )|-LRB- NN NN -RRB-|BODY_8|0
+rq-op |{o|o. p âˆˆq.râˆ§q.p|JJ NNP NN NN|BODY_2|0
+the 405 outermost cells|DT CD JJ NNS|BODY_9|0
+p and r measure|NN CC NN NN|BODY_2|0
+all the new tokens|PDT DT JJ NNS|BODY_6|0
+any single update event|DT JJ NN NN|BODY_3|0
+its worst-case processing cost|PRP$ NN NN NN|BODY_2|0
+the center cell area|DT NN NN NN|BODY_6|0
+its low indexing overhead|PRP$ JJ NN NN|BODY_2|0
+the existing scene complexity|DT VBG NN NN|BODY_5|0
+such higher indexing complexity|DT JJR NN NN|BODY_2|0
+the search and de3|DT NN CC NNS|BODY_4|0
+figure 3( c )|NN JJ NN -RRB-|BODY_2:BODY_1|0
+a traditional design approach|DT JJ NN NN|BODY_3|0
+our visibility computation model|PRP$ NN NN NN|BODY_2|0
+the tested view model|DT VBN NN NN|BODY_2|0
+a normal game user|DT JJ NN NN|BODY_2|0
+1 â‰ ¤ i|CD JJ JJ FW|BODY_9|0
+full update edge indexing|JJ NN NN NN|BODY_3|0
+detail ( lod )|NN -LRB- NN -RRB-|BODY_4|0
+( i+ 1 )|-LRB- NN CD -RRB-|BODY_6|0
+our new view approach|PRP$ JJ NN NN|BODY_2|0
+14 % range query|CD NN NN RB|BODY_5|0
+( iâˆ ’ m)|-LRB- IN NN NN|BODY_7|0
+100x100 twoâˆ’table edge indexing|CD JJ NN NN|BODY_11|0
+1 â‰ ¤ k|CD VBN NN NN|BODY_4|0
+a better indexing method|DT JJR NN NN|BODY_5|0
+a significant system degradation|DT JJ NN NN|BODY_2|0
+a smaller e-measure value|DT JJR NN NN|BODY_2|0
+an object popping problem|DT NN VBG NN|BODY_2|0
+its dedicated server machine|PRP$ VBN NN NN|BODY_2|0
+the moving edge structure|DT VBG NN NN|BODY_2|0
+| |{o|q.p âˆˆo.r} ||NNS NN IN NNS|BODY_8|0
+up to two orders|IN TO CD NNS|BODY_6|0
+our new view model|PRP$ JJ NN NN|BODY_6:BODY_2|0
+a user entity structure|DT NN NN NN|BODY_2|0
+any object popping problem|DT NN VBG NN|BODY_1:BODY_3|0
+the square-shaped spatial extension|DT JJ JJ NN|BODY_5|0
+200x200 twoâˆ’table edge indexing|CD JJ NN NN|BODY_10|0
+incremental update policy )|JJ NN NN -RRB-|BODY_8|0
+p and r computations|NN CC NN NNS|BODY_9|0
+retrieved real geometry data|VBN JJ NN NNS|BODY_2|0
+two adjacent cells i|CD JJ NNS VBP|BODY_2|0
+a farther visible range|DT RBR JJ NN|BODY_2|0
+such graphics related issues|JJ NNS JJ NNS|BODY_2|0
+all the query results|DT DT NN NNS|BODY_3|0
+a very promising performance|DT RB JJ NN|BODY_2|0
+( 1 ) r-tree|-LRB- CD -RRB- NN|BODY_4|0
+the eight edge structures|DT CD NN NNS|BODY_5|0
+full update | q||JJ NN NN NNS|BODY_16|0
+their 3d scene complexity|PRP$ JJ NN NN|BODY_4|0
+|o| , | q||JJ , JJ NN|BODY_3|0
+another edge indexing method|DT NN NN NN|BODY_2|0
+index 3d spatial extensions|NN NN JJ NNS|BODY_3|0
+1 ) âˆ ’|CD -RRB- NN NN|BODY_7|0
+the optimal visible range|DT JJ JJ NN|BODY_7|0
+the corresponding hash bucket|DT JJ JJ NN|BODY_4|0
+1 ) â· tedgefull|CD -RRB- NN NN|BODY_24|0
+a very close similarity|DT RB JJ NN|BODY_3|0
+all the edge structures|PDT DT NN NNS|BODY_2|0
+the next evaluation round|DT JJ NN NN|BODY_2|0
+the single-table cell evaluation|DT JJ NN NN|BODY_2|0
+a specific spatial relationship|DT JJ JJ NN|BODY_7|0
+the minimum time interval|DT NN NN NN|BODY_2|0
+traditional spatial indexing methods|JJ JJ NN NNS|BODY_2|0
+â· 2( m +|JJ JJ NN VB|BODY_17|0
+all the old tokens|PDT DT JJ NNS|BODY_3|0
+all the corresponding indices|PDT DT JJ NNS|BODY_2|0
+a given 2-d map|DT VBN JJ NN|BODY_5|0
+the expected elapsed time|DT VBN JJ NN|BODY_3|0
+a 2d unit space|DT JJ NN NN|BODY_4|0
+totalelapsedtime(seconds ) population size|NNS -RRB- NN NN|BODY_4|0
+the indexed user entities|DT JJ NN NNS|BODY_2|0
+the expected performance gain|DT VBN NN NN|BODY_3|0
+our new indexing method|PRP$ JJ NN NN|BODY_2|0
+100k , visible range|JJ , JJ NN|BODY_5|0
+âš† u uq set|NNP NN NNP NN|BODY_5|0
+two row-wise edge transitions|CD NN NN NNS|BODY_4|0
+m+1 )| u| units|CD JJ JJ NNS|BODY_8|0
+an object-initiated view model|DT JJ NN NN|BODY_6|0
+= {p2 , r1}|SYM NN , NN|BODY_3|0
+a higher p value|DT JJR NN NN|BODY_1|0
+a smaller side length|DT JJR NN NN|BODY_1|0
+any given real-time constraint|DT VBN NN NN|BODY_3|0
+different cell evaluation scenarios|JJ NN NN NNS|BODY_3|0
+different grid cell partitioning|JJ NN NN NN|BODY_1|0
+now our edge indexing|RB PRP$ NN NN|BODY_1|0
+our two novel methods|PRP$ CD NN NNS|BODY_1|0
+the grid-based partitioning model|DT JJ NN NN|BODY_1|0
+the original edge indexing|DT JJ NN NN|BODY_3|0
++1 ) } â‰ˆ|CD -RRB- NN NN|BODY_7|0
+a simple point geometry|DT JJ NN NN|BODY_2|0
+token removals and insertions|JJ NNS CC NNS|BODY_3|0
+the space and interact|DT NN CC NN|BODY_4|0
+any data delivery overhead|DT NNS NN NN|BODY_3|0
+figure 3( b )|NN JJ NN -RRB-|BODY_6|0
+the measured simulation results|DT VBN NN NNS|BODY_2|0
+râˆ — -tree )|RB JJ JJ -RRB-|BODY_4|0
+r2 r1 figure 4|NN CD NN CD|BODY_7|0
+35 ( 17 ats|CD -LRB- CD NNS|BODY_7|0
+the moving edge structures|DT VBG NN NNS|BODY_3|0
+j )( mo +|FW FW NN FW|BODY_6|0
+whose spatial extent overlaps|WP$ JJ NN NNS|BODY_4|0
+a single edge structure|DT JJ NN NN|BODY_2|0
+the 20ã—20 grid scheme|DT CD NN NN|BODY_2|0
+m2 single-table edge ts|CD JJ NN NNS|BODY_10|0
+the typical computation scheme|DT JJ NN NN|BODY_22|0
+the computed node structure|DT JJ NN NN|BODY_3|0
+a broader visible range|DT JJR JJ NN|BODY_5|0
+the condition c. r|DT NN NN NN|BODY_3|0
+different grid partitioning policies|JJ NN NN NNS|BODY_2|0
+the term object entity|DT NN NN NN|BODY_3|0
+no object popping problem|DT NN VBG NN|BODY_5|0
+any underlying distribution pattern|DT JJ NN NN|BODY_5|0
+whose average side length|WP$ JJ NN NN|BODY_11|0
+this extensible gaming environment|DT JJ NN NN|BODY_2|0
+that p and r|DT NN CC NN|BODY_2|0
+an imaginary computation scheme|DT NN NN NN|BODY_2|0
+a twostep algorithm [13]|DT JJ NN NN|BODY_2|0
+the entity update step|DT NN NN NN|BODY_4|0
+the corresponding edge structures|DT JJ NN NNS|BODY_8|0
+our edge indexing methods|PRP$ NN NN NNS|BODY_16|0
+the previous time period|DT JJ NN NN|BODY_6|0
+the most relevant entities|DT RBS JJ NNS|BODY_5|0
+the specific spatial extension|DT JJ JJ NN|BODY_5|0
+an efficient indexing method|DT JJ NN NN|BODY_4|0
++ 1 ) }|NN CD -RRB- NN|BODY_33|0
+acq-qr grid partitioning scheme|JJ NN NN NN|BODY_4|0
+two-table edge indexing )|JJ NN NN -RRB-|BODY_5|0
+any single entity update|DT JJ NN NN|BODY_15:BODY_2|0
+td ) ( 5|NN -RRB- -LRB- CD|BODY_12|0
+the two view models|DT CD NN NNS|BODY_8|0
+the previous entity region|DT JJ NN NN|BODY_8|0
+) âˆ ’ eâˆ’(i|-RRB- NN NN NN|BODY_9|0
+the map side length|DT NN NN NN|BODY_13|0
+© uq} i.p location|JJ JJ NN NN|BODY_12|0
+td ( 9 )|NN -LRB- CD -RRB-|BODY_6|0
+four query processing schemes|CD NN NN NNS|BODY_3|0
+ãˆoâˆˆo ,v<mo t node|FW , IN DT|BODY_27|0
+a = {a|a âˆˆ|DT SYM JJ NN|BODY_10|0
+our edge indexing method|PRP$ NN NN NN|BODY_3|0
+{o|o.r âˆ © q.r|JJ JJ NN NN|BODY_9|0
+the given input parameters|DT VBN NN NNS|BODY_4|0
+1 ) ã— [0|CD -RRB- NN NNP|BODY_6|0
+the same imaginary curve|DT JJ JJ NN|BODY_3|0
+our simulation based experiments|PRP$ NN VBN NNS|BODY_5|0
+td , | q||JJ , JJ NN|BODY_6|0
+an optimal visible distance|DT JJ JJ NN|BODY_4|0
+the previously adjacent cell|DT RB JJ NN|BODY_6:BODY_8|0
+its sequential token removal|PRP$ JJ JJ NN|BODY_4|0
+massively multiplayer online games|RB JJ JJ NNS|BODY_1|0
+these online optimization algorithms|DT JJ NN NNS|BODY_1|0
+the traditional view model|DT JJ NN NN|BODY_1|0
+the continuous range queries|DT JJ NN NNS|BODY_8|0
+equations 1 and 2.|NNS CD CC CD|BODY_4|0
+a slowly moving environment|DT RB VBG NN|BODY_8|0
+its neighbor cell i|PRP$ NN NN NN|BODY_6|0
+three different movement types|CD JJ NN NNS|BODY_5|0
+too many missing objects|RB JJ JJ NNS|BODY_5|0
+a grid partitioned world|DT NN VBN NN|BODY_6|0
+eight different edge structures|CD JJ NN NNS|BODY_10|0
+our edge indexing model|PRP$ NN NN NN|BODY_1|0
+a given cell j|DT VBN NN NN|BODY_3|0
+the maximum visible distance|DT JJ JJ NN|BODY_4|0
+the new cell nodes|DT JJ NN NNS|BODY_7|0
+q.p âˆˆ c. r|RB JJ NN NN|BODY_7|0
+the best e-measure value|DT JJS NN NN|BODY_1|0
+symbol meaning u set|NN NN NN NN|BODY_1|0
+disappearance token (dt )|NN JJ NN -RRB-|BODY_1|0
+the latest update events|DT JJS NN NNS|BODY_5|0
+different visibility determination schemes|JJ NN NN NNS|BODY_10|0
+6.1.3 experimental results distribution|CD JJ NNS NN|BODY_1|0
+the rq-or query result|DT NN NN NN|BODY_8|0
+previously computed result sets|RB VBN NN NNS|BODY_1|0
+an râˆ — -tree|DT JJ NN NN|BODY_8|0
+a significant performance improvement|DT JJ NN NN|BODY_30|0
+our target aptable 2|PRP$ NN JJ CD|BODY_1|0
+a lower e-measure value|DT JJR NN NN|BODY_1|0
+its higher indexing complexity|PRP$ JJR NN NN|BODY_5|0
+our new view method|PRP$ JJ NN NN|BODY_2|0
+the incremental update policy|DT JJ NN NN|BODY_1|0
+the client console side|DT NN NN NN|BODY_7|0
+4.4.1 idea edge structure|CD NN NN NN|BODY_1|0
+the underlying moving environments|DT JJ VBG NNS|BODY_5|0
+their own created content|PRP$ JJ VBN NN|BODY_3|0
+the spectator entity corresponds|DT NN NN NNS|BODY_1|0
+our spatial indexing solution|PRP$ JJ NN NN|BODY_1|0
+a given range query|DT VBN NN NN|BODY_1|0
+the corresponding grid cell|DT JJ NN NN|BODY_19|0
+figure 1( b )|NN JJ NN -RRB-|BODY_5|0
+cell 3 to 4|NN CD TO CD|BODY_1|0
+the new spatial conditions|DT JJ JJ NNS|BODY_8|0
+a stationary edge structure|DT JJ NN NN|BODY_3|0
+the token removal time|DT JJ NN NN|BODY_1|0
+their own square-shaped aoi.|PRP$ JJ JJ NN|BODY_6|0
+the leftmost node structures|DT JJ NN NNS|BODY_1|0
+a lower r value|DT JJR NN NN|BODY_1|0
+the 3d graphics field|DT JJ NNS NN|BODY_3|0
+formally {o|q.p âˆˆ o.r}|RB JJ JJ NN|BODY_6|0
+naâ¨ä±ve edge indexing stores|JJ NN NN NNS|BODY_1|0
+a user aoi range|DT NN NN NN|BODY_4|0
+a token scan operation|DT JJ NN NN|BODY_1|0
+quantitative analyses and simulations|JJ NNS CC NNS|BODY_7|0
+such an experience unlikely|JJ DT NN JJ|BODY_6|0
+an object hash table|DT NN NN NN|BODY_8|0
+its strengths and limitations|PRP$ NNS CC NNS|BODY_4|0
+our target application model|PRP$ NN NN NN|BODY_5|0
+the first two requirements|DT JJ CD NNS|BODY_3|0
+rectangle-shaped range queries [13]|JJ NN NNS NNS|BODY_6|0
+a more lightweight procedure|DT RBR JJ NN|BODY_3|0
+two-table edge indexing executes|JJ NN NN NNS|BODY_1|0
+any edge indexing method|DT NN NN NN|BODY_6|0
+the slowly moving environment|DT RB VBG NN|BODY_5|0
+their ats or dts|PRP$ NNS CC NNS|BODY_5|0
+too many unnecessary objects|RB JJ JJ NNS|BODY_6|0
+q-index [13 , 11]|NN CD , CD|BODY_1|0
+different user side lengths|JJ NN NN NNS|BODY_6|0
+the cell evaluation process|DT NN NN NN|BODY_1|0
+the underlying data distribution|DT JJ NNS NN|BODY_4|0
+the node indexing method|DT NN NN NN|BODY_1|0
+the token insertion cost|DT JJ NN NN|BODY_3|0
+at least 5 %|IN JJS CD NN|BODY_8|0
+all moving edge structures|DT VBG NN NNS|BODY_1|0
+tokens|NNS|BODY_2:BODY_3:BODY_10:BODY_4|0
+an entity|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_9|0
+the two-table approach|DT JJ NN|BODY_5:BODY_2:BODY_3|0

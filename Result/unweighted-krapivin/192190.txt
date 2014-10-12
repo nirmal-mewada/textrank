@@ -1,0 +1,1070 @@
+si|FW|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_9|0
+that|WDT|BODY_6:BODY_5:BODY_27:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+cells|NNS|BODY_6:BODY_15:ABSTRACT_2:BODY_2:BODY_1:ABSTRACT_1:BODY_4:ABSTRACT_9|0
+tcl|NN|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_3:BODY_10:BODY_19:BODY_4:BODY_7|0
+the user|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+formulas|NNS|BODY_6:BODY_12:BODY_5:BODY_11:ABSTRACT_6:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8|0
+the formula|DT NN|BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+images|NNS|BODY_6:ABSTRACT_4:TITLE_1:ABSTRACT_3:BODY_3:BODY_4:BODY_10|0
+the spreadsheet|DT NN|ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the cell|DT NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+they|PRP|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8|0
+a cell|DT NN|BODY_5:BODY_2:BODY_3|0
+registers|NNS|BODY_2:BODY_1:BODY_3|0
+a formula|DT NN|BODY_6:BODY_1:BODY_3|0
+this example|DT NN|BODY_12:BODY_13:BODY_2:BODY_1:BODY_3|0
+cell b2|NN NN|BODY_1:BODY_2:BODY_3|0
+this|DT|BODY_2:BODY_1:BODY_7:BODY_8|0
+a1|NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+commands|NNS|BODY_23:BODY_1:BODY_2:BODY_24:BODY_7|0
+the image|DT NN|BODY_5:BODY_13:BODY_2:BODY_4:BODY_9|0
+the slider|DT NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_1:BODY_4|0
+them|PRP|BODY_6:BODY_5:BODY_4|0
+display|NN|BODY_11:BODY_13:BODY_1:BODY_4:BODY_8|0
+a tcl list|DT JJ NN|BODY_2:BODY_4|0
+objects|NNS|BODY_6:BODY_13:BODY_2:BODY_1:ABSTRACT_1:BODY_7|0
+the dependency graph|DT NN NN|BODY_2:BODY_3:BODY_7|0
+explorer|NN|BODY_2:BODY_1:BODY_3|0
+the widget|DT NN|BODY_2|0
+flow charts|NN NNS|BODY_1:BODY_3|0
+the ability|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the contents|DT NNS|BODY_6:BODY_18:BODY_2:BODY_3|0
+cell a1|NN NNS|BODY_21:BODY_2:BODY_3:BODY_10:BODY_8|0
+a register|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+users|NNS|BODY_2:BODY_1|0
+the dependency analysis|DT NN NN|BODY_2|0
+example|NN|BODY_1:BODY_14:BODY_7|0
+cell b1|NN NNS|BODY_6:BODY_5:BODY_3:BODY_7:BODY_8|0
+this formula|DT NN|BODY_6:BODY_15:BODY_2|0
+numerical spreadsheets|JJ NNS|BODY_3:BODY_4|0
+a2|NNS|BODY_6:BODY_5:BODY_14:BODY_4|0
+the name|DT NN|BODY_5:BODY_2:BODY_3|0
+the formula language|DT NN NN|BODY_2:BODY_3|0
+widgets|NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_4|0
+spreadsheets|NNS|ABSTRACT_2:BODY_1:ABSTRACT_3:BODY_3:ABSTRACT_9|0
+the time|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+conventional spreadsheets|JJ NNS|BODY_6:BODY_1:BODY_4|0
+assignment statements|NN NNS|BODY_2:BODY_4:BODY_7|0
+load alps|NN NNS|BODY_23:BODY_3:BODY_4:BODY_7:BODY_8|0
+0 255}|CD CD|BODY_4:BODY_8|0
+the future|DT NN|BODY_2:BODY_8|0
+addition|NN|BODY_2:BODY_1|0
+emacs|NNS|BODY_5:BODY_3:BODY_4:BODY_7|0
+one|CD|BODY_2:BODY_4|0
+cell d2|NN NN|BODY_5:BODY_2:BODY_4|0
+its result|PRP$ NN|BODY_3:BODY_4|0
+type|NN|BODY_5:BODY_2|0
+cell|NN|BODY_3:BODY_4:BODY_8|0
+a set|DT NN|BODY_12:BODY_3:BODY_9|0
+the loop body|DT NN NN|BODY_5:BODY_1:BODY_4:BODY_8|0
+view|NN|BODY_3:BODY_4|0
+options|NNS|BODY_4|0
+cycles|NNS|BODY_4:BODY_7|0
+operators|NNS|ABSTRACT_5:BODY_3:BODY_4|0
+the loop|DT NN|BODY_6:BODY_12:BODY_16:BODY_2|0
+miniature|NN|BODY_6:ABSTRACT_2:BODY_2|0
+the values|DT NNS|BODY_5:BODY_4|0
+the presence|DT NN|BODY_1:BODY_3|0
+command operands|NN NNS|BODY_3:BODY_4|0
+once|RB|BODY_6:BODY_3:BODY_7|0
+cell c1|NN NNS|BODY_6:BODY_5:BODY_15|0
+the early stages|DT JJ NNS|BODY_5:BODY_1|0
+figures|NNS|BODY_2|0
+many fruitful discussions|JJ JJ NNS|BODY_2|0
+novice user|JJ NN|BODY_2|0
+register|NN|BODY_2|0
+slider widget|NN NN|BODY_2|0
+b1|CD|BODY_5:BODY_4:BODY_7|0
+the si kernel|DT FW FW|BODY_5:BODY_1:BODY_2:BODY_25|0
+the x window system|DT NN NN NN|BODY_3:BODY_9|0
+these|DT|BODY_1:BODY_7|0
+a volume|DT NN|BODY_5:BODY_4|0
+an emacs window|DT NNS NN|BODY_2:BODY_3|0
+themselves|PRP|BODY_5:BODY_2:BODY_4|0
+control|NN|BODY_5:BODY_3|0
+order|NN|BODY_12:BODY_16|0
+operations|NNS|BODY_5:BODY_18|0
+most commands|JJS NNS|BODY_2:BODY_4|0
+the flow chart|DT NN NN|BODY_6|0
+the logical structure and command set|DT JJ NN CC NN NN|BODY_2:BODY_4|0
+all|DT|BODY_1:BODY_2|0
+defaults|NNS|BODY_5:BODY_8|0
+the kernel|DT NN|BODY_2:BODY_1:BODY_4|0
+the jump|DT NN|BODY_2:BODY_4|0
+values|NNS|BODY_3:BODY_7|0
+control structures|NN NNS|BODY_11:BODY_1:BODY_10|0
+section|NN|BODY_6:BODY_5:BODY_1|0
+each|DT|BODY_18:BODY_4|0
+references|NNS|BODY_5:BODY_2|0
+complexity|NN|BODY_5:BODY_3|0
+a formula language|DT NN NN|BODY_6:BODY_2|0
+examples|NNS|BODY_1:BODY_3|0
+tk|NN|BODY_5:BODY_1|0
+the size|DT NN|BODY_5:BODY_8|0
+command|NN|BODY_5:BODY_2|0
+a volume register|DT NN NN|BODY_4:BODY_8|0
+{set|NN|BODY_18:BODY_15:BODY_9|0
+)|-RRB-|BODY_5|0
+us|PRP|BODY_5:BODY_2|0
+the brightest 5 slices|DT JJS CD NNS|BODY_2:BODY_14|0
+the power|DT NN|BODY_1:BODY_2:BODY_10|0
+a graph-based execution model|DT JJ NN NN|BODY_2|0
+a kernel|DT NN|BODY_4|0
+a module icon|DT NN NN|BODY_2|0
+paul haeberli|DT NNS|BODY_4|0
+the animation|DT NN|BODY_2|0
+the last frame|DT JJ NN|BODY_4|0
+the structure and commands|DT NN CC NNS|BODY_2|0
+their associated wiring|PRP$ JJ NN|BODY_4|0
+arguments|NNS|BODY_11:BODY_2|0
+a smart clipboard|DT JJ NN|BODY_3:ABSTRACT_9|0
+commercially available image processing and data visualization systems|RB JJ NN NN CC NN NN NNS|BODY_3|0
+contract ccr-9157767|NN NNS|BODY_3|0
+our ability|PRP$ NN|BODY_2|0
+procedure calls|NN NNS|BODY_2|0
+reenable cells|JJ NNS|BODY_3|0
+the majority|DT NN|BODY_2|0
+the nsf|DT NN|BODY_2|0
+variable substitution|JJ NN|BODY_3|0
+a variety|DT NN|BODY_5:BODY_10|0
+the register|DT NN|BODY_1:BODY_7|0
+figure 4|NN CD|BODY_5:BODY_1:BODY_2|0
+a condition|DT NN|BODY_3:BODY_8|0
+reference|NN|BODY_2:BODY_3|0
+miniature images suffice|JJ NNS NN|BODY_3|0
+(|-LRB-|BODY_6:BODY_7|0
+90 }|CD NNS|BODY_12:BODY_18|0
+the dependency relationships|DT NN NNS|BODY_1:BODY_2|0
+0}|CD|BODY_16:BODY_19:BODY_10|0
+row|NN|BODY_6|0
+the notation|DT NN|BODY_2|0
+the beginning|DT NN|BODY_11:BODY_3|0
+an image|DT NN|BODY_2:BODY_7|0
+'s forms ui toolkit|POS NNS FW NN|BODY_5|0
+'s iiss environment|POS JJ NN|BODY_2|0
+there|EX|BODY_1:BODY_4|0
+avs , explorer , ape , khoros , ibm|NNS , NN , NN , NNS , NN|BODY_2|0
+borland|NNP|BODY_7|0
+voxelview|NN|BODY_9|0
+output|NN|BODY_3:BODY_4|0
+procedure|NN|BODY_10|0
+the widgets|DT NNS|BODY_2|0
+a spreadsheet|DT NN|BODY_2:BODY_1:BODY_7|0
+the needs|DT NNS|BODY_10|0
+polygonal meshes|JJ NNS|BODY_7|0
+the slider command|DT NN NN|BODY_2|0
+a natural mechanism|DT JJ NN|BODY_2:BODY_3|0
+the data|DT NNS|BODY_2:BODY_4|0
+a directed edge|DT VBN NN|BODY_8:BODY_9|0
+long cell computation times|JJ NN NN NNS|BODY_2:BODY_8|0
+david heeger|JJ NN|BODY_2|0
+a miniature version|DT JJ NN|BODY_1:BODY_9|0
+the spreadsheet paradigm|DT NN NN|ABSTRACT_4:BODY_10|0
+figure|NN|BODY_6:BODY_3|0
+'s asp package [6]|POS NN NN NN|BODY_2|0
+that cell|DT NN|BODY_6:BODY_4:BODY_8|0
+programming|NN|BODY_7|0
+strings|NNS|BODY_6:BODY_3|0
+image subwindows|NN NNS|BODY_2|0
+a loop|DT NN|BODY_2|0
+lisp|NN|BODY_2|0
+this construction|DT NN|BODY_2|0
+active widgets|JJ NNS|BODY_6:BODY_1|0
+b4+0+$|NN|BODY_21|0
+cell f4|NN NNS|BODY_6:BODY_9|0
+these examples|DT NNS|BODY_2|0
+the modified formulas|DT VBN NNS|BODY_6|0
+its output register|PRP$ NN NN|BODY_5|0
+a macro sheet|DT JJ NN|BODY_6:BODY_2|0
+/b/1 forces|CD NNS|BODY_4|0
+tcl vari- ables|JJ NNS NNS|BODY_4|0
+si (|FW -LRB-|BODY_2|0
+the features|DT NNS|BODY_5:BODY_1|0
+a compiled language|DT VBN NN|BODY_3|0
+a polygon mesh package|DT NN NN NN|BODY_3|0
+sliders|NNS|ABSTRACT_4|0
+in|IN|BODY_2:BODY_3|0
+longer computation times|RB NN NNS|ABSTRACT_6|0
+data registers|NNS NNS|BODY_2|0
+its descendents|PRP$ NNS|BODY_3:BODY_4|0
+computer animation|NN NN|BODY_5|0
+nodes|NNS|BODY_6|0
+public presentations|JJ NNS|BODY_6|0
+the window frame|DT NN NN|BODY_5|0
+three columns|CD NNS|BODY_5|0
+the unix shell|DT NN NN|BODY_13|0
+0 0}|CD CD|BODY_28|0
+'s explorer [7|POS NN NNS|BODY_2|0
+an x11 toolkit|DT NN NN|BODY_6|0
+the macro sheet|DT JJ NN|BODY_5|0
+excel version|JJ NN|BODY_2|0
+loops|NNS|BODY_5:BODY_1|0
+three general forms|CD JJ NNS|BODY_3|0
+the command|DT NN|BODY_2:BODY_1|0
+spreadsheet programming|NN NN|BODY_4|0
+the pixel values|DT NN NNS|BODY_2|0
+most active widgets|RBS JJ NNS|BODY_3|0
+a custom mathematica-like formula language|DT NN JJ NN NN|BODY_3|0
+mark overmars|NN NNS|BODY_4|0
+b3|CD|BODY_26:BODY_3|0
+our firing algorithm|PRP$ NN NN|BODY_6:BODY_2|0
+one row|CD NN|BODY_3|0
+the value|DT NN|BODY_5:BODY_2:BODY_4|0
+powerful language semantics|JJ NN NNS|BODY_2|0
+an input argument|DT NN NN|BODY_2|0
+comparisons|NNS|BODY_6:BODY_1|0
+the chart|DT NN|BODY_15|0
+image processing|NN NN|BODY_5:ABSTRACT_7|0
+local variables|JJ NNS|BODY_2:BODY_7|0
+other cells|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_3|0
+a visual programming interface|DT JJ NN NN|BODY_3|0
+directions|NNS|BODY_3|0
+explorer measures modules|NN NNS NNS|BODY_3|0
+si si|FW FW|BODY_3|0
+the|DT|BODY_1:BODY_4|0
+richard frank|JJ JJ|BODY_3|0
+si.|NN|BODY_6:BODY_3|0
+our spreadsheet|PRP$ NN|ABSTRACT_2:BODY_2|0
+fieldview|NN|BODY_7|0
+pv-wave|NN|BODY_4|0
+outputs|NNS|BODY_2:BODY_3|0
+figure 1|NN CD|BODY_23:BODY_3|0
+lotus|NN|BODY_5|0
+this algorithm|DT NN|BODY_2|0
+the reference|DT NN|BODY_6:BODY_5|0
+gl|JJ|BODY_3|0
+a tcl procedure|DT JJ NN|BODY_5|0
+b/1|NNS|BODY_3|0
+the column|DT NN|BODY_5|0
+the nonportable version|DT JJ NN|BODY_4|0
+mouse event|NN NN|BODY_8|0
+'s data explorer|POS NNS NN|BODY_3|0
+intelligent light|JJ NN|BODY_8|0
+the classified volume|DT JJ NN|BODY_6:BODY_1|0
+silicon graphics|NN NNS|BODY_5|0
+b2|NNS|BODY_6:BODY_5|0
+'s 1-2-3|POS NNP|BODY_6|0
+a simplified interface|DT JJ NN|BODY_7|0
+frequency domain operators|NN NN NNS|BODY_6|0
+visual programming|JJ NN|BODY_6|0
+spatial warps|JJ NNS|BODY_5|0
+the cells|DT NNS|BODY_2:BODY_9|0
+its simple interface|PRP$ JJ NN|BODY_9|0
+an embedded formula language|DT JJ NN NN|BODY_4|0
+chart systems|NN NNS|BODY_2|0
+'s data visualizer|POS NNS NN|BODY_6|0
+wavefront|NN|BODY_5|0
+the mouse|DT NN|BODY_6:BODY_1|0
+modules|NNS|BODY_1:BODY_2|0
+robert skinner|NN NN|BODY_4|0
+interactive controls|JJ NNS|BODY_3|0
+45 degrees|CD NNS|BODY_3:BODY_7|0
+a mechanism|DT NN|BODY_5|0
+excel|VB|BODY_3|0
+trouble|NN|BODY_8|0
+an arbitrary name|DT JJ NN|BODY_4|0
+the flow|DT NN|BODY_2|0
+the while-loop|DT NN|BODY_4|0
+both brevity and flexibility|DT NN CC NN|BODY_2|0
+future development|JJ NN|BODY_2|0
+graphics|NNS|BODY_3|0
+'s scale  widget|POS NN NN NN|BODY_2|0
+a point and click interface|DT NN CC NN NN|BODY_2|0
+building application packages|NN NN NNS|BODY_2|0
+expressiveness|NN|BODY_2|0
+its overall structure|PRP$ JJ NN|BODY_2|0
+our choice|PRP$ NN|BODY_1|0
+our efforts|PRP$ NNS|BODY_1|0
+particular interest|JJ NN|BODY_1|0
+starred commands|JJ NNS|BODY_1|0
+tcl ( toolkit command language ) [3]|JJ -LRB- NN NN NN -RRB- NN|BODY_2|0
+the decimated text|DT VBN NN|BODY_1|0
+the looping commands|DT JJ NNS|BODY_2|0
+the main spreadsheet|DT JJ NN|BODY_2|0
+the paper|DT NN|BODY_2|0
+the remainder|DT NN|BODY_1|0
+the slider widget|DT NN NN|BODY_1|0
+this notation|DT NN|BODY_1|0
+three major factors|CD JJ NNS|BODY_1|0
+titleheight|NN|BODY_17|0
+zlen] }|FW FW|BODY_12|0
+a spreadsheet program|DT NN NN|BODY_3|0
+view-pixel* services cellsize*|JJ NNS NN|BODY_18|0
+an array manipulation language|DT NN NN NN|BODY_11|0
+storesheet|NN|BODY_15|0
+winsize*|NN|BODY_16|0
+the desktop|DT NN|ABSTRACT_10|0
+< [d2|FW FW|BODY_11|0
+view-cell , cut* , copy* , paste* , delete* , enable* , disable* cell manipulation|NN , NN , NN , NN , NN , NN , NN NN NN|BODY_19|0
+a data exploration|DT NN NN|BODY_2|0
+slider|NN|BODY_9|0
+{$ z|JJ NN|BODY_10|0
+the most highly developed|DT RBS RB VBN|BODY_3|0
+more commands|RBR NNS|BODY_3|0
+volumes|NNS|ABSTRACT_5:BODY_1|0
+the language|DT NN|BODY_6:BODY_2|0
+the full-size widget|DT JJ NN|BODY_5:BODY_9|0
+a c or c++ interpreter|DT NN CC JJ NN|BODY_3|0
+text-oriented widgets|JJ NNS|BODY_4|0
+a|DT|BODY_5|0
+queryreg|NN|BODY_20|0
+coordinates|NNS|BODY_5|0
+compiled (|VBN -LRB-|BODY_6|0
+one cell|CD NN|BODY_3|0
+larger formulas|JJR NNS|ABSTRACT_5|0
+tk [4]|JJ NN|BODY_5|0
+the appendix )|DT NN -RRB-|BODY_3|0
+new widgets|JJ NNS|BODY_6|0
+enough|RB|BODY_9|0
+arithmetic expressions|JJ NNS|BODY_3|0
+} { lappend|FW FW NN|BODY_14|0
+17 pixels|CD NNS|BODY_4|0
+an exposure sheet|DT NN NN|BODY_4|0
+colleagues|NNS|BODY_5|0
+two types|CD NNS|BODY_5|0
+'s excel|POS NN|BODY_4|0
+a tcl command|DT NN NN|BODY_2:BODY_4|0
+a base set|DT NN NN|BODY_2|0
+a simple classification pipeline|DT JJ NN NN|BODY_2|0
+conventional numerical spreadsheets|JJ JJ NNS|BODY_1:ABSTRACT_1|0
+their underlying registers|PRP$ JJ NNS|BODY_6:BODY_10|0
+{incr z|FW NN|BODY_13|0
+the cine viewer widget|DT NN NN NN|BODY_2:BODY_10|0
+the figure|DT NN|BODY_3|0
+tk-compatible widgets|JJ NNS|BODY_3|0
+'s advantages|POS NNS|BODY_5|0
+some unexpected uses|DT JJ NNS|ABSTRACT_5:BODY_2|0
+center|NN|BODY_8|0
+the smalltalk-80 object-oriented programming environment|DT JJ JJ NN NN|BODY_4|0
+integrated systems email|JJ NNS NN|BODY_9|0
+ modules|NN NNS|BODY_2|0
+custom modules|NN NNS|BODY_3|0
+{set z|NN NN|BODY_9|0
+microsoft|JJ|BODY_3|0
+the byte command|DT NN NN|BODY_1:BODY_14|0
+pushwindow register manipulation loadsheet|NN NN NN NN|BODY_14|0
+occupancy 3d occupancy|NN NN NN|BODY_21|0
+'s offset( a1,2,3 )|POS JJ NN -RRB-|BODY_4|0
+compact , reusable parts|JJ , JJ NNS|BODY_7|0
+the firing algorithm|DT NN NN|BODY_3:BODY_4|0
+'s graphics library|POS NNS NN|BODY_6|0
+slices|NNS|BODY_4|0
+' point|POS NN|BODY_2|0
+the button|DT NN|BODY_2:BODY_1|0
+memory|NN|BODY_2:BODY_3|0
+evaluate conditionals|VB NNS|BODY_3|0
+this paper|DT NN|BODY_5:BODY_3|0
+graphical objects|JJ NNS|ABSTRACT_3:BODY_9|0
+a data value|DT NN NN|BODY_5:BODY_8|0
+ramp b2 [makeramp|NN NNS NN|BODY_27|0
+label|NN|BODY_10|0
+levoy@cs .stanford .edu stanford university web|NNS NNP NNP NN NN NN|BODY_10|0
+the sequence|DT NN|BODY_5|0
+register names|NN NNS|BODY_3|0
+the examples|DT NNS|BODY_4|0
+{byte $ i a2|JJ $ IN NN|BODY_20|0
+user applications|NN NNS|BODY_8|0
+an overlay|DT NN|BODY_3|0
+one or more formulas or objects|CD CC JJR NNS CC NNS|BODY_2|0
+$ i < 5} {incr i} {|$ IN FW CD FW NN FW|BODY_20|0
+plot|NN|BODY_11|0
+popwindow|NN|BODY_13|0
+codereg|NN|BODY_21|0
+the tcl|DT NN|BODY_4|0
+such computation shedding|JJ NN VBG|BODY_4|0
+processing steps|NN NNS|BODY_3|0
+image data|NN NNS|BODY_2|0
+principle|NN|BODY_2|0
+scalar , vector , scanline , image , volume register creation button|NN , NN , NN , NN , NN NN NN NN|BODY_8|0
+c , c++ , tcl/tk|NN , NN , NN|BODY_2|0
+c-callable interface routines|JJ NN NNS|BODY_10|0
+several|JJ|BODY_4|0
+the commands|DT NNS|BODY_25|0
+a complete definition|DT JJ NN|BODY_3|0
+si take one|FW VB CD|BODY_2|0
+several minutes|JJ NNS|BODY_4|0
+a command name|DT NN NN|BODY_3|0
+http ://www-graphics|NN NNS|BODY_11|0
+fire b2|NN NNS|BODY_21|0
+ ||BODY_8|0
+the mouse button|DT NN NN|BODY_4|0
+slice|NN|BODY_16|0
+30 }|CD NNS|BODY_19|0
+its fast execution|PRP$ JJ NN|BODY_7|0
+opinion|NN|BODY_20|0
+appendix|NN|BODY_4|0
+codecell data structure|NN NNS NN|BODY_22|0
+unix|NNP|BODY_2|0
+a richer library|DT JJR NN|BODY_4|0
+register types|NN NNS|BODY_6|0
+its small code size|PRP$ JJ NN NN|BODY_6|0
+rotate c1|NN NNS|BODY_6|0
+development|NN|BODY_2|0
+the regularity|DT NN|BODY_3|0
+insert|NN|BODY_15|0
+one or more parameters|CD CC JJR NNS|BODY_4|0
+a useful feature|DT JJ NN|BODY_6|0
+30 } {rotate|CD NNS NN|BODY_13|0
+convolve , scale , displace , makedisplacement spatial operations|VB , NN , NN , NN JJ NNS|BODY_19|0
+extensive support|JJ NN|BODY_2|0
+[c1 ]|NNS SYM|BODY_11|0
+the load command executes|DT NN NN NNS|BODY_3|0
+each cell|DT NN|ABSTRACT_3:BODY_3|0
+the cine viewer|DT NN NN|BODY_3:BODY_10|0
+one part|CD NN|BODY_6:BODY_3|0
+multiple cells|JJ NNS|BODY_2:ABSTRACT_10|0
+a data analysis language|DT NNS NN NN|BODY_3|0
+any cell|DT NN|BODY_4|0
+the interactivity|DT NN|BODY_4|0
+others|NNS|BODY_6|0
+a flow chart visualizer|DT NN NN NN|BODY_5|0
+a widget command|DT NN NN|BODY_3:BODY_9|0
+[load head|JJ NN|BODY_6:BODY_8|0
+functional and imperative programming|JJ CC JJ NN|BODY_4|0
+no numerical datatypes|DT JJ NNS|BODY_2|0
+functional and imperative programming styles|JJ CC JJ NN NNS|BODY_3|0
+only the register|RB DT NN|BODY_4|0
+delete register manipulation|NN NN NN|BODY_17|0
+address|NN|BODY_7|0
+spreadsheet|NN|BODY_2|0
+these tk-defined options|DT JJ NNS|BODY_2|0
+substitution mechanisms|NN NNS|BODY_12|0
+-box [c1|NN NNS|BODY_10|0
+cell references|NN NNS|BODY_3:BODY_4|0
+width (|NN -LRB-|BODY_10|0
+the input|DT NN|BODY_3|0
+an obvious way|DT JJ NN|BODY_3|0
+the liberal use|DT JJ NN|BODY_4|0
+a graphical user interface builder|DT JJ NN NN NN|ABSTRACT_8|0
+buttons|NNS|ABSTRACT_3|0
+a pipeline|DT NN|BODY_3|0
+spreadsheet systems|NN NNS|BODY_2|0
+arbitrary order|JJ NN|BODY_4|0
+a group|DT NN|BODY_3:BODY_4|0
+a general-purpose programming language|DT JJ NN NN|ABSTRACT_3:BODY_4|0
+tcl code|JJ NN|BODY_2|0
+more complicated intercell dependencies|JJR JJ NN NNS|BODY_3|0
+newreg|JJ|BODY_4|0
+an initialization script|DT NN NN|BODY_5|0
+our experience|PRP$ NN|BODY_2|0
+such for- mulas|JJ NNS NNS|BODY_2|0
+store|NN|BODY_10|0
+scratch|NN|BODY_8|0
+these classified slices|DT JJ NNS|BODY_2|0
+the extemporaneous qualities|DT JJ NNS|BODY_6|0
+[mean [slice d2|JJ NN NN|BODY_15|0
+arrays|NNS|BODY_2|0
+our desktop|PRP$ NN|BODY_5|0
+any context|DT NN|BODY_2|0
+a one-line expression|DT JJ NN|BODY_3|0
+its register name|PRP$ NN NN|BODY_6|0
+$ i <|$ IN FW|BODY_11:BODY_17|0
+cell names|NN NNS|BODY_2|0
+3x3 )|CD -RRB-|BODY_11|0
+our spreadsheets|PRP$ NNS|ABSTRACT_6|0
+rotate b1|NN CD|BODY_25|0
+the rotated image|DT JJ NN|BODY_3|0
+a printf statement|DT NN NN|BODY_7|0
+12 x|CD NN|BODY_3|0
+a database browser|DT NN NN|BODY_3|0
+a directed acyclic graph|DT VBN NN NN|BODY_4|0
+research results|NN NNS|BODY_4|0
+several unique design problems|JJ JJ NN NNS|ABSTRACT_4|0
+wasted computation|VBN NN|BODY_2|0
+the face|DT NN|BODY_7|0
+'s command substitution mechanism|POS NN NN NN|BODY_6|0
+an ideal solution|DT JJ NN|BODY_2|0
+if|IN|BODY_5|0
+any- thing|DT NN|BODY_2|0
+ (typeset|JJ NN|BODY_3|0
+all formulas|DT NNS|BODY_2|0
+only rudimentary functionality|RB JJ NN|BODY_2|0
+these problems|DT NNS|ABSTRACT_2|0
+the form|DT NN|BODY_3|0
+a range|DT NN|BODY_6|0
+conversions|NNS|BODY_7|0
+a combination|DT NN|BODY_6|0
+a displayable type|DT JJ NN|BODY_2|0
+a simple programming model|DT JJ NN NN|BODY_4|0
+a two-language design|DT JJ NN|BODY_2|0
+feedback|NN|BODY_3|0
+which formula|WDT NN|BODY_3|0
+a queue|DT NN|BODY_3|0
+the command set|DT NN NN|BODY_1|0
+( 2 ) b1|-LRB- CD -RRB- CD|BODY_22|0
+multiple datasets|JJ NNS|BODY_5:BODY_3|0
+|NN|BODY_2|0
+these packages|DT NNS|BODY_4|0
+the registers|DT NNS|BODY_4|0
+these optimizations|DT NNS|BODY_2|0
+a cell name argument|DT NN NN NN|BODY_3|0
+ramp b1 [makeramp|NN CD NN|BODY_7|0
+an imperative programming style (|DT JJ NN NN -LRB-|BODY_2|0
+gl but|JJ CC|BODY_4|0
+the window management and event handling services|DT NN NN CC NN NN NNS|BODY_2|0
+the basis|DT NN|BODY_4|0
+newlines|NNS|BODY_3|0
+( 3 ) b2|-LRB- CD -RRB- NN|BODY_9|0
+system design|NN NN|BODY_3|0
+several orders|JJ NNS|BODY_3|0
+the invalid object|DT JJ NN|BODY_5|0
+cell d1|NN NNS|BODY_3|0
+a user|DT NN|BODY_3|0
+si generally|FW RB|BODY_2|0
+si. load|DT NN|BODY_9|0
+a simple|DT NN|BODY_2|0
+smalltalk|NN|BODY_7|0
+'s goals|POS NNS|BODY_4|0
+its interface|PRP$ NN|BODY_5|0
+the tcl list|DT JJ NN|BODY_3|0
+imageviewer|NN|BODY_12|0
+openwindow*|NN|BODY_12|0
+ousterhout|NN|BODY_3|0
+a visual database browser|DT JJ NN NN|ABSTRACT_7|0
+figure 2|NN CD|BODY_22|0
+the output register|DT NN NN|BODY_6:BODY_3|0
+a reference|DT NN|BODY_5|0
+a system|DT NN|BODY_2|0
+cell c3|NN NN|BODY_3|0
+loads|NNS|BODY_3|0
+a cubic b-spline|DT JJ NN|BODY_2|0
+lists|NNS|BODY_7|0
+manipulating variables|NN NNS|BODY_5|0
+four rotational positions|CD JJ NNS|BODY_17|0
+built-in commands|JJ NNS|BODY_4|0
+files|NNS|BODY_8|0
+copy|NN|BODY_14|0
+$ i|$ IN|BODY_14|0
+the ramp command|DT NN NN|BODY_3|0
+its y-axis|PRP$ NNS|BODY_6|0
+no modules|DT NNS|BODY_2|0
+3d graphics|JJ NNS|BODY_4|0
+set|VBN|BODY_7|0
+execution|NN|BODY_5|0
+a cycle|DT NN|BODY_2|0
+no convenient mechanism|DT JJ NN|BODY_2|0
+the speed|DT NN|BODY_2|0
+conditionally executed commands and substitutions|RB VBN NNS CC NNS|BODY_2|0
+screen space|NN NN|BODY_14|0
+the mean pixel intensity|DT JJ NN NN|BODY_3|0
+a volume visualization package|DT NN NN NN|BODY_2|0
+a standard problem|DT JJ NN|BODY_2|0
+a conceptual point|DT JJ NN|BODY_3|0
+the choice|DT NN|BODY_5|0
+a full complement|DT JJ NN|BODY_9|0
+two rows|CD NNS|BODY_4|0
+4.0 [2]|CD NNS|BODY_3|0
+one additional cell|CD JJ NN|BODY_10|0
+'s firing algorithm differs|POS NN NN NNS|BODY_2|0
+rise|NN|BODY_8|0
+.reg b2|JJ NNS|BODY_24|0
+rotate|NN|BODY_6|0
+the maximum gradient magnitude|DT NN NN NN|BODY_12|0
+the one|DT CD|BODY_4|0
+imperative programming|JJ NN|BODY_2|0
+a long sequence|DT JJ NN|BODY_4|0
+these last two|DT JJ CD|BODY_2|0
+our image processing package|PRP$ NN NN NN|BODY_2|0
+procedures|NNS|BODY_8|0
+multiple operators|JJ NNS|BODY_4|0
+{[max [gradient {byte|NN NN NN|BODY_12|0
+other systems|JJ NNS|BODY_7|0
+their usual appearance|PRP$ JJ NN|BODY_2|0
+the alpine pasture image|DT NN NN NN|BODY_16|0
+named myreg|VBN NN|BODY_5|0
+its resampling filter|PRP$ NN NN|BODY_3|0
+cineviewer -rocking [load head|NN NN NN NN|BODY_2|0
+the miniature version|DT JJ NN|BODY_8|0
+those|DT|BODY_2|0
+the for-loops|DT NNS|BODY_4|0
+systems|NNS|BODY_6|0
+execut- ing|NNS NN|BODY_4|0
+more than one command|JJR IN CD NN|BODY_2|0
+.edu stanford|NNP NN|BODY_12|0
+the slices|DT NNS|BODY_5|0
+mean slice pixel intensity|JJ NN NN NN|BODY_13|0
+slice numbers|NN NNS|BODY_11|0
+a novice|DT NN|BODY_7|0
+this case|DT NN|BODY_6|0
+the firing algorithms|DT NN NNS|BODY_3|0
+a string result|DT NN NN|BODY_4|0
+45 newreg|CD NN|BODY_3|0
+a box filter|DT NN NN|BODY_9|0
+$ means|$ VBZ|BODY_17|0
+the slider bar|DT NN NN|BODY_3|0
+a second list|DT JJ NN|BODY_10|0
+a sequence|DT NN|BODY_2|0
+1 ) )|CD -RRB- -RRB-|BODY_15|0
+rotate -bspline myreg y|NN NN NN NN|BODY_2|0
+live or dead|JJ CC JJ|BODY_3|0
+a data object|DT NN NN|BODY_4|0
+edited or reenabled formulas|JJ CC JJ NNS|BODY_4|0
+a prototype image processing package|DT NN NN NN NN|BODY_24|0
+lorder|NN|BODY_7|0
+a value|DT NN|BODY_3|0
+temp|NN|BODY_8|0
+whose offsets|WP$ NNS|BODY_3:BODY_4|0
+the last command|DT JJ NN|BODY_5|0
+the example|DT NN|BODY_5|0
+a time|DT NN|BODY_5:BODY_8|0
+sets|NNS|BODY_3|0
+array manipulations|NN NNS|BODY_4|0
+operands|NNS|BODY_3|0
+the entire spreadsheet|DT JJ NN|BODY_9|0
+the [d2 zlen ] slices|DT CD JJ SYM NNS|BODY_5|0
+cut and paste|NN CC NN|BODY_4|0
+y 45 newreg|NN CD NN|BODY_1:BODY_3|0
+the cell name argument|DT NN NN NN|BODY_5|0
+a window|DT NN|BODY_6|0
+its ability|PRP$ NN|BODY_3|0
+the command slider|DT NN NN|BODY_7|0
+standard solutions|JJ NNS|BODY_5|0
+the specified file|DT VBN NN|BODY_7|0
+array manipulation|NN NN|ABSTRACT_6|0
+the base address|DT NN NN|BODY_4|0
+a tcl proc|DT NN NN|BODY_8|0
+a second , hidden command language|DT JJ , JJ NN NN|BODY_4|0
+cineviewer|NN|BODY_7|0
+all display|DT NN|BODY_3|0
+the entire volume|DT JJ NN|BODY_4|0
+the set|DT NN|BODY_6|0
+object|NN|BODY_3|0
+two places|CD NNS|BODY_2|0
+storage|NN|BODY_3|0
+a flow chart paradigm|DT NN NN NN|BODY_4|0
+introduction|NN|BODY_1|0
+several formulas|JJ NNS|BODY_4|0
+software publishing|NN NN|BODY_4|0
+the second difference|DT JJ NN|BODY_1|0
+these systems|DT NNS|BODY_4|0
+this research|DT NN|BODY_1|0
+useful programming constructs|JJ NN NNS|BODY_1|0
+ourselves|PRP|BODY_2|0
+a computation|DT NN|BODY_3|0
+the cell firing algorithm|DT NN NN NN|BODY_3|0
+functions|NNS|BODY_5|0
+such a command|JJ DT NN|BODY_2|0
+their screen real estate|PRP$ NN JJ NN|BODY_2|0
+'s implementation|POS NN|BODY_3|0
+our experiences|PRP$ NNS|BODY_4|0
+'s execution|POS NN|BODY_4|0
+si as|FW IN|BODY_3|0
+the design|DT NN|BODY_2|0
+their implications|PRP$ NNS|ABSTRACT_3|0
+these extensions|DT NNS|ABSTRACT_2|0
+only one datatype|RB CD NN|BODY_2|0
+5 )|CD -RRB-|BODY_6:BODY_7|0
+another command|DT NN|BODY_4|0
+case double clicking|NN JJ NN|BODY_7|0
+parts|NNS|BODY_4|0
+substitutions|NNS|BODY_4|0
+arithmetic calculations|JJ NNS|BODY_2|0
+a kit|DT NN|BODY_3|0
+an invalid object|DT JJ NN|BODY_6|0
+a dependency analysis|DT NN NN|BODY_2|0
+magnitude|NN|BODY_4|0
+its screen space|PRP$ NN NN|BODY_2|0
+g5|PRP|BODY_3|0
+advance|NN|BODY_4|0
+such a view|PDT DT NN|BODY_3|0
+fewer|JJR|BODY_4|0
+long computa|JJ NN|BODY_2|0
+type cineviewer|NN NN|BODY_5|0
+loop termination|NN NN|BODY_2|0
+times roman )|NNS NN -RRB-|BODY_4|0
+the result|DT NN|BODY_4|0
+only its immediate children|RB PRP$ JJ NNS|BODY_3|0
+producer edges|NN NNS|BODY_9|0
+the notation a1|DT NN NN|BODY_2|0
+a long computation|DT JJ NN|BODY_4|0
+the allocation and deallocation|DT NN CC NN|BODY_2|0
+cell computations|NN NNS|BODY_2|0
+a default scalar integer register|DT NN NN NN NN|BODY_16|0
+the specified coordi- nates|DT VBN NNS NNS|BODY_6|0
+a particular cell|DT JJ NN|BODY_4|0
+'s substitution mechanisms|POS NN NNS|BODY_3|0
+any sort|DT NN|BODY_2|0
+the updated text|DT VBN NN|BODY_6|0
+the third building block|DT JJ NN NN|BODY_2|0
+a new language|DT JJ NN|BODY_6|0
+the basic unit|DT JJ NN|BODY_2|0
+load head|NN NN|BODY_5|0
+that size|DT NN|BODY_2|0
+3d occupancy grids|NN NN VBZ|BODY_26|0
+etc. )|FW -RRB-|BODY_6|0
+'s point|POS NN|BODY_2|0
+chart visualization systems|NN NN NNS|ABSTRACT_8|0
+the visual equivalent|DT JJ NN|BODY_6|0
+the previous example|DT JJ NN|BODY_2|0
+an existing formula|DT VBG NN|BODY_8|0
+several research projects|JJ NN NNS|BODY_5|0
+discussion spreadsheets|NN NNS|BODY_2|0
+a menu|DT NN|BODY_3|0
+5 and 6 )|CD CC CD -RRB-|BODY_3|0
+a default display widget|DT NN NN NN|BODY_3|0
+a rotation|DT NN|BODY_3|0
+every type|DT NN|BODY_1|0
+expert user|JJ NN|BODY_3|0
+i wish|FW NN|BODY_1|0
+long formulas|JJ NNS|BODY_1|0
+philippe lacroute|NN NN|BODY_3|0
+the transition|DT NN|BODY_1|0
+this figure 3|DT NN CD|BODY_1|0
+our cells|PRP$ NNS|BODY_1|0
+the graph|DT NN|BODY_8|0
+the workstation screen|DT NN NN|BODY_7|0
+the entire group|DT JJ NN|BODY_6|0
+a tour|DT NN|BODY_3|0
+an application-independent embeddable command interpreter|DT NN JJ NN NN|BODY_2|0
+mouse events|NN NNS|BODY_4|0
+nothing|NN|BODY_5|0
+a named allocation|DT VBN NN|BODY_2|0
+two cells|CD NNS|BODY_5|0
+tions , cells|NNS , NNS|BODY_3|0
+this reference|DT NN|BODY_2|0
+a resolution commensurate|DT NN NN|BODY_7|0
+variables|NNS|BODY_6|0
+specifying constraints|JJ NNS|BODY_3|0
+the functionality|DT NN|BODY_3|0
+commands and substitutions|NNS CC NNS|BODY_3|0
+the cineviewer command|DT NN NN|BODY_13|0
+livelock|NN|BODY_4|0
+the notion|DT NN|BODY_7|0
+back interactive sessions|RB JJ NNS|BODY_3|0
+their interconnec- tions|PRP$ NNS NNS|BODY_4|0
+an auxiliary spreadsheet|DT JJ NN|BODY_5|0
+input|NN|BODY_4|0
+the rotate command|DT NN NN|BODY_8|0
+the control structures|DT NN NNS|BODY_3|0
+worthwhile comparing|JJ NN|BODY_5|0
+our reasons|PRP$ NNS|BODY_2|0
+the transfer function|DT NN NN|BODY_4|0
+those application package|DT NN NN|BODY_3|0
+computational expense|JJ NN|BODY_5|0
+a functional programming style|DT JJ NN NN|BODY_7|0
+a single icon|DT JJ NN|BODY_2|0
+the object|DT NN|BODY_10|0
+active|JJ|BODY_7|0
+both display|DT VBP|BODY_9|0
+a scalar byte register|DT JJ NN NN|BODY_2|0
+further simplified|JJ JJ|BODY_3|0
+( hen- ceforth denoted si)|-LRB- RB JJ VBN NN|BODY_4|0
+formulas forces|JJ NNS|BODY_4|0
+any )|DT -RRB-|BODY_6|0
+a view|DT NN|BODY_2|0
+its descendents ( b3|PRP$ NNS -LRB- NNS|BODY_2|0
+the reference patterns|DT NN NNS|BODY_4|0
+palaniappan|NN|BODY_1|0
+the khoros image processing library|DT NNS NN NN NN|BODY_6|0
+a conventional spreadsheet|DT JJ NN|BODY_5|0
+a general programming environment|DT JJ NN NN|BODY_7|0
+the contrary|DT NN|BODY_11|0
+whose row and column offsets|WP$ NN CC NN NNS|BODY_3|0
+the current value|DT JJ NN|BODY_5|0
+the modified cell|DT VBN NN|BODY_3|0
+discussions|NNS|BODY_1|0
+an instance|DT NN|BODY_9|0
+briefly|NN|BODY_20|0
+the command b1|DT NN NN|BODY_3|0
+unix shell commands|NN NN NNS|BODY_8|0
+macintosh style )|JJ NN -RRB-|BODY_7|0
+'s conman [1]|POS NN NN|BODY_5|0
+3|CD|BODY_1|0
+a crowded window|DT JJ NN|BODY_5|0
+one or more standalone application packages|CD CC JJR JJ NN NNS|BODY_5|0
+the -rocking option|DT NN NN|BODY_1|0
+the earliest system|DT JJS NN|BODY_1|0
+the first frame|DT JJ NN|BODY_5|0
+the micro  form|DT JJ JJ NN|BODY_1|0
+the angle|DT NN|BODY_4|0
+one further advantage|CD JJ NN|BODY_2|0
+our formula language|PRP$ NN NN|BODY_4|0
+an object ( e .g|DT NN -LRB- NN NN|BODY_2|0
+asp|NN|BODY_3|0
+the load command|DT NN NN|BODY_2|0
+our comparisons|PRP$ NNS|BODY_6|0
+modified cells|JJ NNS|BODY_5|0
+'s quattro|POS NN|BODY_8|0
+both coordinates|DT NNS|BODY_7|0
+contrast|NN|BODY_1|0
+fewer polygons|JJR NNS|BODY_8|0
+many others|JJ NNS|BODY_10|0
+popular flow-chart visualization packages|JJ NN NN NNS|BODY_1|0
+some|DT|BODY_1|0
+string arguments|NN NNS|BODY_11|0
+clicks|VBZ|BODY_2|0
+this widget|DT NN|BODY_1|0
+a data visualization system|DT NN NN NN|ABSTRACT_2|0
+an alternative paradigm|DT JJ NN|BODY_2|0
+the following diagnostic code|DT JJ JJ NN|BODY_4|0
+the repeat  and |DT NN NN CC|BODY_1|0
+other solutions|JJ NNS|BODY_2|0
+the simplicity|DT NN|BODY_8|0
+note|NN|BODY_1|0
+three ways|CD NNS|ABSTRACT_5|0
+e.g|NN|BODY_6|0
+piersol|NN|BODY_1|0
+a data analysis paradigm|DT NN NN NN|BODY_5|0
+a language|DT NN|BODY_3|0
+sgi|NN|BODY_1|0
+an accelerated scrolling tool|DT VBN NN NN|BODY_3|0
+display widgets|NN NNS|BODY_1|0
+requeuing|VBG|BODY_5|0
+the image processing package|DT NN NN NN|BODY_1|0
+other spreadsheets|JJ NNS|BODY_5|0
+more complicated intercelldependencies|RBR JJ NNS|ABSTRACT_7|0
+the solution|DT NN|BODY_1|0
+xt|JJ|BODY_7|0
+a constant data value|DT JJ NN NN|BODY_2|0
+more than one widget|JJR IN CD NN|BODY_3|0
+their descendents|PRP$ NNS|BODY_7|0
+6000 cells|CD NNS|BODY_6|0
+a video postproduction planner|DT NN NN NN|BODY_6|0
+figure 6 )|NN CD -RRB-|BODY_7|0
+formulas and objects|NNS CC NNS|BODY_7|0
+alternatives|NNS|BODY_1|0
+the easiest way|DT JJS NN|BODY_1|0
+results|NNS|BODY_3|0
+c or fortran|NN CC NN|BODY_8|0
+the application packages create|DT NN NNS VBP|BODY_1|0
+courier )|NN -RRB-|BODY_7|0
+a scientist/programmer|DT NN|BODY_11|0
+their results|PRP$ NNS|ABSTRACT_7|0
+their consumer references|PRP$ NN NNS|BODY_3|0
+tcl procedures|JJ NNS|BODY_5|0
+many references|JJ NNS|BODY_10|0
+edges|NNS|BODY_11|0
+macro sheet programming|JJ NN NN|BODY_5|0
+computations|NNS|BODY_4|0
+compared|VBN|BODY_1|0
+si more|FW RBR|BODY_5|0
+100} }|CD NNS|BODY_29|0
+[lindex $ order $|NN $ NN $|BODY_22|0
+a valid firing order|DT JJ NN NN|BODY_3|0
+single-cell loops|NN NNS|BODY_4|0
+another area|DT NN|BODY_1|0
+the key|DT NN|BODY_1|0
+the options|DT NNS|BODY_1|0
+interactivity )|NN -RRB-|BODY_7|0
+the set.value( ) function|DT NN -RRB- NN|BODY_6|0
+better )|JJR -RRB-|BODY_14|0
+a -[no]continuous option|DT JJ NN|BODY_4|0
+our longer formulas|PRP$ JJR NNS|BODY_1|0
+curve editors|NN NNS|ABSTRACT_5|0
+particular|JJ|BODY_1|0
+section 3.7|NN CD|BODY_5|0
+the third command|DT JJ NN|BODY_1|0
+the implementors|DT NNS|BODY_1|0
+its scale command|PRP$ NN NN|BODY_6|0
+their language and firing algorithm|PRP$ NN CC NN NN|BODY_4|0
+case|NN|BODY_6|0
+many respects|JJ NNS|BODY_3|0
+rotate -bspline [load head|NN NN NN NN|BODY_7|0
+its image processing package|PRP$ NN NN NN|BODY_1|0
+response|NN|ABSTRACT_1|0
+the si program prompt|DT FW NN JJ|BODY_3|0
+the project|DT NN|BODY_6|0
+the a1|DT NNS|BODY_1|0
+this list|DT NN|BODY_1|0
+the user interface si|DT NN NN FW|BODY_1|0
+a few dozen operators|DT JJ NN NNS|BODY_16|0
+complicated spreadsheets|JJ NNS|BODY_3|0
+the spreadsheet grid|DT NN NN|BODY_4|0
+the widget command|DT NN NN|BODY_4|0
+figures 4 and 5 )|NNS CD CC CD -RRB-|BODY_4|0
+user modification|NN NN|BODY_1|0
+the disadvantage|DT NN|BODY_1|0
+the base address a1|DT NN NN NN|BODY_6|0
+elegant|JJ|BODY_1|0
+the currently dominant paradigm|DT RB JJ NN|BODY_1|0
+a simple three|DT JJ CD|BODY_1|0
+a surface fitting package|DT NN JJ NN|BODY_4|0
+opengl.|NN|BODY_5|0
+sgi users|NN NNS|BODY_1|0
+the flexibility|DT NN|BODY_1|0
+c.|VBG|BODY_4|0
+all manipulation|DT NN|BODY_1|0
+the macintosh clipboard|DT NN NN|BODY_6|0
+an imperative program|DT JJ NN|BODY_1|0
+our goal|PRP$ NN|BODY_1|0
+managing dependencies|VBG NNS|BODY_1|0
+its progress|PRP$ NN|BODY_4|0
+such a register|PDT DT NN|BODY_1|0
+tcl and c.|NN CC NN|BODY_7|0
+the advantage|DT NN|BODY_1|0
+the novice computer user|DT JJ NN NN|BODY_5|0
+the queue|DT NN|BODY_4|0
+none|NN|BODY_7|0
+a general purpose programming language|DT JJ NN NN NN|BODY_8|0
+language|NN|BODY_3|0
+3d medical datasets|JJ JJ NNS|BODY_4|0
+images , volumes , geometry , etc|NNS , NNS , NN , FW|BODY_3|0
+5 . experience|CD . NN|BODY_1|0
+editing|NN|BODY_1|0
+many other useful tasks|JJ JJ JJ NNS|BODY_6|0
+additional commands|JJ NNS|BODY_11|0
+many common tasks|JJ JJ NNS|BODY_4|0
+an entire program|DT JJ NN|BODY_4|0
+its cell name|PRP$ NN NN|BODY_7|0
+extreme cases|JJ NNS|BODY_5|0
+one or more arguments|CD CC JJR NNS|BODY_5|0
+together cell names|RB NN NNS|BODY_1|0
+a platform-independent library|DT NN NN|BODY_8|0
+otherwise platform independent|RB NN JJ|BODY_4|0
+this solution|DT NN|BODY_1|0
+a presentation tool|DT NN NN|ABSTRACT_11|0
+mathematica or matlab.|NN CC NN|BODY_12|0
+a 3d medical dataset|DT JJ JJ NN|BODY_3|0
+the customization language|DT NN NN|BODY_3|0
+ignoring arguments|VBG NNS|BODY_9|0
+such cases|JJ NNS|BODY_9|0
+the display|DT NN|BODY_1|0
+cells b1 and b2|NNS NNS CC NNS|BODY_5|0
+the tcl commands foo and bar|DT JJ NNS NN CC NN|BODY_6|0
+a result|DT NN|BODY_1|0
+coordinate pairs and returns|VB NNS CC NNS|BODY_3|0
+the makeramp command|DT NN NN|BODY_1|0
+this code|DT NN|BODY_1|0
+a further response|DT JJ NN|BODY_1|0
+a -[no]firedescendents option|DT NNS NN|BODY_7|0
+the number|DT NN|BODY_1|0
+0} }|CD NNS|BODY_9|0
+254} {2 253}|CD CD CD|BODY_5|0
+si is performance|FW VBZ NN|BODY_3|0
+the most critical issue|DT RBS JJ NN|BODY_1|0
+2. tcl|DT NN|BODY_1|0
+a flipbook animation|DT NN NN|BODY_6|0
+absolute references|JJ NNS|BODY_1|0
+the argument list|DT NN NN|BODY_1|0
+an interpreted language called shape|DT VBN NN VBN NN|BODY_3|0
+rapid module prototyping|JJ NN NN|BODY_1|0
+movies|NNS|ABSTRACT_6|0
+the si program|DT FW NN|BODY_1|0
+the encapsulating  latfunction  module|DT VBG NN NN NN NN|BODY_7|0
+one or more registers|CD CC JJR NNS|BODY_4|0
+one very important default|CD RB JJ NN|BODY_1|0
+any substantive way|DT JJ NN|BODY_3|0
+these three extensions|DT CD NNS|BODY_1|0
+this additional flexibility|DT JJ NN|BODY_1|0
+these slices|DT NNS|BODY_5|0
+this modular design|DT JJ NN|BODY_1|0
+a replaceable module|DT JJ NN|BODY_7|0
+the second building block|DT JJ NN NN|BODY_1|0
+many image processing operators|JJ NN NN NNS|BODY_1|0
+a relative reference|DT JJ NN|BODY_8|0
+row 4|NN CD|BODY_3|0
+intercell dependencies|NN NNS|BODY_1|0
+a widget|DT NN|BODY_1|0
+expressiveness and scalability|NN CC NN|BODY_4|0
+miniature versions|JJ NNS|BODY_1|0
+the rotate executes|DT NN NNS|BODY_1|0
+section 3|NN CD|BODY_1|0
+a popular , customizable text editor|DT JJ , JJ NN NN|BODY_5|0
+iiss|NN|BODY_1|0
+either action|DT NN|BODY_2|0
+two ways|CD NNS|BODY_5|0
+a1+[foo] +[bar|DT NN|BODY_1|0
+a simple image processing application package|DT JJ NN NN NN NN|BODY_3|0
+our examples|PRP$ NNS|BODY_1|0
+this prompt|DT JJ|BODY_8|0
+a label widget|DT NN NN|BODY_5|0
+spreadsheet recomputation|NN NN|BODY_8|0
+the first command loads|DT JJ NN NNS|BODY_1|0
+writing formulas|VBG NNS|BODY_5|0
+a register named newreg|DT NN VBN NN|BODY_5|0
+( individual cells|-LRB- JJ NNS|BODY_1|0
+all cells|DT NNS|BODY_6|0
+section 3.5 )|NN CD -RRB-|BODY_5|0
+7. status and future|DT NN CC NN|BODY_1|0
+ways|NNS|BODY_1|0
+a mouse|DT NN|BODY_5|0
+'s other descendents|POS JJ NNS|BODY_3|0
+-continuous means|JJ NNS|BODY_1|0
+specifying -nofiredescendents|VBG NNS|BODY_1|0
+the condition|DT NN|BODY_2|0
+50|CD|BODY_14|0
+the second command|DT JJ NN|BODY_1|0
+cell a2|NN NN|BODY_1|0
+this capability|DT NN|BODY_1|0
+the tcl variables|DT JJ NNS|BODY_5|0
+full resolution|JJ NN|BODY_5|0
+that register|DT NN|BODY_19|0
+figure 3|NN CD|BODY_3|0
+this flexibility|DT NN|BODY_2|0
+this form useful|DT NN JJ|BODY_1|0
+a spreadsheet cell|DT NN NN|BODY_7|0
+these objects|DT NNS|BODY_1|0
+a display widget|DT NN NN|BODY_4|0
+a key feature|DT JJ NN|BODY_1|0
+a name|DT NN|BODY_7|0
+c-language commands|JJ NNS|BODY_5|0
+other plausible applications|JJ JJ NNS|BODY_1|0
+several challenging user interface design problems|JJ JJ NN NN NN NNS|BODY_3|0
+the remaining sections|DT VBG NNS|BODY_1|0
+the unique characteristics|DT JJ NNS|BODY_1|0
+three important extensions|CD JJ NNS|BODY_3|0
+a new idea|DT JJ NN|BODY_4|0
+bigger and computations|JJR CC NNS|BODY_4|0
+a register name|DT NN NN|BODY_4|0
+i and loops|NN CC NNS|BODY_8|0
+the next section|DT JJ NN|BODY_5|0
+double clicking|JJ NN|BODY_1|0
+the full-size object|DT JJ NN|BODY_3|0
+a slice|DT NN|BODY_1|0
+each time|DT NN|BODY_1|0
+the rotation|DT NN|BODY_5|0
+its power|PRP$ NN|BODY_1|0
+matters|NNS|BODY_1|0
+multidimensional arrays|JJ NNS|BODY_2|0
+a single keystroke|DT JJ NN|BODY_8|0
+navigation|NN|BODY_1|0
+our prototype|PRP$ NN|BODY_1|0
+the tcl/tk user communities|DT JJ NN NNS|BODY_1|0
+this section|DT NN|BODY_1|0
+a large spreadsheet|DT JJ NN|BODY_5|0
+an emacs editor window|DT NNS NN NN|BODY_1|0
+confusing programs|JJ NNS|BODY_9|0
+each cell fires|DT NN NNS|BODY_1|0
+tcl and si|NN CC FW|BODY_6|0
+this additional power|DT JJ NN|BODY_7|0
+this information|DT NN|BODY_1|0
+this amount|DT NN|BODY_11|0
+date|NN|BODY_9|0
+a subroutine|DT NN|BODY_3|0
+computational delays|JJ NNS|BODY_1|0
+the fire command|DT NN NN|BODY_1|0
+the operand [b1]|DT NN NN|BODY_1|0
+an errant computation|DT NN NN|BODY_4|0
+every occupied cell|DT JJ NN|BODY_1|0
+the infinite grid|DT JJ NN|BODY_1|0
+some types|DT NNS|BODY_1|0
+the contents and interpretation|DT NNS CC NN|BODY_1|0
+a custom module )|DT NN NN -RRB-|BODY_6|0
+the common case|DT JJ NN|BODY_1|0
+the final firing order|DT JJ NN NN|BODY_7|0
+this reduction|DT NN|BODY_4|0
+a grid|DT NN|BODY_5|0
+c2|JJ|BODY_3|0
+f4|NNS|BODY_16|0
+interactive widgets|JJ NNS|BODY_2|0
+si better scalability|FW JJR NN|BODY_5|0
+the conventional spreadsheet paradigm|DT JJ NN NN|BODY_1|0
+the original spreadsheet|DT JJ NN|BODY_1|0
+the unclassified and classified slices|DT JJ CC JJ NNS|BODY_1|0
+a1+$ i+$ j references|DT NN NN NNS|BODY_1|0
+a1+[b1]+[b2 ] references|DT JJ NNS|BODY_1|0
+figure 5|NN CD|BODY_28|0
+special properties|JJ NNS|BODY_8|0
+the cell formula language|DT NN NN NN|BODY_6|0
+objects )|NNS -RRB-|BODY_13|0
+practice|NN|BODY_1|0
+the vast majority|DT JJ NN|BODY_1|0
+this last example|DT JJ NN|BODY_3|0
+customization|NN|BODY_1|0
+implementation details 4.1|NN NNS CD|BODY_1|0
+multi-cell for-loop|JJ NN|BODY_1|0
+multi-cell while-loop|JJ NN|BODY_1|0
+scalability|NN|BODY_1|0

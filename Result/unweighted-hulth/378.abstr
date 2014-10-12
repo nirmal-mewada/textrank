@@ -1,0 +1,25 @@
+the trapezoidal velocity profile|DT JJ NN NN|BODY_6:BODY_4:BODY_8|0
+the pmlsm|DT NN|BODY_2|0
+the proposed control system|DT JJ NN NN|BODY_2|0
+the proposed pmlsm servo drive system|DT VBN NN NN NN NN|BODY_2|0
+linear synchronous motor|NN JJ NN|BODY_2|0
+( mssmc)|-LRB- NN|BODY_8|0
+the multisegment switching surfaces|DT NN VBG NNS|BODY_2|0
+this study|DT NN|BODY_3|0
+a particular incremental motion control problem|DT JJ JJ NN NN NN|BODY_4|0
+multisegment sliding mode|NN VBG NN|BODY_7|0
+the corresponding part|DT JJ NN|BODY_3|0
+the specified-segment switching surface|DT NN VBG NN|BODY_6|0
+which|WDT|BODY_5|0
+the desired velocity or acceleration corresponding part|DT VBN NN CC NN JJ NN|BODY_7|0
+the motor dynamics|DT NN NNS|BODY_5|0
+a pc-based computer control system|DT JJ NN NN NN|BODY_3|0
+addition|NN|BODY_1|0
+detail|NN|BODY_3|0
+some simulated and experimental results|DT VBN CC JJ NNS|BODY_3|0
+the effectiveness|DT NN|BODY_1|0
+the structure and operating principle|DT NN CC VBG NN|BODY_1|0
+incremental motion control|JJ NN NN|BODY_1|0
+a permanent magnet linear synchronous motor ( pmlsm) servo drive system|DT JJ NN NN JJ NN -LRB- JJ NN NN NN|BODY_9|0
+each segment|DT NN|BODY_1|0
+a field-oriented control pmlsm servo drive|DT JJ NN NN NN NN|BODY_1|0

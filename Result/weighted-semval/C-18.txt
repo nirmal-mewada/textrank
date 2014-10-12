@@ -1,0 +1,851 @@
+it|PRP|BODY_11:BODY_5:ABSTRACT_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|3
+we|PRP|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_14:ABSTRACT_1:BODY_8|3
+which|WDT|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+that|DT|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+swarm worms|JJ NNS|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_27:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|2
+worms|NNS|BODY_6:BODY_23:ABSTRACT_2:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_8|3
+the zachik worm|DT NN NN|BODY_6:ABSTRACT_6:BODY_2:BODY_3:BODY_4|0
+the fastest computer worm|DT JJS NN NN|ABSTRACT_3:BODY_4|0
+a swarm worm|DT JJ NN|BODY_6:BODY_5:BODY_22:ABSTRACT_8:BODY_1:BODY_3:BODY_4|0
+a new generation|DT JJ NN|ABSTRACT_2:BODY_2|2
+next generation worms|JJ NN NNS|ABSTRACT_4:BODY_4|0
+the slammer worm|DT NN NN|BODY_6:ABSTRACT_2|0
+itself|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_3|0
+the behavior|DT NN|BODY_6:BODY_15:ABSTRACT_2:BODY_2:BODY_1|0
+emergent intelligence|JJ NN|BODY_1:BODY_2:ABSTRACT_1:ABSTRACT_7:BODY_7|2
+zachik|NN|ABSTRACT_2:BODY_2:BODY_1|0
+slammer|NN|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the concept|DT NN|BODY_6:ABSTRACT_6:BODY_1:BODY_3|2
+magnitude|NN|BODY_6:BODY_5:ABSTRACT_5|0
+rate detection|NN NN|BODY_6:ABSTRACT_2|1
+preliminary results|JJ NNS|BODY_2:BODY_1:ABSTRACT_3|0
+whose behavior|WP$ NN|BODY_5:ABSTRACT_5|2
+this manuscript|DT NN|BODY_2:ABSTRACT_1|0
+90 percent|CD NN|ABSTRACT_5:BODY_4|0
+malware exhibiting|NN NN|TITLE_2|0
+a rate|DT NN|BODY_2:ABSTRACT_3|0
+biological systems|JJ NNS|ABSTRACT_4:BODY_4|0
+recorded history|JJ NN|BODY_5:ABSTRACT_4|0
+human response|JJ NN|ABSTRACT_6:BODY_7|0
+10 minutes|CD NNS|BODY_1:ABSTRACT_7|0
+the hypothesis|DT NN|ABSTRACT_3:BODY_3|0
+such strategies|JJ NNS|BODY_1:ABSTRACT_1|0
+swarm-like behavior|JJ NN|TITLE_3|0
+whose behaviors|WP$ NNS|ABSTRACT_3:BODY_4|0
+most proposed countermeasures strategies|RBS VBN NNS NNS|ABSTRACT_1|1
+all vulnerable internets hosts|DT JJ NNS NNS|ABSTRACT_6|0
+a relatively unsophisticated replication|DT RB JJ NN|ABSTRACT_3|0
+one such swarm worm|CD JJ JJ NN|ABSTRACT_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+[security and protection]|NN CC NN|ABSTRACT_4|0
+simple primitive actions|JJ JJ NNS|ABSTRACT_8|0
+simple local interactions|JJ JJ NNS|ABSTRACT_6|0
+ants or bees|NNS CC NNS|ABSTRACT_5|0
+the propagation speeds|DT NN NNS|ABSTRACT_4|0
+the basic structure|DT JJ NN|ABSTRACT_6|0
+the basic principles|DT JJ NNS|ABSTRACT_3|0
+potentially such techniques|RB JJ NNS|ABSTRACT_5|0
+the main action|DT JJ NN|ABSTRACT_1|0
+systems ]|NNS NNS|ABSTRACT_2|0
+autonomous members|JJ NNS|ABSTRACT_7|0
+similar worms|JJ NNS|ABSTRACT_6|0
+2 orders|CD NNS|ABSTRACT_4|0
+the idea|DT NN|ABSTRACT_4|0
+swarm capabilities|JJ NNS|ABSTRACT_7|0
+the slammer|DT NN|ABSTRACT_1|0
+our work|PRP$ NN|ABSTRACT_1|0
+a worm|DT NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7|3
+the host|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+passwords|NNS|BODY_6:BODY_5:BODY_22:BODY_42:BODY_15:BODY_23:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4|0
+a worm cause damage|DT NN NN NN|BODY_3|1
+zou , et al.|FW , FW FW|BODY_2|1
+a third broad functionality|DT JJ JJ NN|BODY_3|1
+independent ( i )|JJ -LRB- FW -RRB-|BODY_5:BODY_13:BODY_4|0
+a local area network|DT JJ NN NN|BODY_2:BODY_3|0
+swarm attack behavior versus|JJ NN NN NN|BODY_3:BODY_4|0
+a very long time|DT RB JJ NN|BODY_3|0
+the small sample space|DT JJ NN NN|BODY_3|0
+a few infection threads|DT JJ NN NNS|BODY_2|0
+the target acquisition phase|DT NN NN NN|BODY_2|0
+the chosen prng method|DT VBN NN NN|BODY_3|0
+simply a random discovery|RB DT JJ NN|BODY_4|0
+up to 39.7 %|RP TO CD NN|BODY_4|0
+the particular infection vector|DT NN NN NN|BODY_3|0
+the main self-preservation techniques|DT JJ NN NNS|BODY_4|0
+the swarm|DT JJ|BODY_5:BODY_11:BODY_16:BODY_2:BODY_3:BODY_4:BODY_9|0
+the target discovery section|DT NN NN NN|BODY_4|0
+a typical malform worm|DT JJ NN NN|BODY_5|0
+324 how many times|CD WRB JJ NNS|BODY_9|0
+2. short address handoffs|DT JJ NN NNS|BODY_1|0
+a single known password|DT JJ JJ NN|BODY_3|0
+three-(3 ) distinct classes|CD -RRB- JJ NNS|BODY_3:BODY_4|0
+success := send_scan( host|NN JJ NN NN|BODY_3|0
+different target host selection|JJ NN NN NN|BODY_7|0
+its inclusion and execution|PRP$ NN CC NN|BODY_19|0
+a long address list|DT JJ NN NN|BODY_7|0
+nearest neighbors and offsprings|JJS NNS CC NNS|BODY_17:BODY_24|0
+a parallel search capability|DT JJ NN NN|BODY_3|0
+january 25 , 2003|NN CD , CD|BODY_3|0
+the modified ssh client|DT VBN NN NN|BODY_5|0
+the swarm as whole|DT JJ IN NN|BODY_5|0
+s-l-s&aop worm ( recall|JJ NN -LRB- NN|BODY_4|0
+the last ten years|DT JJ CD NNS|BODY_7|0
+a local ip address|DT JJ NN NN|BODY_6|0
+a scan plus infection|DT NN CC NN|BODY_9|0
+on most systems today|IN JJS NNS NN|BODY_4|0
+both its known neighbors|DT PRP$ VBN NNS|BODY_4|0
+the self preservation actions|DT NN NN NNS|BODY_2|0
+a 224 address space|DT CD NN NN|BODY_6:BODY_13|0
+a ) conserving energy|DT -RRB- VBG NN|BODY_3|0
+a potential vulnerable host|DT JJ JJ NN|BODY_3|0
+30node lan figure 4|JJ NN NN CD|BODY_5|0
+a relatively unsophisticated worm|DT RB JJ NN|BODY_6|0
+either sequential or random|DT JJ CC JJ|BODY_3|0
+up to 2 orders|IN TO CD NNS|BODY_5|0
+( 1 ) propagate|-LRB- CD -RRB- NN|BODY_2|0
+gba ) ddos www|FW -RRB- NNS NN|BODY_18:BODY_9|0
+either a local subnet|RB DT JJ NN|BODY_9|0
+up to two orders|IN TO CD NNS|BODY_5|0
+a local subnet )|DT JJ NN -RRB-|BODY_9|0
+a remote one (|DT JJ CD -LRB-|BODY_7|0
+weaver et . al|NNP NNP . NN|BODY_2|0
+a backdoor communication channel|DT JJ NN NN|BODY_11|0
+the first swarm worm|DT JJ JJ NN|BODY_6|0
+their new incoming messages|PRP$ JJ JJ NNS|BODY_8|0
+the last 0.5 %|DT JJ CD NN|BODY_1|0
+the newly infected hosts|DT RB JJ NNS|BODY_3|0
+a relatively long time|DT RB JJ NN|BODY_3|0
+their similar generic counterparts|PRP$ JJ JJ NNS|BODY_2|0
+a swarm worm including|DT JJ NN VBG|BODY_6|0
+a time-based throttled scanning|DT JJ VBN NN|BODY_2|0
+the exact same machines|DT JJ JJ NNS|BODY_8|0
+cpu or network load|NN CC NN NN|BODY_21|0
+a 10,000 node topology|DT CD NN NN|BODY_5|0
+such a swarm worm|PDT DT JJ NN|BODY_1|0
+a new random address|DT JJ JJ NN|BODY_4|0
+its seed value )|PRP$ NN NN -RRB-|BODY_4|0
+the early morning hours|DT JJ NN NNS|BODY_1|0
+a 30 node lan|DT CD NN NN|BODY_6|0
+further research and analysis|JJR NN CC NN|BODY_1|0
+the simple swarm worm|DT JJ JJ NN|BODY_1|0
+the global internet infrastructure|DT JJ NN NN|BODY_7|0
+the local bias mode|DT JJ NN NN|BODY_1|0
+specific network topologies subnets|JJ NN NNS NNS|BODY_4|0
+self-carried , second channel|JJ , JJ NN|BODY_5|0
+communication & distributed control|NN CC VBN NN|BODY_1|0
+the root account )|DT NN NN -RRB-|BODY_6|0
+the secure shell protocol|DT JJ NN NN|BODY_4|0
+the wild , worms|DT JJ , NNS|BODY_1|0
+a memoryless random worm|DT JJ JJ NN|BODY_7|0
+any associated traffic utilization|DT JJ NN NN|BODY_4|0
+the ipv4 address space|DT NN NN NN|BODY_8|0
+such a learning worm|JJ DT NN NN|BODY_3:BODY_4|0
+the last war syndrome|DT JJ NN NN|BODY_3|0
+30 linux based computers|CD NN VBN NNS|BODY_3|0
+all the ip space|PDT DT NN NN|BODY_4|0
+summary and future work|NN CC JJ NN|BODY_1|0
+the local bias case|DT JJ NN NN|BODY_1|0
+a generic malform worm|DT JJ NN NN|BODY_4|0
+the normally available meta-servers|DT RB JJ NNS|BODY_1|0
+325 structure function/example infection|CD NN NN NN|BODY_1|0
+general the following class|JJ DT VBG NN|BODY_1|0
+the shared password list|DT VBN NN NN|BODY_1|0
+the new member messages|DT JJ NN NNS|BODY_1|0
+simple local communication mechanisms|JJ JJ NN NNS|BODY_5|0
+2.10.3 distributed control control|CD VBN NN NN|BODY_1|0
+the worm|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+this|DT|BODY_2:BODY_1|1
+a significant increase|DT JJ NN|BODY_7|1
+a kalman filter|DT NN NN|BODY_4|1
+destination unreachable messages|NN JJ NNS|BODY_5|1
+the potential presence|DT JJ NN|BODY_10|1
+the early propagation|DT JJ NN|BODY_5|1
+the resource consumption|DT NN NN|BODY_2|1
+transport protocol (tcp/udp|NN NN NN|BODY_4|1
+intrusion detection systems|NN NN NNS|BODY_9|1
+one important parameter|CD JJ NN|BODY_1|1
+example|NN|BODY_1:BODY_8|1
+the swarm worm|DT JJ NN|BODY_4:BODY_9|0
+such swarm worms|JJ JJ NNS|BODY_1|0
+the case|DT NN|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3|0
+the same time|DT JJ NN|BODY_11:BODY_9|0
+this new class|DT JJ NN|BODY_5:BODY_22:BODY_7|0
+infection vector executable|NN NN NN|BODY_2:BODY_4|0
+the first instance|DT JJ NN|BODY_2:BODY_1:BODY_4|0
+such a way|JJ DT NN|BODY_14:BODY_4|0
+a set time|DT VBN NN|BODY_2|0
+the remote host|DT JJ NN|BODY_4|0
+there|EX|BODY_2:BODY_1:BODY_3:BODY_4|1
+the target host|DT NN NN|BODY_3:BODY_4|0
+internal target lists|JJ NN NNS|BODY_2:BODY_1|0
+an abstract model|DT JJ NN|BODY_2:BODY_4|0
+an external user|DT JJ NN|BODY_2|0
+collective coordinated behaviors|JJ JJ NNS|BODY_7|0
+a network topology|DT NN NN|BODY_3|0
+an infection attempt|DT NN NN|BODY_3|0
+local addresses assists|JJ NNS NNS|BODY_2|0
+a simple rule|DT JJ NN|BODY_6|0
+short ) list|JJ -RRB- NN|BODY_6|0
+increased worm size|JJ NN NN|BODY_20|0
+an appropriate target|DT JJ NN|BODY_2|0
+the ipv4 space|DT NN NN|BODY_12:BODY_6:BODY_5|0
+the same addresses|DT JJ NNS|BODY_4|0
+the worm code|DT NN NN|BODY_3|0
+complex intelligent behaviors|JJ JJ NNS|BODY_4|0
+the general model|DT JJ NN|BODY_5:BODY_9|0
+the root password|DT NN NN|BODY_1:BODY_7|0
+the potential emergence|DT JJ NN|BODY_2|0
+swarm attack behavior|JJ NN NN|BODY_6:BODY_2|0
+an initial hit-list|DT JJ NN|BODY_3|0
+the following set|DT VBG NN|BODY_2|0
+a general worm|DT JJ NN|BODY_4|0
+05:30 gmt )|CD NN -RRB-|BODY_2|0
+the vulnerability (|DT NN -LRB-|BODY_5|0
+the infection vector|DT NN VBD|BODY_2|0
+thirty-(30 ) hosts|CD -RRB- NNS|BODY_4|0
+a high cost|DT JJ NN|BODY_5|0
+a valid address|DT JJ NN|BODY_2:BODY_7|0
+a network testbed|DT NN NN|BODY_7|0
+distinguished swarm behavior|JJ JJ NN|BODY_5|0
+a new area|DT JJ NN|BODY_2|0
+a larger effort|DT JJR NN|BODY_3|0
+alive ) propagation|JJ -RRB- NN|BODY_6:BODY_4|0
+the next target(|DT JJ NN|BODY_2|0
+the swarm members|DT JJ NNS|BODY_4|0
+autonomous agents results|JJ NNS NNS|BODY_3|0
+a password space|DT NN NN|BODY_6|0
+control 2.10.1 communication|NN CD NN|BODY_2|0
+logic & actions|NN CC NNS|BODY_2|0
+our worm algorithm|PRP$ NN NN|BODY_3|0
+a parallel search|DT VB NN|BODY_7|0
+the basic characteristics|DT JJ NNS|BODY_4|0
+the susceptible hosts|DT JJ NNS|BODY_3|0
+an associated cost|DT JJ NN|BODY_18|0
+both empirical measurements|DT JJ NNS|BODY_3|0
+200 shared passwords|CD VBN NNS|BODY_3|0
+potentially dangerous worms|RB JJ NNS|BODY_4:BODY_8|0
+the actual method|DT JJ NN|BODY_2|0
+the network topology|DT NN NN|BODY_4|0
+a flock senses|DT NN NNS|BODY_3|0
+some useful suggestions|DT JJ NNS|BODY_3|0
+code red i|NN JJ NN|BODY_17|0
+the communications servers|DT NNS NNS|BODY_7|0
+a swarm interact|DT JJ NN|BODY_10|0
+different root passwords|JJ NN NNS|BODY_5|0
+the early precursors|DT JJ NNS|BODY_2|0
+the scanning rate|DT NN NN|BODY_4|0
+some or all|DT CC DT|BODY_11|0
+such biological swarms|JJ JJ NNS|BODY_5|0
+its generic counterpart|PRP$ JJ NN|BODY_6:BODY_7|0
+one|CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|1
+the warhol worm|DT NN NN|BODY_2|0
+the updated versions|DT VBN NNS|BODY_8|0
+early empirical studies|JJ JJ NNS|BODY_3|0
+all vulnerable hosts|DT JJ NNS|BODY_5|0
+disable anti-virus software|JJ JJ NN|BODY_2|0
+the propagation function|DT NN NN|BODY_2|0
+a new host|DT JJ NN|BODY_4|0
+general worm model|JJ NN NN|BODY_12|0
+the scan method|DT JJ NN|BODY_13|0
+the internet infrastructure|DT NN NN|BODY_4|0
+a high rate|DT JJ NN|BODY_3|0
+a single node|DT JJ NN|BODY_9|0
+three main types|CD JJ NNS|BODY_5|0
+three particular classes|CD JJ NNS|BODY_3|0
+code red ii|NN JJ NNS|BODY_7|0
+newly discovered passwords|RB VBN NNS|BODY_3|0
+gain 326 access|NN CD NN|BODY_5|0
+the swarm reverts|DT JJ NNS|BODY_3|0
+a distributeddictionary attack|DT JJ NN|BODY_4|0
+a treelike structure|DT JJ NN|BODY_8|0
+biased random selection|JJ JJ NN|BODY_6|0
+pre-generated target lists|JJ NN NNS|BODY_2:BODY_1|0
+the a worm|DT DT NN|BODY_2|0
+an associated probability|DT VBN NN|BODY_2|0
+a maximum queries/second|DT JJ NN|BODY_2|0
+a worm instance|DT NN NN|BODY_2|0
+the transport protocol|DT NN NN|BODY_3|0
+these attributes distinguishes|DT NNS NNS|BODY_2|0
+both empirical and|DT JJ CC|BODY_13|0
+the generic model|DT JJ NN|BODY_2|0
+this general model|DT JJ NN|BODY_2|0
+so called hit-lists|RB VBN NNS|BODY_3|0
+direct worm-to-worm communication|JJ NN NN|BODY_5|0
+your spare time|PRP$ JJ NN|BODY_14|0
+a successful generation|DT JJ NN|BODY_2|0
+an ip address|DT NN NN|BODY_3|0
+â€ ¢ i-l-oos|IN JJ NNS|BODY_11|0
+payload figure 1|JJ NN CD|BODY_11|0
+the simulation results|DT NN NNS|BODY_2|0
+local communication mechanisms|JJ NN NNS|BODY_1|0
+large scale analysis|JJ NN NN|BODY_12|0
+code red crv1|NN JJ NNS|BODY_6|0
+a host target|DT NN NN|BODY_7|0
+a full test|DT JJ NN|BODY_4|0
+irc channel goal|JJ NN NN|BODY_16|0
+an exact copy|DT JJ NN|BODY_5|0
+strictly random selection|RB JJ NN|BODY_2|0
+many other forms|JJ JJ NNS|BODY_3|0
+address book goal|NN NN NN|BODY_7|0
+such a model|JJ DT NN|BODY_3|0
+a simple password|DT JJ NN|BODY_2|0
+the last decade|DT JJ NN|BODY_3|0
+direct root logins|JJ NN NNS|BODY_5|0
+its own mechanisms|PRP$ JJ NNS|BODY_5|0
+scan function tests|NN NN NNS|BODY_4|0
+payload figure 2|JJ NN CD|BODY_20|0
+common http requests|JJ NN NNS|BODY_7|0
+no learning /|DT VBG NNS|BODY_5|0
+an equation-based method|DT JJ NN|BODY_3|0
+a high degree|DT JJ NN|BODY_3|0
+common user names|JJ NN NNS|BODY_3|0
+address book learning|NN NN NN|BODY_9|0
+true emergent behavior|JJ NN NN|BODY_15|0
+an offspring inherits|DT NN NNS|BODY_5|0
+the large number|DT JJ NN|BODY_4|0
+the command line|DT NN NN|BODY_4|0
+every worm instance|DT NN NN|BODY_10|0
+memoryless ( l)|RB -LRB- NN|BODY_14|0
+information amongst neighbors|NN NN NNS|BODY_6|0
+well known passwords|RB VBN NNS|BODY_5|0
+otherwise regular worms|RB JJ NNS|BODY_4|0
+the general title|DT JJ NN|BODY_17|0
+a simple instance|DT JJ NN|BODY_3|0
+a new instance|DT JJ NN|BODY_3|0
+a large collection|DT JJ NN|BODY_2|0
+neighbors or offsprings|NNS CC NNS|BODY_9|0
+a greater probability|DT JJR NN|BODY_5|0
+neighbors and offsprings|NNS CC NNS|BODY_32|0
+the modified script|DT VBN NN|BODY_2|0
+communication amongst agents|NN NN NNS|BODY_8|0
+pheromones/flags ( test|NNS -LRB- NN|BODY_11|0
+a varying percentage|DT VBG NN|BODY_4|0
+every other instance|DT JJ NN|BODY_8|0
+more processing time|JJR NN NN|BODY_5|0
+approximately two orders|RB CD NNS|BODY_4|0
+non-local bias mode|JJ NN NN|BODY_4|0
+the infected host|DT JJ NN|BODY_3|0
+a new class|DT JJ NN|BODY_3|0
+current countermeasure techniques|JJ NN NNS|BODY_3|0
+weaver [5 ]|NN CC SYM|BODY_4|0
+an address â€|DT NN NN|BODY_5|0
+the communications server|DT NNS NN|BODY_5|0
+the extra bytes|DT JJ NNS|BODY_3|0
+our original hypothesis|PRP$ JJ NN|BODY_4|0
+sophisticated swarm worms|JJ JJ NNS|BODY_13|0
+a new directory|DT JJ NN|BODY_2|0
+5 separate categories|CD JJ NNS|BODY_3|0
+their generic counterparts|PRP$ JJ NNS|BODY_2|0
+the selected host|DT VBN NN|BODY_12|0
+how much info|WRB JJ NN|BODY_3|0
+a simple worm|DT JJ NN|BODY_7|0
+both generic worms|DT JJ NNS|BODY_3|0
+two main functions|CD JJ NNS|BODY_3|0
+a simple ping|DT JJ NN|BODY_2|0
+a decoy method|DT NN NN|BODY_2|0
+the other functionality|DT JJ NN|BODY_2|0
+some significant limitations|DT JJ NNS|BODY_6|0
+the current techniques|DT JJ NNS|BODY_18|0
+a few children|DT JJ NNS|BODY_4|0
+such a module|JJ DT NN|BODY_4|0
+a handoff list|DT NN NN|BODY_9|0
+swarm worm (|JJ NN -LRB-|BODY_19|0
+the local network|DT JJ NN|BODY_6|0
+2.2.2 infection vector|CD NN NN|BODY_1|0
+a traffic pattern|DT NN NN|BODY_5|0
+internet dos attacks|NN NNS NNS|BODY_1|0
+the particular vulnerability|DT NN NN|BODY_5|0
+this swarm worm|DT JJ NN|BODY_2|0
+four basic attributes|CD JJ NNS|BODY_8|0
+the command messages|DT NN NNS|BODY_1|0
+â€ ¢ ddos|JJ NN NNS|BODY_1|0
+the generic nature|DT JJ NN|BODY_9|0
+susceptible uninfected host|JJ JJ NN|BODY_7|0
+the first instantiation|DT JJ NN|BODY_3|0
+2.2 target acquisition|CD NN NN|BODY_1|0
+the main thread|DT JJ NN|BODY_1|0
+the new host|DT JJ NN|BODY_4|0
+their neighbor list|PRP$ NN NN|BODY_3|0
+10,000 unknown passwords|CD JJ NNS|BODY_8|0
+a few seconds|DT JJ NNS|BODY_4|0
+2.3 self preservation|CD NN NN|BODY_1|0
+the infection process|DT NN NN|BODY_3|0
+four basic components|CD JJ NNS|BODY_6|0
+target acquisition strategies|NN NN NNS|BODY_4|0
+truly swarm behavior|RB JJ NN|BODY_10|0
+its immediate neighbors|PRP$ JJ NNS|BODY_11|0
+2.6 swarm worm|CD JJ NN|BODY_1|0
+the interesting part|DT JJ NN|BODY_1|0
+this context zachik|DT NN NN|BODY_1|0
+potential vulnerable hosts|JJ JJ NNS|BODY_5|0
+the information messages|DT NN NNS|BODY_1|0
+all other agents|DT JJ NNS|BODY_5|0
+autonomous agents interact|JJ NNS NN|BODY_1|0
+local preference scanning|JJ NN NN|BODY_1|0
+multiple vulnerabilities )|JJ NNS -RRB-|BODY_6|0
+worm payload size|NN NN NN|BODY_6|0
+known and random|VBN CC JJ|BODY_9|0
+the message size|DT NN NN|BODY_4|0
+all shared passwords|DT VBN NNS|BODY_1|0
+(user chosen value|NN VBN NN|BODY_6|0
+potentially susceptible addresses|RB JJ NNS|BODY_4|0
+an efficient matter|DT JJ NN|BODY_4|0
+simulation results 5|NN NNS CD|BODY_8|0
+all windows boxes|DT NNS NNS|BODY_7|0
+the handoffs messages|DT NNS NNS|BODY_1|0
+the passwords messages|DT NNS NNS|BODY_1|0
+the following observations|DT JJ NNS|BODY_2|0
+the payloads section|DT NNS NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+their generic counterpart|PRP$ JJ NN|BODY_7|0
+certain antivirusknown addresses|JJ JJ NNS|BODY_4|0
+such a host|JJ DT NN|BODY_7|0
+multiple simulation runs|JJ NN NNS|BODY_3|0
+no emergent behaviors|DT NN NNS|BODY_6|0
+discovered valid addresses|VBN JJ NNS|BODY_1|0
+no global plan|DT JJ NN|BODY_4|0
+the s-l-sp swarm|DT NN JJ|BODY_12|0
+such a topology|JJ DT NN|BODY_1|0
+a non-specific sense|DT JJ NN|BODY_1|0
+a specific instance|DT JJ NN|BODY_10|0
+the address space|DT NN NN|BODY_1|0
+2.4 goal-based actions|CD JJ NNS|BODY_1|0
+a modified client|DT JJ NN|BODY_1|0
+the same system|DT JJ NN|BODY_5|0
+other vulnerable hosts|JJ JJ NNS|BODY_8|0
+these messages )|DT NNS -RRB-|BODY_7|0
+the following sections|DT JJ NNS|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+current neighbors )|JJ NNS -RRB-|BODY_13|0
+the basic concepts|DT JJ NNS|BODY_1|0
+two basic goals|CD JJ NNS|BODY_5|0
+â€ ¢|NN NNS|BODY_17:BODY_18:BODY_3:BODY_4|0
+the design|DT NN|BODY_12:BODY_6:BODY_19:BODY_8|2
+a scan|DT NN|BODY_2:BODY_1:BODY_8|0
+addresses|NNS|BODY_6:BODY_5:BODY_31:BODY_3:BODY_7|0
+local bias|JJ NN|BODY_2:BODY_20|0
+[5 ]|CD NN|BODY_2:BODY_3|0
+the neighbors|DT NNS|BODY_6:BODY_1:BODY_4:BODY_7|0
+the choice|DT NN|BODY_2:BODY_3:BODY_10|1
+a swarm|DT NN|BODY_5:BODY_3:BODY_4:BODY_19|0
+the behaviors|DT NNP|BODY_6:BODY_5:BODY_2:BODY_3|0
+swarm attacks|JJ NNS|BODY_3:BODY_10:BODY_7|0
+the study|DT NN|BODY_2:BODY_10|2
+each method|DT NN|BODY_3:BODY_4|1
+an address|DT NN|BODY_5:BODY_16:BODY_1:BODY_8|0
+swarm intelligence|JJ NN|BODY_3:BODY_9|1
+a combination|DT NN|BODY_18:BODY_3:BODY_10|0
+random|JJ|BODY_5:BODY_3:BODY_8|0
+control|NN|BODY_12:BODY_11:BODY_5:BODY_7:BODY_20|0
+all nodes|DT NNS|BODY_6:BODY_2|0
+the results|DT NNS|BODY_1:BODY_3|0
+rates|NNS|BODY_3:BODY_4|1
+a list|DT NN|BODY_12:BODY_5:BODY_2:BODY_4|0
+other areas|JJ NNS|BODY_14|1
+one time|CD NN|BODY_6:BODY_34:BODY_15|0
+the use|DT NN|BODY_2|1
+the list|DT NN|BODY_2:BODY_3|0
+propagation techniques|NN NNS|BODY_4|1
+transportation systems|NN NNS|BODY_12|1
+military applications|JJ NNS|BODY_13|1
+future work|NN NN|BODY_2|1
+the organization|DT NN|BODY_9|1
+a host|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+the time|DT NN|BODY_5|1
+a scheme|DT NN|BODY_3|1
+traffic patterns|NN NNS|BODY_11|1
+the fields|DT NNS|BODY_4|1
+its host|PRP$ NN|BODY_4|1
+other researchers|JJ NNS|BODY_1|1
+the same|DT JJ|BODY_4|1
+recent years|JJ NNS|BODY_1|1
+some way|DT NN|BODY_6|1
+the past|DT NN|BODY_1|1
+information|NN|BODY_6:BODY_16:BODY_7:BODY_8|0
+figure 3|NN CD|BODY_1:BODY_2|0
+a variety|DT NN|BODY_2:BODY_3|0
+target lists|NN NNS|BODY_21:BODY_2:BODY_1:BODY_4|0
+zachik worm|JJ NN|BODY_3|0
+( l)|-LRB- NN|BODY_12:BODY_27:BODY_39:BODY_19:BODY_20|0
+ants forages|NNS NNS|BODY_2|0
+birds sweeps|NNS NNS|BODY_2|0
+design tradeoffs|NN NNS|BODY_2|0
+this task|DT NN|BODY_2|0
+the work|DT NN|BODY_1:BODY_3|0
+shared passwords|JJ NNS|BODY_2:BODY_4|0
+this set|DT NN|BODY_13:BODY_1|0
+general model|JJ NN|BODY_21:BODY_2|0
+swarm behavior|JJ NN|BODY_5:BODY_3|0
+this work|DT NN|BODY_13:BODY_1|0
+a total|DT NN|BODY_2:BODY_3|0
+the elements|DT NNS|BODY_5:BODY_9|0
+valid addresses|JJ NNS|BODY_2:BODY_3|0
+the fact|DT NN|BODY_5:BODY_1:BODY_2|0
+the network|DT NN|BODY_6:BODY_1:BODY_3|0
+other worms|JJ NNS|BODY_3:BODY_9|0
+the number|DT NN|BODY_3:BODY_8|0
+actions|NNS|BODY_6:BODY_5:BODY_2:BODY_7:BODY_9|0
+the options|DT NNS|BODY_3:BODY_4|0
+( iv|-LRB- FW|BODY_2|0
+a target|DT NN|BODY_4|0
+random scanning|JJ NN|BODY_5:BODY_1|0
+an artifact|DT NN|BODY_2|0
+everything else|NN RB|BODY_19:BODY_10|0
+this model|DT NN|BODY_2:BODY_1|0
+this area|DT NN|BODY_2|0
+malform worm|JJ NN|BODY_3:BODY_7|0
+//www.cert .org/|NN NN|BODY_6|0
+large number|JJ NN|BODY_2|0
+a predator|DT NN|BODY_5|0
+fish swims|NN NNS|BODY_2|0
+this context|DT NN|BODY_1|0
+computer scientists|NN NNS|BODY_2|0
+every instance|DT NN|BODY_7|0
+a simulator|DT NN|BODY_8|0
+different types|JJ NNS|BODY_3|0
+the author |DT NN|BODY_4|0
+generic worm|JJ NN|BODY_12:BODY_3|0
+just number|RB NN|BODY_7|0
+4 digits|CD NNS|BODY_7|0
+empirical results|JJ NNS|BODY_5:BODY_4|0
+significant disruption|JJ NN|BODY_6|0
+the experiment|DT NN|BODY_2|0
+the sharing|DT NN|BODY_3:BODY_4|0
+passive methods|JJ NNS|BODY_2|0
+useless packets|JJ NNS|BODY_4|0
+the fighting|DT VBG|BODY_2|0
+their actions|PRP$ NNS|BODY_3:BODY_8|0
+the search|DT NN|BODY_3|0
+distributed control|VBN NN|BODY_1:BODY_7|0
+magnitude improvement|NN NN|BODY_6|0
+three kinds|CD NNS|BODY_2|0
+a variance|DT NN|BODY_2|0
+all neighbors|DT NNS|BODY_5|0
+benign behavior|JJ NN|BODY_7|0
+ns )|NNS -RRB-|BODY_10|0
+the instances|DT NNS|BODY_10:BODY_7|0
+the back-door|DT NN|BODY_3|0
+a maximum|DT NN|BODY_10|0
+aggregate motion|JJ NN|BODY_2|0
+a set|DT NN|BODY_6:BODY_9|0
+a subset|DT NN|BODY_11:BODY_4|0
+the following|DT VBG|BODY_2|0
+our perspective|PRP$ NN|BODY_2|0
+the details|DT NNS|BODY_2|0
+section 2.6|NN CD|BODY_2|0
+the cost|DT NN|BODY_5:BODY_7|0
+no sharing|DT NN|BODY_7|0
+the internet|DT NN|BODY_6:BODY_13|0
+artificial intelligence|JJ NN|BODY_4|0
+early researchers|JJ NNS|BODY_2|0
+these actions|DT NNS|BODY_17:BODY_2|0
+such techniques|JJ NNS|BODY_5|0
+¢ i-nl-ns|JJ NNS|BODY_2|0
+compromised hosts|JJ NNS|BODY_3|0
+simply what|RB WP|BODY_6|0
+adjacent bird|JJ NN|BODY_5|0
+a.k .a.|JJ NN|BODY_3|0
+registering neighbors|VBG NNS|BODY_4|0
+messages|NNS|BODY_2:BODY_3|0
+the field|DT NN|BODY_3|0
+these|DT|BODY_2:BODY_1|0
+if( success|WDT NN|BODY_4|0
+a possible|DT JJ|BODY_7|0
+specific password|JJ NN|BODY_3|0
+its children|PRP$ NNS|BODY_5|0
+the position|DT NN|BODY_4|0
+the development|DT NN|BODY_4|0
+figure 4|NN CD|BODY_2:BODY_1|0
+different segments|JJ NNS|BODY_5|0
+327 worms|CD NNS|BODY_6|0
+generic worms|JJ NNS|BODY_6:BODY_2:BODY_9|0
+learned passwords|JJ NNS|BODY_41:BODY_22:BODY_21:BODY_14:BODY_29|0
+long ones|JJ NNS|BODY_2|0
+some models|DT NNS|BODY_1|0
+the simulator|DT NN|BODY_1|0
+many popping|JJ VBG|BODY_5|0
+section 2|NN CD|BODY_2:BODY_1|0
+parameters for|NNS IN|BODY_2|0
+n agents|NN NNS|BODY_4|0
+the problem|DT NN|BODY_6|0
+infected host|JJ NN|BODY_8|0
+incoming messages|VBG NNS|BODY_3|0
+a series|DT NN|BODY_2|0
+the learning|DT NN|BODY_10|0
+our knowledge|PRP$ NN|BODY_2:BODY_3|0
+gba )|NNP -RRB-|BODY_5|0
+particular servers|JJ NNS|BODY_9|0
+the acumen|DT NNS|BODY_4|0
+recent disruptions|JJ NNS|BODY_3|0
+all instances|DT NNS|BODY_4|0
+propagate( )|NN -RRB-|BODY_14|0
+this worm|DT NN|BODY_2|0
+a password|DT NN|BODY_1|0
+the script|DT NN|BODY_6|0
+national laboratory|JJ NN|BODY_3|0
+the model|DT NN|BODY_1:BODY_3|0
+random (|JJ -LRB-|BODY_2|0
+the topology|DT NN|BODY_7|0
+this host|DT NN|BODY_4:BODY_7|0
+a way|DT NN|BODY_1:BODY_2|0
+grant acg-2004-06|NN NNS|BODY_3|0
+associated costs|VBN NNS|BODY_3|0
+other well|JJ NN|BODY_5|0
+a proof|DT NN|BODY_2|0
+the target|DT NN|BODY_1|0
+new instances|JJ NNS|BODY_6:BODY_9|0
+agents interact|NNS NN|BODY_2|0
+a model|DT NN|BODY_5:BODY_4|0
+known passwords|JJ NNS|BODY_11:BODY_3|0
+many others|JJ NNS|BODY_2|0
+these instances|DT NNS|BODY_2|0
+normal interactions|JJ NNS|BODY_3|0
+the actions|DT NNS|BODY_6|0
+their neighbors|PRP$ NNS|BODY_9|0
+aggregate behavior|JJ NN|BODY_2|0
+the life|DT NN|BODY_2|0
+their passwords|PRP$ NNS|BODY_4|0
+its analysis|PRP$ NN|BODY_4|0
+the validity|DT NN|BODY_6|0
+susceptible host|JJ NN|BODY_3|0
+these methods|DT NNS|BODY_2|0
+new behaviors|JJ NNS|BODY_4|0
+whose addresses|WP$ NNS|BODY_5|0
+zero )|CD -RRB-|BODY_3|0
+section 1|NN CD|BODY_3|0
+that host|DT NN|BODY_2|0
+scan and|JJ CC|BODY_4|0
+exploitable addresses|JJ NNS|BODY_5|0
+the knowledge|DT NN|BODY_2|0
+a rates|DT NNS|BODY_4|0
+internal/external rate|JJ NN|BODY_5|0
+particular machines|JJ NNS|BODY_4|0
+a hit-list|DT NN|BODY_4|0
+other types|JJ NNS|BODY_5|0
+creation time|NN NN|BODY_8|0
+a back-door|DT NN|BODY_2|0
+a full|DT JJ|BODY_4|0
+various passwords|JJ NNS|BODY_8|0
+our hypothesis|PRP$ NN|BODY_2|0
+its (|PRP$ -LRB-|BODY_5|0
+an infection|DT NN|BODY_6:BODY_1|0
+the spread|DT NN|BODY_3|0
+a system|DT NN|BODY_6|0
+that time|DT NN|BODY_5|0
+other agents|JJ NNS|BODY_4|0
+their environment|PRP$ NN|BODY_2|0
+the areas|DT NNS|BODY_8|0
+a bird|DT NN|BODY_2|0
+two( 2|JJ CD|BODY_6|0
+slammer )|NN -RRB-|BODY_12|0
+worm messages|NN NNS|BODY_6|0
+( 2|-LRB- CD|BODY_3|0
+256 addresses|CD NNS|BODY_10|0
+their work|PRP$ NN|BODY_2|0
+the creation|DT NN|BODY_3|0
+early notions|JJ NNS|BODY_9|0
+30 computers|CD NNS|BODY_3|0
+our description|PRP$ NN|BODY_6|0
+an offspring|DT NN|BODY_3|0
+any member|DT NN|BODY_8|0
+the password|DT NN|BODY_5|0
+nl )|NN -RRB-|BODY_6|0
+the dependency|DT NN|BODY_12|0
+coordinated activity|JJ NN|BODY_4|0
+vulnerable hosts|JJ NNS|BODY_5|0
+realistically reflects|RB VBZ|BODY_6|0
+the auspices|DT NNS|BODY_2|0
+many trials|JJ NNS|BODY_6|0
+data files|NNS NNS|BODY_9|0
+the majority|DT NN|BODY_2|0
+10,000 hosts|CD NNS|BODY_4|0
+learning concepts|VBG NNS|BODY_6|0
+200 subnets|CD NNS|BODY_5|0
+an order|DT NN|BODY_5|0
+existent addresses|JJ NNS|BODY_43:BODY_24|0
+new member|JJ NN|BODY_3|0
+such worms|JJ NNS|BODY_2|0
+its existence|PRP$ NN|BODY_4|0
+three actions|CD NNS|BODY_4|0
+offsprings 328|NNS CD|BODY_7|0
+gba functionality|NN NN|BODY_3|0
+the performance|DT NN|BODY_8|0
+a probability|DT NN|BODY_2|0
+therefore dangerous|RB JJ|BODY_4|0
+each one|DT CD|BODY_4|0
+its stealthiness|PRP$ NN|BODY_10|0
+our simulation|PRP$ NN|BODY_3|0
+a lot|DT NN|BODY_6|0
+gaming meta-servers|NN NNS|BODY_4|0
+attempted infection|VBN NN|BODY_3|0
+other members|JJ NNS|BODY_3|0
+this information|DT NN|BODY_6|0
+creation )|NN -RRB-|BODY_35|0
+new passwords|JJ NNS|BODY_5|0
+hit lists|NN NNS|BODY_2|0
+very little|RB JJ|BODY_5|0
+our set|PRP$ NN|BODY_4|0
+a parent|DT NN|BODY_4|0
+survivable systems|JJ NNS|BODY_21|0
+any offsprings|DT NNS|BODY_6|0
+these options|DT NNS|BODY_11|0
+agent systems|NN NNS|BODY_10|0
+all machines|DT NNS|BODY_5|0
+these servers|DT NNS|BODY_3|0
+time bombs|NN NNS|BODY_14|0
+worm instances|NN NNS|BODY_7|0
+communication channels|NN NNS|BODY_3|0
+empirical runs|JJ NNS|BODY_2|0
+no learning|DT NN|BODY_4|0
+random selection|JJ NN|BODY_19|0
+what|WP|BODY_5:BODY_4:BODY_7|0
+limiting factors|VBG NNS|BODY_3|0
+these attributes|DT NNS|BODY_16|0
+the overhead|DT NN|BODY_6|0
+2.6 to|CD TO|BODY_3|0
+such mechanisms|JJ NNS|BODY_4|0
+computer worms|NN NNS|BODY_6|0
+biological swarms|JJ NNS|BODY_2|0
+the simulation|DT NN|BODY_2|0
+simulation runs|NN NNS|BODY_2|0
+two classes|CD NNS|BODY_2|0
+its search|PRP$ NN|BODY_2|0
+the hit-list|DT NN|BODY_3|0
+the potential|DT NN|BODY_4|0
+spam relays|NN NNS|BODY_1|0
+these discontinuities|DT NNS|BODY_1|0
+this experiment|DT NN|BODY_4|0
+goal-based actions|JJ NNS|BODY_4|0
+whatever functionality|WDT NN|BODY_6|0
+each instance|DT NN|BODY_4|0
+the address|DT NN|BODY_7|0
+no coordination|DT NN|BODY_8|0
+swarm worm|JJ NN|BODY_3|0
+countermeasures strategies|NNS NNS|BODY_5|0
+new worms|JJ NNS|BODY_3|0
+a script|DT NN|BODY_5|0
+the sense|DT NN|BODY_3|0
+what techniques|WP NNS|BODY_24|0
+a flock|DT NN|BODY_1|0
+a group|DT NN|BODY_1|0
+the costs|DT NNS|BODY_1|0
+the sky|DT NN|BODY_3|0
+weaver et|JJR FW|BODY_1|0
+worm authors|NN NNS|BODY_3|0
+the multi-connectivity|DT NN|BODY_4|0
+such swarms|JJ NNS|BODY_2|0
+said model|VBD NN|BODY_3|0
+non-existent addresses|JJ NNS|BODY_6|0
+first check|JJ NN|BODY_9|0
+the exploit|DT VBP|BODY_6|0
+shares passwords|NNS NNS|BODY_2|0
+first glance|JJ NN|BODY_6|0
+some aspects|DT NNS|BODY_5|0
+the structure|DT NN|BODY_7|0
+this kind|DT NN|BODY_1|0
+address discovery|NN NN|BODY_4|0
+these set|DT VBN|BODY_4|0
+the size|DT NN|BODY_2|0
+a school|DT NN|BODY_1|0
+either servers|DT NNS|BODY_2|0
+this description|DT NN|BODY_2|0
+some combination|DT NN|BODY_12|0
+subnet-based )|JJ -RRB-|BODY_11|0
+including self-organization|VBG NN|BODY_5|0
+10000 options|CD NNS|BODY_8|0
+the morning|DT NN|BODY_7|0
+algorithm form|JJ NN|BODY_1|0
+the targeting|DT VBG|BODY_1|0
+the reader|DT NN|BODY_1|0
+the instance|DT NN|BODY_2|0
+vern paxson|JJ NN|BODY_1|0
+the latter|DT NN|BODY_1|0
+the start|DT NN|BODY_1|0
+stealth capabilities|NN NNS|BODY_8|0
+such studies|JJ NNS|BODY_1|0
+the wild|DT JJ|BODY_5|0
+figure 1|NN CD|BODY_1|0
+the author|DT NN|BODY_9|0
+2.7 infection|CD NN|BODY_1|0
+the payload|DT JJ|BODY_5|0
+ddos attacks|NNS NNS|BODY_1|0
+this module|DT NN|BODY_1|0
+2.9 propagation|CD NN|BODY_1|0
+common passwords|JJ NNS|BODY_5|0
+five-(5 )|CD -RRB-|BODY_11|0
+most subnets|JJS NNS|BODY_5|0
+password algorithm|NN NN|BODY_5|0
+this reasons|DT NNS|BODY_1|0
+whose intelligence|WP$ NN|BODY_5|0
+the agents|DT NNS|BODY_4|0
+the above|DT JJ|BODY_12|0
+initial neighbors|JJ NNS|BODY_7|0
+any type|DT NN|BODY_1|0
+2.1 propagation|CD NN|BODY_1|0
+address scanning|NN NN|BODY_1|0
+b )|NN -RRB-|BODY_5|0
+interesting problems|JJ NNS|BODY_3|0
+programmable updates|JJ NNS|BODY_6|0
+its list|PRP$ NN|BODY_6|0
+goal list|NN NN|BODY_5|0
+infection vectors|NN NNS|BODY_3|0
+2.10 learning|CD NN|BODY_1|0
+concept worm|NN NN|BODY_3|0
+data damage|NNS NN|BODY_1|0
+the opening|DT NN|BODY_1|0
+vulnerability assessment|NN NN|BODY_5|0
+the parent|DT NN|BODY_8|0
+handoffs )|NNS -RRB-|BODY_6|0
+2.10.2 coordination|CD NN|BODY_1|0
+each server|DT NN|BODY_1|0
+experimental design|JJ NN|BODY_1|0
+the presence|DT NN|BODY_1|0
+the objective|DT NN|BODY_1|0
+the rest|DT NN|BODY_1|0
+infect target|JJ NN|BODY_7|0
+the percentages|DT NNS|BODY_1|0
+section 4|NN CD|BODY_1|0
+subnet-based rate|JJ NN|BODY_7|0
+share information|NN NN|BODY_9|0
+section 3|NN CD|BODY_1|0
+50 hosts|CD NNS|BODY_7|0
+that space|DT NN|BODY_1|0
+particular choices|JJ NNS|BODY_14|0
+please note|VB NN|BODY_1|0
+2.5 swarms|CD NNS|BODY_1|0
+the sending|DT NN|BODY_1|0
+the importance|DT NN|BODY_1|0
+its creators|PRP$ NNS|BODY_6|0
+new targets|JJ NNS|BODY_7|0
+multiple runs|JJ NNS|BODY_3|0
+the amount|DT NN|BODY_1|0
+the percentage|DT NN|BODY_1|0
+distributed intelligence|VBN NN|BODY_6|0
+aggregate behaviors|JJ NNS|BODY_2|0
+swarm behaviors|JJ NNS|BODY_8|0
+these messages|DT NNS|BODY_12|0
+root privileges|NN NNS|BODY_10|0
+this type|DT NN|BODY_1|0
+2.8 self-preservation|CD NN|BODY_1|0
+this method|DT NN|BODY_1|0
+2. worm|DT NN|BODY_1|0
+more attacks|RBR NNS|BODY_4|0
+the damage|DT NN|BODY_4|0
+sequential scanning|JJ NN|BODY_1|0
+simple terms|JJ NNS|BODY_1|0
+many forms|JJ NNS|BODY_4|0
+other things|JJ NNS|BODY_7|0
+the data|DT NNS|BODY_1|0
+this case|DT NN|BODY_1|0
+this reason|DT NN|BODY_1|0
+this section|DT NN|BODY_1|0
+different methods|JJ NNS|BODY_1|0
+the radar|DT NN|BODY_4|0
+further study|JJ NN|BODY_4|0
+host data|NN NNS|BODY_5|0
+weaver [5]|NN NN|BODY_7|0
+2.11 goal|CD NN|BODY_1|0
+its study|PRP$ NN|BODY_7|0
+the class|DT NN|BODY_1|0
+â€|NN|BODY_25:BODY_37:BODY_8|0
+instances|NNS|BODY_2|0

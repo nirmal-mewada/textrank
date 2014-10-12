@@ -1,0 +1,14 @@
+an upper bound|DT JJ JJ|BODY_5:BODY_2|0
+the states|DT NNS|BODY_7:BODY_8|0
+this paper|DT NN|BODY_2|0
+we|PRP|BODY_3|0
+perfect information|JJ NN|BODY_5|0
+the maximum expected value|DT NN VBN NN|BODY_4|0
+any probability distribution|DT NN NN|BODY_7|0
+( evpi )|-LRB- NN -RRB-|BODY_6|0
+any partial information|DT JJ NN|BODY_6|0
+given probabilities|VBN NNS|BODY_4|0
+the evpi|DT NN|BODY_3|0
+the maximum possible evpi|DT NN JJ NN|BODY_1|0
+the world|DT NN|BODY_8:BODY_9|0
+this maximum evpi|DT NN NN|BODY_1|0

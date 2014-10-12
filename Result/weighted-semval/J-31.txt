@@ -1,0 +1,315 @@
+we|PRP|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4|0
+the optimal strategy|DT JJ NN|TITLE_1:BODY_2:BODY_3:BODY_4|0
+pure strategies|JJ NNS|BODY_6:ABSTRACT_5:BODY_7:BODY_9:BODY_20|0
+mechanism design|NN NN|BODY_5:BODY_2:BODY_1:BODY_4:ABSTRACT_7|2
+strategies|NNS|BODY_5:BODY_2:BODY_7:ABSTRACT_9:BODY_9|0
+a strategy|DT NN|BODY_5:BODY_2:ABSTRACT_3:BODY_3|0
+commitment|NN|ABSTRACT_6:BODY_1:ABSTRACT_3:BODY_3|0
+one player|CD NN|BODY_6:ABSTRACT_2:BODY_1:BODY_4:BODY_10|0
+multiagent systems|JJ NNS|ABSTRACT_6:BODY_1:ABSTRACT_1|0
+the players|DT NNS|ABSTRACT_4:BODY_1:BODY_3|0
+leadership|NN|ABSTRACT_2:BODY_2|1
+their strategies|PRP$ NNS|BODY_6:ABSTRACT_5:BODY_9|0
+toâˆ — vincent conitzer|JJ NN NN NN|TITLE_2|0
+the designer|DT NN|ABSTRACT_8:BODY_7|0
+such models|JJ NNS|ABSTRACT_6:ABSTRACT_1:BODY_4|0
+mixed strategies|JJ NNS|BODY_2:ABSTRACT_7|0
+social and behavioral sciences-economics|JJ CC JJ NNS|ABSTRACT_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+a leadership position )|DT NN NN -RRB-|ABSTRACT_9|0
+f.2 [ theory|CD JJR NN|ABSTRACT_7|0
+the other player|DT JJ NN|ABSTRACT_4|0
+both positive results|DT JJ NNS|ABSTRACT_2|0
+economics|NNS|ABSTRACT_12|0
+negative results|JJ NNS|ABSTRACT_4|0
+applications]|NN|ABSTRACT_2|0
+interest|NN|ABSTRACT_2|0
+optimal play|JJ NN|ABSTRACT_5:ABSTRACT_7|0
+under both commitment|IN DT NN|ABSTRACT_4|0
+game-theoretic solutions|JJ NNS|ABSTRACT_3|0
+the recent surge|DT JJ NN|ABSTRACT_1|0
+leadership models|NN NNS|ABSTRACT_4|0
+efficient algorithms|JJ NNS|ABSTRACT_3|0
+algorithms|NNS|ABSTRACT_10|0
+the exception|DT NN|ABSTRACT_5|0
+i.2.11|NNS|ABSTRACT_4|0
+artificial intelligence]|JJ NN|ABSTRACT_5|0
+computation]|JJ|ABSTRACT_8|0
+analysis|NN|ABSTRACT_9|0
+the interest|DT NN|ABSTRACT_6|0
+strategic settings|JJ NNS|ABSTRACT_2|0
+the assumption|DT NN|ABSTRACT_3|0
+the model|DT NN|ABSTRACT_8|0
+stackelberg models|JJ NNS|ABSTRACT_4|0
+optimal strategies|JJ NNS|ABSTRACT_3|0
+np-hardness results|NN NNS|ABSTRACT_5|0
+a decision|DT NN|ABSTRACT_5|0
+which|WDT|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8|0
+it|PRP|BODY_5:BODY_2:BODY_3:BODY_4|1
+that|WDT|BODY_6:BODY_5:BODY_14:BODY_3:BODY_4:BODY_8:BODY_9|0
+the row player|DT NN NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_7:BODY_8|0
+the game|DT NN|BODY_6:BODY_5:BODY_17:BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_6:BODY_2:BODY_1|1
+the column player|DT NN NN|BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|0
+a pure strategy|DT JJ NN|BODY_17:BODY_1:BODY_3:BODY_4:BODY_8|0
+there|EX|BODY_1:BODY_3:BODY_4|0
+the seller|DT NN|BODY_3:BODY_10:BODY_8:BODY_9|1
+the leader |DT NN|BODY_5:BODY_3|0
+the original game|DT JJ NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+a mixed strategy|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the reserve price|DT NN NN|BODY_6:BODY_3:BODY_7|1
+an extensive-form game|DT NN NN|BODY_2:BODY_3|0
+the agents|DT NNS|BODY_17:BODY_10:BODY_8|0
+agents|NNS|BODY_3:BODY_14:BODY_4|0
+)|-RRB-|BODY_3:BODY_4:BODY_7|0
+s|VBZ|BODY_5:BODY_7|0
+the bottom strategy|DT NN NN|BODY_4:BODY_7:BODY_8|0
+an extremely important topic|DT RB JJ NN|BODY_2|1
+the extensive-form representation|DT NN NN|BODY_6:BODY_11:BODY_4:BODY_9|0
+a distribution|DT NN|BODY_5:BODY_3|0
+each player|DT NN|BODY_6:BODY_3:BODY_7|0
+actions|NNS|BODY_6:BODY_5:BODY_8|0
+the strategies|DT NNS|BODY_1:BODY_3:BODY_7|0
+the case|DT NN|BODY_1:BODY_2|0
+the row player |DT NN NN|BODY_6:BODY_11|0
+multiple self-interested software agents|JJ JJ NN NNS|BODY_4|1
+a utility function ui|DT NN NN FW|BODY_10|0
+a few good reasons|DT JJ JJ NNS|BODY_2|0
+settings|NNS|BODY_6:BODY_3|1
+a normal-form game|DT JJ NN|BODY_2:BODY_3|0
+the code|DT NN|BODY_1:BODY_3:BODY_4|0
+the leader|DT NN|BODY_2:BODY_8|0
+including most economic settings|VBG JJS JJ NNS|BODY_3|0
+this ( naâ¨ä±vely )|DT -LRB- RB -RRB-|BODY_4|0
+an implicit leadership situation|DT JJ NN NN|BODY_2|0
+the row player commits|DT NN NN NNS|BODY_5|0
+an optimal mixed strategy|DT NN JJ NN|BODY_7|0
+player 1 , 2|NN CD , CD|BODY_7|0
+the better the utility|DT RB DT NN|BODY_13|0
+player 1|NN CD|BODY_5:BODY_4|0
+a subgame perfect equilibrium|DT NN JJ NN|BODY_10|0
+who|WP|BODY_6:BODY_5|0
+one|CD|BODY_1:BODY_2:BODY_4|0
+what|WP|BODY_16:BODY_7|0
+the equilibrium selection problem|DT NN NN NN|BODY_2|0
+probability p|NN NN|BODY_6:BODY_9|0
+example|NN|BODY_1:BODY_3|0
+the right strategy )|DT JJ NN -RRB-|BODY_9|0
+e .g.|NN NNP|BODY_4:BODY_8|0
+the item|DT NN|BODY_5:BODY_7:BODY_9|0
+such a simultaneous manner|JJ DT JJ NN|BODY_3|0
+a different extensive-form game|DT JJ NN NN|BODY_9|0
+the optimal mixed strategy|DT JJ JJ NN|BODY_1|0
+utility|NN|BODY_12:BODY_6|0
+a way|DT NN|BODY_12:BODY_5|0
+the original (|DT JJ -LRB-|BODY_3|0
+the ec community|DT NN NN|BODY_3|1
+an agent|DT NN|BODY_1:BODY_3:BODY_4|0
+a utility|DT NN|BODY_6:BODY_10|0
+a production quantity|DT NN NN|BODY_9|0
+the effect|DT NN|BODY_2:BODY_4|0
+nash equilibrium|JJ NN|BODY_5:BODY_3|0
+every player|DT NN|BODY_18:BODY_3|0
+artificial reserve prices|JJ NN NNS|BODY_7|1
+pure strategy|JJ NN|BODY_6:BODY_9|0
+the commitment outcome|DT NN NN|BODY_8|0
+duopoly model [5]|JJ NN NN|BODY_7|0
+a best response|DT JJS NN|BODY_9|0
+the other player |DT JJ NN|BODY_6|0
+the computation|DT NN|BODY_1:BODY_3|0
+an additional constraint|DT JJ NN|BODY_2|0
+the leadership situation|DT NN NN|BODY_12:BODY_5:BODY_10:BODY_7|0
+about earlier decisions|IN RB NNS|BODY_18|0
+the right strategy|DT JJ NN|BODY_10:BODY_9|0
+the simultaneous-move|DT NN|BODY_11|0
+players|NNS|BODY_5:BODY_4|0
+player 2|NN CD|BODY_8|0
+’ p|JJ NN|BODY_16|0
+the actions|DT NNS|BODY_8|0
+the optimal action|DT JJ NN|BODY_5|0
+this normal-form representation|DT JJ NN|BODY_3|0
+( bi-)matrix form|-LRB- NN NN|BODY_2|0
+the following game|DT JJ NN|BODY_2|0
+3p + 4(|JJ JJ NNS|BODY_13|0
+a profound impact|DT JJ NN|BODY_2|0
+finite games|JJ NNS|BODY_2|0
+a special case|DT JJ NN|BODY_8|0
+recent ec conferences|JJ NN NNS|BODY_6|1
+various solution concepts|JJ NN NNS|BODY_5|0
+the non-commitment|DT NN|BODY_9|0
+an agent (|DT NN -LRB-|BODY_2|0
+industrial applications|JJ NNS|BODY_7|0
+the reason|DT NN|BODY_2|1
+the others|DT NNS|BODY_10|0
+the ( continuum|DT -LRB- NN|BODY_6|0
+game theory|NN NN|BODY_3:BODY_4|0
+a probability distribution|DT NN NN|BODY_3|0
+no such bid|DT JJ NN|BODY_9|0
+one cannot change|PRP NN NN|BODY_2|0
+an equilibrium concept|DT NN NN|BODY_3|0
+the corresponding outcome|DT JJ NN|BODY_16|0
+) mixed strategies|-RRB- JJ NNS|BODY_7|0
+von stackelberg [25]|NNP NN NN|BODY_4|0
+generic two-player games|JJ JJ NNS|BODY_2|0
+a standard assumption|DT JJ NN|BODY_3|0
+this case|DT NN|BODY_8|0
+an optimal strategy|DT JJ NN|BODY_4|0
+the leader )|DT NN -RRB-|BODY_2|0
+3|CD|BODY_11:BODY_8|0
+the rows correspond|DT NNS NN|BODY_4|0
+extensiveform games|NN NNS|BODY_9|0
+the normal-form representation|DT JJ NN|BODY_5|0
+that firm|IN NN|BODY_10|0
+the columns correspond|DT NNS NN|BODY_7|0
+the left strategy|DT JJ NN|BODY_5|0
+the top strategy|DT JJ NN|BODY_6:BODY_3|0
+nash ) solution|NN -RRB- NN|BODY_12|0
+simultaneous-move ) outcome|JJ -RRB- NN|BODY_10|0
+the follower|DT NN|BODY_6:BODY_3|0
+the other agents|DT JJ NNS|BODY_9|0
+a loss )|DT NN -RRB-|BODY_8|0
+decision|NN|BODY_7|0
+the agent|DT NN|BODY_6:BODY_5|0
+4 âˆ|CD CD|BODY_15|0
+pure ) strategies|JJ -RRB- NNS|BODY_4|0
+one agent|CD NN|BODY_6|0
+the framework|DT NN|BODY_2|0
+a significant amount|DT JJ NN|BODY_1|0
+section 3 )|NN CD -RRB-|BODY_10|0
+a leadership situation|DT NN NN|BODY_4|0
+such commitment power|JJ NN NN|BODY_1|0
+a strategic setting|DT JJ NN|BODY_1|0
+the mechanism designer|DT NN NN|BODY_1|0
+robosoccer )|NN -RRB-|BODY_6|0
+2. normal-form games|CD JJ NNS|BODY_1|0
+expected revenue|VBN NN|BODY_8|1
+the papers|DT NNS|BODY_4|1
+normal form|JJ NN|BODY_6:BODY_2|0
+the follower )|DT NN -RRB-|BODY_5|0
+optimal leadership strategies|JJ NN NNS|BODY_1|0
+’ r|JJ NN|BODY_13|0
+a commitment device|DT NN NN|BODY_5|0
+one firm|NN NN|BODY_8|0
+multiple nash equilibria|JJ NN NN|BODY_5|0
+a lower bid|DT JJR NN|BODY_11|0
+subgame-perfect equilibrium payoff|JJ NN NN|BODY_4|0
+busi82 ness )|NN NN -RRB-|BODY_13|0
+the same assumption|DT JJ NN|BODY_1|0
+the setting|DT NN|BODY_1:BODY_2|0
+a nash equilibrium|DT NN NN|BODY_1|0
+the bids|DT NNS|BODY_2|0
+many real-world settings|JJ NN NNS|BODY_1|0
+this extensive-form game|DT NN NN|BODY_3|0
+its original representation|PRP$ JJ NN|BODY_8|0
+the remaining players|DT VBG NNS|BODY_10|0
+the code prescribes|DT NN NNS|BODY_9|0
+a strategy [26]|DT NN NN|BODY_5|0
+a real number|DT JJ NN|BODY_21|0
+the example game|DT NN NN|BODY_6|0
+research|NN|BODY_2|0
+the choice|DT NN|BODY_7|0
+depends|VBZ|BODY_7|0
+probability distributions|NN NNS|BODY_2|0
+every outcome|DT NN|BODY_15|0
+the bidders|DT NNS|BODY_5|1
+the smaller|DT JJR|BODY_12|0
+another player|DT NN|BODY_4|0
+one problem|CD NN|BODY_3|0
+poker tournaments|NN NNS|BODY_5|0
+(|-LRB-|BODY_1:BODY_2|0
+utility (|NN -LRB-|BODY_7|0
+an incentive|DT NN|BODY_5|0
+> 0,|JJ NN|BODY_11|0
+.ã—sn|NN|BODY_12|0
+dominance [7|NN NNS|BODY_10|0
+a variety|DT NN|BODY_2|0
+the tools|DT NNS|BODY_3|0
+a choice|DT NN|BODY_2|0
+self-interested agents|JJ NNS|BODY_2|0
+this section|DT NN|BODY_2|0
+1/2 +|CD NNS|BODY_10|0
+the matrix|DT NN|BODY_11|0
+in|IN|BODY_3|0
+s1ã—s2ã—|NN|BODY_11|0
+a function|DT NN|BODY_7|0
+a bid|DT NN|BODY_5|0
+n }|NN NN|BODY_5|0
+e .g|NN NN|BODY_5|0
+no effect|DT NN|BODY_8|0
+maps|NNS|BODY_14|0
+the field|DT NN|BODY_3|0
+a vector|DT NN|BODY_16|0
+some work|DT NN|BODY_6|0
+a commitment|DT NN|BODY_2|0
+a team|DT NN|BODY_3|0
+any information|DT NN|BODY_11|0
+for games|IN NNS|BODY_5|0
+such settings|JJ NNS|BODY_2|0
+the entries|DT NNS|BODY_10|0
+bayesian games|JJ NNS|BODY_6|0
+no player|DT NN|BODY_4|0
+âˆˆ {1|JJ NNS|BODY_4|0
+the vector|DT NN|BODY_8|0
+this profile|DT NN|BODY_6|0
+solutions|NNS|BODY_4|0
+a player|DT NN|BODY_2|0
+that player|DT NN|BODY_4|0
+some information|DT NN|BODY_5|0
+the information|DT NN|BODY_8|0
+a set|DT NN|BODY_6|0
+every one|DT CD|BODY_5|0
+their decisions|PRP$ NNS|BODY_15|0
+each agent|DT NN|BODY_5|0
+some players|DT NNS|BODY_4|0
+the concept|DT NN|BODY_4|0
+the player|DT NN|BODY_5|0
+the order|DT NN|BODY_12|0
+strategy|NN|BODY_8|0
+the opposite|DT NN|BODY_2|0
+these games|DT NNS|BODY_2|0
+the rules|DT NNS|BODY_8|0
+economic settings|JJ NNS|BODY_9|0
+this corresponds|DT NNS|BODY_9|0
+a market|DT NN|BODY_11|0
+another agent|DT NN|BODY_7|0
+cournot |NN|BODY_6|0
+83 indifferent|CD JJ|BODY_6|0
+minor assumptions|JJ NNS|BODY_3|0
+each strategy|DT NN|BODY_2|0
+exactly 1/2|RB CD|BODY_4|0
+the site|DT NN|BODY_4|0
+probability|NN|BODY_3|0
+recreational tournaments|JJ NNS|BODY_2|0
+three players|CD NNS|BODY_2|0
+two players|CD NNS|BODY_3|0
+two-player games|JJ NNS|BODY_2|0
+rock-paper-scissors|NNS|BODY_5|0
+which strategy|WDT NN|BODY_4|0
+the number|DT NN|BODY_1:BODY_4|0
+a profile|DT NN|BODY_19|0
+both|DT|BODY_4|0
+the strategy|DT NN|BODY_4|0
+the ability|DT NN|BODY_2|0
+si|FW|BODY_9|0
+only 2|RB CD|BODY_7|0
+his strategy|PRP$ NN|BODY_5|0
+¥ 3|NN CD|BODY_17|0
+sensor webs|NN NNS|BODY_8|0
+ strategies|RB NNS|BODY_11|0
+this assumption|DT NN|BODY_3|0
+utilities|NNS|BODY_13|0
+( typically|-LRB- RB|BODY_1|0
+she|PRP|BODY_3|0
+favor|NN|BODY_6|0
+1/2|CD|BODY_7|0
+hindsight (|JJ -LRB-|BODY_1|0
+ties|NNS|BODY_4|0
+order|NN|BODY_15|0
+respect|NN|BODY_7|0
+refinements|NNS|BODY_2|0
+the same|DT JJ|BODY_4|0
+such games|JJ NNS|BODY_1|0
+other agents|JJ NNS|BODY_19|0
+t|NN|BODY_6|0
+others|NNS|BODY_7|0
+everything|NN|BODY_2|0

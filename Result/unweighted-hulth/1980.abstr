@@ -1,0 +1,60 @@
+the bitstream|DT NN|BODY_3:BODY_4|0
+which|WDT|BODY_6:BODY_5|0
+results|NNS|BODY_1:BODY_7|0
+a set|DT NN|BODY_2|0
+region boundaries|NN NNS|BODY_2|0
+some extra coefficients|DT JJ NNS|BODY_3|0
+both|DT|BODY_3|0
+such extra information|JJ JJ NN|BODY_2|0
+the filter length|DT NN NN|BODY_4|0
+3-d mri data|JJ NN NNS|BODY_2|0
+the volumetric data|DT JJ NNS|BODY_7|0
+lossless coding|JJ NN|BODY_5|0
+scheme|NN|BODY_3|0
+the definition|DT NN|BODY_6|0
+the lifting steps|DT VBG NNS|BODY_2|0
+embedded zerotree coding|VBN JJ NN|BODY_2|0
+interest|NN|BODY_8|0
+the volume|DT NN|BODY_7|0
+ezw-3d )|JJ -RRB-|BODY_3|0
+region|NN|BODY_7|0
+the best mlzc mode|DT JJS JJ NN|BODY_2|0
+the different regions|DT JJ NNS|BODY_6|0
+we|PRP|BODY_3|0
+the others state-of-the-art techniques|DT NNS NN NNS|BODY_3|0
+mlzc and ezw-3d|JJ CC JJ|BODY_2|0
+rise|NN|BODY_2|0
+zero coding ( mlzc)|CD NN -LRB- NN|BODY_5|0
+a fully three-dimensional (3-d ) object-based coding system|DT RB JJ NN -RRB- JJ NN NN|BODY_4|0
+the diagnostic relevance|DT JJ NN|BODY_5|0
+map integer-to-integer values|NN NN NNS|BODY_4|0
+disjoint segments|JJ NNS|BODY_2|0
+the case|DT NN|BODY_6|0
+both generalized|DT JJ|BODY_6|0
+multidimensional|JJ|BODY_4|0
+an overheading|DT NN|BODY_3|0
+a 3-d discrete|DT JJ NN|BODY_2|0
+the data|DT NNS|BODY_1|0
+the datasets|DT NNS|BODY_5|0
+respect|NN|BODY_5|0
+one|CD|BODY_4|0
+the different objects|DT JJ NNS|BODY_4|0
+head magnetic resonance images|NN JJ NN NNS|BODY_3|0
+the system|DT NN|BODY_1|0
+artifacts|NNS|BODY_1|0
+each object|DT NN|BODY_4|0
+the amount|DT NN|BODY_1|0
+the decomposition depth|DT NN NN|BODY_5|0
+the implementation|DT NN|BODY_1|0
+the object-based inverse|DT JJ NN|BODY_7|0
+roi)-based processing|JJ NN|BODY_9|0
+two fully 3-d coding strategies|CD RB JJ NN NNS|BODY_1|0
+lossless object-based coding|JJ JJ NN|BODY_1|0
+rate allocation|NN NN|BODY_8|0
+particular|JJ|BODY_1|0
+a whole|DT NN|BODY_8|0
+this|DT|BODY_1|0
+competitive performances|JJ NNS|BODY_3|0
+the coding process|DT NN NN|BODY_1|0
+the literature|DT NN|BODY_8|0
+any up-to-lossless quality|DT JJ NN|BODY_6|0

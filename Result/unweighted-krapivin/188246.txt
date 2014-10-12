@@ -1,0 +1,1221 @@
+which|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:ABSTRACT_7:BODY_7:BODY_9|0
+it|PRP|BODY_5:BODY_23:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+n|NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8:BODY_9|0
+the k stage|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+a k stage|DT NN NN|BODY_6:BODY_11:BODY_2:BODY_1:BODY_4:BODY_10:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_11:BODY_16:BODY_2:BODY_1:ABSTRACT_3:BODY_14:BODY_3:BODY_4:BODY_7|0
+fig|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a bitonic sequence|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+d|NN|BODY_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+s|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the frame delay|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|0
+frame integrity|NN NN|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+l|JJ|BODY_2:BODY_3:BODY_7|0
+c|NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+each|DT|BODY_12:BODY_6:BODY_3:BODY_10:BODY_4:BODY_8|0
+stages|NNS|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3|0
+this|DT|BODY_1:BODY_2:BODY_3|0
+time slots|NN NNS|BODY_6:BODY_5:BODY_15:BODY_3:BODY_7|0
+transposition units|NN NNS|BODY_6:BODY_5:BODY_2:BODY_10|0
+stage|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the benes|DT NNS|BODY_11:BODY_2:BODY_4:BODY_9|0
+order|NN|BODY_6:BODY_11:BODY_5:BODY_3:BODY_7:BODY_8:BODY_9|0
+a frame|DT NN|BODY_5:BODY_2:BODY_24:BODY_3:BODY_4|0
+the slot|DT NN|BODY_2:BODY_3:BODY_10:BODY_9|0
+the frame|DT NN|BODY_6:BODY_3:BODY_10:BODY_4:BODY_9|0
+the control|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_4|0
+the stage|DT NN|BODY_6:BODY_5:BODY_22:BODY_4:BODY_7:BODY_8:BODY_30|0
+the delay|DT NN|BODY_5:BODY_1:BODY_3:BODY_10:BODY_4|0
+one|CD|BODY_6:BODY_12:BODY_5:BODY_3:BODY_8|0
+b|NN|BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+switches|NNS|BODY_5:ABSTRACT_4:ABSTRACT_2:BODY_3:BODY_7|0
+that|DT|BODY_12:BODY_5:BODY_2:BODY_8|0
+q|NN|BODY_2:BODY_3:BODY_4|0
+each stage|DT NN|BODY_2:BODY_3:BODY_7|0
+the time slot sorter|DT NN NN NN|BODY_5:BODY_11:BODY_2:BODY_1:ABSTRACT_1|0
+the switch|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_7|0
+m|NN|BODY_12:BODY_5:BODY_3:BODY_4:BODY_8|0
+a permutation|DT NN|BODY_23:BODY_1:BODY_3:BODY_10:BODY_8|0
+(|-LRB-|BODY_5:BODY_2:BODY_10:BODY_7:BODY_8|0
+n /2 ses|NN CD NNS|BODY_5:BODY_17:BODY_3|0
+the time slot|DT NN NN|BODY_6:BODY_5:BODY_4|0
+time|NN|BODY_5:BODY_17:BODY_1:BODY_4:ABSTRACT_12|0
+k stages|NN NNS|BODY_5:BODY_15:BODY_21:BODY_2:BODY_1|0
+there|EX|BODY_5:BODY_1:BODY_4|0
+control point|NN NN|BODY_2:BODY_10:BODY_4:BODY_9|0
+the time|DT NN|BODY_6:BODY_5:BODY_13:BODY_2|0
+the output|DT NN|BODY_2:BODY_3:BODY_9|0
+networks|NNS|BODY_3:BODY_4:BODY_7|0
+n /2|RB CD|BODY_2:BODY_3|0
+exchange|NN|BODY_6:BODY_2:BODY_3:BODY_10|0
+time division|NN NN|ABSTRACT_8:BODY_2|0
+terms|NNS|BODY_2:BODY_3:BODY_4|0
+the l network|DT JJ NN|BODY_6:BODY_13:BODY_1:BODY_3:BODY_4|0
+the sorter|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the sequence|DT NN|BODY_15:BODY_2:BODY_4:BODY_7|0
+the sorting order|DT NN NN|BODY_5:BODY_1:BODY_3|0
+optical switches|JJ NNS|BODY_1:BODY_3|0
+the bar state|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+the high order q bits|DT JJ NN JJ NNS|BODY_13:BODY_19:BODY_7:BODY_20|0
+times|NNS|BODY_15:BODY_10:BODY_4:BODY_7|0
+1|CD|BODY_5:BODY_11:BODY_2:BODY_4|0
+the input|DT NN|BODY_12:BODY_1:BODY_4:BODY_7|0
+the feed|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_7|0
+control|NN|BODY_1:BODY_3:BODY_7:BODY_8|0
+the rjs permuter|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+crosstalk|NN|BODY_5:BODY_1:ABSTRACT_7|0
+the space domain|DT NN NN|BODY_6:ABSTRACT_5:BODY_3:BODY_4|0
+one bit|CD NN|BODY_6:BODY_8|0
+a pair|DT NN|BODY_6:BODY_3:BODY_14:BODY_4|0
+elements|NNS|BODY_6:BODY_3:BODY_7|0
+the l|DT JJ|BODY_2:BODY_3|0
+the destination tags|DT NN NNS|BODY_2:BODY_1:BODY_7|0
+l n|JJ NN|BODY_1:BODY_4:BODY_10:BODY_8|0
+a time slot interchanger|DT NN NN NN|BODY_2:BODY_3|0
+delays|NNS|ABSTRACT_6:BODY_4:BODY_9|0
+/2|CD|BODY_1:BODY_3:BODY_14:BODY_8|0
+fiber|NN|BODY_6:BODY_5:BODY_1:BODY_2|0
+the header|DT NN|BODY_5:BODY_9|0
+switch control|NN NN|BODY_6:BODY_11:BODY_3|0
+time slot interchangers|NN NN NNS|ABSTRACT_2:BODY_2:BODY_7|0
+n time slots|NN NN NNS|BODY_6:BODY_3|0
+bits|NNS|BODY_6:BODY_5:BODY_8:BODY_9|0
+the l time slot permuter|DT JJ NN NN NN|BODY_6:BODY_18:BODY_2|0
+the lambda permuter|DT NN NN|BODY_5:BODY_1:BODY_4:BODY_8|0
+optical implementation|JJ NN|ABSTRACT_8:BODY_2:BODY_1|0
+k stage|VB NN|BODY_4:BODY_7:BODY_8|0
+2 )|CD -RRB-|BODY_11:BODY_4:BODY_7|0
+control points|NN NNS|BODY_2:BODY_3|0
+a stage|DT NN|BODY_3:BODY_9|0
+tsis|NN|ABSTRACT_2:BODY_1:ABSTRACT_3|0
+the basis|DT NN|BODY_12:BODY_5:BODY_15|0
+slots|NNS|BODY_4:BODY_7:BODY_9|0
+a single bit|DT JJ NN|BODY_5:BODY_3:BODY_4|0
+the time domain|DT NN NN|BODY_1:BODY_3:BODY_4|0
+corollary 1|NN CD|BODY_18:BODY_2:BODY_1|0
+a correspondence|DT NN|BODY_2:BODY_4|0
+a q -way bitonic decomposition|DT NN JJ JJ NN|BODY_3:BODY_7|0
+number|NN|BODY_6:BODY_2:BODY_1|0
+length|NN|BODY_11:BODY_5:BODY_3:BODY_7|0
+the n|DT NN|BODY_6:BODY_1:BODY_7|0
+a sort|DT NN|BODY_5:BODY_17|0
+inputs|NNS|BODY_5:BODY_4|0
+the use|DT NN|BODY_2:BODY_7|0
+pairs|NNS|BODY_3:BODY_4:BODY_8|0
+the control input|DT NN NN|BODY_3:BODY_4|0
+d n|VBD RB|BODY_12:BODY_9|0
+( n|-LRB- NN|BODY_3:BODY_7|0
+the beginning|DT NN|BODY_5:BODY_9|0
+its use|PRP$ NN|BODY_3:BODY_9|0
+bit comparators|NN NNS|BODY_6:BODY_3:BODY_9|0
+o ( n|IN -LRB- NN|BODY_6:BODY_3:BODY_10|0
+a group|DT NN|BODY_5:BODY_28|0
+( nw|-LRB- NN|BODY_13:BODY_2|0
+they|PRP|BODY_5:BODY_7|0
+them|PRP|BODY_5:BODY_8:BODY_9|0
+the case|DT NN|BODY_16:BODY_2|0
+delay|NN|BODY_5:BODY_3:BODY_7|0
+output|NN|BODY_5:BODY_8|0
+the time slot permuter|DT NN NN NN|BODY_6:ABSTRACT_2|0
+loss and crosstalk|NN CC NN|BODY_5:BODY_2|0
+a frame delay|DT NN NN|BODY_6:BODY_4|0
+one slot time|CD NN NN|BODY_15:BODY_9|0
+the tsis|DT NN|BODY_2:BODY_1|0
+v network|RB NN|BODY_10:BODY_7|0
+frame delay|NN NN|BODY_1:BODY_4|0
+respect|NN|BODY_4:BODY_7|0
+the transposition unit|DT NN NN|BODY_2:BODY_1|0
+the second|DT JJ|BODY_5:BODY_2:BODY_3|0
+the cross state|DT NN NN|BODY_2:BODY_3|0
+the exchange switch|DT NN NN|BODY_5:BODY_2|0
+the /spl lambdaspl|DT NN NN|ABSTRACT_5:ABSTRACT_4|0
+long time slots|JJ NN NNS|BODY_5:BODY_2|0
+header information|NN NN|BODY_2:BODY_10|0
+a time slot sorter|DT NN NN NN|BODY_2:BODY_9|0
+all|DT|BODY_5:BODY_3|0
+optical exchange switches|JJ NN NNS|BODY_1:BODY_2|0
+the cascade branch|DT NN NN|BODY_1:BODY_4:BODY_8|0
+# k )|# NN -RRB-|BODY_8:BODY_9|0
+k|NN|BODY_5:BODY_9|0
+x |NN|BODY_3:BODY_14|0
+switch delay|NN NN|BODY_6:BODY_4|0
+an architecture|DT NN|BODY_1:BODY_2|0
+the same order|DT JJ NN|BODY_5:BODY_3|0
+permutations|NNS|BODY_3:BODY_7|0
+this paper|DT NN|BODY_6:BODY_1:BODY_8|0
+disjoint pairs|NN NNS|BODY_11:BODY_2|0
+the first slot|DT JJ NN|BODY_5|0
+the i|DT NN|BODY_5:BODY_1:BODY_8|0
+control space|NN NN|BODY_5:BODY_4|0
+time slot permuter|NN NN NN|ABSTRACT_6:ABSTRACT_5|0
+transformations|NNS|BODY_10:BODY_8|0
+all members|DT NNS|BODY_6:BODY_8|0
+the cost|DT NN|BODY_2:BODY_4|0
+a switch setting|DT NN NN|BODY_3|0
+right , 1 , 2 ,|JJ , CD , CD ,|BODY_3|0
+zero|CD|BODY_2:BODY_10:BODY_8|0
+one switch|CD NN|BODY_6:BODY_3|0
+note|NN|BODY_1|0
+the rjs time slot permuter|DT JJ NN NN NN|BODY_1:BODY_2|0
+the modified benes|DT VBN NNS|BODY_6:BODY_3|0
+a single switch and delay line stage|DT JJ VB CC VB NN NN|BODY_3|0
+compute control|JJ NN|BODY_2|0
+line structures|NN NNS|BODY_2|0
+the fly|DT NN|BODY_3|0
+a slot|DT NN|BODY_5:BODY_4|0
+information|NN|BODY_2:BODY_1|0
+the architectures|DT NNS|BODY_6:BODY_2|0
+the batcher sorter|DT NN NN|BODY_2:BODY_4|0
+the need|DT NN|BODY_5:BODY_2|0
+each control point|DT NN NN|BODY_6:BODY_7|0
+control delay|NN NN|BODY_1:BODY_3|0
+the control inputs|DT NN NNS|BODY_5:BODY_2|0
+recursive application|JJ NN|BODY_8|0
+i4 i6|IN NNS|BODY_16:BODY_15|0
+the sum|DT NN|BODY_2:BODY_8|0
+0|CD|BODY_2|0
+the whole array|DT JJ NN|BODY_6:BODY_3|0
+2|CD|BODY_6:BODY_3|0
+addition|NN|BODY_5:BODY_1|0
+bitonic decomposition|JJ NN|BODY_5:BODY_17|0
+[15]|NNS|BODY_6:BODY_5|0
+that perspective|DT NN|BODY_6|0
+( n 3 )|-LRB- NN CD -RRB-|BODY_6:BODY_4|0
+the idea|DT NN|ABSTRACT_4:BODY_1|0
+slot times|NN NNS|BODY_3:BODY_10|0
+m )|VB -RRB-|BODY_6:BODY_2:BODY_3|0
+1 starts|CD VBZ|BODY_2|0
+a lumped delay diagram|DT JJ NN NN|BODY_2|0
+an extra exchange switch accommodates arbitrary switch delay|DT JJ NN NN NNS JJ NN NN|BODY_2|0
+even small systems|RB JJ NNS|BODY_2|0
+multiple tdm channel|JJ NN NN|BODY_2|0
+optical tsi systems|JJ JJ NNS|BODY_2|0
+the control computation|DT NN NN|BODY_2|0
+the structure|DT NN|BODY_2|0
+destination tags|NN NNS|BODY_10:BODY_8|0
+a delay|DT NN|BODY_2:BODY_3|0
+an optical implementation|DT JJ NN|BODY_2:BODY_1|0
+an integral number|DT JJ NN|BODY_6:BODY_2|0
+two time slots|CD NN NNS|BODY_11:BODY_2|0
+m slot times|NN NN NNS|BODY_12:BODY_29|0
+the time slots|DT NN NNS|BODY_2:BODY_4|0
+case|NN|BODY_14:BODY_4|0
+e|NN|BODY_6:BODY_1|0
+com- munications|NNS NNS|BODY_3|0
+tdm switching|NN NN|BODY_5|0
+a basic bitonic sequence|DT JJ JJ NN|BODY_5:BODY_2|0
+bit comparisons|NN NNS|BODY_5:BODY_7|0
+[13]|NN|BODY_3|0
+the pair|DT NN|BODY_26:BODY_9|0
+2-2 magnitude comparator batcher sorter|JJ NN NN NN NN|BODY_3|0
+bitonic sorter|JJ NN|BODY_4|0
+the data|DT NNS|BODY_3|0
+trade-offs|NNS|BODY_4|0
+( nw )|-LRB- NN -RRB-|BODY_12:BODY_11|0
+the pipelined form|DT JJ NN|BODY_3|0
+2n -1|JJ NN|BODY_6:BODY_4|0
+a slot time|DT NN NN|BODY_3|0
+n q|NN NN|BODY_3:BODY_4|0
+group i|NN NN|BODY_2:BODY_1|0
+2i +1) m -1|CD NN NN NN|BODY_17|0
+the above discussion|DT JJ NN|BODY_3|0
+its sequence|PRP$ NN|BODY_3|0
+versions|NNS|BODY_1:BODY_7|0
+data and tags|NNS CC NNS|BODY_5|0
+the a a figure time|DT DT DT NN NN|BODY_2|0
+the foundation|DT NN|BODY_5|0
+the q -bit comparison|DT JJ NN NN|BODY_2|0
+#|#|BODY_11:BODY_2:BODY_10|0
+subgroup q|NN NN|BODY_3:BODY_9|0
+two bitonic sequences|CD JJ NNS|BODY_4:BODY_8|0
+the recurrence|DT NN|BODY_3:BODY_4|0
+#log 3 n # stages [10]|NN CD NN # NNS NN|BODY_4|0
+the control delay|DT NN NN|BODY_1:BODY_8|0
+structures|NNS|BODY_3|0
+a given comparator|DT VBN NN|BODY_5|0
+waveguides|NNS|BODY_6:BODY_3|0
+a q -bit comparison|DT NN NN NN|BODY_4|0
+a rightmost stage and i subgroups|DT JJ NN CC NN NNS|BODY_2|0
+i stages|NN NNS|BODY_4|0
+n q each instance|RB NN DT NN|BODY_2|0
+control complexities|NN NNS|BODY_6:ABSTRACT_3|0
+n inputs|NN NNS|BODY_3|0
+the vertical axis|DT JJ NN|BODY_2|0
+q )|NN -RRB-|BODY_4:BODY_7|0
+a great deal|DT JJ NN|BODY_6|0
+optics|NNS|BODY_2|0
+the other networks|DT JJ NNS|BODY_2|0
+time mapping scheme|NN NN NN|BODY_2|0
+control point j|NN NN NN|BODY_6:BODY_7|0
+the tags|DT NNS|BODY_18|0
+the control space|DT VB NN|BODY_1:BODY_3:BODY_9|0
+ascending and descending order|VBG CC VBG NN|BODY_5:BODY_4|0
+( i|-LRB- FW|BODY_28:BODY_20|0
+their optical implementa|PRP$ JJ NN|BODY_7|0
+frame delays|NN NNS|ABSTRACT_4:BODY_1|0
+these architectures|DT NNS|ABSTRACT_5:BODY_3|0
+the q=2 case|DT NN NN|BODY_2|0
+element|NN|BODY_15|0
+the first and second halves|DT JJ CC JJ NNS|BODY_3|0
+number comparators|NN NNS|BODY_2|0
+1 -i|CD NN|BODY_18|0
+a stage sorts|DT NN NNS|BODY_6|0
+memory access|NN NN|BODY_6|0
+the length|DT NN|BODY_5|0
+serial array time slot interchangers|JJ NN NN NN NNS|TITLE_1:BODY_1|0
+switches and control complexities|NNS CC NN NNS|BODY_3|0
+the frame length|DT NN NN|BODY_4|0
+a k stage frame delay|DT NN NN NN NN|BODY_2|0
+one input|CD NN|BODY_8|0
+the general case|DT JJ NN|BODY_5|0
+definition 4|NN CD|BODY_2:BODY_1|0
+an|DT|BODY_3|0
+an algorithmic approach|DT JJ NN|ABSTRACT_3|0
+a key|DT NN|BODY_6|0
+the same techniques|DT JJ NNS|BODY_3|0
+multistage interconnection networks|JJ NN NNS|ABSTRACT_4:BODY_3|0
+w|NN|BODY_4|0
+an unshuffle|DT NN|BODY_8|0
+( nn|-LRB- NN|BODY_2|0
+the 2nd slot|DT JJ NN|BODY_7|0
+top|JJ|BODY_3|0
+) stage|-RRB- NN|BODY_2|0
+[4]|NNP|BODY_3|0
+the feedback k stage|DT NN NN NN|BODY_4|0
+network sorts|NN NNS|BODY_2|0
+sorting networks|VBG NNS|BODY_3|0
+a transposition unit|DT NN NN|BODY_9|0
+stage array|NN NN|BODY_4|0
+the order|DT NN|BODY_3|0
+the ease|DT NN|BODY_3|0
+corollary 2|JJ CD|BODY_6:BODY_1|0
+more bits|JJR NNS|BODY_3|0
+a product|DT NN|BODY_2|0
+other aspects|JJ NNS|BODY_6|0
+the input stream|DT NN NN|BODY_8|0
+two way perfect shuffle|CD NN JJ NN|BODY_2|0
+b n|NN NN|BODY_1:BODY_3|0
+the more general permutation capability|DT RBR JJ NN NN|BODY_3|0
+the bitonic decomposition|DT JJ NN|BODY_1:BODY_2|0
+the general time slot sorter|DT JJ NN NN NN|BODY_6:BODY_2|0
+equal length|JJ NN|BODY_5:BODY_9|0
+an input vector|DT NN NN|BODY_2|0
+the tsis described|DT NN VBN|BODY_2|0
+both loss and crosstalk|DT NN CC NN|BODY_1:BODY_4|0
+multiple time slots|JJ NN NNS|BODY_5|0
+many slots|JJ NNS|BODY_5|0
+increasing order|VBG NN|BODY_6:BODY_5:BODY_4|0
+the table|DT NN|BODY_1:BODY_3|0
+lambdasub nsup q/|NN NN NN|ABSTRACT_2|0
+front|NN|BODY_7|0
+n and b|RB CC NN|BODY_4:BODY_8|0
+a switch|DT NN|BODY_4:BODY_9|0
+time slot interchange|NN NN NN|BODY_5|0
+the feedback|DT NN|BODY_6:BODY_1|0
+the cross  x  or bar |DT NN NN NN NN CC NN|BODY_3|0
+rjs permuter sorter lambda permuter|JJ NN NN NN NN|BODY_3|0
+latency|RB|BODY_6:BODY_1|0
+photonic techniques|JJ NNS|BODY_4|0
+|FW|BODY_4:BODY_7|0
+( tdm) systems|-LRB- NN NNS|ABSTRACT_9|0
+n -bit|RB NN|BODY_10|0
+n /2 magnitude comparators|NN CD NN NNS|BODY_4|0
+) control delay table 1|-RRB- NN NN NN CD|BODY_14|0
+an associated frame delay|DT VBN NN NN|BODY_3|0
+always sorts|RB NNS|BODY_3|0
+particular|JJ|BODY_1|0
+the same serial hardware|DT JJ NN NN|BODY_2|0
+control computations|NN NNS|BODY_4|0
+every p|DT NN|BODY_14|0
+each switch|DT NN|BODY_14:BODY_8|0
+a mapping|DT NN|BODY_4|0
+the benes v network|DT NNS RB NN|BODY_4|0
+an important characteristic|DT JJ NN|BODY_3|0
+one output|CD NN|BODY_7|0
+group|NN|BODY_2|0
+sorts|NNS|BODY_4:BODY_7|0
+sorting|NN|BODY_5:BODY_4|0
+the low order|DT JJ NN|BODY_24|0
+( q -way bitonic decomposition|-LRB- NN JJ JJ NN|BODY_2|0
+/2 bit comparisons|CD NN NNS|BODY_2|0
+a 2-way bitonic decomposition|DT JJ JJ NN|BODY_2|0
+each remaining stage|DT VBG NN|BODY_1|0
+figure 10|NN CD|BODY_1|0
+ii.5|PRP|BODY_1|0
+lemma 3|NN CD|BODY_1|0
+lithium niobate electro-optic directional couplers [17]|NN NN JJ JJ NNS NNS|BODY_1|0
+the array|DT NN|BODY_6:BODY_1|0
+the batcher bitonic sorter|DT NN JJ NN|BODY_2|0
+the best developed optical exchange switches|DT RBS JJ JJ NN NNS|BODY_2|0
+the resulting bitonic sequence|DT VBG JJ NN|BODY_1|0
+the transformations|DT NNS|BODY_2|0
+comparison|NN|BODY_15|0
+the left|DT JJ|BODY_5|0
+the permutation capability|DT NN NN|BODY_1:BODY_2|0
+pipelined systems|VBD NNS|ABSTRACT_11|0
+a word comparator|DT NN NN|BODY_5|0
+2d|JJ|BODY_6|0
+forward dilated serial array|RB JJ NN NN|BODY_2|0
+=  state|SYM NN NN|BODY_4|0
+a fixed length frame|DT JJ NN NN|BODY_5:BODY_7|0
+its complement|PRP$ NN|BODY_13|0
+the last slot|DT JJ NN|BODY_3|0
+d #|VBD #|BODY_11|0
+the fact|DT NN|BODY_1:BODY_3|0
+whose basic building blocks|WP$ JJ NN NNS|BODY_6|0
+detailed calculations|VBN NNS|BODY_7|0
+differing numbers|JJ NNS|BODY_2|0
+the switch delays|DT NN NNS|BODY_2|0
+c and c|NN CC NN|BODY_4|0
+the architecture|DT NN|BODY_2|0
+the index i|DT NN NN|BODY_3|0
+time domain permutation|NN NN NN|BODY_2|0
+time slot permuters|NN NN NNS|ABSTRACT_3|0
+the serial array tsis|DT JJ NN NN|BODY_3|0
+summary|NN|BODY_1:BODY_10|0
+the looping control algorithm|DT NN NN NN|BODY_2|0
+k )|NN -RRB-|BODY_3:BODY_8|0
+the rjs control parallelism|DT JJ NN NN|BODY_2|0
+1 -c|CD NN|BODY_5|0
+a non-trivial permutation|DT JJ NN|BODY_2|0
+either d k|DT VBD NN|BODY_10|0
+n -1 groups|NN NN NNS|BODY_2|0
+its left|PRP$ NN|BODY_3|0
+a serial optical computer [2]|DT JJ JJ NN NN|BODY_3|0
+a sorter|DT NN|BODY_3|0
+a space division permutation network|DT NN NN NN NN|BODY_3|0
+the corresponding space domain comparator|DT JJ NN NN NN|BODY_3|0
+the stage number|DT NN NN|BODY_6|0
+these features|DT NNS|BODY_5|0
+an architectural technique|DT JJ NN|BODY_2|0
+the serial array l|DT JJ NN NN|BODY_3|0
+its control needs|PRP$ NN NNS|BODY_5|0
+successive slots|JJ NNS|BODY_27|0
+the upper half|DT JJ NN|BODY_13|0
+ =|DT SYM|BODY_5:BODY_10|0
+delay n /2|NN NN NNP|BODY_4|0
+follows|VBZ|BODY_4|0
+the same time slots|DT JJ NN NNS|BODY_8|0
+advantage|NN|BODY_4|0
+every stage|DT NN|BODY_4|0
+-1 slot intervals|NN NN NNS|BODY_2|0
+the exchange state|DT NN NN|BODY_14|0
+subnetworks|NNS|BODY_4|0
+( nn 2 ) bit comparisons|-LRB- NN CD -RRB- NN NNS|BODY_3|0
+space division|NN NN|BODY_6|0
+output slots|NN NNS|BODY_4|0
+the proof|DT NN|BODY_4|0
+k (|NN -LRB-|BODY_6|0
+the left c -=|DT JJ NN JJ|BODY_6|0
+( nn ) address comparisons|-LRB- NN -RRB- NN NNS|BODY_2|0
+essentially a concatenation|RB DT NN|BODY_5|0
+one serial output frame|CD NN NN NN|BODY_7|0
+both|DT|BODY_2:BODY_1|0
+the procedure|DT NN|BODY_10|0
+a class|DT NN|BODY_5|0
+each temporal switching point|DT JJ VBG NN|BODY_3|0
+each t|DT VBD|BODY_10|0
+transposition stages|NN NNS|BODY_3|0
+tsi architectures|NNS NNS|BODY_2|0
+word level comparis|NN NN NN|BODY_3|0
+little hardware|JJ NN|BODY_2|0
+the entry|DT NN|BODY_2|0
+c consisting|NN VBG|BODY_2|0
+one directs|CD VBZ|BODY_2|0
+impacts|NNS|BODY_4|0
+o ( n 2 ) stages|IN -LRB- RB CD -RRB- NNS|BODY_4|0
+multiples|NNS|BODY_14|0
+the smallest p elements|DT JJS JJ NNS|BODY_3|0
+2log 2 n|RB CD NN|BODY_3|0
+example|NN|BODY_5:BODY_1|0
+( n 2 )|-LRB- NN CD -RRB-|BODY_2|0
+an ascending|DT VBG|BODY_6|0
+about|IN|BODY_4|0
+a q -bit comparator|DT NN NN NN|BODY_5|0
+such a comparison controlled k stage|JJ DT NN VBN NN NN|BODY_2|0
+the batcher network|DT NN NN|BODY_2|0
+the benes v network [11]|DT NNS NN NN NN|BODY_2|0
+the design|DT NN|BODY_2|0
+2im|LS|BODY_16|0
+only one switch input|RB CD NN NN|BODY_2|0
+a concatenation|DT NN|BODY_3|0
+that time|DT NN|BODY_7|0
+an |DT|BODY_6|0
+o ( nw )|IN -LRB- NN -RRB-|BODY_10|0
+whose outputs|WP$ NNS|BODY_25|0
+parallel control computation|JJ NN NN|BODY_2|0
+now the individual 2-2 ses|RB DT JJ JJ NNS|BODY_5|0
+a linear array|DT JJ NN|BODY_2|0
+forward version|RB NN|BODY_2:BODY_3|0
+o2 o3|IN CD|BODY_18|0
+a given input frame|DT VBN NN NN|BODY_5|0
+2-2 switches|JJ NNS|BODY_17:BODY_3|0
+c and proof|NN CC NN|BODY_4|0
+a control point|DT NN NN|BODY_12:BODY_4|0
+the given bitonic sequence|DT VBN JJ NN|BODY_6|0
+the 2 q way bitonic decomposition|DT CD JJ NN JJ NN|BODY_3|0
+s/sub n/|NN NN|ABSTRACT_2|0
+all the architectures|PDT DT NNS|BODY_3|0
+bottom|NN|BODY_4|0
+the substructure|DT NN|BODY_2|0
+a multistage network|DT NN NN|BODY_2|0
+an arbitrary permutation|DT JJ NN|BODY_6|0
+an increased frame delay|DT VBN NN NN|BODY_11|0
+only transposition units|RB NN NNS|BODY_5|0
+sort|NN|BODY_5|0
+the absence|DT NN|BODY_10|0
+the well known batcher sorting network [13]|DT NN VBN NN VBG NN NN|BODY_2|0
+turn|NN|BODY_4|0
+either transposition units|DT NN NNS|BODY_7|0
+switching|VBG|BODY_4|0
+a cost|DT NN|BODY_2|0
+o3 o4|CD CD|BODY_17|0
+the left stage|DT VBN NN|BODY_8|0
+the corresponding k stage control time|DT JJ NN NN NN NN|BODY_8|0
+disjoint pair exchanges|JJ VB NNS|BODY_8:BODY_9|0
+more than one slot|JJR IN CD NN|BODY_2|0
+times frame disjoint pairs|NNS NN NN NNS|BODY_15|0
+second )|JJ -RRB-|BODY_4|0
+a time|DT NN|BODY_3|0
+data|NNS|BODY_3|0
+[7]|NN|BODY_3|0
+a modified k stage|DT VBN NN NN|BODY_1|0
+a two elements sequence|DT CD NNS NN|BODY_1|0
+exchanges slots|NNS NNS|BODY_3|0
+figure 5|NN CD|BODY_1|0
+figure 8|NN CD|BODY_1|0
+hunter and smith [7|NN CC NN NNS|BODY_1|0
+losses|NNS|BODY_1|0
+optical signal restoration|JJ NN NN|BODY_3|0
+parallelism|NN|BODY_1|0
+such a k stage|JJ DT NN NN|BODY_3|0
+such calculations|JJ NNS|BODY_1|0
+the recursion|DT NN|BODY_3|0
+the same optical elements|DT JJ JJ NNS|BODY_3|0
+the switch control|DT NN NN|BODY_3|0
+the tsi architectures|DT NN NNS|BODY_3|0
+the l network results|DT JJ NN NNS|BODY_2|0
+group q|NN NN|BODY_1:BODY_4|0
+ramanan , jordan and sauer [6]|NN , NN CC NN NN|BODY_2|0
+the delay line|DT NN NN|BODY_3|0
+q k|JJ NN|BODY_5|0
+a temporal exchange structure|DT JJ NN NN|BODY_2|0
+all delay|DT NN|BODY_3|0
+output ports|NN NNS|BODY_27|0
+d # k )|JJ # NN -RRB-|BODY_5|0
+optical delay|JJ NN|BODY_4|0
+time slot sorter and control|NN NN NN CC NN|BODY_4|0
+bit controlled feedback exchange stage|NN JJ NN NN NN|BODY_6|0
+the sorter and lambda permuter|DT NN CC NN NN|BODY_2|0
+# x figure 1|# SYM NN CD|BODY_3|0
+i6|NNS|BODY_14|0
+the cascade branch diagram corresponds|DT NN NN NN NNS|BODY_5|0
+a serial array|DT JJ NN|BODY_4|0
+bits )|NNS -RRB-|BODY_9|0
+lemma 2|NN CD|BODY_5|0
+a single (2-2 ) optical switch|DT JJ NN -RRB- JJ NN|BODY_3|0
+logic gates|NN NNS|BODY_2|0
+the feedback free k stage|DT NN JJ NN NN|BODY_8|0
+the lambda permutation network [14]|DT NN NN NN NN|BODY_2|0
+the p subsequences|DT NN NNS|BODY_13|0
+control signals|NN NNS|BODY_4|0
+h|NN|BODY_1:BODY_3|0
+the destination|DT NN|BODY_9|0
+a cyclic shift|DT JJ NN|BODY_4|0
+its sequential position|PRP$ JJ NN|BODY_6|0
+out control figure 5|IN NN NN CD|BODY_7|0
+n m|NN NN|BODY_8|0
+the results|DT NNS|BODY_6|0
+course|NN|BODY_5:BODY_1|0
+a monotonic sequence|DT JJ NN|BODY_7|0
+disjoint sequences|JJ NNS|BODY_5|0
+a problem|DT NN|BODY_2|0
+ control|NN NN|BODY_7|0
+just a column|RB DT NN|BODY_2|0
+the sequential construction|DT JJ NN|BODY_4|0
+odd and even input and output sets|JJ CC RB NN CC NN NNS|BODY_6|0
+upper and lower numbered halves|JJ CC JJR VBD NNS|BODY_7|0
+a switching network|DT NN NN|BODY_5|0
+switching networks|VBG NNS|BODY_4|0
+the next smallest p ele|DT JJ JJS JJ NN|BODY_5|0
+m  x|NN NN NN|BODY_5|0
+1 d 0|CD VBD CD|BODY_6|0
+only bits|RB NNS|BODY_5|0
+a simple stage capable|DT JJ NN JJ|BODY_3|0
+the generalized lambda time slot permuter l|DT JJ NN NN NN NN NN|BODY_2|0
+integrated voice , video and data communications|JJ NN , NN CC NNS NNS|BODY_3|0
+( nn frame delay|-LRB- NN NN NN|BODY_10|0
+the bitonic decomposi- tion|DT JJ NNS NN|BODY_4|0
+the second half frames|DT JJ NN NNS|BODY_10|0
+control inputs|NN NNS|BODY_4|0
+the outer product|DT JJ NN|BODY_4|0
+diagramming|NN|BODY_2|0
+a 2-2 exchange switch|DT JJ NN NN|BODY_6|0
+a tsi|DT NN|BODY_4|0
+linear arrays|JJ NNS|BODY_2|0
+a subgroup|DT NN|BODY_2|0
+all the tsis|DT DT NN|BODY_4|0
+i3|NNS|BODY_13|0
+k ) or k (|NN -RRB- CC NN -LRB-|BODY_7|0
+the control decision|DT NN NN|BODY_12|0
+single k stages|JJ NN NNS|BODY_7|0
+the form|DT NN|BODY_4|0
+a second form|DT JJ NN|BODY_8|0
+v construction|RB NN|BODY_5|0
+( nn 2 t|-LRB- NN CD NN|BODY_11|0
+the input sequence|DT NN NN|BODY_4|0
+the l n|DT JJ RB|BODY_3|0
+batcher|NN|BODY_3|0
+the relative order|DT JJ NN|BODY_2|0
+o6 o2|IN IN|BODY_19|0
+the se|DT NN|BODY_2|0
+n /2 sorts|NN CD NNS|BODY_8|0
+the standard mathematical notation|DT JJ JJ NN|BODY_2|0
+one final stage|CD JJ NN|BODY_5|0
+additional delays|JJ NNS|BODY_2|0
+( decomposition|-LRB- NN|BODY_7|0
+figure 7|NN CD|BODY_3|0
+inexpen- sive , precise delays|DT JJ , JJ NNS|BODY_5|0
+the second slot|DT JJ NN|BODY_8|0
+destination information|NN NN|BODY_2|0
+/2 )|NNP -RRB-|BODY_6|0
+a parallel construction|DT NN NN|BODY_6|0
+t summarizing|NN NN|BODY_5|0
+the factor|DT NN|BODY_13|0
+a shuffle connection|DT NN NN|BODY_6|0
+figure 1|NN CD|BODY_1|0
+destination addresses|NN NNS|BODY_3|0
+a destination tag|DT NN NN|BODY_16|0
+t n|NN NN|BODY_2|0
+any space division switching network|DT NN NN VBG NN|BODY_4|0
+latch figure 8|NN NN CD|BODY_5|0
+the guard bands|DT NN NNS|BODY_6|0
+the start|DT NN|BODY_8|0
+n groups|RB NNS|BODY_2|0
+the lower half|DT JJR NN|BODY_10|0
+the n /2|DT RB IN|BODY_11|0
+memories|NNS|BODY_8|0
+the operation|DT NN|BODY_6|0
+the following time domain permutation schemes|DT JJ NN NN NN NNS|BODY_7|0
+groups|NNS|BODY_25|0
+a rearrangement|DT NN|BODY_5|0
+2-2 exchange switches and delays|JJ NN NNS CC NNS|BODY_5:BODY_8|0
+some advantage|DT NN|BODY_3|0
+the delay loop|DT NN NN|BODY_11|0
+( n -n|-LRB- NN NN|BODY_3|0
+d< d|JJ NN|BODY_6|0
+definition 1|NN CD|BODY_8|0
+distinctly different switch counts|RB JJ NN NNS|BODY_5|0
+the explicit delay|DT JJ NN|BODY_7|0
+version|NN|BODY_2|0
+dilated k|JJ NN|BODY_13|0
+this research|DT NN|BODY_3|0
+0,|CD|BODY_11|0
+the decomposition|DT NN|BODY_22|0
+o ( n 3 ) and control complexity|IN -LRB- RB CD -RRB- CC NN NN|BODY_8|0
+input ports|NN NNS|BODY_19|0
+(2-2 ) exchange|NN -RRB- NN|BODY_5|0
+16 network and sorting orders|CD NN CC NN NNS|BODY_3|0
+k ( n|NN -LRB- NN|BODY_5|0
+the benes network|DT NNS NN|ABSTRACT_3|0
+q permuter|NN NN|BODY_4|0
+the maximum|DT NN|BODY_9|0
+each se|DT NN|BODY_6|0
+t|NN|BODY_12|0
+the output stream|DT NN NN|BODY_6|0
+a potentially lossy switch|DT RB JJ NN|BODY_6|0
+an optimal switch requirement|DT JJ NN NN|BODY_2|0
+the looping algorithm|DT NN NN|BODY_1|0
+the header bits|DT NN NNS|BODY_10|0
+no switch|DT NN|BODY_4|0
+attempts|NNS|BODY_2|0
+the problem|DT NN|ABSTRACT_6|0
+the other two architectures|DT JJ CD NNS|BODY_3|0
+* and both sort|JJ CC DT NN|BODY_2|0
+l networks|JJ NNS|BODY_4|0
+the problems|DT NNS|BODY_4|0
+a single bit comparator|DT JJ NN NN|BODY_2|0
+left to right , stage w|VBN TO JJ , NN NN|BODY_7|0
+one such stage|CD JJ NN|BODY_3|0
+interacting slots|VBG NNS|BODY_6|0
+n numbers|RB NNS|BODY_4|0
+switching and delays|VBG CC NNS|BODY_2|0
+a shuffle permutation|DT NN NN|BODY_2|0
+each d r ( d k ) or d r|DT JJ NN -LRB- JJ NN -RRB- CC JJ NN|BODY_4|0
+( 2n -1 ) k stages|-LRB- JJ NN -RRB- NN NNS|BODY_3|0
+the discussion|DT NN|BODY_2|0
+the 1st slot|DT JJ NN|BODY_5|0
+h +d )|JJ NN -RRB-|BODY_14|0
+as|IN|BODY_5|0
+column j|NN NN|BODY_4|0
+spatial permutation networks|JJ NN NNS|BODY_3|0
+feedback|NN|BODY_6|0
+d+d d|JJ VBD|BODY_6|0
+longer exchange slots|JJR NN NNS|BODY_4|0
+both n and m|DT NN CC NN|BODY_5|0
+corresponding k stages|JJ NN NNS|BODY_7|0
+several tsis|JJ NN|BODY_3|0
+two|CD|BODY_7|0
+ k|FW VB|BODY_8|0
+1 switches and delay lines|CD NNS CC NN NNS|BODY_4|0
+any input and output|DT NN CC NN|BODY_5|0
+its input|PRP$ NN|BODY_16|0
+an se|DT NN|BODY_24|0
+( nn bit comparisons|-LRB- NN NN NNS|BODY_5|0
+-way bitonic decomposition|RB JJ NN|BODY_3|0
+the lower tag|DT JJR NN|BODY_3|0
+the study|DT NN|BODY_6|0
+transmission bandwidths|NN NNS|BODY_2|0
+a direct correspondence|DT JJ NN|BODY_2|0
+one serial input|CD NN NN|BODY_4|0
+all time|DT NN|BODY_3|0
+the above construction|DT JJ NN|BODY_9|0
+the original recursive definition|DT JJ JJ NN|BODY_3|0
+figure 11|NN CD|BODY_12|0
+the k stage control input|DT NN NN NN NN|BODY_11|0
+sect|NN|BODY_3:BODY_9|0
+each building block|DT NN NN|BODY_8|0
+a 2 q|DT CD NN|BODY_4|0
+switch count|NN NN|BODY_4|0
+a k ( m ) stage|DT NN -LRB- NN -RRB- NN|BODY_13|0
+ x |DT NN|BODY_9|0
+the q -way bitonic decomposition definition 5|DT NN JJ JJ NN NN CD|BODY_2|0
+the definition|DT NN|BODY_8|0
+the extra delay h|DT JJ NN NN|BODY_7|0
+dilation c c feedback form feed|NN NN NN NN VBP NN|BODY_11|0
+successive stages|JJ NNS|BODY_3|0
+a time slot interchanger ( tsi)|DT NN NN NN -LRB- NN|BODY_2|0
+the advantage|DT NN|BODY_4|0
+the cascade branch diagrams change|DT NN NN NNS NN|BODY_7|0
+d-d yields|NN NNS|BODY_8|0
+fewer switches|JJR NNS|BODY_7|0
+the formula|DT NN|BODY_2|0
+permuters|NNS|BODY_3|0
+input|NN|BODY_7|0
+ses|NNS|BODY_7|0
+( n 3 ) bit comparators|-LRB- NN CD -RRB- NN NNS|BODY_5|0
+cascade branch representation|NN NN NN|BODY_10|0
+ x|JJ SYM|BODY_4|0
+a bitonic time sequence|DT JJ NN NN|BODY_2|0
+i ( i stages|NN -LRB- NN NNS|BODY_2|0
+the method|DT NN|BODY_2|0
+small noise signals|JJ NN NNS|BODY_4|0
+numbering|NN|BODY_6|0
+) order|-RRB- NN|BODY_11|0
+numbered time slots|VBN NN NNS|BODY_7|0
+q interacting slots|JJ VBG NNS|BODY_26|0
+two monotonic sequences|CD JJ NNS|BODY_4|0
+the inputs|DT NNS|BODY_23|0
+) # figure 2|-RRB- # NN CD|BODY_9|0
+right|JJ|BODY_3|0
+the worst expansion contraction figure 10|DT JJS NN NN NN CD|BODY_9|0
+left|VBN|BODY_2|0
+one comparator|CD NN|BODY_5|0
+( nn 3 ) bit comparisons|-LRB- NN CD -RRB- NN NNS|BODY_2|0
+2 q|CD NN|BODY_2|0
+the feedback delay|DT NN NN|BODY_7:BODY_9|0
+finite delays|JJ NNS|BODY_6|0
+enough delay|JJ NN|BODY_3|0
+loops|NNS|BODY_5|0
+-1|NN|BODY_12|0
+each component|DT NN|BODY_21|0
+( n 3 t )|-LRB- NN CD NN -RRB-|BODY_2|0
+a bitonic sequence c|DT JJ NN NN|BODY_4|0
+the j|DT NN|BODY_6|0
+denotes|NNS|BODY_5|0
+such a structure|JJ DT NN|BODY_4|0
+one fewer switch crossing|CD JJR NN NN|BODY_8|0
+an array|DT NN|BODY_4|0
+their switching rate|PRP$ VBG NN|BODY_3|0
+the state|DT NN|BODY_3|0
+a system|DT NN|BODY_3|0
+all switches|DT NNS|BODY_7|0
+n /2 numbers|RB CD NNS|BODY_4|0
+o4 o6 figure 3|CD IN NN CD|BODY_20|0
+j|NN|BODY_3|0
+source/destination and destination/source random access memories (ram )|NN CC NN JJ NN NNS NN -RRB-|BODY_7|0
+the minimum number|DT JJ NN|BODY_4|0
+a general method|DT JJ NN|ABSTRACT_2|0
+t n m|NN NN NN|BODY_10|0
+the first unconnected pair|DT JJ JJ NN|BODY_18|0
+sorting q|VBG RB|BODY_5|0
+implementations|NNS|BODY_2|0
+overlapping pairs|VBG NNS|BODY_4|0
+v network b|NN NN NN|BODY_4|0
+telecommunications|NNS|ABSTRACT_10|0
+greater than one|JJR IN CD|BODY_4|0
+the hardware complexity varies|DT NN NN VBZ|BODY_9|0
+n /2 comparators|NN CD NNS|BODY_5|0
+different control points|JJ NN NNS|BODY_4|0
+pair exchange capability bar state cross state c|NN NN NN NN NN NN NN NN|BODY_5|0
+a regular pattern|DT JJ NN|BODY_5|0
+an data packet|DT NN NN|BODY_4|0
+input and output|NN CC NN|BODY_5|0
+.e|NN|BODY_2|0
+a second phase|DT JJ NN|BODY_6|0
+all times|DT NNS|BODY_4|0
+an integer multiple|DT NN NN|BODY_3|0
+all slot times|DT NN NNS|BODY_8|0
+c -=|NN NNS|BODY_7|0
+this time slot interchanger|DT NN NN NN|BODY_4|0
+the tag|DT NN|BODY_5|0
+starts|VBZ|BODY_4|0
+qp elements|JJ NNS|BODY_9|0
+a q-way bitonic decomposition|DT JJ JJ NN|BODY_3|0
+o ( n 2 ) bit comparators|IN -LRB- NN CD -RRB- NN NNS|BODY_2|0
+word comparisons|NN NNS|BODY_2|0
+all stages|DT NNS|BODY_3|0
+permutation capability|NN NN|BODY_3|0
+q <n|JJ NN|BODY_14|0
+( b|-LRB- NN|BODY_4|0
+signals|NNS|BODY_7|0
+cost|NN|BODY_1:BODY_3|0
+i +m|FW FW|BODY_21:BODY_29|0
+the sets lemma 2|DT NNS NN CD|BODY_8|0
+low speed opera|JJ NN NN|BODY_2|0
+the control points|DT NN NNS|BODY_5|0
+a slot traverses|DT NN NNS|BODY_5|0
+feedback delay|NN NN|BODY_11|0
+simple modifications|JJ NNS|BODY_10|0
+n -1 )|RB NN -RRB-|BODY_6|0
+a major system component|DT JJ NN NN|BODY_2|0
+the previous section|DT JJ NN|BODY_6|0
+( tsis|-LRB- NN|ABSTRACT_3|0
+any signal crosses|DT NN NNS|BODY_8|0
+( 2i|-LRB- CD|BODY_3|0
+a power|DT NN|BODY_4|0
+these tsis|DT NN|BODY_3|0
+the single header bit|DT JJ NN NN|BODY_4|0
+each major group|DT JJ NN|BODY_1|0
+each subgroup|DT NN|BODY_5|0
+input destination tags|NN NN NNS|BODY_5|0
+the q -bit controlled l|DT NN NN VBN NN|BODY_1|0
+position|NN|BODY_3|0
+the lower output position|DT JJR NN NN|BODY_4|0
+the property|DT NN|BODY_4|0
+a column|DT NN|BODY_16|0
+the 2 q|DT CD JJ|BODY_16|0
+a frame delay equal figure 4|DT NN NN JJ NN CD|BODY_5|0
+erbium amplifiers|NN NNS|BODY_3|0
+their values|PRP$ NNS|BODY_8|0
+m slots|NN NNS|BODY_5|0
+the second row|DT JJ NN|BODY_2|0
+theorem 1|NN CD|BODY_4|0
+the 3db coupler|DT NN NN|BODY_6|0
+n /2 slot times|RB CD NN NNS|BODY_2|0
+all bits|DT NNS|BODY_6|0
+only one|RB CD|BODY_4|0
+the bit|DT NN|BODY_6|0
+hardware complexity|NN NN|BODY_3|0
+the first ( log|DT JJ -LRB- NN|BODY_3|0
+feedback stages|NN NNS|BODY_5|0
+one delay line|CD NN NN|BODY_4|0
+the feed-forward version|DT JJ NN|BODY_5|0
+once more if d stage|RB RBR IN VBD NN|BODY_7|0
+i|NN|BODY_4|0
+its first and last control inputs|PRP$ JJ CC JJ NN NNS|BODY_3|0
+the first|DT JJ|BODY_9|0
+tdm systems|NN NNS|BODY_4|0
+ordering|NN|BODY_5|0
+an associated delay d|DT JJ NN NN|BODY_5|0
+n -bit comparison|NN JJ NN|BODY_4|0
+its paired time slot|PRP$ VBN NN NN|BODY_7|0
+only a single bit|RB DT JJ NN|BODY_8|0
+length p|NN NN|BODY_6|0
+elementary permutations|JJ NNS|BODY_4|0
+no ram.|DT NN|BODY_4|0
+the mapping|DT NN|BODY_1|0
+the other two algorithms|DT JJ CD NNS|BODY_1|0
+use|NN|BODY_8|0
+the fixed control bits|DT VBN NN NNS|BODY_2|0
+n ( n +1 )/2 k stages|RB -LRB- RB CD CD NN NNS|BODY_2|0
+the switch control c t|DT NN NN NN NN|BODY_12|0
+b #|NN #|BODY_2|0
+batcher sorter|NN NN|BODY_2|0
+several space domain networks|JJ NN NN NNS|BODY_2|0
+the time slot permuter l|DT NN NN NN JJ|BODY_4|0
+global knowledge|JJ NN|BODY_4|0
+a separate exchange switch|DT JJ NN NN|BODY_4|0
+some design problems|DT NN NNS|BODY_2|0
+the availability|DT NN|BODY_1|0
+the feedback form|DT NN NN|BODY_15:BODY_1|0
+one sequence|CD NN|BODY_7|0
+the other|DT JJ|BODY_9|0
+2/spl times/2 exchange switches|JJ NN NN NNS|ABSTRACT_5|0
+two simultaneous input signals|CD JJ NN NNS|BODY_5|0
+delay d|NN NN|BODY_11|0
+header interpretation|NN NN|BODY_8|0
+points|NNS|BODY_11|0
+)|-RRB-|BODY_19|0
+a brief review|DT JJ NN|BODY_1|0
+a k ( m|DT NN -LRB- NN|BODY_1|0
+a space|DT NN|BODY_1|0
+increasing or decreasing order|VBG CC VBG NN|BODY_7|0
+interest [1]|NN NN|BODY_7|0
+some parallelism|DT NN|BODY_6|0
+the complexity|DT NN|BODY_1|0
+the increasing use|DT VBG NN|BODY_1|0
+the lemma|DT NN|BODY_1|0
+the parallelism|DT NN|BODY_1|0
+the time domain version|DT NN NN NN|BODY_6|0
+m divides|NN NNS|BODY_2|0
+the required number|DT JJ NN|BODY_8|0
+f|NN|BODY_4|0
+units|NNS|BODY_2|0
+the paper|DT NN|BODY_1|0
+the advantages|DT NNS|BODY_12|0
+its pair interchange property|PRP$ NN NN NN|BODY_10|0
+time multiplexing multiple computers|NN JJ JJ NNS|BODY_1|0
+each consisting|DT VBG|BODY_4|0
+an output vector|DT NN NN|BODY_4|0
+the serial array architectures use delays|DT JJ NN NNS NN NNS|BODY_12|0
+lithium niobate|NN NN|BODY_4|0
+several architectures|JJ NNS|BODY_1|0
+only systems|RB NNS|BODY_2|0
+. 9|. CD|BODY_4|0
+any|DT|BODY_5|0
+let c|VB NN|BODY_9|0
+two ways|CD NNS|BODY_3|0
+system architecture|NN NN|BODY_2|0
+a better choice|DT JJR NN|BODY_3|0
+hardware complexities|NN NNS|BODY_5|0
+8 slots|CD NNS|BODY_4|0
+a fraction|DT NN|BODY_2|0
+the previous notation ses|DT JJ NN NNS|BODY_2|0
+an arrangement|DT NN|BODY_6|0
+each slot time|DT NN NN|BODY_5|0
+2s +1 switches|JJ JJ NNS|BODY_5|0
+an interesting exception|DT JJ NN|BODY_5|0
+the batcher|DT NN|BODY_1|0
+a two dimensional diagram|DT CD JJ NN|BODY_6|0
+the generalized lambda time slot permuter|DT JJ NN NN NN NN|ABSTRACT_1|0
+its control|PRP$ NN|BODY_4|0
+control point settings|NN NN NNS|BODY_4|0
+an additional contribution|DT JJ NN|BODY_2|0
+about 3n /2|IN CD CD|BODY_3|0
+pair exchange|NN NN|BODY_4|0
+the magnitude comparator|DT NN NN|BODY_4|0
+the context|DT NN|BODY_5|0
+stagesq ( q +1|JJ -LRB- NN NN|BODY_5|0
+a five terminal device|DT CD JJ NN|BODY_2|0
+a serial memory [3|DT JJ NN NNS|BODY_5|0
+an entire frame|DT JJ NN|BODY_6|0
+the space division networks b|DT NN NN NNS NN|BODY_7|0
+any such system|DT JJ NN|BODY_1|0
+parallel versions|JJ NNS|BODY_1|0
+the restriction|DT NN|BODY_1:BODY_9|0
+( l|-LRB- JJ|BODY_7|0
+this results|DT NNS|BODY_8|0
+2 n|CD NN|BODY_4|0
+( n )|-LRB- NN -RRB-|BODY_5|0
+a time slot|DT NN NN|BODY_6|0
+significantly improved architectures|RB VBN NNS|BODY_5|0
+slot lengths|NN NNS|BODY_1|0
+the space network|DT NN NN|BODY_1|0
+tions|NNS|BODY_8|0
+ons|NNS|BODY_4|0
+switches increases|NNS NNS|BODY_2|0
+the sorting order pattern|DT JJ NN NN|BODY_3|0
+tion|NN|BODY_3|0
+about 2n compared|IN CD VBN|BODY_2|0
+) switches|-RRB- VBZ|BODY_6|0
+an individual k stage|DT JJ NN NN|BODY_2|0
+the unique rightmost stage|DT JJ JJ NN|BODY_1|0
+two operations|CD NNS|BODY_13|0
+the slot numbers|DT NN NNS|BODY_7|0
+powers|NNS|BODY_6|0
+the batcher bitonic sorters|DT NN JJ NNS|BODY_5|0
+a cascade branch|DT NN NN|BODY_7|0
+the result|DT NN|BODY_1|0
+hardware cost and control complexity|NN NN CC NN NN|BODY_16|0
+optical implementations|JJ NNS|TITLE_2|0
+increasing or decreasing order output|VBG CC VBG NN NN|BODY_15|0
+the maximum required frame delay|DT NN VBN NN NN|BODY_1|0
+the benes v and lambda networks|DT NNS NN CC NN NNS|BODY_2|0
+a k ( m stage|DT NN -LRB- NN NN|BODY_6:BODY_1|0
+is|VBZ|BODY_9|0
+time units|NN NNS|BODY_8|0
+additional interest|JJ NN|BODY_1|0
+figure 6 shows|NN CD NNS|BODY_1|0
+the rjs time slot|DT JJ NN NN|BODY_1|0
+the tsi|DT NNS|BODY_1|0
+no intervening gaps|DT NN NNS|BODY_6|0
+those|DT|BODY_6|0
+many technologies|JJ NNS|BODY_5|0
+back|RB|BODY_9|0
+consists|VBZ|BODY_4|0
+a descending monotonic sequence|DT VBG JJ NN|BODY_7|0
+each component c|DT NN NN|BODY_3|0
+q =1|NN NNS|BODY_17:BODY_1|0
+the correct sorting order|DT JJ JJ NN|BODY_12|0
+the corresponding delay|DT JJ NN|BODY_4|0
+an exchange stage k|DT NN NN NN|BODY_5|0
+each k|DT NN|BODY_2:BODY_1|0
+the computation|DT NN|BODY_1|0
+the same number|DT JJ NN|BODY_2|0
+theorem|NN|BODY_1|0
+the given sequence|DT VBN NN|BODY_16|0
+each t n m|DT JJ NN NN|BODY_3|0
+little difference|JJ NN|BODY_2|0
+eight slots|CD NNS|BODY_7|0
+2 -c - q|CD NN : NN|BODY_6|0
+a factor|DT NN|BODY_5|0
+a permuted order|DT JJ NN|BODY_9|0
+word|NN|BODY_7|0
+no delay|DT NN|BODY_8|0
+let c subsequences|VB NN NNS|BODY_1|0
+simple comparison|JJ NN|BODY_2|0
+a fixed length delay|DT VBN NN NN|BODY_9|0
+delay considerations|NN NNS|BODY_1|0
+the comparison|DT NN|BODY_9|0
+q-way bitonic decomposition ( q=2/sup q/ )|JJ JJ NN -LRB- JJ NN -RRB-|ABSTRACT_7|0
+the bit-controlled , self-routing /spl lambda/ permutation network|DT JJ , JJ NN NN NN NN|ABSTRACT_6|0
+interconnecting fibers|NN NNS|BODY_4|0
+while|IN|BODY_11|0
+both 1st and 2nd slots|DT JJ CC JJ NNS|BODY_2|0
+dilation eliminates|NN NNS|BODY_1|0
+a d term|DT JJ NN|BODY_6|0
+x  controls|SYM RP NNS|BODY_3|0
+n the time slot sorter|RB DT NN NN NN|BODY_3|0
+right starting|JJ VBG|BODY_7|0
+k ( m )|NN -LRB- NN -RRB-|BODY_9|0
+multiple disjoint pairs|JJ NN NNS|BODY_2|0
+n 2 +5|NN CD CD|BODY_4|0
+n the time domain version|RB DT NN NN NN|BODY_3|0
+d time slots|JJ NN NNS|BODY_3|0
+an n bit comparator|DT RB NN NN|BODY_7|0
+a single bit control|DT JJ NN NN|BODY_6|0
+a shift register|DT NN NN|BODY_4|0
+forward form|RB NN|BODY_6|0
+optical channels|JJ NNS|BODY_3|0
+their drawbacks|PRP$ NNS|BODY_1|0
+the bitonic time slot sorter|DT JJ NN NN NN|BODY_3|0
+f (|NN -LRB-|BODY_8|0
+the frame passes|DT NN NNS|BODY_3|0
+control point value|NN NN NN|BODY_2|0
+a switching stage|DT VBG NN|BODY_15|0
+6|CD|BODY_8|0
+the main advantage|DT JJ NN|BODY_5|0
+the permuters|DT NNS|BODY_3|0
+10|CD|BODY_4|0
+the first contraction transformation|DT JJ NN NN|BODY_2|0
+computation|NN|BODY_5|0
+the appropriate pair|DT JJ NN|BODY_10|0
+the integer multiple|DT NN NN|BODY_16|0
+a decreasing order output|DT VBG NN NN|BODY_11|0
+disjoint pair transpositions|JJ NN NNS|BODY_3|0
+( l n|-LRB- JJ NN|BODY_5|0
+dilation|NN|BODY_1|0
+the general form|DT JJ NN|BODY_1|0
+increasing or decreasing order exchange|VBG CC VBG NN NN|BODY_6|0
+the perfect shuffle permutation|DT JJ NN NN|BODY_2|0
+several such stages|JJ JJ NNS|BODY_1|0
+binary representations|JJ NNS|BODY_3|0
+the modified ,|DT VBN ,|BODY_2|0
+different feedback delays|JJ NN NNS|BODY_22|0
+bit d k|NN NN NN|BODY_8|0
+control complexity|NN NN|ABSTRACT_2|0
+0- j|DT NN|BODY_7|0
+the total delay|DT JJ NN|BODY_6|0
+the full switching capability|DT JJ NN NN|BODY_3|0
+q >1|NN NNS|BODY_6|0
+f ( l|NN -LRB- JJ|BODY_6|0
+the other architectures|DT JJ NNS|BODY_1|0
+1-bit magnitude comparisons|JJ NN NNS|BODY_11|0
+an inverse shuffle|DT NN NN|BODY_5|0
+the higher tdm levels|DT JJR NN NNS|BODY_4|0
+the zero-one principle|DT JJ NN|BODY_7|0
+multiprocessor interconnection networks|JJ NN NNS|BODY_6|0
+ramanan , jordan and sauer [6|NN , NN CC NN NNS|BODY_1|0
+disappears|VBZ|BODY_1|0
+the output array|DT NN NN|BODY_14|0
+the right|DT NN|BODY_6|0
+these stages|DT NNS|BODY_3|0
+a strict permutation|DT JJ NN|BODY_19|0
+ease|NN|BODY_1|0
+a k ( m )|DT NN -LRB- NN -RRB-|BODY_11|0
+definition 2|NN CD|BODY_1|0
+a time domain equivalent|DT NN NN NN|BODY_1|0
+magnitude comparison|NN NN|BODY_7|0
+the comparator number|DT NN NN|BODY_7|0
+hardware and control complexity table|NN CC NN NN NN|BODY_1|0
+the form n /4|DT NN NN NNS|BODY_4|0
+( tdm) communications|-LRB- NN NNS|BODY_3|0
+a correspondence theorem and mapping procedure|DT NN NN CC NN NN|BODY_1|0
+the most extensive use|DT RBS JJ NN|BODY_1|0
+a feed|DT NN|BODY_1|0
+multiple space channels [9]|JJ NN NNS NN|BODY_6|0
+an n slot frame|DT NN NN NN|BODY_8|0
+left to right|JJ TO JJ|BODY_4|0
+( decreasing ) order|-LRB- NN -RRB- NN|BODY_6|0
+one entering slot|CD VBG NN|BODY_10|0
+corresponding space division|JJ NN NN|BODY_4|0
+dilation [20]|NN NN|BODY_3|0
+time slot sorters|NN NN NNS|ABSTRACT_4|0
+n -q bits|RB JJ NNS|BODY_25|0
+low order bit|JJ NN NN|BODY_11|0
+not shown|RB VBN|BODY_1|0
+pipelined parallelism|VBN NN|BODY_1|0
+multiplexed optical multiprocessors|VBD JJ NNS|ABSTRACT_13|0
+nearly every complex serial digital system|RB DT JJ NN JJ NN|BODY_5|0
+the same exchange order pattern|DT JJ NN NN NN|BODY_6|0
+any stage|DT NN|BODY_1|0
+short leading tags|JJ VBG NNS|BODY_3|0
+these|DT|BODY_1|0
+this regard|DT NN|BODY_4|0
+communications channels corresponds|NNS NNS NNS|BODY_1|0
+lemma 1|NN CD|BODY_1|0
+a key bit|DT JJ NN|BODY_1|0
+the original order|DT JJ NN|BODY_10|0
+control point times|NN NN NNS|BODY_1|0
+the rjs looping control|DT NN NN NN|BODY_1|0
+an electronic stage|DT JJ NN|BODY_1|0
+input control seq|NN NN NN|BODY_1|0
+the batcher spatial sorting network|DT NN JJ NN NN|ABSTRACT_3|0
+corresponding time division switching structures|JJ NN NN VBG NNS|BODY_8|0
+ments|NNS|BODY_6|0
+[5|PRP|BODY_1|0
+order n optical switches and delay lines|NN NN JJ NNS CC NN NNS|BODY_3|0
+the following definition and lemma|DT VBG NN CC NN|BODY_1|0
+the next time point|DT JJ NN NN|BODY_4|0
+o ( nn 3 ) bit comparisons|IN -LRB- NN CD -RRB- NN NNS|BODY_5|0
+f ( k ( r d|NN -LRB- NN -LRB- NN NN|BODY_8|0
+a bitonic sorting network|DT JJ NN NN|BODY_1|0
+a simple time domain sorter|DT JJ NN NN NN|BODY_1|0
+bit d i|NN JJ NN|BODY_6|0
+building blocks|NN NNS|BODY_6|0
+d+d|NN|BODY_12|0
+n time|NN NN|BODY_7|0
+simultaneous inputs|JJ NNS|BODY_11|0
+the batcher bitonic sorting network|DT NN JJ VBG NN|BODY_5|0
+the basic building block|DT JJ NN NN|BODY_1|0
+the explicit feedback delay|DT JJ NN NN|BODY_4|0
+non-adjacent pairs|JJ NNS|BODY_3|0
+loss|NN|BODY_1|0
+group u|NN NN|BODY_4:BODY_10|0
+the same|DT JJ|BODY_8|0
+its corresponding time domain structure|PRP$ JJ NN NN NN|BODY_1|0
+the subgroups|DT NNS|BODY_1|0
+the original k stage control|DT JJ NN NN NN|BODY_5|0
+single bit control|JJ NN NN|BODY_9|0
+bit control|NN NN|BODY_1|0
+a sequence|DT NN|BODY_9|0
+built-in restoration|JJ NN|BODY_2|0
+long switch delay n /2|JJ NN NN NN NNP|BODY_9|0
+most loss|RBS NN|BODY_1|0
+introduction|NN|BODY_1|0
+its stage delays|PRP$ NN NNS|BODY_9|0
+the mapping procedure|DT NN NN|BODY_1|0
+the electrical or optical control signal|DT JJ CC JJ NN NN|BODY_1|0
+2-way decomposition q times|JJ NN NN NNS|BODY_9|0
+an  x  control|DT NN NN NN NN|BODY_10|0
+the top and bottom cascade branch switches|DT NN CC NN NN NN NNS|BODY_6|0
+two types|CD NNS|ABSTRACT_1|0
+exchanging disjoint pairs|NN NN NNS|BODY_10|0
+an increasing order bit controlled stage|DT VBG NN NN JJ NN|BODY_1|0
+2 i|CD NN|BODY_7|0
+an example|DT NN|BODY_1|0
+at least two parts|IN JJS CD NNS|BODY_10|0
+comparators|NNS|BODY_1|0
+their header|PRP$ NN|BODY_7|0
+e.g. , [8]|FW , JJ|BODY_5|0
+space-to-time mapping|NN NN|ABSTRACT_6|0
+control algorithm [12]|NN NN NN|BODY_12|0
+a switched directional coupler and fiber delay|DT VBD JJ NN CC NN NN|BODY_2|0
+the delay d|DT NN NN|BODY_1|0
+/4|CD|BODY_11|0
+n /4|RB CD|BODY_6|0
+the ( n -n ) benes v network b n|DT -LRB- NN NN -RRB- NNS NN NN NN NN|BODY_1|0
+bit d 0|NN JJ CD|BODY_9|0
+the first half frame|DT JJ NN NN|BODY_6|0
+the second half|DT JJ NN|BODY_8|0
+frame delay and control delay|NN NN CC NN NN|BODY_10|0
+the latch|DT NN|BODY_1|0
+o ( n 3 )|IN -LRB- NN CD -RRB-|BODY_12|0
+the first row orders|DT JJ NN NNS|BODY_1|0
+the batcher sorting network|DT NN VBG NN|BODY_1|0
+the lambda|DT NN|BODY_7|0
+the row-ordered , q-p matrix representation|DT JJ , JJ NN NN|BODY_1|0
+that k stage|DT NN NN|BODY_4|0
+the tsi.|DT NN|BODY_4|0
+the network|DT NN|BODY_1|0
+the second switch|DT JJ NN|BODY_5|0
+the cross or bar choice|DT NN CC NN NN|BODY_1|0
+the higher output position|DT JJR NN NN|BODY_4|0
+o ( n 3 ) stages|IN -LRB- NN CD -RRB- NNS|BODY_5|0
+size n|NN NN|BODY_9|0
+-= =|JJ SYM|BODY_1|0
+the 2-way bitonic decomposition n times|DT JJ JJ NN NN NNS|BODY_4|0
+the numbers|DT NNS|ABSTRACT_1|0
+each column|DT NN|BODY_4|0
+reasons|NNS|BODY_1|0
+2,3 ) and (6,7 )|CD -RRB- CC NN -RRB-|BODY_4|0
+both feedback and feed-forward forms|DT NN CC JJ NNS|BODY_5|0
+space domain switches|NN NN NNS|BODY_6|0
+figure 9|NN CD|BODY_1|0
+the control point times are|DT NN NN NNS VBP|BODY_1|0
+the output frame|DT NN NN|BODY_6|0
+both time and space domains|DT NN CC NN NNS|BODY_11|0
+other tsis|JJ NN|BODY_1|0
+even divisibility|RB NN|BODY_1|0
+the three architectures|DT CD NNS|BODY_6|0
+two input magnitude comparators|CD NN NN NNS|BODY_9|0
+one descending|CD VBG|BODY_6|0
+high speed operation|JJ NN NN|BODY_7|0
+one bit comparison|CD NN NN|BODY_14|0
+conclusion|NN|BODY_1|0
+a fiber optic implementation|DT NN JJ NN|BODY_1|0
+a sort key|DT NN NN|BODY_10|0
+the added delay|DT JJ NN|BODY_1|0
+a stage and control point|DT NN CC NN NN|BODY_6|0
+the serial array interchangers|DT JJ NN NNS|BODY_1|0
+the key bit|DT JJ NN|BODY_1|0
+tdm terminology|NN NN|BODY_1|0
+the third row|DT JJ NN|BODY_7|0
+some issues|DT NNS|BODY_1|0
+time domain sorting|NN NN NN|BODY_13|0
+a space division switch|DT NN NN NN|BODY_4|0
+d> d|JJ NN|BODY_1|0
+the description|DT NN|BODY_1|0
+the batcher bitonic sorting network b|DT NN JJ NN NN NN|BODY_1|0
+the ses|DT NNS|BODY_6|0
+definition 3|NN CD|BODY_1|0
+the ability|DT NN|BODY_2|0
+the earlier arriving slot|DT JJR VBG NN|BODY_6|0
+the destination address|DT NN NN|BODY_6|0
+ii.5 time domain sorting network|DT NN NN NN NN|BODY_1|0
+shuffle and unshuffle|NN CC NN|BODY_1|0
+one tag|CD NN|BODY_9|0
+comparison based control|NN VBN NN|BODY_5|0
+each instance|DT NN|BODY_1|0
+input slots|NN NNS|BODY_1|0
+a sequence c|DT NN NN|BODY_9|0
+the time domain bitonic sorter|DT NN NN JJ NN|BODY_1|0
+at least o ( n )|IN JJS IN -LRB- NN -RRB-|BODY_3|0
+5|CD|BODY_5|0
+a one slot delay|DT CD NN NN|BODY_9|0
+the figure|DT NN|BODY_2|0
+the recursive structure|DT JJ NN|BODY_1|0
+the comparator|DT NN|BODY_10|0
+a time slot permuter|DT NN NN NN|BODY_3|0
+the total frame delay|DT JJ NN NN|BODY_1|0
+ii.6 single bit controlled time domain permuter|DT JJ NN VBN NN NN NN|BODY_1|0
+ii.7 multiple bit controlled time domain permuter|DT JJ NN VBN NN NN NN|BODY_1|0
+the local control complexity|DT JJ NN NN|BODY_1|0
+erbium doped fiber amplifiers|NN JJ NN NNS|BODY_4|0
+once loss|RB NN|BODY_6|0
+the feedback loop delay|DT NN NN NN|BODY_9|0
+what|WP|BODY_1|0
+these advantages|DT NNS|BODY_1|0
+the modified stage|DT JJ NN|BODY_5|0
+about 3n|IN NN|BODY_7|0
+control hardware|NN NN|BODY_1|0
+hardware cost|NN NN|BODY_1|0
+64|CD|BODY_4|0
+the comparisons|DT NNS|BODY_1|0
+both control cost and time|DT NN NN CC NN|BODY_1|0
+ii|NNS|BODY_1|0
+ii.3|NNS|BODY_1|0
+iii|NNS|BODY_1|0
+n 1|RB CD|BODY_1|0

@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Set;
 
 import me.common.filter.StopWordFilter;
+import me.ny.TextRankMain;
 import ny.NyConstant;
 
 import org.apache.commons.io.FileUtils;
@@ -136,8 +137,9 @@ public class StatisticsCalculator {
 	 */
 	public static Measure measurePhrase(Set<String> lstStandard,Set<String> lstGenerated, StopWordFilter stopWordFilter) {
 
+		if(TextRankMain.stemStandard)
+			lstStandard = stemPhrases(lstStandard,stopWordFilter);
 
-		lstStandard = stemPhrases(lstStandard,stopWordFilter);
 		lstGenerated = stemPhrases(lstGenerated, stopWordFilter);
 
 		Double recallScore, precScore, fValue;

@@ -1,0 +1,545 @@
+it|PRP|BODY_11:BODY_17:BODY_13:BODY_2:BODY_64:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_9|4
+means|NNS|BODY_5:TITLE_2:BODY_2:BODY_3|0
+a program|DT NN|BODY_12:BODY_11:ABSTRACT_5:BODY_40:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|2
+a synchronous data-flow language|DT JJ NN NN|ABSTRACT_2:BODY_2:BODY_4|1
+the synchronous data-flow language|DT JJ NN NN|TITLE_3|0
+the language lustre|DT NN NN|BODY_5:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1|0
+program verification|NN NN|ABSTRACT_5:BODY_3:BODY_4|1
+these properties|DT NNS|BODY_5:ABSTRACT_7|0
+the dataflow approach|DT NN NN|ABSTRACT_2|0
+traditional description tools|JJ NN NNS|ABSTRACT_3|0
+its critical properties|PRP$ JJ NNS|ABSTRACT_6|0
+a simple example|DT JJ NN|ABSTRACT_2|0
+critical real-time systems|JJ JJ NNS|ABSTRACT_3|0
+we|PRP|BODY_6:BODY_11:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_7:BODY_8:BODY_9|5
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_16:BODY_23:BODY_25:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7|1
+b|NN|BODY_11:BODY_22:BODY_17:BODY_15:BODY_23:BODY_2:BODY_24:BODY_3:BODY_4:BODY_6:BODY_5:BODY_31:BODY_27:BODY_7:BODY_29:BODY_8:BODY_9|2
+the section|DT NN|BODY_12:BODY_17:BODY_18:BODY_15:BODY_23:BODY_13:BODY_2:BODY_3:BODY_14:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|2
+lustre|NN|BODY_12:BODY_6:BODY_17:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|1
+a|DT|BODY_6:BODY_11:BODY_5:BODY_40:BODY_13:BODY_2:BODY_4:BODY_10:BODY_7:BODY_30:BODY_8:BODY_9|2
+bool )|NN -RRB-|BODY_11:BODY_17:BODY_21:BODY_13:BODY_23:BODY_33:BODY_6:BODY_32:BODY_5:BODY_31:BODY_34:BODY_19:BODY_7:BODY_9|0
+the program|DT NN|BODY_12:BODY_6:BODY_5:BODY_15:BODY_1:BODY_3:BODY_14:BODY_10:BODY_4:BODY_19:BODY_7|0
+one|CD|BODY_5:BODY_13:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8:BODY_20|2
+the switch|DT NN|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|2
+the language|DT NN|BODY_12:BODY_2:BODY_3:BODY_4|0
+their composition verification problem|PRP$ NN NN NN|BODY_12|1
+there|EX|BODY_5:BODY_21:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+they|PRP|BODY_5:BODY_11:BODY_1:BODY_4:BODY_9|1
+an abstract program p|DT JJ NN NN|BODY_10|1
+any process composition operator|DT NN NN NN|BODY_4|1
+a given program p|DT VBN NN NN|BODY_9|1
+very efficient methods [22]|RB JJ NNS NNS|BODY_1|1
+the u-turn section environment|DT NN NN NN|BODY_4|1
+some boolean lustre expression|DT JJ NN NN|BODY_14:BODY_4|2
+the maximum execution time|DT JJ NN NN|BODY_2|0
+its maximal execution time|PRP$ JJ NN NN|BODY_4|0
+a safety property p|DT NN NN NN|BODY_12:BODY_15|0
+the following lustre equation|DT VBG NN NN|BODY_2|0
+a full programming language|DT JJ NN NN|BODY_4|0
+timed graph analysis [1|VBN NN NN NNS|BODY_2|0
+an equation  x=e|DT NN NN NN|BODY_2:BODY_9|0
+the non deterministic interleaving|DT JJ JJ NN|BODY_7|0
+a boolean expression b|DT JJ NN NN|BODY_3:BODY_4|0
+a finite state abstraction|DT JJ NN NN|BODY_11:BODY_2|0
+the considered critical properties|DT VBN JJ NNS|BODY_3|0
+standard model checking [12|JJ NN NN NNS|BODY_10|0
+merlin gerin differential equations|NN NN JJ NNS|BODY_22|0
+the switch positioning requests|DT NN NN NNS|BODY_2:BODY_3|0
+linear tracka jj ums|NN NN NN NNS|BODY_17|0
+true -? implies(edge(on c)|JJ NNS NN NN|BODY_36|0
+a subway u-turn section|DT NN NN NN|BODY_5|0
+a compact canonical encoding|DT JJ JJ NN|BODY_5|0
+other synchronous languages [6|JJ JJ NNS NNS|BODY_6|0
+all the critical properties|PDT DT JJ NNS|BODY_7|0
+numerical this compiling technique|JJ DT NN NN|BODY_4|0
+property states enum symb|NN NNS NN NN|BODY_11|0
+ack ab ,ack bc|RB JJ NN NN|BODY_4|0
+switch or gate networks|NN CC NN NNS|BODY_15|0
+trains|NNS|BODY_5:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4|0
+less than 1 hour|RBR IN CD NN|BODY_6|0
+b and ack bc|NN CC NN NN|BODY_20|0
+the 2nd next occurrence|DT NNP JJ NN|BODY_16|0
+pre grant exit )|NN NN NN -RRB-|BODY_37|0
+two inputs and returns|CD NNS CC VBZ|BODY_11:BODY_25|0
+us|PRP|BODY_12:BODY_5:BODY_1:BODY_3:BODY_37|1
+to(ack bc ,ack bc|JJ NN NN NN|BODY_31|0
+ safety  properties|JJ NN JJ NNS|BODY_6|0
+a full subway track|DT JJ NN NN|BODY_7|0
+the two following requirements|DT CD JJ NNS|BODY_9|0
+the mathematical sense )|DT JJ NN -RRB-|BODY_12|0
+the safety property p|DT NN NN NN|BODY_4|0
+a single track x|DT JJ NN NN|BODY_11|0
+the previous  operator|DT JJ NN NN|BODY_7|0
+a more powerful mechanism|DT RBR JJ NN|BODY_3|0
+finite state ( abstractions|JJ NN -LRB- NNS|BODY_5|0
+a slightly different way|DT RB JJ NN|BODY_5|0
+only two specific operators|RB CD JJ NNS|BODY_6|0
+ab and empty section|IN CC JJ NN|BODY_21|0
+the equation defining x|DT NN NN NN|BODY_25|0
+an auxiliary variable (|DT JJ JJ -LRB-|BODY_2|0
+a boolean formula f|DT JJ NN NN|BODY_8|0
+the traditional description tools|DT JJ NN NNS|BODY_3|0
+linear temporal logic [25]|NN JJ NN NN|BODY_4|0
+bool ) returns( property|NN -RRB- NN NN|BODY_5|0
+the ordinary logical implication|DT JJ JJ NN|BODY_28|0
+a whole subway track|DT JJ NN NN|BODY_5|0
+its own temporal operators|PRP$ JJ JJ NNS|BODY_3|0
+a ok figure 4|DT NN NN CD|BODY_8|0
+both programming and verification|DT NN CC NN|BODY_2|0
+the followed-by  operator|DT JJ NN NN|BODY_8|0
+three boolean input parameters|CD JJ NN NNS|BODY_14|0
+the only boolean output|DT JJ JJ NN|BODY_2|0
+a boolean output x|DT JJ NN NN|BODY_16|0
+the program reaction time|DT NN NN NN|BODY_5|0
+the following logical notion|DT VBG JJ NN|BODY_9|0
+the program execution time|DT NN NN NN|BODY_6|0
+the property p 0|DT NN NN CD|BODY_5|0
+the following declaration defines|DT VBG NN NNS|BODY_2|0
+a variable and e|DT JJ CC NN|BODY_4|0
+the multiform time point|DT JJ NN NN|BODY_2|0
+\pi 0 ( notice|NNP CD -LRB- NN|BODY_4|0
+our tool performs computations|PRP$ NN NNS NNS|BODY_1|0
+ [12 , 27]|MD CD , CD|BODY_7|0
+not a or b|RB DT CC NN|BODY_35|0
+not pre( x )|RB JJ NN -RRB-|BODY_12|0
+the whole lustre program|DT JJ NN NN|BODY_3|0
+the finite state case|DT JJ NN NN|BODY_1|0
+the event dangerous situation|DT NN JJ NN|BODY_12|0
+a sequence f 1|DT NN NN CD|BODY_18|0
+the maximum reaction time|DT JJ NN NN|BODY_3|0
+an executable temporal logic|DT JJ JJ NN|BODY_4:BODY_8|0
+a finite state machine|DT JJ NN NN|BODY_4|0
+the following lustre expression|DT VBG NN NN|BODY_3|0
+the corresponding traffic light|DT JJ NN NN|BODY_3|0
+an actual subway device|DT JJ NN NN|BODY_7|0
+not(ack-ab and ack-bc )|JJ CC JJ -RRB-|BODY_9|0
+the most dramatic consequences|DT JJS JJ NNS|BODY_7|0
+the corresponding code )|DT JJ NN -RRB-|BODY_6|0
+any variable or expression|DT JJ CC NN|BODY_1|0
+each variable or expression|DT JJ CC NN|BODY_5|0
+input and output variables|NN CC NN NNS|BODY_3|0
+such a precise specification|JJ DT JJ NN|BODY_1|0
+asynchronous and synchronous modules|JJ CC JJ NNS|BODY_7|0
+a highly critical task|DT RB JJ NN|BODY_3|0
+finite state program abstractions|JJ NN NN NNS|BODY_6|0
+our u-turn management system|PRP$ JJ NN NN|BODY_7|0
+no collision ,exclusive req|DT NN JJ NN|BODY_11|0
+particular , integer variables|JJ , JJ NNS|BODY_1|0
+elsewhere [11 , 18]|RB CD , CD|BODY_7|0
+the criterion ( i)|DT NN -LRB- NN|BODY_1|0
+the environment|DT NN|BODY_5:BODY_1:BODY_4|2
+the invariance|DT NN|BODY_13:BODY_2:BODY_3:BODY_10:BODY_4|2
+ffl safety properties|JJ NN NNS|BODY_6:BODY_3:BODY_4|2
+this|DT|BODY_2:BODY_1:BODY_8|3
+\pi 0|NN CD|BODY_12:BODY_17:BODY_2:BODY_3:BODY_10:BODY_4|0
+the same language|DT JJ NN|BODY_4:BODY_8|1
+the ums system|DT NNS NN|BODY_35:BODY_3:BODY_4:BODY_10|0
+that|IN|BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|2
+a real-time program|DT JJ NN|BODY_5:BODY_2:BODY_4|2
+the environment behavior|DT NN NN|BODY_3:BODY_10|1
+any safety property|DT NN NN|BODY_5:BODY_11|1
+the fact|DT NN|BODY_5:BODY_13:BODY_1:BODY_2|0
+a train|DT NN|BODY_1:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|2
+5 and 6|CD CC CD|BODY_2|1
+some important features|DT JJ NNS|BODY_3|1
+such a traversal|JJ DT NN|BODY_2|1
+b or b|NN CC NN|BODY_11:BODY_7|1
+the proposed approach|DT JJ NN|BODY_3|1
+instance|NN|BODY_18:BODY_1:BODY_3|0
+the following property|DT JJ NN|BODY_2:BODY_1|1
+safety properties|NN NNS|BODY_6:BODY_5:BODY_4|1
+our experience show|PRP$ NN NN|BODY_9|1
+the following signals|DT VBG NNS|BODY_3|1
+an important remark|DT JJ NN|BODY_2|1
+not on-a) ,on-b)|RB JJ NNS|BODY_6|1
+an important role|DT JJ NN|BODY_2|1
+an essential feature|DT JJ NN|BODY_2|1
+a train cannot|DT NN NN|BODY_12|1
+the above property|DT JJ NN|BODY_11|1
+the declarative nature|DT JJ NN|BODY_5|1
+these four kinds|DT CD NNS|BODY_1|1
+its possible behaviors|PRP$ JJ NNS|BODY_4|1
+p|NN|BODY_5:BODY_18:BODY_2:BODY_3:BODY_14:BODY_9|1
+a lustre program|DT NN NN|BODY_6:BODY_1:BODY_10|0
+c|NN|BODY_5:BODY_13:BODY_4:BODY_7:BODY_8:BODY_9|1
+a property p|DT NN NN|BODY_2:BODY_1:BODY_8|0
+the property|DT NN|BODY_6:BODY_17:BODY_18:BODY_13:BODY_2:BODY_4:BODY_8|0
+the enumerative method|DT JJ NN|BODY_2:BODY_3|0
+0|CD|BODY_11:BODY_3:BODY_10:BODY_7:BODY_9|1
+a u-turn section|DT NN NN|BODY_2:BODY_1|0
+the n-th value|DT JJ NN|BODY_5:BODY_4|0
+empty section )|JJ NN -RRB-|BODY_3:BODY_55|0
+the synchronous hypothesis|DT JJ NN|BODY_1:BODY_3|0
+synchronous languages|JJ NNS|BODY_5:BODY_1:BODY_2|0
+a given situation|DT VBN NN|BODY_13:BODY_8|0
+a program \pi|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_8|0
+a real-time system|DT JJ NN|BODY_3:BODY_8|0
+an unordered set|DT JJ NN|BODY_2|0
+equations and assertions|NNS CC NNS|BODY_3|0
+fig|NN|BODY_6:BODY_5:BODY_18:BODY_3:BODY_4:BODY_8|0
+the function -n|DT NN NN|BODY_12:BODY_15:BODY_3|0
+the critical properties|DT JJ NNS|BODY_2:BODY_39|0
+programs|NNS|BODY_6:BODY_3:BODY_8|0
+the value false|DT NN JJ|BODY_5:BODY_39|0
+a combinatorial explosion|DT JJ NN|BODY_9|0
+any verification problem|DT NN NN|BODY_6:BODY_3|0
+on one hand|IN CD NN|BODY_2|0
+the real time|DT JJ NN|BODY_2|0
+the reaction time|DT NN NN|BODY_3:BODY_7|0
+|NNP|BODY_13:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|1
+x and e|NN CC NN|BODY_15:BODY_9|0
+a programming language|DT NN NN|BODY_5|0
+a verification tool|DT NN NN|BODY_2:BODY_1|0
+rather specialized tools|RB JJ NNS|BODY_4|0
+a formula f|DT NN NN|BODY_6:BODY_2|0
+such a verification|JJ DT NN|BODY_2|0
+real  time|JJ JJ NN|BODY_20|0
+the same time|DT JJ NN|BODY_4:BODY_7|0
+b,on c ,ack|NN NN NN|BODY_44:BODY_9|0
+the program environ|DT NN NN|BODY_4|0
+high level tools|JJ NN NNS|BODY_2|0
+the verification process|DT NN NN|BODY_1:BODY_7|0
+the same way|DT JJ NN|BODY_3|0
+a finite automaton|DT NN NN|BODY_2|0
+the verification tool|DT NN NN|BODY_1:BODY_8|0
+a subway line|DT NN NN|BODY_2|0
+the proved properties|DT JJ NNS|BODY_2:BODY_10|0
+trivial temporal operators|JJ JJ NNS|BODY_3|0
+the programming language|DT NN NN|BODY_5:BODY_4|0
+the boolean expression|DT JJ NN|BODY_24:BODY_8|0
+a dangerous situation|DT JJ NN|BODY_5:BODY_9|0
+a small example|DT JJ NN|BODY_6|0
+the first one|DT JJ CD|BODY_1:BODY_3|0
+the inductive verification|DT JJ NN|BODY_3|0
+the first time|DT RB NN|BODY_40|0
+such a language|JJ DT NN|BODY_3|0
+the complexity|DT NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_7|0
+binary decision diagrams|JJ NN NNS|BODY_3|0
+an invariant )|DT NN -RRB-|BODY_5:BODY_10|0
+a good basis|DT JJ NN|BODY_4|0
+some boolean expressions|DT JJ NNS|BODY_2|0
+such a transition|JJ DT NN|BODY_2|0
+a higher level|DT JJR NN|BODY_6|0
+the ) program|DT -RRB- NN|BODY_9|0
+the whole program|DT JJ NN|BODY_16|0
+usual imperative languages|JJ JJ NNS|BODY_6|0
+the ( abstraction|DT -LRB- NN|BODY_8|0
+the switch status|DT NN NN|BODY_4|0
+a lower level|DT JJR NN|BODY_10|0
+the smooth merging|DT JJ VBG|BODY_12|0
+such declarative formalisms|JJ JJ NNS|BODY_5|0
+standard model check|JJ NN NN|BODY_5|0
+a useful task|DT JJ NN|BODY_4|0
+finite difference equations|JJ NN NNS|BODY_23|0
+the reachable states|DT JJ NNS|BODY_4|0
+ symbolic model|JJ JJ NN|BODY_2|0
+no derail bc|DT NN NN|BODY_58|0
+a finite number|DT JJ NN|BODY_4|0
+tel figure 5|NN NN CD|BODY_59|0
+the safety properties|DT NN NNS|BODY_9|0
+these declarative formalisms|DT JJ NNS|BODY_3|0
+a simple traversal|DT JJ NN|BODY_3|0
+no derail ab|DT NN JJ|BODY_57|0
+this example|DT NN|BODY_18:BODY_14:BODY_8|1
+the verification program|DT NN NN|BODY_60|0
+the variable c|DT JJ NN|BODY_16|0
+an exhaustive enumeration|DT JJ NN|BODY_6|0
+process control systems|NN NN NNS|BODY_5|0
+parameter passing mechanisms|NN NN NNS|BODY_9|0
+the above assertion|DT JJ NN|BODY_28|0
+a synchronous language|DT JJ NN|BODY_14|0
+the initial state|DT JJ NN|BODY_13:BODY_1|0
+a progressive translation|DT JJ NN|BODY_4|0
+the same type|DT JJ NN|BODY_20|0
+these two classes|DT CD NNS|BODY_16|0
+only slight conse|RB JJ NN|BODY_5|0
+finite state abstractions|JJ NN NNS|BODY_2|0
+the tool deals|DT NN NNS|BODY_2|0
+the synchronous approach|DT JJ NN|BODY_5:BODY_1|0
+the assertion mechanism|DT NN NN|BODY_5:BODY_3|0
+some complete specifications|DT JJ NNS|BODY_5|0
+the last time|DT JJ NN|BODY_27:BODY_13|0
+the state graph|DT NN NN|BODY_4|0
+the second engine|DT JJ NN|BODY_7|0
+a subprogram|DT NN|BODY_11:BODY_4|1
+the critical situation|DT JJ NN|BODY_11|0
+false to true|JJ TO JJ|BODY_7|0
+the event alarm|DT NN NN|BODY_15|0
+these critical properties|DT JJ NNS|BODY_2|0
+an abstract point|DT JJ NN|BODY_2|0
+the following assumptions|DT JJ NNS|BODY_2:BODY_20|0
+its first input|PRP$ JJ NN|BODY_12:BODY_26|0
+an external event|DT JJ NN|BODY_21|0
+general purpose languages|JJ NN NNS|BODY_3|0
+our main goals|PRP$ JJ NNS|BODY_2|0
+an undefined value|DT JJ NN|BODY_18|0
+the times (|DT NNS -LRB-|BODY_5|0
+a figure 7|DT NN CD|BODY_6|0
+the main limitation|DT JJ NN|BODY_1|0
+a direct influence|DT JJ NN|BODY_6|0
+the speed computation|DT NN NN|BODY_4|0
+the same approach|DT JJ NN|BODY_4|0
+the program semantics|DT NN NNS|BODY_6|0
+four auxiliary nodes|CD JJ NNS|BODY_26|0
+a lustre expression|DT NN NN|BODY_11|0
+empty section -?|JJ NN NNS|BODY_33|0
+real-time  problems|JJ NN NNS|BODY_2|0
+a safety property|DT NN NN|BODY_2|0
+an asynchronous language|DT JJ NN|BODY_6|0
+a testing phase|DT NN NN|BODY_2|0
+a special need|DT JJ NN|BODY_4|0
+the event c|DT NN NN|BODY_10|0
+relations and computations|NNS CC NNS|BODY_9|0
+a compiler option|DT NN NN|BODY_5|0
+the informal specifications|DT JJ NNS|BODY_11|0
+the input events|DT NN NNS|BODY_3|0
+a boolean formula|DT JJ NN|BODY_61|0
+some useful non|DT JJ NN|BODY_2|0
+on-b or on-c)|JJ CC JJ|BODY_4|0
+the other ,|DT JJ ,|BODY_6|0
+,ack bc )|NN NN -RRB-|BODY_45|0
+the event second|DT NN JJ|BODY_17|0
+such an approach|JJ DT NN|BODY_2|0
+a) ,on b)|DT NN NN|BODY_38|0
+the next occurrence|DT JJ NN|BODY_9|0
+about 1,000,000 states|IN CD NNS|BODY_4|0
+the traditional tools|DT JJ NNS|BODY_3|0
+section 2 )|NN CD -RRB-|BODY_3|0
+the only trains|DT RB NNS|BODY_16:BODY_9|0
+a boolean variable|DT JJ JJ|BODY_3|0
+an execution cycle|DT NN NN|BODY_3|0
+the initial instant|DT JJ NN|BODY_27|0
+the initial value|DT JJ NN|BODY_29|0
+their respective sequences|PRP$ JJ NNS|BODY_6|0
+always-from-to(ack-ab ,ack-ab,do-bc )|JJ NN -RRB-|BODY_15|0
+an obvious advantage|DT JJ NN|BODY_3|0
+27 0.7 0.4|CD CD CD|BODY_13|0
+empty section states|JJ NN NNS|BODY_12|0
+partially developed programs|RB VBN NNS|BODY_3|0
+a given statement|DT VBN NN|BODY_9|0
+liveness  properties|NN JJ NNS|BODY_11|0
+0 ( fig|CD -LRB- NN|BODY_14|0
+to(ack ab ,ack|JJ JJ NN|BODY_29|0
+[11 , 20]|CD , CD|BODY_3|0
+each \pi i|DT IN NN|BODY_11|0
+a symbolic construction|DT JJ NN|BODY_13|0
+a figure 2|DT NN CD|BODY_9|0
+always-from-to(ack-bc ,ack-bc ,do-ab)|JJ JJ NN|BODY_16|0
+a cyclic behavior|DT JJ NN|BODY_2|0
+ x! z |IN JJ FW|BODY_9|0
+the program \pi|DT NN IN|BODY_3|0
+the other hand|DT JJ NN|BODY_6|0
+no conceptual difference|DT JJ NN|BODY_8|0
+two verification techniques|CD NN NNS|BODY_4|0
+its finite set|PRP$ JJ NN|BODY_9|0
+methods and models|NNS CC NNS|BODY_3|0
+this whole program|DT JJ NN|BODY_19|0
+the train position|DT NN NN|BODY_5|0
+the semantics cleanness|DT NNS NN|BODY_4|0
+37 1.0 0.5|CD CD CD|BODY_15|0
+the parallel composition|DT JJ NN|BODY_6|0
+its second input|PRP$ JJ NN|BODY_28:BODY_14|0
+some node \pi|DT NN IN|BODY_13|0
+the synchrony hypothesis|DT NN NN|BODY_2:BODY_4|0
+the node edge|DT NN NN|BODY_2|0
+the opposite direction|DT JJ NN|BODY_7|0
+the following (|DT VBG -LRB-|BODY_21|0
+a verification program|DT NN NN|BODY_9|0
+a natural description|DT JJ NN|BODY_13|0
+this synchronous interpretation|DT JJ NN|BODY_5|0
+the condition b|DT NN NN|BODY_8|0
+tel figure 3|NN NN CD|BODY_33|0
+the opposite position|DT JJ NN|BODY_14|0
+a language approach|DT NN NN|BODY_2|0
+empty-section and ack-ab|NN CC NN|BODY_3|0
+not(on-a or on-c)|NN CC JJ|BODY_5|0
+such a work|PDT DT NN|BODY_1|0
+the verification task|DT NN NN|BODY_3|0
+pre( e ) |JJ NN -RRB-|BODY_13|0
+an a occurrence|DT DT NN|BODY_16|0
+all safety properties|PDT NN NNS|BODY_10|0
+the next step|DT JJ NN|BODY_6|0
+the lustre program|DT NN NN|BODY_34|0
+only one equation|RB CD NN|BODY_5|0
+all the equations|DT DT NNS|BODY_9|0
+the p i|DT NN NN|BODY_17|0
+the following equation|DT JJ NN|BODY_2|0
+this non determinism|DT JJ NN|BODY_2|0
+an actual equation|DT JJ NN|BODY_11|0
+its boolean parameter|PRP$ NN NN|BODY_6|0
+the property (|DT NN -LRB-|BODY_4|0
+many verification tools|JJ NN NNS|BODY_3|0
+response time constraints|NN NN NNS|BODY_5|0
+more significant programs|RBR JJ NNS|BODY_2|0
+a safe device|DT JJ NN|BODY_4|0
+some known properties|DT VBN NNS|BODY_3|0
+node edge( x|NN NN NN|BODY_8|0
+,no derail bc|DT NN NN|BODY_14|0
+our verification tool|PRP$ NN NN|BODY_4|0
+only the behavior|RB DT NN|BODY_5|0
+the reactions )|DT NNS -RRB-|BODY_5|0
+a detailed presentation|DT JJ NN|BODY_4|0
+such a decomposition|JJ DT NN|BODY_10|0
+an input )|DT NN -RRB-|BODY_8|0
+this abstraction technique|DT NN NN|BODY_1|0
+an execution trace|DT NN NN|BODY_11|0
+an execution path|DT NN NN|BODY_6|0
+this simple example|DT NN NN|BODY_6|0
+the global property|DT JJ NN|BODY_1|0
+no manual transformation|DT JJ NN|BODY_2|0
+a strong limitation|DT JJ NN|BODY_5|0
+the symbolic method|DT JJ NN|BODY_6|0
+the automaton size|DT NN NN|BODY_10|0
+many real-life cases|JJ JJ NNS|BODY_9|0
+the following one|DT VBG CD|BODY_3|0
+such a system|PDT DT NN|BODY_1|0
+a given machine|DT VBN NN|BODY_5|0
+program and properties|NN CC NNS|BODY_3|0
+a sub-program \pi|DT NN NN|BODY_6:BODY_9|0
+a critical situation|DT JJ NN|BODY_3|0
+a to c|DT TO NN|BODY_6|0
+the following way|DT JJ NN|BODY_10|0
+the equivalent past|DT JJ NN|BODY_4|0
+the property )|DT NN -RRB-|BODY_16|0
+the two approaches|DT CD NNS|BODY_1|0
+the whole execution|DT JJ NN|BODY_6|0
+an unknown part|DT JJ NN|BODY_6|0
+b and not(on|NN CC NN|BODY_25:BODY_30|0
+a relevant question|DT JJ NN|BODY_2|0
+a five seconds|DT CD NNS|BODY_6|0
+a given position|DT VBN NN|BODY_11|0
+program reaction time|NN NN NN|BODY_4|0
+the only output|DT JJ NN|BODY_16|0
+any execution trace|DT NN NN|BODY_9|0
+var empty section|NN JJ NN|BODY_14|0
+any numerical computation|DT JJ NN|BODY_1|0
+the present version|DT JJ NN|BODY_1|0
+time and synchrony|NN CC NN|BODY_1|0
+a temporal logic|DT JJ NN|BODY_5|0
+some critical properties|DT JJ NNS|BODY_6|0
+a basic operator|DT JJ NN|BODY_3|0
+rigorous design methods|JJ NN NNS|BODY_5|0
+the object code|DT NN NN|BODY_1|0
+the program 1|DT NN CD|BODY_7|0
+the synchronous interpretation|DT JJ NN|BODY_1|0
+a falling edge|DT VBG NN|BODY_17|0
+a critical system|DT JJ NN|BODY_5|0
+the synchronous model|DT JJ NN|BODY_9|0
+b and b|NN CC NN|BODY_7|0
+the exiting track|DT VBG NN|BODY_3|0
+the last occurrence|DT JJ NN|BODY_10|0
+programs and properties|NNS CC NNS|BODY_13|0
+specification and verification|NN CC NN|BODY_1|0
+the variable x|DT NN SYM|BODY_12|0
+the u-turn section|DT NN NN|BODY_12|0
+its application field|PRP$ NN NN|BODY_4|0
+the symbolic one|DT JJ CD|BODY_4|0
+a subway device|DT NN NN|BODY_5|0
+the future 2|DT NN CD|BODY_14|0
+the symbolic verifier|DT JJ NN|BODY_1|0
+the main reason|DT JJ NN|BODY_1|0
+the state space|DT NN NN|BODY_1|0
+two verification engines|CD NN NNS|BODY_1|0
+two dangerous situations|CD JJ NNS|BODY_3|0
+particular [4 ]|JJ NNP NNP|BODY_1|0
+5 critical properties|CD JJ NNS|BODY_1|0
+such an information|JJ DT NN|BODY_3|0
+a full program|DT JJ NN|BODY_13|0
+the current instant|DT JJ NN|BODY_21|0
+the incoming events|DT JJ NNS|BODY_4|0
+available automatic techniques|JJ JJ NNS|BODY_4|0
+the same value|DT JJ NN|BODY_16|0
+a general pattern|DT JJ NN|BODY_1|0
+the movement grants|DT NN NNS|BODY_8|0
+formal verification methods|JJ NN NNS|BODY_3|0
+the synchronous nature|DT JJ NN|BODY_1|0
+standard transition systems|JJ NN NNS|BODY_3|0
+one execution step|CD NN NN|BODY_22|0
+the second one|DT JJ CD|BODY_1|0
+many practical cases|JJ JJ NNS|BODY_6|0
+the mathematical language|DT JJ NN|BODY_5|0
+any boolean expression|DT JJ NN|BODY_11|0
+the resulting program|DT VBG NN|BODY_1|0
+8 modular verification|CD JJ NN|BODY_1|0
+some boolean expression|DT JJ NN|BODY_11|0
+no privileged nature|DT JJ NN|BODY_24|0
+the program umsx;y|DT NN RB|BODY_26|0
+7 program verification|CD NN NN|BODY_1|0
+the verification problem|DT NN NN|BODY_3|0
+that \pi 0|DT NN CD|BODY_1|0
+a given delay|DT VBN NN|BODY_11|0
+a red light|DT JJ NN|BODY_5|0
+concurrency and determinism|NN CC NN|BODY_7|0
+the right position|DT JJ NN|BODY_3|0
+the entering track|DT VBG NN|BODY_1|0
+the properties|DT NNS|BODY_1:BODY_4:BODY_7|1
+no derail|DT NN|BODY_52:BODY_13:BODY_14:BODY_48|0
+e|NN|BODY_23:BODY_2:BODY_10:BODY_9|0
+view|NN|BODY_1:BODY_3:BODY_10|1
+the system|DT NN|BODY_5:BODY_2|1
+the set|DT NN|BODY_5:BODY_2:BODY_14:BODY_4:BODY_19:BODY_10:BODY_8|0
+its environment|PRP$ NN|BODY_5:BODY_3:BODY_8|1
+a method|DT NN|BODY_6:BODY_2:BODY_4|1
+the example|DT NN|BODY_18:BODY_2|0
+a node|DT NN|BODY_13:BODY_1:BODY_3|0
+an expression|DT NN|BODY_11:BODY_5:BODY_2:BODY_14:BODY_4|0
+the expression|DT NN|BODY_15:BODY_38:BODY_14:BODY_10|0
+the verification|DT NN|BODY_12:BODY_2:BODY_3:BODY_10|0
+states|NNS|BODY_5:BODY_11:BODY_63:BODY_15:BODY_4:BODY_10:BODY_9:BODY_20|0
+events|NNS|BODY_11:BODY_13:BODY_2|1
+our example|PRP$ NN|BODY_2:BODY_38:BODY_4|1
+node|NN|BODY_15:BODY_3:BODY_19:BODY_29|0
+ffl|JJ|BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+liveness properties|NN NNS|BODY_5:BODY_3|1
+bool|NN|BODY_12:BODY_16:BODY_18:BODY_15:BODY_10:BODY_8|0
+the output|DT NN|BODY_12:BODY_17:BODY_1:BODY_3:BODY_8|0
+temporal logics|JJ NNS|BODY_5|1
+tel|NN|BODY_36:BODY_13:BODY_24:BODY_8|0
+modular verification|JJ NN|BODY_1:BODY_3:BODY_7|0
+the equations|DT NNS|BODY_1:BODY_2:BODY_3:BODY_7|0
+\pi|NN|BODY_6:BODY_11:BODY_2:BODY_4:BODY_7:BODY_8|0
+grant access|NN NN|BODY_6:BODY_17:BODY_50|0
+e .g.|NN NNP|BODY_2:BODY_4|0
+the assertion|DT NN|BODY_12:BODY_11:BODY_7:BODY_8|0
+contrast|NN|BODY_17:BODY_2:BODY_10|0
+the occurrence|DT NN|BODY_2:BODY_10|0
+the number|DT NN|BODY_62:BODY_3|0
+some complexity|DT NN|BODY_2|0
+c )|NN -RRB-|BODY_41:BODY_32:BODY_28:BODY_27:BODY_23|0
+any occurrence|DT NN|BODY_5:BODY_11:BODY_2:BODY_4|0
+the sequence|DT NN|BODY_2:BODY_3|0
+an alarm|DT NN|BODY_4:BODY_7:BODY_8|0
+true -?|JJ NN|BODY_34:BODY_4|0
+a relation|DT NN|BODY_5:BODY_2|0
+the combination|DT NN|BODY_6:BODY_16|0
+this claim|DT NN|BODY_2|0
+empty section |JJ NN|BODY_26:BODY_30|0
+numerical variables|JJ NNS|BODY_3:BODY_8|0
+this property|DT NN|BODY_2:BODY_7|0
+bc )|NN -RRB-|BODY_47:BODY_30|0
+equations|NNS|BODY_5:BODY_2:BODY_3|0
+)|-RRB-|BODY_5:BODY_15:BODY_19:BODY_9|0
+the node|DT NN|BODY_23:BODY_37:BODY_9|0
+a lot|DT NN|BODY_5:BODY_15|0
+the behavior|DT NN|BODY_18:BODY_3:BODY_4|0
+analog schemas|NN NNS|BODY_25:BODY_14|0
+the assumptions|DT NNS|BODY_6:BODY_2|0
+course|NN|BODY_17:BODY_1:BODY_4|0
+a delay|DT NN|BODY_2:BODY_8|0
+respect|NN|BODY_6:BODY_4:BODY_20|0
+its properties|PRP$ NNS|BODY_7:BODY_8|0
+some assumptions|DT NNS|BODY_5:BODY_2:BODY_3|0
+f i|NN NN|BODY_21:BODY_23:BODY_2|0
+regular networks|JJ NNS|BODY_4|0
+the introduction|DT NN|BODY_8|0
+efficient tools|JJ NNS|BODY_8|0
+section 3|NN CD|BODY_5:BODY_3|0
+the alarm|DT NN|BODY_12|0
+absurd cases|JJ NNS|BODY_15|0
+which state|WDT NN|BODY_12:BODY_7|0
+these variables|DT NNS|BODY_2:BODY_3|0
+the train|DT NN|BODY_12:BODY_10|0
+a technique|DT NN|BODY_3|0
+variable identifiers|JJ NNS|BODY_2|0
+our approach|PRP$ NN|BODY_1:BODY_2|0
+the evaluation|DT NN|BODY_3|0

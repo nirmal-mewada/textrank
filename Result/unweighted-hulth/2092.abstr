@@ -1,0 +1,80 @@
+the consistency|DT NN|BODY_2:BODY_4|0
+the transmission scan|DT NN NN|BODY_1:BODY_4|0
+pet and ct scans|JJ CC JJ NNS|BODY_1:BODY_4|0
+two ct scans|CD JJ NNS|BODY_2|0
+the head and neck|DT NN CC NN|BODY_11:BODY_5|1
+it|PRP|BODY_1:BODY_7|1
+the transmission|DT NN|BODY_3|0
+use|NN|BODY_2|0
+5.15 mm|CD UH|BODY_3|0
+accurate and reproducible positioning|JJ CC JJ NN|BODY_3|0
+a single position|DT JJ NN|BODY_2|0
+follows|VBZ|BODY_2|0
+registration|NN|BODY_2|0
+the errors|DT NNS|BODY_4|0
+the patient|DT NN|BODY_4|0
+pet|JJ|BODY_5|0
+two bed positions|CD NN NNS|BODY_3|0
+matching|NN|BODY_2|0
+the quality|DT NN|BODY_12|0
+this goal|DT NN|BODY_2|0
+the represented algorithm and validation technique|DT VBN NN CC NN NN|BODY_2|1
+tumor biology|NN NN|BODY_6|0
+images|NNS|BODY_3|0
+1.3 degrees|CD NNS|BODY_5|0
+( 1 ) nonrigid motions|-LRB- CD -RRB- JJ NNS|BODY_3|0
+no objective way|DT JJ NN|BODY_11|0
+important information|JJ NN|BODY_5|0
+4 mm|CD CD|BODY_4|0
+several features|JJ NNS|BODY_3|1
+the present study|DT JJ NN|BODY_2|0
+the scanner bed|DT NN NN|BODY_2|0
+the opportunity|DT NN|BODY_13|1
+1/|CD|BODY_3|0
+ct/sub 1/|VB CD|BODY_4|0
+standard image fusion methods|JJ NN NN NNS|BODY_9|0
+the use|DT NN|BODY_5|0
+( 3|-LRB- CD|BODY_10|0
+the neck|DT NN|BODY_4|0
+that|WDT|BODY_4|1
+which|WDT|BODY_12|1
+method and validation positron emission tomography ( pet )|NN CC NN NN NN NN -LRB- JJ -RRB-|BODY_4|0
+an automatic registration method|DT JJ NN NN|BODY_3|0
+( 2 ) emission scans|-LRB- CD -RRB- NN NNS|BODY_7|0
+automatic ridged body transformations|JJ JJ NN NNS|BODY_6|0
+too little anatomical information|RB JJ JJ NN|BODY_8|0
+development|NN|BODY_3|0
+a mutual information-based algorithm|DT JJ JJ NN|BODY_1|0
+a registration technique|DT NN NN|BODY_2|0
+pet and ct data|NN CC NN NNS|BODY_1|0
+seven patients|CD NNS|BODY_2|0
+both theoretical and practical point|DT JJ CC JJ NN|BODY_5|1
+consistency|NN|BODY_3|0
+our method|PRP$ NN|BODY_2|0
+view|NN|BODY_6|1
+the head and neck area|DT NN CC NN NN|BODY_2|0
+a user-independent|DT NN|BODY_8|1
+ct and pet scans|JJ CC JJ NNS|BODY_10|1
+automatic validation technique|JJ NN NN|BODY_9|1
+each patient|DT NN|BODY_1|0
+one pet scan|CD NN NN|BODY_3|0
+the emission scan|DT NN NN|BODY_4|0
+the proposed method|DT JJ NN|BODY_1|0
+a radiotherapy treatment mask|DT NN NN NN|BODY_5|0
+the pet voxels|DT NN NNS|BODY_1|0
+the voxel size|DT NN NN|BODY_5|0
+these problems|DT NNS|BODY_1|0
+sufficient ( anatomical ) information|JJ -LRB- NN -RRB- NN|BODY_1|0
+the images|DT NNS|BODY_1|0
+the match results|DT NN NNS|BODY_13|0
+three difficulties|CD NNS|BODY_1|0
+average|NN|BODY_6|0
+anatomical information|JJ NN|BODY_7|0
+conclusion|NN|BODY_1|1
+the full circle consistency test|DT JJ NN NN NN|BODY_6|0
+different image enhancements|JJ NN NNS|BODY_14|1
+our aim|PRP$ NN|BODY_1|0
+this approach|DT NN|BODY_3|0
+the protocol|DT NN|BODY_5|0
+the algorithm|DT NN|BODY_5|0
+the datasets|DT NNS|BODY_1|0

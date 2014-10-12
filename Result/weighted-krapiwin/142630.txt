@@ -1,0 +1,489 @@
+the server|DT NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:ABSTRACT_9|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_8:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:ABSTRACT_7:BODY_7:BODY_8:BODY_9|0
+audio applications|JJ NNS|BODY_5:TITLE_4|0
+the application|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|0
+example|NN|BODY_6:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4|0
+the byte stream manager|DT NNP NN NN|BODY_2:BODY_1:ABSTRACT_1|0
+advanced user interface design|JJ NN NN NN|BODY_6:ABSTRACT_4|0
+this paper|DT NN|BODY_5:BODY_1:BODY_2:ABSTRACT_1|0
+applications|NNS|BODY_6:ABSTRACT_6:BODY_2:BODY_4|0
+e .g.|NN NNP|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_3|0
+a callback mechanism|DT NN NN|ABSTRACT_2:BODY_2|0
+such a system|JJ DT NN|ABSTRACT_2:BODY_2|0
+a telnet interface|DT NN NN|BODY_4:ABSTRACT_7|0
+a programmatic interface|DT JJ NN|ABSTRACT_6:BODY_4|0
+a window system|DT NN NN|ABSTRACT_5:BODY_7:BODY_9|0
+speech recognition input|NN NN NN|ABSTRACT_4:BODY_4|0
+a multimedia application|DT NNS NN|BODY_2:ABSTRACT_1|0
+distributed client/server models|VBN NN NNS|BODY_1:ABSTRACT_1|0
+a command interpreter|DT NN NN|BODY_7:ABSTRACT_10|0
+input and output|NN CC NN|BODY_11:ABSTRACT_10|0
+the features|DT NNS|BODY_5:ABSTRACT_8|1
+temporal media|JJ NNS|BODY_5:ABSTRACT_6:BODY_3|0
+recognition servers|NN NNS|BODY_3:ABSTRACT_7:BODY_7|0
+asynchronous servers and applications|JJ NNS CC NNS|ABSTRACT_3|0
+highly interactive user interfaces|RB JJ NN NNS|ABSTRACT_5|0
+the software architecture|DT NN NN|ABSTRACT_1|0
+this paper details|DT NN NNS|ABSTRACT_1|0
+the audio server|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|1
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+a server|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+an application|DT NN|BODY_5:BODY_11:BODY_1:BODY_2:BODY_3|0
+the client|DT NN|BODY_6:BODY_1:BODY_2:BODY_24:BODY_3:BODY_4:BODY_7:BODY_9|0
+the vox audio server|DT NN NN NN|BODY_2|0
+the speech research group|DT NN NN NN|BODY_2:BODY_3|0
+the server and client|DT NN CC NN|BODY_4:BODY_8|0
+the servers and clients|DT NNS CC NNS|BODY_2|0
+three priority levels (urgent|CD NN NNS NN|BODY_2|0
+both sender and receiver|DT NN CC NN|BODY_2|0
+efficient ( non-human read|JJ -LRB- JJ NN|BODY_2|0
+speed and play b|NN CC NN NN|BODY_3|0
+a first-in first-out manner|DT JJ JJ NN|BODY_5:BODY_4|0
+a remote procedure call|DT JJ NN NN|BODY_1:BODY_4|0
+the c-oriented rpc generator|DT JJ NN NN|BODY_5|0
+an ascii string protocol|DT JJ NN NN|BODY_5|0
+the often difficult task|DT RB JJ NN|BODY_2|0
+the ascii telnet interface|DT NN NN NN|BODY_1:BODY_7|0
+a synchronous manner [8|DT JJ NN NNS|BODY_5|0
+the rpc stub generator|DT NN NN NN|BODY_2|0
+data type description int|NNS NN NN NN|BODY_2|0
+functions and arguments void|NNS CC NNS NN|BODY_2|0
+human readable data encod|JJ JJ NNS NN|BODY_2|0
+a keyboard and display|DT NN CC NN|BODY_6|0
+a similar system running|DT JJ NN NN|BODY_5|0
+the current sound file|DT JJ NN NN|BODY_4|0
+an interpreted programming language|DT VBN NN NN|BODY_3|0
+a pc-based speech recognizer|DT JJ NN NN|BODY_3|0
+an existing library interface|DT VBG NN NN|BODY_2|0
+all the data packets|PDT DT NNS NNS|BODY_5|0
+a procedure call framework|DT NN NN NN|BODY_5|0
+an rpc systemand waits|DT JJ NN NNS|BODY_7|0
+remote procedure call systems|JJ NN NN NNS|BODY_2|0
+the telnet interface telnet|DT NN NN NN|BODY_2|0
+the connection-specific 1 i.e|DT JJ CD NN|BODY_2|0
+the old synchronous procedure|DT JJ JJ NN|BODY_2|0
+a point several seconds|DT NN JJ NNS|BODY_4|0
+standard compiler building tools|JJ NN NN NNS|BODY_4|0
+an asynchronousmessage passing protocol|DT NN VBG NN|BODY_4|0
+a sun sparcstation [20]|DT NN NN NN|BODY_4|0
+a higher level tool|DT JJR NN NN|BODY_2|0
+an incoming service request|DT NN NN NN|BODY_2|0
+at least one argument|IN JJS CD NN|BODY_3|0
+the same software interface|DT JJ NN NN|BODY_3|0
+the preemption and resumption|DT NN CC NN|BODY_5|0
+length ( string )filename|NN -LRB- NN NN|BODY_4|0
+appropriate prompting or feedback|JJ VBG CC NN|BODY_3|0
+an x window server|DT NN NN NN|BODY_3|0
+the client and server|DT NN CC NN|BODY_6|0
+the coding and debugging|DT NN CC NN|BODY_5|0
+a lower priority applica|DT JJR NN NN|BODY_2|0
+a separate audio manager|DT JJ JJ NN|BODY_4|0
+a per application basis|DT FW NN NN|BODY_2|0
+a secondary status service|DT JJ NN NN|BODY_5|0
+the design and implementation|DT NN CC NN|BODY_5|0
+a new data buffer|DT JJ NN NN|BODY_2|0
+the current internal state|DT JJ JJ NN|BODY_2|0
+a sound file void|DT JJ NN NN|BODY_6|0
+a multiple server environment|DT JJ NN NN|BODY_4|0
+usually two specification files|RB CD NN NNS|BODY_4|0
+'s current work deals|POS JJ NN NNS|BODY_4|0
+server and client architecture|NN CC NN NN|BODY_4|0
+the lower priority client|DT JJR NN NN|BODY_4|0
+speech and audio devices|NN CC NN NNS|BODY_4|0
+an asynchronous message 6|DT JJ NN CD|BODY_4|0
+ c programming interface|NNP NN NN NN|BODY_1|0
+able ) data encoding|JJ -RRB- NNS NN|BODY_3|0
+the recorded audio information|DT VBN NN NN|BODY_3|0
+dir ( string *)dirname|NN -LRB- NN NN|BODY_11|0
+applications and ser- vices|NNS CC NNS NNS|BODY_2|0
+the entire server [4]|DT JJ NN NN|BODY_7|0
+designing future rpc systems|VBG JJ NN NNS|BODY_5|0
+multi-media applications and systems|NNS NNS CC NNS|BODY_9|0
+the first play request|DT JJ NN NN|BODY_3|0
+a sample telnet session|DT NN NN NN|BODY_2|0
+those involving temporal media|DT VBG JJ NNS|BODY_5|0
+real-time silence detection functionality|JJ NN NN NN|BODY_2|0
+a dtmf detection client|DT NN NN NN|BODY_8|0
+access remote information services|NN JJ NN NNS|BODY_6|0
+serializing and deserializing data|VBG CC VBG NNS|BODY_3|0
+the power and familiarity|DT NN CC NN|BODY_3|0
+the client nor server|DT NN CC NN|BODY_2|0
+keyboard or mouse input|NN CC NN NN|BODY_3|0
+two mid-level  servers|CD JJ NN NNS|BODY_4|0
+a machine independent format|DT NN JJ NN|BODY_6|0
+a general communication mechanism|DT JJ NN NN|BODY_3|0
+both synchronousrpcs and asynchronousmessages|DT NNS CC NNS|BODY_4|0
+the x window system|DT NN NN NN|BODY_3|0
+all other audio activity|DT JJ JJ NN|BODY_5|0
+any subsequent play requests|DT JJ NN NNS|BODY_3|0
+a window system server|DT NN NN NN|BODY_5|0
+the pending play request|DT VBG NN NN|BODY_3|0
+6.4 previous audio servers|CD JJ NN NNS|BODY_1|0
+the desired a-b-c order|DT VBN NN NN|BODY_5|0
+equal or lower priority|JJ CC JJR NN|BODY_2|0
+the macintosh operating system|DT JJ NN NN|BODY_4|0
+unmain- tainable , manner|NNP JJ , NN|BODY_4|0
+stant pitch time-compression )|JJ NN NN -RRB-|BODY_5|0
+a normal priority application|DT JJ NN NN|BODY_2|0
+a high priority application|DT JJ NN NN|BODY_5|0
+a highly distributed configuration|DT RB VBN NN|BODY_2|0
+a lisp machine )|DT NN NN -RRB-|BODY_7|0
+both servers and clients|DT NNS CC NNS|BODY_2|0
+a predefined communication port|DT JJ NN NN|BODY_6|0
+multimedia user interface applications|NNS NN NN NNS|BODY_6|0
+the socket manager(sm) library|DT NN NN NN|BODY_1|0
+other audio server activity|JJ JJ NN NN|BODY_15|0
+the following data types|DT VBG NNS NNS|BODY_1|0
+6.3 x window system|CD NN NN NN|BODY_1|0
+a vu meter )|DT NN NN -RRB-|BODY_12|0
+this simple queuing mechanism|DT JJ JJ NN|BODY_1|0
+a symmetrical peer relationship|DT JJ NN NN|BODY_2|0
+reliable tcp/ip communications [10]|JJ NN NNS NN|BODY_4|0
+4.2 pc-based speech recognition|CD JJ NN NN|BODY_1|0
+4.1 sparcstation-based audio server|CD JJ NN NN|BODY_1|0
+no return value )|DT NN NN -RRB-|BODY_5|0
+reply  returnvalue=3457 length|NN NN NNS NN|BODY_1|0
+current software engineering paradigms|JJ NN NN NNS|BODY_10|0
+a simple specification file|DT JJ NN NN|BODY_1|0
+a device or socket|DT NN CC NN|BODY_5|0
+such a distributed environment|JJ DT VBN NN|BODY_9|0
+a serial interface [12]|DT JJ JJ NN|BODY_3|0
+a macintosh environment )|DT JJ NN -RRB-|BODY_6|0
+several data serialization formats|JJ NNS NN NNS|BODY_6|0
+x-like servers and clients|JJ NNS CC NNS|BODY_3|0
+different length data packets|JJ NN NNS NNS|BODY_4|0
+a video snapshot server|DT NN NN NN|BODY_6|0
+the procedure call generator|DT NN NN NN|BODY_1|0
+an rpc specification file|DT JJ NN NN|BODY_6|0
+a separate communication port|DT JJ NN NN|BODY_2|0
+also section 4.1 )|RB NN CD -RRB-|BODY_4|0
+6.2 remote procedure calls|CD JJ NN NNS|BODY_1|0
+data and interest events|NNS CC NN NNS|BODY_1|0
+the server and clients|DT NN CC NNS|BODY_4|0
+the dec audio server|DT NN NN NN|BODY_1|0
+an rpc gener- ator|DT JJ NNS NN|BODY_4|0
+performance and portability reasons|NN CC NN NNS|BODY_7|0
+the main event loop|DT JJ NN NN|BODY_4|0
+networked servers and applications|JJ NNS CC NNS|BODY_4|0
+sound file greeting .snd|JJ NN NN CC|BODY_17|0
+the answering machine application|DT NN NN NN|BODY_1|0
+callback-style programming using asynchronousmessages|JJ NN VBG NNS|BODY_5|0
+a blocking rpc call|DT VBG NN NN|BODY_6|0
+debugging and logging purposes|NN CC NN NNS|BODY_6|0
+function names and arguments|NN NNS CC NNS|BODY_1|0
+the sparcstation-based audio server|DT JJ JJ NN|BODY_6|0
+this coarse priority structure|DT JJ NN NN|BODY_6|0
+an optional host name|DT JJ NN NN|BODY_5|0
+an rpc stub generator|DT NN NN NN|BODY_1|0
+testing and debugging purposes|NN CC NN NNS|BODY_4|0
+building network based applications|VBG NN VBN NNS|BODY_6|0
+the original rpc request|DT JJ NN NN|BODY_6|0
+either files or buffers|DT NNS CC NNS|BODY_2|0
+an improved programmatic interface|DT JJ JJ NN|BODY_3|0
+the third code file|DT JJ NN NN|BODY_1|0
+an ascii telnet interface|DT NN NN NN|BODY_1|0
+debugging servers and applications|NN NNS CC NNS|BODY_4|0
+this ascii string interface|DT JJ NN NN|BODY_1|0
+clients|NNS|BODY_5:BODY_1:BODY_2:BODY_14:BODY_4:BODY_7:BODY_8|0
+software engineering paradigms|NN NN NNS|BODY_3|1
+the software tools|DT NN NNS|BODY_1:BODY_2|1
+new user interface|JJ NN NN|BODY_2|1
+highly interactive applications|RB JJ NNS|BODY_7|1
+the speech research|DT NN NN|BODY_5|1
+voice mail application|NN NN NN|BODY_6|1
+the software infrastructure|DT NN NN|BODY_4|1
+this paper draw|DT NN NN|BODY_3|1
+an important part|DT JJ NN|BODY_3|1
+the recognition server|DT NN NN|BODY_1:BODY_2:BODY_3|0
+speech and audio|NN CC JJ|BODY_8|1
+the telnet interface|DT NN NN|BODY_2:BODY_1:BODY_7|0
+an rpc generator|DT JJ NN|BODY_5:BODY_3|0
+a sound file|DT NN NN|BODY_5:BODY_2:BODY_7|0
+an asynchronous server|DT JJ NN|BODY_5:BODY_4|0
+the sm library|DT NN NN|BODY_2:BODY_1|0
+data|NNS|BODY_6:BODY_5:BODY_2:BODY_4|0
+a procedural interface|DT JJ NN|BODY_5:BODY_3|0
+string name )|NN NN -RRB-|BODY_6:BODY_9|0
+the speechresearch group|DT NN NN|BODY_3|0
+,a separate application|DT JJ NN|BODY_2|0
+an ad hoc|DT NN NN|BODY_3|0
+the same priority|DT JJ NN|BODY_3|0
+yet powerful tool|RB JJ NN|BODY_3|0
+a sequence number|DT NN NN|BODY_2|0
+a speech-only interface|DT JJ NN|BODY_2|0
+background  tasks|NN NN NNS|BODY_2|0
+client and server|NN CC NN|BODY_2|0
+this recognition server|DT NN NN|BODY_2|0
+compile-time , binding|JJ , JJ|BODY_3|0
+clients and servers|NNS CC NNS|BODY_4:BODY_9|0
+data interest events|NNS NN NNS|BODY_5:BODY_4|0
+the x toolkit|DT NN NN|BODY_1:BODY_7|0
+remote procedure calls|JJ NN NNS|BODY_4:BODY_7|0
+lex and yacc|JJ CC NN|BODY_3|0
+the other process|DT JJ NN|BODY_3|0
+current sound directory|JJ JJ NN|BODY_6:BODY_12|0
+diverse machine architectures|JJ NN NNS|BODY_2|0
+the xt mechanism|DT JJ NN|BODY_2|0
+the communications setup|DT NNS NN|BODY_3|0
+a client application|DT NN NN|BODY_5:BODY_3|0
+a- c-b order|NN NN NN|BODY_4|0
+the buffered messages|DT VBN NNS|BODY_3|0
+a similar manner|DT JJ NN|BODY_2|0
+the xwindow system|DT NN NN|BODY_3|0
+( 3 )|-LRB- CD -RRB-|BODY_13|0
+recognizer- specific attributes|NNS JJ NNS|BODY_6|0
+( e .g.|-LRB- NN NN|BODY_6|0
+a call message|DT JJ NN|BODY_2|0
+the audio capabilities|DT NN NNS|BODY_3|0
+the data stream|DT NNS NN|BODY_8|0
+toolkit version 11|NN NN CD|BODY_2|0
+a visual display|DT JJ NN|BODY_10|0
+the recorded data|DT VBN NNS|BODY_6:BODY_1|0
+an audio server|DT JJ NN|BODY_2|0
+user interface software|NN NN NN|BODY_9|0
+several sm calls|JJ NN NNS|BODY_5|0
+the workstation [1|DT NN NN|BODY_8|0
+machine window server|NN NN NN|BODY_2|0
+the rpc stubs|DT NN NNS|BODY_3|0
+prototyping and debugging|VBG CC VBG|BODY_8|0
+the code files|DT NN NNS|BODY_2|0
+an rpc declaration|DT NN NN|BODY_2|0
+simple data types|JJ NNS NNS|BODY_2|0
+three code files|CD NN NNS|BODY_3|0
+the dec server|DT NN NN|BODY_3|0
+all application code|DT NN NN|BODY_2|0
+several hand-crafted servers|JJ JJ NNS|BODY_2|0
+a larger array|DT JJR NN|BODY_3|0
+a callback procedure|DT NN NN|BODY_2|0
+multiple conversing parties|JJ NN NNS|BODY_4|0
+isolated word recognizer|VBN NN NN|BODY_2|0
+a different speed|DT JJ NN|BODY_2|0
+such a configuration|PDT DT NN|BODY_1|0
+the record data|DT NN NNS|BODY_11|0
+record done ev |JJ VBN RB|BODY_8|0
+no other applications|DT JJ NNS|BODY_10|0
+the procedure call|DT NN NN|BODY_3|0
+the rpc compiler|DT NN NN|BODY_2|0
+0.926s figure 2|DT NN CD|BODY_21|0
+both synchronous rpcs|DT JJ NNS|BODY_3|0
+tcl [15] )|JJ NN -RRB-|BODY_4|0
+the output strings|DT NN NNS|BODY_6|0
+internet domain sockets|JJ NN NNS|BODY_3|0
+the string dirname|DT NN NN|BODY_2|0
+a run-time library|DT NN NN|BODY_3|0
+only one connection|RB CD NN|BODY_5|0
+several communication modes|JJ NN NNS|BODY_3|0
+properly formatted strings|RB VBN NNS|BODY_5|0
+arrays and structures|NNS CC NNS|BODY_5|0
+a phoneserverprocessthat monitors|DT NN NNS|BODY_2|0
+synchronous rpc calls|JJ NN NNS|BODY_4|0
+halt user interrupts|NN NN NNS|BODY_17|0
+the other end|DT JJ NN|BODY_8|0
+termination=5 handle=0 length=3604|DT NN NNS|BODY_9|0
+early design discussions|JJ NN NNS|BODY_2|0
+over a decade|IN DT NN|BODY_3|0
+summary form-such information|NN JJ NN|BODY_5|0
+the first argument|DT JJ NN|BODY_8|0
+the file descriptor|DT NN NN|BODY_7|0
+all file manipulation|DT NN NN|BODY_4|0
+followed-provide flexible mechanisms|JJ JJ NNS|BODY_2|0
+playing and recording|VBG CC NN|BODY_2|0
+round-trip network delays|JJ NN NNS|BODY_2|0
+the rapid prototyping|DT JJ NN|BODY_4|0
+one asynchronous message|CD JJ NN|BODY_2|0
+a library routine|DT NN NN|BODY_2|0
+the server functions|DT NN NNS|BODY_2|0
+the key component|DT JJ NN|BODY_7|0
+the bsm library|DT NN NN|BODY_3|0
+commands or scripts|NNS CC NNS|BODY_2|0
+section 5.1 )|NN CD -RRB-|BODY_3|0
+2. void s_record(int|DT NN NN|BODY_5|0
+x and xt|NN CC NN|BODY_7|0
+a particular operation|DT JJ NN|BODY_10|0
+a service name|DT NN NN|BODY_4|0
+a per-connection basis|DT JJ NN|BODY_4|0
+its arguments 1|PRP$ NNS CD|BODY_4|0
+its arguments 2|PRP$ NNS CD|BODY_10|0
+its length (|PRP$ NN -LRB-|BODY_7|0
+additional file descriptors|JJ NN NNS|BODY_4|0
+the playback speed|DT NN NN|BODY_10|0
+the low-level communication|DT JJ NN|BODY_4|0
+the bsm buffers|DT NN NNS|BODY_2|0
+the telephone line|DT NN NN|BODY_9|0
+a single mechanism|DT JJ NN|BODY_1|0
+a time stamp|DT NN NN|BODY_3|0
+a typical application|DT JJ NN|BODY_1|0
+both a graphical|DT DT JJ|BODY_1|0
+multiple data interests|JJ NNS NNS|BODY_3|0
+news ) [24]|NN -RRB- NN|BODY_3|0
+rpc return values|JJ NN NNS|BODY_3|0
+server and client|NN CC NN|BODY_3|0
+the overall architecture|DT JJ NN|BODY_1|0
+the sequence number|DT NN NN|BODY_1|0
+this simple mechanism|DT JJ NN|BODY_1|0
+a software-based recognizer|DT JJ NN|BODY_4|0
+three communication modes|CD NN NNS|BODY_2|0
+interactive telnet session|JJ NN NN|BODY_23|0
+a graphical slider|DT JJ NN|BODY_7|0
+1 and 2|CD CC CD|BODY_14|0
+the other mes|DT JJ NNS|BODY_4|0
+the recognition hardware|DT NN NN|BODY_4|0
+the server load|DT NN NN|BODY_2|0
+primary  tasks|JJ JJ NNS|BODY_2|0
+a file descriptor|DT NN NN|BODY_3|0
+an asynchronous message|DT JJ NN|BODY_12:BODY_6|0
+two related services|CD JJ NNS|BODY_5|0
+the done event|DT VBN NN|BODY_2|0
+only one process|RB CD NN|BODY_4|0
+a per command|DT FW NN|BODY_3|0
+a greater burden|DT JJR NN|BODY_2|0
+all incoming messages|DT JJ NNS|BODY_3|0
+speech processing capabilities|NN NN NNS|BODY_4|0
+the form s_start(fd|DT NN NN|BODY_5|0
+speech synthesis output|NN NN NN|BODY_5|0
+all time-based operations|DT JJ NNS|BODY_5|0
+a window server|DT NN NN|BODY_4|0
+2 ) turn|CD -RRB- NN|BODY_7|0
+an uninterrupted sequence|DT JJ NN|BODY_3|0
+a telephone message|DT NN NN|BODY_3|0
+the recognition algorithm|DT NN NN|BODY_5|0
+window-related data betweenclients|JJ NNS NNS|BODY_2|0
+the mainstream mode|DT NN NN|BODY_3|0
+the socket manager|DT NN NN|BODY_4|0
+a crude form|DT JJ NN|BODY_2|0
+a function call|DT NN NN|BODY_4|0
+an audio recording|DT JJ NN|BODY_2|0
+multiple audio servers|JJ JJ NNS|BODY_6|0
+a sound )|DT NN -RRB-|BODY_8|0
+the specific needs|DT JJ NNS|BODY_10|0
+the first buffer|DT JJ NN|BODY_5|0
+the two applications|DT CD NNS|BODY_2|0
+the server lock|DT NN NN|BODY_4|0
+complex client-defined constructs|JJ NN NNS|BODY_2|0
+a different perspective|DT JJ NN|BODY_3|0
+the actual reading|DT JJ NN|BODY_3|0
+a compatibility library|DT NN NN|BODY_7|0
+the asynchronous events|DT JJ NNS|BODY_6|0
+audio routing configurations|JJ NN NNS|BODY_5|0
+the exclusive use|DT JJ NN|BODY_5|0
+this paper support|DT NN NN|BODY_2|0
+current status information|JJ NN NN|BODY_10|0
+current play/record status|JJ NN NN|BODY_5|0
+new user interfaces|JJ NN NNS|BODY_3|0
+a client communicates|DT NN NNS|BODY_3|0
+the sm functions|DT NN NNS|BODY_9|0
+managing time-varying media|NN NN NNS|BODY_11|0
+a sharing policy|DT NN NN|BODY_3|0
+a single client|DT JJ NN|BODY_5|0
+the fifo queue|DT JJ NN|BODY_1|0
+a telnet connection|DT JJ NN|BODY_4|0
+the rpc library|DT JJ NN|BODY_2|0
+such an environment|PDT DT NN|BODY_1|0
+direct interactive use|JJ JJ NN|BODY_6|0
+the other service|DT JJ NN|BODY_9|0
+explicitly queue commands|RB JJ NNS|BODY_3|0
+an ascii interface|DT NN NN|BODY_4|0
+the ascii interface|DT NN NN|BODY_1|0
+the communications portions|DT NNS NNS|BODY_1|0
+user input events|NN NN NNS|BODY_4|0
+several other systems|JJ JJ NNS|BODY_2|0
+their intended use|PRP$ JJ NN|BODY_6|0
+new asynchronous calls|JJ JJ NNS|BODY_3|0
+the desired effect|DT VBN NN|BODY_8|0
+a given time|DT VBN NN|BODY_7|0
+our research environment|PRP$ NN NN|BODY_1|0
+the other applications|DT JJ NNS|BODY_9|0
+playback ( con|NN -LRB- NN|BODY_4|0
+most programming languages|JJS NN NNS|BODY_6|0
+the current model|DT JJ NN|BODY_1|0
+a corresponding reply|DT JJ NN|BODY_5|0
+this master/slave relationship|DT NN NN|BODY_1|0
+audio or video|NN CC NN|BODY_4|0
+datatype [ *]name]|NN NN NN|BODY_4|0
+any other process|DT JJ NN|BODY_7|0
+differing training protocols|JJ NN NNS|BODY_7|0
+a window manager|DT NN NN|BODY_6|0
+the queuing mechanism|DT VBG NN|BODY_7|0
+the peer connection|DT JJ NN|BODY_9|0
+the time stamp|DT NN NN|BODY_1|0
+a new service|DT JJ NN|BODY_1|0
+the play activity|DT NN NN|BODY_6|0
+a single server|DT JJ NN|BODY_1|0
+the played sounds|DT VBN NNS|BODY_10|0
+complex server-side constructs|JJ NN NNS|BODY_3|0
+the server design|DT NN NN|BODY_1|0
+ start 8000|JJ NN CD|BODY_9|0
+all user interfaces|DT NN NNS|BODY_1|0
+the remote machine|DT JJ NN|BODY_6|0
+the specification file|DT NN NN|BODY_5|0
+the status service|DT NN NN|BODY_9|0
+temporal media [7]|JJ NNS NN|BODY_5|0
+several audio servers|JJ JJ NNS|BODY_1|0
+new interaction styles|JJ NN NNS|BODY_4|0
+the symmetrical relation|DT JJ NN|BODY_1|0
+a similar approach|DT JJ NN|BODY_1|0
+playing or recording|VBG CC NN|BODY_3|0
+the play action|DT NN NN|BODY_7|0
+multi-modal user interfaces|JJ NN NNS|BODY_5|0
+the sparc processor|DT NN NN|BODY_4|0
+a similar intermixing|DT JJ NN|BODY_1|0
+a status connection|DT NN NN|BODY_1|0
+client/server communications 3|NN NNS CD|BODY_2|0
+its exclusive use|PRP$ JJ NN|BODY_4|0
+the application (|DT NN -LRB-|BODY_1|0
+this section details|DT NN NNS|BODY_1|0
+a log file|DT NN NN|BODY_6|0
+an sm-based server|DT JJ NN|BODY_5|0
+the speech-only interface|DT JJ NN|BODY_1|0
+the appropriate routines|DT JJ NNS|BODY_8|0
+the rpc specifications|DT JJ NNS|BODY_1|0
+the recording hardware|DT NN NN|BODY_7|0
+a sun sparcstation|DT NN NN|BODY_4|0
+this distributed design|DT VBN NN|BODY_1|0
+the termination condition|DT NN NN|BODY_1|0
+the sparc-based server|DT JJ NN|BODY_1|0
+a preemption event|DT NN NN|BODY_1|0
+the client-defined callback|DT NN NN|BODY_25|0
+the previous requests|DT JJ NNS|BODY_5|0
+other server-specific arguments|JJ JJ NNS|BODY_2|0
+figure 4 )|NN CD -RRB-|BODY_8|0
+the graphical interface|DT JJ NN|BODY_1|0
+1.1 application environment|CD NN NN|BODY_1|0
+local client-defined functions|JJ JJ NNS|BODY_7|0
+temporal media [27]|JJ NNS NN|BODY_11|0
+the bsm compiler|DT NN NN|BODY_5|0
+user interface servers|NN NN NNS|BODY_1|0
+6 asynchronous events|CD JJ NNS|BODY_1|0
+a time-based operation|DT JJ NN|BODY_4|0
+the internal buffer|DT JJ NN|BODY_1|0
+the internal state|DT JJ NN|BODY_1|0
+the real-time operation|DT JJ NN|BODY_1|0
+the second message|DT JJ NN|BODY_11|0
+then sound file|RB NN NN|BODY_5|0
+the rpc paradigm|DT JJ NN|BODY_6|0
+5.1 capturing background|CD VBG NN|BODY_1|0
+a variety|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_10|0
+the sm|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+servers|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4|0
+client applications|NN NNS|BODY_5:BODY_1:BODY_3:BODY_4|0
+( 1|-LRB- CD|BODY_6:BODY_5:BODY_2:BODY_3|0
+a client|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_7|0
+asynchronous messages|JJ NNS|BODY_6:BODY_5:BODY_4:BODY_9|0
+the function|DT NN|BODY_11:BODY_5:BODY_1:BODY_3:BODY_7|0
+a sound|DT NN|BODY_2:BODY_3:BODY_4|0
+audio data|JJ NNS|BODY_6:BODY_3:BODY_8|0
+events|NNS|BODY_6:BODY_2:BODY_3:BODY_7:BODY_9|0
+a protocol|DT NN|BODY_6:BODY_3|0
+several applications|JJ NNS|BODY_2:BODY_4|0
+interactive applications|JJ NNS|BODY_5:BODY_4:BODY_10|0
+record data|NN NNS|BODY_5:BODY_3|0
+the speed|DT NN|BODY_6:BODY_2:BODY_9|0
+any number|DT NN|BODY_5:BODY_1:BODY_4|0
+( 2|-LRB- CD|BODY_6:BODY_5:BODY_8|0
+information|NN|BODY_1:BODY_2:BODY_8|0
+a request|DT NN|BODY_3:BODY_4:BODY_8|0
+the data|DT NNS|BODY_6:BODY_5:BODY_1:BODY_7|0
+the calling|DT NN|BODY_2:BODY_4|0
+the types|DT NNS|BODY_3:BODY_4|0
+a file|DT NN|BODY_3|0
+the library|DT NN|BODY_6:BODY_1|0

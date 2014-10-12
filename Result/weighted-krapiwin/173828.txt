@@ -1,0 +1,688 @@
+deadlock-free adaptive routing|JJ JJ NN|TITLE_2:ABSTRACT_3|0
+there|EX|BODY_12:BODY_11:BODY_16:BODY_17:BODY_2:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|3
+the number|DT NN|BODY_6:BODY_5:BODY_18:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_8|0
+the design|DT NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4|1
+the channel dependency graph|DT NN NN NN|BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_3:BODY_4:BODY_7|1
+the theoretical background|DT JJ NN|BODY_2:BODY_3:ABSTRACT_1|1
+the routing algorithms|DT NN NNS|BODY_1:BODY_2:ABSTRACT_3:BODY_3|0
+the new theory|DT JJ NN|ABSTRACT_4:BODY_2|0
+a new theory|DT JJ NN|TITLE_1|0
+the second methodology|DT JJ NN|BODY_1:ABSTRACT_1|0
+physical channels|JJ NNS|ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+cycles|NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4|1
+the conditions|DT NNS|ABSTRACT_2:BODY_3|0
+some examples|DT NNS|BODY_1:BODY_3:ABSTRACT_1|0
+a high degree offreedom|DT JJ NN NN|ABSTRACT_2|0
+an adaptive algorithm isdeadlock-free|DT JJ NN NN|ABSTRACT_3|0
+the first supplies algorithms|DT JJ NNS NNS|ABSTRACT_1|0
+the performance improvement|DT NN NN|ABSTRACT_2|0
+it|PRP|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|5
+we|PRP|BODY_2:BODY_25:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|7
+messages|NNS|BODY_6:BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_19|0
+the network|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+a message|DT NN|BODY_6:BODY_12:BODY_22:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+channels|NNS|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+c i|NN NN|BODY_12:BODY_11:BODY_22:BODY_17:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+the set|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the adaptive algorithm|DT JJ NN|BODY_15:BODY_1:BODY_2:BODY_3:BODY_4|3
+virtual channels|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|1
+the above proposed methodology|DT JJ VBN NN|BODY_2|1
+three adaptive routing strategies|CD JJ NN NNS|BODY_2|1
+deadlock-free adaptive routing algorithms|JJ JJ NN NNS|BODY_6:BODY_5:BODY_11:BODY_4|3
+routing and flow control|NN CC NN NN|BODY_2|1
+another deadlock-free adaptive algorithm|DT JJ NN NN|BODY_1|1
+several adaptive routing algorithms|JJ JJ NN NNS|BODY_2|1
+the virtual channel mechanism|DT JJ NN NN|BODY_1|1
+the total queue size|DT JJ NN NN|BODY_1:BODY_4|1
+the first simulation results|DT JJ NN VBZ|BODY_2|1
+a very simple methodology|DT RB JJ NN|BODY_10|1
+the routing algorithms scale|DT NN NNS NN|BODY_2|1
+section 3 ( case|NN CD -LRB- NN|BODY_4|1
+an important performance degradation|DT JJ NN NN|BODY_2|1
+the above proposed methodologies|DT JJ JJ NNS|BODY_4|1
+the proposed design methodologies|DT VBN NN NNS|BODY_3|1
+the above mentioned theorems|DT JJ VBN NNS|BODY_2|1
+16-flit and 256-flit messages|JJ CC JJ NNS|BODY_9|1
+the flit generation rate|DT NN NN NN|BODY_2:BODY_3:BODY_4|0
+the routing function|DT NN NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the static algorithm|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|3
+an interconnection network i|DT NN NN NN|BODY_2:BODY_3:BODY_7|0
+the new routing function|DT JJ NN NN|BODY_5:BODY_2:BODY_3|0
+the highest useful dimension|DT JJS JJ NN|BODY_5:BODY_2:BODY_4|0
+the average message delay|DT JJ NN NN|BODY_11:BODY_5:BODY_1:BODY_2|0
+a three dimensional network|DT CD JJ NN|BODY_2|0
+1|LS|BODY_5:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8|1
+a channel dependency graph|DT NN NN NN|BODY_11:BODY_2|0
+new adaptive routing algorithms|JJ JJ NN NNS|BODY_2:BODY_4|0
+the message generation rate|DT NN NN NN|BODY_2:BODY_1|0
+as flow control units|IN NN NN NNS|BODY_6|0
+a single virtual channel|DT JJ JJ NN|BODY_2:BODY_3|0
+] and multicomputer nodes|NN CC NN NNS|BODY_5|0
+the binary n-cube (e-cube|DT JJ NN NN|BODY_2|0
+a static routing function|DT JJ NN NN|BODY_2:BODY_3|0
+horizontal and vertical ones|JJ CC JJ NNS|BODY_4|0
+the flit reception rate|DT NN NN NN|BODY_2:BODY_4|0
+a structured buffer pool|DT JJ NN NN|BODY_2|0
+low flit generation rates|JJ NN NN NNS|BODY_1|0
+more complex design methodologies|RBR JJ NN NNS|BODY_1|0
+more virtual channels yields|JJR JJ NNS NNS|BODY_1|0
+static or dynamic priorities|JJ CC JJ NNS|BODY_2|0
+the same theoretical background|DT JJ JJ NN|BODY_2|0
+a constant channel bandwidth|DT JJ NN NN|BODY_4|0
+the adaptive algorithm scales|DT JJ NN NNS|BODY_2:BODY_1|0
+90 % (adaptive algorithm|CD NN JJ NN|BODY_6|0
+more wirable net-work topologies|JJR JJ NN NNS|BODY_3|0
+the new routing algorithm|DT JJ NN NN|BODY_4|0
+a selection function channel|DT NN NN NN|BODY_2|0
+the fourth virtual channel|DT JJ JJ NN|BODY_2:BODY_3|0
+message average traffic figure|NN JJ NN NN|BODY_3|0
+only the routing function|RB DT NN NN|BODY_5|0
+i and c j|NN CC NN RB|BODY_21|0
+r 1 black circles|NN CD JJ NNS|BODY_7|0
+static deadlock-free routing algorithms|JJ JJ NN NNS|BODY_2|0
+any channel dependency graph|DT NN NN NN|BODY_5|0
+extended channel dependency graph|JJ NN NN NN|BODY_6|0
+an adaptive routing function|DT JJ NN NN|BODY_3:BODY_4|0
+c ) applying methodologies|NN -RRB- VBG NNS|BODY_4|0
+different topologies and network|JJ NNS CC NN|BODY_3|0
+each routing step increases|DT VBG NN NNS|BODY_3|0
+only a partial order|RB DT JJ NN|BODY_4|0
+channel contention and message|NN NN CC NN|BODY_5|0
+the very different number|DT RB JJ NN|BODY_3|0
+a routing function r,|DT NN NN NN|BODY_8|0
+the acyclic dependency subgraph|DT JJ NN NN|BODY_4|0
+any flit one hop|DT NN CD NN|BODY_20|0
+the hyperswitch algorithm [4]|DT NN NN NN|BODY_3|0
+a channel subset c|DT NN NN NN|BODY_4|0
+less than 4 %|RBR IN CD NN|BODY_2|0
+all the output channels|DT DT NN NNS|BODY_5|0
+network size figure 4|NN NN NN CD|BODY_6|0
+an almost null increment|DT RB JJ NN|BODY_3|0
+backtracking and hardware modification|NN CC NN NN|BODY_5|0
+the next channel queue|DT JJ NN NN|BODY_4|0
+the static algorithm increases|DT JJ NN NNS|BODY_3|0
+disconnected routing functions )|VBN JJ NNS -RRB-|BODY_2|0
+each channel c i|DT NN NN NN|BODY_1|0
+the message routing hardware|DT NN NN NN|BODY_1|0
+considerably and message delay|RB CC NN NN|BODY_4|0
+more (virtual ) channels|JJR JJ -RRB- NNS|BODY_2|0
+defined using c 2|VBN VBG NN CD|BODY_3|0
+only a few flits|RB DT JJ NNS|BODY_3|0
+a single physical channel|DT JJ JJ NN|BODY_2|0
+a nonempty legal configuration|DT JJ JJ NN|BODY_16|0
+a more flexible condition|DT RBR JJ NN|BODY_2|0
+the static routing algorithm|DT JJ NN NN|BODY_1|0
+the routing subfunction r|DT NN NN NN|BODY_2|0
+more than 1 %|JJR IN CD NN|BODY_2|0
+a routing function r|DT NN NN NN|BODY_8|0
+many deadlock-free routing algorithms|JJ JJ NN NNS|BODY_1|0
+c h ' c|NN NN '' NN|BODY_7|0
+some more general methodologies|DT RBR JJ NNS|BODY_2|0
+c \gamma c 1|NN NN NN CD|BODY_3|0
+integrated communication support [2]|JJ NN NN NNS|BODY_6|0
+a totally mechanical way|DT RB JJ NN|BODY_2|0
+the individual routing nodes|DT JJ NN NNS|BODY_15|0
+the cyclic dependency subgraph|DT JJ NN NN|BODY_3|0
+a connected routing subfunction|DT JJ NN NN|BODY_5|0
+decreasing or increasing order|VBG CC VBG NN|BODY_3|0
+a routing subfunction r|DT JJ NN NN|BODY_13:BODY_7|0
+a fourth virtual channel|DT JJ JJ NN|BODY_3|0
+the most noticeable one|DT RBS JJ NN|BODY_1|0
+four or more channels|CD CC JJR NNS|BODY_3|0
+up to 1024 nodes|RB TO CD NNS|BODY_10|0
+useful edge connectiv- ity|JJ NN NNS NN|BODY_4|0
+node and clock cycle|NN CC NN NN|BODY_6:BODY_5|0
+the node or remote|DT NN CC NN|BODY_5|0
+blocked messages and messages|VBN NNS CC NNS|BODY_2|0
+as message generation rate|IN NN NN NN|BODY_4|0
+all the sink channels|DT DT NN NNS|BODY_5|0
+dimensions 0 and 1|NNS CD CC CD|BODY_5|0
+a deadlock-free adaptive algorithm|DT JJ JJ NN|BODY_1|0
+three virtual channels )|CD JJ NNS -RRB-|BODY_7|0
+the connection machine [16]|DT NN NN NNS|BODY_6|0
+size( c i )|NN NN NN -RRB-|BODY_5|0
+the header flit advances|DT NN NN NNS|BODY_1|0
+this flow control mechanism|DT NN NN NN|BODY_3|0
+general , adaptive routing|JJ , JJ NN|BODY_1|0
+the new algorithm scales|DT JJ NN NNS|BODY_1|0
+the corresponding b channel|DT JJ NN NN|BODY_5|0
+a 16-ary 2-cube network|DT JJ JJ NN|BODY_5|0
+all the implementation details|DT DT NN NNS|BODY_1|0
+the adaptive routing function|DT JJ NN NN|BODY_1|0
+data and tail flits|NNS CC NN NNS|BODY_1|0
+a free physical channel|DT JJ JJ NN|BODY_3|0
+64 to 4096 nodes|CD TO CD NNS|BODY_9|0
+the only practical way|DT JJ JJ NN|BODY_1|0
+the output channel status|DT NN NN NN|BODY_7|0
+the effective network bandwidth|DT JJ NN NN|BODY_3|0
+the less multiplexed channels|DT JJR JJ NNS|BODY_3|0
+up to four messages|IN TO CD NNS|BODY_1|0
+free or busy )|JJ CC JJ -RRB-|BODY_6|0
+its channel dependency graph|PRP$ NN NN NN|BODY_6|0
+fault-tolerant adaptive routing algorithms|JJ JJ NN NNS|BODY_5|0
+the adaptive algorithm increases|DT JJ NN NNS|BODY_1|0
+their channel dependency graph|PRP$ NN NN NN|BODY_5|0
+the faulty one )|DT NN CD -RRB-|BODY_8|0
+an adaptive routing algorithm|DT JJ NN NN|BODY_3|0
+a deadlock .2 proof|DT NN CD NN|BODY_7|0
+that|WDT|BODY_5:BODY_17:BODY_15:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|0
+the channels|DT NNS|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_7|0
+r 1|NN CD|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+physical channel|JJ NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|1
+them|PRP|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+an adaptive algorithm|DT JJ NN|BODY_2:BODY_4|2
+the selection function|DT NN NN|BODY_2:BODY_1:BODY_3|0
+static routing algorithms|JJ NN NNS|BODY_3|1
+two design methodologies|CD NN NNS|BODY_2:BODY_1:BODY_3|2
+an interconnection network|DT NN NN|BODY_1:BODY_3|1
+the same number|DT JJ NN|BODY_1:BODY_4:BODY_8|1
+the store-and-forward routing|DT NN NN|BODY_4|1
+three alternative ways|CD JJ NNS|BODY_2|1
+first generation multicomputers|JJ NN NNS|BODY_5:BODY_1|1
+two important advantages|CD JJ NNS|BODY_3|1
+the main difference|DT JJ NN|BODY_4|1
+c 1|NN CD|BODY_6:BODY_5:BODY_11:BODY_25:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+an important advantage|DT JJ NN|BODY_2|1
+the mega [14]|DT JJ NN|BODY_2|1
+grids and hypercubes|NNS CC NNS|BODY_3|1
+a complex mechanism|DT JJ NN|BODY_6|1
+one|CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|2
+an important reduction|DT JJ NN|BODY_2:BODY_4|2
+the proposed methodology|DT VBN NN|BODY_2|1
+n dimensional meshes|NN JJ NNS|BODY_3|1
+a binary 8-cube|DT JJ NN|BODY_3|1
+an endless cycle|DT JJ NN|BODY_3|1
+delay and throughput|NN CC NN|BODY_3|1
+alternative minimal paths|JJ JJ NNS|BODY_6|1
+the implementation restrictions|DT NN NNS|BODY_6|1
+two virtual channels|CD JJ NNS|BODY_16:BODY_4|1
+the methodology 1|DT NN CD|BODY_8|1
+an important improvement|DT JJ NN|BODY_7|1
+those routing algorithms|DT VBG NNS|BODY_2|1
+the basic assumptions|DT JJ NNS|BODY_1|1
+some basic definitions|DT JJ NNS|BODY_1|1
+this selection function|DT NN NN|BODY_1|1
+3 design methodologies|CD NN NNS|BODY_1|1
+a similar strategy|DT JJ NN|BODY_1|1
+a uniform criterion|DT JJ NN|BODY_2|1
+2n virtual networks|JJ JJ NNS|BODY_5|1
+deadlock-free using theorem|JJ VBG NN|BODY_6:BODY_9|1
+two important differences|CD JJ NNS|BODY_2|1
+the proposed methodologies|DT VBN NNS|BODY_1|1
+all the flits|DT DT NNS|BODY_5:BODY_16:BODY_2:BODY_3|0
+the queue head|DT NN NN|BODY_6:BODY_21:BODY_14:BODY_4:BODY_7|0
+network size|NN NN|BODY_5:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7|1
+channel bandwidth|NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+a minimal path|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_3|0
+channel multiplexing|NN NN|BODY_2:BODY_3:BODY_4:BODY_7|1
+all the channels|DT DT NNS|BODY_5:BODY_3:BODY_7:BODY_8|0
+a sink channel|DT NN NN|BODY_18:BODY_4:BODY_10|0
+more virtual channels|JJR JJ NNS|BODY_2|0
+the performance measures|DT NN NNS|BODY_1:BODY_3|0
+a routing mechanism|DT NN NN|BODY_2|0
+a single channel|DT JJ NN|BODY_5:BODY_2|0
+a directed graph|DT VBN NN|BODY_14:BODY_9|0
+each physical channel|DT JJ NN|BODY_2|0
+the same conditions|DT JJ NNS|BODY_3:BODY_4|0
+three virtual channels|CD JJ NNS|BODY_1:BODY_2|0
+a deadlocked configuration|DT JJ NN|BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_4|0
+a routing function|DT JJ NN|BODY_2:BODY_3|0
+four virtual channels|CD JJ NNS|BODY_5:BODY_3|0
+the same direction|DT JJ NN|BODY_4|0
+a data flit|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_20:BODY_9|0
+virtual channels increases|JJ NNS NNS|BODY_3:BODY_4|0
+the destination node|DT NN NN|BODY_6:BODY_5|0
+the network bisection|DT NN NN|BODY_4:BODY_7|0
+the header flits|DT NN NNS|BODY_2|0
+a store-and-forward mechanism|DT NN NN|BODY_3|0
+outperform static strategies|JJ JJ NNS|BODY_2|0
+store-and-forward routing [3|JJ NN NNS|BODY_3|0
+adaptive routing functions|JJ JJ NNS|BODY_5:BODY_3|0
+the routing algorithm|DT NN NN|BODY_2:BODY_7|0
+channel c i|NN NN NN|BODY_3:BODY_4|0
+a higher priority|DT JJR NN|BODY_2:BODY_3:BODY_4|0
+an indirect dependency|DT JJ NN|BODY_11:BODY_3:BODY_7:BODY_9|0
+the next channel|DT JJ NN|BODY_3|0
+next( c i|JJ NN NN|BODY_6:BODY_23:BODY_8|0
+the total bandwidth|DT JJ NN|BODY_3|0
+a virtual channel|DT JJ NN|BODY_2|0
+a drastic increase|DT JJ NN|BODY_2|0
+the negative effects|DT JJ NNS|BODY_2:BODY_3|0
+the first flit|DT JJ NN|BODY_1:BODY_2:BODY_7|0
+average message delay|JJ NN NN|BODY_12:BODY_2:BODY_4|0
+the queue heads|DT NN NNS|BODY_3:BODY_9|0
+such a way|JJ DT NN|BODY_5:BODY_3|0
+the remaining flits|DT VBG NNS|BODY_3:BODY_4|0
+a message header|DT NN NN|BODY_2:BODY_3|0
+each virtual channel|DT JJ NN|BODY_1|0
+the a channels|DT DT NNS|BODY_6:BODY_2:BODY_7|0
+message performance results|NN NN NNS|BODY_2|0
+the network size|DT NN NN|BODY_5:BODY_4:BODY_8|0
+the message-passing network|DT NN NN|BODY_5:BODY_4|0
+the adaptive routing|DT JJ NN|BODY_2|0
+typical message lengths|JJ NN NNS|BODY_9|0
+that routing function|DT VBG NN|BODY_11:BODY_1|0
+several virtual channels|JJ JJ NNS|BODY_2|0
+the remaining channels|DT JJ NNS|BODY_5|0
+our simulator models|PRP$ NN NNS|BODY_2|0
+a given dimension|DT VBN NN|BODY_3|0
+forward computer networks|JJ NN NNS|BODY_3|0
+the mean value|DT JJ NN|BODY_2|0
+) c i|-RRB- NN NN|BODY_2|0
+the interconnection network|DT NN NN|BODY_2|0
+a header flit|DT NN NN|BODY_5:BODY_10|0
+a large number|DT JJ NN|BODY_5:BODY_2|0
+several routing options|JJ NN NNS|BODY_2:BODY_1|0
+parallel data units|JJ NNS NNS|BODY_5|0
+splitting physical channels|JJ JJ NNS|BODY_6:BODY_8|0
+the bandwidth b|DT NN NN|BODY_4|0
+both rates differ|DT NNS VBP|BODY_2|0
+an input queue|DT NN NN|BODY_4|0
+static routing [10]|JJ NN NN|BODY_2|0
+the negative effect|DT JJ NN|BODY_5|0
+the current node|DT JJ NN|BODY_6:BODY_5|0
+a channel subset|DT NN NN|BODY_2:BODY_3|0
+the previous ones|DT JJ NNS|BODY_3|0
+c \gamma c|NN NN NN|BODY_2:BODY_3|0
+a constant value|DT JJ NN|BODY_2|0
+the 2 operator|DT CD NN|BODY_2|0
+free output channels|JJ NN NNS|BODY_5:BODY_3|0
+a channel|DT NN|BODY_5:BODY_2:BODY_3:BODY_24:BODY_8:BODY_9|0
+some other channels|DT JJ NNS|BODY_2|0
+adaptive routing algorithms|JJ NN NNS|BODY_2:BODY_3|0
+k virtual channels|JJ JJ NNS|BODY_6:BODY_4|0
+a nonempty queue|DT JJ NN|BODY_4:BODY_8|0
+the next sections|DT JJ NNS|BODY_2:BODY_3|0
+the specified route|DT VBN NN|BODY_2|0
+a binary 12-cube|DT JJ CD|BODY_3|0
+a higher number|DT JJR NN|BODY_8|0
+a steady state|DT JJ NN|BODY_2:BODY_7|0
+two possible cases|CD JJ NNS|BODY_2|0
+one clock cycle|CD NN NN|BODY_5:BODY_2|0
+their message header|PRP$ NN NN|BODY_4|0
+the n-cube dimensions|DT JJ NNS|BODY_6:BODY_3|0
+printed circuit boards|VBN NN NNS|BODY_5|0
+the effect|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|3
+the virtual channels|DT JJ NNS|BODY_2|0
+heavily loaded networks|RB JJ NNS|BODY_6|0
+message delay increases|NN NN NNS|BODY_1:BODY_2|0
+account additional information|NN JJ NN|BODY_4|0
+including additional information|VBG JJ NN|BODY_2|0
+the existence|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+a transient period|DT JJ NN|BODY_6|0
+the step 1|DT NN CD|BODY_2:BODY_7|0
+the basic one|DT JJ CD|BODY_5:BODY_3|0
+a considerable influence|DT JJ NN|BODY_2|0
+flit generation rate|NN NN NN|BODY_15|0
+the optimal topology|DT JJ NN|BODY_3|0
+additional hardware support|JJ NN NN|BODY_6:BODY_2|0
+a small value|DT JJ NN|BODY_3|0
+the duplicated channel|DT JJ NN|BODY_3|0
+the indirect dependencies|DT JJ NNS|BODY_5:BODY_26|0
+the static one|DT JJ NN|BODY_4|0
+the requesting mes|DT VBG NNS|BODY_10|0
+a larger effect|DT JJR NN|BODY_4|0
+the term l=b|DT NN NN|BODY_2|0
+different routing algorithms|JJ NN NNS|BODY_2|0
+account memory contention|NN NN NN|BODY_2|0
+a given node|DT VBN NN|BODY_1:BODY_7|0
+a busy channel|DT JJ NN|BODY_4|0
+the anonymous referees|DT JJ NNS|BODY_2|0
+a particular case|DT JJ NN|BODY_1|0
+an abort-and-retry technique|DT NN NN|BODY_2|0
+a single hop|DT JJ NN|BODY_8:BODY_20|0
+the output channel|DT NN NN|BODY_6:BODY_3|0
+valid channel status|JJ NN NN|BODY_3|0
+i and j|NN CC NN|BODY_11|0
+a hardware implementation|DT NN NN|BODY_5|0
+the message header|DT NN NN|BODY_12:BODY_5|0
+the maximum amount|DT JJ NN|BODY_2|0
+a single flit|DT JJ NN|BODY_5:BODY_2|0
+the additional latency|DT JJ NN|BODY_2|0
+the basic properties|DT JJ NNS|BODY_2|0
+the second term|DT JJ NN|BODY_3|0
+the algorithm performance|DT NN NN|BODY_2|0
+a uniform distribution|DT JJ NN|BODY_3|0
+three possible cases|CD JJ NNS|BODY_12:BODY_1|0
+a pipeline fashion|DT NN NN|BODY_5:BODY_3|0
+the same message|DT JJ NN|BODY_9|0
+the binary n-cube|DT JJ NN|BODY_3:BODY_10|0
+a few words|DT JJ NNS|BODY_2|0
+the first one|DT JJ CD|BODY_1|0
+the message length|DT NN NN|BODY_3|0
+a straightforward extension|DT JJ NN|BODY_2|0
+some node n|DT NN NN|BODY_20|0
+any deadlocked configuration|DT JJ NN|BODY_10|0
+p( c )|JJ NN -RRB-|BODY_2|0
+the same probability|DT JJ NN|BODY_5|0
+the former limitations|DT JJ NNS|BODY_3|0
+a higher degree|DT JJR NN|BODY_4|0
+the unidirectional channels|DT JJ NNS|BODY_8|0
+the only ones|DT JJ NNS|BODY_24|0
+1 and 2.|CD CC CD|BODY_5|0
+a random number|DT JJ NN|BODY_3|0
+the maximum sizes|DT JJ NNS|BODY_2|0
+acknowledgment most assumptions|IN JJS NNS|BODY_1|0
+the full proof|DT JJ NN|BODY_4|0
+a high degree|DT JJ NN|BODY_3|0
+a )|DT -RRB-|BODY_6:BODY_11:BODY_5:BODY_3:BODY_4|2
+any minimal path|DT JJ NN|BODY_2|0
+channel dependency graph|NN NN NN|BODY_6|0
+4096 nodes delay|CD NNS NN|BODY_12|0
+current multicomput- ers|JJ NNS NNS|BODY_3|0
+the same set|DT JJ NN|BODY_7|0
+the following conditions|DT JJ NNS|BODY_17|0
+the step 2|DT NN CD|BODY_2|0
+a channel c|DT NN NN|BODY_13|0
+the effective fault-tolerance|DT JJ NN|BODY_3|0
+the resulting network|DT VBG NN|BODY_1|0
+wormhole routing [10]|NN NN NN|BODY_3|0
+an idle network|DT JJ NN|BODY_5:BODY_1|0
+any useful dimension|DT JJ NN|BODY_5|0
+the power set|DT NN NN|BODY_3|0
+their queue head|PRP$ JJ NN|BODY_6:BODY_11|0
+any other node|DT JJ NN|BODY_3|0
+message routing hardware|NN NN NN|BODY_2|0
+a given pair|DT VBN NN|BODY_3|0
+the queue (|DT NN -LRB-|BODY_6|0
+all the messages|PDT DT NNS|BODY_6|0
+a design methodology|DT NN NN|BODY_1|0
+a total order|DT JJ NN|BODY_3|0
+the transient period|DT JJ NN|BODY_1|0
+the former algorithm|DT JJ NN|BODY_3|0
+1 and shares|CD CC NNS|BODY_6|0
+storage constant increases|NN JJ NNS|BODY_3|0
+the new channels|DT JJ NNS|BODY_5|0
+the queue capacity|DT NN NN|BODY_4|0
+multistage interconnection networks|JJ NN NNS|BODY_3|0
+the network bandwidth|DT NN NN|BODY_3|0
+an available queue|DT JJ NN|BODY_2|0
+the second one|DT JJ CD|BODY_1|0
+a certain threshold|DT JJ NN|BODY_5|0
+the theorems|DT NNS|BODY_2:BODY_1:BODY_3:BODY_4|2
+the main reason|DT JJ NN|BODY_2|0
+a new message|DT JJ NN|BODY_3|0
+a regular pattern|DT JJ NN|BODY_4|0
+cycles and deadlock|NNS CC NN|BODY_5|0
+each virtual network|DT JJ NN|BODY_1|0
+the second approach|DT JJ NN|BODY_1|0
+a higher traffic|DT JJR NN|BODY_6|0
+the physical channels|DT JJ NNS|BODY_5|0
+the static ones|DT JJ NNS|BODY_3|0
+relatively large packets|RB JJ NNS|BODY_3|0
+the network diameter|DT NN NN|BODY_6|0
+second generation multicomputers|JJ NN NNS|BODY_1|0
+any faulty node|DT NN NN|BODY_3|0
+the alternative paths|DT NN NNS|BODY_4|0
+the node number|DT NN NN|BODY_5|0
+four outgoing messages|CD JJ NNS|BODY_2|0
+different load conditions|JJ NN NNS|BODY_6|0
+x and y|NN CC NN|BODY_10|0
+uneven channel multiplexing|JJ NN VBG|BODY_4|0
+d and r|NN CC NN|BODY_3|0
+the output channels|DT NN NNS|BODY_3|0
+the multigraph c|DT NN NN|BODY_2|0
+the case c|DT NN NN|BODY_2|0
+no outgoing arcs|DT JJ NNS|BODY_3|0
+more routing options|JJR NN NNS|BODY_6|0
+valid alternative paths|JJ NN NNS|BODY_3|0
+the average delay|DT JJ NN|BODY_3|0
+network size increases|NN NN NNS|BODY_1:BODY_4|0
+any legal configuration|DT JJ NN|BODY_4|0
+a routing subfunction|DT NN NN|BODY_5|0
+the same properties|DT JJ NNS|BODY_2|0
+the last flit|DT JJ NN|BODY_4|0
+the physical channel|DT JJ NN|BODY_2|0
+two opposite effects|CD JJ NNS|BODY_3|0
+the original channel|DT JJ NN|BODY_1|0
+alternative output channels|JJ NN NNS|BODY_6|0
+each routing algorithm|DT NN NN|BODY_1|0
+whose header flit|WP$ NN NN|BODY_4|0
+a larger number|DT JJR NN|BODY_6|0
+a given queue|DT VBN NN|BODY_3|0
+some interesting considerations|DT JJ NNS|BODY_12:BODY_13|0
+that r 1|DT NN CD|BODY_15|0
+c 1 less|NN CD JJR|BODY_9|0
+the actual traffic|DT JJ NN|BODY_5|0
+any channel bandwidth|DT NN NN|BODY_4|0
+a given flit|DT VBN NN|BODY_10|0
+4.1 multicomputer model|CD NN NN|BODY_1|0
+its header flit|PRP$ NN NN|BODY_2|0
+an optimal number|DT JJ NN|BODY_2|0
+absolute performance measures|JJ NN NNS|BODY_3|0
+the same destination|DT JJ NN|BODY_9|0
+a minimal (|DT JJ -LRB-|BODY_2|0
+a physical channel|DT JJ NN|BODY_1|0
+a deadlock .2|DT NN NN|BODY_10|0
+the previous node|DT JJ NN|BODY_11|0
+the flow control|DT NN NN|BODY_6|0
+the basic function|DT JJ NN|BODY_3|0
+the theorem proof|DT NN NN|BODY_7|0
+the worst case|DT JJS NN|BODY_5|0
+a full queue|DT JJ NN|BODY_5|0
+a direct dependency|DT JJ NN|BODY_6:BODY_12|0
+an output queue|DT NN NN|BODY_5|0
+a routing algorithm|DT NN NN|BODY_6|0
+0.4 flits/cycle/node delay|CD NN NN|BODY_16|0
+network perfor- mance|NN NNS NN|BODY_3|0
+100000 virtual channels|CD JJ NNS|BODY_7|0
+its desti- nation|PRP$ NNS NN|BODY_21|0
+all the nodes|DT DT NNS|BODY_3|0
+an analysis [5|DT NN NN|BODY_1|0
+congestion and cycles|NN CC NNS|BODY_7|0
+the next section|DT JJ NN|BODY_4|0
+the simulation results|DT NN NNS|BODY_1|0
+definitions and theorems|NNS CC NNS|BODY_1|0
+the same way|DT JJ NN|BODY_1|0
+2.2 to 3|CD TO CD|BODY_5|0
+g( c;e )|JJ NN -RRB-|BODY_15|0
+any other message|DT JJ NN|BODY_6|0
+a straight-forward extension|DT JJ NN|BODY_1|0
+the next message|DT JJ NN|BODY_5|0
+let r 2|VB NN CD|BODY_1|0
+consideration 3 )|NN CD -RRB-|BODY_4|0
+the message-passing mechanism|DT NN NN|BODY_5|0
+78000 busy channels|CD JJ NNS|BODY_3|0
+the same algorithm|DT JJ NN|BODY_1|0
+an alternative way|DT JJ NN|BODY_1|0
+deadlock-free routing algorithms|JJ NN NNS|BODY_3|0
+several adaptive algorithms|JJ JJ NNS|BODY_1|0
+4 evaluation methodology|CD NN NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+more physical channels|RBR JJ NNS|BODY_1|0
+the old one|DT JJ CD|BODY_6|0
+the former results|DT JJ NNS|BODY_2|0
+their queue heads|PRP$ NN NNS|BODY_5|0
+the independent variable|DT JJ NN|BODY_1|0
+an open question|DT JJ NN|BODY_2|0
+an uneven distribution|DT JJ NN|BODY_1|0
+an independent variable|DT JJ JJ|BODY_3|0
+the maximum value|DT JJ NN|BODY_3|0
+the basic idea|DT JJ NN|BODY_1|0
+all the algorithms|PDT DT NNS|BODY_1|0
+the following sections|DT JJ NNS|BODY_3|0
+the simulation methodology|DT NN NN|BODY_1|0
+the step 3|DT NN CD|BODY_2|0
+the verification step|DT NN NN|BODY_3|0
+a design parameter|DT NN NN|BODY_4|0
+the best choice|DT JJS NN|BODY_3:BODY_4|0
+the best option|DT JJS NN|BODY_4|0
+the per- formance|DT NNS NN|BODY_4|0
+its own buffer|PRP$ JJ NN|BODY_10|0
+network traffic increases|NN NN NNS|BODY_1|0
+the saturation traffic|DT NN NN|BODY_2|0
+two simulation parameters|CD NN NNS|BODY_3|0
+physical chan- nels|JJ NNS NNS|BODY_6|0
+the first approach|DT JJ NN|BODY_1|0
+let c 1|VB NN CD|BODY_1|0
+let c 2|VB NN CD|BODY_1|0
+a higher performance|DT JJR NN|BODY_1|0
+the standard deviation|DT JJ NN|BODY_1|0
+a single message|DT JJ NN|BODY_1|0
+the starting point|DT VBG NN|BODY_3|0
+no routing information|DT NN NN|BODY_4|0
+additional virtual channels|JJ JJ NNS|BODY_4|0
+a tail flit|DT NN NN|BODY_1|0
+another header flit|DT NN NN|BODY_3|0
+the throughput gain|DT NN NN|BODY_1|0
+a useful dimension|DT JJ NN|BODY_1|0
+a legal configuration|DT JJ NN|BODY_1|0
+any output channel|DT NN NN|BODY_4|0
+assumption 6 )|NN CD -RRB-|BODY_6|0
+its next turn|PRP$ JJ NN|BODY_5|0
+systolic communication [21|JJ NN NNS|BODY_2|0
+this routing function|DT NN NN|BODY_2|0
+virtual cut-through [19]|JJ JJ NN|BODY_3|0
+this routing technique|DT NN NN|BODY_1|0
+a random delay|DT JJ NN|BODY_3|0
+the trailing flits|DT VBG NNS|BODY_8|0
+4.2 message generation|CD NN NN|BODY_1|0
+its destination node|PRP$ NN NN|BODY_2|0
+the whole message|DT JJ NN|BODY_4|0
+the message system|DT NN NN|BODY_7|0
+such a case|JJ DT NN|BODY_1|0
+the same subset|DT JJ NN|BODY_10|0
+a single sink|DT JJ NN|BODY_2|0
+the only requirement|DT JJ NN|BODY_1|0
+the channels less|DT NNS JJR|BODY_1|0
+a binary n-cube|DT JJ NN|BODY_1|0
+the second difference|DT JJ NN|BODY_1|0
+message delay|NN NN|BODY_5:BODY_2:BODY_3:BODY_4|2
+a set|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+a node|DT NN|BODY_1:BODY_2:BODY_3:BODY_8|0
+the queues|DT NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+flits|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+account|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|1
+the application|DT NN|BODY_6:BODY_1:BODY_2|1
+the development|DT NN|BODY_2:BODY_3|2
+channel contention|NN NN|BODY_5:BODY_3:BODY_4|0
+an algorithm|DT NN|BODY_2|2
+d|NN|BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_4:BODY_9|0
+the results|DT NNS|BODY_1:BODY_4|1
+cyclic dependencies|NN NNS|BODY_5:BODY_2:BODY_4:BODY_9|0
+its destination|PRP$ NN|BODY_6:BODY_11:BODY_5:BODY_3:BODY_7:BODY_8|0
+the ones|DT NNS|BODY_2:BODY_3|1
+dally|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|1
+dally [10]|RB JJ|BODY_2:BODY_3|1
+that algorithm|DT NN|BODY_1:BODY_2|1
+this algorithm|DT NN|BODY_2:BODY_1|1
+this section|DT NN|BODY_2|1
+the message|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_9|0
+output channels|NN NNS|BODY_5:BODY_3:BODY_4|0
+faulty channels|JJ NNS|BODY_5:BODY_3|1
+the router|DT NN|BODY_1:BODY_2:BODY_3|0
+the algorithm|DT NN|BODY_2:BODY_1:BODY_9|1
+two theorems|CD NNS|BODY_1:BODY_2|2
+c|NN|BODY_13:BODY_1:BODY_3:BODY_14:BODY_4|0
+simulation|NN|BODY_6:BODY_2:BODY_3|1
+k-ary n-cubes|JJ NNS|BODY_4|1
+each node|DT NN|BODY_1:BODY_2|0
+function r|NN NN|BODY_6:BODY_12:BODY_15:BODY_3:BODY_4|0
+the header|DT NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+traffic|NN|BODY_1:BODY_2:BODY_14:BODY_3:BODY_7|0
+no cycles|DT NNS|BODY_6:BODY_5:BODY_17:BODY_2:BODY_10:BODY_7:BODY_9|0
+the use|DT NN|BODY_1:BODY_2:BODY_8|0
+a queue|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+a function|DT NN|BODY_13:BODY_3:BODY_4:BODY_9|0
+a header|DT NN|BODY_13:BODY_2:BODY_3:BODY_8|0
+the implementation|DT NN|BODY_1:BODY_4:BODY_9|0
+a minimal|DT JJ|BODY_11:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+the status|DT NN|BODY_2:BODY_3:BODY_4|0
+alternative paths|NN NNS|BODY_5:BODY_3:BODY_7:BODY_8|0
+throughput|VBN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|0
+theorem 2|NN CD|BODY_1:BODY_2:BODY_7|0
+they|PRP|BODY_5:BODY_1:BODY_3|0
+net-work size|NN NN|BODY_2:BODY_4|0
+a configuration|DT NN|BODY_6:BODY_1:BODY_2|0
+blocked messages|VBN NNS|BODY_6:BODY_2:BODY_10|0
+each channel|DT NN|BODY_3|0
+message headers|NN NNS|BODY_6:BODY_1|0
+r|NN|BODY_1:BODY_2:BODY_3:BODY_9|0
+nodes|NNS|BODY_2:BODY_4:BODY_19:BODY_8|0
+[8 ]|DT NN|BODY_2:BODY_4|0
+header flits|NN NNS|BODY_1:BODY_4:BODY_8|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3|0
+more expensive|RBR JJ|BODY_2|0
+c j|NN RB|BODY_6:BODY_5:BODY_16:BODY_1:BODY_8|0
+a factor|DT NN|BODY_4|0
+the same|DT JJ|BODY_2:BODY_3|0
+message destination|NN NN|BODY_3:BODY_4|0
+the flit|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_8|0
+the channel|DT NN|BODY_5:BODY_2:BODY_10|0
+the throughput|DT NN|BODY_2:BODY_3|0
+c k|NN NN|BODY_11:BODY_1:BODY_7:BODY_8|0
+i|NN|BODY_5:BODY_1:BODY_7|0
+the head|DT NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+wormhole routing|NN NN|BODY_2:BODY_1:BODY_3:BODY_7|0
+another message|DT NN|BODY_5:BODY_14:BODY_8|0
+the time|DT NN|BODY_21:BODY_2:BODY_10|0
+the absence|DT NN|BODY_1:BODY_3:BODY_4|0
+a sink|DT NN|BODY_2:BODY_3:BODY_4|0
+the following|DT VBG|BODY_2|0
+this methodology|DT NN|BODY_1:BODY_3|0
+adaptive algorithms|JJ NNS|BODY_5:BODY_2:BODY_4|0
+those channels|DT NNS|BODY_1:BODY_3:BODY_9|0
+partial buffering|JJ NN|BODY_2:BODY_8|0
+additional delays|JJ NNS|BODY_2|0
+message abortion|NN NN|BODY_4|0
+a way|DT NN|BODY_2|0
+the queue|DT NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_8|0
+a sketch|DT NN|BODY_2|0
+channel dependencies|NN NNS|BODY_2|0
+that message|DT NN|BODY_2|0
+the proof|DT NN|BODY_3|0
+the theory|DT NN|BODY_3|0
+routing|VBG|BODY_5:BODY_2:BODY_1:BODY_3|0
+this case|DT NN|BODY_2:BODY_1:BODY_3|0
+these parameters|DT NNS|BODY_1:BODY_3|0
+equal size|JJ NN|BODY_3|0
+full messages|JJ NNS|BODY_2|0
+' c|POS NN|BODY_5:BODY_2|0
+the bandwidth|DT NN|BODY_2|0
+each simulation|DT NN|BODY_2|0
+any )|DT -RRB-|BODY_3:BODY_7|0
+the simulation|DT NN|BODY_2|0
+its performance|PRP$ NN|BODY_5|0
+the traffic|DT NN|BODY_5:BODY_3|0
+the expense|DT NN|BODY_5|0
+the delay|DT NN|BODY_6:BODY_14|0
+message traffic|NN NN|BODY_6:BODY_3|0
+the probability|DT NN|BODY_2:BODY_3|0
+their destination|PRP$ NN|BODY_19:BODY_4|0
+each one|DT CD|BODY_10:BODY_9|0
+4096-node networks|JJ NNS|BODY_4|0
+the fluctuation|DT NN|BODY_2|0
+free channels|JJ NNS|BODY_9|0
+the vertices|DT NNS|BODY_1:BODY_10|0
+the cost|DT NN|BODY_4|0
+any|DT|BODY_6:BODY_4|0
+routing functions|JJ NNS|BODY_2|0
+one flit|CD NN|BODY_5|0
+clock cycles|NN NNS|BODY_2:BODY_4|0
+deadlock|NN|BODY_2:BODY_4|0
+each time|DT NN|BODY_1:BODY_3:BODY_4|0
+deadlock [6|NN NNS|BODY_4|0
+network i|NN NN|BODY_3|0
+the case|DT NN|BODY_2|0
+consideration 2|NN CD|BODY_6|0
+the hypercube|DT NN|BODY_2|0
+other words|JJ NNS|BODY_15:BODY_7|0
+the minimals|DT NNS|BODY_2:BODY_3|0
+a pair|DT NN|BODY_9|0
+the theorem|DT NN|BODY_2:BODY_1:BODY_10|0
+some messages|DT NNS|BODY_2:BODY_3|0
+the result|DT NN|BODY_2:BODY_1|0
+( assumption|-LRB- NN|BODY_10|0
+a consequence|DT NN|BODY_1|0
+the assumption|DT NN|BODY_4:BODY_9|0
+the curves|DT NNS|BODY_6:BODY_1|0
+the source|DT NN|BODY_6:BODY_3|0
+the distance|DT NN|BODY_2:BODY_3|0
+another distribution|DT NN|BODY_2|0
+a fraction|DT NN|BODY_2|0
+r 2|NN CD|BODY_2:BODY_1:BODY_8|0
+the tail|DT NN|BODY_11:BODY_7|0
+virtual ones|JJ NNS|BODY_5:BODY_4:BODY_9|0
+100000 messages|CD NNS|BODY_4|0
+a time|DT NN|BODY_3|0

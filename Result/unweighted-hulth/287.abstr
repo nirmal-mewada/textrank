@@ -1,0 +1,43 @@
+the ratio|DT NN|BODY_11:BODY_4|0
+the model parameters|DT NN NNS|BODY_2|0
+the lossy inductance|DT JJ NN|BODY_3|0
+the model|DT NN|BODY_2|0
+voice-coil inductor losses|NN NN NNS|BODY_3|0
+the effects|DT NNS|BODY_2|0
+the frequency response|DT NN NN|BODY_4|0
+this dependence|DT NN|BODY_2|0
+circuit models|NN NNS|BODY_2|0
+n|NN|BODY_8|0
+a circuit model|DT NN NN|BODY_3|0
+parameter estimation|NN NN|BODY_3|0
+omega /sup n-1/|JJ NN NN|BODY_7|0
+these elements|DT NNS|BODY_2|0
+a lossless inductor|DT JJ NN|BODY_4|0
+effect|NN|BODY_4|0
+a resistor|DT NN|BODY_5|0
+frequency response|NN NN|BODY_5|0
+the assumption|DT NN|BODY_3|0
+parallel|JJ|BODY_6|0
+the series resistance|DT NN NN|BODY_6|0
+both|DT|BODY_7|0
+which|WDT|BODY_8|0
+a separate element|DT JJ NN|BODY_7|0
+mmf varies|JJ NNS|BODY_6|0
+it|PRP|BODY_8|0
+the core|DT NN|BODY_14|0
+frequency|NN|BODY_15:BODY_9|0
+core flux|NN NN|BODY_5|0
+losses|NNS|BODY_9|0
+mmf|NN|BODY_13|0
+an inductor|DT NN|BODY_10|0
+the flux|DT NN|BODY_12|0
+a linear regression technique|DT NN NN NN|BODY_1|0
+measured data|VBN NNS|BODY_3|0
+a loudspeaker voice-coil|DT JJR NN|BODY_4|0
+experimental data|JJ NNS|BODY_1|0
+a spice example|DT NN NN|BODY_1|0
+a typical driver|DT JJ NN|BODY_5|0
+small-signal operation|JJ NN|BODY_1|0
+loudspeaker voice-coil inductance losses|JJR NN NN NNS|BODY_1|0
+a constant|DT JJ|BODY_9|0
+mathematical expressions|JJ NNS|BODY_1|0

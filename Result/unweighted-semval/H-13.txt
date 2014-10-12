@@ -1,0 +1,388 @@
+it|PRP|BODY_1:BODY_2:BODY_3:BODY_4|0
+users|NNS|BODY_6:ABSTRACT_6:ABSTRACT_11:BODY_13:BODY_3:BODY_8|0
+that|DT|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+one|CD|BODY_5:BODY_1:BODY_3:BODY_14:BODY_4:BODY_8|0
+the user|DT NN|BODY_2:BODY_3:BODY_4:BODY_9|1
+the url|DT JJ|BODY_6:BODY_3:BODY_4:ABSTRACT_9|0
+captions|NNS|BODY_2:ABSTRACT_3:BODY_3:BODY_8|0
+we|PRP|ABSTRACT_2:BODY_1:BODY_2:BODY_4|0
+a summary|DT NN|BODY_5:BODY_3:BODY_7|0
+the query|DT NN|BODY_6:BODY_5:BODY_13:BODY_1|0
+a page|DT NN|BODY_5:BODY_3:BODY_9|0
+the snippet|DT NN|BODY_6:BODY_5:BODY_1:ABSTRACT_7|0
+snippets|NNS|BODY_1:BODY_2:BODY_4|0
+commercial web search engines|JJ NN NN NNS|BODY_2:BODY_3|0
+the query terms|DT NN NNS|BODY_2:BODY_4:BODY_9|0
+the results|DT NNS|BODY_12:BODY_5:BODY_2|0
+the associated page|DT JJ NN|BODY_11:BODY_5|1
+the third caption|DT JJ NN|BODY_2:BODY_4:BODY_7|0
+information storage and retrieval]|NN NN CC NN|ABSTRACT_2|0
+the second result links|DT JJ NN NNS|BODY_2|0
+the same basic structure|DT JJ JJ NN|BODY_2|0
+the first few sentences|DT JJ JJ NNS|BODY_2|0
+algorithms and guidelines|NNS CC NNS|ABSTRACT_5:BODY_2|0
+the main yahoo kids|DT JJ NN NNS|BODY_2|0
+significant words|JJ NNS|BODY_6:BODY_4:BODY_8|0
+newspaper articles|NN NNS|BODY_5:BODY_4|0
+a surprisingly large collection|DT RB JJ NN|BODY_3|0
+the us national institute|DT PRP JJ NN|BODY_4|0
+they|PRP|BODY_1:BODY_2|0
+the highest scoring sentences|DT JJS NN NNS|BODY_5|0
+relatively simple caption features|RB JJ NN NNS|ABSTRACT_3|0
+details|NNS|BODY_6:BODY_5|1
+the altavista search engine|DT JJ NN NN|BODY_4|0
+the necessary test documents|DT JJ NN NNS|BODY_5|0
+figure 1|NN CD|BODY_2:BODY_1:BODY_3|0
+the optimal snippet length|DT JJ JJ NN|BODY_6|0
+all terms query terms|DT NNS NN NNS|ABSTRACT_5|0
+alternative titles and snippets|JJ NNS CC NNS|BODY_5|0
+major web search engines|JJ NN NN NNS|BODY_4|0
+web results|NN NNS|BODY_2:BODY_3|1
+1 www.dmoz.org figure 1|CD JJ NN CD|BODY_2|0
+a commercial search engine|DT JJ NN NN|ABSTRACT_5|0
+a typical web search|DT JJ NN NN|BODY_2|0
+the title and snippet|DT NN CC NN|BODY_3|0
+the open directory project1|DT JJ NN NNS|BODY_3|0
+only a single game|RB DT JJ NN|BODY_4|0
+selects and extracts sentences|NNS CC NNS NNS|BODY_6|0
+the associated web page|DT JJ NN NN|BODY_4|0
+a question answering context|DT NN VBG NN|BODY_3|0
+much the same way|JJ DT JJ NN|BODY_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+msn desktop search system|JJ JJ NN NN|BODY_9|0
+search engine performance [1,2]|NN NN NN NN|BODY_9|0
+the first result links|DT JJ NN NNS|BODY_1|0
+our primary investigative tool|PRP$ JJ JJ NN|BODY_9|0
+cutrell and guan [4|NN CC NN NNS|BODY_1|0
+statistical and linguistic features|JJ CC JJ NNS|BODY_3|0
+the top three results|DT JJ CD NNS|BODY_4|0
+this and other queries|DT CC JJ NNS|BODY_1|0
+different caption generation algorithms|JJ NN NN NNS|BODY_1|0
+web search behavior|NN NN NN|BODY_6:ABSTRACT_4:ABSTRACT_12|0
+the snippets|DT NNS|BODY_6|0
+sentences|NNS|BODY_2:BODY_7|0
+relevance judgments|NN NNS|BODY_6:BODY_5|0
+which|WDT|BODY_12:BODY_6:BODY_5|0
+the logs|DT NNS|BODY_2:BODY_3|0
+the influence|DT NN|TITLE_1:BODY_3:ABSTRACT_1|0
+extractive summarization|JJ NN|BODY_2:BODY_3|0
+user behavior|NN NN|ABSTRACT_6:BODY_10:BODY_4|0
+a clearer idea|DT JJR NN|BODY_4|0
+a web directory|DT NN NN|BODY_2|0
+general terms experimentation|JJ NNS NN|ABSTRACT_4|0
+their content differs|PRP$ NN NNS|BODY_3|0
+the performance|DT NN|BODY_2:BODY_4|0
+a similar study|DT JJ NN|BODY_2|0
+the information need|DT NN NN|BODY_5|0
+three top-level categories|CD JJ NNS|BODY_5|0
+caption features|NN NNS|TITLE_2:BODY_2:BODY_4|0
+the narrow context|DT JJ NN|BODY_2|0
+a recent paper|DT JJ NN|BODY_2|0
+alternative methods|JJ NNS|BODY_2|0
+their influence|PRP$ NN|BODY_2|0
+their results|PRP$ NNS|BODY_2|0
+results|NNS|BODY_3:BODY_7|0
+the first caption|DT JJ NN|BODY_2:BODY_3:BODY_7|0
+the human-generated summaries|DT JJ NNS|BODY_6|0
+an interface typical|DT NN JJ|BODY_2|0
+the foundational work|DT JJ NN|BODY_5|0
+other search applications|JJ NN NNS|BODY_4|0
+a 250-word summary|DT JJ NN|BODY_4|0
+extending and tuning|VBG CC VBG|BODY_3|0
+this basic approach|DT JJ NN|BODY_4|0
+windows|NNS|BODY_3|0
+the body|DT NN|BODY_2:BODY_3|0
+a methodology|DT NN|ABSTRACT_3:BODY_3|0
+an appropriate combination|DT JJ NN|BODY_3|0
+another extractive system|DT JJ NN|BODY_2|0
+standards and technology|NNS CC NN|BODY_5|0
+( duc) series|-LRB- NN NN|BODY_3|0
+broder [3 ]|NN NN NN|BODY_2|0
+three broad categories|CD JJ NNS|BODY_5|0
+the query-dependent snippets|DT NN NNS|BODY_4|0
+these captions|DT NNS|ABSTRACT_3:BODY_8|0
+the figure 1|DT NN CD|BODY_4|0
+the task type|DT NN NN|BODY_7|0
+clickthrough patterns|JJ NNS|TITLE_3:BODY_2|0
+the years duc|DT NNS NN|BODY_1|0
+these page characteristics|DT NN NNS|BODY_1|0
+automatically generated summaries|RB VBN NNS|BODY_8|0
+manually generated summaries|RB VBN NNS|BODY_4:BODY_9|0
+sun et al|NN NNP NN|BODY_3|0
+place|NN|BODY_2|0
+recall and precision|NN CC NN|BODY_3|0
+relatively little research|RB JJ NN|BODY_6|0
+an eye-tracking study|DT JJ NN|BODY_2|0
+an informational query|DT JJ NN|BODY_2|0
+a transactional query|DT JJ NN|BODY_2|0
+an implicit indicator|DT JJ NN|BODY_6|0
+web search performance|NN NN NN|BODY_5|0
+zoom and snippets|NN CC NNS|BODY_9|0
+a navigational query|DT JJ NN|BODY_2|0
+commercial search systems|JJ NN NNS|BODY_7|0
+the same documents|DT JJ NNS|BODY_7|0
+little or nothing|JJ CC NN|BODY_6|0
+human-edited web directories|JJ NN NNS|BODY_2|0
+a particular website|DT JJ NN|BODY_14|0
+a fisheye lens|DT NN NN|BODY_4|0
+their three categories|PRP$ CD NNS|BODY_5|0
+sentences or fragments|NNS CC NNS|BODY_4|0
+other user behavior|JJ NN NN|BODY_4|0
+a brief caption|DT JJ NN|BODY_2|0
+substantial interface changes|JJ NN NNS|BODY_4|1
+the main page|DT JJ NN|BODY_7|0
+the first page|DT JJ NN|BODY_6|0
+the improved generation|DT JJ NN|BODY_3|0
+a whole ,|DT JJ ,|BODY_5|0
+a complete sentence|DT JJ NN|BODY_3|0
+an inappropriate result|DT JJ NN|BODY_4|0
+a querydependent fashion|DT NN NN|BODY_6|0
+top three results|JJ CD NNS|BODY_5|0
+top ranking sentences|JJ JJ NNS|BODY_11|0
+the html header|DT NN NN|BODY_2|0
+the web page|DT NN NN|BODY_2|0
+a query-independent fashion|DT NN NN|BODY_2|0
+all or part|DT CC NN|BODY_8|0
+a given result|DT VBN NN|BODY_4|0
+a substantial impact|DT JJ NN|BODY_3|0
+the search process|DT NN NN|BODY_3|0
+the three captions|DT CD NNS|BODY_1|0
+the apparent intent|DT JJ NN|BODY_12|0
+games|NNS|BODY_8|0
+a user|DT NN|BODY_2:BODY_4|0
+web search results|NN NN NNS|BODY_3|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|0
+the first ,|DT JJ ,|BODY_4|0
+two incomplete sentences|CD JJ NNS|BODY_8|0
+the overall contents|DT JJ NNS|BODY_10|0
+a considerable fraction|DT JJ NN|BODY_1|0
+a non-web context|DT JJ NN|BODY_5|0
+an extracted snippet|DT VBN NN|BODY_5|0
+the final destination|DT JJ NN|BODY_5|0
+the correct choice|DT JJ NN|BODY_1|0
+the query-independent snippets|DT NN NNS|BODY_1|0
+dumais et al|FW FW NN|BODY_1|0
+2.2 document summarization|CD NN NN|BODY_1|0
+the three terms|DT CD NNS|BODY_9|0
+the full text|DT JJ NN|BODY_4|0
+web search engines|NN NN NNS|ABSTRACT_1|0
+goldstein et al|NNP NNP NN|BODY_1|0
+most related research|JJS JJ NN|BODY_1|0
+sufficient clickthrough data|JJ JJ NNS|BODY_5|0
+a principal motivation|DT JJ NN|BODY_1|1
+the basic idea|DT JJ NN|BODY_1|0
+white et al|JJ NNP NN|BODY_1|0
+the category interface|DT NN NN|BODY_10|0
+2.3 clickthroughs queries|CD VBZ NNS|BODY_1|0
+each search result|DT NN NN|BODY_1|0
+2. related work|DT JJ NN|BODY_1|0
+user behavior [1]|NN NN NN|BODY_6|0
+the desired transaction|DT VBN NN|BODY_7|0
+the existing interfaces|DT VBG NNS|BODY_6|1
+the third result|DT JJ NN|BODY_1|0
+tombros and sanderson|NNS CC NN|BODY_1|0
+their improved generation|PRP$ JJ NN|ABSTRACT_6|0
+the document [8]|DT NN NN|BODY_4|0
+these other engines|DT JJ NNS|BODY_6|0
+search result captions|NN NN NNS|ABSTRACT_7|0
+the various sources|DT JJ NNS|BODY_5|0
+the result page|DT NN NN|BODY_6|0
+which search results|WDT NN NNS|ABSTRACT_7|0
+these two categories|DT CD NNS|BODY_4|0
+the second caption|DT JJ NN|BODY_6|0
+the desired page|DT VBN NN|BODY_5|0
+query-dependent summaries|NN NNS|BODY_1:BODY_3|0
+the page|DT NN|BODY_4:BODY_8|0
+clickthroughs|NNS|BODY_3:BODY_7|0
+less fragmentary|JJR JJ|BODY_4|0
+online games|JJ NNS|BODY_4|0
+other researchers|JJ NNS|BODY_2|0
+query-dependent summarization|NN NN|BODY_4|0
+the selection|DT NN|BODY_2|0
+mouse hovers|NN NNS|BODY_6:BODY_7|0
+query terms|NN NNS|BODY_4:BODY_8|0
+document summarization|NN NN|BODY_5:BODY_3|0
+the relevance|DT NN|BODY_4:BODY_8|1
+25 documents|CD NNS|BODY_2|0
+improved methods|VBN NNS|BODY_5|0
+later work|JJ NN|BODY_2|0
+shorter snippets|JJR NNS|BODY_11|0
+the research|DT NN|BODY_7|0
+our study|PRP$ NN|ABSTRACT_2|0
+the approach|DT NN|BODY_6|0
+ongoing research|JJ NN|BODY_8|0
+only two|JJ CD|BODY_8|0
+the windows|DT NNS|BODY_4|0
+the length|DT NN|ABSTRACT_8:BODY_2|0
+additional changes|JJ NNS|BODY_8|0
+web queries|NN NNS|BODY_6|0
+human-created summaries|JJ NNS|BODY_6|0
+relevant documents|JJ NNS|BODY_3|0
+web captions|NN NNS|BODY_2|0
+three alternatives|CD NNS|BODY_2|0
+caption formats|NN NNS|BODY_2|0
+display|NN|BODY_4|0
+re-direction|NN|BODY_2|0
+a hierarchy|DT NN|BODY_3|0
+query goals|NN NNS|BODY_4|0
+a title|DT NN|BODY_5:BODY_1|0
+the area|DT NN|BODY_2|0
+complete sentences|JJ NNS|BODY_3|0
+the value|DT NN|BODY_3|0
+improved performance|VBN NN|BODY_9|0
+a vehicle|DT NN|BODY_6|0
+the articles|DT NNS|BODY_3|0
+informational tasks|JJ NNS|BODY_10|0
+later sections|JJ NNS|BODY_2|0
+web logs|NN NNS|BODY_5|0
+the problem|DT NN|BODY_4|0
+similar relevance|JJ NN|BODY_4|0
+the burden|DT NN|BODY_8|0
+the analysis|DT NN|BODY_4|0
+the presence|DT NN|ABSTRACT_4|0
+the display|DT NN|BODY_2|1
+the few|DT JJ|BODY_4|0
+the captions|DT NNS|BODY_2|0
+a menu|DT NN|BODY_6|0
+longer snippets|RBR NNS|BODY_8|0
+the titles|DT NNS|BODY_6|0
+this approach|DT NN|BODY_3|0
+search engines|NN NNS|BODY_8|0
+an interface|DT NN|BODY_3|0
+pages|NNS|BODY_5:BODY_1|0
+web pages|NN NNS|BODY_6|0
+the caption|DT NN|BODY_11:ABSTRACT_10|0
+a variant|DT NN|BODY_4|0
+caption display|CD NN|BODY_4|0
+document graphs|NN NNS|BODY_4|0
+a role|DT NN|BODY_3|0
+the context|DT NN|BODY_3|0
+query-independent|NN|BODY_7|0
+their taxonomy|PRP$ NN|BODY_1|0
+[12]|NNP|BODY_2|0
+present lists|JJ NNS|ABSTRACT_2|0
+snippet|NN|BODY_2|0
+clickthrough logs|JJ NNS|ABSTRACT_4|0
+their genesis|PRP$ NN|BODY_5|0
+similar approaches|JJ NNS|BODY_3|0
+a list|DT NN|BODY_10|0
+a measure|DT NN|BODY_6|0
+live query|JJ NN|BODY_4|0
+2 duc.nist.gov|CD NN|BODY_6|0
+this list|DT NN|BODY_16|0
+these features|DT NNS|BODY_2|0
+search tasks|NN NNS|BODY_9|0
+the ability|DT NN|BODY_2|0
+the centers|DT NNS|BODY_5|0
+a caption|DT NN|BODY_2|1
+our methodology|PRP$ NN|BODY_3|0
+the process|DT NN|BODY_4|0
+hristidis [16]|PRP$ NNS|BODY_3|0
+similar material|JJ NN|BODY_5|0
+the case|DT NN|BODY_1|0
+our approach|PRP$ NN|BODY_2|0
+participants|NNS|BODY_3|0
+implicit feedback|JJ NN|BODY_5:BODY_17|0
+a collection|DT NN|BODY_4|0
+snippet length|JJ NN|BODY_4|0
+external sources|JJ NNS|BODY_5|0
+20 subjects|CD NNS|BODY_3|0
+them|PRP|BODY_5:BODY_7|0
+these snippets|DT NNS|BODY_5|0
+the role|DT NN|BODY_5|0
+shorter|JJR|BODY_3|0
+normalized measures|JJ NNS|BODY_2|0
+luhn |JJ|BODY_5:BODY_1|0
+the contents|DT NNS|BODY_7|0
+the readability|DT NN|ABSTRACT_6|0
+a link|DT NN|BODY_5|0
+different areas|JJ NNS|BODY_4|0
+multiple websites|JJ NNS|BODY_7|0
+the title|DT NN|BODY_1|0
+systems|NNS|BODY_2|0
+the destination|DT NN|BODY_3|0
+these systems|DT NNS|BODY_5|0
+term frequencies|NN NNS|BODY_3|0
+different lengths|JJ NNS|BODY_3|0
+a document|DT NN|BODY_5|0
+further study|JJ NN|BODY_6|0
+their impact|PRP$ NN|BODY_9|0
+her time|PRP$ NN|BODY_3|0
+other events|JJ NNS|BODY_7|0
+the basis|DT NN|BODY_10|0
+groups results|NNS NNS|BODY_6|0
+et al|NNP NN|BODY_1|0
+either|DT|BODY_4|0
+greater coverage|JJR NN|BODY_3|0
+disease control|NN NN|BODY_6|0
+a group|DT NN|BODY_13|0
+their method|PRP$ NN|BODY_2|0
+aspects|NNS|BODY_3|0
+several respects|JJ NNS|BODY_4|0
+two categories|CD NNS|BODY_5|0
+concisely describes|RB VBZ|BODY_4|0
+clickthrough data|JJ NNS|BODY_7|0
+better judgments|JJR NNS|BODY_3|0
+better understanding|JJR NN|BODY_1|0
+many researchers|JJ NNS|BODY_1|0
+defines|NNS|BODY_2|0
+most research|RBS NN|BODY_1|1
+a topic|DT NN|BODY_1|0
+levinson [13]|NN NN|BODY_1|0
+the topic|DT NN|BODY_6|0
+a number|DT NN|BODY_1|0
+a snippet|DT NN|BODY_1|0
+a url|DT JJ|BODY_1|0
+environmental themes|JJ NNS|BODY_5|0
+human factors|JJ NNS|ABSTRACT_5|0
+their features|PRP$ NNS|BODY_5|0
+document summarization2|NN NN|BODY_8|0
+navigational tasks|JJ NNS|BODY_12|0
+the findings|DT NNS|ABSTRACT_1|0
+baseline summaries|NN NNS|BODY_7|0
+early work|JJ NN|BODY_1|0
+subjects|NNS|BODY_2|0
+other approaches|JJ NNS|BODY_5|0
+the majority|DT NN|BODY_1|0
+the experiments|DT NNS|BODY_1|0
+duc|NN|BODY_2|0
+query re-formulation|NN NN|BODY_9|0
+search engine|NN NN|BODY_5|0
+additional text|JJ NN|BODY_10|0
+the interface|DT NN|BODY_9|0
+comparison|NN|BODY_3|0
+these listings|DT NNS|BODY_6|0
+query-dependent snippets|JJ NNS|BODY_8|0
+luhn [11]|JJ NN|BODY_6|0
+the similarity|DT NN|BODY_1|0
+each year|DT NN|BODY_1|0
+those|DT|BODY_3|0
+web directories|NN NNS|BODY_7|0
+their goal|PRP$ NN|BODY_1|0
+the work|DT NN|BODY_1|0
+2.1 display|CD NN|BODY_1|0
+their system|PRP$ NN|BODY_1|0
+some limitations|DT NNS|BODY_4|0
+the image|DT NN|BODY_1|0
+this influence|DT NN|BODY_1|0
+all three|DT CD|BODY_1|0
+alternative urls|JJ NNS|BODY_4|0
+this judgment|DT NN|BODY_1|0
+close proximity|JJ NN|BODY_9|0
+web search|NN NN|TITLE_4|0
+even worse|RB JJR|BODY_1|0
+unwanted material|JJ NN|BODY_5|0
+these differences|DT NNS|BODY_1|0
+similar variations|JJ NNS|BODY_4|0
+the result|DT NN|BODY_6|1
+evaluations|NNS|BODY_7|0
+broder|NN|BODY_3|0
+evaluation|NN|BODY_1:BODY_4|0
+summarization|NN|BODY_3|0
+part|NN|BODY_7|0
+re-direct|JJ|BODY_2|0
+both|DT|BODY_4|0
+approach|NN|BODY_2|0
+addition|NN|BODY_1|0
+who|WP|BODY_5|0
+homepage|NN|BODY_3|0

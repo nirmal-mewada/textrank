@@ -1,0 +1,34 @@
+the adaptive controller|DT JJ NN|BODY_2|0
+the system|DT NN|BODY_7:BODY_8|0
+an adaptive control methodology|DT JJ NN NN|BODY_2|0
+interpolated nonlinear systems|JJ JJ NNS|BODY_2|0
+nonlinear systems|JJ NNS|BODY_4|0
+nonlinear time-varying systems|JJ NN NNS|BODY_4|0
+systems|NNS|BODY_2|0
+which|WDT|BODY_5|0
+the spatially localized models|DT NN VBN NNS|BODY_2|0
+a class|DT NN|BODY_3|0
+control|NN|BODY_3|0
+rate|NN|BODY_2|0
+interpolations|NNS|BODY_3|0
+nonlinear subsystems|JJ NNS|BODY_4|0
+change|NN|BODY_3|0
+the form|DT NN|BODY_3|0
+takagi-sugeno fuzzy systems|JJ JJ NNS|BODY_4|0
+system dynamics|NN NNS|BODY_4|0
+the proposed adaptive control methods|DT VBN NN NN NNS|BODY_5|0
+online approximators|JJ NNS|BODY_6|0
+radial basis function neural networks )|JJ NN NN JJ NNS -RRB-|BODY_5|0
+all internal signals|DT JJ NNS|BODY_6|0
+the unknown dynamics|DT JJ NNS|BODY_7|0
+a jet engine control problem|DT NN NN NN NN|BODY_3|0
+the performance|DT NN|BODY_1|0
+a time-varying structure|DT NN NN|BODY_5|0
+both theoretical and practical importance|DT JJ CC JJ NN|BODY_5|0
+neural/fuzzy control|JJ NN|BODY_1|0
+we|PRP|BODY_1|0
+input-output feedback linearizable|JJ NN NN|BODY_6|0
+this class|DT NN|BODY_1|0
+assumptions|NNS|BODY_1|0
+both indirect and direct adaptive control methods|DT JJ CC JJ JJ NN NNS|BODY_1|0
+the tracking error|DT NN NN|BODY_8|0

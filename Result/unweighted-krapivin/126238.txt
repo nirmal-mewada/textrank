@@ -1,0 +1,1106 @@
+polygen|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+modules|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+we|PRP|BODY_5:BODY_1:BODY_2:BODY_3|0
+they|PRP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_3:BODY_10:BODY_4|0
+programmers|NNS|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|0
+stubs|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+a set|DT NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the application|DT NN|BODY_6:BODY_5:BODY_2:BODY_37:BODY_4:BODY_7:BODY_8|0
+it|PRP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+them|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+components|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+an application|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+executables|NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_3:BODY_4:BODY_7:BODY_8|0
+example|NN|BODY_2:BODY_1:BODY_3|0
+the two modules|DT CD NNS|BODY_5:BODY_16:BODY_2:BODY_1:BODY_4|0
+the configuration|DT NN|BODY_6:BODY_2:BODY_10:BODY_4:BODY_9|0
+a configuration|DT NN|BODY_5:BODY_2:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+a partitioning|DT NN|BODY_6:BODY_12:BODY_2:BODY_1:BODY_4|0
+(|-LRB-|BODY_6:BODY_1:BODY_2:BODY_4:BODY_9|0
+the form|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+polylith|NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+)|-RRB-|BODY_5:BODY_23:BODY_2:BODY_30|0
+users|NNS|BODY_6:BODY_5:BODY_4|0
+the use|DT NN|BODY_11:BODY_3:BODY_4:BODY_8|0
+the makefile|DT NN|BODY_13:BODY_1:BODY_3:BODY_7|0
+executable objects|JJ NNS|BODY_6:BODY_1:BODY_2:BODY_4:BODY_7:BODY_9|0
+a module specification|DT NN NN|BODY_1:BODY_2:BODY_4|0
+compatibility|NN|BODY_5:BODY_3:BODY_4|0
+the user|DT NN|BODY_6:BODY_36:BODY_11:BODY_1:BODY_7|0
+an environment|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+reuse|NN|BODY_5:BODY_4:BODY_8|0
+terms|NNS|BODY_5:BODY_2:BODY_4|0
+one|CD|BODY_6:BODY_11:BODY_2|0
+|NN|BODY_12:BODY_5:BODY_3:BODY_7|0
+the instances|DT NNS|BODY_5:BODY_2:BODY_3|0
+the system|DT NN|BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_1:BODY_7:BODY_9|0
+this|DT|BODY_2:BODY_1:BODY_10|0
+the first place|DT JJ NN|BODY_15:BODY_4:BODY_9|0
+the interface software|DT NN NN|BODY_5:BODY_2:BODY_3|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_2|0
+use|NN|BODY_13:BODY_4:BODY_9|0
+server|NN|BODY_5:BODY_7:BODY_9|0
+the modules|DT NNS|BODY_2:BODY_7|0
+interfaces|NNS|BODY_4:BODY_7|0
+a design|DT NN|BODY_4:BODY_7:BODY_9|0
+the interfaces|DT NNS|BODY_1:BODY_2:BODY_3|0
+source programs|NN NNS|BODY_2:BODY_3|0
+the package|DT NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_4|0
+techniques|NNS|BODY_11:BODY_2|0
+figure 3|NN CD|BODY_13:BODY_1:BODY_4|0
+integration|NN|BODY_17:BODY_2:BODY_4:BODY_7|0
+this case|DT NN|BODY_1:BODY_4|0
+.e|NN|BODY_5:BODY_10:BODY_7|0
+a package|DT NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+an example|DT NN|BODY_1:BODY_2|0
+rules|NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+interfacing decisions|NN NNS|BODY_2:BODY_3|0
+this approach|DT NN|BODY_2:BODY_1:BODY_3|0
+the root|DT NN|BODY_2:BODY_7:BODY_8|0
+interface software|NN NN|BODY_12:BODY_1:BODY_4:BODY_9|0
+part|NN|BODY_6:BODY_2:BODY_4|0
+test|NN|BODY_35:BODY_12:BODY_11|0
+mils|NNS|BODY_2:BODY_3|0
+linkers|NNS|BODY_6:BODY_7:BODY_9|0
+tools|NNS|BODY_3:BODY_4|0
+our approach|PRP$ NN|BODY_6:BODY_5:BODY_4|0
+the composition rules|DT NN NNS|BODY_1:BODY_3:BODY_4|0
+packaging|NN|BODY_1:BODY_3|0
+implementations|NNS|BODY_10:BODY_8|0
+a valid partitioning|DT JJ NN|BODY_3:BODY_4:BODY_7|0
+heterogeneity|NN|BODY_5:BODY_4:BODY_8|0
+figure 6|NN CD|BODY_1:BODY_2|0
+this example|DT NN|BODY_1:BODY_4|0
+an implementation|DT NN|BODY_6:BODY_3|0
+[str] )|NNP -RRB-|BODY_12:BODY_17|0
+a few simple rules|DT JJ JJ NNS|BODY_6:ABSTRACT_6|0
+the methods|DT NNS|BODY_2:BODY_4:BODY_9|0
+a collection|DT NN|BODY_2:BODY_3|0
+the package tool|DT NN NN|BODY_2:BODY_3|0
+our environment|PRP$ NN|BODY_5:BODY_1|0
+the graph corresponds|DT NN NNS|BODY_2|0
+ext . %d|JJ . NNP|BODY_3:BODY_7|0
+a module|DT NN|BODY_6:BODY_2:BODY_4|0
+client|NN|BODY_3:BODY_20|0
+a list|DT NN|BODY_5:BODY_2:BODY_4|0
+an abstract description|DT JJ NN|BODY_3:BODY_8|0
+a composite specification|DT JJ NN|BODY_2:BODY_1|0
+compilers|NNS|BODY_5:BODY_2:BODY_8|0
+a design activity|DT NN NN|BODY_2|0
+a keyword|DT NN|BODY_2|0
+different communication mechanisms|JJ NN NNS|BODY_2|0
+idl ) [15 ] project|JJ -RRB- CD NN NN|BODY_2|0
+some cases|DT NNS|BODY_2|0
+the partitioning algorithm|DT NN NN|BODY_2|0
+the symbolic name|DT JJ NN|BODY_2|0
+this goal|DT NN|BODY_5:BODY_2:BODY_1|0
+figure|NN|BODY_6:BODY_5:BODY_9|0
+the objects|DT NNS|BODY_4:BODY_7|0
+integration methods|NN NNS|BODY_6:BODY_5:BODY_1|0
+source languages|NN NNS|BODY_5:BODY_4|0
+printf(  name|NN JJ NN|BODY_13:BODY_7:BODY_9|0
+their application|PRP$ NN|ABSTRACT_4:BODY_3:BODY_4|0
+]|NN|BODY_6:BODY_3|0
+the properties and interfaces|DT NNS CC NNS|BODY_5:BODY_3|0
+a method|DT NN|BODY_2|0
+each module|DT NN|BODY_6:BODY_5|0
+the commands|DT NNS|BODY_1:BODY_2|0
+the generated stubs|DT VBN NNS|BODY_2:BODY_1|0
+figure 11|NN CD|BODY_1:BODY_2|0
+the interconnection capabilities|DT NN NNS|BODY_6:BODY_3|0
+the properties|DT NNS|BODY_2:BODY_4|0
+a single executable object|DT JJ JJ NN|BODY_3:BODY_7|0
+software components|NN NNS|BODY_5|0
+the goal|DT NN|BODY_5:BODY_4|0
+whose run-time performance|WP$ NN NN|ABSTRACT_7:BODY_7|0
+assertions|NNS|BODY_3:BODY_4|0
+a single processor|DT JJ NN|BODY_5:BODY_3|0
+applications|NNS|BODY_6:BODY_5|0
+the composition method|DT NN NN|BODY_3:BODY_8:BODY_9|0
+a packaging system|DT NN NN|TITLE_1:BODY_2:BODY_3:ABSTRACT_1|0
+) ( cadar list|-RRB- -LRB- NN NN|BODY_9|0
+the polylith tcp/ip-based bus|DT NN JJ NN|BODY_12:BODY_3|0
+ )|NN -RRB-|BODY_1|0
+this method|DT NN|BODY_2:BODY_1|0
+a composition|DT NN|BODY_4|0
+properties|NNS|BODY_4|0
+system and language schema files|NN CC NN NN NNS|BODY_2|0
+the polylith mil|DT NN NN|BODY_2|0
+this parameterization|DT NN|BODY_4|0
+instances|NNS|BODY_6:BODY_4:BODY_7|0
+c|NN|BODY_2:BODY_9|0
+the constraints|DT NNS|BODY_4:BODY_9|0
+the compatibility rules|DT NN NNS|BODY_3:BODY_4|0
+a tree|DT NN|BODY_2:BODY_3|0
+the details|DT NNS|BODY_5:BODY_3|0
+courier [21]|NN NN|BODY_2|0
+issues|NNS|BODY_3|0
+mil projects|JJ NNS|BODY_2|0
+sunrpc [19]|JJ NN|BODY_3|0
+the package rule modules(|DT NN NN NNS|BODY_3|0
+the rule base and attempts|DT NN NN CC NNS|BODY_2|0
+dependencies|NNS|BODY_6:BODY_5|0
+sets|NNS|BODY_6:BODY_4|0
+software configurations|NN NNS|BODY_6:BODY_3|0
+a component|DT NN|BODY_3:BODY_4|0
+the software bus|DT NN NN|BODY_5:BODY_9|0
+the leverage|DT NN|BODY_5:BODY_4|0
+the package goal|DT NN NN|BODY_2|0
+module specifications|JJ NNS|BODY_2:BODY_1|0
+figure 10|NN CD|BODY_2:BODY_1|0
+the components|DT NNS|BODY_3|0
+the name|DT NN|BODY_2:BODY_8|0
+the same programming language|DT JJ NN NN|BODY_3:BODY_4|0
+separate executable objects|JJ JJ NNS|BODY_3:BODY_4|0
+i .e|NN NN|BODY_5:BODY_9|0
+a byteswap function|DT NN NN|BODY_2|0
+differing representations|JJ NNS|BODY_5|0
+,lookup ,test )|NN NN -RRB-|BODY_26|0
+a dispatcher routine|DT NN NN|BODY_2|0
+a primitive type|DT JJ NN|BODY_2|0
+countmain( [x-l],m)|NN NN|BODY_9|0
+terconnection system|NN NN|BODY_36|0
+their design decisions|PRP$ NN NNS|BODY_2|0
+parameters|NNS|BODY_5|0
+script|NN|BODY_2|0
+constraints|NNS|BODY_4:BODY_8|0
+the name polylith tcpip|DT NN NN NN|BODY_5|0
+data|NNS|BODY_7|0
+heterogeneous components|JJ NNS|BODY_2:BODY_3|0
+partitions|NNS|BODY_6:BODY_1:BODY_3|0
+optional ) ( user design activity ) library|JJ -RRB- -LRB- NN NN NN -RRB- NN|BODY_2|0
+most|JJS|BODY_1:BODY_3|0
+many years|JJ NNS|BODY_2|0
+an important difference|DT JJ NN|BODY_2|0
+prolog|NN|BODY_6:BODY_1:BODY_3|0
+the cost|DT NN|BODY_6|0
+the integration task|DT NN NN|BODY_2|0
+figure 5|NN CD|BODY_5:BODY_2:BODY_3|0
+methods|NNS|BODY_5:BODY_4|0
+both modules|DT NNS|BODY_6:BODY_3|0
+many forms|JJ NNS|BODY_2:BODY_3|0
+various programming languages|JJ NN NNS|BODY_10|0
+execution location|NN NN|BODY_2|0
+executable|NN|BODY_3:BODY_4|0
+module instances|JJ NNS|BODY_5:BODY_4|0
+primitive module specifications|JJ JJ NNS|BODY_5:BODY_4|0
+other types|JJ NNS|BODY_5|0
+the ability|DT NN|BODY_2|0
+custom interface software|NN NN NN|BODY_4|0
+= [i1 ,i2|SYM CD NNS|BODY_4|0
+existing forms|VBG NNS|BODY_2|0
+the potential|DT NN|BODY_2|0
+the host machine konky .cs|DT NN NN JJ NNS|BODY_4|0
+a single executable|DT JJ NN|BODY_7|0
+two different machines|CD JJ NNS|BODY_6|0
+an era|DT NN|BODY_2|0
+coupling|NN|BODY_2|0
+both|DT|BODY_3:BODY_7|0
+module client f /*|NN NN NN NNS|BODY_2|0
+projects|NNS|BODY_2|0
+another form|DT NN|BODY_6|0
+a configuration program|DT NN NN|BODY_3:BODY_7|0
+the source programs|DT NN NNS|BODY_2:BODY_3|0
+the programs|DT NNS|BODY_4|0
+abstract data types|JJ NNS NNS|BODY_2|0
+all representation issues|DT NN NNS|BODY_10|0
+all inter-module communication|DT JJ NN|BODY_7|0
+the same host|DT JJ NN|BODY_3:BODY_10|0
+both modules and bindings|DT NNS CC NNS|BODY_2|0
+client component|NN NN|BODY_15|0
+the bindings|DT NNS|BODY_6:BODY_4|0
+source transformations|NN NNS|BODY_6|0
+a small set|DT JJ NN|BODY_2|0
+rpc or rev stubs|NN CC NN NNS|BODY_5|0
+the environment|DT NN|BODY_4|0
+section 3.3|NN CD|BODY_3|0
+all the components|PDT DT NNS|BODY_6:BODY_4|0
+what types|WDT NNS|BODY_3|0
+the stubs|DT NNS|BODY_6:BODY_1|0
+further parameterizing|JJ VBG|BODY_4|0
+the information|DT NN|BODY_3|0
+the rules|DT NNS|BODY_1:BODY_4|0
+figure 1|NN CD|BODY_2:BODY_4|0
+a new rule declaring compatibility|DT JJ NN VBG NN|BODY_2|0
+rule-based software composition models|JJ NN NN NNS|BODY_2|0
+the createpackage sub-goal|DT NN NN|BODY_2|0
+the processes|DT NNS|BODY_3|0
+two hosts|CD NNS|BODY_4|0
+each application|DT NN|ABSTRACT_2:BODY_2|0
+code generation rules|NN NN NNS|BODY_3:BODY_4|0
+the partitioning|DT NN|BODY_2:BODY_1|0
+two modules|CD NNS|BODY_2:BODY_1|0
+efficient remote evaluation mechanisms|JJ JJ NN NNS|BODY_5|0
+the extra code|DT JJ NN|BODY_2:BODY_1|0
+ f char int retval|JJ NN NN NN NN|BODY_10:BODY_8|0
+t|NN|BODY_5:BODY_7|0
+source components|NN NNS|BODY_4:BODY_8|0
+the phone application|DT NN NN|BODY_13:BODY_10|0
+integration activities|NN NNS|BODY_3|0
+the hrpc project|DT NN NN|BODY_3|0
+stub generators|JJ NNS|BODY_3:BODY_10|0
+the native linker/loader ( e .g.|DT JJ NN -LRB- NN NNP|BODY_11|0
+'stub generation|NN NN|BODY_2|0
+a unix makefile|DT NN NN|BODY_3:BODY_4|0
+.umd .edu'|JJ CD|BODY_24|0
+a single type system|DT JJ NN NN|BODY_4|0
+) and server ( right|-RRB- CC NN -LRB- NN|BODY_34|0
+a constructed type ( structure , array )|DT VBN NN -LRB- NN , NN -RRB-|BODY_4|0
+instance )|NN -RRB-|BODY_7|0
+interfacing requirements|NN NNS|ABSTRACT_4:BODY_4|0
+the typical 'read , eval and print|DT JJ JJ , JJ CC NN|BODY_4|0
+a site administrator|DT NN NN|BODY_1:BODY_4|0
+this way|DT NN|BODY_1:BODY_4|0
+the 'interface pattern'|DT NN NN|BODY_3|0
+instances i1|NNS NNS|BODY_5|0
+the composite specification|DT JJ NN|BODY_1:BODY_7|0
+a  %  prompt )|DT NN NN NN JJ -RRB-|BODY_4|0
+. bind(i1 ,lookup|. NN NN|BODY_25|0
+[x-l],c executable )|JJ NN -RRB-|BODY_8|0
+the composition phase )|DT NN NN -RRB-|BODY_3|0
+extraction tools|NN NNS|BODY_5:BODY_1|0
+the new 'main' program|DT JJ JJ NN|BODY_3|0
+composite annotated design ( geometric data|JJ JJ NN -LRB- JJ NN|BODY_3|0
+the name test |DT NN NN|BODY_3|0
+) instances|-RRB- NNS|BODY_35|0
+integer , string , boolean , float )|NN , NN , JJ , NN -RRB-|BODY_3|0
+a result|DT NN|BODY_5:BODY_1|0
+few|JJ|BODY_3|0
+their specifications|PRP$ NNS|BODY_11|0
+a separate module|DT JJ NN|BODY_3|0
+ client|JJ NN|BODY_7:BODY_9|0
+the interprocess communication facilities|DT NN NN NNS|BODY_7|0
+our execution environment|PRP$ NN NN|BODY_1:BODY_3|0
+configuration management tools|NN NN NNS|BODY_4|0
+two separate objects|CD JJ NNS|BODY_6|0
+the type|DT NN|BODY_5|0
+the variable t|DT JJ NN|BODY_4|0
+) configuration rule base polygen package executables extraction phase generation phase composition phase construction figure 4|-RRB- NN NN NN NN NN NNS NN NN NN NN NN NN NN NN CD|BODY_4|0
+each composition method|DT NN NN|BODY_1:BODY_4|0
+( 3 )|-LRB- CD -RRB-|BODY_2|0
+c_source server|NN NN|BODY_6|0
+,server ,test|NN NN|BODY_22|0
+the order and type|DT NN CC NN|BODY_4|0
+the distinct phases|DT JJ NNS|BODY_2|0
+. location(i2|. NN|BODY_23|0
+the polylith c_instance client|DT NN NN NN|BODY_5|0
+[x],c executable )|NN NN -RRB-|BODY_6|0
+this paper|DT NN|BODY_3:BODY_4|0
+existing servers|VBG NNS|BODY_5|0
+ #|JJ #|BODY_29|0
+50 prolog rules|CD NN NNS|BODY_2|0
+a binary image ) wrapgen a2.w|DT JJ NN -RRB- NN NN|BODY_27|0
+a bottom-up fashion|DT JJ NN|BODY_2|0
+a stub|DT NN|BODY_2|0
+a valid partition|DT JJ NN|BODY_1|0
+efficient interface mechanisms|JJ NN NNS|BODY_1|0
+interconnection abstractions|NN NNS|BODY_2|0
+only polylith|JJ NN|BODY_2|0
+our inference capability|PRP$ NN NN|BODY_1|0
+such a module|PDT DT NN|BODY_1|0
+the -m option|DT NN NN|BODY_1|0
+the a2.lsp wrapper|DT JJ NN|BODY_28|0
+the current polygen driver code|DT JJ NN NN NN|BODY_1|0
+the executables|DT NNS|BODY_2|0
+the first executable object|DT JJ NN NN|BODY_26|0
+figure module server f /*|NN NN NN NN NNS|BODY_3|0
+these rules|DT NNS|BODY_1:BODY_2|0
+.edu' )|CD -RRB-|BODY_21|0
+client .o|NN IN|BODY_24|0
+the module|DT NN|BODY_6:BODY_3|0
+( cond|-LRB- NN|BODY_5|0
+the design (user|DT NN NN|BODY_3|0
+( message|-LRB- NN|BODY_19|0
+i , null , null , &r )|FW , JJ , JJ , JJ -RRB-|BODY_16|0
+-lith|NNP|BODY_25|0
+system administrators|NN NNS|BODY_2|0
+the server )|DT NN -RRB-|BODY_3|0
+a1.c|NN|BODY_3|0
+the former|DT JJ|BODY_4|0
+those concerning visibility or compatibility|DT VBG NN CC NN|BODY_6|0
+the process|DT NN|BODY_1:BODY_8|0
+c_executable a2|JJ NN|BODY_8|0
+-f|NNP|BODY_30|0
+a tcp/ip-based bus|DT JJ NN|BODY_5:BODY_8|0
+reason|NN|BODY_1:BODY_9|0
+( defun mh-dispatcher|-LRB- JJ NN|BODY_18|0
+return|NN|BODY_17|0
+kcl_source a1|NN NNS|BODY_7|0
+many systems|JJ NNS|BODY_5|0
+mh shutdown(|NN NN|BODY_8|0
+main(argc ,argv ) f int client main(argc ,argv )|JJ NN -RRB- NN NN NN JJ NN -RRB-|BODY_7|0
+polygen-created interfaces|JJ NNS|BODY_3|0
+a2|DT|BODY_31|0
+architectures|NNS|BODY_6|0
+other modules|JJ NNS|BODY_11:BODY_2|0
+its entirety|PRP$ NN|BODY_5|0
+( (equal name|-LRB- JJ NN|BODY_7|0
+the integration needs|DT NN NNS|BODY_3|0
+the representation|DT NN|BODY_6|0
+subsequent changes|JJ NNS|BODY_4|0
+' ( ( dave ( defun lookup ( name|'' -LRB- -LRB- NN -LRB- JJ NN -LRB- NN|BODY_3|0
+certainly more source|RB JJR NN|BODY_6|0
+( receive(fd|-LRB- NN|BODY_3|0
+the client specification|DT NN NN|BODY_8|0
+. location(|. NN|BODY_19|0
+horus rpc compilers|NN NN NNS|BODY_2|0
+a shared-memory multiprocessor|DT NN NN|BODY_5|0
+' operation|POS NN|BODY_5|0
+h )|NN -RRB-|BODY_12|0
+( desc|-LRB- NN|BODY_11|0
+communication issues|NN NNS|BODY_3|0
+a1.c #include|JJ NN|BODY_5|0
+the a1.c wrapper|DT JJ NN|BODY_22|0
+the communication system|DT NN NN|BODY_5|0
+! printf(|. NN|BODY_5|0
+often dependent|RB JJ|BODY_7|0
+wrappers|NNS|BODY_32|0
+rules yields|NNS NNS|BODY_3|0
+responsibilities|NNS|BODY_3|0
+(null list|JJ NN|BODY_6|0
+. main( client|. NN NN|BODY_10|0
+the partition goal|DT NN NN|BODY_2:BODY_8|0
+figure 2|NN CD|BODY_1:BODY_3|0
+-c client.c|JJ NN|BODY_18|0
+) ( table-lookup name table ) ( defun table-lookup ( name list|-RRB- -LRB- NN NN NN -RRB- -LRB- JJ NN -LRB- NN NN|BODY_4|0
+( sender desc|-LRB- NN NN|BODY_14|0
+application programs|NN NNS|BODY_12:BODY_1|0
+loaders|NNS|BODY_7|0
+,'flubber.cs|NNS|BODY_20|0
+more source code|JJR NN NN|BODY_3|0
+declarations|NNS|BODY_2|0
+the polygen packaging process|DT NN NN NN|BODY_5|0
+) ( interface ( car message|-RRB- -LRB- NN -LRB- NN NN|BODY_21|0
+location(x ,s)|NN NN|BODY_4|0
+the interface descriptions|DT NN NNS|BODY_3:BODY_8|0
+. include( client ,'client .h'|. NN NN JJ NNS|BODY_9|0
+.h|IN|BODY_6|0
+a1.o cc -o|DT IN IN|BODY_23|0
+a logically-correct design|DT JJ NN|BODY_3|0
+than|IN|BODY_4|0
+developers|NNS|BODY_1:BODY_2|0
+software reuse|NN NN|BODY_3|0
+all the configuration|PDT DT NN|BODY_3|0
+) ( cond ( (equal interface lookup|-RRB- -LRB- NN -LRB- JJ NN NN|BODY_25|0
+cadr message|JJ NN|BODY_28|0
+their values|PRP$ NNS|BODY_3|0
+location ,[s],l)|NN NNS|BODY_5|0
+. language( client ,'c'|. NN NN NNS|BODY_7|0
+the programmer|DT NN|BODY_9|0
+the second executable object|DT JJ NN NN|BODY_32|0
+the client|DT NN|BODY_33|0
+lookup(arg1 ) char *arg1|NN -RRB- NN NN|BODY_10|0
+mh|NN|BODY_14|0
+. source( client ,'client.c'|. NN NN NNS|BODY_8|0
+'server.lsp' )|JJ -RRB-|BODY_15|0
+. source(server|. NN|BODY_14|0
+( mh-readselect|-LRB- JJ|BODY_20|0
+createpackage acts|JJ NNS|BODY_6|0
+module adaptations|NN NNS|BODY_3|0
+the implementation differences|DT NN NNS|BODY_6|0
+kcl_executable test|JJ NN|BODY_9|0
+one package|CD NN|BODY_2|0
+( mh-write lookup |-LRB- JJ NN|BODY_26|0
+lookup ( car (|NN -LRB- NN -LRB-|BODY_27|0
+a sequence|DT NN|BODY_6|0
+configurations|NNS|BODY_3:BODY_10|0
+retval )|NN -RRB-|BODY_5|0
+module 'main' ( left ) and function 'lookup ' ( right )|JJ JJ -LRB- NN -RRB- CC NN JJ '' -LRB- NN -RRB-|BODY_11|0
+( lookup|-LRB- NN|BODY_15|0
+all ,r,null )|DT NN -RRB-|BODY_9|0
+a programmer|DT NN|BODY_7|0
+client.co csc server.cl|NN NN NN|BODY_9|0
+a tedious task|DT JJ NN|BODY_2|0
+partition goals|NN NNS|BODY_2|0
+their design|PRP$ NN|BODY_6|0
+h ) ) )|NN -RRB- -RRB- -RRB-|BODY_13|0
+a predicate expression|DT JJ NN|BODY_5|0
+scripts|NNS|BODY_4|0
+buffer )|NN -RRB-|BODY_4|0
+the client .h|DT NN NN|BODY_16|0
+the application specification|DT NN NN|BODY_6|0
+interface|NN|BODY_11|0
+the variable n|DT JJ NN|BODY_2|0
+the compatibility|DT NN|BODY_9|0
+( caar list|-LRB- NN NN|BODY_8|0
+) ( defun dispatcher ( h ) ( do*|-RRB- -LRB- JJ NN -LRB- NN -RRB- -LRB- NN|BODY_10|0
+approach|NN|BODY_6|0
+their performance|PRP$ NN|BODY_4|0
+whatever communication system|WDT NN NN|BODY_5|0
+makefile rules|NN NNS|BODY_6|0
+several valid partitionings|JJ JJ NNS|BODY_3|0
+ipc properties|JJ NNS|BODY_3|0
+polylith_tcpip i2|NN NN|BODY_10|0
+the inter-process communication|DT JJ NN|BODY_10|0
+heterogeneous data|JJ NNS|BODY_3|0
+new environments|JJ NNS|BODY_8|0
+lisp|NN|BODY_6|0
+need )|NN -RRB-|BODY_8|0
+flexibility|NN|BODY_6|0
+its own window|PRP$ JJ NN|BODY_7|0
+the specification|DT NN|BODY_5|0
+test.co csc client.cl|NN NN NN|BODY_7|0
+the capabilities|DT NNS|BODY_5|0
+stub production|NN NN|BODY_3|0
+the instance i2|DT NN NN|BODY_2|0
+the integration capabilities|DT NN NNS|BODY_5:BODY_1:BODY_2|0
+a shell script ) echo kcl server.lsp a2.lsp |DT NN NN -RRB- VBP NN NN JJ|BODY_33|0
+the server specification|DT NN NN|BODY_10|0
+those|DT|BODY_3|0
+the manual adaptation|DT JJ NN|BODY_2|0
+the aid|DT NN|BODY_7|0
+the likelihood|DT NN|BODY_3|0
+the availability|DT NN|BODY_1|0
+the interfacing mechanisms|DT NN NNS|BODY_1:BODY_4|0
+separate hosts|JJ NNS|BODY_3|0
+our system|PRP$ NN|BODY_5:BODY_1|0
+their execution location|PRP$ NN NN|BODY_8|0
+unites|NNS|BODY_2|0
+geometric information|JJ NN|BODY_4|0
+client f use interface printf use interface|NN NN NN NN NN NN NN|BODY_9|0
+( setq|-LRB- VBG|BODY_2|0
+binary images|JJ NNS|BODY_3|0
+application components|NN NNS|BODY_3|0
+the stub code|DT NN NN|BODY_5|0
+) figure 1|-RRB- NN CD|BODY_10|0
+integrates|NNS|BODY_5|0
+( send(fd|-LRB- NN|BODY_2|0
+a the method|DT DT NN|BODY_6|0
+the pattern property|DT NN NN|BODY_2|0
+the example|DT NN|BODY_2|0
+the available hardware configuration|DT JJ NN NN|BODY_9|0
+,test|NN|BODY_18|0
+. import( client ,lookup ,[int]|. NN NN NN NN|BODY_11|0
+composition abstractions|NN NNS|BODY_8|0
+abstract structural descriptions|JJ JJ NNS|BODY_2|0
+,lookup ,[int]|NN NN|BODY_16|0
+. language(server|. NN|BODY_13|0
+a use|DT NN|BODY_5|0
+the growth|DT NN|BODY_4|0
+a1.c wrappers|JJ NNS|BODY_17|0
+these correspond|DT NN|BODY_4|0
+figure module test f tool client|NN NN NN NN NN NN|BODY_4|0
+order|NN|BODY_7|0
+what interconnection rules|WP NN NNS|BODY_4|0
+the variable assignments|DT JJ NNS|BODY_3|0
+substantial performance improvements|JJ NN NNS|BODY_2|0
+one application component|CD NN NN|BODY_3|0
+a unix environment|DT NN NN|BODY_2|0
+each new application|DT JJ NN|BODY_3|0
+these sets|DT NNS|BODY_2|0
+commands|NNS|BODY_2|0
+.umd .edu|JJ NNP|BODY_2|0
+an alternate mil approach|DT JJ JJ NN|BODY_2|0
+i1 resides|JJ NNS|BODY_4|0
+the entire process|DT JJ NN|BODY_2|0
+the semantics|DT NNS|BODY_4|0
+two processors|CD NNS|BODY_4|0
+our research|PRP$ NN|BODY_8|0
+the generation|DT NN|BODY_3|0
+use interface lookup module server f|NN NN NN NN NN NN|BODY_10|0
+their decisions|PRP$ NNS|BODY_5|0
+the appropriate commands|DT JJ NNS|BODY_11|0
+source programs and stubs|NN NNS CC NNS|BODY_2|0
+an abstract characterization|DT JJ NN|BODY_4|0
+analysis and extraction|NN CC NN|ABSTRACT_3:BODY_3|0
+a straightforward task|DT JJ NN|BODY_2|0
+a difference|DT NN|BODY_2|0
+heterogeneous systems|JJ NNS|BODY_2|0
+'s interconnection capabilities|POS NN NNS|BODY_2|0
+the consistency|DT NN|BODY_9|0
+the cases|DT NNS|BODY_3|0
+the activity|DT NN|BODY_2|0
+communication and interconnection systems|NN CC NN NNS|BODY_3|0
+the description|DT NN|BODY_5|0
+the remote interfaces|DT JJ NNS|BODY_4|0
+client .h|NN NN|BODY_2|0
+the advantage|DT NN|BODY_2|0
+#define main client main extern int lookup( )|DT JJ NN JJ NN NN NN -RRB-|BODY_4|0
+cc -c a1.c|IN JJ JJ|BODY_21|0
+software costs|NN NNS|BODY_3|0
+the possibilities|DT NNS|BODY_3|0
+composition methods|NN NNS|BODY_5|0
+different applications|JJ NNS|BODY_3|0
+an annotated design|DT JJ NN|BODY_12|0
+test f client bindall figure|NN NN NN JJ NN|BODY_11|0
+bind modules|NN NNS|BODY_8|0
+%s|NNS|BODY_6|0
+such adaptations|JJ NNS|BODY_4|0
+the construction tools|DT NN NNS|BODY_2|0
+rather inherits transformation capabilities|RB JJ NN NNS|BODY_4|0
+i|NN|BODY_3|0
+static generation|JJ NN|BODY_2|0
+the software bus organization elides|DT NN NN NN NNS|BODY_8|0
+any pair|DT NN|BODY_2|0
+identifiable and homogeneous ( but possibly divisible ) units|JJ CC JJ -LRB- CC RB JJ -RRB- NNS|BODY_4|0
+many reasons|JJ NNS|BODY_2|0
+mil specifications|JJ NNS|BODY_2|0
+respect|NN|BODY_4|0
+such information|JJ NN|BODY_3|0
+annotations|NNS|BODY_4|0
+int fd|NN NN|BODY_11|0
+this (|DT -LRB-|BODY_2|0
+the x compiler|DT SYM NN|BODY_6|0
+no specifications|DT NNS|BODY_3|0
+a simple application|DT JJ NN|BODY_12:BODY_1|0
+the attempt|DT NN|BODY_7|0
+'s executa|POS NN|BODY_6|0
+the client component|DT NN NN|BODY_19|0
+the program units|DT NN NNS|BODY_10|0
+some|DT|BODY_5|0
+a local area network )|DT JJ NN NN -RRB-|BODY_3|0
+the geometry|DT NN|BODY_8|0
+local compilers|JJ NNS|BODY_6|0
+the packager|DT NN|BODY_4|0
+program|NN|BODY_5|0
+diverse software components|JJ NN NNS|BODY_5:ABSTRACT_3|0
+stub generation|NN NN|BODY_11|0
+the satisfaction|DT NN|BODY_8|0
+two components|CD NNS|BODY_7|0
+many configurations|JJ NNS|BODY_6|0
+implemented|VBN|BODY_10|0
+structural dependencies|JJ NNS|BODY_4|0
+a description|DT NN|BODY_5|0
+a new language|DT JJ NN|BODY_5|0
+test f tool client|NN NN NN NN|BODY_6|0
+the same problems|DT JJ NNS|BODY_3|0
+having|VBG|BODY_4|0
+a distributed application|DT VBN NN|BODY_4|0
+experiment|NN|BODY_9|0
+a package goal|DT NN NN|BODY_3|0
+a packager|DT NN|BODY_4|0
+many possible implementations|JJ JJ NNS|BODY_2|0
+both cases|DT NNS|BODY_2|0
+a run-time instance|DT NN NN|BODY_4|0
+customized interface mechanisms|JJ NN NNS|BODY_4|0
+' alone|POS JJ|BODY_3|0
+more|JJR|BODY_3|0
+objects|NNS|BODY_3|0
+a composition rule|DT NN NN|BODY_2|0
+technology|NN|BODY_2|0
+the desired integration|DT VBN NN|BODY_2|0
+analyzing source program interfaces|NN NN NN NNS|BODY_3|0
+ipc ) facilities|JJ -RRB- NNS|BODY_11|0
+this process|DT NN|BODY_3|0
+key|NN|BODY_4|0
+module specification|NN NN|BODY_14|0
+program units|NN NNS|BODY_4|0
+execution|NN|BODY_4|0
+[client ,server ] and module instances|JJ NN NN CC NN NNS|BODY_3|0
+the deductive capabilities|DT JJ NNS|BODY_5|0
+printf(  %s|NN NN NN|BODY_2|0
+bindall pmodule( client|JJ JJ NN|BODY_6|0
+the key phase|DT JJ NN|BODY_2|0
+else printf( |JJ NN|BODY_6|0
+this description|DT NN|BODY_2|0
+( nil|-LRB- NN|BODY_24|0
+) ( car message|-RRB- -LRB- NN NN|BODY_22|0
+8|CD|BODY_31|0
+mh-error message|NN NN|BODY_29|0
+what communication mechanisms|WP NN NNS|BODY_7|0
+a number|DT NN|BODY_1|0
+desired locations|VBN NNS|BODY_3|0
+all|DT|BODY_6|0
+a variety|DT NN|BODY_3|0
+a2.lsp )|NN -RRB-|BODY_4|0
+chmod +x|NN NN|BODY_34|0
+server.co csl test.co client.co server.co|NN NN NN NN NN|BODY_11|0
+ip|NN|BODY_12|0
+the context|DT NN|BODY_8|0
+a developer|DT NN|BODY_2|0
+some projects|DT NNS|BODY_4|0
+kcl_instance figure 9|NN NN CD|BODY_11|0
+interpreters|NNS|BODY_8|0
+the modules reside|DT NNS NN|BODY_3|0
+a similar  toolkit|DT JJ NN NN|BODY_5|0
+the ease|DT NN|BODY_9|0
+that increase coupling|WDT NN NN|BODY_7|0
+( ,[] )|-LRB- NN -RRB-|BODY_3|0
+their source languages|PRP$ NN NNS|BODY_7|0
+run time|NN NN|BODY_3|0
+the manual task|DT JJ NN|BODY_4|0
+the code|DT NN|BODY_3|0
+the infrastructure|DT NN|BODY_4|0
+the manual tasks|DT JJ NNS|BODY_3|0
+a 'linker|DT NN|BODY_2|0
+these approaches|DT NNS|BODY_3|0
+e .g.|NN NN|BODY_12|0
+geometric coupling|JJ NN|BODY_4|0
+else f printf( |RB NN NN|BODY_8|0
+the desired geometry|DT VBN NN|BODY_6|0
+interface table-lookup list|NN NN NN|BODY_12|0
+all modules|DT NNS|BODY_4|0
+a target configuration|DT NN NN|BODY_5|0
+the impact|DT NN|BODY_3|0
+macro substitutions|JJ NNS|BODY_5|0
+interconnection services|NN NNS|BODY_5|0
+an existing module|DT VBG NN|BODY_2|0
+a composition and concentrate|DT NN CC NN|BODY_4|0
+the host execution environments|DT NN NN NNS|BODY_3|0
+other execution environments|JJ NN NNS|BODY_3|0
+these projects|DT NNS|BODY_2|0
+a different window system|DT JJ NN NN|BODY_2|0
+target execution environments|NN NN NNS|BODY_7|0
+the manager|DT NN|BODY_3|0
+desc ) ) figure 2|NN -RRB- -RRB- NN CD|BODY_15|0
+'s geometry|POS NN|BODY_5:ABSTRACT_5|0
+f int mh write( lookup|NN NN NN NN NN|BODY_11|0
+null , null , arg1 )|JJ , JJ , NNS -RRB-|BODY_13|0
+support|NN|BODY_10|0
+the simple example|DT JJ NN|BODY_2|0
+configuration file|NN NN|BODY_3|0
+each component|DT NN|BODY_5|0
+this information|DT NN|BODY_1:BODY_9|0
+partitions or instances|NNS CC NNS|BODY_6|0
+the problem|DT NN|BODY_9|0
+polygen attempts|NN NNS|BODY_3|0
+libraries|NNS|BODY_3|0
+some economic benefits|DT JJ NNS|BODY_4|0
+all the necessary configuration commands|DT DT JJ NN NNS|BODY_8|0
+the source languages|DT NN NNS|BODY_3|0
+abstract specifications|JJ NNS|BODY_5|0
+about 50 rules|IN CD NNS|BODY_2|0
+the source code|DT NN NN|BODY_2|0
+early stub generation systems|JJ NN NN NNS|BODY_2|0
+the stub|DT NN|BODY_6|0
+each node|DT NN|BODY_1:BODY_9|0
+the source files|DT NN NNS|BODY_5|0
+a2 wrapgen a1.w|DT NN NN|BODY_15|0
+terminal nodes|JJ NNS|BODY_7|0
+a single method|DT JJ NN|BODY_4|0
+location annotations|NN NNS|BODY_6|0
+each environment|DT NN|BODY_2|0
+csc test.cl|NN NN|BODY_5|0
+its rule base|PRP$ NN NN|BODY_6|0
+their configuration management system|PRP$ NN NN NN|BODY_5|0
+the interface name|DT NN NN|BODY_3|0
+compile and link|NN CC NN|BODY_6|0
+makefiles|NNS|BODY_5|0
+source|NN|BODY_5|0
+values|NNS|BODY_7:BODY_9|0
+enough inference capability|JJ NN NN|BODY_2|0
+two unique modules|CD JJ NNS|BODY_4|0
+coercion mechanisms|NN NNS|BODY_2|0
+both user commands|DT NN NNS|BODY_4|0
+'s utility|POS NN|BODY_2|0
+the configuration program|DT NN NN|BODY_2|0
+other resources|JJ NNS|BODY_7|0
+the modules and bindings|DT NNS CC NNS|BODY_8|0
+integrating old implementations|VBG JJ NNS|BODY_7|0
+a software bus organization|DT NN NN NN|BODY_2|0
+layer network rpc stubs|NN NN JJ NNS|BODY_6|0
+configuration control|NN NN|BODY_5|0
+no mil specification|DT JJ NN|BODY_3|0
+module interconnection languages|NN NN NNS|BODY_2|0
+extensive information|JJ NN|BODY_2|0
+available communication media|JJ NN NNS|BODY_6|0
+many different environments|JJ JJ NNS|BODY_5|0
+the same process image )|DT JJ NN NN -RRB-|BODY_7|0
+whose leaves|WP$ NNS|BODY_3|0
+what|WP|BODY_9|0
+the interconnections and geometry|DT NNS CC NN|BODY_6|0
+directed , acyclic graphs|VBN , JJ NNS|BODY_4|0
+our initial experiments|PRP$ JJ NNS|BODY_6|0
+goal ( 5 )|NN -LRB- CD -RRB-|BODY_2|0
+resources|NNS|BODY_5|0
+a system|DT NN|BODY_2|0
+the source|DT NN|BODY_4|0
+whose internal nodes|WP$ JJ NNS|BODY_5|0
+their components|PRP$ NNS|BODY_2|0
+processes|NNS|BODY_2|0
+distinct source components|JJ NN NNS|BODY_5|0
+the same executable image|DT JJ JJ NN|BODY_8|0
+' object code|'' NN NN|BODY_6|0
+an executable application|DT JJ NN|BODY_2|0
+system managers|NN NNS|BODY_4|0
+the bus implementation b|DT NN NN NN|BODY_6|0
+its properties|PRP$ NNS|BODY_4|0
+cases|NNS|BODY_4|0
+a tool|DT NN|BODY_7|0
+the case|DT NN|BODY_2|0
+source modules|NN NNS|BODY_5:BODY_4|0
+the ways|DT NNS|BODY_7|0
+the necessary stubs|DT JJ NNS|BODY_3|0
+different configurations|JJ NNS|BODY_3:BODY_10|0
+all the source components|DT DT NN NNS|BODY_3|0
+wrapper codes|NN NNS|BODY_7|0
+source code|NN NN|BODY_4:BODY_8|0
+instances( n,i) , createpackage( m,i ,[n,t,p] )|RB JJ , JJ NN NN -RRB-|BODY_4|0
+interface and module compatibility|NN CC NN NN|BODY_4|0
+the matchmaker [9]|DT NN NN|BODY_1|0
+the past|DT NN|BODY_1|0
+the prolog inferencing mechanism|DT NN NN NN|BODY_1|0
+xdr|NNP|BODY_4|0
+a connected pair|DT JJ NN|BODY_3|0
+select interconnection options|JJ NN NNS|BODY_6|0
+those annotations|DT NNS|BODY_8|0
+this partitioning|DT NN|BODY_3|0
+a necessary phase|DT JJ NN|BODY_4|0
+assistance|NN|BODY_2|0
+just the generation|RB DT NN|BODY_4|0
+5 ) polygen -m test.cl|CD -RRB- NN NN NN|BODY_10|0
+their stubs|PRP$ NNS|BODY_6|0
+the module specifications|DT NN NNS|BODY_2|0
+the polylith software|DT NN NN|BODY_2|0
+other efforts|JJ NNS|BODY_9|0
+new communication resources|JJ NN NNS|BODY_4|0
+the server component client.cl server.cl|DT NN NN NN NN|BODY_5|0
+the desired architecture and communication media|DT VBN NN CC NN NNS|BODY_2|0
+his specs|PRP$ NNS|BODY_8|0
+an instance|DT NN|BODY_3|0
+packages|NNS|BODY_2|0
+the particular communication system|DT JJ NN NN|BODY_2|0
+our demonstration problem|PRP$ NN NN|BODY_6|0
+the scan tool|DT JJ NN|BODY_2|0
+execution environment|NN NN|BODY_6|0
+potential dependencies|JJ NNS|BODY_3|0
+the stub programs|DT NN NNS|BODY_6|0
+stubs and commands|NNS CC NNS|BODY_3|0
+problems|NNS|BODY_2|0
+bindall figure 5|JJ NN CD|BODY_8|0
+local tools|JJ NNS|BODY_7|0
+the relation|DT NN|BODY_7|0
+two types|CD NNS|BODY_2|0
+itself|PRP|BODY_2|0
+more general cases|RBR JJ NNS|BODY_5|0
+geometry (|NN -LRB-|BODY_3|0
+the logical design|DT JJ NN|BODY_6|0
+new compatibility rules|JJ NN NNS|BODY_3|0
+some compatibility rules|DT NN NNS|BODY_2|0
+many different configurations and environments|JJ JJ NNS CC NNS|BODY_3|0
+the stub source programs|DT NN NN NNS|BODY_8|0
+several files|JJ NNS|BODY_7|0
+mil representatives|JJ NNS|BODY_2|0
+a detailed description|DT JJ NN|BODY_1|0
+a name|DT NN|BODY_1|0
+a partition|DT NN|BODY_3|0
+a stub generator|DT NN NN|BODY_3|0
+a user-defined identifier|DT JJ NN|BODY_3|0
+composition|NN|BODY_3|0
+each desired configuration|DT VBN NN|BODY_1|0
+environment-specific details|JJ NNS|BODY_3|0
+integration strategies|NN NNS|BODY_3|0
+section 4|NN CD|BODY_3|0
+such compilers|JJ NNS|BODY_1|0
+the first phase|DT JJ NN|BODY_1|0
+the interface description language|DT NN NN NN|BODY_1|0
+the label|DT NN|BODY_1|0
+a single root|DT JJ NN|BODY_2|0
+the contents|DT NNS|BODY_3|0
+the execution|DT NN|BODY_5|0
+comparison|NN|BODY_1|0
+this host|DT NN|BODY_2|0
+a conventional linker|DT JJ NN|BODY_8|0
+these issues|DT NNS|BODY_5|0
+the partition predicate|DT NN NN|BODY_4|0
+different programming languages ( c and common lisp )|JJ NN NNS -LRB- NN CC JJ NN -RRB-|BODY_2|0
+each programmer|DT NN|BODY_2|0
+the system specification|DT NN NN|BODY_2|0
+mixed language programs|JJ NN NNS|BODY_14|0
+instance|NN|BODY_5|0
+the new files|DT JJ NNS|BODY_3|0
+the same language|DT JJ NN|BODY_2|0
+the presence|DT NN|BODY_3|0
+a root executable|DT NN NN|BODY_13|0
+these|DT|BODY_1|0
+the question|DT NN|BODY_6|0
+the partition|DT NN|BODY_6|0
+l|NN|BODY_4|0
+facts|NNS|BODY_7|0
+the principle interconnection subsystem|DT NN NN NN|BODY_3|0
+a single composition method|DT JJ NN NN|BODY_7|0
+two separate executable objects|CD JJ JJ NNS|BODY_6|0
+a characterization|DT NN|BODY_5|0
+interoperation|NN|BODY_6|0
+many ways|JJ NNS|BODY_2|0
+the programmers|DT NNS|ABSTRACT_3|0
+appropriate program stubs|JJ NN NNS|BODY_4|0
+support tools|NN NNS|BODY_3|0
+a particular environment|DT JJ NN|BODY_5:BODY_7|0
+larger objects|JJR NNS|BODY_4|0
+automatic techniques|JJ NNS|BODY_3|0
+these modules|DT NNS|BODY_3|0
+'s modular structure|POS JJ NN|BODY_3|0
+all necessary stubs|DT JJ NNS|BODY_8|0
+specifications|NNS|BODY_5|0
+multiple source files|JJ NN NNS|BODY_2|0
+the specifications|DT NNS|BODY_3|0
+their programs|PRP$ NNS|BODY_3|0
+the unix environment|DT NN NN|ABSTRACT_2:BODY_4|0
+a polylith link editor|DT NN NN NN|BODY_4|0
+the configuration methods|DT NN NNS|BODY_6|0
+section 4.)|NN NNS|BODY_5:BODY_8|0
+software reuse problems|NN NN NNS|BODY_3|0
+10 )|CD -RRB-|BODY_5|0
+this execution environment|DT NN NN|BODY_11:BODY_8|0
+the latter|DT NN|BODY_7|0
+all commands|DT NNS|BODY_4|0
+an integer|DT NN|BODY_6|0
+the call|DT NN|BODY_1|0
+the types|DT NNS|BODY_2|0
+at least one package|IN JJS CD NN|BODY_9|0
+an editing tool|DT NN NN|BODY_2|0
+( 2|-LRB- CD|BODY_2|0
+designers|NNS|BODY_3|0
+information|NN|BODY_2|0
+their compatibility|PRP$ NN|BODY_3|0
+some desired architecture|DT VBN NN|BODY_6|0
+a given environment|DT VBN NN|BODY_2|0
+the given module specifications|DT VBN NN NNS|BODY_3|0
+name-value pairs|NN NNS|BODY_5|0
+rpc protocols|JJ NNS|BODY_5|0
+the horus stub generator|DT NN NN NN|BODY_1|0
+this project|DT NN|BODY_1|0
+a distributed network [13]|DT VBN NN NN|BODY_4|0
+i2 such|JJ JJ|BODY_6|0
+a value|DT NN|BODY_1|0
+existing source primitive interface extraction|VBG NN JJ NN NN|BODY_1|0
+its communication and mixed-language programming requirements [13]|PRP$ NN CC JJ NN NNS NN|BODY_37|0
+polygen users|NN NNS|BODY_1|0
+remote procedure call specification compilers|JJ NN NN NN NNS|BODY_1|0
+samelocation(x,l) , compatible( l,c executable )|JJ , NN JJ NN -RRB-|BODY_10|0
+tcpip )|NN -RRB-|BODY_27|0
+the lisp function|DT NN NN|BODY_1|0
+prolog assertions|NN NNS|BODY_3|0
+3.2 polygen|CD NN|BODY_1|0
+.edu|NNP|BODY_5|0
+valid partitionings|JJ NNS|BODY_2|0
+the sub-goals|DT NNS|BODY_6|0
+the integration activity|DT NN NN|BODY_1|0
+abstract composition rules|JJ NN NNS|BODY_3|0
+possible commands|JJ NNS|BODY_5|0
+an ability|DT NN|BODY_1|0
+figure 7|NN CD|BODY_1|0
+the interface|DT NN|BODY_6|0
+the addition|DT NN|BODY_1|0
+a distributed system|DT VBN NN|BODY_7|0
+or not|CC RB|BODY_4|0
+an interface|DT NN|BODY_8|0
+the component|DT NN|BODY_7|0
+execution time|NN NN|BODY_5|0
+polylith and polygen|NN CC NN|BODY_1|0
+geometric properties|JJ NNS|BODY_1|0
+course|NN|BODY_1|0
+primitive and record data types|JJ CC JJ NNS NNS|BODY_11|0
+one way|CD NN|BODY_1|0
+development|NN|BODY_12|0
+interpreted programs|VBN NNS|BODY_6|0
+the c executable method|DT NN NN NN|BODY_5|0
+figure 9|NN CD|BODY_4|0
+module property|JJ NN|BODY_7|0
+those environments|DT NNS|BODY_11|0
+source language|NN NN|BODY_1|0
+a polylith network bus|DT NN NN NN|BODY_8|0
+custom interface code|JJ NN NN|BODY_1:ABSTRACT_1|0
+the hrpc [4|DT NN NNS|BODY_1|0
+the local host workstation|DT JJ NN NN|BODY_8|0
+their applications|PRP$ NNS|BODY_7|0
+one execution environment|CD NN NN|BODY_4|0
+heterogeneous configurations|JJ NNS|BODY_5|0
+bles|NNS|BODY_7|0
+variables and interface names|NNS CC NN NNS|BODY_7|0
+a definition|DT NN|BODY_6|0
+communication media|NN NNS|BODY_7|0
+existing stub generation systems|VBG NN NN NNS|BODY_1|0
+stack and jump instructions|NN CC NN NNS|BODY_12|0
+integrations|NNS|BODY_4|0
+introduction|NN|BODY_1|0
+such a capability|PDT DT NN|BODY_1|0
+the prolog inference engine|DT NN NN NN|BODY_1|0
+previous research|JJ NN|BODY_1|0
+3.4 interconnection subsystem polygen|CD NN NN NN|BODY_1|0
+the composition methods|DT NN NNS|BODY_1|0
+the x link editor|DT SYM NN NN|BODY_8|0
+the test  configuration|DT NN NN NN|BODY_5|0
+) and server component ( right )|-RRB- CC NN NN -LRB- NN -RRB-|BODY_16|0
+the list p.|DT NN NN|BODY_4|0
+that design|DT NN|BODY_9|0
+both types|DT NNS|BODY_1|0
+14 , 17|CD , CD|BODY_6|0
+the conic [10] and durra [2|DT JJ NN CC NN NNS|BODY_1|0
+other configuration management tools|JJ NN NN NNS|BODY_8|0
+specific programming languages and environments|JJ NN NNS CC NNS|BODY_3|0
+the following output|DT VBG NN|BODY_1|0
+an execution environment|DT NN NN|BODY_8|0
+heterogeneous applications|JJ NNS|BODY_6|0
+the designer|DT NN|BODY_6|0
+procedural transparency|JJ NN|BODY_4|0
+distributed applications|VBN NNS|BODY_1|0
+rendezvous functions|NN NNS|BODY_5|0
+i2|NN|BODY_6|0
+a single configuration|DT JJ NN|BODY_4|0
+stub rules|NN NNS|BODY_7|0
+their implementations|PRP$ NNS|BODY_7|0
+the last section|DT JJ NN|BODY_4|0
+heterogeneous programming environments|JJ NN NNS|BODY_6:ABSTRACT_4|0
+partitioning goals|VBG NNS|BODY_9|0
+that rule|WDT NN|BODY_8|0
+user-defined interface descriptions|JJ NN NNS|BODY_12|0
+each time|DT NN|BODY_1|0
+the necessary interface software|DT JJ NN NN|BODY_4|0
+the stub generation process|DT NN NN NN|BODY_5|0
+stub procedures|NN NNS|BODY_7|0
+such a compatibility|PDT DT NN|BODY_1|0
+the module interconnection language community|DT NN NN NN NN|BODY_3|0
+the target environment|DT NN NN|BODY_1|0
+the packager system|DT NN NN|BODY_1|0
+our method|PRP$ NN|BODY_1|0
+a code generator|DT NN NN|BODY_7|0
+both bus versions|DT NN NNS|BODY_5|0
+module composition processes|JJ NN NNS|BODY_5|0
+the host|DT NN|BODY_1|0
+the inscape project [11]|DT NN NN NN|BODY_1|0
+the script|DT NN|BODY_1|0
+the design specifications|DT NN NNS|BODY_5|0
+the given configuration|DT VBN NN|BODY_3|0
+assertions and rules|NNS CC NNS|BODY_6|0
+the software developer|DT NN NN|BODY_4|0
+partitionings|NNS|BODY_9|0
+an alternative|DT NN|BODY_1|0
+no programmer|DT NN|BODY_3|0
+extraction|NN|BODY_1|0
+each instance|DT NN|BODY_7|0
+a read-only system file|DT JJ NN NN|BODY_3|0
+a cited execution environment and communication system|DT VBD NN NN CC NN NN|BODY_5|0
+computation|NN|BODY_5|0
+our experience|PRP$ NN|BODY_1|0
+software|NN|BODY_1|0
+the tools|DT NNS|BODY_1|0
+mil attributes|JJ NNS|BODY_7|0
+module interconnection language|NN NN NN|ABSTRACT_7|0
+the results|DT NNS|BODY_1|0
+figure 4|NN CD|BODY_4|0
+another|DT|BODY_4|0
+the developer|DT NN|BODY_1|0
+the polylith tcpip bus )|DT NN NN NN -RRB-|BODY_11|0
+a software component|DT NN NN|BODY_4|0
+manually integrated applications|RB JJ NNS|ABSTRACT_8|0
+manually-integrated applications|JJ NNS|BODY_8|0
+an extraction tool transforms source code|DT NN NN NNS NN NN|BODY_1|0
+particular environments|JJ NNS|BODY_6|0
+configuration management programs|NN NN NNS|BODY_11|0
+the polylith system|DT NN NN|BODY_1|0
+heterogeneous execution environments|JJ NN NNS|TITLE_2|0
+polygen implements|NN NNS|BODY_1|0
+their interfaces|PRP$ NNS|BODY_5:BODY_7|0
+the available source programs|DT JJ NN NNS|BODY_5|0
+notable exceptions|JJ NNS|BODY_4|0
+the method|DT NN|BODY_1|0
+[13]|NN|BODY_3|0
+mil)|NNS|BODY_1|0
+section 3.2.4.)|NN CD|BODY_12|0
+the earlier example|DT JJR NN|BODY_1|0
+the assertions|DT NNS|BODY_1|0
+the previous iteration|DT JJ NN|BODY_8|0
+an economic necessity|DT JJ NN|BODY_6|0
+a sample annotated design|DT NN JJ NN|BODY_1|0
+primitive modules|JJ NNS|BODY_5|0
+those services|DT NNS|BODY_10|0
+3.3|CD|BODY_1|0
+additional software|JJ NN|BODY_1|0
+each heterogeneous configuration|DT JJ NN|BODY_3|0
+a unix makefile [7]|DT NN NN NN|BODY_4|0
+the given environment|DT VBN NN|BODY_10|0
+an appropriate implementation|DT JJ NN|BODY_5|0
+the current environment|DT JJ NN|BODY_4|0
+the root composition method|DT NN NN NN|BODY_1|0
+stubs and makefile rules|NNS CC NN NNS|BODY_5|0
+this section|DT NN|BODY_1|0
+those resources|DT NNS|BODY_5|0
+architectural and communication dependencies|JJ CC NN NNS|BODY_5|0
+the interface description|DT NN NN|BODY_5|0
+many cases|JJ NNS|BODY_1|0
+this signature|DT NN|BODY_1|0
+this collection|DT NN|BODY_1|0
+3.1|CD|BODY_1|0
+scan -o client.cl client.c|JJ JJ NN NN|BODY_1|0
+the client component scan -o server.cl server.lsp|DT NN NN JJ JJ NN NN|BODY_3|0
+each edge|DT NN|BODY_1|0
+the underlying inference engine|DT VBG NN NN|BODY_6|0
+the client and server modules|DT NN CC NN NNS|BODY_1|0
+an important feature|DT JJ NN|BODY_1|0
+its specification|PRP$ NN|BODY_7|0
+environments|NNS|BODY_4|0
+a single address space|DT JJ NN NN|BODY_4|0
+compatible components|JJ NNS|BODY_7|0
+pascal , ada and lisp.|JJ , NN CC NN|BODY_3|0
+this environment|DT NN|BODY_13|0
+our choice|PRP$ NN|BODY_1|0
+the data coercion and relocation requirements|DT NNS NN CC NN NNS|BODY_7|0
+these methods|DT NNS|BODY_1|0
+the complete example|DT JJ NN|BODY_13|0
+the leaves|DT NNS|BODY_1|0
+the new platform|DT JJ NN|BODY_5|0
+workstations|NNS|BODY_14|0
+the configuration commands|DT NN NNS|BODY_1|0
+a particular bus implementation|DT JJ NN NN|BODY_5|0
+interprocess communication primitives|NN NN NNS|BODY_5|0
+the forms|DT NNS|BODY_3|0
+several questions|JJ NNS|BODY_5|0
+the modified source programs|DT VBN NN NNS|BODY_8|0
+its most important role|PRP$ RBS JJ NN|BODY_1|0
+name|NN|BODY_3|0
+all cases|DT NNS|BODY_1|0
+the compatibility predicate|DT NN NN|BODY_1|0
+the subsequent partition goal|DT JJ NN NN|BODY_4|0
+the first two subgoals|DT JJ CD NNS|BODY_1|0
+an xns-based version|DT JJ NN|BODY_5|0
+other environments|JJ NNS|BODY_1|0
+the final application|DT JJ NN|BODY_10|0
+a generated implementation|DT VBN NN|BODY_3|0
+the components and interface software|DT NNS CC NN NN|BODY_1|0
+the need|DT NN|BODY_1|0
+this manner|DT NN|BODY_1|0
+the final method|DT JJ NN|BODY_1|0
+a new composition method|DT JJ NN NN|BODY_1|0
+given such constraints|VBN JJ NNS|BODY_1|0
+meeting functional requirements|NN JJ NNS|BODY_5|0
+interface software and stubs|NN NN CC NNS|BODY_1:ABSTRACT_1|0
+these dependencies|DT NNS|BODY_1|0
+for|IN|BODY_4|0
+the generated implementation|DT VBN NN|BODY_1|0
+the packaging system|DT NN NN|BODY_1|0
+this difference|DT NN|BODY_3|0
+themselves|PRP|BODY_6|0
+a powerful window system|DT JJ NN NN|BODY_9|0
+a target execution environment|DT NN NN NN|BODY_3|0
+available execution en- vironments|JJ NN NNS NNS|BODY_5|0
+this expression|DT NN|BODY_1|0
+this resulting package|DT VBG NN|BODY_1|0
+each source module|DT NN NN|BODY_1|0
+these facilities|DT NNS|BODY_3|0
+ characters|NN NNS|BODY_6|0
+a possible partitioning|DT JJ NN|BODY_1|0
+the list|DT NN|BODY_4|0
+an example composite specification|DT NN JJ NN|BODY_1|0
+an underlying communication system|DT JJ NN NN|BODY_5|0
+communication mechanisms|NN NNS|BODY_6|0
+key properties|JJ NNS|BODY_1|0
+a directed graph|DT VBN NN|BODY_3|0
+this sense|DT NN|BODY_1|0
+a connection|DT NN|BODY_1|0
+our inference engine|PRP$ NN NN|BODY_7|0
+rpc compilers|JJ NNS|BODY_1|0
+the xcon-in-rime project [16]|DT JJ NN NN|BODY_1|0
+partition configurations|NN NNS|BODY_4|0
+the error|DT NN|BODY_4|0
+5 conclusion|CD NN|BODY_1|0
+the extraction tools|DT NN NNS|BODY_1|0
+the way|DT NN|BODY_1|0
+a common interface mechanism|DT JJ NN NN|BODY_3|0
+an alternate communication system|DT JJ NN NN|BODY_9|0
+each case|DT NN|BODY_1|0
+some degree|DT NN|BODY_5|0
+the appropriate stubs|DT JJ NNS|BODY_7|0
+the underlying architecture|DT VBG NN|BODY_10|0
+all components|DT NNS|BODY_10|0
+all executables|DT NNS|BODY_3|0
+the construction phase|DT NN NN|BODY_1|0
+interfacing mechanisms|NN NNS|BODY_1|0
+no more than one main entry point|DT JJR IN CD JJ NN NN|BODY_12|0
+3.2.1 composition.|CD NN|BODY_1|0
+3.2.2 generation.|CD NN|BODY_1|0
+3.2.3 construction.|CD NN|BODY_1|0
+3.2.4 extraction.|CD NN|BODY_1|0

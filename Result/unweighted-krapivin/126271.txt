@@ -1,0 +1,1284 @@
+s|PRP|BODY_11:BODY_22:BODY_15:BODY_13:BODY_26:BODY_2:BODY_24:BODY_4:BODY_5:BODY_34:BODY_28:BODY_1:BODY_7:BODY_30:BODY_9:BODY_20:BODY_12:BODY_16:BODY_18:BODY_21:BODY_23:BODY_25:BODY_3:BODY_14:BODY_6:BODY_31:BODY_27:BODY_10:BODY_19:BODY_8|2
+we|PRP|BODY_12:BODY_11:BODY_22:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|4
+it|PRP|BODY_11:BODY_16:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_20:BODY_9|0
+t|NN|BODY_12:BODY_11:BODY_16:BODY_17:BODY_18:BODY_15:BODY_13:BODY_23:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_28:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|0
+that|WDT|BODY_12:BODY_22:BODY_17:BODY_15:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_27:BODY_1:BODY_19:BODY_7:BODY_8:BODY_9|3
+the environment|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_16:BODY_17:BODY_2:BODY_25:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_12:BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_20:BODY_9|0
+each state|DT NN|BODY_12:BODY_11:BODY_17:BODY_18:BODY_15:BODY_13:BODY_2:BODY_24:BODY_14:BODY_3:BODY_4:BODY_6:BODY_31:BODY_5:BODY_19:BODY_10:BODY_29:BODY_7:BODY_8:BODY_20:BODY_9|3
+adaptivity|NN|BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+secures|NNS|BODY_6:BODY_17:BODY_18:BODY_13:BODY_26:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+q|RB|BODY_11:BODY_16:BODY_22:BODY_21:BODY_25:BODY_2:BODY_14:BODY_3:BODY_4:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|1
+the program|DT NN|BODY_5:BODY_11:BODY_2:BODY_1:BODY_4:BODY_29:BODY_7:BODY_8|0
+a suffix|DT NN|BODY_11:BODY_16:BODY_17:BODY_15:BODY_13:BODY_2:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_9|0
+the definition|DT NN|BODY_12:BODY_6:BODY_5:BODY_16:BODY_23:BODY_13:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+a maximal computation|DT JJ NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+the proof|DT NN|BODY_6:BODY_27:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_29:BODY_8|1
+an adaptive program|DT JJ NN|BODY_6:ABSTRACT_4:BODY_1:BODY_2:BODY_3:ABSTRACT_1|0
+a state|DT NN|BODY_12:BODY_6:BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+true secures|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_19:BODY_8|0
+variables|NNS|BODY_12:BODY_6:BODY_5:BODY_11:BODY_16:BODY_14:BODY_24:BODY_10:BODY_4:BODY_20|0
+a token|DT JJ|BODY_6:ABSTRACT_4:BODY_15:BODY_2:BODY_3:BODY_4:BODY_9|0
+adaptive programs|JJ NNS|ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+hierarchical composition|JJ NN|BODY_12:BODY_5:BODY_22:BODY_2:BODY_1:BODY_10:BODY_7|1
+)|-RRB-|BODY_12:BODY_6:BODY_11:BODY_22:BODY_16:BODY_17:BODY_3:BODY_4:BODY_30:BODY_8|0
+distributed programs|VBN NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_21:BODY_2:BODY_4|0
+traffic|NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_9|0
+a program|DT NN|BODY_6:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|1
+ff|NN|BODY_6:BODY_11:BODY_25:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+input variables|NN NNS|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_8|1
+convergence|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+r|NN|BODY_12:BODY_6:BODY_11:BODY_18:BODY_15:BODY_3:BODY_19:BODY_4:BODY_29:BODY_7:BODY_20|0
+the time|DT NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+programs|NNS|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:ABSTRACT_7|0
+this paper|DT NN|BODY_6:BODY_12:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the actions|DT NNS|BODY_6:BODY_11:BODY_13:BODY_2:BODY_25:BODY_3:BODY_14:BODY_29|0
+fi)|NN|BODY_12:BODY_6:BODY_5:BODY_16:BODY_18:BODY_21:BODY_2:BODY_25:BODY_4:BODY_9|0
+concur|NN|BODY_2:BODY_3|0
+they|PRP|BODY_23:BODY_2:BODY_3|0
+ff )|NN -RRB-|BODY_12:BODY_6:BODY_22:BODY_21:BODY_15:BODY_13:BODY_2:BODY_4:BODY_29:BODY_9|0
+sequential programs|JJ NNS|BODY_6:BODY_17:BODY_1:BODY_2|0
+this section|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+(|-LRB-|BODY_5:BODY_11:BODY_22:BODY_18:BODY_27:BODY_1:BODY_4:BODY_8|0
+periods|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_7|0
+processes|NNS|BODY_11:BODY_5:ABSTRACT_6:BODY_25:BODY_3:BODY_10:BODY_7:BODY_8|0
+an input variable|DT NN JJ|BODY_6:BODY_5:BODY_2:BODY_4|0
+p|NN|BODY_6:BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|2
+one|CD|BODY_5:ABSTRACT_2:BODY_1:BODY_25:BODY_3|0
+morning|NN|BODY_5:BODY_3:BODY_7:BODY_9|0
+the computation|DT NN|BODY_6:BODY_11:BODY_18:BODY_15:BODY_2:BODY_7|0
+v|NN|BODY_6:BODY_5:BODY_21:BODY_2:BODY_14|0
+i|PRP|BODY_6:BODY_12:BODY_2:BODY_3:BODY_14:BODY_19:BODY_10|0
+the token|DT JJ|BODY_5:BODY_2:BODY_3|0
+z|FW|BODY_17:BODY_13:BODY_1:BODY_14:BODY_4:BODY_7|0
+a distributed program|DT VBN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_24:BODY_3|0
+a computation|DT NN|BODY_5:BODY_21:BODY_1:BODY_2:BODY_3:BODY_4|0
+a i|DT NN|BODY_5:BODY_16:BODY_8:BODY_9|0
+the adaptive program|DT JJ NN|BODY_1:BODY_2:BODY_4|0
+a change|DT NN|BODY_5:BODY_10:BODY_4:BODY_7|0
+each process|DT NN|BODY_11:BODY_18:BODY_1:BODY_4:BODY_9|0
+this|DT|BODY_6:BODY_2:BODY_1:BODY_4|1
+some action|DT NN|BODY_17:BODY_18:BODY_15:BODY_4:BODY_30|0
+program|NN|BODY_12:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_8:BODY_9|0
+instance|NN|BODY_5:BODY_13:BODY_1|0
+an action|DT NN|BODY_18:BODY_2:BODY_3:BODY_20|0
+( t|-LRB- NN|BODY_11:BODY_5:BODY_17:BODY_23:BODY_13:BODY_1:BODY_24:BODY_4:BODY_8|0
+c|NN|BODY_6:BODY_1:BODY_4:BODY_8|0
+the notion|DT NN|BODY_12:BODY_2:BODY_1:BODY_3|0
+self-stabilization|NN|BODY_2:BODY_14:BODY_3:BODY_4:BODY_9|0
+a set|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+states|NNS|BODY_22:BODY_23:BODY_3:BODY_8|1
+the case|DT NN|BODY_6:BODY_18:BODY_2:BODY_14|0
+the program behavior|DT NN NN|BODY_2|0
+follows|VBZ|BODY_6:BODY_11:BODY_13:BODY_2:BODY_4:BODY_20|0
+actions|NNS|BODY_35:BODY_12:BODY_5:BODY_27:BODY_14:BODY_7:BODY_9|0
+the composite program|DT JJ NN|BODY_6:BODY_11:BODY_17:BODY_25:BODY_4|0
+two programs|CD NNS|BODY_23:BODY_2:BODY_3|0
+a behavior|DT NN|BODY_6:BODY_2:BODY_4|0
+a user|DT NN|BODY_2:BODY_3:BODY_4|0
+each|DT|BODY_6:BODY_3:BODY_8|0
+note|NN|BODY_13:BODY_1|0
+case|NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+minimum cost paths|JJ NN NNS|BODY_4:BODY_7|0
+all states|DT NNS|BODY_3:BODY_4:BODY_9|0
+an input predicate|DT NN NN|BODY_17:BODY_2:BODY_3:BODY_8:BODY_9|0
+input|NN|BODY_5:BODY_27:BODY_21:BODY_2:BODY_20|0
+the system|DT NN|BODY_5:BODY_26:BODY_1:BODY_4:BODY_8|0
+the values|DT NNS|BODY_6:BODY_5:BODY_4:BODY_7|1
+this definition|DT NN|BODY_13:BODY_23:BODY_1:BODY_4|0
+( b|-LRB- NN|BODY_5:BODY_13:BODY_1:BODY_3|0
+transitions|NNS|BODY_6:BODY_11:BODY_22:BODY_3:BODY_7:BODY_8|0
+our study|PRP$ NN|BODY_2|0
+stability|NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+an environment|DT NN|BODY_2|0
+internal variables|JJ NNS|BODY_12:BODY_6:BODY_28:BODY_15:BODY_9|0
+each variable|DT JJ|BODY_13:BODY_2:BODY_4|0
+example|NN|BODY_5:BODY_1:BODY_2:BODY_7|0
+the predicate q|DT VB NN|BODY_15:BODY_26:BODY_9|0
+the variables|DT NNS|BODY_11:BODY_13:BODY_3:BODY_4:BODY_7:BODY_9|1
+the two programs|DT CD NNS|BODY_6:BODY_5:BODY_2:BODY_1|0
+behavior|NN|BODY_6:BODY_3:BODY_7|0
+the union|DT NN|BODY_12:BODY_5:BODY_24:BODY_10|0
+time|NN|BODY_5:BODY_3:BODY_4|0
+the number|DT NN|BODY_6:BODY_2:BODY_24:BODY_7|0
+one behavior|CD NN|BODY_11:BODY_5:BODY_7|0
+a predicate|DT NN|BODY_6:BODY_27:BODY_15:BODY_3|1
+the first state|DT JJ NN|BODY_11:BODY_5:BODY_18:BODY_21:BODY_14:BODY_20:BODY_9|0
+reasoning|NN|ABSTRACT_4:BODY_15:BODY_4:BODY_19|0
+effect|NN|BODY_6:BODY_4|0
+internal variable|JJ JJ|BODY_12:BODY_6:BODY_14:BODY_7|0
+composition|NN|BODY_15:BODY_3|1
+its environment|PRP$ NN|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_8|0
+a controller program|DT NN NN|BODY_2|0
+distributed level composition|VBN NN NN|BODY_2|0
+terms|NNS|ABSTRACT_5:BODY_2:BODY_4|0
+a transaction|DT NN|BODY_5:BODY_2|0
+a|DT|BODY_5:BODY_2:BODY_14|0
+environmental change|JJ NN|BODY_6:BODY_2:BODY_3|0
+each action|DT NN|BODY_16:BODY_1:BODY_14:BODY_20|0
+e|NN|BODY_6:BODY_11:BODY_31:BODY_2:BODY_10:BODY_4:BODY_8|0
+s)|NN|BODY_2:BODY_9|0
+program behavior|NN NN|BODY_5:BODY_4|0
+our definition|PRP$ NN|BODY_1:BODY_14:BODY_8|0
+the antecedent|DT NN|BODY_11:BODY_2:BODY_10|0
+b|NN|BODY_11:BODY_3:BODY_4|0
+ae|NNS|BODY_5:BODY_11:BODY_15:BODY_1:BODY_9|2
+respect|NN|BODY_5:BODY_18:BODY_7|0
+adaptive behavior|JJ NN|BODY_5:BODY_2|0
+computation|NN|BODY_6:BODY_13:BODY_19:BODY_9|0
+exactly one process|RB CD NN|BODY_13:BODY_3:BODY_10|0
+the computations|DT NNS|BODY_5:BODY_15:BODY_1|0
+the processes|DT NNS|BODY_2:BODY_8|0
+a short period|DT JJ NN|BODY_3:BODY_4:BODY_7|0
+both programs|DT NNS|BODY_10:BODY_7|0
+a self-stabilizing program|DT JJ NN|BODY_1:BODY_4|0
+the rule|DT NN|BODY_17:BODY_3|1
+level composition|NN NN|BODY_2:BODY_1:BODY_4|0
+all :e|DT NN|BODY_18:BODY_1:BODY_3|0
+/ morning|JJ NN|BODY_12:BODY_21:BODY_13:BODY_3:BODY_4:BODY_8|0
+the relationship|DT NN|BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+one protocol|CD NN|BODY_2:BODY_4|0
+resource allocation|NN NN|BODY_2:BODY_14|0
+the proofs|DT NNS|BODY_5:BODY_2:BODY_4|0
+our model|PRP$ NN|BODY_12:BODY_5:BODY_3|0
+p secures|NN NNS|BODY_2:BODY_3:BODY_9|0
+all processes|DT NNS|BODY_4:BODY_8|0
+one program|CD NN|BODY_5:BODY_1:BODY_3|0
+a sequential program|DT JJ NN|BODY_6:BODY_1:BODY_2|0
+afternoon|NN|BODY_6:BODY_10:BODY_4:BODY_7|0
+some|DT|BODY_2:BODY_3|0
+the network changes|DT NN NNS|BODY_1:BODY_3|0
+the bus|DT NN|BODY_6:BODY_5|0
+:waiting|NN|BODY_6:BODY_4:BODY_8|0
+a boolean value|DT JJ NN|BODY_2|0
+a plausible definition|DT JJ NN|BODY_4|0
+distributed processes|VBN NNS|BODY_4|0
+the investigation|DT NN|BODY_2|0
+ff partitions|NN NNS|BODY_10:BODY_8|0
+a vector|DT NN|BODY_15:BODY_7|0
+adaptive sequential programs|JJ JJ NNS|ABSTRACT_2:BODY_2|0
+r)|NN|BODY_12:BODY_5:BODY_2:BODY_10:BODY_4|0
+approximate adaptivity|JJ NN|BODY_2:BODY_4:BODY_8|0
+a ii|DT NNS|BODY_10:BODY_9|0
+any|DT|BODY_6|1
+a discussion|DT NN|BODY_2|0
+falsehood )|NN -RRB-|BODY_2|0
+the applicability|DT NN|BODY_3|0
+the stability|DT NN|BODY_3|0
+the result|DT NN|BODY_2|0
+only one behavior|RB CD NN|BODY_4|0
+an input|DT NN|BODY_5:BODY_3:BODY_20|0
+every maximal computation|DT JJ NN|BODY_2:BODY_8|1
+the secures properties|DT VBZ NNS|BODY_16:BODY_7:BODY_20|0
+a lower cost|DT JJR NN|BODY_5:BODY_10|0
+a distributed system|DT VBN NN|BODY_5:BODY_1:BODY_7|0
+-:|NN|BODY_5:BODY_14:BODY_3|0
+a message|DT NN|BODY_1:BODY_2|0
+the level composition rule|DT NN NN NN|BODY_6:BODY_2:BODY_7|0
+! traffic :=|. NN NN|BODY_13:BODY_14:BODY_10|0
+i)-(iii|NNS|BODY_15:BODY_2|0
+one token|CD NN|BODY_4|0
+0|CD|BODY_17:BODY_14|0
+practice|NN|BODY_6:BODY_1|0
+( x 6=|-LRB- NN NN|BODY_2|0
+all variables|DT NNS|BODY_5:BODY_8|0
+self-stabilization ( e .g|NN -LRB- NN NN|BODY_5|0
+level|NN|BODY_6:BODY_4|0
+( p|-LRB- NN|BODY_11:BODY_1:BODY_10:BODY_4:BODY_9|0
+a ( i\gamma1)k|DT -LRB- NN|BODY_7|0
+a sequential program t|DT JJ NN NN|BODY_2|0
+the token-ring protocol|DT NN NN|BODY_2:BODY_3|0
+the guard|DT NN|BODY_6:BODY_5|0
+no :e|DT NN|BODY_5:BODY_4:BODY_19|0
+the amortized cost|DT JJ NN|BODY_13:BODY_1|0
+the message|DT NN|BODY_5|0
+program s|NN VBZ|BODY_17:BODY_2:BODY_9|0
+the action|DT NN|BODY_18:BODY_21:BODY_3|0
+any suffix|DT NN|BODY_4:BODY_9|0
+self-stabilizing systems|JJ NNS|BODY_2|0
+a state predicate p|DT NN NN NN|BODY_2:BODY_7|0
+the second set|DT JJ NN|BODY_31:BODY_19|0
+two distributed programs|CD VBN NNS|BODY_5:BODY_1:BODY_3|0
+the service|DT NN|BODY_4|0
+the scope|DT NN|BODY_2:BODY_3|0
+what|WP|BODY_5:BODY_4|0
+t i|NN NN|BODY_12:BODY_9|0
+a network|DT NN|BODY_5:BODY_3|0
+implementations|NNS|BODY_16|0
+the busy token program|DT JJ NN NN|BODY_2|0
+the lazy token program|DT JJ NN NN|BODY_2|0
+the observed frequency|DT JJ NN|BODY_3|0
+threshold adaptivity|NN NN|BODY_2:BODY_4:BODY_7|0
+some composition|DT NN|BODY_2:BODY_4|0
+requests|NNS|BODY_8|0
+n|NN|BODY_6:BODY_23|0
+the definitions|DT NNS|BODY_1:BODY_8|0
+all clocks|DT NNS|BODY_5|0
+this program|DT NN|BODY_11:BODY_15|0
+that desired properties|DT VBN NNS|BODY_2|0
+performance optimization|NN NN|BODY_4|0
+the program functioning|DT NN NN|BODY_4|0
+situations|NNS|BODY_7|0
+the alternative|DT NN|BODY_2|0
+each self-stabilizing|DT JJ|BODY_2|0
+a broadcast start  operation|DT NN NN NN NN|BODY_10|0
+a k|DT NN|BODY_11|0
+any state|DT NN|BODY_19:BODY_9|0
+the notation|DT NN|BODY_2|0
+different programs|JJ NNS|BODY_3:BODY_4|0
+fv i and fa|NN NN CC NN|BODY_4|0
+the current environment|DT JJ NN|BODY_2:BODY_8|0
+the appendix|DT NN|BODY_6:BODY_31:BODY_8|0
+discrepancies|NNS|BODY_6|0
+values|NNS|BODY_19:BODY_9|0
+the other|DT JJ|BODY_5:BODY_27|0
+the ethernet-like protocol|DT JJ NN|BODY_5:BODY_2:BODY_1|0
+three cases|CD NNS|BODY_5:BODY_9|0
+change|NN|BODY_2|0
+a timeout|DT NN|BODY_3|0
+section 5|NN CD|BODY_8|0
+the nondeterminism|DT NN|BODY_4|0
+the main characteristics|DT JJ NNS|BODY_2|0
+execution|NN|BODY_5:BODY_2|0
+the behaviors|DT NNS|BODY_5|0
+distributed control|VBN NN|BODY_5:BODY_4|0
+domain|NN|BODY_2|0
+traffic routes|NN NNS|BODY_9|0
+a pessimistic strategy|DT JJ NN|BODY_3|0
+changes|NNS|BODY_1:BODY_4|0
+costs change|NNS NN|BODY_2|0
+the busy protocol|DT JJ NN|BODY_4|0
+p secures r|NN NNS NN|BODY_22:BODY_27:BODY_23:BODY_9|0
+a few seconds|DT JJ NNS|BODY_6:BODY_2|0
+its variable set|PRP$ JJ NN|BODY_9|0
+a system|DT NN|BODY_3|0
+an input n-element boolean array ( majority vote|DT NN NN JJ NN -LRB- NN NN|BODY_3|0
+chandy and misra|NN CC NN|BODY_14|0
+a tautology|DT NN|BODY_2|0
+an example|DT NN|BODY_18|0
+g(|NN|BODY_12:BODY_6:BODY_16:BODY_19:BODY_10|0
+computations|NNS|BODY_2|0
+a sequential programming language|DT JJ NN NN|BODY_5:BODY_4|0
+the maximal prefix|DT JJ NN|BODY_2|0
+compatibility|NN|BODY_2:BODY_1:BODY_8|0
+-: case|JJ NN|BODY_32:BODY_10|0
+one action|CD NN|BODY_6:BODY_7|0
+internal variable traffic|JJ JJ NN|BODY_6:BODY_4:BODY_9|0
+the domain|DT NN|BODY_7:BODY_8|0
+f(|JJ|BODY_5:BODY_22:BODY_30|0
+this rule|DT NN|BODY_5:BODY_28:BODY_14|0
+the partition|DT NN|BODY_23:BODY_1:BODY_9|0
+fs i|FW FW|BODY_8:BODY_20|0
+our results|PRP$ NNS|BODY_6:BODY_3|0
+the state-space|DT NN|BODY_17:BODY_1:BODY_10|0
+no two processes|DT CD NNS|BODY_12:BODY_3|0
+whose initial state|WP$ JJ NN|BODY_13:BODY_9|0
+the state|DT NN|BODY_4:BODY_7|0
+the execution|DT NN|BODY_1:BODY_8|0
+the internal variable traffic|DT JJ JJ NN|BODY_2:BODY_9|0
+an ethernet-like protocol [11]|DT JJ NN NN|BODY_7|0
+( morning|-LRB- NN|BODY_10:BODY_8|0
+the projection|DT NN|BODY_2:BODY_9|0
+these rules|DT NNS|BODY_2:BODY_20|0
+our hierarchical composition rule|PRP$ JJ NN NN|BODY_2|0
+these compositions|DT NNS|ABSTRACT_8:BODY_1|0
+a collection|DT NN|BODY_5:BODY_11|0
+compatible|JJ|BODY_14:BODY_4|0
+these two programs|DT CD NNS|BODY_1:BODY_7|0
+this question|DT NN|BODY_1:BODY_3|0
+homebusy|NN|BODY_11:BODY_4|0
+that q|DT NN|BODY_17:BODY_2:BODY_10|0
+compatible t|JJ NN|BODY_6:BODY_3|0
+a minimum cost path|DT JJ NN NN|BODY_4|0
+a particular class|DT JJ NN|BODY_6:BODY_3|0
+the costs|DT NNS|BODY_4|0
+some changes|DT NNS|BODY_7|0
+lazy|JJ|BODY_17:BODY_1|0
+( end|-LRB- NN|BODY_1|0
+concluding remarks|VBG NNS|BODY_1|0
+our study merit further investigation|PRP$ NN NN JJ NN|BODY_2|0
+refutation )|NN -RRB-|BODY_2|0
+section 9|NN CD|BODY_2|0
+some questions|DT NNS|BODY_1|0
+the above rule|DT JJ NN|BODY_2|0
+the construction proceeds|DT NN NNS|BODY_1|0
+the converse|DT NN|BODY_1|0
+three steps|CD NNS|BODY_2|0
+the same techniques|DT JJ NNS|BODY_3|0
+the adaptivity property|DT NN NN|BODY_17:BODY_14|0
+boolean input variables|JJ NN NNS|BODY_3:BODY_8|0
+whose processes|WP$ NNS|BODY_18:BODY_19|0
+the distributed program|DT VBN NN|BODY_17:BODY_18:BODY_2|0
+the current holder|DT JJ NN|BODY_7|0
+an array|DT NN|BODY_2|0
+its destination|PRP$ NN|BODY_3|0
+the input variables|DT NN NNS|BODY_18:BODY_7|0
+t k|NN NN|BODY_12:BODY_18|0
+x i|SYM IN|BODY_5:BODY_4|0
+( r|-LRB- NN|BODY_13:BODY_1:BODY_24:BODY_8|0
+convergence ( e .g.|NN -LRB- NN NN|BODY_3|0
+maximal computation|JJ NN|BODY_4|0
+10.2 proofs|CD NNS|BODY_5|0
+input variable waiting|NN JJ VBG|BODY_2:BODY_8|0
+its computation|PRP$ NN|BODY_3|0
+true iff process i|JJ NN NN NN|BODY_8|0
+the boolean variables|DT JJ NNS|BODY_6|0
+2 )|CD -RRB-|BODY_3|0
+other processes|JJ NNS|BODY_6:BODY_11|0
+adaptivity and self|NN CC NN|BODY_4|0
+the theoretical example|DT JJ NN|BODY_2|0
+a local view|DT JJ NN|BODY_4|0
+section 6|NN CD|BODY_1:BODY_3|0
+the discussion|DT NN|ABSTRACT_3:BODY_4|0
+the conjunction|DT NN|BODY_3|0
+secures r|NNS NN|BODY_2:BODY_7|0
+each k|DT NN|BODY_5|0
+thereby our results|RB PRP$ NNS|BODY_15|0
+the negated guards|DT JJ NNS|BODY_4|0
+!|.|BODY_15:BODY_25|0
+incremental adaptive programs|JJ JJ NNS|BODY_2|0
+(adaptive ) distributed systems|JJ -RRB- VBN NNS|BODY_2|0
+input p|NN NN|BODY_12:BODY_10:BODY_7|0
+the required traffic control program|DT JJ NN NN NN|BODY_5:BODY_20|0
+asynchronous environmental change|JJ JJ NN|BODY_5|0
+a significant proportion|DT JJ NN|BODY_7|0
+all resource requests|DT NN NNS|BODY_8|0
+two protocols|CD NNS|BODY_4|0
+messages|NNS|BODY_7|0
+holds|NNS|BODY_6:BODY_7|0
+information|NN|BODY_6|0
+the remainder|DT NN|BODY_16:BODY_1|0
+the program state|DT NN NN|BODY_4|0
+a hierarchical composition|DT JJ NN|BODY_3|0
+some v k|DT NN NN|BODY_10|0
+that p|DT NN|BODY_2:BODY_9|0
+the methods|DT NNS|BODY_5:BODY_11|0
+the resulting composite program|DT VBG JJ NN|BODY_5:BODY_1|0
+the property|DT NN|BODY_2|0
+a subject|DT NN|BODY_8|0
+the traffic control example|DT NN NN NN|BODY_2|0
+logical correctness|JJ NN|BODY_3|0
+their constituent programs|PRP$ JJ NNS|BODY_7:ABSTRACT_10|0
+no action|DT NN|BODY_11:BODY_3:BODY_10|0
+the fact|DT NN|BODY_4|0
+the current values|DT JJ NNS|BODY_3|0
+the client|DT NN|BODY_3|0
+the distributed level composition rule|DT VBN NN NN NN|BODY_2:BODY_24|0
+existence|NN|BODY_27:BODY_19|0
+any maximal computation|DT JJ NN|BODY_1:BODY_2|0
+proofs|NNS|BODY_7|0
+fair computation|JJ NN|BODY_8|0
+the variable|DT JJ|BODY_10:BODY_4|0
+composition rules|NN NNS|BODY_6|0
+inference rules|NN NNS|BODY_2|0
+another|DT|BODY_12:BODY_3|0
+the location|DT NN|BODY_5:BODY_2|0
+to|TO|BODY_4|0
+an environmental change|DT JJ NN|BODY_1:BODY_3|0
+their access|PRP$ NN|BODY_5|0
+the problem|DT NN|BODY_1:BODY_3|0
+the composed programs|DT VBN NNS|BODY_5|0
+all the secures properties|DT DT NNS NNS|BODY_6|0
+g( ffi)|JJ NN|BODY_7:BODY_8|0
+z i|FW NN|BODY_5:BODY_22|0
+sections 2|NNS CD|BODY_3|0
+henceforth called busy|RB VBN JJ|BODY_3|0
+henceforth called lazy|RB VBN JJ|BODY_3|0
+conjunction|NN|BODY_3|0
+the partition ff|DT NN NN|BODY_5|0
+token requirement|JJ NN|BODY_6|0
+the antecedent p secures|DT NN NN NNS|BODY_4:BODY_7|0
+all the transitions|PDT DT NNS|BODY_10:BODY_7|0
+w i|JJ PRP|BODY_6|0
+the result secures|DT NN NNS|BODY_2|0
+nondeterminism|NN|BODY_16|0
+function|NN|BODY_7|0
+all :e secures|DT JJ NNS|BODY_3|0
+some behavior|DT NN|BODY_9|0
+3|CD|BODY_4|0
+e.g.|FW|BODY_3|0
+variables and actions|NNS CC NNS|BODY_4|0
+the form|DT NN|BODY_12:BODY_6|0
+the environment changes|DT NN NNS|BODY_1:BODY_8|0
+traffic control|NN NN|BODY_8|0
+a partition|DT NN|BODY_6|0
+( if|-LRB- IN|BODY_3|0
+the optimistic strategy|DT JJ NN|BODY_9|0
+worst-case resource requests|JJ NN NNS|BODY_6|0
+the information|DT NN|BODY_10|0
+most adaptive programs|JJS JJ NNS|BODY_2|0
+distributed synchronization|VBN NN|BODY_2|0
+more than one transition|JJR IN CD NN|BODY_17|0
+that true secures|DT JJ NNS|BODY_5:BODY_7|0
+a logic|DT NN|ABSTRACT_3:BODY_3|0
+variables v and actions|NNS NNS CC NNS|BODY_7|0
+their compatibility|PRP$ NN|BODY_4|0
+their policies|PRP$ NNS|BODY_7|0
+the instant|DT NN|BODY_4|0
+the variable b i|DT JJ NN NN|BODY_7|0
+all subscripts|DT NNS|BODY_20|0
+a while|DT NN|BODY_8|0
+adaptivity , compatibility and composition|NN , NN CC NN|BODY_2|0
+some process|DT NN|BODY_6|0
+both|DT|BODY_6:BODY_8|0
+the sets|DT NNS|BODY_3|0
+busy /e .lazy|JJ NNP NNP|BODY_2|0
+the adaptive token|DT JJ JJ|BODY_2|0
+these two behaviors|DT CD NNS|BODY_2|0
+the distributed system|DT VBN NN|BODY_3|0
+symmetry|NN|BODY_15:BODY_4|0
+fair computation or control structures|JJ NN CC NN NNS|BODY_14|0
+a self-stabilizing program [2|DT JJ NN NN|BODY_4|0
+every state|DT NN|BODY_11:BODY_18|0
+a morning program|DT NN NN|BODY_4|0
+the initial state|DT JJ NN|BODY_3|0
+the adaptive properties|DT JJ NNS|ABSTRACT_9|0
+its domain|PRP$ NN|BODY_8|0
+[1 ]|DT NN|BODY_3|0
+the set|DT NN|BODY_7|0
+a state r|DT NN NN|BODY_18|0
+t )|NN -RRB-|BODY_5:BODY_1|0
+a predicate satisfying predicate l|DT JJ JJ JJ VB|BODY_6|0
+l|VB|BODY_5|0
+real time |JJ NN|BODY_6|0
+that program behavior|DT NN NN|BODY_4|0
+either one|DT CD|BODY_3|0
+x|SYM|BODY_15:BODY_10|0
+the programs|DT NNS|BODY_4|0
+this distributed hierarchical composition|DT VBN JJ NN|BODY_20|0
+no computations|DT NNS|BODY_6|0
+this notion|DT NN|ABSTRACT_1:BODY_9|0
+its change|PRP$ NN|BODY_5|0
+a period|DT NN|BODY_10|0
+idle:t j|JJ JJ|BODY_7|0
+the performance|DT NN|BODY_4|0
+a guarded assignment|DT JJ NN|BODY_3|0
+application|NN|BODY_5|0
+r ) four possibilities|NN -RRB- CD NNS|BODY_6|0
+t k executes|NN NN NNS|BODY_19|0
+a transition|DT NN|BODY_12:BODY_25:BODY_20|0
+the|DT|BODY_21|0
+our principle tool|PRP$ NN NN|BODY_2|0
+ff ( and fi)|NN -LRB- CC NN|BODY_28:BODY_16|0
+a legitimate  state|DT JJ NN NN|BODY_5|0
+the active behavior|DT JJ NN|BODY_9|0
+two actions|CD NNS|BODY_6|0
+converse relationship|JJ NN|BODY_8|0
+separate concerns|JJ NNS|BODY_2|0
+the behavior|DT NN|BODY_1:BODY_8|0
+a busy  program|DT JJ NN NN|BODY_2|0
+other behaviors|JJ NNS|BODY_7|0
+several composition operators|JJ NN NNS|ABSTRACT_2|0
+some performance criteria|DT NN NNS|BODY_3|0
+process|NN|BODY_2|0
+q secures|RB NNS|BODY_11|0
+ff ) fair-under p|NN -RRB- NN NN|BODY_2:BODY_24|0
+' p secures|POS NN NNS|BODY_2|0
+a proper prefix|DT JJ NN|BODY_3|0
+approximate  adap|JJ NN NN|BODY_2|0
+the end|DT NN|BODY_4|0
+theoretical interest|JJ NN|BODY_2|0
+not all instances|RB DT NNS|BODY_2|0
+a distributed data base service|DT VBN NN NN NN|BODY_4|0
+q p secures r|RB NN NNS NN|BODY_12|0
+environmental stability|JJ NN|BODY_11|0
+'s behavior|POS NN|BODY_8|0
+superposition|NN|BODY_13|0
+the class|DT NN|BODY_3|0
+busy / e|JJ NN NN|BODY_3:BODY_9|0
+p ( stability )|RB -LRB- NN -RRB-|BODY_3|0
+adaptivity and self-stabilization|NN CC NN|BODY_5:ABSTRACT_2:BODY_9|0
+the following scenario|DT JJ NN|BODY_2|0
+those adaptive programs|DT JJ NNS|BODY_2|0
+modulo n|JJ NN|BODY_22|0
+a projection|DT NN|BODY_12:BODY_7|0
+other locations|JJ NNS|BODY_8|0
+as|IN|BODY_4|0
+the composition operators|DT NN NNS|BODY_2|0
+the activity|DT NN|BODY_4|0
+incremental and threshold adaptivity|JJ CC NN NN|BODY_2|0
+adaptive routing|JJ NN|BODY_2|0
+1|LS|BODY_6:BODY_14|0
+the lazy protocol|DT JJ NN|BODY_2|0
+a choice|DT NN|BODY_5|0
+the first set|DT JJ NN|BODY_28:BODY_15|0
+researchers|NNS|BODY_2|0
+the consensus|DT NN|BODY_4|1
+two sets|CD NNS|BODY_13:BODY_26|0
+this simple example|DT JJ NN|BODY_8|0
+a sequence|DT NN|BODY_22:BODY_2|1
+suffix|NN|BODY_28:BODY_20|0
+such|JJ|BODY_3|0
+whose behavior|WP$ NN|BODY_4|0
+another as|DT IN|BODY_6|0
+all input variables|DT NN NNS|BODY_9|0
+the distributed level composition|DT VBN NN NN|BODY_12|0
+transition|NN|BODY_15|0
+no reference|DT NN|BODY_17|0
+a matter|DT NN|BODY_3|0
+a technique|DT NN|BODY_3|0
+problems|NNS|BODY_3|0
+the following constraint|DT VBG NN|BODY_9|0
+b)|NN|BODY_3:BODY_8|0
+the following rule|DT JJ NN|BODY_5:BODY_24|0
+an arbitrary state|DT JJ NN|BODY_2|0
+any prefix or suffix|DT NN CC NN|BODY_3|0
+a resource allocation program|DT NN NN NN|BODY_12|0
+( junction|-LRB- NN|BODY_16|0
+some additional constraints|DT JJ NNS|BODY_8|0
+smaller  adaptive programs|JJR RP JJ NNS|BODY_4|0
+0,1,2 ) actions|CD -RRB- NNS|BODY_3|0
+all effort|DT NN|BODY_10|0
+r: false|NN JJ|BODY_7|0
+equal roles|JJ NNS|BODY_4|0
+the concerns|DT NNS|BODY_4|0
+the domains|DT NNS|BODY_4|0
+the role|DT NN|BODY_18|0
+spite|NN|BODY_5|0
+( while|-LRB- IN|BODY_4|0
+programs t|NNS NN|BODY_4|0
+a new but|DT JJ CC|BODY_6|0
+only when one or more|RB WRB CD CC JJR|BODY_7|0
+every the assignment statement c|DT DT NN NN NN|BODY_18|0
+notation|NN|BODY_25|0
+the range|DT NN|BODY_15|0
+a internal variable e input variable b actions|DT JJ JJ NN NN JJ NN NNS|BODY_8|0
+a transient fault|DT JJ NN|BODY_5|0
+a special rule|DT JJ NN|BODY_7|0
+that message retransmission|DT NN NN|BODY_2|0
+the network costs|DT NN NNS|BODY_5:BODY_7|0
+two boolean variables|CD JJ NNS|BODY_21|0
+our methodology|PRP$ NN|BODY_3|0
+an evening program t|DT NN NN NN|BODY_5|0
+straightforward extensions|JJ NNS|BODY_5|0
+contrast|NN|BODY_7|0
+the two predicates|DT CD NNS|BODY_17|0
+i internal variable y input|NN JJ JJ NN NN|BODY_16|0
+assignments|NNS|BODY_8|0
+iii )|NNS -RRB-|BODY_2|0
+a non-empty sequence|DT JJ NN|BODY_5|0
+corresponding sets|JJ NNS|BODY_3|0
+other words|JJ NNS|BODY_5|0
+the s j action|DT PRP JJ NN|BODY_6|0
+self-stabilization [3|NN NN|BODY_24|0
+sequential composition (|JJ NN -LRB-|BODY_3|0
+its internal variables|PRP$ JJ NNS|BODY_4|0
+copy|NN|BODY_4|0
+sections 2 and 3|NNS CD CC CD|BODY_3|0
+true|JJ|BODY_3|0
+the junction rule|DT NN NN|BODY_5|0
+the suffix|DT NN|BODY_12:BODY_11:BODY_21:BODY_14:BODY_4:BODY_19|0
+a complicated formulation|DT JJ NN|BODY_7|0
+that busy self-stabilizes|IN JJ NNS|BODY_4|0
+that concur|IN NN|BODY_4|0
+part|NN|BODY_3|0
+transient faults|JJ NNS|BODY_3|0
+the other program|DT JJ NN|BODY_4|0
+correct adaptation|JJ NN|BODY_12|0
+q secures r|RB NNS NN|BODY_24:BODY_19|0
+different environments|JJ NNS|BODY_4|0
+frequency|NN|BODY_5|0
+a start signal|DT NN NN|BODY_6|0
+input boolean variables|NN JJ NNS|BODY_16|0
+the composition rules|DT NN NNS|BODY_8|0
+some signal|DT NN|BODY_3|0
+internal variable z actions|JJ JJ NN NNS|BODY_10|0
+individual processes|JJ NNS|BODY_2|0
+state s|NN PRP|BODY_16|0
+a non-empty computation|DT JJ NN|BODY_11:BODY_10|0
+) expansion|-RRB- NN|BODY_5|0
+how long|WRB JJ|BODY_9|0
+q ( section 7|RB -LRB- NN CD|BODY_17|0
+iff|NN|BODY_3|0
+self-stabilization and adaptivity|NN CC NN|BODY_2|0
+protocols|NNS|BODY_10|0
+order|NN|BODY_19|0
+no :e secures|DT JJ NNS|BODY_4|0
+a 24-hour day|DT JJ NN|BODY_3|0
+the subordinate adaptive program|DT JJ NN NN|BODY_6|0
+an iterative|DT NN|BODY_3|0
+input r, r ) r secures|NN JJ NN -RRB- NN NNS|BODY_10|0
+idle:t k|JJ NN|BODY_8|0
+the predicate homebusy|DT NN NN|BODY_6|0
+a tool|DT NN|BODY_5|0
+an asynchronously changing environment|DT RB VBG NN|BODY_3|0
+each maximal computation|DT JJ NN|BODY_11:BODY_3:BODY_4|0
+more than one action|JJR IN CD NN|BODY_19|0
+the two strategies|DT CD NNS|BODY_2|0
+the convention|DT NN|BODY_19|0
+false secures r|JJ NNS NN|BODY_1|0
+rules|NNS|BODY_4|0
+section 8|NN CD|BODY_1|0
+the proposed methods|DT VBN NNS|BODY_4|0
+the definitions and composition rules|DT NNS CC NN NNS|BODY_6|0
+an estimate|DT NN|BODY_5|0
+true secures homelazy|JJ NNS NN|BODY_16|0
+-: there|JJ EX|BODY_4|0
+the drift|DT NN|BODY_3|0
+incrementally ) adaptive|RB -RRB- NN|BODY_3|0
+hierarchical )|JJ -RRB-|BODY_7|0
+the pessimistic strategy|DT JJ NN|BODY_4|0
+a variable determines|DT JJ VBZ|BODY_3|0
+the effect|DT NN|BODY_9|0
+the hierarchical composition rule|DT JJ NN NN|BODY_26:BODY_1|0
+n processes|NN NNS|BODY_6|0
+an operational view|DT JJ NN|BODY_7|0
+a sequential program and ff|DT JJ NN CC NN|BODY_5|0
+rank(|NN|BODY_13|0
+the environment and program|DT NN CC NN|BODY_6|0
+that environmental change|IN JJ NN|BODY_11|0
+the following predicate|DT VBG NN|BODY_5|0
+a boolean function|DT JJ NN|BODY_16|0
+the current state|DT JJ NN|ABSTRACT_4|0
+prefix and suffix|NN CC NN|BODY_3|0
+the same|DT JJ|BODY_17|0
+limitations|NNS|BODY_2|0
+few assumptions|JJ NNS|BODY_7|0
+( busy token )|-LRB- JJ JJ -RRB-|BODY_3|0
+the clocks|DT NNS|BODY_4|0
+-;|NN|BODY_10:BODY_8|0
+different policies|JJ NNS|BODY_2|0
+one internal variable z|CD JJ JJ NN|BODY_5|0
+variable b|JJ NN|BODY_7|0
+|NN|BODY_7|0
+any finite number|DT JJ NN|BODY_2|0
+techniques|NNS|BODY_3|0
+some r|DT NN|BODY_3|0
+all actions|DT NNS|BODY_5|0
+nothing|NN|BODY_6|0
+padding|NN|BODY_8|0
+a fixed point|DT JJ NN|BODY_5|0
+6= 2 )|NN CD -RRB-|BODY_6|0
+such that|JJ IN|BODY_17|0
+a kind|DT NN|BODY_7|0
+the two constituent programs|DT CD JJ NNS|BODY_1:BODY_4|0
+the homelazy predicate|DT NN NN|BODY_18|0
+reason|NN|BODY_3|0
+weakening|NN|BODY_13|0
+j|NN|BODY_3|0
+once a state satisfying q|RB DT NN JJ NN|BODY_20|0
+programming|NN|BODY_5|0
+a switch|DT NN|BODY_3|0
+the type|DT NN|BODY_2|0
+busy j|JJ NNS|BODY_7|0
+a token , or t i+1|DT JJ , CC NN NNS|BODY_10|0
+the controller secures|DT NN NNS|BODY_3|0
+a ( threshold ) adaptive protocol|DT -LRB- NN -RRB- NN NN|BODY_3|0
+the distributed hierarchical composition rule|DT VBN JJ NN NN|BODY_3|0
+the two protocols|DT CD NNS|BODY_1|0
+this adaptive program|DT JJ NN|BODY_1|0
+the desired adaptivity properties|DT VBN NN NNS|BODY_21|0
+some clocks|DT NNS|BODY_3|0
+the question|DT NN|BODY_3|0
+the context|DT NN|BODY_3|0
+two adaptive programs|CD JJ NNS|BODY_3|0
+a program transition|DT NN NN|BODY_7|0
+7.3 adaptive token the busy and lazy token programs|CD JJ JJ DT JJ CC JJ JJ NNS|BODY_22|0
+inspection|NN|BODY_6|0
+an adaptive distributed program|DT JJ VBN NN|BODY_8|0
+false|JJ|BODY_15|0
+maximal computations|JJ NNS|BODY_16|0
+:f( b|JJ NN|BODY_4|0
+our work|PRP$ NN|BODY_4|0
+its behavior base|PRP$ NN NN|ABSTRACT_3|0
+d|VBD|BODY_9|0
+our tool|PRP$ NN|BODY_5|0
+one strategy|CD NN|BODY_5|0
+certain aspects|JJ NNS|BODY_4|0
+the only possible solution|DT JJ JJ NN|BODY_4|0
+the protocols|DT NNS|BODY_2|0
+the controller program|DT NN NN|BODY_3|0
+say three periods|VB CD NNS|BODY_4|0
+the afternoon period|DT NN NN|BODY_2|0
+an operational interpretation|DT JJ NN|BODY_13|0
+exactly one process t|RB CD NN NN|BODY_21|0
+our ability|PRP$ NN|BODY_3|0
+an integer variable x i|DT NN JJ SYM NN|BODY_20|0
+variable z actions|JJ FW NNS|BODY_17|0
+a lazy  program|DT JJ NN NN|BODY_3|0
+concerns|NNS|BODY_4|0
+these considerations|DT NNS|BODY_2|0
+idle.t holds|JJ NNS|BODY_8|0
+also every maximal computation|RB DT JJ NN|BODY_12|0
+some processes|DT NNS|BODY_9|0
+each computation|DT NN|BODY_10|0
+the corresponding question|DT JJ NN|BODY_4|0
+an adaptive|DT NN|ABSTRACT_2:BODY_4|0
+low contention|JJ NN|BODY_3:BODY_7|0
+the traditional meaning|DT JJ NN|BODY_5|0
+a broadcast quiesce  operation|DT NN JJ NN NN|BODY_7|0
+the program concur j fz|DT NN NN NN NN|BODY_2|0
+two types|CD NNS|BODY_2|0
+a certain frequency|DT JJ NN|BODY_5|0
+every variable x|DT JJ SYM|BODY_7|0
+assigns values|NNS NNS|BODY_8|0
+internal variable morning|JJ JJ NN|BODY_4|0
+projections|NNS|BODY_20|0
+the two parts|DT CD NNS|BODY_16|1
+all computations|DT NNS|BODY_2|0
+other properties|JJ NNS|BODY_17|0
+a trivial task|DT JJ NN|BODY_5|0
+secures morning|NNS NN|BODY_2|0
+y second|JJ JJ|BODY_3|0
+sequences|NNS|BODY_21|0
+an investigation|DT NN|BODY_2|0
+) r|-RRB- NN|BODY_5|0
+variable clock|JJ NN|BODY_3|0
+a fully distributed program|DT RB VBN NN|BODY_3|1
+concur controls|NN NNS|BODY_7|0
+no internal variable|DT JJ JJ|BODY_11|0
+all|DT|BODY_5|1
+a significant consideration|DT JJ NN|BODY_4|0
+a small number|DT JJ NN|BODY_4|0
+a token , or|DT JJ , CC|BODY_11|0
+all its properties|DT PRP$ NNS|BODY_2|0
+a state predicate|DT NN NN|BODY_15|0
+the above traffic control example|DT JJ NN NN NN|BODY_2|0
+such a self-stabilizing program|JJ DT JJ NN|BODY_6|0
+program execution|NN NN|BODY_3|0
+the meaning|DT NN|BODY_3|0
+day|NN|BODY_4|0
+these four cases|DT CD NNS|BODY_9|0
+the initial values|DT JJ NNS|BODY_8|0
+the following adaptivity property|DT VBG NN NN|BODY_11|0
+the environment and program computation|DT NN CC NN NN|BODY_8|0
+the predicate m i|DT NN NN FW|BODY_8|0
+model concurrency|NN NN|BODY_9|0
+the maximum number|DT JJ NN|BODY_6|0
+empty sets|JJ NNS|BODY_12|0
+computation and environmental change|NN CC JJ NN|BODY_10|0
+2|CD|BODY_25|0
+an assignment statement|DT NN NN|BODY_7|0
+some form|DT NN|BODY_10|0
+the structure|DT NN|BODY_15|0
+verification|NN|BODY_6|0
+us|PRP|BODY_6|0
+various combinations|JJ NNS|BODY_19|0
+an input boolean|DT NN NN|BODY_3|0
+traffic patterns|NN NNS|BODY_2|0
+some predicate r|DT JJ NN|BODY_2|0
+the predicates p and r|DT NNS NN CC NN|BODY_12|0
+input predicates|NN NNS|BODY_13|0
+w|NN|BODY_4:BODY_9|0
+the above program|DT JJ NN|BODY_15|0
+any time|DT NN|BODY_2|0
+( b subsequent transitions|-LRB- NN JJ NNS|BODY_3|0
+an empty range|DT JJ NN|BODY_6|0
+universal quantification|JJ NN|BODY_5|0
+subsequent program transitions|JJ NN NNS|BODY_3|0
+the other hand|DT JJ NN|BODY_1|0
+the junction and sharpening rules|DT NN CC NN NNS|BODY_5|0
+use|NN|BODY_4|0
+them|PRP|BODY_26|0
+appropriate behavior|JJ NN|BODY_7|0
+e.g|NN|BODY_5|0
+the following two definitions|DT VBG CD NNS|BODY_24|0
+all cases|DT NNS|BODY_3|0
+the last state|DT JJ NN|BODY_6|0
+secures assures|NNS NNS|BODY_9|0
+=|SYM|BODY_10|0
+every computation|DT NN|BODY_4|0
+each program|DT NN|BODY_2|0
+the controllability|DT NN|BODY_24|0
+these restricted assumptions|DT JJ NNS|BODY_2|0
+a ( finite ) prefix|DT -LRB- JJ -RRB- NN|BODY_8|0
+of|IN|BODY_12|0
+the same name|DT JJ NN|BODY_5|0
+the choice|DT NN|BODY_8|0
+some ff 0|DT NN CD|BODY_7|0
+a new computation|DT JJ NN|BODY_5|0
+iii|NNS|BODY_8|0
+the literature|DT NN|BODY_23|0
+a shared bus|DT VBN NN|BODY_5|0
+f )|NN -RRB-|BODY_5|0
+the following examples|DT VBG NNS|BODY_1|0
+the function f|DT NN NN|BODY_1|0
+the concepts|DT NNS|BODY_4|0
+specification|NN|BODY_7|0
+the possibility|DT NN|BODY_2|0
+ii )|NNS -RRB-|BODY_3|0
+response|NN|BODY_2|0
+interest|NN|BODY_3|0
+variable abstraction|JJ NN|BODY_6|0
+an optimistic one|DT JJ CD|BODY_4|0
+r secures|NN NNS|BODY_15|0
+different behaviors|JJ NNS|BODY_5|0
+some synchrony|DT NN|BODY_5|0
+busy satisfies|JJ NNS|BODY_8|0
+its behavior|PRP$ NN|BODY_4|0
+a situation|DT NN|BODY_5|0
+'s source and destination|POS NN CC NN|BODY_6|0
+this state|DT NN|BODY_5:BODY_1|0
+this result|DT NN|BODY_4|0
+. secures|. NNS|BODY_6|0
+all subsequent states|DT JJ NNS|BODY_21|0
+whose definition|WP$ NN|BODY_16|0
+the case study|DT NN NN|BODY_17|0
+no name|DT NN|BODY_6|0
+a sinusoidal pattern|DT JJ NN|BODY_4|0
+:waiting 4 adaptivity|VBG CD NN|BODY_3|0
+the token ( lazy token )|DT JJ -LRB- JJ JJ -RRB-|BODY_9|0
+no transition originating|DT NN NN|BODY_5|0
+a finite sequence|DT JJ NN|BODY_3|0
+let h|VB NN|BODY_8|0
+legitimate  state|JJ NN NN|BODY_4|0
+r ) q|NN -RRB- RB|BODY_3|0
+such a situation|JJ DT NN|BODY_1|0
+0 secures|CD NNS|BODY_16|0
+7] )|JJ -RRB-|BODY_6|0
+) )|-RRB- -RRB-|BODY_11|0
+however secures|RB NNS|BODY_6|0
+the vector|DT NN|BODY_4|0
+any internal variable|DT JJ NN|BODY_18|0
+sets|NNS|BODY_15|0
+distributed systems|VBN NNS|BODY_5|0
+-: junction ( conjunction )|NN NN -LRB- NN -RRB-|BODY_8|0
+the program ( w|DT NN -LRB- NN|BODY_2:BODY_7|0
+every i|DT VBP|BODY_14|0
+therefore y controls|RB NN NNS|BODY_3|0
+common|JJ|BODY_10|0
+applications|NNS|BODY_4|0
+disjoint sets|JJ NNS|BODY_9|0
+program adaptivity|NN NN|BODY_4|0
+some logical properties|DT JJ NNS|BODY_5|0
+sets partitions|NNS NNS|BODY_12|0
+the cartesian product|DT JJ NN|BODY_3|0
+the same change|DT JJ NN|BODY_6|0
+high contention|JJ NN|BODY_4|0
+[1]|NNP|BODY_3|0
+no process|DT NN|BODY_3|0
+interrupts )|NNS -RRB-|BODY_17|0
+a ik|DT NN|BODY_8|0
+fourth , z|JJ , FW|BODY_1|0
+a case study|DT NN NN|BODY_3:ABSTRACT_1|0
+ threshold|JJ NN|BODY_7|0
+priority |NN|BODY_13|0
+busy self-stabilizes|JJ NNS|BODY_3|0
+morning secures|NN NNS|BODY_7|0
+let idle:t|VB NN|BODY_1|0
+3.2 hierarchical composition|CD JJ NN|BODY_1|0
+empty )|JJ -RRB-|BODY_12|0
+'s conclusion|POS NN|BODY_18|1
+self-stabilizes|NNS|BODY_4|0
+environment|NN|BODY_19|0
+.e|NN|BODY_7|0
+compatible distributed programs|JJ VBN NNS|BODY_13|0
+nor t|CC NN|BODY_11|0
+some operators|DT NNS|BODY_8|0
+x i actions|SYM FW NNS|BODY_13|0
+an image|DT NN|BODY_2|0
+therefore distributed hierarchical composition|RB VBN JJ NN|BODY_1|0
+the assignment statement c|DT NN NN NN|BODY_7|0
+1 )|CD -RRB-|BODY_6|0
+given constituent programs|VBN JJ NNS|ABSTRACT_6|0
+the notions|DT NNS|BODY_3|0
+the two distributed composition rules|DT CD VBN NN NNS|BODY_5|0
+that t|IN NN|BODY_17|0
+lazy j|JJ NN|BODY_10|0
+the signal|DT NN|BODY_5|0
+a straightforward way|DT JJ NN|BODY_18|0
+both antecedents|DT NNS|BODY_6|0
+some transition|DT NN|BODY_3|0
+let e|VB NN|BODY_6|0
+a rapidly changing network|DT RB VBG NN|BODY_5|0
+optimal routes|JJ NNS|BODY_3|0
+issues|NNS|BODY_3|0
+the third condition|DT JJ NN|BODY_5|0
+the requirement|DT NN|BODY_2|0
+less similar|RBR JJ|BODY_11|0
+stronger assumptions|JJR NNS|BODY_3|0
+the adaptive program secures|DT JJ NN NNS|BODY_5|0
+three input variables b|CD NN NNS NN|BODY_3|0
+a token-ring protocol [9]|DT JJ NN NN|BODY_8|0
+every consecutive pair|DT JJ NN|BODY_24|0
+two compatible sequential programs|CD JJ JJ NNS|BODY_2|0
+p and q|JJ CC RB|BODY_11|0
+specific types|JJ NNS|BODY_3|0
+second step|JJ NN|BODY_26|0
+local clocks|JJ NNS|BODY_6|0
+its process|PRP$ NN|BODY_5|0
+a syntactic restriction|DT JJ NN|BODY_2|0
+the bus )|DT NN -RRB-|BODY_6|0
+some suffix|DT NN|BODY_7|0
+variable waiting|JJ VBG|BODY_5|0
+worst-case scenarios|JJ NNS|BODY_5|0
+a question|DT NN|BODY_1|0
+the sample|DT NN|BODY_4|0
+idle:t|NN|BODY_4|0
+some k|DT NN|BODY_19|0
+any s|DT VBZ|BODY_2|0
+0)|CD|BODY_2|0
+priority|NN|BODY_33|0
+t k actions|NN NN NNS|BODY_32|0
+the single process|DT JJ NN|BODY_7|0
+r: note|JJ NN|BODY_8|0
+any initialization|DT NN|BODY_11|0
+every state or x|DT NN CC NN|BODY_16|0
+a value|DT NN|BODY_12|0
+program t|NN RB|BODY_30|0
+the examples|DT NNS|BODY_2|0
+the techniques|DT NNS|BODY_2|0
+the following secures relation|DT VBG NNS NN|BODY_5|0
+static long enough|JJ JJ RB|BODY_4|0
+the sequential program|DT JJ NN|BODY_6|0
+resource requests|NN NNS|BODY_2|0
+broad applicability|JJ NN|BODY_4|0
+t controls|NN NNS|BODY_8|0
+the hierarchical rule|DT JJ NN|BODY_30|0
+its own accord|PRP$ JJ NN|BODY_4|0
+executed thanks|VBN NNS|BODY_21|0
+a generalization|DT NN|BODY_3|0
+a particular type|DT JJ NN|BODY_3|0
+the evening|DT NN|BODY_4|0
+a ring|DT NN|ABSTRACT_5:BODY_4:BODY_10:BODY_7|0
+the part|DT NN|BODY_7|1
+7.1 busy token|CD JJ NN|BODY_1|0
+7.2 lazy token|CD JJ NN|BODY_1|0
+the antecedent secures|DT NN NNS|BODY_14:BODY_4|0
+our level composition rule corresponds|PRP$ NN NN NN NNS|BODY_1|0
+an appropriate suffix|DT JJ NN|BODY_3|1
+h( ae )|JJ NNS -RRB-|BODY_14|1
+a token or|DT JJ CC|BODY_14|0
+the transaction|DT NN|BODY_5|0
+ change|JJ NN|BODY_4|0
+each period|DT NN|BODY_2|0
+clock morning|NN NN|BODY_6|0
+our proof|PRP$ NN|BODY_2|0
+an infinite sequence|DT JJ NN|BODY_7|0
+variable values|JJ NNS|BODY_21|0
+some state|DT NN|BODY_3|0
+program computation|NN NN|BODY_1:BODY_2|0
+traffic flow|NN NN|BODY_10|0
+that program y|DT NN RB|BODY_9|0
+the environmental conditions|DT JJ NNS|BODY_8|0
+a certain environment|DT JJ NN|BODY_5|0
+a long period|DT JJ NN|BODY_3|0
+long periods|JJ NNS|BODY_4|0
+any upper|DT JJ|BODY_6|0
+an element|DT NN|BODY_9|0
+a transient phenomenon|DT NN NN|BODY_4|0
+y|NN|BODY_2|0
+a prescribed domain|DT VBN NN|BODY_3|0
+its current environment|PRP$ JJ NN|BODY_3|0
+false )|JJ -RRB-|BODY_3|0
+a token and t|DT JJ CC NN|BODY_13|0
+g|NN|BODY_5|0
+the evening program t|DT NN NN NN|BODY_7|0
+the same rank|DT JJ NN|BODY_26|0
+the need|DT NN|BODY_3|0
+that continued execution|DT JJ NN|BODY_26|0
+the same question|DT JJ NN|BODY_1|0
+an adequately long period|DT RB JJ NN|BODY_6|0
+the assignment|DT NN|BODY_4|0
+simplicity|NN|BODY_4|0
+two strategies|CD NNS|BODY_1|0
+two distributed protocols|CD VBN NNS|BODY_1|0
+the antecedent ( q secures r|DT NN -LRB- NN NNS NN|BODY_8|0
+the rules|DT NNS|BODY_14|0
+( distributed hierarchical composition|-LRB- VBN JJ NN|BODY_26|0
+the complete execution|DT JJ NN|BODY_2|0
+no restriction|DT NN|BODY_17|0
+ffi t|JJ NN|BODY_17:BODY_3|0
+such cases|JJ NNS|BODY_5|0
+first step|JJ NN|BODY_18|0
+token requests|JJ NNS|BODY_4|0
+the transition|DT NN|BODY_2|0
+-: let f|NNP VB NN|BODY_6|0
+a new behavior|DT JJ NN|BODY_11|0
+also permits|RB VBZ|BODY_2|0
+a global view|DT JJ NN|BODY_11|0
+f( ae|JJ NNS|BODY_10|0
+the maximal computation f(|DT JJ NN NN|BODY_3|0
+an interleaving|DT VBG|BODY_14|0
+its input variables|PRP$ NN NNS|BODY_4|0
+the relation t|DT NN NN|BODY_2|0
+the following property|DT JJ NN|BODY_23|0
+either infinite|DT JJ|BODY_3|0
+two cases|CD NNS|BODY_4|0
+i )|FW -RRB-|BODY_7|0
+two proof obligations|CD JJ NNS|BODY_15|0
+a scenario|DT NN|BODY_2|0
+a process|DT NN|BODY_4|0
+feg|NN|BODY_6|0
+( :e|-LRB- FW|BODY_22|0
+( distributed level composition|-LRB- VBN NN NN|BODY_3|0
+the other actions|DT JJ NNS|BODY_5|0
+[4]|NN|BODY_15|0
+the same domain|DT JJ NN|BODY_9|0
+the same type|DT JJ NN|BODY_9|0
+j executes|JJ NNS|BODY_17|0
+so long|RB JJ|BODY_16|0
+every suffix|DT NN|BODY_10|0
+( left|-LRB- NN|BODY_5:BODY_10:BODY_7|0
+appendix 10.1 proofs|NN CD NNS|BODY_1|0
+our desire|PRP$ NN|BODY_1|0
+.t|NN|BODY_5|0
+let|VB|BODY_1|0
+the distributed hierarchical composition|DT VBN JJ NN|BODY_7|0
+stabilization|NN|BODY_5|0
+these three examples|DT CD NNS|BODY_1|0
+many choices|JJ NNS|BODY_3|0
+any variable|DT JJ|BODY_18|0
+empty and single-state sequences|JJ CC JJ NNS|BODY_1|0
+an ordered pair|DT JJ NN|BODY_22|0
+the composite ( t|DT JJ -LRB- NN|BODY_2|0
+0) holds|CD NNS|BODY_4|0
+its two constituent programs|PRP$ CD JJ NNS|BODY_6|0
+, and therefore f( ae|, CC RB JJ NNS|BODY_5|0
+a transition and p holds|DT NN CC NN VBZ|BODY_10|0
+a prerequisite|DT NN|BODY_21|0
+constraints|NNS|BODY_4|0
+the t actions|DT JJ NNS|BODY_2|0
+the local clocks|DT JJ NNS|BODY_7|0
+its action|PRP$ NN|BODY_10|0
+that true|DT JJ|BODY_1|0
+a changing environment|DT VBG NN|BODY_5|0
+a dynamic environment|DT JJ NN|BODY_5|0
+speaking|NN|BODY_1|0
+ stable  (|RB JJ RB -LRB-|BODY_16|0
+the program t|DT NN NN|BODY_2|0
+(adaptivity ) iff p|NN -RRB- IN NN|BODY_8|0
+the program internal variable x|DT NN JJ JJ NN|BODY_1|0
+an arbitrary maximal computation|DT JJ JJ NN|BODY_2|0
+no transition|DT NN|BODY_19|0
+turn|NN|BODY_4|0
+such transient errors|JJ JJ NNS|BODY_4|0
+this concern|DT NN|BODY_9|0
+such that p|JJ DT NN|BODY_8|0
+program w: ) b|NN NN -RRB- NN|BODY_23|0
+7 case study|CD NN NN|BODY_1|0
+a pair|DT NN|BODY_2|0
+this )|DT -RRB-|BODY_19|0
+the eventual progress|DT JJ NN|BODY_3|0
+no special attributes|DT JJ NNS|BODY_5|0
+h|NN|BODY_13|0
+program t terminates|NN NN NNS|BODY_11|0
+) iff|-RRB- NN|BODY_7|0
+an optimal route|DT JJ NN|BODY_1|0
+a distributed program and p secures|DT VBN NN CC NN NNS|BODY_10|0
+concurrency )|NN -RRB-|BODY_12|0
+let b|VB NN|BODY_1|0
+the proof obligation|DT NN NN|BODY_5|0
+applicability|NN|BODY_9|0
+another question|DT NN|BODY_1|0
+such a method|PDT DT NN|BODY_1|0
+) iff p|-RRB- NN NN|BODY_14|0
+ffi t and p|JJ NN CC NN|BODY_5|1
+fi) controls|JJ NNS|BODY_2|0
+3.1 level composition level composition|CD NN NN NN NN|BODY_1|0
+an exception|DT NN|BODY_1|0
+a ( i\gamma1)k ]|DT -LRB- NN NN|BODY_11|0
+)/e .( t|JJ NN NN|BODY_15|0
+ff ) and ( t|NN -RRB- CC -LRB- NN|BODY_3|0
+ff ) and t|NN -RRB- CC NN|BODY_20|0
+an alternative method|DT JJ NN|BODY_1|0
+hence|RB|BODY_13|0
+any computation|DT NN|BODY_4|0
+show|NN|BODY_1|0
+the example|DT NN|BODY_1|0
+the period|DT NN|BODY_5|0
+tivity|NN|BODY_3|0
+a prefix|DT NN|BODY_6|0
+idle:t and q hold|JJ CC RB NN|BODY_23|0
+the prefix|DT NN|BODY_9|0
+therefore ( p|RB -LRB- NN|BODY_10|0
+a variable|DT JJ|BODY_14|0
+an internal or input variable|DT JJ CC NN JJ|BODY_22|0
+compatible t secures|JJ NN NNS|BODY_29|0
+one program y|CD NN NN|BODY_2|0
+the composite t|DT JJ NN|BODY_12|0
+the morning program|DT NN NN|BODY_2|0
+two sequential programs|CD JJ NNS|BODY_2:BODY_1|0
+the methodology|DT NN|BODY_1|0
+( q|-LRB- NN|BODY_14|0
+that r|DT NN|BODY_12|0
+hence q|RB NN|BODY_16|0
+those periods|DT NNS|BODY_9|0
+3 , 6 , 10]|CD , CD , CD|BODY_5|0
+some environment|DT NN|BODY_8|0
+the logic|DT NN|ABSTRACT_1|0
+the other protocol|DT JJ NN|BODY_1|0
+a predictable environment|DT JJ NN|BODY_9|0
+another reason|DT NN|BODY_1|0
+the motivation|DT NN|BODY_1|0
+the form p|DT NN NN|BODY_4|0
+6= j )|JJ JJ -RRB-|BODY_20|0
+their having secures properties|PRP$ VBG NNS NNS|BODY_5|0
+our methodological contribution|PRP$ JJ NN|BODY_1|0
+well-known [12]|JJ NN|BODY_4|0
+the distinction|DT NN|BODY_1|0
+token circulation|JJ NN|BODY_8|0
+a data base service|DT NN NN NN|BODY_1|0
+the following example|DT VBG NN|BODY_1|0
+secures and self-stabilization|NNS CC NN|BODY_9|0
+any instant|DT NN|BODY_1|0
+the truth and sharpening rules|DT NN CC NN NNS|BODY_4|0
+each instance|DT NN|BODY_1|0
+as follows|RB VBZ|BODY_15|0
+t fourth|NN JJ|BODY_1|0
+network costs|NN NNS|BODY_5|0
+a second object|DT JJ NN|BODY_1|0
+one object|CD NN|BODY_1|0
+this scenario|DT NN|BODY_1|0
+let f|VB NN|BODY_1|0
+the authors|DT NNS|ABSTRACT_1|0
+prerequisite|NN|BODY_1|0
+( busy / e|-LRB- JJ NN NN|BODY_4|0
+( busy / e .lazy ) fair-under true holds|-LRB- JJ NN NN JJ -RRB- NN JJ NNS|BODY_4|0
+lazy ) and secures|JJ -RRB- CC NNS|BODY_1|0
+such a message|JJ DT NN|BODY_8|0
+) ! traffic :=|-RRB- . NN NN|BODY_9|0
+a busy token behavior|DT JJ JJ NN|BODY_1|0
+a lazy token behavior|DT JJ JJ NN|BODY_1|0
+arbitrarily chosen , initial state|RB VBN , JJ NN|BODY_7|0
+( correctness|-LRB- NN|BODY_1|0
+a new initial state|DT JJ JJ NN|BODY_7|0
+different processes|JJ NNS|BODY_4|0
+lazy frequently |JJ RB|BODY_1|0
+instances|NNS|BODY_1|0
+this kind|DT NN|BODY_1|0
+therefore maximal computations|RB JJ NNS|BODY_1|0
+one case|CD NN|BODY_1|0
+any switch|DT NN|BODY_1|0
+! traffic|. NN|BODY_11|0
+their corresponding processes|PRP$ JJ NNS|BODY_4|0
+level and hierarchical|NN CC JJ|BODY_4|0
+desired properties|VBN NNS|BODY_1|0
+properties|NNS|BODY_1|0
+safety properties )|NN NNS -RRB-|BODY_6|0
+a significant application|DT JJ NN|BODY_1|0
+second|JJ|BODY_1|0
+both protocols|DT NNS|BODY_1|0
+self-stabilizing programs|JJ NNS|BODY_1|0
+6 adaptivity and self-stabilization|CD NN CC NN|BODY_1|0
+lazy ) 8 applicability|JJ -RRB- CD NN|BODY_1|0
+the second obligation|DT JJ NN|BODY_1|1
+the first obligation|DT JJ NN|BODY_1|0
+all i|DT NN|BODY_9|0
+v i|NN PRP|BODY_10|0
+all their adaptive properties|DT PRP$ JJ NNS|BODY_10|0
+the characteristic property|DT JJ NN|BODY_1|0
+simplification|NN|BODY_1|0
+2. periods|DT NNS|BODY_1|0
+environmental inputs|JJ NNS|BODY_4|0
+both ffi and !|DT NN CC .|BODY_33|0
+a distributed system )|DT VBN NN -RRB-|BODY_7|0
+the controller program selects|DT NN NN NNS|BODY_1|0
+a prefix and suffix|DT NN CC NN|BODY_1|0
+the antecedent ( p secures|DT NN -LRB- NN NNS|BODY_1|0
+let program|VB NN|BODY_1|0
+the frequency|DT NN|BODY_8|0
+its constituent programs|PRP$ JJ NNS|BODY_6|0
+a single program|DT JJ NN|BODY_4|0
+program computations|NN NNS|BODY_6|0
+the framework|DT NN|BODY_1|0
+each action p|DT NN NN|BODY_32|0
+2 adaptivity|CD NN|BODY_1|0
+3 composition|CD NN|BODY_1|0
+these definitions|DT NNS|BODY_1|0
+high con- tention|JJ NNS NN|BODY_8|0
+introduction|NN|BODY_1|0
+the system executes|DT NN NNS|BODY_1|0
+night|NN|BODY_7|0
+) p and ( p|-RRB- NN CC -LRB- NN|BODY_3|0
+many cases|JJ NNS|BODY_1|0
+our view|PRP$ NN|BODY_1|0
+this case|DT NN|BODY_1|0
+this new computation|DT JJ NN|BODY_8|0
+5 composition|CD NN|BODY_1|0
+section 4|NN CD|BODY_5|0
+sections 4 and 5|NNS CD CC CD|BODY_6|0
+the same variable|DT JJ JJ|BODY_13|0
+an upper bound|DT JJ JJ|BODY_1|0
+every variable|DT JJ|BODY_1|0
+only|RB|BODY_22|0
+[8]|NN|BODY_3|0
+of four steps|IN CD NNS|BODY_2|0
+the paper|DT NN|BODY_15|0
+the reader|DT NN|BODY_1|0
+the value|DT NN|BODY_1|0
+[8|NNS|BODY_1|0
+a consequence|DT NN|BODY_1|0
+a traffic control program|DT NN NN NN|BODY_2|0
+stabi- lize|DT NN|BODY_5|0
+which view|WDT NN|BODY_6|0
+ff locates|NN NNS|BODY_1|0
+its next transition|PRP$ JJ NN|BODY_16|0
+the treatment|DT NN|BODY_1|0
+an internal variable traffic|DT JJ JJ NN|BODY_4|1
+arbitrary values|JJ NNS|BODY_8|1
+the afternoon traffic patterns|DT NN NN NNS|BODY_6|0
+the busy program behavior|DT JJ NN NN|BODY_7|0
+the following program|DT VBG NN|BODY_1|0
+its processes|PRP$ NNS|BODY_16|0
+a composite program|DT JJ NN|BODY_3|0
+a projection maps|DT NN NNS|BODY_1|0
+exactly one token|RB CD JJ|BODY_8|0
+two tokens|CD NNS|BODY_10|0
+'s current environment|POS JJ NN|BODY_14|0
+'s internal variables|POS JJ NNS|BODY_10|0
+proper adaptation|JJ NN|BODY_8|0
+left , right|NN , NN|BODY_8|1
+the first transition|DT JJ NN|BODY_1|0
+any prefix|DT NN|BODY_1|0
+afternoon patterns|NN NNS|BODY_10|0
+the appropriate value|DT JJ NN|BODY_5|0
+some limitations|DT NNS|BODY_1|0
+the following inference rules|DT VBG NN NNS|BODY_11|0
+element-wise application|JJ NN|BODY_23|0
+two steps|CD NNS|BODY_3|0
+'s environment|POS NN|BODY_12|0
+the last line|DT JJ NN|BODY_1|0
+the morning|DT NN|BODY_1|0
+undesirable behavior|JJ NN|BODY_3|0
+a few hours|DT JJ NNS|BODY_7|0
+each change|DT NN|BODY_1|0
+others|NNS|BODY_6|0
+5.1 distributed level composition|CD VBN NN NN|BODY_1|0
+9 conclusions|CD NNS|BODY_1|0
+convenience|NN|BODY_1|0
+each case|DT NN|BODY_10|1
+incremental adaptivity|JJ NN|BODY_4|0
+one part|CD NN|BODY_20|1
+our assumptions|PRP$ NNS|BODY_1|0
+our level composition rule|PRP$ NN NN NN|BODY_1|0
+section 7|NN CD|BODY_1|0
+state projections|NN NNS|BODY_10|0
+the presentation|DT NN|BODY_1|0
+the same way|DT JJ NN|BODY_1|0
+this end|DT NN|BODY_1|0
+underlying self-stabilization|VBG NN|BODY_4|0
+judicious use|JJ NN|BODY_1|0
+an adaptive routing protocol|DT JJ NN NN|BODY_5|0
+unpredictable behavior|JJ NN|BODY_9|0
+variable initialization|JJ NN|BODY_10|0
+a common variable|DT JJ JJ|BODY_5|0
+its states|PRP$ NNS|BODY_3:BODY_4|0
+junction ( disjunction )|NN -LRB- NN -RRB-|BODY_1|0
+that ae|DT NNS|BODY_1|0
+the computation g( ffi)|DT NN NN NN|BODY_1|0
+this suffix|DT NN|BODY_1|0
+an internal variable|DT JJ JJ|BODY_5|0
+variable z i|JJ FW FW|BODY_1|0
+any transition|DT NN|BODY_1|0
+a given sequential program|DT VBN NN NN|BODY_1|0
+'s computation|POS NN|BODY_25|0
+( s|-LRB- PRP|BODY_1|0
+sharpening|NN|BODY_1|0
+5.2 distributed hierarchical composition|CD VBN JJ NN|BODY_1|0
+:idle:t|NNP|BODY_20|0
+a state satisfying p|DT NN JJ NN|BODY_4|0
+an action p|DT NN NN|BODY_27|0
+ff ) / e|NN -RRB- NN NN|BODY_5:BODY_28|0
+ff ) iff rank(fi) and t controls|NN -RRB- NN NN CC NN NNS|BODY_4|0
+two compatible distributed programs|CD JJ VBN NNS|BODY_1|0
+let ae|VB NNS|BODY_1|0
+g( ae )|JJ NNS -RRB-|BODY_13|0
+also holds|RB VBZ|BODY_1|0
+the first action|DT JJ NN|BODY_1|0
+this computation|DT NN|BODY_3|0
+adaptive programming|JJ NN|TITLE_1|0
+example 1|NN CD|BODY_1|0
+example 3|NN CD|BODY_1|0
+t ( level composition ) example|NN -LRB- NN NN -RRB- NN|BODY_1|0

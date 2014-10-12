@@ -1,0 +1,45 @@
+we|PRP|BODY_1:BODY_4|1
+different data sets|JJ NNS NNS|BODY_2|0
+a convenient method|DT JJ NN|BODY_2|0
+chemically relevant scales|RB JJ NNS|BODY_2|0
+descriptor boundaries|NN NNS|BODY_3|0
+greatly simplifying similarity and diversity analyses|RB JJ NN CC NN NNS|BODY_3|0
+the 10th and 90th percentile values|DT JJ CC JJ NN NNS|BODY_2|0
+use|NN|BODY_4|0
+descriptors|NNS|BODY_2|0
+other drug-like characteristics|JJ JJ NNS|BODY_7|0
+based scaling|VBN NN|BODY_2|0
+molecular topology|JJ NN|BODY_9|0
+a number|DT NN|BODY_6|1
+cmc , mddr , and nci)|JJ , JJ , CC RB|BODY_2|1
+each descriptor|DT NN|BODY_3|0
+values|NNS|BODY_2|0
+bioavailability|NN|BODY_6|0
+compounds|NNS|BODY_3|0
+biological activity|JJ NN|BODY_5|0
+little potential|JJ JJ|BODY_4|0
+chemical properties|NN NNS|BODY_8|0
+molecular descriptors|JJ NNS|BODY_3|0
+a universal chemical scale|DT JJ NN NN|BODY_4|0
+any analysis|DT NN|BODY_7|0
+a basis|DT NN|BODY_3|1
+chemically meaningful scales|RB JJ NNS|BODY_5|1
+a difficult issue|DT JJ NN|BODY_6|0
+library design and analysis scaling|NN NN CC NN NN|BODY_5|0
+several advantages|JJ NNS|BODY_2|0
+these chemically derived scaling functions|DT RB VBN JJ NNS|BODY_1|0
+a common scale|DT JJ NN|BODY_3|0
+properties|NNS|BODY_1|0
+chemically reasonable topology spaces|RB JJ NN NNS|BODY_4|0
+data sets|NNS NNS|BODY_4|0
+it|PRP|BODY_1|0
+this approach|DT NN|BODY_1|0
+addition|NN|BODY_1|0
+outlier filtering|NN VBG|BODY_5|0
+example|NN|BODY_1|0
+outliers|NNS|BODY_8|0
+chemical information|NN NN|BODY_1|0
+disparate descriptors|JJ NNS|BODY_10|0
+314 molecular descriptors|CD JJ NNS|BODY_3|0
+molecular properties and topology descriptors|JJ NNS CC NN NNS|BODY_7|1
+several publicly available databases|JJ RB JJ NNS|BODY_1|1

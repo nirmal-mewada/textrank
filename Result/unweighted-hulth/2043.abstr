@@ -1,0 +1,36 @@
+algorithms|NNS|BODY_5:BODY_8|0
+that|WDT|BODY_6:BODY_4|0
+lu factorizations|FW NNS|BODY_3|0
+fdtd loops|JJ NNS|BODY_2|0
+iterative solvers|JJ NNS|BODY_4|0
+8600 processor|CD NN|BODY_5|0
+two reference platforms|CD NN NNS|BODY_2|0
+an athlon 900 mhz|DT NN CD NN|BODY_3|0
+an hp|DT NN|BODY_4|0
+the impact|DT NN|BODY_12|0
+computational electromagnetics codes|JJ NNS NNS|BODY_2|0
+their operation count|PRP$ NN NN|BODY_11|0
+computer architecture|NN NN|BODY_3|0
+arithmetic processors|JJ NNS|BODY_2|0
+the number|DT NN|BODY_6|0
+a high data movement|DT JJ NN NN|BODY_5|0
+codes|NNS|BODY_3|0
+matrix-matrix multiplications|NN NNS|BODY_1|0
+matrix-vector multiplications|NN NNS|BODY_2|0
+the innermost loops|DT JJ NNS|BODY_5|0
+cem) codes|NN NNS|BODY_10|0
+computational electromagnetics|JJ NNS|BODY_9|0
+the algorithmic complexity|DT JJ NN|BODY_4|0
+it|PRP|BODY_2:BODY_1|0
+the actual performance|DT JJ NN|BODY_4|0
+only the complexity|RB DT NN|BODY_3|0
+the complexity|DT NN|BODY_7|0
+dense matrices|JJ NNS|BODY_5|0
+implications|NNS|BODY_1|0
+the findings|DT NNS|BODY_6|0
+times|NNS|BODY_1|0
+the underlying computer hardware|DT JJ NN NN|BODY_13|0
+limits|NNS|BODY_1|0
+arithmetic operations|JJ NNS|BODY_7|0
+memory chips|NN NNS|BODY_1|0
+faster execution|JJR NN|BODY_6|0

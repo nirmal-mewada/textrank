@@ -1,0 +1,26 @@
+the decoupler|DT NN|BODY_5:BODY_1|0
+|NNS|BODY_3|0
+the simulation model|DT NN NN|BODY_2|0
+single loop fuzzy controllers|JJ NN JJ NNS|BODY_3|0
+each loop|DT NN|BODY_4|0
+two parts|CD NNS|BODY_2|0
+multivariable process|JJ NN|BODY_2|0
+the squared ( equal number|DT VBN -LRB- JJ NN|BODY_6|0
+feedback control|NN NN|BODY_2|0
+a control concept|DT NN NN|BODY_5|0
+modified error|VBN NN|BODY_3|0
+the input ( error )|DT NN -LRB- NN -RRB-|BODY_3|0
+an adaptive technique|DT JJ NN|BODY_6|0
+the error|DT NN|BODY_3|0
+this paper|DT NN|BODY_4|0
+the interacting loop changes|DT NN NN NNS|BODY_2|0
+the loop|DT NN|BODY_4|0
+single component vaporizer  process|JJ NN NN NNS NN|BODY_4|0
+the controller|DT NN|BODY_1|0
+a centralized decoupling unit|DT JJ NN NN|BODY_5|0
+the proposed control system|DT JJ NN NN|BODY_1|0
+fuzzy control|JJ NN|BODY_1|0
+inputs and outputs ) multivariable process systems|NNS CC NNS -RRB- JJ NN NNS|BODY_7|0
+the fuzzy control system|DT JJ NN NN|BODY_1|0
+the loop controller|DT NN NN|BODY_4|0
+loop interactions|NN NNS|BODY_7|0

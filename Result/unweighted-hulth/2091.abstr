@@ -1,0 +1,60 @@
+the patient|DT NN|BODY_6:BODY_5|0
+am images|VBP NNS|BODY_2|0
+this algorithm|DT NN|BODY_3|0
+metal artifacts|NN NNS|BODY_1:BODY_8|0
+the dominant view|DT JJ NN|BODY_2|0
+the physical process|DT JJ NN|BODY_9|0
+computer simulations|NN NNS|BODY_2|0
+noise , scatter|NN , NN|BODY_15|0
+quantitative computed tomography imaging|JJ JJ NN NN|BODY_2|0
+severe artifacts|JJ NNS|BODY_10|0
+other metal foreign objects|JJ NN JJ NNS|BODY_9|0
+the presence|DT NN|BODY_3|0
+ct detector response|JJ NN NN|BODY_8|0
+the literature|DT NN|BODY_3|0
+that|WDT|BODY_14|0
+the impact|DT NN|BODY_3|0
+am|VBP|BODY_9|0
+combination|NN|BODY_2|0
+attenuation map|NN NN|BODY_8|0
+object-constrained ct|JJ NN|BODY_3|0
+tissue attenuation|NN NN|BODY_10|0
+quantitative estimation|JJ NN|BODY_9|0
+patients|NNS|BODY_7|0
+statistical image reconstruction x-ray|JJ NN NN NN|BODY_5|0
+fbp|CC|BODY_6|0
+mismatches|NNS|BODY_5|0
+minimization ( am )|NN -LRB- VBP -RRB-|BODY_12|0
+the polyenergetic spectrum|DT JJ NN|BODY_5|0
+'s simplified model|POS JJ NN|BODY_7|0
+streaking artifacts|VBG NNS|BODY_4|0
+foreign metal bodies|JJ NN NNS|BODY_4|0
+metal intracavitary applicators|NN NN NNS|BODY_8|0
+a ct detector model|DT JJ NN NN|BODY_13|0
+scattered radiation|JJ NN|BODY_4|0
+tomography ( ct) images|NN -LRB- JJ NNS|BODY_6|0
+deterministic iterative deblurring|JJ NN NN|BODY_10|0
+the performance|DT NN|BODY_7|0
+a new iterative algorithm|DT JJ NN NN|BODY_11|0
+measurement noise|NN NN|BODY_6|0
+conventional filtered backprojection ( fbp)|JJ JJ NN -LRB- NN|BODY_9|0
+three reconstruction algorithms|CD NN NNS|BODY_8|0
+its pose|PRP$ VBP|BODY_6|0
+metal objects|NN NNS|BODY_5|0
+shape|NN|BODY_7|0
+the pose|DT VBP|BODY_4|0
+acceptable levels|JJ NNS|BODY_2|0
+the metal object|DT NN NN|BODY_4|0
+a promising approach|DT JJ NN|BODY_7|0
+prior knowledge|JJ NN|BODY_3|0
+artifacts|NNS|BODY_1|0
+detector-model mismatches|NN NNS|BODY_4|0
+contrary|NN|BODY_1|0
+polyenergetic spectra|JJ NN|BODY_16|0
+prospects|NNS|BODY_1|0
+signal acquisition|NN NN|BODY_10|0
+streaks and aliasing|NNS CC NN|BODY_11|0
+we|PRP|BODY_1|0
+'s iterations|POS NNS|BODY_10|0
+am image reconstruction|VBP NN NN|BODY_1|0
+a clinical possibility|DT JJ NN|BODY_11|0

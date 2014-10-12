@@ -1,0 +1,52 @@
+orthopaedic surgery|JJ NN|BODY_3:BODY_4|0
+medical images|JJ NNS|BODY_2:BODY_1|0
+no other image data|DT JJ NN NNS|BODY_2|0
+an abstract geometrical model|DT JJ JJ NN|BODY_4|0
+the anatomy|DT NN|BODY_2|0
+the operated anatomy|DT VBN NN|BODY_6|0
+the position and orientation|DT NN CC NN|BODY_2|0
+computed tomography scans or intra|JJ NN NNS CC NN|BODY_2|0
+ultrasonic , endoscopic or fluoroscopic images|JJ , JJ CC JJ NNS|BODY_5|0
+orthopaedic surgical navigation|JJ JJ NN|BODY_2|0
+the visualization|DT NN|BODY_12|0
+image-guided surgery systems|JJ NN NNS|BODY_2|0
+diagnosis and operation planning|NN CC NN NN|BODY_4|0
+the usage|DT NN|BODY_5|0
+the surgeon|DT NN|BODY_3|0
+example|NN|BODY_4|0
+images|NNS|BODY_3|0
+a new field|DT JJ NN|BODY_4|0
+navigation techniques|NN NNS|BODY_2|0
+graphical overlays|JJ NNS|BODY_4|0
+a medical image|DT JJ NN|BODY_5|0
+surgical instruments|JJ NNS|BODY_3|0
+exclusively relies|RB VBZ|BODY_4|0
+surgical education and documentation|JJ NN CC NN|BODY_3|0
+various applications|JJ NNS|BODY_3|0
+a focus|DT NN|BODY_3|0
+that|WDT|BODY_11|0
+medical image modalities|JJ NN NNS|BODY_4|0
+the image modalities|DT NN NNS|BODY_10|0
+'surgeon-defined anatomy|JJ NN|BODY_3|0
+an essential part|DT JJ NN|BODY_2|0
+a review|DT NN|BODY_6|0
+orthopaedics|NNS|BODY_8|0
+these systems|DT NNS|BODY_9|0
+this paper|DT NN|BODY_5|0
+surgical navigation systems|JJ NN NNS|BODY_7|0
+a given application|DT VBN NN|BODY_3|0
+this technique|DT NN|BODY_1|0
+preoperative image data|JJ NN NNS|BODY_1|0
+this purpose|DT NN|BODY_6|0
+points|NNS|BODY_1|0
+the bony structures|DT JJ NNS|BODY_5|0
+many years|JJ NNS|BODY_5|0
+navigation technology|NN NN|BODY_6|0
+today surgical navigation systems|NN JJ NN NNS|BODY_1|0
+a computer monitor|DT NN NN|BODY_7|0
+they|PRP|BODY_1|0
+state-of-the-art|NN|BODY_1|0
+surgical action|JJ NN|BODY_13|0
+application|NN|BODY_5|0
+the recent introduction|DT JJ NN|BODY_1|0
+a new category|DT JJ NN|BODY_1|0

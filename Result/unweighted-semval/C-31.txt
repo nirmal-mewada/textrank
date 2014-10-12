@@ -1,0 +1,451 @@
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+apocrita|NN|BODY_6:BODY_5:TITLE_1:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_10|6
+that|WDT|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|0
+the index|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|1
+which|WDT|ABSTRACT_3:BODY_3:BODY_4:ABSTRACT_7:BODY_7:BODY_9|2
+the initiating node|DT NN NN|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+documents|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|1
+nodes|NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+the network|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+the files|DT NNS|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the node|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+there|EX|BODY_2:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|0
+each node|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+we|PRP|BODY_6:ABSTRACT_2:BODY_2:BODY_1:BODY_3|4
+this|DT|BODY_1:ABSTRACT_1|0
+the incoming file command|DT NN NN NN|BODY_6:BODY_1:BODY_3|0
+the temporary index directory|DT JJ NN NN|BODY_2|0
+an unsecured unicast pipe|DT JJ NN NN|BODY_2|0
+the overall cpu usage|DT JJ NN NN|BODY_2:BODY_3|0
+a temporary directory separate|DT JJ NN JJ|BODY_2:BODY_3|0
+a file sharing server|DT NN VBG NN|BODY_2|0
+digital or hard copies|JJ CC JJ NNS|BODY_2|0
+two 177 indexing nodes|CD CD NN NNS|BODY_2|0
+the apocrita server subsystem|DT NN NN NN|BODY_2|0
+a built-in database engine|DT JJ NN NN|BODY_4|0
+a single machine failure|DT JJ NN NN|BODY_4|1
+several decentralized p2p systems|JJ JJ NN NNS|BODY_2|0
+a completely new form|DT RB JJ NN|BODY_2|0
+a pentium 4 cpu|DT NN CD NN|BODY_6|0
+a 100mb/s ethernet lan|DT JJ NN NN|BODY_3|0
+the initiating node assembles|DT NN NN NNS|BODY_2|0
+personal or classroom use|JJ CC NN NN|BODY_5|0
+profit or commercial advantage|NN CC JJ NN|BODY_8|0
+the peer-topeer distribution model|DT JJ NN NN|BODY_2|0
+a secured unicast pipe|DT JJ NN NN|BODY_3|0
+the necessary network infrastructure|DT JJ NN NN|BODY_3|0
+an index file command|DT NN NN NN|BODY_2:BODY_4|0
+a very important part|DT RB JJ NN|BODY_2|1
+a new peer group|DT JJ NN NN|BODY_4|0
+a separate local index|DT JJ JJ NN|BODY_3|0
+a peer-to-peer distribution model|DT JJ NN NN|BODY_2|0
+their most relevant results|PRP$ RBS JJ NNS|BODY_7|0
+the lucene framework [7]|DT NN NN NN|BODY_2|0
+the design and implementation|DT NN CC NN|BODY_3|0
+some overhead and redundancy|DT NN CC NN|BODY_2|0
+one-to-many packet delivery methods|JJ NN NN NNS|BODY_3|0
+a web search engine|DT NN NN NN|BODY_2|0
+no network file server|DT NN NN NN|BODY_3|0
+a much different problem|DT RB JJ NN|BODY_4|0
+the content distribution portion|DT NN NN NN|BODY_4|0
+the average transfer rate|DT JJ NN NN|BODY_1:BODY_3|0
+the maximum transfer rate|DT JJ NN NN|BODY_3|0
+the minimum transfer rater|DT JJ NN NN|BODY_3|0
+the network transport mechanism|DT NN NN NN|BODY_4|0
+the filesender node one|DT NN NN CD|BODY_3|0
+the npl collection [8|DT JJ NN NNS|BODY_8|0
+many peers and dht|JJ NNS CC NN|BODY_2|0
+a revision control system|DT NN NN NN|BODY_3|0
+the initiating node equivalent|DT NN NN NN|BODY_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the distributed indexing aspect|DT VBN NN NN|BODY_1|0
+a decentralized network model|DT JJ NN NN|BODY_2|0
+the indexing node streams|DT NN NN NNS|BODY_2|0
+a peer-to-peer transport library|DT NN NN NN|BODY_3|0
+an unsecured propagated pipe|DT JJ JJ NN|BODY_3|0
+its own unique section|PRP$ JJ JJ NN|BODY_3|0
+any potential quality problems|DT JJ NN NNS|BODY_2|0
+the idle query command|DT JJ NN NN|BODY_5:BODY_4:BODY_7|0
+both messages and files|DT NNS CC NNS|BODY_2|0
+searching and accessing files|VBG CC VBG NNS|BODY_3|0
+the client and server|DT NN CC NN|BODY_5:BODY_7|0
+the distributed indexing process|DT VBN NN NN|BODY_4|0
+no more index files|DT JJR NN NNS|BODY_10|0
+a single indexing node|DT JJ NN NN|BODY_7|0
+the increasingly common place|DT RB JJ NN|BODY_1|0
+an incoming file message|DT NN NN NN|BODY_3|0
+a propagated unsecured pipe|DT JJ JJ NN|BODY_4|0
+local and remote files|JJ CC JJ NNS|BODY_1|0
+the index file command|DT NN NN NN|BODY_1|0
+the apache software foundation|DT NN NN NN|BODY_6|0
+building challenging distributed systems|NN VBG VBN NNS|BODY_7|0
+the overall indexing process|DT JJ NN NN|BODY_5|0
+a standard java socket|DT JJ NN NN|BODY_2|0
+available distributed indexing helpers|JJ VBN NN NNS|BODY_5|0
+a more traditional approach|DT RBR JJ NN|BODY_3|0
+the maximum transfer rater|DT JJ NN NN|BODY_1|0
+the minimum transfer rate|DT JJ NN NN|BODY_1|0
+the lucene index writer|DT NN NN NN|BODY_1|0
+4.2 index query operation|CD NN NN NN|BODY_1|0
+this new peer group|DT JJ NN NN|BODY_1|0
+a single logical location|DT JJ JJ NN|BODY_4|0
+the lucene engine [7]|DT NN NN NN|BODY_6|0
+the lucene indexing engine|DT NN NN NN|BODY_8|0
+the most time intensive|DT RBS NN JJ|BODY_4|0
+the other idle node|DT JJ JJ NN|BODY_5|0
+the majestic-12 web page|DT NN NN NN|BODY_3|0
+an idle query message|DT JJ NN NN|BODY_3|0
+the current cpu usage|DT JJ NN NN|BODY_3|0
+apocrita distributed indexing protocol|NN VBN NN NN|BODY_1|0
+apocrita peer discovery process|DT JJ NN NN|BODY_1|0
+a distributed index|DT VBN NN|BODY_2:BODY_3:BODY_7|0
+indexing|NN|BODY_11:BODY_1:BODY_2:BODY_4:BODY_8|0
+files|NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the filesender|DT NN|BODY_2:BODY_1:BODY_3|0
+the indexing process|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+all nodes|DT NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+the jxta framework|DT NN NN|BODY_2:BODY_1|0
+jxta|NNS|BODY_5:BODY_11:BODY_1:BODY_3|0
+the indexing node|DT NN NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+the number|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+a jxta socket|DT NN NN|BODY_1:BODY_3|0
+the idle query|DT JJ NN|BODY_6:BODY_5:BODY_2|0
+two indexing nodes|CD NN NNS|BODY_6:BODY_3|0
+the distributed indexing|DT VBN NN|BODY_6:BODY_5:BODY_4|0
+the indexer node|DT NN NN|BODY_1:BODY_3|0
+prior specific permission|JJ JJ NN|BODY_4|0
+three separate modules|CD JJ NNS|BODY_2|0
+the peer group|DT NN NN|BODY_2:BODY_3|0
+the new documents|DT JJ NNS|BODY_3|0
+the other node|DT JJ NN|BODY_4|0
+the local node|DT JJ NN|BODY_5:BODY_1|0
+the index files|DT NN NNS|BODY_5:BODY_2:BODY_3|0
+a document|DT NN|BODY_6:ABSTRACT_6:ABSTRACT_2:ABSTRACT_8:ABSTRACT_3:BODY_3:BODY_8|0
+standard lab computers|JJ NN NNS|BODY_2|0
+the full citation|DT JJ NN|BODY_11|0
+the apocrita swarm|DT NN NN|BODY_5:BODY_3|0
+is section 7|VBZ NN CD|BODY_2|1
+the indexing results|DT NN NNS|BODY_2|0
+java sockets|NNP NNS|BODY_2:BODY_1|0
+the document|DT NN|BODY_5:BODY_3:BODY_7:ABSTRACT_9|1
+maximum transmission unit|JJ NN NN|BODY_5|0
+a file server|DT NN NN|BODY_5|0
+one indexing node|CD NN NN|BODY_2|0
+a web browser|DT NN NN|BODY_3|0
+another idle query|DT JJ NN|BODY_4|0
+a 65mb file|DT JJ NN|BODY_2|0
+the entire index|DT JJ NN|BODY_4|0
+the idle state|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+a 16 %|DT CD NN|BODY_4|0
+the set|DT NN|BODY_6:BODY_1:BODY_2:BODY_4:BODY_7|0
+a gigantic step|DT JJ NN|BODY_3|0
+the most drastic|DT RBS JJ|BODY_4|0
+the pipe facility|DT NN NN|BODY_1:BODY_2|0
+all or part|DT CC NN|BODY_3|0
+an instance|DT NN|BODY_2:BODY_7|0
+the critical sections|DT JJ NNS|BODY_1:BODY_3|0
+an indexing time|DT NN NN|BODY_5|0
+three indexing nodes|CD NN NNS|BODY_3|0
+the apocrita network|DT NN NN|BODY_5:BODY_4|0
+the node controller|DT JJ NN|BODY_2|0
+the indexing time|DT NN NN|BODY_5:BODY_1|0
+978-1-59593-629-5/07/0003 …$ 5.00|CD NN CD|BODY_2|0
+copyright 2007 acm|NN CD NN|BODY_1|0
+the receiving node|DT VBG NN|BODY_1|0
+the discovery service|DT NN NN|BODY_2|0
+many different types|JJ JJ NNS|BODY_2|0
+own full index|JJ JJ NN|BODY_4|0
+one rendezvous peer|CD NN NN|BODY_3|0
+the current implementation|DT JJ NN|BODY_1|0
+a node|DT NN|BODY_2:BODY_1|0
+the responding node|DT VBG NN|BODY_3|0
+a web crawler|DT NN NN|BODY_2|0
+the old revision|DT JJ NN|BODY_10|0
+a busy command|DT JJ NN|BODY_2:BODY_7|0
+testing and development|NN CC NN|BODY_8|0
+the jxta pdp|DT NN NN|BODY_2|0
+the file system|DT NN NN|BODY_4:BODY_7|0
+a client node|DT NN NN|BODY_3|0
+an important document|DT JJ NN|BODY_3|1
+a specified amount|DT VBN NN|BODY_4|0
+a manual process|DT JJ NN|BODY_3|0
+one key difference|CD JJ NN|BODY_2|0
+each other node|DT JJ NN|BODY_6:BODY_4|0
+a complex operation|DT JJ NN|BODY_3|0
+the nodecontroller waits|DT NN NNS|BODY_3|0
+over five years|IN CD NNS|BODY_7|0
+particular networking nuances|JJ NN NNS|BODY_4|0
+the full index|DT JJ NN|BODY_3|0
+which other nodes|WDT JJ NNS|BODY_4|0
+a viable way|DT JJ NN|BODY_4|0
+the resultant indexes|DT NN NNS|BODY_3|0
+the index transfer|DT NN NN|BODY_2|1
+many large organizations|JJ JJ NNS|BODY_10|0
+each index file|DT NN NN|BODY_3|0
+this peer group|DT NN NN|BODY_5|0
+the searching peer|DT VBG NN|BODY_3|0
+its listening state|PRP$ VBG NN|BODY_3|0
+the overall quality|DT JJ NN|BODY_3|0
+an existing file|DT VBG NN|BODY_8|0
+the same goals|DT JJ NNS|BODY_9|0
+every important file|DT JJ NN|BODY_9|1
+the directory scanner|DT NN NN|BODY_4|0
+messages and files|NNS CC NNS|BODY_3|0
+some search tools|DT VB NNS|ABSTRACT_4:BODY_4|0
+a serving node|DT NN NN|BODY_2|0
+the distributed index|DT VBN NN|BODY_4|0
+no other system|DT JJ NN|BODY_8|0
+each individual node|DT JJ NN|BODY_5|0
+the extremely shorttimeline|DT RB JJ|BODY_2|0
+the file transfers|DT NN NNS|BODY_2|0
+a discovery protocol|DT NN NN|BODY_4|0
+necessary network infrastructure|JJ NN NN|BODY_4|0
+general terms design|JJ NNS NN|ABSTRACT_1|0
+possible unexpected errors|JJ JJ NNS|BODY_1|0
+the filesender node|DT NN NN|BODY_3|0
+the major problem|DT JJ NN|BODY_1|0
+the index compiler|DT NN NN|BODY_5|0
+only the act|RB DT NN|BODY_3|0
+each file stream|DT NN NN|BODY_5|0
+the filesender object|DT NN NN|BODY_1:BODY_3|0
+a single instance|DT JJ NN|BODY_5|1
+a status message|DT NN NN|BODY_2|0
+a simple interface|DT JJ NN|BODY_2|0
+the locally owned|DT RB VBN|BODY_5|0
+a particular document|DT JJ NN|ABSTRACT_2:BODY_2|0
+the resulting index|DT VBG NN|BODY_2|0
+4kb and 8kb.|JJ CC POS|BODY_3|0
+all the documents|DT DT NNS|BODY_3|0
+multiple different documents|JJ JJ NNS|ABSTRACT_2:BODY_2|0
+a temporary directory|DT JJ NN|BODY_6|0
+the proper directory|DT JJ NN|BODY_3|0
+the first page|DT JJ NN|BODY_12|0
+no more files|DT JJR NNS|BODY_9|0
+no important documents|DT JJ NNS|BODY_5|1
+the first command|DT JJ NN|BODY_2|0
+7. related work|DT JJ NN|BODY_1|0
+4.1 peer discovery|CD NN NN|BODY_1|0
+a large number|DT JJ NN|BODY_3|0
+the node updates|DT NN NNS|BODY_3|0
+an idle node|DT JJ NN|BODY_3|0
+the busy response|DT JJ NN|BODY_3|0
+the corresponding node|DT JJ NN|BODY_7|0
+an idl query|DT JJ NN|BODY_2|0
+a unique portion|DT JJ NN|BODY_4|0
+indexing many documents|NN JJ NNS|BODY_3|0
+the resultant index|DT NN NN|BODY_7|0
+any other nodes|DT JJ NNS|BODY_4|0
+an intranet environment|DT JJ NN|BODY_4|0
+underlying network transport|VBG NN NN|BODY_5|0
+the distributed documents|DT VBN NNS|BODY_7|0
+the existing files|DT VBG NNS|BODY_5|0
+the downloaded files|DT JJ NNS|BODY_1|0
+the gnutella protocol|DT NN NN|BODY_1|0
+the network index|DT NN NN|BODY_5|0
+a local user|DT JJ NN|BODY_7|0
+a remote machine|DT JJ NN|BODY_5|0
+3.1 indexing protocol|CD NN NN|BODY_1|0
+the entire network|DT JJ NN|BODY_10|0
+a standalone application|DT JJ NN|BODY_4|0
+another initiating node|DT NN NN|BODY_5|0
+its own documents|PRP$ JJ NNS|BODY_4|0
+a distinct advantage|DT JJ NN|BODY_1|0
+previous document versions|JJ NN NNS|BODY_3|0
+the new revision|DT JJ NN|BODY_11|0
+the default classification|DT NN NN|BODY_6|0
+the files are|DT NNS VBP|BODY_1|0
+2. apocrita apocrita|DT NN NN|BODY_1|0
+the main index|DT JJ NN|BODY_13|0
+a peer advertisement|DT NN NN|BODY_1|0
+own local index|JJ JJ NN|BODY_5|0
+the filesender objects|DT NN NNS|BODY_1|0
+standard java sockets|JJ NNP NNS|BODY_5|0
+only two nodes|RB CD NNS|BODY_4|0
+the matched document|DT VBN NN|BODY_9|0
+the main focus|DT JJ NN|BODY_1|0
+a performance increase|DT NN NN|BODY_1|0
+indexing nodes increases|NN NNS NNS|BODY_5|0
+plain text documents|JJ NN NNS|BODY_3|0
+the inherent nature|DT JJ NN|BODY_1|0
+jxta sockets|NNP NNS|BODY_2:BODY_3:BODY_4|0
+the transferred files|DT VBN NNS|BODY_3|0
+the distributed nature|DT VBN NN|BODY_1|0
+their own products|PRP$ JJ NNS|BODY_12|0
+any new peers|DT JJ NNS|BODY_3|0
+file transfer|NN NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+this distribution mechanism|DT NN NN|BODY_8|1
+the current index|DT JJ NN|BODY_4|0
+a file transfer|DT NN NN|BODY_2|0
+the appropriate parameters|DT JJ NNS|BODY_7|0
+the search network|DT NN NN|BODY_4|0
+a filesender object|DT NN NN|BODY_1|0
+possible network issues|JJ NN NNS|BODY_2|0
+available idle nodes|JJ JJ NNS|BODY_6|0
+the indexing processsometimes|DT NN NNS|BODY_6|0
+the message facility|DT NN NN|BODY_5|0
+the idle command|DT JJ NN|BODY_1|0
+p2p file sharing|JJ NN NN|BODY_5|0
+a central area|DT JJ NN|BODY_1|0
+an idle command|DT JJ NN|BODY_4|0
+the protocol section|DT NN NN|BODY_1|0
+apocrita query operation|DT NN NN|BODY_1|0
+the case|DT NN|BODY_2:BODY_1|0
+idle nodes|JJ NNS|BODY_1:BODY_2:BODY_4|0
+both|DT|BODY_2:BODY_3:BODY_4|0
+index transfer|NN NN|BODY_2:BODY_1:BODY_3|0
+users|NNS|BODY_6:BODY_3:BODY_4|0
+the time|DT NN|BODY_5:BODY_2:BODY_1|0
+the name|DT NN|BODY_5:BODY_3:BODY_4|0
+the indexer|DT NN|BODY_1:BODY_3:BODY_4|0
+a copy|DT NN|BODY_3:BODY_8|1
+the performance|DT NN|BODY_2:BODY_4|0
+all|DT|BODY_5:BODY_2|0
+the server|DT NN|BODY_2:BODY_3|0
+the results|DT NNS|BODY_5:BODY_3|0
+the process|DT NN|BODY_2:ABSTRACT_3:BODY_3:BODY_8|0
+each test|DT NN|BODY_2|0
+these benchmarks|DT NNS|BODY_2|0
+the system|DT NN|BODY_5:BODY_1:BODY_4|2
+the availability|DT NN|BODY_5:BODY_10|1
+the nodes|DT NNS|BODY_6:BODY_1:BODY_3:BODY_8|0
+such documents|JJ NNS|ABSTRACT_4:BODY_4|0
+edge peers|NN NNS|BODY_2:BODY_1|0
+the peers|DT NNS|BODY_3:BODY_4|0
+the nodecontroller|DT NN|BODY_2:BODY_1|0
+the documents|DT NNS|BODY_2:BODY_7|0
+concept prototype|NN NN|BODY_2|0
+a set|DT NN|BODY_3|0
+the user|DT NN|BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+the internet|DT NN|BODY_3:BODY_4|0
+future work|JJ NN|BODY_1:BODY_4|2
+the file|DT NN|BODY_6:BODY_3:BODY_4:BODY_8|0
+peers|NNS|BODY_5:BODY_4:BODY_7|0
+[computer-communication networks|NN NNS|ABSTRACT_2|0
+distributed systems|VBN NNS|ABSTRACT_3|0
+local index|JJ NN|BODY_2|0
+these documents|DT NNS|ABSTRACT_2:BODY_2|0
+this project|DT NN|BODY_2|0
+a minimum|DT NN|BODY_2:BODY_4|0
+a list|DT NN|BODY_6:BODY_4|0
+a socket|DT NN|BODY_3|0
+p2p clients|JJ NNS|BODY_2|0
+such programs|JJ NNS|BODY_6|0
+512 mb|CD NN|BODY_8|0
+local documents|JJ NNS|BODY_4:ABSTRACT_7:BODY_7|0
+the list|DT NN|BODY_5:BODY_11|0
+performance evaluations|NN NNS|BODY_4|0
+author documents|NN NNS|ABSTRACT_2:BODY_2|0
+37 %|CD NN|BODY_6|0
+the pdp|DT NN|BODY_2|0
+a file|DT NN|BODY_6:BODY_1:BODY_4|2
+downloading files|NN NNS|BODY_4|0
+internet access|JJ NN|BODY_2|0
+'s machine|POS NN|BODY_4|0
+high availability|JJ NN|BODY_4|1
+93 queries|CD NNS|BODY_12|0
+message passing|NN NN|BODY_1:BODY_2|0
+an implementation|DT NN|BODY_4|0
+the size|DT NN|BODY_5:BODY_7|0
+each document|DT NN|BODY_1|0
+the swarm|DT NN|BODY_2|0
+a lot|DT NN|BODY_2|0
+the experience|DT NN|BODY_2|0
+experimentation|NN|ABSTRACT_2|0
+the machines|DT NNS|BODY_4|0
+that copies|IN NNS|BODY_9|0
+this work|DT NN|BODY_4|0
+two parameters|CD NNS|BODY_2|0
+the responsibility|DT NN|BODY_2:BODY_1|0
+complete command|JJ NN|BODY_6:BODY_4:BODY_7|0
+this notice|DT NN|BODY_10|0
+network users|NN NNS|BODY_5:BODY_2|1
+distributed indexing|VBN NN|BODY_6:BODY_2:BODY_7|0
+pdp )|NN -RRB-|BODY_4|0
+other nodes|JJ NNS|BODY_4|0
+the event|DT NN|BODY_3|1
+each module|DT NN|BODY_2|0
+finding documents|VBG NNS|BODY_3|0
+dedicated nodes|VBN NNS|BODY_2|0
+relay peers|NN NNS|BODY_1|0
+section 3|NN CD|BODY_2|0
+section 4|NN CD|BODY_1|0
+yacy [6|NN NNS|BODY_1|0
+peer advertisements|NN NNS|BODY_3|0
+the organization|DT NN|BODY_6:ABSTRACT_6|0
+faster time|JJR NN|BODY_5|0
+an indexer|DT NN|BODY_3|0
+p2p technology|NN NN|BODY_3|0
+more insight|JJR NN|BODY_6|0
+jxta pipes|NN NNS|BODY_4|0
+they|PRP|BODY_3:BODY_7:BODY_9|0
+11,429 documents|CD NNS|BODY_11|0
+various purposes|JJ NNS|ABSTRACT_3:BODY_3|0
+one|CD|BODY_2:BODY_4|0
+the possibility|DT NN|BODY_5|0
+section 5|NN CD|BODY_3|0
+some redundancy|DT NN|BODY_2|1
+multiple users|JJ NNS|ABSTRACT_4:BODY_4|0
+all member|DT NN|ABSTRACT_5|0
+all members|DT NNS|BODY_5|0
+nodes increases|NNS NNS|BODY_4|0
+dedicated indexing|VBN NN|BODY_6|0
+a method|DT NN|BODY_2|0
+this problem|DT NN|BODY_2|0
+mutual resource|JJ NN|BODY_3|0
+50 %|CD NN|BODY_3|0
+advantage|NN|BODY_6:BODY_3|0
+the protocol|DT NN|BODY_2|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|2
+such solves|JJ NNS|BODY_3|0
+a query|DT NN|BODY_2|0
+no parameters|DT NNS|BODY_2|0
+83 queries|CD NNS|BODY_6|0
+the indexcompiler|DT NN|BODY_1:BODY_8|0
+a client|DT NN|BODY_2|0
+a portion|DT NN|BODY_4|0
+the state|DT NN|BODY_3:BODY_4|0
+the transfer|DT NN|BODY_5:BODY_1|0
+first job|JJ NN|BODY_2|0
+another user|DT NN|ABSTRACT_9:BODY_9|0
+that user|DT NN|ABSTRACT_5|0
+manual management|JJ NN|BODY_3|0
+those index|DT NN|BODY_12|0
+future implementations|JJ NNS|BODY_3|0
+google desktop|JJ NN|BODY_5:ABSTRACT_5|0
+the machine|DT NN|BODY_4|1
+a system|DT NN|BODY_3|0
+a total|DT NN|BODY_10|0
+a user |DT NN|ABSTRACT_3|0
+its cpu|PRP$ NN|BODY_3|0
+the point|DT NN|BODY_5|0
+the first|DT JJ|BODY_3|0
+performance evaluation|NN NN|BODY_2|0
+a project|DT NN|BODY_4|0
+file pieces|NN NNS|BODY_6|0
+participating peers|VBG NNS|BODY_5|0
+a user|DT NN|BODY_3|0
+multiple machines|JJ NNS|BODY_3|1
+the ability|DT NN|BODY_7|0
+a solution|DT NN|BODY_6:ABSTRACT_6|0
+a machine|DT NN|BODY_2|1
+a bottleneck|DT NN|BODY_2|0
+a time|DT NN|BODY_3|0
+yacy|NN|BODY_1|0
+a network|DT NN|BODY_4|0
+incorrect version|JJ NN|ABSTRACT_2:BODY_2|0
+file passing|NN NN|BODY_1|0
+other clients|JJ NNS|BODY_7|0
+432 documents|CD NNS|BODY_5|0
+the fact|DT NN|BODY_3|0
+system independent|NN JJ|BODY_2|0
+the location|DT NN|BODY_3|0
+majestic-12 [4|NN NNS|BODY_2|0
+10 documents|CD NNS|BODY_7|0
+10 nodes|CD NNS|BODY_4|0
+indexing nodes|NN NNS|BODY_2|0
+100 documents|CD NNS|BODY_3|0
+a node |DT NN|BODY_1|0
+some cases|DT NNS|BODY_1:ABSTRACT_1|0
+status messages|NN NNS|BODY_2|0
+already programs|RB NNS|BODY_2|0
+specific nodes|JJ NNS|BODY_11|1

@@ -1,0 +1,215 @@
+we|PRP|BODY_6:BODY_5:BODY_16:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4|10
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_17:BODY_2:ABSTRACT_1:BODY_4:ABSTRACT_7:BODY_8:ABSTRACT_10|2
+that|IN|BODY_6:BODY_11:BODY_2:ABSTRACT_3:BODY_3:BODY_19:BODY_4:ABSTRACT_9|3
+who|WP|BODY_6:BODY_5:ABSTRACT_6:BODY_24:BODY_8:BODY_9|3
+an advanced bidding agent|DT JJ NN NN|TITLE_1:BODY_1:ABSTRACT_3:BODY_3|2
+the simple bidding strategy|DT JJ NN NN|ABSTRACT_11:ABSTRACT_3:BODY_14|1
+no direct monetary value|DT JJ JJ NN|BODY_9|0
+a centralised optimal allocation|DT JJ JJ NN|ABSTRACT_9|0
+a simple bidding strategy|DT JJ NN NN|ABSTRACT_7|0
+pre-defined interests and requirements|JJ NNS CC NNS|BODY_5|0
+a decision theoretic approach|DT NN JJ NN|BODY_2|0
+detects and tracks users|NNS CC NNS NNS|BODY_4|0
+an individual advertising agent|DT JJ NN NN|BODY_2|0
+the prototype bluscreen system|DT NN JJ NN|BODY_2|0
+first-price sealed bid auctions|JJ JJ NN NNS|ABSTRACT_5|1
+each future advertising cycle|DT JJ NN NN|BODY_8|1
+the bluetooth enabled devices|DT JJ VBD NNS|BODY_5|0
+this advanced bidding strategy|DT JJ NN NN|BODY_2|1
+an externally derived estimate|DT RB VBN NN|BODY_10|0
+the advanced bidding strategy|DT JJ NN NN|BODY_9|1
+a stochastic optimisation algorithm|DT JJ NN NN|BODY_2|0
+the centralised optimal allocation|DT JJ JJ NN|ABSTRACT_4|0
+an a priori valuation|DT DT NN NN|BODY_6|0
+the auction allocation mechanism|DT NN NN NN|BODY_4|1
+a total advertising budget|DT JJ NN NN|BODY_4|0
+the highly uncertain environment|DT RB JJ NN|ABSTRACT_5|0
+our advanced bidding strategy|PRP$ JJ NN NN|BODY_7|1
+the more general setting|DT RBR JJ NN|BODY_3|0
+the arrival and departure|DT NN CC NN|BODY_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+some virtual currency )|DT JJ NN -RRB-|BODY_11|0
+this time period )|DT NN NN -RRB-|BODY_7|0
+phones [3 , 7]|NNS CD , CD|BODY_11|0
+all future advertising cycles|DT JJ NN NNS|BODY_26|1
+their bluetooth enabled devices|PRP$ JJ VBD NNS|ABSTRACT_12|1
+a sealed bid auction|DT JJ NN NN|BODY_10|0
+any future advertising cycle|DT JJ NN NN|BODY_6:BODY_7|1
+users|NNS|BODY_5:ABSTRACT_5:BODY_23:BODY_4:ABSTRACT_10|3
+the advertising agent|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|1
+the advertising agents|DT NN NNS|BODY_2:BODY_4:BODY_7:BODY_8|2
+which|WDT|ABSTRACT_6:BODY_3:BODY_4:BODY_8|0
+a single user|DT JJ NN|BODY_6:BODY_5|1
+the display|DT NN|BODY_6:BODY_5:BODY_7|1
+general terms algorithms|JJ NNS NNS|ABSTRACT_4|0
+contextual banner adverts|JJ NN NNS|BODY_6|0
+the commercial attractiveness|DT JJ NN|BODY_2|0
+this case bidding|DT NN NN|BODY_10|0
+a closed set|DT JJ NN|BODY_3|0
+four key ways|CD JJ NNS|BODY_7|0
+that advertising agent|IN NN NN|BODY_10|0
+the gamma distribution|DT NN NN|BODY_2|0
+a specific amount|DT JJ NN|BODY_7|0
+alternative selection mechanisms|NN NN NNS|ABSTRACT_6|0
+specific tracking devices|JJ NN NNS|BODY_9|0
+any given auction|DT VBN NN|BODY_6|0
+employees and visitors|NNS CC NNS|BODY_8|0
+limited market experience|JJ NN NN|BODY_5|0
+new commercial installations|JJ JJ NNS|BODY_4|0
+the active use|DT JJ NN|BODY_8|0
+no prior knowledge|DT JJ NN|BODY_3|0
+arrival and depart|NN CC NN|BODY_25|1
+maximum likelihood estimates|JJ NN NNS|BODY_6|0
+section 2 discusses|NN CD NNS|BODY_4|0
+the dynamic nature|DT JJ NN|BODY_4|1
+the closing price|DT NN NN|BODY_7|0
+this bidding agent|DT NN NN|ABSTRACT_3|0
+the expected outcome|DT VBN NN|BODY_9|1
+the public displays|DT JJ NNS|BODY_6|0
+a simple strategy|DT JJ NN|BODY_3|1
+a detailed description|DT JJ NN|BODY_3|1
+the expected utility|DT VBN NN|BODY_7|1
+independent poisson processes|JJ NN NNS|BODY_5|0
+an heterogenous population|DT JJ NN|BODY_6|1
+all the auctions|DT DT NNS|BODY_10|1
+the optimal sequence|DT JJ NN|BODY_6|0
+the target audience|DT NN NN|BODY_4|0
+a marketplace agent|DT NN NN|BODY_8|0
+the random allocation|DT JJ NN|ABSTRACT_4|0
+a mixed population|DT JJ NN|ABSTRACT_5|0
+our bidding agent|PRP$ NN NN|ABSTRACT_1|0
+an empirical validation|DT JJ NN|BODY_3|1
+no additional benefit|DT JJ NN|BODY_4|1
+a centralised optimiser|DT JJ NN|BODY_20|1
+a limited period|DT JJ NN|BODY_6|0
+our explicit assumption|PRP$ JJ NN|BODY_2|1
+an advertising agents|DT NN NNS|BODY_3|0
+the auction environment|DT NN NN|BODY_3|0
+each public display|DT JJ NN|BODY_4|0
+the expected number|DT JJ NN|BODY_3|1
+2. related work|DT VBN NN|BODY_1|0
+the norm [1]|DT JJ NN|BODY_7|0
+the cumulative form|DT JJ NN|BODY_1|0
+interactive public displays|JJ JJ NNS|BODY_10|1
+[6 , 11]|CD , CD|BODY_11|0
+particular research attention|JJ NN NN|BODY_1|1
+allocated advertising space|VBN NN NN|BODY_8|0
+its expected utility|PRP$ JJ NN|BODY_8|0
+its limited budget|PRP$ JJ NN|BODY_10|0
+both|DT|BODY_6:ABSTRACT_2:ABSTRACT_3|0
+an advert|DT NN|BODY_12:BODY_5:BODY_7|1
+prior knowledge|JJ NN|BODY_3|0
+the number|DT NN|BODY_5:BODY_22:BODY_3|1
+these users|DT NNS|BODY_7:BODY_9|0
+such displays|JJ NNS|BODY_3:BODY_7|0
+the presence|DT NN|ABSTRACT_11:BODY_8|1
+the case|DT NN|BODY_2:BODY_3|0
+this budget|DT NN|BODY_2:BODY_9|0
+the adverts|DT NNS|BODY_10:ABSTRACT_7|0
+the users|DT NNS|BODY_4|0
+advertising time|NN NN|BODY_3|0
+the behaviour|DT NN|ABSTRACT_4:BODY_3|0
+these systems|DT NNS|BODY_1:BODY_2|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|2
+agents|NNS|BODY_6:ABSTRACT_6|0
+recommendation systems|NN NNS|BODY_5|0
+retail stores|JJ NNS|BODY_5|0
+targeted advertising|JJ NN|BODY_3|0
+artificial intelligence]|JJ NN|ABSTRACT_2|0
+intelligent agents|JJ NNS|ABSTRACT_3|0
+random allocation|JJ NN|ABSTRACT_8|0
+7.5 %|CD NN|BODY_18:ABSTRACT_2|1
+commercial products|JJ NNS|BODY_6|0
+public environments|JJ NNS|BODY_2|0
+the needs|DT NNS|BODY_2|0
+the value|DT NN|BODY_11:BODY_1|0
+this end|DT NN|BODY_8|1
+the bids|DT NNS|BODY_9|0
+this probability|DT NN|BODY_3|0
+such systems|JJ NNS|BODY_6|0
+a number|DT NN|BODY_9|1
+the rates|DT NNS|BODY_7|0
+its adverts|PRP$ NNS|ABSTRACT_4:ABSTRACT_8|0
+the need|DT NN|BODY_2|1
+their presence|PRP$ NN|BODY_10|0
+these processes|DT NNS|BODY_8|0
+25 %|CD NN|BODY_11:ABSTRACT_9|1
+the material|DT NN|BODY_5|0
+more users|JJR NNS|BODY_12:ABSTRACT_10|1
+handheld devices|JJ NNS|BODY_9|0
+city centres|NN NNS|BODY_4|0
+the internet|DT NN|BODY_4|0
+the sophistication|DT NN|BODY_5|1
+known users|VBN NNS|BODY_4|0
+bids|NNS|BODY_7|0
+the art|DT NN|BODY_6|0
+public spaces|JJ NNS|BODY_2|0
+the items|DT NNS|BODY_5|0
+a range|DT NN|ABSTRACT_5|0
+significantly extends|RB VBZ|BODY_4|1
+auction-based marketplaces|JJ NNS|BODY_7|0
+advertising space|NN NN|ABSTRACT_6|1
+the individual|DT NN|BODY_4|0
+time|NN|BODY_4:BODY_7|0
+its parameters|PRP$ NNS|BODY_4|0
+previous auctions|JJ NNS|BODY_8|0
+advertisement selection|NN NN|TITLE_2|0
+private organisations|JJ NNS|BODY_4|0
+the history|DT NN|BODY_8|0
+best use|JJS NN|BODY_9|0
+the content|DT NN|BODY_2|0
+that users|IN NNS|BODY_8|0
+advertising cycles|NN NNS|BODY_2|0
+the state|DT NN|BODY_5|0
+bluscreen installations|JJ NNS|BODY_3|0
+the effectiveness|DT NN|ABSTRACT_2|0
+these features|DT NNS|BODY_5|1
+the probability|DT NN|BODY_5|0
+section 5|NN CD|BODY_5|1
+maximum effect|JJ NN|BODY_3|0
+the screen|DT NN|BODY_7|0
+these models|DT NNS|ABSTRACT_2|0
+exclusive access|JJ NN|BODY_6|0
+these agents|DT NNS|BODY_2|1
+their adverts|PRP$ NNS|BODY_10|1
+probabilistic models|JJ NNS|ABSTRACT_2|0
+our approach|PRP$ NN|BODY_4|1
+its advert|PRP$ NN|BODY_5|0
+the auctions|DT NNS|ABSTRACT_8|0
+simulated annealing|VBN NN|BODY_3|0
+the exposure|DT NN|ABSTRACT_3|0
+these bids|DT NNS|BODY_2|0
+perfect knowledge|JJ NN|BODY_21|1
+this system|DT NN|BODY_1|0
+a history|DT NN|BODY_4|0
+electronic displays|JJ NNS|BODY_1|0
+perfect foresight|JJ NN|ABSTRACT_10|0
+these displays|DT NNS|BODY_1|0
+their observations|PRP$ NNS|BODY_9|0
+a valuation|DT NN|BODY_6|0
+everyday [8]|JJ NN|BODY_9|0
+this approach|DT NN|BODY_6|1
+these approaches|DT NNS|BODY_1|0
+public displays|JJ NNS|TITLE_3|0
+this agent|DT NN|BODY_1|0
+each advert|DT NN|BODY_1|0
+section 3|NN CD|BODY_1|0
+several users|JJ NNS|BODY_9|0
+the remainder|DT NN|BODY_1|0
+a user|DT NN|BODY_13:BODY_8|0
+forthcoming events|JJ NNS|BODY_11|0
+section 4|NN CD|BODY_1|1
+section 6|NN CD|BODY_1|1
+its performance|PRP$ NN|ABSTRACT_1|0
+this goal|DT NN|BODY_1|0
+the advert|DT NN|BODY_7|0
+our work|PRP$ NN|BODY_4|0
+both cases|DT NNS|BODY_1|0
+airports|NNS|BODY_3|0
+design|NN|ABSTRACT_5|0
+pdas|NNS|BODY_10|0
+.e|FW|BODY_5|0
+payne|NN|BODY_2|0
+this|DT|BODY_1:BODY_3|0
+interest|NN|BODY_7|0
+account|NN|BODY_3|1

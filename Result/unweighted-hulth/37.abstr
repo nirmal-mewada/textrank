@@ -1,0 +1,34 @@
+pid controller|JJ NN|BODY_5:BODY_2|0
+the design|DT NN|BODY_2:BODY_3|0
+we|PRP|BODY_6:BODY_2|0
+the quantitative time-domain|DT JJ NN|BODY_6|0
+frequency-domain response|JJ NN|BODY_9|0
+that|DT|BODY_2|0
+the nominal system|DT JJ NN|BODY_9|0
+two developed suboptimal controllers|CD JJ JJ NNS|BODY_3|0
+optimal control theory|JJ NN NN|BODY_3|0
+overshoot and rise time|NN CC NN NN|BODY_8|0
+time-domain response|NN NN|BODY_7|0
+the required time-domain response or frequency-domain response|DT JJ NN NN CC JJ NN|BODY_8|0
+little work|JJ NN|BODY_4|0
+desired time-domain or frequency-domain response practical requirements|VBN NN CC JJ NN JJ NNS|BODY_2|0
+relation|NN|BODY_5|0
+an h/sub|DT NN|BODY_4|0
+especially process control systems|RB NN NN NNS|BODY_5|0
+terms|NNS|BODY_6|0
+the proportional-integral-derivative ( pid ) controller|DT JJ -LRB- JJ -RRB- NN|BODY_3|0
+a nominal stable process|DT JJ JJ NN|BODY_4|0
+a suboptimal pid controller|DT JJ JJ NN|BODY_7|0
+control systems|NN NNS|BODY_4|0
+the following problem|DT JJ NN|BODY_3|0
+time delay|NN NN|BODY_5|0
+its properties|PRP$ NNS|BODY_1|0
+the parameters|DT NNS|BODY_4|0
+the uncertain system|DT JJ NN|BODY_10|0
+resonance peak and stability margin|NN NN CC NN NN|BODY_10|0
+frequency-domain responses|JJ NNS|BODY_7|0
+design pid controllers|NN JJ NNS|BODY_1|0
+a maclaurin pid controller|DT NN JJ NN|BODY_6|0
+an h/sub infinity|DT NN NN|BODY_1|0
+numerous methods|JJ NNS|BODY_1|0
+this paper|DT NN|BODY_1|0

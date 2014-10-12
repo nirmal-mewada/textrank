@@ -1,0 +1,28 @@
+we|PRP|BODY_5:BODY_2:BODY_1:BODY_4|0
+the general solution|DT JJ NN|BODY_5:BODY_1|0
+a density|DT NN|BODY_2|0
+this general solution|DT JJ NN|BODY_2:BODY_1|0
+functionally gradient piezoelectric cantilever|RB JJ JJ NN|BODY_3|0
+force|NN|BODY_6|0
+i .e|FW FW|BODY_6|0
+the cantilever|DT NN|BODY_4|0
+the density distribution profile|DT NN NN NN|BODY_3|0
+transversely isotropic bodies|JJ JJ NNS|BODY_7|0
+the form|DT NN|BODY_3|0
+polynomials|NNS|BODY_4|0
+a method|DT NN|BODY_2|0
+the inverse method (|DT JJ NN -LRB-|BODY_5|0
+the plane strain theory|DT NN NN NN|BODY_6|0
+the solutions|DT NNS|BODY_3|0
+the tip deflection|DT NN NN|BODY_5|0
+the stress and induction functions|DT NN CC NN NNS|BODY_2|0
+engineering|NN|BODY_3|0
+its applications|PRP$ NNS|BODY_4|0
+a given piezoelectric material|DT VBN JJ NN|BODY_4|0
+a piezoelectric cantilever|DT JJ NN|BODY_8|0
+a piezoelectric cantilever actuator|DT JJ NN NN|BODY_7|0
+different loading conditions|JJ NN NNS|BODY_5|0
+the airy stress function method )|DT JJ NN NN NN -RRB-|BODY_7|0
+the beam|DT NN|BODY_6|0
+general solution|JJ NN|BODY_1|0
+applications|NNS|BODY_1|0

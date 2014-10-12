@@ -1,0 +1,471 @@
+we|PRP|BODY_11:BODY_18:ABSTRACT_2:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8|5
+which|WDT|BODY_6:BODY_5:ABSTRACT_8:ABSTRACT_2:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7|1
+the user|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+it|PRP|BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|4
+â· â· â·|NNP NNP NNP|BODY_11:BODY_5:BODY_2:BODY_14:BODY_4:BODY_8|1
+relevance feedback image retrieval|NN NN NN NN|ABSTRACT_5:BODY_3:BODY_7|2
+there|EX|BODY_6:BODY_1:BODY_2:BODY_10:BODY_4|0
+the images|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|0
+our proposed lod algorithm|PRP$ VBN NN NN|BODY_5:BODY_2:BODY_3|3
+the most informative images|DT RBS JJ NNS|BODY_2:BODY_3:BODY_4|1
+a simple synthetic example|DT JJ JJ NN|BODY_2|0
+a locality preserving regularizer|DT NN VBG NN|BODY_5:BODY_2|0
+the average precision-scope curves|DT JJ NN NNS|BODY_6:BODY_2|0
+a + kxzn+1 kzn+1x|DT NN CD NN|BODY_5:BODY_13|0
+the first two rounds|DT JJ CD NNS|BODY_2:BODY_9|2
+the most informative samples|DT RBS JJ NNS|BODY_4|0
+low level visual features|JJ NN JJ NNS|BODY_5:BODY_4|1
+the local geometrical structure|DT JJ JJ NN|BODY_5:ABSTRACT_7|0
+many real world applications|JJ JJ NN NNS|BODY_2:BODY_1|0
+the top 10 images|DT JJ CD NNS|BODY_3|0
+rd â† ’ h|JJ JJ NN NN|BODY_2|0
+the covariance matrix hsse|DT NN NN NN|BODY_2|0
+information storage and retrieval]|NN NN CC NN|ABSTRACT_2|0
+the other four algorithms|DT JJ CD NNS|BODY_2|0
+’ 2wt zy +|NNP JJ JJ NN|BODY_18:BODY_23|0
+( c ) precision|-LRB- NN -RRB- NN|BODY_5|0
+î»1kxxlkxx î»2kxx âˆ’1 kxx|NNP NNP NNP NN|BODY_3|0
+output given input x|NN VBN NN SYM|BODY_5|0
+the input space rd|DT NN NN JJ|BODY_4|0
+statistics-experimental design general terms|JJ NN JJ NNS|ABSTRACT_7|0
+the new loss function|DT JJ NN NN|BODY_1:BODY_14|0
+the low level features|DT JJ NN NNS|BODY_1|0
+the world wide web|DT NN JJ NN|BODY_2|0
+the following optimization problem|DT VBG NN NN|BODY_2|0
+optimal experimental design [1]|JJ JJ NN NN|BODY_2|0
+the most informative (|DT RBS JJ -LRB-|ABSTRACT_4:BODY_4|0
+our laplacian optimality criterion|PRP$ NN NN NN|BODY_39|0
+the parameter covariance matrix|DT NN NN NN|BODY_3|0
+âž§ âž¨ âž© 1|FW FW FW CD|BODY_3|0
+a linear functional space|DT NN JJ NN|BODY_18|0
+hâˆ’1 ( zzt +|NN -LRB- NN NN|BODY_9|0
+their measurements ( f(xi)|PRP$ NNS -LRB- NNS|BODY_8|0
+the explanatory variable x|DT NN JJ SYM|BODY_16|0
+the active learning problem|DT JJ NN NN|BODY_2|0
+the current relevance feedback|DT JJ NN NN|BODY_2|0
+a texture representation scheme|DT NN NN NN|BODY_2|0
+top 30 figure 4|JJ CD NN CD|BODY_4|0
+the whole image database|DT JJ NN NN|BODY_2|0
+( b ) precision|-LRB- NN -RRB- NN|BODY_3|0
+the matrix zzt +î»xlxt|DT NN NN NN|BODY_31|0
+6.8 % performance improvement|CD NN NN NN|BODY_2|0
+an automatic feedback scheme|DT JJ NN NN|BODY_3|0
+the image retrieval problem|DT NN NN NN|BODY_3|0
+the most informative data|DT RBS JJ NNS|BODY_3|0
+the same graph structure|DT JJ NN NN|BODY_3|0
+( a ) precision|-LRB- DT -RRB- NN|BODY_1|0
+all the top images|PDT DT JJ NNS|BODY_2|0
+many machine learning problems|JJ NN VBG NNS|BODY_3|0
+the determinant and eigenvalues|DT NN CC NNS|BODY_2|0
+= 1 m m|SYM CD NN NN|BODY_23|0
+a passive learning algorithm|DT JJ NN NN|BODY_2|0
+the most important techniques|DT RBS JJ NNS|BODY_3|1
+the following proposition states|DT VBG NN NNS|BODY_7|0
+all finite linear combinations|DT JJ JJ NNS|BODY_2|0
+an on-line learning process|DT JJ NN NN|BODY_2|0
+’ w ) (|JJ WRB -RRB- -LRB-|BODY_5|0
+= zzt + î»xlxt|SYM NN NN NN|BODY_29|0
+spectral graph theory [3]|JJ NN NN NN|BODY_3|0
+î›hâˆ’1 âˆ ’ ïƒ2|CD JJ , CD|BODY_32|0
+an overall performance evaluation|DT JJ NN NN|BODY_4|0
+the standard classification techniques|DT JJ NN NNS|BODY_4|0
+y âˆ ’ zt|RB NNP NNP NN|BODY_12|0
+the following objective function|DT VBG JJ NN|BODY_4|0
+color and texture features|NN CC NN NNS|BODY_1|0
+the other four subsets|DT JJ CD NNS|BODY_5|0
+a unique rkhs hk|DT JJ NN NN|BODY_7|0
+k i=1 zizt i|FW . FW FW|BODY_12|1
+the kernel matrices kxzn+1|DT NN NNS IN|BODY_7|0
+a linear regression model|DT JJ NN NN|BODY_3|0
+î›hâˆ’1 ]x ) +ïƒ2|CD NN -RRB- IN|BODY_33|0
+10 most informative images|CD RBS JJ NNS|BODY_3|0
+the mapping function ï†|DT NN NN NN|BODY_9|0
+âˆ’1 kxx ( 16|CD IN -LRB- CD|BODY_6|0
+the corresponding precision results|DT JJ NN NNS|BODY_3|0
+those unlabeled images closest|DT JJ NNS JJS|BODY_8|0
+the five learning algorithms|DT CD NN NNS|BODY_6|0
+the most informative ones|DT JJS JJ NNS|ABSTRACT_2:BODY_3|0
+jsse( w ) hsse|JJ NN -RRB- NN|BODY_10|1
+the optimal estimate ë†w|DT JJ NN NN|BODY_5|0
+a ) feedback iteration|DT -RRB- NN NN|BODY_3|0
+the least square error|DT JJS JJ NN|ABSTRACT_4|0
+the p nearest neighbors|DT NN JJS NNS|BODY_5:BODY_8|0
+:= zzt + î›|JJ FW , NN|BODY_19|0
+a new point zn+1|DT JJ NN NN|BODY_9|0
+xt xxâˆ’1 zzt +|JJ CD NN IN|BODY_5|0
+the standard regression framework|DT JJ NN NN|BODY_3|0
+f(zi)âˆ’yi 2 + î»|NN CD NN NN|BODY_8|0
+the top returned images|DT JJ VBD NNS|BODY_3:ABSTRACT_1|1
+the original 128-dimensional space|DT JJ JJ NN|BODY_4|0
+the image retrieval system|DT NN NN NN|BODY_4|0
+all the unlabeled images|DT DT JJ NNS|BODY_4|0
+an image using text|DT NN VBG NN|BODY_1|0
+the five-fold cross validation|DT JJ NN NN|BODY_4|0
+if two points xi|IN CD NNS NN|BODY_5|0
+a semi-supervised learning algorithm|DT JJ NN NN|BODY_5|0
+a query image example|DT NN NN NN|BODY_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+points xi and xj|NNS NN CC NN|BODY_8|0
+ï†( xj ) >|JJ NNP -RRB- NN|BODY_8|0
+the most informative points|DT RBS JJ NNS|BODY_11|0
+a large image database|DT JJ NN NN|BODY_6|1
+the intrinsic geometrical structure|DT JJ JJ NN|BODY_3|0
+the weight vector w|DT NN NN NN|BODY_6|0
+the coefficient vector w|DT NN NN JJ|BODY_10|0
+the relevance feedback technique|DT NN NN NN|BODY_2|0
+the last decade [13]|DT JJ NN NN|BODY_3|0
+the color texture moment|DT NN NN NN|BODY_1|1
+traditional experimental design methods|JJ JJ NN NNS|BODY_1|1
+the active learning methods|DT JJ NN NNS|BODY_4|0
+laplacian optimal design min|NN JJ NN NN|BODY_1|0
+only a limited samples|RB DT JJ NNS|BODY_10|0
+high level semantic concepts|JJ NN JJ NNS|BODY_6|1
+unmeasured (unlabeled ) samples|JJ JJ -RRB- NNS|BODY_8|0
+the standard classification problems|DT JJ NN NNS|BODY_1|0
+6.4 discussion several experiments|CD NN JJ NNS|BODY_1|0
+6.1 simple synthetic example|CD NN NN NN|BODY_1|0
+the most related work|DT RBS JJ NN|BODY_1|0
+labor-intensive manual labeling task|JJ NN NN NN|BODY_6|0
+the optimization problem eq|DT NN NN NN|BODY_3|0
+unlabeled data but labels|JJ NNS CC NNS|BODY_4|0
+the maximum likelihood estimate|DT JJ NN NN|BODY_1|0
+the image retrieval algorithms|DT NN NN NNS|BODY_6|0
+active learning algorithms|JJ NN NNS|BODY_11:BODY_1:BODY_2|0
+classical experimental design approaches|JJ JJ NN NNS|BODY_1|0
+the new objective function|DT JJ JJ NN|BODY_6|0
+all the five algorithms|DT DT CD NNS|BODY_1|0
+2.2 optimal experimental design|CD JJ JJ NN|BODY_1|0
+for lrr and svm|IN NN CC NN|BODY_1|0
+some simple algebraic steps|DT JJ JJ NNS|BODY_1|0
+a nearest neighbor graph|DT JJS NN NN|ABSTRACT_1|0
+the top ranked images|DT JJ VBD NNS|BODY_6|0
+too many relevance feedbacks|RB JJ NN NNS|BODY_3|0
+6.3 image retrieval performance|CD NN NN NN|BODY_1|0
+a new loss function|DT JJ NN NN|BODY_1|0
+the image retrieval domain|DT NN NN NN|BODY_4|0
+relevant and irrelevant images|JJ CC JJ NNS|ABSTRACT_4|0
+optimal experimental design|JJ JJ NN|ABSTRACT_4:BODY_2:BODY_3:BODY_4|1
+active learning|JJ NN|BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the database|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+our lod algorithm|PRP$ NN NN|BODY_1:BODY_2|0
+the unlabeled images|DT JJ NNS|BODY_2:BODY_3:BODY_4|0
+the retrieval performance|DT JJ NN|BODY_5:BODY_2:BODY_1|2
+the optimization problem|DT NN NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+follows|VBZ|BODY_5:BODY_27:BODY_2:BODY_3:BODY_9|0
+the loss function|DT NN NN|BODY_2:BODY_1:BODY_4|1
+our algorithm|PRP$ NN|BODY_1:BODY_2:BODY_3:ABSTRACT_1|0
+a-optimal design|NN NN|BODY_6:BODY_2:BODY_3:BODY_9|0
+that|WDT|BODY_5:BODY_3:BODY_4:BODY_7|0
+the image space|DT NN NN|ABSTRACT_8:ABSTRACT_3:BODY_4|0
+a large amount|DT JJ NN|BODY_3:BODY_8|0
+a brief description|DT JJ NN|BODY_2:BODY_3|0
+support vector machine|NN NN NN|BODY_2:BODY_7|1
+our proposed algorithm|PRP$ VBN NN|BODY_5:BODY_2|2
+the weight vector|DT NN NN|BODY_2:BODY_10|0
+laplacian optimal design|NN JJ NN|BODY_5:TITLE_1:BODY_2:BODY_4|1
+content-based image retrieval|JJ NN NN|BODY_1:BODY_4|0
+the big circle|DT JJ NN|BODY_6:BODY_3|0
+the lrr algorithm|DT NN NN|BODY_2:BODY_1:BODY_4|0
+the data space|DT NNS NN|BODY_6:BODY_4|0
+j0( w )|JJ NN -RRB-|BODY_6:BODY_26:BODY_1|0
+the geometrical structure|DT JJ NN|ABSTRACT_2:BODY_3|0
+an image query|DT NN NN|BODY_3|0
+its label y|PRP$ NN NN|BODY_3|0
+semi-supervised learning techniques|JJ NN NNS|BODY_3|0
+the active learning|DT JJ NN|BODY_2|0
+a 128-dimensional vector|DT JJ NN|BODY_2|0
+svm active learning|JJ JJ NN|BODY_2|0
+the selected points|DT VBN NNS|BODY_2|0
+p ( number|NN -LRB- NN|BODY_3|0
+the ordinary svm|DT JJ NN|BODY_2:BODY_3|1
+the first round|DT JJ NN|BODY_2|0
+the image database|DT NN NN|BODY_2:BODY_3|0
+lrr and svm|NN CC NN|BODY_1:BODY_3|0
+their objective function|PRP$ JJ NN|BODY_5|0
+the system|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+,j=1 wt xi|CD NNP NN|BODY_10:BODY_9|0
+a diagonal matrix|DT JJ NN|BODY_2|0
+a feature map|DT NN NN|BODY_3|0
+the unmeasured (or|DT JJ JJ|BODY_6|0
+active learning [1|JJ NN NNS|BODY_5|0
+svmactive ) [14]|NN -RRB- NN|BODY_10|1
+xt hâˆ’1 x|IN NNS SYM|BODY_41|0
+a heavy penalty|DT JJ NN|BODY_7|0
+the computational complexity|DT JJ NN|BODY_1:BODY_2|0
+this ill-posed problem|DT JJ NN|BODY_2|0
+a crucial problem|DT JJ NN|BODY_2|0
+79 semantic categories|CD JJ NNS|BODY_6|0
+the expected errors|DT VBN NNS|BODY_8|0
+cov( ë†w )|JJ JJ -RRB-|BODY_3|0
+a powerful technique|DT JJ NN|ABSTRACT_2|0
+the five algorithms|DT CD NNS|BODY_7|0
+a tikhonov regularizer|DT NN NN|BODY_3|0
+a particular value|DT JJ NN|BODY_4|0
+the precision rate|DT NN NN|BODY_2|0
+= ïƒ2 +|SYM CD FW|BODY_5|0
+the measured samples|DT VBN NNS|BODY_4|0
+âˆ ’ ë†wt|JJ , NN|BODY_4|0
+fh + fhâš¥|JJ JJ NN|BODY_6:BODY_13|0
+an unknown error|DT JJ NN|BODY_11|0
+contentbased image retrieval|VBN NN NN|ABSTRACT_3|0
+top 30 )|JJ CD -RRB-|BODY_6|0
+xi and xj|NN CC NNS|BODY_3|0
+the experimental results|DT JJ NNS|BODY_5:BODY_1|0
+’ ë†w )(|, JJ NN|BODY_7|0
+active learning [4]|JJ NN NN|BODY_2|0
+aod and lod|NN CC NN|BODY_2|0
+general visual features|JJ JJ NNS|BODY_1|0
+some sample images|DT NN NNS|BODY_2|0
+the aod algorithm|DT NN NN|BODY_1|0
+[ e( w|JJ FW NN|BODY_6|0
+g.3 [ mathematics|CD NN NNS|ABSTRACT_4|0
+the orthogonal complement|DT JJ NN|BODY_2|0
+the different algorithms|DT JJ NNS|BODY_3|0
+pseudo inverse )|NN NN -RRB-|BODY_3|0
+âˆ ’ w|IN JJ WRB|BODY_8|0
+max zn+1=( zn,zn+1|NN NN NNS|BODY_3|0
+experimental design approaches|JJ NN NNS|BODY_2|0
+generally two ways|RB CD NNS|BODY_5|0
+no stable solution|DT JJ NN|BODY_2|0
+( ï†(z1 )|-LRB- NNP -RRB-|BODY_3|0
+the top-ranked images|DT JJ NNS|BODY_4|0
+âˆ ’ î›)w|IN JJ NN|BODY_10|0
+whose loss functions|WP$ NN NNS|BODY_2|1
+the moore-penrose inverse|DT JJ NN|BODY_2|0
+î»2kxx âˆ’1 kxx|CD CD FW|BODY_19|0
+the top images|DT JJ NNS|BODY_6:BODY_8|0
+the labeled images|DT VBN NNS|BODY_1:BODY_3|0
+the coefficients w|DT NNS WRB|BODY_32|0
+a novel input|DT NN NN|BODY_14|0
+the retrieved images|DT JJ NNS|ABSTRACT_4|0
+kzn+1x + î»1kxxlkxx|JJ NN NN|BODY_5|0
+the classifier accuracy|DT NN NN|BODY_5|0
+a significant increase|DT JJ NN|BODY_2|0
+’ w =|JJ WRB SYM|BODY_11|0
+e( w âˆ|NN WRB IN|BODY_33|0
+a matrix zn|DT NN NN|BODY_2|0
+top 20 results|JJ CD NNS|BODY_5|0
+hâˆ’1 x )|NNS SYM -RRB-|BODY_38|0
+( 8 )|-LRB- CD -RRB-|BODY_30|0
+2 figure 3|CD NN CD|BODY_5|0
+the objective function|DT NN NN|BODY_2|0
+the recent progresses|DT JJ NNS|BODY_6|0
+( ï†(x1 )|-LRB- NNP -RRB-|BODY_4|0
+the svmactive algorithm|DT JJ NN|BODY_2:BODY_4|0
+a given model|DT VBN NN|BODY_4|0
+a covariance matrix|DT NN NN|BODY_5|1
+the complete data|DT JJ NNS|BODY_18|0
+1 m m|CD NN NN|BODY_20|0
+top 20 (|JJ CD -LRB-|BODY_2|1
+( 10 )|-LRB- CD -RRB-|BODY_39|0
+the measured points|DT JJ NNS|BODY_3|1
+the svm boundary|DT NN NN|BODY_3|0
+the proposed approach|DT VBN NN|ABSTRACT_3|1
+top 30 results|JJ CD NNS|BODY_7|0
+the data matrix|DT NNS NN|BODY_2|0
+eight characteristic maps|CD JJ NNS|BODY_3|0
+4.2 optimization scheme|CD NN NN|BODY_5|0
+the query vector|DT NN NN|BODY_3|0
+this paper|DT NN|BODY_5:BODY_2:BODY_1:ABSTRACT_1|3
+squared error matrix|JJ NN NN|BODY_31|0
+the whole database|DT JJ NN|BODY_5|0
+our loss function|PRP$ NN NN|BODY_4|0
+the query set|DT NN NN|BODY_4|0
+ë†w )( w|NN JJ WRB|BODY_34|0
+top 500 returns|NN CD NNS|BODY_7|0
+the generic problem|DT JJ NN|BODY_3|0
+top 10 results|JJ CD NNS|BODY_3|0
+the unlabeled samples|DT JJ NNS|BODY_9|0
+âˆ‚2 jsse âˆ‚w2|CD NN NN|BODY_11|1
+î»2xt x âˆ’1|JJ SYM CD|BODY_15|0
+the intrinsic geometry|DT JJ NN|BODY_2|0
+the form l|DT NN NN|BODY_3|0
++ î»wt m|NN NN NN|BODY_15|0
+the performance difference|DT NN NN|BODY_2|0
++ ( 1|FW -LRB- CD|BODY_5|0
+the affinity graph|DT NN NN|BODY_2|0
+an overall cost|DT JJ NN|BODY_2|0
+the less reliable|DT RBR JJ|BODY_5|0
+= ïƒ2 hâˆ’1|SYM NN NN|BODY_22|0
+square predictive error|NN JJ NN|BODY_17|0
+âˆ ’ zt|NNP NNP NN|BODY_14|0
+xt zzt x|JJ NN SYM|BODY_13|0
+the second step|DT JJ NN|BODY_2|0
+the labeled samples|DT VBN NNS|BODY_2|0
+the independent variable|DT JJ JJ|BODY_9|0
+xt i [|IN NN JJ|BODY_24|0
+the color histogram|DT NN NN|BODY_1|0
+the estimated boundary|DT JJ NN|BODY_3|0
+the major disadvantage|DT JJ NN|BODY_1|0
+the matrix l|DT NN NN|BODY_1|0
+the measurement (or|DT NN NN|BODY_13|0
+the input space|DT NN NN|BODY_4|0
+the past [14]|DT JJ NN|BODY_3|0
+present 20 images|JJ CD NNS|BODY_2|0
+moment ( ctm|NN -LRB- NN|BODY_5|0
+inner product k(x|JJ NN NN|BODY_15|0
+the covariance matrix|DT NN NN|BODY_17|0
+( 14 )|-LRB- CD -RRB-|BODY_4:BODY_10|0
+a zero mean|DT CD NN|BODY_4|1
+precision rate [10]|NN NN NN|BODY_4|0
+our system retrieves|PRP$ NN NNS|BODY_2|0
+the kernel function|DT NN NN|BODY_14|0
+a ) data|DT -RRB- NN|BODY_7|0
+’ wt xj|NNP NNP NN|BODY_10|0
+)âˆ’1 xt x|CD JJ SYM|BODY_11|0
+real valued functions|JJ VBN NNS|BODY_8|0
+labeled sample points|VBN NN NNS|BODY_3|0
+these two strategies|DT CD NNS|BODY_2|0
+64-dimensional color texture|JJ NN NN|BODY_4|0
+î»1xt xlxt x|JJ NN SYM|BODY_14|0
+= 1 m|SYM CD NN|BODY_29|0
++î»wt xdxt âˆ|JJ JJ NNP|BODY_20|0
+64-dimensional color histogram|JJ NN NN|BODY_3|0
+typical retrieval process|JJ JJ NN|BODY_2|0
+the optimization problems|DT NN NNS|BODY_8|0
+10 training images|CD NN NNS|BODY_2|0
+the most )|DT RBS -RRB-|ABSTRACT_7:BODY_7|0
+a representation fâˆ|DT NN NN|BODY_6|0
+that e( ë†w|DT NN NN|BODY_4|0
+2 ( 5|CD -LRB- CD|BODY_12|0
+kxi hk notice|NN NN NN|BODY_16|0
+five-fold cross validation|JJ NN NN|BODY_3|0
+the query image|DT NN NN|BODY_2|0
+âˆ’1 (xt )âˆ’1|CD JJ CD|BODY_7|0
+the estimate ë†w|DT NN NNP|BODY_10|0
+the measured (or|DT JJ NN|ABSTRACT_5|0
+the precision|DT NN|BODY_2:BODY_1:BODY_3|1
+all the cases|PDT DT NNS|BODY_3|0
+corel database show|NN NN NN|BODY_2|0
+no direct way|DT JJ NN|BODY_11|0
+( 11 )|-LRB- CD -RRB-|BODY_6|0
+the 10 images|DT CD NNS|BODY_4|0
+min fâˆˆhk k|NN NN NN|BODY_5|0
+zzt + î»xlxt|NN NN NN|BODY_24|0
+the standard svm|DT JJ NN|BODY_4|0
+î»1xlxt + î»2|JJ IN NN|BODY_3|0
+a function f|DT NN NN|BODY_2|0
+min z tr|NN FW NN|BODY_4|0
+the query concept|DT NN NN|BODY_5|0
+2 ( 2|CD -LRB- CD|BODY_9|0
+laplacian experimental design|JJ JJ NN|BODY_3|0
+these two algorithms|DT CD NNS|BODY_2|0
+a linear kernel|DT JJ NN|BODY_2|0
+a reliable way|DT JJ NN|BODY_4|0
+2 + î»|CD NN NN|BODY_7|0
+the entire scope|DT JJ NN|BODY_3|0
+several interesting points|JJ JJ NNS|BODY_2|0
+the most amount|DT JJS NN|ABSTRACT_10|0
+the euclidean distances|DT NN NNS|BODY_3|0
+the empirical error|DT JJ NN|BODY_4|0
+the state-or-the-art algorithms|DT NN NNS|BODY_4|0
+the label information|DT NN NN|BODY_4|0
+digital image databases|JJ NN NNS|BODY_3|0
+the fast growth|DT JJ NN|BODY_2|0
+both active learning|DT JJ NN|BODY_3|0
+an optimal classifier|DT JJ NN|BODY_4|0
+the precisionscope curve|DT JJ NN|BODY_1|0
+the sample x|DT NN NN|BODY_1|0
+his/her relevance judgments|PRP$ NN NNS|BODY_5|0
+a regression model|DT NN NN|ABSTRACT_2|0
+an objective function|DT JJ NN|BODY_2|0
+database and returns|NN CC NNS|BODY_6|0
+unlabeled ) data|JJ -RRB- NN|BODY_7|0
+the initial classifier|DT JJ NN|BODY_5:BODY_3|0
+suppose n points|VB NN NNS|BODY_1|0
+kernel hilbert space|NN NN NN|BODY_3|0
+the two classes|DT CD NNS|BODY_13|0
+cbir ) performance|NN -RRB- NN|ABSTRACT_4|0
+2. related work|DT JJ NN|BODY_1|1
+the feedback images|DT NN NNS|BODY_4|0
+a simple definition|DT JJ NN|BODY_1|0
+a common way|DT JJ NN|BODY_1|0
+the most interests|DT JJS NNS|BODY_6|0
+ï†(zk ) )|NN -RRB- -RRB-|BODY_5|0
+ï†(xm ) )|NN -RRB- -RRB-|BODY_6|0
+a compact form|DT JJ NN|BODY_7|1
+semi-supervised learning [2]|JJ NN NN|BODY_7|0
+the cbir systems|DT NN NNS|ABSTRACT_5|0
+the presented images|DT VBN NNS|BODY_4|0
+its predicted observation|PRP$ VBN NN|BODY_43|0
+active learning framework|JJ NN NN|BODY_2|0
+a crucial issue|DT JJ NN|BODY_3|0
+the unmeasured samples|DT JJ NNS|BODY_9|0
+the small circle|DT JJ NN|BODY_8|0
+the labeled points|DT VBN NNS|BODY_7|0
+the other hand|DT JJ NN|BODY_1|0
+cbir ) [13]|NN -RRB- NN|BODY_5|0
+the training data|DT NN NNS|BODY_3|0
+the semantic gap|DT JJ NN|BODY_1|0
+a parameterized model|DT JJ NN|BODY_7|0
+the precision-scope curve|DT JJ NN|BODY_1|0
+the similarity matrix|DT NN NN|BODY_3|0
+given data points|VBN NNS NNS|BODY_1|0
+y = (y1|NN SYM CD|BODY_1|0
+the learning performance|DT NN NN|BODY_10|0
+a similarity matrix|DT NN NN|BODY_2|0
+the same label|DT JJ NN|BODY_6|0
+some recent work|DT JJ NN|BODY_1|0
+2. the system|POS DT NN|BODY_1|0
+objects or regions|NNS CC NNS|BODY_6|0
+efficient search schemes|JJ NN NNS|BODY_6|0
+all the points|RB DT NNS|BODY_1|0
+the ordinary regression|DT JJ NN|BODY_7|1
+each submitted query|DT VBN NN|BODY_1|0
+x and zn|NN CC NN|BODY_21|0
+the retrieval process|DT JJ NN|BODY_4|0
+this optimization problem|DT NN NN|BODY_4|0
+0.001 and 0.00001|CD CC CD|BODY_3|0
+the original data|DT JJ NNS|BODY_3|0
+relevant or irrelevant|JJ CC JJ|BODY_6|0
+the worst case|DT JJS NN|BODY_1|0
+user click information|NN NN NN|BODY_4|0
+no labeled images|DT VBN NNS|BODY_5|0
+fhâš¥ âˆˆ hâš¥|NN IN NN|BODY_19|0
+some other svm|DT JJ NN|BODY_1|0
+the time complexity|DT NN NN|BODY_1|0
+the experimental design|DT JJ NN|BODY_3|0
+the other two|DT JJ CD|BODY_7|0
+the related work|DT JJ NN|BODY_4|0
+any function f|DT NN NN|BODY_1|0
+the second best|DT JJ JJS|BODY_5|0
+general the top|JJ DT NN|BODY_1|0
+regions or objects|NNS CC NNS|BODY_4|0
+equal variances ïƒ2|JJ NNS NN|BODY_4|0
+standard classification algorithms|JJ NN NNS|BODY_4|0
+the lod algorithm|DT NN NN|BODY_1|0
+6.2.1 evaluation metrics|CD NN NNS|BODY_1|0
+the following proposition|DT VBG NN|BODY_12|0
+image retrieval|NN NN|BODY_6:TITLE_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|1
+our primary interest|PRP$ JJ NN|BODY_1|0
+h âš• hâš¥|NN JJ NN|BODY_5|0
+the graph laplacian|DT NN NN|ABSTRACT_4|0
+web image search|NN NN NN|BODY_1|0
+( 3 )|-LRB- CD -RRB-|BODY_1|0
+h|NN|BODY_18:BODY_15:BODY_1:BODY_3|0
+images|NNS|BODY_2:BODY_3:ABSTRACT_7|0
+d-optimal design|JJ NN|BODY_6:BODY_3:BODY_4|0
+the problem|DT NN|BODY_2:BODY_8|0
+each other|DT JJ|ABSTRACT_3:BODY_3:BODY_7|0
+2 m|CD NN|BODY_7:BODY_8:BODY_9|0
+they|PRP|BODY_5:ABSTRACT_8:BODY_1:BODY_8|0
+these approaches|DT NNS|BODY_2:BODY_4:BODY_7|0
+x|SYM|BODY_16:BODY_4:BODY_8:BODY_9|0
+the user |DT NN|ABSTRACT_2:BODY_1:BODY_3:ABSTRACT_1|0
+relevance feedback|NN NN|BODY_2:BODY_3:ABSTRACT_1|0
+a classifier|DT NN|BODY_5:BODY_2:ABSTRACT_3|0
+lod|NN|BODY_2:BODY_4|1
+the classifier|DT NN|BODY_6:ABSTRACT_6:BODY_1:BODY_3:BODY_10|0
+kxi hk|NN NN|BODY_12:BODY_3:BODY_14|0
+experimental design|JJ NN|BODY_2:BODY_4|0
+semi-supervised learning|JJ NN|BODY_6:BODY_4|1
+the hessian|DT NN|BODY_13:BODY_25:BODY_9|1
+hk|NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+hsse|NN|BODY_11:BODY_14:BODY_8|1
+hâˆ’1 î›hâˆ’1|IN NNS|BODY_6:BODY_38:BODY_29|0
+the best|DT JJS|BODY_2:BODY_4|1
+ïƒ2 hâˆ’1|NN NN|BODY_12:BODY_26:BODY_24|0
+use|NN|BODY_2:BODY_3:BODY_7:BODY_8|0
+’ ïƒ2|, CD|BODY_36:BODY_27:BODY_13|0
+ë†w|NNP|BODY_6:BODY_18:BODY_3|0
+the lack|DT NN|BODY_6:BODY_5:BODY_4|0

@@ -1,0 +1,41 @@
+a new subspace identification approach|DT JJ NN NN NN|BODY_1:BODY_3|1
+this paper|DT NN|BODY_1:BODY_2|1
+we|PRP|BODY_1:BODY_2|1
+pca|NN|BODY_2:BODY_1|0
+a real industrial process|DT JJ JJ NN|BODY_3|0
+a simulated process|DT VBN NN|BODY_2|0
+consistent estimates|JJ NNS|BODY_3|0
+instrumental variables|JJ NNS|BODY_2|0
+n4sid algorithm|JJ NN|BODY_3|0
+the advantages|DT NNS|BODY_5|0
+the moesp algorithm|DT NN NN|BODY_2|0
+the proposed pca based subspace model identification|DT VBN NN VBN NN NN NN|BODY_6|0
+errors|NNS|BODY_6|0
+diagnosing process|JJ NN|BODY_5|0
+the errors-in-variables|DT NNS|BODY_6|0
+the system order|DT NN NN|BODY_5|0
+consistent model estimates|JJ NN NNS|BODY_5|0
+multiple variables|JJ NNS|BODY_4|0
+total least squares|JJ JJS NNS|BODY_5|0
+benchmarks|NNS|BODY_4|0
+the matrices|DT NNS|BODY_4|0
+which|WDT|BODY_4|0
+a new subspace identification algorithm|DT JJ NN NN NN|BODY_3|0
+principal component analysis principal component analysis (pca )|JJ NN NN JJ NN NN NN -RRB-|BODY_2|0
+complex industrial processes|JJ JJ NNS|BODY_3|0
+that|WDT|BODY_4|0
+eiv formulation|DT NN|BODY_3|0
+the system observability subspace|DT NN NN NN|BODY_3|0
+the category|DT NN|BODY_2|0
+model identification and order determination|NN NN CC NN NN|BODY_4|0
+standard pca|JJ NN|BODY_1|0
+the proposed subspace identification method|DT VBN NN NN NN|BODY_1|0
+the system matrices|DT NN NNS|BODY_4|0
+( smi|-LRB- FW|BODY_7|0
+comparison|NN|BODY_1|0
+eiv ) situation|NNS -RRB- NN|BODY_7|0
+sensor faults|NN NNS|BODY_6|0
+both process input and output|DT NN NN CC NN|BODY_7|0
+an eiv formulation|DT JJ NN|BODY_6|0
+principal component analysis|JJ NN NN|BODY_4|1
+the objective|DT NN|BODY_1|0

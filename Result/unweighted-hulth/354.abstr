@@ -1,0 +1,23 @@
+any two vertices|DT CD NNS|BODY_5:BODY_4|0
+a subset|DT NN|BODY_2|0
+edges|NNS|BODY_3|0
+there|EX|BODY_1:BODY_2|0
+a hamiltonian path|DT JJ NN|BODY_3|0
+every hypercube q/sub n/|DT NN NN NN|BODY_4|0
+hypercubes|NNS|BODY_2|0
+it|PRP|BODY_3|0
+a path|DT NN|BODY_2|0
+length|NN|BODY_3|0
+q/sub n/-f|NN NN|BODY_4|0
+q/sub n/-{v}-f|NN NN|BODY_4|0
+a bipartite graph|DT JJ NN|BODY_5|0
+fault-tolerant hamiltonian laceability|JJ JJ NN|BODY_1|0
+that n>or=2 and f|DT NN CC NN|BODY_1|0
+that n>or=3 and f|DT NN CC NN|BODY_1|0
+|f|<or=n-2|NN|BODY_4|0
+|f|<or=n-3|NN|BODY_4|0
+we|PRP|BODY_1|0
+different partite sets|JJ NN NNS|BODY_6|0
+the partite|DT NN|BODY_6|0
+the same partite set|DT JJ NN NN|BODY_5|0
+all bounds|DT NNS|BODY_1|0

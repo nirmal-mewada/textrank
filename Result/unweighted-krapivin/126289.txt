@@ -1,0 +1,1050 @@
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_22:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+it|PRP|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_30:BODY_8|0
+e.g|JJ|BODY_6:BODY_12:BODY_5:BODY_11:BODY_16:BODY_15:BODY_13:BODY_1:BODY_4:BODY_8:BODY_9|0
+the gp1000|DT IN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+each processor|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+a processor|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+processors|NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_9|0
+remote memory access|JJ NN NN|BODY_5:BODY_3:BODY_4:BODY_10:ABSTRACT_7:BODY_29:BODY_7:BODY_9|0
+the overhead|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_8:BODY_9|0
+the one|DT CD|BODY_5:BODY_15:BODY_3:BODY_10:BODY_4:BODY_9|0
+a numa architecture|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+all processors|DT NNS|BODY_5:BODY_3:BODY_4:BODY_7|0
+each|DT|BODY_6:BODY_4:BODY_7|0
+the time|DT NN|BODY_6:BODY_1:BODY_24:BODY_3:BODY_8:BODY_9|0
+the shared counter|DT VBN NN|BODY_6:BODY_15:BODY_1:BODY_2:BODY_3:BODY_10|0
+the bbn gp1000|DT NN CD|ABSTRACT_4:BODY_3:BODY_4:BODY_7:BODY_8|0
+a numa multiprocessor|DT NN NN|BODY_5:ABSTRACT_5:TITLE_3:BODY_3:BODY_4|0
+there|EX|BODY_6:BODY_1:BODY_2:BODY_3|0
+the network|DT NN|BODY_11:BODY_13:BODY_1:BODY_4:BODY_7:BODY_8:BODY_9|0
+the university|DT NN|BODY_6:BODY_2|0
+that|WDT|BODY_6:BODY_4:BODY_7:BODY_8|0
+data|NNS|BODY_6:BODY_8:BODY_9|0
+the barrier|DT NN|BODY_5:BODY_2:BODY_4:BODY_7:BODY_8|0
+the processors|DT NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_14:BODY_3|0
+a numa system|DT NN NN|ABSTRACT_4:BODY_2:BODY_4:BODY_7|0
+equations|NNS|BODY_6:BODY_5:BODY_2:BODY_7|0
+pre-scheduling|JJ|BODY_6:BODY_11:BODY_2:BODY_4|0
+the number|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+the size|DT NN|BODY_6:BODY_15:BODY_1:BODY_2:BODY_7|0
+the interconnection network|DT NN NN|BODY_5:BODY_16:BODY_4:BODY_7|0
+practice|NN|BODY_2:BODY_3:BODY_20|0
+the tasks|DT NNS|BODY_2:BODY_3:BODY_10:BODY_9|0
+the uniform system|DT JJ NN|BODY_2:BODY_1:BODY_3|0
+the steady-state probabilities|DT NN NNS|BODY_14:BODY_10:BODY_4:BODY_8|0
+remote access|JJ NN|BODY_23:BODY_2:BODY_4:BODY_10|0
+the system|DT NN|BODY_5:BODY_1:BODY_4:BODY_10|0
+pre-scheduling and self-scheduling|JJ CC JJ|BODY_2:BODY_7|0
+all|DT|BODY_6:BODY_3:BODY_7|0
+time|NN|BODY_6:BODY_3|0
+the self-scheduling|DT NN|BODY_11:BODY_16:BODY_4|0
+the average delay|DT JJ NN|BODY_12:BODY_17:BODY_24|0
+communication|NN|BODY_3:BODY_4:BODY_7|0
+the counter|DT NN|BODY_6:BODY_3:BODY_10:BODY_7|0
+example|NN|BODY_5:BODY_1:BODY_3|0
+a numa shared memory multiprocessor|DT NN VBN NN NN|BODY_6:BODY_5|0
+shared memory|VBN NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+a message|DT NN|BODY_2:BODY_1:BODY_4|0
+the addition|DT NN|BODY_6:BODY_13:BODY_9|0
+access|NN|BODY_6:BODY_3:BODY_4|0
+this|DT|BODY_1|0
+all processes|DT NNS|BODY_5:BODY_1:BODY_4|0
+a remote memory access|DT JJ NN NN|BODY_6:BODY_2:BODY_7|0
+a task|DT NN|BODY_2:BODY_3:BODY_4|0
+p|NN|BODY_4|0
+process scheduling|NN NN|BODY_6:ABSTRACT_5:BODY_9|0
+amdahl|NN|BODY_16:BODY_1:BODY_3|0
+the models and analyses|DT NNS CC NNS|ABSTRACT_2:BODY_2|0
+the end|DT NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+a set|DT NN|BODY_3:BODY_7|0
+memory|NN|BODY_6:BODY_7:BODY_8|0
+the gp1000 multiprocessor|DT CD NN|BODY_3|0
+the bbn|DT NN|BODY_2|0
+the processor|DT NN|BODY_11:BODY_2|0
+( 1|-LRB- LS|BODY_5:BODY_3:BODY_4|0
+the rest|DT NN|BODY_11:BODY_1:BODY_25|0
+a packet|DT NN|BODY_11:BODY_2|0
+the authors|DT NNS|BODY_2:ABSTRACT_1|0
+the bandwidth|DT NN|BODY_13:BODY_1|0
+any processor|DT NN|BODY_2:BODY_4:BODY_9|0
+the runtime|DT NN|BODY_1:BODY_3:BODY_7|0
+other five types|JJ CD NNS|BODY_4:BODY_10|0
+a unique path|DT JJ NN|BODY_2|0
+the sizes|DT NNS|BODY_2|0
+)|-RRB-|BODY_5:BODY_3:BODY_7|0
+the bbn butterfly systems|DT NN NN NNS|BODY_2:BODY_8|0
+a path|DT NN|BODY_5:BODY_2|0
+the synchronization overhead|DT NN NN|BODY_4|0
+the circuit partitioning|DT NN NN|BODY_2:BODY_3|0
+interprocessor communication|NN NN|ABSTRACT_4:BODY_7:BODY_8|0
+the machine|DT NN|BODY_2|0
+self-scheduling|NN|BODY_6:BODY_2:BODY_1|0
+analytical models|JJ NNS|BODY_1:BODY_3|0
+time units|NN NNS|BODY_2:BODY_3|0
+the subsystems|DT NNS|BODY_2:BODY_3|0
+each processor node|DT NN NN|BODY_5:BODY_4|0
+a|DT|BODY_3|0
+the switch|DT NN|BODY_6:BODY_3|0
+the probability|DT NN|BODY_21:BODY_9|0
+a least square fit|DT JJS JJ NN|BODY_7:BODY_8|0
+this paper|DT NN|BODY_2:BODY_7|0
+the sum|DT NN|BODY_13:BODY_4|0
+i|NN|BODY_3:BODY_10|0
+a memory request|DT NN NN|BODY_3:BODY_10|0
+the parallel tasks|DT JJ NNS|BODY_5:BODY_4|0
+each node|DT NN|BODY_2|0
+'s model|POS NN|BODY_2:BODY_7|0
+the application|DT NN|BODY_2:BODY_4|0
+the overhead function|DT JJ NN|BODY_2:BODY_1|0
+the multiplication|DT NN|BODY_6:BODY_5:BODY_16|0
+the network contention|DT NN NN|BODY_11:BODY_1:BODY_3|0
+different sizes|JJ NNS|BODY_2:BODY_4|0
+a constant|DT JJ|BODY_2:BODY_3|0
+the execution time|DT NN NN|BODY_5:BODY_3|0
+a conflict|DT NN|BODY_5:BODY_2|0
+the efficiency|DT NN|BODY_2:ABSTRACT_1|0
+each switch|DT NN|BODY_12:BODY_5|0
+the pre-scheduling|DT JJ|BODY_1:BODY_14:BODY_3:BODY_9|0
+oe|NN|BODY_22:BODY_17|0
+a group|DT NN|BODY_6:BODY_5:BODY_4|0
+conflicts|NNS|BODY_5:BODY_3|0
+all other processors|DT JJ NNS|BODY_3:BODY_9|0
+parallel processing performance|JJ NN NN|BODY_19:BODY_8|0
+the data|DT NNS|BODY_4:BODY_8|0
+the model|DT NN|BODY_6:BODY_1|0
+the identical remote access delay|DT JJ JJ NN NN|BODY_3:BODY_8|0
+figure 1|NN CD|BODY_1:BODY_3|0
+t arri units|JJ NN NNS|BODY_4:BODY_8|0
+the last processor|DT JJ NN|BODY_5:BODY_4|0
+the two scheduling models|DT CD NN NNS|BODY_5:BODY_18|0
+the message|DT NN|BODY_2:BODY_7|0
+k|NN|BODY_16:BODY_4|0
+the simulation|DT NN|BODY_2:BODY_1|0
+0|CD|BODY_4:BODY_9|0
+b|NN|BODY_5:BODY_3|0
+the computing performance|DT NN NN|BODY_2:BODY_1|0
+the remote memory access delay|DT JJ NN NN NN|BODY_2:BODY_1:BODY_3|0
+the approximated fl|DT JJ NN|BODY_2|0
+the least square fit|DT JJS JJ NN|BODY_4|0
+the input/output size|DT NN NN|BODY_11:BODY_17|0
+an analog filter|DT NN NN|BODY_2:BODY_3|0
+others|NNS|BODY_7|0
+the pre-scheduling model|DT JJ NN|BODY_6:BODY_5|0
+switches|NNS|BODY_6:BODY_7|0
+a newton step|DT JJ NN|BODY_2|0
+an increase|DT NN|BODY_3|0
+code and data|NN CC NNS|BODY_3|0
+the placement and movement|DT NN CC NN|BODY_2|0
+our experiment|PRP$ NN|BODY_12:BODY_6:BODY_7|0
+the distributed memory model|DT VBN NN NN|BODY_3|0
+the average remote memory access delay|DT JJ JJ NN NN NN|BODY_1:BODY_3|0
+the parallel processing performance|DT JJ NN NN|ABSTRACT_4:BODY_2|0
+bytes|NNS|BODY_6:BODY_5|0
+16 processors|CD NNS|BODY_3|0
+its request|PRP$ NN|BODY_4|0
+its local memory|PRP$ JJ NN|BODY_5:BODY_8|0
+the average time|DT JJ NN|BODY_3:BODY_10|0
+san antonio|JJ NN|BODY_4|0
+some multiprocessor tesing|DT NN NN|BODY_4|0
+0.125 -s|CD NNS|BODY_6|0
+the read|DT NN|BODY_2|0
+t i|NN NN|BODY_11:BODY_2|0
+current numa architectures|JJ NN NNS|BODY_2|0
+1|CD|BODY_5:BODY_3|0
+a matrix addition|DT NN NN|BODY_5|0
+a matrix multiplication|DT NN NN|BODY_2|0
+the processes|DT NNS|BODY_6:BODY_2|0
+sors|NNS|BODY_2|0
+the analog filter|DT NN NN|BODY_2|0
+the bus|DT NN|BODY_9|0
+the switches|DT NNS|BODY_2|0
+circuit simulation|NN NN|BODY_2|0
+the work section|DT NN NN|BODY_5|0
+the potentially large performance penalties|DT RB JJ NN NNS|BODY_12|0
+optimal strategies|JJ NNS|ABSTRACT_2|0
+the numa architecture|DT NN NN|BODY_2|0
+while|IN|BODY_5|0
+variance|NN|BODY_2|0
+figure|NN|BODY_10|0
+256 motorola 68020 processor nodes|CD NN CD NN NNS|BODY_7|0
+the matrix multiplication|DT NN NN|BODY_5:BODY_2|0
+a protocol organizes|DT NN NNS|BODY_2|0
+different numerical examples|JJ JJ NNS|BODY_6|0
+the three types|DT CD NNS|BODY_2|0
+numa system effects|NN NN NNS|BODY_5|0
+no single memory module|DT JJ NN NN|BODY_6|0
+appropriate data|JJ NNS|BODY_7|0
+numa systems|NN NNS|BODY_6:BODY_7|0
+the blocking network|DT VBG NN|BODY_2|0
+section 5|NN CD|BODY_2|0
+the performance|DT NN|BODY_1:BODY_4|0
+figure 2|NN CD|BODY_18:BODY_1|0
+task generators|NN NNS|BODY_3|0
+[27]|NNP|BODY_4|0
+echo test|NN NN|BODY_2|0
+a pair|DT NN|BODY_2:BODY_7|0
+the ff and fi|DT NN CC NN|BODY_2|0
+n|NN|BODY_5:BODY_2|0
+the task load|DT NN NN|BODY_1:BODY_7|0
+the cost|DT NN|BODY_3|0
+two models|CD NNS|BODY_2|0
+the random contentions|DT JJ NNS|BODY_35:BODY_7|0
+a real overhead|DT JJ NN|BODY_5|0
+barrier|NN|BODY_3|0
+the computational curves|DT JJ NNS|BODY_2|0
+private data|JJ NNS|BODY_5|0
+an analytical model|DT JJ NN|BODY_1:BODY_2|0
+the programs|DT NNS|BODY_2|0
+the path|DT NN|BODY_1:BODY_7|0
+its source|PRP$ NN|BODY_9|0
+a numa architectures|DT NN NNS|BODY_2|0
+them|PRP|BODY_5:BODY_3|0
+the nonlinear block bordered equations|DT JJ NN VBN NNS|BODY_2|0
+the self-scheduling model|DT JJ NN|BODY_1:BODY_3|0
+the local memory|DT JJ NN|BODY_11:BODY_2:BODY_8|0
+data communication|NNS NN|BODY_4|0
+communication delay|NN NN|BODY_2|0
+the development|DT NN|BODY_2|0
+the matrix addition program|DT NN NN NN|BODY_2:BODY_7|0
+[7]|NNP|BODY_6|0
+figure 3|NN CD|BODY_6:BODY_3|0
+processes|NNS|BODY_5:BODY_10|0
+self-scheduling according|JJ VBG|BODY_8|0
+a local access|DT JJ NN|BODY_2|0
+( 3.1 ) and ( 3.3 ) more efficient barrier algorithms|-LRB- CD -RRB- CC -LRB- CD -RRB- RBR JJ NN NNS|BODY_15|0
+a comprehensive understanding|DT JJ NN|ABSTRACT_2|0
+a logical point|DT JJ NN|BODY_2|0
+an access|DT NN|BODY_2|0
+imbalanced task load|JJ NN NN|BODY_7|0
+the previous n+|DT JJ NN|BODY_4|0
+a multiplication operation|DT NN NN|BODY_2|0
+remote access time|JJ NN NN|BODY_2|0
+nearly singular or singular jacobians|RB JJ CC JJ NNS|BODY_3|0
+flow balance|NN NN|BODY_2|0
+gp1000|CD|BODY_2:BODY_10|0
+a network|DT NN|BODY_5|0
+a representative|DT NN|BODY_5|0
+newton|NN|BODY_8|0
+its host processor|PRP$ NN NN|BODY_2|0
+addition|NN|BODY_1|0
+a remote memory access connection|DT JJ NN NN NN|BODY_4|0
+a = c2b|DT SYM JJ|BODY_3|0
+the other one|DT JJ CD|BODY_4|0
+'s point|POS NN|BODY_2|0
+memory architectures|NN NNS|BODY_1:BODY_3|0
+different nodes|JJ NNS|BODY_2|0
+partially shared memory programming model|RB VBN NN NN NN|BODY_2|0
+the rate ( number|DT NN -LRB- NN|BODY_2|0
+[3]-[5] , [16] , [23] )|JJ , JJ , JJ -RRB-|BODY_4|0
+the remote memory access rate|DT JJ NN NN NN|BODY_1|0
+the circuit|DT NN|BODY_4:BODY_10|0
+a total|DT NN|BODY_5:BODY_1|0
+'s and ffi 's|POS CC NN POS|BODY_3|0
+section 4|NN CD|BODY_2|0
+sequent symmetry|JJ NN|BODY_4|0
+the shared data|DT VBN NNS|BODY_7|0
+making use|VBG NN|BODY_2|0
+the memory and network contentions|DT NN CC NN NNS|BODY_5:BODY_4|0
+some performance evaluation|DT NN NN|BODY_2|0
+12 nodes|CD NNS|BODY_4|0
+that point|DT NN|BODY_5|0
+figure 1 )|NN CD -RRB-|BODY_4|0
+nodes|NNS|BODY_14:BODY_3|0
+a switch|DT NN|BODY_2:BODY_3|0
+several numerical examples|JJ JJ NNS|ABSTRACT_3:BODY_4|0
+some|DT|BODY_1:BODY_2|0
+the task data structures|DT NN NNS NNS|BODY_2|0
+4.1 background|CD NN|BODY_2|0
+operations|NNS|BODY_3|0
+the rate|DT NN|BODY_5|0
+a 16 processor gp1000 system|DT CD NN CD NN|BODY_2|0
+a circuit|DT NN|BODY_4|0
+1 , 3 , 6|CD , CD , CD|BODY_3|0
+the encore multimax|DT NN NN|BODY_3|0
+the exclusive use|DT JJ NN|BODY_8|0
+barriers|NNS|BODY_11|0
+a shared variable|DT VBN JJ|BODY_6|0
+reducing number|VBG NN|BODY_10|0
+time unit|NN NN|BODY_5:BODY_4|0
+a multi-level connection network|DT JJ NN NN|BODY_3|0
+some processor|DT NN|BODY_3|0
+t chek units|JJ NN NNS|BODY_2|0
+p processors|NN NNS|BODY_2:BODY_3|0
+the remote memory access|DT JJ NN NN|BODY_5:BODY_13|0
+dynamic scheduling overhead|JJ NN NN|BODY_2|0
+message passing|NN NN|BODY_2|0
+itself|PRP|BODY_6:BODY_5:BODY_10|0
+the matrix addition|DT NN NN|BODY_5:BODY_3|0
+an uniform memory access|DT JJ NN NN|BODY_5|0
+uma )|NN -RRB-|BODY_6|0
+load time|NN NN|BODY_5:BODY_4|0
+quiescent state|JJ NN|BODY_4|0
+no dynamic changes|DT JJ NNS|BODY_4|0
+the so called cascade effect|DT RB VBN NN NN|BODY_3|0
+architecture|NN|BODY_6:BODY_2|0
+all the conflicting traffic|PDT DT VBG NN|BODY_4|0
+overhead|NN|BODY_3|0
+the original butterfly architecture|DT JJ NN NN|BODY_5|0
+a state transition diagram|DT NN NN NN|BODY_8|0
+each task|DT NN|BODY_25:BODY_3|0
+an interconnection network|DT NN NN|BODY_6:BODY_8|0
+mutually exclusive access|RB JJ NN|BODY_5|0
+state b|NN NN|BODY_1:BODY_4|0
+the major overhead|DT JJ NN|BODY_3|0
+a numa multiprocessor architecture|DT NN VBG NN|BODY_4|0
+quantitative comparisons|JJ NNS|BODY_4|0
+different number|JJ NN|BODY_3:BODY_4|0
+'s for|POS IN|BODY_2|0
+[20] and [8]|NNP CC NNP|BODY_2|0
+a solution|DT NN|BODY_2|0
+all the t i|PDT DT NN NN|BODY_1|0
+interested readers|JJ NNS|BODY_1|0
+the modeling|DT NN|BODY_2|0
+the newton step|DT JJ NN|BODY_1|0
+this symmetric property|DT JJ NN|BODY_1|0
+different pairs|JJ NNS|BODY_2|0
+the access|DT NN|BODY_13:BODY_8|0
+any time|DT NN|BODY_4|0
+reasonably accurate numa performance models|RB JJ NN NN NNS|BODY_3|0
+the gp1000 respectively|DT CD RB|BODY_5:BODY_11|0
+one exception|CD NN|BODY_5|0
+bbn butterfly family|JJ NN NN|BODY_3|0
+the processor returns|DT NN NNS|BODY_6|0
+the voltage and current waveforms|DT NN CC JJ NNS|BODY_3|0
+drop approach|NN NN|BODY_9|0
+the chance|DT NN|BODY_4|0
+a message queue|DT NN NN|BODY_3|0
+distributed task processing|VBN NN NN|BODY_3|0
+each new message|DT JJ NN|BODY_4|0
+a remote access|DT JJ NN|BODY_3|0
+a numa multiprocessor system|DT NN NN NN|BODY_4|0
+a mimd system|DT JJ NN|BODY_6|0
+oe )|NN -RRB-|BODY_9|0
+numa multiprocessors|NN NNS|BODY_2|0
+both interconnection network effects|DT NN NN NNS|BODY_4|0
+programming models|NN NNS|BODY_3|0
+the two models|DT CD NNS|BODY_5|0
+an optimal parallel processing strategy|DT JJ NN NN NN|BODY_4|0
+the memory module|DT NN NN|BODY_6|0
+the remote memory access effects|DT JJ NN NN NNS|BODY_1:BODY_3|0
+noncached access|JJ NN|BODY_2|0
+a probability|DT NN|BODY_11|0
+the data access time|DT NNS NN NN|BODY_5|0
+a special class|DT JJ NN|BODY_4|0
+4 inputs|CD NNS|BODY_6|0
+the degree|DT NN|BODY_27:BODY_4|0
+one processor|CD NN|BODY_26:BODY_3|0
+the atomic operation|DT JJ NN|BODY_1:BODY_9|0
+4 nodes|CD NNS|BODY_10|0
+the over-|DT NNS|BODY_5|0
+the shared memory|DT VBN NN|BODY_6:BODY_4|0
+the imbalanced task load|DT VBN NN NN|BODY_5:BODY_28:BODY_4|0
+our performance analyses|PRP$ NN NNS|BODY_2|0
+a time|DT NN|BODY_4|0
+a graphical tool|DT JJ NN|BODY_3|0
+strictly sequential time section t|RB JJ NN NN NN|BODY_13|0
+approximately same number|RB JJ NN|BODY_5|0
+[19]|NNS|BODY_2|0
+a p node multiprocessor|DT VBP NN NN|BODY_14|0
+a 68851 paged memory management unit|DT JJ JJ NN NN NN|BODY_5|0
+3.3 )|CD -RRB-|BODY_6|0
+about 0.5 -s|RB CD NN|BODY_3|0
+memory management|NN NN|BODY_5|0
+many block bordered equations|JJ NN VBN NNS|BODY_2|0
+the same time|DT JJ NN|BODY_6:BODY_5|0
+later mathematical work|JJ JJ NN|BODY_2|0
+the traffic conflicts|DT NN NNS|BODY_2|0
+two locks|CD NNS|BODY_2|0
+the computations|DT NNS|BODY_2:BODY_8|0
+a numa ( nonuniform memory access ) multiprocessor|DT NN -LRB- NN NN NN -RRB- NN|ABSTRACT_3|0
+the matrix|DT NN|BODY_2|0
+us|PRP|BODY_3|0
+the computation|DT NN|BODY_4:BODY_7|0
+probability|NN|BODY_6|0
+parallel processing|NN NN|TITLE_2|0
+runtime overhead|NN NN|BODY_2|0
+[17]|NNP|BODY_17|0
+1 , 2|CD , CD|BODY_9|0
+the matrix multiplication program|DT NN NN NN|BODY_4|0
+such a way|JJ DT NN|BODY_3|0
+multiplication operations|NN NNS|BODY_3|0
+a generic numa machine|DT JJ NN NN|BODY_2|0
+runtime|NN|BODY_5:BODY_3|0
+i-th state q i|JJ NN NN NN|BODY_8|0
+the linear function|DT JJ NN|BODY_5|0
+fi gp1000 1812 2.40 topology 1000 215 table 1|JJ CD CD CD NN CD CD NN CD|BODY_6|0
+[25] ) and paradigm|NNP -RRB- CC NN|BODY_20|0
+fl|NN|BODY_7|0
+[22] )|NNP -RRB-|BODY_18|0
+a perfectly parallelized time section t p|DT RB JJ NN NN NN VBP|BODY_12|0
+the critical section delay|DT JJ NN NN|BODY_8|0
+process synchronization|NN NN|ABSTRACT_6:BODY_8|0
+distributed mem|VBN FW|BODY_6|0
+the basic operations|DT JJ NNS|ABSTRACT_2|0
+hector|NN|BODY_19|0
+considerations|NNS|BODY_4|0
+other processors|JJ NNS|BODY_9|0
+a program|DT NN|BODY_11|0
+the dynamic scheduling|DT JJ NN|BODY_4|0
+fluctuations|NNS|BODY_2|0
+the program|DT NN|BODY_2:BODY_8|0
+static and dynamic task scheduling performance|JJ CC JJ NN NN NN|BODY_3|0
+( 4|-LRB- CD|BODY_19|0
+the processing load|DT NN NN|BODY_2|0
+different network and memory architecture effects|JJ NN CC NN NN NNS|BODY_5|0
+each single operation|DT JJ NN|BODY_4|0
+program code|NN NN|BODY_4|0
+data sharing and communication|NNS NN CC NN|BODY_6:BODY_3|0
+( 4.14 )|-LRB- CD -RRB-|BODY_34|0
+one memory|CD NN|BODY_10|0
+the topology|DT NN|BODY_8|0
+the shared memory programming model|DT VBN NN NN NN|BODY_2|0
+a message passing|DT NN NN|BODY_12|0
+interconnection networks|NN NNS|BODY_2|0
+one method|CD NN|BODY_3|0
+overall remote access times|JJ JJ NN NNS|BODY_3|0
+( p )|-LRB- NN -RRB-|BODY_4|0
+the practical effects|DT JJ NNS|BODY_5|0
+interconnection network|NN NN|BODY_6|0
+the success probability|DT NN NN|BODY_7|0
+state 0|NN CD|BODY_2|0
+experiments|NNS|BODY_32|0
+the last|DT JJ|BODY_4|0
+its effectiveness|PRP$ NN|BODY_5|0
+the request|DT NN|BODY_5|0
+memory contention|NN NN|BODY_15|0
+network contention|NN NN|BODY_14|0
+the singularity|DT NN|BODY_5|0
+memory management policies|NN NN NNS|BODY_6|0
+application programs|NN NNS|BODY_37:BODY_8|0
+4.3|CD|BODY_27|0
+the structure|DT NN|BODY_3|0
+the requests|DT NNS|BODY_3|0
+8 tasks|CD NNS|BODY_20|0
+all other memory models|DT JJ NN NNS|BODY_7|0
+the second term|DT JJ NN|BODY_14|0
+[26] )|NNP -RRB-|BODY_10|0
+reader|NN|BODY_3|0
+the processor access|DT NN NN|BODY_5|0
+a similar factor|DT JJ NN|BODY_4|0
+an unlock|DT NN|BODY_4|0
+has mean|VBZ VBP|BODY_8|0
+the other conflicting messages|DT JJ VBG NNS|BODY_7|0
+the matrices|DT NNS|BODY_7:BODY_8|0
+distributed programming model|VBN NN NN|BODY_4|0
+a processor access|DT NN NN|BODY_7|0
+all the cases|DT DT NNS|BODY_33|0
+this process|DT NN|BODY_1|0
+one computation|NN NN|BODY_26|0
+the arrival time variance|DT NN NN NN|BODY_2|0
+a multiprocessor|DT NN|BODY_2|0
+other blocked messages|JJ VBN NNS|BODY_5|0
+all the switches|DT DT NNS|BODY_4|0
+two messages|CD NNS|BODY_3|0
+[27] )|JJ -RRB-|BODY_5|0
+network switches|NN NNS|BODY_9|0
+the message-passing|DT NN|BODY_2|0
+the first  message retreat|DT JJ JJ NN NN|BODY_8|0
+the multistage|DT NN|BODY_5|0
+the gp1000 comparing|DT CD NN|BODY_3|0
+various structures|JJ NNS|BODY_36|0
+form|NN|BODY_2|0
+the memory modules|DT NN NNS|BODY_5|0
+the independent processes|DT JJ NNS|BODY_8|0
+scheduling , synchronization and remote memory access|NN , NN CC JJ NN NN|BODY_4|0
+a general multistage interconnection network|DT JJ NN NN NN|BODY_2|0
+n a|RB DT|BODY_11|0
+some i/o facilities|DT NN NNS|BODY_6|0
+an efficient programming environment|DT JJ NN NN|ABSTRACT_3|0
+the multistage interconnection network|DT NN NN NN|BODY_3|0
+a two-level interconnection network|DT JJ NN NN|BODY_2|0
+a two-stage switching network|DT NN VBG NN|BODY_2|0
+execution time|NN NN|BODY_7|0
+any memory modules|DT NN NNS|BODY_6|0
+741 op-amp circuit|CD JJ NN|BODY_4|0
+both scheduling models|DT NN NNS|BODY_2|0
+ohio|NN|BODY_3|0
+texas|NNS|BODY_3|0
+[10]|NN|BODY_10|0
+[3]|NN|BODY_2|0
+an overhead function term t|DT NN NN NN NN|BODY_3|0
+the modified amdahl|DT VBN MD|BODY_6|0
+additions|NNS|BODY_6|0
+no other processors|DT JJ NNS|BODY_4|0
+times|NNS|BODY_2|0
+local access|JJ NN|BODY_5|0
+the direct path|DT JJ NN|BODY_4|0
+t|NN|BODY_15|0
+globally accessible|RB JJ|BODY_3|0
+distributed memory model|VBN NN NN|BODY_2|0
+a self-scheduling example|DT NN NN|BODY_19|0
+o ( p )|IN -LRB- NN -RRB-|BODY_2|0
+a wide-range|DT JJ|BODY_5|0
+a model|DT NN|BODY_2|0
+an n-stage interconnection network|DT NN NN NN|BODY_10|0
+several timing models|JJ NN NNS|BODY_8|0
+?|.|BODY_3|0
+electric elements|JJ NNS|BODY_9|0
+advice|NN|BODY_3|0
+3 op-amp 741 simulation|CD JJ CD NN|BODY_4|0
+a synchronization point|DT NN NN|BODY_2|0
+the remote access times|DT JJ NN NNS|BODY_2|0
+the function f q+1|DT NN NN NNS|BODY_2|0
+all access|DT NN|BODY_2|0
+an alternative route|DT NN NN|BODY_2|0
+the first i switches|DT JJ IN NNS|BODY_9|0
+the single 741-op-amp system|DT JJ JJ NN|BODY_2|0
+the bbn gp1000 )|DT JJ CD -RRB-|BODY_4|0
+models|NNS|BODY_3|0
+a copy|DT NN|BODY_7|0
+the bus-based shared memory multiprocessors|DT JJ VBN NN NNS|BODY_2|0
+3 blocks|CD NNS|BODY_3|0
+the success|DT NN|BODY_5|0
+a busy-wait  type|DT JJ NN NN|BODY_2|0
+simultaneous communication|JJ NN|BODY_4|0
+( 3.8 )|-LRB- CD -RRB-|BODY_2|0
+an experimental approach|DT JJ NN|BODY_4|0
+the difference|DT NN|BODY_2|0
+a barrier|DT NN|BODY_2|0
+processor management|NN NN|BODY_2|0
+the hardware and software mechanisms|DT NN CC NN NNS|BODY_12|0
+the best possible load balancing|DT JJS JJ NN NN|BODY_7|0
+the effective use|DT JJ NN|ABSTRACT_5|0
+the instant|DT NN|BODY_2|0
+the nonblocking-network architecture|DT NN NN|BODY_2|0
+lock|NN|BODY_3|0
+scheduling overhead|NN NN|BODY_6|0
+cedar|NN|BODY_5|0
+the global memory|DT JJ NN|BODY_4|0
+an addition operation|DT NN NN|BODY_3|0
+figure 4|NN CD|BODY_1|0
+any memory module|DT NN NN|BODY_3|0
+the barrier synchronization|DT NN NN|BODY_3|0
+no dynamic process scheduling|DT JJ NN NN|BODY_7|0
+block bordered structure|NN VBN NN|BODY_7|0
+one node|CD NN|BODY_5|0
+no advantage|DT NN|BODY_7|0
+both pre-scheduling and self-scheduling models|DT JJ CC JJ NNS|BODY_2|0
+m remote access|NN JJ NN|BODY_25|0
+some subsystems|DT NNS|BODY_6|0
+a small scale|DT JJ NN|BODY_4|0
+a test node|DT NN NN|BODY_3|0
+the successful one|DT JJ NN|BODY_16|0
+unsuccessful memory access (|JJ NN NN -LRB-|BODY_13|0
+assumptions|NNS|BODY_3|0
+an incomplete model|DT JJ NN|BODY_18|0
+both matrix addition and matrix multiplication|DT NN NN CC NN NN|BODY_3|0
+memory and network contention|NN CC NN NN|BODY_6|0
+view|NN|BODY_3|0
+the sub-circuit systems|DT JJ NNS|BODY_2|0
+4 processors|CD NNS|BODY_21|0
+a period|DT NN|BODY_5|0
+the shared bus|DT VBN NN|BODY_5|0
+the types|DT NNS|BODY_7|0
+memory data structures|NN NNS NNS|BODY_2|0
+these experiments|DT NNS|BODY_3|0
+different architectures|JJ NNS|BODY_9|0
+[6]|NN|BODY_5|0
+the state n + 1|DT NN NN NN CD|BODY_2|0
+( 3.2|-LRB- CD|BODY_4|0
+the analysis models|DT NN NNS|BODY_6|0
+a request|DT NN|BODY_3|0
+alpha and beta|NN CC NN|BODY_7|0
+a standstill|DT NN|BODY_5|0
+intel ipsc/1|NN NNS|BODY_4|0
+an average time|DT JJ NN|BODY_9|0
+a line search and matrix perturbations|DT NN NN CC NN NNS|BODY_4|0
+16 memory modules|CD NN NNS|BODY_4|0
+i-th stage network|JJ NN NN|BODY_11|0
+the partitioned systems|DT JJ NNS|BODY_2|0
+the execution|DT NN|BODY_5|0
+t init time|JJ NN NN|BODY_2|0
+a nonblocking multi-stage interconnection network|DT NN NN NN NN|BODY_7|0
+[3]-[5] )|JJ -RRB-|BODY_4|0
+some state|DT NN|BODY_4|0
+efficient parallel programming environment|JJ NN NN NN|BODY_7|0
+'s law|POS NN|BODY_17|0
+the 741 op-amp circuit|DT CD NN NN|BODY_8|0
+distributed memory multicomputers head|VBN NN NNS NN|BODY_11|0
+the problems|DT NNS|BODY_3|0
+the same portion|DT JJ NN|BODY_4|0
+more resources|RBR NNS|BODY_2|0
+the effectiveness|DT NN|BODY_4|0
+1=oe|PRP|BODY_3|0
+the control flow|DT NN NN|BODY_3|0
+the effect|DT NN|BODY_6|0
+the last equation|DT JJ NN|BODY_3|0
+the various effects|DT JJ NNS|ABSTRACT_3|0
+the distributed programming model|DT VBN NN NN|BODY_1|0
+regard|NN|BODY_6|0
+effective use|JJ NN|BODY_5|0
+the two programs|DT CD NNS|BODY_5|0
+the non-uniform memory access|DT JJ NN NN|BODY_5|0
+the fully shared memory programming model|DT RB VBN NN NN NN|BODY_6:BODY_1|0
+copying blocks|NN NNS|BODY_8|0
+means|NNS|BODY_7|0
+message packets|NN NNS|BODY_3|0
+each remote access|DT JJ NN|BODY_18|0
+the user|DT NN|BODY_7|0
+the traffic conditions|DT NN NNS|BODY_9|0
+the partially shared memory programming model and self-scheduling|DT RB VBN NN NN NN CC NN|BODY_5|0
+80|CD|BODY_3|0
+nonlinear systems|JJ NNS|BODY_5|0
+a task one|DT NN NN|BODY_3|0
+a memory reference request|DT NN NN NN|BODY_10|0
+[9]|NN|BODY_16|0
+all the nodes|PDT DT NNS|BODY_3|0
+s|PRP|BODY_20|0
+the physical location|DT JJ NN|BODY_7|0
+our goal|PRP$ NN|BODY_2|0
+a target numa system|DT NN NN NN|BODY_7|0
+any pair|DT NN|BODY_13|0
+the shared memory environment|DT VBN NN NN|BODY_2|0
+the remote memory access prediction and evaluation|DT JJ NN NN NN CC NN|BODY_6|0
+1 byte|CD NN|BODY_4|0
+the performance prediction and evaluation|DT NN NN CC NN|BODY_3|0
+the two computations|DT CD NNS|BODY_3|0
+several analytical models and measurements|JJ JJ NNS CC NNS|BODY_5|0
+these two schedulings|DT CD NNS|BODY_3|0
+an experiment|DT NN|BODY_28|0
+( 2|-LRB- CD|BODY_10|0
+the same probability|DT JJ NN|BODY_7|0
+three types|CD NNS|BODY_5|0
+( 3.1 )|-LRB- CD -RRB-|BODY_9|0
+the update|DT NN|BODY_9|0
+a limited number|DT JJ NN|BODY_31|0
+the critical region|DT JJ NN|BODY_3|0
+assignment|NN|BODY_9|0
+[11] )|NNP -RRB-|BODY_21|0
+this model|DT NN|BODY_10|0
+716|CD|BODY_4|0
+a vector|DT NN|BODY_6|0
+a memory access|DT NN NN|BODY_6:BODY_1|0
+its own memory|PRP$ JJ NN|BODY_3|0
+5|CD|BODY_7|0
+figure 6|NN CD|BODY_1:BODY_7|0
+uniform memory access time|NN NN NN NN|BODY_4|0
+all data ) shared memory programming model|DT NNS -RRB- VBN NN NN NN|BODY_5|0
+the first term|DT JJ NN|BODY_7|0
+synchronization|NN|BODY_4|0
+processing performance|NN NN|BODY_5|0
+poor comparing|JJ NN|BODY_4|0
+partially shared memory|RB VBN NN|BODY_7|0
+the behavior|DT NN|BODY_5|0
+the uma multiprocessor|DT NN NN|BODY_3|0
+the communication cost barrier synchronization|DT NN NN NN NN|BODY_3|0
+the omega network|DT JJ NN|BODY_3|0
+a time line|DT NN NN|BODY_15|0
+the run-time|DT NN|BODY_3|0
+as much as|RB JJ RB|BODY_4|0
+several analytical models|JJ JJ NNS|ABSTRACT_2|0
+the delay|DT NN|BODY_5|0
+higher chances|JJR NNS|BODY_2|0
+other words|JJ NNS|BODY_4|0
+the state|DT NN|BODY_12|0
+each path|DT NN|BODY_2|0
+a distributed architecture|DT VBN NN|BODY_3|0
+an unbalanced block bordered system|DT JJ NN VBN NN|BODY_4|0
+some processors|DT NNS|BODY_4|0
+parallel tasks|JJ NNS|BODY_6:BODY_5|0
+an update|DT NN|BODY_5|0
+carnegie-mellon university|JJ NN|BODY_14|0
+cm* and plus|NN CC NN|BODY_13|0
+memory multiprocessors|NN NNS|BODY_15|0
+uma|NNP|BODY_14|0
+n elements|NN NNS|BODY_7|0
+one|CD|BODY_6|0
+approximate 1024210 3 times remote memory access|JJ CD CD NNS JJ NN NN|BODY_6|0
+the next switch|DT JJ NN|BODY_8|0
+various application programs|JJ NN NNS|BODY_8|0
+the two important factors|DT CD JJ NNS|BODY_3|0
+12|CD|BODY_6|0
+2 2 n 3 and 2 2 n 2|CD CD NN CD CC CD CD NN CD|BODY_4|0
+t w|NN NN|BODY_6|0
+the average fl and ffi|DT JJ NN CC NN|BODY_2|0
+a connecting path|DT JJ NN|BODY_6|0
+a n 2 n matrix|DT NN CD NN NN|BODY_4|0
+the bbn butterfly machines|DT JJ NN NNS|BODY_23|0
+- i|: IN|BODY_6:BODY_4|0
+4 2 4 switches|CD CD CD NNS|BODY_2|0
+1:15 depending|CD VBG|BODY_6|0
+one additional equation|CD JJ NN|BODY_3|0
+( 3.7 )|-LRB- CD -RRB-|BODY_8|0
+the only systems commercially available|DT JJ NNS RB JJ|BODY_24|0
+two major process scheduling models|CD JJ NN NN NNS|BODY_3|0
+3.3 comparisons|CD NNS|BODY_17|0
+4 mbytes|CD NNS|BODY_6|0
+the above system|DT JJ NN|BODY_4|0
+extra time units|JJ NN NNS|BODY_2|0
+the remote memory module|DT JJ NN NN|BODY_8|0
+the interprocessor communication overhead|DT NN NN NN|BODY_3|0
+the vector supercomputers|DT NN NNS|BODY_10|0
+programs|NNS|BODY_5|0
+the two major sources|DT CD JJ NNS|BODY_9|0
+for|IN|BODY_12|0
+the numa performance|DT NN NN|BODY_2|0
+a another node|DT DT NN|BODY_6|0
+[15 ]|CD CD|BODY_4|0
+this way|DT NN|BODY_4|0
+run time|NN NN|BODY_4:BODY_8|0
+a complete synchronization overhead|DT JJ NN NN|BODY_10|0
+about 1.7 times|IN CD NNS|BODY_3|0
+the dot-product|DT NN|BODY_2|0
+gp1000 comparing|CD NN|BODY_9|0
+the four major overhead sources|DT CD JJ NN NNS|BODY_3|0
+state transition diagram|NN NN NN|BODY_8|0
+the computing cycles|DT NN NNS|BODY_7|0
+[14]|NN|BODY_9|0
+the ibm rp3|DT JJ NN|BODY_11|0
+a complete computer|DT JJ NN|BODY_3|0
+another node|DT NN|BODY_3|0
+a message packet|DT NN NN|BODY_4|0
+[5] )|NNP -RRB-|BODY_4|0
+'s law [1|POS NN NNS|BODY_4|0
+both shared memory models|DT VBN NN NNS|BODY_4|0
+load|NN|BODY_6|0
+the block|DT NN|BODY_6|0
+turn|NN|BODY_2|0
+blocks|NNS|BODY_4|0
+each q i|DT RB VBG|BODY_8|0
+a connection|DT NN|BODY_2|0
+illinois (|JJ -LRB-|BODY_7|0
+different measurements|JJ NNS|BODY_3|0
+distributed memory multicomputers|VBN NN NNS|BODY_5|0
+the processor locality best|DT NN NN JJS|BODY_6|0
+numa performance|DT NN|BODY_4|0
+the circuit equations|DT NN NNS|BODY_1|0
+the function norm|DT NN NN|BODY_4|0
+their system experiments|PRP$ NN NNS|BODY_1|0
+.e|NN|BODY_6|0
+several source-destination pairs|JJ NN NNS|BODY_5|0
+an average t comp units|DT NN NN NN NNS|BODY_5|0
+a = nm nm|DT SYM JJ JJ|BODY_10|0
+matrix size|NN NN|BODY_12|0
+echo tests|NN NNS|BODY_2|0
+the effects|DT NNS|BODY_3|0
+some time|DT NN|BODY_4|0
+the destination address|DT NN NN|BODY_9|0
+the standard deviation|DT JJ NN|BODY_23|0
+the scheduling figure 2|DT NN NN CD|BODY_14|0
+oe =p 2log( p|NN NN JJ NN|BODY_7|0
+-s and fi|NNS CC NN|BODY_12|0
+dynamic load scheduling|JJ NN NN|BODY_2|0
+1=|CD|BODY_8|0
+a local memory|DT JJ NN|BODY_5|0
+the memory models|DT NN NNS|BODY_8|0
+one board|CD NN|BODY_7|0
+its simplest form|PRP$ JJS NN|BODY_6|0
+the oe|DT NN|BODY_8|0
+the mc68020 processors|DT NN NNS|BODY_5|0
+n new equations|RB JJ NNS|BODY_2|0
+a normal probability distribution|DT JJ NN NN|BODY_2|0
+the remote access rate|DT JJ NN NN|BODY_2|0
+a memory module pair|DT NN NN NN|BODY_4|0
+the matrix multiplication and addition|DT NN NN CC NN|BODY_3|0
+the globally shared data|DT RB VBN NNS|BODY_3|0
+the 741 op-amp|DT CD NN|BODY_3|0
+the op-amp 741 simulation|DT JJ CD NN|BODY_8|0
+versus number|JJ NN|BODY_8|0
+exclusive access|JJ NN|BODY_4|0
+a matrix dot-product|DT NN NN|BODY_2|0
+success|NN|BODY_22|0
+the set|DT NN|BODY_5|0
+task dispatching algorithm|NN NN NN|BODY_8|0
+any network contention|DT NN NN|BODY_4|0
+an overhead|DT NN|BODY_3|0
+some amount|DT NN|BODY_2|0
+the communication channel fi|DT NN NN NN|BODY_2|0
+requests|NNS|BODY_3|0
+computation|NN|BODY_2|0
+the scheduled task|DT VBN NN|BODY_5|0
+a single pool|DT JJ NN|BODY_5|0
+its ( i 1)-th request|PRP$ -LRB- IN JJ NN|BODY_4|0
+large number|JJ NN|BODY_2|0
+the following equations|DT VBG NNS|BODY_7|0
+the states|DT NNS|BODY_5|0
+its current task|PRP$ JJ NN|BODY_3|0
+the first scheduled processor|DT JJ VBN NN|BODY_2|0
+state n|NN NN|BODY_2|0
+a parallel programming environment|DT JJ NN NN|BODY_2|0
+a plog 4 p switching interconnection|DT NN CD NN VBG NN|BODY_3|0
+any source processor and destination memory module pair|DT NN NN CC NN NN JJ NN|BODY_3|0
+the barrier synchronization overhead|DT NN NN NN|BODY_1|0
+the evenly distributed dot-product problems|DT RB VBN NN NNS|BODY_3|0
+the multistage interconnection switching network|DT NN NN VBG NN|BODY_1|0
+the state i|DT NN NN|BODY_2|0
+several significant effects|JJ JJ NNS|BODY_2|0
+a numa shared memory architecture|DT NN VBN NN NN|BODY_3|0
+the accumulating counter barrier|DT VBG NN NN|BODY_4|0
+a number|DT NN|BODY_6|0
+a constant , t r|DT JJ , IN NN|BODY_7|0
+ff|NN|BODY_8|0
+n tasks|NN NNS|BODY_3|0
+oe ?p|NN NN|BODY_12|0
+the parallel execution time|DT JJ NN NN|BODY_5|0
+an uma ( uniform memory access|DT NN -LRB- NN NN NN|BODY_2|0
+about 4 times|IN CD NNS|BODY_3|0
+the fluctuations|DT NNS|BODY_4|0
+an integral multiple|DT JJ NN|BODY_3|0
+different distances|JJ NNS|BODY_6:BODY_4|0
+a quiescent processor|DT JJ NN|BODY_6|0
+a distributed memory multicomputer environment|DT VBN NN JJ NN|BODY_1:BODY_4|0
+t r|NN NN|BODY_2|0
+state i|NN NN|BODY_15:BODY_9|0
+the startup time|DT JJ NN|BODY_10|0
+an echo node|DT NN NN|BODY_5|0
+two directly connected nodes|CD RB VBN NNS|BODY_3|0
+barrier synchronization|NN NN|BODY_5|0
+ffi|NN|BODY_12|0
+two programs|CD NNS|BODY_2|0
+computing|NN|BODY_10|0
+the numerical experiment|DT JJ NN|BODY_3|0
+the computation load|DT NN NN|BODY_1|0
+the partially shared memory model|DT RB VBN NN NN|BODY_5|0
+other memory models|JJ NN NNS|BODY_8|0
+extra computing time|JJ NN NN|BODY_6|0
+the remote access delay|DT JJ NN NN|BODY_1|0
+a remote memory module|DT JJ NN NN|BODY_4|0
+the necessity|DT NN|BODY_6|0
+the modifications|DT NNS|BODY_1|0
+state|NN|BODY_6:BODY_1|0
+all other nodes|DT JJ NNS|BODY_9|0
+terms|NNS|BODY_12|0
+the next task|DT JJ NN|BODY_5|0
+the test node|DT NN NN|BODY_4:BODY_7|0
+an uniform reference model|DT JJ NN NN|BODY_4|0
+the barrier point|DT NN NN|BODY_4|0
+1=oe b|JJ NN|BODY_2|0
+t atom|NN NN|BODY_7|0
+a remote update|DT JJ NN|BODY_14|0
+n 2 n square matrices|NN CD NN NN NNS|BODY_6|0
+one is|CD VBZ|BODY_1|0
+two problems|CD NNS|BODY_6|0
+multiprocessor system|NN NN|BODY_2|0
+an atomic operation|DT JJ NN|BODY_6|0
+remote memory accesses|JJ NN NNS|BODY_4|0
+a simple analytical timing model|DT JJ JJ NN NN|BODY_4|0
+the barrier implementation|DT NN NN|BODY_2|0
+1 , 3|CD , CD|BODY_2|0
+different size problems|JJ NN NNS|BODY_5|0
+the differences|DT NNS|BODY_1|0
+number|NN|BODY_5|0
+data access|NNS NN|BODY_10|0
+every 4-bits|DT NNS|BODY_7|0
+no contentions|DT NNS|BODY_1|0
+some memory modules|DT NN NNS|BODY_8|0
+the 12 block equations|DT CD NN NNS|BODY_1|0
+the bus-based shared memory multiproces|DT JJ VBN NN NNS|BODY_1|0
+the connection|DT NN|BODY_1|0
+the pre-scheduling process|DT JJ NN|BODY_13|0
+this special processor|DT JJ NN|BODY_1|0
+nm|JJ|BODY_14|0
+other distributed memory multicomputers|JJ VBN NN NNS|BODY_1|0
+a summary|DT NN|BODY_1|0
+an ongoing successful access|DT JJ JJ NN|BODY_6|0
+problem|NN|BODY_1|0
+the time ratio|DT NN NN|BODY_1|0
+more than one processor|JJR IN CD NN|BODY_7|0
+5 )|CD -RRB-|BODY_11|0
+examples|NNS|BODY_1|0
+the objective|DT NN|BODY_1|0
+the next selected message proceeds|DT JJ JJ NN NNS|BODY_2|0
+above analysis|JJ NN|BODY_1|0
+the blocking-network|DT NN|BODY_1|0
+this paper studies|DT NN NNS|BODY_1|0
+this section|DT NN|BODY_7|0
+a multistage interconnection switching network|DT NN NN VBG NN|BODY_8|0
+the analyses and experiments|DT NNS CC NNS|BODY_6|0
+the structures|DT NNS|BODY_1|0
+an example|DT NN|BODY_1|0
+the performance factors|DT NN NNS|BODY_1|0
+the 2-level switches|DT JJ NNS|BODY_5|0
+the iteration process|DT NN NN|BODY_4|0
+current work|JJ NN|BODY_1|0
+communication overhead|NN NN|BODY_1|0
+the synchronization cost|DT NN NN|BODY_1|0
+some later time|DT JJ NN|BODY_6|0
+0 is|CD VBZ|BODY_1|0
+the partially shared memory programming model|DT RB VBN NN NN NN|BODY_1|0
+detailed mathematical analyses|JJ JJ NNS|BODY_1|0
+the multiprocessing|DT NN|BODY_6|0
+section 2|NN CD|BODY_1|0
+a semi-markov model|DT JJ NN|BODY_3|0
+a shared counter|DT VBN NN|BODY_3|0
+section 3|NN CD|BODY_1|0
+the n rows|DT NN NNS|BODY_1|0
+the result|DT NN|BODY_1|0
+the numa shared memory architectures|DT NN VBN NN NNS|BODY_16|0
+another|DT|BODY_11|0
+local memory|JJ NN|BODY_6|0
+the scheduling overhead|DT NN NN|BODY_4|0
+a typical parallel computation process|DT JJ JJ NN NN|BODY_1|0
+virtual memory processing|JJ NN NN|BODY_6|0
+table 1|NN CD|BODY_1|0
+the same|DT JJ|BODY_6|0
+1.2 performance models|CD NN NNS|BODY_1|0
+each memory location|DT NN NN|BODY_1|0
+performance prediction and evaluation|NN NN CC NN|TITLE_1|0
+the another important source|DT DT JJ NN|BODY_1|0
+experimental measurements|JJ NNS|BODY_4|0
+their path|PRP$ NN|BODY_10|0
+the slowest finishes|DT JJS NNS|BODY_4|0
+the analysis work|DT NN NN|BODY_1|0
+the results|DT NNS|ABSTRACT_1|0
+success q i|NN NN NN|BODY_12|0
+the computing bottleneck|DT NN NN|BODY_1|0
+j.|VBG|BODY_5|0
+technical discussions|JJ NNS|BODY_5|0
+this test|DT NN|BODY_1|0
+the kirchhoff current law (kcl )|DT NN JJ NN NN -RRB-|BODY_1|0
+4.2|CD|BODY_1|0
+experimental results|JJ NNS|BODY_9|0
+that path|DT NN|BODY_11|0
+an uma architecture|DT NN NN|BODY_1|0
+the b vector|DT NN NN|BODY_8|0
+both|DT|BODY_3|0
+1.1 programming models|CD NN NNS|BODY_1|0
+'s method n|POS NN NN|BODY_9|0
+[10] )|NNP -RRB-|BODY_3|0
+[30] )|NNP -RRB-|BODY_11|0
+the computing time ratio|DT NN NN NN|BODY_1|0
+( 3.11 )|-LRB- CD -RRB-|BODY_9|0
+the parallel operations|DT JJ NNS|BODY_4|0
+a user|DT NN|BODY_1|0
+the consequences|DT NNS|BODY_1|0
+subsequent messages|JJ NNS|BODY_5|0
+the quiescent state|DT JJ NN|BODY_7|0
+4 remote memory access delay|CD JJ NN NN NN|BODY_1|0
+the self-scheduling routines create|DT JJ NNS VBP|BODY_1|0
+its path )|PRP$ NN -RRB-|BODY_8|0
+standard deviation oe|JJ NN NN|BODY_9|0
+the first generation hypercube multicomputer|DT JJ NN NN NN|BODY_6|0
+both computations|DT NNS|BODY_1|0
+mutual independence|JJ NN|BODY_1|0
+numa shared-memory multiprocessor|NN NN NN|ABSTRACT_6|0
+our model|PRP$ NN|BODY_1|0
+the processor locality|DT NN NN|BODY_8|0
+[15] )|NNP -RRB-|BODY_7|0
+our experimental results|PRP$ JJ NNS|BODY_1|0
+notation|NN|BODY_1|0
+the non-blocking network|DT JJ NN|BODY_1|0
+program exit|NN NN|BODY_5|0
+2 ones|CD NNS|BODY_5|0
+a synchronization barrier|DT NN NN|BODY_1|0
+analytical and experimental results|JJ CC JJ NNS|ABSTRACT_1|0
+pre-scheduling scheme|JJ NN|BODY_8|0
+the average duration|DT JJ NN|BODY_1|0
+4 outputs|CD NNS|BODY_7|0
+its arrival|PRP$ NN|BODY_10|0
+the switch contention|DT NN NN|BODY_5|0
+the newton iteration|DT NN NN|BODY_3|0
+( 3.6 )|-LRB- CD -RRB-|BODY_1|0
+a switching network|DT VBG NN|BODY_8|0
+communication and synchro- nization|NN CC NNS NN|BODY_13|0
+the shared memory synchronization primitives|DT VBN NN NN NNS|BODY_1|0
+this approach|DT NN|BODY_1|0
+the paths|DT NNS|BODY_1|0
+this system|DT NN|BODY_6|0
+a random delay|DT JJ NN|BODY_3|0
+its path|PRP$ NN|BODY_10|0
+this counter|DT NN|BODY_1|0
+this nonlinear system|DT JJ NN|BODY_1|0
+the unbalanced systems|DT JJ NNS|BODY_3|0
+an important factor|DT JJ NN|BODY_1|0
+the basic communication timing test|DT JJ NN NN NN|BODY_1|0
+3.2 self-scheduling and shared memory programming|CD JJ CC VBN NN NN|BODY_1|0
+larowe and ellis|JJ CC NNPS|BODY_1|0
+each subsystem|DT NN|BODY_3|0
+several related studies|JJ JJ NNS|BODY_1|0
+nonblocking form|JJ NN|BODY_3|0
+their memory modules|PRP$ NN NNS|BODY_10|0
+the communication|DT NN|BODY_1|0
+the memory|DT NN|BODY_1|0
+our experiments|PRP$ NNS|BODY_1|0
+approximate ff and fi|JJ NN CC NN|BODY_8|0
+approximate fl and ffi|JJ NN CC NN|BODY_9|0
+acknowledgement|NN|BODY_1|0
+p.|NN|BODY_3|0
+the analytical and experimental results|DT JJ CC JJ NNS|BODY_1|0
+certain approximation assumptions|JJ NN NNS|BODY_2|0
+the distributed memory programming model|DT VBN NN NN NN|BODY_1|0
+cessors|NNS|BODY_6|0
+mach 1000 system calls|NN CD NN NNS|BODY_4|0
+subcircuits|NNS|BODY_8|0
+this type|DT NN|BODY_1|0
+some remote memory access delay|DT JJ NN NN NN|BODY_1|0
+the ibm rp3 multiprocessors|DT NN NN NNS|BODY_9|0
+the partially and fully shared memory programming models|DT RB CC RB VBN NN NN NNS|BODY_5|0
+the sub-circuit system data structures|DT JJ NN NNS NNS|BODY_1|0
+programming|NN|BODY_1|0
+1.3|CD|BODY_1|0
+very large data sets|RB JJ NNS NNS|BODY_3|0
+120 , 240 , 480 and 1200 variables|CD , CD , CD CC CD NNS|BODY_5|0
+this computing job|DT NN NN|BODY_1|0
+the independent computation time|DT JJ NN NN|BODY_1|0
+the connection delay|DT NN NN|BODY_1|0
+the switch requests|DT NN NNS|BODY_4|0
+all the memory modules|DT DT NN NNS|BODY_11|0
+( 3.10 ) exists|-LRB- CD -RRB- VBZ|BODY_1|0
+the length|DT NN|BODY_1|0
+multistage inter-connection network use|NN NN NN NN|BODY_18|0
+dynamic load balancing schemes|JJ NN NN NNS|BODY_19|0
+dynamic environment|JJ NN|BODY_8|0
+real parallel processing|JJ NN NN|BODY_1|0
+srinivasan|NN|BODY_1|0
+zhou|NNS|BODY_1|0
+performance measurement|NN NN|BODY_1|0
+performance measurements|NN NNS|ABSTRACT_1|0
+complex nonlinear circuit simulations|JJ JJ NN NNS|BODY_7|0
+the barrier synchronization delay|DT NN NN NN|BODY_1|0
+following steps|VBG NNS|BODY_4|0
+its many nodes|PRP$ JJ NNS|BODY_7|0
+two remote memory access|CD JJ NN NN|BODY_9|0
+any|DT|BODY_6|0
+the task distribution decision|DT NN NN NN|BODY_1|0
+the communication channel (-s/byte )|DT NN NN NNP -RRB-|BODY_14|0
+its parallel task|PRP$ JJ NN|BODY_6|0
+a single processor|DT JJ NN|BODY_7|0
+the echo node|DT NN NN|BODY_1|0
+a scheduling mechanism|DT NN NN|BODY_1|0
+3.1 pre-scheduling and barrier|CD JJ CC NN|BODY_1|0
+no dynamic load scheduling|DT JJ NN NN|BODY_3|0
+the advantage|DT NN|BODY_1|0
+different memory access time|JJ NN NN NN|BODY_7|0
+3.4 numerical experiments|CD JJ NNS|BODY_1|0
+12 sub-circuit systems|CD JJ NNS|BODY_10|0
+about 1.7|IN CD|BODY_7|0
+the process|DT NN|BODY_1|0
+3 process scheduling models and synchronization|CD NN NN NNS CC NN|BODY_1|0
+the startup time ff|DT JJ NN NN|BODY_1|0
+a numa shared-memory multiprocessor|DT NN NN NN|ABSTRACT_5|0
+the interprocessor communication time|DT NN NN NN|BODY_1|0
+distributed memory multicomputer hypercube|VBN NN JJ NN|BODY_12|0
+the memory management mechanisms|DT NN NN NNS|BODY_1|0
+research model architectures|NN NN NNS|BODY_26|0
+network contention and memory contention|NN NN CC NN NN|BODY_11:ABSTRACT_8|0
+two level switches|CD NN NNS|BODY_6|0
+state ( i + 1 )|NN -LRB- IN FW CD -RRB-|BODY_6|0
+network contention problems|NN NN NNS|BODY_6|0
+shared memory programming models|VBN NN NN NNS|BODY_7|0
+the ipsc/1|DT NN|BODY_5|0
+a numa archi- tecture|DT NN NNS NN|BODY_8|0
+the self-scheduling algorithm|DT JJ NN|BODY_1|0
+the urm ( uniform reference model )|DT JJ -LRB- JJ NN NN -RRB-|BODY_1|0
+( 4.1 )|-LRB- CD -RRB-|BODY_7|0
+a computing job|DT NN NN|BODY_1|0
+most numa systems|JJS NN NNS|BODY_4|0
+parallel performance|JJ NN|BODY_7|0
+the control role|DT NN NN|BODY_5|0
+the uma concept|DT NN NN|BODY_6|0
+the worst case situation|DT JJS NN NN|BODY_1|0
+a simple algorithm|DT JJ NN|BODY_1|0
+a sequential order|DT JJ NN|BODY_7|0
+the first lock controls|DT JJ NN NNS|BODY_1|0
+equivalent workers|JJ NNS|BODY_4|0
+shared memory multiprocessor design|VBN NN JJ NN|BODY_4|0
+5 summaries|CD NNS|BODY_1|0
+the testing circuit problem|DT NN NN NN|BODY_1|0
+the simple bus structure|DT JJ NN NN|BODY_1|0
+[24] )|NNP -RRB-|BODY_1|0

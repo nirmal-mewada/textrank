@@ -1,0 +1,38 @@
+closed-loop data|JJ NNS|BODY_6:BODY_10|0
+this paper|DT NN|BODY_2:BODY_4|0
+terms|NNS|BODY_7|0
+the lqg benchmark|DT NN NN|BODY_2:BODY_4|1
+lqg benchmark|NN NN|BODY_1:BODY_2|0
+feedforward control|NN NN|BODY_3|0
+the existing feedback-only control system|DT VBG NN NN NN|BODY_4|0
+the implementation|DT NN|BODY_2|0
+closed-loop conditions|NN NNS|BODY_5|1
+we|PRP|BODY_2|1
+a data driven subspace approach|DT NN VBN NN NN|BODY_3|1
+the subspace matrices|DT NN NNS|BODY_2|0
+the deterministic inputs|DT JJ NNS|BODY_3|0
+the controller performance|DT NN NN|BODY_11:BODY_2|0
+the stochastic inputs|DT JJ NNS|BODY_4|0
+the literature|DT NN|BODY_2|0
+which|WDT|BODY_5|0
+closed loop conditions|JJ NN NNS|BODY_3|0
+the lqg tradeoff curve|DT NN NN NN|BODY_4|0
+a new method|DT JJ NN|BODY_5|0
+controller performance|NN NN|BODY_3|0
+process input and output|NN NN CC NN|BODY_9|0
+the limit|DT NN|BODY_5|0
+performance|NN|BODY_6|0
+the variances|DT NNS|BODY_8|0
+a linear quadratic gaussian ( lqg ) benchmark|DT NN JJ JJ -LRB- NN -RRB- NN|BODY_6|0
+profit analysis|NN NN|BODY_1|0
+the optimal lqg performance framework|DT JJ NN NN NN|BODY_5|0
+this work|DT NN|BODY_1|1
+the optimal lqg-benchmark variances|DT JJ NN NNS|BODY_1|0
+certain external excitations|JJ JJ NNS|BODY_6|1
+an explicit parametric model|DT JJ JJ NN|BODY_1|0
+these variances|DT NNS|BODY_1|0
+controller performance analysis|NN NN NN|BODY_1|0
+both univariate and multivariate systems|DT JJ CC JJ NNS|BODY_3|0
+the method|DT NN|BODY_1|0
+setpoint excitation|NN NN|BODY_7|0
+input and output variances|NN CC NN NNS|BODY_8|0

@@ -1,0 +1,79 @@
+it|PRP|ABSTRACT_5:BODY_1:BODY_2|0
+query|NN|BODY_2:BODY_3:ABSTRACT_7|1
+the user |DT NN|BODY_5:ABSTRACT_2|0
+that|WDT|ABSTRACT_4:ABSTRACT_3|0
+word sense disambiguation [25]|NN NN NN NN|BODY_4|0
+a large number|DT JJ NN|BODY_2|0
+information storage and retrieval]|NN NN CC NN|ABSTRACT_2|0
+information search and retrieval|NN NN CC JJ|ABSTRACT_3|0
+the user|DT NN|ABSTRACT_5:BODY_3|0
+a query|DT NN|ABSTRACT_6:ABSTRACT_3|0
+different resources [24][31]|JJ NNS NN|BODY_3|0
+queries|NNS|ABSTRACT_4:BODY_1|0
+several trec collections|JJ NN NNS|ABSTRACT_2|0
+an ir model|DT NN NN|ABSTRACT_4|0
+interest|NN|BODY_5:ABSTRACT_5|0
+the context factors|DT NN NNS|ABSTRACT_4|0
+a strong influence|DT JJ NN|BODY_4|0
+a complete specification|DT JJ NN|BODY_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+context|NN|ABSTRACT_3|0
+significant improvements|JJ NNS|ABSTRACT_5|0
+both types|DT NNS|ABSTRACT_2|0
+many contextual factors|JJ JJ NNS|ABSTRACT_3|0
+many relevant terms|JJ JJ NNS|BODY_1|0
+queries and terms|NNS CC NNS|BODY_2|0
+the only element|DT JJ NN|BODY_4|0
+the selection|DT NN|ABSTRACT_10|0
+many previous studies|JJ JJ NNS|BODY_2|0
+query and context|NN CC NN|ABSTRACT_6|1
+experimentation|NN|ABSTRACT_7|0
+interests|NNS|ABSTRACT_3|0
+each|DT|ABSTRACT_3|0
+an information need|DT NN NN|ABSTRACT_4|0
+we|PRP|ABSTRACT_2|1
+a user|DT NN|ABSTRACT_2|0
+query-specific contexts|JJ NNS|ABSTRACT_3|1
+general terms|JJ NNS|ABSTRACT_5|0
+retrieval models|JJ NNS|ABSTRACT_4|0
+performance|NN|ABSTRACT_6|0
+a variety|DT NN|ABSTRACT_3|0
+short queries|JJ NNS|BODY_2|0
+the environment|DT NN|ABSTRACT_2|0
+an element|DT NN|ABSTRACT_2|0
+contextual factors|JJ NNS|BODY_3|0
+which|WDT|ABSTRACT_9|0
+many others|JJ NNS|BODY_2|0
+user-centric ones|JJ NNS|ABSTRACT_4|1
+the query|DT NN|ABSTRACT_8|0
+literature|NN|ABSTRACT_2|0
+information retrieval|NN NN|TITLE_2|0
+query contexts|NN NNS|TITLE_1|0
+context words|NN NNS|ABSTRACT_7|0
+including context|VBG NN|ABSTRACT_5|1
+relevant term relations|JJ NN NNS|ABSTRACT_11|0
+a single profile|DT JJ NN|ABSTRACT_1|0
+the information need|DT NN NN|BODY_4|0
+a user profile|DT NN NN|ABSTRACT_4|0
+the latter|DT NN|ABSTRACT_6|0
+a search context|DT NN NN|BODY_3|0
+the only one|DT JJ CD|ABSTRACT_6|0
+the interpretation|DT NN|ABSTRACT_5|0
+the domain|DT NN|ABSTRACT_4|0
+s domain|VBZ NN|BODY_4|0
+previous studies|JJ NNS|BODY_3|0
+these issues|DT NNS|BODY_1|0
+language modeling|NN NN|ABSTRACT_5|0
+this paper|DT NN|ABSTRACT_1|0
+typical solutions|JJ NNS|BODY_1|0
+our experiments|PRP$ NNS|ABSTRACT_1|0
+retrieval effectiveness|JJ NN|ABSTRACT_6|0
+this study|DT NN|ABSTRACT_1|1
+relevance judgments|NN NNS|BODY_5|0
+these factors|DT NNS|BODY_1|0
+information need|NN NN|BODY_6|0
+recent studies|JJ NNS|ABSTRACT_1|0
+the former|DT JJ|ABSTRACT_1|0
+user query|NN NN|ABSTRACT_1|0
+these studies|DT NNS|BODY_1|0
+etc|FW|BODY_5|0

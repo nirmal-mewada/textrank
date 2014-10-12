@@ -1,0 +1,1031 @@
+we|PRP|BODY_12:BODY_11:BODY_15:BODY_23:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|1
+which|WDT|ABSTRACT_11:BODY_18:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+s|PRP|BODY_16:BODY_18:BODY_15:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8|0
+this|DT|BODY_6:BODY_11:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_7|1
+steps|NNS|BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+random walks|JJ NNS|BODY_6:BODY_5:TITLE_1:BODY_2:ABSTRACT_3:BODY_3:BODY_19:BODY_4:BODY_7|0
+the steps|DT NNS|BODY_11:BODY_16:BODY_15:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+it|PRP|BODY_12:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+c|NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_9|0
+there|EX|BODY_12:BODY_6:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|0
+j|NN|BODY_6:BODY_5:BODY_15:BODY_4:BODY_8|0
+0|CD|BODY_11:BODY_13:BODY_2:BODY_25:BODY_3:BODY_14:BODY_7|0
+ae|NNS|BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_4:BODY_7:BODY_8|0
+the weyl group|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+2|CD|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3|0
+the number|DT NN|BODY_6:BODY_5:ABSTRACT_8:BODY_2:BODY_14:BODY_3:BODY_4|0
+one|CD|BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_9|0
+the kth tensor power|DT NN NN NN|BODY_12:BODY_6:BODY_5:ABSTRACT_13:BODY_14:BODY_4:BODY_7:BODY_9|1
+gl n|JJ NN|BODY_5:BODY_3:BODY_10:BODY_19:BODY_4:BODY_7:BODY_9|0
+the defining representation|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+terms|NNS|BODY_6:BODY_1:BODY_2:BODY_14:BODY_19:BODY_4:BODY_7:BODY_9|0
+that|DT|BODY_6:BODY_12:BODY_2:BODY_1:BODY_10|0
+z n|NN NN|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_8|0
+the lattice|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_10:BODY_7|0
+the representation|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+1|CD|BODY_11:BODY_5:BODY_3:BODY_4:BODY_7|0
+r n|NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+the case|DT NN|BODY_1:BODY_2:BODY_3|0
+the determinant|DT NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_9|0
+the coefficients|DT NNS|BODY_6:BODY_3:BODY_10:BODY_4:BODY_7|0
+a walk|DT NN|BODY_6:BODY_11:BODY_10:BODY_9|0
+the formula|DT NN|BODY_6:BODY_1:BODY_2:BODY_4:BODY_10|0
+w|NN|BODY_6:BODY_5:BODY_13:BODY_9|0
+the formulas|DT NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+walks|NNS|BODY_5:BODY_15:BODY_13:BODY_3:BODY_7|0
+weights|NNS|BODY_12:BODY_5:BODY_4:BODY_8|0
+o 2n+1|IN PRP|BODY_5:BODY_3:BODY_4:BODY_10:BODY_7|0
+the weight lattice|DT NN NN|BODY_6:BODY_2:BODY_4:BODY_9|0
+us|PRP|BODY_6:BODY_17:BODY_2:BODY_4|0
+a determinant|DT NN|BODY_11:BODY_5:BODY_13:BODY_4:BODY_8|0
+the generating function|DT VBG NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_7:BODY_8|0
+the symmetric group|DT JJ NN|BODY_11:BODY_1:BODY_3:BODY_8|0
+n\thetan|NN|BODY_6:BODY_3:BODY_4:BODY_8|0
+a weyl chamber|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_20|0
+sl n|JJ NN|BODY_5:BODY_17:BODY_3:BODY_8|0
+( 9 )|-LRB- CD -RRB-|BODY_3:BODY_4:BODY_8|0
+itself|PRP|BODY_6:BODY_2:BODY_3:BODY_4|0
+defining representation|NN NN|BODY_2:BODY_3|0
+the problem|DT NN|BODY_21:BODY_2:BODY_3|0
+h|NN|BODY_12:BODY_11:BODY_3:BODY_7|0
+n|NN|BODY_2:BODY_3:BODY_4|0
+the decomposition|DT NN|TITLE_3:BODY_15:BODY_21:BODY_2:BODY_8|0
+so 2n+1|RB RB|BODY_6:BODY_5:BODY_3:BODY_7|0
+tensor powers|NN NNS|BODY_22:TITLE_4:BODY_2:BODY_3:BODY_8:BODY_9|0
+representations|NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+the weight|DT NN|BODY_6:BODY_2|0
+( ff|-LRB- NN|BODY_6:BODY_4:BODY_7:BODY_9|0
+the exponential generating function|DT JJ NN NN|BODY_5:BODY_17:BODY_7|0
+the identity|DT NN|BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+c )|NN -RRB-|BODY_11:BODY_5:BODY_3:BODY_19:BODY_4|0
+i|FW|BODY_11:BODY_15:BODY_13:BODY_4:BODY_8|0
+a product|DT NN|BODY_6:BODY_12:BODY_13:BODY_3|0
+a sum|DT NN|BODY_12:BODY_4:BODY_7:BODY_8|0
+lattice|NN|BODY_11:BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+u|PRP|BODY_6:BODY_14:BODY_8|0
+the subgroup technique|DT NN NN|BODY_2:BODY_4|0
+the diagonal walk|DT JJ NN|BODY_2:BODY_3|0
+the coordinates|DT NNS|BODY_12:BODY_5:BODY_15|0
+the weights|DT NNS|BODY_6:BODY_2:BODY_8|0
+points|NNS|BODY_4:BODY_7|0
+gessel and zeilberger|NN CC NN|ABSTRACT_5:BODY_2:BODY_10|0
+( 2|-LRB- LS|BODY_6:BODY_2:BODY_14:BODY_4|0
+the determinant technique|DT NN NN|BODY_2:BODY_8|0
+( 3 )|-LRB- CD -RRB-|BODY_5:BODY_15:BODY_1:BODY_7|0
+a difference|DT NN|BODY_2:BODY_4:BODY_8|0
+a lattice|DT NN|BODY_6:ABSTRACT_4:BODY_4|0
+the origin|DT NN|BODY_6:BODY_4:BODY_7|0
+the defining representations|DT NN NNS|ABSTRACT_2:BODY_3:BODY_8|0
+the walk|DT NN|BODY_5:BODY_2:BODY_9|0
+v|NN|BODY_5:BODY_15:BODY_7|0
+the adjoint representation|DT JJ NN|BODY_4:BODY_8|0
+the weyl chamber|DT JJ NN|BODY_6:BODY_10:BODY_8|0
+the sum|DT NN|BODY_6:BODY_1:BODY_2:BODY_10|0
+the techniques|DT NNS|BODY_6:BODY_3|0
+a chamber|DT NN|BODY_5:BODY_8:ABSTRACT_12|0
+the multiplicity|DT NN|BODY_6:BODY_11:BODY_1:BODY_3|0
+the direct sum|DT JJ NN|BODY_3:BODY_4|0
+a reflectable walk|DT JJ NN|BODY_13:BODY_3:BODY_7|0
+this corresponds|DT NNS|BODY_5:BODY_3:BODY_7|0
+so 2n|RB JJ|BODY_6:BODY_5:BODY_4:BODY_10|0
+g 2|NN CD|BODY_3|0
+( l|-LRB- NN|BODY_6:BODY_17:BODY_15:BODY_1|0
+young tableaux|JJ NN|BODY_6:BODY_5|0
+the coefficient|DT NN|BODY_1:BODY_14:BODY_3|0
+m|NN|BODY_12:BODY_7:BODY_8|0
+the character|DT NN|BODY_6:BODY_3|0
+if|IN|BODY_6:BODY_11:BODY_9|0
+some|DT|BODY_11:BODY_4|0
+techniques|NNS|BODY_1|0
+the set|DT NN|BODY_1:BODY_3:BODY_8|0
+our results|PRP$ NNS|BODY_6:BODY_1:ABSTRACT_1|0
+a|DT|BODY_11:BODY_4|0
+the root system|DT NN NN|BODY_2:BODY_3|0
+representation|NN|BODY_2:BODY_1|0
+b n|NN RB|BODY_5:BODY_2:BODY_3:BODY_8|0
+the maximal lattice|DT JJ NN|BODY_3:BODY_4:BODY_8|0
+x )|NN -RRB-|BODY_12:BODY_7|0
+direct sum|JJ NN|BODY_2|0
+whose coordinates|WP$ NNS|BODY_5:BODY_8|0
+the representation-theoretic problem|DT JJ NN|BODY_5:BODY_3:BODY_4|0
+times|NNS|BODY_5:BODY_7|0
+b j-;k|NN NN|BODY_13:BODY_2:BODY_3|0
+the hook|DT NN|BODY_16:BODY_3|0
+the|DT|BODY_3|0
+the w -action|DT NN NN|BODY_2:BODY_4|0
+( 32 )|-LRB- CD -RRB-|BODY_3:BODY_19|0
+each entry|DT NN|BODY_11:BODY_7|0
+a weyl group|DT NN NN|ABSTRACT_13:BODY_2:BODY_1:BODY_9|0
+the ballot problem|DT NN NN|BODY_1:BODY_2|0
+\gamma1|NN|BODY_4:BODY_10:BODY_8|0
+[7|NNS|BODY_4|0
+length k|NN NN|BODY_12:BODY_17:BODY_4|0
+the previous section|DT JJ NN|BODY_5:BODY_4|0
+\delta|NN|BODY_2:BODY_8|0
+decomposition exponential generating function|NN JJ NN NN|BODY_1:BODY_2|0
+shape|NN|BODY_14:BODY_9|0
+a -;k|DT NN|BODY_12:BODY_4|0
+theorem 1|NN CD|BODY_4|0
+the points|DT NNS|BODY_6:BODY_8|0
+reflectable random walks|JJ JJ NNS|BODY_1:BODY_4|0
+g|NN|BODY_10:BODY_4|0
+above|IN|BODY_2|0
+fact|NN|BODY_8:BODY_9|0
+group|NN|BODY_3:BODY_9|0
+d n|VBD RB|BODY_3:BODY_4|0
+of|IN|BODY_5|0
+orthogonal tableaux|JJ NN|BODY_2|0
+the resulting walks|DT VBG NNS|BODY_2|0
+n 0|RB CD|BODY_3|0
+invariants|NNS|BODY_5:BODY_7|0
+r j|NN NNS|BODY_5:BODY_2:BODY_8|0
+the computations|DT NNS|BODY_1:BODY_2|0
+the w -orbit|DT JJ NN|BODY_6:BODY_2|0
+a wall|DT NN|BODY_13:BODY_8|0
+a subgroup|DT NN|BODY_14:BODY_4|0
+the element|DT NN|BODY_5:BODY_16|0
+follows|VBZ|BODY_12:BODY_3:BODY_4|0
+a system|DT NN|BODY_2:BODY_7|0
+a n\gamma1|DT NN|BODY_3|0
+dominant weights|JJ NNS|BODY_11:BODY_3|0
+an equivalent random walk|DT JJ JJ NN|BODY_12:BODY_10|0
+the reflectability condition|DT NN NN|BODY_10:BODY_9|0
+the exponential|DT JJ|BODY_4:BODY_8|0
+~u|NN|BODY_15:BODY_7|0
+decompositions|NNS|BODY_6:BODY_5|0
+the multilinearity technique|DT NN NN|BODY_5:BODY_2|0
+ff i|JJ NNS|BODY_11:BODY_3|0
+the representation u|DT NN NN|BODY_4|0
+basis|NN|BODY_4:BODY_10|0
+irreducibles|NNS|BODY_4:BODY_7:ABSTRACT_12|1
+sign changes|NN NNS|BODY_10:BODY_7:BODY_8|0
+they|PRP|BODY_10:BODY_8|0
+particular|JJ|BODY_1|0
+the first column|DT JJ NN|BODY_5:BODY_7|0
+determinant|NN|BODY_2|0
+f|NN|BODY_18:BODY_3|0
+the symplectic group ) , correspond|DT JJ NN -RRB- , NN|BODY_5|0
+the weyl group b n|DT NN NN NN NN|BODY_2|0
+( v|-LRB- FW|BODY_3|0
+a representation|DT NN|BODY_4|0
+the spin representation|DT NN NN|BODY_6:BODY_2:BODY_1|0
+the half-sum|DT NN|BODY_5:BODY_9|0
+k|NN|BODY_2:BODY_7:BODY_9|0
+the component|DT NN|BODY_2|0
+trivial weyl group|JJ NN NN|BODY_4|0
+the coordinate directions|DT VBP NNS|BODY_5:BODY_14:BODY_4|0
+a reflectable walk-type|DT JJ NN|BODY_12:BODY_3|0
+random-walk exponential generating function|JJ JJ NN NN|BODY_1|0
+the interior|DT NN|BODY_19:BODY_4|0
+plus or minus signs|NN CC NN NNS|BODY_11|0
+'s such that ( ff|POS JJ IN -LRB- NN|BODY_8|0
+a reflectable random walk problem|DT JJ JJ NN NN|BODY_6:BODY_11|0
+[16|CD|BODY_8|0
+the n|DT RB|BODY_4|0
+the decomposition formula|DT NN NN|BODY_5:BODY_9|0
+permutations|NNS|BODY_4:BODY_7|0
+chambers|NNS|BODY_2|0
+the simple roots \delta defining c and w|DT JJ NNS NN NN NN CC NN|BODY_3|0
+determinants|NNS|BODY_4:BODY_8|0
+the n columns|DT RB NNS|BODY_12|0
+a parabolic subgroup|DT JJ NN|BODY_9|0
+i m|NN NN|BODY_1:BODY_3|0
+the parity technique|DT NN NN|BODY_2|0
+j )|NN -RRB-|BODY_19|0
+the k-fold tensor power|DT JJ NN NN|BODY_10|0
+weyl chamber|NN NN|BODY_6:BODY_3|0
+sp 4|NN CD|BODY_7|0
+the lie|DT NN|BODY_6|0
+these coefficients|DT NNS|BODY_2|0
+the classification|DT NN|BODY_13:BODY_2|0
+the theorem|DT NN|BODY_2:BODY_9|0
+step lengths|NN NNS|BODY_6|0
+persi diaconis|NNS NNS|BODY_11|0
+their images ws|PRP$ NNS NNS|BODY_19|0
+so 2n+1 corresponds|RB JJ NNS|BODY_2|0
+the positive coordinate directions|DT JJ VBP NNS|BODY_9|0
+the discussion|DT NN|BODY_4|0
+these two walks|DT CD NNS|BODY_6|0
+the lie algebra|DT NN NN|BODY_8|0
+all integers|DT NNS|BODY_6|0
+the terms|DT NNS|BODY_16:BODY_1|0
+their characters|PRP$ NNS|BODY_22:BODY_15|0
+irreducible weyl chamber c|JJ JJ NN NN|BODY_2|0
+decomposition formula|NN NN|BODY_6:BODY_1|0
+a reflection argument|DT NN NN|BODY_7|0
+2n+1|PRP|BODY_5:BODY_1|0
+b|NN|BODY_2|0
+the maximal lattice z n|DT JJ NN NN RB|BODY_12|0
+(-! j|JJ NNS|BODY_6:BODY_9|0
+even tensor powers|RB JJ NNS|BODY_5:BODY_7|0
+a group or algebra|DT NN CC NN|BODY_9|0
+the simple root basis )|DT JJ NN NN -RRB-|BODY_5|0
+the odd-dimensional orthogonal group|DT JJ JJ NN|BODY_3|0
+( i|-LRB- FW|BODY_18|0
+the ae|DT NNS|BODY_11|0
+this section|DT NN|BODY_2:BODY_1|0
+the second term|DT JJ NN|BODY_5:BODY_1|0
+the hyperbolic bessel function|DT JJ NNP NN|BODY_4|0
+note|NN|BODY_1:BODY_4|0
+minimal subsets|JJ NNS|BODY_4|0
+each w -orbit|DT NN NN|BODY_2|0
+the identity matrix|DT NN NN|BODY_11|0
+the first kind|DT JJ NN|BODY_5|0
+a n\gamma1 span|DT JJ NN|BODY_2|0
+robert proctor|NN NN|BODY_10|0
+formulas|NNS|BODY_1:BODY_9|0
+a 6.3 weyl group|DT CD NN NN|BODY_2|0
+16 )|CD -RRB-|BODY_9|0
+a vandermonde determinant|DT JJ NN|BODY_2|0
+all other steps|DT JJ NNS|BODY_2|0
+oe y|NN NN|BODY_1|0
+subsection 5.6|NN CD|BODY_1|0
+the f \sigma tion|DT NN NN NN|BODY_2|0
+the zero-step|DT NN|BODY_1|0
+two representations|CD NNS|BODY_3|0
+ffi|NN|BODY_11:BODY_2|0
+order 3|NN CD|BODY_6|0
+some spin representations|DT NN NNS|BODY_5:ABSTRACT_4|0
+unit-length steps|NN NNS|BODY_8|0
+such a g|JJ DT NN|BODY_2|0
+dom|NN|BODY_16:BODY_4|0
+second , many determinant formulas|JJ , JJ JJ NNS|ABSTRACT_6|0
+u(n|NN|BODY_7|0
+the only i|DT JJ NN|BODY_7|0
+the 2 n choices|DT CD RB NNS|BODY_10|0
+sign \gamma1|NN NNS|BODY_5|0
+decomposing|VBG|BODY_2|0
+d|JJ|BODY_6:BODY_11|0
+l|NN|BODY_6:BODY_10|0
+a combinatorial proof|DT JJ NN|BODY_6|0
+the hyperplane h|DT NN NN|BODY_3|0
+walk numbers|NN NNS|ABSTRACT_7|0
+'s character formula|POS NN NN|BODY_2|0
+the seven-dimensional representation|DT JJ NN|BODY_2|0
+maximal lattice|JJ NN|BODY_3|0
+r.|NNP|BODY_18|0
+weyl group|NN NN|BODY_10|0
+the two spin representations|DT CD NN NNS|BODY_5:BODY_3|0
+the exceptional types|DT JJ NNS|BODY_12|0
+reflectability|NN|BODY_3|0
+sp 2n|NN CD|BODY_11:BODY_3|0
+each orthogonal|DT JJ|BODY_5|0
+additional technique|JJ NN|BODY_1|0
+the fundamental weights|DT JJ NNS|BODY_5:BODY_19|0
+fk|NN|BODY_3|0
+a complicated sum|DT JJ NN|BODY_14|0
+a classification|DT NN|ABSTRACT_4|0
+the separate u i|DT JJ NN NN|BODY_5:BODY_10|0
+a relation r|DT NN NN|BODY_8|0
+the multiplicities|DT NNS|BODY_6:ABSTRACT_11|0
+their generating functions&semi|PRP$ VBG NNS|ABSTRACT_8|0
+9]|CD|BODY_6|0
+all such walks &semi|DT JJ NNS NNS|ABSTRACT_5|0
+an even number|DT RB NN|BODY_6:BODY_9|0
+the general reflection law|DT JJ NN NN|BODY_5|0
+the same method|DT JJ NN|BODY_4|0
+integers|NNS|BODY_3|0
+this generating function|DT VBG NN|BODY_5:BODY_10|0
+the hyperbolic bessel functions|DT JJ NNP NNS|BODY_13:BODY_20|0
+those|DT|BODY_2|0
+with highest weight|IN JJS NN|BODY_2:BODY_8|0
+)|-RRB-|BODY_7|0
+the hook-length|DT NN|BODY_4|0
+the other determinant|DT JJ NN|BODY_6:BODY_8|0
+the classical groups|DT JJ NNS|ABSTRACT_3:BODY_4|0
+essentially a monomial|RB DT NN|BODY_2|0
+the jth column|DT NN NN|BODY_10|0
+section 6|NN CD|BODY_6|0
+( 33 )|-LRB- CD -RRB-|BODY_11:BODY_9|0
+[3|CD|BODY_5|0
+a lie groups|DT NN NNS|BODY_2|0
+the above list|DT JJ NN|BODY_2|0
+classification|NN|BODY_2|0
+.e|NN|BODY_3|0
+the positive roots|DT JJ NNS|BODY_6:BODY_10|0
+sults|NNS|BODY_6|0
+its cartan subalgebra h|PRP$ NN NN NN|BODY_4|0
+the formal c -linear combinations|DT JJ NN JJ NNS|BODY_6|0
+the others|DT NNS|BODY_6|0
+these equations|DT NNS|BODY_11|0
+its character characters|PRP$ NN NNS|BODY_3|0
+the actual formulas|DT JJ NNS|BODY_2|0
+any self-compatible step|DT JJ NN|BODY_2|0
+a formal difference|DT JJ NN|BODY_3|0
+the remaining possibilities|DT VBG NNS|BODY_7|0
+their corresponding repre|PRP$ JJ NN|BODY_3|0
+1 \sigma e 2 \delta \delta \delta \sigma e n|CD NN NN CD NN NN NN NN NN NN|BODY_13|0
+v \phi v|FW FW FW|BODY_5:BODY_7|0
+b j|NN NN|BODY_18|0
+a finite-dimensional representation|DT JJ NN|BODY_3|0
+these reflect- able walks|DT CD JJ NNS|BODY_2|0
+~x 7|NN CD|BODY_5|0
+each simple root ff i|DT JJ NN NN NN|BODY_2|0
+them|PRP|BODY_6:BODY_12|0
+weyl chambers|NN NNS|BODY_5:TITLE_2|0
+~u fl|NN NN|BODY_4|0
+subgroup|NN|BODY_2|0
+related re|JJ NN|BODY_5|0
+two orbits|CD NNS|BODY_5|0
+an equality|DT NN|ABSTRACT_9|0
+=number|NN|BODY_7|0
+with|IN|BODY_4|0
+the representative|DT NN|BODY_3|0
+b ae+( t;t|NN NN NN|BODY_4|0
+p-recursive [13]|JJ NNS|BODY_7|0
+niques|NNS|BODY_6|0
+a complicated virtual rep- resentation|DT JJ JJ NNS NN|BODY_9|0
+2(ff ;~x ) ff preserve l|JJ NN -RRB- NN NN NN|BODY_6|0
+the tensor powers|DT NN NNS|BODY_2|0
+the isomorphism|DT NN|BODY_5|0
+the minus sign|DT NN NN|BODY_5|0
+k-step|NN|BODY_4:ABSTRACT_9|0
+ffl i|JJ NN|BODY_3|0
+a virtual representation|DT JJ NN|BODY_2|0
+the program simplie|DT NN NN|BODY_6|0
+the reflectable walk-types|DT JJ NNS|BODY_2|0
+groups|NNS|BODY_2|0
+u \gamma|NN NN|BODY_6|0
+a node|DT NN|BODY_5|0
+the decomposition formulas|DT NN NNS|BODY_4|0
+8 , 10 , 15 ]|CD , CD , CD NNS|BODY_5|0
+8]|NN|BODY_5|0
+the square|DT NN|BODY_17|0
+subsection 5.1 )|NN CD -RRB-|BODY_5|0
+the two terms|DT CD NNS|BODY_6|0
+resp. ordinary product|NN JJ NN|BODY_21|0
+the adjoint|DT NN|BODY_3|0
+the orthogonal reflections r ff|DT JJ NNS VBD NN|BODY_4|0
+the walks|DT NNS|BODY_16:BODY_4:BODY_10|0
+the form|DT NN|BODY_8|0
+an ordinary sum|DT JJ NN|BODY_20|0
+a walk-type ( l|DT NN -LRB- NN|BODY_1:BODY_3|0
+( 25 )|-LRB- CD -RRB-|BODY_7|0
+trivial representations|JJ NNS|BODY_4|0
+two points|CD NNS|BODY_5:ABSTRACT_10|0
+each irreducible representation|DT JJ NN|BODY_8|0
+( 20 )|-LRB- CD -RRB-|BODY_4|0
+oe|NN|BODY_12:BODY_3:BODY_7|0
+two such walks|CD JJ NNS|BODY_9|0
+an additional factor|DT JJ NN|BODY_4|0
+the walks correspond|DT NNS NN|BODY_5|0
+z|NN|BODY_6|0
+no factor|DT NN|BODY_2|0
+[10 , 11 , 12]|CD , CD , CD|BODY_3|0
+our methods|PRP$ NNS|BODY_1|0
+our techniques|PRP$ NNS|BODY_1|0
+relations|NNS|BODY_1|0
+the same|DT JJ|BODY_2|0
+n weyl chamber|RB NN NN|BODY_3|0
+the unique normalization|DT JJ NN|BODY_3|0
+one copy|CD NN|BODY_5|0
+the factor|DT NN|BODY_3|0
+the dual|DT JJ|BODY_4|0
+:;t );-;k|NN NN|BODY_5|0
+at most two values|IN JJS CD NNS|BODY_6|0
+the w -images|DT JJ NNS|BODY_3|0
+simply-laced root sys|JJ NN NNS|BODY_9|0
+standard skew tableaux|JJ JJ NN|BODY_8|0
+the same sums|DT JJ NNS|BODY_12|0
+c [h ]|NN NN NN|BODY_5|0
+such reflectable walks|JJ JJ NNS|ABSTRACT_3|0
+the value|DT NN|BODY_17|0
+the irreducible component|DT JJ NN|BODY_10|0
+the weyl chamber c|DT JJ NN NN|BODY_2|0
+symbols|NNS|BODY_7|0
+length formula|NN NN|BODY_4|0
+j and|NN CC|BODY_2|0
+the spin representations|DT NN NNS|BODY_2|0
+both|DT|BODY_3|0
+the right-hand sides|DT JJ NNS|BODY_10|0
+certain lie group representations|JJ NN NN NNS|ABSTRACT_14|0
+certain representations|JJ NNS|BODY_6|1
+this form|DT NN|BODY_2|0
+a root system|DT NN NN|BODY_5|0
+matrix techniques|NN NNS|BODY_3|0
+representations corresponds|NNS NNS|BODY_19|0
+richard stanley|JJ NN|BODY_9|0
+the splitting|DT NN|BODY_2|0
+the jth tensor power|DT NN NN NN|BODY_4|0
+function|NN|BODY_3|0
+n\thetan decomposition exponential|JJ NN JJ|BODY_2|0
+the right sides|DT JJ NNS|BODY_2|0
+a reflectable walk-type ( l|DT JJ NN -LRB- NN|BODY_2|0
+a w -invariant set|DT JJ JJ NN|BODY_9|0
+allowable steps|DT NNS|BODY_6|0
+sp|NN|BODY_9|0
+use determinant and multilinearity tech|VB NN CC NN NN|BODY_5|0
+all the|PDT DT|BODY_8|0
+the lattice z n|DT NN FW NN|BODY_2|0
+that sub|DT NN|BODY_8|0
+all the coordinates|PDT DT NNS|BODY_11|0
+this factor|DT NN|BODY_6|0
+a certain finite|DT JJ NN|BODY_6|0
+such problems|JJ NNS|BODY_8|0
+an element|DT NN|BODY_4|0
+the walk numbers|DT NN NNS|ABSTRACT_10|0
+a more general question|DT RBR JJ NN|BODY_2|0
+any w( j ) to|DT JJ NN -RRB- TO|BODY_2|0
+the cases|DT NNS|BODY_2|0
+wall i|NN IN|BODY_10|0
+a standard exponential generating function|DT JJ JJ NN NN|BODY_2|0
+these walks|DT NNS|BODY_3|0
+random|NN|BODY_9|0
+the usual basis e|DT JJ NN NN|BODY_3|0
+little difference|JJ NN|BODY_6|0
+the main constraint|DT JJ NN|BODY_2|0
+1 \sigma e|CD NN NN|BODY_4|0
+the second fundamental representation|DT JJ JJ NN|BODY_2|0
+a maximal abelian subalgebra|DT JJ JJ NN|BODY_3|0
+( 1|-LRB- CD|BODY_5|0
+oe varies|NN NNS|BODY_4|0
+the simple roots and w|DT JJ NNS CC NN|BODY_2|0
+our formulas|PRP$ NNS|BODY_2|0
+all ff|DT NN|BODY_7|0
+\sigma|NN|BODY_4|0
+term|NN|BODY_3|0
+2 n simple determinants|CD RB JJ NNS|BODY_7|0
+n\thetan det n\thetan decomposition formula|JJ VB JJ NN NN|BODY_5|0
+all cases|DT NNS|BODY_3|0
+a n\gamma1 acts|DT JJ NNS|BODY_2|0
+a dynkin diagram|DT NN NN|BODY_4|0
+a reflect- able random walk|DT NNP JJ JJ NN|BODY_4|0
+6]|JJ|BODY_4|0
+the simple roots [2|DT JJ NNS NNS|BODY_3|0
+i .e|FW FW|BODY_7|0
+-|:|BODY_7|0
+2d n|JJ NN|BODY_4|0
+related results|JJ NNS|BODY_6|0
+lattice points|NN NNS|BODY_7|0
+weyl group g|NN NN NN|BODY_5|0
+the weyl character formula|DT NN NN NN|BODY_4|0
+standard young tableaux|JJ JJ NN|BODY_13|0
+the irreducible factors \delta j ae|DT JJ NNS JJ NN NNS|BODY_4|0
+a point (|DT NN -LRB-|BODY_7|0
+[14]|NN|BODY_4|0
+a compact real lie group|DT JJ JJ NN NN|BODY_6|0
+the first k coefficients|DT JJ NN NNS|BODY_5|0
+a where|DT WRB|BODY_5|0
+- for|: IN|BODY_8|0
+the nth fundamental representation|DT JJ JJ NN|BODY_6|0
+a -;k =2 det n\thetan|DT JJ NN VB JJ|BODY_6|0
+the usefulness|DT NN|BODY_6|0
+2n|NNP|BODY_7|0
+a self-compatible step|DT JJ NN|BODY_7|0
+three independent results|CD JJ NNS|ABSTRACT_2|0
+defining|NN|BODY_3|0
+the sublattice|DT NN|BODY_5|0
+an illustration|DT NN|BODY_5|0
+2n defining representations|JJ NN NNS|BODY_4|0
+the kth|DT NN|BODY_4|0
+a weight lattice|DT NN NN|BODY_10|0
+the linear functionals|DT NN NNS|BODY_8|0
+possesses|NNS|BODY_2|0
+a -+( t;t|DT JJ NN|BODY_7|0
+so 5|RB CD|BODY_4|0
+simple roots \delta ae|JJ NNS NN NNS|BODY_3|0
+the determinant det n\thetan|DT NN NN NN|BODY_5|0
+a discrete subgroup|DT JJ NN|BODY_17|0
+unconstrained walks|JJ VBZ|BODY_13|0
+the compatibility characterization|DT NN NN|BODY_2|0
+clearly 0 otherwise )|RB CD RB -RRB-|BODY_2|0
+a 0;k|DT NN|BODY_3|0
+a finite group w|DT JJ NN NN|BODY_10|0
+whose coordinates sum|WP$ NNS NN|BODY_5|0
+33 )|CD -RRB-|BODY_5|0
+w ff i|JJ NN NN|BODY_4|0
+3.1 characters|CD NNS|BODY_3|0
+the dimension|DT NN|BODY_4|0
+det n\thetan steps|NN JJ NNS|BODY_6|0
+weyl groups|NN NNS|BODY_3|0
+the dynkin diagram|DT NN NN|BODY_8|0
+the function term|DT NN NN|BODY_2|0
+n ,which|RB DT|BODY_12|0
+the r ff|DT VBD NN|BODY_9|0
+n\thetan steps|JJ NNS|BODY_4|0
+the rank|DT NN|BODY_4|0
+( 8 ) and ( 2|-LRB- CD -RRB- CC -LRB- CD|BODY_3|0
+only one|RB CD|BODY_9|0
+ffl|NN|BODY_10|0
+a -;k =number|DT JJ NN|BODY_12|0
+this sum|DT NN|BODY_6|0
+the weight lattice )|DT NN NN -RRB-|BODY_14|0
+h )|NN -RRB-|BODY_9|0
+polynomial coefficients )|NN NNS -RRB-|BODY_5|0
+exponential generating functions|JJ VBG NNS|BODY_7|0
+direct sum ( or tensor product )|JJ NN -LRB- CC NN NN -RRB-|BODY_18|0
+the trivial representation|DT JJ NN|BODY_2|0
+32|CD|BODY_4|0
+x|NN|BODY_2|0
+y y the first term|RB RB DT JJ NN|BODY_5|0
+a y|DT RB|BODY_15|0
+bessel functions|NNP NNS|BODY_5|0
+the four weights|DT CD NNS|BODY_3|0
+a union|DT NN|BODY_4|0
+a the hook-length formulas|DT DT NN NNS|BODY_3|0
+the bourbaki numbering|DT JJ NN|BODY_2|0
+the weyl|DT NN|BODY_5|0
+the hyperplane|DT NN|BODY_10|0
+the corresponding functions|DT JJ NNS|BODY_9|0
+def|NN|BODY_16|0
+a dominant self-compatible step|DT JJ JJ NN|BODY_3|0
+the indirect technique|DT JJ NN|BODY_5|0
+a the representation v|DT DT NN NN|BODY_3|0
+a chain|DT NN|BODY_12|0
+everything|NN|BODY_10|0
+the general description|DT JJ NN|BODY_3|0
+n\thetan related representation|JJ JJ NN|BODY_3|0
+the same orbit|DT JJ NN|BODY_3|0
+the resulting walk|DT VBG NN|BODY_5|0
+arun ram|NN NN|BODY_2|0
+2x ) =x x|CD -RRB- NN NN|BODY_2|0
+lie theory|NN NN|BODY_5|0
+up|IN|BODY_3|0
+links|NNS|BODY_6|0
+the technique|DT NN|BODY_11|0
+a linear homogenous differential equation|DT NN JJ JJ NN|BODY_4|0
+the usual description|DT JJ NN|BODY_5|0
+a diagonal matrix|DT JJ NN|BODY_5|0
+a the multiplicity|DT DT NN|BODY_10|0
+a set|DT NN|BODY_5|0
+each function|DT NN|BODY_3|0
+the random walk|DT JJ NN|BODY_5:BODY_1|0
+m ( 2x )|NN -LRB- CD -RRB-|BODY_6|0
+linear transformations|NN NNS|BODY_11|0
+f 4|NN CD|BODY_4|0
+incompatible steps|JJ NNS|BODY_14|0
+a polygonal cone c|DT JJ NN NN|BODY_8|0
+2.1 definitions|CD NNS|BODY_2|0
+that hyperplane|DT NN|BODY_4|0
+fixes|NNS|BODY_3|0
+the principal weyl chamber (|DT JJ JJ NN -LRB-|BODY_6|0
+a real number k|DT JJ NN NN|BODY_4|0
+a basis|DT NN|BODY_16|0
+2 orthogonal|CD JJ|BODY_12|0
+the exponential generating function g j|DT JJ NN NN NN NN|BODY_8|0
+a classical problem|DT JJ NN|BODY_3|0
+all diagonal matrices|DT JJ NNS|BODY_2|0
+the irreducible representation|DT JJ NN|BODY_7|0
+the e|DT NN|BODY_9|0
+an important combinatorial problem|DT JJ JJ NN|BODY_4|0
+intermediate weights|JJ NNS|BODY_8|0
+some use|DT NN|BODY_2|0
+a suggestion|DT NN|BODY_4|0
+the reflection r|DT NN NN|BODY_2|0
+the long roots|DT JJ NNS|BODY_5|0
+a maximal  lattice l s;c|DT JJ NN NN NN NN|BODY_11|0
+~u (|DT -LRB-|BODY_3|0
+the nodes i and j|DT NNS NN CC NN|BODY_7|0
+so 2n (|RB JJ -LRB-|BODY_3|0
+so 2n+1 (|RB JJ -LRB-|BODY_3|0
+a uniform dilation|DT NN NN|BODY_15|0
+:;t ) ;k|NN -RRB- NN|BODY_8|0
+another representation|DT NN|BODY_3|0
+such w -orbits|JJ JJ NNS|BODY_5|0
+a n\thetan related representation|DT JJ JJ NN|BODY_5|0
+hypotheses|NNS|BODY_3|0
+the reflection groups|DT NN NNS|BODY_5|0
+the irreducible representations|DT JJ NNS|BODY_9|0
+y decomposition formula|RB JJ NN|BODY_11|0
+whose tensor powers|WP$ NN NNS|BODY_4|0
+these terms|DT NNS|BODY_12|0
+det n\thetan det n\thetan decomposition exponential generating function|NN NN NN NN NN JJ VBG NN|BODY_3|0
+2.2|CD|BODY_8|0
+r|NN|BODY_3|0
+this lattice|DT NN|BODY_5:BODY_1|0
+theoretic problem|JJ NN|BODY_5|0
+corollary 1|NN CD|BODY_2|0
+the determinant ( 26 )|DT NN -LRB- CD -RRB-|BODY_8|0
+induction|NN|BODY_3|0
+\gammax )|NN -RRB-|BODY_4|0
+this case|DT NN|BODY_14|0
+the irreducible|DT JJ|BODY_11|0
+exit c|NN NN|BODY_11|0
+(|-LRB-|BODY_1|0
+any walk|DT NN|BODY_5|0
+individual terms|JJ NNS|BODY_6|0
+the classical types|DT JJ NNS|BODY_10|0
+similar results|JJ NNS|BODY_2|0
+the largest i|DT JJS NNS|BODY_12|0
+subsection 5.5|NN CD|BODY_12:BODY_6|0
+all ffl|DT NN|BODY_3|0
+the same basic technique|DT JJ JJ NN|BODY_4|0
+the transformation \gamma1|DT NN NN|BODY_7|0
+the irreducible with highest weight|DT JJ IN JJS NN|BODY_13|0
+e x det n\thetan steps|NN NN NN JJ NNS|BODY_2|0
+the corollary|DT NN|BODY_2|0
+gl n )|JJ NN -RRB-|BODY_4|0
+the orthogonal complement|DT JJ NN|BODY_6|0
+the w -orbits|DT NN NNS|BODY_18|0
+i +i+j|NN NN|BODY_10:BODY_7|0
+the first term|DT JJ NN|BODY_8|0
+the 2jth tensor power|DT JJ NN NN|BODY_6|0
+( 4 )|-LRB- CD -RRB-|BODY_10|0
+the determinantal formulas|DT JJ NNS|BODY_7|0
+reflections|NNS|BODY_13|0
+the others \gamma 1 n|DT NNS NN CD NN|BODY_5|0
+a walk-type|DT NN|BODY_3|0
+c i ;j|NN NN NN|BODY_4|0
+these self-compatible w -orbits|DT JJ NN NNS|BODY_8|0
+1 n|CD NN|BODY_2|0
+the coweights|DT NNS|BODY_7|0
+weyl group b|NN NN NN|BODY_4|0
+d , corresponding|JJ , JJ|BODY_3|0
+chamber c|NN NN|BODY_3|0
+the point|DT NN|BODY_3|0
+the determinant and multilinearity techniques|DT NN CC NN NNS|BODY_2|0
+several useful comments|JJ JJ NNS|BODY_3|0
+any union|DT NN|BODY_17|0
+total weight|JJ NN|BODY_6|0
+the irreducible factors|DT JJ NNS|BODY_8|0
+a procedure|DT NN|BODY_3|0
+an integer multiple|DT NN NN|BODY_7|0
+e x times|NN NN NNS|BODY_8|0
+the single determinant|DT JJ NN|BODY_3|0
+related representation|VBN NN|BODY_2:BODY_1|0
+a oe|DT NN|BODY_7|0
+]|SYM|BODY_3|0
+the weyl group b steps|DT NN NN NN NNS|BODY_5|0
+the partition t|DT NN NN|BODY_10|0
+whose highest weight|WP$ JJS NN|BODY_5|0
+our advisor|PRP$ NN|BODY_2|0
+that two steps|IN CD NNS|BODY_6|0
+dual representations|JJ NNS|BODY_4|0
+another spin representation|DT NN NN|BODY_2|0
+the sign|DT NN|BODY_4|0
+orbits|NNS|BODY_12|0
+the last coordinate|DT JJ VB|BODY_6:BODY_5|0
+the dominant self-compatible steps|DT JJ JJ NNS|BODY_2|0
+a where -j ~u|DT WRB JJ NN|BODY_13|0
+denotes|NNS|BODY_2|0
+-,|VB|BODY_7|0
+the multilinearity|DT NN|BODY_2|0
+each other|DT JJ|BODY_13|0
+vectors e -coefficients|NNS NN NNS|BODY_5|0
+the reflection|DT NN|BODY_5|0
+the whole weyl group|DT JJ NN NN|BODY_13|0
+the wall|DT NN|BODY_9|0
+nicholas katz|NNS NN|BODY_3|0
+the following equivalent conditions|DT JJ JJ NNS|BODY_4|0
+only one variable|RB CD JJ|BODY_15|0
+l and c|NN CC NN|BODY_3|0
+adjoint representation|JJ NN|BODY_4|0
+this expression|DT NN|BODY_8|0
+the rule|DT NN|BODY_3|0
+h k=0 c flk x k =k|JJ NN NN NN NN NN NN|BODY_3|0
+an ffl|DT NN|BODY_9|0
+no need|DT NN|BODY_7|0
+the calculation|DT NN|BODY_6|0
+w ff|JJ NN|BODY_7|0
+the lengths|DT NNS|BODY_2|0
+theorem|PRP|BODY_1:BODY_7|0
+the 1=2|DT CD|BODY_2|0
+the positive integers|DT JJ NNS|BODY_3|0
+k i|NN NN|BODY_8|0
+the identity and u \gamma|DT NN CC NN NN|BODY_8|0
+such|JJ|BODY_5|0
+an integrable character|DT JJ NN|BODY_2|0
+formula|NN|BODY_4|0
+the steps \sigmae|DT NNS NNS|BODY_1|0
+up-down tableaux [14]|JJ NN NN|BODY_6|0
+a forming|DT VBG|BODY_4|0
+a reflectable random walk|DT JJ JJ NN|BODY_3|0
+an exponential generating function|DT JJ NN NN|BODY_5|0
+this representation-theoretic problem|DT JJ NN|BODY_2|0
+the square length|DT JJ NN|BODY_4|0
+the allowable steps|DT JJ NNS|BODY_15|0
+separate terms|JJ NNS|BODY_9|0
+its orthogonal projections|PRP$ JJ NNS|BODY_7|0
+( 26 )|-LRB- CD -RRB-|BODY_13|0
+whose diagram|WP$ NN|BODY_10|0
+two subsets|CD NNS|BODY_10|0
+any lattice point|DT NN NN|BODY_3|0
+the representation v|DT NN NN|BODY_13|0
+a -;k the functions|DT JJ DT NNS|BODY_18|0
+the virtual representation|DT JJ NN|BODY_11|0
+although|IN|BODY_3|0
+a -;k 3.3 equivalence|DT JJ CD NN|BODY_7|0
+4.2 classification|CD NN|BODY_1|0
+coweights|NNS|BODY_6|0
+each other if|DT JJ IN|BODY_3|0
+two reflectable random walks|CD JJ JJ NNS|BODY_3|0
+landing|NN|BODY_12|0
+the properties|DT NNS|BODY_3|0
+the additional condition|DT JJ NN|BODY_4|0
+corresponding whose weights|JJ WP$ NNS|BODY_14|0
+5|CD|BODY_8|0
+a fundamental weyl chamber|DT JJ JJ NN|BODY_2|0
+the space|DT NN|BODY_6|0
+a lie group|DT NN NN|BODY_4|0
+the decomposition function|DT NN NN|BODY_3|0
+other cases|JJ NNS|BODY_3|0
+the exponential generating function f|DT JJ NN NN NN|BODY_17|0
+3|CD|BODY_3|0
+only one dominant weight|RB CD JJ NN|BODY_5|0
+a character|DT NN|BODY_4|0
+\sigmae|NNP|BODY_3|0
+the linear span|DT JJ NN|BODY_4|0
+the positive or negative coordinate directions|DT JJ CC JJ VB NNS|BODY_6|0
+this representation|DT NN|BODY_6|0
+only those ffl|RB DT JJ|BODY_5|0
+that 0|DT CD|BODY_2|0
+w( j ) to|JJ RB -RRB- TO|BODY_8|0
+the reflectable walk|DT JJ NN|BODY_13|0
+order m [17]|NN NN NN|BODY_6|0
+any random walk corresponds|DT JJ NN NNS|BODY_16|0
+a lattice l|DT NN NN|BODY_5|0
+a trick|DT NN|BODY_2|0
+l s;c|JJ NN|BODY_22|0
+each other (|DT JJ -LRB-|BODY_9|0
+the and|DT CC|BODY_2|0
+any parabolic subgroup|DT JJ NN|BODY_5|0
+the arrow|DT NN|BODY_10|0
+simple roots \delta|JJ NNS NN|BODY_8|0
+at least one wall|IN JJS CD NN|BODY_4|0
+some last step j|DT JJ NN NN|BODY_5|0
+a special case|DT JJ NN|BODY_20|0
+the list|DT NN|BODY_3|0
+each simple root|DT JJ NN|BODY_7|0
+5.6|CD|BODY_1|0
+each|DT|BODY_4|0
+a u;k|DT NN|BODY_4|0
+the ( terms|DT -LRB- NNS|BODY_3|0
+18]|CD|BODY_9|0
+the total weight|DT JJ NN|BODY_9|0
+a given finite-dimensional representation v|DT VBN JJ NN NN|BODY_11|0
+all reflectable walks|DT JJ NNS|BODY_4|0
+the most mutual compatibility|DT JJS JJ NN|BODY_7|0
+some closely related cases|DT RB VBN NNS|BODY_16|0
+the relative probabilities|DT JJ NNS|BODY_3|0
+the all tensor powers|DT RB JJ NNS|BODY_5|0
+the young diagram|DT JJ NN|BODY_20|0
+those cases|DT NNS|BODY_8|0
+theorem 2|NN CD|BODY_5|0
+sum|NN|BODY_2|0
+other non-reflectable random walks|JJ JJ JJ NNS|BODY_5|0
+a acts|DT NNS|BODY_2|0
+ffi-|NNS|BODY_1|0
+\delta ?|NNP .|BODY_3|0
+several suggestions|JJ NNS|BODY_12|0
+the following information|DT VBG NN|BODY_3|0
+the roots|DT NNS|BODY_1|0
+the region|DT NN|BODY_10|0
+the walk-types|DT NNS|BODY_1|0
+the corresponding walks|DT JJ NNS|BODY_9|0
+every irreducible representation u|DT JJ NN NN|BODY_1|0
+determinant formulas|JJ NNS|BODY_3|0
+its exponential|PRP$ NN|BODY_11|0
+such a group|JJ DT NN|BODY_9|0
+its exponential generating function|PRP$ JJ NN NN|BODY_7|0
+a coordinate quadrant|DT VBP NN|BODY_4|0
+a reductive lie algebra|DT JJ NN NN|BODY_3|0
+our problem|PRP$ NN|BODY_1|0
+the exponential generating functions|DT JJ NN NNS|BODY_6|0
+decomposition formulas|NN NNS|BODY_7|0
+the same )|DT JJ -RRB-|BODY_11|0
+in ( 2|IN -LRB- CD|BODY_7|0
+the products|DT NNS|BODY_3|0
+this to|DT TO|BODY_11|0
+some lattice|DT NN|BODY_6|0
+all half-integer coordinates|DT JJ NNS|BODY_9|0
+all integer coordinates|DT NN NNS|BODY_7|0
+a complex reductive group|DT JJ JJ NN|BODY_3|0
+y this sum|RB DT NN|BODY_11|0
+fundamental representations|JJ NNS|BODY_15|0
+the self-compatible w -orbits|DT JJ JJ NNS|BODY_4|0
+w 2 w|NN CD NN|BODY_20|0
+a semidirect product|DT JJ NN|BODY_9|0
+maximal lattices|JJ NNS|BODY_5|0
+an arbitrary lattice|DT JJ NN|BODY_24|0
+an interesting problem|DT JJ NN|BODY_8|0
+r( e|JJ NN|BODY_8|0
+the orthogonal groups|DT JJ NNS|BODY_6:ABSTRACT_5|0
+b k|NN NN|BODY_2|0
+a connected lie group|DT JJ NN NN|BODY_3|0
+the killing form|DT VBG NN|BODY_2|0
+the specific techniques|DT JJ NNS|BODY_3|0
+two walks|CD NNS|BODY_5|0
+l,|PRP|BODY_6|0
+each i|DT NN|BODY_1|0
+2x|CD|BODY_2|0
+a somewhat indirect argument|DT RB JJ NN|BODY_2|0
+our lattice z n|PRP$ NN FW NN|BODY_8|0
+the projections|DT NNS|BODY_10|0
+representations )|NNS -RRB-|BODY_4|0
+sentations|NNS|BODY_4|0
+the e series|DT NN NN|BODY_8|0
+a correspondence|DT NN|BODY_18|0
+the cartan matrix|DT NN NN|BODY_12|0
+a representation v|DT NN NN|BODY_1|0
+the step|DT NN|BODY_13|0
+column j|NN NN|BODY_3|0
+the corresponding exponential generating functions|DT JJ JJ VBG NNS|BODY_16|0
+the same absolute value k i|DT JJ JJ NN NN FW|BODY_10|0
+section 5|NN CD|BODY_4|0
+the orthogonal projection|DT JJ NN|BODY_1:BODY_8|0
+parity|NN|BODY_2|0
+representation theory|NN NN|BODY_2|0
+the reflection principle|DT NN NN|ABSTRACT_7|0
+highest weight|JJS NN|BODY_3:BODY_8|0
+some polynomials p i|DT NNS NN NN|BODY_9|0
+a scalar multiple|DT JJ NN|BODY_3|0
+the irreducible weyl groups|DT JJ NN NNS|BODY_7|0
+these pairs|DT NNS|BODY_3|0
+functions|NNS|BODY_2|0
+pairs|NNS|BODY_2|0
+that odd tensor powers|DT JJ NN NNS|BODY_5|0
+( l 0|-LRB- JJ RP|BODY_9|0
+4.5 results|CD NNS|BODY_1|0
+24 )|CD -RRB-|BODY_3|0
+a class|DT NN|ABSTRACT_2|0
+the diagonals|DT NNS|BODY_4|0
+this back|DT NN|BODY_10|0
+unconstrained random walks|JJ JJ NNS|BODY_2|0
+how many ways|WRB JJ NNS|BODY_5|0
+an nsf graduate fellowship|DT JJ NN NN|BODY_7|0
+all lattices|DT NNS|BODY_6|0
+the principal weyl chamber|DT JJ NN NN|BODY_10|0
+6.1 weyl group|CD NN NN|BODY_1|0
+two cases|CD NNS|BODY_1|0
+i )|NN -RRB-|BODY_4|0
+the previous case|DT JJ NN|BODY_3|0
+instance|NN|BODY_1|0
+the standard ways|DT JJ NNS|BODY_5|0
+a sum or difference|DT NN CC NN|BODY_6|0
+row|NN|BODY_5|0
+which stay|WDT NN|BODY_9|0
+all half-integers|DT NNS|BODY_7|0
+a 2|DT CD|BODY_11|0
+the generating function -(~u|DT NN NN NN|BODY_10|0
+all|DT|BODY_1|0
+ae +|NNS NNS|BODY_8|0
+a pairing|DT NN|BODY_2|0
+the desired number|DT VBN NN|BODY_12|0
+random-walk formula|JJ NN|BODY_1|0
+defines|NNS|BODY_2|0
+a weight|DT NN|BODY_6|0
+the number b ae ;ae+-;k|DT NN NN NNS NN|BODY_4|0
+the results|DT NNS|BODY_18|0
+k odd|NN JJ|BODY_7|0
+k steps|NN NNS|BODY_6|0
+the corresponding generating function|DT JJ NN NN|BODY_6|0
+o 2n+1 preserves|IN CD NNS|BODY_2|0
+the other cases|DT JJ NNS|BODY_1|0
+the above formula|DT JJ NN|BODY_4|0
+the sums|DT NNS|BODY_14|0
+j to|NN TO|BODY_16|0
+the self-compatible weights|DT JJ NNS|BODY_6|0
+0.|NNP|BODY_7:BODY_9|0
+s2s ~u|NN NN|BODY_6|0
+example|NN|BODY_1|0
+the weyl denominator example|DT NN NN NN|BODY_7|0
+6.2 weyl group b|CD NN NN NN|BODY_1|0
+3.2 weyl|CD NN|BODY_1|0
+proctor [11]|NN NN|BODY_3|0
+odd tensor powers|JJ JJ NNS|BODY_7|0
+the rank n j )|DT NN RB NN -RRB-|BODY_13|0
+determinant , multilinearity|NN , NN|BODY_2|0
+determinant , multilinearity , splitting|NN , NN , NN|BODY_2|0
+congruent modulo|JJ NN|BODY_9|0
+these factors|DT NNS|BODY_5|0
+at most n rows|IN JJS NN NNS|BODY_7|0
+tems|NNS|BODY_10|0
+the restrictions|DT NNS|BODY_1|0
+all the projections|PDT DT NNS|BODY_11|0
+the inequalities|DT NNS|BODY_1|0
+the polynomial|DT NN|BODY_5|0
+not a natural one|RB DT JJ CD|BODY_10|0
+the weights and weyl group|DT NNS CC NN NN|BODY_1|0
+the parity argument|DT NN NN|BODY_1|0
+a reductive complex lie algebra g|DT JJ JJ NN NN NN|BODY_4|0
+the representation-theoretic problems|DT JJ NNS|BODY_1|0
+the trivial|DT JJ|BODY_6|0
+introduction|NN|BODY_1|0
+reductive lie groups|JJ NN NNS|BODY_7|1
+the walk types|DT NN NNS|ABSTRACT_15|0
+5.4|CD|BODY_1|0
+2 instead|CD RB|BODY_1|0
+2.|CD|BODY_1|0
+the denominator|DT NN|BODY_3|0
+their exponential generating functions|PRP$ JJ VBG NNS|BODY_4|0
+proof|NN|BODY_8|0
+the most general form|DT RBS JJ NN|BODY_1|0
+the maximal lattice l s;c|DT JJ NN NN NN|BODY_4|0
+ related representation |NN VBN NN|BODY_9|0
+4.1 maximal lattices|CD JJ NNS|BODY_1|0
+mutually compatible steps|RB JJ NNS|BODY_10|0
+2 )|CD -RRB-|BODY_3|0
+5.1|CD|BODY_1|0
+5 computational techniques|CD JJ NNS|BODY_1|0
+[5] , gessel and zeilberger|NN , NN CC NN|BODY_1|0
+every walk|DT NN|BODY_1|0
+step|VB|BODY_11|0
+the possible|DT JJ|BODY_3|0
+what|WP|BODY_7|0
+an arbitrary step|DT JJ NN|BODY_4|0
+the x i|DT NN NN|BODY_7|0
+decomposition doubly-exponential generating function|NN JJ VBG NN|BODY_1|0
+both the positive and negative coordinate directions|PDT DT JJ CC JJ VBP NNS|BODY_5|0
+specific cases|JJ NNS|BODY_1|0
+h and h|NN CC NN|BODY_3|0
+subsection 4.5|NN CD|BODY_7|0
+a similar argument|DT JJ NN|BODY_1|0
+the group|DT NN|BODY_4|0
+some general restrictions|DT JJ NNS|BODY_3|0
+the reflection law|DT NN NN|BODY_1|0
+binomial coefficients|JJ NNS|BODY_9|0
+by weyl group|IN NN NN|BODY_5|0
+examples|NNS|BODY_6|0
+4.3 compatible steps|CD JJ NNS|BODY_1|0
+the n diagonal entries|DT RB JJ NNS|BODY_2|0
+the same lattice|DT JJ NN|BODY_11|0
+this determinant|DT NN|BODY_17|0
+any case|DT NN|BODY_1|0
+the root system c n|DT NN NN NN NN|BODY_4|0
+:;-|NNS|BODY_5|0
+the root system b n|DT NN NN NN NN|BODY_4|0
+any step|DT NN|BODY_1|0
+so 2n+1 and o 2n+1|RB JJ CC IN JJ|BODY_3|0
+an odd number|DT JJ NN|BODY_13|0
+several choices|JJ NNS|BODY_14|0
+some cases|DT NNS|BODY_1|0
+the permitted steps|DT VBN NNS|BODY_6|0
+3 decomposition|CD NN|BODY_1|0
+the bessel function determinants|DT NNP NN NNS|BODY_1|0
+a u;k u|DT NN PRP|BODY_7|0
+irreducible representations|JJ NNS|BODY_9|0
+5.3|CD|BODY_1|0
+5.5|CD|BODY_1|0
+the basic example|DT JJ NN|BODY_1|0
+the most natural example|DT RBS JJ NN|BODY_1|0
+this problem|DT NN|BODY_1|0
+ze|FW|BODY_7|0
+changes|NNS|BODY_12|0
+the same techniques|DT JJ NNS|BODY_5|0
+these problems|DT NNS|BODY_5|0
+2x )|CD -RRB-|BODY_13|0
+the fundamental result|DT JJ NN|BODY_1|0
+one exceptional case|CD JJ NN|BODY_1|0
+the other case|DT JJ NN|BODY_1|0
+2 c [h ]|CD NN NN NN|BODY_17|0
+5.2 projection|CD NN|BODY_1|0
+the lattices|DT NNS|BODY_1|0
+the same technique|DT JJ NN|BODY_1|0
+all steps|DT NNS|BODY_1|0
+4 classification|CD NN|BODY_1|0
+a plus sign|DT NN NN|BODY_10|0
+a smaller weyl group|DT JJR NN NN|BODY_8|0
+certain reflectable  walk-types|JJ JJ NN NNS|BODY_1|0
+convenience|NN|BODY_1|0
+e \gammax|NN NN|BODY_9|0
+each case|DT NN|BODY_1|0
+each random walk|DT JJ NN|BODY_1|0
+many cases|JJ NNS|BODY_1|0
+some standard facts [6]|DT JJ NNS NN|BODY_2|0
+the b j-;k|DT NN NN|BODY_10|0
+the b n root system|DT NN NN NN NN|BODY_7|0
+the classical weyl groups|DT JJ NN NNS|BODY_1|0
+the exceptional weyl groups|DT JJ NN NNS|BODY_1|0
+the following result|DT VBG NN|BODY_7|0
+the resulting matrix|DT VBG NN|BODY_1|0
+the statement|DT NN|BODY_1|0
+the walk problems|DT NN NNS|BODY_1|0
+this paper|DT NN|BODY_1|1
+index 2|NN CD|BODY_1|0
+such terms|JJ NNS|BODY_13|0
+corresponding lie groups|JJ NN NNS|BODY_5|0
+the 2 n vectors|DT CD NN NNS|BODY_7|0
+the generating functions|DT NN NNS|BODY_1|0
+the solution|DT NN|BODY_1|0
+as usual|IN JJ|BODY_16|0
+the representation-theory problem|DT NN NN|BODY_1|0
+c fl;k|NN NN|BODY_1|0
+a finite dimensional virtual representation v|DT JJ JJ JJ NN NN|BODY_5|0
+some step|DT NN|BODY_15|0
+the same linear span|DT JJ JJ NN|BODY_8|0
+a 1)g|DT JJ|BODY_11|0
+gessel [4]|NN NN|BODY_4|0
+all the steps|PDT DT NNS|BODY_1|0
+e x|NN NN|BODY_18|0
+4.4 classification|CD NN|BODY_1|0
+each irreducible weyl group|DT JJ NN NN|BODY_6|0
+let c|VB NN|BODY_1|0
+w( j )|JJ NN -RRB-|BODY_7|0
+( 29 )|-LRB- CD -RRB-|BODY_13|0
+2.3 generating functions|CD VBG NNS|BODY_1|0
+( l )|-LRB- JJ -RRB-|BODY_26|0
+an additional step|DT JJ NN|BODY_1|0
+the projections lattice|DT NNS NN|BODY_14|0
+the only walks|DT JJ NNS|BODY_1|0
+certain allowable lengths and directions|JJ JJ NNS CC NNS|BODY_2|0
+the formal monomials|DT JJ NNS|BODY_9|0
+the other subset|DT JJ NN|BODY_16|0
+the dual basis|DT JJ NN|BODY_7|0
+its dual|PRP$ JJ|BODY_8|0
+allowed steps|VBN NNS|BODY_1|0
+subsection 6.3|NN CD|BODY_5|0
+the function|DT NN|BODY_1|0
+these two functions|DT CD NNS|BODY_8|0
+[1 , 3 , 6]|NNP , CD , CD|BODY_1|0
+definition|NN|BODY_1|0
+the walk-type 0g|DT NN NN|BODY_1|0

@@ -1,0 +1,401 @@
+we|PRP|BODY_6:BODY_11:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_14:BODY_10:BODY_8|2
+symbolic computation|JJ NN|BODY_6:BODY_5:BODY_16:TITLE_2:BODY_2:BODY_3:BODY_4:BODY_8|5
+it|PRP|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+maple|NN|BODY_12:BODY_17:BODY_2:BODY_1:BODY_10:BODY_4:BODY_8:ABSTRACT_10|0
+them|PRP|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_9|0
+real root isolation|JJ NN NN|ABSTRACT_4:BODY_2|2
+that|DT|ABSTRACT_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+the parallel declarative|DT JJ NN|BODY_2:ABSTRACT_3|0
+the system|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_9|0
+fewer than 20 lines|JJR IN CD NNS|ABSTRACT_6|1
+a generic strand program|DT JJ JJ NN|ABSTRACT_5|1
+multivariate nonlinear equation systems|JJ JJ NN NNS|ABSTRACT_3|0
+different parallel programming paradigms|JJ JJ NN NNS|ABSTRACT_2|0
+even complex algebraic algorithms|RB JJ JJ NNS|ABSTRACT_4|0
+the existing sequential algorithms|DT VBG JJ NNS|ABSTRACT_9|0
+such a simple modification|JJ DT JJ NN|ABSTRACT_1|0
+a slight modification|DT JJ NN|ABSTRACT_8|1
+a straightforward parallelization|DT JJ NN|ABSTRACT_2|1
+a portable system|DT JJ NN|ABSTRACT_3|0
+parallel symbolic computation|VB JJ NN|ABSTRACT_4|0
+various parallel architectures|JJ JJ NNS|ABSTRACT_4|0
+the pipe|DT NN|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the result|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the gr-obner bases algorithm|DT NN NNS NN|BODY_3:BODY_10|1
+the strand variable svar|DT NN JJ NN|BODY_6:BODY_5|0
+a parallel programming language|DT JJ NN NN|BODY_2|0
+the non blocking behavior|DT NN VBG NN|BODY_2|0
+oe oe s-polys test-polys|NN NN NNS NNS|BODY_2|0
+the sequential maple kernel|DT JJ NN NN|BODY_2|0
+the shared memory systems|DT VBN NN NNS|BODY_2|0
+the parallel programming language|DT JJ NN NN|BODY_7|0
+the first cons cell|DT JJ NNS NN|BODY_4|0
+a sequential kmaplek program|DT JJ NN NN|BODY_2|0
+the split comp procedure|DT NN NN NN|BODY_2|0
+the maple variable mvar|DT NN JJ JJ|BODY_6|0
+other computer algebra systems|JJ NN NN NNS|BODY_3|0
+developing and parallelizing algorithms|VBG CC VBG NNS|BODY_2|0
+sequential computer algebra systems|JJ NN NN NNS|BODY_1|0
+the irreducible input values|DT JJ NN NNS|BODY_1|0
+init worker( n1,rs )|NN VBD NNS -RRB-|BODY_18|0
+the type  producer|DT NN NN NN|BODY_5|0
+% place worker n1|NN NN NN NNS|BODY_17|0
+n workers streams init|NN NNS NNS NN|BODY_6|0
+several high level functions|JJ JJ NN NNS|BODY_7|0
+a small linear overhead|DT JJ NN NN|BODY_5|0
+a maple body call|DT NN NN NN|BODY_5|0
+the actual communication time|DT JJ NN NN|BODY_2|0
+that new basis polynomial|DT JJ NN NN|BODY_6|0
+an arbitrary maple function|DT JJ NN NN|BODY_6|0
+ffl parallel programming languages|JJ RB NN NNS|BODY_12|0
+a proper division strategy|DT JJ NN NN|BODY_5|0
+all partially evaluated functions|DT RB VBN NNS|BODY_2|0
+several distributed memory systems|JJ VBN NN NNS|BODY_4|0
+arbitrary maple data structures|JJ NN NNS NNS|BODY_4|0
+split-int( sumexpr, termlist ):|JJ NN NN NN|BODY_5|0
+one new strand guard|CD JJ NN NN|BODY_3|0
+more complicated maple programs|JJR JJ NN NNS|BODY_2|0
+the simplest parallel program|DT JJS RB NN|BODY_2|0
+an i386 pro- cessor|DT NN , NN|BODY_10|0
+'s interactive user interface|POS JJ NN NN|BODY_3|0
+a boolean maple function|DT JJ JJ NN|BODY_14|0
+)@fwd split ( []|JJ NN -LRB- NNP|BODY_30|0
+the independent sub procedures|DT JJ NN NNS|BODY_4:BODY_10|0
+algorithm ( divconq )|NN -LRB- NN -RRB-|BODY_7|0
+parallel processes and communication|JJ NNS CC NN|BODY_5|0
+n?0 j worker( []|CD NN VBD NN|BODY_15|0
+the following maple procedure|DT VBG NN NN|BODY_4|0
+the internal data structure|DT JJ NNS NN|BODY_10|0
+a manager worker scheme|DT NN NN NN|BODY_3|0
+easy writing and porting|JJ NN CC NN|BODY_2|0
+one computes critical polynomials|CD NNS JJ NNS|BODY_4|0
+( fmexpr ,mresg )|-LRB- NN NN -RRB-|BODY_3|0
+an value -mode use(|DT NN NN JJ|BODY_8|0
+the non-deterministic guard check|DT JJ NN NN|BODY_9|0
+the maple list variable|DT NN NN JJ|BODY_7|0
+the initial input polynomials|DT JJ NN NNS|BODY_6|0
+a shared memory machine|DT VBN NN NN|BODY_2|0
+a parallel programming system|DT JJ NN NN|BODY_2|0
+the original maple algorithm|DT JJ NN NN|BODY_2|0
+a non zero polynomial|DT NN CD NN|BODY_2|0
+the given programming examples|DT VBN VBG NNS|BODY_4|0
+a very low level|DT RB JJ NN|BODY_3|0
+the maple variable sum|DT NN JJ NN|BODY_3|0
+the next user query|DT JJ NN NN|BODY_3|0
+its own programming language|PRP$ JJ NN NN|BODY_2|0
+a sequential program available|DT JJ NN JJ|BODY_4|0
+an m test guard|DT NN NN NN|BODY_12|0
+a maple list expression|DT JJ NN NN|BODY_6|0
+guards or body calls|NNS CC NN NNS|BODY_5|0
+pure lexicographic term order|JJ JJ NN NN|BODY_7|0
+a minimal programing effort|DT JJ NN NN|BODY_8|0
+any modification or recompilation|DT NN CC NN|BODY_7|0
+technique ( 3.4 )|NN -LRB- CD -RRB-|BODY_7|0
+only a single root|RB DT JJ NN|BODY_8|0
+only coarse grain parallelism|RB JJ NN NN|BODY_1|0
+communication and process generation|NN CC NN NN|BODY_8|0
+the parallelized user interface|DT JJ NN NN|BODY_1|0
+the front end process|DT JJ NN NN|BODY_1|0
+a very successful result|DT RB JJ NN|BODY_5|0
+all details and proofs|DT NNS CC NNS|BODY_1|0
+the top end process|DT JJ NN NN|BODY_1|0
+a single incoming expression|DT JJ JJ NN|BODY_7|0
+the corresponding maple function|DT JJ NN NN|BODY_4|0
+the problem solving capacity|DT NN VBG NN|BODY_3|0
+the overall computation time|DT JJ NN NN|BODY_3|0
+the manager pro- cess|DT NN NNS NN|BODY_4|0
+a nondeterministic be- havior|DT JJ NNP NN|BODY_11|0
+the strand list parts|DT JJ NN NNS|BODY_2|0
+input matching and arguments|NN VBG CC NNS|BODY_6|0
+such an user interface|JJ DT NN NN|BODY_4|0
+any additional programming effort|DT JJ NN NN|BODY_3|0
+communication and job creation|NN CC NN NN|BODY_4|0
+the underlying maple system|DT JJ NN NN|BODY_5|0
+the high level approach|DT JJ NN NN|BODY_1|0
+the parallelized maple program|DT JJ NN NN|BODY_1|0
+the whole sequential library|DT JJ JJ NN|BODY_1|0
+the future input values|DT JJ NN NNS|BODY_1|0
+an executable c program|DT JJ NN NN|BODY_4|0
+the next pipe process|DT JJ NN NN|BODY_7|0
+4 main parallelization techniques|CD JJ NN NNS|BODY_1|0
+each intermediate pipe process|DT JJ NN NN|BODY_1|0
+the basic communication features|DT JJ NN NNS|BODY_1|0
+the in-lined maple statement|DT JJ NN NN|BODY_1|0
+kmaplek|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_10:BODY_7|2
+an important part|DT JJ NN|BODY_2|1
+an important algorithm|DT JJ NN|BODY_3|1
+an important problem|DT JJ NN|BODY_3|1
+introduction symbolic computation|NN JJ NN|BODY_1|1
+3 parallel programming|CD JJ NN|BODY_1|1
+the recursive calls|DT JJ NNS|BODY_6:BODY_5:BODY_4|0
+all individual terms|DT JJ NNS|BODY_2:BODY_3:BODY_4|0
+each user request|DT NN NN|BODY_2|0
+his parallel algorithm|PRP$ JJ NN|BODY_2|0
+the best efficiency|DT JJS NN|BODY_2|0
+a high speedup|DT JJ NN|BODY_3:BODY_4|0
+the manager-worker scheme|DT NN NN|BODY_4:BODY_10|0
+the following procedure|DT JJ NN|BODY_3:BODY_4|0
+the kmaplek system|DT NN NN|BODY_2:BODY_3|0
+a list|DT NN|BODY_12:BODY_5:BODY_4:BODY_8|0
+c or fortran|NN CC JJ|BODY_4|0
+the computing time|DT NN NN|BODY_1|0
+the corresponding variables|DT JJ NNS|BODY_2|0
+the individual processes|DT JJ NNS|BODY_4|0
+some basic knowledge|DT JJ NN|BODY_2|0
+the annotated goal|DT JJ NN|BODY_3|0
+a quick parallelization|DT JJ NN|BODY_2:BODY_4|0
+the manager-worker approach|DT NN NN|BODY_3:BODY_4|0
+the individual requests|DT JJ NNS|BODY_2|0
+the main procedure|DT JJ NN|BODY_1:BODY_7|0
+a super-linear speedup|DT JJ NN|BODY_5:BODY_2|0
+sac algebra library|JJ NN NN|BODY_5|0
+the parallel system|DT JJ NN|BODY_2|0
+the parallel processors|DT NN NNS|BODY_2:BODY_4|0
+all the guards|DT DT NNS|BODY_6|0
+the back end|DT JJ NN|BODY_1:BODY_9|0
+the huge library|DT JJ NN|BODY_2|0
+1986 ] )|CD NN -RRB-|BODY_4|0
+a limited number|DT JJ NN|BODY_7|0
+a single stream|DT JJ NN|BODY_4|0
+only one half|RB CD NN|BODY_2|0
+[ char et|JJ NN NNP|BODY_2|0
+arbitrary sequential subroutines|JJ JJ NNS|BODY_3|0
+the result list|DT NN NN|BODY_3|0
+the various parts|DT JJ NNS|BODY_2|0
+inline(-in(tmp,expr)-, readlib( c):c(tmp|JJ JJ NN|BODY_7|0
+the maple expression|DT NN NN|BODY_4|0
+,sps,rps ,sps1 )|RB CD -RRB-|BODY_15|0
+( init worker|-LRB- NN NN|BODY_5|0
+the first element|DT JJ NN|BODY_2|0
+1990 ] (|CD NN -LRB-|BODY_3|0
+different term orderings|JJ NN NNS|BODY_5|0
+mach thread routines|NN NN NNS|BODY_5|0
+mvar ,svar )|JJ NN -RRB-|BODY_3|0
+the gr-obner bases|DT NN NNS|BODY_2|0
+the required data|DT VBN NNS|BODY_5|0
+the bodies b|DT NNS NN|BODY_5|0
+the new value|DT JJ NN|BODY_3:BODY_7|0
+the unix fork|DT NN NN|BODY_3|0
+the consumer process|DT NN NN|BODY_2:BODY_1|0
+previously computed functions|RB VBN NNS|BODY_3|0
+new input values|JJ NN NNS|BODY_3:BODY_4|0
+all communication primitiva|DT NN NN|BODY_6|0
+all real roots|DT JJ NNS|BODY_4|0
+sieve basis oe|JJ NN NN|BODY_4|0
+a sum expression|DT NN NN|BODY_3|0
+a divide-and-conquer algorithm|DT JJ NN|BODY_2|0
+several programming techniques|JJ NN NNS|BODY_1|0
+the reduction processes|DT NN NNS|BODY_2|0
+-mode sieve( test-polys|NN NN NNS|BODY_12|0
+a pipeline principle|DT NN NN|BODY_7|0
+a good speedup|DT JJ NN|BODY_7|0
+distributed memory architectures|VBN NN NNS|BODY_4|0
+the stream element|DT NN NN|BODY_4|0
+computer algebra systems|NN NN NNS|BODY_3|0
+worker(x ,[m( mexpr,|NN , NNS|BODY_29|0
+total execution time|JJ NN NN|BODY_3|0
+the same type|DT JJ NN|BODY_3|0
+enough inherent parallelism|RB JJ NN|BODY_6|0
+more hardware independent|JJR NN JJ|BODY_2|0
+the basic algorithms|DT JJ NNS|BODY_10|0
+a significant speedup|DT JJ NN|BODY_2|0
+a tree structure|DT NN NN|BODY_2|0
+the main task|DT JJ NN|BODY_7|0
+concurrent prolog implementation|JJ NN NN|BODY_5|0
+inline( [] ,expr|RB NN NN|BODY_14|0
+comp( '0' ,[x]|VBN JJ NN|BODY_11|0
+the parallel evaluation|DT JJ NN|BODY_5|0
+the pipe building|DT NN NN|BODY_6|0
+4.1 ) method|CD -RRB- NN|BODY_8|0
+[xjxs] ,[yjys] ):|JJ NN NN|BODY_27|0
+big sequential libraries|JJ JJ NNS|BODY_8|0
+the parallel execution|DT JJ NN|BODY_5|0
+a high number|DT JJ NN|BODY_8|0
+a generalized divide|DT JJ NN|BODY_6|0
+schreiner and hong|NN CC JJ|BODY_4|0
+the tested values|DT VBN NNS|BODY_11|0
+better parallelization strategies|JJR NN NNS|BODY_4|0
+a big set|DT JJ NN|BODY_5|0
+the unbalanced nature|DT JJ NN|BODY_5|0
+a reasonable amount|DT JJ NN|BODY_7|0
+fun ,comp )|NN NN -RRB-|BODY_6|0
+the variable x|DT JJ NN|BODY_4|0
+2.3 kmaplek kernel|CD NN NN|BODY_6|0
+one parallel process|CD JJ NN|BODY_5|0
+the speedup achievable|DT JJ JJ|BODY_7|0
+a higher overhead|DT JJR NN|BODY_4|0
+par-int( input? ,output-)|NN NN NNS|BODY_5|0
+a maple list|DT NN NN|BODY_7|0
+all output expressions|DT NN NNS|BODY_2|0
+the manager-worker concept|DT NN NN|BODY_4|0
+the strand part|DT JJ NN|BODY_8|0
+expr :=mexpr )|JJ NN -RRB-|BODY_9|0
+[ hong et|JJ JJ NNP|BODY_2|0
+the kmaplek user|DT NN NN|BODY_8|0
+each po- lynomial|DT DT NN|BODY_2|0
+the symbolic solution|DT JJ NN|BODY_3|0
+a new request|DT JJ NN|BODY_4|0
+the chebyshev polynomials|DT NN NNS|BODY_4|0
+the generic divide|DT JJ NN|BODY_6|0
+a low number|DT JJ NN|BODY_6|0
+an increasing set|DT VBG NN|BODY_7|0
+the new values|DT JJ NNS|BODY_2|0
+a maximum speedup|DT JJ NN|BODY_5|0
+complex sequential operations|JJ JJ NNS|BODY_12|0
+divconq(x,y) split( xs|NN JJ NNS|BODY_28|0
+all the results|PDT DT NNS|BODY_3|0
+dynamic load balancing|JJ NN NN|BODY_9|0
+shared memory systems|VBN NN NNS|BODY_3|0
+all individual subexpressions|DT JJ NNS|BODY_4|0
+only a sketch|RB DT NN|BODY_2|0
+ ,mlist )|NNS NN -RRB-|BODY_23|0
+new critical pairs|JJ JJ NNS|BODY_3:BODY_4|0
+an inline operation|DT NN NN|BODY_15|0
+the corresponding worker|DT JJ NN|BODY_8|0
+the inherent complexity|DT JJ NN|BODY_3|0
+a minimal set|DT JJ NN|BODY_10|0
+any expert knowledge|DT JJ NN|BODY_5|0
+the kmaplek program|DT NN NN|BODY_6|0
+compose partial results|NN JJ NNS|BODY_21|0
+the basic construct|DT NN VB|BODY_2|0
+par-list( input? ,output-)|NN NN NNS|BODY_10|0
+a bidirectional pipe|DT JJ NN|BODY_3|0
+a bigger memory|DT JJR NN|BODY_2|0
+the test set|DT NN NN|BODY_3|0
+a sequential system|DT JJ NN|BODY_4|0
+the actual implementation|DT JJ NN|BODY_7|0
+a generic divide|DT JJ NN|BODY_3|0
+an short example|DT JJ NN|BODY_3|0
+a parallel program|DT JJ NN|BODY_4|0
+section 4.3 )|NN CD -RRB-|BODY_11:BODY_5|0
+many parallel computers|JJ JJ NNS|BODY_2|0
+x consumer( xs|SYM NN NNS|BODY_5|0
+the input list|DT NN NN|BODY_3|0
+the following situation|DT VBG NN|BODY_6|0
+the data type|DT NNS NN|BODY_3|0
+a higher amount|DT JJR NN|BODY_2|0
+an 2568 digits|DT CD NNS|BODY_5|0
+the new polynomials|DT JJ NNS|BODY_4|0
+user manager( work|NN NN NN|BODY_26|0
+f ,x,result ):|NN NN NN|BODY_5|0
+a strand program|DT NN NN|BODY_2|0
+the single elements|DT JJ NNS|BODY_4|0
+the same examples|DT JJ NNS|BODY_7|0
+. -mode create(-)|. NN JJ|BODY_6|0
+no further polynomials|DT JJ NNS|BODY_2|0
+a linear speedup|DT NN NN|BODY_4|0
+the full functionality|DT JJ NN|BODY_3|0
+a linearized form|DT JJ NN|BODY_9|0
+all the terms|DT DT NNS|BODY_2|0
+a minor influence|DT JJ NN|BODY_4|0
+the variable var|DT JJ NN|BODY_3|0
+approximately 0.3 sec|RB CD NN|BODY_9|0
+the gr-obner basis|DT JJ NN|BODY_3|0
+the three elements|DT CD NNS|BODY_9|0
+the main problem|DT JJ NN|BODY_3|0
+the input polynomials|DT NN NNS|BODY_5|0
+a given set|DT VBN NN|BODY_4|0
+the guard operation|DT NN NN|BODY_7|0
+sieve ) process|JJ -RRB- NN|BODY_10|0
+several programing techniques|JJ NN NNS|BODY_3|0
+a new process|DT JJ NN|BODY_6|0
+( split procedure|-LRB- NN NN|BODY_5|0
+the independent tasks|DT JJ NNS|BODY_3|0
+the computed s-polynomials|DT JJ NNS|BODY_4|0
+the whole system|DT JJ NN|BODY_3|0
+several sample programs|JJ NN NNS|BODY_2|0
+the  @fwd|DT JJ NN|BODY_1|0
+the next processor|DT JJ NN|BODY_4|0
+2.1 strand strand|CD NN NN|BODY_1|0
+a different node|DT JJ NN|BODY_3|0
+distributed memory machines|VBN NN NNS|BODY_3|0
+load balancing problems|NN NN NNS|BODY_3|0
+the better performance|DT JJR NN|BODY_1|0
+the evaluated parts|DT JJ NNS|BODY_3|0
+the individual values|DT JJ NNS|BODY_1|0
+the inline call|DT NN NN|BODY_1|0
+the manager responds|DT NN NNS|BODY_1|0
+the subjective performance|DT JJ NN|BODY_1|0
+the known algorithms|DT VBN NNS|BODY_2|0
+one machine architecture|CD NN NN|BODY_8|0
+the computed values|DT JJ NNS|BODY_2|0
+the next input|DT JJ NN|BODY_2|0
+its basis polynomial|PRP$ NN NN|BODY_5|0
+the parallel implementation|DT JJ NN|BODY_1|0
+the result values|DT NN NNS|BODY_1|0
+the single terms|DT JJ NNS|BODY_5|0
+an obvious solution|DT JJ NN|BODY_1|0
+example order kmaplek|NN NN NN|BODY_1|0
+the maple program|DT NN NN|BODY_7|0
+arbitrary maple statements|JJ NN NNS|BODY_18|0
+shared memory machines|VBN NN NNS|BODY_6|0
+a single step|DT JJ NN|BODY_9|0
+such a function|JJ DT NN|BODY_4|0
+the uspensky procedure|DT JJ NN|BODY_1|0
+strand pattern matching|JJ NN NN|BODY_1|0
+the grain size|DT NN NN|BODY_7|0
+empty variables )|JJ NNS -RRB-|BODY_6|0
+the stream )|DT NN -RRB-|BODY_5|0
+par-int( ts, ys|NN NN NNS|BODY_10|0
+the base case|DT NN NN|BODY_1|0
+a manager process|DT NN NN|BODY_6|0
+the inherent parallelism|DT JJ NN|BODY_7|0
+x producer( xs|SYM NN NNS|BODY_10|0
+each intermediate process|DT JJ NN|BODY_1|0
+several user queries|JJ NN NNS|BODY_5|0
+a pascal-like syntax|DT JJ NN|BODY_5|0
+3.2 parallel evaluation|CD RB NN|BODY_1|0
+a base case|DT NN NN|BODY_5|0
+a single expression|DT JJ NN|BODY_5|0
+an efficient parallelization|DT JJ NN|BODY_1|0
+different parallel architectures|JJ NN NNS|BODY_5|0
+the overall method|DT JJ NN|BODY_3|0
+a better efficiency|DT JJR NN|BODY_5|0
+a control process|DT NN NN|BODY_1|0
+rather complicated algorithms|RB JJ NNS|BODY_4|0
+the inline function|DT NN NN|BODY_4|0
+new critical polynomials|JJ JJ NNS|BODY_1|0
+the interested reader|DT JJ NN|BODY_1|0
+all our experiments|DT PRP$ NNS|BODY_1|0
+a given input|DT VBN NN|BODY_5|0
+partially evaluated functions|RB VBN NNS|BODY_3|0
+mically expandable ring|RB JJ NN|BODY_9|0
+a mode declaration|DT NN NN|BODY_1|0
+output bin- dings|NN NNS NNS|BODY_8|0
+an sum expression|DT NN NN|BODY_4|0
+an improved version|DT JJ NN|BODY_1|0
+the resulting polynomials|DT VBG NNS|BODY_1|0
+'s parallel computers|POS JJ NNS|BODY_7|0
+a critical part|DT JJ NN|BODY_1|0
+polynomial ideal theory|NN JJ NN|BODY_3|0
+the required modules|DT VBN NNS|BODY_6|0
+all recursive calls|DT JJ NNS|BODY_9|0
+input and output|NN CC NN|BODY_1|0
+maple expressi- ons|NN NNS NNS|BODY_3|0
+a new query|DT JJ NN|BODY_6|0
+the top layer|DT JJ NN|BODY_1|0
+a finer granularity|DT NN NN|BODY_12|0
+strand and maple|JJ CC JJ|BODY_6|0
+an efficient communication|DT JJ NN|BODY_1|0
+a parallel shell|DT JJ NN|BODY_5|0
+all necessary communication|DT JJ NN|BODY_1|0
+the front end|DT JJ NN|BODY_5|0
+our implementation polynomials|PRP$ NN NNS|BODY_1|0
+the algorithm terminates|DT NN NNS|BODY_4|0
+the input values|DT NN NNS|BODY_1|0
+the user interface|DT NN NN|BODY_1|0
+a parallelized program|DT JJ NN|BODY_5|0
+around 3 seconds|IN CD NNS|BODY_13|0
+the basis polynomials|DT NN NNS|BODY_7|0
+the next process|DT JJ NN|BODY_2|0
+a linear speed-up|DT NN JJ|BODY_5|0
+the biggest libraries|DT JJS NNS|BODY_7|0
+a pipeline algorithm|DT NN NN|BODY_1|0
+an isolating interval|DT JJ NN|BODY_7|0
+maple v kmaplek|NN NN NN|BODY_1|0
+our integration example|PRP$ NN NN|BODY_1|0
+the integration rules|DT NN NNS|BODY_1|0
+the parallel version|DT JJ NN|BODY_1|0
+respect|NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+this|DT|BODY_2:BODY_1|0
+%|NN|BODY_16:BODY_2:BODY_24:BODY_7|0

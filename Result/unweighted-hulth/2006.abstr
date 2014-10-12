@@ -1,0 +1,39 @@
+ct images|JJ NNS|BODY_5:BODY_2|0
+which|WDT|BODY_5:BODY_3|0
+the method|DT NN|BODY_1:BODY_7|0
+nodules and metastases|NNS CC NNS|BODY_3|0
+tumors|NNS|BODY_2|0
+20 patients|CD NNS|BODY_2|0
+ct) scans|JJ NNS|BODY_8|0
+the thorax contour|DT NN NN|BODY_2|0
+computed tomography|JJ NN|BODY_7|0
+clinical purpose|JJ NN|BODY_9|0
+total images|JJ NNS|BODY_3|0
+the detection|DT NN|BODY_6|0
+the problem|DT NN|BODY_5|0
+the lungs|DT NNS|BODY_3|0
+the oncology department|DT NN NN|BODY_4|0
+a computer-aided diagnostic tool|DT JJ JJ NN|BODY_8|0
+lung metastasis detection|NN NN NN|BODY_6|0
+a knowledge-based method|DT JJ NN|BODY_3|0
+a knowledge-based top-down approach|DT JJ JJ NN|BODY_1|0
+a method|DT NN|BODY_1|0
+a three-dimensional analysis|DT JJ NN|BODY_2|0
+a two-dimensional|DT JJ|BODY_1|0
+image interpretation|NN NN|BODY_2|0
+the anatomical structures|DT JJ NNS|BODY_2|0
+la chaux-de-fonds hospital|DT NNS NN|BODY_5|0
+the ribs|DT NNS|BODY_4|0
+the results|DT NNS|BODY_6|0
+a solution|DT NN|BODY_4|0
+a radiologist and radiotherapist|DT NN CC NN|BODY_4|0
+the manner|DT NN|BODY_2|0
+the lung extremities|DT NN NNS|BODY_4|0
+two types|CD NNS|BODY_1|0
+the thorax|DT NN|BODY_9|0
+the system|DT NN|BODY_1|0
+the algorithm|DT NN|BODY_1|0
+an oncology department|DT NN NN|BODY_10|0
+metastases|NNS|BODY_7|0
+lung metastasis detection and visualization|NN NN NN CC NN|BODY_1|0
+radiotherapy|NN|BODY_6|0

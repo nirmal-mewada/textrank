@@ -1,0 +1,1098 @@
+controlled grammatic ambiguity|VBN JJ NN|TITLE_1:BODY_1|0
+which|WDT|BODY_12:BODY_16:BODY_15:ABSTRACT_14:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_19:BODY_7:BODY_8:BODY_9|0
+the resulting parser|DT VBG NN|ABSTRACT_2:BODY_1:BODY_2|0
+a finite set|DT JJ NN|ABSTRACT_3:BODY_4|0
+the parser generation|DT NN NN|BODY_5:ABSTRACT_2|0
+partial parse trees|JJ JJ NNS|BODY_5:ABSTRACT_5|0
+the following problems|DT VBG NNS|ABSTRACT_6:BODY_3|0
+a new approach|DT JJ NN|BODY_1:ABSTRACT_1|0
+ambiguous grammars|JJ NNS|BODY_6:BODY_5:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|2
+the grammar|DT NN|BODY_6:BODY_5:ABSTRACT_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:ABSTRACT_9|0
+that|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_11:BODY_13:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|0
+linear time|JJ NN|BODY_12:BODY_16:ABSTRACT_4:ABSTRACT_15:BODY_3:BODY_4:BODY_7:BODY_8|1
+the ambiguity|DT NN|BODY_5:ABSTRACT_8:BODY_2:BODY_1:BODY_14:BODY_10:BODY_4:BODY_7:BODY_9|0
+a parser|DT NN|BODY_2:BODY_1:ABSTRACT_3:BODY_7:ABSTRACT_10|0
+the user|DT NN|BODY_2:BODY_3:ABSTRACT_1|0
+large classes|JJ NNS|BODY_6:BODY_5:BODY_3:BODY_4:ABSTRACT_7:BODY_7|0
+context-free grammars|JJ NNS|ABSTRACT_3:BODY_3|0
+this approach|DT NN|BODY_5:ABSTRACT_4|0
+the sentences|DT NNS|ABSTRACT_6:BODY_7|0
+all input|DT NN|ABSTRACT_5:BODY_3|0
+some specific parse trees|DT JJ JJ NNS|ABSTRACT_5|0
+all sentences and terminates|DT NNS CC NNS|ABSTRACT_3|0
+the structural ambiguity|DT JJ NN|ABSTRACT_2|0
+each pair|DT NN|ABSTRACT_6|0
+all sentences|DT NNS|ABSTRACT_12|0
+we|PRP|BODY_12:BODY_11:BODY_16:BODY_18:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|2
+complete linear time parsers|JJ NN NN NNS|BODY_3:BODY_7:BODY_8|1
+a somewhat related characterization|DT RB JJ NN|BODY_1|1
+the normal sub-tree relation|DT JJ JJ NN|BODY_4|1
+the sub-parse tree relation|DT JJ NN NN|BODY_2|1
+the resulting deterministic parser|DT VBG JJ NN|BODY_6|1
+some very general techniques|DT RB JJ NNS|BODY_3|1
+limited but important classes|JJ CC JJ NNS|BODY_5|1
+u ( 4 )|NN -LRB- CD -RRB-|BODY_6:BODY_11:BODY_13:BODY_9|0
+grammar ( 4 )|NN -LRB- CD -RRB-|BODY_2:BODY_3|0
+a finite set e|DT JJ NN NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+a parse tree t|DT NN NN NN|BODY_5:BODY_11:BODY_2:BODY_1|0
+the p-canonical parse trees|DT JJ JJ NNS|BODY_5:BODY_3|0
+a ( 4 )|DT -LRB- CD -RRB-|BODY_6:BODY_3:BODY_10|0
+controlled grammatic ambiguity \delta|VBN JJ NN NN|BODY_1|0
+e ( 3 )|NN -LRB- CD -RRB-|BODY_6:BODY_3|0
+a complete linear time|DT JJ NN NN|BODY_6:BODY_5:BODY_13|0
+a strict partial ordering|DT JJ JJ NN|BODY_5:BODY_2:BODY_10|0
+a parse tree pair|DT NN NN NN|BODY_1:BODY_3|0
+1 ) technique [knuth|CD -RRB- NN NN|BODY_6:BODY_4|0
+p ( 4 )|NN -LRB- CD -RRB-|BODY_2|0
+the danish research council|DT JJ NN NN|BODY_6|0
+the canonical parse trees|DT JJ JJ NNS|BODY_6:BODY_1:BODY_4|0
+p ( 1 )|NN -LRB- CD -RRB-|BODY_14:BODY_4|0
+the minimal parse trees|DT JJ JJ NNS|BODY_5:BODY_8|0
+a linear time parser|DT JJ NN NN|BODY_6:BODY_21:BODY_2|0
+both incomplete and nondeterministic|DT JJ CC JJ|BODY_2|0
+init(x ) ;ff$ )|NN -RRB- NN -RRB-|BODY_2|0
+some set e 0|DT NN NN CD|BODY_1|0
+oxford university and dimacs|NN NN CC NNS|BODY_4|0
+the acm copyright notice|DT NN NN NN|BODY_7|0
+the different parse trees|DT JJ NN NNS|BODY_6|0
+) init state action|-RRB- NN NN NN|BODY_12|0
+any parse tree pair|DT NN NN NN|BODY_2|0
+a non-leaf node n|DT JJ NN NN|BODY_3|0
+the same parse tree|DT JJ NN NN|BODY_4:BODY_10|0
+the equation typesetting language|DT NN NN NN|BODY_8|0
+the following parse tree|DT VBG NN NN|BODY_6|0
+the ith non- leaf|DT JJS JJ NN|BODY_14|0
+the obtained parse tree|DT VBN JJ NN|BODY_15|0
+the last three pairs|DT JJ CD NNS|BODY_13|0
+( 1 ) l!ll|-LRB- CD -RRB- NN|BODY_3|0
+grammar ( 1 )|NN -LRB- CD -RRB-|BODY_8|0
+a real world grammar|DT JJ NN NN|BODY_7|0
+such a concise characterization|JJ DT NN NN|BODY_2|0
+the presentation acm transactions|DT NN NN NNS|BODY_7|0
+a canonical parse tree|DT JJ NN NN|BODY_3|0
+a the universal clr(|DT DT JJ NN|BODY_5|0
+hidden ambiguity and incompleteness|JJ NN CC NN|BODY_9|0
+a sub-tree but not|DT JJ CC RB|BODY_3|0
+minimal non-canonical parse trees|JJ JJ JJ NNS|BODY_4|0
+a very large effort|DT RB JJ NN|BODY_5|0
+the production e!e e.|DT NN NN NN|BODY_12|0
+the dangling else construction|DT JJ JJ NN|BODY_2|0
+the first non-canonical action|DT JJ JJ NN|BODY_5|0
+reductions-the very same heuristic|DT RB JJ NN|BODY_5|0
+the lr( 1 )|DT NN CD -RRB-|BODY_5|0
+the no-junk  requirement|DT JJ NN NN|BODY_3|0
+lr( 1 ) parsers|NN CD -RRB- NNS|BODY_2:BODY_3|0
+some adequate first coordinates|DT JJ JJ NNS|BODY_6|0
+the simple rewriting rules|DT NN NN NNS|BODY_2|0
+the highest acm transactions|DT JJS NN NNS|BODY_7|0
+the traditional disambiguating rules|DT JJ NN NNS|BODY_3|0
+the corresponding first coordinate|DT JJ JJ VBP|BODY_3|0
+both sub and sup|DT NN CC NN|BODY_4|0
+a a z z|DT DT FW FW|BODY_10|0
+the already mentioned guarantees|DT RB VBN NNS|BODY_10|0
+blikle and thorup [1990|NN CC NN NN|BODY_5:BODY_1|0
+the canonical lr technique|DT JJ NN NN|BODY_3|0
+all the parse trees|DT DT JJ NNS|BODY_3|0
+appendix e addresses problem|VB NN NNS NN|BODY_4|0
+other more specialized techniques|JJ JJR JJ NNS|BODY_2|0
+the same derived produc|DT JJ VBN NN|BODY_4|0
+the original non-deterministic parser|DT JJ JJ NN|BODY_7|0
+the now standard approach|DT RB JJ NN|BODY_5|0
+derived productions and productions|VBD NNS CC NNS|BODY_3|0
+appendix f addresses problem|VB NN NNS NN|BODY_6|0
+the finite non-deterministic parsers|DT NN JJ NNS|BODY_4|0
+production e!e sube supe|NN NN NN NN|BODY_8|0
+the universal parser u|DT JJ NN NN|BODY_4|0
+the theory and algorithms|DT NN CC NNS|BODY_7|0
+the actual parsing technique|DT JJ NN NN|BODY_3|0
+the danish research academy|DT JJ NN NN|BODY_7|0
+a and frontier b|DT CC NN NN|BODY_6|0
+a parse tree u|DT NN NN NN|BODY_4|0
+pennello and deremer 1979]|NN CC NN NNS|BODY_7|0
+all the above problems|PDT DT JJ NNS|BODY_1|0
+the trivial parse tree|DT JJ NN NN|BODY_6|0
+a f f f|DT NN NN NN|BODY_4|0
+the necessary second coordinates|DT JJ JJ NNS|BODY_6|0
+a simple combinatorial test|DT JJ JJ NN|BODY_4|0
+the the parse trees|DT DT JJ NNS|BODY_4|0
+e ( 4 )|NN -LRB- CD -RRB-|BODY_7|0
+his own rewriting rules|PRP$ JJ NN NNS|BODY_4|0
+ll and lr parsers|NN CC NN NNS|BODY_3|0
+the resolved parser p|DT VBN NN NN|BODY_4|0
+a good ll parser|DT JJ NN NN|BODY_6|0
+the  special case|DT NNP JJ NN|BODY_7|0
+an ordered rooted tree|DT JJ JJ NN|BODY_2|0
+the following notational convention|DT VBG JJ NN|BODY_2|0
+the input production b|DT NN NN NN|BODY_13|0
+a pair ( x|DT NN -LRB- SYM|BODY_6|0
+a p-canonical parse tree|DT JJ JJ NN|BODY_3|0
+no finite prioritizing set|DT JJ JJ NN|BODY_8:BODY_9|0
+the generated action table|DT VBN NN NN|BODY_3|0
+possibly empty , string|RB JJ , NN|BODY_14|0
+no infinite descending sequence|DT JJ VBG NN|BODY_5|0
+the following parse trees|DT VBG JJ NNS|BODY_4|0
+all the leftside symbols|DT DT JJ NNS|BODY_2|0
+a user-supplied partial ordering|DT JJ JJ VBG|BODY_8|0
+state action goto l|NN NN NN NN|BODY_6|0
+the following non-deterministic lr(|DT VBG JJ NN|BODY_3:BODY_4|0
+soisalon-soininen and tarhio [1988]|NN CC NN NN|BODY_2|0
+each parse tree pair|DT NN NN NN|BODY_3|0
+a nonterminal ( as|DT JJ -LRB- IN|BODY_5|0
+an even better solution|DT RB JJR NN|BODY_6|0
+no such matching pair|DT JJ NN NN|BODY_2|0
+an extra symbol $|DT JJ NN $|BODY_5|0
+two identical parse trees|CD JJ NN NNS|BODY_2|0
+the non-trivial parse trees|DT JJ NN NNS|BODY_9|0
+the parse tree pairs|DT NN NN NNS|BODY_5|0
+a minimal such set|DT JJ JJ NN|BODY_4|0
+billot and lang [1989]|NN CC NN NN|BODY_19|0
+the common node n|DT JJ NN NN|BODY_4|0
+prioritizes a parser p|RB DT NN NN|BODY_3|0
+our universal parser u|PRP$ JJ NN NN|BODY_4|0
+the single grammar symbol|DT JJ NN NN|BODY_4|0
+22 \delta mikkel thorup|CD NNP NN NN|BODY_1|0
+the two parse trees|DT CD NN NNS|BODY_5|0
+the least partial ordering|DT JJS JJ NN|BODY_3|0
+no rewriting rule (u|DT NN NN NNS|BODY_7|0
+the possibly infinite set|DT RB JJ NN|BODY_4|0
+an alternative good resolution|DT JJ JJ NN|BODY_1|0
+the finite universal parser|DT JJ JJ NN|BODY_7|0
+these two preliminary sections|DT CD JJ NNS|BODY_1|0
+more than one action|JJR IN CD NN|BODY_6|0
+the above conflict resolution|DT JJ NN NN|BODY_5|0
+a finite prioritizing set|DT JJ JJ NN|BODY_4|0
+a given second coordinate|DT VBN JJ VBP|BODY_6|0
+the most prominent example|DT RBS JJ NN|BODY_1|0
+some o-minimal determinization p|DT JJ NN NN|BODY_5|0
+' out ) oe|POS RP -RRB- NN|BODY_3|0
+the generated non-deterministic parser|DT VBN JJ NN|BODY_1|0
+some p-canonical parse tree|DT JJ NN NN|BODY_4|0
+all the second coordinates|PDT DT JJ NNS|BODY_5|0
+the root acm transactions|DT NN NN NNS|BODY_1|0
+no canonical parse tree|DT JJ NN NN|BODY_11|0
+more examples and discussions|JJR NNS CC NNS|BODY_7|0
+incremental parsing and evaluation|JJ NN CC NN|BODY_5|0
+a universal parser ordering|DT JJ NN VBG|BODY_6|0
+more care and terminology|JJR NN CC NN|BODY_2|0
+a derived production )|DT VBN NN -RRB-|BODY_12|0
+the very special properties|DT RB JJ NNS|BODY_1|0
+his seminal paper [knuth|PRP$ JJ NN NN|BODY_2|0
+our grammar ( 2|PRP$ NN -LRB- CD|BODY_1|0
+a dangling else construction|DT JJ JJ NN|BODY_5|0
+a prioritizing set e|DT JJ NN NN|BODY_1|0
+all p-canonical parse trees|DT JJ JJ NNS|BODY_3|0
+the triple ( e|DT JJ -LRB- NN|BODY_1|0
+some specific start symbol|DT JJ NN NN|BODY_20|0
+o ( 4 )|IN -LRB- CD -RRB-|BODY_3|0
+the intended semantics )|DT JJ NNS -RRB-|BODY_17|0
+grammar ( 6 )|NN -LRB- CD -RRB-|BODY_5|0
+no o-minimal determinization p|DT JJ NN NN|BODY_1|0
+such a matching pair|JJ DT JJ NN|BODY_1|0
+the above rewriting rules|DT JJ NN NNS|BODY_1|0
+the grammar ( 2|DT NN -LRB- CD|BODY_1|0
+a more serious complaint|DT RBR JJ NN|BODY_1|0
+a unique minimal parse|DT JJ JJ NN|BODY_3|0
+section 3 reviews parsing|NN CD NNS NN|BODY_8|0
+our more algebraic description|PRP$ JJR JJ NN|BODY_1|0
+no proper sub-parse tree|DT JJ JJ NN|BODY_9|0
+the trivial parse trees|DT JJ JJ NNS|BODY_7|0
+a production and t|DT NN CC NN|BODY_1|0
+a sub-parse tree relation|DT JJ NN NN|BODY_1|0
+several nice ambiguous constructs|JJ JJ JJ NNS|BODY_7|0
+hence ( ii )|RB -LRB- NNS -RRB-|BODY_1|0
+our special case production|PRP$ JJ NN NN|BODY_1|0
+parse tree pairs|DT NN NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|2
+parse trees|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the same fonts|DT JJ NNS|BODY_6|1
+theoretically important material|RB JJ NN|BODY_7|1
+the page references|DT NN NNS|BODY_3|1
+the published version|DT VBN NN|BODY_2|1
+the production structure|DT NN NN|BODY_5|1
+an electronic appendix|DT JJ NN|BODY_8|1
+finite prioritizing sets|JJ JJ NNS|BODY_6|1
+empty prioritizing sets|JJ JJ NNS|BODY_9|1
+the theoretical result|DT JJ NN|BODY_1|1
+there|EX|BODY_5:BODY_11:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+the action table|DT NN NN|BODY_12:BODY_6:BODY_11:BODY_3:BODY_14:BODY_10:BODY_4|0
+a parse tree|DT NN NN|BODY_5:BODY_13:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:BODY_8|0
+a derived production|DT VBN NN|BODY_6:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the parse tree|DT JJ NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+any parse tree|DT NN NN|BODY_6:BODY_2:BODY_3:BODY_9|0
+the input production|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+all parse trees|DT JJ NNS|BODY_5:BODY_10:BODY_4:BODY_7:BODY_8|0
+a a z|DT DT FW|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the parse trees|DT JJ NNS|BODY_5:BODY_2:BODY_3|0
+a determinization p|DT NN NN|BODY_1:BODY_2:BODY_3:BODY_9|0
+the start symbol|DT NN NN|BODY_6:BODY_3:BODY_4:BODY_7|0
+( 4 )|-LRB- CD -RRB-|BODY_5:BODY_1:BODY_4:BODY_7:BODY_8|0
+the second coordinates|DT JJ NNS|BODY_6:BODY_11:BODY_4|0
+( ff i|-LRB- NN NN|BODY_2:BODY_7:BODY_9|0
+1 ) parser|CD -RRB- NN|BODY_6:BODY_5:BODY_4:BODY_7|0
+the parser p|DT NN NN|BODY_5:BODY_13:BODY_3:BODY_7|0
+our rewriting rules|PRP$ NN NNS|BODY_2|0
+main theorem 5.1|JJ NN CD|BODY_6:BODY_1:BODY_4:BODY_7|0
+all grammar symbols|DT JJ NNS|BODY_2:BODY_3:BODY_4|0
+the generated parsers|DT VBN NNS|BODY_5:BODY_3:BODY_10|0
+an input production|DT NN NN|BODY_5:BODY_2:BODY_3|0
+a grammar symbol|DT JJ NN|BODY_2:BODY_4:BODY_8|0
+the grammar symbols|DT JJ NNS|BODY_1:BODY_8|0
+a @ f|DT IN NN|BODY_5:BODY_4:BODY_8|0
+the current configuration|DT JJ NN|BODY_6:BODY_5:BODY_3|0
+the derived production|DT VBN NN|BODY_6:BODY_1:BODY_3:BODY_8|0
+a set e|DT NN NN|BODY_1:BODY_2:BODY_3|0
+the main result|DT JJ NN|BODY_2:BODY_3|0
+the resolved parser|DT VBN NN|BODY_6:BODY_3|0
+an ambiguous grammar|DT JJ NN|BODY_2|0
+the input buffer|DT NN NN|BODY_5:BODY_3|0
+linear time parsers|JJ NN NNS|BODY_5:BODY_3:BODY_7|0
+a t e|DT NN NN|BODY_3|0
+the sub-parse trees|DT JJ NNS|BODY_2:BODY_9|0
+e!e sube supe|JJ NN NN|BODY_6:BODY_3|0
+( 3 )|-LRB- CD -RRB-|BODY_5:BODY_8|0
+the set e|DT NN NN|BODY_5:BODY_3|0
+the set m|DT NN NN|BODY_3|0
+j j@ @|RB JJ NN|BODY_6:BODY_5|0
+each entry e|DT NN NN|BODY_13:BODY_3:BODY_7|0
+terminals and non-terminals|NNS CC NNS|BODY_3|0
+the following definitions|DT JJ NNS|BODY_4|0
+reused grammar fragments|JJ NN NNS|BODY_4|0
+a nato grant|DT NN NN|BODY_5|0
+error recovery [ghezzi|NN NN NN|BODY_5|0
+a sentential form|DT JJ NN|BODY_2:BODY_3|0
+a semi-automatic way|DT JJ NN|BODY_3|0
+a general outline|DT JJ NN|BODY_2:BODY_4|0
+soisalon-soininen [1990 ]|JJ NN NN|BODY_12|0
+two parse trees|CD JJ NNS|BODY_2:BODY_4|0
+an adequate determinization|DT JJ NN|BODY_3|0
+a standard text|DT JJ NN|BODY_13|0
+the generated parser|DT VBN NN|BODY_2:BODY_9|0
+blikle , tarlecki|NN , NN|BODY_6:BODY_2|0
+equivalent parse trees|JJ NN NNS|BODY_2:BODY_3|0
+a sub-parse tree|DT JJ NN|BODY_4:BODY_7|0
+the exact statement|DT JJ NN|BODY_2|0
+a grammar g|DT NN NN|BODY_2:BODY_1|0
+the root symbol|DT NN NN|BODY_5:BODY_10|0
+p and e|NN CC NN|BODY_6:BODY_2|0
+these new classes|DT JJ NNS|BODY_2|0
+strict partial ordering|JJ JJ NN|BODY_9|0
+x ! ff|NNP . NN|BODY_5:BODY_4:BODY_8|0
+the following conditions|DT JJ NNS|BODY_3:BODY_8|0
+only possible due|RB JJ JJ|BODY_2|0
+t 0 1|NN CD CD|BODY_5:BODY_7:BODY_9|0
+more ambiguity resolutions|RBR JJ NNS|BODY_3|0
+a simple example|DT JJ NN|BODY_2:BODY_1|0
+the same sentence|DT JJ NN|BODY_5:BODY_11:BODY_8|0
+the first coordinates|DT JJ NNS|BODY_5:BODY_4|0
+billot and lang|NN CC NN|BODY_3|0
+an empty string|DT JJ NN|BODY_2|0
+semantically irrelevant ambiguity|RB JJ NN|BODY_2|0
+t and u|NN CC NN|BODY_2|0
+the disambiguated parser |DT JJ NN|BODY_1|0
+the generally reserved|DT RB VBN|BODY_1|0
+the unique parsings|DT JJ NNS|BODY_1|0
+direct commercial advantage|JJ JJ NN|BODY_6|0
+some technical remarks|DT JJ NNS|BODY_5|0
+some disambiguating rules|DT JJ NNS|BODY_4:BODY_7|0
+modula-2 [ wirth|JJ NN NN|BODY_11|0
+only acm transactions|RB JJ NNS|BODY_3|0
+0 parse trees|CD NN NNS|BODY_8|0
+all or part|DT CC NN|BODY_3|0
+the current paper|DT JJ NN|BODY_2|0
+a given sentence|DT VBN NN|BODY_7|0
+the canonical lr(|DT JJ NN|BODY_3|0
+shifting and reducing|VBG CC VBG|BODY_5|0
+the universal parser|DT JJ NN|BODY_5|0
+d solves problem|VBN NNS NN|BODY_2|0
+such rewriting rules|JJ VBG NNS|BODY_2|0
+the same grammar|DT JJ NN|BODY_7|0
+an incomplete parser|DT JJ NN|BODY_7|0
+the canonical ll(|DT JJ NN|BODY_2|0
+several language designers|JJ NN NNS|BODY_6|0
+the different actions|DT JJ NNS|BODY_2|0
+an associative operation|DT JJ NN|BODY_11|0
+the same root|DT JJ NN|BODY_6:BODY_8|0
+the set r|DT NN NN|BODY_2|0
+a large grammar|DT JJ NN|BODY_8|0
+ canonical lr|DT JJ NN|BODY_9|0
+the structural am|DT JJ VBP|BODY_10|0
+a parser p|DT NN NN|BODY_4:BODY_7|0
+its second coordinates|PRP$ JJ NNS|BODY_3|0
+the desired well-foundedness|DT VBN NN|BODY_4|0
+exactly the set|RB DT NN|BODY_4:BODY_7|0
+the two parsings|DT CD NNS|BODY_4|0
+his own priorities|PRP$ JJ NNS|BODY_4|0
+our prioritizing sets|PRP$ JJ NNS|BODY_8|0
+canonical parse trees|JJ JJ NNS|BODY_6:BODY_7|0
+a larger context|DT JJR NN|BODY_5|0
+a resolved parser|DT VBN NN|BODY_3|0
+large parse trees|JJ JJ NNS|BODY_5|0
+the no-junk property|DT JJ NN|BODY_7|0
+a programming language|DT NN NN|BODY_6|0
+an exact algorithm|DT JJ NN|BODY_4|0
+the single son|DT JJ NN|BODY_3|0
+2 ) technique|CD -RRB- NN|BODY_3|0
+rooting u i|NN PRP NN|BODY_13|0
+an empty sequences|DT JJ NNS|BODY_5|0
+the input symbol|DT NN NN|BODY_6:BODY_8|0
+a special role|DT JJ NN|BODY_2|0
+the lalr(k )|DT NN -RRB-|BODY_5|0
+the first configuration|DT JJ NN|BODY_2|0
+grammar ( 2|NN -LRB- CD|BODY_5:BODY_2|0
+t 0 substitution|NN CD NN|BODY_2|0
+some precise definitions|DT JJ NNS|BODY_6|0
+the above grammar|DT JJ NN|BODY_2|0
+the input symbols|DT NN NNS|BODY_2|0
+a matching pair|DT JJ NN|BODY_4|0
+only exponential bounds|RB JJ NNS|BODY_2|0
+a string ff|DT NN NN|BODY_4:BODY_9|0
+some parse tree|DT JJ NN|BODY_12:BODY_7|0
+[r ) oe|NN -RRB- NN|BODY_6:BODY_5|0
+just for sentences|RB IN NNS|BODY_5|0
+a problematic grammar|DT JJ NN|BODY_2|0
+any derived production|DT VBN NN|BODY_3|0
+'s heuristic [|POS JJ NN|BODY_4|0
+the following parsing|DT VBG NN|BODY_3|0
+only one conflict|JJ CD NN|BODY_9|0
+trivially ( ii|RB -LRB- NNS|BODY_5|0
+short the paper|JJ DT NN|BODY_2|0
+more dynamic systems|JJR JJ NNS|BODY_5|0
+x ) fi)|SYM -RRB- NN|BODY_4|0
+grammar ( 5|NN -LRB- CD|BODY_8|0
+( ( 7|-LRB- -LRB- CD|BODY_12|0
+an acm transactions|DT JJ NNS|BODY_9|0
+a shortened version|DT JJ NN|BODY_2|0
+the ll(k )|DT NN -RRB-|BODY_4|0
+-a finite set|JJ JJ NN|BODY_4|0
+completeness and termination|NN CC NN|BODY_11|0
+, and then|, CC RB|BODY_7|0
+an internal node|DT JJ NN|BODY_3|0
+[ r) oe|JJ NN NN|BODY_3:BODY_9|0
+verify this completeness|RB DT NN|BODY_2|0
+n including n|RB VBG RB|BODY_9|0
+a better base|DT JJR NN|BODY_4|0
+a dangling else|DT JJ JJ|BODY_4|0
+p-canonical parse trees|JJ JJ NNS|BODY_5|0
+no infinite sequence|DT JJ NN|BODY_7|0
+the nearest preceding |DT JJS VBG|BODY_12|0
+( 6 )|-LRB- CD -RRB-|BODY_4|0
+a formal language|DT JJ NN|BODY_4|0
+u ( 2|NNP -LRB- CD|BODY_2|0
+some specific parser|DT JJ NN|BODY_2:BODY_7|0
+these rewriting rules|DT NN NNS|BODY_12|0
+the prelimary sections|DT JJ NNS|BODY_3|0
+the ad-hoc rule|DT JJ NN|BODY_10|0
+a key concept|DT JJ NN|BODY_7|0
+document style acmtrans|NN NN NNS|BODY_4|0
+this homemade reprent|DT NN NN|BODY_1|0
+our automatic verification|PRP$ JJ NN|BODY_8|0
+a precise definition|DT JJ NN|BODY_2|0
+the notational difference|DT JJ NN|BODY_2|0
+the deliberate use|DT JJ NN|BODY_3|0
+the semantic definition|DT JJ NN|BODY_3|0
+an ordered pair|DT JJ NN|BODY_2|0
+the last production|DT JJ NN|BODY_2|0
+the subsequent configuration|DT JJ NN|BODY_8|0
+only future experience|RB JJ NN|BODY_5|0
+the preliminary definitions|DT JJ NNS|BODY_6|0
+an exact description|DT JJ NN|BODY_3|0
+the ' p|DT `` NN|BODY_6|0
+the first production|DT JJ NN|BODY_6|0
+parse tree t|JJ NN NN|BODY_4|0
+. 251- 254]|. CD CD|BODY_5|0
+the modified version|DT VBN NN|BODY_2|0
+their own languages|PRP$ JJ NNS|BODY_11|0
+various anonymous referees|JJ JJ NNS|BODY_17|0
+the following theorem|DT VBG NN|BODY_3|0
+the normal priorities|DT JJ NNS|BODY_4|0
+grammars and parsing|NNS CC NN|BODY_14|0
+possibly empty strings|RB JJ NNS|BODY_9|0
+the basic notion|DT JJ NN|BODY_4|0
+that e oe|IN NN NN|BODY_8|0
+the table init|DT NN NN|BODY_16|0
+e 0 out|NN CD IN|BODY_2|0
+an e oe|DT NN NN|BODY_3|0
+u ) 2|NNP -RRB- CD|BODY_2|0
+the following set|DT VBG NN|BODY_7|0
+e prioritizes p|NN NNS NN|BODY_5:BODY_8|0
+r @ f|NN NN NN|BODY_7|0
+a general heuristic|DT JJ NN|BODY_2|0
+ shared forests|JJ VBN NNS|BODY_3|0
+! ffy fl|. JJ NN|BODY_3|0
+the most general|DT RBS JJ|BODY_2|0
+no explicit test|DT JJ NN|BODY_3|0
+the following components|DT VBG NNS|BODY_3|0
+the ( e|DT -LRB- NN|BODY_2|0
+the correct semantics|DT JJ NNS|BODY_6|0
+o ( 4|IN -LRB- CD|BODY_4|0
+the first action|DT JJ NN|BODY_6:BODY_7|0
+a time linear|DT NN JJ|BODY_5|0
+also finite sets|RB JJ NNS|BODY_8|0
+the traditional notion|DT JJ NN|BODY_2|0
+now three possibilities|RB CD NNS|BODY_2|0
+all later examples|DT JJ NNS|BODY_4|0
+only the productions|RB DT NNS|BODY_5|0
+all the details|PDT DT NNS|BODY_6|0
+any desired set|DT VBN NN|BODY_6|0
+) but not|-RRB- CC RB|BODY_5|0
+parse tree relation|JJ NN NN|BODY_3|0
+the traditional approach|DT JJ NN|BODY_2|0
+such a grammar|JJ DT NN|BODY_3|0
+no other cases|DT JJ NNS|BODY_12|0
+a correct parser|DT JJ NN|BODY_3|0
+a disambiguating rule|DT JJ NN|BODY_4|0
+an exact solution|DT JJ NN|BODY_5|0
+some other reason|DT JJ NN|BODY_6|0
+section 6 discusses|NN CD NNS|BODY_1|0
+the other techniques|DT JJ NNS|BODY_5|0
+a significant improvement|DT JJ NN|BODY_3|0
+the following grammar|DT VBG NN|BODY_1|0
+the rewriting rules|DT NN NNS|BODY_6|0
+'s canonical lr(|POS JJ NN|BODY_5|0
+some convenient notions|DT JJ NNS|BODY_8|0
+the technical report|DT JJ NN|BODY_1|0
+a final segment|DT JJ NN|BODY_6|0
+a single son|DT JJ NN|BODY_2|0
+a good resolution|DT JJ NN|BODY_7|0
+a and b|DT CC NN|BODY_6|0
+incompleteness or incorrectness|NN CC NN|BODY_7|0
+the basic idea|DT JJ NN|BODY_1|0
+)-minimal parse trees|JJ JJ NNS|BODY_4|0
+the following property|DT JJ NN|BODY_6|0
+b ) 2|NN -RRB- CD|BODY_4|0
+the other hand|DT JJ NN|BODY_1|0
+the non-deterministic parser|DT JJ NN|BODY_1|0
+the most beautiful|DT RBS JJ|BODY_6|0
+our set e|PRP$ NN NN|BODY_2|0
+whose single node|WP$ JJ NN|BODY_7|0
+local ambiguity corresponds|JJ NN NNS|BODY_15|0
+no input production|DT NN NN|BODY_15|0
+the non-deterministic parsers|DT JJ NNS|BODY_3|0
+some more detail|DT JJR NN|BODY_4|0
+a fixed priority|DT VBN NN|BODY_5|0
+prioritizes a parser|RB DT NN|BODY_3|0
+init state actions|NN NN NNS|BODY_5|0
+( ii )|-LRB- NNS -RRB-|BODY_2|0
+a constructor pt|DT NN NN|BODY_2|0
+a major role|DT JJ NN|BODY_3|0
+the basic concepts|DT JJ NNS|BODY_2|0
+an appropriate parsing|DT JJ NN|BODY_4|0
+the second component|DT JJ NN|BODY_4|0
+a canonical action|DT JJ NN|BODY_17|0
+no grammar symbols|DT JJ NNS|BODY_3|0
+all matched determinizations|DT VBN NNS|BODY_2|0
+that a! bc|DT NN NN|BODY_3|0
+a symbol x|DT NN NN|BODY_2|0
+the entry e|DT NN NN|BODY_5|0
+that p e|IN NN NN|BODY_9|0
+) u-prioritizes p.|-RRB- NNS NN|BODY_16|0
+each grammar symbol|DT NN NN|BODY_14|0
+a single symbol|DT JJ NN|BODY_11|0
+each other if|DT JJ IN|BODY_7|0
+terminals and nonterminals|NNS CC NNS|BODY_2|0
+a non- node|DT JJ NN|BODY_9|0
+simple parse tree|JJ NN NN|BODY_6|0
+minimal given p|JJ VBN NN|BODY_4|0
+an accepting parsing|DT VBG NN|BODY_11|0
+the full languages|DT JJ NNS|BODY_11|0
+the leaf n|DT NN RB|BODY_5|0
+a set t|DT NN NN|BODY_6|0
+the \lambdas )|DT NNS -RRB-|BODY_8|0
+strict partial orderings|JJ JJ NNS|BODY_6|0
+the exact way|DT JJ NN|BODY_1|0
+an ordered sequence|DT VBN NN|BODY_4|0
+two different maximal|CD JJ NN|BODY_1|0
+the above outlines|DT JJ NNS|BODY_1|0
+the non- leaves|DT NNS NNS|BODY_11|0
+the practical result|DT JJ NN|BODY_1|0
+irrelevant ambiguity exhibits|JJ NN NNS|BODY_1|0
+the parser construction|DT NN NN|BODY_5|0
+the running time|DT VBG NN|BODY_4|0
+a specification language|DT NN NN|BODY_7|0
+the parsing freedom|DT NN NN|BODY_1|0
+our ambiguity resolution|PRP$ NN NN|BODY_1|0
+t ( 2|NN -LRB- CD|BODY_5|0
+their unambiguous counterparts|PRP$ JJ NNS|BODY_12|0
+the input priorities|DT NN NNS|BODY_6|0
+the first component|DT JJ NN|BODY_1|0
+a complete determinization|DT JJ NN|BODY_7|0
+each derived production|DT VBN NN|BODY_4|0
+several different authors|JJ JJ NNS|BODY_6|0
+the original formulation|DT JJ NN|BODY_4|0
+pt( x )|JJ SYM -RRB-|BODY_4|0
+our final step|PRP$ JJ NN|BODY_1|0
+1024-1050 . priority|CD . NN|BODY_4|0
+the universal parsers|DT JJ NNS|BODY_1|0
+a p-canonical equivalent|DT JJ NN|BODY_3|0
+each parse tree|DT NN NN|BODY_1|0
+our parse tree|PRP$ NN NN|BODY_1|0
+action table action|NN NN NN|BODY_13|0
+t 6= u|NN NN PRP|BODY_4|0
+their p-canonical equivalents|PRP$ JJ NNS|BODY_6|0
+a a @|DT DT NN|BODY_6|0
+such a declaration|PDT DT NN|BODY_1|0
+derived productions )|VBN NNS -RRB-|BODY_8|0
+the parser terminates|DT NN NNS|BODY_2|0
+the next configurations|DT JJ NNS|BODY_1|0
+such a parser|JJ DT NN|BODY_1|0
+the declaration %left|DT NN NN|BODY_3|0
+the next configuration|DT JJ NN|BODY_1|0
+an obvious application|DT JJ NN|BODY_1|0
+terminals or non-terminals|NNS CC NNS|BODY_4|0
+the compiler experts|DT NN NNS|BODY_1|0
+the essential problem|DT JJ NN|BODY_1|0
+the same precedence|DT JJ NN|BODY_6|0
+the underlying grammar|DT JJ NN|BODY_8|0
+8. algorithmic outline|DT JJ NN|BODY_1|0
+the traditional techniques|DT JJ NNS|BODY_1|0
+the same frontier|DT JJ NN|BODY_7:BODY_9|0
+all natural grammars|DT JJ NNS|BODY_3|0
+a universal parser|DT JJ NN|BODY_1|0
+an invalid action|DT JJ NN|BODY_18|0
+only a leaf|RB DT NN|BODY_1|0
+only one node|RB CD NN|BODY_3|0
+the general labeling|DT JJ NN|BODY_1|0
+the prioritizing set|DT JJ NN|BODY_12|0
+finite prioritzing sets|JJ JJ NNS|BODY_6|0
+some second coordinate|DT NN VB|BODY_8|0
+a complete parser|DT JJ NN|BODY_6|0
+any prioritizing set|DT JJ NN|BODY_1|0
+the whole grammar|DT JJ NN|BODY_11|0
+the last section|DT JJ NN|BODY_1|0
+traditional rewriting rules|JJ NN NNS|BODY_8|0
+the interesting case|DT JJ NN|BODY_1|0
+( i )|-LRB- FW -RRB-|BODY_2|0
+an unambiguous grammar|DT JJ NN|BODY_1|0
+an underlying grammar|DT JJ NN|BODY_2|0
+another o-minimal determinization|DT JJ NN|BODY_6:BODY_3:BODY_4|0
+e ( 1|NN -LRB- CD|BODY_1|0
+our algorithmic outline|PRP$ JJ NN|BODY_1|0
+some parse trees|DT JJ NNS|BODY_5|0
+some parser p|DT NN NN|BODY_1|0
+the initial configuration|DT JJ NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+the semantic aspects|DT JJ NNS|BODY_2|0
+their canonical equivalents|PRP$ JJ NNS|BODY_5|0
+no hidden ambiguity|DT JJ NN|BODY_3|0
+no matching pair|DT NN NN|BODY_4|0
+the dangling else|DT VBG JJ|BODY_1|0
+an parser p|DT NN NN|BODY_1|0
+all these problems|PDT DT NNS|BODY_1|0
+its recursive definition|PRP$ JJ NN|BODY_5|0
+our problematic grammar|PRP$ JJ NN|BODY_1|0
+its canonical equivalent|PRP$ JJ NN|BODY_6|0
+the last state|DT JJ NN|BODY_1|0
+the latter condition|DT JJ NN|BODY_1|0
+minimal given p.|JJ VBN NN|BODY_23|0
+substitution and transitivity|NN CC NN|BODY_8|0
+there ambiguity resolution|EX NN NN|BODY_1|0
+the grammar symbol|DT NN NN|BODY_1|0
+a derived production |DT VBD NN|BODY_16|0
+derived productions|VBN NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+e|NN|BODY_12:BODY_22:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+p|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_20|0
+our techniques|PRP$ NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+they|PRP|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+u|PRP|BODY_6:BODY_5:BODY_17:BODY_18:BODY_15:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8|0
+a grammar|DT NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+this paper|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_7|3
+t|NN|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+unambiguous grammars|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_4|1
+grammar symbols|JJ NNS|BODY_6:BODY_12:BODY_11:BODY_5:BODY_4:BODY_10:BODY_7:BODY_8|0
+the conflicts|DT NNS|BODY_10:BODY_4:BODY_8|1
+the following|DT NN|BODY_2:BODY_1:BODY_3|1
+these techniques|DT NNS|BODY_2:BODY_3|1
+grammars|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+1993 )|CD -RRB-|BODY_3|1
+the result|DT NN|BODY_1:BODY_4|1
+their ambiguity|PRP$ NN|BODY_6|1
+the set|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_9|0
+this definition|DT NN|BODY_1|1
+the problem|DT NN|BODY_2:BODY_1:BODY_4:BODY_7|0
+the parser|DT NN|BODY_6:BODY_12:BODY_16:BODY_2:BODY_4|0
+1 )|CD -RRB-|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4|0
+the appendices|DT NNS|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+the stack|DT NN|BODY_5:BODY_15:BODY_3:BODY_4:BODY_9|0
+the parsing|DT NN|BODY_11:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+( e|-LRB- NN|BODY_5:BODY_2:BODY_3:BODY_14:BODY_4|0
+the case|DT NN|BODY_12:BODY_16:BODY_2:BODY_4:BODY_7:BODY_9|0
+the leftside|DT NN|BODY_5:BODY_18:BODY_2:BODY_4:BODY_7|0
+rewriting rules|NN NNS|BODY_5:BODY_2:BODY_8:BODY_9|0
+the projection|DT NN|BODY_5:BODY_13:BODY_3:BODY_4:BODY_9|0
+the techniques|DT NNS|BODY_6:BODY_13:BODY_1:BODY_4|0
+the construction|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+the number|DT NN|BODY_2:BODY_3:BODY_8|0
+e oe|NN NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_9|0
+the sons|DT NNS|BODY_2:BODY_10:BODY_4|0
+! ff|. NN|BODY_11:BODY_2:BODY_4:BODY_8|0
+m \gamma|NN NN|BODY_2:BODY_3|0
+an ordering|DT NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+the definition|DT NN|BODY_2:BODY_1:BODY_7:BODY_9|0
+4 )|CD -RRB-|BODY_5:BODY_2:BODY_3:BODY_7|0
+the paper|DT NN|BODY_6:BODY_5:BODY_1|0
+the root|DT NN|BODY_6:BODY_11:BODY_2|0
+the form|DT NN|BODY_6:BODY_5:BODY_7|0
+[ e|NN NN|BODY_6:BODY_15:BODY_3:BODY_4:BODY_10|0
+a finite|DT NN|BODY_11:BODY_5:BODY_2:BODY_4|0
+t 2|NN CD|BODY_6:BODY_5:BODY_2:BODY_4|0
+the productions|DT NNS|BODY_2:BODY_3:BODY_9|0
+x|NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+i .e|FW FW|BODY_14:BODY_4:BODY_8|0
+a sentence|DT NN|BODY_1:BODY_3:BODY_7|0
+acm transactions|JJ NNS|BODY_11:BODY_2:BODY_3|0
+t 1|NN CD|BODY_6:BODY_5:BODY_8|0
+the computation|DT NN|BODY_5:BODY_3:BODY_7|0
+the reduction|DT NN|BODY_6:BODY_10:BODY_4:BODY_7|0
+root symbol|NN NN|BODY_6:BODY_12:BODY_5|0
+a set|DT NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+the technique|DT NN|BODY_1:BODY_3:BODY_4|0
+the lack|DT NN|BODY_2:BODY_3|0
+( t|-LRB- NN|BODY_6:BODY_5:BODY_1|0
+the heuristic|DT JJ|BODY_2:BODY_9|0
+rekers [1991|NNS NN|BODY_18:BODY_2|0
+the rewritings|DT NNS|BODY_2:BODY_10|0
+this case|DT NN|BODY_17:BODY_1:BODY_2|0
+this section|DT NN|BODY_2|0
+the frontier|DT NN|BODY_12:BODY_10:BODY_7|0
+the modification|DT NN|BODY_2:BODY_1|0
+this work|DT NN|BODY_2|0
+the l|DT NN|BODY_2|0
+the reader|DT NN|BODY_6:BODY_7|0
+the combination|DT NN|BODY_3|0
+ff )|NN -RRB-|BODY_3:BODY_7|0
+a determinization|DT NN|BODY_6:BODY_2|0
+the generalization|DT NN|BODY_6:BODY_3|0
+section 8|NN CD|BODY_5:BODY_2:BODY_1:BODY_3|0
+the idea|DT NN|BODY_1:BODY_3|0
+the rightside|DT NN|BODY_3:BODY_8|0
+the sequence|DT NN|BODY_7:BODY_9|0
+3 )|CD -RRB-|BODY_2:BODY_3:BODY_8|0
+a production|DT NN|BODY_6:BODY_5:BODY_1|0
+an example|DT NN|BODY_2:BODY_4|0
+second coordinates|JJ NNS|BODY_5:BODY_10|0
+the years|DT NNS|BODY_5|0
+the concepts|DT NNS|BODY_2:BODY_4|0
+the distinction|DT NN|BODY_2|0
+the pair|DT NN|BODY_2:BODY_8|0
+t 0|NN CD|BODY_6:BODY_4|0
+( a|-LRB- DT|BODY_3:BODY_9|0
+appendix j|NN NN|BODY_1:BODY_4|0
+each entry|DT NN|BODY_5:BODY_8:BODY_9|0
+grammar evolution|NN NN|BODY_2|0
+dines bjrner|NNS NN|BODY_3|0
+vincent sgro|JJ NN|BODY_15|0
+meseguer 1985|NN CD|BODY_9|0
+the concept|DT NN|BODY_4:BODY_7|0
+his priorities|PRP$ NNS|BODY_3:BODY_4|0
+anders thorup|NNS NN|BODY_16|0
+andrew appel|DT NN|BODY_2|0
+this declaration|DT NN|BODY_3|0
+'s address|POS NN|BODY_2|0
+our grammar|PRP$ NN|BODY_2:BODY_3|0
+compiler tyros|NN NNS|BODY_10|0
+the rest|DT NN|BODY_5|0
+these conflicts|DT NNS|BODY_2|0
+the existence|DT NN|BODY_1:BODY_7|0
+the search|DT NN|BODY_2|0
+mandrioli 1979|JJ CD|BODY_6|0
+our example|PRP$ NN|BODY_1|0
+merging nonterminals|VBG NNS|BODY_10|0
+a test|DT NN|BODY_9|0
+this irreflixivety|DT NN|BODY_3|0
+good resolutions|JJ NNS|BODY_2:BODY_8|0
+appendix h|NN NN|BODY_2|0
+theorem 8.1|NN CD|BODY_2|0
+the presentation|DT NN|BODY_2:BODY_1|0
+( 2|-LRB- CD|BODY_1:BODY_2|0
+section 7|NN CD|BODY_1:BODY_4|0
+our generalization|PRP$ NN|BODY_5:BODY_2|0
+alan demers|NN NNS|BODY_5|0
+mary ryan|JJ NN|BODY_13|0
+some examples|DT NNS|BODY_2|0
+the association|DT NN|BODY_14|0
+the label|DT NN|BODY_5:BODY_3|0
+e! f|JJ NN|BODY_5:BODY_15|0
+andrezej blikle|DT NN|BODY_4|0
+barbara ryder|NN NN|BODY_14|0
+everything together|NN RB|BODY_3|0
+the relation|DT NN|BODY_2|0
+the author|DT NN|BODY_3|0
+the first|DT JJ|BODY_9|0
+sub-parse trees|JJ NNS|BODY_3:BODY_10|0
+tony hoare|JJ NN|BODY_7|0
+hans rischel|NNS NN|BODY_12|0
+bernard lang|NN NN|BODY_9|0
+bill mccoll|NN NN|BODY_10|0
+matches p|NNS NN|BODY_2|0
+neil jones|NN NNS|BODY_8|0
+the advantages|DT NNS|BODY_1|0
+the approach|DT NN|BODY_1|0
+the action|DT NN|BODY_2:BODY_1|0
+this material|DT NN|BODY_4|0
+our input|PRP$ NN|BODY_2|0
+appendix i.|NN NN|BODY_3|0
+our change|PRP$ NN|BODY_3|0
+the copies|DT NNS|BODY_5|0
+incremental parsing|JJ NN|BODY_4|0
+any conflict|DT NN|BODY_4|0
+our results|PRP$ NNS|BODY_3|0
+ullman [1975]|NNP NNP|BODY_3|0
+a -priority|DT NN|BODY_2|0
+these concepts|DT NNS|BODY_4|0
+a key|DT NN|BODY_1:BODY_8|0
+repeated rewriting|VBN NN|BODY_5|0
+the ordering|DT NN|BODY_1:BODY_8|0
+matching pairs|NN NNS|BODY_2|0
+the title|DT NN|BODY_8|0
+a dangling|DT JJ|BODY_6:BODY_8|0
+all nodes|DT NNS|BODY_3:BODY_8|0
+a factor|DT NN|BODY_6|0
+an occurrence|DT NN|BODY_2:BODY_7|0
+the input|DT NN|BODY_11|0
+any second|DT NN|BODY_2|0
+right-associative parsing|JJ NN|BODY_3|0
+the left|DT VBN|BODY_5|0
+all grammars|DT NNS|BODY_2|0
+derived production|VBN NN|BODY_2|0
+the entry|DT NN|BODY_5:BODY_2|0
+algebraic identities|JJ NNS|BODY_5|0
+grammar (|NN -LRB-|BODY_7|0
+different actions|JJ NNS|BODY_5|0
+some -priorities|DT NNS|BODY_3|0
+computer science|NN NN|BODY_6|0
+the terminals|DT NNS|BODY_7|0
+the classic|DT NN|BODY_2|0
+) parser|-RRB- NN|BODY_6|0
+ullman [1975|NNP CD|BODY_3:BODY_9|0
+tomita [1986]|NN NN|BODY_17:BODY_1|0
+relevant determinizations|JJ NNS|BODY_3:BODY_9|0
+appendix g|VB NN|BODY_8|0
+more readable|JJR JJ|BODY_10|0
+the p|DT NN|BODY_7|0
+all inputs|DT NNS|BODY_13:BODY_4|0
+such parsers|JJ NNS|BODY_5:BODY_9|0
+2100 kbenhavn|CD NN|BODY_9|0
+a catalyst|DT NN|BODY_3|0
+an algorithm|DT NN|BODY_2|0
+else construction|JJ NN|BODY_3|0
+any sentence|DT NN|BODY_15:BODY_4:BODY_7|0
+the results|DT NNS|BODY_3|0
+that lead|DT NN|BODY_6|0
+section 4|NN CD|BODY_2|0
+the fact|DT NN|BODY_1|0
+obj [futatsugi|NN NN|BODY_6|0
+the publication|DT NN|BODY_9|0
+page 10|NN CD|BODY_3:BODY_10|0
+also e|RB NN|BODY_12|0
+johnson 1975]|NN CD|BODY_7|0
+sentential forms|JJ NNS|BODY_3:BODY_14|0
+the details|DT NNS|BODY_2|0
+) oe|-RRB- NN|BODY_6:BODY_7|0
+a series|DT NN|BODY_3|0
+these parsers|DT NNS|BODY_2|0
+the statement|DT NN|BODY_3|0
+just showing|RB VBG|BODY_2|0
+hand [blikle|NN NN|BODY_3|0
+a lookahead|DT NN|BODY_8|0
+x !ff|SYM NN|BODY_12:BODY_4|0
+one difference|CD NN|BODY_8|0
+a canonical|DT NN|BODY_3|0
+6 )|CD -RRB-|BODY_8|0
+the priorities|DT NNS|BODY_5:BODY_1|0
+our technique|PRP$ NN|BODY_1:BODY_3|0
+u 0|NNP CD|BODY_2:BODY_9|0
+all productions|DT NNS|BODY_6:BODY_11|0
+user intent|NN NN|BODY_5|0
+the kth|DT NN|BODY_16|0
+the understanding|DT NN|BODY_4|0
+these semantics|DT NNS|BODY_10|0
+the introduction|DT NN|BODY_3:BODY_9|0
+state 4|NN CD|BODY_5|0
+real freedom|JJ NN|BODY_2|0
+the gram|DT NN|BODY_5|0
+1976 ]|CD NNS|BODY_5|0
+a @|DT NN|BODY_10|0
+a a|DT DT|BODY_11|0
+all symbols|DT NNS|BODY_2|0
+e out|NN RP|BODY_2|0
+v )|FW -RRB-|BODY_4:BODY_8|0
+no hope|DT NN|BODY_6|0
+ll parsers|NN NNS|BODY_7|0
+that x|DT JJ|BODY_6:BODY_14|0
+p proceeds|JJ NNS|BODY_2|0
+more natural|JJR JJ|BODY_11|0
+specific permission|JJ NN|BODY_2|0
+not difficult|RB JJ|BODY_2|0
+state 2|NN CD|BODY_2|0
+each other|DT JJ|BODY_3:BODY_7|0
+input $|NN $|BODY_6|0
+the configuration|DT NN|BODY_2|0
+the \lambdas|DT NNS|BODY_3|0
+the one|DT CD|BODY_4|0
+its sons|PRP$ NNS|BODY_5|0
+ullman 1986|NNP CD|BODY_6|0
+@ ll|NN NN|BODY_9|0
+the processing|DT NN|BODY_2|0
+goto( i|JJ FW|BODY_3|0
+all actions|DT NNS|BODY_8|0
+the else |DT JJ|BODY_11|0
+\delta 19|NNP CD|BODY_2|0
+some semantics|DT NNS|BODY_7:BODY_9|0
+f )|NN -RRB-|BODY_13|0
+graham [1988|NN NNS|BODY_8|0
+( ii|-LRB- NNS|BODY_2:BODY_1:BODY_4|0
+certain parses|JJ NNS|BODY_7|0
+the property|DT NN|BODY_2|0
+universal clr(|JJ NN|BODY_4|0
+all characterizes|DT NNS|BODY_9|0
+its date|PRP$ NN|BODY_10|0
+this characterization|DT NN|BODY_13|0
+a problem|DT NN|BODY_4|0
+perfect sense|JJ NN|BODY_2|0
+a parsing|DT NN|BODY_1|0
+thorup [1991|NN NN|BODY_7|0
+1975 ]|CD NNS|BODY_11|0
+internal nodes|JJ NNS|BODY_4|0
+thorup [1993|DT CD|BODY_3|0
+13 notice|CD NN|BODY_2|0
+two shifts|CD NNS|BODY_4|0
+programming languages|NN NNS|BODY_5|0
+0 results|CD NNS|BODY_4|0
+interesting grammars|JJ NNS|BODY_2|0
+the remainder|DT NN|BODY_5|0
+the grammar-as|DT NN|BODY_5|0
+appendix c|NN NN|BODY_6|0
+its sequence|PRP$ NN|BODY_5|0
+part i]|NN NN|BODY_4|0
+the work|DT NN|BODY_16|0
+ff f|IN NN|BODY_6|0
+other contexts|JJ NNS|BODY_5|0
+unintentional ambiguity|JJ NN|BODY_1|0
+no responsibility|DT NN|BODY_4|0
+the declaration|DT NN|BODY_4|0
+ambiguous constructs|JJ NNS|BODY_4|0
+the problems|DT NNS|BODY_5|0
+writing statements|VBG NNS|BODY_4|0
+section 2|NN CD|BODY_3|0
+) parsers|-RRB- NNS|BODY_5|0
+problems 2|NNS CD|BODY_2|0
+the entry-wise|DT NN|BODY_11|0
+conflict resolution|NN NN|BODY_6|0
+transitive closure|JJ NN|BODY_12|0
+the base|DT NN|BODY_3|0
+a configuration|DT NN|BODY_6|0
+each step|DT NN|BODY_4|0
+all reasoning|DT NN|BODY_4|0
+our handling|PRP$ NN|BODY_2|0
+the figure|DT NN|BODY_1|0
+its ambiguity|PRP$ NN|BODY_7|0
+thorup [1991]|NN NN|BODY_3|0
+earley [1975]|NN NNP|BODY_4|0
+the designer|DT NN|BODY_5|0
+ullman [1986|NNP CD|BODY_4|0
+exactly those|RB DT|BODY_6|0
+whose embedding|WP$ NN|BODY_6|0
+state i|NN NN|BODY_7|0
+prioritized pars|VBN NNS|BODY_4|0
+( 4|-LRB- CD|BODY_7|0
+our aim|PRP$ NN|BODY_3|0
+orderings forms|NNS NNS|BODY_3|0
+the completeness|DT NN|BODY_9|0
+input symbols|NN NNS|BODY_15|0
+many others|JJ NNS|BODY_1|0
+any one|DT CD|BODY_5|0
+local ambiguity|JJ NN|BODY_4|0
+another difference|DT NN|BODY_1|0
+this independence|DT NN|BODY_1|0
+this dropping|DT NN|BODY_1|0
+any resolution|DT NN|BODY_11|0
+the prioriting|DT NN|BODY_5|0
+e!e supe|JJ NN|BODY_4|0
+the canonical|DT NN|BODY_4|0
+7 symbol|CD NN|BODY_2|0
+the strength|DT NN|BODY_1|0
+the actions|DT NNS|BODY_10|0
+trivial productions|JJ NNS|BODY_11|0
+the top|DT NN|BODY_3|0
+the proof|DT NN|BODY_4|0
+time parsers|NN NNS|BODY_7|0
+x \theta|NN NN|BODY_10|0
+this grammar|DT NN|BODY_6|0
+the condition|DT NN|BODY_3|0
+our preference|PRP$ NN|BODY_2|0
+this notion|DT NN|BODY_3|0
+the order|DT NN|BODY_14|0
+disambiguating rules|NN NNS|BODY_3|0
+15 denotes|CD NNS|BODY_2|0
+table init|NN NN|BODY_6|0
+this freedom|DT NN|BODY_1|0
+a dangling-else|DT JJ|BODY_6|0
+a theory|DT NN|BODY_5|0
+its richness|PRP$ NN|BODY_12|0
+strictly weaker|RB JJR|BODY_4|0
+the relevance|DT NN|BODY_1|0
+ullman [1986]|JJ NN|BODY_5|0
+rekers 1990]|NNS CD|BODY_8|0
+21 ordering|CD NN|BODY_2|0
+page 14|NN CD|BODY_4|0
+a risk|DT NN|BODY_3|0
+the language|DT NN|BODY_8|0
+( 1|-LRB- CD|BODY_3|0
+our characterization|PRP$ NN|BODY_1|0
+possible generalizations|JJ NNS|BODY_7|0
+the algorithm|DT NN|BODY_1|0
+! fffifl|. NN|BODY_6|0
+their unambiguity|PRP$ NN|BODY_6|0
+the -priorities|DT NNS|BODY_4|0
+each node|DT NN|BODY_3|0
+the length|DT NN|BODY_6|0
+higher priority|JJR NN|BODY_3|0
+the well-foundedness|DT NN|BODY_4|0
+special thanks|JJ NNS|BODY_1|0
+infinite sets|JJ NNS|BODY_8|0
+our key|PRP$ NN|BODY_1|0
+left-side x|JJ NN|BODY_4|0
+the sub|DT NN|BODY_2|0
+1985 ]|CD NN|BODY_12|0
+these examples|DT NNS|BODY_2|0
+those containing|DT VBG|BODY_5|0
+a well-founded|DT JJ|BODY_4|0
+the effects|DT NNS|BODY_1|0
+this condition|DT NN|BODY_14|0
+thorup [1994]|NN NN|BODY_2|0
+sentences )|NNS -RRB-|BODY_18|0
+the entries|DT NNS|BODY_11|0
+this conflict|DT NN|BODY_12|0
+the determinization|DT NN|BODY_5|0
+the focus|DT NN|BODY_4|0
+the context|DT NN|BODY_1|0
+prioritizes p|NNS NN|BODY_1|0
+no finite|DT NN|BODY_7|0
+the possibility|DT NN|BODY_3|0
+the safety|DT NN|BODY_2|0
+the effect|DT NN|BODY_1|0
+section 5|NN CD|BODY_1|0
+the generalizations|DT NNS|BODY_3|0
+the process|DT NN|BODY_2|0
+b )|NN -RRB-|BODY_3|0
+an overview|DT NN|BODY_2|0
+a leaf|DT NN|BODY_3|0
+natural generalizations|JJ NNS|BODY_13|0
+let t|VB NN|BODY_1|0
+c stand|NN NN|BODY_8|0
+let e|VB NN|BODY_1|0
+a state|DT NN|BODY_7|0
+restricted classes|VBN NNS|BODY_3|0
+the class|DT NN|BODY_4|0
+a sequence|DT NN|BODY_11|0
+a string|DT NN|BODY_7|0
+a mechanism|DT NN|BODY_4|0
+some sense|DT NN|BODY_6|0
+all the|DT DT|BODY_3|0
+computing machinery|VBG NN|BODY_15|0
+an introduction|DT NN|BODY_2|0
+-if x|JJ SYM|BODY_3|0
+an automaton|DT NN|BODY_2|0
+what extent|WP NN|BODY_3|0
+forests corresponds|NNS NNS|BODY_11|0
+the second|DT NN|BODY_10|0
+the way|DT NN|BODY_3|0
+such that|JJ IN|BODY_8|0
+the sense|DT NN|BODY_8|0
+the state|DT NN|BODY_7|0
+a p-|DT NNS|BODY_8|0
+the closure|DT NN|BODY_6|0
+root symbols|NN NNS|BODY_3|0
+the latter|DT NN|BODY_2|0
+a productiong|DT NN|BODY_10|0
+prioritizing sets|JJ NNS|BODY_5|0
+some superset|DT NN|BODY_3|0
+a conflict|DT NN|BODY_2|0
+( x|-LRB- SYM|BODY_3:BODY_8|0
+prioritized parsers|JJ NNS|BODY_3|0
+typewriter font|NN NN|BODY_9|0
+the same|DT JJ|BODY_8|0
+the sub-tree|DT JJ|BODY_6:BODY_1|0
+the projections|DT NNS|BODY_2|0
+different positions|JJ NNS|BODY_8|0
+the symbols|DT NNS|BODY_2|0
+the pairs|DT NNS|BODY_5|0
+first coordinates|JJ NNS|BODY_1|0
+o if|IN IN|BODY_6|0
+( i|-LRB- FW|BODY_9|0
+1989 ]|CD NN|BODY_4|0
+the framework|DT NN|BODY_1|0
+problem 4|NN CD|BODY_9|0
+the right|DT NN|BODY_6|0
+these appendices|DT NNS|BODY_1|0
+construct e|VB NN|BODY_1|0
+the production|DT NN|BODY_4|0
+a fee|DT NN|BODY_1|0
+matical abstraction |JJ NN|BODY_11|0
+the specification|DT NN|BODY_9|0
+x )|NN -RRB-|BODY_10|0
+pages 1024-1050|NNS CD|BODY_3|0
+let c|VB NN|BODY_1|0
+yacc [johnson|NN NN|BODY_1|0
+its complexity|PRP$ NN|BODY_3|0
+a simplification|DT NN|BODY_6|0
+the rewriting|DT NN|BODY_1|0
+length 2|NN CD|BODY_9|0
+some node|DT NN|BODY_4|0
+this way|DT NN|BODY_4|0
+the examples|DT NNS|BODY_1|0
+the size|DT NN|BODY_1|0
+17 6|CD CD|BODY_2|0
+partial table|JJ NN|BODY_9|0
+our test|PRP$ NN|BODY_1|0
+this restriction|DT NN|BODY_1|0
+technically this|RB DT|BODY_1|0
+deterministic parsers|JJ NNS|BODY_6|0
+$ )|$ -RRB-|BODY_7|0
+practical applications|JJ NNS|BODY_7|0
+this parser|DT NN|BODY_4|0
+the term|DT NN|BODY_1|0
+this number|DT NN|BODY_1|0
+the indices|DT NNS|BODY_1|0
+either e|DT NN|BODY_11|0
+the discussion|DT NN|BODY_1|0
+1\lambdab \lambdab|CD NN|BODY_1|0
+e!e sube|JJ NN|BODY_10|0
+right associative|JJ NN|BODY_12|0
+some input|DT NN|BODY_4|0
+that connection|DT NN|BODY_1|0
+that r|DT NN|BODY_10|0
+the moment|DT NN|BODY_1|0
+the theorem|DT NN|BODY_1|0
+that e|IN NN|BODY_6|0
+frontier ff|NN NN|BODY_13|0
+a as|DT RB|BODY_7|0
+our approach|PRP$ NN|BODY_5|0
+real life|JJ NN|BODY_1|0
+universal parsers|JJ NNS|BODY_5|0
+( 3|-LRB- CD|BODY_1|0
+let p|VB NN|BODY_1|0
+appendix b|NN NN|BODY_1|0
+other words|JJ NNS|BODY_1|0
+section 6|NN CD|BODY_6|0
+terminals b|NNS NN|BODY_6|0
+that p|DT NN|BODY_8|0
+this ordering|DT NN|BODY_3|0
+this property|DT NN|BODY_1|0
+a p-canonical|DT JJ|BODY_5|0
+matching p|VBG NN|BODY_4|0
+just sentences|RB NNS|BODY_3|0
+the classes|DT NNS|BODY_1|0
+more construc|RBR JJ|BODY_1|0
+2. grammars|CD NNS|BODY_1|0
+not all|RB DT|BODY_1|0
+thus completeness|RB NN|BODY_1|0
+the role|DT NN|BODY_1|0
+u e|NN NN|BODY_7|0
+the study|DT NN|BODY_1|0
+our goal|PRP$ NN|BODY_1|0
+an occurrences|DT NNS|BODY_9|0
+definition 1|NN CD|BODY_1|0
+definition 3|NN CD|BODY_1|0
+proposition 4.1|NN CD|BODY_1|0
+suppose m|VB NN|BODY_1|0

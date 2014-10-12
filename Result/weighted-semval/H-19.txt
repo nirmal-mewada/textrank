@@ -1,0 +1,157 @@
+we|PRP|BODY_15:ABSTRACT_2:BODY_2:BODY_25:BODY_3:BODY_4:BODY_6:BODY_5:BODY_31:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|14
+features|NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_9|6
+an event|DT NN|BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7|0
+a set|DT NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_2:BODY_1:ABSTRACT_1:BODY_8|4
+3|CD|ABSTRACT_15:BODY_1:BODY_3:BODY_14:BODY_10|2
+the truncated gaussian approach|DT JJ JJ NN|ABSTRACT_14|1
+information storage and retrieval]|NN NN CC NN|ABSTRACT_4|0
+a completely unsupervised manner|DT RB JJ NN|ABSTRACT_5|0
+which|WDT|BODY_6:BODY_5:BODY_13:BODY_23:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|5
+it|PRP|BODY_6:BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4|0
+stopwords|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_9|0
+events|NNS|BODY_2:BODY_3:BODY_4:BODY_9|2
+hh|NN|BODY_2:BODY_3:BODY_4|1
+330 important periodic events|CD JJ JJ NNS|BODY_3|1
+the 1,087 hl features|DT CD NN NNS|BODY_2|1
+( in)active representative features|-LRB- JJ NN NNS|BODY_7|1
+a few news stories|DT JJ NN NNS|BODY_2|1
+( a)periodic representative features|-LRB- JJ NN NNS|BODY_5|1
+a very short time|DT RB JJ NN|BODY_3|1
+the same periodic event|DT JJ JJ NN|BODY_2|1
+the sheffield league results|DT NN NN NNS|BODY_6|1
+a heuristic hs algorithm|DT JJ NNS NN|BODY_8|1
+a whole new perspective|DT JJ JJ NN|BODY_3|1
+its low power value|PRP$ JJ NN NN|BODY_6|1
+17 important aperiodic events|CD JJ JJ NNS|BODY_3|1
+2 ) representative features|CD -RRB- NN NNS|BODY_7|1
+a much higher s|DT RB RBR PRP|BODY_4|1
+important ( a)periodic events|JJ -LRB- JJ NNS|BODY_7|1
+7.4 detecting periodic events|CD NN JJ NNS|BODY_1|1
+7.3 detecting aperiodic events|CD NN JJ NNS|BODY_1|1
+the 69 hh features|DT CD NN NNS|BODY_1|1
+them|PRP|BODY_2:BODY_8:BODY_9|1
+2|CD|BODY_6:BODY_11:BODY_1:BODY_8:BODY_9|1
+your|PRP$|BODY_6:BODY_2:BODY_4:BODY_10:BODY_7|0
+a given feature f|DT VBN NN NN|BODY_3:BODY_4|0
+[yf ( 1 )|FW -LRB- CD -RRB-|BODY_6:BODY_5|0
+a real news stream|DT JJ NN NN|BODY_2:BODY_7|0
+the news text content|DT NN NN NN|BODY_3|0
+the same dominant period|DT JJ JJ NN|BODY_7|0
+figure 1( b )|NN JJ NN -RRB-|BODY_2|0
+effective mixture density-based approach|JJ NN JJ NN|BODY_3|0
+the original time series|DT JJ NN NN|BODY_2|0
+the 14 identified events|DT CD VBN NNS|BODY_8|0
+/1996 3/28/1997 7/16/1997 unaudited|CD CD CD JJ|BODY_4|0
+806,791 english news stories|CD JJ NN NNS|BODY_4|0
+the detected periodic events|DT VBN JJ NNS|BODY_2|0
+fi , c( ri|JJ , JJ NN|BODY_4|0
+a ) beenb( dfidf:time|DT -RRB- NN NN|BODY_3|0
+a ) christmas( dfidf:time|DT -RRB- NN NN|BODY_3|0
+the word feature iraq|DT NN NN NN|BODY_3|0
+upper case named entities|JJ NN VBN NNS|BODY_5|0
+there|EX|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|0
+a more pragmatic approach|DT RBR JJ NN|BODY_4|0
+periodicity and power spectrum|NN CC NN NN|BODY_6|0
+its time domain signal|PRP$ NN NN NN|BODY_13|0
+2. fi and fj|DT JJ CC NNS|BODY_1|0
+a high document overlap|DT JJ NN NN|BODY_2|0
+only a small number|RB DT JJ NN|BODY_2|0
+a labeled news stream|DT VBN NN NN|BODY_4|0
+weekday and weekend news|NN CC NN NN|BODY_4|0
+a 1year news stream|DT JJ NN NN|BODY_6|0
+the only distinguishing factor|DT JJ NN NN|BODY_2|0
+the power spectrum graph|DT NN NN NN|BODY_3|0
+k] and k k=1|NN CC NN IN|BODY_43|0
+a ) soccer( dfidf:time|DT -RRB- NN NN|BODY_4|0
+( big horizontal gap|-LRB- JJ NN NN|BODY_4|0
+just the dominant frequencies|RB DT JJ NNS|BODY_2|0
+yf ( t) ]|NN -LRB- NN NN|BODY_8|0
+the industryleading google news|DT NN NN NN|BODY_5|0
+the highest power spectrum|DT JJS NN NN|BODY_5|0
+high and low periodicity|JJ CC JJ NN|BODY_2|0
+0, âˆ€k âˆˆ [1|CD NN NN NNS|BODY_42|0
+the newly defined stopword|DT RB VBN NN|BODY_7|0
+:frequency ) figure 6|NN -RRB- NN CD|BODY_6|0
+xke 2ï€i t (kâˆ’1)t|JJ JJ NN NN|BODY_10|0
+:frequency ) figure 2|NN -RRB- NN CD|BODY_6|0
+all five feature sets|DT CD NN NNS|BODY_2|0
+a typical aperiodic event|DT JJ JJ NN|BODY_3|0
+:frequency ) figure 3|NN -RRB- NN CD|BODY_7|0
+a ) original dfidf:time|DT -RRB- JJ NN|BODY_11|0
+b ) identifying burst|NN -RRB- VBG NN|BODY_17|0
+the closest equivalent methods|DT JJS JJ NNS|BODY_6|0
+1 + dk )|CD JJ NN -RRB-|BODY_7|0
+a word feature f|DT NN NN NN|BODY_3|0
+both your and soccer|DT PRP$ CC NN|BODY_3|0
+a certain event genre|DT JJ NN NN|BODY_3|0
+the fourier coefficient xk|DT RB NN NN|BODY_13|0
+less than 1 second|JJR IN CD JJ|BODY_3|0
+ll ( 338,806 features|NN -LRB- CD NNS|BODY_5|0
+the following cost function|DT VBG NN NN|BODY_5|0
+our seed training features|PRP$ NN NN NNS|BODY_5|0
+:frequency ) figure 5|NN -RRB- NN CD|BODY_6|0
+the initial exploratory analysis|DT JJ JJ NN|BODY_4|0
+this particular event genre|DT JJ NN NN|BODY_7|0
+a well-known bursty event|DT JJ JJ NN|BODY_4|0
+its periodic feature trajectory|PRP$ JJ NN NN|BODY_7|0
+the upper bound sf|DT JJ JJ NN|BODY_3|0
+the event christmas feast|DT NN NN NN|BODY_2|0
+its feature trajectory yf|PRP$ NN NN NN|BODY_5|0
+the automatically detected events|DT RB VBN NNS|BODY_7|0
+a much higher dfidf|DT RB JJR NN|BODY_7|0
+the (vertical ) boundary|DT JJ -RRB- NN|BODY_2|0
+yf ( t )|IN -LRB- NN -RRB-|BODY_8|0
+only the bursty period|RB DT JJ NN|BODY_8|0
+a fixed periodicity p|DT VBN NN NN|BODY_4|0
+periodicity and power )|NN CC NN -RRB-|BODY_12|0
+high and low dps|JJ CC JJ NNS|BODY_3|0
+the google search engine|DT JJ NN NN|BODY_4|0
+a periodic feature f|DT JJ NN NN|BODY_5|0
+long-term and short-term periodic|JJ CC JJ JJ|BODY_2|0
+the last five stopwords|DT JJ CD NNS|BODY_2|0
+another ll noisy feature|DT NN JJ NN|BODY_8|0
+figure 8( b )|NN JJ NN -RRB-|BODY_5|0
+an unsupervised greedy algorithm|DT JJ JJ NN|BODY_2|0
+âˆ ’ e22 )|DT JJ NN -RRB-|BODY_4|0
+the following necessary conditions|DT VBG JJ NNS|BODY_5|0
+these two examples are|DT CD NNS VBP|BODY_1|0
+sfj fuâˆˆri sfu yfj|JJ NN NN NN|BODY_8|0
+real life periodic events|JJ NN JJ NNS|BODY_4|0
+hh âˆ ’ fi|JJ NN NN JJ|BODY_6|0
+figure 4( b )|NN JJ NN -RRB-|BODY_7|0
+the |mi âˆ ©|DT FW FW FW|BODY_1|0
+figure 2( b )|NN JJ NN -RRB-|BODY_6|0
+figure 3( b )|NN IN NN -RRB-|BODY_13|0
+0 0.2 0.4 0.6|CD CD CD CD|BODY_1|0
+the number|DT NN|BODY_31:BODY_1:BODY_2:BODY_4:BODY_19:BODY_9|0
+a time-series word signal|DT NNS NN NN|BODY_6|0
+|miâˆ©mj| min(|mi| ,|mj| )|NN JJ NN -RRB-|BODY_3|0
+( easter feast )|-LRB- JJ NN -RRB-|BODY_13|0
+hh âˆ ’ fm|NN NN NN NN|BODY_6|0
+( dominant power spectrum|-LRB- JJ NN NN|BODY_1|0
+the time-sensitive past/present/future tenses|DT NN NN NNS|BODY_1|0
+their associated bursty periods|PRP$ JJ NN NNS|BODY_5|0
+an airplane hijack topic|DT NN NN NN|BODY_5|0
+t â‰ ¥ 730|NN IN NN CD|BODY_5|0
+any other t >|DT JJ NN NNS|BODY_7|0
+âˆ ’ e27 )|DT JJ NN -RRB-|BODY_6|0
+average dfidf ( dfidf)|JJ NN -LRB- NN|BODY_7|0
+no benchmark news streams|DT JJ NN NNS|BODY_1|0
+the word document frequencies|DT NN NN NNS|BODY_1|0
+yfi âˆ ¼ yfj|JJ JJ NN NN|BODY_8|0
+the most confusing example|DT RBS JJ NN|BODY_1|0
+the generally accepted notion|DT RB VBN NN|BODY_4|0
+( periodic event )|-LRB- JJ NN -RRB-|BODY_1|0
+only the month feature|RB DT NN NN|BODY_5|0
+the 1-year reuters dataset|DT JJ NNS NN|BODY_1|0
+a hurricane genre event|DT NN NN NN|BODY_5|0
+the true event period|DT JJ NN NN|BODY_5|0
+the popular periodogram estimator|DT JJ NN NN|BODY_5|0
+3.1 event periodicity classification|CD NN NN NN|BODY_1|0
+the k-th square region|DT JJ JJ NN|BODY_11|0
+2 such that 1|CD JJ IN CD|BODY_1|0
+5.2 detecting periodic features|CD NN JJ NNS|BODY_1|0
+t|NN|BODY_12:BODY_2:BODY_3:BODY_29|0
+/1996 3/28/1997 7/16/1997|CD CD CD|BODY_2|0
+1|CD|BODY_6:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+the boundary|DT NN|BODY_2:BODY_1:BODY_4|0

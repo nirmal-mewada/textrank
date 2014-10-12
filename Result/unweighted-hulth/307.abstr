@@ -1,0 +1,25 @@
+operant schedules|NN NNS|BODY_2|0
+the program|DT NN|BODY_1:BODY_2|0
+human subjects|JJ NNS|BODY_2|0
+nonhuman subjects|JJ NNS|BODY_6:BODY_5|0
+reinforcement|NN|BODY_5:BODY_4|0
+performance|NN|BODY_1:BODY_4|0
+a student|DT NN|BODY_2|0
+the computer|DT NN|BODY_5|0
+'s response|POS NN|BODY_3|0
+the screen|DT NN|BODY_4|0
+fixed interval|VBN NN|BODY_5|0
+variable ratio|JJ NN|BODY_4|0
+a computer program|DT NN NN|BODY_3|0
+fixed ratio|VBN NN|BODY_3|0
+that|WDT|BODY_5|0
+programming schedules|NN NNS|BODY_4|0
+schedules|NNS|BODY_3|0
+a given schedule|DT VBN NN|BODY_3|0
+'s printer|POS NN|BODY_6|0
+accumulative recording|JJ NN|BODY_1|0
+variable interval schedules|JJ NN NNS|BODY_6|0
+animal subjects|NN NNS|BODY_3|0
+computer program|NN NN|BODY_1|0
+the same schedule|DT JJ NN|BODY_6|0
+students|NNS|BODY_1|0

@@ -1,0 +1,1101 @@
+error|NN|BODY_6:BODY_5:BODY_16:ABSTRACT_4:TITLE_3:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+global illumination algorithms|JJ NN NNS|ABSTRACT_5:ABSTRACT_4:TITLE_4:BODY_3:BODY_4:BODY_8|0
+we|PRP|BODY_6:BODY_5:BODY_15:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|2
+the analysis|DT NN|BODY_6:TITLE_2:BODY_1:BODY_4|0
+a framework|DT NN|TITLE_1:BODY_3|0
+which|WDT|BODY_12:BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+a finite number|DT JJ NN|BODY_6:ABSTRACT_8:BODY_3:BODY_10|0
+errors|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_10:ABSTRACT_7|1
+imprecise form factors|JJ NN NNS|ABSTRACT_3:BODY_4|0
+measurement or simulation|NN CC NN|ABSTRACT_8:BODY_3|0
+computational errors|JJ NNS|BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_7:BODY_8|0
+discretization error|NN NN|BODY_6:BODY_2:ABSTRACT_1:BODY_10:BODY_9|0
+reflectance functions|NN NNS|BODY_5:ABSTRACT_3:BODY_4:BODY_7|0
+boundary data|NN NNS|BODY_2:ABSTRACT_1:BODY_9|0
+inner products|JJ NNS|BODY_6:ABSTRACT_4:BODY_7|0
+emission functions|NN NNS|ABSTRACT_4:BODY_7:BODY_8|0
+three sources|CD NNS|ABSTRACT_2:BODY_2|0
+boundary elements|NN NNS|ABSTRACT_5:BODY_1|0
+this paper|DT NN|BODY_1:BODY_3:ABSTRACT_1|0
+a finite-dimensional linear system|DT JJ NN NN|ABSTRACT_3|0
+the finite-dimensional linear system|DT JJ NN NN|ABSTRACT_2|0
+a corresponding projection method|DT JJ NN NN|ABSTRACT_6|0
+halting iterative solvers|NN NN NNS|ABSTRACT_7|0
+the boundary data|DT NN NNS|ABSTRACT_4|0
+each distinct category|DT JJ NN|ABSTRACT_7|0
+the error taxonomy|DT NN NN|ABSTRACT_1|0
+the paper|DT NN|ABSTRACT_2|0
+surface geometry|NN NN|ABSTRACT_2|0
+derive bounds|JJ NNS|ABSTRACT_6|0
+new avenues|JJ NNS|ABSTRACT_5|0
+computational efficiency|JJ NN|ABSTRACT_10|0
+that|DT|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|2
+equation ( 1 )|NN -LRB- CD -RRB-|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|1
+a new operator equation|DT JJ NN NN|BODY_4|1
+the discrete linear system|DT JJ NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_9|0
+the l p -norm|DT JJ NN NN|BODY_6:BODY_2|0
+the constant ffi p|DT JJ NN NN|BODY_5:BODY_11:BODY_2|0
+reflectance and emission functions|NN CC NN NNS|BODY_2|0
+the resulting linear system|DT VBG JJ NN|BODY_3:BODY_14|0
+an approximation f n|DT NN NN NN|BODY_5:BODY_3|0
+a local coordinate system|DT JJ VB NN|BODY_2|0
+this a reasonable ex|DT DT JJ NN|BODY_3|0
+a global illumination problem|DT JJ NN NN|BODY_1:BODY_3:BODY_7|0
+the wave optics effect|DT NN NNS NN|BODY_3:BODY_4|0
+the least squares method|DT JJS NNS NN|BODY_2:BODY_3:BODY_4|0
+the surface radiance function|DT NN NN NN|BODY_7|0
+a and ffi b|DT CC NN NN|BODY_4:BODY_9|0
+a rectangular diffuse receiver|DT JJ JJ NN|BODY_4|0
+one reflection ( figures|CD NN -LRB- NNS|BODY_8|0
+a finite-dimensional linear operator|DT JJ NN NN|BODY_2|0
+no sources or sinks|DT NNS CC NNS|BODY_4|0
+directional dependenceanda quadrilateral mesh|JJ NN JJ NN|BODY_5|0
+the k operator maps|DT NN NN NNS|BODY_5|0
+the generous equipment grant|DT JJ NN NN|BODY_2|0
+k f k 1|NN NN NN CD|BODY_4|0
+equation ( 42 )|NN -LRB- CD -RRB-|BODY_6:BODY_3|0
+discrete boundary element approaches|JJ NN NN NNS|BODY_2|0
+a subspace y ae|DT NN NN NNS|BODY_4|0
+most global illumination algorithms|RBS JJ NN NNS|BODY_1:BODY_7|0
+interactive computer graphics input|JJ NN NNS NN|BODY_3|0
+the local reflection operator|DT JJ NN NN|BODY_2|0
+the present error analysis|DT JJ NN NN|BODY_2|0
+a block matrix [13]|DT NN NN NN|BODY_7|0
+the radiance function f|DT NN NN NN|BODY_5|0
+either empirical or theoretical|DT JJ CC JJ|BODY_5|0
+varied lighting condi- tions|JJ NN NNS NNS|BODY_3|0
+the computational error present|DT JJ NN NN|BODY_3|0
+a more efficient structure|DT RBR JJ NN|BODY_6|0
+the linear operator m|DT NN NN NN|BODY_5|0
+the more difficult errors|DT RBR JJ NNS|BODY_3|0
+all 1 - p|DT LS : NN|BODY_5:BODY_1:BODY_4|0
+cohen and greenberg [8|NN CC NN NNS|BODY_2|0
+the the discretization error|DT DT NN NN|BODY_9|0
+all l p -norms|DT JJ NN NNS|BODY_2|0
+the form factor computations|DT NN NN NNS|BODY_2|0
+essentially the same steps|RB DT JJ NNS|BODY_5|0
+the top curve suffices|DT JJ NN NNS|BODY_2|0
+a given physical environment|DT VBN JJ NN|BODY_2|0
+many global illumination algorithms|JJ JJ NN NNS|BODY_2|0
+the definition or relation|DT NN CC NN|BODY_4|0
+more general inner products|JJR JJ JJ NNS|BODY_3|0
+a perturbed system e|DT JJ NN NN|BODY_10|0
+a smooth lambertian reflector|DT JJ JJ NN|BODY_2|0
+an emission function g|DT NN NN NN|BODY_8|0
+the function space x|DT NN NN NN|BODY_6|0
+the same physical principles|DT JJ JJ NNS|BODY_3|0
+a linear operator equation|DT NN NN NN|BODY_4|0
+a finite linear combination|DT JJ NN NN|BODY_6|0
+mesh size upper collocation|VB NN JJ NN|BODY_2:BODY_1:BODY_3|0
+a geometrical optics formalism|DT JJ NNS NN|BODY_3|0
+exactly one collocation point|RB CD NN NN|BODY_4|0
+the bound computing values|DT JJ NN NNS|BODY_7|0
+a known finite-dimensional subspace|DT VBN JJ NN|BODY_4|0
+the implicit function x|DT JJ NN NN|BODY_4|0
+the source term g|DT NN NN NN|BODY_12|0
+n linearly independent functionals|NN RB JJ NNS|BODY_2|0
+a and e b|DT CC NN NN|BODY_6|0
+an integral operator accounting|DT NN NN NN|BODY_3|0
+the more abstract theory|DT JJR JJ NN|BODY_5|0
+the error k f|DT NN NN NN|BODY_8|0
+inexact or noisy data|JJ CC JJ NNS|BODY_4|0
+equation ( 47 )|NN -LRB- CD -RRB-|BODY_3|0
+( c ) space|-LRB- NN -RRB- NN|BODY_5|0
+the second inner product|DT JJ JJ NN|BODY_3|0
+f f ~ ~|NN NN JJ JJ|BODY_3|0
+equation ( 20 )|NN -LRB- CD -RRB-|BODY_3|0
+deterministic boundary element formulations|JJ NN NN NNS|BODY_13|0
+an explicit projection operator|DT JJ NN NN|BODY_5|0
+the maximum directional reflectivity|DT NN JJ NN|BODY_8|0
+only certain integrability conditions|RB JJ NN NNS|BODY_3|0
+a linear algebraic structure|DT JJ JJ NN|BODY_3|0
+sections 6.1 , 6.2|NNS CD , CD|BODY_7|0
+the above equation defines|DT JJ NN NNS|BODY_2|0
+a ) ( b|DT -RRB- -LRB- NN|BODY_4|0
+finite-dimensional ) linear system|JJ -RRB- NN NN|BODY_6|0
+the more general class|DT RBR JJ NN|BODY_5|0
+the continuous governing equation|DT JJ NN NN|BODY_4|0
+no universally accepted definition|DT RB VBN NN|BODY_2|0
+a bidirectional reflectance function|DT JJ NN NN|BODY_5|0
+the underlying physical principles|DT JJ JJ NNS|BODY_2|0
+the resulting radiance function|DT VBG NN NN|BODY_5|0
+the resulting geometric series|DT VBG JJ NN|BODY_2|0
+those employing surface discretizations|DT VBG NN NNS|BODY_5|0
+a more complete discussion|DT RBR JJ NN|BODY_1|0
+a third distinct class|DT JJ JJ NN|BODY_2|0
+the linear functionals oe|DT NN NNS NN|BODY_3|0
+the incident field radiance|DT NN NN NN|BODY_5|0
+a third contrasting approach|DT JJ NN NN|BODY_1|0
+the major projection methods|DT JJ NN NNS|BODY_2|0
+equation ( 9 )|NN -LRB- CD -RRB-|BODY_4|0
+equation ( 3 )|NN -LRB- CD -RRB-|BODY_8|0
+a single point x|DT JJ NN NN|BODY_8|0
+radiative transfer global illumination|JJ NN JJ NN|BODY_1|0
+i j kgu i|FW FW FW FW|BODY_5|0
+the discrete finite-dimensional problem|DT JJ JJ NN|BODY_1|0
+the best approximation attainable|DT JJS NN NN|BODY_6|0
+ small  perturbations|RB JJ RB NNS|BODY_6|0
+the discretization error k|DT NN NN NN|BODY_1|0
+the best possible approximation|DT JJS JJ NN|BODY_5|0
+a wavelet decomposition [12]|DT NN NN NN|BODY_8|0
+a normed linear space|DT JJ NN NN|BODY_8|0
+( 51 ) equation|-LRB- CD -RRB- NN|BODY_1|0
+( c ) -norm|-LRB- NN -RRB- NN|BODY_11|0
+both k and g|DT NN CC NN|BODY_4|0
+the l 2 -norm|DT NN CD NN|BODY_4|0
+the single exception results|DT JJ NN NNS|BODY_1|0
+the two projection methods|DT CD NN NNS|BODY_1|0
+nearly a century [4]|RB DT NN NN|BODY_7|0
+the solid angle d|DT JJ NN NN|BODY_18|0
+the subsequent error analysis|DT JJ NN NN|BODY_3|0
+an inner product space|DT JJ NN NN|BODY_12|0
+all h 2 x|DT NN CD NN|BODY_5|0
+the conceptual error taxonomy|DT JJ NN NN|BODY_1|0
+troutman and max [37]|NN CC NN NN|BODY_5|0
+equation ( 27 )|NN -LRB- CD -RRB-|BODY_1|0
+4.1 perturbed boundary data|CD JJ NN NNS|BODY_1|0
+k k k 1|NN NN NN CD|BODY_7|0
+energy conservation and reciprocity|NN NN CC NN|BODY_5|0
+the l 1 -norm|DT NN CD NN|BODY_1|0
+the given function norm|DT VBN NN NN|BODY_7|0
+6.1.2 perturbed surface geometry|CD JJ NN NN|BODY_1|0
+an area-to-area form factor|DT NN NN NN|BODY_7|0
+a very natural sense|DT RB JJ NN|BODY_12|0
+the standard operator norm|DT JJ NN NN|BODY_1|0
+6.1 perturbed boundary data|CD JJ NN NNS|BODY_1|0
+the forgoing physical assumptions|DT JJ JJ NNS|BODY_1|0
+the non-negative quantity k|DT JJ NN NN|BODY_5|0
+( 36 ) g|-LRB- CD -RRB- NN|BODY_1|0
+essentially boundary element methods|RB NN NN NNS|BODY_7|0
+the given basis functions|DT VBN NN NNS|BODY_10|0
+the worst-case absolute error|DT JJ JJ NN|BODY_1|0
+7 the combined effect|CD DT VBN NN|BODY_1|0
+a finite dimensional space|DT JJ JJ NN|BODY_3|0
+an explicit matrix [7]|DT JJ NN NN|BODY_12|0
+the perturbed linear system|DT JJ NN NN|BODY_1|0
+the above categories|DT JJ NNS|BODY_2:BODY_7|1
+a projection operator|DT NN NN|BODY_2|1
+direct radiative transfer|JJ JJ NN|BODY_5|1
+simulating radiant transfer|VBG JJ NN|BODY_1|1
+a projection method|DT NN NN|BODY_7|1
+the matrix elements|DT NN NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_8|0
+the exact solution|DT JJ NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+the basis functions|DT NN NNS|BODY_3:BODY_7|0
+the finite-dimensional space|DT JJ NN|BODY_2:BODY_9|0
+the residual error|DT JJ NN|BODY_11:BODY_5:BODY_4:BODY_7|0
+the linear system|DT NN NN|BODY_2:BODY_3|0
+the analytic solution|DT JJ NN|BODY_6:BODY_5:BODY_3|0
+perturbed boundary data|JJ NN NNS|BODY_2:BODY_4:BODY_9|0
+tensor product polynomials|NN NN NNS|BODY_5:BODY_2|0
+imprecise surface geometry|NN NN NN|BODY_2:BODY_3|0
+global illumination problems|JJ NN NNS|BODY_6:BODY_3:BODY_4|0
+a simple configuration|DT JJ NN|BODY_3:BODY_8|0
+the operator norm|DT NN NN|BODY_6:BODY_2|0
+the input data|DT NN NNS|BODY_6:BODY_3:BODY_7|0
+the lower bound|DT JJR JJ|BODY_3|0
+boundary element methods|NN NN NNS|BODY_2|0
+k f k|NN NN NN|BODY_6:BODY_2:BODY_4|0
+each surface point|DT NN NN|BODY_3:BODY_4|0
+the solution process|DT NN NN|BODY_3:BODY_4|0
+three different norms|CD JJ NNS|BODY_6:BODY_4|0
+the closest approximation|DT JJS NN|BODY_2:BODY_4|0
+goral et al|JJ NNP NN|BODY_4:BODY_7|0
+direct radiative exchange|JJ JJ NN|BODY_11:BODY_2|0
+the discretization errors|DT NN NNS|BODY_5:BODY_2|0
+the final solution|DT JJ NN|BODY_3:BODY_4|0
+a linear combination|DT NN NN|BODY_5:BODY_9|0
+the maximum reflectivity|DT JJ NN|BODY_3:BODY_4|0
+the actual solution|DT JJ NN|BODY_3:BODY_4|0
+the classic texts|DT JJ NNS|BODY_2|0
+piecewise-constant basis functions|JJ NN NNS|BODY_2|0
+more realistic error|RBR JJ NN|BODY_3|0
+the galerkin method|DT NN NN|BODY_5:BODY_2|0
+the above expression|DT JJ NN|BODY_18:BODY_7|0
+an upper bound|DT JJ JJ|BODY_1:BODY_3|0
+a linear operator|DT NN NN|BODY_3|0
+the rendering equation|DT NN NN|BODY_4|0
+the galerkin projection|DT NN NN|BODY_2|0
+( 17 )|-LRB- CD -RRB-|BODY_5:BODY_11:BODY_4:BODY_8|0
+hierarchical radiosity [13]|JJ NN NN|BODY_5|0
+the incident beam|DT NN NN|BODY_17:BODY_9|0
+aupperle et al|JJ NNP NN|BODY_2|0
+new york 14853|JJ NN CD|BODY_5|0
+that thermal energy|DT JJ NN|BODY_2|0
+the local coordinates|DT JJ NNS|BODY_4|0
+planar boundary elements|NN NN NNS|BODY_3|0
+the g operator|DT JJ NN|BODY_2:BODY_4|0
+any surface point|DT NN NN|BODY_2|0
+the iterative solution|DT JJ NN|BODY_6|0
+the balance equation|DT NN NN|BODY_1:BODY_3|0
+the two projections|DT CD NNS|BODY_5:BODY_3|0
+constant basis functions|JJ NN NNS|BODY_2|0
+the discrete problem|DT NN NN|BODY_2:BODY_8|0
+the large scale|DT JJ NN|BODY_5|0
+the nsf grant|DT JJ NN|BODY_2|0
+g and k|NN CC NN|BODY_7|0
+a distant surface|DT JJ NN|BODY_4|0
+( 5 )|-LRB- CD -RRB-|BODY_2|0
+a truncated series|DT JJ NN|BODY_3|0
+block matrix approximations|NN NN NNS|BODY_4:BODY_7|0
+interference and diffraction|NN CC NN|BODY_6|0
+the linear sys|DT NN NNS|BODY_7|0
+hanrahan et al|JJ NNP NN|BODY_7|0
+the same analysis|DT JJ NN|BODY_5|0
+that m \gamma1|WDT NN NN|BODY_5|0
+progressive radiosity [7]|JJ NN NN|BODY_2|0
+a real number|DT JJ NN|BODY_11|0
+et al .[8]|NNP NN NN|BODY_6|0
+an analogous statement|DT JJ NN|BODY_3|0
+the light source|DT NN NN|BODY_2|0
+a finite amount|DT JJ NN|BODY_4|0
+a collocation projection|DT NN NN|BODY_2|0
+very special cases|RB JJ NNS|BODY_2|0
+the function norms|DT NN NNS|BODY_2|0
+dist ( f|NN -LRB- NN|BODY_3|0
+the stopping criterion|DT NN NN|BODY_8|0
+several useful consequences|JJ JJ NNS|BODY_1|0
+the essential relationship|DT JJ NN|BODY_1|0
+the radiometric formulation|DT JJ NN|BODY_1|0
+this inequal- ity|DT JJ NN|BODY_2|0
+the previous section|DT JJ NN|BODY_2:BODY_4|0
+the polar angles|DT JJ NNS|BODY_7|0
+a similar nature|DT JJ NN|BODY_6|0
+the computational methods|DT JJ NNS|BODY_6|0
+the resulting matrix|DT VBG NN|BODY_4|0
+( 14 )|-LRB- CD -RRB-|BODY_3|0
+( 23 )|-LRB- CD -RRB-|BODY_3|0
+the enclosure m|DT NN NN|BODY_3|0
+the upper curve|DT JJ NN|BODY_5|0
+its norm supplies|PRP$ JJ NNS|BODY_4|0
+the kernel k|DT NN NN|BODY_2|0
+the reciprocity property|DT NN NN|BODY_3|0
+certain reciprocity conditions|JJ NN NNS|BODY_2|0
+a wide assortment|DT JJ NN|BODY_2|0
+an approximate solution|DT JJ NN|BODY_3|0
+the reflected vector|DT VBN NN|BODY_2|0
+the original integral|DT JJ NN|BODY_3|0
+a starting point|DT VBG NN|BODY_6|0
+an operator equation|DT NN NN|BODY_3|0
+the above inequality|DT JJ NN|BODY_5|0
+gaussian elimination [10]|JJ NN NN|BODY_4|0
+the infinite-dimensional problem|DT JJ NN|BODY_4|0
+the radiance functions|DT NN NNS|BODY_11|0
+ray tracing [38]|NN VBG NN|BODY_3|0
+no analogous structure|DT JJ NN|BODY_7|0
+a numerical experiment|DT JJ NN|BODY_2|0
+k t k|NN NN NN|BODY_2|0
+an integral operator|DT JJ NN|BODY_9|0
+the ubiquitous cosines|DT JJ NNS|BODY_4|0
+some vector norm|DT NN NN|BODY_5|0
+the optimal approximation|DT JJ NN|BODY_4|0
+transparent sur- faces|JJ NNS NNS|BODY_4|0
+the practical limits|DT JJ NNS|BODY_2|0
+immediate physical interpretations|JJ JJ NNS|BODY_5|0
+the linear functionals|DT NN NNS|BODY_3|0
+the emission function|DT NN NN|BODY_9|0
+the parameter n|DT NN NN|BODY_5|0
+an explicit formula|DT JJ NN|BODY_6|0
+oe and m|NN CC NN|BODY_2|0
+the difficult issues|DT JJ NNS|BODY_5|0
+the idealized problems|DT JJ NNS|BODY_2|0
+the total power|DT JJ NN|BODY_4|0
+the sequential steps|DT JJ NNS|BODY_4|0
+absorption and re-emission|NN CC NN|BODY_6|0
+the algebraic structure|DT JJ NN|BODY_11|0
+the exact g|DT JJ NN|BODY_4|0
+radiative transfer processes|JJ NN NNS|BODY_4|0
+local field radiance|JJ NN NN|BODY_13|0
+two novel features|CD NN NNS|BODY_2|0
+the previous ideas|DT JJ NNS|BODY_7|0
+a different notion|DT JJ NN|BODY_6|0
+a linear model|DT JJ NN|BODY_9|0
+no systematic treatment|DT JJ NN|BODY_3|0
+the entire matrix|DT JJ NN|BODY_4|0
+two projection methods|CD NN NNS|BODY_6|0
+discontinuity meshing [14|NN NN NNS|BODY_1|0
+the latter strategy|DT JJ NN|BODY_3|0
+uniform quadrilateral elements|NN JJ NNS|BODY_3|0
+point-to-area form factors|JJ NN NNS|BODY_6|0
+the three bounds|DT CD NNS|BODY_4|0
+the right correspond|DT JJ NN|BODY_2|0
+the constraints oe|DT NNS NN|BODY_2|0
+the following choices|DT VBG NNS|BODY_2|0
+the thermodynamic principles|DT JJ NNS|BODY_4|0
+the intuitive operation|DT JJ NN|BODY_3|0
+37] or wavelets|CD CC NNS|BODY_3|0
+the two directions|DT CD NNS|BODY_4|0
+( 26 )|-LRB- CD -RRB-|BODY_4|0
+the worst-case behavior|DT JJ NN|BODY_6|0
+this last source|DT JJ NN|BODY_2|0
+the near-by problem|DT JJ NN|BODY_3|0
+light sources [36|JJ NNS NNS|BODY_6|0
+several other inequalities|JJ JJ NNS|BODY_9|0
+a particular method|DT JJ NN|BODY_2|0
+distinct linear op|JJ NN NN|BODY_6|0
+geometry and reflection|NN CC NN|BODY_5|0
+the vector b|DT NN NN|BODY_6|0
+the reciprocity relation|DT NN NN|BODY_6|0
+the surface radiance|DT NN NN|BODY_8|0
+ffl radiometric quantities|JJ JJ NNS|BODY_5|0
+lower figure 4|JJR NN CD|BODY_4|0
+the integral form|DT JJ NN|BODY_2|0
+2 ) projection|CD -RRB- NN|BODY_12|0
+p n projects|VBD NN NNS|BODY_6|0
+higher-order basis functions|JJ NN NNS|BODY_2|0
+the numerical analogue|DT JJ NN|BODY_4|0
+a directional reflectivity|DT JJ NN|BODY_14|0
+a major role|DT JJ NN|BODY_4|0
+the error present|DT NN NN|BODY_8|0
+the nsf/arpa science|DT NN NN|BODY_6|0
+a quantitative comparison|DT JJ NN|BODY_2|0
+the following analysis|DT VBG NN|BODY_6:BODY_5|0
+scattering and emission|NN CC NN|BODY_4|0
+very little information|RB JJ NN|BODY_3|0
+m , m|NN , NN|BODY_5|0
+infinitely many norms|RB JJ NNS|BODY_2|0
+the new notation|DT JJ NN|BODY_3|0
+no analytic expression|DT JJ NN|BODY_8|0
+incident radiant energy|NN JJ NN|BODY_5|0
+the finite process|DT JJ NN|BODY_13|0
+the operator m|DT NN NN|BODY_11|0
+0 ( x|CD -LRB- NN|BODY_5|0
+the unit sphere|DT NN NN|BODY_9|0
+surface radiance func|NN NN NN|BODY_4|0
+k and g|NN CC NN|BODY_2|0
+k k k|NN NN NN|BODY_9|0
+the discretization error|DT NN NN|BODY_1:BODY_4|0
+their integral counterparts|PRP$ NN NNS|BODY_3|0
+the computational requirements|DT JJ NNS|BODY_13|0
+analytic form factors|JJ NN NNS|BODY_4|0
+the same factor|DT JJ NN|BODY_11|0
+the general theory|DT JJ NN|BODY_3|0
+the function space|DT NN NN|BODY_3|0
+the relative simplicity|DT JJ NN|BODY_17|0
+equation ( 4|NN -LRB- CD|BODY_7|0
+the field radiance|DT NN NN|BODY_5|0
+normed linear spaces|JJ NN NNS|BODY_2|0
+exact balance equation|JJ NN NN|BODY_7|0
+many possible methods|JJ JJ NNS|BODY_7|0
+fewer boundary elements|JJR NN NNS|BODY_2|0
+the unknown coefficients|DT JJ NNS|BODY_8|0
+a well-defined class|DT JJ NN|BODY_5|0
+k p k|NN NN NN|BODY_7|0
+a natural sense|DT JJ NN|BODY_3|0
+that reflected radiance|DT VBN NN|BODY_10|0
+discrete surface points|JJ NN NNS|BODY_5|0
+the galerkin approach|DT JJ NN|BODY_3|0
+the theoretical upper|DT JJ JJ|BODY_8|0
+all surface points|DT NN NNS|BODY_7|0
+the above equations|DT JJ NNS|BODY_4|0
+a specific notion|DT JJ NN|BODY_11|0
+the perturbed system|DT JJ NN|BODY_2|0
+the approximate solution|DT JJ NN|BODY_4|0
+an evaluation functional|DT NN NN|BODY_5|0
+an inner product|DT JJ NN|BODY_5|0
+the exact matrix|DT JJ NN|BODY_6|0
+linear integral operators|NN NN NNS|BODY_5|0
+a real-valued norm|DT JJ NN|BODY_4|0
+the linear space|DT JJ NN|BODY_6|0
+input data perturbations|NN NNS NNS|BODY_2|0
+scientific visualization (|JJ NN -LRB-|BODY_9|0
+the resulting bounds|DT VBG NNS|BODY_9|0
+the l 1|DT NN CD|BODY_7|0
+neglect energy transfer|NN NN NN|BODY_3|0
+the inner products|DT JJ NNS|BODY_2|0
+the original problem|DT JJ NN|BODY_5:BODY_9|0
+a reasonable approximation|DT JJ NN|BODY_5|0
+partially occluded surfaces|RB VBN NNS|BODY_5|0
+any piecewise-constant approximation|DT JJ NN|BODY_2|0
+oe mu j|NN NN NN|BODY_2|0
+the directional dependence|DT JJ NN|BODY_3|0
+global illumination amenable|JJ NN NN|BODY_3|0
+the present analysis|DT JJ NN|BODY_6|0
+a higher-level organization|DT JJ NN|BODY_3|0
+the central operator|DT JJ NN|BODY_2|0
+approximate form factors|JJ NN NNS|BODY_3|0
+the form collocation|DT NN NN|BODY_15|0
+an abstract setting|DT JJ NN|BODY_2|0
+the error analysis|DT NN NN|BODY_2|0
+no universal method|DT JJ NN|BODY_2|0
+lebesgue integration [32|NN NN NNS|BODY_4|0
+low potential [30]|JJ JJ NN|BODY_6|0
+standard radiometric concepts|JJ JJ NNS|BODY_5:BODY_3|0
+two crucial properties|CD JJ NNS|BODY_2|0
+study discretization errors|NN NN NNS|BODY_4|0
+a similar difficulty|DT JJ NN|BODY_2|0
+the environment m|DT NN NN|BODY_4|0
+the function k|DT NN NN|BODY_1|0
+two simpler ones|CD JJR NNS|BODY_3|0
+bound the errors|VBN DT NNS|BODY_5|0
+such an approximation|JJ DT NN|BODY_8|0
+such a projection|PDT DT NN|BODY_5|0
+the reflectance term|DT NN NN|BODY_2|0
+the previous sections|DT JJ NNS|BODY_3|0
+a different set|DT JJ NN|BODY_5|0
+approacheswhere the matrix|RB DT NN|BODY_1|0
+essentially full convergence|RB JJ NN|BODY_7|0
+the fundamental features|DT JJ NNS|BODY_6|0
+sufficiently many constraints|RB JJ NNS|BODY_5|0
+a second obstacle|DT JJ NN|BODY_1|0
+global error analysis|JJ NN NN|BODY_6|0
+the next conceptualstep|DT JJ NN|BODY_4|0
+this simple coupling|DT JJ NN|BODY_1|0
+how two aspects|WRB CD NNS|BODY_2|0
+bounded radiance functions|VBN NN NNS|BODY_3|0
+the net flux|DT JJ NN|BODY_7|0
+jacobi iteration [13]|NN NN NN|BODY_8|0
+sillion et al|CD NNP NN|BODY_1|0
+the spatial dependence|DT JJ NN|BODY_7|0
+all projection methods|DT NN NNS|BODY_6|0
+area-to-area form factors|JJ NN NNS|BODY_7|0
+( 50 )|-LRB- CD -RRB-|BODY_1|0
+the ray [6]|DT NN NN|BODY_11|0
+n unknown coefficients|NN JJ NNS|BODY_4|0
+the maximum radiance|DT NN NN|BODY_1|0
+small  errors|JJ RB NNS|BODY_8|0
+perturbed reflectance functions|JJ NN NNS|BODY_7|0
+n boundary elements|NN NN NNS|BODY_4|0
+a large class|DT JJ NN|BODY_2|0
+the problem instance|DT NN NN|BODY_6|0
+x figure 1|NNP NN CD|BODY_5|0
+' 0 d|POS CD NN|BODY_6|0
+the greatest lower|DT JJS RBR|BODY_6|0
+the upper bound|DT JJ JJ|BODY_4|0
+a residual error|DT JJ NN|BODY_6|0
+potentially known quantities|RB VBN NNS|BODY_18|0
+( 49 )|-LRB- CD -RRB-|BODY_7|0
+the identity operator|DT NN NN|BODY_7|0
+possible surface geometries|JJ NN NNS|BODY_9|0
+the solution f|DT NN NN|BODY_10|0
+twice this distance|RB DT NN|BODY_6|0
+5 quantifying error|CD VBG NN|BODY_1|0
+a smoothing step|DT JJ NN|BODY_1|0
+any projection method|DT NN NN|BODY_10|0
+imprecise problem instances|NN NN NNS|BODY_9|0
+a common example|DT JJ NN|BODY_1|0
+the mesh refinement|DT NN NN|BODY_7|0
+other basis functions|JJ NN NNS|BODY_8|0
+probabilistic solution methods|JJ NN NNS|BODY_5|0
+reflection or emission|NN CC NN|BODY_5|0
+the other hand|DT JJ NN|BODY_1|0
+the perturbed problem|DT JJ NN|BODY_4|0
+an iterative solver|DT JJ NN|BODY_9|0
+the least upper|DT JJS JJ|BODY_4|0
+the reflected radiance|DT VBN NN|BODY_7|0
+a universal feature|DT JJ NN|BODY_1|0
+mesh elements increases|JJ NNS NNS|BODY_6|0
+global ilumination [33]|JJ NN NN|BODY_6|0
+collocation and galerkin|NN CC NN|BODY_7|0
+4.2.1 basis functions|CD NN NNS|BODY_1|0
+the exact data|DT JJ NNS|BODY_4|0
+more abstract terms|JJR JJ NNS|BODY_1|0
+the boundary elements|DT NN NNS|BODY_5|0
+a second reason|DT JJ NN|BODY_1|0
+the bottom curve|DT JJ NN|BODY_1|0
+the lower curve|DT JJR NN|BODY_1|0
+the top curve|DT JJ NN|BODY_1|0
+directions and positions|NNS CC NNS|BODY_5|0
+immel et al|JJ NNP NN|BODY_1|0
+a straightforward manipulation|DT JJ NN|BODY_1|0
+greater than 1.)|JJR IN CD|BODY_4|0
+the greatest challenges|DT JJS NNS|BODY_1|0
+the two laws|DT CD NNS|BODY_1|0
+simpler geometries [13]|JJR NNS NNS|BODY_4|0
+distant surface radiance|JJ NN NN|BODY_14|0
+a specialized analysis|DT JJ NN|BODY_9|0
+such that and|JJ IN CC|BODY_4|0
+4.3 computational errors|CD JJ NNS|BODY_1|0
+the limiting case|DT VBG NN|BODY_1|0
+5.1 function norms|CD NN NNS|BODY_1|0
+the constants m|DT NNS NN|BODY_1|0
+the linear relationship|DT NN NN|BODY_1|0
+specific projection-based algorithms|JJ JJ NNS|BODY_1|0
+errors or simplifications|NNS CC NNS|BODY_7|0
+display and perception|NN CC NN|BODY_6|0
+the outgoing hemisphere|DT JJ NN|BODY_4|0
+such an approach|PDT DT NN|BODY_1|0
+the first technique|DT JJ NN|BODY_1|0
+the second kind|DT JJ NN|BODY_5|0
+the surface emission|DT NN NN|BODY_1|0
+the previous stage|DT JJ NN|BODY_5|0
+a second-order term|DT JJ NN|BODY_13|0
+comparatively little attention|RB JJ NN|BODY_5|0
+the approximating subspace|DT NN NN|BODY_8|0
+accuracy and efficiency|NN CC NN|BODY_4|0
+5.2 operator norms|CD NN NNS|BODY_1|0
+6.3 computational errors|CD JJ NNS|BODY_1|0
+highly reflective environments|RB JJ NNS|BODY_1|0
+each mesh element|DT NN NN|BODY_1|0
+an alternative approach|DT JJ NN|BODY_1|0
+6.2 discretization error|CD NN NN|BODY_1|0
+the organizational structure|DT JJ NN|BODY_1|0
+the theoretical solution|DT JJ NN|BODY_4|0
+an open problem|DT JJ NN|BODY_6|0
+the second term|DT JJ NN|BODY_1|0
+the direction \gamma|DT NN NN|BODY_6|0
+the projection method|DT NN NN|BODY_16|0
+any such method|DT JJ NN|BODY_1|0
+several physical principles|JJ JJ NNS|BODY_3|0
+the perturbed matrix|DT JJ NN|BODY_1|0
+4.2 discretization error|CD NN NN|BODY_1|0
+a third operator|DT JJ NN|BODY_1|0
+e e ff|NN NN NN|BODY_6|0
+equation ( 5|NN -LRB- CD|BODY_1|0
+the element perturbations|DT NN NNS|BODY_1|0
+the following sections|DT JJ NNS|BODY_1|0
+the present paper|DT JJ NN|BODY_1|0
+the present work|DT JJ NN|BODY_1|0
+the problem domain|DT NN NN|BODY_1|0
+the triangle inequality|DT NN NN|BODY_1|0
+all other steps|DT JJ NNS|BODY_5|0
+given element-by-element error|VBN NN NN|BODY_1|0
+all subsequent bounds|DT JJ NNS|BODY_9|0
+commonly the case|RB DT NN|BODY_4|0
+importance-driven global illumination|JJ JJ NN|BODY_7|0
+the radiance function|DT NN NN|BODY_6|0
+trivial basis functions|JJ NN NNS|BODY_7|0
+physically meaningful problems|RB JJ NNS|BODY_10|0
+the above functional|DT JJ JJ|BODY_1|0
+this approach [5]|DT NN NN|BODY_11|0
+the new formulation|DT JJ NN|BODY_1|0
+the computed solution|DT JJ NN|BODY_5|0
+measurement and simulation|NN CC NN|BODY_6|0
+the cosine weighting|DT NN NN|BODY_7|0
+the following way|DT JJ NN|BODY_3|0
+the computed matrix|DT JJ NN|BODY_1|0
+a reliable solution|DT JJ NN|BODY_1|0
+4.3.2 inexact solution|CD JJ NN|BODY_1|0
+a second technique|DT JJ NN|BODY_1|0
+the incident vector|DT NN NN|BODY_1|0
+global illumination|JJ NN|BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+equation|NN|BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+there|EX|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|1
+the norm|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_7|0
+the space|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+this|DT|BODY_6:BODY_1:BODY_2:BODY_4:BODY_7:BODY_9|0
+terms|NNS|BODY_6:BODY_5:BODY_17:BODY_3:BODY_10:BODY_7|0
+the approximation|DT NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_4|0
+basis functions|NN NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+1|CD|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the solution|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7:BODY_9|0
+instance|NN|BODY_6:BODY_5:BODY_1:BODY_10|1
+opaque surfaces|JJ NNS|BODY_6:BODY_12|1
+diffuse surfaces|JJ NNS|BODY_2|1
+linear operators|JJ NNS|BODY_2|1
+future work|JJ NN|BODY_2|1
+matrix norms|NN NNS|BODY_7|1
+all types|DT NNS|BODY_4|1
+important differences|JJ NNS|BODY_5|1
+higher-order elements|JJR NNS|BODY_5:BODY_7|1
+the theory|DT NN|BODY_1|1
+operator norms|NN NNS|BODY_8|1
+8 conclusions|CD NNS|BODY_1|1
+the problem|DT NN|BODY_6:BODY_2:BODY_3|0
+the distance|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+radiance functions|NN NNS|BODY_6:BODY_2:BODY_4:BODY_8|0
+form factors|NN NNS|BODY_5:BODY_2:BODY_1:BODY_4|0
+projection methods|NN NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4|0
+the effects|DT NNS|BODY_1:BODY_2|0
+x|NNP|BODY_5:BODY_3:BODY_4:BODY_8|0
+this section|DT NN|BODY_2:BODY_1:BODY_3|0
+the form|DT NN|BODY_1:BODY_4|0
+the subspace|DT NN|BODY_15:BODY_2:BODY_7|0
+f n|NN NN|BODY_2:BODY_3|0
+x n|NN NN|BODY_6:BODY_4:BODY_9|0
+the lower|DT JJR|BODY_6:BODY_3|0
+a surface|DT NN|BODY_1:BODY_3:BODY_7|0
+the dimensions|DT NNS|BODY_6:BODY_5|0
+this form|DT NN|BODY_3:BODY_8|0
+each plot|DT NN|BODY_2|0
+each|DT|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4|0
+the purpose|DT NN|BODY_3:BODY_7|0
+spherical harmonics|JJ NNS|BODY_6:BODY_4|0
+an environment|DT NN|BODY_4:BODY_7|0
+operator equations|NN NNS|BODY_6:BODY_1|0
+error analysis|NN NN|BODY_5:BODY_4|0
+the impact|DT NN|BODY_5:BODY_2|0
+its distance|PRP$ NN|BODY_3|0
+the discrepancy|DT NN|BODY_5:BODY_2|0
+sup z|NN FW|BODY_5:BODY_2|0
+error bounds|NN NNS|BODY_12:BODY_5:BODY_13|0
+the projection|DT NN|BODY_5:BODY_4|0
+the elements|DT NNS|BODY_6:BODY_5|0
+figure 3|NN CD|BODY_2:BODY_4:BODY_7|0
+each stage|DT NN|BODY_3|0
+the dimension|DT NN|BODY_6:BODY_7|0
+integral equations|JJ NNS|BODY_5:BODY_4|0
+the presence|DT NN|BODY_6:BODY_9|0
+computer graphics|NN NNS|BODY_3:BODY_8|0
+the integral|DT NN|BODY_6:BODY_10|0
+the choice|DT NN|BODY_6:BODY_5:BODY_1|0
+the mapping|DT NN|BODY_6:BODY_3|0
+zatz [41]|JJ NN|BODY_4|0
+a norm|DT NN|BODY_3:BODY_9|0
+a perturbation|DT NN|BODY_4:BODY_7|0
+bounds|VBZ|BODY_5:BODY_2:BODY_3:BODY_4:BODY_19:BODY_9|0
+an approximation|DT NN|BODY_2:BODY_4|0
+a measure|DT NN|BODY_5:BODY_4|0
+each point|DT NN|BODY_6|0
+the connection|DT NN|BODY_5:BODY_1|0
+rudin [32|NN NNS|BODY_3|0
+the perturbation|DT NN|BODY_5:BODY_4|0
+an example|DT NN|BODY_2|0
+the accuracy|DT NN|BODY_5:BODY_1:BODY_3|0
+a number|DT NN|BODY_2:BODY_9|0
+diffuse environments|JJ NNS|BODY_1:BODY_3|0
+emission function|NN NN|BODY_3:BODY_7|0
+the i|DT NN|BODY_6|0
+adaptive meshing|JJ NN|BODY_5:BODY_2|0
+the geometry|DT NN|BODY_1:BODY_4|0
+these errors|DT NNS|BODY_6:BODY_11:BODY_1|0
+the error|DT NN|BODY_1:BODY_8|0
+m \gamma1|NN NN|BODY_1:BODY_4:BODY_7|0
+the coefficients|DT NNS|BODY_6:BODY_5:BODY_2|0
+specific choices|JJ NNS|BODY_5:BODY_3|0
+the operators|DT NNS|BODY_6:BODY_3|0
+a set|DT NN|BODY_2|0
+p n|NN NN|BODY_2|0
+full matrix|JJ NN|BODY_3|0
+specular reflection|JJ NN|BODY_5:BODY_4|0
+a lack|DT NN|BODY_2|0
+mathematical formalisms|JJ NNS|BODY_3|0
+piecewise-constant functions|JJ NNS|BODY_3|0
+the subject|DT NN|BODY_1:BODY_4|0
+characterizing environments|VBG NNS|BODY_2|0
+its action|PRP$ NN|BODY_3|0
+dani lischinski|JJ NN|BODY_2|0
+hewlett-packard corporation|JJ NN|BODY_3|0
+radiative transfer|JJ NN|BODY_4:BODY_10|0
+( a|-LRB- DT|BODY_12|0
+steady-state radiance|NN NN|BODY_3|0
+an enclosure|DT NN|BODY_4:BODY_7|0
+manyvaluable discus|JJ NN|BODY_3|0
+whose workstations|WP$ NNS|BODY_4|0
+purely mathematical|RB JJ|BODY_9|0
+a galerkin-|DT NNS|BODY_8|0
+these norms|DT NNS|BODY_2|0
+the processes|DT NNS|BODY_2|0
+an artifact|DT NN|BODY_7|0
+the actions|DT NNS|BODY_6|0
+light emission|NN NN|BODY_3|0
+radiance [watts/m|NN NN|BODY_6|0
+each element|DT NN|BODY_2:BODY_9|0
+the use|DT NN|BODY_1:BODY_3|0
+10 units|CD NNS|BODY_5|0
+the effect|DT NN|BODY_3:BODY_4|0
+the cosine|DT NN|BODY_6|0
+the type|DT NN|BODY_2|0
+orthogonal polynomials|JJ NNS|BODY_7|0
+particular interest|JJ NN|BODY_3|0
+the enclosure|DT NN|BODY_5:BODY_2|0
+the conceptualstages|DT NNS|BODY_13|0
+a consequence|DT NN|BODY_2|0
+13 )|CD -RRB-|BODY_2|0
+8 )|CD -RRB-|BODY_2:BODY_4|0
+the distance |DT NN|BODY_8|0
+any direction|DT NN|BODY_3|0
+the equation|DT NN|BODY_9|0
+a space|DT NN|BODY_2|0
+'s theorem|POS NN|BODY_2|0
+the distribution|DT NN|BODY_5:BODY_8|0
+these elements|DT NNS|BODY_2|0
+these choices|DT NNS|BODY_6:BODY_3|0
+the authors|DT NNS|BODY_1|0
+the incident|DT NN|BODY_8|0
+( c|-LRB- NN|BODY_6:BODY_1|0
+the behavior|DT NN|BODY_3|0
+a notion|DT NN|BODY_7|0
+that use|IN NN|BODY_3|0
+the bounds|DT NNS|BODY_12:BODY_5|0
+radiosity [8|NN NNS|BODY_4|0
+participating media|VBG NNS|BODY_9|0
+surface elements|NN NNS|BODY_6|0
+a point|DT NN|BODY_3|0
+the comparison|DT NN|BODY_6|0
+the result|DT NN|BODY_1:BODY_8|0
+the matrix|DT NN|BODY_3|0
+any surface|DT NN|BODY_5:BODY_9|0
+f p|NN NN|BODY_2|0
+a range|DT NN|BODY_7|0
+these facts|DT NNS|BODY_1:BODY_3|0
+matrix elements|NN NNS|BODY_3|0
+the cos|DT NNS|BODY_5|0
+discretization errors|NN NNS|BODY_5:BODY_1|0
+the results|DT NNS|BODY_2:BODY_1|0
+a unit|DT NN|BODY_5|0
+eachbasis function|DT NN|BODY_6|0
+42 )|CD -RRB-|BODY_14:BODY_4|0
+ff ff|NN NN|BODY_2|0
+that ff|DT NN|BODY_1|0
+the data|DT NNS|BODY_1|0
+the former|DT JJ|BODY_1|0
+51 )|CD -RRB-|BODY_2|0
+oe i|NN NN|BODY_4|0
+the range|DT NN|BODY_12|0
+real-valued functions|JJ NNS|BODY_3|0
+all sources|DT NNS|BODY_4|0
+matrix perturbation|NN NN|BODY_2|0
+the collection|DT NN|BODY_2|0
+complete convergence|JJ NN|BODY_3|0
+the linear|DT NN|BODY_4:BODY_9|0
+free space|JJ NN|BODY_5|0
+more impor-|JJR NNS|BODY_5|0
+the transformation|DT NN|BODY_2|0
+an error|DT NN|BODY_2|0
+the ordered|DT VBN|BODY_7|0
+any p|DT NN|BODY_3|0
+roundoff error|NN NN|BODY_7|0
+this endeavor|DT NN|BODY_2|0
+point-to-area interactions|NN NNS|BODY_4|0
+surface points|NN NNS|BODY_4|0
+unit side|NN NN|BODY_3|0
+the ideal|DT NN|BODY_4|0
+gauss-seidel [8]|JJ NN|BODY_5|0
+infinite-dimensional problems|JJ NNS|BODY_6|0
+standard computations|NN NNS|BODY_3|0
+the energy|DT NN|BODY_2|0
+the projections|DT NNS|BODY_2|0
+a cosine|DT NN|BODY_10|0
+any choice|DT NN|BODY_5|0
+their relationship|PRP$ NN|BODY_5|0
+all surfaces|DT NNS|BODY_3|0
+the set|DT NN|BODY_8|0
+k k|NN NN|BODY_6|0
+certain approximations|JJ NNS|BODY_2|0
+large-scale geometry|JJ NN|BODY_6|0
+area measure|NN NN|BODY_9|0
+perturbed entities|JJ NNS|BODY_11|0
+the discussion|DT NN|BODY_2|0
+those due|DT JJ|BODY_4|0
+the notion|DT NN|BODY_8|0
+x corresponds|NN NNS|BODY_2|0
+the distances|DT NNS|BODY_2|0
+a formalism|DT NN|BODY_5|0
+the function|DT NN|BODY_2|0
+point-to-area form|JJ NN|BODY_4|0
+actual materials|JJ NNS|BODY_5|0
+direct solvers|JJ NNS|BODY_5|0
+each category|DT NN|BODY_5|0
+the product|DT NN|BODY_11|0
+-z z|NNP FW|BODY_7|0
+various errors|JJ NNS|BODY_2|0
+infinite-dimensional spaces|JJ NNS|BODY_4|0
+the inequality|DT NN|BODY_3|0
+small entries|JJ NNS|BODY_2|0
+closed-form expressions|JJ NNS|BODY_4|0
+the efficiency|DT NN|BODY_5|0
+the factor|DT NN|BODY_4|0
+x 0|NNP CD|BODY_2|0
+the support|DT NN|BODY_5|0
+some ideal|DT NN|BODY_3|0
+that z|DT FW|BODY_3|0
+appendix b|NN NN|BODY_6|0
+the number|DT NN|BODY_5|0
+this category|DT NN|BODY_3|0
+1 measures|CD VBZ|BODY_3|0
+1 )|CD -RRB-|BODY_2|0
+whose role|WP$ NN|BODY_5|0
+gaussian elimination|JJ NN|BODY_6|0
+display techniques|NN NNS|BODY_4|0
+the angle|DT NN|BODY_16|0
+a priori|DT NN|BODY_2|0
+a problem|DT NN|BODY_5|0
+the sources|DT NNS|BODY_3|0
+2 x|CD NN|BODY_2|0
+collocation [22]|NN NN|BODY_2|0
+a lower|DT JJR|BODY_8|0
+display purposes|NN NNS|BODY_3|0
+heckbert [14]|NN NN|BODY_3|0
+algebraic properties|JJ NNS|BODY_4|0
+emission )|NN -RRB-|BODY_8|0
+interative solvers|JJ NNS|BODY_8|0
+measurement errors|NN NNS|BODY_13|0
+the equations|DT NNS|BODY_3|0
+the coupling|DT NN|BODY_8|0
+special operators|JJ NNS|BODY_2|0
+the receiver|DT NN|BODY_1|0
+exact solution|JJ NN|BODY_3|0
+the boundary|DT NN|BODY_4|0
+these features|DT NNS|BODY_2|0
+incoming directions|VBG NNS|BODY_12|0
+th element|IN NN|BODY_13|0
+more concise|JJR NN|BODY_2|0
+the scattering|DT NN|BODY_4|0
+ffi p|JJ NN|BODY_2|0
+a ray|DT NN|BODY_4|0
+a form|DT NN|BODY_4|0
+the role|DT NN|BODY_2|0
+zero [25]|CD NN|BODY_3|0
+ir n|NN NN|BODY_7|0
+m \theta|NN NN|BODY_4|0
+( 15|-LRB- CD|BODY_4|0
+the median|DT NN|BODY_3|0
+physically-motivated measures|JJ NNS|BODY_2|0
+the roles|DT NNS|BODY_3|0
+the extrema|DT NN|BODY_5|0
+simulation [40]|NN NN|BODY_3|0
+specific sub-problems|JJ NNS|BODY_2|0
+orthogonal [2|JJ NNS|BODY_4|0
+the domain|DT NN|BODY_10|0
+a function|DT NN|BODY_3|0
+n )|NN -RRB-|BODY_4|0
+surface radiance|NN NN|BODY_8|0
+the radiative|DT NN|BODY_6|0
+finite-dimensional quantities|JJ NNS|BODY_8|0
+its inverse|PRP$ NN|BODY_3|0
+the sake|DT NN|BODY_4|0
+the degrees|DT NNS|BODY_4|0
+higher accuracyby|JJR NN|BODY_2|0
+the diagonal|DT JJ|BODY_7|0
+the mean|DT JJ|BODY_4|0
+that inequality|DT NN|BODY_3|0
+analytic area-to-area|JJ NN|BODY_3|0
+this source|DT NN|BODY_4|0
+computational procedures|JJ NNS|BODY_3|0
+the fly|DT NN|BODY_4|0
+some error|DT NN|BODY_3|0
+their connection|PRP$ NN|BODY_4|0
+the inter-action|DT NN|BODY_4|0
+several reasons|JJ NNS|BODY_2:BODY_4|0
+direction vectors|NN NNS|BODY_6|0
+the properties|DT NNS|BODY_6|0
+linear operator|NN NN|BODY_6|0
+physical processes|JJ NNS|BODY_2|0
+visibility computations|NN NNS|BODY_6|0
+this way|DT NN|BODY_2|0
+the approximations|DT NNS|BODY_4|0
+31 )|CD -RRB-|BODY_3|0
+optics effects|NNS NNS|BODY_2|0
+the quantity|DT NN|BODY_6|0
+distinct points|JJ NNS|BODY_9|0
+reflection functions|NN NNS|BODY_4|0
+discretization tasks|NN NNS|BODY_4|0
+the norms|DT NNS|BODY_2|0
+a system|DT NN|BODY_6|0
+bounded operators|JJ NNS|BODY_3|0
+'s lemma|POS NN|BODY_11|0
+four-fold integrals|JJ NNS|BODY_5|0
+this norm|DT NN|BODY_3|0
+the chain|DT NN|BODY_5|0
+each conveying|DT VBG|BODY_5|0
+z \omega|FW NNP|BODY_10|0
+the adjoint|DT NN|BODY_4|0
+polyak [31]|NN NN|BODY_6|0
+this class|DT NN|BODY_4|0
+constant elements|JJ NNS|BODY_2|0
+some notion|DT NN|BODY_3|0
+these restrictions|DT NNS|BODY_14|0
+15 )|CD -RRB-|BODY_4|0
+ problems|NN NNS|BODY_3|0
+internal degrees|JJ NNS|BODY_3|0
+problem instances|NN NNS|BODY_4|0
+38 )|CD -RRB-|BODY_4|0
+the quality|DT NN|BODY_4|0
+a e|DT NN|BODY_5|0
+the one|DT CD|BODY_4|0
+numerical methods|JJ NNS|BODY_3|0
+a solution|DT NN|BODY_6|0
+another source|DT NN|BODY_4|0
+ size |NN NN|BODY_4|0
+the approxima|DT NN|BODY_10|0
+recent literature|JJ NN|BODY_8|0
+approximations specific|NNS NN|BODY_2|0
+its solution|PRP$ NN|BODY_3|0
+k f|NN NN|BODY_2|0
+the reflection|DT NN|BODY_6|0
+the notation|DT NN|BODY_3|0
+the right|DT NN|BODY_3|0
+other possibilities|JJ NNS|BODY_2|0
+the level|DT NN|BODY_3|0
+e ff|NN NN|BODY_3|0
+perfect reflectors|JJ NNS|BODY_2|0
+the hemisphere|DT NN|BODY_11|0
+26 )|CD -RRB-|BODY_2|0
+technology center|NN NN|BODY_7|0
+radiometric variables|JJ NNS|BODY_2|0
+the class|DT NN|BODY_2|0
+surface perturbations|NN NNS|BODY_4|0
+a taxonomy|DT NN|BODY_2|0
+this computation|DT NN|BODY_7|0
+these questions|DT NNS|BODY_3|0
+angular directions|JJ NNS|BODY_8|0
+some extent|DT NN|BODY_2|0
+other quantities|JJ NNS|BODY_6|0
+computer solution|NN NN|BODY_4|0
+definitive answers|JJ NNS|BODY_2|0
+n equations|NN NNS|BODY_7|0
+the formulation|DT NN|BODY_9|0
+three categories|CD NNS|BODY_8|0
+wavelength bands|NN NNS|BODY_4|0
+the environment|DT NN|BODY_6:BODY_10|0
+the power|DT NN|BODY_1:BODY_3|0
+several avenues|JJ NNS|BODY_6|0
+the method|DT NN|BODY_4|0
+emitted light|JJ NN|BODY_5|0
+a hemicube|DT NN|BODY_7|0
+the types|DT NNS|BODY_3|0
+( 21|-LRB- CD|BODY_5|0
+better ways|JJR NNS|BODY_1|0
+maximum reflectivity|JJ NN|BODY_5|0
+these laws|DT NNS|BODY_1|0
+many cases|JJ NNS|BODY_6|0
+these notions|DT NNS|BODY_3|0
+basis function|NN NN|BODY_7|0
+collocation point|NN NN|BODY_7|0
+some instances|DT NNS|BODY_9|0
+section 3|NN CD|BODY_5:BODY_10|0
+new errors|JJ NNS|BODY_4|0
+the strategy|DT NN|BODY_6|0
+p 2|NN CD|BODY_4|0
+the means|DT NNS|BODY_4|0
+distant surfaces|JJ NNS|BODY_10|0
+kantorovich [19]|JJ NN|BODY_4|0
+the computation|DT NN|BODY_6|0
+a projection|DT NN|BODY_3|0
+matrix form|NN NN|BODY_5|0
+the steps|DT NNS|BODY_3|0
+the perturbations|DT NNS|BODY_5|0
+a bound|DT VBN|BODY_7|0
+distinct categories|JJ NNS|BODY_4|0
+the discrete|DT NN|BODY_5|0
+non-diffuse environments|JJ NNS|BODY_1|0
+worst-case bounds|JJ NNS|BODY_4|0
+numerical approximation|JJ NN|BODY_4|0
+43 )|CD -RRB-|BODY_3|0
+conservative bounds|JJ NNS|BODY_2|0
+the tools|DT NNS|BODY_3|0
+any input|DT NN|BODY_2|0
+computingan approximatesolution|NN NN|BODY_14|0
+a side|DT NN|BODY_6|0
+2b-c )|JJ -RRB-|BODY_9|0
+the case|DT NN|BODY_1|0
+this operator|DT NN|BODY_1|0
+this research|DT NN|BODY_5|0
+this scale|DT NN|BODY_7|0
+surface integration|NN NN|BODY_8|0
+ close |RB JJ|BODY_9|0
+some sense|DT NN|BODY_11:BODY_4|0
+each step|DT NN|BODY_13|0
+its members|PRP$ NNS|BODY_9|0
+possible approximations|JJ NNS|BODY_3|0
+various algorithms|JJ NNS|BODY_4|0
+a mapping|DT NN|BODY_6|0
+these categories|DT NNS|BODY_5|0
+these sources|DT NNS|BODY_3|0
+the dependenceon|DT NN|BODY_1|0
+the evaluation|DT NN|BODY_5|0
+each approach|DT NN|BODY_5|0
+other approaches|JJ NNS|BODY_1|0
+39 )|CD -RRB-|BODY_2|0
+this observation|DT NN|BODY_1|0
+let x|VB NN|BODY_1|0
+the operator|DT NN|BODY_1|0
+this work|DT NN|BODY_1|0
+the argument|DT NN|BODY_1|0
+reliable bounds|JJ NNS|BODY_1|0
+quantitative answers|JJ NNS|BODY_7|0
+let m|VB NN|BODY_1|0
+the cost|DT NN|BODY_1|0
+combining equations|VBG NNS|BODY_1|0
+its interior|PRP$ NN|BODY_5|0
+non-constant basis|JJ NN|BODY_1|0
+the bound|DT VBN|BODY_1|0
+the angles|DT NNS|BODY_1|0
+the reflectance|DT NN|BODY_4|0
+finite-dimensional subspaces|JJ NNS|BODY_6|0
+weighted measure|JJ NN|BODY_11|0
+numerous ways|JJ NNS|BODY_4|0
+0 term|CD NN|BODY_1|0
+finite dimensions|JJ NNS|BODY_7|0
+this configuration|DT NN|BODY_1|0
+ffi g|VBN NN|BODY_10|0
+the algorithm|DT NN|BODY_1|0
+the reflectivity|DT NN|BODY_1|0
+2 sr]|CD NN|BODY_7|0
+input errors|NN NNS|BODY_1|0
+one exception|CD NN|BODY_1|0
+matrix norm|NN NN|BODY_6|0
+power [watts|NN NNS|BODY_7|0
+a deficiency|DT NN|BODY_1|0
+multiple integration|JJ NN|BODY_6|0
+( b|-LRB- NN|BODY_1|0
+wavelets [12]|NNS NNS|BODY_7|0
+an algorithm|DT NN|BODY_5|0
+all projections|DT NNS|BODY_1|0
+the value|DT NN|BODY_1|0
+f|NN|BODY_5:BODY_2:BODY_10:BODY_8|0
+( 12|-LRB- CD|BODY_1|0
+4.2.2 projections|CD NNS|BODY_1|0
+image synthesis|NN NN|BODY_8|0
+two functions|CD NNS|BODY_12|0
+any collection|DT NN|BODY_1|0
+the operation|DT NN|BODY_1|0
+that equation|DT NN|BODY_1|0
+the ij|DT NN|BODY_1|0
+the idea|DT NN|BODY_1|0
+this level|DT NN|BODY_1|0
+another form|DT NN|BODY_1|0
+world coordinates|NN NNS|BODY_3|0
+kajiya [18]|NN NN|BODY_5|0
+surface features|NN NNS|BODY_8|0
+5.3 norms|CD NNS|BODY_1|0
+linear constraints|JJ NNS|BODY_4|0
+the plots|DT NNS|BODY_1|0
+any case|DT NN|BODY_1|0
+the essence|DT NN|BODY_1|0
+collocation methods|NN NNS|BODY_5|0
+grazing angles|VBG NNS|BODY_6|0
+linear 3|NN CD|BODY_2|0
+figure 4|NN CD|BODY_1|0
+surfaces )|NNS -RRB-|BODY_7|0
+section 4|NN CD|BODY_5|0
+finite processes|JJ NNS|BODY_9|0
+linear algebra|NN NN|BODY_6|0
+the representation|DT NN|BODY_1|0
+this distance|DT NN|BODY_1|0
+109] shows|CD NNS|BODY_1|0
+the source|DT NN|BODY_1|0
+the terms|DT NNS|BODY_1|0
+radiometric quantities|JJ NNS|BODY_1|0
+linear functionals|JJ NNS|BODY_5|0
+practical considerations|JJ NNS|BODY_5|0
+the linearity|DT NN|BODY_1|0
+non-constant elements|JJ NNS|BODY_1|0
+the methods|DT NNS|BODY_1|0
+standard methods|JJ NNS|BODY_1|0
+finite norm|JJ NN|BODY_5|0
+other norms|JJ NNS|BODY_1|0
+the meaning|DT NN|BODY_1|0
+matrix methods|NN NNS|BODY_8|0
+the remainder|DT NN|BODY_1|0
+the action|DT NN|BODY_1|0
+other methods|JJ NNS|BODY_1|0
+solutions f|NNS NN|BODY_7|0
+x u|NN NN|BODY_7|0
+much work|JJ NN|BODY_2|0
+our knowledge|PRP$ NN|BODY_1|0
+different lines|JJ NNS|BODY_2|0
+measurement error|NN NN|BODY_22|0
+the subscript|DT NN|BODY_1|0
+perfect reflection|JJ NN|BODY_1|0
+a rule|DT NN|BODY_1|0
+monochromatic radiation|JJ NN|BODY_1|0
+the desired|DT VBN|BODY_1|0
+these error|DT NN|BODY_1|0
+these inequalities|DT NNS|BODY_1|0
+this question|DT NN|BODY_1|0
+this space|DT NN|BODY_15|0
+different approximations|JJ NNS|BODY_5|0
+gaussian quadrature|JJ NN|BODY_7|0
+the order|DT NN|BODY_1|0
+this transition|DT NN|BODY_1|0
+subsequent sections|JJ NNS|BODY_6|0
+any projection|DT NN|BODY_9|0
+an abstraction|DT NN|BODY_1|0
+reciprocity states|NN NNS|BODY_1|0
+implementation details|NN NNS|BODY_6|0
+this type|DT NN|BODY_1|0
+4.3.1 perturbation|CD NN|BODY_1|0
+existing algorithms|VBG NNS|BODY_8|0
+u 1|NN CD|BODY_8|0

@@ -1,0 +1,33 @@
+equal robustness|JJ NN|BODY_3|0
+the controllers|DT NNS|BODY_2|0
+a step load disturbance|DT NN NN NN|BODY_4|0
+pi and pid controllers|NN CC JJ NNS|BODY_2|0
+a simple dead-time compensator|DT JJ JJ NN|BODY_6|0
+pid and dead-time compensating controllers|JJ CC JJ NN NNS|BODY_2|0
+dead-time margin|JJ NN|BODY_5|0
+the dtc|DT NN|BODY_2|0
+robustness|NN|BODY_2|0
+the sensitivity function|DT NN NN|BODY_7|0
+a simple dead-time compensator (dtc|DT JJ JJ NN NN|BODY_3|0
+'s|POS|BODY_3|0
+a function|DT NN|BODY_4|0
+the question|DT NN|BODY_4|0
+the absolute values|DT JJ NNS|BODY_6|0
+the h/sub infinity|DT NN NN|BODY_3|0
+|NN|BODY_5|0
+this paper|DT NN|BODY_3|0
+norm|NN|BODY_4|0
+the sum|DT NN|BODY_5|0
+the integrated absolute error ( iae )|DT JJ JJ NN -LRB- NN -RRB-|BODY_2|0
+the performance criterion|DT NN NN|BODY_1|0
+a fair comparison|DT JJ NN|BODY_1|0
+some sense|DT NN|BODY_4|0
+d/sub m/|NN NN|BODY_6|0
+performance|NN|BODY_1|0
+it|PRP|BODY_1|0
+the plant input|DT NN NN|BODY_5|0
+a measure|DT NN|BODY_1|0
+the complementary sensitivity function|DT JJ NN NN|BODY_8|0
+a pid|DT JJ|BODY_7|0
+performance comparison|NN NN|BODY_1|0
+both stable and integrating processes|DT JJ CC JJ NNS|BODY_1|0

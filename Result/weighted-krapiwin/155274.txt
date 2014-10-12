@@ -1,0 +1,636 @@
+we|PRP|BODY_12:BODY_11:BODY_16:BODY_17:BODY_18:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|8
+the logical data model|DT JJ NNS NN|BODY_5:TITLE_1:BODY_2:BODY_3|0
+that|WDT|BODY_12:BODY_11:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+which|WDT|BODY_5:BODY_17:BODY_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_8|0
+an algebraic query language|DT JJ NN NN|BODY_5:ABSTRACT_2|0
+separate names and values|JJ NNS CC NNS|BODY_5:ABSTRACT_4|0
+a database scheme|DT NN NN|BODY_3:ABSTRACT_1|1
+the logical language|DT JJ NN|ABSTRACT_4:BODY_3|0
+an object-oriented data model|DT JJ NN NN|ABSTRACT_2|1
+a nonprocedural query language|DT JJ NN NN|ABSTRACT_4|0
+a directed graph|DT VBN NN|ABSTRACT_3|0
+whose internal nodes|WP$ JJ NNS|ABSTRACT_6|0
+s|VBZ|BODY_12:BODY_11:BODY_22:BODY_17:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+v|RB|BODY_11:BODY_16:BODY_21:BODY_15:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_8:BODY_9|1
+the result|DT NN|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_20:BODY_9|0
+i|NN|BODY_11:BODY_16:BODY_17:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_9|0
+1|CD|BODY_12:BODY_16:BODY_22:BODY_13:BODY_2:BODY_3:BODY_4:BODY_37:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+fig|NN|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|3
+this|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_30:BODY_8|1
+there|EX|BODY_32:BODY_6:BODY_11:BODY_5:BODY_15:BODY_2:BODY_1:BODY_14:BODY_4:BODY_8:BODY_9|1
+type|NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+oe|NN|BODY_6:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|2
+w|WRB|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_4:BODY_10:BODY_7:BODY_8:BODY_20|1
+the schema|DT NN|BODY_11:BODY_15:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_9|0
+the set|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+an extended algebraic query|DT JJ NN NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3|1
+two important object-oriented features|CD JJ JJ NNS|BODY_2|1
+5 ) figure 7|CD -RRB- NN CD|BODY_5|1
+a relation example 5|DT NN NN CD|BODY_9|1
+an arbitrary directed graph|DT JJ VBN NN|BODY_4|1
+the query|DT NN|BODY_6:BODY_5:BODY_11:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+.e|NN|BODY_6:BODY_5:BODY_16:BODY_23:BODY_3:BODY_10:BODY_4:BODY_7|0
+a candidate data value|DT NN NN NN|BODY_5:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_9|0
+the logical query language|DT JJ NN NN|BODY_2:BODY_3:BODY_4|0
+the more general form|DT RBR JJ NN|BODY_6|0
+qa and q l|NN CC NN NN|BODY_5:BODY_3:BODY_8|0
+at most one name|IN JJS CD NN|BODY_6:BODY_5|0
+all the bound variables|PDT DT JJ NNS|BODY_3|0
+semantic data models [ab84|JJ NNS NNS NNS|BODY_4|0
+the algebraic operation \theta|DT JJ NN NN|BODY_4|0
+helpful discussions and suggestions|JJ NNS CC NNS|BODY_5|0
+l 2 i(v )|JJ CD NN -RRB-|BODY_4|0
+every database instance i|DT NN NN NN|BODY_11:BODY_16|0
+every extended algebraic query|DT VBN NN NN|BODY_6:BODY_8|0
+only one free variable|RB CD JJ JJ|BODY_5:BODY_14|0
+the algebraic query qa|DT NN NN NN|BODY_16:BODY_8|0
+then val( l )|RB JJ NN -RRB-|BODY_2|0
+existing nodes figure 17|VBG NNS NN CD|BODY_3|0
+a set i(u )|DT NN NN -RRB-|BODY_6:BODY_5|0
+a node w dom|DT NN NN NN|BODY_5:BODY_2|0
+a slightly restricted logic|DT RB VBN NN|BODY_5|0
+the relational model [cod70]|DT JJ NN NN|BODY_7|0
+' j ( v|POS NN -LRB- FW|BODY_3|0
+a well-formed ldm formula|DT JJ JJ NN|BODY_2|0
+( b ) w|-LRB- NN -RRB- NN|BODY_1|0
+the size oe v|DT NN NN NN|BODY_27|0
+1 l val( l|CD JJ NN JJ|BODY_3|0
+a data manipulation language|DT NNS NN NN|BODY_3|0
+some n and nodes|DT NN CC NNS|BODY_1|0
+h \theta ( w|JJ NN -LRB- VBD|BODY_6|0
+1 and therefore oe|CD CC RB NNP|BODY_10|0
+a logical query equivalent|DT JJ NN NN|BODY_4|0
+the algebraic query language|DT JJ NN NN|BODY_1:BODY_3|0
+the w / i|DT JJ NN NN|BODY_10|0
+1 ( v )|CD -LRB- NN -RRB-|BODY_6|0
+sq 2 ffiq 1|NN CD NN CD|BODY_12|0
+the person and parent|DT NN CC NN|BODY_10|0
+at least one v|IN JJS CD RB|BODY_6|0
+the notation q v|DT NN NN NN|BODY_7|0
+x 1 vn )|NN CD NN -RRB-|BODY_3|0
+( / j )|-LRB- NNP NN -RRB-|BODY_4|0
+each distinct data value|DT JJ NNS NN|BODY_1|0
+any safe logical query|DT JJ JJ NN|BODY_2|0
+l 2 val( l|JJ CD NN JJ|BODY_9|0
+type ( h \theta|NN -LRB- NN NN|BODY_2|0
+u ( x u|NNP -LRB- NN NNP|BODY_4|0
+some algebraic oper- ation|DT JJ NNS NN|BODY_4|0
+an overkill-his query language|DT JJ NN NN|BODY_6|0
+a network figure 4|DT NN NN CD|BODY_8|0
+two selection operators 1|CD NN NNS CD|BODY_3|0
+a ) n )|DT -RRB- NN -RRB-|BODY_1:BODY_2|0
+1 and z 2|CD CC FW CD|BODY_7|0
+more than one edge|JJR IN NN NN|BODY_3|0
+a ) ( b|DT -RRB- -LRB- NN|BODY_2|0
+henceforth the query schema|RB DT NN NN|BODY_6|0
+the hierarchy example 3|DT NN NN CD|BODY_13|0
+the induction hypothesis i|DT NN NN NN|BODY_5|0
+a ) if v|DT -RRB- IN NN|BODY_7|0
+type \theta and v|NN NN CC FW|BODY_9|0
+nonprocedural , query language|JJ , JJ NN|BODY_5|0
+procedural , query language|JJ , JJ NN|BODY_7|0
+the individual simple queries|DT JJ JJ NNS|BODY_8|0
+the relational tuple calculus|DT JJ NN NN|BODY_2|0
+a previous algebraic operator|DT JJ JJ NN|BODY_5|0
+whose head and tail|WP$ NN CC NN|BODY_6|0
+a given query q|DT VBN NN NN|BODY_2|0
+the two incomparable instances|DT CD JJ NNS|BODY_11|0
+a more detailed discussion|DT RBR JJ NN|BODY_1|0
+h [ or h|NN NN CC NN|BODY_4|0
+~ \theta figure 21|JJ NNP NN CD|BODY_3|0
+( l d )|-LRB- JJ NN -RRB-|BODY_10|0
+( a ) v|-LRB- DT -RRB- NN|BODY_1|0
+the atomic formula x|DT JJ NN NN|BODY_1|0
+a candidate value (|DT NN NN -LRB-|BODY_3|0
+each query node v|DT NN NN NNS|BODY_3|0
+the relational model-a query|DT JJ NN NN|BODY_5|0
+hull and yap [hy82]|NN CC NN NN|BODY_7|0
+the formula oe u|DT NN NN NN|BODY_11|0
+a ) oe v|DT -RRB- NN NN|BODY_4|0
+a fairly straightforward induction|DT RB JJ NN|BODY_3|0
+type ( wn wn|NN -LRB- JJ JJ|BODY_3|0
+a simple logical query|DT JJ JJ NN|BODY_3|0
+2. w / oe|. VBD VBN NNP|BODY_11|0
+all the candidate values|DT DT NN NNS|BODY_3|0
+w dom / [|NN NN JJ NN|BODY_16|0
+/ j 1 iff|JJ NN CD NN|BODY_2|0
+a formula oe v|DT NN NNP FW|BODY_6|0
+ordinary isomorphism definition 9|JJ NN NN CD|BODY_5|0
+the formula oe w|DT NN NN NN|BODY_4|0
+these well formed subformulas|DT RB VBN NNS|BODY_4|0
+the only atomic formulas|DT JJ JJ NNS|BODY_3|0
+type [ and v|NN NN CC FW|BODY_5|0
+an extended logical query|DT JJ JJ NN|BODY_2:BODY_1|0
+'s format model [hy82]|POS NN NN NN|BODY_6|0
+a ( v )|DT -LRB- NN -RRB-|BODY_3|0
+an equivalent logical query|DT JJ JJ NN|BODY_5|0
+such that i 0|JJ IN NN CD|BODY_4|0
+a unique instance i|DT JJ NN NN|BODY_2|0
+the cartesian product fig|DT NN NN NN|BODY_13|0
+the disjoint union fig|DT NN NN NN|BODY_7|0
+such that q l|JJ DT NN NN|BODY_4|0
+[ v2v i(v )|JJ NN NN -RRB-|BODY_2|0
+every finite instance i|DT NN NN NN|BODY_3|0
+q 1 example 9|NN CD NN CD|BODY_6|0
+( a ) d|-LRB- DT -RRB- NN|BODY_1|0
+the corresponding ldm schema|DT JJ NN NN|BODY_1|0
+the following two examples|DT VBG CD NNS|BODY_1|0
+a delete  operator|DT JJ NN NN|BODY_4|0
+any extended algebraic query|DT JJ NN NN|BODY_5|0
+the existing data models|DT VBG NNS NNS|BODY_8|0
+a safe logical query|DT JJ JJ NN|BODY_7|0
+hull and yap [hy82|NN CC NN NNS|BODY_1|0
+some extended logical query|DT VBN JJ NN|BODY_9|0
+each formula oe v|DT NN NN NN|BODY_1|0
+an arbitrary logical query|DT JJ JJ NN|BODY_1|0
+the order oe q|DT NN NN NN|BODY_1|0
+a labeled directed multigraph|DT VBN VBN NN|BODY_2|0
+the formula oe v|DT NN NN NN|BODY_1|0
+the same candidate values|DT JJ NN NNS|BODY_11|0
+each q v i|DT JJ NN NN|BODY_1|0
+v i j )|FW FW FW -RRB-|BODY_5|0
+the next example shows|DT JJ NN NNS|BODY_1|0
+an equivalent query language|DT JJ NN NN|BODY_1|0
+no single algebraic operator|DT JJ JJ NN|BODY_3|0
+no algebraic query equivalent|DT JJ NN NN|BODY_2|0
+a node w )|DT NN NN -RRB-|BODY_9|0
+some such d 0|DT JJ JJ CD|BODY_1|0
+the extended algebraic query|DT JJ NN NN|BODY_1|0
+the variable x v|DT NN NN NN|BODY_17|0
+all the well-formed subformulas|PDT DT JJ NNS|BODY_1|0
+just the data value|RB DT NN NN|BODY_6|0
+some previous fi j|DT JJ JJ NN|BODY_10|0
+the operator fi j|DT NN JJ NN|BODY_11|0
+a finite instance i|DT NN NN NN|BODY_5|0
+a given instance i.|DT VBN NN NN|BODY_5|0
+every extended logical query|DT JJ JJ NN|BODY_10|0
+a simple query qw|DT JJ NN NN|BODY_4|0
+oe iff i oe|NN NN PRP NN|BODY_3|0
+v 2 y w|FW CD NN NN|BODY_1|0
+the ldm schema|DT NN NN|BODY_4:BODY_7:BODY_20|2
+the format model|DT NN NN|BODY_1:BODY_2|1
+one|CD|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|0
+u|PRP|BODY_6:BODY_5:BODY_18:BODY_39:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7|1
+the form x|DT NN NN|BODY_6:BODY_2:BODY_3|1
+schema and instance|NN CC NN|BODY_4|1
+the particular choice|DT JJ NN|BODY_2|1
+exactly one edge|RB CD NN|BODY_3|1
+an important part|DT JJ NN|BODY_2|1
+incorporate other features|JJ JJ NNS|BODY_2|1
+hierarchical database systems|JJ NN NNS|BODY_4|1
+encapsulation  etc|NN JJ NN|BODY_6|1
+the only nodes|DT JJ NNS|BODY_4|1
+an important feature|DT JJ NN|BODY_1|1
+a hierarchy 3|DT NN CD|BODY_22|1
+previous algebraic operations|JJ NN NNS|BODY_8|1
+the database|DT NN|BODY_6:BODY_5:BODY_23:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_20|0
+q|NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+a node|DT NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+nodes|NNS|BODY_6:BODY_5:BODY_11:BODY_15:BODY_13:BODY_2:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+they|PRP|BODY_2:BODY_10:BODY_4:BODY_7:BODY_8|0
+an instance|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|0
+the algebraic operation|DT JJ NN|BODY_5:BODY_2:BODY_4:BODY_7:BODY_8|0
+an ldm schema|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+an ldm formula|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+the relational model|DT JJ NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+a candidate value|DT NN NN|BODY_5:BODY_2:BODY_10:BODY_8|0
+the database schema|DT NN NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_10|0
+val( l )|JJ JJ -RRB-|BODY_5:BODY_13:BODY_4:BODY_7|0
+a data value|DT NN NN|BODY_11:BODY_2|0
+i( w )|JJ NN -RRB-|BODY_5:BODY_15:BODY_3:BODY_4:BODY_8|0
+i / i|VBP NNS VBP|BODY_13:BODY_3:BODY_9|0
+only those tuples|RB DT NNS|BODY_2|0
+the ldm algebra|DT NN NN|BODY_2|0
+v and w|NN CC NN|BODY_5:BODY_2:BODY_3|0
+i .e|NN NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_9|0
+an instance i|DT NN NN|BODY_18:BODY_2:BODY_14|0
+the value|DT NN|BODY_6:BODY_34:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8|0
+the algebraic query|DT JJ NN|BODY_15:BODY_2|0
+a simple query|DT JJ NN|BODY_5:BODY_10:BODY_8|0
+type ( h|NN -LRB- NN|BODY_2:BODY_3:BODY_4|0
+the same children|DT JJ NNS|BODY_6:BODY_15:BODY_3:BODY_4:BODY_7:BODY_9|0
+the relational calculus|DT JJ NN|BODY_2:BODY_3|0
+a query node|DT NN NN|BODY_6:BODY_5:BODY_2|0
+hull and yap|NN CC NN|BODY_5:BODY_1|0
+a finite instance|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+candidate data values|NN NNS NNS|BODY_6:BODY_5:BODY_7:BODY_8:BODY_9|0
+the same type|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_8|0
+the data value|DT NNS NN|BODY_6:BODY_2|0
+a new node|DT JJ NN|BODY_6:BODY_3:BODY_8|0
+type h \theta|NN NN NN|BODY_12:BODY_2:BODY_3|0
+all the nodes|PDT DT NNS|BODY_6:BODY_5:BODY_4|0
+exactly one name|RB CD NN|BODY_3|0
+such a node|JJ DT NN|BODY_1:BODY_2|0
+a long sequence|DT JJ NN|BODY_2|0
+the selection condition|DT NN NN|BODY_5:BODY_9|0
+v r i|RB NN NN|BODY_6:BODY_5:BODY_3|0
+the selection operation|DT NN NN|BODY_4|0
+a novel feature|DT NN NN|BODY_2|0
+the first part|DT JJ NN|BODY_3:BODY_4|0
+our query language|PRP$ NN NN|BODY_2|0
+the relational instance|DT JJ NN|BODY_2|0
+the relational alge|DT JJ NN|BODY_3|0
+the algebraic queries|DT JJ NNS|BODY_7|0
+z n wn|FW NN JJ|BODY_6:BODY_5:BODY_8|0
+an algebraic operator|DT JJ NN|BODY_5:BODY_3|0
+the query q|DT NN NN|BODY_6:BODY_5:BODY_3|0
+each person record|DT NN NN|BODY_2|0
+some l oe|DT JJ NN|BODY_12:BODY_4|0
+the right hand|DT JJ NN|BODY_3|0
+the cartesian product|DT JJ NN|BODY_6:BODY_3|0
+the following lemma|DT VBG NN|BODY_2:BODY_4:BODY_7|0
+the projection operation|DT NN NN|BODY_2:BODY_1|0
+the object value|DT NN NN|BODY_3|0
+a significant aspect|DT JJ NN|BODY_2|0
+the deletion operator|DT NN NN|BODY_3:BODY_4|0
+the schema level|DT NN NN|BODY_3:BODY_4|0
+i(u 0 )|NN CD -RRB-|BODY_5:BODY_14|0
+the same thing|DT JJ NN|BODY_2|0
+each ff i|DT NN NN|BODY_4|0
+the corresponding edges|DT JJ NNS|BODY_5:BODY_8|0
+the anonymous referees|DT JJ NNS|BODY_6|0
+all the names|PDT DT NNS|BODY_6:BODY_4|0
+some l d|DT JJ NN|BODY_6:BODY_7|0
+the address space|DT NN NN|BODY_4|0
+no outgoing edges|DT JJ NNS|BODY_5:BODY_4|0
+7. / i|DT JJ NN|BODY_1|0
+a data model|DT NNS NN|BODY_1|0
+several components [tl82]|JJ NNS NN|BODY_2|0
+the first question|DT JJ NN|BODY_1|0
+the relational union|DT JJ NN|BODY_2|0
+the union operator|DT NN NN|BODY_1|0
+whose free variables|WP$ JJ NNS|BODY_6:BODY_5|0
+the node v|DT NN FW|BODY_3:BODY_7|0
+( a )|-LRB- DT -RRB-|BODY_1|0
+qa and qb|NN CC NN|BODY_3|0
+logic programming [|NN NN NN|BODY_5|0
+vq \gamma dq|NN NN NN|BODY_5:BODY_4:BODY_7|0
+the (ordered multi)set|DT JJ NN|BODY_2|0
+all these examples|PDT DT NNS|BODY_2:BODY_19|0
+structured data models|JJ NNS NNS|BODY_5|0
+an immediate consequence|DT JJ NN|BODY_2|0
+all finite subsets|DT JJ NNS|BODY_4:BODY_7|0
+a logical query|DT JJ NN|BODY_1:BODY_3:BODY_4:BODY_9|0
+the person-parent relation|DT JJ NN|BODY_3|0
+( v|-LRB- NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10|0
+the instance level|DT NN NN|BODY_6:BODY_5|0
+a flat structure|DT JJ NN|BODY_7|0
+tail w prod|NN VBD NN|BODY_11:BODY_3|0
+the bound variables|DT JJ NNS|BODY_3:BODY_9|0
+the non-well-founded sets|DT JJ NNS|BODY_4|0
+the query language|DT NN NN|BODY_2:BODY_7|0
+the form w|DT NN NN|BODY_2|0
+all the arguments|PDT DT NNS|BODY_7|0
+each node u|DT NN NN|BODY_5:BODY_7|0
+isomorphic relative to|JJ JJ TO|BODY_21:BODY_13:BODY_3:BODY_10|0
+the logical query|DT JJ NN|BODY_5:BODY_18|0
+the past decade|DT JJ NN|BODY_4|0
+the query formulas|DT NN NNS|BODY_5:BODY_25|0
+a fixed instance|DT JJ NN|BODY_2:BODY_4|0
+the linked list|DT VBN NN|BODY_3|0
+such a formula|JJ DT NN|BODY_5:BODY_1|0
+the key point|DT JJ NN|BODY_28|0
+the basic ideas|DT JJ NNS|BODY_4|0
+a tuple variable|DT NN JJ|BODY_4|0
+any atomic subformula|DT JJ NN|BODY_5|0
+a query q|DT NN NN|BODY_2|0
+u and v|NN CC NN|BODY_1:BODY_2|0
+the node w|DT NN NN|BODY_8|0
+the same order|DT JJ NN|BODY_5:BODY_14|0
+the final round|DT JJ NN|BODY_6|0
+'s database logic|POS NN NN|BODY_3|0
+( w dom|-LRB- NN NN|BODY_5|0
+the new edges|DT JJ NNS|BODY_3|0
+wa / oe|DT JJ NN|BODY_4|0
+the same way|DT JJ NN|BODY_3:BODY_9|0
+y 2 note|NN CD NN|BODY_3|0
+a topological order|DT JJ NN|BODY_2|0
+a tuple 1|DT NN CD|BODY_3:BODY_4|0
+a finite set|DT NN NN|BODY_7:BODY_8|0
+r \gamma s.|NN NN NNS|BODY_4|0
+l such that|NN JJ IN|BODY_4|0
+the following assignment|DT JJ NN|BODY_4|0
+oe v i|NNP FW FW|BODY_6:BODY_4|0
+an object value|DT NN NN|BODY_16|0
+some other node|DT JJ NN|BODY_6|0
+the cyclic schema|DT NN NN|BODY_2|0
+once more oe|RB JJR NN|BODY_9|0
+an arbitrary element|DT JJ NN|BODY_15:BODY_1|0
+the above construction|DT JJ NN|BODY_5|0
+the previous section|DT JJ NN|BODY_2|0
+a genealogy database|DT NN NN|BODY_7|0
+then the children|RB DT NNS|BODY_2|0
+a straightforward induction|DT JJ NN|BODY_2|0
+the set d|DT VBN NN|BODY_4:BODY_7|0
+the stored data|DT VBN NNS|BODY_6|0
+relational database theory|JJ NN NN|BODY_2|0
+some edges e)|DT NNS NN|BODY_6|0
+0 2 d|CD CD VBN|BODY_2|0
+at least one|IN JJS CD|BODY_8|0
+the atomic formulas|DT JJ NNS|BODY_2|0
+the form d|DT NN NN|BODY_10|0
+the outgoing edges|DT JJ NNS|BODY_5|0
+v r j|RB JJ NN|BODY_1:BODY_7|0
+an independent schema|DT JJ NN|BODY_5|0
+the free variables|DT JJ NNS|BODY_1:BODY_4|0
+some bound variables|DT JJ NNS|BODY_2|0
+the new node|DT JJ NN|BODY_6|0
+the d j|DT JJ NN|BODY_11|0
+/ j 1|JJ NN CD|BODY_6:BODY_4|0
+the same contents|DT JJ NNS|BODY_2|0
+the following constraint|DT VBG NN|BODY_16|0
+a possible result|DT JJ NN|BODY_6|0
+8. / i|. NNP FW|BODY_1|0
+this data value|DT NNS NN|BODY_4|0
+different temporary nodes|JJ JJ NNS|BODY_4|0
+1 ( v|CD -LRB- NN|BODY_6|0
+a great deal|DT JJ NN|BODY_2|0
+every logical query|DT JJ NN|BODY_4|0
+another possible result|DT JJ NN|BODY_10|0
+the their heads|DT PRP$ NNS|BODY_14:BODY_20|0
+any logical query|DT JJ NN|BODY_3|0
+q oe w|RB NN NN|BODY_3|0
+two record types|CD NN NNS|BODY_16|0
+3 example 2|CD NN CD|BODY_10|0
+1 / (|CD NN -LRB-|BODY_5|0
+a hierarchy figure|DT NN NN|BODY_12|0
+w dom )|NN NN -RRB-|BODY_10|0
+the following way|DT JJ NN|BODY_11|0
+a mathematical model|DT JJ NN|BODY_3|0
+one node w|CD NN NN|BODY_11|0
+the v i|DT NN NN|BODY_4|0
+v and e|NN CC NN|BODY_4|0
+another ldm schema|DT NN NN|BODY_5|0
+l 2 i|JJ CD NN|BODY_5|0
+some extra nodes|DT JJ NNS|BODY_5|0
+an effective procedure|DT JJ NN|BODY_4|0
+each name l|DT NN NN|BODY_12|0
+the type assignment|DT NN NN|BODY_3|0
+only the connection|RB DT NN|BODY_2|0
+the natural thing|DT JJ NN|BODY_3|0
+these two queries|DT CD NNS|BODY_10|0
+the above list|DT JJ NN|BODY_9|0
+8. example 11|JJR NN CD|BODY_6|0
+an object name|DT NN NN|BODY_1|0
+more recent work|RBR JJ NN|BODY_1|0
+some element val|DT NN NN|BODY_3|0
+the delete set|DT VB NN|BODY_6|0
+each internal node|DT JJ NN|BODY_7|0
+the nice properties|DT JJ NNS|BODY_3|0
+the disjoint union|DT JJ NN|BODY_3|0
+our work unifies|PRP$ NN NNS|BODY_1|0
+/ h \theta|DT NN NN|BODY_9|0
+a fixed sort|DT JJ NN|BODY_3|0
+the preliminary publication|DT JJ NN|BODY_1|0
+dq and head|NN CC NN|BODY_5|0
+precede v i|JJ NN NN|BODY_9|0
+oe v (|NNP RB -LRB-|BODY_5|0
+some l 2|DT NN CD|BODY_5|0
+particular the ability|JJ DT NN|BODY_5|0
+all possible values|DT JJ NNS|BODY_2|0
+a new name|DT JJ NN|BODY_3|0
+each val 2|DT NN CD|BODY_6|0
+all the elements|PDT DT NNS|BODY_2|0
+database querying [au79]|NN NN NN|BODY_5|0
+the previous case|DT JJ NN|BODY_4|0
+a logical ,|DT JJ ,|BODY_3|0
+no dupli- cation|DT NNS NN|BODY_12|0
+the two arcs|DT CD NNS|BODY_13|0
+'s relational calculus|POS JJ NN|BODY_9|0
+each logical query|DT JJ NN|BODY_2|0
+v 6= w|FW CD NN|BODY_3|0
+two such mechanisms|CD JJ NNS|BODY_2|0
+virtual person person|JJ NN NN|BODY_9|0
+some new name|DT JJ NN|BODY_2|0
+the original schema|DT JJ NN|BODY_5|0
+a delete operator|DT JJ NN|BODY_3|0
+the safe queries|DT JJ NNS|BODY_6|0
+type ( 4|NN -LRB- CD|BODY_3|0
+a finite subset|DT JJ NN|BODY_14|0
+every instance i|DT NN NN|BODY_5|0
+the next one|DT JJ CD|BODY_3|0
+v ~ ~|FW FW FW|BODY_6|0
+the sequence fi|DT NN NN|BODY_6|0
+i 2 val|NN CD NN|BODY_21|0
+l definition 14|JJ NN CD|BODY_5|0
+the person record|DT NN NN|BODY_9|0
+nodes and edges|NNS CC NNS|BODY_5|0
+the same label|DT JJ NN|BODY_6|0
+obvious-if this condition|RB DT NN|BODY_3|0
+each dummy record|DT JJ NN|BODY_5|0
+an isomorphic image|DT JJ NN|BODY_4|0
+a ) v|DT -RRB- FW|BODY_8|0
+the database structure|DT NN NN|BODY_2|0
+the same schema|DT JJ NN|BODY_15|0
+type ( l|NN -LRB- NN|BODY_7|0
+a hierarchical representation|DT JJ NN|BODY_15|0
+these algebraic operators|DT JJ NNS|BODY_4|0
+all the objects|PDT DT NNS|BODY_4|0
+a fixed schema|DT JJ NN|BODY_2|0
+each algebraic operator|DT JJ NN|BODY_6|0
+the empty schema|DT JJ NN|BODY_6|0
+r j )|NN NN -RRB-|BODY_5|0
+a mapping g|DT NN NN|BODY_7|0
+exactly one child|RB CD NN|BODY_2:BODY_3|0
+a straightforward application|DT JJ NN|BODY_3|0
+powerset or union|NN CC NN|BODY_7|0
+a selection condition|DT NN NN|BODY_9|0
+the relational algebra|DT JJ NN|BODY_5|0
+a specific relation|DT JJ NN|BODY_6|0
+a multigraph one|DT JJ NN|BODY_2|0
+free variables x|JJ NNS SYM|BODY_8|0
+the database [ull82]|DT NN NN|BODY_6|0
+i oe v|FW NNP FW|BODY_18|0
+a database schema|DT NN NN|BODY_3|0
+these preceding nodes|DT VBG NNS|BODY_7|0
+a new variable|DT JJ JJ|BODY_4|0
+a linear order|DT JJ NN|BODY_7|0
+let l 1|VB NN CD|BODY_1|0
+this query language|DT NN NN|BODY_2|0
+satisfy oe v|VB JJ NN|BODY_3|0
+a different variable|DT JJ NN|BODY_5|0
+every query node|DT NN NN|BODY_4|0
+the corresponding instance|DT JJ NN|BODY_6|0
+the corresponding set|DT JJ NN|BODY_2|0
+q and i|NN CC NN|BODY_9|0
+the first component|DT JJ NN|BODY_12|0
+satisfies oe v|VBZ NN RB|BODY_8|0
+all these models|PDT DT NNS|BODY_1|0
+a new model|DT JJ NN|BODY_3|0
+the new schema|DT JJ NN|BODY_6:BODY_15|0
+the genealogy schema|DT NN NN|BODY_3|0
+satisfy certain conditions|VB JJ NNS|BODY_4|0
+definition oe v|NN NN NN|BODY_13|0
+any n nodes|DT NN NNS|BODY_2|0
+n distinct nodes|NN JJ NNS|BODY_2|0
+a 1-1 correspondence|DT JJ NN|BODY_14|0
+the previous examples|DT JJ NNS|BODY_5|0
+tail w /|NN VBD JJ|BODY_6|0
+the ldm formula|DT NN NN|BODY_8|0
+one algebraic operation|CD JJ NN|BODY_4|0
+x vn ) |NN NN -RRB-|BODY_3|0
+a trivial problem|DT JJ NN|BODY_3|0
+each l i|DT NN NN|BODY_7|0
+example 12 )|NN CD -RRB-|BODY_3|0
+all other variables|DT JJ NNS|BODY_2|0
+the notation oe|DT NN NN|BODY_3|0
+the major disadvantages|DT JJ NNS|BODY_3|0
+the data space|DT NNS NN|BODY_5|0
+some node u|DT NN NN|BODY_2|0
+the relevant edges|DT JJ NNS|BODY_2|0
+the query schema|DT NN NN|BODY_2|0
+this arbitrary name|DT JJ NN|BODY_5|0
+the variables x|DT NNS SYM|BODY_6|0
+the possible types|DT JJ NNS|BODY_2|0
+a stronger definition|DT JJR NN|BODY_5|0
+that oe u|DT NN NN|BODY_31|0
+that i q|DT NN NN|BODY_2|0
+all let val|DT VB NN|BODY_8|0
+all the labelings|PDT DT NNS|BODY_3|0
+q v i\gamma1|NN NN RB|BODY_3|0
+wa and w|NNS CC NN|BODY_3|0
+the data values|DT NN NNS|BODY_3|0
+1 and 2|CD CC CD|BODY_7|0
+all those edges|DT DT NNS|BODY_4|0
+the network model|DT NN NN|BODY_5|0
+the second problem|DT JJ NN|BODY_9|0
+2 figure 13|CD NN CD|BODY_4|0
+an data value|DT NN NN|BODY_3|0
+the next section|DT JJ NN|BODY_2:BODY_1|0
+a value (|DT NN -LRB-|BODY_3|0
+general , undecidable|JJ , JJ|BODY_3|0
+the following conditions|DT VBG NNS|BODY_7|0
+such a query|JJ DT NN|BODY_2|0
+each node v|DT NN NN|BODY_2:BODY_1:BODY_9|0
+restrict i oe|VB NN NN|BODY_12|0
+each candidate value|DT NN NN|BODY_5|0
+the following abbreviations|DT VBG NNS|BODY_3|0
+the two nodes|DT CD NNS|BODY_2|0
+the following types|DT JJ NNS|BODY_3|0
+n edges e|NN NNS NN|BODY_15:BODY_9|0
+n wn ae|RB VBN NNS|BODY_6|0
+tail w dom|NN NN NN|BODY_4|0
+that q v|DT NN NN|BODY_5|0
+a node v|DT NN NN|BODY_7|0
+all these figures|PDT DT NNS|BODY_12|0
+an ordered multiset|DT VBN NN|BODY_6:BODY_5|0
+two data values|CD NNS NNS|BODY_3|0
+the static portion|DT JJ NN|BODY_4|0
+a node u|DT NN NN|BODY_3|0
+relations ( cf|NNS -LRB- NN|BODY_9|0
+only one edge|RB CD NN|BODY_2|0
+fl val j|NN NN NN|BODY_5|0
+all those objects|PDT DT NNS|BODY_7|0
+a decision procedure|DT NN NN|BODY_2|0
+the hierarchical model|DT JJ NN|BODY_1|0
+two different names|CD JJ NNS|BODY_6|0
+l val( l|JJ NN JJ|BODY_2|0
+a child u|DT NN NN|BODY_5|0
+all those nodes|DT DT NNS|BODY_4|0
+at most one|IN JJS CD|BODY_7|0
+exactly one set|RB CD NN|BODY_19|0
+( b )|-LRB- NN -RRB-|BODY_1|0
+the data domain|DT NN NN|BODY_3|0
+similar query languages|JJ NN NNS|BODY_1|0
+the second part|DT JJ NN|BODY_1|0
+just one node|RB CD NN|BODY_4|0
+the allowed instances|DT VBN NNS|BODY_6|0
+a maximal extension|DT JJ NN|BODY_2|0
+the same labeling|DT JJ NN|BODY_8|0
+a directed multigraph|DT VBN NN|BODY_3|0
+( c )|-LRB- NN -RRB-|BODY_1|0
+some data value|DT NNS NN|BODY_1|0
+the same power|DT JJ NN|BODY_6|0
+the same value|DT JJ NN|BODY_11|0
+both these models|DT DT NNS|BODY_1|0
+let i 1|VB NN CD|BODY_1|0
+each object name|DT NN NN|BODY_17|0
+( d )|-LRB- NN -RRB-|BODY_1|0
+2. oe q|DT NN NN|BODY_1|0
+the second component|DT JJ NN|BODY_1|0
+the third component|DT JJ NN|BODY_1|0
+a well-formed formula|DT JJ NN|BODY_2:BODY_4|0
+the standard meanings|DT JJ NNS|BODY_4|0
+two different sets|CD JJ NNS|BODY_6|0
+the early 1980|DT JJ CD|BODY_5|0
+the second clause|DT JJ NN|BODY_1|0
+a special case|DT JJ NN|BODY_1|0
+the desired properties|DT VBN NNS|BODY_3|0
+cyclic defini- tions|JJ NNS NNS|BODY_7|0
+the delete operator|DT NN NN|BODY_1|0
+similarly named nodes|RB VBN NNS|BODY_6|0
+the query qa|DT NN NN|BODY_7|0
+' database logic|POS NN NN|BODY_5|0
+the following holds|DT JJ NNS|BODY_12|0
+an infinite set|DT JJ NN|BODY_7|0
+i 0 to|NN CD TO|BODY_3|0
+the mapping val|DT NN NN|BODY_1|0
+another useful abbreviation|DT JJ NN|BODY_1|0
+an algebraic query|DT JJ NN|BODY_1|0
+the resulting instance|DT VBG NN|BODY_1|0
+( v )|-LRB- RB -RRB-|BODY_5:BODY_1|0
+the basic type|DT JJ NN|BODY_6|0
+the algebraic operators|DT JJ NNS|BODY_1|0
+any instance i|DT NN FW|BODY_4|0
+a well-defined way|DT JJ NN|BODY_5|0
+this restricted logic|DT JJ NN|BODY_1|0
+the tricky case|DT JJ NN|BODY_1|0
+the database node|DT NN NN|BODY_7|0
+the database schemas|DT NN NN|BODY_4|0
+the only node|DT JJ NN|BODY_1|0
+other algebraic operations|JJ JJ NNS|BODY_4|0
+oe v 1|NN NN CD|BODY_31|0
+the data element|DT NNS NN|BODY_4|0
+the corresponding domain|DT JJ NN|BODY_8|0
+a particular type|DT JJ NN|BODY_3|0
+an equivalent query|DT JJ NN|BODY_3|0
+w / i|JJ JJ NN|BODY_5|0
+a data element|DT NN NN|BODY_8|0
+temporary nodes dql|JJ NNS NN|BODY_2|0
+the only case|DT JJ NN|BODY_1|0
+the atomic formula|DT JJ NN|BODY_1|0
+the following theorem|DT VBG NN|BODY_2|0
+a total order|DT JJ NN|BODY_2|0
+. 18 )|. CD -RRB-|BODY_10|0
+the database instance|DT NN NN|BODY_4|0
+oe v names|NN NN NNS|BODY_5|0
+a similar way|DT JJ NN|BODY_1|0
+7. concluding remarks|. VBG NNS|BODY_1|0
+each such subformula|DT JJ NN|BODY_1|0
+names and values|NNS CC NNS|BODY_7|0
+some other abbreviations|DT JJ NNS|BODY_1|0
+the decision procedure|DT NN NN|BODY_2|0
+the following definitions|DT JJ NNS|BODY_3|0
+the formal details|DT JJ NNS|BODY_1|0
+the ldm logic|DT JJ NN|BODY_4|0
+the mathematical theory|DT JJ NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+the query languages|DT NN NNS|BODY_1|0
+these two languages|DT CD NNS|BODY_12|0
+a selection operator|DT NN NN|BODY_1|0
+some ldm formula|DT JJ NN|BODY_5|0
+each interior node|DT NN NN|BODY_1|0
+this very simplicity|DT RB NN|BODY_1|0
+all the candidate|PDT DT NN|BODY_1|0
+type h iii|NN NN NNS|BODY_2|0
+l ) )|NN -RRB- -RRB-|BODY_7|0
+/ j 2|JJ NN CD|BODY_11|0
+an ldm sentence|DT JJ NN|BODY_7|0
+the following definition|DT VBG NN|BODY_1|0
+the one hand|DT CD NN|BODY_1|0
+the other approaches|DT JJ NNS|BODY_5|0
+the edge corresponds|DT NN NNS|BODY_4|0
+a legal schema|DT JJ NN|BODY_9|0
+a natural generalization|DT JJ NN|BODY_1|0
+an arbitrary query|DT JJ NN|BODY_5|0
+this case 4|DT NN CD|BODY_8|0
+a dummy record|DT JJ NN|BODY_21|0
+8x v )oe|JJ NN NN|BODY_1|0
+0 iff 1|CD NN CD|BODY_6|0
+2. / i|DT JJ NN|BODY_1|0
+the two links|DT CD NNS|BODY_15|0
+an atomic formula|DT JJ NN|BODY_1|0
+disjunction and negation|NN CC NN|BODY_1|0
+such an i|JJ DT NN|BODY_1|0
+x v|JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_30|0

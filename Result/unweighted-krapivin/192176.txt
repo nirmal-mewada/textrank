@@ -1,0 +1,937 @@
+we|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_10:ABSTRACT_7:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_9|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:ABSTRACT_9|0
+the error|DT NN|BODY_6:BODY_5:ABSTRACT_6:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+it|PRP|BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+k|NN|BODY_11:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+radiosity|NN|BODY_5:BODY_15:TITLE_2:BODY_2:BODY_3:BODY_4:BODY_8|0
+this|DT|BODY_1:ABSTRACT_1:BODY_4:BODY_8|0
+errors|NNS|BODY_6:ABSTRACT_3:BODY_3:BODY_7:BODY_8|0
+the total error|DT JJ NN|BODY_5:ABSTRACT_5:BODY_15:ABSTRACT_3:BODY_4:BODY_7:BODY_8|0
+the computation|DT NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+the bounds|DT NNS|BODY_2:BODY_1:BODY_14:BODY_3|0
+this paper|DT NN|BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+an upper|DT JJ|BODY_5:BODY_11:BODY_1:BODY_2:BODY_10|0
+the radiosity|DT NN|BODY_12:BODY_5:BODY_2:BODY_4:BODY_8|0
+the errors|DT NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+the measured error|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+the exact radiosity function|DT JJ NN NN|BODY_6:ABSTRACT_11:BODY_2:BODY_1:BODY_3|0
+the value|DT NN|BODY_3:BODY_8:BODY_9|0
+upper bounds|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_4:BODY_10|0
+the solution|DT NN|BODY_6:BODY_5:BODY_4|0
+the contribution|DT NN|BODY_6:BODY_5:BODY_7|0
+bounds|NNS|BODY_12:BODY_3:BODY_4|0
+the transferred energy|DT VBN NN|BODY_11:BODY_5:BODY_2:BODY_7|0
+the form-factors|DT NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_4|0
+s|PRP|BODY_5:BODY_21:BODY_7:BODY_8|0
+elements|NNS|BODY_2:BODY_3:BODY_9|0
+the link|DT NN|BODY_2:BODY_3:BODY_4|0
+)|-RRB-|BODY_17:BODY_3:BODY_10|0
+the sum|DT NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+the l 1 norm|DT NN CD NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+this algorithm|DT NN|BODY_2:BODY_1:BODY_3|0
+the accuracy|DT NN|BODY_3:BODY_4|0
+a radiosity-bounding algorithm|DT NN NN|BODY_32:BODY_5:BODY_2|0
+the elements|DT NNS|BODY_15:BODY_2:BODY_4|0
+above|RB|BODY_5:BODY_4:BODY_7:BODY_9|0
+1|CD|BODY_12:BODY_16:BODY_4:BODY_9|0
+the children|DT NNS|BODY_3:BODY_4:BODY_8|0
+the algorithm|DT NN|BODY_5:BODY_1:BODY_3|0
+the radiosities|DT NNS|BODY_5:BODY_3|0
+links|NNS|BODY_5:BODY_15:BODY_1:BODY_4:BODY_7|0
+the environment|DT NN|BODY_11:BODY_3:BODY_9|0
+hierarchical radiosity|JJ NN|ABSTRACT_5:ABSTRACT_3:BODY_3:BODY_4|0
+each|DT|BODY_6:BODY_5:BODY_2|0
+patch i|NN VBN|BODY_3:BODY_7:BODY_8|0
+the minimum|DT NN|BODY_5:BODY_3:BODY_4|0
+the configuration|DT NN|BODY_6:BODY_4:BODY_7|0
+each entry|DT NN|BODY_6:BODY_5:BODY_1:BODY_4|0
+estimates|NNS|BODY_5:BODY_2:BODY_14|0
+the matrix|DT NN|BODY_6:BODY_1:BODY_2:BODY_7|0
+the maximum|DT NN|BODY_6:BODY_2:BODY_3:BODY_7|0
+a function|DT NN|BODY_5:BODY_13|0
+the difference|DT NN|BODY_1:BODY_3|0
+the links|DT NNS|BODY_6:BODY_4|0
+the center|DT NN|BODY_6:BODY_5:BODY_8|0
+radiosity algorithms|NN NNS|BODY_5:BODY_1:BODY_8|0
+z|FW|BODY_6:BODY_5|0
+brightness-weighted refinement|JJ NN|BODY_6:ABSTRACT_5:BODY_2:BODY_4:BODY_7|0
+smits|NNS|BODY_12:BODY_2|0
+link 2 node|NN CD NN|BODY_13:BODY_3|0
+the floor|DT NN|BODY_3:BODY_4|0
+conservative error|JJ NN|BODY_2|0
+plots|NNS|BODY_2|0
+b|NN|BODY_5:BODY_3|0
+importance|NN|BODY_5:BODY_2:BODY_3|0
+two error estimates|CD NN NNS|BODY_2:BODY_3|0
+the vector|DT NN|BODY_6:BODY_2|0
+our error|PRP$ NN|BODY_5:BODY_3|0
+isleaf( node|JJ NN|BODY_6:BODY_17|0
+the areas|DT NNS|BODY_14:BODY_7|0
+work|VB|BODY_2:BODY_4|0
+b ( k )|NN -LRB- NN -RRB-|BODY_6:BODY_11:BODY_3|0
+tighter bounds|JJR NNS|BODY_12:BODY_6:BODY_5:ABSTRACT_5|0
+a lower|DT JJR|BODY_2:BODY_4|0
+one|PRP|BODY_3:BODY_4|0
+the form-factor|DT NN|BODY_6:BODY_2:BODY_3|0
+the adjoint|DT NN|BODY_10:BODY_7|0
+the effect|DT NN|BODY_5:BODY_2:ABSTRACT_3|0
+campbell [7]|NN NNS|BODY_2:BODY_3|0
+the results|DT NNS|BODY_2|0
+the local error|DT JJ NN|BODY_6:BODY_5:ABSTRACT_2|0
+energy|NN|BODY_6:BODY_8|0
+n|NN|BODY_5:BODY_2|0
+a posteriori error estimation|DT NN NN NN|BODY_3:BODY_4|0
+terms|NNS|BODY_5:BODY_9|0
+a new error-driven refinement strategy|DT JJ NN NN NN|ABSTRACT_2:BODY_3|0
+the propagation|DT NN|BODY_6:BODY_5:ABSTRACT_2|0
+the greatest effect|DT JJS NN|BODY_5:BODY_7|0
+global illumination|JJ NN|BODY_6:BODY_1|0
+the estimate|DT NN|BODY_2:BODY_4|0
+b(x )|NN -RRB-|BODY_11:BODY_4|0
+the other|DT JJ|BODY_5:BODY_2|0
+the number|DT NN|BODY_6:BODY_14:BODY_10|0
+equation ( 1 )|NN -LRB- CD -RRB-|BODY_11:BODY_3|0
+the acceptability|DT NN|BODY_12:ABSTRACT_4|0
+the reflectivity|DT NN|BODY_5:BODY_18|0
+each link|DT NN|BODY_6:BODY_2:BODY_4|0
+an expression|DT NN|BODY_5:ABSTRACT_2:BODY_3|0
+a posteriori error analysis|DT JJ NN NN|BODY_2:BODY_3|0
+the second kind|DT JJ NN|BODY_4:BODY_7|0
+( i|-LRB- FW|BODY_5:BODY_3|0
+error|NN|BODY_1:BODY_3:BODY_4|0
+place|NN|BODY_2|0
+,or|NN|BODY_3|0
+more realistic error estimates|RBR JJ NN NNS|BODY_6:BODY_3:ABSTRACT_7|0
+lower bounds|JJR NNS|BODY_3:BODY_7|0
+a significant difference|DT JJ NN|BODY_2|0
+illumination engineering|NN NN|BODY_3|0
+norm|NN|BODY_2|0
+radiative heat transfer|JJ NN NN|BODY_2|0
+the analytical formula|DT JJ NN|BODY_2|0
+the element size h|DT NN NN NN|BODY_3|0
+the measured errors|DT JJ NNS|BODY_2|0
+the right column|DT NN NN|BODY_3|0
+the two types|DT CD NNS|BODY_3|0
+the visible parts|DT JJ NNS|BODY_3|0
+'s errors|POS NNS|BODY_5:BODY_4:BODY_9|0
+the approximation|DT NN|BODY_1:BODY_4:BODY_7|0
+x|SYM|BODY_5:BODY_18|0
+a detailed description|DT JJ NN|BODY_2|0
+solution methods|NN NNS|BODY_2|0
+the above|DT JJ|BODY_2|0
+the dimmest sources|DT NN NNS|BODY_2|0
+the jacobi iteration|DT NN NN|BODY_2|0
+the left and l 1 errors|DT JJ CC JJ CD NNS|BODY_2|0
+the work|DT NN|BODY_2|0
+5b|CD|BODY_3|0
+a new set|DT JJ NN|BODY_3|0
+that estimates|DT NNS|BODY_3|0
+a bound|DT JJ|BODY_6|0
+automatic adaptive refinement|JJ JJ NN|BODY_14:BODY_4|0
+equations|NNS|BODY_3:BODY_8|0
+interreflections|NNS|ABSTRACT_4:BODY_4|0
+the iterates|DT NNS|BODY_1:BODY_10|0
+our algorithm|PRP$ NN|BODY_6:BODY_5|0
+an approximate upper|DT JJ JJ|BODY_6:BODY_2|0
+2 node .children|CD NN NNS|BODY_25:BODY_8|0
+a way|DT NN|BODY_2:BODY_3|0
+else foreach child|RB IN NN|BODY_24:BODY_7|0
+each iteration|DT NN|BODY_1:BODY_7:BODY_8|0
+our bounds|PRP$ NNS|BODY_2:BODY_3|0
+the same|DT JJ|BODY_4:BODY_8|0
+the vertices|DT NNS|BODY_7:BODY_9|0
+the context|DT NN|BODY_1:BODY_37|0
+before|RB|BODY_11:BODY_2|0
+each solution|DT NN|BODY_1:BODY_4|0
+y|NN|BODY_17:BODY_4|0
+the view-dependent error|DT JJ NN|BODY_3|0
+figure 1|NN CD|BODY_5:BODY_28|0
+.e|NN|BODY_4:BODY_9|0
+conservative non-conservative h (element size|JJ JJ NN NN NN|BODY_11:BODY_10:BODY_8:BODY_9|0
+l|NN|BODY_3:BODY_4|0
+the solution vector|DT NN NN|BODY_5:BODY_2|0
+( ii|-LRB- NNS|BODY_6:BODY_1|0
+a cheaper and more realistic error estimate|DT JJR CC JJR JJ NN NN|BODY_2|0
+basis functions|NN NNS|BODY_4|0
+the bottom row|DT JJ NN|BODY_4|0
+the middle row|DT JJ NN|BODY_2|0
+the radiosity solution|DT NN NN|BODY_2|0
+the side|DT NN|BODY_4|0
+inter-reflections|NNS|BODY_6|0
+three simple test cases|CD JJ NN NNS|BODY_3|0
+ interactive computer graphics input|RB JJ NN NNS NN|BODY_3|0
+4 show|CD NN|BODY_3|0
+simplicity|NN|BODY_3:BODY_9|0
+priority|NN|BODY_3:BODY_4|0
+( c ) figure 5|-LRB- NN -RRB- NN CD|BODY_2|0
+occlusion|NN|BODY_7:BODY_9|0
+radiosity solutions|NN NNS|ABSTRACT_5:BODY_3|0
+the entries|DT NNS|BODY_3:BODY_9|0
+detail|NN|BODY_2|0
+10]|PRP|BODY_3|0
+figures 2 , 3|NNS CD , CD|BODY_2|0
+the nsf grant|DT JJ NN|BODY_2|0
+integral equations|JJ NNS|BODY_2|0
+a row|DT NN|BODY_3:BODY_10|0
+the heuristic yields|DT JJ NNS|BODY_7|0
+jacobi|NN|BODY_12|0
+upper and lower bounds|JJ CC JJR VBZ|BODY_3|0
+a neumann series|DT JJ NN|BODY_2|0
+form-factors|NNS|BODY_5|0
+infima|NN|BODY_12:BODY_5|0
+over most elements|IN JJS NNS|BODY_6|0
+the l1|DT NNS|BODY_1:BODY_7|0
+error propagation|NN NN|BODY_2:BODY_7|0
+jacobi iteration|NNP NN|BODY_13|0
+a standard method|DT JJ NN|BODY_11|0
+0.3 and 0.7|CD CC CD|BODY_3|0
+two or more iterations|CD CC RBR NNS|BODY_2|0
+400 grid|CD NN|BODY_3|0
+note|NN|BODY_1|0
+'s adaptive subdivision algorithm [8|POS JJ NN NN NNS|BODY_2|0
+the upper bound|DT JJ JJ|BODY_1:BODY_7|0
+the infimum|DT NN|BODY_2|0
+numerical optimization|JJ NN|BODY_2:BODY_4|0
+them|PRP|BODY_2:BODY_4|0
+reflectivities|NNS|BODY_2|0
+spaces|NNS|BODY_2|0
+a particular instance|DT JJ NN|BODY_7|0
+4 )|CD -RRB-|BODY_2|0
+information|NN|BODY_2|0
+tools|NNS|BODY_6|0
+matrix nota|NN NN|BODY_14|0
+tighter piecewise constant bounds|JJR NN JJ NNS|BODY_5|0
+a solution|DT NN|ABSTRACT_5:BODY_4|0
+the continuous equation results|DT JJ NN NNS|BODY_2|0
+the view-dependent functionals|DT NN NNS|BODY_11|0
+( a ) direct illumination|-LRB- DT -RRB- JJ NN|BODY_4|0
+( b|-LRB- NN|BODY_5|0
+eachenvironmentwassampledon a 400|DT DT CD|BODY_2|0
+the solution vector b|DT NN NN NN|BODY_3|0
+all links|DT NNS|BODY_1:BODY_3:BODY_4|0
+a trade-off|DT NN|BODY_3|0
+the first attempt|DT JJ NN|BODY_3|0
+the emission|DT NN|BODY_15:BODY_4|0
+1 plots|CD NNS|BODY_6|0
+the integral operator xy|DT NN NN NN|BODY_2|0
+considerable attention|JJ NN|BODY_5|0
+a discrete system|DT JJ NN|BODY_3|0
+the issues|DT NNS|BODY_2|0
+the finite elements|DT JJ NNS|BODY_6|0
+the middle|DT NN|BODY_2|0
+figure 7|NN CD|BODY_2|0
+a link|DT NN|BODY_2:BODY_1|0
+(ccr-8617880 )|CD -RRB-|BODY_5|0
+the hierarchical bounding algorithm|DT JJ NN NN|BODY_5|0
+piecewise constant functions|NN JJ NNS|BODY_3|0
+all its links|DT PRP$ NNS|BODY_6:BODY_8|0
+an approximation|DT NN|BODY_4|0
+each element|DT NN|BODY_3:BODY_7|0
+environments|NNS|BODY_7|0
+z t dkb|FW NN NN|BODY_2|0
+these estimates|DT NNS|BODY_2:BODY_1|0
+lower )|JJR -RRB-|BODY_2|0
+generous donations|JJ NNS|BODY_11|0
+very little|RB RB|BODY_2|0
+the piecewise-constant bounding functions|DT JJ NN NNS|BODY_4|0
+display techniques|NN NNS|BODY_4|0
+the leaf node|DT NN NN|BODY_2|0
+image synthesis|NN NN|BODY_5:BODY_3|0
+an a priori error analysis|DT DT JJ NN NN|BODY_4|0
+the ( point-to-area ) form-factor|DT -LRB- NN -RRB- NN|BODY_3|0
+the measured relative error|DT JJ JJ NN|BODY_3|0
+( 7 )|-LRB- CD -RRB-|BODY_3|0
+all the links|DT DT NNS|BODY_2|0
+a conservative upper|DT JJ JJ|ABSTRACT_5:BODY_4|0
+the conservative bounds|DT JJ NNS|BODY_4|0
+the angles|DT NNS|BODY_8|0
+equation|NN|BODY_3|0
+a criterion|DT NN|BODY_3|0
+equipment|NN|BODY_12|0
+cohen and wallace [9]|NN CC NN NN|BODY_2|0
+complete sorting|JJ NN|BODY_1|0
+most cases|JJS NNS|BODY_2|0
+pes|NNS|BODY_2|0
+practice bounds|NN NNS|BODY_1|0
+several other error estimation techniques|JJ JJ NN NN NNS|BODY_1|0
+several other test cases|JJ JJ NN NNS|BODY_2|0
+similar results|JJ NNS|BODY_1|0
+the dotted lines|DT JJ NNS|BODY_2|0
+the line|DT NN|BODY_10|0
+technology center|NN NN|BODY_7|0
+computational methods|JJ NNS|BODY_5|0
+fact|NN|BODY_4|0
+x and y , r xy|SYM CC NN , NN NN|BODY_11|0
+exact figure 2|JJ NN CD|BODY_2|0
+an environment|DT NN|BODY_3|0
+the l|DT JJ|BODY_5|0
+a discretization|DT NN|BODY_2|0
+the surface normals|DT NN NNS|BODY_9|0
+3 and 4 show|CD CC CD NN|BODY_2|0
+the operators|DT NNS|BODY_3|0
+' x and|POS SYM CC|BODY_6|0
+the values|DT NNS|BODY_1:BODY_3|0
+three simple environments|CD JJ NNS|BODY_6|0
+figure 5|NN CD|BODY_16:BODY_7|0
+the nsf/darpa science|DT NN NN|BODY_6|0
+tighter non-conservative|JJR JJ|BODY_2|0
+function|NN|BODY_5|0
+,hierarchical radiosity|JJ NN|BODY_2|0
+the resulting images|DT VBG NNS|BODY_4|0
+adaptively improves|RB VBZ|BODY_2|0
+( 1 ) e-mail|-LRB- CD -RRB- NN|BODY_7|0
+ffsum +|NN IN|BODY_20|0
+n equations|NN NNS|BODY_10|0
+the distance|DT NN|BODY_12|0
+the point-to-point transfer|DT JJ NN|BODY_3|0
+the various error sources|DT JJ NN NNS|BODY_6|0
+jim arvo|NNP NN|BODY_2|0
+e) term|JJR NN|BODY_2|0
+the user|DT NN|BODY_2|0
+the solution b|DT NN NN|BODY_2:BODY_1|0
+this error estimate|DT NN NN|BODY_1:BODY_3|0
+fredholm equations|JJ NNS|BODY_6|0
+[15|IN|BODY_3|0
+these extrema|DT NN|BODY_2|0
+{danix ||NN NNS|BODY_8|0
+the exact solution b(x|DT JJ NN NN|BODY_7|0
+z k(x|FW FW|BODY_5|0
+ff node|NN NN|BODY_21|0
+y) b(y ) dy|JJ NN -RRB- NN|BODY_6|0
+this expression|DT NN|BODY_1|0
+the two points|DT CD NNS|BODY_13|0
+the boundscomputedby|DT NN|BODY_2|0
+the hierarchy|DT NN|BODY_5:BODY_7|0
+figure 5c|NN JJ|BODY_6:BODY_8|0
+his encouragement and advice|PRP$ NN CC NN|BODY_3|0
+node|NN|BODY_22|0
+' y|POS NN|BODY_7|0
+mohamed [10]|JJ NN|BODY_2|0
+a single sweep|DT JJ NN|BODY_4|0
+k )|NN -RRB-|BODY_2|0
+a fredholm integral equation|DT NN JJ NN|BODY_3|0
+these error|DT NN|BODY_11|0
+the same bounds|DT JJ NNS|BODY_6|0
+a non-conservative version|DT JJ NN|ABSTRACT_2:BODY_2|0
+convergencerates|NNS|BODY_2|0
+the non-conservative estimate|DT JJ NN|BODY_2|0
+alternatively|RB|BODY_4|0
+the importance|DT NN|BODY_5|0
+analytically|RB|BODY_8|0
+lower ) end|JJR -RRB- NN|BODY_10|0
+the continuous integral equation|DT JJ NN NN|BODY_4|0
+gatherupperbounds( node|NN NN|BODY_11|0
+sections|NNS|BODY_35|0
+b )|NN -RRB-|BODY_2|0
+lower boundson|JJR NN|BODY_2|0
+scientific visualization (|JJ NN -LRB-|BODY_9|0
+r r|NN NN|BODY_10|0
+contriblist )|NN -RRB-|BODY_12|0
+the anonymous reviewers|DT JJ NNS|BODY_2|0
+\gamma k|NN NN|BODY_2:BODY_3|0
+helpful discussions|JJ NNS|BODY_3|0
+node i|NN NN|BODY_3|0
+the l 1|DT NN CD|BODY_2|0
+a total upper|DT JJ JJ|BODY_3|0
+both b(x ) and b b(x )|DT NN -RRB- CC NN NN -RRB-|BODY_2|0
+l 2 norm|JJ CD NN|BODY_2|0
+the brightnesses|DT NNS|BODY_4|0
+upper ) 2 contriblist|JJ -RRB- CD NN|BODY_19|0
+( hr|-LRB- FW|BODY_3|0
+the pair ( link .fmax|DT NN -LRB- NN NN|BODY_14|0
+a|DT|BODY_3|0
+boundingvarious components|JJ NNS|BODY_3|0
+neither guaranteed bounds|DT VBN NNS|BODY_3|0
+the effect non-constant emission|DT NN JJ NN|BODY_3|0
+various degrees|JJ NNS|BODY_4|0
+pseudocode|NN|BODY_29|0
+l 2 norms|NN CD NNS|BODY_9|0
+the conservative|DT NN|BODY_4|0
+21|CD|BODY_8|0
+more|JJR|BODY_6|0
+each environment|DT NN|BODY_6:BODY_4|0
+the floor polygon|DT NN NN|BODY_1|0
+such environments|JJ NNS|BODY_2|0
+computer graphics|NN NNS|BODY_8|0
+pulling|VBG|BODY_3|0
+the three environments|DT CD NNS|BODY_15|0
+radiosity b|NN NN|BODY_4|0
+l 2 norm errors|NN CD JJ NNS|BODY_3|0
+richard lobb and charlie van loan|JJ NN CC NN NN NN|BODY_2|0
+the following heuristic|DT JJ JJ|BODY_2|0
+particularly sowhena discontinuity-driven subdivision strategy|RB NN JJ NN NN|BODY_2|0
+light|NN|BODY_6:BODY_10|0
+the point-to-area|DT NN|BODY_4|0
+then foreach pair ( ff|RB IN NN -LRB- NN|BODY_18|0
+there|EX|BODY_4|0
+induction|NN|BODY_2:BODY_9|0
+these quantities|DT NNS|BODY_7|0
+local and total errors|JJ CC JJ NNS|ABSTRACT_4|0
+| dpg }@graphics|NNS NN NNS|BODY_9|0
+gatherlowerbounds(child|NN|BODY_9|0
+fast convergence|RB NN|BODY_3|0
+contriblist end|NN NN|BODY_16|0
+a sum|DT NN|BODY_3|0
+two cases|CD NNS|BODY_3|0
+the series|DT NN|BODY_7|0
+a linear system|DT NN NN|BODY_9|0
+speed and conservativity two additional changes|NN CC NN CD JJ NNS|BODY_4|0
+higher order basis functions [12|JJR NN NN NNS NN|BODY_7|0
+their neighbors|PRP$ NNS|BODY_5|0
+each interaction ( link|DT NN -LRB- NN|BODY_8|0
+non-constant radiosity|JJ NN|BODY_7|0
+the form|DT NN|BODY_5|0
+gathering|NN|BODY_2|0
+3.1 and 3.2|CD CC CD|BODY_36|0
+previous attempts|JJ NNS|BODY_2|0
+i \gamma k|IN NN NN|BODY_11:BODY_2|0
+bounds and estimates|NNS CC NNS|ABSTRACT_2|0
+significantly outperforms brightness|RB VBZ NN|BODY_4|0
+contriblist ) end|NN -RRB- NN|BODY_27|0
+upper else break end|JJ RB NN NN|BODY_23|0
+b b|NN NN|BODY_7|0
+= node .rho link|SYM NN VBN NN|BODY_4|0
+3.3|CD|BODY_31|0
+the algorithms|DT NNS|BODY_34|0
+the kernel function|DT NN NN|BODY_6|0
+any linear functional r t|DT JJ JJ NN NN|BODY_9|0
+either using finite differences|DT VBG NN NNS|BODY_7|0
+each link refinement|DT NN NN|BODY_2|0
+hr|NN|BODY_33|0
+the non-conservative bounding algorithms|DT JJ NN NNS|BODY_5|0
+no analytical way|DT JJ NN|BODY_2|0
+the above expression|DT JJ NN|BODY_2|0
+the bounds f ij and f ij|DT NNS NN NN CC NN NN|BODY_3|0
+the same straightforward approach|DT JJ JJ NN|BODY_4|0
+those entries|DT NNS|BODY_5|0
+link .source .upper|NN NN NN|BODY_15|0
+a new refinement strategy equation|DT JJ NN NN NN|BODY_2|0
+2 )|CD -RRB-|BODY_11|0
+a few changes|DT JJ NNS|BODY_2|0
+a heap data structure|DT NN NNS NN|BODY_2|0
+the limit|DT NN|BODY_6|0
+link .source .lower|NN NN NN|BODY_5|0
+a single gathering iteration|DT JJ NN NN|BODY_8|0
+the corresponding error estimates|DT JJ NN NNS|BODY_7|0
+a finite dimension|DT JJ NN|BODY_3|0
+accuracy|NN|BODY_5|0
+solutions|NNS|BODY_6|0
+the quality|DT NN|BODY_2|0
+reliable tight bounds|JJ JJ NNS|BODY_4|0
+the element size|DT NN NN|BODY_14|0
+gatherupperbounds(child|NN|BODY_26|0
+the conservative algorithm|DT JJ NN|BODY_3|0
+an indicator|DT NN|BODY_4|0
+the matrix k|DT NN NN|BODY_2|0
+v(x|NN|BODY_14|0
+b i and b|NN NN CC NN|BODY_5|0
+the past decade|DT JJ NN|BODY_2|0
+the maximum reflectivity|DT JJ NN|BODY_10|0
+a worst case scenario|DT JJS NN NN|BODY_12|0
+the above corresponds|DT JJ NNS|BODY_12|0
+recently several investigators|RB JJ NNS|BODY_4|0
+who|WP|BODY_3|0
+the upper|DT JJ|BODY_7|0
+perceptual error metrics|JJ NN NNS|BODY_4|0
+a point|DT NN|BODY_4|0
+both|DT|BODY_1|0
+foolproof subdivision criteria|JJ NN NNS|BODY_3|0
+jacobi or gauss-seidel|NN CC NN|BODY_3|0
+l1 errors|JJR NNS|BODY_1|0
+most|JJS|BODY_1|0
+only a few|RB DT JJ|BODY_1|0
+partial differential equations|JJ JJ NNS|BODY_3|0
+previous hr algorithms|JJ NN NNS|BODY_3|0
+such a case|JJ DT NN|BODY_1|0
+such data structures|JJ NNS NNS|BODY_3|0
+tarjan [20]|NN NNP|BODY_1|0
+the list|DT NN|BODY_3|0
+the right|DT NN|BODY_3|0
+this iteration|DT NN|BODY_1|0
+two groups|CD NNS|BODY_2|0
+choice|NN|BODY_5|0
+both b and b|DT NN CC NN|BODY_6|0
+(element size|NN NN|BODY_7|0
+one iteration|CD NN|BODY_3|0
+( 8 )|-LRB- CD -RRB-|BODY_4|0
+the corresponding continuous functions|DT JJ JJ NNS|BODY_13|0
+techniques|NNS|BODY_3|0
+all those links|DT DT NNS|BODY_2|0
+boundary integral equations andboundaryelement methods|NN NN NNS CC NNS|BODY_2|0
+closer|JJR|BODY_7|0
+simple environments|JJ NNS|BODY_6|0
+radiosities|NNS|BODY_2|0
+brightness|NN|BODY_5|0
+all the leaves|DT DT NNS|BODY_6|0
+the largest index|DT JJS NN|BODY_5|0
+.edu|NNP|BODY_10|0
+the receiver z i|DT NN FW FW|BODY_6|0
+a particular solution|DT JJ NN|BODY_13|0
+two hr solutions|CD NN NNS|BODY_6:BODY_5|0
+the bounding algorithm|DT NN NN|BODY_2|0
+all the entries|PDT DT NNS|BODY_1|0
+the patch|DT NN|BODY_10|0
+l 1|NN CD|BODY_8|0
+result|NN|BODY_2|0
+the recurrence relation note|DT NN NN NN|BODY_11|0
+error-driven refinement|JJ NN|BODY_2|0
+lower and upper bounds|JJR CC JJ NNS|BODY_30|0
+a more efficient radiosity algorithm|DT RBR JJ NN NN|BODY_4|0
+the same gatherlowerbounds and gatherupperbounds routines|DT JJ NNS CC NNS NNS|BODY_10|0
+n linear equations|NN NN NNS|BODY_4|0
+relative l 1 error|JJ NN CD NN|BODY_12|0
+a single iteration|DT JJ NN|BODY_3|0
+relative brightness-weighted error-driven figure 7|JJ JJ NN NN CD|BODY_11|0
+the lower|DT JJR|BODY_4|0
+adjacent elements|JJ NNS|BODY_3|0
+the squares|DT NNS|BODY_2|0
+the overall error|DT JJ NN|BODY_11|0
+reliable 1 all|JJ CD DT|BODY_6|0
+e(x )|NN -RRB-|BODY_14|0
+vectors|NNS|BODY_8|0
+very tight|RB JJ|BODY_3|0
+no interreflections|DT NNS|BODY_5|0
+0 )|CD -RRB-|BODY_4|0
+particular this expression|JJ DT NN|BODY_10|0
+the combined effect|DT JJ NN|BODY_5|0
+ae(|JJ|BODY_16|0
+point x|NN NN|BODY_13|0
+realistic error estimates|JJ NN NNS|BODY_11|0
+m t|NN NN|BODY_9|0
+the transport equation [14 , 17]|DT NN NN CD , CD|BODY_8|0
+the total radiosity|DT JJ NN|BODY_12|0
+any function norm k \delta k|DT NN NN NN NN NN|BODY_5|0
+each interaction|DT NN|BODY_4|0
+the amount|DT NN|BODY_3|0
+the goal|DT NN|BODY_1|0
+the pseudocode|DT NN|BODY_4|0
+two piecewise constant functions|CD JJ JJ NNS|BODY_3|0
+local error|JJ NN|BODY_5|0
+the efficiency|DT NN|ABSTRACT_3|0
+the exact solution|DT JJ NN|BODY_4|0
+3.1 computing|CD NN|BODY_16|0
+their non-conservative counterparts|PRP$ JJ NNS|BODY_6|0
+a higher order approximation|DT JJR NN NN|BODY_5|0
+row|NN|BODY_6|0
+its l 1 norm|PRP$ NN CD NN|BODY_4|0
+the derivation|DT NN|BODY_2|0
+only approximate results|RB JJ NNS|BODY_9|0
+conservative non-conservative h (element size ) conservative non-conservative measured figure estimated and measured errors|JJ JJ NN NN NN -RRB- JJ JJ JJ NN VBN CC JJ NNS|BODY_12|0
+the same way|DT JJ NN|BODY_2|0
+points|NNS|BODY_6|0
+the maximum values|DT JJ NNS|BODY_4|0
+reliable error|JJ NN|BODY_10|0
+a method|DT NN|ABSTRACT_2|0
+the coefficients|DT NNS|BODY_9|0
+the maximum emission and ae|DT JJ NN CC NNS|BODY_9|0
+equal realism and equal cost|JJ NN CC JJ NN|BODY_4|0
+an accurate error estimate|DT JJ NN NN|BODY_13|0
+a linear functional|DT NN JJ|BODY_5|0
+order|NN|BODY_4|0
+2|CD|BODY_2|0
+the method|DT NN|BODY_4|0
+first setting|JJ NN|BODY_5|0
+a set|DT NN|BODY_4|0
+r i|NN NN|BODY_5|0
+the infima|DT NN|BODY_17|0
+need|NN|BODY_2|0
+the discrete linear system|DT JJ JJ NN|BODY_10|0
+different entries|JJ NNS|BODY_5|0
+the importance vector|DT NN NN|BODY_4|0
+the lower bounds|DT JJR NNS|BODY_4|0
+point|NN|BODY_5|0
+the emis|DT NN|BODY_19|0
+dk|NN|BODY_10|0
+the current solution vector|DT JJ NN NN|BODY_3|0
+a series|DT NN|BODY_2|0
+( k )|-LRB- NN -RRB-|BODY_9|0
+the ones|DT NNS|BODY_9|0
+the finite dimensional space|DT NN JJ NN|BODY_7|0
+y )|NN -RRB-|BODY_15|0
+error dk|NN NN|BODY_3|0
+another|DT|BODY_4|0
+the order|DT NN|BODY_3|0
+the wavelength|DT NN|BODY_8|0
+size|NN|BODY_3|0
+[18]|NN|BODY_5|0
+the remaining non-zero entries sum|DT VBG JJ NNS NN|BODY_13|0
+a posteriori bounds and estimates|DT NN NNS CC NNS|ABSTRACT_3|0
+propagation|NN|BODY_2|0
+emax|NN|BODY_8|0
+) and b(x )|-RRB- CC VBN -RRB-|BODY_4|0
+an inner product r t b|DT JJ NN NN NN NN|BODY_4|0
+the point-to-polygon form-factor|DT NN NN|BODY_5|0
+the roots|DT NNS|BODY_2|0
+form-factor gradients|JJ NNS|BODY_3|0
+the conservative error estimates|DT JJ NN NNS|BODY_5|0
+the columns|DT NNS|BODY_6|0
+this environment|DT NN|BODY_6|0
+adaptive radiosity algorithms|JJ NN NNS|ABSTRACT_4|0
+the hierarchies|DT NNS|BODY_3|0
+n elements|NN NNS|BODY_5|0
+the lower bounds vector|DT JJR NNS NN|BODY_8|0
+pessimistic error|JJ NN|BODY_5|0
+o(k log work|JJ NN NN|BODY_6|0
+the development|DT NN|BODY_3|0
+such|JJ|BODY_7|0
+sion|NN|BODY_20|0
+occluders|NNS|BODY_5|0
+its adjoint equation|PRP$ JJ NN|BODY_4|0
+a unit|DT NN|BODY_6|0
+z i|FW NN|BODY_5|0
+e|NN|BODY_5|0
+an approximate solution b b(x|DT JJ NN NN NN|BODY_2|0
+the radiosity function|DT NN NN|BODY_2|0
+a perceptual error-driven refinement strategy|DT JJ NN NN NN|BODY_2|0
+addition|NN|BODY_6|0
+that thus|DT RB|BODY_2|0
+the upper bounds system|DT JJ NNS NN|BODY_5|0
+a source node j|DT NN NN NN|BODY_4|0
+an extremely fine radiosity solution|DT RB JJ NN NN|BODY_5|0
+the simple environment|DT JJ NN|BODY_5|0
+which point|WDT NN|BODY_5|0
+reliable image synthesis|JJ NN NN|BODY_4|0
+the dimension|DT NN|BODY_6|0
+the i-th element|DT JJ NN|BODY_3|0
+node .lower and node .upper|NN NN CC NN NN|BODY_2|0
+the extrema values|DT NN NNS|BODY_11|0
+the exact radiosity coarse fine exact figure 3|DT JJ NN JJ JJ JJ NN CD|BODY_3|0
+an estimate|DT NN|BODY_2|0
+a single wavelength|DT JJ NN|BODY_12|0
+b i|NN NN|BODY_7|0
+each leaf node|DT NN NN|BODY_8|0
+the leaves|DT NNS|BODY_2|0
+7 ) and ( 8 )|CD -RRB- CC -LRB- CD -RRB-|BODY_4|0
+each node|DT NN|BODY_5|0
+brown [6]|JJ NN|BODY_8|0
+suprema|NN|BODY_4|0
+the presence|DT NN|BODY_4|0
+the square root|DT JJ NN|BODY_5|0
+this heuristic|DT NN|BODY_2|0
+the corresponding environments|DT JJ NNS|BODY_4|0
+exceed 1|VBP CD|BODY_7|0
+special properties|JJ NNS|BODY_10|0
+the discussion|DT NN|BODY_11|0
+the concept|DT NN|BODY_2|0
+looser bounds|JJR NNS|BODY_6|0
+conservative upper boundson|JJ JJ NN|BODY_9|0
+that one|DT NN|BODY_5|0
+each patch|DT NN|BODY_6|0
+the greatest errors|DT JJS NNS|BODY_10|0
+this incorrect radiosity|DT JJ NN|BODY_7|0
+the left wall|DT JJ NN|BODY_6|0
+the largest amount|DT JJS NN|BODY_7|0
+the techniques|DT NNS|BODY_2|0
+two observations|CD NNS|BODY_2|0
+past attempts|JJ NNS|BODY_3|0
+the greatest reduction|DT JJS NN|BODY_7|0
+a modified matrix|DT VBN NN|BODY_3|0
+boundson importance|NN NN|BODY_2|0
+a bit|DT NN|BODY_2|0
+the analytical point-to-polygon|DT JJ NN|BODY_4|0
+e).equation ( 9 )|NN -LRB- CD -RRB-|BODY_4|0
+a brief account|DT JJ NN|BODY_2|0
+which node|WDT NN|BODY_6|0
+5c|CD|BODY_5|0
+an image|DT NN|BODY_1|0
+most users|RBS NNS|BODY_1|0
+optimism|NN|BODY_5|0
+piecewise-quadratic [15]|JJ NN|BODY_5|0
+the top row corresponds|DT JJ NN NNS|BODY_1|0
+the greater form-factor|DT JJR NN|BODY_4|0
+a parent node|DT NN NN|BODY_2|0
+rise|NN|BODY_2|0
+higher order approximations|JJR NN NNS|BODY_4|0
+other fields|JJ NNS|BODY_5|0
+jacobi iterations|NNS NNS|BODY_2|0
+the main result|DT JJ NN|BODY_2|0
+this section|DT NN|BODY_1:BODY_3|0
+a new error-driven adaptive refinement strategy|DT JJ JJ NN NN NN|BODY_2|0
+adaptive refinement|JJ NN|ABSTRACT_6|0
+the maximum radiosity|DT JJ NN|BODY_6|0
+the receiver|DT NN|BODY_3|0
+1 norm|CD NN|BODY_4|0
+error estimates|NN NNS|BODY_4|0
+examples|NNS|BODY_1|0
+piecewise-constant approximations|JJ NNS|BODY_4|0
+remote sensing|JJ NN|BODY_4|0
+the estimated|DT VBN|BODY_1|0
+the left column corresponds|DT NN NN NNS|BODY_1|0
+the partially occluded case|DT RB JJ NN|BODY_1|0
+the remaining two cases|DT VBG CD NNS|BODY_1|0
+the source [16]|DT NN NN|BODY_4|0
+many instances|JJ NNS|BODY_1|0
+most practical purposes good non-conservative error|JJS JJ NNS JJ JJ NN|BODY_1|0
+upper and lower bounds fmin and fmax|JJ CC JJR NNS NN CC NN|BODY_2|0
+dk ij|JJ NN|BODY_7|0
+both brightness-weighted and error-driven refinement strategies|DT JJ CC JJ NN NNS|BODY_3|0
+our more conservative|PRP$ RBR JJ|BODY_5|0
+a vector|DT NN|BODY_9|0
+a receiver node i|DT NN NN NN|BODY_3|0
+approximate|NN|BODY_3|0
+roughly|RB|BODY_7|0
+the link errors|DT NN NNS|BODY_2|0
+the routine gatherlowerbounds|DT JJ NNS|BODY_3|0
+much smaller errors|RB JJR NNS|BODY_4|0
+only a fraction|RB DT NN|BODY_5|0
+the transformation|DT NN|BODY_2|0
+emission|NN|BODY_7|0
+patch j|NN NN|BODY_4|0
+the minimum values|DT NN NNS|BODY_3|0
+that the0.50.60.7radiosity|DT NN|BODY_1|0
+et al|NNP NN|BODY_1|0
+nodes|NNS|BODY_5|0
+the behavior|DT NN|BODY_3|0
+a particular interaction|DT JJ NN|BODY_6:ABSTRACT_4|0
+the contributing form-factors|DT VBG NNS|BODY_3|0
+a hierarchical radiosity algorithm|DT JJ NN NN|ABSTRACT_8:BODY_3|0
+a monotonically increasing series|DT RB VBG NN|BODY_3|0
+a non-conservative bounding algorithm|DT JJ NN NN|BODY_3|0
+a posteriori methods|DT FW NNS|BODY_3|0
+an algorithm|DT NN|BODY_3|0
+an iterative algorithm|DT NN NN|BODY_2|0
+such projections|JJ NNS|BODY_3|0
+the overall value|DT JJ NN|BODY_8|0
+interreflec- tions|DT NNS|BODY_8|0
+the linear system|DT NN NN|BODY_7|0
+the absolute values|DT JJ NNS|BODY_8|0
+the area-weighted averages|DT JJ NNS|BODY_3|0
+( a ) ( b|-LRB- DT -RRB- -LRB- NN|BODY_1|0
+( c ) inter-reflections|-LRB- NN -RRB- NNS|BODY_8|0
+the plots|DT NNS|BODY_1|0
+this work|DT NN|BODY_1|0
+the receiver vector|DT NN NN|BODY_3|0
+the same algorithm|DT JJ NN|ABSTRACT_3|0
+the second observation|DT JJ NN|BODY_3|0
+the node|DT NN|BODY_2|0
+the theory|DT NN|BODY_1|0
+irradiance jacobians|NN NNS|BODY_7|0
+tion|NN|BODY_15|0
+account propagation|NN NN|BODY_2|0
+accurate bounds|JJ NNS|BODY_8|0
+all the surfaces|PDT DT NNS|BODY_1|0
+gauss-seidel iteration|JJ NN|BODY_13|0
+an exact expression|DT JJ NN|BODY_5|0
+hanrahan|PRP|BODY_2|0
+the current light bounce|DT JJ NN NN|BODY_3|0
+the exact radiosity b(x|DT JJ NN VBN|BODY_6|0
+tighter bounds |JJR NNS|BODY_5|0
+both estimates|DT NNS|BODY_2|0
+a given threshold ffl|DT VBN NN NN|BODY_4|0
+all i|PDT IN|BODY_10|0
+the general bracketing technique|DT JJ NN NN|BODY_7|0
+respect|NN|BODY_3|0
+this strategy|DT NN|BODY_1|0
+these links|DT NNS|BODY_6|0
+radiosity bounds|NN NNS|BODY_2|0
+the approximate solution|DT JJ NN|BODY_8:ABSTRACT_12|0
+hewlett-packard|NN|BODY_13|0
+the estimated upper|DT VBN JJ|BODY_4|0
+.0.20.611.4 radiosity coarse fine exact figure 4|CD NN JJ JJ JJ NN CD|BODY_4|0
+3 )|CD -RRB-|BODY_4|0
+a reference|DT NN|BODY_4|0
+their radiosity differs|PRP$ NN NNS|BODY_3|0
+one solution|CD NN|BODY_1|0
+the tighter non-conservative bounds|DT JJR JJ NNS|BODY_6|0
+cohen|VB|BODY_1|0
+19]|CD|BODY_7|0
+the form-factor corresponding|DT JJ JJ|BODY_3|0
+the solution vector increases|DT NN NN NNS|BODY_7|0
+the inverse matrix|DT NN NN|BODY_1|0
+the projection|DT NN|BODY_1|0
+the sorting|DT NN|BODY_3|0
+more conservative estimates|RBR JJ NNS|BODY_1|0
+conservative bounds|JJ NNS|BODY_5|0
+conservative lower and upper bounds|JJ JJR CC JJ NNS|ABSTRACT_10|0
+most radiosity algorithms|RBS JJ NNS|BODY_1|0
+below|RB|BODY_8|0
+the plot|DT NN|BODY_1|0
+the spectral radius|DT JJ NN|BODY_7|0
+other patches|JJ NNS|BODY_9|0
+f ij|NN NNS|BODY_1|0
+special thanks|JJ NNS|BODY_1|0
+both cases equations|DT NNS NNS|BODY_1|0
+these test cases|DT NN NNS|BODY_7|0
+the incorrect radiosity|DT JJ NN|BODY_2|0
+tighter|JJR|BODY_3|0
+given error|VBN NN|BODY_1|0
+more elements|JJR NNS|BODY_6|0
+a given element|DT VBN NN|BODY_6|0
+such methods|JJ NNS|BODY_5|0
+the l1 norm|DT NN NN|BODY_1|0
+this general framework|DT JJ NN|BODY_1|0
+node j|NN NN|BODY_4|0
+the manuscript|DT NN|BODY_4|0
+this assumption|DT NN|BODY_1|0
+the kernel|DT NN|BODY_1|0
+adaptive subdivision|JJ NN|BODY_4|0
+a priori error bounds|DT JJ NN NNS|BODY_1|0
+al . [17]|JJ . NNP|BODY_13|0
+the expression|DT NN|BODY_1|0
+a good error estimate|DT JJ NN NN|BODY_4|0
+these bounds|DT NNS|BODY_1:ABSTRACT_1|0
+the problem|DT NN|BODY_8|0
+a strictly diagonally dominant matrix k|DT RB RB JJ NN NN|BODY_5|0
+22]|CD|BODY_9|0
+a certain threshold|DT JJ NN|BODY_7|0
+each row|DT NN|BODY_10|0
+particular , current radiosity algorithms|JJ , JJ NN NNS|BODY_1|0
+the z|DT FW|BODY_1|0
+the various radiosity methods|DT JJ NN NNS|BODY_1|0
+]|NNP|BODY_4|0
+a human observer|DT JJ NN|BODY_5|0
+arvo [2]|JJ NN|BODY_9|0
+the vectors b|DT NNS NN|BODY_1|0
+figures|NNS|BODY_1|0
+the 1980|DT CD|BODY_1|0
+such numerical methods|JJ JJ NNS|BODY_1|0
+4.1|CD|BODY_1|0
+the term|DT NN|BODY_1|0
+lambertian ( ideal diffuse ) reflectors and emitters|NN -LRB- JJ NN -RRB- NNS CC NNS|BODY_8|0
+the radiosity literature|DT NN NN|BODY_1|0
+4.2 results|CD NNS|BODY_1|0
+images|NNS|BODY_7|0
+2 gatherlowerbounds( node|CD NN NN|BODY_1|0
+the functions|DT NNS|BODY_1|0
+delves|NNS|BODY_1|0
+the most benefit|DT JJS NN|BODY_1|0
+a more conservative approach|DT RBR JJ NN|BODY_1|0
+any linear functional f|DT JJ JJ NN|BODY_1|0
+the system|DT NN|BODY_1|0
+figure 5a|NN CD|BODY_5|0
+figure 5b|NN NNS|BODY_7|0
+the figures|DT NNS|BODY_1|0
+other words|JJ NNS|BODY_1|0
+5.2|CD|BODY_1|0
+our final contribution|PRP$ JJ NN|BODY_1|0
+0 otherwise|CD RB|BODY_19|0
+the norm|DT NN|BODY_1|0
+these non-conservative bounds|DT JJ NNS|BODY_1|0
+these techniques|DT NNS|BODY_1|0
+the original hierarchical radiosity algorithm|DT JJ JJ NN NN|BODY_1|0
+a finite dimensional function space|DT JJ JJ NN NN|BODY_5|0
+the residual z dy|DT JJ FW NN|BODY_7|0
+namely hierarchical radiosity|RB JJ NN|BODY_5|0
+contrast|NN|BODY_1|0
+weighted refinement|JJ NN|BODY_5|0
+at most 1|IN RBS CD|BODY_14|0
+l 1 norm|NN CD NN|BODY_12|0
+the comments|DT NNS|BODY_1|0
+introduction|NN|BODY_1|0
+further work|JJ NN|BODY_1|0
+the ability|DT NN|ABSTRACT_1|0
+error plots|NN NNS|BODY_1|0
+the corresponding source nodes|DT JJ NN NNS|BODY_5|0
+the radiosity function b(x )|DT NN NN NN -RRB-|BODY_4|0
+these|DT|BODY_1|0
+the hr framework|DT FW NN|BODY_3|0
+the routine|DT NN|BODY_5|0
+a deletemin operation|DT NN NN|BODY_3|0
+the standard hr algorithm|DT JJ NN NN|BODY_3|0
+the reflectivity 1|DT NN CD|BODY_18|0
+each receiving patch|DT VBG NN|BODY_8|0
+this plot|DT NN|BODY_1|0
+the full matrix radiosity algorithm|DT JJ NN NN NN|BODY_38|0
+the two interacting patches|DT CD JJ NNS|BODY_8|0
+factor|NN|BODY_6|0
+patches|NNS|BODY_9|0
+the source|DT NN|BODY_8|0
+the reference solution|DT NN NN|BODY_5|0
+hanrahan et al|JJ NNP NN|BODY_1|0
+pessimistic error esti- mates|JJ NN NNS NNS|BODY_7|0
+results|NNS|BODY_1|0
+the actual errors|DT JJ NNS|BODY_8|0
+let k|VB NN|BODY_1|0
+equation ( 10 )|NN -LRB- CD -RRB-|BODY_1|0
+such bounds|JJ NNS|BODY_3|0
+the dimmest elements|DT JJ NNS|BODY_6|0
+the upper bounds|DT JJ NNS|BODY_5|0
+us|PRP|BODY_4|0
+realistic estimates|JJ NNS|ABSTRACT_1|0
+3|CD|BODY_1|0
+full matrix radiosity|JJ NN NN|BODY_6|0
+the three cases|DT CD NNS|BODY_3|0
+the three environmentsin figure 5|DT CD NN NN CD|BODY_7|0
+the three test cases|DT CD NN NNS|BODY_6|0
+the brightness ordering|DT NN NN|BODY_1|0
+the solution increases|DT NN NNS|BODY_5|0
+the solutions increases|DT NNS NNS|BODY_5|0
+the smooth curve|DT JJ NN|BODY_1|0
+the algorithm progresses|DT NN NNS|BODY_6|0
+patch areas|NN NNS|BODY_7|0
+figure 6|NN CD|BODY_1|0
+the top pair|DT JJ NN|BODY_1|0
+the limit b|DT NN NN|BODY_1|0
+the total radiosity function b(x )|DT JJ NN NN NN -RRB-|BODY_3|0
+only one iteration|RB CD NN|BODY_1|0
+even tighter bounds|RB JJR NNS|BODY_6|0
+the real matrix|DT JJ NN|BODY_11|0
+bright sources|JJ NNS|BODY_7|0
+the other node|DT JJ NN|BODY_6|0
+k inter- reflections|NN NNS NNS|BODY_13|0
+k light bounces|NN NN NNS|BODY_6|0
+obtained bounds|VBN NNS|BODY_1|0
+the source b j|DT NN NN NN|BODY_9|0
+l1 norm|JJ NN|BODY_10|0
+f ( b )|NN -LRB- NN -RRB-|BODY_9|0
+r t|NN NN|BODY_10|0
+5.1 importance and linear functionals|CD NN CC NN NNS|BODY_1|0
+higher order basis functions|JJR NN NN NNS|BODY_4|0
+these deficiencies|DT NNS|BODY_3|0
+oscillations|NNS|BODY_6|0
+realistic upper bounds|JJ JJ NNS|BODY_6|0
+the true errors|DT JJ NNS|BODY_5|0
+these changes|DT NNS|BODY_1|0
+brightness-weighted vs. error-driven refinement|JJ FW NN NN|BODY_16|0
+b i and b i|NN RB CC NN RB|BODY_6|0
+these values|DT NNS|BODY_5|0
+the first observation|DT JJ NN|BODY_1|0
+lower left plot )|JJR NN NN -RRB-|BODY_5|0
+radiosity approximations|NN NNS|BODY_5|0
+the non-constant form-factor|DT JJ NN|BODY_5|0
+the total solution error|DT JJ NN NN|BODY_6|0
+the upper and lower bounds|DT JJ CC JJR NNS|BODY_1|0
+sorting|VBG|BODY_1|0
+the contributing links|DT VBG NNS|BODY_11|0
+the corresponding operator norms|DT JJ NN NNS|BODY_6|0
+a quantitative error metric|DT JJ NN JJ|BODY_1|0
+3.4 bounding form-factors|CD VBG NNS|BODY_1|0
+5.3 results|CD NNS|BODY_1|0
+6 conclusions|CD NNS|BODY_1|0
+convergence|NN|BODY_1|0
+elementary analysis|JJ NN|BODY_1|0
+instance|NN|BODY_1|0
+more realistic estimates|RBR JJ NNS|BODY_1|0
+our current implementation|PRP$ JJ NN|BODY_1|0
+section 3|NN CD|BODY_1|0
+section 4|NN CD|BODY_1|0
+the bound|DT VBN|BODY_8|0
+these tighter bounds|DT JJR NNS|BODY_1|0
+bounds and error estimates|NNS CC NN NNS|TITLE_1|0
+figure|NN|BODY_16|0
+the approximate solution b b(x )|DT JJ NN NN NN -RRB-|BODY_3|0
+the speedup|DT NN|BODY_1|0
+these methods|DT NNS|BODY_1|0
+all these fields numerical accuracy|DT DT NNS JJ NN|BODY_1|0
+each form-factor|DT NN|BODY_1|0
+2 3.2|CD CD|BODY_1|0
+these radiosity bounds|DT NN NNS|BODY_2|0
+our algorithms|PRP$ NNS|BODY_5|0
+the patch radiosities|DT NN NNS|BODY_5|0
+the right wall|DT JJ NN|BODY_8|0
+two piece-wise constant functions|CD JJ JJ NNS|BODY_5|0
+the analysis|DT NN|BODY_1|0
+radiosity methods|NN NNS|BODY_4|0
+similar integral equations|JJ NN NNS|BODY_7|0
+the emission vector|DT NN NN|BODY_5|0
+this a gauss-seidel iteration|DT DT JJ NN|BODY_4|0
+ffl|NN|BODY_6|0
+the vector sequence converges|DT NN NN NNS|BODY_5|0
+one undesirable feature|CD JJ NN|BODY_1|0
+the modified matrix|DT VBN NN|BODY_1|0
+both types|DT NNS|BODY_1|0
+this difference|DT NN|BODY_1|0
+proof|NN|BODY_1|0
+see figure 1|VB NN CD|BODY_1|0

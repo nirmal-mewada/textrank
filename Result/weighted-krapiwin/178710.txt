@@ -1,0 +1,815 @@
+genetic algorithms|JJ NNS|BODY_5:ABSTRACT_4:TITLE_1:BODY_1:BODY_3:BODY_4|0
+we|PRP|BODY_12:BODY_15:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8|5
+that|WDT|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:BODY_7:ABSTRACT_9:BODY_8:BODY_9|2
+concept learning|NN NN|BODY_6:BODY_12:TITLE_2:BODY_2:BODY_7|0
+gabil|NN|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7|1
+the design and implementation|DT NN CC NN|BODY_2:ABSTRACT_7|0
+other concept learning systems|JJ NN VBG NNS|ABSTRACT_4:BODY_10|0
+robust concept learning systems|JJ NN VBG NNS|BODY_6:ABSTRACT_8|0
+c4.5|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:ABSTRACT_7:BODY_7:BODY_9|1
+the system|DT NN|BODY_6:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8|1
+concept classification rules|NN NN NNS|BODY_5:ABSTRACT_5|1
+a ga-based system|DT JJ NN|ABSTRACT_2:BODY_2:BODY_3|1
+this approach|DT NN|ABSTRACT_4:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+a key element|DT JJ NN|BODY_5:ABSTRACT_6|0
+gas|NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_8|1
+target concepts|NN NNS|BODY_5:ABSTRACT_11:BODY_13:BODY_7:BODY_8:BODY_9|1
+a ga|DT NN|BODY_2:BODY_3:ABSTRACT_1:BODY_4|1
+the performance|DT NN|BODY_2:ABSTRACT_3:BODY_3:BODY_7|0
+the use|DT NN|BODY_13:ABSTRACT_3:BODY_3:ABSTRACT_1|0
+an important additional feature|DT JJ JJ NN|ABSTRACT_6|1
+a concept learning system|DT NN VBG NN|ABSTRACT_4|1
+different concept learning systems|JJ NN VBG NNS|ABSTRACT_7|0
+several important features|JJ JJ NNS|ABSTRACT_7|1
+the biases )|DT NNS -RRB-|ABSTRACT_12|0
+those well matched|DT RB VBN|ABSTRACT_11|0
+certain concept classes|JJ NN NNS|ABSTRACT_10|0
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_17:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+there|EX|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|1
+the concept description language|DT NN NN NN|BODY_2|1
+these two search processes|DT CD NN NNS|BODY_2|1
+here insert table 6|RB NN NN CD|BODY_2|1
+an important design consideration|DT JJ NN NN|BODY_3|1
+a very natural way|DT RB JJ NN|BODY_4:BODY_7|1
+a rule set representation|DT NN VBD NN|BODY_3|1
+a good fitness function|DT JJ NN NN|BODY_5|1
+an important next step|DT JJ JJ NN|BODY_1|1
+the adding alternative operator|DT VBG NN NN|BODY_2:BODY_1:BODY_3|0
+the dropping condition operator|DT VBG NN NN|BODY_2:BODY_1:BODY_3|0
+the syntax and semantics|DT NN CC NNS|BODY_13:BODY_3|0
+the size and complexity|DT NN CC NN|BODY_2:BODY_9|0
+crossover and mutation )|NN CC NN -RRB-|BODY_3|0
+the fundamental ga operators|DT JJ NN NNS|BODY_2|0
+the surviving rule sets|DT VBG NN NNS|BODY_2|0
+'s changeable algorithmic biases|POS JJ JJ NNS|BODY_2|0
+batch-incremental and incremental modes|JJ CC JJ NNS|BODY_2|0
+here the vbms system|RB DT NNS NN|BODY_2|0
+the corresponding crossover points|DT JJ NN NNS|BODY_2|0
+four other concept learners|CD JJ NN NNS|BODY_6:BODY_2|0
+positive and negative examples|JJ CC JJ NNS|BODY_7:BODY_8:BODY_9|0
+the bc database )|DT JJ NN -RRB-|BODY_3:BODY_20|0
+the bc target concept|DT JJ NN NN|BODY_6:BODY_5:BODY_1|0
+all the target concepts|DT DT NN NNS|BODY_5:BODY_7|0
+the most specific generalization|DT RBS JJ NN|BODY_5:BODY_7|0
+additional genetic  operators|JJ JJ NN NNS|BODY_4:BODY_9|0
+the shelf  ga|DT NN NN NN|BODY_5|0
+problem approach adapts gas|NN NN NNS NN|BODY_3|0
+a non-linear differential reward|DT JJ JJ NN|BODY_15|0
+a decision tree )|DT NN NN -RRB-|BODY_4|0
+the original problem space|DT JJ NN NN|BODY_6:BODY_8|0
+a 95 % level|DT CD NN NN|BODY_3|0
+times ( trials )|NNS -LRB- NNS -RRB-|BODY_2|0
+here insert table 4|RB NN NN CD|BODY_2|0
+the remaining 0 bits|DT VBG CD NNS|BODY_5|0
+certain advantages and disadvantages|JJ NNS CC NNS|BODY_2|0
+each decision tree node|DT NN NN NN|BODY_1|0
+the selection and application|DT NN CC NN|BODY_2|0
+a decision tree representation|DT NN NN NN|BODY_2|0
+5 the precise criteria|CD DT JJ NNS|BODY_7|0
+here insert table 2|RB NN NN CD|BODY_2|0
+two popular hypothesis forms|CD JJ NN NNS|BODY_6|0
+the maximum beam width|DT NN NN NN|BODY_12|0
+the variable-length string representation|DT NN NN NN|BODY_4|0
+figures 4 and 5|NNS CD CC CD|BODY_2:BODY_1|0
+a ga-based concept learner|DT JJ NN NN|BODY_1:BODY_2|0
+c4.5 pruned and unpruned|CD JJ CC JJ|BODY_7|0
+tables 1 and 2|NNS CD CC CD|BODY_3|0
+the method and criteria|DT NN CC NNS|BODY_7|0
+a fixed-length binary string|DT NN JJ NN|BODY_2|0
+a prediction accuracy criterion|DT NN NN NN|BODY_3|0
+the normal mutation operator|DT JJ NN NN|BODY_8|0
+the 4d1c target concept|DT JJ NN NN|BODY_2|0
+these two test domains|DT CD NN NNS|BODY_3|0
+the global performance criteria|DT JJ NN NNS|BODY_2|0
+tables 3 and 4|NNS CD CC CD|BODY_4|0
+a fairly standard extension|DT RB JJ NN|BODY_2|0
+all possible concept descriptions|DT JJ NN NNS|BODY_3|0
+the two new operators|DT CD JJ NNS|BODY_7|0
+a reasonably accurate description|DT RB JJ NN|BODY_8|0
+the necessary expressive power|DT JJ JJ NN|BODY_12|0
+bias adjustment adaptive bias|NN NN JJ NN|BODY_3|0
+this approach and directions|DT NN CC NNS|BODY_11|0
+'s ga search procedure|POS NN NN NN|BODY_6|0
+the gabil system architecture|DT NN NN NN|BODY_3|0
+the lower level biases|DT JJR NN NNS|BODY_2|0
+a pure incremental system|DT JJ NN NN|BODY_2|0
+the simplicity preference )|DT NN NN -RRB-|BODY_4|0
+the usual bit-level mutations|DT JJ JJ NNS|BODY_3|0
+these problem characteristic dimensions|DT NN JJ NNS|BODY_3|0
+any significant bias adjustment|DT JJ NN NN|BODY_6|0
+95 % prediction accuracy|CD NN NN NN|BODY_19|0
+either present or not|DT JJ CC RB|BODY_3|0
+the competitive relation learner|DT JJ NN NN|BODY_4|0
+the left hand side|DT JJ NN NN|BODY_13|0
+as perfect a rule|IN JJ DT NN|BODY_5|0
+the right cut point|DT JJ NN NN|BODY_5|0
+the inherent ordering information|DT JJ VBG NN|BODY_2|0
+possibly overlapping classification rules|RB VBG NN NNS|BODY_5|0
+each individual rule set|DT JJ NN NN|BODY_2|0
+a positive dnf hypothesis|DT JJ NN NN|BODY_2|0
+a separate control mechanism|DT JJ NN NN|BODY_3|0
+a well-known natural database|DT JJ JJ NN|BODY_2|0
+a single average value|DT JJ JJ NN|BODY_3|0
+an interesting complementary relationship|DT JJ JJ NN|BODY_3|0
+yet powerful search strategy|RB JJ NN NN|BODY_4|0
+the small population size|DT JJ NN NN|BODY_3|0
+the realistic data characteristics|DT JJ NNS NNS|BODY_5|0
+the machine learning group|DT NN VBG NN|BODY_2|0
+'s algorithm concept learner|POS NN NN NN|BODY_14|0
+a 75 % probability|DT CD NN NN|BODY_4|0
+the dropping condition (dc|DT VBG NN NN|BODY_4|0
+new offspring ( rule|JJ NN -LRB- NN|BODY_4|0
+the final concept description|DT JJ NN NN|BODY_4|0
+a single target concept|DT JJ NN NN|BODY_5:BODY_4|0
+a higher firing frequency|DT JJR NN NN|BODY_5|0
+iacl ) ( gordon|JJ -RRB- -LRB- NN|BODY_15|0
+even more complex situations|RB RBR JJ NNS|BODY_4|0
+a pure  ga|DT JJ NN NN|BODY_4|0
+no new adaptive mechanism|DT JJ NN NN|BODY_2|0
+_ _ _ _|VBP VBP VBP VBP|BODY_7|0
+a 25 % probability|DT CD NN NN|BODY_7|0
+large , complex spaces|JJ , JJ NNS|BODY_4|0
+all the legal values|PDT DT JJ NNS|BODY_8|0
+the left cut point|DT JJ NN NN|BODY_2|0
+the most recent window|DT RBS JJ NN|BODY_5|0
+two general approaches one|CD JJ NNS NN|BODY_2|0
+the traditional concept learners|DT JJ NN NNS|BODY_2|0
+two new gabil operators|CD JJ NN NNS|BODY_3|0
+one or more rules|CD CC JJR NNS|BODY_3|0
+one or more biases|CD CC JJR NNS|BODY_3|0
+the resulting system performs|DT VBG NN NNS|BODY_3|0
+the same basic algorithm|DT JJ JJ NN|BODY_8|0
+'s information theoretic biases|POS NN JJ NNS|BODY_4|0
+this 2 feature problem|DT CD NN NN|BODY_2|0
+the most short disjuncts|DT JJS JJ NNS|BODY_3|0
+the breast cancer instances|DT NN NN NNS|BODY_3|0
+the advantages and disadvantages|DT NNS CC NNS|BODY_1|0
+sphere or cube )|NN CC NN -RRB-|BODY_6|0
+a genetic  operator|DT JJ NN NN|BODY_2|0
+dynamically calculated rule strengths|RB VBN NN NNS|BODY_6|0
+positive or negative examples|JJ CC JJ NNS|BODY_5|0
+no one fixed set|DT NN VBN NN|BODY_3|0
+the other genetic operators|DT JJ JJ NNS|BODY_1|0
+the top or close|DT JJ CC JJ|BODY_3|0
+a concept learning representation|DT NN VBG NN|BODY_3|0
+_ _ 8 aq14|JJ JJ CD NN|BODY_6|0
+at most one test|IN JJS CD NN|BODY_11|0
+the traditional ga operators|DT JJ NN NNS|BODY_10|0
+a new negative example|DT JJ JJ NN|BODY_2|0
+a corresponding global criterion|DT JJ JJ NN|BODY_3|0
+currently two basic strategies|RB CD JJ NNS|BODY_2|0
+the following symbolic form|DT JJ JJ NN|BODY_3|0
+an n-dimensional feature space|DT JJ NN NN|BODY_4|0
+the new adaptive gabil|DT JJ JJ NN|BODY_3|0
+an information theoretic bias|DT NN JJ NN|BODY_4|0
+a more sophisticated way|DT RBR JJ NN|BODY_6|0
+1 & 3 )|CD CC CD -RRB-|BODY_9|0
+a 4 feature world|DT CD NN NN|BODY_3|0
+the 12 target concepts|DT CD NN NNS|BODY_3|0
+the concept ( classification|DT NN -LRB- NN|BODY_3|0
+extending and refining gabil|VBG CC VBG NN|BODY_3|0
+the numeric bc database|DT JJ NN NN|BODY_9|0
+generally binary ) strings|RB JJ -RRB- NNS|BODY_4|0
+4 possible distinct values|CD JJ JJ NNS|BODY_6|0
+the conjunctive left-hand side|DT JJ JJ NN|BODY_3|0
+standard 2- point crossover|JJ CD NN NN|BODY_2|0
+a concept learning problem|DT NN NN NN|BODY_4|0
+the standard mutation operator|DT JJ NN NN|BODY_12|0
+two extra control bits|CD JJ NN NNS|BODY_5|0
+the disjunct 100 100|DT JJ CD CD|BODY_2|0
+small or medium )|JJ CC NN -RRB-|BODY_5|0
+a fixed-length internal representation|DT JJ JJ NN|BODY_3|0
+the best overall performer|DT JJS JJ NN|BODY_4|0
+here these augmented forms|RB DT JJ NNS|BODY_3|0
+the training set )|DT NN NN -RRB-|BODY_15|0
+a uniform crossover operator|DT JJ NN NN|BODY_14|0
+an asymmetric mutation rate|DT JJ NN NN|BODY_9|0
+no a priori set|DT DT NN NN|BODY_10|0
+effective dynamic bias adjustment|JJ JJ NN NN|BODY_7|0
+an explicit right-hand side|DT JJ JJ NN|BODY_4|0
+an adaptive search technique|DT JJ NN NN|BODY_4|0
+this minimalist gabil system|DT NN NN NN|BODY_3|0
+dnf and decision trees|NN CC NN NNS|BODY_7|0
+_ _ _ 9|NN NN NN CD|BODY_7|0
+8 insert table 1|CD NN NN CD|BODY_1|0
+the simplest coupled way|DT JJS VBN NN|BODY_1|0
+one or more tests|CD CC JJR NNS|BODY_8|0
+only a positive hypothesis|RB DT JJ NN|BODY_3|0
+our chosen parameter settings|PRP$ VBN NN NNS|BODY_4|0
+further simplifying decision trees|JJ JJ NN NNS|BODY_3|0
+the global convergence criterion|DT JJ NN NN|BODY_1|0
+the current classification rule|DT JJ NN NN|BODY_5|0
+the global c criterion|DT JJ NN NN|BODY_4|0
+other parameter set- tings|JJ NN NNS NNS|BODY_4|0
+their bias space search|PRP$ NN NN NN|BODY_8|0
+the (unknown ) concepts|DT JJ -RRB- NNS|BODY_9|0
+the second performance criterion|DT JJ NN NN|BODY_1|0
+a user-defined upper bound|DT JJ JJ VBN|BODY_4|0
+a crossover cut point|DT NN NN NN|BODY_8|0
+the best performer overall|DT JJS JJ JJ|BODY_4|0
+the relevant operator probability|DT JJ NN NN|BODY_4|0
+the underlying concept descriptions|DT VBG NN NNS|BODY_14|0
+the initial positive hypothesis|DT JJ JJ NN|BODY_1|0
+some rule boundary )|DT NN NN -RRB-|BODY_12|0
+the adaptive gabil performs|DT JJ NN NNS|BODY_1|0
+a few informal experiments|DT JJ JJ NNS|BODY_6|0
+the task-speci fic operators|DT NNS NN NNS|BODY_8|0
+results table 1 shows|NNS NN CD VBZ|BODY_1|0
+only a single concept|RB DT JJ NN|BODY_4|0
+2. gas and concept|DT NN CC NN|BODY_1|0
+a concept learning program|DT NN VBG NN|BODY_1|0
+an information theoretic measure|DT NN JJ NN|BODY_1|0
+the given n-dimensional space|DT VBN JJ NN|BODY_4|0
+a good overall performer|DT JJ JJ NN|BODY_2|0
+our batch-incremental concept learner|PRP$ JJ NN NN|BODY_5|0
+our ga-based concept learner|PRP$ JJ NN NN|BODY_6|0
+our unoptimized batch-incremental version|PRP$ JJ JJ NN|BODY_1|0
+the dc operator gabil+d|DT NN NN NN|BODY_3|0
+the most useful form|DT RBS JJ NN|BODY_1|0
+the concept-learning literature )|DT NN NN -RRB-|BODY_6|0
+our minimalist phi- losophy|PRP$ NN NNS NN|BODY_1|0
+the particular parameter settings|DT JJ NN NNS|BODY_1|0
+the concept learning task|DT NN VBG NN|BODY_5|0
+each new additional instance|DT JJ JJ NN|BODY_1|0
+shorter ) decision trees|JJR -RRB- NN NNS|BODY_5|0
+non-optimal and noisy instances|JJ CC JJ NNS|BODY_8|0
+simpler dnf target concepts|JJR JJ NN NNS|BODY_7|0
+the few notable exceptions|DT JJ JJ NNS|BODY_1|0
+length and complexity biases|NN CC NN NNS|BODY_7|0
+4 __ _ _|CD JJ JJ JJ|BODY_1|0
+all concept learning tasks|DT NN VBG NNS|BODY_12|0
+the traditional internal representation|DT JJ JJ NN|BODY_1|0
+the bc target con-|DT JJ NN NNS|BODY_4|0
+each concept learning problem|DT NN VBG NN|BODY_6|0
+while other class descriptions|IN JJ NN NNS|BODY_6|0
+each adaptive operator )|DT JJ NN -RRB-|BODY_4|0
+more than one rule|JJR IN CD NN|BODY_3|0
+one|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+this|DT|BODY_12:BODY_1:BODY_2:BODY_10:BODY_4|0
+aq14|NNS|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the global criteria|DT JJ NNS|BODY_1:BODY_3:BODY_4|2
+_ _ _|IN IN IN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+a rule set|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_3|1
+crossover and mutation|NN CC NN|BODY_1|1
+its own bias|PRP$ JJ NN|BODY_3:BODY_7|1
+their subsequent recombination|PRP$ JJ NN|BODY_11|1
+here the results|RB DT NNS|BODY_3|1
+an important requirement|DT JJ NN|BODY_2|1
+a fitness function|DT NN NN|BODY_1:BODY_3|1
+5 and 6|CD CC CD|BODY_3:BODY_7|1
+far more data|RB JJR NNS|BODY_2|1
+the local criteria|DT JJ NNS|BODY_3|1
+the right kinds|DT JJ NNS|BODY_7|1
+insert table 5|NN NN CD|BODY_1|1
+simple execution semantics|JJ NN NNS|BODY_7|1
+the following manner|DT VBG NN|BODY_17:BODY_8|1
+a good representation|DT JJ NN|BODY_3|1
+one important feature|CD JJ NN|BODY_1|1
+the other systems|DT JJ NNS|BODY_6:BODY_2:BODY_4|0
+the dc operator|DT NN NN|BODY_6:BODY_2:BODY_4|0
+adaptive gabil|JJ NN|BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+a set|DT NN|BODY_12:BODY_5:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|1
+the target concept|DT NN NN|BODY_6:BODY_15:BODY_1:BODY_3:BODY_4:BODY_10:BODY_9|0
+the ndmc domain|DT JJ NN|BODY_5:BODY_1:BODY_3|0
+.e|NN|BODY_6:BODY_5:BODY_4:BODY_7:BODY_8:BODY_9|0
+a string representation|DT NN NN|BODY_5:BODY_2|0
+they|PRP|BODY_12:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the artificial domain|DT JJ NN|BODY_5:BODY_2:BODY_7|0
+the michigan approach|DT NN NN|BODY_5:BODY_2:BODY_3|0
+the pittsburgh approach|DT JJ NN|BODY_11:BODY_3:BODY_4:BODY_8|0
+a satisfactory rule|DT JJ NN|BODY_11:BODY_8|0
+these results|DT NNS|BODY_6:BODY_16:BODY_2:BODY_1:BODY_3|1
+its inductive hypotheses|PRP$ JJ NNS|BODY_5:BODY_3:BODY_4|0
+the gabil system|DT NN NN|BODY_1:BODY_3|0
+a coupled approach|DT VBN NN|BODY_2:BODY_1|0
+the target concepts|DT NN NNS|BODY_11:BODY_2:BODY_9|0
+the crossover points|DT NN NNS|BODY_4:BODY_7:BODY_8|0
+the underlying ga|DT VBG NN|BODY_11:BODY_2|0
+the population size|DT NN NN|BODY_4:BODY_9|0
+a small amount|DT JJ NN|BODY_2:BODY_7|0
+the test set|DT NN NN|BODY_17:BODY_14|0
+the positive hypothesis|DT JJ NN|BODY_2:BODY_4:BODY_8|0
+the tables )|DT NNS -RRB-|BODY_4:BODY_9|0
+the associated operator|DT JJ NN|BODY_2:BODY_3|0
+a new rule|DT JJ NN|BODY_6:BODY_5:BODY_4|0
+the left-hand sides|DT JJ NNS|BODY_1:BODY_4:BODY_8|0
+the negative hypothesis|DT JJ NN|BODY_13:BODY_1:BODY_7|0
+the ndmc concepts|DT NN NNS|BODY_5:BODY_17:BODY_9|0
+the control bits|DT NN NNS|BODY_1:BODY_2|0
+a population size|DT NN NN|BODY_2:BODY_4|0
+larger population sizes|JJR NN NNS|BODY_2|0
+the corresponding operator|DT JJ NN|BODY_2|0
+the standard one|DT JJ CD|BODY_2|0
+a root node|DT NN NN|BODY_3|0
+higher entropy values|JJR NN NNS|BODY_6:BODY_4|0
+the aq14 system|DT NNS NN|BODY_2:BODY_3|0
+a particular class|DT JJ NN|BODY_10:BODY_7|0
+the feature values|DT NN NNS|BODY_7:BODY_8|0
+a concept learner|DT NN NN|BODY_6:BODY_5|0
+the rule boundary|DT NN NN|BODY_4:BODY_7|0
+4 and 5|CD CC CD|BODY_2|0
+the feature space|DT NN NN|BODY_6:BODY_5:BODY_4|0
+the next level|DT JJ NN|BODY_4|0
+complex concept descriptions|JJ NN NNS|BODY_6:BODY_13|0
+this rule set|DT NN VBN|BODY_5:BODY_1|0
+coupled and uncoupled|VBN CC JJ|BODY_3|0
+the learning curves|DT NN NNS|BODY_6:BODY_2|0
+these control bits|DT NN NNS|BODY_11:BODY_1|0
+leaves or branches|NNS CC NNS|BODY_7|0
+gabil and gabil+d|NN CC NN|BODY_3|0
+the first parent|DT JJ NN|BODY_7|0
+the ga-based system|DT JJ NN|BODY_7|0
+added boolean preconditions|VBN NN NNS|BODY_2|0
+a feature test|DT NN NN|BODY_2|0
+completeness and consistency|NN CC NN|BODY_14|0
+__ _ _|JJ JJ JJ|BODY_2:BODY_3|0
+a natural way|DT JJ NN|BODY_2|0
+higher level mechanisms|JJR NN NNS|BODY_4|0
+the decision tree|DT NN NN|BODY_3:BODY_10|0
+the same points|DT JJ NNS|BODY_8|0
+a survival point|DT NN NN|BODY_7|0
+the general context|DT JJ NN|BODY_2|0
+the correct predictions|DT JJ NNS|BODY_6|0
+these new operators|DT JJ NNS|BODY_5|0
+the across-problem approach|DT NN NN|BODY_2:BODY_8|0
+the within-problem approach|DT NNP NN|BODY_2:BODY_1:BODY_7|0
+outperform adaptive gabil|JJ JJ NN|BODY_2|0
+the adaptive mechanism|DT JJ NN|BODY_3:BODY_4|0
+a feature node|DT NN NN|BODY_2|0
+the concept learner|DT NN NN|BODY_1:BODY_3|0
+representation and operators|NN CC NNS|BODY_11|0
+each new instance|DT JJ NN|BODY_2|0
+the star algorithm|DT NN NN|BODY_2|0
+aq14 and c4.5|NNS CC CD|BODY_1:BODY_7|0
+each target concept|DT NN NN|BODY_2:BODY_1|0
+an adaptive ga|DT JJ NN|BODY_5|0
+the bc domain|DT JJ NN|BODY_1:BODY_10:BODY_7|0
+an instance feature|DT NN NN|BODY_2|0
+the particular problem|DT JJ NN|BODY_10|0
+empirical learning (|JJ NN -LRB-|BODY_3|0
+such an approach|JJ DT NN|BODY_1:BODY_2|0
+the other parent|DT JJ NN|BODY_6:BODY_4|0
+the right-hand side|DT JJ NN|BODY_6:BODY_1|0
+all target concepts|DT NN NNS|BODY_5|0
+the prediction accuracy|DT NN NN|BODY_2|0
+a priori knowledge|DT JJ NN|BODY_6|0
+two new individuals|CD JJ NNS|BODY_3|0
+the set {a1|DT NN NNS|BODY_7|0
+all id-based systems|DT JJ NNS|BODY_6|0
+the positive examples|DT JJ NNS|BODY_7|0
+previously seen instances|RB VBN NNS|BODY_5|0
+nearly irrelevant conditions|RB JJ NNS|BODY_6|0
+the heuristic search|DT JJ NN|BODY_5|0
+a given set|DT VBN NN|BODY_6:BODY_8|0
+the bias adjustment|DT NN NN|BODY_5|0
+a the two|DT DT CD|BODY_5|0
+the original database|DT JJ NN|BODY_6|0
+multiple simultaneous biases|JJ JJ NNS|BODY_7|0
+an appropriate set|DT JJ NN|BODY_8|0
+the dropping condition|DT VBG NN|BODY_9|0
+the additional task|DT JJ NN|BODY_4|0
+no message passing|DT NN NN|BODY_4|0
+grefenstette , 1989|NN , CD|BODY_5|0
+a rule representation|DT NN NN|BODY_3|0
+the maximum percentage|DT JJ NN|BODY_9|0
+the negative examples|DT JJ NNS|BODY_10|0
+a batch mode|DT NN NN|BODY_2|0
+the k values|DT NN NNS|BODY_3|0
+consistency and completeness|NN CC NN|BODY_2:BODY_4|0
+an ideal companion|DT JJ NN|BODY_2|0
+the left-hand side|DT JJ NN|BODY_1:BODY_7|0
+the additional search|DT JJ NN|BODY_2|0
+that adding alternatives|IN VBG NNS|BODY_5|0
+a new instance|DT JJ NN|BODY_5:BODY_3|0
+a learning curve|DT NN NN|BODY_6|0
+a minimalist approach|DT JJ NN|BODY_2|0
+a modified dnf|DT JJ NN|BODY_2:BODY_4|0
+an additional mutation|DT JJ NN|BODY_7|0
+the resulting system|DT VBG NN|BODY_4|0
+the relative merits|DT JJ NNS|BODY_2|0
+a disjunctive set|DT JJ NN|BODY_4|0
+the minimum number|DT JJ NN|BODY_14|0
+concept learning tasks|NN NN NNS|BODY_2|0
+the experimental results|DT JJ NNS|BODY_3|0
+the id algorithm|DT JJ NN|BODY_2|0
+short term variations|JJ NN NNS|BODY_5|0
+gabil and gabil+a|NN CC NN|BODY_3|0
+the improved performance|DT JJ NN|BODY_3|0
+the normal way|DT JJ NN|BODY_3|0
+a particular individual|DT JJ NN|BODY_3|0
+a new set|DT JJ NN|BODY_5|0
+two crossover points|CD NN NNS|BODY_6|0
+the precise form|DT JJ NN|BODY_7|0
+the same issues|DT JJ NNS|BODY_3|0
+a testing instance|DT NN NN|BODY_3|0
+the initial population|DT JJ NN|BODY_4|0
+the central mechanism|DT JJ NN|BODY_7|0
+the original gabil|DT JJ NN|BODY_3|0
+one possible concern|CD JJ NN|BODY_2|0
+id5r ( utgoff|NN -LRB- NN|BODY_11|0
+numeric interval values|JJ NN NNS|BODY_3|0
+correct  operators|JJ NN NNS|BODY_5|0
+all the problems|PDT DT NNS|BODY_2|0
+the only system|DT JJ NN|BODY_4|0
+examples and searches|NNS CC NNS|BODY_4|0
+the overall structure|DT JJ NN|BODY_6|0
+symbolic concept descriptions|JJ NN NNS|BODY_4|0
+a small window|DT JJ NN|BODY_4|0
+a strong preference|DT JJ NN|BODY_3|0
+the aa operator|DT JJ NN|BODY_2:BODY_1|0
+the fourth system|DT JJ NN|BODY_2|0
+these concept learners|DT NN NNS|BODY_5|0
+new hypothesis rules|JJ NN NNS|BODY_2|0
+a large number|DT JJ NN|BODY_4|0
+a negative leaf|DT JJ NN|BODY_5|0
+the most useful|DT RBS JJ|BODY_3|0
+their fitness (|PRP$ NN -LRB-|BODY_4|0
+the given value|DT VBN NN|BODY_9|0
+f1 f2 class|CD CD NN|BODY_1:BODY_3|0
+a  | |DT JJ NNS|BODY_7|0
+the bc database|DT JJ NN|BODY_2:BODY_1|0
+the previous section|DT JJ NN|BODY_2|0
+a never-ending process|DT NN NN|BODY_2|0
+a traditional ga|DT JJ NN|BODY_6|0
+both tree simplification|DT NN NN|BODY_2|0
+each other ,|DT JJ ,|BODY_5|0
+10 independent trials|CD JJ NNS|BODY_4|0
+a certain class|DT JJ NN|BODY_3|0
+insert table 7|NN NN CD|BODY_1|0
+more computation time|JJR NN NN|BODY_3|0
+our mutation operator|PRP$ NN NN|BODY_1|0
+the finely-grained measure|DT JJ NN|BODY_1|0
+the only requirement|DT JJ NN|BODY_1|0
+the search progresses|DT NN NNS|BODY_1|0
+the simplest way|DT JJS NN|BODY_1|0
+the two parents|DT CD NNS|BODY_3|0
+this performance criterion|DT NN NN|BODY_3|0
+three concept learners|CD NN NNS|BODY_1|0
+an initialization procedure|DT NN NN|BODY_7|0
+the earlier results|DT JJR NNS|BODY_2|0
+two target concepts|CD NN NNS|BODY_8|0
+an effective mapping|DT JJ NN|BODY_3|0
+these two operators|DT CD NNS|BODY_4|0
+a robust learner|DT JJ NN|BODY_2|0
+concept learning systems|NN VBG NNS|BODY_2|0
+their bias focus|PRP$ NN NN|BODY_4|0
+every target concept|DT NN NN|BODY_5|0
+the fitness function|DT NN NN|BODY_4|0
+the following example|DT VBG NN|BODY_2|0
+the time/space constraints|DT NN NNS|BODY_5:BODY_8|0
+the gabil architecture|DT NN NN|BODY_5|0
+medium , large}|JJ , JJ|BODY_5|0
+convergence ( c)|NN -LRB- NN|BODY_2|0
+disjunctive normal form|JJ JJ NN|BODY_7|0
+'s splitting process|POS JJ NN|BODY_2|0
+a single system|DT JJ NN|BODY_5|0
+the other approach|DT JJ NN|BODY_2|0
+diagnosing breast cancer|JJ NN NN|BODY_3|0
+positive control bits|JJ NN NNS|BODY_5|0
+the generalization operator|DT NN NN|BODY_6|0
+a medium cube|DT NN NN|BODY_2|0
+a difficult issue|DT JJ NN|BODY_5|0
+the beam width|DT NN NN|BODY_4|0
+any other form|DT JJ NN|BODY_5|0
+most ga implementations|JJS NN NNS|BODY_6|0
+the internal representation|DT JJ NN|BODY_9|0
+( de jong|-LRB- FW NNP|BODY_7|0
+each time step|DT NN NN|BODY_3|0
+the system designer|DT NN NN|BODY_4|0
+an average performance|DT JJ NN|BODY_3|0
+n feature tests|NN NN NNS|BODY_2|0
+these same techniques|DT JJ NNS|BODY_2|0
+the aq systems|DT NNS NNS|BODY_3|0
+the 4d1c concept|DT JJ NN|BODY_6|0
+a finer-grained approach|DT JJ NN|BODY_2|0
+a pseudo-code description|DT JJ NN|BODY_2|0
+the greater importance|DT JJR NN|BODY_3|0
+our rule language|PRP$ NN NN|BODY_2|0
+no specific changes|DT JJ NNS|BODY_8|0
+a brief overview|DT JJ NN|BODY_2|0
+this new hypothesis|DT JJ NN|BODY_9|0
+a randomly-chosen example|DT JJ NN|BODY_3|0
+features and values|NNS CC NNS|BODY_15|0
+the incremental learning|DT JJ NN|BODY_2|0
+the numeric form|DT JJ NN|BODY_4|0
+the algorithmic bias|DT JJ NN|BODY_3|0
+the best set|DT JJS NN|BODY_4|0
+the feature age|DT NN NN|BODY_2|0
+the same class|DT JJ NN|BODY_5|0
+c4.5 ( quinlan|CD -LRB- NN|BODY_9|0
+this paper highlight|DT NN NN|BODY_2|0
+a nominal form|DT JJ NN|BODY_5|0
+peak ( holder|NN -LRB- NN|BODY_11|0
+the latter exception|DT JJ NN|BODY_2|0
+a research tool|DT NN NN|BODY_3|0
+a single example|DT JJ NN|BODY_2|0
+an initial test|DT JJ NN|BODY_2|0
+their useful comments|PRP$ JJ NNS|BODY_4|0
+any target concept|DT NN NN|BODY_4|0
+'s classifier system|POS NN NN|BODY_5|0
+c4.5 pruned performs|CD JJ VBZ|BODY_8|0
+the id-based systems|DT JJ NNS|BODY_6|0
+an incremental mode|DT JJ NN|BODY_2|0
+aa ) operators|JJ -RRB- NNS|BODY_6|0
+a particular exam|DT NN NN|BODY_9|0
+a natural domain|DT JJ NN|BODY_3|0
+a disjunct (|DT JJ -LRB-|BODY_2|0
+consistent and complete|JJ CC JJ|BODY_6|0
+a widget note|DT NN NN|BODY_8|0
+the same name|DT JJ NN|BODY_7|0
+smaller population sizes|JJR NN NNS|BODY_4|0
+the training set|DT NN NN|BODY_12|0
+the normal manner|DT JJ NN|BODY_3|0
+fitness ( individual|NN -LRB- JJ|BODY_11|0
+the underlying population|DT VBG NN|BODY_2|0
+_ 11 note|VBZ CD NN|BODY_9|0
+its search mechanism|PRP$ NN NN|BODY_5|0
+these bias operators|DT NN NNS|BODY_3|0
+a variable-length string|DT JJ NN|BODY_5|0
+all the examples|DT DT NNS|BODY_8|0
+the standard information|DT JJ NN|BODY_5|0
+any existing rule|DT JJ NN|BODY_2|0
+merging preserves consistency|VBG NNS NN|BODY_4|0
+the new instance|DT JJ NN|BODY_10:BODY_9|0
+the following rule|DT VBG NN|BODY_2|0
+'s msg operator|POS NN NN|BODY_2|0
+table 2 shows|NN CD VBZ|BODY_10|0
+the control bit|DT NN NN|BODY_1|0
+only the values|RB DT NNS|BODY_2|0
+such a pattern|JJ DT NN|BODY_3|0
+arbitrarily complex terms|RB JJ NNS|BODY_2|0
+a rule|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the best hypotheses|DT JJS NNS|BODY_8|0
+only two degrees|RB CD NNS|BODY_5|0
+the top performer|DT JJ NN|BODY_4|0
+the predictive performance|DT JJ NN|BODY_4|0
+various traditional forms|JJ JJ NNS|BODY_10|0
+a positive example|DT JJ NN|BODY_4|0
+the adaptive gabil|DT JJ NN|BODY_2|0
+noisy learning conditions|JJ NN NNS|BODY_5|0
+similar bias problems|JJ NN NNS|BODY_3|0
+an accumulating body|DT VBG NN|BODY_3|0
+this search space|DT NN NN|BODY_3|0
+more adaptive gas|RBR JJ NN|BODY_4|0
+a new population|DT JJ NN|BODY_3|0
+complex non-string objects|JJ JJ NNS|BODY_4|0
+our initial source|PRP$ JJ NN|BODY_7|0
+a rule boundary|DT NN NN|BODY_5:BODY_3|0
+the complete set|DT JJ NN|BODY_3|0
+the simpler case|DT JJR NN|BODY_3|0
+the mechanisms aq|DT NNS NN|BODY_3|0
+the instance features|DT NN NNS|BODY_6|0
+all four combinations|DT CD NNS|BODY_3|0
+an effective means|DT JJ NN|BODY_4|0
+its first instance|PRP$ JJ NN|BODY_3|0
+our initial evaluation|PRP$ JJ NN|BODY_2|0
+single-concept learning problems|JJ VBG NNS|BODY_4|0
+a particular set|DT JJ NN|BODY_5|0
+all 1 values|DT CD NNS|BODY_2|0
+the built-in forms|DT JJ NNS|BODY_6|0
+sphere or cube|NN CC NN|BODY_4|0
+only classification performance|RB NN NN|BODY_4|0
+appendix 1 )|NN CD -RRB-|BODY_4|0
+fewer external disjuncts|JJR JJ NNS|BODY_2|0
+'s __ _|POS JJ NN|BODY_4|0
+a particular member|DT JJ NN|BODY_2|0
+the rule sets|DT NN NNS|BODY_5|0
+iacl ( gordon|JJ -LRB- NN|BODY_4|0
+the first ,|DT JJ ,|BODY_1|0
+an unordered set|DT JJ NN|BODY_6|0
+space and priority|NN CC NN|BODY_7|0
+a target concept|DT NN NN|BODY_9|0
+multiple fixed biases|JJ VBN NNS|BODY_3|0
+the following disjunct|DT VBG NN|BODY_2|0
+j. r. quinlan|NNP NNP NN|BODY_6|0
+the cut points|DT NN NNS|BODY_2|0
+a similar spot|DT JJ NN|BODY_7|0
+the classification accuracy|DT NN NN|BODY_9|0
+a small set|DT JJ NN|BODY_5|0
+the second parent|DT JJ NN|BODY_9|0
+'s learning method|POS NN NN|BODY_2|0
+medium or large|JJ CC JJ|BODY_10|0
+the wrong class|DT JJ NN|BODY_8|0
+any sense optimal|DT NN NN|BODY_6|0
+these two situations|DT CD NNS|BODY_1|0
+additional task-specific changes|JJ JJ NNS|BODY_10|0
+a particular rule|DT JJ NN|BODY_6|0
+disjunct or term|JJ CC NN|BODY_5|0
+the search space|DT NN NN|BODY_1|0
+the internal disjunction|DT JJ NN|BODY_6|0
+each parent )|DT NN -RRB-|BODY_13|0
+the splitting process|DT JJ NN|BODY_1:BODY_3|0
+a user-specified set|DT JJ NN|BODY_4|0
+the aq algorithm|DT NN NN|BODY_6|0
+a separate meta-ga|DT JJ NN|BODY_2|0
+the other set|DT JJ NN|BODY_10|0
+a negative impact|DT JJ NN|BODY_10|0
+variable-length rule sets|JJ NN NNS|BODY_5|0
+'s superior performance|POS JJ NN|BODY_8|0
+simpler inductive hypotheses|JJR JJ NNS|BODY_5|0
+a fixed set|DT VBN NN|BODY_5|0
+a concept description|DT NN NN|BODY_3|0
+the previous example|DT JJ NN|BODY_3|0
+standard ga settings|JJ NN NNS|BODY_1|0
+a promising approach|DT JJ NN|BODY_3|0
+'s overall robustness|POS JJ NN|BODY_8|0
+the language bias|DT NN NN|BODY_4|0
+this new operator|DT JJ NN|BODY_2|0
+correctly classified examples|JJ JJ NNS|BODY_6|0
+all 286 instances|DT CD NNS|BODY_2|0
+a language bias|DT NN NN|BODY_2|0
+a static way|DT JJ NN|BODY_6|0
+here p(t )|RB NN -RRB-|BODY_3|0
+when adaptive gabil|WRB JJ NN|BODY_5|0
+the statistical significance|DT JJ NN|BODY_2:BODY_1|0
+two dnf hypotheses|CD JJ NNS|BODY_2|0
+the operator probabilities|DT NN NNS|BODY_12|0
+a random prediction|DT JJ NN|BODY_3|0
+a nominal feature|DT JJ NN|BODY_4|0
+the current set|DT JJ NN|BODY_4|0
+an internal representation|DT JJ NN|BODY_6|0
+our experimental analysis|PRP$ JJ NN|BODY_2|0
+( e .g.|-LRB- NN NN|BODY_4|0
+the general trend|DT JJ NN|BODY_4|0
+problem characteristic dimensions|NN JJ NNS|BODY_1:BODY_10|0
+5 c4.5 uses|CD CD NNS|BODY_1|0
+imperfect rule sets|JJ NN NNS|BODY_16|0
+figure 3 )|NN CD -RRB-|BODY_6|0
+induction and analogy|NN CC NN|BODY_5|0
+the previous sections|DT JJ NNS|BODY_6|0
+a shortened disjunct|DT JJ JJ|BODY_7|0
+minimal implicit bias|JJ JJ NN|BODY_4|0
+two performance criteria|CD NN NNS|BODY_6|0
+the unknown concept|DT JJ NN|BODY_3|0
+each feature test|DT NN NN|BODY_1|0
+each such choice|DT JJ NN|BODY_1|0
+each leaf node|DT NN NN|BODY_1|0
+concept description languages|NN NN NNS|BODY_5|0
+fairly strong biases|RB JJ NNS|BODY_8|0
+a distinct region|DT JJ NN|BODY_4|0
+an interesting question|DT JJ NN|BODY_1|0
+gabil+d and gabil+ad.|NN CC NN|BODY_5|0
+our future plans|PRP$ JJ NNS|BODY_4|0
+large population sizes|JJ NN NNS|BODY_4|0
+the latter approach|DT JJ NN|BODY_3|0
+these target concepts|DT NN NNS|BODY_11|0
+the nice properties|DT JJ NNS|BODY_2|0
+the simplest approach|DT JJS NN|BODY_2|0
+the learning method|DT NN NN|BODY_1|0
+the merging process|DT VBG NN|BODY_1|0
+a convergence criterion|DT NN NN|BODY_4|0
+adaptive gabil recall|JJ NN NN|BODY_1|0
+the next example|DT JJ NN|BODY_3|0
+that feature f2|DT NN NN|BODY_1|0
+probabil- ity )|POS NN -RRB-|BODY_4|0
+insert table 3|NN NN CD|BODY_1|0
+variable length strings|JJ NN NNS|BODY_1|0
+more robust performance|JJR JJ NN|BODY_6|0
+less relevance )|JJR NN -RRB-|BODY_7|0
+the rule complexity|DT NN NN|BODY_12|0
+the next section|DT JJ NN|BODY_4|0
+the consistency requirement|DT NN NN|BODY_3|0
+gabil+d or gabil+ad.|NN CC NN|BODY_6|0
+traditional concept learners|JJ NN NNS|BODY_1|0
+a window size|DT NN NN|BODY_1|0
+f2 class 2.2|CD NN CD|BODY_3|0
+one good example|CD JJ NN|BODY_1|0
+a training instance|DT NN NN|BODY_4|0
+a rule )|DT NN -RRB-|BODY_14|0
+a higher frequency|DT JJR NN|BODY_4|0
+all available instances|DT JJ NNS|BODY_9|0
+michalski 1990 )|NN CD -RRB-|BODY_4|0
+3d3c and 4d1c.|NN CC POS|BODY_9|0
+much less time|RB JJR NN|BODY_3|0
+all new individuals|DT JJ NNS|BODY_4|0
+an entire experiment|DT JJ NN|BODY_4|0
+testing and evaluation|NN CC NN|BODY_5|0
+no single system|DT JJ NN|BODY_1|0
+the presented concepts|DT VBN NNS|BODY_3|0
+incremental concept learning|JJ NN VBG|BODY_7|0
+related work )|JJ NN -RRB-|BODY_13|0
+the two approaches|DT CD NNS|BODY_3|0
+a decision tree|DT NN NN|BODY_1|0
+each fixed-length rule|DT NN NN|BODY_1|0
+an outside agent|DT JJ NN|BODY_5|0
+improved prediction accuracy|VBN NN NN|BODY_5|0
+many situations learning|JJ NNS NN|BODY_1|0
+our ultimate goal|PRP$ JJ NN|BODY_1|0
+the 3d3c concept|DT JJ NN|BODY_8|0
+the learning process|DT NN NN|BODY_7|0
+a merging process|DT VBG NN|BODY_1|0
+the performance comparisons|DT NN NNS|BODY_1|0
+our final goal|PRP$ JJ NN|BODY_1|0
+the vast majority|DT JJ NN|BODY_1|0
+their representational bias|PRP$ JJ NN|BODY_5|0
+a second set|DT JJ NN|BODY_1|0
+the second instance|DT JJ NN|BODY_1|0
+the same concept|DT JJ NN|BODY_6|0
+an internal disjunct|DT JJ NN|BODY_6|0
+target concept complexity|NN NN NN|BODY_7|0
+a positive leaf|DT JJ NN|BODY_10|0
+the original rule|DT JJ NN|BODY_11:BODY_1|0
+the above-mentioned systems|DT JJ NNS|BODY_4|0
+genetic  operators|JJ NN NNS|BODY_3|0
+the only difference|DT JJ NN|BODY_1|0
+the alternative approach|DT JJ NN|BODY_1|0
+this world )|DT NN -RRB-|BODY_10|0
+this approach )|DT NN -RRB-|BODY_6|0
+gabil and id5r|NN CC NN|BODY_1|0
+the converted database|DT JJ NN|BODY_11|0
+any given problem|DT VBN NN|BODY_4|0
+table 3 shows|NN CD VBZ|BODY_1|0
+table 4 shows|NN CD VBZ|BODY_1|0
+all training examples|DT NN NNS|BODY_5|0
+the training examples|DT NN NNS|BODY_7|0
+each local criterion|DT JJ NN|BODY_1|0
+the 256 examples|DT CD NNS|BODY_1|0
+the ndmc world|DT JJ NN|BODY_4|0
+a location-independent manner|DT JJ NN|BODY_3|0
+various voting schemes|JJ NN NNS|BODY_10|0
+the problem space|DT NN NN|BODY_6|0
+a negative example|DT JJ NN|BODY_9|0
+a random initialization|DT JJ NN|BODY_1|0
+more than half|JJR IN NN|BODY_1|0
+the domain task|DT NN NN|BODY_10|0
+target con- cepts|NN NNS NNS|BODY_12|0
+related literature )|VBN NN -RRB-|BODY_8|0
+both target concepts|DT NN NNS|BODY_1|0
+the new disjunct|DT JJ NN|BODY_5|0
+neural net- works|JJ NNS NNS|BODY_6|0
+ga concept learners|NN NN NNS|BODY_3|0
+other application tasks|JJ NN NNS|BODY_1|0
+9 other experiments|CD JJ NNS|BODY_1|0
+the current version|DT JJ NN|BODY_1|0
+the appropriate biases|DT JJ NNS|BODY_4|0
+a small sphere|DT JJ NN|BODY_5|0
+new ga operators|JJ NN NNS|BODY_1|0
+the following sections|DT JJ NNS|BODY_7|0
+completeness or consistency|NN CC NN|BODY_2|0
+one minor difference|CD JJ NN|BODY_1|0
+pruned and unpruned|JJ CC JJ|BODY_3|0
+the former exception|DT JJ NN|BODY_1|0
+the string representation|DT NN NN|BODY_1|0
+those tree nodes|DT NN NNS|BODY_1|0
+the primary task|DT JJ NN|BODY_1|0
+disjuncts and m|NNS CC NN|BODY_5|0
+a medium sphere|DT NN NN|BODY_4|0
+a particular example|DT JJ NN|BODY_5|0
+length and complexity|NN CC NN|BODY_9|0
+many short disjuncts|JJ JJ NNS|BODY_13|0
+these fundamental operators|DT JJ NNS|BODY_5|0
+its learning behavior|PRP$ NN NN|BODY_5|0
+the two examples|DT CD NNS|BODY_6|0
+all positive examples|DT JJ NNS|BODY_5|0
+any particular concept|DT JJ NN|BODY_2|0
+each new rule|DT JJ NN|BODY_1|0
+no negative examples|DT JJ NNS|BODY_3|0
+slightly more detail|RB JJR NN|BODY_5|0
+the other hand|DT JJ NN|BODY_1|0
+a posteriori one|DT NN NN|BODY_1|0
+the newest version|DT JJS NN|BODY_1|0
+an uncoupled approach|DT JJ NN|BODY_1|0
+a beam search|DT NN NN|BODY_5|0
+the chosen systems|DT VBN NNS|BODY_1|0
+12 target concepts|CD NN NNS|BODY_4|0
+id5r and iacl|NN CC NN|BODY_1|0
+the space|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the experiments|DT NNS|BODY_6:BODY_5:BODY_1:BODY_2|1
+a system|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8|1
+biases|NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_8|0
+(|-LRB-|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+1991 )|CD -RRB-|BODY_12:BODY_5:BODY_18:BODY_2:BODY_10:BODY_8:BODY_9|0
+the results|DT NNS|BODY_11:BODY_1:BODY_2:BODY_3:BODY_7|0
+)|-RRB-|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+the rules|DT NNS|BODY_5:BODY_3:BODY_4|1
+the number|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+the ga|DT NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+1990 )|CD -RRB-|BODY_12:BODY_5:BODY_16:BODY_2:BODY_7:BODY_20|0
+classification rules|NN NNS|BODY_2:BODY_3:BODY_4:BODY_9|0
+the population|DT NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+the rule|DT NN|BODY_3:BODY_4:BODY_8|0
+this operator|DT NN|BODY_2:BODY_1:BODY_3|0
+example|NN|BODY_6:BODY_1|0
+the hypothesis|DT NN|BODY_6:BODY_3:BODY_4:BODY_7|0
+this system|DT NN|BODY_1:BODY_2|0
+performance|NN|BODY_6:BODY_11:BODY_5:BODY_16:BODY_7:BODY_9|0
+concepts|NNS|BODY_12:BODY_6:BODY_11:BODY_5:BODY_1:BODY_4:BODY_7|0
+a rate|DT NN|BODY_2:BODY_3:BODY_7|0
+the concepts|DT NNS|BODY_12:BODY_6:BODY_11:BODY_3:BODY_7|0
+features|NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+the instances|DT NNS|BODY_11:BODY_5:BODY_3:BODY_4|0
+the search|DT NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+a population|DT NN|BODY_3:BODY_4|0
+rules|NNS|BODY_6:BODY_11:BODY_2:BODY_1:BODY_8:BODY_9|0
+system performance|NN NN|BODY_5:BODY_3:BODY_4|0
+the class|DT NN|BODY_5:BODY_2:BODY_4|0
+the set|DT NN|BODY_1:BODY_2|0
+the form|DT NN|BODY_5:BODY_8|0
+batch mode|NN NN|BODY_3:BODY_4:BODY_8|0
+1986 )|CD -RRB-|BODY_5:BODY_4:BODY_7:BODY_9|0
+the average|DT NN|BODY_2:BODY_4|0
+1987 )|CD -RRB-|BODY_6:BODY_15:BODY_4|0
+each feature|DT NN|BODY_12:BODY_5:BODY_4:BODY_7|0
+the addition|DT NN|BODY_5:BODY_2:BODY_7|0
+the sense|DT NN|BODY_6:BODY_2|0

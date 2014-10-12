@@ -1,0 +1,26 @@
+average delay|JJ NN|BODY_5:BODY_4|0
+a flexible manufacturing system|DT JJ NN NN|BODY_3:BODY_9|0
+the effect|DT NN|BODY_1:BODY_2|0
+four dispatching rules|CD NN NNS|BODY_5|0
+no alternative routings|DT NN NNS|BODY_2|0
+the alternative routings dynamic policy|DT NN NNS JJ NN|BODY_2|0
+alternative routeing dynamics|NN NN NNS|BODY_3|0
+alternative routeing plans|NN NN NNS|BODY_4|0
+makespan , average machine utilization|NN , JJ NN NN|BODY_2|0
+average flow time|JJ NN NN|BODY_3|0
+the best results|DT JJS NNS|BODY_3|0
+combined dispatching and routeing strategies|VBN NN CC NN NNS|BODY_2|0
+three performance measures|CD NN NNS|BODY_4|0
+combined dispatching|VBN NN|BODY_6|0
+strategies|NNS|BODY_7|0
+the evaluation|DT NN|BODY_5|0
+the performance|DT NN|BODY_8|0
+this paper deals|DT NN NNS|BODY_4|0
+addition|NN|BODY_1|0
+part mix ratios|NN NN NNS|BODY_2:BODY_3|0
+finite buffer capacity|JJ NN NN|BODY_6|0
+three routeing policies|CD NN NNS|BODY_1|0
+the performance measures|DT NN NNS|BODY_1|0
+simulation results|NN NNS|BODY_1|0
+evaluation|NN|BODY_1|0
+local input buffers|JJ NN NNS|BODY_6:BODY_5|0

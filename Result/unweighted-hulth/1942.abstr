@@ -1,0 +1,49 @@
+an isi channel|DT NN NN|BODY_5:BODY_4|0
+adaptive vector channel allocation|JJ NN NN NN|BODY_2:BODY_3|0
+the precoded ofdm system|DT JJ NN NN|BODY_2:BODY_4|0
+the transmitter|DT NN|BODY_2|0
+we|PRP|BODY_1:BODY_2|0
+channel estimation|NN NN|BODY_3|0
+channel spectral nulls|NN JJ NNS|BODY_2|0
+frobenius norm metrics|NN NN NNS|BODY_2|0
+heavy data rate|JJ NNS NN|BODY_3|0
+the lower layers|DT JJR NNS|BODY_2|0
+vector channels|JJ NNS|BODY_3|0
+noise and fading inherent|NN CC NN JJ|BODY_4|0
+the robustness|DT NN|BODY_2|0
+the layered bit stream structure|DT JJ NN NN NN|BODY_7|0
+high data rate transmission|JJ NNS NN NN|BODY_7|0
+advantages|NNS|BODY_2|0
+the proposed scheme|DT VBN NN|BODY_3|0
+the precoded ofdm|DT JJ NN|BODY_2|0
+the above two problems|DT JJ CD NNS|BODY_3|0
+isi-free subchannels|JJ NNS|BODY_5|0
+broadband wireline and wireless systems|NN NN CC JJ NNS|BODY_6|0
+more important layers|RBR JJ NNS|BODY_6|0
+( ofdm)|-LRB- NN|BODY_5|0
+conversion|NN|BODY_3|0
+errors|NNS|BODY_5|0
+precoding and conversion|JJ CC NN|BODY_4|0
+frequency-selective fading channels orthogonal frequency division|JJ NN NNS JJ NN NN|BODY_4|0
+scalable video transmission|JJ NN NN|BODY_3|0
+stronger protection|JJR NN|BODY_4|0
+the application|DT NN|BODY_3|0
+a control channel|DT NN NN|BODY_3|0
+the channel allocation information|DT NN NN NN|BODY_1|0
+cyclic prefix insertion|JJ NN NN|BODY_4|0
+higher transmission quality|JJR NN NN|BODY_4|0
+it|PRP|BODY_1|0
+the channel quality|DT NN NN|BODY_1|0
+the more critical layers|DT RBR JJ NNS|BODY_1|0
+the receiver|DT NN|BODY_4|0
+simulation results|NN NNS|BODY_1|0
+wireless channels|JJ NNS|BODY_5|0
+a new ofdm framework|DT JJ NN NN|BODY_1|0
+severe intersymbol interference|JJ NN NN|BODY_8|0
+scalable video|JJ NN|BODY_8|0
+multiple frequency bands|JJ NN NNS|BODY_6|0
+the conventional ofdm system|DT JJ NN NN|BODY_1|0
+isi-free vector channels|JJ NN NNS|BODY_6|0
+this paper|DT NN|BODY_1|0
+ofdm|NN|BODY_1|0
+efficient scalable video transmission|JJ JJ JJ NN|BODY_5|0

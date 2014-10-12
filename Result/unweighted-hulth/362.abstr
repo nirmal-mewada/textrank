@@ -1,0 +1,48 @@
+our algorithm|PRP$ NN|BODY_5:BODY_2:BODY_3|1
+we|PRP|BODY_1:BODY_2|2
+the number|DT NN|BODY_6:BODY_5:BODY_2|0
+the b/sup +/-tree|DT NN NN|BODY_4:BODY_8|1
+the relocation process|DT NN NN|BODY_5:BODY_1|0
+the same page multiple times|DT JJ NN JJ NNS|BODY_3|0
+the overhead|DT NN|BODY_2|0
+which|WDT|BODY_4|0
+algorithm|NN|BODY_2|0
+an enormous volume|DT JJ NN|BODY_10|0
+different parameter values|JJ NN NNS|BODY_4|0
+its performance evaluation efficient construction|PRP$ NN NN JJ NN|BODY_3|0
+them|PRP|BODY_9|0
+a database|DT NN|BODY_5|0
+an existing database|DT VBG NN|BODY_7|0
+the most widely used index structure|DT RBS RB VBN NN NN|BODY_5|1
+both|DT|BODY_8|0
+indexes|NNS|BODY_4|0
+each b+-tree page|DT JJ NN|BODY_4|0
+repeated insertions|VBD NNS|BODY_5|1
+relation|NN|BODY_3|0
+a new index|DT JJ NN|BODY_6|0
+just one disk access|RB CD NN NN|BODY_6|0
+all the key values|PDT DT JJ NNS|BODY_3|0
+the one|DT CD|BODY_4|1
+the performance tendency|DT NN NN|BODY_2|0
+an algorithm|DT NN|BODY_3|1
+batch-constructing|NN|BODY_3|0
+pages|NNS|BODY_7|0
+b/sup +/-trees|NN NNS|BODY_4|0
+disk accesses|NN NNS|BODY_6:BODY_3|0
+an unavoidable preprocessing step|DT JJ JJ NN|BODY_2|0
+the performance enhancement effect|DT NN NN NN|BODY_2|1
+terms|NNS|BODY_4|0
+those|DT|BODY_4|0
+the b+-tree insertion algorithm|DT NN NN NN|BODY_5|0
+this|DT|BODY_1|0
+batch-constructing b/sup +/-trees|NN NN NNS|BODY_1|0
+data|NNS|BODY_11|0
+simulation|NN|BODY_5|0
+experiments|NNS|BODY_6|1
+the page|DT NN|BODY_5|0
+database systems|NN NNS|BODY_6|1
+b+-tree page|NN NN|BODY_7|0
+performance evaluation|NN NN|BODY_1|0
+this paper|DT NN|BODY_1|1
+the results|DT NNS|BODY_1|0
+the main characteristic|DT JJ NN|BODY_1|0

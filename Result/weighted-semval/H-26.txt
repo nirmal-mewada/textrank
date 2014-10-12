@@ -1,0 +1,171 @@
+we|PRP|BODY_6:BODY_11:BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7|7
+our method|PRP$ NN|BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_9|2
+map|NN|BODY_6:ABSTRACT_2:BODY_2:BODY_1:BODY_4|1
+a globally optimal solution|DT RB JJ NN|BODY_6:ABSTRACT_5:ABSTRACT_3|1
+a support vector method|DT NN NN NN|TITLE_1|0
+information search and retrieval]|NN NN CC NN|ABSTRACT_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+which|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+that|WDT|BODY_6:BODY_5:BODY_44:BODY_3:BODY_4:BODY_7|3
+svmâˆ † map|JJ NN NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+|cx | +|NNP NNS NN|BODY_12:BODY_15:BODY_27:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|1
+y )|NN -RRB-|BODY_12:BODY_6:BODY_5:BODY_11:BODY_16:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_2:BODY_1:BODY_3:BODY_7|0
+h|NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+( henceforth base functions|-LRB- JJ NN NNS|BODY_4|1
+other important ir measures|JJ JJ NN NNS|BODY_4|1
+î´j+1(i , |cx ||NNP , FW FW|BODY_10|1
+the best retrieval functions|DT JJS JJ NNS|BODY_3|1
+optj ) < 0,|NN -RRB- NN NN|BODY_5|1
+previously proposed svm methods|RB VBN NN NNS|BODY_5|1
+the performance|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the ranking|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+w|NN|BODY_36:BODY_2:BODY_7:BODY_8:BODY_9|0
+documents|NNS|BODY_6:BODY_3:BODY_4:BODY_9|0
+the most violated constraint|DT RBS VBN NN|BODY_2:BODY_7|0
+the scores|DT NNS|BODY_6:BODY_2:BODY_14:BODY_3:BODY_7|0
+the retrieval function scores|DT JJ NN NNS|BODY_2|0
+1|CD|BODY_16:BODY_1:BODY_2:BODY_10:BODY_4:BODY_20|0
+the best base functions|DT JJS NN NNS|BODY_2:BODY_1:BODY_3|0
+the highest achievable accuracy|DT JJS JJ NN|BODY_2|0
+algorithm 2|NN CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+an incorrect ranking y|DT JJ NN NN|BODY_2|0
+a conventional classification svm|DT JJ NN NN|BODY_7|0
+a higher map score|DT JJR NN NN|BODY_5:BODY_1|0
+9 and 10 present|CD CC CD JJ|BODY_2|0
+the top 1000 documents|DT JJ CD NNS|BODY_6|0
+optj â‰ ¤ optj+1|JJ JJ NN NN|BODY_2:BODY_3|0
+the second used porter-stemming|DT JJ JJ NN|BODY_3|0
+rank(y ) and ë†p|NN -RRB- CC NN|BODY_2|0
+50 evenly spaced values|CD RB VBN NNS|BODY_2|0
+an input space x|DT NN NN NN|BODY_7|0
+)|-RRB-|BODY_6:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|0
+a feature mapping function|DT NN NN NN|BODY_13|0
+a more difficult problem|DT RBR JJ NN|BODY_3|0
+our main correctness result|PRP$ JJ NN NN|BODY_3|0
+a microsoft research fellowship|DT JJ NN NN|BODY_2|0
+okapi , language model|JJ , NN NN|BODY_13|0
+2nd best 0.199 38/12|CD JJS CD CD|BODY_3|0
+0.282 29/21 0.278 35/15|CD CD CD CD|BODY_17|0
+the jth non-relevant document|DT NN JJ NN|BODY_3:BODY_7|0
+wi â† ? wi|NN NN IN NN|BODY_30|0
+sx i âˆ ’|NN FW FW FW|BODY_11|0
+f ( d|q )|NN -LRB- NN -RRB-|BODY_5|0
+the top j documents|DT JJ FW NNS|BODY_15|0
+toy models table 2|NN NNS NN CD|BODY_4|0
+18 900 table 5|CD CD NN CD|BODY_8|0
+any two positive integers|DT CD JJ NNS|BODY_3|0
+w ) > î¾i|NN -RRB- NN NN|BODY_28|0
+the other non-relevant documents|DT JJ JJ NNS|BODY_35:BODY_8|0
+y ) + âˆ†(yi|RB -RRB- NN NN|BODY_9|0
+j :pj =1 prec@j|FW FW CD NN|BODY_5|0
+451-500 and 501-550 )|CD CC CD -RRB-|BODY_7|0
+each successive non-relevant document|DT JJ JJ NN|BODY_5:BODY_1|0
+) given query x|-RRB- VBN NN NN|BODY_5|0
+our 3 http ://www.cs|PRP$ CD NN NNS|BODY_2|0
+,... ,o|câ¯x | |câ¯x|DT JJ NN NN|BODY_5|0
+’ 1 non-relevant documents|NN CD JJ NNS|BODY_5|0
+âˆˆcâ¯x [yij ( ï†(x|FW FW -LRB- NN|BODY_7|0
+either +1 or âˆ’1|DT JJ CC JJ|BODY_5|0
+the supervised learning scenario|DT JJ NN NN|BODY_3|0
+the macro-averaged map performance|DT JJ NN NN|BODY_2|0
+1 â« âˆ ’|CD JJ FW FW|BODY_9|0
+w ) > f(xi|NN -RRB- NN NN|BODY_5|0
+trec web track queries|NN NN NN NNS|BODY_4|0
+only two hypothesis functions|JJ CD NN NNS|BODY_9|0
+these five retrieval methods|DT CD JJ NNS|BODY_3|0
+documents 1 and 2|NNS CD CC CD|BODY_4|0
+the average precision scores|DT JJ NN NNS|BODY_3|0
+a straightforward linear model|DT JJ NN NN|BODY_3|0
+the standard c implementation4|DT JJ NN NNS|BODY_3|0
+a single feature f|DT JJ NN NN|BODY_3|0
+a very similar example|DT RB JJ NN|BODY_2|0
+the combined feature function|DT VBN NN NN|BODY_2|0
+the results ( note|DT NNS -LRB- NN|BODY_2|0
+( 7 ) 9|-LRB- CD -RRB- CD|BODY_32|0
+10 randomly selected queries|CD RB VBN NNS|BODY_3|0
+|câ¯x | x i:diâˆˆcx|JJ NN NN NN|BODY_5|0
+the feature generation method|DT NN NN NN|BODY_4|0
+proof ) proposition 1|NN -RRB- NN CD|BODY_2|0
+accuracy or rocarea )|NN CC NN -RRB-|BODY_4|0
+â» 1 |cx| â€ž|NN CD NN NN|BODY_14|0
+a discriminant function f|DT JJ NN NN|BODY_2|0
+any > 0, algorithm|DT JJ NN NN|BODY_8|0
+equation ( 4 )|NN -LRB- CD -RRB-|BODY_7|0
+the best base trec|DT JJS JJ NN|BODY_9|0
+its top 1000 documents|PRP$ JJ CD NNS|BODY_3|0
+the highly ranked documents|DT RB VBN NNS|BODY_12|0
+a hinge loss relaxation|DT NN NN NN|BODY_17|0
+the empirical risk râˆ|DT JJ NN NN|BODY_4|0
+rocarea svmâˆ † roc|NN JJ NN NN|BODY_5|0
+the working set wi|DT VBG VBN NN|BODY_4|0
+î´j ( 6 )|NN -LRB- CD -RRB-|BODY_8|0
+every possible wrong output|DT JJ JJ NN|BODY_4|0
+indri functions ument d|JJ NNS NN NN|BODY_7|0
+the web track submissions|DT NN NN NNS|BODY_8|0
+a new objective function|DT JJ JJ NN|BODY_4|0
+1[f( d|x )>k ]|CD NN NN NN|BODY_15|0
+aforementioned indri retrieval functions|JJ NN JJ NNS|BODY_5|0
+1 â‰ ¤ j|CD NN IN NN|BODY_5|0
+the ith relevant document|DT , JJ NN|BODY_5|0
+some combined feature representation|DT VBN NN NN|BODY_4|0
+the structural svm formulation|DT JJ NN NN|BODY_2|0
+y ) âˆˆ rn|RB -RRB- NN NN|BODY_6|0
+relevant and non-relevant documents|JJ CC JJ NNS|BODY_3|0
+= maxi maxy âˆ†(yi|SYM FW JJ NN|BODY_6|0
+the top 90 %|DT JJ CD NN|BODY_6|0
+sort cx and câ¯x|NN NN CC NN|BODY_11|0
+retrieval function f assigns|JJ NN NN NNS|BODY_20|0
+a good piecewise-constant combination|DT JJ NN NN|BODY_5|0
+documents da and db|NNS NN CC NN|BODY_2|0
+a single query x|DT JJ NN NN|BODY_4|0
+all relevant/non-relevant document pairings|DT JJ NN NNS|BODY_4|0
+dj equal relevance sign(|RB JJ NN NN|BODY_10|0
+non-linear multivariate loss functions|JJ JJ NN NNS|BODY_2|0
+some fixed distribution p(x|DT JJ NN NN|BODY_8|0
+8 >> < >>|CD CD NN CD|BODY_5|0
+a substantially extended algorithm|DT RB VBN NN|BODY_4|0
+the argmax h problem|DT NN NN NN|BODY_2|0
+a cutting plane algorithm|DT VBG NN NN|BODY_2|0
+the two sorted lists|DT CD VBN NNS|BODY_9|0
+a perfect ranking â¯y|DT JJ NN NN|BODY_2|0
+optj ) = î´j(i|NNS -RRB- SYM FW|BODY_12|0
+a higher accuracy score|DT JJR NN NN|BODY_6|0
+a higher rocarea score|DT JJR NN NN|BODY_6|0
+a weight vector w|DT NN NN NN|BODY_4|0
+our discriminant function f(x|PRP$ JJ NN NN|BODY_4|0
+that svmâˆ † map|DT JJ NN NN|BODY_2|0
+argmax yâˆˆ y f(x|NN NN NN NN|BODY_9|0
+( 1 , 0)|-LRB- CD , CD|BODY_10|0
+ndcg [2 , 3]|JJ NN , NN|BODY_7|0
+the same map performance|DT JJ NN NN|BODY_6|0
+wt ï†(x , di)|JJ NN , NN|BODY_15|0
+a more expressive model|DT JJR JJ NN|BODY_5|0
+the average precision score|DT JJ NN NN|BODY_1|0
+then 1 n pn|RB CD NN NN|BODY_1|0
+a relevant/non-relevant document pair|DT JJ NN NN|BODY_6|0
+’ sâ¯x j )|JJ NN RB -RRB-|BODY_21|0
+hypothesis map best acc|NN NN JJS NN|BODY_1|0
+hypothesis map rocarea h1(x|NN NN NN NN|BODY_1|0
+our feature mapping method|PRP$ NN NN NN|BODY_3|0
+the remaining 35 queries|DT VBG CD NNS|BODY_5|0
+2.2 map vs accuracy|CD NN JJ NN|BODY_1|0
+a desired tolerance [19]|DT VBN NN NN|BODY_6|0
+5.2.1 alternate svmacc methods|CD JJ NN NNS|BODY_1|0
+|câ¯x | ) time|JJ NNS -RRB- NN|BODY_5|0
+non-relevant documents rank value|JJ NNS NN NN|BODY_6|0
+i + 1 )|FW FW CD -RRB-|BODY_5|0
+the main algorithmic contribution|DT JJ JJ NN|BODY_1|0
+relevant and non-relevant )|JJ CC JJ -RRB-|BODY_4|0
+simply o( n )|RB JJ NN -RRB-|BODY_14|0
+the constraint generation procedure|DT NN NN NN|BODY_6|0
+( 5 ) )|-LRB- CD -RRB- -RRB-|BODY_8|0
+the second common approach|DT JJ JJ NN|BODY_1|0
+a w âˆˆ rn|DT JJ NN NN|BODY_5|0
+a suboptimal map score|DT NN NN NN|BODY_8|0
+antisymmetry and transitivity )|NN CC NN -RRB-|BODY_6|0
+any y âˆˆ y|DT NN NN NN|BODY_1|0
+any i1 < i2|DT JJ NN NN|BODY_1|0
+1 ) < î´j+1(optj|CD -RRB- NN NN|BODY_2|0
+the number|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_10|0

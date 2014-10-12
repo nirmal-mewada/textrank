@@ -1,0 +1,49 @@
+cast shadow|NN NN|BODY_2:BODY_4|0
+monocular color traffic image sequences|JJ NN NN NN NNS|BODY_2:BODY_4|0
+an average error rate|DT JJ NN NN|BODY_2|0
+around 3 %|RB CD NN|BODY_5|0
+the convex hull|DT NN NN|BODY_5|0
+the input image|DT NN NN|BODY_2|0
+the vehicle region|DT NN NN|BODY_5|0
+those regions|DT NNS|BODY_2|0
+a robust segmentation|DT JJ NN|BODY_5|0
+vehicles|NNS|BODY_6|0
+a combined probability map|DT VBN NN NN|BODY_7|0
+100 vehicle images|CD NN NNS|BODY_2|0
+the road|DT NN|BODY_9|0
+around 14 %|RB CD NN|BODY_3|0
+each edge pixel|DT NN NN|BODY_3|0
+high scss|JJ NN|BODY_3|0
+it|PRP|BODY_4|0
+the lowest error rate|DT JJS NN NN|BODY_4|0
+which|WDT|BODY_4|0
+colors|NNS|BODY_8|0
+different lighting conditions ( sunny and cloudy )|JJ NN NNS -LRB- JJ CC JJ -RRB-|BODY_3|0
+a result|DT NN|BODY_4|0
+an effective method|DT JJ NN|BODY_2|0
+geometry domains|NN NNS|BODY_6|0
+an inaccurate vehicle segmentation|DT JJ NN NN|BODY_3|0
+the detection|DT NN|BODY_3|0
+angles|NNS|BODY_4|0
+small , medium , and large )|JJ , JJ , CC JJ -RRB-|BODY_7|0
+gradient density|JJ NN|BODY_5|0
+roadside and overhead )|NN CC NN -RRB-|BODY_5|0
+vehicle sizes|NN NNS|BODY_6|0
+the luminance|DT NN|BODY_3|0
+chrominance|NN|BODY_4|0
+the stationary background|DT JJ NN|BODY_7|0
+its neighboring scss|PRP$ JJ NN|BODY_6|0
+large vehicles|JJ NNS|BODY_6|0
+the cast shadow|DT NN NN|BODY_1|0
+the edge map|DT NN NN|BODY_1|0
+the results|DT NNS|BODY_1|0
+the selected vehicle edge pixels|DT VBN NN NN NNS|BODY_6|0
+an accurate scene analysis|DT JJ NN NN|BODY_3|0
+effective moving cast shadow detection|JJ VBG NN NN NN|BODY_1|0
+not )|RB -RRB-|BODY_10|0
+the proposed method|DT JJ NN|BODY_1|0
+further erroneous scene analysis|JJ JJ NN NN|BODY_5|0
+we|PRP|BODY_1|0
+a shadow confidence score|DT NN NN NN|BODY_8|0
+the characteristics|DT NNS|BODY_1|0
+the presence|DT NN|BODY_1|0

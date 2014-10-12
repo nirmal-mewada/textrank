@@ -1,0 +1,42 @@
+additional filters|JJ NNS|BODY_5:BODY_2|0
+13-state linearized models|JJ JJ NNS|BODY_2|0
+the spawned filters|DT VBN NNS|BODY_1:BODY_7|0
+filter spawning|NN VBG|BODY_5:BODY_1|0
+a failure|DT NN|BODY_3|0
+a full six-degree-of-freedom simulation|DT JJ NN NN|BODY_2|0
+calspan|NN|BODY_3|0
+the truth model and design model|DT NN NN CC NN NN|BODY_2|0
+correctness|NN|BODY_8|0
+the failure effectiveness|DT NN NN|BODY_2|0
+substantial precision|JJ NN|BODY_2|0
+multiple model adaptive estimation|JJ NN NN NN|BODY_1:BODY_3|0
+the filters|DT NNS|BODY_3|0
+the highest conditional probability|DT JJS JJ NN|BODY_7|0
+partial actuator failure|JJ NN NN|BODY_3|0
+partial failure adaptation|JJ NN NN|BODY_6|0
+partial actuator failures|JJ NN NNS|BODY_6|0
+the complete-actuaton-failure hypothesis|DT NN NN|BODY_6|0
+' estimates|POS NNS|BODY_4|0
+effectiveness estimation|NN NN|BODY_3|0
+mmae|NNS|BODY_4|0
+a no-failure hypothesis|DT JJ NN|BODY_5|0
+effectiveness )|NN -RRB-|BODY_5|0
+what|WP|BODY_4|0
+partial failures|JJ NNS|BODY_3|0
+terms|NNS|BODY_4|0
+a complete actuator failure hypothesis|DT JJ NN NN NN|BODY_6|0
+varying degrees|VBG NNS|BODY_2|0
+first order actuator models|JJ NN NN NNS|BODY_3|0
+the design models|DT NN NNS|BODY_1|0
+actuator failures|NN NNS|BODY_1|0
+free stream|JJ NN|BODY_4|0
+general dynamics|JJ NNS|BODY_4|0
+the truth model|DT NN NN|BODY_1|0
+a blended estimate|DT JJ NN|BODY_1|0
+the current time|DT JJ NN|BODY_9|0
+this|DT|BODY_1|0
+filter|NN|BODY_2|0
+the vista f-16|DT NN NN|BODY_7|0
+a viable methodology|DT JJ NN|BODY_7|0
+the mmae bank|DT JJ NN|BODY_4|0
+' partial-failure hypotheses|POS NN NNS|BODY_8|0

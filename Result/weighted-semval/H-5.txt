@@ -1,0 +1,168 @@
+we|PRP|BODY_6:BODY_5:BODY_22:BODY_18:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7|8
+utility-based information distillation|VBN NN NN|BODY_5:TITLE_1:BODY_4|0
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_10:BODY_8|0
+that|WDT|BODY_12:BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_21:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|1
+respect|NN|BODY_5:ABSTRACT_6:BODY_2:BODY_14:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+text|NN|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_2:BODY_14:BODY_8|1
+novelty detection|NN NN|BODY_12:BODY_11:BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4|2
+the utility|DT NN|BODY_5:ABSTRACT_4:BODY_2:BODY_4:BODY_7|4
+answer keys|NN NNS|BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_9|0
+our experiments|PRP$ NNS|BODY_1:BODY_2:BODY_14:BODY_3:ABSTRACT_1|0
+multiple queries|JJ NNS|ABSTRACT_6:BODY_3:BODY_7:BODY_8|0
+fine-grained user feedback|JJ NN NN|ABSTRACT_2:BODY_8|0
+information search and retrieval]|NN NN CC NN|ABSTRACT_2|0
+a novel evaluation scheme|DT NN NN NN|ABSTRACT_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the novelty detection components|DT NN NN NNS|ABSTRACT_6|0
+the user|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|1
+the system|DT NN|BODY_6:BODY_5:BODY_11:BODY_16:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|2
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+passages|NNS|BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|0
+feedback|NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_10:BODY_4:BODY_9|0
+a nugget|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+a passage|DT NN|BODY_6:BODY_5:BODY_14:BODY_3|1
+q )|NN -RRB-|BODY_22:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+redundancy|NN|BODY_6:BODY_5:BODY_18:BODY_14:BODY_7:BODY_8:BODY_9|1
+user feedback|NN NN|BODY_16:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+an important research question|DT JJ NN NN|BODY_4|1
+a reliable automatic method|DT JJ JJ NN|BODY_3|1
+both relevance and novelty|DT NN CC NN|BODY_10|1
+the same information|DT JJ NN|BODY_12:BODY_2:BODY_4:BODY_7:BODY_9|0
+the ranked list|DT VBN NN|BODY_5:BODY_10:BODY_8|1
+a training set )|DT NN NN -RRB-|BODY_4:BODY_19|0
+a $ 100,000 reward|DT $ CD NN|BODY_3:BODY_4|0
+recent adaptive filtering research|JJ JJ NN NN|BODY_2|0
+the information distillation process|DT NN NN NN|BODY_2|0
+adaptive filtering|JJ NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_10|0
+the trec-10 corpus (|DT JJ NN -LRB-|BODY_5|0
+the national science foundation|DT JJ NN NN|BODY_3|0
+a ranked list|DT VBN NN|BODY_11:BODY_5:BODY_1:BODY_7|0
+the ( small number|DT -LRB- JJ NN|BODY_7|0
+combining relevance and novelty|VBG NN CC NN|BODY_4|0
+the initial negative examples|DT JJ JJ NNS|BODY_7|0
+a few positive examples|DT JJ JJ NNS|BODY_2|0
+1 and 2 show|CD CC CD NN|BODY_2|0
+the novelty detection component|DT NN NN NN|BODY_2|0
+both candidate passage x|DT NN NN NN|BODY_14|0
+our experiments and results|PRP$ NNS CC NNS|BODY_2|0
+speech-recognized and machine-translated versions|JJ CC JJ NNS|BODY_1|0
+the anti-redundancy threshold t|DT NN NN NN|BODY_1|0
+its recall and precision|PRP$ NN CC NN|BODY_5:BODY_7|0
+a challenging research topic|DT JJ NN NN|BODY_5|0
+a supervised learning algorithm|DT JJ NN NN|BODY_3|0
+a given system response|DT VBN NN NN|BODY_5|0
+several benchmark evaluation corpora|JJ JJ NN NN|BODY_8|0
+the rule creation process|DT NN NN NN|BODY_2|0
+large benchmark data collections|JJ NN NNS NNS|BODY_11|0
+high quality generic rules|JJ NN JJ NNS|BODY_3|0
+the nugget occurrence counts|DT NN NN NNS|BODY_2|0
+our rule generation tool|PRP$ NN NN NN|BODY_3|0
+both indri and cafâ´e|DT NN CC NN|BODY_6|0
+the extended tdt4 annotations|DT JJ NN NNS|BODY_13|0
+a training and test|DT NN CC NN|BODY_3|0
+a fractional recall score|DT JJ NN NN|BODY_2|0
+the nugget matching rules|DT NN VBG NNS|BODY_4|0
+1 ) ( 9|CD -RRB- -LRB- CD|BODY_16|0
+seven ( e .g|CD -LRB- NN NN|BODY_7|0
+granularity ( e .g|NN -LRB- NN NN|BODY_5|0
+1 ) âˆ ’|CD -RRB- FW FW|BODY_7|0
+the nugget description (|DT NN NN -LRB-|BODY_4|0
+the tdt4 corpus spanning|DT NN NN NN|BODY_3|0
+discounted cumulated gain (dcg)|JJ JJ NN NN|BODY_21|0
+their specific information needs|PRP$ JJ NN NNS|BODY_17|0
+— î³nj ( 7|JJ NN -LRB- CD|BODY_7|0
+a new non-redundant list|DT JJ JJ NN|BODY_6|0
+other synonyms and variants|JJ NNS CC NNS|BODY_7|0
+relevant and novel information|JJ CC JJ NN|BODY_6|0
+the logistic regression solution|DT JJ NN NN|BODY_3|0
+the previously seen passages|DT RB VBN NNS|BODY_6|0
+) ( 4 )|-RRB- -LRB- CD -RRB-|BODY_10|0
+corresponding nugget matching rules|JJ NN VBG NNS|BODY_4|0
+an entire ranked list|DT JJ VBN NN|BODY_2|0
+the same novel information|DT JJ NN NN|BODY_6|0
+relevance and novelty feedback|NN CC NN NN|BODY_8|0
+any other continuous span|DT JJ JJ NN|BODY_7|0
+p(i ) âˆ ?|NN -RRB- NN NN|BODY_13|0
+relevant or not-relevant )|JJ CC JJ -RRB-|BODY_9|0
+q ) â‰ ¤|NN -RRB- NN NN|BODY_12|0
+an initial weight wj|DT JJ NN NN|BODY_3|0
+person and location names|NN CC NN NNS|BODY_4|0
+q ) logb( b|NN -RRB- NN NN|BODY_5|0
+the first few chunks|DT JJ JJ NNS|BODY_3|0
+the rule generation tool|DT NN NN NN|BODY_3|0
+an adaptive filtering setting|DT JJ NN NN|BODY_4|0
+various settings ( f|JJ NNS -LRB- NN|BODY_9|0
+a constant cost c|DT JJ NN NN|BODY_4|0
+pi) } and lnew|NN NN CC NN|BODY_8|0
+far(x ) > t|NN -RRB- NN NN|BODY_4|0
+google and yahoo )|NN CC NN -RRB-|BODY_7|0
+gain (dcg ) [9]|NN NN -RRB- NN|BODY_20|0
+automated evaluation and feedback|VBN NN CC NN|BODY_3|0
+tdt2002 and tdt2003 evaluations|CD CC CD NNS|BODY_4|0
+the associated binary decisions|DT JJ JJ NNS|BODY_2|0
+relevant and novel passages|JJ CC JJ NNS|BODY_7|0
+the time and energy|DT NN CC NN|BODY_9|0
+4 ) anti-redundancy component|CD -RRB- JJ NN|BODY_17|0
+a temporally decaying weight|DT RB VBG NN|BODY_1|0
+principle [25 , 2|NN CD , CD|BODY_3|0
+a typical formal prose|DT JJ JJ NN|BODY_4|0
+the ideal ranked list|DT JJ VBN NN|BODY_6|0
+standard search engine functionality|JJ NN NN NN|BODY_2|0
+( fine-grained ) feedback|-LRB- JJ -RRB- NN|BODY_7|0
+regularized logistic regression [21]|VBN JJ NN NN|BODY_1|0
+their decreasing utility scores|PRP$ VBG NN NNS|BODY_9|0
+the old relevant passages|DT JJ JJ NNS|BODY_2|0
+future comparative evaluations 1|JJ JJ NNS CD|BODY_7|0
+a dampening factor î³|DT NN NN NN|BODY_4|0
+a more active role|DT RBR JJ NN|BODY_3|0
+a more realistic picture|DT RBR JJ NN|BODY_7|0
+all the three aspects|PDT DT CD NNS|BODY_9|0
+text retrieval and summarization|NN NN CC NN|BODY_5|0
+3.4 anti-redundant ranking component|CD JJ VBG NN|BODY_1|0
+its importance or reliability|PRP$ NN CC NN|BODY_14|0
+the cold start issue|DT JJ NN NN|BODY_1|0
+present a ranked list|JJ DT VBD NN|BODY_11|0
+the initial weights wj|DT JJ NNS NNS|BODY_1|0
+usually the same information|RB DT JJ NN|BODY_13|0
+new and relevant information|JJ CC JJ NN|BODY_1|0
+a conventional af system|DT JJ NN NN|BODY_1|0
+all such granularity levels|DT JJ NN NNS|BODY_12|0
+the incremental learning nature|DT JJ NN NN|BODY_1|0
+a pyramid approach [11]|DT JJ NN NN|BODY_4|0
+description â€˜a b c|NN NN NN NN|BODY_6|0
+the next passage x|DT JJ NN NN|BODY_1|0
+3.1 adaptive filtering component|CD JJ VBG NN|BODY_1|0
+3.2 passage retrieval component|CD NN JJ NN|BODY_1|0
+a new evaluation methodology|DT JJ NN NN|BODY_2|0
+a low precision score|DT JJ NN NN|BODY_10|0
+the gain g( pi|DT NN NN NN|BODY_1|0
+a major news event|DT JJ NN NN|BODY_1|0
+the system-returned arbitrary spans|DT JJ JJ NNS|BODY_1|0
+the associated lower-level questions|DT JJ JJ NNS|BODY_1|0
+the new ranked list|DT JJ VBN NN|BODY_7|0
+the novelty detection step|DT NN NN NN|BODY_22|0
+the current time t|DT JJ NN NN|BODY_12|0
+section 4 discusses issues|NN CD NNS NNS|BODY_1|0
+the current list|DT JJ NN|BODY_2:BODY_3|0
+the query profile|DT NN NN|BODY_12:BODY_5:BODY_1:BODY_4|0
+cafâ´e|NN|BODY_2:BODY_14:BODY_3|0
+a system response|DT NN NN|BODY_13:BODY_3|0
+terms|NNS|BODY_13:BODY_3:BODY_10:BODY_8|0
+them|PRP|BODY_5:BODY_14:BODY_3:BODY_9|0
+each passage|DT NN|BODY_5:BODY_2:BODY_1|0
+indri|NN|BODY_6:BODY_1:BODY_10:BODY_8|0
+the new list|DT JJ NN|BODY_11:BODY_3:BODY_4|0
+the relevance list|DT NN NN|BODY_4:BODY_8:BODY_20|0
+.e|NN|BODY_6:BODY_2:BODY_7:BODY_8|0
+two dampening factors|CD JJ NNS|BODY_4:BODY_7|0
+the document level|DT NN NN|BODY_6:BODY_3|0
+a simple rule|DT JJ NN|BODY_2|0
+other passages|JJ NNS|BODY_11:BODY_13:BODY_3|0
+users|NNS|BODY_13:BODY_1:BODY_2:BODY_3|0
+time|NN|BODY_11:BODY_5:BODY_2:BODY_7|0
+the user history|DT NN NN|BODY_3:BODY_7|0
+i âˆ|FW NN|BODY_6:BODY_15|0
+each training example|DT NN NN|BODY_2|0
+the system output|DT NN NN|BODY_3:BODY_10|0
+an af system|DT NN NN|BODY_3:BODY_4|0
+1|CD|BODY_5:BODY_2:BODY_7:BODY_8|0

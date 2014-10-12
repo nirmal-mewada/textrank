@@ -1,0 +1,258 @@
+bounded rational agents|VBN JJ NNS|TITLE_2:ABSTRACT_3:BODY_4:BODY_9|0
+we|PRP|BODY_17:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_37:BODY_6:BODY_5:BODY_31:BODY_1:ABSTRACT_1:BODY_10:BODY_9|8
+that|WDT|BODY_12:BODY_11:BODY_13:ABSTRACT_3:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_29:BODY_7:BODY_8:BODY_9|8
+an adversarial environment model|DT JJ NN NN|TITLE_1:BODY_2|1
+an agent|DT NN|BODY_6:BODY_12:BODY_5:ABSTRACT_4:BODY_23:BODY_2:BODY_3:BODY_4:BODY_9|0
+agents|NNS|BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_10:BODY_4|0
+e .g.|NN NNP|BODY_12:BODY_6:ABSTRACT_6:BODY_4:BODY_9|0
+the opponent|DT NN|BODY_12:BODY_6:BODY_2:BODY_3:ABSTRACT_7|0
+an omniscient utility maximizer|DT JJ NN NN|ABSTRACT_8|0
+classical utility-based search methods|JJ JJ NN NNS|ABSTRACT_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+it|PRP|BODY_12:BODY_15:BODY_26:BODY_2:BODY_39:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|4
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_27:BODY_10:BODY_7:BODY_8:BODY_30:BODY_9|0
+the agent|DT NN|BODY_6:BODY_12:BODY_5:BODY_26:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+î±|NN|BODY_12:BODY_16:BODY_18:BODY_13:BODY_2:BODY_14:BODY_3:BODY_32:BODY_6:BODY_5:BODY_28:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8|2
+aag|NN|BODY_6:BODY_12:BODY_23:BODY_1:BODY_14:BODY_4:BODY_7:BODY_8:BODY_20:BODY_9|4
+there|EX|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|1
+they|PRP|BODY_12:BODY_15:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+the game|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+part|NN|BODY_6:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7|1
+a|DT|BODY_11:BODY_5:BODY_2:BODY_7|1
+agent|NN|BODY_11:BODY_3:BODY_10:BODY_4|0
+the black player|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7|0
+ae ag|NNS NN|BODY_6:BODY_1:BODY_2:BODY_14:BODY_4:BODY_20|0
+s|PRP|BODY_6:BODY_12:BODY_5:BODY_11:BODY_4:BODY_7|0
+tî±|NN|BODY_12:BODY_6:BODY_16:BODY_17:BODY_21:BODY_15:BODY_2:BODY_4:BODY_8:BODY_30:BODY_20:BODY_9|3
+the set|DT NN|BODY_6:BODY_2:BODY_4:BODY_9|1
+the environment|DT NN|BODY_18:BODY_3:BODY_4:BODY_10:BODY_8|1
+them|PRP|BODY_6:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8|2
+)|-RRB-|BODY_11:BODY_17:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+tn ) âˆ §|NN -RRB- NN NN|BODY_11:BODY_13:BODY_19|2
+a group|DT NN|BODY_2:BODY_3:BODY_7|1
+w ) â‡ ’|NN -RRB- NN NN|BODY_6:BODY_16:BODY_10:BODY_8|0
+the model|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|1
+ao|FW|BODY_5:BODY_18:BODY_10:BODY_4:BODY_8|0
+tn|NN|BODY_5:BODY_11:BODY_22:BODY_15:BODY_14:BODY_3:BODY_4:BODY_19:BODY_7:BODY_29:BODY_8:BODY_20|2
+actions|NNS|BODY_2:BODY_3:BODY_7:BODY_8|0
+min3 h|CD JJ|BODY_6:BODY_11:BODY_8:BODY_9|1
+gâˆ — gâˆ —|NN NN NN NN|BODY_15|1
+any desired linear combination|DT VBN NN NN|BODY_11|1
+connectfour log file analysis|NN NN NN NN|BODY_3|1
+eval( ao , î²|NN FW , NNP|BODY_21|1
+continuous and repeated interactions|JJ CC JJ NNS|BODY_7|1
+an arbitrary subgoal )|DT JJ NN -RRB-|BODY_17|1
+( âˆ€aag , ao|-LRB- NN , FW|BODY_1|1
+w )|NN -RRB-|BODY_11:BODY_31:BODY_3:BODY_19:BODY_10:BODY_20|1
+the player|DT NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_8|0
+games|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8|0
+the importance|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+( âˆ€ao âˆˆ {a1|-LRB- FW FW CD|BODY_6:BODY_5:BODY_7|0
+our model|PRP$ NN|BODY_2:BODY_3:BODY_8|1
+au ag|NN RB|BODY_12:BODY_5:BODY_23:BODY_1:BODY_4:BODY_8|0
+î²|IN|BODY_5:BODY_15:BODY_13:BODY_3:BODY_10:BODY_8|0
+a highly beneficial action|DT RB JJ NN|BODY_32:BODY_11:BODY_5:BODY_15:BODY_4|0
+a player|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+example|NN|BODY_32:BODY_1:BODY_8|2
+1|CD|BODY_6:BODY_5:BODY_2:BODY_9|0
+its members|PRP$ NNS|BODY_6:BODY_5:BODY_2:BODY_10:BODY_4|0
+the real utility function|DT JJ NN NN|BODY_24:BODY_4|0
+the opponent weakness model|DT NN NN NN|BODY_5:BODY_8|0
+the evaluation function|DT NN NN|BODY_6:BODY_1:BODY_4|1
+different humans or organizations|JJ NNS CC NNS|BODY_5|0
+those black winning games|DT JJ VBG NNS|BODY_2|0
+tn ) â‡ ’|NN -RRB- NN NN|BODY_11:BODY_3|0
+an obvious winning group|DT JJ NN NN|BODY_10|0
+ae|NNS|BODY_1:BODY_2|0
+carmel and markovitch [2|NN CC NN NNS|BODY_2|0
+behavior|NN|BODY_6:BODY_5:BODY_3:BODY_14|1
+a certain search depth|DT JJ NN NN|BODY_2|0
+an estimated evaluation function|DT VBN NN NN|BODY_12:BODY_2|0
+the profile monitoring axiom|DT NN NN NN|BODY_2|0
+the adversarial environment model|DT JJ NN NN|BODY_2|0
+suboptimal tactical move axiom|JJ JJ NN NN|BODY_2:BODY_1|0
+the closer the action|DT RBR DT NN|BODY_12|0
+only a single goal|RB DT JJ NN|BODY_4|0
+the profile object agent|DT JJ NN NN|BODY_2|0
+the following behavioral axiom|DT VBG JJ IN|BODY_2|0
+the true utility function|DT JJ NN NN|BODY_6|0
+a 0.556 winning rate|DT CD VBG NN|BODY_4|0
+î±âˆˆcal evali( aal j|JJ NN NN JJ|BODY_15|0
+positive and negative utilities|JJ CC JJ NNS|BODY_2|0
+agent teamwork and cooperation|NN NN CC NN|BODY_2|0
+all these formal theories|PDT DT JJ NNS|BODY_1|0
+those challenges and more|DT NNS CC JJR|BODY_1|0
+a few interesting insights|DT JJ JJ NNS|BODY_3|0
+world w âˆˆ w,|NN NN JJ NNS|BODY_7|0
+aal ) , tn|NN -RRB- , NN|BODY_7|0
+knowledge and belief [10]|NN CC NN NN|BODY_6|0
+all the empty grids|DT DT JJ NNS|BODY_4|0
+our suboptimal tactical axiom|PRP$ JJ JJ NN|BODY_5|0
+a utility-based adversarial search|DT JJ JJ NN|BODY_2|0
+our adversarial environment model|PRP$ JJ NN NN|BODY_2|0
+a blunt irrational move|DT JJ JJ NN|BODY_7|0
+any lai âˆˆ l|DT FW IN NN|BODY_8|0
+the eval function|DT JJ NN|BODY_26:BODY_2:BODY_7|0
+the suboptimal tactical move|DT JJ JJ NN|BODY_11|0
+information ( e .g.|NN -LRB- NN NN|BODY_9|0
+tî² ) bel( aag|NN -RRB- NN NN|BODY_9|0
+their own î± actions|PRP$ JJ NNS NNS|BODY_11|0
+this somewhat trivial behavior|DT RB JJ NN|BODY_18|0
+ao , î² )|FW , FW -RRB-|BODY_11|0
+complex bounded rational agents|JJ JJ JJ NNS|BODY_10|0
+ao , achieve( gâˆ|FW , JJ IN|BODY_10|0
+the amount and extent|DT NN CC NN|BODY_16|0
+the total evaluation value|DT JJ NN NN|BODY_2|0
+07 ) rational agents|CD -RRB- JJ NNS|BODY_5|0
+the 3 largest ranges|DT CD JJS NNS|BODY_5|0
+their own individual goals|PRP$ JJ JJ NNS|BODY_5|0
+the complete search tree|DT JJ NN NN|BODY_7|0
+teamwork and mental states|NN CC JJ NNS|BODY_3|0
+complex or basic actions|JJ CC JJ NNS|BODY_7|0
+that eval = utility|DT NN SYM NN|BODY_1|0
+a certain proposition prop|DT JJ NN NN|BODY_8|0
+a helpful-behavior act axiom|DT JJ NN NN|BODY_4|0
+( âˆƒî± âˆˆ caag|-LRB- NN NN NN|BODY_3|0
+the search horizon problem|DT NN NN NN|BODY_6|0
+the closer the number|DT RBR DT NN|BODY_11|0
+a full conflicting goal|DT JJ NN NN|BODY_5|0
+modern psychologists [12] (|JJ NNS NN -LRB-|BODY_7|0
+the above model )|DT JJ NN -RRB-|BODY_6|0
+the maximal value action|DT JJ NN NN|BODY_3|0
+the alliance|DT NN|BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|0
+the optimal minmax algorithm|DT JJ NN NN|BODY_28|0
+( achieve( gâˆ —|-LRB- NN NN NN|BODY_4|0
+the maximum heuristic value|DT JJ JJ NN|BODY_9|0
+¤ âˆ’4 83 %|IN IN CD NN|BODY_12|0
+3 lowest h moves|CD JJS JJ NNS|BODY_8|0
+the adversarial environment formalization|DT JJ NN NN|BODY_8|0
+some world state w|DT NN NN NN|BODY_13:BODY_8|0
+tî± ) int.th( aag|NN -RRB- NN NN|BODY_4|0
+the same connect-four game|DT JJ NN NN|BODY_4|0
+aal j eval values|NN JJ NN NNS|BODY_10|0
+a heuristic eval function|DT JJ NN NN|BODY_3|0
+aal âš† a) set|FW FW FW VBN|BODY_7|0
+an open threat (|DT JJ NN -LRB-|BODY_4|0
+the same utility value|DT JJ NN NN|BODY_4|0
+its initial taking position|PRP$ JJ VBG NN|BODY_4|0
+a pure adversarial environment|DT JJ NN NN|BODY_2|0
+ak} ) bel( aag|JJ -RRB- NN NN|BODY_7|0
+the same optimal result|DT JJ JJ NN|BODY_10|0
+the one achievable outside|DT CD JJ NN|BODY_9|0
+î± âˆˆ cae ag|JJ NN NN NN|BODY_3|0
+a higher utility value|DT JJR NN NN|BODY_8|0
+the real utility values|DT JJ NN NNS|BODY_6|0
+w ) âˆ §|WRB -RRB- NN NN|BODY_13|0
+their normal adversarial environment|PRP$ JJ NN NN|BODY_3|0
+a reformatted log file|DT JJ NN NN|BODY_6|0
+the real utility functions|DT JJ NN NNS|BODY_2|0
+the real utility value|DT JJ NN NN|BODY_1|0
+a single adversarial agent|DT JJ JJ NN|BODY_4|0
+more than one action|JJR IN CD NN|BODY_6|0
+an int.th his goal|DT JJ PRP$ NN|BODY_2|0
+an average heuristic difference|DT JJ JJ NN|BODY_3|0
+all the black player|PDT DT JJ NN|BODY_6|0
+( pot.int.to( ...) )|-LRB- NN NNP -RRB-|BODY_6|0
+) achieve( gâˆ —|-RRB- NN NN NN|BODY_6|0
+the action evaluation values|DT NN NN NNS|BODY_4|0
+the predicates and operators|DT NNS CC NNS|BODY_3|0
+the same sharedplans formalization|DT JJ NNS NN|BODY_3|0
+the shared activity model|DT VBN NN NN|BODY_1|0
+w ) âˆ ¨|VBD -RRB- NN NN|BODY_8|0
+the maximal difference value|DT JJ NN NN|BODY_5|0
+âˆˆ w) setaction( î±1|NNP JJ NN NNS|BODY_4|0
+the full game tree|DT JJ NN NN|BODY_27|0
+its eval value (|PRP$ JJ NN -LRB-|BODY_5|0
+an estimated utility evaluation|DT JJ NN NN|BODY_3|0
+its average difference value|PRP$ JJ NN NN|BODY_4|0
+their extensive experiments check|PRP$ JJ NNS VBP|BODY_1|0
+eval( ao , î²v|NN FW , NNP|BODY_15|0
+the first opening moves|DT JJ NN NNS|BODY_11|0
+log files and analyzes|NN NNS CC NNS|BODY_4|0
+the connect-four adversarial domain|DT NN NN NN|BODY_2|0
+a chess board game|DT NN NN NN|BODY_2|0
+an extensive empirical study|DT JJ JJ NN|BODY_4|0
+such a temporary alliance|PDT DT JJ NN|BODY_1|0
+its own winning move|PRP$ JJ VBG NN|BODY_9|0
+our estimated evaluation function|PRP$ JJ NN NN|BODY_2|0
+a preventive action î±|DT JJ NN NN|BODY_10|0
+the present decision junction|DT JJ NN NN|BODY_10|0
+an adversarial planning approach|DT NN NN NN|BODY_5|0
+the potential intention operators|DT JJ NN NNS|BODY_1|0
+the fourth winning disk|DT JJ NN NN|BODY_6|0
+the mâˆ — algorithm|DT JJ NN NN|BODY_1|0
+the last row sums|DT JJ NN NNS|BODY_1|0
+a real adversarial environment|DT JJ NN NN|BODY_5|0
+â† ’ definition 4|JJ NNS NN CD|BODY_3|0
+an optimally playing opponent|DT RB VBG NN|BODY_6|0
+a single good )|DT JJ JJ -RRB-|BODY_11|0
+the maximum heuristic action|DT NN JJ NN|BODY_13|0
+a future winning threat|DT NN VBG NN|BODY_9|0
+a few additional games|DT JJ JJ NNS|BODY_1|0
+zero-sum and simple environments|JJ CC JJ NNS|BODY_3|0
+additional adversarial planning work|JJ NN NN NN|BODY_1|0
+the following alliance model|DT VBG NN NN|BODY_1|0
+a typical connect-four game|DT JJ NN NN|BODY_1|0
+the same adversary )|DT JJ NN -RRB-|BODY_8|0
+the above adversarial environment|DT JJ JJ NN|BODY_5|0
+# 1211/04 and #898/05|# CD CC CD|BODY_5|0
+its following consequent action|PRP$ VBG JJ NN|BODY_17|0
+such an educational environment|JJ DT JJ NN|BODY_1|0
+our suggested behavioral axioms|PRP$ VBN JJ NNS|BODY_7|0
+classical utilitybased search methods|JJ JJ NN NNS|BODY_6|0
+any given time step|DT VBN NN NN|BODY_1|0
+our connectfour adversarial domain|PRP$ NN NN NN|BODY_7|0
+a single tie game|DT JJ NN NN|BODY_2|0
+the so-called initiative advantage|DT JJ NN NN|BODY_3|0
+the second domain )|DT JJ NN -RRB-|BODY_6|0
+three or more agents|CD CC JJR NNS|BODY_3|0
+a single agent perspective|DT JJ NN NN|BODY_10|0
+the connect-four board game|DT NN NN NN|BODY_4|0
+a highly beneficial alliance|DT RB JJ NN|BODY_8|0
+second ( item 2|JJ -LRB- NN CD|BODY_1|0
+the preventive act behavior|DT JJ NN NN|BODY_1|0
+a joint goal )|DT JJ NN -RRB-|BODY_11|0
+its bounded decision resources|PRP$ VBN NN NNS|BODY_8|0
+the most desirable world|DT RBS JJ NN|BODY_7|0
+more than one alliance|JJR IN CD NN|BODY_4|0
+the connect-four adversarial interaction|DT NN NN NN|BODY_5|0
+a zero-sum adversarial environment|DT JJ NN NN|BODY_6|0
+a 6x7 matrix-like board|DT CD JJ NN|BODY_4|0
+an approximated trh constant|DT VBN NN JJ|BODY_1|0
+the white player )|DT JJ NN -RRB-|BODY_10|0
+a low utility action|DT JJ NN NN|BODY_16|0
+7. achieve( gâˆ —|DT JJ NN NN|BODY_1|0
+any fair eval function|DT JJ NN NN|BODY_1|0
+the ae ag agent|DT NNS NN NN|BODY_1|0
+w ) â‰ ¥|VBD -RRB- NN NN|BODY_13|0
+the clashing agents adversaries|DT NN NNS NNS|BODY_4|0
+the first player|DT JJ NN|BODY_13:BODY_2:BODY_4|0
+its adversary|PRP$ NN|BODY_12:BODY_5:BODY_10:BODY_4:BODY_30|0
+its goal|PRP$ NN|BODY_6:BODY_12:BODY_5:BODY_7:BODY_9|0
+time tn|NN NN|BODY_6:BODY_13:BODY_4:BODY_7:BODY_9|0
+this axiom|DT NN|BODY_23:BODY_2:BODY_1:BODY_3:BODY_10|0
+the domain|DT NN|BODY_28:BODY_2:BODY_3:BODY_4|0
+gâˆ — aag|JJ NN NN|BODY_11:BODY_5:BODY_3|0
+the min-max algorithm|DT NN NN|BODY_1:BODY_14:BODY_3|0
+eval|NN|BODY_6:BODY_2:BODY_1:BODY_8|0
+the connect-four game|DT NN NN|BODY_2:BODY_1:BODY_7|0
+the same color|DT JJ NN|BODY_3:BODY_4|0
+the heuristic value|DT JJ NN|BODY_6:BODY_5:BODY_4|0
+multi-agent systems|JJ NNS|BODY_3|0
+turn|NN|BODY_6:BODY_17:BODY_3:BODY_14:BODY_8:BODY_9|0
+an alliance|DT NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+the connect-four domain|DT NN NN|BODY_2|0
+a search depth|DT NN NN|BODY_2|0
+the empirical analysis|DT JJ NN|BODY_2|0
+w|NN|BODY_22:BODY_17:BODY_15:BODY_7:BODY_20|0
+( e .g.|-LRB- NN NN|BODY_4:BODY_9|0
+the log file|DT NN NN|BODY_2:BODY_7|0
+black |JJ|BODY_6:BODY_5:BODY_3:BODY_4|0
+|NNP|BODY_6:BODY_27:BODY_2:BODY_10:BODY_4:BODY_7|0
+a formal model|DT JJ NN|BODY_5:BODY_7|0
+the adversarial environment|DT JJ NN|BODY_5:BODY_4|0
+a ranking system|DT JJ NN|BODY_4|0
+predefined feature sets|VBN NN NNS|BODY_4|0
+the decision procedure|DT NN NN|BODY_4|0
+various learning strategies|JJ VBG NNS|BODY_2|0
+the alliance members|DT NN NNS|BODY_6:BODY_5|0

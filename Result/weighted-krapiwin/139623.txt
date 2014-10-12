@@ -1,0 +1,504 @@
+which|WDT|BODY_12:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_8:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|4
+it|PRP|ABSTRACT_18:BODY_18:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_9|7
+the convergence|DT NN|TITLE_1:BODY_2:BODY_3|0
+watkins|NNS|BODY_12:BODY_11:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4|4
+the case|DT NN|BODY_6:BODY_11:BODY_17:BODY_13:BODY_1:BODY_3:BODY_4:ABSTRACT_7:BODY_7|1
+probability one|NN CD|BODY_12:BODY_5:ABSTRACT_6:BODY_17:BODY_13:BODY_4:BODY_7:BODY_8:BODY_9|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|2
+temporal differences|JJ NNS|ABSTRACT_2:BODY_2|0
+one way|CD NN|ABSTRACT_4:BODY_1|0
+sutton ( 1988 )|NN -LRB- CD -RRB-|ABSTRACT_6|0
+a slightly modified version|DT RB VBN NN|ABSTRACT_9|0
+that involving information|DT VBG NN|ABSTRACT_11|0
+adjacent time steps|JJ NN NNS|ABSTRACT_10|0
+linearly dependent representations|RB JJ NNS|ABSTRACT_16|0
+a convergence theorem|DT NN NN|ABSTRACT_5|0
+a different answer|DT JJ NN|ABSTRACT_19|0
+this strong form|DT JJ NN|ABSTRACT_7|0
+this|DT|BODY_12:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+sutton|NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+there|EX|BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_10:BODY_7|0
+that|WDT|BODY_6:BODY_5:BODY_11:BODY_18:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+the chain|DT NN|BODY_12:BODY_5:BODY_11:BODY_15:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+equation ( 26 )|NN -LRB- CD -RRB-|BODY_5:BODY_9|1
+equation ( 25 )|NN -LRB- CD -RRB-|BODY_6|1
+a slightly different case|DT RB JJ NN|BODY_6|1
+td(0 ) prediction converges|DT -RRB- NN NNS|BODY_11|1
+an absorbing markov chain|DT VBG NN NN|BODY_12:BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10|0
+equation ( 10 )|NN -LRB- CD -RRB-|BODY_17:BODY_2:BODY_3|0
+i \gamma ffx t|NN NN NN NN|BODY_5:BODY_25|0
+each state|DT NN|BODY_6:BODY_11:BODY_5:BODY_13:BODY_4:BODY_7:BODY_8:BODY_9|0
+( i t+1 vn|-LRB- IN CD IN|BODY_12:BODY_2|0
+the mean contraction properties|DT JJ NN NNS|BODY_3|0
+draughts ) playing program|NNS -RRB- VBG NN|BODY_2|0
+the right hand barrier|DT JJ NN NN|BODY_12:BODY_5|0
+a further related paper|DT JJ VBN NN|BODY_6|0
+the expected value e[zji]|DT VBN NN NNS|BODY_4|0
+state i and action|NN NN CC NN|BODY_2|0
+'s bucket brigade method|POS NN NN NN|BODY_7|0
+a and component i|DT CC NN NN|BODY_18|0
+( xv ) xv|-LRB- NN -RRB- NN|BODY_7|0
+combines prediction and control|NNS NN CC NN|BODY_2|0
+the right side (|DT JJ NN -LRB-|BODY_5|0
+that x t xd|DT NN NN NN|BODY_2|0
+the observed terminal value|DT JJ JJ NN|BODY_11:BODY_5|0
+just some particular set|RB DT JJ NN|BODY_19|0
+the subsequently predicted values|DT RB VBN NNS|BODY_9|0
+klopf [9 , 10]|NN CD , CD|BODY_5|0
+the derivative , ie|DT JJ , NN|BODY_3|0
+equation ( 16 )|NN -LRB- CD -RRB-|BODY_7|0
+e[w r n n|JJ NN NN NN|BODY_13|0
+each sequence ) converge|DT NN -RRB- NN|BODY_7|0
+the exponentially weighted sum|DT RB JJ NN|BODY_2|0
+the left hand one|DT JJ NN CD|BODY_6:BODY_15|0
+the first strong proof|DT JJ JJ NN|BODY_6|0
+the two statistical processes|DT CD JJ NNS|BODY_4|0
+the current state x|DT JJ NN SYM|BODY_10|0
+each complete observation sequence|DT JJ NN NN|BODY_4|0
+'s main td(-) equation|POS JJ JJ NN|BODY_5|0
+punctate or distributed representations|NN CC VBN NNS|BODY_4|0
+( i ff [vn|-LRB- IN NN NN|BODY_11|0
+the underlying td(-) algorithm|DT VBG NN NN|BODY_4|0
+any initial weight vector|DT JJ NN NN|BODY_3|0
+limited depth games-tree searches|JJ NN NN NNS|BODY_8|0
+an early td system|DT JJ NN NN|BODY_2|0
+the unbiased terminal values|DT JJ NN NNS|BODY_7|0
+e and e[zji 0|NN CC NN CD|BODY_3|0
+the next state x|DT JJ NN SYM|BODY_7|0
+the left absorbing barrier|DT VBN NN NN|BODY_6|0
+a separate convergence proof|DT JJ NN NN|BODY_8|0
+any linearly independent set|DT JJ JJ NN|BODY_15|0
+some further random processes|DT JJ JJ NNS|BODY_9|0
+the a th component|DT DT IN NN|BODY_11|0
+a potentially stochastic relationship|DT RB JJ NN|BODY_3|0
+any absorbing markov chain|DT JJ NN NN|BODY_6|0
+equation e e e|NN NN NN NN|BODY_14|0
+sutton used p n|NN VBN NN NN|BODY_3|0
+the simple random walkshown|DT JJ JJ NN|BODY_6|0
+equation ( 4 )|NN -LRB- CD -RRB-|BODY_4|0
+the overall td(-) estimator|DT JJ JJ NN|BODY_4|0
+the full linear case|DT JJ NN NN|BODY_2|0
+exactly the same and|RB DT JJ CC|BODY_6|0
+prediction and action learning|NN CC NN NN|BODY_6|0
+just the terminal value|RB DT NN NN|BODY_4|0
+the estimated terminal values|DT VBN NN NNS|BODY_10|0
+the expected ultimate terminal|DT VBN JJ NN|BODY_5|0
+equation ( 9 )|NN -LRB- CD -RRB-|BODY_4|0
+the less the effect|DT JJR DT NN|BODY_6|0
+equation ( 5 )|NN -LRB- CD -RRB-|BODY_3|0
+the expected terminal values|DT VBN NN NNS|BODY_4|0
+only the next state|RB DT JJ NN|BODY_8|0
+the current weight vector|DT JJ NN NN|BODY_9|0
+all the possible options|PDT DT JJ NNS|BODY_5|0
+a localist state representation|DT JJ NN NN|BODY_11|0
+here the raw information|RB DT JJ NN|BODY_3|0
+a controlled markov process|DT JJ NN NN|BODY_8|0
+equation ( 27 )|NN -LRB- CD -RRB-|BODY_8|0
+either the estimate vn|RB DT NN NN|BODY_3|0
+the matrix 3 convergence|DT NN CD NN|BODY_6|0
+the prediction function v|DT NN NN FW|BODY_3|0
+the ever increasing probability|DT RB VBG NN|BODY_5|0
+the discounted predictive version|DT VBN JJ NN|BODY_3|0
+an absorbing markov process|DT JJ NN NN|BODY_7|0
+source and destination states|NN CC NN NNS|BODY_5|0
+a ( weak )|DT -LRB- JJ -RRB-|BODY_6|0
+equation ( 11 )|NN -LRB- CD -RRB-|BODY_6|0
+at least one i|IN JJS CD NN|BODY_14|0
+i 0 vn (|FW CD NN -LRB-|BODY_4|0
+the most inaccurate component|DT RBS JJ NN|BODY_6|0
+a temporal difference method|DT JJ NN NN|BODY_7|0
+equation ( 7 )|NN -LRB- CD -RRB-|BODY_3|0
+either y or z.|DT NN CC NN|BODY_9|0
+equation ( 1 )|NN -LRB- CD -RRB-|BODY_1|0
+the random variables vn|DT JJ NNS NN|BODY_1|0
+equation ( 21 )|NN -LRB- CD -RRB-|BODY_4|0
+the initial predictor vn|DT JJ NN NN|BODY_5|0
+0 and 1 respectively|CD CC CD RB|BODY_22|0
+2.2 localist representation equation|CD JJ NN NN|BODY_1|0
+the actual td(-) algorithm|DT JJ JJ NN|BODY_1|0
+its associated contraction mappings|PRP$ JJ NN NNS|BODY_6|0
+uncoupled or disembodied moves|JJ CC JJ NNS|BODY_6|0
+the next section defines|DT JJ NN NNS|BODY_1|0
+clearly a td procedure|RB DT JJ NN|BODY_1|0
+equation|NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+td(-)|NN|BODY_5:BODY_11:BODY_16:BODY_15:BODY_2|1
+1|CD|BODY_6:BODY_5:BODY_27:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10|0
+the predictions|DT NNS|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|2
+a|DT|BODY_5:BODY_28:BODY_19:BODY_10:BODY_7:BODY_8|0
+vn|NN|BODY_11:BODY_1:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|1
+the states|DT NNS|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|0
+q|RB|BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+a special case|DT JJ NN|BODY_6:BODY_2|1
+their temporal distance|PRP$ JJ NN|BODY_5:BODY_15|1
+states|NNS|BODY_5:BODY_3:BODY_4:BODY_7:BODY_8|1
+i|SYM|BODY_6:BODY_5:BODY_16:BODY_17:BODY_8:BODY_9|0
+discounted future values|VBN NN NNS|BODY_10|1
+temporally extended circumstances|RB VBN NNS|BODY_2|1
+td ) estimation|NN -RRB- NN|BODY_7|1
+n|NN|BODY_6:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+the target values|DT NN NNS|BODY_8|1
+the training sequences|DT NN NNS|BODY_6|1
+the general case|DT JJ NN|BODY_11|1
+the important r|DT JJ NN|BODY_10|1
+' main motivations|POS JJ NNS|BODY_4|1
+early qn values|JJ NN NNS|BODY_15|1
+introduction many systems|NN JJ NNS|BODY_1|1
+just individual ones|RB JJ NNS|BODY_6|1
+the expected values|DT VBN NNS|BODY_6:BODY_5:BODY_2:BODY_3|0
+the terminal value|DT NN NN|BODY_3:BODY_10:BODY_8:BODY_9|0
+one|CD|BODY_12:BODY_5:BODY_2:BODY_4:BODY_8|2
+the markov chain|DT NN NN|BODY_2:BODY_7:BODY_8:BODY_9|0
+the linear representation|DT NN NN|BODY_5:BODY_19:BODY_4|0
+a )|DT -RRB-|BODY_6:BODY_11:BODY_5:BODY_3:BODY_7|0
+the expected number|DT VBN NN|BODY_6:BODY_4|0
+the previous section|DT JJ NN|BODY_6:BODY_5:BODY_18:BODY_10|0
+a and g|DT CC NN|BODY_21:BODY_2|0
+the observed sequence|DT JJ NN|BODY_3:BODY_7:BODY_8|0
+the v r|DT NN NN|BODY_1:BODY_3:BODY_7|0
+a particular case|DT JJ NN|BODY_6:BODY_4|0
+td( 1 )|NN CD -RRB-|BODY_6:BODY_2|0
+8i 2 n|NN CD NN|BODY_5:BODY_9|0
+the x i|DT NN NN|BODY_2:BODY_9|0
+a full set|DT JJ NN|BODY_6:BODY_3:BODY_19|0
+( i 0|-LRB- FW CD|BODY_4:BODY_9|0
+the chain absorbs|DT NN NNS|BODY_17:BODY_3|0
+the expected value|DT JJ NN|BODY_2:BODY_7|0
+the transition matrix|DT NN NN|BODY_1:BODY_3:BODY_9|0
+the value|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+temporal difference methods|JJ NN NNS|BODY_3|0
+the earliest work|DT JJS NN|BODY_2|0
+the previous subsection|DT JJ NN|BODY_2|0
+the td(-) algorithm|DT JJ NN|BODY_3|0
+the weight vector|DT NN NN|BODY_6:BODY_14|0
+an observed sequence|DT JJ NN|BODY_2:BODY_10|0
+the intermediate predictions|DT JJ NNS|BODY_2|0
+( i t|-LRB- FW NN|BODY_13:BODY_3|0
+the ideal predictions|DT JJ NNS|BODY_4:BODY_9|0
+their desired values|PRP$ VBN NNS|BODY_5:BODY_4|0
+the on-line version|DT JJ NN|BODY_4|0
+the expected weights|DT VBN NNS|BODY_21|0
+all positive ff|DT JJ NN|BODY_2|0
+the punctate representation|DT NN NN|BODY_2|0
+some policy -(i|DT NN NN|BODY_2|0
+these terminating values|DT NN VBZ|BODY_10|0
+the less significant|DT JJR JJ|BODY_2|0
+just the probability|RB DT NN|BODY_4|0
+some future outcome|DT JJ NN|BODY_2|0
+q ) values|VBN -RRB- NNS|BODY_4|0
+a look-up table|DT NN NN|BODY_2|0
+a complete sequence|DT JJ NN|BODY_10|0
+the transition probabilities|DT NN NNS|BODY_12:BODY_5|0
+theorem t|NN NN|BODY_5:BODY_2:BODY_14:BODY_3|1
+any eigenvalue-eigenvector pair|DT JJS NN|BODY_2|0
+the entire proof|DT JJ NN|BODY_2|0
+the vector representation|DT NN NN|BODY_6:BODY_8|0
+a consistent function|DT JJ NN|BODY_3|0
+both strictly positive|DT RB JJ|BODY_8|0
+positive real parts|JJ JJ NNS|BODY_8|0
+the real part|DT JJ NN|BODY_9|0
+bias and variance|NN CC NN|BODY_2|0
+the non-discounted case|DT JJ NN|BODY_1|0
+varga [18] lim|NN NN NN|BODY_2|0
+the terminal nodes|DT NN NNS|BODY_7|0
+these terminal values|DT JJ NNS|BODY_3|0
+any outcome distributions|DT NN NNS|BODY_12|0
+[17] discusses holland|JJ NNS CC|BODY_6|0
+the more significant|DT JJR JJ|BODY_2|0
+the correct predictions|DT JJ NNS|BODY_6:BODY_1|0
+any starting values|DT VBG NNS|BODY_5|0
+( 31 )|-LRB- CD -RRB-|BODY_9|0
+the convergence theorem|DT NN NN|BODY_2|0
+then the truth|RB DT NN|BODY_2|0
+non-terminal states vectors|JJ VBZ NNS|BODY_8|0
+equation ( 24|NN -LRB- CD|BODY_2|0
+ik q kj|NN NN NN|BODY_4|0
+a learning rule|DT NN NN|BODY_4|0
+a different solution|DT JJ NN|BODY_5|0
+statistically better estimators|RB JJR NNS|BODY_7|0
+the linear case|DT NN NN|BODY_7|0
+the square error|DT JJ NN|BODY_2|0
+a linear combination|DT NN NN|BODY_12|0
+the absorbing ones|DT JJ NNS|BODY_4|0
+( i 1|-LRB- FW CD|BODY_2|0
+the unhelpful correlations|DT JJ NNS|BODY_3|0
+the linear one|DT NN NN|BODY_4|0
+the square matrix|DT NN NN|BODY_13|0
+the learning rule|DT NN NN|BODY_4|0
+any vector u|DT NN NN|BODY_12|0
+no two states|DT CD NNS|BODY_10|0
+all the elements|PDT DT NNS|BODY_2|0
+the states b|DT NNS NN|BODY_3|0
+ab = [x|JJ SYM JJ|BODY_25|0
+an immediate reward|DT JJ NN|BODY_2|0
+its elemental pieces|PRP$ JJ NNS|BODY_2|0
+an activity trace|DT NN NN|BODY_3|0
+an upended pole|DT JJ NN|BODY_4|0
+( 21 )|-LRB- CD -RRB-|BODY_3|0
+a non-zero probability|DT JJ NN|BODY_2|0
+linear td(-) (|JJ NN -LRB-|BODY_5|0
+the crucial condition|DT JJ NN|BODY_9|0
+the terminal values|DT NN NNS|BODY_15|0
+a close relation|DT JJ NN|BODY_16|0
+the possible transitions|DT JJ NNS|BODY_6|0
+50 % probability|CD NN NN|BODY_8|0
+appropriate ff defining|JJ NN NN|BODY_2|0
+the iteration matrix|DT NN NN|BODY_3|0
+certain different representations|JJ JJ NNS|BODY_10|0
+x t xd|NN NN NN|BODY_5|0
+a fruitful way|DT JJ NN|BODY_3|0
+every non-terminal state|DT JJ NN|BODY_2|0
+all the eigenvalues|PDT DT NNS|BODY_4|0
+absorbing markov chains|JJ NN NNS|BODY_17|0
+the random moves|DT JJ NNS|BODY_5|0
+( i )|-LRB- FW -RRB-|BODY_8|0
+a whole collection|DT JJ NN|BODY_6|0
+a under policy|DT JJ NN|BODY_3|0
+the mean weight|DT JJ NN|BODY_5|0
+the predicted values|DT VBN NNS|BODY_6|0
+a finite set|DT JJ NN|BODY_6|0
+finite expected values|JJ VBN NNS|BODY_13|0
+the diagonal ab|DT JJ JJ|BODY_27|0
+a second issue|DT JJ NN|BODY_2|0
+the s-step transition|DT NN NN|BODY_4|0
+sets and values|NNS CC NNS|BODY_6|0
+the new estimator|DT JJ NN|BODY_8|0
+any intermediate states|DT JJ NNS|BODY_5|0
+each absorbing state|DT JJ NN|BODY_6|0
+the gradient descent|DT JJ NN|BODY_4|0
+the training values|DT NN NNS|BODY_3|0
+their exact analogues|PRP$ JJ NNS|BODY_3|0
+incremental dynamic programming|JJ JJ NN|BODY_7|0
+0 ( i|CD -LRB- FW|BODY_6|0
+( 23 )|-LRB- CD -RRB-|BODY_12|0
+the proof breaks|DT NN NNS|BODY_4|0
+r 2 n|NN CD NN|BODY_9|0
+a degenerate case|DT JJ NN|BODY_7|0
+the extra terms|DT JJ NNS|BODY_12|0
+lim @ e|JJ NN NN|BODY_5|0
+a stochastic transition|DT JJ NN|BODY_9|0
+the following theorem|DT VBG NN|BODY_4|0
+any matrix m|DT NN NN|BODY_9|0
+the loading factors|DT NN NNS|BODY_6|0
+probability one sutton|NN CD NN|BODY_7|0
+that td(0 )|DT NN -RRB-|BODY_5|0
+the look-up table|DT NN NN|BODY_7|0
+a td(-based estimator|DT JJ NN|BODY_7|0
+i t+1 vn|FW CD NN|BODY_12|0
+one special case|CD JJ NN|BODY_4|0
+one particular sequence|CD JJ NN|BODY_8|0
+the watkins construction|DT NNS NN|BODY_15|0
+these successive estimates|DT JJ NNS|BODY_3|0
+the whole point|DT JJ NN|BODY_8|0
+2.4 linear representation|CD NN NN|BODY_1|0
+[14 , 15]|CD , CD|BODY_4|0
+the representation sutton|DT NN NN|BODY_4|0
+state j probabilities|NN NN NNS|BODY_11|0
+markov pro- cesses|NN NNS NNS|BODY_4|0
+the lms rule|DT NNS NN|BODY_5|0
+vn wn :x|JJ JJ NN|BODY_4|0
+the temporal order|DT JJ NN|BODY_4|0
+'s proof procedure|POS NN NN|BODY_9|0
+the ultimate proof|DT JJ NN|BODY_2|0
+the key step|DT JJ NN|BODY_6|0
+a time horizon|DT NN NN|BODY_7|0
+the on-line form|DT JJ NN|BODY_9|0
+the discount factor|DT NN NN|BODY_14:BODY_3|0
+the more effect|DT JJR NN|BODY_6|0
+a weighted average|DT JJ NN|BODY_3|0
+a simultaneous equation|DT JJ NN|BODY_7|0
+only one step|JJ CD NN|BODY_8|0
+vectors x i|NNS NN NN|BODY_3|0
+a learning technique|DT NN NN|BODY_3|0
+( i r|-LRB- NN NN|BODY_4|0
+no inaccessible states|DT JJ NNS|BODY_11|0
+the first state|DT JJ NN|BODY_6|0
+the lms case|DT NNS NN|BODY_9|0
+whose real parts|WP$ JJ NNS|BODY_6:BODY_22|0
+any x i|DT NN NN|BODY_15|0
+only one action|RB CD NN|BODY_11|0
+equation ( 2|NN -LRB- CD|BODY_2|0
+all the estimates|PDT DT NNS|BODY_3|0
+the q values|DT NN NNS|BODY_3|0
+the strongest guarantee|DT JJS NN|BODY_7|0
+all those states|PDT DT NNS|BODY_5|0
+e and f|NN CC NN|BODY_5|0
+the inaccurate estimates|DT JJ NNS|BODY_6|0
+the characteristic functions|DT JJ NNS|BODY_4|0
+the expected frequencies|DT JJ NNS|BODY_7|0
+qn ( i|NN -LRB- FW|BODY_2|0
+the next ,|DT JJ ,|BODY_13|0
+' convergence theorem|POS NN NN|BODY_5|0
+an exact parallel|DT JJ NN|BODY_7|0
+the td(-) rule|DT JJ NN|BODY_5|0
+the random walk|DT JJ NN|BODY_9|0
+the payoff structure|DT NN NN|BODY_14|0
+every non-absorbing state|DT JJ NN|BODY_4|0
+the update rule|DT NN NN|BODY_11|0
+' representation-free proof|POS JJ NN|BODY_4|0
+more sophisticated representations|RBR JJ NNS|BODY_1|0
+the conjugate transpose|DT NN NN|BODY_4|0
+a markov chain|DT NN NN|BODY_4|0
+the non-terminal states|DT JJ NNS|BODY_10|0
+a valid estimator|DT JJ NN|BODY_2|0
+the learning phase|DT NN NN|BODY_1|0
+an optimal policy|DT JJ NN|BODY_4|0
+the particular sequence|DT JJ NN|BODY_4|0
+no diagonal elements|DT JJ NNS|BODY_5|0
+all the weights|DT DT NNS|BODY_3|0
+( i summing|-LRB- FW NN|BODY_4|0
+the new representation|DT JJ NN|BODY_1|0
+michie and chambers|NN CC NNS|BODY_7|0
+the q-learning theorem|DT NN NN|BODY_1|0
+the normal running|DT JJ NN|BODY_14|0
+a non-absorbing chain|DT JJ NN|BODY_12|0
+just one component|RB CD NN|BODY_5|0
+the various states|DT JJ NNS|BODY_7|0
+one such sequence|CD JJ NN|BODY_1|0
+an the process|DT DT NN|BODY_4|0
+closer to 0|RBR TO CD|BODY_13|0
+( t )|-LRB- NN -RRB-|BODY_6|0
+the true solution|DT JJ NN|BODY_9|0
+ji 2 ng|RB CD NN|BODY_18|0
+no error reduction|DT NN NN|BODY_2|0
+the estimation system|DT NN NN|BODY_1|0
+all the others|PDT DT NNS|BODY_7|0
+the td(-) procedure|DT JJ NN|BODY_22|0
+this simpler category|DT JJR NN|BODY_7|0
+the appropriate formula|DT JJ NN|BODY_1|0
+0 such that|CD JJ IN|BODY_1|0
+the engineering method|DT NN NN|BODY_1|0
+the augmented term|DT JJ NN|BODY_8|0
+the null subspace|DT JJ NN|BODY_9|0
+terminal absorbing values|NN JJ NNS|BODY_8|0
+non-independent x i|JJ NN NN|BODY_7|0
+the next stage|DT JJ NN|BODY_1|0
+all other states|DT JJ NNS|BODY_11|0
+the absorbing states|DT JJ NNS|BODY_11|0
+the q value|DT JJ NN|BODY_1|0
+a 2 a.|DT CD NN|BODY_8|0
+i 6= j|DT JJ NN|BODY_1|0
+many other proposals|JJ JJ NNS|BODY_1|0
+positive diagonal entries|JJ JJ NNS|BODY_7|0
+unhelpful state representations|JJ NN NNS|BODY_9|0
+the kronecker delta|DT NN NN|BODY_30|0
+( 3 )|-LRB- CD -RRB-|BODY_1|0
+a simple version|DT JJ NN|BODY_1|0
+some initial states|DT JJ NNS|BODY_1|0
+the same representation|DT JJ NN|BODY_11|0
+the sum converges|DT NN NNS|BODY_1|0
+the other states|DT JJ NNS|BODY_9|0
+' grid task|POS NN NN|BODY_12|0
+the ff n|DT NN NN|BODY_1|0
+r further steps|NN JJ NNS|BODY_18|0
+the positive ae.|DT JJ NN|BODY_6|0
+2.3 contraction mappings|CD NN NNS|BODY_1|0
+a simpler alternative|DT JJR NN|BODY_1|0
+a characteristic function|DT JJ NN|BODY_1|0
+the basic algorithm|DT JJ NN|BODY_1|0
+a td method|DT JJ NN|BODY_5|0
+j 2 n|NN CD NN|BODY_12|0
+just one state|RB CD NN|BODY_8|0
+the same effect|DT JJ NN|BODY_7|0
+the next which|DT JJ WDT|BODY_7|0
+some parametric way|DT JJ NN|BODY_1|0
+the discounting parameter|DT VBG NN|BODY_1|0
+this combination estimator|DT NN NN|BODY_3|0
+the actual value|DT JJ NN|BODY_12|0
+the learning rate|DT NN NN|BODY_6|0
+a 2 n|DT CD NN|BODY_20|0
+the following subsections|DT VBG NNS|BODY_1|0
+time and choices|NN CC NNS|BODY_2|0
+any non-zero member|DT JJ NN|BODY_1|0
+the r-step estimate|DT JJ NN|BODY_1|0
+positive diagonal elements|JJ JJ NNS|BODY_2|0
+a current location|DT JJ NN|BODY_9|0
+the appropriate manner|DT JJ NN|BODY_6|0
+the chain visits|DT NN NNS|BODY_6|0
+the vectors x|DT NNS NN|BODY_1|0
+many control problems|JJ NN NNS|BODY_1|0
+an = a|DT SYM DT|BODY_9|0
+time step r|NN NN NN|BODY_13|0
+only r steps|RB JJ NNS|BODY_5|0
+the original representation|DT JJ NN|BODY_6|0
+their current states|PRP$ JJ NNS|BODY_5|0
+the whole sequence|DT JJ NN|BODY_1|0
+one state|CD NN|BODY_6:BODY_11:BODY_8|1
+state|NN|BODY_6:BODY_5:BODY_16:BODY_14:BODY_10:BODY_4:BODY_19:BODY_7:BODY_8|0
+the mean|DT NN|BODY_12:BODY_5:BODY_14:BODY_10|1
+r|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_8|0
+the estimates|DT NNS|BODY_6:BODY_1:BODY_3:BODY_7:BODY_9|0
+they|PRP|BODY_13:BODY_1:BODY_3:BODY_4|1
+td(0 )|NN -RRB-|BODY_5:BODY_10:BODY_4:BODY_9|0
+state i|NN NN|BODY_12:BODY_3:BODY_7:BODY_8:BODY_9|0
+'s theorem|POS NN|BODY_5:BODY_3:BODY_10:BODY_4:BODY_7|2
+the sequence|DT NN|BODY_11:BODY_5:BODY_14:BODY_9|0
+these predictions|DT NNS|BODY_2:BODY_3|1
+the conditions|DT NNS|BODY_6:BODY_1:BODY_2:BODY_9|0
+dynamic programming|JJ NN|BODY_5:BODY_8|1
+the weights|DT NNS|BODY_5:BODY_3:BODY_4:BODY_7|0
+( i|-LRB- FW|BODY_6:BODY_5:BODY_3:BODY_7|0
+what|WP|BODY_11:BODY_5:BODY_2:BODY_4|1
+the equivalent|DT NN|BODY_13:BODY_1:BODY_3:BODY_4|0
+' analysis|POS NN|BODY_3:BODY_4|1
+the behaviour|DT NN|BODY_5:BODY_8|1
+td|NN|BODY_5:BODY_2:BODY_3:BODY_7|2
+i 0|NN CD|BODY_5:BODY_2:BODY_4:BODY_9|0
+the error|DT NN|BODY_5:BODY_2:BODY_7|0
+6 )|CD -RRB-|BODY_18:BODY_3|1
+i vn|FW NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+the transitions|DT NNS|BODY_6:BODY_4:BODY_7|0
+the prediction|DT NN|BODY_6:BODY_5:BODY_7|0
+he|PRP|BODY_5:BODY_1:BODY_2:BODY_7|0
+the system|DT NN|BODY_2:BODY_4|0
+random variables|JJ NNS|BODY_2:BODY_3|0
+the proof|DT NN|BODY_1:BODY_2:BODY_3|0
+terms|NNS|BODY_5:BODY_2:BODY_3:BODY_4|0
+full rank|JJ NN|BODY_11:BODY_2:BODY_3|0
+sutton [17]|NN NN|BODY_6:BODY_1:BODY_3|0
+z|FW|BODY_11:BODY_4:BODY_10|0
+the sum|DT NN|BODY_1:BODY_4|0
+e !1|NN NNS|BODY_2|0
+the utility|DT NN|BODY_2|0
+state j|NN NN|BODY_11:BODY_2|0
+observation vectors|NN NNS|BODY_16:BODY_3|0
+the q|DT NN|BODY_2:BODY_7|0
+both sides|DT NNS|BODY_6:BODY_11|0
+the context|DT NN|BODY_16:BODY_3|0
+this result|DT NN|BODY_2:BODY_1:BODY_3|0
+every state|DT NN|BODY_6:BODY_12:BODY_18|0
+3 )|CD -RRB-|BODY_6:BODY_2|0
+terminal value|NN NN|BODY_6:BODY_10|0
+a set|DT NN|BODY_2|0
+an eigenvector|DT NN|BODY_2:BODY_3|0
+the values|DT NNS|BODY_2:BODY_19|0
+the matrix|DT NN|BODY_21:BODY_2:BODY_3|0
+an example|DT NN|BODY_2|0
+the numbers|DT NNS|BODY_6:BODY_3|0
+'s proof|POS NN|BODY_2:BODY_3:BODY_8|0
+the number|DT NN|BODY_5:BODY_2:BODY_9|0
+the v|DT NNS|BODY_2:BODY_4|0
+this manner|DT NN|BODY_5:BODY_7|0
+r steps|NN NNS|BODY_4:BODY_8|0
+the same|DT JJ|BODY_2|0
+these variables|DT NNS|BODY_2|0
+q-learning|NN|BODY_5:BODY_11:BODY_1:BODY_2:BODY_8|0
+the one|DT CD|BODY_5|0
+converges|NNS|BODY_3:BODY_4:BODY_8:BODY_9|0
+td methods|JJ NNS|BODY_3:BODY_7|0
+' '|POS POS|BODY_3|0
+a procedure|DT NN|BODY_9|0
+this sum|DT NN|BODY_19|0
+17 )|CD -RRB-|BODY_2|0
+x i|SYM FW|BODY_5:BODY_23|0
+the estimate|DT NN|BODY_12:BODY_9|0
+the representation|DT NN|BODY_5:BODY_4|0
+28 )|CD -RRB-|BODY_10:BODY_4|0
+i )|FW -RRB-|BODY_6:BODY_3:BODY_4|0
+a way|DT NN|BODY_5:BODY_8|0
+w r|RB VBD|BODY_19:BODY_10|0
+viz convergence|NN NN|BODY_16:BODY_13|0
+linear td(-)|NN NN|BODY_2|0
+different representations|JJ NNS|BODY_2|0
+expected values|VBN NNS|BODY_15:BODY_1|0
+those numbers|DT NNS|BODY_10|0
+the delta-rule|DT NN|BODY_2|0

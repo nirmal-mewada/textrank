@@ -1,0 +1,1960 @@
+we|PRP|BODY_12:BODY_15:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_9|7
+which|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_8:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+that|DT|BODY_12:BODY_11:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+rules|NNS|BODY_11:ABSTRACT_16:BODY_16:BODY_17:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|2
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_14:BODY_10:BODY_4:BODY_8|0
+mofn|NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|1
+the rules|DT NNS|BODY_6:BODY_5:BODY_11:ABSTRACT_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+they|PRP|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:ABSTRACT_9:BODY_8:BODY_9|0
+the network|DT NN|BODY_12:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_1:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|1
+the knn|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8|0
+the extracted rules|DT VBN NNS|BODY_6:ABSTRACT_4:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+neural networks|JJ NNS|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7:BODY_8|1
+antecedents|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_9|0
+the mofn method|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+1991 )|CD -RRB-|BODY_12:BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+subset|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+one|CD|BODY_6:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the bias|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+a method|DT NN|BODY_6:BODY_11:BODY_5:ABSTRACT_2:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_7|1
+knns|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10|0
+the rule|DT NN|BODY_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+training|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8|0
+networks|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+this section|DT NN|BODY_13:BODY_1:BODY_2:BODY_3:BODY_4|0
+linus|NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+a set|DT NN|BODY_6:BODY_5:BODY_11:BODY_3:BODY_4:BODY_8:BODY_9|0
+the second problem|DT JJ NN|BODY_17:BODY_2:BODY_3:BODY_4|0
+kbann|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+both|DT|BODY_6:BODY_15:BODY_1:BODY_2:BODY_3:BODY_9|0
+links|NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+a knn|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|1
+examples|NNS|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the monks problems|DT NNS NNS|BODY_5:BODY_13:BODY_1:BODY_2:BODY_4|0
+the algorithm|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+instance|NN|BODY_1|0
+the ability|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+these rules|DT NNS|BODY_2:BODY_1:BODY_3:BODY_4|0
+trained networks|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|1
+each|DT|BODY_5:BODY_1:BODY_2:BODY_4|1
+the links|DT NNS|BODY_2:BODY_3:BODY_7|0
+the mofn algorithm|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+those|DT|BODY_6:BODY_5:ABSTRACT_14:BODY_4:BODY_7:BODY_8|0
+terms|NNS|BODY_6:BODY_2:BODY_4:BODY_7:BODY_8|0
+rule extraction|NN NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+a unit|DT NN|BODY_6:BODY_12:BODY_5:BODY_3:BODY_10:BODY_7:BODY_8|0
+this|DT|BODY_2:BODY_1|0
+1990|CD|BODY_6:BODY_5:BODY_4:BODY_7|0
+trained knns|VBN NNS|BODY_6:BODY_5:BODY_3:BODY_7:BODY_8|0
+the accuracy|DT NN|BODY_6:BODY_5:ABSTRACT_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+this procedure|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+this method|DT NN|BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_9|0
+extraction|NN|BODY_5:BODY_15:BODY_3:BODY_4|0
+a neural network|DT JJ NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_8|0
+respect|NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+addition|NN|BODY_2:BODY_1|0
+subset algorithms|NN NNS|BODY_1:BODY_2:BODY_3:BODY_8|0
+the size|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+the unit|DT NN|BODY_6:BODY_11:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+sets|NNS|BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+1|CD|BODY_12:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_4|0
+the activation|DT NN|BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_14|0
+a rule|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_9|0
+all|DT|BODY_12:BODY_5:BODY_1:BODY_4|0
+2|CD|BODY_5:BODY_13:BODY_1:BODY_7:ABSTRACT_10|0
+the problem|DT NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+backpropagation|NN|BODY_11:BODY_5:BODY_3:BODY_4:BODY_7|0
+extracted rules|VBN NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+individual rules|JJ NNS|BODY_5:BODY_18:BODY_2:BODY_4|0
+this work|DT NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+the results|DT NNS|BODY_5:BODY_2:BODY_3|0
+the concept|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+activations|NNS|BODY_6:BODY_5:BODY_3|0
+c4.5|CD|BODY_2:BODY_3:BODY_4:BODY_7|0
+this paper|DT NN|BODY_1:BODY_2:BODY_3:BODY_8:BODY_9|2
+this problem|DT NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+1990 )|CD -RRB-|BODY_6:BODY_18:BODY_4:BODY_7:BODY_8:BODY_9|0
+our method|PRP$ NN|BODY_2:BODY_3:ABSTRACT_1:BODY_4|0
+the reference point|DT NN NN|BODY_6:BODY_2:BODY_19:BODY_9|0
+(|-LRB-|BODY_1:BODY_3:BODY_9|0
+promoter recognition|NN NN|BODY_5:BODY_13:BODY_1:BODY_2:BODY_7|0
+figure|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the systems|DT NNS|BODY_1:BODY_2|0
+the behavior|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_9|0
+this assumption|DT NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+the networks|DT NNS|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4:BODY_7:BODY_9|1
+clusters|NNS|BODY_5:BODY_1:BODY_2:BODY_3|0
+activation|NN|BODY_5:BODY_11:BODY_3:BODY_8|0
+monk.|NN|BODY_22:BODY_18:BODY_15:BODY_20|0
+the average|DT NN|BODY_2:BODY_3:BODY_7|0
+the population|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_9|0
+the comprehensibility|DT NN|BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+conformation|NN|BODY_13:BODY_2:BODY_3:BODY_9|0
+'s ( 1991|POS -LRB- CD|BODY_5:BODY_2:BODY_3|0
+the training set|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_4|0
+a disjunction|DT NN|BODY_2:BODY_3|0
+1987 )|CD -RRB-|BODY_2:BODY_10:BODY_9|0
+empirical tests|JJ NNS|ABSTRACT_2:BODY_1:BODY_2:BODY_3|0
+the antecedents|DT NNS|BODY_12:BODY_5:BODY_3:BODY_8|0
+the second monks problem|DT JJ NNS NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+negated antecedents|JJ NNS|BODY_2:BODY_3|0
+3|CD|BODY_6:BODY_13:BODY_10:BODY_7|0
+a|DT|BODY_6:BODY_1|0
+this algorithm|DT NN|BODY_1:BODY_3|0
+a result|DT NN|BODY_13:BODY_1:BODY_4|0
+the method|DT NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+c|NN|BODY_12:BODY_2:BODY_4:BODY_9|0
+the weight|DT NN|BODY_6:BODY_17:BODY_1:BODY_4|0
+some|DT|BODY_6:BODY_1:BODY_3:BODY_4|0
+evidence|NN|BODY_2|0
+the first problem|DT JJ NN|BODY_5:BODY_1:BODY_14|0
+bias optimization|NN NN|BODY_6:BODY_2|0
+the first monks problem|DT JJ NNS NN|BODY_2:BODY_1:BODY_4|0
+the system|DT NN|BODY_2:BODY_3:BODY_8|0
+each unit|DT NN|BODY_5:BODY_1:BODY_4:BODY_8|0
+)|-RRB-|BODY_6:BODY_5:BODY_15:BODY_3|0
+mofn rules|NN NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+real-world problems|NN NNS|BODY_6:BODY_1:BODY_2|0
+the data|DT NN|BODY_16:BODY_2:BODY_1|0
+dna|NNP|BODY_4:BODY_7|0
+hidden units|JJ NNS|BODY_6:BODY_11:BODY_1:BODY_10:BODY_8|0
+link weights|NN NNS|BODY_1:BODY_2:BODY_4|0
+the advantage|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+our mofn algorithm|PRP$ NN NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+1988|CD|BODY_7:BODY_8|0
+results|NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+unit|NN|BODY_15:BODY_4:BODY_19:BODY_20|0
+our mofn method|PRP$ NN NN|BODY_6:BODY_2|0
+accuracy|NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_7|0
+.e|NN|BODY_11:BODY_7:BODY_9|0
+exon/intron boundaries|NN NNS|BODY_6:BODY_3|0
+fuzzy rules|JJ NNS|BODY_6:BODY_2:BODY_3:BODY_9|0
+the subset rules|DT NN NNS|BODY_2:BODY_4|0
+the initial domain theory|DT JJ NN NN|BODY_5:BODY_2:BODY_8|0
+the dna sequence|DT NN NN|BODY_13:BODY_2:BODY_9|0
+magnitude|NN|BODY_4:BODY_7|0
+-(head-shape round ) ( body-shape round ) (|JJ JJ -RRB- -LRB- NN JJ -RRB- -LRB-|BODY_4:BODY_9|0
+each nucleotide|DT JJ|BODY_5:BODY_4|0
+the examples|DT NNS|BODY_5:BODY_2|0
+1991|CD|BODY_3:BODY_10:BODY_7:BODY_8|0
+units|NNS|BODY_12:BODY_1:BODY_4|0
+this step|DT NN|BODY_2:BODY_1|0
+experiments|NNS|BODY_3:BODY_4:BODY_8|0
+the difference|DT NN|BODY_1:BODY_2:BODY_8|0
+a subset algorithm|DT NN NN|BODY_5:BODY_2:BODY_4|0
+comparison|NN|BODY_1:BODY_2:BODY_3|0
+the kbann system|DT NN NN|BODY_3:BODY_4|0
+minus35|CD|BODY_1:BODY_2|0
+'-'|JJ|BODY_2|0
+fahlman and lebiere|NN CC NN|BODY_2|0
+figures|NNS|BODY_2|0
+gains|NNS|BODY_2|0
+low link weights|JJ NN NNS|BODY_2|0
+step rules|NN NNS|BODY_2|0
+the first seven nucleotides|DT JJ CD NNS|BODY_2|0
+the most probable nucleotides|DT RBS JJ NNS|BODY_2|0
+those just discussed ,|DT RB VBN ,|BODY_2|0
+table 4|NN CD|BODY_1:BODY_3|0
+whose summed weights|WP$ VBN NNS|BODY_6:BODY_3:BODY_7|0
+the problems|DT NNS|BODY_2:BODY_3:BODY_8|0
+the previous section|DT JJ NN|BODY_3|0
+a network|DT NN|BODY_5:BODY_11:BODY_8|0
+the issue|DT NN|BODY_2|0
+the sum|DT NN|BODY_5:BODY_4:BODY_8|0
+datasets|NNS|BODY_3:BODY_4|0
+quality|NN|BODY_2:BODY_4|0
+figure 6|NN CD|BODY_6:BODY_1:BODY_2:BODY_3|0
+the training|DT NN|BODY_4:BODY_8|0
+an average|DT NN|BODY_2:BODY_3|0
+towell et al.|NN FW FW|BODY_6:BODY_8|0
+an example|DT NN|BODY_3:BODY_4|0
+table 5|NN CD|BODY_5:BODY_2:BODY_3:BODY_4|0
+methods|NNS|BODY_3:BODY_10:ABSTRACT_12|1
+example|NN|BODY_1|0
+the initial rules|DT JJ NNS|BODY_5:BODY_1:BODY_2:BODY_4:BODY_8|0
+rise|NN|BODY_5:BODY_2|0
+the procedure|DT NN|BODY_1:BODY_2:BODY_3|0
+symbolic|JJ|BODY_6:BODY_4:BODY_9|0
+the rule sets|DT NN NNS|BODY_11:BODY_5:BODY_3|0
+trained neural networks|VBN JJ NNS|BODY_5:ABSTRACT_3:BODY_7|0
+groups|NNS|BODY_6:BODY_1:BODY_3|0
+each hidden and output unit|DT JJ CC NN NN|BODY_2:BODY_1|0
+equivalence classes|NN NNS|BODY_1:BODY_3:BODY_4|0
+either|DT|BODY_1:BODY_2:BODY_7|0
+an ann|DT NN|BODY_5:BODY_2|0
+rule-set size|NN NN|BODY_2:BODY_3|0
+the mofn rules|DT NN NNS|BODY_2:BODY_1:BODY_3|0
+the focus|DT NN|BODY_3:BODY_7:BODY_8|0
+the meanings|DT NNS|BODY_11:BODY_3:BODY_4|0
+zero|CD|BODY_2:BODY_3:BODY_7|0
+this shift|DT NN|BODY_2:BODY_1|0
+i .e|FW FW|BODY_10:BODY_9|0
+the sequence|DT NN|BODY_6:BODY_5:BODY_2:BODY_9|0
+a part|DT NN|BODY_2:BODY_3|0
+the link|DT NN|BODY_5:BODY_10:BODY_7|0
+the cluster|DT NN|BODY_6:BODY_2:BODY_7|0
+1983|CD|BODY_4:BODY_7|0
+the learning system|DT NN NN|BODY_6:BODY_2:BODY_4|0
+this dataset|DT NN|BODY_2|0
+properties|NNS|BODY_2:BODY_7|0
+weighted antecedents|JJ NNS|BODY_6:BODY_1:BODY_4|0
+knowledge|NN|BODY_3:ABSTRACT_1:BODY_8|0
+a promoter|DT NN|BODY_1:BODY_3:BODY_7|0
+the form|DT NN|BODY_6:BODY_5:BODY_1|0
+the first step|DT JJ NN|BODY_2:ABSTRACT_3|0
+the net input|DT JJ NN|BODY_2:BODY_3|0
+tests|NNS|BODY_1:BODY_3|0
+6|CD|BODY_11:BODY_1:BODY_4|0
+the type|DT NN|BODY_3:BODY_7|0
+other units|JJ NNS|BODY_3:BODY_9|0
+noordewier et al|NN NNP JJ|BODY_2:BODY_3|0
+the observation|DT NN|BODY_1:BODY_4|0
+the abilities|DT NNS|BODY_5|0
+figure 9|NN CD|BODY_5:BODY_1:BODY_3|0
+the negative subsets|DT JJ NNS|BODY_3:BODY_8|0
+kibler|NN|BODY_4|0
+richard maclin|JJ NN|BODY_2|0
+any|DT|BODY_6:BODY_4|0
+the domain|DT NN|BODY_2:BODY_9|0
+m-of-n style concepts|JJ NN NNS|BODY_5:BODY_13:BODY_2:BODY_4|0
+the process|DT NN|BODY_10:BODY_4|0
+none|NN|BODY_5:BODY_7|0
+two|CD|BODY_11:BODY_1:BODY_3|0
+each group|DT NN|BODY_6:BODY_8|0
+whose summed weight|WP$ VBN NN|BODY_6:BODY_3|0
+difficulty|NN|BODY_2|0
+a fragment|DT NN|BODY_2|0
+all hidden and output units|DT JJ CC NN NNS|BODY_3|0
+approaches|NNS|ABSTRACT_3|0
+e. coli|FW NNS|BODY_3|0
+every non-input unit|DT JJ NN|BODY_3|0
+optimize biases|JJ NNS|BODY_2|0
+symbolic , rule-based reasoning|JJ , JJ NN|BODY_3|0
+the algorithm iterates|DT NN NNS|BODY_2|0
+the neural-network black box|DT NN JJ NN|BODY_2|0
+the understanding|DT NN|ABSTRACT_2|0
+table 9|NN CD|BODY_5:BODY_15:BODY_1:BODY_3:BODY_4|0
+superior|JJ|BODY_5:BODY_15:BODY_2|0
+the knowledge base|DT NN NN|BODY_5:BODY_7:BODY_9|0
+machine learning|NN NN|BODY_3:BODY_4|0
+sites|NNS|BODY_2:BODY_8|0
+weights|NNS|BODY_1:BODY_3:BODY_7|0
+problems|NNS|BODY_5:BODY_10:BODY_4|0
+attempts|NNS|BODY_2:BODY_4|0
+the environment|DT NN|BODY_6:BODY_14:BODY_10|0
+towell et al|NN NNP JJ|BODY_5:BODY_17|0
+rule sets|NN NNS|BODY_1:BODY_3|0
+section 4|NN CD|BODY_1:BODY_3:BODY_4|0
+only training examples|JJ NN NNS|BODY_5:BODY_2|0
+the reference location|DT NN NN|BODY_3:BODY_7|0
+each cluster|DT NN|BODY_5:BODY_3:BODY_4|0
+a or c r|DT CC NN NN|BODY_2|0
+five presentations|CD NNS|BODY_15|0
+the slope|DT NN|BODY_26|0
+weight optimization|NN NN|BODY_10|0
+wisconsin|NN|BODY_7|0
+intron/exon boundaries|JJ NNS|BODY_8|0
+communication|NN|BODY_5|0
+fi n|JJ NN|BODY_5:BODY_3|0
+the initial clustering|DT JJ NN|BODY_2|0
+energy grant de|NN NN FW|BODY_7|0
+only the rule and antecedent counts|RB DT NN CC NN NNS|BODY_5|0
+'s ( 1989 ) suggestion|POS -LRB- CD -RRB- NN|BODY_2|0
+this task|DT NN|ABSTRACT_6|0
+a concept|DT NN|BODY_6:BODY_4:BODY_7|1
+real-world datasets|NN NNS|BODY_2|0
+a number|DT NN|BODY_6|0
+the entire population|DT JJ NN|BODY_5:BODY_4:BODY_8|0
+algorithm ( hartigan|NN -LRB- NN|BODY_6|0
+a compilation|DT NN|BODY_2|0
+fermat|NN|BODY_1:BODY_2|0
+jacket-color|NN|BODY_6:BODY_11|0
+the training examples|DT NN NNS|BODY_5:BODY_4:BODY_8:BODY_9|0
+what|WP|BODY_5:BODY_7|0
+the importance|DT NN|BODY_3:BODY_4|0
+the promoter domain|DT NN NN|BODY_1:BODY_3:BODY_7|0
+a trained knn|DT JJ NN|BODY_5:BODY_3|0
+figure 3b|NN NN|BODY_4|0
+the promoter problem|DT NN NN|BODY_11:BODY_2:BODY_1|0
+a , g , t|DT , NN , NN|BODY_4|0
+not ( 1|RB -LRB- CD|BODY_5|0
+extracting rules|JJ NNS|BODY_6:BODY_4|0
+ics|NNS|BODY_7|0
+the domain theory|DT NN NN|BODY_3|0
+linear strings|JJ NNS|BODY_2|0
+outputs|NNS|BODY_5:BODY_7|0
+an antecedent|DT NN|BODY_3:BODY_4|0
+these bonds|DT NNS|BODY_10|0
+bruner et al.|NN FW FW|BODY_4|0
+a single rule|DT JJ NN|BODY_5:BODY_1|0
+the natural  language|DT JJ NN NN|BODY_5:BODY_3|0
+promoters|NNS|BODY_6:BODY_11:BODY_1|0
+equation 2|NN CD|BODY_2:BODY_3|0
+comparisons|NNS|BODY_4|0
+summary|NN|BODY_2|0
+some rules|DT NNS|BODY_4|0
+each non-input unit|DT JJ NN|BODY_2:BODY_3|0
+accuracy and understandability|NN CC NN|BODY_2|0
+alternate forms|JJ NNS|BODY_2|0
+the effectiveness|DT NN|BODY_5:BODY_4|0
+more than three or when|JJR IN CD CC WRB|BODY_5|0
+all units|DT NNS|BODY_5:BODY_3|0
+each subset p|DT NN NN|BODY_2|0
+combinatorial problems|JJ NNS|BODY_2|0
+eight corruptions|CD NNS|BODY_7|0
+overfitting|NN|BODY_11:BODY_3|0
+position -44|NN NNS|BODY_2|0
+all symbolic  methods|DT JJ IN NNS|BODY_2|0
+constraints|NNS|BODY_2|0
+the art|DT NN|BODY_10|0
+the result|DT NN|BODY_1|0
+t|NN|BODY_7|0
+the idea|DT NN|BODY_2:BODY_1|0
+the structure|DT NN|BODY_2|0
+these limitations|DT NNS|BODY_5:BODY_4|0
+one algorithmic|CD JJ|BODY_3|0
+minus35a|NN|BODY_2|0
+minus35b|NN|BODY_2:BODY_3|0
+the correct classification|DT JJ NN|BODY_4|0
+much more ac|RB JJR NN|BODY_10|0
+those earlier results|DT JJR NNS|BODY_2|0
+this case|DT NN|BODY_1:BODY_7|0
+mcdermott|NN|BODY_7|0
+the fact|DT NN|BODY_2|0
+other members|JJ NNS|BODY_7|0
+both human-inspection and further learning|DT NN CC JJ NN|BODY_4|0
+each training|DT NN|BODY_4|0
+each type|DT NN|BODY_2|0
+three links|CD NNS|BODY_7|0
+3 %|CD NN|BODY_9|0
+input features|NN NNS|BODY_3:BODY_4|0
+negatively-weighted links|JJ NNS|BODY_2:BODY_1|0
+propositional horn clauses|JJ NN NNS|BODY_6:BODY_4|0
+note|NN|BODY_1|0
+intelligible rules|JJ NNS|BODY_5:BODY_4|0
+knowledge-based neural networks|JJ JJ NNS|BODY_6:TITLE_2:BODY_4|0
+the correct theory|DT JJ NN|BODY_1:BODY_4|0
+an extreme form|DT JJ NN|BODY_2|0
+each problem|DT NN|BODY_2|0
+several well-known shortcomings|JJ JJ NNS|BODY_2|0
+the minus 10|DT NN CD|BODY_7|0
+the average size|DT JJ NN|BODY_3:BODY_7|0
+the fi n subsets|DT JJ NN NNS|BODY_2|0
+' subset|POS NN|BODY_2|0
+dna nucleotides|NN NNS|BODY_5:BODY_3|0
+agreement|NN|BODY_2|0
+most methods|RBS NNS|BODY_3:BODY_8|0
+228 original plus|CD JJ CC|BODY_4|0
+the knowledge|DT NN|BODY_11:BODY_2|0
+valuable evidence|JJ NN|BODY_3|0
+0.5|CD|BODY_4|0
+the rules refinable|DT NNS NN|BODY_6|0
+the extraction|DT NN|BODY_5:BODY_4|0
+record|NN|BODY_7|0
+the large steps|DT JJ NNS|BODY_4|0
+large shifts|JJ NNS|BODY_2:BODY_10|0
+these experiments|DT NNS|BODY_2:BODY_1|1
+a term oe|DT NN NN|BODY_7|0
+all member|DT NN|BODY_8|0
+human comprehensibility ( miller , 1956 ) but recall mofn|JJ NN -LRB- CD , CD -RRB- CC NN NN|BODY_5|0
+the cumulative effects|DT JJ NNS|BODY_2|0
+towell|NN|BODY_2:BODY_3|0
+the dna helix|DT NN NN|BODY_4|0
+that units|DT NNS|BODY_4|0
+a branch-and-bound algorithm|DT NN NN|BODY_5:BODY_3|0
+the left column|DT NN NN|BODY_2|0
+an interpretable set|DT JJ NN|BODY_5:BODY_2|0
+the utility|DT NN|BODY_5:BODY_2|0
+the two rule-extraction methods|DT CD NN NNS|BODY_6|0
+us|PRP|BODY_2|0
+those trees|DT NNS|BODY_1:BODY_3|0
+seven|CD|BODY_2|0
+mark craven|NN NN|BODY_3|0
+p|NN|BODY_5:BODY_2|0
+the information|DT NN|BODY_2:BODY_3|0
+these gains|DT NNS|BODY_2|0
+a powerful and general technique|DT JJ CC JJ NN|BODY_2|0
+a single layer|DT JJ NN|BODY_5:BODY_9|0
+these datasets|DT NNS|BODY_2:BODY_3|0
+the negative|DT JJ|BODY_9|0
+the symbolic methods|DT JJ NNS|BODY_1:BODY_3|0
+w a or t|RB DT CC NN|BODY_4|0
+a more expressive language|DT RBR JJ NN|BODY_7|0
+the superiority|DT NN|BODY_5:BODY_2|0
+this rule|DT NN|BODY_1:BODY_4|0
+robustness|NN|BODY_2|0
+the refined knowledge|DT JJ NN|ABSTRACT_1:BODY_4|0
+elimination|NN|BODY_2:BODY_1|0
+( a ) standard weight adjustment|-LRB- DT -RRB- JJ NN NN|BODY_3|0
+s|PRP|BODY_24|0
+prof. t. record|DT NN NN|BODY_5|0
+the approach|DT NN|BODY_6:BODY_2:BODY_1|1
+you|PRP|BODY_6:BODY_3|0
+1986|CD|BODY_8|0
+no improvement|DT NN|BODY_13|0
+about 300 rules|IN CD NNS|BODY_3:BODY_4|0
+promoter rules|NN NNS|BODY_3:BODY_4|0
+the authors|DT NNS|BODY_2|0
+loose clusters|JJ NNS|BODY_4:BODY_7|0
+rumelhart et|NNP NNP|BODY_12:BODY_3|0
+m-of-n rules|JJ NNS|BODY_5:BODY_3|0
+the initial rule sets|DT JJ NN NNS|BODY_1:BODY_7|0
+more|JJR|BODY_2:BODY_4|0
+a fine-grained representation|DT JJ NN|BODY_3|0
+a or|DT CC|BODY_3|0
+'s comment|POS NN|BODY_3|0
+department|NN|BODY_6|0
+our subset algorithm|PRP$ NN NN|BODY_1:BODY_3:BODY_4|0
+a ceiling|DT NN|BODY_2:BODY_3|0
+signals|NNS|BODY_5:BODY_2:BODY_9|0
+a parameter|DT NN|BODY_25|0
+classification|NN|BODY_14|0
+existing knowledge|VBG NN|ABSTRACT_5|0
+any other method|DT JJ NN|BODY_9|0
+the university|DT NN|BODY_6|0
+the rule-extraction process|DT NN NN|BODY_1:BODY_4|0
+improved network interpretability|JJ NN NN|BODY_3|0
+@-12|NN|BODY_4|0
+table 7|NN CD|BODY_3|0
+the training data|DT NN NNS|BODY_6:BODY_5:BODY_2|0
+the original rules|DT JJ NNS|BODY_3:BODY_8|0
+an individual rule and complexity|DT JJ NN CC NN|BODY_5|0
+letters|NNS|BODY_3|0
+dna sequence-analysis prob|NNP NN NN|BODY_6|0
+anonymous ftp|JJ NN|BODY_6|0
+national science foundation grant iri-9002413|JJ NN NN NN NN|BODY_5|0
+a or c or g h|DT CC NN CC VBG NN|BODY_6|0
+the theory|DT NN|BODY_5:BODY_3|0
+these rule-extraction algorithms|DT NN NNS|BODY_3|0
+ways|NNS|BODY_2:BODY_4|0
+4|CD|BODY_1:BODY_7:BODY_8|0
+molecular biology|JJ NN|BODY_10:BODY_4|0
+all group members|DT NN NNS|BODY_2|0
+specification|NN|BODY_2|0
+their training algorithm|PRP$ NN NN|BODY_3|0
+our rule-extraction method|PRP$ NN NN|BODY_6:BODY_3|0
+enough|RB|BODY_9|0
+a single link|DT JJ NN|BODY_5:BODY_3|0
+c or g y c or t k g or t v|NN CC VBG NN NN CC NN NN VBG CC NN NNS|BODY_5|0
+rules and examples|NNS CC NNS|BODY_3|0
+all weights|DT NNS|BODY_4|0
+the refinement|DT NN|ABSTRACT_4|0
+1.0 x nt(@-12|CD NN NN|BODY_1|0
+228 input units|CD NN NNS|BODY_2|0
+3.1 3.1 x|CD CD NN|BODY_1|0
+by inspection|IN NN|BODY_2|0
+every promoter|DT NN|BODY_2|0
+generalization|NN|BODY_2|0
+minus-35:-35 'ttd-ca '|CD JJ ''|BODY_2|0
+more than one rule|JJR IN CD NN|BODY_2|0
+no nucleotide|DT JJ|BODY_1|0
+nt(@-35 'a-c' )|CD JJ -RRB-|BODY_2|0
+our own|PRP$ JJ|BODY_2|0
+the final , m-of-n|DT JJ , JJ|BODY_1|0
+the optimal rule set|DT JJ NN NN|BODY_1|0
+the particular implementation|DT JJ NN|BODY_1|0
+the promoter network|DT NN NN|BODY_1|0
+this scan|DT NN|BODY_1|0
+'s rules|POS NNS|BODY_12:BODY_2:BODY_4:BODY_7|0
+aspects|NNS|BODY_2|0
+7 and 8|CD CC CD|BODY_3|0
+the first|DT JJ|BODY_5:BODY_1|0
+domain-specific knowledge|JJ NN|BODY_1:BODY_4|0
+2 ) time|CD -RRB- NN|BODY_4|0
+statistics|NNS|BODY_2|0
+a particular decision|DT JJ NN|BODY_3|0
+a or c or t|DT CC NN CC NN|BODY_7|0
+form groups|NN NNS|BODY_3|0
+4.1 datasets|CD NNS|BODY_3|0
+the meaning|DT NN|BODY_3|0
+2 fsword|CD NN|BODY_9|0
+stem|NN|BODY_8|0
+a or g or t b c|DT CC VBG CC NN NN NN|BODY_8|0
+the one|DT CD|BODY_2|0
+four|CD|BODY_4|0
+detailed corrections|JJ NNS|BODY_4|0
+these complications|DT NNS|BODY_4|0
+the monks problem|DT NNS NN|BODY_2|0
+position numbers|NN NNS|BODY_2|0
+'nucleotides|NNS|BODY_3|0
+nog holding|NN NN|BODY_8|0
+values|NNS|BODY_6|0
+acceptable alternatives|JJ NNS|BODY_4|0
+weight 1.1 and one|NN CD CC CD|BODY_6|0
+the|DT|BODY_5|0
+the question|DT NN|BODY_2|0
+( ourston & mooney|-LRB- NNP CC NN|BODY_3:BODY_7|0
+the theory revision literature ( e .g.|DT NN NN NN -LRB- NN NNP|BODY_2|0
+naval research grant n00014-90-j-1941|JJ NN NN NNS|BODY_4|0
+our system|PRP$ NN|BODY_2|0
+the most significant trend|DT RBS JJ NN|BODY_2|0
+the second step|DT JJ NN|ABSTRACT_2:BODY_2|0
+several conjunctive rules|JJ JJ NNS|BODY_3|0
+any sets|DT NNS|BODY_2|0
+the efficacy|DT NN|BODY_4|0
+a dna sequence|DT NN NN|BODY_6|0
+the experiments|DT NNS|BODY_1:BODY_3|0
+the fourth step|DT JJ NN|BODY_1:BODY_2|0
+o(u \theta l|NNP NNP NN|BODY_3|0
+presentation|NN|BODY_3|0
+problem|NN|BODY_3|0
+a step function|DT NN NN|BODY_5:BODY_4|0
+the second domain theory|DT JJ NN NN|BODY_1:BODY_4|0
+the first monk theory|DT JJ NN NN|BODY_6|0
+complexity|NN|BODY_4|0
+the conformation rules|DT NN NNS|BODY_1:BODY_2|0
+whole sets|JJ NNS|BODY_16:BODY_3|0
+protein creation|NN NN|BODY_11|0
+the time|DT NN|BODY_12:BODY_8|0
+flagg jacket-color 2|JJ NN CD|BODY_11|0
+the same importance|DT JJ NN|BODY_6|0
+our future research plans|PRP$ JJ NN NNS|BODY_2:BODY_8|0
+the overfitting hypothesis|DT JJ NN|BODY_4|0
+section 5|NN CD|BODY_1:BODY_3|0
+antecedent|NN|BODY_3|0
+our highly-accurate neural classifiers|PRP$ JJ JJ NNS|BODY_3|0
+the windowing procedure|DT NN NN|BODY_3|0
+a 60-nucleotide long dna sequence|DT JJ JJ NN NN|BODY_2|0
+the bottom|DT NN|BODY_2:BODY_3|0
+e .g.|NN NNP|BODY_6|0
+the fragment|DT NN|BODY_3|0
+the positively-weighted incoming links|DT JJ NN NNS|BODY_2|0
+that our method|DT PRP$ NN|BODY_5|0
+unit i|NN NN|BODY_23|0
+a standard clustering method|DT JJ VBG NN|BODY_4|0
+meanings|NNS|BODY_2|0
+section 3.4 )|NN CD -RRB-|BODY_2|0
+the i/e|DT NN|BODY_8|0
+the dataset|DT NN|BODY_13:BODY_1|0
+the fi p subsets|DT JJ NN NNS|BODY_3|0
+domain experts|NN NNS|BODY_9|0
+minus10|CD|BODY_3|0
+figure 2 )|NN CD -RRB-|BODY_5|0
+equation 1|NN CD|BODY_2:BODY_1|0
+matched antecedents|VBN NNS|BODY_4|0
+( c|-LRB- NN|BODY_12|0
+algorithms|NNS|BODY_2:BODY_7|0
+the combinatorics|DT NNS|BODY_1:BODY_3|0
+g or t|VBG CC NN|BODY_9|0
+figure 7|NN CD|BODY_2:BODY_1|0
+that links|IN NNS|BODY_8|0
+unnecessary antecedents|JJ NNS|BODY_2:BODY_4|0
+artificial problems|JJ NNS|BODY_2|0
+backpropagation ( rumelhart et|NN -LRB- NNP NNP|BODY_7|0
+a set distance ( mofn|DT NN NN -LRB- NN|BODY_4|0
+no pair|DT NN|BODY_2|0
+the bias |DT NN|BODY_22|0
+the input settings|DT NN NNS|BODY_3|0
+balloon|NN|BODY_10|0
+the total possible activation|DT JJ JJ NN|BODY_1:BODY_2|0
+a 1.5 kilobase sequence|DT CD NN NN|BODY_4|0
+hawley and mcclure|NN CC NN|BODY_3|0
+a tradeoff|DT NN|BODY_2|0
+weight space|NN NN|BODY_2|0
+a signal|DT NN|BODY_9|0
+2 fyes|CD NNS|BODY_7|0
+contiguous substrings|JJ NNS|BODY_3|0
+'t-t-aa-t-04|PRP|BODY_15|0
+this example|DT NN|BODY_1:BODY_3|0
+our three-link chain|PRP$ NN NN|BODY_2|0
+this search|DT NN|BODY_7|0
+1987|CD|BODY_5|0
+the domain theories|DT NN NNS|BODY_12:BODY_2|0
+additional low-weighted links|JJ JJ NNS|BODY_2|0
+little|JJ|ABSTRACT_3|0
+:-49 'a-t' , @-27 't-a-t-tg' , @-01 ' a '|CD JJ , JJ JJ , CC '' DT ''|BODY_17|0
+e .g. , b and c|NN NNP , NN CC NN|BODY_4|0
+our approach|PRP$ NN|BODY_1:BODY_3|0
+the knn.|DT NN|BODY_3:BODY_8:BODY_9|0
+500 times|CD NNS|BODY_11|0
+fisher & mckusick , 1989|NN CC NN , CD|BODY_4|0
+the choice|DT NN|BODY_6|0
+'|''|BODY_4|0
+accor- feature name|DT NN NN|BODY_6|0
+the code|DT NN|BODY_5:BODY_3|0
+u.c.-irvine available|JJ JJ|BODY_5|0
+o( (u \theta l|JJ NN NN NN|BODY_4|0
+practice|NN|BODY_2|0
+the logistic activation function|DT JJ NN NN|BODY_2|0
+equations 1 and 2|NNS CD CC CD|BODY_4|0
+f0|CD|BODY_6|0
+the equivalence classes|DT NN NNS|BODY_5:BODY_1|0
+a standard neural learning algorithm|DT JJ JJ NN NN|BODY_6|0
+a dead end|DT JJ NN|BODY_3|0
+the conformation hypothesis|DT NN NN|BODY_7|0
+three antecedents|CD NNS|BODY_12:BODY_9|0
+correct knn incorrect splice junction|JJ NN JJ NN NN|BODY_6|0
+their weight|PRP$ NN|BODY_10|0
+432 examples|CD NNS|BODY_3|0
+a or g|DT CC VBG|BODY_10|0
+conjunctive rules|JJ NNS|BODY_4:BODY_8|0
+lowly-weighted links|JJ NNS|BODY_5|0
+features|NNS|BODY_3|0
+the context|DT NN|BODY_7|0
+the full population|DT JJ NN|BODY_3|0
+comprehensibility|NN|BODY_13:BODY_8|0
+the training method|DT NN NN|BODY_2|0
+87 % 0.90 0.24 mofn|CD NN CD CD JJ|BODY_8|0
+1986 )|CD -RRB-|BODY_5:BODY_13:BODY_4|0
+the two biological rule and data sets|DT CD JJ NN CC NNS NNS|BODY_4|0
+a protein|DT NN|BODY_8|0
+subset rules|JJ NNS|BODY_2|0
+a series|DT NN|BODY_2|0
+t'|PRP|BODY_7|0
+our fifteen corruptions|PRP$ CD NNS|BODY_3|0
+others|NNS|BODY_5:BODY_4|0
+gentle decay|JJ NN|BODY_5|0
+the biological literature ( harley & reynolds|DT JJ NN -LRB- NN CC NNS|BODY_4|0
+hawley & mcclure|NN CC NN|BODY_6|0
+' t '|'' NN ''|BODY_16|0
+fa|NN|BODY_6|0
+classifiers|NNS|BODY_3|0
+network-to-rules translation|NNS NN|BODY_6|0
+the key|DT NN|BODY_2|0
+the relative improvement|DT JJ NN|BODY_5|0
+the  twist |DT JJ NN|BODY_3|0
+all but|DT CC|BODY_7|0
+169 )|CD -RRB-|BODY_2|0
+splice-junction determination|NN NN|BODY_2|0
+the simplification procedure|DT NN NN|BODY_3|0
+table|NN|BODY_5:BODY_3|0
+the tested algorithms|DT VBN NNS|BODY_2|0
+a single conjunctive rule|DT JJ JJ NN|BODY_2|0
+these signals|DT NNS|BODY_6|0
+( body-shape square|-LRB- NN NN|BODY_17|0
+( head-shape square )|-LRB- NN NN -RRB-|BODY_16|0
+strengths|NNS|BODY_4|0
+all implementations|DT NNS|BODY_2|0
+the elimination|DT NN|BODY_3|0
+dependencies|NNS|BODY_6:BODY_5|0
+a qualitative change|DT JJ NN|BODY_2|0
+a brief overview|DT JJ NN|BODY_2|0
+symbolic knowledge|JJ NN|BODY_5:ABSTRACT_3:BODY_4|0
+links |NNS|BODY_5|0
+these methods|DT NNS|BODY_1|0
+25 %|CD NN|BODY_7|0
+some enhancements|DT NNS|BODY_4|0
+user-specific|JJ|BODY_4|0
+the consequent|DT NN|BODY_3:BODY_9|0
+all symbolic  rule-refinement methods|DT JJ VB NN NNS|BODY_4|0
+a cluster|DT NN|BODY_3|0
+the exact number|DT JJ NN|BODY_3|0
+a ( w i|DT -LRB- NN NN|BODY_11|0
+minus-10|CD|BODY_11|0
+-b|NN|BODY_3:BODY_8|0
+omission|NN|BODY_4|0
+literature|NN|BODY_7|0
+a site|DT NN|BODY_2|0
+such rules|JJ NNS|BODY_3|0
+reduced overfitting|JJ NN|BODY_3|0
+thrun et al|NN NNP JJ|BODY_6:BODY_2|0
+the splice junction rules|DT NN NN NNS|BODY_3|0
+the bars|DT NNS|BODY_6|0
+the two problems|DT CD NNS|BODY_6:BODY_1|0
+spurious correlations|JJ NNS|BODY_4|0
+several|JJ|BODY_4|0
+simple networks|JJ NNS|BODY_3|0
+86 % 0.87 0.38 mofn 93 % 0.95 0.31 promoter subset|CD NN CD CD JJ CD NN CD CD NN RB|BODY_7|0
+superior rules|JJ NNS|BODY_6|0
+the other steps|DT JJ NNS|BODY_2|0
+these minimal subsets|DT JJ NNS|BODY_3|0
+a standard neural network|DT JJ JJ NN|BODY_7|0
+a ' t|DT '' NN|BODY_3|0
+a ( 2 )|DT -LRB- CD -RRB-|BODY_12|0
+two paths|CD NNS|BODY_2|0
+a plethora|DT NN|BODY_3|0
+the derived features|DT VBN NNS|BODY_1:BODY_4|0
+his construction|PRP$ NN|BODY_3|0
+that mofn|DT NN|BODY_6|0
+a dna nucleotide|DT NN JJ|BODY_8|0
+a ' g'|DT `` NNS|BODY_2|0
+these measures|DT NNS|BODY_2:BODY_4|1
+2 exceptions|CD NNS|BODY_4|0
+fu|NN|BODY_1:BODY_8|0
+future work|JJ NN|BODY_2|0
+the kinds|DT NNS|BODY_7|0
+the conditions|DT NNS|BODY_8|0
+a sequence|DT NN|BODY_9|0
+both methods|DT NNS|BODY_1:BODY_3|0
+position 8|NN CD|BODY_4|0
+a broader range|DT JJR NN|BODY_2|0
+rule refinement|NN NN|BODY_5|0
+namely weight matrices|RB NN NNS|BODY_5|0
+a small cost|DT JJ NN|BODY_7|0
+present results|JJ NNS|BODY_2|0
+these figures|DT NNS|BODY_3|0
+step|NN|BODY_4|0
+training and testing methodology|NN CC NN NN|BODY_1|0
+classifying testing examples|JJ NN NNS|BODY_6:BODY_5:BODY_3|1
+the clustered network|DT VBN NN|BODY_3|0
+minus35d|NN|BODY_3|0
+five corruptions|CD NNS|BODY_5|0
+a standard|DT NN|BODY_3|0
+only a subset|RB DT NN|BODY_8|0
+the topology|DT NN|BODY_4|0
+labels|NNS|BODY_3|0
+antecedents ( n 2 f1|NNS -LRB- NN CD CD|BODY_6:BODY_4|0
+the subsets|DT NNS|BODY_3|0
+the weights|DT NNS|BODY_2|0
+particular|JJ|BODY_1|0
+53 sample promoters|CD NN NNS|BODY_3|0
+the shift|DT NN|BODY_3|0
+their tendency|PRP$ NN|BODY_4|0
+within 0.20|IN CD|BODY_7|0
+weight and biases|NN CC NNS|BODY_4|0
+the input/output behavior|DT NN NN|BODY_2|0
+those obtained|DT VBN|BODY_4|0
+a domain theory|DT NN NN|BODY_2:BODY_4:BODY_7|0
+each rule-extraction method|DT NN NN|BODY_4|0
+a close approximation|DT JJ NN|BODY_10|1
+nessier & weene|NN CC NN|BODY_5|0
+related research|JJ NN|BODY_2|0
+the reuse|DT NN|BODY_5|0
+these sets|DT NNS|BODY_2|0
+this abbreviated set|DT VBN NN|BODY_2|0
+trained neural networks &semi|VBN JJ NNS RB|ABSTRACT_17|0
+the negatively-weighted links|DT JJ NNS|BODY_4|0
+the relative strengths and weaknesses|DT JJ NNS CC NNS|BODY_5|0
+21 rules|CD NNS|BODY_6|0
+m-of-n style rules|JJ NN NNS|BODY_7|0
+zero or one|CD CC CD|BODY_6|0
+the number and connectivity|DT NN CC NN|BODY_7|0
+np-complete ( judd|JJ -LRB- NN|BODY_11|0
+the empirical learning algorithm|DT JJ NN NN|BODY_5|1
+negative and positive antecedents|JJ CC JJ NNS|BODY_7|0
+an excellent method|DT JJ NN|BODY_8|0
+the state|DT NN|BODY_9|0
+neurally-based|JJ|BODY_5:BODY_7|0
+the weighted sum|DT JJ NN|BODY_4|0
+n \theta u \theta l ) time|NN NNP PRP NNP NN -RRB- NN|BODY_12|0
+a bias|DT NN|BODY_12:BODY_4|0
+the points|DT NNS|BODY_5|0
+all training examples|DT NN NNS|BODY_6|0
+the example|DT NN|BODY_6|0
+e|NN|BODY_8|0
+the 1 units|DT CD NNS|BODY_6|0
+actions|NNS|BODY_6|0
+one case|CD NN|BODY_5:BODY_3|0
+both our approach|DT PRP$ NN|BODY_4|0
+the 'subset|DT NN|BODY_3|0
+weighted connections|JJ NNS|BODY_4|0
+the set|DT NN|BODY_1:BODY_3|0
+even a single required antecedent|RB DT JJ JJ NN|BODY_3|0
+one problem|CD NN|BODY_5|0
+the real-world|DT NN|BODY_6:BODY_4|0
+office|NN|BODY_3|0
+( has-tie yes)|-LRB- NN NN|BODY_12:BODY_7|0
+our rule-extraction procedure|PRP$ NN NN|BODY_5|0
+towell & shavlik|NN CC NN|BODY_2|0
+two circumstances|CD NNS|BODY_2|0
+promoter recognition and splice-junction determination|NN NN CC NN NN|BODY_2|0
+whose weight|WP$ NN|BODY_5|0
+seven incoming links|CD JJ NNS|BODY_7|0
+this paper presents|DT NN NNS|BODY_2|0
+their approach|PRP$ NN|BODY_3|0
+50 %|CD NN|BODY_3|0
+its use|PRP$ NN|BODY_6|0
+a less|DT JJR|BODY_4|0
+some way|DT NN|BODY_2|0
+the net-work|DT NN|BODY_10|0
+mofn the complexity|RB DT NN|BODY_2|0
+several useless antecedents|JJ JJ NNS|BODY_3|0
+the relative superiority|DT JJ NN|BODY_2|0
+e .g. , ourston & mooney|NN NNP , NNP CC NN|BODY_4|0
+each consequent|DT NN|BODY_8|0
+positively-weighted links|JJ NNS|BODY_4|0
+several shortcom|JJ NN|BODY_4|0
+understandable (|JJ -LRB-|BODY_3|0
+rule|NN|BODY_4|0
+the same trials|DT JJ NNS|BODY_4|0
+nakano limited rules|RB JJ NNS|BODY_4|0
+the other hand|DT JJ NN|BODY_1|0
+a trained ann|DT JJ NN|BODY_5|0
+an abstracted version|DT JJ NN|BODY_2|0
+figure 2a|NN CD|BODY_2|0
+membership|NN|BODY_4|0
+non-input units|JJ NNS|BODY_5|0
+the situations|DT NNS|BODY_2|0
+the value|DT NN|BODY_2|0
+the development|DT NN|BODY_4|0
+decision trees|NN NNS|BODY_6|0
+the group|DT NN|BODY_4:BODY_9|0
+many more rules|JJ RBR NNS|BODY_2:BODY_3|0
+the input features|DT NN NNS|BODY_1:BODY_2|0
+just one output unit|RB CD NN NN|BODY_4|0
+the splice-junction domain|DT NN NN|BODY_2:BODY_8|0
+'s rule sets|POS NN VBZ|BODY_8|0
+the commonly-used logistic activation function|DT JJ JJ NN NN|BODY_3|0
+the hierarchical structure|DT JJ NN|BODY_2|0
+each antecedent|DT NN|BODY_5|0
+1000 examples|CD NNS|BODY_4|0
+each example presentation|DT NN NN|BODY_2|0
+ourston|NNP|BODY_3|0
+the rule extraction methods|DT NN NN NNS|BODY_2|1
+these properties|DT NNS|BODY_2|0
+many handcrafted expert systems|JJ VBN JJ NNS|BODY_5|0
+rna polymerase|NN NN|BODY_4|0
+propositional rules|JJ NNS|BODY_10:BODY_7|0
+the chain|DT NN|BODY_2|0
+( e .g. ,  @3|-LRB- NN NNP , NNP CC|BODY_12|0
+the expression|DT NN|BODY_4|0
+these and other differences|DT CC JJ NNS|BODY_5|0
+99.5 % confidence|CD NN NN|BODY_4|0
+this property|DT NN|BODY_2|0
+training and testing set performance|NN CC NN VBN NN|BODY_2|0
+the boundaries|DT NNS|BODY_5|0
+figure 8|NN CD|BODY_4|0
+ten trials|CD NNS|BODY_2|0
+the dead end|DT JJ NN|BODY_2|0
+step b.1|NN NNS|BODY_3|0
+a ' a '|DT '' DT ''|BODY_5|0
+the minus35 and minus10 regions|DT CD CC CD NNS|BODY_6|0
+only 86 %|RB CD NN|BODY_11|0
+ambiguity codes|NN NNS|BODY_2|0
+1992|CD|BODY_6|0
+noordewier|NN|BODY_8:BODY_9|0
+' dna|POS NN|BODY_9|0
+each domain|DT NN|BODY_2|0
+two measures|CD NNS|BODY_3|0
+8 present|CD NN|BODY_2|0
+the 'symbolic|DT JJ|BODY_6|0
+only 40 %|RB CD NN|BODY_7|0
+the trained networks|DT JJ NNS|BODY_5|0
+rule-refinement methods|NN NNS|BODY_4|0
+whether or not|IN CC RB|BODY_6|0
+our initial efforts|PRP$ JJ NNS|BODY_2|0
+general comments|JJ NNS|BODY_5|0
+support|NN|BODY_3|0
+j inputs|NN NNS|BODY_6:BODY_9|0
+k|NN|BODY_7|0
+the nature|DT NN|BODY_7|0
+all outputs|DT NNS|BODY_3|0
+four links|CD NNS|BODY_5|0
+simplification rewrites|NN VBZ|BODY_3|0
+a brief discussion|DT JJ NN|BODY_3|0
+the center|DT NN|BODY_5:BODY_1|0
+93 %|CD NN|BODY_7|0
+' i|POS NN|BODY_21|0
+minimal 'negative ' subsets|JJ JJ '' NNS|BODY_5|0
+the protein rna polymerase binds|DT NN NN NN NNS|BODY_3|0
+the probability|DT NN|BODY_3|0
+extraction percent knn|NN NN NN|BODY_3|0
+hierarchical rule sets|JJ NN NNS|BODY_2|0
+both figures|DT NNS|BODY_2|0
+a i|DT NN|BODY_13|0
+fully-connected randomly-initialized neural network|JJ JJ JJ NN|BODY_8|0
+:-47 'caa-tt-ac' , @-22 'g-t-c' , @-08 'gcgcc-cc'|CD JJ , JJ JJ , CD ,|BODY_18|0
+the collection|DT NN|BODY_3|0
+z.|NN|BODY_2|0
+c or t problem|NN CC NN NN|BODY_11|0
+learning|NN|BODY_3|0
+prior knowledge|JJ NN|BODY_2|0
+the sequence vector|DT NN NN|BODY_7|0
+not three|RB CD|BODY_8|0
+e .g. , berenji , 1991 )|NN FW , FW , CD -RRB-|BODY_10|0
+the averaging and elimination procedures|DT NN CC NN NNS|BODY_4|0
+additional predictions|JJ NNS|BODY_3|0
+exons (|NNS -LRB-|BODY_6|0
+pseudocode|NN|BODY_2|0
+boundary|NN|BODY_4|0
+'a-a'|JJ|BODY_14|0
+'aaacaaaaa '|JJ ''|BODY_6|0
+specifying locations|JJ NNS|BODY_5|0
+cycles|NNS|BODY_2|0
+mofn.|NN|BODY_6:BODY_5|0
+all links|DT NNS|BODY_5|0
+pruning|NN|BODY_3|0
+some natural  language|DT JJ NNS NN|BODY_3|0
+the most significant|DT RBS JJ|BODY_3|0
+this binding|DT NN|BODY_6|0
+clustering links|VBG NNS|BODY_3|0
+a target concept|DT NN NN|BODY_3|0
+any promoter sites|DT NN NNS|BODY_6|0
+only four|RB CD|BODY_4|0
+their empirically proven abilities|PRP$ RB VBN NNS|ABSTRACT_2|0
+machine learning methods|NN NN NNS|BODY_2|0
+a strong indicator|DT JJ NN|BODY_5|0
+the particular links|DT JJ NNS|BODY_8|0
+unaddressed questions|JJ NNS|BODY_4|0
+the trials|DT NNS|BODY_2|0
+possible using real-world domains|JJ VBG NN NNS|BODY_4|0
+any two nucleotides|DT CD NNS|BODY_3|0
+individual antecedents ( links|JJ NNS -LRB- NNS|BODY_5|0
+includes|VBZ|BODY_7|0
+low-weight links|JJ NNS|BODY_3|0
+the limits|DT NNS|BODY_4|0
+the standard weight change|DT JJ NN NN|BODY_6|0
+the methods|DT NNS|BODY_2|0
+yellow , green , blueg the features and values|JJ , JJ , JJ DT NNS CC VBZ|BODY_12|0
+244 features|CD NNS|BODY_3|0
+15 rules|CD NNS|BODY_4|0
+no signal|DT NN|BODY_11|0
+seven following|CD NN|BODY_4|0
+) every example|-RRB- DT NN|BODY_10|0
+the input|DT NN|BODY_4|0
+the calculation|DT NN|BODY_8|0
+u|PRP|BODY_5|0
+the strengths|DT NNS|BODY_5|0
+a simple 2-of-3 concept|DT JJ JJ NN|BODY_3|0
+a straightforward manner|DT JJ NN|BODY_3|0
+|WDT|BODY_6|0
+plots|NNS|BODY_6|0
+the first method|DT JJ NN|BODY_3|0
+classified training examples|JJ NN NNS|BODY_5|0
+the issues|DT NNS|BODY_2|0
+machine|NN|BODY_3|0
+the rule 4|DT NN CD|BODY_2|0
+the distance|DT NN|BODY_3|0
+the categorization|DT NN|BODY_6|0
+commission|NN|BODY_5|0
+specially-configured networks|JJ NNS|BODY_3|0
+koudelka et al.|FW FW FW|BODY_8|0
+( pazzani|-LRB- NNS|BODY_5|0
+the three-link chain|DT NN NN|BODY_2|0
+saito and nakano ( 1988 )|NN CC NN -LRB- CD -RRB-|BODY_7|0
+method agreement|NN NN|BODY_5|0
+( koudelka et al.|-LRB- FW FW FW|BODY_8|0
+our plans|PRP$ NNS|BODY_4|0
+the desired output activation|DT VBN NN NN|BODY_8|0
+no system|DT NN|BODY_3|0
+translates|NNS|BODY_3|0
+a previously reported approach|DT RB VBN NN|BODY_5|0
+a special notation|DT JJ NN|BODY_4|0
+61 %|CD NN|BODY_4|0
+important|JJ|BODY_2|0
+this generalization|DT NN|BODY_5|0
+this concept|DT NN|BODY_1|0
+number locations|NN NNS|BODY_2|0
+the languages|DT NNS|BODY_9|0
+each domain theory|DT NN NN|BODY_5|0
+negative training examples|JJ NN NNS|BODY_2|0
+' t|'' NN|BODY_5|0
+a given sequence|DT VBN NN|BODY_3|0
+rule-extraction techniques|NN NNS|BODY_2|0
+names|NNS|BODY_10|0
+michiel noordewier|JJ NN|BODY_2|0
+either maximally active ( i .e|DT RB JJ -LRB- FW FW|BODY_7|0
+a real-numbered output|DT VBN NN|BODY_7|0
+the success rate|DT NN NN|BODY_2|0
+each training example|DT NN NN|BODY_2|0
+symbolic methods|JJ NNS|BODY_4|0
+arbitrary values|JJ NNS|BODY_2|0
+a )|DT -RRB-|BODY_5|0
+the paths|DT NNS|BODY_4|0
+representation|NN|BODY_4|0
+its output language|PRP$ NN NN|BODY_4|0
+:-45|CD|BODY_12|0
+minus-35|CD|BODY_10|0
+more than five rules|JJR IN CD NNS|BODY_6|0
+a space|DT NN|BODY_5|0
+99 % 0.99 0.10 rate|CD NN CD CD NN|BODY_9|0
+the top|DT NN|BODY_14|0
+importance|NN|BODY_3|0
+the combinatorial and presentation problems|DT JJ CC NN NNS|BODY_6|0
+shavlik|NN|BODY_5|0
+domain-specific inference rules|JJ NN NNS|BODY_3|0
+nucleotides|NNS|BODY_10|0
+detailed explanations|JJ NNS|BODY_3|0
+the following three rules|DT VBG CD NNS|BODY_5|0
+( holding sword|-LRB- NN NN|BODY_5:BODY_10|0
+yes ) ( holding sword|RB -RRB- -LRB- NN NN|BODY_5|0
+'s problem|POS NN|BODY_2|0
+the cost|DT NN|BODY_3|0
+the final minus10 rule|DT JJ CD NN|BODY_2|0
+the units|DT NNS|BODY_6|0
+a trained knn.|DT JJ NN|BODY_4|0
+all link weights|DT NN NNS|BODY_1|0
+artificial intelligence|JJ NN|ABSTRACT_4|0
+briefly|NN|BODY_1|0
+neural learning|JJ NN|BODY_4|0
+the backpropagation algorithm|DT NN NN|BODY_4|0
+the restriction enzyme haeiii|DT NN NN NNS|BODY_4|0
+the rule-extraction technique|DT NN NN|ABSTRACT_1|0
+this paper sheds light|DT NN NNS NN|BODY_1|0
+this sequence|DT NN|BODY_1|0
+reasonably-sized sets|JJ NNS|BODY_4|0
+two clauses|CD NNS|BODY_3|0
+a language bias|DT NN NN|BODY_6|0
+no |DT|BODY_5|0
+a small collection|DT JJ NN|BODY_5|0
+1989 )|CD -RRB-|BODY_7|0
+classifying training examples|JJ NN NNS|BODY_4|0
+standard ambiguity codes|JJ NN NNS|BODY_2|0
+altered networks|VBN NNS|BODY_2|0
+two subtasks|CD NNS|BODY_2|0
+a clear picture|DT JJ NN|BODY_2|0
+fi p ( 1 rules|JJ NN -LRB- CD NNS|BODY_2|0
+a rule-refinement algorithm|DT NN NN|BODY_5|0
+the above assumptions|DT JJ NNS|BODY_2|0
+gradations|NNS|BODY_3|0
+sutton|NN|BODY_4|0
+the suggestion|DT NN|BODY_2|0
+neural learning algorithms|JJ NN NNS|BODY_3|0
+the first three steps|DT JJ CD NNS|BODY_2|0
+a variant|DT NN|BODY_9|0
+these results|DT NNS|BODY_1|0
+the more significant limitations|DT RBR JJ NNS|BODY_2|0
+the work|DT NN|BODY_5|0
+the consequents|DT NNS|BODY_7|0
+symbolic rule-refinement systems|JJ NN NNS|BODY_6|0
+these algorithms|DT NNS|BODY_2|0
+the times|DT NNS|BODY_3|0
+all symbolic  method|DT JJ NN NN|BODY_3|0
+all subsets|DT NNS|BODY_4|0
+only the positively-weighted links|RB DT JJ NNS|BODY_4|0
+the real- world|DT JJ NN|BODY_3|0
+( head-shape round ) and ( body-shape round|-LRB- NN NN -RRB- CC -LRB- NN NN|BODY_14|0
+fi p|JJ NN|BODY_2:BODY_4|0
+conjunctions|NNS|BODY_3|0
+( stormo|-LRB- NN|BODY_6|0
+more than 400 rules|JJR IN CD NNS|BODY_3|0
+76.3 %|CD NN|BODY_2|0
+the previous papers|DT JJ NNS|BODY_6|0
+a new branch-and-bound search|DT JJ JJ NN|BODY_3|0
+the lines|DT NNS|BODY_6|0
+10-fold cross-validation ( weiss & kulikowski|JJ NN -LRB- NNP CC NN|BODY_5|0
+one ) or inactive (|CD -RRB- CC JJ -LRB-|BODY_9|0
+two orders|CD NNS|BODY_6|0
+other neural networks|JJ JJ NNS|BODY_3|0
+validating and refining real-world (|VBG CC VBG NN -LRB-|BODY_6|0
+interpretability|NN|BODY_4|0
+( m|-LRB- NN|BODY_7|0
+5g )|JJ -RRB-|BODY_8:BODY_9|0
+the input values|DT NN NNS|BODY_11|0
+a:|NN|BODY_9|0
+accurately|RB|BODY_7|0
+39 %|CD NN|BODY_12|0
+the generality|DT NN|BODY_4|0
+generalization ( e .g. , quinlan , 1987 )|NN -LRB- NN NNP , NN , CD -RRB-|BODY_13|0
+the difficulty|DT NN|BODY_3|0
+section 6|NN CD|BODY_3|0
+4 illustrates|CD VBZ|BODY_3|0
+gene transcription|NN NN|BODY_5|0
+only the ability|RB DT NN|BODY_2|0
+our contentions|PRP$ NNS|BODY_3|0
+'s ( 1989 ) patience  metric|POS -LRB- CD -RRB- NN NN JJ|BODY_3|0
+9 and 10|CD CC CD|BODY_3|0
+a given location|DT VBN NN|BODY_3|0
+a whole rule set|DT JJ NN NN|BODY_3|0
+any nucleotide|DT NN|BODY_3|0
+consensus sequences|NN NNS|BODY_1|0
+few members|JJ NNS|BODY_3|0
+global statistics|JJ NNS|BODY_1|0
+positive examples|JJ NNS|BODY_1|0
+pruning efforts|VBG NNS|BODY_1|0
+such groups|JJ NNS|BODY_1|0
+test set performance|NN VBN NN|BODY_3|0
+the last termination criterion|DT JJ NN NN|BODY_1|0
+the rule specifications|DT NN NNS|BODY_1|0
+the sixth , and final|DT JJ , CC JJ|BODY_1|0
+the transcribed gene|DT JJ NN|BODY_3|0
+these seven cases|DT CD NNS|BODY_1|0
+weights and thresholds|NNS CC NNS|BODY_3|0
+an artificial domain|DT JJ NN|BODY_3|0
+a black-boxish knn|DT JJ NN|BODY_4|0
+additional consideration|JJ NN|BODY_4|0
+subset match|NN NN|BODY_10|0
+discov-|NNS|BODY_12|0
+a consequent|DT JJ|BODY_3|0
+positive numbers|JJ NNS|BODY_7|0
+junction data|NN NNS|BODY_3|0
+the 106 examples|DT CD NNS|BODY_5|0
+a population|DT NN|BODY_2|0
+mozer and smolensky|NN CC NN|BODY_4|0
+work|NN|BODY_4|1
+n|NN|BODY_13|0
+occurs|VBZ|BODY_3|0
+this hypothesis|DT NN|BODY_1:BODY_3|0
+randomly-weighted anns|JJ NNS|BODY_4|0
+data|NNS|BODY_3|0
+the robustness|DT NN|BODY_5|0
+table 3|NN CD|BODY_4|0
+a positive subset|DT JJ NN|BODY_6|0
+fi p 'positive ' subsets|JJ NN JJ '' NNS|BODY_5|0
+neural representations|JJ NNS|BODY_2|0
+whose solution|WP$ NN|BODY_5|0
+the total incoming activation|DT JJ NN NN|BODY_7|0
+this generalization ability|DT JJ NN|BODY_2|0
+two very artificial problems|CD RB JJ NNS|BODY_4|0
+their bias|PRP$ NN|BODY_6|0
+disjunctive rules results|JJ NNS NNS|BODY_4|0
+the minus-10 rules|DT JJ NNS|BODY_2|0
+a sufficiently-rich vocabulary|DT JJ NN|BODY_5|0
+the 25 algorithms|DT CD NNS|BODY_5|0
+'superfluous|JJ|BODY_8|0
+cluster elimination|NN NN|BODY_11|0
+each link|DT NN|BODY_4|0
+( 1|-LRB- CD|BODY_4|0
+an extremely difficult task|DT RB JJ NN|BODY_2|0
+the mofn procedure|DT NN NN|BODY_8|0
+this tests|DT NNS|BODY_1|0
+errors|NNS|BODY_8|0
+a detailed description|DT JJ NN|BODY_4|0
+the basic processing elements|DT JJ NN NNS|BODY_7|0
+'s threshold (|POS NN -LRB-|BODY_8|0
+a much clearer statement|DT JJ JJR NN|BODY_7|0
+symbolic and neural representations|JJ CC JJ NNS|BODY_4|0
+the left|DT NN|BODY_4|0
+concise|NN|BODY_3|0
+the average number|DT JJ NN|BODY_8|0
+splice junctions|NN NNS|BODY_4|0
+a sea|DT NN|BODY_5|0
+that rule|WDT NN|BODY_11|0
+the levels|DT NNS|BODY_2|0
+a single unit|DT JJ NN|BODY_6|0
+both errors|DT NNS|BODY_3|0
+testing examples|NN NNS|BODY_3|0
+the smallest|DT JJS|BODY_7|0
+the same answers|DT JJ NNS|BODY_6|0
+the summed weight|DT VBN NN|BODY_9|0
+the groups|DT NNS|BODY_4|0
+all other systems|DT JJ NNS|BODY_4|0
+these three types|DT CD NNS|BODY_2|0
+their method|PRP$ NN|BODY_1|0
+matching 3 , 4 , 5|VBG CD , CD , CD|BODY_10|0
+the kbann rules-to-network translator|DT NN NN NN|BODY_2|0
+hydrogen bonds|NN NNS|BODY_6|0
+the biases|DT NNS|BODY_5|0
+no domain theory|DT NN NN|BODY_9|0
+approximately 25 %|RB CD NN|BODY_5|0
+an acceptable tradeoff|DT JJ NN|BODY_5|0
+study|NN|BODY_6|0
+our rule-extraction algorithm|PRP$ NN NN|BODY_5|0
+two real-world learning problems|CD NN NN NNS|BODY_3|0
+addresses|NNS|BODY_5|0
+a shift|DT NN|BODY_3|0
+the tests|DT NNS|BODY_2|0
+splicing ) and introns|NN -RRB- CC NNS|BODY_10|0
+the parts|DT NNS|BODY_12:BODY_8|0
+a single antecedent|DT JJ NN|BODY_2|0
+any effect|DT NN|BODY_5|0
+ consensus sequences|NN NN NNS|BODY_10|0
+symbolic rules|JJ NNS|ABSTRACT_2|0
+a great increase|DT JJ NN|BODY_5|0
+the properties|DT NNS|BODY_5|0
+figure 1|NN CD|BODY_3|0
+one domain|CD NN|BODY_4|0
+the 25 systems|DT CD NNS|BODY_5|0
+the six 7|DT CD CD|BODY_4|0
+a concern|DT NN|BODY_2|0
+m-of-n concepts|JJ NNS|BODY_6|0
+pratt et al|NN FW JJ|BODY_4|0
+the disjunction|DT NN|BODY_5|0
+about a 25 % error rate|IN DT CD NN NN NN|BODY_4|0
+fidelity|NN|BODY_1|0
+links and units|NNS CC NNS|BODY_5|0
+( 1 )|-LRB- CD -RRB-|BODY_3|0
+the relationship ( robin isa bird isa animal|DT NN -LRB- NN NN NN NN NN|BODY_3|0
+a previous algorithm|DT JJ NN|BODY_3|0
+the best reported method|DT JJS VBN NN|BODY_4|0
+researchers|NNS|BODY_4|0
+the rule set|DT NN NN|BODY_1:BODY_9|0
+ symbolic  machine learning|JJ JJ JJ NN NN|BODY_8|0
+' method|POS NN|BODY_4|0
+consequents|NNS|BODY_6|0
+the biological community|DT JJ NN|BODY_4|0
+the middle|DT NN|BODY_4|0
+weight 1.1|NN CD|BODY_3|0
+25 repetitions|CD NNS|BODY_3|0
+the cross-entropy error function ( hinton , 1989 )|DT JJ NN NN -LRB- NN , CD -RRB-|BODY_4|0
+all cases|DT NNS|BODY_3|0
+the performance|DT NN|BODY_4|0
+this general approach|DT JJ NN|BODY_2|0
+the function number-true returns|DT NN JJ NNS|BODY_2|0
+the knn corresponds|DT NN NNS|BODY_2|0
+three categories|CD NNS|BODY_2|0
+neural-network training algorithm|NN NN NN|BODY_3|0
+backpropagation-trained neural networks|JJ JJ NNS|BODY_2|0
+input|NN|BODY_3|0
+an ' a ' 45 nucleotides|DT '' DT '' CD NNS|BODY_6|0
+the truth value|DT NN NN|BODY_7|0
+the bias-optimization phase|DT NN NN|BODY_4|0
+the algorithms|DT NNS|BODY_2|0
+a large body|DT JJ NN|BODY_6|0
+no way|DT NN|BODY_6|0
+input units|NN NNS|BODY_4|0
+correct theories|JJ NNS|BODY_3|0
+the mathematics|DT NNS|BODY_3|0
+the neural networks|DT JJ NNS|BODY_4|0
+various points|JJ NNS|BODY_6|0
+the remaining network|DT VBG NN|BODY_7|0
+differences|NNS|BODY_8|0
+the first rule|DT JJ NN|BODY_2|0
+the bases|DT NNS|BODY_4|0
+an understanding|DT NN|BODY_3|0
+the splice|DT NN|BODY_2|0
+training networks|NN NNS|BODY_3|0
+the training process|DT NN NN|BODY_3|0
+the symbolic knowledge|DT JJ NN|BODY_7|0
+ffl domain theories|NN NN NNS|BODY_4|0
+that insight|DT NN|BODY_2|0
+ten repetitions|CD NNS|BODY_4|0
+places|NNS|BODY_7|0
+the correct domain theory|DT JJ NN NN|BODY_6|0
+changes|NNS|BODY_3|0
+a broad range|DT JJ NN|BODY_9|0
+mofn acts|JJ NNS|BODY_2|0
+techniques|NNS|BODY_4|0
+different methods|JJ NNS|BODY_2|0
+its action|PRP$ NN|BODY_7|0
+combinations|NNS|BODY_10|0
+a theory|DT NN|BODY_7|0
+either mofn|DT NN|BODY_7|0
+a knowledge base|DT NN NN|BODY_2|0
+those groups|DT NNS|BODY_5|0
+the following n antecedents|DT VBG NN NNS|BODY_8|0
+47 % percent|CD NN NN|BODY_15|0
+not z|RB FW|BODY_3|0
+a knowledge-free start|DT JJ NN|BODY_3|0
+which point|WDT NN|BODY_4|0
+size|NN|BODY_1:BODY_7|0
+two distinct sets|CD JJ NNS|BODY_3|1
+all symbolic  approaches|DT JJ NN NNS|BODY_6|0
+the occasional superiority|DT JJ NN|BODY_10|0
+exactly what|RB WP|BODY_4|0
+that positive subset|DT JJ NN|BODY_9|0
+symbolic learning algorithms|JJ VBG NNS|BODY_5|0
+gain control|NN NN|BODY_2|0
+id3|NNS|BODY_10|0
+place|NN|BODY_2|0
+that subset algorithms|DT NN NNS|BODY_3|0
+this suggestion|DT NN|BODY_2|0
+approximately the same number|RB DT JJ NN|BODY_5|0
+the cross-validation study|DT NN NN|BODY_4|0
+the standard weight adjustment|DT JJ NN NN|BODY_2|0
+2. set link weights|. VBN NN NNS|BODY_1|0
+table 6 shows|NN CD NNS|BODY_2|0
+the splice junction problem|DT NN NN NN|BODY_3|0
+fewer links|JJR NNS|BODY_5|0
+every rule|DT NN|BODY_2|0
+three  symbolic  algorithms|CD JJ JJ JJ NNS|BODY_6|0
+c4.5 ( quinlan|CD -LRB- NN|BODY_1:BODY_9|0
+an |DT|BODY_2|0
+a post-pruning method|DT JJ NN|BODY_8|0
+the mofn approach|DT JJ NN|BODY_14|0
+fewer rules|JJR NNS|BODY_4|0
+members|NNS|BODY_4|0
+its ability|PRP$ NN|BODY_6|0
+the inductive bias|DT JJ NN|BODY_5|0
+comments|NNS|BODY_1|0
+the three anonymous reviewers|DT CD JJ NNS|BODY_5|0
+initial rules|JJ NNS|BODY_6|0
+a significant effect|DT JJ NN|BODY_3|0
+the quality|DT NN|BODY_5|0
+error rates|NN NNS|BODY_3|0
+an order|DT NN|BODY_3|0
+two problems|CD NNS|BODY_8|0
+3190 examples|CD NNS|BODY_3|0
+the positive subset|DT JJ NN|BODY_10|0
+different network training methods|JJ NN NN NNS|BODY_6|0
+bochereau and bourgine ( 1990|NN CC NN -LRB- CD|BODY_7|0
+the link weights|DT NN NNS|BODY_2|0
+any bearing|DT NN|BODY_7|0
+flaws|NNS|BODY_7|0
+the standard error function|DT JJ NN NN|BODY_11|0
+3.5 subset and mofn|CD NN CC NN|BODY_1|0
+a link|DT NN|BODY_18|0
+w i ;j|NN NN IN|BODY_16|0
+'s chemistry department|POS NN NN|BODY_8|0
+a three-step process|DT JJ NN|ABSTRACT_7|0
+code meaning code meaning code meaning m|NN NN NN NN NN NN NN|BODY_1|0
+every training example|DT NN NN|BODY_16|0
+feedforward neural networks|NN JJ NNS|BODY_11|0
+fg02-91er61129|CD|BODY_8|0
+hinton|NN|BODY_1|0
+the sigmoid|DT NN|BODY_27|0
+@-12 '-rb-s' )|NN JJ -RRB-|BODY_6|0
+short dna sequences|JJ NN NNS|BODY_2|0
+units and l|NNS CC NN|BODY_7|0
+purely conjunctive rules|RB JJ NNS|BODY_2|0
+a large number|DT JJ NN|BODY_5|0
+our experience|PRP$ NN|BODY_5|0
+g -' )|JJ JJ -RRB-|BODY_3|0
+50 nucleotides|CD NNS|BODY_3|0
+the teaching dimension ( goldman & kearns|DT VBG NN -LRB- NN CC VBZ|BODY_3|0
+the first set|DT JJ NN|BODY_1|0
+neural|JJ|BODY_10|0
+c.|NN|BODY_5|0
+the directory pub/machine-learning-databases|DT NN NNS|BODY_8|0
+short|JJ|BODY_2|0
+promoter activity|NN NN|BODY_11|0
+the same weight|DT JJ NN|BODY_6|0
+'s bias|POS NN|BODY_12:BODY_10:BODY_8|0
+( prokaryotic ) promoter recognition|-LRB- JJ -RRB- NN NN|BODY_16|0
+a new copy|DT JJ NN|BODY_2|0
+syntactically simpler rules|RB JJR NNS|BODY_7|0
+this way|DT NN|BODY_2|0
+the mofn method extracts|DT NN NN NNS|BODY_3|0
+our recognizing|PRP$ VBG|BODY_1|0
+weight 6.1|NN CD|BODY_8|0
+'s knowledge base|POS NN NN|BODY_5|0
+table 8|NN CD|BODY_3|0
+the site|DT NN|BODY_3|0
+a threshold|DT NN|BODY_2|0
+( dna sequences|-LRB- NN NNS|BODY_1|0
+f b|NN NN|BODY_11|0
+unsimplified rule sets|JJ NN NNS|BODY_6|0
+our hope|PRP$ NN|BODY_1|0
+the tradeoff|DT NN|BODY_1|0
+the second monk theory|DT JJ NN NN|BODY_8|0
+exactly two|RB CD|BODY_3|0
+our implementation|PRP$ NN|BODY_4|0
+4 experiments|CD NNS|BODY_1|0
+those corrections|DT NNS|BODY_6|0
+the class|DT NN|BODY_8|0
+ffl the mofn method|RB DT NN NN|BODY_6|0
+arbitrarily-configured networks|JJ NNS|BODY_3|0
+the entire set|DT JJ NN|BODY_6|0
+a difficulty|DT NN|BODY_1|0
+symbolically- oriented systems|NNS VBN NNS|BODY_5|0
+ten decision trees|CD NN NNS|BODY_5|0
+a  straw man|DT JJ NN NN|BODY_3|0
+1975 )|CD -RRB-|BODY_7|0
+this result|DT NN|BODY_1:BODY_3|0
+1982 )|CD -RRB-|BODY_8|0
+virtue|NN|BODY_1|0
+an effect|DT NN|BODY_4|0
+the summed weighted inputs|DT VBN JJ NNS|BODY_3|0
+contact|NN|BODY_8|0
+the power|DT NN|BODY_4|0
+figure 3a|NN CD|BODY_4|0
+5|CD|BODY_1|0
+the e/ i examples|DT JJ NN NNS|BODY_10|0
+inputs|NNS|BODY_6|0
+curate|NN|BODY_11|0
+nakano ( 1988 ) and fu ( 1991|NN -LRB- CD -RRB- CC NN -LRB- CD|BODY_2|0
+subsumed rules|VBN NNS|BODY_2|0
+equation 3|NN CD|BODY_3|0
+n or more|NN CC JJR|BODY_6|0
+an artifact|DT NN|BODY_3|0
+a location|DT NN|BODY_5|0
+recently been attempts|RB VBN NNS|BODY_2|0
+bochereau & bourgine|NN CC NN|BODY_8|0
+the search paths|DT NN NNS|BODY_1|0
+the individual rules|DT JJ NNS|BODY_2|0
+disadvantages|NNS|BODY_4|0
+the initial training|DT JJ NN|BODY_3|0
+the trained knns|DT VBN NNS|BODY_4|0
+an approximately-correct domain theory|DT JJ NN NN|BODY_10|0
+b.|NNP|BODY_1|0
+the mofn and subset methods|DT NN CC NN NNS|BODY_4|0
+the power set|DT NN NN|BODY_6|0
+symbolic rule-refinement techniques|JJ NN NNS|BODY_9|0
+the |DT|BODY_5|0
+general neural networks ( e .g.|JJ JJ NNS -LRB- NN NNP|BODY_6|0
+one rule|CD NN|BODY_10|0
+rule-extraction methods search|NN NNS NN|BODY_1|0
+this knowledge base|DT NN NN|BODY_4|0
+ability|NN|BODY_2|0
+b , c|NN , NN|BODY_4|0
+mofn extracts|POS NNS|BODY_2|0
+linus and c4.5|NN CC CD|BODY_2|0
+those appearing|DT VBG|BODY_2|0
+linus ( dzeroski & lavrac|NN -LRB- NN CC NN|BODY_11|0
+the mofn algorithm forms rules|DT JJ NN NNS NNS|BODY_2|0
+every base|DT NN|BODY_2|0
+guarantees|NNS|BODY_8|0
+nakano ( 1988|NN -LRB- CD|BODY_2|0
+a serious loss|DT JJ NN|BODY_6|0
+something|NN|BODY_5|0
+the next section )|DT JJ NN -RRB-|BODY_7|0
+a brief summary|DT JJ NN|BODY_2|0
+the other algorithms|DT JJ NNS|BODY_3|0
+only 50 %|RB CD NN|BODY_8|0
+splice-junctions|NNS|BODY_4|0
+fifteen variants|CD NNS|BODY_5|0
+a more complete description|DT RBR JJ NN|BODY_3|0
+superfluous parts ( mozer & smolensky|JJ NNS -LRB- NN CC NN|BODY_7|0
+those previously described ( e .g.|DT RB VBN -LRB- NN NNP|BODY_6|0
+a tool|DT NN|BODY_5|0
+representation shifts|NN NNS|BODY_1|0
+the representation|DT NN|BODY_2|0
+samples|NNS|BODY_6|0
+the extracted rules point|DT VBN NNS NN|BODY_2|0
+the extra work|DT JJ NN|BODY_1|0
+useful ( murphy & pazzani|JJ -LRB- NN CC NNS|BODY_14|0
+ross quinlan|JJ NN|BODY_2|0
+( thrun et|-LRB- NN NNP|BODY_6|0
+mofn and subset|NN CC NN|BODY_6|0
+the defaults|DT NNS|BODY_4|0
+a testing domain|DT NN NN|BODY_5|0
+neither complete nor correct|DT JJ CC JJ|BODY_5|0
+connectionist scientist game|NN NN NN|BODY_6|0
+training method|NN NN|BODY_4|0
+a significant shortcoming|DT JJ NN|BODY_2|0
+result|NN|BODY_3|0
+4 inputs units|CD NNS NNS|BODY_3|0
+training examples|NN NNS|BODY_15:BODY_7|0
+a good set|DT JJ NN|BODY_5|0
+that set|IN NN|BODY_8|1
+closely approximate the networks|RB JJ DT NNS|BODY_9|0
+the weighted antecedents|DT JJ NNS|BODY_9|0
+rule-extraction methods|NN NNS|BODY_5|0
+the search space ( fu|DT NN NN -LRB- NN|BODY_3|0
+the four rules|DT CD NNS|BODY_3|0
+their report|PRP$ NN|BODY_1|0
+the following rule|DT JJ NN|BODY_5|0
+solid and dotted lines|JJ CC JJ NNS|BODY_4|0
+the antecedents and consequents|DT NNS CC NNS|BODY_2|0
+( towell|-LRB- NN|BODY_4|0
+both negated and unnegated antecedents|DT JJ CC JJ NNS|BODY_2|0
+reasonably accurate rule sets|RB JJ NN NNS|BODY_7|0
+in most cases|IN JJS NNS|BODY_7|0
+one sense|CD NN|BODY_1|0
+the count|DT NN|BODY_2|0
+the rest|DT NN|BODY_4|0
+two assumptions|CD NNS|BODY_4|1
+the 53 sample promoters|DT CD NN NNS|BODY_1|0
+( hayashi|-LRB- NN|BODY_4|0
+large number|JJ NN|BODY_4|0
+the simplification phase|DT NN NN|BODY_2|0
+1 x and y|CD NN CC NN|BODY_2|0
+the testing|DT NN|BODY_5:BODY_7|0
+10 )|CD -RRB-|BODY_5|0
+both mofn rules|DT JJ NNS|BODY_5|0
+a function|DT NN|BODY_4|0
+weighted inputs|JJ NNS|BODY_6|0
+total|NN|BODY_1|0
+the on-line clustering algorithm|DT JJ NN NN|BODY_7|0
+'s antecedents|POS NNS|BODY_2|0
+the requirements|DT NNS|BODY_3|0
+fewer antecedents|JJR NNS|BODY_7|0
+approximate|NN|BODY_6|0
+nowlan and hinton|JJ CC NN|BODY_2|0
+form rules|NN NNS|BODY_4|0
+the smallest training set|DT JJS NN NN|BODY_4|0
+the binding sites|DT NN NNS|BODY_5|0
+previously that revising network training procedures|RB DT NN NN NN NNS|BODY_2|0
+a particular location|DT JJ NN|BODY_5|0
+a large set|DT JJ NN|BODY_2|0
+superfluous weights and thresholds|JJ NNS CC NNS|BODY_2|0
+some simple classes|DT JJ NNS|BODY_9|0
+fewer examples|JJR NNS|BODY_8|0
+significant structures|JJ NNS|BODY_2|0
+the use|DT NN|BODY_3|1
+a small percentage|DT JJ NN|BODY_3|0
+named antecedents|VBN NNS|BODY_3|0
+three rules|CD NNS|BODY_7|0
+number|NN|BODY_9|0
+his last theorem|PRP$ JJ NN|BODY_4|0
+a very gentle develop rules|DT RB JJ VBP NNS|BODY_4|0
+comprehensible rules|JJ NNS|BODY_6|0
+heavily-weighted links|JJ NNS|BODY_3|0
+their re-representation|PRP$ NN|BODY_7|0
+these links|DT NNS|BODY_7|0
+further simplified|JJ JJ|BODY_2|0
+fewer training examples|JJR NN NNS|BODY_3|0
+somewhat less daunting|RB JJR NN|BODY_5|0
+manipulations|NNS|BODY_3|0
+the mofn algorithm table 8|DT NN NN NN CD|BODY_2|0
+introduction artificial neural networks ( anns|NN JJ JJ NNS -LRB- NNS|BODY_1|0
+berenji ( 1991|FW -LRB- CD|BODY_2|0
+several limitations|JJ NNS|BODY_2|0
+either and subset|DT CC NN|BODY_3|0
+understandable decisions|JJ NNS|BODY_4|0
+its links|PRP$ NNS|BODY_4|0
+two clusters|CD NNS|BODY_3|0
+our algorithm|PRP$ NN|BODY_3|0
+the two closest clusters|DT CD JJS NNS|BODY_2|0
+all three systems|DT CD NNS|BODY_3|0
+at least 99 % confidence|IN JJS CD NN NN|BODY_4|0
+a local minima|DT JJ NN|BODY_6|0
+a widely tested , thoroughly documented problem|DT RB VBN , RB VBN NN|BODY_7|0
+the reliability|DT NN|BODY_6|0
+boolean features|JJ NNS|BODY_5|0
+additional refinement|JJ NN|BODY_4|0
+that problems|DT NNS|BODY_3|0
+the ways|DT NNS|BODY_10|0
+that information|DT NN|BODY_7|0
+the possible combinations|DT JJ NNS|BODY_4|0
+these researchers|DT NNS|BODY_1|0
+no situation|DT NN|BODY_5|0
+several potential sites|JJ JJ NNS|BODY_4|0
+several ways|JJ NNS|BODY_3|0
+two sites|CD NNS|BODY_4|0
+additional sequence information|JJ NN NN|BODY_5|0
+next|JJ|BODY_6|0
+two real-world problems|CD NN NNS|BODY_8|0
+one heuristic|CD JJ|BODY_4|0
+the degree|DT NN|BODY_2|0
+the topology and connection weights|DT NN CC NN NNS|BODY_6|0
+directly refine symbolic rules&semi|RB JJ JJ NN|ABSTRACT_13|0
+a slightly larger training set|DT RB JJR NN NN|BODY_4|0
+subsets|NNS|BODY_6|0
+the final result|DT JJ NN|BODY_6|0
+3000 links|CD NNS|BODY_6|0
+a daunting task|DT JJ NN|BODY_4|0
+a study|DT NN|BODY_3|0
+five variants|CD NNS|BODY_3|0
+our new method|PRP$ JJ NN|BODY_5|0
+the original j inputs|DT JJ NN NNS|BODY_4|0
+the following set|DT JJ NN|BODY_5|0
+each system|DT NN|BODY_2|0
+a training example|DT NN NN|BODY_5|0
+a rule-extraction algorithm|DT NN NN|BODY_6|0
+negation|NN|BODY_4|0
+the rule-extraction methods|DT NN NNS|BODY_6|1
+the activation function|DT NN NN|BODY_3|0
+an exponential algorithm|DT JJ NN|BODY_7|0
+most problems|JJS NNS|BODY_2|0
+similarly-weighted links|JJ NNS|BODY_4|0
+( 2|-LRB- CD|BODY_8|0
+domain theories|NN NNS|BODY_2|0
+the same network|DT JJ NN|BODY_4|0
+cg|NN|BODY_8|0
+exactly two antecedents|RB CD NNS|BODY_2|0
+empirical learning systems|JJ NN NNS|BODY_5|0
+the concept , mofn and subset rarely extracted rules|DT NN , NN CC NN RB VBN NNS|BODY_2|0
+the end|DT NN|BODY_6|0
+the remaining 50 %|DT VBG CD NN|BODY_9|0
+lesser size|JJR NN|BODY_2|0
+the error table fidelity|DT NN NN NN|BODY_4|0
+et|VBD|BODY_6:BODY_7|0
+a test|DT NN|BODY_5|0
+hidden|JJ|BODY_11|0
+no connection|DT NN|BODY_13|0
+output|NN|BODY_7|0
+the inductive component|DT JJ NN|BODY_3|0
+previous techniques|JJ NNS|ABSTRACT_15|0
+total number|JJ NN|BODY_8|0
+lems|NNS|BODY_7|0
+the original trained network|DT NN VBN NN|BODY_5|0
+dzeroski & lavrac|NN CC NN|BODY_8|0
+to|TO|BODY_9|0
+an activation|DT NN|BODY_15|0
+both mofn and subset|DT NN CC NN|BODY_3:BODY_4|0
+the two sets|DT CD NNS|BODY_6:BODY_2|0
+their fidelity|PRP$ NN|BODY_9|0
+the comparisons|DT NNS|BODY_11|0
+that weight|DT NN|BODY_10|0
+section 3|NN CD|BODY_7|0
+accurate reproduction|JJ NN|BODY_5|0
+themselves|PRP|BODY_3|0
+one antecedent|CD NN|BODY_2|0
+only two groups|RB CD NNS|BODY_5|0
+standard neural learning methods|JJ JJ NN NNS|BODY_7|0
+a similar weight pattern|DT JJ NN NN|BODY_6|0
+a form|DT NN|BODY_2|0
+biological convention|JJ NN|BODY_1|0
+little value|JJ NN|BODY_9|0
+other rule-refinement systems|JJ NN NNS|BODY_8|0
+such errors|JJ NNS|BODY_4|0
+approximate step functions|JJ NN NNS|BODY_5|0
+ network )|JJ NN -RRB-|BODY_7|0
+the published literature|DT VBN NN|BODY_11|0
+a search|DT NN|BODY_3|0
+0.25 )|CD -RRB-|BODY_5|0
+clustering stops|VBG NNS|BODY_1|0
+location -41|NN NNS|BODY_6|0
+1956 )|CD -RRB-|BODY_5|0
+sestito and dillon ( 1990|NN CC NN -LRB- CD|BODY_1|0
+the chief problems|DT NN NNS|BODY_2|0
+review|NN|BODY_4|0
+their initial comprehensibility|PRP$ JJ NN|BODY_9|0
+their otherwise prohibitive combinatorics|PRP$ RB JJ NNS|BODY_1|0
+each subset n|DT JJ NN|BODY_1|0
+understood|VBN|BODY_4|0
+much the same character|RB DT JJ NN|BODY_5|0
+earlier tests|JJR NNS|BODY_1|0
+correct|JJ|BODY_5|0
+the same size|DT JJ NN|BODY_5|0
+that kbann|DT NN|BODY_1|0
+( b ) rounding|-LRB- NN -RRB- NN|BODY_4|0
+5.3 discussion|CD NN|BODY_1|0
+this control|DT NN|BODY_1|0
+figure 2b|NN JJ|BODY_1|0
+5 tests|CD NNS|BODY_1|0
+each example|DT NN|BODY_1|0
+overall probability|JJ NN|BODY_1|0
+table 2|NN CD|BODY_1|0
+16 rules )|CD NNS -RRB-|BODY_5|0
+1g|CD|BODY_7|0
+table 1|NN CD|BODY_5|0
+3.3|CD|BODY_1|0
+the next sections|DT JJ NNS|BODY_1|0
+figure 5|NN CD|BODY_5:BODY_1|0
+higher organisms|JJR NNS|BODY_12|0
+direct rule refinement|JJ NN NN|BODY_5|0
+personal communication )|JJ NN -RRB-|BODY_8|0
+35 regions|CD NNS|BODY_8|0
+7 rule extraction|CD NN NN|BODY_1|0
+a very general viewpoint|DT RB JJ NN|BODY_1|0
+anns|NNS|BODY_1|0
+( 0 1 )|-LRB- CD CD -RRB-|BODY_8|0
+many fewer rules|JJ JJR NNS|BODY_6|0
+the previously training set )|DT RB NN NN -RRB-|BODY_9|0
+these errors|DT NNS|BODY_1|0
+the five trials|DT CD NNS|BODY_5|0
+biological theories|JJ NNS|BODY_4|0
+another ' a '|DT '' DT ''|BODY_1|0
+an appealing mixture|DT JJ NN|BODY_7|0
+this equivalence class idea|DT NN NN NN|BODY_1|0
+the three minus35 rules|DT CD CD NNS|BODY_1|0
+optimization|NN|BODY_1|0
+the noise conditions|DT NN NNS|BODY_5|0
+saito and nakano|WP CC NN|BODY_1|0
+7 limitations|CD NNS|BODY_1|0
+an average rule|DT JJ NN|BODY_8|0
+an unnecessary antecedent|DT JJ NN|BODY_4|0
+fewer than mofn.|JJR IN NN|BODY_6|0
+fi p subsets|JJ NN NNS|BODY_1|0
+a simple , breadth-first subset algorithm starts|DT JJ , JJ JJ NN NNS|BODY_1|0
+all possible subsets|DT JJ NNS|BODY_4|0
+a black box|DT JJ NN|BODY_6|0
+category a.|NN NN|BODY_5|0
+non-negative activations|JJ NNS|BODY_6|0
+the idea underlying mofn|DT NN VBG NN|BODY_1|0
+the rule extraction problem|DT NN NN NN|BODY_1|0
+the sample knowledge base|DT NN NN NN|BODY_1|0
+'s weight|POS NN|BODY_9|0
+the ' t|DT `` NN|BODY_1|0
+3 ) time|CD -RRB- NN|BODY_5|0
+explicitly stated , table 1|RB VBN , NN CD|BODY_1|0
+hinton ( 1989 )|NN -LRB- CD -RRB-|BODY_1|0
+short bars|JJ NNS|BODY_4|0
+the following sections|DT VBG NNS|BODY_1|0
+a trained neural network|DT JJ JJ NN|BODY_1|0
+1962 )|CD -RRB-|BODY_6|0
+human comprehensible|JJ NN|ABSTRACT_18|0
+knn.|VBG|BODY_11|1
+minus35d :-37|JJ CD|BODY_1|0
+some antecedents|DT NNS|BODY_6|0
+the second set|DT JJ NN|BODY_1|0
+yes|RB|BODY_1|0
+about 0.85|IN CD|BODY_8|0
+1988 )|CD -RRB-|BODY_12|0
+a rule-refinement system|DT NN NN|BODY_6|1
+non-neural learning systems|JJ NN NNS|BODY_8|0
+'s thesis ( 1991 )|POS NN -LRB- CD -RRB-|BODY_4|0
+3.1 assumptions|CD NNS|BODY_1|1
+taking advantage|VBG NN|BODY_1|0
+the 3190 examples|DT CD NNS|BODY_5|0
+weights change|NNS NN|BODY_1|0
+so results|RB NNS|BODY_1|0
+53 nonpromoter sequences|CD JJ NNS|BODY_4|0
+more negative an- tecedents|JJR JJ NNS NNS|BODY_3|0
+figure 6 plots|NN CD NNS|BODY_1|0
+our ten-fold cross-validation runs|PRP$ JJ NN NNS|BODY_3|0
+5.2 experiments|CD NNS|BODY_1|0
+our knowledge-insertion and rule-extraction methods|PRP$ NN CC NN NNS|BODY_4|0
+the second link|DT JJ NN|BODY_1|0
+any background knowledge|DT NN NN|BODY_7|0
+the next section|DT JJ NN|BODY_1|0
+conclusions|NNS|BODY_1|0
+many problems|JJ NNS|BODY_1|0
+' a '  )|POS DT POS NNP -RRB-|BODY_13|0
+a gene|DT NN|BODY_5|0
+these two algorithms|DT CD NNS|BODY_6|0
+a better solution|DT JJR NN|BODY_1|0
+another domain|DT NN|BODY_11|0
+perfect match|JJ NN|BODY_5|0
+one approach|CD NN|BODY_1|0
+' methods|POS NNS|BODY_7|0
+tables 7|NNS CD|BODY_1|0
+existing rules|JJ NNS|BODY_9|0
+the second algorithm|DT JJ NN|BODY_1|0
+3.4.3 complexity analysis|CD NN NN|BODY_1|0
+a second hypothesis|DT JJ NN|BODY_1|0
+its extracted rules|PRP$ VBN NNS|BODY_4|0
+mings|NNS|BODY_5|0
+4.2 problem 2|CD NN CD|BODY_1|0
+more examples|JJR NNS|BODY_1|0
+a one-tailed , paired-sample , t-test|DT JJ , NN , NN|BODY_5|0
+the differences|DT NNS|BODY_1|0
+the rules subset|DT NNS NN|BODY_1|0
+alterations|NNS|BODY_1|0
+\theta l ) time|NN NN -RRB- NN|BODY_3|0
+at least one unsatisfied antecedent|IN JJS CD JJ NN|BODY_4|0
+standard biological textbooks|JJ JJ NNS|BODY_7|0
+non-negated antecedents|JJ NNS|BODY_6|0
+c4.5 and linus|CD CC NN|BODY_6|0
+this measure|DT NN|BODY_1|0
+a.|NN|BODY_2|0
+23 outputs|CD NNS|BODY_6|0
+both datasets|DT NNS|BODY_1|0
+improved performance|VBN NN|BODY_4|0
+four antecedents|CD NNS|BODY_5|0
+the rules subset extracts|DT NNS NN NNS|BODY_2|0
+the first link|DT JJ NN|BODY_1|0
+promoter|NN|BODY_1|0
+a more serious problem|DT RBR JJ NN|BODY_1|0
+the first algorithm|DT JJ NN|BODY_1|0
+one )|CD -RRB-|BODY_8|0
+the clear winners|DT JJ NNS|BODY_4|0
+small problems|JJ NNS|BODY_4|0
+124 training examples|CD NN NNS|BODY_3|0
+fi n minimal subsets|JJ NN JJ NNS|BODY_1|0
+a measure|DT NN|BODY_1|0
+at least two dimensional|IN JJS CD JJ|BODY_3|0
+the easiest representation shifts|DT JJS NN NNS|BODY_1|0
+both the promoter recognition and splice-junction determination datasets|DT DT NN NN CC NN NN NNS|BODY_1|0
+( head-shape octagon ) and ( body-shape octagon|-LRB- NN NN -RRB- CC -LRB- NN NN|BODY_19|0
+( jacket-color red|-LRB- NN JJ|BODY_21|0
+biological ) theories|JJ -RRB- NNS|BODY_8|0
+unimportant groups|JJ NNS|BODY_1|0
+1991 ) and towell , 1991|CD -RRB- CC NN , CD|BODY_4|0
+a learning problem|DT NN NN|BODY_1|0
+a third piece|DT JJ NN|BODY_1|0
+several pieces|JJ NNS|BODY_1|0
+the language|DT NN|BODY_1|0
+table 8 )|NN CD -RRB-|BODY_5|0
+the error rate|DT NN NN|BODY_1|0
+necessary|JJ|BODY_2|0
+the first elimination procedure|DT JJ NN NN|BODY_1|0
+furthermore|RBR|BODY_1|0
+the effects|DT NNS|BODY_1|0
+reasonable complexity|JJ NN|BODY_12|0
+three ways|CD NNS|BODY_3|0
+links weights|NNS NNS|BODY_4|0
+these patterns|DT NNS|BODY_1|0
+the transitions|DT NNS|BODY_1|0
+missing antecedents|VBG NNS|BODY_3|0
+correct antecedents|JJ NNS|BODY_3|0
+generality|NN|BODY_6|0
+a boolean rule|DT JJ NN|BODY_5|0
+ten rule sets|CD NN NNS|BODY_2|0
+conclusion|NN|BODY_1|1
+4.3.2 quality|CD NN|BODY_1|0
+an algorithm|DT NN|BODY_6|0
+the corruptions|DT NNS|BODY_6|0
+two hypotheses|CD NNS|BODY_1|0
+boundaries|NNS|BODY_4|0
+a unique importance|DT JJ NN|BODY_7|0
+the third step|DT JJ NN|BODY_1|0
+3 hence|CD RB|BODY_1|0
+this process|DT NN|ABSTRACT_4|0
+numbering nucleotides|NN NNS|BODY_4|0
+standard neural learning techniques|JJ JJ NN NNS|ABSTRACT_1|0
+'s classification|POS NN|BODY_5|0
+the following section|DT VBG NN|BODY_4|0
+the heuristic elimination procedure|DT JJ NN NN|BODY_1|0
+the most interesting result|DT RBS JJ NN|BODY_1|0
+representations|NNS|BODY_2|0
+table 1 )|NN CD -RRB-|BODY_10|0
+several groups|JJ NNS|BODY_1|0
+the relative ease|DT JJ NN|BODY_1|0
+a fixed , biologically-meaningful , reference point|DT VBN , JJ , NN NN|BODY_4|0
+the other|DT JJ|BODY_6|0
+time|NN|BODY_1|0
+bias )|NN -RRB-|BODY_10|0
+negative numbers|JJ NNS|BODY_1|0
+sequence analysis problems|NN NN NNS|BODY_1|0
+experimental results|JJ NNS|BODY_1|0
+the node|DT NN|BODY_4|0
+the advantages|DT NNS|BODY_1|0
+clustering|NN|BODY_1|0
+sections 4 and 5 present a series|NNS CD CC CD JJ DT NN|BODY_1|0
+the four major results|DT CD JJ NNS|ABSTRACT_1|0
+refined rules|JJ NNS|TITLE_1|0
+9 acknowledgments|CD VBZ|BODY_1|0
+3.4.1|CD|BODY_1|0
+hand|NN|BODY_9|0
+zero )|CD -RRB-|BODY_12|0
+the additional complexity|DT JJ NN|BODY_1|0
+the whole population|DT JJ NN|BODY_4|0
+the other methods|DT JJ NNS|BODY_7|0
+detailed explanation|JJ NN|BODY_1|0
+both problems|DT NNS|BODY_3|0
+figure 9 plots|NN CD NNS|BODY_1|0
+1990 ) and towell ( 1991 )|CD -RRB- CC NN -LRB- CD -RRB-|BODY_6|0
+this definition|DT NN|BODY_1|0
+four conjunctions|CD NNS|BODY_3|0
+this domain theory|DT NN NN|BODY_1|0
+heuristics|NNS|BODY_4|0
+the major problem|DT JJ NN|BODY_1|0
+88.8 %|CD NN|BODY_2|0
+nine|CD|BODY_1|0
+other incoming links|JJ VBG NNS|BODY_12|0
+robin , bird and animal|NN , NN CC NN|BODY_6|0
+a topic|DT NN|BODY_6|0
+initial training|JJ NN|BODY_7|0
+several other techniques|JJ JJ NNS|BODY_1|0
+mcmillan , mozer and smolensky , 1991|JJ , JJ CC JJ , CD|BODY_4|0
+the symbolic algorithms|DT JJ NNS|BODY_6|0
+a reasonably short time|DT RB JJ NN|BODY_3|0
+an alternative|DT NN|BODY_1|0
+their meaning|PRP$ NN|BODY_5|0
+this value|DT NN|BODY_1|0
+each location|DT NN|BODY_1|0
+a minimum|DT NN|BODY_1|0
+the remaining links|DT VBG NNS|BODY_5|0
+its original state|PRP$ JJ NN|BODY_8|0
+n then z|NN RB FW|BODY_5|0
+the following example|DT VBG NN|BODY_4|0
+reformulation|NN|BODY_1|0
+subset and mofn.|NN CC NN|BODY_12|0
+the symbolic circle|DT JJ NN|BODY_4|1
+this approach|DT NN|BODY_1|0
+3 rule extraction|CD NN NN|BODY_1|0
+4.3 experiments|CD NNS|BODY_1|0
+the final part|DT JJ NN|BODY_1|0
+whose statistics|WP$ NNS|BODY_1|0
+4.1.1 notation|CD NN|BODY_1|0
+the subsequent section|DT JJ NN|BODY_1|0
+five rules|CD NNS|BODY_6|0
+4.4 discussion|CD NN|BODY_1|0
+this domain|DT NN|BODY_1|0
+a corrupted domain theory|DT JJ NN NN|BODY_3|0
+either subset or mofn.|DT NN CC NN|BODY_4|0
+particular , neural representations|JJ , JJ NNS|BODY_1|0
+-x|NN|BODY_6|0
+5.1|CD|BODY_1|0
+its representation|PRP$ NN|BODY_5|0
+nt(@-14|NN|BODY_1|0
+then a.|RB NN|BODY_13|0
+cast|NN|BODY_1|0
+more fine-grained refinement|JJR JJ NN|BODY_4|0
+a few weight classes|DT JJ NN NNS|BODY_9|0
+3 nowlan and hinton|CD JJ CC NN|BODY_1|0
+each problem domain|DT NN NN|BODY_8|0
+testing|NN|BODY_1|0
+the first two steps|DT JJ CD NNS|BODY_1|0
+thin lines|JJ NNS|BODY_1|0
+all-symbolic  rule refinement algorithms|JJ NN NN NN NNS|BODY_12|0
+an 'optimal ' set|DT JJ POS NN|BODY_1|0
+another method|DT NN|BODY_1|0
+other neurally-based or symbolic rule-refinement methods|JJ JJ CC JJ NN NNS|BODY_17|0
+the final link|DT JJ NN|BODY_1|0
+the ten rule sets|DT CD NN NNS|BODY_3|0
+the whole|DT JJ|BODY_1|0
+this set|DT NN|BODY_1|0
+this theory|DT NN|BODY_1|0
+very small steps|RB JJ NNS|BODY_4|0
+le cun et al. , 1989 )|JJ JJ NNP RB , CD -RRB-|BODY_9|0
+the search proceeds|DT NN NNS|BODY_1|0
+our examination|PRP$ NN|BODY_1|0
+the picture|DT NN|BODY_6|0
+the other learning methods|DT JJ NN NNS|BODY_6|0
+the final sections|DT JJ NNS|BODY_1|0
+3.2 commonalities|CD NNS|BODY_1|0
+that accuracy|DT NN|BODY_5|0
+the pattern|DT NN|BODY_1|0
+all three|DT CD|BODY_1|0
+the trial|DT NN|BODY_3|0
+a second important global statistic|DT JJ JJ JJ NN|BODY_1|0
+an a priori ceiling|DT DT NN NN|BODY_1|0
+nt( ) |NN -RRB-|BODY_1|0
+present and absent antecedents|JJ CC JJ NNS|BODY_5|0
+thick lines|JJ NNS|BODY_1|0
+the final , and possibly|DT JJ , CC RB|ABSTRACT_4|1
+the fruits|DT NNS|BODY_1|0
+able , classifiers|JJ , NNS|BODY_6|0
+our initial work|PRP$ JJ NN|BODY_1|0
+this rule set|DT NN NN|BODY_1|0
+the previous point )|DT JJ NN -RRB-|BODY_5|0
+the vocabulary shortfall|DT NN NN|BODY_7|0
+training set accuracy|NN VBN NN|BODY_8|0
+two real-world test problems|CD NN NN NNS|BODY_1|0
+classified examples|JJ NNS|BODY_12|0
+its bias|PRP$ NN|BODY_8|0
+the re-representation|DT NN|BODY_1|0
+a knn.|DT NN|BODY_9|0
+a well-defined architecture|DT JJ NN|BODY_7|0
+more accurate reproduction|RBR JJ NN|BODY_1|0
+two principal benefits|CD JJ NNS|BODY_4|0
+4.3.1 systems and methodology|CD NNS CC NN|BODY_1|0
+both subset and mofn.|DT NN CC NN|BODY_9|0
+masuoka|NN|BODY_6|0
+ourston & mooney|NNP CC NN|BODY_5|0
+57 sequential dna nucleotides|CD JJ NN NNS|BODY_3|0
+further support|JJ NN|BODY_1|0
+one subsumed rule|CD VBN NN|BODY_1|0
+overly-general rules|JJ NNS|BODY_2|0
+3.4|CD|BODY_1|0
+sequence-analysis problems|NN NNS|BODY_2|0
+an m-of-n concept|DT JJ NN|BODY_6|0
+easy replication|JJ NN|BODY_9|0
+every case|DT NN|BODY_1|0
+figure 10|NN CD|BODY_1|0
+its rules|PRP$ NNS|BODY_6|0
+six antecedents|CD NNS|BODY_7|0
+symbolic learning systems|JJ NN NNS|BODY_7|0
+the algorithm forms rules|DT NN NNS NNS|BODY_1|0
+the first assumption|DT JJ NN|BODY_1|0
+the first dimension|DT JJ NN|BODY_1|0
+the rule |DT NN|BODY_4|0
+two antecedents|CD NNS|BODY_12|0
+understandability |NN|BODY_5|0
+( here|-LRB- RB|BODY_1|0
+that address real-world problems|WDT NN NN NNS|BODY_8|0
+that teaching dimension|DT VBG NN|BODY_5|0
+3.4.2 example|CD NN|BODY_1|0
+table 6|NN CD|BODY_1|0
+the fifth trial|DT JJ NN|BODY_1|0
+the original networks|DT JJ NNS|BODY_6|0
+a rule set|DT NN NN|BODY_2|0
+each positive subset|DT JJ NN|BODY_1|0
+each such unit|DT JJ NN|BODY_1|0
+first glance|JJ NN|BODY_1|0
+several problems|JJ NNS|BODY_1|0
+the correct rules|DT JJ NNS|BODY_5|0
+the search space|DT NN NN|BODY_6|0
+counting rules|VBG NNS|BODY_1|0
+those rules|DT NNS|BODY_10|0
+an aside|DT RB|BODY_1|0
+primate ) splice-junction determination|JJ -RRB- NN NN|BODY_5|0
+section 4.4|NN CD|BODY_1|0
+the first domain theory|DT JJ NN NN|BODY_1|0
+the numbers|DT NNS|BODY_1|0
+the settings|DT NNS|BODY_1|0
+their comprehensibility|PRP$ NN|BODY_8|0
+this article|DT NN|ABSTRACT_1|1
+this assessment|DT NN|BODY_1|0
+4.3.3 comprehensibility|CD NN|BODY_1|0
+fact|NN|BODY_1|0
+the second assumption|DT JJ NN|BODY_1|0
+6 related work|CD VBN NN|BODY_1|1
+an ill-defined concept|DT JJ NN|BODY_1|0
+only a single cluster remaining|RB DT JJ NN VBG|BODY_3|0
+the fifth and sixth steps|DT JJ CC JJ NNS|BODY_1|0
+this point|DT NN|BODY_1|0
+any groups|DT NNS|BODY_1|0
+more than 10 5 sets|JJR IN CD CD NNS|BODY_11|0
+sequence analysis|NN NN|BODY_4|0
+the given sequence|DT VBN NN|BODY_5|0
+the knn problems|DT NN NNS|BODY_5|0
+the provided domain theory|DT VBN NN NN|BODY_6|0
+tractable|NN|BODY_5|0
+a copy|DT NN|BODY_1|0
+additional hidden units|JJ JJ NNS|BODY_3|0
+figure 2c|NN JJ|BODY_1|0
+such cases|JJ NNS|BODY_1|0
+the resulting rules|DT VBG NNS|BODY_8|0
+75 %|CD NN|BODY_7|0
+'s behavior|POS NN|BODY_7|0
+boolean logic|JJ NN|BODY_4|0
+the rule-like nature|DT JJ NN|BODY_1|0
+these first two steps force links|DT JJ CD NNS NN NNS|BODY_1|0
+( recall|-LRB- NN|BODY_1|0
+multiple sources|JJ NNS|BODY_2|0
+little effect|JJ NN|BODY_4|0
+no .|DT .|BODY_5|0
+this limitation|DT NN|BODY_1|0
+rule and antecedent counts|NN CC NN NNS|BODY_1|0
+test-set accuracy|JJ NN|BODY_4|0
+the final algorithm|DT JJ NN|BODY_1|0
+approximate a 3-of-7 concept|JJ DT JJ NN|BODY_5|0
+one major pattern|CD JJ NN|BODY_1|0
+other words|JJ NNS|BODY_1|0
+the subset method|DT NN NN|BODY_2|0
+a large positive weight|DT JJ JJ NN|BODY_7|0
+the k additional inputs|DT NN JJ NNS|BODY_8|0
+zero weight|CD NN|BODY_9|0
+3.0 x nt(@-12 'a-t-' )|CD NN NN JJ -RRB-|BODY_1|0
+a new predicate|DT JJ NN|BODY_1|0
+figure 3|NN CD|BODY_1|0
+global comprehensibility|JJ NN|BODY_1|0
+individual comprehensibility|JJ NN|BODY_1|0
+minus-35:-36 'c-tgac-'|CD JJ|BODY_1|0
+minus35 :-37|CD CD|BODY_1|0
+minus35 :-37 '-g-ca '|CD CD JJ ''|BODY_1|0
+minus35b :-37 '-aca '|CD CD JJ ''|BODY_1|0
+only the biases|RB DT NNS|BODY_1|0
+our results|PRP$ NNS|BODY_1|0
+quinlan|NN|BODY_1|0
+step 1 , clustering|NN CD , NN|BODY_1|0
+step 2 , averaging|NN CD , NN|BODY_1|0
+step 3|NN CD|BODY_1|0
+step 5|NN CD|BODY_1|0

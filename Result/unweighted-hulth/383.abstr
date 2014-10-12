@@ -1,0 +1,40 @@
+which|WDT|BODY_3|0
+outlier data vectors|NN NNS NNS|BODY_2:BODY_3|0
+the smi|DT NN|BODY_3:BODY_7|0
+( smi|-LRB- FW|BODY_8|0
+the other three censoring methods|DT JJ CD NN NNS|BODY_7|0
+outliers|NNS|BODY_10|0
+a maximum likelihood estimation|DT JJ NN NN|BODY_5|0
+approximation|NN|BODY_4|0
+censor outliers|NN NNS|BODY_2|0
+computer simulations|NN NNS|BODY_2|0
+each|DT|BODY_2|0
+the fml|DT NN|BODY_4|0
+amf algorithms|JJ NNS|BODY_6|0
+fast maximum likelihood|RB JJ NN|BODY_5|0
+cfml) technique|JJ NN|BODY_6|0
+sample matrix inversion|NN NN NN|BODY_7|0
+the presence|DT NN|BODY_9|0
+(|-LRB-|BODY_2|0
+fml algorithms|JJ NNS|BODY_8|0
+the reiterative|DT NNP|BODY_4|0
+the desired steering vector|DT VBN NN NN|BODY_4|0
+the censoring algorithms|DT NN NNS|BODY_3|0
+one|CD|BODY_2|0
+the performance|DT NN|BODY_5|0
+the relative effectiveness|DT JJ NN|BODY_4|0
+the covariance matrix estimate|DT NN NN NN|BODY_4|0
+the four algorithms|DT CD NNS|BODY_5|0
+each other|DT JJ|BODY_6|0
+it|PRP|BODY_1|0
+whose steering vector|WP$ NN NN|BODY_3|0
+stressful outlier scenarios|JJ NN NNS|BODY_8|0
+fast maximum likelihood ( fml)|RB JJ NN -LRB- NN|BODY_9|0
+no outliers|DT NNS|BODY_11|0
+outlier resistant adaptive matched filtering robust adaptive|NN JJ JJ VBN VBG JJ JJ|BODY_1|0
+four new algorithms|CD JJ NNS|BODY_1|0
+results|NNS|BODY_1|0
+the mle solution|DT JJ NN|BODY_5|0
+mle ) setting|NN -RRB- NN|BODY_6|0
+the unknown underlying covariance matrix|DT JJ JJ NN NN|BODY_5|0
+two algorithms|CD NNS|BODY_1|0

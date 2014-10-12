@@ -1,0 +1,29 @@
+the algorithm|DT NN|BODY_2:BODY_1|0
+camera calibration|NN NN|BODY_10:BODY_4|0
+region|NN|BODY_2:BODY_7|0
+the anchor target|DT NN NN|BODY_2|0
+the radon|DT NN|BODY_2|0
+transform|VB|BODY_3|0
+the intrinsic parameters|DT JJ NNS|BODY_3|0
+the zoom lens|DT NN NN|BODY_4|0
+this algorithm|DT NN|BODY_2|0
+fully automatic camera calibration|RB JJ NN NN|BODY_2|0
+about 100 times|IN CD NNS|BODY_2|0
+a notable rotation angle|DT JJ NN NN|BODY_3|0
+this method|DT NN|BODY_1|0
+an automatic method|DT JJ NN|BODY_6|0
+interest|NN|BODY_8|0
+roi ) location|NNP -RRB- NN|BODY_9|0
+we|PRP|BODY_5|0
+interest location|NN NN|BODY_3|0
+an intelligent roi location algorithm|DT JJ NN NN NN|BODY_1|0
+the calibration process|DT NN NN|BODY_4|0
+experiments|NNS|BODY_1|0
+the camera|DT NN|BODY_5|0
+human interactive roi specification|JJ NN NN NN|BODY_3|0
+the target plane|DT NN NN|BODY_4|0
+these improvement methods|DT NN NNS|BODY_3|0
+'s huge time/space consumption problem|POS JJ NN NN NN|BODY_3|0
+several improvement methods|JJ NN NNS|BODY_1|0
+automatic algorithm|JJ NN|BODY_1|0
+computer vision inspection|NN NN NN|BODY_11|0

@@ -1,0 +1,1542 @@
+cmfs|NNS|BODY_6:BODY_5:BODY_11:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_10:BODY_7:BODY_20|0
+we|PRP|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_19:BODY_4:BODY_9|0
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+which|WDT|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+sessions|NNS|BODY_11:BODY_16:BODY_18:BODY_23:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_8|0
+f|NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+data|NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+s|PRP|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_19:BODY_10:BODY_4:BODY_8:BODY_20|0
+the client|DT NN|BODY_6:BODY_5:BODY_16:BODY_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+this|DT|BODY_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+h|NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+time|NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_10:BODY_19:BODY_8:BODY_9|0
+1|CD|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_9:BODY_20|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+the number|DT NN|BODY_11:BODY_5:BODY_17:BODY_15:BODY_1:BODY_3:BODY_10:BODY_8|0
+a session|DT NN|BODY_11:BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_8|0
+the time|DT NN|BODY_5:BODY_18:BODY_2:BODY_4:BODY_10|0
+k|NN|BODY_16:BODY_18:BODY_2:BODY_3:BODY_4:BODY_9|0
+t|NN|BODY_2:BODY_3:BODY_14:BODY_9|0
+the fifo|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_14:BODY_4:BODY_8:BODY_9|0
+example|NN|BODY_1:BODY_4:BODY_8|0
+the system|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+blocks|NNS|BODY_6:BODY_12:BODY_16:BODY_2:BODY_4:BODY_7:BODY_9|0
+a client|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_9|0
+f i|NN IN|BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_8|0
+(|-LRB-|BODY_6:BODY_11:BODY_2:BODY_4:BODY_7:BODY_9|0
+i|FW|BODY_6:BODY_5:BODY_1:BODY_3:BODY_7:BODY_8|0
+clients|NNS|BODY_11:BODY_2:BODY_14:ABSTRACT_1:BODY_4:BODY_9|0
+session|NN|BODY_12:BODY_5:BODY_13:BODY_2:BODY_1:BODY_4:BODY_8|0
+t )|NN -RRB-|BODY_27:BODY_2:BODY_4:BODY_7|0
+each session|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+a|DT|BODY_6:BODY_16:BODY_3:BODY_4|0
+h i 2|NN IN CD|BODY_15:BODY_2:BODY_14:BODY_3:BODY_10:BODY_7|0
+disk|NN|BODY_12:BODY_6:ABSTRACT_6:BODY_2:BODY_7|0
+the logical clock|DT JJ NN|BODY_6:BODY_16:BODY_18:BODY_2:BODY_8:BODY_9|0
+)|-RRB-|BODY_6:BODY_12:BODY_5:BODY_13:BODY_4:BODY_10|0
+all sessions|DT NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+part|NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+r|NN|BODY_11:BODY_1:BODY_3:BODY_4:BODY_9|0
+the order|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_10|0
+the file|DT NN|BODY_6:BODY_11:BODY_17:BODY_1:BODY_2:BODY_4:BODY_7:BODY_8|0
+non-real-time operations|JJ NNS|BODY_2:BODY_1:BODY_3:BODY_4|0
+buffer space|NN NN|BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|0
+the session|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+disk scheduling policies|NN NN NNS|BODY_5:BODY_2:BODY_7|0
+the data|DT NNS|BODY_18:BODY_1:BODY_4:BODY_7|0
+time t|NN NN|BODY_5:BODY_11:BODY_16:BODY_3:BODY_19|0
+u|NN|BODY_6:BODY_2:BODY_7:BODY_9|0
+slack|NN|BODY_12:BODY_5:BODY_2:BODY_14:BODY_10|0
+disk scheduling|NN NN|BODY_18:BODY_3|0
+2|CD|BODY_6:BODY_5:BODY_1:BODY_4|0
+disk space|NN NN|BODY_3:BODY_4|0
+interactive response time|JJ NN NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+second|NN|BODY_2:BODY_4:BODY_7|0
+bytes|NNS|BODY_5:BODY_22:BODY_13:BODY_4:BODY_8|0
+operations|NNS|BODY_11:BODY_3:BODY_7:BODY_8|0
+a multiple|DT NN|BODY_2:BODY_4|0
+slack time|JJ NN|BODY_1:BODY_3:BODY_4:BODY_9|0
+the cycle|DT NN|BODY_2:BODY_4:BODY_7:BODY_8|0
+non-real-time traffic|JJ NN|BODY_11:BODY_1:BODY_2:BODY_7|0
+the algorithm|DT NN|BODY_5:BODY_1|0
+the effect|DT NN|BODY_11:BODY_2:BODY_1:BODY_3|0
+the workahead|DT NN|BODY_15:BODY_2:BODY_8|0
+the slack times|DT JJ NNS|BODY_5:BODY_2:BODY_1:BODY_3|0
+the operation|DT NN|BODY_11:BODY_2:BODY_1:BODY_9|0
+1.4 mbps|CD NNS|BODY_15:BODY_4:BODY_7|0
+non-real-time workload|JJ NN|BODY_5:BODY_2:BODY_7|0
+the read|DT NN|BODY_6:BODY_7|0
+p|NN|BODY_2:BODY_4|0
+real time|JJ NN|BODY_3:BODY_4|0
+an upper|DT JJ|BODY_17:BODY_2:BODY_9|0
+a function|DT NN|BODY_6:BODY_5:BODY_4:BODY_7:BODY_9|0
+a new session|DT JJ NN|BODY_2:BODY_4|0
+a file system|DT NN NN|TITLE_1:BODY_2|0
+a system|DT NN|BODY_2|0
+terms|NNS|BODY_2:BODY_3:BODY_24|0
+system|NN|BODY_2:BODY_9|0
+a disk|DT NN|BODY_1:BODY_3|0
+h i|NN NN|BODY_5:BODY_13:BODY_1:BODY_3:BODY_4|0
+a feasible|DT NN|BODY_2:BODY_8|0
+a )|DT -RRB-|BODY_22:BODY_18:BODY_8|0
+workahead|NN|BODY_2:BODY_4:BODY_7|0
+disk layout|NN NN|BODY_11:ABSTRACT_5:BODY_8|0
+slack time h|JJ NN NN|BODY_3:BODY_8|0
+etc. )|FW -RRB-|BODY_5:BODY_11|0
+the system state|DT NN NN|BODY_2|0
+t start|NN NN|BODY_3:BODY_7:BODY_8|0
+the minimal was|DT JJ VBD|BODY_2:BODY_4|0
+f n +1|NN NN NNS|BODY_6:BODY_5:BODY_3|0
+a user-level process|DT JJ NN|BODY_18:BODY_2:BODY_4|0
+files|NNS|BODY_5:ABSTRACT_2:BODY_8|0
+the cmfs interface|DT NNS NN|BODY_2:BODY_1|0
+j|NN|BODY_2:BODY_4:BODY_10|0
+a set|DT NN|BODY_5:BODY_3:BODY_4|0
+11 )|CD -RRB-|BODY_2|0
+a variant|DT NN|BODY_2|0
+e .g. , cpu execution )|NN NNP , JJ NN -RRB-|BODY_2|0
+non-real-time access cmfs|JJ NN NNS|BODY_2|0
+poisson|NN|BODY_2|0
+the corresponding slack times|DT JJ JJ NNS|BODY_2|0
+the next session|DT JJ NN|BODY_2|0
+the same ( constant ) data rate|DT JJ -LRB- JJ -RRB- NNS NN|BODY_2|0
+this uniformity|DT NN|BODY_2|0
+the semantics|DT NNS|BODY_21:BODY_2:BODY_1|0
+real-time traffic|JJ NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+those|DT|BODY_4|0
+the timestamps|DT NNS|BODY_2:BODY_1|0
+35 ms|CD NNS|BODY_11:BODY_7:BODY_8|0
+parameters r and e|NNS NN CC NN|BODY_2:BODY_4:BODY_7|0
+these policies|DT NNS|BODY_1:BODY_2:BODY_3|0
+time zero|NN CD|BODY_5:BODY_2:BODY_7|0
+the least-workahead session|DT NN NN|BODY_2:BODY_10:BODY_7|0
+the point|DT NN|BODY_2:BODY_4|0
+concurrent sessions|JJ NNS|BODY_5:BODY_2:BODY_4|0
+request _session(|NN NNS|BODY_3:BODY_9|0
+the size|DT NN|BODY_5:BODY_3:BODY_20|0
+the end|DT NN|BODY_3:BODY_4|0
+an operation|DT NN|BODY_2:BODY_1:BODY_3|0
+the index|DT NN|BODY_12:BODY_3:BODY_7:BODY_8|0
+ sessions|NN NNS|BODY_6:BODY_3|0
+the layout|DT NN|BODY_2|0
+.e|NN|BODY_2:BODY_7:BODY_8|0
+the procedure|DT NN|BODY_13:BODY_3|0
+the minimal feasible|DT JJ NN|BODY_1:BODY_3|0
+respect|NN|BODY_21:BODY_3|0
+different values|JJ NNS|BODY_7:BODY_8|0
+the proof|DT NN|BODY_13:BODY_1|0
+performance|NN|BODY_2:BODY_1|0
+f )|NN -RRB-|BODY_3:BODY_9|0
+b|NN|BODY_4:BODY_8|0
+d ( f )|NN -LRB- NN -RRB-|BODY_3:BODY_4:BODY_9|0
+response|NN|BODY_16:BODY_2:BODY_4|0
+the read session axioms|DT VBN NN NNS|BODY_5:BODY_2|0
+all t|DT NN|BODY_6:BODY_2:BODY_7|0
+file f|NN NN|BODY_6:BODY_20|0
+real-time and non-real-time operations|NN CC JJ NNS|BODY_2:BODY_7|0
+that cmfs|DT NNS|BODY_18:BODY_2|0
+4 mb|CD NN|BODY_4:BODY_8|0
+length t|NN NN|BODY_5:BODY_7|0
+itself|PRP|BODY_6:BODY_10|0
+starvation|NN|BODY_2:BODY_3|0
+network connections|NN NNS|BODY_11:BODY_21|0
+unix|NN|BODY_5|0
+second )|JJ -RRB-|BODY_6:BODY_3|0
+the sessions|DT NNS|BODY_6:BODY_3|0
+eqs|NNS|BODY_6:BODY_2:BODY_3|0
+the hysteresis limits|DT NN NNS|BODY_12:BODY_5|0
+bounds functions|NNS NNS|BODY_3:BODY_8|0
+( 2|-LRB- CD|BODY_1:BODY_8|0
+hysteresis|NN|BODY_4|0
+the disk|DT NN|BODY_11:BODY_2:BODY_1|0
+y|PRP|BODY_1:BODY_3|0
+reading and writing|NN CC NN|BODY_2:BODY_7|0
+berkeley|NNP|BODY_5:BODY_4|0
+the static/minimal policy|DT NN NN|BODY_22:BODY_2|0
+the minimum|DT NN|BODY_1:BODY_4|0
+e|NN|BODY_11:BODY_4:BODY_7|0
+a single-spindle disk drive|DT JJ NN NN|BODY_4|0
+the policy|DT NN|BODY_1:BODY_7|0
+v|NNS|BODY_3:BODY_10|0
+some point|DT NN|BODY_1:BODY_2|0
+issues|NNS|BODY_3:BODY_8|0
+6 )|CD -RRB-|BODY_1:BODY_2|0
+simulation|NN|ABSTRACT_2:BODY_2|0
+this case|DT NN|BODY_2:BODY_1|0
+180 ms|CD NNS|BODY_12:BODY_5:BODY_9|0
+rate r|NN NN|BODY_5:BODY_3|0
+the cmfs prototype|DT NNS NN|BODY_17:BODY_2|0
+multiple sessions|JJ NNS|BODY_13:BODY_1:ABSTRACT_1|0
+the result|DT NN|BODY_6:BODY_5|0
+l ( f )|JJ -LRB- NN -RRB-|BODY_6:BODY_8|0
+the fifo buffer|DT NN NN|BODY_21:BODY_4|0
+10 million bits|CD CD NNS|BODY_4|0
+mark moran|NN JJ|BODY_4|0
+raw data rates|JJ NNS NNS|BODY_2|0
+rotational position|JJ NN|BODY_4|0
+track|NN|BODY_2|0
+vassilios polimenis|NNS NNS|BODY_2|0
+3.4 seconds|CD NNS|BODY_6:BODY_3|0
+the following|DT VBG|BODY_2:BODY_3|0
+the state w|DT NN NN|BODY_5:BODY_2|0
+sufficient data|JJ NNS|BODY_6:BODY_5|0
+scheduling|NN|BODY_22:BODY_4|0
+' addresses|POS NNS|BODY_2|0
+( 0.04 , 0.08 ) and ( 0.35 , 0.65 )|-LRB- CD , CD -RRB- CC -LRB- CD , CD -RRB-|BODY_2|0
+an initial segment|DT JJ NN|BODY_2|0
+background|NN|BODY_3|0
+background i/o|NN NN|BODY_3|0
+d.p.|NN|BODY_3|0
+each sound file|DT NN NN|BODY_3|0
+earliest-deadline-first [7]|JJ NN|BODY_3|0
+fast response|JJ NN|BODY_2|0
+future work|JJ NN|BODY_2|0
+h longer periods|RB JJR NNS|BODY_2|0
+moderate slack levels|JJ NN NNS|BODY_2|0
+performance or scheduling issues|NN CC NN NNS|BODY_2|0
+real-time cpu scheduling|JJ NN NN|BODY_2|0
+steady-state operation|NN NN|BODY_3|0
+the 500 kb|DT CD NN|BODY_3|0
+the following observations|DT JJ NNS|BODY_3|0
+the systems|DT NNS|BODY_3|0
+numbers|NNS|BODY_6:BODY_7|0
+the cpu time|DT NN NN|BODY_5:BODY_3|0
+the static policy|DT JJ NN|BODY_4|0
+a time|DT NN|BODY_2:BODY_3|0
+one block|CD NN|BODY_11:BODY_3|0
+session acceptance|NN NN|BODY_13:BODY_7|0
+max_rate|NN|BODY_5:BODY_4|0
+distributed applications|VBN NNS|BODY_2|0
+improved system response|JJ NN NN|BODY_6|0
+#|#|BODY_5:BODY_2|0
+section 5|NN CD|BODY_2|0
+session axioms|NN NNS|BODY_5|0
+figure|NN|BODY_1:BODY_10|0
+no non-real-time traffic )|DT JJ NN -RRB-|BODY_5|0
+single session|JJ NN|BODY_2|0
+dynamic scheduling|JJ NN|BODY_5|0
+communicates|NNS|BODY_19:BODY_8|0
+atsugi|NN|BODY_7|0
+c ) , or device interrupts|NN -RRB- , CC NN NNS|BODY_7|0
+hundreds or thousands|NNS CC NNS|BODY_19|0
+multiple streams|JJ NNS|BODY_10|0
+the file system|DT NN NN|BODY_2|0
+the california micro program|DT NN JJ NN|BODY_8|0
+their worka|PRP$ NN|BODY_2|0
+each operation sequence|DT NN NN|BODY_6|0
+this policy|DT NN|BODY_2|0
+many forms|JJ NNS|BODY_2|0
+low cpu overhead|JJ NN NN|BODY_2|0
+streams|NNS|BODY_5|0
+the cpu)|DT NN|BODY_5|0
+different data rates|JJ NNS NNS|BODY_2:BODY_4|0
+the cmfs|DT NNS|BODY_1:BODY_3|0
+shown|VBN|BODY_6:BODY_7|0
+maximizes|NNS|BODY_8|0
+the n blocks|DT NN NNS|BODY_19:BODY_7|0
+figure 11|NN CD|BODY_2|0
+cs division|NNS NN|BODY_2|0
+85 mb|CD NN|BODY_6:BODY_11|0
+three 1.4 mbps sessions|CD CD NNS NNS|BODY_12:BODY_6:BODY_1|0
+cmfs handles|NNS NNS|BODY_2|0
+a bounded-rate file|DT NN NN|BODY_3:BODY_7|0
+file system [13]|NN NN NN|BODY_8|0
+multi-media files|JJ NNS|BODY_2|0
+the length|DT NN|BODY_6:BODY_2|0
+the initial condition|DT JJ NN|BODY_2|0
+curves|NNS|BODY_2|0
+one|CD|BODY_9|0
+interactive traffic|JJ NN|BODY_5:BODY_2|0
+maximum|JJ|BODY_5:BODY_13:BODY_9|0
+the restriction|DT NN|BODY_8|0
+the equivalent read session|DT NN VBN NN|BODY_3|0
+system slack|NN NN|BODY_2|0
+the limit|DT NN|BODY_6:BODY_2|0
+the definition|DT NN|BODY_2|0
+solid line|JJ NN|BODY_2|0
+performs|NNS|BODY_1:BODY_4|0
+size|NN|BODY_2|0
+the overhead|DT NN|BODY_8|0
+many nodes )|JJ NNS -RRB-|BODY_4|0
+reasonable rule|JJ NN|BODY_2|0
+a file|DT NN|BODY_2|0
+account|NN|BODY_3|0
+response time mean arrival rate (|NN NN VBP NN NN -LRB-|BODY_2|0
+real-time requests|JJ NNS|BODY_17|0
+synchrony|NN|BODY_13|0
+the data rates|DT NN NNS|BODY_3:BODY_4|0
+a hysteresis interval|DT NN NN|BODY_2|0
+every operation|DT NN|BODY_4|0
+real-time sessions|JJ NNS|BODY_8:BODY_9|0
+a new was|DT JJ VBD|BODY_6|0
+no non-real-time traffic|DT JJ NN|BODY_5|0
+other non-uniform access|JJ JJ NN|BODY_4|0
+security , naming and indexing|NN , VBG CC NN|BODY_2|0
+new sessions|JJ NNS|ABSTRACT_7|0
+> j|JJ NN|BODY_13|0
+multiple audio channel playback|JJ NN NN NN|BODY_3|0
+scheduling policy|NN NN|BODY_2|0
+etc.|FW|BODY_5|0
+intermediate buffers|JJ NNS|BODY_18|0
+the data rate|DT NNS NN|BODY_5:BODY_9|0
+disk bandwidth reservation|NN NN NN|BODY_2|0
+workload and delay lets|NN CC NN VBZ|BODY_2|0
+( f )|-LRB- NN -RRB-|BODY_6:BODY_11:BODY_1|0
+the block|DT NN|BODY_8|0
+the feasible wass|DT JJ NN|BODY_2|0
+c <|NN NNS|BODY_2|0
+rotation|NN|BODY_2|0
+fixed rates|VBN NNS|BODY_3|0
+small buffers|JJ NNS|BODY_4|0
+d and c < e|JJ CC NN IN NN|BODY_8|0
+the cyclical plan policy differs|DT JJ NN NN NNS|BODY_2|0
+the workstation|DT NN|BODY_2|0
+a period|DT NN|BODY_3:BODY_8|0
+client cpu processing|NN NN NN|BODY_6|0
+the given|DT VBN|BODY_14|0
+cm data servers|NN NNS NNS|BODY_2|0
+display-device output|NN NN|BODY_5|0
+explicit|JJ|BODY_2|0
+two sessions|CD NNS|BODY_2|0
+each frame|DT NN|BODY_7|0
+a policy|DT NN|BODY_2|0
+this work|DT NN|BODY_2:BODY_1|0
+the maximum number|DT JJ NN|BODY_12:BODY_4|0
+a block|DT NN|BODY_5:BODY_3|0
+other words|JJ NNS|BODY_1:BODY_10|0
+64 kbps sessions|CD NNS NNS|BODY_12:BODY_5|0
+each s|DT PRP|BODY_3|0
+block|NN|BODY_3|0
+the minimal|DT JJ|BODY_4:BODY_7|0
+response time|NN NN|BODY_1:BODY_3|0
+5|CD|BODY_3|0
+george homsy|NN NN|BODY_3|0
+the disk head radial|DT NN NN NN|BODY_3|0
+a write session|DT VBP NN|BODY_2:BODY_1|0
+memory-mapped stream|JJ NN|BODY_7|0
+at least|IN JJS|BODY_2|0
+( t ) advances|-LRB- IN -RRB- NNS|BODY_3|0
+news|NN|BODY_17|0
+section 4|NN CD|BODY_1:BODY_9|0
+different rates|JJ NNS|ABSTRACT_2:BODY_4|0
+sony corporation|NN NN|BODY_5|0
+( seconds )3.02.01.00.02515520|-LRB- NNS NN|BODY_4|0
+variable-rate data|JJ NNS|BODY_8|0
+the|DT|BODY_1:BODY_4|0
+( b )|-LRB- NN -RRB-|BODY_5|0
+the request _session( ) call|DT NN NN -RRB- NN|BODY_5|0
+this minimal static schedule|DT JJ JJ NN|BODY_3|0
+data rates|NNS NNS|BODY_3:BODY_4|0
+long non-real-time operations|JJ JJ NNS|BODY_3|0
+1.4 mbps sessions|CD NNS NNS|BODY_5:BODY_10|0
+existing sessions|VBG NNS|BODY_5|0
+the worst-case time|DT JJ NN|BODY_4:BODY_9|0
+file|NN|BODY_3:BODY_14|0
+follows|VBZ|BODY_6:BODY_4|0
+a delay|DT NN|BODY_2|0
+8722788|CD|BODY_6|0
+a basis|DT NN|BODY_3|0
+a read session|DT VBN NN|BODY_5:BODY_7|0
+the set|DT NN|BODY_6:BODY_1|0
+buffer|NN|BODY_2|0
+f n|NN NN|BODY_1:BODY_4|0
+the presence|DT NN|BODY_9|0
+playback glitches|NN NNS|BODY_5|0
+the buffers|DT NNS|BODY_3|0
+their slack times|PRP$ JJ NNS|BODY_4|0
+music|NN|BODY_18|0
+synchronization|NN|BODY_9|0
+'s fifo )|POS NN -RRB-|BODY_6|0
+digital audio and motion video ( continuous media|JJ NN CC NN NN -LRB- JJ NNS|BODY_3|0
+section|NN|BODY_5:BODY_4|0
+the start times|DT NN NNS|BODY_2|0
+2255 okata|CD NN|BODY_6|0
+interactive requests|JJ NNS|BODY_13:BODY_1:BODY_9|0
+an m/g/1 queue|DT NN NN|BODY_3|0
+a cmfs session|DT JJ NN|BODY_1:BODY_3|0
+the scheduler|DT NN|BODY_1:BODY_2|0
+multiple disks|JJ NNS|BODY_3:BODY_10|0
+memory-mapped streams|JJ NNS|BODY_6|0
+the audio channels|DT JJ NNS|BODY_4|0
+eecs department|NN NN|BODY_3|0
+cm) data|JJ NNS|BODY_4|0
+other factors|JJ NNS|BODY_2|0
+parallel composition|JJ NN|BODY_3|0
+the sun|DT NN|BODY_7|0
+each disk|DT NN|BODY_4|0
+nsf pyi grant|JJ NN NN|BODY_7|0
+the start|DT NN|BODY_6:BODY_1|0
+a compact disk|DT JJ NN|BODY_5|0
+workahead w i|NN NN NN|BODY_5:BODY_3|0
+an algorithm|DT NN|BODY_2:BODY_3|0
+commercial information services|JJ NN NNS|BODY_15|0
+64 kbps ses|CD NNS NNS|BODY_7|0
+the adjacent resource|DT JJ NN|BODY_4|0
+heads|NNS|BODY_3|0
+a disk scheduling policy|DT NN NN NN|BODY_3|0
+parameter y|NN NN|BODY_3|0
+a 15 mips workstation|DT CD NNS NN|BODY_4|0
+admission control|NN NN|BODY_3|0
+3.1|CD|BODY_2|0
+512 bytes|CD NNS|BODY_2|0
+a minimum data rate|DT JJ NN NN|BODY_2|0
+a particular disk lay-|DT JJ NN NNS|BODY_2|0
+a real-time file|DT NN NN|BODY_1|0
+a special mechanism|DT JJ NN|BODY_1|0
+alternatives|NNS|BODY_1|0
+an acceptance test or performance guarantees|DT NN NN CC NN NNS|BODY_2|0
+block size|NN NN|BODY_1|0
+bounded-rate files|JJ NNS|BODY_2|0
+claim 3|NN CD|BODY_1|0
+clusters|NNS|BODY_2|0
+different performance implications|JJ NN NNS|BODY_2|0
+figure 4 )|NN CD -RRB-|BODY_2|0
+his analysis|PRP$ NN|BODY_1|0
+integration issues|NN NNS|BODY_1|0
+n contiguous blocks|NN JJ NNS|BODY_3|0
+other architectures|JJ NNS|BODY_1|0
+section 3.1|NN CD|BODY_2|0
+static/minimum|NN|BODY_2|0
+the cmfs reservation and scheduling algorithms|DT NNS NN CC NN NNS|BODY_1|0
+the various clients|DT JJ NNS|BODY_2|0
+their disk scheduling policy|PRP$ NN NN NN|BODY_1|0
+these alternatives|DT NNS|BODY_1|0
+this  startup  phase|DT JJ JJ JJ NN|BODY_2|0
+this limit|DT NN|BODY_2|0
+this space|DT NN|BODY_1|0
+this strategy|DT NN|BODY_1|0
+unbounded buffer space|JJ NN NN|BODY_1|0
+mo business development division|NN NN NN NN|BODY_3|0
+movies|NNS|BODY_16|0
+all buffers|DT NNS|BODY_2:BODY_3|0
+read sessions|VBN NNS|BODY_2|0
+client requirements|NN NNS|BODY_7|0
+disk head position|NN NN NN|BODY_2|0
+most byte offset i|RBS JJ VBN NN|BODY_4|0
+( seconds ) figure 12|-LRB- NNS -RRB- NN CD|BODY_6|0
+) a ) write session ( client|-RRB- DT -RRB- VB NN -LRB- NN|BODY_12|0
+uc berkeley|NNP NNP|BODY_4|0
+the interrupt level )|DT JJ NN -RRB-|BODY_5|0
+k clusters|NN NNS|BODY_5|0
+the minimal was f|DT JJ VBD NN|BODY_2:BODY_1|0
+create_realtime_file|NN|BODY_2|0
+( 1 ) non-real-time operations|-LRB- CD -RRB- JJ NNS|BODY_7|0
+every sequence|DT NN|BODY_4|0
+physical memory|JJ NN|BODY_10:BODY_7|0
+fifo* buffer|JJ NN|BODY_5|0
+thumb  values|NN NN NNS|BODY_3|0
+its scsi disk i/o|PRP$ NN NN NN|BODY_7|0
+an important role|DT JJ NN|BODY_4|0
+the effects|DT NNS|BODY_3:BODY_4|0
+write sessions|VB NNS|BODY_2|0
+storage systems group|NN NNS NN|BODY_4|0
+a qualitative discussion|DT JJ NN|BODY_2|0
+course|NN|BODY_2|0
+playback|NN|BODY_4|0
+boolean expandable|JJ NN|BODY_3|0
+reserves time|NNS NN|BODY_5|0
+improved control|VBD NN|BODY_6|0
+the duration |DT NN|BODY_2|0
+the advent|DT NN|BODY_13|0
+arrivals/second slack time|VBD JJ NN|BODY_5|0
+our prototype|PRP$ NN|BODY_3|0
+the assumption|DT NN|BODY_4|0
+local clients|JJ NNS|BODY_3|0
+'s cushion y|POS NN NN|BODY_6:BODY_10|0
+completion|NN|BODY_3|0
+the remaining data|DT VBG NNS|BODY_3|0
+a range|DT NN|BODY_6|0
+14|CD|BODY_1:BODY_3|0
+non|FW|BODY_16|0
+m|NN|BODY_4|0
+audio data rates|NN NNS NNS|BODY_5|0
+20|CD|BODY_2|0
+a complex set|DT JJ NN|BODY_2|0
+int rate )|JJ NN -RRB-|BODY_7|0
+) equivalent read session figure 2|-RRB- NN VBN NN NN CD|BODY_14|0
+lectures|NNS|BODY_9|0
+annotations|NNS|BODY_4|0
+the xerox etherphone system [14]|DT NNP NN NN NN|BODY_6|0
+h ure|NN NN|BODY_3|0
+a way|DT NN|BODY_7|0
+b-isdn networks|JJ NNS|BODY_14|0
+file structuring|NN NN|BODY_3|0
+its schedule one block|PRP$ NN CD NN|BODY_2|0
+the disk parameters|DT NN NNS|BODY_7|0
+read-only file systems|JJ NN NNS|BODY_2|0
+an inter-file|DT NN|BODY_3|0
+h operation|NN NN|BODY_3|0
+i i|NN NN|BODY_5:BODY_4|0
+data resources|NNS NNS|BODY_8|0
+frames/second video data|JJ NN NNS|BODY_3|0
+the hysteresis parameters|DT NN NNS|BODY_5|0
+( f|-LRB- NN|BODY_6|0
+disk i/o operations|NN NN NNS|BODY_3|0
+0 -t d operation figure 5|CD JJ VBD NN NN CD|BODY_11|0
+all|DT|BODY_12|0
+each|DT|ABSTRACT_4:BODY_7|0
+its ( fixed ) size|PRP$ -LRB- VBN -RRB- NN|BODY_3|0
+each resource|DT NN|BODY_2|0
+the remainder|DT NN|BODY_4|0
+total buffer space|JJ NN NN|BODY_10:BODY_8|0
+5 )|CD -RRB-|BODY_6|0
+the cyclical plan policy|DT JJ NN NN|BODY_2|0
+osawa|NNP|BODY_2|0
+the variation|DT NN|BODY_7|0
+. control data system|. NN NNS NN|BODY_6|0
+time cushion|NN NN|BODY_6|0
+three different disk types|CD JJ NN NNS|BODY_3|0
+no feasible was.|DT JJ ,|BODY_6|0
+int size|NN NN|BODY_4|0
+most work|RBS NN|BODY_4|0
+let f|VB NN|BODY_1|0
+nsf infrastructure grant cda|JJ NN NN NN|BODY_5|0
+a single cylinder group|DT JJ NN NN|BODY_6|0
+circular buffers|JJ NNS|BODY_9|0
+cmfs checks|NNS NNS|BODY_15|0
+client data access|NN NNS NN|BODY_3|0
+aggressive versions|JJ NNS|BODY_8|0
+w k|JJ NN|BODY_5:BODY_1|0
+system calls|NN NNS|BODY_4|0
+section 2|NN CD|BODY_6|0
+n and k|NN CC NN|BODY_7|0
+a ) read session|DT -RRB- VBN NN|BODY_16|0
+a longer minimal was|DT RB JJ VBD|BODY_5|0
+the university|DT NN|BODY_2|0
+hardware parameters|NN NNS|BODY_6|0
+( 1 )|-LRB- CD -RRB-|BODY_5|0
+( cmfs|-LRB- NNS|BODY_10|0
+the stream|DT NN|BODY_3|0
+the cmfs session interface|DT NNS NN NN|BODY_5|0
+) ( cmfs|-RRB- -LRB- NNS|BODY_13|0
+n bytes|RB NNS|BODY_12|0
+# real-time semantics|# JJ NNS|BODY_4|0
+int|JJ|BODY_4|0
+network-accessible archives|JJ NNS|BODY_7|0
+number|NN|BODY_12:BODY_1|0
+aggressive greedy ( dotted ) and static/minimal ( dashed ) policies|JJ JJ -LRB- VBN -RRB- CC NN -LRB- VBN -RRB- NNS|BODY_3|0
+a pair ( p|DT NN -LRB- NN|BODY_2|0
+client|NN|BODY_18|0
+axioms|NNS|BODY_8|0
+lower cpu scheduling overhead|JJR NN VBG NN|BODY_3|0
+) ( client|-RRB- -LRB- NN|BODY_11|0
+step 2|NN CD|BODY_6|0
+buffer allocation|NN NN|BODY_4|0
+all i|DT NN|BODY_2:BODY_4|0
+other data|JJ NNS|BODY_6|0
+fifos|NNS|BODY_8|0
+*/ file_id name|JJ NN NN|BODY_3|0
+track buffering )|NN NN -RRB-|BODY_8|0
+39 ms|CD NNS|BODY_4|0
+a feasible was ( section|DT JJ VBD -LRB- NN|BODY_16|0
+that cylinder|DT NN|BODY_5|0
+data ( r|NNS -LRB- NN|BODY_4|0
+hypermedia documents|NN NNS|BODY_10|0
+research and education|NN CC NN|BODY_12|0
+an operation sequence|DT NN NN|BODY_2|0
+a full buffer|DT JJ NN|BODY_6|0
+a session request|DT NN NN|BODY_14|0
+u f and v f|NN NN CC NN NN|BODY_4|0
+e .g.|NN NN|BODY_8|0
+the disk con- troller|DT NN NNS NN|BODY_9|0
+the same machine|DT JJ NN|BODY_3|0
+any time t|DT NN NN|BODY_10|0
+the slack time|DT JJ NN|BODY_3:BODY_10|0
+real-time file access|NN NN NN|BODY_3|0
+a there|DT EX|BODY_5|0
+such a meta-scheduling  scheme|JJ DT JJ JJ NN|BODY_3|0
+continuous media data|JJ NNS NNS|ABSTRACT_4|0
+e /r|NN NN|BODY_5|0
+the next byte|DT JJ NN|BODY_13:BODY_4:BODY_8:BODY_9|0
+an ( imaginary ) read session|DT -LRB- NN -RRB- VBN NN|BODY_6|0
+the allocation|DT NN|BODY_2|0
+( 3 )|-LRB- CD -RRB-|BODY_1|0
+enough data|JJ NNS|BODY_1:BODY_3|0
+the amount|DT NN|BODY_1:BODY_2|0
+h i 1|JJ NN CD|BODY_7|0
+therefore more buffer space|RB JJR NN NN|BODY_6:BODY_7|0
+a cylinder|DT NN|BODY_3|0
+our cmfs prototype|PRP$ NNS NN|BODY_3|0
+l ( f|JJ -LRB- NN|BODY_3:BODY_7|0
+them|PRP|BODY_5|0
+file ( cmfs|NN -LRB- NNS|BODY_17|0
+the state|DT NN|BODY_1:BODY_2|0
+a guaranteed minimum data rate|DT VBN NN NNS NN|ABSTRACT_5:BODY_2:BODY_8|0
+the actual data rate|DT JJ NNS NN|BODY_3|0
+the return|DT NN|BODY_4|0
+more|JJR|BODY_11|0
+5.2 )|CD -RRB-|BODY_17|0
+determines|VBZ|BODY_3|0
+interactive musical performance|JJ JJ NN|BODY_5|0
+applications|NNS|BODY_2:BODY_1|0
+about the same time|IN DT JJ NN|BODY_3|0
+close|NN|BODY_4|0
+a bounded-rate file f|DT JJ NN NN|BODY_2:BODY_3|0
+20 interactive arrivals|CD JJ NNS|BODY_5|0
+int max_rate )|NN NN -RRB-|BODY_5|0
+the poor performance|DT JJ NN|BODY_6|0
+the cmfs client interface|DT NNS NN NN|BODY_5|0
+12 ) and most interactive requests|CD -RRB- CC RBS JJ NNS|BODY_4|0
+california|NN|BODY_3|0
+an acceptance test|DT NN NN|ABSTRACT_6|0
+data timestamp|NNS NN|BODY_5|0
+temporal data|JJ NNS|BODY_4|0
+safe relative to|JJ JJ TO|BODY_6:BODY_5:BODY_3|0
+different cmfs servers|JJ NNS NNS|BODY_12|0
+data streams|NNS NNS|BODY_3|0
+0|CD|BODY_4|0
+a permutation|DT NN|BODY_5:BODY_3|0
+the vector <|DT NN NN|BODY_4|0
+then l ( f )|RB JJ -LRB- NN -RRB-|BODY_5|0
+5.2 mbps|CD NNS|BODY_4:BODY_8|0
+long-term rate variation|JJ NN NN|BODY_9|0
+the clock rate|DT NN NN|BODY_2|0
+the rate argument|DT NN NN|BODY_2|0
+the value|DT NN|BODY_17:BODY_1|0
+the non-aggressive versions|DT JJ NNS|BODY_4|0
+compressed video ranges|JJ NN NNS|BODY_8|0
+a newly-accepted session|DT JJ NN|BODY_2|0
+the scheduling policy|DT NN NN|BODY_1|0
+the minimality|DT NN|BODY_7|0
+the session data rate )|DT NN NNS NN -RRB-|BODY_5|0
+a proportionally longer|DT RB RBR|BODY_6|0
+these conditions|DT NNS|BODY_1:BODY_9|0
+about 200 microseconds|IN CD NNS|BODY_7|0
+predictable real-time performance|JJ JJ NN|BODY_4|0
+global slack time|JJ JJ NN|BODY_3|0
+the following bounding functions|DT VBG NN NNS|BODY_3|0
+the existence|DT NN|BODY_3|0
+b and c|NN CC NN|BODY_5|0
+about 5|IN CD|BODY_3|0
+( milliseconds ) upper hysteresis limit ( seconds|-LRB- NNS -RRB- JJ NN NN -LRB- NNS|BODY_9|0
+flexibility|NN|BODY_5|0
+a particular disk layout|DT JJ NN ,|BODY_12|0
+# semantics|# NNS|BODY_4|0
+no penalty|DT NN|BODY_6|0
+no performance|DT NN|BODY_2|0
+buffer size|NN NN|BODY_5|0
+rotational latency|JJ NN|BODY_2|0
+corresponds|NNS|BODY_5|0
+kernel memory|NN NN|BODY_6|0
+the fraction|DT NN|BODY_4|0
+the mean response time|DT JJ NN NN|BODY_15|0
+a static schedule|DT JJ NN|BODY_4|0
+the two sessions|DT CD NNS|BODY_6:BODY_2:BODY_3|0
+h i figure plots|JJ FW NN NNS|BODY_4|0
+l seek_max|JJ NN|BODY_3|0
+8 kbps|CD NNS|BODY_6|0
+the position|DT NN|BODY_14|0
+'s  cushion|POS JJ NN|BODY_2|0
+fraction t|NN NN|BODY_3|0
+f assigns|NN NNS|BODY_2|0
+the scheduling cycle|DT NN NN|BODY_7|0
+scheduling purposes|NN NNS|BODY_2|0
+2 ) data|CD -RRB- NN|BODY_8|0
+5.2 mbps transfer rate ( sony 5.25|CD NNS NN NN -LRB- NN CD|BODY_15|0
+a  sawtooth|DT JJ NN|BODY_6|0
+only n bytes|RB RB NNS|BODY_20|0
+a varying number|DT VBG NN|BODY_4|0
+all i and t|DT NN CC NN|BODY_2|0
+section 7.3|NN CD|BODY_2|0
+higher seek time|JJR VBP NN|BODY_4|0
+logical clocks|JJ NNS|BODY_4|0
+bounds|NNS|BODY_4|0
+diagram|NN|BODY_12|0
+the maximum data rate ( bytes|DT JJ NNS NN -LRB- NNS|BODY_5|0
+a cylinder group|DT NN NN|BODY_6|0
+scan [4|JJ NNS|BODY_3|0
+the minimal feasible was.|DT JJ JJ ,|BODY_7|0
+a given positive amount|DT VBN JJ NN|BODY_3|0
+features|NNS|BODY_7|0
+bad sectors|JJ NNS|BODY_10|0
+0.1 sec|CD NN|BODY_9|0
+successive start times increase|JJ NN NNS NN|BODY_2|0
+100kb 1mb 10mb 100mb total buffer space figure 13|CD JJ JJ JJ JJ NN NN NN CD|BODY_7|0
+greedy and cyclical plan|JJ CC JJ NN|BODY_21|0
+calls system kernel user|VBZ NN NN NN|BODY_15|0
+50kb 33.3 66.6 133.3 figure 3|JJ CD CD CD NN CD|BODY_6|0
+flexible but well-defined real-time semantics|JJ CC JJ JJ NNS|BODY_7|0
+additional reads|JJ VBZ|BODY_4|0
+( section 4)|-LRB- NN JJ|BODY_11|0
+current sessions|JJ NNS|BODY_3|0
+simplicity|NN|BODY_2|0
+the following notation|DT VBG NN|BODY_4|0
+the scheduling|DT NN|BODY_4|0
+this section|DT NN|BODY_2:BODY_1|0
+c w|NN NN|BODY_3|0
+starves|NNS|BODY_2:BODY_4|0
+zero stop clock|CD NN NN|BODY_15|0
+all session|DT NN|BODY_10|0
+interleaved data streams|JJ NNS NNS|BODY_3|0
+max( w share buffer space|JJ JJ NN NN NN|BODY_8|0
+the client and cmfs|DT NN CC NNS|BODY_4|0
+the moment|DT NN|BODY_6|0
+10|CD|BODY_6|0
+the 500 kb case|DT CD NN NN|BODY_5|0
+static schedules|JJ NNS|BODY_2|0
+the bounds|DT NNS|BODY_1:BODY_3|0
+the ordering|DT NN|BODY_2|0
+these classes|DT NNS|BODY_4|0
+a balanced  policy|DT JJ NN NN|BODY_2|0
+a contradiction|DT NN|BODY_10|0
+a mechanism|DT NN|BODY_4|0
+the mechanism|DT NN|BODY_2|0
+the startup time|DT JJ NN|BODY_5|0
+the worst case|DT JJS NN|BODY_2|0
+the cushion argument|DT NN NN|BODY_2|0
+worst-case latency l|DT JJ NN|BODY_3|0
+session acceptance and scheduling algorithms|NN NN CC NN NNS|BODY_3|0
+zero or more adjacent cylinders|CD CC JJR JJ NNS|BODY_6|0
+our implementation|PRP$ NN|BODY_2|0
+this larger context|DT JJR NN|BODY_3|0
+two non-real-time service classes|CD JJ NN NNS|BODY_2|0
+smallest-workahead-first ( section|JJ -LRB- NN|BODY_5|0
+second ) figure 11|JJ -RRB- NN CD|BODY_3|0
+direction|NN|BODY_8|0
+data timestamps|NNS NNS|BODY_4|0
+the next resource|DT JJ NN|BODY_9|0
+the disk head|DT NN NN|BODY_15|0
+increases|NNS|BODY_4|0
+next|JJ|BODY_7|0
+short real-time operations|JJ JJ NNS|BODY_3|0
+h seconds|JJ NNS|BODY_3|0
+an empty buffer|DT JJ NN|BODY_3|0
+an interactive operation|DT JJ NN|BODY_1:BODY_4|0
+the pessimistic assumption|DT JJ NN|BODY_2|0
+each disk block i/o|DT NN NN NN|BODY_4|0
+real-time streams|NN NNS|BODY_3|0
+the audio channel|DT NN NN|BODY_3|0
+that cyclically|WDT NN|BODY_5|0
+l rotation|JJ NN|BODY_12|0
+runs|NNS|BODY_4|0
+'s operation and f|POS NN CC NN|BODY_5|0
+the first and last|DT JJ CC JJ|BODY_14|0
+frame|NN|BODY_6:BODY_14|0
+a single feasible|DT JJ NN|BODY_3|0
+client fifos|NN NNS|BODY_3|0
+the shortest such schedule|DT JJS JJ NN|BODY_2|0
+was. not possible that i > j|, RB JJ IN IN FW FW|BODY_4|0
+heavy load (otherwise slack|JJ NN NN NN|BODY_3|0
+the rotation time|DT NN NN|BODY_13|0
+[0|CD|BODY_2|0
+n and f|NN CC NN|BODY_7|0
+cushion|NN|BODY_2|0
+none|NN|BODY_6|0
+sessions84(64 kbps number|NN NNS NN|BODY_13|0
+a timestamp|DT NN|BODY_11|0
+many shared hardware resources|JJ VBN NN NNS|BODY_4|0
+typical applications|JJ NNS|BODY_2|0
+upper bounds|JJ NNS|BODY_2|0
+the fifo ) before and 2 )|DT CD -RRB- IN CC CD -RRB-|BODY_9|0
+a shared-memory buffer|DT NN NN|BODY_6|0
+an important criterion|DT JJ NN|BODY_6|0
+session i|NN NN|BODY_3|0
+claim 5|NN CD|BODY_14|0
+some i|DT NN|BODY_7|0
+|NNS|BODY_2|0
+# l rotation|# JJ NN|BODY_3|0
+non-real-time access|JJ NN|ABSTRACT_3:BODY_3|0
+a given file f|DT VBN NN NN|BODY_6|0
+expressions|NNS|BODY_2|0
+three sessions|CD NNS|BODY_5|0
+a special case|DT JJ NN|BODY_3|0
+buffer space ( h max|NN NN -LRB- NN NN|BODY_5|0
+t background|NN NN|BODY_6|0
+2 mb total buffer ( h max|CD JJ JJ NN -LRB- NN NN|BODY_2|0
+per-file parameters|JJ NNS|BODY_8|0
+sectors|NNS|BODY_2|0
+ striped |JJ JJ|BODY_9|0
+other goals|JJ NNS|BODY_3|0
+11.8 mbps transfer rate|CD NNS NN NN|BODY_4|0
+completes|NNS|BODY_12|0
+empty/full and read/write|JJ CC JJ|BODY_15|0
+c|NN|BODY_7|0
+r and time-varying parameters|NN CC NN NNS|BODY_5|0
+the same t start|DT JJ JJ NN|BODY_7|0
+4|CD|BODY_16|0
+the starting block number|DT VBG NN NN|BODY_16|0
+a period r|DT NN NN|BODY_4|0
+cmfs moves data|JJ NNS NNS|BODY_5|0
+2 ) cmfs|CD -RRB- NNS|BODY_8|0
+long bursts|JJ NNS|BODY_10|0
+the cmfs assumptions|DT NNS NNS|BODY_10|0
+file f i|NN NN NN|BODY_4|0
+a kernel-level implementation|DT NN NN|BODY_2|0
+5 ) clients|CD -RRB- NNS|BODY_17|0
+client d ) c|NN NN -RRB- NN|BODY_7|0
+its data rate requirements|PRP$ NN NN NNS|BODY_3|0
+the given file|DT VBN NN|BODY_13|0
+the unrealistic assumption|DT JJ NN|BODY_5|0
+the unix raw disk interface|DT NN JJ NN NN|BODY_7|0
+dynamic policies|JJ NNS|BODY_20|0
+the minimal was )|DT JJ VBD -RRB-|BODY_5|0
+worst-case time|JJ NN|BODY_2|0
+the current operation|DT JJ NN|BODY_5|0
+three concurrent 1.4 mbps sessions|CD JJ CD NNS NNS|BODY_4|0
+variable-rate files|JJ NNS|BODY_3|0
+1 mb)|CD NN|BODY_8|0
+a kernel process|DT NN NN|BODY_7|0
+disk input|NN NN|BODY_4|0
+workstation file systems|NN NN NNS|BODY_3|0
+the redundancy|DT NN|BODY_4|0
+a common need|DT JJ NN|BODY_2|0
+h oscillates|NN NNS|BODY_4|0
+a put pointer|DT NN NN|BODY_25|0
+greedy|JJ|BODY_3|0
+the synchronization|DT NN|BODY_3|0
+the following |DT VBG|BODY_4|0
+tion|NN|BODY_2|0
+the greedy policy|DT JJ NN|BODY_2|0
+their relative performance|PRP$ JJ NN|BODY_3|0
+the algorithm terminates|DT NN NNS|BODY_5|0
+safe |JJ|BODY_3|0
+the context|DT NN|BODY_3|0
+the next session (|DT JJ NN -LRB-|BODY_7|0
+up slack|RP JJ|BODY_3|0
+a was|DT VBD|BODY_6|0
+this static policy|DT JJ NN|BODY_2|0
+no upper|DT JJ|BODY_2|0
+the sets|DT NNS|BODY_3|0
+the equivalence|DT NN|BODY_6|0
+this oscillation|DT NN|BODY_3|0
+background throughput|NN NN|BODY_8|0
+( 1 ) ( 2|-LRB- CD -RRB- -LRB- CD|BODY_9|0
+these reads|DT VBZ|BODY_5|0
+sessions15050 100b 10kb 1mb 100mb 10gb 10kb 1mb 100mb buffer space buffer space|NN CD CD JJ JJ JJ CD JJ JJ NN NN NN NN|BODY_14|0
+current slack time|JJ JJ NN|BODY_5|0
+every 1/r seconds|DT JJ NNS|BODY_5|0
+expandable|NN|BODY_6|0
+# a client|# DT NN|BODY_4|0
+the 1-track|DT NN|BODY_5|0
+such|JJ|BODY_13|0
+the next block|DT JJ NN|BODY_3|0
+64 kbps|CD NNS|BODY_3|0
+principle work|NN NN|BODY_5|0
+hysteresis parameters|NN NNS|BODY_2|0
+no client intervention|DT NN NN|BODY_3|0
+int direction|JJ NN|BODY_2|0
+a logical clock|DT JJ NN|BODY_3|0
+variable but bounded rate|JJ CC VBN NN|BODY_5|0
+a sufficient condition|DT JJ NN|BODY_2|0
+f starting|NN VBG|BODY_8|0
+residual disk bandwidth|JJ NN NN|BODY_5|0
+2mb|CD|BODY_4|0
+the delay|DT NN|BODY_8|0
+the background|DT NN|BODY_2|0
+the following  read session axioms|DT VBG RB VBN NN NNS|BODY_6|0
+a digital video file|DT JJ NN NN|BODY_7|0
+voice mail messages|NN NN NNS|BODY_5|0
+timestamps|NNS|BODY_5|0
+an os kernel|DT NNS NN|BODY_2|0
+the appropriate command|DT JJ NN|BODY_9|0
+non-real-time performance|JJ NN|BODY_9|0
+thus the concepts and techniques|RB DT NNS CC NNS|BODY_5|0
+l seek_min|JJ NN|BODY_2|0
+zero|CD|BODY_3|0
+t 0|NN CD|BODY_4|0
+variable-rate compression )|JJ NN -RRB-|BODY_10|0
+a figure 7|DT NN CD|BODY_3|0
+a single moment|DT JJ NN|BODY_7|0
+a non-real-time operation n|DT JJ NN NN|BODY_2|0
+disk bandwidth|NN NN|BODY_8|0
+a wren v disk|DT JJ NN NN|BODY_3|0
+the 11.8 mbps disk|DT CD NNS NN|BODY_7|0
+lower lower figure 10|RBR RBR NN CD|BODY_10|0
+the disk operation|DT NN NN|BODY_7|0
+two different session data rates|CD JJ NN NNS NNS|BODY_2|0
+interactive response degrades|JJ NN NNS|BODY_9|0
+the static scheduling policy|DT JJ NN NN|BODY_1:BODY_20|0
+all multiples|DT NNS|BODY_2|0
+a scsi disk|DT NN NN|BODY_6|0
+a general-purpose file system|DT JJ NN NN|BODY_2|0
+the following interrelated issues|DT VBG JJ NNS|BODY_3|0
+file byte|NN NN|BODY_9|0
+an os|DT NNS|BODY_4|0
+39 ms worst case|CD NNS JJS NN|BODY_5|0
+at most (|IN JJS -LRB-|BODY_6|0
+0 and i|CD CC RB|BODY_10|0
+the longest possible|DT JJS JJ|BODY_3|0
+session j|NN NNS|BODY_11:BODY_9|0
+alternative policies|NN NNS|BODY_5|0
+an interval|DT NN|BODY_6|0
+l ( j )|JJ -LRB- NNS -RRB-|BODY_3|0
+) and schedules|-RRB- CC NNS|BODY_6|0
+logical clock c|JJ NN NN|BODY_26|0
+its clients|PRP$ NNS|BODY_20|0
+sounds|NNS|BODY_6|0
+about 0.5 seconds|IN CD NNS|BODY_6|0
+digital audio and video )|JJ NN CC NN -RRB-|ABSTRACT_5|0
+these periods|DT NNS|BODY_3|0
+opposite phases|JJ NNS|BODY_6|0
+) if zero stop clock|-RRB- IN CD NN NN|BODY_19|0
+their actual start times|PRP$ JJ VB NNS|BODY_6|0
+f |NN|BODY_2|0
+enough slack time|RB JJ NN|BODY_5|0
+no operation|DT NN|BODY_3|0
+concurrent non-real-time traffic|JJ JJ NN|BODY_4|0
+n|NN|BODY_1:BODY_14|0
+session corresponds|NN NNS|BODY_5|0
+at least rt bytes|IN JJS JJ NNS|BODY_3|0
+this experiment|DT NN|BODY_1|0
+account sector interleaving|NN NN NN|BODY_4|0
+a fixed rate|DT VBN NN|BODY_5|0
+an idealized client|DT JJ NN|BODY_2|0
+nel|NN|BODY_5|0
+view|NN|BODY_3|0
+all seek and rotation time|DT VB CC NN NN|BODY_13|0
+h < 0|JJ NN CD|BODY_2|0
+an operation set f|DT NN VBN NN|BODY_4|0
+either type|DT NN|BODY_2|0
+1 block|CD NN|BODY_6|0
+2 increases|CD NNS|BODY_2|0
+at least # # blocks|IN JJS # # NNS|BODY_4|0
+the following symmetry|DT VBG NN|BODY_6|0
+the rate requirements|DT NN NNS|BODY_9|0
+see|VB|BODY_8|0
+the session slack times|DT NN JJ NNS|BODY_5|0
+1 ) cmfs|CD -RRB- NNS|BODY_5|0
+worse|JJR|BODY_3|0
+a duration|DT NN|BODY_6|0
+many blocks|JJ NNS|BODY_3|0
+h< 0|JJ CD|BODY_2|0
+its policies|PRP$ NNS|BODY_5|0
+about 0.95hmax ( h max|IN CD -LRB- JJ NN|BODY_3|0
+m i blocks|NN NN NNS|BODY_5|0
+a fifo buffer|DT CD NN|BODY_2|0
+a that|DT WDT|BODY_4|0
+1 mb cases|CD JJ NNS|BODY_4|0
+1891 east francisco blvd|CD JJ NN JJ|BODY_4|0
+appropriate hysteresis values|JJ NN NNS|BODY_1|0
+authors|NNS|BODY_1|0
+buffer space increases|NN NN NNS|BODY_1|0
+hence less seek overhead|RB RBR VB NN|BODY_4|0
+high throughput|JJ NN|BODY_4|0
+interactive access|JJ NN|BODY_1|0
+memory|NN|BODY_4|0
+performance guarantees|NN NNS|BODY_4|0
+policies|NNS|BODY_1|0
+possible improvements|JJ NNS|BODY_4|0
+refinements|NNS|BODY_1|0
+seeks|VBZ|BODY_4|0
+the hysteresis|DT NN|BODY_1|0
+these projects|DT NNS|BODY_1|0
+this problem|DT NN|BODY_1|0
+thus the dynamic policies|RB DT JJ NNS|BODY_4|0
+a notion|DT NN|BODY_3|0
+the maximum time|DT JJ NN|BODY_7|0
+i 1|NN CD|BODY_13|0
+10 plots|CD NNS|BODY_2|0
+processing|NN|BODY_6|0
+the cmfs algorithms|DT NNS NNS|BODY_2|0
+offset i|VBN NN|BODY_9|0
+1 ) byte i|CD -RRB- NN NN|BODY_6|0
+fixed size|VBN NN|BODY_3|0
+the disk transfer rate|DT NN NN NN|BODY_1|0
+space|NN|BODY_6|0
+infeasible (|JJ -LRB-|BODY_3|0
+its operation|PRP$ NN|BODY_6:BODY_4|0
+the slack time hysteresis policy|DT JJ NN NN NN|BODY_2|0
+1 ) data|CD -RRB- NN|BODY_2|0
+large chunks|JJ NNS|BODY_3|0
+i .e|NN FW|BODY_4|0
+all n|DT NN|BODY_4|0
+several files|JJ NNS|BODY_10|0
+n , k|NN , NN|BODY_4|0
+the i|DT NN|BODY_8|0
+accepted sessions|VBN NNS|BODY_2|0
+scheduling and session acceptance|NN CC NN NN|BODY_3|0
+the response time|DT NN NN|BODY_2|0
+cmfs system|NNS NN|BODY_14|0
+c r|NN NN|BODY_6|0
+a newly accepted session|DT RB VBN NN|BODY_6|0
+six 1.4 mpbs session requests|CD CD NNS NN NNS|BODY_4|0
+the buffer|DT NN|BODY_6|0
+parameters|NNS|BODY_2|0
+l|NN|BODY_4|0
+a particular time|DT JJ NN|BODY_2|0
+throughput|NN|BODY_2|0
+the workaheads|DT NNS|BODY_4|0
+all buffers simultaneously 500.0300.0100.02.50.9interactive response time|DT NNS RB JJ NN NN|BODY_8|0
+the initial synchronization period|DT JJ NN NN|BODY_5|0
+this decision|DT NN|BODY_2|0
+real-time semantics|JJ NNS|ABSTRACT_3|0
+the elapsed time|DT JJ NN|BODY_3|0
+the cushion|DT NN|BODY_3|0
+real-time storage and retrieval|NN NN CC NN|ABSTRACT_3|0
+startup mode |JJ NN|BODY_3|0
+a more useful version|DT RBR JJ NN|BODY_2|0
+which disk block|WDT NN NN|BODY_6|0
+worst-case assumptions|JJ NNS|BODY_11|0
+instantaneous response|JJ NN|BODY_4|0
+1 byte|CD NN|BODY_3|0
+the channel|DT NN|BODY_6|0
+the upper bound|DT JJ JJ|BODY_4|0
+several interrelated design issues|JJ JJ NN NNS|ABSTRACT_2|0
+the controller|DT NN|BODY_3|0
+initial i/o|JJ NN|BODY_12|0
+the same rate|DT JJ NN|BODY_5|0
+the new session|DT JJ NN|BODY_8|0
+the new minimal was|DT JJ JJ VBD|BODY_6|0
+client cpu scheduling|NN NN NN|BODY_6|0
+8|CD|BODY_16|0
+a real-time workload|DT JJ NN|BODY_11|0
+# 5|# CD|BODY_3|0
+13 , 12|CD , CD|BODY_1|0
+a buffer size limit|DT NN NN NN|BODY_3|0
+a particular moment|DT JJ NN|BODY_3|0
+all policies|DT NNS|BODY_1|0
+both real-time and non-real-time files|DT JJ CC JJ NNS|BODY_3|0
+f denote ( p|NN NN -LRB- NN|BODY_1|0
+file creation|NN NN|BODY_1|0
+general|JJ|BODY_1|0
+instantane|JJ|BODY_3|0
+mean arrival rate l|JJ NN NN NN|BODY_3|0
+more flexibility|JJR NN|BODY_1|0
+neither necessary nor desirable|DT JJ CC JJ|BODY_3|0
+other actions|JJ NNS|BODY_1|0
+the 4.2bsd unix file system layout [8|DT JJ NN NN NN NN NNS|BODY_3|0
+the channels|DT NNS|BODY_1|0
+the interactive request arrival|DT JJ NN NN|BODY_1|0
+the same time|DT JJ NN|BODY_3|0
+cushion y|NN NN|BODY_4|0
+one cycle|CD NN|BODY_19|0
+long operations|JJ NNS|BODY_3|0
+the form|DT NN|BODY_8|0
+each transition|DT NN|BODY_7|0
+'s algorithms|POS NNS|BODY_2|0
+step 3|NN CD|BODY_2|0
+this case )|DT NN -RRB-|BODY_3|0
+( n )|-LRB- NN -RRB-|BODY_8|0
+cylinders|NNS|BODY_6|0
+10 )|CD -RRB-|BODY_11|0
+the corresponding fifo|DT JJ NN|BODY_5|0
+l ( f ) < d|JJ -LRB- NN -RRB- NN NN|BODY_2|0
+client cmfs|NN NNS|BODY_12|0
+at least l ( f )|IN JJS JJ -LRB- NN -RRB-|BODY_4|0
+track-buffering|NN|BODY_4|0
+client cmfs client|NN NNS NN|BODY_11|0
+tr #|NN #|BODY_8|0
+a local buffer|DT JJ NN|BODY_7|0
+a track|DT NN|BODY_6|0
+a multi-block file operation|DT JJ NN NN|BODY_3|0
+the cushion parameter|DT NN NN|BODY_7|0
+y i|JJ NN|BODY_6|0
+arrival rate|NN NN|BODY_6:BODY_7|0
+either case|CC NN|BODY_4|0
+a fifo|DT NN|BODY_6|0
+eq|NN|BODY_2:BODY_1:BODY_8|0
+interactive response|JJ NN|BODY_5|0
+a disk block|DT NN NN|BODY_6|0
+the addition|DT NN|BODY_5|0
+the goal|DT NN|BODY_4|0
+an interactive request|DT JJ NN|BODY_3|0
+( f ) > t i|-LRB- NN -RRB- NN NN NN|BODY_3|0
+90 %|CD NN|BODY_5:BODY_1|0
+no i/o|DT NN|BODY_9|0
+claim 2|NN CD|BODY_3|0
+( client|-LRB- NN|BODY_10|0
+session (|NN -LRB-|BODY_17|0
+i 2|NN LS|BODY_15|0
+background traffic throughput|NN NN IN|BODY_4|0
+therefore no starvation|RB DT NN|BODY_6|0
+i i 0 figure|FW FW CD NN|BODY_2|0
+the cpu|DT NNS|BODY_4|0
+requests|NNS|BODY_10|0
+y and r parameters|RB CC NN NNS|BODY_9|0
+advances|NNS|BODY_4|0
+fixed h|VBN NN|BODY_3|0
+at least y|IN JJS NN|BODY_17|0
+suffices|NNS|BODY_3|0
+section 2.1 )|NN CD -RRB-|BODY_2|0
+an upper limit|DT JJ NN|BODY_2|0
+a distributed system|DT VBN NN|BODY_3|0
+schedule|NN|BODY_7|0
+the fifo and repositions|DT NN CC NNS|BODY_5|0
+the scheduling vagaries|DT NN NNS|BODY_4|0
+the data ) or implicit|DT NNS -RRB- CC JJ|BODY_3|0
+whose clients|WP$ NNS|BODY_4|0
+response degrades|NN NNS|BODY_6|0
+whose data periods|WP$ NNS NNS|BODY_8|0
+.|.|BODY_5|0
+the block size|DT NN NN|BODY_7|0
+deterministic end-to-end perfor- mance|JJ JJ NNS NN|BODY_2|0
+the full amount|DT JJ NN|BODY_3|0
+figure 4c )|NN JJ -RRB-|BODY_5|0
+an i/o device|DT JJ NN|BODY_2|0
+p ( t )|NN -LRB- NN -RRB-|BODY_2|0
+data transfer|NNS NN|BODY_3|0
+. start|. NN|BODY_4|0
+these hysteresis|DT NN|BODY_5|0
+a feasible workahead-augmenting operation sequence f|DT JJ NN NN NN NN|BODY_2|0
+its arrival|PRP$ NN|BODY_5|0
+hysteresis limits|NN NNS|BODY_7|0
+a flow-controlled network connection|DT JJ NN NN|BODY_3|0
+randomly positioned blocks|RB VBN NNS|BODY_11|0
+cmfs adjusts|NNS NNS|BODY_1|0
+d i|JJ FW|BODY_7|0
+each connection|DT NN|BODY_7|0
+enough workahead|RB NN|BODY_4|0
+the following slack time hysteresis policy|DT VBG JJ NN NN NN|BODY_4|0
+all j ( recall|DT NNS -LRB- NN|BODY_2|0
+feasible ( claim and workahead-augmenting|JJ -LRB- NN CC NN|BODY_4|0
+shows|NNS|BODY_2|0
+the write point|DT VBP NN|BODY_19:BODY_9|0
+six sessions|CD NNS|BODY_6|0
+a single background task|DT JJ NN NN|BODY_7|0
+a time interval|DT NN NN|BODY_4|0
+the maximum long-term data rate|DT JJ JJ NNS NN|BODY_10|0
+the operations|DT NNS|BODY_3|0
+the max_rate parameter|DT JJ NN|BODY_10|0
+device audio/video|NN NN|BODY_9|0
+ours|PRP|BODY_6|0
+their assumptions|PRP$ NNS|BODY_1|0
+a disk array|DT NN NN|BODY_6|0
+satisfies|NNS|BODY_3|0
+an extra block|DT JJ NN|BODY_7|0
+a read session ( b|DT VBN NN -LRB- NN|BODY_19|0
+byte|NN|BODY_9|0
+a system state|DT NN NN|BODY_3|0
+) b )|-RRB- NN -RRB-|BODY_12|0
+unit|NN|BODY_4|0
+the final three steps|DT JJ CD NNS|BODY_5|0
+no session starves|DT NN NNS|BODY_3|0
+read and|VBN CC|BODY_22|0
+real-time operations|JJ NNS|BODY_6|0
+the following exception|DT VBG NN|BODY_3|0
+the bottleneck session |DT NN NN|BODY_3|0
+remote procedure call|JJ NN NN|BODY_4|0
+the buffer space|DT NN NN|BODY_2|0
+this period|DT NN|BODY_10|0
+the same host|DT JJ NN|BODY_3|0
+video frames|NN NNS|BODY_5|0
+discussions|NNS|BODY_1|0
+introduction current disk drives|NN JJ NN NNS|BODY_1|0
+models latencies|NNS NNS|BODY_5|0
+second ( mbps|JJ -LRB- NNS|BODY_5|0
+the cmfs design|DT NNS NN|BODY_5|0
+the simulator|DT NN|BODY_1|0
+plots|NNS|BODY_3|0
+this |DT|BODY_2|0
+the graph|DT NN|BODY_2|0
+value|NN|BODY_4|0
+8.6 mbps transfer rate ( cdc wren iii|CD NNS NN NN -LRB- JJ NN NNS|BODY_11|0
+one second|CD JJ|BODY_3|0
+output|NN|BODY_5|0
+every session|DT NN|BODY_8|0
+the parameters|DT NNS|BODY_12|0
+the period|DT NN|BODY_2|0
+8 shows|CD VBZ|BODY_3|0
+cmfs.|NN|BODY_5:BODY_10|0
+client workahead|NN NN|BODY_11|0
+concurrent clients|JJ NNS|BODY_20|0
+d )|NN -RRB-|BODY_8|0
+kanagawa 243 japan|FW CD NN|BODY_8|0
+such rates suffice|JJ NNS NN|BODY_1|0
+the infinite buffer  curve|DT JJ NN JJ NN|BODY_1|0
+this workahead  data|DT NN NN NNS|BODY_1|0
+transient workload|JJ NN|BODY_7|0
+11.8 mbps transfer rate ( cdc wren v )|CD NNS NN NN -LRB- JJ NN NN -RRB-|BODY_7|0
+the protocol|DT NN|BODY_3|0
+a session ordering|DT NN NN|BODY_6|0
+r. govindan|NNP NN|BODY_1|0
+8. related work structural issues|DT VBN NN JJ NNS|BODY_1|0
+the northwestern network sound system [12]|DT JJ NN NN NN NNS|BODY_9|0
+various ways|JJ NNS|BODY_4|0
+looser delay bounds|JJR NN NNS|BODY_6|0
+sun microsystems|NN NNS|BODY_9|0
+the bold lines|DT JJ NNS|BODY_1|0
+the minimal operation|DT JJ NN|BODY_4|0
+preceding|VBG|BODY_9|0
+hence the sequence|RB DT NN|BODY_10|0
+a full buffer ( section 2.3 )|DT JJ NN -LRB- NN CD -RRB-|BODY_4|0
+a fixed number|DT JJ NN|BODY_7|0
+only the increasing-workahead ordering p|RB DT NN VBG NN|BODY_5|0
+the interactive class|DT JJ NN|BODY_18|0
+a continuous media file system|DT JJ NN NN NN|BODY_2|0
+the real i/o  version|DT JJ NN NNS NN|BODY_2|0
+6|CD|BODY_1|0
+these observations|DT NNS|BODY_1|0
+our available disk|PRP$ JJ NN|BODY_9|0
+h i and h|NN NN CC NN|BODY_9|0
+l block|JJ NN|BODY_9|0
+a simulation|DT NN|BODY_4|0
+section 6 )|NN CD -RRB-|BODY_6|0
+n +1 ) blocks|RB RB -RRB- NNS|BODY_7|0
+with smallest workahead|IN JJS NN|BODY_5|0
+high-level issues|JJ NNS|BODY_1|0
+a read|DT NN|BODY_5|0
+one  cycle |CD JJ NN|BODY_3|0
+access real-time files|NN JJ NNS|BODY_3|0
+pause|NN|BODY_15|0
+service non-real-time traffic|NN JJ NN|BODY_7|0
+background operations|NN NNS|BODY_1|0
+the was.|DT NN|BODY_5|0
+that cyclical plan|DT JJ NN|BODY_4|0
+8.6 mbps|CD NNS|BODY_6:BODY_10|0
+figure 3 )|NN CD -RRB-|BODY_14|0
+equal data rates|JJ NNS NNS|BODY_6|0
+greedy and static/minimal|JJ CC JJ|BODY_1|0
+interactive arrival rate|JJ NN NN|BODY_1|0
+read-ahead|NN|BODY_4|0
+reading and writing allocation map and index blocks|NN CC NN NN NN CC NN NNS|BODY_9|0
+the meta-scheduling  model [2]|DT JJ NN NN NN|BODY_2|0
+all the sessions|PDT DT NNS|BODY_6|0
+h b|NN NN|BODY_4|0
+a gap|DT NN|BODY_3|0
+reserves|NNS|BODY_7|0
+this example|DT NN|BODY_1|0
+a seek( ) operation|DT NN -RRB- NN|BODY_2|0
+figure 14|NN CD|BODY_1|0
+the new slack times d and e|DT JJ JJ NNS JJ CC NN|BODY_5|0
+load-balancing and availability|NN CC NN|BODY_2|0
+client behavior|NN NN|BODY_2|0
+the creation request|DT NN NN|BODY_2|0
+this the workahead |DT DT NN|BODY_2|0
+intervals|NNS|BODY_5|0
+each graph|DT NN|BODY_1|0
+safe relative|JJ JJ|BODY_3|0
+buffer space )|NN NN -RRB-|BODY_6|0
+the interval ( t i|DT NN -LRB- NN PRP|BODY_2|0
+continuous media|JJ NNS|TITLE_2|0
+gemmell and christodoulakis|NN CC NN|BODY_1|0
+this session|DT NN|BODY_1|0
+i < j|FW FW FW|BODY_2|0
+the aggressive cyclical plan|DT JJ JJ NN|BODY_1|0
+the hardware|DT NN|BODY_7|0
+up to y bytes|RB TO NN NNS|BODY_7|0
+the maximal value|DT JJ NN|BODY_3|0
+the removal|DT NN|BODY_6|0
+the feasible|DT NN|BODY_5|0
+the flow|DT NN|BODY_3|0
+the entire slack time|DT JJ JJ NN|BODY_12|0
+'s logical clock|POS JJ NN|BODY_3|0
+note|NN|BODY_1|0
+an rpc or exception )|DT NN CC NN -RRB-|BODY_2|0
+a fractional block|DT JJ NN|BODY_4|0
+start_clock(|NN|BODY_6|0
++1 differs|CD NNS|BODY_3|0
+the buffer allocation feasible|DT NN NN NN|BODY_6|0
+h max|NN NN|BODY_6:BODY_5|0
+no further interactive operations|DT RBR JJ NNS|BODY_8|0
+future slack time|JJ JJ NN|BODY_9|0
+a buffer|DT NN|BODY_2|0
+y amount|NN NN|BODY_7|0
+interactive non-real-time traffic|JJ JJ NN|BODY_10|0
+rates r 1|NNS NN CD|BODY_2|0
+a contiguous layout policy|DT JJ NN NN|BODY_1|0
+not|RB|BODY_1|0
+the lower hysteresis limit h|DT JJR NN NN NN|BODY_11|0
+logically contiguous blocks|RB JJ NNS|BODY_11|0
+particular suppose|JJ VBP|BODY_4|0
+( t )|-LRB- NN -RRB-|BODY_7|0
+the duration|DT NN|BODY_6|0
+the operation sequence ( p|DT NN NN -LRB- NN|BODY_5|0
+'s maximum delay|POS JJ NN|BODY_4|0
+cushion amount|VB NN|BODY_5|0
+interruption|NN|BODY_4|0
+the pause/resume|DT NN|BODY_1|0
+the alternative|DT NN|BODY_6|0
+contiguous allocation|JJ NN|BODY_4|0
+this scheme|DT NN|BODY_1|0
+simple algebra|JJ NN|BODY_1|0
+guaranteed-performance playback|NN NN|BODY_6|0
+a single workstation|DT JJ NN|BODY_14|0
+the simulations|DT NNS|BODY_1|0
+disk scheduling policy|NN NN NN|ABSTRACT_8|0
+acceptance test|NN NN|BODY_1|0
+concurrent non-real-time access|JJ JJ NN|BODY_1|0
+a positive integer m i|DT JJ NN NN VBP|BODY_4|0
+several mbps|JJ NNS|BODY_10|0
+sions|NNS|BODY_8|0
+h large|JJ JJ|BODY_7|0
+non-realtime operations|JJ NNS|BODY_3|0
+higher arrival rates|JJR NN NNS|BODY_1|0
+the use|DT NN|BODY_1|0
+( analytical approximation )|-LRB- JJ NN -RRB-|BODY_1|0
+g ( t )|VBG -LRB- NN -RRB-|BODY_1|0
+at most r bytes/second|IN JJS NN NN|BODY_4|0
+a vertical bar|DT JJ NN|BODY_8|0
+the main difference|DT JJ NN|BODY_1|0
+[6]|NN|BODY_8|0
+an alternative|DT JJ|BODY_1|0
+the parameterization|DT NN|BODY_1|0
+the cm-resource model [2]|DT NN NN NN|BODY_4|0
+a fixed threshold|DT VBN NN|BODY_4|0
+1 and 2 )|CD CC CD -RRB-|BODY_1|0
+the same reasons|DT JJ NNS|BODY_1|0
+possible bounds functions|JJ NNS NNS|BODY_1|0
+ignoring cpu overhead|VBG NN NN|BODY_1|0
+substituting eqs|VBG NN|BODY_9|0
+high arrival rates|JJ NN NNS|BODY_1|0
+a fixed parameter|DT JJ NN|BODY_4|0
+cmfs performance|NNS NN|BODY_7|0
+hard performance guarantees|JJ NN NNS|BODY_4|0
+abbott|NN|BODY_1|0
+end-to-end performance|JJ NN|BODY_1|0
+multiple audio tracks|JJ NN NNS|BODY_5|0
+implementation alternatives|NN NNS|BODY_1|0
+interactive and background|JJ CC NN|BODY_3|0
+section 3|NN CD|BODY_4|0
+system performance|NN NN|BODY_6|0
+later execution|RB NN|BODY_8|0
+allocation and compaction strategies|NN CC NN NNS|BODY_1|0
+figure 7 )|NN CD -RRB-|BODY_9|0
+precise instants|JJ NNS|BODY_7|0
+zero )|CD -RRB-|BODY_15|0
+several forms|JJ NNS|BODY_7|0
+multiple data streams|JJ NNS NNS|BODY_6|0
+several broad classes|JJ JJ NNS|BODY_1|0
+overall performance|JJ NN|BODY_19|0
+buffer size e|NN NN NN|BODY_6|0
+f n and f n +1|NN NN CC NN NN NNS|BODY_1|0
+( 3|-LRB- CD|BODY_1|0
+the i/o server|DT NN NN|BODY_1|0
+scheduling decision|NN NN|BODY_8|0
+a buffer overflow )|DT NN NN -RRB-|BODY_9|0
+section 5.3|NN CD|BODY_4|0
+8 mb system buffer size|CD JJ NN NN NN|BODY_6|0
+a simple way|DT JJ NN|BODY_5|0
+an inter-file seek|DT JJ VBP|BODY_7|0
+let p|VB NN|BODY_1|0
+properties|NNS|BODY_1|0
+slackness|NN|BODY_2|0
+appropriate parameters|JJ NNS|BODY_1|0
+an operation set|DT NN NN|BODY_8|0
+described|VBN|BODY_5|0
+a whole|DT NN|BODY_6|0
+7. performance|DT NN|BODY_1|0
+all these resources|PDT DT NNS|BODY_5|0
+figure 1a )|NN CD -RRB-|BODY_5|0
+the order p|DT NN NN|BODY_1|0
+performed|VBN|BODY_4|0
+a net- work )|DT JJ NN -RRB-|BODY_10|0
+file internals|NN NNS|BODY_5|0
+# 5.3|# CD|BODY_11|0
+a consumer|DT NN|BODY_6|0
+he|PRP|BODY_1|0
+such guarantees|JJ NNS|BODY_5|0
+the client data interface|DT NN NNS NN|BODY_1|0
+this inequality|DT NN|BODY_1|0
+6.1 )|CD -RRB-|BODY_6|0
+additional buffer space|JJ NN NN|BODY_21|0
+function|NN|BODY_7|0
+optical disk )|JJ NN -RRB-|BODY_16|0
+each policy|DT NN|BODY_9|0
+disk , cpu , network , bus , memory , etc|NN , NN , NN , NN , NN , FW|BODY_5|0
+end-to-end scheduling|JJ NN|BODY_1|0
+cyclical plan|JJ NN|BODY_1|0
+section 7 )|NN CD -RRB-|BODY_4|0
+its cushion|PRP$ NN|BODY_7|0
+the appropriate value|DT JJ NN|BODY_1|0
+second and three 1.4 mbps sessions|JJ CC CD CD NNS NNS|BODY_6|0
+hard guarantees|JJ NNS|BODY_3|0
+other projects|JJ NNS|BODY_1|0
+let|VB|BODY_1|0
+the difference|DT NN|BODY_1|0
+these cylinders|DT NNS|BODY_15|0
+15|CD|BODY_1|0
+request _session( )|NN NN -RRB-|BODY_3|0
+an operation sequence f|DT NN NN NN|BODY_1|0
+this layout|DT NN|BODY_4|0
+( see figure|-LRB- VB NN|BODY_1|0
+4 , 5|CD , CD|BODY_1|0
+different design choices|JJ NN NNS|ABSTRACT_3|0
+our study|PRP$ NN|BODY_1|0
+the  cushion  )|DT NN NN NN -RRB-|BODY_4|0
+( 1|-LRB- CD|BODY_1|0
+individual disks|JJ NNS|BODY_5|0
+its request _session( ) call returns|PRP$ NN NN -RRB- NN NNS|BODY_3|0
+an appendix|DT NN|BODY_2|0
+the i/o device interrupt handler|DT JJ NN JJ NN|BODY_7|0
+the cyclical plan|DT JJ NN|BODY_1|0
+an entire track|DT JJ NN|BODY_1|0
+each file|DT NN|BODY_1|0
+1 ( t )|CD -LRB- NN -RRB-|BODY_5|0
+the client control interface|DT NN NN NN|BODY_1|0
+over- head|DT NN|BODY_8|0
+the seek overhead|DT VBP NN|BODY_1|0
+the symmetry|DT NN|BODY_1|0
+( f i )|-LRB- NN NN -RRB-|BODY_7|0
+park and english|NN CC JJ|BODY_1|0
+rangan and vin [11]|NN CC NN NNS|BODY_1|0
+single channel audio playback|JJ NN NN NN|BODY_3|0
+such a policy|PDT DT NN|BODY_1|0
+abun- dant|DT NN|BODY_4|0
+either purpose|DT NN|BODY_5|0
+the hardware sector size )|DT NN NN NN -RRB-|BODY_5|0
+the memory-allocation block size|DT NN NN NN|BODY_3|0
+this allocation|DT NN|BODY_1|0
+yu|PRP|BODY_1|0
+the implicit flow control|DT JJ NN NN|BODY_1|0
+these requirements|DT NNS|BODY_2|0
+the underlying disk drives|DT JJ NN NNS|BODY_5|0
+the background task|DT NN NN|BODY_10|0
+3|LS|BODY_3|0
+test cmfs|NN NNS|BODY_1|0
+fixed workload and delay bounds|JJ NN CC NN NNS|BODY_4|0
+cmfs , reading and writing|NNS , NN CC NN|BODY_5|0
+figure 9|NN CD|BODY_1|0
+proof|NN|BODY_1|0
+the new|DT JJ|BODY_4|0
+such a schedule|JJ DT NN|BODY_4|0
+a minimal feasible|DT JJ NN|BODY_1|0
+exists|VBZ|BODY_3|0
+the seek|DT VBP|BODY_11|0
+available disk bandwidth|JJ NN NN|BODY_3|0
+higher slack levels|JJR JJ NNS|BODY_5|0
+the high data rate|DT JJ NN NN|BODY_1|0
+the interactive arrival rate|DT JJ NN NN|BODY_1|0
+the data rate r|DT NNS NN NN|BODY_7|0
+disk operations|NN NNS|BODY_5|0
+all h i 1|DT JJ NN CD|BODY_1|0
+both the greedy and cyclical plan policies|DT DT JJ CC JJ NN NNS|BODY_1|0
+this read|DT NN|BODY_1|0
+point|NN|BODY_7|0
+startup time|JJ NN|BODY_1|0
+these real-time sessions|DT JJ NNS|BODY_3|0
+some|DT|BODY_1|0
+a fixed amount b|DT VBN NN NN|BODY_2|0
+b n >|NN NN NN|BODY_1|0
+cmfs client fifos|JJ NN NNS|BODY_4|0
+r (|NN -LRB-|BODY_1|0
+a sequence|DT NN|BODY_1|0
+a final cylinder|DT JJ NN|BODY_8|0
+min 9|NN CD|BODY_4|0
+block i|NN NN|BODY_21|0
+concreteness|NN|BODY_1|0
+background traffic|NN NN|BODY_1|0
+'s|POS|BODY_5|0
+startup mode|JJ NN|BODY_7|0
+their performance|PRP$ NN|BODY_5|0
+session semantics|NN NNS|BODY_1|0
+as|IN|BODY_2|0
+limited buffer space|JJ NN NN|BODY_5|0
+examples|NNS|BODY_1|0
+iteration i|NN FW|BODY_6|0
+functions|NNS|BODY_1|0
+the functions|DT NNS|BODY_1|0
+the file system state w|DT NN NN NN NN|BODY_1|0
+the logical clock c|DT JJ NN NN|BODY_1|0
+the efficiency|DT NN|BODY_1|0
+a single disk|DT JJ NN|BODY_3|0
+several such sessions|JJ JJ NNS|BODY_1|0
+# >|# CD|BODY_3|0
+the disk device driver|DT NN NN NN|BODY_11|0
+# 5.2|# CD|BODY_4|0
+7 and 8|CD CC CD|BODY_1|0
+a certain point|DT JJ NN|BODY_8|0
+a similar effect|DT JJ NN|BODY_1|0
+1 and 2. #|CD CC CD #|BODY_1|0
+a feasible workahead-augmenting sequence|DT JJ NN NN|BODY_6|0
+a unique minimal-length operation set f i|DT JJ NN NN VBN NN NN|BODY_3|0
+each interval|DT NN|BODY_1|0
+four concurrent 1.4 mbps sessions|CD JJ CD NNS NNS|BODY_3|0
+no allocation|DT NN|BODY_6|0
+the following algorithm|DT VBG NN|BODY_1|0
+gra|NN|BODY_8|0
+i j|NN NN|BODY_4|0
+system buffer size|NN NN NN|BODY_9|0
+y bytes|JJ NNS|BODY_2|0
+the above arguments i|DT JJ NNS FW|BODY_1|0
+the acme server [3] )|DT NN NN NN -RRB-|BODY_9|0
+sections 6 and 7.|NNS CD CC CD|BODY_8|0
+startup times|JJ NNS|BODY_1|0
+0.752.25session number|NN NN|BODY_1|0
+the worst-case|DT NN|BODY_7|0
+to|TO|BODY_5|0
+'s operation|POS NN|BODY_5|0
+a particular session|DT JJ NN|BODY_1|0
++1 ]|CD NN|BODY_4|0
+disk )|NN -RRB-|BODY_8|0
+( note|-LRB- NN|BODY_1|0
+its utility|PRP$ NN|BODY_2|0
+figure 2|NN CD|BODY_12|0
+the results|DT NNS|BODY_1|0
+16 )|CD -RRB-|BODY_1|0
+all j|DT NN|BODY_1|0
+further- more|RB JJR|BODY_1|0
+layout assumptions|NN NNS|BODY_1|0
+real-time scheduling policies|JJ NN NNS|BODY_1|0
+section 7|NN CD|BODY_1|0
+several possible disk scheduling policies|JJ JJ NN NN NNS|BODY_3|0
+the f|DT NN|BODY_1|0
+these issues|DT NNS|BODY_6|0
+cylinder|NN|BODY_17|0
+its id|PRP$ NN|BODY_2|0
+the cpu resource|DT NN NN|BODY_9|0
+2. client interface|DT NN NN|BODY_1|0
+tcp connections|NN NNS|BODY_10|0
+an error code|DT NN NN|BODY_2|0
+start_clock( )|NN -RRB-|BODY_1|0
+a client-level session|DT NN NN|BODY_1|0
+a shortest-seek-first pol-|DT JJ NNS|BODY_6|0
+increasing workahead|VBG NN|BODY_6|0
+see section 2.3|VB NN CD|BODY_3|0
+session startup time|NN JJ NN|BODY_1|0
+the same notation|DT JJ NN|BODY_4|0
+data rate guarantees|NNS NN NNS|BODY_1|0
+each class|DT NN|BODY_7|0
+each disk block|DT NN NN|BODY_1|0
+either kernel or user level|DT NN CC NN NN|BODY_3|0
+following policy|JJ NN|BODY_2|0
+guaranteed-performance read and  sessions|NN VBN CC JJ NNS|BODY_3|0
+several respects|JJ NNS|BODY_3|0
+the available buffer space|DT JJ NN NN|BODY_21|0
+the central ideas|DT JJ NNS|BODY_1|0
+the continuous media file system|DT JJ NNS NN NN|BODY_1:ABSTRACT_1|0
+the following two claims|DT VBG CD NNS|BODY_1|0
+the issues|DT NNS|BODY_1|0
+the role|DT NN|BODY_1|0
+these semantics|DT NNS|BODY_1|0
+other sessions|JJ NNS|BODY_2|0
+a permutation p|DT NN NN|BODY_1|0
+any sequence f|DT NN NN|BODY_1|0
+enough buffer space|JJ NN NN|BODY_13|0
+more sessions|JJR NNS|BODY_8|0
+the sectors|DT NNS|BODY_5|0
+a long , contiguously-allocated file|DT JJ , JJ NN|BODY_9|0
+audio and video|NN CC NN|BODY_5|0
+the axioms|DT NNS|BODY_6|0
+this order|DT NN|BODY_6|0
+interactive operations|JJ NNS|BODY_1|0
+some nonzero threshold|DT NN NN|BODY_4|0
+a workahead-augmenting set (|DT VBG NN -LRB-|BODY_14|0
+cpu overhead|NN NN|BODY_1|0
+each iteration|DT NN|BODY_1|0
+low|JJ|BODY_4|0
+static/minimal|NN|BODY_1|0
+the identity permutation|DT NN NN|BODY_5|0
+w i ( t )|JJ VBP -LRB- NN -RRB-|BODY_5|0
+greedy quickly|JJ RB|BODY_6|0
+all permutations p|DT NNS NN|BODY_1|0
+t d|NN NN|BODY_1|0
+t e|NN NN|BODY_1|0
+'s operation )|POS NN -RRB-|BODY_6|0
+( section 2.1 )|-LRB- NN CD -RRB-|BODY_9|0
+1 , 2|CD , CD|BODY_1|0
+the call|DT NN|BODY_1|0
+the logical clock advances|DT JJ NN NNS|BODY_1|0
+this phase )|DT NN -RRB-|BODY_11|0
+likewise f|RB NN|BODY_4|0
+the schedule|DT NN|BODY_1|0
+workahead-augmenting|NN|BODY_2|0
+(voluntarily ) pausing|RB -RRB- NN|BODY_11|0
+a general approach|DT JJ NN|BODY_1|0
+section 3.2 )|NN CD -RRB-|BODY_6|0
+the fifo.|DT NN|BODY_3|0
+the shaded rectangles|DT VBN NNS|BODY_1|0
+'s position|POS NN|BODY_9|0
+all times t|DT NNS NN|BODY_1|0
+data rate and buffer-requirement guarantees|NNS NN CC NN NNS|BODY_1|0
+its reading|PRP$ NN|BODY_4|0
+the above situation|DT JJ NN|BODY_1|0
+a heavy load|DT JJ NN|BODY_10|0
+suppose sessions|VB NNS|BODY_1|0
+0 )|CD -RRB-|BODY_8|0
+claim 1|NN CD|BODY_1|0
+files f 1|NNS NN CD|BODY_1|0
+n ( t )>|NN -LRB- NN NN|BODY_1|0
+san rafael|FW NN|BODY_1|0
+y i and r i|NN NN CC NN NN|BODY_1|0

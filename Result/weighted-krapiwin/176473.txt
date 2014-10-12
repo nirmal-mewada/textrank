@@ -1,0 +1,545 @@
+that|WDT|BODY_12:BODY_11:BODY_17:BODY_18:BODY_21:ABSTRACT_3:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:ABSTRACT_8:BODY_1:BODY_10:BODY_7:ABSTRACT_9:BODY_8:BODY_9|0
+executable interprocedural slices|JJ JJ NNS|TITLE_1:BODY_2|0
+the slice|DT NN|BODY_5:ABSTRACT_6:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_19:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+a slice|DT NN|BODY_6:BODY_16:ABSTRACT_2:BODY_2:BODY_24:ABSTRACT_1:BODY_8|0
+x|NN|BODY_6:BODY_11:ABSTRACT_11:BODY_13:BODY_2:BODY_3:BODY_14:BODY_10:BODY_8:BODY_9:BODY_20:ABSTRACT_10|0
+a program|DT NN|BODY_11:BODY_5:ABSTRACT_2:BODY_3:BODY_4:BODY_10|0
+an interprocedural slice|DT JJ NN|BODY_2:BODY_3:ABSTRACT_1|0
+respect|NN|BODY_6:BODY_12:BODY_11:BODY_5:ABSTRACT_3:BODY_4:BODY_7|0
+a variable x|DT JJ NN|ABSTRACT_5:BODY_10|0
+an entire program|DT JJ NN|ABSTRACT_3:BODY_3|0
+the program|DT NN|BODY_17:BODY_13:ABSTRACT_8:BODY_3:BODY_7:BODY_8|0
+point p|NN NN|BODY_12:BODY_5:ABSTRACT_11:BODY_21:BODY_13:BODY_4:BODY_7:BODY_8:ABSTRACT_12|0
+mark weiser|NN NN|BODY_2:ABSTRACT_3|0
+procedure calls|NN NNS|BODY_6:ABSTRACT_6:BODY_10:BODY_8|0
+the value|DT NN|BODY_5:BODY_1:BODY_19:BODY_10:BODY_9:ABSTRACT_10|0
+the notion|DT NN|BODY_3:ABSTRACT_1|0
+weiser|NN|BODY_6:BODY_1:BODY_14:ABSTRACT_1:BODY_4|0
+these slices|DT NNS|BODY_2:ABSTRACT_1|0
+the boundaries|DT NNS|BODY_5:ABSTRACT_5|0
+an extension|DT NN|BODY_2:ABSTRACT_1|0
+their algorithm|PRP$ NN|ABSTRACT_2:BODY_1|0
+executable programs|JJ NNS|ABSTRACT_5:BODY_1:BODY_7|0
+'s original interprocedural-slicing algorithm|POS JJ NN NN|ABSTRACT_2|0
+a program point p|DT NN NN NN|ABSTRACT_4|0
+smaller ) slices|JJR -RRB- NNS|ABSTRACT_5|0
+a program slice|DT NN NN|ABSTRACT_2|0
+a recent algorithm|DT JJ NN|ABSTRACT_1|0
+the new algorithm|DT JJ NN|ABSTRACT_7|0
+program integration|NN NN|ABSTRACT_6|0
+automatic parallelization|JJ NN|ABSTRACT_5|0
+program debugging|NN NN|ABSTRACT_4|0
+a proof|DT NN|ABSTRACT_5|0
+more accurately|RBR RB|ABSTRACT_6|0
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+it|PRP|BODY_6:BODY_5:BODY_17:BODY_13:BODY_26:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+s|VBZ|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the system|DT NN|BODY_6:BODY_12:BODY_16:BODY_15:BODY_2:BODY_4:BODY_7|1
+slice|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+vertices|NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the system dependence graph|DT NN NN NN|BODY_5:BODY_2:BODY_4|0
+a procedure|DT NN|BODY_5:BODY_18:BODY_15:BODY_13:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+the hrb algorithm|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+version ( 1 )|NN -LRB- CD -RRB-|BODY_5:BODY_3:BODY_8:BODY_9|0
+the hrb slicing algorithm|DT NN NN NN|BODY_6:BODY_2:BODY_3|0
+the sdg|DT NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+a control dependence edge|DT NN NN NN|BODY_1:BODY_2|0
+( 2 ) parameters|-LRB- CD -RRB- NNS|BODY_1|0
+c. < < insert|NN NN NN NN|BODY_12|0
+which parameters and globals|WDT NNS CC NNS|BODY_2|0
+4501 north charles street|CD JJ NNS NN|BODY_5|0
+the new slicing algorithm|DT JJ NN NN|BODY_3|0
+a full slice )|DT JJ NN -RRB-|BODY_8|0
+[7 ] and algorithm|DT NN CC NN|BODY_3|0
+the second call statement|DT JJ NN NN|BODY_3|0
+an actual-out vertex mismatch|DT JJ NN NN|BODY_2|0
+every non-def-order edge e|DT JJ NN NN|BODY_10|0
+the final system slice|DT JJ NN NN|BODY_5|0
+a summer research grant|DT NN NN NN|BODY_3|0
+roll-out( slice ) exists|JJ NN -RRB- VBZ|BODY_4|0
+an hrb slice executable|DT NN NN NN|BODY_2|0
+p ( e .g.|NN -LRB- NN NN|BODY_6|0
+a vertex or edge|DT NN CC NN|BODY_5|0
+the corresponding actual-out vertex|DT JJ JJ RB|BODY_19|0
+roll-out( slice ) )|NN NN -RRB- -RRB-|BODY_9|0
+entry and call vertices|NN CC NN NNS|BODY_14|0
+a flow dependence edge|DT NN NN NN|BODY_6|0
+the called procedure parameter|DT VBN NN NN|BODY_13|0
+the same data-flow effect|DT JJ JJ NN|BODY_9|0
+formal-out and actual-out vertices|JJ CC JJ NNS|BODY_6|0
+( b ) call-sites|-LRB- NN -RRB- NNS|BODY_22|0
+a separate name space|DT JJ NN NN|BODY_3|0
+the same nesting level|DT JJ NN NN|BODY_10|0
+the corresponding procedure-entry vertex|DT JJ NN RB|BODY_9|0
+figure 4 ensures y|NN CD VBZ NN|BODY_5|0
+the software maintenance technique|DT NN NN NN|BODY_2|0
+actual-in vertex  x|JJ JJ NN NN|BODY_5|0
+each component c -v|DT NN NN NN|BODY_2|0
+'s such as c|POS JJ IN NN|BODY_7|0
+just the dependence edges|RB DT NN NNS|BODY_4|0
+a single main procedure|DT JJ JJ NN|BODY_11|0
+a 1-to-1 mapping h|DT JJ NN NN|BODY_3|0
+version ( 2 )|NN -LRB- CD -RRB-|BODY_7|0
+a 1-to-1 mapping g|DT JJ NN VBG|BODY_7|0
+formal-in and formal-out vertices|JJ CC JJ NNS|BODY_6|0
+an actual-in vertex mismatch|DT JJ NN NN|BODY_4|0
+) and while-loop statements|-RRB- CC NN NNS|BODY_9|0
+two related mismatch problems|CD JJ NN NNS|BODY_6|0
+the reduced pro- gram |DT JJ NNS NN|BODY_8|0
+a new scope statement|DT JJ NN NN|BODY_3|0
+2 ( sdg) [9]|CD -LRB- NN NN|BODY_5|0
+v hrb and system|NN NN CC NN|BODY_6|0
+the smallest possible slice|DT JJS JJ NN|BODY_3|0
+the slice b2( g|DT NN NN NN|BODY_5|0
+an executable interprocedural slice|DT NN JJ NN|BODY_8|0
+the corresponding formal-in vertex|DT JJ JJ RB|BODY_14|0
+a trivial transformation t|DT JJ NN NN|BODY_2|0
+all statements and predicates|DT NNS CC NNS|BODY_7|0
+v ) and e|NN -RRB- CC NN|BODY_4|0
+a semantically unsatisfactory system|DT RB JJ NN|BODY_5|0
+the same relative order|DT JJ JJ NN|BODY_3|0
+'s interprocedural slicing algorithm|POS JJ NN NN|BODY_15|0
+all the b2 slices|PDT DT NN NNS|BODY_2|0
+some other actual-in vertex|DT JJ JJ NN|BODY_7|0
+the exhaustive in-line expansion|DT JJ JJ NN|BODY_3|0
+( interprocedural data-flow analysis|-LRB- JJ NN NN|BODY_1|0
+a in := sum |DT IN JJ NN|BODY_9|0
+precise executable interprocedural slices|JJ JJ JJ NNS|BODY_6:BODY_4|0
+each call statement expansion|DT NN NN NN|BODY_7|0
+'s interprocedural-slicing method [17]|POS NN NN NN|BODY_5|0
+def-order or parameter-out edges|NN CC JJ NNS|BODY_13|0
+a data dependence edge|DT NN NN NN|BODY_1|0
+any other algorithmic means|DT JJ JJ NNS|BODY_4|0
+actual-in and formal-in vertices|JJ CC JJ NNS|BODY_1|0
+( a ) y|-LRB- DT -RRB- NN|BODY_1|0
+( b ) y|-LRB- NN -RRB- NN|BODY_1|0
+more precise interprocedural slices|RBR JJ JJ NNS|BODY_1|0
+this vertex or edge|DT NN CC NN|BODY_1|0
+the syntactic correctness theorem|DT NN NN NN|BODY_1|0
+a further actual-in mismatch|DT JJ JJ NN|BODY_5|0
+only legal execution paths|JJ JJ NN NNS|BODY_9|0
+a syntactically correct program|DT NN JJ NN|BODY_8|0
+( slicing lemma )|-LRB- NN NN -RRB-|BODY_1|0
+( vertex mismatch )|-LRB- NN NN -RRB-|BODY_1|0
+the hrb algorithm 2.1|DT NN NN CD|BODY_1|0
+figure 3|NN CD|BODY_6:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|0
+the original system|DT JJ NN|BODY_6:BODY_11:BODY_13:BODY_7|1
+an hrb slice|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+)|-RRB-|BODY_5:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+values|NNS|BODY_6:BODY_12:BODY_5:BODY_11:BODY_13:BODY_4:BODY_7|1
+a b2 slice|DT NN NN|BODY_5:BODY_2:BODY_1|0
+we|PRP|BODY_6:BODY_1:BODY_2:BODY_3:BODY_9|0
+an exception handler|DT NN NN|BODY_2:BODY_3|1
+a division-by-zero error|DT NN NN|BODY_1:BODY_7|1
+the same procedure|DT JJ NN|BODY_12:BODY_11:BODY_4:BODY_8|0
+the important point|DT JJ NN|BODY_3|1
+v|NN|BODY_6:BODY_2:BODY_4:BODY_7|0
+the called procedure|DT VBN NN|BODY_12:BODY_6:BODY_15:BODY_4|0
+the edge set|DT NN NN|BODY_6:BODY_11:BODY_15:BODY_4|0
+single procedure programs|JJ NN NNS|BODY_18:BODY_2:BODY_7|0
+procedure dependence graphs|NN NN NNS|BODY_12:BODY_1|0
+the actual-out vertex|DT JJ NN|BODY_4:BODY_7:BODY_9|0
+the procedure|DT NN|BODY_15:BODY_21:BODY_13:BODY_3:BODY_9|0
+the formal-in vertex|DT JJ NN|BODY_12:BODY_8:BODY_9|0
+the algorithm|DT NN|BODY_2:BODY_1:BODY_3|0
+roll-out( slice )|JJ NN -RRB-|BODY_6:BODY_11:BODY_5:BODY_1:BODY_7|0
+a reachability problem|DT NN NN|BODY_6:BODY_3|0
+the original program|DT JJ NN|BODY_11:BODY_4:BODY_7:BODY_8|0
+the entry vertex|DT NN NN|BODY_3:BODY_4|0
+the same sequence|DT JJ NN|BODY_6:BODY_11:BODY_10:BODY_4|0
+actual-in vertex mismatches|JJ NN NNS|BODY_2:BODY_3:BODY_4|0
+the same order|DT JJ NN|BODY_7:BODY_8:BODY_9|0
+the complexity|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+a call vertex|DT NN NN|BODY_5:BODY_2|0
+the calling context|DT VBG NN|BODY_3:BODY_14|0
+a call statement|DT NN NN|BODY_2:BODY_1|0
+the second call-site|DT JJ NN|BODY_6:BODY_9|0
+an executable slice|DT JJ NN|BODY_16:BODY_1:BODY_3|0
+an infinite program|DT JJ NN|BODY_2:BODY_4|0
+data dependence edges|NNS NN NNS|BODY_5:BODY_3|0
+an actual parameter|DT JJ NN|BODY_5:BODY_9|0
+a transfer-in statement|DT JJ NN|BODY_2|0
+induced edges )|JJ NNS -RRB-|BODY_2:BODY_7|0
+the composition t|DT NN NN|BODY_2|0
+the first call-site|DT JJ NN|BODY_6:BODY_3|0
+the three steps|DT CD NNS|BODY_2:BODY_3|0
+actual-in vertex v|JJ NN NN|BODY_2:BODY_3|0
+v hrb|NN NN|BODY_1:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8|0
+8 , 12]|CD , CD|BODY_5|0
+the formal definition|DT JJ NN|BODY_1:BODY_2|0
+the formal-out vertex|DT JJ NN|BODY_6:BODY_10|0
+all calling contexts|DT VBG NNS|BODY_6:BODY_3|0
+the value 0|DT NN CD|BODY_3|0
+the three reviewers|DT CD NNS|BODY_3|0
+the intuitive definition|DT JJ NN|BODY_2:BODY_4|0
+computer science department|NN NN NN|BODY_3|0
+the maximum number|DT JJ NN|BODY_16:BODY_9|0
+automatic parallelization [2|JJ NN NN|BODY_6|0
+both control edges|DT NN NNS|BODY_11|0
+the second step|DT JJ NN|BODY_5:BODY_1|0
+a def-order edge|DT NN NN|BODY_2:BODY_1|0
+just the components|RB DT NNS|BODY_12:BODY_8|0
+the finite programs|DT JJ NNS|BODY_5|0
+a and y|DT CC NN|BODY_13|0
+the first pass|DT RB NN|BODY_3|0
+the following properties|DT VBG NNS|BODY_3|0
+the same vertex|DT JJ NN|BODY_11|0
+1|CD|BODY_13:BODY_23:BODY_2:BODY_1:BODY_3|0
+a procedure call|DT NN NN|BODY_4|0
+each formal-out vertex|DT JJ RB|BODY_18|0
+context and treats|NN CC NNS|BODY_6|0
+algorithm interprocedural slicing|NN JJ VBG|BODY_2|0
+a safe value|DT JJ NN|BODY_2|0
+the interprocedural slice|DT JJ NN|BODY_2|0
+an initial-definition vertex|DT NN NN|BODY_5|0
+the overall complexity|DT JJ NN|BODY_2|0
+the least upper|DT JJS JJ|BODY_3|0
+each variable that|DT JJ DT|BODY_6:BODY_4|0
+every edge v|DT NN FW|BODY_2|0
+each call site|DT NN NN|BODY_20|0
+the first call|DT JJ NN|BODY_3|0
+its finite approximations|PRP$ JJ NNS|BODY_5|0
+the first step|DT JJ NN|BODY_1|0
+the vertex set|DT JJ NN|BODY_10:BODY_8|0
+one transfer-out statement|CD JJ NN|BODY_6|0
+the same type|DT JJ NN|BODY_9|0
+a b1 slice|DT JJ NN|BODY_7|0
+any one procedure|DT CD NN|BODY_11:BODY_18|0
+the second call|DT JJ NN|BODY_5:BODY_8|0
+the third step|DT JJ NN|BODY_1:BODY_9|0
+the infinite programs|DT JJ NNS|BODY_7|0
+this new algorithm|DT JJ NN|BODY_2|0
+all three points|DT CD NNS|BODY_3|0
+a brief summary|DT JJ NN|BODY_2:BODY_1|0
+actual-in vertex mismatch|JJ NN NN|BODY_8|0
+def-order dependence edges|NN NN NNS|BODY_5|0
+global variable that|JJ JJ DT|BODY_3:BODY_8|0
+its originating line|PRP$ JJ NN|BODY_6|0
+an actual-in vertex|DT JJ NN|BODY_5|0
+flow dependence edges|NN NN NNS|BODY_4|0
+a slight extension|DT JJ NN|BODY_6|0
+a predicate vertex|DT NN NN|BODY_4|0
+a parameter-out edge|DT NN NN|BODY_17|0
+( g p|-LRB- VBG NN|BODY_8|0
+every edge e|DT NN NN|BODY_8|0
+a single procedure|DT JJ NN|BODY_2|0
+the same control|DT JJ NN|BODY_11|0
+coarse grain parallelism|JJ NN NN|BODY_2|0
+the first algorithm|DT JJ NN|BODY_3|0
+the name space|DT NN NN|BODY_14|0
+( reachingvertices( g|-LRB- NN NN|BODY_11:BODY_7|0
+its calling contexts|PRP$ VBG NNS|BODY_14|0
+an example system|DT NN NN|BODY_2|0
+control dependence edges|NN NN NNS|BODY_4|0
+all program points|DT NN NNS|BODY_4|0
+a semantics-preserving transformation|DT JJ NN|BODY_2|0
+input and output|NN CC NN|BODY_5|0
+the individual passes|DT JJ NNS|BODY_5|0
+slice and s.|NN CC NN|BODY_10:BODY_9|0
+verticesofslice ( p|NN -LRB- NN|BODY_9|0
+a call edge|DT NN NN|BODY_7|0
+one transfer-in statement|CD JJ NN|BODY_2|0
+a distinguished vertex|DT JJ NN|BODY_3|0
+call statements|NN NNS|BODY_18:BODY_2:BODY_4:BODY_7|0
+different actual-in vertices|JJ JJ NNS|BODY_13:BODY_9|0
+the untransformed versions|DT JJ NNS|BODY_9|0
+a vertex v|DT JJ NN|BODY_7|0
+the reduced program|DT JJ NN|BODY_4|0
+a transfer-in vertex|DT JJ NN|BODY_2|0
+h ( v|NN -LRB- FW|BODY_4|0
+< insert figure|IN NN NN|BODY_5|0
+a parameter-in edge|DT NN NN|BODY_11|0
+the call vertex|DT NN NN|BODY_12|0
+a complete system|DT JJ NN|BODY_10|0
+an actual-in mismatch|DT JJ NN|BODY_2|0
+a parameter mismatch|DT NN NN|BODY_10|0
+the notation roll-out(|DT NN NN|BODY_2|0
+the slicing theorem|DT NN NN|BODY_6|0
+version ( 2|NN -LRB- CD|BODY_5:BODY_13|0
+variable naming conflicts|JJ NN NNS|BODY_4|0
+ respectively )|JJ RB -RRB-|BODY_16|0
+the same label|DT JJ NN|BODY_12|0
+the first parameter|DT JJ NN|BODY_5|0
+previous dependence representations|JJ NN NNS|BODY_7|0
+an sdg g|DT JJ NN|BODY_3|0
+the program elements|DT NN NNS|BODY_6|0
+graph g roll-out(|NN NN NN|BODY_12|0
+individual computation threads|JJ NN NNS|BODY_4|0
+roll-out( p )|JJ NN -RRB-|BODY_7|0
+the same edge|DT JJ NN|BODY_13|0
+the program component|DT NN NN|BODY_10|0
+the program components|DT NN NNS|BODY_1|0
+a dependence graph|DT NN NN|BODY_4|0
+the sdg models|DT NN NNS|BODY_1|0
+an isomorphism f|DT NN NN|BODY_4|0
+a pro- cedure|DT JJ NN|BODY_3|0
+10 , 11]|CD , CD|BODY_4|0
+the hrb slice|DT NN NN|BODY_3|0
+the transformed versions|DT VBN NNS|BODY_5|0
+some other operation|DT JJ NN|BODY_3|0
+the total number|DT JJ NN|BODY_5|0
+an executable program|DT JJ NN|BODY_5|0
+the original procedure|DT JJ NN|BODY_14|0
+each expansion step|DT NN NN|BODY_1|0
+two call statements|CD NN NNS|BODY_11|0
+( executable slice|-LRB- JJ NN|BODY_3|0
+vertex set v|JJ NN NNS|BODY_5|0
+( np -v|-LRB- NN NN|BODY_3|0
+a common use|DT JJ NN|BODY_8|0
+these calling contexts|DT VBG NNS|BODY_7|0
+a call site|DT NN NN|BODY_3|0
+each actual-in vertex|DT JJ RB|BODY_12|0
+summary edges|NN NNS|BODY_6:BODY_11:BODY_1:BODY_3:BODY_7|0
+the dependence graphs|DT NN NNS|BODY_20|0
+indivisible com- ponents|JJ NNS NNS|BODY_23|0
+the polynomial complexity|DT JJ NN|BODY_3|0
+the following conditions|DT VBG NNS|BODY_4|0
+the assignment statement|DT NN NN|BODY_7|0
+the graph (v|DT NN NN|BODY_6|0
+v )|FW -RRB-|BODY_12:BODY_6:BODY_5:BODY_4:BODY_10:BODY_8|0
+a single vertex|DT JJ NN|BODY_3|0
+the relative order|DT JJ NN|BODY_6|0
+a formal-in vertex|DT JJ NN|BODY_4|0
+a non-terminating loop|DT JJ NN|BODY_7|0
+the same values|DT JJ NNS|BODY_10|0
+an infinite loop|DT JJ NN|BODY_6|0
+the b2 slice|DT JJ NN|BODY_6|0
+the division-by-zero error|DT NN NN|BODY_5|0
+explicit the transfer|JJ DT NN|BODY_12|0
+the following definition|DT VBG NN|BODY_5|0
+( a )|-LRB- DT -RRB-|BODY_12|0
+a vertex u|DT JJ NN|BODY_11|0
+the vertices|DT NNS|BODY_6:BODY_2:BODY_4|0
+procedure boundaries-a solution|NN NN NN|BODY_4|0
+an executable system|DT JJ NN|BODY_4|0
+actual-out vertex mismatches|JJ NN NNS|BODY_3|0
+single-procedure program p|JJ NN NN|BODY_3|0
+the actual-in vertex|DT JJ NN|BODY_11|0
+call} ) )|NN -RRB- -RRB-|BODY_14|0
+the statement print|DT NN NN|BODY_4|0
+:= z out|JJ FW RP|BODY_11:BODY_13|0
+figure 4 )|NN CD -RRB-|BODY_18|0
+an intraprocedural edge|DT JJ NN|BODY_4|0
+the linear complexity|DT JJ NN|BODY_6|0
+a reduced program|DT JJ NN|BODY_9|0
+the corresponding sdg.|DT JJ NN|BODY_3|0
+a complete algorithm|DT JJ NN|BODY_1|0
+y and e|NN CC NN|BODY_11|0
+a given set|DT VBN NN|BODY_7|0
+the infinite loop|DT JJ NN|BODY_13|0
+the construction cost|DT NN NN|BODY_1|0
+( 3 )|-LRB- CD -RRB-|BODY_1|0
+the actual parameter|DT JJ NN|BODY_10|0
+the chief difficulty|DT JJ NN|BODY_1|0
+an actual-out vertex|DT JJ NN|BODY_9|0
+the necessary components|DT JJ NNS|BODY_1|0
+p terminates corollary|NN NNS NN|BODY_11|0
+'s entry vertex|POS NN NN|BODY_10|0
+the calling side|DT VBG NN|BODY_7|0
+a summary edge|DT NN NN|BODY_1|0
+the system dependence|DT NN NN|BODY_1|0
+unwanted program components|JJ NN NNS|BODY_2|0
+the previous case|DT JJ NN|BODY_1|0
+the same text|DT JJ NN|BODY_15|0
+the input system|DT NN NN|BODY_7|0
+the sliced system|DT JJ NN|BODY_3|0
+different actual-out vertices|JJ JJ NNS|BODY_12|0
+this path corresponds|DT NN NNS|BODY_1|0
+x and y|NN CC NN|BODY_1|0
+the second parameter|DT JJ NN|BODY_8|0
+a subset v|DT JJ NN|BODY_1|0
+just monolithic programs|RB JJ NNS|BODY_11|0
+( induced graph|-LRB- JJ NN|BODY_1|0
+no additional slicing|DT JJ NN|BODY_2|0
+the calling-context problem|DT JJ NN|BODY_1|0
+a non-executable slice|DT JJ NN|BODY_1|0
+each scope statement|DT NN NN|BODY_1|0
+unsolvable data-flow problems|JJ NN NNS|BODY_5|0
+unwanted call sites|JJ NN NNS|BODY_5|0
+all necessary statements|DT JJ NNS|BODY_7|0
+the following discussion|DT VBG NN|BODY_1|0
+a called procedure|DT VBN NN|BODY_4|0
+each program component|DT NN NN|BODY_1|0
+the dependence graph|DT NN NN|BODY_10|0
+v and u|NN CC NN|BODY_8|0
+possible execution paths|JJ NN NNS|BODY_8|0
+( roll-out )|-LRB- NN -RRB-|BODY_1|0
+( verticesofslice )|-LRB- NN -RRB-|BODY_1|0
+p|NN|BODY_5:BODY_11:BODY_3:BODY_14:BODY_4:BODY_7:BODY_9|0
+2 )|CD -RRB-|BODY_2:BODY_3:BODY_4:BODY_10|0
+( 2|-LRB- CD|BODY_6:BODY_1:BODY_10:BODY_8|0
+( 1|-LRB- CD|BODY_6:BODY_5:BODY_9|0
+the size|DT NN|BODY_6:BODY_5:BODY_1:BODY_10|0
+assignment statements|NN NNS|BODY_6:BODY_4:BODY_7:BODY_8|0
+every parameter|DT NN|BODY_2:BODY_3:BODY_7|0
+the vertex|DT NN|BODY_12:BODY_6:BODY_8:BODY_9|0
+a system|DT NN|BODY_2:BODY_3:BODY_10:BODY_4|0
+slices|NNS|BODY_2:BODY_3|0
+g 2|VBG CD|BODY_11:BODY_3:BODY_7|0
+variable x|JJ NN|BODY_6:BODY_14:BODY_8|0
+a solution|DT NN|BODY_12:BODY_6:BODY_2:BODY_3|0
+this paper|DT NN|BODY_1:BODY_2:BODY_7|0
+u|NN|BODY_12:BODY_11:BODY_3:BODY_9|0
+actual-out vertices|JJ NNS|BODY_1:BODY_2:BODY_8|0
+context|NN|BODY_6:BODY_4:BODY_8:BODY_9|0
+the theorem|DT NN|BODY_6:BODY_1:BODY_4|0
+the names|DT NNS|BODY_4|1
+e|NN|BODY_3:BODY_10:BODY_4:BODY_7|0
+the proof|DT NN|BODY_2:BODY_1:BODY_3|0
+edges|NNS|BODY_1:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+executable slices|JJ NNS|BODY_1:BODY_3|0
+a result|DT NN|BODY_3:BODY_4:BODY_9|0
+the components|DT NNS|BODY_6:BODY_2:BODY_7|0
+example|NN|BODY_1:BODY_3|0
+g roll-out(|VBG JJ|BODY_6:BODY_3:BODY_4:BODY_8|0
+roll-out|NN|BODY_1:BODY_3:BODY_8|0
+procedures|NNS|BODY_14:BODY_4:BODY_7:BODY_9|0
+( v|-LRB- NN|BODY_14:BODY_10|0
+this section|DT NN|BODY_1:BODY_2:BODY_7|0
+the statements|DT NNS|BODY_1:BODY_2:BODY_4:BODY_7|0
+an sdg|DT NN|BODY_2:BODY_3|0
+these vertices|DT NNS|BODY_15:BODY_10|0
+the addition|DT NN|BODY_3:BODY_4|0
+a subgraph|DT NN|BODY_6:BODY_3:BODY_8|0
+intraprocedural slices|JJ NNS|BODY_2:BODY_3|0
+figure 4|NN CD|BODY_3:BODY_4:BODY_9|0
+three kinds|CD NNS|BODY_2:BODY_4|0
+a collection|DT NN|BODY_12:BODY_11|0
+all call-sites|DT NNS|BODY_2:BODY_20|0
+global variable|JJ JJ|BODY_4:BODY_8|0
+the computation|DT NN|BODY_5:BODY_3|0
+multiple calls|JJ NNS|BODY_3:BODY_9|0
+intraprocedural slicing|JJ VBG|BODY_5:BODY_2|0
+the meanings|DT NNS|BODY_4|0
+figure 1|NN CD|BODY_5:BODY_1|0
+the call|DT NN|BODY_5:BODY_10:BODY_7|0
+the definition|DT NN|BODY_7|0
+call sites|NN NNS|BODY_3:BODY_10|0
+interprocedural slicing|JJ NN|BODY_2:BODY_4|0
+the edge|DT NN|BODY_8:BODY_9|0
+pass 1|NN CD|BODY_5:BODY_2:BODY_4|0
+the set|DT NN|BODY_3:BODY_4:BODY_8|0
+vertex v|JJ NN|BODY_2|0
+a call-site|DT JJ|BODY_6:BODY_13:BODY_4|0
+loyola college|NN NN|BODY_4|0
+code [17]|NN JJ|BODY_3|0
+the graph|DT NN|BODY_6:BODY_4:BODY_8|0
+2|CD|BODY_2:BODY_14:BODY_9|0
+the sequence|DT NN|BODY_6:BODY_2|0
+the execution|DT NN|BODY_2:BODY_8:BODY_9|0
+:= b|NN NN|BODY_14|0
+the predicates|DT NNS|BODY_7|0
+the same|DT JJ|BODY_1:BODY_9|0
+e .g.|NN NN|BODY_10|0
+the number|DT NN|BODY_13:BODY_2|0
+unwanted call-sites|JJ NNS|BODY_9|0
+vertex u|JJ NN|BODY_3|0
+:= a|NN DT|BODY_15|0
+a programmer|DT NN|BODY_2|0
+art delcher|NN NN|BODY_2|0
+g slice|VBG NN|BODY_12:BODY_5:BODY_1|0
+the assignment|DT NN|BODY_2|0
+c )|NN -RRB-|BODY_2|0
+conditional (|JJ -LRB-|BODY_8|0
+calls|NNS|BODY_12:BODY_5:BODY_10|0
+separate slices|JJ NNS|BODY_4|0
+procedure p|NN NN|BODY_2:BODY_3|0
+sequential programs|JJ NNS|BODY_3|0
+[5 ]|CD NN|BODY_3|0
+a series|DT NN|BODY_5|0
+this approach|DT NN|BODY_1:BODY_2|0
+procedure main|NN JJ|BODY_5:BODY_7|0
+'s address|POS NN|BODY_2|0
+flow edges|NN NNS|BODY_5:BODY_8|0
+a )|DT -RRB-|BODY_5|0
+the process|DT NN|BODY_2|0
+correctness definitions|NN NNS|BODY_2|0
+new results|JJ NNS|BODY_1|0
+the semantics|DT NNS|BODY_2|0
+a language|DT NN|BODY_2|0
+the editor|DT NN|BODY_4|0
+data dependences|NNS NNS|BODY_12|0
+a call|DT NN|BODY_6|0
+b2 slices|NN NNS|BODY_3|0
+ [1|JJ NNS|BODY_3|0
+program dependence|NN NN|BODY_2|0
+control edges|NN NNS|BODY_6:BODY_9|0
+a discussion|DT NN|BODY_2|0
+a variety|DT NN|BODY_3|0
+figure 2|NN CD|BODY_2|0
+parameter passing|NN VBG|BODY_6:BODY_8|0
+chapter 8|NN CD|BODY_2|0
+finite approximations|JJ NNS|BODY_6|0
+[3 ]|CD NN|BODY_17|0
+all vertices|DT NNS|BODY_3|0
+an infinite-loop|DT NN|BODY_2|0
+this algorithm|DT NN|BODY_5:BODY_1|0
+an example|DT NN|BODY_1:BODY_3|0
+such parameters|JJ NNS|BODY_3|0
+that procedure|DT NN|BODY_10:BODY_8|0
+regression testing|NN NN|BODY_5|0
+ x|JJ NN|BODY_11|0
+a mismatch|DT NN|BODY_4|0
+v) )|NN -RRB-|BODY_5:BODY_10:BODY_9|0
+they|PRP|BODY_2:BODY_3|0
+a fault|DT NN|BODY_9|0
+the cost|DT NN|BODY_4|0
+different subsets|JJ NNS|BODY_12:BODY_14|0
+the extension|DT NN|BODY_2:BODY_3|0
+a semantics|DT NNS|BODY_2|0
+parameter c|NN NN|BODY_2|0
+whose vertices|WP$ NNS|BODY_6:BODY_8|0
+substantial improvements|JJ NNS|BODY_5|0
+baltimore maryland|NN NN|BODY_6|0
+a path|DT NN|BODY_5:BODY_3|0
+t -1|NN NN|BODY_3|0
+the examples|DT NNS|BODY_3|0
+the suggestions|DT NNS|BODY_1|0
+this isomorphism|DT NN|BODY_1|0
+procedure|NN|BODY_6:BODY_5:BODY_2|0
+the solution|DT NN|BODY_13|0
+the evaluation|DT NN|BODY_10|0
+two ways|CD NNS|BODY_2|0
+output statements|NN NNS|BODY_6|0
+at most|IN JJS|BODY_6|0
+slicing g|NN NN|BODY_2:BODY_7|0
+all points|DT NNS|BODY_12|0
+a statement|DT NN|BODY_3|0
+the call-sites|DT NNS|BODY_2|0
+the exposition|DT NN|BODY_6|0
+the statement|DT NN|BODY_7|0
+input statements|NN NNS|BODY_5|0
+the remainder|DT NN|BODY_1|0
+using weiser|VBG NN|BODY_4|0
+> example|IN NN|BODY_6:BODY_24|0
+parameter-in edges|JJ NNS|BODY_12|0
+parameter-out edges|JJ NNS|BODY_8|0
+the sequences|DT NNS|BODY_3:BODY_10|0
+two vertices|CD NNS|BODY_2|0
+these procedures|DT NNS|BODY_2|0
+line [6|NN CD|BODY_8|0
+.loyola.edu version|NNP NN|BODY_8|0
+a parameter|DT NN|BODY_7:BODY_9|0
+y (|NN -LRB-|BODY_13|0
+pdgs )|NNS -RRB-|BODY_13|0
+:= c |NN NN|BODY_6|0
+source )|NN -RRB-|BODY_7|0
+interprocedural control|JJ NN|BODY_17|0
+the term|DT NN|BODY_1|0
+( 3|-LRB- CD|BODY_16|0
+this phenomenon|DT NN|BODY_2|0
+c :=|NN NN|BODY_8|0
+the paper|DT NN|BODY_2|0
+g p|NN NN|BODY_3|0
+isomorphic 5|JJ CD|BODY_7|0
+these sequences|DT NNS|BODY_4|0
+b1( g|JJ NN|BODY_5|0
+the body|DT NN|BODY_5|0
+control dependent|NN JJ|BODY_11|0
+g 1|VBG CD|BODY_5:BODY_9|0
+those|DT|BODY_5:BODY_3|0
+the presence|DT NN|BODY_1|0
+every vertex|DT NN|BODY_7|0
+this slice|DT NN|BODY_14|0
+four kinds|CD NNS|BODY_3|0

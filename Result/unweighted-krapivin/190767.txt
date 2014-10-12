@@ -1,0 +1,907 @@
+we|PRP|BODY_6:BODY_13:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+a|DT|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_11:BODY_3:BODY_4:BODY_7:BODY_9|0
+1|CD|BODY_12:BODY_6:BODY_11:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_8:BODY_9|0
+the product|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+algorithms|NNS|BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_8|0
+s|PRP|BODY_12:BODY_5:BODY_21:BODY_24:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+data|NNS|BODY_2:BODY_3:BODY_10:BODY_4|0
+the data|DT NNS|BODY_6:BODY_18:BODY_1:BODY_2:BODY_3:BODY_9|0
+a hypercube|DT NN|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+an index transformation|DT NN NN|BODY_16:BODY_2:BODY_3:BODY_7|0
+order|NN|BODY_6:BODY_3:BODY_10:BODY_4:BODY_7|0
+hypercube multiprocessors|NN NNS|ABSTRACT_4:BODY_1:BODY_2:BODY_4|0
+this|DT|BODY_1:BODY_2|0
+0|CD|BODY_12:BODY_6:ABSTRACT_6:BODY_2:BODY_4|0
+one|CD|BODY_12:BODY_5:BODY_2:BODY_1:BODY_4|0
+proof|NN|BODY_5:BODY_1|0
+us|PRP|BODY_11:BODY_2:BODY_3:BODY_8|0
+conditional exchanges|JJ NNS|BODY_6:BODY_12:BODY_11:BODY_14:BODY_3:BODY_4:BODY_7|0
+elements|NNS|BODY_2:BODY_3:BODY_4|0
+an algorithm|DT NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+johnsson|NN|BODY_4:BODY_7:BODY_8:BODY_9|0
+a sequence|DT NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_10|0
+the hypercube|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+a matrix|DT NN|ABSTRACT_5:BODY_1:BODY_4:BODY_7:BODY_8|0
+there|EX|BODY_1:BODY_14:BODY_8|0
+the vector|DT NN|BODY_5:BODY_3:BODY_8|0
+they|PRP|BODY_5:BODY_1:BODY_2:BODY_4:BODY_8|0
+gray coding|JJ NN|BODY_5:BODY_3:BODY_7|0
+i|NN|BODY_2:BODY_3:BODY_7|0
+the matrix|DT NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+the identity|DT NN|BODY_12:BODY_7:BODY_9|0
+the algorithm|DT NN|BODY_2:BODY_4|0
+f n 2|NN NN CD|BODY_17:BODY_4:BODY_9|0
+a vector|DT NN|BODY_6:BODY_5:BODY_3:BODY_7:BODY_8|0
+fact|NN|BODY_13:BODY_2:BODY_1:BODY_8|0
+a subset|DT NN|BODY_2|0
+example 1|NN CD|BODY_2:BODY_9|0
+a 1|DT CD|BODY_2:BODY_3|0
+the gray code|DT JJ NN|BODY_1:BODY_3|0
+dimensions|NNS|BODY_6:BODY_2:BODY_8:BODY_9|0
+e k|NN NN|BODY_2:BODY_10:BODY_4|0
+the algorithms|DT NNS|BODY_4:BODY_7|0
+dimension permutations|NN NNS|BODY_2:BODY_1:BODY_3:BODY_7|0
+'s|POS|BODY_6:BODY_11:ABSTRACT_7:ABSTRACT_9|0
+a conditional exchange|DT JJ NN|BODY_1:BODY_2:BODY_3|0
+a permutation|DT NN|BODY_5:BODY_2:BODY_4|0
+the existence|DT NN|BODY_5:BODY_3:BODY_4|0
+e|NN|BODY_2:BODY_3:BODY_10|0
+completion|NN|BODY_2:BODY_3:BODY_4|0
+the cm-2|DT NN|BODY_1:BODY_2|0
+the dimensions|DT NNS|BODY_5:BODY_7:BODY_9|0
+a linear index transformation|DT JJ NN NN|BODY_2:BODY_10|0
+a shuffle permutation|DT NN NN|BODY_2:BODY_4|0
+all|DT|BODY_3:BODY_4:BODY_9|0
+the gauss-jordan algorithm|DT JJ NN|BODY_1:BODY_2|0
+example 2|NN CD|BODY_6:BODY_11:BODY_2:BODY_1|0
+the principal submatrices|DT JJ NNS|BODY_1:BODY_3:BODY_4:BODY_7|0
+u|PRP|BODY_11:BODY_3:BODY_4|0
+the form|DT NN|BODY_6:BODY_3:BODY_9|0
+a dimension permutation|DT NN NN|BODY_1:BODY_3|0
+a circulant matrix|DT NN NN|BODY_2:BODY_4|0
+n|NN|BODY_6:BODY_11:BODY_3:BODY_4:BODY_10|0
+matrices|NNS|BODY_5:BODY_1:BODY_3|0
+elementary bit-exchanges|JJ NNS|BODY_5:BODY_17:BODY_18|0
+index transformation algorithms|NN NN NNS|BODY_5:TITLE_1:BODY_3|0
+u 1|NN CD|BODY_2:BODY_4|0
+gray codes|JJ NNS|BODY_2:BODY_1:ABSTRACT_3|0
+a matrix-vector product|DT NN NN|BODY_6:BODY_5:BODY_7|0
+the sequence|DT NN|BODY_11:BODY_15:BODY_1:BODY_9|0
+a disjoint set|DT NN NN|BODY_2|0
+any dimension permutation|DT NN NN|BODY_2|0
+computational frameworks|JJ NNS|BODY_2|0
+operation|NN|BODY_2|0
+a 0|DT CD|BODY_15:BODY_2:BODY_1|0
+n objects|NN NNS|BODY_6:BODY_5:BODY_3|0
+the factorization|DT NN|BODY_1:BODY_7:BODY_8|0
+thinking machines corporation|VBG NNS NN|BODY_2:BODY_3|0
+f 2|NN CD|BODY_5:BODY_1|0
+both upper triangular|DT JJ NN|BODY_3|0
+the bit|DT NN|BODY_12:BODY_2|0
+the equivalence|DT NN|BODY_1:BODY_2|0
+the restriction|DT NN|BODY_5:BODY_8|0
+gi|NNP|BODY_2:BODY_7|0
+any order|DT NN|BODY_6:BODY_5:BODY_15:BODY_8|0
+its matrix representation|PRP$ NN NN|BODY_4:BODY_9|0
+\gamma1|NN|BODY_7:BODY_9|0
+a reordering|DT NN|BODY_2:BODY_4|0
+the identity matrix|DT NN NN|BODY_12:BODY_10|0
+gauss-jordan elimination|JJ NN|BODY_12:ABSTRACT_4:BODY_7:BODY_8|0
+a class|DT NN|ABSTRACT_3:BODY_4|0
+transformations|NNS|BODY_5:BODY_23|0
+the order|DT NN|BODY_6:BODY_22|0
+applications|NNS|BODY_5:BODY_1|0
+permutations|NNS|BODY_5:BODY_3|0
+all dimensions|DT NNS|BODY_2:BODY_3|0
+each node|DT NN|BODY_2:BODY_1|0
+all code change operations|DT NN NN NNS|BODY_2|0
+the determinant|DT NN|BODY_6:BODY_9|0
+the n|DT NN|BODY_11:BODY_4|0
+a shuffle|DT NN|BODY_5:BODY_3|0
+matrix-vector notation|NN NN|BODY_9|0
+the first time|DT JJ NN|BODY_5:BODY_3|0
+;j|NN|BODY_6|0
+communications algorithms|NNS NNS|BODY_2:ABSTRACT_3|0
+multiples|NNS|BODY_5:BODY_3|0
+4.2 consecutive members|CD JJ NNS|BODY_2|0
+n )|NN -RRB-|BODY_4|0
+rings|NNS|BODY_4|0
+the utility|DT NN|BODY_2|0
+each element|DT NN|BODY_3|0
+example 1 accounting|NN CD NN|BODY_2|0
+matrix factorization algorithms|NN NN NNS|BODY_3|0
+one start-up|CD NN|BODY_2|0
+one wind-down step|CD JJ NN|BODY_3|0
+reverse order|NN NN|BODY_2|0
+the discussion|DT NN|BODY_2|0
+the factor-of-two difference|DT NN NN|BODY_3|0
+operations|NNS|BODY_6:BODY_5|0
+2|CD|BODY_6:BODY_4|0
+the jth row|DT JJ NN|BODY_10|0
+the basis|DT NN|BODY_2:BODY_3|0
+this operation|DT NN|BODY_1:BODY_3|0
+any matrix|DT NN|BODY_8|0
+e i|NN NN|BODY_2:BODY_7|0
+this class|DT NN|BODY_22:BODY_1|0
+the permutation matrix|DT NN NN|BODY_5:BODY_1|0
+the proof|DT NN|BODY_2:BODY_3|0
+the ith step|DT JJS NN|BODY_5:BODY_4|0
+grid|NN|BODY_5:BODY_3|0
+gray code encoding and decoding|JJ NN NN CC NN|BODY_5:BODY_4|0
+a permutation matrix|DT NN NN|BODY_10:BODY_8|0
+notation|NN|BODY_3:BODY_4|0
+a product|DT NN|BODY_13:BODY_2:BODY_3|0
+the other columns|DT JJ NNS|BODY_5:BODY_7|0
+1 pu 2|CD NN CD|BODY_6:BODY_10|0
+the bits|DT NNS|BODY_3|0
+arbitrary axes|JJ NNS|BODY_6:BODY_4|0
+pivoting|NN|BODY_6:BODY_14:BODY_7:BODY_8|0
+the cm-2 multiprocessor|DT NN NN|BODY_2|0
+the index transformation|DT NN NN|BODY_5:BODY_1:BODY_9|0
+several shuffle permutations|JJ NN NNS|BODY_6|0
+modulo|NN|BODY_2:BODY_10|0
+the exchange|DT NN|BODY_4|0
+reversal|NN|BODY_2|0
+the code|DT NN|BODY_2|0
+a pipelined sequence|DT JJ NN|BODY_5:BODY_4|0
+bit reversal|NN NN|ABSTRACT_6:BODY_1|0
+this work and related projects|DT NN CC JJ NNS|BODY_5|0
+f n|NN NN|BODY_6:BODY_4|0
+better advantage|JJR NN|BODY_15:BODY_7|0
+subscripts|NNS|BODY_11|0
+the contemporaneous work|DT JJ NN|BODY_2|0
+the condition|DT NN|BODY_2|0
+a bit-exchange matrix|DT NN NN|BODY_2:BODY_8|0
+the class|DT NN|BODY_3|0
+p|NN|BODY_14:BODY_7|0
+a cycle|DT NN|BODY_3:BODY_7|0
+g|NN|BODY_10|0
+such that 0|JJ IN CD|BODY_2|0
+the binary encoding|DT JJ NN|BODY_6|0
+the solution|DT NN|BODY_3:BODY_7|0
+24]|JJ|BODY_11|0
+the sequence g(|DT NN NN|BODY_3|0
+this property|DT NN|BODY_3|0
+the third bit|DT JJ NN|BODY_7|0
+fifty percent overall utilization|CD NN JJ NN|BODY_5|0
+exchanges|NNS|BODY_2|0
+the reversal property|DT NN NN|BODY_2|0
+node f( i)|NN JJ NN|BODY_5:BODY_20|0
+5.6 ) and ( 5.7 )|CD -RRB- CC -LRB- CD -RRB-|BODY_2|0
+length 2 n|NN CD NN|BODY_4:BODY_7|0
+the purpose|DT NN|BODY_4|0
+these embeddings|DT NNS|BODY_2|0
+gaussian elimination|JJ NN|BODY_4|0
+a different way|DT JJ NN|BODY_2|0
+communication [20|NN NN|BODY_4|0
+i and j|NN CC NN|BODY_4|0
+]|NN|BODY_4|0
+g and g \gamma1|VBG CC VBG NNS|BODY_11:BODY_2|0
+any g 1 g|DT NN CD NN|BODY_3|0
+her excellent assistance|PRP$ JJ NN|BODY_3|0
+our approach|PRP$ NN|BODY_2|0
+turn|NN|BODY_2|0
+any using|DT VBG|BODY_4|0
+m|NN|BODY_2|0
+a patent|DT NN|BODY_9|0
+multiprocessor computers|JJ NNS|BODY_2|0
+nodes|NNS|BODY_11|0
+routines|NNS|BODY_10|0
+many ways|JJ NNS|BODY_2|0
+widely known properties|RB VBN NNS|BODY_2|0
+lemma 5.2|NN CD|BODY_1:BODY_4|0
+the entries|DT NNS|BODY_6:BODY_5|0
+high-order bits|JJR NNS|BODY_11:BODY_9|0
+the same dimension|DT JJ NN|BODY_9|0
+spirit|NN|BODY_1:BODY_4|0
+relabeling dimensions|VBG NNS|BODY_2|0
+section 3|NN CD|BODY_6|0
+the columnwise gauss-jordan elimination algorithm ( modulo 2 )|DT NN JJ NN NN -LRB- NN CD -RRB-|BODY_2|0
+arbitrary permutations|JJ NNS|BODY_2|0
+e(|NNS|BODY_9|0
+this paper|DT NN|BODY_14|0
+the advantages|DT NNS|BODY_4|0
+one message|CD NN|BODY_3|0
+gauss-jordan|JJ|BODY_11|0
+1 only|CD RB|BODY_13|0
+the layout|DT NN|BODY_4|0
+these paths|DT NNS|BODY_7|0
+f n+1 2|NN NN CD|BODY_3|0
+a matrix , collapsing or separating axes|DT NN , VBG CC VBG NNS|BODY_3|0
+2 n elements|CD NN NNS|BODY_6:BODY_16|0
+the dimension|DT NN|BODY_3|0
+the address bits|DT NN NNS|BODY_2|0
+the binary-reflected gray code|DT JJ JJ NN|BODY_1:BODY_3|0
+the famous tower|DT JJ NN|BODY_8|0
+an important communication pattern|DT JJ NN NN|BODY_5|0
+the finite dimensional space f n 2|DT NN JJ NN NN RB CD|BODY_10:BODY_7|0
+the shuffle|DT NN|BODY_2:BODY_1|0
+all its data|DT PRP$ NNS|BODY_2|0
+vector reversal ,shuffles|NN NN NNS|ABSTRACT_7|0
+an operation|DT NN|BODY_3|0
+now|RB|BODY_3|0
+node|NN|BODY_3:BODY_10|0
+the first author|DT JJ NN|BODY_2|0
+a conditional projection|DT JJ NN|BODY_2|0
+familiar|JJ|BODY_1|0
+multiple purposes|JJ NNS|BODY_2|0
+practice|NN|BODY_2|0
+so-called dimension transformations or index permutations|JJ NN NNS CC NN NNS|BODY_2|0
+such a communication|PDT DT NN|BODY_1|0
+such a framework|PDT DT NN|BODY_1|0
+the following observation|DT VBG NN|BODY_2|0
+these algorithms|DT NNS|BODY_1|0
+these facts|DT NNS|BODY_1|0
+2.|CD|BODY_4|0
+a separate network|DT JJ NN|BODY_3|0
+a linear operator|DT NN NN|BODY_3|0
+the gauss-jordan procedure|DT JJ NN|BODY_2|0
+tabloski|NN|BODY_4|0
+j|NN|BODY_3|0
+1845-1903 )|CD -RRB-|BODY_3|0
+grids|NNS|BODY_3|0
+this algorithm|DT NN|BODY_4|0
+the matrix-vector multiply|DT NN NN|BODY_9|0
+explicitly|RB|BODY_7|0
+the kth principal submatrix|DT NN NN NN|BODY_1:BODY_4|0
+disjoint dimensions|NN NNS|BODY_3|0
+conjunction|NN|BODY_4|0
+his name|PRP$ NN|BODY_4|0
+n 0,1 matrix|NN CD NN|BODY_8|0
+advantage|NN|BODY_3|0
+the eye|DT NN|BODY_3|0
+particularly marshall isman|RB JJ NN|BODY_3|0
+fifty percent utilization|CD NN NN|BODY_3|0
+unshuffle operations|JJ NNS|BODY_2|0
+vectors|NNS|BODY_10|0
+van loan|NNP NN|BODY_4|0
+the linear index transformation|DT NN NN NN|BODY_6:BODY_9|0
+an array|DT NN|BODY_5|0
+a conditional change|DT JJ NN|BODY_6|0
+node i|NN NN|BODY_4:BODY_19:BODY_9|0
+plu|NN|BODY_3|0
+the ability|DT NN|BODY_6:BODY_11|0
+ cube|JJ NN|BODY_6:BODY_2|0
+a 2 n \theta 2 n permutation matrix|DT CD NN NN CD NN NN NN|BODY_3|0
+the bit-reverse operation|DT JJ NN|BODY_3|0
+the need|DT NN|BODY_5:BODY_7|0
+other words|JJ NNS|BODY_11|0
+the previous section|DT JJ NN|BODY_3|0
+the first and last|DT JJ CC JJ|BODY_4|0
+the machine|DT NN|BODY_6:BODY_4|0
+vectors modulo 2|NNS NN CD|BODY_4|0
+the history|DT NN|BODY_2|0
+nassimi and sahni [20 , 21]|JJ CC JJ CD , CD|BODY_7|0
+the notion|DT NN|BODY_6|0
+u 2|IN CD|BODY_13:BODY_8|0
+1958|CD|BODY_5|0
+a similar class|DT JJ NN|BODY_2|0
+the label gi|DT NN NN|BODY_9|0
+equivalently|RB|BODY_5|0
+all bit-exchanges|DT NNS|BODY_5|0
+a superset|DT NN|BODY_2|0
+the least significant bit|DT JJS JJ NN|BODY_2:BODY_4|0
+no permutation matrix|DT NN NN|BODY_2|0
+'s new book [26]|POS JJ NN NN|BODY_5|0
+the rank|DT NN|BODY_2:BODY_1|0
+conditional exchange |JJ NN|BODY_4|0
+the associated matrix|DT JJ NN|BODY_5|0
+the gray code sequence|DT JJ NN NN|BODY_9|0
+a node|DT NN|BODY_4|0
+the reals|DT NNS|BODY_5|0
+the consecutive numbers|DT JJ NNS|BODY_8|0
+a composition|DT NN|BODY_5|0
+one-hop communication|JJ NN|BODY_2|0
+the irreducible permutation matrices|DT JJ NN NNS|BODY_1:BODY_3|0
+hypercube communications algorithms|NN NNS NNS|BODY_3|0
+stone [22]|NN NN|BODY_5|0
+loss|NN|BODY_6|0
+the term|DT NN|BODY_3|0
+the first|DT JJ|BODY_6|0
+gauss-jordan elimination performed columnwise and modulo 2|JJ NN VBN NN CC NN CD|BODY_4|0
+1g|CD|BODY_4|0
+the dimension exchange|DT NN NN|BODY_2|0
+the ideas|DT NNS|BODY_3|0
+another simple hypercube communication|DT JJ NN NN|BODY_2|0
+the unconditional exchange|DT JJ NN|BODY_2|0
+the transformation|DT NN|BODY_4|0
+compositions|NNS|BODY_3|0
+light|NN|BODY_2|0
+an object|DT NN|BODY_2|0
+a given|DT VBN|BODY_3|0
+theorem 3.1|NN CD|BODY_6|0
+its reversal|PRP$ NN|BODY_6|0
+the binary representation|DT JJ NN|BODY_3|0
+this theory|DT NN|BODY_2|0
+fraser [6]|NN NN|BODY_6|0
+algebra|DT|BODY_2|0
+components|NNS|BODY_4|0
+a factorization|DT NN|BODY_2|0
+the theory|DT NN|BODY_2|0
+a large software project|DT JJ NN NN|BODY_3|0
+numbers|NNS|BODY_5|0
+the kth diagonal entry|DT NN JJ NN|BODY_2|0
+these operations|DT NNS|BODY_4|0
+an element|DT NN|BODY_3|0
+the use|DT NN|BODY_5|0
+matrix representation|NN NN|BODY_6|0
+the special case|DT JJ NN|BODY_4|0
+communications problems|NNS NNS|BODY_3|0
+adjacent nodes|JJ NNS|BODY_6|0
+low-order bits|NN NNS|BODY_12:BODY_8|0
+a dimension|DT NN|BODY_3|0
+such transformations|JJ NNS|BODY_3|0
+johnsson [16]|NN NN|BODY_3|0
+rotations|NNS|BODY_4|0
+rows and columns|NNS CC NNS|BODY_4|0
+whose n|WP$ NN|BODY_5|0
+f k 2|NN NN CD|BODY_3|0
+n matrices|RB NNS|BODY_3|0
+as is well-known [14]|RB VBZ JJ NN|BODY_2|0
+use|NN|BODY_6|0
+the so-called chinese ring puzzle|DT JJ JJ NN NN|BODY_4|0
+whose off-diagonal|WP$ JJ|BODY_12|0
+simplifies ,and|DT NN|ABSTRACT_2|0
+cormen|NNS|BODY_3|0
+him|PRP|BODY_5|0
+distinct dimensions|JJ NNS|BODY_4|0
+such asgray code encoding and decoding , matrix transpose|JJ JJ NN NN CC NN , NN NN|ABSTRACT_5|0
+the following examples|DT VBG NNS|BODY_7|0
+grid |NN|BODY_8|0
+a familiar condition|DT JJ NN|BODY_3|0
+ project|NN NN|BODY_9|0
+the gray code decoding operator g \gamma1|DT JJ NN VBG NN NN NN|BODY_7|0
+various axes|JJ NNS|BODY_5|0
+simpler matrices|JJR NNS|BODY_2|0
+presented|VBN|BODY_8|0
+communication|NN|BODY_10|0
+the gray codes differ|DT JJ NNS VBP|BODY_4|0
+the standard definition|DT JJ NN|BODY_6|0
+notice|NN|BODY_1|0
+the third author|DT JJ NN|BODY_4|0
+the  twuffler|DT NN NN|BODY_4|0
+these matrices|DT NNS|BODY_4|0
+the subcube|DT NN|BODY_3|0
+total use|JJ NN|BODY_6|0
+two|CD|BODY_5|0
+ordered sequence|VBN NN|BODY_4|0
+any nonsingular a defines|DT JJ DT NNS|BODY_2|0
+a number|DT NN|BODY_4|0
+dimension j|NN NN|BODY_14|0
+a square root|DT JJ NN|BODY_5|0
+coding|NN|BODY_4|0
+pp|RP|BODY_2|0
+the diagram|DT NN|BODY_4|0
+a linear transformation|DT JJ NN|BODY_3|0
+is|VBZ|BODY_8|0
+the mapping|DT NN|BODY_5|0
+a sense|DT NN|BODY_3|0
+indices|NNS|BODY_3|0
+then one|RB CD|BODY_6|0
+a pipelined fashion|DT JJ NN|BODY_4|0
+gray code encoding|JJ NN NN|BODY_5|0
+( 3.1|-LRB- CD|BODY_3|0
+the processor|DT NN|BODY_8|0
+)|-RRB-|BODY_4|0
+4|CD|BODY_2|0
+assembly language coding|NN NN NN|BODY_5|0
+many|JJ|BODY_2|0
+these ideas|DT NNS|BODY_8|0
+such a manner|JJ DT NN|BODY_4|0
+the french engineer emile baudot|DT JJ NN JJ NN|BODY_2|0
+the fact|DT NN|BODY_4|0
+fft|NN|BODY_5|0
+the 1940|DT CD|BODY_5|0
+the summer|DT NN|BODY_10|0
+upper (|JJ -LRB-|BODY_5|0
+stout and wagar [23|NN CC NN NNS|BODY_10|0
+optimal concurrency|JJ NN|BODY_3|0
+viewing|NN|BODY_3|0
+a two-dimensional matrix|DT JJ NN|BODY_2|0
+a larger identity matrix|DT JJR NN NN|BODY_5|0
+need|NN|BODY_9|0
+the definition|DT NN|BODY_7|0
+two convenient ways|CD JJ NNS|BODY_6|0
+the usual representation|DT JJ NN|BODY_5|0
+new results|JJ NNS|BODY_4|0
+such a matrix e|JJ DT NN NN|BODY_2|0
+other examples|JJ NNS|BODY_4|0
+the wires|DT NNS|BODY_13|0
+the element|DT NN|BODY_5|0
+lemma 5.3|NN CD|BODY_4|0
+exactly the condition|RB DT NN|BODY_8|0
+the earliest version|DT JJS NN|BODY_13|0
+the n bit indices|DT NN NN NNS|BODY_3|0
+a more complicated permutation|DT RBR JJ NN|BODY_5|0
+all the dimensions|DT DT NNS|BODY_3|0
+such a project|JJ DT NN|BODY_6|0
+a fairly complicated motion|DT RB JJ NN|BODY_3|0
+a runs|DT NNS|BODY_3|0
+n exchanges|NN NNS|BODY_8|0
+4.1 ( reversal property|CD -LRB- NN NN|BODY_7|0
+local memory|JJ NN|BODY_3|0
+johnsson [12]|NN NN|BODY_5|0
+this section|DT NN|BODY_2|0
+1953|CD|BODY_8|0
+hypercube networks|NN NNS|BODY_3|0
+the discrete|DT NN|BODY_7|0
+1 through|CD IN|BODY_4|0
+section 5|NN CD|BODY_6|0
+a linear algebraic framework|DT NN JJ NN|BODY_4|0
+any nonsingular a|DT JJ DT|BODY_2|0
+lower ) nonsingular triangular matrices corollary 3.4|JJR -RRB- JJ NN NNS NN CD|BODY_6|0
+the 0th|DT JJ|BODY_10|0
+selected components|VBN NNS|BODY_6|0
+such authors|JJ NNS|BODY_4|0
+a code change operation|DT NN NN NN|BODY_2|0
+emily stone|NN NN|BODY_2|0
+this quote|DT NN|BODY_3|0
+a = plup t|DT SYM NN NN|BODY_6|0
+column i|NN NN|BODY_6:BODY_4|0
+our notation|PRP$ NN|BODY_6|0
+gray coding and decoding|JJ NN CC NN|BODY_3|0
+empty spaces|JJ NNS|BODY_4|0
+a binary cube|DT JJ NN|BODY_7|0
+actually explicitly|RB RB|BODY_5|0
+whose matrix|WP$ NN|BODY_5|0
+the reversal|DT NN|BODY_8|0
+the following simple form|DT VBG JJ NN|BODY_3|0
+a way|DT NN|BODY_3|0
+the paper|DT NN|BODY_5|0
+5|CD|BODY_8|0
+the gray code encoding operator|DT JJ NN NN NN|BODY_6|0
+the ith row and jth column|DT , NN CC NN NN|BODY_6|0
+matrix factorizations|NN NNS|BODY_7|0
+trivial examples|JJ NNS|BODY_2|0
+a factor|DT NN|BODY_4|0
+cube swap bandwidth|NN NN NN|BODY_7|0
+certain components|JJ NNS|BODY_4|0
+the components|DT NNS|BODY_4|0
+the fixed dimension|DT JJ NN|BODY_2|0
+every diagonal minor|DT JJ JJ|BODY_3|0
+flanders|NNS|BODY_8|0
+a compact way|DT JJ NN|BODY_3|0
+this decomposition|DT NN|BODY_10|0
+cormen [2|NNS NNS|BODY_21|0
+n-vectors|NNS|BODY_3|0
+a hamiltonian path|DT JJ NN|BODY_10|0
+1990|CD|BODY_11|0
+previously that dimension permutations|RB DT NN NNS|BODY_4|0
+several|JJ|BODY_6|0
+swartztrauber [25]|JJ NN|BODY_5|0
+clarity|NN|BODY_1:BODY_7|0
+our use|PRP$ NN|BODY_2|0
+our main theorem|PRP$ JJ NN|BODY_2|0
+gilbert [8|NN NNS|BODY_4|0
+thus a linear index transformation|RB DT JJ NN NN|BODY_6|0
+ cube |JJ NN|BODY_4|0
+the right side|DT JJ NN|BODY_2|0
+blocks|NNS|BODY_3|0
+the sequence 3 linear and affine index|DT NN CD NN CC NN NN|BODY_7|0
+the connection machine model|DT NN NN NN|BODY_5|0
+the field|DT NN|BODY_2|0
+conditional exchanges e i|JJ NNS NN NN|BODY_3|0
+index transformations|NN NNS|ABSTRACT_4|0
+the |DT|BODY_8|0
+a maps|DT NNS|BODY_4|0
+embed householder reflections|JJ NN NNS|BODY_3|0
+this project|DT NN|BODY_6|0
+dimension exchanges|NN NNS|BODY_5|0
+the shuffle matrix|DT NN NN|BODY_16|0
+an n|DT NN|BODY_1:BODY_7|0
+this vector notation|DT NN NN|BODY_2|0
+interest|NN|BODY_10|0
+a shuffle or unshuffle|DT NN CC NN|BODY_3|0
+the opposite corner|DT JJ NN|BODY_4|0
+these results|DT NNS|BODY_3|0
+all nonsingular|DT JJ|BODY_2|0
+the following statements|DT VBG NNS|BODY_7|0
+the motivation|DT NN|BODY_2|0
+financial support|JJ NN|BODY_2|0
+the symmetric group|DT JJ NN|BODY_4|0
+matrix-vector products|NN NNS|BODY_4|0
+a matches|DT NNS|BODY_11|0
+a certain kind|DT JJ NN|BODY_6|0
+whose ith step|WP$ IN NN|BODY_4|0
+a upper triangular|DT JJ NN|BODY_2|0
+their own inverses|PRP$ JJ NNS|BODY_19|0
+some not so well-known properties|DT RB RB JJ NNS|ABSTRACT_4|0
+results|NNS|BODY_3|0
+the determinants|DT NNS|BODY_6|0
+the existence and use|DT NN CC NN|BODY_4|0
+the reverse order|DT NN NN|BODY_2|0
+an example|DT NN|BODY_1|0
+the more familiar index origin|DT JJR JJ NN NN|BODY_11|0
+the problem|DT NN|BODY_4|0
+bits|NNS|BODY_5|0
+r|NN|BODY_3|0
+the indices|DT NNS|BODY_6:BODY_5|0
+the ith pivot|DT JJS NN|BODY_3|0
+all the diagonal submatrices|DT DT JJ NNS|BODY_2|0
+part|NN|BODY_5|0
+cube|NN|BODY_9|0
+that g n|DT NN NN|BODY_2|0
+the kth column|DT NN NN|BODY_3|0
+n factorizations|RB NNS|BODY_15|0
+a one-dimensional vector|DT JJ NN|BODY_3|0
+gardner [7] )|NN NN -RRB-|BODY_5|0
+the n bits|DT NN NNS|BODY_7|0
+corollary 3.3 gray coding and decoding|JJ CD JJ NN CC NN|BODY_4|0
+a as a sequence|DT IN DT NN|BODY_7|0
+the desired decomposition|DT VBN NN|BODY_5|0
+any permutation matrix|DT NN NN|BODY_5|0
+the following two bit-exchange matrices|DT VBG CD JJ NNS|BODY_3|0
+rows|NNS|BODY_3|0
+bcp and larger classes|NN CC JJR NNS|BODY_2|0
+definition 3.1|NN CD|BODY_15|0
+independent elementary bit-exchange matrices|JJ JJ NN NNS|BODY_7|0
+matrix|NN|BODY_3|0
+the vector space|DT NN NN|BODY_2|0
+the example|DT NN|BODY_3|0
+this transformation|DT NN|BODY_2|0
+convenient|JJ|BODY_3|0
+repelled|VBN|BODY_2|0
+scalar notation|JJ NN|BODY_3|0
+increasing order|VBG NN|BODY_4|0
+such matrices|JJ NNS|BODY_3|0
+difficulties|NNS|BODY_2|0
+i=1,2,. ,n|DT NN|BODY_4|0
+the resulting matrix|DT VBG NN|BODY_8|0
+1 and j|CD CC NN|BODY_5|0
+only the nth component|RB DT JJ NN|BODY_4|0
+an edge|DT NN|BODY_2|0
+v|NNS|BODY_4|0
+exchange matrices|NN NNS|BODY_5|0
+independent elementary bit|JJ JJ NN|BODY_4|0
+real applications|JJ NNS|BODY_3|0
+an affine transformation|DT NN NN|BODY_7|0
+factorizations|NNS|BODY_20|0
+equation ( 5.6 )|NN -LRB- CD -RRB-|BODY_5|0
+determinants|NNS|BODY_4|0
+sequences|NNS|BODY_4|0
+conditional exchange operations|JJ NN NNS|BODY_8|0
+the worst case|DT JJS NN|BODY_7|0
+the vector notice|DT NN NN|BODY_2|0
+other hamiltonian paths|JJ JJ NNS|BODY_3|0
+a nontrivial amount|DT JJ NN|BODY_9|0
+our next definition|PRP$ JJ NN|BODY_3|0
+its binary encoding|PRP$ JJ NN|BODY_3|0
+a communication pattern|DT NN NN|BODY_5|0
+any shuffle permutation|DT NN NN|BODY_2|0
+convenient algorithm|JJ NN|BODY_7|0
+affine or linear|NN CC NN|BODY_14|0
+the transformations|DT NNS|BODY_9|0
+|JJ|BODY_4|0
+the dimensions 1|DT NNS CD|BODY_5|0
+the numbers 1|DT NNS CD|BODY_3|0
+the factors|DT NNS|BODY_23|0
+this framework|DT NN|ABSTRACT_5:ABSTRACT_1|0
+gray code|JJ NN|BODY_3|0
+cm-2 multiprocessor|CD NN|BODY_6|0
+the first component|DT JJ NN|BODY_7|0
+the first row|DT JJ NN|BODY_3|0
+a bit vector|DT NN NN|BODY_4|0
+a.|NN|BODY_12:BODY_5|0
+only deriving algebraic results|RB JJ JJ NNS|BODY_3|0
+the first i pivots|DT JJ NN NNS|BODY_5|0
+the circular order|DT JJ NN|BODY_5|0
+each dimension|DT NN|BODY_4|0
+se|NN|BODY_4|0
+the data motion|DT NNS NN|BODY_1|0
+the name vector reversal|DT NN NN NN|BODY_4|0
+the pipeline|DT NN|BODY_1|0
+the principal idea|DT JJ NN|BODY_1|0
+the same sequence|DT JJ NN|BODY_1|0
+the two approaches|DT CD NNS|BODY_4|0
+that y|DT NN|BODY_4|0
+several elements|JJ NNS|BODY_2|0
+a hypercube communications algorithm|DT NN NNS NN|BODY_5|0
+upper triangular|JJ NN|BODY_14|0
+ order|JJ NN|BODY_5|0
+the proper way|DT JJ NN|BODY_5|0
+a symmetric permutation matrix corresponds|DT JJ NN NN NNS|BODY_1|0
+an implementation|DT NN|BODY_3|0
+dimension pairs|NN NNS|BODY_3|0
+loan [26]|NN NN|BODY_1|0
+the fast fourier|DT JJ NN|BODY_3|0
+the next section|DT JJ NN|BODY_3|0
+this type|DT NN|BODY_1|0
+using lemma 5.3|VBG NN CD|BODY_1|0
+decode and encode operations|NN CC JJ NNS|BODY_2|0
+definition 5.2|NN CD|BODY_6|0
+lower ) triangular matrix|JJR -RRB- NN NN|BODY_4|0
+the node address|DT NN NN|BODY_4|0
+other algorithms|JJ NNS|BODY_5|0
+a most curious history|DT RBS JJ NN|BODY_2|0
+this n|DT NN|BODY_2|0
+3 and 4|CD CC CD|BODY_2|0
+some elements|DT NNS|BODY_4|0
+example 1 best load balances|NN CD JJS NN NNS|BODY_3|0
+a nonsingular upper (|DT JJ JJ -LRB-|BODY_3|0
+dimension k|NN NN|BODY_3|0
+a bit-exchange|DT JJ|BODY_3|0
+an elementary bit-exchange|DT JJ NN|BODY_8|0
+a very important property|DT RB JJ NN|BODY_2|0
+a new algorithm|DT JJ NN|BODY_3|0
+columns|NNS|BODY_8|0
+the temptation|DT NN|BODY_2|0
+p t u|NN NN NN|BODY_5|0
+a single one-dimensional axis|DT JJ JJ NN|BODY_3|0
+an order|DT NN|BODY_13|0
+dimension 3|NN CD|BODY_3|0
+address permutations|NN NNS|BODY_5|0
+a linear algebraic formulation|DT JJ JJ NN|ABSTRACT_2|0
+a theory|DT NN|BODY_3|0
+column-wise gauss-jordan elimination|NN JJ NN|BODY_6|0
+no pivoting|DT NN|BODY_3|0
+all the widely known properties|PDT DT RB VBN NNS|ABSTRACT_2|0
+a matter|DT NN|BODY_3|0
+load|NN|BODY_8|0
+f( i|JJ NN|BODY_6|0
+the data movement|DT NNS NN|BODY_9|0
+any lu|DT FW|BODY_3|0
+above|IN|BODY_2|0
+identical cube swap operations|JJ NN NN NNS|BODY_7|0
+the unique matrix|DT JJ NN|BODY_3|0
+every i|DT NN|BODY_9|0
+cube swaps|NN NNS|BODY_5|0
+[15|PRP|BODY_5|0
+'s and 1's|POS CC JJ|BODY_3|0
+that e i$|DT NN NN|BODY_3|0
+a hypercube multiprocessor|DT NN NN|BODY_2|0
+the more compact representation|DT RBR JJ NN|BODY_3|0
+representation|NN|BODY_12|0
+( 5.7 )|-LRB- CD -RRB-|BODY_2|0
+each permutation|DT NN|BODY_4|0
+n components|NN NNS|BODY_5|0
+only the first n components|RB DT JJ NN NNS|BODY_7|0
+the bit reversal case|DT NN NN NN|BODY_7|0
+f mn|NN NN|BODY_5|0
+whose diagonal consists|WP$ JJ VBZ|BODY_9|0
+a i\gamma1 ii|DT NN NNS|BODY_5|0
+exactly one row and column|RB CD NN CC NN|BODY_4|0
+ideas|NNS|BODY_2|0
+an extra zero|DT JJ CD|BODY_4|0
+ news order|IN NN NN|BODY_5|0
+affine|NN|BODY_17|0
+conditional exchange matrices|JJ NN NNS|BODY_4|0
+any singular matrices e|DT JJ NNS NN|BODY_4|0
+lu where l|FW WRB JJ|BODY_3|0
+upper triangular matrices|JJ NN NNS|BODY_5|0
+2 n\gammar nodes|CD NN NNS|BODY_3|0
+any linear transformation corollary 3.7|DT JJ NN NN CD|BODY_7|0
+traverses|NNS|BODY_6|0
+all principal submatrices|DT JJ NNS|BODY_2|0
+the algebraic problem|DT JJ NN|BODY_3|0
+all diagonal entries|DT JJ NNS|BODY_11|0
+2. derivation|DT NN|BODY_1|0
+analog-to-digital converters|JJ NNS|BODY_3|0
+a related observation|DT JJ NN|BODY_1|0
+exactly one bit|RB CD NN|BODY_5|0
+higher dimensional meshes|JJR JJ NNS|BODY_5|0
+many authors|JJ NNS|BODY_1|0
+a blank space|DT JJ NN|BODY_7|0
+thus gaussian elimination|RB JJ NN|BODY_7|0
+all diagonal minors|DT JJ NNS|BODY_2|0
+j )|NN -RRB-|BODY_6|0
+the triple product u 1 pu 2|DT JJ NN NN CD NN CD|BODY_1|0
+nothing|NN|BODY_5|0
+the distinguished rows and columns|DT JJ NNS CC NNS|BODY_5|0
+the gray code encoding operator g|DT JJ NN NN NN NN|BODY_1|0
+cm-2 system software|NN NN NN|BODY_1|0
+telegraphs|NNS|BODY_5|0
+frank gray|JJ JJ|BODY_1|0
+the most familiar example|DT RBS JJ NN|BODY_1|0
+any sequence|DT NN|BODY_1|0
+the connection machine|DT NN NN|BODY_6|0
+equations|NNS|BODY_1|0
+possibly a new way|RB DT JJ NN|BODY_4|0
+gilbert [8]|NN NN|BODY_1|0
+one particularly interesting example|CD RB JJ NN|BODY_1|0
+this paper , addition and multiplication|DT NN , NN CC NN|BODY_1|0
+the first and fourth bits|DT JJ CC JJ NNS|BODY_8|0
+that dimension|DT NN|BODY_6|0
+partial pivoting|JJ NN|BODY_5|0
+multiple summations|JJ NNS|BODY_12|0
+the gray coding operator|DT JJ NN NN|BODY_11|0
+the bit-exchange operation|DT JJ NN|BODY_5|0
+each hypercube dimension|DT NN NN|BODY_4|0
+each elementary bit-exchange|DT JJ NN|BODY_1|0
+bcp ( bit-permute/complement ) [20 , 21]|NN -LRB- NN -RRB- CD , CD|BODY_4|0
+step|NN|BODY_1|0
+algebraically this|RB DT|BODY_1|0
+the simplest hypercube communication|DT JJS NN NN|BODY_1|0
+fewer dimensions|JJR NNS|BODY_7|0
+real physical hypercubes|JJ JJ NNS|BODY_8|0
+decoding|NN|BODY_10|0
+the kth row|DT JJ NN|BODY_14|0
+the linear algebra framework|DT NN NN NN|BODY_4|0
+the total bandwidth|DT JJ NN|BODY_4|0
+any integer|DT NN|BODY_1|0
+the number|DT NN|BODY_7|0
+this ability|DT NN|BODY_1|0
+the natural embedding|DT JJ NN|BODY_5|0
+the set|DT NN|BODY_1|0
+distance two|NN CD|BODY_12|0
+the appropriate columns|DT JJ NNS|BODY_12|0
+hyper-cube multiprocessors|NN NNS|BODY_6|0
+a notable exception|DT JJ NN|BODY_1|0
+the two ordering schemes|DT CD VBG NNS|BODY_11|0
+this approach|DT NN|BODY_5|0
+3|CD|BODY_1|0
+other index or dimension permutations|JJ NN CC NN NNS|ABSTRACT_8|0
+swarztrauber [25]|JJ NN|BODY_12|0
+21 , 14 , 18]|CD , CD , CD|BODY_5|0
+the idea|DT NN|BODY_1|0
+[3]|NN|BODY_15|0
+a nonsingular|DT JJ|BODY_10|0
+these|DT|BODY_1|0
+every bit-exchange|DT NN|BODY_10|0
+grid communication|NN NN|BODY_4|0
+this formulation|DT NN|ABSTRACT_1|0
+a so-called pulse code modulation tube|DT JJ NN NN NN NN|BODY_10|0
+the invention|DT NN|BODY_1|0
+addition|NN|BODY_1|0
+circulant permutation matrices|NN NN NNS|BODY_1|0
+course f|NN NN|BODY_1|0
+our main results|PRP$ JJ NNS|BODY_7|0
+the other hand circulant permutation matrices|DT JJ NN NN NN NNS|BODY_1|0
+combination|NN|BODY_4|0
+differences|NNS|BODY_1|0
+editing|NN|BODY_4|0
+a brief digression|DT JJ NN|BODY_1|0
+addition and multiplication defined modulo|NN CC NN VBN NN|BODY_5|0
+the decomposition|DT NN|BODY_12|0
+both retard algorithmic development|DT NN JJ NN|BODY_6|0
+example|NN|BODY_1|0
+probably obvious|RB JJ|BODY_1|0
+wider applicability|JJR NN|BODY_9|0
+dimension permutation operations|NN NN NNS|BODY_5|0
+permutation matrices|NN NNS|BODY_1|0
+the identity i )|DT NN NN -RRB-|BODY_6|0
+hanoi puzzle|JJ NN|BODY_9|0
+corollary 4.1|NN CD|BODY_1|0
+corollary 4.2|NN CD|BODY_1|0
+keohane|NN|BODY_1|0
+n 2 elements|NN CD NNS|BODY_1|0
+corollary 3.6|NN CD|BODY_1|0
+example 2 only dimension 1|NN CD RB NN CD|BODY_5|0
+the basic theorems|DT JJ NNS|BODY_1|0
+2 n objects|CD RB VBZ|BODY_6|0
+a pleasure|DT NN|BODY_7|0
+cube swap|NN NN|BODY_4|0
+the kth|DT NN|BODY_5|0
+another more important purpose|DT RBR JJ NN|BODY_1|0
+the outline|DT NN|BODY_1|0
+proof two consecutive numbers|NN CD JJ NNS|BODY_1|0
+these transformations|DT NNS|BODY_4|0
+order 2 n|NN CD NN|BODY_2|0
+order n suffice|NN NN NN|BODY_4|0
+row p( k ) and column n|NN NN NN -RRB- CC NN NN|BODY_3|0
+the k least significant bits|DT NN JJS JJ NNS|BODY_4|0
+this case f p k|DT NN NN NN NN|BODY_1|0
+two such matrices|CD JJ NNS|BODY_3|0
+hypercube algorithms|NN NNS|BODY_6|0
+code|NN|BODY_1|0
+disjoint cycles|JJ NNS|BODY_6|0
+the form g|DT NN NN|BODY_6|0
+the same setting|DT JJ NN|BODY_5|0
+corollary 3.5|NN CD|BODY_1|0
+a admits|DT NNS|BODY_1|0
+the available bandwidth|DT JJ NN|BODY_16:BODY_8|0
+1000 1100|CD CD|BODY_1|0
+modulo 2 arithmetic one|NN CD JJ NN|BODY_1|0
+the pipe|DT NN|BODY_1|0
+definition 5.1|NN CD|BODY_1|0
+bit-matrix-multiply/complement|NN|BODY_24|0
+its first i rows|PRP$ JJ NN NNS|BODY_11|0
+nonzero|NN|BODY_5|0
+this case|DT NN|BODY_1|0
+lemma 5.1|NN CD|BODY_1|0
+some useful vectors|DT JJ NNS|BODY_1|0
+f m ;n 2|NN NN NN CD|BODY_6|0
+the theorem|DT NN|BODY_5|0
+'s indices|POS NNS|BODY_9|0
+26]|CD|BODY_6|0
+an unshuffle|DT NN|BODY_1|0
+for five dimensions|IN CD NNS|BODY_5|0
+an axis|DT NN|BODY_8|0
+gj|NN|BODY_1|0
+the nth position|DT JJ NN|BODY_13|0
+binary encodings|JJ NNS|BODY_8|0
+an r-dimensional subcube|DT JJ NN|BODY_6|0
+only one dimension|RB CD NN|BODY_1|0
+numerically increasing order|RB VBG NN|BODY_18|0
+their composition|PRP$ NN|BODY_4|0
+a linear algebra framework|DT NN NN NN|TITLE_2|0
+a fixed dimension|DT JJ NN|BODY_4|0
+disk arrays|NN NNS|BODY_5|0
+the node|DT NN|BODY_11|0
+these vectors|DT NNS|BODY_1|0
+commute|NN|BODY_8|0
+the ith principal submatrix|DT JJS NN NN|BODY_7|0
+our motivation|PRP$ NN|BODY_1|0
+the map permutation matrix|DT NN NN NN|BODY_2|0
+note|NN|BODY_1|0
+5 dimension permutations|CD NN NNS|BODY_1|0
+many real applications|JJ JJ NNS|BODY_1|0
+corollary 3.2|NN CD|BODY_1|0
+linear index transformations|JJ NN NNS|BODY_3|0
+the key point|DT JJ NN|BODY_1|0
+matrix notation|NN NN|BODY_1|0
+very general situations|RB JJ NNS|BODY_9|0
+a symmetric permutation matrix|DT JJ NN NN|BODY_5|0
+ho [14 , 18]|RB CD , CD|BODY_9|0
+ho [15 , 17]|RB CD , CD|BODY_8|0
+them|PRP|BODY_5|0
+this method|DT NN|BODY_1|0
+two answers|CD NNS|BODY_2|0
+all nonsingular principal submatrices|DT JJ JJ NNS|BODY_16|0
+1 and 3|CD CC CD|BODY_3|0
+definition 3.3|NN CD|BODY_1|0
+the first i rows|DT JJ NN NNS|BODY_10|0
+two rows and columns|CD NNS CC NNS|BODY_13|0
+the total use|DT JJ NN|BODY_1|0
+lemma 3.1|NN CD|BODY_1|0
+perhaps it|RB PRP|BODY_5|0
+1;n|JJ|BODY_1|0
+two bit-exchange matrices|CD JJ NNS|BODY_4:BODY_7|0
+\gamma 1|NNP CD|BODY_4|0
+another example|DT NN|BODY_1|0
+1872|CD|BODY_1|0
+hypercubes|NNS|BODY_1|0
+no nontrivial invariant subspaces|DT JJ NN NNS|BODY_4|0
+numerical linear algebra [9]|JJ NN NN NN|BODY_1|0
+our purposes|PRP$ NNS|BODY_1|0
+so many different applications|RB JJ JJ NNS|BODY_4|0
+that time|DT NN|BODY_1|0
+the programmer|DT NN|BODY_6|0
+the subcube v 1|DT NN NNS CD|BODY_6|0
+a code change|DT NN NN|BODY_5|0
+the usual manner|DT JJ NN|BODY_6|0
+1;5|CD|BODY_25|0
+;j \gamma1|DT NNP|BODY_8|0
+i+1 ;j|IN NN|BODY_5|0
+others|NNS|BODY_6|0
+equation(5.7 )|CD -RRB-|BODY_7|0
+definition 3.2|NN CD|BODY_1|0
+definition 5.3|NN CD|BODY_1|0
+dimension|NN|BODY_1|0
+( 5.6|-LRB- CD|BODY_1|0
+6 conclusion|CD NN|BODY_1|0
+both|DT|BODY_2|0
+columnwise gauss-jordan elimination|NN JJ NN|BODY_1|0
+introduction|NN|BODY_1|0
+section 2|NN CD|BODY_1|0
+section 4|NN CD|BODY_1|0
+section 6|NN CD|BODY_2|0
+shuffle permutations|NN NNS|BODY_5|0
+the other answer|DT JJ NN|BODY_1|0
+the two examples|DT CD NNS|BODY_1|0
+this latter context|DT JJ NN|BODY_1|0
+analo- gously|DT NN|BODY_1|0
+the component cycles|DT NN NNS|BODY_6|0
+course|NN|BODY_1|0
+vector reversal|JJ NN|BODY_2|0
+the complicated combinatorial problem|DT VBN JJ NN|BODY_1|0
+a hypercube communication operation|DT NN NN NN|BODY_1|0
+a more concise language|DT JJR NN NN|BODY_4|0
+another approach|DT NN|BODY_1|0
+the communication pattern|DT NN NN|BODY_1|0
+a different order|DT JJ NN|BODY_12|0
+a dimension permutation algorithm|DT NN NN NN|BODY_7|0
+standard order|JJ NN|BODY_4|0
+a black square|DT JJ NN|BODY_9|0
+proof principal submatrix|NN JJ NN|BODY_1|0
+that e k e i|IN NN NN NN NN|BODY_12|0
+the northeast-southwest diagonal|DT JJ JJ|BODY_9|0
+certain algorithms|JJ NNS|BODY_1|0
+this map|DT NN|BODY_1|0
+our matrices|PRP$ NNS|BODY_1|0
+all n principal submatrices|DT NN JJ NNS|BODY_1|0
+corollary 3.1|JJ CD|BODY_1|0
+corollary 3.3|NN CD|BODY_1|0
+the map|DT NN|BODY_5|0

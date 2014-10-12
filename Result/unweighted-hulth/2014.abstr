@@ -1,0 +1,38 @@
+hsi|NNS|BODY_5:BODY_8|0
+we|PRP|BODY_2:BODY_1|0
+the filter kernel|DT NN NN|BODY_2|0
+the values|DT NNS|BODY_4|0
+noise reduction|NN NN|BODY_2|0
+noise variance|NN NN|BODY_8|0
+each pixel|DT NN|BODY_3|0
+the conversion|DT NN|BODY_10|0
+generated edge maps|VBD NN NNS|BODY_4|0
+edge detection|NN NN|BODY_4|0
+random gaussian noise|JJ JJ NN|BODY_2|0
+the nonuniformity|DT NN|BODY_7|0
+this nonlinearity|DT NN|BODY_3|0
+the minimum error rate|DT JJ NN NN|BODY_3|0
+hue saturation intensity color space|JJ NN NN NN NN|BODY_3|0
+the hue saturation intensity ( hsi) color model|DT JJ NN NN -LRB- JJ NN NN|BODY_4|0
+noise|NN|BODY_6|0
+the magnitude|DT NN|BODY_5|0
+the conversion formulas|DT NN NNS|BODY_6|0
+the hsi color model|DT NNS NN NN|BODY_3|0
+the saturation and hue components|DT NN CC NN NNS|BODY_3|0
+comparison|NN|BODY_9|0
+an adaptive spatial filtering method|DT JJ JJ NN NN|BODY_4|0
+color image processing and analysis|NN NN NN CC NN|BODY_5|0
+the adaptive filtering method|DT JJ NN NN|BODY_2|0
+a nonuniform noise distribution|DT NN NN NN|BODY_4|0
+the noise characteristics|DT NN NNS|BODY_2|0
+the rgb color model|DT NNP NN NN|BODY_7|0
+intensity and saturation|NN CC NN|BODY_5|0
+this adaptive filtering method|DT JJ NN NN|BODY_1|0
+an rgb image|DT JJ NN|BODY_1|0
+approximately 15 %|RB CD NN|BODY_5|0
+the hsi color space|DT NNS NN NN|BODY_9|0
+adaptive filtering|JJ VBG|BODY_1|0
+color gradients|NN NNS|BODY_5|0
+other color models|JJ NN NNS|BODY_11|0
+our experiments|PRP$ NNS|BODY_1|0
+accurate image analysis|JJ NN NN|BODY_6|0

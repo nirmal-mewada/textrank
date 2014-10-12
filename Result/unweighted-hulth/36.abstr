@@ -1,0 +1,31 @@
+model predictive control|NN JJ NN|BODY_1:BODY_4|0
+the system|DT NN|BODY_1:BODY_2|0
+barrel temperature control|NN NN NN|BODY_3|0
+multiple zones|JJ NNS|BODY_2|0
+fast startup|JJ NN|BODY_2|0
+production )|NN -RRB-|BODY_5|0
+no overshoot|DT NN|BODY_3|0
+tight temperature control|JJ NN NN|BODY_4|0
+this kind|DT NN|BODY_6|0
+a control strategy|DT NN NN|BODY_2|0
+slow temperature control|JJ NN NN|BODY_3|0
+autotuning|NN|BODY_5|0
+the specified range|DT VBN NN|BODY_3|0
+such performance specifications|JJ NN NNS|BODY_5|0
+the temperature|DT NN|BODY_2|0
+slow processes-robust barrel temperature|JJ NN NN NN|BODY_2|0
+utilizes techniques|NNS NNS|BODY_3|0
+it|PRP|BODY_3|0
+a commonly used proportional plus integral plus derivative ( pid ) controller cannot|DT RB VBN JJ CC JJ CC JJ -LRB- JJ -RRB- NN NN|BODY_4|0
+the desired specifications|DT VBN NNS|BODY_2|0
+this control strategy|DT NN NN|BODY_1|0
+extruders|NNS|BODY_4|0
+the problem|DT NN|BODY_1|0
+strict closed-loop performance requirements|JJ NN NN NNS|BODY_1|0
+such applications|JJ NNS|BODY_6|0
+the production run|DT NN NN|BODY_4|0
+system|NN|BODY_7|0
+a challenging control problem|DT JJ NN NN|BODY_4|0
+the required performance|DT VBN NN|BODY_1|0
+multiple parameter pid|JJ NN NN|BODY_6|0
+when characteristics|WRB NNS|BODY_1|0

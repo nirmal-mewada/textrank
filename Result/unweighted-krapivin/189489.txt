@@ -1,0 +1,1251 @@
+we|PRP|BODY_17:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_8:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|2
+that|IN|BODY_12:BODY_11:BODY_16:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_28:BODY_1:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_11:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_8:BODY_1:BODY_10:ABSTRACT_7:BODY_7:BODY_8:BODY_9|0
+selective sampling|JJ NN|BODY_6:BODY_5:BODY_11:ABSTRACT_4:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+the network|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+examples|NNS|BODY_6:BODY_5:BODY_21:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+one|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+m )|NN -RRB-|BODY_5:BODY_11:BODY_22:BODY_13:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+active learning|JJ NN|BODY_6:BODY_5:TITLE_2:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+r(|NNP|BODY_6:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+the domain|DT NN|BODY_12:BODY_5:BODY_11:BODY_25:BODY_3:BODY_14:ABSTRACT_7:BODY_7:BODY_8:BODY_9|0
+the region|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|0
+s|VBZ|BODY_12:BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_30:BODY_9|0
+there|EX|BODY_5:BODY_26:BODY_2:BODY_1:BODY_3:BODY_8|0
+the set|DT NN|BODY_5:BODY_23:BODY_1:BODY_3:BODY_4:BODY_9|0
+queries|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+this paper|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+which|WDT|BODY_5:BODY_3:BODY_14:BODY_4:BODY_7|0
+)|-RRB-|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+x|SYM|BODY_33:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_8|1
+this|DT|BODY_1:BODY_2:BODY_4:BODY_7:BODY_9|0
+the error|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_7|1
+the size|DT NN|BODY_2:BODY_3:BODY_14:BODY_8|0
+m|NN|BODY_31:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+p|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the problem|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:ABSTRACT_9|0
+a point|DT NN|BODY_2:BODY_1:BODY_3|0
+uncertainty|NN|BODY_6:BODY_5:BODY_21:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+neural networks|JJ NNS|BODY_18:BODY_2:BODY_3:BODY_4|0
+random sampling|JJ NN|BODY_5:BODY_2:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+1|CD|BODY_2:BODY_1:BODY_3:BODY_4|0
+a concept c|DT NN NN|BODY_5:BODY_1:BODY_4:BODY_8:BODY_9|0
+c|NN|BODY_15:BODY_2:BODY_4:BODY_7|0
+r|NN|BODY_6:BODY_11:BODY_5:BODY_8|0
+respect|NN|BODY_3:BODY_7:BODY_9|0
+training examples|NN NNS|BODY_13:BODY_3:BODY_4|0
+a set|DT NN|BODY_6:BODY_2:BODY_4|0
+concepts|NNS|BODY_5:BODY_13:BODY_3|0
+a number|DT NN|BODY_5:BODY_2:BODY_3|0
+this approach|DT NN|BODY_2:BODY_1|0
+some|DT|BODY_6:BODY_3:BODY_7|0
+a neural network|DT JJ NN|BODY_5:ABSTRACT_6:BODY_1:BODY_3:BODY_4|0
+the probability|DT NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+the na-ive querying algorithm|DT JJ NN NN|BODY_1:BODY_2:BODY_4|0
+the classification|DT NN|BODY_32:BODY_6:BODY_15:BODY_1:BODY_8:BODY_9|0
+regions|NNS|BODY_6:BODY_11:BODY_2|0
+points|NNS|BODY_6:BODY_3:BODY_7|0
+the concept|DT NN|BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+the efficiency|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+two dimensions|CD NNS|BODY_6:BODY_11:BODY_7|0
+1990 )|CD -RRB-|BODY_5:BODY_7|0
+the case|DT NN|BODY_5:BODY_1:BODY_3|0
+a region|DT NN|BODY_5:BODY_3:BODY_4:BODY_9|0
+training|NN|BODY_5:BODY_2:BODY_1:BODY_7|0
+a network|DT NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+e .g|NN NN|BODY_5:BODY_2:BODY_9|0
+this problem|DT NN|BODY_16:BODY_2:BODY_3|0
+the selective sampling approach|DT JJ NN NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+all concepts|DT NNS|BODY_5:BODY_14:BODY_9|0
+the cost|DT NN|BODY_1:BODY_4:BODY_7|0
+us|PRP|BODY_3:BODY_4:BODY_10:BODY_7|0
+the version space|DT NN NN|BODY_2:BODY_4|0
+the class|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10|0
+a neural network implementation|DT JJ NN NN|BODY_6:BODY_4|0
+use|NN|BODY_2:BODY_3:BODY_4|0
+the point|DT NN|BODY_5:BODY_7:BODY_8:BODY_9|0
+g networks|JJ NNS|BODY_5:BODY_3:BODY_9|0
+a point x|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_9|0
+networks|NNS|BODY_1:BODY_4|0
+1986|CD|BODY_2:BODY_3:BODY_7|0
+g|NN|BODY_2:BODY_3:BODY_7:BODY_8|0
+each|DT|BODY_5:BODY_1:BODY_4:BODY_8|0
+10 examples|CD NNS|BODY_4:BODY_7|0
+left|NN|BODY_2:BODY_3|0
+they|PRP|BODY_12:BODY_1:BODY_3:BODY_7|0
+the distribution|DT NN|BODY_13:BODY_2:BODY_4|0
+this technique|DT NN|BODY_5:BODY_2:BODY_10|0
+1]|CD|BODY_11:BODY_7:BODY_9|0
+david cohn|JJ NN|BODY_2:BODY_3|0
+the inductive bias|DT JJ NN|BODY_2:BODY_4|0
+all|DT|BODY_6:BODY_11:BODY_17|0
+work|NN|BODY_1:BODY_3|0
+the sg-network|DT NN|BODY_6:BODY_2:BODY_3|0
+the training set|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+a pathological example|DT JJ NN|BODY_2:BODY_1|0
+a total|DT NN|BODY_4:BODY_8|0
+weights|NNS|BODY_6:BODY_5:BODY_4|0
+an oracle|DT NN|BODY_5:ABSTRACT_5:BODY_10|0
+querying and learning|NN CC NN|BODY_3:BODY_8|0
+comparison|NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+more general |RBR JJ|BODY_2:BODY_4|0
+cases|NNS|BODY_1:BODY_4|0
+2|CD|BODY_1:BODY_3|0
+membership queries|NN NNS|BODY_4:BODY_7|0
+generalization|NN|ABSTRACT_6:BODY_7:BODY_8|0
+the output|DT NN|BODY_1:BODY_3:BODY_4|0
+parameters|NNS|BODY_2|0
+both|DT|BODY_3:BODY_4:BODY_8|0
+the system|DT NN|BODY_6:BODY_5:BODY_4|0
+distribution information|NN NN|BODY_5:ABSTRACT_3:BODY_4|0
+the study|DT NN|BODY_6:BODY_3|0
+the background examples|DT NN NNS|BODY_4:BODY_9|0
+the data|DT NNS|BODY_6:BODY_7|0
+a uniform distribution|DT JJ NN|BODY_7:BODY_9|0
+some form|DT NN|BODY_2:BODY_3|0
+an sg-network|DT NN|BODY_5:ABSTRACT_3|0
+iterations|NNS|BODY_6:BODY_3|0
+zero|CD|BODY_5:BODY_4|0
+the batch size|DT NN NN|BODY_5:BODY_17|0
+this work|DT NN|BODY_2:BODY_1|0
+an inductive bias|DT JJ NN|BODY_1:BODY_2:BODY_3|0
+the target concept|DT NN NN|BODY_5:BODY_2:BODY_8|0
+an instance|DT NN|BODY_6:BODY_12:BODY_1|0
+fact|NN|BODY_1:BODY_2:BODY_10|0
+a good approximation|DT JJ NN|BODY_1:BODY_3:BODY_7|0
+the degree|DT NN|BODY_5:BODY_4|0
+the process|DT NN|BODY_5:BODY_8|0
+ function|RB NN|BODY_6:BODY_7|0
+neuron j|NN NN|BODY_5:BODY_2|0
+follows|VBZ|BODY_2|0
+an example|DT NN|BODY_6:BODY_2:BODY_9|0
+the examples|DT NNS|BODY_11:BODY_7|0
+the sg-net|DT NN|BODY_2|0
+our current hypothesis|PRP$ JJ NN|BODY_2:BODY_3|0
+the points|DT NNS|BODY_5:BODY_11|0
+region|NN|BODY_5:BODY_14|0
+promise|NN|BODY_2:BODY_4|0
+x 2 c|SYM CD NN|BODY_10:BODY_9|0
+all points|DT NNS|BODY_6:BODY_24:BODY_4|0
+this behavior|DT NN|BODY_2|0
+'s error|POS NN|BODY_5:BODY_3|0
+a boundary|DT NN|BODY_2|0
+a difficult|DT JJ|BODY_2|0
+a prohibitive amount|DT JJ NN|BODY_2|0
+a learner|DT NN|ABSTRACT_2:BODY_2|0
+the weight update|DT NN NN|BODY_2:BODY_4|0
+the partial ordering|DT JJ NN|BODY_3|0
+rectangles|NNS|BODY_6:BODY_2|0
+solutions|NNS|BODY_3:BODY_9|0
+the connection weights|DT NN NNS|BODY_5:BODY_1|0
+significant improvement|JJ NN|ABSTRACT_5:BODY_3|0
+those|DT|BODY_11:BODY_10|0
+problems|NNS|BODY_2:BODY_4|0
+a tendency|DT NN|BODY_6:BODY_8|0
+t( x )|NN SYM -RRB-|BODY_5:BODY_7|0
+the selectively sampled data|DT JJ VBN NNS|BODY_2|0
+backpropagation|NN|BODY_2:BODY_4|0
+layer|NN|BODY_5:BODY_4|0
+the concept class|DT NN NN|BODY_3:BODY_10|0
+the|DT|BODY_4:BODY_8|0
+the selectively sampled networks|DT JJ JJ NNS|BODY_1:BODY_4|0
+the randomly sampled networks|DT JJ VBN NNS|BODY_5:BODY_2|0
+s\deltag|NN|BODY_13:BODY_2|0
+(|-LRB-|BODY_12:BODY_8|0
+the two networks|DT CD NNS|BODY_6:BODY_4|0
+the sampling process|DT NN NN|BODY_5:BODY_4|0
+ff|NN|BODY_5:BODY_1:BODY_19|0
+p )|NN -RRB-|BODY_14:BODY_8|0
+them|PRP|BODY_4:BODY_8|0
+detail|NN|BODY_4:BODY_7|0
+the theory|DT NN|BODY_1:BODY_7|0
+configurations|NNS|BODY_5:BODY_7|0
+na-ive querying|JJ NN|BODY_10:BODY_7|0
+itself|PRP|BODY_5:BODY_4|0
+the ones|DT NNS|BODY_6:BODY_10|0
+g sets|VBG NNS|BODY_5:BODY_2|0
+the training data|DT NN NNS|BODY_6:BODY_10:BODY_9|0
+1 ffl|CD NN|BODY_2|0
+a complete version space|DT JJ NN NN|BODY_5|0
+a concluding discussion|DT VBG NN|BODY_5|0
+an active version-space search|DT JJ NN NN|BODY_2|0
+determination ( r 2 )|NN -LRB- NN CD -RRB-|BODY_5|0
+reference|NN|BODY_2|0
+the backpropagation algorithm|DT NN NN|BODY_5:BODY_1|0
+our distribution|PRP$ NN|BODY_3:BODY_9|0
+various parts|JJ NNS|BODY_6:BODY_7|0
+some threshold|DT NN|BODY_3:BODY_9|0
+classifies|NNS|BODY_11:BODY_7|0
+a coefficient|DT NN|BODY_4|0
+a single concept|DT JJ NN|BODY_4|0
+an entire neural network configuration|DT JJ JJ NN NN|BODY_3|0
+related work|JJ NN|BODY_3|0
+the error data|DT NN NNS|BODY_3|0
+the field|DT NN|BODY_4|0
+the unknown target concept|DT JJ NN NN|BODY_3:BODY_8|0
+the input|DT NN|BODY_5|0
+the s|DT PRP|BODY_4|0
+the inputs|DT NNS|BODY_3:BODY_8|0
+a learning procedure|DT VBG NN|BODY_2|0
+generality|NN|BODY_4|0
+effect|NN|BODY_3|0
+t( x|JJ NN|BODY_5:BODY_3:BODY_4|0
+the generalization error|DT NN NN|BODY_1:BODY_3|0
+the learning algorithm|DT NN NN|ABSTRACT_3:BODY_3|0
+an atomic operation|DT JJ NN|BODY_3|0
+uncertainty (|NN -LRB-|BODY_5|0
+1988 )|CD -RRB-|BODY_8|0
+a classified example|DT JJ NN|BODY_2|0
+a na-ive algorithm|DT JJ NN|BODY_2:BODY_8|0
+the training examples|DT NN NNS|BODY_5:BODY_4|0
+the triangle learner|DT NN NN|BODY_2|0
+most|JJS|BODY_12|0
+the whole domain|DT JJ NN|BODY_3:BODY_9|0
+uncertain |JJ|BODY_11|0
+the results|DT NNS|BODY_2|0
+section 2.4|NN CD|BODY_2|0
+the initial random sampling|DT JJ JJ NN|BODY_2|0
+learning|NN|BODY_3:BODY_4|0
+a two-input network|DT JJ NN|BODY_3|0
+terms|NNS|BODY_4:BODY_7|0
+some control|DT NN|ABSTRACT_4:BODY_7|0
+the r|DT NN|BODY_2:BODY_8|0
+a subset|DT NN|BODY_2:BODY_8|0
+the classifying ( labeling )|DT NN -LRB- NN -RRB-|BODY_5|0
+the approximation|DT NN|BODY_11|0
+the pathological nature|DT JJ NN|BODY_4|0
+yorktown heights|JJ NNS|BODY_5|0
+testing|NN|BODY_3|0
+the same architecture|DT JJ NN|BODY_2|0
+is|VBZ|BODY_3:BODY_7|0
+800 and 2500 points|CD CC CD NNS|BODY_3|0
+this nicely|DT RB|BODY_3|0
+random|JJ|BODY_6:BODY_2|0
+its inputs|PRP$ NNS|BODY_3|0
+( 0.1 or less )|-LRB- CD CC JJR -RRB-|BODY_10|0
+an error term|DT NN NN|BODY_10|0
+any positive examples|DT JJ NNS|BODY_3|0
+time-consuming system|NN NN|BODY_7|0
+the weighted sum|DT JJ NN|BODY_2|0
+this region|DT NN|BODY_15:BODY_2|0
+error averages 0.00265|NN NNS CD|BODY_2|0
+\deltaw|NN|BODY_3|0
+national science foundation grant number ccr-9108314|JJ NN NN NN NN NNS|BODY_2|0
+the random case|DT JJ NN|BODY_3|0
+speech segments|NN NNS|BODY_6|0
+demands|NNS|BODY_6|0
+humans )|NNS -RRB-|BODY_2|0
+infant reactions|NN NNS|BODY_12|0
+the input domain|DT NN NN|ABSTRACT_6:BODY_4|0
+the baseline cases|DT NN NNS|BODY_2|0
+j|JJ|BODY_4|0
+the intial random sample|DT JJ JJ NN|BODY_6|0
+network performance|NN NN|BODY_5|0
+simulation data|NN NNS|BODY_4|0
+10 iterations|CD NNS|BODY_2|0
+j 0|NN CD|BODY_10|0
+network c|NN NN|BODY_2|0
+some learning algorithms|DT NN NNS|BODY_3|0
+a most general  network|DT RBS JJ NN NN|BODY_2|0
+the training algorithm ( and sample selection scheme )|DT NN NN -LRB- CC NN NN NN -RRB-|BODY_7|0
+a very small subset|DT RB JJ NN|BODY_6|0
+the added computational cost|DT VBN JJ NN|BODY_5|0
+( a )|-LRB- DT -RRB-|BODY_2|0
+target concept t|NN NN NN|BODY_2|0
+the technique|DT NN|BODY_5:BODY_9|0
+a  committee |DT JJ NN|BODY_8|0
+total ( 4.21 %|JJ -LRB- CD NN|BODY_13|0
+( and related ones|-LRB- CC VBN NNS|BODY_2|0
+the washington technology center|DT JJ NN NN|BODY_3|0
+the range [0|DT NN NN|BODY_10:BODY_8|0
+watson research center|NN NN NN|BODY_4|0
+et al|FW JJ|BODY_1:BODY_2|0
+the thresholded output|DT JJ NN|BODY_2|0
+the errors|DT NNS|BODY_3|0
+what|WP|BODY_2:BODY_1:BODY_7|0
+4|CD|BODY_11|0
+various load parameters|JJ NN NNS|BODY_2|0
+the natural logarithm|DT JJ NN|BODY_2|0
+new information|JJ NN|BODY_3|0
+an increased efficiency|DT VBN NN|BODY_2|0
+another concept c 2|DT NN NN CD|BODY_3|0
+some modification|DT NN|BODY_3|0
+the resulting system|DT VBG NN|BODY_9|0
+computer science and engineering , university|NN NN CC NN , NN|BODY_5|0
+methods|NNS|BODY_2|0
+the performance|DT NN|BODY_8|0
+the dept|DT NN|BODY_4|0
+c 2 ae|NN CD NNS|BODY_4|0
+'s ( 1987 ) work|POS -LRB- CD -RRB- NN|BODY_11|0
+this phenomenon|DT NN|BODY_3|0
+section 3.1|NN CD|BODY_3|0
+data|NNS|BODY_3|0
+track|NN|BODY_2|0
+hidden layer second hidden layer output layer input layer network output network input connection weights|JJ NN JJ JJ NN NN NN NN NN NN NN NN NN NN NNS|BODY_10|0
+all actual training examples|DT JJ NN NNS|BODY_2|0
+a training example|DT NN NN|BODY_3|0
+an electrical power system|DT JJ NN NN|BODY_3|0
+as|RB|BODY_4|0
+valiant|NN|BODY_5|0
+the other two algorithms|DT JJ CD NNS|BODY_3|0
+ffl|NN|BODY_11|0
+network configurations|NN NNS|BODY_2:BODY_4|0
+many configurations|JJ NNS|BODY_8|0
+15( 2 ) :201-221 , 1994|CD CD -RRB- CD , CD|BODY_2|0
+figure 10|NN CD|BODY_1|0
+greater than 90 % confidence|JJR IN CD NN NN|BODY_2|0
+initialize network|VB NN|BODY_1|0
+machine learning|NN NN|BODY_1|0
+random configuration|JJ NN|BODY_2|0
+the triangle learner problem|DT NN NN NN|BODY_2|0
+this difference|DT NN|BODY_1|0
+the first hidden  layer|DT JJ JJ NN NN|BODY_6|0
+each neuron|DT NN|BODY_9|0
+this case|DT NN|BODY_6:BODY_1|0
+that train|WDT NN|BODY_12|0
+aggoune et al. , 1989 )|FW FW FW , CD -RRB-|BODY_2|0
+the approach|DT NN|BODY_4:BODY_8|0
+two hidden layers|CD JJ NNS|BODY_4|0
+the true boundary|DT JJ NN|BODY_2|0
+failure|NN|BODY_3|0
+a 20-dimensional figure|DT JJ NN|BODY_10|0
+the algorithm|DT NN|BODY_1:BODY_20|0
+the distribution p|DT NN NN|BODY_1:BODY_3|0
+a positive inductive bias|DT JJ JJ NN|BODY_3|0
+a na-ive neural network|DT JJ JJ NN|BODY_2|0
+the effects|DT NNS|BODY_1:BODY_4|0
+a simple matter|DT JJ NN|BODY_7:BODY_8|0
+2000 (|CD -LRB-|BODY_7|0
+800|CD|BODY_5|0
+this advantage|DT NN|BODY_4|0
+negative|JJ|BODY_12|0
+the trained neural network ~ c|DT JJ JJ NN NN NN|BODY_3|0
+a bounding box suffices|DT NN NN NNS|BODY_4|0
+0 |CD|BODY_9|0
+this implementation|DT NN|BODY_4|0
+pratt offers|NN NNS|BODY_2|0
+plausible hypotheses|JJ NNS|BODY_4|0
+the triangle|DT NN|BODY_4|0
+input x|NN NN|BODY_3|0
+this value|DT NN|BODY_9|0
+12.6 %|CD NN|BODY_12|0
+consensus|NN|BODY_7|0
+boolean expressions|JJ NNS|BODY_9|0
+unclassified points|JJ NNS|BODY_2|0
+impressive results|JJ NNS|BODY_6|0
+a quantitative measure|DT JJ NN|BODY_4|0
+their work|PRP$ NN|BODY_3|0
+1991 )|CD -RRB-|BODY_3|0
+neural network generalization|JJ NN NN|BODY_6|0
+p.|NN|BODY_13:BODY_3:BODY_8|0
+the secure region|DT JJ NN|BODY_8|0
+2 , 3 , 4|CD , CD , CD|BODY_2|0
+a good fit|DT JJ NN|BODY_9|0
+the learner|DT NN|BODY_1:BODY_2|0
+the absence|DT NN|ABSTRACT_11|0
+each figures|DT NNS|BODY_8|0
+discussed|VBN|BODY_2|0
+the work|DT NN|BODY_2|0
+concept learning problems|NN NN NNS|BODY_2|0
+ibm|NN|BODY_3|0
+their error|PRP$ NN|BODY_2|0
+1982 )|CD -RRB-|BODY_4:BODY_7|0
+the bulk|DT NN|BODY_2:BODY_7|0
+formal learning theory|JJ NN NN|BODY_2|0
+an input x|DT NN NN|BODY_4|0
+a position error|DT NN NN|BODY_10|0
+8 and 3 units|CD CC CD NNS|BODY_5|0
+our error|PRP$ NN|BODY_6:BODY_9|0
+the space|DT NN|BODY_3|0
+point x|NN SYM|BODY_10|0
+our uncertainty|PRP$ NN|BODY_5:BODY_4|0
+the training algorithm|DT NN NN|BODY_5|0
+(y|WP|BODY_4|0
+this error|DT NN|BODY_5|0
+training set sizes|NN VBN NNS|BODY_4|0
+a single output node|DT JJ NN NN|BODY_2|0
+3|CD|BODY_1:BODY_3|0
+1984|CD|BODY_6|0
+each concept (|DT NN -LRB-|BODY_2|0
+the differences|DT NNS|BODY_13|0
+artificial neural networks|JJ JJ NNS|BODY_2|0
+the input layer|DT NN NN|BODY_6|0
+the learning process|DT NN NN|BODY_3:BODY_7|0
+negative examples|JJ NNS|BODY_3:BODY_9|0
+sum|NN|BODY_4|0
+randomly drawn examples|RB VBN NNS|BODY_3|0
+relatively compact , connected concepts|RB JJ , JJ NNS|BODY_5|0
+both triangles|DT NNS|BODY_5|0
+an output|DT NN|BODY_5|0
+systems|NNS|BODY_2|0
+concept|NN|BODY_6:BODY_13|0
+a formal grounding|DT JJ NN|BODY_6|0
+scratch|NN|BODY_7|0
+12 )|CD -RRB-|BODY_2|0
+the total error ( 5.17 %|DT JJ NN -LRB- CD NN|BODY_6|0
+the error term|DT NN NN|BODY_6|0
+a binary concept|DT JJ NN|ABSTRACT_10|0
+this retraining|DT NN|BODY_3|0
+such a box|JJ DT NN|BODY_9|0
+differs|NNS|BODY_8|0
+our sampling and training algorithm|PRP$ NN CC NN NN|BODY_7|0
+[0|CD|BODY_6|0
+a 25-input real-valued threshold function|DT JJ JJ NN NN|BODY_7|0
+the problem domain|DT NN NN|BODY_6:BODY_5|0
+0.00116|CD|BODY_4|0
+concept c 2|NN NN CD|BODY_5|0
+5.47 % )|CD NN -RRB-|BODY_7|0
+efficiency|NN|BODY_6:BODY_4|0
+several different problem domains|JJ JJ NN NNS|BODY_5|0
+the concept class c|DT NN NN NN|BODY_3|0
+background examples|NN NNS|BODY_5:BODY_7|0
+four runs|CD NNS|BODY_4|0
+the limitations|DT NNS|BODY_1:BODY_8|0
+the architecture|DT NN|BODY_2:BODY_8|0
+formal concepts|JJ NNS|BODY_8|0
+the smallest number|DT JJS NN|BODY_8|0
+an initial random sample|DT JJ JJ NN|BODY_3|0
+unlabeled speech data|JJ NN NNS|BODY_4|0
+the networks|DT NNS|BODY_6:BODY_1|0
+the actual training patterns|DT JJ NN NNS|BODY_5|0
+the connections|DT NNS|BODY_9|0
+performance|NN|BODY_2|0
+10 to 150 points|CD TO CD NNS|BODY_5|0
+randomly sampled data|JJ VBN NNS|BODY_4:BODY_8|0
+ 1  ( 0.9 or greater ) , |NN CD NN -LRB- CD CC JJR -RRB- ,|BODY_8|0
+a mapping|DT NN|BODY_3|0
+an approximation training set size sampling selective sampling polynomial exponential figure 12|DT NN NN VBN NN NN JJ NN NN JJ NN CD|BODY_5|0
+improvements|NNS|BODY_9|0
+the true region|DT JJ NN|BODY_6:BODY_7|0
+a much steeper learning curve|DT RB JJR NN NN|BODY_3|0
+binary concepts|JJ NNS|BODY_3|0
+20 iterations|CD NNS|BODY_3|0
+below 1.5 % )|RB CD NN -RRB-|BODY_8|0
+some solutions|DT NNS|BODY_4|0
+p (|NN -LRB-|BODY_3|0
+example|NN|BODY_1:BODY_4:BODY_8|0
+background example|NN NN|BODY_3|0
+the right|DT NN|BODY_11:BODY_5|0
+a training set size|DT NN NN NN|BODY_6|0
+an exponential number|DT JJ NN|BODY_3|0
+j ;i|JJ NNS|BODY_2|0
+300 points|CD NNS|BODY_3|0
+c 2 6ae c|NN CD NN NN|BODY_2|0
+speech recognition|NN NN|BODY_3|0
+any part|DT NN|BODY_10:BODY_7|0
+all most specific  consistent concepts|DT RBS JJ NN JJ NNS|BODY_6|0
+all two-dimensional , axis-parallel rectangles|DT JJ , JJ NNS|BODY_4|0
+our class c|PRP$ NN NN|BODY_2|0
+fixed topologies|JJ NNS|BODY_11|0
+a learning algorithm|DT NN NN|BODY_3|0
+improved generalization|JJ NN|BODY_5|0
+increments|NNS|BODY_6|0
+separate s|JJ PRP|BODY_2|0
+a steeper drop|DT JJR NN|BODY_2|0
+a distribution|DT NN|BODY_7|0
+a subset r|DT NN NN|BODY_6|0
+the observation|DT NN|BODY_3|0
+the relevant input distribution|DT JJ NN NN|BODY_3|0
+more sophisticated techniques|RBR JJ NNS|BODY_7|0
+active learning most neural network generalization problems|JJ VBG JJS JJ NN NN NNS|BODY_2|0
+their role|PRP$ NN|BODY_10|0
+each network configuration|DT NN NN|BODY_3|0
+convergence|NN|BODY_4|0
+a random point x|DT JJ NN NN|BODY_6|0
+details|NNS|BODY_8|0
+a task|DT NN|BODY_5|0
+a decrease|DT NN|BODY_5|0
+the full region|DT JJ NN|BODY_12|0
+both high levels|DT JJ NNS|BODY_4|0
+fernald and kuhl|NN CC NN|BODY_10|0
+a most specific configuration|DT RBS JJ NN|BODY_5:BODY_8|0
+an arbitrary distribution p|DT JJ NN NN|BODY_12:BODY_8|0
+a large second iteration|DT JJ JJ NN|BODY_6|0
+an unknown target t|DT JJ NN NN|BODY_4|0
+the target values|DT NN NNS|BODY_2|0
+12 identical networks|CD JJ NNS|BODY_7|0
+a sigmoidal |DT JJ|BODY_5|0
+concept classifiers|NN NNS|BODY_3|0
+this definition|DT NN|BODY_7|0
+a feedforward neural network|DT NN JJ NN|BODY_5|0
+error vs. training set size|NN CC NN NN NN|BODY_2|0
+the single extra iteration|DT JJ JJ NN|BODY_2|0
+places|NNS|BODY_4|0
+its fit|PRP$ VBN|BODY_4|0
+the benefit|DT NN|BODY_5|0
+the entire network|DT JJ NN|BODY_6|0
+an sg-network equivalent|DT NN NN|BODY_6|0
+150 examples|CD NNS|BODY_4|0
+a single output|DT JJ NN|BODY_6|0
+the same classification|DT JJ NN|BODY_9|0
+a simple example|DT JJ NN|BODY_1|0
+more realistic , complicated classes|RBR JJ , JJ NNS|BODY_1|0
+task|NN|BODY_3|0
+the unit line interval|DT NN NN NN|BODY_3|0
+this however|DT RB|BODY_1|0
+training time|NN NN|BODY_3|0
+blumer et|NNP NNP|BODY_7|0
+12 networks|CD NNS|BODY_2|0
+baum and lang ( 1991 )|NN CC NN -LRB- CD -RRB-|BODY_2|0
+the computational costs|DT JJ NNS|BODY_4|0
+only one|JJ CD|BODY_7|0
+the terminology|DT NN|BODY_4|0
+the selectively sampled case|DT JJ VBN NN|BODY_5|0
+david mackay|JJ NN|BODY_2|0
+a related approach|DT JJ NN|BODY_3|0
+the output error backpropagate|DT NN NN NN|BODY_2|0
+the random background example exerts|DT JJ NN NN NNS|BODY_2|0
+10 successive iterations|CD JJ NNS|BODY_3|0
+while|NN|BODY_8|0
+a most specific/general  network|DT RBS JJ NN NN|BODY_2|0
+a single most general  concept g|DT JJ RBS JJ NN NN NN|BODY_16|0
+an arbitrary domain x|DT JJ NN NN|BODY_2|0
+the version-space search|DT JJ NN|BODY_2|0
+the new information|DT JJ NN|BODY_6:BODY_5|0
+the remainder|DT NN|BODY_1|0
+10.7 %|CD NN|BODY_5|0
+others|NNS|BODY_5:BODY_10|0
+an earlier version|DT JJR NN|BODY_4|0
+an extension|DT NN|BODY_4|0
+2 s|CD PRP|BODY_7|0
+a predisposition|DT NN|BODY_2|0
+n|RB|BODY_14|0
+discrepancies|NNS|BODY_6|0
+'s architecture|POS NN|BODY_6|0
+the absolute values|DT JJ NNS|BODY_10|0
+initial segments|JJ NNS|BODY_6|0
+several consistent concepts|JJ JJ NNS|BODY_2|0
+the use|DT NN|BODY_3|0
+'s utility|POS NN|BODY_9|0
+less than ffl|JJR IN NN|BODY_2|0
+these configurations|DT NNS|BODY_2|0
+r( s|RB VBZ|BODY_2|0
+s(|JJ|BODY_14|0
+background  points|NN NN NNS|BODY_4|0
+construction|NN|BODY_5|0
+a tradeoff|DT NN|BODY_9|0
+then|RB|BODY_2|0
+data selection|NNS NN|BODY_4|0
+each point|DT NN|BODY_3|0
+the nicks|DT NNS|BODY_8|0
+training ( e .g|NN -LRB- NN NN|BODY_6|0
+blumer|NN|BODY_7|0
+our version space|PRP$ NN NN|BODY_3:BODY_4|0
+its intuitive visual appeal|PRP$ JJ JJ NN|BODY_2|0
+this penalty|DT NN|BODY_2|0
+the most general  case|DT JJS JJ NN NN|BODY_4|0
+1992 )|CD -RRB-|BODY_2|0
+ash|NN|BODY_7|0
+all background points|DT NN NNS|BODY_4|0
+a roughly polynomial curve|DT RB JJ NN|BODY_6|0
+a pair ( x|DT NN -LRB- SYM|BODY_4|0
+the natural and intuitive means|DT JJ CC JJ NNS|BODY_9|0
+active examination|JJ NN|BODY_6|0
+low , subconscious levels|JJ , JJ NNS|BODY_8|0
+turn|NN|BODY_2|0
+t( x ) )|NN SYM -RRB- -RRB-|BODY_8|0
+addition|NN|BODY_5|0
+its intermittent failure|PRP$ JJ NN|BODY_4|0
+p r[x|NN NN|BODY_6|0
+random sam|JJ FW|BODY_10|0
+specific concepts|JJ NNS|BODY_13|0
+various classes|JJ NNS|BODY_2|0
+the randomly sampled data|DT JJ VBN NNS|BODY_5|0
+the initial , random training sets|DT JJ , JJ NN NNS|BODY_5|0
+the door|DT NN|BODY_5|0
+a fixed number|DT JJ NN|ABSTRACT_5|0
+the instances|DT NNS|BODY_18|0
+the training set (|DT NN NN -LRB-|BODY_4|0
+a most specific  configuration|DT RBS JJ NN NN|BODY_8|0
+backpropagate|NN|BODY_4|0
+\delta|NN|BODY_10|0
+uncertainty ( figure|NN -LRB- NN|BODY_11|0
+an arbitrary error rate ffl and confidence ffi|DT JJ NN NN NN CC NN NN|BODY_5|0
+any disagreement|DT NN|BODY_6|0
+david mackay ( 1992|JJ NN -LRB- CD|BODY_2|0
+15 selective sampling iterations|CD JJ NN NNS|BODY_6|0
+jai choi and siri weerasooriya|NNP NN CC NN NN|BODY_2|0
+the 25-bit real-valued threshold problem|DT JJ VBN NN NN|BODY_3|0
+'s topology|POS NN|BODY_5|0
+a fixed rectangle|DT VBN NN|BODY_7|0
+a non-connected concept|DT JJ NN|BODY_4|0
+consistent concepts|JJ NNS|BODY_5|0
+input/output pairs|NN NNS|BODY_7|0
+some part|DT NN|BODY_2|0
+objects|NNS|BODY_7|0
+figure 3|NN CD|BODY_4|0
+a small second iteration|DT JJ JJ NN|BODY_2|0
+an adequate bias|DT JJ NN|BODY_3|0
+each pass|DT NN|BODY_3|0
+this form|DT NN|BODY_4|0
+g figure 9|VBG NN CD|BODY_4|0
+3 pass sampling 4 pass sampling pass sampling pass|CD NN NN CD NN NN NN NN NN|BODY_3|0
+each training example|DT NN NN|BODY_11:BODY_1|0
+the small set|DT JJ NN|BODY_4|0
+the second , disjoint region|DT JJ , JJ NN|BODY_4|0
+a greater generality|DT JJR NN|BODY_5|0
+training examples.|NN NN|ABSTRACT_6|0
+an unclassified example|DT JJ NN|BODY_12|0
+( cohn|-LRB- NN|BODY_3|0
+size 50 100 150 200 random sampling pass|NN CD CD CD CD JJ NN NN|BODY_2|0
+generalization error vs. training set size|NN NN CC NN VBN NN|BODY_6|0
+a lack|DT NN|BODY_6|0
+an improvement|DT NN|BODY_11|0
+section 5|NN CD|BODY_6|0
+a large number|DT JJ NN|BODY_3|0
+a given concept class c|DT VBN NN NN NN|BODY_3|0
+the next iteration|DT JJ NN|BODY_16:BODY_8|0
+a critical problem|DT JJ NN|BODY_3|0
+cohn et al|NN NNP JJ|BODY_6|0
+( b )|-LRB- NN -RRB-|BODY_1:BODY_7|0
+these two networks|DT CD NNS|BODY_6|0
+the baseline case|DT NN NN|BODY_1|0
+three classifications|CD NNS|BODY_7|0
+a formalization|DT NN|BODY_2|0
+a c|DT NN|BODY_2|0
+a most specific  concept|DT RBS JJ NN NN|BODY_6|0
+a certain range|DT JJ NN|BODY_4|0
+1993 )|CD -RRB-|BODY_2|0
+sample|NN|BODY_7|0
+a single iteration|DT JJ NN|BODY_7|0
+a classifier|DT NN|BODY_4|0
+a similar scheme|DT JJ NN|BODY_3|0
+a reasonable number|DT JJ NN|BODY_5|0
+the connection weight|DT NN NN|BODY_4|0
+where w j ;i|WRB JJ NN NN|BODY_3|0
+15 passes|CD NNS|BODY_5|0
+eisenberg and rivest ( 1990|JJ CC NN -LRB- CD|BODY_2|0
+two anonymous referees|CD JJ NNS|BODY_2|0
+results|NNS|BODY_5|0
+complex ones|JJ NNS|BODY_7|0
+setting|VBG|BODY_2|0
+implementations|NNS|BODY_8|0
+the exclusion|DT NN|BODY_10|0
+many examples|JJ NNS|BODY_6|0
+in|IN|BODY_4|0
+generalization error|NN NN|BODY_6|0
+the more passes|DT JJR NNS|BODY_18|0
+the large set|DT JJ NN|BODY_9|0
+ffl( c|NN NN|BODY_12|0
+iteration|NN|BODY_5|0
+the regular training data forces|DT JJ NN NN NNS|BODY_6|0
+means|NNS|BODY_5|0
+e.g.|FW|BODY_5|0
+valiant 1984 )|JJ CD -RRB-|BODY_7|0
+the operation|DT NN|BODY_10|0
+acceptably small error|RB JJ NN|BODY_10|0
+bayesian analysis|JJ NN|BODY_5:BODY_1|0
+the original|DT JJ|BODY_7|0
+areas|NNS|BODY_3|0
+a training set|DT NN NN|BODY_6|0
+the individual neuron|DT JJ NN|BODY_3|0
+1989 )|CD -RRB-|BODY_8|0
+confidence|NN|BODY_15|0
+the concept g|DT NN NN|BODY_6|0
+valiant ( 1984|NN -LRB- CD|BODY_17|0
+' fit|POS NN|BODY_3|0
+this article|DT NN|ABSTRACT_7|0
+the generality|DT NN|BODY_8|0
+simple solutions|JJ NNS|BODY_6|0
+angluin 1986|NN CD|BODY_6|0
+a contradicting point|DT NN NN|BODY_4|0
+large regions|JJ NNS|BODY_8|0
+the more efficiently|DT JJR RB|BODY_19|0
+bounds|NNS|BODY_3|0
+bayesian probabilities|JJ NNS|BODY_4|0
+an envelope|DT NN|BODY_4|0
+'s transition area|POS NN NN|BODY_9|0
+selecting queries|VBG NNS|BODY_4|0
+neural network learning|JJ NN NN|BODY_4|0
+practice|NN|BODY_2:BODY_1|0
+more complex problem|RBR JJ NN|BODY_3|0
+the conditions|DT NNS|BODY_7|0
+that particular configuration|IN JJ NN|BODY_5|0
+no concepts|DT NNS|BODY_3|0
+how much information|WRB JJ NN|BODY_8|0
+spite|NN|BODY_3|0
+concept complexity|NN NN|BODY_3|0
+right|NN|BODY_2:BODY_8|0
+500 data points|CD NNS NNS|BODY_6|0
+three domains|CD NNS|ABSTRACT_4|0
+another|DT|BODY_7|0
+x ) )|NN -RRB- -RRB-|BODY_8|0
+a trained network|DT JJ NN|BODY_7|0
+neuron i|NN NN|BODY_6|0
+a simple boundary- recognition problem|DT JJ NNS NN NN|BODY_5|0
+cohn and tesauro ( 1992|NN CC NN -LRB- CD|BODY_4|0
+sizes|NNS|BODY_4|0
+the actual training examples|DT JJ NN NNS|BODY_2|0
+output t(|NN NN|BODY_9|0
+the uncertainty|DT NN|BODY_6|0
+an input distribution|DT NN NN|BODY_4|0
+c and t|NN CC NN|BODY_6|0
+their suggestions|PRP$ NNS|BODY_3|0
+illustrated|JJ|BODY_6|0
+a designated output node|DT VBN NN NN|BODY_8|0
+a sufficiently large network|DT RB JJ NN|BODY_3|0
+this domain|DT NN|BODY_5|0
+an approximation|DT NN|BODY_3|0
+an exact implementation|DT JJ NN|BODY_4|0
+a preference|DT NN|BODY_5|0
+t|NN|BODY_13|0
+oversampling|NN|BODY_5|0
+the domain )|DT NN -RRB-|BODY_4|0
+the part|DT NN|BODY_11|0
+s\deltag (|NN -LRB-|BODY_5|0
+the previous section|DT JJ NN|BODY_7|0
+( hopefully|-LRB- RB|BODY_7|0
+a more general one|DT RBR JJ CD|BODY_6|0
+our implementation|PRP$ NN|ABSTRACT_2|0
+1990|CD|BODY_3|0
+each successive example|DT JJ NN|BODY_9|0
+concept learning|NN VBG|BODY_3|0
+the version-space paradigm ( mitchell|DT NN NN -LRB- NN|BODY_3|0
+another s|DT PRP|BODY_5|0
+better generalization|JJR NN|ABSTRACT_4|0
+a new , smaller r(|DT JJ , JJR NNP|BODY_16|0
+the result|DT NN|BODY_7|0
+its output|PRP$ NN|BODY_8|0
+a part|DT NN|BODY_9|0
+only the uncertainty|RB DT NN|BODY_4|0
+all inputs|DT NNS|BODY_7|0
+those concepts|DT NNS|BODY_7|0
+et al.|FW FW|BODY_4|0
+two steps|CD NNS|BODY_11|0
+an axis-parallel rectangle|DT JJ NN|BODY_5|0
+the activation|DT NN|BODY_6|0
+an equally specific one|DT RB JJ CD|BODY_7|0
+3.2 version space mitchell ( 1982|CD NN NN NN -LRB- CD|BODY_1|0
+the concepts|DT NNS|BODY_5|0
+training example x|NN NN NN|BODY_2|0
+figure 9|NN CD|BODY_7|0
+the the set|DT DT NN|BODY_12|0
+the error term equation|DT NN NN NN|BODY_3|0
+no basis|DT NN|BODY_2|0
+different batch sizes|JJ NN NNS|BODY_4|0
+a concept class|DT NN NN|BODY_8|0
+triangles|NNS|BODY_11|0
+complexity|NN|BODY_7|0
+le cun et al|JJ JJ NNP NN|BODY_4|0
+the first|DT JJ|BODY_15|0
+three types|CD NNS|BODY_3|0
+any form|DT NN|BODY_3|0
+information transfer  strategies|NN NN NN NNS|BODY_5|0
+a single background|DT JJ NN|BODY_2|0
+a random example|DT JJ NN|BODY_7|0
+all axis-parallel rectangles|DT JJ NNS|BODY_5:BODY_10|0
+the outer corners|DT JJ NNS|BODY_9|0
+the normal training examples|DT JJ NN NNS|BODY_7|0
+nicks|NNS|BODY_8|0
+a version space|DT NN NN|BODY_3|0
+forms|NNS|BODY_5|0
+one part|CD NN|BODY_6|0
+0 and 1|CD CC CD|BODY_10|0
+four dimensions|CD NNS|BODY_3|0
+additional sampling|JJ NN|BODY_15|0
+a threshold (|DT NN -LRB-|BODY_2|0
+concept c|NN NN|BODY_5|0
+any number|DT NN|BODY_2|0
+our attention|PRP$ NN|BODY_4|0
+this simple approach|DT JJ NN|BODY_3|0
+neuron|NN|BODY_9|0
+figure 7|NN CD|BODY_1|0
+na-ive network querying|JJ NN NN|BODY_3|0
+most examples|JJS NNS|BODY_5|0
+binary search|JJ NN|BODY_8|0
+membership queries examples|NN NNS NNS|BODY_6|0
+empirical efforts|JJ NNS|BODY_3|0
+large training|JJ NN|BODY_3|0
+an arbitrary algorithm|DT JJ NN|BODY_4|0
+an additional point|DT JJ NN|BODY_8|0
+an individual sample|DT JJ NN|BODY_5|0
+hwang et al|VBG FW JJ|BODY_4|0
+a second pass|DT JJ NN|BODY_11|0
+balance|NN|BODY_2|0
+the ratio p r[x|DT NN NN NN|BODY_4|0
+the two learners|DT CD NNS|BODY_5|0
+training set size|NN NN NN|BODY_9|0
+rumelhart et|NNP NNP|BODY_2|0
+a supervised neural network learning technique|DT JJ JJ NN VBG NN|BODY_4|0
+rumelhart et al.|NN FW FW|BODY_6|0
+the weights|DT NNS|BODY_7|0
+a|DT|BODY_6|0
+an unlabeled example|DT JJ NN|BODY_5|0
+the input distribution|DT NN NN|BODY_6|0
+m 0|JJ CD|BODY_5|0
+six sets|CD NNS|BODY_3|0
+a neural network version-space search algorithm|DT JJ NN NN NN NN|BODY_3|0
+solution|NN|BODY_6|0
+almost exponential improvement|RB JJ NN|BODY_7|0
+the simple and intuitive form|DT JJ CC JJ NN|BODY_5|0
+impugnity|NN|BODY_5|0
+its power|PRP$ NN|BODY_3|0
+the learning|DT NN|BODY_3|0
+a second batch|DT JJ NN|BODY_12|0
+different learning rates|JJ NN NNS|BODY_3|0
+.10000011 figure 1|CD NN CD|BODY_7|0
+a real-valued output|DT JJ NN|BODY_6|0
+t and distribution p|NN CC NN NN|BODY_4|0
+a pair|DT NN|BODY_10|0
+active concept learning|JJ NN NN|ABSTRACT_3|0
+each time|DT NN|BODY_1|1
+training examples m|NN NNS NN|BODY_3|0
+an empirical study|DT JJ NN|BODY_5|0
+a single sampling iteration|DT JJ NN NN|BODY_5|0
+the relative distribution|DT JJ NN|BODY_6|0
+attention|NN|BODY_3|0
+these tolerances|DT NNS|BODY_2|0
+a most specific  or most general  concept|DT RBS JJ NN CC RBS JJ NN NN|BODY_4|0
+a large body|DT JJ NN|BODY_2|0
+the strict learning theory viewpoint|DT JJ NN NN NN|BODY_6|0
+approximations|NNS|BODY_4|0
+overall failure|JJ NN|BODY_6|0
+the subset|DT NN|BODY_5|0
+available information|JJ NN|BODY_6|0
+simple concept classes|JJ NN NNS|BODY_3|0
+any consistent hypothesis|DT JJ NN|BODY_4|0
+its membership|PRP$ NN|BODY_4|0
+p train|NN NN|BODY_6|0
+the concept c|DT NN NN|BODY_4|0
+the input nodes|DT NN NNS|BODY_7|0
+their classification|PRP$ NN|BODY_7|0
+version-space search ( mitchell|JJ NN -LRB- NN|BODY_6|0
+2 c|CD NN|BODY_10|0
+the representational complexity|DT JJ NN|BODY_2|0
+a concept learner|DT NN NN|BODY_5|0
+an ordering|DT NN|BODY_13|0
+a superset r|DT NN NN|BODY_2|0
+more examples|JJR NNS|BODY_18|0
+a very rudimentary form|DT RB JJ NN|BODY_2|0
+the background learning rate|DT NN VBG NN|BODY_2|0
+sense|NN|BODY_12|0
+a formal definition|DT JJ NN|BODY_5|0
+a formalism|DT NN|ABSTRACT_2|0
+0:987|CD|BODY_6|0
+3.3|CD|BODY_1|0
+any single neural network|DT JJ JJ NN|BODY_6|0
+sections 6 and 7|NNS CD CC CD|BODY_1|0
+simple linear regression|JJ NN NN|BODY_1|0
+the paper|DT NN|BODY_6|0
+a function|DT NN|BODY_3|0
+overly confident |RB JJ|BODY_5|0
+all configurations|DT NNS|BODY_5|0
+the network ~ c|DT NN NN NN|BODY_5|0
+a concept|DT NN|BODY_2|0
+the least error|DT JJS NN|BODY_8|0
+the drawing|DT NN|BODY_1|0
+a new distribution p|DT JJ NN NN|BODY_2|0
+here is|RB VBZ|BODY_3|0
+some given neural network architecture|DT VBN JJ NN NN|BODY_8|0
+the most specific/general networks|DT RBS JJ NNS|BODY_5|0
+a new , random point|DT JJ , JJ NN|BODY_3|0
+two subsets|CD NNS|BODY_4|0
+the ibm corporation|DT JJ NN|BODY_4|0
+the distinction|DT NN|BODY_4|0
+4.1|CD|BODY_1|0
+algorithms|NNS|BODY_3|0
+a laborious process|DT JJ NN|BODY_7|0
+these results|DT NNS|BODY_1|0
+many concepts|JJ NNS|BODY_2|0
+each node|DT NN|BODY_1|0
+the domain space|DT NN NN|BODY_13|0
+section 4|NN CD|BODY_1|0
+the network parameters|DT NN NNS|BODY_3|0
+the inductive biases|DT JJ NNS|BODY_3|0
+the example|DT NN|BODY_1|0
+a simple convex shape|DT JJ JJ NN|BODY_8|0
+figure 7a|NN CD|BODY_1|0
+0.1 and 0.9 )|CD CC CD -RRB-|BODY_12|0
+utility|NN|BODY_6|0
+its true classification|PRP$ JJ NN|BODY_3|0
+standard deviation|JJ NN|BODY_1|0
+virtue|NN|BODY_2|0
+an sg-net|DT NN|BODY_3|0
+increased concept complexity|VBN NN NN|BODY_3|0
+equations|NNS|BODY_8|0
+question|NN|BODY_11|0
+the potential error|DT JJ NN|BODY_3|0
+the concept learning problem|DT NN VBG NN|BODY_3|0
+0.5 )|CD -RRB-|BODY_3|0
+these background patterns|DT NN NNS|BODY_9|0
+selecting|NN|BODY_10|0
+consistent improvement|JJ NN|BODY_3|0
+t( x ) ) and copy x|NN SYM -RRB- -RRB- CC NN SYM|BODY_6|0
+many related results|JJ JJ NNS|BODY_4|0
+a constant learning rate|DT JJ NN NN|BODY_5|0
+zero outside|CD IN|BODY_5|0
+a close superset or subset|DT JJ NN CC NN|BODY_6|0
+this observation|DT NN|BODY_1|0
+a new background learning rate|DT JJ NN VBG NN|BODY_5|1
+linear regression|NN NN|BODY_1|0
+2 )|CD -RRB-|BODY_13|0
+minimal finite state automata|JJ JJ NN NN|BODY_4|0
+c 1|NN CD|BODY_5|0
+these two failure modes|DT CD NN NNS|BODY_2|0
+the rest|DT NN|BODY_13|0
+the determination|DT NN|BODY_3|0
+1 or 0,|CD CC CD|BODY_4|0
+the pathology|DT NN|BODY_2|0
+'s approximation|POS NN|BODY_5|0
+an initial batch|DT JJ NN|BODY_3|0
+the valiant sense|DT JJ NN|BODY_5|0
+the same generality|DT JJ NN|BODY_3|0
+a given point|DT VBN NN|BODY_7|0
+uniform )|JJ -RRB-|BODY_4|0
+a theory|DT NN|BODY_4|0
+this process|DT NN|BODY_2|0
+the accuracy|DT NN|BODY_7|0
+passive random sampling techniques|JJ JJ NN NNS|BODY_4|0
+a variety|DT NN|BODY_4|0
+instances|NNS|BODY_4|0
+the learning program|DT NN NN|BODY_6|0
+ny|NN|BODY_6|0
+pure selective sampling|JJ JJ NN|BODY_3|0
+washington|NN|BODY_6|0
+our case|PRP$ NN|BODY_8|0
+0 to sample|CD TO NN|BODY_3|0
+the areas|DT NNS|BODY_4|0
+the generalization behavior|DT NN NN|BODY_7|0
+a step-by-step traversal|DT NN NN|BODY_3|0
+a simple feedforward neural network|DT JJ NN JJ NN|BODY_12|0
+the influence|DT NN|BODY_6|0
+the ability|DT NN|BODY_4|0
+other trainable classifiers|JJ JJ NNS|BODY_4|0
+several domains|JJ NNS|BODY_10|0
+an appropriately trained network|DT NN VBN NN|BODY_6|0
+the most specific|DT RBS JJ|BODY_12|0
+fl|NN|BODY_1|0
+the background patterns|DT NN NNS|BODY_3|0
+a strict index|DT JJ NN|BODY_4|0
+eight test cases|CD NN NNS|BODY_1|0
+those parameters|DT NNS|BODY_4|0
+ points|JJ NNS|BODY_8|0
+2.1 generalization|CD NN|BODY_1|0
+4.3 power system security analysis|CD NN NN NN NN|BODY_1|0
+a new inductive bias|DT JJ JJ NN|BODY_4|0
+these additional examples|DT JJ NNS|BODY_3|0
+this error value|DT NN NN|BODY_4|0
+motherese  speech )|RB VB NN -RRB-|BODY_13|0
+natural systems|JJ NNS|BODY_1|0
+c( x|NN SYM|BODY_6|0
+example ( x|NN -LRB- SYM|BODY_4|0
+every query|DT NN|BODY_5|0
+standard backpropagation|JJ NN|BODY_2|0
+the information|DT NN|BODY_3|0
+a window|DT NN|BODY_3|0
+a superset|DT NN|BODY_2|0
+new data|JJ NNS|BODY_2|0
+what parts|WDT NNS|BODY_8|0
+second|JJ|BODY_14|0
+any point|DT NN|BODY_3|0
+anneal |JJ|BODY_7|0
+( x|-LRB- NN|BODY_3|0
+the edge|DT NN|BODY_2|0
+limitations|NNS|BODY_4|0
+( x )|-LRB- NN -RRB-|BODY_11|0
+its failure modes|PRP$ NN NNS|BODY_5|0
+a polynomial number|DT JJ NN|BODY_8|0
+( baum and haussler , 1989 ) and ( haussler , 1989 ) .1100000011 figure 2|-LRB- NN CC NN , CD -RRB- CC -LRB- NN , CD -RRB- CD NN CD|BODY_19|0
+the superset|DT NN|BODY_6|0
+'s proper classification|POS JJ NN|BODY_6|0
+sharp distinctions|JJ NNS|BODY_4|0
+that its failure modes|IN PRP$ NN NNS|BODY_3|0
+no decrease|DT NN|BODY_5|0
+a similar procedure|DT JJ NN|BODY_1|0
+s and g|VBZ CC NN|BODY_6|0
+the utility|DT NN|BODY_5|0
+this strategy|DT NN|BODY_1|0
+figure 5|NN CD|BODY_1|0
+an incremental learning procedure|DT JJ NN NN|BODY_16|0
+o(ln ( 1 queries|NN -LRB- CD NNS|BODY_12|0
+the power system static security problem|DT NN NN JJ NN NN|BODY_7|0
+this calculation|DT NN|BODY_6|0
+what part|WP NN|ABSTRACT_5|0
+the input distribution p|DT NN NN NN|BODY_5|0
+noise|NN|ABSTRACT_12|0
+( \deltaw|-LRB- NN|BODY_4|0
+recent work|JJ NN|BODY_1|0
+figures|NNS|BODY_3|0
+4.82 % )|CD NN -RRB-|BODY_14|0
+learners|NNS|BODY_9|0
+repeat|NN|BODY_11|0
+the output error|DT NN NN|BODY_1|0
+a neural network architecture|DT JJ NN NN|BODY_1|0
+2.|CD|BODY_1|0
+that point|DT NN|BODY_16:BODY_1:BODY_7:BODY_9|0
+a concept class c|DT NN NN NN|BODY_5:BODY_1|0
+the results (|DT NNS -LRB-|BODY_1|0
+a simple but higher-dimensional problem|DT JJ CC JJ NN|BODY_6|0
+the power system problem|DT NN NN NN|BODY_5|0
+a small power system|DT JJ NN NN|BODY_9|0
+the committee|DT NN|BODY_4|0
+an extreme|DT JJ|BODY_4|0
+the we|DT PRP|BODY_8|0
+a training set size 50 100 150 0.3 random sampling naive querying selective sampling figure generalization error vs. training set size|DT NN NN NN CD CD CD CD JJ JJ JJ NN JJ JJ NN NN NN CC NN NN NN|BODY_8|0
+the the initial r(|DT DT JJ NN|BODY_8|0
+only a very few configurations|RB DT RB JJ NNS|BODY_6|0
+a bias|DT NN|BODY_11|0
+some points|DT NNS|BODY_6|0
+subsets|NNS|BODY_5|0
+additional precautions|JJ NNS|BODY_8|0
+the actual underlying p.|DT JJ JJ NN|BODY_9|0
+no information|DT NN|BODY_8|0
+our domain|PRP$ NN|BODY_4|0
+0)|CD|BODY_5|0
+the examples yields|DT NNS NNS|BODY_3|0
+these background|DT NN|BODY_2|0
+positive those example points|JJ DT NN NNS|BODY_8|0
+finite state automata|JJ NN NN|BODY_10|0
+the network configuration ~ c|DT NN NN NN NN|BODY_4|0
+this last category corresponds|DT JJ NN NNS|BODY_2|0
+consistent configurations|JJ NNS|BODY_6|0
+network training algorithms|NN NN NNS|BODY_2|0
+two concepts|CD NNS|BODY_27|0
+additional experiments|JJ NNS|BODY_1|0
+the exponential curve|DT JJ NN|BODY_10|0
+many hidden units|JJ JJ NNS|BODY_5|0
+all possible consistent network configurations|DT JJ JJ NN NNS|BODY_14|0
+outside r(|IN NN|BODY_3|0
+a popular use|DT JJ NN|BODY_1|0
+the maximum error|DT JJ NN|BODY_2|0
+some distribution p)|DT NN NN|BODY_7|0
+probabilities|NNS|BODY_1|0
+the paradigm|DT NN|BODY_1|0
+our approximation|PRP$ NN|BODY_9|0
+learning theory|NN NN|BODY_7|0
+new examples|JJ NNS|BODY_8|0
+' c ' g|'' NN '' NN|BODY_5|0
+this negative  bias|DT JJ JJ NN|BODY_1|0
+the new point|DT JJ NN|BODY_1:BODY_9|0
+the total uncertainty|DT JJ NN|BODY_6|0
+a sequential process|DT JJ NN|BODY_4|0
+3.1|CD|BODY_1|0
+weight adjustment|NN NN|BODY_13|0
+the environment|DT NN|ABSTRACT_4|0
+a point inside|DT NN NN|BODY_6|0
+a particular configuration|DT JJ NN|BODY_6|0
+the target|DT NN|BODY_11|0
+the left half|DT JJ NN|BODY_8|0
+the full cost|DT JJ NN|BODY_5|0
+an accurate approximation|DT JJ NN|BODY_3|0
+any other inductive bias|DT JJ JJ NN|BODY_2|0
+these sets|DT NNS|BODY_1|0
+the corners|DT NNS|BODY_5|0
+a background bias|DT NN NN|BODY_2|0
+m s\deltag|NN NN|BODY_7|0
+the two contours|DT CD NNS|BODY_6|0
+some g|DT NN|BODY_7|0
+the following section|DT VBG NN|BODY_4|0
+a two-dimensional space|DT JJ NN|BODY_3|0
+some oversampling|DT NN|BODY_2|0
+parts|NNS|ABSTRACT_6|0
+all training examples|DT NN NNS|BODY_29|0
+the difference |DT NN|BODY_6|0
+the hidden layer|DT JJ NN|BODY_7|0
+distribution p)|NN NN|BODY_5|0
+some regions|DT NNS|BODY_10|0
+some subset|DT NN|BODY_5|0
+the entire domain|DT JJ NN|BODY_6|0
+the figure na-ive approach|DT NN JJ NN|BODY_4|0
+an area|DT NN|BODY_6|0
+this domain )|DT NN -RRB-|BODY_6|0
+the entire region|DT JJ NN|BODY_7|0
+haussler ( 1987|NN -LRB- CD|BODY_2|0
+each new example|DT JJ NN|BODY_7|0
+membership|NN|BODY_10|0
+150 random examples|CD JJ NNS|BODY_1|0
+the output layer|DT NN NN|BODY_7|0
+the same mapping|DT JJ NN|BODY_9|0
+training set|NN NN|BODY_1:BODY_7|0
+this method|DT NN|BODY_5|0
+patterns|NNS|BODY_1|0
+backpropa- gation|NNS NN|BODY_4|0
+actual implementations|JJ NNS|BODY_1|0
+the dotted line|DT VBN NN|BODY_1|0
+m examples|NN NNS|BODY_8|0
+the majority|DT NN|BODY_1|0
+the final result|DT JJ NN|BODY_1|0
+much work|JJ NN|BODY_1|0
+the plane|DT NN|BODY_8|0
+the neurons|DT NNS|BODY_10|0
+units|NNS|BODY_9|0
+2500 points|CD NNS|BODY_9|0
+an arbitrary background example y|DT JJ NN NN NN|BODY_7|0
+figure 7b|NN CD|BODY_4|0
+this limitation|DT NN|BODY_1|0
+the two|DT CD|BODY_7|0
+a )|DT -RRB-|BODY_1|0
+the added computational costs|DT VBN JJ NNS|BODY_10|0
+10b )|JJ -RRB-|BODY_9|0
+many trainable classifiers|JJ JJ NNS|BODY_6|0
+several positive and negative examples|JJ JJ CC JJ NNS|BODY_1|0
+the unit line|DT NN NN|BODY_7|0
+the parameters|DT NNS|BODY_11|0
+the polynomial|DT NN|BODY_5|0
+c 1 6ae c 2|NN CD NN NN CD|BODY_1|0
+previous research (|JJ NN -LRB-|BODY_1|0
+smaller , more frequent iterations|JJR , RBR JJ NNS|BODY_6|0
+either typical network architecture split|DT JJ NN NN NN|BODY_1|0
+judd ( 1988 )|NN -LRB- CD -RRB-|BODY_5|0
+generalization behavior|NN NN|BODY_11|0
+introduction|NN|BODY_1|0
+some concept c 1|DT NN NN CD|BODY_1|0
+the concept learning model|DT NN VBG NN|BODY_1|0
+5.1 practical limitations|CD JJ NNS|BODY_1|0
+6 related work|CD JJ NN|BODY_1|0
+an error-free environment|DT JJ NN|BODY_4|0
+its learning algorithm|PRP$ NN NN|BODY_15|0
+a single hidden-layer neural network|DT JJ NN JJ NN|BODY_5|0
+an algorithm|DT NN|BODY_1|0
+g 2|NN CD|BODY_8|0
+each set|DT NN|BODY_1|0
+the range|DT NN|BODY_1|0
+these parts|DT NNS|BODY_19|0
+its configuration|PRP$ NN|BODY_7|0
+that work|DT NN|BODY_1|0
+the computational resources|DT JJ NNS|BODY_10|0
+cg|NN|BODY_7|0
+figure 1 )|NN CD -RRB-|BODY_5|0
+the above example|DT JJ NN|BODY_1|0
+freund et al|JJ NNP NN|BODY_1|0
+an expected position error|DT VBN NN NN|BODY_1|0
+estimate increases|NN VBZ|BODY_10|0
+) 6= g( x )|-RRB- CD NN NN -RRB-|BODY_15|0
+each example|DT NN|BODY_1|0
+any given iteration|DT VBN NN|BODY_1|0
+8 )|CD -RRB-|BODY_5|0
+some given data|DT VBN NNS|BODY_7|0
+this requirement|DT NN|BODY_1|0
+one method|CD NN|BODY_1|0
+an active learning method|DT JJ NN NN|BODY_4|0
+7.|PRP|BODY_1|0
+the push |DT NN|BODY_1|0
+the weight|DT NN|BODY_1|0
+this task|DT NN|BODY_1|0
+error backpropagation|NN NN|BODY_6|0
+the improvement|DT NN|BODY_1|0
+this figure|DT NN|BODY_1|0
+6 )|CD -RRB-|BODY_12|0
+the symmetric difference operator )|DT JJ NN NN -RRB-|BODY_11|0
+2 c]|CD NN|BODY_7|0
+general ones|JJ NNS|BODY_14|0
+pling|NN|BODY_11|0
+valiant ( 1984 )|NN -LRB- CD -RRB-|BODY_1|0
+3.4.1|CD|BODY_1|0
+a single most specific  concept|DT JJ RBS JJ NN NN|BODY_17|0
+concept learning and selective sampling|NN VBG CC JJ NN|BODY_1|0
+the problem tractable|DT NN NN|BODY_3|0
+12 runs|CD NNS|BODY_1|0
+the irregularity|DT NN|BODY_1|0
+7 conclusion|CD NN|BODY_1|0
+a preliminary version|DT JJ NN|BODY_1|0
+a result|DT NN|BODY_1|0
+- ff|: NN|BODY_3|0
+such a network|PDT DT NN|BODY_1|0
+the underlying distribution|DT JJ NN|BODY_8|0
+bound the concepts|JJ DT NNS|BODY_1|0
+either case|DT NN|BODY_1|0
+angluin|NN|BODY_1|0
+3.4|CD|BODY_1|0
+a solution|DT NN|BODY_10|0
+the configuration|DT NN|BODY_1|0
+baum and haussler ( 1989 )|NN CC NN -LRB- CD -RRB-|BODY_1|0
+many natural learning systems|JJ JJ NN NNS|BODY_1|0
+point|NN|BODY_1|0
+the generalization problem|DT NN NN|BODY_1|0
+certain smoothness constraints|JJ NN NNS|BODY_1|0
+the sample distribution|DT NN NN|BODY_1|0
+the two concepts|DT CD NNS|BODY_4|0
+figure 8|NN CD|BODY_1|0
+most general  concepts|JJS JJ NN NNS|BODY_2|0
+a membership query|DT NN NN|BODY_1|0
+most learning algorithms|RBS VBG NNS|BODY_1|0
+~ c( x )|IN NN NN -RRB-|BODY_10|0
+11 )|CD -RRB-|BODY_9|0
+the modified version-space search|DT VBN NN NN|BODY_8|0
+2.3 selective sampling|CD JJ NN|BODY_1|0
+3.4.2|CD|BODY_1|0
+improving generalization|VBG NN|TITLE_1|0
+many formal problems|JJ JJ NNS|BODY_1|0
+randomly given examples|RB VBN NNS|BODY_3|0
+some situations|DT NNS|ABSTRACT_1|0
+the broad definition|DT JJ NN|BODY_1|0
+such problems|JJ NNS|BODY_1|0
+this adjustment|DT NN|BODY_1|0
+its short- comings|PRP$ NNS NNS|BODY_5|0
+the input dimension|DT NN NN|BODY_1|0
+their algorithm|PRP$ NN|BODY_1|0
+a point y|DT NN NN|BODY_1|0
+2.4 approximations|CD NNS|BODY_1|0
+3 neural networks|CD JJ NNS|BODY_1|0
+4 experimental results experiments|CD JJ NNS NNS|BODY_1|0
+5.2 theoretical limitations|CD JJ NNS|BODY_1|0
+batches|NNS|BODY_5|0
+practical implementations|JJ NNS|BODY_1|0
+relatively simple concept classes|RB JJ NN NNS|BODY_6|0
+six runs|CD NNS|BODY_1|0
+the desired final error rate|DT VBN JJ NN NN|BODY_1|0
+ji 5|RB CD|BODY_7|0
+the modified equation \deltaw|DT JJ NN NN|BODY_5|0
+the next section )|DT JJ NN -RRB-|BODY_11|0
+some description language|DT NN NN|BODY_4|0
+'s topology and transfer functions|POS NN CC NN NNS|BODY_11|0
+14,979 randomly drawn test points|CD RB VBN NN NNS|BODY_3|0
+a passive learner|DT JJ NN|BODY_8|0
+figure 4 )|NN CD -RRB-|BODY_9|0
+its local minimum|PRP$ JJ NN|BODY_5|0
+simple problems|JJ NNS|BODY_6|0
+4.2 real-valued threshold function|CD VBN NN NN|BODY_1|0
+a training example x|DT NN NN NN|BODY_3|1
+many problems|JJ NNS|BODY_1|0
+most cases|JJS NNS|BODY_1|0
+our experiments|PRP$ NNS|BODY_1|0
+section 2|NN CD|BODY_1|0
+section 3|NN CD|BODY_1|0
+successive iterations|JJ NNS|BODY_3|0
+the first pass|DT JJ NN|BODY_1|0
+the following two subsections|DT VBG CD NNS|BODY_1|0
+the penalty|DT NN|BODY_1|0
+these two concepts|DT CD NNS|BODY_1|0
+this fashion|DT NN|BODY_1|0
+this point|DT NN|BODY_1|0
+x 2 t|NN CD NN|BODY_1|0
+a good active learning algorithm|DT JJ JJ NN NN|BODY_11|0
+o( 1 training examples|RB CD NN NNS|BODY_4|0
+a fixed representation size|DT JJ NN NN|BODY_6|0
+5 limitations|CD NNS|BODY_1|0
+an infinitesimally small amount|DT RB JJ NN|BODY_11|0
+calculating r(|NN NN|BODY_1|0
+figure 2|NN CD|BODY_12|0
+sampling|NN|BODY_5|0
+'s classification t( x )|POS NN NN SYM -RRB-|BODY_9|0
+these cases|DT NNS|BODY_1|0
+a constant|DT JJ|BODY_9|1
+select next actual training example|JJ JJ JJ NN NN|BODY_1|0
+any consistent concept c|DT JJ NN NN|BODY_1|0
+information about|NN IN|ABSTRACT_8|0
+misclassification|NN|BODY_9|0
+positive|JJ|BODY_1|0
+the neural network implementation|DT JJ NN NN|BODY_1|0
+thermal overload and brown-out|JJ JJ CC JJ|BODY_2|0
+a most specific network|DT RBS JJ NN|BODY_1|0
+a positive example|DT JJ NN|BODY_6|0
+given input x|VBN NN SYM|BODY_11|0
+simple concepts|JJ NNS|BODY_4|0
+counter-examples|NNS|BODY_12|0
+interest|NN|BODY_13:BODY_8|0
+the initial random sampling stage|DT JJ JJ NN NN|BODY_10|0
+these difficulties|DT NNS|BODY_6|0
+a universally applicable paradigm|DT RB JJ NN|BODY_2|0
+active learning differs|JJ NN NNS|ABSTRACT_1|0
+figure 3 )|NN CD -RRB-|BODY_22|0
+that region|IN NN|BODY_3|0
+2.2|CD|BODY_1|0
+no impediment|DT NN|BODY_5|0
+such|JJ|BODY_1|0
+a most general  concept|DT RBS JJ JJ NN|BODY_3|0
+the fact|DT NN|BODY_1|0
+0:5 ( see figure 5 )|CD -LRB- VB NN CD -RRB-|BODY_1|0
+a negative example|DT JJ NN|BODY_1|0
+new background learning rate 6|JJ NN VBG NN CD|BODY_1|0

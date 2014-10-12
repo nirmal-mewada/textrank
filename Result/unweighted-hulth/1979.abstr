@@ -1,0 +1,52 @@
+edges|NNS|BODY_5:BODY_3|0
+image noise|NN NN|BODY_3|0
+significant reduction|JJ NN|BODY_2|0
+a frequency domain|DT NN NN|BODY_2|0
+a wider range|DT JJR NN|BODY_4|0
+both natural and computer|DT JJ CC NN|BODY_4|0
+dynamic range compression|JJ NN NN|BODY_2|0
+the advantages|DT NNS|BODY_6|0
+the results|DT NNS|BODY_2|0
+gradient amplitudes|JJ NNS|BODY_5|0
+pixels|NNS|BODY_2|0
+all wavelet detail and approximation images|DT NN NN CC NN NNS|BODY_9|0
+the same wavelet|DT JJ NN|BODY_2|0
+any pixel|DT NN|BODY_6|0
+edge detection|NN NN|BODY_2|0
+two wavelet based noise suppression algorithms|CD NN VBN NN NN NNS|BODY_3|0
+wavelet correlation|NN NN|BODY_3|0
+a given edge|DT VBN NN|BODY_3|0
+pixel similarity|JJ NN|BODY_4|0
+a final edge probability image|DT JJ NN NN NN|BODY_4|0
+an image|DT NN|BODY_6|0
+geometrical characteristics|JJ NNS|BODY_2|0
+each domain|DT NN|BODY_3|0
+which|WDT|BODY_5|0
+the edges|DT NNS|BODY_8|0
+the original image|DT JJ NN|BODY_3|0
+the characteristics|DT NNS|BODY_7|0
+the generation|DT NN|BODY_4|0
+a spatially adaptive wavelet-based noise|DT RB JJ JJ NN|BODY_3|0
+the chance|DT NN|BODY_5|0
+adaptive filters|JJ NNS|BODY_5|0
+that|WDT|BODY_6|0
+a probability factor|DT NN NN|BODY_4|0
+new methods|JJ NNS|BODY_4|0
+an improved double thresholding technique|DT JJ JJ NN NN|BODY_1|0
+spatial domain filtering|JJ NN NN|BODY_2|0
+distortion|NN|BODY_4|0
+these matched filters|DT VBD NNS|BODY_1|0
+gradient phases and edge connectivity|JJ NNS CC NN NN|BODY_6|0
+probabilities|NNS|BODY_1|0
+noisy images|JJ NNS|BODY_5|0
+scales|NNS|BODY_5|0
+the scale-space approach|DT NN NN|BODY_1|0
+the spatially adaptive wavelet noise-filtering algorithm|DT RB JJ NN NN NN|BODY_1|0
+a probabilistic formulation|DT JJ NN|BODY_1|0
+both spatial and scale-space domain methods|DT JJ CC JJ NN NNS|BODY_7|0
+scale|NN|BODY_10|0
+this edge probability image|DT NN NN NN|BODY_1|0
+an edge|DT NN|BODY_7|0
+spatial and scale-space techniques|JJ CC NN NNS|BODY_1|0
+a priori knowledge|DT JJ NN|BODY_1|0
+spatial and scale-space domains|JJ CC NN NNS|BODY_7|0

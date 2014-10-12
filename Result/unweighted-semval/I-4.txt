@@ -1,0 +1,266 @@
+it|PRP|BODY_12:BODY_11:BODY_17:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_9|3
+we|PRP|BODY_5:ABSTRACT_4:BODY_17:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|5
+the agent|DT NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7:BODY_8|0
+which|WDT|BODY_6:BODY_5:BODY_11:BODY_17:BODY_21:BODY_26:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|1
+there|EX|BODY_5:BODY_28:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_20|1
+that|WDT|BODY_6:BODY_5:BODY_16:BODY_2:ABSTRACT_3:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|1
+agents|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_20|0
+other agents|JJ NNS|BODY_6:BODY_5:BODY_16:BODY_21:BODY_15:BODY_2:BODY_3:BODY_7:BODY_8:BODY_9|0
+the pc manufacturer|DT JJ NN|BODY_6:BODY_17:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_19|1
+they|PRP|BODY_6:BODY_5:BODY_16:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+a set|DT NN|BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|0
+the distribution center|DT NN NN|BODY_12:BODY_41:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+each negotiation|DT NN|BODY_6:BODY_5:BODY_11:BODY_16:ABSTRACT_4:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8|1
+negotiation|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+each agent|DT NN|BODY_5:BODY_1:ABSTRACT_3:BODY_14:BODY_3:BODY_4|0
+c|NN|BODY_11:BODY_16:BODY_2:BODY_3:BODY_24:BODY_10|0
+the meta-level information|DT JJ NN|BODY_6:BODY_5:BODY_22:BODY_2:BODY_3:BODY_7|0
+|NNP|BODY_6:BODY_15:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|0
+the negotiation|DT NN|BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_7|2
+the system|DT NN|BODY_6:BODY_11:BODY_17:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|1
+negotiations|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the store agent|DT NN NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_2:BODY_7|1
+example|NN|BODY_5:BODY_17:BODY_13:BODY_1:BODY_39:BODY_3:BODY_8|0
+}|NN|BODY_17:BODY_27:BODY_25:BODY_3:BODY_4:BODY_7|0
+flexibility|NN|BODY_12:BODY_2:BODY_3:ABSTRACT_7:BODY_7|1
+tasks|NNS|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7:BODY_30|0
+3|CD|BODY_6:BODY_11:BODY_5:BODY_22|1
+this work|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1|0
+the agents|DT NNS|BODY_6:BODY_15:ABSTRACT_3:BODY_3:BODY_19:BODY_4:BODY_8|0
+the negotiation deadline|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|1
+the task|DT NN|BODY_5:BODY_3:BODY_4|0
+ï• )|NNP -RRB-|BODY_6:BODY_16:BODY_2:BODY_10:BODY_4:BODY_9|0
+multi-agent systems|JJ NNS|BODY_3:BODY_4|0
+order computer|NN NN|BODY_5:BODY_16:BODY_15:BODY_2:BODY_3:BODY_4:BODY_8|2
+the negotiations|DT NNS|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_19:BODY_8|1
+this negotiation|DT NN|BODY_6:BODY_22:BODY_18:BODY_4:BODY_19:BODY_7|0
+the multi-linked negotiation problem|DT JJ NN NN|BODY_2:BODY_1:BODY_3:BODY_10|0
+deadline|NN|BODY_6:BODY_11:BODY_1:BODY_7|0
+pbs|NN|BODY_33:BODY_25:BODY_4:BODY_29:BODY_20|0
+)|-RRB-|BODY_6:BODY_13:BODY_8|0
+task order hardware|NN NN NN|BODY_5:BODY_17:BODY_2:BODY_3|0
+the success probability|DT NN NN|BODY_1:BODY_3:BODY_4:BODY_7|0
+the likelihood|DT NN|BODY_5:BODY_31:BODY_17:BODY_13:BODY_1:BODY_10|0
+an agent|DT NN|BODY_5:BODY_2:BODY_1:BODY_4|1
+the success probability function|DT NN NN NN|BODY_38:BODY_4:BODY_8|0
+1|CD|BODY_11:BODY_3:BODY_4:BODY_8|0
+the range|DT NN|BODY_2:BODY_1:BODY_3:BODY_7|0
+the deadline|DT NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_10|1
+this task|DT NN|BODY_6:BODY_15:BODY_10:BODY_7:BODY_9|0
+negotiation v|NN NNS|BODY_6:BODY_3:BODY_4|0
+time|NN|BODY_5:BODY_2|0
+the negotiation chain problem|DT NN NN NN|BODY_1:BODY_2:BODY_4|0
+the meta-info-deadline policy|DT NN NN|BODY_2:BODY_3|0
+them|PRP|BODY_6:BODY_17:BODY_2:BODY_7:BODY_9|0
+better local optimal solutions|JJR JJ JJ NNS|BODY_22:BODY_2:BODY_8|0
+the sixth intl|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_14:BODY_4|0
+the other agents|DT JJ NNS|BODY_5:BODY_7|1
+a negotiation ordering ï†|DT NN VBG NNP|BODY_18:BODY_3|0
+the 800 time units|DT CD NN NNS|BODY_2|0
+the pre-negotiation figure 7|DT NN NN CD|BODY_3|0
+these local optimization problem|DT JJ NN NN|BODY_4|0
+the earliest start time|DT JJS NN NN|BODY_10:BODY_8|1
+every 20 time units|DT CD NN NNS|BODY_2:BODY_4|0
+the other agent|DT JJ NN|BODY_5:BODY_14:BODY_4:BODY_9|0
+different parameter values|JJ NN NNS|BODY_5:BODY_39:BODY_2|0
+task and resource allocation|NN CC NN NN|BODY_2|0
+part|NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+v|NN|BODY_5:BODY_16:BODY_3:BODY_8|0
+the basic negotiation process|DT JJ NN NN|BODY_2|0
+nearly-optimal macro negotiation strategies|JJ JJ NN NNS|BODY_10|0
+more flexibility|JJR NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+a more accurate model|DT RBR JJ NN|BODY_5:ABSTRACT_3:BODY_3|0
+the coordination and scheduling|DT NN CC NN|BODY_2|0
+ui( < slo 1|JJ JJ NN CD|BODY_15:BODY_8|0
+this example ( gain|DT NN -LRB- NN|BODY_2|0
+this more accurate model|DT RBR JJ NN|BODY_1:BODY_2:ABSTRACT_1|0
+the contractor agent|DT NN NN|BODY_5:BODY_3:BODY_4|0
+the flexibility|DT NN|BODY_6:BODY_5:BODY_15:BODY_4:BODY_7|0
+this issue|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|1
+the best negotiation order|DT JJS NN NN|BODY_4|0
+one purchase computer task|CD NN NN NN|BODY_1|0
+experiments|NNS|BODY_2:BODY_3|0
+pbs(v ) âˆ —|NN -RRB- NN NN|BODY_4:BODY_8|0
+a virtual organization [12]|DT JJ NN NN|BODY_3|0
+a complex supply-chain scenario|DT JJ NN NN|BODY_2|0
+quality and delivery time|NN CC NN NN|BODY_2|1
+every 15 time units|DT CD NN NNS|BODY_2|0
+the multiple children nodes|DT JJ NNS NNS|BODY_8|0
+greater than 16 )|JJR IN CD -RRB-|BODY_3|0
+multiple related negotiations|JJ JJ NNS|ABSTRACT_2:BODY_2:BODY_7|0
+a cooperative mediation mechanism|DT JJ NN NN|BODY_4|0
+relatively tight time deadline|RB JJ NN NN|BODY_5|1
+the feature assignment ï•|DT NN NN NNP|BODY_5:BODY_7|0
+the negotiation process|DT NN NN|BODY_5:BODY_1:BODY_4:BODY_8|0
+time 11 and finishes|NN CD CC NNS|BODY_14|0
+three purchase memory tasks|CD NN NN NNS|BODY_3|0
+best local optimal solutions|JJS JJ JJ NNS|BODY_2:BODY_3|0
+i } ) iff|IN NN -RRB- NN|BODY_7|0
+the contract net [6]|DT NN JJ NN|BODY_8|0
+1 basic neg cycle|CD JJ NN NN|BODY_17|0
+the success probability functions|DT NN NN NNS|BODY_12|0
+additional negotiations|JJ NNS|BODY_6:BODY_12:BODY_18:BODY_14:BODY_9:BODY_20|0
+a local optimization problem|DT JJ NN NN|BODY_2|0
+the negotiation partner changes|DT NN NN NNS|BODY_8|0
+the n related negotiations|DT NN VBN NNS|BODY_2|0
+these local optimal solutions|DT JJ JJ NNS|BODY_2|0
+resource constrains and uncertainties|NN NNS CC NNS|BODY_3|0
+hardware and transporterdistribution center|NN CC NN NN|BODY_13|0
+the negotiation chain scenario|DT NN NN NN|BODY_5:BODY_4|0
+28 ] process time|CD JJ NN NN|BODY_9|0
+3 ) = 5|CD -RRB- SYM CD|BODY_10|0
+ï• ) âˆ ’|NNP -RRB- NN NN|BODY_13|0
+our multi-linked negotiation model|PRP$ JJ NN NN|BODY_5|1
+the earliest start times|DT JJS NN NNS|BODY_11|0
+a project management problem|DT NN NN NN|BODY_11|0
+tightly-coupled local optimization problems|JJ JJ NN NNS|BODY_3|0
+no single global goal|DT JJ JJ NN|BODY_2|0
+a negotiation v|DT NN NN|BODY_2|0
+a complete cooperative system|DT JJ JJ NN|BODY_7|0
+some|DT|BODY_13:BODY_1:BODY_3:BODY_4|0
+an extended local model|DT JJ JJ NN|BODY_6|0
+the expected local utility|DT VBN JJ NN|BODY_12|0
+a multi-linked negotiation problem|DT JJ NN NN|BODY_1|0
+order computer figure 2|NN NN NN CD|BODY_18|0
+partial order scheduling algorithms|JJ NN NN NNS|BODY_3|0
+the task order memory|DT NN NN NN|BODY_42:BODY_4|0
+the negotiation chain context|DT NN NN NN|BODY_5:BODY_7|0
+the model and procedures|DT NN CC NNS|BODY_6|0
+other directly related negotiations|JJ RB VBN NNS|BODY_16|0
+the local task structures|DT JJ NN NNS|BODY_2|0
+ui( < sblo 1|JJ JJ NN CD|BODY_18|0
+the latest finish time|DT JJS NN NN|BODY_3|0
+the following negotiation order|DT VBG NN NN|BODY_3|0
+the local optimization problem|DT JJ NN NN|BODY_6|0
+its own utility function|PRP$ JJ NN NN|BODY_2|0
+decommitment penalty rate p|NN NN NN NN|BODY_2|0
+the allocated time range|DT VBN NN NN|BODY_5|1
+three negotiation deadline policies|CD NN NN NNS|BODY_4|0
+complex task network [8]|JJ NN NN NN|BODY_3|0
+each individual agent|DT JJ NN|BODY_2:BODY_4:ABSTRACT_7:BODY_7|0
+the negotiation order hardware|DT NN NN NN|BODY_5|0
+â€ ¢ distribution center|JJ JJ NN NN|BODY_27|0
+aamas 07 ) e|NN CD -RRB- NN|BODY_4|0
+â€ ¢ store agent|JJ JJ NN NN|BODY_31|0
+those sub-contracted tasks )|DT JJ NNS -RRB-|BODY_10|0
+a sample local schedule|DT NN JJ NN|BODY_16:BODY_18|0
+the perfect local information|DT JJ JJ NN|BODY_6|0
+all related negotiations (2|DT JJ NNS NN|BODY_4|1
+negotiation v. î±(v )|NN CC NN -RRB-|BODY_5|0
+neither complete or accurate|DT JJ CC JJ|BODY_4|0
+the local optimal solution|DT JJ JJ NN|BODY_1|0
+a better negotiation solution|DT JJR NN NN|ABSTRACT_3|0
+two other related negotiations|CD JJ VBN NNS|BODY_10|0
+1 âˆ ’ pcij|CD FW FW NN|BODY_38|0
+28 ] and task|CD NN CC NN|BODY_4|0
+highest penalty ( 1|JJS NN -LRB- CD|BODY_2|1
+a large number clarge|DT JJ NN NN|BODY_3|0
+a long term viewpoint|DT JJ NN NN|BODY_3|0
+an efficient negotiation solution|DT JJ NN NN|BODY_3|0
+the global negotiation scenario|DT JJ NN NN|BODY_3|0
+a negotiation chain problem|DT NN NN NN|BODY_3|0
+every non-leaf negotiation v|DT JJ NN NNS|BODY_3|0
+the smaller value c|DT JJR NN NN|BODY_3|0
+these directly related negotiations|DT RB VBN NNS|BODY_17|0
+2 and 3 perform|CD CC CD VBP|BODY_3|0
+this particular negotiation request|DT JJ NN NN|BODY_8|0
+local schedule (time-related attributes|JJ NN JJ NNS|BODY_5|0
+1.0, c = 5|CD NN SYM CD|BODY_30|0
+a universal valid statement|DT JJ JJ NN|BODY_3|0
+the negotiation order computer|DT NN NN NN|BODY_3|0
+â€ ¢ pc manufacturer|JJ JJ NN NN|BODY_23|0
+the function ps(v )|DT NN NN -RRB-|BODY_3|0
+1.0, c = 2|CD NN SYM CD|BODY_26|0
+the total available time|DT NN JJ NN|BODY_10|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+negcount( order hardware )|JJ NN NN -RRB-|BODY_4|0
+the largest possible duration|DT JJS JJ NN|BODY_3|0
+a successful negotiation increases|DT JJ NN NNS|BODY_14|0
+an and-or tree )|DT NN NN -RRB-|BODY_4|0
+two purchase memory tasks|CD NN NN NNS|BODY_3|0
+an important research area|DT JJ NN NN|BODY_2|1
+the conoise project [5]|DT NN NN NN|BODY_9|0
+) âˆˆ e|-RRB- NN NN|BODY_2|0
+such negotiation order|JJ NN NN|BODY_2|0
+a more practical approach|DT RBR JJ NN|BODY_3|0
+all negotiations|DT NNS|BODY_5:BODY_3:BODY_8|0
+the task order chips|DT NN NN NNS|BODY_4|0
+its local multiple negotiations|PRP$ JJ JJ NNS|BODY_4|0
+the basic success probability|DT JJ NN NN|BODY_21|0
+the learning phase|DT NN NN|BODY_11:BODY_7:BODY_8|0
+the common negotiation subject|DT JJ NN NN|BODY_5|0
+more than two types|JJR IN CD NNS|BODY_29|0
+the other related negotiations|DT JJ JJ NNS|BODY_6|0
+that task order memory|DT NN NN NN|BODY_3|0
+the success probability increases|DT NN NN NNS|BODY_1|0
+a better local model|DT JJR JJ NN|BODY_5|0
+a combinatorial auction [2|DT JJ NN NNS|BODY_1|0
+1000 simulating time units|CD JJ NN NNS|BODY_5|0
+these mutual related activities|DT JJ JJ NNS|BODY_3|0
+every 10 time units|DT CD NN NNS|BODY_9|0
+the current environment setting|DT JJ NN NN|BODY_13|0
+computer|NN|BODY_12:BODY_6:BODY_5:BODY_3|0
+computational and communication resources|JJ CC NN NNS|BODY_4|0
+the meta-info flexibility policy|DT JJ NN NN|BODY_6|0
+all other related negotiations|DT JJ JJ NNS|BODY_7|0
+one additional time unit|CD JJ NN NN|BODY_1|0
+the negotiation duration î´(v|DT NN NN NN|BODY_1|0
+a good negotiation order|DT JJ NN NN|BODY_1|0
+the local negotiation process|DT JJ NN NN|BODY_10|0
+the relationship|DT NN|BODY_6:BODY_5:ABSTRACT_6:BODY_26:BODY_3|0
+the whole system [11]|DT JJ NN NN|BODY_7|0
+the same negotiation deadline|DT JJ NN NN|BODY_1|0
+probability ( ps(v) )|NN -LRB- NN -RRB-|BODY_1|0
+a negotiation chain situation|DT NN NN NN|BODY_1|0
+the decommitment penalty rate|DT NN NN NN|BODY_1|0
+multiple concurrent negotiation chains|JJ JJ NN NNS|BODY_17|0
+2 â† ’ 1|CD NN NN CD|BODY_7|0
+optimized expected utility eu(ï†|DT VBN NN NN|BODY_5|0
+the meta-level decision-making process|DT JJ JJ NN|BODY_4|0
+a negotiation outcome ï‡|DT NN NN NN|BODY_1|0
+a search algorithm [10]|DT NN NN NN|BODY_1|0
+the above experiment results|DT JJ NN NNS|BODY_1|0
+their local reasoning process|PRP$ JJ NN NN|BODY_7|0
+the appropriate negotiation solution|DT JJ NN NN|BODY_3|0
+two different flexibility policies|CD JJ NN NNS|BODY_2|0
+one single global goal|CD JJ JJ NN|BODY_7|0
+computer and order hardware|NN CC NN NN|BODY_10|0
+a more complicated negotiation|DT RBR JJ NN|BODY_1|0
+the conflict probabilities pcij|DT NN NNS NN|BODY_5|0
+the communication delay )|DT NN NN -RRB-|BODY_16|0
+the negotiation ordering ï†|DT NN VBG NNP|BODY_20|0
+the store agent negotiates|DT NN NN NNS|BODY_1|0
+the more additional negotiations|DT RBR JJ NNS|BODY_1|0
+these two important attributes|DT CD JJ NNS|BODY_1|1
+the pc manufacturer negotiates|DT NN NN NNS|BODY_1|0
+pc manufacturer|NN NN|BODY_11:BODY_18:BODY_7|0
+ii|NNS|BODY_23:BODY_26:BODY_1:BODY_7|0
+this paper|DT NN|BODY_2:BODY_1|1
+multi-linked negotiation problem|JJ NN NN|BODY_15:BODY_1:BODY_7|0
+the negotiation chain|DT NN NN|BODY_3:BODY_4|0
+this distributed approach|DT VBN NN|BODY_2:BODY_8|0
+basic neg cycle|JJ NN NN|BODY_16:BODY_14|0
+î´(v )|NN -RRB-|BODY_6:BODY_3:BODY_7|0
+this|DT|BODY_15:BODY_1|1
+meta-level coordination|JJ NN|BODY_13:TITLE_1:BODY_2:BODY_8|0
+a duration|DT NN|BODY_6:BODY_14:BODY_3|0
+slo 2|NN CD|BODY_5:BODY_16:BODY_9|0
+a single agent |DT JJ NN|BODY_3:BODY_4|0
+a single agent|DT JJ NN|BODY_6:BODY_7|2
+the same-deadline policy|DT JJ NN|BODY_5:BODY_2|0
+the values|DT NNS|BODY_2:BODY_1:BODY_9|0
+work and section|NN CC NN|BODY_2|1
+the global context|DT JJ NN|BODY_2|0
+the local model|DT JJ NN|BODY_3|0
+this prenegotiation mechanism|DT NN NN|BODY_2|0
+additional negotiation|JJ NN|BODY_6:BODY_5:BODY_2:BODY_7|0
+the same|DT JJ|BODY_11:BODY_5:BODY_4|0
+each task|DT NN|BODY_2:BODY_8|0
+the start time|DT VBP NN|BODY_4|0
+( negotiation deadline|-LRB- NN NN|BODY_2|0
+this function|DT NN|BODY_11:BODY_2:BODY_1|0
+new tasks|JJ NNS|BODY_5:BODY_1:BODY_4|0
+a mapping function|DT NN NN|BODY_2|0
+the efficient negotiation|DT JJ NN|BODY_8|1
+task purchase computer|NN NN NN|BODY_2:BODY_3|0
+dl|NN|BODY_12:BODY_6:BODY_24|1

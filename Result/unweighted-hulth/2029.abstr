@@ -1,0 +1,32 @@
+a successful image compression technique|DT JJ NN NN NN|BODY_3|0
+all|DT|BODY_3|0
+btc )|NN -RRB-|BODY_2|0
+btc coding|JJ NN|BODY_3|0
+overheads|NNS|BODY_2|0
+the proposed method|DT VBN NN|BODY_2|0
+( ambtc )|-LRB- NN -RRB-|BODY_8|0
+1.0 bits/pixel|CD NN|BODY_2|0
+2.0 bits/pixel|CD NN|BODY_2|0
+vector quantization ( vq ) , wavelet|NN NN -LRB- NN -RRB- , NN|BODY_8|0
+it|PRP|BODY_4|0
+other compression schemes|JJ NN NNS|BODY_6|0
+terms|NNS|BODY_4|0
+the same decoded quality|DT JJ JJ NN|BODY_6|0
+absolute moment|JJ NN|BODY_7|0
+discrete cosine|JJ NN|BODY_7|0
+we|PRP|BODY_3|0
+whose performance|WP$ NN|BODY_3|0
+0.734 bits/pixel|CD NN|BODY_5|0
+compression ratio|NN NN|BODY_5|0
+a new technique|DT JJ NN|BODY_1|0
+the bit plane overhead|DT NN NN NN|BODY_2|0
+bit plane and quantization values|NN NN CC NN NNS|BODY_4|0
+block truncation image bit plane coding block truncation coding|NN NN NN NN NN NN NN NN NN|BODY_1|0
+its simple and fast computational burden|PRP$ NN CC JJ JJ NN|BODY_4|0
+other published bit plane coding strategies|JJ VBN NN NN NN NNS|BODY_1|0
+the existing methods|DT VBG NNS|BODY_4|0
+two kinds|CD NNS|BODY_1|0
+( wtc ) , etc|-LRB- NN -RRB- , FW|BODY_9|0
+conventional bit plane overhead|JJ NN NN NN|BODY_1|0
+the  lena  image|DT NN NN NN NN|BODY_9|0
+the bit rate|DT NN NN|BODY_1|0

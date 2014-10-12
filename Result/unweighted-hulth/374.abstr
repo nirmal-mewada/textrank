@@ -1,0 +1,21 @@
+the accelerations|DT NNS|BODY_2|0
+a sufficient condition|DT JJ NN|BODY_2|0
+ground speed changes|NN NN NNS|BODY_4|0
+the proposed algorithm|DT VBN NN|BODY_2|0
+the sequence|DT NN|BODY_4|0
+a vehicle|DT NN|BODY_3|0
+the stability|DT NN|BODY_3|0
+line segments|NN NNS|BODY_5|0
+optimal control|JJ NN|BODY_2|0
+a horizontal waypoint guidance algorithm|DT JJ NN NN NN|BODY_3|0
+line-following guidance|JJ NN|BODY_4|0
+an lqr ( linear quadratic regulator )|DT NN -LRB- NN JJ NN -RRB-|BODY_2|0
+the line-following guidance|DT JJ NN|BODY_1|0
+the optimal waypoint changing points|DT JJ NN VBG NNS|BODY_1|0
+the waypoint line segments|DT NN NN NNS|BODY_3|0
+is|VBZ|BODY_1|0
+simulation results|NN NNS|BODY_1|0
+the lyapunov stability theorem|DT NN NN NN|BODY_5|0
+waypoint line segments|JJ NN NNS|BODY_5|0
+horizontal waypoint guidance design|JJ NN NN NN|BODY_1|0
+sequence|NN|BODY_6|0

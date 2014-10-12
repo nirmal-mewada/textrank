@@ -1,0 +1,1551 @@
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|0
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_6:BODY_5:BODY_16:BODY_15:BODY_2:BODY_3:BODY_10:BODY_4:ABSTRACT_7:BODY_7:BODY_8|0
+this|DT|BODY_5:BODY_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_11:BODY_5:BODY_15:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+the surface|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:ABSTRACT_9:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+nodes|NNS|BODY_6:BODY_5:BODY_11:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a surface|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_7|0
+the mesh|DT NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+they|PRP|BODY_6:BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+terms|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+e|NN|BODY_11:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_19:BODY_4:BODY_7|0
+surfaces|NNS|BODY_6:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7|0
+each|DT|BODY_6:BODY_5:BODY_2:BODY_25:BODY_1:BODY_3:BODY_4:BODY_7|0
+points|NNS|BODY_12:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_8|0
+them|PRP|BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_8|0
+respect|NN|BODY_6:BODY_5:BODY_11:BODY_3:BODY_4:BODY_8|0
+sample points|NN NNS|BODY_5:ABSTRACT_6:BODY_13:BODY_10:BODY_4:BODY_8|0
+)|-RRB-|BODY_6:BODY_5:BODY_16:BODY_3:BODY_10:BODY_7|0
+us|PRP|BODY_2:BODY_3:BODY_4:BODY_8|0
+the neighborhood|DT NN|BODY_15:BODY_3:BODY_4:BODY_9|0
+q e|JJ NN|BODY_5:BODY_15:BODY_1:BODY_2:BODY_3|0
+this approach|DT NN|BODY_2:BODY_1:BODY_4|0
+curves|NNS|BODY_6:BODY_5:BODY_1:ABSTRACT_3:BODY_3:BODY_19|0
+part|NN|BODY_6:BODY_11:BODY_2:BODY_7|0
+the node|DT NN|BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+the nodes|DT NNS|BODY_5:BODY_2:BODY_7|0
+s|PRP|BODY_5:BODY_15:BODY_3:BODY_4:BODY_8|0
+our approach|PRP$ NN|BODY_5:BODY_1:BODY_2:BODY_4|0
+a|DT|BODY_5:BODY_2:BODY_10:BODY_8:BODY_9|0
+the shape|DT NN|BODY_5:BODY_2:BODY_4|0
+(|-LRB-|BODY_3:BODY_4:BODY_8|0
+edges|NNS|BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+samples|NNS|BODY_2:BODY_9|0
+one|CD|BODY_5:BODY_2|0
+each other|DT JJ|BODY_6:BODY_14:BODY_4:BODY_7|0
+our modeler|PRP$ NN|BODY_1:BODY_2:BODY_3|0
+an approach|DT NN|BODY_6:ABSTRACT_2:BODY_3:BODY_4|0
+the triangulation|DT NN|BODY_5:BODY_13:BODY_2:BODY_1:BODY_3|0
+the basis functions|DT NN NNS|BODY_12:BODY_3:BODY_4|0
+neighbors|NNS|BODY_3:BODY_4:BODY_8:BODY_9|0
+this work|DT NN|BODY_1:BODY_2:BODY_3|0
+3d|NN|BODY_6:BODY_5:BODY_2|0
+itself|PRP|BODY_12:BODY_2:BODY_3|0
+a curve|DT NN|BODY_11:BODY_2:BODY_3|0
+h|NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+a neighborhood|DT NN|BODY_6:BODY_2:BODY_3:BODY_9|0
+v )|FW -RRB-|BODY_3:BODY_7|0
+a mesh|DT NN|BODY_13:BODY_3:BODY_4|0
+a designer|DT NN|BODY_1:BODY_2|0
+the positions|DT NNS|BODY_6:BODY_2:BODY_3|0
+tion|NN|BODY_5:BODY_2:BODY_8|0
+this paper|DT NN|BODY_11:BODY_2|0
+e.g.|FW|BODY_6:BODY_3:BODY_4|0
+the boundary|DT NN|BODY_2:BODY_4:BODY_10:BODY_9|0
+the ability|DT NN|BODY_6:BODY_2:BODY_7|0
+a hole|DT NN|BODY_1:BODY_2:BODY_4|0
+the user|DT NN|BODY_2:BODY_4|0
+the solution|DT NN|BODY_5:BODY_8:BODY_9|0
+character lines|NN NNS|BODY_3:BODY_4|0
+such shapes|JJ NNS|BODY_1:BODY_3|0
+our system|PRP$ NN|BODY_1:BODY_2:BODY_3|0
+arc-length|NN|BODY_12:BODY_5:BODY_2:BODY_4|0
+the parameterization|DT NN|BODY_6:BODY_4:BODY_9|0
+a sequence|DT NN|BODY_3:BODY_4:BODY_7|0
+the topology|DT NN|BODY_6:BODY_2:BODY_3|0
+the tool|DT NN|BODY_1:BODY_3:BODY_7:BODY_9|0
+a triangulated surface|DT VBN NN|BODY_3:BODY_4:BODY_9|0
+disc|NN|BODY_3:BODY_4|0
+the point|DT NN|BODY_2:BODY_3|0
+basis functions|NN NNS|BODY_12:BODY_3:BODY_4|0
+a collection|DT NN|BODY_3:BODY_4|0
+the node positions|DT NN NNS|BODY_5:BODY_3|0
+surface derivatives|NN NNS|BODY_4:BODY_7|0
+some|DT|BODY_5:BODY_1|0
+shape artifacts|NN NNS|BODY_3:BODY_8|0
+the gap|DT NN|ABSTRACT_3:BODY_3|0
+a point|DT NN|BODY_3:BODY_7|0
+fair free-form shapes|JJ JJ NNS|BODY_5:BODY_4|0
+a series|DT NN|BODY_3|0
+point constraints|NN NNS|BODY_3:BODY_4|0
+the planar|DT NN|BODY_10:BODY_4|0
+the work|DT NN|BODY_2:BODY_3|0
+the curve|DT NN|BODY_3|0
+these schemes|DT NNS|BODY_1:BODY_2:BODY_10|0
+tools|NNS|BODY_3:BODY_8|0
+the shapes|DT NNS|BODY_1:BODY_3:BODY_8|0
+regions|NNS|BODY_6:BODY_5|0
+a problem|DT NN|BODY_2:BODY_10|0
+the local surface function|DT JJ NN NN|BODY_4:BODY_19|0
+the problem|DT NN|BODY_2:BODY_3|0
+free-form shapes|JJ NNS|BODY_3:BODY_4|0
+the region|DT NN|BODY_6:BODY_7|0
+a node|DT NN|BODY_2:BODY_3|0
+a smooth surface|DT JJ NN|BODY_6:BODY_2:BODY_9|0
+turn|NN|BODY_2:BODY_4|0
+a number|DT NN|BODY_3|0
+topol- ogy|DT NN|BODY_5:BODY_11|0
+surface|NN|BODY_6:BODY_4|0
+re-triangulation|NN|BODY_5:ABSTRACT_3|0
+is|VBZ|BODY_17:BODY_2|0
+curvature|NN|BODY_2:BODY_14|0
+a surface model|DT NN NN|BODY_6:BODY_3|0
+the requirement|DT NN|BODY_15:BODY_7|0
+ways|NNS|BODY_4:BODY_7|0
+the triangulation (|DT NN -LRB-|BODY_3|0
+practice|NN|BODY_6:BODY_1:BODY_3|0
+4|CD|BODY_1|0
+each node|DT NN|BODY_4|0
+a generalization|DT NN|BODY_2:BODY_3|0
+graceful shapes|JJ NNS|ABSTRACT_6:BODY_16|0
+the other|DT JJ|BODY_4:BODY_8|0
+each point|DT NN|BODY_3:BODY_9|0
+control|NN|ABSTRACT_2:BODY_4|0
+a pair|DT NN|BODY_11:BODY_3|0
+an illusion|DT NN|BODY_3|0
+each time|DT NN|BODY_2:BODY_4|0
+a surface triangulation|DT NN NN|BODY_2:BODY_1:BODY_3|0
+two surfaces|CD NNS|BODY_2:BODY_9|0
+the condition number|DT NN NN|BODY_2:BODY_1|0
+the tool surface|DT NN NN|BODY_6:BODY_2|0
+the particles|DT NNS|BODY_6:BODY_2|0
+' )|POS -RRB-|BODY_6:BODY_8|0
+the minimum angle|DT JJ NN|BODY_2:BODY_7|0
+parameterized shapes|JJ NNS|BODY_6:BODY_4|0
+splitting|NN|BODY_6:BODY_13|0
+1|CD|BODY_3|0
+the coarseness|DT NN|BODY_1:BODY_3|0
+a neighbor- hood|DT RB NN|BODY_3|0
+an initial fit|DT JJ NN|BODY_3|0
+fair the piecewise smooth patches|JJ DT NN JJ NNS|BODY_3|0
+good neighborhood shapes|JJ NN NNS|BODY_3|0
+moves|NNS|BODY_3|0
+nothing|NN|BODY_3|0
+sensibly  means samples|RB IN NNS NNS|BODY_2|0
+situations|NNS|BODY_2|0
+sufficient degree )|JJ NN -RRB-|BODY_2|0
+the blend region|DT NN NN|BODY_2|0
+the linearized thin plate functional[30]|DT JJ JJ NN NNS|BODY_2|0
+the sample distribution scheme|DT NN NN NN|BODY_2|0
+the tightness|DT NN|BODY_3|0
+two approximate surfaces intersect|CD JJ NNS NN|BODY_2|0
+addition|NN|BODY_1|0
+surface nodes|NN NNS|BODY_6:BODY_2|0
+an embedded curve|DT JJ NN|BODY_2:BODY_7|0
+laplace|NN|BODY_2:BODY_8|0
+a different usage common|DT JJ NN JJ|BODY_2|0
+direct geometric constructions[21]|JJ JJ NN|BODY_2|0
+offset cylinder tools|VBN NN NNS|BODY_2|0
+the resolution|DT NN|BODY_2|0
+shapes|NNS|BODY_2:BODY_4|0
+variational surfaces|JJ NNS|BODY_3:BODY_4|0
+an arc-length parameterization|DT NN NN|BODY_5:BODY_4|0
+proximity|NN|BODY_6|0
+such a way|JJ DT NN|BODY_5|0
+operations|NNS|BODY_5:BODY_4|0
+boundaries|NNS|BODY_2:BODY_4|0
+what|WP|BODY_1:BODY_2|0
+the fit|DT NN|BODY_1:BODY_7|0
+the understanding|DT NN|BODY_3:BODY_9|0
+'s equation|POS NN|BODY_3:BODY_9|0
+something|NN|BODY_1:BODY_9|0
+a truncated taylor series expansion|DT JJ NN NN NN|BODY_6:BODY_5|0
+shape and topology|NN CC NN|BODY_5:BODY_19|0
+the curvature|DT NN|BODY_6:BODY_5|0
+smooth triangular patches|JJ JJ NNS|BODY_5:BODY_10|0
+the freedom|DT NN|BODY_6:ABSTRACT_8|0
+the check queue|DT NN NN|BODY_1:BODY_3|0
+u|PRP|BODY_5:BODY_9|0
+scattered points|JJ NNS|BODY_5:BODY_8|0
+the geodesic polar parameterization|DT JJ JJ NN|BODY_6:BODY_8|0
+either side|DT NN|BODY_18:BODY_4|0
+6 )|CD -RRB-|BODY_9:BODY_20|0
+this formulation|DT NN|BODY_2|0
+a convenient form|DT JJ NN|BODY_3|0
+nodes ( note|NNS -LRB- NN|BODY_5|0
+our implementation|PRP$ NN|BODY_3|0
+these fixed samples|DT VBN NNS|BODY_5|0
+the cylinder|DT NN|BODY_5:BODY_2|0
+a fair amount|DT JJ NN|BODY_2|0
+spite|NN|BODY_5|0
+a set|DT NN|BODY_3:BODY_4|0
+the neighborhood center|DT NN NN|BODY_4:BODY_10|0
+computational machinery|JJ NN|BODY_3|0
+variational shape approximations|JJ NN NNS|BODY_4|0
+our scheme|PRP$ NN|BODY_5:BODY_1|0
+triangulated surfaces|VBN NNS|BODY_6:BODY_5:TITLE_2|0
+all interior edges|DT NN NNS|BODY_12:BODY_2|0
+a torus|DT NN|BODY_5:BODY_2|0
+controllable free-form surfaces|JJ JJ NNS|ABSTRACT_4:BODY_8|0
+'s tangent plane|POS JJ NN|BODY_4:BODY_8|0
+a scheme|DT NN|BODY_1:BODY_4|0
+large-scale changes|JJ NNS|BODY_18:BODY_4|0
+the exterior edge connections|DT JJ NN NNS|BODY_3|0
+topological design|JJ NN|BODY_2|0
+0 yields|CD NNS|BODY_13|0
+inc.|NN|BODY_15|0
+many helpful comments|JJ JJ NNS|BODY_3|0
+the mathematics and algorithms|DT NNS CC NNS|BODY_11|0
+zoran popovi-c|JJ NN|BODY_8|0
+many computations|JJ NNS|BODY_3|0
+an edge-flip|DT NN|BODY_10|0
+z|FW|BODY_8|0
+figure 1|NN CD|BODY_1:BODY_4|0
+example|NN|BODY_1|0
+small distances and neighborhoods|JJ NNS CC NNS|BODY_4|0
+( 11 )|-LRB- CD -RRB-|BODY_2|0
+5|CD|BODY_2|0
+the anchors|DT NNS|BODY_6|0
+the b j|DT NN NN|BODY_6|0
+an equipment grant|DT NN NN|BODY_16|0
+approximations|NNS|BODY_12|0
+the siggraph reviewers|DT NN NNS|BODY_2|0
+the vector|DT NN|BODY_14|0
+their help|PRP$ NN|BODY_9|0
+h ( and sub-matrices|NN -LRB- CC NNS|BODY_5|0
+et al|NNP NN|BODY_2|0
+edge col- lapse|NN NNS NN|BODY_10|0
+these operations|DT NNS|BODY_2|0
+surface regions|NN NNS|BODY_2|0
+the method|DT NN|BODY_12|0
+this definition|DT NN|BODY_2|0
+such unstructured meshes|JJ JJ NNS|BODY_2|0
+a good approximation|DT JJ NN|BODY_8|0
+the shape optimization|DT NN NN|BODY_4|0
+da|NN|BODY_9|0
+suitable repositioning|JJ NN|BODY_11|0
+'s work|POS NN|BODY_3|0
+( this|-LRB- DT|BODY_4|0
+another closed curve|DT JJ NN|BODY_2|0
+the fairing computation|DT NN NN|BODY_2|0
+adaptive refinement|JJ NN|BODY_3|0
+iterations|NNS|BODY_8|0
+a list|DT NN|BODY_13:BODY_10|0
+shape control|NN NN|BODY_2|0
+skeletons|NNS|BODY_5|0
+sample point positions|NN NN NNS|BODY_2|0
+algorithm find-interior-edges|NN NNS|BODY_3|0
+the hair|DT NN|BODY_14|0
+each sample point|DT NN NN|BODY_7|0
+the fundamental goals|DT JJ NNS|BODY_2|0
+reference|NN|BODY_3|0
+a particle system|DT NN NN|BODY_6|0
+trimming|VBG|BODY_2|0
+its neighbors|PRP$ NNS|BODY_6:BODY_3|0
+re-triangulating|NN|BODY_7|0
+the advantage|DT NN|BODY_3|0
+the designer|DT NN|BODY_6:BODY_5:BODY_1|0
+the surface topology|DT NN NN|BODY_3|0
+the surface dt|DT NN NN|BODY_3|0
+edge-by- edge|RB NN|BODY_2|0
+the outside edges|DT JJ NNS|BODY_5|0
+this behavior|DT NN|BODY_11|0
+800 nodes|CD NNS|BODY_6:BODY_5|0
+edge split|NN NN|BODY_9|0
+the sampling and tracking|DT NN CC NN|BODY_3|0
+figure|NN|BODY_7|0
+our surface fairing|PRP$ NN NN|BODY_13|0
+two independent surfaces|CD JJ NNS|BODY_8|0
+the implementation|DT NN|BODY_3|0
+the implicitly defined variational 1 surface|DT RB VBN JJ CD NN|BODY_5|0
+the objective|DT NN|BODY_2|0
+linear functions|JJ NNS|BODY_9|0
+these assumptions|DT NNS|BODY_5|0
+the minimization|DT NN|BODY_1:BODY_9|0
+the three control curves|DT CD NN NNS|BODY_3|0
+a quality mesh|DT NN NN|BODY_5|0
+fair surfaces|JJ NNS|BODY_4|0
+a good survey|DT JJ NN|BODY_5|0
+a way|DT NN|BODY_3|0
+functional minimization|JJ NN|BODY_5:BODY_4|0
+a matrix|DT NN|BODY_7|0
+control curves|NN NNS|BODY_6:BODY_2|0
+directional derivatives|JJ NNS|BODY_2:BODY_1|0
+approximate faired surfaces|JJ JJ NNS|BODY_13|0
+a new node|DT JJ NN|BODY_2|0
+moreton|CD|BODY_2|0
+things|NNS|BODY_8|0
+the strain energy|DT NN NN|BODY_5|0
+these parameterizations|DT NNS|BODY_2|0
+minimizes|NNS|BODY_2|0
+parametric coordinates|JJ NNS|BODY_4|0
+just enough structure|RB JJ NN|BODY_5|0
+control knobs|NN NNS|BODY_4|0
+'s tangent plane and measure|POS JJ NN CC NN|BODY_8|0
+a ball|DT NN|BODY_15|0
+time|NN|BODY_6|0
+10-20 )|CD -RRB-|BODY_9|0
+interactive speeds|NN NNS|BODY_5:BODY_4|0
+a mixture|DT NN|BODY_5|0
+the surface curve|DT NN NN|BODY_6:BODY_1|0
+a single minimization|DT JJ NN|BODY_6:BODY_10|0
+controlled ways|JJ NNS|BODY_6:BODY_8|0
+the question|DT NN|BODY_6|0
+computer-aided free-form shape design|JJ JJ NN NN|BODY_3|0
+a variational formulation|DT JJ NN|BODY_5|0
+one boundary copy|CD NN NN|BODY_2|0
+this section|DT NN|BODY_1:BODY_4:BODY_8|0
+boundary edges|NN NNS|BODY_5:BODY_10|0
+models|NNS|BODY_2|0
+the upper curve|DT JJ NN|BODY_2|0
+the algorithm|DT NN|BODY_4|0
+constrained functional minimization problems|JJ JJ NN NNS|BODY_3|0
+a branding iron |DT NN NN|BODY_3|0
+a neighborhood projection|DT NN NN|BODY_2|0
+'s inherent sparsity|POS JJ NN|BODY_6|0
+the approximate curve|DT JJ NN|BODY_4|0
+this matrix-vector product|DT NN NN|BODY_4|0
+sederberg|NN|BODY_2|0
+thanks|NNS|BODY_6|0
+this paper (|DT NN -LRB-|BODY_5|0
+'s scheme [31]|POS NN NN|BODY_3|0
+9217091|CD|BODY_13|0
+mesh smoothing|NN NN|ABSTRACT_2|0
+the oriented particle system|DT JJ NN NN|BODY_7|0
+sections|NNS|BODY_9|0
+the topology and approximate shape|DT NN CC JJ NN|BODY_2|0
+the shifting|DT VBG|BODY_11|0
+configurations|NNS|BODY_11:BODY_2|0
+neighborhoods|NNS|BODY_5:BODY_8|0
+sculpting|NN|BODY_6|0
+1 column vector|CD NN NN|BODY_11|0
+the surface ( e .g.|DT NN -LRB- NN NN|BODY_5|0
+smooth surface surgery|JJ NN NN|BODY_4|0
+shape design optimization|NN NN NN|BODY_2|0
+a faired region|DT JJ NN|BODY_4|0
+note|NN|BODY_1|0
+hans|NNS|BODY_7|0
+the early draft|DT JJ NN|BODY_4|0
+the list|DT NN|BODY_4|0
+figures|NNS|BODY_5|0
+the origin|DT NN|BODY_12|0
+a particularly simple form|DT RB JJ NN|BODY_4:BODY_8|0
+surface composition|NN NN|BODY_2|0
+apple computer|NN NN|BODY_14|0
+3-5 )|CD -RRB-|BODY_10|0
+vector products|NN NNS|BODY_4|0
+a smaller minimum angle|DT JJR JJ NN|BODY_4|0
+the final frame|DT JJ NN|BODY_6|0
+tubular structures|JJ NNS|BODY_4|0
+a surface s(u|DT NN NN|BODY_2|0
+the reconstructed surface positions s(u|DT JJ NN NNS NN|BODY_2|0
+this independent curve|DT JJ NN|BODY_8|0
+v|FW|BODY_10|0
+( equivalent|-LRB- NN|BODY_8|0
+surface features|NN NNS|BODY_1:ABSTRACT_7|0
+some auxiliary norm|DT JJ NN|BODY_4|0
+the implicit surface tools|DT JJ NN NNS|BODY_2|0
+some subset|DT NN|BODY_4|0
+a closed curve|DT JJ NN|BODY_1|0
+a disc|DT NN|BODY_2|0
+a klein|DT NN|BODY_2|0
+a queue|DT NN|BODY_2|0
+all non-source edges|DT JJ NNS|BODY_1|0
+all surface meshes|DT NN NNS|BODY_1|0
+an ( initially empty ) check queue|DT -LRB- RB JJ -RRB- NN NN|BODY_2|0
+edge e seed|NN NN NN|BODY_1|0
+figure 7|NN CD|BODY_1|0
+gouraud-shaded triangular facets|JJ NN NNS|BODY_2|0
+real time|JJ NN|ABSTRACT_2|0
+the assumptions|DT NNS|BODY_2|0
+the cdt|DT NN|BODY_2|0
+the queue|DT NN|BODY_1|0
+the resulting surface triangulations|DT VBG NN NNS|ABSTRACT_1|0
+these methods|DT NNS|BODY_1|0
+surface neighborhood parameterization|NN NN NN|BODY_2|0
+the p i|DT NN NN|BODY_12|0
+a planar fit (|DT JJ NN -LRB-|BODY_2|0
+correspondence|NN|BODY_3:BODY_9|0
+temporary source edges|JJ NN NNS|BODY_3|0
+freezing independent vari- ables|JJ JJ NNS NNS|BODY_2|0
+a least-squares|DT NNS|BODY_10|0
+the columns|DT NNS|BODY_9|0
+the squared principal curvatures|DT VBN NN NNS|BODY_6|0
+the n 2 3 matrix|DT NN CD CD NN|BODY_11|0
+hoppe|NN|BODY_4|0
+z and p|NN CC NN|BODY_10|0
+the composition|DT NN|BODY_3|0
+mesh transformation operators|JJ NN NNS|BODY_8|0
+the underdetermined case|DT JJ NN|BODY_5|0
+these rows|DT NNS|BODY_6|0
+the same set|DT JJ NN|BODY_2|0
+nature|NN|BODY_12|0
+e test|NN NN|BODY_2|0
+a handle|DT NN|BODY_2|0
+the national science foundation|DT JJ NN NN|BODY_11|0
+a version|DT NN|BODY_1:BODY_3|0
+the generalization|DT NN|BODY_4|0
+two approximate surfaces|CD JJ NNS|BODY_5|0
+a geodesically distant location|DT RB JJ NN|BODY_10|0
+such derivatives|JJ NNS|BODY_8|0
+the sum|DT NN|BODY_3|0
+sufficient machinery|JJ NN|BODY_12|0
+such a discontinuity|JJ DT NN|BODY_7|0
+t|NN|BODY_6|0
+approximate these smooth variational surfaces|JJ DT JJ JJ NNS|ABSTRACT_2|0
+a smooth surface[25]|DT JJ NN|BODY_7|0
+an edge-split|DT NN|BODY_9|0
+coordinates|NNS|BODY_14:BODY_9|0
+a separate planar domain|DT JJ NN NN|BODY_4|0
+characterization|NN|BODY_3|0
+a single toroidal surface|DT JJ JJ NN|BODY_2|0
+fairing and delaunay triangulation|NN CC NN NN|BODY_7|0
+s-equin[22]|JJ|BODY_3|0
+the middle|DT NN|BODY_3|0
+the explicit surface|DT JJ NN|BODY_2|0
+the s(u|DT VBN|BODY_9|0
+an r 2 repulsion/attraction scheme|DT NN CD NN NN|BODY_6|0
+these points|DT NNS|BODY_6:BODY_11:BODY_1|0
+un- refining|NNP NN|BODY_6|0
+#|#|BODY_12|0
+this fit|DT NN|BODY_2|0
+the new node position|DT JJ NN NN|BODY_5|0
+'s x|POS SYM|BODY_13|0
+its relationship|PRP$ NN|BODY_4|0
+the surface shape changes|DT NN NN NNS|BODY_3|0
+a chord-length approximation|DT NN NN|BODY_1:BODY_2|0
+any additional effort|DT JJ NN|BODY_7|0
+adaptive sample distribution|JJ NN NN|BODY_4|0
+the bulk|DT NN|BODY_7|0
+subject|NN|BODY_3|0
+the fact|DT NN|BODY_4|0
+free-standing boundary or character lines|JJ NN CC NN NNS|BODY_6|0
+the paper|DT NN|BODY_8|0
+a monolithic matrix|DT JJ NN|BODY_3|0
+recall|VBP|BODY_2:BODY_1|0
+the empty circumcircle|DT JJ NN|BODY_2|0
+computational mesh generation[36,37]|JJ NN NN|BODY_4|0
+the surface unit|DT NN NN|BODY_8|0
+local shape-copying|JJ NN|BODY_12|0
+a caveat|DT NN|BODY_3|0
+some regions and functional minimization|DT NNS CC JJ NN|BODY_2|0
+the|DT|BODY_7|0
+convenient ways|JJ NNS|BODY_4|0
+boundary or infield nodes|NN CC NN NNS|BODY_3|0
+( r|-LRB- NN|BODY_5|0
+the position|DT NN|BODY_2|0
+an approximate solution|DT JJ NN|BODY_7|0
+a surface control curve|DT NN NN NN|BODY_2|0
+any other surface triangulation|DT JJ NN NN|BODY_2|0
+wide ranges|JJ NNS|BODY_8|0
+a variational surface|DT JJ NN|BODY_3|0
+the vector sum|DT NN NN|BODY_8|0
+the designated nodes|DT VBN NNS|BODY_5|0
+their associated nodes|PRP$ JJ NNS|BODY_4|0
+3d)|NN|BODY_4|0
+generalized cylinders|JJ NNS|BODY_10|0
+surface models|NN NNS|BODY_8|0
+the modeler|DT NN|BODY_5:BODY_8|0
+'s contribution|POS NN|BODY_4|0
+each ).the remaining coefficients|DT CD VBG NNS|BODY_8|0
+the handle|DT NN|BODY_2|0
+space|NN|BODY_6|0
+the mesh density and connectivity|DT NN NN CC NN|BODY_2|0
+figure 4 )|NN CD -RRB-|BODY_4|0
+the centroid|DT NN|BODY_7|0
+passive surface intersection|JJ NN NN|BODY_4|0
+this shifted , center-constrained system|DT VBN , JJ NN|BODY_2|0
+angles|NNS|BODY_3|0
+an edge e seed|DT NN NN NN|BODY_4|0
+r and partitioning h|NN CC NN NN|BODY_2|0
+the resulting shapes|DT VBG NNS|BODY_2|0
+whose definition|WP$ NN|BODY_3|0
+1500 nodes|CD NNS|BODY_7|0
+interactivity|NN|BODY_2|0
+shape control tools|NN NN NNS|BODY_3|0
+this way|DT NN|BODY_4|0
+an edge-splitting refinement|DT JJ NN|BODY_3|0
+'s|POS|BODY_3|0
+any other|DT JJ|BODY_9|0
+other representation|JJ NN|BODY_4|0
+this gradient|DT NN|BODY_6|0
+the application|DT NN|BODY_7|0
+the hub|DT NN|BODY_8|0
+these shape control tools|DT NN NN NNS|BODY_5|0
+sculpting operations|VBG NNS|BODY_6:BODY_9|0
+an exhaustive set|DT JJ NN|BODY_5|0
+length parameterization|NN NN|BODY_2|0
+the derivatives|DT NNS|BODY_2|0
+curves and surfaces|NNS CC NNS|BODY_3|0
+locally reconstructed neighborhoods[17]|RB VBN NNS|BODY_5|0
+patches|NNS|BODY_9|0
+carnegie mellon university|NN NN NN|BODY_5|0
+( 8 ) n|-LRB- CD -RRB- NN|BODY_7|0
+no dihedral angle|DT JJ NN|BODY_9|0
+pwl curve approximations|JJ NN NNS|BODY_2|0
+the merged surface|DT JJ NN|BODY_6|0
+the next section|DT JJ NN|BODY_2|0
+any surface triangulation|DT NN NN|BODY_8|0
+a more highly refined point-sampled surface|DT RBR RB JJ JJ NN|BODY_10|0
+the resulting global error minimization|DT VBG JJ NN NN|BODY_6|0
+the theory|DT NN|BODY_2|0
+important considerations|JJ NNS|BODY_2|0
+algorithm restore-cdt[2]|NN NN|BODY_12|0
+the matrix norms|DT NN NNS|BODY_4|0
+a computer|DT NN|BODY_4|0
+one node|CD NN|BODY_7|0
+'s interior|POS NN|BODY_8|0
+such points|JJ NNS|BODY_2|0
+more complex faired surface models|RBR JJ JJ NN NNS|BODY_11|0
+each tangent direction (|DT JJ NN -LRB-|BODY_7|0
+sampling|NN|BODY_2|0
+there (|RB -LRB-|BODY_7|0
+an initial triangulation|DT JJ NN|BODY_11|0
+a constrained delaunay trian- gulation|DT JJ NN NNS NN|BODY_4|0
+a measure|DT NN|BODY_9|0
+these ideas|DT NNS|BODY_2|0
+a given surface point|DT VBN NN NN|BODY_2|0
+the matrix|DT NN|BODY_3|0
+splitting operations|JJ NNS|BODY_6|0
+such intersection curves|JJ NN NNS|BODY_5|0
+a computational field[12]|DT JJ NN|BODY_3|0
+a projection scheme|DT NN NN|BODY_3|0
+a triangulated surface mesh|DT VBN NN NN|BODY_3|0
+a triangulation|DT NN|BODY_4|0
+arc-length parameterizations|NN NNS|BODY_8|0
+differential topology|JJ NN|BODY_3|0
+the geometric curve|DT JJ NN|BODY_6|0
+this machinery|DT NN|BODY_3|0
+this modeling approach|DT JJ NN|BODY_3|0
+no means fail-safe ) procedure|DT NN NN -RRB- NN|BODY_2|0
+each neighborhood|DT NN|BODY_3|0
+a useful class|DT JJ NN|BODY_3|0
+topological information|JJ NN|BODY_3|0
+the opposide wall|DT NN NN|BODY_3|0
+the direction|DT NN|BODY_4|0
+a closed infield curve|DT JJ NN NN|BODY_2|0
+c 1|NN CD|BODY_2|0
+its boundary|PRP$ NN|BODY_3|0
+an inverse power|DT JJ NN|BODY_15|0
+a straightforward task|DT JJ NN|BODY_5:BODY_4|0
+the patch-based and particle-based approaches|DT JJ CC JJ NNS|BODY_4|0
+a basic computational substrate|DT JJ JJ NN|BODY_4|0
+a limitation|DT NN|BODY_2|0
+a well-known result|DT JJ NN|BODY_2|0
+finite difference stencils|JJ NN NNS|BODY_2|0
+neighborhood parameterizations|NN NNS|BODY_2|0
+objective z|JJ FW|BODY_7|0
+our local reconstructions|PRP$ JJ NNS|BODY_9|0
+the points|DT NNS|BODY_5|0
+this optimization|DT NN|BODY_2|0
+a laplacian neighborhood smoothing scheme and delaunay triangulation|DT JJ NN NN NN CC NN NN|BODY_2|0
+a node (|DT NN -LRB-|BODY_10|0
+an ordering|DT VBG|BODY_2|0
+surface representation|NN NN|BODY_2|0
+the principal contribution|DT JJ NN|BODY_2|0
+a parametric unit tangent|DT JJ NN JJ|BODY_5|0
+a global parameterization|DT JJ NN|BODY_5|0
+the existence|DT NN|BODY_8|0
+differentiation|NN|BODY_3|0
+the shape design problem|DT NN NN NN|BODY_2|0
+a modeler|DT NN|BODY_3|0
+these source edges|DT NN NNS|BODY_3|0
+various geometric constraints|JJ JJ NNS|BODY_8|0
+refining|NN|BODY_5|0
+the added drawback|DT VBN NN|BODY_2|0
+their local minimum-angle|PRP$ JJ NN|BODY_6|0
+the basis vector|DT NN NN|BODY_3|0
+extrinsic surface curvature|JJ NN NN|BODY_7|0
+'s n neighbors|POS RB NNS|BODY_8|0
+nodes and edges|NNS CC NNS|BODY_4|0
+a local flatness assumption|DT JJ NN NN|BODY_8|0
+the fitting procedure|DT JJ NN|BODY_3|0
+a high performance computing and communications grant|DT JJ NN NN CC NNS NN|BODY_10|0
+a variety|DT NN|BODY_6|0
+splitting its longest edge|JJ PRP$ JJS NN|BODY_5|0
+point|NN|BODY_4|0
+directions|NNS|BODY_6|0
+ill-conditioned (|JJ -LRB-|BODY_2|0
+the resulting collections|DT VBG NNS|BODY_2|0
+a complete discus|DT JJ NN|BODY_8|0
+approximate solutions|JJ NNS|BODY_4|0
+only a few flips|RB DT JJ VBZ|BODY_5|0
+some specific higher-level shape tools and operations|DT JJ JJ NN NNS CC NNS|BODY_3|0
+these minimization problems|DT NN NNS|BODY_2|0
+this simply|DT RB|BODY_9|0
+the former boundary curve|DT JJ NN NN|BODY_5|0
+et|NNP|BODY_5|0
+a the node|DT DT NN|BODY_22|0
+steps|NNS|BODY_3|0
+others|NNS|BODY_3|0
+restore-cdt|NN|BODY_2|0
+interactive changes|JJ NNS|BODY_10|0
+laplacian smoothing[11]|NN NN|BODY_5|0
+its fixed point|PRP$ JJ NN|BODY_6|0
+each boundary curve|DT NN NN|BODY_9|0
+the three-dimensional shape|DT JJ NN|BODY_2|0
+a time|DT NN|BODY_3|0
+the squared frobenius norm|DT VBN NN NN|BODY_2|0
+the interior|DT NN|BODY_5|0
+consistent circumcircles|JJ NNS|BODY_5|0
+the illustrations|DT NNS|BODY_10|0
+cross-boundary tangents|JJ NNS|BODY_11|0
+our needs|PRP$ NNS|BODY_11|0
+shape-control tools|NN NNS|BODY_2|0
+b(u|PRP|BODY_6|0
+::c 5|NN CD|BODY_3|0
+a surface curve|DT NN NN|BODY_2|0
+the inverse|DT NN|BODY_3|0
+surface shape and area changes|NN NN CC NN NNS|BODY_3|0
+three|CD|BODY_5|0
+a geometric quantity|DT JJ NN|BODY_2|0
+an accurate minimization|DT JJ NN|BODY_3|0
+the gradient|DT NN|BODY_3|0
+the same fitting procedure|DT JJ JJ NN|BODY_7|0
+center|NN|BODY_3|0
+no particular fixed controls|DT JJ JJ NNS|BODY_3|0
+repulsion forces|NN NNS|BODY_3|0
+e .g.|NN NNP|BODY_9|0
+a discussion|DT NN|BODY_2|0
+accidentally lands|RB NNS|BODY_9|0
+a valid mesh|DT JJ NN|BODY_5|0
+no guarantee|DT NN|BODY_8|0
+this fitting procedure|DT JJ NN|BODY_4|0
+changes|NNS|BODY_4|0
+an explicit representation|DT JJ NN|BODY_8|0
+an associated parameterization|DT VBN NN|BODY_2|0
+class workstation|NN NN|BODY_7|0
+artifacts|NNS|BODY_2|0
+fair shape design|JJ NN NN|BODY_2|0
+robust enough|JJ NN|BODY_7|0
+sub-regions|NNS|BODY_2|0
+the parameterization worries|DT NN NNS|ABSTRACT_8|0
+the simpler matching procedure|DT JJR NN NN|BODY_4|0
+the system collapse split swap figure 4|DT NN NN NN NN NN CD|BODY_7|0
+a velocity|DT NN|BODY_2|0
+solutions|NNS|BODY_2|0
+the sampling|DT NN|BODY_2|0
+this style|DT NN|BODY_1:ABSTRACT_1|0
+# bir-8920118|# CD|BODY_9|0
+the triangles|DT NNS|BODY_26|0
+whose handle and outside and inside walls|WP$ NN CC JJ CC JJ NNS|BODY_2|0
+its underlying machinery|PRP$ JJ NN|BODY_6|0
+an edge e|DT NN NN|BODY_13|0
+the trim curve|DT JJ NN|BODY_5|0
+a surface neighborhood )|DT NN NN -RRB-|BODY_6|0
+the national science founda|DT JJ NN NN|BODY_7|0
+several hundred nodes|JJ CD NNS|BODY_9|0
+doubly curved surfaces|RB VBN NNS|BODY_4|0
+p 0|JJ CD|BODY_7|0
+no persistence|DT NN|BODY_8|0
+calculus|NN|BODY_11|0
+arbitrary locations|JJ NNS|BODY_3|0
+a suitable parameterization|DT JJ NN|BODY_2|0
+comb|NN|BODY_13|0
+holes|NNS|BODY_5|0
+polar coordinates|JJ NNS|BODY_4|0
+the boundary (|DT NN -LRB-|BODY_12|0
+the jth row|DT JJ NN|BODY_7|0
+a surface region|DT NN NN|BODY_5|0
+the intersection curve|DT NN NN|BODY_5|0
+a science and technology center grant|DT NN CC NN NN NN|BODY_6|0
+our experience|PRP$ NN|BODY_8|0
+e forms|NN NNS|BODY_3|0
+the basis row vector [1|DT NN NN NN NNS|BODY_8|0
+the view|DT NN|BODY_2|0
+the surface triangulation ( e .g.|DT NN NN -LRB- NN NN|BODY_5|0
+direct manipulation|JJ NN|BODY_2|0
+more than 500 nodes|JJR IN CD NNS|BODY_13|0
+any surfaces|DT NNS|BODY_12|0
+local surface reconstruction|JJ NN NN|BODY_2|0
+an independent variable|DT JJ JJ|BODY_2|0
+any reason|DT NN|BODY_2|0
+surface fit|NN NN|BODY_2|0
+the form|DT NN|BODY_5|0
+the resulting objective function|DT VBG JJ NN|BODY_11|0
+the conjugate gradient|DT NN NN|BODY_6|0
+a fixed number|DT JJ NN|BODY_7|0
+the possibility|DT NN|BODY_16|0
+a basic shape representation|DT JJ NN NN|BODY_4|0
+splitting and merging|VBG CC VBG|BODY_6|0
+you|PRP|BODY_12|0
+deformation|NN|BODY_9|0
+the use|DT NN|BODY_8|0
+the constrained minimization|DT VBN NN|BODY_2|0
+to|TO|BODY_9|0
+no triangulation|DT NN|BODY_5|0
+a parameterized embossing tool|DT JJ VBG NN|BODY_2|0
+the integral|DT NN|BODY_5|0
+modeling truly mutable|JJ RB JJ|BODY_7|0
+truly mutable|RB JJ|ABSTRACT_3|0
+0)|NN|BODY_18|0
+a good computational mesh|DT JJ JJ NN|ABSTRACT_4|0
+a minimum curvature surface|DT JJ NN NN|BODY_3|0
+algebraic fitting methods[28]|JJ JJ NN|BODY_3|0
+design literature|NN NN|BODY_3|0
+the current surface approximation|DT JJ NN NN|BODY_3|0
+the result|DT NN|BODY_1|0
+this clashes|DT NNS|BODY_1|0
+this rules|DT NNS|BODY_1|0
+three cylinders|CD NNS|BODY_1|0
+a final refinement|DT JJ NN|BODY_14|0
+speed and accuracy|NN CC NN|BODY_3|0
+sight|NN|BODY_3|0
+the point constraints|DT NN NNS|BODY_4|0
+a repulsion scheme|DT NN NN|BODY_4|0
+the triangle|DT NN|BODY_7|0
+subscripts|NNS|BODY_9|0
+' subsequent behavior|POS JJ NN|BODY_7|0
+these matrix elements|DT NN NNS|BODY_7|0
+a large gap|DT JJ NN|BODY_2|0
+an nsf engineering research center|DT JJ NN NN NN|BODY_4|0
+the body/handle attachment|DT NN NN|BODY_5|0
+a fairing functional|DT VBG JJ|BODY_13|0
+the triangulated surface|DT VBN NN|BODY_6|0
+a linear function|DT JJ NN|BODY_6|0
+a cdt|DT NN|BODY_10|0
+not a source edge|RB DT NN NN|BODY_14|0
+al .[16]|DT NN|BODY_6|0
+great advantage|JJ NN|BODY_7|0
+the poincar-e-hopf index theorem|DT NN NN NN|BODY_7|0
+the initial attachment point|DT JJ NN NN|BODY_5|0
+a faired blend region|DT JJ NN NN|BODY_2|0
+a cylinder|DT NN|BODY_4|0
+no there|DT EX|BODY_7|0
+a silicon graphics|DT NN NNS|BODY_6|0
+the numerical conditioning benefits|DT JJ NN NNS|BODY_2|0
+the topological type|DT JJ NN|BODY_2|0
+their presence|PRP$ NN|BODY_6|0
+triangulation|NN|BODY_2|0
+two boundary curves|CD NN NNS|BODY_1|0
+the neighbors|DT NNS|BODY_5|0
+tool surfaces|NN NNS|BODY_11:BODY_1|0
+at most o(edges 2|IN JJS NNS CD|BODY_2|0
+an externally controlled region|DT RB VBN NN|BODY_3|0
+the explicitly|DT RB|BODY_6|0
+variational sculpting|JJ NN|BODY_5|0
+the previous three sections|DT JJ CD NNS|BODY_11|0
+our objective function integration|PRP$ JJ NN NN|BODY_2|0
+squared distances|JJ NNS|BODY_4|0
+concise descriptions|NN NNS|BODY_2|0
+point and curve skinning|NN CC NN NN|BODY_6|0
+geometric surface properties|JJ NN NNS|BODY_14|0
+this system|DT NN|BODY_3|0
+automatic shape fairing|JJ NN NN|BODY_7|0
+the other hand|DT JJ NN|BODY_1|0
+size|NN|BODY_4|0
+differential geom|JJ NN|BODY_7|0
+a point-wise surface|DT JJ NN|BODY_8|0
+embedded surface curves|JJ NN NNS|BODY_4|0
+a triangular face|DT JJ NN|BODY_4|0
+neither )|DT -RRB-|BODY_6|0
+this problem|DT NN|BODY_4|0
+this case|DT NN|BODY_1|0
+both curves|DT NNS|BODY_6|0
+'s associated area|POS JJ NN|BODY_23|0
+fewer edges|JJR NNS|BODY_4|0
+or not|CC RB|BODY_4|0
+surface fairing|NN NN|BODY_3|0
+smooth vector-fields|JJ NNS|BODY_9|0
+partial differentiation|JJ NN|BODY_10|0
+manifolds[15]|NN|BODY_10|0
+a common quadratic surface form|DT JJ JJ NN NN|BODY_6|0
+five neighbors|CD NNS|BODY_3|0
+a fourth cylinder|DT JJ NN|BODY_4|0
+all interactive shaping|DT NN VBG|BODY_15|0
+topol- figure 2|DT NN CD|BODY_9|0
+two tool-|CD NNS|BODY_5|0
+its node|PRP$ NN|BODY_21|0
+etry|NN|BODY_8|0
+the coefficients|DT NNS|BODY_4|0
+its x|PRP$ SYM|BODY_4|0
+a single long vector|DT JJ JJ NN|BODY_5|0
+the surface derivatives|DT NN NNS|BODY_5|0
+a constrained shape optimization|DT VBN NN NN|ABSTRACT_3|0
+circumspheres|NNS|BODY_6|0
+this iterative scheme|DT JJ NN|BODY_6|0
+only flipping edges|RB JJ NNS|BODY_4|0
+shape|NN|BODY_5:BODY_7|0
+all points|DT NNS|BODY_6|0
+all|PDT|BODY_5|0
+each vertex|DT NN|BODY_6|0
+normals|NNS|BODY_6|0
+minimization|NN|ABSTRACT_4|0
+matrix-vector products|NN NNS|BODY_6|0
+some point|DT NN|BODY_8|0
+a bit|DT NN|BODY_2|0
+the area|DT NN|BODY_24|0
+the quadrilateral|DT JJ|BODY_16:BODY_2|0
+the two triangles|DT CD NNS|BODY_17:BODY_3|0
+familiar shape control tools|JJ NN NN NNS|BODY_8|0
+a more convenient form|DT RBR JJ NN|BODY_5|0
+local planar projection operations|JJ NN NN NNS|BODY_2|0
+a local projection|DT JJ NN|BODY_6|0
+a closed pwl boundary curve|DT JJ NN NN NN|BODY_7|0
+a continuous triangular piece|DT JJ NN NN|BODY_5|0
+externally controlled regions|RB VBN NNS|BODY_6|0
+sur- faces|NNS NNS|BODY_4|0
+curvature minimization|NN NN|BODY_4|0
+narrow cylinders|JJ NNS|BODY_6|0
+the reduced basis functions boundary nodes|DT JJ NN NNS NN NNS|BODY_5|0
+the engineering design research center|DT NN NN NN NN|BODY_3|0
+the surface shape evolves|DT NN NN NNS|ABSTRACT_5|0
+space curves|NN NNS|BODY_2|0
+a faired skirt|DT JJ NN|BODY_5|0
+the flip algorithm|DT JJ NN|BODY_9|0
+the end|DT NN|BODY_6|0
+ultimately their local topology|RB PRP$ JJ NN|BODY_7|0
+intersection|NN|BODY_4|0
+such configurations|JJ NNS|BODY_2|0
+yield|NN|BODY_4|0
+ scheme|NN NN|BODY_4|0
+the same number|DT JJ NN|BODY_7|0
+sharp dihedral angles|JJ NN NNS|BODY_2|0
+all triangulations|DT NNS|BODY_4|0
+quadratic bowls|JJ NNS|BODY_7|0
+the geodesic polar map[25]|DT JJ JJ NN|BODY_9|0
+too few neighbors|RB JJ NNS|BODY_3|0
+the surface-tracking technique|DT JJ NN|BODY_7|0
+that anything|IN NN|BODY_5|0
+the original anchor positions|DT JJ NN NNS|BODY_5|0
+a triangular facet|DT NN NN|BODY_3|0
+p ix|VB NN|BODY_6|0
+the triangulated sample points|DT VBN NN NNS|BODY_3|0
+the triangulated nodes|DT VBN NNS|BODY_6|0
+important contours|JJ NNS|BODY_6|0
+second-order|VB|BODY_7|0
+surface shape control|NN NN NN|BODY_3|0
+blend shapes|NN NNS|BODY_4|0
+objective function|NN NN|BODY_4|0
+surface shapes or topologies|NN NNS CC NNS|BODY_2|0
+topological constraints|JJ NNS|BODY_5|0
+the ideas|DT NNS|BODY_2|0
+a construction|DT NN|BODY_6|0
+neighborhood projection|NN NN|BODY_11|0
+p.|NN|BODY_6|0
+the parametric interval|DT JJ NN|BODY_5|0
+surface edges|NN NNS|BODY_11|0
+the interior edges|DT JJ NNS|BODY_6|0
+our interactive system|PRP$ JJ NN|BODY_3|0
+a priori|DT NN|BODY_4|0
+the irregular degrees|DT JJ NNS|BODY_5|0
+section 4|NN CD|BODY_13|0
+then the projection|RB DT NN|BODY_7|0
+this end|DT NN|BODY_1|0
+the 6u axis|DT NN NN|BODY_11|0
+s( 0|JJ CD|BODY_17|0
+no numerical harm|DT JJ NN|BODY_2|0
+as  character lines|IN JJ NN NNS|BODY_8|0
+our procedure|PRP$ NN|BODY_2|0
+3|CD|BODY_1|0
+geometric surfaces|JJ NNS|BODY_3|0
+whose shape|WP$ NN|BODY_7|0
+2|CD|BODY_6|0
+tangent and curvature information|JJ CC JJ NN|BODY_8|0
+a good triangulation|DT JJ NN|BODY_4|0
+surface properties|NN NNS|BODY_5|0
+a biquadratic|DT JJ|BODY_5|0
+no smooth interpolating surface|DT JJ VBG NN|BODY_8|0
+'s total curvature|POS JJ NN|BODY_5|0
+the somewhat arbitrary choice|DT RB JJ NN|BODY_3|0
+an area|DT NN|BODY_3|0
+a brief overview|DT JJ NN|BODY_3|0
+the difficult general problem|DT JJ JJ NN|BODY_6|0
+a special intersection node|DT JJ NN NN|BODY_3|0
+'s point-sampling scheme [42]|POS JJ NN NN|BODY_9|0
+more robust|JJR JJ|BODY_4|0
+a (|DT -LRB-|BODY_5|0
+the same minimum-angle property|DT JJ JJ NN|BODY_2|0
+a radial ordering|DT JJ NN|BODY_10|0
+embedded curves|VBN NNS|BODY_3|0
+our choice|PRP$ NN|BODY_7|0
+this error|DT NN|BODY_7|0
+additional samples|JJ NNS|BODY_16|0
+an equilibrium|DT NN|BODY_7|0
+e tractable|NN NN|BODY_2|0
+positions|NNS|BODY_3|0
+controlled changes|VBN NNS|BODY_4|0
+the surface x|DT NN NN|BODY_8|0
+a particularly straight surface curve|DT RB JJ NN NN|BODY_3|0
+externally represented shapes|RB VBN NNS|BODY_7|0
+the faired side|DT JJ NN|BODY_6|0
+a flattened  p|DT VBN NN NN|BODY_3|0
+implicit surfaces|JJ NNS|BODY_5|0
+the nodes and edges|DT NNS CC NNS|BODY_2|0
+every node|DT NN|BODY_8|0
+a space curve backbone|DT NN NN NN|BODY_6|0
+the deformations|DT NNS|BODY_10|0
+different sets|JJ NNS|BODY_11|0
+approximate renderings|JJ NNS|BODY_3|0
+the one|DT NN|BODY_6|0
+any number|DT NN|BODY_3|0
+the torus|DT NN|BODY_2|0
+structured models|VBN NNS|BODY_5|0
+if|IN|BODY_4|0
+a particularly nice triangulation|DT RB JJ NN|BODY_4|0
+new )|JJ -RRB-|BODY_7|0
+the mesh structure or surface topology ( section|DT NN NN CC NN NN -LRB- NN|BODY_4|0
+instability|NN|BODY_5|0
+interactive modeling operations|JJ JJ NNS|BODY_5|0
+a tool shape|DT NN NN|BODY_5|0
+fair , free-form shapes|JJ , JJ NNS|BODY_4|0
+about and neighborhoods|RB CC NNS|BODY_6|0
+the first edge e interior|DT JJ NN NN NN|BODY_2|0
+a radius function|DT JJ NN|BODY_7|0
+integrands|NNS|BODY_12|0
+( 0|-LRB- CD|BODY_16|0
+local edge-flip operations( figure 4)|JJ JJ NN NN NNS|BODY_4|0
+p 1|JJ CD|BODY_5|0
+techniques|NNS|BODY_7|0
+deformation hierarchies ( note|NN NNS -LRB- NN|BODY_9|0
+the cylinders|DT NNS|BODY_3|0
+the fairness func|DT NN NN|BODY_6|0
+potential interactions|JJ NNS|BODY_5|0
+handles|NNS|BODY_4|0
+a 3d neighborhood|DT JJ NN|BODY_3|0
+simple expressions|JJ NNS|BODY_3|0
+the 3d euclidean distance|DT JJ JJ NN|BODY_7|0
+squared principal curvatures|VBN JJ NNS|ABSTRACT_5|0
+a matching space curve|DT JJ NN NN|BODY_2|0
+radial neighbor|JJ NN|BODY_6|0
+this neighborhood smoothing|DT NN NN|BODY_2|0
+our chosen representation|PRP$ VBN NN|BODY_2|0
+reasonably simple pieces|RB JJ NNS|BODY_4|0
+z 4.2 triangulated surface objective|FW CD VBN NN JJ|BODY_8|0
+the placement|DT NN|BODY_8|0
+the local shape|DT JJ NN|BODY_8|0
+skin two boundary curves|NN CD NN NNS|BODY_5|0
+the radial order|DT JJ NN|BODY_8|0
+a uniform sampling density|DT JJ NN NN|BODY_4|0
+the simple construction sequence|DT JJ NN NN|BODY_3|0
+its mathematical sense|PRP$ JJ NN|BODY_8|0
+projection plane|NN NN|BODY_5|0
+an uninteresting place|DT JJ NN|BODY_4|0
+a wide range|DT JJ NN|BODY_10|0
+an area-weighted sum|DT JJ NN|BODY_11|0
+this integral|DT NN|BODY_10|0
+the queue (|DT NN -LRB-|BODY_3|0
+a given surface region|DT VBN NN NN|BODY_3|0
+novel effect|JJ NN|BODY_3|0
+3d approximate|JJ NN|BODY_4|0
+the surface sampling and triangulation|DT NN NN CC NN|BODY_4|0
+a fixed place|DT JJ NN|BODY_8|0
+variational |JJ|BODY_7|0
+the intersection shape|DT NN NN|BODY_5|0
+a shape|DT NN|BODY_7|0
+the common situation|DT JJ NN|BODY_3|0
+such a crease|JJ DT NN|BODY_4|0
+the agenda|DT NN|BODY_4|0
+enough neighbors|RB NNS|BODY_7|0
+the approximated surface|DT JJ NN|BODY_6|0
+the equilibrium position|DT NN NN|BODY_4|0
+pen-and-paper design|NN NN|BODY_4|0
+a unit-speed geodesic path|DT NN JJ NN|BODY_6|0
+a single sheet|DT JJ NN|BODY_6|0
+the neighborhood cen-|DT NN NNS|BODY_3|0
+evaluating|VBG|BODY_7|0
+the n|DT NN|BODY_4|0
+neighboring vertices|VBG NNS|BODY_4|0
+result|NN|BODY_3|0
+these angles|DT NNS|BODY_6|0
+the desirable properties|DT JJ NNS|BODY_9|0
+a polygonal channel|DT JJ NN|BODY_9|0
+such approaches|JJ NNS|BODY_1|0
+an implicit surface|DT JJ NN|BODY_7|0
+each neighbor|DT NN|BODY_4|0
+functions|NNS|BODY_9|0
+only the neighboring points|RB DT JJ NNS|BODY_2|0
+features|NNS|BODY_4|0
+[41]|NN|BODY_5|0
+a simple spatial refinement/un-refinement scheme|DT JJ JJ NN NN|BODY_3|0
+tool shapes|NN NNS|BODY_4|0
+'s topology|POS NN|BODY_4|0
+an adaptive scheme|DT JJ NN|BODY_6|0
+the center node|DT NN NN|BODY_4|0
+viscous drag|JJ NN|BODY_4|0
+a conjugate-gradient method[33]|DT JJ NN|BODY_4|0
+two samples|CD NNS|BODY_6|0
+the angular separation|DT JJ NN|BODY_3|0
+the fairing|DT NN|BODY_12|0
+a surface mesh|DT NN NN|BODY_3|0
+such fairing computations|JJ JJ NNS|BODY_5|0
+an unfortunate choice|DT JJ NN|BODY_4|0
+their intent|PRP$ NN|BODY_2|0
+the approximation problem|DT NN NN|BODY_2|0
+'s contributions|POS NNS|BODY_4|0
+a shape controller|DT NN NN|BODY_4|0
+these surface shapes|DT NN NNS|BODY_3|0
+2-.|DT|BODY_6|0
+an associated surface triangulation|DT JJ NN NN|BODY_7|0
+a radially ordered list|DT RB VBN NN|BODY_7|0
+intersecting surfaces|NN NNS|BODY_5|0
+the laplacian|DT NN|BODY_2|0
+some smooth underlying surface|DT JJ VBG NN|BODY_5|0
+our presentation|PRP$ NN|BODY_4|0
+collections|NNS|BODY_3|0
+our sculpting system|PRP$ VBG NN|BODY_2|0
+simplicity|NN|BODY_4|0
+most|JJS|BODY_5|0
+the source|DT NN|BODY_6|0
+a valid initial triangulation|DT JJ JJ NN|BODY_8|0
+another useful constraint|DT JJ NN|BODY_8|0
+the given neighborhood topology|DT VBN NN NN|BODY_3|0
+the sur-|DT NNS|BODY_9|0
+a cylindrical offset tool|DT JJ VBN NN|BODY_4|0
+some basic modeling operations|DT JJ VBG NNS|BODY_2|0
+an underlying smooth|DT JJ JJ|BODY_6|0
+a triangulated mesh|DT VBN NN|BODY_2|0
+control points|NN NNS|BODY_18|0
+its manifold topology|PRP$ NN NN|BODY_3|0
+an initial surface triangula|DT JJ NN NN|BODY_4|0
+parametric surface|JJ NN|BODY_7|0
+cylinder tools|NN NNS|BODY_4|0
+arc-length (|NN -LRB-|BODY_9|0
+a separate bivariate parameterization|DT JJ NN NN|BODY_5|0
+ogy|NN|BODY_12|0
+no explicit control|DT JJ NN|BODY_4|0
+surface topology|NN NN|BODY_5|0
+fixed n|JJ NN|BODY_8|0
+general|JJ|BODY_12:BODY_10|0
+its optimization|PRP$ NN|BODY_5|0
+many samples|JJ NNS|BODY_3|0
+a fit|DT NN|BODY_4|0
+witkin and heckbert|NN CC NN|BODY_8|0
+simply b 2 p )|RB NN CD NN -RRB-|BODY_8|0
+an approximate arc-length pa- rameterization|DT JJ NN NNS NN|BODY_4|0
+the partial derivatives|DT JJ NNS|BODY_5|0
+design|NN|BODY_3|0
+the radial parametric separation|DT JJ JJ NN|BODY_7|0
+the hinge[4]|DT NN|BODY_9|0
+topological restriction|JJ NN|BODY_5|0
+bounded sub-regions|VBN NNS|BODY_2|0
+both smooth and polyhedral surfaces|DT JJ CC JJ NNS|BODY_3|0
+at least five neighbors|IN JJS CD NNS|BODY_9|0
+a blend region|DT NN NN|BODY_3|0
+a quality triangulation|DT NN NN|BODY_4|0
+a valid triangulation|DT JJ NN|BODY_8|0
+a plane|DT NN|BODY_1:BODY_9|0
+hysteresis|NN|BODY_3|0
+an output|DT NN|BODY_3|0
+no influence|DT NN|BODY_5|0
+an objective function|DT JJ NN|BODY_5|0
+the conditions|DT NNS|BODY_4|0
+the objective function e|DT JJ NN NN|BODY_3|0
+two points|CD NNS|BODY_6|0
+complex topologies|JJ NNS|BODY_6|0
+modeling operations|JJ NNS|BODY_2|0
+non-smooth ) union|JJ -RRB- NN|BODY_6|0
+the dt|DT NN|BODY_3|0
+approximate differentiation|JJ NN|BODY_7|0
+a pri-|DT RB|BODY_3|0
+the two curves|DT CD NNS|BODY_8|0
+interpolated control curves|JJ NN NNS|BODY_4|0
+) points|-RRB- NNS|BODY_5|0
+the region boundary|DT NN NN|BODY_9|0
+a closed series|DT JJ NN|BODY_7|0
+the u direction|DT NNP NN|BODY_3|0
+6.3 )|CD -RRB-|BODY_5|0
+interior edges|NN NNS|BODY_6:BODY_5|0
+little|JJ|BODY_2|0
+no flatness assumptions|DT NN NNS|BODY_3|0
+the active nodes|DT JJ NNS|BODY_6|0
+2-|CD|BODY_8|0
+the coordinate functions|DT VBP NNS|BODY_2|0
+this topology|DT NN|BODY_7|0
+the two boundary nodes|DT CD NN NNS|BODY_10|0
+a new boundary|DT JJ NN|BODY_8|0
+6 operations|CD NNS|BODY_9|0
+this compatibility constraint|DT NN NN|BODY_5|0
+well-trodden ground|JJ NN|BODY_2|0
+each edge|DT NN|BODY_14|0
+a parametric repulsion scheme|DT JJ NN NN|BODY_2|0
+local smooth surface reconstruction|JJ JJ NN NN|BODY_5|0
+its gradient|PRP$ NN|BODY_4|0
+disjoint regions|NN NNS|BODY_3|0
+a style|DT NN|BODY_3|0
+a very coarse surface refinement|DT RB JJ NN NN|BODY_7|0
+all shapes|DT NNS|BODY_3|0
+a discrete sampling|DT JJ NN|BODY_4|0
+a truly broad class|DT RB JJ NN|BODY_2|0
+global parameterizations|JJ NNS|BODY_5|0
+as|IN|BODY_9|0
+the two nodes|DT CD NNS|BODY_12|0
+piecewise-linear ( pwl ) sequences|JJ -LRB- NN -RRB- NNS|BODY_2|0
+the latter nodes|DT JJ NNS|BODY_2|0
+the purely local scheme|DT RB JJ NN|BODY_5|0
+boundary nodes|NN NNS|BODY_3|0
+the expense|DT NN|BODY_4|0
+a good way|DT JJ NN|BODY_6|0
+abutting faces|JJ NNS|BODY_5|0
+a curve or smoothing|DT NN CC NN|BODY_3|0
+an important style|DT JJ NN|BODY_2|0
+the current surface normals and areas|DT JJ NN NNS CC NNS|BODY_6|0
+each pair|DT NN|BODY_4|0
+our motivation|PRP$ NN|BODY_4|0
+the second-order terms|DT JJ NNS|BODY_6|0
+two nodes|CD NNS|BODY_3|0
+approximated shapes|JJ NNS|BODY_7|0
+these repeated fitting attempts|DT VBN JJ NNS|BODY_10|0
+'s shape|POS NN|BODY_4|0
+5.3 surface|CD NN|BODY_1|0
+boundary curves|NN NNS|BODY_1|0
+discretization error|NN NN|BODY_1|0
+each node (|DT NN -LRB-|BODY_1|0
+local polynomial fitting|JJ JJ NN|BODY_4|0
+nonuniform deformations|JJ NNS|BODY_1|0
+our case|PRP$ NN|BODY_1|0
+the blend|DT NN|BODY_4|0
+the full basis|DT JJ NN|BODY_4|0
+the scheme|DT NN|BODY_1|0
+the true intersection topology|DT JJ NN NN|BODY_4|0
+their respective triangulated neighborhoods|PRP$ JJ JJ NNS|BODY_4|0
+these surfaces|DT NNS|BODY_4|0
+point-sampled approximations )|JJ NNS -RRB-|BODY_5|0
+the overall interactivity|DT JJ NN|BODY_7|0
+a highly non-linear functional|DT RB JJ JJ|BODY_2|0
+approach|NN|BODY_3|0
+behavior|NN|BODY_2|0
+c (|NN -LRB-|BODY_3|0
+the most|DT JJS|BODY_2|0
+the desired linearity|DT VBN NN|BODY_2|0
+the local density|DT JJ NN|BODY_4|0
+an arc-length parameterization[9,8]|DT NN NN|BODY_3|0
+3-space|NN|BODY_5|0
+' influence|POS NN|BODY_13|0
+the fairing functional ( section 4|DT VBG JJ -LRB- NN CD|BODY_7|0
+geodesic distance|JJ NN|BODY_3|0
+approximates|NNS|BODY_3|0
+the results|DT NNS|BODY_4|0
+( e .g.|-LRB- NN NN|BODY_5|0
+the euclidean distance|DT JJ NN|BODY_3|0
+the added speed and robustness|DT JJ NN CC NN|BODY_5|0
+a global measure|DT JJ NN|BODY_4|0
+the fitted piece|DT VBN NN|BODY_3|0
+these directions|DT NNS|BODY_5|0
+our local quadratic reconstructions|PRP$ JJ JJ NNS|BODY_7|0
+a surface fairing scheme|DT NN JJ NN|BODY_3|0
+numerical grid generation|JJ NN NN|BODY_8|0
+their union|PRP$ NN|BODY_8|0
+some quadrilateral|DT NN|BODY_8|0
+this method|DT NN|BODY_2|0
+these approximate renderings|DT JJ NNS|BODY_2|0
+these coordinates|DT NNS|BODY_3|0
+the face|DT NN|BODY_17|0
+a composition operation|DT NN NN|BODY_7|0
+the differential geometry|DT JJ NN|BODY_2|0
+any tangent direction|DT JJ NN|BODY_3|0
+first assign parametric coordinates|JJ NN JJ NNS|BODY_10|0
+the effect|DT NN|BODY_6|0
+a curvature-sensitive scheme|DT JJ NN|BODY_3|0
+the interior edge connections|DT JJ NN NNS|BODY_1|0
+no corresponding notion|DT JJ NN|BODY_3|0
+trim-and-stitch surface composition|NN NN NN|BODY_2|0
+a highly curved surface|DT RB VBN NN|BODY_5|0
+mutual repulsive ( or attractive ) forces|JJ JJ -LRB- CC JJ -RRB- NNS|BODY_7|0
+the influence|DT NN|BODY_6|0
+a parametric curve|DT JJ NN|BODY_6|0
+p|NN|BODY_2|0
+the minimum|DT NN|BODY_13|0
+a tool surface|DT NN NN|BODY_3|0
+0|CD|BODY_6|0
+robust procedures|JJ NNS|BODY_4|0
+the system matrix|DT NN NN|BODY_7|0
+the node edges|DT NN NNS|BODY_5|0
+parametric derivatives|JJ NNS|BODY_4|0
+an ideal variational|DT JJ JJ|BODY_5|0
+that information|WDT NN|BODY_4|0
+38,39,42]|CD|BODY_4|0
+corresponding sequences|JJ NNS|BODY_5|0
+a free-standing curve|DT JJ NN|BODY_7|0
+row vectors|NN NNS|BODY_7|0
+some rearrangement|DT NN|BODY_1|0
+the parent surfaces|DT NN NNS|BODY_1|0
+a robust procedure|DT JJ NN|BODY_2|0
+well-conditioning|NN|BODY_9|0
+highly curved neighborhoods|RB JJ NNS|BODY_3|0
+2.2 approximating surface shapes|CD VBG NN NNS|BODY_1|0
+our initial minimalist intentions|PRP$ JJ NN NNS|BODY_6|0
+empty circumspheres|JJ NNS|BODY_6|0
+an added computational expense|DT VBN JJ NN|BODY_5|0
+the controlled side|DT JJ NN|BODY_4|0
+a full fit|DT JJ NN|BODY_8|0
+6.2|CD|BODY_1|0
+shifted neighbor positions|VBN NN NNS|BODY_15|0
+silicon graphics|NN NNS|BODY_17|0
+the authors|DT NNS|BODY_1|0
+the differential area form|DT JJ NN NN|BODY_10|0
+the figures|DT NNS|BODY_10|0
+the new node )|DT JJ NN -RRB-|BODY_12|0
+these variational surfaces|DT JJ NNS|BODY_13|0
+the above-mentioned projections|DT JJ NNS|BODY_6|0
+this order|DT NN|BODY_5|0
+a sampling|DT NN|BODY_8|0
+the need|DT NN|BODY_2|0
+computation|NN|BODY_6|0
+solve/redraw cycle|NN NN|BODY_10|0
+local features|JJ NNS|BODY_5|0
+these projected distances|DT VBN NNS|BODY_9|0
+a crown|DT NN|BODY_16|0
+bonner|NN|BODY_1|0
+1.1 functional minimization|CD JJ NN|BODY_1|0
+the desired shape|DT VBN NN|BODY_5|0
+the classification|DT NN|BODY_1|0
+this somewhat backwards notion|DT RB RB NN|BODY_1|0
+many schemes|JJ NNS|BODY_1|0
+these difficulties|DT NNS|BODY_5|0
+a quadratic function|DT JJ NN|BODY_4|0
+the composite shape|DT JJ NN|BODY_9|0
+a technicality|DT NN|BODY_1|0
+both|DT|BODY_1|0
+the neighborhood structure|DT NN NN|BODY_4|0
+( if|-LRB- IN|BODY_9|0
+equilibrium|NN|BODY_11|0
+equilibrium )|NN -RRB-|BODY_13|0
+edge flip|NN JJ|BODY_11|0
+our part|PRP$ NN|BODY_8|0
+the neighborhood topologies|DT NN NNS|BODY_8|0
+the e|DT NN|BODY_2|0
+an approximate cdt|DT JJ NN|BODY_2|0
+interactive adaptive meshing|JJ JJ NN|BODY_1|0
+an orthogonal decomposition|DT JJ NN|BODY_2|0
+quadratic and positive definite|JJ CC JJ JJ|BODY_2|0
+a surface topology )|DT NN NN -RRB-|BODY_6|0
+the immediate neighbors|DT JJ NNS|BODY_12|0
+this correspondence|DT NN|BODY_4|0
+integration error|NN NN|BODY_5|0
+6 and 7.|CD CC CD|BODY_6|0
+introduction one|NN CD|BODY_1|0
+its topology|PRP$ NN|BODY_7|0
+a curved surface|DT JJ NN|BODY_5|0
+an ill-conditioned fit|DT JJ NN|BODY_3|0
+before|RB|BODY_1|0
+a given point|DT VBN NN|BODY_3|0
+szeliski and tonnesin[34]|NN CC NN|BODY_8|0
+barth [1]|NN NN|BODY_6|0
+pre-fabricated families|JJ NNS|BODY_3|0
+geometric interpolation constraints|JJ NN NNS|BODY_5|0
+the polygon|DT NN|BODY_8|0
+familiar intersection-based operations|JJ JJ NNS|BODY_4|0
+he|PRP|BODY_1|0
+free and constrained neighbors|JJ CC JJ NNS|BODY_6|0
+coefficients|NNS|BODY_12|0
+6.6 building|CD NN|BODY_1|0
+wild leaps|JJ NNS|BODY_6|0
+h)|NN|BODY_6|0
+5 )|CD -RRB-|BODY_8|0
+an umbrella )|DT NN -RRB-|BODY_9|0
+3.1 neighborhood parameterizations|CD NN NNS|BODY_1|0
+point positions|NN NNS|BODY_7|0
+this cost|DT NN|BODY_11|0
+any two neighbors|DT CD NNS|BODY_5|0
+the other diagonal does|DT JJ JJ VBZ|BODY_6|0
+the same topological type|DT JJ JJ NN|BODY_10|0
+'s termination guarantee|POS NN NN|BODY_5|0
+6.4 surface intersections|CD NN NNS|BODY_1|0
+a standard approach|DT JJ NN|BODY_1|0
+free-form modeling|JJ NN|BODY_5|0
+neighborhood parameterization|NN NN|BODY_1|0
+our application|PRP$ NN|BODY_6|0
+our construction|PRP$ NN|BODY_1|0
+the one hand|DT CD NN|BODY_1|0
+the surface objective|DT NN JJ|BODY_8|0
+these computations|DT NNS|BODY_10|0
+a last resort|DT JJ NN|BODY_1|0
+the product|DT NN|BODY_5|0
+parameterization artifacts|NN NNS|BODY_14|0
+its first column|PRP$ JJ NN|BODY_8|0
+the variational surfaces intersect|DT JJ NNS NN|BODY_7|0
+the geometric fairing functionals|DT JJ NN NNS|BODY_1|0
+figure 3|NN CD|BODY_1|0
+our representation|PRP$ NN|BODY_1|0
+this example|DT NN|BODY_1|0
+cdt [2]|JJ NN|BODY_5|0
+our initial implementation|PRP$ JJ NN|BODY_1|0
+surface quality|NN NN|BODY_10|0
+interpolate shape control curves|JJ NN NN NNS|BODY_14|0
+the alignment|DT NN|BODY_1|0
+the sample point positions|DT NN NN NNS|BODY_10|0
+their new boundary|PRP$ JJ NN|BODY_9|0
+whose boundary curves|WP$ NN NNS|BODY_9|0
+the composite surface|DT JJ NN|BODY_7|0
+200 nodes )|CD NNS -RRB-|BODY_4|0
+a minimum curvature variation|DT JJ NN NN|BODY_1|0
+this operation|DT NN|BODY_1|0
+up|RP|BODY_9|0
+the sample matrix|DT NN NN|BODY_1|0
+a thin elastic plate|DT JJ JJ NN|BODY_6|0
+the assumption|DT NN|BODY_1|0
+a uniform-density objective|DT JJ NN|BODY_6|0
+-=2|NN|BODY_10|0
+3.3 curve reconstruction smooth neighborhoods|CD NN NN JJ NNS|BODY_1|0
+4.5|CD|BODY_1|0
+the real  surface|DT JJ NN NN|BODY_6|0
+- 2|: CD|BODY_4|0
+only one shape control tool|RB CD NN NN NN|BODY_1|0
+splitting a surface|JJ DT NN|BODY_1|0
+the in-field direction|DT JJ NN|BODY_4|0
+the least-squares solution|DT NNS NN|BODY_1|0
+its nodes and edges|PRP$ NNS CC NNS|BODY_7|0
+a pwl curve|DT JJ NN|BODY_6|0
+specific parameters|JJ NNS|BODY_5|0
+any event|DT NN|BODY_1|0
+parameterization|NN|BODY_4|0
+unconstrained and constrained parts|JJ CC JJ NNS|BODY_1|0
+explicit shape control|JJ NN NN|BODY_1|0
+a 2d manifold topology|DT JJ NN NN|BODY_7|0
+automatic refinement and retriangulation processes|JJ NN CC NN NNS|BODY_1|0
+face splitting|NN NN|BODY_1|0
+little work|JJ NN|BODY_1|0
+automatic refinement|JJ NN|ABSTRACT_1|0
+an underlying fixed surface parameter- ization|DT JJ JJ NN NNS NN|BODY_4|0
+surface parameterization|NN NN|BODY_9|0
+the lower|DT JJR|BODY_3|0
+a triangulated surface skin|DT VBN NN NN|BODY_6|0
+our basic approach|PRP$ JJ NN|BODY_1|0
+the intent|DT NN|BODY_1|0
+c|NN|BODY_3|0
+their radial order|PRP$ JJ NN|BODY_9|0
+figure 5|NN CD|BODY_1|0
+2.|CD|BODY_1|0
+the inner torus shape )|DT JJ JJ NN -RRB-|BODY_5|0
+[10] )|JJ -RRB-|BODY_4|0
+triangulated point sets|VBN NN NNS|ABSTRACT_1|0
+6.1 embedding control curves|CD NN NN NNS|BODY_1|0
+this globally optimal triangulation|DT RB JJ NN|BODY_1|0
+section 7|NN CD|BODY_1|0
+a simpler (|DT JJR -LRB-|BODY_1|0
+( 500 nodes )|-LRB- CD NNS -RRB-|BODY_4|0
+not|RB|BODY_1|0
+variations[7]|NN|BODY_12|0
+this constraint|DT NN|BODY_1|0
+the plane|DT NN|BODY_7|0
+the new boundary curve|DT JJ NN NN|BODY_5|0
+curve and surface fairing|NN CC NN NN|BODY_4|0
+the more commonly used linearized thin plate approximation[4,41,35,18]|DT RBR RB VBN VBN JJ NN NN|BODY_1|0
+moreton[23] )|JJ -RRB-|BODY_6|0
+a difficult problem|DT JJ NN|BODY_5|0
+the normal section curvature|DT JJ NN NN|BODY_1|0
+the vector form|DT NN NN|BODY_1|0
+this terminates|DT NNS|BODY_1|0
+3d.|VBG|BODY_6|0
+boundary|NN|BODY_9|0
+arbitrary , mutable topol- ogy|JJ , JJ NNS NN|BODY_6|0
+a shared control curve|DT JJ NN NN|BODY_7|0
+structured free-form models|VBD NN NNS|BODY_6|0
+arbitrary topology|JJ NN|ABSTRACT_5|0
+fact|NN|BODY_1|0
+the the topologies|DT DT NNS|BODY_1|0
+fairing|NN|BODY_5|0
+their explicit approximations|PRP$ JJ NNS|BODY_4|0
+figure 7 )|NN CD -RRB-|BODY_6|0
+2 )|CD -RRB-|BODY_11|0
+the surface triangulation|DT NN NN|BODY_1|0
+( 6 )|-LRB- CD -RRB-|BODY_1|0
+a chord|DT NN|BODY_1|0
+2.1|CD|BODY_1|0
+7.1 contributions|CD NNS|BODY_1|0
+place|NN|BODY_1|0
+reasonable  initial surface shapes|JJ JJ JJ NN NNS|BODY_4|0
+skinny triangles|JJ NNS|BODY_5|0
+future research|JJ NN|BODY_7|0
+forces|NNS|BODY_1|0
+an embedded closed curve|DT VBN JJ NN|BODY_6|0
+better|JJR|BODY_1|0
+the global approxi- mation|DT JJ NNS NN|BODY_4|0
+a post-processing step[24]|DT JJ NN|BODY_7|0
+frobenius norms[14] )|JJ JJ -RRB-|BODY_5|0
+5 surface sampling|CD NN NN|BODY_1|0
+worse|JJR|BODY_1|0
+ideal shapes|JJ NNS|BODY_10|0
+the constrained minimization scheme|DT JJ NN NN|BODY_1|0
+this multiplication scheme|DT NN NN|BODY_4|0
+their separation|PRP$ NN|BODY_16|0
+the explicit surfaces 5|DT JJ NNS CD|BODY_6|0
+point interpolation constraints|NN NN NNS|BODY_5|0
+the lowest level|DT JJS NN|BODY_1|0
+the error|DT NN|BODY_1|0
+regions )|NNS -RRB-|BODY_9|0
+this modified objective|DT VBN NN|BODY_7|0
+these situations|DT NNS|BODY_1|0
+3.2 local|CD JJ|BODY_1|0
+no assumptions|DT NNS|BODY_1|0
+the smooth surface|DT JJ NN|BODY_10|0
+the following , p 0|DT VBG , JJ CD|BODY_1|0
+a single , self-intersecting surface|DT JJ , JJ NN|BODY_1|0
+its parametric neighborhood )|PRP$ JJ NN -RRB-|BODY_27|0
+4.3 curves|CD NNS|BODY_1|0
+field[11]|NN|BODY_1|0
+algebraic methods|JJ NNS|BODY_1|0
+some small minimum|DT JJ NN|BODY_7|0
+least-squares schemes[13]|NNS NNS|BODY_18|0
+an example|DT NN|BODY_1|0
+projection|NN|BODY_9|0
+retriangulation progresses|NN NNS|BODY_6|0
+3 )|CD -RRB-|BODY_13|0
+the ith neighborhood basis matrix|DT JJS NN NN NN|BODY_8|0
+a penalty[27] or lagrange multiplier[33] technique|DT NN CC NN JJ NN|BODY_4|0
+arbitrary topology ( closed or bordered )|JJ NN -LRB- VBN CC VBN -RRB-|BODY_5|0
+previous work|JJ NN|BODY_1|0
+5.4|CD|BODY_1|0
+the computation|DT NN|BODY_7|0
+these edge-flips|DT NNS|BODY_1|0
+a surface boundary|DT NN NN|BODY_12|0
+much the same way|RB DT JJ NN|BODY_12|0
+these|DT|BODY_1|0
+no real consideration|DT JJ NN|BODY_1|0
+non-trivial smooth surface topologies|JJ JJ NN NNS|BODY_3|0
+a controlled region|DT JJ NN|BODY_1|0
+interactive re-shaping|JJ NN|BODY_8|0
+many patch-based approaches|JJ JJ NNS|ABSTRACT_9|0
+the merge|DT VBP|BODY_5|0
+the one approach|DT CD NN|BODY_1|0
+the re-sampling and delaunay triangulation processes|DT NN CC JJ NN NNS|BODY_1|0
+a compatibility condition[26]|DT NN NN|BODY_1|0
+a frozen node|DT JJ NN|BODY_1|0
+a neighborhood parameterization|DT NN NN|BODY_1|0
+an explicit smooth surface|DT JJ JJ NN|BODY_1|0
+constant , 3n 2 3n matrix|JJ , JJ CD JJ NN|BODY_6|0
+patch-based and particle-based representations|JJ CC JJ NNS|ABSTRACT_4|0
+the approximating representation|DT NN NN|BODY_11|0
+automatic mesh refinement|JJ NN NN|BODY_12|0
+the ignored gradient terms|DT VBN NN NNS|BODY_17|0
+a mesh )|DT NN -RRB-|BODY_10|0
+an explicit surface representation|DT JJ NN NN|BODY_5|0
+any one time|DT CD NN|BODY_6|0
+explicit functional solutions|JJ JJ NNS|BODY_1|0
+sion|NN|BODY_9|0
+this variational framework|DT JJ NN|BODY_4|0
+bounded surface regions|VBN NN NNS|BODY_9|0
+1.2 our approach|CD PRP$ NN|BODY_1|0
+1.3 outline|CD NN|BODY_1|0
+this generality|DT NN|BODY_1|0
+geometric quantities|JJ NNS|BODY_1|0
+a practical matter|DT JJ NN|BODY_1|0
+almost any nonlinear optimiza|RB DT JJ NN|BODY_1|0
+e interior|NN NN|BODY_5|0
+chew[6]|NNS|BODY_5|0
+an edge-collapse operation|DT JJ NN|BODY_5|0
+this polygonal neighborhood|DT JJ NN|BODY_10|0
+geometric fairness functional|JJ NN JJ|BODY_1|0
+the tool outline|DT NN NN|BODY_5|0
+free-form shape design|JJ NN NN|TITLE_1|0
+these meshes|DT NNS|BODY_1|0
+curve correspondence|NN NN|BODY_1|0
+a functional mini- mization|DT JJ NNS NN|BODY_9|0
+polynomial basis function|JJ NN NN|BODY_3|0
+section 3.1|NN CD|BODY_7|0
+the approach|DT NN|BODY_1|0
+their intersection curves|PRP$ NN NNS|BODY_7|0
+node separations|NN NNS|BODY_1|0
+variational free-form curves and surfaces|JJ NN NNS CC NNS|BODY_5|0
+'s other diagonal|POS JJ JJ|BODY_6|0
+each edge e test|DT NN NN NN|BODY_1|0
+the non-source edges|DT JJ NNS|BODY_1|0
+nice triangulations|JJ NNS|BODY_4|0
+our variational substrate|PRP$ JJ NN|BODY_4|0
+this separation|DT NN|BODY_1|0
+an automated join operation|DT VBN VB NN|BODY_3|0
+position|NN|BODY_7|0
+the full biquadratic fit ill-conditioned|DT JJ JJ NN JJ|BODY_5|0
+the red glow|DT JJ NN|BODY_1|0
+other aspects|JJ NNS|BODY_1|0
+an approximate dt.|DT JJ NN|BODY_8|0
+this minimization|DT NN|BODY_1|0
+arc-length[25]|NN|BODY_6|0
+some infinitely stretchy material|DT NN JJ NN|BODY_4|0
+the large|DT JJ|ABSTRACT_4|0
+4.1 smooth surface objective|CD JJ NN NN|BODY_1|0
+5.1 sample point distribution|CD NN NN NN|BODY_1|0
+5.2 sample point density|CD NN NN NN|BODY_1|0
+7 conclusion|CD NN|BODY_1|0
+7.2 future work control nets|CD NN NN NN NNS|BODY_1|0
+a geometric fairness functional based figure branching surface|DT JJ NN JJ VBN NN VBG NN|BODY_3|0
+a representation|DT NN|BODY_1|0
+no curve|DT NN|BODY_6|0
+our meshes|PRP$ NNS|BODY_1|0
+point-sampled curves|JJ NNS|BODY_5|0
+section 6|NN CD|BODY_1|0
+self-intersection|NN|BODY_5|0
+such a tool|JJ DT NN|BODY_1|0
+the following sections|DT JJ NNS|BODY_1|0
+the initial surface intersection|DT JJ NN NN|BODY_7|0
+the local scheme|DT JJ NN|BODY_8|0
+the resulting surface approximations|DT VBG NN NNS|BODY_1|0
+this point|DT NN|BODY_2|0
+valid surface triangulation|JJ NN NN|BODY_5|0
+each region|DT NN|BODY_6|0
+free-standing curves|JJ NNS|BODY_8|0
+the desired anchor nodes|DT VBN NN NNS|BODY_1|0
+these change|DT NN|BODY_1|0
+collapse|NN|BODY_8|0
+surface region|NN NN|BODY_9|0
+the polynomial basis functions|DT JJ NN NNS|BODY_7|0
+a shortcoming|DT NN|BODY_1|0
+the drawback|DT NN|BODY_1|0
+a unique minimum|DT JJ NN|BODY_6|0
+the neighborhood parameterization|DT NN NN|BODY_1|0
+the first edge e|DT JJ NN NN|BODY_1|0
+the quality|DT NN|BODY_1|0
+1000 )|CD -RRB-|BODY_1|0
+no actual surface|DT JJ NN|BODY_7|0
+particular|JJ|BODY_1|0
+such controllers|JJ NNS|BODY_1|0
+the local u|DT JJ NN|BODY_7|0
+any node|DT NN|BODY_1|0
+an ideal variational shape|DT JJ JJ NN|BODY_9|0
+one approach|CD NN|BODY_1|0
+particles|NNS|BODY_9|0
+principal curvatures|JJ NNS|BODY_5|0
+the channel|DT NN|BODY_16|0
+the linearization|DT NN|BODY_7|0
+the outline|DT NN|BODY_6|0
+the shape controller|DT NN NN|BODY_9|0
+those|DT|BODY_9|0
+the sample distribution and triangulation|DT NN NN CC NN|BODY_1|0
+arbitrary genus 2|JJ NN CD|BODY_7|0
+their initial configurations|PRP$ JJ NNS|BODY_8|0
+a sample point|DT NN NN|BODY_4|0
+the intersection|DT NN|BODY_10|0
+ two variational surfaces|DT CD JJ NNS|BODY_1|0
+one way|CD NN|BODY_1|0
+radially ordered neighbor relations|RB VBN NN NNS|BODY_5|0
+the surface interior|DT NN NN|BODY_10|0
+this we|DT PRP|BODY_1|0
+so|RB|BODY_1|0
+the dependency|DT NN|BODY_1|0
+embedded control curves|JJ NN NNS|BODY_12|0
+6.5 external shape controllers|CD JJ NN NNS|BODY_1|0
+curvature-adaptive sampling|JJ NN|BODY_1|0
+faired surfaces|JJ NNS|BODY_5|0
+interactive modelers[4,5,41,18]|JJ NN|BODY_2|0
+linear terms|JJ NNS|BODY_4|0
+manipulating gradients|NN NNS|BODY_1|0
+smooth surfaces|JJ NNS|BODY_1|0
+a ( not unpleasant ) side-effect|DT -LRB- RB JJ -RRB- NN|BODY_1|0
+a hazardous operation|DT JJ NN|BODY_2|0
+an important aspect|DT JJ NN|BODY_1|0
+future work|JJ NN|BODY_10|0
+lott and pullin [20]|NN CC NN NNS|BODY_1|0
+top|NN|BODY_1|0
+these approaches|DT NNS|BODY_1|0
+4.4 geometric constraints point and curve interpolation constraints|CD JJ NNS NN CC NN NN NNS|BODY_1|0
+a boundary or control curve|DT NN CC NN NN|BODY_4|0
+a common theme|DT JJ NN|BODY_1|0
+a crease|DT NN|BODY_1|0
+a uniform continuous distribution|DT JJ JJ NN|BODY_1|0
+an even distribution|DT RB NN|BODY_1|0
+the second fundamental form[32]|DT JJ JJ NN|BODY_8|0
+a fair way[4]|DT JJ NN|BODY_12|0
+other shaping tools|JJ VBG NNS|BODY_5|0
+a map|DT NN|BODY_1|0
+a 3d velocity vector|DT JJ NN NN|BODY_5|0
+oriented particles|VBN NNS|ABSTRACT_10|0
+the control curve|DT NN NN|BODY_7|0
+the underlying control shapes|DT JJ NN NNS|BODY_1|0
+this integration drift|DT NN NN|BODY_8|0
+this requirement|DT NN|BODY_1|0
+6.3|CD|BODY_1|0
+1300 nodes|CD NNS|BODY_1|0
+the boundary nodes and edges|DT NN NNS CC NNS|BODY_1|0

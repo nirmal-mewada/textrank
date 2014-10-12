@@ -1,0 +1,31 @@
+a simple disturbance cancellation robust controller|DT JJ NN NN JJ NN|BODY_2|0
+the feedback controller|DT NN NN|BODY_2|0
+a fuzzy control scheme|DT JJ NN NN|BODY_3|0
+operating conditions|VBG NNS|BODY_3|0
+system parameters|NN NNS|BODY_2|0
+the inverse model|DT NN NN|BODY_2|0
+2dof ) structure|CD -RRB- NN|BODY_3|0
+an inverse plant model|DT JJ NN NN|BODY_3|0
+a command feedforward controller|DT NN NN NN|BODY_2|0
+the desired tracking response|DT VBN NN NN|BODY_4|0
+the speed dynamic response|DT NN JJ NN|BODY_4|0
+two-degree-of-freedom|NN|BODY_2|0
+challenging owing|JJ NN|BODY_6|0
+srm drive|JJ NN|BODY_2|0
+fuzzy adapted inverse model quantitative and robust speed control|JJ VBN NN NN JJ CC JJ NN NN|BODY_3|0
+srm ) drive|JJ -RRB- NN|BODY_5|0
+a switched reluctance motor|DT VBN NN NN|BODY_4|0
+addition|NN|BODY_1|0
+the desired regulation control requirements|DT VBN NN NN NNS|BODY_3|0
+the proposed control scheme|DT JJ NN NN|BODY_1|0
+the tracking and regulation control performances|DT NN CC NN NN NNS|BODY_3|0
+the model-following tracking error|DT JJ NN NN|BODY_4|0
+the prescribed control specifications|DT JJ NN NNS|BODY_4|0
+the variations|DT NNS|BODY_1|0
+this|DT|BODY_1|0
+a reference model|DT NN NN|BODY_1|0
+a speed control scheme|DT NN NN NN|BODY_1|0
+an srm drive|DT JJ NN|BODY_5|0
+nominal case|JJ NN|BODY_5|0
+its highly nonlinear dynamic behavior|PRP$ RB JJ JJ NN|BODY_7|0
+quantitative speed control|JJ NN NN|BODY_1|0

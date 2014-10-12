@@ -1,0 +1,922 @@
+we|PRP|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+which|WDT|BODY_6:BODY_5:ABSTRACT_6:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_2:BODY_1:BODY_3:BODY_14:BODY_4:BODY_9|0
+vfnlib|NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+all computations|DT NNS|BODY_2:BODY_4|0
+a vector|DT NN|BODY_5:ABSTRACT_8:BODY_3:BODY_4|0
+they|PRP|BODY_6:ABSTRACT_4:ABSTRACT_8:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+one|CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the evaluation|DT NN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_4|0
+the cray|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+fnlib|NN|BODY_5:BODY_13:BODY_1:BODY_3:BODY_4|0
+arguments|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the convex|DT NN|BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_4|0
+each|DT|BODY_6:BODY_5:BODY_1:BODY_4|0
+cases|NNS|BODY_5:BODY_2|0
+it|PRP|BODY_2:BODY_1:BODY_9|0
+routines|NNS|BODY_5:BODY_3:BODY_7|0
+the result|DT NN|BODY_2:BODY_3:BODY_10:BODY_4|0
+the cray y-mp|DT NN NN|BODY_6:BODY_2:BODY_4|0
+example|NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+the sun|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+that|WDT|BODY_6:BODY_13:BODY_2:BODY_7|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3:BODY_8|0
+each function|DT NN|BODY_2:BODY_3:BODY_4|0
+the computation|DT NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+an array|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the codes|DT NNS|BODY_1:BODY_2:BODY_4|0
+x j|NN NN|BODY_2:BODY_3:BODY_7|0
+terms|NNS|BODY_3:BODY_4:BODY_7|0
+.e|NN|BODY_6:BODY_3:BODY_7|0
+a chebyshev series|DT NN NN|BODY_5:BODY_2|0
+the range|DT NN|BODY_2:BODY_3:BODY_8|0
+our implementation|PRP$ NN|BODY_2:BODY_4|0
+machines|NNS|ABSTRACT_6:BODY_3:BODY_4|0
+the vectorized codes|DT JJ NNS|BODY_2:BODY_3|0
+vectors|NNS|BODY_3:BODY_4:BODY_8|0
+the case|DT NN|BODY_2:BODY_10:BODY_7:ABSTRACT_9|0
+these operations|DT NNS|BODY_1:BODY_3|0
+bounds|NNS|BODY_2|0
+the convex and cray|DT NN CC NN|BODY_5:BODY_2|0
+there|EX|BODY_2:BODY_1|0
+chebyshev series|NN NN|BODY_5:BODY_2:BODY_7|0
+this way|DT NN|BODY_2:BODY_1|0
+the index|DT NN|BODY_2|0
+bessel functions|NNP NNS|BODY_5:ABSTRACT_4:BODY_7|0
+multiple arguments|JJ NNS|BODY_2:BODY_3:BODY_9|0
+the performance|DT NN|BODY_3:ABSTRACT_1:BODY_4|0
+the results|DT NNS|BODY_2:BODY_1:BODY_8|0
+the vectorization|DT NN|BODY_1:BODY_4|0
+performance|NN|BODY_2:BODY_7|0
+the error|DT NN|BODY_6:BODY_1:BODY_3|0
+the subprograms|DT NNS|BODY_3:BODY_7|0
+these cases|DT NNS|BODY_2:BODY_10|0
+single precision|JJ NN|BODY_2:BODY_7|0
+an argument|DT NN|BODY_5:BODY_3|0
+this statement|DT NN|BODY_1:BODY_2|0
+the speedups|DT NNS|BODY_6:BODY_2:BODY_1|0
+double precision versions|JJ NN NNS|BODY_2:BODY_1|0
+the series|DT NN|BODY_2:BODY_3|0
+such loops|JJ NNS|BODY_2|0
+software|NN|ABSTRACT_3:BODY_4|0
+)|-RRB-|BODY_2:BODY_10:BODY_4|0
+j 1|RB CD|BODY_3:BODY_9|0
+the package|DT NN|BODY_3|0
+loops|NNS|BODY_12:BODY_6|0
+length|NN|BODY_6:BODY_4|0
+the distribution|DT NN|BODY_2|0
+the development|DT NN|BODY_2|0
+these routines|DT NNS|BODY_5:BODY_1:BODY_2|0
+these functions|DT NNS|BODY_2:BODY_8|0
+evaluates|NNS|BODY_3:BODY_4|0
+this section|DT NN|BODY_2:BODY_3|0
+the loop|DT NN|BODY_5:BODY_2:BODY_1|0
+relative error|JJ NN|BODY_2:BODY_4|0
+the compiler|DT NN|BODY_5:BODY_4|0
+megaflops|NNS|BODY_3:BODY_4|0
+a scalar workstation|DT JJ NN|BODY_2:BODY_3|0
+g|NN|BODY_2:BODY_8|0
+table 5|NN CD|BODY_1:BODY_3:BODY_8|0
+2000 arguments|CD NNS|BODY_6:BODY_5|0
+several subintervals|JJ NNS|BODY_5:BODY_2|0
+fullerton|JJ|ABSTRACT_5:BODY_4|0
+functions|NNS|ABSTRACT_5:BODY_2|0
+length 2000|NN CD|BODY_6:BODY_4|0
+c-120 min|CD NN|BODY_21:BODY_19|0
+the original fnlib|DT JJ NN|BODY_5:BODY_4|0
+a fatal error message|DT JJ NN NN|BODY_2:BODY_3|0
+work|NN|BODY_3|0
+0|CD|BODY_15:BODY_4|0
+a set|DT NN|BODY_2:BODY_3|0
+the algorithm|DT NN|BODY_6:BODY_5|0
+the function|DT NN|BODY_5:BODY_2:BODY_9|0
+this case|DT NN|BODY_5:BODY_2|0
+x|NNP|BODY_6:BODY_3|0
+the portability|DT NN|BODY_2:BODY_3|0
+index compression|NN NN|BODY_3|0
+result|NN|BODY_6:BODY_2|0
+f|NN|BODY_2:BODY_3|0
+asymptotic performance|JJ NN|BODY_6:BODY_4|0
+conformance|NN|BODY_2|0
+standard|NN|BODY_2|0
+this range|DT NN|BODY_1:BODY_3|0
+boisvert@cam .nist.gov and saun- ders@cam .nist.gov|NN NN CC NNS NN NN|BODY_2|0
+other criteria|JJ NNS|BODY_2|0
+respectively alamos national laboratories|RB JJ JJ NNS|BODY_3|0
+speed and accuracy|NN CC NN|BODY_3|0
+the array work|DT NN NN|BODY_2|0
+the code|DT NN|BODY_3|0
+the gathering and scattering|DT NN CC NN|BODY_2|0
+vector elements|NN NNS|BODY_3|0
+fatal errors|JJ NNS|BODY_1:BODY_4|0
+m|NN|BODY_2|0
+the original code|DT JJ NN|BODY_2|0
+a contiguous vector|DT JJ NN|BODY_6:BODY_4|0
+such approximations|JJ NNS|BODY_2:BODY_1|0
+scalar time|JJ NN|BODY_12|0
+the convex c-120|DT NN NN|BODY_5:BODY_3|0
+vectorized software|VBN NN|TITLE_1:BODY_3|0
+an example|DT NN|BODY_1:BODY_2|0
+the machine epsilon|DT NN NN|BODY_6:BODY_13:BODY_9|0
+vector time|NN NN|BODY_13|0
+about 10 times|RB CD NNS|BODY_12:BODY_5|0
+the fnlib routines|DT NN NNS|BODY_3:BODY_4|0
+ convex|NNP NN|BODY_6:BODY_2|0
+these utilities|DT NNS|BODY_6:BODY_3|0
+correct number|JJ NN|BODY_5|0
+the imsl sfun/library [11]|DT JJ JJ NN|BODY_5|0
+these codes|DT NNS|BODY_2|0
+table 4|NN CD|BODY_2:BODY_1|0
+the new software|DT JJ NN|BODY_4:ABSTRACT_7|0
+n|NN|BODY_3|0
+these figures|DT NNS|BODY_2|0
+, not|, RB|BODY_5|0
+standards|NNS|BODY_3|0
+errors|NNS|BODY_1:BODY_3|0
+the current machine|DT JJ NN|BODY_3|0
+40 and 333 megaflops|CD CC CD NNS|BODY_3|0
+several well-known libraries|JJ JJ NNS|BODY_4|0
+their way|PRP$ NN|BODY_3|0
+min 16.2 15.3 14.5 13.9 20.8 20.9 14.8 14.9 ave 17.8 16.8 16.0 15.3 21.5 21.6 19.6 19.8 ways|NN CD CD CD CD CD CD CD CD JJ CD CD CD CD CD CD CD CD NNS|BODY_24|0
+each case|DT NN|BODY_1:BODY_3|0
+1|CD|BODY_5:BODY_1|0
+copyright|NN|BODY_6|0
+the national institute|DT JJ NN|BODY_2|0
+any result underflows|DT NN NNS|BODY_2|0
+( 3 ) vectorization|-LRB- CD -RRB- NN|BODY_8|0
+improving performance|VBG NN|BODY_2|0
+three separate computer systems|CD JJ NN NNS|BODY_2|0
+unicos 6.0)|NNS NN|BODY_12|0
+31 digits|CD NNS|BODY_5|0
+the basic design|DT JJ NN|BODY_3:BODY_9|0
+( 1 ) reduction|-LRB- CD -RRB- NN|BODY_3|0
+phases|NNS|BODY_7|0
+three|CD|BODY_5:BODY_4|0
+national institute|JJ NN|BODY_9|0
+the sun sparcstation 1+|DT NN NN NNS|BODY_2|0
+real argument and integer order|JJ NN CC NN NN|BODY_11:BODY_3|0
+cray y-mp2/216|NN NNS|BODY_11|0
+sun sparcstation|NN NN|BODY_3|0
+single precision routines|JJ NN NNS|BODY_4|0
+appropriate locations|JJ NNS|BODY_7|0
+mathematics laboratory|NNS NN|BODY_8|0
+operations 1 , 2|NNS CD , CD|BODY_6|0
+performs|NNS|BODY_3|0
+the input vector|DT NN NN|BODY_5:BODY_3|0
+these tests|DT NNS|BODY_2:BODY_7|0
+the arguments|DT NNS|BODY_8|0
+operation|NN|BODY_2|0
+any argument|DT NN|BODY_2|0
+volume 4|NN CD|BODY_11|0
+the elements|DT NNS|BODY_3|0
+from 13|IN CD|BODY_2|0
+no apparent period|DT JJ NN|BODY_5|0
+the n indices|DT NN NNS|BODY_3|0
+lower-level routines|JJ NNS|BODY_5:BODY_4|0
+a fatal error|DT JJ NN|BODY_3|0
+the advantage|DT NN|BODY_1:BODY_4|0
+non-ans|NNS|BODY_5|0
+convex c-120|NN CD|BODY_6|0
+vectorized chebyshev series evaluation|JJ NN NN NN|BODY_4|0
+an array indx|DT NN NN|BODY_2|0
+return results|VB NNS|BODY_8|0
+simply 2.75|RB CD|BODY_3|0
+the approximation|DT NN|BODY_1|0
+the chebyshev series sum|DT NN NN NN|BODY_4|0
+these arguments|DT NNS|BODY_2|0
+other function routines|JJ NN NNS|BODY_2|0
+e.g|NN|BODY_3|0
+i|NN|BODY_6:BODY_3|0
+22 percent|CD NN|BODY_7|0
+sun sparcstation 1+|NN NN NNS|BODY_5|0
+veclib ave 7.9 7.9 7.3 6.6 9.8 9.6 9.2 8.6 max 8.8 8.2 7.6 7.0 10.9 10.4 10.3 9.7 cray|NN JJ CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN|BODY_23|0
+the one|DT NN|BODY_4|0
+( 2 ) vectorization|-LRB- CD -RRB- NN|BODY_5|0
+the bessel functions|DT NNP NNS|BODY_10:BODY_7|0
+the corresponding function value|DT JJ NN NN|BODY_3|0
+the single precision codes|DT JJ NN NNS|BODY_4|0
+the slow loop|DT JJ NN|BODY_2|0
+7|CD|BODY_6|0
+iwork|NN|BODY_1:BODY_4|0
+the corresponding linpack benchmark|DT JJ NN NN|BODY_4|0
+b )|NN -RRB-|BODY_4|0
+the observed rate|DT JJ NN|BODY_3|0
+out-of-range test|JJ NN|BODY_2|0
+the array|DT NN|BODY_6:BODY_3:BODY_7|0
+technology ( nist )|NN -LRB- NN -RRB-|BODY_4|0
+times|NNS|BODY_4|0
+wgtle( m,x,a,b,n,indx)|JJ NN|BODY_5|0
+the same size|DT JJ NN|BODY_2|0
+the vector codes|DT NN NNS|BODY_2:BODY_9|0
+them|PRP|BODY_6|0
+6.2 7.5 6.6 5.8 8.2 9.1 8.6 8.0|CD CD CD CD CD CD CD CD|BODY_22|0
+a suite|DT NN|ABSTRACT_1:BODY_7|0
+25 mhz weitek 3172-based fpu|CD NN NN JJ NN|BODY_5|0
+4.2 release 9.0) using convex fc version v6.1|CD NN JJ VBG NN JJ NN NNS|BODY_9|0
+the break-even point|DT JJ NN|BODY_1:BODY_7|0
+sufficient accuracy|JJ NN|BODY_2|0
+idwcs|NNS|BODY_2|0
+significant performance degradation|JJ NN NN|BODY_5|0
+zero|CD|BODY_4|0
+all required chebyshev expansions|DT VBN NN NNS|BODY_2|0
+mathematical software|JJ NN|BODY_10|0
+the ratio|DT NN|BODY_3|0
+b2|NNS|BODY_2|0
+the input|DT NN|BODY_8|0
+pre|NN|BODY_6|0
+subprogram call|NN NN|BODY_4|0
+maximum speedups|JJ NNS|BODY_3|0
+( option -o2 )|-LRB- NN NN -RRB-|BODY_10|0
+( sun 4|-LRB- NN CD|BODY_4|0
+fnlib fnlib|NN NN|BODY_2|0
+1:0 \theta 10 \gamma28|CD NN CD CD|BODY_8|0
+a substantial collection|DT JJ NN|BODY_3|0
+behavior|NN|BODY_1|0
+existing software|JJ NN|BODY_5|0
+16 digits|CD NNS|BODY_3|0
+( b|-LRB- NN|BODY_1:ABSTRACT_7|0
+1.2 1.2 1.4 1.2 1.3 1.4 1.6 1.5 convex|CD CD CD CD CD CD CD CD NN|BODY_18|0
+1.3.1 ( options -fast -o3 )|CD -LRB- NNS NN NNS -RRB-|BODY_7|0
+' addresses|POS NNS|BODY_6|0
+internal vector lengths|JJ NN NNS|BODY_4|0
+zeros|NNS|BODY_4|0
+a discussion|DT NN|BODY_3|0
+the absolute values|DT JJ NNS|BODY_4|0
+22|CD|BODY_3|0
+the first occurence|DT JJ NN|BODY_3|0
+the first offending argument|DT JJ NN NN|BODY_3|0
+computing|NN|BODY_7|0
+convex c-120 ( convex unix|NN CD -LRB- NN NN|BODY_8|0
+sun|NN|BODY_6|0
+large arguments|JJ NNS|BODY_1:BODY_2|0
+a nonzero return code info.|DT JJ NN NN NN|BODY_2|0
+error conditions|NN NNS|BODY_1|0
+fatal error table 2|JJ NN NN CD|BODY_1|0
+fnlib routines 1|NN NNS CD|BODY_2|0
+form or interval|NN CC NN|BODY_2|0
+i1mach returns integer machine constants|IN NNS NN NN NNS|BODY_2|0
+input argument|NN NN|BODY_1|0
+internal vfnlib subprograms|JJ NN NNS|BODY_2|0
+recipe|NN|BODY_1|0
+resultant vector|NN NN|BODY_2|0
+scatter results|JJR NNS|BODY_1|0
+seteru|NN|BODY_1|0
+statements|NNS|BODY_2|0
+store chebyshev coefficients|NN NN NNS|BODY_1|0
+the 20 loop|DT CD NN|BODY_1|0
+the argument|DT NN|BODY_1|0
+the argument array|DT NN NN|BODY_2|0
+the interval [-1,1]|DT NN NN|BODY_2|0
+the series value|DT NN NN|BODY_1|0
+the subprograms csevl and wcs|DT NNS NN CC NNS|BODY_1|0
+this purpose|DT NN|BODY_2|0
+validity|NN|BODY_2|0
+work and iwork|NN CC NN|BODY_1|0
+workspace arrays|NN NNS|BODY_2|0
+addition|NN|BODY_7|0
+work arrays|NN NNS|BODY_3|0
+appropriate compiler options|JJ NN NNS|BODY_4|0
+the precision|DT NN|BODY_4|0
+the third column|DT JJ NN|BODY_3|0
+bank conflicts|NN NNS|BODY_4|0
+cent|NN|BODY_7|0
+a series|DT NN|BODY_2|0
+1+ min|CD NN|BODY_16|0
+veclib chebyshev series evaluation|NN NN NN NN|BODY_6|0
+extended precision|JJ NN|BODY_10|0
+57.7 22.8 34.8 pre|CD CD CD NN|BODY_7|0
+a loop|DT NN|BODY_3|0
+vfnlib routines|NN NNS|BODY_7|0
+post-|NNS|BODY_8|0
+dvj0|NN|BODY_2|0
+dvk0|NN|BODY_2|0
+dvy0|NN|BODY_2|0
+the same chebyshev series|DT JJ NN NN|BODY_2|0
+vk1 dvk1|CD NNS|BODY_2|0
+vy1 dvy1|CD NNS|BODY_2|0
+besj0 , besj1 , besk0 , besk1 , besy0 and besy1|CD , CD , CD , CD , CD CC RB|BODY_4|0
+the number|DT NN|BODY_5|0
+( 2|-LRB- LS|BODY_3|0
+commercial products|JJ NNS|BODY_2|0
+12.1 10.2 15.8 index compression|CD CD CD NN NN|BODY_9|0
+a simpler , vectorizable loop|DT JJR , JJ NN|BODY_4|0
+the fnlib|DT NN|BODY_6|0
+the construction|DT NN|BODY_2|0
+single double description|JJ JJ NN|BODY_1|0
+the vector x j|DT NN NN NN|BODY_4|0
+those|DT|BODY_9|0
+these programs|DT NNS|ABSTRACT_2|0
+these things|DT NNS|BODY_2|0
+no result|DT NN|BODY_6|0
+number|NN|BODY_3|0
+operation counts|NN NNS|BODY_4|0
+these indices|DT NNS|BODY_5|0
+experiments|NNS|BODY_3|0
+coefficients|NNS|BODY_6:BODY_1|0
+two argument subranges|CD NN NNS|BODY_3|0
+table 6 show|NN CD NN|BODY_2|0
+the required function value|DT VBN NN NN|BODY_5|0
+greater than ( or less|JJR IN -LRB- CC JJR|BODY_8|0
+purely experimental means|RB JJ NNS|BODY_2|0
+various activities activity cray convex convex|JJ NNS NN NN NN NN|BODY_5|0
+this behavior|DT NN|BODY_2|0
+utility operations|NN NNS|BODY_2|0
+1.0 1.0 1.1 1.1 1.0 1.0 1.2 1.2 ave 1.1 1.1 1.2 1.2 1.2 1.2 1.3 1.3 max|CD CD CD CD CD CD CD CD JJ CD CD CD CD CD CD CD CD NN|BODY_17|0
+comparison|NN|BODY_4|0
+repeated calls|VBN NNS|BODY_7|0
+relative accuracy|JJ NN|BODY_5|0
+underflowed results|JJ NNS|BODY_2|0
+vi0|CD|BODY_4|0
+a large argument|DT JJ NN|BODY_5|0
+the sine or cosine|DT NN CC NN|BODY_4|0
+a(x)g(y )|NN -RRB-|BODY_11|0
+the appropriate positions|DT JJ NNS|BODY_5|0
+20.0 50.2 20.2 gather/scatter 5.2 9.7 17.9 table 7|CD CD CD NN CD CD CD NN CD|BODY_10|0
+clear|JJ|BODY_8|0
+a 20 %|DT CD NN|BODY_3|0
+the sum|DT NN|BODY_3|0
+wle( m,x,b,n,indx)|JJ NN|BODY_4|0
+scalar codes|NN NNS|BODY_9|0
+the index compression|DT NN NN|BODY_5|0
+warnings|NNS|BODY_1|0
+x , ff , fi , fl , and f become vectors|NN , NN , JJ , JJ , CC NN VBN NNS|BODY_10|0
+nist. y authors|DT NN NNS|BODY_5|0
+the second a vector minisupercomputer|DT JJ DT NN NN|BODY_3|0
+vector codes|NN NNS|BODY_6|0
+the vfnlib routines|DT NN NNS|BODY_2|0
+both sets|DT NNS|BODY_2|0
+0 i 1 j sun|CD NN CD NN NN|BODY_15|0
+all subsidiary routines|DT NN NNS|BODY_2|0
+the chief motivation|DT JJ NN|BODY_2|0
+csevl|JJ|BODY_3|0
+j 0|RB CD|BODY_3|0
+k 0|NN CD|BODY_3|0
+k 1|NN CD|BODY_3|0
+y 0|RB CD|BODY_3|0
+y 1|RB CD|BODY_3|0
+its performance|PRP$ NN|BODY_5|0
+orders zero and one|NNS CD CC CD|BODY_10|0
+i 1|IN CD|BODY_2|0
+elements|NNS|BODY_4|0
+the acm transactions|DT NN NNS|BODY_9|0
+the zeros|DT NNS|BODY_7|0
+info|NN|BODY_2:BODY_1|0
+section 5.1|NN CD|BODY_4|0
+vj1 dvj1|CD NNS|BODY_2|0
+the routines|DT NNS|BODY_3|0
+corresponding fnlib routines|JJ NN NNS|BODY_8|0
+real argument|JJ NN|BODY_9|0
+short vector break-even point ( vector machine|JJ NN JJ NN -LRB- NN NN|BODY_2|0
+the two differ|DT CD VBP|BODY_7|0
+approximation|NN|BODY_2|0
+the vector y|DT NN NN|BODY_5|0
+short vector speedups|JJ NN NNS|BODY_11|0
+0 i 1 j sun sparc|CD IN CD NN NN NN|BODY_3|0
+only one|JJ CD|BODY_6|0
+fnlib codes|JJ NNS|BODY_2|0
+ibm pcs|JJ NNS|BODY_4|0
+the possibility|DT NN|BODY_3|0
+full bessel function evaluation decline|JJ NN NN NN NN|BODY_5|0
+these|DT|BODY_1|0
+the length|DT NN|BODY_2|0
+cosine|NN|BODY_4|0
+25 % improvement|CD NN NN|BODY_4|0
+recommendation or endorsement|NN CC NN|BODY_4|0
+a single series|DT JJ NN|BODY_2|0
+) machine i|-RRB- NN NN|BODY_14|0
+wayne|NN|BODY_6|0
+the normal use|DT JJ NN|BODY_4|0
+( a|-LRB- DT|ABSTRACT_3|0
+asymptotic speedups|JJ NNS|BODY_11|0
+three temporary vectors|CD JJ NNS|BODY_5|0
+use|NN|BODY_4|0
+a(x)g ( '( x|NN -LRB- JJ NN|BODY_3|0
+0 i 1 j scalar|CD NN CD NN JJ|BODY_9|0
+the cyber 205 compiler|DT NN CD NN|BODY_5|0
+an error condition|DT NN NN|BODY_3|0
+the following statement|DT VBG NN|BODY_5|0
+a and|DT CC|BODY_5|0
+the entries|DT NNS|BODY_2|0
+what|WP|BODY_9|0
+an infinite number|DT JJ NN|BODY_3|0
+2|CD|BODY_3|0
+the functions j|DT NNS NN|BODY_3|0
+9.0 8.7 10.6 10.4 7.8 8.0 9.1 9.0 vector 148.7 142.4 164.5 160.9 162.8 159.3 172.0 170.0 table 5|CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN CD|BODY_10|0
+the machine precision|DT NN NN|BODY_3:BODY_7|0
+the three systems|DT CD NNS|BODY_3|0
+key=0|NN|BODY_2|0
+multiple chebyshev series evaluation|JJ NN NN NN|BODY_2|0
+our collection|PRP$ NN|BODY_16|0
+the badly vectorized loops|DT RB VBN NNS|BODY_6|0
+nearby zero|RB CD|BODY_5|0
+vfn- routines|NNS NNS|BODY_5|0
+a three-term linear recurrence|DT JJ NN NN|BODY_2|0
+the first call|DT JJ NN|BODY_2|0
+the inverse|DT NN|BODY_2|0
+the recurrence loop|DT NN NN|BODY_15|0
+the vast majority|DT JJ NN|BODY_2|0
+absolute difference|JJ NN|BODY_4|0
+function values|NN NNS|BODY_2|0
+these systems|DT NNS|BODY_3|0
+note|NN|BODY_4|0
+fortran-callable utilities|JJ NNS|BODY_2|0
+table 1|NN CD|BODY_1:BODY_4|0
+vector registers|NN NNS|BODY_9|0
+the neighborhood|DT NN|BODY_6|0
+the above algorithm|DT JJ NN|BODY_3|0
+nti0|NN|BODY_4|0
+an n-term chebyshev series|DT JJ NN NN|BODY_2|0
+the percent time|DT NN NN|BODY_3|0
+convex|NN|BODY_6|0
+the vector code|DT NN NN|BODY_2|0
+the following bessel functions|DT VBG NNP NNS|BODY_8|0
+techniques|NNS|BODY_4|0
+the basis|DT NN|BODY_3|0
+special versions|JJ NNS|BODY_3|0
+12 cray|CD NN|BODY_4|0
+minimum , average|NN , NN|BODY_2|0
+our codes|PRP$ NNS|BODY_11|0
+the overall performance|DT JJ NN|BODY_5|0
+these operations table percent time|DT NNS NN NN NN|BODY_3|0
+the the index compression|DT DT NN NN|BODY_5|0
+the most efficient implementation|DT RBS JJ NN|BODY_5|0
+such errors|JJ NNS|BODY_2|0
+the los|DT NNS|BODY_7|0
+none|NN|BODY_4|0
+our first goal|PRP$ JJ NN|BODY_6|0
+no more than five times|DT JJR IN CD NNS|BODY_8|0
+input arguments|NN NNS|BODY_3|0
+a vectorizing compiler|DT NN NN|BODY_3|0
+the core|DT NN|BODY_4|0
+approximately 23,000 arguments|RB CD NNS|BODY_6|0
+single double vi0|JJ JJ NN|BODY_2|0
+7 1.8 2.9 cray|CD CD CD NN|BODY_7|0
+the fnlib package|DT JJ NN|BODY_5|0
+table 8|NN CD|BODY_1|0
+chebyshev series coefficients|NN NN NNS|BODY_3|0
+single double wi0|JJ JJ NN|BODY_2|0
+the chebyshev series|DT NN NN|BODY_3|0
+the measured asymptotic computation rate|DT JJ JJ NN NN|BODY_2|0
+a loss|DT NN|BODY_4|0
+scalar vector sun sparc|JJ NN NN NN|BODY_6|0
+all assignments|DT NNS|BODY_11|0
+computation rates|NN NNS|BODY_4|0
+easy customization|JJ NN|BODY_4|0
+improper user input|JJ NN NN|BODY_3|0
+the gather/scatter operations|DT NN NNS|BODY_3|0
+fnlib and vfnlib|NN CC NN|BODY_3|0
+its fnlib counterpart|PRP$ JJ NN|BODY_5|0
+the first index|DT JJ NN|BODY_2|0
+a single chebyshev series|DT JJ NN NN|BODY_5|0
+fnlib routines|NN NNS|BODY_2|0
+the absolute error|DT JJ NN|BODY_11|0
+vector processors|NN NNS|BODY_6|0
+scatter loops|NN NNS|BODY_6|0
+improved computation rates|VBN NN NNS|BODY_5|0
+these and other special functions|DT CC JJ JJ NNS|BODY_4|0
+veclib |JJ|BODY_3:BODY_7|0
+the basic algorithms|DT JJ NNS|BODY_12|0
+more than 10 years|JJR IN CD NNS|BODY_3|0
+the most commonly occurring special functions|DT RBS RB VBG JJ NNS|BODY_4|0
+portability|NN|BODY_1:BODY_7|0
+chebyshev series evaluation ( megaflops ) machine terms|NN NN NN -LRB- NNS -RRB- NN NNS|BODY_5|0
+cleanup|NN|BODY_2|0
+77|CD|BODY_3|0
+all coding|DT NN|BODY_1|0
+ansi x3.9-1978|DT CD|BODY_3|0
+each case available options|DT NN JJ NNS|BODY_1|0
+the third a 2-processor vector supercomputer|DT JJ DT JJ NN NN|BODY_4|0
+the subprograms wngt(m,x,a,key )|DT NNS NN -RRB-|BODY_2|0
+respect to three criteria|NN TO CD NNS|BODY_5|0
+the fnlib collection|DT NN NN|ABSTRACT_4|0
+most software libraries|RBS NN NNS|BODY_6|0
+a significantly larger percentage|DT RB JJR NN|BODY_4|0
+many algorithms|JJ NNS|BODY_4|0
+the sun and convex|DT NN CC NN|BODY_3|0
+applied mathematics|VBN NNS|BODY_5|0
+next|JJ|BODY_2|0
+the prospect|DT NN|BODY_4|0
+this transformation|DT NN|BODY_3|0
+both fnlib and vfnlib|DT NN CC NN|BODY_7|0
+five thousand arguments|CD CD NNS|BODY_5|0
+this overhead|DT NN|BODY_3|0
+a straightforward fortran implementation|DT JJ JJ NN|BODY_2|0
+many well-known properties|JJ JJ NNS|BODY_2|0
+the use|DT NN|BODY_4|0
+a single range|DT JJ NN|BODY_4|0
+all arguments|DT NNS|BODY_3|0
+many standard fortran math functions|JJ JJ JJ NN NNS|BODY_4|0
+portable vectorized routines|JJ JJ NNS|BODY_7|0
+y-mp2 20 12.7 182.1|NNP CD CD CD|BODY_8|0
+within a factor|IN DT NN|BODY_5|0
+6 conclusion|CD NN|BODY_5|0
+algorithms and software|NNS CC NN|BODY_3|0
+chebyshev coefficients c|NN NNS NN|BODY_3|0
+10 times|CD NNS|BODY_6|0
+the vector length|DT NN NN|BODY_2|0
+the most likely|DT RBS JJ|BODY_2|0
+an error handler|DT NN NN|BODY_4|0
+the new programs|DT JJ NNS|ABSTRACT_2|0
+the input arguments|DT NN NNS|BODY_2|0
+together applicable arguments|RB JJ NNS|BODY_3|0
+the corresponding positions|DT JJ NNS|BODY_2|0
+our code|PRP$ NN|BODY_2|0
+the following vector version|DT VBG NN NN|BODY_2|0
+a level|DT NN|BODY_4|0
+range|NN|BODY_6|0
+follows|VBZ|BODY_6:BODY_3|0
+orders|NNS|ABSTRACT_6|0
+users|NNS|BODY_2|0
+the the improved scalar/vector speedups|DT DT VBN NN NNS|BODY_5|0
+any way|DT NN|BODY_3|0
+a given argument range|DT VBN NN NN|BODY_7|0
+19 different sets|CD JJ NNS|BODY_4|0
+only a small portion|RB DT JJ NN|BODY_3|0
+zero and one|CD CC CD|ABSTRACT_7|0
+that use|DT NN|BODY_5|0
+the user interface|DT NN NN|BODY_3|0
+simple gather|JJ VBP|BODY_5|0
+the compilers|DT NNS|BODY_2|0
+the computation rate|DT NN NN|BODY_3|0
+an error return code parameter|DT NN NN NN NN|BODY_2|0
+four|CD|BODY_4|0
+our software|PRP$ NN|BODY_6|0
+) machine length|-RRB- NN NN|BODY_14|0
+standard fortran|JJ NN|BODY_3|0
+a more reason-able distribution|DT RBR JJ NN|BODY_2|0
+accuracy , efficiency|NN , NN|BODY_6|0
+drivers|NNS|BODY_2|0
+advantage|NN|BODY_5|0
+cray y-mp ( megaflops ) function i|NN NN -LRB- NNS -RRB- NN NN|BODY_8|0
+the section|DT NN|BODY_5|0
+a separate procedure|DT JJ NN|BODY_2|0
+the inner loop |DT JJ NN|BODY_5|0
+effective vectorization|JJ NN|BODY_8|0
+these very operations|DT JJ NNS|BODY_3|0
+the algorithms|DT NNS|BODY_7|0
+all error messages|DT NN NNS|BODY_3|0
+last term|JJ NN|BODY_1|0
+modified versions|VBN NNS|BODY_2|0
+the subroutine evaluating i 0|DT NN VBG NN CD|BODY_4|0
+the functions|DT NNS|BODY_6|0
+time|NN|BODY_5|0
+m arguments|JJ NNS|BODY_2|0
+n arguments|RB NNS|BODY_5|0
+attests|NNS|BODY_7|0
+our computation|PRP$ NN|BODY_6|0
+a vectorization|DT NN|BODY_3|0
+info ) x|NN -RRB- SYM|BODY_5|0
+one processor|CD NN|BODY_6|0
+more|JJR|BODY_3|0
+the effect|DT NN|BODY_2|0
+multiple function evaluations|JJ NN NNS|BODY_6:ABSTRACT_10|0
+both single precision|DT JJ NN|BODY_1|0
+each subprogram|DT NN|BODY_3|0
+most codes|JJS NNS|BODY_2|0
+a modification|DT NN|BODY_2|0
+three or four )|CD CC CD -RRB-|BODY_3|0
+the last bit|DT JJ NN|BODY_3|0
+a subset|DT NN|BODY_4|0
+the success|DT NN|BODY_8|0
+a short description|DT JJ NN|BODY_2|0
+low-level utilities|JJ NNS|BODY_4|0
+computer programs|NN NNS|ABSTRACT_2|0
+most cases|JJS NNS|BODY_5:BODY_1|0
+many machines|JJ NNS|BODY_4|0
+'|POS|BODY_6|0
+portable fortran subprograms|JJ JJ NNS|BODY_8|0
+the array y|DT NN NN|BODY_3|0
+new user-callable versions|JJ JJ NNS|BODY_2|0
+the scalar algorithm|DT NN NN|BODY_5|0
+something|NN|BODY_6|0
+19 different table 4|CD JJ NN CD|BODY_5|0
+the speedup|DT NN|BODY_4|0
+length m|NN NN|BODY_2|0
+very large magnitude table 3|RB JJ NN NN CD|BODY_3|0
+four vectors|CD NNS|BODY_7|0
+the three machines|DT CD NNS|BODY_3|0
+any element|DT NN|BODY_4|0
+an execution profile|DT NN NN|BODY_3|0
+the techniques|DT NNS|BODY_5|0
+fortran-callable subprograms|JJ NNS|BODY_4|0
+the total number|DT JJ NN|BODY_4|0
+the above design|DT JJ NN|BODY_6|0
+the testing|DT NN|BODY_3|0
+table 3 are 1.6 , 12.5|NN CD VBP CD , CD|BODY_3|0
+the vfnlib codes|DT NN NNS|BODY_6|0
+the innermost loop|DT JJ NN|BODY_1:BODY_2|0
+the m arguments|DT NN NNS|BODY_7|0
+the most successful collections|DT RBS JJ NNS|BODY_2|0
+a given range need|DT VBN NN NN|BODY_2|0
+many other fnlib routines|JJ JJ NN NNS|BODY_3:BODY_8|0
+evaluation|NN|BODY_8|0
+function evaluation routines|NN NN NNS|BODY_2|0
+series evaluation|NN NN|BODY_3|0
+a wide range|DT JJ NN|ABSTRACT_5|0
+possible input arguments|JJ NN NNS|BODY_4|0
+the user-callable fortran subprograms|DT JJ NN NNS|BODY_2|0
+4.4|CD|BODY_4|0
+a vector environment|DT NN NN|BODY_14|0
+14.3|CD|BODY_4|0
+the most important features|DT RBS JJ NNS|BODY_2|0
+the penalty|DT NN|BODY_2|0
+the software|DT NN|BODY_4|0
+the new routines|DT JJ NNS|BODY_1|0
+'s utilities|POS NNS|BODY_3|0
+the scalar and vector codes|DT JJ CC NN NNS|BODY_2|0
+this functionality|DT NN|BODY_6|0
+various issues|JJ NNS|BODY_3|0
+a single loop|DT JJ NN|BODY_4|0
+both|DT|BODY_2|0
+subprograms|NNS|BODY_4|0
+the minimax sense|DT NN NN|BODY_5|0
+the work arrays|DT NN NNS|BODY_4|0
+the vector|DT NN|BODY_6|0
+1 j 20 1.2 1.0 1.0 1.2 1.2 1.2 1.1 1.2 20 1.8 1.8 1.8 1.6 2.2 2.3 2.0 2.2 cray|CD RB CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD NN|BODY_16|0
+the scalar codes|DT JJ NNS|BODY_3|0
+9.6|CD|BODY_5|0
+more than half the time|JJR IN PDT DT NN|BODY_2|0
+7-14|CD|BODY_6|0
+each argument range|DT NN NN|BODY_1|0
+more than half the computation|JJR IN PDT DT NN|BODY_5|0
+electronic mail|JJ NN|BODY_1|0
+other data|JJ NNS|BODY_4|0
+overhead|NN|BODY_1|0
+some cases|DT NNS|BODY_1|0
+the exception|DT NN|BODY_1|0
+the late 1970s [10]|DT JJ CD NN|BODY_4|0
+the primary criteria|DT JJ NNS|BODY_4|0
+various error checks|JJ NN NNS|BODY_4|0
+7-11|CD|BODY_4|0
+five times|CD NNS|BODY_5|0
+( y .le. 3.0)|-LRB- NN NN NN|BODY_1|0
+a result|DT NN|BODY_4|0
+accurate argument reduction|JJ NN NN|BODY_6|0
+one particular argument range|CD JJ NN NN|BODY_3|0
+6.5 and 90 megaflops|CD CC CD NNS|BODY_5|0
+contribution|NN|BODY_1|0
+the united states|DT VBN NNS|BODY_7|0
+the slatec common math library [2]|DT NN JJ NN NN NN|BODY_6|0
+versions|NNS|BODY_1|0
+chebyshev series evaluation|NN NN NN|BODY_9|0
+three opportunities|CD NNS|BODY_1|0
+cf77|NNS|BODY_13|0
+double precision routines|JJ NN NNS|BODY_6|0
+this code|DT NN|BODY_1|0
+no results|DT NNS|BODY_4|0
+standards and technology , gaithersburg , md 20899|NNS CC NN , NN , JJ CD|BODY_10|0
+( d)vi0|-LRB- NN|BODY_5|0
+( d)vi1|-LRB- NN|BODY_3|0
+( d)vj0|-LRB- NN|BODY_3|0
+( d)vj1|-LRB- NN|BODY_3|0
+( d)vk0|-LRB- NN|BODY_3|0
+( d)vk1|-LRB- NN|BODY_3|0
+( d)vy0|-LRB- NN|BODY_3|0
+( d)vy1|-LRB- NN|BODY_3|0
+dwi1|NNS|BODY_1|0
+wj0 dwj0|DT NN|BODY_1|0
+wj1 dwj1|CD NNS|BODY_1|0
+wk0 dwk0|DT NN|BODY_1|0
+wk1 dwk1|CD NNS|BODY_1|0
+wy0 dwy0|DT NN|BODY_1|0
+wy1 dwy1|CD NNS|BODY_1|0
+initialization|NN|BODY_3|0
+the function argument|DT NN NN|BODY_1|0
+the port machine constants|DT NN NN NNS|BODY_1|0
+the|DT|BODY_1|0
+wgtle|NN|BODY_1|0
+such problems|JJ NNS|BODY_1|0
+cray y-mp2|NN NNS|BODY_7|0
+the utility|DT NN|BODY_5|0
+vector mode|NN NN|BODY_3|0
+raw chebyshev series evaluation|JJ NN NN NN|BODY_8|0
+multiple function evaluation|JJ NN NN|BODY_5|0
+three different argument ranges|CD JJ NN NNS|BODY_25|0
+2 design|CD NN|BODY_1|0
+a warning|DT NN|BODY_1|0
+3 above|CD JJ|BODY_7|0
+the output vector|DT NN NN|BODY_8|0
+light|NN|BODY_1|0
+expansion coefficients|NN NNS|BODY_6|0
+r1mach d1mach conditions|JJ NN NNS|BODY_1|0
+the presentation|DT NN|BODY_3|0
+each computer|DT NN|BODY_5|0
+. 456-469|. CD|BODY_12|0
+function zeros|NN NNS|BODY_2|0
+b0|CD|BODY_1|0
+the output vector f|DT NN NN NN|BODY_9|0
+such a strategy|PDT DT NN|BODY_6|0
+speedups|NNS|BODY_1|0
+mathematica [12]|NN NN|BODY_11|0
+efficiency|NN|BODY_1|0
+constructs|NNS|BODY_6|0
+csevl dcsevl|JJ NN|BODY_1|0
+if|IN|BODY_6|0
+a given range|DT VBN NN|BODY_9|0
+this problem|DT NN|BODY_6|0
+the table|DT NN|BODY_5|0
+the corresponding fnlib routines|DT JJ NN NNS|BODY_9|0
+20 above|CD JJ|BODY_5|0
+the discarded coefficients|DT VBN NNS|BODY_5|0
+modest speedups|JJ NNS|BODY_1|0
+15 and 182|CD CC CD|BODY_6|0
+the theoretical peak rate|DT JJ NN NN|BODY_1|0
+the basic formula|DT JJ NN|BODY_1|0
+besj1 dbesj1|CD NNS|BODY_1|0
+besk0|CD|BODY_1|0
+besk1 dbesk1|CD NNS|BODY_1|0
+besy0|CD|BODY_1|0
+dbesi1|NNS|BODY_1|0
+wcs|NNS|BODY_1|0
+memory references|NN NNS|BODY_5|0
+distinguishing characteristics|VBG NNS|ABSTRACT_1|0
+( ( y .gt. xsml)|-LRB- -LRB- NN NNP NNP|BODY_7|0
+e.g.|FW|BODY_5|0
+3.3 vectorization|CD NN|BODY_1|0
+two notable exceptions|CD JJ NNS|BODY_1|0
+x )|NNP -RRB-|BODY_1|0
+table 6|NN CD|BODY_4|0
+the first two columns|DT JJ CD NNS|BODY_1|0
+a return code|DT NN NN|BODY_2|0
+a diagnostic|DT JJ|BODY_4|0
+iwork( 1 )|NN CD -RRB-|BODY_4|0
+4.4 5.2 5.5 4.6 7.6 7.3 7.9 7.9 ave 5.8 5.9 6.4 5.6 8.0 8.0 8.4 8.5 max 6.5 6.2 6.8 6.0 8.3 9.1 9.3 9.6 convex|CD CD CD CD CD CD CD CD JJ CD CD CD CD CD CD CD CD NN CD CD CD CD CD CD CD CD NN|BODY_20|0
+most computers|JJS NNS|BODY_3|0
+the program|DT NN|BODY_4|0
+wferr|NNP|BODY_1|0
+an immediate error return|DT JJ NN NN|BODY_3|0
+the first|DT JJ|BODY_1|0
+besj0|CD|BODY_1|0
+double precision )|JJ NN -RRB-|BODY_9|0
+the machine|DT NN|BODY_5|0
+their double precision versions|PRP$ JJ NN NNS|BODY_5|0
+various scalar and vector processors|JJ NN CC NN NNS|BODY_6|0
+the routine wgthr|DT JJ NN|BODY_2|0
+( 3 )|-LRB- CD -RRB-|BODY_4|0
+identification|NN|BODY_1|0
+the data-handling operations|DT NN NNS|BODY_1|0
+the resulting code|DT JJ NN|BODY_6|0
+inits initds|PRP$ NNS|BODY_1|0
+the loops|DT NNS|BODY_1|0
+a given scalar|DT VBN NN|BODY_9|0
+accuracy|NN|BODY_1|0
+gather/scatter operations|NN NNS|BODY_6|0
+gather|VB|BODY_4|0
+more detail|JJR NN|BODY_4|0
+a|DT|BODY_4|0
+b|NN|BODY_3|0
+wnle dwnle out-of-range test|JJ NN JJ NN|BODY_1|0
+3.1|CD|BODY_1|0
+the port machine|DT NN NN|BODY_1|0
+y-mps|NNS|BODY_5|0
+f.|VBG|BODY_6|0
+small relative error|JJ JJ NN|BODY_12|0
+bessel function evaluation|NNP NN NN|TITLE_2|0
+these properties|DT NNS|BODY_1|0
+another measure|DT NN|BODY_1|0
+scalar processors|NN NNS|BODY_8|0
+attention|NN|BODY_1|0
+primary design criteria|JJ NN NNS|BODY_1|0
+series|NN|BODY_1|0
+a temporary vector|DT JJ NN|BODY_4|0
+[3]|NN|BODY_3|0
+applications|NNS|BODY_3|0
+each routine|DT NN|BODY_3|0
+scatter|NN|BODY_1|0
+two unnecessary vector copies|CD JJ NN NNS|BODY_16|0
+the accuracy|DT NN|BODY_1|0
+the whole argument range|DT JJ NN NN|BODY_3|0
+the entry|DT NN|BODY_1|0
+more than 200 fortran subprograms|JJR IN CD CD NNS|BODY_5|0
+the result overflows|DT NN NNS|BODY_7|0
+dbesi0 vi1 dvi1|IN CD NNS|BODY_1|0
+all tests|DT NNS|BODY_1|0
+some additional testing|DT JJ NN|BODY_1|0
+cray|NN|BODY_7|0
+vector length 2|NN NN CD|BODY_1|0
+actual speedups|JJ NNS|BODY_1|0
+the vector lengths|DT NN NNS|BODY_1|0
+3.2 vectorization|CD RB|BODY_1|0
+calls|NNS|BODY_7|0
+codes vfnlib|NNS NN|BODY_17|0
+dbesy1|NNS|BODY_1|0
+the last three cases|DT JJ CD NNS|BODY_1|0
+truncated chebyshev series expansions|JJ NN NN NNS|BODY_3|0
+5.2 efficiency|CD NN|BODY_1|0
+a list|DT NN|BODY_1|0
+[5]|NN|BODY_1|0
+such machines|JJ NNS|BODY_1|0
+function routines return results|NN NNS NN NNS|BODY_1|0
+each user-callable function|DT JJ NN|BODY_4|0
+the fact|DT NN|BODY_1|0
+the only reasonable thing|DT RB JJ NN|BODY_1|0
+,x,indx,y) and wsctr( n,y,indx,x)|JJ CC JJ NN|BODY_8|0
+( relative difference|-LRB- JJ NN|BODY_1|0
+those less than one|DT JJR IN CD|BODY_5|0
+the scalar code|DT JJ NN|BODY_3|0
+the convex veclib library [4|DT NN NN NN NNS|BODY_1|0
+the entire computation|DT JJ NN|BODY_10|0
+user-callable vfnlib subprograms|JJ NN NNS|BODY_2|0
+the port error handler [9]|DT NN NN NN NN|BODY_2|0
+comparing table 3|VBG NN CD|BODY_1|0
+many applications|JJ NNS|BODY_3|0
+the ability|DT NN|BODY_1|0
+section|NN|BODY_7|0
+the emphasis|DT NN|BODY_1|0
+a sun sparcstation 1+|DT NN NN NNS|BODY_6|0
+scalar version 1|JJ NN CD|BODY_5|0
+a sine or cosine|DT NN CC NN|BODY_9|0
+full machine precision|JJ NN NN|BODY_3|0
+y|NN|BODY_8|0
+both scalar and vector codes|DT NN CC NN NNS|BODY_7|0
+its hardware performance|PRP$ NN NN|BODY_5|0
+the average speedups|DT JJ NNS|BODY_1|0
+very few function values|RB JJ NN NNS|BODY_4|0
+such code|JJ NN|BODY_6|0
+the test|DT NN|BODY_1|0
+a test program|DT NN NN|BODY_1|0
+general , not vectorizable , e.g. , if( x( j)|JJ , RB JJ , FW , FW FW FW|BODY_8|0
+xsml and 3|NN CC CD|BODY_7|0
+the following|DT VBG|BODY_7|0
+5 evaluation|CD NN|BODY_1|0
+the remainder|DT NN|BODY_1|0
+gather/scatter|NN|BODY_1|0
+range reduction|NN NN|BODY_4|0
+the series evaluation|DT NN NN|BODY_3|0
+a given accuracy|DT VBN NN|BODY_6|0
+wcs dwcs|NNS NNS|BODY_1|0
+introduction|NN|BODY_1|0
+an argument x|DT NN NN|BODY_1|0
+the argument range|DT NN NN|BODY_1|0
+the present case|DT JJ NN|BODY_1|0
+quite straightfor- ward|RB JJ NN|BODY_3|0
+section 4|NN CD|BODY_5|0
+very long vectors|RB JJ NNS|BODY_5|0
+table 7 lists sample speedups|NN CD NNS NN NNS|BODY_1|0
+a truncated chebyshev series|DT JJ NN NN|BODY_3|0
+cancellation errors|NN NNS|BODY_1|0
+special functions|JJ NNS|BODY_6|0
+the basic computation|DT JJ NN|BODY_1|0
+truncated chebyshev series|JJ NN NN|BODY_5|0
+biocs|NNS|BODY_1|0
+indices|NNS|BODY_5|0
+real arguments|JJ NNS|ABSTRACT_9|0
+correct function values|JJ NN NNS|BODY_4|0
+their evaluation|PRP$ NN|BODY_8|0
+the appropriate subinterval|DT JJ NN|BODY_1|0
+5.1 portability and accuracy|CD NN CC NN|BODY_1|0
+table|NN|BODY_4|0
+the modified version|DT VBN NN|BODY_1|0
+the vectorization techniques|DT NN NNS|BODY_1|0
+'s well-known fnlib package|POS JJ JJ NN|BODY_5|0
+a different argument distribution|DT JJ NN NN|BODY_7|0
+an identical calling sequence|DT JJ NN NN|BODY_2|0
+its own series|PRP$ JJ NN|BODY_5|0
+the indicated subprograms|DT JJ NNS|BODY_6|0
+portability and maintainability|NN CC NN|BODY_4|0
+its portability|PRP$ NN|BODY_4|0
+x i|NN NN|BODY_7|0
+call name ( m|VB NN -LRB- NN|BODY_1|0
+only one rounding error|RB CD NN NN|BODY_1|0
+3 vectorization|CD NN|BODY_1|0
+length 2 and 20|NN CD CC CD|BODY_5|0
+practice|NN|BODY_3|0
+illegal argument regions|JJ NN NNS|BODY_1|0
+these algorithms|DT NNS|BODY_5|0
+fewer and fewer terms|JJR CC JJR NNS|BODY_4|0
+vector lengths|NN NNS|BODY_4|0
+a very simple error-handling routine wferr|DT RB JJ NN JJ NN|BODY_2|0
+un-|NNP|BODY_1|0
+conventional polynomials|JJ NNS|BODY_10|0
+netlib [7]|JJ NN|BODY_2|0
+variable accuracy approximations|JJ NN NNS|BODY_8|0
+25|CD|BODY_1|0
+[10]|NNP|BODY_7|0
+our algorithm|PRP$ NN|BODY_2|0
+section 2|NN CD|BODY_1|0
+section 3|NN CD|BODY_1|0
+section 5|NN CD|BODY_1|0
+table 3|NN CD|BODY_1|0
+the tests|DT NNS|BODY_1|0
+this data|DT NN|BODY_1|0
+memory|NN|BODY_10|0
+more efficient versions|RBR JJ NNS|BODY_6|0
+the actual computations|DT JJ NNS|BODY_7|0
+four different activities|CD JJ NNS|BODY_6|0
+predicted|VBN|BODY_4|0
+a 64-bit machine )|DT JJ NN -RRB-|BODY_6|0
+13.9 to 23.0.|CD TO CD|BODY_9|0
+contrast|NN|BODY_1|0
+( a ) calculate legal argument bounds|-LRB- DT -RRB- JJ JJ NN NNS|BODY_1|0
+( a ) preprocess argument|-LRB- DT -RRB- NN NN|BODY_1|0
+( c ) postprocess result|-LRB- NN -RRB- NN NN|BODY_1|0
+( n|-LRB- NN|BODY_1|0
+2. initialize|DT NN|BODY_1|0
+both fatal errors and warnings|DT JJ NNS CC NNS|BODY_1|0
+dwsctr vector scatter|NN NN NN|BODY_1|0
+i1mach i1mach r1mach d1mach returns real machine constants|DT DT NN NN NNS JJ NN NNS|BODY_1|0
+out-of-range tests|JJ NNS|BODY_1|0
+the corresponding vector code|DT JJ NN NN|BODY_1|0
+the preprocessing and postprocessing phases|DT NN CC NN NNS|BODY_1|0
+vector version 1|NN NN CD|BODY_1|0
+wgthr dwgthr vector|NN NN NN|BODY_1|0

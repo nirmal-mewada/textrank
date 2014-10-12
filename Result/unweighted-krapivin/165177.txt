@@ -1,0 +1,1152 @@
+it|PRP|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+we|PRP|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|1
+a message|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_11:ABSTRACT_2:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+virtual channels|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+e-cube|NN|ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+that|WDT|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the network|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the message|DT NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+messages|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_3:BODY_4:BODY_7|0
+uniform traffic|NN NN|BODY_5:BODY_15:BODY_2:BODY_1:BODY_24:BODY_10:BODY_4:BODY_7|0
+saturation|NN|BODY_12:BODY_2:BODY_3:BODY_4:BODY_20:BODY_9|0
+a node|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+k n|NN NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+hops|NNS|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+these algorithms|DT NNS|BODY_2:BODY_3|0
+phop|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+this paper|DT NN|BODY_6:BODY_5:BODY_2:BODY_1|1
+the performance|DT NN|BODY_2:ABSTRACT_3:BODY_3:BODY_4|1
+hop schemes|NN NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+saf routing|NN NN|BODY_5:BODY_2:BODY_1:BODY_10:BODY_4:BODY_9|0
+each node|DT NN|BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+physical channel|JJ NN|BODY_6:BODY_5:ABSTRACT_5:BODY_3:BODY_8|0
+ae|NNS|BODY_2:BODY_3:BODY_7|0
+2pn|CD|BODY_6:BODY_2:BODY_14:BODY_3:BODY_9:BODY_20|0
+the use|DT NN|BODY_6:BODY_5:BODY_2|0
+addition|NN|BODY_6:BODY_5:BODY_4:BODY_7|0
+each|DT|BODY_1:BODY_10:BODY_4:BODY_8|0
+hotspot traffic|JJ NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_9|0
+uniform|NN|BODY_6:ABSTRACT_4:BODY_2:BODY_3:BODY_4:ABSTRACT_9|1
+the traffic|DT NN|BODY_5:BODY_2|0
+the hotspot node|DT NN NN|BODY_12:BODY_6:BODY_1:BODY_2:BODY_7|0
+the case|DT NN|BODY_5:BODY_1:BODY_4|0
+a virtual channel|DT JJ NN|BODY_6:BODY_15:BODY_2:BODY_4:BODY_7|0
+4 )|CD -RRB-|BODY_5:BODY_11:BODY_16:BODY_3:BODY_7|0
+adaptivity|NN|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_7|0
+algorithms|NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+priority information|NN NN|BODY_5:BODY_4|0
+four|CD|BODY_2:BODY_3|0
+node|NN|BODY_6:BODY_3|0
+nbc|NN|BODY_2:BODY_3:BODY_4|0
+bonus cards|NN NNS|BODY_2:BODY_7|0
+one|CD|BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|1
+example|NN|BODY_2:BODY_1|0
+each dimension|DT NN|BODY_6:BODY_5:BODY_8|0
+k-ary n-cubes|JJ NNS|BODY_5:BODY_2:BODY_4|0
+more virtual channels|RBR JJ NNS|BODY_6:BODY_5:BODY_3:BODY_7|0
+statistics|NNS|BODY_5:BODY_1:BODY_2|0
+congestion control|NN NN|BODY_2:BODY_1:BODY_3|0
+convergence|NN|BODY_2:BODY_1:BODY_3|0
+local traffic|JJ NN|BODY_6:BODY_18:BODY_2:BODY_8|0
+they|PRP|BODY_5:BODY_1:BODY_3:BODY_7|0
+16 2|CD CD|BODY_5:BODY_4|0
+the one|DT CD|BODY_2:BODY_3|0
+the performances|DT NNS|BODY_6:BODY_2:BODY_4|0
+the other three algorithms|DT JJ CD NNS|BODY_5:BODY_2:BODY_3|0
+( 3|-LRB- CD|BODY_6:BODY_12:BODY_17:BODY_15:BODY_2:BODY_4:BODY_19|0
+)|-RRB-|BODY_5:BODY_13:BODY_7:BODY_8|0
+this study|DT NN|BODY_6:BODY_5:ABSTRACT_3:BODY_3|1
+nodes|NNS|BODY_13:BODY_4|0
+each physical channel|DT JJ NN|BODY_12:BODY_1:BODY_3:BODY_4|0
+the convergence criteria|DT NN NNS|BODY_2:BODY_4:BODY_8|0
+an example|DT NN|BODY_6:BODY_1:BODY_2|0
+negative hops|JJ NNS|BODY_6:BODY_3:BODY_4:BODY_7|0
+a flit|DT NN|BODY_11:BODY_3|0
+an intermediate node|DT JJ NN|BODY_5:BODY_2:BODY_4|0
+this|DT|BODY_6:BODY_1:BODY_2|0
+the negative-hop scheme|DT JJ NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+a buffer|DT NN|BODY_2:BODY_4:BODY_7|0
+'s research|POS NN|BODY_5:BODY_2|0
+each hop-class|DT NN|BODY_5:BODY_2:BODY_3|0
+the variance|DT NN|BODY_2|0
+interest|NN|BODY_2|0
+2|CD|BODY_6:BODY_1:BODY_25:BODY_9|0
+3 )|CD -RRB-|BODY_5:BODY_11:BODY_21:BODY_4:BODY_10:BODY_7|0
+message|NN|ABSTRACT_2:BODY_2:BODY_4|0
+deadlocks|NNS|BODY_1:BODY_4:BODY_7|0
+partially-adaptive algorithms|JJ NNS|BODY_2:ABSTRACT_7|0
+the routing algorithms|DT NN NNS|BODY_17:BODY_15:BODY_23:BODY_2|0
+flits|NNS|BODY_6:BODY_2:BODY_7|0
+mesh networks|JJ NNS|BODY_5:BODY_13:BODY_9|0
+a peak throughput|DT JJ NN|BODY_2:BODY_3|0
+respect|NN|BODY_6:BODY_3:BODY_4|0
+the simulations|DT NNS|BODY_2:BODY_9|0
+random numbers|JJ NNS|BODY_3|0
+buffer classes|NN NNS|BODY_5:BODY_3:BODY_7:BODY_8|0
+the four fully-adaptive algorithms|DT CD JJ NNS|BODY_1:BODY_2|0
+any|DT|BODY_17:BODY_4|0
+channel utilization ( fraction|NN NN -LRB- NN|BODY_12:BODY_11:BODY_3|0
+the design|DT NN|BODY_1:BODY_2:BODY_7|0
+15|CD|BODY_10:BODY_8|0
+this number|DT NN|BODY_14:BODY_7|0
+4 % hotspot traffic|CD NN NN NN|BODY_16:BODY_10:BODY_8|0
+starvation|NN|BODY_2:BODY_9|0
+a communication channel|DT NN NN|BODY_5:BODY_2:BODY_1|0
+16-flit worms|JJ NNS|BODY_16:BODY_7:BODY_9|0
+cycles|NNS|BODY_5:BODY_14:BODY_7|0
+k negative hops|NN JJ NNS|BODY_2|0
+lower peak through-put|JJR NN NN|BODY_2|0
+odd )|JJ -RRB-|BODY_2:BODY_4|0
+point|NN|BODY_2|0
+saf deadlocks|NN NNS|BODY_2|0
+the following argument|DT VBG NN|BODY_2|0
+the network traffic|DT NN NN|BODY_2|0
+this nbc scheme|DT JJ NN|BODY_2|0
+two|CD|BODY_2|0
+two popular switching techniques|CD JJ VBG NNS|BODY_2|0
+better throughput|JJR NN|BODY_2:BODY_4|0
+each stratum|DT NN|BODY_2:BODY_1|0
+our simulations|PRP$ NNS|BODY_2:BODY_3:ABSTRACT_1|0
+the population|DT NN|BODY_2:BODY_3|0
+the average latency|DT JJ NN|BODY_2:BODY_1:BODY_3|0
+x offered channel utilization ( fraction|NN VBD NN NN -LRB- NN|BODY_12:BODY_5:BODY_18|0
+rithms|NNS|BODY_2:BODY_4|0
+its destination|PRP$ NN|BODY_14:BODY_10|0
+the saf algorithm|DT NN NN|BODY_2:BODY_9|0
+hop|NN|BODY_6:BODY_3:BODY_10|0
+nlast|NN|BODY_5:BODY_4|0
+zero|CD|BODY_10:BODY_4:BODY_7|0
+construction|NN|BODY_2:BODY_1|0
+the set|DT NN|BODY_6:BODY_19:BODY_8|0
+a negative hop|DT JJ NN|BODY_6:BODY_11:BODY_2|0
+adaptive routing|JJ NN|BODY_2:BODY_3|0
+the latencies|DT NNS|BODY_2:BODY_1:BODY_3|0
+6 2|CD CD|BODY_6:BODY_8|0
+the total number|DT JJ NN|BODY_2:BODY_10:BODY_4|0
+traffic|NN|BODY_17:BODY_3|0
+the first hop|DT JJ NN|BODY_6:BODY_3|0
+current-host|NN|BODY_1:BODY_3:BODY_4|0
+l|JJ|BODY_6:BODY_10:BODY_4|0
+the hop|DT NN|BODY_1:BODY_3|0
+the buffers|DT NNS|BODY_3:BODY_4|0
+nhop|NN|BODY_5:BODY_3|0
+wormhole routing|JJ NN|BODY_6:ABSTRACT_6:BODY_4|1
+a weight|DT NN|BODY_4:BODY_7|0
+the choice|DT NN|BODY_11:BODY_3|0
+priority|NN|ABSTRACT_3:BODY_3|0
+a wh routing algorithm|DT JJ NN NN|BODY_3|0
+this algorithm|DT NN|BODY_5:BODY_2|0
+partially-|NNS|BODY_1:BODY_3:BODY_7|0
+the node|DT NN|BODY_13:BODY_7:BODY_9|0
+i|IN|BODY_6|0
+our study|PRP$ NN|ABSTRACT_2:BODY_2|0
+early saturation|JJ NN|BODY_18:BODY_2:BODY_7|0
+this method|DT NN|BODY_2:BODY_1|0
+computations|NNS|BODY_3:BODY_4|0
+each message|DT NN|BODY_1:BODY_4|0
+the diameter|DT NN|BODY_11:BODY_5|0
+wh routing|JJ NN|BODY_5:BODY_3:BODY_8|0
+the load|DT NN|BODY_2|0
+fic|NN|BODY_3:BODY_9|0
+the penalty|DT NN|BODY_12:BODY_1|0
+those|DT|BODY_4:BODY_8|0
+node ( 3|NN -LRB- CD|BODY_6:BODY_1:BODY_4:BODY_8|0
+the average channel utilization|DT NN NN NN|BODY_5:BODY_2|0
+the north-last algorithm|DT JJ NN|BODY_1:BODY_3|0
+3 ) to ( 2|CD -RRB- TO -LRB- CD|BODY_24:BODY_9:BODY_20|0
+the available bandwidth|DT JJ NN|BODY_7:BODY_8|0
+each hop|DT NN|BODY_11:BODY_1:BODY_3|0
+linder and harden [23|NN CC NN NNS|BODY_3:BODY_7|0
+the maximum number|DT JJ NN|BODY_1:BODY_3:BODY_7|0
+many recent experimental and commercial multicomputers and multiprocessors [2|JJ JJ JJ CC JJ NNS CC NNS NNS|BODY_3|0
+related networks|JJ NNS|BODY_2|0
+two unidirectional channels|CD JJ NNS|BODY_2:BODY_3|0
+normalized throughputs|JJ NNS|BODY_5:BODY_3|0
+the same|DT JJ|BODY_3:BODY_4:BODY_8|0
+destination|NN|BODY_14:BODY_7|0
+a message class|DT NN NN|BODY_4|0
+the results|DT NNS|BODY_6:BODY_7|0
+the error|DT NN|BODY_2:BODY_3:BODY_8|0
+the other three fully-adaptive algorithms|DT JJ CD JJ NNS|BODY_2:BODY_1:ABSTRACT_1|0
+a message m|DT NN NN|BODY_2:BODY_3|0
+the wh routing algorithm|DT JJ NN NN|BODY_4:BODY_8|0
+each physical link|DT JJ NN|BODY_5:BODY_3:BODY_7|0
+nbc algorithms|JJ NNS|BODY_6:BODY_2|0
+the negative hop scheme|DT JJ NN NN|BODY_2:BODY_3|0
+the next hop|DT JJ NN|BODY_14:BODY_10|0
+the partially-adaptive nlast algorithm|DT JJ JJ NN|BODY_2|0
+the well-known non-adaptive e-cube|DT JJ JJ NN|BODY_2|0
+performance|NN|BODY_16:BODY_22:BODY_14|0
+the graduate school|DT NN NN|BODY_7|0
+berman et al|NNP NNP NN|BODY_1:BODY_2|0
+routing messages|VBG NNS|BODY_11:BODY_1:BODY_7:BODY_8|0
+nsf grant use-950407|JJ NN NNS|BODY_6|0
+1=|PRP|BODY_8|0
+a two-dimensional mesh|DT JJ NN|BODY_2|0
+sufficient warmup time|JJ JJ NN|BODY_2|0
+the three hop schemes|DT CD NN NNS|BODY_1:BODY_3|0
+the routing algorithm|DT NN NN|BODY_2:BODY_3|0
+a routing algorithm|DT NN NN|BODY_2|0
+this corresponds|DT NNS|BODY_2|0
+the enumeration|DT NN|BODY_2|0
+the links|DT NNS|BODY_7|0
+0|CD|BODY_3:BODY_7|0
+the six algorithms|DT CD NNS|BODY_5:BODY_8|0
+help|NN|BODY_11|0
+bonus-cards|NNS|BODY_2|0
+the purpose|DT NN|BODY_1:BODY_2|0
+the net-work|DT NN|BODY_2|0
+the increase|DT NN|BODY_2:BODY_4|0
+a 31 \theta|DT CD NN|BODY_12|0
+all six algorithms|DT CD NNS|BODY_4|0
+class|NN|BODY_3:BODY_4|0
+]|NN|BODY_2:BODY_3|0
+reports peak channel utilizations|NNS NN NN NNS|BODY_2|0
+there|EX|BODY_5:BODY_1|0
+channels and buffers|NNS CC NNS|BODY_4|0
+capacity ) achieved channel utilization|NN -RRB- VBN NN NN|BODY_12:BODY_13:BODY_19|0
+16 , 20|CD , CD|BODY_5|0
+deadlock-free routing algorithms|JJ NN NNS|BODY_4|0
+5 %|CD NN|BODY_2|0
+plateau|NN|BODY_2|0
+performs|NNS|ABSTRACT_6:ABSTRACT_7|0
+deadlock-free wh routing algorithms|JJ JJ NN NNS|BODY_5|0
+a particular node|DT JJ NN|BODY_2|0
+the message population|DT NN NN|BODY_5|0
+an n-dimensional grid structure|DT JJ NN NN|BODY_2|0
+0.6|CD|BODY_2|0
+the 7 \theta 7 mesh|DT CD NN CD NN|BODY_8|0
+the simpler e-cube|DT JJR NN|BODY_4|0
+glass and ni|NN CC NNS|BODY_5|0
+panda|NN|BODY_2|0
+local traffic figure|JJ NN NN|BODY_2|0
+the|DT|BODY_1:BODY_2:BODY_7|0
+the saf routing|DT NN NN|BODY_2|0
+the average number|DT JJ NN|BODY_2|0
+the nlast algorithm|DT JJ NN|BODY_2:BODY_1|0
+follows|VBZ|BODY_2:BODY_3:BODY_7|0
+a comparison|DT NN|TITLE_1:BODY_1|0
+lower message|JJR NN|BODY_5|0
+odd k|JJ NN|BODY_9|0
+wh scheme|JJ NN|BODY_14|0
+( nlast ) algorithm|-LRB- NN -RRB- NN|BODY_4|0
+four fully-adaptive wh routing algorithms|CD JJ JJ NN NNS|BODY_3|0
+these routing algorithms|DT JJ NNS|BODY_3|0
+load|NN|BODY_2:BODY_3|0
+latencies|NNS|BODY_3:BODY_19|0
+some local or hotspot type traffic|DT JJ CC JJ NN NN|BODY_2|0
+the planar adaptive routing|DT NN JJ NN|BODY_2|0
+virtual channel|JJ NN|BODY_2|0
+the nodes|DT NNS|BODY_6|0
+source index|NN NN|BODY_2|0
+16|CD|BODY_11:BODY_4|0
+class b i|NN NN NN|BODY_5:BODY_3|0
+four new fully-adaptive routing algorithms|CD JJ JJ NN NNS|ABSTRACT_2|0
+local traffic patterns|JJ NN NNS|ABSTRACT_6:BODY_4:BODY_8|1
+a fully-adaptive wh routing algorithm|DT JJ JJ NN NN|BODY_2|0
+phop and nbc|NN CC NN|BODY_2|0
+also positive hop ) scheme|RB JJ NN -RRB- NN|BODY_2|0
+much earlier|RB JJR|BODY_3|0
+nonuniform traffic|NN NN|BODY_6|0
+figure|NN|BODY_3:BODY_7|0
+a )|DT -RRB-|BODY_2|0
+4)|CD|BODY_13:BODY_2|0
+livelocks|NNS|BODY_14:BODY_8|0
+adjacent nodes|JJ NNS|BODY_5:BODY_1|0
+( 2|-LRB- CD|BODY_23:BODY_8|0
+the north-last algorithm glass and ni|DT JJ NN NN CC NNS|BODY_2|0
+peak throughput|JJ NN|BODY_2|0
+the congestion control|DT NN NN|BODY_5:BODY_1|0
+a two-dimensional network|DT JJ NN|BODY_2|0
+the efficient operation|DT JJ NN|BODY_5|0
+a k-ary n-cube|DT JJ NN|ABSTRACT_6:BODY_1:BODY_4|0
+10-15 samples|CD NNS|BODY_6|0
+the critical resources|DT JJ NNS|BODY_3:BODY_4|0
+wh routing algorithm|WDT NN NN|BODY_4|0
+\theta number|JJ NN|BODY_6|0
+f 1|NN CD|BODY_5|0
+e-cube yields similar normalized throughputs|NN NNS JJ JJ NNS|BODY_4|0
+the cs lab|DT NNS NN|BODY_4|0
+the sum|DT NN|BODY_6:BODY_3|0
+an n-bit tag|DT NN NN|BODY_2|0
+the physical channels|DT JJ NNS|BODY_18:BODY_8|0
+better performance|JJR NN|BODY_3|0
+rithm|NN|BODY_5:BODY_3|0
+40 %|CD NN|BODY_3|0
+hotspot traf|NN NN|BODY_2|0
+its tag|PRP$ NN|BODY_2|0
+our experiments|PRP$ NNS|BODY_3|0
+each simulation|DT NN|BODY_1:BODY_7|0
+k|NN|BODY_6:BODY_1:BODY_7|0
+any one|DT CD|BODY_6|0
+nodes number|NNS NN|BODY_7|0
+this estimation|DT NN|BODY_3|0
+directions|NNS|BODY_3|0
+high throughput|JJ NN|BODY_3|0
+contrast|NN|BODY_6:BODY_1|0
+multiple virtual channels|JJ JJ NNS|BODY_1:BODY_2|0
+figure 1( b|NN JJ NN|BODY_12:BODY_7|0
+deadlock-free wormhole routing [4|JJ NN NN NNS|BODY_3|0
+the following important features [17]|DT VBG JJ NNS NN|BODY_4|0
+( 4|-LRB- CD|BODY_6:BODY_10|0
+100 %|CD NN|BODY_2|0
+k nodes|JJ NNS|BODY_3|0
+the point|DT NN|BODY_11:BODY_3|0
+the local knowledge|DT JJ NN|BODY_4|0
+ut- san antonio|NNP FW NN|BODY_5|0
+express channels|JJ NNS|BODY_2|0
+separate sequences|JJ NNS|BODY_2|0
+the 2pn algorithm|DT JJ NN|BODY_1:BODY_2|0
+channels )|NNS -RRB-|BODY_4|0
+any node|DT NN|BODY_7|0
+another fully-adaptive deadlock-free wh routing scheme|DT JJ JJ JJ NN NN|BODY_4|0
+( 1 ) description|-LRB- CD -RRB- NN|BODY_1|0
+[8 ]|DT NN|BODY_1|0
+a few disadvan- tages|DT JJ NNS NNS|BODY_2|0
+a proof|DT NN|BODY_2|0
+adaptive routing algorithms|JJ NN NNS|BODY_1|0
+gopal [20]|JJ NN|BODY_1|0
+positive-hop saf|JJ NN|BODY_1|0
+profs|NNS|BODY_2|0
+the algorithm|DT NN|BODY_2|0
+the authors|DT NNS|BODY_1|0
+this saf routing|DT NN NN|BODY_2|0
+wh routing algorithms|JJ NN NNS|BODY_2|0
+ability|NN|BODY_10|0
+number t|NN NN|BODY_5|0
+the non-adaptive e-cube algorithm|DT JJ NN NN|BODY_6:BODY_2|0
+many discussions and comments|JJ NNS CC NNS|BODY_3|0
+many partially-adaptive algorithms|JJ JJ NNS|BODY_4|0
+store-and-forward routing|NN NN|BODY_4|0
+the result|DT NN|BODY_11|0
+0.4|CD|BODY_6:BODY_4|0
+our recent results|PRP$ JJ NNS|BODY_4|0
+three samples|CD NNS|BODY_4|0
+any other node|DT JJ NN|BODY_4:BODY_9|0
+several subsets|JJ NNS|BODY_3|0
+bonus-cards )|NNS -RRB-|BODY_6|0
+partially- adaptive north|RB JJ NN|BODY_7|0
+a variation|DT NN|BODY_2|0
+network bandwidth|NN NN|BODY_4|0
+any restrictions|DT NNS|BODY_2|0
+throughputs|NNS|BODY_5:BODY_8|0
+one partially-|CD NNS|BODY_3|0
+the three algorithms|DT CD NNS|BODY_2:BODY_4|0
+report|NN|BODY_2|0
+no subset|DT NN|BODY_4|0
+message population|NN NN|BODY_8|0
+message interarrival time|NN NN NN|BODY_5|0
+a locality factor|DT NN NN|BODY_3|0
+the beginning|DT NN|BODY_4|0
+normalized throughput|JJ NN|BODY_3|0
+nbc ) scheme|NN -RRB- NN|BODY_3|0
+(|-LRB-|BODY_11:BODY_9|0
+adjacent nodes results|JJ NNS NNS|BODY_4|0
+fixed-length messages|JJ NNS|BODY_4|0
+observation|NN|BODY_2|0
+a maximum|DT NN|BODY_5|0
+these networks|DT NNS|BODY_5|0
+tency|NN|BODY_5|0
+some period|DT NN|BODY_6|0
+the value|DT NN|BODY_5:BODY_8|0
+the raw bandwidth available|DT JJ NN JJ|BODY_5|0
+three fully- adaptive hop schemes|CD CD JJ NN NNS|BODY_4|0
+positive-hop , negative-hop , and negative-hop|NN , JJ , CC JJ|BODY_5|0
+ranks|NNS|BODY_10:BODY_7|0
+classes|NNS|BODY_6|0
+a wh algorithm|DT JJ NN|BODY_1|0
+multiple hotspot nodes|JJ NN NNS|BODY_5|0
+e-cube routing|NN NN|BODY_4|0
+the traffic patterns|DT NN NNS|BODY_5:BODY_1|0
+this traffic pattern|DT NN NN|BODY_2|0
+francis|NNS|BODY_10|0
+the validity|DT NN|BODY_2|0
+the latter ones|DT JJ NNS|BODY_6|0
+each sampling period|DT JJ NN|BODY_5:BODY_1|0
+being|NN|BODY_9|0
+a grant|DT NN|BODY_6|0
+the average message|DT JJ NN|BODY_4|0
+these virtual channels|DT JJ NNS|BODY_2|0
+fewer virtual channels|JJR JJ NNS|BODY_3:BODY_7|0
+0,0 )|CD -RRB-|BODY_10|0
+other parameters|JJ NNS|BODY_6|0
+allocating resources|VBG NNS|BODY_3|0
+[16]|NN|BODY_9|0
+lower right node|JJR JJ NN|BODY_11|0
+a communication link|DT NN NN|BODY_3|0
+the respective averages|DT JJ NNS|BODY_3|0
+last algorithm|JJ NN|BODY_8|0
+the message reserves virtual channel c 1|DT NN NNS JJ NN NN CD|BODY_1:BODY_7|0
+the virtual channel|DT JJ NN|BODY_4|0
+a positive hop|DT JJ NN|BODY_8:BODY_9|0
+0:75|CD|BODY_8|0
+node ( 2|NN -LRB- CD|BODY_5:BODY_3|0
+glass and 1|NN CC CD|BODY_9|0
+the phop|DT NN|BODY_1:BODY_3|0
+this average|DT JJ|BODY_7|0
+a k-ary n-cube (|DT JJ NN -LRB-|BODY_5|0
+a peak through-put|DT JJ NN|BODY_6|0
+variance|NN|BODY_6|0
+nsf grant ccr-9208784|JJ NN NNS|BODY_3|0
+the second author|DT JJ NN|BODY_4|0
+low-latency message delivery|JJ NN NN|BODY_5|0
+a generalization|DT NN|BODY_10|0
+the workstations|DT NNS|BODY_3|0
+literature|NN|BODY_3|0
+new streams|JJ NNS|BODY_2|0
+another mes|DT NNS|BODY_8|0
+the fully-adaptive hop schemes|DT JJ NN NNS|BODY_2|0
+31-flit messages|JJ NNS|BODY_11|0
+the throughput curve|DT NN NN|BODY_3|0
+improvements|NNS|BODY_4|0
+such negative-hop schemes|JJ JJ NNS|BODY_8|0
+capacity ) average latency|NN -RRB- JJ NN|BODY_6:BODY_13:BODY_4|0
+node ( 15|NN -LRB- CD|BODY_2|0
+channel utilizations|NN NNS|BODY_2|0
+processors )|NNS -RRB-|BODY_4|0
+( 1,1 )|-LRB- CD -RRB-|BODY_8|0
+0 again while|CD RB IN|BODY_2|0
+a member|DT NN|BODY_3|0
+an earlier draft|DT JJR NN|BODY_4|0
+close|NN|BODY_8|0
+but not|CC RB|BODY_5|0
+0.4 locality|CD NN|BODY_7|0
+0.4 locality factor|CD NN NN|BODY_19|0
+deadlock free|JJ JJ|BODY_3|0
+buffer|NN|BODY_3:BODY_4|0
+this message m reserves virtual channel c 0|DT NN NN NNS JJ NN NN CD|BODY_8|0
+( a ) ( b ) node node physical channel virtual channels f f e r|-LRB- DT -RRB- -LRB- NN -RRB- NN NN JJ NN JJ NNS NN NN NN NN|BODY_5|0
+0.2|CD|BODY_7|0
+slightly|RB|BODY_10|0
+the fully-adaptive nature|DT JJ NN|BODY_10|0
+the distribution|DT NN|BODY_4|0
+a more representative hotspot traffic|DT RBR JJ NN NN|BODY_4|0
+the corresponding saf routing algorithms|DT JJ NN NN NNS|BODY_3|0
+dnbk=2c=2e+1 buffer classes|JJ NN NNS|BODY_2|0
+dally [11]|RB JJ|BODY_12|0
+additional virtual channels|JJ JJ NNS|BODY_2|0
+this class|DT NN|BODY_2|0
+hotspot nodes|NN NNS|BODY_3|0
+several wh routing algorithms|JJ JJ NN NNS|BODY_5|0
+routing mes|NN NNS|BODY_6|0
+applied load|VBN NN|BODY_6|0
+any given saf algorithm|DT VBN NN NN|BODY_4|0
+( 2,1|-LRB- CD|BODY_16|0
+the simulation|DT NN|BODY_1:BODY_4|0
+4 ) and destination ( 2|CD -RRB- CC NN -LRB- CD|BODY_4|0
+the e-cube and hop schemes|DT NN CC NN NNS|BODY_10|0
+0:25 )|CD -RRB-|BODY_3|0
+gathering|VBG|BODY_3|0
+( 3,1 )|-LRB- CD -RRB-|BODY_15|0
+virtual-|NNS|BODY_4|0
+selection|NN|BODY_6|0
+the structure|DT NN|BODY_2|0
+four neighbors|CD NNS|BODY_10|0
+these subsets|DT NNS|BODY_2|0
+another observation|DT NN|BODY_2|0
+equal probability|JJ NN|BODY_6|0
+the nlast|DT NN|BODY_4|0
+a stratum|DT NN|BODY_4|0
+a minimum|DT NN|BODY_3|0
+nhop and nbc algorithms|JJ CC JJ NNS|BODY_2|0
+virtual channels yields higher throughput|JJ NNS NNS JJR NN|BODY_4|0
+lack|NN|BODY_3|0
+its nodes|PRP$ NNS|BODY_5|0
+2pn ) algorithm|JJ -RRB- NN|BODY_4|0
+a peak|DT NN|BODY_2|0
+0.25|CD|BODY_5:BODY_4|0
+the issue|DT NN|BODY_1|0
+a mix|DT NN|BODY_9|0
+f f f figure 1|NN NN NN NN CD|BODY_6|0
+the maximum|DT NN|BODY_9|0
+nhop yield|JJ NN|BODY_3|0
+16-flit messages|JJ NNS|BODY_2:BODY_8|0
+5 presents|CD VBZ|BODY_3|0
+the source node|DT NN NN|BODY_10:BODY_4|0
+a feature|DT NN|BODY_4|0
+an odd node|DT JJ NN|BODY_4|0
+class c i|NN NN NN|BODY_5:BODY_16|0
+only a subset|RB DT NN|BODY_9|0
+another advantage|DT NN|BODY_12|0
+six|CD|BODY_5|0
+diametrically opposite nodes|RB JJ NNS|BODY_6|0
+only messages|RB NNS|BODY_5|0
+time-multiplexed manner|JJ NN|BODY_4|0
+this case|DT NN|BODY_1|0
+the negative|DT JJ|BODY_13|0
+the sampling periods|DT NN NNS|BODY_4|0
+any hops|DT NNS|BODY_6|0
+the previously proposed fully-adaptive|DT RB VBN JJ|BODY_4|0
+dimensional tori|JJ NN|BODY_4|0
+some messages|DT NNS|BODY_3|0
+a moderate hotspot traffic|DT JJ NN NN|BODY_5|0
+( current-host 6= destination|-LRB- NN JJ NN|BODY_4|0
+local knowledge|JJ NN|BODY_3|0
+the physical channel bandwidth|DT JJ NN NN|BODY_7|0
+the ratio|DT NN|BODY_3|0
+destination selection and message interarrival time|NN NN CC NN NN NN|BODY_4|0
+some hotspot traffic|DT JJ NN|BODY_3|0
+its bandwidth|PRP$ NN|BODY_3|0
+a maximum normalized throughput|DT JJ JJ NN|BODY_4|0
+offered traffic 4|VBN NN CD|BODY_5|0
+the e-cube|DT NN|ABSTRACT_6|0
+fixed-size units|JJ NNS|BODY_4|0
+this information|DT NN|BODY_4|0
+1 and 6 have weight|CD CC CD VBP NN|BODY_7|0
+all three traffic patterns|DT CD NN NNS|ABSTRACT_8|0
+saturation and lead|NN CC NN|BODY_7|0
+( n \gamma|-LRB- NN NN|BODY_4|0
+13 ]|CD NN|BODY_4|0
+this hop ( recall|DT NN -LRB- NN|BODY_10|0
+a physical channel share|DT JJ NN NN|BODY_2|0
+better throughputs|JJR NNS|BODY_4|0
+[21]|NN|BODY_5|0
+as many as 17 virtual channels|RB JJ RB CD JJ NNS|BODY_2|0
+avoidance|NN|BODY_6|0
+minimal algorithms|JJ NNS|BODY_8|0
+some important parameters|DT JJ NNS|BODY_3|0
+the adjacent nodes|DT JJ NNS|BODY_2|0
+the corresponding saf algorithm|DT JJ NN NN|BODY_2|0
+its path|PRP$ NN|BODY_12|0
+discussions|NNS|BODY_7|0
+controlled latencies|JJ NNS|BODY_3|0
+six deadlock-free wormhole routing algorithms|CD JJ JJ NN NNS|BODY_3|0
+four fully-adaptive ( phop , nhop , nbc , and 2pn ) algorithms|CD JJ -LRB- NN , NN , JJ , CC JJ -RRB- NNS|BODY_2|0
+hotspot|NN|ABSTRACT_5:BODY_3:BODY_7|1
+the well-known e-cube algorithm|DT JJ JJ NN|ABSTRACT_3|0
+performances|NNS|BODY_9|0
+a commonly discussed fully-adaptive routing algorithm|DT RB VBN JJ NN NN|ABSTRACT_2|0
+a general condition|DT JJ NN|BODY_2|0
+et al|NNP NN|BODY_8|0
+3,2 )|CD -RRB-|BODY_14|0
+all three algorithms|DT CD NNS|BODY_2|0
+an entirely different type|DT RB JJ NN|BODY_5|0
+e-cube algorithm|NN NN|BODY_2|0
+the negative-hop wh algorithm|DT JJ JJ NN|BODY_3|0
+uniform traffic )|JJ NN -RRB-|BODY_11|0
+the link|DT NN|BODY_9|0
+the flits|DT NNS|BODY_2|0
+prof. ram c. tripathi|NN NN NN NNS|BODY_6|0
+increase|VBP|BODY_2|0
+estimation|NN|BODY_4:BODY_9|0
+network size and message length|NN NN CC NN NN|BODY_7|0
+2pn algorithms|JJ NNS|BODY_2|0
+other types|JJ NNS|BODY_5|0
+various researchers|JJ NNS|BODY_10|0
+the nonadaptive e-cube routing algorithm|DT JJ NN NN NN|ABSTRACT_7|0
+the traffic pattern|DT NN NN|BODY_6:BODY_1|0
+every node|DT NN|BODY_6|0
+two other nodes|CD JJ NNS|BODY_7|0
+our results|PRP$ NNS|BODY_5:BODY_1|0
+the following|DT VBG|BODY_7|0
+minimal routing|JJ NN|BODY_13|0
+the message reserves virtual channel c 0|DT NN NNS JJ NN NN CD|BODY_9|0
+the fraction|DT NN|BODY_6|0
+the regular uniform traf|DT JJ NN NN|BODY_8|0
+best results|JJS NNS|BODY_5|0
+available minimal paths|JJ JJ NNS|BODY_10|0
+virtual channels evenly|JJ NNS RB|BODY_3|0
+0.72 performs|CD NNS|BODY_3|0
+0.72|CD|BODY_4|0
+2 )|CD -RRB-|BODY_5|0
+others|NNS|BODY_5|0
+their peak throughputs|PRP$ JJ NNS|BODY_3|0
+high traffic loads|JJ NN NNS|BODY_6|0
+0.0157|CD|BODY_5|0
+hop-class 16|NN CD|BODY_6|0
+successive hops|JJ NNS|BODY_6|0
+derivation|NN|BODY_7|0
+nbc uses|JJ NNS|BODY_2|0
+nhop shows signs|NN NNS NNS|BODY_3|0
+north|JJ|BODY_3|0
+processors|NNS|BODY_4|0
+message originating|NN NN|BODY_3|0
+a recent result|DT JJ NN|BODY_3|0
+3,3 )|CD -RRB-|BODY_7|0
+several classes|JJ NNS|BODY_4|0
+ways|NNS|BODY_6|0
+the improvements|DT NNS|BODY_3|0
+source ( 4|NN -LRB- CD|BODY_3|0
+oe l|NNP JJ|BODY_8|0
+no restrictions|DT NNS|BODY_2|0
+the node model|DT NN NN|BODY_3|0
+approximately 0.23|RB CD|BODY_4|0
+0.5|CD|BODY_3|0
+tori (k-ary 2-cubes|NN JJ NNS|BODY_3|0
+each receiving hotspot traffic|DT VBG NN NN|BODY_6|0
+evaluation|NN|BODY_3|0
+all 4 virtual need|DT CD JJ NN|BODY_11|0
+c|NN|BODY_6|0
+the numerator|DT NN|BODY_3|0
+a recently proposed partially-adaptive|DT RB VBN NN|BODY_2|0
+further simulations|JJ NNS|BODY_2|0
+host|NN|BODY_9|0
+network utilization|NN NN|ABSTRACT_3|0
+two-power-n (or|JJ NN|BODY_3|0
+the corresponding flit-buffers|DT JJ NNS|BODY_6|0
+distances|NNS|ABSTRACT_5|0
+next-host becomes|JJ VBZ|BODY_9|0
+route message|NN NN|BODY_7|0
+array data|NN NNS|BODY_5|0
+every message|DT NN|BODY_5|0
+the address|DT NN|BODY_6|0
+the best algorithm|DT JJS NN|BODY_3|0
+chien and kim [10]|NN CC NN NN|BODY_3|0
+dimension 1|NN CD|BODY_3|0
+mesh )|NN -RRB-|BODY_6|0
+optimal performance|JJ NN|BODY_10|0
+a ) )|DT -RRB- -RRB-|BODY_8|0
+torus interconnection networks|JJ NN NNS|ABSTRACT_4|0
+reported|VBN|BODY_7|0
+glass and ni [19]|NN CC NNS NNS|BODY_8|0
+an saf algorithm|DT NN NN|BODY_5:BODY_4|0
+a 3.2 simulation|DT CD NN|BODY_6|0
+node ( i|NN -LRB- FW|BODY_3|0
+c 0|NN CD|BODY_4|0
+very few )|RB JJ -RRB-|BODY_7|0
+the average message latencies|DT JJ NN NNS|BODY_3|0
+a severe handicap|DT JJ NN|BODY_5|0
+of 0.37 performs|IN CD NNS|BODY_3|0
+j )|NN -RRB-|BODY_4|0
+tag t|NN NN|BODY_3|0
+packet routing|NN NN|BODY_2|0
+some kind|DT NN|BODY_4|0
+connections|NNS|BODY_3|0
+a few bonus cards|DT JJ NN NNS|BODY_5|0
+hotspot traffic performances|NN NN NNS|BODY_7|0
+( 15|-LRB- CD|BODY_7|0
+16-flit packets|JJ NNS|BODY_6|0
+the hardware cost increase|DT NN NN NN|BODY_3|0
+offered traffic|JJ NN|BODY_5|0
+the corresponding locks|DT JJ NNS|BODY_6|0
+normalized throughput achieved|JJ NN VBN|BODY_4|0
+multi-|NNS|BODY_3|0
+the average traffic|DT NN NN|BODY_4|0
+network throughput and message|NN NN CC NN|BODY_4|0
+the same message|DT JJ NN|BODY_6|0
+multi-dimensional meshes|JJ NNS|BODY_5|0
+the dimensions|DT NNS|BODY_10|0
+hop-classes|NNS|BODY_4|0
+nbk=2c+1 virtual channels|JJ JJ NNS|BODY_5|0
+the saf net-work|DT JJ NN|BODY_6|0
+the rest|DT NN|BODY_5:BODY_1|0
+data|NNS|BODY_5|0
+a simple congestion control|DT JJ NN NN|BODY_2|0
+various different choices|JJ JJ NNS|BODY_2|0
+1 ) and nodes|CD -RRB- CC NNS|BODY_5|0
+parallel processors|NN NNS|BODY_5|0
+values|NNS|BODY_5|0
+wormhole rout- ing|NN NNS NN|BODY_2|0
+non-minimal routing ) and report|JJ NN -RRB- CC NN|BODY_5|0
+the sampling time|DT JJ NN|BODY_2|0
+distinct parti- tions|JJ NNS NNS|BODY_2|0
+2pn and nbc algorithms|JJ CC JJ NNS|BODY_3|0
+highly uneven utilization|RB JJ NN|BODY_6|0
+classes 3 and 4 have weight 0.25 x|NNS CD CC CD VBP NN CD NN|BODY_11|0
+the latency increases|DT NN NNS|BODY_7|0
+a pre-defined order|DT JJ NN|BODY_4|0
+algorithm two-power-n routes messages|NN JJ NNS NNS|BODY_3|0
+the traffic or other conditions|DT NN CC JJ NNS|BODY_17|0
+the store-and-forward algorithms|DT NN NNS|BODY_2|0
+8.03|CD|BODY_6|0
+its peak throughput|PRP$ JJ NN|BODY_3|0
+saturation501502500 0.1|DT CD|BODY_4|0
+unique number|JJ NN|BODY_5|0
+node delay|NN NN|BODY_5|0
+shortest paths|NN NNS|BODY_4|0
+a benefit|DT NN|ABSTRACT_5|1
+a path|DT NN|BODY_2|0
+class 0|NN CD|BODY_3|0
+the recent work|DT JJ NN|BODY_9|0
+message injection|NN NN|BODY_3|0
+the allocation|DT NN|BODY_5|0
+( l \gamma|-LRB- JJ NN|BODY_3|0
+the addition and subtraction operations|DT NN CC NN NNS|BODY_5|0
+0.34|CD|BODY_3|0
+various degrees|JJ NNS|BODY_6|0
+the wh network|DT JJ NN|BODY_9|0
+the partially-|DT NNS|BODY_4|0
+nlast [17|JJ NN|BODY_5|0
+much higher normalized throughput|RB JJR JJ NN|BODY_2|0
+11 , 26 , 9 , 3]|CD , CD , CD , CD|BODY_4|0
+introduction point-to-point k-ary n-cube|NN JJ JJ NN|BODY_1|0
+ex|FW|BODY_4|0
+this node ) or c i (otherwise|DT NN -RRB- CC NN NN NN|BODY_12|0
+the average|DT NN|BODY_7|0
+label i|NN NN|BODY_5|0
+an n-tuple|DT NN|BODY_9|0
+the network utilization factor|DT NN NN NN|BODY_2|0
+0.0038 probability|CD NN|BODY_8|0
+about 11.5 times more traffic|RB CD NNS JJR NN|BODY_3|0
+an average diameter|DT JJ NN|BODY_5|0
+figure 3|NN CD|BODY_6|0
+a bipartite graph|DT JJ NN|BODY_4|0
+mesh networks [26|JJ NNS NNS|BODY_3|0
+constraints|NNS|BODY_5|0
+some paths|DT NNS|BODY_4|0
+any time interval|DT NN NN|BODY_8|0
+the peak|DT NN|BODY_6|0
+0.4 locality fraction|CD NN NN|BODY_10|0
+a concern|DT NN|BODY_4|0
+the source and destinations|DT NN CC NNS|BODY_5|0
+virtual channels c|JJ NNS NN|BODY_5|0
+a variant|DT NN|BODY_2|0
+the maximum time limit|DT JJ NN NN|BODY_3|0
+lower numbers|JJR NNS|BODY_5|0
+more|RBR|BODY_6|0
+a subset|DT NN|BODY_4|0
+its source node|PRP$ NN NN|BODY_4|0
+0.0438 probability|CD NN|BODY_6|0
+2pn x x|CD SYM SYM|BODY_11|0
+its final hop|PRP$ JJ NN|BODY_2|0
+0.0039|CD|BODY_8|0
+a sequence|DT NN|BODY_3|0
+19]|PRP|BODY_6|0
+the effectiveness|DT NN|BODY_4|0
+2pn x x xnlast figure 4|JJ SYM SYM NN NN CD|BODY_13|0
+b 1|NN CD|BODY_3|0
+communication traces|NN NNS|BODY_3|0
+these routing algo|DT JJ NN|BODY_3|0
+the shortest paths|DT JJS NNS|BODY_5|0
+the node complexity|DT NN NN|BODY_4|0
+3|CD|BODY_10|0
+the partially adaptive north-last algorithm|DT RB JJ JJ NN|ABSTRACT_2|0
+reserves|NNS|BODY_5|0
+suitable channels|JJ NNS|BODY_6|0
+[7]|NN|BODY_3|0
+a case|DT NN|BODY_1|0
+a more flexible version|DT RBR JJ NN|BODY_1|0
+a node x|DT NN NN|BODY_1|0
+e-cube and saturates|NN CC NNS|BODY_3|0
+even ( respectively|RB -LRB- RB|BODY_3|0
+high-radix , k 16|JJR , NN CD|BODY_1|0
+interconnection networks|NN NNS|BODY_3|0
+m|NN|BODY_3|0
+maximum possible negative hops|JJ JJ JJ NNS|BODY_1|0
+more details|JJR NNS|BODY_3|0
+periodic intervals|JJ NNS|BODY_3|0
+store-and-forward ( saf ) [5 ] and wormhole ( wh ) [14]|NN -LRB- NN -RRB- CD NN CC NN -LRB- NNP -RRB- NN|BODY_1|0
+the 2pn fully-adaptive algorithm|DT JJ JJ NN|BODY_3|0
+the buffer reservation technique [20]|DT NN NN NN NN|BODY_3|0
+the fully-adaptive 2pn|DT JJ NNP|BODY_1|0
+the phop wh scheme|DT NN JJ NN|BODY_1|0
+the warmup time|DT NN NN|BODY_1|0
+this technique|DT NN|BODY_1|0
+three-dimensional networks|JJ NNS|BODY_3|0
+the bisection bandwidth width arguement|DT NN NN JJ NN|BODY_5|0
+average length|JJ NN|BODY_4|0
+the fewest virtual channels|DT JJS JJ NNS|BODY_2|0
+computer networks|NN NNS|BODY_5|0
+six algorithms|CD NNS|BODY_5|1
+two sub-sets|CD NNS|BODY_6|0
+a hop-class 1|DT NN CD|BODY_3|0
+an even node|DT RB NN|BODY_3|0
+brevity|NN|BODY_3|0
+a virtual channel one class|DT JJ NN CD NN|BODY_11|0
+what|WP|BODY_12|0
+the lowest latency|DT JJS RB|BODY_2|0
+virtual channel c i|JJ NN NN NN|BODY_11|0
+number|NN|BODY_8|0
+a straightforward manner|DT JJ NN|BODY_5|0
+all the remaining flits|PDT DT VBG NNS|BODY_5|0
+the frequency|DT NN|BODY_3|0
+the first flit|DT JJ NN|BODY_2|0
+nlast algorithm|JJ NN|BODY_5|0
+b bonus cards|NN NN NNS|BODY_2|0
+critical sections|JJ NNS|BODY_5|0
+the the number|DT DT NN|BODY_3|0
+physical channel [13]|JJ NN NNP|BODY_4|0
+dimension links|NN NNS|BODY_7|0
+no flexibility|DT NN|BODY_6|0
+least congested one|JJS JJ CD|BODY_5|0
+dimension 0|NN CD|BODY_5|0
+a newly arrived message|DT RB VBN NN|BODY_4|0
+the n numbers|DT NN NNS|BODY_10|0
+class i|NN NN|BODY_4|0
+both|DT|BODY_7|0
+adaptivity , full or partial|NN , JJ CC JJ|ABSTRACT_4|1
+the average wait time|DT JJ NN NN|BODY_3|0
+x xx|SYM NN|BODY_10|0
+a rank|DT NN|BODY_5|0
+( n+1 )2 n\gamma1 virtual channels|-LRB- RB CD JJ JJ NNS|BODY_4|0
+2 n virtual channels|CD NN JJ NNS|BODY_3|0
+the conclusions|DT NNS|ABSTRACT_2|1
+channels|NNS|BODY_2|0
+non-adaptive routing|JJ NN|BODY_3|0
+some sort|DT NN|BODY_4|0
+x xnlast figure 3|NN JJ NN CD|BODY_21|0
+x xnlast figure 5|SYM JJ NN CD|BODY_15|0
+results|NNS|BODY_3|1
+one clock cycle|CD NN NN|BODY_2|0
+the time|DT NN|BODY_10|0
+virtual|JJ|BODY_5|0
+points|NNS|BODY_3|0
+the network plus one|DT NN CC CD|BODY_12|0
+negative hop schemes|JJ NN NNS|BODY_2|0
+class c|NN NN|BODY_8|0
+some form|DT NN|BODY_3|0
+one or more hops|CD CC JJR NNS|BODY_13|0
+no bonus-cards|DT NNS|BODY_2|0
+this section|DT NN|BODY_2|0
+a wider choice|DT JJR NN|BODY_3|0
+delay and transmission time|NN CC NN NN|BODY_8|0
+any buffer|DT NN|BODY_3|0
+approximately nk=4|RB CD|BODY_3|0
+average number|JJ NN|BODY_7|0
+the same degree|DT JJ NN|BODY_10|0
+an n-bit number|DT JJ NN|BODY_3|0
+class b|NN NN|BODY_5|0
+massively parallel computations|JJ JJ NNS|BODY_3|0
+a positive hop ) or class b|DT JJ NN -RRB- CC NN NN|BODY_10|0
+closer|JJR|BODY_9|0
+load balancing|NN NN|BODY_3|0
+9 buffer classes|CD NN NNS|BODY_2|0
+the extensive amount|DT JJ NN|BODY_3|0
+node ( 4|NN -LRB- CD|BODY_4|0
+nbc use nine virtual channels|JJ NN CD JJ NNS|BODY_5|0
+nlast schemes|JJ NNS|BODY_3|0
+c 3|NN CD|BODY_22|0
+routing logic complexity|JJ NN NN|BODY_2|0
+x|NN|BODY_17|0
+most half the diameter|JJS PDT DT NN|BODY_6|0
+song|NN|BODY_1|0
+the above lemma|DT JJ NN|BODY_4|0
+that node|IN NN|BODY_13|0
+the corresponding algorithm|DT JJ NN|BODY_11|0
+all messages|DT NNS|BODY_2|0
+a hotspot percentage|DT NN NN|BODY_2|0
+similar throughputs|JJ NNS|BODY_6|0
+a more uniform utilization|DT RBR JJ NN|BODY_5|0
+10 , 15 , 19 , 23 ]|CD , CD , CD , CD NNS|BODY_4|0
+links|NNS|BODY_2|0
+( glass and ni|-LRB- NN CC NNS|BODY_1|0
+2.2 fully-adaptive routing|CD JJ NN|BODY_1|0
+3.4 discussion|CD NN|BODY_1|0
+maximum system performance|JJ NN NN|BODY_1|0
+ni|NNS|BODY_1|0
+the average message interarrival time|DT JJ NN NN NN|BODY_9|0
+the network reach steady state|DT NN NN JJ NN|BODY_3|0
+the uncorrected dimensions 1|DT JJ NNS CD|BODY_8|0
+torus|NN|BODY_1|0
+physical channels|JJ NNS|BODY_9|0
+a k-ary n-cube network|DT JJ NN NN|BODY_1|0
+only minimal routing|RB JJ NN|BODY_2|0
+the same class 2|DT JJ NN CD|BODY_7|0
+the implementation aspects|DT NN NNS|BODY_2|0
+the nodes 3g|DT NNS NN|BODY_9|0
+buffers|NNS|BODY_2|0
+time|NN|BODY_7|0
+c.s. raghavendra|DT NN|BODY_1|0
+the elegant turn model|DT JJ NN NN|BODY_6|0
+simulations|NNS|BODY_3|0
+saf algorithms|NN NNS|BODY_6|0
+the rate|DT NN|BODY_5|0
+ili program|JJ NN|BODY_7|0
+the negative-hop saf algorithm|DT JJ NN NN|BODY_1|0
+the class|DT NN|BODY_4|0
+the well-known non-adaptive e-cube algorithm|DT JJ JJ NN NN|BODY_5|0
+c 1|NN CD|BODY_14|0
+equals|NNS|BODY_4|0
+one channel|CD NN|BODY_7|0
+a lower label|DT JJR NN|BODY_7|0
+six different deadlock-free wormhole routing algorithms|CD JJ JJ NN VBG NNS|BODY_4|0
+about the same number|IN DT JJ NN|BODY_4|0
+eight virtual channels|CD JJ NNS|BODY_5|0
+the saturation latencies|DT NN NNS|BODY_2|0
+only minimal routing algorithms|RB JJ NN NNS|BODY_6|0
+these three fully-adaptive routing algorithms|DT CD JJ NN NNS|BODY_2|0
+possible directions|JJ NNS|BODY_5|0
+a torus|DT NN|BODY_1|0
+24 flits|CD NNS|BODY_6|0
+either class b i|DT NN NN PRP|BODY_8|0
+current ( 4 , (3 , (2 , (5 , figure 2|JJ -LRB- CD , CD , CD , CD , NN CD|BODY_5|0
+various classes|JJ NNS|BODY_5|0
+source node ( 4|NN NN -LRB- CD|BODY_4|0
+the same class|DT JJ NN|BODY_7|0
+an intermediate host node|DT JJ NN NN|BODY_3|0
+the denominator|DT NN|BODY_6|0
+( 1 )|-LRB- CD -RRB-|BODY_3|0
+traffic rates|NN NNS|BODY_5|0
+2n virtual channels|JJ JJ NNS|ABSTRACT_4|0
+the particular virtual channel|DT JJ JJ NN|BODY_5|0
+the virtual channel number|DT JJ NN NN|BODY_5|0
+software techniques|NN NNS|BODY_1|0
+only four virtual channels|RB CD JJ NNS|BODY_4|0
+meshes|NNS|BODY_9|0
+both error bounds|DT NN NNS|BODY_1|0
+one-hop lookahead|JJ NN|BODY_8|0
+routing logic|JJ NN|BODY_2|0
+2.3|CD|BODY_1|0
+the product|DT NN|BODY_3|0
+better randomness|JJR NN|BODY_1|0
+unbalanced traffic|JJ NN|ABSTRACT_4|0
+the buffer classes|DT NN NNS|BODY_8|0
+the negative-hop|DT NN|BODY_1|0
+a better upper|DT JJR JJ|BODY_7|0
+contiguous channels|JJ NNS|BODY_4|0
+an improvement (|DT NN -LRB-|BODY_2|0
+the number-of-negative-hops-taken|DT NN|BODY_6|0
+dally [13] shows|RB JJ NNS|BODY_1|0
+of-negative-hops-taken|NN|BODY_9|0
+route|NN|BODY_8|0
+the average diameter|DT JJ NN|BODY_4|0
+the simulator|DT NN|BODY_12|0
+fifo order|JJ NN|BODY_5|0
+congestion con- trol|NN NNS NN|BODY_9|0
+various traffic patterns|JJ NN NNS|BODY_11|0
+less than 1 %|JJR IN CD NN|BODY_4|0
+uw-madison|NN|BODY_8|0
+abrupt falls|JJ VBZ|BODY_1|0
+lemma 1|NN CD|BODY_1|0
+31 torus|CD NN|BODY_13|0
+any further|DT JJ|BODY_10|0
+multicomputer networks|JJ NNS|BODY_1|0
+a given throughput|DT VBN NN|BODY_6|0
+adaptive wormhole routing algorithms|JJ NN NN NNS|TITLE_2|0
+[25]|NN|BODY_6|0
+0.2 or less )|CD CC JJR -RRB-|BODY_7|0
+the next-host|DT JJ|BODY_6|0
+6 2 )|CD CD -RRB-|BODY_15|0
+3.3 simulation|CD NN|BODY_1|0
+multi-dimensional meshes and tori|JJ NNS CC NN|BODY_4|0
+the same latency|DT JJ NN|BODY_5|0
+the hotspot traffic pattern|DT JJ NN NN|BODY_1|0
+a recently proposed partially adaptive algorithm|DT RB VBN RB JJ NN|ABSTRACT_1|0
+k-ary 2-cubes|JJ NNS|BODY_9|1
+24]|CD|BODY_3|0
+this value|DT NN|BODY_1|0
+minimal fully-adaptive algorithms|JJ JJ NNS|BODY_1|0
+a noteworthy point|DT JJ NN|BODY_1|0
+0.63|CD|BODY_1|0
+matrix transpose|NN NN|BODY_7|0
+the hop schemes|DT NN NNS|BODY_4|0
+figure 1(|NN CD|BODY_1|0
+another point|DT NN|BODY_1|0
+a longer time|DT JJR NN|BODY_5|0
+15 )|CD -RRB-|BODY_3|0
+every physical channel|DT JJ NN|BODY_1|0
+multi- processors|NNS NNS|BODY_1|0
+a parallel computer|DT JJ NN|BODY_6|0
+the four edges|DT CD NNS|BODY_1|0
+the negative hop|DT JJ NN|BODY_1|0
+even k|RB NN|BODY_1|0
+proper weights 3|JJ NNS CD|BODY_1|0
+the average latency and variance|DT JJ NN CC NN|BODY_2|0
+s|PRP|BODY_1|0
+saf routing algorithms|NN NN NNS|BODY_5|0
+particular , phop and nbc|JJ , JJ CC JJ|BODY_1|0
+felperin et al|NN NNP NN|BODY_1|0
+the peak normalized throughput|DT JJ JJ NN|BODY_1|0
+the following performance com- parisons|DT VBG NN NNS NNS|BODY_4|0
+the negative-hop wh routing algorithm|DT JJ JJ NN NN|BODY_1|0
+two uni-directional communication links|CD JJ NN NNS|BODY_3|0
+this check|DT NN|BODY_1|0
+hashing techniques|VBG NNS|BODY_7|0
+multidimensional tori and meshes|JJ NN CC NNS|BODY_4|0
+the commonly used e-cube algorithm|DT RB VBN JJ NN|BODY_4|0
+destination index|NN NN|BODY_1|0
+this observation|DT NN|BODY_1|0
+a physical channel|DT JJ NN|BODY_4|0
+deadlock-free [8]|JJ NN|BODY_4|0
+partially-adaptive algorithm|JJ NN|BODY_6|0
+simulation results|NN NNS|BODY_1|0
+the negative-hop algorithm )|DT JJ NN -RRB-|BODY_11|0
+particular|JJ|ABSTRACT_1|0
+the following lemma presents|DT VBG NN NNS|BODY_1|0
+any given time|DT VBN NN|BODY_1|0
+the current host node|DT JJ NN NN|BODY_5|0
+the above procedure need|DT JJ NN NN|BODY_2|0
+sages|NNS|BODY_7|0
+sage|NN|BODY_9|0
+hotspot 5|NN CD|BODY_1|0
+much attention|JJ NN|BODY_5|0
+unbounded delays|JJ NNS|BODY_8|0
+algorithm phop|NN NN|BODY_1|0
+5|CD|BODY_1|0
+lower throughputs|JJR NNS|BODY_5|0
+lower through - puts|JJR IN : NNS|BODY_7|0
+only one diametrically opposite node|RB CD RB JJ NN|BODY_11|0
+us|PRP|BODY_1|0
+figure 1|NN CD|BODY_1|0
+wh algorithms|JJ NNS|BODY_2|0
+several fully-|JJ NNS|BODY_1|0
+below|IN|BODY_1|0
+completely local traffic|RB JJ NN|BODY_6|0
+nhop and phop algorithms|NN CC NN NNS|BODY_6|0
+the message reserves virtual channel c|DT NN NNS JJ NN NN|BODY_1|0
+most|JJS|BODY_1|0
+negative-hop schemes|JJ NNS|BODY_1|0
+the first author|DT JJ NN|BODY_1|0
+the above convergence criteria|DT JJ NN NNS|BODY_5|0
+the network diameter and message latencies|DT NN NN CC NN NNS|BODY_4|0
+agarwal [1]|NN NN|BODY_3|0
+this local traffic pattern|DT JJ NN NN|BODY_1|0
+message latencies|NN NNS|BODY_1|0
+glass and ni [19] report|NN CC NNS JJ NN|BODY_1|0
+a possible explanation|DT JJ NN|BODY_1|0
+algorithm nbc|NN NN|BODY_1|0
+fraction|NN|BODY_8|0
+region|NN|BODY_20|0
+bidirectional ( half-duplex ) channels|JJ -LRB- JJ -RRB- NNS|BODY_6|0
+etc|FW|BODY_8|0
+the best path|DT JJS NN|BODY_13|0
+the e- cube algorithm|DT NNS NN NN|BODY_1|0
+23]|CD|BODY_12|0
+the complexity|DT NN|BODY_1|0
+the counters|DT NNS|BODY_1|0
+certain traffic loads|JJ NN NNS|BODY_6|0
+nbk=2c + 1|JJ NN CD|BODY_15|0
+nhop based algorithms [6]|NN VBN NNS NNS|BODY_8|0
+the achieved throughputs|DT VBN NNS|BODY_1|0
+the main problem|DT JJ NN|BODY_1|0
+ensuring deadlock-freedom|VBG NN|BODY_1|0
+performance comparisons|NN NNS|BODY_6|0
+the least throughput|DT JJS NN|BODY_6|0
+independent|JJ|BODY_1|0
+another issue|DT NN|BODY_1|0
+parameters|NNS|BODY_1|0
+another result|DT NN|ABSTRACT_1|0
+classes 2 and 5 have weight|NNS CD CC CD VBP NN|BODY_9|0
+the latest three or more samples|DT JJS CD CC JJR NNS|BODY_5|0
+the unexpected low performance|DT JJ JJ NN|BODY_1|0
+for|IN|BODY_1|0
+the graph coloring problem|DT NN NN NN|BODY_7|0
+the next section|DT JJ NN|BODY_3|0
+the paper self-contained|DT NN JJ|BODY_1|0
+other words|JJ NNS|BODY_1|0
+these hop schemes|DT NN NNS|BODY_1|0
+the fully-adaptive 2pn scheme performs|DT JJ JJ NN NNS|BODY_1|0
+low traffic load|JJ NN NN|BODY_1|0
+the average channel uti- lization|DT JJ NN NNS NN|BODY_1|0
+a certain specified limit|DT JJ VBN NN|BODY_10|0
+remarks|NNS|BODY_1|0
+section 4|NN CD|BODY_1|0
+direct communication links|JJ NN NNS|BODY_9|0
+up to 0.75 applied traffic load|RB TO CD VBN NN NN|BODY_4|0
+another check|DT NN|BODY_1|0
+one convergence check|CD NN NN|BODY_1|0
+the fully-adaptive wormhole algorithm|DT JJ NN NN|BODY_1|0
+3 the weights|CD DT NNS|BODY_1|0
+improvement|NN|ABSTRACT_1|0
+the routing|DT NN|BODY_1|0
+al- gorithms|DT NNS|BODY_7|0
+the other hand|DT JJ NN|BODY_1|0
+various previous studies|JJ JJ NNS|BODY_9|0
+a single node|DT JJ NN|BODY_8|0
+the above construction|DT JJ NN|BODY_1|0
+three|CD|BODY_1|0
+both latency and peak throughput|DT RB CC JJ NN|BODY_5|0
+neighbor nodes|NN NNS|BODY_4|0
+neighbors|NNS|BODY_12|0
+the 95 % confidence interval|DT CD NN NN NN|BODY_1|0
+full-adaptivity|JJ|BODY_6|0
+the regular uniform traffic|DT JJ NN NN|BODY_5|0
+3 simulation results|CD NN NNS|BODY_1|0
+section 3|NN CD|BODY_1|0
+six different wh routing algorithms|CD JJ JJ NN NNS|BODY_3|0
+negative-hop ( nhop ) saf and wh routing|JJ -LRB- NN -RRB- NN CC JJ NN|BODY_1|0
+fully-adaptive algorithms|JJ NNS|BODY_1|0
+non-adaptive algorithms|JJ NNS|BODY_3|0
+the current node|DT JJ NN|BODY_15|0
++ 1|NN CD|BODY_4|0
+hop based packet routing algorithms|NN VBN NN VBG NNS|BODY_5|0
+the fully-adaptive algorithm|DT JJ NN|BODY_1|0
+this simulator|DT NN|BODY_1|0
+the local traffic pattern|DT JJ NN NN|BODY_1|0
+the uniform ( or random ) traffic pattern|DT NN -LRB- CC JJ -RRB- NN NN|BODY_1|0
+a hop|DT NN|BODY_1|0
+he|PRP|BODY_1|0
+our work|PRP$ NN|BODY_1|0
+longer warmup and sampling times|RBR JJ CC JJ NNS|BODY_1|0
+such simulations|JJ NNS|BODY_2|0
+other features|JJ NNS|BODY_7|0
+wormhole routing algorithms|NN NN NNS|ABSTRACT_6|0
+hotspot traffic patterns|NN NN NNS|BODY_5:ABSTRACT_10|0
+fully-adaptive routing|JJ NN|BODY_4|0
+dimensions|NNS|BODY_1|0
+the following formula|DT VBG NN|BODY_6|0
+our performance study|PRP$ NN NN|BODY_3|0
+section 2|NN CD|BODY_1|0
+about 0.45|IN CD|BODY_6|0
+hop-based algorithms|JJ NNS|BODY_8|0
+the often reported 50 % net-work utilization|DT RB VBN CD NN NN NN|BODY_1|0
+these three|DT CD|BODY_1|0
+any other algorithm|DT JJ NN|BODY_6|0
+a message reserves virtual channel i|DT NN NNS JJ NN NN|BODY_1|0
+figure 4|NN CD|BODY_11|0
+destinations|NNS|BODY_8|0
+c dnbk=2c=2e|NN NN|BODY_9|0
+higher numbers|JJR NNS|BODY_8|0
+these six algorithms|DT CD NNS|BODY_1|0
+tori|NN|BODY_4|0
+next-host|JJ|BODY_5|0
+nhop algorithm|NN NN|BODY_5|0
+nhop scheme|JJ NN|BODY_6|0
+the corresponding positive-hop (or|DT JJ NN NN|BODY_1|0
+the remaining three fully-adaptive algorithms|DT VBG CD JJ NNS|BODY_1|0
+the effect|DT NN|BODY_1|0
+this type|DT NN|BODY_1|0
+nbc )|NN -RRB-|BODY_3|0
+negative-hop scheme|JJ NN|BODY_1|0
+about 0.55|IN CD|BODY_5|0
+the points|DT NNS|BODY_1|0
+the uniform traffic case|DT NN NN NN|BODY_21|0
+these criteria|DT NNS|BODY_3|0
+the well-known e-cube routing algorithm|DT JJ NN NN NN|BODY_1|0
+about 0.35|IN CD|BODY_3|0
+certain cases|JJ NNS|BODY_1|0
+the actual saturation|DT JJ NN|BODY_1|0
+a higher label|DT JJR NN|BODY_5|0
+one hotspot node|CD JJ NN|BODY_4|0
+3.1 simulation|CD NN|BODY_1|0
+an event-driven simulator|DT JJ NN|BODY_6|0
+applying lemma 1|VBG NN CD|BODY_1|0
+fully-adaptive deadlock-free routing|JJ JJ NN|BODY_1|0
+future|NN|BODY_1|0
+the saf scheme|DT JJ NN|BODY_1|0
+the search space|DT NN NN|BODY_1|0
+this light|DT NN|BODY_1|0
+this reason|DT NN|BODY_1|0
+a fully-adaptive algorithm and performance similar|DT JJ NN CC NN JJ|BODY_4|0
+2. reserve|CD NN|BODY_1|0
+that intermediate node|DT JJ NN|BODY_7|0
+3 ) , c 2|CD -RRB- , NN CD|BODY_18|0
+saf technique|JJ NN|BODY_1|0
+the path|DT NN|BODY_1|0
+further work|JJ NN|BODY_1|0
+dnbk=2c=2e|NN|BODY_9|0
+routing algorithms|VBG NNS|BODY_1|0
+2pn and nlast algorithms|JJ CC JJ NNS|BODY_2|0
+a different congestion control|DT JJ NN NN|BODY_1|0
+a negative hop )|DT JJ NN -RRB-|BODY_13|0
+a simulation|DT NN|BODY_1|0
+i hops|NN NNS|BODY_7|0
+only two col- ors|RB CD NNS NNS|BODY_8|0
+the n dimensions|DT NN NNS|BODY_12|0
+the previous hop|DT JJ NN|BODY_14:BODY_9|0
+two-dimensional tori|JJ NN|BODY_1|0
+using lemma 1|VBG NN CD|BODY_1|0
+destination ( 2|NN -LRB- CD|BODY_6|0
+routing|NN|BODY_1|0
+the 2pn scheme routes|DT JJ NN NNS|BODY_1|0
+the following pseudocode|DT VBG NN|BODY_1|0
+the negative-hop saf scheme|DT JJ NN NN|BODY_1|0
+the wh technique|DT JJ NN|BODY_1|0
+this figure|DT NN|BODY_1|0
+once saturation|RB NN|BODY_5|0
+one [20]|CD NN|BODY_7|0
+steady state|JJ NN|BODY_10|0
+the three traffic patterns|DT CD NN NNS|BODY_4|0
+a few well-known fully-adaptive saf schemes|DT JJ JJ JJ NN NNS|BODY_1|0
+the well-known positive-hop saf algorithm|DT JJ JJ NN NN|BODY_1|0
+message length|NN NN|BODY_10|0
+/|NN|BODY_1|0
+2.1 hop schemes|CD NN NNS|BODY_1|0
+an adaptive routing algorithm|DT JJ NN NN|BODY_1|0
+convergence criteria|NN NNS|BODY_1|0
+our observations|PRP$ NNS|BODY_1|0
+the message interarrival times|DT NN NN NNS|BODY_1|0
+the name|DT NN|BODY_1|0
+traffic patterns|NN NNS|BODY_1|0

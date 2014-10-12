@@ -1,0 +1,157 @@
+active learning|JJ NN|BODY_6:BODY_5:TITLE_2:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+we|PRP|BODY_17:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_8:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+it|PRP|BODY_11:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_8:BODY_1:BODY_10:ABSTRACT_7:BODY_7:BODY_8:BODY_9|2
+selective sampling|JJ NN|BODY_6:BODY_5:BODY_11:ABSTRACT_4:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|1
+examples|NNS|BODY_6:BODY_5:BODY_21:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the domain|DT NN|BODY_12:BODY_5:BODY_11:BODY_25:BODY_3:BODY_14:ABSTRACT_7:BODY_7:BODY_8:BODY_9|0
+a neural network|DT JJ NN|BODY_5:ABSTRACT_6:BODY_1:BODY_3:BODY_4|0
+the problem|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:ABSTRACT_9|0
+that|IN|BODY_12:BODY_11:BODY_16:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_28:BODY_1:BODY_7:BODY_8:BODY_9|0
+the network|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+one|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+m )|NN -RRB-|BODY_5:BODY_11:BODY_22:BODY_13:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+r(|NNP|BODY_6:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+the region|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|0
+a neural network implementation|DT JJ NN NN|BODY_6:BODY_4|1
+this paper|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|1
+a single sampling iteration|DT JJ NN NN|BODY_5|1
+that its failure modes|IN PRP$ NN NNS|BODY_3|1
+a training example x|DT NN NN NN|BODY_3|1
+s|VBZ|BODY_12:BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_30:BODY_9|0
+there|EX|BODY_5:BODY_26:BODY_2:BODY_1:BODY_3:BODY_8|0
+the error|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_7|1
+x|SYM|BODY_33:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_8|1
+the na-ive querying algorithm|DT JJ NN NN|BODY_1:BODY_2:BODY_4|0
+the set|DT NN|BODY_5:BODY_23:BODY_1:BODY_3:BODY_4:BODY_9|0
+the selective sampling approach|DT JJ NN NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+the selectively sampled data|DT JJ VBN NNS|BODY_2|0
+the selectively sampled networks|DT JJ JJ NNS|BODY_1:BODY_4|0
+the randomly sampled networks|DT JJ VBN NNS|BODY_5:BODY_2|0
+a complete version space|DT JJ NN NN|BODY_5|0
+an active version-space search|DT JJ NN NN|BODY_2|0
+the unknown target concept|DT JJ NN NN|BODY_3:BODY_8|0
+the initial random sampling|DT JJ JJ NN|BODY_2|0
+800 and 2500 points|CD CC CD NNS|BODY_3|0
+the intial random sample|DT JJ JJ NN|BODY_6|0
+a very small subset|DT RB JJ NN|BODY_6|0
+the added computational cost|DT VBN JJ NN|BODY_5|0
+total ( 4.21 %|JJ -LRB- CD NN|BODY_13|0
+queries|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+( and related ones|-LRB- CC VBN NNS|BODY_2|0
+the washington technology center|DT JJ NN NN|BODY_3|0
+another concept c 2|DT NN NN CD|BODY_3|0
+all actual training examples|DT JJ NN NNS|BODY_2|0
+an electrical power system|DT JJ NN NN|BODY_3|0
+the other two algorithms|DT JJ CD NNS|BODY_3|0
+the triangle learner problem|DT NN NN NN|BODY_2|0
+a positive inductive bias|DT JJ JJ NN|BODY_3|0
+a na-ive neural network|DT JJ JJ NN|BODY_2|0
+a bounding box suffices|DT NN NN NNS|BODY_4|0
+8 and 3 units|CD CC CD NNS|BODY_5|0
+a single output node|DT JJ NN NN|BODY_2|0
+several different problem domains|JJ JJ NN NNS|BODY_5|0
+the concept class c|DT NN NN NN|BODY_3|0
+an initial random sample|DT JJ JJ NN|BODY_3|0
+the actual training patterns|DT JJ NN NNS|BODY_5|0
+10 to 150 points|CD TO CD NNS|BODY_5|0
+below 1.5 % )|RB CD NN -RRB-|BODY_8|0
+a training set size|DT NN NN NN|BODY_6|0
+c 2 6ae c|NN CD NN NN|BODY_2|0
+the relevant input distribution|DT JJ NN NN|BODY_3|0
+a random point x|DT JJ NN NN|BODY_6|0
+a most specific configuration|DT RBS JJ NN|BODY_5:BODY_8|0
+an arbitrary distribution p|DT JJ NN NN|BODY_12:BODY_8|0
+a large second iteration|DT JJ JJ NN|BODY_6|0
+an unknown target t|DT JJ NN NN|BODY_4|0
+a feedforward neural network|DT NN JJ NN|BODY_5|0
+the single extra iteration|DT JJ JJ NN|BODY_2|0
+the unit line interval|DT NN NN NN|BODY_3|0
+the selectively sampled case|DT JJ VBN NN|BODY_5|0
+the output error backpropagate|DT NN NN NN|BODY_2|0
+an arbitrary domain x|DT JJ NN NN|BODY_2|0
+training ( e .g|NN -LRB- NN NN|BODY_6|0
+its intuitive visual appeal|PRP$ JJ JJ NN|BODY_2|0
+a roughly polynomial curve|DT RB JJ NN|BODY_6|0
+a pair ( x|DT NN -LRB- SYM|BODY_4|0
+low , subconscious levels|JJ , JJ NNS|BODY_8|0
+t( x ) )|NN SYM -RRB- -RRB-|BODY_8|0
+the randomly sampled data|DT JJ VBN NNS|BODY_5|0
+the training set (|DT NN NN -LRB-|BODY_4|0
+david mackay ( 1992|JJ NN -LRB- CD|BODY_2|0
+15 selective sampling iterations|CD JJ NN NNS|BODY_6|0
+a small second iteration|DT JJ JJ NN|BODY_2|0
+where w j ;i|WRB JJ NN NN|BODY_3|0
+the actual training examples|DT JJ NN NNS|BODY_2|0
+a designated output node|DT VBN NN NN|BODY_8|0
+a sufficiently large network|DT RB JJ NN|BODY_3|0
+a more general one|DT RBR JJ CD|BODY_6|0
+an equally specific one|DT RB JJ CD|BODY_7|0
+the error term equation|DT NN NN NN|BODY_3|0
+le cun et al|JJ JJ NNP NN|BODY_4|0
+information transfer  strategies|NN NN NN NNS|BODY_5|0
+the normal training examples|DT JJ NN NNS|BODY_7|0
+the ratio p r[x|DT NN NN NN|BODY_4|0
+t and distribution p|NN CC NN NN|BODY_4|0
+version-space search ( mitchell|JJ NN -LRB- NN|BODY_6|0
+a very rudimentary form|DT RB JJ NN|BODY_2|0
+the background learning rate|DT NN VBG NN|BODY_2|0
+any single neural network|DT JJ JJ NN|BODY_6|0
+sections 6 and 7|NNS CD CC CD|BODY_1|0
+the network ~ c|DT NN NN NN|BODY_5|0
+a new distribution p|DT JJ NN NN|BODY_2|0
+the most specific/general networks|DT RBS JJ NNS|BODY_5|0
+a simple convex shape|DT JJ JJ NN|BODY_8|0
+0.1 and 0.9 )|CD CC CD -RRB-|BODY_12|0
+the concept learning problem|DT NN VBG NN|BODY_3|0
+a constant learning rate|DT JJ NN NN|BODY_5|0
+minimal finite state automata|JJ JJ NN NN|BODY_4|0
+these two failure modes|DT CD NN NNS|BODY_2|0
+passive random sampling techniques|JJ JJ NN NNS|BODY_4|0
+an appropriately trained network|DT NN VBN NN|BODY_6|0
+a new inductive bias|DT JJ JJ NN|BODY_4|0
+motherese  speech )|RB VB NN -RRB-|BODY_13|0
+an incremental learning procedure|DT JJ NN NN|BODY_16|0
+o(ln ( 1 queries|NN -LRB- CD NNS|BODY_12|0
+the input distribution p|DT NN NN NN|BODY_5|0
+a neural network architecture|DT JJ NN NN|BODY_1|0
+a concept class c|DT NN NN NN|BODY_5:BODY_1|0
+the power system problem|DT NN NN NN|BODY_5|0
+a small power system|DT JJ NN NN|BODY_9|0
+the the initial r(|DT DT JJ NN|BODY_8|0
+the actual underlying p.|DT JJ JJ NN|BODY_9|0
+positive those example points|JJ DT NN NNS|BODY_8|0
+this last category corresponds|DT JJ NN NNS|BODY_2|0
+' c ' g|'' NN '' NN|BODY_5|0
+this negative  bias|DT JJ JJ NN|BODY_1|0
+any other inductive bias|DT JJ JJ NN|BODY_2|0
+the figure na-ive approach|DT NN JJ NN|BODY_4|0
+the added computational costs|DT VBN JJ NNS|BODY_10|0
+judd ( 1988 )|NN -LRB- CD -RRB-|BODY_5|0
+some concept c 1|DT NN NN CD|BODY_1|0
+the concept learning model|DT NN VBG NN|BODY_1|0
+an expected position error|DT VBN NN NN|BODY_1|0
+an active learning method|DT JJ NN NN|BODY_4|0
+valiant ( 1984 )|NN -LRB- CD -RRB-|BODY_1|0
+many natural learning systems|JJ JJ NN NNS|BODY_1|0
+most general  concepts|JJS JJ NN NNS|BODY_2|0
+~ c( x )|IN NN NN -RRB-|BODY_10|0
+the modified version-space search|DT VBN NN NN|BODY_8|0
+4 experimental results experiments|CD JJ NNS NNS|BODY_1|0
+relatively simple concept classes|RB JJ NN NNS|BODY_6|0
+the modified equation \deltaw|DT JJ NN NN|BODY_5|0
+the next section )|DT JJ NN -RRB-|BODY_11|0
+4.2 real-valued threshold function|CD VBN NN NN|BODY_1|0
+the following two subsections|DT VBG CD NNS|BODY_1|0
+o( 1 training examples|RB CD NN NNS|BODY_4|0
+a fixed representation size|DT JJ NN NN|BODY_6|0
+an infinitesimally small amount|DT RB JJ NN|BODY_11|0
+any consistent concept c|DT JJ NN NN|BODY_1|0
+the neural network implementation|DT JJ NN NN|BODY_1|0
+thermal overload and brown-out|JJ JJ CC JJ|BODY_2|0
+a most specific network|DT RBS JJ NN|BODY_1|0
+a universally applicable paradigm|DT RB JJ NN|BODY_2|0
+which|WDT|BODY_5:BODY_3:BODY_14:BODY_4:BODY_7|0
+a concept c|DT NN NN|BODY_5:BODY_1:BODY_4:BODY_8:BODY_9|0
+)|-RRB-|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+this|DT|BODY_1:BODY_2:BODY_4:BODY_7:BODY_9|0
+the size|DT NN|BODY_2:BODY_3:BODY_14:BODY_8|0

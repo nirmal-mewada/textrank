@@ -1,0 +1,9 @@
+strings|NNS|BODY_5:BODY_3|0
+a simple o(|x|l+|y|k ) time algorithm|DT JJ NN -RRB- NN NN|BODY_2|0
+that|WDT|BODY_3|0
+run-length|NN|BODY_2|0
+their edit distance|PRP$ NN NN|BODY_4|0
+we|PRP|BODY_1|0
+edit distance|NN NN|BODY_1|0
+encoded lengths k and l|VBD NNS NN CC NN|BODY_6|0
+two run-length|CD NN|BODY_4|0

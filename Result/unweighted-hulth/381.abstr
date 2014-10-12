@@ -1,0 +1,24 @@
+grid-connection mode|NN NN|BODY_3|0
+different modes|JJ NNS|BODY_2|0
+stand-alone mode|JJ NN|BODY_4|0
+hardware measurements|NN NNS|BODY_2|0
+its input and output scaling factors|PRP$ NN CC NN NN NNS|BODY_5|0
+small steady-state error and system robustness|JJ NN NN CC NN NN|BODY_2|0
+the theoretical discussions|DT JJ NNS|BODY_5|0
+taguchi|NN|BODY_6|0
+taguchi method|NN NN|BODY_2|0
+a microcontroller ( intel 80196kc )|DT NN -LRB- JJ NN -RRB-|BODY_4|0
+a prototype|DT NN|BODY_3|0
+a robust fuzzy controller|DT JJ JJ NN|BODY_3|0
+which|WDT|BODY_4|0
+pv ) power inverter|NN -RRB- NN NN|BODY_5|0
+this paper presents design and implementation|DT NN NNS NN CC NN|BODY_3|0
+a robust fuzzy controlled photovoltaic|DT JJ JJ JJ JJ|BODY_4|0
+the proposed system|DT JJ NN|BODY_1|0
+wide load variations|JJ NN NNS|BODY_5|0
+robust fuzzy controlled photovoltaic power inverter|JJ JJ JJ JJ NN NN|BODY_1|0
+scaling factors|JJ NNS|BODY_7|0
+fast transient response|RB JJ NN|BODY_1|0
+its adaptivity , robustness and feasibility|PRP$ NN , NN CC NN|BODY_6|0
+simulation results|NN NNS|BODY_1|0
+the taguchi-tuning algorithm|DT NN NN|BODY_6|0

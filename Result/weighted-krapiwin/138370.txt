@@ -1,0 +1,93 @@
+which|WDT|BODY_6:BODY_5:ABSTRACT_6:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+a vector|DT NN|BODY_5:ABSTRACT_8:BODY_3:BODY_4|0
+they|PRP|BODY_6:ABSTRACT_4:ABSTRACT_8:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the evaluation|DT NN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_4|0
+machines|NNS|ABSTRACT_6:BODY_3:BODY_4|0
+the case|DT NN|BODY_2:BODY_10:BODY_7:ABSTRACT_9|0
+we|PRP|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|1
+this|DT|BODY_2:BODY_1:BODY_3:BODY_14:BODY_4:BODY_9|0
+vfnlib|NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+all computations|DT NNS|BODY_2:BODY_4|0
+one|CD|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|1
+fnlib|NN|BODY_5:BODY_13:BODY_1:BODY_3:BODY_4|1
+arguments|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|1
+it|PRP|BODY_2:BODY_1:BODY_9|1
+the cray|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+the convex|DT NN|BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_4|0
+each|DT|BODY_6:BODY_5:BODY_1:BODY_4|0
+cases|NNS|BODY_5:BODY_2|0
+the cray y-mp|DT NN NN|BODY_6:BODY_2:BODY_4|0
+routines|NNS|BODY_5:BODY_3:BODY_7|0
+the result|DT NN|BODY_2:BODY_3:BODY_10:BODY_4|0
+example|NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+the vectorized codes|DT JJ NNS|BODY_2:BODY_3|1
+the sun|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3:BODY_8|0
+each function|DT NN|BODY_2:BODY_3:BODY_4|0
+that|WDT|BODY_6:BODY_13:BODY_2:BODY_7|0
+the computation|DT NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+an array|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the convex and cray|DT NN CC NN|BODY_5:BODY_2|0
+a chebyshev series|DT NN NN|BODY_5:BODY_2|0
+the codes|DT NNS|BODY_1:BODY_2:BODY_4|0
+x j|NN NN|BODY_2:BODY_3:BODY_7|0
+terms|NNS|BODY_3:BODY_4:BODY_7|0
+a fatal error message|DT JJ NN NN|BODY_2:BODY_3|0
+the range|DT NN|BODY_2:BODY_3:BODY_8|0
+our implementation|PRP$ NN|BODY_2:BODY_4|0
+.e|NN|BODY_6:BODY_3:BODY_7|0
+respectively alamos national laboratories|RB JJ JJ NNS|BODY_3|0
+the gathering and scattering|DT NN CC NN|BODY_2|0
+the imsl sfun/library [11]|DT JJ JJ NN|BODY_5|0
+40 and 333 megaflops|CD CC CD NNS|BODY_3|0
+( 3 ) vectorization|-LRB- CD -RRB- NN|BODY_8|0
+three separate computer systems|CD JJ NN NNS|BODY_2|0
+( 1 ) reduction|-LRB- CD -RRB- NN|BODY_3|0
+the sun sparcstation 1+|DT NN NN NNS|BODY_2|0
+operations 1 , 2|NNS CD , CD|BODY_6|0
+vectorized chebyshev series evaluation|JJ NN NN NN|BODY_4|0
+the chebyshev series sum|DT NN NN NN|BODY_4|0
+( 2 ) vectorization|-LRB- CD -RRB- NN|BODY_5|0
+the corresponding function value|DT JJ NN NN|BODY_3|0
+the single precision codes|DT JJ NN NNS|BODY_4|0
+the corresponding linpack benchmark|DT JJ NN NN|BODY_4|0
+technology ( nist )|NN -LRB- NN -RRB-|BODY_4|0
+all required chebyshev expansions|DT VBN NN NNS|BODY_2|0
+( option -o2 )|-LRB- NN NN -RRB-|BODY_10|0
+1:0 \theta 10 \gamma28|CD NN CD CD|BODY_8|0
+the first offending argument|DT JJ NN NN|BODY_3|0
+fatal error table 2|JJ NN NN CD|BODY_1|0
+veclib chebyshev series evaluation|NN NN NN NN|BODY_6|0
+57.7 22.8 34.8 pre|CD CD CD NN|BODY_7|0
+the same chebyshev series|DT JJ NN NN|BODY_2|0
+the vector x j|DT NN NN NN|BODY_4|0
+the required function value|DT VBN NN NN|BODY_5|0
+the sine or cosine|DT NN CC NN|BODY_4|0
+orders zero and one|NNS CD CC CD|BODY_10|0
+a(x)g ( '( x|NN -LRB- JJ NN|BODY_3|0
+the cyber 205 compiler|DT NN CD NN|BODY_5|0
+multiple chebyshev series evaluation|JJ NN NN NN|BODY_2|0
+the badly vectorized loops|DT RB VBN NNS|BODY_6|0
+double precision versions|JJ NN NNS|BODY_2:BODY_1|0
+a three-term linear recurrence|DT JJ NN NN|BODY_2|0
+an n-term chebyshev series|DT JJ NN NN|BODY_2|0
+the following bessel functions|DT VBG NNP NNS|BODY_8|0
+the the index compression|DT DT NN NN|BODY_5|0
+the most efficient implementation|DT RBS JJ NN|BODY_5|0
+7 1.8 2.9 cray|CD CD CD NN|BODY_7|0
+scalar vector sun sparc|JJ NN NN NN|BODY_6|0
+a single chebyshev series|DT JJ NN NN|BODY_5|0
+these operations|DT NNS|BODY_1:BODY_3|0
+more than 10 years|JJR IN CD NNS|BODY_3|0
+each case available options|DT NN JJ NNS|BODY_1|0
+the subprograms wngt(m,x,a,key )|DT NNS NN -RRB-|BODY_2|0
+respect to three criteria|NN TO CD NNS|BODY_5|0
+a significantly larger percentage|DT RB JJR NN|BODY_4|0
+the sun and convex|DT NN CC NN|BODY_3|0
+both fnlib and vfnlib|DT NN CC NN|BODY_7|0
+a straightforward fortran implementation|DT JJ JJ NN|BODY_2|0
+y-mp2 20 12.7 182.1|NNP CD CD CD|BODY_8|0
+the following vector version|DT VBG NN NN|BODY_2|0
+a given argument range|DT VBN NN NN|BODY_7|0
+only a small portion|RB DT JJ NN|BODY_3|0
+a more reason-able distribution|DT RBR JJ NN|BODY_2|0

@@ -1,0 +1,16 @@
+the gain nonlinearity|DT NN NN|BODY_2|0
+the mutual gain modulation|DT JJ NN NN|BODY_3|0
+12 db|CD NN|BODY_3|0
+a wide range|DT JJ NN|BODY_4|0
+an extinction ratio|DT NN NN|BODY_2|0
+soas )|NNS -RRB-|BODY_6|0
+two-cascaded semiconductor optical amplifiers|JJ NN JJ NNS|BODY_2|0
+the authors|DT NNS|BODY_3|0
+two-cascaded semiconductor optical|JJ NN JJ|BODY_5|0
+a novel all-optical logic nor gate|DT NN JJ NN CC NN|BODY_4|0
+the two soas|DT CD NNS|BODY_4|0
+this configuration|DT NN|BODY_1|0
+the all-optical nor gate feasibility|DT JJ CC NN NN|BODY_1|0
+wavelength|NN|BODY_5|0
+a counterpropagating feedback configuration|DT NN NN NN|BODY_7|0
+all-optical logic nor gate|JJ NN CC NN|BODY_1|0

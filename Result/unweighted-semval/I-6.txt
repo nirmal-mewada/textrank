@@ -1,0 +1,537 @@
+we|PRP|BODY_11:BODY_16:BODY_22:BODY_17:BODY_18:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_44:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|5
+that|WDT|BODY_12:BODY_11:BODY_40:BODY_17:BODY_15:BODY_13:BODY_2:BODY_24:BODY_14:BODY_3:BODY_4:BODY_32:BODY_6:BODY_5:ABSTRACT_6:BODY_53:BODY_10:BODY_19:BODY_7:BODY_48:BODY_8:BODY_9|2
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_22:BODY_17:BODY_18:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_32:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8|1
+this|DT|BODY_12:BODY_5:BODY_16:BODY_17:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|2
+agents|NNS|BODY_11:BODY_16:BODY_22:BODY_17:BODY_15:BODY_13:BODY_23:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8|1
+it|PRP|BODY_12:BODY_11:BODY_16:BODY_18:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_27:BODY_1:BODY_10:BODY_8:BODY_9|2
+i|NN|BODY_11:BODY_16:BODY_17:BODY_18:BODY_13:BODY_23:BODY_26:BODY_39:BODY_2:BODY_3:BODY_4:BODY_35:BODY_31:BODY_5:BODY_34:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+cs|NNS|BODY_61:BODY_16:BODY_22:BODY_18:BODY_43:BODY_15:BODY_67:BODY_39:BODY_3:BODY_4:BODY_60:BODY_6:BODY_36:BODY_5:BODY_28:BODY_57:BODY_1:BODY_49:BODY_10:BODY_8:BODY_20:BODY_9|0
+s|PRP|BODY_12:BODY_11:BODY_22:BODY_16:BODY_17:BODY_18:BODY_21:BODY_15:BODY_13:BODY_25:BODY_3:BODY_14:BODY_4:BODY_27:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|0
+a|DT|BODY_41:BODY_12:BODY_18:BODY_21:BODY_15:BODY_39:BODY_24:BODY_64:BODY_3:BODY_4:BODY_33:BODY_44:BODY_10:BODY_7:BODY_29:BODY_8:BODY_54:BODY_9|2
+.e|NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_21:BODY_13:BODY_26:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+commitments|NNS|BODY_6:BODY_11:BODY_5:BODY_28:BODY_23:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|3
+they|PRP|BODY_12:BODY_6:BODY_11:BODY_21:BODY_15:BODY_13:BODY_1:BODY_3:BODY_10:BODY_8:BODY_9|0
+)|-RRB-|BODY_11:BODY_17:BODY_27:BODY_15:BODY_13:BODY_1:BODY_24:BODY_14:BODY_3:BODY_30:BODY_8|0
+a single dialogue operator|DT JJ NN NN|BODY_12:BODY_18|0
+compliant and expected behaviour|NN CC VBN RB|ABSTRACT_14:BODY_2|0
+our framework|PRP$ NN|BODY_5:BODY_21:ABSTRACT_8:BODY_1:BODY_3:BODY_4:BODY_8|1
+âˆƒr âˆˆ r( env|JJ CC NN NN|BODY_12:BODY_11:BODY_9|0
+r|NN|BODY_34:BODY_17:BODY_15:BODY_39:BODY_3:BODY_14:BODY_29:BODY_7:BODY_8:BODY_9:BODY_55|0
+a commitment store cs|DT NN NN NNS|BODY_4|0
+round brackets ( î¹|JJ NNS -LRB- NN|BODY_11|0
+agent communication language (acl|NN NN NN NN|BODY_2|0
+a more general framework|DT RBR JJ NN|BODY_2|0
+the ds transition systems|DT NNS NN NNS|BODY_2|0
+o( n2 t )|JJ NN NN -RRB-|BODY_7|0
+? csâˆª { î¹|JJ JJ NN NN|BODY_61:BODY_23:BODY_50:BODY_37:BODY_7|0
+environmental commitment processing rules|JJ NN NN NNS|BODY_70|0
+expected and compliant behaviour|JJ CC JJ NN|BODY_2|0
+¨ and â¬ (|NN CC NN -LRB-|BODY_6|0
+agent 3 violated commitment|NN CD VBN NN|BODY_8|0
+behaviour ( e .g|NN -LRB- NN NN|BODY_44|0
+entailment relation e ||NN NN NN NN|BODY_4|0
+the respective performative types|DT JJ JJ NNS|BODY_6|0
+propositional logical language l|JJ JJ NN NN|BODY_3|0
+¤ |r|.gi( r[ 1|NN JJ NN CD|BODY_8|0
+the act mapping tracks|DT NN NN NNS|BODY_2|0
+the graphical notation p|DT JJ NN NN|BODY_5|0
+( 2 ) sanction|-LRB- CD -RRB- NN|BODY_13|0
+a more empirical notion|DT JJR JJ NN|BODY_11|0
+the dynamic acl specification|DT JJ JJ NN|BODY_5|0
+verifiability and grounding [10|NN CC NN NN|BODY_5|0
+sanction and reward mechanisms|NN CC NN NNS|ABSTRACT_16|0
+the only available means|DT RB JJ NNS|BODY_6|0
+the so-called dialogue operators|DT JJ NN NNS|BODY_2|0
+the deactivation rule d|DT NN NN NN|BODY_15|0
+âˆ€1 â‰ ¤ j|DT JJ NN NN|BODY_7|0
+a fresh identifier î¹|DT JJ NN NN|BODY_5|0
+a domain-dependent predicate causes(a|DT NN NN NN|BODY_2|0
+a more detailed history|DT RBR JJ NN|BODY_2|0
+every originally created commitment|DT RB VBN NN|BODY_2|0
+the simplicity and clarity|DT NN CC NN|BODY_22|0
+a complete acl semantics|DT JJ JJ NNS|BODY_6|0
+the other the degree|DT JJ DT NN|BODY_16|0
+a constant size (|DT JJ NN -LRB-|BODY_8|0
+the joint action vector|DT JJ NN NN|BODY_50|0
+{(i , j )|cs|i|FW , FW FW|BODY_5|0
+all pairs ( i|DT NNS -LRB- NNS|BODY_12|0
+any two agents i|DT CD NNS VBP|BODY_7|0
+a â† ’ env|DT JJ NN NN|BODY_5|0
+direct punishment or reward|JJ NN CC NN|BODY_13|0
+a total update time|DT JJ NN NN|BODY_6|0
+a language and b|DT NN CC NN|BODY_9|0
+the three main elements|DT CD JJ NNS|BODY_6|0
+different such communication-inherent sanctioning|JJ JJ JJ NN|BODY_7|0
+both ï• and ïˆ|DT NN CC NNS|BODY_9|0
+rewarding and sanctioning agent|JJ CC JJ NN|BODY_6|0
+both i and j|DT NN CC NN|BODY_11|0
+the agent function gi|DT NN NN NNP|BODY_28|0
+the initial semantic state|DT JJ JJ NN|BODY_22|0
+an acl semantics specification|DT JJ NNS NN|BODY_8|0
+any two semantic variants|DT CD JJ NNS|BODY_7|0
+the semantic state changes|DT JJ NN NNS|BODY_12|0
+the simple underlying idea|DT JJ JJ NN|BODY_8|1
+the joint action space|DT JJ NN NN|BODY_13|0
+) âˆˆ a(s0 )|-RRB- JJ NN -RRB-|BODY_13|0
+the very simple idea|DT JJ JJ NN|BODY_3|0
+a certain condition ï•|DT JJ NN NN|BODY_12|1
+î“ ) âˆˆ cs|DT -RRB- JJ NNS|BODY_13|0
+the semantic successor state|DT JJ NN NN|BODY_6|1
+aamas 07 ) 105|NN CD -RRB- CD|BODY_4|0
+the j-long initial sub-sequence|DT JJ JJ NN|BODY_6|0
+an initial state e1|DT JJ NN NN|BODY_8|0
+âˆ— ) } âˆª|NN -RRB- IN IN|BODY_8:BODY_55|0
+fornara and colombetti [6]|NN CC NNS NNS|BODY_6|1
+active and violated (|JJ CC VBN -LRB-|BODY_6|0
+five commitment transition rules|CD NN NN NNS|BODY_6|0
+adaptation ( reputation-based mechanisms|NN -LRB- JJ NNS|BODY_17|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+our simple example semantics|PRP$ JJ NN NNS|BODY_1|0
+any r.7 2.4.4 integration|DT CD CD NN|BODY_16|1
+|r | = t|JJ IN SYM NN|BODY_10|0
+the previous step t|DT JJ NN NN|BODY_4|0
+a = ã—n i=1aci|DT SYM JJ NNS|BODY_12|0
+a âˆˆ âˆªn i=1aci|DT NN NN NNS|BODY_26|0
+cs( r ) )|JJ NN -RRB- -RRB-|BODY_14|0
+a suggested acl semantics|DT VBN NN NNS|BODY_8|0
+a powerful communication-inherent mechanism|DT JJ JJ NN|BODY_5|0
+an analysis and discussion|DT NN CC NN|BODY_3|1
+agent communication languages (acls|NN NN NNS NNS|ABSTRACT_3|0
+the state transition system|DT NN NN NN|BODY_4|1
+a certain type )|DT JJ NN -RRB-|BODY_12|0
+) â‡ ’ pre(|-RRB- NN NN NN|BODY_26|0
+an earlier semantic state|DT JJR JJ NN|BODY_40|0
+some other useful properties|DT JJ JJ NNS|BODY_7|0
+8 > < >|CD CD NN CD|BODY_19|0
+) âˆˆ î (s|-RRB- CC NN NNS|BODY_4|0
+any further physical actions|DT JJ JJ NNS|BODY_8|0
+all normative commitment elements|DT JJ NN NNS|BODY_3|0
+observed messages and actions|VBN NNS CC NNS|BODY_8|0
+î“ iâ†’j âˆˆ cs|NNS VBP JJ NNS|BODY_16|0
+a) â† ’ aci|NN JJ NN NNS|BODY_9|0
+) âˆ ¨ post(|-RRB- NN NN NN|BODY_29|0
+many different agent designs|JJ JJ NN NNS|BODY_8|0
+a global system time|DT JJ NN NN|BODY_12|0
+’ and âˆ§ )|NN CC NN -RRB-|BODY_8|0
+the pair ( j|DT NN -LRB- NN|BODY_3|0
+a state transition system|DT NN NN NN|BODY_6|0
+its own planning processes|PRP$ JJ NN NNS|BODY_4|0
+deliberation and planning mechanisms|NN CC NN NNS|BODY_5|0
+the semantic transition rules|DT JJ NN NNS|BODY_13|0
+( so-called commitment stores|-LRB- JJ NN NNS|BODY_7|0
+the existing social notion|DT VBG JJ NN|BODY_4|1
+07 ) definition 4|CD -RRB- NN CD|BODY_5|0
+a unique commitment identifier|DT JJ NN NN|BODY_6|0
+time( t ) accept(i|NN NN -RRB- NN|BODY_40:BODY_29|0
+time( t ) reject(i|NN NN -RRB- NN|BODY_17|0
+î“ ) cs â†|NN -RRB- NNS NN|BODY_42:BODY_19:BODY_7|0
+a given semantics specification|DT VBN NNS NN|BODY_23|0
+their sender/receiver/content slots )|PRP$ JJ NNS -RRB-|BODY_26|0
+a slightly different notation|DT RB JJ NN|BODY_1|0
+communication and action sequences|NN CC NN NNS|BODY_7|1
+indirect sanctions and rewards|JJ NNS CC NNS|BODY_7|0
+1 more precisely l|CD JJR RB JJ|BODY_1|0
+gi( env , a)|JJ NN , NN|BODY_5|0
+the commitment transition rules|DT NN NN NNS|BODY_1|0
+the remaining pending commitments2|DT VBG JJ NN|BODY_1|0
+âš• ï• ïˆ )|JJ JJ NN -RRB-|BODY_10|0
+planning-based rational decision making|JJ JJ NN NN|BODY_7|0
+any further agent behaviour11|DT JJ NN NNP|BODY_6|0
+2. avoiding commitment inconsistency|DT VBG NN NN|BODY_1|0
+a current run r|DT JJ NN NN|BODY_13|0
+the same interaction context|DT JJ NN NN|BODY_20|0
+their own commitments )|PRP$ JJ NNS -RRB-|BODY_9|0
+a static acl semantics|DT JJ NN NNS|BODY_10|1
+an acl semantics perspective|DT NN NNS NN|BODY_11|0
+the acl specification syntactically6|DT NN NN NNS|BODY_4|0
+all possible commitments )|DT JJ NNS -RRB-|BODY_33|0
+î¹|NN|BODY_41:BODY_62:BODY_17:BODY_18:BODY_15:BODY_13:BODY_25:BODY_14:BODY_4:BODY_32:BODY_6:BODY_5:BODY_36:BODY_30|0
+what|WP|BODY_6:BODY_11:BODY_5:BODY_13:BODY_23:BODY_1:BODY_2:BODY_3:BODY_10:BODY_8|2
+the semantics|DT NNS|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the set|DT NN|BODY_32:BODY_22:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+expectations|NNS|BODY_6:BODY_5:BODY_22:BODY_42:BODY_2:BODY_4:BODY_7:BODY_8|1
+î“ iâ†’j t|NN JJ NN|BODY_46:BODY_11:BODY_34:BODY_23:BODY_64:BODY_60|0
+the commitment store|DT NN NN|BODY_6:BODY_8:BODY_20|1
+( e .g|-LRB- NN NN|BODY_5:BODY_8|0
+the sixth intl|DT JJ NN|BODY_6:BODY_2:BODY_1|0
+all these properties|PDT DT NNS|BODY_2|0
+(|-LRB-|BODY_6:BODY_11:BODY_13:BODY_3:BODY_7:BODY_20|0
+previous environment states|JJ NN NNS|BODY_14:BODY_7|0
+commitment-based acl semantics|JJ NN NNS|BODY_2:ABSTRACT_3|0
+a finite set|DT JJ NN|BODY_3:BODY_9|0
+the dialogue operators|DT NN NNS|BODY_6:BODY_3|0
+semantic state transitions|JJ NN NNS|BODY_4:BODY_20|0
+an unset commitment|DT JJ NN|BODY_4|0
+the constraint c|DT NN NN|BODY_6:BODY_9|0
+expected behaviour prediction|VBN NN NN|BODY_2|0
+the other hand|DT JJ NN|BODY_2:BODY_3|0
+the operator rq|DT NN NNS|BODY_2|0
+an improved notion|DT VBN NN|BODY_3:ABSTRACT_9|0
+ï‡ âš• ï•|JJ JJ NN|BODY_3:BODY_9|0
+this tuple )|DT NN -RRB-|BODY_9|0
+the original contract|DT JJ NN|BODY_6|0
+rule ( d|NN -LRB- NN|BODY_2|0
+a dynamic semantics|DT JJ NNS|BODY_2:BODY_1|0
+a formal framework|DT JJ NN|BODY_5|0
+initial semantic state|JJ JJ NN|BODY_2|0
+no possible behaviour|DT JJ NN|BODY_2|0
+the joint vector|DT JJ NN|BODY_15|0
+a new commitment|DT JJ NN|BODY_13:BODY_10|0
+compliant behaviour prediction|JJ NN NN|BODY_3|0
+a dialogue operator|DT NN NN|BODY_2|0
+any run r|DT NN NN|BODY_1:BODY_10|0
+a pending/cancelled equivalent|DT JJ NN|BODY_15|0
+all semantic states|DT JJ NNS|BODY_2|0
+fornara and colombetti|NN CC NNS|BODY_2|0
+the ds specification|DT NNS NN|BODY_14|0
+the speech acts|DT NN NNS|BODY_3|0
+the following example|DT JJ NN|BODY_3|0
+the semantic state|DT JJ NN|BODY_15:BODY_1|0
+open multiagent systems|JJ JJ NNS|ABSTRACT_8:BODY_14|0
+control flow issues|NN NN NNS|BODY_3|0
+expectation-based communication semantics|JJ NN NNS|BODY_3|0
+âš¥ } assigns|JJ NN NNS|BODY_5|0
+state transition diagram|NN NN NN|BODY_69|0
+a truth value|DT NN NN|BODY_6|0
+normative ) commitments|JJ -RRB- NNS|BODY_10|0
+current run r|JJ NN NN|BODY_71|0
+the usual connectives|DT JJ NNS|BODY_5|0
+a quasi-stationarity assumption|DT NN NN|BODY_3|0
+a simple mechanism|DT JJ NN|ABSTRACT_12|0
+our acl semantics|PRP$ NN NNS|BODY_23|1
+each processing step|DT VBG NN|BODY_6|0
+the main disadvantage|DT JJ NN|BODY_2|0
+each environmental state|DT JJ NN|BODY_8|0
+rq and rj|NN CC NN|BODY_5|0
+l and/or constraints|JJ CC NNS|BODY_5|0
+( 1 )|-LRB- CD -RRB-|BODY_10|0
+previous interaction experience|JJ NN NN|BODY_12|0
+our general framework|PRP$ JJ NN|BODY_2|0
+a pending commitment|DT VBG NN|BODY_5:BODY_1|0
+8 , 14]|CD , CD|BODY_2|0
+each time step|DT NN NN|BODY_4:BODY_8|0
+a consequentialist view|DT JJ NN|BODY_4|0
+the existing approaches|DT VBG NNS|BODY_2|0
+the interaction process|DT NN NN|BODY_12|0
+x , v|SYM , FW|BODY_2|0
+i and j|NN CC NN|BODY_10|0
+a common framework|DT JJ NN|ABSTRACT_2:BODY_1|1
+the normal semantics|DT JJ NNS|BODY_9|1
+j1 ) ,|NNP -RRB- ,|BODY_6:BODY_15|0
+a simple way|DT JJ NN|BODY_2|0
+that expected( cs)|IN JJ NN|BODY_12|1
+the current contents|DT JJ NNS|BODY_6|0
+the maximum number|DT JJ NN|BODY_10|0
+actions or beliefs|NNS CC NNS|BODY_4|0
+unset , e.g|JJ , JJ|BODY_9|1
+a fsm-like view|DT JJ NN|BODY_3|0
+the following characterisation|DT VBG NN|BODY_25|0
+the ds-acl specification|DT JJ NN|BODY_9|0
+the appropriate conditions|DT JJ NNS|BODY_7|0
+âˆƒj âˆˆ n.r|JJ JJ NN|BODY_11|0
+an ordinary (|DT JJ -LRB-|BODY_9|0
+j âˆˆ ag|NN JJ NN|BODY_14:BODY_7|0
+a small fragment|DT JJ NN|BODY_3|0
+two dialogue operators|CD NN NNS|BODY_3|0
+a communication-inherent way|DT JJ NN|BODY_5|0
+the standard semantics|DT JJ NNS|BODY_5|0
+their expected (|PRP$ VBN -LRB-|BODY_6|0
+a mapping act|DT NN NN|BODY_10|0
+a partial subset|DT JJ NN|BODY_9|0
+a) ë› ë›|DT JJ JJ|BODY_7|0
+the main strength|DT JJ NN|BODY_2|0
+the wildcard symbol|DT JJ NN|BODY_11|0
+the cs-update independent|DT JJ JJ|BODY_14|0
+no two constraints|DT CD NNS|BODY_7|0
+back the money|RB DT NN|BODY_4|0
+the commitment history|DT NN NN|BODY_20|0
+these mental states|DT JJ NNS|BODY_12|0
+a graphic representation|DT JJ NN|BODY_2|0
+the traditional sense|DT JJ NN|BODY_8|0
+ei+1 = f(ei|CD SYM FW|BODY_9|0
+every agent pair|DT NN NN|BODY_10|1
+an explicit notion|DT JJ NN|BODY_2|0
+a clear distinction|DT JJ NN|BODY_8|0
+an action schema|DT NN NN|BODY_2|0
+1 ( g|CD -LRB- NN|BODY_14|0
+immediate predecessor r|JJ NN NN|BODY_6|0
+a reasoning agent|DT NN NN|BODY_7|0
+the predecessor state|DT NN NN|BODY_51|0
+) âˆˆ î |-RRB- CC NN|BODY_9|0
+a (ai[j ]|DT JJ SYM|BODY_6|0
+all the agents|PDT DT NNS|BODY_6|0
+and/or j (|JJ FW -LRB-|BODY_25|0
+the current meaning|DT JJ NN|BODY_16|0
+some initial transitions|DT JJ NNS|BODY_4|0
+commitment state transitions|NN NN NNS|BODY_3|0
+the space complexity|DT NN NN|BODY_4|0
+a particular configuration|DT JJ NN|BODY_4|0
+the following definition|DT JJ NN|BODY_11|0
+) âˆˆ î|-RRB- FW NN|BODY_11:BODY_25:BODY_19|0
+each individual state|DT JJ NN|BODY_5|0
+) commitment-based semantics|-RRB- JJ NNS|BODY_10|0
+a non-trivial sense|DT JJ NN|BODY_2|0
+so-called semantic variants|JJ JJ NNS|BODY_7|0
+a planning-based view|DT JJ NN|BODY_9|0
+the above properties|DT JJ NNS|BODY_2|0
+the transition diagram|DT NN NN|BODY_2|0
+an individual ds|DT JJ NNS|BODY_10|0
+a single iteration|DT JJ NN|BODY_23|0
+the deceived agent|DT JJ NN|BODY_5|0
+example commitment-based semantics|NN JJ NNS|BODY_50|0
+an acl semantics|DT NN NNS|BODY_4|0
+rewarding certain behaviours|JJ JJ NNS|BODY_4|0
+the activation rule|DT NN NN|BODY_2|0
+the same dynamics|DT JJ NNS|BODY_3|0
+a and env|DT CC NN|BODY_4|0
+ïˆ t| î¹|IN JJ NN|BODY_40:BODY_26|0
+e ) =|NN -RRB- SYM|BODY_15|0
+ï• âˆˆ p|VBN NN NN|BODY_13|0
+atâˆ’1 â† ’|DT JJ NN|BODY_5|0
+all agents )|DT NNS -RRB-|BODY_14|0
+that cs(r )|IN NN -RRB-|BODY_8|0
+concrete dynamic semantics|JJ JJ NNS|ABSTRACT_7|0
+the fundamental problems|DT JJ NNS|ABSTRACT_6|0
+the only framework|DT JJ NN|BODY_3|0
+physical agent action|JJ NN NN|BODY_17|0
+their expected consequences|PRP$ VBN NNS|BODY_10|0
+possible commitment stores|JJ NN NNS|BODY_10|0
+potentially conflicting objectives|RB VBG NNS|BODY_8|0
+) â‡ ’|-RRB- NN NN|BODY_19|0
+that different courses|DT JJ NNS|BODY_9|1
+our example )|PRP$ NN -RRB-|BODY_6|0
+aamas 07 )|NN CD -RRB-|BODY_4|0
+a normative notion|DT JJ NN|BODY_9|0
+a sequence r|DT NN NN|BODY_2|0
+actual future events|JJ JJ NNS|BODY_5|0
+ã— ag â†|NN NN NN|BODY_11|0
+a ( standard|DT -LRB- NN|BODY_2|0
+market-based interaction )|JJ NN -RRB-|BODY_16|0
+t trust i|JJ NN NN|BODY_8|1
+the knowledge base|DT NN NN|BODY_3|0
+one active state|CD JJ NN|BODY_11|1
+v} } cs|JJ NN NNS|BODY_19|0
+a , f|DT , NN|BODY_18|0
+the future meaning|DT JJ NN|BODY_6|0
+further potential properties|RBR JJ NNS|BODY_3|0
+a mapping actr|DT NN NN|BODY_7|0
+the context (|DT NN -LRB-|BODY_6|0
+individual speech acts|JJ NN NNS|BODY_6|0
+the respective agent|DT JJ NN|BODY_30|0
+contradictory commitment specifications|JJ NN NNS|BODY_7|0
+the commitment state|DT NN NN|BODY_8|0
+all these aspects|DT DT NNS|BODY_4|0
+âˆ ¼ gi|JJ NN NNP|BODY_8|0
+this definition captures|DT NN NNS|BODY_24|0
+the instant (|DT NN -LRB-|BODY_30|0
+admissible agent functions|JJ NN NNS|BODY_6|0
+the activation/deactivation conditions|DT NN NNS|BODY_28|0
+a finite number|DT JJ NN|BODY_4|0
+rewarding specific kinds|JJ JJ NNS|BODY_4|0
+some runs )|DT NNS -RRB-|BODY_10|0
+all other formulae|DT JJ NNS|BODY_52|0
+alternative semantic variants|JJ JJ NNS|ABSTRACT_2|0
+more complex languages|RBR JJ NNS|BODY_4|0
+some extension r|DT NN NN|BODY_33|0
+exactly one action|RB CD NN|BODY_3|0
+the debitum ï‡|DT NN NN|BODY_8|0
+optimal ds-acl design|JJ JJ NN|BODY_3|0
+consistency and completeness|NN CC NN|BODY_5|0
+ïˆ iâ†’j |r|NNS IN NN|BODY_17|0
+c} âˆ ©|FW FW FW|BODY_7|0
+the future )|DT NN -RRB-|BODY_20|0
+some fundamental problems|DT JJ NNS|BODY_5|1
+verifying transition constraints|JJ NN NNS|BODY_7|0
+ï• and ïˆ|NN CC NN|BODY_5|0
+state transition systems|NN NN NNS|BODY_3|0
+an objective prediction|DT NN NN|BODY_9|0
+a slight variation|DT JJ NN|BODY_4|1
+different semantic states|JJ JJ NNS|BODY_4|0
+objectively verifiable pre|RB JJ NN|BODY_9|0
+ïˆ âˆˆ l|IN VBP NN|BODY_27|0
+our example ds|PRP$ NN NNS|BODY_2|0
+artificial intelligence-multiagent systems|JJ JJ NNS|ABSTRACT_3|0
+section 4 reviews|NN CD NNS|BODY_1|0
+section 5 concludes|NN CD VBZ|BODY_3|0
+the given context|DT VBN NN|BODY_8|1
+initially the semantics|RB DT NNS|BODY_5|0
+its own reaction|PRP$ JJ NN|BODY_10|0
+the rational implications|DT JJ NNS|BODY_11|0
+a function gi|DT NN NN|BODY_7|0
+ planning processes|JJ VBG NNS|BODY_11|0
+) mental states|-RRB- JJ NNS|BODY_8|0
+a verifiable basis|DT JJ NN|BODY_10|0
+different speech acts|JJ NN NNS|BODY_14|0
+the culprit i|DT NN FW|BODY_4|0
+’ a( î´|NN NN NN|BODY_13|0
+any general statements|DT JJ NNS|BODY_2|0
+ï‡.4 next ,|DT JJ ,|BODY_41|0
+the individual agent|DT JJ NN|BODY_5|0
+the complex constraint|DT JJ NN|BODY_5|0
+a simple example|DT JJ NN|BODY_13|0
+a full record|DT JJ NN|BODY_19|0
+(only ) agents|RB -RRB- NNS|BODY_3|0
+the same pair|DT JJ NN|BODY_5|0
+¢ recovery mechanisms|IN NN NNS|BODY_37|0
+) = p|-RRB- SYM NN|BODY_6|0
+the dialogue operator|DT NN NN|BODY_10|0
+a run )|DT NN -RRB-|BODY_31|0
+the semantics specification|DT NNS NN|BODY_2|0
+deactivation strict precedence|NN JJ NN|BODY_12|0
+the intended semantics|DT JJ NNS|BODY_11|0
+the mental states|DT JJ NNS|BODY_12|0
+î“ âˆˆ cs|s|DT JJ NNS|BODY_7|0
+our framework mediates|PRP$ NN NNS|BODY_5|0
+cs. âˆ€r r|NN IN NN|BODY_13|0
+a grounding problem|DT NN NN|BODY_4|0
+the following way|DT JJ NN|BODY_31|0
+the non-normative sense|DT JJ NN|BODY_8|0
+all possible commitments|DT JJ NNS|BODY_4|0
+the potential behaviour|DT JJ NN|BODY_9|0
+j earlier )|VBG JJR -RRB-|BODY_36|0
+its condition ï•|PRP$ NN NN|BODY_2|0
+the debtor j|DT NN NN|BODY_2|0
+the usual way|DT JJ NN|BODY_21|0
+a) .expected( cs(r|DT JJ NN|BODY_12:BODY_10|0
+the previous step|DT JJ NN|BODY_5|0
+actr ( i|NN -LRB- NN|BODY_11|0
+better reflect j|JJR VB VBG|BODY_29|0
+a structure î¹|DT NN NN|BODY_2|0
+¤ t î¹|JJ IN NN|BODY_6|0
+the new value|DT JJ NN|BODY_10|0
+an alternative view|DT JJ NN|BODY_9|0
+the same authors|DT JJ NNS|BODY_1|0
+this active commitment|DT JJ NN|BODY_14|0
+their fulfilment status|PRP$ NN NN|BODY_7|0
+cs.t > t|JJ JJ NN|BODY_65|0
+( i .e|-LRB- NNS NN|BODY_17|0
+jn ) }|NN -RRB- NN|BODY_16|0
+some semantic variants|DT JJ NNS|BODY_7|0
+the different components|DT JJ NNS|BODY_20|1
+an ostensible intention|DT JJ NN|BODY_17|0
+the so-called range|DT JJ NN|BODY_4|0
+a deactivation condition|DT NN NN|BODY_6|0
+expected agent behaviour|JJ NN NNP|BODY_25|1
+norms and sanctions|NNS CC NNS|BODY_9|0
+two alternative definitions|CD JJ NNS|BODY_6|0
+the ( finite|DT -LRB- NN|BODY_1|0
+an annulment thereof|DT JJ NN|BODY_7|0
+t definition 1|NN NN CD|BODY_73|0
+two further dimensions|CD JJ NNS|BODY_6|0
+two possible states|CD JJ NNS|BODY_11|0
+observed behaviour (|JJ NN -LRB-|BODY_32|0
+a certain behaviour|DT JJ NN|BODY_12|0
+the verifiability problem|DT NN NN|BODY_2|0
+the acl specification|DT NN NN|BODY_19|0
+the latest violation|DT JJS NN|BODY_3|0
+the current cs|DT JJ NNS|BODY_5|0
+a second type|DT JJ NN|BODY_3|0
+certain unset/pending commitments|JJ JJ NNS|BODY_12|0
+the acl semantics|DT NN NNS|BODY_11|0
+the agent pairs|DT NN NNS|BODY_16|0
+an acl specification|DT NN NN|BODY_6|0
+the last state|DT JJ NN|BODY_54|0
+a semantic state|DT JJ NN|BODY_4|0
+a reasonable attempt|DT JJ NN|BODY_6|1
+atâˆ’1[i] i .e|JJ FW FW|BODY_45|0
+our example fragment|PRP$ NN NN|BODY_1|0
+different semantic variants|JJ JJ NNS|BODY_18|0
+cs update rules|NNS NN NNS|BODY_6|0
+fully compliant behaviour|RB JJ NN|BODY_14|0
+î“ âˆˆ cs|DT JJ NNS|BODY_15|0
+all extensions r|DT NNS NN|BODY_2|0
+publicly observable commitments|RB JJ NNS|BODY_8|0
+unexpected compliant behaviour|JJ NN NN|BODY_5|0
+âˆ€(s , c|NNS , NN|BODY_9|0
+actual agent functions|JJ NN NNS|BODY_20|0
+{rq , rj|NN , NN|BODY_8|0
+such contradictory claims|JJ VB NNS|BODY_6|0
+compliant agent functions|JJ NN NNS|BODY_2|0
+dynamic acl semantics|JJ JJ NNS|BODY_6|0
+all possible runs|DT JJ NNS|BODY_4|0
+f and v|NN CC NN|BODY_4|0
+the fulfilment/violation rules|DT NN NNS|BODY_1|0
+all other agents|DT JJ NNS|BODY_5|0
+2.4.5 complexity issues|CD NN NNS|BODY_1|0
+the right thing|DT JJ NN|BODY_10|0
+the normative commitment|DT JJ NN|BODY_3|0
+the fsm-like structure|DT JJ NN|BODY_1|0
+the following constructs|DT VBG NNS|BODY_4|0
+all agent functions|DT NN NNS|BODY_2|0
+the total size|DT JJ NN|BODY_17|0
+ïˆ âˆˆ cs|IN NN NNS|BODY_12:BODY_43:BODY_29|0
+a ds framework|DT NNS NN|BODY_1|0
+the same request|DT JJ NN|BODY_6|0
+âˆª {( î¹|IN JJ NN|BODY_47|0
+î“ jâ†’i t|NN NN NN|BODY_27:BODY_15:BODY_38|0
+î“ iâ†’j k|NN NN NN|BODY_8|0
+2. formal framework|DT JJ NN|BODY_1|0
+any observed message|DT JJ NN|BODY_7|0
+âˆ … 3|NN NN CD|BODY_14|0
+a case-bycase basis|DT NN NN|BODY_11|0
+tracking ds evolution|NN NNS NN|BODY_8|0
+the action slot|DT NN NN|BODY_7|0
+the run-time behaviour|DT NN NN|BODY_1|0
+its planning process|PRP$ NN NN|BODY_8|0
+simple additional conditions|JJ JJ NNS|BODY_1|0
+the worst case|DT JJS NN|BODY_1|0
+analysis and discussion|NN CC NN|BODY_1|0
+ïˆ /âˆˆ cs}|IN NN IN|BODY_35|0
+ïˆ iâ†’j tâˆ’1|IN JJ NNS|BODY_56:BODY_66|0
+this verification hinges|DT NN NNS|BODY_1|0
+commitment-based semantics [6|JJ NNS NNS|BODY_1|0
+the normative commitments|DT JJ NNS|BODY_10|0
+just compliant )|RB JJ -RRB-|BODY_7|0
+any such operator|DT JJ NN|BODY_1|0
+the target state|DT NN NN|BODY_15|0
+its current state|PRP$ JJ NN|BODY_34|0
+ï• âˆ ¨|VBN FW FW|BODY_21|0
+all normative commitments|DT JJ NNS|BODY_21|0
+such expectations exist|JJ NNS VBP|BODY_7|0
+2.4 dynamic semantics|CD JJ NNS|BODY_1|0
+agent communication languages|NN NN NNS|TITLE_2|0
+the previous timestep|DT JJ NN|BODY_11|0
+the transition î´|DT NN NN|BODY_18|0
+2.4.3 formal semantics|CD JJ NNS|BODY_1|0
+early mentalistic semantics|RB JJ NNS|BODY_1|0
+a normative sense|DT JJ NN|BODY_13|0
+all active commitments|DT JJ NNS|BODY_5|0
+the successor run|DT NN NN|BODY_16|0
+a promised action|DT JJ NN|BODY_12|0
+which pending commitment|WDT VBG NN|BODY_10|0
+the same time|DT JJ NN|BODY_1|0
+7 one way|CD CD NN|BODY_1|0
+future agent behaviour|JJ NN NNP|BODY_13|0
+transition rule î´|NN NN NN|BODY_15|0
+a deterrent )|DT NN -RRB-|BODY_23|0
+these new conditions|DT JJ NNS|BODY_6|0
+compliant ( cs|JJ -LRB- NNS|BODY_1|0
+compliant behaviour )|JJ NN -RRB-|BODY_14|0
+any future commitments|DT JJ NNS|BODY_9|0
+( c )|-LRB- NN -RRB-|BODY_9|0
+p|NN|BODY_33:BODY_16:BODY_17:BODY_45:BODY_27:BODY_3:BODY_7:BODY_9|0
+ï‡|NN|BODY_46:BODY_17:BODY_2:BODY_3:BODY_10:BODY_7|2
+dynamic semantics|JJ NNS|TITLE_1:ABSTRACT_2:BODY_2:BODY_3:BODY_8|3
+j|NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_28:BODY_15:BODY_4:BODY_7:BODY_20|0
+ï‡ âš•|JJ JJ|BODY_11:BODY_34:BODY_16:BODY_62:BODY_28:BODY_52:BODY_42:BODY_39:BODY_25:BODY_19:BODY_65:BODY_55|0
+an agent|DT NN|BODY_11:BODY_15:BODY_1:BODY_3:BODY_4|0
+the ds|DT NNS|BODY_17:BODY_23:BODY_2:BODY_38:BODY_14:BODY_10|1
+them|PRP|BODY_5:ABSTRACT_5:BODY_16:BODY_14:BODY_7:BODY_8:BODY_9|0
+terms|NNS|BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+r ||VBP NN|BODY_6:BODY_32:BODY_58:BODY_68:BODY_13:BODY_44:BODY_30|0
+c|NN|BODY_5:BODY_22:BODY_17:BODY_18:BODY_23:BODY_2:BODY_4:BODY_48:BODY_8|0
+agent communication|NN NN|BODY_6:BODY_15:BODY_4:ABSTRACT_7|1
+e ||NN NN|BODY_11:BODY_22:BODY_16:BODY_18:BODY_20|0
+post-conditions|NNS|BODY_6:BODY_11:BODY_5:BODY_13:BODY_10|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1|2
+the contents|DT NNS|BODY_5:BODY_3:BODY_7|0
+the acl|DT NN|ABSTRACT_18:BODY_2:BODY_3|0
+multi-agent systems|JJ NNS|BODY_3|0
+all agents|DT NNS|BODY_6:BODY_5:BODY_2:BODY_8|0
+there|EX|BODY_5:BODY_11:BODY_4:BODY_10:BODY_7|0
+expected behaviour|VBN NN|BODY_46:BODY_13:BODY_3:BODY_7|0
+the commitment|DT NN|BODY_6:BODY_5:BODY_15:BODY_1|1
+the system|DT NN|BODY_12:BODY_6:BODY_5:BODY_9|0
+state transitions|NN NNS|BODY_10:BODY_7:BODY_20|0
+behaviour|IN|BODY_6:BODY_5:BODY_15:BODY_10:BODY_4:BODY_9|1
+r( env|NN NN|BODY_6:BODY_2:BODY_1:BODY_8|0

@@ -1,0 +1,694 @@
+constant time|JJ NN|BODY_6:BODY_11:TITLE_3:BODY_7|0
+fixed dimension|VBN NN|BODY_5:TITLE_2:BODY_2:BODY_3|0
+linear programming|JJ VBG|TITLE_1:BODY_2|0
+january 2 , 1986|NN CD , CD|ABSTRACT_5|0
+information processing letters|NN NN NNS|ABSTRACT_2|0
+v.22 n.1|CD NNS|ABSTRACT_3|0
+we|PRP|BODY_12:BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|4
+it|PRP|BODY_6:BODY_12:BODY_5:BODY_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|2
+which|WDT|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|1
+the algorithm|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+at least one constraint|IN JJS CD NN|BODY_5:BODY_4|1
+each violated constraint increases|DT VBN NN NNS|BODY_2|1
+a linear programming problem|DT JJ NN NN|BODY_5|1
+the defining set increases|DT NN VBN NNS|BODY_6|1
+the linear programming problem|DT NN NN NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+all sufficiently large t|DT RB JJ NN|BODY_5:BODY_1:BODY_10:BODY_4|0
+at least one i|IN JJS CD NN|BODY_5:BODY_2:BODY_10|0
+a probabilistic crcw pram|DT JJ NN NN|BODY_3|0
+only a finite number|RB DT JJ NN|BODY_4|0
+the last t -block|DT JJ NN NN|BODY_6:BODY_9|0
+a ' a '|DT '' DT ''|BODY_6|0
+the space r d|DT NN NN NN|BODY_2:BODY_10|0
+this step several times|DT NN JJ NNS|BODY_2|0
+the success or failure|DT NN CC NN|BODY_5:BODY_9|0
+all the violated s-cells|DT DT VBN NNS|BODY_6:BODY_7|0
+pb ( t )|NN -LRB- NN -RRB-|BODY_5|0
+2 d)-processor crcw pram|CD NN NN NN|BODY_2:BODY_7|0
+the total parallel time|DT JJ JJ NN|BODY_1|0
+a a en a|DT DT FW DT|BODY_5|0
+an asymptotically violated constraint|DT RB VBN NN|BODY_4|0
+some active s-block s[|DT JJ NN NN|BODY_4|0
+a n g ae|DT NN NN NNS|BODY_10|0
+the underlying sequential algorithm|DT VBG NN NN|BODY_2|0
+the parametric solution denote|DT JJ NN NN|BODY_2|0
+the fundamental property denote|DT JJ NN NN|BODY_5|0
+pz ( t )|NN -LRB- NN -RRB-|BODY_10|0
+each memory cell stores|DT NN NN NNS|BODY_8|0
+all the active s-blocks|DT DT JJ NNS|BODY_3|0
+any fixed scalar t|DT VBN NN NN|BODY_2|0
+more than one success|JJR IN CD NN|BODY_5|0
+the entire defining set |DT JJ NN NN|BODY_4|0
+n independent ( 0|RB JJ -LRB- CD|BODY_7|0
+all the q processors|PDT DT NN NNS|BODY_3|0
+each such processor attempts|DT JJ NN NNS|BODY_16|0
+the first i rounds|DT JJ FW NNS|BODY_7|0
+each such cell n|DT JJ NN NN|BODY_5|0
+the remaining active s-blocks|DT VBG JJ NNS|BODY_5|0
+a known fact [12|DT VBN NN NNS|BODY_3|0
+n linear inequality constraints|NN NN NN NNS|BODY_8|0
+the piecewise linear nature|DT NN NN NN|BODY_5|0
+any violated cell s[|DT VBN NN NNS|BODY_3|0
+at most our claim|IN JJS PRP$ NN|BODY_5|0
+the corresponding b i|DT JJ NN FW|BODY_12|0
+t [oe( j )|NN NN NN -RRB-|BODY_3|0
+a specific block r[|DT JJ NN NN|BODY_9|0
+the weak linear order|DT JJ NN NN|BODY_12|0
+a binomial random variable|DT JJ JJ JJ|BODY_2|0
+2 d ) time|CD NN -RRB- NN|BODY_7|0
+a predetermined ( many-to|DT JJ -LRB- JJ|BODY_6|0
+a longer running time|DT JJR NN NN|BODY_2|0
+at most e proof|IN JJS NN NN|BODY_5|0
+the 2n 3=4 s-blocks|DT JJ CD NNS|BODY_6|0
+a certain constant number|DT JJ JJ NN|BODY_12|0
+a random 7 integer|DT JJ CD NN|BODY_4|0
+a sufficiently large probability|DT RB JJ NN|BODY_5|0
+the exact parallel complexity|DT JJ JJ NN|BODY_3|0
+o( n ) time|JJ NN -RRB- NN|BODY_4|0
+o(log n ) bits|NN NN -RRB- NNS|BODY_5|0
+each subset b ae|DT NN NN NNS|BODY_3|0
+a suitable sequential implementation|DT JJ JJ NN|BODY_2|0
+at most e \gammad|IN JJS NN NN|BODY_5|0
+o( d 2 log|JJ NN CD NN|BODY_6|0
+a violated s-cell (|DT VBN NN -LRB-|BODY_3|0
+pn ( t )|NN -LRB- NN -RRB-|BODY_3|0
+a nonnegative linear combination|DT JJ NN NN|BODY_3|0
+less than 2 \gamman|JJR IN CD NN|BODY_4|0
+the processors p j|DT NNS NN NN|BODY_2|0
+n 1=4 active s-blocks|RB CD JJ NNS|BODY_2|0
+all the subproblems lpb|DT DT NNS NN|BODY_2|0
+the halfspace h i|DT NN NN NN|BODY_13|0
+c \delta x subject|NN NN NN NN|BODY_6|0
+a random integer i|DT JJ NN IN|BODY_12|0
+a probabilistic parallel algorithm|DT JJ JJ NN|BODY_2|0
+0 ( e .g.|CD -LRB- NN NN|BODY_1|0
+more than one s-cell|JJR IN CD NN|BODY_7|0
+the first successful replication|DT JJ JJ NN|BODY_7|0
+every fixed dimension d|DT VBN NN NN|BODY_1|0
+only the first n|RB DT JJ RB|BODY_5|0
+any s ' n|DT PRP '' NN|BODY_1|0
+1 ajtai and megiddo|CD NN CC NN|BODY_1|0
+propositions 3.2 and 3.3|NNS CD CC CD|BODY_4|0
+indeed all and hence|RB DT CC RB|BODY_2|0
+k constraints proposition 3.1|NN NNS NN CD|BODY_7|0
+a random variable x|DT JJ JJ SYM|BODY_1|0
+z and v z|FW CC VBD FW|BODY_5|0
+each violated s-cell times|DT VBN NN NNS|BODY_12|0
+'s [5 ] scheme|POS CD JJ NN|BODY_5|0
+1=( 16d ) )|CD CD -RRB- -RRB-|BODY_7|0
+all i 2 n|DT NN CD NN|BODY_10|0
+that almost surely '|DT RB RB ''|BODY_2|0
+the ray fu k|DT NN NN NN|BODY_7|0
+the current base problem|DT JJ NN NN|BODY_3|0
+a uniform  distribution|DT JJ NN NN|BODY_4|0
+o(log d ) time|NN JJ -RRB- NN|BODY_11|0
+a successful base problem|DT JJ NN NN|BODY_2|0
+the necessary probabilistic analysis|DT JJ JJ NN|BODY_4|0
+the two possible cases|DT CD JJ NNS|BODY_2|0
+the table|DT NN|BODY_6:BODY_5:BODY_16:BODY_21:BODY_1:BODY_2:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8|0
+o(log 2 d|NN CD NN|BODY_11:BODY_5:BODY_2:BODY_3:BODY_10|1
+the probability|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|1
+9d 2 iterations|CD CD NNS|BODY_3:BODY_4|1
+each|DT|BODY_11:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_9|0
+the contents|DT NNS|BODY_11:BODY_5:BODY_1:BODY_2:BODY_14:BODY_4:BODY_8:BODY_9|0
+a i \delta|DT NN NN|BODY_6:BODY_13:BODY_2:BODY_4:BODY_9|0
+a special form|DT JJ NN|BODY_2:BODY_3|1
+that|DT|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7:BODY_8|0
+the base problem|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+every base problem|DT NN NN|BODY_3|1
+the probabilistic weight|DT JJ NN|BODY_1|1
+the optimal solution|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_9|0
+the original problem|DT JJ NN|BODY_2:BODY_3|0
+the conditional probability|DT JJ NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+at most e|IN JJS NN|BODY_6:BODY_4:BODY_7|0
+a base problem|DT NN NN|BODY_2:BODY_1:BODY_4:BODY_9|0
+any fixed m|DT VBN NN|BODY_2|0
+this last step|DT JJ NN|BODY_2|0
+the minimum norm|DT JJ NN|BODY_5:BODY_3|0
+the sequence|DT NN|BODY_1:BODY_2:BODY_7:BODY_9|0
+all the processors|PDT DT NNS|BODY_2:BODY_3:BODY_8|0
+processors|NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_10|0
+a random integer|DT JJ NN|BODY_6:BODY_4|0
+the sample distribution|DT NN NN|BODY_5:BODY_4|0
+the replication step|DT NN NN|BODY_2:BODY_4|0
+too many s-cells|RB JJ NNS|BODY_2:BODY_3|0
+the sample space|DT NN NN|BODY_1:BODY_2:BODY_4|0
+the shared memory|DT VBN NN|BODY_2:BODY_3|0
+the binomial distribution|DT JJ NN|BODY_2:BODY_3|0
+any past history|DT JJ NN|BODY_6:BODY_2|0
+the inner product|DT JJ NN|BODY_5:BODY_8|0
+the symbol j|DT NN RB|BODY_5:BODY_7|0
+proposition 4.1 part|NN CD NN|BODY_2:BODY_3|0
+at least one|IN JJS CD|BODY_3:BODY_8|0
+the area r|DT NN NN|BODY_6:BODY_2|0
+all sufficiently large|DT RB JJ|BODY_2:BODY_3|0
+whose corresponding vectors|WP$ JJ NNS|BODY_4:BODY_7|0
+the asymptotic feasibility|DT JJ NN|BODY_6:BODY_7|0
+the largest integer|DT JJS NN|BODY_6:BODY_3|0
+the problem lpk|DT NN NN|BODY_5:BODY_2|0
+the defining subset|DT NN NN|BODY_3:BODY_4|0
+the quantities b|DT NNS NN|BODY_15|0
+( t )|-LRB- NN -RRB-|BODY_11:BODY_18:BODY_15:BODY_14|0
+a parallel machine|DT JJ NN|BODY_11|0
+the running time|DT VBG NN|BODY_2:BODY_4|0
+any fixed r-block|DT VBN NN|BODY_7|0
+the previous algorithm|DT JJ NN|BODY_2|0
+a predetermined assignment|DT JJ NN|BODY_3:BODY_10|0
+all the s-cells|DT DT NNS|BODY_6:BODY_12|0
+the first part|DT JJ NN|BODY_1:BODY_7|0
+every fixed d|DT VBN NN|BODY_2|0
+the next iteration|DT JJ NN|BODY_5|0
+the total work|DT JJ NN|BODY_1:BODY_7|0
+every single r-block|DT JJ NN|BODY_5:BODY_3|0
+a ? e|DT . NN|BODY_4|0
+the index j|DT NN NN|BODY_3|0
+log( 16d )|JJ JJ -RRB-|BODY_11:BODY_7|0
+in two steps|IN CD NNS|BODY_2|0
+o(d ) iterations|NN -RRB- NNS|BODY_2|0
+o(log d )|JJ VBD -RRB-|BODY_2|0
+such an algorithm|PDT DT NN|BODY_1|0
+the replicating procedure|DT NN NN|BODY_1|0
+the violated s-cells|DT VBN NNS|BODY_1:BODY_2|0
+the following proposition|DT JJ NN|BODY_1:BODY_7|0
+the base problems|DT NN NNS|BODY_2:BODY_3|0
+the processors sample|DT NNS NN|BODY_2|0
+the first c|DT JJ NN|BODY_8|0
+the entire space|DT JJ NN|BODY_5|0
+these violated constraints|DT VBN NNS|BODY_9|0
+part ( i|NN -LRB- FW|BODY_2|0
+base problem i|NN NN IN|BODY_11:BODY_2|0
+a fixed number|DT JJ NN|BODY_5|0
+\gamma 1 times|NN CD NNS|BODY_18|0
+a cell s[|DT NN NN|BODY_4|0
+at most c|IN JJS NN|BODY_17|0
+only o( n|RB JJ NN|BODY_4|0
+the same value|DT JJ NN|BODY_5|0
+the set l|DT VBN NN|BODY_7|0
+1 and 2n|CD CC CD|BODY_6|0
+parallel and then|JJ CC RB|BODY_3|0
+processor p j|NN NN NN|BODY_8|0
+the asymptotic behavior|DT JJ NN|BODY_14|0
+sufficiently large proof|RB JJ NN|BODY_6|0
+only the constraints|RB DT NNS|BODY_7|0
+the same table|DT JJ NN|BODY_12|0
+all the c|PDT DT NN|BODY_3|0
+our previous algorithm|PRP$ JJ NN|BODY_2|0
+two anonymous referees|CD JJ NNS|BODY_2|0
+the feasible points|DT JJ NNS|BODY_4|0
+2d ) \theta|JJ -RRB- NN|BODY_10|0
+the table t|DT NN NN|BODY_10|0
+the base b|DT NN NN|BODY_2|0
+the violated ones|DT VBN NNS|BODY_12|0
+the table (|DT NN -LRB-|BODY_2|0
+each active block|DT JJ NN|BODY_2|0
+the correct so|DT JJ RB|BODY_2|0
+j ] attempt|RB JJ NN|BODY_4|0
+any i ae|DT NN NNS|BODY_4|0
+at least d|IN JJS NN|BODY_13|0
+the corresponding constraint|DT JJ NN|BODY_2|0
+a significant improvement|DT JJ NN|BODY_8|0
+the solution 2.3|DT NN CD|BODY_4|0
+the other processors|DT JJ NNS|BODY_10|0
+a linear function|DT NN NN|BODY_4|0
+the subproblem lp|DT NN NN|BODY_5|0
+processor p i|NN NN IN|BODY_5|0
+1\gamma1=( 2d )|JJ JJ -RRB-|BODY_5|0
+the last proposition|DT JJ NN|BODY_9|0
+a set b|DT NN NN|BODY_4|0
+the closest point|DT JJS NN|BODY_3|0
+orders b corresponds|NNS NN NNS|BODY_8|0
+the first trial|DT JJ NN|BODY_5|0
+5 i i|CD NN NN|BODY_5|0
+the contrary v|DT JJ NN|BODY_7|0
+time and n=(|NN CC NN|BODY_7|0
+the cell r[|DT NN NN|BODY_8|0
+a i c|DT NN NN|BODY_6|0
+the standard estimates|DT JJ NNS|BODY_2|0
+the violated constraints|DT VBN NNS|BODY_11|0
+i 2 b)|FW CD NN|BODY_8|0
+2n such cells|CD JJ NNS|BODY_2|0
+any subproblem lpk|DT NN NN|BODY_3|0
+d ) constraints|NN -RRB- NNS|BODY_4|0
+a different block|DT JJ NN|BODY_20|0
+a crcw pram|DT JJ NN|BODY_7|0
+valiant 4 [13]|JJ CD NN|BODY_5|0
+at most x|IN JJS NN|BODY_12|0
+2 d processors|CD JJ NNS|BODY_4|0
+c \delta x|NN NN NN|BODY_6|0
+the required form|DT VBN NN|BODY_4|0
+the following cases|DT JJ NNS|BODY_3|0
+the appropriate vectors|DT JJ NNS|BODY_7|0
+pb ( t|NN -LRB- NN|BODY_13|0
+'s sequential algorithm|POS JJ NN|BODY_6|0
+z ae n|FW FW NN|BODY_6|0
+only a subset|RB DT NN|BODY_4|0
+the random variable|DT JJ JJ|BODY_3|0
+t [ i|JJ NN NN|BODY_6|0
+the i-th round|DT JJ NN|BODY_3|0
+the b-cell 4|DT NN CD|BODY_11|0
+a feasible ray|DT JJ NN|BODY_4|0
+the same as|DT JJ IN|BODY_6|0
+section 2 )|NN CD -RRB-|BODY_5|0
+the s-cell s[|DT NN NN|BODY_9|0
+at least 5d|IN JJS CD|BODY_9|0
+n 1=4 )|RB CD -RRB-|BODY_5:BODY_7|0
+the sample (|DT NN -LRB-|BODY_6|0
+the active cells|DT JJ NNS|BODY_6|0
+p= d processors|NN NN NNS|BODY_2|0
+n 3=4 cells|NN CD NNS|BODY_9|0
+the table back|DT NN NN|BODY_8|0
+a smaller area|DT JJR NN|BODY_4|0
+a similar problem|DT JJ NN|BODY_3|0
+this set z|DT NN NN|BODY_2|0
+d proposition 3.6|VBD NN CD|BODY_3|0
+even better complexity|RB JJR NN|BODY_3|0
+n ( t|RB -LRB- NN|BODY_8|0
+n 1=4 blocks|NN CD NNS|BODY_3|0
+the strict inequality|DT JJ NN|BODY_11|0
+the second half|DT JJ NN|BODY_3|0
+3.4 probabilistic analysis|CD JJ NN|BODY_5|0
+the output ng|DT NN NN|BODY_3|0
+the correct z|DT JJ FW|BODY_11|0
+a t 0|DT NN CD|BODY_7|0
+the sampling works|DT NN NNS|BODY_3|0
+the iterative algorithm|DT JJ NN|BODY_7|0
+its base problems|PRP$ NN NNS|BODY_4|0
+the cell s[|DT NN NN|BODY_4|0
+linearly independent vectors|JJ JJ NNS|BODY_10|0
+precisely one face|RB CD NN|BODY_4|0
+at least kd|IN JJS NN|BODY_3|0
+1\gamma1=( 4d )|CD CD -RRB-|BODY_10|0
+a ( 2nd|DT -LRB- CD|BODY_6:BODY_1|0
+the actual number|DT JJ NN|BODY_2|0
+the subproblem lpk|DT NN NN|BODY_8|0
+those whose processors|DT WP$ NNS|BODY_4|0
+proposition 3.1 )|NN CD -RRB-|BODY_10|0
+' n (|'' NN -LRB-|BODY_3|0
+the original one|DT JJ NN|BODY_2|0
+prob( e n|NN NN NN|BODY_2|0
+2n 3=4 blocks|JJ NN NNS|BODY_3|0
+i 2 s)|FW CD NN|BODY_6|0
+each such cell|DT JJ NN|BODY_1|0
+) ) time|-RRB- -RRB- NN|BODY_12|0
+that processor )|DT NN -RRB-|BODY_7|0
+the other cells|DT JJ NNS|BODY_1|0
+the vector u|DT NN NN|BODY_11|0
+its solution u|PRP$ NN NN|BODY_3|0
+asymptotically feasible (|RB JJ -LRB-|BODY_3|0
+sufficiently large values|RB JJ NNS|BODY_13|0
+the underlying scheme|DT JJ NN|BODY_3|0
+c d blocks|NN NN NNS|BODY_3|0
+a set z|DT NN NN|BODY_7|0
+a subproblem lpk|DT NN NN|BODY_2|0
+the total length|DT JJ NN|BODY_6|0
+a different choice|DT JJ NN|BODY_13|0
+the q processors|DT NN NNS|BODY_14|0
+a linear number|DT JJ NN|BODY_4|0
+the objective function|DT JJ NN|BODY_9|0
+the random base|DT JJ NN|BODY_3|0
+such a case|JJ DT NN|BODY_1|0
+at least s-cells|IN JJS NNS|BODY_4|0
+the size k|DT NN NN|BODY_2|0
+the corresponding steps|DT JJ NNS|BODY_2|0
+such violated constraints|JJ VBN NNS|BODY_6|0
+the final step|DT JJ NN|BODY_1|0
+several additional ideas|JJ JJ NNS|BODY_1|0
+the time increase|DT NN NN|BODY_1|0
+n 1=5d times|RB JJ NNS|BODY_13|0
+the basic idea|DT JJ NN|BODY_1|0
+the failure probabilities|DT NN NNS|BODY_10|0
+expected running times|VBN VBG NNS|BODY_5|0
+our probabilistic analysis|PRP$ JJ NN|BODY_1|0
+a single iteration|DT JJ NN|BODY_1|0
+whose corresponding constraints|WP$ JJ NNS|BODY_6|0
+the above ideas|DT JJ NNS|BODY_1|0
+the expected time|DT VBN NN|BODY_5|0
+the sample increases|DT NN NNS|BODY_5|0
+4d ) times|DT -RRB- NNS|BODY_6|0
+n ) time|NN -RRB- NN|BODY_7|0
+the defining set|DT NN NN|BODY_10|0
+the parametric solution|DT JJ NN|BODY_6|0
+the iteration number|DT NN NN|BODY_8|0
+their helpful comments|PRP$ JJ NNS|BODY_3|0
+all such t|DT JJ NN|BODY_11|0
+the i-th processor|DT JJ NN|BODY_1|0
+each such processor|DT JJ NN|BODY_1|0
+all optimal solutions|DT JJ NNS|BODY_6|0
+some predetermined assignment|DT JJ NN|BODY_10|0
+a classical theorem|DT JJ NN|BODY_1|0
+the main result|DT JJ NN|BODY_1|0
+0 corollary 3.5|CD NN CD|BODY_3|0
+2 n )|CD NN -RRB-|BODY_8|0
+its relative interior|PRP$ JJ NN|BODY_8|0
+( iii )|-LRB- NNS -RRB-|BODY_1|0
+i and i|IN CC IN|BODY_4|0
+the problem lp|DT NN NN|BODY_10|0
+the latter case|DT JJ NN|BODY_1|0
+size n=d 2|NN NN CD|BODY_10|0
+any fixed d|DT JJ NN|BODY_1|0
+either a i|RB DT IN|BODY_5|0
+3.3 the iteration|CD DT NN|BODY_1|0
+independent bernoulli variables|JJ JJ NNS|BODY_14|0
+this particular value|DT JJ NN|BODY_1|0
+v z 6=|RB FW CD|BODY_1|0
+any possible contents|DT JJ NNS|BODY_1|0
+the unlikely event|DT JJ NN|BODY_1|0
+the sampled subproblem|DT VBN NN|BODY_4|0
+this base problem|DT NN NN|BODY_4|0
+random base problems|JJ NN NNS|BODY_4|0
+a further improvement|DT JJ NN|BODY_1|0
+an active s-block|DT JJ NN|BODY_16|0
+a constant c|DT JJ NN|BODY_4|0
+one final operation|CD JJ NN|BODY_5|0
+the solution|DT NN|BODY_12:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+a i|DT NN|BODY_12:BODY_6:BODY_5:BODY_7:BODY_8|0
+the processors|DT NNS|BODY_5:BODY_2:BODY_3:BODY_10:BODY_7|0
+t|NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_10:BODY_7:BODY_9|0
+lpk|NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_9|0
+our algorithm|PRP$ NN|BODY_2:BODY_3:BODY_4|0
+the output|DT NN|BODY_5:BODY_4:BODY_9|1
+1 ]|CD NN|BODY_10:BODY_4|0
+d|NN|BODY_11:BODY_5:BODY_3:BODY_4:BODY_8|0
+s|PRP|BODY_5:BODY_15:BODY_2:BODY_14:BODY_7:BODY_8|0
+h i|NN NN|BODY_6:BODY_5:BODY_14:BODY_7:BODY_9|0
+these cells|DT NNS|BODY_6:BODY_5:BODY_7|0
+the proof|DT NN|BODY_2:BODY_4|1
+each cell|DT NN|BODY_12:BODY_2:BODY_3|0
+our parameters|PRP$ NNS|BODY_2|1
+optimal solutions|JJ NNS|BODY_9|1
+the conclusion|DT NN|BODY_3|1
+the defining|DT NN|BODY_6:BODY_3:BODY_10:BODY_4|0
+time|NN|BODY_12:BODY_6:BODY_11:BODY_3:BODY_4:BODY_9|1
+lp|NN|BODY_6:BODY_13:BODY_1:BODY_2:BODY_4:BODY_7:BODY_8|0
+the number|DT NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_8|0
+brute force |JJ NN|BODY_4|1
+the set|DT NN|BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+the cases|DT NNS|BODY_7|1
+c 0|NN CD|BODY_2|1
+the weight|DT NN|BODY_4|1
+unbounded ones|JJ NNS|BODY_10|1
+the choice|DT NN|BODY_1|1
+proposition 3.2|NN CD|BODY_4|1
+2 n|CD NN|BODY_6:BODY_3:BODY_10:BODY_8|0
+3.1 below|CD IN|BODY_8|1
+section 2|NN CD|BODY_1|1
+2 successes|CD NNS|BODY_7|1
+an iteration|DT NN|BODY_1:BODY_2:BODY_3|0
+j ]|RB SYM|BODY_5:BODY_7:BODY_8|0
+the latter|DT NN|BODY_1:BODY_2:BODY_3|0
+the area|DT NN|BODY_2:BODY_3:BODY_8|0
+this paper|DT NN|BODY_5:BODY_2:BODY_1:BODY_9|0
+clarkson [5]|NN NN|BODY_3:BODY_8:BODY_9|0
+p|NN|BODY_17:BODY_2:BODY_14:BODY_10:BODY_4|0
+' n|POS NN|BODY_8:BODY_9|0
+an idea|DT NN|BODY_2|0
+the problem|DT NN|BODY_1:BODY_4:BODY_7:BODY_9|0
+the minimum|DT NN|BODY_3:BODY_8|0
+the base|DT NN|BODY_6:BODY_15:BODY_1:BODY_9|0
+( i|-LRB- NN|BODY_1:BODY_4|0
+the vectors|DT NNS|BODY_6:BODY_4|0
+proposition 2.2|NN CD|BODY_6:BODY_2:BODY_9|0
+each b|DT NN|BODY_5:BODY_1:BODY_3|0
+the fact|DT NN|BODY_6:BODY_3|0
+the constraint|DT NN|BODY_2:BODY_7|0
+an s-cell|DT NN|BODY_3:BODY_10|0
+this section|DT NN|BODY_6:BODY_3|0
+a subset|DT NN|BODY_5:BODY_3|0
+ii )|NNS -RRB-|BODY_2:BODY_3|0
+size n|NN NN|BODY_5:BODY_4|0
+the constraints|DT NNS|BODY_6:BODY_5:BODY_4|0
+violated constraints|VBN NNS|BODY_1:BODY_2|0
+the lpb|DT NN|BODY_2:BODY_4|0
+parallel computation|JJ NN|BODY_5:BODY_4|0
+the organization|DT NN|BODY_5:BODY_3|0
+this estimate|DT NN|BODY_2|0
+a constraint|DT NN|BODY_4|0
+the point|DT NN|BODY_3:BODY_7|0
+any d|DT NN|BODY_2|0
+dyer [7|NN NNS|BODY_2|0
+the constant|DT JJ|BODY_3|0
+this problem|DT NN|BODY_3|0
+the processor|DT NN|BODY_1:BODY_7|0
+ae n|NNS NN|BODY_5:BODY_2|0
+b n|NN NN|BODY_13|0
+i .e|FW FW|BODY_3:BODY_4|0
+the result|DT NN|BODY_1:BODY_4|0
+the step|DT NN|BODY_3:BODY_4|0
+violated s-cells|VBN NNS|BODY_2:BODY_3|0
+one constraint|CD NN|BODY_6|0
+either empty|DT JJ|BODY_2|0
+the remainder|DT NN|BODY_2|0
+0 such|CD JJ|BODY_1|0
+2 np|CD NN|BODY_5|0
+a table|DT NN|BODY_4:BODY_8|0
+the form|DT NN|BODY_5:BODY_10|0
+the estimate|DT NN|BODY_9|0
+the process|DT NN|BODY_1:BODY_4|0
+that fa|DT NN|BODY_5|0
+a pram|DT NN|BODY_2|0
+inner products|JJ NNS|BODY_6|0
+its cell|PRP$ NN|BODY_3:BODY_9|0
+3 processors|CD NNS|BODY_14|0
+each itera|DT NN|BODY_2|0
+probability 1|NN CD|BODY_3|0
+the following|DT VBG|BODY_2|0
+r d|JJ NN|BODY_11|0
+f( n|JJ NN|BODY_2|0
+' k|POS NN|BODY_5|0
+b 1|NN CD|BODY_12|0
+this point|DT NN|BODY_11:BODY_1|0
+a set|DT NN|BODY_1:BODY_9|0
+some modifications|DT NNS|BODY_2|0
+2 d|CD VBD|BODY_6:BODY_10|0
+p processors|NN NNS|BODY_10|0
+randomly one|RB CD|BODY_2|0
+some halfspace|DT NN|BODY_9|0
+this ray|DT NN|BODY_2|0
+the -cells|DT NNS|BODY_10|0
+the time|DT NN|BODY_1|0
+a computation|DT NN|BODY_2|0
+any information|DT NN|BODY_4:BODY_8|0
+the iteration|DT NN|BODY_3|0
+the memory|DT NN|BODY_6|0
+corollary 3.5|NN CD|BODY_3|0
+time bounds|NN NNS|BODY_4|0
+chernoff [3|NN CD|BODY_2|0
+the paper|DT NN|BODY_5:BODY_8|0
+m elements|NN NNS|BODY_9|0
+brute force|NN NN|BODY_6:BODY_5|0
+)|-RRB-|BODY_12:BODY_6:BODY_15:BODY_10:BODY_9|0
+s[ i|NNS IN|BODY_15:BODY_10|0
+each processor|DT NN|BODY_1:BODY_2|0
+this probability|DT NN|BODY_4|0
+the purpose|DT NN|BODY_2|0
+n )|NN -RRB-|BODY_3|0
+'s algorithm|POS NN|BODY_2:BODY_20|0
+' ]|POS SYM|BODY_5|0
+a 1|DT CD|BODY_9|0
+sufficiently large|RB JJ|BODY_4|0
+the distribution|DT NN|BODY_2|0
+proposition 2.1|NN CD|BODY_2:BODY_3|0
+whose components|WP$ NNS|BODY_11|0
+each time|DT NN|BODY_19|0
+any r-block|DT NN|BODY_3|0
+the vector|DT NN|BODY_10|0
+the adaptation|DT NN|BODY_10|0
+this round|DT NN|BODY_11|0
+the block|DT NN|BODY_9|0
+all j|DT NN|BODY_13|0
+the work|DT NN|BODY_4|0
+all points|DT NNS|BODY_5|0
+the maximum|DT NN|BODY_5|0
+whose size|WP$ NN|BODY_3|0
+val( n|NN NN|BODY_5|0
+each iteration|DT NN|BODY_1:BODY_7|0
+the context|DT NN|BODY_3|0
+the analysis|DT NN|BODY_8|0
+the referees|DT NNS|BODY_7|0
+sample constraints|NN NNS|BODY_4|0
+the details|DT NNS|BODY_2:BODY_9|0
+the inequalities|DT NNS|BODY_4|0
+one copy|CD NN|BODY_2|0
+maxfd 3|NN CD|BODY_4|0
+the members|DT NNS|BODY_3|0
+four types|CD NNS|BODY_4|0
+linear equations|JJ NNS|BODY_8|0
+j conflict|JJ NN|BODY_10|0
+i ]|NN SYM|BODY_10|0
+deterministic algorithms|JJ NNS|BODY_2|0
+poly( log|NN NN|BODY_6|0
+= bb|SYM NNP|BODY_2|0
+a polyhedron|DT NN|BODY_2|0
+an algorithm|DT NN|BODY_4|0
+the origin|DT NN|BODY_4|0
+each stores|DT NNS|BODY_3|0
+every processor|DT NN|BODY_12|0
+the names|DT NNS|BODY_2|0
+a conflict|DT NN|BODY_6|0
+a system|DT NN|BODY_7|0
+size 2c|NN CD|BODY_9|0
+n items|NN NNS|BODY_6|0
+several parameters|JJ NNS|BODY_3|0
+an evaluation|DT NN|BODY_5|0
+v (u|NN NN|BODY_6|0
+z ae|FW NNS|BODY_3|0
+h j|JJ NN|BODY_14|0
+expected o(|VBN JJ|BODY_7|0
+( iii|-LRB- NNS|BODY_9|0
+the matrix|DT NN|BODY_4|0
+by one|IN CD|BODY_6|0
+2 z|CD FW|BODY_11|0
+k cells|NN NNS|BODY_3|0
+the rows|DT NNS|BODY_6|0
+2d )|JJ -RRB-|BODY_11|0
+this argument|DT NN|BODY_2|0
+b i|NN NN|BODY_3|0
+base problems|NN NNS|BODY_3|0
+the importance|DT NN|BODY_1|0
+whose rows|WP$ NNS|BODY_5|0
+the solutions|DT NNS|BODY_3|0
+t such|NN JJ|BODY_14|0
+u z|NNP NN|BODY_2|0
+whose length|WP$ NN|BODY_4|0
+operation 1|NN CD|BODY_2|0
+d proof|JJ NN|BODY_6|0
+the above|DT JJ|BODY_2|0
+ compressed |JJ JJ|BODY_3|0
+j (|NN -LRB-|BODY_7|0
+the sample|DT NN|BODY_11|0
+clarkson [4|NN NNS|BODY_1|0
+megiddo [11]|NN NN|BODY_1|0
+random numbers|JJ NNS|BODY_4|0
+z (|FW -LRB-|BODY_4|0
+case none|NN NN|BODY_7|0
+a copy|DT NN|BODY_13|0
+helpful suggestions|JJ NNS|BODY_3|0
+2 log|CD NN|BODY_5:BODY_9|0
+this step|DT NN|BODY_2:BODY_1|0
+previous iterations|JJ NNS|BODY_6|0
+any m|DT NN|BODY_7|0
+the best|DT JJS|BODY_2|0
+a sequence|DT NN|BODY_3|0
+let j|VB NN|BODY_5|0
+i i|FW FW|BODY_5|0
+all t|DT NN|BODY_8|0
+the iterations|DT NNS|BODY_10|0
+this case|DT NN|BODY_1|0
+a last |DT JJ|BODY_2|0
+r[ i|JJ NN|BODY_6|0
+clarkson [5|NN CD|BODY_1|0
+hash functions|JJ NNS|BODY_3|0
+proposition 3.4|NN CD|BODY_1|0
+welzl [14]|JJ NN|BODY_3|0
+the ray|DT NN|BODY_1:BODY_8|0
+fu z|NN FW|BODY_3|0
+the polyhedron|DT NN|BODY_5|0
+its contents|PRP$ NNS|BODY_4|0
+our purposes|PRP$ NNS|BODY_8|0
+a situation|DT NN|BODY_7|0
+size n=d|NN NN|BODY_4|0
+a jbj|DT NN|BODY_5|0
+the sum|DT NN|BODY_6|0
+the uniqueness|DT NN|BODY_12|0
+the interval|DT NN|BODY_2|0
+the use|DT NN|BODY_18|0
+t )|NN -RRB-|BODY_16|0
+2n cells|JJ NNS|BODY_3|0
+all the|DT DT|BODY_8|0
+z such|FW PDT|BODY_7|0
+'s which|POS WDT|BODY_5|0
+then lp|RB NN|BODY_4|0
+some processors|DT NNS|BODY_4|0
+n 1=4|RB CD|BODY_5|0
+u k|NN NN|BODY_4|0
+the contradiction|DT NN|BODY_9|0
+d= log|JJ VBP|BODY_9|0
+each phase|DT NN|BODY_3|0
+m 0|NN CD|BODY_8|0
+a consequence|DT NN|BODY_1|0
+the events|DT NNS|BODY_5|0
+the situation|DT NN|BODY_12|0
+the role|DT NN|BODY_1|0
+more copies|JJR NNS|BODY_3|0
+( ii|-LRB- NNS|BODY_1|0
+e \gammaa|NN NN|BODY_6|0
+real scalars|JJ NNS|BODY_14|0
+the same|DT JJ|BODY_5|0
+operation 2|NN CD|BODY_2|0
+i b|NN NN|BODY_2|0
+a acknowledgement|DT NN|BODY_7|0
+infeasible (|JJ -LRB-|BODY_2|0
+store constraints|NN NNS|BODY_5|0
+the notation|DT NN|BODY_2|0
+a minimum|DT NN|BODY_4|0
+\omega\gamma d|NN NN|BODY_5|0
+already indicated|RB VBN|BODY_3|0
+two constants|CD NNS|BODY_7|0
+all values|DT NNS|BODY_4|0
+no x|DT NN|BODY_5|0
+\gamma k|NN NN|BODY_16|0
+each point|DT NN|BODY_1|0
+many details|JJ NNS|BODY_12|0
+chernoff [3]|JJ NN|BODY_3|0
+2 dg|CD NN|BODY_6|0
+the idea|DT NN|BODY_1|0
+3=4 ]|CD NN|BODY_13|0
+proposition 3.7|NN CD|BODY_1|0
+[2] )|NNP -RRB-|BODY_15|0
+v )|FW -RRB-|BODY_4|0
+each constraint|DT NN|BODY_3|0
+proof|NN|BODY_1|0
+our processors|PRP$ NNS|BODY_7|0
+every point|DT NN|BODY_1|0
+2.2 analysis|CD NN|BODY_1|0
+special mechanisms|JJ NNS|BODY_6|0
+assuming lpb|VBG NN|BODY_1|0
+an estimate|DT NN|BODY_1|0
+the implementation|DT NN|BODY_3|0
+this end|DT NN|BODY_1|0
+variable probabilities|JJ NNS|BODY_5|0
+this task|DT NN|BODY_1|0
+proposition 3.6|NN CD|BODY_2|0
+1=4 processors|CD NNS|BODY_1|0
+two parts|CD NNS|BODY_4|0
+the injection|DT NN|BODY_8|0
+this reason|DT NN|BODY_1|0
+any x|DT NN|BODY_2|0
+0, ag|CD NN|BODY_1|0
+any iteration|DT NN|BODY_1|0
+every a|DT DT|BODY_6|0
+the s-cells|DT NNS|BODY_2|0
+1 32d|CD CD|BODY_6|0
+high probability|JJ NN|BODY_1|0
+two d-vectors|CD NNS|BODY_6|0
+an inequality|DT NN|BODY_1|0
+0, 8|CD CD|BODY_1|0
+section 3|NN CD|BODY_1|0
+successful iterations|JJ NNS|BODY_1|0
+some constraints|DT NNS|BODY_1|0
+every ffl|DT NN|BODY_3|0
+expectation p|NN NN|BODY_10|0
+the sampling|DT NN|BODY_1|0
+this face|DT NN|BODY_3|0
+any subset|DT NN|BODY_1|0
+which cells|WDT NNS|BODY_11|0
+the execution|DT NN|BODY_1|0
+the run|DT NN|BODY_1|0
+this operation|DT NN|BODY_1|0
+an s-block|DT NN|BODY_1|0
+an ffl|DT NN|BODY_2:BODY_8|0
+many successes|JJ NNS|BODY_3|0
+237 )|CD -RRB-|BODY_1|0
+a contradiction|DT NN|BODY_1|0
+any ffl|DT NN|BODY_1|0
+proposition 3.3|NN CD|BODY_1|0
+proposition 4.1|NN CD|BODY_1|0
+1|CD|BODY_6:BODY_5:BODY_1:BODY_3:BODY_7|0
+j|NN|BODY_2:BODY_3:BODY_4|0
+n|NN|BODY_13:BODY_4:BODY_8:BODY_9|0
+b|NN|BODY_1:BODY_3:BODY_7|0
+k|NN|BODY_15:BODY_14:BODY_3:BODY_4|0
+denote|NN|BODY_5:BODY_1:BODY_3:BODY_10|0
+particular|JJ|BODY_2:BODY_1|0
+this|DT|BODY_2:BODY_1|0

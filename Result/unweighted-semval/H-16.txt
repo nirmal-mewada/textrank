@@ -1,0 +1,181 @@
+we|PRP|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4|4
+terms|NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|2
+queries|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+that|WDT|BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+they|PRP|BODY_5:BODY_2:BODY_1:BODY_3|0
+there|EX|BODY_2:BODY_3:BODY_9|1
+the cache|DT NN|BODY_6:BODY_5:BODY_4:BODY_7:BODY_8|0
+caching|NN|BODY_6:BODY_5:ABSTRACT_5:TITLE_2:BODY_2:BODY_1:BODY_3|1
+lists|NNS|BODY_6:ABSTRACT_6:BODY_2:BODY_1:BODY_7|1
+it|PRP|BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|2
+static caching|JJ NN|BODY_6:BODY_5:ABSTRACT_6:BODY_15:BODY_1:ABSTRACT_3:BODY_7|2
+the query log|DT JJ NN|BODY_11:ABSTRACT_4:BODY_1:BODY_3:BODY_10:BODY_8|0
+a query|DT NN|BODY_2:BODY_3:BODY_7:BODY_8|0
+the distribution|DT NN|BODY_6:ABSTRACT_8:BODY_1:BODY_4|0
+the collection|DT NN|BODY_5:BODY_2:BODY_4|0
+memory|NN|BODY_6:BODY_5:BODY_3|0
+different levels|JJ NNS|BODY_5:ABSTRACT_2:BODY_2|0
+the total volume|DT JJ NN|BODY_3:BODY_4|0
+case|NN|BODY_6:BODY_3|0
+documents|NNS|BODY_2:BODY_10:BODY_4|0
+query terms|JJ NNS|BODY_5:BODY_7:BODY_9|1
+a cache memory|DT NN NN|BODY_2:BODY_4:BODY_9|0
+web search engines|NN NN NNS|ABSTRACT_5:BODY_3|0
+the posting lists|DT VBG NNS|BODY_6:BODY_3:BODY_4|1
+information storage and retrieval]|NN NN CC NN|ABSTRACT_6:ABSTRACT_2|0
+posting lists|VBG NNS|ABSTRACT_4:BODY_2:BODY_7|1
+which|WDT|ABSTRACT_5:BODY_3:BODY_4|1
+caching posting lists|NN VBG NNS|ABSTRACT_6:BODY_4:ABSTRACT_7|0
+time|NN|BODY_13:BODY_4:BODY_7:ABSTRACT_10|1
+the engine|DT NN|BODY_6:BODY_2:BODY_4|0
+the limitations|DT NNS|ABSTRACT_4:BODY_2:BODY_4|0
+one|CD|BODY_2|0
+the uk domain|DT NNP NN|BODY_5|0
+both terms and queries|DT NNS CC NNS|BODY_6:BODY_7|0
+the stream|DT NN|BODY_5:BODY_2:BODY_4|0
+work|NN|BODY_3:BODY_4|0
+the normalized frequency rank|DT JJ NN NN|BODY_2|0
+this|DT|BODY_1:BODY_4|0
+the number|DT NN|BODY_6:BODY_4:BODY_9|0
+the impact|DT NN|TITLE_1:ABSTRACT_2:BODY_2|0
+a new caching policy|DT JJ NN NN|BODY_3|0
+the quality and speed|DT NN CC NN|BODY_6|0
+the difference|DT NN|BODY_6:BODY_1:BODY_2|0
+a higher miss rate|DT JJR NN NN|BODY_4|0
+a given query (|DT VBN NN -LRB-|BODY_8|0
+the problem|DT NN|BODY_6:ABSTRACT_2|0
+a distributed search architecture|DT VBN NN NN|BODY_5:BODY_4|0
+a fast response time|DT JJ NN NN|BODY_2|0
+the arrival rate|DT NN NN|BODY_3|0
+an adaptive prefetching policy|DT JJ NN NN|BODY_5|0
+an important metric is|DT JJ JJ VBZ|BODY_3|1
+the terms|DT NNS|BODY_3:BODY_4|0
+information search and retrieval|NN NN CC JJ|ABSTRACT_3|0
+the query distribution|DT NN NN|BODY_12:BODY_4|1
+the workload|DT NN|BODY_5:BODY_2|0
+the past|DT NN|BODY_4:BODY_8|0
+the longest query|DT JJS NN|BODY_3|0
+table 1|NN CD|BODY_2:BODY_3|0
+the top k documents|DT JJ NN NNS|BODY_2|0
+a much smaller value|DT RB JJR NN|BODY_6|0
+3 summarize related work|CD NN VBN NN|BODY_2|0
+terms and stores|NNS CC NNS|BODY_3|0
+the queries|DT NNS|BODY_5:BODY_2|0
+the normalized arrival rate|DT JJ NN NN|BODY_3|0
+a dynamic cache|DT JJ NN|BODY_2:BODY_1|0
+unique queries|JJ NNS|BODY_1:BODY_3:BODY_10|0
+the query frequency distribution|DT NN NN NN|BODY_3|0
+the query stream|DT NN NN|BODY_2:BODY_8|0
+a three-level index organization|DT JJ NN NN|BODY_3|0
+an lru eviction policy|DT NN NN NN|BODY_3|0
+the query or term|DT NN CC NN|BODY_3|0
+normalized ) figure 2|JJ -RRB- NN CD|BODY_5|0
+the most frequent queries|DT RBS JJ NNS|BODY_2|0
+an lru cache|DT NN NN|BODY_12:BODY_2|0
+algorithms|NNS|BODY_2:BODY_3|1
+a power law distribution|DT NN NN NN|BODY_5|0
+figure 2|NN CD|BODY_1:BODY_4:BODY_7|0
+static vs. dynamic caching|JJ CC JJ NN|ABSTRACT_4|0
+the probability distribution|DT NN NN|BODY_5|0
+slope 2.38 (upper curve|NN CD NN NN|BODY_6|0
+a single query|DT JJ NN|BODY_4|0
+â€|NNS|BODY_2:BODY_8|1
+the corresponding inverted lists|DT JJ JJ NNS|BODY_5|0
+normalized scatter plot|JJ NN NN|BODY_5|0
+previously unseen terms|RB JJ NNS|BODY_3|0
+the same frequency graph|DT JJ NN NN|BODY_6|0
+section 5|NN CD|BODY_2:BODY_3|1
+the average query length|DT JJ NN NN|BODY_1|0
+all possible queries|DT JJ NNS|BODY_6|0
+a search engine [8]|DT NN NN NN|BODY_7|0
+a memory/disk layer|DT NN NN|ABSTRACT_5|0
+a query log spanning|DT JJ NN NN|BODY_2:ABSTRACT_1|0
+dynamically caching query answers|RB VBG JJ NNS|BODY_5|0
+a wide area network|DT JJ NN NN|BODY_7|0
+2.5 terms|CD NNS|BODY_2|0
+response time|NN NN|BODY_3|0
+such systems|JJ NNS|BODY_2|0
+to cache|TO NN|BODY_3|0
+power law distributions|NN NN NNS|BODY_4|0
+http ://law.dsi .unimi .it/|NN FW FW FW|BODY_5|0
+the normalized frequency|DT JJ NN|BODY_7|0
+a broker/remote server layer|DT JJ NN NN|ABSTRACT_6|0
+both levels|DT NNS|BODY_2|0
+several different policies|JJ JJ NNS|BODY_3|0
+the retrieval effectiveness|DT JJ NN|BODY_9|0
+the most frequent query|DT RBS JJ NN|BODY_1|0
+a cache policy|DT NN NN|BODY_2|0
+the earliest works|DT JJS NNS|BODY_3|0
+buckley and lewit [3]|NN CC NN NN|BODY_1|0
+raghavan and sever [12]|NN CC JJ NN|BODY_1|0
+a static cache|DT JJ NN|BODY_5:BODY_1|1
+the first papers|DT JJ NNS|BODY_3|0
+the total number|DT JJ NN|BODY_2:BODY_7|0
+a term-at-a-time approach|DT NN NN|BODY_4|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the analysis|DT NN|BODY_6:BODY_3|0
+caching and prefetching|NN CC NN|BODY_3|0
+the second-level cache|DT JJ NN|BODY_2|0
+a static caching policy|DT JJ NN NN|BODY_1|0
+query processing efficiency|NN NN NN|BODY_2|0
+the query frequencies|DT NN NNS|BODY_2|0
+probabilistic driven caching|JJ VBN NN|BODY_4|0
+these last two papers|DT JJ CD NNS|BODY_1|0
+what|WP|BODY_2|0
+uk-2006 sample statistics #|CD NN NNS #|BODY_1|0
+queries and terms caching|NNS CC NNS NN|BODY_1|0
+our results and observations|PRP$ NNS CC NNS|ABSTRACT_1|0
+the cache miss rate|DT NN NN NN|BODY_1|0
+systems and software|NNS CC NN|ABSTRACT_7|0
+saint-jean|JJ|BODY_2|0
+a query base|DT NN NN|BODY_5|0
+a compulsory miss 1|DT JJ NN CD|BODY_1|0
+this 56 %|DT CD NN|BODY_3|1
+answers|NNS|ABSTRACT_5:BODY_7|0
+unique queries and terms|JJ NNS CC NNS|BODY_4|0
+the trade-off|DT NN|BODY_6:BODY_4|0
+the document frequency|DT NN NN|BODY_3|0
+persistent optimal queries|JJ JJ NNS|BODY_7|0
+50 %|CD NN|BODY_5:BODY_2|0
+file caching [17]|NN NN NN|BODY_3|0
+the involved query terms|DT JJ NN NNS|BODY_7|0
+a caching system|DT NN NN|BODY_1|0
+a working set|DT VBG NN|BODY_1|0
+three different levels|CD JJ NNS|BODY_2|0
+our static caching algorithm|PRP$ JJ NN NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+the main memory|DT JJ NN|BODY_3|0
+an infinite cache|DT JJ NN|BODY_2|0
+the complete set|DT JJ NN|BODY_5|0
+the query throughput|DT NN NN|BODY_3|0
+a new architecture|DT JJ NN|BODY_2|0
+total queries|JJ NNS|BODY_1:BODY_2|0
+the cache system|DT NN NN|BODY_2|0
+a whole year|DT JJ NN|ABSTRACT_2:BODY_3|0
+a cache|DT NN|BODY_2:BODY_4|0
+the data-access hierarchy|DT NN NN|ABSTRACT_3|0
+the maximum frequency|DT JJ NN|BODY_1:BODY_4|0
+large amounts|JJ NNS|BODY_5|0
+a power law|DT NN NN|BODY_5|0
+a particular query|DT JJ NN|BODY_3:BODY_8|0
+inverted lists|JJ NNS|BODY_5|0
+the upper threshold|DT JJ NN|BODY_4|0
+user query history|NN NN NN|BODY_4|0
+( middle curve|-LRB- JJ NN|BODY_2|0
+the different levels|DT JJ NNS|BODY_2|0
+a large body|DT JJ NN|BODY_3|0
+the intersections|DT NNS|BODY_4|0
+the ratio frequency/size|DT NN NN|BODY_4|0
+a hit ratio|DT NN NN|BODY_9|1
+previously unseen queries|RB JJ NNS|BODY_2|0
+only 4 %|RB CD NN|BODY_2|0
+higher hit rates|JJR NN NNS|ABSTRACT_8|0
+different caching strategies|JJ NN NNS|BODY_4|0
+the data sets|DT NNS NNS|BODY_3|0
+query term frequencies|NN NN NNS|BODY_3|0
+5 and 6|CD CC CD|BODY_2|0
+document-term frequencies|JJ NNS|BODY_6|0
+a local|DT JJ|BODY_6|0
+the hit ratio|DT NN NN|BODY_4|0
+a random sample|DT JJ NN|BODY_2|0
+the skewed distribution|DT JJ NN|BODY_7|0

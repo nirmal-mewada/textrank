@@ -1,0 +1,238 @@
+we|PRP|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7|7
+search results|NN NNS|BODY_5:TITLE_2:ABSTRACT_8:ABSTRACT_2:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|4
+a user|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_13:BODY_2:BODY_1:BODY_4:BODY_8:ABSTRACT_12|0
+the results|DT NNS|BODY_6:BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|1
+the search results|DT NN NNS|BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|1
+the ambiguous query jaguar|DT JJ NN NN|BODY_5:BODY_2|0
+a commercial search engine|DT JJ NN NN|BODY_5:ABSTRACT_3|1
+the underlying retrieval model|DT VBG NN NN|BODY_3|1
+a jaguar car team|DT NN NN NN|BODY_15|0
+more meaningful cluster labels|RBR JJ NN NNS|BODY_2:ABSTRACT_10|1
+ambiguous ( e .g.|JJ -LRB- NN NNP|BODY_2|1
+the search result snippets|DT NN NN NNS|BODY_5|0
+a sports team )|DT NNS NN -RRB-|BODY_9|0
+information search and retrieval]|NN NN CC NN|ABSTRACT_4|0
+the cluster hypothesis [20]|DT NN NN NN|BODY_2|0
+its related past queries|PRP$ JJ NN NNS|BODY_3|0
+a more refined query|DT JJR JJ NN|BODY_10|0
+the two primary aspects|DT CD JJ NNS|BODY_8|1
+a very important factor|DT RB JJ NN|BODY_6|1
+the most effective one|DT RBS JJ NN|BODY_3|0
+a monothetic clustering algorithm|DT JJ NN NN|BODY_3|1
+a real search engine|DT JJ NN NN|BODY_5|1
+the current query topic|DT JJ NN NN|BODY_6|0
+the ranked list presentation|DT VBN NN NN|BODY_8|0
+ambiguity or multiple aspects|NN CC JJ NNS|BODY_3|0
+a simple ranked list|DT JJ VBN NN|BODY_5:BODY_3|0
+diverse ( e .g.|JJ -LRB- NN NN|BODY_2|0
+jacksonville jaguar football team|NN NN NN NN|BODY_17|0
+the query area codes|DT NN NN NNS|BODY_5|0
+the past search logs|DT JJ NN NNS|BODY_1|0
+the general query topic|DT JJ NN NN|BODY_9|0
+such a presentation strategy|JJ DT NN NN|BODY_1|0
+a primary alternative strategy|DT JJ NN NN|BODY_1|0
+the most common strategy|DT RBS JJ NN|BODY_1|0
+a particular interesting group|DT JJ JJ VB|BODY_14|0
+which|WDT|BODY_5:ABSTRACT_4:BODY_3:BODY_4:BODY_7|3
+users|NNS|BODY_5:BODY_2:BODY_4:ABSTRACT_12:BODY_9|1
+it|PRP|BODY_6:ABSTRACT_3:BODY_3:BODY_4:BODY_10:BODY_9|0
+a cluster|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_8|1
+the current query|DT JJ NN|BODY_12:BODY_2|0
+past query words|JJ NN NNS|BODY_5:ABSTRACT_11:BODY_3|1
+the clusters|DT NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_1|0
+our method|PRP$ NN|BODY_2:ABSTRACT_3|0
+these two deficiencies|DT CD NNS|BODY_6:ABSTRACT_3|2
+a history collection|DT NN NN|BODY_6:BODY_4|0
+the experimental results|DT JJ NNS|BODY_4|0
+relatively little research|RB JJ NN|BODY_5|0
+the past queries|DT JJ NNS|BODY_5|0
+the interesting aspects|DT JJ NNS|ABSTRACT_6:BODY_7|0
+the best cluster|DT JJS NN|BODY_3|0
+either phone codes|DT NN NNS|BODY_3|0
+present search results|JJ NN NNS|BODY_5|1
+a jaguar software|DT NN NN|BODY_4|0
+the dominating results|DT JJ NNS|BODY_7|0
+a search engine|DT NN NN|BODY_2:BODY_9|1
+the authors|DT NNS|BODY_2|2
+the single feature|DT JJ NN|BODY_9|1
+the top documents|DT NN NNS|BODY_5|0
+clustering search results|VBG NN NNS|BODY_1:ABSTRACT_1|0
+a wrestling team|DT NN NN|BODY_14|0
+the history collection|DT NN NN|BODY_4|0
+future search results|JJ NN NNS|BODY_2|0
+an accurate label|DT JJ NN|BODY_2|0
+the generated clusters|DT VBD NNS|BODY_10|0
+many relevant documents|JJ JJ NNS|BODY_6|0
+topranked search results|JJ NN NNS|BODY_4|0
+a long list|DT JJ NN|BODY_5|0
+an effective way|DT JJ NN|ABSTRACT_2|0
+the ordinary contents|DT JJ NNS|BODY_4|0
+better result organization|JJR NN NN|ABSTRACT_4|0
+a clustering view|DT NN NN|BODY_2|0
+several clustering algorithms|JJ NN NNS|BODY_1|0
+the system grouper|DT NN NN|BODY_1|0
+jaguar team picture|NN NN NN|BODY_11|0
+search engine logs|NN NN NNS|BODY_3|0
+the related work|DT JJ NN|BODY_2|0
+the first page|DT JJ NN|BODY_3|0
+the traditional clustering|DT JJ NN|BODY_4|0
+those query words|DT NN NNS|BODY_8|0
+our proposed method|PRP$ VBN NN|ABSTRACT_2|1
+an interesting aspect|DT JJ NN|BODY_3|0
+such interesting aspects|JJ JJ NNS|BODY_6|0
+a different strategy|DT JJ NN|BODY_3|1
+such a case|JJ DT NN|BODY_9|0
+a single feature|DT JJ NN|BODY_7|1
+web search logs|NN NN NNS|ABSTRACT_7|1
+a search topic|DT NN NN|BODY_4|0
+the current methods|DT JJ NNS|BODY_2|0
+the animal sense|DT JJ NN|BODY_4|0
+9 , 26]|CD , CD|BODY_4|0
+such a strategy|PDT DT NN|BODY_1|0
+the cluster labels|DT NN NNS|ABSTRACT_11:BODY_1|0
+a user-oriented partitioning|DT JJ VBG|BODY_7|1
+the primary factor|DT JJ NN|BODY_1|1
+search result organization|NN NN NN|BODY_7|0
+the vast amount|DT JJ NN|BODY_1|0
+the query cluster|DT NN NN|BODY_7|0
+the general idea|DT JJ NN|BODY_1|0
+2. related work|DT VBN NN|BODY_1|0
+such a query|PDT DT NN|BODY_12|0
+an important challenge|DT JJ NN|BODY_1|1
+the associated clickthroughs|DT JJ NNS|BODY_6|0
+traditional clustering approaches|JJ NN NNS|BODY_7|0
+the distinct aspects|DT JJ NNS|BODY_14|0
+more meaningful labels|JJR JJ NNS|ABSTRACT_5|0
+a low precision|DT JJ NN|BODY_4|0
+[9 , 15]|CD , CD|BODY_1|0
+the corresponding cluster|DT JJ NN|BODY_10|1
+the obtained clusters|DT VBN NNS|BODY_1|0
+this clustering strategy|DT NN NN|BODY_1|0
+any search engine|DT NN NN|ABSTRACT_4|0
+the traditional methods|DT JJ NNS|ABSTRACT_1|0
+these interesting aspects|DT JJ NNS|BODY_8|1
+a new query|DT JJ NN|BODY_1|0
+all these works|PDT DT NNS|BODY_1|0
+the right cluster|DT JJ NN|ABSTRACT_13:BODY_3|0
+car|NN|BODY_6:BODY_3:BODY_7|0
+a topic|DT NN|ABSTRACT_6:BODY_4:ABSTRACT_7:BODY_8|1
+jaguar|NN|BODY_6:BODY_5:BODY_3:BODY_10|0
+interesting aspects|JJ NNS|BODY_5:ABSTRACT_5:BODY_4|3
+the utility|DT NN|BODY_1:ABSTRACT_3:BODY_8|1
+( 2|-LRB- CD|BODY_1:ABSTRACT_9:ABSTRACT_10|1
+clusters|NNS|BODY_12:BODY_4|1
+( 1|-LRB- CD|ABSTRACT_4:BODY_4|1
+the labels|DT NNS|BODY_2:BODY_4|0
+the contents|DT NNS|BODY_7|1
+the case|DT NN|BODY_6:BODY_2|0
+the user|DT NN|ABSTRACT_8:BODY_10:BODY_9|0
+what|WP|BODY_2:BODY_3|0
+several studies|JJ NNS|BODY_3|0
+that|WDT|BODY_11:BODY_1:BODY_7|1
+using snippets|VBG NNS|BODY_2|0
+the soundness|DT NN|BODY_2|1
+two deficiencies|CD NNS|BODY_2:ABSTRACT_1|0
+relevant documents|JJ NNS|ABSTRACT_6:BODY_3|0
+web search|NN NN|TITLE_1:BODY_7|0
+subject descriptors|JJ NNS|ABSTRACT_2|0
+the effectiveness|DT NN|BODY_6|0
+retrieval models|JJ NNS|BODY_3|0
+each aspect|DT NN|BODY_5|0
+general terms|JJ NNS|ABSTRACT_7|0
+the label|DT NN|BODY_5:BODY_8|0
+an animal|DT NN|BODY_3|0
+the paper|DT NN|BODY_2|0
+the rest|DT NN|BODY_1|0
+a lot|DT NN|BODY_2|0
+better labels|JJR NNS|BODY_2|0
+meaningful phrases|JJ NNS|BODY_4|0
+a set|DT NN|BODY_3|0
+ranking function|JJ NN|BODY_4|1
+document clustering|NN NN|BODY_2|1
+zip codes|NN NNS|BODY_4|0
+section 5|NN CD|BODY_3|0
+the top|DT NN|BODY_7|0
+download jaguar|NN NN|BODY_6|0
+our work|PRP$ NN|BODY_2|0
+a query|DT NN|BODY_5|0
+jaguar (|NN -LRB-|BODY_4|0
+specific aspects|JJ NNS|BODY_4|0
+cluster|NN|BODY_3:BODY_4|1
+meaningful descriptions|JJ NNS|BODY_13|0
+the study|DT NN|BODY_3|0
+car )|NN -RRB-|BODY_3|1
+categorization techniques|NN NNS|BODY_4|0
+our approach|PRP$ NN|BODY_3|1
+what kind|WDT NN|BODY_10|0
+search process|NN NN|ABSTRACT_6|0
+local codes|JJ NNS|BODY_4|0
+jaguar brochure|NN NN|BODY_8|0
+two reasons|CD NNS|BODY_2|0
+meaningful labels|JJ NNS|BODY_3|1
+those generated|DT VBD|BODY_6|0
+the query|DT NN|BODY_2|0
+a user |DT NN|BODY_6|0
+the data|DT NNS|BODY_2|0
+our procedure|PRP$ NN|BODY_5|0
+different subtopics|JJ NNS|BODY_8|0
+i .e|FW FW|BODY_5|0
+these phrases|DT NNS|BODY_6|0
+future work|JJ NN|BODY_3|0
+scatter/gather algorithm|JJ NN|BODY_3|0
+jaguar wallpaper|NN NN|BODY_9|0
+these aspects|DT NNS|BODY_3|0
+the users|DT NNS|BODY_8|0
+our paper|PRP$ NN|BODY_2|0
+what kinds|WDT NNS|BODY_6|0
+a place|DT NN|BODY_2|0
+the search|DT NN|BODY_4|0
+the past|DT JJ|BODY_10|0
+search engine|NN NN|BODY_3|0
+many times|JJ NNS|BODY_3|0
+search logs|NN NNS|BODY_6|1
+this problem|DT NN|BODY_3|0
+regular clustering|JJ NN|BODY_5|0
+what aspects|WP NNS|BODY_3|0
+the snippets|DT NNS|BODY_6|1
+the topic|DT NN|BODY_4|0
+result organization|NN NN|BODY_3|0
+this approach|DT NN|ABSTRACT_2|0
+search utility|NN NN|BODY_3|0
+natural clusters|JJ NNS|BODY_6|0
+the phrase|DT NN|BODY_7|0
+similar topics|JJ NNS|BODY_5|1
+a document|DT NN|BODY_5|1
+this way|DT NN|BODY_6|0
+which case|WDT NN|BODY_3|0
+this difficulty|DT NN|BODY_1|0
+vivisimo [22]|JJ NN|BODY_5|0
+whole documents|JJ NNS|BODY_3|0
+a word|DT NN|BODY_1|1
+section 6|NN CD|BODY_5|0
+their labels|PRP$ NNS|BODY_8|0
+a label|DT NN|BODY_1|0
+each cluster|DT NN|BODY_3|0
+multiple factors|JJ NNS|BODY_3|0
+a car|DT NN|BODY_4|0
+their results|PRP$ NNS|BODY_1|0
+such aspects|JJ NNS|BODY_1|0
+the terms|DT NNS|BODY_12|0
+other ways|JJ NNS|BODY_11|0
+example|NN|BODY_1|0
+international codes|JJ NNS|BODY_5|0
+these examples|DT NNS|BODY_1|0
+these papers|DT NNS|BODY_1|1
+such clusters|JJ NNS|BODY_1|0
+effective organization|JJ NN|ABSTRACT_1|0
+which cluster|WDT NN|BODY_3|0
+section 3|NN CD|BODY_1|0
+section 4|NN CD|BODY_1|1
+the following|DT NN|BODY_2|1
+the ideas|DT NNS|BODY_1|0
+this paper|DT NN|BODY_1:ABSTRACT_1|2
+returned documents|VBN NNS|BODY_8|1
+panthera onca|NN NNP|BODY_2|0
+perspective|NN|BODY_10:ABSTRACT_9:BODY_9|0
+[26|CD|BODY_2|0
+there|EX|BODY_1:BODY_4|0
+clustering|NN|ABSTRACT_5:BODY_1|0

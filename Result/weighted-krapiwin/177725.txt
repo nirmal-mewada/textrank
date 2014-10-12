@@ -1,0 +1,536 @@
+we|PRP|BODY_12:BODY_11:BODY_15:BODY_21:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|19
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_10:BODY_8:ABSTRACT_10:BODY_9|3
+it|PRP|BODY_6:BODY_5:ABSTRACT_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|2
+a formula|DT NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|2
+a system|DT NN|BODY_6:BODY_5:ABSTRACT_2:ABSTRACT_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+the preorder|DT NN|BODY_6:BODY_5:BODY_11:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:ABSTRACT_7|1
+the formula|DT NN|BODY_5:ABSTRACT_6:BODY_17:BODY_13:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|2
+a compositional verification|DT JJ NN|ABSTRACT_6:BODY_2|0
+the logic|DT NN|BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_4|1
+a preorder|DT NN|ABSTRACT_8:BODY_2:BODY_3:BODY_4|2
+a subset|DT NN|BODY_11:BODY_5:ABSTRACT_3|1
+the relation|DT NN|BODY_6:ABSTRACT_11:BODY_2:BODY_1:BODY_4|1
+the framework|DT NN|BODY_6:BODY_1:ABSTRACT_1:BODY_7|0
+a particular structure (|DT JJ NN -LRB-|ABSTRACT_4|0
+the logic corresponds|DT NN NNS|ABSTRACT_3|0
+the logic ctl|DT NN NN|ABSTRACT_4|0
+a cpu controller|DT JJ NN|ABSTRACT_7|0
+several special cases|JJ JJ NNS|ABSTRACT_6|0
+s|VBZ|BODY_12:BODY_11:BODY_16:BODY_17:BODY_18:BODY_15:BODY_13:BODY_2:BODY_3:BODY_14:BODY_24:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|5
+0|CD|BODY_12:BODY_11:BODY_15:BODY_23:BODY_13:BODY_26:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_27:BODY_10:BODY_7:BODY_8:BODY_9|1
+there|EX|BODY_12:BODY_17:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|1
+m|NN|BODY_12:BODY_11:BODY_22:BODY_16:BODY_23:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+the access unit|DT NN NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|1
+the execution unit|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|3
+the views and conclusions|DT NNS CC NNS|BODY_1|1
+the logic ctl* [11]|DT NN NN NN|BODY_6|1
+several important special cases|JJ JJ JJ NNS|BODY_4|1
+a moore machine m|DT NN NN NN|BODY_5:BODY_2:BODY_7|0
+m and m 0|NN CC NN CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+the state explosion problem|DT NN NN NN|BODY_2:BODY_3|0
+the global state space|DT JJ NN NN|BODY_2:BODY_4|0
+only a small portion|RB DT JJ NN|BODY_4|0
+' a u' b|POS DT JJ NN|BODY_5:BODY_7|0
+only the needed portion|RB DT VBN NN|BODY_4|0
+cleaveland and steffen [7|NN CC NN NNS|BODY_1|0
+most existing model checkers|RBS JJ NN NNS|BODY_1|0
+the conjunction and disjunction|DT NN CC NN|BODY_2|0
+' u / )|'' NN NNS -RRB-|BODY_4|0
+the existential path quantifier|DT JJ NN NN|BODY_5:BODY_1|0
+some other formula /|DT JJ NN NNS|BODY_6|0
+a formula ) satisfaction|DT NN -RRB- NN|BODY_2|0
+the national science foundation|DT JJ NN NN|BODY_3|0
+every 8ctl* path formula|DT NN NN NN|BODY_6|0
+no successors and t|DT NNS CC NN|BODY_2:BODY_7|0
+a single liveness property|DT JJ NN NN|BODY_8|0
+a preorder plus knowledge|DT NN CC NN|BODY_2|0
+the appropriate ready signal|DT JJ JJ NN|BODY_2|0
+the above reasoning sequence|DT JJ NN NN|BODY_2|0
+the greatest fixed point|DT JJS JJ NN|BODY_6:BODY_2|0
+( ctl* ) model|-LRB- NNS -RRB- NN|BODY_5|0
+a corresponding fair path|DT JJ JJ NN|BODY_8|0
+00 such that h(|CD JJ IN NN|BODY_12|0
+a triple h'im h/i|DT JJ NN NN|BODY_3|0
+a homomorphism and m|DT NN CC NN|BODY_2|0
+a bdd-based model checker|DT JJ NN NN|BODY_13|0
+8( ' v /|CC '' NN NNS|BODY_5|0
+the tableau construction )|DT NN NN -RRB-|BODY_4|0
+the finite state models|DT JJ NN NNS|BODY_5|0
+the relative expressive power|DT JJ JJ NN|BODY_3|0
+a ' a 0|DT POS DT .|BODY_4|0
+the 8 path quantifier|DT CD NN NN|BODY_5|0
+exactly 8x ' 1|RB NN '' CD|BODY_7|0
+the set el (|DT VBN NN -LRB-|BODY_5|0
+1 [ h 2|CD NN NN CD|BODY_5|0
+a more complex type|DT RBR JJ NN|BODY_3|0
+a corresponding initial state|DT JJ JJ NN|BODY_5|0
+every s 2 s|DT PRP CD PRP|BODY_4|0
+k( m ) \theta|JJ NN -RRB- NN|BODY_7|0
+a simple stack-based machine|DT JJ JJ NN|BODY_2|0
+a corresponding ready output|DT JJ JJ NN|BODY_3|0
+the execution unit model|DT NN NN NN|BODY_2|0
+some elementary subformula 8x8(|DT JJ NN NN|BODY_4|0
+2 ji 0 j|CD RB CD NN|BODY_6|0
+a system satisfying '|DT NN JJ ''|BODY_4|0
+the maximal closing environment|DT JJ NN NN|BODY_4|0
+a streett acceptance condition|DT NN NN NN|BODY_2|0
+k( m ) 4|JJ NN -RRB- CD|BODY_5|0
+then 8( ' )|RB JJ '' -RRB-|BODY_2|0
+specifying and verifying systems|VBG CC VBG NNS|BODY_6|0
+only the universal quantifier|RB DT JJ NN|BODY_2|0
+formulas 4 and 5|NNS CD CC CD|BODY_2|0
+the theorem and corollary|DT NN CC NN|BODY_1|0
+2 \phi( ' )|CD JJ '' -RRB-|BODY_10|0
+introduction temporal logic model|NN JJ NN NN|BODY_1|0
+0 such that 1|CD JJ IN CD|BODY_6|0
+the global state graph|DT JJ NN NN|BODY_5|0
+every atomic proposition p|DT JJ NN NN|BODY_1|0
+0 applying corollary 1|CD VBG NN CD|BODY_4|0
+a trivial acceptance condition|DT JJ NN NN|BODY_2|0
+the compositional reasoning methods|DT JJ NN NNS|BODY_2|0
+a ) ( b|DT -RRB- -LRB- NN|BODY_6|0
+only [\delta ] modalities|JJ NN NN NNS|BODY_7|0
+potentially 2 jij states|RB CD JJ NNS|BODY_2|0
+'s assume-guarantee paradigm [23]|POS NN NN NN|BODY_3|0
+2 ji j states|CD RB NN NNS|BODY_2|0
+either or m 0|DT CC NN CD|BODY_2|0
+the first such state|DT JJ JJ NN|BODY_4|0
+all m , m|DT NN , NN|BODY_1|0
+denoted m k m|VBN NN NN NN|BODY_3|0
+every i 2 n|DT NN CD NN|BODY_5|0
+only a state formula|RB DT NN NN|BODY_2|0
+a 8ctl formula corresponds|DT JJ NN NNS|BODY_2|0
+k( m k m|NN NN NN NN|BODY_6:BODY_3|0
+'s memory refer- ences|POS NN NNS NNS|BODY_4|0
+shtadler and grumberg [24]|NN CC JJ NNS|BODY_1|0
+2 using theorem 2|CD VBG NN CD|BODY_1|0
+definition 5 ( satisfaction|NN CD -LRB- NN|BODY_1|0
+0 ) as follows|CD -RRB- IN VBZ|BODY_8|0
+graf and steffen [13]|NN CC NN NNS|BODY_1|0
+the following form 1|DT VBG NN CD|BODY_4|0
+a simple cpu controller|DT JJ JJ NN|BODY_3|0
+only universal path quantifiers|RB JJ NN NNS|BODY_6|0
+the following inductive definition|DT VBG JJ NN|BODY_4|0
+the memory acknowledgment signal|DT NN NN NN|BODY_3|0
+definition 12 ( structure|NN CD -LRB- NN|BODY_1|0
+definition 14 ( satisfaction|NN CD -LRB- NN|BODY_1|0
+the previous two cases|DT JJ CD NNS|BODY_5|0
+. negated atomic proposition|. VBN JJ NN|BODY_2|0
+a 8ctl formula /|DT JJ NN NN|BODY_3|0
+a and so '|DT CC RB ''|BODY_5|0
+a restricted linear-time logic|DT VBN NN NN|BODY_4|0
+4 homomorphisms and composition|CD NNS CC NN|BODY_1|0
+definition 8 ( composition|NN CD -LRB- NN|BODY_1|0
+r 0 definition 13|NN CD NN CD|BODY_1|0
+a given logical formula|DT VBN JJ NN|BODY_9|0
+formulas 1 and 2|NNS CD CC CD|BODY_1|0
+a new program location|DT JJ NN NN|BODY_5|0
+a 0 proof immediate|DT CD NN JJ|BODY_4|0
+the indicated fairness constraint|DT JJ NN NN|BODY_4|0
+an equivalent ltl formula|DT JJ JJ NN|BODY_5|0
+their common atomic propositions|PRP$ JJ JJ NNS|BODY_10|0
+all the induction hypothesis|DT DT NN NN|BODY_2|0
+m k m 00|NN NN NN CD|BODY_3|0
+the resulting moore machine|DT VBG NN NN|BODY_6|0
+all i 2 n.|DT NN CD NN|BODY_7|0
+( a ) g|-LRB- DT -RRB- NN|BODY_1|0
+a fair path|DT JJ NN|BODY_11:BODY_22:BODY_17:BODY_18:BODY_21:BODY_15:BODY_2:BODY_25:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+the induction hypothesis|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|1
+a moore machine|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_4|1
+the moore machine|DT NN NN|BODY_5:BODY_3:BODY_7|1
+the official policies|DT JJ NNS|BODY_5|1
+the fair paths|DT JJ NNS|BODY_16:BODY_2|1
+a fixed point|DT JJ NN|BODY_6|1
+' 2 )|POS CD -RRB-|BODY_12:BODY_6:BODY_8|1
+an empty set|DT JJ NN|BODY_5|1
+the u.s. government|DT NNP NN|BODY_6|1
+any homomorphism h|DT NN NN|BODY_5|1
+the above equation|DT JJ NN|BODY_1:BODY_7|1
+a natural correspondence|DT JJ NN|BODY_3|1
+a maximal model|DT JJ NN|BODY_4|1
+polynomial time algorithms|JJ NN NNS|BODY_2|1
+the corresponding operation|DT JJ NN|BODY_10|1
+define h 1|VB NN CD|BODY_1|1
+this maximal homomorphism|DT JJ NN|BODY_3|1
+another important case|DT JJ NN|BODY_1|1
+an initial state|DT JJ NN|BODY_6:BODY_5:BODY_21:BODY_2:BODY_10:BODY_7:BODY_8|0
+the definition|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_19|1
+that|WDT|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|1
+m 0|NN CD|BODY_6:BODY_22:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|1
+moore machines|JJ NNS|BODY_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|4
+the ts register|DT NNS NN|BODY_6:BODY_2:BODY_10:BODY_7:BODY_9|0
+the model checker|DT NN NN|BODY_2:BODY_1:BODY_4|0
+m k m|NN NN NN|BODY_11:BODY_3:BODY_4:BODY_10:BODY_7|0
+a path formula|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_10|0
+a finite set|DT JJ NN|BODY_2:BODY_1:BODY_3|0
+the tableau construction|DT NN NN|BODY_2|0
+a tableau construction|DT NN NN|BODY_5:BODY_2:BODY_3|0
+0 )|CD -RRB-|BODY_12:BODY_11:BODY_5:BODY_16:BODY_2:BODY_3:BODY_14:BODY_4:BODY_10:BODY_7:BODY_8:BODY_30|1
+a state formula|DT NN NN|BODY_6:BODY_1:BODY_3|0
+m and m|NN CC NN|BODY_2:BODY_3:BODY_4|0
+an explicit notion|DT JJ NN|BODY_2:BODY_4|0
+every fair path|DT JJ NN|BODY_5:BODY_1:BODY_3:BODY_7|0
+the initial state|DT JJ NN|BODY_3:BODY_4:BODY_7|0
+a verification methodology|DT NN NN|BODY_2|0
+the previous lemma|DT JJ NN|BODY_12:BODY_17:BODY_1|0
+the instruction queue|DT NN NN|BODY_5:BODY_13|0
+many realistic problems|JJ JJ NNS|BODY_3|0
+the expressive power|DT JJ NN|BODY_5:BODY_1|0
+the next level|DT JJ NN|BODY_6|0
+m 0 such|NN CD JJ|BODY_11:BODY_28:BODY_4|0
+k( m )|JJ NN -RRB-|BODY_1:BODY_3:BODY_8|0
+the assume-guarantee paradigm|DT NN NN|BODY_3:BODY_4|0
+the proof proceeds|DT NN NNS|BODY_17:BODY_10:BODY_8|0
+' 1 u|POS CD NNP|BODY_4:BODY_7|0
+the form 8x|DT NN NN|BODY_6:BODY_5|0
+the atomic propositions|DT JJ NNS|BODY_2:BODY_3|0
+all atomic propositions|DT JJ NNS|BODY_4:BODY_8|0
+the memory model|DT NN NN|BODY_6:BODY_1:BODY_7|0
+the arithmetic unit|DT JJ NN|BODY_4|0
+the first state|DT JJ NN|BODY_6:BODY_7|0
+a small number|DT JJ NN|BODY_3|0
+structures and formulas|NNS CC NNS|BODY_2|0
+an elegant form|DT JJ NN|BODY_2|0
+htrueim 0 hold|NN CD NN|BODY_3|0
+a single step|DT JJ NN|BODY_5|0
+large state graphs|JJ NN NNS|BODY_2|0
+the state space|DT NN NN|BODY_6:BODY_1|0
+a model checker|DT NN NN|BODY_2|0
+no fair path|DT JJ NN|BODY_11:BODY_17:BODY_8|0
+the second structure|DT JJ NN|BODY_2:BODY_4|0
+t( / )|JJ NN -RRB-|BODY_5|0
+the structure m|DT NN NN|BODY_5:BODY_3|0
+' 2 ,|POS CD ,|BODY_3:BODY_8|0
+the -calculus use|DT JJ NN|BODY_4|0
+the three logics|DT CD NNS|BODY_6|0
+a similar attempt|DT JJ NN|BODY_2|0
+a similar idea|DT JJ NN|BODY_2|0
+negated atomic proposition|JJ JJ NN|BODY_1|0
+some related work|DT JJ NN|BODY_2|0
+the cpu branches|DT NN NNS|BODY_2|0
+the fairness sets|DT NN NNS|BODY_1|0
+a closing environment|DT NN NN|BODY_2:BODY_4|0
+the previous formula|DT JJ NN|BODY_3|0
+a simple model|DT JJ NN|BODY_3:BODY_4|0
+the structure corresponding|DT NN JJ|BODY_7|0
+u.s. air force|DT NN NN|BODY_7|0
+every initial state|DT JJ NN|BODY_2:BODY_4|0
+' and /|POS CC NN|BODY_1:BODY_4|0
+such an algorithm|JJ DT NN|BODY_2|0
+aeronautical systems division|JJ NNS NN|BODY_5|0
+most verification tasks|RBS RB NNS|BODY_3|0
+t ) iff|NN -RRB- NN|BODY_2|0
+such an i|JJ DT IN|BODY_5|0
+no fair paths|DT NN NNS|BODY_5:BODY_2|0
+each formula 8x|DT NN NN|BODY_3|0
+the actual model|DT JJ NN|BODY_1:BODY_4|0
+a tableau-based procedure|DT JJ NN|BODY_5|0
+polynomial time [12]|JJ NN NNS|BODY_18|0
+n such that|RB JJ DT|BODY_9|0
+every s 2|DT PRP CD|BODY_2|0
+any fair path|DT JJ NN|BODY_3:BODY_9|0
+an atomic proposition|DT JJ NN|BODY_2:BODY_1|0
+finite state models|NN NN NNS|BODY_9|0
+finite state systems|JJ NN NNS|BODY_5|0
+the relational product|DT JJ NN|BODY_2|0
+a 0 2.|DT CD CD|BODY_5|0
+( a )|-LRB- DT -RRB-|BODY_1|0
+the path satisfies|DT NN NNS|BODY_3|0
+a similar construction|DT JJ NN|BODY_7|0
+k( m)kk( m|JJ NN NN|BODY_7|0
+existential path quantifiers|JJ NN NNS|BODY_5:BODY_1|0
+an efficient model|DT JJ NN|BODY_2:BODY_4|0
+all the cpu|DT DT NN|BODY_3|0
+the logic 8ctl*|DT NN NN|BODY_1:BODY_3|0
+the same flavor|DT JJ NN|BODY_3|0
+a specific state|DT JJ NN|BODY_6|0
+a reduced version|DT JJ NN|BODY_3|0
+a nontrivial model|DT JJ NN|BODY_2|0
+the set sub(|DT NN NN|BODY_2|0
+s 0 1|VBZ CD CD|BODY_4|0
+a maximal homomorphism|DT JJ NN|BODY_3|0
+2 \phi( 8(|CD NN NN|BODY_6|0
+this composition operator|DT NN NN|BODY_2|0
+two different ways|CD JJ NNS|BODY_2|0
+a modular framework|DT JJ NN|BODY_3|0
+a given component|DT VBN NN|BODY_6:BODY_5:BODY_3:BODY_9|0
+the avionics laboratory|DT NNS NN|BODY_3|0
+' h j|POS NN NN|BODY_7|0
+a relation h|DT NN NN|BODY_11:BODY_1|0
+a restricted set|DT JJ NN|BODY_6|0
+the fairness constraint|DT NN NN|BODY_5|0
+the complete system|DT JJ NN|BODY_5|0
+2 lemma 7|CD NN CD|BODY_2|0
+ctl and ctl*|NN CC NN|BODY_2|0
+the entire space|DT JJ NN|BODY_3|0
+a given class|DT VBN NN|BODY_2|0
+the relation h|DT NN NN|BODY_3|0
+a fixed decomposition|DT VBN NN|BODY_3|0
+modeling synchronous circuits|JJ JJ NNS|BODY_2:BODY_4|0
+ltl and ctl|NN CC NN|BODY_2|0
+the final class|DT JJ NN|BODY_6|0
+some fair path|DT JJ NN|BODY_3:BODY_7|0
+its second state|PRP$ JJ NN|BODY_12|0
+three interesting relations|CD JJ NNS|BODY_4|0
+the final property|DT JJ NN|BODY_14|0
+input and output|NN CC NN|BODY_3|0
+the first property|DT JJ NN|BODY_5|0
+no s i|DT VBZ NN|BODY_2|0
+the global behavior|DT JJ NN|BODY_3|0
+a 0 proof|DT CD NN|BODY_9|0
+linear-time temporal logic|NN JJ NN|BODY_4|0
+incomparable expressive power|JJ JJ NN|BODY_3|0
+( b )|-LRB- NN -RRB-|BODY_13|0
+the first h|DT JJ NN|BODY_2|0
+t 2 \phi(|NN CD NN|BODY_5|0
+the second class|DT JJ NN|BODY_2:BODY_1|0
+the symbolic procedures|DT JJ NNS|BODY_1|0
+m 00 such|NN CD JJ|BODY_17:BODY_7|0
+the first condition|DT JJ NN|BODY_3:BODY_4|0
+all the formulas|DT DT NNS|BODY_5|0
+the first class|DT JJ NN|BODY_1|0
+a weak form|DT JJ NN|BODY_4|0
+a formula '|DT NN ''|BODY_13|0
+the entire specification|DT JJ NN|BODY_5|0
+a compositional fashion|DT JJ NN|BODY_6:BODY_3|0
+' u /|'' NN NNS|BODY_4|0
+the tableau construc|DT NN NN|BODY_5|0
+many parallel processes|JJ JJ NNS|BODY_4|0
+a simple cpu|DT JJ NN|BODY_4|0
+more complex forms|RBR JJ NNS|BODY_1:BODY_3|0
+an assume-guarantee style|DT JJ NN|BODY_3|0
+the 8ctl subset|DT JJ NN|BODY_3|0
+execution unit abstraction|NN NN NN|BODY_12|0
+the elementary subformulas|DT JJ NNS|BODY_23|0
+the additional assumption|DT JJ NN|BODY_2|0
+some t 2|DT NN CD|BODY_8|0
+a discharges assumption|DT NNS NN|BODY_9|0
+( c )|-LRB- NN -RRB-|BODY_3|0
+the memory responds|DT NN NNS|BODY_5|0
+a joint transition|DT JJ NN|BODY_3|0
+every the notation|DT DT NN|BODY_11|0
+t and t|NN CC NN|BODY_5|0
+the global system|DT JJ NN|BODY_6|0
+the formula 8g8f(fetchrdy|DT NN NN|BODY_8|0
+the same state|DT JJ NN|BODY_3|0
+the top-of-stack pointer|DT JJ NN|BODY_6|0
+simple safety properties|JJ NN NNS|BODY_2|0
+every when h|DT WRB NN|BODY_12|0
+o  o|RB RB RB|BODY_5:BODY_14|0
+more complex systems|RBR JJ NNS|BODY_4|0
+the maximal environment|DT JJ NN|BODY_6:BODY_1|0
+the two sets|DT CD NNS|BODY_4|0
+a memory address|DT NN NN|BODY_7|0
+a standard ctl|DT JJ NN|BODY_4|0
+a push operation|DT NN NN|BODY_2|0
+the base cases|DT NN NNS|BODY_21|0
+the actual memory|DT JJ NN|BODY_6:BODY_4|0
+true 7 checking|JJ CD NN|BODY_7|0
+a typical proof|DT JJ NN|BODY_1|0
+m 0 h/i|NN CD NN|BODY_5|0
+/ and '|NNS CC ''|BODY_3|0
+any closing environment|DT NN NN|BODY_10|0
+the cross product|DT NN NN|BODY_6|0
+a possible behavior|DT JJ NN|BODY_1:BODY_4|0
+an arbitrary environment|DT JJ NN|BODY_3|0
+a restricted subset|DT JJ NN|BODY_2|0
+some nontrivial systems|DT JJ NNS|BODY_5|0
+specifications or assumptions|NNS CC NNS|BODY_7|0
+the ( structure|DT -LRB- NN|BODY_4|0
+one representative system|CD JJ NN|BODY_7|0
+a particular model|DT JJ NN|BODY_3|0
+f definition 19|NN NN CD|BODY_4|0
+u 2 \phi(|NN CD NN|BODY_15|0
+a special register|DT JJ NN|BODY_6|0
+the natural decomposition|DT JJ NN|BODY_3|0
+the induced subset|DT JJ NN|BODY_1|0
+the desired system|DT VBN NN|BODY_5|0
+item 2b above|NN JJ IN|BODY_12|0
+a ctl specification|DT JJ NN|BODY_4|0
+every such 0|DT JJ CD|BODY_13|0
+m discharges assumption|NN NNS NN|BODY_5|0
+every closing environment|DT NN NN|BODY_10|0
+ctl and ctl*.|JJ CC POS|BODY_7|0
+a fairness constraint|DT NN NN|BODY_2|0
+a brief description|DT JJ NN|BODY_2|0
+the above properties|DT JJ NNS|BODY_3|0
+the following equations|DT VBG NNS|BODY_4:BODY_10:BODY_7|0
+0 0 )|CD CD -RRB-|BODY_4|0
+each component results|DT NN NNS|BODY_6|0
+a verification system|DT NN NN|BODY_2|0
+their first component|PRP$ JJ NN|BODY_5|0
+relations h i|NNS NN IN|BODY_6|0
+either case t|DT NN NN|BODY_6:BODY_1|0
+the following relationships|DT VBG NNS|BODY_3|0
+a compositional method|DT JJ NN|BODY_3|0
+this moore machine|DT NN NN|BODY_8|0
+a similar manner|DT JJ NN|BODY_5|0
+the implementation details|DT NN NNS|BODY_3|0
+a (unique )|DT NN -RRB-|BODY_14|0
+its ready signals|PRP$ JJ NNS|BODY_5|0
+burch et al|NN FW JJ|BODY_9|0
+a ctl formula|DT JJ NN|BODY_4|0
+a reasonable algorithm|DT JJ NN|BODY_2|0
+a smaller set|DT JJR NN|BODY_5|0
+the final system|DT JJ NN|BODY_3|0
+efficient compositional verification|JJ JJ NN|BODY_5|0
+the structure fi|DT NN NN|BODY_6|0
+moore machine composition|NN NN NN|BODY_2|0
+the ltl formula|DT JJ NN|BODY_5|0
+k( m km|JJ NN NN|BODY_4|0
+an infinite sequence|DT JJ NN|BODY_4|0
+every possible behavior|DT JJ NN|BODY_5|0
+the following abbreviations|DT JJ NNS|BODY_6|0
+some homomorphism h|DT NN NN|BODY_6|0
+h 0 (|NN CD -LRB-|BODY_29|0
+the previous section|DT JJ NN|BODY_5:BODY_1|0
+our earlier assumption|PRP$ JJR NN|BODY_16|0
+its maximal environment|PRP$ JJ NN|BODY_2|0
+the main drawback|DT JJ NN|BODY_1|0
+a 8ctl* formula|DT JJ NN|BODY_6|0
+pops and branches|NNS CC NNS|BODY_10|0
+either t 2|DT NN CD|BODY_10|0
+denoted m km|VBN NN NN|BODY_3|0
+some j such|DT JJ JJ|BODY_2|0
+m 0 )|NN CD -RRB-|BODY_4|0
+j= / )|JJ VBN -RRB-|BODY_7|0
+the previous sections|DT JJ NNS|BODY_15|0
+this final step|DT JJ NN|BODY_1|0
+ i and |DT NN CC|BODY_4|0
+, and then|, CC RB|BODY_6|0
+the following rule|DT VBG NN|BODY_6|0
+a pop operation|DT NN NN|BODY_4|0
+exactly those states|RB DT NNS|BODY_8|0
+such that h(|JJ DT NN|BODY_7|0
+the cpu controller|DT JJ NN|BODY_3|0
+the second state|DT JJ NN|BODY_9|0
+the formula /|DT NN NN|BODY_1|0
+the operation completes|DT NN NNS|BODY_6|0
+negation normal form|NN JJ NN|BODY_5|0
+the usual properties|DT JJ NNS|BODY_3|0
+every push operation|DT NN NN|BODY_9|0
+define h 2|VB NN CD|BODY_1|0
+a preprocessing step|DT JJ NN|BODY_19|0
+every 8ctl* formula|DT JJ NN|BODY_1|0
+ i 0|NN NN CD|BODY_6|0
+such a framework|JJ DT NN|BODY_1|0
+the following form|DT VBG NN|BODY_8|0
+shurek and grumberg|NN CC JJ|BODY_1|0
+related work much|VBN NN RB|BODY_1|0
+ltl and 8ctl|JJ CC JJ|BODY_1|0
+each h j+1|DT NN NN|BODY_1|0
+the components interact|DT NNS NN|BODY_8|0
+inputs and outputs|NNS CC NNS|BODY_5|0
+the following conditions|DT VBG NNS|BODY_1:BODY_7|0
+the 8ctl* subset|DT JJ NN|BODY_1|0
+bisimulation equiv- alence|NN NNS NN|BODY_5|0
+:push -:pop )|JJ NN -RRB-|BODY_7|0
+one additional signal|CD JJ NN|BODY_1|0
+the desired formula|DT VBN NN|BODY_14|0
+3 temporal logic|CD JJ NN|BODY_1|0
+the system changes|DT NN NNS|BODY_8|0
+some later point|DT JJ NN|BODY_7|0
+this latter relation|DT JJ NN|BODY_4|0
+an obvious method|DT JJ NN|BODY_1|0
+2 lemma 4|CD NN CD|BODY_1|0
+each h j|DT NN NN|BODY_9|0
+the state formula|DT NN NN|BODY_8|0
+a computational model|DT JJ NN|BODY_1|0
+the individual components|DT JJ NNS|BODY_4|0
+branching-time temporal logics|JJ JJ NNS|BODY_4|0
+figure 1 )|NN CD -RRB-|BODY_5|0
+the above formula|DT JJ NN|BODY_6|0
+a closed machine|DT JJ NN|BODY_2|0
+this ctl subset|DT JJ NN|BODY_3|0
+theorem 1 composition|NN CD NN|BODY_1|0
+the next instruction|DT JJ NN|BODY_8|0
+then ( b|RB -LRB- NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+the second part|DT JJ NN|BODY_1|0
+true and false|JJ CC JJ|BODY_25|0
+assume-guarantee style reasoning|NN NN NN|BODY_3|0
+an elegant way|DT JJ NN|BODY_1|0
+the first part|DT JJ NN|BODY_1|0
+a specified component|DT JJ NN|BODY_8|0
+the set a.|DT NN NN|BODY_5|0
+the two structures|DT CD NNS|BODY_3|0
+an example formula|DT NN NN|BODY_1|0
+2 definition 15|CD NN CD|BODY_1|0
+2 theorem 4|CD NN CD|BODY_1|0
+the previous corollary|DT JJ NN|BODY_1|0
+5 moore machines|CD NN NNS|BODY_1|0
+an actual verification|DT JJ NN|BODY_1|0
+the first case|DT JJ NN|BODY_1|0
+the following considerations|DT VBG NNS|BODY_7|0
+the following facts|DT VBG NNS|BODY_2|0
+the key consideration|DT JJ NN|BODY_1|0
+true implied p|JJ JJ NN|BODY_3|0
+such a machine|JJ DT NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+its individual components|PRP$ JJ NNS|BODY_6|0
+several interesting cases|JJ JJ NNS|BODY_4|0
+additional atomic propositions|JJ JJ NNS|BODY_6|0
+the formula 8f8gp|DT NN NN|BODY_1|0
+e( m )|JJ NN -RRB-|BODY_8|0
+l 0 (|JJ CD -LRB-|BODY_6|0
+the above set|DT JJ NN|BODY_12|0
+a transition relation|DT NN NN|BODY_4|0
+r k( m|NN NN NN|BODY_8|0
+the same label|DT JJ NN|BODY_3|0
+the transition relation|DT NN NN|BODY_3|0
+v ) 5|FW -RRB- CD|BODY_3|0
+( p \theta|-LRB- NN NN|BODY_1|0
+s 0 2|VBZ CD CD|BODY_1|0
+the first component|DT JJ NN|BODY_11|0
+oe v )|NN NN -RRB-|BODY_7|0
+2. if 3|. IN CD|BODY_1|0
+assume condition 2|VBP NN CD|BODY_1|0
+l 00 5|JJ CD CD|BODY_1|0
+the case 3|DT NN CD|BODY_1|0
+the second case|DT JJ NN|BODY_1|0
+these two parts|DT CD NNS|BODY_1|0
+a homomorphism|DT NN|BODY_6:BODY_5:BODY_16:BODY_21:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|2
+a state|DT NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|1
+atomic propositions|JJ NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+the system|DT NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_8|0
+the set|DT NN|BODY_12:BODY_5:BODY_2:BODY_3|1
+the tableau|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|1
+h|NN|BODY_12:BODY_11:BODY_5:BODY_18:BODY_15:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+the semantics|DT NNS|BODY_2:BODY_3|1
+this section|DT NN|BODY_2:BODY_1:BODY_3:BODY_9|1
+h 1|NN CD|BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|1
+' )|POS -RRB-|BODY_6:BODY_5:BODY_16:BODY_17:BODY_3:BODY_4:BODY_9|0
+states|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+state formulas|NN NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+this|DT|BODY_11:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_9|0
+the states|DT NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_9|0
+every state|DT NN|BODY_2:BODY_24:BODY_4:BODY_19:BODY_8|0
+part|NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+the memory|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8|0
+m 00|NN CD|BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_20|0
+the cpu|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3|0
+the stack|DT NN|BODY_5:BODY_3:BODY_10:BODY_7|0
+the number|DT NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+an abbreviation|DT NN|BODY_2:BODY_3|0
+the verification|DT NN|BODY_6:BODY_1:BODY_4|0
+( c|-LRB- NN|BODY_1:BODY_2:BODY_3|0
+the first|DT JJ|BODY_5:BODY_3:BODY_4|0
+the composition|DT NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+a path|DT NN|BODY_15:BODY_2:BODY_3:BODY_8|0
+this formula|DT NN|BODY_2:BODY_1:BODY_3|0
+temporal reasoning|JJ NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8|0
+these properties|DT NNS|BODY_1:BODY_2:BODY_3|0
+a method|DT NN|BODY_2|0
+the structure|DT NN|BODY_12:BODY_2:BODY_1:BODY_19:BODY_10:BODY_4|0
+k( m|JJ NN|BODY_11:BODY_3:BODY_7:BODY_8|0
+1 )|CD -RRB-|BODY_11:BODY_5:BODY_3|0
+the work|DT NN|BODY_2|0
+' (|POS -LRB-|BODY_2:BODY_3:BODY_7|0
+path formulas|NN NNS|BODY_2:BODY_3:BODY_7|0
+the assumption|DT NN|BODY_6:BODY_1:BODY_3|0
+the case|DT NN|BODY_1:BODY_4|0
+the logics|DT NNS|BODY_6:BODY_1:BODY_2:BODY_4|0
+a tuple|DT NN|BODY_3:BODY_7|0
+a 0|DT CD|BODY_13:BODY_2:BODY_10|0
+f 0|NN CD|BODY_2|0
+( b|-LRB- NN|BODY_2:BODY_7|0

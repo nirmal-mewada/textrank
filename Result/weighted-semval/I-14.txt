@@ -1,0 +1,284 @@
+agents|NNS|BODY_17:ABSTRACT_2:BODY_2:BODY_3:BODY_24:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_29:BODY_8:BODY_9|0
+a reinforcement learning|DT NN NN|TITLE_1:BODY_2:BODY_4|0
+that|IN|BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the agents|DT NNS|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_10|0
+the learning algorithm|DT NN NN|BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_8|0
+this paper|DT NN|BODY_11:BODY_2:BODY_1:ABSTRACT_1|1
+relevant documents|JJ NNS|BODY_12:BODY_6:ABSTRACT_5:BODY_4|0
+incoming queries|JJ NNS|BODY_6:ABSTRACT_6:ABSTRACT_4:BODY_4:BODY_7:BODY_8|0
+the neighboring agents|DT VBG NNS|ABSTRACT_2:BODY_10:BODY_7|0
+information|NN|ABSTRACT_6:BODY_2:BODY_3:BODY_7|0
+the downstream agents|DT NN NNS|ABSTRACT_3:BODY_4|0
+the queries|DT NNS|ABSTRACT_2:BODY_2:BODY_10:BODY_4|0
+the estimates|DT NNS|ABSTRACT_4:BODY_3:BODY_4|0
+the new routing policies|DT JJ NN NNS|BODY_6:ABSTRACT_5|0
+the feedback information|DT NN NN|ABSTRACT_2:BODY_2:BODY_4|0
+the learned policies|DT JJ NNS|ABSTRACT_3:BODY_3:BODY_4|0
+the dynamic run-time characteristics|DT JJ NN NNS|ABSTRACT_4|0
+their direct neighboring agents|PRP$ JJ JJ NNS|ABSTRACT_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the distributed search sessions|DT VBN NN NNS|ABSTRACT_6|0
+agent|NN|BODY_6:BODY_31:BODY_11:BODY_27:BODY_13:BODY_26:BODY_1:BODY_2:BODY_3:BODY_4:BODY_30:BODY_9|0
+it|PRP|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4|1
+we|PRP|BODY_6:BODY_13:BODY_2:BODY_3:BODY_4|1
+time|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+queries|NNS|BODY_6:BODY_5:BODY_16:BODY_2:BODY_3:BODY_4:BODY_8|0
+an agent|DT NN|BODY_6:BODY_5:BODY_3:BODY_14:BODY_4|0
+the number|DT NN|BODY_6:BODY_5:BODY_13:BODY_24:BODY_3:BODY_10:BODY_4:BODY_7|0
+the network|DT NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_3:BODY_4:BODY_7|0
+each agent|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+which|WDT|BODY_5:BODY_3:BODY_7:BODY_8|0
+the set|DT NN|BODY_11:BODY_28:BODY_18:BODY_23:BODY_2:BODY_1:BODY_3:BODY_8|0
+the learning process|DT NN NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3|0
+a search session|DT NN NN|BODY_12:BODY_16:BODY_2:BODY_4:BODY_7|0
+the algorithm|DT NN|BODY_11:BODY_43:BODY_2:BODY_4:BODY_8|0
+the query|DT NN|BODY_6:BODY_5:BODY_3:BODY_8:BODY_20|0
+the search session|DT NN NN|BODY_5:BODY_11:BODY_28:BODY_1:BODY_3:BODY_10|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7|0
+)|-RRB-|BODY_11:BODY_22:BODY_17:BODY_27:BODY_15:BODY_13:BODY_4:BODY_7|0
+qsj )|NN -RRB-|BODY_28:BODY_21:BODY_3:BODY_4:BODY_7|0
+the cumulative utility|DT JJ NN|BODY_2:BODY_4:BODY_9|0
+the results|DT NNS|BODY_2:BODY_1:BODY_3:BODY_8|0
+s|PRP|BODY_12:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+qsj|NN|BODY_12:BODY_11:BODY_31:BODY_22:BODY_24:BODY_19|0
+addition|NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3|0
+this problem|DT NN|BODY_6:BODY_3:BODY_4|1
+ai|VBP|BODY_5:BODY_2:BODY_3|0
+trec-vlc-921|NNS|BODY_6:BODY_16:BODY_1:BODY_19:BODY_7|0
+the average reward|DT JJ NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+the ttl value|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+the expected utility values|DT VBN NN NNS|BODY_17:BODY_2|0
+the performance|DT NN|BODY_6:BODY_1:BODY_3:BODY_4|1
+multi-agent systems|JJ NNS|BODY_3|0
+this|DT|BODY_2:BODY_1|0
+the probability|DT NN|BODY_5:BODY_2:BODY_19:BODY_7|0
+the two data collections|DT CD NNS NNS|BODY_2:BODY_9|0
+the routing policy|DT NN NN|BODY_32:BODY_2:BODY_1|0
+the system|DT NN|BODY_8:BODY_9|0
+the expected utility value|DT VBN NN NN|BODY_5:BODY_3|0
+the expected utility|DT VBN NN|BODY_6:BODY_5:BODY_1|0
+a constant|DT JJ|BODY_11:BODY_3:BODY_9|0
+a more general approach|DT RBR JJ NN|BODY_3|1
+a reinforcement-learning based approach|DT NN VBN NN|BODY_2|1
+neighboring agents|VBG NNS|BODY_2:BODY_4:BODY_19:BODY_8|0
+a reinforcement learning task|DT NN VBG NN|BODY_5|1
+higher expected utility value|JJR VBN NN NN|BODY_5:BODY_11|0
+users|NNS|BODY_5:BODY_14:BODY_10:BODY_8|0
+the average performance gain|DT JJ NN NN|BODY_2:BODY_3|0
+distributed ir search algorithms|VBN NN NN NNS|BODY_5:BODY_4|1
+dn i|NN IN|BODY_12:BODY_3:BODY_4|0
+3|CD|BODY_1:BODY_10:BODY_9:BODY_20|0
+pdn(|NN|BODY_11:BODY_13:BODY_3:BODY_20|0
+ï€i( qsi|JJ NNP|BODY_5:BODY_11:BODY_8|0
+î±ik )|NNP -RRB-|BODY_36:BODY_13:BODY_24:BODY_9|0
+the sixth intl|DT JJ NN|BODY_12:BODY_5:BODY_15:BODY_1:BODY_3|0
+hierarchical p2p ir systems|JJ NN NN NNS|BODY_5:BODY_2|0
+the potential downstream agent|DT JJ NN NN|BODY_2|0
+only a limited number|RB DT JJ NN|BODY_8:BODY_9|0
+its neighboring agents|PRP$ VBG NNS|BODY_12:BODY_4:BODY_9|0
+dn+1|NN|BODY_12:BODY_5:BODY_37|0
+ï€n+1 i ( qsj|CD FW -LRB- NN|BODY_32:BODY_12|0
+.e tqij and trs|JJ NN CC NNS|BODY_3|0
+the u.s. national institute|DT NNP JJ NN|BODY_3|0
+state qsj|NN NN|BODY_5:BODY_17:BODY_13:BODY_29:BODY_9|0
+a query|DT NN|BODY_16:BODY_2|0
+the content routing system|DT JJ NN NN|BODY_2|0
+their neighbors|PRP$ NNS|BODY_6:BODY_1:BODY_7|0
+an agent view structure|DT NN NN NN|BODY_2|0
+our hierarchical agent organization|PRP$ JJ NN NN|BODY_2|0
+the reinforcement learning perspective[2|DT NN NN NN|BODY_2|0
+âˆ —|FW FW|BODY_5:BODY_16:BODY_13|0
+information retrieval systems|NN JJ NNS|BODY_4|1
+the timer|DT NN|BODY_2:BODY_1:BODY_3|0
+a local search queue|DT JJ NN NN|BODY_4|0
+the most promising agents|DT RBS JJ NNS|BODY_4|0
+) âˆ ’ pdn(|-RRB- NN NN NN|BODY_6:BODY_11|0
+one query class q(qi|CD NN NN NN|BODY_3|0
+the corresponding state qsi|DT JJ NN NN|BODY_3|0
+the query type qj|DT NN NN NN|BODY_3|0
+the similarity value sim(qk|DT NN NN NN|BODY_12|0
+the actual search process|DT JJ NN NN|BODY_5|0
+a multi-agent based network|DT JJ VBN NN|BODY_4|0
+an incoming query qi|DT JJ NN NNS|BODY_2|0
+the two-phase search algorithm|DT JJ NN NN|BODY_6|0
+the hierarchical agent organizations|DT JJ NN NNS|BODY_2|0
+the best neighboring agents|DT JJS JJ NNS|BODY_3|0
+a relevant direct neighbor|DT JJ JJ NN|BODY_2|0
+the actual cumulative utility|DT JJ JJ NN|BODY_2|0
+such a cut-off value|JJ DT JJ NN|BODY_2|0
+ttl1|NNS|BODY_21:BODY_15:BODY_10|0
+the state|DT NN|BODY_6:BODY_5:BODY_2|0
+a particular search session|DT JJ NN NN|BODY_5|0
+the faster the agent|DT RBR DT NN|BODY_40|0
+datasets trec-123-100-random and trec-123-100-source|NNS NN CC NN|BODY_6|0
+all subsequent search sessions|DT JJ NN NNS|BODY_2|0
+each content group form|DT JJ NN NN|BODY_6|0
+search results|NN NNS|BODY_5:BODY_2:BODY_4:BODY_7|0
+— eâˆ’c1n ( 6|JJ NN -LRB- CD|BODY_5|0
+content-similarity based approaches [6|NN VBN NNS NNS|BODY_5|0
+a fifo ( first|DT NN -LRB- JJ|BODY_4|0
+the smaller î¸i value|DT JJR NNS NN|BODY_39|0
+a data dissemination framework|DT NN NN NN|BODY_6|0
+the distributed learning algorithm|DT VBN NN NN|BODY_4|0
+an iterative update process|DT JJ NN NN|BODY_3|0
+a stochastic routing policy|DT JJ NN NN|BODY_3|0
+the available communication bandwidth|DT JJ NN NN|BODY_9|0
+the most promising queries|DT RBS JJ NNS|BODY_3|0
+the potential utility estimation|DT JJ NN NN|BODY_9|0
+arg max qj p(qi|qj|NN NN NN NN|BODY_6|0
+largely the same as|RB DT JJ IN|BODY_7|0
+search sessions|NN NNS|BODY_11:BODY_25:BODY_2:BODY_14|0
+the update message increases|DT NN NN NNS|BODY_3|0
+this content routing problem|DT NN NN NN|BODY_4|0
+the two-step search algorithm|DT JJ NN NN|BODY_2|0
+the p2p ir systems|DT NN NN NNS|BODY_4|0
+the agent|DT NN|BODY_6:BODY_5:BODY_3|0
+non-learning based routing algorithm|JJ VBN VBG NN|BODY_3|0
+the distributed search protocol|DT VBN NN NN|BODY_1|0
+the search results|DT NN NNS|BODY_6:BODY_13:BODY_1:BODY_8|0
+the updated u values|DT VBN NN NNS|BODY_11|0
+( 1|-LRB- CD|BODY_3|0
++ k ) ||JJ NN -RRB- NN|BODY_7|0
+( 2 ) note|-LRB- CD -RRB- NN|BODY_13|0
+datasets trec123-100-random and trec-123-100-source|NNS NN CC NN|BODY_3|0
+ip-level based packet routing|JJ VBN NN NN|BODY_2|0
+the actual routing protocol|DT JJ NN NN|BODY_2|0
+a hierarchical p2pir system|DT JJ NN NN|BODY_13|0
+non-learning algorithm( tsna )|JJ NN NN -RRB-|BODY_9|0
+|NNP|BODY_5:BODY_4:BODY_7|0
+the past search sessions|DT JJ NN NNS|BODY_8|0
+the two-stepbased learning algorithm|DT JJ NN NN|BODY_2|0
+the average load condition|DT JJ NN NN|BODY_6|0
+the initial exploration rate|DT JJ NN NN|BODY_7|0
+a relatively consistent performance|DT RB JJ NN|BODY_2|0
+î±ik ) â‰ ¤|NNP -RRB- NNS IN|BODY_33|0
+qsj ) | â´|NN -RRB- NN NN|BODY_19|0
+the subsequent search sessions|DT JJ NN NNS|BODY_5|0
+a search session sj|DT NN NN NN|BODY_3|0
+higher expected utility values|JJR VBN NN NNS|BODY_4|0
+a new routing policy|DT JJ NN NN|BODY_2|0
+their current routing policies|PRP$ JJ NN NNS|BODY_5|0
+the reward rew(sr )|DT NN NN -RRB-|BODY_3|0
+efficiently route user queries|RB NN NN NNS|BODY_6|0
+the same time|DT JJ NN|BODY_4:BODY_8|0
+qsj ) | +|NN -RRB- NN NN|BODY_15|0
+aamas 07 ) 233|NN CD -RRB- CD|BODY_4|0
+its own expected utility|PRP$ JJ VBN NN|BODY_7|0
+whose directly connected agents|WP$ RB JJ NNS|BODY_6|0
+a search session si|DT NN NN FW|BODY_8|0
+the reinforcement learning approach|DT NN VBG NN|BODY_3|0
+once a routing policy|RB DT JJ NN|BODY_3|0
+the system and agents|DT NN CC NNS|BODY_3|0
+its updated utility estimation|PRP$ VBN NN NN|BODY_4|0
+p k lk |directconn(|NN NN NN NN|BODY_9|0
+the incoming message queues|DT JJ NN NNS|BODY_4|0
+traffic and query patterns|NN CC NN NNS|BODY_3|0
+the expected time period|DT VBN NN NN|BODY_13|0
+all its downstream agents|DT PRP$ NN NNS|BODY_4|0
+the following equation|DT JJ NN|BODY_2:BODY_3|0
+the dynamic network situations|DT JJ NN NNS|BODY_5|0
+the potential downstream agents|DT JJ NN NNS|BODY_18|0
+upstream agent and aj|JJ NN CC NN|BODY_4|0
+the extra communication costs|DT JJ NN NNS|BODY_7|0
+its neighboring agent aik|PRP$ VBG NN VBP|BODY_30|0
+an iterative learning process|DT JJ NN NN|BODY_4|0
+dn( ao ,qsj|JJ FW FW|BODY_21:BODY_24|0
+a specific query qi|DT JJ NN NN|BODY_2|0
+their expected utility change|PRP$ VBN NN NN|BODY_5|0
+the exploration rate î»|DT NN NN NN|BODY_2|0
+= 0.5 and î²|SYM CD CC RB|BODY_7|0
+packet-switched communication networks|JJ NN NNS|BODY_6:BODY_3|0
+the last few years|DT JJ JJ NNS|BODY_1|0
+the two different sets|DT CD JJ NNS|BODY_1|0
+the expected local reward|DT VBN JJ NN|BODY_29|0
+the potential utility gain|DT JJ NN NN|BODY_4|0
+two-phase learning based algorithm|JJ NN VBN NN|BODY_1|0
+an active update strategy|DT JJ NN NN|BODY_4|0
+agent network based organizations|NN NN VBN NNS|BODY_8|0
+the current time unit|DT JJ NN NN|BODY_15|0
+highest expected utility value|JJS VBN NN NN|BODY_8|0
+qsj ) âš‚ directconn(|NN -RRB- NN NN|BODY_14|0
+this property|DT NN|BODY_3|0
+distributed information retrieval domain|VBN NN JJ NN|BODY_1|0
+the content routing problem|DT NN NN NN|BODY_1|0
+the relevant documents|DT JJ NNS|BODY_3:BODY_8|0
+the assumption|DT NN|BODY_2:BODY_1|0
+the search process|DT NN NN|BODY_1:BODY_2|0
+the remaining search bandwidth|DT VBG NN NN|BODY_1|0
+( 1 )|-LRB- CD -RRB-|BODY_15:BODY_7|0
+there|EX|BODY_2:BODY_1|0
+this learning algorithm|DT NN NN|BODY_6:BODY_2|0
+the p(qj|qj ) value|DT NN -RRB- NN|BODY_4|0
+the search results propagation|DT NN NNS NN|BODY_3|0
+qsj = (qk|NN SYM FW|BODY_34:BODY_4|0
+utility|NN|BODY_2:BODY_3|0
+the learning based approach|DT NN VBN NN|BODY_1|0
+a two-phase search process|DT JJ NN NN|BODY_6|0
+the query routing algorithms|DT NN NN NNS|BODY_11|0
+figures 4 , 5|NNS CD , CD|BODY_1|0
+the utilization rate information|DT NN NN NN|BODY_1|0
+the query initiator|DT NN NN|BODY_1:BODY_3:BODY_8|0
+the forwarding probability|DT JJ NN|BODY_5:BODY_8|0
+a pre-designated training set|DT JJ NN NN|BODY_8|0
+section 3.2|NN CD|BODY_2:BODY_1:BODY_3|0
+our previous algorithm [15]|PRP$ JJ NN NN|BODY_3|0
+the hierarchical agent organization|DT JJ NN NN|BODY_1|0
+columns tsna-source and tsla-source|NNS NN CC NN|BODY_1|0
+tsna and tsla approaches|NN CC NN NNS|BODY_4|0
+the distributed search process|DT VBN NN NN|BODY_4|0
+the network structure changes|DT NN NN NNS|BODY_4|0
+the single-phase search algorithm|DT JJ NN NN|BODY_1|0
+3.1.2 update expected utility|CD NN VBN NN|BODY_1|0
+0.05 âˆ ’ 0.15|CD NN NN CD|BODY_4|0
+the estimated utility information|DT VBN NN NN|BODY_1|0
+a dynamic exploration rate|DT JJ NN NN|BODY_5|0
+agent network organization|NN NN NN|BODY_3|0
+all their neighboring agents|PDT PRP$ VBG NNS|BODY_12|0
+the topology generation process|DT NN NN NN|BODY_1|0
+this formula|DT NN|BODY_26:BODY_1:BODY_8|0
+studies|NNS|BODY_2|0
+the same way|DT JJ NN|BODY_3:BODY_8|0
+a learning task|DT NN NN|BODY_3|0
+locally relevant nodes|RB JJ NNS|BODY_3|0
+the nth iteration|DT NN NN|BODY_3|0
+a faster convergence speed|DT JJR NN NN|BODY_1|0
+document collections|NN NNS|BODY_3:BODY_8|0
+the same level|DT JJ NN|BODY_3:BODY_4|0
+the utility|DT NN|BODY_6:BODY_3|0
+its neighbors|PRP$ NNS|BODY_5:BODY_4|0
+the forward width|DT JJ NN|BODY_13:BODY_9|0
+dn+1 i|NN NN|BODY_11:BODY_2:BODY_3|0
+a2 un 0|DT FW CD|BODY_2|0
+the two approaches|DT CD NNS|BODY_2|0
+a single measure|DT JJ NN|BODY_5:BODY_2|0
+trec-123-100-random|NN|BODY_5:BODY_3:BODY_4|0
+follows|VBZ|BODY_2:BODY_3|0
+all the agents|PDT DT NNS|BODY_2:BODY_10|0
+the load information|DT NN NN|BODY_13:BODY_1|0
+dataset trec-123-100-source|NN NN|BODY_3|0
+m|NN|BODY_16:BODY_10|0
+trec-123-100-random and trec-123-100-source|NN CC NN|BODY_2:BODY_7|0
+agent organization profiles|NN NN NNS|BODY_3|0
+their neighboring agents|PRP$ VBG NNS|BODY_4:BODY_10|0
+turn|NN|BODY_4|0
+agents update estimates|NNS NN NNS|BODY_3|0
+the relevance judgement|DT NN NN|BODY_6|0
+the search processes|DT NN NNS|BODY_3|0
+one|CD|BODY_3|0
+0.01 time unit|CD NN NN|BODY_4|0
+trano ( task|NN -LRB- NN|BODY_2|0
+the coefficient|DT NN|BODY_35:BODY_3|0
+the run-time characteristics|DT NN NNS|BODY_3|0
+the query qi|DT NN NNS|BODY_10|0
+the dominant strategies|DT JJ NNS|BODY_3|0
+the traffic load|DT NN NN|BODY_6:BODY_3|0
+the local reward|DT JJ NN|BODY_4:BODY_10|0
+the update formula|DT NN NN|BODY_6:BODY_1|0
+the second number|DT JJ NN|BODY_3|0
+the system performance|DT NN NN|BODY_3:BODY_4|0
+the learning mode|DT NN NN|BODY_2|0
+the routing process|DT JJ NN|BODY_5:BODY_4|0
+the potential reward|DT JJ NN|BODY_2|0
+the query qj|DT NN NN|BODY_2|0
+the query set|DT NN NN|BODY_7|0
+algorithms|NNS|BODY_5:BODY_2|0

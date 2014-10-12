@@ -1,0 +1,379 @@
+race conditions|NN NNS|BODY_6:BODY_5:ABSTRACT_4:TITLE_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|2
+that|WDT|BODY_16:ABSTRACT_2:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_9|8
+we|PRP|BODY_11:ABSTRACT_11:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_1:BODY_10:BODY_8:BODY_9|11
+which|WDT|BODY_11:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:ABSTRACT_7:BODY_7:BODY_8:ABSTRACT_10:BODY_9|3
+the program|DT NN|BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:BODY_7:BODY_8:BODY_9|5
+general races|JJ NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|1
+races|NNS|BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_8|4
+data races|NNS NNS|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_2:BODY_2:BODY_1:BODY_4:ABSTRACT_12:BODY_9|3
+programs|NNS|BODY_6:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+critical sections|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:ABSTRACT_9:BODY_9|2
+there|EX|BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_8:BODY_9|1
+apparent races|JJ NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+synchronization|NN|BODY_5:ABSTRACT_4:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8|0
+shared-memory parallel programs|JJ JJ NNS|BODY_5:BODY_2:BODY_3:ABSTRACT_1|1
+exhaustive race detection|JJ NN NN|BODY_5:ABSTRACT_5:BODY_3|1
+one|CD|BODY_6:BODY_5:ABSTRACT_2:BODY_3:BODY_4|0
+a formal model|DT JJ NN|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_10|0
+an np-hard problem|DT JJ NN|ABSTRACT_3:BODY_3|0
+the other|DT JJ|BODY_6:BODY_5:BODY_16:ABSTRACT_7:BODY_9|0
+a race condition|DT NN NN|BODY_5:ABSTRACT_5:BODY_1|0
+two different notions|CD JJ NNS|BODY_1:ABSTRACT_1|0
+explicit synchronization|JJ NN|BODY_6:BODY_2:ABSTRACT_3:BODY_4|0
+feasible races|JJ NNS|BODY_5:BODY_1:ABSTRACT_7:BODY_7|0
+only the apparent races|RB DT JJ NNS|ABSTRACT_4|0
+more complex debugging techniques|JJR JJ NN NNS|ABSTRACT_4|0
+the intuitive notions|DT JJ NNS|ABSTRACT_6|1
+debugging general races|VBG JJ NNS|ABSTRACT_4|1
+locating feasible races|VBG JJ NNS|ABSTRACT_2|0
+easily identifiable races|RB JJ NNS|ABSTRACT_3|0
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|2
+p|NN|BODY_12:BODY_11:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_27:BODY_1:BODY_19:BODY_10:BODY_7:BODY_9|3
+a and b|DT CC NN|BODY_6:BODY_31:BODY_13:BODY_25:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+the execution|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|2
+it|PRP|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|2
+a data race -a,b|DT NN NN NN|BODY_2:BODY_3|1
+f sync|NN NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+debugging|NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|5
+an actual data race|DT JJ NNS NN|BODY_5:BODY_2:BODY_4|1
+the accuracy and complexity|DT NN CC NN|BODY_5:BODY_3:BODY_4|1
+an actual program execution|DT JJ NN NN|BODY_2:BODY_4|1
+two fundamentally different types|CD RB JJ NNS|BODY_2|1
+the apparent general races|DT JJ JJ NNS|BODY_7|1
+( 2 ) p|-LRB- CD -RRB- NN|BODY_17:BODY_10|1
+incorrect or inconsistent data|JJ CC JJ NNS|BODY_9|1
+( 3 ) d|-LRB- CD -RRB- VBD|BODY_13:BODY_20|1
+these sets uncovers issues|DT NNS NNS NNS|BODY_4|1
+a data race|DT NN NN|BODY_12:BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|1
+definition 3.2 f diff|NN CD NN NN|BODY_9|1
+the actual execution order|DT JJ NN NN|BODY_3|1
+the first two sets|DT JJ CD NNS|BODY_1|1
+definition 3.1 f same|NN CD NN JJ|BODY_1|1
+a more consistent terminology|DT RBR JJ NN|BODY_1|1
+an apparent race )|DT JJ NN -RRB-|BODY_11|1
+events|NNS|BODY_6:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+an execution|DT NN|BODY_5:BODY_15:BODY_4:BODY_7|3
+)|-RRB-|BODY_6:BODY_17:BODY_10:BODY_4:BODY_7:BODY_9|0
+a race|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|2
+a general race -a,b|DT JJ NN NN|BODY_1:BODY_3|0
+a less accurate notion|DT RBR JJ NN|BODY_3:BODY_10:BODY_4|0
+the same shared-data dependences|DT JJ NN NNS|BODY_5|0
+( balance < amount|-LRB- NN JJ NN|BODY_14:BODY_10|0
+race condition[10 , 26]|NN CD , CD|BODY_9|0
+two apparent general races|CD JJ JJ NNS|BODY_2|0
+the given input exhibit|DT VBN NN NN|BODY_3|0
+some feasible program execution|DT JJ NN NN|BODY_2:BODY_4|0
+such a possibility (|PDT DT NN -LRB-|BODY_8|0
+a given input )|DT VBN NN -RRB-|BODY_5:BODY_7|0
+any random timing variations|DT JJ NN NNS|BODY_5|0
+only a certain subset|RB DT JJ NN|BODY_4:BODY_7|0
+( nondeterministic ) programs|-LRB- JJ -RRB- NNS|BODY_4|0
+( and not operations|-LRB- CC RB NNS|BODY_10|0
+a feasible race )|DT JJ NN -RRB-|BODY_5:BODY_10|0
+that locating feasible races|IN JJ JJ NNS|BODY_8|0
+those exhibiting general races|DT VBG JJ NNS|BODY_2|0
+any apparent general race|DT JJ JJ NN|BODY_7|0
+fork/join or post/wait synchronization|JJ CC JJ NN|BODY_6|0
+some previously hidden issues|DT RB VBN NNS|BODY_4|0
+a shared-memory parallel program|DT JJ JJ NN|BODY_6|0
+'s external behavior differs|POS JJ NN NNS|BODY_7|0
+a ( or b|DT -LRB- CC NN|BODY_10|0
+two such unordered accesses|CD JJ JJ NNS|BODY_2|0
+a ) b t|DT -RRB- NN NN|BODY_14|0
+at least one access|IN JJS CD NN|BODY_7|0
+figure 1( b )|NN JJ NN -RRB-|BODY_1|0
+exactly the desired races|RB DT VBN NNS|BODY_2|0
+the same shared resource|DT JJ VBN NN|BODY_5|0
+apparent general race detection|JJ JJ NN NN|BODY_3|0
+the most natural way|DT RBS JJ NN|BODY_2|0
+external timing variations )|JJ NN NNS -RRB-|BODY_8|0
+a different order )|DT JJ NN -RRB-|BODY_7|0
+race conditions and uncovers|NN NNS CC NNS|BODY_3|0
+an actual general race|DT JJ JJ NN|BODY_3:BODY_7|0
+a feasible program execution|DT JJ NN NN|BODY_3|0
+a post-mortem race detector|DT NN NN NN|BODY_6|0
+all intended critical sections|DT JJ JJ NNS|BODY_3|0
+the incorrect order )|DT JJ NN -RRB-|BODY_10|0
+an intended critical section|DT JJ JJ NN|BODY_1|0
+different roundoff errors )|JJ JJ NNS -RRB-|BODY_6|0
+deterministic and nondeterministic programs|JJ CC JJ NNS|BODY_5|0
+no explicit synchronization forces|DT JJ NN NNS|BODY_1|0
+a program execution p|DT NN NN NN|BODY_4|0
+exactly the same events|RB DT JJ NNS|BODY_4|0
+all apparent general races|DT JJ JJ NNS|BODY_5|0
+the feasible race )|DT JJ NN -RRB-|BODY_8|0
+a shared memory location|DT VBN NN NN|BODY_4|0
+the actual program execution|DT JJ NN NN|BODY_5|0
+nondeterministic ( e .g.|JJ -LRB- NN NN|BODY_6|0
+many automatic parallelization techniques|JJ JJ NN NNS|BODY_5|0
+previous race detection methods|JJ NN NN NNS|BODY_1|0
+some apparent data races|DT JJ NNS NNS|BODY_6|0
+one or more statements|CD CC JJR NNS|BODY_12|0
+a given bank account|DT VBN NN NN|BODY_6|0
+not all program executions|RB DT NN NNS|BODY_1|0
+2. examples explicit synchronization|JJR NNS JJ NN|BODY_1|0
+any actual data races|DT JJ NNS NNS|BODY_3|0
+no apparent races exist|DT JJ NNS VBP|BODY_1|0
+the term data race|DT NN NNS NN|BODY_2|0
+varying accuracy and complexity|VBG NN CC NN|BODY_4|0
+only partial race detection|RB JJ NN NN|BODY_12|0
+all apparent data races|DT JJ NNS NNS|BODY_1|0
+the set|DT NN|BODY_2:BODY_14:BODY_4:BODY_10:BODY_7|2
+them|PRP|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4|2
+data|NNS|BODY_5:BODY_11:BODY_3:BODY_9|0
+the apparent races|DT JJ NNS|BODY_5:BODY_2:BODY_4:BODY_8|1
+an easier approach|DT JJR NN|BODY_2|1
+two different types|CD JJ NNS|BODY_2:BODY_4|1
+a particular execution|DT JJ NN|BODY_5|1
+a simpler approach|DT JJR NN|BODY_2|1
+the defined races|DT VBN NNS|BODY_2|1
+more powerful types|RBR JJ NNS|BODY_11:BODY_1|1
+a general race|DT JJ NN|BODY_6:BODY_2|0
+the explicit synchronization|DT JJ NN|BODY_3|1
+an important aspect|DT JJ NN|BODY_6:BODY_3|2
+only program executions|JJ NN NNS|BODY_2|1
+only a subset|RB DT NN|BODY_3|1
+interest|NN|BODY_2:BODY_3:BODY_4:BODY_8|1
+dynamic race detection|JJ NN NN|BODY_6:BODY_5:BODY_4|1
+such a race|JJ DT NN|BODY_5|1
+less accurate notion|RBR JJ NN|BODY_5|1
+such an approximation|JJ DT NN|BODY_2|1
+simply intuitively reasoning|RB JJ NN|BODY_1|1
+previously proposed methods|RB VBN NNS|BODY_1|1
+race condition detection|NN NN NN|BODY_2|1
+race detection methods|NN NN NNS|BODY_8|1
+b|NN|BODY_6:BODY_5:BODY_15:BODY_19:BODY_8:BODY_9:BODY_20|0
+the execution instance|DT NN NN|BODY_11:BODY_5:BODY_4|0
+a critical section|DT JJ NN|BODY_8|1
+the following results|DT JJ NNS|BODY_2|1
+these different types|DT JJ NNS|BODY_1|1
+program executions|NN NNS|BODY_6:BODY_11:BODY_2:BODY_3:BODY_9|2
+our model|PRP$ NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+such programs|JJ NNS|BODY_5:BODY_1:BODY_3:BODY_4|1
+f diff|NN NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_4|0
+a program|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the intuitive notion|DT JJ NN|BODY_6:BODY_3:BODY_4|0
+harmful shared-memory access[24]|JJ JJ NN|BODY_7:BODY_8|0
+deposits and withdrawals|NNS CC NNS|BODY_5:BODY_8|0
+the atomicity|DT NN|BODY_5:BODY_2:BODY_7|1
+mutual exclusion (|JJ NN -LRB-|BODY_5:BODY_4|0
+whose execution order|WP$ NN NN|BODY_6:BODY_7|0
+the same process|DT JJ NN|BODY_10:BODY_8|0
+no general races|DT JJ NNS|BODY_2:BODY_4|0
+a t b|DT NN NN|BODY_16:BODY_3|0
+the sequential version|DT JJ NN|BODY_1:BODY_7|0
+the entire execution|DT JJ NN|BODY_4:BODY_9|0
+the apparent race|DT JJ NN|BODY_11:BODY_2|0
+a|DT|BODY_5:BODY_21:BODY_15:BODY_4:BODY_9|0
+( and not|-LRB- CC RB|BODY_11:BODY_7|0
+some specific order|DT JJ NN|BODY_6|0
+different intended meanings|JJ VBN NNS|BODY_3|0
+the same events|DT JJ NNS|BODY_5:BODY_2|0
+actual data races|JJ NNS NNS|BODY_2:BODY_3|0
+two shared-memory accesses|CD NN NNS|BODY_9|0
+a data race[1|DT NN NN|BODY_3|0
+those whose executions|DT WP$ NNS|BODY_2|0
+some synchronization operation|DT NN NN|BODY_3|0
+12 , 18]|CD , CD|BODY_5|0
+the parallelized version|DT JJ NN|BODY_1|0
+the same semantics|DT JJ NNS|BODY_2|0
+any specific location|DT JJ NN|BODY_5|0
+the buffer|DT NN|BODY_6:BODY_12:BODY_2:BODY_7|0
+'s conditions state|POS NNS NN|BODY_2|0
+the feasible races|DT JJ NNS|BODY_1:BODY_3:BODY_10|0
+debugging race conditions|NN NN NNS|BODY_4|0
+no data races|DT NNS NNS|BODY_2:BODY_3:BODY_4|0
+all apparent races|DT JJ NNS|BODY_5:BODY_7|0
+the expected order|DT JJ NN|BODY_4|0
+a fundamental disparity|DT JJ NN|BODY_3|0
+denoted f diff|VBD NN NN|BODY_7|0
+'s explicit synchronization|POS JJ NN|BODY_10:BODY_8:BODY_9|0
+a d b|DT JJ NN|BODY_2|0
+a computation event|DT NN NN|BODY_4|0
+the shared buffer|DT VBN NN|BODY_2|0
+executions|NNS|BODY_1:BODY_3:BODY_4:BODY_8|0
+a data conflict|DT NN NN|BODY_5:BODY_1:BODY_4|0
+the first part|DT JJ NN|BODY_2|0
+the procedure call|DT NN NN|BODY_3|0
+a program execution|DT NN NN|BODY_1:BODY_10:BODY_9|0
+a particular result|DT JJ NN|BODY_3|0
+an execution trace|DT NN NN|BODY_3:BODY_7|0
+alternative event orderings|JJ NN NNS|BODY_6:BODY_10|0
+the critical section|DT JJ NN|BODY_6|0
+all shared-memory references|DT NN NNS|BODY_3|0
+their initial state|PRP$ JJ NN|BODY_5|0
+a large number|DT JJ NN|BODY_4|0
+the value 1|DT NN CD|BODY_5|0
+the final state|DT JJ NN|BODY_2|0
+only explicit synchronization|RB JJ NN|BODY_2|0
+many shared-memory references|JJ NN NNS|BODY_3|0
+'s explicit synchroniza|POS JJ NN|BODY_9|0
+only explicit synchron|RB JJ NN|BODY_7|0
+the same location|DT JJ NN|BODY_7|0
+denoted f sync|VBN NN NN|BODY_2|0
+such infeasible executions|JJ JJ NNS|BODY_2|0
+that effective debugging|IN JJ NN|BODY_3|0
+all performed atomically|DT VBN NN|BODY_4|0
+the same result|DT JJ NN|BODY_4|0
+a shared variable|DT VBN JJ|BODY_4|0
+the data dependences|DT NNS NNS|BODY_6|0
+a useful approximation|DT JJ NN|BODY_2|0
+feasible program executions|JJ NN NNS|BODY_1:BODY_4|0
+successively fewer restrictions|RB JJR NNS|BODY_4|0
+the feasible race|DT JJ NN|BODY_2|0
+a negative balance|DT JJ NN|BODY_5|0
+program execution prefixes|NN NN NNS|BODY_3|0
+the second set|DT JJ NN|BODY_6|0
+some initial part|DT JJ NN|BODY_6|0
+a specific order|DT JJ NN|BODY_8|0
+the variable )|DT JJ -RRB-|BODY_8|0
+associative arithmetic operations|JJ JJ NNS|BODY_3|0
+all feasible executions|DT JJ NNS|BODY_3|0
+10 , 26]|CD , CD|BODY_4|0
+post/wait style synchronization|JJ NN NN|BODY_5|0
+a flag bufempty|DT NN NN|BODY_7|0
+a correct version|DT JJ NN|BODY_3|0
+less accurate detection|RBR JJ NN|BODY_9|0
+the no-data-race version|DT JJ NN|BODY_2|0
+all shared-memory accesses|DT JJ NNS|BODY_6|0
+spurious race reports|JJ NN NNS|BODY_9|0
+its algorithmic cause|PRP$ JJ NN|BODY_10|0
+a precedes b|DT NN NN|BODY_9|0
+a shared buffer|DT VBN NN|BODY_6|0
+potentially large numbers|RB JJ NNS|BODY_8|0
+shared memory locations|VBN NN NNS|BODY_8|0
+the first action|DT JJ NN|BODY_10|0
+these membership problems|DT NN NNS|BODY_2|0
+a / condition|DT NN NN|BODY_23|0
+the corresponding process|DT JJ NN|BODY_7|0
+the different types|DT JJ NNS|BODY_3|0
+an erroneous version|DT JJ NN|BODY_2|0
+a formal framework|DT JJ NN|BODY_4|0
+our work complements|PRP$ NN NNS|BODY_1|0
+a different number|DT JJ NN|BODY_2|0
+the different ways|DT JJ NNS|BODY_5|0
+any program bug[20|DT NN NN|BODY_5|0
+which apparent races|WDT JJ NNS|BODY_7|0
+a finite set|DT JJ NN|BODY_5|0
+two-process mutual exclusion|JJ JJ NN|BODY_4|0
+weaker synchronization incapable|JJR NN JJ|BODY_3|0
+no consistent terminology|DT JJ NN|BODY_1|0
+previously hidden issues|RB VBN NNS|BODY_3|0
+the potential feasibility|DT JJ NN|BODY_4|0
+concurrently  or|RB NNS CC|BODY_5|0
+their individual statements|PRP$ JJ NNS|BODY_4|0
+a different order|DT JJ NN|BODY_2|0
+those whose atomicity|DT WP$ NN|BODY_6|0
+their shared-data dependences|PRP$ NN NNS|BODY_10|0
+some other order|DT JJ NN|BODY_4|0
+a different type|DT JJ NN|BODY_3|0
+any shared-data dependences|DT NNS NNS|BODY_4|0
+a convenient notation|DT JJ NN|BODY_3|0
+no feasible execution|DT JJ NN|BODY_3|0
+a synchronization event|DT NN NN|BODY_1|0
+internally deterministic programs|RB JJ NNS|BODY_1|0
+the shared-data dependence|DT NNS NN|BODY_11|0
+a race -a,b|DT NN NN|BODY_3|0
+only the behavior|RB DT NN|BODY_8|0
+the possible behavior|DT JJ NN|BODY_2|0
+the different sets|DT JJ NNS|BODY_8|0
+iff ( 1|NN -LRB- CD|BODY_3:BODY_4|0
+the last action|DT JJ NN|BODY_8|0
+their access order|PRP$ NN NN|BODY_8|0
+the term bug)|DT NN NN|BODY_12|0
+no explicit synchronization|DT JJ NN|BODY_5|0
+an intractable problem|DT JJ NN|BODY_2|0
+its critical sections|PRP$ JJ NNS|BODY_3|0
+no other order|DT JJ NN|BODY_5|0
+the temporal ordering|DT JJ NN|BODY_3|0
+the same input|DT JJ NN|BODY_9|0
+( i .e|-LRB- FW FW|BODY_14|0
+the actual behavior|DT JJ NN|BODY_4|0
+such an execution|PDT DT NN|BODY_1|0
+the race conditions|DT NN NNS|BODY_3|0
+critical sections #|JJ NNS #|BODY_6|0
+the same resource|DT JJ NN|BODY_4|0
+a a member|DT DT NN|BODY_9|0
+general access shared-memory|JJ NN NN|BODY_2|0
+an example program|DT NN NN|BODY_2|0
+other program executions|JJ NN NNS|BODY_6|0
+no critical sections|DT JJ NNS|BODY_5|0
+debugging data races|NN NNS NNS|BODY_3|0
+the final result|DT JJ NN|BODY_4|0
+only the semantics|RB DT NNS|BODY_5|0
+arbitrary shared-data dependences|JJ NNS NNS|BODY_4|0
+only flow dependences|RB NN NNS|BODY_4|0
+capture different kinds|NN JJ NNS|BODY_4|0
+a global property|DT JJ NN|BODY_3|0
+global  properties|JJ JJ NNS|BODY_6|0
+these different sets|DT JJ NNS|BODY_2|0
+accurate race detection|JJ NN NN|BODY_4|0
+a local property|DT JJ NN|BODY_2|0
+local  properties|JJ JJ NNS|BODY_5|0
+the observed execution|DT JJ NN|BODY_2|0
+any program execution|DT NN NN|BODY_4|0
+alternative orderings (|JJ NNS -LRB-|BODY_2|0
+such an approach|JJ DT NN|BODY_2|0
+p and events|NN CC NNS|BODY_8|0
+several possible ways|JJ JJ NNS|BODY_2|0
+nondeterminism ) than|NN -RRB- IN|BODY_5|0
+a simple characterization|DT JJ NN|BODY_4|0
+cause non-atomic execution|NN JJ NN|BODY_2|0
+the execution order|DT NN NN|BODY_30|0
+some given set|DT VBN NN|BODY_5|0
+( 3 )|-LRB- CD -RRB-|BODY_1|0
+the first set|DT JJ NN|BODY_1|0
+any given input|DT VBN NN|BODY_4|0
+many scientific programs|JJ JJ NNS|BODY_1|0
+apparent race detection|JJ NN NN|BODY_1|0
+more sophisticated techniques|RBR JJ NNS|BODY_4|0
+the exe- cution[22]|DT NNS NN|BODY_5|0
+the last set|DT JJ NN|BODY_1|0
+actual program executions|JJ NN NNS|BODY_1|0
+the program execution|DT NN NN|BODY_4|0
+the accuracy issues|DT NN NNS|BODY_1|0
+the other type|DT JJ NN|BODY_1|0
+the parallel version|DT JJ NN|BODY_8|0
+completely nondeterministic programs|RB JJ NNS|BODY_1|0
+most previous work|RBS JJ NN|BODY_1|0
+enforced mutual exclusion|VBN JJ NN|BODY_6|0
+a significant way|DT JJ NN|BODY_7|0
+some linear order|DT NN NN|BODY_5|0
+a feasible race|DT JJ NN|BODY_1|0
+the complexity issues|DT NN NNS|BODY_1|0
+a / 4.2|DT JJ CD|BODY_15|0
+each event e|DT NN NN|BODY_1|0
+the data races|DT NNS NNS|BODY_1|0
+the tellers type|DT NNS NN|BODY_9|0
+different detection techniques|JJ NN NNS|BODY_7|0
+the program )|DT NN -RRB-|BODY_8|0
+the preceding examples|DT VBG NNS|BODY_1|0
+the second part|DT JJ NN|BODY_1|0
+computing alternative orderings|VBG NN NNS|BODY_5|0
+emrath and padua|NN CC NN|BODY_1|0
+asynchronous pro- grams|JJ NNS NNS|BODY_4|0
+some apparent races|DT JJ NNS|BODY_3|0
+mutual exclusion )|JJ NN -RRB-|BODY_9|0
+a given input|DT VBN NN|BODY_1|0
+'s computation )|POS NN -RRB-|BODY_14|0
+an earlier paper[22]|DT JJR NN|BODY_7|0
+apparent data races|JJ NNS NNS|BODY_1|0
+the most descriptive|DT RBS JJ|BODY_17|0
+the same processors|DT JJ NNS|BODY_11|0
+the above categories|DT JJ NNS|BODY_5|0
+only addressed programs|RB VBN NNS|BODY_4|0
+associatively nondeterministic programs|RB JJ NNS|BODY_1|0
+externally deterministic programs|RB JJ NNS|BODY_1|0
+access shared data|NN VBN NNS|BODY_3|0
+different types|JJ NNS|BODY_6:BODY_5:BODY_2|0
+e|NN|BODY_13:BODY_2:BODY_1:BODY_14:BODY_4|0
+access anomaly[6-8|NN NNS|BODY_5:BODY_4|0
+another process|DT NN|BODY_6:BODY_11:BODY_9|0
+two events|CD NNS|BODY_5:BODY_1:BODY_2|0
+the order|DT NN|BODY_5:BODY_2:BODY_7|0
+e .g.|NN FW|BODY_2:BODY_3|0
+f|NN|BODY_12:BODY_11:BODY_2:BODY_3:BODY_7|0
+failures|NNS|BODY_5:BODY_3|0
+spurious races|JJ NNS|BODY_5:BODY_1:BODY_10|0
+the notion|DT NN|BODY_2:BODY_1:BODY_29|0
+the section|DT NN|BODY_4:BODY_7|0

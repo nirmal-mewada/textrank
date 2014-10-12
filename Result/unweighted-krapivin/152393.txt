@@ -1,0 +1,1588 @@
+that|WDT|BODY_12:BODY_11:BODY_22:BODY_18:BODY_15:BODY_23:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|0
+it|PRP|BODY_12:BODY_16:BODY_42:BODY_15:BODY_26:BODY_39:BODY_2:BODY_24:BODY_3:BODY_4:BODY_6:BODY_5:BODY_34:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_30:BODY_9|0
+we|PRP|BODY_41:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|1
+polis|NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_10:BODY_4:BODY_7:BODY_8|0
+esp|VBP|BODY_6:BODY_16:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7|1
+tuples|NNS|BODY_22:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_32:ABSTRACT_8:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+the tuple space|DT JJ NN|BODY_22:BODY_15:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_20:BODY_9|0
+an agent|DT NN|BODY_6:BODY_36:BODY_31:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a tuple space|DT JJ NN|BODY_6:BODY_5:BODY_16:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_20|0
+a number|DT NN|BODY_6:BODY_11:BODY_28:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+they|PRP|BODY_12:BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+.e|NN|BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+prolog|NN|BODY_11:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+which|WDT|BODY_5:ABSTRACT_5:BODY_38:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+agents|NNS|BODY_6:BODY_5:BODY_18:BODY_1:BODY_2:BODY_19:BODY_4:BODY_7|0
+a tuple|DT NN|BODY_6:BODY_11:BODY_5:BODY_16:BODY_2:BODY_24:BODY_3:BODY_7:BODY_8:BODY_9|0
+oikos|NNS|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|0
+a set|DT NN|BODY_12:BODY_5:BODY_22:BODY_17:BODY_27:BODY_25:BODY_2:BODY_14:BODY_3:BODY_4|0
+linda|NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_20|0
+the software process|DT NN NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+one|CD|BODY_6:BODY_5:BODY_11:BODY_36:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7:BODY_30|0
+a software process|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+respect|NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+tuple spaces|NN NNS|BODY_33:BODY_6:BODY_5:BODY_18:BODY_13:BODY_1:BODY_2:BODY_4|0
+the rules|DT NNS|BODY_32:BODY_6:BODY_31:BODY_1:BODY_14:BODY_4:BODY_7:BODY_9|0
+the environment|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+rules|NNS|BODY_6:BODY_12:BODY_5:BODY_28:BODY_18:BODY_3:BODY_4:BODY_7|0
+)|-RRB-|BODY_11:BODY_31:BODY_5:BODY_16:BODY_15:BODY_14:BODY_7|0
+the user|DT NN|BODY_1:BODY_3:BODY_4:BODY_7|0
+object name|NN NN|BODY_5:BODY_13:BODY_4:BODY_10:BODY_7|0
+an extension|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+instance|NN|BODY_1:BODY_2|0
+the agent|DT NN|BODY_32:BODY_12:BODY_1:BODY_37:BODY_10:BODY_4:BODY_7:BODY_8|0
+i .e|FW FW|BODY_2:BODY_3:BODY_4:BODY_9|0
+the process|DT NN|BODY_11:BODY_5:BODY_3:BODY_19:BODY_4:BODY_7|0
+itself|PRP|BODY_47:BODY_6:BODY_5:BODY_16:BODY_13:BODY_23:BODY_2:BODY_7:BODY_8|0
+this|DT|BODY_21:BODY_1:BODY_4:BODY_7|0
+logic programming|NN NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+place|NN|BODY_6:BODY_5:ABSTRACT_5:BODY_4:BODY_9|0
+the name|DT NN|BODY_11:BODY_2:BODY_4:BODY_8|0
+the activities|DT NNS|BODY_11:BODY_1:BODY_2:BODY_3:BODY_7|0
+example|NN|BODY_1|0
+the main database|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+a user|DT NN|BODY_5:BODY_16:BODY_3|0
+fact|NN|BODY_1:BODY_3|1
+e.g.|FW|BODY_5:BODY_3:BODY_4|0
+a language|DT NN|BODY_5:ABSTRACT_2:BODY_3:BODY_4|0
+blackboards|NNS|BODY_5:BODY_2:BODY_1:BODY_4:BODY_9|0
+a blackboard|DT NN|BODY_6:BODY_3|0
+a program-tuple|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+the creation|DT NN|BODY_5:BODY_45:BODY_8|0
+testing|NN|BODY_3:BODY_4:BODY_7|0
+users|NNS|BODY_5:BODY_1:BODY_10:BODY_7|0
+the heading|DT VBG|BODY_6:BODY_5:BODY_2:BODY_3|0
+the use|DT NN|BODY_1:BODY_3:BODY_4|0
+pt|NN|BODY_23:BODY_13:BODY_8|0
+the program|DT NN|BODY_5:BODY_1:BODY_4:BODY_7|0
+the tuple spaces|DT NN NNS|BODY_2:BODY_7|0
+them|PRP|BODY_6:BODY_2:BODY_3:BODY_9|0
+operations|NNS|BODY_5:BODY_8:BODY_20|0
+tuple operations|JJ NNS|BODY_5:BODY_3:BODY_29|0
+a program|DT NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_8|0
+the development|DT NN|BODY_5:BODY_2:BODY_4|0
+coordination|NN|BODY_6:BODY_5:BODY_1:BODY_2|0
+rule-based software processes|JJ NN NNS|TITLE_1:BODY_2:BODY_1:ABSTRACT_3:BODY_4|0
+fcheck|NN|BODY_18:BODY_13:BODY_9|0
+a polispace|DT NN|BODY_12:BODY_6:BODY_1:BODY_3|0
+f|NN|BODY_41:BODY_5:BODY_53|0
+the following|DT VBG|BODY_2:BODY_7:BODY_8|0
+access|NN|BODY_5:BODY_2:BODY_1|0
+its tuple space|PRP$ JJ NN|BODY_6:BODY_4|0
+such an environment|PDT DT NN|BODY_1:BODY_2:BODY_3|0
+the theory|DT NN|BODY_33:BODY_41:BODY_14|0
+the blackboard|DT NN|BODY_3:BODY_4|0
+the rule|DT NN|BODY_12:BODY_5:BODY_9|0
+multiple tuple spaces|JJ NN NNS|BODY_5:ABSTRACT_5:BODY_3:BODY_4|0
+documents|NNS|BODY_1:BODY_10:BODY_4:BODY_8|0
+shells|NNS|BODY_2:BODY_3:BODY_9|0
+sequences|NNS|BODY_2:BODY_3|0
+a rule|DT NN|BODY_21:BODY_3:BODY_7|0
+change and test( unit|NN CC NN NN|BODY_5:BODY_15:BODY_8|0
+, not|, RB|BODY_12:BODY_13:BODY_44|0
+a file|DT NN|BODY_62:BODY_4:BODY_7|0
+both|DT|BODY_5:BODY_3:BODY_4|0
+file f|NN NN|BODY_34:BODY_15:BODY_39|0
+something|NN|BODY_5:BODY_2:BODY_9|0
+case|NN|BODY_6:BODY_3|0
+this paper|DT NN|BODY_5:BODY_2:BODY_1|0
+the module|DT NN|BODY_2:BODY_3:BODY_4|0
+)@bb|NN|BODY_13:BODY_8:BODY_20|0
+file|NN|BODY_11:BODY_4:BODY_10|0
+what|WP|BODY_6:BODY_2:BODY_1|0
+the tuple|DT NN|BODY_22:BODY_2:BODY_4:BODY_7|0
+a|DT|BODY_6:BODY_5:BODY_9|0
+some tuples|DT NNS|BODY_13:BODY_8:BODY_9|0
+part|NN|BODY_2:BODY_3|0
+a name|DT NN|BODY_13:BODY_7:BODY_9|0
+other tuple spaces|JJ NN NNS|BODY_19:BODY_4|0
+compiler:|NN|BODY_17:BODY_15|0
+the prolog program|DT NN NN|BODY_18:BODY_2:BODY_9|0
+a software process designer|DT NN NN NN|BODY_1:BODY_2|0
+envelope|NN|BODY_32:BODY_22|0
+p|NN|BODY_57:BODY_22|0
+a coordination model|DT NN NN|BODY_5:ABSTRACT_2:BODY_1|0
+linda and polis|NN CC NNS|BODY_5:BODY_2|0
+the project database|DT NN NN|BODY_6:BODY_5:BODY_4|0
+test|NN|BODY_2:BODY_1:BODY_4|0
+a failure|DT NN|BODY_2:BODY_3|0
+the blackboard model|DT NN NN|BODY_1:BODY_3:BODY_4|0
+f ,by(op) ) )@pg % request|NN NN -RRB- VBG NN NN|BODY_26:BODY_51|0
+a logic language|DT NN NN|BODY_6:BODY_11:ABSTRACT_3:BODY_4|0
+the design|DT NN|BODY_3|0
+tuple|NN|BODY_2:BODY_10:BODY_29|0
+a shell|DT NN|BODY_1:BODY_3:BODY_9|0
+a goal|DT NN|BODY_5:BODY_2|0
+the tools|DT NNS|BODY_6:BODY_9|0
+pisa|NN|BODY_6:BODY_7|0
+he|PRP|BODY_6:BODY_4|0
+the|DT|BODY_1|0
+a financial simulation|DT JJ NN|BODY_5:BODY_7|0
+constraints|NNS|BODY_6:BODY_5:BODY_4|0
+ptg|NN|BODY_11:BODY_9|0
+a software project|DT NN NN|BODY_5:BODY_14:BODY_4|0
+an editor|DT NN|BODY_6:BODY_5|0
+out|RP|BODY_11:BODY_3:BODY_9|0
+a named multiset|DT VBN NN|BODY_3:BODY_4|0
+a process|DT NN|BODY_6:BODY_2|0
+the first example|DT JJ NN|BODY_6:BODY_1:BODY_3|0
+a module|DT NN|BODY_2|0
+the coordination model|DT NN NN|BODY_2:BODY_4:BODY_7|0
+the contents|DT NNS|BODY_5:BODY_2:BODY_1|0
+these|DT|BODY_6:BODY_1:BODY_3|0
+the definition|DT NN|BODY_3:BODY_8|0
+software engineering|NN NN|BODY_3:BODY_4|0
+the tuple space bb|DT JJ NN NNP|BODY_5|0
+the hierarchy|DT NN|BODY_6:BODY_1|0
+several agents|JJ NNS|BODY_1:BODY_3:BODY_4|0
+variables|NNS|BODY_13:BODY_2|0
+the keyword|DT NN|BODY_6:BODY_11:BODY_4|0
+the development process|DT NN NN|BODY_6:BODY_8|0
+shared prolog|VBN NN|BODY_6:BODY_2:BODY_3|0
+spec( 1 )|NN CD -RRB-|BODY_3:BODY_8|0
+a natural way|DT JJ NN|BODY_2:BODY_3|0
+the message|DT NN|BODY_15:BODY_3|0
+id )@bb|JJ NN|BODY_11:BODY_18|0
+fcp and ghc|NN CC NN|BODY_3:BODY_8|0
+a condition|DT NN|BODY_2|0
+program-tuples|NNS|BODY_5:BODY_3|0
+logic agents|NN NNS|BODY_11:BODY_17:BODY_1|0
+the compilation|DT NN|BODY_12:BODY_1|0
+a programming notation|DT NN NN|BODY_1:BODY_3|0
+the linda semantics|DT NN NNS|BODY_5:BODY_2|0
+a collection|DT NN|BODY_10:BODY_8|0
+the agents|DT NNS|BODY_5:BODY_7|0
+activities|NNS|BODY_6:BODY_3|0
+esp related implementation issues|NN VBN NN NNS|BODY_2|0
+pure logic programming|JJ NN NN|BODY_2|0
+the esp implementation|DT NN NN|BODY_2|0
+the history|DT NN|BODY_2|0
+the structure|DT NN|BODY_2|0
+the whole project|DT JJ NN|BODY_2|0
+this problem|DT NN|BODY_2|0
+the evolution|DT NN|BODY_7:BODY_9|0
+modules|NNS|BODY_6:BODY_4|0
+at least as efficient|IN JJS RB JJ|BODY_3|0
+the italian ministry|DT JJ NN|BODY_3|0
+theory|NN|BODY_3|0
+a user database|DT NN NN|BODY_6:BODY_2|0
+related work|JJ NN|BODY_2:BODY_3|0
+software process programming|NN NN NN|BODY_2:BODY_3|0
+the result|DT NN|BODY_5:BODY_8|0
+a copy|DT NN|BODY_6:BODY_12:BODY_46|0
+the fact|DT NN|BODY_2:BODY_4|0
+the current contents|DT JJ NNS|BODY_3:BODY_7|0
+predicates|NNS|BODY_2|0
+a multiuser environment|DT NN NN|BODY_2|0
+a service|DT NN|BODY_2:BODY_1|0
+the other rules|DT JJ NNS|BODY_29:BODY_65|0
+a multiuser software development environment|DT NN NN NN NN|BODY_3:BODY_4|0
+a tool|DT NN|BODY_3:BODY_10:BODY_8|0
+programming|NN|BODY_6:BODY_4|0
+the author|DT NN|BODY_2:BODY_1|0
+clauses|NNS|BODY_6:BODY_26:BODY_2|0
+an object|DT NN|BODY_21:BODY_4|0
+emphasis|NN|BODY_2:BODY_4|0
+a specification language|DT NN NN|BODY_5:BODY_4|0
+rebus|NN|BODY_1:BODY_2|0
+the service|DT NN|BODY_6:BODY_5|0
+an esp program|DT NN NN|BODY_2:BODY_3|0
+|NN|BODY_38:BODY_8|0
+lists|NNS|BODY_17:BODY_4|0
+the goal|DT NN|BODY_3:BODY_4|0
+request|NN|BODY_33:BODY_38|0
+spec( 2 )|NN CD -RRB-|BODY_4:BODY_9|0
+the esp programming environment|DT NN NN NN|BODY_5:BODY_7|0
+a sequential programming language|DT JJ NN NN|BODY_25:BODY_2|0
+commands|NNS|BODY_6:BODY_14|0
+instance [1,21,25]|NN NN|BODY_5|0
+october 1990|NNP CD|BODY_3|0
+software process modeling|NN NN NN|BODY_3|0
+the sixth international software process workshop|DT JJ JJ NN NN NN|BODY_5|0
+the user interface service|DT NN NN NN|BODY_4|0
+interprocess communication|NN NN|BODY_4:BODY_9|0
+a mechanism|DT NN|BODY_6:BODY_9|0
+a theory|DT NN|BODY_6:BODY_1:BODY_3|0
+the oikos architecture|DT NNS NN|BODY_2:BODY_1|0
+a local network|DT JJ NN|BODY_6:BODY_8|0
+the execution|DT NN|BODY_6:BODY_15|0
+a parallel language|DT JJ NN|BODY_5:BODY_2|0
+a programming language|DT NN NN|BODY_6:BODY_1:BODY_7|0
+lo ) [7 ]|NN -RRB- CD NN|BODY_2|0
+multiple tuple|JJ NN|BODY_5|0
+each tuple space|DT JJ NN|BODY_11:BODY_2|0
+the consume section|DT VBP NN|BODY_6:BODY_8|0
+local computations|JJ NNS|BODY_6:BODY_8|0
+out operations|JJ NNS|BODY_6:BODY_9|0
+each activity|DT NN|BODY_2:BODY_7|0
+a concept|DT NN|BODY_4|0
+an object oriented language|DT NN JJ NN|BODY_3|0
+code|NN|BODY_12:BODY_5|0
+backtracking|NN|BODY_6:BODY_4|0
+the program-tuple|DT NN|BODY_7:BODY_9|0
+c.n.r. progetto finalizzato sistemi informatici e calcolo parallelo|DT NN NN NN NNS NN NN NN|BODY_2|0
+eval rule 1 #rule k theory interface|JJ NN CD NN NN NN NN|BODY_4|0
+some parallel implementations|DT JJ NNS|BODY_4|0
+the current esp distributed implementation|DT JJ NN VBN NN|BODY_2|0
+the following syntactic structure|DT VBG JJ NN|BODY_2|0
+university|NN|BODY_4|0
+any number|DT NN|BODY_14:BODY_7|0
+u.montanari|NNP|BODY_8|0
+tsc(bb|NN|BODY_11:BODY_13:BODY_10:BODY_8|0
+reserved( f|NN NN|BODY_13:BODY_14|0
+its blackboard|PRP$ NN|BODY_3:BODY_10|0
+history script|NN NN|BODY_11|0
+defines|NNS|BODY_11|0
+in|IN|BODY_7|0
+salad|NN|BODY_2|0
+parallel forward chaining|JJ JJ NN|BODY_5|0
+take place|NN NN|BODY_4:BODY_7|0
+any sequential language|DT JJ NN|BODY_5:BODY_3|0
+a software process problem|DT NN NN NN|BODY_6|0
+a software process program fragment|DT NN NN NN NN|BODY_2|0
+a survey|DT NN|BODY_6|0
+the theme|DT NN|BODY_2|0
+basic mechanism|JJ NN|BODY_6|0
+precond edit hold|JJ NN NN|BODY_12|0
+the interface|DT NN|BODY_12|0
+the second layer|DT JJ NN|BODY_2|0
+some|DT|BODY_1:BODY_19|0
+tuple schemata )|NN NN -RRB-|BODY_10:BODY_8|0
+agent a|NN DT|BODY_6|0
+a deductive database management system|DT JJ NN NN NN|BODY_3|0
+a whole tuple space|DT JJ NN NN|BODY_7:BODY_8|0
+the referees|DT NNS|BODY_2|0
+concurrency and distribution|NN CC NN|ABSTRACT_4|0
+his blackboard|PRP$ NN|BODY_17:BODY_2|0
+the sequential language|DT JJ NN|BODY_4:BODY_7|0
+m.gaspari|NN|BODY_10|0
+esp.|NN|BODY_6:BODY_5:TITLE_2:BODY_4|0
+this behavior|DT NN|BODY_7|0
+tuple start( coding )|JJ JJ NN -RRB-|BODY_7|0
+coordination protocols|NN NNS|BODY_6:BODY_5|0
+a multiplicity|DT NN|BODY_5:BODY_4|0
+the new tuple|DT JJ NN|BODY_5|0
+the changes|DT NNS|BODY_1:BODY_24|0
+the participants|DT NNS|BODY_13:BODY_3|0
+a window|DT NN|BODY_2:BODY_4|0
+circles|NNS|BODY_3|0
+read mode|VBN NN|BODY_3:BODY_4|0
+a software development environment|DT NN NN NN|BODY_2:BODY_7:BODY_8|0
+the suggestion|DT NN|BODY_9|0
+the view|DT NN|BODY_4|0
+production systems|NN NNS|BODY_4|0
+the communication|DT NN|BODY_13:BODY_2|0
+dynamic activation|JJ NN|BODY_4|0
+the new scheduling|DT JJ NN|BODY_14|0
+the interaction protocols|DT NN NNS|BODY_12:BODY_3|0
+the interested reader|DT JJ NN|BODY_4|0
+computation|NN|BODY_5|0
+an activation goal|DT NN NN|BODY_1:BODY_3|0
+syntactically correct|RB JJ|BODY_11|0
+open new shells|JJ JJ NNS|BODY_8|0
+those|DT|BODY_6:BODY_8|0
+each trick|DT NN|BODY_4|0
+tsc(testftester(data1 ) ,test data(data1|NN -RRB- NN NNS|BODY_10|0
+the tuple space terminates|DT JJ NN NNS|BODY_6|0
+tuple space names|JJ NN NNS|BODY_1:BODY_9|0
+2 db user|CD NN NN|BODY_7|0
+the test section|DT NN NN|BODY_1:BODY_4|0
+a special rule-based language|DT JJ JJ NN|BODY_3|0
+compile edit oe \gamma\psi|NN NN NN NNS|BODY_12|0
+more details|JJR NNS|BODY_5|0
+the overall process|DT JJ NN|BODY_2|0
+the same way|DT JJ NN|BODY_6|0
+the logic-programming language prolog|DT JJ NN NN|ABSTRACT_5|0
+an example|DT NN|BODY_2|0
+an activity part|DT NN NN|BODY_12|0
+no errors|DT NNS|BODY_2|0
+rule-based software engineering environments|JJ NN NN NNS|BODY_4|0
+relational ( binary ) predicates|JJ -LRB- JJ -RRB- NNS|BODY_2|0
+a linda program|DT NN NN|BODY_2|0
+the combination|DT NN|BODY_2:BODY_1|0
+flat concurrent prolog|JJ JJ NN|BODY_5|0
+. ga formal semantics|. NN JJ NNS|BODY_6|0
+the object program|DT NN NN|BODY_3|0
+esp programs|JJ NNS|BODY_2|0
+a software process program|DT NN NN NN|BODY_13:BODY_1|0
+the latter one|DT JJ CD|BODY_8|0
+new entities|JJ NNS|BODY_4|0
+language|NN|BODY_2|0
+programming environment|NN NN|BODY_2|0
+1 db user|CD NN NN|BODY_6|0
+outside writing|JJ NN|BODY_7|0
+other rule-based process programming languages|JJ JJ NN NN NNS|BODY_2:BODY_7|0
+the names|DT NNS|BODY_1:BODY_4|0
+several specific conferences|JJ JJ NNS|BODY_4|0
+the organizers|DT NNS|BODY_4|0
+out( tuple )|JJ NN -RRB-|BODY_2|0
+the end|DT NN|BODY_35:BODY_1|0
+named tuple spaces|VBN NN NNS|BODY_11:BODY_9|0
+% definition|NN NN|BODY_13|0
+m.danelutto|NN|BODY_9|0
+the esp program|DT VBP NN|BODY_5:BODY_13:BODY_1|0
+the possibility|DT NN|BODY_12:BODY_1|0
+' comments|POS NNS|BODY_3|0
+this minimal programming environment|DT JJ NN NN|BODY_34|0
+a precondition|DT NN|BODY_11|0
+pm interface|NN NN|BODY_10|0
+a degree|DT NN|BODY_2:BODY_3|0
+a form|DT NN|BODY_4|0
+open bb|JJ NNS|BODY_9|0
+his phd|PRP$ NN|BODY_6|0
+shared resources|VBN NNS|BODY_1:BODY_3|0
+the project|DT NN|BODY_5:BODY_8|0
+pt)g|NN|BODY_11:BODY_14|0
+implementation issues|RP NNS|BODY_5|0
+merlin|NN|BODY_1:BODY_4|0
+n.carriero and d.gelernter|NN CC NN|BODY_2|0
+the project data|DT NN NNS|BODY_9|0
+maindbfcheckin manager ,checkout managerg ) , tsc(user1fuser db manager( maindb ) , editor( module1,tty1)g ) , tsc(user2fuser db manager( maindb ) , editor( module2,tty2)g ) , tsc( compilefcompilerg )|JJ NN NN NN -RRB- , NN NN NN NN -RRB- , NN NN -RRB- , NN NN NN NN -RRB- , NN NN -RRB- , NN NN -RRB-|BODY_9|0
+the players|DT NNS|BODY_3|0
+a logic tuple|DT NN NN|BODY_6|0
+envelopes|NNS|BODY_1:BODY_4|0
+a team|DT NN|BODY_7|0
+prolog goals|NN NNS|BODY_3|0
+the viewpoint|DT NN|BODY_3|0
+simple software processes|JJ NN NNS|BODY_5|1
+[12,5]|NN|BODY_2|0
+a detailed exposition|DT JJ NN|BODY_1|0
+a different workstation|DT JJ NN|BODY_2|0
+account concurrency and distribution issues|NN NN CC NN NNS|BODY_2|0
+all other users|DT JJ NNS|BODY_2|0
+each player|DT NN|BODY_1|0
+our proposal|PRP$ NN|BODY_1|0
+the merlin project|DT NN NN|BODY_1|0
+the updated version|DT VBN NN|BODY_1|0
+three steps|CD NNS|BODY_2|0
+readp( tuple schemata )|NN NN NN -RRB-|BODY_5|0
+this tuple space|DT NN NN|BODY_1:BODY_3|0
+the project tool|DT NN NN|BODY_10|0
+the linda family|DT NN NN|BODY_4|0
+even active tuples|RB JJ NNS|BODY_7|0
+these examples|DT NNS|BODY_2:BODY_1|0
+scheme definition requests|NN NN NNS|BODY_2|0
+the first one|DT JJ CD|BODY_17:BODY_1|0
+the out sections|DT JJ NNS|BODY_2|0
+some comparisons|DT NNS|BODY_2|0
+many discussions|JJ NNS|BODY_4|0
+legality|NN|BODY_7|0
+read command( command ):|VBN NN NN VB|BODY_6|0
+no pre layout|DT NN NN|BODY_8|0
+the f|DT NN|BODY_2|0
+an esp process|DT NN NN|BODY_4|0
+an invariant|DT NN|BODY_1:BODY_3|0
+[32]|NN|BODY_5|0
+arbitrary sequences|JJ NNS|BODY_3|0
+the blocking consumption operation|DT VBG NN NN|BODY_6|0
+file ) , fcompile( user|NN -RRB- , JJ NN|BODY_14|0
+object file|NN NN|BODY_33|0
+the molecule|DT NN|BODY_3|0
+square brackets|NN NNS|BODY_16|0
+a prolog-based framework|DT JJ NN|BODY_3|0
+the dbs|DT NN|BODY_1|0
+ftsc(bb|NNS|BODY_6:BODY_9|0
+file ,datafile|NN NN|BODY_26|0
+a var/1 predicate|DT JJ NN|BODY_3|0
+command|NN|BODY_8|0
+fsimple shell( user)g|NN JJ NN|BODY_5|0
+programs|NNS|BODY_4:BODY_10|0
+the above tuple space|DT JJ NN NN|BODY_4|0
+compile status|JJ NN|BODY_14:BODY_8|0
+eval test data( datafile ) fcompiled( file)g|NN NN NN NN -RRB- NN NN|BODY_25|0
+other coordination languages|JJ NN NNS|BODY_2:BODY_4|0
+ftest|PRP|BODY_28|0
+physical distribution|JJ NN|BODY_3|0
+logic languages|NN NNS|BODY_4|0
+ferror(file|NN|BODY_48|0
+change|NN|BODY_6|0
+a normal tuple|DT JJ JJ|BODY_5:BODY_3|0
+result )|NN -RRB-|BODY_27|0
+fdocument( module|JJ NN|BODY_3:BODY_9|0
+distributed programming|VBN NN|BODY_6:BODY_8|0
+operation|NN|BODY_2|0
+standard services|JJ NNS|BODY_3|0
+a file f|DT NN NN|BODY_47|0
+prototype distributed software development environments|NN VBN NN NN NNS|BODY_6|0
+the set|DT NN|BODY_6:BODY_1|0
+the local computation|DT JJ NN|BODY_2|0
+a tiny programming environment|DT JJ NN NN|BODY_2|0
+logic tuples|NN NNS|BODY_5|0
+gnu emacs|NN NNS|BODY_7|0
+freport error(|NN NNS|BODY_18|0
+call editor( editor,tty|VB NN NN|BODY_13|0
+out( results|JJ NNS|BODY_17|0
+command( command ) ftuple( command ) , simple shell( user)g|NN NN -RRB- NN NN -RRB- , JJ JJ NN|BODY_4|0
+uses|NNS|BODY_9|0
+tty ):|JJ NN|BODY_12|0
+blackboard test|JJ NN|BODY_11|0
+its contents|PRP$ NNS|BODY_6:BODY_4|0
+agent and tuple space creation|NN CC NN NN NN|BODY_5|0
+expressing and controlling sets|VBG CC VBG NNS|BODY_4|0
+thesis supervisor|DT NN|BODY_7|0
+?f.object code ?f.error|JJ NN NN|BODY_5|0
+)@userg % f|NNP NN NN|BODY_19|0
+a member|DT NN|BODY_3|0
+mod( 2 )|NN CD -RRB-|BODY_5|0
+his interaction|PRP$ NN|BODY_2|0
+stock exchanges|NN NNS|BODY_6|0
+'-g ' ( and ( ?f.compile status|JJ POS -LRB- CC -LRB- NN NN|BODY_6|0
+readp/inp|NN|BODY_8|0
+the asynchronous nature|DT JJ NN|BODY_12|0
+the following goal|DT VBG NN|BODY_2:BODY_1|0
+call editor( e,t,f):|VB NN NN|BODY_16|0
+(|-LRB-|BODY_5:BODY_1|0
+a sophisticated editor|DT JJ NN|BODY_6|0
+the manipulation|DT NN|BODY_3|0
+the chosen sequential programming language|DT VBN JJ NN NN|BODY_3|0
+the user esp|DT NN NN|BODY_2|0
+large use|JJ NN|BODY_2|0
+interfaces|NNS|BODY_6|0
+software process models|NN NN NNS|BODY_5|0
+' team|POS NN|BODY_8|0
+three buttons|CD NNS|BODY_4|0
+tuple validated( design )|JJ JJ NN -RRB-|BODY_5|0
+file )@testg % success|NN NN NN NN|BODY_17|0
+errors theory tester( datafile ):|NNS NN NN NN NN|BODY_24|0
+file )@compileg|NN NN|BODY_15|0
+call compiler( file ) , % p rolog goal|NN NN NN -RRB- , NN NN NN NN|BODY_16|0
+a failure message|DT NN NN|BODY_13|0
+local writing|JJ NN|BODY_4|0
+out( tuple )@tuplespace|JJ NN NN|BODY_5|0
+op % file f|NN NN NN NN|BODY_23|0
+any results|DT NNS|BODY_3|0
+tester|NN|BODY_4|0
+blackboard bb|JJ NNP|BODY_12:BODY_22|0
+bridge|NN|BODY_6|0
+one worker |CD NN|BODY_6|0
+sockets|NNS|BODY_2|0
+the architecture|DT NN|BODY_2|0
+the meta tuple space|DT NN NN NN|BODY_2|0
+this  stimulus |DT JJ NN|BODY_2|0
+follows|VBZ|BODY_2|0
+pattern matching|NN NN|BODY_8|0
+sun worksta|NN NN|BODY_9|0
+a distributed environment|DT VBN NN|BODY_7:BODY_8|0
+out( new )|JJ JJ -RRB-|BODY_11|0
+polispaces|NNS|BODY_2|0
+f) )@pg % request not granted fcheck in( f,p)g file f|IN VBG NN NN RB VBN VB NN NN NN NN|BODY_49|0
+edit( file )@userg|NN NN NN|BODY_20|0
+call compiler( file )|VB NN NN -RRB-|BODY_18|0
+( ?f.compile compiler compile|-LRB- NN NN NN|BODY_4|0
+ferror(|IN|BODY_50|0
+an object oriented design paradigm|DT NN JJ NN NN|BODY_2|0
+terminates|NNS|BODY_8|0
+freedom|NN|BODY_3:BODY_4|0
+swarm|JJ|BODY_2:BODY_9|0
+%|NN|BODY_46|0
+a molecule|DT NN|BODY_1:BODY_7|0
+different agents|JJ NNS|BODY_26|0
+activates|NNS|BODY_11|0
+'s workspace|POS NN|BODY_58|0
+% request not granted reserved( f ,by(op) )|NN NN RB VBN JJ NN NN -RRB-|BODY_21|0
+v.ambriola|NN|BODY_8|0
+p,f)g ferror(|NN IN|BODY_25|0
+new file f|JJ NN NN|BODY_56|0
+the logic programming paradigm|DT NN NN NN|BODY_3|0
+the improvement|DT NN|BODY_4|0
+fcompiled( file|NN NN|BODY_19|0
+distributed development environment|VBN NN NN|BODY_2|0
+access granted( user|NN JJ NN|BODY_3|0
+predicatesthis theory|DT NN|BODY_10|0
+the underlying file system|DT JJ NN NN|BODY_7|0
+a script|DT NN|BODY_5|0
+specifies|VBZ|BODY_8|0
+their features|PRP$ NNS|BODY_2|0
+a rule-based development environment|DT JJ NN NN|BODY_4|0
+the service dbs|DT NN NNS|BODY_5|0
+different error situations|JJ NN NNS|BODY_66:BODY_30|0
+blackboard user|JJ NN|BODY_14|0
+the integration|DT NN|BODY_4|0
+istar|NN|BODY_7|0
+such a set|PDT DT NN|BODY_18|0
+'s tuple space|POS JJ NN|BODY_13:BODY_9|0
+checkin manager:|NN NN|BODY_31|0
+a new ( ping ) tuple|DT JJ -LRB- NN -RRB- NN|BODY_3|0
+several blackboards|JJ NNS|BODY_2|0
+the document|DT NN|BODY_6|0
+( ?f.object time|-LRB- JJ NN|BODY_7|0
+the local interpreter|DT JJ NN|BODY_5|0
+the first time|DT JJ NN|BODY_4|0
+a programmers|DT NNS|BODY_7|0
+the hoare|DT NN|BODY_19|0
+cc compilations|JJ NNS|BODY_23|0
+all|DT|BODY_2|0
+the specification|DT NN|BODY_23|0
+parallel programming|JJ NN|BODY_3|0
+values|NNS|BODY_2|0
+other identifiers|JJ NNS|BODY_14|0
+not file( f ) fcheck in( f,p)g %|RB NN NN -RRB- VB NN NN NN|BODY_32|0
+the first rule reserves|DT JJ NN NNS|BODY_27|0
+our approach|PRP$ NN|BODY_1:BODY_4|0
+the interactive capabilities|DT JJ NNS|BODY_3|0
+its activities|PRP$ NNS|BODY_24|0
+a c-linda program|DT NN NN|BODY_3|0
+a prolog process|DT NN NN|BODY_3|0
+four players|CD NNS|BODY_5|0
+remotely )|RB -RRB-|BODY_5|0
+the oikos prototype|DT NNS NN|BODY_3|0
+the schedule and assign tasks phase|DT NN CC NN NNS NN|BODY_3|0
+read/in operations|JJ NNS|BODY_7|0
+such a process|PDT DT NN|BODY_1:BODY_4|0
+the commands|DT NNS|BODY_10|0
+update( plans|JJ NNS|BODY_12|0
+the main design principles|DT JJ NN NNS|BODY_2|0
+the second example captures|DT JJ NN NNS|BODY_8|0
+call compiler( file ):|VB NN NN NN|BODY_21|0
+the first rule|DT JJ NN|BODY_59|0
+a very simple software process|DT RB JJ NN NN|BODY_3|0
+file)g|NN|BODY_29|0
+f)@pg % request granted file( f ) , reserved( f ,by( f,p) ) fcheck in( f,p)g %|NN NN NN VBN NN NN -RRB- , JJ NN NN NN -RRB- VB NN NN NN|BODY_37|0
+reserved( f ) fcheck in(|JJ NN -RRB- VB NN|BODY_45|0
+the overall structure|DT JJ NN|BODY_6|0
+fig.4|NN|BODY_3|0
+the blackboard system|DT NN NN|BODY_3|0
+a new file|DT JJ NN|BODY_60|0
+contrast|NN|BODY_11|0
+a blackboard architecture|DT JJ NN|BODY_3|0
+compiler|NN|BODY_3|0
+the current system architecture|DT JJ NN NN|BODY_3|0
+. theory editor( editor|. NN NN NN|BODY_11|0
+polis)|NN|BODY_3|0
+some agent|DT NN|BODY_5:BODY_2|0
+the overall evolution|DT JJ NN|BODY_8|0
+a blackboard [31]|DT NN NN|BODY_2|0
+abstract mechanisms|JJ NNS|BODY_3|0
+coordination mechanisms|NN NNS|BODY_4|0
+the requested file|DT VBN NN|BODY_28|0
+the shell|DT NN|BODY_5|0
+the success/failure semantics|DT NN NNS|BODY_7|0
+results|NNS|BODY_16|0
+the polis mechanisms|DT NNS NNS|ABSTRACT_3|0
+chaining|NN|BODY_1:BODY_8|0
+the knowledge base|DT NN NN|BODY_40:BODY_7|0
+a powerful rule-based framework|DT JJ JJ NN|BODY_5|0
+some tuple space|DT NN NN|BODY_3:BODY_10|0
+yale|NN|BODY_3|0
+different blackboards|JJ NNS|BODY_8|0
+set|NN|BODY_8|0
+[12,18]|NN|BODY_3|0
+[3]|NN|BODY_3|0
+a detailed discussion|DT JJ NN|BODY_1|0
+a detailed solution|DT JJ NN|BODY_1|0
+a different , more expressive framework|DT JJ , RBR JJ NN|BODY_3|0
+a main database|DT JJ NN|BODY_3|0
+a mere prolog-linda dialect|DT JJ NN NN|BODY_1|0
+moves|NNS|BODY_1|0
+other details|JJ NNS|BODY_1|0
+the clauses|DT NNS|BODY_3|0
+the references|DT NNS|BODY_3|0
+the rightmost top window|DT JJ JJ NN|BODY_1|0
+the updated public version|DT VBN JJ NN|BODY_1|0
+user actions|NN NNS|BODY_3|0
+the parallel logic language|DT JJ NN NN|BODY_2:BODY_3|0
+an abstract coordination model|DT JJ NN NN|BODY_2:ABSTRACT_3|0
+the old public version user|DT JJ JJ NN NN|BODY_5|0
+buttons|NNS|BODY_2|0
+such operations|JJ NNS|BODY_6|0
+the non-blocking test operation|DT JJ NN NN|BODY_4|0
+programmer p|NN NN|BODY_35|0
+these operations|DT NNS|BODY_2|0
+each subsequence|DT NN|BODY_6|0
+each tuple|DT NN|BODY_1:BODY_2|0
+f)g|NN|BODY_36|0
+a distributed system|DT VBN NN|BODY_5:BODY_8|0
+features|NNS|BODY_5|0
+) fcheck out( p,f)g|-RRB- NN IN NN|BODY_15|0
+programmer op fcheck|NN NN VB|BODY_24|0
+expressive power|JJ NN|BODY_2|0
+such a prolog goal|JJ DT NN NN|BODY_3|0
+the tuple space (|DT JJ NN -LRB-|BODY_7|0
+reacts and consumes|NNS CC NNS|BODY_4|0
+prolog )|NN -RRB-|ABSTRACT_2|0
+the cards|DT NNS|BODY_2|0
+the second example|DT JJ NN|BODY_8|0
+the nodes|DT NNS|BODY_8|0
+the project rule|DT NN NN|BODY_4|0
+a rule-based environment|DT JJ NN|BODY_2|0
+a notion|DT NN|BODY_4|0
+a socket-based meta tuple space|DT JJ NN NN NN|BODY_2|0
+account|NN|BODY_7|0
+building blocks|NN NNS|BODY_11|0
+complex tasks|JJ NNS|BODY_2|0
+distributed program|VBN NN|BODY_5|0
+five ad hoc primitives|CD NN NN NNS|BODY_2|0
+linda-like coordination|JJ NN|BODY_5|0
+mechanisms|NNS|BODY_2|0
+process programs|NN NNS|BODY_4|0
+program|NN|BODY_2|0
+requests|NNS|BODY_9|0
+the programming logic|DT NN NN|BODY_7|0
+the same place|DT JJ NN|BODY_6|0
+the theory user db manager|DT NN NN NN NN|BODY_2|0
+the tuples|DT NNS|BODY_11|0
+this blackboard|DT NN|BODY_10|0
+this class|DT NN|BODY_2|0
+the destination tuple space tests|DT NN JJ NN NNS|BODY_13|0
+queries|NNS|BODY_3|0
+with call compiler( file ):|IN NN NN NN NN|BODY_20|0
+a fixed protocol|DT JJ NN|BODY_2|0
+a success tuple|DT NN NN|BODY_10|0
+the same tuple space|DT JJ NN NN|BODY_27|0
+keeps|NNS|BODY_2|0
+creation operations|NN NNS|BODY_4|0
+an|DT|BODY_12|0
+section 2|NN CD|BODY_3|0
+the project type|DT NN NN|BODY_7|0
+the very basic mechanisms|DT RB JJ NNS|BODY_9|0
+a process program|DT NN NN|BODY_2|0
+a firing pattern|DT NN NN|BODY_10|0
+compile( file ,object )|NN NN NN -RRB-|BODY_12|0
+an esp tuple space|DT NN NN NN|BODY_2|0
+p):|JJ|BODY_54|0
+p,f)g|NN|BODY_19|0
+run( file ,datafile|VBN NN NN|BODY_30|0
+file( f )|NN NN -RRB-|BODY_11|0
+a multi-user|DT NN|BODY_6|0
+atoms|NNS|BODY_15|0
+an operating system service|DT VBG NN NN|BODY_64|0
+a marvel rule [9]|DT NN NN NNS|BODY_3|0
+the tool activity|DT NN NN|BODY_2|0
+( invariant|-LRB- JJ|BODY_4|0
+deliver(|NN|BODY_6|0
+two invariants|CD NNS|BODY_4|0
+exec( file|NN NN|BODY_15|0
+finvariant( end work(|JJ NN NNS|BODY_17|0
+the basic mechanisms|DT JJ NNS|BODY_2|0
+return|NN|BODY_7|0
+an indirect means|DT JJ NN|BODY_8|0
+output operations|NN NNS|BODY_2|0
+,id ) , project plans( plans)g fproject plans( newplans )|NN -RRB- , NN NN NN NN NN NNS -RRB-|BODY_6|0
+out( object|JJ NN|BODY_13|0
+its terminology|PRP$ NN|BODY_16|0
+the agent semantics|DT NN NNS|BODY_2|0
+the editing|DT VBG|BODY_6|0
+the keyword eval|DT NN NN|BODY_2|0
+any )|DT -RRB-|BODY_7|0
+the make tool|DT NN NN|BODY_4|0
+the three agents editor|DT CD NNS NN|BODY_2|0
+an e-mail system|DT NN NN|BODY_6|0
+an explicit statement|DT JJ NN|BODY_2|0
+new )|JJ -RRB-|BODY_10|0
+a unique blackboard|DT JJ NN|BODY_5|0
+many|JJ|BODY_4|0
+eval fchange( requirements( unit|JJ JJ NN NN|BODY_5|0
+no file(|DT NN|BODY_20|0
+four bridge players|CD NN NNS|BODY_4|0
+a suitable programming language|DT JJ NN NN|BODY_9|0
+subprocesses|NNS|BODY_5|0
+the support|DT NN|BODY_7|0
+all the members|PDT DT NNS|BODY_3|0
+a tree|DT NN|BODY_8|0
+message tuples|NN NNS|BODY_6|0
+file system|NN NN|BODY_55|0
+spec( x ) , fdeliver( x ) , impl( x)g|NN NN -RRB- , NN NN -RRB- , NN NN|BODY_13|0
+the success|DT NN|BODY_8|0
+p,f)|NN|BODY_7|0
+tuple reserved( f ,by( p) )|JJ NN NN NN NN -RRB-|BODY_8|0
+user interface users accesses|NN NN NNS NNS|BODY_2|0
+advantage|NN|BODY_4|0
+a channel|DT NN|BODY_5|0
+the c data types|DT NN NN NNS|BODY_7|0
+the operations|DT NNS|BODY_7|0
+outside|NN|BODY_10|0
+the agent activation|DT NN NN|BODY_9|0
+specifications|NNS|BODY_3|0
+software products|NN NNS|BODY_2|0
+space and time|NN CC NN|BODY_10|0
+a representative  b|DT JJ NN NN|BODY_12|0
+the project manager|DT NN NN|BODY_4|0
+three sections|CD NNS|BODY_10|0
+communication primitives|NN NNS|BODY_5|0
+the concurrent interactions|DT JJ NNS|BODY_25|0
+5.2 oikos|CD NNS|BODY_2|0
+the latter an agent executes|DT JJ DT NN NNS|BODY_3|0
+share|NN|BODY_6|0
+a computation|DT NN|BODY_12|0
+instance production systems|NN NN NNS|BODY_4|0
+istar [20]|NN NN|BODY_6|0
+a special kind|DT JJ NN|BODY_6|0
+do compile( compiler|VB JJ NN|BODY_10|0
+the concepts|DT NNS|BODY_1|0
+problems|NNS|BODY_3|0
+the examples|DT NNS|BODY_2|0
+this semantics|DT NNS|BODY_1|0
+all the resources|PDT DT NNS|BODY_2|0
+default|NN|BODY_2|0
+the chosen type system|DT VBN NN NN|BODY_16|0
+ shell patterns |JJ NN NNS|BODY_2|0
+object file( file|VB NN NN|BODY_8|0
+out( p,f)g % read request|JJ NN NN VBN NN|BODY_14|0
+call file server(|NN NN NN|BODY_52|0
+the local ( i .e|DT JJ -LRB- FW FW|BODY_3|0
+marvel|NN|BODY_1|0
+the postcondition|DT NN|BODY_3|0
+rule-based software process|JJ NN NN|BODY_3|0
+two sets|CD NNS|BODY_5|0
+module3]|NNS|BODY_7|0
+consuming|NN|BODY_4|0
+programming languages|NN NNS|BODY_3|0
+the esp language|DT NN NN|BODY_6|0
+tuple check|JJ NN|BODY_6|0
+the network|DT NN|BODY_11|0
+read( tuple schemata )|NN NN NN -RRB-|BODY_3|0
+ptg3.3 evaluation|JJ NN|BODY_10|0
+describes|VBZ|BODY_5|0
+non|FW|BODY_4|0
+programmer p request|NN NN NN|BODY_16|0
+the specification and coordination|DT NN CC NN|ABSTRACT_2|0
+three concepts|CD NNS|BODY_2|0
+basic value types|JJ NN NNS|BODY_3|0
+the documents|DT NNS|BODY_2|0
+agent b|NN NN|BODY_3|0
+charge|NN|BODY_4|0
+error msg ) , time( currenttime ) fc file(|NN NN -RRB- , NN NN -RRB- NN NN|BODY_6|0
+the tuple access granted( user|DT NN NN JJ NN|BODY_9|0
+only a short description|RB DT JJ NN|BODY_2|0
+module2|NNS|BODY_6|0
+oikos research groups|JJ NN NNS|BODY_6|0
+tuple space operations|JJ NN NNS|BODY_4|0
+unix-like style|JJ NN|BODY_6|0
+the blackboard model [31]|DT NN NN NN|BODY_8|0
+( ?f.compile marvel rules|-LRB- NN NN NNS|BODY_8|0
+the available resources|DT JJ NNS|BODY_9|0
+its program|PRP$ NN|BODY_9|0
+some system|DT NN|BODY_6|0
+f)@pg % request granted file( f )|NN NN NN VBN NN NN -RRB-|BODY_43|0
+one workstation|CD NN|BODY_6|0
+the obvious semantics|DT JJ NNS|BODY_5|0
+top|NN|BODY_7|0
+implementation esp|NN VBP|BODY_2|0
+the second line|DT JJ NN|BODY_5|0
+tuple and tuple space|NN CC NN NN|BODY_2|0
+f ,by( p) )|NN NN NN -RRB-|BODY_16|0
+the possible terminal conditions|DT JJ NN NNS|BODY_2|0
+a s software process|DT PRP NN NN|BODY_5|0
+this name system|DT NN NN|BODY_10|0
+the darwin project|DT JJ NN|BODY_2|0
+currenttime)g|NN|BODY_9|0
+p )|NN -RRB-|BODY_42|0
+mail( assignments|NN NNS|BODY_7|0
+the semantics|DT NNS|BODY_28|0
+compile status)g|JJ NN|BODY_11|0
+p rolog program special predicate|NN NN NN JJ NN|BODY_21|0
+remark|NN|BODY_2|0
+a checkin|DT NN|BODY_18|0
+an argument|DT NN|BODY_4|0
+specified|VBN|BODY_7|0
+private workspaces|JJ NNS|BODY_7|0
+file ,udb|NN NN|BODY_12|0
+such a tuple space|JJ DT NN NN|BODY_24|0
+the loc(al ) eval(uation )|DT NN -RRB- NN -RRB-|BODY_13|0
+the ccb issues|DT NN NNS|BODY_21|0
+transaction requests|NN NNS|BODY_4|0
+pieces|NNS|BODY_12|0
+a simple programming environment theory simple shell( user|DT JJ NN NN NN JJ JJ NN|BODY_2|0
+user inputs|NN NNS|BODY_11|0
+machines|NNS|BODY_10|0
+properties and relations|NNS CC NNS|BODY_6|0
+the database service dbs|DT NN NN NNS|BODY_3|0
+edit( file|NN NN|BODY_9|0
+not file( f ) % file f|RB NN NN -RRB- NN NN NN|BODY_17|0
+,id )@bb|NN IN|BODY_10|0
+separate processes|JJ NNS|BODY_9|0
+the presence|DT NN|BODY_14|0
+two table tennis players|CD NN NN NNS|BODY_4|0
+ccb)|NN|BODY_10:BODY_7|0
+cleanly two basic evaluation mechanisms|RB CD JJ NN NNS|BODY_7|0
+very simple|RB JJ|BODY_8|0
+several insert|JJ NN|BODY_13|0
+committee meetings|NN NNS|BODY_5|0
+work(|NN|BODY_10|0
+both forward chaining|DT RB NN|BODY_6|0
+test and consume-compute-output|NN CC NN|BODY_3|0
+all the tuples|PDT DT NNS|BODY_6|0
+programmer p call file server(|NN NN NN NN NN|BODY_40|0
+ccb|NN|BODY_3|0
+a referee|DT NN|BODY_3|0
+the software development environment|DT NN NN NN|BODY_7|0
+activation|NN|BODY_8|0
+the theory implementation|DT NN NN|BODY_8|0
+the activity|DT NN|BODY_3|0
+an external agent|DT JJ NN|BODY_2|0
+the authorization tuple|DT NN NN|BODY_22|0
+a programming|DT NN|BODY_14|0
+the first duties|DT JJ NNS|BODY_2|0
+law-governed systems|JJ NNS|BODY_3|0
+the contractual hierarchy|DT JJ NN|BODY_5|0
+f )|NN -RRB-|BODY_12|0
+tools|NNS|BODY_3|0
+theory checkout manager:|NN NN NN|BODY_10|0
+standard unix tools|JJ NN NNS|BODY_5|0
+its environment|PRP$ NN|BODY_2|0
+the tree|DT NN|BODY_9|0
+an authority|DT NN|BODY_2|0
+the following theories|DT JJ NNS|BODY_9|0
+dbmain)g fcheck|NN NN|BODY_11|0
+document( module|NN NN|BODY_4|0
+tuple file( f|JJ NN NN|BODY_3|0
+file( f)@pgcommunications|NN NNS|BODY_17|0
+arguments|NNS|BODY_2|0
+sections|NNS|BODY_3|0
+simple programming environments|JJ NN NNS|BODY_4|1
+artificial intelligence [31]|JJ NN NNS|BODY_3|0
+a few predefined schemes|DT JJ JJ NNS|BODY_2|0
+the invariant concept|DT NN NN|BODY_2|0
+its computation increase|PRP$ NN NN|BODY_8|0
+( pong ) producing tuple ( ping )|-LRB- NN -RRB- VBG NN -LRB- NN -RRB-|BODY_5|0
+an editing agent|DT NN NN|BODY_7|0
+2|CD|BODY_1|0
+a simple distributed agenda|DT JJ VBN NN|BODY_4|0
+the effects|DT NNS|BODY_4|0
+success or failure|NN CC NN|BODY_10|0
+the symbol #|DT NN #|BODY_7|0
+other rule|JJ NN|BODY_2|0
+the first line|DT JJ NN|BODY_3|0
+more than one rule|JJR IN CD NN|BODY_35|0
+'s csp guarded command|POS NN VBN NN|BODY_20|0
+databases|NNS|BODY_6|0
+the verbosity|DT NN|BODY_9|0
+two different flavors|CD JJ NNS|BODY_2|0
+more complex sequences|RBR JJ NNS|BODY_12|0
+file ,dbmain)g fcheck|NN NN NN|BODY_14|0
+these languages|DT NNS|BODY_3|0
+either physical ( e .g.|DT JJ -LRB- NN NN|BODY_8|0
+the goal evaluation|DT NN NN|BODY_7|0
+the large ,|DT JJ ,|BODY_7|0
+the turn|DT NN|BODY_2|0
+three tuple spaces|CD JJ NNS|BODY_4|0
+change( requirements( unit|NN NN NN|BODY_9|0
+a distributed esp run-time system|DT VBN NN NN NN|BODY_10|0
+the underlying operating system|DT JJ NN NN|BODY_11|0
+the tuple space ) evaluations|DT JJ NN -RRB- NNS|BODY_5|0
+a few imperative constructs|DT JJ JJ NNS|BODY_2|0
+the second rule|DT JJ NN|BODY_61|0
+one stand|CD NN|BODY_3|0
+insert|NN|BODY_4|0
+subsequences|NNS|BODY_5|0
+a state|DT NN|BODY_5|0
+the reusable documents|DT JJ NNS|BODY_3|0
+its scheme|PRP$ NN|BODY_5|0
+a few distributed multiuser applications|DT JJ VBN NN NNS|BODY_2|0
+whose laws|WP$ NNS|BODY_4|0
+modeling coordination|JJ NN|BODY_5|0
+two not blocking operators-one|CD RB VBG NN|BODY_4|0
+pm|JJ|BODY_6|0
+their interplay|PRP$ NN|BODY_4|0
+the process program|DT NN NN|BODY_4|0
+a merlin rule|DT NN NN|BODY_3|0
+tuple reserved( f|JJ NN NN|BODY_4|0
+the following invariants|DT VBG NNS|BODY_16|0
+many constructs|JJ NNS|BODY_5|0
+the termination condition|DT NN NN|BODY_15|0
+tuple space|NN NN|BODY_13|0
+ops5|CD|BODY_5|0
+oikos itself|NNP PRP|BODY_4|0
+a checkout command|DT NN NN|BODY_19|0
+also called patterns  )|RB VBN NNS FW -RRB-|BODY_6|0
+a non-blocking operation|DT JJ NN|BODY_4|0
+the test and consumption operations-they|DT NN CC NN NN|BODY_3|0
+abstract ( e .g.|JJ -LRB- NN NN|BODY_11|0
+a guard|DT NN|BODY_4|0
+the condition|DT NN|BODY_5|0
+its outputs|PRP$ VBZ|BODY_44|0
+an envelope|DT NN|BODY_63|0
+the unix file-system|DT NN NN|BODY_9|0
+impl( 2 )|NN CD -RRB-|BODY_10|0
+invariant(abort work( id ) )@bb|NN NN NN -RRB- NN|BODY_9|0
+the address|DT NN|BODY_20|0
+a result |DT NN|BODY_7|0
+22 conclusions|CD NNS|BODY_5|0
+compile status )|JJ NN -RRB-|BODY_8|0
+compile( compiler|JJ NN|BODY_6|0
+remove( document( module|NN NN NN|BODY_9|0
+a programming environment|DT NN NN|BODY_5|0
+( 'paolo' , programmer , program ) ( program1|-LRB- '' , NN , NN -RRB- -LRB- NN|BODY_5|0
+inserting|NN|BODY_43|0
+the different kinds|DT JJ NNS|BODY_7|0
+pt) ,invariant(abort work(|JJ NN NNS|BODY_19|0
+ptg fcancel change( id)g fabort work(|NN JJ NN NN NN NN|BODY_12|0
+natural language|JJ NN|BODY_3|0
+monitors|NNS|BODY_6|0
+the start|DT NN|BODY_7|0
+this tuple space and tuple file( f )|DT JJ NN CC JJ NN NN -RRB-|BODY_9|0
+a tuple space dest|DT JJ NN NN|BODY_6|0
+the university|DT NN|BODY_5|0
+three sets|CD NNS|BODY_2|0
+the shared prolog|DT VBN NN|BODY_5|0
+some useful conventions|DT JJ NNS|BODY_8|0
+a declarative framework|DT NN NN|BODY_3|0
+the message msg|DT NN NN|BODY_11|0
+free a formal semantics|JJ DT JJ NNS|BODY_2|0
+a thisplace/1 predicate|DT NN NN|BODY_7|0
+the role|DT NN|BODY_5|0
+a logic result|DT NN NN|BODY_8|0
+prolog ( esp|NN -LRB- NN|BODY_2|0
+a reserve/deposit access protocol|DT NN NN NN|BODY_2|0
+problem solving|NN VBG|BODY_2|0
+theory schedule and assign tasks( unit|NN NN CC NN NN NN|BODY_4|0
+a powerful and expressive language|DT JJ CC JJ NN|BODY_2|0
+a parallel evaluation|DT JJ NN|BODY_16|0
+the global state|DT JJ NN|BODY_9|0
+actions|NNS|BODY_3|0
+an abstract paradigm|DT JJ NN|BODY_4|0
+agora [10]|DT NNP|BODY_2|0
+only two oikos services|RB CD JJ NNS|BODY_2|0
+a in tuple space source|DT RB JJ NN NN|BODY_4|0
+insert( document( module|NN NN NN|BODY_12|0
+paths|NNS|BODY_5|0
+an ever-lasting agent|DT JJ NN|BODY_42|0
+two agents|CD NNS|BODY_2|0
+all the above levels|PDT DT JJ NNS|BODY_5|0
+several levels|JJ NNS|BODY_4|0
+capital letters|NN NNS|BODY_12|0
+such a guard|JJ DT NN|BODY_5|0
+esp tuple spaces|NN NN NNS|BODY_4|0
+swarm [35]|JJ NN|BODY_3|0
+each theory|DT NN|BODY_1|0
+our benchmarks|PRP$ NNS|BODY_1|0
+production systems [18]|NN NNS NN|BODY_5|0
+prolog program % theory implementation|NN NN NN NN NN|BODY_5|0
+scientific research ( murs t )|JJ NN -LRB- NNS NN -RRB-|BODY_5|0
+this work|DT NN|BODY_1|0
+expensive and error-prone|JJ CC NN|BODY_5|0
+ffl|.|BODY_34|0
+inferential capabilities|JJ NNS|BODY_10|0
+the protocol|DT NN|BODY_4|0
+compile ('cc -g'|JJ NN NNS|BODY_3|0
+the blackboard hierarchy|DT NN NN|BODY_2|0
+other users|JJ NNS|BODY_3|0
+a user )|DT NN -RRB-|BODY_10|0
+instance call|NN NN|BODY_3|0
+,start work( unit|NN NN NN|BODY_7|0
+the invariant|DT NN|BODY_6|0
+fore|NN|BODY_2|0
+a flat structure ( e .g.|DT JJ NN -LRB- NN NN|BODY_3|0
+a well known project|DT RB VBN NN|BODY_3|0
+a given set|DT VBN NN|BODY_4|0
+appl/a [39]|NN NN|BODY_3|0
+a sequential computation|DT JJ NN|BODY_5|0
+active tuples|JJ NNS|BODY_2|0
+the value|DT NN|BODY_11|0
+fschedule and assign tasks( unit|NN CC NN NN NN|BODY_6|0
+an agent executes|DT NN NNS|BODY_2|0
+the following rule|DT JJ NN|BODY_2|0
+non-declarative operators|JJ NNS|BODY_2|0
+distinct activities|JJ NNS|BODY_10|0
+fig.3|NN|BODY_1|0
+the destination tuple space|DT NN JJ NN|BODY_21:BODY_1|0
+unity|NN|BODY_5|0
+a small number|DT JJ NN|BODY_2|0
+theory user|NN NN|BODY_8|0
+the sequence|DT NN|BODY_36|0
+software development|NN NN|BODY_4|0
+highly dynamic communication patterns|RB JJ NN NNS|BODY_3|0
+an ever-lasting chemical reaction|DT JJ NN NN|BODY_2|0
+special program-tuples|JJ NNS|BODY_2|0
+some output|DT NN|BODY_5|0
+existence|NN|BODY_6|0
+an external tuple space|DT JJ NN NN|BODY_3|0
+a reserved module|DT VBN NN|BODY_1|0
+short )|JJ -RRB-|BODY_3|0
+the leftmost top window|DT JJS JJ NN|BODY_2|0
+( actually|-LRB- RB|BODY_8|0
+the same sense|DT JJ NN|BODY_4|0
+an environment|DT NN|BODY_3|0
+a csp guarded command|DT NN VBN NN|BODY_29|0
+the decomposition|DT NN|BODY_3|0
+an xwindows-based user interface [5]|DT JJ NN NN NN|BODY_7|0
+the declarative|DT NN|BODY_9|0
+programming tools|NN NNS|BODY_5|0
+the places|DT NNS|BODY_2|0
+currently two distributed implementations|RB CD VBN NNS|BODY_2|0
+pointers )|NNS -RRB-|BODY_5|0
+the software process manager|DT NN NN NN|BODY_3|0
+a  semaphore  tuple|DT JJ NN JJ NN|BODY_3|0
+some behavior|DT NN|BODY_15|0
+many similarities|JJ NNS|BODY_3|0
+control flow|NN NN|BODY_3|0
+goals|NNS|BODY_2|0
+an access protocol|DT NN NN|BODY_3|0
+a monotonic way|DT JJ NN|BODY_10|0
+as many|RB JJ|BODY_8|0
+the expo programming environment|DT NN NN NN|BODY_4|0
+logic variables|NN NNS|BODY_5|0
+logic programming techniques and tools|NN NN NNS CC NNS|BODY_2|0
+management|NN|BODY_5|0
+the reader|DT NN|BODY_12|0
+an arbitrary order|DT JJ NN|BODY_15|0
+a document|DT NN|BODY_2|0
+the activity part|DT NN NN|BODY_7|0
+shared streams|VBN NNS|BODY_9|0
+the coordination|DT NN|BODY_18|0
+massive computation power|JJ NN NN|BODY_8|0
+a consistent and updated version|DT JJ CC VBN NN|BODY_7|0
+the design and implementation|DT NN CC NN|BODY_2|0
+loc eval|NN NN|BODY_4|0
+expressiveness thanks|NN NNS|BODY_2|0
+the idea|DT NN|BODY_1|0
+evaluation|NN|BODY_40|0
+associates|NNS|BODY_3|0
+4.3|CD|BODY_1|0
+[19]|NN|BODY_7|0
+introduction|NN|BODY_1|0
+the workshop participants|DT NN NNS|BODY_7|0
+invariants|NNS|BODY_15:BODY_1|0
+control|NN|BODY_9|0
+a code|DT NN|BODY_5|0
+programming coordination|NN NN|BODY_3|0
+a difficult and complex undertaking|DT JJ CC JJ NN|BODY_3|0
+each set|DT NN|BODY_4|0
+the first component|DT JJ NN|BODY_4|0
+three blackboards|CD NNS|BODY_2|0
+three theories|CD NNS|BODY_5|0
+the evaluation|DT NN|BODY_6|0
+agent|NN|BODY_5|0
+laws and policies|NNS CC NNS|BODY_4|0
+a logic predicate|DT NN NN|BODY_24|0
+methods|NNS|BODY_23|0
+udb ,file )@dbmaing|JJ JJ VBG|BODY_15|0
+test operations|NN NNS|BODY_8|0
+broadcasting|NN|BODY_6|0
+linear objects|JJ NNS|BODY_1|0
+associative coordination mechanisms|JJ NN NNS|BODY_10|0
+the checkout manager|DT NN NN|BODY_7|0
+his tuple space|PRP$ NN NN|BODY_2|0
+a variable|DT JJ|BODY_6|0
+compilation|NN|BODY_25|0
+services|NNS|BODY_9|0
+[26]|NN|BODY_5|0
+a logic language [15]|DT NN NN NN|BODY_4|0
+activating agents|VBG NNS|BODY_7|0
+blackboard figure 3|NN NN CD|BODY_13|0
+external tools|JJ NNS|BODY_13|0
+the non-blocking consumption operation|DT JJ NN NN|BODY_9|0
+undelivered tuples|JJ NNS|BODY_4|0
+course|NN|BODY_2|0
+the main difference|DT JJ NN|BODY_3|0
+the  standard  definition|DT JJ JJ JJ NN|BODY_3|0
+all tuple spaces|DT NN NNS|BODY_6|0
+rules and deduction|NNS CC NN|ABSTRACT_6|0
+another|DT|BODY_17|0
+a typical parallel application|DT JJ JJ NN|BODY_5|0
+the checkin manager|DT NN NN|BODY_6|0
+a meta tuple space|DT NN NN NN|BODY_3|0
+the undelivered tuples|DT JJ NNS|BODY_7|0
+the tuple abort work( id|DT NN NN NN NN|BODY_4|0
+three rules|CD NNS|BODY_16|0
+proof search|JJ NN|BODY_6|0
+the two agents|DT CD NNS|BODY_7|0
+the processes|DT NNS|BODY_1|0
+that scope|DT NN|BODY_6|0
+[2,5,4]|NN|BODY_6|0
+l l l oe oe oe figure 1|JJ JJ JJ NN NN NN NN CD|BODY_13|0
+the computation|DT NN|BODY_3|0
+a passive entity|DT JJ NN|BODY_2|0
+their own tuple space|PRP$ JJ NN NN|BODY_3|0
+the user database|DT NN NN|BODY_2|0
+workspace|NN|BODY_3|0
+tuple ( pong )|NN -LRB- NN -RRB-|BODY_11|0
+a rule-based software development environment|DT JJ NN NN NN|BODY_4|0
+an experimental rule-based software development environment|DT JJ JJ NN NN NN|BODY_2|0
+ada|NN|BODY_5|0
+tuple space named manager|JJ NN VBN NN|BODY_8|0
+ai applications|VBP NNS|BODY_5|0
+c and part|NN CC NN|BODY_3|0
+finvariant( end work( id ) )@bb|JJ NN NN NN -RRB- NN|BODY_7|0
+a repository|DT NN|BODY_8|0
+an out operation|DT RB NN|BODY_2|0
+guidance|NN|BODY_6|0
+a mere repository|DT JJ NN|BODY_3|0
+that agents|DT NNS|BODY_2|0
+esp theory|NN NN|BODY_26|0
+the current status|DT JJ NN|BODY_4|0
+operands|NNS|BODY_2|0
+etc|FW|BODY_6:BODY_10|0
+its way|PRP$ NN|BODY_3|0
+the computing model|DT NN NN|BODY_2|0
+some test data|DT NN NNS|BODY_4|0
+the project members|DT NN NNS|BODY_3|0
+a name and zero or more arguments|DT NN CC CD CC JJR NNS|BODY_3|0
+its thread|PRP$ NN|BODY_39|0
+shrinks|NNS|BODY_3|0
+the magic |DT JJ|BODY_3|0
+curly brackets|JJ NNS|BODY_6:BODY_5|0
+chains|NNS|BODY_17|0
+language mechanisms|NN NNS|BODY_3|0
+its interactions|PRP$ NNS|BODY_4|0
+the tuple end work( id|DT NN NN NN NN|BODY_3|0
+stocks|NNS|BODY_10|0
+an input-output relationship|DT NN NN|BODY_4|0
+our attention|PRP$ NN|BODY_3|0
+three tuples|CD NNS|BODY_4|0
+software process|NN NN|BODY_6|0
+phases|NNS|BODY_3|0
+now other parallel logic languages|RB JJ JJ NN NNS|BODY_2|0
+these different coordination levels|DT JJ NN NNS|BODY_5|0
+asynchronous creation|JJ NN|BODY_14|0
+tsc( tuplespace )|JJ NN -RRB-|BODY_9|0
+any sequence|DT NN|BODY_2|0
+polis and prolog|NNS CC NN|BODY_4|0
+a hierarchy|DT NN|BODY_8|0
+the coordination mechanisms|DT NN NNS|BODY_6|0
+esp and lo|NN CC NN|BODY_4|0
+different software processes|JJ NN NNS|BODY_6:BODY_1|0
+the initial distributed environment|DT JJ VBN NN|BODY_2|0
+a search|DT NN|BODY_9|0
+[11]|NN|BODY_8|0
+3 db main database oe figure|CD NN JJ NN NN NN|BODY_8|0
+the behavior|DT NN|BODY_3|0
+some basic facilities|DT JJ NNS|BODY_4|0
+linda operations|NN NNS|BODY_3|0
+the test operation|DT NN NN|BODY_9|0
+objects|NNS|BODY_4|0
+software processes|NN NNS|BODY_5|0
+a prolog goal|DT NN NN|BODY_16|0
+a tuple space terminates|DT NN NN NNS|BODY_4|0
+consumption and creation operations|NN CC NN NNS|BODY_5|0
+the tuple compile( file )|DT NN NN NN -RRB-|BODY_7|0
+tasks|NNS|BODY_15|0
+combination|NN|BODY_5|0
+c.montangero|NN|BODY_11|0
+each command|DT NN|BODY_22|0
+prolog [11]|NN NNS|BODY_3:BODY_4|0
+associative consumption|JJ NN|BODY_10|0
+no constraints|DT NNS|BODY_3|0
+a pattern|DT NN|BODY_1:BODY_3|0
+a postcondition|DT NN|BODY_13|0
+two attributes|CD NNS|BODY_12|0
+a message|DT NN|BODY_2|0
+duties|NNS|BODY_3|0
+the program-tuples|DT NNS|BODY_2|0
+a dynamic collection|DT JJ NN|BODY_5|0
+the contribution|DT NN|BODY_1|0
+a way|DT NN|BODY_2|0
+the definition and evolution|DT NN CC NN|BODY_5|0
+the basis|DT NN|BODY_11|0
+typed pattern matching|JJ NN VBG|BODY_7|0
+difference|NN|BODY_7|0
+the consistency|DT NN|BODY_4|0
+laws|NNS|BODY_13|0
+planning tools|NN NNS|BODY_9|0
+the interactions|DT NNS|BODY_2|0
+tuple ( ping )|NN -LRB- NN -RRB-|BODY_8|0
+blackboard systems|NN NNS|BODY_7|0
+the following esp theory|DT VBG NN NN|BODY_1|0
+the global environment|DT JJ NN|BODY_5|0
+files|NNS|BODY_2|0
+us|PRP|BODY_8|0
+consumption operations|NN NNS|BODY_15|0
+g)g|NN|BODY_11|0
+the score|DT NN|BODY_5|0
+the declarative language|DT JJ NN|BODY_12|0
+a simple edit-compile-test programming model|DT JJ NN NN NN|BODY_35|0
+the following theory|DT VBG NN|BODY_2|0
+a good introduction|DT JJ NN|BODY_14|0
+a tuple schemata|DT NN NN|BODY_1:BODY_3|0
+these blackboards|DT NNS|BODY_9|0
+a compiler %|DT NN NN|BODY_23|0
+a local evaluation |DT JJ NN|BODY_17|0
+any result or error code)|DT NN CC NN NN|BODY_10|0
+special logic tuple spaces|JJ NN NN NNS|BODY_6|0
+the test|DT VB|BODY_7|0
+anesp program|JJ NN|BODY_16|0
+a molecule |DT NN|BODY_5|0
+themselves|PRP|BODY_2|0
+other activities|JJ NNS|BODY_6|0
+'s requests|POS NNS|BODY_5|0
+interaction|NN|BODY_5|0
+a prolog term|DT NN NN|BODY_7|0
+the create section|DT VBP NN|BODY_5|0
+c-linda|NN|BODY_5|0
+primitive operators and data types play|JJ NNS CC NN NNS VBP|BODY_6|0
+maximum generality|JJ NN|BODY_5|0
+side effects|NN NNS|BODY_3|0
+the whole universe|DT JJ NN|BODY_4|0
+law governed systems|NN VBN NNS|BODY_5|0
+2.2.2 program-tuples|CD NNS|BODY_1|0
+different levels|JJ NNS|BODY_5|0
+marvel [8,9] and merlin [24,34]|NN NN CC NN NN|BODY_6|0
+physically distributed programming languages|RB VBN NN NNS|BODY_5|0
+unification and backtracking|NN CC NN|BODY_5|0
+the tasks|DT NNS|BODY_30|0
+an abstract town|DT JJ NN|BODY_4|0
+the activation|DT NN|BODY_18|0
+b )|NN -RRB-|BODY_8|0
+a flexible way|DT JJ NN|BODY_2|0
+some useful predefined tests|DT JJ JJ NNS|BODY_1|0
+these systems|DT NNS|BODY_2|0
+a loc eval section|DT NN NN NN|BODY_14|0
+a multiset|DT NN|BODY_12|0
+a model|DT NN|BODY_5|0
+wild cards|JJ NNS|BODY_5|0
+any actual argument|DT JJ NN|BODY_7|0
+identifiers|NNS|BODY_10|0
+some users buy|DT NNS VBP|BODY_9|0
+that rule|IN NN|BODY_34|0
+unification|NN|BODY_10|0
+ghc [36]|JJ NN|BODY_6|0
+the intended semantics|DT JJ NNS|BODY_3|0
+a database management system|DT NN NN NN|BODY_7|0
+esp [2,4]|NN NN|BODY_6|0
+the loc eval|DT NN NN|BODY_1|0
+a t est section|DT NN NN NN|BODY_4|0
+no effect|DT NN|BODY_19|0
+no side effect|DT NN NN|BODY_7|0
+communicating processes|VBG NNS|BODY_5|0
+a naive software development process|DT JJ NN NN NN|BODY_2|0
+an acknowledgment|DT NN|BODY_6|0
+explicit the communication mechanisms|JJ DT NN NNS|BODY_9|0
+such a polispace|JJ DT NN|BODY_3|0
+the coordination model [13]|DT NN NN NN|BODY_4|0
+a project manager|DT NN NN|BODY_9|0
+a broader semantics|DT JJR NNS|BODY_11|0
+rule-based software processes and environments|JJ NN NNS CC NNS|BODY_4|0
+explicitly modeling and|RB JJ CC|BODY_4|0
+the tuple flow|DT NN NN|BODY_7|0
+situations|NNS|BODY_2|0
+section|NN|BODY_10|0
+3.4.1 interaction|CD NN|BODY_1|0
+programming agents|NN NNS|BODY_4|0
+a combination|DT NN|BODY_2|0
+c|NN|BODY_5|0
+an important feature|DT JJ NN|BODY_3|0
+these distributed applications|DT VBN NNS|BODY_1|0
+the multiset|DT NN|BODY_21|0
+participants|NNS|BODY_4|0
+this local computation|DT JJ NN|BODY_24|0
+a network|DT NN|BODY_7|0
+each new logical tuple space|DT JJ JJ NN NN|BODY_7|0
+fig.4 shows|CD VBZ|BODY_1|0
+such a representative communicates|PDT DT JJ NNS|BODY_1|0
+the linda based implementation|DT NN VBN NN|BODY_1|0
+the project manager responds|DT NN NN NNS|BODY_1|0
+all the agents|PDT DT NNS|BODY_6|0
+the results|DT NNS|BODY_27|0
+practice|NN|BODY_1|0
+any blackboard|DT JJ|BODY_9|0
+these outputs|DT VBZ|BODY_31|0
+a tuple space ( i .e|DT NN NN -LRB- FW FW|BODY_4|0
+ffl associative test|JJ JJ NN|BODY_6|0
+the paradigm|DT NN|BODY_1|0
+the following subset|DT VBG NN|BODY_3|0
+the features|DT NNS|BODY_6|0
+its internal activities|PRP$ JJ NNS|BODY_13|0
+execution threads|NN NNS|BODY_3|0
+a desired software process|DT VBN NN NN|BODY_3|0
+three years|CD NNS|BODY_3|0
+some events|DT NNS|BODY_8|0
+the fly|DT NN|BODY_6|0
+logic-based control structures|JJ NN NNS|BODY_9|0
+4.1|CD|BODY_1|0
+compiles|NNS|BODY_3|0
+any concurrency mechanisms|DT NN NNS|BODY_6|0
+his action|PRP$ NN|BODY_5|0
+all the input|DT DT NN|BODY_5|0
+the actions|DT NNS|BODY_35|0
+the following actions|DT JJ NNS|BODY_3|0
+the window|DT NN|BODY_4|0
+no backtracking|DT NN|BODY_9|0
+several tuple spaces|JJ NN NNS|BODY_12|0
+formal arguments|JJ NNS|BODY_3|0
+inter-tuple space communications|JJ NN NNS|BODY_6|0
+sequential activities|JJ NNS|BODY_5|0
+the new version|DT JJ NN|BODY_4|0
+the sense|DT NN|BODY_5|0
+the choice|DT NN|BODY_6|0
+predefined tests|JJ NNS|BODY_14|0
+the following protocol|DT JJ NN|BODY_8|0
+issue|NN|BODY_8|0
+such a creation|JJ DT NN|BODY_3|0
+the paper|DT NN|BODY_1|0
+the related software processes|DT JJ NN NNS|BODY_7|0
+its own name system|PRP$ JJ NN NN|BODY_3|0
+non deterministic agents|JJ JJ NNS|BODY_2|0
+the type system|DT NN NN|BODY_9|0
+output|NN|BODY_2|0
+the polis coordination model|DT NNS NN NN|BODY_2|0
+an instance|DT NN|BODY_2|0
+the following tuple space operations|DT VBG JJ NN NNS|BODY_3|0
+collections|NNS|BODY_5:ABSTRACT_7|0
+predefined facilities|VBN NNS|BODY_3|0
+the resulting tuple space subset|DT VBG JJ NN NN|BODY_1|0
+remote evaluation )|JJ NN -RRB-|BODY_2|0
+mutual exclusion and consistency|JJ NN CC NN|BODY_5|0
+blackboard names|JJ NNS|BODY_5|0
+a powerful framework|DT JJ NN|ABSTRACT_4|0
+one or more invariants|CD CC JJR NNS|BODY_4|0
+a programming logic|DT NN NN|BODY_3|0
+'s architecture design|POS NN NN|BODY_3|0
+the abstract architecture|DT JJ NN|BODY_3|0
+another extension|DT NN|BODY_2|0
+section 6 contains|NN CD VBZ|BODY_1|0
+programmers|NNS|BODY_8|0
+the users|DT NNS|BODY_7|0
+each task|DT NN|BODY_37|0
+the former operation|DT JJ NN|BODY_1|0
+a suitable abstract machine|DT JJ JJ NN|BODY_5|0
+tions|NNS|BODY_10|0
+the whole coordination framework|DT JJ NN NN|BODY_3|0
+some existing and well known tools|DT VBG CC RB VBN NNS|BODY_3|0
+each test|DT NN|BODY_1|0
+several different shells|JJ JJ NNS|BODY_3|0
+uis|NNP|BODY_1|0
+last but not least|JJ CC RB JJS|BODY_1|0
+the windows|DT NNS|BODY_5|0
+these values|DT NNS|BODY_5|0
+a simple e-mail system|DT JJ NN NN|BODY_7|0
+the definition and execution|DT NN CC NN|BODY_1|0
+expo [5] )|NN NN -RRB-|BODY_8|0
+xwindows|NNS|BODY_6|0
+concurrency and parallelism|NN CC NN|BODY_6|0
+an important difference|DT JJ NN|BODY_1|0
+the three main layers|DT CD JJ NNS|BODY_1|0
+heterogeneous software components|JJ NN NNS|BODY_5|0
+each prolog process|DT NN NN|BODY_1|0
+the project status [33]|DT NN NN NN|BODY_9|0
+3.4|CD|BODY_1|0
+fig.1|NNS|BODY_1|0
+fig.2|NN|BODY_3|0
+tuple deliver( x )|JJ NN NN -RRB-|BODY_14|0
+either tuple end work( id ) or tuple abort work( id|DT JJ NN NNS JJ -RRB- CC JJ NN NNS JJ|BODY_25|0
+a global environment|DT JJ NN|BODY_10|0
+all prolog built-ins|DT NN NNS|BODY_1|0
+these theories|DT NNS|BODY_1|0
+the law|DT NN|BODY_1|0
+a logic tuple space|DT NN NN NN|BODY_1|0
+polis agents|NNS NNS|BODY_1|0
+the polis framework|DT NNS NN|BODY_7|0
+this  chemical solution |DT JJ NN NN|BODY_11|0
+a more recent and relevant example|DT RBR JJ CC JJ NN|BODY_1|0
+the town many activities|DT NN JJ NNS|BODY_1|0
+3.2 logic tuple|CD NN NN|BODY_1|0
+a project database|DT NN NN|BODY_7|0
+the leftmost bottom window|DT JJS JJ NN|BODY_1|0
+its inferential and relational capabilities|PRP$ JJ CC JJ NNS|BODY_5|0
+theories|NNS|BODY_5|0
+the target unit|DT NN NN|BODY_25|0
+development environment|NN NN|BODY_7|0
+error msg ):|NN NN NN|BODY_13|0
+the other two rules|DT JJ CD NNS|BODY_1|0
+a linda-based logic language|DT JJ NN NN|BODY_5|0
+pm.|VBG|BODY_6|0
+a specialized environment|DT JJ NN|BODY_8|0
+a top-down refinement strategy|DT JJ NN NN|BODY_6|0
+the process evolution|DT NN NN|BODY_10|0
+pmfdevelop change and test( unit)g )|JJ NN CC NN NN -RRB-|BODY_12:BODY_9|0
+the related development environments|DT JJ NN NNS|BODY_6|0
+6 comparison|CD NN|BODY_1|0
+manipulating agents|VBG NNS|BODY_9|0
+the target|DT NN|BODY_1|0
+shared prolog gains|VBN NN NNS|BODY_1|0
+prolog processes|NN NNS|BODY_6|0
+information|NN|BODY_1|0
+backward chaining computations|JJ NN NNS|BODY_7|0
+most|RBS|BODY_1|0
+a more successful project|DT RBR JJ NN|BODY_1|0
+section 5|NN CD|BODY_1|0
+a tuple space garbage collector |DT JJ NN NN NN|BODY_1|0
+no name|DT NN|BODY_1|0
+tuple arguments|JJ NNS|BODY_17|0
+program-tuple|NN|BODY_7|0
+distribution and protection|NN CC NN|BODY_9|0
+some program|DT NN|BODY_7|0
+the problem|DT NN|BODY_1|0
+a unique tuple space|DT JJ NN NN|BODY_8|0
+messages|NNS|BODY_6|0
+the linda coordination language [22]|DT NN NN NN NN|BODY_8|0
+a harmonious assembly|DT JJ NN|BODY_8|0
+another place|DT NN|BODY_7|0
+clients|NNS|BODY_10|0
+complex software processes|JJ NN NNS|BODY_12|0
+each service|DT NN|BODY_1|0
+esp [2]|NN NN|BODY_5|0
+logical tuple space|JJ NN NN|BODY_5|0
+ming|NN|BODY_6|0
+non determinism|FW NN|BODY_1|0
+other programs|JJ NNS|BODY_1|0
+prolog-like computation|JJ NN|BODY_6|0
+some tuples appear|DT NNS VBP|BODY_11|0
+the c layer|DT NN NN|BODY_1|0
+the code|DT NN|BODY_1|0
+the overall approach|DT JJ NN|BODY_1|0
+the prolog goal|DT NN NN|BODY_12|0
+the rebus whiteboard|DT NN NN|BODY_1|0
+tuple space communications|JJ NN NNS|BODY_8|0
+4.4 discussion|CD NN|BODY_1|0
+[17]|NN|BODY_2|0
+some interesting situations|DT JJ NNS|BODY_4|0
+logically distributed systems|RB VBN NNS|ABSTRACT_3|0
+tuples , agents , and tuple spaces|NNS , NNS , CC JJ NNS|BODY_3|0
+2 2.2.3 non deterministic evaluation|CD CD NN JJ NN|BODY_1|0
+[37] )|NN -RRB-|BODY_17|0
+a programmer|DT NN|BODY_7|0
+the theory interface|DT NN NN|BODY_1|0
+a compiler|DT NN|BODY_7|0
+uis )|NNP -RRB-|BODY_5|0
+the failure|DT NN|BODY_10|0
+principle|NN|BODY_1|0
+the preceding operation|DT VBG NN|BODY_5|0
+a declarative way|DT JJ NN|BODY_7|0
+model|NN|BODY_1|0
+conclusions|NNS|BODY_1|0
+the main contribution|DT JJ NN|BODY_1|0
+the service specifications|DT NN NNS|BODY_7|0
+the latter|DT NN|BODY_8|0
+the scope|DT NN|BODY_1|0
+ whiteboard  [40]|NNP NNP NNP NNP|BODY_4|0
+3 esp|CD VBP|BODY_1|0
+passive or active tuples|JJ CC JJ NNS|BODY_4|0
+6.2 comparing esp|CD NN NN|BODY_1|0
+this rule states|DT NN NNS|BODY_1|0
+its execution|PRP$ NN|BODY_14|0
+our experience|PRP$ NN|BODY_1|0
+some approximations|DT NNS|BODY_1|0
+distributed applications|VBN NNS|BODY_6|0
+a compiler agent|DT NN NN|BODY_12|0
+an executing agent|DT VBG NN|BODY_14|0
+linda [18]|NN NN|BODY_5|0
+the ccb|DT NN|BODY_4|0
+the pm|DT NN|BODY_6|0
+the pt.|DT NN|BODY_8|0
+popularity|NN|BODY_4|0
+start|NN|BODY_10|0
+4.2|CD|BODY_1|0
+the particular access mechanism|DT JJ NN NN|BODY_1|0
+6.1 comparing|CD NN|BODY_1|0
+another tuple space|DT NN NN|BODY_5|0
+the destination|DT NN|BODY_12|0
+the rightmost bottom window|DT JJ JJ NN|BODY_1|0
+assert|VB|BODY_5|0
+the form tsc(namefcontentsg )|DT NN NN -RRB-|BODY_4|0
+this interest|DT NN|BODY_1|0
+whose headings|WP$ NNS|BODY_6|0
+the project documents|DT NN NNS|BODY_8|0
+then call( compiler|RB NN NN|BODY_6|0
+a unified semantic framework [6]|DT JJ JJ NN NN|BODY_7|0
+a few remarks|DT JJ NNS|BODY_1|0
+a defective software module|DT JJ NN NN|BODY_8|0
+distributed systems|VBN NNS|BODY_6|0
+such a combination|PDT DT NN|ABSTRACT_1|0
+the second component|DT JJ NN|BODY_1|0
+an ack message|DT JJ NN|BODY_16|0
+5 )|CD -RRB-|BODY_12|0
+5.1 services|CD NNS|BODY_1|0
+a key concept|DT JJ NN|BODY_3|0
+the rule-based software development environment marvel [8,9]|DT JJ NN NN NN NN NN|BODY_6|0
+the precondition|DT NN|BODY_1|0
+a key issue|DT JJ NN|BODY_1|0
+a notable feature|DT JJ NN|BODY_1|0
+environments|NNS|BODY_1|0
+process programming|NN NN|BODY_1|0
+section 4|NN CD|BODY_1|0
+such a rule|PDT DT NN|BODY_1|0
+symbolic applications|JJ NNS|BODY_4|0
+the i/o model|DT NN NN|BODY_1|0
+the power|DT NN|BODY_1|0
+the real use|DT JJ NN|BODY_1|0
+readp and inp|NN CC NN|BODY_1|0
+a good example|DT JJ NN|BODY_1|0
+any order )|DT NN -RRB-|BODY_9|0
+any time|DT NN|BODY_1|0
+no sequential component|DT JJ NN|BODY_4|0
+nested boxes|JJ NNS|BODY_3|0
+distributed computations|VBN NNS|BODY_2|0
+many places|JJ NNS|BODY_6|0
+the keyword invariant|DT NN NN|BODY_4|0
+comparison|NN|BODY_1|0
+the blocking test operation|DT VBG NN NN|BODY_1|0
+2.1 tuples tuples|CD NNS NNS|BODY_1|0
+variables and values|NNS CC NNS|BODY_3|0
+explicit the fact|JJ DT NN|BODY_1|0
+external software tools|JJ NN NNS|BODY_7|0
+mutual exclusion relationships|JJ NN NNS|BODY_1|0
+new data|JJ NNS|BODY_13|0
+polis.|NN|BODY_4|0
+2.3.1 names|CD NNS|BODY_1|0
+a graphic specification language|DT JJ NN NN|BODY_3|0
+our future plans|PRP$ JJ NNS|BODY_1|0
+the most important difference|DT RBS JJ NN|BODY_1|0
+a linda-like tuple space|DT JJ NN NN|BODY_6|0
+a true extension|DT JJ NN|BODY_1|0
+built-in predicates|JJ NNS|BODY_4|0
+merlin [24,34]|JJ NN|BODY_4|0
+section 3|NN CD|BODY_1|0
+a distributed software development environment|DT VBN NN NN NN|BODY_5:ABSTRACT_6|0
+a request|DT NN|BODY_11|0
+esp rules|VBP NNS|BODY_1|0
+a predefined subsystem|DT JJ NN|BODY_7|0
+a state [41]|DT NN NN|BODY_6|0
+a terminal|DT NN|BODY_8|0
+all the tuple space life span|DT DT NN NN NN NN|BODY_8|0
+an agent executes rules|DT NN NNS NNS|BODY_1|0
+another esp theory|DT NN NN|BODY_5|0
+any non-deterministic operation|DT JJ NN|BODY_7|0
+one logic tuple space|CD NN NN NN|BODY_5|0
+only one rule|RB CD NN|BODY_5|0
+several alternative subtasks|JJ JJ NNS|BODY_4|0
+the following policy|DT VBG NN|BODY_4|0
+unix|NN|BODY_13|0
+a new tuple space|DT JJ NN NN|BODY_9|0
+simple software development environments and processes|JJ NN NN NNS CC NNS|BODY_4|0
+their identifiers|PRP$ NNS|BODY_4|0
+2.2 agents|CD NNS|BODY_1|0
+2.3.2 invariants|CD NNS|BODY_1|0
+mutual exclusion|JJ NN|BODY_6|0
+polis semantics|NNS NNS|BODY_3|0
+that schedule agents|WDT NN NNS|BODY_3|0
+3.1 theories|CD NNS|BODY_1|0
+mastermind [14]|NN NN|BODY_7|0
+the uis specification|DT NNP NN|BODY_7|0
+2.3 tuple spaces|CD NN NNS|BODY_1|0
+its name|PRP$ NN|BODY_4|0
+other tuples|JJ NNS|BODY_4|0
+section 4.3|NN CD|BODY_4|0
+a few projects|DT JJ NNS|BODY_6|0
+a new tuple space )|DT JJ NN NN -RRB-|BODY_6|0
+a protocol|DT NN|BODY_5|0
+access rights|NN NNS|BODY_6|0
+complex communication|JJ NN|BODY_5|0
+contents |NNS|BODY_5|0
+different allocation policies|JJ NN NNS|BODY_3|0
+its quality|PRP$ NN|BODY_11|0
+some other tuple space|DT JJ JJ NN|BODY_9|0
+will|NN|BODY_5|0
+communications|NNS|BODY_1|0
+the name system|DT NN NN|BODY_1|0
+a )|DT -RRB-|BODY_14|0
+the whiteboard|DT NN|BODY_1|0
+some software processes|DT NN NNS|BODY_1|0
+' activities|POS NNS|BODY_6|0
+distributed knowledge bases|VBN NN NNS|BODY_11|0
+simulated stock markets|VBN NN NNS|BODY_12|0
+a la linda|DT NNP NN|ABSTRACT_9|0
+other agents|JJ NNS|BODY_10|0
+such a blackboard|JJ DT NN|BODY_8|0
+the main database blackboard|DT JJ NN NN|BODY_25|0
+all activities and terminates|DT NNS CC NNS|BODY_3|0
+any state information|DT NN NN|BODY_1|0
+its initial contents|PRP$ JJ NNS|BODY_4|0
+no operations|DT NNS|BODY_21|0
+a complete process program|DT JJ NN NN|BODY_3|0
+brevity|NN|BODY_1|0
+this section|DT NN|BODY_1:BODY_4|0
+2.2.1 tuple space operations|CD JJ NN NNS|BODY_1|0
+a so called active tuple|DT RB VBN JJ NN|BODY_3|0
+the future|DT NN|BODY_8|0
+an invariant fires|DT JJ NNS|BODY_6|0
+such a structure|JJ DT NN|BODY_1|0
+our guiding principle|PRP$ VBG NN|BODY_1|0
+weshowhowesp|NN|BODY_1|0
+any specific name system|DT JJ NN NN|BODY_3|0
+our coordination model|PRP$ NN NN|BODY_1|0
+the effective usefulness|DT JJ NN|BODY_1|0
+c.|NN|BODY_7|0
+rule-based software process programming|JJ NN NN NN|ABSTRACT_6|0
+more importance|JJR NN|BODY_1|0
+expo ff\omega ff\omega ff\omega ff\omega \upsilon figure 4|NN JJ JJ JJ JJ NN NN CD|BODY_1|0

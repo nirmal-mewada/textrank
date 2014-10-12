@@ -1,0 +1,42 @@
+that|WDT|BODY_6:BODY_2:BODY_10|0
+the diversity|DT NN|BODY_11:BODY_2|0
+we|PRP|BODY_2:BODY_3|1
+bagging|NN|BODY_6:BODY_4|1
+a term|DT NN|BODY_5:BODY_9|0
+large changes|JJ NNS|BODY_5|0
+that small changes|DT JJ NNS|BODY_2|0
+neural network practitioners|JJ NN NNS|BODY_5|0
+qsar and qspr|NN CC NN|BODY_3|0
+the training|DT NN|BODY_3|0
+training parameters|NN NNS|BODY_4|0
+uncertainty|NN|BODY_5|0
+ensemble methods|JJ NNS|BODY_6|0
+neural network|JJ NN|BODY_2|0
+the full sample|DT JJ NN|BODY_7|0
+krogh and vedelsby|NN CC NN|BODY_2|0
+that simpler techniques|IN JJR NNS|BODY_6|0
+'s ( 1995 ) decomposition|POS -LRB- CD -RRB- NN|BODY_3|0
+techniques|NNS|BODY_4|0
+their growing popularity|PRP$ VBG NN|BODY_4|0
+the individual models|DT JJ NNS|BODY_3|0
+the best possible choice|DT JJS JJ NN|BODY_5|0
+the generalization error|DT NN NN|BODY_4|0
+definitive advantages|JJ NNS|BODY_2|0
+a critical assessment|DT JJ NN|BODY_3|1
+the most common ensemble technique|DT RBS JJ JJ NN|BODY_4|1
+bootstrap aggregation|NN NN|BODY_5|1
+the benefits|DT NNS|BODY_3|0
+aggregation|NN|BODY_1:BODY_4|0
+the average generalization performance|DT JJ NN NN|BODY_7|0
+the individual networks|DT JJ NNS|BODY_8|0
+structure-activity and structure-property correlation|NN CC NN NN|BODY_7|0
+the use|DT NN|BODY_1|0
+neural networks|JJ NNS|BODY_1|0
+their generalization performance|PRP$ NN NN|BODY_6|0
+superior results|JJ NNS|BODY_8|0
+these findings|DT NNS|BODY_1|0
+more stable and accurate predictors|RBR JJ CC JJ NNS|BODY_6|0
+recent research|JJ NN|BODY_1|0
+them|PRP|BODY_12|0
+this work|DT NN|BODY_1|1
+networks|NNS|BODY_1|0

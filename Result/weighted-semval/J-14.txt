@@ -1,0 +1,660 @@
+graphical games|JJ NNS|BODY_5:ABSTRACT_4:TITLE_2:BODY_1:BODY_3:BODY_4:BODY_9|2
+we|PRP|BODY_12:BODY_11:BODY_18:BODY_13:BODY_26:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|20
+it|PRP|BODY_12:BODY_16:BODY_43:BODY_15:BODY_23:BODY_13:BODY_26:ABSTRACT_2:BODY_25:BODY_2:BODY_3:BODY_37:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|4
+which|WDT|BODY_11:BODY_18:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:ABSTRACT_9:BODY_8:BODY_9|4
+that|IN|BODY_12:BODY_11:ABSTRACT_11:BODY_16:BODY_13:ABSTRACT_3:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|10
+a nash equilibrium|DT NN NN|BODY_12:BODY_11:BODY_17:BODY_18:BODY_13:ABSTRACT_2:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:ABSTRACT_10:BODY_9|9
+the best response policy|DT JJS NN NN|BODY_6:ABSTRACT_5:BODY_1:BODY_2:ABSTRACT_3:BODY_4:ABSTRACT_10|3
+nash equilibria|JJ NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_9|3
+there|EX|BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:ABSTRACT_7:BODY_7:BODY_8|2
+a graphical game|DT JJ NN|BODY_6:BODY_5:ABSTRACT_8:BODY_2:BODY_1:BODY_3:BODY_9|1
+the underlying graph|DT VBG NN|BODY_12:BODY_5:ABSTRACT_5:BODY_16:ABSTRACT_3:BODY_3:BODY_9|2
+the social welfare|DT JJ NN|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_4:BODY_10|1
+all nash equilibria|DT JJ NN|BODY_6:BODY_5:BODY_1:ABSTRACT_7|1
+the data structure|DT NNS NN|ABSTRACT_2:BODY_2:BODY_7:BODY_8|2
+a bounded-degree tree|DT NN NN|BODY_6:BODY_5:ABSTRACT_4|2
+good nash equilibria|JJ NN NN|TITLE_1|0
+social and behavioral sciences-economics|JJ CC JJ NNS|ABSTRACT_8|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+another attractive solution concept|DT JJ NN NN|ABSTRACT_1|0
+such an equilibrium|JJ DT NN|ABSTRACT_9|1
+kearns et al|NNS NNP JJ|ABSTRACT_5|1
+an efficient algorithm|DT JJ NN|ABSTRACT_8|1
+general terms algorithms|JJ NNS NNS|ABSTRACT_9|0
+j.4 [computer applications]|CD NN NN|ABSTRACT_7|0
+fair equilibrium selection|JJ NN NN|ABSTRACT_3|0
+these two algorithms|DT CD NNS|ABSTRACT_1|0
+various fairness criteria|JJ NN NNS|ABSTRACT_3|0
+âˆˆ [0 , 1]|JJ CD , CD|BODY_5:BODY_2:BODY_4|1
+a good nash equilibrium|DT JJ NN NN|BODY_4|1
+the maximum social welfare|DT JJ JJ NN|BODY_6|1
+the two previous sections|DT CD JJ NNS|BODY_7|1
+even for graphical games|RB IN JJ NNS|BODY_2|1
+such a strategy profile|PDT DT NN NN|BODY_2|1
+the minimum individual payoff|DT JJ JJ NN|BODY_6|1
+a potential best response|DT JJ JJS NN|BODY_6:BODY_12:BODY_3:BODY_4:BODY_8|0
+the maximum total payoff|DT JJ JJ NN|BODY_2|0
+the best nash equilibrium|DT JJS NN NN|BODY_11:BODY_4:BODY_8|0
+the best response policies|DT JJS NN NNS|BODY_2:BODY_7:BODY_8|0
+a graphical game g|DT JJ NN NN|BODY_2:BODY_1|0
+a discrete strategy profile|DT JJ NN NN|BODY_2:BODY_4:BODY_10|0
+an exact nash equilibrium|DT JJ NN NN|BODY_6:BODY_3:BODY_10:BODY_7|0
+an optimal nash equilibrium|DT JJ JJ NN|BODY_5:BODY_16:BODY_9|0
+2 ) âˆ ’|CD -RRB- NN NN|BODY_5:BODY_10|0
+a constant payoff function|DT JJ NN NN|BODY_8|0
+the maximal total payoff|DT JJ JJ NN|BODY_13:BODY_10|0
+the greatest absolute value|DT JJS JJ NN|BODY_2|0
+a single child u|DT JJ NN NN|BODY_2|0
+a mixed strategy w|DT JJ NN VBD|BODY_2:BODY_4|0
+such a nash equilibrium|JJ DT NN NN|BODY_5:BODY_2|0
+2-player , 2-action games|JJ , JJ NNS|BODY_4|0
+the payoff-maximizing nash equilibrium|DT JJ NN NN|BODY_2|0
+) â‰ ¥ m(|-RRB- CC NN NN|BODY_8|0
+a mixed strategy v|DT JJ NN NN|BODY_2:BODY_4|0
+the polynomial q1(x )|DT NN NN -RRB-|BODY_1|0
+âˆ’p2 ( x )|NN -LRB- NN -RRB-|BODY_2|0
+1 ) (u +|CD -RRB- NN NN|BODY_6|0
+y z âˆ ’|NN FW NN NNS|BODY_8|0
+|ti âˆ ’ si||NNP NNP . NNS|BODY_3|0
+’ 3 )(u +|NN CD NN NN|BODY_5|0
+a more egalitarian measure|DT JJR JJ NN|BODY_3|0
+correlated equilibria ( ce)|JJ NN -LRB- NN|BODY_4|0
++ 2n + 2|FW CD FW CD|BODY_11:BODY_14|0
+all j < i|DT NN NN NN|BODY_3|0
+= (v , e)|SYM FW , FW|BODY_7|0
+payoff matrix and î¾|NN NN CC NNP|BODY_12|0
++ 2i âˆ ’|, JJ JJ NN|BODY_7|0
+|t âˆ ’ t|JJ JJ NN NN|BODY_3|0
+the social welfare [11|DT JJ NN NNS|BODY_5|0
+k ,l,m=0,1 |pi klm(tklm|FW CD NN NN|BODY_5|0
+p0 ( vi )|DT -LRB- VB -RRB-|BODY_39|0
+u ) âˆˆ b(v|NN -RRB- NN NN|BODY_9|0
+absolute value ) entry|JJ NN -RRB- NN|BODY_12|0
+their greatest common denominator|PRP$ JJS JJ NN|BODY_5|0
+the minimal expected payoff|DT JJ VBN NN|BODY_6|0
+1 âˆ ’ x|CD NN NN SYM|BODY_6|0
+â· â· + kk|IN IN NN NN|BODY_7|0
+n âˆ ’ 1|RB JJ NN CD|BODY_5:BODY_7|0
+âˆ’pmax + î¾ +|NN FW FW FW|BODY_7|0
+the total expected payoff|DT NN VBN NN|BODY_10|0
+his own component )|PRP$ JJ NN -RRB-|BODY_12|0
+at least pi max|IN JJS NN NN|BODY_7|0
+a threshold vector t|DT NN NN NN|BODY_4:BODY_8|0
+tm i+1( 1 âˆ|VBN NN CD NN|BODY_10|0
+a multiplicative approximation guarantee|DT JJ NN NN|BODY_6|0
+a nash equilibrium t|DT NN NN NN|BODY_15:BODY_4|0
+some x âˆˆ r|DT SYM JJ NN|BODY_9|0
+a uw + b|DT JJ IN NN|BODY_18|0
+the only zero (|DT JJ CD -LRB-|BODY_2|0
+the only maximum )|DT JJ NN -RRB-|BODY_3|0
+partial fraction decomposition theorem|JJ NN NN NN|BODY_5|0
+j â‰ ¤ i|RB JJ NN NN|BODY_6|0
+at most n2î+1 numbers|IN JJS JJ NNS|BODY_2|0
+some pair ( l|DT NN -LRB- JJ|BODY_8|0
+tk iâˆ’1( 1 âˆ|JJ NN CD NN|BODY_2|0
+âˆˆ q and x|JJ NN CC NN|BODY_6|0
+the same v value|DT JJ NN NN|BODY_11|0
+the maximum absolute value|DT JJ JJ NN|BODY_6:BODY_19|0
++ 2 + â·|FW CD FW NN|BODY_12:BODY_9|0
+any real algebraic variety|DT JJ JJ NN|BODY_7|0
+a proper rational expression|DT JJ JJ NN|BODY_2|0
+the underlying 162 graph|DT JJ CD NN|BODY_5|0
+at most 4 3|IN JJS CD CD|BODY_6|0
+fâˆ’1 ( w )|CD -LRB- NN -RRB-|BODY_6|0
+the bounded payoff games|DT VBN NN NNS|BODY_4|0
+1 ) and u0|CD -RRB- CC NN|BODY_3|0
+|pmax | ( recall|CD NNS -LRB- NN|BODY_4|0
+two integercoefficient graphical games|CD JJ JJ NNS|BODY_5|0
+the strategy profile ë†t|DT NN NN NN|BODY_5|0
+p1 ( vi )|JJ -LRB- VB -RRB-|BODY_45|0
+the best correlated equilibrium|DT JJS JJ NN|BODY_7|0
+an n-player graphical game|DT NN JJ NN|BODY_1|0
+âˆˆ q and î±|JJ NN CC NN|BODY_5|0
+the respective total payoff|DT JJ JJ NN|BODY_1|0
+â· < x2n i|FW NNS CD FW|BODY_8|0
+i = 1 ,|NN SYM CD ,|BODY_17:BODY_13|0
+î± , î± ]|JJ , JJ CD|BODY_3|0
+an underlying graph g|DT VBG NN NN|BODY_4|0
+u1 â‰ ¤ tiâˆ’1|NN JJ NN NNS|BODY_6|0
+v1 â‰ ¤ ti|NN JJ NN NNS|BODY_6|0
+v ) âˆ ’|NN -RRB- NN NN|BODY_5|0
+v ) + w|NNS -RRB- NN NN|BODY_11|0
+âˆš 41 )/20 <|JJ CD CD NN|BODY_4|0
+/ 3 } )|NN CD NN -RRB-|BODY_6|0
+the social welfare subject|DT JJ NN NN|BODY_6|0
+ml,k i , i|, FW , FW|BODY_2|0
+any integer payoff matrices|DT NN NN NNS|BODY_3|0
+totally mixed nash equilibria|RB JJ NN NN|BODY_9|0
+the ui , i|DT FW , FW|BODY_5|0
+the social welfare )|DT JJ NN -RRB-|BODY_5|0
+a strategy profile ti|DT NN NN NN|BODY_2|0
+a 169 formal definition|DT CD JJ NN|BODY_7|0
+all i = 0,|DT NN SYM CD|BODY_13|0
+a discrete nash equilibrium|DT JJ NN NN|BODY_3|0
+the underlying graph g|DT VBG NN NN|BODY_5|0
+v ) < p0|NN -RRB- JJ NN|BODY_8|0
+v ) > p0|NNS -RRB- JJ NN|BODY_8|0
+a compact representation scheme|DT JJ NN NN|BODY_8|0
+1 , i .e|CD , FW FW|BODY_2|0
+no discrete nash equilibrium|DT JJ NN NN|BODY_6|0
+a negative expected payoff|DT JJ JJ NN|BODY_4|0
+v0 ) < p0|CD -RRB- NN NN|BODY_4|0
+v0 ) > p0|CD -RRB- NN NN|BODY_3|0
+each best-response policy b(v|DT DT NN NN|BODY_6|0
+the actual strategy profile|DT JJ NN NN|BODY_6|0
+an integer-payoff graphical game|DT JJ JJ NN|BODY_5|0
+¤ r +î¾ +2|NN NN NN NN|BODY_20|0
+the maximal total payoffs|DT JJ JJ NNS|BODY_17|0
+many real life scenarios|JJ JJ NN NNS|BODY_4|0
+î¾ â‰ ¤ ti|JJ . NN NNS|BODY_8|0
+the fairest nash equilibrium|DT NN NN NN|BODY_3|0
+deng and teng [4|NN CC NN NNS|BODY_2|0
+polynomial-time computable nash equilibria|NN JJ NN NN|BODY_5|0
+only a small subset|RB DT JJ NN|BODY_4|0
+each triple ( uiâˆ’1|DT JJ -LRB- CD|BODY_2|0
+zl,k i , i|JJ FW , FW|BODY_2|0
+( 0 , 1/8|-LRB- CD , CD|BODY_2|0
+all l , k|DT JJ , NN|BODY_3|0
+a nash equilibrium ë†s|DT JJ NN NN|BODY_4|0
+the nash equilibrium t|DT NN NN NN|BODY_6|0
+the most natural problems|DT RBS JJ NNS|BODY_2|0
+a unique nash equilibrium|DT JJ NN NN|BODY_2|0
+t ) given b(vj|NN -RRB- VBN NN|BODY_12|0
+the highest total payoff|DT JJS JJ NN|BODY_3|0
+a general degree-bounded graph|DT JJ JJ NN|BODY_3|0
+) + 3f(u )|-RRB- NN NN -RRB-|BODY_5|0
+any player vi downstream|DT NN NN NN|BODY_22|0
+tiâˆ’1 âˆˆ pbrviâˆ’1 (ti)|DT JJ NN NN|BODY_6|0
+paths and cycles )|NNS CC NNS -RRB-|BODY_10|0
+41 )/20 < .9|CD CD JJ CD|BODY_3|0
+the strategy profile t|DT NN NN NN|BODY_11|0
+a = { î±1|DT SYM JJ CD|BODY_1|0
+6.1 combining welfare maximization|CD VBG NN NN|BODY_1|0
+any fixed î¾ >|DT VBN NN NN|BODY_8|0
+no such nash equilibrium|DT JJ JJ NN|BODY_15|0
+standard dynamic programming techniques|JJ JJ NN NNS|BODY_9|0
+âˆˆ [0 , 1]}|FW CD , CD|BODY_12|0
+a payoff matrix )|DT NN NN -RRB-|BODY_8|0
+theorems 3 and 5|DT CD CC CD|BODY_5|0
+any degree-n algebraic number|DT JJ JJ NN|BODY_1|0
+satisfying ) certain properties|JJ -RRB- JJ NNS|BODY_13|0
+three or more actions|CD CC JJR NNS|BODY_6|0
+any best response policy|DT JJS NN NN|BODY_7|0
+particular , xl iâˆ’1|JJ , JJ NN|BODY_9|0
+a simple algebraic structure|DT JJ JJ NN|BODY_3|0
+a given > 0,|DT VBN NN NNS|BODY_1|0
+the smallest possible amount|DT JJS JJ NN|BODY_9|0
+size poly( n )|NN NN NN -RRB-|BODY_10|0
+a prescribed threshold ti|DT VBN NN NNS|BODY_8|0
+the running time analysis|DT VBG NN NN|BODY_1|0
+the social welfare perspective|DT JJ NN NN|BODY_5|0
+aiuiui+1 âˆ ’ aiui+1|DT IN NN NNS|BODY_8|0
+2. preliminaries and notation|DT NNS CC NN|BODY_1|0
+the following simple observation|DT JJ JJ NN|BODY_3|0
+v0 ) + 1|CD -RRB- NN CD|BODY_4|0
+a sufficient expected payoff|DT JJ JJ NN|BODY_8|0
+the total payoff|DT JJ NN|BODY_6:BODY_11:BODY_1:BODY_2:BODY_10:BODY_8:BODY_9|1
+u|NN|BODY_12:BODY_22:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_9|0
+the payoff matrices|DT NN NNS|BODY_6:BODY_3:BODY_4|1
+an -nash equilibrium|DT NN NN|BODY_6:BODY_5:BODY_3:BODY_8:BODY_9|1
+the strategy profile|DT NN NN|BODY_2:BODY_4:BODY_8|1
+whose total payoff|WP$ JJ NN|BODY_11:BODY_5|3
+any > 0|DT NN CD|BODY_1:BODY_3|2
+any algebraic number|DT JJ NN|BODY_2:BODY_4|1
+each individual payoff|DT JJ NN|BODY_7|1
+a good benchmark|DT JJ NN|BODY_4|1
+the approximate solution|DT JJ NN|BODY_3|1
+the only strategy|DT JJ NN|BODY_6|1
+a path )|DT NN -RRB-|BODY_17:BODY_7|1
+p0( w )|JJ VB -RRB-|BODY_4|1
+such a representation|JJ DT NN|BODY_6|1
+( theorem 3,4)|-LRB- NN NN|BODY_3|1
+any graphical game|DT JJ NN|BODY_4|1
+the graphical game|DT JJ NN|BODY_8|1
+other natural criteria|JJ JJ NNS|BODY_3|1
+a decentralized manner|DT JJ NN|BODY_5|1
+the individual payoffs|DT JJ NNS|BODY_5|1
+a prescribed threshold|DT VBN NN|BODY_8|1
+an arbitrary degree|DT JJ NN|BODY_14|1
+the expected payoff|DT VBN NN|BODY_6:BODY_11:BODY_5:BODY_36:BODY_42:BODY_21:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|0
+s|PRP|BODY_12:BODY_16:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_30:BODY_8:BODY_9|0
+1|CD|BODY_12:BODY_11:BODY_16:BODY_17:BODY_13:BODY_2:BODY_3:BODY_4:BODY_33:BODY_6:BODY_5:BODY_27:BODY_44:BODY_7:BODY_8:BODY_48:BODY_9|0
+0 and 1|CD CC CD|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the players|DT NNS|BODY_6:BODY_12:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|2
+the algorithm|DT NN|BODY_5:BODY_15:BODY_1:BODY_2:BODY_4:BODY_10:BODY_7:BODY_9|2
+this|DT|BODY_16:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4|2
+i = 1|NN SYM CD|BODY_6:BODY_11:BODY_18:BODY_21:BODY_13:BODY_2:BODY_1:BODY_14:BODY_10:BODY_7:BODY_9|0
+a strategy profile|DT NN NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|0
+.e|NN|BODY_6:BODY_5:BODY_22:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7|1
+the running time|DT VBG NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_4:BODY_8|0
+[0 , 1]|CD , CD|BODY_6:BODY_3:BODY_4|0
+the nash equilibrium|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_9|0
+each player vi|DT NN NN|BODY_5:BODY_1:BODY_3:BODY_7:BODY_8|0
+exact nash equilibria|JJ NN NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+at least ti|IN JJS NNS|BODY_16:BODY_13:BODY_25:BODY_9|0
+the only maximum|DT JJ NN|BODY_6:BODY_2:BODY_9|0
+an event point|DT NN NN|BODY_6:BODY_3:BODY_8|0
+any nash equilibrium|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+a mixed strategy|DT JJ NN|BODY_6:BODY_1:BODY_3:BODY_9|0
+the downstream pass|DT NN NN|BODY_2:BODY_14:BODY_3:BODY_9|0
+= u0/(u0 +|SYM CD NNS|BODY_13:BODY_2|0
+the point (ti|DT NN NN|BODY_7|0
+the general case|DT JJ NN|BODY_5:BODY_2:BODY_3|0
+the second game|DT JJ NN|BODY_3:BODY_14|0
+the mediation value|DT NN NN|BODY_3|0
+the algebraic structure|DT JJ NN|BODY_2|0
+those nash equilibria|DT JJ NN|BODY_3|0
+any payoff matrix|DT NN NN|BODY_6:BODY_13:BODY_4|0
+the mixed strategy|DT JJ NN|BODY_6:BODY_13|0
+a single agent|DT JJ NN|BODY_6|0
+0 âˆ ’|CD JJ NNS|BODY_2|0
+conciselyrepresented multiplayer games|JJ JJ NNS|BODY_6|0
+a finite number|DT JJ NN|BODY_6:BODY_5:BODY_15:BODY_10:BODY_8|0
+the first game|DT JJ NN|BODY_5:BODY_11|0
+= 0, note|SYM JJ NN|BODY_2|0
+the expected payoffs|DT VBN NNS|BODY_6:BODY_1:BODY_4|0
+âˆ ’ x|JJ JJ SYM|BODY_3:BODY_8|0
+a different context|DT JJ NN|BODY_2|0
+a minimax approach|DT NN NN|BODY_2|0
+strategy profiles t|NN NNS NN|BODY_2|0
+strong negative results|JJ JJ NNS|BODY_4|0
+= â· â·|SYM JJ JJ|BODY_5:BODY_4|0
+the ) value|DT -RRB- NN|BODY_2|0
+( x+2 )...(|-LRB- NN NN|BODY_3|0
+the full version|DT JJ NN|BODY_5:BODY_1|0
+the same way|DT JJ NN|BODY_4|0
+the player vi|DT NN NN|BODY_17:BODY_3|0
+at most î|IN JJS NNS|BODY_5:BODY_9|0
+5 âˆ ’|CD JJ NNS|BODY_4|0
+the form (uâˆ’1|DT NN NN|BODY_2|0
+the previous section|DT JJ NN|BODY_6:BODY_2|0
+= u2 +|SYM CD NN|BODY_7|0
+the best ce|DT JJS NN|BODY_5|0
+eventually the choices|RB DT NNS|BODY_5|0
+a multiplicative approximation|DT JJ NN|BODY_2:BODY_3|0
+approximate nash equilibria|JJ NN NN|BODY_2:BODY_3|0
+x2 i <|DT FW NNS|BODY_6|0
+higher value (|JJR NN -LRB-|BODY_6|0
+some nash equilibria|DT NN NN|BODY_1|0
+the downward pass|DT JJ NN|BODY_2|0
+the inductive step|DT JJ NN|BODY_2|0
+any mixed strategy|DT JJ NN|BODY_2:BODY_7|0
+some rational numbers|DT JJ NNS|BODY_2|0
+v = {v1|JJR SYM CD|BODY_8|0
+low-degree graphical games|JJ JJ NNS|BODY_4|0
+a 3-vertex path|DT JJ NN|BODY_3|0
+âˆ’p00 + p01|CD IN NNS|BODY_10|0
+the new parent|DT JJ NN|BODY_7|0
+y z +|NN FW NNS|BODY_7|0
+a viâˆ’1-event point|DT JJ NN|BODY_2|0
+u0 = 0|DT SYM CD|BODY_3|0
+î±i = î±}|FW SYM NN|BODY_6|0
+a vi-event point|DT JJ NN|BODY_6:BODY_2|0
+mixed strategy v|JJ NN NN|BODY_3:BODY_20|0
+the first vertex|DT JJ NN|BODY_2|0
+âˆ’1 / 3|DT NN CD|BODY_4|0
+a polynomial-time algorithm|DT NN NN|BODY_2|0
+v = 1/2|RB SYM CD|BODY_1:BODY_3|0
+y z ||NN FW NNP|BODY_9|0
+a direct effect|DT JJ NN|BODY_6|0
+all i <|DT FW FW|BODY_2|0
+|xyz âˆ ’|JJR NN NNS|BODY_4|0
+a single child|DT JJ NN|BODY_6|0
+this solution concept|DT NN NN|BODY_3|0
+more general games|RBR JJ NNS|BODY_2|0
+all discrete strategies|DT JJ NNS|BODY_5|0
+the minimal polynomial|DT JJ NN|BODY_2|0
+( v )|-LRB- NN -RRB-|BODY_9|0
+w â‰ ¤|JJ JJ NN|BODY_2|0
+the set y|DT VBN NN|BODY_1|0
+our approximation scheme|PRP$ NN NN|BODY_2|0
+the player v|DT NN NN|BODY_1:BODY_3|0
+the complexity class|DT NN NN|BODY_7|0
+at least 1/8|IN JJS CD|BODY_11:BODY_9|0
+l = 1|JJ SYM CD|BODY_5|0
+n > max{5n|RB JJ NN|BODY_9|0
+â· â· â·|JJ JJ JJ|BODY_5|0
+certain expected payoffs|JJ VBN NNS|BODY_8|0
+3 } )|CD NN -RRB-|BODY_6:BODY_10|0
+another natural way|DT JJ NN|BODY_2|0
+the existing work|DT VBG NN|BODY_9|0
+whose leading coefficient|WP$ VBG NN|BODY_8|0
+the best solution|DT JJS NN|BODY_3|0
+m( g )|NN NN -RRB-|BODY_1:BODY_8|0
+such a pair|JJ DT NN|BODY_10|0
+the algebraic properties|DT JJ NNS|BODY_2|0
+g > 3|VBG NN CD|BODY_3|0
+at most î¾|IN JJS NN|BODY_7|0
+the generic algorithm|DT JJ NN|BODY_2|0
+two-player n-action games|JJ NN NNS|BODY_1:BODY_9|0
+â‰ ¤ npmin|NN NN NN|BODY_13|0
+section 5.1 shows|NN CD NNS|BODY_13|0
+) | v|-RRB- NN NN|BODY_8|0
+such that b(v|PDT DT NN|BODY_7|0
+âˆ ’ p01|JJ NNS NNS|BODY_5|0
+a special case|DT JJ NN|BODY_10|0
+0, 1 )|JJ CD -RRB-|BODY_7|0
+{0 , 1}|CD , CD|BODY_6|0
+tn â‰ ¤|JJ NN NN|BODY_7|0
+more than 2|JJR IN CD|BODY_17|0
+âˆ’ai 1 u|FW CD PRP|BODY_17|0
+a wider range|DT JJR NN|BODY_6|0
+p0 ( vi|DT -LRB- VB|BODY_46|0
+a general n-player|DT JJ NN|BODY_4|0
+1 if ui|CD IN FW|BODY_60|0
+the sets b(vj|DT NNS NNS|BODY_3|0
+a âš† [0|DT NN NN|BODY_2|0
+o( max{np3 max|JJ NN NN|BODY_3|0
+= u0/(u0+1 )|SYM CD -RRB-|BODY_11|0
+the upper bound|DT JJ JJ|BODY_6|0
+the maximum entry|DT JJ NN|BODY_10|0
+the algebraic complexity|DT JJ NN|BODY_2|0
+various sociallydesirable properties|JJ JJ NNS|BODY_7|0
+one or both|CD CC DT|BODY_15|0
+ui < 1|FW FW CD|BODY_2:BODY_3|0
+|x âˆ ’|JJ JJ JJ|BODY_11|0
+î´ = 1/n|DT SYM JJ|BODY_3|0
+a similar argument|DT JJ NN|BODY_1:BODY_8|0
+an exponential-time algorithm|DT NN NN|BODY_6|0
+the instance g(v|DT NN NN|BODY_16:BODY_9|0
+his own action|PRP$ JJ NN|BODY_10|0
+u0 and u1|CD CC NNS|BODY_28:BODY_30|0
+the maximum (|DT NN -LRB-|BODY_11|0
+a dummy parent|DT JJ NN|BODY_5|0
+tn = âˆ’pmax|FW SYM NN|BODY_4|0
+r = [v1|NN SYM CD|BODY_4|0
+â· + k2n+2|NN FW IN|BODY_13:BODY_10|0
+the smallest entry|DT JJS NN|BODY_5|0
+¥ 2 suppose|NN CD VBP|BODY_2|0
+u0 and uâˆ’1|CD CC CD|BODY_18:BODY_20|0
+whose exact solutions|WP$ JJ NNS|BODY_4|0
+p00 âˆ ’|DT JJ NNS|BODY_4|0
+w, t )|JJ NN -RRB-|BODY_8|0
+this hardness result|DT NN NN|BODY_9|0
+an expected payoff|DT VBN NN|BODY_10|0
+a graph g|DT NN NN|BODY_6|0
+( a subset|-LRB- DT NN|BODY_9|0
++ 2 +|NN CD NN|BODY_6|0
+1 ) /(|CD -RRB- NN|BODY_6|0
+the unique solution|DT JJ NN|BODY_2|0
+maximize social welfare|VB JJ NN|BODY_4|0
+section 3 studies|NN CD NNS|BODY_1|0
+( x âˆ|-LRB- NN NN|BODY_2|0
+iv ã— iu|FW FW FW|BODY_12|0
+most other agents|JJS JJ NNS|BODY_7|0
+= tk iâˆ’1(|SYM NN NN|BODY_7|0
++ i âˆ|FW NN FW|BODY_6|0
+¤ m( g)|NN JJ NN|BODY_14|0
+a uevent point|DT JJ NN|BODY_12|0
+n-player 2-action games|JJ JJ NNS|BODY_5|0
+[5 , 12|CD , CD|BODY_5|0
+theorem 4 )|NN CD -RRB-|BODY_4|0
+the last vertex|DT JJ NN|BODY_4|0
+a pair (v|DT NN NN|BODY_8|0
+an exact solution|DT JJ NN|BODY_14|0
+any vertex u|DT JJ NN|BODY_3|0
+significantly higher payoffs|RB JJR NNS|BODY_13|0
+a vector t|DT NN NN|BODY_5|0
+u âˆˆ [x|NNP NNP NNP|BODY_4|0
+the same techniques|DT JJ NNS|BODY_5|0
+’ i +|NN FW ,|BODY_10|0
+a segment [x|DT NN NN|BODY_3|0
+the modified version|DT JJ NN|BODY_8|0
+the same argument|DT JJ NN|BODY_7|0
+â‰ ¤ ti|IN JJ NNS|BODY_12|0
+î¾ + 4|NNP NNP CD|BODY_7|0
+âˆ’x )uâˆ’1 +x|NN CD NN|BODY_3|0
+{jî´ | j|JJ NN NN|BODY_4|0
+a dummy vertex|DT JJ NN|BODY_3|0
+whose nash equilibria|WP$ JJ NN|BODY_3|0
+the approximation parameter|DT NN NN|BODY_7|0
+)uâˆ’1 + x|CD NNS SYM|BODY_12:BODY_4:BODY_8|0
+a payoff matrix|DT NN NN|BODY_21|0
+a player v|DT NN NN|BODY_2|0
+24npmax ) /|CD -RRB- NN|BODY_3|0
+a strategy w|DT NN NN|BODY_5|0
+arbitrary algebraic numbers|JJ JJ NNS|BODY_8|0
+0 and b(vn|CD CC RB|BODY_8|0
+the original game|DT JJ NN|BODY_12|0
+its parent v|PRP$ NN NN|BODY_3|0
+an arbitrary root|DT JJ NN|BODY_3|0
+the set xiâˆ’2|DT NN NN|BODY_2|0
+u < âˆ’2|NNP NN NNP|BODY_6|0
+the player viâˆ’2|DT NN NN|BODY_5|0
+a single number|DT JJ NN|BODY_3|0
+the game g|DT NN NN|BODY_2|0
+â‰ ¤ 3î´|NN NN NN|BODY_15|0
+â‰ ¤ î´|NNP NNP NNP|BODY_3|0
+degree 2 (|NN CD -LRB-|BODY_6|0
+) < 0|-RRB- NN CD|BODY_2|0
+j = 1|RB SYM CD|BODY_4|0
+p âˆˆ r|NN NN NN|BODY_14|0
+the root )|DT NN -RRB-|BODY_5|0
+littman and singh|JJ CC JJ|BODY_6|0
+g(u ) >|VBN -RRB- NN|BODY_4|0
+2 âˆš 5|CD NNS CD|BODY_8|0
+a large community|DT JJ NN|BODY_1|0
+the best ne.|DT JJS NN|BODY_8|0
+the entire community|DT JJ NN|BODY_7|0
+vn ) }|JJ -RRB- NN|BODY_11|0
+every node v|DT NN FW|BODY_4|0
+all nodes z|DT NNS FW|BODY_15|0
+the root w|DT NN NN|BODY_3|0
+a novel feature|DT JJ NN|BODY_2|0
+his expected payoff|PRP$ VBN NN|BODY_16|0
+a nonzero probability|DT NN NN|BODY_6|0
+its parent w|PRP$ NN NN|BODY_6|0
+o( max{np3 max/|NN NN NN|BODY_7|0
+celebrated theorem (|JJ NN -LRB-|BODY_8|0
+— âˆ ’|JJ JJ NN|BODY_6|0
+) âˆˆ [0|-RRB- IN CD|BODY_11:BODY_4|0
+’ 1 )|NN CD -RRB-|BODY_12|0
+a generic algorithm|DT JJ NN|BODY_2|0
+the players ui|DT NNS FW|BODY_10|0
+a vertex u|DT JJ NN|BODY_2|0
+the base case|DT NN NN|BODY_1|0
+the tree g|DT NN NN|BODY_3|0
+polynomial time [17]|NN NN NN|BODY_7|0
+a vertex v|DT JJ NN|BODY_1|0
+each child u|DT NN NN|BODY_6|0
+the latter condition|DT JJ NN|BODY_1|0
+i + 1|NN VBG CD|BODY_20|0
+the form [u|DT NN NN|BODY_11|0
+âˆ ’ sklm|CC JJ NN|BODY_14|0
+a pure strategy|DT JJ NN|BODY_6|0
+the same roots|DT JJ NNS|BODY_2|0
+his third action|PRP$ JJ NN|BODY_7|0
+u0 âˆˆ [x|DT JJ NN|BODY_3:BODY_4|0
+p00( 1 âˆ|NN CD NN|BODY_3|0
+the algorithm constructs|DT NN NNS|BODY_4|0
+the prescribed thresholds|DT VBN NNS|BODY_3|0
+( theorem 5|-LRB- NN CD|BODY_4|0
+any player vi|DT NN NN|BODY_3|0
+the form (u|DT NN NN|BODY_3|0
+a large population|DT JJ NN|BODY_7|0
+poly( n )|NN NN -RRB-|BODY_3|0
+an n-vertex tree|DT NN NN|BODY_6|0
+the payoff bounds|DT NN NNS|BODY_6|0
+v âˆˆ pbrv|NN FW FW|BODY_5|0
+n â‰ ¥|RB JJ NN|BODY_2|0
+the sets b(vj+1|DT NNS NNS|BODY_8|0
+= tâˆ —|SYM IN JJ|BODY_10|0
+just the agents|RB DT NNS|BODY_9|0
+) âˆ ’|-RRB- NN NN|BODY_9|0
+the expected loss|DT JJ NN|BODY_2|0
+the sets xi|DT NNS NN|BODY_5|0
+each ml,k i|DT JJ NN|BODY_2|0
+â‰ ¤ î¾|NN NN NN|BODY_7|0
++ 1 )|NN CD -RRB-|BODY_11|0
+particular the graphs|JJ DT NNS|BODY_5|0
+a strategy v|DT NN NN|BODY_2|0
+the n players|DT NN NNS|BODY_4|0
+a polynomial number|DT JJ NN|BODY_8|0
+a 3-player game|DT JJ NN|BODY_8|0
+at least pmin|IN JJS NN|BODY_5|0
+a dummy player|DT JJ NN|BODY_24|0
+the original algorithm|DT JJ NN|BODY_3|0
+the ( approximation|DT -LRB- NN|BODY_1|0
+pkâˆ’1 i=1 ti|JJ NNS NNS|BODY_2|0
+u = 1|NN SYM CD|BODY_16|0
+a point u|DT NN NN|BODY_8|0
+the vector (u|DT NN NN|BODY_4|0
+a small loss|DT JJ NN|BODY_2|0
+a discrete strategy|DT JJ NN|BODY_9|0
+|tklm âˆ’sklm ||NNP NNP NNP|BODY_1|0
+î´ < /(|JJ JJ NN|BODY_3|0
+n ( recall|RB -LRB- NN|BODY_22|0
+potential lower bounds|JJ JJR NNS|BODY_8|0
+uâˆ’1 is 0|CD VBZ CD|BODY_6|0
+g and ti|VBG CC NNS|BODY_5:BODY_14|0
+the optimal one|DT JJ CD|BODY_11|0
+2n rational numbers|DT JJ NNS|BODY_3|0
+the player vj|DT NN NN|BODY_7|0
+the two games|DT CD NNS|BODY_1|0
+a finite set|DT JJ NN|BODY_2|0
+an n-vertex path|DT JJ NN|BODY_4|0
+such an algorithm|JJ DT NN|BODY_2|0
+dynamic programming techniques|JJ NN NNS|BODY_13|0
+)( x+2n+2 )|JJ NN -RRB-|BODY_4|0
+a player vi|DT NN NN|BODY_4|0
+ui+1 and ui|NNS CC FW|BODY_52|0
+potential best responses|JJ JJS NNS|BODY_8|0
+a related result|DT JJ NN|BODY_1|0
+all mixed strategies|DT JJ NNS|BODY_7|0
+1 and 3|CD CC CD|BODY_10|0
+p1 ( v|NN -LRB- FW|BODY_3|0
+no nash equilibrium|DT NN NN|BODY_12|0
+every such game|DT JJ NN|BODY_4|0
+a fixed parameter|DT JJ NN|BODY_13|0
+a vector t1|DT NN NN|BODY_2|0
+the player u|DT NN NNP|BODY_10|0
+their running time|PRP$ JJ NN|BODY_4|0
+any j <|DT NN NN|BODY_5|0
+a single point|DT JJ NN|BODY_17|0
+a third action|DT JJ NN|BODY_6|0
+several other criteria|JJ JJ NNS|BODY_6|0
+a correlated equilibrium|DT JJ NN|BODY_3|0
+the following way|DT JJ NN|BODY_4|0
+the optimal solution|DT JJ NN|BODY_1:BODY_7|0
+any p âˆˆ|DT NN NN|BODY_2|0
+such that s|JJ IN VBZ|BODY_12:BODY_6:BODY_2:BODY_3:BODY_9|0
+the pure strategies|DT JJ NNS|BODY_6|0
+the set b(vj|DT NN NN|BODY_6|0
+= 0, epn(|SYM CD NNS|BODY_27|0
+the nash equilibria|DT NN NN|BODY_2|0
+¥ tiâˆ ’|NN NN NN|BODY_8|0
+n and 1/|NN CC CD|BODY_8|0
+the same action|DT JJ NN|BODY_4|0
+1 âˆ ’|CD NN NN|BODY_1|0
+v -event points|RB JJ NNS|BODY_25|0
+the point u1|DT NN NN|BODY_1|0
+any strategy profile|DT NN NN|BODY_1|0
+an algebraic number|DT JJ NN|BODY_1|0
+g and epvi|NN CC NN|BODY_11:BODY_4:BODY_8|0
+a two-action game|DT JJ NN|BODY_1|0
+some nash equilibrium|DT JJ NN|BODY_3|0
+the smallest î¾|DT JJS NN|BODY_3|0
+v0 is 0|CD VBZ CD|BODY_22|0
+vâˆ’1 is 0|CD VBZ CD|BODY_11|0
+vi = 0,|NN SYM CD|BODY_9|0
+vi = 1|NN SYM CD|BODY_4|0
+5.1 exact computation|CD JJ NN|BODY_1|0
+lipton and markakis|NN CC NN|BODY_1|0
+the payoff constraints|DT NN NNS|BODY_5|0
+payoff nash equilibria|NN NN NN|BODY_1|0
+a rational number|DT JJ NN|BODY_9|0
+the np-hardness results|DT NN NNS|BODY_1|0
+vi = 1/2|NN SYM CD|BODY_1|0
+the upstream pass|DT JJ NN|BODY_1|0
+n-player games )|JJ NNS -RRB-|BODY_11|0
+v < 1/2|FW FW CD|BODY_1|0
+v0 < 1/2|DT JJ CD|BODY_1|0
+high algebraic degree|JJ JJ NN|BODY_11|0
+high algebraic complexity|JJ JJ NN|BODY_16|0
+1.2 related work|CD VBN NN|BODY_1|0
+5 )/5 )|CD CD -RRB-|BODY_7|0
+infinite mediation value|JJ NN NN|BODY_3|0
+âˆˆ y }|JJ NN NN|BODY_6|0
+our game u0|PRP$ NN NN|BODY_3|0
+the negative result|DT JJ NN|BODY_1|0
+this paper [10]|DT NN NN|BODY_6|0
+time o(nn3 )|NN NNS -RRB-|BODY_8|0
+the above assumptions|DT JJ NNS|BODY_1|0
+the resulting game|DT JJ NN|BODY_1|0
+define ml,k i|VB NN NN|BODY_1|0
+define ë†ml,k i|VB NN NN|BODY_1|0
+any two entries|DT CD NNS|BODY_6|0
+v0 = 1/2|DT SYM CD|BODY_1|0
+certain socially-desirable properties|JJ JJ NNS|BODY_4|0
+si)1âˆ’l sm i+1(|JJ NN NN|BODY_15|0
+u)w + p11uw|JJ NN NN|BODY_8|0
+r \ q|NN NN NN|BODY_15|0
+a local maximum|DT JJ NN|BODY_15|0
+the crucial difference|DT JJ NN|BODY_1|0
+the ë†ml,k i|DT NN NN|BODY_1|0
+argmaxsâˆˆs ep(s )|JJ NNS -RRB-|BODY_13|0
+the first attempt|DT JJ NN|BODY_1|0
+the previous subsection|DT JJ NN|BODY_6|0
+state our result|NN PRP$ NN|BODY_1|0
+no irrational coordinates|DT JJ NNS|BODY_18|0
+o( n3 )|JJ NNS -RRB-|BODY_4|0
+the modified algorithm|DT VBN NN|BODY_1|0
+v and w|NN CC NN|BODY_5|0
+du g(u )|NNP NN -RRB-|BODY_6|0
+a useful property|DT JJ NN|BODY_1|0
+a certain threshold|DT JJ NN|BODY_7|0
+1.1 our results|CD PRP$ NNS|BODY_1|0
+the underlying game|DT JJ NN|BODY_7|0
+theorem 3 )|NN CD -RRB-|BODY_9|0
+an edge (v|DT NN NN|BODY_1|0
+the other players|DT JJ NNS|BODY_11|0
+a boundeddegree tree|DT NN NN|BODY_10|0
+a node v|DT NN NN|BODY_1|0
+tn and >|NN CC NN|BODY_5|0
+the maximum degree|DT JJ NN|BODY_1|0
+the input size|DT NN NN|BODY_10|0
+the player vâˆ’1|DT NN NN|BODY_1|0
+only polynomially-many rectangles|RB JJ NNS|BODY_5|0
+the kth step|DT JJ NN|BODY_1|0
+the strategy profiles|DT NN NNS|BODY_1|0
+total payoff [18]|JJ NN NN|BODY_5|0
+by and loop|IN CC NN|BODY_6|0
+a fixed >|DT JJ NN|BODY_1|0
+an > 0,|DT JJ NN|BODY_1|0
+mk ,l i|JJ JJ NN|BODY_1|0
+n > 5n|RB JJ CD|BODY_2|0
+q1(x ) <|NN -RRB- NN|BODY_7|0
+the next subsection|DT JJ NN|BODY_1|0
+u0 = 0,|DT SYM JJ|BODY_1|0
+using claim 1|VBG NN CD|BODY_1|0
+x < x|NN NN NN|BODY_1|0
+zk ,l i|JJ JJ NN|BODY_1|0
+a pseudopolynomial algorithm|DT JJ NN|BODY_24|0
+approximate such equilibria|JJ JJ NN|BODY_2|0
+the other hand|DT JJ NN|BODY_1|0
+an nvertex path|DT JJ NN|BODY_3|0
+as uâˆ’1 varies|IN CD NNS|BODY_1|0
+any other value|DT JJ NN|BODY_1|0
+mixed strategy w|JJ NN VBD|BODY_23|0
+the desired properties|DT VBN NNS|BODY_10|0
+a given requirement|DT VBN NN|BODY_5|0
+log pmax bits|NN NN NNS|BODY_5|0
+one attractive feature|CD JJ NN|BODY_1|0
+the corresponding problems|DT JJ NNS|BODY_11|0
+v > 1/2|RB JJ CD|BODY_1|0
+v0 > 1/2|DT JJ CD|BODY_1|0
+vi > 1/2|NNP NNP CD|BODY_1|0
+vâˆ’1 < 1/2|DT JJ CD|BODY_1|0
+the set|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|1
+the case|DT NN|BODY_6:BODY_15:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_10|2
+v|NN|BODY_12:BODY_17:BODY_23:BODY_2:BODY_3:BODY_14:BODY_4:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_9|0
+the payoffs|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|1
+the payoff|DT NN|BODY_6:BODY_11:BODY_5:BODY_57:BODY_15:BODY_21:BODY_2:BODY_1:BODY_3:BODY_4|0
+the proof|DT NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|0
+our algorithm|PRP$ NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_7:BODY_8|0
+1 âˆ|CD NN|BODY_5:BODY_16:BODY_3:BODY_14:BODY_7:BODY_8|0
+âˆ ’|CD NNS|BODY_12:BODY_5:BODY_11:BODY_3:BODY_14:BODY_7:BODY_9|0
+the strategy|DT NN|BODY_6:BODY_16:BODY_13:BODY_2:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+v )|NN -RRB-|BODY_12:BODY_6:BODY_2:BODY_24:BODY_3:BODY_4:BODY_7:BODY_8|0
+r(x )|NN -RRB-|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+the strategies|DT NNS|BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_19:BODY_51:BODY_29:BODY_9|0

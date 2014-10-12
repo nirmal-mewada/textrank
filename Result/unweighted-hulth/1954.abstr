@@ -1,0 +1,33 @@
+confidence intervals|NN NNS|BODY_3:BODY_4|0
+asymptotic properties|JJ NNS|BODY_2|0
+asymptotic values|JJ NNS|BODY_5|0
+heuristic values|JJ NNS|BODY_2|0
+simulated series|VBN NN|BODY_5|0
+it|PRP|BODY_3|0
+some authors|DT NNS|BODY_3|0
+the r/s statistics|DT NN NNS|BODY_4|0
+their accuracy|PRP$ NN|BODY_4|0
+samples|NNS|BODY_4|0
+asset returns|NN NNS|BODY_7|0
+fluctuation analysis and periodogram regression methods|NN NN CC NN NN NNS|BODY_3|0
+the behavior|DT NN|BODY_6|0
+long-range dependence|JJ NN|BODY_2:BODY_1|0
+finite sample properties|JJ NN NNS|BODY_2|0
+we|PRP|BODY_1|0
+r/s analysis|JJ NN|BODY_2|0
+a major issue|DT JJ NN|BODY_4|0
+financial economics|JJ NNS|BODY_5|0
+no asymptotic distribution theory|DT JJ NN NN|BODY_1|0
+the dfa statistics|DT NN NNS|BODY_1|0
+the unanimous winner|DT JJ NN|BODY_2|0
+this statistics|DT NNS|BODY_2|0
+i .e|FW FW|BODY_3|0
+empirical (|JJ -LRB-|BODY_2|0
+different lengths|JJ NNS|BODY_6|0
+some|DT|BODY_1|0
+the obtained values|DT VBN NNS|BODY_1|0
+the periodogram regression method|DT NN NN NN|BODY_6|0
+long horizons|JJ NNS|BODY_8|0
+gaussian white noise|JJ JJ NN|BODY_5|0
+various estimators|JJ NNS|BODY_1|0
+all three methods|DT CD NNS|BODY_5|0

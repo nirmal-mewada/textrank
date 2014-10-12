@@ -1,0 +1,177 @@
+we|PRP|BODY_15:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:ABSTRACT_1:ABSTRACT_7:BODY_10:BODY_8|9
+it|PRP|BODY_11:BODY_22:BODY_17:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+that|IN|BODY_6:BODY_11:BODY_5:ABSTRACT_4:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+there|EX|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_15:BODY_13:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_11:BODY_16:BODY_15:BODY_2:BODY_1:BODY_3:BODY_19:BODY_4:BODY_7|3
+the conference|DT NN|BODY_6:BODY_21:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_20:BODY_9|2
+clients|NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8:BODY_9|0
+packets|NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_8|0
+this|DT|BODY_5:BODY_2:BODY_1|0
+css|NN|BODY_12:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+them|PRP|BODY_6:BODY_5:BODY_13:BODY_1:BODY_4:BODY_19:BODY_7:BODY_8:BODY_9|0
+fig|NN|BODY_5:BODY_2:BODY_1:BODY_3|1
+the clients|DT NNS|BODY_2:BODY_3:BODY_4:BODY_7|0
+the total number|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+traffic|NN|BODY_11:BODY_2:BODY_1:BODY_3|0
+f|NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+c|NN|BODY_5:BODY_1:BODY_4|1
+)|-RRB-|BODY_6:BODY_5:BODY_13:BODY_2:BODY_7:BODY_8|1
+mixing|NN|BODY_6:BODY_5:BODY_3:BODY_9|0
+one|CD|BODY_1:BODY_4:BODY_8|0
+the traffic|DT NN|ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_7|1
+the case|DT NN|BODY_6:BODY_1:BODY_2:BODY_10|0
+the weight|DT NN|BODY_17:BODY_3:BODY_14:BODY_20|0
+a cs|DT NNS|BODY_17:BODY_2:BODY_1:BODY_3|1
+a domain|DT NN|BODY_2:BODY_10:BODY_4:BODY_8|0
+the internet|DT NN|BODY_11:ABSTRACT_5:BODY_2:BODY_3:BODY_4|0
+]|NN|BODY_2:BODY_3:BODY_4|0
+the domain|DT NN|BODY_12:BODY_5:BODY_4:BODY_7|0
+they|PRP|BODY_5:BODY_3:BODY_4|0
+i .e|FW FW|BODY_6:BODY_5:BODY_14:BODY_7|0
+nmax streams|NN NNS|BODY_12:BODY_3:BODY_7:BODY_8|0
+a voip conferencing system|DT NN VBG NN|TITLE_2:BODY_3|0
+the m-cs|DT NNS|BODY_2:BODY_1:BODY_3:BODY_8|0
+a conference|DT NN|BODY_11:BODY_13:BODY_1:BODY_8:BODY_20|1
+active clients|JJ NNS|BODY_12:BODY_2:BODY_3:BODY_4:BODY_8|0
+the network|DT NN|BODY_5:BODY_4:BODY_7|1
+many streams and traffic|JJ NNS CC NN|BODY_2|0
+only 10 packet time|RB CD NN NN|BODY_3|0
+voice & video applications|NN CC NN NNS|BODY_3|0
+a real-time interactive conversation|DT NN JJ NN|BODY_2|0
+the speaker|DT NN|BODY_2:BODY_4:BODY_7|0
+the activity horizon window|DT NN NN NN|BODY_6:BODY_22|0
+a subsequent packet period|DT JJ NN NN|BODY_3|0
+'s perspective and interactions|POS NN CC NNS|BODY_5|0
+more advanced control mechanisms|JJR JJ NN NNS|BODY_4|0
+at most two css|IN JJS CD NN|BODY_4|0
+the session initiation protocol|DT NN NN NN|BODY_4|0
+( b ) echo|-LRB- NN -RRB- NN|BODY_3|0
+such very large conferences|JJ JJ JJ NNS|BODY_6|0
+a sip redirect server|DT NN NN NN|BODY_7|0
+a ) packet delay|DT -RRB- NN NN|BODY_2|0
+a real  conference|DT JJ NN NN|BODY_11|0
+the lowest ln (|DT JJS NN -LRB-|BODY_3|0
+other css|JJ NN|BODY_6:BODY_5:BODY_18:BODY_15:BODY_10:BODY_9|1
+a sip registrar server|DT NN NN NN|BODY_6|0
+rosenberg and schulzrinne [23|NNP CC NN NNS|BODY_2|0
+the latter using unicast|DT JJ VBG NN|BODY_3|0
+332211 *l*l*l î±î±î±î» ++|CD JJ JJ JJ|BODY_4|0
+( 5 ) (|-LRB- CD -RRB- -LRB-|BODY_7|0
+each newly created s-cs|DT RB VBN NNS|BODY_1|0
+similar mechanisms and problems|JJ NNS CC NNS|BODY_2|0
+step d form db1|NN VBN NN NNS|BODY_2|0
+[14] and [16] )|NN CC NN -RRB-|BODY_6|0
+( c ) mixing|-LRB- NN -RRB- NN|BODY_4|0
+a sip proxy server|DT NN NN NN|BODY_5|0
+simply a conference server|RB DT NN NN|BODY_8|0
+> 3 ghz )|NN CD NN -RRB-|BODY_3|0
+1 ahp p k|CD NN NN NN|BODY_16|0
+regular sip user agents|JJ JJ NN NNS|BODY_3|0
+these nmax audio packets|DT JJ JJ NNS|BODY_2|0
+the distant past window|DT JJ NN NN|BODY_7|0
+2 ) âˆ ‘|CD -RRB- NNS .|BODY_13|0
+( teleconference ) facility|-LRB- NN -RRB- NN|BODY_3|0
+many conferencing architecture schemes|JJ VBG NN NNS|BODY_6|0
+the following characteristics [12]|DT VBG NNS JJ|BODY_2|0
+multicast and o(d )|NN CC NN -RRB-|BODY_4|0
+1 ) âˆ ‘|CD -RRB- NNS .|BODY_8|0
+the current audio stream|DT JJ NN NN|BODY_5|0
+the nmax local streams|DT JJ JJ NNS|BODY_3|0
+the slow varying nature|DT JJ VBG NN|BODY_4|0
+slot ( packet time|NN -LRB- NN NN|BODY_4|0
+m ( 7 )|NN -LRB- CD -RRB-|BODY_20|0
+an audio service framework|DT JJ NN NN|ABSTRACT_3|0
+the voip conferencing system|DT NN VBG NN|BODY_2|1
+this most dominant stream|DT JJS JJ NN|BODY_2|0
+essentially a one-speakerat-a-time affair|RB DT JJ NN|BODY_21|0
+1 2  dqg|CD CD JJ NN|BODY_11|0
+square ( rms )|JJ -LRB- NNS -RRB-|BODY_5|0
+at most nmax clients|IN JJS JJ NNS|BODY_2|0
+the recent past window|DT JJ NN NN|BODY_6|0
+audio streams|NN NNS|BODY_11:BODY_15:BODY_3:BODY_7|0
+at least one stream|IN JJS CD NN|BODY_3|0
+more than one channel|JJR IN CD NN|BODY_2|0
+more than two participants|JJR IN CD NNS|BODY_2|0
+a face-to-face-like conferencing application|DT JJ NN NN|BODY_9|0
+the top nmax streams|DT JJ NN NNS|BODY_6|0
+a third party solution|DT JJ NN NN|BODY_3|0
+corporate or educational networks|JJ CC JJ NNS|BODY_3|0
+india .iv ii performance|DT NNP NNS NN|BODY_3|0
+the core sip specification|DT NN NN NN|BODY_1|0
+the most popular standard|DT RBS JJ NN|BODY_3|0
+virtual conferencing environments (vces|JJ NN NNS NNS|BODY_7|0
+direct ua-to-ua media communication|JJ NN NNS NN|BODY_4|0
+¢ partial mixing [18]|RB JJ NN NN|BODY_6|0
+the packet amplitude (xk)|DT NN NN NN|BODY_4|0
+the activity and amplitude|DT NN CC NN|BODY_6|0
+the best nmax packets|DT JJS NN NNS|BODY_2|0
+several relevant logical components|JJ JJ JJ NNS|BODY_3|0
+a more recent work|DT JJR JJ NN|BODY_3|0
+the best three clients|DT JJS CD NNS|BODY_2|0
+a wide area network|DT JJ NN NN|BODY_9|0
+( e ) playout|-LRB- NN -RRB- NN|BODY_10|0
+the present amplitude level|DT JJ NN NN|BODY_3|0
+the  loudness number|DT JJ NN NN|BODY_3|0
+all the active clients|DT DT JJ NNS|BODY_6|0
+even video conference )|RB JJ NN -RRB-|BODY_17|0
+the one taking care|DT CD VBG NN|BODY_7|0
+the ip protocol suite|DT NN NN NN|BODY_3|0
+some very useful suggestions|DT RB JJ NNS|BODY_3|0
+a few time slots|DT JJ NN NNS|BODY_3|0
+all the signaling aspects|DT DT VBG NNS|BODY_9|0
+the most dominant stream|DT RBS JJ NN|BODY_9|0
+subsections 6.1 and 6.2|NNS CD CC CD|BODY_4|1
+the same criterion )|DT JJ NN -RRB-|BODY_6|0
+a few conference models|DT JJ NN NNS|BODY_2|1
+( nmax-1 ) streams|-LRB- NN -RRB- NNS|BODY_2|0
+( nmax-2 ) streams|-LRB- NN -RRB- NNS|BODY_2|0
+( 2 ) delay|-LRB- CD -RRB- NN|BODY_1|0
+the recent past speech|DT JJ JJ NN|BODY_15|0
+mixed and non-mixed streams|JJ CC JJ NNS|BODY_4|0
+a conference server|DT NN NN|ABSTRACT_2:BODY_3:BODY_8|0
+selection|NN|BODY_5:BODY_1:BODY_2|1
+> = nmax streams|JJ SYM NN NNS|BODY_5|0
+all the above requirements|PDT DT JJ NNS|BODY_1|0
+an appropriate audio format|DT JJ JJ NN|BODY_8|0
+interoperability and peer acceptance|NN CC NN NN|BODY_8|0
+categories and subjects descriptors|NNS CC NNS NNS|ABSTRACT_1|0
+the previous time slot|DT JJ NN NN|BODY_5|0
+the maximum theoretical number|DT JJ JJ NN|BODY_2|0
+the server and bandwidth|DT NN CC NN|BODY_4|0
+the latest ietf draft|DT JJS NN NN|BODY_1|0
+the proposed system architecture|DT JJ NN NN|BODY_5|1
+best effort data delivery|JJS NN NNS NN|BODY_7|0
+all these desirable characteristics|PDT DT JJ NNS|BODY_1|0
+a voip conferencing support|DT NN VBG NN|BODY_7|0
+the resulting traffic complexity|DT VBG NN NN|BODY_1|0
+a natural face-to-face meeting|DT JJ JJ NN|BODY_5|0
+a real face-to-face conference|DT JJ JJ NN|BODY_6|0
+other existing sip-compatible systems|JJ VBG JJ NNS|BODY_7|0
+a related study [19]|DT JJ NN NN|BODY_1|0
+mere individual packet energies|JJ JJ NN NNS|BODY_4|0
+the net network traffic|DT JJ NN NN|BODY_1|0
+pessimistic and optimistic algorithms|JJ CC JJ NNS|BODY_1|0
+the previous packet period|DT JJ NN NN|BODY_9|0
+each other remote domains|DT JJ JJ NNS|BODY_15|0
+each m-cs { 1|DT JJ NN CD|BODY_3|0
+audio and video conferencing|NN CC NN NN|BODY_1|0
+db2 ( set f)|NN -LRB- VBN NN|BODY_6|0
+the past few intervals|DT JJ JJ NNS|BODY_8|0
+the next subsection )|DT JJ NN -RRB-|BODY_11|0
+domain ( nomadism )|NN -LRB- NN -RRB-|BODY_12|0
+a virtual conferencing environment|DT JJ VBG NN|TITLE_3|0
+a floor control mechanism|DT NN NN NN|BODY_1|0
+internet|NN|BODY_2:BODY_4|0
+other css form db2|JJ JJ NN NN|BODY_2|0
+the next packet period|DT JJ NN NN|BODY_5|0
+a physical face-to-face conference|DT JJ JJ NN|ABSTRACT_5|0
+all the above proposals|DT DT JJ NNS|BODY_1|0
+all its active clients|DT PRP$ JJ NNS|BODY_12|0
+the same mixing interval|DT JJ NN NN|BODY_1|0
+m|NN|BODY_5:BODY_14:BODY_4:BODY_29|0
+sip|NN|BODY_2:BODY_1:BODY_3:BODY_4|1
+each time slot|DT NN NN|BODY_5:BODY_2:BODY_4|0
+.e|NN|BODY_18:BODY_4:BODY_7:BODY_8|1
+ loudness number|JJ NN NN|ABSTRACT_3:BODY_10|0
+the same time|DT JJ NN|ABSTRACT_4:BODY_7:BODY_8|1

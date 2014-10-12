@@ -1,0 +1,457 @@
+we|PRP|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7|9
+the application|DT NN|BODY_12:BODY_2:BODY_3:BODY_24:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_9|3
+that|WDT|BODY_6:BODY_5:BODY_22:ABSTRACT_4:BODY_3:BODY_10:BODY_4:BODY_7|3
+resources|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_21:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+our approach|PRP$ NN|BODY_6:BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_7|1
+us|PRP|BODY_5:ABSTRACT_2:BODY_2:BODY_4:BODY_7:BODY_9|0
+adaptation|NN|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_10:BODY_8:BODY_9|0
+an application|DT NN|BODY_6:ABSTRACT_4:ABSTRACT_2:BODY_1:BODY_2:BODY_4:BODY_7|0
+one important problem|CD JJ NN|BODY_1:ABSTRACT_1|2
+a number|DT NN|BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4|0
+resource selection|NN NN|BODY_1:BODY_2:ABSTRACT_3|2
+a performance model|DT NN NN|BODY_6:ABSTRACT_3:BODY_4|0
+the application run|DT NN NN|BODY_6:ABSTRACT_4|0
+significant performance improvements|JJ NN NNS|ABSTRACT_6:BODY_8|0
+the grid environment|DT NN NN|ABSTRACT_4:BODY_9|0
+the resource|DT NN|ABSTRACT_2:BODY_2:BODY_3:BODY_8|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+an appropriate resource|DT JJ NN|ABSTRACT_4|1
+[computer communication networks]|NN NN NN|ABSTRACT_2|0
+a complex task|DT JJ NN|ABSTRACT_2|0
+these two problems|DT CD NNS|ABSTRACT_2|0
+very slow processors|RB JJ NNS|ABSTRACT_5|0
+overloaded wan links|JJ NN NNS|ABSTRACT_4|0
+the changing characteristics|DT VBG NNS|ABSTRACT_3|0
+it|PRP|BODY_6:BODY_12:BODY_11:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|1
+which|WDT|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+processors|NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|1
+nodes|NNS|BODY_6:BODY_11:BODY_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the processors|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the weighted average efficiency|DT JJ JJ NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+the computation|DT NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the number|DT NN|BODY_6:BODY_5:BODY_17:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10|0
+resource selection and adaptation|NN NN CC NN|BODY_5:BODY_4|1
+the performance and availability|DT NN CC NN|BODY_2|1
+fault tolerant and malleable|NN NN CC NN|BODY_4|1
+emax = 50 %|JJ SYM CD NN|BODY_3|1
+a higher priority application|DT JJR NN NN|BODY_10|1
+the coordinator|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+applications|NNS|BODY_5:BODY_3:BODY_4|1
+efficiency|NN|BODY_6:BODY_5:BODY_2:BODY_1|1
+the resource selection problem|DT NN NN NN|BODY_1:BODY_2|0
+the das-2 wide-area system|DT NN JJ NN|BODY_2:BODY_4|0
+a high system utilization|DT JJ NN NN|BODY_3|0
+the performance degradation detection|DT NN NN NN|BODY_3|0
+the resource selection phase|DT NN NN NN|BODY_1:BODY_3|0
+e .g. , mw|NN NNP , NN|BODY_3|0
+a low execution time|DT JJ NN NN|BODY_2|0
+the best resource set|DT JJS NN NN|BODY_5|0
+the best application schedule|DT JJS NN NN|BODY_6|0
+a b c scenario|DT NN NN NN|BODY_2|0
+the bandwidth|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_7:BODY_9|0
+all possible resource sets|DT JJ NN NNS|BODY_3|0
+the ibis communication library|DT NN NN NN|BODY_4|0
+bandwidth problems and processors|JJ NNS CC NNS|BODY_9|0
+once the performance model|RB DT NN NN|BODY_2|0
+roughly 10-60 % )|RB CD NN -RRB-|BODY_7|0
+the adaptation coordinator|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+runtime 3 and 1|NN CD CC CD|BODY_2|0
+1 âˆ ’ overheadi|CD NN JJ NN|BODY_9|0
+divide-and-conquer primitives and compiles|JJ NNS CC NNS|BODY_4|0
+2 lightly overloaded nodes|CD RB VBN NNS|BODY_8|0
+the real execution times|DT JJ NN NNS|BODY_5|0
+a grid scheduling system|DT NN NN NN|BODY_4|0
+the ict innovation program|DT JJ NN NN|BODY_6|0
+the previous monitoring period|DT JJ NN NN|BODY_7|0
+13 % ( figure|CD NN -LRB- NN|BODY_2|0
+30 % ( figure|CD NN -LRB- NN|BODY_3|0
+60 % ( figure|CD NN -LRB- NN|BODY_2|0
+0 < speed â‰|CD JJ NN NNS|BODY_4|0
+its problem size )|PRP$ NN NN -RRB-|BODY_5|0
+a standard metric describing|DT JJ JJ VBG|BODY_3|0
+the right problem size|DT JJ NN NN|BODY_4|0
+1.2 ( scenario 1c|CD -LRB- NN JJ|BODY_7|0
+a special satin compiler|DT JJ NN NN|BODY_6|0
+larger than 0.25 )|JJR IN CD -RRB-|BODY_4|0
+around 50 % )|IN CD NN -RRB-|BODY_8|0
+an overloaded network link|DT JJ NN NN|BODY_3|0
+the satin runtime system|DT JJ NN NN|BODY_2|0
+the badly connected cluster|DT RB VBN NN|BODY_2|0
+overloaded networks and processors|JJ NNS CC NNS|BODY_10|0
+more accurate migration decisions|RBR JJ NN NNS|BODY_4|0
+200 to 1150 seconds|CD TO CD NNS|BODY_4|0
+the non-adaptive version exhibits|DT JJ NN NNS|BODY_1|0
+the first monitoring period|DT JJ NN NN|BODY_3|0
+available grid resources increases|JJ NN NNS NNS|BODY_2|0
+the node badness formula|DT NN NN NN|BODY_2|0
+¢ migrating ( part|NN JJ -LRB- NN|BODY_12|0
+our adaptivity strat124 egy|PRP$ NN NNS NN|BODY_6|0
+the minimal execution time|DT JJ NN NN|BODY_9|0
+overhead (ic overhead )|RB JJ RB -RRB-|BODY_16|0
+a peer-to-peer supercomputing middleware|DT JJ NN NN|BODY_3|0
+lower than 50 %|JJR IN CD NN|BODY_5|0
+a small problem size|DT JJ NN NN|BODY_3|0
+170 to 890 seconds|CD TO CD NNS|BODY_4|0
+30 % or lower|CD NN CC JJR|BODY_2|0
+a very irregular structure|DT RB JJ NN|BODY_2|0
+ww .vl-e .nl )|JJ NN NN -RRB-|BODY_5|0
+the 122 whole application|DT CD JJ NN|BODY_2|0
+the satin divide-and-conquer framework|DT NN NN NN|BODY_3|0
+approximately 5 times )|RB CD NNS -RRB-|BODY_5|0
+emin maxe figure 1|JJ JJ NN CD|BODY_11|0
+an analytical performance model|DT JJ NN NN|BODY_1|0
+search and optimization problems|NN CC NN NNS|BODY_4|0
+the previous adaptation decisions|DT JJ NN NNS|BODY_5|0
+126 5.4 scenario 3|CD CD NN CD|BODY_1|0
+3.1 weighted average efficiency|CD JJ JJ NN|BODY_1|0
+the resulting resource set|DT VBG NN NN|BODY_6|0
+both coordinator and satin|DT NN CC NN|BODY_1|0
+100 to 200 seconds|CD TO CD NNS|BODY_3|0
+2. background and assumptions|DT NN CC NNS|BODY_1|0
+five dutch uni125 versities|CD JJ CD NNS|BODY_6|0
+equal or similar size|JJ CC JJ NN|BODY_7|0
+a grid monitoring system|DT NN NN NN|BODY_2|0
+inter-cluster and intracluster communication|NN CC NN NN|BODY_4|0
+the barnes-hut n-body simulation|DT NN NN NN|BODY_3|0
+the following resource model|DT VBG NN NN|BODY_2|0
+our simple adaptation strategy|PRP$ JJ NN NN|BODY_1|0
+this simple adaptation strategy|DT JJ NN NN|BODY_1|0
+the initial resource selection|DT JJ NN NN|BODY_8|0
+the currently used processors|DT RB VBN NNS|BODY_8|0
+the shortest predicted runtime|DT JJS VBN NN|BODY_6|0
+an application specific way|DT NN JJ NN|BODY_7|0
+adding or removing processors|VBG CC VBG NNS|BODY_4|0
+an application specific benchmark|DT NN JJ NN|BODY_2|0
+sequential or single-site applications|JJ CC JJ NNS|BODY_4|0
+local and remote stealing|JJ CC JJ VBG|BODY_8|0
+both cactus and gridway|DT NN CC NN|BODY_1|0
+a reasonable performance level|DT JJ NN NN|BODY_1|0
+the changing grid conditions|DT VBG NN NNS|BODY_3|0
+1 or 2 clusters|CD CC CD NNS|BODY_2|0
+at least 50 %|IN JJS CD NN|BODY_7|0
+hundreds or thousands )|NNS CC NNS -RRB-|BODY_8|0
+multiple clusters and/or supercomputers|JJ NNS CC NNS|BODY_7|0
+new , better resources|JJ , JJR NNS|BODY_1|0
+the compute nodes|DT NN NNS|BODY_5:BODY_7|1
+our resource selection|PRP$ NN NN|BODY_3|1
+the network links|DT NN NNS|BODY_5|1
+another important problem|DT JJ NN|BODY_1|1
+the efficiency|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+( 23 )|-LRB- CD -RRB-|BODY_1|1
+the iteration duration|DT NN NN|BODY_5:BODY_2:BODY_4|0
+the overhead|DT NN|BODY_5:BODY_3|0
+the total runtime|DT JJ NN|BODY_11:BODY_1:BODY_2|0
+the benchmarking overhead|DT NN NN|BODY_6:BODY_2|0
+the iteration durations|DT NN NNS|BODY_1:BODY_2|0
+the adaptation component|DT NN NN|BODY_2:BODY_4:BODY_8|0
+weighted average efficiency|JJ JJ NN|BODY_6:BODY_1:BODY_3|0
+emin and emax|NN CC NN|BODY_2:BODY_3:BODY_4|0
+the monitoring period|DT NN NN|BODY_1:BODY_3|0
+such a model|JJ DT NN|BODY_1:BODY_2|0
+the globus toolkit|DT NN NN|BODY_14:BODY_3|0
+the application requirements|DT NN NNS|BODY_2:BODY_3|0
+the application programmer|DT NN NN|BODY_6:BODY_2|0
+a cluster|DT NN|BODY_5:BODY_1:BODY_2:BODY_4:BODY_10|0
+the internet backbone|DT NN NN|BODY_4:BODY_9|0
+the speed|DT NN|BODY_13:BODY_2:BODY_9|0
+1 n âˆ|CD NN NN|BODY_10:BODY_7|0
+a case-by-case basis|DT JJ NN|BODY_3|0
+a great variation|DT JJ NN|BODY_2|0
+a monitoring period|DT NN NN|BODY_3:BODY_4|0
+the relative importance|DT JJ NN|BODY_2|0
+this|DT|BODY_1|0
+the same time|DT JJ NN|BODY_3:BODY_7|0
+the adaptation strategy|DT NN NN|BODY_5:BODY_3|0
+the right number|DT JJ NN|BODY_2:BODY_3|0
+the optimal number|DT JJ NN|BODY_1:BODY_2:BODY_4|0
+the barnes-hut application|DT JJ NN|BODY_2|0
+dynamic load-balancing strategies|JJ NN NNS|BODY_2|0
+gridenabled master-worker applications|VBN NN NNS|BODY_5|0
+traditional parallel computing|JJ JJ NN|BODY_2:BODY_4|0
+possible resource sets|JJ NN NNS|BODY_6:BODY_3|0
+the koala metascheduler|DT NN NN|BODY_2|0
+an attractive paradigm|DT JJ NN|BODY_2|0
+programming grid applications|NN NN NNS|BODY_3|0
+the adaptation problem|DT NN NN|BODY_2:BODY_1|0
+a low latency|DT JJ NN|BODY_4|0
+a scheduling agent|DT NN NN|BODY_2|0
+the application processes|DT NN NNS|BODY_3:BODY_4|0
+grid-enabled divide-and-conquer applications|JJ JJ NNS|BODY_6:BODY_5|0
+î² âˆ —|JJ FW FW|BODY_7:BODY_8|0
+the performance model|DT NN NN|BODY_4|0
+a large set|DT JJ NN|BODY_3|0
+the adaptive version|DT JJ NN|BODY_5:BODY_1|0
+the task graph|DT NN NN|BODY_5|0
+highly portable (|RB JJ -LRB-|BODY_2|0
+our adaptation strategy|PRP$ NN NN|BODY_2:BODY_1|0
+the nonadaptive version|DT JJ NN|BODY_2|0
+the inter-site communication|DT JJ NN|BODY_6|0
+real-world grid applications|NN NN NNS|BODY_1|0
+the apples software|DT NNS NN|BODY_2|0
+the different sites|DT JJ NNS|BODY_1|0
+ic overhead >|JJ NN NN|BODY_7|0
+this problem size|DT NN NN|BODY_6:BODY_7|0
+adaptation one cluster|NN CD NN|BODY_5:BODY_4|0
+the fault detection|DT NN NN|BODY_3|0
+a fast lan|DT JJ NN|BODY_3|0
+average inter-cluster overhead|JJ NN NN|BODY_4|0
+a schematic view|DT JJ NN|BODY_2|0
+only a subset|RB DT NN|BODY_2|0
+more sophisticated functionality|RBR JJ NN|BODY_3|0
+minimal required bandwidth|JJ JJ NN|BODY_2|0
+the application runtime|DT NN NN|BODY_1:BODY_2|0
+no adaptation (|DT NN -LRB-|BODY_8|0
+clusters and supercomputers|NNS CC NNS|BODY_5|0
+the system utilization|DT NN NN|BODY_4|0
+regular master-worker applications|JJ NN NNS|BODY_9|0
+of 72 nodes|IN CD NNS|BODY_3|0
+the apples project|DT NNS NN|BODY_2|0
+an alternative approach|DT JJ NN|BODY_1:BODY_3|0
+a random subset|DT JJ NN|BODY_4|0
+a certain level|DT JJ NN|BODY_2|0
+( 13 )|-LRB- CD -RRB-|BODY_2|0
+much computational power|JJ JJ NN|BODY_2|0
+the same speed|DT JJ NN|BODY_4|0
+standard grid middleware|NN NN NN|BODY_13|0
+around 35 %|IN CD NN|BODY_3|0
+the removed cluster|DT VBN NN|BODY_7|0
+an iterative application|DT JJ NN|BODY_2|0
+different processor speeds|JJ NN NNS|BODY_2|0
+the traffic-shaping techniques|DT NN NNS|BODY_3|0
+the application performance|DT NN NN|BODY_5:BODY_1|0
+no performance model|DT NN NN|BODY_3|0
+the adaptation overhead|DT NN NN|BODY_3|0
+certain application phases|JJ NN NNS|BODY_4|0
+the performance problem|DT NN NN|BODY_5|0
+î± = 1|NN SYM CD|BODY_3|0
+traditional parallel machines|JJ JJ NNS|BODY_4|0
+the dutch ministry|DT JJ NN|BODY_3|0
+a single cluster|DT JJ NN|BODY_2|0
+another application (|DT NN -LRB-|BODY_5|0
+static load balancing|JJ NN NN|BODY_2|0
+the faster changes|DT RBR NNS|BODY_3|0
+the fastest processors|DT JJS NNS|BODY_2|0
+poor communication links|JJ NN NNS|BODY_17|0
+them|PRP|BODY_11:BODY_2:BODY_4:BODY_10|0
+around 100 seconds|IN CD NNS|BODY_6:BODY_3|0
+an ideal situation|DT JJ NN|BODY_2|0
+serious performance bottlenecks|JJ NN NNS|BODY_5|0
+the three sub-scenarios|DT CD NNS|BODY_2|0
+the benchmark (|DT NN -LRB-|BODY_4|0
+the processor load|DT NN NN|BODY_8|0
+the fastest processor|DT JJS NN|BODY_15:BODY_1|0
+overloaded network link|VBN NN NN|BODY_2|0
+the annotated code|DT JJ NN|BODY_5|0
+the adaptive versions|DT JJ NNS|BODY_5|0
+the useful work|DT JJ NN|BODY_10|0
+a real alternative|DT JJ NN|BODY_3|0
+3 ( scenario|CD -LRB- NN|BODY_4|0
+a hard problem|DT JJ NN|BODY_4|0
+cluster-aware random work|JJ JJ NN|BODY_3|0
+the following values|DT JJ NNS|BODY_2|0
+speed = 1|NN SYM CD|BODY_2|0
+around 30 %|IN CD NN|BODY_2|0
+the worst cluster|DT JJS NN|BODY_2:BODY_4|0
+( 18 )|-LRB- CD -RRB-|BODY_2|0
+koala ( 15|NN -LRB- CD|BODY_8|0
+the shortest runtime|DT JJS NN|BODY_6|0
+the sequential code|DT JJ NN|BODY_3|0
+monitoring processor load|NN NN NN|BODY_3|0
+the grid community|DT NN NN|BODY_7|0
+speedi âˆ —|DT NN VBD|BODY_8|0
+slow network connections|JJ NN NNS|BODY_6|0
+the non-adaptive version|DT JJ NN|BODY_1:BODY_7|0
+the computation â€|DT NN NN|BODY_19|0
++ î³ âˆ|IN JJ FW|BODY_8|0
+a bsik grant|DT JJ NN|BODY_2|0
+¢ removing resources|NN VBG NNS|BODY_16|0
+the application runtimes|DT NN NNS|BODY_2|0
+the maximal overhead|DT JJ NN|BODY_6|0
+more regular applications|JJR JJ NNS|BODY_3|0
+the communication times|DT NN NNS|BODY_4|0
+adaptation cpu load|NN NN NN|BODY_5|0
+a java framework|DT NN NN|BODY_4|0
+eager et al|JJ NNP JJ|BODY_3|0
+the following cases|DT JJ NNS|BODY_3|0
+a performance problem|DT NN NN|BODY_6|0
+the slower nodes|DT JJR NNS|BODY_4|0
+( 19 )|-LRB- CD -RRB-|BODY_5|0
+an optimal resource|DT JJ NN|BODY_5|0
+the iteration time|DT NN NN|BODY_2|0
+the same application|DT JJ NN|BODY_2|0
+the application degree|DT NN NN|BODY_2|0
+our adaptation support|PRP$ NN NN|BODY_3|0
+the following formula|DT VBG NN|BODY_3|0
+the overloaded nodes|DT JJ NNS|BODY_1:BODY_2|0
+( 10 )|-LRB- CD -RRB-|BODY_5|0
+a high speedup|DT JJ NN|BODY_1|0
+inw orstcluster( i|JJ JJ NN|BODY_9|0
+the benchmarking frequency|DT JJ NN|BODY_4|0
+our adaptation component|PRP$ NN NN|BODY_3|0
+a java-centric framework|DT JJ NN|BODY_5|0
+( 3 minutes|-LRB- CD NNS|BODY_3|0
+the iteration times|DT NN NNS|BODY_2:BODY_1|0
+very large problems|RB JJ NNS|BODY_4|0
+the emax threshold|DT NN NN|BODY_4|0
+the total bandwidth|DT JJ NN|BODY_5|0
+a grid application|DT NN NN|BODY_4|0
+a grid (|DT NN -LRB-|BODY_27|0
+the added processor|DT VBN NN|BODY_6|0
+runtime 1 )|NN CD -RRB-|BODY_7|0
+our adaptation mechanism|PRP$ NN NN|BODY_2|0
+a membership service|DT NN NN|BODY_3|0
+a suitable set|DT JJ NN|BODY_5|0
+a reasonable assumption|DT JJ NN|BODY_3|0
+the current efficiency|DT JJ NN|BODY_3|0
+an overloaded uplink|DT JJ NN|BODY_2|0
+12 ) )|CD -RRB- -RRB-|BODY_6|0
+a given set|DT VBN NN|BODY_2|0
+the resource requirements|DT NN NNS|BODY_3|0
+the optimal resource|DT JJ NN|BODY_2|0
+a given application|DT VBN NN|BODY_7|0
+a heterogeneous set|DT JJ NN|BODY_6|0
+each monitoring period|DT NN NN|BODY_2:BODY_1|0
+a reasonable resource|DT JJ NN|BODY_3|0
+( efficiently )|-LRB- RB -RRB-|BODY_25|0
+some application requirements|DT NN NNS|BODY_3|0
+various performance bottlenecks|JJ NN NNS|BODY_5|0
+statistics and benchmarking|NNS CC NN|BODY_7|0
+3 ) figure|CD -RRB- NN|BODY_9|0
+each other or|DT JJ CC|BODY_3|0
+data transfer times|NNS NN NNS|BODY_5|0
+50 % efficiency|CD NN NN|BODY_4|0
+one main coordinator|CD JJ NN|BODY_9|0
+certain application requirements|JJ NN NNS|BODY_3|0
+some resource sets|DT NN NNS|BODY_3|0
+a heterogeneous grid|DT JJ NN|BODY_7|0
+the coordinator requests|DT NN NNS|BODY_3|0
+gat ( 3|NN -LRB- CD|BODY_4|0
+the original resources|DT JJ NNS|BODY_5|0
+an extra process|DT JJ NN|BODY_4|0
+( ez )|-LRB- NNS -RRB-|BODY_9|0
+a reasonable time|DT JJ NN|BODY_4:BODY_8|0
+the relative speeds|DT JJ NNS|BODY_3|0
+3 initial numbers|CD JJ NNS|BODY_2|0
+the last scenario|DT JJ NN|BODY_3|0
+an arbitrary set|DT JJ NN|BODY_3|0
+a parallel application|DT JJ NN|BODY_5|0
+the average utilization|DT JJ NN|BODY_2|0
+an ongoing computation|DT JJ NN|BODY_3|0
+the grid scheduler|DT NN NN|BODY_4|0
+the overloaded resources|DT JJ NNS|BODY_13:BODY_1|0
+the slowest processor|DT JJS NN|BODY_7|0
+a higher priority|DT JJR NN|BODY_3|0
+processors and overheadi|NNS CC NN|BODY_14|0
+an appropriate set|DT JJ NN|BODY_7|0
+many different situations|JJ JJ NNS|BODY_5|0
+the above scenarios|DT JJ NNS|BODY_8|0
+the worst nodes|DT JJS NNS|BODY_5|0
+the overhead statistics|DT NN NNS|BODY_4|0
+no benchmarking (|DT NN -LRB-|BODY_4|0
+the communication channels|DT NN NNS|BODY_4|0
+a reasonable number|DT JJ NN|BODY_7|0
+existing grid schedulers|VBG NN NNS|BODY_1|0
+this degree changes|DT NN NNS|BODY_10|0
+significant performance gains|JJ NN NNS|BODY_5|0
+a reasonable set|DT JJ NN|BODY_4|0
+a heuristic formula|DT JJ NN|BODY_1:BODY_3|0
+which application programmers|WDT NN NNS|BODY_4|0
+an inappropriate number|DT JJ NN|BODY_8|0
+a substantial part|DT JJ NN|BODY_6|0
+the original application|DT JJ NN|BODY_6|0
+a large fraction|DT JJ NN|BODY_4|0
+very large numbers|RB JJ NNS|BODY_6|0
+the ibis registry|DT NNPS NN|BODY_2|0
+the resulting system|DT VBG NN|BODY_1|0
+clusters or supercomputers|NNS CC NNS|BODY_5|0
+the ideal scenario|DT JJ NN|BODY_1|0
+a performance indicator|DT NN NN|BODY_10|0
+the processor speed|DT NN NN|BODY_1|0
+a grid environment|DT NN NN|BODY_1|0
+the removed processors|DT VBN NNS|BODY_5|0
+the specified overhead|DT VBN NN|BODY_4|0
+3 clusters crash|CD NNS NN|BODY_3|0
+this scenario|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+approximately 100 kb/s|RB CD NNS|BODY_7|0
+the background traffic|DT NN NN|BODY_9|0
+the main advantage|DT JJ NN|BODY_1|0
+a few scenarios|DT JJ NNS|BODY_4|0
+processor inter-cluster overheads|NN NN NNS|BODY_4|0
+the application processors|DT NN NNS|BODY_3|0
+processor clock speed|NN NN NN|BODY_1|0
+the initial values|DT JJ NNS|BODY_5|0
+the available ones|DT JJ NNS|BODY_3|0
+the main limitation|DT JJ NN|BODY_1|0
+wide121 area latencies|JJ NN NNS|BODY_3|0
+the main difference|DT JJ NN|BODY_1|0
+one monitoring period|CD NN NN|BODY_4|0
+two reusable templates|CD JJ NNS|BODY_1|0
+the weighted efficiency|DT JJ NN|BODY_1|0
+another grid scheduler|DT NN NN|BODY_2|0
+the first scenario|DT JJ NN|BODY_1|0
+( 6 )|-LRB- CD -RRB-|BODY_4|0
+the satin framework|DT JJ NN|BODY_4|0
+a trial-and-error fashion|DT NN NN|BODY_5|0
+performance degradation detection|NN NN NN|BODY_1|0
+discrete time steps|JJ NN NNS|BODY_4|0
+the remaining scenarios|DT VBG NNS|BODY_1|0
+the benchmark|DT NN|BODY_1:BODY_2:BODY_8|0
+5.3 scenario 2|CD NN CD|BODY_1|0
+5.5 scenario 4|CD NN CD|BODY_1|0
+the performance indicator|DT NN NN|BODY_5|0
+the ideal number|DT JJ NN|BODY_6|0
+high inter-cluster overhead|JJ NN NN|BODY_5|0
+the ic overhead|DT JJ NN|BODY_1|0
+5.2 scenario 1|CD NN CD|BODY_1|0
+a centralized server|DT JJ NN|BODY_2|0
+the inappropriate resources|DT JJ NNS|BODY_12|0
+scheduling master-worker applications|NN NN NNS|BODY_4|0
+15 ) )|CD -RRB- -RRB-|BODY_30|0
+each cluster )|DT NN -RRB-|BODY_4|0
+our current implementation|PRP$ JJ NN|BODY_1|0
+even entire clusters|JJ JJ NNS|BODY_5|0
+barnes-hut iteration durations|NN NN NNS|BODY_1|0
+high intercluster overhead|JJ NN NN|BODY_1|0
+the changing environment|DT VBG NN|BODY_3|0
+the adaptation support|DT NN NN|BODY_4|0
+the crashed processors|DT VBN NNS|BODY_10|0
+such low efficiency|JJ JJ NN|BODY_1|0
+the first assumption|DT JJ NN|BODY_1|0
+too many processors|RB JJ NNS|BODY_3|0
+the remaining clusters|DT VBG NNS|BODY_7|0
+longer running applications|JJR NN NNS|BODY_1|0
+the performance monitoring|DT NN NN|BODY_1|0
+all the experiments|PDT DT NNS|BODY_1|0
+almost all overhead|RB DT NN|BODY_1|0
+the fastest cluster|DT JJS NN|BODY_14|0
+3.3 adaptation strategy|CD NN NN|BODY_1|0
+the centralized implementation|DT JJ NN|BODY_1|0
+the ith processor|DT JJS NN|BODY_17|0
+3.2 application monitoring|CD NN NN|BODY_1|0
+around 40 %|RB CD NN|BODY_7|0
+the adaptation decisions|DT NN NNS|BODY_1|0
+the given assumptions|DT VBN NNS|BODY_5|0
+a non-adaptive version|DT JJ NN|BODY_6|0
+a separate process|DT JJ NN|BODY_2|0
+the worst processors|DT JJS NNS|BODY_2|0
+around 15 %|IN CD NN|BODY_3|0
+the heterogeneous world|DT JJ NN|BODY_1|0
+the more often|DT RBR RB|BODY_1|0
+a major advantage|DT JJ NN|BODY_1|0
+the related work|DT JJ NN|BODY_4|0
+the changing conditions|DT VBG NNS|BODY_3|0
+the problem size|DT NN NN|BODY_7|0
+the second assumption|DT JJ NN|BODY_1|0
+such a situation|PDT DT NN|BODY_1|0
+the highest rank|DT JJS VB|BODY_9|0
+5.6 scenario 5|CD NN CD|BODY_1|0
+runtime 3 )|NN CD -RRB-|BODY_19|0
+the on-going computation|DT JJ NN|BODY_7|0
+i .e|FW FW|BODY_12:BODY_28:BODY_3:BODY_4|0
+the performance|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+example|NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+the clusters|DT NNS|BODY_6:BODY_11:BODY_1:BODY_2:BODY_4|0
+the scheduler|DT NN|BODY_5:BODY_2:BODY_3|0
+statistics|NNS|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_7|0
+the nodes|DT NNS|BODY_6:BODY_1:BODY_2|0
+some|DT|BODY_3:BODY_4:BODY_10:BODY_7|0

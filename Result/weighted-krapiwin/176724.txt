@@ -1,0 +1,962 @@
+decision|NN|BODY_12:BODY_11:TITLE_2:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_10:BODY_7:ABSTRACT_9:BODY_8:BODY_20:BODY_9|2
+search|NN|BODY_12:BODY_11:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:TITLE_3:ABSTRACT_8:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_12:BODY_11:BODY_18:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:ABSTRACT_8:BODY_1:BODY_10:BODY_7:BODY_30:BODY_9|3
+the complexity|DT NN|TITLE_1:BODY_1|0
+which|WDT|BODY_12:BODY_11:BODY_22:BODY_16:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|2
+that|WDT|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8:ABSTRACT_12|2
+a language|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+languages|NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:ABSTRACT_10|1
+np|NN|BODY_6:BODY_5:ABSTRACT_6:ABSTRACT_11:ABSTRACT_4:ABSTRACT_2:BODY_2:BODY_10:BODY_7:BODY_8|1
+polynomial time|NN NN|BODY_6:BODY_5:ABSTRACT_4:BODY_15:BODY_3:BODY_10:BODY_8|0
+the answer|DT NN|ABSTRACT_2:BODY_1:BODY_9|0
+program checking|NN NN|ABSTRACT_4:BODY_4|0
+this paper|DT NN|ABSTRACT_1:BODY_9|0
+a natural way|DT JJ NN|ABSTRACT_2|0
+a complexity assumption|DT NN NN|ABSTRACT_3|0
+a basic question|DT JJ NN|ABSTRACT_1|0
+the authors|DT NNS|ABSTRACT_2|0
+present languages|JJ NNS|ABSTRACT_3|0
+similar assumptions|JJ NNS|ABSTRACT_1|0
+this membership|DT NN|ABSTRACT_9|0
+these ideas|DT NNS|ABSTRACT_1|0
+we|PRP|BODY_12:BODY_11:BODY_16:BODY_17:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|5
+there|EX|BODY_6:BODY_11:BODY_5:BODY_16:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|1
+the polynomial time hierarchy|DT NN NN NN|BODY_10|1
+x 2 l nomatter|NN CD NN NN|BODY_12|1
+a bpp machine m|DT JJ NN NN|BODY_5|1
+the assumption neee bpeee|DT NN NN NN|BODY_1|1
+two important di erences|CD JJ NN NNS|BODY_6|1
+l|NN|BODY_11:BODY_17:BODY_15:BODY_13:BODY_2:BODY_24:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|2
+this|DT|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|1
+a competitiveinteractive proof|DT JJ NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+a uniformly log-sparse language|DT JJ JJ NN|BODY_12:BODY_11:BODY_2:BODY_4|0
+an np proof system|DT JJ NN NN|BODY_2:BODY_1:BODY_3|0
+every x 2 l|DT NN CD NN|BODY_12:BODY_5:BODY_15:BODY_8|0
+a non-square mod n|DT JJ VBD RB|BODY_11:BODY_15:BODY_3:BODY_7|0
+a competitiveinteractive proof system|DT JJ NN NN|BODY_3:BODY_20|0
+a vector y y1|DT NN NN NNS|BODY_5:BODY_2|0
+probabilistic , polynomial time|JJ , JJ NN|BODY_6:BODY_2:BODY_4|0
+the competitive  aspects|DT JJ NN NNS|BODY_2|0
+polynomial time oracle machine|JJ NN NN NN|BODY_2|0
+the above de nition|DT JJ NNP NN|BODY_2|0
+the log-sparse candidate selector|DT JJ NN NN|BODY_2:BODY_9|0
+a weighted graph g|DT JJ NN NN|BODY_4|0
+the promise problem qrs|DT NN NN NNS|BODY_12:BODY_1:BODY_7|0
+t 2s and m|JJ JJ CC NN|BODY_5|0
+rst exhibiting incoherent sets|JJ NN JJ NNS|BODY_3|0
+the language recognition power|DT NN NN NN|BODY_4|0
+:;yt ,1 2 z|NN CD CD NN|BODY_3|0
+an interactive proof system|DT JJ NN NN|BODY_3|0
+blum and kannan bk|NN CC NN NN|BODY_1|0
+competitive np proof systems|JJ NN NN NNS|BODY_1|0
+the following de nition|DT VBG FW NN|BODY_2|0
+:;ym 2 zn t,1|NN CD NN NNS|BODY_4|0
+every interactive tm pb|DT JJ NN NN|BODY_17:BODY_13|0
+pbon common input x|NN JJ NN NN|BODY_17:BODY_21:BODY_20|0
+indeed non-squares mod n|RB JJ JJ NN|BODY_5|0
+a log-sparse candidate selector|DT JJ NN NN|BODY_2:BODY_4|0
+a logarithmic sized superset|DT JJ JJ NN|BODY_9|0
+the census function l|DT NN NN NN|BODY_2|0
+a competitive interactive proof|DT JJ JJ NN|BODY_3|0
+a and input g|DT CC NN NN|BODY_4|0
+both p and v|DT NN CC NN|BODY_5:BODY_7|0
+a standard downward separation|DT JJ JJ NN|BODY_7|0
+this same special case|DT JJ JJ NN|BODY_3|0
+an oracle query q|DT NN NN NN|BODY_2|0
+a symmetric  notion|DT JJ JJ NN|BODY_3|0
+an interactive proof p;v|DT JJ NN NN|BODY_5|0
+the last , r2s|DT JJ , NNS|BODY_5|0
+:;yt ,1 2 zn|NN CD CD NN|BODY_6|0
+interactive proofs and checking|JJ NNS CC NN|BODY_8|0
+namely f y 2|RB NN NN CD|BODY_4|0
+a non np-complete language|DT JJ JJ NN|BODY_2|0
+decision given p np|NN VBN NN NN|BODY_7|0
+an a rmative answer|DT DT JJ NN|BODY_2|0
+an nc bit output|DT NN NN NN|BODY_5|0
+the rst two items|DT JJ CD NNS|BODY_2|0
+x 2 l.combining lemma|NN CD NN NN|BODY_12|0
+1 is a constant|CD VBZ DT JJ|BODY_5|0
+the other party .y|DT JJ NN NN|BODY_11|0
+a veri er b|DT NN NN NN|BODY_3|0
+the theorem and discussion|DT NN CC NN|BODY_3|0
+the same residue class|DT JJ JJ NN|BODY_6|0
+statistical zk competitiveinteractive proofs|JJ NN JJ NNS|BODY_3|0
+a deterministic binary predicate|DT JJ JJ NN|BODY_4|0
+only a promise oracle|RB DT NN NN|BODY_10|0
+every x 2 b|DT NN CD NN|BODY_16|0
+such np proof systems|JJ JJ NN NNS|BODY_6|0
+the following :4 np|DT VBG NN NN|BODY_3|0
+a b and wehave|DT NN CC NN|BODY_2|0
+the phrase double-exponential counterpart |DT NN JJ NN|BODY_2|0
+just a or b|RB DT CC NN|BODY_4|0
+p y f y|NN NN NN NN|BODY_3|0
+the competitive  prover|DT JJ NN NN|BODY_9|0
+1 3.we say c|CD CD NN NN|BODY_15|0
+only one oracle query|RB CD NN NN|BODY_4|0
+such that de nes|JJ IN FW NNS|BODY_6|0
+just an interactive proof|RB DT JJ NN|BODY_5|0
+a square mod n|DT NN NN NN|BODY_12|0
+a square mod n.|DT JJ NN NN|BODY_6:BODY_18:BODY_4|0
+3 xyi mod n|CD NN JJ NN|BODY_14|0
+a constant d 0|DT JJ JJ CD|BODY_12|0
+distinct odd primes g|JJ JJ NNS VBG|BODY_4|0
+at most c dnd|IN JJS NN NN|BODY_7|0
+probability 1 , 2|NN CD , CD|BODY_7|0
+a polynomial time machine|DT JJ NN NN|BODY_2|0
+each x 2 l|DT NN CD NN|BODY_4|0
+the next de nition|DT JJ NNP NN|BODY_4|0
+,an np proof system|DT JJ NN NN|BODY_2|0
+a competitive np proof|DT JJ JJ NN|BODY_12|0
+a competitive np-proof system|DT JJ JJ NN|BODY_5|0
+lemma 4.3 suppose l|NN CD VBP NN|BODY_1|0
+proposition 6.7 protocol qnr|NN CD NN NN|BODY_1|0
+the simple factorization witness|DT NN NN NN|BODY_8|0
+the various complexity classes|DT JJ NN NNS|BODY_3|0
+two parallel  computations|CD JJ NN NNS|BODY_3|0
+the next two sections|DT JJ CD NNS|BODY_11|0
+2.2 uniformly log-sparse languages|CD RB JJ NNS|BODY_1|0
+all statistical zk languages|DT JJ NN NNS|BODY_1|0
+competitive zero-knowledge interactive proofs|JJ JJ JJ NNS|BODY_5|0
+l and l both|JJ CC JJ DT|BODY_1|0
+the entirely standard proof|DT RB JJ NN|BODY_4|0
+2e t su ces|JJ NN VBD NNS|BODY_7|0
+7 open questions quadratic-residuosity|CD JJ NNS NN|BODY_1|0
+the basic competitive protocol|DT JJ JJ NN|BODY_2|0
+lemma 2.8 suppose l|NN CD VBP NN|BODY_1|0
+propositions 6.6 and 6.7|NNS CD CC CD|BODY_3|0
+any particular language l|DT JJ NN NN|BODY_1|0
+isapolynomial time oracle machine|JJ NN NN NN|BODY_4|0
+lemma 5.2 suppose l|NN CD VBP NN|BODY_1|0
+an associated search problem|DT VBN NN NN|BODY_6|0
+particularly simple interactive proofs|RB JJ JJ NNS|BODY_11|0
+a multi-prover interactive proof|DT JJ JJ NN|BODY_8|0
+any particular oracle a|DT JJ NN DT|BODY_1|0
+decidable and l c.|JJ CC JJ NN|BODY_9|0
+perfect completeness.aninteractive proof p;v|JJ JJ NN NNS|BODY_1|0
+any polynomial time computation|DT JJ NN NN|BODY_1|0
+a language l|DT NN NN|BODY_6:BODY_17:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4|1
+a strong decider|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_4|1
+the veri er|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the witness nder|DT NN NN|BODY_11:BODY_15:BODY_2:BODY_7|1
+the de nition|DT NNP NN|BODY_1:BODY_2:BODY_4|1
+x 2 l|NN CD NN|BODY_6:BODY_2:BODY_9|1
+an interactive proof|DT JJ NN|BODY_3:BODY_4|1
+the latter conclusion|DT JJ NN|BODY_2|1
+a random element|DT JJ NN|BODY_24|1
+a np language|DT JJ NN|BODY_2:BODY_7|1
+a actually associates|DT RB NNS|BODY_20|1
+the desired conclusions|DT VBN NNS|BODY_4|1
+these same languages|DT JJ NNS|BODY_2|1
+any language l|DT NN NN|BODY_2|1
+a simple construction|DT JJ NN|BODY_6|1
+competitive interactive proofs|JJ JJ NNS|BODY_4|1
+perfect completeness fgmsz|JJ NN NN|BODY_5|1
+the probability|DT NN|BODY_12:BODY_11:BODY_17:BODY_18:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_8:BODY_9|0
+the common input|DT JJ NN|BODY_11:BODY_5:BODY_4|0
+common input x|JJ NN NN|BODY_13:BODY_14:BODY_10:BODY_4|0
+each i 1;|DT NN CD|BODY_6:BODY_11:BODY_16:BODY_1:BODY_2:BODY_4:BODY_7:BODY_8|0
+at least one|IN JJS CD|BODY_5:BODY_2:BODY_3|0
+distinct odd primes|JJ JJ NNS|BODY_12:BODY_4:BODY_7|0
+a promise problem|DT NN NN|BODY_6:BODY_2|0
+our de nition|PRP$ JJ NN|BODY_14:BODY_3:BODY_4|0
+probabilistic polynomial time|JJ JJ NN|BODY_5:BODY_18:BODY_2|0
+the total number|DT JJ NN|BODY_12:BODY_1:BODY_3|0
+the machine m|DT NN NN|BODY_5:BODY_2:BODY_3|0
+the corresponding non-residuosity|DT JJ NN|BODY_1:BODY_2|0
+the completeness condition|DT NN NN|BODY_6:BODY_2|0
+interaction and randomness|NN CC NN|BODY_2:BODY_4|0
+a non-squaremod n|DT JJ NN|BODY_6:BODY_5:BODY_10|0
+a quadratic residue|DT JJ NN|BODY_5:BODY_4|0
+the soundness condition|DT NN NN|BODY_2:BODY_3:BODY_4|0
+theorem 3.6 yields|POS CD NNS|BODY_2:BODY_14|0
+the open questions|DT JJ NNS|BODY_3:BODY_8|0
+multi-prover interactive proofs|JJ JJ NNS|BODY_13:BODY_2|0
+polynomially many queries|RB JJ NNS|BODY_2|0
+history independent objects|NN JJ NNS|BODY_2|0
+an optimal tour|DT JJ NN|BODY_3|0
+a promise oracle|DT NN NN|BODY_16:BODY_2:BODY_9|0
+a candidate selector|DT NN NN|BODY_5:BODY_3|0
+each x 2f0|DT NN CD|BODY_5:BODY_7|0
+a polynomial time|DT JJ NN|BODY_7:BODY_9|0
+a polynomial number|DT JJ NN|BODY_5:BODY_10|0
+the special case|DT JJ NN|BODY_6:BODY_7|0
+the promise oracle|DT NN NN|BODY_6:BODY_3|0
+its residue class|PRP$ JJ NN|BODY_5:BODY_7|0
+its own oracle|PRP$ JJ NN|BODY_5:BODY_4|0
+p and v|NN CC NN|BODY_5:BODY_7|0
+any incoherent set|DT JJ NN|BODY_6|0
+a non-square mod|DT JJ JJ|BODY_6:BODY_7|0
+a single message|DT JJ NN|BODY_4:BODY_7|0
+a natural extension|DT JJ NN|BODY_5|0
+qr f x|JJ NN NN|BODY_2|0
+all oracle queries|DT NN NNS|BODY_5:BODY_7|0
+q 2 c|NN CD NN|BODY_2|0
+the di culty|DT NN NN|BODY_1:BODY_7|0
+complexity theory eg|NN NN NN|BODY_5|0
+some constant c|DT JJ NN|BODY_5:BODY_11|0
+the characteristic function|DT JJ NN|BODY_2:BODY_20|0
+probability 3 4|NN CD CD|BODY_5:BODY_3|0
+4.3 and 5.2|CD CC CD|BODY_2|0
+the natural way|DT JJ NN|BODY_2|0
+the rst step|DT JJ NN|BODY_1|0
+then the parties|RB DT NNS|BODY_4|0
+an np language|DT JJ NN|BODY_6:BODY_10:BODY_7|0
+:;rk 2 zn|NN CD NN|BODY_7|0
+computable binary relation|JJ JJ NN|BODY_3|0
+a party computing|DT NN NN|BODY_3|0
+graph non-isomorphism gmw|NN NN NN|BODY_6|0
+a cheating prover|DT NN NN|BODY_8|0
+1g and r1|CD CC CD|BODY_6|0
+a witness nder|DT NN NN|BODY_6:BODY_1|0
+x 2 z|NN CD NN|BODY_5:BODY_3|0
+only .3 deciders|RB CD NNS|BODY_4|0
+the uniform log-sparseness|DT JJ NN|BODY_3|0
+most 1 3|RBS CD CD|BODY_3|0
+a function f|DT NN NN|BODY_2|0
+graph isomorphism gmw|NN NN NN|BODY_5|0
+any query q|DT NN NN|BODY_2|0
+its rst step|PRP$ JJ NN|BODY_3|0
+the rst suchvector|DT JJ NN|BODY_3|0
+a wayofcharacterizing languages|DT VBG NNS|BODY_2|0
+all x 2f0|DT SYM CD|BODY_5:BODY_10:BODY_8|0
+a constant such|DT JJ JJ|BODY_1:BODY_4|0
+uniformly log-sparse languages|RB JJ NNS|BODY_5:BODY_4|0
+at most o|IN JJS IN|BODY_11:BODY_8|0
+the qnr protocol|DT NN NN|BODY_23|0
+the non-residuosity sub-proofs|DT NN NNS|BODY_4|0
+the prover p|DT NN NN|BODY_4|0
+de nition 3.1|FW NN CD|BODY_1|0
+de nition 3.2|FW NN CD|BODY_1|0
+log n queries|NN NN NNS|BODY_3|0
+the error probabilityof13|DT NN NN|BODY_1|0
+the following inclusions|DT VBG NNS|BODY_1|0
+square mod n|JJ VBD RB|BODY_3|0
+n 2 qrs|RB CD NNS|BODY_2:BODY_9|0
+the following experiment|DT VBG NN|BODY_10|0
+the previous section|DT JJ NN|BODY_7|0
+the following properties|DT VBG NNS|BODY_2|0
+the latter event|DT JJ NN|BODY_13|0
+a correct proof|DT JJ NN|BODY_8|0
+l 2 frip|NN CD NN|BODY_12|0
+probability 2 3|NN CD CD|BODY_12:BODY_7|0
+np , p|JJ , JJ|BODY_12|0
+a -witness nder|DT NN NN|BODY_5:BODY_3:BODY_8|0
+l 2 np|JJ CD NN|BODY_1:BODY_2|0
+de nition 4.2|FW NN CD|BODY_1|0
+de nition 6.2|FW NN CD|BODY_1|0
+a residuosity test|DT NN NN|BODY_16|0
+language recognition problems|NN NN NNS|BODY_4|0
+an inherent property|DT JJ NN|BODY_10|0
+a g g|DT VBG VBG|BODY_3|0
+our machine m|PRP$ NN NN|BODY_3|0
+the error probabilityofd|DT NN NN|BODY_4|0
+a party computable|DT NN JJ|BODY_3|0
+a given subset|DT VBN NN|BODY_8|0
+both possible answers|DT JJ NNS|BODY_1:BODY_10|0
+'s oracle queries|POS NN NNS|BODY_7|0
+the claimed separation|DT VBN NN|BODY_5|0
+a probabilistic ntm|DT JJ NN|BODY_9|0
+a special kind|DT JJ NN|BODY_3|0
+the usual way|DT JJ NN|BODY_3|0
+sense many classes|NN JJ NNS|BODY_6|0
+a representative vector|DT JJ NN|BODY_9|0
+a language 1|DT NN CD|BODY_4|0
+a competitivezkinteractive proof|DT JJ NN|BODY_11:BODY_9|0
+a and b|DT CC NN|BODY_3|0
+the same rules|DT JJ NNS|BODY_6|0
+the residue class|DT JJ NN|BODY_9|0
+the computational power|DT JJ NN|BODY_3|0
+a probabilistic machine|DT JJ NN|BODY_6|0
+qn x 0ifx|NN NN NN|BODY_3|0
+qrs and qnrs|NNS CC NNS|BODY_2|0
+p. y hsi|NN NN NNS|BODY_5|0
+the special symbol|DT JJ NN|BODY_11|0
+many helpful comments|JJ JJ NNS|BODY_2|0
+ne competitiveinteractive proofs|NN JJ NNS|BODY_2|0
+pa and v|NN CC NN|BODY_7|0
+x f w|SYM NN NN|BODY_2|0
+this set -witnesses|DT VBN NNS|BODY_4|0
+a particular vector|DT JJ NN|BODY_2|0
+these parallel computations|DT JJ NNS|BODY_3|0
+the candidate selector|DT NN NN|BODY_3|0
+his own oracle|PRP$ JJ NN|BODY_4|0
+each parallel computation|DT JJ NN|BODY_1|0
+2 3 2|CD CD CD|BODY_15|0
+the following conditions|DT JJ NNS|BODY_4|0
+that nee bpee|DT NN NN|BODY_4|0
+the following theorem|DT VBG NN|BODY_9|0
+this last question|DT JJ NN|BODY_3|0
+4.4 zero-knowledge aspects|CD NN NNS|BODY_1|0
+the next message|DT JJ NN|BODY_9|0
+the argumenttointeractive proofs|DT NN NNS|BODY_3|0
+21+g ,1 n|CD CD RB|BODY_5|0
+the binary relation|DT JJ NN|BODY_2|0
+1 tt ,1|CD NN CD|BODY_4|0
+the machine w|DT NN NN|BODY_14|0
+security parameter k|NN NN NN|BODY_4|0
+step 1.2 everything|NN CD NN|BODY_4|0
+f x 2f0|NN NN CD|BODY_3|0
+1 or 0|CD CC CD|BODY_6|0
+the empty string|DT JJ NN|BODY_14|0
+the random choices|DT JJ NNS|BODY_2|0
+de nition 6.4|FW NN CD|BODY_1|0
+cp x accepts|JJ SYM VBZ|BODY_14|0
+l whichhave length|JJ NN NN|BODY_5|0
+4.2 competitiveinteractive proofs|CD JJ NNS|BODY_1|0
+this veri er|DT NN NN|BODY_5|0
+l and c|NN CC NN|BODY_4|0
+:;mthe machine r|DT NN NN|BODY_2|0
+all programs p|DT NNS NN|BODY_7|0
+input x 2f0|NN RB CD|BODY_4|0
+its entire computation|PRP$ JJ NN|BODY_5|0
+a log-sparse language|DT JJ NN|BODY_6|0
+that its response|DT PRP$ NN|BODY_5|0
+the next step|DT JJ NN|BODY_5|0
+n 2 qnr|RB CD NN|BODY_9|0
+the unresolved question|DT JJ NN|BODY_17|0
+the trivial case|DT JJ NN|BODY_13|0
+oracle query q|NN NN RB|BODY_8|0
+qnrs and access|NNS CC NN|BODY_5|0
+da x accepts|NN NN VBZ|BODY_9|0
+1 1 3|CD CD CD|BODY_8|0
+the running time|DT VBG NN|BODY_5|0
+the oracle queries|DT NN NNS|BODY_18|0
+the total numberofmoves|DT JJ NNS|BODY_1|0
+so the probability|RB DT NN|BODY_2|0
+de nition 2.1|FW NN CD|BODY_1|0
+the quanti cation|DT NN NN|BODY_4|0
+the two conditions|DT CD NNS|BODY_8|0
+the last n|DT JJ RB|BODY_4|0
+de ning np-relations|NNP VBG NNS|BODY_2|0
+a crude calculation|DT JJ NN|BODY_5|0
+a particular output|DT JJ NN|BODY_7|0
+every x 2|DT NN CD|BODY_6|0
+that checkable languages|DT JJ NNS|BODY_2|0
+every function pb|DT NN NN|BODY_16|0
+quadratic non-residuosity gmr|JJ JJ NN|BODY_7|0
+the product xy|DT NN NN|BODY_1|0
+an oracle machine|DT NN NN|BODY_3|0
+the other hand|DT JJ NN|BODY_1|0
+the same argumentwe|DT JJ NN|BODY_4|0
+oracle l f0|NN JJ CD|BODY_7|0
+a common input|DT JJ NN|BODY_2|0
+np , p.proof|JJ , JJ|BODY_5|0
+the parallel computations|DT JJ NNS|BODY_6:BODY_4|0
+the natural extension|DT JJ NN|BODY_4|0
+the natural generalization|DT JJ NN|BODY_3|0
+its interaction 6|PRP$ NN CD|BODY_16|0
+b .apromise oracle|NN NN NN|BODY_5|0
+the language l|DT NN NN|BODY_5|0
+our competitive proof|PRP$ JJ NN|BODY_5|0
+nee bpee impliesnp|NN NN NN|BODY_14|0
+every checkable language|DT JJ NN|BODY_5|0
+a x 1|DT NN CD|BODY_4|0
+no candidate selector|DT NN NN|BODY_9|0
+lemma 2.8 one|NN CD NN|BODY_9|0
+a deterministic machine|DT JJ NN|BODY_4|0
+many natural classes|JJ JJ NNS|BODY_2|0
+the main lemma|DT JJ NN|BODY_8|0
+the particular input|DT JJ NN|BODY_3|0
+the following lemma|DT VBG NN|BODY_4|0
+a pair p;v|DT NN NN|BODY_3|0
+a probabilistic function|DT JJ NN|BODY_4|0
+previous negative results|JJ JJ NNS|BODY_1|0
+p|NN|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+that 1 yi|IN CD NN|BODY_6|0
+the double-exponential counterpart |DT JJ NN|BODY_7|0
+the competitiveinteractive proof|DT JJ NN|BODY_1|0
+checkable .we recall|JJ JJ NN|BODY_13|0
+lemma 5.2 and|NN CD CC|BODY_1|0
+a special case|DT JJ NN|BODY_21|0
+any particular method|DT JJ NN|BODY_3|0
+de nition 2.5|FW NN CD|BODY_1|0
+independent coin tosses|JJ NN NNS|BODY_8|0
+even non-computable ones|RB JJ NNS|BODY_9|0
+its constituent messages|PRP$ JJ NNS|BODY_16|0
+this manner m|DT NN NN|BODY_1|0
+an integer 1|DT NN CD|BODY_3|0
+suppose y y1|VB NN NNS|BODY_1|0
+the main di|DT JJ NN|BODY_1|0
+interactive proof system|JJ NN NN|BODY_4|0
+the string x|DT NN NN|BODY_3|0
+the same assumption|DT JJ NN|BODY_13|0
+no such counterpart|DT JJ NN|BODY_7|0
+this overall strategy|DT JJ NN|BODY_1|0
+the above sub-proofs|DT JJ NNS|BODY_25|0
+the machine m.|DT NN NN|BODY_3|0
+most 1 4|RBS CD CD|BODY_14|0
+some vector yi|DT NN NN|BODY_1|0
+a and 0|DT CC CD|BODY_11|0
+even e ne|RB NN NN|BODY_8|0
+0 and 1|CD CC CD|BODY_11|0
+the di erence|DT NN NN|BODY_1|0
+zero-knowledge one considers|NN CD VBZ|BODY_3|0
+the previous step|DT JJ NN|BODY_11:BODY_10|0
+probabilistic turing machines|JJ NN NNS|BODY_5|0
+p and rv|NN CC NN|BODY_10|0
+5 np coh|CD NN NN|BODY_1|0
+the rst condition|DT JJ NN|BODY_1|0
+another open question|DT JJ NN|BODY_1|0
+the de nitions|DT NNP NNS|BODY_2|0
+an appropriate question|DT JJ NN|BODY_1|0
+4.1 interactive proofs|CD JJ NNS|BODY_1|0
+the next thing|DT JJ NN|BODY_1|0
+these successive trials|DT JJ NNS|BODY_12|0
+de nition 2.4|IN NN CD|BODY_10|0
+a competitive prover|DT JJ NN|BODY_2|0
+a representative list|DT JJ NN|BODY_12|0
+our stronger results|PRP$ JJR NNS|BODY_2|0
+some technical materiel|DT JJ NN|BODY_10|0
+the assumption nee|DT NN NN|BODY_1|0
+x 2 zn|NN CD NN|BODY_1|0
+protocol qnr input|NN NN NN|BODY_1|0
+the equivalence class|DT NN NN|BODY_1|0
+'s rst message|POS JJ NN|BODY_8|0
+the rst message|DT JJ NN|BODY_4|0
+an equivalence relation|DT NN NN|BODY_5|0
+then l 2|RB JJ CD|BODY_4|0
+the m trials|DT NN NNS|BODY_4|0
+that l l|DT JJ JJ|BODY_1|0
+l0 2 nee|NN CD NN|BODY_5|0
+an input x|DT NN NN|BODY_2|0
+de nition 6.1|FW NN CD|BODY_1|0
+an equivalent formulation|DT JJ NN|BODY_1|0
+that r runs|WDT NN VBZ|BODY_1|0
+the disjoint union |DT NN NN|BODY_1|0
+a positive constant|DT JJ NN|BODY_6|0
+competitiveinteractive proof system|JJ NN NN|BODY_9|0
+the same size|DT JJ NN|BODY_4|0
+function-restricted ip cf|JJ NN NN|BODY_16|0
+the following terminology|DT VBG NN|BODY_1|0
+the last item|DT JJ NN|BODY_1|0
+a|DT|BODY_6:BODY_5:BODY_11:BODY_17:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+x|SYM|BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+the existence|DT NN|BODY_6:BODY_12:BODY_5:BODY_16:BODY_1:BODY_2:BODY_4:BODY_8|1
+us|PRP|BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_9|0
+the class|DT NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4|1
+de nition|FW NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_9|0
+1|CD|BODY_12:BODY_5:BODY_18:BODY_13:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+one|CD|BODY_6:BODY_5:BODY_1:BODY_2:BODY_10:BODY_4|1
+the following|DT VBG|BODY_6:BODY_5:BODY_2:BODY_3|1
+the case|DT NN|BODY_6:BODY_12:BODY_11:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+w|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7|0
+interactive proofs|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|1
+this section|DT NN|BODY_15:BODY_2:BODY_4:BODY_9|1
+2 np|CD NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|1
+an oracle|DT NN|BODY_6:BODY_5:BODY_25:BODY_1:BODY_2:BODY_3|0
+they|PRP|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|1
+oracle queries|NN NNS|BODY_6:BODY_13:BODY_1:BODY_4:BODY_7|2
+the prover|DT NN|BODY_12:BODY_5:BODY_13:BODY_14:BODY_3:BODY_4:BODY_8|0
+the fact|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+input x|NN NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+competitiveinteractive proofs|JJ NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the results|DT NNS|BODY_2:BODY_1:BODY_3:BODY_8|0
+an np-relation|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the property|DT NN|BODY_6:BODY_1:BODY_8|1
+standard cherno|JJ NN|BODY_2|1
+this function|DT NN|BODY_16:BODY_2|1
+section 2|NN CD|BODY_2:BODY_4|1
+stronger assumptions|JJR NNS|BODY_3|1
+a x;c|DT NN|BODY_23|1
+what|WP|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a distribution|DT NN|BODY_21|1
+c party|NN NN|BODY_19|1
+that proof|WDT NN|BODY_4:BODY_8|1
+any x|DT NN|BODY_18|1
+an application|DT NN|BODY_1|1
+nisan lfkn|JJ NN|BODY_4|1
+shamir sh|NN NN|BODY_11|1
+this distribution|DT NN|BODY_25|1
+ip equals|NN NNS|BODY_13|1
+proposition 3.3|NN CD|BODY_2:BODY_1|1
+quadratic residuosity|JJ NN|BODY_5:BODY_14:BODY_4:BODY_19:BODY_7|0
+oblivious transfer|JJ NN|BODY_7|1
+the proof|DT NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the notion|DT NN|BODY_5:BODY_2:BODY_3:BODY_10|0
+the output|DT NN|BODY_6:BODY_5:BODY_1:BODY_10:BODY_7|0
+n|NN|BODY_5:BODY_17:BODY_1:BODY_4:BODY_8:BODY_9|0
+a decider|DT NN|BODY_6:BODY_11:BODY_2:BODY_14:BODY_3:BODY_8|0
+its interaction|PRP$ NN|BODY_12:BODY_5:BODY_11:BODY_13:BODY_3:BODY_19:BODY_8:BODY_20|0
+the number|DT NN|BODY_5:BODY_1:BODY_3:BODY_9|0
+the result|DT NN|BODY_2:BODY_1:BODY_3|0
+a checker|DT NN|BODY_16:BODY_2:BODY_3:BODY_19|0
+the length|DT NN|BODY_6:BODY_5:BODY_3:BODY_8|0
+the language|DT NN|BODY_18:BODY_1:BODY_3:BODY_14:BODY_4|0
+the decider|DT NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+x 2|JJ CD|BODY_6:BODY_2:BODY_8|0
+a pair|DT NN|BODY_2:BODY_14:BODY_3|0
+high probability|JJ NN|BODY_6:BODY_11:BODY_5:BODY_19:BODY_4|0
+the test|DT NN|BODY_6:BODY_2:BODY_3|0
+lemma 2.8|NN CD|BODY_1:BODY_3:BODY_4:BODY_10|0
+nee bpee|NN NN|BODY_2:BODY_3:BODY_7|0
+the problem|DT NN|BODY_5:BODY_22:BODY_1:BODY_4:BODY_8|0
+the checker|DT NN|BODY_5:BODY_1:BODY_4|0
+v|NN|BODY_12:BODY_11:BODY_5:BODY_18:BODY_15:BODY_3:BODY_4:BODY_19:BODY_10:BODY_7|0
+all oracles|DT NNS|BODY_11:BODY_9|0
+course|NN|BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_7|0
+jack lutz|NN NN|BODY_4:BODY_8|0
+the set|DT NN|BODY_6:BODY_8:BODY_9|0
+a x|DT NN|BODY_2:BODY_4:BODY_7|0
+protocol qnr|NN NN|BODY_3|0
+the end|DT NN|BODY_1:BODY_4:BODY_8|0
+np languages|JJ NNS|BODY_2:BODY_1:BODY_3|0
+language l|NN NN|BODY_6:BODY_4|0
+the theorem|DT NN|BODY_15:BODY_3:BODY_9|0
+a representativevector|DT NN|BODY_21:BODY_3:BODY_4|0
+a string|DT NN|BODY_16:BODY_14:BODY_7|0
+promise oracles|VB NNS|BODY_5:BODY_2|0
+common input|JJ NN|BODY_6:BODY_13:BODY_8|0
+its oracle|PRP$ NN|BODY_5:BODY_2|0
+n :x|NN NN|BODY_5:BODY_3|0
+the second|DT JJ|BODY_5:BODY_1:BODY_3|0
+the reader|DT NN|BODY_6:BODY_5:BODY_2|0
+a product|DT NN|BODY_5:BODY_2|0
+the interaction|DT NN|BODY_6:BODY_2|0
+the idea|DT NN|BODY_5:BODY_1:BODY_4|0
+this strategy|DT NN|BODY_3|0
+zero-knowledge proofs|NN NNS|BODY_3|0
+n n|NN NN|BODY_6:BODY_3|0
+uniform log-sparseness|NN NN|BODY_11:BODY_8|0
+known techniques|VBN NNS|BODY_2|0
+p;v beapair|NN NN|BODY_2|0
+d|NN|BODY_6:BODY_2:BODY_3:BODY_8:BODY_9|0
+running d|VBG NN|BODY_3|0
+parallel computations|JJ NNS|BODY_3:BODY_4|0
+the conversation|DT NN|BODY_6:BODY_14:BODY_9|0
+our proof|PRP$ NN|BODY_2:BODY_8|0
+a prover|DT NN|BODY_6:BODY_5:BODY_1|0
+dnd g|NN NN|BODY_5|0
+a function|DT NN|BODY_2:BODY_4|0
+these languages|DT NNS|BODY_11:BODY_3:BODY_4|0
+any input|DT NN|BODY_6:BODY_13|0
+lemma 2.7|NN CD|BODY_2:BODY_1:BODY_4|0
+proposition 6.5|NN CD|BODY_2:BODY_1|0
+the correctness|DT NN|BODY_1:BODY_3|0
+a polynomial|DT NN|BODY_2:BODY_7|0
+both parties|DT NNS|BODY_5:BODY_1:BODY_3|0
+wl x|RB SYM|BODY_4:BODY_7|0
+a sketch|DT NN|BODY_5:BODY_3|0
+m accepts|NN VBZ|BODY_3|0
+the algorithm|DT NN|BODY_5:BODY_2|0
+'s observation|POS NN|BODY_5|0
+a program|DT NN|BODY_6|0
+m corresponds|NN NNS|BODY_2|0
+some oracle|DT NN|BODY_4|0
+the weightof|DT NN|BODY_2|0
+da x|NN NN|BODY_4:BODY_9|0
+a constant|DT JJ|BODY_6|0
+1 3|CD CD|BODY_22:BODY_18:BODY_21:BODY_14:BODY_10|0
+residue classes|JJ NNS|BODY_6:BODY_2|0
+the response|DT NN|BODY_3:BODY_7|0
+1g f0|CD CD|BODY_6:BODY_5|0
+n 2|NN CD|BODY_11:BODY_4|0
+each time|DT NN|BODY_1:BODY_7|0
+racko gmr|NN NN|BODY_4|0
+a total|DT NN|BODY_19:BODY_4|0
+a witness|DT NN|BODY_12:BODY_4|0
+number-theoretic background|JJ NN|BODY_5|0
+a tour|DT NN|BODY_5|0
+how e|WRB NN|BODY_3|0
+any language|DT NN|BODY_6:BODY_1:BODY_2|0
+approximation algorithms|NN NNS|BODY_6|0
+beapolynomial time|JJ NN|BODY_2|0
+all w|DT NN|BODY_4|0
+a move|DT NN|BODY_2|0
+the kind|DT NN|BODY_2:BODY_4|0
+l n|NN NN|BODY_2:BODY_9|0
+these outputs|DT NNS|BODY_3|0
+perfect completeness|JJ NN|BODY_3:BODY_4:BODY_9|0
+the same|DT JJ|BODY_2:BODY_3|0
+the formal|DT JJ|BODY_2:BODY_4|0
+bounded error|VBN NN|BODY_7:BODY_8|0
+check frip|NN NN|BODY_2|0
+l if|JJ IN|BODY_10:BODY_4|0
+one-way functions|JJ NNS|BODY_6:BODY_13:BODY_3:BODY_4|0
+some np-relation|DT NN|BODY_8:BODY_9|0
+mod n|JJ RB|BODY_9|0
+a b,isf0x|DT NN|BODY_4|0
+ee nee|NN NN|BODY_5:BODY_1:BODY_2|0
+the strings|DT NNS|BODY_10|0
+the discussion|DT NN|BODY_6|0
+:;ck 2f0|NN CD|BODY_5|0
+cryptographic assumptions|JJ NNS|BODY_5:BODY_1|0
+the ideas|DT NNS|BODY_6|0
+l f0|JJ CD|BODY_2:BODY_4|0
+suppose qnrs.ifpbsends|VB NNS|BODY_2|0
+the coins|DT NNS|BODY_11:BODY_9|0
+al points|JJ NNS|BODY_7|0
+this result|DT NN|BODY_2|0
+n beaproduct|NN NN|BODY_2|0
+5.3 yields|CD NNS|BODY_4|0
+lemma 3.6|NN CD|BODY_13|0
+an extension|DT NN|BODY_3|0
+two elements|CD NNS|BODY_2|0
+their properties|PRP$ NNS|BODY_5|0
+a constantnumber|DT NN|BODY_11:BODY_7|0
+their proof|PRP$ NN|BODY_8|0
+line 4|NN CD|BODY_2|0
+theorem 5.4|NN CD|BODY_6|0
+the probabilities|DT NNS|BODY_1:BODY_10|0
+dnd steps|JJ NNS|BODY_1:BODY_4|0
+the input|DT NN|BODY_5:BODY_1|0
+n strings|NN NNS|BODY_12:BODY_9|0
+proposition 6.6|NN CD|BODY_6:BODY_1|0
+but not|CC RB|BODY_6|0
+1g de|CD IN|BODY_7|0
+the product|DT NN|BODY_6:BODY_10|0
+competitive ones|JJ NNS|BODY_2:BODY_4|0
+4.3 and|CD CC|BODY_13|0
+the sequence|DT NN|BODY_6|0
+the sense|DT NN|BODY_3:BODY_9|0
+all vectors|DT NNS|BODY_5|0
+oracle query|NN NN|BODY_7|0
+helpful discussions|JJ NNS|BODY_5|0
+random y1|JJ NNS|BODY_3|0
+the parties|DT NNS|BODY_2:BODY_1|0
+i 1;|NN CD|BODY_6|0
+d accepts|NN VBZ|BODY_2|0
+quadratic residues|JJ NNS|BODY_7|0
+a number|DT NN|BODY_2|0
+optimization problems|NN NNS|BODY_5|0
+the runs|DT NNS|BODY_6|0
+:;yt ,1|JJ NNS|BODY_2|0
+negative results|JJ NNS|BODY_13:BODY_2|0
+probabilistic functions|JJ NNS|BODY_3|0
+this idea|DT NN|BODY_1|0
+the latter|DT JJ|BODY_6:BODY_2|0
+x ;gand|NN NN|BODY_5|0
+theorem 4.4|NN CD|BODY_6:BODY_3|0
+the point|DT NN|BODY_2|0
+weaker assumptions|JJR NNS|BODY_2|0
+any pointmay|DT NN|BODY_15|0
+a b|DT NN|BODY_7|0
+random c1|JJ NNS|BODY_4|0
+the promise|DT NN|BODY_3|0
+all subsets|DT NNS|BODY_7|0
+proposition 6.7|NN CD|BODY_6|0
+satis es|NN NNS|BODY_4|0
+random variables|JJ NNS|BODY_7|0
+the converse|DT NN|BODY_6|0
+an i|DT NN|BODY_3:BODY_10|0
+each pair|DT NN|BODY_12:BODY_11|0
+the former|DT JJ|BODY_2|0
+section 1|NN CD|BODY_2|0
+unrestricted soundness|JJ NN|BODY_9|0
+any path|DT NN|BODY_11|0
+manyvaluable comments|JJ NNS|BODY_4|0
+x 2f0|SYM CD|BODY_4:BODY_9|0
+the description|DT NN|BODY_2|0
+competitive proofs|JJ NNS|BODY_23:BODY_13|0
+log n|NN NN|BODY_12:BODY_4|0
+the cheating|DT NN|BODY_4|0
+eespace bpee|NN NN|BODY_3:BODY_8|0
+lemma 3.4|NN CD|BODY_1:BODY_7|0
+the oracle|DT NN|BODY_1|0
+d0 byway|NN NN|BODY_3|0
+these sub-proofs|DT NNS|BODY_7|0
+the range|DT NN|BODY_2|0
+points di|NNS NNS|BODY_27|0
+a output|DT NN|BODY_5|0
+the outputs|DT VBZ|BODY_2|0
+a collection|DT NN|BODY_17|0
+0 otherwise|CD RB|BODY_4|0
+q 2|RB CD|BODY_12:BODY_10|0
+m branches|VBN NNS|BODY_2|0
+time 222|NN CD|BODY_10|0
+the inputs|DT NNS|BODY_3|0
+the term|DT NN|BODY_7|0
+n times|NN NNS|BODY_6|0
+this paradigm|DT NN|BODY_5|0
+juris hartmanis|NN NNS|BODY_7|0
+lance fortnow|NN NNS|BODY_3|0
+the assumption|DT NN|BODY_2:BODY_1|0
+these works|DT NNS|BODY_4|0
+an np-proof|DT JJ|BODY_7|0
+oracle access|NN NN|BODY_3|0
+the paper|DT NN|BODY_5:BODY_3|0
+a message|DT NN|BODY_4|0
+1k picks|DT NNS|BODY_3|0
++2 2invocations|CD NNS|BODY_22|0
+promise problems|NN NNS|BODY_2|0
+the convention|DT NN|BODY_4|0
+r picks|NN NNS|BODY_2|0
+the context|DT NN|BODY_4|0
+x y2|NN NN|BODY_5|0
+these computations|DT NNS|BODY_3|0
+the assumptions|DT NNS|BODY_3|0
+whichwe denote|DT NN|BODY_6|0
+a way|DT NN|BODY_15|0
+1 t|CD NN|BODY_21|0
+the subject|DT NN|BODY_2|0
+the size|DT NN|BODY_4|0
+such parties|JJ NNS|BODY_2|0
+the ones|DT NNS|BODY_3|0
+the sub-protocol|DT JJ|BODY_4|0
+the outcomes|DT NNS|BODY_8|0
+this observation|DT NN|BODY_2|0
+ne machine|NN NN|BODY_4|0
+the space|DT NN|BODY_5|0
+non-residuosity tests|JJ NNS|BODY_18|0
+eric allender|JJ NN|BODY_6|0
+muli safra|JJ NN|BODY_2|0
+each other|DT JJ|BODY_4|0
+the rest|DT NN|BODY_7|0
+2.3 suppose|CD VBP|BODY_2|0
+djxjd steps|JJ NNS|BODY_15|0
+modular residues|JJ NNS|BODY_4|0
+ned by|JJ IN|BODY_2|0
+this relation|DT NN|BODY_3|0
+competitivezkinteractive proofs|JJ NNS|BODY_4|0
+times branching|NNS NN|BODY_2|0
+1 if|CD IN|BODY_6|0
+the light|DT NN|BODY_7|0
+a 2a.|DT VBG|BODY_5|0
+let g|VB NN|BODY_1|0
+the protocol|DT NN|BODY_2|0
+1gn behaves|JJ NNS|BODY_5|0
+theorem 3.6|NN CD|BODY_3|0
+the completeness|DT NN|BODY_7|0
+the soundness|DT NN|BODY_6|0
+this oracle|DT NN|BODY_26|0
+most dnd|JJS NN|BODY_4|0
+a and|DT CC|BODY_10|0
+byinteractive proofs|JJ NNS|BODY_4|0
+a lemma|DT NN|BODY_3|0
+np-complete languages|JJ NNS|BODY_3|0
+a response|DT NN|BODY_4|0
+0.1.2 else|CD JJ|BODY_8|0
+whether or|IN CC|BODY_3|0
+. esy|. NN|BODY_4|0
+e cient|NN NN|BODY_4|0
+such problems|JJ NNS|BODY_1|0
+worth investigating|JJ VBG|BODY_4|0
+the conditions|DT NNS|BODY_4|0
+our results|PRP$ NNS|BODY_3:BODY_4|0
+coherent wesay|JJ NN|BODY_29|0
+the goal|DT NN|BODY_3|0
+section 1.1,we|NN CD|BODY_3|0
+np checkby|NN NN|BODY_5|0
+coherent sets|JJ NNS|BODY_4|0
+much larger |RB JJR|BODY_5|0
+the proofs|DT NNS|BODY_2|0
+that paper|DT NN|BODY_6|0
+machine m|NN NN|BODY_4|0
+anonymous referees|JJ NNS|BODY_3|0
+c f0|NN CD|BODY_3|0
+a machine|DT NN|BODY_20|0
+length jxjc|NN NN|BODY_17|0
+the members|DT NNS|BODY_3|0
+the motivations|DT NNS|BODY_2|0
+line 5|NN CD|BODY_2|0
+np ones|JJ NNS|BODY_4|0
+the examiner|DT NN|BODY_21|0
+section 2.3|NN CD|BODY_2|0
+the ability|DT NN|BODY_2|0
+basic properties|JJ NNS|BODY_3|0
+this process|DT NN|BODY_3|0
+a promise|DT NN|BODY_4|0
+6.4 hold|CD NN|BODY_6|0
+uncheckable cf|JJ NN|BODY_7|0
+the motivation|DT NN|BODY_2|0
+a interacts|DT NNS|BODY_2|0
+most g|JJS NN|BODY_7|0
+these facts|DT NNS|BODY_7|0
+the reduction|DT NN|BODY_10|0
+later sections|JJ NNS|BODY_1:BODY_3|0
+our attention|PRP$ NN|BODY_2|0
+section 3|NN CD|BODY_2|0
+this setting|DT NN|BODY_8|0
+all functions|DT NNS|BODY_5|0
+any pb|DT NN|BODY_10|0
+1 yi|CD NN|BODY_5|0
+either case|DT NN|BODY_1|0
+'s decision|POS NN|BODY_2|0
+some set|DT NN|BODY_6|0
+odd primes|JJ NNS|BODY_7|0
+the error|DT NN|BODY_3|0
+searchto decision|NN NN|BODY_11|0
+known work|VBN NN|BODY_6|0
+string rv|NN NN|BODY_5|0
+1g is|CD VBZ|BODY_4|0
+competitive zero-knowledge|JJ NN|BODY_2|0
+the query|DT NN|BODY_3|0
+let c|VB NN|BODY_1|0
+the procedure|DT NN|BODY_2|0
+their checker|PRP$ NN|BODY_4|0
+the operation|DT NN|BODY_4|0
+2.2 suppose|CD VBP|BODY_2|0
+k bits|NN NNS|BODY_5|0
+those which|DT WDT|BODY_15|0
+no 1|DT CD|BODY_5|0
+computable function|JJ NN|BODY_8|0
+this question|DT NN|BODY_3|0
+calavector representative|NN NN|BODY_2|0
+binary predicate|JJ NN|BODY_10|0
+a set|DT NN|BODY_10|0
+the question|DT NN|BODY_5|0
+l,itis possible|NN JJ|BODY_8|0
+mip comip|NN NN|BODY_9|0
+the transcript|DT NN|BODY_13|0
+exactly s|RB VBZ|BODY_6|0
+kilian ki|JJ NN|BODY_3|0
+the pieces|DT NNS|BODY_2|0
+lglgjnj.for simplicitywehave|NN NN|BODY_11|0
+the system|DT NN|BODY_5|0
+the interest|DT NN|BODY_3|0
+this decision |DT NN|BODY_8|0
+these runs|DT NNS|BODY_3|0
+that wehave|DT NN|BODY_2|0
+all messages|DT NNS|BODY_6|0
+this this|DT DT|BODY_2|0
+qnrs possesses|NNS NNS|BODY_2|0
+all y|DT NN|BODY_4|0
+the machine|DT NN|BODY_3|0
+a proposition|DT NN|BODY_4|0
+strong deciders|JJ NNS|BODY_14|0
+coin tosses|NN NNS|BODY_4|0
+this exchange|DT VBP|BODY_9|0
+random variable|JJ JJ|BODY_5|0
+x f0|SYM CD|BODY_13:BODY_8|0
+promise problem|NN NN|BODY_4|0
+no way|DT NN|BODY_6|0
+c isachecker|NN NN|BODY_4|0
+some super-set|DT NN|BODY_7|0
+'s queries|POS NNS|BODY_5|0
+given length|VBN NN|BODY_11|0
+theorem 2.9|NN CD|BODY_4|0
+l whichwehave|JJ NN|BODY_4|0
+the function|DT NN|BODY_4|0
+d byway|JJ NN|BODY_4|0
+this sense|DT NN|BODY_2|0
+informally ,achecker|RB NN|BODY_1|0
+polynomial length|JJ NN|BODY_7|0
+this lemma|DT NN|BODY_1|0
+the weakness|DT NN|BODY_1|0
+1 2|CD CD|BODY_7|0
+2 ,jxj|CD ,|BODY_10|0
+the strength|DT NN|BODY_2|0
+the modulus|DT NN|BODY_5|0
+v receives|RB VBZ|BODY_8|0
+a subroutine|DT NN|BODY_3|0
+section 1.2|NN CD|BODY_1|0
+related work|JJ NN|BODY_1|0
+the relationship|DT NN|BODY_2|0
+a decider |DT NN|BODY_3|0
+no prover |DT NN|BODY_3|0
+v 1|NN CD|BODY_2|0
+1 equals|CD VBZ|BODY_8|0
+a decider.|DT NN|BODY_8|0
+the program|DT NN|BODY_1|0
+this fact|DT NN|BODY_6|0
+this message|DT NN|BODY_6|0
+the strategy|DT NN|BODY_5|0
+all queries|DT NNS|BODY_3|0
+arbitrary n|JJ NN|BODY_3|0
+l wehavechosen|JJ NN|BODY_6|0
+unlikeinteractive proofs|JJ NNS|BODY_1|0
+logarithmic sparseness|JJ NN|BODY_5|0
+this context|DT NN|BODY_2|0
+no prover|DT NN|BODY_17|0
+a.standard error-reduction|JJ NN|BODY_12|0
+this regard|DT NN|BODY_10|0
+a query|DT NN|BODY_8|0
+the membership|DT NN|BODY_15|0
+these properties|DT NNS|BODY_7|0
+many di|JJ NNS|BODY_4|0
+both cases|DT NNS|BODY_9|0
+the role|DT NN|BODY_6|0
+quadratic non-residuosity|JJ NN|BODY_4|0
+a class|DT NN|BODY_6|0
+'s goal|POS NN|BODY_4|0
+a moment|DT NN|BODY_2|0
+a subclass|DT NN|BODY_8|0
+l.wenow note|JJ NN|BODY_7|0
+w 1|VBD CD|BODY_5|0
+section 6|NN CD|BODY_8|0
+again correctness|RB NN|BODY_3|0
+ne l.ifl|CD NN|BODY_7|0
+ip whichdoesnotpossess|NN NN|BODY_6|0
+np that|JJ IN|BODY_5|0
+all strings|DT NNS|BODY_14|0
+l.we note|JJ NN|BODY_4|0
+this case|DT NN|BODY_1|0
+p1 p|DT NN|BODY_1|0
+1 otherwise|CD RB|BODY_5|0
+first note|JJ NN|BODY_1|0
+i c|JJ NN|BODY_8|0
+the majorityvote|DT NN|BODY_1|0
+section 4.4|NN CD|BODY_4|0
+6 ,k|CD NN|BODY_15|0
+instead it|RB PRP|BODY_1|0
+all graphs|DT NNS|BODY_4|0
+these queries|DT NNS|BODY_4|0
+conditional results|JJ NNS|BODY_1|0
+this value|DT NN|BODY_5|0
+mod n.|JJ NN|BODY_8|0
+a outputs|DT NNS|BODY_3|0
+lemma 3.5|NN CD|BODY_1|0
+this set|DT NN|BODY_9|0
+deciders cf|NNS NN|BODY_8|0
+a subprotocol|DT NN|BODY_4|0
+language membership|NN NN|BODY_7|0
+the addition|DT NN|BODY_1|0
+normal oracles|JJ NNS|BODY_6|0
+f x|NN NN|BODY_1|0
+this materiel|DT NN|BODY_1|0
+their construction|PRP$ NN|BODY_1|0
+most n|JJS NN|BODY_11|0
+the issues|DT NNS|BODY_1|0
+these np-relations|DT NNS|BODY_11|0
+3.1 hold|CD NN|BODY_10|0
+step 1.1|NN CD|BODY_1|0
+the outcome|DT NN|BODY_1|0
+this end|DT NN|BODY_1|0
+checkable ones|JJ NNS|BODY_7|0
+this conversation|DT NN|BODY_4|0
+2 x|CD NN|BODY_8|0
+section 5|NN CD|BODY_5|0
+the answers|DT NNS|BODY_1|0
+log-sparse languages|JJ NNS|BODY_1|0
+the claim|DT NN|BODY_1|0
+many people|JJ NNS|BODY_1|0
+de ne|FW CD|BODY_1|0
+these assumptions|DT NNS|BODY_9|0
+program checkers|NN NNS|BODY_3|0
+a party|DT NN|BODY_1|0
+d picks|VBD NNS|BODY_1|0
+string rp|NN NN|BODY_3|0
+machine d0|NN NN|BODY_2|0
+2 l|CD NN|BODY_1|0
+that m|DT NN|BODY_1|0
+assumption d|NN NN|BODY_1|0
+that d0|DT NN|BODY_1|0
+6.2 results|CD NNS|BODY_1|0
+a program |DT NN|BODY_2|0
+the formalization|DT NN|BODY_1|0
+the protocols|DT NNS|BODY_2|0
+yes instances|RB NNS|BODY_3|0
+the competitiveness|DT NN|BODY_1|0
+jaj 2,n|JJ CD|BODY_5|0
+the reason|DT NN|BODY_1|0
+c beachecker|NN NN|BODY_2|0
+lemma 4.3|NN CD|BODY_11|0
+constant s|JJ PRP|BODY_13|0
+3 p|CD NN|BODY_1|0
+all inputs|DT NNS|BODY_6|0
+an argument|DT NN|BODY_1|0
+compip frip|NN NN|BODY_9|0
+l itself|JJ PRP|BODY_5|0
+de nes|IN NNS|BODY_6|0
+the promise |DT VB|BODY_4|0
+our techniques|PRP$ NNS|BODY_1|0
+the truth|DT NN|BODY_1|0
+each computation|DT NN|BODY_2|0
+qrs qnrs|VBZ NNS|BODY_13|0
+the rst|DT JJ|BODY_1|0
+w halts|RB NNS|BODY_11|0
+'s message|POS NN|BODY_13|0
+other words|JJ NNS|BODY_1|0
+l 2|JJ CD|BODY_1|0
+l l|JJ JJ|BODY_1|0
+other settings|JJ NNS|BODY_1|0
+some notation|DT NN|BODY_1|0

@@ -1,0 +1,603 @@
+bounds|NNS|BODY_12:BODY_6:TITLE_2:ABSTRACT_2:BODY_3:BODY_4|0
+the initial marking|DT JJ VBG|BODY_5:BODY_16:ABSTRACT_2:BODY_14:BODY_4:BODY_8|1
+the incidence matrix|DT NN NN|ABSTRACT_4:BODY_13:BODY_2|0
+an extension|DT NN|BODY_5:ABSTRACT_2:BODY_3:BODY_8|2
+the probability distributions|DT NN NNS|ABSTRACT_5:BODY_7:BODY_8|1
+marked graphs|JJ NNS|BODY_6:ABSTRACT_4:BODY_1:BODY_3:BODY_4:BODY_29|0
+the mean values|DT JJ NNS|BODY_18:ABSTRACT_3:BODY_4|1
+a different perspective|DT JJ NN|BODY_1:ABSTRACT_1|1
+the stochastic interpretation|DT JJ NN|BODY_5:ABSTRACT_6:BODY_3|0
+both|DT|BODY_6:ABSTRACT_6:BODY_2|1
+a subclass|DT NN|ABSTRACT_2:BODY_2|0
+qualitative and quantitative theories|JJ CC JJ NNS|ABSTRACT_4|0
+the proposed bounds|DT VBN NNS|ABSTRACT_4|1
+synchronized queuing networks|JJ JJ NNS|ABSTRACT_3|1
+the considered subclasses|DT VBN NNS|ABSTRACT_2|1
+the stochastic cases|DT JJ NNS|ABSTRACT_8|1
+linear programming problems|JJ NN NNS|ABSTRACT_3|0
+the well-known subclass|DT JJ NN|ABSTRACT_3|0
+the underlying net|DT JJ NN|ABSTRACT_5|0
+the net model|DT JJ NN|ABSTRACT_7|0
+upper and lower|JJ CC JJR|ABSTRACT_1|0
+we|PRP|BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|3
+that|WDT|BODY_6:BODY_12:BODY_5:BODY_11:BODY_27:BODY_1:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_9|4
+transitions|NNS|BODY_12:BODY_11:BODY_16:BODY_21:BODY_13:BODY_3:BODY_24:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|2
+it|PRP|BODY_11:BODY_18:BODY_23:BODY_2:BODY_3:BODY_4:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_30:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_11:BODY_17:BODY_15:BODY_2:BODY_3:BODY_4:BODY_10|0
+the net|DT JJ|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+.e|NN|BODY_6:BODY_5:BODY_18:BODY_15:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8:BODY_9|1
+nets|NNS|BODY_6:BODY_26:BODY_2:BODY_3:BODY_4:BODY_9|0
+us|PRP|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_24:BODY_4|1
+there|EX|BODY_6:BODY_5:BODY_23:BODY_3:BODY_19:BODY_10|0
+this|DT|BODY_1:BODY_2:BODY_3:BODY_8:BODY_9|0
+( lpp2 )|-LRB- NN -RRB-|BODY_5:BODY_21:BODY_2:BODY_4:BODY_8:BODY_9|0
+means|NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8:BODY_20|0
+mgs|NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|1
+f|NN|BODY_5:BODY_13:BODY_2:BODY_3:BODY_7|0
+m 0|NN CD|BODY_5:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8|0
+the firing process|DT NN NN|BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|1
+the mean cycle time|DT JJ NN NN|BODY_6:BODY_5:BODY_17:BODY_3:BODY_4:BODY_7|0
+the steady-state|DT NN|BODY_28:BODY_13:BODY_2:BODY_3:BODY_19:BODY_4|0
+the actual cycle time|DT JJ NN NN|BODY_6:BODY_12:BODY_3:BODY_4:BODY_7:BODY_8|0
+1|CD|BODY_6:BODY_5:BODY_2:BODY_7:BODY_20|0
+the throughput|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|1
+)|-RRB-|BODY_6:BODY_15:BODY_10:BODY_7:BODY_8|1
+the existence|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the concept|DT NN|BODY_5:BODY_21:BODY_2:BODY_3:BODY_8|0
+the case|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_7|0
+upper and lower bounds|JJ CC JJR NNS|BODY_4:BODY_10:BODY_9|1
+persistent nets|JJ NNS|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10|0
+deterministic timing|JJ NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+the steady-state performance|DT NN NN|BODY_6:BODY_2:BODY_14:BODY_10|0
+the marking process|DT VBG NN|BODY_6:BODY_17:BODY_3:BODY_4|0
+hn|PRP|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the problem|DT NN|BODY_5:BODY_1:BODY_3:BODY_10|1
+( 1 ) split|-LRB- CD -RRB- NN|BODY_9|1
+non-safe ordinary persistent nets|JJ JJ NN NNS|BODY_4|1
+a behaviourally equivalent mg|DT RB JJ NN|BODY_3|1
+i .e|FW FW|BODY_12:BODY_31:BODY_2:BODY_10:BODY_9|0
+the number|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+a bounded persistent net|DT VBN JJ NN|BODY_5:BODY_10|1
+non-safe ordinary persistent models|JJ JJ NN NNS|BODY_6|1
+an important particular case|DT JJ JJ NN|BODY_1|1
+safe persistent nets [5]|JJ NN NNS NN|BODY_11|1
+a home state|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+mono-t-semiflow nets|JJ NNS|BODY_6:BODY_17:BODY_2:BODY_24:BODY_3:BODY_4|0
+a net|DT JJ|BODY_5:BODY_15:BODY_3|0
+the deterministic case|DT JJ NN|BODY_12:BODY_6:BODY_5|0
+the firing count vector|DT NN NN NN|BODY_4:BODY_8|0
+the original net|DT JJ NN|BODY_11:BODY_5:BODY_2:BODY_1:BODY_4|0
+n \theta m matrices|RB JJ NN NNS|BODY_2|0
+the departamento de ingenier|DT FW FW FW|BODY_2|0
+a linear programming problem|DT JJ NN NN|BODY_12:BODY_7|0
+the steady-state cycle time|DT NN NN NN|BODY_4|0
+the initially marked places|DT RB VBN NNS|BODY_2|0
+a different initial marking|DT JJ JJ VBG|BODY_5|0
+the exact performance evaluation|DT JJ NN NN|BODY_5|0
+structurally persistent marked graphs|RB NN JJ NNS|BODY_2|0
+its marking process|PRP$ VBG NN|BODY_5:BODY_7:BODY_9|0
+the net , fire|DT NN , NN|BODY_10|0
+calle mar 'ia de|FW FW FW FW|BODY_5|0
+the latter case transitions|DT JJ NN NNS|BODY_10|0
+either places or transitions|DT NNS CC NNS|BODY_9|0
+the dipartimento di informatica|DT NN NN NN|BODY_2|0
+a mono-t-semiflow net conflicts|DT JJ NN NNS|BODY_1|0
+the most general one|DT RBS JJ NN|BODY_2|0
+even strong marking ergodicity|RB JJ VBG NN|BODY_3|0
+the queueing networks point|DT NN NNS NN|BODY_3|0
+the firing flow vector|DT NN NN NN|BODY_11|0
+structurally persistent iff persistent|RB JJ NN JJ|BODY_3|0
+their related marking process|PRP$ JJ VBG NN|BODY_9|0
+the synchronized queueing network|DT JJ NN NN|BODY_8|0
+the steady-state throughput|DT NN NN|BODY_12:BODY_22:BODY_2:BODY_3|0
+q1 p3 figure 1|NNS JJ NN CD|BODY_6|0
+a stochastic marked net|DT JJ JJ NN|BODY_18:BODY_2|0
+a structurally persistent net|DT RB JJ JJ|BODY_8|0
+a synchronized queueing network|DT JJ NN NN|BODY_7|0
+the mean firing delays|DT JJ NN NNS|BODY_9|0
+an upper bound|DT JJ JJ|BODY_11:BODY_2:BODY_3:BODY_4|0
+a k-server  behaviour|DT NN NN NN|BODY_3|0
+the theoretical expected values|DT JJ JJ NNS|BODY_9|0
+a given persistent (|DT VBN NN -LRB-|BODY_3|0
+live ) persistent nets|JJ -RRB- JJ NNS|BODY_2|0
+the other two places|DT JJ CD NNS|BODY_11|0
+the production and consumption|DT NN CC NN|BODY_2|0
+such a way|JJ DT NN|BODY_12:BODY_5|1
+fractional programming problems [8]|JJ NN NNS NN|BODY_11|0
+arrival and service distributions|NN CC NN NNS|BODY_2|0
+the structurally persistent net|DT NN JJ NN|BODY_3|0
+prod cons holes data|NN NNS NNS NNS|BODY_9|0
+all reachable marking m|DT NN VBG NN|BODY_4|0
+only the trivial bound|RB DT JJ VBN|BODY_4|0
+the deterministic timing )|DT JJ NN -RRB-|BODY_16|0
+any two reachable markings|DT CD JJ NNS|BODY_4|0
+the throughput computation problem|DT NN NN NN|BODY_3|0
+an infinite server transition|DT JJ NN NN|BODY_2|0
+weakly ergodic firing process|RB JJ NN NN|BODY_14|0
+see definition 2.3 )|VB NN CD -RRB-|BODY_20|0
+the same net structure|DT JJ JJ NN|BODY_4|0
+qualitative and quantitative analysis|JJ CC JJ NN|BODY_7|0
+the same optimum value|DT JJ JJ NN|BODY_6|0
+two non disjoint subclasses|CD JJ NN NNS|BODY_3|0
+queueing networks terminology )|VBG NNS NN -RRB-|BODY_9|0
+some monoclass queueing networks|DT NN NN NNS|BODY_4|0
+any conflict resolution policy|DT NN NN NN|BODY_2|0
+strong connectivity and boundedness|JJ NN CC NN|BODY_3|0
+a bounded marked net|DT VBN JJ NN|BODY_3|0
+corollary 4.2 mono-t-semiflow nets|NN CD NN NNS|BODY_13|0
+the mean firing time|DT JJ NN NN|BODY_7|0
+live and safe mgs|JJ CC JJ NNS|BODY_4|0
+a unique minimal semiflow|DT JJ JJ NN|BODY_5|0
+the results|DT NNS|BODY_5:BODY_2:BODY_1|0
+this paper|DT NN|BODY_5:BODY_2:BODY_4:BODY_9|0
+a unique closed subset|DT JJ JJ NN|BODY_4|0
+property 4.7 live mgs|NN CD JJ NNS|BODY_14|0
+( 3 ) compute|-LRB- CD -RRB- NN|BODY_17|0
+all transition firing delays|DT NN NN NNS|BODY_7|0
+the delays and forms|DT NNS CC NNS|BODY_7|0
+the behaviourally equivalent mg|DT RB JJ NN|BODY_15|0
+the following negative result|DT VBG JJ NN|BODY_16|0
+all persistent marked nets|DT JJ JJ NNS|BODY_1|0
+a transient phase (|DT JJ NN -LRB-|BODY_30|0
+the previous theorem shows|DT JJ PRP NNS|BODY_9|0
+all marking repetitive sequences|DT VBG JJ NNS|BODY_5|0
+its associated state space|PRP$ JJ NN NN|BODY_3|0
+just a particular case|RB DT JJ NN|BODY_2|0
+proper linear programming problems|JJ JJ NN NNS|BODY_7|0
+the fundamental circuit matrix|DT JJ NN NN|BODY_3|0
+the usual liveness condition|DT JJ NN NN|BODY_2|0
+safe and persistent nets|JJ CC JJ NNS|BODY_3|0
+another output single server|DT NN JJ NN|BODY_7|0
+an exponential distribution timing|DT JJ NN NN|BODY_10|0
+the relative firing frequencies|DT JJ NN NNS|BODY_6|0
+the relative firing frequency|DT JJ NN NN|BODY_6|0
+4.3 structurally persistent nets|CD NN JJ NNS|BODY_28|0
+an initial transient phase|DT JJ NN NN|BODY_3|0
+\gamma ( '( e|NN -LRB- JJ NN|BODY_6|0
+a selected transition t|DT VBN NN NN|BODY_5|0
++ '( e cons|NN JJ NN NNS|BODY_10|0
+the unique minimal t-semiflow|DT JJ JJ NN|BODY_3|0
+only a finite number|RB DT JJ NN|BODY_12|0
+live bounded persistent nets|JJ VBN JJ NNS|BODY_2|0
+mean and higher moments|JJ CC JJR NNS|BODY_6|0
+the vector f i|DT NN NN NN|BODY_3|0
+e-50015 zaragoza , spain|CD FW , NN|BODY_7|0
+the steady-state transition throughputs|DT NN NN NNS|BODY_25|0
+two different p-semiflows y|CD JJ NNS NN|BODY_4|0
+the related marking process|DT JJ VBG NN|BODY_15|0
+rank( c ) =m\gamma1|JJ NN -RRB- CD|BODY_1|0
+a new behavioural property|DT JJ NN NN|BODY_5|0
+a structurally characterized class|DT RB VBN NN|BODY_3|0
+a petri net model|DT NN JJ NN|BODY_6|0
+the more general cases|DT RBR JJ NNS|BODY_3|0
+its unique minimal t-semiflow|PRP$ JJ JJ NN|BODY_4|0
+the initial persistent net|DT JJ JJ NN|BODY_6|0
+its pn representation )|PRP$ JJ NN -RRB-|BODY_10|0
+the next result|DT JJ NN|BODY_12:BODY_2|0
+the max  operator|DT NN NN NN|BODY_10|0
+mean firing times transitions|JJ NN NNS NNS|BODY_5|0
+live bounded connected nets|JJ VBN VBN NNS|BODY_2|0
+the three-phase firing interpretation|DT JJ NN NN|BODY_2|0
+liveness bound l(t )|NN VBN NN -RRB-|BODY_3|0
+live structurally bounded mono-t-semiflow|JJ RB VBN NN|BODY_7|0
+a home state )|DT NN NN -RRB-|BODY_6|0
+the free choice property|DT JJ NN NN|BODY_1|0
+two non commutative operations|CD JJ JJ NNS|BODY_8|0
+the two net subclasses|DT CD JJ NNS|BODY_1|0
+the following three statements|DT VBG CD NNS|BODY_1|0
+the following marking invariant|DT NN VBG NN|BODY_1|0
+a different order )|DT JJ NN -RRB-|BODY_11|0
+a queueing theory perspective|DT NN NN NN|BODY_1|0
+persistent nets f figure|JJ NNS NN NN|BODY_1|0
+enabling and liveness bounds|VBG CC NN NNS|BODY_8|0
+m 0 [oeim )|NN CD NN -RRB-|BODY_1|0
+the queueing theory point|DT NN NN NN|BODY_1|0
+the infinite server semantics|DT JJ NN NNS|BODY_1|0
+the marked graph case|DT VBN NN NN|BODY_9|0
+the conjecture ( 5|DT NN -LRB- CD|BODY_1|0
+a more detailed discussion|DT RBR JJ NN|BODY_1|0
+the condition l(t )|DT NN NN -RRB-|BODY_2|0
+definition 2.3 structural enabling|NN CD JJ VBG|BODY_1|0
+general , unrelated properties|JJ , JJ NNS|BODY_4|0
+the steady-state performance point|DT NN NN NN|BODY_1|0
+the transition firing times|DT NN NN NNS|BODY_6|0
+2 structurally persistent nets|CD RB JJ NNS|BODY_11|0
+persistent and mono-t-semiflow subclasses|JJ CC JJ NNS|BODY_5|0
+the above computed value|DT JJ JJ NN|BODY_1|0
+a live mono-t-semiflow net|DT JJ NN NN|BODY_4|0
+the two following statements|DT CD VBG NNS|BODY_1|0
+bounded ordinary persistent nets|VBN JJ NN NNS|BODY_5|0
+the classical implication one|DT JJ NN NN|BODY_1|0
+3 ergodicity and measurability|CD NN CC NN|BODY_1|0
+( corollary 4.1.1 )|-LRB- JJ CD -RRB-|BODY_6|0
+any more time-dependent distributions|DT JJR NN NNS|BODY_3|0
+some general structural results|DT JJ JJ NNS|BODY_2|0
+any other reachable marking|DT JJ NN VBG|BODY_4|0
+the same structure )|DT JJ NN -RRB-|BODY_6|0
+( i .e|-LRB- FW FW|BODY_6:BODY_5:BODY_17|0
+the liveness bound concept|DT NN VBN NN|BODY_1|0
+tokens|NNS|BODY_6:BODY_5:BODY_11:BODY_3:BODY_4:BODY_9|0
+the sum|DT NN|BODY_6:BODY_11:BODY_3:BODY_8|0
+the marked nets|DT JJ NNS|BODY_2|1
+the following limit|DT VBG NN|BODY_6:BODY_3:BODY_19|0
+the following|DT VBG|BODY_15:BODY_1:BODY_3|0
+weak ergodicity|JJ NN|BODY_6:BODY_12:BODY_26:BODY_3:BODY_4|0
+the marking|DT VBG|BODY_13:BODY_2:BODY_3:BODY_7|0
+figure 6 )|NN CD -RRB-|BODY_8|1
+this section|DT NN|BODY_5:BODY_23:BODY_1:BODY_3:BODY_4|0
+all transitions|DT NNS|BODY_13:BODY_2:BODY_7:BODY_9|0
+bounded persistent nets|VBN JJ NNS|BODY_5:BODY_2:BODY_1:BODY_3|0
+the strong connection|DT JJ NN|BODY_2|0
+their safe markings|PRP$ JJ NNS|BODY_13|1
+upper bounds|JJ NNS|BODY_2:BODY_1:BODY_24:BODY_8|0
+(|-LRB-|BODY_5:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8|0
+an analogous way|DT JJ NN|BODY_4|1
+petri net models|NN JJ NNS|BODY_7|1
+strongly connected mgs|RB VBN NNS|BODY_2:BODY_3|0
+only deterministic timing|RB JJ NN|BODY_2|1
+safe persistent nets|JJ NN NNS|BODY_8|1
+liveness|NN|BODY_5:BODY_3:BODY_4:BODY_7|0
+a producer-consumer system|DT NN NN|BODY_11:BODY_4|0
+structurally persistent nets|RB JJ NNS|BODY_2:BODY_1:BODY_4|0
+the bound|DT VBN|BODY_6:BODY_5:BODY_3:BODY_8|0
+the cycle time|DT NN NN|BODY_1:BODY_4:BODY_7|0
+each transition|DT NN|BODY_12:BODY_19:BODY_7|0
+the maximal degree|DT JJ NN|BODY_11:BODY_4:BODY_7|0
+m|NN|BODY_6:BODY_11:BODY_1:BODY_9|0
+a method|DT NN|BODY_6:BODY_2:BODY_3|2
+transition firing times|NN NN NNS|BODY_7|1
+8t 2 t|JJ CD NN|BODY_2:BODY_10|0
+the probability distribution|DT NN NN|BODY_3:BODY_4|0
+( 5 )|-LRB- CD -RRB-|BODY_6:BODY_8|0
+]|NN|BODY_11:BODY_2:BODY_7|0
+[5 ]|DT NN|BODY_6:BODY_2|1
+the upper bound|DT JJ JJ|BODY_18:BODY_1:BODY_4|0
+all the transitions|PDT DT NNS|BODY_5:BODY_10|0
+the firing processes|DT NN NNS|BODY_3:BODY_14:BODY_4|0
+an example|DT NN|BODY_5:BODY_21:BODY_13:BODY_1|0
+times|NNS|BODY_5:BODY_13:BODY_4:BODY_9|0
+a marked net|DT JJ NN|BODY_6:BODY_2:BODY_14|0
+the other hand|DT JJ NN|BODY_1|0
+0, y t|CD RB NN|BODY_2|0
+the average number|DT JJ NN|BODY_6:BODY_3|0
+the directedness property|DT NN NN|BODY_2|0
+two consecutive firings|CD JJ NNS|BODY_12:BODY_16|0
+the same set|DT JJ NN|BODY_7:BODY_8|0
+t i|NN FW|BODY_18:BODY_13:BODY_4:BODY_8|0
+the following result|DT VBG NN|BODY_2|0
+the cyclic process|DT JJ NN|BODY_11:BODY_10|0
+enabling and liveness|VBG CC NN|BODY_2|0
+the lower bound|DT JJR VBN|BODY_6:BODY_2|0
+the following statement|DT JJ NN|BODY_2|0
+a reversible net|DT JJ NN|BODY_5:BODY_2|0
+a buffer storage|DT NN NN|BODY_6|0
+an overall picture|DT JJ NN|BODY_2|0
+the steady-state performances|DT NN NNS|BODY_5|0
+a net n|DT NN NN|BODY_2|0
+their incidence matrix|PRP$ NN NN|BODY_11|0
+1 ) such|CD -RRB- JJ|BODY_14|0
+the computation|DT NN|BODY_6:BODY_11:BODY_2:BODY_4|0
+the knowledge|DT NN|BODY_3:BODY_8|0
+any distribution function|DT NN NN|BODY_4|0
+case|NN|BODY_2|0
+the timing semantics|DT NN NNS|BODY_8|0
+once the contribution|RB DT NN|BODY_15|0
+e .g.|NN NN|BODY_3:BODY_7|0
+the structure|DT NN|BODY_5:BODY_3:BODY_4|0
+the p re|DT NN NN|BODY_3|0
+the firing mechanism|DT NN NN|BODY_5:BODY_4|0
+two different kind|CD JJ NN|BODY_2|0
+the minimal t-semiflow|DT JJ NN|BODY_5:BODY_3|0
+home states|NN NNS|BODY_25:BODY_2:BODY_1:BODY_3|0
+el 'ectrica e|FW FW NN|BODY_3|0
+( 3 )|-LRB- CD -RRB-|BODY_1:BODY_4|0
+a place self-loop|DT NN NN|BODY_5|0
+' 2 +|POS CD NNP|BODY_4|0
+transition t i|NN NN FW|BODY_6:BODY_18:BODY_7|0
+some particular cases|DT JJ NNS|BODY_2|0
+a t-semiflow )|DT NN -RRB-|BODY_2|0
+the financial support|DT JJ NN|BODY_4|0
+another possible source|DT JJ NN|BODY_3|0
+the complete sequentialization|DT JJ NN|BODY_14|0
+a necessary condition|DT JJ NN|BODY_6|0
+non-live mono-t-semiflow net|JJ JJ NN|BODY_2|0
+the behaviour graph|DT NN NN|BODY_2|0
+\delta f i|NN NN NN|BODY_3|0
+the spanish comisi'on|DT JJ NN|BODY_3|0
+an interesting example|DT JJ NN|BODY_2|0
+the cycle times|DT NN NNS|BODY_14|0
+mono-t-semiflow figure 3|JJ NN CD|BODY_3|0
+the limit vector|DT NN NN|BODY_2|0
+some synchronization schemes|DT NN NNS|BODY_5|0
+a time interpretation|DT NN NN|BODY_8|0
+stochastic pns|JJ NNS|BODY_5:BODY_11:BODY_8|0
+the firing times|DT NN NNS|BODY_12:BODY_9|0
+the usual assumptions|DT JJ NNS|BODY_4|0
+infinite server semantics|JJ NN NNS|BODY_3:BODY_20|0
+the liveness|DT NN|BODY_2:BODY_7:BODY_9|0
+the sequence t|DT NN NN|BODY_15:BODY_7|0
+the state space|DT NN NN|BODY_6:BODY_7|0
+the following condition|DT VBG NN|BODY_8|0
+the mean value|DT JJ NN|BODY_3|0
+3.2 and 3.3|CD CC CD|BODY_2|0
+the model corresponds|DT NN NNS|BODY_9|0
+the diagonal matrix|DT JJ NN|BODY_10|0
+a non reachable|DT FW NN|BODY_16|0
+the obvious way|DT JJ NN|BODY_6|0
+' 1 +|POS CD NNP|BODY_3|0
+our theorem 3.1|PRP$ NN CD|BODY_10|0
+persistent connected nets|JJ JJ NNS|BODY_4|0
+the steady-state behaviour|DT NN NN|BODY_2|0
+the obtained bound|DT VBN VBN|BODY_6:BODY_10|0
+a particular class|DT JJ NN|BODY_9|0
+these bounded nets|DT VBN NNS|BODY_2|0
+a fireable sequence|DT JJ NN|BODY_2|0
+the service rates|DT NN NNS|BODY_3|0
+any complete sequentialization|DT JJ NN|BODY_10|0
+1 t 2|CD NN CD|BODY_16:BODY_8|0
+the left annullers|DT JJ NNS|BODY_9|0
+the net subclasses|DT JJ NNS|BODY_4|0
+any net topology|DT JJ NN|BODY_7|0
+the previous problem|DT JJ NN|BODY_15|0
+the good properties|DT JJ NNS|BODY_5|0
+the above result|DT JJ NN|BODY_7|0
+weak ergodicity assumption|JJ NN NN|BODY_14|0
+figure 3.b shows|NN JJ NNS|BODY_2|0
+the performance indexes|DT NN NNS|BODY_13|0
+bounded net subclasses|VBN JJ NNS|BODY_4|0
+two output transitions|CD NN NNS|BODY_5|0
+time|NN|BODY_6:BODY_19:BODY_9|0
+a generalization|DT NN|BODY_2:BODY_4:BODY_20|0
+net ( pn|JJ -LRB- NN|BODY_12|0
+all theorem proofs|DT NN NNS|BODY_8|0
+these two classes|DT CD NNS|BODY_4|0
+( lpp1 )|-LRB- NNS -RRB-|BODY_19|0
+the net (|DT JJ -LRB-|BODY_3|0
+a sufficient condition|DT JJ NN|BODY_2|0
+they|PRP|BODY_32:BODY_16:BODY_4|0
+def process x(t|JJ NN NN|BODY_7|0
+characterizable net subclass|JJ JJ NN|BODY_6|0
+different closed subsets|JJ JJ NNS|BODY_5|0
+all the activities|DT DT NNS|BODY_11|0
+the timed interpretation|DT VBN NN|BODY_6|0
+any live net|DT JJ NN|BODY_2|0
+the mean time|DT JJ NN|BODY_15|0
+0 )|CD -RRB-|BODY_2|0
+b take|NN NN|BODY_2|0
+certain interplay|JJ NN|BODY_2|0
+their basic properties|PRP$ JJ NNS|BODY_6|0
+the random variable|DT JJ JJ|BODY_4|0
+no stochastic interpretation|DT JJ NN|BODY_21|0
+an intuitive idea|DT JJ NN|BODY_16|0
+these nets subclasses|DT NNS NNS|BODY_3|0
+the performance point|DT NN NN|BODY_7|0
+an initial marking|DT JJ VBG|BODY_8|0
+the only t-semiflow|DT JJ NN|BODY_9|0
+general distribution timing|JJ NN NN|BODY_9|0
+a bounded vector|DT VBN NN|BODY_9|0
+( e .g|-LRB- NN NN|BODY_3|0
+the weak ergodicity|DT JJ NN|BODY_3|0
+the following terms|DT VBG NNS|BODY_15|0
+the obtained lower|DT VBN JJR|BODY_3|0
+a mono-t-semiflow net|DT JJ NN|BODY_1:BODY_3|0
+its row vectors|PRP$ NN NNS|BODY_7|0
+the long run|DT JJ NN|BODY_7|0
+the above property|DT JJ NN|BODY_11|0
+a structural counterpart|DT JJ NN|BODY_5|0
+the higher moments|DT JJR NNS|BODY_5|0
+any marked net|DT JJ NN|BODY_3|0
+) and mono|-RRB- CC NN|BODY_6|0
+the optimal value|DT JJ NN|BODY_14|0
+its pn representation|PRP$ JJ NN|BODY_8|0
+the output places|DT NN NNS|BODY_3|0
+5 upper bounds|CD JJ NNS|BODY_21|0
+the functional point|DT JJ NN|BODY_3|0
+the mean number|DT JJ NN|BODY_10|0
+their mean values|PRP$ JJ NNS|BODY_6|0
+a special case|DT JJ NN|BODY_6|0
+a marked pn|DT JJ NN|BODY_3|0
+an efficient computation|DT JJ NN|BODY_13|0
+the same that|DT JJ IN|BODY_5|0
+the obtained results|DT VBN NNS|BODY_2|0
+the above properties|DT JJ NNS|BODY_2|0
+a stochastic net|DT JJ NN|BODY_7|0
+the best performance|DT JJS NN|BODY_2|0
+reachable ( section|JJ -LRB- NN|BODY_8|0
+m 0 i|NN CD NN|BODY_6|0
+an interesting property|DT JJ NN|BODY_10|0
+the only one|DT RB CD|BODY_4|0
+the system model|DT NN NN|BODY_3|0
+these additional servers|DT JJ NNS|BODY_29|0
+a stochastic model|DT JJ NN|BODY_7|0
+the previous lower|DT JJ JJR|BODY_6|0
+the reachability graph|DT NN NN|BODY_3|0
+t 5 )|NN CD -RRB-|BODY_7|0
+y 2 (|NN CD -LRB-|BODY_6|0
+a polynomial time|DT NN NN|BODY_5|0
+the observation period|DT NN NN|BODY_5|0
+ergodic marking process|JJ VBG NN|BODY_3|0
+a live net|DT JJ NN|BODY_5|0
+a trivial lower|DT JJ JJR|BODY_3|0
+arbitrarily large coefficient|RB JJ NN|BODY_6|0
+long run performance|JJ NN NN|BODY_6|0
+short ) subclasses|JJ -RRB- NNS|BODY_13|0
+\gamma lb i|NN NN NN|BODY_4|0
+only recurrent markings|RB JJ NNS|BODY_8|0
+the bounding approach|DT VBG NN|BODY_3|0
+4.6 and 4.1|CD CC CD|BODY_7|0
+a net model|DT JJ NN|BODY_7|0
+e( t 1|JJ NN CD|BODY_16|0
+a useful generalization|DT JJ NN|BODY_4|0
+an effective conflict|DT JJ NN|BODY_3|0
+choice and concurrency|NN CC NN|BODY_3|0
+m ( m|NN -LRB- NN|BODY_1|0
+non deterministic timing|NN JJ NN|BODY_3|0
+the two definitions|DT CD NNS|BODY_1|0
+this work|DT NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_9|0
+deterministic timing assumption|JJ NN NN|BODY_4|0
+an obvious relation|DT JJ NN|BODY_4|0
+repeatable firing sequences|JJ NN NNS|BODY_8|0
+their qualitative properties|PRP$ JJ NNS|BODY_2|0
+a live mg|DT JJ NN|BODY_16|0
+the firing delays|DT NN NNS|BODY_12|0
+the buffer capacity|DT NN NN|BODY_3|0
+the above bound|DT JJ VBN|BODY_4|0
+their marking processes|PRP$ VBG NNS|BODY_27|0
+view|NN|BODY_2:BODY_4:BODY_8|0
+5.1 )|CD -RRB-|BODY_7:BODY_8:BODY_9|0
+definition 2.2 liveness|NN CD NN|BODY_9|0
+a behavioural analysis|DT JJ NN|BODY_2|0
+the same value|DT JJ NN|BODY_4|0
+( service time|-LRB- NN NN|BODY_7|0
+the structural level|DT JJ NN|BODY_3|0
+untimed net descriptions|JJ JJ NNS|BODY_3|0
+the exact computation|DT JJ NN|BODY_4|0
+some basic results|DT JJ NNS|BODY_8|0
+the original definition|DT JJ NN|BODY_3|0
+the decision policy|DT NN NN|BODY_4|0
+a reachable upper|DT JJ JJ|BODY_3|0
+an m jm|DT NN NN|BODY_2|0
+the equivalent mg|DT JJ NN|BODY_6|0
+the random variables|DT JJ NNS|BODY_8|0
+the following method|DT VBG NN|BODY_4|0
+all firing times|DT VBG NNS|BODY_4|0
+more than one|JJR IN CD|BODY_11|0
+the mean length|DT JJ NN|BODY_8|0
+global incidence functions|JJ NN NNS|BODY_5|0
+pre , post|NN , NN|BODY_1|0
+m 0 (|NN CD -LRB-|BODY_2|0
+this bound cannot|DT JJ NN|BODY_1|0
+the model|DT NN|BODY_12:BODY_15:BODY_10:BODY_4|0
+a behavioural property|DT JJ NN|BODY_33:BODY_2|0
+the particular case|DT JJ NN|BODY_1|0
+structurally persistent net|WDT JJ NN|BODY_2|0
+no transient marking|DT NN VBG|BODY_6|0
+the maximal throughput|DT JJ IN|BODY_6|0
+a  true |DT NNP JJ|BODY_4|0
+non-safe persistent nets|JJ JJ NNS|BODY_4|0
+the first moment|DT JJ NN|BODY_3|0
+definition 3.1 ergodicity|NN CD NN|BODY_1|0
+the previous lemmas|DT JJ NNS|BODY_1|0
+live mgs|JJ NNS|BODY_6:BODY_11:BODY_5|0
+semi-markovian bounded nets|JJ VBN NNS|BODY_1|0
+no actual decision|DT JJ NN|BODY_14|0
+this particular case|DT JJ NN|BODY_2|0
+the upper bounds|DT JJ NNS|BODY_5|0
+all different behaviours|DT JJ NNS|BODY_6|0
+a lower bound|DT JJR VBN|BODY_3|0
+only weak ergodicity|RB JJ NN|BODY_15|0
+an improved version|DT JJ NN|BODY_4|0
+the liveness bounds|DT NN NNS|BODY_4|0
+the producer-consumer system|DT NN NN|BODY_10|0
+this pesimistic behaviour|DT JJ NN|BODY_1|0
+reachable upper bounds|JJ JJ NNS|BODY_3|0
+the following upper|DT VBG JJ|BODY_2|0
+all its evolution|DT PRP$ NN|BODY_13|0
+transition t 2|NN NN CD|BODY_5|0
+two net subclasses|CD JJ NNS|BODY_4|0
+some general results|DT JJ NNS|BODY_2|0
+non live )|JJ JJ -RRB-|BODY_6|0
+structurally persistent iff|RB JJ NN|BODY_6|0
+in section 4.1|IN NN CD|BODY_31|0
+all possible steady-state|DT JJ NN|BODY_5|0
+the classical concept|DT JJ NN|BODY_6|0
+the computation )|DT NN -RRB-|BODY_11|0
+the timing interpretation|DT NN NN|BODY_6:BODY_5|0
+the usual concept|DT JJ NN|BODY_2|0
+unbounded persistent nets|JJ JJ NNS|BODY_4|0
+these cycle times|DT NN NNS|BODY_1|0
+the same transition|DT JJ NN|BODY_16|0
+the model [1]|DT NN NN|BODY_11|0
+non persistent behaviour|JJ JJ NN|BODY_6|0
+the next section|DT JJ NN|BODY_1|0
+the trivial bound|DT JJ JJ|BODY_1|0
+safe persistent net|JJ JJ JJ|BODY_27|0
+a semi-markov process|DT JJ NN|BODY_10|0
+( 2|-LRB- CD|BODY_1:BODY_2:BODY_10|0
+the live and|DT JJ CC|BODY_1|0
+the model )|DT NN -RRB-|BODY_34|0
+their ergodicity conditions|PRP$ NN NNS|BODY_9|0
+a second generalization|DT JJ NN|BODY_1|0
+figure 7 )|NN CD -RRB-|BODY_6|0
+0|CD|BODY_1:BODY_10:BODY_8|0
+a place|DT NN|BODY_5:BODY_1|0
+the control system|DT NN NN|BODY_1|0
+processes p 1|NNS NN CD|BODY_1|0
+other net classes|JJ JJ NNS|BODY_8|0
+the net interpretation|DT JJ NN|BODY_7|0
+a partial result|DT JJ NN|BODY_1|0
+any output transition|DT NN NN|BODY_7|0
+the usual assumption|DT JJ NN|BODY_1|0
+the vector m|DT NN NN|BODY_1|0
+account|NN|BODY_6:BODY_17:BODY_7|0
+the net )|DT NN -RRB-|BODY_14|0
+a particular case|DT JJ NN|BODY_1|0
+property 4.3 )|NN CD -RRB-|BODY_5|0
+a bounded pn|DT VBN NN|BODY_1|0
+1 ) n|CD -RRB- NN|BODY_1|0
+a single t-semiflow|DT JJ NN|BODY_9|0
+general timing distributions|JJ NN NNS|BODY_1|0
+the derived mg|DT VBN NN|BODY_3|0
+account property 4.9|NN NN CD|BODY_1|0
+the usual (|DT JJ -LRB-|BODY_1|0
+the obtained bounds|DT VBN NNS|BODY_3|0
+single-phase timed transitions|NN VBD NNS|BODY_5|0
+the main property|DT JJ NN|BODY_1|0
+two overlapping subclasses|CD JJ NNS|BODY_1|0
+this case|DT NN|BODY_1:BODY_2|0
+bounded marked graphs|VBN VBN NNS|BODY_7|0
+its firing process|PRP$ NN NN|BODY_5|0
+an unbounded net|DT JJ NN|BODY_1|0
+6 lower bounds|CD JJR NNS|BODY_1|0
+5.2 upper bounds|CD JJ NNS|BODY_1|0
+5.3 upper bounds|CD JJ NNS|BODY_1|0
+figure equivalent mg|NN JJ NN|BODY_1|0
+section 2.2 )|NN CD -RRB-|BODY_6|0
+no transient markings|DT JJ NNS|BODY_4|0
+their steady-state throughput|PRP$ NN NN|BODY_9|0
+4.2 mono-t-semiflow nets|CD NN NNS|BODY_1|0
+5.1 general approach|CD JJ NN|BODY_1|0
+this extended method|DT JJ NN|BODY_1|0
+a shared resource|DT VBN NN|BODY_5|0
+an example look|DT NN NN|BODY_1|0
+any structural conflict|DT JJ NN|BODY_8|0
+property 6.1|NN CD|BODY_2:BODY_1|0
+some|DT|BODY_5:BODY_2:BODY_1|0
+general this bound|JJ DT VBN|BODY_1|0
+lemma 4.1 [4|NN CD NNS|BODY_1|0
+transition t|NN NN|BODY_6:BODY_13:BODY_1:BODY_3|0
+the analysis|DT NN|BODY_5:BODY_3|0
+the definition|DT NN|BODY_5:BODY_3|0
+all p-semiflows|DT NNS|BODY_5:BODY_3|0
+data|NNS|BODY_2:BODY_3|0
+possible interleaving|JJ NN|BODY_6:BODY_3|0
+this bound|DT JJ|BODY_13:BODY_2:BODY_4|0
+t 2|NN CD|BODY_6|0
+the timing|DT NN|BODY_2:BODY_10|0
+refer|VBP|BODY_2|0
+net models|JJ NNS|BODY_6:BODY_20|0
+the value|DT NN|BODY_2:BODY_7|0
+the buffer|DT NN|BODY_5:BODY_3|0
+example|NN|BODY_2:BODY_1|0
+random variables|JJ NNS|BODY_5:BODY_19|0
+property|NN|BODY_6:BODY_15|0
+a transition|DT NN|BODY_12:BODY_4:BODY_8|0
+\gamma lb|NNP NN|BODY_11:BODY_4:BODY_7|0
+bounded nets|VBN NNS|BODY_6:BODY_5:BODY_1|0
+the vector|DT NN|BODY_4:BODY_8|0
+( 1|-LRB- CD|BODY_3:BODY_7|0
+a lower|DT JJR|BODY_6:BODY_5:BODY_16:BODY_3|0
+the process|DT NN|BODY_6:BODY_1|0
+the firing|DT NN|BODY_6:BODY_5|0
+these nets|DT NNS|BODY_1:BODY_3|0
+the limit|DT NN|BODY_6:BODY_4|0
+the reachability|DT NN|BODY_3:BODY_4|0
+implicit places|JJ NNS|BODY_5:BODY_16:BODY_3|0
+other words|JJ NNS|BODY_13:BODY_1|0
+n|NN|BODY_11:BODY_1:BODY_8|0
+p ost|NN NN|BODY_4|0
+mono-t-semiflow|NN|BODY_12:BODY_2:BODY_3|0
+figure 4|NN CD|BODY_11:BODY_2:BODY_4|0
+variation|NN|BODY_5:BODY_7|0
+a reachable|DT NN|BODY_5:BODY_2|0
+theorem|PRP|BODY_1|0

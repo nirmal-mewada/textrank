@@ -1,0 +1,20 @@
+pulses|NNS|BODY_2|0
+the pulses|DT NNS|BODY_2|0
+pneumatic control valves|JJ NN NNS|BODY_6:BODY_2|0
+industrial controllers|JJ NNS|BODY_2|0
+standard control|JJ NN|BODY_8|0
+control systems|NN NNS|BODY_3|0
+stick-slip motion|JJ NN|BODY_7|0
+the control error|DT NN NN|BODY_6|0
+the industrial experiences|DT JJ NNS|BODY_4|0
+the procedure|DT NN|BODY_5|0
+that|WDT|BODY_4|0
+a procedure|DT NN|BODY_3|0
+static friction ( stiction )|JJ NN -LRB- NN -RRB-|BODY_5|0
+the characteristics|DT NNS|BODY_1|0
+the compensation|DT NN|BODY_1|0
+the control action|DT NN NN|BODY_3|0
+the control signal|DT NN NN|BODY_3|0
+stiction compensation|NN NN|BODY_9|0
+the compensator|DT NN|BODY_1|0
+a friction compensator|DT NN NN|BODY_1|0

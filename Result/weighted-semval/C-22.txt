@@ -1,0 +1,330 @@
+which|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|0
+metrics|NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_1:BODY_10:BODY_7:BODY_9|0
+mobile applications|JJ NNS|TITLE_3:BODY_7:BODY_9|0
+the solution|DT NN|BODY_6:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_1|0
+a mobile object framework|DT JJ NN NN|ABSTRACT_8:BODY_2|0
+this paper|DT NN|BODY_5:BODY_2:BODY_3:ABSTRACT_1|0
+mobile objects|JJ NNS|BODY_11:BODY_3:BODY_4:BODY_7:ABSTRACT_9|0
+terms|NNS|ABSTRACT_3:BODY_3:BODY_7|1
+a number|DT NN|BODY_6:ABSTRACT_4:BODY_2|0
+middleware supported adaptation|JJ VBN NN|TITLE_2|0
+runtime metrics collection|NN NNS NN|TITLE_1|0
+object mobility|NN NN|BODY_6:ABSTRACT_7|0
+the basis|DT NN|ABSTRACT_2:BODY_4|0
+the system|DT NN|BODY_4:ABSTRACT_7|0
+runtimes|NNS|BODY_6:ABSTRACT_8:BODY_10|0
+the measurement and propagation|DT NN CC NN|ABSTRACT_5|0
+the mobile object system|DT JJ NN NN|ABSTRACT_3|0
+scalability , efficiency|NN , NN|ABSTRACT_6|0
+implementation and testing|NN CC NN|ABSTRACT_3|0
+an abstract representation|DT JJ NN|ABSTRACT_2|0
+worst case performance|JJS NN NN|ABSTRACT_4|0
+multiple configurable criteria|JJ JJ NNS|ABSTRACT_4|0
+the mobjex platform|DT NN NN|ABSTRACT_1|0
+a key feature|DT JJ NN|ABSTRACT_1|0
+d.2.8 metrics|NNS NNS|ABSTRACT_2|0
+the application|DT NN|ABSTRACT_7|0
+laboratory tests|NN NNS|ABSTRACT_5|0
+the specification|DT NN|ABSTRACT_3|0
+application adaptation|NN NN|ABSTRACT_6|0
+collection overhead|NN NN|ABSTRACT_9|0
+it|PRP|BODY_12:BODY_6:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+the metrics collection process|DT NNS NN NN|BODY_8|0
+typical mobile object frameworks|JJ JJ NN NNS|BODY_2|0
+a real adaptation scenario|DT JJ NN NN|BODY_3|0
+a certain host increases|DT JJ NN NNS|BODY_2|0
+a centralised system controller|DT JJ NN NN|BODY_3|0
+the start and end|DT NN CC NN|BODY_4|0
+a global adaptation engine|DT JJ NN NN|BODY_4|0
+a per host basis|DT FW NN NN|BODY_7|0
+the resource monitoring subsystem|DT NN NN NN|BODY_5|0
+most systems separate runtimes|RBS NNS JJ NNS|BODY_5|0
+the method execution time|DT NN NN NN|BODY_11|0
+its execution and returns|PRP$ NN CC NNS|BODY_8|0
+the enumeration or lookup|DT NN CC NN|BODY_8|0
+et|FW|BODY_14:BODY_3:BODY_7:BODY_8|0
+the mobjex containment hierarchy|DT NN NN NN|BODY_4|0
+the exact execution environment|DT JJ NN NN|BODY_8|0
+local and global adaptation|JJ CC JJ NN|BODY_11|0
+a useful non-random subset|DT JJ JJ NN|BODY_7|0
+the start or end|DT NN CC NN|BODY_3|0
+the design and derivation|DT NN CC NN|BODY_3|0
+the same method interface|DT JJ NN NN|BODY_3|0
+the metric response time|DT JJ NN NN|BODY_2|0
+the metrics collection solution|DT NNS NN NN|BODY_4|0
+a given problem domain|DT VBN NN NN|BODY_5|0
+quality and resource utilisation|NN CC NN NN|BODY_11|0
+the method call stack|DT NN NN NN|BODY_14|0
+a particular adaptation decision|DT JJ NN NN|BODY_8|0
+a source object communicates|DT NN NN NNS|BODY_8|0
+only simple software metrics|RB JJ NN NNS|BODY_9|0
+processor usage ( pu)|NN NN -LRB- NN|BODY_1|0
+the environmental resource metrics|DT JJ NN NNS|BODY_1|0
+memory usage ( mu)|NN NN -LRB- NN|BODY_1|0
+mobile object frameworks|JJ NN NNS|BODY_6:BODY_1:BODY_10|0
+the memory usage|DT NN NN|BODY_5:BODY_3|0
+a host|DT NN|BODY_6:BODY_5:BODY_9|0
+the method|DT NN|BODY_11:BODY_14:BODY_7|0
+the metrics|DT NNS|BODY_1:BODY_2:BODY_4|1
+( et )|-LRB- FW -RRB-|BODY_3:BODY_4|0
+a method call|DT NN NN|BODY_4|0
+mobjex|NN|BODY_1:BODY_2:BODY_9|0
+ryan and rossi|NNP CC NNP|BODY_1:BODY_3|0
+the adaptation engine|DT NN NN|BODY_5:BODY_8|0
+an object-oriented application|DT JJ NN|BODY_2|0
+mobile object systems|JJ NN NNS|BODY_3|0
+mobile application adaptation|JJ NN NN|BODY_7|0
+other unspecified metrics|JJ JJ NNS|BODY_9|0
+proxies|NNS|BODY_5:BODY_1:BODY_7:BODY_8|0
+some additional metrics|DT JJ NNS|BODY_2|0
+detailed environmental metrics|JJ JJ NNS|BODY_8|0
+the varying speed|DT VBG NN|BODY_3|0
+[11 , 12]|CD , CD|BODY_5|0
+the chosen solution|DT VBN NN|BODY_10|0
+the next section|DT JJ NN|BODY_3|0
+the runtime environment|DT NN NN|BODY_7|0
+definition not part|NN RB NN|BODY_3|0
+the execution characteristics|DT NN NNS|BODY_7|0
+the network bandwidth|DT NN NN|BODY_11|0
+the most part|DT JJS NN|BODY_3|0
+remote method invocation|JJ NN NN|BODY_2|0
+each target object|DT NN NN|BODY_7|0
+a central point|DT JJ NN|BODY_4|0
+a container process|DT NN NN|BODY_2|0
+a remote call|DT JJ NN|BODY_9|0
+a transport manager|DT NN NN|BODY_3|0
+the method body|DT NN NN|BODY_15|0
+at least one|IN JJS CD|BODY_3|0
+the higher it|DT JJR PRP|BODY_9|0
+the proxy call|DT NN NN|BODY_5|0
+a known port|DT VBN NN|BODY_6|0
+the application performance|DT NN NN|BODY_2|0
+synthetic pre-scripted metrics|JJ JJ NNS|BODY_5|0
+the mobjex framework|DT NN NN|BODY_2|0
+an individual machine|DT JJ NN|BODY_4|0
+a certain method|DT JJ NN|BODY_5|0
+the invocation overhead|DT NN NN|BODY_6|0
+no existing means|DT VBG NNS|BODY_11|0
+usage ( pu)|NN -LRB- NN|BODY_6|0
+usage ( mu)|NN -LRB- NN|BODY_2|0
+the execution time|DT NN NN|BODY_3|0
+little prior work|JJ JJ NN|BODY_7|0
+an adaptation engine|DT NN NN|BODY_3|0
+the remaining metrics|DT VBG NNS|BODY_8|0
+usage ( nu)|NN -LRB- NN|BODY_10|0
+a weighting factor|DT NN NN|BODY_4|0
+the cpu load|DT NN NN|BODY_8|0
+the following components|DT JJ NNS|BODY_5|0
+a mobile object|DT JJ NN|BODY_9|0
+the dynamic collection|DT JJ NN|BODY_8|0
+detailed software metrics|JJ NN NNS|BODY_4|0
+the source object|DT NN NN|BODY_3|0
+the desired semantics|DT VBN NNS|BODY_5|0
+more processing power|JJR NN NN|BODY_6|0
+the total time|DT JJ NN|BODY_3|0
+object mobility [6]|NN NN NN|BODY_3|0
+application adaptation [2-7]|NN NN NN|BODY_5|0
+the memory state|DT NN NN|BODY_3|0
+the minimum set|DT JJ NN|BODY_9|0
+system wide information|NN JJ NN|BODY_2|0
+invocations ( ni)|NNS -LRB- NN|BODY_4|0
+a given method|DT VBN NN|BODY_5|0
+a counter value|DT NN NN|BODY_2|0
+a running process|DT VBG NN|BODY_4|0
+a method body|DT NN NN|BODY_5|0
+the response time|DT NN NN|BODY_1|0
+their target object|PRP$ NN NN|BODY_7|0
+the implementation platform|DT NN NN|BODY_3|0
+the full suite|DT JJ NN|BODY_4|0
+dynamic metrics collection|JJ NNS NN|BODY_4|0
+the research community|DT NN NN|BODY_4|0
+a host manager|DT NN NN|BODY_1|0
+the mobjex service|DT NN NN|BODY_8|0
+section 3 )|NN CD -RRB-|BODY_11|0
+the different capabilities|DT JJ NNS|BODY_1|0
+the mobile objects|DT JJ NNS|BODY_8|0
+system wide optimisation|NN JJ NN|BODY_5|0
+the method implementation|DT NN NN|BODY_6|0
+the remote call|DT JJ NN|BODY_10|0
+the execution environment|DT NN NN|BODY_5|0
+[6 , 10-13]|CD , CD|BODY_11|0
+( ms )|-LRB- NNS -RRB-|BODY_12|0
+an adaptation scenario|DT NN NN|BODY_5|0
+real adaptation scenarios|JJ NN NNS|BODY_14|0
+the general case|DT JJ NN|BODY_4|0
+the object implementation|DT NN NN|BODY_16|0
+such the solution|JJ DT NN|BODY_1|0
+an individual runtime|DT JJ NN|BODY_7|0
+additional middleware components|JJ NN NNS|BODY_7|0
+2. performance metrics|DT NN NNS|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+the main contribution|DT JJ NN|BODY_1|0
+another additional metric|DT JJ NN|BODY_3|0
+the time|DT NN|BODY_5:BODY_4:BODY_9|0
+invocations|NNS|BODY_6:BODY_2:BODY_3|0
+this section|DT NN|BODY_2|0
+an object|DT NN|BODY_4:BODY_9|0
+these metrics|DT NNS|BODY_3:BODY_4|0
+section 5|NN CD|BODY_3|1
+adaptation|NN|BODY_5:BODY_2|0
+different locations|JJ NNS|BODY_6:BODY_11|0
+both|DT|BODY_3|0
+execution time|NN NN|BODY_5:BODY_2|0
+a solution|DT NN|BODY_3:BODY_4|0
+]|NN|BODY_12:BODY_5|0
+this subsection|DT NN|BODY_2|1
+proxy objects|JJ NNS|BODY_2|0
+the subset|DT NN|BODY_5|1
+itself|PRP|BODY_6:BODY_11:BODY_5|0
+invocation time|NN NN|BODY_2:BODY_1:BODY_7|0
+response|NN|BODY_5:BODY_9|0
+a method|DT NN|BODY_6:BODY_10|0
+number|NN|BODY_2:BODY_1:BODY_3|0
+software metrics|NN NNS|BODY_8:BODY_9|0
+the functionality|DT NN|BODY_4|0
+automated adaptation|VBN NN|BODY_7|0
+implementation purposes|NN NNS|BODY_3|0
+mobjex )|NN -RRB-|BODY_3|0
+the cost|DT NN|BODY_12|0
+future work|JJ NN|BODY_5|1
+section 4|NN CD|BODY_1|1
+.e|NN|BODY_12:BODY_5|0
+generic terms|JJ NNS|BODY_4|0
+a service|DT NN|BODY_2|0
+mobjex [6]|NN NN|BODY_2|0
+a change|DT NN|BODY_4|0
+multiple application|JJ NN|BODY_3|0
+3.2 metrics|CD NNS|BODY_1|1
+two hosts|CD NNS|BODY_12|0
+the efficiency|DT NN|BODY_9|0
+a series|DT NN|BODY_8|0
+mobile devices|JJ NNS|BODY_2|0
+the proxies|DT NNS|BODY_2|0
+the location|DT NN|BODY_2|0
+the type|DT NN|BODY_1:BODY_4|0
+[9]|NN|BODY_6:BODY_7|0
+core metrics|NN NNS|BODY_4|0
+the evaluation|DT NN|BODY_5|0
+the value|DT NN|BODY_6|0
+each metric|DT NN|BODY_3|0
+object placement|NN NN|BODY_6|0
+such objects|JJ NNS|BODY_6|0
+a range|DT NN|BODY_13|0
+applications|NNS|BODY_7|0
+another host|DT NN|BODY_11|0
+javaparty [13]|NN NNS|BODY_6|0
+voyager [10]|NN NN|BODY_4|0
+date information|NN NN|BODY_2|0
+high et|JJ FW|BODY_10|0
+the gains|DT NNS|BODY_3|0
+remote data|JJ NNS|BODY_8|0
+metric type|JJ NN|BODY_2|0
+this subset|DT NN|BODY_1|0
+this solution|DT NN|BODY_5|0
+individual frameworks|JJ NNS|BODY_10|0
+a core|DT NN|BODY_4|0
+different applications|JJ NNS|BODY_6|0
+the implementation|DT NN|BODY_7|0
+fargo [15|NN CD|BODY_2|0
+this component|DT NN|BODY_3|0
+their usage|PRP$ NN|BODY_4|0
+middleware components|JJ NNS|BODY_4|0
+the management|DT NN|BODY_3|0
+the terminology|DT NN|BODY_9|0
+metrics collection|NNS NN|BODY_5|0
+multiple applications|JJ NNS|BODY_11|0
+the case|DT NN|BODY_1:BODY_8|0
+the duration|DT NN|BODY_15|0
+bytes )|NNS -RRB-|BODY_5|0
+preliminary testing|JJ NN|BODY_4|0
+a decision|DT NN|BODY_8|0
+the percentage|DT NN|BODY_7|0
+thrown exceptions|VBN NNS|BODY_7|0
+the results|DT NNS|BODY_7|0
+a process|DT NN|BODY_4|0
+the overhead|DT NN|BODY_4|0
+timer code|NN NN|BODY_10|0
+mobile networks|JJ NNS|BODY_5|0
+several places|JJ NNS|BODY_7|0
+middleware support|JJ NN|BODY_5|0
+a timer|DT NN|BODY_9|0
+service-based adaptation|JJ NN|BODY_2|0
+the structure|DT NN|BODY_5|0
+their behaviour|PRP$ NN|BODY_8|0
+direct measurement|JJ NN|BODY_8|0
+ni )|NNS -RRB-|BODY_3|0
+the it|DT PRP|BODY_8|0
+e .g|NN NN|BODY_3|0
+mobile application|JJ NN|BODY_4|0
+increasing attention|VBG NN|BODY_3|0
+the object|DT NN|BODY_4|0
+the frequency|DT NN|BODY_5|0
+the software|DT NN|BODY_5|0
+ms )|NNS -RRB-|BODY_6|0
+(rt )|NN -RRB-|BODY_2|0
+environmental metrics|JJ NNS|BODY_5|0
+the fact|DT NN|BODY_4|0
+section 2|NN CD|BODY_4|0
+the decision|DT NN|BODY_8|0
+the proxy|DT NN|BODY_13|0
+these objects|DT NNS|BODY_3|0
+that host|DT NN|BODY_6|0
+application behaviour|NN NN|BODY_7|0
+this case|DT NN|BODY_9|0
+( et|-LRB- FW|BODY_6|0
+the beginning|DT NN|BODY_10|0
+the challenges|DT NNS|BODY_7|0
+the adaptation|DT NN|BODY_6|0
+a reference|DT NN|BODY_6|0
+the rt|DT NN|BODY_5|0
+each other|DT JJ|BODY_6|0
+the scope|DT NN|BODY_2|0
+the end|DT NN|BODY_13|0
+subtracting rt|VBG NN|BODY_4|0
+the sum|DT NN|BODY_6|0
+straight forward|RB RB|BODY_4|0
+performing adaptation|VBG NN|BODY_3|0
+2. background|DT NN|BODY_1|0
+objects|NNS|BODY_3|0
+mathematical models|JJ NNS|BODY_9|0
+the exception|DT NN|BODY_1|0
+this process|DT NN|BODY_9|0
+this problem|DT NN|BODY_1|0
+some cases|DT NNS|BODY_1|0
+memory usage|NN NN|BODY_13|0
+other hosts|JJ NNS|BODY_8|0
+low pu.|JJ NN|BODY_12|0
+other words|JJ NNS|BODY_1|0
+mobjex specific|NN JJ|BODY_5|0
+a runtime|DT NN|BODY_1|0
+each|DT|BODY_3|1
+effective adaptation|JJ NN|BODY_1|0
+utilization metrics|NN NNS|BODY_1|0
+a minimum|DT NN|BODY_1|0
+a class|DT NN|BODY_8|0
+the caller|DT NN|BODY_9|0
+the timer|DT NN|BODY_16|0
+the applications|DT NNS|BODY_1|0
+3.1 metrics|CD NNS|BODY_1|0
+mobject )|NN -RRB-|BODY_10|0
+this derivation|DT NN|BODY_1|0
+adaptation mode|NN NN|BODY_1|0
+brief examples|JJ NNS|BODY_1|0
+object migration|NN NN|BODY_8|0
+the rest|DT NN|BODY_1|0
+the measurement|DT NN|BODY_1|0
+one solution|CD NN|BODY_1|0
+section 3|NN CD|BODY_10|0
+ni|NNS|BODY_1:BODY_4|0
+such|JJ|BODY_6|0
+context|NN|BODY_7|0
+data|NNS|BODY_13|0
+that|WDT|BODY_6|0
+processor|NN|BODY_12|0
+part|NN|BODY_7|0
+those|DT|BODY_10|0
+runtime|NN|BODY_7|0
+time|NN|BODY_7|0
+orders|NNS|BODY_10|0
+communication|NN|BODY_5|0
+network|NN|BODY_11|0

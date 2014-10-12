@@ -1,0 +1,1060 @@
+it|PRP|BODY_12:BODY_11:BODY_17:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_27:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8|0
+the virtual line scheme|DT JJ NN NN|BODY_6:BODY_5:BODY_16:BODY_28:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+spatial locality|JJ NN|BODY_12:BODY_11:ABSTRACT_11:BODY_16:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_7:BODY_8:BODY_9|1
+that|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|2
+the secondary cache|DT JJ NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_24:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+c 1|NN CD|BODY_6:BODY_5:BODY_11:BODY_18:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+which|WDT|BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_8|0
+c 2|NN CD|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_14:BODY_19:BODY_4:BODY_7:BODY_8|0
+the number|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+memory|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_7:BODY_8:ABSTRACT_9:BODY_9|1
+temporal locality|JJ NN|BODY_12:BODY_6:BODY_5:ABSTRACT_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|1
+the performance|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+cache|NN|BODY_5:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+they|PRP|BODY_5:ABSTRACT_4:BODY_13:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7|0
+a virtual line|DT JJ NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4|0
+)|-RRB-|BODY_6:BODY_5:BODY_15:BODY_13:BODY_10:BODY_20:BODY_9|0
+.e|NN|BODY_6:BODY_11:BODY_3:BODY_4:BODY_9|0
+numerical codes|JJ NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_7|0
+a physical line|DT JJ NN|BODY_12:BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+words|NNS|BODY_12:BODY_6:BODY_5:BODY_16:BODY_15:BODY_23:BODY_3:BODY_4:BODY_8|0
+non-numerical codes|JJ NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+the average memory access time|DT JJ NN NN NN|BODY_5:BODY_11:ABSTRACT_4:BODY_2:BODY_3|0
+the memory traffic|DT NN NN|BODY_5:BODY_23:BODY_2:BODY_3|0
+large cache lines|JJ NN NNS|BODY_5:ABSTRACT_6:ABSTRACT_1:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|2
+this|DT|BODY_6:BODY_2:BODY_25:BODY_1:BODY_4|0
+prefetching|VBG|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+the processor|DT NN|BODY_12:BODY_5:BODY_15:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+memory traffic|NN NN|BODY_6:BODY_11:BODY_2:ABSTRACT_3:BODY_3:BODY_20|0
+cache pollution|NN NN|BODY_6:BODY_12:BODY_5:BODY_1:BODY_2:BODY_7:BODY_8|0
+the physical line|DT JJ NN|BODY_1:BODY_2:BODY_3:BODY_9|0
+performance|NN|BODY_6:BODY_21:BODY_2:BODY_3:BODY_8|0
+a standard cache|DT JJ NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+accesses|NNS|BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+note|NN|BODY_1|0
+a reference|DT NN|BODY_2:BODY_3:BODY_4|0
+data|NNS|BODY_6:ABSTRACT_8:BODY_2:BODY_3:BODY_4:BODY_10|1
+reference|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+i .e|FW FW|BODY_5:BODY_4:BODY_7:BODY_9|0
+the virtual line|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the cache|DT NN|BODY_6:BODY_5:BODY_3|0
+one|CD|BODY_5:BODY_3:BODY_4:BODY_7|0
+the reference|DT NN|BODY_5:BODY_1:BODY_4|0
+example|NN|BODY_5:BODY_13:BODY_1:BODY_3:BODY_4|0
+the line|DT NN|BODY_21:BODY_1:BODY_2:BODY_3|0
+both caches|DT NNS|BODY_2:BODY_3:BODY_10:BODY_7|0
+cc cpr ll|JJ NN NN|BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+case|NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3|0
+cache conflicts|NN NNS|BODY_16:BODY_15:BODY_3:BODY_8|0
+the physical lines|DT JJ NNS|BODY_5:BODY_2:BODY_3:BODY_8|0
+a large virtual line|DT JJ JJ NN|BODY_13:BODY_2:BODY_3:BODY_9|0
+codes|NNS|BODY_5:BODY_1:BODY_4:BODY_7:BODY_9|0
+the presence|DT NN|BODY_1:BODY_3:BODY_4|0
+respect|NN|BODY_6:BODY_1:BODY_10:BODY_4:BODY_8|0
+the primary cache|DT JJ NN|BODY_5:BODY_13:BODY_3:BODY_4|0
+one cycle|CD NN|BODY_6:BODY_5:BODY_3|0
+the other hand|DT JJ NN|BODY_6:BODY_1|0
+large virtual lines|JJ JJ NNS|BODY_6:BODY_2:BODY_14:BODY_3|0
+the time|DT NN|BODY_5:BODY_2:BODY_3|0
+the spatial locality|DT JJ NN|BODY_16:BODY_2:ABSTRACT_1|0
+the physical line size|DT JJ NN NN|BODY_6:BODY_2:BODY_3|0
+a better exploitation|DT JJR NN|BODY_11:BODY_5:BODY_3:BODY_7|0
+2|CD|BODY_12:BODY_4:BODY_10|0
+16 bytes|CD NNS|BODY_5:BODY_2:BODY_3|0
+the efficiency|DT NN|BODY_2:BODY_1:BODY_3|0
+the size|DT NN|BODY_25:BODY_4:BODY_20|0
+a victim cache|DT NN NN|BODY_13:BODY_2:BODY_4:BODY_8:BODY_9|0
+c|NN|BODY_5:BODY_13:BODY_2:BODY_3|0
+there|EX|BODY_2:BODY_3:BODY_7|0
+mm spmv tex|CD NN NN|BODY_5:BODY_3:BODY_10:BODY_4:BODY_9|0
+a buffer|DT NN|BODY_5:BODY_2:BODY_1:BODY_7:BODY_8|0
+the on-chip space|DT JJ NN|BODY_5:BODY_15:BODY_3|0
+standard cache|JJ NN|BODY_12:BODY_16:BODY_14:BODY_10:BODY_8|0
+average memory access time|JJ NN NN NN|BODY_11:BODY_5:BODY_1:BODY_4:BODY_19|0
+the amount|DT NN|BODY_15:BODY_2:BODY_3|0
+large physical lines|JJ JJ NNS|BODY_13:BODY_10:BODY_4:BODY_7|0
+a line size|DT NN NN|BODY_6:BODY_3:BODY_4|0
+benchmarks|NNS|BODY_6:BODY_5:BODY_31:BODY_3|0
+cycle|NN|BODY_6:BODY_5:BODY_3|0
+the cost|DT NN|BODY_2:BODY_1:BODY_4|0
+loop|NN|BODY_18:BODY_15:BODY_2|0
+figure 8|NN CD|BODY_26:BODY_1:BODY_2:BODY_24|0
+the tradeoff|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+the hit time|DT NN NN|BODY_6:BODY_15:BODY_3|0
+cache c 2|NN NN CD|BODY_6:BODY_1:BODY_3:BODY_7|0
+the hit ratio|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+a loop nest|DT NN NN|BODY_2:BODY_3:BODY_7|0
+the exploitation|DT NN|BODY_6:BODY_4:BODY_8|0
+the cache line size|DT NN NN NN|BODY_6:BODY_1:BODY_4:BODY_8|0
+each reference|DT NN|BODY_6:BODY_4|0
+(|-LRB-|BODY_6:BODY_10:BODY_8|0
+arc|NN|BODY_2:BODY_3|0
+the utilization|DT NN|BODY_6:ABSTRACT_6:ABSTRACT_5:BODY_2|2
+this information|DT NN|BODY_2:BODY_1|0
+its efficiency|PRP$ NN|BODY_12:BODY_5:BODY_7|0
+a reduction|DT NN|BODY_5:BODY_2:BODY_4|0
+prefetched words|VBN NNS|BODY_18:BODY_25:BODY_3:BODY_14|0
+ap arc|NN NN|BODY_3:BODY_7:BODY_8|0
+the choice|DT NN|BODY_5:BODY_2:BODY_1|0
+figure 2|NN CD|BODY_6:BODY_3:BODY_8|0
+we|PRP|BODY_5:ABSTRACT_2:BODY_2|2
+the data|DT NNS|BODY_3:BODY_4:BODY_7|0
+some codes|DT NNS|BODY_12:BODY_1:BODY_4|0
+ll mm spmv tex|NN CD NN NN|BODY_18:BODY_21:BODY_14|0
+only one physical line|RB CD JJ NN|BODY_6:BODY_4|0
+physical lines|JJ NNS|BODY_12:BODY_5:BODY_3|0
+array c|NN NN|BODY_1:BODY_4|0
+cpr|NN|BODY_5:BODY_7|0
+a cache line|DT NN NN|BODY_1:BODY_7|0
+a miss|DT NN|BODY_5:BODY_3|0
+default|NN|BODY_6:BODY_4|0
+an alternative|DT NN|BODY_5:BODY_4|0
+spatial and temporal locality|JJ CC JJ NN|BODY_5:BODY_2:BODY_4|0
+the scheme|DT NN|BODY_1:BODY_3:BODY_4|0
+cache c|NN NN|BODY_6:BODY_11:BODY_3|0
+the next physical line|DT JJ JJ NN|BODY_3:BODY_7|0
+no temporal locality|DT JJ NN|BODY_5:BODY_3|0
+64 bytes|CD NNS|BODY_2:BODY_4|0
+coherence|NN|BODY_6:BODY_2|0
+mm|UH|BODY_19:BODY_7|0
+the pollution|DT NN|BODY_2|0
+victim|NN|BODY_6:BODY_3:BODY_7|0
+the reduction|DT NN|BODY_1:BODY_8|0
+32 bytes|CD NNS|BODY_5:BODY_7|0
+ment|NN|BODY_2:BODY_9|0
+j|NN|BODY_5:BODY_3|0
+s|PRP|BODY_5:BODY_11:BODY_7|0
+section 3|NN CD|BODY_11:BODY_2:BODY_1|0
+subblock placement|JJ NN|BODY_2|0
+section 5|NN CD|BODY_5:BODY_3:BODY_4|0
+all codes|DT NNS|BODY_5:BODY_4|0
+cache c2|NN NNS|BODY_5:BODY_16|0
+section|NN|BODY_5:BODY_8|0
+other codes|JJ NNS|BODY_11:BODY_7|0
+non-rectangular loops|JJ NNS|BODY_3|0
+an important fraction|DT JJ NN|BODY_2:BODY_7|0
+the stride|DT NN|BODY_6:BODY_3|0
+a prefetching facility|DT NN NN|BODY_3|0
+a virtual line scheme|DT JJ NN NN|BODY_2|0
+other references|JJ NNS|BODY_3|0
+reference c|NN NN|BODY_2|0
+the buffer|DT NN|BODY_2|0
+the three other lines|DT CD JJ NNS|BODY_3|0
+the mechanism|DT NN|BODY_1:BODY_2:BODY_3|0
+buffer|NN|BODY_3:BODY_4|0
+a cache miss|DT NN NN|BODY_1:BODY_2|0
+this line|DT NN|BODY_6:BODY_2:BODY_1|0
+order|NN|BODY_5:BODY_4|0
+large line|JJ NN|BODY_1:BODY_3:BODY_7|0
+unix tools|NN NNS|BODY_5:BODY_4|0
+ratio|NN|BODY_11:BODY_17|0
+the increased memory traffic|DT JJ NN NN|BODY_2|0
+the memory request|DT NN NN|BODY_2|0
+size|NN|BODY_15:BODY_3|0
+the illusion|DT NN|BODY_2:BODY_7|0
+figure 7|NN CD|BODY_2:BODY_8|0
+both|DT|BODY_6:BODY_2|0
+the secondary cache size|DT JJ NN NN|BODY_1:BODY_3|0
+prefetch|NN|BODY_5:BODY_3|0
+the request|DT NN|BODY_2:BODY_4|0
+a code|DT NN|BODY_6:BODY_5|0
+variation|NN|BODY_8:BODY_20|0
+( standard cache|-LRB- JJ NN|BODY_6:BODY_12|0
+ll|NN|BODY_13:BODY_2|0
+ing|NN|BODY_4:BODY_9|0
+fraction|NN|BODY_24:BODY_4|0
+the principles|DT NNS|BODY_5:BODY_2|0
+cache( 7|NN CD|BODY_3|0
+projet ap|NN NN|BODY_3|0
+university|NN|BODY_9|0
+figure 12|NN CD|BODY_1:BODY_4:BODY_10|0
+the same problem|DT JJ NN|BODY_5:BODY_2|0
+a cache design|DT NN NN|BODY_3|1
+the potential|DT JJ|ABSTRACT_3:BODY_7|0
+coherence issues|NN NNS|BODY_12:BODY_3|0
+l s words|MD PRP NNS|BODY_2:BODY_8|0
+four physical lines|CD JJ NNS|BODY_2:BODY_3|0
+) hit ratio|-RRB- NN NN|BODY_15:BODY_13|0
+corresponds|NNS|BODY_10|0
+c 2 (|NN CD -LRB-|BODY_4:BODY_7|0
+this solution|DT NN|BODY_2:BODY_1|0
+elements|NNS|BODY_3:BODY_4|0
+the remainder|DT NN|BODY_3|0
+non stride-1|JJ NN|BODY_6|0
+influence|NN|BODY_5|0
+exploitation|NN|BODY_5:BODY_2:BODY_7|0
+complex codes|JJ NNS|BODY_2|0
+loops|NNS|BODY_4|0
+the virtual line size increases|DT JJ NN NN NNS|BODY_3:BODY_4|0
+j 1|NN CD|BODY_2:BODY_4|0
+this paper|DT NN|BODY_2:BODY_1:ABSTRACT_1|2
+cache 8 64-bit words|NN CD JJ NNS|BODY_2|0
+leiden|NN|BODY_10|0
+one double precision|CD JJ NN|BODY_11|0
+the bra esprit|DT NN NN|BODY_2|0
+l cycles|JJ NNS|BODY_5:BODY_4|0
+physical and virtual line|JJ CC JJ NN|BODY_6|0
+the example|DT NN|BODY_2:BODY_9|0
+better exploitation|JJR NN|ABSTRACT_14:ABSTRACT_10|2
+processor stall|NN NN|BODY_2|0
+figure|NN|BODY_5:BODY_2:BODY_3:BODY_10|0
+all|DT|BODY_3|0
+the other reference exhibits|DT JJ NN NNS|BODY_7|0
+large virtual cache lines|JJ JJ NN NNS|BODY_4:ABSTRACT_7|1
+conflicts|NNS|BODY_2|0
+the virtual line scheme main parameters|DT JJ NN NN JJ NNS|BODY_2|0
+flawless spatial locality ( column-wise storage|JJ JJ NN -LRB- NN NN|BODY_4|0
+the words|DT NNS|BODY_5:BODY_8|0
+simulations|NNS|BODY_1:ABSTRACT_1|0
+[5]|NNS|BODY_2:BODY_1|0
+no flexibility|DT NN|BODY_7|0
+a memory traffic increase|DT NN NN NN|BODY_6|0
+the same|DT JJ|BODY_3|0
+additional memory traffic|JJ NN NN|BODY_3|0
+4 banks|CD NNS|BODY_2:BODY_8|0
+a processor request|DT NN NN|BODY_1:BODY_2|0
+array references|NN NNS|BODY_1|0
+references|NNS|BODY_2:BODY_1|0
+the fraction|DT NN|BODY_2:BODY_3|0
+department|NN|BODY_7|0
+european agency dgxiii|JJ NN NNS|BODY_5|0
+cache entries|NN NNS|BODY_5:BODY_2:BODY_4|0
+vls performance|NNS NN|BODY_21:BODY_9|0
+1024 bytes|CD NNS|BODY_16:BODY_4|0
+the average memory access time varies|DT JJ NN NN NN NNS|BODY_2|0
+each bank|DT NN|BODY_1|0
+large and associative caches|JJ CC JJ NNS|BODY_2|0
+the average memory access time ap arc|DT JJ NN NN NN NN NN|BODY_2|0
+computer science|NN NN|BODY_8|0
+part|NN|BODY_4|0
+a combined soft- ware/hardware mechanism|DT VBN NN NN NN|BODY_3|0
+reuse|NN|BODY_6|0
+large cache line reloads|JJ NN NN NNS|BODY_3|0
+very simple informations|RB JJ NNS|BODY_2|0
+execution|NN|BODY_16:BODY_2:BODY_4|0
+pollution phenomena|NN NNS|BODY_3|0
+monoprocessor and multi- processors|NN CC NNS NNS|BODY_3|0
+current caches|JJ NNS|BODY_6|0
+a 64-byte virtual line|DT JJ JJ NN|BODY_5|0
+case memory|NN NN|BODY_4|0
+high performance computing division|JJ NN NN NN|BODY_6|0
+locality exploitation|NN NN|TITLE_2|0
+performance reductions|NN NNS|BODY_2|0
+physical line size|JJ NN NN|BODY_1|0
+such new load/store informations|JJ JJ NN NNS|BODY_2|0
+the best performance|DT JJS NN|BODY_1|0
+the instruction set|DT NN NN|BODY_1|0
+this case|DT NN|BODY_2|0
+virtual lines|JJ NNS|TITLE_1|0
+the other references|DT JJ NNS|BODY_11|0
+some cases|DT NNS|BODY_3|0
+excess|NN|BODY_5|0
+only one bit|RB CD NN|BODY_2:BODY_3|0
+approximately 30 %|RB CD NN|BODY_7|0
+figure 16|NN CD|BODY_1:BODY_2|0
+cache pollu- tion|NN NNS NN|BODY_12:BODY_8|1
+17 %|CD NN|BODY_3|0
+pollution )|NN -RRB-|BODY_4|0
+reduction|NN|BODY_1:BODY_2|0
+the development|DT NN|BODY_4|0
+temporal locality [2|JJ NN NN|BODY_4|0
+amount|NN|BODY_6|0
+such misses|JJ NNS|BODY_6|0
+this mechanism|DT NN|BODY_1|0
+the optimal cache line|DT JJ NN NN|BODY_2|0
+times|NNS|BODY_3|0
+physical line victim|JJ NN NN|BODY_7|0
+each code|DT NN|BODY_2|0
+12 , 16]|CD , CD|BODY_5|0
+that 8|WDT CD|BODY_9|0
+two cycles|CD NNS|BODY_6:BODY_17:BODY_8|0
+1 cycle|CD NN|BODY_8|0
+the optimal line size|DT JJ NN NN|BODY_2|0
+significant performance improvement|JJ NN NN|BODY_2|0
+details|NNS|BODY_10|0
+a delicate tradeoff|DT JJ NN|BODY_3|0
+bytes|NNS|BODY_6:BODY_2|0
+iterations|NNS|BODY_10:BODY_9|0
+( benchmarks ap,arc,bdna ,ws)|-LRB- NNS NN NN|BODY_3|0
+the perfect club suite [1|DT JJ NN NN NNS|BODY_2|0
+different banks|JJ NNS|BODY_3|0
+every l|DT MD|BODY_8:BODY_9|0
+the first physical line|DT JJ JJ NN|BODY_9|0
+see section 3.2.1|VB NN CD|BODY_9|0
+12|CD|BODY_4|0
+our case|PRP$ NN|BODY_1:BODY_2|0
+the performance bottleneck|DT NN NN|BODY_12|0
+line trans|NN NNS|BODY_10|0
+wrong pre|JJ NN|BODY_4|0
+a 20-bit tag|DT JJ NN|BODY_8|0
+the first million references|DT JJ CD NNS|BODY_3|0
+a memory request|DT NN NN|BODY_11:BODY_1|0
+large virtual and physical lines|JJ JJ CC JJ NNS|BODY_22:BODY_19|0
+caches stall|NNS NN|BODY_9|0
+cache misses|NN NNS|BODY_3:BODY_10:BODY_4|0
+virtual line scheme|JJ NN NN|BODY_11|0
+the experiments|DT NNS|BODY_2|0
+5|CD|BODY_4|0
+misses|NNS|BODY_3:BODY_4|0
+ls=32 ( standard cache|NN -LRB- JJ NN|BODY_17:BODY_8|0
+physical line|JJ NN|BODY_4|0
+a compiler|DT NN|BODY_5|0
+the smaller physical line size|DT JJR JJ NN NN|BODY_5|0
+1:7 cycles|CD NNS|BODY_2|0
+the loop nest|DT NN NN|BODY_2|0
+t l|IN JJ|BODY_6|0
+scarce spatial locality|JJ JJ NN|BODY_1:BODY_3|0
+the locality|DT NN|BODY_3|0
+the whole mechanism|DT JJ NN|BODY_3|0
+5.1 physical line|CD JJ NN|BODY_2|0
+the associativity|DT NN|BODY_26:BODY_10|0
+informations|NNS|BODY_2|0
+both properties|DT NNS|BODY_3|0
+the memory|DT NN|BODY_7|0
+the characteristics|DT NNS|BODY_23:BODY_7|0
+either stable or varies|DT JJ CC NNS|BODY_4|0
+the cache pollution|DT NN NN|BODY_6:BODY_4|0
+small direct-mapped caches|JJ JJ NNS|BODY_1:BODY_8|1
+the design ( bus utilization|DT NN -LRB- NN NN|BODY_8|0
+bypassing|NN|BODY_1:BODY_2|0
+) cs=16384,assoc=4,ls=128|-RRB- CD|BODY_11|0
+several more cycles|JJ JJR NNS|BODY_5|0
+the necessary hardware support|DT JJ NN NN|BODY_2|0
+a prefetch buffer|DT NN NN|BODY_14:BODY_3|0
+a tag|DT NN|BODY_4|0
+a flaw|DT NN|ABSTRACT_4:BODY_4|0
+multiply example|RB NN|BODY_2|0
+processors|NNS|BODY_4|0
+the constantly decreasing processor cycle time|DT RB VBG NN NN NN|BODY_2|0
+a total|DT NN|BODY_14|0
+standard cache line|JJ NN NN|BODY_5|0
+the reduced cache pollution|DT JJ NN NN|BODY_2|0
+virtual line|JJ NN|BODY_3|0
+one request|CD NN|BODY_2|0
+a small physical line|DT JJ JJ NN|BODY_4|0
+only those used|RB DT VBN|BODY_10|0
+a standard 8192-byte cache|DT JJ JJ NN|BODY_3|0
+the compress utility|DT NN NN|BODY_8|0
+both spatial and temporal locality|DT JJ CC JJ NN|BODY_6|0
+c1 (vls|JJ NNS|BODY_12|0
+standard cache ) figure 7|JJ NN -RRB- NN CD|BODY_16|0
+a significant reduction|DT JJ NN|BODY_2|0
+physical or virtual lines|JJ CC JJ NNS|BODY_2|0
+software-directed vls|JJ VBZ|BODY_12:BODY_4|0
+the smaller physical line|DT JJR JJ NN|BODY_3|0
+the maximum number|DT JJ NN|BODY_8|0
+another solution|DT NN|BODY_1|0
+inspite|NN|BODY_1|0
+no code exhibited performance degradations|DT NN VBN NN NNS|BODY_3|0
+the secondary cache beforehand|DT JJ NN NN|BODY_3|0
+14|CD|BODY_19|0
+2:7 cycles|JJ NNS|BODY_3|0
+write requests0.05 fraction standard cache virtual line scheme figure 15|VBP CD NN JJ NN JJ NN NN NN CD|BODY_5|0
+j 2|NN CD|BODY_4:BODY_7|0
+non-reusable data|JJ NNS|BODY_7|0
+vls|NNS|BODY_13:BODY_1|0
+temporal locality thanks|JJ NN NNS|BODY_4|0
+the cache l|DT NN NN|BODY_2|0
+the first word|DT JJ NN|BODY_5|0
+software optimization|NN NN|BODY_3|0
+two|CD|BODY_2:BODY_7|0
+figure 1|NN CD|BODY_2|0
+more flexibility|JJR NN|BODY_5|0
+performance reasons|NN NNS|BODY_2|0
+11|CD|BODY_2|0
+their working|PRP$ NN|BODY_3|0
+the secondary cache ( note|DT JJ NN -LRB- NN|BODY_8|0
+large line sizes|JJ NN VBZ|BODY_5|0
+replacement main cache|NN JJ NN|BODY_8|0
+the innermost loop nest|DT JJ NN NN|BODY_5|0
+different cache architectures|JJ NN NNS|BODY_14|0
+this scheme|DT NN|BODY_2|0
+stall|NN|BODY_4|0
+each iteration|DT NN|BODY_6:BODY_3|0
+standard cache ) figure comparison|JJ NN -RRB- NN NN|BODY_12|0
+a solution|DT NN|BODY_1:BODY_4|0
+the first virtual line|DT JJ JJ NN|BODY_4|0
+vector accesses|NN NNS|BODY_2|0
+3 \theta cycles|CD NN NNS|BODY_10|0
+experiments|NNS|BODY_1|0
+a performance bottleneck|DT NN NN|BODY_2|0
+the large virtual lines|DT JJ JJ NNS|BODY_3|0
+array|NN|BODY_2:BODY_9|0
+a convenient architecture base|DT JJ NN NN|BODY_8|0
+the ones|DT NNS|BODY_2|0
+these flaws|DT NNS|BODY_2|0
+ls=64|NNS|BODY_17|0
+the requested physical line|DT VBN JJ NN|BODY_1:BODY_8|0
+/ words|IN NNS|BODY_7:BODY_9|0
+a miss request|DT NN NN|BODY_2|0
+some additional hardware|DT JJ NN|BODY_2|0
+the multi-way stream buffers|DT JJ NN NNS|BODY_4|0
+the unavailability|DT NN|BODY_4|0
+the ibm rs6000 [7]|DT NN CD NN|BODY_4|0
+arc bdna cc|NN VBD JJ|BODY_13:BODY_20|0
+the other physical lines|DT JJ JJ NNS|BODY_5:BODY_3|0
+vls+prefetching|NN|BODY_21:BODY_7|0
+2 words|CD NNS|BODY_6|0
+fers|NNS|BODY_11|0
+performance improvements|NN NNS|ABSTRACT_4:BODY_4|0
+only the necessary physical line|RB DT JJ JJ NN|BODY_2|0
+phenomenon|NN|BODY_2|0
+significantly the performance|RB DT NN|BODY_2|0
+a given ref|DT VBN NN|BODY_3|0
+extensive testing|JJ NN|BODY_2|0
+previous sections|JJ NNS|BODY_2|0
+the scheme performance|DT NN NN|BODY_18|0
+3 shows|CD VBZ|BODY_11|0
+efficient algorithms|JJ NNS|BODY_3|0
+the paper|DT NN|BODY_4|0
+( cache bypass|-LRB- NN NN|BODY_8|0
+that performance|IN NN|BODY_4|0
+,ls=16 ,fully-associative)2.0average memory access|CD JJ NN NN|BODY_18|0
+the advantage|DT NN|BODY_2|0
+all phenomena|DT NNS|BODY_7|0
+cache performance comparison|NN NN NN|BODY_10|0
+a collection|DT NN|BODY_14|0
+n banks|NN NNS|BODY_5|0
+portant|NN|BODY_2|0
+the accesss stride|DT NN NN|BODY_2|0
+this principle|DT NN|BODY_1|0
+the actual average total latency|DT JJ JJ JJ NN|BODY_3|0
+a performance comparison|DT NN NN|BODY_12|0
+a bank|DT NN|BODY_4|0
+a prefetch request|DT NN NN|BODY_7|0
+hits|NNS|BODY_6:BODY_2|0
+c 1 to c 2|NN CD TO NN CD|BODY_2|0
+is|VBZ|BODY_2|0
+small (|JJ -LRB-|BODY_10|0
+this issue|DT NN|BODY_7|0
+,ls=16 ,size|CD NN|BODY_6|0
+a , b|DT , NN|BODY_2|0
+marks|NNS|BODY_4|0
+16 ]|CD NNS|BODY_5|0
+tex|NN|BODY_9|0
+[17] )|NN -RRB-|BODY_3|0
+cache size|NN NN|BODY_10:BODY_7|0
+fraction fraction|NN NN|BODY_11:BODY_22|0
+8 banks banks|CD NNS NNS|BODY_3|0
+the hit|DT NN|BODY_2:BODY_7|0
+secondary cache c2 virtual cache line physical cache line|JJ NN NNS JJ NN NN JJ NN NN|BODY_9|0
+c2=1024)2.0average memory access figure 13|NN NN NN NN CD|BODY_7|0
+data locality optimizing algorithms [2|NNS NN JJ NNS NN|BODY_3|0
+some non-numerical codes|DT JJ NNS|BODY_4|0
+all the more possible|PDT DT JJR JJ|BODY_2|0
+all the more true|PDT DT RBR JJ|BODY_2|0
+some processors|DT NNS|BODY_4|0
+the additional memory traffic|DT JJ NN NN|BODY_2|0
+the mean average memory access time|DT JJ JJ NN NN NN|BODY_2|0
+2 )|CD -RRB-|BODY_4|0
+long cache lines|JJ NN NNS|BODY_4|0
+only a 16-kbyte 4-way associative cache|RB DT JJ JJ JJ NN|BODY_2|0
+the use|DT NN|BODY_4|0
+temporal and spatial locality|JJ CC JJ NN|BODY_6|0
+one physical line|CD JJ NN|BODY_7|0
+a dedicated buffer|DT VBN NN|BODY_4|0
+an information|DT NN|BODY_4|0
+such a group|JJ DT NN|BODY_13|0
+the total penalty|DT JJ NN|BODY_3|0
+the memory )|DT NN -RRB-|BODY_8|0
+5 ) , i .e|CD -RRB- , FW FW|BODY_6|0
+a|DT|BODY_2:BODY_3|0
+the main cache|DT JJ NN|BODY_5|0
+the two main references|DT CD JJ NNS|BODY_4|0
+all words|DT NNS|BODY_2|0
+all benchmarks|DT NNS|BODY_3|0
+a cannot|DT NN|BODY_17|0
+temporal locality exploitation|JJ NN NN|BODY_1:BODY_4|0
+the miss penalty|DT NN NN|BODY_3|0
+figures|NNS|BODY_10|0
+the temporal locality|DT JJ NN|BODY_5|0
+an ex|DT FW|BODY_3|0
+an alternative cache|DT JJ NN|BODY_6|0
+[2|NN|BODY_3|0
+ws|NNS|BODY_4|0
+a virtual cache line|DT JJ NN NN|BODY_6|0
+cache (|NN -LRB-|BODY_8|0
+reside|NN|BODY_8|0
+that relatively large virtual line|IN RB JJ JJ NN|BODY_2|0
+the remaining 3 lines|DT VBG CD NNS|BODY_11|0
+the actual cache line size l|DT JJ NN NN NN NN|BODY_5|0
+less necessary|JJR JJ|BODY_5|0
+the data address|DT NNS NN|BODY_2|0
+current cache line|JJ NN NN|BODY_7|0
+the absence|DT NN|BODY_5|0
+16 bytes )|CD NNS -RRB-|BODY_7|0
+slower response time|JJR NN NN|BODY_12|0
+many solutions|JJ NNS|BODY_7|0
+tance|NN|BODY_19|0
+the latex compiler )|DT JJ NN -RRB-|BODY_10|0
+the virtual line size scheme|DT JJ NN NN NN|BODY_2|0
+an indication|DT NN|BODY_14|0
+64 % reduction|CD NN NN|ABSTRACT_3|0
+be- sides|NNP NNS|BODY_3|0
+the ibm rs6000|DT JJ NN|BODY_4|0
+) cs=8192,assoc=2,ls=32|-RRB- NN|BODY_7|0
+a convenient environment|DT JJ NN|BODY_6|0
+the primary and secondary caches|DT JJ CC JJ NNS|BODY_4|0
+these purposes|DT NNS|BODY_3|0
+usual cache line|JJ NN NN|BODY_2|0
+standard virtual line scheme|JJ JJ NN NN|BODY_5|0
+most numerical codes|JJS JJ NNS|BODY_4|0
+a representative set|DT JJ NN|BODY_2|0
+severe bus contention|JJ NN NN|BODY_5|0
+more flexible use|RBR JJ NN|BODY_3|0
+the hardware design|DT NN NN|BODY_5|0
+mm spmv tex ws2.04.0average memory access time|CD NN NN NN NN NN NN|BODY_5|0
+the implementation|DT NN|BODY_4|0
+the temporal and spatial locality|DT JJ CC JJ NN|BODY_7|0
+loading|NN|BODY_5|0
+a combination|DT NN|BODY_3|0
+12 , 16] , little support|CD , CD , JJ NN|BODY_4|0
+excessively large sizes|RB JJ VBZ|BODY_4|0
+our next goal|PRP$ JJ NN|BODY_11|0
+popular [13|JJ NN|BODY_2|0
+the other words|DT JJ NNS|BODY_9|0
+l|NN|BODY_3|0
+n sub-lines|NN NNS|BODY_3|0
+a 128-byte cache line|DT JJ NN NN|BODY_3|0
+benefits|NNS|BODY_3|0
+which first word corresponds|WDT JJ NN NNS|BODY_9|0
+better temporal locality exploitation|JJR JJ NN NN|BODY_5|0
+a hardware scheme|DT NN NN|BODY_3|0
+pollution increases|NN NNS|BODY_9|0
+numerous accesses|JJ NNS|BODY_7|0
+a cache miss requests|DT NN NN NNS|BODY_6|0
+pollution|NN|BODY_2|0
+subblock place|NN NN|BODY_1:BODY_8|0
+caches|NNS|BODY_6|0
+the address|DT NN|BODY_5|0
+this facility|DT NN|BODY_3|0
+l costs|JJ NNS|BODY_4|0
+stride-1 accesses|JJ NNS|BODY_2|0
+periodic cache|JJ NN|BODY_2|0
+implementation|NN|BODY_2|0
+the virtual line size|DT JJ NN NN|BODY_3|0
+the cache line ) or flexibility|DT NN NN -RRB- CC NN|BODY_5|0
+data priorities|NNS NNS|BODY_10|0
+the gnu-cc compiler|DT JJ NN|BODY_6|0
+a two-level cache hierarchy|DT JJ NN NN|BODY_4|0
+figure 3 )|NN CD -RRB-|BODY_3|0
+one tag|CD NN|BODY_8|0
+the performance improvements|DT NN NNS|BODY_4|0
+well large virtual lines|RB JJ JJ NNS|BODY_3|0
+information|NN|BODY_4|0
+the cache hit time|DT NN VBD NN|BODY_4|0
+1.7 cycles|CD NNS|BODY_4|0
+increased cache conflicts|VBN NN NNS|BODY_11|1
+the additional tags|DT JJ NNS|BODY_2|0
+the additional data|DT JJ NNS|BODY_9|0
+a 17 %|DT CD NN|ABSTRACT_2|0
+the same buffer|DT JJ NN|BODY_7|0
+a multiprocessor environment|DT JJ NN|BODY_5|0
+initialization sections|NN NNS|BODY_6|0
+3.2.1 overview|CD NN|BODY_3|0
+a vector access|DT NN NN|BODY_3|0
+statements|NNS|BODY_5|0
+the mechanisms|DT NNS|BODY_1|0
+the same order|DT JJ NN|BODY_6|0
+) ap arc bdna cc|-RRB- NN NN VBD JJ|BODY_17:BODY_13|0
+a multi-processor 5.3 coherence issues coherence|DT JJ CD NN NNS NN|BODY_9|0
+figure 4)|NN NNS|BODY_6|0
+sparse matrix-vector|JJ NN|BODY_17|0
+spmv|NN|BODY_16|0
+) grouping|-RRB- NN|BODY_10|0
+( called cold-start|-LRB- VBN NN|BODY_5|0
+the burden|DT NN|BODY_7|0
+the cache line|DT NN NN|BODY_4|0
+the two methods|DT CD NNS|BODY_4|0
+clear evidence [11]|JJ NN NNS|BODY_3|0
+only one tag|RB CD NN|BODY_4|0
+one execution|CD NN|BODY_8|0
+the reuse dis|DT NN NN|BODY_18|0
+the purpose|DT NN|BODY_1|0
+the hit line|DT NN NN|BODY_7|0
+only the physical lines|RB DT JJ NNS|BODY_2|0
+cache size and associativity|NN NN CC NN|BODY_22|0
+stall (|NN -LRB-|BODY_3|0
+loop j|NN NN|BODY_9|0
+non-representative references|JJ NNS|BODY_5|0
+different types|JJ NNS|BODY_6|0
+only a few|RB DT JJ|BODY_7|0
+load/store instruction|NN NN|BODY_3|0
+each physical line|DT JJ NN|BODY_9|0
+all the more|PDT DT RBR|BODY_3|0
+several references|JJ NNS|BODY_6|0
+the cache space|DT NN NN|BODY_4|0
+secondary cache pollu- tion|JJ NN NNS NN|BODY_6|0
+stream buffers|NN NNS|BODY_5|0
+all the subblocks|DT DT NNS|BODY_5|0
+bench|NN|BODY_3|0
+a victim cache operation|DT NN NN NN|BODY_3|0
+current data locality optimizing techniques|JJ NNS NN NN NNS|BODY_13|0
+virtually (|RB -LRB-|BODY_7|0
+a large line size|DT JJ NN NN|BODY_4|0
+a very small line size|DT RB JJ NN NN|BODY_1|0
+actu- ally|DT NN|BODY_1|0
+nearly no cost|RB DT NN|BODY_4|0
+the first line|DT JJ NN|BODY_1|0
+the next consecutive line|DT JJ JJ NN|BODY_4|0
+the default virtual line size|DT NN JJ NN NN|BODY_4|0
+large chunks|JJ NNS|BODY_2|0
+experiments simulations|NNS NNS|BODY_4|0
+the benchmarks|DT NNS|BODY_13|0
+smaller values|JJR NNS|BODY_5|0
+a flag bit|DT NN NN|BODY_2|0
+complex stride detection mechanism|JJ NN NN NN|BODY_4|0
+spatial locality benefit|JJ NN NN|BODY_2|0
+us|PRP|BODY_7|0
+the important pollution|DT JJ NN|ABSTRACT_3|0
+a better efficiency|DT JJR NN|BODY_3|0
+cache pollution and exploitation|NN NN CC NN|BODY_3|0
+the cache size|DT NN NN|BODY_2|0
+software control|NN NN|BODY_2|0
+the same time|DT JJ NN|BODY_4|0
+a negligible number|DT JJ NN|BODY_5|0
+the memory latency value|DT NN RB NN|BODY_14|0
+such small lines|JJ JJ NNS|BODY_3|0
+3.1.1 workings|CD NNS|BODY_1|0
+a 64-byte physical line|DT JJ JJ NN|BODY_1|0
+flawless spatial locality|JJ JJ NN|BODY_8|0
+mm.|VBG|BODY_7|0
+point number )|NN NN -RRB-|BODY_12|0
+the netherlands|DT NNS|BODY_11|0
+this work|DT NN|BODY_1|0
+the second term|DT JJ NN|BODY_14|0
+the fact|DT NN|BODY_9|0
+the next address|DT JJ NN|BODY_4|0
+this tradeoff|DT NN|BODY_8|0
+other sizes and associativity|JJ NNS CC NN|BODY_3|0
+experiments [15]|NNS NN|BODY_1|0
+place|NN|BODY_6|0
+dictions|NNS|BODY_5|0
+a matrix-vector|DT NN|BODY_8|0
+their average memory access time|PRP$ JJ NN NN NN|BODY_8|0
+a hardware design|DT NN NN|ABSTRACT_3|1
+arrays|NNS|BODY_4|0
+very strong spatial locality|RB JJ JJ NN|BODY_5|0
+cache data|NN NNS|BODY_8|0
+a (|DT -LRB-|BODY_15|0
+figure 1 )|NN CD -RRB-|BODY_6:BODY_14|0
+the|DT|BODY_5|0
+c and d)|NN CC NN|BODY_5|0
+a + l|DT NN NN|BODY_4|0
+replace|VB|BODY_8|0
+a variable cache line size mechanism|DT JJ NN NN NN NN|BODY_5|0
+cache line|NN NN|BODY_4|0
+8 bytes|CD NNS|BODY_5|0
+a line|DT NN|BODY_6|0
+64 %|CD NN|BODY_4|0
+lines|NNS|BODY_11|0
+coherence protocols|NN NNS|BODY_8|0
+associativity|NN|BODY_4|0
+significantly the hit ratio|RB DT NN NN|BODY_10|0
+hardware or software solutions|NN CC NN NNS|BODY_5|0
+figure7|NNS|BODY_30|0
+the simulations )|DT NNS -RRB-|BODY_6|0
+each|DT|BODY_5|0
+such hardware optimizations|JJ NN NNS|BODY_10|0
+the latency|DT NN|BODY_6:BODY_4|0
+the flaws|DT NNS|BODY_9|1
+performance comparison|NN NN|BODY_7|0
+n 2|NN CD|BODY_6|0
+software-directed virtual line scheme and prefetching performs|JJ JJ NN NN CC NN NNS|BODY_4|0
+strong spatial locality ( ll,mm)|JJ JJ NN -LRB- NN|BODY_5|0
+a matrix access|DT NN NN|BODY_7|0
+set-associative caches|JJ NNS|BODY_12|0
+lru|NN|BODY_7|0
+this code|DT NN|BODY_4|0
+the performance improvement|DT NN NN|BODY_1|0
+ws1.0|CD|BODY_10|0
+turn|NN|BODY_5|0
+a 16-kbyte direct-mapped cache|DT JJ JJ NN|BODY_3|0
+high (|JJ -LRB-|BODY_29|0
+exploiting locality|VBG NN|BODY_4|0
+solutions|NNS|BODY_1|0
+these lines|DT NNS|BODY_1:BODY_7|0
+the matrix-matrix|DT NN|BODY_1|0
+c 2 be- cause|NN CD , NN|BODY_6|0
+some numerical codes|DT JJ NNS|BODY_1|0
+temporal and spatial locality exploitation|JJ CC JJ NN NN|BODY_4|0
+numerical loop nests|JJ NN NNS|BODY_13|0
+little spatial locality|JJ JJ NN|BODY_2|0
+the main overhead|DT JJ NN|BODY_3|0
+the secondary cache size or associativity increases|DT JJ NN NN CC NN NNS|BODY_5|0
+the remaining lines|DT VBG NNS|BODY_6|0
+the underlying idea|DT VBG NN|BODY_1|0
+swap time|NN NN|BODY_2|0
+software informations|NN NNS|BODY_4|0
+such caches|JJ NNS|BODY_1|0
+an architecture base|DT NN NN|BODY_2|0
+the compiler|DT NN|BODY_1|0
+benchmarks )|NNS -RRB-|BODY_11|0
+references traces|NNS NNS|BODY_1|0
+array d|NN NN|BODY_3|0
+far|RB|BODY_8|0
+the next line|DT JJ NN|BODY_4|0
+( i .e|-LRB- FW NN|BODY_7|0
+such optimizations|JJ NNS|BODY_8|0
+word|NN|BODY_3|0
+their spatial locality )|PRP$ JJ NN -RRB-|BODY_12|0
+figure 11|NN CD|BODY_6:BODY_1|0
+the same virtual line|DT JJ JJ NN|BODY_8|0
+the proces|DT NNS|BODY_5|0
+storing|NN|BODY_7|0
+their temporal locality|PRP$ JJ NN|BODY_6|0
+this paradoxical behavior|DT JJ NN|BODY_1|0
+the additional on-chip space|DT JJ JJ NN|BODY_3|0
+large virtual line|JJ JJ NN|BODY_8|0
+proper hardware support|JJ NN NN|BODY_14|0
+buffer )|NN -RRB-|BODY_6|0
+5 design and implementation issues|CD NN CC NN NNS|BODY_1|0
+current on-chip data caches|JJ JJ NNS NNS|ABSTRACT_2|0
+current cache architectures|JJ NN NNS|BODY_7|0
+priorities|NNS|BODY_2|0
+a lawrence|DT NN|BODY_14|0
+the spatial locality bit|DT JJ NN NN|BODY_3|0
+the mean average access time|DT JJ JJ NN NN|BODY_1|0
+both numerical and non-numerical codes|DT JJ CC JJ NNS|BODY_1|0
+c misses|NN NNS|BODY_2|0
+the general purpose|DT JJ NN|BODY_1|0
+any|DT|BODY_3|0
+implementation issues|NN NNS|BODY_1|0
+no additional pollution|DT JJ NN|BODY_7|0
+standard cache virtual line scheme figure 4|JJ NN JJ NN NN NN CD|BODY_6|0
+the actual physical cache line|DT JJ JJ NN NN|ABSTRACT_12|1
+all physical lines|DT JJ NNS|BODY_1|0
+this first word request|DT JJ NN NN|BODY_2|0
+time|NN|BODY_6|0
+a variable line size|DT JJ NN NN|BODY_3|0
+write back requests|VBP RB NNS|BODY_7|0
+a 32-byte cache line|DT JJ NN NN|BODY_7|0
+performances|NNS|BODY_6|0
+the new cache line|DT JJ NN NN|BODY_6|0
+8|CD|BODY_9|0
+further refine|JJ NN|BODY_5:BODY_2|0
+the victim cache|DT NN NN|BODY_6|0
+a 20-cycle memory|DT JJ NN|BODY_6:ABSTRACT_5|0
+replacement|NN|BODY_4:BODY_7|0
+direct-mapped [13|JJ NNS|BODY_13|0
+two facts|CD NNS|BODY_3|0
+interleaved accesses|JJ NNS|BODY_2|0
+( standard cache ) figure 3|-LRB- JJ NN -RRB- NN CD|BODY_20|0
+standard cache virtual line scheme prefetching figure 9|JJ NN JJ NN NN NN NN CD|BODY_5|0
+( and not|-LRB- CC RB|BODY_6|0
+some codes ( ll,spmv,ws)|DT NNS -LRB- NN|BODY_26|0
+the lowest priority|DT JJS NN|BODY_5|0
+array d.|NN VBN|BODY_4|0
+mm ( matrix-matrix multiply )|UH -LRB- NN NN -RRB-|BODY_2|0
+the ability|DT NN|BODY_4|0
+b|NN|BODY_7|0
+each time|DT NN|BODY_2|0
+) figure memory traffic|-RRB- NN NN NN|BODY_18|0
+small line|JJ NN|BODY_4|0
+benchmark cpr|JJ NN|BODY_4|0
+the multi-bank mechanism|DT NN NN|BODY_5|0
+memory (|NN -LRB-|BODY_4|0
+the first term corresponds|DT JJ NN NNS|BODY_12|0
+four cache lines|CD NN NNS|BODY_5|0
+the requested word|DT VBN NN|BODY_7|0
+this performance improvement|DT NN NN|BODY_2|0
+8192 bytes|CD NNS|BODY_11|0
+such schemes|JJ NNS|BODY_3|0
+only the physical line|RB DT JJ NN|BODY_6|0
+the requested cache line|DT VBN NN NN|BODY_6|0
+erence|NN|BODY_15|0
+such references|JJ NNS|BODY_4|0
+figure 6|NN CD|BODY_4|0
+a virtual lines|DT JJ NNS|BODY_6|0
+requests|NNS|BODY_4|0
+one time|CD NN|BODY_6|0
+prefetched data|VBN NNS|BODY_6:BODY_9|0
+2 3.1.2 large physical line|CD CD JJ JJ NN|BODY_7|0
+available on-chip space|JJ JJ NN|BODY_9|0
+double the number|JJ DT NN|BODY_3|0
+memory requests|NN NNS|BODY_10|0
+increases|NNS|BODY_3|0
+the elementary physical line|DT JJ JJ NN|BODY_5|0
+the only step|DT JJ NN|BODY_2|0
+memory words|NN NNS|BODY_16:BODY_7|0
+this spatial locality|DT JJ NN|BODY_12|0
+the memory traffic increases|DT NN NN NNS|BODY_8|0
+the benefit|DT NN|BODY_12|0
+both numerical codes|DT JJ NNS|BODY_4|0
+spatial locality (|JJ NN -LRB-|BODY_3|0
+the structure|DT NN|BODY_2|0
+the multi-bank design|DT NN NN|BODY_4|0
+an irregular pattern|DT JJ NN|BODY_6|0
+d|NN|BODY_6|0
+a physical|DT JJ|BODY_3|0
+the non stride-1 accesses|DT JJ NN NNS|BODY_6|0
+figure 15 )|NN CD -RRB-|BODY_5|0
+numerical primitives|JJ NNS|BODY_12|0
+4]|NNS|BODY_14|0
+an on-chip space overhead|DT JJ NN NN|BODY_2|0
+the banks|DT NNS|BODY_5|0
+the regularity|DT NN|BODY_2|0
+the now usual 32 bytes|DT RB JJ CD NNS|BODY_5|0
+shown|VBN|BODY_4|0
+this design|DT NN|BODY_1|0
+implementation constraints|NN NNS|BODY_1|0
+only answers|RB VBZ|BODY_5|0
+worse|JJR|BODY_6|0
+the incoming line|DT JJ NN|BODY_6|0
+purpose|NN|BODY_4|0
+subblocks|NNS|BODY_13|0
+figure 10|NN CD|BODY_5|0
+(vls|NNS|BODY_5|0
+strides|NNS|BODY_3|0
+subsequent words|JJ NNS|BODY_6|0
+no impact|DT NN|BODY_22|0
+once|RB|BODY_10|0
+increased exploitation|VBN NN|BODY_5|0
+numerical loop nest|JJ NN NN|BODY_4|0
+several current on-chip caches|JJ JJ JJ NNS|BODY_8|0
+the execution resumes|DT NN NNS|BODY_9|0
+this system|DT NN|BODY_3|0
+the observed memory|DT JJ NN|BODY_4|0
+such a mechanism|JJ DT NN|BODY_9|0
+a small physical cache line size|DT JJ JJ NN NN NN|BODY_2|0
+2 artificially doubles|CD RB NNS|BODY_4|0
+further hardware or software optimizations|JJ NN CC NN NNS|BODY_4|0
+line size )|NN NN -RRB-|BODY_8|0
+n physical lines|NN JJ NNS|BODY_4|0
+the reply|DT NN|BODY_10|0
+how simple software informations|WRB JJ NN NNS|ABSTRACT_2:BODY_2|0
+its presence|PRP$ NN|BODY_4|0
+the line size|DT NN NN|BODY_1|0
+currently found cache lines|RB VBN NN NNS|ABSTRACT_13|1
+the cache miss|DT NN NN|BODY_2|0
+no temporal lo- cality|DT JJ NNS NN|BODY_2|0
+this array|DT NN|BODY_7|0
+the informations|DT NNS|BODY_2|0
+the delayed answer|DT JJ NN|BODY_5|0
+) and cache conflicts|-RRB- CC NN NNS|BODY_9|0
+the replacement policy|DT NN NN|BODY_2|0
+the victim line|DT NN NN|BODY_3|0
+the miss request ( note|DT NN NN -LRB- NN|BODY_4|0
+a form|DT NN|BODY_11|0
+the complementary physical lines|DT JJ JJ NNS|BODY_2|0
+instance|NN|BODY_1|0
+two solutions|CD NNS|BODY_1:BODY_3|0
+( note|-LRB- NN|BODY_6|0
+(vls ) fraction|NNS -RRB- NN|BODY_15:BODY_13|0
+(vls+prefetching ) fraction|NN -RRB- NN|BODY_17|0
+performance and efficiency|NN CC NN|BODY_1|0
+the next physical lines|DT JJ JJ NNS|BODY_5|0
+total words|JJ NNS|BODY_3|0
+5.4 comparisons|CD NNS|BODY_1|0
+array b exhibits|NN NN NNS|BODY_2|0
+small physical lines|JJ JJ NNS|BODY_9|0
+[9 , 3 , 14 , 10]|CD , CD , CD , CD|BODY_6|0
+efficiency|NN|BODY_27|0
+c2 (vls|JJ NNS|BODY_14|0
+that array b|IN NN NN|BODY_6|0
+other physical lines|JJ JJ NNS|BODY_7|0
+d( j|NN NN|BODY_2|0
+(vls+prefetching ) figure 10|NN -RRB- NN CD|BODY_19|0
+the access time|DT NN NN|BODY_6|0
+the ratio cache size cache line size|DT NN NN NN NN NN NN|BODY_3|0
+secondary cache|JJ NN|BODY_6|0
+a fair chance|DT JJ NN|BODY_6|0
+approximately 10 %|RB CD NN|BODY_3|0
+a superscalar processor|DT NN NN|BODY_1|0
+a prefetching request|DT NN NN|BODY_5|0
+the 2-cycle access time|DT JJ NN NN|BODY_10|0
+a 16-byte cache line|DT JJ NN NN|BODY_4|0
+the ratio|DT NN|BODY_4|0
+the most important asset|DT RBS JJ NN|BODY_2|0
+the design|DT NN|BODY_8|0
+the victim physical line|DT NN JJ NN|BODY_3|0
+writes|VBZ|BODY_5|0
+the increased cache conflicts|DT VBN NN NNS|BODY_7|0
+small cache lines|JJ NN NNS|BODY_6|0
+several consecutive data|JJ JJ NNS|BODY_5|0
+further coherence issues|JJ NN NNS|BODY_4|0
+some on-chip space|DT JJ NN|BODY_5|0
+the virtual line scheme (vls|DT JJ NN NN NNS|BODY_4|1
+cache line )|NN NN -RRB-|BODY_9|0
+the miss|DT NN|BODY_4|0
+a long time|DT JJ NN|BODY_3|0
+the set-associative caches|DT JJ NNS|BODY_4|0
+theory|NN|BODY_1|0
+that operation|DT NN|BODY_3|0
+redundancy|NN|BODY_3|0
+the bit|DT NN|BODY_5|0
+associativity or size|NN CC NN|BODY_5|0
+another cheaper solution|DT JJR NN|BODY_1|0
+3 and 6 )|CD CC CD -RRB-|BODY_11|0
+spatial locality information|JJ NN NN|BODY_7|0
+3.1 principles|CD NNS|BODY_1|0
+the principle|DT NN|BODY_1|0
+this latter fact|DT JJ NN|BODY_1|0
+cache c 1|NN NN CD|BODY_11|0
+the corresponding reference|DT JJ NN|BODY_5|0
+behaviors|NNS|BODY_9|0
+3.2.2 reduction|CD NN|BODY_1|0
+figure 5 )|NN CD -RRB-|BODY_11|0
+the solution|DT NN|BODY_1|0
+j2=1,n2 reg|DT NN|BODY_1|0
+high network or memory|JJ NN CC NN|BODY_5|0
+introduction|NN|BODY_1|0
+excessive memory traffic|JJ NN NN|BODY_9|0
+a dirty line|DT JJ NN|BODY_1|0
+a 2-way 8-kbyte cache|DT JJ NN NN|BODY_1|0
+this type|DT NN|BODY_1|0
+3.2.4 memory traffic|CD NN NN|BODY_1|0
+the second and more important effect|DT JJ CC RBR JJ NN|BODY_1|0
+virtual address a.|JJ NN NN|BODY_10|0
+numerous memory accesses|JJ NN NNS|BODY_4|0
+pref.2.04.0average memory access time|JJ NN NN NN|BODY_1|0
+10 benchmarks|CD NNS|BODY_15|0
+cache line size|NN NN NN|BODY_1|0
+the decreased cache pollution|DT VBN NN NN|BODY_4|0
+5 )|CD -RRB-|BODY_9|0
+the i860 [8]|DT NN NN|BODY_5|0
+these performance degradations|DT NN NNS|BODY_1|0
+[11]|NN|BODY_5|0
+a virtual line )|DT JJ NN -RRB-|BODY_14|0
+bypassed cache lines|VBN NN NNS|BODY_5|0
+the spatial locality bit )|DT JJ NN NN -RRB-|BODY_5|0
+the actual physical cache line size|DT JJ JJ NN NN NN|BODY_1|0
+a whole virtual line|DT JJ JJ NN|BODY_3|0
+6 conclusions|CD NNS|BODY_1|0
+large physical or virtual lines|JJ JJ CC JJ NNS|BODY_4|0
+(around bytes )|JJ NNS -RRB-|BODY_6|0
+t l cycles|IN JJ NNS|BODY_15|0
+a numerical code|DT JJ NN|BODY_1|0
+spatial or temporal locality|JJ CC JJ NN|BODY_5|0
+most|RBS|BODY_1|0
+simple stride prefetching|JJ NN VBG|BODY_9|0
+these physical lines|DT JJ NNS|BODY_1|0
+) cs=16384,assoc=1,ls=32|-RRB- NN|BODY_9|0
+) ls=256|-RRB- NN|BODY_11:BODY_15|0
+the hardware|DT NN|BODY_4|0
+4 software-directed scheme|CD JJ NN|BODY_1|0
+larger caches|JJR NNS|BODY_19|0
+standard cache vls vls|JJ NN NNS NNS|BODY_1:BODY_4|0
+the concept|DT NN|BODY_3|0
+3.3 prefetching ap arc|CD NN NN NN|BODY_1|0
+5.2 secondary cache ap arc|CD JJ NN NN NN|BODY_1|0
+write buffer mechanism ap arc|VBP NN NN NN NN|BODY_1|0
+one virtual line|CD JJ NN|BODY_8|0
+the same bank|DT JJ NN|BODY_8|0
+memory request|NN NN|BODY_7|0
+3.2.3 increased performance|CD VBN NN|BODY_1|0
+consider example|VB NN|BODY_1|0
+strong spatial locality|JJ JJ NN|BODY_6|0
+only a single physical line|RB DT JJ JJ NN|BODY_6|0
+4-way associative|JJ NN|BODY_17|0
+address tags|NN NNS|BODY_6|0
+other banks|JJ NNS|BODY_2|0
+[6] )|NNP -RRB-|BODY_3|0
+figure 10 , benchmark ap )|NN CD , JJ NN -RRB-|BODY_15|0
+figure 4 )|NN CD -RRB-|BODY_6|0
+no spatial locality|DT JJ NN|BODY_5|0
+a physical line size|DT JJ NN NN|BODY_1|0
+the optimal value|DT JJ NN|BODY_1|0
+remains|VBZ|BODY_4|0
+figure 8 )|NN CD -RRB-|BODY_11|0
+primary cache pollution|JJ NN NN|BODY_5|0
+such a technique|PDT DT NN|BODY_1|0
+a virtual line size|DT JJ NN NN|BODY_1|0
+the corresponding data|DT JJ NNS|BODY_7|0
+victim caches|NN NNS|BODY_1|0
+this loop nest|DT NN NN|BODY_5|0
+compile-time|NN|BODY_8|0
+both large physical and large virtual lines|DT JJ JJ CC JJ JJ NNS|BODY_5|0
+matrix-matrix multiply loop )|NN , NN -RRB-|BODY_20|0
+a standard cache )|DT JJ NN -RRB-|BODY_11|0
+the standard virtual line scheme|DT JJ JJ NN NN|BODY_9|0
+a result|DT NN|BODY_1|0
+the four additional cache lines|DT CD JJ NN NNS|BODY_1|0
+that reason|DT NN|BODY_1|0
+a large physical line|DT JJ JJ NN|BODY_14|0
+the first consequence|DT JJ NN|BODY_1|0
+the secondary cache pollution|DT JJ NN NN|BODY_3|0
+an element|DT NN|BODY_12|0
+larger virtual lines|JJR JJ NNS|BODY_1|0
+complex implementations|JJ NNS|BODY_5|0
+effective cache lines|JJ NN NNS|BODY_15|0
+a simple software solution|DT JJ NN NN|BODY_1|0
+the increase|DT NN|BODY_1|0
+each memory request|DT NN NN|BODY_8|0
+solicited )|JJ -RRB-|BODY_7|0
+the added memory accesses|DT JJ NN NNS|BODY_4|0
+the gains|DT NNS|BODY_1|0
+prefetching requests|NN NNS|BODY_1|0
+processor stall cycles|NN NN NNS|BODY_5|0
+only two bits|RB CD NNS|BODY_1|0
+the victim cache process|DT NN NN NN|BODY_2|0
+its side-effects ( increased memory traffic and secondary cache pollution )|PRP$ NNS -LRB- VBN NN NN CC JJ NN NN -RRB-|BODY_9|0
+somes cases|DT NNS|BODY_1|0
+the rest|DT NN|BODY_1|0
+a physical cache line )|DT JJ NN NN -RRB-|BODY_10|0
+the virtual line scheme algorithm|DT JJ NN NN NN|BODY_1|0
+the efficiency increases|DT NN NNS|BODY_1|0
+strong spatial and temporal locality properties|JJ JJ CC JJ NN NNS|BODY_3|0
+an optimal tradeoff|DT JJ NN|BODY_1|0
+a small secondary cache|DT JJ JJ NN|BODY_3|0
+such a buffer|JJ DT NN|BODY_2|0
+the remaining physical lines|DT VBG JJ NNS|BODY_1|0
+a wrong prediction|DT JJ NN|BODY_5|0
+four stream buffers|CD NN NNS|BODY_5|0
+the third term|DT JJ NN|BODY_21|0
+3|CD|BODY_1|0
+3.2 performance|CD NN|BODY_1|0
+performance measurements|NN NNS|BODY_4|0
+related work|VBN NN|BODY_1|0
+selective miss requests|JJ NN NNS|BODY_1|0
+spatial locality exploitation|JJ NN NN|BODY_1|0
+the main flaw|DT JJ NN|BODY_1|0
+figure 9|NN CD|BODY_1|0
+2 exploitation|CD NN|BODY_1|0
+the usual associated flaws|DT JJ JJ NNS|BODY_5|0
+the contrary|DT NN|BODY_2|0
+a good tradeoff|DT JJ NN|BODY_5|0
+an unsafe technique|DT JJ NN|BODY_9|0
+dirty )|JJ -RRB-|BODY_8|0
+only moderate memory traffic increase|RB JJ NN NN NN|BODY_4|0
+other codes ( arc,cc,cpr ,mm)|JJ NNS -LRB- NN NN|BODY_28|0
+physical line size increases|JJ NN NN NNS|BODY_6|0
+section 4|NN CD|BODY_1|0
+temporal locality )|JJ NN -RRB-|BODY_6|0
+that case|DT NN|BODY_1|0
+the processor cycle time|DT NN NN NN|BODY_8|0
+unlikely many wrong predictions|JJ JJ JJ NNS|BODY_3|0
+cache pollution )|NN NN -RRB-|BODY_9|0
+cache pollution and conflicts|NN NN CC NNS|BODY_1|0
+the same cache locations|DT JJ NN NNS|BODY_11|0
+their temporal locality properties|PRP$ JJ NN NNS|BODY_4|0
+con-|NNS|BODY_1|0
+only|RB|BODY_1|0
+the loose connection|DT JJ NN|BODY_1|0
+the two-level cache hierarchy|DT JJ NN NN|BODY_13|0
+the 4 physical lines|DT CD JJ NNS|BODY_1|0
+the same way|DT JJ NN|BODY_1|0
+the same physical line|DT JJ JJ NN|BODY_4|0
+the parameters|DT NNS|BODY_1|0
+seen above|VBN IN|BODY_7|0
+large physical cache lines|JJ JJ NN NNS|BODY_1|0
+section 2|NN CD|BODY_1|0
+the data returns|DT NNS NNS|BODY_1|0
+vls fraction total words|NNS NN JJ NNS|BODY_1|0
+a dirty physical line|DT JJ JJ NN|BODY_1|0
+only the target physical line|RB DT NN JJ NN|BODY_1|0
+such a test|PDT DT NN|BODY_1|0
+the same technique|DT JJ NN|BODY_1|0
+tags|NNS|BODY_7|0
+the only way|DT JJ NN|BODY_1|0
+only the data|RB DT NNS|BODY_1|0
+other less significant hardware add-ons|JJ JJR JJ NN NNS|BODY_1|0
+sufficient spatial locality|JJ JJ NN|BODY_5|0
+checking c 1|VBG NN CD|BODY_5|0
+the cache role|DT NN NN|BODY_1|0
+c 2 being|NN CD NN|BODY_16|0
+the most difficult problem|DT RBS JJ NN|BODY_1|0
+these references|DT NNS|BODY_1|0
+the cache reload|DT NN NN|BODY_8|0
+an lru policy|DT NN NN|BODY_1|0
+section 5 , design and implementation issues|NN CD , NN CC NN NNS|BODY_1|0

@@ -1,0 +1,202 @@
+we|PRP|BODY_2:BODY_1:BODY_14:BODY_3:ABSTRACT_1:BODY_4:BODY_7|4
+it|PRP|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_9|1
+polyvariant static analyses|NN JJ NNS|BODY_6:TITLE_2:BODY_2|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7|1
+the analysis|DT NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+fixpoint computation|JJ NN|BODY_58:TITLE_1:BODY_1|0
+the algorithm|DT NN|BODY_5:BODY_11:BODY_27:BODY_1:BODY_2:BODY_3:ABSTRACT_1|1
+our algorithm|PRP$ NN|BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+polyvariance|NN|BODY_5:ABSTRACT_4:BODY_3:BODY_4|0
+analysis|NN|BODY_5:BODY_2:ABSTRACT_3:BODY_4:BODY_8|0
+a program|DT NN|BODY_6:ABSTRACT_6:BODY_2:BODY_1|0
+both|DT|BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3|0
+polyvariant|NN|BODY_5:ABSTRACT_3:BODY_4|0
+a polyvariant analysis|DT NN NN|BODY_1:ABSTRACT_1:BODY_4|0
+this paper|DT NN|BODY_5:BODY_1:ABSTRACT_1:BODY_4|0
+an optimized general-purpose algorithm|DT JJ JJ NN|ABSTRACT_2|0
+a very accurate form|DT RB JJ NN|ABSTRACT_2|0
+many more abstract descriptions|JJ JJR JJ NNS|ABSTRACT_5|0
+the optimized algorithm addresses|DT JJ NN NNS|ABSTRACT_1|0
+)|-RRB-|BODY_46:BODY_6:BODY_5:BODY_40:BODY_2:BODY_38:BODY_8|0
+the application variant|DT NN NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the program|DT NN|BODY_6:BODY_18:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+which|WDT|BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+a closure variant|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the closure variant|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+(|-LRB-|BODY_5:BODY_28:BODY_22:BODY_1:BODY_14:BODY_20|0
+the application|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the environment|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|0
+the result|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|1
+an application variant|DT NN NN|BODY_12:BODY_2:BODY_1:BODY_3:BODY_4|0
+the variant|DT JJ|BODY_17:BODY_2:BODY_3:BODY_8|0
+application variants|NN NNS|BODY_2:BODY_3:BODY_4|0
+the argument|DT NN|BODY_5:BODY_1:BODY_2:BODY_8|0
+this|DT|BODY_6:BODY_5:BODY_1|0
+the domain|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+the number|DT NN|BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4|0
+higher-order programs|JJR NNS|BODY_2:BODY_3:BODY_4:BODY_9|0
+this approach|DT NN|BODY_2:BODY_3|0
+a|DT|BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|0
+shivers|NNS|BODY_5:BODY_14:BODY_4|0
+they|PRP|BODY_5:BODY_1:BODY_3:BODY_4|0
+the abstract values|DT JJ NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+) )|-RRB- -RRB-|BODY_22:BODY_45:BODY_15:BODY_26|0
+abstract values|JJ NNS|BODY_5:BODY_1:BODY_3:BODY_4|0
+closure variants|NN NNS|BODY_12:BODY_5:BODY_1|0
+the set|DT NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+variants|NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_9|0
+the changes|DT NNS|BODY_2:BODY_7|0
+the abstract value|DT JJ NN|BODY_5:BODY_28:BODY_1:BODY_10|0
+( cleanup|-LRB- NN|BODY_12:BODY_16:BODY_4|0
+the polyvariant static analysis|DT NN JJ NN|BODY_5|1
+a continuation-passing style version|DT JJ NN NN|BODY_2|0
+a new record instance|DT JJ NN NN|BODY_2|0
+an efficient call-graph analysis|DT JJ NN NN|BODY_2|0
+musumbu|NN|BODY_5:BODY_4:BODY_7|0
+the call site|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_7|0
+the least upper|DT JJS JJ|BODY_1:BODY_3|0
+the abstract domain|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+an interpreter|DT NN|BODY_2:BODY_4|0
+the callers|DT NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+procedures|NNS|BODY_5:BODY_1:BODY_2|0
+a new application variant|DT JJ NN NN|BODY_3:BODY_4:BODY_7|0
+itself|PRP|BODY_2|1
+abstract functions|JJ NNS|BODY_2:BODY_3|0
+the abstract syntax tree|DT JJ NN NN|BODY_2|0
+the application variant self|DT NN JJ NN|BODY_3|0
+the results|DT NNS|BODY_5:BODY_2:BODY_3|0
+a polyvariant function|DT NN NN|BODY_5:BODY_2:BODY_3|0
+the analyzed program|DT VBN NN|BODY_1:BODY_7:BODY_9|0
+1987|CD|BODY_2:BODY_3|0
+the partition|DT NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+an abstract value|DT JJ NN|BODY_5:BODY_2|0
+the abstract value domain|DT JJ NN NN|BODY_2|0
+) ( cv-?avs cv)|-RRB- -LRB- NN NN|BODY_2|0
+the abstract domain a|DT JJ NN DT|BODY_2|0
+an abstract closure|DT JJ NN|BODY_2:BODY_4|0
+only those abstract functions|RB DT JJ NNS|BODY_5|0
+a constant function mapping|DT JJ NN NN|BODY_4|0
+the current 6 \delta|DT JJ CD NN|BODY_4|0
+the algorithm [consel 1990|DT NN NN CD|BODY_4|0
+a monovariant analysis|DT JJ NN|BODY_2:BODY_4|0
+the table . hf|DT NN . NN|BODY_2|0
+an abstract interpreter|DT JJ NN|BODY_2|0
+the eight programs|DT CD NNS|BODY_2|0
+a regular expression language|DT JJ NN NN|BODY_4|0
+a first-order value to|DT NN NN TO|BODY_7|0
+the control-flow graph|DT NN NN|BODY_5:BODY_2|0
+creators and callers )|NNS CC NNS -RRB-|BODY_2|0
+abstract closures|JJ NNS|BODY_2:BODY_1:BODY_14:BODY_9|0
+programs|NNS|BODY_26:BODY_24:BODY_8|0
+a simple database system|DT JJ NN NN|BODY_7|0
+the procedures name-?x i|DT NNS NN NNS|BODY_6|0
+(unless (empty-stack ? workstack|JJ NNP . NN|BODY_6|0
+) ) ) fig|-RRB- -RRB- -RRB- NN|BODY_3|0
+the revised algorithm|DT JJ NN|BODY_1:BODY_2|0
+new-return ) ( set-av-?return|NN -RRB- -LRB- NN|BODY_19|0
+( lookup-app-variant cv (|-LRB- JJ NN -LRB-|BODY_29|0
+proc ( formal body|NN -LRB- JJ NN|BODY_10|0
+a closure variant oscillate|DT NN JJ NN|BODY_4|0
+) ( f fig|-RRB- -LRB- NN NN|BODY_11|0
+a more efficient version|DT RBR JJ NN|BODY_2|0
+the argument and result|DT NN CC NN|BODY_2|0
+the highest application variant|DT JJS NN NN|BODY_3:BODY_4|0
+) ) ( cond|-RRB- -RRB- -LRB- NN|BODY_3|0
+revised algorithm fixpoint computation|VBN NN NN NN|BODY_5|0
+call-site ) ( set-call-site-?arg|JJ -RRB- -LRB- NN|BODY_5|0
+a data structure corresponds|DT NN NN NNS|BODY_2|0
+a generic static analysis|DT JJ JJ NN|BODY_4|0
+env formal arg|NN JJ NN|BODY_12:BODY_2|0
+av #t ) (update-return-value|JJ NN -RRB- NN|BODY_4|0
+loop ( cdr avs|NN -LRB- JJ .|BODY_27|0
+call-site ) ( set-call-site-?cvs|NN -RRB- -LRB- NN|BODY_13|0
+the following domain sets|DT JJ NN NNS|BODY_2|0
+cv ( env creators|NN -LRB- NN NNS|BODY_37|0
+a simple higher-order language|DT JJ NN NN|BODY_6|0
+application variant ( define-record|NN NN -LRB- JJ|BODY_6|0
+call-site (av exp arg|JJ NNP NN VBP|BODY_7|0
+control-flow and data-flow analyses|NN CC NN NNS|BODY_1:BODY_2|0
+h ( lambda (|NN -LRB- NN -LRB-|BODY_6|0
+the current call chain|DT JJ NN NN|BODY_6|0
+( lookup-app-variant cv pi-arg|-LRB- NN NN NN|BODY_21|0
+minimal function graphs [jones|JJ NN NNS NNS|BODY_3|0
+the fixpoint computation|DT JJ NN|BODY_2:BODY_4|0
+an efficient fixpoint algorithm|DT JJ NN NN|BODY_3|0
+elsewhere ( e .g.|RB -LRB- NN NNP|BODY_5|0
+the call graph|DT NN NN|BODY_3:BODY_4|0
+lambda expressions and applications|NN NNS CC NNS|BODY_4|0
+the procedure sweep-exp traverses|DT NN JJ NNS|BODY_1|0
+more accurate dependency information|RBR JJ NN NN|BODY_2|0
+the anonymous lambda expression|DT JJ NN NN|BODY_3|0
+its accuracy and performance|PRP$ NN CC NN|BODY_3|0
+the abstract descriptions|DT JJ NNS|BODY_3:BODY_4|0
+a new closure variant|DT JJ NN NN|BODY_3|0
+a simple record facility|DT NN NN NN|BODY_3|0
+the second ( cps-)|DT JJ -LRB- NN|BODY_1|0
+every control flow path|DT NN NN NN|BODY_3|0
+the new operation remove-creators|DT JJ NN NNS|BODY_9|0
+the call-by-value lambda calculus|DT NN NN NN|BODY_4|0
+useless variants|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3|0
+young 1989 ] )|JJ CD NN -RRB-|BODY_6|0
+some preliminary performance results|DT JJ NN NNS|BODY_1|0
+exactly one call-site record|RB CD JJ NN|BODY_3|0
+le charlier et al|FW FW FW NN|BODY_1|0
+a variant|DT NN|BODY_1:BODY_2:BODY_3|0
+'s return value changes|POS NN NN NNS|BODY_18|0
+three new application variants|CD JJ NN NNS|BODY_5|0
+the remaining four programs|DT VBG CD NNS|BODY_1|0
+the initial expression )|DT JJ NN -RRB-|BODY_6|0
+the partition and records|DT NN CC NNS|BODY_5|0
+a polyvariant function (-)|DT NN NN NN|BODY_5|0
+a lambda expression yields|DT NN NN NNS|BODY_2|0
+the update-call-site ! operation|DT JJ . NN|BODY_8|0
+bondorf and j-rgensen [bondorf|NN CC NNP NNP|BODY_1|0
+the next section presents|DT JJ NN NNS|BODY_1|0
+a constant function )|DT JJ NN -RRB-|BODY_7|0
+elements|NNS|BODY_5:BODY_3|0
+the current lexical environment|DT JJ JJ NN|BODY_5|0
+two abstract data types|CD JJ NNS NNS|BODY_1|0
+introduction abstract interpretation [abramsky|NN JJ NN NN|BODY_1|0
+example|NN|BODY_2:BODY_1|0
+this situation|DT NN|BODY_2:BODY_1|0
+the fixpoint finding process|DT JJ NN NN|BODY_6|0
+the procedure analyze-variant analyzes|DT NN NN NNS|BODY_1|0
+the creation|DT NN|BODY_6:BODY_3:BODY_4|0
+an analysis|DT NN|BODY_2:BODY_3|0
+several other static analyzers|JJ JJ JJ NNS|BODY_1|0
+dybvig 1987|NN CD|BODY_2|0
+these datatypes|DT NNS|BODY_2|0
+the fixpoint computation terminates|DT NN NN NNS|BODY_3|0
+their use context changes|PRP$ VBP NN NNS|BODY_2|0
+hentenryck 1991 ] )|NN CD NN -RRB-|BODY_6:BODY_8|0
+a polyvariant binding-time analysis|DT NN JJ NN|BODY_3|0
+a more detailed description|DT RBR JJ NN|BODY_1|0
+a given abstract function|DT VBN JJ NN|BODY_1|0
+the revised procedure analyze-variantchecks|DT JJ NN NNS|BODY_1|0
+each application variant-expression pair|DT NN NN NN|BODY_1|0
+the control-flow and data-flow|DT NN CC NN|BODY_1|0
+higher-order languages|JJR NNS|BODY_2:BODY_4|0
+mathematical formulas and programs|JJ NNS CC NNS|BODY_6|0
+this strategy|DT NN|BODY_1:BODY_4|0
+accuracy|NN|BODY_2:BODY_1:BODY_3|0
+a set|DT NN|BODY_5:BODY_2|0
+first-order programs|NN NNS|BODY_2:BODY_1:BODY_3:BODY_7|0
+equations|NNS|BODY_3:BODY_4|0
+a record|DT NN|BODY_5|0
+'s data-flow contribution|POS NN NN|BODY_3|0
+the record declarations|DT NN NNS|BODY_3|0
+k|NN|BODY_11:BODY_4:BODY_8|0
+the value|DT NN|BODY_6:BODY_1:BODY_3|0
+the context|DT NN|BODY_5:BODY_2|0
+the workstack|DT NN|BODY_5:BODY_15:BODY_1:BODY_3:BODY_9|0
+no change|DT NN|BODY_2:BODY_3:BODY_4|0
+( push-many|-LRB- NN|BODY_21:BODY_43|0
+( ( dropped-cvs|-LRB- -LRB- NN|BODY_16|0
+( car avs)|-LRB- NN NN|BODY_1|0
+a pattern matcher|DT NN NN|BODY_2|0
+computer science department|NN NN NN|BODY_2|0
+arg ) )|NN -RRB- -RRB-|BODY_5|0
+mutually recursive definitions|RB JJ NNS|BODY_3|0
+[ ]i|NNP NNP|BODY_6:BODY_5:BODY_3:BODY_9|0
+compute polyvariant analyses|NN NN NNS|BODY_2|0

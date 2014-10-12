@@ -1,0 +1,34 @@
+the truncation|DT NN|BODY_2|0
+-50 db|DT NN|BODY_2|0
+the entire propagation bandwidth|DT JJ NN NN|BODY_3|0
+no longer|DT RB|BODY_2|0
+the mesh|DT NN|BODY_4|0
+a microwave amplifier|DT NN NN|BODY_2|0
+simulation accuracy|NN NN|BODY_6|0
+the spatial discretization|DT JJ NN|BODY_3|0
+finite-element time-domain solution|NN NN NN|BODY_2|0
+the global electromagnetic analysis|DT JJ JJ NN|BODY_9|0
+the perfectly matched layers|DT RB VBN NNS|BODY_3|0
+time-domain-based algorithm|JJ NN|BODY_4|0
+mesh flexibility|NN NN|BODY_5|0
+this extended fetd algorithm|DT JJ NN NN|BODY_3|0
+active nonlinear microwave circuits|JJ JJ NN NNS|BODY_3|0
+fetd ) method|NN -RRB- NN|BODY_8|0
+perfectly matched layers|RB VBN NNS|BODY_4|0
+the unconditionally stable finite-element time-domain|DT RB JJ NN NN|BODY_7|0
+an extension|DT NN|BODY_6|0
+this paper|DT NN|BODY_5|0
+this formulation|DT NN|BODY_1|0
+two advantages|CD NNS|BODY_2|0
+reflection|NN|BODY_1|0
+waveguide and microstrip line|NN CC NN NN|BODY_4|0
+pml)|NN|BODY_4|0
+the nyquist sampling criterion|DT NN NN NN|BODY_5|0
+the time-step size|DT NN NN|BODY_1|0
+a benchmark test|DT JJ NN|BODY_1|0
+computation time|NN NN|BODY_7|0
+active microwave circuits|JJ NN NNS|BODY_10|0
+an unconditionally stable extended ( use|DT RB JJ JJ -LRB- NN|BODY_1|0
+an anisotropic pml absorbing material|DT JJ NN VBG NN|BODY_1|0
+fetd lattices|JJ NNS|BODY_3|0
+the implementation|DT NN|BODY_1|0

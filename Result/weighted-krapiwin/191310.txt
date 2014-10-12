@@ -1,0 +1,151 @@
+information systems|NN NNS|BODY_5:TITLE_1:BODY_4:BODY_10:ABSTRACT_7:BODY_8:BODY_9|2
+that|WDT|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|3
+we|PRP|BODY_6:BODY_11:BODY_5:BODY_15:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4|15
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:ABSTRACT_1:BODY_4:BODY_10:BODY_7|1
+users|NNS|BODY_5:ABSTRACT_5:BODY_1:BODY_2:BODY_3:BODY_8|2
+the wireless medium|DT JJ NN|ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_10:BODY_9|0
+a mobile host|DT JJ NN|BODY_12:BODY_6:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|3
+which|WDT|BODY_6:BODY_5:BODY_40:BODY_17:BODY_25:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|1
+data|NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+mobile hosts|JJ NNS|BODY_6:BODY_5:BODY_16:BODY_1:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8|0
+operations|NNS|BODY_5:BODY_1:BODY_2:BODY_4:BODY_10:BODY_7|0
+operation|NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_4:BODY_8|1
+transactions|NNS|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+information|NN|BODY_6:BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|2
+the computation|DT NN|BODY_5:BODY_1:BODY_2:BODY_4:BODY_8:BODY_9|1
+account|NN|BODY_6:BODY_14:BODY_3:BODY_7|1
+the system|DT NN|BODY_6:BODY_17:BODY_2:BODY_4:BODY_9|2
+them|PRP|BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7|0
+the mobile host|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_20|0
+they|PRP|BODY_12:BODY_1:BODY_2:BODY_3|0
+a mobile environment|DT JJ NN|BODY_12:BODY_5:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7|1
+the fixed network|DT JJ NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_21:BODY_4:BODY_8:BODY_9|0
+a transaction|DT NN|BODY_5:BODY_2:BODY_4|1
+a possible cluster configuration|DT JJ NN NN|BODY_6|1
+the mobile hosts|DT JJ NNS|BODY_6:BODY_10:BODY_4:BODY_9|1
+total or partial disconnection|JJ CC JJ NN|BODY_9|1
+a general object-based architecture|DT JJ JJ NN|BODY_4|1
+3.3 two important considerations|CD CD JJ NNS|BODY_1|1
+a more flexible model|DT JJR JJ NN|BODY_2|1
+part|NN|BODY_6:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+a cluster|DT NN|BODY_2:BODY_7|0
+'s profile|POS NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|1
+the architecture|DT NN|BODY_2:BODY_1:BODY_7:BODY_8|0
+ffl|NN|BODY_3:BODY_4:BODY_7:BODY_8|1
+a user|DT NN|BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|1
+the design|DT NN|BODY_3:BODY_8|1
+the user|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2|0
+our simulated mobile station|PRP$ JJ JJ NN|BODY_2|0
+the fact|DT NN|BODY_2:BODY_4:BODY_8|0
+the characteristics|DT NNS|BODY_1:BODY_2:BODY_3:BODY_4|0
+transaction migration|NN NN|BODY_2:BODY_1:BODY_4:BODY_8|1
+the value|DT NN|BODY_1:BODY_3|0
+the modes|DT NNS|BODY_1:BODY_2:BODY_3:BODY_7|1
+one|CD|BODY_6:BODY_5:BODY_3:BODY_9|0
+the 3rd international conference|DT JJ JJ NN|BODY_2|0
+the information management system|DT NN NN NN|BODY_5|0
+terms|NNS|BODY_6:BODY_5:BODY_3|0
+system addresses security issues|NN NNS NN NNS|BODY_2|0
+other weak consistency proposals|JJ JJ NN NNS|BODY_7|0
+information and knowledge management|NN CC NN NN|BODY_3|0
+the distributed object-based architecture|DT VBN JJ NN|BODY_12|0
+low bandwidth energy considerations|JJ NN NN NNS|BODY_4|0
+static and mobile hosts|JJ CC JJ NNS|BODY_11|0
+the distributed object paradigm.mobile-access(|DT VBN NN JJ|BODY_3|0
+both advantages and disadvantages|DT NNS CC NNS|BODY_2|0
+consistency and transaction management|NN CC NN NN|BODY_2|0
+mobile or nomadic computing|JJ CC JJ NN|BODY_2|0
+the consistency control method|DT NN NN NN|BODY_2|0
+the following two sections|DT VBG CD NNS|BODY_1|0
+this and related reports|DT CC JJ NNS|BODY_7|0
+this new computing paradigm|DT JJ NN NN|BODY_1|0
+www , url address|JJ , JJ NN|BODY_8|0
+loose or strict operations|JJ CC JJ NNS|BODY_3|0
+the wireless medium characteristics|DT JJ NN NNS|BODY_10|0
+a more realistic approach|DT RBR JJ NN|BODY_5|0
+undoing only loose transactions|VBG RB JJ NNS|BODY_3|0
+mobile hosts table 2|JJ NNS NN CD|BODY_11|0
+a high start-up charge|DT JJ JJ NN|BODY_4|0
+100 mbps and atm|CD NNS CC NN|BODY_6|0
+local resource consumption (es|JJ NN NN NNS|BODY_4|0
+the same data copy|DT JJ NNS NN|BODY_5|0
+the same transaction conflict|DT JJ NN NN|BODY_2|0
+the associated correctness criteria|DT VBN NN NNS|BODY_4|0
+two or three hours|CD CC CD NNS|BODY_3|0
+the nearest restaurant )|DT JJS NN -RRB-|BODY_10|0
+the local area network|DT JJ NN NN|BODY_7|0
+the communication library routines|DT NN NN NNS|BODY_2|0
+a transaction t j|DT NN NN NN|BODY_5|0
+expressive power and offer|JJ NN CC NN|BODY_2|0
+weak or total disconnections|JJ CC JJ NNS|BODY_14|0
+a local mobile database|DT JJ JJ NN|BODY_3|0
+a frequently changing data|DT RB VBG NNS|BODY_7|0
+few long-lived session-based transactions|JJ JJ JJ NNS|BODY_3|0
+a distributed database system|DT VBN NN NN|BODY_4|0
+total and partial disconnections|JJ CC JJ NNS|BODY_5:BODY_1|0
+a locally available copy|DT RB JJ NN|BODY_5|0
+site i and t|NN NN CC NN|BODY_4|0
+a limited resource )|DT JJ NN -RRB-|BODY_6|0
+the new base station|DT JJ NN NN|BODY_4|0
+a distributed transaction t|DT VBN NN NN|BODY_2|0
+a partly disconnected mode|DT RB VBN NN|BODY_2|0
+the old base station|DT JJ NN NN|BODY_3|0
+users or application developers|NNS CC NN NNS|BODY_1|0
+a general mobile transaction|DT JJ JJ NN|BODY_7|0
+the information system users|DT NN NN NNS|BODY_3|0
+ffl special mobile-object servers|NN JJ JJ NNS|BODY_3|0
+some local area network|DT JJ NN NN|BODY_4|0
+the traditional performance measurements|DT JJ NN NNS|BODY_2|0
+a better load balance|DT JJR NN NN|BODY_3|0
+strict transactions|JJ NNS|BODY_13:BODY_1:BODY_2:BODY_3|0
+a relatively independent component|DT RB JJ NN|BODY_6|0
+partial and total disconnections|JJ CC JJ NNS|BODY_5|0
+a mobile host i|DT JJ NN NN|BODY_3|0
+the other general considerations|DT JJ JJ NNS|BODY_5|0
+fixed and mobile hosts|JJ CC JJ NNS|BODY_4|0
+mobile transactions|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+an open-nested model [10]|DT JJ NN NN|BODY_2|0
+both the wireless medium|PDT DT JJ NN|BODY_5|0
+the general object-based architecture|DT JJ JJ NN|BODY_5|0
+low or no connection|JJ CC DT NN|BODY_3|0
+( b ) transactions|-LRB- NN -RRB- NNS|BODY_9|0
+a great extent private|DT JJ NN JJ|BODY_6|0
+loose and strict )|JJ CC JJ -RRB-|BODY_6|0
+station base station base|NN NN NN NN|BODY_1|0
+a strictly syntactic approach|DT RB JJ NN|BODY_3|0
+a strict read operation|DT JJ NN NN|BODY_1|0
+a complex control structure|DT JJ NN NN|BODY_5|0
+the mobile environment [2]|DT JJ NN NN|BODY_8|0
+the next 10 years|DT JJ CD NNS|BODY_7|0
+some appropriately defined degree|DT RB VBN NN|BODY_5|0
+its own data model|PRP$ JJ NNS NN|BODY_4|0
+the associated mobile host|DT JJ JJ NN|BODY_9|0
+low bandwidth availabil- ity|JJ NN CC NN|BODY_11|0
+the same cluster [21]|DT JJ NN NN|BODY_4|0
+their data or applications|PRP$ NNS CC NNS|BODY_5|0
+the primary copy [1]|DT JJ NN NN|BODY_4|0
+a mobile information system|DT JJ NN NN|BODY_9|0
+mobile and fixed hosts|JJ CC JJ NNS|BODY_4|0
+its assigned base station|PRP$ JJ NN NN|BODY_2|0
+the usual seman- tics|DT JJ NNS NNS|BODY_2|0
+the mobile host moves|DT JJ NN NNS|BODY_6|0
+a mobile distributed system|DT JJ VBN NN|BODY_11|0
+a mobile distributed environment|DT JJ VBN NN|BODY_4|0
+the following characteristics 1|DT VBG NNS CD|BODY_7|0
+a user or data|DT NN CC NNS|BODY_4|0
+the wireless network|DT JJ NN|BODY_6:BODY_3:BODY_4:BODY_8|0
+the number|DT NN|BODY_5:BODY_3:BODY_7|0
+e .g.|NN NNP|BODY_22:BODY_14:BODY_7|0
+there|EX|BODY_13:BODY_1:BODY_3|0
+mobile computing|JJ NN|BODY_13:BODY_1:BODY_3|0
+disconnections|NNS|BODY_6:BODY_15:BODY_3:BODY_9|0
+the clock speed|DT NN NN|BODY_2|0
+the degree|DT NN|BODY_12:BODY_2:BODY_1|0
+the model|DT NN|BODY_1:BODY_2|0
+loose transactions|JJ NNS|BODY_2:BODY_1:BODY_4:BODY_8|0
+an information system|DT NN NN|BODY_17:BODY_3:BODY_4|0
+a wireless interface|DT JJ NN|BODY_31:BODY_5|0
+clusters|NNS|BODY_6:BODY_1:BODY_3:BODY_4|0
+a new cell|DT JJ NN|BODY_3:BODY_4|0
+only the updates|RB DT NNS|BODY_2|0
+their mobile host|PRP$ JJ NN|BODY_2|0

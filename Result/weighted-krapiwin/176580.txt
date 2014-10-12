@@ -1,0 +1,696 @@
+we|PRP|BODY_12:BODY_16:BODY_17:BODY_15:BODY_13:ABSTRACT_2:BODY_2:BODY_25:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|9
+geometric constraints|JJ NNS|BODY_6:TITLE_2:BODY_1:BODY_2:BODY_3:BODY_10|0
+d-nurbs|NNS|BODY_6:BODY_13:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4|1
+that|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_17:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+a new technique|DT JJ NN|ABSTRACT_2:BODY_3|1
+the control points|DT NN NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_2:BODY_3|0
+they|PRP|BODY_6:BODY_11:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3|1
+the numerical integration|DT JJ NN|ABSTRACT_2:BODY_2|0
+other physical quantities|JJ JJ NNS|BODY_5:ABSTRACT_6|0
+multiple control points|JJ NN NNS|ABSTRACT_6:BODY_1|0
+internal deformation energies|JJ NN NNS|ABSTRACT_5:BODY_4|0
+incorporate mass distributions|JJ NN NNS|ABSTRACT_4:BODY_3|0
+weights|NNS|BODY_6:BODY_12:BODY_5:ABSTRACT_8:BODY_4:ABSTRACT_7:BODY_7:BODY_8|0
+control points|NN NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_4:ABSTRACT_7:BODY_8|0
+the nonuniform rational b-spline|DT NN JJ NN|ABSTRACT_3|0
+a physically intuitive manner|DT RB JJ NN|ABSTRACT_2|0
+the traditional indirect fashion|DT JJ JJ NN|ABSTRACT_6|0
+d-nurbs move and deform|NNS NN CC NN|ABSTRACT_1|0
+their dynamic behavior results|PRP$ JJ NN NNS|ABSTRACT_1|0
+a dynamic generalization|DT JJ NN|ABSTRACT_2|0
+a defacto standard|DT JJ NN|ABSTRACT_2|0
+direct physical manipulation|JJ JJ NN|ABSTRACT_9|0
+2d shape metamorphosis|JJ NN NN|ABSTRACT_3|0
+the popular nurbs|DT JJ NNS|ABSTRACT_7|0
+commercial modeling systems|JJ NN NNS|ABSTRACT_3|0
+nonlinear differential equations|JJ JJ NNS|ABSTRACT_4|0
+purely geometric primitives|RB JJ NNS|ABSTRACT_3|0
+curves and surfaces|NNS CC NNS|ABSTRACT_3|0
+nurbs ) model|NNS -RRB- NN|ABSTRACT_4|0
+common analytic shapes|JJ JJ NNS|ABSTRACT_6|0
+constrained d-nurbs surfaces|JJ NNS NNS|ABSTRACT_4|0
+'s direct manipulations|POS JJ NNS|ABSTRACT_5|0
+a finite-element-like discretization|DT JJ NN|ABSTRACT_4|0
+which|WDT|BODY_12:BODY_21:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+an interesting prototype system|DT JJ NN NN|BODY_2|1
+the non-uniform rational b-splines|DT JJ JJ NNS|BODY_3|1
+the potential energy form|DT JJ NN NN|BODY_20|1
+the modeler or designer|DT NN CC NN|BODY_7|1
+the generalized force vector|DT JJ NN NN|BODY_6|1
+an interactive modeling environment|DT JJ JJ NN|BODY_5|1
+elastic springs and hinges|JJ NNS CC NNS|BODY_6|1
+bloor and wilson [3|NN CC NN NNS|BODY_1|1
+6.3 discrete dynamics equations|CD JJ NNS NNS|BODY_1|1
+( 17 )|-LRB- CD -RRB-|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_19:BODY_7|1
+a quadratic d-nurbs surface|DT JJ JJ NN|BODY_6:BODY_5:BODY_8|0
+the left hand side|DT JJ NN NN|BODY_5:BODY_3|0
+t 0 t 1|NN CD NN CD|BODY_2:BODY_4|0
+the rational basis functions|DT JJ NN NNS|BODY_2:BODY_3|0
+shaping surfaces and solids|VBG NNS CC NNS|BODY_3|0
+the conjugate gradient algorithm|DT NN NN NN|BODY_2:BODY_4|0
+a constrained skinned surface|DT JJ JJ NN|BODY_2|0
+cross-sectional design including skinning|JJ NN VBG NN|BODY_2|0
+t ) , etc.|NN -RRB- , FW|BODY_2|0
+a d-nurbs generalized cylinder|DT JJ JJ NN|BODY_2|0
+the associated generalized coordinates|DT JJ JJ NNS|BODY_3|0
+nurbs curves and surfaces|NNS NNS CC NNS|BODY_5:BODY_3|0
+the constrained generalized accelerations|DT JJ JJ NNS|BODY_7|0
+the rigidity fi note|DT NN JJ NN|BODY_2|0
+simple ( e .g.|JJ -LRB- NN NNP|BODY_7|0
+linear ) interpolation techniques|NN -RRB- NN NNS|BODY_8|0
+the general d-nurbs model|DT JJ NNS NN|BODY_11|0
+the ad hoc assumptions|DT NN JJ NNS|BODY_7|0
+multiplicity k and l|NN NN CC NN|BODY_2|0
+sophisticated 3d interaction devices|JJ JJ NN NNS|BODY_2|0
+a standard geometric foundation|DT JJ JJ NN|BODY_9|0
+zero-mean gaussian data errors|JJ JJ NNS NNS|BODY_2|0
+the reduced integration accuracy|DT JJ NN NN|BODY_3|0
+motion|NN|BODY_12:BODY_6:BODY_5:BODY_27:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|3
+the above implementation strategy|DT JJ NN NN|BODY_9|0
+our dynamic nurbs model|PRP$ JJ NNS NN|BODY_6|0
+the desired final shape|DT VBN JJ NN|BODY_2|0
+an ideal hookean spring|DT JJ JJ NN|BODY_7|0
+the deformable modeling approach|DT JJ JJ NN|BODY_3|0
+closed cubic d-nurbs curves|JJ JJ NNS NNS|BODY_2|0
+the proper continuity requirements|DT JJ NN NNS|BODY_5|0
+the simple euler method|DT JJ NN NN|BODY_7|0
+the d-nurbs deformation energy|DT NNS NN NN|BODY_4|0
+the second subscript varies|DT JJ JJ NNS|BODY_5|0
+[23]-for generating common surfaces|JJ NN JJ NNS|BODY_5|0
+p ( e .g.|NN -LRB- NN NNP|BODY_6|0
+an iterative solution [27|DT JJ NN NNS|BODY_3|0
+the conjugate gradient method|DT NN NN NN|BODY_2|0
+the frozen vector pw|DT JJ NN NN|BODY_5|0
+asymptotically stable ; e.g.|RB JJ : FW|BODY_13|0
+the quickest asymptotic decay|DT JJS JJ NN|BODY_8|0
+two circular trimming curves|CD JJ VBG NNS|BODY_4|0
+the d-nurbs motion equations|DT NNS NN NNS|BODY_5:BODY_8|0
+the integral form z|DT JJ NN FW|BODY_7|0
+a purely geometric representation|DT RB JJ NN|BODY_2|0
+an underdetermined linear system|DT JJ NN NN|BODY_2|0
+the standard nurbs geometry|DT JJ NNS NN|BODY_2|0
+the nearest material point|DT JJS NN NN|BODY_9|0
+a d-nurbs surface element|DT JJ NN NN|BODY_6|0
+a common mathematical framework|DT JJ JJ NN|BODY_4|0
+a linear constraint problem|DT NN NN NN|BODY_2|0
+ordinary b-splines (unit weights|JJ NNS NN NNS|BODY_5|0
+the element data structure|DT NN NN NN|BODY_5|0
+a d-nurbs space curve|DT JJ NN NN|BODY_3|0
+a more detailed discussion|DT RBR JJ NN|BODY_1|0
+terzopoulos and fleischer [36]|NNS CC NN NN|BODY_1|0
+the two end curves|DT CD NN NNS|BODY_3|0
+viscoelastic and plastic models|JJ CC JJ NNS|BODY_3|0
+the de boor algorithm|DT NNP NN NN|BODY_13|0
+quadratic and cubic surfaces|JJ CC JJ NNS|BODY_3|0
+the nonuniform density functions|DT JJ NN NNS|BODY_2|0
+our numerical quadrature approach|PRP$ JJ NN NN|BODY_4|0
+the two parametric axes|DT CD JJ NNS|BODY_2|0
+an arbitrary geometric model|DT JJ JJ NN|BODY_3|0
+a green closed curve|DT JJ JJ NN|BODY_4|0
+a prototype modeling environment|DT NN JJ NN|BODY_3|0
+the final desired shape|DT JJ VBN NN|BODY_2|0
+raleigh dissipation energy f|JJ NN NN NN|BODY_5|0
+a unified mathematical formulation|DT JJ JJ NN|BODY_2|0
+position and normal constraints|NN CC JJ NNS|BODY_2|0
+the remaining control points|DT VBG NN NNS|BODY_4|0
+the red generator curve|DT JJ NN NN|BODY_4|0
+the new jacobian matrix|DT JJ JJ NN|BODY_7|0
+a trimmed annular surface|DT RBR JJ NN|BODY_3|0
+also standard analytic shapes|RB JJ JJ NNS|BODY_4|0
+the previous two sections|DT JJ CD NNS|BODY_7|0
+the d-nurbs surface p|DT NNS NN NN|BODY_5|0
+the addition or deletion|DT NN CC NN|BODY_6|0
+the d-nurbs design scenario|DT NNS NN NN|BODY_3|0
+fi i ;j (u|JJ IN JJ NN|BODY_17|0
+advanced geometric design tools|JJ JJ NN NNS|BODY_6|0
+an efficient numerical implementation|DT JJ JJ NN|BODY_26:BODY_1|0
+a linear generalized cylinder|DT JJ JJ NN|BODY_3|0
+minimal-energy d- nurbs surfaces|NN NNS NNS NNS|BODY_2|0
+the generalized applied force|DT JJ JJ NN|BODY_4|0
+nonlinear ordinary differential equations|JJ JJ JJ NNS|BODY_7|0
+the implied convex/concave surface|DT VBN NN NN|BODY_6|0
+v ) density functions|NN -RRB- NN NNS|BODY_9|0
+at least c k\gamma1\gammar|IN JJS NN NN|BODY_12|0
+the mass density function|DT NN NN NN|BODY_6|0
+( 21 ) as|-LRB- CD -RRB- IN|BODY_6|0
+tension energy model [35]|NN NN NN NN|BODY_5|0
+b i ;j (u|NN FW FW FW|BODY_3|0
+the above two expressions|DT JJ CD NNS|BODY_13|0
+the generalized coordinate vector|DT JJ VBP NN|BODY_20|0
+the green generator curve|DT JJ NN NN|BODY_3|0
+the least squares sense|DT JJS NNS NN|BODY_13|0
+the final equilibrium configuration|DT JJ NN NN|BODY_3|0
+an iterative matrix solver|DT JJ NN NN|BODY_3|0
+finite element data structures|JJ NN NNS NNS|BODY_2|0
+the following finite differences|DT VBG NN NNS|BODY_4|0
+the best known techniques|DT JJS VBN NNS|BODY_2|0
+deformable curves and surfaces|JJ NNS CC NNS|BODY_2|0
+an element data structure|DT NN NN NN|BODY_2|0
+two or more surfaces|CD CC JJR NNS|BODY_5|0
+the matrices and vectors|DT NNS CC NNS|BODY_4|0
+a computational physics simulation|DT JJ NN NN|BODY_1|0
+presents applications and results|NNS NNS CC NNS|BODY_4|0
+a minimal unconstrained set|DT JJ JJ NN|BODY_6|0
+while ( 22 )|IN -LRB- CD -RRB-|BODY_3|0
+t ) and weights|NN -RRB- CC NNS|BODY_8|0
+the time integration formula|DT NN NN NN|BODY_8|0
+the second cross derivative|DT JJ NN NN|BODY_3|0
+the simpler expression p|DT JJR NN NN|BODY_6|0
+the boundary control points|DT NN NN NNS|BODY_6|0
+stiffnesses-for given data sets|JJ VBN NNS NNS|BODY_6|0
+slow asymptotic convergence [27]|JJ JJ NN NN|BODY_8|0
+4 our d-nurbs system|CD PRP$ NNS NN|BODY_1|0
+deformable model formulations [36]|JJ NN NNS NNS|BODY_7|0
+the gauss quadrature proceeds|DT JJ NN NNS|BODY_1|0
+two closed elliptical curves|CD JJ JJ NNS|BODY_7|0
+the constraint matrix g|DT NN NN NN|BODY_12|0
+d-nurbs curves and surfaces|NNS NNS CC NNS|BODY_10|0
+an interactive spring force|DT JJ NN NN|BODY_4|0
+the holonomic constraint equations|DT JJ NN NNS|BODY_4|0
+its internal deformation energy|PRP$ JJ NN NN|BODY_6|0
+the spring constant c|DT NN JJ NN|BODY_1|0
+7.6 shape metamorphosis metamorphosis|CD NN NN NN|BODY_1|0
+the augmented lagrangian method|DT JJ JJ NN|BODY_1|0
+the forward difference approach|DT JJ NN NN|BODY_3|0
+the non-decreasing knot sequence|DT JJ NN NN|BODY_1|0
+stable , convergent solutions|JJ , JJ NNS|BODY_4|0
+sederberg and parry [30]|JJ CC JJ NN|BODY_1|0
+p and p )|NN CC NN -RRB-|BODY_8|0
+this restricted rational generalization|DT VBN JJ NN|BODY_1|0
+rigidity fi 1;1 parameters|NNP JJ CD NNS|BODY_8|0
+standard finite element codes|JJ JJ NN NNS|BODY_1|0
+the other four vectors|DT JJ CD NNS|BODY_1|0
+our current modeling system|PRP$ JJ JJ NN|BODY_4|0
+the tensor-product b-spline surface|DT NN NN NN|BODY_4|0
+the global vector p|DT JJ NN NN|BODY_3|0
+several commercial modeling systems|JJ JJ NN NNS|BODY_3|0
+the optimal approximation problem|DT JJ NN NN|BODY_1|0
+hence ( 30 )|RB -LRB- CD -RRB-|BODY_6|0
+celniker and welch [6|NN CC NN NNS|BODY_1|0
+the above rounding technique|DT JJ NN NN|BODY_1|0
+the unit delta function|DT NN JJ NN|BODY_4|0
+the element stiffness matrix|DT NN NN NN|BODY_3|0
+the only extra cost|DT JJ JJ NN|BODY_1|0
+the opposite parametric direction|DT JJ JJ NN|BODY_11|0
+shinagawa and kunii [31]|. CC JJ NNS|BODY_1|0
+the data point )|DT NNS NN -RRB-|BODY_10|0
+an entire sculpting session|DT JJ NN NN|BODY_3|0
+one unified physics-based implementation|CD JJ JJ NN|BODY_8|0
+the non-rational parametric form|DT JJ JJ NN|BODY_3|0
+two planar polygonal shapes|CD JJ JJ NNS|BODY_3|0
+proportionately greater computational cost|RB JJR JJ NN|BODY_3|0
+the solid rounding problem|DT JJ JJ NN|BODY_3|0
+the physics-based d-nurbs generalization|DT JJ NNS NN|BODY_1|0
+the vector f p|DT NN NN NN|BODY_3|0
+linear or nonlinear constraints|NN CC JJ NNS|BODY_1|0
+motion [43 , 15]|NN CD , CD|BODY_6|0
+welch and witkin [42]|NN CC NN NN|BODY_1|0
+p ( t+\deltat )|NN -LRB- NN -RRB-|BODY_7|0
+each simulation time step|DT NN NN NN|BODY_7|0
+n weights and abscissas|NN NNS CC JJ|BODY_20|0
+a physics-based modeling point|DT JJ JJ NN|BODY_1|0
+the damping density function|DT NN NN NN|BODY_3|0
+the force f (u|DT NN NN NN|BODY_1|0
+costly time integration methods|JJ NN NN NNS|BODY_1|0
+the shape and motion|DT NN CC NN|BODY_9|0
+an abstract physical system|DT JJ JJ NN|BODY_1|0
+incorporate linear geometric constraints|JJ NN JJ NNS|BODY_1|0
+optimal shape design results|JJ NN NN NNS|BODY_1|0
+the elastic potential energy|DT JJ JJ NN|BODY_1|0
+our physics-based d-nurbs model|PRP$ JJ NNS NN|BODY_4|0
+the nurbs basis functions|DT NNS NN NNS|BODY_8|0
+7.1 interactive modeling environment|CD JJ JJ NN|BODY_1|0
+d explicit time integration|VBN JJ NN NN|BODY_1|0
+mass and damping matrices|NN CC VBG NNS|BODY_5|0
+the above two equations|DT JJ CD NNS|BODY_14|0
+hence ( 6 )|RB -LRB- CD -RRB-|BODY_6|0
+the implicit schemes )|DT JJ NNS -RRB-|BODY_17|0
+the d-nurbs surface element|DT JJ NN NN|BODY_12|0
+the d-nurbs control points|DT NNS NN NNS|BODY_1|0
+the parametric domain|DT JJ NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|0
+the d-nurbs curve|DT JJ NN|BODY_6:BODY_16:BODY_1|1
+( 10 )|-LRB- CD -RRB-|BODY_1:BODY_3:BODY_4:BODY_7|1
+the dynamic model|DT JJ NN|BODY_6:BODY_10|1
+finite element analysis|JJ NN NN|BODY_5:BODY_7|1
+a deformable b-spline|DT JJ NN|BODY_3|1
+whose control points|WP$ NN NNS|BODY_4|1
+the deformable model|DT JJ NN|BODY_4|1
+1975 versprille [40]|CD JJ NNS|BODY_2|1
+the finite-element optimization|DT NN NN|BODY_4|1
+interactive free-form design|JJ NN NN|BODY_3|1
+the lagrangian equations|DT JJ NNS|BODY_26:BODY_1:BODY_4|1
+the d-nurbs equations|DT NNS NNS|BODY_2:BODY_4|1
+the evolving state|DT JJ NN|BODY_9|1
+two weighting functions|CD VBG NNS|BODY_19|1
+z z|FW FW|BODY_12:BODY_11:BODY_16:BODY_2:BODY_3:BODY_4:BODY_9|2
+only two terms|RB CD NNS|BODY_18|1
+a physics-based generalization|DT JJ NN|BODY_4|1
+virtual work [14]|JJ NN NN|BODY_8|1
+arbitrary geometric models|JJ JJ NNS|BODY_4|1
+the cross-sectional design|DT JJ NN|BODY_3|1
+j du dv|FW FW FW|BODY_13|1
+celniker and gossard|NN CC NN|BODY_1|1
+the jacobian matrix|DT JJ NN|BODY_11:BODY_4:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|0
+the d-nurbs|DT NNS|BODY_5:BODY_17:BODY_2:BODY_3:BODY_24|0
+fig|NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_8|0
+the generalized coordinates|DT JJ NNS|BODY_5:BODY_13:BODY_1:BODY_2:BODY_8|0
+the case|DT NN|BODY_6:BODY_15:BODY_1:BODY_3:BODY_7|1
+( 16 )|-LRB- CD -RRB-|BODY_7:BODY_8:BODY_9|0
+a nurbs surface|DT NNS NN|BODY_2:BODY_4|0
+the d-nurbs model|DT NNS NN|BODY_2:BODY_3:BODY_4|0
+time|NN|BODY_6:BODY_12:BODY_11:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4|0
+( 29 )|-LRB- CD -RRB-|BODY_6:BODY_5:BODY_1|0
+the two vectors|DT CD NNS|BODY_6:BODY_1:BODY_3:BODY_9|0
+the lagrange multipliers|DT NN NNS|BODY_6:BODY_2|0
+( 22 )|-LRB- CD -RRB-|BODY_3:BODY_7|0
+5 control points|CD NN NNS|BODY_5:BODY_4:BODY_7|0
+the data point|DT NNS NN|BODY_4:BODY_7|0
+a d-nurbs surface|DT JJ NN|BODY_2:BODY_3|0
+( 38 )|-LRB- CD -RRB-|BODY_2:BODY_4|0
+a control point|DT NN NN|BODY_2:BODY_7|0
+the end knots|DT NN NNS|BODY_1:BODY_2|0
+the potential energy|DT JJ NN|BODY_4:BODY_8|0
+the far boundaries|DT JJ NNS|BODY_5:BODY_3|0
+6 control points|CD NN NNS|BODY_5:BODY_4|0
+( 40 )|-LRB- CD -RRB-|BODY_11:BODY_5:BODY_4|0
+the global matrices|DT JJ NNS|BODY_2:BODY_3|0
+the integral expressions|DT JJ NNS|BODY_12:BODY_4|0
+the right side|DT JJ NN|BODY_11:BODY_1|0
+a quadratic d-nurbs|DT JJ NNS|BODY_2:BODY_7|0
+the u direction|DT NNP NN|BODY_6:BODY_5|0
+the motion equations|DT NN NNS|BODY_3:BODY_9|0
+19 data points|CD NNS NNS|BODY_3:BODY_4|0
+7 control points|CD NN NNS|BODY_3|0
+a common approach|DT JJ NN|BODY_2|0
+applied simulated forces|VBN VBN NNS|BODY_3|0
+local shape parameters|JJ NN NNS|BODY_2|0
+our prototype d-nurbs|PRP$ NN NNS|BODY_2|0
+the model responds|DT NN NNS|BODY_2|0
+3d shape blending|JJ NN NN|BODY_2|0
+a nurbs curve|DT JJ NN|BODY_2|0
+simple interactive sculpting|JJ JJ NN|BODY_2|0
+the optimal fitting|DT JJ JJ|BODY_2|0
+the work-energy version|DT NN NN|BODY_2|0
+a fillet surface|DT NN NN|BODY_3|0
+the interpolating surface|DT VBG NN|BODY_3|0
+the product rule|DT NN NN|BODY_5:BODY_15:BODY_1|0
+the computational cost|DT JJ NN|BODY_5:BODY_8|0
+this way lead|DT NN NN|BODY_3|0
+the left side|DT JJ NN|BODY_10:BODY_4|0
+a principled approach|DT JJ NN|BODY_2|0
+data force spring|NNS NN NN|BODY_5|0
+the relevant physical|DT JJ NN|BODY_3|0
+the surface patch|DT NN NN|BODY_4|0
+49 control points|CD NN NNS|BODY_4:BODY_7|0
+( control points|-LRB- NN NNS|BODY_4|0
+the convex hull|DT NN NN|BODY_4|0
+monte carlo integration|NN NN NN|BODY_6|0
+standard geometric transformations|JJ JJ NNS|BODY_8|0
+( 5 )|-LRB- CD -RRB-|BODY_5:BODY_4|0
+the interpolated ellipses|DT JJ NNS|BODY_2|0
+( 31 )|-LRB- CD -RRB-|BODY_6|0
+the nurbs geometry|DT NNS NN|BODY_5:BODY_7|0
+the four corners|DT CD NNS|BODY_5|0
+an overstruck dot|DT NN NN|BODY_3|0
+a straightforward technique|DT JJ NN|BODY_9|0
+its control point|PRP$ NN NN|BODY_5|0
+the elastic surfaces|DT JJ NNS|BODY_6|0
+that sample locations|DT NN NNS|BODY_2|0
+free-form parametric curve|JJ JJ NN|BODY_10|0
+the kinematic spline|DT JJ NN|BODY_2|0
+our d-nurbs formulation|PRP$ NNS NN|BODY_1:BODY_2|0
+zero physical parameters|CD JJ NNS|BODY_3|0
+a 3 \theta|DT CD NN|BODY_5:BODY_3|0
+a similar structure|DT JJ NN|BODY_3|0
+the physical basis|DT JJ NN|BODY_2|0
+these five vectors|DT CD NNS|BODY_2|0
+established cagd methodologies|JJ NN NNS|BODY_8|0
+surface normal constraints|NN JJ NNS|BODY_5|0
+the b-spline model|DT NN NN|BODY_2|0
+( 44 )|-LRB- CD -RRB-|BODY_1:BODY_4|0
+the global m|DT JJ NN|BODY_7|0
+the physical level|DT JJ NN|BODY_3|0
+linear geometric constraints|NN JJ NNS|BODY_11:BODY_2|0
+arbitrary boundary curves|JJ NN NNS|BODY_4|0
+3 control points|CD NN NNS|BODY_5|0
+the trimmed surfaces|DT VBN NNS|BODY_2|0
+(using z z|VBG FW FW|BODY_5|0
+u ) interpolating|NNP -RRB- NN|BODY_6|0
+a common operation|DT JJ NN|BODY_4|0
+more detailed material|RBR JJ NN|BODY_1|0
+several attractive properties|JJ JJ NNS|BODY_2|0
+some generalized coordinates|DT JJ NNS|BODY_2|0
+the d-nurbs interpolant|DT NNS NN|BODY_1|0
+the dynamic simulation|DT JJ NN|BODY_1|0
+the nurbs representation|DT NNS NN|BODY_1|0
+the projection scheme|DT NN NN|BODY_2|0
+the refinement process|DT NN NN|BODY_1|0
+force gain factors|NN NN NNS|BODY_4|0
+much larger surfaces|RB JJR NNS|BODY_4|0
+a simpler expression|DT JJR NN|BODY_7|0
+the mass (u|DT NN NN|BODY_2|0
+the two sides|DT CD NNS|BODY_3|0
+the stiffness matrix|DT NN NN|BODY_5|0
+trimmed hierarchical b-splines|RBR JJ NNS|BODY_3|0
+an elegant formulation|DT JJ NN|BODY_3|0
+the data points|DT NNS NNS|BODY_2|0
+faster numerical implementation|JJR JJ NN|BODY_10|0
+entry k ij|NN NN NN|BODY_4|0
+a trihedral corner|DT JJ NN|BODY_4|0
+conjugate gradient iterations|JJ JJ NNS|BODY_4|0
+whose diagonal entries|WP$ JJ NNS|BODY_2|0
+different swept shapes|JJ VBN NNS|BODY_2|0
+tension deformation energy|NN NN NN|BODY_5|0
+a principled way|DT JJ NN|BODY_5|0
+the sudden transition|DT JJ NN|BODY_4|0
+the d-nurbs element|DT NNS NN|BODY_5|0
+a positive lower|DT JJ JJR|BODY_2|0
+typical design requirements|JJ NN NNS|BODY_10|0
+the corresponding weight|DT JJ NN|BODY_3|0
+abscissas u g|JJ NN NN|BODY_6|0
+forces and constraints|NNS CC NNS|BODY_3|0
+the discrete equations|DT JJ NNS|BODY_5|0
+interactive direct manipulation|JJ JJ NN|BODY_2|0
+( 4 )|-LRB- CD -RRB-|BODY_3|0
+the weight values|DT NN NNS|BODY_3|0
+basis function orders|NN NN NNS|BODY_5|0
+ff 1;1 @s|NN CD NNS|BODY_13|0
+a smooth fillet|DT JJ NN|BODY_4|0
+the trimmed model|DT VBN NN|BODY_10|0
+'s parametric domain|POS JJ NN|BODY_2|0
+such industry standards|JJ NN NNS|BODY_2|0
+the geometric specification|DT JJ NN|BODY_4|0
+the model subject|DT NN NN|BODY_9|0
+variation diminishing property|NN VBG NN|BODY_5|0
+three linear curves|CD NN NNS|BODY_5|0
+fully continuous mass|RB JJ NN|BODY_2|0
+a natural solution|DT JJ NN|BODY_2|0
+static equilibrium subject|JJ NN NN|BODY_3|0
+the physical model|DT JJ NN|BODY_8|0
+less than iterations|JJR IN NNS|BODY_4|0
+the nurbs basis|DT NNS NN|BODY_10:BODY_9|0
+two control points|CD NN NNS|BODY_9|0
+a typical artifact|DT JJ NN|BODY_9|0
+the constraint techniques|DT NN NNS|BODY_6|0
+the numerical solution|DT JJ NN|BODY_5|0
+relevant design tolerances|JJ NN NNS|BODY_10|0
+the equilibrium state|DT NN NN|BODY_5|0
+the nearest points|DT JJS NNS|BODY_3|0
+( 27 )|-LRB- CD -RRB-|BODY_5|0
+the jacobian j|DT JJ NNS|BODY_7|0
+( 6 )|-LRB- CD -RRB-|BODY_2|0
+an analytical solution|DT JJ NN|BODY_2|0
+the f i|DT NN NN|BODY_2|0
+a geometric constraint|DT JJ NN|BODY_2|0
+the geometric approach|DT JJ NN|BODY_2|0
+a bewildering variety|DT VBG NN|BODY_8|0
+a wider variety|DT JJR NN|BODY_3|0
+this potential problem|DT JJ NN|BODY_3|0
+ffl shape design|JJ NN NN|BODY_5|0
+a data structure|DT NN NN|BODY_2|0
+2 , 3|CD , CD|BODY_6|0
+derivative and j(u|JJ CC RB|BODY_5|0
+the v coordinates|DT NN NNS|BODY_3|0
+the 3-vector @w|DT CD NN|BODY_7|0
+the 2d shape|DT JJ NN|BODY_5|0
+@ @ variants|JJ JJ NNS|BODY_4|0
+fixed weights values|VBN NNS NNS|BODY_4|0
+individual element matrices|JJ NN NNS|BODY_2|0
+a special case|DT JJ NN|BODY_6|0
+the applied force|DT VBN NN|BODY_11|0
+a control polygon|DT NN NN|BODY_3|0
+( m+ 1|-LRB- NN CD|BODY_5|0
+the d-nurbs rounds|DT NNS NNS|BODY_2|0
+the penalty scheme|DT NN NN|BODY_3|0
+( 47 )|-LRB- CD -RRB-|BODY_10|0
+generalized coordinates p|JJ NNS NN|BODY_8|0
+;j and weights|NN CC NNS|BODY_7|0
+indirect shape manipulation|JJ NN NN|BODY_7|0
+current graphics workstations|JJ NNS NNS|BODY_4|0
+linear feedback control|NN NN NN|BODY_9|0
+the net effect|DT JJ NN|BODY_5|0
+the integral operator|DT NN NN|BODY_2|0
+static equilibrium problems|JJ NN NNS|BODY_2|0
+[8 , 16]|CD , CD|BODY_3|0
+a 4d/340vgx multiprocessor|DT JJ NN|BODY_3|0
+k q )|NN NN -RRB-|BODY_3|0
+surfaces or solids|NNS CC NNS|BODY_1|0
+the matrices m|DT NNS NN|BODY_1|0
+the inverse variance|DT NN NN|BODY_6|0
+no easy way|DT JJ NN|BODY_2|0
+the following vectors|DT VBG NNS|BODY_3|0
+the first vector|DT JJ NN|BODY_9|0
+a triangular surface|DT JJ NN|BODY_4|0
+the indicated times|DT JJ NNS|BODY_13|0
+simple linear dynamics|JJ NN NNS|BODY_5|0
+certain cross-sectional curves|JJ JJ NNS|BODY_3|0
+whose entries are|WP$ NNS VBP|BODY_6|0
+25 control points|CD NN NNS|BODY_6:BODY_9|0
+high surface tension|JJ NN NN|BODY_4|0
+the continuous nature|DT JJ NN|BODY_8|0
+the d-nurbs space|DT NNS NN|BODY_5|0
+our user interface|PRP$ NN NN|BODY_4|0
+the ffi function|DT JJ NN|BODY_7|0
+the green curve|DT JJ NN|BODY_5|0
+the five terms|DT CD NNS|BODY_8|0
+d-nurbs generator curves|NNS NN NNS|BODY_3|0
+( 36 )|-LRB- CD -RRB-|BODY_12|0
+n points p|NN NNS NN|BODY_6|0
+25 sample points|CD NN NNS|BODY_5|0
+investigated deformable b-splines|VBN JJ NNS|BODY_2|0
+force-based  tools|JJ NN NNS|BODY_3|0
+the smoothest curve|DT JJS NN|BODY_4|0
+a material point|DT NN NN|BODY_2|0
+( 14 )|-LRB- CD -RRB-|BODY_7|0
+the trimming curve|DT VBG NN|BODY_8|0
+these two extremes|DT CD NNS|BODY_4|0
+the mass matrix|DT NN NN|BODY_3|0
+quadratic d-nurbs patches|JJ NNS NNS|BODY_2|0
+( 41 )|-LRB- CD -RRB-|BODY_7|0
+arbitrary finite values|JJ NN NNS|BODY_5|0
+a wave shape|DT NN NN|BODY_4|0
+the ith component|DT JJS NN|BODY_8|0
+a greater portion|DT JJR NN|BODY_12|0
+the deformation energy|DT NN NN|BODY_6:BODY_7|0
+potential energy functionals|JJ NN NNS|BODY_2|0
+( 8 )|-LRB- CD -RRB-|BODY_3|0
+an elemental mass|DT JJ NN|BODY_3|0
+the j i|DT NN NN|BODY_9|0
+kinetic energy t|JJ NN NN|BODY_3|0
+hookean spring forces|JJ NN NNS|BODY_5|0
+an ordered array|DT JJ NN|BODY_4|0
+the red curve|DT JJ NN|BODY_6|0
+a ) )|DT -RRB- -RRB-|BODY_7:BODY_9|0
+their extraordinary flexibility|PRP$ JJ NN|BODY_3|0
+another mathematical identity|DT JJ NN|BODY_2|0
+the initial shape|DT JJ NN|BODY_6:BODY_1|0
+the composite surfaces|DT JJ NNS|BODY_3|0
+the following equations|DT VBG NNS|BODY_11|0
+0: ( 40|NN -LRB- CD|BODY_3|0
+a smooth animation|DT JJ NN|BODY_5|0
+( t )|-LRB- NN -RRB-|BODY_9|0
+the constrained d-nurbs|DT JJ NNS|BODY_6|0
+the computational expense|DT JJ NN|BODY_4|0
+a large variety|DT JJ NN|BODY_5|0
+available geometric degrees|JJ JJ NNS|BODY_8|0
+cylinder cross sections|NN NN NNS|BODY_3|0
+each d-nurbs element|DT JJ NN|BODY_2|0
+various additional constraints|JJ JJ NNS|BODY_6|0
+rational basis functions|JJ NN NNS|BODY_2|0
+conventional geometric ways|JJ JJ NNS|BODY_4|0
+a helical surface|DT JJ NN|BODY_5|0
+the morphing ellipse|DT NN NN|BODY_7|0
+p and q|NN CC NN|BODY_5|0
+a knot span|DT NN NN|BODY_7|0
+optimal  solutions|JJ JJ NNS|BODY_3|0
+direct dynamic manipulation|JJ JJ NN|BODY_4|0
+dynamic differential equations|JJ JJ NNS|BODY_2|0
+a designer need|DT NN NN|BODY_2|0
+interpolation or approximation|NN CC NN|BODY_4|0
+a single vector|DT JJ NN|BODY_13|0
+the parametric space|DT JJ NN|BODY_6|0
+the d-nurbs generator|DT NNS NN|BODY_5|0
+manipulating associated weights|NN VBN NNS|BODY_3|0
+( 19 )|-LRB- CD -RRB-|BODY_3|0
+4.3 d-nurbs equations|CD NNS NNS|BODY_5|0
+a single band|DT JJ NN|BODY_3|0
+the total number|DT JJ NN|BODY_6|0
+a generalized cylinder|DT JJ NN|BODY_2|0
+the penalty term|DT NN NN|BODY_5|0
+i ;j (u|FW FW NN|BODY_6|0
+the discrete version|DT JJ NN|BODY_2|0
+knot multiplicity r|NN NN NN|BODY_13|0
+p ( q|NN -LRB- NN|BODY_5|0
+a physics-based version|DT JJ NN|BODY_2|0
+( 11 )|-LRB- CD -RRB-|BODY_2|0
+potential energy u|JJ NN NN|BODY_4|0
+the cross derivatives|DT NN NNS|BODY_12|0
+the curve c(u|DT NN NN|BODY_2|0
+some additional properties|DT JJ NNS|BODY_2|0
+several mathematical results|JJ JJ NNS|BODY_2|0
+the parametric variables|DT JJ NNS|BODY_2|0
+conics and quadrics|NNS CC NNS|BODY_4|0
+the remaining quantities|DT JJ NNS|BODY_14|0
+the numerical simulation|DT JJ NN|BODY_2|0
+the whole spectrum|DT JJ NN|BODY_5|0
+only gradient vectors|RB NN NNS|BODY_3|0
+piecewise rational functions|NN JJ NNS|BODY_4|0
+9 control points|CD NN NNS|BODY_2|0
+the d-nurbs equation|DT JJ NN|BODY_3|0
+the element structure|DT NN NN|BODY_1|0
+the two ellipses|DT CD NNS|BODY_5|0
+the reduced size|DT JJ NN|BODY_24|0
+ug and weights|NN CC NNS|BODY_10|0
+positions and normals|NNS CC NNS|BODY_2|0
+some evaluation points|DT NN NNS|BODY_4|0
+a d-nurbs curve|DT JJ NN|BODY_2|0
+p and p|NN CC NN|BODY_2|0
+p 0 w|NN CD NN|BODY_7|0
+the discrete form|DT JJ NN|BODY_9|0
+another interesting relationship|DT JJ NN|BODY_21|0
+all the matrices|DT DT NNS|BODY_14|0
+the matrix expression|DT NN NN|BODY_4|0
+the incremental manipulation|DT JJ NN|BODY_1|0
+this shape representation|DT NN NN|BODY_1|0
+the discretized version|DT JJ NN|BODY_23|0
+the foregoing notation|DT JJ NN|BODY_11|0
+( 1 )|-LRB- LS -RRB-|BODY_2|0
+) z z|-RRB- FW FW|BODY_5|0
+the explicit method|DT JJ NN|BODY_2|0
+the w i|DT JJ IN|BODY_8|0
+physical parameter values|JJ NN NNS|BODY_2|0
+5 cross-validation [41]|CD NN NN|BODY_1|0
+midrange graphics workstations|NN NNS NNS|BODY_12|0
+the differential equations|DT JJ NNS|BODY_2|0
+the recent prevalence|DT JJ NN|BODY_1|0
+the vector p|DT NN NN|BODY_3|0
+these additional equations|DT JJ NNS|BODY_8|0
+the model [17]|DT NN NN|BODY_8|0
+the derived results|DT VBN NNS|BODY_8|0
+the following system|DT VBG NN|BODY_6|0
+the same number|DT JJ NN|BODY_2|0
+the generalized forces|DT JJ NNS|BODY_15|0
+n mass matrix|NN NN NN|BODY_7|0
+the special case|DT JJ NN|BODY_1|0
+the geometric level|DT JJ NN|BODY_5|0
+background dynamic nurbs|NN JJ NNS|BODY_1|0
+the integration scheme|DT NN NN|BODY_4|0
+two planar faces|CD JJ NNS|BODY_6|0
+such a constraint|PDT DT NN|BODY_1|0
+the physics-based deformation|DT JJ NN|BODY_1|0
+a constant vector|DT JJ NN|BODY_6|0
+its physical properties|PRP$ JJ NNS|BODY_6|0
+the second time|DT JJ NN|BODY_1|0
+explorer control panels|NN NN NNS|BODY_5|0
+the spring forces|DT NN NNS|BODY_1|0
+fewer variables )|JJR NNS -RRB-|BODY_8|0
+standard analytic shapes|JJ JJ NNS|BODY_5|0
+finite-element analysis [15]|NN NN NN|BODY_5|0
+7.7 free-form deformation|CD NN NN|BODY_1|0
+the graphics literature|DT NNS NN|BODY_5|0
+our dynamic models|PRP$ JJ NNS|BODY_1|0
+each time step|DT NN NN|BODY_9|0
+b2 ) )|NN -RRB- -RRB-|BODY_6|0
+the d-nurbs formulation|DT NNS NN|BODY_1|0
+the zero vector|DT CD NN|BODY_3|0
+a particular weight|DT JJ NN|BODY_1|0
+the inertial terms|DT JJ NNS|BODY_11|0
+the curve case|DT NN NN|BODY_9|0
+the previous one|DT JJ CD|BODY_4|0
+a unified way|DT JJ NN|BODY_10|0
+the generalized cylinder|DT JJ NN|BODY_1|0
+the nurbs shape|DT NNS NN|BODY_6|0
+the shared variables|DT VBN NNS|BODY_1|0
+b-spline basis functions|JJ NN NNS|BODY_8|0
+the physical simulation|DT JJ NN|BODY_1|0
+4 control points|CD NN NNS|BODY_7|0
+? denotes transposition|. NNS NN|BODY_4|0
+certain aesthetic constraints|JJ JJ NNS|BODY_1|0
+data errors [35]|NNS NNS NNS|BODY_7|0
+another potential difficulty|DT JJ NN|BODY_1|0
+a spring force|DT NN NN|BODY_4|0
+( 48 )|-LRB- CD -RRB-|BODY_11|0
+6 numerical implementation|CD JJ NN|BODY_1|0
+the rotational component|DT JJ NN|BODY_1|0
+only circular arcs|RB JJ NNS|BODY_8|0
+section 7.2 )|NN CD -RRB-|BODY_8|0
+a cross-section curve|DT JJ NN|BODY_15|0
+the constraint forces|DT NN NNS|BODY_11|0
+the shape parameters|DT NN NNS|BODY_1|0
+all applied forces|DT VBN NNS|BODY_6|0
+the discretized forms|DT JJ NNS|BODY_1|0
+a projection method|DT NN NN|BODY_6|0
+linear interpolation [29]|JJ NN NN|BODY_10|0
+silicon graphics workstations|NN NNS NNS|BODY_5|0
+the geometric redundancy |DT JJ NN|BODY_1|0
+l +1 )|JJ NNS -RRB-|BODY_6|0
+efficient numerical methods|JJ JJ NNS|BODY_6|0
+the implicit method|DT JJ NN|BODY_1|0
+( 20 )|-LRB- CD -RRB-|BODY_1|0
+4 and 7.|CD CC CD|BODY_4|0
+6.1 data structures|CD NNS NNS|BODY_1|0
+a position equation|DT NN NN|BODY_1|0
+gaussian quadrature [27]|JJ NN NN|BODY_9|0
+the sharp corner|DT JJ NN|BODY_2|0
+b and w,|NN CC NN|BODY_13|0
+the 1-d interval|DT JJ NN|BODY_3|0
+the above integral|DT JJ NN|BODY_3|0
+typical force functions|JJ NN NNS|BODY_1|0
+7.3 solid rounding|CD JJ NN|BODY_1|0
+the following sections|DT JJ NNS|BODY_1|0
+the term c|DT NN NN|BODY_1|0
+'s control points|POS NN NNS|BODY_5|0
+a d-nurbs patch|DT NNS NN|BODY_1|0
+a trimming curve|DT VBG NN|BODY_3|0
+modest time steps|JJ NN NNS|BODY_3|0
+specific stiffness matrices|JJ NN NNS|BODY_6|0
+5.2 linear constraints|CD NN NNS|BODY_1|0
+the final shape|DT JJ NN|BODY_11|0
+global design requirements|JJ NN NNS|BODY_1|0
+optimally approximate data|RB JJ NNS|BODY_5|0
+the basis functions|DT NN NNS|BODY_1|0
+lagrange multiplier techniques|JJ JJ NNS|BODY_5|0
+3 nurbs geometry|CD NNS NN|BODY_1|0
+a given value|DT VBN NN|BODY_1|0
+different smoothness requirements|JJ NN NNS|BODY_16|0
+5.3 nonlinear constraints|CD JJ NNS|BODY_1|0
+larger d-nurbs surfaces|JJR NNS NNS|BODY_8|0
+the trimming boundary|DT VBG NN|BODY_4|0
+certain target values|JJ NN NNS|BODY_5|0
+the matrix entries|DT NN NNS|BODY_13|0
+the interactive response|DT JJ NN|BODY_1|0
+free-form deformable models|NN JJ NNS|BODY_1|0
+influence local shape|NN JJ NN|BODY_11|0
+an explicit expression|DT JJ NN|BODY_1|0
+parametric partial derivatives|JJ JJ NNS|BODY_10|0
+the energy expressions|DT NN NNS|BODY_1|0
+our current implementation|PRP$ JJ NN|BODY_1|0
+our modeling system|PRP$ JJ NN|BODY_1|0
+( 37 )|-LRB- CD -RRB-|BODY_1|0
+( 39 )|-LRB- CD -RRB-|BODY_4|0
+( 45 )|-LRB- CD -RRB-|BODY_2|0
+a complete solid|DT JJ JJ|BODY_1|0
+interactive simulation rates|JJ NN NNS|BODY_1|0
+only d-nurbs surfaces|RB JJ NNS|BODY_3|0
+the lagrangian formulation|DT JJ NN|BODY_1|0
+the dissipation energy|DT NN NN|BODY_1|0
+a full implementation|DT JJ NN|BODY_1|0
+a stiff system|DT JJ NN|BODY_4|0
+zero mass density|CD NN NN|BODY_1|0
+modifying knot vectors|VBG NN NNS|BODY_13|0
+the kinetic energy|DT JJ NN|BODY_1|0
+the weights pw|DT NNS NN|BODY_8|0
+the u coordinates|DT NN NNS|BODY_1|0
+( 43 )|-LRB- CD -RRB-|BODY_1|0
+high dimensional p|JJ JJ NN|BODY_8|0
+the damping matrix|DT NN NN|BODY_4|0
+the dynamic formulation|DT JJ NN|BODY_2|0
+these n functions|DT NN NNS|BODY_1|0
+the same techniques|DT JJ NNS|BODY_1|0
+the matrices|DT NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4|0
+the surface|DT NN|BODY_13:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the modeler|DT NN|BODY_2:BODY_4|0
+the order|DT NN|BODY_11:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+p|NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+this|DT|BODY_12:BODY_6:BODY_2:BODY_1|0

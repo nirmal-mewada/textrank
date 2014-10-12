@@ -1,0 +1,35 @@
+which|WDT|BODY_3:BODY_4|0
+the mp point|DT NN NN|BODY_6:BODY_3|0
+the feedforward loop|DT NN NN|BODY_2|0
+the simulation and experimental results|DT NN CC JJ NNS|BODY_2|0
+fuzzy controller|JJ NN|BODY_3:BODY_9|0
+interleaved boost|JJ NN|BODY_2|0
+the pv applications|DT NN NNS|BODY_4|0
+conventional boost converter|JJ NN NN|BODY_3|0
+the duty ratio|DT NN NN|BODY_2|0
+off-line training|JJ NN|BODY_2|0
+an error signal|DT NN NN|BODY_4|0
+pv systems|JJ NNS|BODY_2|0
+the converter|DT NN|BODY_3|0
+an off-line|DT NN|BODY_4|0
+the solar cell array (sca ) voltage|DT JJ NN NN NNP -RRB- NN|BODY_4|0
+the neural network|DT JJ NN|BODY_3|0
+the voltage|DT NN|BODY_5|0
+the interleaved dual boost|DT JJ JJ NN|BODY_6|0
+idb) converter|NN NN|BODY_7|0
+mp ) point tracking scheme|NN -RRB- NN NN NN|BODY_5|0
+a feedforward maximum power|DT VBN JJ NN|BODY_4|0
+photovoltaic ( pv ) system|JJ -LRB- JJ -RRB- NN|BODY_8|0
+the conventional proportional plus integral ( pi ) controller based system|DT JJ JJ CC JJ -LRB- NN -RRB- NN VBN NN|BODY_3|0
+the proposed fuzzy feedforward peak power tracking effectiveness|DT VBN JJ NN NN NN NN NN|BODY_1|0
+a comparative study|DT JJ NN|BODY_1|0
+their suitability|PRP$ NN|BODY_5|0
+the tracking algorithm changes|DT NN NN NNS|BODY_1|0
+experimental data|JJ NNS|BODY_1|0
+the instantaneous array voltage and reference voltage|DT JJ NN NN CC NN NN|BODY_5|0
+feedforward maximum power point tracking|VBN JJ NN NN NN|BODY_1|0
+neural network|JJ NN|BODY_5|0
+back-propagation algorithm|NN NN|BODY_5|0
+the reference voltage|DT NN NN|BODY_1|0
+this|DT|BODY_1|0
+that solar insolation|IN JJ NN|BODY_7|0

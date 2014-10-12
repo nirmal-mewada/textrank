@@ -1,0 +1,15 @@
+a reset|DT NN|BODY_3|0
+at most 11 expected elementary steps|IN JJS CD VBN JJ NNS|BODY_2|0
+expected length|VBN NN|BODY_4|0
+the proofs|DT NNS|BODY_2|0
+correctness|NN|BODY_3|0
+algorithm|NN|BODY_4|0
+it|PRP|BODY_1|0
+the first|DT JJ|BODY_3|0
+two 4-valued single writer single reader atomic variables|CD JJ JJ NN JJ NN JJ NNS|BODY_2|0
+two-process wait-free test-and-set|JJ JJ NN|BODY_5:BODY_1|0
+we|PRP|BODY_2|0
+a test-and-set|DT NN|BODY_1|0
+exactly 1 elementary step|RB CD JJ NN|BODY_4|0
+a finite-state analysis|DT NN NN|BODY_1|0
+one table|CD NN|BODY_5|0

@@ -1,0 +1,46 @@
+which|WDT|BODY_6:BODY_5|0
+we|PRP|BODY_1:BODY_2|1
+the number|DT NN|BODY_7:BODY_9|0
+the retrieval selection problem|DT NN NN NN|BODY_2|0
+data blocks|NNS NNS|BODY_4:BODY_8|0
+such a way|JJ DT NN|BODY_2|0
+the maximum load|DT JJ NN|BODY_3|0
+smaller response times|JJR NN NNS|BODY_3|0
+lower disk and ram costs|JJR NN CC NN NNS|BODY_4|0
+this approach results|DT NN NNS|BODY_2|0
+an existing algorithm|DT VBG NN|BODY_4|0
+the breadth-first search approach|DT JJ NN NN|BODY_2|0
+different|JJ|BODY_11|0
+our proposed algorithm|PRP$ VBN NN|BODY_2|0
+video servers|NN NNS|BODY_2|0
+a lower time complexity|DT JJR NN NN|BODY_3|0
+one|CD|BODY_2|0
+optimal solutions|JJ NNS|BODY_3|0
+each data block|DT NN NN|BODY_10|0
+random duplicated assignment storage technique random duplicated assignment|JJ JJ NN NN NN JJ JJ NN|BODY_3|0
+each|DT|BODY_7|0
+rsp|NN|BODY_4|0
+copies|NNS|BODY_9|0
+o( n/sup 2/+mn )|JJ JJ JJ -RRB-|BODY_5|0
+disk|NN|BODY_6|0
+each given batch|DT VBN NN|BODY_3|0
+rda )|NNP -RRB-|BODY_4|0
+a number|DT NN|BODY_8|0
+m and n correspond|NN CC NN NN|BODY_6|0
+an approach|DT NN|BODY_5|0
+video data|NN NN|BODY_7|0
+( rsp)|-LRB- NN|BODY_3|0
+the problem|DT NN|BODY_1|0
+the disks|DT NNS|BODY_4|0
+this|DT|BODY_1|0
+it|PRP|BODY_1|0
+the well-known disk stripping techniques|DT JJ NN NN NNS|BODY_5|0
+this algorithm|DT NN|BODY_1|0
+the mfs|DT NNS|BODY_5|0
+an efficient retrieval selection algorithm|DT JJ NN NN NN|BODY_1|0
+randomly chosen disks|RB VBN NNS|BODY_12|0
+a new efficient algorithm|DT JJ JJ NN|BODY_3|1
+this paper|DT NN|BODY_1|1
+the data blocks|DT NNS NNS|BODY_8|0
+this storage approach|DT NN NN|BODY_1|0
+disks|NNS|BODY_10|0

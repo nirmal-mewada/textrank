@@ -1,0 +1,96 @@
+the banzhaf power index|DT NN NN NN|ABSTRACT_4:TITLE_1:ABSTRACT_2:ABSTRACT_1|1
+it|PRP|ABSTRACT_5:ABSTRACT_4:BODY_7|0
+economics|NNS|ABSTRACT_13:BODY_3:BODY_7|1
+which|WDT|ABSTRACT_2:BODY_3|0
+they|PRP|BODY_12:ABSTRACT_7|1
+multiagent applications|JJ NNS|ABSTRACT_3:BODY_4|1
+network flow games|NN NN NNS|TITLE_2|0
+we|PRP|ABSTRACT_2:ABSTRACT_1|1
+theory|NN|ABSTRACT_5:ABSTRACT_12|1
+agents|NNS|ABSTRACT_4:ABSTRACT_1|0
+each edge/agent|DT NN|ABSTRACT_2|0
+[ theory|JJ NN|ABSTRACT_2|0
+parts|NNS|ABSTRACT_8|0
+such a flow|JJ DT NN|ABSTRACT_4|0
+a particular multiagent domain|DT JJ JJ NN|ABSTRACT_5|0
+a variety|DT NN|ABSTRACT_2|1
+a source|DT NN|ABSTRACT_8|0
+an important topic|DT JJ NN|ABSTRACT_6|1
+a weighted voting system|DT JJ NN NN|ABSTRACT_5|0
+social and behavioral scienceseconomics|JJ CC JJ NNS|ABSTRACT_10|0
+how much real power|WRB JJ JJ NN|ABSTRACT_3|0
+a given size|DT VBN NN|ABSTRACT_7|0
+some restricted network flow|DT JJ NN NN|ABSTRACT_2|0
+example|NN|ABSTRACT_6|0
+each agent|DT NN|ABSTRACT_3|1
+its significance|PRP$ NN|ABSTRACT_3|0
+analysis|NN|ABSTRACT_4|0
+i.2.11 [artificial intelligence]|DT JJ NN|ABSTRACT_7|0
+artificial intelligencemultiagent systems|JJ JJ NNS|ABSTRACT_8|0
+resources|NNS|ABSTRACT_7|0
+computation]|JJ|ABSTRACT_3|0
+j.4 [computer applications]|CD NN NN|ABSTRACT_9|0
+real-world networks|NN NNS|ABSTRACT_5|0
+problem complexity|NN NN|ABSTRACT_6|0
+a polynomial algorithm|DT NN NN|ABSTRACT_3|0
+algorithms|NNS|ABSTRACT_5|0
+a graph|DT NN|ABSTRACT_3|0
+a result|DT NN|ABSTRACT_4|1
+this network flow domain|DT NN NN NN|ABSTRACT_4|1
+relatively little attention|RB JJ NN|ABSTRACT_6|0
+a voter|DT NN|ABSTRACT_4|0
+the computational complexity|DT JJ NN|ABSTRACT_3|0
+the most popular|DT RBS JJ|ABSTRACT_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+general terms|JJ NNS|ABSTRACT_11|0
+a flow|DT NN|ABSTRACT_6|0
+a network flow game|DT NN NN NN|ABSTRACT_6|0
+the edges|DT NNS|ABSTRACT_2|0
+political science and economics|JJ NN CC NNS|ABSTRACT_8|0
+any simple coalitional game|DT JJ JJ NN|ABSTRACT_5|0
+one|CD|ABSTRACT_2|0
+a coalition|DT NN|ABSTRACT_4|0
+multiagent system research|JJ NN NN|ABSTRACT_7|1
+the relative power|DT JJ NN|ABSTRACT_1|0
+a target vertex|DT NN RB|ABSTRACT_9|0
+banzhaf power indices|JJ NN NNS|ABSTRACT_5|0
+the network|DT NN|ABSTRACT_9|0
+systems|NNS|BODY_13:BODY_10|1
+automated agents|JJ NNS|BODY_3:BODY_10|1
+a rich literature|DT JJ NN|BODY_2|1
+realistic implementation|JJ NN|BODY_3|0
+complexity|NN|BODY_1|0
+( e .g.|-LRB- NN NNP|BODY_7|0
+the complexity|DT NN|BODY_2|0
+multiple automated agents [16|JJ JJ NNS NNS|BODY_11|0
+computer science work|NN NN NN|BODY_2|0
+that|WDT|BODY_14|1
+the subject|DT NN|BODY_3|1
+computation|NN|BODY_2|0
+an appropriate foundation|DT JJ NN|BODY_2|0
+voting1|NN|BODY_4|1
+computational issues|JJ NNS|BODY_5|0
+ghosh et al|JJ NNP NN|BODY_1|0
+results|NNS|BODY_6|0
+what|WP|BODY_1|0
+political science|JJ NN|BODY_5|1
+its concern|PRP$ NN|BODY_4|0
+these areas|DT NNS|BODY_3|0
+voting|NN|BODY_2|0
+important theoretical results|JJ JJ NNS|BODY_8|1
+a movie|DT NN|BODY_2|0
+the theory|DT NN|BODY_2|0
+this work|DT NN|BODY_11|1
+builders|NNS|BODY_9|1
+mathematics|NNS|BODY_6|1
+the building|DT NN|BODY_9|0
+fact|NN|BODY_5|0
+social choice|JJ NN|BODY_4|0
+direct implications|JJ NNS|BODY_8|0
+computer science|NN NN|BODY_6|0
+social choice theory|JJ NN NN|BODY_1|0
+the practical applications|DT JJ NNS|BODY_1|0
+a technique|DT NN|BODY_4|0
+unwanted phenomena|JJ NNS|BODY_2|0
+equilibrium points|NN NNS|BODY_8|0
+the process|DT NN|BODY_3|0

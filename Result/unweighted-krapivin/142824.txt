@@ -1,0 +1,949 @@
+that|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+which|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_3:BODY_4:BODY_7|0
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the user|DT NN|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the application|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_10:BODY_7:BODY_8|0
+the mr toolkit|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10|0
+the programmer|DT NN|BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+we|PRP|BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8|0
+there|EX|BODY_5:BODY_2:BODY_1|0
+mr|NN|BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4|0
+the decoupled simulation model|DT JJ NN NN|BODY_12:BODY_6:TITLE_1:BODY_1:BODY_2:BODY_3:BODY_4|0
+the application data|DT NN NNS|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the interaction component|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+one|CD|BODY_6:BODY_2:BODY_3:BODY_4:BODY_9|0
+the server|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+the master process|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+the dataglove|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+data|NNS|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+this paper|DT NN|BODY_2:BODY_3:ABSTRACT_1:BODY_4|0
+the master|DT NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7|0
+the device|DT NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_8|0
+the computation component|DT NN NN|BODY_6:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4|0
+they|PRP|BODY_6:BODY_1:BODY_4:BODY_7:BODY_9|0
+the slave|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3|0
+the data|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+this|DT|BODY_5:BODY_2:BODY_1|0
+the presentation component|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_7|0
+the data sharing package|DT NNS VBG NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+example|NN|BODY_2:BODY_1|0
+the toolkit|DT NN|BODY_5:BODY_1:ABSTRACT_3:BODY_3:ABSTRACT_1|0
+part|NN|BODY_5:BODY_2:BODY_3|0
+the client|DT NN|BODY_5:BODY_2:BODY_1:BODY_8|0
+the viewing parameters|DT VBG NNS|BODY_5:BODY_4:BODY_8|0
+an mr application|DT JJ NN|BODY_1:BODY_2:BODY_7|0
+vr applications|NN NNS|BODY_5:ABSTRACT_6:BODY_3|0
+the system|DT NN|BODY_2:BODY_3|0
+this style|DT NN|BODY_2:BODY_1:ABSTRACT_1:BODY_9|0
+the problem|DT NN|BODY_6:BODY_2:BODY_3|0
+support|NN|ABSTRACT_2:BODY_2:BODY_3|0
+the shared data structure|DT VBN NNS NN|BODY_2:BODY_3|0
+the hand|DT NN|BODY_6:BODY_5:BODY_4|0
+applications|NNS|BODY_6:BODY_2:BODY_1|0
+vr user|JJ NN|BODY_5:BODY_4|0
+data communications|NNS NNS|BODY_6:BODY_5|0
+time|NN|BODY_5:BODY_3|0
+any number|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+the devices|DT NNS|BODY_5:BODY_1:BODY_4|0
+input|NN|BODY_6:BODY_3:BODY_4|0
+a head-mounted display|DT JJ NN|BODY_3:BODY_4|0
+each device|DT NN|BODY_3:BODY_4|0
+3d trackers|JJ NNS|BODY_4|0
+the panel|DT NN|BODY_2:BODY_3|0
+the time|DT NN|BODY_5:BODY_9|0
+items|NNS|BODY_2:BODY_4|0
+the dataglove server|DT NN NN|BODY_5:BODY_3|0
+routines|NNS|BODY_6:BODY_3|0
+the workspace file|DT NN NN|BODY_5:BODY_2|0
+geometric data|JJ NNS|BODY_5:BODY_4|0
+analysis|NN|BODY_2:BODY_4|0
+both processes|DT NNS|BODY_5:BODY_2|0
+others|NNS|BODY_6:BODY_4|0
+head-mounted displays|JJ NNS|ABSTRACT_4:BODY_4|0
+a simple user interface|DT JJ NN NN|BODY_2|0
+some|DT|BODY_2|0
+standard two dimensional interaction techniques|JJ CD JJ NN NNS|BODY_2|0
+the very simple program|DT JJ JJ NN|BODY_2|0
+two one-way links|CD JJ NNS|BODY_2|0
+each section|DT NN|BODY_5:BODY_4|0
+the package|DT NN|BODY_1:BODY_2:BODY_3|0
+a vr application|DT JJ NN|BODY_11:ABSTRACT_5:BODY_2|0
+a means|DT NN|BODY_2:BODY_4|0
+the like|DT JJ|BODY_11:BODY_2|0
+the cognitive coprocessor architecture|DT JJ NN NN|BODY_2:BODY_4|0
+package|NN|BODY_1:BODY_2:BODY_3|0
+a computational model|DT JJ NN|BODY_2:BODY_4|0
+one server|CD NN|BODY_3:BODY_7|0
+a silicon graphics|DT NN NNS|BODY_5:BODY_7|0
+the room|DT NN|BODY_6:BODY_7|0
+system|NN|BODY_3|0
+the client-server model|DT NN NN|BODY_3:BODY_7|0
+the ap|DT NN|BODY_3:BODY_4|0
+the consumer process|DT NN NN|BODY_5:BODY_3|0
+events|NNS|BODY_6:BODY_7|0
+their own coordinate systems|PRP$ JJ VBP NNS|BODY_2:BODY_4|0
+the sound package|DT NN NN|BODY_1:BODY_2|0
+the input|DT NN|BODY_6:BODY_1:BODY_8|0
+the workspace mapping package|DT NN NN NN|BODY_6:BODY_1|0
+figure 3|NN CD|BODY_1:BODY_3|0
+real time|JJ NN|BODY_3:BODY_7|0
+this level|DT NN|BODY_2|0
+the geometric model component|DT JJ NN NN|BODY_2:BODY_4|0
+direct support|JJ NN|BODY_2:BODY_3|0
+section 5.2|NN CD|BODY_3|0
+both eyes|DT NNS|BODY_4|0
+simultaneity|NN|BODY_2|0
+the default orientation|DT NN NN|BODY_2|0
+the line|DT NN|BODY_4|0
+this case|DT NN|BODY_2:BODY_4|0
+a computation process|DT NN NN|BODY_2:BODY_10|0
+these decisions|DT NNS|BODY_5:BODY_4|0
+the amount|DT NN|BODY_6:BODY_2|0
+distributed computing|VBN NN|ABSTRACT_3:BODY_3|0
+each time|DT NN|BODY_2:BODY_9|0
+services|NNS|BODY_2:BODY_4|0
+each|DT|BODY_5:BODY_3|0
+client and server|NN CC NN|BODY_2|0
+half|NN|BODY_3|0
+one or more images|CD CC JJR NNS|BODY_2|0
+tandem|NN|BODY_3|0
+the addition|DT NN|BODY_2|0
+the communications time|DT NNS NN|BODY_3|0
+the current application data|DT JJ NN NNS|BODY_3|0
+timing analysis deals|NN NN NNS|BODY_2|0
+two|CD|BODY_2|0
+vr front|NN NN|BODY_3|0
+some flows|DT NNS|BODY_5|0
+the process|DT NN|BODY_1:BODY_2:BODY_4|0
+code|NN|BODY_5:BODY_9|0
+tion|NN|BODY_4:BODY_8|0
+the virtual reality user interface style|DT JJ NN NN NN NN|BODY_2:ABSTRACT_1|0
+the update rate|DT NN NN|BODY_6:BODY_5:BODY_4|0
+high-level abstractions|JJ NNS|BODY_6|0
+his colleagues|PRP$ NNS|BODY_2|0
+new i/o devices|JJ NN NNS|BODY_2|0
+task level animation systems [ zeltzer|NN NN NN NNS NN NN|BODY_6|0
+xerox|NNP|BODY_2|0
+'s job|POS NN|BODY_2|0
+an- other ,|DT JJ ,|BODY_5|0
+performance optimization|NN NN|BODY_5|0
+the real-time nature|DT JJ NN|BODY_2|0
+trackerlib|NN|BODY_5|0
+unc|NN|BODY_2|0
+liang 1991|NN CD|BODY_2|0
+server|VB|BODY_10|0
+user ac|NN NN|BODY_7|0
+one aspect|CD NN|BODY_2|0
+an isotrak )|DT NN -RRB-|BODY_12|0
+multiple work|JJ NN|BODY_7|0
+fortran [ bulgarelli|CD NN NNS|BODY_4|0
+database update|NN NN|BODY_1:BODY_4|0
+all the in-coming computations|PDT DT JJ NNS|BODY_2|0
+the data structure|DT NNS NN|BODY_6:BODY_3|0
+a continuously running simu|DT RB VBG FW|BODY_5|0
+the structure|DT NN|BODY_1:BODY_2|0
+an application|DT NN|BODY_1:BODY_2:BODY_8|0
+an object|DT NN|BODY_2:BODY_4|0
+etc. )|FW -RRB-|BODY_6|0
+every device|DT NN|BODY_2|0
+the routines|DT NNS|BODY_1:BODY_3|0
+their validity|PRP$ NN|BODY_6|0
+the|DT|BODY_2:BODY_1|0
+ibm|NN|BODY_2|0
+the vr user interface style|DT JJ NN NN NN|BODY_2|0
+software development tools|NN NN NNS|BODY_5:BODY_3|0
+the computation|DT NN|BODY_5:BODY_4:BODY_7|0
+the workstation|DT NN|BODY_3|0
+them|PRP|BODY_5:BODY_2|0
+hand input devices|NN NN NNS|ABSTRACT_7|0
+call|NN|BODY_6:BODY_10|0
+the flow|DT NN|BODY_2|0
+master process server eyephone server slave process viewing|NN NN NN NN NN NN NN NN|BODY_2|0
+the presentation component update rate|DT NN NN NN NN|BODY_7|0
+this procedure|DT NN|BODY_3|0
+geometric accuracy|JJ NN|BODY_11|0
+sound output|JJ NN|BODY_11:BODY_3|0
+a 2d menu pack|DT JJ NN NN|BODY_9|0
+3d tracker|JJ NN|BODY_2|0
+figure 1|NN CD|BODY_5:BODY_3|0
+workstations|NNS|BODY_2:BODY_3|0
+identical copies and views|JJ NNS CC NNS|BODY_7|0
+no change|DT NN|BODY_4|0
+, and so on|, CC RB IN|BODY_4|0
+a general purpose package|DT JJ NN NN|BODY_4|0
+noise reduction filters|NN NN NNS|BODY_2|0
+all interaction|DT NN|BODY_2|0
+the presentation component presents|DT NN NN NNS|BODY_2|0
+each process|DT NN|BODY_2|0
+the hardware devices|DT NN NNS|BODY_5|0
+images|NNS|BODY_2|0
+quirement|NN|BODY_2|0
+the communications|DT NNS|BODY_4|0
+packages|NNS|BODY_2:BODY_4|0
+a 3d environment|DT JJ NN|ABSTRACT_4|0
+the fluid surface|DT NN NN|BODY_4|0
+the mapping|DT NN|BODY_2|0
+the slave workstation|DT NN NN|BODY_2|0
+filter performance|VBN NN|BODY_4|0
+either the client or server software|DT DT NN CC NN NN|BODY_2|0
+robertson et al|NNP NNP NN|BODY_2|0
+a run|DT NN|BODY_2|0
+user interface development|NN NN NN|BODY_9|0
+1989|CD|BODY_3|0
+a display queue|DT NN NN|BODY_5|0
+an interaction|DT NN|BODY_5|0
+software structure|NN NN|BODY_2|0
+each call|DT NN|BODY_2|0
+the computation component proceeds|DT NN NN NNS|BODY_3|0
+visual , sonic|JJ , JJ|BODY_5|0
+the possibility|DT NN|BODY_5|0
+virtual world|JJ NN|BODY_6|0
+a general purpose tracker library|DT JJ NN NN NN|BODY_4|0
+a performance monitoring tools|DT NN NN NNS|BODY_4|0
+animate changes|JJ NNS|BODY_3|0
+chapel hill|NN NN|BODY_3|0
+one database view|CD NN NN|BODY_4|0
+the task|DT NN|BODY_3|0
+no matter|DT NN|BODY_4|0
+service|NN|BODY_2|0
+the hello world  program|DT NN NN NN NN|BODY_3|0
+recognition|NN|BODY_5|0
+multiple , asynchronous , interactive agents|JJ , JJ , JJ NNS|BODY_3|0
+both|DT|BODY_1:BODY_4|0
+the timing package|DT VBG NN|BODY_5:BODY_2|0
+all the objects|DT DT NNS|BODY_6:BODY_5|0
+the application programmer|DT NN NN|BODY_4:BODY_7|0
+all non-graphical computations|DT JJ NNS|BODY_2|0
+head tilt|NN NN|BODY_3|0
+the consistent images|DT JJ NNS|BODY_3|0
+1|CD|BODY_1:BODY_3|0
+room coordinates|NN NNS|BODY_5:BODY_4|0
+slave or computation|NN CC NN|BODY_2|0
+3|CD|BODY_5:BODY_1|0
+a similar benefit|DT JJ NN|BODY_8|0
+isotrak|JJ|BODY_4|0
+the use|DT NN|BODY_1:BODY_2|0
+dispatches commands|NNS NNS|BODY_5|0
+multiple work-stations|JJ NNS|BODY_3|0
+a panel|DT NN|BODY_2:BODY_1|0
+two processes|CD NNS|BODY_4:BODY_8|0
+multiple devices|JJ NNS|BODY_4|0
+all devices|DT NNS|BODY_6:BODY_4|0
+a header|DT NN|BODY_2|0
+a high level interface|DT JJ NN NN|BODY_4|0
+a vpl eyephone|DT JJ NN|BODY_11|0
+the same object code|DT JJ NN NN|BODY_6|0
+our dataglove calibration program|PRP$ NN NN NN|BODY_5|0
+the master and slave processes|DT NN CC NN NNS|BODY_2|0
+efficiency and lag minimization|NN CC NN NN|BODY_5|0
+interactive simulation systems|JJ NN NNS|BODY_5|0
+mit|NN|BODY_3|0
+position trackers , gloves|NN NNS , NNS|BODY_3|0
+wang 1990|IN CD|BODY_6|0
+information flows|NN NNS|BODY_2|0
+continuous data traffic|JJ NN NN|BODY_9|0
+continuous mode|JJ NN|BODY_3|0
+a polhemus 3space isotrak )|DT NN NN NN -RRB-|BODY_10|0
+a consistent state|DT JJ NN|BODY_2:BODY_7|0
+screen applications|NN NNS|BODY_4|0
+a vpl dataglove|DT JJ NN|BODY_9|0
+the consuming process|DT NN VB|BODY_6:BODY_3|0
+the output devices|DT NN NNS|BODY_6|0
+performance monitoring|NN NN|ABSTRACT_6|0
+20-25 milliseconds|CD NNS|BODY_6|0
+the dataglove package|DT NN NN|BODY_2|0
+the hand ray|DT NN NN|BODY_2|0
+two sets|CD NNS|BODY_2|0
+the front-end|DT NN|BODY_2|0
+different sorts|JJ NNS|BODY_3|0
+the geometric component|DT JJ NN|BODY_1:BODY_7|0
+a vr user interface|DT JJ NN NN|BODY_3|0
+the following issues|DT VBG NNS|BODY_2|0
+that mr|WDT NN|BODY_3|0
+agents|NNS|BODY_4|0
+the common room|DT JJ NN|BODY_2|0
+plication|NN|BODY_4|0
+our preliminary measurements|PRP$ JJ NNS|BODY_7|0
+reduced lag|VBN NN|BODY_5|0
+the real-time requirements|DT JJ NNS|BODY_4|0
+2. device sharing|DT NN NN|BODY_1|0
+decoupled simulation model|VBN NN NN|BODY_2|0
+figure|NN|BODY_2|0
+output tasks|NN NNS|BODY_2|0
+presentation computation head position/orientation hand position/orientation/gesture body position/orientation user interaction figure 1|NN NN NN NN NN NN NN NN NN NN NN CD|BODY_1|0
+slave processes|NN NNS|BODY_1|0
+the accompanying videotape|DT VBG NN|BODY_1|0
+the appropriate data structures|DT JJ NNS NNS|BODY_2|0
+the data sharing action|DT NNS NN NN|BODY_1|0
+the first input class|DT JJ NN NN|BODY_1|0
+these two examples|DT CD NNS|BODY_2|0
+this approach|DT NN|BODY_2|0
+this process structure|DT NN NN|BODY_1|0
+user commands|NN NNS|BODY_2|0
+even standard graphics displays|RB JJ NNS NNS|BODY_3|0
+the logs|DT NNS|BODY_3|0
+the shared data sync procedure|DT VBN NNS NN NN|BODY_2|0
+our isotrak server|PRP$ NN NN|BODY_3|0
+a shared data sync call|DT VBN NNS NN NN|BODY_3:BODY_9|0
+synchronized stereoscopic images|JJ JJ NNS|BODY_2|0
+consistency|NN|BODY_3|0
+next iteration|JJ NN|BODY_3|0
+the other processes|DT JJ NNS|BODY_3|0
+sounds|NNS|BODY_6:BODY_1|0
+device update rate|NN NN NN|BODY_3|0
+each tracker|DT NN|BODY_4|0
+two consistent images|CD JJ NNS|BODY_7|0
+the he/she|DT NN|BODY_8|0
+the values|DT NNS|BODY_5|0
+predictive filters|JJ NNS|BODY_3|0
+slave|NN|BODY_7|0
+a series|DT NN|BODY_4|0
+'s cognitive coprocessor architecture|POS JJ NN NN|BODY_3|0
+these changes|DT NNS|BODY_3|0
+an architectural model|DT JJ NN|BODY_3|0
+the proviso|DT NN|BODY_4|0
+an existing fluid dynamics program|DT VBG NN NNS NN|BODY_3|0
+calls|NNS|BODY_6:BODY_7|0
+a different loca|DT JJ NN|BODY_3|0
+graphical potentiometers|JJ NNS|BODY_9|0
+the master workstation|DT NN NN|BODY_3|0
+both discrete event|DT JJ NN|BODY_4|0
+any hand-shaking protocol|DT NN NN|BODY_6|0
+this timing analysis|DT NN NN|BODY_2|0
+a continuously-running simulation task|DT NN NN NN|BODY_3|0
+either|DT|BODY_5|0
+some single|DT JJ|BODY_3|0
+data items|NNS NNS|BODY_2|0
+a constant scaling factor|DT JJ NN NN|BODY_2|0
+the views|DT NNS|BODY_1:BODY_2|0
+the various devices|DT JJ NNS|BODY_3|0
+user input|NN NN|BODY_4|0
+interact|NN|BODY_4|0
+traditional two dimensional styles|JJ CD JJ NNS|ABSTRACT_3|0
+interaction simulation eyephone synchronize|NN NN NN NN|BODY_3|0
+an input or output device|DT NN CC NN NN|BODY_5|0
+device|NN|BODY_2:BODY_1|0
+arbitrary pairs|JJ NNS|BODY_7|0
+the example code|DT NN NN|BODY_3|0
+the id number|DT JJ NN|BODY_2|0
+room geometry|NN NN|ABSTRACT_5|0
+the collection|DT NN|BODY_3|0
+configuration section viewing|NN NN NN|BODY_3|0
+its device|PRP$ NN|BODY_3|0
+2|CD|BODY_5|0
+buttons|NNS|BODY_10|0
+room geometry and device con- figuration|NN NN CC NN NNS NN|BODY_3|0
+environment coordinates|NN NNS|BODY_5|0
+boxes|NNS|BODY_4|0
+another process|DT NN|BODY_5|0
+environment|NN|BODY_5|0
+the current position|DT JJ NN|BODY_5|0
+the gestural input|DT NN NN|BODY_2|0
+data synchronization|NNS NN|BODY_3|0
+workstation|NN|BODY_8|0
+'s server (using tcp/ip|POS NN VBG NN|BODY_7|0
+one or more server processes|CD CC JJR NN NNS|BODY_2|0
+including workstation monitors|VBG NN NNS|BODY_3|0
+joysticks|NNS|BODY_5|0
+a cpu server machine|DT NN NN NN|BODY_2|0
+play|NN|BODY_5|0
+an i/o device|DT JJ NN|BODY_8|0
+force vector data|NN NN NNS|BODY_4|0
+graphical display|JJ NN|BODY_2|0
+only the presentation component|RB DT NN NN|BODY_2|0
+the most up|DT JJS RP|BODY_3|0
+the display queue|DT NN NN|BODY_5|0
+gloves|NNS|BODY_5|0
+interaction techniques|NN NNS|BODY_6|0
+the production|DT NN|BODY_5|0
+a dataglove|DT NN|BODY_9|0
+to-date data|JJ NNS|BODY_4|0
+a single sound package call|DT JJ JJ NN NN|BODY_4|0
+the same way|DT JJ NN|BODY_7|0
+a new demand|DT JJ NN|BODY_10|0
+a new filter|DT JJ NN|BODY_2|0
+the low level device software|DT JJ NN NN NN|BODY_3|0
+sound|NN|BODY_6|0
+static hand postures|JJ NN NNS|BODY_4|0
+the producer process|DT NN NN|BODY_3|0
+an echo|DT NN|BODY_6|0
+interaction component|NN NN|BODY_3|0
+multiple workstations|JJ NNS|BODY_4|0
+the sampling frequency|DT JJ NN|BODY_4|0
+a summary|DT NN|BODY_3|0
+the role|DT NN|BODY_3|0
+the simulation part|DT NN NN|BODY_13|0
+this toolkit|DT NN|BODY_4|0
+is|VBZ|BODY_5|0
+the near future|DT JJ NN|BODY_4|0
+a lack|DT NN|BODY_5|0
+an extension|DT NN|BODY_3|0
+image rendering|NN NN|BODY_4|0
+the first process|DT JJ NN|BODY_2|0
+the loop|DT NN|BODY_1:BODY_4|0
+allocates screen space|DT NN NN|BODY_4|0
+the graphical data|DT JJ NNS|BODY_6|0
+the applications|DT NNS|BODY_4|0
+a single transformation|DT JJ NN|BODY_2|0
+a standard front end|DT JJ JJ NN|BODY_5|0
+data communication|NNS NN|BODY_4|0
+dependent constraints|JJ NNS|BODY_2|0
+the animation loop|DT NN NN|BODY_2|0
+the current time|DT JJ NN|BODY_2|0
+the rate|DT NN|BODY_2|0
+the toolkit routines|DT NN NNS|BODY_2|0
+two groups|CD NNS|BODY_2|0
+a software system|DT NN NN|BODY_8|0
+program optimiza|NN NN|BODY_7|0
+map menus|NN NNS|BODY_8|0
+a position tracker|DT NN NN|BODY_10|0
+'s view|POS NN|ABSTRACT_5|0
+the timing|DT NN|BODY_3|0
+this section|DT NN|BODY_2|0
+two examples|CD NNS|BODY_4|0
+the story|DT NN|BODY_4|0
+highly-interactive three dimensional control|JJ CD JJ NN|BODY_3|0
+this nature|DT NN|BODY_3|0
+the almost-identical slave|DT JJ NN|BODY_4|0
+two major benefits|CD JJ NNS|BODY_3|0
+the reasoning|DT NN|BODY_4|0
+some process|DT NN|BODY_3|0
+slow-moving simulations|JJ NNS|BODY_4|0
+synchrony|NN|BODY_2|0
+the computation update rate|DT NN NN NN|BODY_2|0
+the user discourse machine|DT NN NN NN|BODY_3|0
+a slave process|DT NN NN|BODY_5:BODY_3|0
+application data|NN NNS|BODY_3|0
+the hardware environment|DT NN NN|BODY_2|0
+three levels|CD NNS|BODY_4|0
+other researchers|JJ NNS|BODY_3|0
+virtual space|JJ NN|BODY_5|0
+the master wait|DT NN NN|BODY_2|0
+a particular position|DT JJ NN|BODY_3|0
+the return sync packet|DT NN NN NN|BODY_4|0
+a programmer-defined trigger procedure|DT JJ NN NN|BODY_2|0
+shared data|VBN NNS|BODY_4|0
+a form|DT NN|BODY_4|0
+yet correct handling|RB JJ NN|BODY_4|0
+a database|DT NN|BODY_6|0
+the new device|DT JJ NN|BODY_3|0
+the operations|DT NNS|BODY_2|0
+the eye slave process|DT NN NN NN|BODY_6|0
+the process structure|DT NN NN|BODY_2|0
+its 3d position and orientation|PRP$ JJ NN CC NN|BODY_3|0
+all applications|DT NNS|BODY_6|0
+only one interaction loop|RB CD NN NN|BODY_4|0
+programs|NNS|BODY_4|0
+calculations|NNS|BODY_2|0
+slave processes server|NN VBZ NN|BODY_9|0
+only 12 microseconds|RB CD NNS|BODY_4|0
+an event|DT NN|BODY_6|0
+the current programming effort|DT JJ NN NN|ABSTRACT_4|0
+a three agent model|DT CD NN NN|BODY_2|0
+the expected item|DT VBN NN|BODY_2|0
+the purposes|DT NNS|BODY_5|0
+the fluid dynamics example|DT NN NNS NN|BODY_3|0
+two classes|CD NNS|BODY_2|0
+four compo- nents|CD NNS NNS|BODY_3|0
+central interest|JJ NN|BODY_3|0
+view parameter update|NN NN NN|BODY_2|0
+application areas|NN NNS|ABSTRACT_2|0
+the  earcon  approach [blattner|DT NN NN NN NN NN|BODY_2|0
+a flat rectangle|DT JJ NN|BODY_2|0
+the room position and orientation|DT NN NN CC NN|BODY_3|0
+all the workstations|PDT DT NNS|BODY_4|0
+a task queue|DT NN NN|BODY_4|0
+the drudgery|DT NN|BODY_4|0
+no direct provision|DT JJ NN|BODY_2|0
+'s isotrak|POS NN|BODY_6|0
+the head-mounted dis|DT JJ NN|BODY_4|0
+first updates|JJ NNS|BODY_3|0
+410 mi- croseconds|CD CD NNS|BODY_3|0
+this the decoupled simulation model|DT DT JJ NN NN|BODY_2|0
+no data structures|DT NNS NNS|BODY_2|0
+no necessary connection|DT JJ NN|BODY_6|0
+the new position|DT JJ NN|BODY_7|0
+a stereo three dimensional view|DT JJ CD JJ NN|BODY_3|0
+virtual objects|JJ NNS|ABSTRACT_3|0
+uims|NNS|BODY_7|0
+vr user interfaces|JJ NN NNS|BODY_6:BODY_3:BODY_4|0
+space|NN|BODY_8|0
+sonic feedback and application sounds|JJ NN CC NN NNS|BODY_3|0
+the hand data structure|DT NN NNS NN|BODY_4|0
+the governor|DT NN|BODY_7|0
+the tracker geometry|DT NN NN|BODY_2|0
+an excellent start|DT JJ NN|BODY_4|0
+non-traditional devices|JJ NNS|BODY_3|0
+runs|NNS|BODY_3|0
+trigger routines|NN NNS|BODY_5|0
+the basis|DT NN|BODY_8|0
+the other pro- cess|DT JJ NNS NN|BODY_2|0
+the slave process|DT NN NN|BODY_6:BODY_4|0
+the same geometric relationship|DT JJ JJ NN|BODY_6|0
+partial support|JJ NN|BODY_5|0
+the c programming language|DT NN NN NN|BODY_3|0
+whose orientation|WP$ NN|BODY_4|0
+a very small over- head|DT RB JJ , NN|BODY_3|0
+the average real time|DT JJ JJ NN|BODY_4|0
+this user interface|DT NN NN|BODY_1|0
+the position and location|DT NN CC NN|BODY_4|0
+a particular device|DT JJ NN|BODY_3|0
+the equivalent|DT NN|BODY_2|0
+conclusions|NNS|BODY_4|0
+a process|DT NN|BODY_2|0
+the monitor|DT NN|BODY_4|0
+an id|DT JJ|BODY_4|0
+the management|DT NN|BODY_7|0
+a separate process|DT JJ NN|BODY_2|0
+the previous time step|DT JJ NN NN|BODY_6|0
+our major design decisions|PRP$ JJ NN NNS|BODY_3|0
+the issue|DT NN|BODY_5|0
+the application program|DT NN NN|BODY_5|0
+three days|CD NNS|BODY_3|0
+a master process|DT NN NN|BODY_2|0
+accepts and properly routes|VBZ CC RB NNS|BODY_3|0
+optional packages|JJ NNS|BODY_3|0
+the databases|DT NNS|BODY_3|0
+track|NN|BODY_8|0
+certain key points|JJ NN NNS|BODY_4|0
+processes|NNS|BODY_6:BODY_8|0
+higher level design tools|JJR NN NN NNS|BODY_2|0
+their user interfaces|PRP$ NN NNS|BODY_5|0
+a skeleton vr user interface|DT JJ JJ NN NN|BODY_6|0
+a clear starting point|DT JJ NN NN|BODY_6|0
+a producer|DT NN|BODY_3|0
+the state|DT NN|BODY_7|0
+the item|DT NN|BODY_2|0
+the effort|DT NN|BODY_5|0
+the physical location|DT JJ NN|BODY_4|0
+a shared data package|DT VBN NN NN|BODY_3|0
+user-proposed changes|JJ NNS|BODY_3|0
+several reasons|JJ NNS|BODY_2|0
+a high level|DT JJ NN|BODY_2|0
+'s position|POS NN|BODY_7|0
+its own pace|PRP$ JJ NN|BODY_5|0
+the simulation|DT NN|BODY_6:BODY_1|0
+discrete time steps|JJ NN NNS|BODY_5|0
+the duties|DT NNS|BODY_2|0
+consists|VBZ|BODY_4|0
+the shared data|DT VBN NNS|BODY_1:BODY_4|0
+the images|DT NNS|BODY_3|0
+the program|DT NN|BODY_11:BODY_1|0
+our hope|PRP$ NN|BODY_2|0
+process|NN|BODY_4|0
+its data|PRP$ NN|BODY_3|0
+communication|NN|BODY_6|0
+two loops|CD NNS|BODY_2|0
+device set|NN NN|BODY_3|0
+a virtual space|DT JJ NN|BODY_2|0
+the sonic|DT JJ|BODY_5|0
+the computational model|DT JJ NN|BODY_4|0
+a particular data item|DT JJ NNS NN|BODY_4|0
+more research|JJR NN|BODY_2|0
+our purposes|PRP$ NNS|BODY_3|0
+devices|NNS|BODY_3|0
+dashed lines|VBN NNS|BODY_4|0
+real-time 3d animation systems|JJ JJ NN NNS|BODY_7|0
+aspects|NNS|BODY_6|0
+manipulates|NNS|BODY_3|0
+usually two situations|RB CD NNS|BODY_2|0
+the exact number|DT JJ NN|BODY_4|0
+the master pro- cess|DT NN NNS NN|BODY_5|0
+one process|CD NN|BODY_2|0
+a paper|DT NN|BODY_4|0
+process structure|NN NN|BODY_6|0
+all the constraints|DT DT NNS|BODY_3|0
+'s current assumption|POS JJ NN|BODY_2|0
+any graphics element|DT NNS NN|BODY_4|0
+the downstream|DT NN|BODY_6|0
+a limited version|DT JJ NN|BODY_2|0
+all shared items|DT VBN NNS|BODY_4|0
+a clear strategic guideline|DT JJ JJ NN|BODY_2|0
+two types|CD NNS|BODY_3|0
+the eyephone server|DT NN NN|BODY_3|0
+ways|NNS|BODY_3|0
+the geometric model|DT JJ NN|BODY_7|0
+the boundary conditions|DT NN NNS|BODY_3|0
+simulation time|NN NN|BODY_4|0
+computation|NN|BODY_8|0
+this model|DT NN|BODY_9|0
+the environment|DT NN|BODY_5|0
+three reasons|CD NNS|BODY_2|0
+package records|NN NNS|BODY_3|0
+a command|DT NN|BODY_3|0
+3-space|NN|BODY_3|0
+an optional package|DT JJ NN|BODY_3|0
+a fluid dynamics calculation|DT NN NNS NN|BODY_3|0
+a result|DT NN|BODY_1|0
+a significant savings|DT JJ NNS|BODY_4|0
+network packet traffic|NN NN NN|BODY_1|0
+scientific and engineering computations|JJ CC NN NNS|BODY_4|0
+the current viewpoint|DT JJ NN|BODY_4|0
+the entire application|DT JJ NN|BODY_4|0
+the fortran77 support|DT CD NN|BODY_1|0
+the output|DT NN|BODY_1|0
+the second type|DT JJ NN|BODY_1|0
+two video signals|CD NN NNS|BODY_4|0
+a high-level representation|DT JJ NN|BODY_3|0
+the data transfer|DT NNS NN|BODY_2|0
+a solid basis|DT JJ NN|BODY_4|0
+a typical flowchart|DT JJ NN|BODY_6|0
+times|NNS|BODY_2|0
+a text string|DT NN NN|BODY_3|0
+consistent , mr|JJ , JJ|BODY_2|0
+four processes|CD NNS|BODY_2|0
+a ray|DT NN|BODY_5|0
+the checkerboard surface|DT NN NN|BODY_2|0
+each interaction technique or group|DT NN NN CC NN|BODY_5|0
+new devices|JJ NNS|BODY_5|0
+the screen|DT NN|BODY_9|0
+our dataglove|PRP$ NN|BODY_8|0
+the glue|DT NN|BODY_3|0
+the coordinate system|DT VBP NN|BODY_5|0
+another set|DT NN|BODY_2|0
+the slave , computation and server processes|DT NN , NN CC NN NNS|BODY_5|0
+a constraint network|DT NN NN|BODY_3|0
+a sound|DT JJ|BODY_5|0
+a higher level interface|DT JJR NN NN|BODY_4|0
+front|NN|BODY_8|0
+the latest values|DT JJS NNS|BODY_2|0
+the trigger procedure|DT NN NN|BODY_3|0
+all input|DT NN|BODY_2|0
+an interactive editing program|DT JJ NN NN|BODY_2|0
+eye position|NN NN|BODY_9|0
+both master and slave processes|DT NN CC NN NNS|BODY_3|0
+the results|DT NNS|BODY_5|0
+a slave or computation process|DT NN CC NN NN|BODY_3|0
+data sharing and performance monitoring|NNS NN CC NN NN|BODY_5|0
+whose input|WP$ NN|BODY_5|0
+the client-server scheme|DT NN NN|BODY_2|0
+one optional package|CD JJ NN|BODY_2|0
+the same relationship|DT JJ NN|BODY_8|0
+this length|DT NN|BODY_5|0
+trackers|NNS|BODY_2|0
+the eyephone information|DT NN NN|BODY_2|0
+the architecture|DT NN|ABSTRACT_2|0
+the arrows|DT NNS|BODY_1|0
+each packet|DT NN|BODY_4|0
+the real time|DT JJ NN|BODY_4|0
+instructs|NNS|BODY_5|0
+a routine|DT NN|BODY_2|0
+a similar device management approach|DT JJ NN NN NN|BODY_2|0
+the view parameters|DT NN NNS|BODY_8|0
+compile time|JJ NN|BODY_5|0
+a collection|DT NN|BODY_3|0
+5.8 panel package|CD NN NN|BODY_1|0
+fluid dynamics|NN NNS|BODY_3|0
+opposite directions|JJ NNS|BODY_3|0
+the appendix|DT NN|BODY_3|0
+the first one|DT JJ CD|BODY_1|0
+the following sections|DT JJ NNS|BODY_1|0
+the more important packages|DT RBR JJ NNS|BODY_3|0
+the optional panel package|DT JJ NN NN|BODY_3|0
+the second example|DT JJ NN|BODY_1|0
+two way communications|CD NN NNS|BODY_1|0
+a socket connection|DT NN NN|BODY_5|0
+the reaction|DT NN|BODY_4|0
+the programming process|DT NN NN|BODY_3|0
+databases|NNS|BODY_4|0
+boundary condition commands|NN NN NNS|BODY_2|0
+the graceful growth|DT JJ NN|BODY_3|0
+the efficiency|DT NN|BODY_4|0
+a workstation|DT NN|BODY_2|0
+this machine|DT NN|BODY_7|0
+3d sound|JJ NN|BODY_5|0
+better performance modeling tools|JJR NN NN NNS|BODY_2|0
+the building|DT NN|BODY_4|0
+the portability|DT NN|BODY_4|0
+'s dependency|POS NN|BODY_3|0
+an arbitrarily oriented 2d screen|DT RB VBN JJ NN|BODY_5|0
+the data producer|DT NN NN|BODY_6|0
+up|RP|BODY_2|0
+continuous send mode|JJ VB NN|BODY_4|0
+the latest data|DT JJS NNS|BODY_6|0
+the development|DT NN|ABSTRACT_5|0
+relatively high level facilities|RB JJ NN NNS|BODY_9|0
+a toolkit|DT NN|ABSTRACT_2|0
+the claim|DT NN|BODY_2|0
+the flexibility|DT NN|BODY_2|0
+'s navigation code|POS NN NN|BODY_3|0
+the standard mr procedures|DT JJ NN NNS|BODY_3|0
+connection|NN|BODY_2|0
+one or more unix-style processes|CD CC JJR JJ NNS|BODY_3|0
+the communicating processes|DT NN NNS|BODY_3|0
+control|NN|BODY_7|0
+smooth animation|JJ NN|BODY_4|0
+all the applications|DT DT NNS|BODY_7|0
+different networking software|JJ NN NN|BODY_5|0
+the view|DT NN|BODY_4|0
+the two processes|DT CD NNS|BODY_7|0
+any special processing|DT JJ NN|BODY_7|0
+more server processes|JJR NN NNS|BODY_4|0
+the best possible toolkit|DT JJS JJ NN|BODY_4|0
+the rendering portion|DT VBG NN|BODY_3|0
+1991 ]|CD NN|BODY_7|0
+the hand ray closest|DT NN NN JJS|BODY_4|0
+the one|DT CD|BODY_6|0
+3d position and orientation trackers|JJ NN CC NN NNS|BODY_6|0
+4|CD|BODY_1|0
+database updates|NN NNS|BODY_6|0
+debugging|NN|BODY_6|0
+holloway|NN|BODY_1|0
+the cognitive coprocessor architecture task machine|DT JJ NN NN NN NN|BODY_1|0
+any incoming shared data item|DT VBG VBN NNS NN|BODY_4|0
+'s sync packet|POS NN NN|BODY_3|0
+a return sync pulse|DT NN NN NN|BODY_5|0
+its image|PRP$ NN|BODY_4:BODY_7|0
+the return sync|DT NN NN|BODY_2|0
+pop-up panels|JJ NNS|BODY_1|0
+sight|NN|BODY_5|0
+the same time|DT JJ NN|BODY_5|0
+the second require- ment|DT JJ NNP NN|BODY_1|0
+researchers|NNS|BODY_1|0
+the real-time generation|DT JJ NN|BODY_1|0
+any panel|DT NN|BODY_7|0
+sound feedback|JJ NN|ABSTRACT_8|0
+1989 ]|CD NN|BODY_7|0
+2. low-level support|. JJ NN|BODY_1|0
+a third isotrak digitizer|DT JJ NN NN|BODY_13|0
+client|NN|BODY_11|0
+our isotrak lag experiments|PRP$ JJ NN NNS|BODY_1|0
+stations|NNS|BODY_8|0
+the application programmer 3|DT NN NN CD|BODY_7|0
+tions|NNS|BODY_8|0
+zeltzer|NN|BODY_1|0
+the end|DT NN|BODY_1|0
+any existing client code|DT JJ NN NN|BODY_5|0
+the intersection|DT NN|BODY_1|0
+the task queue|DT NN NN|BODY_1|0
+application load|NN NN|BODY_5|0
+the first re|DT JJ NN|BODY_1|0
+the update|DT NN|BODY_1|0
+these processes|DT NNS|BODY_5|0
+each package|DT NN|BODY_1|0
+the first benefit|DT JJ NN|BODY_1|0
+improvements|NNS|BODY_1|0
+previous work|JJ NN|BODY_1|0
+age|NN|BODY_10|0
+hardware configurations|NN NNS|BODY_1|0
+this component|DT NN|BODY_1|0
+1984 ]|CD NN|BODY_5|0
+the mr framework|DT NN NN|BODY_4|0
+lation|NN|BODY_6|0
+a device|DT NN|BODY_1|0
+better approaches|JJR NNS|BODY_7|0
+mr.|VBG|BODY_6|0
+5.6 dataglove package|CD NN NN|BODY_1|0
+computational processes|JJ NNS|BODY_8|0
+configuration section operation eyephone operation eyephone synchronize|NN NN NN NN NN NN NN|BODY_1|0
+coordinates|NNS|BODY_7|0
+card , mackinlay and robertson|NN , NN CC NN|BODY_1|0
+this work|DT NN|BODY_4|0
+simpler applications|JJR NNS|BODY_6|0
+the purpose|DT NN|BODY_1|0
+5.4 workspace mapping|CD NN NN|BODY_1|0
+the designation master|DT NN NN|BODY_1|0
+each server|DT NN|BODY_1|0
+sample rate decoupling|NN NN NN|BODY_4|0
+a system-wide workspace file|DT JJ NN NN|BODY_7|0
+the mapping matrices|DT NN NNS|BODY_1|0
+a log file|DT NN NN|BODY_1|0
+hand orientation|NN NN|BODY_6|0
+the declaration procedure|DT NN NN|BODY_1|0
+most 3d graphics packages|RBS JJ NNS NNS|BODY_12|0
+bugs|NNS|BODY_6|0
+its own coordinate space|PRP$ JJ VBP NN|BODY_5|0
+the head-mounted display|DT JJ NN|BODY_8|0
+output devices|NN NNS|BODY_6|0
+what screen|WP NN|BODY_5|0
+display|NN|BODY_6|0
+ex|FW|BODY_1|0
+any shared data structure|DT VBN NNS NN|BODY_3|0
+course|NN|BODY_1|0
+the sending process|DT VBG NN|BODY_7|0
+a consumer|DT NN|BODY_6|0
+consistent images|JJ NNS|BODY_1|0
+limited lag|JJ NN|BODY_5|0
+the presentation update rate|DT NN NN NN|BODY_1|0
+the task machine|DT NN NN|BODY_4|0
+in- put|RB VBN|BODY_5|0
+gaver 1989 ]|NN CD NN|BODY_4|0
+the polygonal database|DT JJ NN|BODY_8|0
+terms|NNS|BODY_1|0
+5 hardware and software architecture|CD NN CC NN NN|BODY_1|0
+software|NN|BODY_5|0
+the other hand|DT JJ NN|BODY_1|0
+an implicit default view direction|DT JJ NN NN NN|BODY_4|0
+our sgi 3130|PRP$ NN CD|BODY_1|0
+the remaining system components|DT VBG NN NNS|BODY_4|0
+ethernet )|NN -RRB-|BODY_8|0
+the device hardware|DT NN NN|BODY_3|0
+a governor|DT NN|BODY_6|0
+this kind|DT NN|BODY_6|0
+this results|DT NNS|BODY_1|0
+the sonic domain|DT JJ NN|BODY_1|0
+im|FW|BODY_4|0
+the computation component update rate|DT NN NN NN NN|BODY_8|0
+a loop|DT NN|BODY_3|0
+the same network|DT JJ NN|BODY_6|0
+one summary|CD NN|BODY_1|0
+3d input devices|JJ NN NNS|ABSTRACT_5|0
+the eyephone|DT NN|BODY_5|0
+some applications|DT NNS|BODY_1|0
+the geometric compo-|DT JJ NNS|BODY_5|0
+this tight binding|DT JJ NN|BODY_1|0
+a new device|DT JJ NN|BODY_1|0
+existing applications|VBG NNS|BODY_3|0
+the cognitive coprocessor architecture [ robert- son 1989 ]|DT JJ NN NN NN VBN NN CD NN|BODY_5|0
+hand gestures|NN NNS|BODY_1|0
+its server|PRP$ NN|BODY_4|0
+small changes|JJ NNS|BODY_7|0
+1990]|CD|BODY_10|0
+a client|DT NN|BODY_1|0
+a programming language|DT NN NN|BODY_4|0
+each tracker device|DT NN NN|BODY_1|0
+5|CD|BODY_1|0
+new dataglove gestures trigger gesture|JJ NN NNS NN NN|BODY_1|0
+one way|CD NN|BODY_5|0
+the basic control mechanism|DT JJ NN NN|BODY_1|0
+the many possible sound output techniques|DT JJ JJ NN NN NNS|BODY_6|0
+the packages|DT NNS|BODY_1|0
+the second input class|DT JJ NN NN|BODY_1|0
+the second transformation set|DT JJ NN NN|BODY_1|0
+these guidelines|DT NNS|BODY_1|0
+the appli- cation|DT NNS NN|BODY_14|0
+its own update rate|PRP$ JJ NN NN|BODY_3|0
+6 examples|CD NNS|BODY_1|0
+mr applications|JJ NNS|BODY_5|0
+the time updating|DT NN VBG|BODY_1|0
+workstation monitors|NN NNS|BODY_1|0
+geometric transformations|JJ NNS|BODY_3|0
+constraint propagation|NN NN|BODY_1|0
+stereo|NN|BODY_6|0
+an interactive system|DT JJ NN|BODY_3|0
+data sync|NNS NN|BODY_1|0
+reducing lag|VBG NN|BODY_6|0
+the master and slave or computation processes|DT NN CC NN CC NN NNS|BODY_3|0
+the data transfers|DT NN NNS|BODY_4|0
+two simple applications|CD JJ NNS|ABSTRACT_6|0
+two server processes|CD NN NNS|BODY_5|0
+continuous simulation|JJ NN|BODY_5|0
+the simultaneous display requirement|DT JJ NN NN|BODY_1|0
+more than one panel|RBR IN CD NN|BODY_1|0
+which interaction technique|WDT NN NN|BODY_4|0
+simple dataglove interaction|JJ NN NN|BODY_4|0
+typical simulations|JJ NNS|BODY_1|0
+the parenthesized items|DT JJ NNS|BODY_1|0
+most commonly-available 3d graphics workstations|RBS JJ JJ NNS NNS|BODY_4|0
+introduction|NN|BODY_1|0
+our own previous work|PRP$ JJ JJ NN|BODY_1|0
+three-dimensional sound output devices|JJ JJ NN NNS|BODY_1|0
+station|NN|BODY_6|0
+low level device interactions|JJ NN NN NNS|BODY_4|0
+such applications|JJ NNS|BODY_1|0
+user confusion|NN NN|BODY_6|0
+the bottom level|DT JJ NN|BODY_1|0
+all four parts|DT CD NNS|BODY_5|0
+the first set maps|DT JJ NN NNS|BODY_1|0
+the data item|DT NNS NN|BODY_3|0
+this id|DT NN|BODY_1|0
+an interactive dataglove calibration and gesture editing program|DT JJ NN NN CC NN NN NN|BODY_1|0
+the standard packages|DT NN NNS|BODY_1|0
+the same data structure|DT JJ NNS NN|BODY_5|0
+3 decoupled simulation model|CD JJ NN NN|BODY_1|0
+signaling events|VBG NNS|BODY_5|0
+these images|DT NNS|BODY_1|0
+the pointer|DT NN|BODY_1|0
+identification pur-|NN NNS|BODY_6|0
+the core requirement|DT NN NN|BODY_1|0
+hand measurement equipment ( gloves )|NN NN NN -LRB- NNS -RRB-|BODY_5|0
+our sgi 4d/35|PRP$ NN CD|BODY_7|0
+the graphical presentation|DT JJ NN|BODY_7|0
+several devices|JJ NNS|BODY_9|0
+the server processes|DT NN NNS|BODY_1|0
+the status|DT NN|BODY_1|0
+geometric model visual audio|JJ NN JJ NN|BODY_1|0
+this type|DT NN|BODY_1|0
+performs gesture recognition|NNS NN NN|BODY_6|0
+fortran77|CD|BODY_7|0
+5.7 sound package|CD NN NN|BODY_1|0
+a new value|DT JJ NN|BODY_1|0
+previous work other groups|JJ NN JJ NNS|BODY_1|0
+real-time three dimensional interactive animation|JJ CD JJ JJ NN|BODY_4|0
+this user interface style|DT NN NN NN|BODY_3|0
+the optional packages|DT JJ NNS|BODY_1|0
+the code|DT NN|BODY_6|0
+the processes|DT NNS|BODY_6|0
+our configuration|PRP$ NN|BODY_1|0
+the fluid dynamics|DT NN NNS|BODY_1|0
+the application update frequency|DT NN NN NN|BODY_6|0
+the standard socket soft- ware|DT JJ NN NNS NN|BODY_6|0
+a single fixed viewpoint|DT JJ JJ NN|BODY_1|0
+the sub-boxes|DT NNS|BODY_1|0
+commence data|NN NNS|BODY_1|0
+the key element|DT JJ NN|BODY_1|0
+knowledge|NN|BODY_6|0
+5.3 data|CD NNS|BODY_1|0
+section 3|NN CD|BODY_3|0
+this architectural model|DT JJ NN|BODY_1|0
+virtual reality systems|JJ NN NNS|TITLE_2|0
+all the features|PDT DT NNS|BODY_1|0
+all the timing figures|PDT DT NN NNS|BODY_1|0
+these concerns|DT NNS|BODY_4|0
+this hardware configuration|DT NN NN|BODY_3|0
+each other|DT JJ|BODY_8|0
+real space|JJ NN|BODY_10:BODY_8|0
+the next section|DT JJ NN|BODY_4|0
+the client-server interaction|DT NN NN|BODY_1|0
+the latest filtered data|DT JJS VBN NNS|BODY_3|0
+the second benefit|DT JJ NN|BODY_1|0
+most applications|RBS NNS|BODY_1|0
+standard and optional|JJ CC JJ|BODY_4|0
+this object|DT NN|BODY_5|0
+'s activity|POS NN|BODY_6|0
+'s head position|POS NN NN|BODY_7|0
+'s position change|POS NN NN|BODY_4|0
+all output|DT NN|BODY_4|0
+the first type|DT JJ NN|BODY_1|0
+these agents|DT NNS|BODY_1|0
+this program|DT NN|BODY_1|0
+no computation process|DT NN NN|BODY_2|0
+the fifth point|DT JJ NN|BODY_1|0
+a shared data model|DT VBN NN NN|BODY_1|0
+the time stamp call|DT NN NN NN|BODY_1|0
+application process|NN NN|BODY_1|0
+the visual domain|DT JJ NN|BODY_1|0
+this corresponds|DT NNS|BODY_1|0
+'s local machine|POS JJ NN|BODY_8|0
+natural 3d interaction techniques|JJ JJ NN NNS|BODY_5|0
+the component|DT NN|BODY_1|0
+the viewing parameters change|DT NN NNS NN|BODY_4|0
+5.2 device level software|CD NN NN NN|BODY_1|0
+decstation 5000/200pxg workstations|NN CD NNS|BODY_4|0
+the next level|DT JJ NN|BODY_1|0
+the top level|DT JJ NN|BODY_1|0
+a lighter computational load|DT JJR JJ NN|BODY_4|0
+all vr applications|DT NN NNS|BODY_7|0
+every vr application|DT JJ NN|BODY_4|0
+mouse buttons|NN NNS|BODY_4|0
+the client code|DT NN NN|BODY_6|0
+the complete application|DT JJ NN|BODY_5|0
+the interaction techniques|DT NN NNS|BODY_7|0
+5.1 internal structure|CD JJ NN|BODY_1|0
+academic researchers|JJ NNS|BODY_3|0
+version 1.0|NN CD|BODY_1|0
+this situation|DT NN|BODY_1|0
+overlapping events|VBG NNS|BODY_1|0
+the data consumer|DT NN NN|BODY_8|0
+the database consistency operation|DT NN NN NN|BODY_1|0
+receive shared data or shared data sync|VBP VBN NNS CC VBN NNS NN|BODY_7|0
+the implementation|DT NN|BODY_1|0
+the sound driver|DT JJ NN|BODY_10|0
+different directions|JJ NNS|BODY_4|0
+our claim|PRP$ NN|BODY_1|0
+rendering|NN|BODY_5|0
+several workstations|JJ NNS|BODY_5|0
+the communications delays|DT NNS NNS|BODY_6|0
+the flowchart|DT NN|BODY_1|0
+the room-to-environment mapping|DT NN NN|BODY_1|0
+the smooth output|DT JJ NN|BODY_11|0

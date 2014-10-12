@@ -1,0 +1,325 @@
+we|PRP|BODY_5:BODY_13:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4|5
+which|WDT|BODY_6:BODY_12:BODY_11:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+mirage|NN|BODY_6:BODY_5:BODY_11:BODY_13:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|3
+time|NN|BODY_5:BODY_13:ABSTRACT_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a repeated combinatorial auction|DT VBN JJ NN|BODY_5:ABSTRACT_5:BODY_1:BODY_3|2
+market-based resource allocation systems|JJ NN NN NNS|BODY_5:ABSTRACT_5|1
+a deployed microeconomic resource|DT VBN JJ NN|TITLE_2|0
+real computer systems|JJ NN NNS|ABSTRACT_6:BODY_7|1
+current auction scheme|JJ NN NN|ABSTRACT_4:BODY_7|1
+a four-month period|DT JJ NN|ABSTRACT_4:BODY_7|1
+repeated combinatorial auctions|VBN JJ NNS|BODY_6:ABSTRACT_6:BODY_3|1
+some initial steps|DT JJ NNS|BODY_11:ABSTRACT_7|1
+312,148 node hours|CD NN NNS|ABSTRACT_6:BODY_4:BODY_7|0
+11 research projects|CD NN NNS|ABSTRACT_7:BODY_8|0
+observed strategic user behavior|JJ JJ NN NN|ABSTRACT_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+distributed resource allocation|VBN NN NN|ABSTRACT_3|1
+general terms measurement|JJ NNS NN|ABSTRACT_4|0
+users|NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+it|PRP|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+that|DT|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+the system|DT NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+resources|NNS|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+bids|NNS|BODY_6:BODY_5:BODY_16:BODY_2:BODY_3:BODY_4:BODY_7|0
+the user|DT NN|BODY_12:BODY_11:BODY_15:BODY_2:BODY_3:BODY_8|1
+the auction|DT NN|BODY_12:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the desired resource allocation|DT VBN NN NN|BODY_11|1
+the resource allocation process|DT NN NN NN|BODY_5|1
+the same clearing algorithm|DT JJ NN NN|BODY_10|1
+section 2 , 99|NN CD , CD|BODY_1|1
+the resource window|DT NN NN|BODY_5:BODY_2:BODY_4|1
+this|DT|BODY_12:BODY_2:BODY_1|1
+an appropriate auction mechanism|DT JJ NN NN|BODY_2|0
+the 51 mica2dot motes|DT CD NN NNS|BODY_2|0
+the past four months|DT JJ CD NNS|BODY_6:BODY_2:BODY_4|0
+december 9 , 2004|NN CD , CD|BODY_2:BODY_3|0
+this or previous auctions|DT CC JJ NNS|BODY_2|0
+a pending 16-hour bid|DT VBG JJ NN|BODY_2|0
+baseline and share values|NN CC NN NNS|BODY_9|0
+the remaining 57 nodes|DT VBG CD NNS|BODY_2|0
+a proportional profit-sharing policy|DT JJ NN NN|BODY_6|0
+strategyproof mechanism design [4|JJ NN NN NNS|BODY_6|0
+both time project value|DT NN NN NN|BODY_4|0
+a pending 32-hour bid|DT VBG JJ NN|BODY_3|0
+testbed resources|VBN NNS|BODY_2:BODY_3:BODY_8|0
+the combinatorial resource demands|DT JJ NN NNS|BODY_3|0
+the median node-hour price|DT JJ NN NN|BODY_4|0
+1590 97 32 04-02-2005|CD CD CD IN|BODY_7|0
+the lowest possible payment|DT JJS JJ NN|BODY_11|0
+all requesting 97 motes|DT VBG CD NNS|BODY_6|0
+any 32 mica2 motes|DT CD NNS NNS|BODY_7|0
+dynamic arrival and departure|JJ NN CC NN|BODY_3|0
+the next two days|DT JJ CD NNS|BODY_9|0
+goods ( e .g.|NNS -LRB- NN NN|BODY_6|0
+the 97 mica2 motes|DT CD NNS NNS|BODY_5|0
+underlying valuations users place|VBG NNS NNS NN|BODY_5|0
+about a specific set|IN DT JJ NN|BODY_5|0
+observed strategic behavior s1-s4|JJ JJ NN NNS|BODY_7|0
+additional rules and fees|JJ NNS CC NNS|BODY_3|0
+the key motivating factors|DT JJ NN NNS|BODY_4|0
+space/time ( e .g.|NN -LRB- NN NN|BODY_6|0
+the maximum time i|DT JJ NN FW|BODY_8|0
+a strategyproof auction mechanism|DT JJ NN NN|BODY_4|0
+the los scheme [12]|DT NNS NN NN|BODY_3|0
+the mip and optimizations|DT NN CC NNS|BODY_4|0
+the vulnerability strategy s3|DT NN NN NNS|BODY_4|0
+the auction clearing algorithm|DT NN NN NN|BODY_11:BODY_3|0
+what other practical problems|WP JJ JJ NNS|BODY_2|0
+an auction-based scheme (|DT JJ NN -LRB-|BODY_5|0
+an open research problem|DT JJ NN NN|BODY_2|0
+the four primary types|DT CD JJ NNS|BODY_4|0
+a few anomalous bids|DT JJ JJ NNS|BODY_5|0
+( i ) strategyproofness|-LRB- FW -RRB- NN|BODY_3|0
+the next 72 hours|DT JJ CD NNS|BODY_10:BODY_8|0
+32 new 148-node ã—|CD JJ JJ NNS|BODY_6|0
+their bids and a1|PRP$ NNS CC NNS|BODY_2|0
+our first auction mechanism|PRP$ JJ NN NN|BODY_3|0
+two distinct auction mechanisms|CD JJ NN NNS|BODY_5|0
+valuations|NNS|BODY_1:BODY_3:BODY_4:BODY_8|1
+lowest to highest value|JJS TO JJS NN|BODY_9|0
+a user can game|DT NN NN NN|BODY_2|0
+median node-hour market prices|JJ JJ NN NNS|BODY_3|0
+our compute time budget|PRP$ VB NN NN|BODY_3|0
+the virtual currency policy|DT JJ NN NN|BODY_3|0
+a particular time period|DT JJ NN NN|BODY_7|0
+its special payment scheme|PRP$ JJ NN NN|BODY_3|0
+a first-price combinatorial auction|DT JJ JJ NN|BODY_3|0
+down to 2 hours|IN TO CD NNS|BODY_6|0
+shorter than 16 hours|JJR IN CD NNS|BODY_7|0
+bank account share values|NN NN NN NNS|BODY_7|0
+our virtual currency policy|PRP$ JJ NN NN|BODY_1|0
+the generalized vickrey auction|DT JJ NN NN|BODY_1|0
+a good starting point|DT JJ NN NN|BODY_4|0
+a market based system|DT NN VBN NN|BODY_4|0
+a strategyproof los scheme|DT JJ NNS NN|BODY_1|0
+academic and commercial institutions|JJ CC JJ NNS|BODY_5|0
+further mitigate strategic behavior|JJ JJ JJ NN|BODY_4|0
+the high value bid|DT JJ NN NN|BODY_1|0
+the first auction mechanism|DT JJ NN NN|BODY_1|0
+no other 97-node bids|DT JJ JJ NNS|BODY_5|0
+each subsequent round (|DT JJ NN -LRB-|BODY_1|0
+the auction sandwich attack|DT NN NN NN|BODY_1|0
+a greedy clearing algorithm|DT JJ NN NN|BODY_4|0
+a motivated user community|DT JJ NN NN|BODY_12|0
+the underlying sensornet experiment|DT VBG NN NN|BODY_7|0
+april 8 , 2005|JJ CD , CD|BODY_1|0
+a provably strategyproof mechanism|DT RB JJ NN|BODY_3|0
+the same radio frequency|DT JJ NN NN|BODY_14|0
+node hour|NN NN|BODY_12:BODY_6:BODY_2:BODY_3:BODY_10:BODY_8|0
+a2|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_8|0
+a user|DT NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+resource allocation|NN NN|BODY_3:BODY_4|1
+wide-area network testbeds|JJ NN NNS|BODY_7|1
+a combinatorial auction|DT JJ NN|BODY_1:BODY_9|1
+computational grids [2|JJ NNS NNS|BODY_5|1
+such strategic behavior|JJ JJ NN|BODY_4|1
+a succinct manner|DT JJ NN|BODY_3|1
+peer-to-peer systems [17]|JJ NNS NN|BODY_8|1
+low priority activities|JJ NN NNS|BODY_9|1
+sensornet testbed allocation|JJ NN NN|BODY_5|1
+the key contribution|DT JJ NN|BODY_1|1
+a market-based environment|DT JJ NN|BODY_3|1
+significant resource contention|JJ NN NN|BODY_2:BODY_4:BODY_7|0
+a wide range|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+( ii|-LRB- NNS|BODY_11:BODY_5:BODY_4:BODY_9|0
+97 mica2 motes|CD CD NNS|BODY_5:BODY_13:BODY_4|0
+the greedy algorithm|DT JJ NN|BODY_5:BODY_3:BODY_4|0
+the current literature|DT JJ NN|BODY_2|0
+los|NNS|BODY_6:BODY_1:BODY_2:BODY_10|0
+periods|NNS|BODY_2:BODY_10:BODY_7:BODY_9|0
+the current window|DT JJ NN|BODY_6:BODY_5:BODY_9|0
+a strategyproof mechanism|DT JJ NN|BODY_2:BODY_3|0
+our three goals|PRP$ CD NNS|BODY_14:BODY_8|0
+a user bidding|DT NN NN|BODY_1:BODY_4|0
+the 32-hour bid|DT JJ NN|BODY_3:BODY_10|0
+the allocation algorithms|DT NN NNS|BODY_2|0
+a critical tool|DT JJ NN|BODY_2|0
+strategyproof mechanism design|JJ NN NN|BODY_3|0
+a rolling window|DT VBG NN|BODY_6:BODY_3|0
+no other bids|DT JJ NNS|BODY_13:BODY_4|0
+the greedy nature|DT JJ NN|BODY_2:BODY_10|0
+market-based resource allocation|JJ NN NN|BODY_7|0
+bid value distributions|NN NN NNS|BODY_6|0
+a wrapper scheme|DT NN NN|BODY_2|0
+correspondingly low amounts|RB JJ NNS|BODY_5|0
+a maximum value|DT JJ NN|BODY_10:BODY_7|0
+a new mechanism|DT JJ NN|BODY_12:BODY_7|0
+our first improvement|PRP$ JJ NN|BODY_2|0
+i .e|FW FW|BODY_6:BODY_2:BODY_7|0
+all other users|DT JJ NNS|BODY_4:BODY_9|0
+our mip-based algorithm|PRP$ JJ NN|BODY_2|0
+the known shortcomings|DT JJ NNS|BODY_2|0
+our first goal|PRP$ JJ NN|BODY_4|0
+bid start times|NN NN NNS|BODY_7:BODY_9|0
+an additional layer|DT JJ NN|BODY_5|0
+a fundamental requirement|DT JJ NN|BODY_2|0
+over four months|IN CD NNS|BODY_6|0
+s1 and s2|NNS CC NN|BODY_1:BODY_2|0
+a baseline value|DT NN NN|BODY_5|0
+an actual occurrence|DT JJ NN|BODY_1|0
+each bank account|DT NN NN|BODY_1|0
+its baseline value|PRP$ NN NN|BODY_2|0
+this second problem|DT JJ NN|BODY_1|0
+a 24-node bid|DT JJ NN|BODY_4|0
+strategic user behavior|JJ NN NN|BODY_3:BODY_10|0
+one promising avenue|CD JJ NN|BODY_6|0
+the leftmost column|DT JJS NN|BODY_1:BODY_10|0
+a particular auction|DT JJ NN|BODY_2|0
+a savings tax|DT NNS NN|BODY_5|0
+a start time|DT NN NN|BODY_11|0
+the highest bidder|DT JJS NN|BODY_3|0
+baseline and shares|NN CC NNS|BODY_3|0
+an allocation )|DT NN -RRB-|BODY_9|0
+both resource contention|DT NN NN|BODY_3|0
+all outstanding bids|DT JJ NNS|BODY_2:BODY_8|0
+si and ti|FW CC FW|BODY_12|0
+the set oki|DT NN NNP|BODY_6|0
+a radio frequency|DT NN NN|BODY_13|0
+gva payment scheme|NNP NN NN|BODY_5|0
+the historical information|DT JJ NN|BODY_7|0
+the next auction|DT JJ NN|BODY_2|0
+the lowest payment|DT JJS NN|BODY_13|0
+the 16-hour bid|DT JJ NN|BODY_2|0
+1 or 2|CD CC CD|BODY_3|0
+45-60 and days|CD CC NNS|BODY_6|0
+their personal gain|PRP$ JJ NN|BODY_3|0
+a 33-node bid|DT NN NN|BODY_5|0
+the four types|DT CD NNS|BODY_6|0
+its strategyproof property|PRP$ JJ NN|BODY_7|0
+figure 3 plots|NN CD NNS|BODY_6|0
+individually strategyproof auctions|RB JJ NNS|BODY_8|0
+the current mechanism|DT JJ NN|BODY_8|0
+a 32-hour bid|DT JJ NN|BODY_6|0
+mitigate the effects|JJ DT NNS|BODY_9|0
+imminent requiring experiments|JJ VBG NNS|BODY_11|0
+such a mechanism|JJ DT NN|BODY_2|0
+the first bidder|DT JJ NN|BODY_3|0
+the range [fmin|DT NN NN|BODY_14|0
+rational user behavior|JJ NN NN|BODY_2|0
+an open auction|DT JJ NN|BODY_3|0
+section 4 presents|NN CD NNS|BODY_2|0
+previous winning bids|JJ VBG NNS|BODY_7|0
+the main one|DT JJ CD|BODY_3|0
+a specific list|DT JJ NN|BODY_7|0
+what extent users|WDT NN NNS|BODY_4|0
+one outstanding bid|CD JJ NN|BODY_4|0
+a continuous scheme|DT JJ NN|BODY_2|0
+16 hours outbids|CD NNS NNS|BODY_5|0
+the higher quality|DT JJR NN|BODY_6|0
+value|NN|BODY_5:BODY_7:BODY_8|0
+multiple consecutive days|JJ JJ NNS|BODY_4|0
+the recent sensys|DT JJ NNS|BODY_4|0
+a key problem|DT JJ NN|BODY_3|0
+supply and demand|NN CC NN|BODY_3|0
+the next bidder |DT JJ NN|BODY_7|0
+the frequency constraints|DT NN NNS|BODY_10|0
+the allocation rule|DT NN NN|BODY_3|0
+splitting a bid|JJ DT NN|BODY_4|0
+longer resource allocations|RB NN NNS|BODY_5|0
+the current workload|DT JJ NN|BODY_8|0
+the remaining slots|DT VBG NNS|BODY_14|0
+value 130 (value|NN CD NN|BODY_5|0
+vw ) [13]|NN -RRB- NN|BODY_5|0
+all mica2 motes|DT NNS NNS|BODY_3|0
+virtual currency policy|JJ NN NN|BODY_5|0
+specific durations )|JJ NNS -RRB-|BODY_9|0
+the winning bids|DT VBG NNS|BODY_2|0
+their true value|PRP$ JJ NN|BODY_6|0
+every hour )|DT NN -RRB-|BODY_3|0
+a winning bid|DT VBG NN|BODY_4|0
+( s1-s3 )|-LRB- JJ -RRB-|BODY_5|0
+their first opportunity|PRP$ JJ NN|BODY_14|0
+the observed workloads|DT JJ NNS|BODY_5|0
+four primary types|CD JJ NNS|BODY_6|0
+the most recent|DT RBS JJ|BODY_6|0
+future testbed resources|NN VBN NNS|BODY_4|0
+the first place-it|DT JJ NN|BODY_7|0
+a fast algorithm|DT JJ NN|BODY_2|0
+( s3 )|-LRB- NNS -RRB-|BODY_8|0
+a given hour|DT VBN NN|BODY_12:BODY_1|0
+a greedy mechanism|DT JJ NN|BODY_4|0
+those potential allocations|DT JJ NNS|BODY_8|0
+a sealed-bid auction|DT NN NN|BODY_4|0
+all other node/hours|DT JJ NNS|BODY_1|0
+such an auction|JJ DT NN|BODY_1|0
+the first time|DT JJ NN|BODY_4|0
+challenges and refinements|NNS CC NNS|BODY_1|0
+the above strategies|DT JJ NNS|BODY_3|0
+an allocated node-hour|DT VBN NN|BODY_3|0
+continuous production use|JJ NN NN|BODY_5|0
+underlying user valuations|VBG NN NNS|BODY_7|0
+a 104-hour window|DT JJ NN|BODY_6|0
+three different types|CD JJ NNS|BODY_3|0
+a particular node|DT JJ NN|BODY_7|0
+what extent rationality|WP NN NN|BODY_3|0
+the current set|DT JJ NN|BODY_3|0
+. node hours|. NN NNS|BODY_8|0
+a pragmatic mix|DT JJ NN|BODY_2|0
+value 1590 (value|NN CD NN|BODY_11|0
+the entire window|DT JJ NN|BODY_4|0
+a second mechanism|DT JJ NN|BODY_5|0
+our second auction|PRP$ JJ NN|BODY_2|0
+a high value|DT JJ NN|BODY_9|0
+a 72-hour window|DT JJ NN|BODY_3|0
+the early decision|DT JJ NN|BODY_3|0
+the remaining portion|DT VBG NN|BODY_8|0
+a two-phase roadmap|DT JJ NN|BODY_4|0
+multiple overlapping allocations|JJ JJ NNS|BODY_7|0
+3.2 strategic behavior|CD JJ NN|BODY_1|0
+other vcg-based mechanisms|JJ JJ NNS|BODY_1|0
+the past four-months|DT JJ NNS|BODY_5|0
+the theoretical underpinnings|DT JJ NNS|BODY_1|0
+the user backfills|DT NN NNS|BODY_1|0
+an elusive goal|DT JJ NN|BODY_11|0
+a non-strategyproof mechanism|DT JJ NN|BODY_1|0
+a2 mitigated or|DT JJ CC|BODY_1|0
+4.1 ongoing improvements|CD JJ NNS|BODY_1|0
+the temporal nature|DT JJ NN|BODY_1|0
+their true values|PRP$ JJ NNS|BODY_6|0
+a key goal|DT JJ NN|BODY_1|0
+a2 eliminates strategy|DT NNS NN|BODY_5|0
+the new class|DT JJ NN|BODY_1|0
+our first step|PRP$ JJ NN|BODY_1|0
+a bid bi|DT NN NN|BODY_1|0
+a lower payment|DT JJR NN|BODY_4|0
+this same bidder|DT JJ NN|BODY_1|0
+many large-scale systems|JJ JJ NNS|BODY_1|0
+what vw does|WP NN VBZ|BODY_1|0
+a second time|DT JJ NN|BODY_5|0
+a first step|DT JJ NN|BODY_1|0
+a scarce resource|DT JJ NN|BODY_3|0
+05 conference deadlines|CD NN NNS|BODY_6|0
+a market-based mechanism|DT JJ NN|BODY_9|0
+a timely manner|DT JJ NN|BODY_9|0
+the primary purpose|DT JJ NN|BODY_1|0
+their own testbed|PRP$ JJ NN|BODY_7|0
+the end result|DT NN NN|BODY_1|0
+a given user/process|DT VBN NN|BODY_9|0
+a low price|DT JJ NN|BODY_18|0
+a winner i|DT NN NN|BODY_1|0
+a2 eliminated s3|DT VBN CD|BODY_1|0
+a single auction|DT JJ NN|BODY_4|0
+a greedy algorithm|DT JJ NN|BODY_13|0
+the dual observations|DT JJ NNS|BODY_1|0
+a subsequent auction|DT JJ NN|BODY_7|0
+all following auctions|DT JJ NNS|BODY_4|0
+28 , 2005|CD , CD|BODY_3|0
+its key differences|PRP$ JJ NNS|BODY_1|0
+32 new columns|CD JJ NNS|BODY_16|0
+auction sandwich attack|NN NN NN|BODY_2|0
+this particular case|DT JJ NN|BODY_1|0
+100 plots distributions|CD NNS NNS|BODY_1|0
+a key difference|DT JJ NN|BODY_1|0
+the main downside|DT JJ NN|BODY_1|0
+two 101 issues|CD CD NNS|BODY_6|0
+18 research projects|CD NN NNS|BODY_2|0
+our initial deployment|PRP$ JJ NN|BODY_1|0
+the potential mechanisms|DT JJ NNS|BODY_1|0
+this time period|DT NN NN|BODY_1|0
+three primary goals|CD JJ NNS|BODY_3|0
+even lower values|RB JJR NNS|BODY_6|0
+the greedy allocation|DT JJ NN|BODY_5|0
+an economic problem|DT JJ NN|BODY_1|0
+32 hours|CD NNS|BODY_5:BODY_11:BODY_3|0
+a1|NNS|BODY_5:BODY_1:BODY_3:BODY_4|0

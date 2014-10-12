@@ -1,0 +1,360 @@
+that|IN|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|1
+agents|NNS|BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_7:BODY_8|1
+a multi-server environment|DT JJ NN|TITLE_2:BODY_3|0
+we|PRP|BODY_12:ABSTRACT_2:BODY_1:BODY_2:ABSTRACT_1|4
+the resource allocation problem|DT NN NN NN|ABSTRACT_5:BODY_2:BODY_3:BODY_4|2
+techniques|NNS|ABSTRACT_2:BODY_2:BODY_3:BODY_4|2
+this paper|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1|4
+a purely emergent effect|DT RB JJ NN|ABSTRACT_3:BODY_7|0
+self-organising agent-based resource allocation|JJ JJ NN NN|TITLE_1|0
+the resource allocation|DT NN NN|BODY_3:ABSTRACT_1:BODY_7|0
+efficient resource allocation|JJ NN NN|BODY_6:ABSTRACT_3|0
+which|WDT|ABSTRACT_4:BODY_7|1
+the system|DT NN|ABSTRACT_2:BODY_2:BODY_4|0
+our solution|PRP$ NN|BODY_1:BODY_2:ABSTRACT_1|0
+resources and resource consumers|NNS CC NN NNS|ABSTRACT_4|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+a distributed algorithm|DT VBN NN|ABSTRACT_3|1
+distributed multiagent systems|VBN JJ NNS|ABSTRACT_6|1
+artificial intelligence]|JJ NN|ABSTRACT_2|0
+a distributed environments|DT VBN NNS|ABSTRACT_5|0
+account|NN|ABSTRACT_2|0
+the self-organisation|DT NN|ABSTRACT_2|0
+these techniques|DT NNS|ABSTRACT_1|0
+resources|NNS|BODY_6:BODY_5:BODY_15:BODY_1:BODY_3:BODY_7|0
+tasks|NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10|0
+it|PRP|BODY_5:BODY_1:BODY_4|1
+they|PRP|BODY_5:BODY_1:BODY_2:BODY_4|0
+all agents|DT NNS|BODY_1:BODY_2:BODY_3|0
+account multi-agent system tendencies|NN JJ NN NNS|BODY_4|1
+different assumptions and constraints|JJ NNS CC NNS|BODY_3|1
+the overall system performance|DT JJ NN NN|BODY_2|0
+a central controlling authority|DT JJ VBG NN|BODY_2|1
+the resource owner perspective|DT NN NN NN|BODY_1|1
+the resource|DT NN|BODY_4:BODY_7:BODY_9|1
+resource capacities and information|NN NNS CC NN|BODY_5|0
+the resource allocation algorithm|DT NN NN NN|BODY_2|0
+the el farol problem|DT NN NN NN|BODY_2|0
+a reliable resource allocation|DT JJ NN NN|BODY_3|0
+more than two resources|JJR IN CD NNS|BODY_4|0
+a resource allocation framework|DT NN NN NN|BODY_2|0
+the most studied examples|DT RBS JJ NNS|BODY_3|0
+decentralised resource allocation techniques|JJ NN NN NNS|BODY_3|0
+not enough system resources|RB RB NN NNS|BODY_14|0
+sections 4 and 5|NNS CD CC CD|BODY_1|0
+an } and tasks|DT NN CC NNS|BODY_9|0
+supply and demand [4|NN CC NN NNS|BODY_4|0
+a powerful computing platform|DT JJ NN NN|BODY_5|0
+exclusive and shared resources|JJ CC VBN NNS|BODY_12|0
+a resource allocation decision|DT NN NN NN|BODY_3|0
+the cactus project [1|DT NN NN NNS|BODY_3|0
+a mechanism or policy|DT NN CC NN|BODY_2|0
+no additional information dissemination|DT JJ NN NN|BODY_2|0
+a remote agent server|DT JJ NN NN|BODY_3|0
+a = {a1 ,|DT SYM JJ ,|BODY_8|0
+the average processing time|DT NN NN NN|BODY_6|0
+the resource allocation process|DT NN NN NN|BODY_2|0
+the resource consumption u(tj|DT NN NN NN|BODY_5|0
+a distributed multi-agent system|DT VBN JJ NN|BODY_3|0
+the area|DT NN|BODY_3:BODY_7|1
+an ill-defined decision problem|DT JJ NN NN|BODY_2|0
+memory or processor cycles|NN CC NN NNS|BODY_4|0
+the multi-agent system model|DT JJ NN NN|BODY_1|0
+economic market models|JJ NN NNS|BODY_3|0
+the solely decision maker|DT RB NN NN|BODY_4|0
+communication or migration costs|NN CC NN NNS|BODY_5|0
+a commodity market model|DT NN NN NN|BODY_5|0
+a simple distributed technique|DT NN VBN NN|BODY_1|0
+distributed resource allocation mechanisms|VBN NN NN NNS|BODY_3|0
+resource allocation or scheduling|NN NN CC NN|BODY_9|0
+a resource allocation approach|DT NN NN NN|BODY_1|0
+the newly created environment|DT RB VBN NN|BODY_7|0
+the allocation decision process|DT NN NN NN|BODY_3|0
+this repetitive decision game|DT JJ NN NN|BODY_1|0
+another mainly unsolved problem|DT RB JJ NN|BODY_1|0
+computational very expensive jobs|JJ RB JJ NNS|BODY_5|0
+additional resource load information|JJ NN NN NN|BODY_1|0
+any central controlling authority|DT JJ VBG NN|BODY_2|0
+t )|NN -RRB-|BODY_6:BODY_5:BODY_3|0
+distributed resource allocation|VBN NN NN|BODY_3:BODY_4|2
+the communication costs|DT NN NNS|BODY_5|1
+different research groups|JJ NN NNS|BODY_4|1
+an important problem|DT JJ NN|BODY_2|1
+an easy way|DT JJ NN|BODY_2|1
+the allocation|DT NN|BODY_6:BODY_5:BODY_4|0
+the resource consumers|DT NN NNS|BODY_6|1
+a single server|DT JJ NN|BODY_3|1
+future work finish|JJ NN NN|BODY_2|1
+these requirements [10]|DT NNS NNS|BODY_2|1
+the amount|DT NN|BODY_1:BODY_3|0
+a connection topology|DT NN NN|BODY_6|1
+periodic information exchange|JJ NN NN|BODY_4|1
+resource management layer|NN NN NN|BODY_3|1
+the proposed mechanism|DT VBN NN|BODY_1|2
+the resource consumer|DT NN NN|BODY_5:BODY_2|0
+the server utilisation|DT NN NN|BODY_5:BODY_4|0
+a distributed solution|DT VBN NN|BODY_3|1
+different auction methods|JJ NN NNS|BODY_4|0
+different pricing strategies|JJ NN NNS|BODY_2|0
+this technique|DT NN|BODY_1:BODY_2|1
+resources and agents|NNS CC NNS|BODY_6|1
+the regulation|DT NN|BODY_5:BODY_3|0
+the proposed approach|DT JJ NN|BODY_1|1
+each agent|DT NN|BODY_1:BODY_2:BODY_4|0
+the past years|DT JJ NNS|BODY_1|1
+time|NN|BODY_5:BODY_4|0
+distributed computing technologies|VBN NN NNS|BODY_2|0
+the agents|DT NNS|BODY_5:BODY_1:BODY_3|0
+the human way|DT JJ NN|BODY_5|0
+this proposed technique|DT JJ NN|BODY_1|1
+the available resources|DT JJ NNS|BODY_6|0
+effective resource allocation|JJ NN NN|BODY_6|1
+the map l|DT NN NN|BODY_4|0
+an emergent property|DT JJ NN|BODY_5|0
+posted price models|VBN NN NNS|BODY_3|0
+the system load|DT NN NN|BODY_8|0
+all system resources|DT NN NNS|BODY_3:BODY_4|0
+such distributed approaches|JJ VBN NNS|BODY_2|0
+a job migrate|DT NN NN|BODY_2|0
+a good supplement|DT JJ NN|BODY_2|0
+completed task allocations|VBN NN NNS|BODY_6|0
+supply and demand|NN CC NN|BODY_6|0
+the next section|DT JJ NN|BODY_4|0
+as much profit|IN JJ NN|BODY_5|0
+a server li|DT NN NNS|BODY_2|0
+2a 3a 4a|DT CD CD|BODY_5|0
+1a 6a5 t1|CD CD NNS|BODY_7|0
+the related work|DT JJ NN|BODY_6|0
+complex adaptive systems|JJ JJ NNS|BODY_4|0
+t6 figure 1|DT NN CD|BODY_9|0
+t ) resources|NN -RRB- NNS|BODY_3|0
+our multi-server model|PRP$ JJ NN|BODY_11|0
+the extensive use|DT JJ NN|BODY_3|0
+their allocation request|PRP$ NN NN|BODY_3|0
+the main focus|DT JJ NN|BODY_6|0
+different software peers|JJ NN NNS|BODY_6|0
+the agent execution|DT NN NN|BODY_13|0
+a set|DT NN|BODY_5:BODY_2:BODY_4|0
+different agent beliefs|JJ NN NNS|BODY_2|0
+the resources|DT NNS|BODY_2:BODY_7|1
+free server resources|JJ NN NNS|BODY_4|0
+the broker|DT NN|BODY_2:BODY_1|0
+a special case|DT JJ NN|BODY_3|0
+them|PRP|BODY_2:BODY_3|0
+price and time|NN CC NN|BODY_4|0
+those approaches|DT NNS|BODY_2:BODY_1|0
+an odd number|DT JJ NN|BODY_2|0
+the mutual interactions|DT JJ NNS|BODY_2|0
+the destination server|DT NN NN|BODY_5|0
+the total amount|DT JJ NN|BODY_9|0
+computational expensive jobs|JJ JJ NNS|BODY_4|0
+grid computing toolkits|NN NN NNS|BODY_5|0
+past success information|JJ NN NN|BODY_5|0
+the only information|DT JJ NN|BODY_1|0
+our simulations|PRP$ NNS|BODY_2|0
+a multi-agent environment|DT JJ NN|BODY_3|0
+the system objective|DT NN NN|BODY_2|0
+a resource broker|DT NN NN|BODY_5|0
+a task allocation|DT NN NN|BODY_2|0
+the execution platform|DT NN NN|BODY_3|0
+a large number|DT JJ NN|BODY_4|0
+a dynamic environment|DT JJ NN|BODY_3|0
+simple look-up tables|JJ NN NNS|BODY_6|0
+a resource consumer|DT NN NN|BODY_3|0
+the effective competition|DT JJ NN|BODY_4|0
+active monitoring information|JJ NN NN|BODY_4|0
+a variation|DT NN|BODY_1:BODY_3|0
+our multi-agent system|PRP$ JJ NN|BODY_2|0
+each task tj|DT NN NN|BODY_7|0
+shared resources|VBN NNS|BODY_6|0
+all resource units|DT NN NNS|BODY_1|0
+a limited number|DT JJ NN|BODY_4|0
+a certain amount|DT JJ NN|BODY_5|0
+a limited amount|DT JJ NN|BODY_6|0
+the case|DT NN|BODY_13:BODY_8|0
+resource overload [11]|NN JJ NN|BODY_5|0
+such self-managing capabilities|JJ JJ NNS|BODY_1|0
+unreliable resource providers|JJ NN NNS|BODY_5|0
+the simplest case|DT JJS NN|BODY_1|0
+the increasing popularity|DT VBG NN|BODY_1|0
+galstyan et al|NNP NNP JJ|BODY_1|0
+the system [21]|DT NN NN|BODY_6|0
+a task ti|DT NN NN|BODY_1|0
+a promising kind|DT JJ NN|BODY_1|0
+real stock markets|JJ NN NNS|BODY_5|0
+buyya et al|NNP NNP NN|BODY_1|0
+all incoming requests|DT JJ NNS|BODY_1|0
+the collective action|DT JJ NN|BODY_1|0
+self-organising resource allocation|JJ NN NN|BODY_1|0
+past resource allocations|JJ JJ NNS|BODY_4|0
+the sixth intl|DT JJ NN|BODY_3|0
+a mobile agent|DT JJ NN|BODY_1|0
+the resource utilisation|DT NN NN|BODY_1|0
+a performance evaluation|DT NN NN|BODY_6|0
+network traffic overhead|NN NN NN|BODY_7|0
+its execution server|PRP$ NN NN|BODY_7|0
+all allocation requests|DT NN NNS|BODY_15|0
+all resource providers|DT NN NNS|BODY_9|0
+the hierarchical structure|DT JJ NN|BODY_7|0
+different topologies [17]|JJ NNS NNS|BODY_4|0
+a homogeneous system|DT JJ NN|BODY_2|0
+servers|NNS|BODY_5:BODY_2:BODY_4|0
+past allocation decisions|JJ NN NNS|BODY_7|0
+complex system theory|JJ NN NN|BODY_5|0
+reinforcement learning [18]|NN NN NN|BODY_4|0
+the basic concept|DT JJ NN|BODY_1|0
+a system|DT NN|BODY_7|1
+various system sizes|JJ NN NNS|BODY_6|0
+another distributed technique|DT VBN NN|BODY_1|0
+the price constraints|DT NN NNS|BODY_7|0
+prior individual experience|JJ JJ NN|BODY_6|0
+solutions|NNS|BODY_2:BODY_1|1
+brian arthur [2]|JJ NN NN|BODY_1|0
+the job|DT NN|BODY_1:BODY_3|0
+the execution|DT NN|BODY_2:BODY_4:BODY_7|0
+free resources|JJ NNS|BODY_4|0
+an environment|DT NN|BODY_4|0
+resource management|NN NN|BODY_2|0
+software agents|NN NNS|BODY_2|0
+market models|NN NNS|BODY_3|0
+our model|PRP$ NN|BODY_2|0
+real metrics|JJ NNS|BODY_3|0
+resource loads|NN NNS|BODY_5|1
+budget constraints|NN NNS|BODY_5:BODY_8|0
+the need|DT NN|BODY_3|1
+inductive reasoning|JJ NN|BODY_5:BODY_3|0
+time t|NN NN|BODY_3:BODY_10|0
+execution location|NN NN|BODY_2|0
+t ã—t|NN NN|BODY_5|0
+global knowledge|JJ NN|BODY_2|0
+this mechanism|DT NN|BODY_1:BODY_2|0
+energy consumption|NN NN|BODY_8|0
+sensor networks|NN NNS|BODY_2|0
+autonomous agents|JJ NNS|BODY_2|0
+the paper|DT NN|BODY_2|0
+additional communication|JJ NN|BODY_4|1
+resource allocation|NN NN|BODY_1:BODY_4|0
+resource consumers|NN NNS|BODY_2|0
+game theory|NN NN|BODY_4|0
+some agents|DT NNS|BODY_2|0
+different information|JJ NN|BODY_4|0
+which task|WDT NN|BODY_6|1
+[3 ]|JJ SYM|BODY_2|0
+a migration|DT NN|BODY_2|0
+other agents|JJ NNS|BODY_6|0
+arthur [2|NN NNS|BODY_2|0
+the model|DT NN|BODY_2|0
+= {t1|SYM CD|BODY_10|0
+aram )|NN -RRB-|BODY_2|0
+this model|DT NN|BODY_2|0
+these agents|DT NNS|BODY_2|0
+stock markets|NN NNS|BODY_2|0
+main focus|JJ NN|BODY_6|0
+reinforcement learning|NN NN|BODY_4|0
+load balancing|NN NN|BODY_8|0
+the existence|DT NN|BODY_2|0
+our approach|PRP$ NN|BODY_1|0
+cheap resources|JJ NNS|BODY_2|0
+self-organisation techniques|NN NNS|BODY_3|0
+the optimisation|DT NN|BODY_7|0
+multi-agent systems|JJ NNS|BODY_3|0
+the internet|DT NN|BODY_4|0
+limited resources|JJ NNS|BODY_8|1
+the state|DT NN|BODY_3|0
+there|EX|BODY_1|0
+mobile agents|JJ NNS|BODY_6|1
+each server|DT NN|BODY_4|0
+repetitive games|JJ NNS|BODY_3|0
+an overview|DT NN|BODY_5|0
+a host|DT NN|BODY_6|0
+agents [11]|NNS NNS|BODY_4|1
+full knowledge|JJ NN|BODY_2|0
+computer science|NN NN|BODY_4|1
+focus|NN|BODY_4|1
+available resources|JJ NNS|BODY_4|0
+t3 t4|DT NNS|BODY_8|0
+= n|SYM NN|BODY_3|0
+an illustration|DT NN|BODY_10|0
+trading resources|NN NNS|BODY_4|0
+a task|DT NN|BODY_4|0
+considerable work|JJ NN|BODY_2|0
+nimrod-g [6|JJ NNS|BODY_5|0
+the information|DT NN|BODY_3|0
+distributed solutions|VBN NNS|BODY_2|0
+its execution|PRP$ NN|BODY_4|0
+these changes|DT NNS|BODY_6|0
+this section|DT NN|BODY_3|0
+our algorithm|PRP$ NN|BODY_2|0
+job deadlines|NN NNS|BODY_7|0
+the environment|DT NN|BODY_3|0
+the access|DT NN|BODY_4|0
+a self-organisation|DT NN|BODY_3|0
+ls (ai|NNS NNS|BODY_2|0
+a solution|DT NN|BODY_2|0
+system resources|NN NNS|BODY_10|0
+their lifetime|PRP$ NN|BODY_3|0
+equation 1|NN CD|BODY_4|0
+the fine-tuning|DT NN|BODY_3|0
+the task|DT NN|BODY_4|0
+the network|DT NN|BODY_3|0
+dynamic systems|JJ NNS|BODY_3|0
+a server|DT NN|BODY_3|0
+message exchange|NN NN|BODY_4|0
+the availability|DT NN|BODY_5|0
+a lot|DT NN|BODY_6|0
+server resources|NN NNS|BODY_3|0
+a number|DT NN|BODY_2|0
+all resources|DT NNS|BODY_7|0
+[14]|NNP|BODY_2|0
+u(ti|NNS|BODY_2|0
+a network|DT NN|BODY_4|0
+all tasks|DT NNS|BODY_11|0
+e .g.|NN NN|BODY_7|0
+no way|DT NN|BODY_2|0
+tasks ti|NNS NNS|BODY_3|0
+their decisions|PRP$ NNS|BODY_2|0
+general|NN|BODY_3|0
+the set|DT NN|BODY_14|0
+a facilitator|DT NN|BODY_3|0
+t|NN|BODY_2|0
+capacity|NN|BODY_3|0
+two resources|CD NNS|BODY_4|0
+who|WP|BODY_3|0
+this environment|DT NN|BODY_4|0
+changing capacities|VBG NNS|BODY_3|0
+a broker|DT NN|BODY_5|0
+principles|NNS|BODY_4|0
+provided resources|VBN NNS|BODY_2|0
+requested resources|VBN NNS|BODY_4|0
+a resource|DT NN|BODY_5|0
+computing resources|NN NNS|BODY_9|0
+consideration|NN|BODY_4|0
+a collection|DT NN|BODY_1|0
+clearwater [10]|NN NN|BODY_4|0
+follows|VBZ|BODY_3|0
+the task |DT NN|BODY_1|0
+these approaches|DT NNS|BODY_1|0
+the remainder|DT NN|BODY_1|0
+joint conf|JJ NN|BODY_1|0
+network nodes|NN NNS|BODY_9|0
+neighbour agents|NN NNS|BODY_6|0
+recent years|JJ NNS|BODY_5|0
+those coordinators|DT NNS|BODY_1|0
+full capacity|JJ NN|BODY_7|0
+ill-defined problems|JJ NNS|BODY_6|0
+their environment|PRP$ NN|BODY_5|0
+this case|DT NN|BODY_1|0
+[16]|NN|BODY_5|0
+the principles|DT NNS|BODY_1|0
+providers|NNS|BODY_4|0
+the grid|DT NN|BODY_7|0
+those servers|DT NNS|BODY_7|0
+the value|DT NN|BODY_1|0
+an example|DT NN|BODY_1|0
+server tasks|NN NNS|BODY_7|0
+an agent|DT NN|BODY_1|0
+section 3|NN CD|BODY_1|0
+rationality|NN|BODY_4|0
+job unit|NN NN|BODY_7|0
+all control|DT NN|BODY_1|0
+grids|NNS|BODY_3|0

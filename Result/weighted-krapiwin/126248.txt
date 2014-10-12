@@ -1,0 +1,474 @@
+that|WDT|BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_6:BODY_5:ABSTRACT_5:BODY_15:ABSTRACT_8:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+it|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+this|DT|BODY_5:BODY_2:BODY_1:ABSTRACT_1:BODY_7|0
+one|CD|BODY_5:ABSTRACT_8:BODY_2:BODY_1:ABSTRACT_1:BODY_4:BODY_7|2
+a decomposition slice|DT NN NN|BODY_6:BODY_1:BODY_3:BODY_4:ABSTRACT_7|0
+the original program|DT JJ NN|BODY_6:BODY_5:ABSTRACT_2:BODY_1:BODY_2:BODY_3|0
+a proposed change|DT VBN NN|BODY_5:ABSTRACT_3|2
+a program slice|DT NN NN|ABSTRACT_4:BODY_2:BODY_1|0
+the decomposition|DT NN|BODY_5:ABSTRACT_6:BODY_2:ABSTRACT_1|1
+the lattice|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+a set|DT NN|ABSTRACT_2:BODY_3:BODY_4|0
+single variable decomposition slices|JJ JJ NN NNS|ABSTRACT_2|0
+those statements and variables|DT NNS CC NNS|ABSTRACT_4|0
+the software maintenance problem|DT NN NN NN|ABSTRACT_2|0
+these semantically consistent changes|DT RB JJ NNS|ABSTRACT_1|0
+a single component|DT JJ NN|ABSTRACT_5|1
+a slice-based decomposition|DT JJ NN|ABSTRACT_5|0
+a straightforward technique|DT JJ NN|ABSTRACT_3|0
+we|PRP|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|4
+the slice|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+the complement|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7|3
+the maintainer|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_9|2
+the program|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_38:BODY_4:BODY_10:BODY_7:BODY_8|0
+slice|NN|BODY_12:BODY_5:BODY_34:BODY_28:BODY_22:BODY_16:BODY_26:BODY_2:BODY_7:BODY_20|0
+the decomposition slice|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+there|EX|BODY_12:BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|1
+a strongly dependent slice|DT RB JJ NN|BODY_3|1
+decomposition slices|NN NNS|BODY_6:BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+the change|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_8|0
+a slice|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+at least one statement|IN JJS CD NN|BODY_2|0
+the number|DT NN|BODY_12:BODY_2:BODY_10:BODY_7:BODY_8|0
+an output-restricted decomposition slice|DT JJ NN NN|BODY_2:BODY_4|0
+'s slice metric terminology|POS NN JJ NN|BODY_2|0
+'s [23 ] algorithm|POS CD SYM NN|BODY_3|0
+[26] strong dependence corresponds|RB JJ NN NNS|BODY_3|0
+the insertion sequence numbers|DT NN NN NNS|BODY_7|0
+the unix utility wc|DT NN NN NN|BODY_5|0
+the data flow analysis|DT NNS NN NN|BODY_2|0
+statements 8 , 10|NNS CD , CD|BODY_2|0
+s(v ) and s(w|NN -RRB- CC NN|BODY_2|0
+a two step process|DT CD NN NN|BODY_2|0
+the maximal decomposition slices|DT JJ NN NNS|BODY_2|0
+the data flow data|DT NNS NN NNS|BODY_3|0
+independent control flow statements|JJ NN NN NNS|BODY_37|0
+a dependent assignment statement|DT JJ NN NN|BODY_5|0
+a single variable yields|DT JJ JJ NNS|BODY_2|0
+side effects regression testing|NN NNS NN NN|BODY_16|0
+the surrounding control statements|DT VBG NN NNS|BODY_3|0
+a decomposition slice corresponds|DT NN NN NNS|BODY_31|0
+a bare bones version|DT JJ NNS NN|BODY_4|0
+the addition and deletion|DT NN CC NN|BODY_3|0
+a decomposition slice captures|DT NN NN NNS|BODY_1|0
+a given control flow|DT VBN NN NN|BODY_3|0
+an output-restricted slice s(v|DT JJ NN NN|BODY_2|0
+a slice independent statement|DT NN JJ NN|BODY_2|0
+program 6 future directions|NN CD NN NNS|BODY_7|0
+another decomposition slice )|DT NN NN -RRB-|BODY_5|0
+an independent statement corresponds|DT JJ NN NNS|BODY_2|0
+high overlap and parallelism|JJ NN CC NN|BODY_2|0
+a dependent variable ,|DT JJ JJ ,|BODY_5|0
+( nw ,26 )|-LRB- NN CD -RRB-|BODY_13|0
+a modification redefines values|DT NN NNS NNS|BODY_7|0
+a highly nontrivial activity|DT RB JJ NN|BODY_2|0
+the only useful decompositions|DT JJ JJ NNS|BODY_2|0
+the initially defined values|DT RB VBN NNS|BODY_6|0
+our discussion output statements|PRP$ NN NN NNS|BODY_4|0
+( nl ,26 )|-LRB- NN CD -RRB-|BODY_21|0
+all the other slices|PDT DT JJ NNS|BODY_2|0
+all its output statements|DT PRP$ NN NNS|BODY_3|0
+) and s(w )|-RRB- CC NN -RRB-|BODY_5|0
+an independent variable|DT JJ NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+all other language constructs|DT JJ NN NNS|BODY_4|0
+if-then-else and while statements|JJ CC IN NNS|BODY_3|0
+korel and laski [20|NN CC JJ NN|BODY_1|0
+program debugging and testing|NN NN CC NN|BODY_5|0
+a direct sum decomposition|DT JJ NN NN|BODY_7|0
+the complement and effect|DT NN CC NN|BODY_5|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+an arbitrary line number|DT JJ NN NN|BODY_4|0
+their dependent code sections|PRP$ JJ NN NNS|BODY_3|0
+a semantically constrained problem|DT RB JJ NN|BODY_4|0
+the following two approaches|DT VBG CD NNS|BODY_3|0
+variable a ( figure|JJ DT -LRB- NN|BODY_8|0
+dependent variable sample program|JJ JJ NN NN|BODY_10|0
+a data flow technique|DT NN NN NN|BODY_2|0
+no independent decomposition slices|DT JJ NN NNS|BODY_2|0
+the input text file|DT NN NN NN|BODY_9|0
+these two disjoint domains|DT CD JJ NNS|BODY_31|0
+the slice variable id|DT NN JJ NN|BODY_8|0
+4 new control statements|CD JJ NN NNS|BODY_1|0
+the unchanged dependent statements|DT JJ JJ NNS|BODY_1|0
+any particular slicing technique|DT JJ NN NN|BODY_4|0
+the original slice variable|DT JJ NN JJ|BODY_6|0
+their respective independent statements|PRP$ JJ JJ NNS|BODY_2|0
+that independent decomposition slices|DT JJ NN NNS|BODY_1|0
+these worst case times|DT JJS NN NNS|BODY_1|0
+a maximal decomposition slice|DT NN NN NN|BODY_9|0
+newly added control flow|RB VBN NN NN|BODY_4|0
+rule 1 independent statements|NN CD JJ NNS|BODY_5|0
+all the maximal slices|DT DT JJ NNS|BODY_5|0
+the modified program compilable|DT JJ NN JJ|BODY_3|0
+two or more slices|CD CC JJR NNS|BODY_3|0
+the associated sequence numbers|DT JJ NN NNS|BODY_4|0
+figures 2 and 5|NNS CD CC CD|BODY_4|0
+rule 2 assignment statements|NN CD NN NNS|BODY_1|0
+the direct sum nature|DT JJ NN NN|BODY_1|0
+a previously correct program|DT RB JJ NN|BODY_8|0
+a particular slicing method|DT JJ NN NN|BODY_3|0
+a common representation scheme|DT JJ NN NN|BODY_1|0
+the use-definition [18] chains|DT NN NN NNS|BODY_1|0
+a complete independent program|DT JJ JJ NN|BODY_1|0
+the interprocedural slicing algorithms|DT JJ NN NNS|BODY_1|0
+the top three disasters|DT JJ CD NNS|BODY_1|0
+particular , s(v )|JJ , JJ -RRB-|BODY_1|0
+rule 3 logical expressions|NN CD JJ NNS|BODY_1|0
+real ) programs impractical|JJ -RRB- NNS NN|BODY_5|0
+lines 10 and 11|NNS CD CC CD|BODY_5|0
+independent and dependent statements|JJ CC JJ NNS|BODY_7|0
+any other decomposition slice|DT JJ NN NN|BODY_6:BODY_4:BODY_7|0
+4.1 modifying decomposition slices|CD NN NN NNS|BODY_1|0
+a new sequence number|DT JJ NN NN|BODY_3|0
+a program slice [36]|DT NN NN NN|BODY_6|0
+end case 2 end|VB NN CD VB|BODY_1|0
+)|-RRB-|BODY_6:BODY_5:BODY_34:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+t|NN|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|3
+the code|DT NN|BODY_5:BODY_1:BODY_4:BODY_9|1
+a maximal slice|DT JJ NN|BODY_13:BODY_3|1
+statements|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+slices|NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+a program|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_7:BODY_8|0
+independent statements|JJ NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the decomposition slices|DT NN NNS|BODY_12:BODY_5:BODY_1:BODY_2|0
+s(v|NN|BODY_16:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|1
+a starting point|DT VBG NN|BODY_4|1
+a and b|DT CC NN|BODY_5:BODY_2:BODY_4:BODY_8|0
+our program slicing|PRP$ NN NN|BODY_1|1
+the semantic context|DT JJ NN|BODY_1|1
+the partial function|DT JJ NN|BODY_5:BODY_3:BODY_4|0
+.e|NN|BODY_4:BODY_8|0
+no side effects|DT NN NNS|BODY_26:BODY_2|0
+output statements|NN NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_7:BODY_8:BODY_9|0
+the union|DT NN|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4|0
+respect|NN|BODY_6:BODY_5:BODY_36:BODY_3:BODY_7|0
+( inword|-LRB- NN|BODY_6:BODY_5:BODY_27:BODY_23:BODY_10|0
+s(v )|NNS -RRB-|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+independence and dependence|NN CC NN|BODY_2:BODY_3|0
+an independent statement|DT JJ NN|BODY_1:BODY_2|0
+the modified program|DT JJ NN|BODY_2:BODY_3|0
+the last statement|DT JJ NN|BODY_11:BODY_10:BODY_8:BODY_9|0
+the slice sequence|DT NN NN|BODY_3:BODY_4|0
+the modified slice|DT JJ NN|BODY_6:BODY_2:BODY_4|0
+a dependent variable|DT JJ JJ|BODY_1:BODY_3|0
+the computation|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the sequence number|DT NN NN|BODY_2:BODY_3|0
+the slice s(t|DT NN NN|BODY_1:BODY_4|0
+any other slice|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+dead code elimination|JJ NN NN|BODY_6:BODY_2|0
+slice independent statements|NN JJ NNS|BODY_2:BODY_1|0
+the editing process|DT NN NN|BODY_2:BODY_3|0
+output-restricted decomposition slices|JJ NN NNS|BODY_6:BODY_3|0
+the independent variables|DT JJ NNS|BODY_2:BODY_8|0
+the new variable|DT JJ NN|BODY_2:BODY_4|0
+the new statements|DT JJ NNS|BODY_3|0
+a module replacement|DT JJ NN|BODY_2|0
+all relevant computations|DT JJ NNS|BODY_2|0
+the changed statements|DT VBN NNS|BODY_2|0
+the new statement|DT JJ NN|BODY_2|0
+22] use slices|CD NN NNS|BODY_3|0
+the slice complement|DT NN NN|BODY_5:BODY_2|0
+all its statements|DT PRP$ NNS|BODY_5:BODY_3|0
+'s metric terminology|POS JJ NN|BODY_2|0
+any dependent statement|DT JJ NN|BODY_2:BODY_4|0
+worst case assumption|JJS NN NN|BODY_2|0
+the external variables|DT JJ NNS|BODY_3|0
+[26] independence corresponds|JJ NN NNS|BODY_3|0
+whether the maintenance|IN DT NN|BODY_6|0
+the dependent statements|DT JJ NNS|BODY_5:BODY_3|0
+the term statement|DT NN NN|BODY_8|0
+the variable v|DT JJ NN|BODY_1:BODY_4:BODY_7|0
+the changed value|DT JJ NN|BODY_3|0
+floating point errors|VBG NN NNS|BODY_8|0
+the seminal work|DT JJ NN|BODY_2|0
+the incremental techniques|DT JJ NNS|BODY_4|0
+the new name|DT JJ NN|BODY_5:BODY_2|0
+the following development|DT JJ NN|BODY_2|0
+the original criteria|DT JJ NNS|BODY_2|0
+the word counter|DT NN NN|BODY_7|0
+an arbitrary variable|DT JJ NN|BODY_3|0
+the undecidable problem|DT JJ NN|BODY_8|0
+the complement sequence|DT NN NN|BODY_5:BODY_3:BODY_7|0
+a program m|DT NN NN|BODY_13|0
+s( c )|NN NN -RRB-|BODY_5|0
+his private list|PRP$ JJ NN|BODY_2|0
+a dependent statement|DT JJ NN|BODY_2|0
+( nw )|-LRB- NN -RRB-|BODY_2|0
+an axiomatic consideration|DT JJ NN|BODY_1|0
+an interactive tool|DT JJ NN|BODY_1|0
+some slice-based metrics|DT JJ NNS|BODY_2|0
+the critical instructions|DT JJ NNS|BODY_2|0
+the new model|DT JJ NN|BODY_1|0
+a denotational approach|DT JJ NN|BODY_2|0
+the robust representation|DT JJ NN|BODY_7|0
+any new variables|DT JJ NNS|BODY_3|0
+white  symbols|JJ JJ NNS|BODY_5|0
+the modification problem|DT NN NN|BODY_2:BODY_3|0
+a sensible way|DT JJ NN|BODY_7|0
+any control flow|DT NN NN|BODY_2|0
+a particular statement|DT JJ NN|BODY_8|0
+the usual mechanisms|DT JJ NNS|BODY_4|0
+this running time|DT VBG NN|BODY_2|0
+an interactive slicer|DT JJ NN|BODY_2|0
+the existing system|DT VBG NN|BODY_2|0
+existing software systems|VBG NN NNS|BODY_4|0
+the variable name|DT JJ NN|BODY_3|0
+only the change|RB DT NN|BODY_3|0
+certain line numbers|JJ NN NNS|BODY_7|0
+the entire program|DT JJ NN|BODY_5:BODY_7:BODY_9|0
+the code )|DT NN -RRB-|BODY_4|0
+no independent statements|DT JJ NNS|BODY_2:BODY_3|0
+a partial explanation|DT JJ NN|BODY_2|0
+the source program|DT NN NN|BODY_5|0
+slice dependent statements|NN JJ NNS|BODY_2:BODY_4|0
+the previous section|DT JJ NN|BODY_2|0
+revalidate figure 19|JJ NN CD|BODY_18|0
+a similar argument|DT JJ NN|BODY_36|0
+an assignment statement|DT NN NN|BODY_1:BODY_3|0
+no unseen linkages|DT JJ NNS|BODY_7|0
+the semantic constraints|DT JJ NNS|BODY_3|0
+a mean ratio|DT JJ NN|BODY_6|0
+two alternative approaches|CD JJ NNS|BODY_2|0
+more care needs|JJR NN NNS|BODY_5|0
+the independent part|DT JJ NN|BODY_2:BODY_4|0
+( 1 input|-LRB- CD NN|BODY_29|0
+only statement 19|RB NN CD|BODY_6|0
+the interested reader|DT JJ NN|BODY_4|0
+how many statements|WRB JJ NNS|BODY_3|0
+only one line|RB CD NN|BODY_3|0
+change control system|NN NN NN|BODY_6|0
+a given variable|DT VBN JJ|BODY_3|0
+control flow statements|NN NN NNS|BODY_1|0
+no other slice|DT JJ NN|BODY_3|0
+sequence number )=2|NN NN NNS|BODY_3|0
+the complement intact|DT NN JJ|BODY_3|0
+the preceding techniques|DT VBG NNS|BODY_3|0
+the required change|DT JJ NN|BODY_1|0
+the top three|DT JJ CD|BODY_1|0
+code test change|NN NN NN|BODY_12|0
+component test change|NN NN NN|BODY_21|0
+the slice )|DT NN -RRB-|BODY_2|0
+the computational integrity|DT JJ NN|BODY_10|0
+the development team|DT NN NN|BODY_6|0
+the complement (|DT NN -LRB-|BODY_32|0
+the goal-question-metric paradigm|DT JJ NN|BODY_2|0
+only variable f|RB JJ NN|BODY_2|0
+ s(v )|JJ NN -RRB-|BODY_5|0
+an explicit reference|DT JJ NN|BODY_6|0
+control dependent statements|NN JJ NNS|BODY_2|0
+the least value|DT JJS NN|BODY_2|0
+the paper )|DT NN -RRB-|BODY_11|0
+nw and inword|NN CC NN|BODY_3|0
+any slicing algorithm|DT NN NN|BODY_2|0
+the complementary criteria|DT JJ NNS|BODY_6|0
+the change (|DT NN -LRB-|BODY_3|0
+a single digit|DT JJ NN|BODY_7|0
+a control statement|DT NN NN|BODY_6|0
+thus their algorithm|RB PRP$ NN|BODY_6|0
+satisfaction documentation code|NN NN NN|BODY_24|0
+the deliverable products|DT JJ NNS|BODY_4|0
+any side effects|DT NN NNS|BODY_5|0
+neither control flow|DT NN NN|BODY_11|0
+the slicing algorithms|DT NN NNS|BODY_3|0
+any eliminated variables|DT VBN NNS|BODY_4|0
+some specified subset|DT VBN NN|BODY_8|0
+( nc,26 )|-LRB- NN -RRB-|BODY_17|0
+target independent variables|NN JJ NNS|BODY_2|0
+[m2m s(m )|JJ NN -RRB-|BODY_4|0
+the underlying method|DT JJ NN|BODY_8|0
+the added advantage|DT VBN NN|BODY_2|0
+the the domain|DT DT NN|BODY_3|0
+the binary relation|DT JJ NN|BODY_11|0
+n e log(e|NN NN NN|BODY_5|0
+the computations meet|DT NNS VBP|BODY_5|0
+the modified code|DT JJ NN|BODY_8|0
+a variable precludes|DT JJ NNS|BODY_3|0
+an output statement|DT NN NN|BODY_4|0
+the principle benefits|DT NN NNS|BODY_2|0
+these decomposition slices|DT NN NNS|BODY_7|0
+the the observation|DT DT NN|BODY_4|0
+the current discussion|DT JJ NN|BODY_4|0
+more refined slices|JJR JJ NNS|BODY_6|0
+a particular language|DT JJ NN|BODY_4|0
+the output values|DT NN NNS|BODY_7|0
+the central premise|DT JJ NN|BODY_5|0
+the aforementioned methods|DT JJ NNS|BODY_3|0
+a finer granularity|DT NN NN|BODY_7|0
+the slicing definitions|DT JJ NNS|BODY_6|0
+a 3 int|DT CD NN|BODY_17|0
+b 3 int|NN CD NN|BODY_29|0
+e 3 int|NN CD NN|BODY_23|0
+the merged program|DT JJ NN|BODY_2|0
+more semantic information|JJR JJ NN|BODY_8|0
+' slicing techniques|POS NN NNS|BODY_3|0
+maximal decomposition slices|JJ NN NNS|BODY_1:BODY_3|0
+the  complement|DT NN NN|BODY_3|0
+common , computed|JJ , JJ|BODY_6|0
+slicing|VBG|BODY_6:BODY_1:BODY_3:BODY_4|0
+the current state|DT JJ NN|BODY_4|0
+restricted decomposition slices|VBN NN NNS|BODY_4|0
+the assignment statement|DT NN NN|BODY_3|0
+[33 , 35]|CD , CD|BODY_3|0
+the crucial differences|DT JJ NNS|BODY_5|0
+10 and 11|CD CC CD|BODY_2|0
+the given computation|DT VBN NN|BODY_4|0
+the variant programs|DT JJ NNS|BODY_5|0
+these semantic constraints|DT JJ NNS|BODY_4|0
+such a change|PDT DT NN|BODY_1|0
+the previous subsection|DT JJ NN|BODY_6|0
+a base program|DT NN NN|BODY_2|0
+choi et al|FW FW NN|BODY_1|0
+debugging parallel programs|JJ JJ NNS|BODY_4|0
+slice ( figure|NN -LRB- NN|BODY_1|0
+the starred (|DT JJ -LRB-|BODY_1|0
+the current context|DT JJ NN|BODY_4|0
+the slicing technique|DT NN NN|BODY_7|0
+some other place|DT JJ NN|BODY_7|0
+one more set|CD JJR NN|BODY_3|0
+this second approach|DT JJ NN|BODY_2|0
+some other piece|DT JJ NN|BODY_12|0
+the modified variable|DT VBN NN|BODY_6|0
+any defining computation|DT NN NN|BODY_8|0
+in most cases|IN JJS NNS|BODY_4|0
+exactly one line|RB CD NN|BODY_3|0
+the logical expression|DT JJ NN|BODY_4|0
+this program p|DT NN NN|BODY_2|0
+a line 8|DT NN CD|BODY_4|0
+a decomposition criteria|DT NN NNS|BODY_6|0
+weiser , lyle|NN , NN|BODY_9|0
+the maximal ones|DT JJ NNS|BODY_9|0
+a code change|DT NN NN|BODY_11|0
+the above definition|DT JJ NN|BODY_3|0
+a special section|DT JJ NN|BODY_1|0
+independent decomposition slices|JJ NN NNS|BODY_9|0
+the output statements|DT NN NNS|BODY_4:BODY_7|0
+the slice statements|DT NN NNS|BODY_2|0
+a binary relation|DT JJ NN|BODY_3|0
+a and b.|DT CC VBG|BODY_15|0
+the possible effects|DT JJ NNS|BODY_5|0
+nc ( fig|NN -LRB- NN|BODY_6:BODY_4|0
+the given criteria|DT VBN NNS|BODY_35|0
+no ripple effects|DT JJ NNS|BODY_7|0
+this complementary slice|DT JJ NN|BODY_4|0
+certain crucial statements|JJ JJ NNS|BODY_4|0
+this unsolvable problem|DT JJ NN|BODY_2|0
+the following examples|DT VBG NNS|BODY_2|0
+a decomposition technique|DT NN NN|BODY_2|0
+the informal definition|DT JJ NN|BODY_2|0
+a peculiar program|DT JJ NN|BODY_7|0
+a print statement|DT NN NN|BODY_7|0
+the variable version|DT JJ NN|BODY_2|0
+such a way|JJ DT NN|BODY_2|0
+the full impact|DT JJ NN|BODY_1|0
+a clear understanding|DT JJ NN|BODY_2|0
+the driving motivation|DT VBG NN|BODY_1|0
+the sequence numbering|DT NN NN|BODY_2|0
+the individual statements|DT JJ NNS|BODY_2|0
+the decomposition variable|DT NN JJ|BODY_9|0
+customer satisfaction [12]|NN NN NN|BODY_6|0
+the line numbering|DT NN NN|BODY_7|0
+a substantial burden|DT JJ NN|BODY_2|0
+the unneeded statements|DT JJ NNS|BODY_4|0
+the opposite view|DT JJ NN|BODY_2|0
+all the slices|DT DT NNS|BODY_1|0
+output variable v|NN JJ FW|BODY_8|0
+13 and 14|CD CC CD|BODY_2|0
+6 and 15-20|CD CC CD|BODY_2|0
+a semantic context|DT JJ NN|BODY_3|0
+a dependent vari-|DT JJ NNS|BODY_6|0
+the added difficulty|DT JJ NN|BODY_1|0
+reference dependent variables|NN JJ NNS|BODY_38|0
+background program slicing|NN NN NN|BODY_1|0
+decomposition slice s(v|NN NN NNS|BODY_6|0
+executable program slices|JJ NN NNS|BODY_4|0
+the analogous definitions|DT JJ NNS|BODY_1|0
+the value|DT NN|BODY_12:BODY_5:BODY_2:BODY_3:BODY_9|0
+the maximal slices|DT JJ NNS|BODY_3|0
+a systematic fashion|DT JJ NN|BODY_4|0
+the given variable|DT VBN JJ|BODY_8|0
+nl ( fig|NN -LRB- NN|BODY_4|0
+6 and 5|CD CC CD|BODY_5|0
+the new code|DT JJ NN|BODY_1|0
+the particular language|DT JJ NN|BODY_7|0
+only independent statements|RB JJ NNS|BODY_1|0
+the modification changes|DT NN NNS|BODY_1|0
+the extracted slice|DT VBN NN|BODY_4|0
+the independent statements|DT JJ NNS|BODY_4|0
+3 using slices|CD VBG NNS|BODY_1|0
+a technology transfer|DT NN NN|BODY_6|0
+program dependence graphs|NN NN NNS|BODY_8|0
+the usual method|DT JJ NN|BODY_1|0
+( nc )|-LRB- NN -RRB-|BODY_7|0
+the second approach|DT JJ NN|BODY_1|0
+an executable program|DT JJ NN|BODY_3|0
+the first step|DT JJ NN|BODY_1|0
+any dead code|DT JJ NN|BODY_8|0
+a slicing criteria|DT NN NNS|BODY_3|0
+new control statements|JJ NN NNS|BODY_1|0
+this short list|DT JJ NN|BODY_1|0
+a significant role|DT JJ NN|BODY_5|0
+a program decomposition|DT NN NN|BODY_3|0
+its original domain|PRP$ JJ NN|BODY_6|0
+the program computes|DT NN NNS|BODY_4|0
+the decomposition ideas|DT NN NNS|BODY_1|0
+the independent domains|DT JJ NNS|BODY_6|0
+the changed slice|DT JJ NN|BODY_1|0
+a certain threshold|DT JJ NN|BODY_11|0
+simple to complex|JJ TO JJ|BODY_3|0
+strongly dependent slices|RB JJ NNS|BODY_3|0
+the containing slice|DT VBG NN|BODY_7|0
+the constituent parts|DT JJ NNS|BODY_11|0
+the maintenance team|DT NN NN|BODY_7|0
+any control statements|DT NN NNS|BODY_1|0
+the replaced module|DT VBN NN|BODY_3|0
+the system specifications|DT NN NNS|BODY_4|0
+the decomposition principles|DT NN NNS|BODY_3|0
+a text file|DT NN NN|BODY_6|0
+partially order d|RB NN NN|BODY_1|0
+the altered code|DT JJ NN|BODY_1|0
+a reuse library|DT NN NN|BODY_5|0
+a slice s(v|DT NN NN|BODY_1|0
+the other component|DT JJ NN|BODY_1|0
+newly added code|RB VBN NN|BODY_1|0
+the resulting object|DT VBG NN|BODY_7|0
+2 ) will|CD -RRB- NN|BODY_1|0
+variables and e|NNS CC NN|BODY_9|0
+a reps slice|DT NNS NN|BODY_1|0
+the decomposition yields|DT NN NNS|BODY_1|0
+both maximal slices|DT JJ NNS|BODY_4|0
+the maximal elements|DT JJ NNS|BODY_2|0
+the actual decompositions|DT JJ NNS|BODY_6|0
+the maximal slice|DT NN NN|BODY_14|0
+the original change|DT JJ NN|BODY_4|0
+the original complement|DT JJ NN|BODY_4|0
+the following example|DT VBG NN|BODY_1|0
+a new variable|DT JJ JJ|BODY_3|0
+nw ( fig|NN -LRB- NN|BODY_2:BODY_4|0
+such a statement|PDT DT NN|BODY_1|0
+the element d|DT NN NN|BODY_1|0
+the slicing principles|DT JJ NNS|BODY_2|0
+a statement number|DT NN NN|BODY_3|0
+the the variable|DT DT JJ|BODY_8|0
+2. e 6=|. NN NN|BODY_1|0
+this added statement|DT VBN NN|BODY_1|0
+c ( fig|NN -LRB- NN|BODY_2|0
+inword ( fig|NN -LRB- NN|BODY_3|0
+a brief reprise|DT JJ NN|BODY_1|0
+a variable|DT JJ|BODY_1:BODY_2:BODY_3:BODY_4|0
+a change|DT NN|BODY_6:BODY_1:BODY_2|0
+1|CD|BODY_5:BODY_2:BODY_4|0
+dead code|JJ NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+modifications|NNS|BODY_6:BODY_5:BODY_1:BODY_4:BODY_8|0
+them|PRP|BODY_6:BODY_5:BODY_2:BODY_4|0
+its complement|PRP$ NN|BODY_5:BODY_1:BODY_2:BODY_8|0
+f|NN|BODY_6:BODY_35:BODY_32:BODY_26:BODY_14:BODY_8:BODY_20|0
+the changes|DT NNS|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+program p|NN NN|BODY_2:BODY_4:BODY_7|0
+variables|NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+the variable|DT NN|BODY_6:BODY_10:BODY_4|0
+et al|NNP NN|BODY_2:BODY_3|0
+the statements|DT NNS|BODY_2:BODY_1:BODY_4|0
+this section|DT NN|BODY_6:BODY_2:BODY_3|0
+the tool|DT NN|BODY_2:BODY_7:BODY_9|0
+the example|DT NN|BODY_1:BODY_3:BODY_4|0

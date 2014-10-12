@@ -1,0 +1,500 @@
+ ----------------------------------------------------- 
+0. File: 102375.txt
+Gold: [[debugging, formal specification, parallel programming, inference mechanisms, consistency, design, program debugging, larch power, larch shared language specifications, checkability, concurrent algorithms, development, static semantics, theory containment]]
+Gen : [lp, language specifications, lsl, the lsl checker ), its design and development, a specification, lp proof obligations, larch interface specifications, a second tool, an extended example, these proof obligations, these other uses, a front-end to, lslc, lsl specifications, theory containment, the checking, the syntax, a set, three categories]
+102375.txt,0.29,0.27,0.28,0.0,0.0,0.0
+ ----------------------------------------------------- 
+1. File: 102808.txt
+Gold: [[linearization, wait-free synchronization]]
+Gen : [wait-free synchronization, a wait-free implementation, atomic read/write registers, a concurrent data object, no wait-free implementation, wait-free implementations, the other processes, a finite number, the execution speeds, objects, the standard message-passing primitives, much recent attention, simple universal objects, any sequential object, concurrent data structures, much recent work, a concensus protocol, classical synchronization primitives, one data object, operations]
+102808.txt,0.04,0.33,0.06,0.0,0.0,0.0
+ ----------------------------------------------------- 
+2. File: 103064.txt
+Gold: [[programming environments, software development environments, language centered environments, method-based environments, sociological metaphor, structure-oriented environments, toolkit environments]]
+Gen : [software development environments, models, policies, structures, mechanisms, this model, scale, the family, the model, a sociological metaphor, a general model, current software development environments, a previously published taxonomy, the important classes, {, the environment, the family model, the tools, the city model, the mechanisms]
+103064.txt,0.24,0.42,0.3,0.0,0.0,0.0
+ ----------------------------------------------------- 
+3. File: 103149.txt
+Gold: [[root finding, dense output, event location]]
+Gen : [special event location problems, the initial value problem, an event, an event function, ordinary differential equations, two fundamental difficulties, a larger task, the solution, a root, event functions, popular codes, only part, such problems, the capability, reliable solution, an algebraic function, the reliable solutions, one such task, certain useful kinds, odes )]
+103149.txt,0.04,0.17,0.07,0.0,0.0,0.0
+ ----------------------------------------------------- 
+4. File: 104888.txt
+Gold: [[linear programming, petri nets, marked graphs, ergodicity, incidence matrix, mono-T-semiflow net subclasses, persistent nets, synchronized queuing networks, throughput bounds, unique consistent firing count vector]]
+Gen : [bounds, the initial marking, the incidence matrix, an extension, the probability distributions, marked graphs, the mean values, a different perspective, the stochastic interpretation, a subclass, qualitative and quantitative theories, the proposed bounds, synchronized queuing networks, the considered subclasses, the stochastic cases, linear programming problems, the well-known subclass, the underlying net, the net model, upper and lower]
+104888.txt,0.34,0.5,0.41,0.0,0.0,0.0
+ ----------------------------------------------------- 
+5. File: 105529.txt
+Gold: [[pattern recognition, classification, probability, picture processing, statistics, parameter estimation, markov random field, AIC information criterion, causal Gaussian autoregressive model, coarse resolution, deterministic greedy algorithm, multiple resolution segmentation, posteriori probability, spatial correlation, statistical behavior, textured images, unsupervised texture segmentation, variance]]
+Gen : [the number, the parameters, textures, the image, the individual textures, the cluster parameters, multiple resolution segmentation, regions, clusters, an algorithm, their parameters, segmentation, coarse resolution, the data, the classification, an image, each pixel, the mean, the field, each resolution]
+105529.txt,0.63,0.29,0.4,0.0,0.0,0.0
+ ----------------------------------------------------- 
+6. File: 116694.txt
+Gold: [[pattern recognition, 2D image matching, 3D model, levenberg-marquardt method, arbitrary curved surfaces, curve fitting, model based pattern recognition, motion tracking, picture processing]]
+Gen : [convergence, the solution, model-based vision, arbitrary curved surfaces, the image measurements, a 3-d model, the levenberg-marquardt method, 2-d image features, objects, the ability, internal parameters, any number, the author, these techniques, unknown parameters, three-dimensional models, curved , parameterized objects, projection and model parameters, a much wider class, numerical stabilization methods]
+116694.txt,0.23,0.37,0.29,0.0,0.0,0.0
+ ----------------------------------------------------- 
+7. File: 122730.txt
+Gold: [[user interaction, delegation, object-oriented design, real-time animation, electronic books, interactive illustrations]]
+Gen : [the integration, objects, time, our system, the system, controllers, an object-oriented framework, interactive animation techniques, a variety, lazy evaluation, the use, the modeling, the mechanisms, this paper, interactive performance, control, cameras, intra-frame coherency, shape, change]
+122730.txt,0.14,0.27,0.18,0.0,0.0,0.0
+ ----------------------------------------------------- 
+8. File: 122744.txt
+Gold: [[differential geometry, geodesic curvature, non distorted texture mapping, piecewise surface flattening]]
+Gen : [non-distorted texture mapping, the surface, curves, preservation, the texture plane, parametric 3-d surfaces, the mapped texture, interactive piecewise flattening, a first step, discontinuities and distortions, geodesic curvature, a constructive way, piecewise surface flattening, each point, differential geometry, the notion, a compromise, isoparametric curves, an application, these techniques]
+122744.txt,0.27,0.7,0.39,0.0,0.0,0.0
+ ----------------------------------------------------- 
+9. File: 123208.txt
+Gold: [[packet switching, computer networks, minimal order loop free routing strategy, multiorder routing strategy, network adaptability, operational overhead]]
+Gen : [each node, the network, routing strategy, nodes, the minimal order, the number, the order, the set, fig, the path, a node, aprs, the operational overhead, a path, a routing strategy, loops, the configuration c, the delay, the routing message, p nodes]
+123208.txt,0.41,0.5,0.45,0.0,0.0,0.0
+ ----------------------------------------------------- 
+10. File: 123764.txt
+Gold: [[interference detection, robotics, boolean algebra, collision detection, solid modeling, constructive solid geometry, representation simplification]]
+Gen : [constructive solid geometry, bounds, the rewrite rules, the refinement rules, a bounding function, totally consistent bounding functions, a solid modeling system, three and four dimensions, whose internal nodes, their theoretical insight, the desirable properties, the constituent sets, general boolean algebras, surprisingly good bounds, a binary node t, complement or difference operators, the standard box bounds, a ) ( b, the 5 non-empty bounds, the bound fi( t]
+123764.txt,0.18,0.5,0.26,0.0,0.0,0.0
+ ----------------------------------------------------- 
+11. File: 125347.txt
+Gold: [[distributed representations, grammatical structure, simple recurrent networks]]
+Gen : [the network, the task, a simple recurrent network, the apparently open-ended nature, the srn state representations, the more difficult forms, sufficiently many hidden units, an important empirical question, the second principal component, verb argument structure facts, the last training corpus, a post hoc estimate, a rather formidable armamentarium, the main clause subject, the potential important difference, the hidden unit patterns, the main clause verb, an optional direct object, 0.177 ( initial error, the apparently recursive nature]
+125347.txt,0.09,0.57,0.16,0.0,0.0,0.0
+ ----------------------------------------------------- 
+12. File: 126122.txt
+Gold: [[trees mathematics, multiprocessor interconnection networks, embeddings, butterfly networks, complete binary trees, wrap-around connections]]
+Gen : [complete binary trees, a dilation, an optimal dilation, this embedding, wrap-around connections, 8 ( resp., an embedding, a 2/sup q+1/-1-node, nodes, stage 2, t ( q ), level, the embedding, the pes, t ( q, the dilation, levels, bw ( m, bw ( m ), the pwl strings]
+126122.txt,0.28,0.42,0.33,0.0,0.0,0.0
+ ----------------------------------------------------- 
+13. File: 126238.txt
+Gold: [[geometry, programming environments, configuration management, user interfaces, automatic programming, unix environment, custom interface code, diverse software components, heterogeneous execution environments, heterogeneous programming environments, interfacing requirements, module interconnection language attributes, packaging system]]
+Gen : [a packaging system, programmers, executables, the system, a few simple rules, interface software and stubs, diverse software components, whose run-time performance, heterogeneous programming environments, their application, analysis and extraction, the unix environment, custom interface code, heterogeneous execution environments, each application, module interconnection language, manually integrated applications, polygen, modules, stubs]
+126238.txt,0.52,0.65,0.58,0.0,0.0,0.0
+ ----------------------------------------------------- 
+14. File: 126248.txt
+Gold: [[software maintenance, program testing, program slicing, linear time, line number, program slice, semantically consistent changes, set inclusion, single variable decomposition slices, slice-based decomposition, software maintenance problem, unmodified components]]
+Gen : [a decomposition slice, the original program, a proposed change, a program slice, the decomposition, the lattice, a set, single variable decomposition slices, those statements and variables, the software maintenance problem, these semantically consistent changes, a single component, a slice-based decomposition, a straightforward technique, the slice, the complement, the maintainer, the program, slice, the decomposition slice]
+126248.txt,0.55,0.57,0.56,0.0,0.0,0.0
+ ----------------------------------------------------- 
+15. File: 126271.txt
+Gold: [[self-stabilization, parallel programming, formal logic, adaptive systems, programming theory, adaptivity, token ring networks, adaptive distributed programs, adaptive sequential programs, composition operators, constituent programs]]
+Gen : [adaptivity, an adaptive program, adaptive sequential programs, their constituent programs, adaptivity and self-stabilization, a case study, a token, adaptive programs, distributed programs, programs, its environment, the relationship, these compositions, the discussion, a logic, this notion, an adaptive, a ring, adaptive programming, processes]
+126271.txt,0.53,0.53,0.53,0.0,0.0,0.0
+ ----------------------------------------------------- 
+16. File: 126289.txt
+Gold: [[parallel processing, performance evaluation, scheduling, multiprocessing systems, interprocessor communication, process scheduling, programming environment, network contention, process synchronization, BBN GP1000, NUMA shared-memory multiprocessor, analytical models, memory contention, nonuniform memory access, optimal strategies, parallel processing performance, remote memory access]]
+Gen : [a numa multiprocessor, remote memory access, the overhead, the models and analyses, the parallel processing performance, performance prediction and evaluation, the bbn gp1000, a numa system, several numerical examples, the efficiency, process scheduling, the authors, interprocessor communication, analytical and experimental results, an efficient programming environment, a numa shared-memory multiprocessor, a comprehensive understanding, the effective use, the various effects, numa shared-memory multiprocessor]
+126289.txt,0.53,0.59,0.56,0.0,0.0,0.0
+ ----------------------------------------------------- 
+17. File: 128907.txt
+Gold: [[optimization, information retrieval, text retrieval, document retrieval, access method, coding methods, signature file, superimposed coding]]
+Gen : [signature generation, the optimal weight assignment, terms, the number, the fsb method, the weight, ( fsb ) method, the same number, ( fwb ) method, fwb, an optimal weight assignment, the signature generation method, the text, only a few exceptions, this paper, the term signatures, each block, a new way, the same size, each text block]
+128907.txt,0.2,0.25,0.22,0.0,0.0,0.0
+ ----------------------------------------------------- 
+18. File: 129814.txt
+Gold: [[logic programming, parallel programming, parallel languages, GHC, parlog, clean semantics, concurrent logic programming languages, control facilities, execution conditions, language translation, lingua franca, nonflat guards]]
+Gen : [a lingua franca, concurrent logic programming, parlog, a lingua franca implementation, ghc and parlog, its own right, both languages, each clause, a simple concurrent logic, good control facilities, all the programs, the other language, their respective merits, ghc, the lingua franca, the goal, the following special conditions, a fresh melted copy, their corresponding goal arguments, no special suspension mechanism]
+129814.txt,0.4,0.53,0.45,0.0,0.0,0.0
+ ----------------------------------------------------- 
+19. File: 129815.txt
+Gold: [[computational complexity, parallel algorithms, graph theory, complexity, automatic parallelization, structured programming, GOTOs, control dependence relations, control flowgraphs, control-flow cycles, control-flow normalization algorithm, node-splitting techniques, syntax tree]]
+Gen : [the program, programs, the complexity, the control dependence graph, a control-flow normalization algorithm, their syntax and structure, afterwards control dependence relations, the system, the number, conversion, the equation, goto, the graph, factorization, a program, x i, resolution, our method, an extended topological order, 1 ) ( while]
+129815.txt,0.5,0.52,0.51,0.0,0.0,0.0
+ ----------------------------------------------------- 
+20. File: 130623.txt
+Gold: [[debugging, race conditions, parallel programs, critical sections, data races, nondeterminacy]]
+Gen : [race conditions, the program, general races, races, data races, programs, critical sections, apparent races, synchronization, shared-memory parallel programs, exhaustive race detection, a formal model, an np-hard problem, the other, a race condition, two different notions, explicit synchronization, feasible races, only the apparent races, more complex debugging techniques]
+130623.txt,0.3,0.78,0.44,0.0,0.0,0.0
+ ----------------------------------------------------- 
+21. File: 132280.txt
+Gold: [[abstraction levels, combined simulation, homomorphism, multimodeling, qualitative simulation, systems theory]]
+Gen : [models, a methodology and formalism, physical modeling and reasoning, multiple , cooperative models, a multimodel methodology, qualitative model engineering, either analyzing or reasoning, the aims and approaches, a uniform language, building intelligent machines, theory and methodology, artificial intelligence domain, the simulation communities, water, the boiling water system, an important special case, a common state space, a more careful statement, sample questions and answers, 9 and 10 respectively]
+132280.txt,0.11,0.44,0.17,0.0,0.0,0.0
+ ----------------------------------------------------- 
+22. File: 133966.txt
+Gold: [[database theory, relational databases, query languages, systems analysis, SQL, views, design tradeoffs, structured query language, run-time behavior, DP management, DB2 environment, REDWAR, benchmark workload, database catalog, relational database workload analyzer]]
+Gen : [sql statements, a production db2 system, the structure and complexity, the workload, a benchmark workload, the important information, an image copy, database systems, a db2 environment, the database catalog, relations and views, relational database environments, the composition, the alternative design tradeoffs, a structured query language, a two-hour interval, sql ) trace, the workload study, the number, information]
+133966.txt,0.45,0.54,0.49,0.0,0.0,0.0
+ ----------------------------------------------------- 
+23. File: 136560.txt
+Gold: [[scheduling, real-time systems, fault tolerant computing, aerospace computing, galileo spacecraft, asynchronous real-time systems, concurrently executing processes, data-consistency constraints, modeling timing, precedence, unsafe error recovery schedules]]
+Gen : [unsafe error recovery schedules, the constraints, processes, the galileo spacecraft, data-consistency constraints, events, this work, precedence, an algorithm, the model, the design and validation, autonomous error-recovery strategies, durations and intervals, asynchronous real-time systems, the constraints checker, the spacecraft, commands, the edge, the sequence, the constraints graph]
+136560.txt,0.45,0.59,0.51,0.0,0.0,0.0
+ ----------------------------------------------------- 
+24. File: 138370.txt
+Gold: [[mathematical software, bessel function, hyperbolic Bessel function, modified Bessel function, order zero and one, portable software, special function, vectorized software]]
+Gen : [a vector, the evaluation, machines, the case, vfnlib, all computations, fnlib, arguments, the cray, the convex, cases, the cray y-mp, routines, the result, the vectorized codes, the sun, this paper, each function, the computation, an array]
+138370.txt,0.11,0.17,0.13,0.0,0.0,0.0
+ ----------------------------------------------------- 
+25. File: 138875.txt
+Gold: [[multimedia, disk scheduling]]
+Gen : [cmfs, a file system, sessions, clients, disk, disk layout, real-time storage and retrieval, several interrelated design issues, continuous media data, an acceptance test, disk scheduling policy, different design choices, data, the client, time, this minimal static schedule, the shortest such schedule, the number, disk scheduling policies, the corresponding slack times]
+138875.txt,0.04,0.33,0.07,0.0,0.0,0.0
+ ----------------------------------------------------- 
+26. File: 139623.txt
+Gold: [[reinforcement learning, asynchronous dynamic programming, temporal differences]]
+Gen : [the convergence, watkins, the case, probability one, this paper, temporal differences, one way, sutton ( 1988 ), a slightly modified version, that involving information, adjacent time steps, linearly dependent representations, a convergence theorem, a different answer, this strong form, sutton, the chain, equation ( 26 ), equation ( 25 ), a slightly different case]
+139623.txt,0.04,0.14,0.06,0.0,0.0,0.0
+ ----------------------------------------------------- 
+27. File: 142630.txt
+Gold: [[remote procedure call, asynchronous message passing, audio servers, distributed client-server architecture, speech and studio applications, speech recognition and synthesis]]
+Gen : [the server, audio applications, the application, the byte stream manager, advanced user interface design, this paper, applications, e .g., a callback mechanism, such a system, a telnet interface, a programmatic interface, a window system, speech recognition input, a multimedia application, distributed client/server models, a command interpreter, input and output, the features, temporal media]
+142630.txt,0.2,0.38,0.26,0.0,0.0,0.0
+ ----------------------------------------------------- 
+28. File: 142634.txt
+Gold: [[visualization, programming by example, graphical user interface, constraints, direct manipulation, layouts]]
+Gen : [the system, graphical interfaces, trip3, mapping rules, application data, the bi-directional translation model, the translation, the correspondence, ( 2, the programmer, ( 1, pbve ) scheme, users, generalization, a direct manipulation interface, the textual application program, its corresponding example visualization, the graphical image, the designer, direct manipulation]
+142634.txt,0.25,0.67,0.36,0.0,0.0,0.0
+ ----------------------------------------------------- 
+29. File: 142678.txt
+Gold: [[computational geometry, linear programming, combinatorial optimization, randomized incremental algorithms]]
+Gen : [a subexponential bound, linear programming, a simple randomized algorithm, the unit cost model, the algorithm, an abstract framework, the internal randomizations, the number, n constraints, linear programs, the subexponential complexity bound, several other related problems, )1/4 ) time, the input ), a previous work, several more recent techniques, the smallest volume annulus-problem, infinity and n such, its expected running time, k ( n )]
+142678.txt,0.1,0.33,0.15,0.0,0.0,0.0
+ ----------------------------------------------------- 
+30. File: 142824.txt
+Gold: [[virtual reality, user interface software, interactive 3D graphics]]
+Gen : [the decoupled simulation model, the user, the programmer, mr, this paper, the toolkit, a vr application, vr applications, this style, virtual reality systems, support, head-mounted displays, traditional two dimensional styles, the current programming effort, hand input devices, a 3d environment, 3d input devices, two simple applications, the mr toolkit, the application]
+142824.txt,0.07,0.25,0.11,0.0,0.0,0.0
+ ----------------------------------------------------- 
+31. File: 146489.txt
+Gold: [[software tools, portability, GUI, rapid prototyping, graphical user interface, pedagogy, user interface toolkit, UIMS, export, learnability]]
+Gen : [suit, users, the programmer, the computer science community, an interactive layout editor, an external control uims, a c subroutine library, less than three hours, the user, an object, property setting and linkage, a user interface toolkit, 's test> ) {, internal control  applications, our most important contribution, the next two sections, procedural and interactive operations, some basic suit objects, our most important observation, the property]
+146489.txt,0.09,0.21,0.13,0.0,0.0,0.0
+ ----------------------------------------------------- 
+32. File: 146810.txt
+Gold: [[disambiguation, document retrieval, semantically based search, word senses]]
+Gen : [word senses, documents, lexical ambiguity, experiments, disambiguation, the query, words, the word, senses, the words, the senses, a word, the number, the dictionary, the queries, the cacm collection, the time collection, the results, the document, the sense]
+146810.txt,0.14,0.25,0.18,0.0,0.0,0.0
+ ----------------------------------------------------- 
+33. File: 146958.txt
+Gold: [[computational complexity, simulation, fault tolerant computing, software reliability, mutation testing, software faults, petri nets, mutation analysis, NASA, stochastic Petri net, correlated sampling, dependencies, fault-tolerant software systems, module execution times, mutation-tested code, numerical estimates, planetary lander control software, real-time software reliability, synchronization structure]]
+Gen : [the reliability, versions, the synchronization structure, module execution times, real-time software reliability, these test cases, estimation and enhancement, mutation testing, high-quality , mutation-tested code, automatically generated test cases, a simulation-based method, fault-tolerant software systems, the higher quality code, a very simple one, an independent model parameter, the timing constraint t, the natural  synchronization, the single version case, function f and \pi, a natural high correlation]
+146958.txt,0.42,0.44,0.43,0.0,0.0,0.0
+ ----------------------------------------------------- 
+34. File: 147654.txt
+Gold: [[parallel programming, real-time systems, parallel languages, program verification, critical properties, critical real-time systems, data-flow language LUSTRE, dataflow approach, ergonomy, formal design, synchronous data-flow language, traditional description tools, verification methods, verification tool LESAR]]
+Gen : [means, a program, a synchronous data-flow language, the synchronous data-flow language, the language lustre, program verification, these properties, the dataflow approach, traditional description tools, its critical properties, a simple example, critical real-time systems, the section, lustre, bool ), the program, the switch, the language, their composition verification problem, an abstract program p]
+147654.txt,0.61,0.64,0.62,0.0,0.0,0.0
+ ----------------------------------------------------- 
+35. File: 151265.txt
+Gold: [[automated reasoning, theorem proving, polynomial-time algorithm, inference rules, proof systems, mechanical verification, proof theory, machine inference]]
+Gen : [tractability, inference relations, inference rules, polynomial time, rule sets, the procedure, a procedure, a first step, the inference rules, tractable inference relations, the class, that particular rule set, a general theory, kozen and shostak, yet machine recognizable, the technical framework, decidable inference relations, a set, \sigma, a member]
+151265.txt,0.19,0.27,0.22,0.0,0.0,0.0
+ ----------------------------------------------------- 
+36. File: 151529.txt
+Gold: [[queuing networks, randomized algorithms]]
+Gen : [discrete random variates, time, the long-run expected effort, a variate, a random variable x, o( 1 ), the three algorithms, terms, 1 ) time, the most fundamental operations, the well-known alias algorithm, a more difficult problem, three rejection-based algorithms, the expected effort, fairly unrestrictive conditions, the simplest form, generate2, the a i (, an important open problem, twice as much if]
+151529.txt,0.04,0.25,0.07,0.0,0.0,0.0
+ ----------------------------------------------------- 
+37. File: 152393.txt
+Gold: [[software process, logic programming, concurrency, multiuser programming environment, rule-based programming, software process modeling]]
+Gen : [polis, esp, tuples, the tuple space, an agent, a tuple space, a number, a tuple, agents, linda, prolog, a set, oikos, tuple spaces, respect, the software process, a software process]
+152393.txt,0.15,0.2,0.17,0.0,0.0,0.0
+ ----------------------------------------------------- 
+38. File: 154265.txt
+Gold: [[software testing, fault-based testing, mutation analysis, program schemata]]
+Gen : [mutation analysis, mutant schemata, a program, a new method, the quality, interpretive systems, hardware and software platforms, previous interpretive systems, over 300 %, preliminary performance improvements, severe performance problems, the additional advantages, a wide range, a powerful technique, unit test software, development and/or deployment, the program, msg systems, mutants, the msg method]
+154265.txt,0.13,0.57,0.21,0.0,0.0,0.0
+ ----------------------------------------------------- 
+39. File: 155220.txt
+Gold: [[or-parallel execution models]]
+Gen : [or-parallel execution models, the or-parallel tree, variables, processors, nodes, the number, the various or-parallel methods, the time, all three criteria, the size, ( parallel ) execution, a useful way, constant-time task creation, an or-parallel tree, our result, logic programming languages, a nondeterministic program, a natural way, nondeterministic programming languages, different nondeterministic computational paths]
+155220.txt,0.04,0.33,0.07,0.0,0.0,0.0
+ ----------------------------------------------------- 
+40. File: 155274.txt
+Gold: [[algebra, logic, relational database, database schema, tuple calculus]]
+Gen : [the logical data model, an algebraic query language, separate names and values, a database scheme, the logical language, an object-oriented data model, a nonprocedural query language, a directed graph, whose internal nodes, the result, fig, type, oe, the schema, the set, an extended algebraic query, two important object-oriented features, 5 ) figure 7, a relation example 5, an arbitrary directed graph]
+155274.txt,0.14,0.57,0.22,0.0,0.0,0.0
+ ----------------------------------------------------- 
+41. File: 155351.txt
+Gold: [[logic programming, computer algebra systems]]
+Gen : [symbolic computation, maple, real root isolation, the parallel declarative, the system, fewer than 20 lines, a generic strand program, multivariate nonlinear equation systems, different parallel programming paradigms, even complex algebraic algorithms, the existing sequential algorithms, such a simple modification, a slight modification, a straightforward parallelization, a portable system, parallel symbolic computation, various parallel architectures, the pipe, the result, the gr-obner bases algorithm]
+155351.txt,0.09,0.6,0.15,0.0,0.0,0.0
+ ----------------------------------------------------- 
+42. File: 155757.txt
+Gold: [[fortran, maple, unix shell]]
+Gen : [numerical subroutines, a few hours, template-driven programming, differential equations, a set, problems, least-squares data, this paper, interfaces, the most complex program, a simple one, a few days, such an interface, a short (, root finding, ) description, l2fit, an important open problem, the port library, the port function dzero]
+155757.txt,0.0,0.0,0.0,0.0,0.0,0.0
+ ----------------------------------------------------- 
+43. File: 156851.txt
+Gold: [[instance-based learning, nearest neighbor, exemplar-based learning, protein structure, text pronunciation]]
+Gen : [domains, our algorithm, instances, examples, pebls, the number, 1986, weights, propagation, the distance, the performance, the data, training, stanfill and waltz, 1990 ), results, our experiments, exemplars, id3, the training set]
+156851.txt,0.0,0.0,0.0,0.0,0.0,0.0
+ ----------------------------------------------------- 
+44. File: 158432.txt
+Gold: [[contour model, visual execution model]]
+Gen : [ada tasking, a visual execution model, execution, the contour model, a program, tasks, the tasking semantics, a deeper understanding, this high-level execution model, a contour model, natural language design, the processor, the instance, an instance, the executing processor, a processor, the pipeline, the contour, no entries, a task type]
+158432.txt,0.15,0.6,0.24,0.0,0.0,0.0
+ ----------------------------------------------------- 
+45. File: 163631.txt
+Gold: [[software process, process modeling, metaprocess, process evolution and improvement]]
+Gen : [a conceptual framework, the meta-process, the software process, a software process, a software production process, software processes, a software meta-process, evolving software processes, different kinds, the process evolution problem, the resulting framework, the proposed approach, the process domain, software production activities., a common characterization, a common view, changes or customizations, software production activities, two main components, the meta-process concept]
+163631.txt,0.09,0.33,0.14,0.0,0.0,0.0
+ ----------------------------------------------------- 
+46. File: 165177.txt
+Gold: [[wormhole routing, store-and-forward routing, adaptive routing, message routing, k-ary n-cubes, multicomputer networks, deadlocks]]
+Gen : [e-cube, the network, messages, the performance, uniform, physical channel, adaptive wormhole routing algorithms, local traffic patterns, this study, partially-adaptive algorithms, adaptivity, a k-ary n-cube, hotspot traffic patterns, the well-known e-cube algorithm, all three traffic patterns, torus interconnection networks, 2n virtual channels, wormhole routing algorithms, a message, virtual channels]
+165177.txt,0.25,0.6,0.35,0.0,0.0,0.0
+ ----------------------------------------------------- 
+47. File: 165304.txt
+Gold: [[distributed systems, computer-supported cooperative work, application sharing, X Window system, x protocol multiplexer, computer conferencing, joint viewing and tele-operation service]]
+Gen : [a computer-supported cooperative work, x protocol multiplexors, this paper, cscw) environment, a survey, several existing x multiplexors, race ii project cio1, an x multiplexor, several x servers, such a service, the construction, their usefulness, the mux, the muxes, the late connection problem, jvtos' application sharing service, future mux development work, an interesting teaching example, the x window system, a client]
+165304.txt,0.23,0.44,0.3,0.0,0.0,0.0
+ ----------------------------------------------------- 
+48. File: 172892.txt
+Gold: [[random walk, weyl group, hyperbolic Bessel function, representation of Lie group, tensor power]]
+Gen : [random walks, tensor powers, the decomposition, the kth tensor power, gessel and zeilberger, the defining representations, a weyl group, some spin representations, the classical groups, the orthogonal groups, the number, a lattice, a chamber, our results, all such walks &semi, certain lie group representations, their generating functions&semi, such reflectable walks, the walk numbers, three independent results]
+172892.txt,0.2,0.45,0.28,0.0,0.0,0.0
+ ----------------------------------------------------- 
+49. File: 173828.txt
+Gold: [[performance, message passing, telecommunication network routing, fault tolerant computing, concurrency control, routing algorithms, graph theory, wormhole networks, index termsdeadlock-free adaptive routing, adaptive algorithm, channeldependency graph, fault-tolerant algorithms]]
+Gen : [deadlock-free adaptive routing, the number, the design, the channel dependency graph, the theoretical background, the routing algorithms, the new theory, a new theory, the second methodology, physical channels, cycles, the conditions, some examples, a high degree offreedom, an adaptive algorithm isdeadlock-free, the first supplies algorithms, the performance improvement, messages, the network, a message]
+173828.txt,0.27,0.33,0.3,0.0,0.0,0.0
+ ----------------------------------------------------- 
+50. File: 173847.txt
+Gold: [[statistics, image coding, vapnik-chervonenkis dimension, learning systems, vector quantisation, empirical simulations, formal bounds, memoryless vector quantizer, small training sets, test distortion, training image, training set distortion, vector quantizer codebooks]]
+Gen : [small training sets, a codebook, the training set size, test and training distortion, the training set distortion, only a small fraction, a randomly drawn subset, its training set size, the difference, the training set, the available data, theory and practice, all available data, blocks, a function, the results, extensive empirical simulations, the authors study, vector quantizer codebooks, the expected worst-case behavior]
+173847.txt,0.32,0.45,0.38,0.0,0.0,0.0
+ ----------------------------------------------------- 
+51. File: 174610.txt
+Gold: [[types, object store, complex object, nested graph, rule-based query and update language]]
+Gen : [hyperlog, the hypernode model, the representation and manipulation, respect, graphs, hypernodes and types, hypernodes, the operational semantics, a data model, a nested-graph model, a rule-based query language, the single data structure, our graph types, conventional type-forming operators, the theoretical foundations, an essential feature, graph-based user interfaces, three recent trends, hyperlog and show, computation and update]
+174610.txt,0.13,0.4,0.2,0.0,0.0,0.0
+ ----------------------------------------------------- 
+52. File: 174651.txt
+Gold: [[model checking, EXPSPACE-completeness, dense time, discrete time, linear-time temporal logic, real-time requirements]]
+Gen : [tptl, time, a tableau-based decision procedure, the local temporal context, a really temporal logic, a model-checking algorithm, the time, a temporal logic, the specification, real-time systems, a variable, the freeze quantifier binds, a suitable formalism, a natural language, a novel quantifier, our logic, several generalizations, oe, closure ( oe ), the initial tableau t]
+174651.txt,0.15,0.36,0.21,0.0,0.0,0.0
+ ----------------------------------------------------- 
+53. File: 174657.txt
+Gold: [[atomic register, linearizability, wait-free synchronization]]
+Gen : [a construction, our construction, the construction, reader i, the writer, the proof, reader, state t, the value, the state, the event, cue( w, rr[i, the uncertainty interval, the new value, j ), r!y, the proofs, the definition, the program]
+174657.txt,0.0,0.0,0.0,0.0,0.0,0.0
+ ----------------------------------------------------- 
+54. File: 174661.txt
+Gold: [[computational geometry, linear programming, parallel computation, probabilistic computation, multidimensional search]]
+Gen : [constant time, fixed dimension, linear programming, january 2 , 1986, information processing letters, v.22 n.1, the algorithm, at least one constraint, each violated constraint increases, a linear programming problem, the defining set increases, the linear programming problem, all sufficiently large t, at least one i, a probabilistic crcw pram, only a finite number, the last t -block, a ' a ', the space r d, this step several times]
+174661.txt,0.1,0.33,0.16,0.0,0.0,0.0
+ ----------------------------------------------------- 
+55. File: 176460.txt
+Gold: [[polymorphic type reconstruction, type errors]]
+Gen : [type errors, the programmer, the deductive steps, an expression, the type error, a type error, a particular type, an approach, type inference, type reconstruction, the inconsistency, two types, the source, the error, the compiler, this paper, the approach, the form, complex type systems, the type correctness]
+176460.txt,0.12,0.5,0.19,0.0,0.0,0.0
+ ----------------------------------------------------- 
+56. File: 176473.txt
+Gold: [[program slicing, program dependence graph, control dependence, data dependence]]
+Gen : [executable interprocedural slices, the slice, a slice, a program, an interprocedural slice, respect, a variable x, an entire program, the program, point p, mark weiser, procedure calls, the value, the notion, weiser, these slices, the boundaries, an extension, their algorithm, executable programs]
+176473.txt,0.13,0.25,0.17,0.0,0.0,0.0
+ ----------------------------------------------------- 
+57. File: 176519.txt
+Gold: [[condensation, abstract interpretation, propositional logic, groundness analysis]]
+Gen : [logic programs, variables, boolean functions, positive boolean functions, the positive functions, the idea, abstract interpretation, this property, groundness dependencies, this idea, different classes, precise groundness information, a certain property, rapid computation, one class, groundness information, pos, a given program point, practically every programming tool, only one important operation]
+176519.txt,0.17,0.57,0.27,0.0,0.0,0.0
+ ----------------------------------------------------- 
+58. File: 176522.txt
+Gold: [[semantics, constraint logic programming]]
+Gen : [optimization, constraint logic programs, constraints, a corresponding operational semantics, the standard semantics, a simple extension, clp languages, many applications, a set, a model theoretic semantics, the standard declarative semantics, the optimal solution, only constraint satisfaction, the goal p( y, the operational semantics, the safe operational semantics, the usual operational semantics, the state h-; gi, comp( cmt( p ), a simple declarative semantics]
+176522.txt,0.07,0.5,0.13,0.0,0.0,0.0
+ ----------------------------------------------------- 
+59. File: 176580.txt
+Gold: [[deformable models, finite elements, dynamics, free-form deformation, constraints, CAGD, NURBS, cross-sectional shape design, optimal curve and surface fitting, shape metamorphosis, solid rounding, trimming]]
+Gen : [geometric constraints, d-nurbs, a new technique, the control points, the numerical integration, other physical quantities, multiple control points, internal deformation energies, incorporate mass distributions, weights, control points, the nonuniform rational b-spline, a physically intuitive manner, the traditional indirect fashion, d-nurbs move and deform, their dynamic behavior results, a dynamic generalization, a defacto standard, direct physical manipulation, 2d shape metamorphosis]
+176580.txt,0.13,0.24,0.17,0.0,0.0,0.0
+ ----------------------------------------------------- 
+60. File: 176583.txt
+Gold: [[surface fitting, bayesian estimation, multiresolution representation, deformable surfaces, fractal surfaces, orthonormal wavelet basis, stiffness matrix, superquadrics]]
+Gen : [shapes, an orthonormal wavelet basis, our modeling scheme, the modeling scheme, a smooth transition, a probabilistic framework, the deformable superquadric, the two extremes, the human brain, the past decade, a hybrid primitive, local ( distributed parameter, several shape modeling techniques, the multiresolution wavelet basis, these multiresolution shape models, a new shape-modeling scheme, global shape descriptive powerto, this parameter spectrum, other modeling schemes, a large class]
+176583.txt,0.16,0.33,0.22,0.0,0.0,0.0
+ ----------------------------------------------------- 
+61. File: 176684.txt
+Gold: [[advice classes, boolean hierarchy, nonuniform complexity classes, optimization functions, relativization, restricted oracle access, sparse NP sets, truth-table reducibility]]
+Gen : [the boolean hierarchy, the input, the notion, the class, a set, the number, the set, sets, np, length, advice, input x, the length, the proof, theorem, the classes, whose membership, n ), an oracle, hx]
+176684.txt,0.33,0.29,0.31,0.0,0.0,0.0
+ ----------------------------------------------------- 
+62. File: 176691.txt
+Gold: [[poset, transposition, combinatorial Gray code, linear extension]]
+Gen : [linear extensions, the algorithm, the linear extensions, the number, the poset, constant amortized time, combinatorial objects, time, a poset, its predecessor, the graph, 0 ( p ), a and b, a linear extension, a hamiltonian cycle, the sign, a hamiltonian path, canada, permutations, a b-poset]
+176691.txt,0.11,0.29,0.15,0.0,0.0,0.0
+ ----------------------------------------------------- 
+63. File: 176717.txt
+Gold: [[computational complexity, interpolation, arithmetic operations, sparse rational functions]]
+Gen : [sparse rational interpolation, arithmetic operations, the number, the first deterministic algorithm, the computational complexity, singly exponential bounds, all the f( x, the kind l a;b, n-variable rational function f, only a finite number, the coefficients and exponents, the algorithm, the numerator and denominator, f 2 c hhxii, the c -linear operator, a positive real number, the rational function f, a real quasirational function, t-sparse polynomials ( c.f., the exponents p ff]
+176717.txt,0.2,0.75,0.32,0.0,0.0,0.0
+ ----------------------------------------------------- 
+64. File: 176718.txt
+Gold: [[path length, binary search trees]]
+Gen : [binary trees, the path length, the external path length, an upper bound, a lower bound, infinitely many values, a preliminary result, each external node, the root, the sum, each value, the lengths, a factor, the paths, upper bounds, the known upper bound, maximal path length difference, $ n$ external nodes, a tree $ t$, an elementary proof]
+176718.txt,0.09,0.4,0.15,0.0,0.0,0.0
+ ----------------------------------------------------- 
+65. File: 176724.txt
+Gold: [[sparse sets, NP-completeness, program checking, interactive proofs, quadratic residuosity, self-reducibility]]
+Gen : [decision, search, the complexity, a language, languages, np, polynomial time, the answer, program checking, this paper, a natural way, a complexity assumption, a basic question, the authors, present languages, similar assumptions, this membership, these ideas, the polynomial time hierarchy, x 2 l nomatter]
+176724.txt,0.09,0.2,0.13,0.0,0.0,0.0
+ ----------------------------------------------------- 
+66. File: 177562.txt
+Gold: [[dynamic programming, tiling, surface fitting, triangulation, surface reconstruction, polyhedra, geometric hashing, curve matching, branching surfaces, slice interpolation]]
+Gen : [contours, each slice, our algorithm, an important problem, this paper, the contours, a series, each pair, this problem, the problem, a minimum spanning tree, actual medical imaging data, in most previous works, non simply connected regions, some earlier papers, a new technique, piecewise-linear surface reconstruction, multiply connected regions, parallel polygonal cross-sections, the unmatched parts]
+177562.txt,0.1,0.2,0.13,0.0,0.0,0.0
+ ----------------------------------------------------- 
+67. File: 177575.txt
+Gold: [[code generation, graph coloring, register allocation]]
+Gen : [rematerialization, the number, values, code, the interference graph, the cost, spill code, the allocator, chaitin, the graph, allocation, colors, the optimistic allocator, live ranges, the code, a color, l i, the pruned ssa graph, the stack, registers]
+177575.txt,0.17,0.5,0.25,0.0,0.0,0.0
+ ----------------------------------------------------- 
+68. File: 177725.txt
+Gold: [[formal verification, model checking, CTL, moore machines, computer-aided verification, temporal logics]]
+Gen : [a formula, a system, the preorder, the formula, a compositional verification, the logic, a preorder, a subset, the relation, the framework, a particular structure (, the logic corresponds, the logic ctl, a cpu controller, several special cases, the access unit, the execution unit, the views and conclusions, the logic ctl* [11], several important special cases]
+177725.txt,0.04,0.1,0.06,0.0,0.0,0.0
+ ----------------------------------------------------- 
+69. File: 177739.txt
+Gold: [[distributed algorithms, distributed languages, multiparty interaction, committee coordination, first-order interaction, interaction scheduling, rendezvous]]
+Gen : [first-order multiparty interactions, processes, the algorithm, a set, a first-order interaction, the interaction, a first-order multiparty interaction, enrolement statements, roles, an abstraction mechanism, first-order interactions, generic roles, run time, all roles, alternative commands, actual processes, the enrolement guard-scheduling problem, the first such solution, the judicious scheduling, formal process roles]
+177739.txt,0.22,0.45,0.29,0.0,0.0,0.0
+ ----------------------------------------------------- 
+70. File: 177759.txt
+Gold: [[grammatic ambiguity, semantic unambiguity]]
+Gen : [controlled grammatic ambiguity, the resulting parser, a finite set, the parser generation, partial parse trees, the following problems, a new approach, ambiguous grammars, the grammar, linear time, the ambiguity, a parser, the user, large classes, context-free grammars, this approach, the sentences, all input, some specific parse trees, all sentences and terminates]
+177759.txt,0.04,0.25,0.07,0.0,0.0,0.0
+ ----------------------------------------------------- 
+71. File: 177973.txt
+Gold: [[customization, optimization, profile-based optimization, object oriented programming]]
+Gen : [c++ programs, indirect function, instructions, the number, an indirect function call, control, programs, c++, breaks, information, i-calls, indirect function calls]
+177973.txt,0.0,0.0,0.0,0.0,0.0,0.0
+ ----------------------------------------------------- 
+72. File: 178130.txt
+Gold: [[multicommodity flow, approximation, VLSI routing, concurrent flow, graph separators]]
+Gen : [the number, minimum cut linear arrangement, their concurrent flow problem, very large scale integration, an $ n$ -node, $ m$ -edge network, a large linear program, the time, reduce, ffl, o( n ) time, 's algorithm [2 ], each shortest path length, an approximate shortest-paths algorithm, the current jf j, the concurrent flow problem, flow, a multicommodity flow f, time, the sum]
+178130.txt,0.09,0.38,0.15,0.0,0.0,0.0
+ ----------------------------------------------------- 
+73. File: 178404.txt
+Gold: [[implementation, complex elementary functions]]
+Gen : [the complex elementary functions, reliable and accurate evaluations, an ieee environment, complex elementary functions, a convenient exception-handling facility, a tight error, the fortran programs, corresponding fortran programs, the program, the case, the real part, the error, the relative error, the overall relative error, small multiples, the final relative error, the observed error bounds, at most ffl 2, 0 return answer fig, ) sinh(y ) handle]
+178404.txt,0.07,0.5,0.12,0.0,0.0,0.0
+ ----------------------------------------------------- 
+74. File: 178710.txt
+Gold: [[genetic algorithms, concept learning, bias adjustment]]
+Gen : [genetic algorithms, concept learning, gabil, the design and implementation, other concept learning systems, robust concept learning systems, c4.5, the system, concept classification rules, a ga-based system, this approach, a key element, gas, target concepts, a ga, the performance, the use, an important additional feature, a concept learning system, different concept learning systems]
+178710.txt,0.14,0.5,0.21,0.0,0.0,0.0
+ ----------------------------------------------------- 
+75. File: 178739.txt
+Gold: [[integrated learning, representational shift, rule extraction from neural networks, theory refinement]]
+Gen : [rules, knowledge-based neural networks, the rules, the network, the extracted rules, neural networks, a method, a neural network, trained neural networks, the first step, the refined knowledge, the second step, our method, the accuracy, this method, empirical tests, trained neural networks &semi, their empirically proven abilities, directly refine symbolic rules&semi, standard neural learning techniques]
+178739.txt,0.18,0.4,0.25,0.0,0.0,0.0
+ ----------------------------------------------------- 
+76. File: 181256.txt
+Gold: [[factorization, matrix polynomials, symmetries]]
+Gen : [matrix polynomials, the minimal possible size, a matrix polynomial, the form, a constant matrix, the elementary divisors, symmetric matrix polynomials, factorizations, real or complex coefficients, $ l( \lambda )$, an $ n \times, $ m(\lambda ) $, the hermitian values, $ and (, $ l( \lambda, l(-), m(-), the proof, the smith form l(-), a real matrix polynomial]
+181256.txt,0.08,0.5,0.14,0.0,0.0,0.0
+ ----------------------------------------------------- 
+77. File: 181336.txt
+Gold: [[load balancing, message-passing, distributed-memory multiprocessors, loop scheduling, dynamic and static scheduling]]
+Gen : [distributed-memory multiprocessors, static and dynamic scheduling, the processors, the workload, the performance, this paper, data locality, this way data locality, uniform memory access costs, a new scheduling algorithm, the parallel execution, an important issue, a large source, the new algorithm, many numerical applications, shared-memory multiprocessors, the scheduler, hs, the data distribution scheme, gss and trapezoid scheduling]
+181336.txt,0.17,0.5,0.25,0.0,0.0,0.0
+ ----------------------------------------------------- 
+78. File: 181559.txt
+Gold: [[memory hierarchy, temporal locality, spatial locality, cache architecture, numerical codes]]
+Gen : [the virtual line scheme, spatial locality, memory, temporal locality, large virtual cache lines, large cache lines, numerical codes, how simple software informations, the spatial locality, memory traffic, data, a 20-cycle memory, the utilization, current on-chip data caches, currently found cache lines, the important pollution, a hardware design, 64 % reduction, a 17 %, the secondary cache]
+181559.txt,0.17,0.56,0.26,0.0,0.0,0.0
+ ----------------------------------------------------- 
+79. File: 181563.txt
+Gold: [[data communication, data distribution, high performance Fortran, tensor products, distributed-memory machine]]
+Gen : [an approach, communication-efficient data redistribution, data redistribution, the communication cost, arrays, regular data distributions, the intel ipsc/860, an analytical model, data parallel languages, the distributed-memory implementation, high performance fortran, the analytical model, this algebraic representation, fi d, processors, permutations, processor q, terms, the distribution basis, q(fis]
+181563.txt,0.21,0.55,0.31,0.0,0.0,0.0
+ ----------------------------------------------------- 
+80. File: 182371.txt
+Gold: [[computational complexity, complexity classes, resource-bounded measure, polynomial reductions, dense languages, sparse languages, weak stochasticity]]
+Gen : [measure, np, languages, measure 0, this paper, almost every language, the proof, the main theorem, -hard language, feasible deterministic algorithms, the sparseness criterion, the combinatorial technique, linear nonuniform advice, every real $ \alpha<1$, n= 6 >{ \alpha}, 8 >{ p}_ {(, the hypothesis $ \p\ne\np$, n=15 >{ p}_{n<s, the stronger conclusion, a stronger hypothesis---namely]
+182371.txt,0.09,0.25,0.14,0.0,0.0,0.0
+ ----------------------------------------------------- 
+81. File: 183047.txt
+Gold: [[performance evaluation, modeling, data locality, numerical codes, cache interferences or conflicts]]
+Gen : [interferences, cache interferences, the number, cache misses, this paper, the impact, the model, numerical loop nests, program performance, cache interference phenomena, experiments, these parameters, performance evaluation and prediction, global execution time variations, data locality optimizations techniques, 30 % and more, the memory hierarchy ), these modeling techniques, that cache interferences, the occurrence]
+183047.txt,0.23,0.7,0.35,0.0,0.0,0.0
+ ----------------------------------------------------- 
+82. File: 185483.txt
+Gold: [[browsing, hierarchies, user interfaces, table of contents]]
+Gen : [contents, the stable interface, the expand/contract interface, the animation characteristics, a predictive model, the expand/contract, large hierarchical tables, an exploratory evaluation, each task, each interface, three interfaces, many tasks, a between-groups experiment, fact retrieval tasks, 41 novice participants, three different interfaces, this large hierarchy, significantly faster times, a major role, multipane interface]
+185483.txt,0.11,0.5,0.18,0.0,0.0,0.0
+ ----------------------------------------------------- 
+83. File: 186037.txt
+Gold: [[abstract interpretation, program analysis, fixpoint algorithm]]
+Gen : [polyvariant static analyses, the analysis, fixpoint computation, the algorithm, our algorithm, polyvariance, analysis, a program, polyvariant, a polyvariant analysis, this paper, an optimized general-purpose algorithm, a very accurate form, many more abstract descriptions, the optimized algorithm addresses, the application variant, the program, a closure variant, the closure variant, the application]
+186037.txt,0.16,0.5,0.24,0.0,0.0,0.0
+ ----------------------------------------------------- 
+84. File: 188224.txt
+Gold: [[formal specification, inconsistency management, requirements specification, multiple views, CORE, the viewer, viewpoints framework, computer-based ViewPoints support, consistency checking, heterogeneous components, inter-ViewPoint communication, multiple ViewPoints, partial requirements specifications, requirements specification method]]
+Gen : [the relationships, a number, the viewer, viewpoint interaction and integration, multiple perspectives, multiple methods and notations, the resultant specification fragments, viewpoints, fig, core, the viewpoints framework, the viewpoint, a variety, a tabular collection diagram, inter-viewpoint rules, a viewpoint, part, conflict resolution, information, locally developed and managed]
+188224.txt,0.21,0.27,0.24,0.0,0.0,0.0
+ ----------------------------------------------------- 
+85. File: 188226.txt
+Gold: [[prototyping, software prototyping, software development, process computer control, hardware, experimental design, software, computerised monitoring, interactive cyclic view, large-scale long-term development, large-scale process monitoring experiment, long-term process monitoring, process monitoring experiment, very large software system, waterfall view]]
+Gen : [the data, the development, the process, the experiment, time, progress, the time]
+188226.txt,0.5,0.14,0.21,0.0,0.0,0.0
+ ----------------------------------------------------- 
+86. File: 188246.txt
+Gold: [[multiprocessor interconnection networks, crosstalk, optical interconnections, telecommunications, time division multiplexing, batcher spatial sorting network, benes network, bitonic decomposition, control complexity, exchange switches, logic arrays, multistage interconnection networks, optical implementations, optical information processing, pipelined systems, self-routing /spl Lambda/ permutation network, serial array time slot interchangers, space-to-time mapping, time division multiplexed systems, time multiplexed optical multiprocessors, time slot permuters, time slot sorters]]
+Gen : [the number, the time slot sorter, the time slot permuter, the space domain, time slot interchangers, switches, multistage interconnection networks, time division, time, optical implementation, crosstalk, delays, the idea, tsis, control complexities, frame delays, these architectures, 2/spl times/2 exchange switches, the /spl lambdaspl, time slot permuter]
+188246.txt,0.57,0.42,0.48,0.0,0.0,0.0
+ ----------------------------------------------------- 
+87. File: 188265.txt
+Gold: [[shared memory systems, hot spots, parallel architectures, message passing, multiprocessors, virtual machines, index termsmultiprocessor interconnection networks, design space, arbitrary interconnection networks, classification scheme, combining set, combining strategies, message routing, parallel access, processor elements, shared memory location, simulationresults]]
+Gen : [request, the combining set, the results, requests, request combining, the network, a priori knowledge, the design space, the processor elements, the interconnection network, the use, the combined access, arbitrary interconnection networks, the request, the benefits, several techniques, the set, interconnection network, processor elements, the classification]
+188265.txt,0.65,0.35,0.46,0.0,0.0,0.0
+ ----------------------------------------------------- 
+88. File: 188275.txt
+Gold: [[parallel architectures, fault tolerant computing, network routing, software reliability, fault-tolerant routing, message routing, torus, index termsmessage passing, destination, distributedcomputing system, fault-tolerant routing algorithm, hexagonal mesh, hexagonal meshes, high probability, mesh architectures, parallelalgorithms, routing scheme performance, source, square meshes]]
+Gen : [fault-tolerant routing, a path, nodes, the algorithm, each node, a distributed computing system, the system, its own links, a finite amount, a shortest path, the performance, faulty links or nodes, both square andhexagonal meshes, the source and destination, the message, the destination, the cycle, a message, detour mode, the mesh]
+188275.txt,0.48,0.38,0.42,0.0,0.0,0.0
+ ----------------------------------------------------- 
+89. File: 189489.txt
+Gold: [[neural networks, active learning, generalization, queries, version space]]
+Gen : [active learning, selective sampling, examples, the domain, a neural network, the problem, the network, m ), r(, the region, a neural network implementation, this paper, a single sampling iteration, that its failure modes, a training example x, the error, the na-ive querying algorithm, the set, the selective sampling approach, the selectively sampled data]
+189489.txt,0.16,0.5,0.24,0.0,0.0,0.0
+ ----------------------------------------------------- 
+90. File: 190767.txt
+Gold: [[decoding, encoding, hypercube networks, gauss-jordan elimination, gray code encoding, gray codes, index termslinear algebra, bit reversal, hypercube communications algorithms, hypercube multiprocessors, indextransformation algorithms, linear algebra framework, matrix transpose, shuffles, vector reversal]]
+Gen : [index transformation algorithms, algorithms, a linear algebra framework, hypercube multiprocessors, a matrix, gray codes, gauss-jordan elimination, a class, bit reversal, communications algorithms, a linear algebraic formulation, vector reversal ,shuffles, index transformations, this framework, simplifies ,and, this formulation, a linear index transformation, the binary-reflected gray code, an important communication pattern, 4.1 ( reversal property]
+190767.txt,0.68,0.71,0.69,0.0,0.0,0.0
+ ----------------------------------------------------- 
+91. File: 191310.txt
+Gold: [[mobile computing, consistency, information systems, new applications, transaction management]]
+Gen : [information systems, users, the wireless medium, a mobile host, data, mobile hosts, operations, operation, transactions, information, the computation, account, the system, the mobile host, a mobile environment, the fixed network, a transaction, a possible cluster configuration, the mobile hosts, total or partial disconnection]
+191310.txt,0.2,0.5,0.29,0.0,0.0,0.0
+ ----------------------------------------------------- 
+92. File: 192132.txt
+Gold: [[nonlinear optimization, conjugate gradient algorithms, line search algorithms, truncated Newton algorithms, variable metric algorithms]]
+Gen : [the search algorithm, a line search method, a finite number, a search algorithm, guaranteed sufficient decrease, line search algorithms, the algorithm terminates, a point, numerical results, terms, a small number, a set t(&mgr, these two conditions, ff, ( 1.2 ), the sufficient decrease condition, an iterate ff k, just ( 1.6 ), once such an iterate, al-baali and fletcher [2]
+192132.txt,0.13,0.25,0.17,0.0,0.0,0.0
+ ----------------------------------------------------- 
+93. File: 192176.txt
+Gold: [[global illumination, hierarchical radiosity, a posteriori error bounds and estimates, adaptive refinement, importance]]
+Gen : [radiosity, the error, the exact radiosity function, a hierarchical radiosity algorithm, the total error, more realistic error estimates, bounds and error estimates, errors, the approximate solution, the local error, a conservative upper, a non-conservative version, a particular interaction, hierarchical radiosity, local and total errors, bounds and estimates, adaptive radiosity algorithms, the same algorithm, a monotonically increasing series, the l 1 norm]
+192176.txt,0.26,0.55,0.35,0.0,0.0,0.0
+ ----------------------------------------------------- 
+94. File: 192179.txt
+Gold: [[error bounds, global illumination, radiosity, boundary elements, reflectance functions, projection methods, discretization, linear operators]]
+Gen : [error, global illumination algorithms, the analysis, a framework, a finite number, errors, imprecise form factors, measurement or simulation, computational errors, discretization error, reflectance functions, boundary data, inner products, emission functions, three sources, boundary elements, this paper, a finite-dimensional linear system, the finite-dimensional linear system, a corresponding projection method]
+192179.txt,0.34,0.71,0.47,0.0,0.0,0.0
+ ----------------------------------------------------- 
+95. File: 192190.txt
+Gold: [[user interfaces, data visualization, flow charts, spreadsheets, visual programming languages]]
+Gen : [images, cells, tcl, formulas, the spreadsheet, a general-purpose programming language, objects, conventional numerical spreadsheets, spreadsheets, a smart clipboard, the spreadsheet paradigm, some unexpected uses, widgets, operators, miniature, several unique design problems, a visual database browser, a data visualization system, longer computation times, chart visualization systems]
+192190.txt,0.17,0.56,0.26,0.0,0.0,0.0
+ ----------------------------------------------------- 
+96. File: 192213.txt
+Gold: [[BRDF, reflection models, lambert's model, moon reflectance, rough surfaces]]
+Gen : [the surface, a collection, facets, 's model, lambert, rough surfaces, computer graphics, interreflections, the viewing direction, the model, body reflection, a lambertian surface, rough diffuse surfaces, the body reflectance, a comprehensive model, several real-world objects, strong agreement, masking, the reflectance, a rough surface increases]
+192213.txt,0.22,0.63,0.32,0.0,0.0,0.0
+ ----------------------------------------------------- 
+97. File: 192216.txt
+Gold: [[delaunay triangulation, functional minimization, adaptive meshing, fair surface design, polygonal models]]
+Gen : [triangulated surfaces, the surface, controllable free-form surfaces, free-form shape design, sample points, an approach, surfaces, points, the gap, graceful shapes, the freedom, surface features, this style, the resulting surface triangulations, a good computational mesh, a constrained shape optimization, the surface shape evolves, patch-based and particle-based representations, the parameterization worries, squared principal curvatures]
+192216.txt,0.14,0.36,0.2,0.0,0.0,0.0
+ ----------------------------------------------------- 
+98. File: 52795.txt
+Gold: [[database theory, file organisation, boolean algebra, closed-form bounds, database access, distribution information, rule-based system architecture, set intersection, set theory, statistical analysis, union sizes]]
+Gen : [the data items, the data, statistics, a rule-based system architecture, the number, classica oolean optimization techniques, bound how many items, a database system ), mode frequencies and numbers, a prior distribution information, level 2 , 3, some numeric attribute j, only one possible value, min ss special case, another level 2 situation, ( d(i ,j)-d(k ,j), partition ( bin ), more the l number, more than one attribute, iowa residents and statistics]
+52795.txt,0.24,0.38,0.3,0.0,0.0,0.0
+ ----------------------------------------------------- 
+99. File: 63382.txt
+Gold: [[distributed databases, fault tolerant computing, concurrency control, distributed environment, petri nets, file status, majority protocols, performance reliability tradeoffs, replicated file system, stochastic Petri net model, voting algorithm, witnesses]]
+Gen : [a replicated file system, witnesses, the number, place, hosts, stochastic petri net analysis, copies and witnesses, the model, failure and repair, different hosts, no data, the file, a model, copies or witnesses reside, two different majority protocols, a voting algorithm, a distributed environment, replicated files, a token, a quorum]
+63382.txt,0.52,0.5,0.51,0.0,0.0,0.0

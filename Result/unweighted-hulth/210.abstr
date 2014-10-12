@@ -1,0 +1,56 @@
+copnet|NN|BODY_2:BODY_3|0
+we|PRP|BODY_1:BODY_2|0
+users|NNS|BODY_6:BODY_7|0
+rms|NNS|BODY_4|0
+who|WP|BODY_5:BODY_7|0
+the newer system|DT JJR NN|BODY_5:BODY_1|0
+a better interface|DT JJR NN|BODY_2:BODY_1|0
+it|PRP|BODY_1:BODY_7|0
+a good interface|DT JJ NN|BODY_3|0
+systems design|NNS NN|BODY_2|0
+' evaluations|POS NNS|BODY_5|0
+what users|WP NNS|BODY_2|0
+a legacy|DT NN|BODY_2|0
+the older system|DT JJR NN|BODY_6:BODY_7:BODY_9|0
+experts|NNS|BODY_5:BODY_8|0
+compared rms experts|VBN NNS NNS|BODY_4|0
+rms and copnet|NNS CC NN|BODY_3|0
+mistakes|NNS|BODY_9|0
+a graphical user interface|DT JJ NN NN|BODY_6|0
+the older , legacy system|DT JJR , JJ NN|BODY_3|0
+text-based system|JJ NN|BODY_3|0
+cumbersome navigation ( rms )|JJ NN -LRB- NNS -RRB-|BODY_4|0
+two database systems|CD NN NNS|BODY_3|0
+implications|NNS|BODY_1|0
+system design and usability|NN NN CC NN|BODY_2|0
+evaluations|NNS|BODY_2|0
+the information architecture|DT NN NN|BODY_3|0
+easy navigation|JJ NN|BODY_2|0
+a law enforcement|DT NN NN|BODY_4|0
+an information architecture|DT NN NN|BODY_5|0
+a system|DT NN|BODY_8|0
+a new system|DT JJ NN|BODY_3|0
+reasons|NNS|BODY_2|0
+more effective , easier|RBR JJ , JJR|BODY_3|0
+all users|DT NNS|BODY_2|0
+that|WDT|BODY_6|0
+law enforcement users|NN NN NNS|BODY_2|0
+those|DT|BODY_4|0
+this|DT|BODY_5|0
+most adept|RBS JJ|BODY_6|0
+efficient navigation|JJ NN|BODY_4|0
+usability|NN|BODY_1|0
+nonexperts|NNS|BODY_6|0
+one study|CD NN|BODY_1|0
+one system|CD NN|BODY_1|0
+a law enforcement agency|DT NN NN NN|BODY_4|0
+law enforcement personnel|NN NN NNS|BODY_4|0
+simplified navigation ( copnet )|JJ NN -LRB- NN -RRB-|BODY_7|0
+the findings|DT NNS|BODY_1|0
+a highly usable system|DT RB JJ NN|BODY_10|0
+this article|DT NN|BODY_1|0
+two user studies|CD NN NNS|BODY_2|0
+others|NNS|BODY_8|0
+its use|PRP$ NN|BODY_4|0
+some time|DT NN|BODY_3|0
+the second , follow-up study examined use behavior|DT JJ , JJ NN VBN NN NN|BODY_1|0

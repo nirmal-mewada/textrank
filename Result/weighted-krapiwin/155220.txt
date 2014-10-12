@@ -1,0 +1,617 @@
+or-parallel execution models|JJ NN NNS|BODY_5:TITLE_2:ABSTRACT_3:BODY_4|0
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|7
+the or-parallel tree|DT JJ NN|BODY_17:ABSTRACT_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:BODY_10:BODY_7:BODY_8:BODY_9|2
+variables|NNS|BODY_12:BODY_16:BODY_15:BODY_13:BODY_2:BODY_4:BODY_6:BODY_5:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|2
+processors|NNS|BODY_11:BODY_5:ABSTRACT_5:BODY_22:BODY_2:BODY_3:BODY_9|2
+nodes|NNS|BODY_16:BODY_13:ABSTRACT_14:BODY_4:BODY_7:BODY_9|1
+the number|DT NN|BODY_6:BODY_5:BODY_21:ABSTRACT_13:BODY_2:BODY_1:BODY_7:BODY_8|1
+the various or-parallel methods|DT JJ JJ NNS|BODY_3:ABSTRACT_9|2
+the time|DT NN|ABSTRACT_11:BODY_39:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|2
+all three criteria|DT CD NNS|BODY_5:ABSTRACT_2:BODY_3:BODY_4:BODY_7:BODY_8|3
+the size|DT NN|BODY_5:ABSTRACT_16:BODY_18:BODY_2:BODY_7:BODY_9|1
+( parallel ) execution|-LRB- NN -RRB- NN|ABSTRACT_3:BODY_3|0
+a useful way|DT JJ NN|ABSTRACT_8:BODY_2|1
+constant-time task creation|JJ NN NN|ABSTRACT_8:BODY_7|2
+an or-parallel tree|DT JJ NN|BODY_6:ABSTRACT_6:BODY_4:BODY_9|0
+our result|PRP$ NN|BODY_5:ABSTRACT_4:BODY_2:ABSTRACT_7|2
+logic programming languages|NN NN NNS|ABSTRACT_6:BODY_4|2
+a nondeterministic program|DT JJ NN|ABSTRACT_4:BODY_3|0
+a natural way|DT JJ NN|BODY_1:ABSTRACT_1|0
+nondeterministic programming languages|JJ NN NNS|BODY_5:ABSTRACT_4|0
+different nondeterministic computational paths|JJ JJ JJ NNS|ABSTRACT_3|0
+different or-parallel implemenation strategies|JJ JJ NN NNS|ABSTRACT_3|0
+any or-parallel execution model|DT JJ NN NN|ABSTRACT_3|0
+three important criteria|CD JJ NNS|ABSTRACT_2|1
+the term constant-time|DT NN JJ|ABSTRACT_10|1
+constant-time task switching|JJ NN VBG|ABSTRACT_9|1
+a finite number|DT JJ NN|ABSTRACT_4|0
+different parallel architectures|JJ JJ NNS|ABSTRACT_4|0
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9|6
+that|WDT|BODY_6:BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9:BODY_20|1
+it|PRP|BODY_12:BODY_11:BODY_16:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+there|EX|BODY_32:BODY_12:BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_19:BODY_4:BODY_10:BODY_7|1
+the binding node|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+v|NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+n|NN|BODY_12:BODY_22:BODY_17:BODY_42:BODY_24:BODY_3:BODY_14:BODY_4:BODY_35:BODY_6:BODY_10:BODY_7:BODY_8|0
+a variable|DT JJ|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+n )|NN -RRB-|BODY_6:BODY_41:BODY_11:BODY_5:BODY_18:BODY_2:BODY_3:BODY_38:BODY_4:BODY_7:BODY_8:BODY_9|0
+a non-constant time operation|DT JJ NN NN|BODY_6:BODY_11:BODY_5:BODY_22:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|2
+they|PRP|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|2
+this|DT|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+a processor|DT NN|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4|0
+logic programs|NN NNS|BODY_22:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|5
+the set|DT NN|BODY_12:BODY_16:BODY_15:BODY_43:BODY_2:BODY_3:BODY_4:BODY_6:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+one|NN|BODY_6:BODY_12:BODY_1:BODY_2:BODY_3:BODY_4|2
+variable access|JJ NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|2
+c|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_7:BODY_8:BODY_9|0
+theorem 2|NN CD|BODY_2:BODY_1:BODY_10:BODY_4|1
+the environment|DT NN|BODY_5:BODY_11:BODY_3:BODY_10:BODY_4:BODY_37:BODY_7|0
+non-constant size|JJ NN|BODY_6:BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_20:BODY_9|0
+value cells|NN NNS|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_10|0
+the cost|DT NN|BODY_6:BODY_5:BODY_11:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+task-switching|NN|BODY_6:BODY_11:BODY_5:BODY_21:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|2
+a set|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the binding|DT NN|BODY_5:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+task creation|NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+a or c b|DT CC NN NN|BODY_5:BODY_2|1
+.e|NN|BODY_5:BODY_10:BODY_4:BODY_8:BODY_9|0
+a variable v|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_10:BODY_9|0
+several or-parallel execution models|JJ JJ NN NNS|BODY_26|1
+the three principal operations|DT CD JJ NNS|BODY_4|1
+that one or more|IN CD CC JJR|BODY_15|1
+no or-parallel execution method|DT JJ NN NN|BODY_5|1
+the or-parallel tree method|DT JJ NN NN|BODY_6|1
+( proper ) subset|-LRB- JJ -RRB- NN|BODY_6|1
+methods|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+an ideal or-parallel system|DT JJ JJ NN|BODY_4|1
+the value|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+the global data-structure|DT JJ NN|BODY_5:BODY_21:BODY_14:BODY_9|0
+node n|NN NN|BODY_6:BODY_11:BODY_5:BODY_28:BODY_14:BODY_7:BODY_8|0
+denition|NN|BODY_1|0
+binding nodes|JJ NNS|BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+an or-parallel execution model|DT JJ NN NN|BODY_4|0
+the directory tree method|DT NN NN NN|BODY_2:BODY_7|0
+them|PRP|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+1|CD|BODY_5:BODY_3:BODY_10:BODY_7:BODY_8|0
+the environment representation scheme|DT NN NN NN|BODY_13:BODY_2|0
+the hashing windows method|DT VBG NNS NN|BODY_2:BODY_3|0
+conditional variables|JJ NNS|BODY_5:BODY_11:BODY_18:BODY_2:BODY_3:BODY_4|0
+each|DT|BODY_6:BODY_5:BODY_7:BODY_8:BODY_9|0
+at least one|IN JJS CD|BODY_2:BODY_3:BODY_10:BODY_4|1
+p|NN|BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+a and c b|DT CC NN NN|BODY_6:BODY_5:BODY_4|0
+the or-parallel tree (|DT JJ NN -LRB-|BODY_4:BODY_7|0
+symbolic computation and reasoning|JJ NN CC NN|BODY_7:BODY_9|0
+a basis|DT NN|BODY_13:BODY_25:BODY_3:BODY_4|1
+the three criteria|DT CD NNS|BODY_5:BODY_1:BODY_7|1
+the applicable binding node|DT JJ NN NN|BODY_3:BODY_4|0
+a possibly empty list|DT RB JJ NN|BODY_2|0
+p p abstract model|NN NN JJ NN|BODY_2|0
+the multiple search paths|DT JJ NN NNS|BODY_4|0
+the possibly innite set|DT RB JJ NN|BODY_6:BODY_3|0
+p p bc-machine [a88|NN NN NN NNS|BODY_2|0
+all variables|DT NNS|BODY_6:BODY_11:BODY_44:BODY_7|1
+the chosen procedure denition|DT VBN NN NN|BODY_31:BODY_45|0
+the binding arrays method|DT JJ NNS NN|BODY_1:BODY_2|0
+the form id( pars|DT NN NN NNS|BODY_11|0
+h.d. warren and feliks|VBN NNS CC NNS|BODY_2|0
+its own access cell|PRP$ JJ NN NN|BODY_3|0
+a child node|DT NN NN|BODY_5:BODY_16:BODY_1:BODY_3:BODY_10|0
+failure leaf node )|NN NN NN -RRB-|BODY_13|0
+distributed shared memory systems|VBN VBN NN NNS|BODY_2|0
+the well-known single-assignment property|DT JJ JJ NN|BODY_4|0
+w 2 c 0|NN CD NN CD|BODY_3|0
+the following basic proposition|DT VBG JJ NN|BODY_2|0
+the private data-structure (|DT JJ NN -LRB-|BODY_3|0
+their comments and suggestions|PRP$ NNS CC NNS|BODY_3|0
+a constant-time operation lead|DT NN NN NN|BODY_2|0
+a few or-parallel methods|DT JJ JJ NNS|BODY_5|0
+the value cell|DT NN NN|BODY_6:BODY_12:BODY_5:BODY_2:BODY_4:BODY_8:BODY_9|0
+any two local environments|DT CD JJ NNS|BODY_10|0
+a unique time stamp|DT JJ NN NN|BODY_8|0
+the binding pair hw|DT JJ NN NN|BODY_12|0
+a non constant-time operation|DT JJ NN NN|BODY_4|0
+k 3 and constructs|VBP CD CC NNS|BODY_14|0
+the corresponding clause bodies|DT JJ NN NNS|BODY_12|0
+the nite processor assumption|DT NN NN NN|BODY_2|0
+an ideal or-parallel implementation|DT JJ JJ NN|BODY_4|0
+a conditionally bound variable|DT RB VBN JJ|BODY_4|0
+sacrice constant time task-switching|JJ JJ NN NN|BODY_3|0
+p p table 1|NN NN NN CD|BODY_4|0
+no complete or-parallel tree|DT JJ JJ NN|BODY_3|0
+the kabu-wake method [k86]|DT NN NN NN|BODY_3|0
+the access cell ac(v|DT NN NN NN|BODY_3:BODY_4|0
+more than one criterion|JJR IN CD NN|BODY_35|0
+its own private environment|PRP$ JJ JJ NN|BODY_18|0
+the applicable access cell|DT JJ NN NN|BODY_6|0
+its old binding array|PRP$ JJ NN NN|BODY_13|0
+the following three methods|DT VBG CD NNS|BODY_2|0
+both these extreme cases|DT DT JJ NNS|BODY_4|0
+hausman and ciepielewski [hc86]|NN CC NN NNS|BODY_13|0
+a dierent procedure denition|DT JJ NN NN|BODY_21|0
+the latter case task-switching|DT JJ NN NN|BODY_5|0
+independent and-parallelism and or-parallelism|JJ NN CC NN|BODY_3|0
+rst the three cases|RB DT CD NNS|BODY_7|0
+c 0 \c 1|NN CD NN CD|BODY_7|0
+the most conventional strategy|DT RBS JJ NN|BODY_1|0
+any nondeterministic programming language|DT JJ NN NN|BODY_5|0
+an incomplete or-parallel tree|DT JJ JJ NN|BODY_1:BODY_4|0
+no nested procedure denitions|DT JJ NN NNS|BODY_2|0
+c 2 such that|NN CD JJ WDT|BODY_4|0
+the variable address )|DT JJ NN -RRB-|BODY_9|0
+windows method [b84] )|NNS NN NN -RRB-|BODY_13|0
+the syntactic category pars|DT NN NN NNS|BODY_1|0
+a particular conditional variable|DT JJ JJ JJ|BODY_3|0
+the pepsys model [wr87|DT NNS NN CD|BODY_8|0
+the following three criteria|DT VBG CD NNS|BODY_3|0
+those sacricing constant-time task-creation|DT VBG NN NN|BODY_8|0
+functions b and val|NNS NN CC NN|BODY_3|0
+the reduce-or parallel model|DT JJ JJ NN|BODY_6|0
+a partial function vc|DT JJ NN NN|BODY_2|0
+each access node m|DT NN NN NN|BODY_6|0
+an or-parallel tree need|DT JJ NN NN|BODY_2|0
+a ) variable access|DT -RRB- JJ NN|BODY_4|0
+a dierent execution model|DT JJ NN NN|BODY_5|0
+a new binding array|DT JJ JJ NN|BODY_4|0
+the or-parallel search tree|DT JJ NN NN|BODY_4:BODY_10|0
+the access cell irrespective|DT NN NN NN|BODY_6|0
+the versions vector method|DT NNS NN NN|BODY_5|0
+these newly accessible nodes|DT RB JJ NNS|BODY_7|0
+each leaf node l|DT NN NN NN|BODY_6|0
+a given global environment|DT VBN JJ NN|BODY_4:BODY_8|0
+all y n 1|DT JJ NN CD|BODY_3|0
+a new one )|DT JJ CD -RRB-|BODY_11|0
+general a non-constant number|JJ DT JJ NN|BODY_11|0
+an x 2 b(v|DT NN CD NN|BODY_8|0
+nondeterministic , single-assignment languages|JJ , JJ NNS|BODY_4|0
+a single such data-structure|DT JJ JJ NN|BODY_6|0
+the literature|DT NN|BODY_2:BODY_4:BODY_8|4
+an arbitrary processor p|DT JJ NN NN|BODY_2|0
+conditional variable a binding|JJ JJ DT NN|BODY_3|0
+all the binding pairs|PDT DT JJ NNS|BODY_8|0
+an untried procedure denition|DT JJ NN NN|BODY_11|0
+the new binding nodes|DT JJ NN NNS|BODY_10|0
+an ancestor node m|DT NN NN NN|BODY_7|0
+the pepsys model [wr87]|DT NNS NN CD|BODY_5|0
+a complete or-parallel tree|DT JJ IN NN|BODY_3|0
+p p directory tree|NN NN NN NN|BODY_3|0
+one distinct dummy variable|CD JJ JJ JJ|BODY_4|0
+their directory tree method|PRP$ NN NN NN|BODY_16|0
+the depth or size|DT NN CC NN|BODY_5|0
+variable access and binding|JJ NN CC NN|BODY_9|0
+o(v ) and n|NN -RRB- CC NN|BODY_10|0
+a unique owner node|DT JJ NN NN|BODY_2|0
+only one binding node|RB CD JJ NN|BODY_7|0
+our constant-time arguments hinge|PRP$ JJ NNS NN|BODY_1|0
+two distinct binding nodes|CD JJ NN NNS|BODY_3|0
+a partial function species|DT JJ NN NNS|BODY_8|0
+v 2 c )|NN CD NN -RRB-|BODY_7|0
+not constant-time task switching|RB JJ NN VBG|BODY_6|0
+the continuation or size|DT NN CC NN|BODY_8|0
+hash table , etc|NN NN , FW|BODY_6|0
+non-constant time task-creation overheads|JJ NN NN NNS|BODY_7|0
+the other two operations|DT JJ CD NNS|BODY_9|0
+2. notation and terminology|DT NN CC NN|BODY_1|0
+a single global data-structure|DT JJ JJ NN|BODY_1|0
+a binding node|DT JJ NN|BODY_11:BODY_2:BODY_3:BODY_4|0
+a node n )|DT NN NN -RRB-|BODY_6|0
+the hashing window method|DT NN NN NN|BODY_1|0
+all such conditional variables|DT JJ JJ NNS|BODY_3|0
+cva cts version vectors|DT NNS NN NNS|BODY_2|0
+a given access node|DT VBN NN NN|BODY_1|0
+any nondeterministic computational path|DT JJ JJ NN|BODY_4|0
+lemmas 1 and 2|NNS CD CC CD|BODY_1:BODY_2|0
+the latter two cases|DT JJ CD NNS|BODY_1|0
+a sequential execution model|DT JJ NN NN|BODY_1|0
+the most general case|DT RBS JJ NN|BODY_1|0
+v 2 l( x)g|RB CD JJ NN|BODY_2|0
+case ( ii )|NN -LRB- NNS -RRB-|BODY_1|0
+this method value cells|DT NN NN NNS|BODY_1|0
+the binding node b(v|DT JJ NN NN|BODY_1|0
+each binding node m|DT JJ NN NN|BODY_1|0
+the corresponding binding node|DT JJ NN NN|BODY_10|0
+an or-parallel implementation|DT JJ NN|BODY_3|1
+either case non-constant overhead|DT NN JJ NN|BODY_1|0
+the main result|DT JJ NN|BODY_2:BODY_10|1
+task|NN|BODY_16:BODY_17:BODY_15:BODY_2:BODY_3:BODY_7|1
+the rst call|DT JJ NN|BODY_33:BODY_22:BODY_21:BODY_10:BODY_9|0
+the problem|DT NN|BODY_6:BODY_14:BODY_9|1
+all possible ways|DT JJ NNS|BODY_13:BODY_4|1
+a node n|DT NN NN|BODY_6:BODY_12:BODY_5:BODY_13:BODY_7:BODY_8|0
+the global environment|DT JJ NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_2:BODY_3:BODY_7:BODY_9|0
+access cells|NN NNS|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10|0
+the local environment|DT JJ NN|BODY_6:BODY_5:BODY_40|0
+a sequential implementation|DT JJ NN|BODY_2|1
+these criteria|DT NNS|BODY_2:BODY_10:BODY_7|1
+non-constant task-switching time|JJ NN NN|BODY_5:BODY_7|1
+the criteria|DT NNS|BODY_5:BODY_16:BODY_1:BODY_3:BODY_7|4
+the methods|DT NNS|BODY_2:BODY_7|1
+no binding node|DT NN NN|BODY_2:BODY_3|1
+section 6 presents|NN CD NNS|BODY_27|1
+a nite number|DT JJ NN|BODY_2:BODY_8|2
+denitions and remarks|NNS CC NNS|BODY_8|1
+the following denitions|DT VBG NNS|BODY_1:BODY_2|1
+any or-parallel model|DT JJ NN|BODY_1:BODY_7|1
+theorem 2 )|NN CD -RRB-|BODY_6|1
+the literature fall|DT NN NN|BODY_3|1
+ii|NNS|BODY_12:BODY_6:BODY_23:BODY_2:BODY_3:BODY_8:BODY_9|0
+the access cells|DT NN NNS|BODY_2:BODY_10:BODY_4|0
+a natural scheme|DT JJ NN|BODY_2|1
+the tree|DT NN|BODY_12:BODY_15:BODY_13:BODY_2:BODY_8:BODY_9|0
+this paper|DT NN|BODY_5:BODY_1:BODY_2|1
+g( n )|JJ NN -RRB-|BODY_6:BODY_14:BODY_19:BODY_4:BODY_10|0
+an important dierence|DT JJ NN|BODY_1|1
+the same variable|DT JJ JJ|BODY_5|1
+success or failure|NN CC NN|BODY_15:BODY_13|1
+three important operations|CD JJ NNS|BODY_2|1
+environment creation )|NN NN -RRB-|BODY_8|1
+so many methods|RB JJ NNS|BODY_7|1
+non-constant task creation|JJ NN NN|BODY_6|1
+theorem 1|NN CD|BODY_2:BODY_1:BODY_3|1
+the node|DT NN|BODY_5:BODY_7:BODY_9|0
+a few lemmas|DT JJ NNS|BODY_12|1
+section 4 discusses|NN CD NNS|BODY_18|1
+the ancestor stack|DT NN NN|BODY_1:BODY_4|1
+an empty set|DT JJ VBN|BODY_7|1
+their binding nodes|PRP$ JJ NNS|BODY_9|1
+an important subclass|DT JJ NN|BODY_1|1
+constant-time|NN|BODY_12:BODY_6:BODY_11:BODY_16:BODY_1:BODY_8|0
+constant-time addressable memory|JJ JJ NN|BODY_10|1
+our main result|PRP$ JJ NN|BODY_5|1
+example|NN|BODY_6:BODY_1:BODY_3:BODY_10|0
+the processor|DT NN|BODY_2:BODY_4:BODY_7|0
+the root|DT NN|BODY_12:BODY_2:BODY_10:BODY_7:BODY_8:BODY_9|0
+lemma 3|NN CD|BODY_2:BODY_1:BODY_3:BODY_4|1
+our results|PRP$ NNS|BODY_6:BODY_1:BODY_2:BODY_4|0
+the access cell|DT NN NN|BODY_5:BODY_2|0
+access nodes|NN NNS|BODY_6:BODY_11:BODY_3:BODY_10:BODY_4:BODY_8|0
+each conditional variable|DT JJ NN|BODY_6:BODY_11:BODY_3|0
+natural language analysis|JJ NN NN|BODY_13:BODY_9|0
+the delphi method|DT NN NN|BODY_2:BODY_4|0
+the root node|DT NN NN|BODY_11:BODY_7|0
+the value cells|DT NN NNS|BODY_6:BODY_1:BODY_4:BODY_7|0
+a procedure call|DT NN NN|BODY_5:BODY_9|0
+the owner node|DT NN NN|BODY_6:BODY_5:BODY_7|0
+'s local environment|POS JJ NN|BODY_6:BODY_4|0
+each processor|DT NN|BODY_12:BODY_2:BODY_4:BODY_8|0
+the argonne model|DT NN NN|BODY_1:BODY_3:BODY_9|0
+the information|DT NN|BODY_13:BODY_1:BODY_3:BODY_4:BODY_8|0
+the binding environment|DT JJ NN|BODY_3|0
+( ii|-LRB- NNS|BODY_10:BODY_7:BODY_9|0
+the function b|DT NN NN|BODY_2|0
+a value cell|DT NN NN|BODY_5:BODY_3|0
+a processor p|DT NN NN|BODY_5:BODY_4:BODY_7|0
+the muse system|DT NN NN|BODY_2:BODY_3|0
+a task switch|DT NN NN|BODY_2|0
+the sequential execution|DT JJ NN|BODY_2|0
+the branching factor|DT NN NN|BODY_6:BODY_1:BODY_7|0
+space|NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the depth|DT NN|BODY_4:BODY_8:BODY_9|0
+a particular environment|DT JJ NN|BODY_6:BODY_4|0
+an access cell|DT NN NN|BODY_2:BODY_8|0
+the same procedure|DT JJ NN|BODY_12|0
+a constant-time reduction|DT JJ NN|BODY_3|0
+the hash window|DT NN NN|BODY_6:BODY_2|0
+a unique id|DT JJ NN|BODY_2|0
+the access node|DT NN NN|BODY_6:BODY_8|0
+c 1|NN CD|BODY_11:BODY_3:BODY_4|0
+the descendent nodes|DT NN NNS|BODY_13:BODY_9|0
+the parallel exploration|DT JJ NN|BODY_3|0
+b(v|NN|BODY_6:BODY_11:BODY_5:BODY_17:BODY_1:BODY_3:BODY_7:BODY_9|0
+its binding node|PRP$ JJ NN|BODY_6:BODY_10|0
+a reference parameter|DT NN NN|BODY_9|0
+a hash window|DT NN NN|BODY_7|0
+the set c|DT NN NN|BODY_2:BODY_1|0
+lemma 2|NN CD|BODY_5:BODY_11:BODY_2:BODY_1:BODY_3|0
+a memory location|DT NN NN|BODY_6:BODY_7|0
+n ) values|NN -RRB- NNS|BODY_6:BODY_5:BODY_2|0
+a valuable reference|DT JJ NN|BODY_3|0
+a non-constant number|DT JJ NN|BODY_12:BODY_3|0
+the or-parallel component|DT JJ NN|BODY_3|0
+y )|NN -RRB-|BODY_6:BODY_12:BODY_5:BODY_10|0
+the variable bindings|DT JJ NNS|BODY_5:BODY_4|0
+this case|DT NN|BODY_12:BODY_6:BODY_1:BODY_3|0
+each variable v|DT JJ NN|BODY_5:BODY_4|0
+binding arrays [w84|JJ NNS NNS|BODY_1|0
+not a constant|RB DT JJ|BODY_2|0
+the three methods|DT CD NNS|BODY_3|0
+variable binding generation|JJ NN NN|BODY_11|0
+and-or parallel sys|CC JJ NNS|BODY_4|0
+all y m|DT JJ NN|BODY_12:BODY_8|0
+a given query|DT VBN NN|BODY_4|0
+a special case|DT JJ NN|BODY_6:BODY_3|0
+all three operations|DT CD NNS|BODY_2:BODY_7|0
+the very least|DT RB JJS|BODY_5:BODY_13|0
+a task site|DT NN NN|BODY_3:BODY_4|0
+version vectors method|NN NNS NN|BODY_12|0
+a node|DT NN|BODY_6:BODY_5:BODY_3:BODY_7|0
+one or more|CD CC JJR|BODY_8|0
+the binding arrays|DT JJ NNS|BODY_4|0
+each other ,|DT JJ ,|BODY_10|0
+possible multiple bindings|JJ JJ NNS|BODY_4|0
+any particular binding|DT JJ NN|BODY_4|0
+( i .e|-LRB- NN NN|BODY_4:BODY_9|0
+c 2|NN CD|BODY_12:BODY_16:BODY_8|0
+our earlier result|PRP$ JJR NN|BODY_5|0
+aected conditional variables|DT JJ NNS|BODY_6:BODY_14|0
+a new one|DT JJ CD|BODY_15|0
+the formal proof|DT JJ NN|BODY_7|0
+the former class|DT JJ NN|BODY_3|0
+the scheduling policy|DT NN NN|BODY_9|0
+some combination|DT NN|BODY_5:BODY_14:BODY_7|0
+exhibit substantial or-parallelism|NN JJ NN|BODY_10|0
+such a framework|PDT DT NN|BODY_2|0
+program syn- thesis|NN NNS NN|BODY_12|0
+a variable w|DT JJ NN|BODY_1|0
+logic pro- grams|NN NNS NNS|BODY_3|0
+an access node|DT NN NN|BODY_2|0
+the anonmyous referees|DT JJ NNS|BODY_2|0
+an earlier version|DT JJR NN|BODY_4|0
+a known problem|DT VBN NN|BODY_4|0
+proof|NN|BODY_2:BODY_1:BODY_10|0
+the same path|DT JJ NN|BODY_6:BODY_7|0
+the desired property|DT VBN NN|BODY_5|0
+the access nodes|DT NN NNS|BODY_5:BODY_9|0
+the path|DT NN|BODY_11:BODY_4:BODY_7:BODY_8|0
+the main contributions|DT JJ NNS|BODY_4|0
+essentially \two-way pattern-matching|RB JJ NN|BODY_2|0
+the calling environment|DT VBG NN|BODY_4|0
+two disjoint sets|CD JJ NNS|BODY_3|0
+other researchers [w87a|JJ NNS NN|BODY_3|0
+multiple clause heads|JJ NN NNS|BODY_3|0
+this paper self-contained|DT NN JJ|BODY_2|0
+its own copy|PRP$ JJ NN|BODY_2|0
+the same class|DT JJ NN|BODY_2:BODY_4|0
+a given variable|DT VBN NN|BODY_5|0
+all the processors|PDT DT NNS|BODY_2|0
+an undened procedure|DT JJ NN|BODY_12|0
+all or-parallel methods|DT JJ NNS|BODY_2|0
+each p i|DT VBP NN|BODY_5|0
+a constant-time operation|DT NN NN|BODY_3:BODY_19|0
+the automata-theoretic sense|DT JJ NN|BODY_4|0
+the latter class|DT JJ NN|BODY_8|0
+task-creation|NN|BODY_6:BODY_12:BODY_4:BODY_7:BODY_8|0
+k ) )i|NN -RRB- NN|BODY_14|0
+the binding pairs|DT JJ NNS|BODY_11|0
+dierent binding nodes|JJ NN NNS|BODY_9|0
+the sri model|DT NN NN|BODY_11|0
+a particular method|DT JJ NN|BODY_2|0
+versions vectors methods|NNS NNS NNS|BODY_2|0
+more meaningful comparisons|JJR JJ NNS|BODY_6|0
+lemma 2 )|NN CD -RRB-|BODY_4|0
+a smaller fraction|DT JJR NN|BODY_2|0
+each value cell|DT NN NN|BODY_5:BODY_1|0
+two identical bindings|CD JJ NNS|BODY_8|0
+our work lie|PRP$ NN NN|BODY_5|0
+distributed memory systems|VBN NN NNS|BODY_1:BODY_9|0
+our three criteria|PRP$ CD NNS|BODY_3|0
+binding node b(v|NN NN NN|BODY_2|0
+the form head|DT NN NN|BODY_8|0
+the binding nodes|DT JJ NNS|BODY_5:BODY_7|0
+constant time|JJ NN|BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+a single framework|DT JJ NN|BODY_4|0
+the or-parallel execution|DT JJ NN|BODY_6|0
+the logic programs|DT NN NNS|BODY_5|0
+ unbound variables|RB JJ NNS|BODY_3|0
+the best one|DT JJS NN|BODY_4|0
+a node m|DT NN NN|BODY_5|0
+the former case|DT JJ NN|BODY_2|0
+the main cause|DT JJ NN|BODY_2|0
+( c )|-LRB- NN -RRB-|BODY_11|0
+a large number|DT JJ NN|BODY_12|0
+) derefer- encing|-RRB- FW NN|BODY_8|0
+a procedure body|DT NN NN|BODY_3|0
+( b )|-LRB- NN -RRB-|BODY_7|0
+the known problem|DT VBN NN|BODY_8|0
+a non-deterministic program|DT JJ NN|BODY_4|0
+d.h.d. warren [w87b]|VBN NN NN|BODY_3|0
+the version vectors|DT NN NNS|BODY_3|0
+the nal binding|DT JJ NN|BODY_12:BODY_1|0
+each node k|DT NN NN|BODY_11|0
+a goal unies|DT NN NNS|BODY_9|0
+in- stance )|JJ NN -RRB-|BODY_5|0
+no extra cost|DT JJ NN|BODY_7|0
+the proof|DT NN|BODY_1:BODY_3:BODY_8|0
+essentially node identiers|RB NN NNS|BODY_7|0
+three fundamental operations|CD JJ NNS|BODY_4|0
+non-constant time task|JJ NN NN|BODY_3|0
+all conditional variables|DT JJ NNS|BODY_11:BODY_8|0
+the general case|DT JJ NN|BODY_1:BODY_2|0
+a binding array|DT NN NN|BODY_24|0
+its local environment|PRP$ JJ NN|BODY_18|0
+constant size (|JJ NN -LRB-|BODY_3|0
+the implementor (|DT NN -LRB-|BODY_3|0
+task-creation or task-switching|NN CC NN|BODY_12:BODY_11:BODY_7:BODY_8|0
+their present form|PRP$ JJ NN|BODY_8|0
+a non-constant-time operation|DT JJ NN|BODY_9|0
+a conditional variable|DT JJ NN|BODY_2|0
+a two-step process|DT JJ NN|BODY_3|0
+the previous section|DT JJ NN|BODY_5|0
+its own data-structure|PRP$ JJ NN|BODY_6|0
+an arbitrary node|DT JJ NN|BODY_9|0
+corresponding binding node|JJ NN NN|BODY_6|0
+each individual b(v|DT JJ NN|BODY_10|0
+an open question|DT JJ NN|BODY_9|0
+the whole stack|DT JJ NN|BODY_5|0
+the child node|DT NN NN|BODY_6:BODY_3|0
+all technical terms|DT JJ NNS|BODY_5|0
+a systematic way|DT JJ NN|BODY_9|0
+success leaf node|NN NN NN|BODY_9|0
+corollary 1 task-switching|NN CD NN|BODY_2|0
+two or-parallel methods|CD JJ NNS|BODY_1|0
+non-constant time|JJ NN|BODY_3:BODY_4:BODY_7:BODY_8|0
+a local environment|DT JJ NN|BODY_6|0
+the principal operations|DT JJ NNS|BODY_3|0
+a given node|DT VBN NN|BODY_6|0
+the run-time system|DT NN NN|BODY_10|0
+the other operations|DT JJ NNS|BODY_4|0
+the hashing window|DT NN NN|BODY_5|0
+a processor records|DT NN NNS|BODY_2|0
+a bounded number|DT JJ NN|BODY_4|0
+an arbitrary number|DT JJ NN|BODY_3|0
+( iii )|-LRB- NN -RRB-|BODY_11|0
+no implementation method|DT NN NN|BODY_3|0
+a property p|DT NN NN|BODY_3|0
+non-constant time task-switching|JJ NN NN|BODY_3|0
+two distinct binding|CD JJ JJ|BODY_5|0
+lemma 3 are|NN CD VBP|BODY_3|0
+an unbounded number|DT JJ NN|BODY_7|0
+two extreme cases|CD JJ NNS|BODY_2|0
+the main task|DT JJ NN|BODY_3|0
+its binding array|PRP$ NN NN|BODY_7|0
+the current environment|DT JJ NN|BODY_3|0
+two main cases|CD JJ NNS|BODY_2|0
+'s contexts )|POS NNS -RRB-|BODY_6|0
+several binding nodes|JJ NN NNS|BODY_6|0
+v n !m|NN NN NN|BODY_3|0
+an or-parallel model|DT JJ NN|BODY_2|0
+any nondeterministic path|determining|DT JJ NN|BODY_3|0
+a data-structure independent|DT JJ JJ|BODY_5|0
+a particular binding|DT JJ NN|BODY_2|0
+a value cells|DT NN NNS|BODY_5|0
+some node n|DT NN NN|BODY_2|0
+sets c 1|NNS NN CD|BODY_2|0
+current global environment|JJ JJ NN|BODY_7|0
+its current node|PRP$ JJ NN|BODY_4|0
+this method )|DT NN -RRB-|BODY_4|0
+a variable applicable|DT JJ JJ|BODY_5|0
+simplicity and brevity|NN CC NN|BODY_9|0
+its own directory|PRP$ JJ NN|BODY_2|0
+the binding cell|DT NN NN|BODY_11|0
+the other processor|DT JJ NN|BODY_3|0
+c 1 (|NN CD -LRB-|BODY_4|0
+our technical results|PRP$ JJ NNS|BODY_5|0
+general non-deterministic languages|JJ JJ NNS|BODY_4|0
+a one-to-one correspondencey|DT JJ NN|BODY_2|0
+a table showing|DT NN NN|BODY_9|0
+its parent node|PRP$ NN RB|BODY_3|0
+each procedure denition|DT NN NN|BODY_18|0
+theorem 2 are|NN CD VBP|BODY_6:BODY_5|0
+a partial order|DT JJ NN|BODY_5|0
+the same number|DT JJ NN|BODY_3|0
+more or-parallel tasks|RBR JJ NNS|BODY_4|0
+the following assumptions|DT VBG NNS|BODY_2|0
+a few methods|DT JJ NNS|BODY_2|0
+its private data-structure|PRP$ JJ JJ|BODY_9|0
+only a fraction|RB DT NN|BODY_4|0
+constant-time variable access|NN JJ NN|BODY_2|0
+the variable v|DT JJ NN|BODY_2|0
+an unbounded supply|DT JJ NN|BODY_3|0
+three basic operations|CD JJ NNS|BODY_7|0
+an arbitrary set|DT JJ NN|BODY_2|0
+its current environment|PRP$ JJ NN|BODY_3|0
+only three operations|RB CD NNS|BODY_2|0
+n ) value|NN -RRB- NN|BODY_11|0
+only two occasions|RB CD NNS|BODY_2|0
+the new nodes|DT JJ NNS|BODY_12|0
+all possible places|DT JJ NNS|BODY_3|0
+a central aim|DT JJ NN|BODY_4|0
+the association information|DT NN NN|BODY_12:BODY_6|0
+62 p i|CD NN NN|BODY_6|0
+the binding array|DT JJ NN|BODY_3|0
+all local environments|DT JJ NNS|BODY_10|0
+the root )|DT NN -RRB-|BODY_3|0
+c 3 is|NN CD VBZ|BODY_5|0
+a dierent scheme|DT JJ NN|BODY_2|0
+a formal parameter|DT JJ NN|BODY_11|0
+an or-parallel method|DT JJ NN|BODY_2|0
+multiple environment representation|JJ NN NN|BODY_4|0
+the private data-structures|DT JJ NNS|BODY_8|0
+a one-to-one correspondence|DT JJ NN|BODY_2|0
+terms or values|NNS CC NNS|BODY_9|0
+let access cells|VB NN NNS|BODY_2|0
+more binding arrays|JJR NN NNS|BODY_20|0
+c 2 is|NN CD VBZ|BODY_17|0
+the memory cell|DT NN NN|BODY_9|0
+this general case|DT JJ NN|BODY_3|0
+the relevant part|DT JJ NN|BODY_2|0
+every variable v|DT JJ NN|BODY_3|0
+the function vc|DT NN NN|BODY_9|0
+a particular k|DT JJ NN|BODY_3|0
+value cell vc(v|NN NN NN|BODY_7|0
+the latter operation|DT JJ NN|BODY_1|0
+all the contexts|PDT DT NNS|BODY_3|0
+a global environment|DT JJ NN|BODY_5|0
+its associated continuation|PRP$ JJ NN|BODY_14|0
+these three types|DT CD NNS|BODY_15|0
+the binding lists|DT JJ NNS|BODY_7|0
+processors p i|NNS NN NN|BODY_15|0
+n 2 since|RB CD IN|BODY_2|0
+set c 2|NN NN CD|BODY_7|0
+g( n )\c|JJ NN NN|BODY_7|0
+these multiple bindings|DT JJ NNS|BODY_1|0
+the function b(v|DT NN NN|BODY_2|0
+all v 2|PDT NN CD|BODY_8|0
+n ) (|NN -RRB- -LRB-|BODY_3|0
+case ( i)|NN -LRB- NN|BODY_3|0
+each variable binding|DT JJ NN|BODY_9|0
+n and b(v|NN CC NN|BODY_3|0
+all other bindings|DT JJ NNS|BODY_7|0
+the parent node|DT NN NN|BODY_5|0
+each binding node|DT JJ NN|BODY_5|0
+this recomputation results|DT NN NNS|BODY_1|0
+figure 1 )|NN CD -RRB-|BODY_8|0
+'s parent node|POS NN NN|BODY_25|0
+binding arrays method|JJ NNS NN|BODY_1|0
+suppose p switches|VB NN NNS|BODY_1|0
+environment closing duplicates|NN NN NNS|BODY_1|0
+possibly empty )|RB JJ -RRB-|BODY_17:BODY_3:BODY_10|0
+binding node access|JJ NN NN|BODY_5|0
+every binding node|DT NN NN|BODY_1|0
+p naive model|JJ JJ NN|BODY_2|0
+3|CD|BODY_12:BODY_2:BODY_1:BODY_10|0
+non-constant task-creation time|JJ NN NN|BODY_3|0
+a partial function|DT JJ NN|BODY_1|0
+certain parallel schemes|JJ JJ NNS|BODY_1|0
+a given environment|DT VBN NN|BODY_5|0
+case ( i|NN -LRB- FW|BODY_1|0
+( i|-LRB- FW|BODY_6:BODY_5:BODY_4|0
+a data-structure private|DT JJ JJ|BODY_1|0
+the tree )|DT NN -RRB-|BODY_9|0
+( ii )|-LRB- NNS -RRB-|BODY_5|0
+the multiprocessor system|DT NN NN|BODY_14|0
+directories and contexts|NNS CC NNS|BODY_4|0
+the single-assignment property|DT NN NN|BODY_1|0
+such multiple bindings|JJ JJ NNS|BODY_1|0
+the function ac|DT NN NN|BODY_1|0
+its ancestor nodes|PRP$ NN NNS|BODY_8|0
+its children nodes|PRP$ NNS NNS|BODY_8|0
+class 8 methods|NN CD NNS|BODY_1|0
+( i )|-LRB- FW -RRB-|BODY_7|0
+the non-constant cost|DT JJ NN|BODY_1|0
+the search path|DT NN NN|BODY_10|0
+a similar reasoning|DT JJ NN|BODY_1|0
+the latter case|DT JJ NN|BODY_1|0
+the new task|DT JJ NN|BODY_10|0
+the next call|DT JJ NN|BODY_5|0
+a list )|DT NN -RRB-|BODY_16|0
+only one criterion|RB CD NN|BODY_7|0
+dierent methods dier|JJ NNS NN|BODY_1|0
+corollary 1 )|NN CD -RRB-|BODY_9|0
+2. access cells|. NN NNS|BODY_1|0
+respective binding nodes|JJ NN NNS|BODY_11|0
+the program iii|DT NN NN|BODY_3|0
+a non-constant size|DT JJ NN|BODY_3|0
+a given time|DT VBN NN|BODY_10|0
+any given moment|DT VBN NN|BODY_5|0
+a node branches|DT NN NNS|BODY_1|0
+directory tree method|NN NN NN|BODY_1|0
+general c 0|JJ NN CD|BODY_19|0
+the entire data-structure|DT JJ NN|BODY_6|0
+the function val(v|DT NN NN|BODY_1|0
+the corresponding binding|DT JJ JJ|BODY_8|0
+the worst case|DT JJS NN|BODY_1|0
+each access node|DT NN NN|BODY_1|0
+let c 1|VB NN CD|BODY_1|0
+non-constant-time task-creation overheadsy|JJ NN NN|BODY_10|0
+i|FW|BODY_47:BODY_5:BODY_17:BODY_15:BODY_2:BODY_4|0
+the overall performance|DT JJ NN|BODY_1|0
+the contents|DT NNS|BODY_5:BODY_2:BODY_10|0
+c b|NN NN|BODY_6:BODY_12:BODY_2|0
+k|NN|BODY_6:BODY_5:BODY_11:BODY_7:BODY_9|0
+the data-structure|DT NN|BODY_13:BODY_2:BODY_4|0
+unication|NN|BODY_5:BODY_2:BODY_1:BODY_10|0
+a constant|DT JJ|BODY_11:BODY_22:BODY_2:BODY_7|0
+the case|DT NN|BODY_12:BODY_18:BODY_1:BODY_2|0
+the requirement|DT NN|BODY_2:BODY_3:BODY_10|0
+all nodes|DT NNS|BODY_6:BODY_1:BODY_3:BODY_8|0

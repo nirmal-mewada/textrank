@@ -1,0 +1,295 @@
+we|PRP|BODY_6:BODY_17:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8|6
+that|IN|BODY_11:BODY_16:BODY_17:BODY_2:BODY_3:BODY_14:BODY_4:BODY_33:BODY_6:ABSTRACT_5:BODY_1:BODY_19:BODY_10:BODY_51:BODY_7:ABSTRACT_9:BODY_8|0
+it|PRP|BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+the mas|DT NN|BODY_6:BODY_11:BODY_5:BODY_17:BODY_18:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_20|2
+examples|NNS|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|1
+there|EX|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_8|0
+h|NN|BODY_21:BODY_13:BODY_26:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_35:BODY_5:BODY_28:BODY_1:BODY_50|0
+agents|NNS|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|1
+the number|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|1
+ri|NNP|BODY_6:BODY_5:BODY_21:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8|0
+information k|NN NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_19:ABSTRACT_7:BODY_7:BODY_9|0
+bi|NNS|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|0
+information|NN|BODY_5:BODY_2:BODY_4:BODY_10:BODY_7:BODY_9|0
+an agent|DT NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_7:BODY_8|0
+each agent|DT NN|BODY_6:ABSTRACT_8:BODY_2:BODY_1:ABSTRACT_1:BODY_4:BODY_7|1
+the agents|DT NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_7:BODY_9|0
+other agents|JJ NNS|BODY_12:BODY_11:BODY_5:BODY_15:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|1
+terms|NNS|BODY_12:BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_7|1
+the current hypothesis|DT JJ NN|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4|1
+the learner agent ri|DT NN NN NNP|BODY_5:BODY_16:BODY_3:BODY_4|0
+the whole set|DT JJ NN|BODY_5:ABSTRACT_6:BODY_2:BODY_14:BODY_4:BODY_8|0
+e|NN|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+bc|NN|BODY_12:BODY_5:BODY_3:BODY_4:BODY_7|0
+an intentional multi-agent system|DT JJ JJ NN|BODY_4|0
+a â‰ ¤ si|DT NN NN FW|BODY_3|0
+the thirty three classifiers|DT CD CD NNS|BODY_3|0
+eâˆ ’|FW FW|BODY_34:BODY_27:BODY_24:BODY_4:BODY_8|0
+information k reaching ri|NN NN VBG NNP|BODY_8|0
+a multi agent system|DT JJ NN NN|BODY_5:ABSTRACT_3|0
+the most active part|DT RBS JJ NN|BODY_2|0
+both 1-mas and 10-mas|DT NNS CC NNS|BODY_2|0
+the 1/16 msâˆ’1 mas|DT CD CD NNS|BODY_6|0
+the ongoing hypothesis h|DT JJ NN NN|BODY_2|0
+( 200 examples )|-LRB- CD NNS -RRB-|BODY_3|0
+an incremental learning mechanism|DT JJ NN NN|BODY_2|0
+the most specific term|DT RBS JJ NN|BODY_6:BODY_11|0
+the single agent case|DT JJ NN NN|BODY_11|0
+the learning environment weka[16]|DT NN NN NN|BODY_11|0
+the 100 agents mas|DT CD NNS NNS|BODY_10|0
+the other agents|DT JJ NNS|BODY_12:BODY_11:BODY_1:BODY_7:BODY_20|0
+2.1 definitions and framework|CD NNS CC NN|BODY_2|1
+two 11-mas respectively submitted|CD CD RB VBN|BODY_4|0
+0.9999 and 1 )|CD CC CD -RRB-|BODY_5|0
+the single agent expresses|DT JJ NN NNS|BODY_6|0
+691 // 71.5- 73.4|CD NN CD CD|BODY_7|0
+the resulting method smile|DT VBG NN NN|ABSTRACT_1|0
+the pair ( tag|DT NN -LRB- NN|BODY_9|0
+the p first attributes|DT NN JJ NNS|BODY_20|0
+67.7 62.7 64.6 78.2|CD CD CD CD|BODY_5|0
+mas|NNS|BODY_6:BODY_3:BODY_7:BODY_8|2
+h âˆª {hi} uncoveredpos=uncoveredpos|NN JJ NN NNS|BODY_47|0
+a collective learning protocol|DT JJ NN NN|BODY_2|0
+a difficult parity problem|DT JJ NN NN|BODY_13|0
+a âˆ § b|DT NN NN NN|BODY_25|0
+a0 âˆ§a1 âˆ§â¬a2 âˆ§d6|IN CD CD NNS|BODY_6|0
+15 50.9 51.93 62.4|CD CD CD CD|BODY_8|0
+the target formula f|DT NN NN NN|BODY_3|0
+h. â€ ¢ e|NN JJ NN NN|BODY_3|0
+an update mechanism m|DT NN NN NN|BODY_4|0
+a revision mechanism m|DT NN NN NN|BODY_3|0
+less and less counterexamples|JJR CC JJR NNS|BODY_9|0
+a 1/33 msâˆ’1 rate|DT CD CD NN|BODY_4|0
+all other agents rk|DT JJ NNS NN|BODY_8|0
+this collaborative learning mechanism|DT JJ NN NN|BODY_2|0
+the maximal theoretical value|DT JJ JJ NN|BODY_5|0
+a simple dnf formula|DT JJ JJ NN|BODY_24|0
+the p others bits|DT NN NNS NNS|BODY_22|0
+the previously received examples|DT RB VBN NNS|BODY_9|0
+not âˆ ’ c}|RB VBN IN NN|BODY_6|0
+â€ ¢ agent ri|JJ JJ NN NNP|BODY_8|0
+an update mechanism ms|DT NN NN NNS|BODY_3:BODY_4|0
+a consistent learning hypothesis|DT JJ NN NN|BODY_13|0
+a single agent figure|DT JJ NN NN|BODY_3|0
+a critic agent crashes|DT NN NN NNS|BODY_4|0
+an application changing bi|DT NN VBG NN|BODY_3|0
+the consistency maintenance process|DT NN NN NN|BODY_6|0
+e+ ) ar= atoms|NN -RRB- NN NNS|BODY_32|0
+a 10 agents mas|DT CD NNS NNS|BODY_8|0
+the current hypotheses )|DT JJ NNS -RRB-|BODY_5|0
+column ( 1 )|NN -LRB- CD -RRB-|BODY_1|0
+each distinct threshold si|DT JJ NN FW|BODY_1|0
+jrip and id3 parameters|NN CC NN NNS|BODY_1|0
+learning and figure 1|NN CC NN CD|BODY_3|0
+80 to 100 examples|CD TO CD NNS|BODY_3|0
+the final update bc|DT JJ NN NN|BODY_3|0
+its own concept representation|PRP$ JJ NN NN|BODY_6|0
+such that cons( bi|PDT DT NN NN|BODY_13|0
+the iono problem case|DT NN NN NN|BODY_2|0
+the common part bc|DT JJ NN JJ|BODY_15|0
+this common set bc|DT JJ NN NN|BODY_2|0
+the current hypothesis h|DT JJ NN NN|BODY_2|0
+a current hypothesis h|DT JJ NN NN|BODY_5|0
+one or n agents|CD CC RB NNS|BODY_3|0
+the current example memory|DT JJ NN NN|BODY_4|0
+the target dnf )|DT NN NN -RRB-|BODY_7|0
+all the examples present|PDT DT NNS NN|BODY_22|0
+â€ ¢ agent rj|JJ JJ NN NNP|BODY_4|0
+mas-consistent iff cons( bi|JJ NN NN NN|BODY_8|0
+a generic update mechanism|DT JJ NN NN|BODY_7|1
+agent ri and e|NN NNP CC NN|BODY_5|0
+the concept representation )|DT NN NN -RRB-|ABSTRACT_3|0
+07 ) 169 number|CD -RRB- CD NN|BODY_5|0
+a whole , coherent|DT JJ , JJ|BODY_9|0
+the update m( bi|DT NN NN NN|BODY_8|0
+its minimal value 1|PRP$ JJ NN CD|BODY_4|0
+its common part bc|PRP$ JJ NN IN|BODY_11|0
+a bdi formalism [6]|DT NN NN NN|BODY_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+its own context )|PRP$ JJ NN -RRB-|BODY_4|0
+ripper[2] ) and id3[12]|NNS -RRB- CC NN|BODY_14|0
+the final hypothesis h|DT JJ NN NN|BODY_2|0
+our slow learning mode|PRP$ JJ NN NN|BODY_3|0
+the column nb ex|DT NN NN NN|BODY_1|0
+a strong mas-consistent mechanism|DT JJ JJ NN|BODY_3|0
+the common set bc|DT JJ NN NN|BODY_6|0
+a-consistent iff cons( bi|JJ NN NN NN|BODY_5|0
+the three accuracy curves|DT CD NN NNS|BODY_1|0
+all the revisable knowledge|PDT DT JJ NN|BODY_5|0
+the following table sums|DT VBG NN NNS|BODY_1|0
+the boolean formulae f|DT JJ JJ NN|BODY_1|0
+a new updated hypothesis|DT JJ VBN NN|BODY_11|0
+2 to 20 agents|CD TO CD NNS|BODY_4|0
+some non boolean problems|DT JJ JJ NNS|BODY_3|0
+the single agent curve|DT JJ NN NN|BODY_1|0
+instance xor5 15 )|NN IN CD -RRB-|BODY_13|0
+the resulting example stream|DT VBG NN NN|BODY_1|0
+k1 âˆª k )|CD JJ NN -RRB-|BODY_6|0
+all its agents ri|DT PRP$ NNS NN|BODY_4|0
+some difficult boolean formulas|DT JJ JJ NNS|ABSTRACT_1|0
+the multiplexer 11 testbed|DT NN CD NN|BODY_1|0
+atoms e âš† a.|NNS NN NN NN|BODY_5|0
+a correct generalization h|DT JJ NN NN|BODY_1|0
+3.2 incremental learning process|CD JJ NN NN|BODY_1|0
+all the other agents|PDT DT JJ NNS|BODY_8|0
+column s-1 and s-10|NN NN CC NN|BODY_1|0
+incremental mas concept learning|JJ NNS NN VBG|BODY_6|1
+a covered negative example|DT VBN JJ NN|BODY_5|0
+the new example e|DT JJ NN NN|BODY_5|0
+the 3 address attributes|DT CD NN VBZ|BODY_3|0
+ki ) a-consistent â‡|FW -RRB- NN NN|BODY_4|0
+some other boolean functions|DT JJ JJ NNS|BODY_1|0
+at least one piece|IN JJS CD NN|BODY_1|0
+this first contradictory example|DT JJ NN NN|BODY_1|0
+this mas-consistency maintenance process|DT NN NN NN|BODY_1|0
+4.1.4.2 ml database problems|CD JJ NN NNS|BODY_1|0
+the update mechanism ms|DT NN NN NNS|BODY_1|0
+he|PRP|BODY_6:BODY_3:BODY_4:BODY_10:ABSTRACT_10|0
+a|DT|BODY_5:BODY_2:BODY_3:BODY_4|0
+a set|DT NN|BODY_2:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+they|PRP|BODY_6:BODY_5:BODY_4|0
+a new example|DT JJ NN|BODY_6:BODY_5:BODY_3:BODY_7|0
+an example|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the whole mas|DT JJ NNS|BODY_5:ABSTRACT_4:BODY_4:BODY_9|1
+the total number|DT JJ NN|BODY_5:BODY_14:BODY_4:BODY_9|1
+them|PRP|BODY_11:BODY_5:BODY_16:BODY_18:BODY_3:BODY_7:BODY_9|0
+the sixth intl|DT JJ NN|BODY_2:BODY_1:BODY_7:BODY_8|0
+an update|DT NN|BODY_5:BODY_1:BODY_4:BODY_8|1
+a single agent|DT JJ NN|ABSTRACT_4:BODY_4:BODY_7:BODY_8|1
+ki|FW|BODY_13:BODY_4:BODY_9|0
+the results|DT NNS|BODY_2:BODY_3:BODY_9|0
+all the examples|DT DT NNS|BODY_3:BODY_7:BODY_9|0
+the environment|DT NN|BODY_6:BODY_12:BODY_11:BODY_16|0
+a critic agent|DT NN NN|BODY_2|1
+a better exploration|DT JJR NN|BODY_17:BODY_3|1
+the mas-consistency|DT NN|BODY_3:BODY_4:BODY_7|1
+the common part|DT JJ NN|BODY_6:BODY_5:BODY_10|0
+the learner agent|DT NN NN|BODY_2:BODY_4:BODY_10|0
+a n-mas|DT NN|BODY_2:BODY_3|1
+the system|DT NN|BODY_6:BODY_11:BODY_17:BODY_4:BODY_8|0
+a mas|DT NN|BODY_6:BODY_2:BODY_14|0
+the examples|DT NNS|BODY_12:BODY_5:ABSTRACT_8:BODY_10:BODY_4|0
+(|-LRB-|BODY_23:BODY_4:BODY_8|0
+this mechanism|DT NN|BODY_6:BODY_2:BODY_1|0
+the accuracy results|DT NN NNS|BODY_5:BODY_1|0
+such a protocol|JJ DT NN|BODY_2|0
+the learning process|DT NN NN|BODY_5:BODY_2|0
+an example e|DT NN NN|BODY_2:BODY_4|1
+a 10-mas|DT JJ|BODY_5:BODY_2:BODY_4|0
+non-incremental classical methods|JJ JJ NNS|BODY_13|0
+§ i )|NN FW -RRB-|BODY_31|0
+â¬a0 âˆ§â¬a1 âˆ§â¬a2|CD CD CD|BODY_15|0
+paris vi university|NN NN NN|BODY_7|0
+8 data boolean|CD NN NN|BODY_5|0
+n = 2|NN SYM CD|BODY_12:BODY_6|0
+a multi-agent system|DT JJ NN|ABSTRACT_4:BODY_4|0
+the optimal number|DT JJ NN|BODY_5:BODY_2|0
+)|-RRB-|BODY_15:BODY_3:BODY_10:BODY_7|0
+a similar approach|DT JJ NN|BODY_2|0
+a real autonomy|DT JJ NN|BODY_3|0
+ri( bi|JJ NN|BODY_5:BODY_2:BODY_3|0
+the different agents|DT JJ NNS|BODY_4|0
+¢ coveredonlyby( h|NN NN NN|BODY_2|0
+the belief set|DT NN NN|BODY_3:BODY_8|0
+a previous work|DT JJ NN|BODY_3|0
+collective incremental learning|JJ JJ NN|BODY_6|1
+the 11-multiplexer (|DT JJ -LRB-|BODY_7|0
+the m11 case|DT CD NN|BODY_4:BODY_8|0
+ei ) states|FW -RRB- NNS|BODY_2|0
+iff cons( bj|NN NN NN|BODY_22|0
+our protocol|PRP$ NN|BODY_6:BODY_3|0
+the new hypothesis|DT JJ NN|BODY_2|0
+the others agents|DT NNS NNS|BODY_10|1
+smile|NN|BODY_5:TITLE_1:BODY_3|0
+all the agents|PDT DT NNS|BODY_6:BODY_15|0
+i.2.11 [artificial intelligence]|RB JJ NN|ABSTRACT_4|0
+an update mechanism|DT NN NN|BODY_3:BODY_4|1
+the update process|DT NN NN|BODY_2:BODY_1|0
+91.4-99.4 96.8 97.3|CD CD CD|BODY_4|0
+the respective accuracies|DT JJ NNS|BODY_4|0
+âˆ§â¬a2 âˆ§d2 )âˆ¨(|CD CD IN|BODY_13|0
+the top )|DT NN -RRB-|BODY_15:BODY_9|0
+the mechanism ms|DT NN NNS|BODY_2:BODY_1|1
+âˆ § h|NN NN NN|BODY_30|0
+âˆ§â¬a1 âˆ§a2 âˆ§d1|CD CD NNS|BODY_14|0
+an incomplete information|DT JJ NN|BODY_5|0
+the update bc|DT NN NN|BODY_7:BODY_9|0
+various learning methods|JJ NN NNS|BODY_5|0
+the incremental algorithm|DT JJ NN|BODY_10|0
+an incremental learner|DT JJ NN|BODY_4|1
+the accuracy curve|DT NN NN|BODY_9|0
+4 address bits|CD NN NNS|BODY_10|0
+supervised concept learning|JJ NN NN|ABSTRACT_2|0
+the 20-multiplexer m20|DT JJ NN|BODY_9|0
+the corresponding protocol|DT JJ NN|ABSTRACT_1|0
+the mechanism description|DT NN NN|BODY_2|0
+âˆ§â¬a1 âˆ§â¬a2 âˆ§d4|CD CD NNS|BODY_9|0
+the best specialization|DT JJS NN|BODY_39|0
+16 data bits|CD NNS NNS|BODY_11|0
+a2 âˆ§d5 )âˆ¨(|DT CD IN|BODY_8|0
+our update mechanism|PRP$ NN NN|BODY_3|1
+some related works|DT JJ NNS|BODY_3|0
+positive/negative ) problems|NN -RRB- NNS|BODY_3|0
+ki âˆª k|FW FW FW|BODY_9|0
+its beliefs bi|PRP$ NNS NN|BODY_6|0
+mas abduction problems|NNS NN NNS|BODY_3|0
+the set|DT VBN|BODY_6:BODY_12:BODY_5:BODY_13:BODY_9|0
+the mas memory|DT NNS NN|BODY_6:BODY_2|0
+the multiplexer-11 case|DT NN NN|BODY_6|0
+9 irrelevant attributes|CD JJ NNS|BODY_6|0
+the accuracy|DT NN|BODY_2:BODY_4|0
+a0 âˆ§â¬a1 âˆ|IN CD NN|BODY_7|0
+the learning method|DT NN NN|BODY_6|0
+the same learning|DT JJ NN|ABSTRACT_2|0
+an other agent|DT JJ NN|BODY_3|0
+a single one|DT JJ CD|BODY_4|0
+figure 4 )|NN CD -RRB-|BODY_5|0
+a 11.0 terms|DT CD NNS|BODY_9|0
+the first author|DT JJ NN|BODY_3|0
+the word example|DT NN NN|BODY_8|0
+211 possible examples|CD JJ NNS|BODY_3|0
+the other critics|DT JJ NNS|BODY_6|0
+boolean function learning|JJ NN NN|BODY_5|0
+the 10-mas converges|DT JJ NNS|BODY_3|0
+the modification proposal|DT NN NN|BODY_3|0
+the following steps|DT JJ NNS|BODY_7|0
+two asynchronous 11-mas|CD JJ NNS|BODY_6|0
+any agent ri|DT NN NNP|BODY_6|0
+an instance|DT NN|BODY_5:BODY_7|0
+two standard algorithms|CD JJ NNS|BODY_10|0
+its learning curve|PRP$ NN NN|BODY_2|0
+ttt and kr-vs-kp|NN CC NN|BODY_5|0
+its constituting atoms|PRP$ NN NNS|BODY_3|0
+n = 20|NN SYM CD|BODY_14:BODY_8|0
+the common belief|DT JJ NN|BODY_2|0
+an accuracy improvement|DT NN NN|BODY_3|0
+a hypothesis h|DT NN NN|BODY_2|0
+â€ ¢ e|NN NN NN|BODY_3|0
+a memory e|DT NN NN|BODY_6|0
+an exact solution|DT JJ NN|BODY_4|0
+a maximal number|DT JJ NN|BODY_3|0
+jrip and id3|NN CC NN|BODY_2|0
+the learning task|DT VBG NN|BODY_2|1
+the synchronized 10-mas|DT JJ NNS|BODY_2|0
+this âˆª kj|DT NN NN|BODY_3|0
+only two classes|RB CD NNS|BODY_2|0
+the given hypothesis|DT VBN NN|BODY_2|0
+a consistent mas|DT JJ NN|BODY_2|0
+a pre-condition )|DT NN -RRB-|BODY_4|0
+general ( crash|JJ -LRB- NN|BODY_9|0
+no explicit representation|DT JJ NN|BODY_8|0
+a n-mas (|DT NN -LRB-|BODY_5|0
+âˆ§a1 âˆ§a2 âˆ§d7|CD CD NNS|BODY_5|0
+a difficult test|DT JJ NN|BODY_5|0
+full instance memory|JJ NN NN|BODY_5|1
+the ongoing examples|DT JJ NNS|BODY_3|0
+all agent ri|DT NN NNP|BODY_6|0
+its new hypothesis|PRP$ JJ NN|BODY_9|1
+its update mechanism|PRP$ NN NN|BODY_2|0
+1 and 10mas|CD CC CD|BODY_7|0
+learners or critics|NNS CC NNS|BODY_3|0
+our learning mechanism|PRP$ NN NN|BODY_6|0
+current hypothesis updates|JJ NN NNS|BODY_16|1
+4.1.1 execution time|CD NN NN|BODY_3|0
+a general formulation|DT JJ NN|BODY_5|1

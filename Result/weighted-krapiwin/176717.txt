@@ -1,0 +1,329 @@
+sparse rational interpolation|JJ JJ NN|TITLE_2:ABSTRACT_3|0
+arithmetic operations|JJ NNS|BODY_17:ABSTRACT_8:BODY_4:BODY_8:BODY_20|1
+the number|DT NN|BODY_5:BODY_2:BODY_1:ABSTRACT_7:BODY_8|0
+the first deterministic algorithm|DT JJ JJ NN|ABSTRACT_4|0
+the computational complexity|DT JJ NN|ABSTRACT_2|0
+singly exponential bounds|RB JJ NNS|ABSTRACT_6|0
+we|PRP|BODY_12:BODY_17:BODY_15:BODY_13:BODY_2:BODY_25:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_8:BODY_9:BODY_20|5
+that|DT|BODY_6:BODY_18:BODY_13:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|0
+f|NN|BODY_12:BODY_11:BODY_21:BODY_23:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_19:BODY_10:BODY_7:BODY_9|3
+all the f( x|PDT DT JJ SYM|BODY_9|1
+the kind l a;b|DT NN NN NN|BODY_6|1
+n-variable rational function f|JJ JJ NN NN|BODY_10|1
+only a finite number|RB DT JJ NN|BODY_3|1
+the coefficients and exponents|DT NNS CC NNS|BODY_12|1
+there|EX|BODY_6:BODY_5:BODY_13:BODY_26:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_9|2
+the algorithm|DT NN|BODY_6:BODY_5:BODY_18:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the numerator and denominator|DT NN CC NN|BODY_6:BODY_3:BODY_4|0
+f 2 c hhxii|NN CD NN NNS|BODY_2:BODY_3|0
+the c -linear operator|DT NN NN NN|BODY_5:BODY_10|0
+a positive real number|DT JJ JJ NN|BODY_2|0
+the rational function f|DT JJ NN NN|BODY_17:BODY_14|0
+a real quasirational function|DT JJ JJ NN|BODY_2:BODY_3|0
+t-sparse polynomials ( c.f.|JJ NNS -LRB- NN|BODY_4|0
+the exponents p ff|DT NNS NN NN|BODY_8|0
+the above algorithm yields|DT JJ NN NNS|BODY_2|0
+any algebraically closed field|DT RB JJ NN|BODY_3|0
+the unknown coefficients oe|DT JJ NNS NN|BODY_3|0
+the same exponent vectors|DT JJ NN NNS|BODY_3|0
+a multivariate quasirational function|DT JJ JJ NN|BODY_5|0
+an irreducible constructible set|DT JJ JJ NN|BODY_2|0
+a spanning tree t|DT NN NN NN|BODY_2|0
+a rational function f|DT JJ NN NN|BODY_3|0
+the univariate rational functions|DT JJ JJ NNS|BODY_5|0
+both minimally ( 2|DT RB -LRB- CD|BODY_5|0
+respectively j i )|RB NN IN -RRB-|BODY_7|0
+a minimal ( t|DT JJ -LRB- NN|BODY_18|0
+any such ff i|DT JJ NN NN|BODY_11|0
+most ( t 1|JJS -LRB- NN CD|BODY_4|0
+the other linear operator|DT JJ NN NN|BODY_2|0
+a finite sum i|DT NN NN FW|BODY_2|0
+e.g. ,  1|FW , JJ CD|BODY_7|0
+some j assign weight|DT RB NN NN|BODY_6|0
+this ( t 0|DT -LRB- NN CD|BODY_6|0
+i ) 2 q|FW -RRB- CD NN|BODY_16|0
+that f( 2 i|DT NN CD NN|BODY_2|0
+all the possible values|PDT DT JJ NNS|BODY_10|0
+a representation and h|DT NN CC NN|BODY_12|0
+a minimally rational function|DT RB JJ NN|BODY_2|0
+( i ) k|-LRB- FW -RRB- NN|BODY_16|0
+all the exponents ff|DT DT NNS NN|BODY_3|0
+( i ) l|-LRB- FW -RRB- NN|BODY_3|0
+some useful linear operators|DT JJ NN NNS|BODY_3|0
+vn vn vn vn|NN NN NN NN|BODY_5|0
+at least n vectors|IN JJS NN NNS|BODY_7|0
+these solutions p ff|DT NNS NN NN|BODY_8|0
+2 and log 2|CD CC VBP CD|BODY_2|0
+( [11] or [12]|-LRB- NN CC NN|BODY_3|0
+any pair \sigmaa states|DT NN JJ NNS|BODY_4|0
+hence the exponents ff|RB DT NNS NN|BODY_16|0
+( h ~ [26]|-LRB- JJ NN NN|BODY_3|0
+lemma 3 b )|NN CD NN -RRB-|BODY_2|0
+the following immediate consequence|DT VBG JJ NN|BODY_2|0
+the - ( i|DT : -LRB- FW|BODY_8|0
+the corresponding minimal representation|DT JJ JJ NN|BODY_4|0
+[1] ,[9] ,[11] )|DT JJ NN -RRB-|BODY_5|0
+all normalized )-sparse representations|DT JJ JJ NNS|BODY_20|0
+some small p )|DT JJ NN -RRB-|BODY_16|0
+each some )-sparse representation|DT DT JJ NN|BODY_2|0
+i ) k )|FW -RRB- NN -RRB-|BODY_11|0
+t o(t ) points|NN NN -RRB- NNS|BODY_8|0
+[19] ,[27] , [28]|JJ NN , NN|BODY_4|0
+a small set v|DT JJ NN NN|BODY_6|0
+0 ae c n|CD NNS NN NN|BODY_3|0
+f( x lemma 11|JJ SYM NN CD|BODY_14|0
+a quasirational function f|DT JJ NN NN|BODY_1|0
+these points p j|DT NNS NN NN|BODY_6|0
+polynomial ( black box|NN -LRB- JJ NN|BODY_1|0
+univariate real quasirational functions|JJ JJ JJ NNS|BODY_3|0
+a more efficient algorithm|DT RBR JJ NN|BODY_4|0
+an arbitrary representation h|DT JJ NN NN|BODY_1|0
+f( x vn )|NN NN NN -RRB-|BODY_1|0
+suitable c 2 c|JJ NN CD NN|BODY_1|0
+bounded degree rational interpolation|VBD NN JJ NN|BODY_1|0
+a minimal normalized representation|DT JJ JJ NN|BODY_5|0
+oe ( i )|NN -LRB- FW -RRB-|BODY_9|0
+the same complexity bounds|DT JJ NN NNS|BODY_3|0
+each ( fl 0g|DT -LRB- NN NN|BODY_1|0
+the exponents|DT NNS|BODY_6:BODY_5:BODY_17:BODY_1:BODY_3:BODY_19:BODY_4:BODY_10:BODY_7:BODY_8|4
+a black box|DT JJ NN|BODY_6:BODY_2:BODY_3:BODY_8|1
+rational function interpolation|JJ NN NN|BODY_12|1
+not all zero|RB DT CD|BODY_16:BODY_3|1
+o( 1 )|NN CD -RRB-|BODY_6:BODY_22:BODY_19|1
+a t-sparse representation|DT JJ NN|BODY_18:BODY_13|1
+w 0 (|NN CD -LRB-|BODY_21|1
+an exact statement|DT JJ NN|BODY_27|1
+two t-sparse polynomials|CD JJ NNS|BODY_9|1
+a t-sparse (|DT JJ -LRB-|BODY_7|1
+the symmetric difference|DT JJ NN|BODY_2|1
+each irreducible component|DT JJ NN|BODY_20|1
+black box evaluations|JJ NN NNS|BODY_16|1
+minimal normalized representations|JJ JJ NNS|BODY_4|1
+sufficiently many n-tuples|RB JJ NNS|BODY_4|1
+this result )|DT NN -RRB-|BODY_28|1
+(|-LRB-|BODY_15:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the black box|DT JJ NN|BODY_6:BODY_13:BODY_1:BODY_2:BODY_3|0
+the exponent vectors|DT JJ NNS|BODY_13:BODY_2:BODY_10:BODY_4:BODY_9|0
+a rational function|DT JJ NN|BODY_15:BODY_2:BODY_4|0
+f( x )|NN NN -RRB-|BODY_2:BODY_7|0
+an open subset|DT JJ NN|BODY_5:BODY_3|0
+a constructible set|DT JJ NN|BODY_6:BODY_2|0
+a finite number|DT JJ NN|BODY_12:BODY_3|0
+the then algorithm|DT RB NN|BODY_2|0
+a quasirational function|DT JJ NN|BODY_4:BODY_7|0
+such a representation|JJ DT NN|BODY_2:BODY_8|0
+some fixed branch|DT JJ NN|BODY_15|0
+non-singular ( c.f.|JJ -LRB- NN|BODY_7|0
+a unique solution|DT JJ NN|BODY_6:BODY_4|0
+some ( ~fl|DT -LRB- NN|BODY_2|0
+the ff i|DT NN NN|BODY_2|0
+the p-power form|DT NN NN|BODY_2|0
+a system t|DT NN NN|BODY_2:BODY_4|0
+a zero test|DT CD NN|BODY_2|0
+such a bound|PDT DT VBN|BODY_6|0
+algebraically closed fields|RB JJ NNS|BODY_4|0
+the number i|DT NN NN|BODY_13|0
+a similar argument|DT JJ NN|BODY_1|0
+different primes p|JJ NNS NN|BODY_2|0
+the exponents ff|DT NNS NN|BODY_11:BODY_19|0
+ff 2 c|NN CD NN|BODY_3:BODY_7|0
+a linear system|DT NN NN|BODY_3|0
+a non-empty set|DT JJ NN|BODY_3|0
+depth log 0(|NN NN NN|BODY_5|0
+that f( x|IN NN SYM|BODY_6|0
+t ( i)|NN -LRB- FW|BODY_11:BODY_8|0
+the permutation group|DT NN NN|BODY_6|0
+a minimally (|DT NN -LRB-|BODY_7|0
+non-negative integer exponents|JJ NN NNS|BODY_9|0
+at most t|IN JJS NN|BODY_3|0
+the above algorithm|DT JJ NN|BODY_7|0
+) =~q( x|-RRB- NN SYM|BODY_6|0
+i ) )n|FW -RRB- NN|BODY_8|0
+the previous section|DT JJ NN|BODY_2|0
+two different representations|CD JJ NNS|BODY_2|0
+at most determined|IN RBS VBN|BODY_3:BODY_7|0
+at least n|IN JJS NN|BODY_12|0
+a i x|DT VBP SYM|BODY_8|0
+( 7 )|-LRB- CD -RRB-|BODY_1:BODY_7|0
+the following sections|DT JJ NNS|BODY_2|0
+the algorithm tests|DT NN NNS|BODY_1|0
+i ) operations|FW -RRB- NNS|BODY_4|0
+a differential field|DT JJ NN|BODY_3|0
+a quantifier equivalent|DT NN NN|BODY_11|0
+the hilbert irreducibility|DT NN NN|BODY_6|0
+the integers 1|DT NNS CD|BODY_7|0
+the above form|DT JJ NN|BODY_5|0
+a minimal representation|DT JJ NN|BODY_5|0
+v vn )|NN NN -RRB-|BODY_3|0
+the main result|DT JJ NN|BODY_8|0
+0 and 1|CD CC CD|BODY_4:BODY_8|0
+the right side|DT JJ NN|BODY_4|0
+6= p ff|JJ JJ NN|BODY_4|0
+lemma 1 condition|NN CD NN|BODY_18|0
+distinct positive numbers|JJ JJ NNS|BODY_2|0
+a set w|DT NN NN|BODY_5|0
+the usual topology|DT JJ NN|BODY_4|0
+some basic facts|DT JJ NNS|BODY_9|0
+the )-sparse representation|DT JJ NN|BODY_4|0
+every using [22]|DT VBG NN|BODY_4|0
+out one set|RP CD NN|BODY_6|0
+the above example|DT JJ NN|BODY_4|0
+the corresponding monomials|DT JJ NNS|BODY_10|0
+the following criterion|DT VBG NN|BODY_2|0
+( similar conditions|-LRB- JJ NNS|BODY_7|0
+certain linear operators|JJ NN NNS|BODY_5|0
+at most terms|IN JJS NNS|BODY_3|0
+1 or 0|CD CC CD|BODY_22|0
+a fixed set|DT VBN NN|BODY_6|0
+this system one|DT NN NN|BODY_4|0
+distinct prime numbers|JJ JJ NNS|BODY_8|0
+all the outputs|PDT DT NNS|BODY_6|0
+the representation p|DT NN NN|BODY_7|0
+the constant term|DT JJ NN|BODY_8|0
+that ~ p|DT NN NN|BODY_4|0
+all ff i|DT JJ NN|BODY_4|0
+the black boxes|DT JJ NNS|BODY_5|0
+a short proof|DT JJ NN|BODY_4|0
+a( t 1|JJ NN CD|BODY_6|0
+a finite set|DT JJ NN|BODY_7|0
+such weighted trees|JJ JJ NNS|BODY_6|0
+the latter value|DT JJ NN|BODY_7|0
+the expressions polynomial |DT NNS NN|BODY_4|0
+whose arithmetic complexity|WP$ JJ NN|BODY_6|0
+the obvious operations|DT JJ NNS|BODY_4|0
+at most solutions|IN JJS NNS|BODY_4|0
+some special sign|DT JJ NN|BODY_6|0
+real quasirational functions|JJ JJ NNS|BODY_4|0
+d dx note|VBD JJ NN|BODY_6|0
+the exponent vector|DT NN NN|BODY_5|0
+the usual sense|DT JJ NN|BODY_6|0
+a new technique|DT JJ NN|BODY_10|0
+[14] ( cf|NNP -LRB- NN|BODY_4|0
+the irreducible representation|DT JJ NN|BODY_9|0
+the and multilinear|DT CC JJ|BODY_4|0
+how multivariate interpolation|WRB JJ NN|BODY_4|0
+powers p ff|NNS NN NN|BODY_5|0
+z ( j|FW -LRB- NNS|BODY_10|0
+the exponents j|DT NNS NN|BODY_2|0
+a minimal number|DT JJ NN|BODY_4|0
+x and y|SYM CC RB|BODY_11|0
+the same conventions|DT JJ NNS|BODY_5|0
+a minimal (|DT JJ -LRB-|BODY_7|0
+the depth d|DT NN NN|BODY_5:BODY_21|0
+f( p i+j|DT NN NN|BODY_15|0
+approximative unbound interpolation|JJ JJ NN|BODY_1|0
+such a test|JJ DT NN|BODY_2|0
+the exponents y|DT NNS RB|BODY_15|0
+p and q|NN CC NN|BODY_10|0
+a number different|DT NN JJ|BODY_3:BODY_7|0
+explicitely constant c|RB JJ NN|BODY_8|0
+the following algorithm|DT VBG NN|BODY_6|0
+a linear function|DT JJ NN|BODY_10|0
+at most polynomials|IN JJS NNS|BODY_2|0
+g or h|NN CC NN|BODY_7|0
+an irreducible representation|DT JJ NN|BODY_3|0
+the connected component|DT JJ NN|BODY_3|0
+the indicated terms|DT JJ NNS|BODY_4|0
+the spanning tree|DT NN NN|BODY_14|0
+this latter statement|DT JJ NN|BODY_7|0
+some t-sparse representation|DT JJ NN|BODY_2|0
+( 4 )|-LRB- CD -RRB-|BODY_8|0
+the additional search|DT JJ NN|BODY_3|0
+all the c|PDT DT NN|BODY_8|0
+2 c n|CD NN NN|BODY_3|0
+a )-sparse representation|DT JJ NN|BODY_11|0
+section 3 )|NN CD -RRB-|BODY_8|0
+the first time|DT JJ NN|BODY_1|0
+a suitable re-ordering|DT JJ NN|BODY_14|0
+lemma 3a )|NN NN -RRB-|BODY_4|0
+thus the number|RB DT NN|BODY_8|0
+( i )|-LRB- FW -RRB-|BODY_9|0
+every the algorithm|DT DT NN|BODY_1|0
+the final complexity|DT JJ NN|BODY_12|0
+a normalized minimal|DT JJ JJ|BODY_8|0
+1 ) one|CD -RRB- NN|BODY_1|0
+[15] ,[16] ,[25]|RP JJ NN|BODY_6|0
+-l n )|JJ NN -RRB-|BODY_20|0
+5 and 6|CD CC CD|BODY_4|0
+the c i|DT NN NN|BODY_4|0
+its zariski closure|PRP$ NN NN|BODY_3|0
+the same reason|DT JJ NN|BODY_4|0
+the last statement|DT JJ NN|BODY_11|0
+f 2 c|NN CD NN|BODY_1:BODY_2|0
+the inverse matrix|DT JJ NN|BODY_6|0
+1 ) n|CD -RRB- NN|BODY_6|0
+a ) f|DT -RRB- NN|BODY_8|0
+given exponent vectors|VBN NN NNS|BODY_2|0
+4 multivariate interpolations|CD JJ NNS|BODY_1|0
+0( 1 )|NN CD -RRB-|BODY_5|0
+the present paper|DT JJ NN|BODY_1|0
+whose zariski closure|WP$ NN NN|BODY_7|0
+elementary topological notions|JJ JJ NNS|BODY_7|0
+rational function f|JJ NN NN|BODY_6|0
+the points proof|DT NNS NN|BODY_10|0
+this equal- ity|DT JJ NN|BODY_5|0
+any exponent vector|DT JJ NN|BODY_1|0
+the following way|DT JJ NN|BODY_3|0
+ir t 1|NN NN CD|BODY_14|0
+the expression note|DT NN NN|BODY_1|0
+such a function|PDT DT NN|BODY_1|0
+lemma 3b )|NN NN -RRB-|BODY_7|0
+at least (|IN JJS -LRB-|BODY_1|0
+the present authors|DT JJ NNS|BODY_1|0
+a fixed tree|DT VBN NN|BODY_1|0
+the same bounds|DT JJ NNS|BODY_2|0
+all known algorithms|DT VBN NNS|BODY_1|0
+f 2 irhhx|NN CD NN|BODY_4|0
+the set v|DT NN NN|BODY_1|0
+t 2 -sparse|IN CD JJ|BODY_5|0
+a sparse representation|DT JJ NN|BODY_4|0
+c hhx ii|NN NN NNS|BODY_5|0
+dim( h ~|JJ JJ NN|BODY_1|0
+h 2 c|NN CD NN|BODY_2|0
+the following lemma|DT VBG NN|BODY_6|0
+the general case|DT JJ NN|BODY_1|0
+t-sparse univariate interpolation|JJ JJ NN|BODY_5|0
+considerably worse complexity|RB JJR NN|BODY_8|0
+a 1)-sparse representation|DT JJ NN|BODY_1|0
+the univariate case|DT JJ NN|BODY_6|0
+this connected component|DT JJ NN|BODY_11|0
+i ) n|FW -RRB- NN|BODY_8|0
+a|DT|BODY_12:BODY_5:BODY_1:BODY_2:BODY_10:BODY_9|1
+it|PRP|BODY_6:BODY_5:BODY_17:BODY_1:BODY_3:BODY_4:BODY_8|1
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_23:BODY_4|1
+i|NN|BODY_11:BODY_5:BODY_15:BODY_2:BODY_1:BODY_24:BODY_10:BODY_7:BODY_8|0
+i )|FW -RRB-|BODY_11:BODY_5:BODY_16:BODY_22:BODY_2:BODY_3:BODY_4:BODY_8|0
+integer coefficients|NN NNS|BODY_5:BODY_11:BODY_3:BODY_9|1
+the degree|DT NN|BODY_21:BODY_3:BODY_10|1
+an algorithm|DT NN|BODY_2:BODY_4|1
+a quotient|DT NN|BODY_2:BODY_8|1
+the proof|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_8|0
+exponent vectors|NN NNS|BODY_17:BODY_2:BODY_10:BODY_8:BODY_9|0
+the denominator|DT NN|BODY_4:BODY_10:BODY_7:BODY_8|0
+a )|DT -RRB-|BODY_6:BODY_2:BODY_3:BODY_4|0
+a polynomial|DT NN|BODY_5:BODY_13:BODY_2:BODY_3|0
+the coefficients|DT NNS|BODY_11:BODY_2:BODY_3:BODY_7:BODY_8|0
+rational functions|JJ NNS|BODY_14:BODY_3:BODY_4|0
+( i|-LRB- FW|BODY_2:BODY_4:BODY_19|0
+the|DT|BODY_12:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+)-sparse representation|JJ NN|BODY_13:BODY_8:BODY_20|0
+the construction|DT NN|BODY_13:BODY_2:BODY_10|0
+real quasipolynomials|JJ NNS|BODY_18:BODY_15:BODY_3|0
+the problem|DT NN|BODY_2:BODY_3|0
+the set|DT NN|BODY_16:BODY_1:BODY_3|0
+at most|IN JJS|BODY_5:BODY_27:BODY_2:BODY_4|0
+the size|DT NN|BODY_2:BODY_7:BODY_8|0
+all zero|DT CD|BODY_5:BODY_11:BODY_28|0
+lemma 1|NN CD|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1|0
+the edge|DT NN|BODY_5:BODY_13:BODY_8|0
+b )|NN -RRB-|BODY_12:BODY_14:BODY_4|0
+rational function|JJ NN|BODY_2|0
+a representation|DT NN|BODY_6:BODY_2|0
+the paper|DT NN|BODY_2:BODY_9|0
+i (|FW -LRB-|BODY_2:BODY_4|0
+the results|DT NNS|BODY_6:BODY_2|0
+these conditions|DT NNS|BODY_4:BODY_9|0
+c hhxii|NN NNS|BODY_2:BODY_1:BODY_3|0
+lemma 5|NN CD|BODY_26:BODY_2:BODY_1|0
+these operators|DT NNS|BODY_16:BODY_2:BODY_3|0
+quasirational functions|JJ NNS|BODY_1:BODY_3:BODY_7|0

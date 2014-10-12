@@ -1,0 +1,155 @@
+content|NN|BODY_5:ABSTRACT_6:BODY_13:ABSTRACT_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_9|0
+it|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_1:ABSTRACT_3:BODY_4|0
+which|WDT|ABSTRACT_5:ABSTRACT_4:BODY_10:BODY_4|1
+that|WDT|ABSTRACT_3:BODY_3:ABSTRACT_7:BODY_8|0
+continuous media content|JJ NNS NN|BODY_11:ABSTRACT_8:BODY_1:BODY_7|0
+storage|NN|BODY_5:ABSTRACT_3:BODY_4:BODY_9|0
+the storage|DT NN|ABSTRACT_6:BODY_3:BODY_10|0
+a content management system|DT NN NN NN|BODY_15:BODY_2:ABSTRACT_10|0
+there|EX|ABSTRACT_2:BODY_4|0
+content management|NN NN|BODY_2:ABSTRACT_9|0
+track|NN|BODY_12:ABSTRACT_1:BODY_4|0
+design and implementation|NN CC NN|TITLE_1|0
+a network|DT NN|BODY_2:ABSTRACT_7|0
+the task|DT NN|ABSTRACT_8:BODY_3|0
+the convergence|DT NN|BODY_3:ABSTRACT_1|0
+this|DT|BODY_1:ABSTRACT_1|0
+networking technologies|VBG NNS|BODY_6:ABSTRACT_4|0
+advances|NNS|ABSTRACT_2:BODY_4|0
+h.3.4 [ information systems|CD NN NN NNS|ABSTRACT_3|0
+the design and implementation|DT NN CC NN|ABSTRACT_3|1
+spectrum|NN|ABSTRACT_2:ABSTRACT_1|0
+the same content|DT JJ NN|ABSTRACT_2|0
+tv or radio content|NN CC NN NN|ABSTRACT_2|0
+we|PRP|ABSTRACT_2:ABSTRACT_1|1
+computer-communication networks-distributed systems|NN JJ NNS|ABSTRACT_2|0
+the spectrum architecture|DT NN NN|ABSTRACT_3|0
+rich media content|JJ NNS NN|ABSTRACT_6|1
+the sheer volume|DT JJ NN|ABSTRACT_3|0
+the same collection|DT JJ NN|ABSTRACT_5|0
+live continuous media|JJ JJ NNS|ABSTRACT_1:ABSTRACT_7|0
+a retention policy|DT NN NN|ABSTRACT_3|0
+basic building blocks|JJ NN NNS|ABSTRACT_5|0
+time based policies|NN VBN NNS|ABSTRACT_3|0
+a modular architecture|DT JJ NN|ABSTRACT_2|0
+different retention policies|JJ NN NNS|ABSTRACT_1|0
+start or end|NN CC NN|ABSTRACT_6|0
+typical use cases|JJ NN NNS|ABSTRACT_4|0
+various networked scenarios|JJ JJ NNS|ABSTRACT_6|0
+this content|DT NN|ABSTRACT_5|0
+no eviction policies|DT NN NNS|ABSTRACT_3|0
+network enabled devices|NN VBN NNS|ABSTRACT_9|0
+a unique aspect|DT JJ NN|ABSTRACT_1|0
+both stand-alone|DT NN|ABSTRACT_5|0
+the complexity|DT NN|ABSTRACT_4|0
+the details|DT NNS|ABSTRACT_2|0
+an environment|DT NN|ABSTRACT_6|0
+this environment|DT NN|ABSTRACT_7|1
+this paper|DT NN|ABSTRACT_1|1
+in fact|IN NN|ABSTRACT_6|0
+huge amounts|JJ NNS|ABSTRACT_7|0
+)|-RRB-|ABSTRACT_3|0
+its application|PRP$ NN|ABSTRACT_4|0
+every piece|DT NN|ABSTRACT_5|0
+no longer|DT RB|ABSTRACT_2|0
+the system|DT NN|ABSTRACT_5:ABSTRACT_8|0
+us|PRP|ABSTRACT_5|0
+this approach|DT NN|ABSTRACT_1|0
+networked storage|JJ NN|ABSTRACT_1|0
+one|CD|BODY_2:BODY_4|0
+such content ) lead|JJ JJ -RRB- NN|BODY_2|0
+a particular sporting event|DT JJ NN NN|BODY_4|0
+an individual pvr user|DT JJ NN NN|BODY_2|0
+the aggregate , e.g|DT NN , NN|BODY_4|0
+a huge data repository|DT JJ NNS NN|BODY_7|0
+a single disk drive|DT JJ NN NN|BODY_8|0
+the actual storage devices|DT JJ NN NNS|BODY_1|0
+manipulating and managing content|NN CC NN NN|BODY_1|0
+text formatters|NN NNS|BODY_2|0
+the combination|DT NN|BODY_2|0
+such content|JJ NN|BODY_3:BODY_4|0
+a need|DT NN|BODY_5:BODY_3|0
+the content pertaining|DT JJ NN|BODY_5|0
+the networked capability|DT JJ NN|BODY_7|0
+high quality content|JJ NN NN|BODY_2|0
+continuous multimedia streams|JJ NNS NNS|BODY_2|0
+tv or radio|NN CC NN|BODY_3|0
+all|DT|BODY_5:BODY_7|0
+only the highlights|RB DT NNS|BODY_3|0
+pvr ) systems|JJ -RRB- NNS|BODY_5|0
+stored continuous media|VBN JJ NNS|BODY_2|0
+the primary functions|DT JJ NNS|BODY_3|0
+â€ ¢ increases|JJ NN NNS|BODY_6|0
+the last month|DT JJ NN|BODY_8|0
+explicit user interaction|JJ NN NN|BODY_2|0
+storage and encoding|NN CC NN|BODY_3|0
+rich content|JJ NN|BODY_5|0
+particular the storage|JJ DT NN|BODY_6|0
+a policy-less approach|DT JJ NN|BODY_5|0
+a standalone system|DT NN NN|BODY_14|0
+the way people|DT NN NNS|BODY_4|0
+initial computing applications|JJ NN NNS|BODY_1|0
+continuous streams|JJ NNS|BODY_5|0
+live content|JJ NN|BODY_2|0
+the complete event|DT JJ NN|BODY_6|0
+new content types|JJ NN NNS|BODY_1|0
+the need|DT NN|BODY_6:BODY_1|0
+an aggregate level|DT JJ NN|BODY_7|0
+files and filesystems|NNS CC NNS|BODY_4|0
+tivo [8|NN NNS|BODY_6|0
+4 â€ ¢|CD JJ NN|BODY_1|0
+the same time|DT JJ NN|BODY_1|0
+the smallest systems|DT JJS NNS|BODY_8|0
+these signals|DT NNS|BODY_4|0
+efficient storage|JJ NN|BODY_2|0
+the use|DT NN|BODY_3|0
+itself|PRP|BODY_6|0
+users|NNS|BODY_2|0
+a fine-grained|DT JJ|BODY_6|0
+the network|DT NN|BODY_5|0
+great inefficiencies|JJ NNS|BODY_3|0
+new ways|JJ NNS|BODY_7|0
+wanted content|VBD JJ|BODY_5|0
+video|NN|BODY_7|0
+home-networking scenarios|NN NNS|BODY_3|1
+this scenario|DT NN|BODY_1|1
+our work|PRP$ NN|BODY_2|0
+the introduction|DT NN|BODY_2|0
+the capacity|DT NN|BODY_7|0
+these advances|DT NNS|BODY_3|0
+the ability|DT NN|BODY_11|0
+the types|DT NNS|BODY_2|0
+the user|DT NN|BODY_2|0
+media|NNS|BODY_4|0
+many hours|JJ NNS|BODY_5|0
+the cost|DT NN|BODY_8|0
+the following|DT VBG|BODY_5|0
+the content|DT NN|BODY_6|0
+abstract it|JJ PRP|BODY_6|0
+networking technology|VBG NN|BODY_5|0
+that content|IN NN|BODY_9|0
+all types|DT NNS|BODY_8|0
+storage resources|NN NNS|BODY_3|0
+massive amounts|JJ NNS|BODY_12|0
+this area|DT NN|BODY_3|0
+tv-quality|NN|BODY_6|0
+example|NN|BODY_1|0
+¢|NN|BODY_6|0
+another example|DT NN|BODY_1|0
+program compilers|NN NNS|BODY_3|0
+stand|NN|BODY_3|0
+true|JJ|BODY_7|0
+no endpoints|DT NNS|BODY_6|0
+the storing|DT NN|BODY_1|0
+this combination|DT NN|BODY_1|0
+both|DT|BODY_5|0
+replaytv [7]|NN NN|BODY_7|0
+improvements|NNS|BODY_2|0
+while|IN|BODY_6|0
+storage devices|NN NNS|BODY_8|0
+the proliferation|DT NN|BODY_1|0
+a computer|DT NN|BODY_4|0
+i|PRP|BODY_7|0
+the data|DT NNS|BODY_8|0
+this system|DT NN|BODY_1|0
+the focus|DT NN|BODY_1|0

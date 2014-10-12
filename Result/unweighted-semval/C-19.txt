@@ -1,0 +1,271 @@
+we|PRP|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_8|16
+that|IN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8:BODY_9|3
+events|NNS|BODY_6:ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+protocol modules|NN NNS|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|1
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|2
+a request|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a service interface|DT NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+an event|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+a reply|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+event-based frameworks|JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+a protocol module|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+e.g|NN|BODY_6:BODY_5:BODY_2:BODY_3|1
+protocol frameworks|NN NNS|BODY_5:ABSTRACT_5:BODY_2:BODY_1|3
+a service interface si|DT NN NN FW|BODY_2:BODY_3:BODY_4|0
+which|WDT|BODY_6:BODY_5:BODY_3:BODY_4|0
+pi|NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_4|0
+si|FW|BODY_5:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+the results|DT NNS|BODY_2:BODY_3:BODY_4:BODY_7|1
+the service interface t|DT NN NN NN|BODY_3|0
+they|PRP|BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+a message|DT NN|BODY_11:BODY_1:BODY_4:BODY_7:BODY_8|0
+a protocol module pi|DT NN NN NN|BODY_2:BODY_4|0
+a service-based protocol framework|DT JJ NN NN|ABSTRACT_3:BODY_3|0
+a distributed consensus service|DT VBN NN NN|BODY_2|0
+requests|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+there|EX|BODY_1:BODY_3:BODY_4|1
+) vs. event-based (|-RRB- FW JJ -LRB-|BODY_7|0
+all executers or interceptors|DT NNS CC NNS|BODY_4|0
+the repl ct modules|DT NN NN NNS|BODY_2|0
+a handler|DT NN|BODY_2:BODY_3:BODY_4:BODY_9|0
+the arguments|DT NNS|BODY_6:BODY_2:BODY_4:BODY_9|0
+newp1 gg h h|RB FW NN NN|BODY_3|0
+event-based protocol framework design|DT NN NN NN|BODY_1|0
+most existing protocol frameworks|RBS JJ NN NNS|BODY_2|0
+adaptive group communication middleware|NN NN NN NN|BODY_5|0
+the cactus protocol framework|DT NN NN NN|BODY_3|0
+implementing and composing protocols|VBG CC VBG NNS|BODY_5:TITLE_3|0
+a higher level abstraction|DT JJR NN NN|BODY_2|0
+a group communication primitive|DT NN NN JJ|BODY_4|0
+forward a request req|RB DT NN NN|BODY_2|0
+code reuse and customization|NN NN CC NN|BODY_2|0
+some information , e.g|DT NN , NN|BODY_2|0
+16] , ensemble [12|JJ , JJ NN|BODY_4|0
+the protocol module t1|DT NN NN NN|BODY_4|0
+the same protocol module|DT JJ NN NN|BODY_2|0
+an interesting enabling technology|DT JJ VBG NN|BODY_4|1
+ t figure 5|IN NN NN CD|BODY_4|0
+2] , appia [1|JJ , JJ NNS|BODY_3|0
+the group communication stack|DT NN NN NN|BODY_5|0
+at most one executer|IN JJS CD NN|BODY_2|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+the chandratoueg algorithm [10]|DT NN NN NN|BODY_3|0
+a group membership service|DT NN NN NN|BODY_2|0
+the one-to-many communication scheme|DT JJ NN NN|BODY_3|0
+the service interface si|DT NN NN FW|BODY_6|0
+an adaptive group communication|DT JJ NN NN|BODY_3|0
+all replies and notifications|DT NNS CC NNS|BODY_7|0
+several replies or notifications|JJ NNS CC NNS|BODY_5|0
+service-based protocol framework design|JJ NN NN NN|BODY_2|1
+service-based vs. event-based protocol|JJ FW JJ NN|BODY_10|0
+the service interface mechanism|DT NN NN NN|BODY_4|0
+the protocol module|DT NN NN|BODY_2:BODY_3:BODY_4|0
+the serviceand event-based implementations|DT NN JJ NNS|BODY_5|0
+only the correct listener|RB DT JJ NN|BODY_4|0
+a new protocol newp|DT JJ NN NN|BODY_3|0
+1 repl ct1 1abc|CD VB DT CD|BODY_5|0
+ct1 abc. 1 network|DT NN CD NN|BODY_1|0
+the service interface nt|DT NN NN NN|BODY_2|0
+the same service interface|DT JJ NN NN|BODY_3|0
+an intermediate module repl-p1|DT JJ NN NNS|BODY_3|0
+an experimental protocol framework|DT JJ NN NN|BODY_4|0
+the main two classes|DT JJ CD NNS|BODY_3|0
+influence composition and implementation|NN NN CC NN|BODY_3|1
+a protocol module ti|DT NN NN NNS|BODY_2|0
+a special protocol module|DT JJ NN NN|BODY_3|0
+a service-based protocol stack|DT JJ NN NN|BODY_6|1
+service interfaces|NN NNS|BODY_5:BODY_2:BODY_3|1
+the event e )|DT NN NN -RRB-|BODY_9|0
+all other protocol modules|DT JJ NN NNS|BODY_7|0
+an event-based protocol stack|DT JJ NN NN|BODY_6|1
+a dashed black arrow|DT VBN JJ NN|BODY_5|0
+the corresponding service objects|DT JJ NN NNS|BODY_5|0
+a protocol module issues|DT NN NN NNS|BODY_1|0
+a service object t|DT NN NN NN|BODY_1|0
+the ct protocol modules|DT NN NN NNS|BODY_5|0
+a protocol composer [4]|DT NN NN NN|BODY_8|0
+an event-based protocol framework|DT JJ NN NN|BODY_4|0
+the same event type|DT JJ NN NN|BODY_5|0
+5.1 protocol module interactions|CD NN NN NNS|BODY_1|0
+the reliable channel problem|DT JJ NN NN|BODY_8|0
+a single service interface|DT JJ NN NN|BODY_5|0
+stacks )|NNS -RRB-|BODY_3:BODY_7|0
+the two-sided arrows point|DT JJ NNS NN|BODY_1|0
+issues replies or notifications|NNS NNS CC NNS|BODY_6|0
+the replies and notifications|DT NNS CC NNS|BODY_7|0
+the event-based cactus framework|DT JJ NN NN|BODY_2|0
+the most common approach|DT RBS JJ NN|ABSTRACT_1|0
+an example protocol stack|DT NN NN NN|BODY_2:BODY_7|2
+the same protocol )|DT JJ NN -RRB-|BODY_8|0
+the intercepting module repl-p1|DT NN NN NN|BODY_1|0
+protocols and protocol modules|NNS CC NN NNS|BODY_1|0
+the same stack|DT JJ NN|BODY_5:BODY_3:BODY_10:BODY_8|0
+dynamic replacement|JJ NN|BODY_5:BODY_3:BODY_9|1
+the order|DT NN|BODY_5:BODY_2:BODY_3:BODY_10|0
+the agc middleware|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+a listener|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_9|0
+example|NN|BODY_5:BODY_1:BODY_3|3
+an interceptor|DT NN|BODY_2:BODY_3:BODY_4:BODY_8|0
+the reply|DT NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the service-based framework|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+a set|DT NN|BODY_2:BODY_3|0
+the left part|DT JJ NN|BODY_1:BODY_4:BODY_8|1
+a protocol stack|DT NN NN|BODY_2:BODY_3:BODY_4|1
+notifications|NNS|BODY_2:BODY_1:BODY_4|0
+the advantages|DT NNS|BODY_5:BODY_2:BODY_4|3
+them|PRP|BODY_6:BODY_3|1
+all handlers|DT NNS|BODY_2:BODY_3:BODY_4|0
+our new approach|PRP$ JJ NN|BODY_2:BODY_4|0
+replies and notifications|NNS CC NNS|BODY_1:BODY_2:BODY_7|0
+the figure|DT NN|BODY_2:BODY_3|0
+channels|NNS|BODY_2:BODY_1:BODY_4|0
+the composer|DT NN|BODY_2:BODY_1:BODY_4:BODY_7|0
+a protocol p|DT NN NN|BODY_2:BODY_4|0
+the vertical axis|DT JJ NN|BODY_2|0
+our experimental implementation|PRP$ JJ NN|BODY_2|0
+the same implementation|DT JJ NN|BODY_2|0
+fig|NN|BODY_5:BODY_1:BODY_3:BODY_10:BODY_4|1
+us|PRP|BODY_2|0
+the service interface|DT NN NN|BODY_6|0
+interface t|NN NN|BODY_2:BODY_3:BODY_4|0
+protocol interactions|NN NNS|BODY_6:BODY_2:BODY_3|1
+service interface si|NN NN FW|BODY_4|0
+gm1 rp2p nt|CD NN NN|BODY_2|0
+766 mhz processor|CD NN NN|BODY_8|0
+the right part|DT JJ NN|BODY_1:BODY_10|1
+the protocol modules|DT NN NNS|BODY_2:BODY_9|0
+the replacement algorithms|DT NN NNS|BODY_3|0
+an important class|DT JJ NN|BODY_6|1
+a notification|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+figure 4|NN CD|BODY_5:BODY_2:BODY_4|0
+the semantic link|DT JJ NN|BODY_5|0
+the average latency|DT JJ NN|BODY_2:BODY_3|0
+the subtyping relation|DT JJ NN|BODY_9|0
+java 1.5 (|NNP CD -LRB-|BODY_5|0
+special protocol modules|JJ NN NNS|BODY_2|0
+rp2p1 ct1 network|CD CD NN|BODY_3|0
+the service-based approach|DT JJ NN|BODY_6:BODY_4|1
+executers|NNS|BODY_1:BODY_2:BODY_3|0
+a tcp protocol|DT NN NN|BODY_7|0
+red hat linux|JJ NN NN|BODY_4|0
+the local replacements|DT JJ NNS|BODY_2|0
+a module pi|DT NN NN|BODY_2:BODY_3|0
+the notion|DT NN|BODY_3:BODY_7|1
+our service-based framework|PRP$ JJ NN|BODY_5:BODY_1:BODY_3|0
+a message m|DT NN NN|BODY_1|0
+a single request|DT JJ NN|BODY_1|0
+events and handlers|NNS CC NNS|BODY_2|0
+section 2 defines|NN CD NNS|BODY_1|0
+some protocol frameworks|DT NN NNS|BODY_1|0
+the figure readable|DT NN JJ|BODY_2|0
+the module p1|DT NN NN|BODY_2|0
+adaptable systems [14]|JJ NNS NNS|BODY_5|1
+a constant load|DT JJ NN|BODY_6|0
+only one handler|RB CD NN|BODY_3|0
+a specific event|DT JJ NN|BODY_12:BODY_2|0
+the protocol frameworks|DT JJ NNS|BODY_3:BODY_4|1
+the protocol programmers|DT NN NNS|BODY_3|0
+a request req|DT NN NN|BODY_2|0
+a new approach|DT JJ NN|BODY_3:BODY_4|2
+another service object|DT NN NN|BODY_2|0
+service-based ( left|JJ -LRB- NN|BODY_6|0
+the servicebased approach|DT JJ NN|BODY_2|1
+a network message|DT NN NN|BODY_3|0
+a distributed system|DT VBN NN|BODY_5|0
+the service|DT NN|BODY_6:BODY_3|0
+some problems [4|DT NNS NNS|BODY_3|0
+only protocol modules|RB JJ NNS|BODY_2:BODY_1|0
+the corresponding stacks|DT JJ NNS|BODY_2|0
+the composition phase|DT NN NN|BODY_7|0
+an event e|DT NN NN|BODY_3|0
+protocols|NNS|BODY_5:ABSTRACT_4:BODY_2:BODY_4|0
+the synchronization algorithms|DT NN NNS|BODY_7|0
+an unnecessary burden|DT JJ NN|BODY_2|0
+consistent membership data|JJ NN NNS|BODY_4|0
+the request|DT NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+a module box|DT NN NN|BODY_2|0
+a failure detector|DT NN NN|BODY_2|0
+an inadequate model|DT JJ NN|BODY_2|0
+this new approach|DT JJ NN|BODY_2|0
+an event-based framework|DT JJ NN|BODY_3|0
+atomic broadcast protocols|JJ NN NNS|BODY_3|0
+the ct module|DT NN NN|BODY_1|0
+the right stack|DT JJ NN|BODY_1|0
+the service class|DT NN NN|BODY_1:BODY_3|0
+a natural model|DT JJ NN|BODY_2|0
+different protocol interactions|JJ NN NNS|BODY_4|0
+the main characteristics|DT JJ NNS|BODY_2|0
+a natural number|DT JJ NN|BODY_4|0
+a specific problem|DT JJ NN|BODY_4|0
+identical protocol modules|JJ NN NNS|BODY_3|0
+ti( m )|JJ NN -RRB-|BODY_5|0
+a listener l|DT NN NN|BODY_4|0
+agc ) middleware|NN -RRB- NN|BODY_4|0
+a distributed algorithm|DT VBN NN|BODY_2|0
+each component type|DT NN NN|BODY_5|0
+an executer|DT NN|BODY_1:BODY_3:BODY_4:BODY_7|0
+an experimental implementation|DT JJ NN|ABSTRACT_2|0
+approximately 1200 lines|RB CD NNS|BODY_3|0
+no guarantee 1|DT NN CD|BODY_2|0
+a priority number|DT NN NN|BODY_3|0
+the event-based architecture|DT JJ NN|BODY_2|0
+j the listener|NN DT NN|BODY_7|0
+the same service|DT JJ NN|BODY_6|0
+a service object|DT NN NN|BODY_2:BODY_1|0
+h figure 2|NN NN CD|BODY_4|1
+the same machine|DT JJ NN|BODY_6:BODY_4|0
+an executer e|DT NN NN|BODY_3|0
+a semantic link|DT JJ NN|BODY_2|0
+distributed protocols|VBN NNS|ABSTRACT_6:BODY_3:BODY_10|1
+a similar mechanism|DT JJ NN|BODY_4|0
+such cactus [5|JJ NN NN|BODY_2|0
+the deliver event|DT VBP NN|BODY_9|0
+the main abstraction|DT JJ NN|ABSTRACT_3|0
+most one executer|JJS CD NN|BODY_2|0
+the event-based approach|DT JJ NN|BODY_3|0
+service based frameworks|NN VBN NNS|BODY_2|0
+all protocol modules|DT NN NNS|BODY_4|0
+si eventually results|FW RB NNS|BODY_4|0
+the same pattern|DT JJ NN|BODY_4|0
+protocol modules pj|NN NNS NNS|BODY_6|0
+the same protocol|DT JJ JJ|BODY_2|0
+an event trigger|DT NN NN|BODY_3|0
+the different kinds|DT JJ NNS|BODY_2|0
+dynamic protocol replacement|JJ NN NN|BODY_3|1
+complex protocol stacks|JJ NN NNS|BODY_4|0
+the horizontal axis|DT JJ NN|BODY_4|0
+service-based protocol frameworks|JJ NN NNS|BODY_6:BODY_5|2
+â€ ¢ notifications|NN NN NNS|BODY_7|0
+a local interaction|DT JJ NN|ABSTRACT_4|0
+event-based protocol frameworks|JJ NN NNS|BODY_6:BODY_1:BODY_7|2
+the corresponding request|DT JJ NN|BODY_6|0
+protocol modules (|NN NNS -LRB-|BODY_3|0
+all protocol interactions|DT NN NNS|BODY_2|0
+building modular protocols|NN JJ NNS|BODY_4|1
+the protocol composition|DT NN NN|BODY_5|1
+no explicit link|DT JJ NN|BODY_5|0
+the repl abc|DT NN NN|BODY_1|0
+a new abstraction|DT JJ NN|TITLE_2|0
+appia and eva|NN CC NN|BODY_2|0
+an alternative approach|DT JJ NN|ABSTRACT_2|0
+a protocol object|DT NN NN|BODY_1|0
+a special argument|DT JJ NN|BODY_1|0
+an asynchronous call|DT JJ NN|BODY_3|0
+a service-based framework|DT JJ NN|BODY_3|0
+the service object|DT NN NN|BODY_3|0
+another protocol module|DT NN NN|BODY_5|0
+only one executer|RB CD NN|BODY_4|0
+many stacks )|JJ NNS -RRB-|BODY_5|0
+some other data|DT JJ NNS|BODY_4|0
+this abstraction )|DT NN -RRB-|BODY_5|0
+q1 r1 p1|RB CD NNS|BODY_1|0
+the module|DT NN|BODY_5:BODY_2:BODY_3|0
+a special object|DT JJ NN|BODY_2|0
+for details )|IN NNS -RRB-|BODY_6|0
+dynamic protocol updates|JJ NN NNS|BODY_9|0
+note|NN|BODY_1|0
+the stack composer|DT NN NN|BODY_4|0
+all these features|PDT DT NNS|BODY_1|1
+a hexagonal box|DT JJ NN|BODY_5|0
+[12 , 17]|CD , CD|BODY_5|0
+the corresponding replies|DT JJ NNS|BODY_6:BODY_9|0

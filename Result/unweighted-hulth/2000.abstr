@@ -1,0 +1,26 @@
+we|PRP|BODY_1:BODY_3:BODY_4|1
+which|WDT|BODY_5:BODY_8|1
+generalized predictive control|VBN JJ NN|BODY_2:BODY_1|0
+integer multiples|JJ NNS|BODY_4|0
+sampled-data systems|NN NNS|BODY_2|0
+rates|NNS|BODY_3|0
+the lifted models|DT VBN NNS|BODY_4|0
+gpc ) design|NN -RRB- NN|BODY_3|0
+multirate sampled-data systems|JJ NN NNS|BODY_9|0
+optimal causal control laws|JJ JJ NN NNS|BODY_6|1
+models|NNS|BODY_2|0
+this design constraint|DT NN NN|BODY_2|1
+non-uniformly sampled systems|RB VBN NNS|BODY_2|0
+this paper|DT NN|BODY_3|0
+non-uniform updating|JJ VBG|BODY_6|0
+patterns|NNS|BODY_7|0
+digital control systems|JJ NN NNS|BODY_5|0
+a new gpc algorithm|DT JJ NN NN|BODY_4|1
+some base period|DT NN NN|BODY_5|0
+the solution|DT NN|BODY_1|0
+the so-called causality constraint|DT JJ NN NN|BODY_5|0
+special cases|JJ NNS|BODY_10|0
+the non-uniformly sampled systems|DT JJ JJ NNS|BODY_7|1
+account|NN|BODY_1|1
+the state-space domain|DT NN NN|BODY_3|0
+the main obstacle|DT JJ NN|BODY_1|0

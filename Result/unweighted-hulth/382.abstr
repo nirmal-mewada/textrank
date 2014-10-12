@@ -1,0 +1,40 @@
+friction force|NN NN|BODY_3|0
+wavelet neural networks|NN JJ NNS|BODY_2|0
+position tracking|NN NN|BODY_2|0
+the proposed control schemes|DT JJ NN NNS|BODY_2|0
+a simple linear model|DT JJ NN NN|BODY_3|0
+friction force and payload variation|NN NN CC NN NN|BODY_3|0
+external disturbances|JJ NNS|BODY_2|0
+motion control|NN NN|BODY_4|0
+the basis|DT NN|BODY_2|0
+the learning feedback component|DT NN NN NN|BODY_4|0
+a real lbdcm|DT JJ NN|BODY_2|0
+linear brushless dc motors|NN JJ JJ NNS|BODY_5|0
+linear brushless motors design , simulation and experimental implementation|NN JJ NNS NN , NN CC JJ NN|BODY_2|0
+the other one|DT JJ CD|BODY_5|0
+two parts|CD NNS|BODY_2|0
+which|WDT|BODY_5|0
+a state feedback component|DT NN NN NN|BODY_4|0
+a wavelet basis function network|DT NN NN NN NN|BODY_3|0
+controller|NN|BODY_4|0
+on-line suppress|JJ NN|BODY_3|0
+one|CD|BODY_3|0
+the friction force|DT NN NN|BODY_4|0
+simulated and experimental results|JJ CC JJ NNS|BODY_3|0
+stability|NN|BODY_1|0
+the effectiveness|DT NN|BODY_1|0
+the primary concern|DT JJ NN|BODY_3|0
+a wavelet neural controller|DT NN JJ NN|BODY_5|0
+linear motors|NN NNS|BODY_5|0
+the proposed controller|DT JJ NN|BODY_1|0
+the state feedback controller|DT NN NN NN|BODY_1|0
+a learning feedback component|DT VBG NN NN|BODY_6|0
+a wavelet neural network|DT NN JJ NN|BODY_1|0
+it|PRP|BODY_1|0
+lbdcm)|NNS|BODY_6|0
+robust wavelet neuro control|JJ NN NN NN|BODY_1|0
+the different lubrication|DT JJ NN|BODY_6|0
+the attenuation effect|DT NN NN|BODY_1|0
+the learning effect|DT VBG NN|BODY_1|0
+the numerical method|DT JJ NN|BODY_4|0
+the numerical results|DT JJ NNS|BODY_4|0

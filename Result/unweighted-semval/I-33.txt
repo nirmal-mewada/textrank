@@ -1,0 +1,633 @@
+it|PRP|BODY_16:BODY_18:BODY_15:BODY_21:BODY_13:ABSTRACT_2:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|3
+which|WDT|BODY_12:BODY_11:BODY_17:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_19:BODY_7:BODY_8|0
+we|PRP|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_20|0
+institutions|NNS|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9:ABSTRACT_10|1
+that|IN|BODY_6:BODY_11:BODY_5:BODY_22:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+roles|NNS|BODY_6:BODY_5:BODY_28:BODY_18:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_8:BODY_9|0
+i|NN|BODY_6:BODY_32:BODY_5:BODY_11:BODY_23:BODY_3:BODY_14:BODY_4:BODY_8:BODY_20|2
+)|-RRB-|BODY_41:BODY_11:BODY_5:BODY_42:BODY_15:BODY_13:BODY_39:BODY_3:BODY_10:BODY_7:BODY_8|0
+an institution|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+.e|NN|BODY_6:BODY_5:BODY_15:BODY_4:BODY_10|2
+what|WP|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_9|0
+agents|NNS|BODY_6:BODY_5:BODY_16:BODY_3:ABSTRACT_7:BODY_7:BODY_8|0
+norms|NNS|BODY_6:BODY_11:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_8:BODY_9|1
+the institution|DT NN|BODY_6:BODY_2:BODY_3:BODY_30:BODY_8:BODY_9:BODY_20|0
+the notion|DT NN|BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|0
+agent|NN|BODY_12:BODY_11:BODY_5:BODY_16:BODY_15:BODY_26:BODY_4:BODY_7|1
+terminological axioms|JJ NNS|BODY_6:BODY_11:BODY_5:BODY_23:BODY_1:BODY_3:BODY_8:BODY_9|0
+organizational structures|JJ NNS|ABSTRACT_11:BODY_16:TITLE_3:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|1
+instance|NN|BODY_11:BODY_1:BODY_3:BODY_4:BODY_20:BODY_9|0
+s|VBZ|BODY_33:BODY_36:BODY_28:BODY_22:BODY_18:BODY_14:BODY_8|0
+an agent|DT NN|BODY_12:BODY_11:BODY_22:BODY_1:BODY_14:BODY_4|0
+the institutional state types|DT JJ NN NNS|BODY_23:BODY_2|0
+abstract norms|JJ NNS|BODY_6:BODY_12:BODY_5:BODY_13:BODY_2:BODY_3|0
+the following translation rule|DT VBG NN NN|BODY_3:BODY_4|0
+transition type inclusion axioms|NN NN NN NNS|BODY_4:BODY_7|0
+j )|RB -RRB-|BODY_12:BODY_5:BODY_17:BODY_2:BODY_7:BODY_8:BODY_9|0
+the design and development|DT NN CC NN|BODY_3:BODY_10|0
+the specification|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8|0
+the description logic language|DT NN NN NN|BODY_3|0
+the ameli middleware [7|DT NNS NN NNS|BODY_3|0
+a state description î³|DT NN NN NN|BODY_3|0
+) î³ âˆ€â¬î±.viol( i|-RRB- CC JJ FW|BODY_3:BODY_4|0
+the pair ( r|DT NN -LRB- NN|BODY_6:BODY_2|0
+an agent identifier i|DT NN NN NN|BODY_2|0
+the high level design|DT JJ NN NN|BODY_5|0
+such a design task|JJ DT NN NN|BODY_2|0
+a standard reduction approach|DT JJ NN NN|BODY_8|0
+an updated institutional specification|DT VBN JJ NN|BODY_5|0
+a set|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_8:BODY_9|0
+organizational and social theory|JJ CC JJ NN|BODY_4|0
+an institutional state testifying|DT JJ NN NN|BODY_21|0
+some technical legal sense|DT JJ JJ NN|BODY_8|0
+arbitrary ( [1] )|JJ -LRB- RB -RRB-|BODY_2|0
+some intuitive background knowledge|DT JJ NN NN|BODY_2|0
+,â—¦ ,â¬ ,id )|NN JJ NN -RRB-|BODY_8|0
+a function such that|DT NN JJ IN|BODY_11|0
+a seriously restricted fragment|DT RB JJ NN|BODY_3|0
+a fully connected graph|DT RB VBN NN|BODY_2|0
+a precise if-then-else procedure|DT JJ JJ NN|BODY_3|0
+the description logic variant|DT NN NN NN|BODY_2|0
+the perspective and results|DT NN CC NNS|BODY_3|0
+folk psychology ( belief|NN NN -LRB- NN|BODY_5|0
+the intrinsic substantial principles|DT JJ JJ NNS|BODY_2|0
+) âˆˆ cî³ :î±|-RRB- CC NN NNS|BODY_2|0
+transition type inclusion assertions|NN NN NN NNS|BODY_10|0
+î³ î³ | âˆ€î±.î³|NN NN JJ NN|BODY_13|0
+the relevant syntactic form|DT JJ NN NN|BODY_2|0
+5 and 6 specify|CD CC CD VB|BODY_2|0
+logic elh( â—¦ )|NN JJ NN -RRB-|BODY_1:BODY_3|0
+the institutional transition type|DT JJ NN NN|BODY_9|0
+b ) or cc(i|NN -RRB- CC NN|BODY_8|0
+the organizational structure w.r.t|DT JJ NN NN|BODY_11:BODY_8|0
+the âš¥ state type|DT JJ NN NN|BODY_6|0
+some rudimentary institutional specifications|DT JJ JJ NNS|BODY_3|0
+the very limited expressivity|DT RB JJ NN|BODY_1|0
+the first formula states|DT JJ NN NNS|BODY_18|0
+two essentially different perspectives|CD RB JJ NNS|BODY_3|0
+aamas 07 ) 633|NN CD -RRB- CD|BODY_4|0
+transitions ( e .g.|NNS -LRB- NN NN|BODY_11|0
+the normative system perspective|DT JJ NN NN|BODY_1:BODY_8|0
+e10 ) .accepted( j|CD -RRB- NN NN|BODY_5|0
+roles ) terminative modules|NNS -RRB- NN NNS|BODY_2|0
+seller ) âˆˆ c|NN -RRB- NN NN|BODY_12|0
+state type inclusion assertions|NN NN NN NNS|BODY_6|0
+e10 ) .â¬accepted( j|CD -RRB- NN NN|BODY_7|0
+) â— ¦ notify(s|-RRB- NN NN NNS|BODY_16|0
+institution and organization specifications|NN CC NN NNS|BODY_4|0
+conditional ( [25] )|JJ -LRB- NN -RRB-|BODY_6|0
+a given tbox t|DT VBN NN NN|BODY_5|0
+a stronger institutional specification|DT JJR JJ NN|BODY_6|0
+the concrete system specification|DT JJ NN NN|BODY_6|0
+an organizational structure os|DT JJ NN NNS|BODY_6|0
+a finite set î“|DT JJ NN FW|BODY_5|0
+j ).â¬accepted( j )|RB JJ RB -RRB-|BODY_11|0
+the way agents interact|DT NN NNS NN|BODY_2|0
+the various games agents|DT JJ NNS NNS|BODY_4|0
+22 ) condition pay(i|CD -RRB- NN NN|BODY_11|0
+i( c ) âš†|JJ NN -RRB- NN|BODY_12|0
+some precise linguistic relationship|DT JJ JJ NN|BODY_3|0
+an institution specification ins|DT NN NN NNS|BODY_2|0
+a corresponding organizational structure|DT JJ JJ NN|BODY_6|0
+the corresponding inclusion statement|DT JJ NN NN|BODY_7|0
+a quite acknowledged position|DT RB VBN NN|BODY_5|0
+only state types intersection|JJ NN NNS NN|BODY_4|0
+) else rejec t(i|-RRB- RB NN NN|BODY_7|0
+the corresponding concrete institution|DT JJ JJ NN|BODY_4|0
+î³1 î³2 âˆˆ î“bridge|DT NN NN NN|BODY_2|0
+a|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_4:BODY_9|0
+j ) rejec t(i|NN -RRB- NN NN|BODY_15|0
+formulae 2 and 3|NN CD CC CD|BODY_5|0
+the â€˜brute  descriptions|DT JJ NN NNS|BODY_4|0
+the following terminological axioms|DT VBG NN NNS|BODY_4|0
+a given concrete institution|DT VBN JJ NN|BODY_5|0
+r ) rea(j|NN -RRB- NN|BODY_18:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|0
+comprehensive formal logical theories|JJ JJ JJ NNS|BODY_10|0
+j ) ( 9|NN -RRB- -LRB- CD|BODY_13|0
+a concrete institution specification|DT JJ NN NN|BODY_2|0
+a given institutional state-of-affairs|DT VBN JJ NNS|BODY_8|0
+the if-then-else transition type|DT JJ NN NN|BODY_4|0
+concrete and implementable ones|JJ CC JJ NNS|BODY_14|0
+all the formal means|DT DT JJ NNS|BODY_2|0
+state type terminological axioms|NN NN NN NNS|BODY_25|0
+some intuitive conceptual constraints|DT JJ JJ NNS|BODY_4|0
+states|NNS|BODY_11:BODY_5:BODY_15:BODY_3:BODY_10:BODY_7|1
+all the possible mass|DT DT JJ NN|BODY_3|0
+î“ins and ains models|NNS CC NNS NNS|BODY_6|0
+) âˆˆ i( î±2|-RRB- NN JJ NNS|BODY_37|0
+) âˆˆ oî³ :î±|-RRB- CC NN NNS|BODY_4|0
+which [10 , 13]|WDT CD , CD|BODY_5|0
+a comprehensive formal analysis|DT JJ JJ NN|BODY_2|1
+those states and transitions|DT NNS CC NNS|BODY_10|0
+a standard reduction technique|DT JJ NN NN|BODY_4|0
+( 18 ) send(i|-LRB- CD -RRB- NN|BODY_17|0
+a full terminological specification|DT JJ NN NN|BODY_9|0
+definitions 1 and 2|NNS CD CC CD|BODY_3|0
+the enactment configuration rea(i|DT NN NN NN|BODY_3|0
+any x âˆˆ sub|DT NN NN NN|BODY_5|0
+a common factual property|DT JJ JJ NN|BODY_4|0
+two essential deontic notions|CD JJ JJ NNS|BODY_3|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+all a âˆˆ l(abridge|DT DT JJ NN|BODY_9|0
+executability and obligation laws|NN CC NN NNS|BODY_2|0
+ states and transitions1|JJ NNS CC NNS|BODY_7|0
+a specific interface infrastructure|DT JJ NN NN|BODY_31|0
+atomic state types c|JJ NN NNS NN|BODY_1|0
+n finite number )|NN JJ NN -RRB-|BODY_11|0
+the so-called subsumption problem|DT JJ NN NN|BODY_5|0
+the abstract type discr(i|DT JJ NN NN|BODY_16|0
+a transition type deact(i|DT NN NN NN|BODY_5|0
+a given inclusion statement|DT VBN NN NN|BODY_1|0
+4 ) send( msg33|CD -RRB- NN NN|BODY_10|0
+the obligation dimension (|DT NN NN -LRB-|BODY_8|0
+such , nothing original|JJ , NN JJ|BODY_3|0
+the role r )|DT NN NN -RRB-|BODY_14|0
+î³ â‰ ¡ âˆƒa|JJ JJ NN NN|BODY_14|0
+the strictly terminological information|DT RB JJ NN|BODY_4|0
+an institution specification|DT NN NN|BODY_6:BODY_2:BODY_3|0
+( formula 16 )|-LRB- NN CD -RRB-|BODY_13|0
+a terminological box ins|DT NN NN NNS|BODY_2|0
+the corresponding organizational structure|DT JJ JJ NN|BODY_10|0
+well-known ( [3] )|JJ -LRB- JJ -RRB-|BODY_5|0
+state and transition types|NN CC NN NNS|BODY_1|0
+an agent perspective institutions|DT NN NN NNS|BODY_1|0
+an alternative institution specification|DT JJ NN NN|BODY_1|0
+the expressions ( r|DT NNS -LRB- NN|BODY_1|0
+both lins and lbrute|DT NNS CC NN|BODY_5|0
+a given organization exhibits|DT VBN NN NNS|BODY_9|0
+a simple infrastructure inf|DT JJ NN NN|BODY_1|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8|0
+an infrastructure specification inf|DT NN NN NN|BODY_4|0
+undecidable ( [3] )|JJ -LRB- NN -RRB-|BODY_12|0
+the predominant formal tool|DT JJ JJ NN|BODY_1|0
+a concrete institution cins|DT JJ NN NNS|BODY_1|0
+the institutional language lins|DT JJ NN NNS|BODY_10|0
+a more comprehensive exposition|DT RBR JJ NN|BODY_3|0
+type viol( i )|NN NN NN -RRB-|BODY_8|0
+a given organizational structure|DT VBN JJ NN|BODY_7|1
+the transition type discr(i|DT NN NN NN|BODY_1|0
+a notational convention common|DT JJ NN JJ|BODY_1|0
+this aim language lins|DT NN NN NNS|BODY_1|0
+institutive and terminative modules|JJ CC JJ NNS|BODY_1|0
+some key expressive features|DT JJ JJ NNS|BODY_8|0
+transition types inclusion axioms|NN NNS NN NNS|BODY_3|0
+a precise formal semantics|DT JJ JJ NNS|BODY_7|0
+the rea state types|DT NN NN NNS|BODY_5|0
+states and transition types|NNS CC NN NNS|BODY_3|0
+a designer|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+an organizational structure|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_10|0
+î±|NNS|BODY_11:BODY_13:BODY_10:BODY_19:BODY_7:BODY_8|0
+r )|NN -RRB-|BODY_12:BODY_6:BODY_5:BODY_11:BODY_16:BODY_9|0
+the terminological axioms|DT NN NNS|BODY_2:BODY_3:BODY_9|0
+a formal semantics|DT JJ NNS|BODY_5:ABSTRACT_2:BODY_4:BODY_9|0
+alc h(|JJ NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+terms|NNS|BODY_12:BODY_6:BODY_36:BODY_11:BODY_10:BODY_30|0
+the system|DT NN|BODY_11:BODY_5:BODY_28:BODY_16:BODY_13:BODY_8|0
+the fact|DT NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_7|0
+use|NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+there|EX|BODY_11:BODY_1:BODY_10:BODY_7|0
+the bridge axioms|DT NN NNS|BODY_10:BODY_8|0
+the buyer role|DT NN NN|BODY_16:BODY_17:BODY_4|0
+a role r|DT NN NN|BODY_2:BODY_24:BODY_14|0
+the application|DT NN|BODY_2:BODY_3:BODY_8|0
+atomic transition types|JJ NN NNS|BODY_5:BODY_15|0
+the agents|DT NNS|BODY_5:BODY_1:BODY_4:BODY_8|1
+this|DT|BODY_2:BODY_1|1
+a formal analysis|DT JJ NN|BODY_2:BODY_3|0
+b ) cc(i|NN -RRB- NN|BODY_6:BODY_4:BODY_8|0
+a concrete institution|DT JJ NN|BODY_1:BODY_2:BODY_3|0
+the following definition|DT VBG NN|BODY_3|0
+sets|NNS|BODY_12:BODY_2:BODY_4:BODY_7:BODY_8|1
+the present paper|DT JJ NN|BODY_2|0
+a formal relation|DT JJ NN|BODY_3:ABSTRACT_9|0
+a state|DT NN|BODY_11:BODY_25:BODY_24:BODY_10:BODY_29|0
+( e .g.|-LRB- NN NNP|BODY_6:BODY_23|0
+the abstract norm|DT JJ NN|BODY_11:BODY_1:BODY_7|0
+j ) discr(i|NN -RRB- NN|BODY_12:BODY_8|0
+b )|NN -RRB-|BODY_11:BODY_13:BODY_10:BODY_9|0
+an agent i|DT NN IN|BODY_18:BODY_13:BODY_10|0
+the language|DT NN|BODY_6:BODY_5:BODY_2|0
+a violation state|DT NN NN|BODY_6:BODY_31:BODY_17|0
+the same time|DT JJ NN|BODY_3:BODY_10|0
+role r|NN NN|BODY_33:BODY_6:BODY_14:BODY_7:BODY_29|0
+a specific message|DT JJ NN|BODY_3|0
+the bidding action|DT NN NN|BODY_2|0
+the institutional metaphor|DT JJ NN|BODY_3:BODY_9|1
+the sixth intl|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+the required â€˜brute|DT VBN NN|BODY_2|1
+the case|DT NN|BODY_5:BODY_2:BODY_3:BODY_10|1
+definition 7|NN CD|BODY_2:BODY_1:BODY_3|0
+buyer ) rea(j|NN -RRB- NN|BODY_13:BODY_10:BODY_8|0
+other words|JJ NNS|BODY_2:BODY_1|0
+its explanatory power|PRP$ JJ NN|BODY_5:BODY_4|0
+the formal specification|DT JJ NN|BODY_1:BODY_3:BODY_4|0
+the corresponding bid|DT JJ NN|BODY_22|0
+a formal correspondence|DT JJ NN|BODY_3|0
+certain bridge axioms|JJ NN NNS|BODY_7|0
+a finite number|DT JJ NN|BODY_3|0
+a few words|DT JJ NNS|BODY_2|0
+a technology transfer|DT NN NN|BODY_2|0
+a very expressive|DT RB JJ|BODY_2|0
+elh( â—¦ )|JJ NN -RRB-|BODY_2|0
+norms ( [15]|NNS -LRB- NNS|BODY_7|0
+your personal data|PRP$ JJ NNS|BODY_14|0
+a right pertaining|DT JJ NN|BODY_6|0
+an institutional kind|DT JJ NN|BODY_2|0
+the tbox level|DT NN NN|BODY_4|0
+disjunction and negation|NN CC NN|BODY_5|0
+the nonlogical alphabet|DT JJ NN|BODY_5|0
+some specific system |DT JJ NN|BODY_25|0
+a concrete example|DT JJ NN|BODY_2|0
+the actual system|DT JJ NN|BODY_10|0
+the specified institution|DT VBN NN|BODY_5|0
+negation and intersection|NN CC NN|BODY_4|0
+a transition description|DT NN NN|BODY_3|0
+the role buyer|DT NN NN|BODY_5|0
+,â—¦ ,â¬ ,id|RB JJ NN|BODY_3|0
+the required speech|DT JJ NN|BODY_9|1
+the non-logical alphabet|DT JJ NN|BODY_1:BODY_3|0
+many other kinds|JJ JJ NNS|BODY_8|0
+the necessary expressivity|DT JJ NN|BODY_4|0
+the same framework|DT JJ NN|BODY_2|0
+a same institution|DT JJ NN|BODY_2|0
+enacts role r|PRP$ NN NN|BODY_12:BODY_6:BODY_8|0
+even all states|RB DT NNS|BODY_8|1
+the boolean operators|DT JJ NNS|BODY_4|0
+theory approximation approaches|NN NN NNS|BODY_4|0
+r ) cond(i|NN -RRB- NN|BODY_12|0
+r ) enact(i|NN -RRB- NN|BODY_13|0
+j ) types|NN -RRB- NNS|BODY_5|0
+âš¥ | â¬î³|JJ JJ NN|BODY_12|0
+some concrete choices|DT JJ NNS|BODY_2|0
+function t distills|NN NN NNS|BODY_2|0
+the yielded pairs|DT VBN NNS|BODY_2|0
+an acceptable translation|DT JJ NN|BODY_10|0
+an institution concern|DT NN NN|BODY_3|0
+complex transition types|JJ NN NNS|BODY_9|0
+î± | â¬î±|NNS JJ NN|BODY_10|0
+) , e.g.|-RRB- , FW|BODY_10|0
+r ) .rea(i|NN -RRB- NN|BODY_14|0
+the set|DT NN|BODY_24:BODY_3:BODY_4:BODY_7|0
+some key constructs|DT JJ NNS|BODY_2|0
+roles , {cp}pâˆˆmod|NNS , NN|BODY_5|0
+the syntactic form|DT JJ NN|BODY_3|0
+the implementation choices|DT NN NNS|BODY_2|0
+the related î±|DT JJ NN|BODY_32:BODY_38|0
+an implemented system|DT VBN NN|ABSTRACT_5:BODY_13|1
+j ).accepted( j|RB JJ RB|BODY_9|0
+as bridge axioms|IN NN NNS|BODY_8|0
+some complexity features|DT NN NNS|BODY_2|0
+the formal framework|DT JJ NN|BODY_3|0
+the structural consequences|DT JJ NNS|BODY_6|0
+,â¬ ,id )|JJ NN -RRB-|BODY_6:BODY_3:BODY_4|0
+the institutional effects|DT JJ NNS|BODY_5|0
+6 ) âˆ€accept(i|CD -RRB- NN|BODY_17|0
+whose satisfiability problem|WP$ NN NN|BODY_4|0
+a and c|DT CC NN|BODY_14|0
+the searlean notion|DT JJ NN|BODY_4|0
+the following form|DT VBG NN|BODY_13|0
+a complex form|DT JJ NN|BODY_8|0
+obligation ( formula|NN -LRB- NN|BODY_6|0
+07 ) 631|CD -RRB- CD|BODY_5|0
+some essential features|DT JJ NNS|BODY_3|0
+a given institution|DT VBN NN|BODY_7|0
+complex domain descriptions|JJ NN NNS|BODY_2|0
+interpreted transition systems|VBN NN NNS|BODY_7:BODY_9|0
+these conceptual apparatuses|DT JJ NNS|BODY_3|0
+a concrete label|DT JJ NN|BODY_22|0
+an obligation pertaining|DT NN NN|BODY_4|0
+certain institutional properties|JJ JJ NNS|BODY_25:BODY_8|0
+a discriminatory act|DT JJ NN|BODY_4|0
+the test operator|DT NN NN|BODY_3|0
+lins and lbrute|NNS CC NN|BODY_4|0
+specific terminological choices|JJ VBG NNS|BODY_5|0
+the î± transition|DT RB NN|BODY_10|0
+each inclusion assertion|DT NN NN|BODY_8|0
+every time agent|DT NN NN|BODY_18|0
+decidable ) fragments|JJ -RRB- NNS|BODY_4|0
+some relevant role|DT JJ NN|BODY_5|0
+the brute actions|DT JJ NNS|BODY_7|0
+the requester j|DT NN NN|BODY_3|1
+a reversed perspective|DT JJ NN|BODY_3|0
+a simple example|DT JJ NN|BODY_1|0
+the executability condition|DT NN NN|BODY_3|0
+the seventeenth century|DT JJ NN|BODY_2|0
+the infrastructural level|DT JJ NN|BODY_2|0
+a seller roles|DT NN NNS|BODY_7|0
+a formal way|DT JJ NN|BODY_7|0
+a logical framework|DT JJ NN|BODY_2|0
+a system infrastructure|DT NN NN|BODY_2|0
+the relevant concepts|DT JJ NNS|BODY_4|0
+an institutional issue|DT JJ NN|BODY_4|0
+the previous set|DT JJ NN|BODY_3|0
+the common descriptions|DT JJ NNS|BODY_8|0
+¦ î± ||JJ NNS JJ|BODY_9|0
+( 12 )|-LRB- CD -RRB-|BODY_8|0
+vice versa )|NN NN -RRB-|BODY_7|0
+a ) âš†|DT -RRB- NN|BODY_13|0
+a non-empty set|DT JJ NN|BODY_9|0
+a model|DT NN|BODY_2:BODY_44:BODY_7|0
+î³1 î³2 )|CD NN -RRB-|BODY_7|0
+a lbrute level|DT NN NN|BODY_5|0
+an explicit bridge|DT JJ NN|BODY_7|0
+â€ ¢ x|NN NNS NN|BODY_16|0
+regiment such norm|NN JJ NN|BODY_2|0
+j ) (|NN -RRB- -LRB-|BODY_16|0
+definition 7 )|NN CD -RRB-|BODY_5|0
+a specification tool|DT NN NN|BODY_4|0
+the seller role|DT NN NN|BODY_17|0
+abridge âš† ains|DT JJ NNS|BODY_5|0
+the intuitive reading|DT JJ NN|BODY_2|0
+the to-be-implemented system|DT JJ NN|BODY_10|0
+the original manner|DT JJ NN|BODY_7|0
+) transition types|-RRB- NN NNS|BODY_4|0
+î“bridge and abridge|NN CC NN|BODY_6|0
+states and i|NNS CC CC|BODY_10|0
+the left-hand side|DT JJ NN|BODY_6|0
+) î³ âˆƒî±|-RRB- CC NN|BODY_14:BODY_4:BODY_9|0
+three different types|CD JJ NNS|BODY_8|0
+a formal understanding|DT JJ NN|BODY_9|0
+¢ mod denotes|RB JJ NNS|BODY_7|0
+desirable structural properties|JJ JJ NNS|BODY_6|0
+i ) enact(i|PRP -RRB- NN|BODY_17|0
+the normative description|DT JJ NN|BODY_3|0
+5 and 6|CD CC CD|BODY_7|0
+the institutional notions|DT JJ NNS|BODY_4|0
+the same type|DT JJ NN|BODY_12|1
+the translation rules|DT NN NNS|BODY_3|0
+a model m|DT NN NN|BODY_8|0
+an institutional action|DT JJ NN|BODY_6|0
+14 ) send(i|CD -RRB- NN|BODY_11|0
+msg49 ) bid(i|CD -RRB- NN|BODY_12|0
+a | î±|DT JJ NNS|BODY_8|0
+a tbox cins|DT NN NNS|BODY_9|0
+each inclusion statement|DT NN NN|BODY_5|0
+b ) âˆ€â¬pay(i|NN -RRB- NN|BODY_13|0
+a pervasive feature|DT JJ NN|BODY_15|0
+( obligation laws|-LRB- NN NNS|BODY_5|0
+concrete structural descriptions|JJ JJ NNS|BODY_8|0
+the institution specification|DT NN NN|BODY_3|0
+â€ ¢ c|VBN RB NN|BODY_28|0
+the necessary piece|DT JJ NN|BODY_7|0
+a model-theoretic semantics|DT JJ NNS|BODY_2|0
+all the executions|DT DT NNS|BODY_10|1
+the brute ones|DT JJ NNS|BODY_5|0
+state type constructs|NN NN NNS|BODY_5|0
+the institutional alphabet|DT JJ NN|BODY_10|0
+seller ) âˆ€bid(i|NN -RRB- NN|BODY_9|0
+the following bnf|DT VBG NN|BODY_6|0
+the chosen role|DT VBN NN|BODY_23|0
+abstract system specifications|JJ NN NNS|BODY_5|1
+( 13 )|-LRB- CD -RRB-|BODY_15|0
+the structural properties|DT JJ NNS|BODY_5|0
+different concrete institutions|JJ NN NNS|BODY_4|0
+the infrastructure inf|DT NN NN|BODY_6|0
+many essential aspects|JJ JJ NNS|BODY_10|0
+relevant transition types|JJ NN NNS|BODY_8|0
+07 ) observations|CD -RRB- NNS|BODY_5|0
+i( â¬î³ )|JJ NN -RRB-|BODY_17|0
+a different issue|DT JJ NN|BODY_4|1
+agent programming languages|NN VBG NNS|BODY_3|0
+the previous paragraph|DT JJ NN|BODY_3|0
+an infrastructure inf|DT NN NN|BODY_3|0
+formula 13 formalizes|NN CD NNS|BODY_2|0
+institutions and organizations|NNS CC NNS|ABSTRACT_2|1
+a certain interaction|DT JJ NN|BODY_4|0
+a concrete system|DT JJ NN|BODY_3:BODY_8|0
+a rigorous understanding|DT JJ NN|BODY_5|0
+a better way|DT JJR NN|BODY_11|0
+a formal grounding|DT JJ NN|BODY_2|0
+at least awkward|IN JJS JJ|BODY_13|0
+certain brute facts|JJ JJ NNS|BODY_10|0
+) & (|-RRB- CC -LRB-|BODY_35|0
+) âˆˆ i(|-RRB- NN JJ|BODY_34|0
+the concrete agents|DT JJ NNS|BODY_11|0
+the following inclusion|DT JJ NN|BODY_2|0
+specific terminological axioms|JJ NN NNS|BODY_4|0
+the following inclusions|DT VBG NNS|BODY_2|0
+a formal specification|DT JJ NN|BODY_2|0
+a formal theory|DT JJ NN|BODY_1|0
+) | âˆƒs|-RRB- JJ NNP|BODY_32|0
+r ) .â¬rea(i|NN -RRB- NN|BODY_15|0
+the iteration operator|DT NN NN|BODY_8|0
+type condition pay(i|NN NN NN|BODY_4|0
+an infrastructure specification|DT NN NN|BODY_2|0
+particular example 6|JJ NN CD|BODY_27|0
+j|NN|BODY_15:BODY_23:BODY_24:BODY_3:BODY_7|0
+the remaining sets|DT VBG NNS|BODY_2|0
+the institutional consequences|DT JJ NNS|BODY_6|0
+such formal representations|JJ JJ NNS|BODY_2|0
+mere institutional terms|JJ JJ NNS|BODY_9|0
+constructsorganizational structures-which are|JJ JJ VBP|ABSTRACT_4|0
+the institution defines|DT NN NNS|BODY_3|0
+r ) )|NN -RRB- -RRB-|BODY_18|0
+msg9 ) deact(i|CD -RRB- NN|BODY_19|0
+a notational variant|DT JJ NN|BODY_4|0
+formula 15 states|NN CD NNS|BODY_1|0
+msg49 ) )|CD -RRB- -RRB-|BODY_4|0
+a complex procedure|DT JJ NN|BODY_3|0
+concrete transition types|NN NN NNS|BODY_18:BODY_4|0
+whose intuitive meaning|WP$ JJ NN|BODY_5|0
+definition 5 i|NN CD FW|BODY_28|0
+this modeling option|DT NN NN|BODY_2|0
+the transition type|DT NN NN|BODY_2|0
+a brute fact|DT JJ NN|BODY_6|0
+explicit what kind|JJ WDT NN|BODY_5|1
+some relevant conditions|DT JJ NNS|BODY_9|0
+an illuminating message|DT JJ NN|BODY_4|0
+this kind state|DT NN NN|BODY_2|0
+( [16] )|-LRB- NN -RRB-|BODY_9|0
+a brute kind|DT JJ NN|BODY_3|0
+a structural level|DT JJ NN|BODY_9|0
+j ) yields|NN -RRB- NNS|BODY_6|0
+the last result|DT JJ NN|BODY_1|0
+î“ âˆª {x}|NNS JJ NN|BODY_6|0
+the axioms concern|DT NNS NN|BODY_14|0
+norm , role|JJ , NN|BODY_7|0
+states and transitions|NNS CC NNS|BODY_7|0
+a and therefore|DT CC RB|BODY_9|0
+a tbox t|DT NN NN|BODY_3|0
+the form rea(i|DT NN NN|BODY_2|0
+their key concepts|PRP$ JJ NNS|BODY_5|0
+the added value|DT JJ NN|BODY_3|0
+a precise thesis|DT JJ NN|BODY_2|0
+the empowerment phenomenon|DT NN NN|BODY_1|0
+a key role|DT JJ NN|BODY_4|0
+some institutional properties|DT JJ NNS|BODY_3|0
+the operator id|DT NN NN|BODY_1|0
+a certain agent|DT JJ NN|BODY_18|0
+the institution )|DT NN -RRB-|BODY_7|0
+a same set|DT JJ NN|BODY_4|0
+a refinement process|DT NN NN|ABSTRACT_3|0
+a structural one|DT JJ CD|BODY_6|0
+that institutional type|DT JJ NN|BODY_11|0
+definition 3 shows|NN CD VBZ|BODY_1|0
+the role seller|DT NN NN|BODY_7|0
+state types rea(i|NN NNS NN|BODY_8|0
+a state type|DT NN NN|BODY_6|0
+new institutional notions|JJ JJ NNS|BODY_5|0
+the translated axioms|DT VBN NNS|BODY_4|0
+a normative conception|DT JJ NN|BODY_3|0
+the institutional empowerment|DT JJ NN|BODY_15|0
+arbitrary state types|JJ NN NNS|BODY_5|0
+description logic el|NN NN NN|BODY_2|0
+the logical constraints|DT JJ NNS|BODY_7|0
+the organizational structure|DT JJ NN|BODY_4|0
+the brute alphabet|DT NN NN|BODY_9|0
+the infrastructural choice|DT JJ NN|BODY_2|0
+a transition type|DT NN NN|BODY_7|0
+the other hand|DT JJ NN|BODY_1|1
+a given infrastructure|DT VBN NN|BODY_8|0
+the possible states|DT JJ NNS|BODY_6|0
+an appropriate infrastructure|DT JJ NN|BODY_5|0
+i( î³ )|JJ NN -RRB-|BODY_11|0
+3.2 organizational structures|CD JJ NNS|BODY_1|0
+the paradigmatic example|DT JJ NN|BODY_1|0
+e10 ) discr(i|CD -RRB- NN|BODY_6|0
+the two examples|DT CD NNS|BODY_1|0
+definition 3 )|NN CD -RRB-|BODY_9|0
+msg49 ) transition|CD -RRB- NN|BODY_10|1
+r ) deact(i|NN -RRB- NN|BODY_14|0
+the previous sections|DT JJ NNS|BODY_3|0
+a given domain|DT VBN NN|BODY_5|0
+the satisfiability problem|DT NN NN|BODY_5|0
+the terminological link|DT JJ NN|BODY_6|0
+j ) accept(i|NN -RRB- NN|BODY_12|0
+( 19 )|-LRB- CD -RRB-|BODY_21|0
+the negation operator|DT NN NN|BODY_6|0
+a certain type|DT JJ NN|BODY_13:BODY_8|0
+an essential phenomenon|DT JJ NN|BODY_8|0
+new system descriptions|JJ NN NNS|BODY_9|0
+an atomic transition-type|DT JJ NN|BODY_9:BODY_20|0
+a status module|DT NN NN|BODY_2|0
+a different institution|DT JJ NN|BODY_6|0
+dynamic logic (|JJ NN -LRB-|BODY_6|0
+some brute properties|DT JJ NNS|BODY_9|0
+all and only|PDT CC RB|BODY_3|0
+the executability dimension|DT NN NN|BODY_4|0
+the right-hand side|DT JJ NN|BODY_10|0
+what social status|WP JJ NN|BODY_14|0
+a legal state|DT JJ NN|BODY_11|0
+the computational capabilities|DT JJ NNS|BODY_21|0
+an institutional description|DT JJ NN|BODY_7|0
+. 100-101 )|. CD -RRB-|BODY_6|0
+the organizational one|DT JJ CD|BODY_5:BODY_11|1
+the discrimination action|DT NN NN|BODY_3|0
+the system designer|DT NN NN|BODY_1|0
+some institutional consequences|DT JJ NNS|BODY_6|0
+an appropriate set|DT JJ NN|BODY_2|0
+the technical content|DT JJ NN|BODY_1|0
+conditions ( cond(i|NNS -LRB- NN|BODY_17|0
+what normative consequences|WP JJ NNS|BODY_3|0
+examples 1-7 )|NNS NN -RRB-|BODY_9|0
+j ) j|NN -RRB- NN|BODY_7|1
+( derived constructs|-LRB- VBN NNS|BODY_1|0
+the concept car|DT NN NN|BODY_11|0
+the extended framework|DT JJ NN|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+an institutional property|DT JJ NN|BODY_1|0
+an institutional fact|DT JJ NN|BODY_10|0
+its concrete interpretation|PRP$ JJ NN|BODY_8|0
+the satisfiability problem4|DT NN NN|BODY_1|0
+3.3 relating institutions|CD VBG NNS|BODY_1|0
+a design perspective|DT NN NN|BODY_1|0
+methodologies and tools|NNS CC NNS|BODY_6|0
+î“ and a.|FW CC NN|BODY_9|0
+î±1 î±2 )|CD NN -RRB-|BODY_11|0
+( buyer|-LRB- NN|BODY_5:BODY_11:BODY_3:BODY_7|0
+order|NN|BODY_5:BODY_2:BODY_4|0
+role r )|NN NN -RRB-|BODY_28|0
+system level notions|NN NN NNS|BODY_9|0
+the agent identifiers|DT NN NNS|BODY_1|0
+atomic state types|JJ NN NNS|BODY_16|0
+a terminative module|DT NN NN|BODY_1|0
+î“|FW|BODY_12:BODY_3:BODY_10|0
+such a procedure|PDT DT NN|BODY_1|0
+the two paradigms|DT CD NNS|BODY_8|0
+the following sections|DT JJ NNS|BODY_1|0
+the one hand|DT CD NN|BODY_1|0
+the actual possibility|DT JJ NN|BODY_1|0
+not every tbox|RB DT NN|BODY_1|0
+the definition states|DT NN NNS|BODY_1|0
+a useful heuristics|DT JJ NNS|ABSTRACT_5|0
+( executability laws|-LRB- NN NNS|BODY_1|0
+some institutional effect|DT JJ NN|BODY_9|0
+an institutional perspective|DT JJ NN|BODY_1|0
+these transitions systems|DT NNS NNS|BODY_1|0
+some syntactic sugar|DT JJ NN|BODY_6|0
+one last observation|CD JJ NN|BODY_1|0
+all its translations|DT PRP$ NNS|BODY_7|0
+concrete system specifications|JJ NN NNS|BODY_13|0
+( organizational structure|-LRB- JJ NN|BODY_1|0
+the axiom states|DT NN NNS|BODY_1|0
+the two frameworks|DT CD NNS|BODY_4|0
+a formal road|DT JJ NN|TITLE_1|0
+acceptance and rejection|NN CC NN|BODY_6|0
+a given institution2|DT VBN NN|BODY_9|0
+exploiting definition 7|VBG NN CD|BODY_1|0
+those same conditions|DT JJ NNS|BODY_11|0
+the first question|DT JJ NN|BODY_1|0
+the main result|DT JJ NN|BODY_1|0
+certain institutional states|JJ JJ NNS|BODY_7|0
+formula 4 refines|NN CD NNS|BODY_1|0
+the following norm|DT VBG NN|BODY_2|0
+the same action|DT JJ NN|BODY_17|0
+a structural description|DT JJ NN|BODY_11|0
+public web services|JJ NN NNS|BODY_7|0
+precise implementation choices|JJ NN NNS|BODY_6|0
+some more details|DT JJR NNS|BODY_3|0
+2.4 institutional modules|CD JJ NNS|BODY_1|0
+an institutive module|DT JJ NN|BODY_1|0
+| axioms )|JJ NNS -RRB-|BODY_9|0
+î³1 âˆˆ î“bridge|DT NN NN|BODY_7|0
+( concrete institution|-LRB- JJ NN|BODY_1|0
+2.5 tractable specifications|CD JJ NNS|BODY_1|0
+current formal approaches|JJ JJ NNS|BODY_1|0
+a finer granularity|DT NN NN|BODY_14|0
+( 25 )|-LRB- CD -RRB-|BODY_1|0
+specific messages )|JJ NNS -RRB-|BODY_13|0
+( infrastructure specification|-LRB- NN NN|BODY_1|0
+formula 22 )|NN CD -RRB-|BODY_10|0
+this formal relation|DT JJ NN|BODY_1|0
+a certain role|DT JJ NN|BODY_5|0
+a specific status|DT JJ NN|BODY_12|0
+description logic|NN NN|BODY_2:BODY_3:BODY_7|0
+î³|NN|BODY_33:BODY_5:BODY_39:BODY_3:BODY_9|0
+the agent|DT NN|BODY_6:BODY_5:BODY_16:BODY_14|0
+the basis|DT NN|BODY_5:BODY_2:BODY_4:BODY_9|0
+links|NNS|BODY_35:BODY_2:BODY_1:BODY_4:BODY_29|0
+lins|NNS|BODY_12:BODY_2:BODY_4:BODY_7|0
+the design|DT NN|BODY_18:BODY_4|0
+fact|NN|BODY_1:BODY_2:BODY_9|0
+the grounds|DT NNS|BODY_22:BODY_2:BODY_4:BODY_7:BODY_9|0
+open systems|JJ NNS|BODY_5:ABSTRACT_4|0
+rea(i|NN|BODY_13:BODY_7:BODY_9|0
+state types|NN NNS|BODY_1:BODY_3:BODY_7:BODY_9|0
+the paper|DT NN|BODY_1:BODY_2:BODY_3:ABSTRACT_1|1
+the norm|DT NN|BODY_1:BODY_24:BODY_3|0
+( i|-LRB- NN|BODY_11:BODY_22:BODY_23:BODY_9|0
+i .e|FW FW|BODY_23:BODY_2:BODY_9|0
+the meaning|DT NN|BODY_6:BODY_2:BODY_4|0
+the development|DT NN|BODY_5:ABSTRACT_3|0
+( r|-LRB- NN|BODY_12:BODY_6:BODY_3|0
+institution|NN|BODY_6:ABSTRACT_4:BODY_1|1
+a transition|DT NN|BODY_12:BODY_21:BODY_13:BODY_7|0
+r|NN|BODY_5:BODY_18:BODY_7:BODY_20|0
+role|NN|BODY_6:BODY_5:BODY_8:BODY_9|0
+tboxes|NNS|BODY_5:BODY_1:BODY_2|0
+the inference|DT NN|BODY_5:BODY_2:BODY_3|0
+ins|NNS|BODY_11:BODY_3:BODY_8|0
+a property|DT NN|BODY_2:BODY_9|0
+the links|DT NNS|BODY_2:BODY_3|0
+the problem|DT NN|BODY_1:BODY_3|0
+a description|DT NN|BODY_11:BODY_8|0
+artificial intelligence]|JJ NN|ABSTRACT_6:ABSTRACT_9|0
+social theory|JJ NN|BODY_6:BODY_2:BODY_4|0
+multi-agent systems|JJ NNS|BODY_3|0
+the one|DT CD|BODY_4:BODY_7|0
+this issue|DT NN|BODY_2:BODY_3|0
+the role|DT NN|BODY_15:BODY_13:BODY_8:BODY_9|0
+e .g.|NN NNP|BODY_12:BODY_6:BODY_11:BODY_17|0
+the production|DT NN|BODY_12:BODY_4|0
+a number|DT NN|BODY_3:BODY_7|0
+example 3|NN CD|BODY_1:BODY_3:BODY_4|0

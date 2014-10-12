@@ -1,0 +1,21 @@
+we|PRP|BODY_1|0
+machine availability|NN NN|BODY_4:BODY_8|0
+two identical machines|CD JJ NNS|BODY_3:BODY_7|0
+the unavailable periods|DT JJ NNS|BODY_8|0
+list scheduling|NN NN|BODY_3|0
+an optimal algorithm|DT JJ NN|BODY_2|0
+scheduling|NN|BODY_2|0
+j = 1 , 2|NN SYM CD , CD|BODY_7|0
+t/sub j/ )|VB NN -RRB-|BODY_6|0
+the competitive ratio|DT JJ NN|BODY_2|0
+j/ ( 0 <or= s/sub j/|NN -LRB- CD NN NN NN|BODY_5|0
+s/sub j/|NN NN|BODY_4|0
+period|NN|BODY_3|0
+that machine m/sub j/|DT NN NN NN|BODY_2|0
+the online scheduling|DT JJ NN|BODY_6|0
+this paper|DT NN|BODY_5|0
+two machines|CD NNS|BODY_9|0
+3|CD|BODY_4|0
+a competitive ratio|DT JJ NN|BODY_3|0
+optimal online algorithm|JJ JJ NN|BODY_1|0
+minimizing makespan|VBG NN|BODY_9|0

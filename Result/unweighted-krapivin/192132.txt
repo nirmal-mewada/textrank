@@ -1,0 +1,905 @@
+we|PRP|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_29:BODY_7:BODY_8|4
+the search algorithm|DT NN NN|BODY_12:BODY_16:BODY_17:BODY_13:ABSTRACT_3:BODY_2:BODY_14:BODY_3:BODY_4:BODY_33:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|3
+that|WDT|BODY_12:ABSTRACT_11:BODY_18:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:ABSTRACT_4:ABSTRACT_7:BODY_19:BODY_7:BODY_8:BODY_9|1
+ff|NN|BODY_11:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+it|PRP|BODY_12:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+there|EX|BODY_6:BODY_11:BODY_5:BODY_21:BODY_1:BODY_2:BODY_10:BODY_19:BODY_7:BODY_8|0
+oe|NN|BODY_6:BODY_16:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+k|NN|BODY_12:BODY_5:BODY_11:BODY_21:BODY_26:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+t|NN|BODY_6:BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+( 1.2 )|-LRB- CD -RRB-|BODY_12:BODY_21:BODY_15:BODY_13:BODY_23:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+i|PRP|BODY_12:BODY_6:BODY_5:BODY_21:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+the function|DT NN|BODY_11:BODY_5:BODY_26:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|1
+the endpoints|DT NNS|BODY_5:BODY_22:BODY_18:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4:BODY_8|0
+the interval|DT NN|BODY_6:BODY_11:BODY_5:BODY_17:BODY_2:BODY_25:BODY_1:BODY_14:BODY_8:BODY_9|0
+ff l|NN NN|BODY_11:BODY_5:BODY_16:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7|0
+this case|DT NN|BODY_6:BODY_11:BODY_18:BODY_1:BODY_3:BODY_8:BODY_9|0
+( 1.1 )|-LRB- CD -RRB-|BODY_6:BODY_5:BODY_11:BODY_22:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9:BODY_20|0
+an interval|DT NN|BODY_6:BODY_11:BODY_5:BODY_16:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+ff max|NN NN|BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_8|0
+f t|NN NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_8|0
+a minimizer|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+t (-)|NN NN|BODY_5:BODY_21:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|2
+the minimizer|DT NN|BODY_6:BODY_5:BODY_16:BODY_3:BODY_10|0
+the algorithm|DT NN|BODY_6:BODY_17:BODY_4:BODY_9|0
+the results|DT NNS|BODY_6:BODY_1:BODY_2:BODY_3|0
+[ff min|NN NN|BODY_6:BODY_13:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|0
+1.1 )|CD -RRB-|BODY_12:BODY_6:BODY_5:BODY_15:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+terms|NNS|ABSTRACT_8:BODY_2:BODY_3:BODY_4:BODY_9|0
+1.2 )|CD -RRB-|BODY_17:BODY_15:BODY_2:BODY_10:BODY_7|0
+example|NN|BODY_2:BODY_1:BODY_4:BODY_9|0
+the test set|DT NN NN|BODY_2:BODY_4|0
+the updating algorithm|DT VBG NN|BODY_5:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4|0
+one|CD|BODY_11:BODY_15:BODY_2:BODY_3:BODY_8|0
+trial values|NN NNS|BODY_6:BODY_12:BODY_2:BODY_4:BODY_10:BODY_8|0
+the number|DT NN|BODY_6:BODY_11:BODY_1:BODY_2|0
+a point|DT NN|BODY_6:BODY_11:ABSTRACT_5:ABSTRACT_8:BODY_2:BODY_3:BODY_10:ABSTRACT_9|0
+the set|DT NN|BODY_5:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+function evaluations|NN NNS|BODY_12:BODY_2:BODY_3:BODY_10:BODY_7|0
+the numerical results|DT JJ NNS|BODY_1:BODY_2:BODY_3:BODY_4|1
+the bounds|DT NNS|BODY_16:BODY_2:BODY_3:BODY_4|0
+al-baali and fletcher [2|JJ CC NN NNS|BODY_2:BODY_1:BODY_3|0
+ff min|NN NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_8|0
+plot|NN|BODY_5:BODY_22:BODY_16:BODY_13:BODY_19:BODY_7:BODY_9|0
+those|DT|BODY_4|0
+/( ff|JJ NN|BODY_12:BODY_11:BODY_5:BODY_17:BODY_7:BODY_9|0
+the assumptions|DT NNS|BODY_5:BODY_16:BODY_13:BODY_1:BODY_4|0
+endpoints|NNS|BODY_10:BODY_4:BODY_7:BODY_9|0
+concavity|NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+ff t|IN NN|BODY_5:BODY_22:BODY_1:BODY_3:BODY_7:BODY_9|0
+the sufficient decrease condition|DT JJ NN NN|BODY_6:BODY_16:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_9|1
+the sequence|DT NN|BODY_6:BODY_2:BODY_3:BODY_7:BODY_8|0
+l and ff u|JJ CC IN NNS|BODY_6:BODY_5:BODY_15:BODY_3:BODY_4:BODY_9|0
+l|NN|BODY_2|0
+oe 0|NN CD|BODY_1:BODY_3:BODY_4:BODY_8|0
+/|NN|BODY_16:BODY_3:BODY_14:BODY_10:BODY_4|0
+0|CD|BODY_6:BODY_22:BODY_1:BODY_10:BODY_7:BODY_8|0
+a finite number|DT JJ NN|BODY_11:BODY_5:BODY_17:BODY_13:ABSTRACT_14:BODY_1:BODY_30:BODY_8:BODY_9|0
+the functions|DT NNS|BODY_5:BODY_2|0
+[ff ( k )|NN -LRB- NN -RRB-|BODY_11:BODY_15:BODY_3:BODY_7|0
+a trial value|DT NN NN|BODY_11:BODY_2:BODY_1:BODY_4:BODY_7:BODY_8|0
+an acceptable ff|DT JJ NN|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4|0
+the cubic|DT JJ|BODY_6:BODY_1:BODY_2:BODY_4|0
+numerical results|JJ NNS|BODY_5:BODY_3:ABSTRACT_1:BODY_4|1
+particular|JJ|BODY_2:BODY_1|0
+ff ( k ) u|NN -LRB- NN -RRB- NN|BODY_6:BODY_5:BODY_27:BODY_24:BODY_4|0
+i k|NN NN|BODY_6:BODY_5:BODY_3:BODY_9|0
+these conditions|DT NNS|BODY_12:BODY_5:BODY_7|0
+this function|DT NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+the interval i|DT NN NN|BODY_15:BODY_3:BODY_10|0
+the search|DT NN|BODY_1:BODY_4:BODY_8:BODY_9|0
+ff k|NN NN|BODY_12:BODY_5:BODY_1:BODY_3:BODY_8|0
+[ff l|NN NN|BODY_15:BODY_3:BODY_10|0
+they|PRP|BODY_6:BODY_5:BODY_3|0
+2.1 )|CD -RRB-|BODY_3:BODY_4:BODY_7|0
+figure 5.1|NN CD|BODY_27:BODY_2:BODY_4|0
+the proof|DT NN|BODY_1:BODY_3|0
+convex|NN|BODY_6:BODY_5:BODY_15|0
+( 2.3 )|-LRB- CD -RRB-|BODY_5:BODY_2:BODY_3|0
+/( ff m )|DT NN NN -RRB-|BODY_2|0
+these two functions|DT CD NNS|BODY_2|0
+( 1.2|-LRB- CD|BODY_2:BODY_4:BODY_7:BODY_9|0
+the minimizer ff|DT NN NN|BODY_6:BODY_11:BODY_8|0
+min|NN|BODY_12:BODY_11:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+k ) l|NN -RRB- NN|BODY_6:BODY_12:BODY_5|0
+ff l and ff t|NN NN CC NN NN|BODY_6:BODY_5:BODY_3:BODY_7|0
+holds|NNS|BODY_6:BODY_2:BODY_10|0
+iterates|NNS|ABSTRACT_6:BODY_4:BODY_8|0
+follows|VBZ|BODY_4:BODY_8|0
+a sequence|DT NN|BODY_5:ABSTRACT_5:BODY_15:BODY_3:BODY_7|0
+the case|DT NN|BODY_16:BODY_4:BODY_8|0
+the search algorithm terminates|DT NN NN NNS|BODY_1:BODY_3:BODY_29:BODY_7|0
+an iterate|DT NN|BODY_6:BODY_5:BODY_2:BODY_3|0
+this paper|DT NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+the behavior|DT NN|BODY_13:BODY_2:BODY_3|0
+a line search method|DT NN NN NN|BODY_5:ABSTRACT_4:BODY_1:BODY_7|0
+an ff k|DT NN NN|BODY_12:BODY_5:BODY_2:BODY_4:BODY_7|0
+all k|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_20|0
+an ff|DT NN|BODY_6:BODY_3:BODY_4:BODY_7:BODY_9|1
+theorem 3.1|NN CD|BODY_6:BODY_1:BODY_3|0
+the length|DT NN|BODY_6:BODY_3:BODY_4:BODY_9|0
+results|NNS|BODY_6:BODY_2:BODY_25:BODY_4:BODY_7|0
+( 2.4 )|-LRB- CD -RRB-|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+our implementation|PRP$ NN|BODY_1:BODY_2:BODY_3|0
+max ]|NN NNS|BODY_10:BODY_4:BODY_7|0
+the function oe|DT NN NN|BODY_11:BODY_3:BODY_4|0
+k g|NN NN|BODY_6:BODY_5:BODY_9|0
+/( ff k|JJ IN NN|BODY_3:BODY_8|0
+table 5.2|NN CD|BODY_6:BODY_2:BODY_3|1
+a search algorithm|DT NN NN|ABSTRACT_2:BODY_4|0
+these functions|DT NNS|BODY_5:BODY_1:BODY_8|0
+this work|DT NN|BODY_5:BODY_1|0
++|NNS|BODY_17:BODY_7|0
+1|CD|BODY_1:BODY_9|0
+points|NNS|BODY_6:BODY_18:BODY_13:BODY_7:BODY_20|0
+f l|NN NN|BODY_2:BODY_3:BODY_9|0
+the development|DT NN|BODY_2:ABSTRACT_1|0
+the value|DT NN|BODY_2:BODY_3|0
+a bisection algorithm|DT NN NN|BODY_4:BODY_7|0
+ff m|NN NN|BODY_11:BODY_7|0
+( 0|-LRB- CD|BODY_6:BODY_4:BODY_7|0
+0, and jg t j|JJ CC JJ NN NN|BODY_5|0
+this problem|DT NN|BODY_6:ABSTRACT_3:BODY_4|0
+the auxiliary function /|DT JJ NN NN|BODY_5:BODY_2|0
+both endpoints|DT NNS|BODY_5:BODY_4|0
+k such|NN JJ|BODY_6:BODY_7:BODY_8|0
+the modified updating algorithm|DT VBN VBG NN|BODY_4:BODY_9|0
+a function|DT NN|BODY_3:BODY_4|0
+figure 3.1|NN CD|BODY_12:BODY_1:BODY_2|0
+the assumption|DT NN|BODY_2:BODY_1:BODY_7|0
+work|NN|BODY_6:BODY_1|0
+ff q|NN NN|BODY_2:BODY_3|0
+figure 5.3|NN CD|BODY_12:BODY_2:BODY_4:BODY_10|0
+i +|NN NN|BODY_2:BODY_4|0
+the other hand|DT JJ NN|BODY_6:BODY_1|0
+department|NN|BODY_2|0
+fort wayne|NN NN|BODY_5|0
+converges|NNS|BODY_23:BODY_8|0
+all ff|DT NN|BODY_11:BODY_14:BODY_9|0
+a result|DT NN|BODY_5:BODY_1|0
+energy|NN|BODY_7|0
+gilbert and nocedal [7|NN CC JJ NNS|BODY_9|0
+conditions|NNS|BODY_1:BODY_2|0
+functions|NNS|BODY_10|0
+that ff|DT NN|BODY_11:BODY_1:BODY_3|0
+figures|NNS|BODY_6:BODY_3|0
+[0|CD|BODY_3|0
+l-|NNS|BODY_5:BODY_4|0
+our algorithm|PRP$ NN|BODY_6:BODY_13:BODY_2|0
+15]|CD|BODY_8|0
+either|DT|BODY_11|0
+pathological cases|JJ NNS|BODY_28:ABSTRACT_12:BODY_9|0
+section 5|NN CD|BODY_1:BODY_8|0
+the interior|DT NN|BODY_2:BODY_3:BODY_4:BODY_9|0
+dennis and schnabel [4|NN CC NN NNS|BODY_2|0
+2.5 )|CD -RRB-|BODY_2:BODY_3|0
+finite termination|JJ NN|BODY_11:BODY_2:BODY_4|0
+these choices|DT NNS|BODY_2:BODY_3|0
+ff c and ff t|JJ NN CC JJ NN|BODY_9|0
+j|NN|BODY_6:BODY_14:BODY_4|0
+fi ( k|JJ -LRB- NN|BODY_1:BODY_3|0
+her careful reading|PRP$ JJ NN|BODY_10|0
+our numerical results|PRP$ JJ NNS|BODY_28:BODY_1|0
+the second function|DT JJ NN|BODY_3:BODY_7|0
+a set|DT NN|ABSTRACT_4:BODY_2|0
+ozawa|NNP|BODY_5|0
+oe 0 ( ff|NN CD -LRB- NN|BODY_2:BODY_10:BODY_8|0
+section 4|NN CD|BODY_2:BODY_1|0
+that ff l|DT NN NN|BODY_2|0
+oe(ff )|NN -RRB-|BODY_2:BODY_4|0
+some iterate|DT NN|BODY_6:BODY_3|0
+an example|DT NN|BODY_4|0
+2.7 )|CD -RRB-|BODY_2:BODY_3|0
+f|NN|BODY_5|0
+interpolates|NNS|BODY_12:BODY_18:BODY_3|0
+satisfies|NNS|BODY_5:BODY_11:BODY_3:BODY_4|0
+indiana-purdue university|JJ NN|BODY_4|0
+mathematical sciences|JJ NNS|BODY_3|0
+any result|DT NN|BODY_11|0
+bisection|NN|BODY_5:BODY_3:BODY_9|0
+1 )|CD -RRB-|BODY_5:BODY_4:BODY_7|0
+2.2 ) and ( 2.5 )|CD -RRB- CC -LRB- CD -RRB-|BODY_2|0
+the problems|DT NNS|BODY_32:BODY_2|0
+this trend|DT NN|BODY_2|0
+a global minimizer|DT JJ NN|BODY_13:BODY_2|0
+roger fletcher|NN NN|BODY_4|0
+min or ff max|NN CC NN NN|BODY_10|0
+discussions and suggestions|NNS CC NNS|BODY_2|0
+different values|JJ NNS|BODY_4:BODY_30|1
+reasonable choices|JJ NNS|BODY_9|0
+energy research|NN NN|BODY_5|0
+this point|DT NN|BODY_1:BODY_2|0
+quasi-newton methods|JJ NNS|BODY_7|0
+the solution|DT NN|BODY_2:BODY_3|0
+values|NNS|BODY_6:BODY_5|0
+ff u|NN NNS|BODY_2:BODY_1:BODY_7|0
+scheme s2|NN NN|BODY_18:BODY_9|0
+k 0|NN CD|BODY_18:BODY_8|0
+/(|DT|BODY_3:BODY_10|0
+the algorithms|DT NNS|BODY_2|0
+the size|DT NN|BODY_10:BODY_7|0
+steps|NNS|BODY_18:ABSTRACT_15:BODY_14:BODY_9|0
+al- baali [1] , liu and nocedal [10]|DT JJ NN , NN CC JJ NN|BODY_8|0
+the starting points|DT VBG NNS|BODY_5:BODY_10|0
+the u.s. department|DT NN NN|BODY_6|0
+test problems|NN NNS|BODY_11:BODY_3|0
+convergence|NN|BODY_2:BODY_3|0
+figure 5.4|NN CD|BODY_6:BODY_15:BODY_8|0
+these assumptions|DT NNS|BODY_5:BODY_8|0
+the starting point ff|DT VBG NN NN|BODY_2:BODY_3|0
+yanai|NNP|BODY_4|0
+the sense|DT NN|BODY_5:BODY_20|0
+ff 4|NN CD|BODY_5:BODY_2|0
+ff max ]|NN NN NN|BODY_5:BODY_11:BODY_3:BODY_4:BODY_7|0
+fi 1|JJ CD|BODY_8|0
+evaluations|NNS|BODY_4:BODY_8|0
+/ 0 ( ff ( k|JJ CD -LRB- NN -LRB- NN|BODY_1:BODY_4|0
+condition|NN|BODY_1:BODY_2|0
+the fact|DT NN|BODY_5:BODY_9|0
+yuan|PRP|BODY_6|0
+figure 5.2|NN CD|BODY_6:BODY_8:BODY_9|1
+1also|CD|BODY_1|0
+guaranteed sufficient decrease|VBN JJ NN|TITLE_2|0
+line search algorithms|NN NN NNS|TITLE_1|0
+newton and quasi-newton methods|NN CC JJ NNS|BODY_2|0
+case|NN|BODY_5:BODY_1:BODY_4|0
+a step|DT NN|BODY_6:BODY_4|0
+the applied mathematical sciences subprogram|DT VBN JJ NNS NN|BODY_3|0
+the problem|DT NN|ABSTRACT_4:BODY_3|0
+the starting value|DT VBG NN|BODY_1:BODY_9|0
+figure 5.6|NN CD|BODY_5:BODY_21:BODY_8|0
+fi 2 lead|JJ CD NN|BODY_9|0
+the result|DT NN|BODY_10|0
+u|NN|BODY_7:BODY_8|0
+regions|NNS|BODY_2:BODY_3|0
+the safeguarding rules|DT NN NNS|BODY_2:BODY_4|0
+powell [13]|NN NN|BODY_5|0
+any sequence|DT NN|BODY_2:BODY_4|0
+the step|DT NN|BODY_1:BODY_4:BODY_9|0
+o'leary [12] , schlick and fogelson [14|JJ NN , NN CC NN NNS|BODY_7|0
+gradient-related methods|JJ NNS|BODY_4|0
+the office|DT NN|BODY_4|0
+the right|DT NN|BODY_5:BODY_8|0
+k )|NN -RRB-|BODY_5:BODY_3|0
+an algorithm|DT NN|BODY_2:BODY_8|0
+the distance|DT NN|BODY_4|0
+table 5.1|NN CD|BODY_3:BODY_24:BODY_4|0
+1.2 ) rules|CD -RRB- NNS|BODY_2|0
+the secant step ff|DT JJ NN NN|BODY_2|0
+table 5.6|NN CD|BODY_5:BODY_3|0
+the updated interval|DT VBN NN|BODY_6:BODY_1|0
+function ( 5.4 )|NN -LRB- CD -RRB-|BODY_17:BODY_23:BODY_20|0
+ff u )|IN NN -RRB-|BODY_9|0
+the midpoint|DT NN|BODY_8|0
+nocedal [10]|JJ NN|BODY_6|0
+the measure|DT NN|BODY_4|0
+a descent direction p|DT NN NN NN|BODY_4|0
+figure 5.5|NN CD|BODY_18:BODY_4|0
+the extrapolation process|DT NN NN|BODY_3:BODY_7|0
+the endpoint|DT NN|BODY_3|0
+a continuously differentiable function oe|DT RB JJ NN NN|BODY_2|0
+the specific choices|DT JJ NNS|BODY_2|0
+2|CD|BODY_6:BODY_1|1
+the choice|DT NN|BODY_1:BODY_7|0
+else the two updating algorithms|JJ DT CD VBG NNS|BODY_7|0
+plassmann|NN|BODY_6|0
+a minimizer ff|DT NN NN|BODY_14:BODY_8|0
+a multiple|DT JJ|BODY_8|0
+a computation|DT NN|BODY_7|0
+several authors|JJ NNS|BODY_1:BODY_3|0
+the algorithm terminates|DT NN NNS|ABSTRACT_6:BODY_2|0
+a choice|DT NN|BODY_6:BODY_2|0
+the same iterates|DT JJ NNS|BODY_8|0
+an interval i|DT NN NN|BODY_6:BODY_2:BODY_3|0
+double precision|JJ NN|BODY_2|0
+l \gamma ff|NN NN IN|BODY_6|0
+the conditions|DT NNS|BODY_6:BODY_1:BODY_7|0
+2.1|CD|BODY_2|0
+00 ( ff )|CD -LRB- NN -RRB-|BODY_7|0
+pieper|NN|BODY_9|0
+the modified search terminates|DT VBN NN NNS|BODY_2:BODY_4|0
+a minor modification|DT JJ NN|BODY_3|0
+that iteration|DT NN|BODY_10|0
+linearly constrained optimization problems|JJ JJ NN NNS|BODY_1:BODY_10|0
+the search terminates|DT NN NNS|BODY_1:BODY_7|0
+the final phases|DT JJ NNS|BODY_4|0
+part|NN|BODY_2|0
+the safeguarding rule|DT JJ NN|BODY_1:BODY_4|0
+his encouragement|PRP$ NN|BODY_3|0
+2 ( 0|CD -LRB- CD|BODY_3|0
+theorem|PRP|BODY_17:BODY_1|0
+0.|CD|BODY_1|0
+this case compute ff c|DT NN NN NN NN|BODY_2:BODY_1|0
+information|NN|BODY_3|0
+arbitrarily small choices|RB JJ NNS|BODY_3:BODY_4|0
+their treatment|PRP$ NN|BODY_9|0
+oe 0 ( 0 )|JJ CD -LRB- CD -RRB-|BODY_7|0
+sin(|NN|BODY_9|0
+the modified updating algorithm sets|DT VBN VBG NN NNS|BODY_7|0
+that interval oe|DT NN NN|BODY_6|0
+two|CD|BODY_3|0
+note|NN|BODY_2:BODY_1|0
+the monster function|DT NN NN|BODY_7|0
+function|NN|BODY_6:BODY_10|0
+/ 0 ( fi k ) /|JJ CD -LRB- JJ NN -RRB- JJ|BODY_25|0
+fletcher [6|NN NNS|BODY_3|0
+5.6|CD|BODY_5:BODY_3|0
+a closed interval|DT JJ NN|BODY_3|0
+l )j|NN NNS|BODY_3|0
+a lower bound ff min|DT JJR VBN NN NN|BODY_6|0
+0 ( ff l|CD -LRB- NN NN|BODY_5|0
+this search procedure|DT NN NN|BODY_2|0
+as|IN|BODY_3|0
+the first function|DT JJ NN|BODY_1:BODY_3|0
+k 2|NN CD|BODY_9|0
+mor|NN|BODY_7|0
+0 such|CD JJ|BODY_21:BODY_1|0
+the quadratic|DT JJ|BODY_11:BODY_17|0
+a suitable choice|DT JJ NN|BODY_4|0
+oe(ff case b|NN NN NN|BODY_10|0
+)|-RRB-|ABSTRACT_11:ABSTRACT_10|0
+oe(ff t case c|NN NN NN NN|BODY_11|0
+the direction|DT NN|BODY_3:BODY_8|0
+a bisection step|DT NN NN|BODY_10|0
+oe satisfies|NN NNS|BODY_6|0
+the paper|DT NN|BODY_3|0
+the global minimum|DT JJ NN|BODY_6:BODY_1|0
+( 1.1|-LRB- CD|BODY_7|0
+a solution|DT NN|BODY_13:BODY_3|0
+respectively|RB|BODY_3|0
+minimization problems|NN NNS|ABSTRACT_3|0
+theorem 2.1 shows|JJ CD NNS|BODY_6|0
+0 ( fi theorem|CD -LRB- JJ VBG|BODY_26|0
+/( ff t case|JJ NN NN NN|BODY_3|0
+changes sign|NNS NN|BODY_2|0
+the updating process|DT VBG NN|BODY_2|0
+tables 5.4 , 5.5|NNS CD , CD|BODY_4|0
+interpolates f l|NNS NN NN|BODY_12:BODY_7|0
+all cases|DT NNS|BODY_1:BODY_7|0
+after two trials|IN CD NNS|BODY_9|0
+( 2.2 )|-LRB- CD -RRB-|BODY_6:BODY_1|0
+the iteration|DT NN|BODY_7|0
+view|NN|BODY_2|0
+software|NN|ABSTRACT_2|0
+these iterates|DT NNS|BODY_12|0
+zero|CD|BODY_5:BODY_11|0
+the aim|DT NN|BODY_1|0
+oe.|NN|BODY_6:BODY_7|0
+the emphasis|DT NN|BODY_2:BODY_1|0
+fi ( k ) hold|JJ -LRB- NN -RRB- NN|BODY_5:BODY_2|0
+function ( 5.4|NN -LRB- CD|BODY_3|0
+acceptable ff|JJ NN|BODY_6:BODY_5:BODY_4:BODY_10:BODY_8|0
+fi|NN|BODY_2|0
+the motivation|DT NN|BODY_1:BODY_3|0
+an interesting variation|DT JJ NN|BODY_2|0
+( 0 )|-LRB- CD -RRB-|BODY_2|0
+oe 0 ( ff ( k ) contradiction shows|NNP CD -LRB- NN -LRB- NN -RRB- NN NNS|BODY_3|0
+acceptable values|JJ NNS|BODY_6|0
+an optimization setting|DT NN NN|BODY_5:BODY_9|0
+u2 or u3 holds|CD CC CD NNS|BODY_4|0
+derivatives|NNS|BODY_4|0
+the term|DT NN|BODY_2|0
+different choices|JJ NNS|BODY_7|0
+an arbitrary j|DT JJ NN|BODY_2|0
+any ff 2 i k+1|DT NN CD NN NNS|BODY_2|0
+the point|DT NN|BODY_6|0
+ff 2 t (-)|NN CD NN NN|BODY_2:BODY_4|0
+the derivatives|DT NNS|BODY_6|0
+table 5.5|NN CD|BODY_1:BODY_7|0
+the trial values|DT NN NNS|BODY_3|0
+approximate length|JJ NN|BODY_10|0
+lowest / value|JJS JJ NN|BODY_4|0
+joe|NN|BODY_7|0
+17 ]|CD NN|BODY_5|0
+any ff|DT NN|BODY_2|0
+their algorithm|PRP$ NN|BODY_1:BODY_14|0
+any|DT|BODY_5|0
+ff l 6= ff u|IN JJ JJ IN NNS|BODY_7|0
+function values f l|NN NNS NN JJ|BODY_8|0
+the trial value selection|DT NN NN NN|BODY_2|0
+what|WP|BODY_2|0
+a continuously differentiable function f|DT RB JJ NN NN|BODY_3|0
+a strict lower|DT JJ JJR|BODY_5|0
+joe 0 ( ff k|JJ CD -LRB- NN NN|BODY_2|0
+l and ff|NN CC IN|BODY_5:BODY_3|0
+bill davidon|NN NN|BODY_3|0
+the first iterate|DT JJ NN|BODY_2:BODY_4|0
+oe 0 ( ff t )(|NN CD -LRB- IN NN NN|BODY_5|0
+the line search method|DT NN NN NN|BODY_8|0
+5.2 and 5.3|CD CC CD|BODY_7|0
+some ff t|DT NN NN|BODY_5|0
+ff )|NN -RRB-|BODY_10:BODY_8|0
+ff and such|NN CC JJ|BODY_24|0
+some ff 2 t (-)|DT NN CD NN NN|BODY_14|0
+a|DT|BODY_9|0
+/( ff l )|RB IN JJ -RRB-|BODY_8|0
+an infinite number|DT JJ NN|BODY_18|0
+termination|NN|BODY_6:BODY_1|0
+a local minimizer theorem|DT JJ NN NN|BODY_9|0
+( 2.1 )|-LRB- CD -RRB-|BODY_6:BODY_16|0
+the two bounds|DT CD NNS|BODY_9|0
+nested intervals|VBN NNS|BODY_6:BODY_16:BODY_4|0
+he|PRP|BODY_10|0
+a common limit ff|DT JJ NN NN|BODY_5:BODY_7|0
+the observation|DT NN|BODY_2|0
+liu|NN|BODY_5|0
+that ff max|DT NN NN|BODY_4|0
+ff c|IN NN|BODY_4|0
+an acceptable point|DT JJ NN|BODY_16:BODY_19|0
+only if|RB IN|BODY_8|0
+some ff 2 i|DT IN CD NN|BODY_6|0
+theorem 2.1|PRP$ CD|BODY_2:BODY_7:BODY_8|0
+the upper bound ff max|DT JJ VBN NN NN|BODY_8|0
+the main reason|DT JJ NN|BODY_5|0
+an iterate ff k|DT NN NN NN|BODY_4:BODY_8|1
+the first three functions|DT JJ CD NNS|BODY_1|0
+a lower bound|DT JJR VBN|BODY_6|0
+the parameter ff max|DT NN NN NN|BODY_2|0
+this suggestion|DT NN|BODY_1|0
+our claim|PRP$ NN|BODY_27|0
+because|RB|BODY_5|0
+the global minimizer ff|DT JJ NN NN|BODY_5|0
+times|NNS|BODY_19|0
+ff most work|IN JJS NN|BODY_4|0
+3 search|CD NN|BODY_8|0
+the situation|DT NN|BODY_10|0
+both ff c and ff q|DT NN NN CC NN NN|BODY_3|0
+the only difficult test problems|DT RB JJ NN NNS|BODY_3|0
+1.1 ) forces|CD -RRB- NNS|BODY_3|0
+0 changes|CD NNS|BODY_17|0
+a small number|DT JJ NN|ABSTRACT_7|0
+the modified search algorithm|DT VBN NN NN|BODY_6:BODY_1|0
+the next trial|DT JJ NN|BODY_11|0
+scheme s1|NN NNS|BODY_2|0
+concave|NN|BODY_8|0
+joe 0 ( ff )j|JJ CD -LRB- NN NN|BODY_13|0
+figures 5.4 , 5.5|NNS CD , CD|BODY_2|0
+the intervals|DT NNS|BODY_1:BODY_3|0
+oe(ff t|NN NN|BODY_12|0
+a factor|DT NN|BODY_8|0
+a difficulty|DT NN|BODY_2|0
+conditions ( 2.1 )|NNS -LRB- CD -RRB-|BODY_3:BODY_7:BODY_9|0
+the continuity|DT NN|BODY_9|0
+sufficient decrease and curvature conditions|JJ NN CC NN NNS|ABSTRACT_3|0
+2.2 )|CD -RRB-|BODY_5|0
+jorge nocedal|NN NN|BODY_2|0
+0 ( 0 )|CD -LRB- CD -RRB-|BODY_8|0
+an ff t|DT NN NN|BODY_2|0
+[ff t|NN NN|BODY_6|0
+the parameter j|DT NN NN|BODY_15|0
+the updating|DT VBG|BODY_4|0
+the updating algorithm shows|DT VBG NN NNS|BODY_5|0
+oe 0 ( ff )|NN CD -LRB- NN -RRB-|BODY_6|0
+test functions|NN NNS|ABSTRACT_5|0
+3.2|CD|BODY_2|0
+2.3 guarantees|CD NNS|BODY_10|0
+a difficult test problem|DT JJ NN NN|BODY_2|0
+/ 0 ( ff ( k ) l l|JJ CD -LRB- NN -LRB- NN -RRB- NN NN|BODY_10|0
+related work|VBN NN|BODY_2|0
+that ff min satisfies|DT NN NN NNS|BODY_3|0
+the rules|DT NNS|BODY_4|0
+the user|DT NN|BODY_7|0
+5.5|CD|BODY_3|0
+an ff k 2 t (-)|DT NN NN CD NN NN|BODY_10|0
+( 1.5 ) and oe min|-LRB- CD -RRB- CC NN NN|BODY_4|0
+implementation details|NN NNS|BODY_4|0
+shanno and phua [16|NN CC NN NNS|BODY_4|0
+ff l )|NN NN -RRB-|BODY_3|0
+figures 5.1 and 5.2|NNS CD CC CD|BODY_3|0
+first claim|JJ NN|BODY_1|0
+plots|NNS|BODY_1|0
+a local minimizer|DT JJ NN|BODY_6|0
+the oscillations|DT NNS|BODY_6|0
+the information|DT NN|BODY_5|0
+force convergence|NN NN|BODY_5|0
+fi 1 and fi 2|JJ CD CC JJ CD|BODY_4|0
+gill and murray [8|NN CC NN NNS|BODY_2|0
+the dashed plot|DT VBN NN|BODY_4|0
+10 function evaluations|CD NN NNS|BODY_8|0
+the last three functions|DT JJ CD NNS|BODY_5:BODY_4|0
+a descent direction|DT NN NN|BODY_9|0
+additional assumptions|JJ NNS|BODY_4|0
+37|CD|BODY_3|0
+the modified updating algorithm preserves|DT VBN VBG NN NNS|BODY_7|0
+the process|DT NN|BODY_4|0
+different features|JJ NNS|BODY_31|0
+the endpoint ff ( j ) l satisfies|DT JJ NN -LRB- NN -RRB- JJ NNS|BODY_5|0
+an obvious manner|DT JJ NN|BODY_5|0
+s|PRP|BODY_15|0
+a search procedure|DT NN NN|BODY_3|0
+the second inequality|DT JJ NN|BODY_7|0
+' k 2 i k|'' NN CD NN NN|BODY_4|0
+the termination test|DT NN NN|BODY_16|0
+the trial value|DT NN NN|BODY_6|0
+a nonempty interval|DT JJ NN|BODY_3|0
+thus t (-)|RB NN NN|BODY_2|0
+f derivatives t|NN NNS NN|BODY_3|0
+the left endpoint fi|DT JJ NN NN|BODY_4|0
+f l and f t|NN NN CC NN NN|BODY_5|0
+a safeguarded choice|DT JJ NN|BODY_3|0
+these two results|DT CD NNS|BODY_11|0
+that ff u \gamma ff l|DT NN NN NN NN NN|BODY_8|0
+tables|NNS|BODY_2|0
+ff satisfies|NN NNS|BODY_5|0
+particular , / 0 ( ff|JJ , JJ CD -LRB- NN|BODY_4|0
+the left|DT NN|BODY_9|0
+jff \gamma|NN NN|BODY_14|0
+with|IN|BODY_6|0
+a crucial ingredient|DT JJ NN|BODY_6|0
+l and g t|NN CC VBG NN|BODY_7|0
+such that|JJ DT|BODY_5|0
+converge|NN|BODY_13|0
+min and ff max|NN CC NN NN|BODY_5:BODY_3|0
+indiana 46805|NN CD|BODY_6|0
+permanent address|JJ NN|BODY_1|0
+a safeguarded ff k 2 i test|DT JJ NN NN CD PRP NN|BODY_2|0
+an optimization environment|DT NN NN|BODY_5|0
+iterations|NNS|BODY_31:ABSTRACT_8|0
+2.2 shows|CD NNS|BODY_6|0
+a wide range|DT JJ NN|BODY_5|0
+the bound ff max|DT JJ NN NN|BODY_6|0
+g l )|JJ NN -RRB-|BODY_14|0
+theorem 3.2|VBG CD|BODY_14|0
+oe 0 ( ' k|NNP CD -LRB- `` NN|BODY_4|0
+any iteration j|DT NN NN|BODY_4|0
+a convergence analysis|DT NN NN|BODY_3|0
+the last case|DT JJ NN|BODY_4|0
+ff t forces|NN NN NNS|BODY_8|0
+2.6 ) and ( 2.7 )|CD -RRB- CC -LRB- CD -RRB-|BODY_6:BODY_4|0
+ff l and ff|NN NN CC NN|BODY_6|0
+many|JJ|BODY_4|0
+kaneko [18]|NN NN|BODY_6|0
+the iterates|DT NNS|BODY_11|0
+the function computation|DT NN NN|BODY_5|0
+2.3|CD|BODY_15|0
+reasonable conditions|JJ NNS|BODY_4|0
+the search algorithm and show|DT NN NN CC NN|BODY_3|0
+l condition|NN NN|BODY_3|0
+( 1.5 )|-LRB- CD -RRB-|BODY_3|0
+oe 0 and constants|NN CD CC NNS|BODY_5|0
+conjugate gradient methods|NN JJ NNS|BODY_10|0
+contract|NN|BODY_8|0
+fi ( k ) course|JJ -LRB- NN -RRB- NN|BODY_2|0
+search algorithm|NN NN|BODY_2:BODY_1|0
+allowances|NNS|BODY_8|0
+lies|NNS|BODY_7|0
+oe 0 ( ff ( k ) l l|NNP CD -LRB- NN -LRB- NN -RRB- NN NN|BODY_2|0
+/( ff case u2|DT IN NN NN|BODY_9|0
+either ff m|DT NN NN|BODY_4|0
+the derivative|DT NN|BODY_15|0
+parameters|NNS|BODY_3|0
+the most interesting case|DT RBS JJ NN|BODY_8|0
+the intervals converges|DT NNS NNS|BODY_4|0
+attacked ( 1.1 )|VBN -LRB- CD -RRB-|BODY_3|0
+a sufficient decrease|DT JJ NN|BODY_4|0
+a large region|DT JJ NN|BODY_5|0
+/ 0 ( ff|JJ CD -LRB- NN|BODY_15|0
+a ' k 2 i k|DT `` NN CD NN NN|BODY_3|0
+quite different characteristics|RB JJ NNS|BODY_11|0
+the other two assumptions|DT JJ CD NNS|BODY_12|0
+setting|VBG|BODY_3|0
+guarantee|NN|BODY_7|0
+line searches|NN NNS|BODY_5|0
+5.1 )|CD -RRB-|BODY_7|0
+then the final iterate ff m|RB DT JJ NN NN NN|BODY_3|0
+a given point x 2 ir n|DT VBN NN NN CD NN NN|BODY_6|0
+now the set|RB DT NN|BODY_4|0
+gilbert and nocedal [7]|NN CC JJ NN|BODY_9|0
+thus|RB|BODY_3|0
+this claim|DT VBP|BODY_11|0
+the assumptions ( 2.1 )|DT NNS -LRB- CD -RRB-|BODY_1|0
+the starting point|DT NN NN|BODY_4|0
+more details|JJR NNS|BODY_1|0
+oe 0 shows|NN CD NNS|BODY_10|0
+a reasonable compromise|DT JJ NN|BODY_10|0
+5.2 )|CD -RRB-|BODY_11|0
+leave|NN|BODY_2|0
+length 10 \gamma3|NN CD NN|BODY_6|0
+, and then|, CC RB|BODY_8|0
+the qualitative behavior|DT JJ NN|BODY_3|0
+section 2|NN CD|BODY_3|0
+-0.4 -0.3 -0.2 figure 3.1|DT JJ JJ NN CD|BODY_7|0
+solid plot|JJ NN|BODY_8|0
+this last case|DT JJ NN|BODY_3|0
+this last assumption guarantees|DT JJ NN NNS|BODY_2|0
+the above choice|DT JJ NN|BODY_4|0
+/( ff ( k )|JJ NN -LRB- NN -RRB-|BODY_19|0
+oe 0 ( ff theorem 2.3|NN CD -LRB- NN NN CD|BODY_3|0
+many sources|JJ NNS|BODY_3|0
+theorem 2.2|NN CD|BODY_9|0
+search methods|NN NNS|ABSTRACT_2|0
+a reasonable termination criterion|DT JJ NN NN|BODY_5|0
+a similar argument|DT JJ NN|BODY_4|0
+these results|DT NNS|BODY_1:BODY_3|0
+the points|DT NNS|BODY_5|0
+all three cases|DT CD NNS|BODY_12|0
+the small number|DT JJ NN|BODY_2|0
+the parameter fi|DT NN JJ|BODY_6|0
+this parameter|DT NN|BODY_9|0
+monitoring|NN|BODY_3|0
+the function values|DT NN NNS|BODY_4|0
+a typical situation|DT JJ NN|BODY_2|0
+this value|DT NN|BODY_3|0
+/( ff m|DT NN NN|BODY_12|0
+oscillations|NNS|BODY_3|0
+a third rule|DT JJ NN|BODY_6|0
+al-baali and fletcher [2]|JJ CC JJ NN|BODY_5|0
+l )|NN -RRB-|BODY_5|0
+the test /(|DT NN NN|BODY_4|0
+occur|VBP|BODY_5|0
+m|NN|BODY_4|0
+the other two cases|DT JJ CD NNS|BODY_3|0
+a monotone sequence|DT NN NN|BODY_22|0
+particular , ff ( k|JJ , NN -LRB- NN|BODY_7|0
+the manuscript|DT NN|BODY_11|0
+t case|NN NN|BODY_11|0
+the remote starting points|DT JJ VBG NNS|BODY_3|0
+the requirements|DT NNS|BODY_1|0
+a given starting point|DT VBN NN NN|BODY_5|0
+infinity|NN|BODY_2|0
+a set t(&mgr|DT NN NN|ABSTRACT_10|0
+t(&mgr|NN|ABSTRACT_9|0
+the minimum|DT NN|BODY_5|0
+2.6 )|CD -RRB-|BODY_2|0
+approximately \gamma5 10 \gamma7 )|RB CD CD NNS -RRB-|BODY_8|0
+( 1.6 )|-LRB- CD -RRB-|BODY_12|0
+some ff|DT NN|BODY_9|0
+provided|VBN|BODY_7|0
+table 5.4|NN CD|BODY_3|0
+both candidates|DT NNS|BODY_6:BODY_4|0
+some factor|DT NN|BODY_2|0
+the reason|DT NN|BODY_1|0
+k 2 i k|NN CD NN NN|BODY_9|0
+ff this|PDT DT|BODY_2|0
+the trial value ff|DT NN NN NN|BODY_6:BODY_1|0
+the nature|DT NN|BODY_6|0
+ff 0|NN CD|BODY_5|1
+the curvature condition|DT JJ NN|BODY_16:BODY_1:BODY_9|0
+( 2.5 )|-LRB- CD -RRB-|BODY_3|0
+their lengths|PRP$ NNS|BODY_3|0
+at least six functions|IN JJS CD NNS|BODY_7|0
+interpolates f u|NNS NN NN|BODY_5|0
+an implementation|DT NN|ABSTRACT_2|0
+0,|NNP|BODY_1|0
+hold|NN|BODY_4|0
+the definition|DT NN|BODY_10|0
+a this|DT DT|BODY_3|0
+the ingredients|DT NNS|BODY_3|0
+no change|DT NN|BODY_2|0
+these parameter settings|DT NN NNS|BODY_9|0
+this interval|DT NN|BODY_6|0
+any j|DT NN|BODY_11:BODY_3|0
+5 numerical results|CD JJ NNS|BODY_9|0
+48 function evaluations|CD NN NNS|BODY_4|0
+sorensen [11]|JJ NN|BODY_8|0
+that eventually ff max|IN RB IN NN|BODY_7|0
+an index k|DT NN NN|BODY_20|0
+/ 0 changes|NN CD NNS|BODY_14|0
+l changes sign|JJ NNS NN|BODY_6|0
+g t ) , ff q|JJ NN -RRB- , IN NN|BODY_9|0
+g t ) and ff s|VBG NN -RRB- CC NN VBZ|BODY_9|0
+our updating algorithm|PRP$ VBG NN|BODY_12|0
+an induction argument|DT NN NN|BODY_5|0
+straddles|NNS|BODY_5|0
+table 5.3|NN CD|BODY_4|0
+this information|DT NN|BODY_2|0
+figure 5.2 guarantees|NN CD NNS|BODY_3|0
+the new trial value|DT JJ NN NN|BODY_2|0
+the parameters|DT NNS|BODY_3|0
+(-)|NN|BODY_12:BODY_23|0
+a quadratic|DT JJ|BODY_3|0
+the updated l and ff course|DT VBN JJ CC IN NN|BODY_17|0
+function ( 5.3 )|NN -LRB- CD -RRB-|BODY_14|0
+only case u1 or u3|RB NN CD CC CD|BODY_2|0
+i sufficiently|DT RB|BODY_15|0
+0 ( ff ( k ) l|CD -LRB- NN -LRB- NN -RRB- NN|BODY_2|0
+if / 0 ( ff|IN JJ CD -LRB- NN|BODY_9|0
+the above iterates|DT JJ NNS|BODY_4|0
+all the iterates|DT DT NNS|BODY_2|0
+that oe 0 ( ff l satisfies|IN NNP CD -LRB- NN JJ NNS|BODY_6|0
+3.1 shows|CD NNS|BODY_4|0
+terminates|NNS|ABSTRACT_13|0
+a solution ff|DT NN NN|BODY_7|0
+a univariate minimization algorithm|DT JJ NN NN|BODY_5|0
+each interval|DT NN|BODY_17|0
+oe(ff m )|JJ NN -RRB-|BODY_6|0
+3.1 satisfies|CD VBZ|BODY_12:BODY_15:BODY_3|0
+the six function evaluations|DT CD NN NNS|BODY_4|0
+the quadratic step|DT JJ NN|BODY_2|0
+a good way|DT JJ NN|BODY_11|0
+/ 0 ( ff ( k ) l l assumptions|RB CD -LRB- NN -LRB- NN -RRB- JJ JJ NNS|BODY_2|0
+as long as case|RB JJ RB NN|BODY_9|0
+/ 0 ( ff l|JJ CD -LRB- NN NN|BODY_3|0
+a curvature condition|DT JJ NN|BODY_3|0
+a quasi-newton method|DT NN NN|BODY_3|0
+direction|NN|BODY_10|0
+michael powell|NN NN|BODY_5|0
+our results|PRP$ NNS|BODY_8|0
+4 trial value selection|CD NN NN NN|BODY_7|0
+a subset|DT NN|BODY_5|0
+assumptions|NNS|BODY_6|0
+the next step|DT JJ NN|BODY_7|0
+an that|DT IN|BODY_6|0
+no solution|DT NN|BODY_7|0
+these three tables|DT CD NNS|BODY_3|0
+dotted plot|VBN NN|BODY_10|0
+that / 0 ( ff ( k ) l ff|DT JJ CD -LRB- NN -LRB- NN -RRB- NN NN|BODY_2|0
+this test|DT NN|BODY_6|0
+the preceding section|DT VBG NN|BODY_15|0
+that t (-) |IN JJ JJ|BODY_10|0
+the information table 5.4|DT NN NN CD|BODY_3|0
+closely related results|RB VBN NNS|BODY_1|0
+mor 'e and sorensen [11]|JJR JJ CC JJ NN|BODY_3:BODY_4|0
+present two updating schemes|JJ CD VBG NNS|BODY_2|0
+1:4|NNS|BODY_8|0
+the third inequality|DT JJ NN|BODY_10|0
+all further iterations|DT JJ NNS|BODY_11|0
+the trial point|DT NN NN|BODY_5|0
+fi ( k ) l|JJ -LRB- NN -RRB- NN|BODY_11|0
+that guarantee|DT NN|BODY_5|0
+six function evaluations|CD NN NNS|BODY_3|0
+this situation|DT NN|BODY_14|0
+( k ) l|-LRB- NN -RRB- NN|BODY_23|0
+no need|DT NN|BODY_20|0
+the average curvature|DT JJ JJ|BODY_5|0
+k ae|NN NNS|BODY_11:BODY_2:BODY_8|0
+these lines|DT NNS|BODY_12|0
+addition|NN|BODY_2|0
+t (-) |JJ JJ|BODY_7|0
+a reasonable setting|DT JJ NN|BODY_2|0
+additional requirements|JJ NNS|BODY_3|0
+this section|DT NN|BODY_1:BODY_4|1
+i satisfy|FW VB|BODY_6|0
+the step closest|DT NN JJS|BODY_6|0
+a nonempty intersection|DT JJ NN|BODY_7|0
+2.2|CD|BODY_3|0
+0 ( ff 0|CD -LRB- NN CD|BODY_2|0
+the global minimizer|DT JJ NN|BODY_2|0
+an ff 2 t (-)|DT NN CD NN NN|BODY_8:BODY_9|0
+ff t and ff l|IN NN CC IN NN|BODY_9|0
+ff t and ff u|NN NN CC NN NN|BODY_3|0
+/( ff min|JJ NN NN|BODY_3|0
+the proper sign|DT JJ NN|BODY_17|0
+section 2 show|NN CD NN|BODY_2|0
+a procedure|DT NN|BODY_2|0
+particular , / 0|JJ , JJ CD|BODY_6|0
+bounds|NNS|BODY_5|0
+any interval|DT NN|BODY_3|0
+the nearest active constraint|DT JJS JJ NN|BODY_5|0
+extrapolation|NN|BODY_4|0
+no guarantee|DT NN|BODY_6|0
+this algorithm|DT NN|BODY_4|0
+course|NN|BODY_1|0
+these two conditions|DT CD NNS|ABSTRACT_7|0
+introduction|NN|BODY_1|0
+( k|-LRB- NN|BODY_4|0
+( 2.4 ) holds|-LRB- CD -RRB- VBZ|BODY_5|0
+ff ( k ) l and ff ( k ) u|NN -LRB- NN -RRB- NN CC NN -LRB- NN -RRB- NN|BODY_4|0
+the lowest function value|DT JJS NN NN|BODY_7|0
+theorem 3.1 guarantees|JJ CD NNS|BODY_1|0
+the right direction|DT JJ NN|BODY_3|0
+a finite sequence|DT JJ NN|BODY_11|0
+5.4 and 5.5|CD CC CD|BODY_4|0
+a region|DT NN|BODY_18|0
+-joe 0 ( 0 )j|JJ CD -LRB- CD IN|BODY_3|0
+! j|. NN|BODY_6|0
+f derivatives|NN NNS|BODY_9|0
+ff l and ff u|IN JJ CC IN NNS|BODY_8|0
+four cases|CD NNS|BODY_3|0
+other values|JJ NNS|BODY_3|0
+jg l j|JJ NN NN|BODY_6|0
+l j|NN NN|BODY_6|0
+an ipx sparcstation|DT NN NN|BODY_3|0
+ff increases|NN NNS|BODY_7|0
+the following procedure|DT VBG NN|BODY_10|0
+the termination conditions|DT NN NNS|BODY_13|0
+this description|DT NN|BODY_1|0
+0. condition|CD NN|BODY_1|0
+case u2|NN NN|BODY_8|0
+8 and 4|CD CC CD|BODY_4|0
+/( ff changes sign|DT NN NNS NN|BODY_1|0
+10 \gamma9|CD CD|BODY_11|0
+gill , murray , saunders , and wright|NN , NN , NNS , CC NN|BODY_1|0
+0 )j|CD NNS|BODY_4|0
+an unbounded problem|DT JJ NN|BODY_1|0
+a previous iterate|DT JJ NN|BODY_6|0
+the associated convergence theory|DT VBN NN NN|BODY_3|0
+0 such that|CD JJ WDT|BODY_1|0
+this choice|DT NN|BODY_1|0
+any ff 2 i|DT NN CD NN|BODY_1|0
+a unique minimizer|DT JJ NN|BODY_3|0
+similar results|JJ NNS|BODY_1|0
+fletcher [6]|NN NN|BODY_3|0
+final motivation|JJ NN|BODY_1|0
+this condition|DT NN|BODY_1|0
+both ff c and ff s|DT NN NN CC NN VBZ|BODY_1|0
+the other case|DT JJ NN|BODY_4|0
+this result|DT NN|BODY_2|0
+minimization|NN|BODY_8|0
+fast termination|JJ NN|BODY_3|0
+0:004|CD|BODY_4|0
+the region|DT NN|BODY_1|0
+107 function evaluations|CD NN NNS|BODY_5|0
+4|CD|BODY_7|0
+t g l|NN VBG NN|BODY_1:BODY_4|0
+ff q ( f t|JJ NN -LRB- NN NN|BODY_1|0
+general functions|JJ NNS|BODY_16|0
+the right endpoint|DT JJ NN|BODY_7|0
+paul plassmann|NN NN|BODY_3|0
+the other three functions|DT JJ CD NNS|BODY_1|0
+the third function|DT JJ NN|BODY_1|0
+different starting points|JJ VBG NNS|BODY_5|0
+the other two starting points|DT JJ CD VBG NNS|BODY_5|0
+more interesting results|RBR JJ NNS|BODY_7|0
+the comparison|DT NN|BODY_1|0
+an acceptable step|DT JJ NN|BODY_3|0
+l and g t )|NN CC JJ NN -RRB-|BODY_13:BODY_19|0
+the search procedure|DT NN NN|BODY_5|0
+the function and derivative values|DT NN CC JJ NNS|BODY_1|0
+with 7.|IN CD|BODY_4|0
+positive values|JJ NNS|BODY_6|0
+3.2 )|CD -RRB-|BODY_6|0
+theorem 3.3|NN CD|BODY_1|0
+the solid plot|DT JJ NN|BODY_1|0
+the general trend|DT JJ NN|BODY_1|0
+the parameter l|DT NN NN|BODY_1|0
+these settings|DT NNS|BODY_1|0
+this increase|DT NN|BODY_1|0
+con- sider|NNS NN|BODY_1|0
+0:074|CD|BODY_12|0
+increasing|VBG|BODY_9|0
+otherwise case|RB NN|BODY_1|0
+case 1|NN CD|BODY_1|0
+case 2|NN CD|BODY_1|0
+case 3|NN CD|BODY_1|0
+the following result|DT VBG NN|BODY_5|0
+- j|: NN|BODY_8|0
+-.|NN|BODY_16|0
+just ( 1.6 )|RB -LRB- CD -RRB-|BODY_22|0
+an interesting feature|DT JJ NN|BODY_1|0
+similar remarks|JJ NNS|BODY_1|0
+the following conditions|DT VBG NNS|BODY_12|0
+ff m ]|NN NN NN|BODY_11:BODY_16|0
+any trial value|DT NN NN|BODY_1|0
+case 4|NN CD|BODY_1|0
+some ffi|DT NN|BODY_4|0
+the available information|DT JJ NN|BODY_13|0
+particular , ff 2 ( t (-)  i )|JJ , NN CD -LRB- NN JJ JJ NN -RRB-|BODY_6|0
+/( ff k )|NN NN NN -RRB-|BODY_1|0
+an unlikely event|DT JJ NN|BODY_6|0
+ff k 2 t (-)|NN NN CD NN NN|BODY_3|0
+some factor ffi min|DT NN NN NN|BODY_3|0
+the simplest way|DT JJS NN|BODY_1|0
+a consequence|DT NN|BODY_1|0
+all j|DT NN|BODY_8|0
+algorithm|NN|BODY_5:BODY_1|0
+fi ( k ) case u2|JJ -LRB- NN -RRB- NN NN|BODY_1|0
+/( ff )|JJ NN -RRB-|BODY_12|0
+both ff q and ff c|DT NN NN CC NN NN|BODY_1|0
+a similar vein|DT JJ NN|BODY_1|0
+all these tables|DT DT NNS|BODY_1|0
+cases|NNS|BODY_1|0
+many problems|JJ NNS|BODY_1|0
+once such an iterate|RB JJ DT NN|BODY_1|0
+section 3|NN CD|BODY_1|1
+situation|NN|BODY_1|0
+the arguments|DT NNS|BODY_3|0
+the first two cases|DT JJ CD NNS|BODY_1|0
+the main problem|DT JJ NN|BODY_1|0
+the modification|DT NN|BODY_1|0
+the moment|DT NN|BODY_1|0
+the next case|DT JJ NN|BODY_1|0
+the tables|DT NNS|BODY_1|1
+this proof|DT NN|BODY_1|0
+this table|DT NN|BODY_1|0
+another advantage|DT NN|BODY_1|0
+another interesting feature|DT JJ NN|BODY_1|0
+a short computation|DT JJ NN|BODY_1|0
+oe(ff proof|JJ NN|BODY_5|0
+the desired properties|DT VBN NNS|BODY_13|0
+6= ff ( k ) l|JJ NN -LRB- NN -RRB- NN|BODY_4|0
+6= ff k|JJ NN NN|BODY_5|0
+a positive definite quasi-newton update|DT JJ JJ NN NN|BODY_5|0
+fletcher [5|NN CD|BODY_1|0
+most practical situations|RBS JJ NNS|BODY_1|0
+only case u2|RB NN CD|BODY_1|0
+the minimizer ff c|DT NN NN NN|BODY_1|0
+the wrong direction|DT JJ NN|BODY_3|0
+given ff 0|VBN NN CD|BODY_1|0
+oe 0 ( ff k )|NN CD -LRB- NN NN -RRB-|BODY_1:BODY_7|1
+2.1 guarantees|CD NNS|BODY_1|0
+a k 0|DT NN CD|BODY_12|0
+theorem 3.2 shows|NN CD NNS|BODY_1|0
+satisfy conditions ( 2.1 )|VB NNS -LRB- CD -RRB-|BODY_10|0
+all starting points|DT VBG NNS|BODY_5|0
+set ff|NN NN|BODY_4|0
+ff ( k ) l|NN -LRB- NN -RRB- NN|BODY_1|0
+scheme|NN|BODY_1|0
+fff k|NN NN|BODY_1|0
+section|NN|BODY_3|0
+0:001|CD|BODY_1|0
+acceptable points|JJ NNS|BODY_19|0
+2 t (-)|CD NN NN|BODY_1|0
+proof|NN|BODY_1|0
+the restriction|DT NN|BODY_1|0

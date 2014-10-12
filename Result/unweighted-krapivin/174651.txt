@@ -1,0 +1,1475 @@
+we|PRP|BODY_11:BODY_16:BODY_17:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8|8
+that|WDT|BODY_12:BODY_11:BODY_16:BODY_15:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_12:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|1
+tptl|JJ|BODY_11:BODY_16:BODY_18:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8|0
+oe|NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_17:BODY_18:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+time|NN|BODY_11:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_7:BODY_8:BODY_20:BODY_9|0
+x|NN|BODY_11:BODY_17:BODY_15:BODY_13:BODY_2:BODY_25:BODY_3:BODY_14:BODY_33:BODY_6:BODY_1:BODY_7:BODY_8:BODY_9|0
+m|NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_13:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8|0
+the formula|DT NN|BODY_12:BODY_6:BODY_5:BODY_17:BODY_1:BODY_2:BODY_14:BODY_3:BODY_19:BODY_4:BODY_7|0
+z|FW|BODY_12:BODY_6:BODY_18:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+ptl|JJ|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+us|PRP|BODY_12:BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|1
+t|NN|BODY_6:BODY_11:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+\phi|NN|BODY_17:BODY_13:BODY_24:BODY_38:BODY_3:BODY_4:BODY_6:BODY_31:BODY_5:BODY_27:BODY_1:BODY_19:BODY_10:BODY_8|0
+one|CD|BODY_6:BODY_12:BODY_15:BODY_27:BODY_13:BODY_4:BODY_9|0
+there|EX|BODY_6:BODY_12:BODY_5:BODY_15:BODY_1:BODY_3:BODY_10:BODY_4:BODY_19:BODY_8|0
+formulas|NNS|BODY_6:BODY_27:BODY_2:BODY_3:BODY_19:BODY_10:BODY_7|0
+0|CD|BODY_12:BODY_6:BODY_5:BODY_16:BODY_15:BODY_2:BODY_1:BODY_10|0
+the time|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_14:BODY_3:BODY_4:BODY_10:ABSTRACT_7:BODY_7:BODY_9|1
+ae|NNS|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the initial state|DT JJ NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_4:BODY_7:BODY_8|0
+y|RB|BODY_5:BODY_15:BODY_3:BODY_19:BODY_9|0
+a oe-path|DT NN|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+the tptl-formula oe|DT NN NN|BODY_12:BODY_6:BODY_2:BODY_3|1
+/|NN|BODY_6:BODY_5:BODY_34:BODY_18:BODY_15:BODY_3:BODY_4:BODY_8|0
+the size|DT NN|BODY_6:BODY_1:BODY_4:BODY_7|0
+a timed state sequence|DT VBD NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10|0
+the product|DT NN|BODY_12:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4|0
+a model|DT NN|BODY_12:BODY_6:BODY_2:BODY_3:BODY_7|0
+timed state sequences|VBD NN NNS|BODY_5:BODY_2:BODY_24:BODY_4:BODY_7|0
+2-counter machines|JJ NNS|BODY_5:BODY_2|0
+states|NNS|BODY_5:BODY_17:BODY_14:BODY_3:BODY_10:BODY_19:BODY_7:BODY_9|0
+a formula|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_10|0
+oe )|NN -RRB-|BODY_12:BODY_5:BODY_16:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the satisfiability problem|DT NN NN|BODY_6:BODY_5:BODY_16:BODY_1:BODY_3:BODY_4|0
+follows|VBZ|BODY_6:BODY_12:BODY_5:BODY_15:BODY_2|0
+s|VBZ|BODY_11:BODY_5:BODY_2:BODY_4:BODY_9|0
+i|NN|BODY_5:BODY_11:BODY_22:BODY_2:BODY_3:BODY_14|0
+( oe|-LRB- NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+operators|NNS|BODY_5:BODY_11:BODY_1:BODY_3:BODY_4:BODY_8|0
+proof|NN|BODY_6:BODY_13:BODY_1|0
+temporal operators|JJ NNS|BODY_6:BODY_2:BODY_10:BODY_9|0
+this|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+p|NN|BODY_11:BODY_3:BODY_4:BODY_7:BODY_9|0
+addition|NN|BODY_11:BODY_16:BODY_2:BODY_1:BODY_3:BODY_8|0
+oe 0|NN CD|BODY_12:BODY_5:BODY_4:BODY_8:BODY_9|0
+a state|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_9|0
+the length|DT NN|BODY_2:BODY_1:BODY_3:BODY_8:BODY_9|0
+they|PRP|BODY_6:BODY_2:BODY_3|0
+a tptl-formula oe|DT NN NN|BODY_2:BODY_3:BODY_10|0
+the times|DT NNS|BODY_5:BODY_11:BODY_2:BODY_3|1
+i .e|FW FW|BODY_12:BODY_6:BODY_16:BODY_9|1
+the case|DT NN|BODY_12:BODY_6:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|0
+a formula oe|DT NN NN|BODY_2:BODY_3|0
+length|NN|BODY_6:BODY_5:BODY_2|0
+the tableau method|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|1
+each|DT|BODY_5:BODY_4:BODY_7:BODY_8|0
+the initial tableau|DT JJ NN|BODY_6:BODY_5:BODY_18:BODY_13:BODY_4:BODY_7:BODY_8|0
+an infinite path|DT JJ NN|BODY_6:BODY_2:BODY_1:BODY_7|0
+the validity problem|DT NN NN|BODY_2:BODY_3:BODY_4|0
+timing constraints|NN NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_4|0
+the syntax|DT NN|BODY_2:BODY_4:BODY_7:BODY_8|1
+an edge|DT NN|BODY_6:BODY_18:BODY_21:BODY_25:BODY_10:BODY_9|0
+the number|DT NN|BODY_6:BODY_1:BODY_10:BODY_7:BODY_9|0
+\phi i|NNP FW|BODY_11:BODY_5:BODY_18:BODY_2:BODY_4:BODY_7|0
+1|CD|BODY_3:BODY_4:BODY_8|0
+the time difference|DT NN NN|BODY_6:BODY_5|0
+an infinite sequence|DT JJ NN|BODY_12:BODY_2:BODY_3:BODY_10:BODY_9|0
+.e|NN|BODY_6:BODY_22:BODY_4|0
+2|CD|BODY_6:BODY_5:BODY_3:BODY_10|0
+oe-paths|NNS|BODY_2:BODY_4|0
+the formula x|DT NN NN|BODY_6:BODY_2:BODY_4|0
+a time|DT NN|BODY_6:BODY_11:BODY_16:BODY_7|0
+the problem|DT NN|BODY_5:BODY_1:BODY_2:BODY_3|0
+tptl.|VBG|BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+oe.|NN|BODY_6:BODY_11:BODY_16:BODY_15:BODY_13:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+a tptl-formula|DT NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+the natural numbers|DT JJ NNS|BODY_3:BODY_4|0
+( 1 )|-LRB- CD -RRB-|BODY_6:BODY_5:BODY_2:BODY_10|0
+particular|JJ|BODY_5:BODY_1|1
+the form|DT NN|BODY_6:BODY_3:BODY_10|0
+a timed state graph|DT VBD NN NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+c|NN|BODY_13:BODY_14:BODY_3|0
+the satisfiability|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|1
+synchronous real-time systems|JJ JJ NNS|BODY_2:BODY_3|0
+real-time systems|JJ NNS|ABSTRACT_4:BODY_3:BODY_4|0
+'|POS|BODY_5:BODY_17:BODY_3:BODY_10|0
+the tptl-formula|DT NN|BODY_18:BODY_3|0
+the value|DT NN|BODY_11:BODY_4:BODY_10|0
+the timed state graph t|DT VBD NN NN NN|BODY_11:BODY_5:BODY_1:BODY_2|0
+t ( oe )|NN -LRB- NN -RRB-|BODY_24:BODY_8|0
+a one-to-one correspondence|DT JJ NN|BODY_13:BODY_4|0
+a sequence|DT NN|BODY_5:BODY_3:BODY_4|0
+(|-LRB-|BODY_6:BODY_27:BODY_2|0
+this paper|DT NN|BODY_16:BODY_2|0
+whose vertices|WP$ NNS|BODY_5:BODY_7|0
+k|NN|BODY_5:BODY_3:BODY_7:BODY_9|0
+the development|DT NN|BODY_6:BODY_2|0
+the specification|DT NN|BODY_1:BODY_2:ABSTRACT_3:BODY_4|0
+a tableau|DT NN|BODY_2:BODY_7|0
+first-order temporal logic|JJ JJ NN|BODY_26:BODY_2:BODY_8|1
+a time-difference proposition|DT NN NN|BODY_16:BODY_3:BODY_10|0
+a computation|DT NN|BODY_1:BODY_4|0
+\phi 1|NNP CD|BODY_26:BODY_3|0
+the set|DT NN|BODY_6:BODY_4:BODY_9|0
+configurations|NNS|BODY_5:BODY_16:BODY_2|0
+/ ffi|NN NN|BODY_28:BODY_18:BODY_3:BODY_14:BODY_7|0
+the proof|DT NN|BODY_3:BODY_4:BODY_8|0
+all formulas|DT NNS|BODY_5:BODY_2:BODY_3|0
+part|NN|BODY_3:BODY_9|0
+model checking|NN NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+:oe )|NN -RRB-|BODY_2:BODY_4|0
+( 1|-LRB- CD|BODY_5:BODY_1|0
+example|NN|BODY_1:BODY_4|0
+instance|NN|BODY_1|0
+the final tableau|DT JJ NN|BODY_2|0
+a state sequence oe|DT NN NN NN|BODY_5:BODY_7:BODY_9|0
+the variable x|DT JJ SYM|BODY_3:BODY_14:BODY_4:BODY_10|0
+variables|NNS|BODY_5:BODY_2|0
+the other hand|DT JJ NN|BODY_1:BODY_3:BODY_9|0
+the structure|DT NN|BODY_5:BODY_17:BODY_3:BODY_7:BODY_8|0
+the progress condition|DT NN NN|BODY_6:BODY_2:BODY_3|0
+closure ( oe)|NN -LRB- NN|BODY_14:BODY_7|0
+a nondeterministic 2-counter machine m|DT JJ JJ NN NN|BODY_5:BODY_3|0
+all|DT|BODY_6:BODY_1:BODY_4|0
+the machine m|DT NN NN|BODY_2|0
+the next value|DT JJ NN|BODY_2|0
+the closure|DT NN|BODY_1:BODY_2:BODY_8|0
+lemma 3|NN CD|BODY_6:BODY_1:BODY_2:BODY_7|0
+such|JJ|BODY_5:BODY_16:BODY_8|0
+all i|DT FW|BODY_7:BODY_8:BODY_9|0
+a \delta-bounded model|DT JJ NN|BODY_5:BODY_2:BODY_14:BODY_3|0
+finite-state real-time systems|NN NN NNS|BODY_3:BODY_4|0
+closure ( oe )|NN -LRB- NN -RRB-|BODY_5:BODY_2:BODY_3|0
+the propositions|DT NNS|BODY_12:BODY_11:BODY_3|0
+the time increase ffi|DT NN NN NN|BODY_1:BODY_10|0
+1 )|CD -RRB-|BODY_6:BODY_16:BODY_19|0
+the time increase|DT NN NN|BODY_5|0
+both|DT|BODY_6:ABSTRACT_2:BODY_4|1
+)|-RRB-|BODY_11:BODY_3:BODY_7|0
+a q-state|DT NN|BODY_4:BODY_10:BODY_20|0
+a timed state graph t|DT VBD NN NN NN|BODY_5:BODY_3:BODY_4|0
+multiplication|NN|BODY_2:BODY_3:BODY_4:BODY_9|0
+propositions|NNS|BODY_18:BODY_13:BODY_10|0
+/[ x|NN NN|BODY_5:BODY_36|0
+satisfiability|NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+\sigma 1 proof|NN CD NN|BODY_6:BODY_7|0
+models|NNS|BODY_5:BODY_13:BODY_2|0
+computations|NNS|BODY_4:BODY_7:BODY_9|0
+\phi j|NNP NNS|BODY_5:BODY_2|0
+quantification|NN|BODY_4:BODY_7:BODY_20|2
+all eventualities|DT NNS|BODY_2:BODY_10:BODY_9|0
+each stage|DT NN|BODY_1:BODY_2|0
+the system|DT NN|BODY_1:BODY_3:BODY_7|0
+the form x|DT NN NN|BODY_22:BODY_3:BODY_20|0
+a decision procedure|DT NN NN|BODY_2:BODY_3|0
+tptl-formulas|NNS|BODY_6:BODY_2|0
+every state|DT NN|BODY_13:BODY_2:BODY_20|0
+the product t|DT NN NN|BODY_17:BODY_2|0
+the automatic verification|DT JJ NN|BODY_2:BODY_3|0
+the proposition p|DT NN NN|BODY_5:BODY_2:BODY_7:BODY_9|0
+wol83]|NNS|BODY_5:BODY_10:BODY_8|0
+that z|IN FW|BODY_6:BODY_1:BODY_7|0
+the recurrence condition|DT NN NN|BODY_3:BODY_7|0
+all constants|DT NNS|BODY_12:BODY_11:BODY_5:BODY_13:BODY_3:BODY_14:BODY_4|0
+fact|NN|BODY_6:BODY_3:BODY_4|0
+0,|NN|BODY_4:BODY_7:BODY_8|0
+all timing constraints|DT NN NNS|BODY_3:BODY_8:BODY_9|0
+this proof|DT NN|BODY_1:BODY_2|0
+the formula oe|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the existence|DT NN|BODY_6:BODY_19|0
+the timed state sequence ae|DT VBN NN NN NNS|BODY_2:BODY_1:BODY_3|0
+constraints|NNS|BODY_5:BODY_8|0
+all propositions|DT NNS|BODY_6:BODY_5|0
+complexity|NN|BODY_1:BODY_2|0
+a vertex|DT NN|BODY_13:BODY_3|0
+events|NNS|BODY_6:BODY_7|0
+a state counter|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+sets|NNS|BODY_21:BODY_9|0
+2/ 2 closure|CD CD NN|BODY_2:BODY_9|0
+an r 1 -state|DT NN CD NN|BODY_2|0
+the successor configuration|DT NN NN|BODY_4|0
+a recurring computation|DT VBG NN|BODY_12:BODY_5:BODY_4:BODY_9|0
+the addition|DT NN|BODY_13:BODY_4|0
+timed state graphs|VBD NN NNS|BODY_5:BODY_3|0
+the monotonicity condition|DT NN NN|BODY_3|0
+the condition|DT NN|BODY_15:BODY_1:BODY_8|0
+the timing constraints|DT NN NNS|BODY_1:BODY_4:BODY_8|1
+a variety|DT NN|BODY_2|0
+different languages|JJ NNS|BODY_3|0
+the initial time x|DT JJ NN NN|BODY_7:BODY_9|0
+ffl z|NN FW|BODY_32:BODY_17:BODY_25|0
+locations|NNS|BODY_4:BODY_8|0
+lemma 1|NN CD|BODY_14:BODY_4:BODY_7|0
+every p-state|DT NN|BODY_17:BODY_3:BODY_7|0
+( 2|-LRB- CD|BODY_3:BODY_8|0
+binary ) encoding|JJ -RRB- NN|BODY_14:BODY_7|0
+state sequences|NN NNS|BODY_2:BODY_3|0
+a system|DT NN|BODY_5:BODY_1:BODY_9|0
+-)|NNP|BODY_6:BODY_3|0
+the tableau-based decision procedure|DT JJ NN NN|BODY_3:BODY_7|0
+systems|NNS|BODY_2|0
+' l 2|'' NN CD|BODY_25|0
+[ph88|CD|BODY_15|0
+the states|DT NNS|BODY_1:BODY_8:BODY_9|0
+y )|NN -RRB-|BODY_5|0
+a widely accepted language|DT RB VBN NN|BODY_2|0
+exponentiation|NN|BODY_13|0
+initial tableau|JJ NN|BODY_2:BODY_1|0
+rttl [ost90]|NNP NNP|BODY_8|0
+the user|DT NN|BODY_5|0
+the proof proceeds|DT NN NNS|BODY_15:BODY_3|0
+closure(z|NN|BODY_2:BODY_4|0
+n|NN|BODY_14:BODY_7|0
+j|NN|BODY_3|0
+a variable|DT JJ|BODY_6:ABSTRACT_6:BODY_3|0
+a response q|DT NN NN|BODY_13:BODY_4|0
+induction|NN|BODY_6:BODY_2|0
+[emss89|CD|BODY_7|0
+a timed state sequence ae|DT VBD NN NN NNS|BODY_1:BODY_4:BODY_7|0
+oe iff ae oe|NN NN NNS NN|BODY_10|0
+all free occurrences|DT JJ NNS|BODY_6:BODY_16:BODY_13|0
+pairs|NNS|BODY_13:BODY_8|0
+real-time temporal logics|JJ JJ NNS|BODY_1:BODY_4|0
+n )|NN -RRB-|BODY_25:BODY_24|0
+state j|NN NN|BODY_3:BODY_9|0
+either exactly ffi time units|DT RB JJ NN NNS|BODY_7|0
+the corresponding r-state|DT JJ NN|BODY_8|0
+the always operator|DT RB NN|BODY_4|0
+an additional r j -state|DT JJ NN NN NN|BODY_7|0
+the analytical hierarchy|DT JJ NN|BODY_5|0
+the sense|DT NN|BODY_5:BODY_4|0
+a freeze quantifier|DT NN NN|BODY_5:BODY_2|0
+'s theorem|POS NN|BODY_7|0
+every occurrence|DT NN|BODY_6:BODY_2|0
+\pi|NNP|BODY_2|0
+nested next|VBN JJ|BODY_4|0
+[|JJ|BODY_5:BODY_2|0
+the decision|DT NN|BODY_5|0
+\delta|NN|BODY_13:BODY_2:BODY_1|0
+our product construction|PRP$ NN NN|BODY_6|0
+successive clock ticks|JJ NN NNS|BODY_4|0
+finite-state systems [lp84|NN NNS NNS|BODY_6|0
+the consistency|DT NN|BODY_1:BODY_7|0
+the ability|DT NN|BODY_9|0
+view|NN|BODY_2|0
+a reactive system|DT NN NN|BODY_2|0
+the annotated state|DT JJ NN|BODY_5|0
+the ticks|DT NNS|BODY_6|0
+highly undecidable ( \pi|RB JJ -LRB- NN|BODY_4|0
+q 0 correspond|RB CD NN|BODY_2|0
+a non-jump instruction|DT NN NN|BODY_2|0
+time [ph88|NN NNS|BODY_29|0
+time x|NN NN|BODY_18:BODY_14:BODY_8|0
+a survey|DT NN|BODY_6|0
+an alternative way|DT JJ NN|BODY_2|0
+the first-order temporal logic|DT NN JJ NN|BODY_3|0
+the succinct representation|DT JJ NN|BODY_2|0
+state graphs|NN NNS|BODY_5:BODY_1:BODY_4|0
+deterministic time|JJ NN|BODY_5:BODY_4:BODY_7|1
+the following lemma|DT VBG NN|BODY_1:BODY_3|0
+the counters|DT NNS|BODY_13:BODY_10|0
+most|JJS|BODY_4|0
+the computation|DT NN|BODY_12:BODY_13:BODY_1|0
+the current time|DT JJ NN|BODY_12:BODY_11|0
+\delta-bounded models|JJ NNS|BODY_3|0
+course|NN|BODY_4|0
+david dill|JJ NN|BODY_3|0
+a set|DT NN|BODY_2|0
+a problem|DT NN|BODY_9|0
+every interval|DT NN|BODY_14|0
+the form x x|DT NN NN NN|BODY_12|0
+fl /|NN NN|BODY_13:BODY_2|0
+a function f|DT NN NN|BODY_3|0
+an implementation|DT NN|BODY_8|0
+only exponential space|RB JJ NN|BODY_12|0
+system fairness|NN NN|BODY_2|0
+e|NN|BODY_11:BODY_18|0
+a 2-conjunct oe i|DT JJ NN NN|BODY_2|0
+the location counter|DT NN NN|BODY_5|0
+successive states|JJ NNS|BODY_16:BODY_4|0
+lemma 2|NN CD|BODY_5:BODY_2|0
+successor|NN|BODY_10:BODY_4|0
+satisfiable iff m|JJ NN NN|BODY_11:BODY_8|0
+a generalization|DT NN|BODY_6:BODY_4|0
+the end|DT NN|BODY_3|0
+2nk|JJ|BODY_4:BODY_8|0
+/ 1|NN CD|BODY_5:BODY_21|0
+har88|NNS|BODY_4|0
+bounded response time|VBN NN NN|BODY_4|0
+labels|NNS|BODY_6:BODY_13|0
+timed transition systems|VBD NN NNS|BODY_7|0
+3-ffi ( eventually|JJ -LRB- RB|BODY_13|0
+all oe 0|DT NNP CD|BODY_6|0
+lemma 4|FW CD|BODY_2:BODY_1:BODY_3|0
+initial locations|JJ NNS|BODY_23|0
+all vertices|DT NNS|BODY_5:BODY_4|0
+sequence|NN|BODY_12:BODY_5|0
+all time|DT NN|BODY_17:BODY_4|0
+1 1 -complete|CD CD JJ|BODY_3|0
+a subformula|DT NN|BODY_5:BODY_4|0
+singly exponential|RB JJ|BODY_10|0
+this research|DT NN|BODY_2|0
+constant factors|JJ NNS|BODY_8|0
+a set t|DT NN NN|BODY_24|0
+times|NNS|BODY_18:BODY_13|0
+a temporal logic|DT JJ NN|ABSTRACT_2:BODY_3|0
+2/|CD|BODY_26:BODY_7:BODY_9|0
+ffi time units|JJ NN NNS|BODY_14|0
+regular expressions|JJ NNS|BODY_12|0
+the initial tableau t|DT JJ NN NN|BODY_11:BODY_1:BODY_4|0
+the ptl-based tools|DT JJ NNS|BODY_7|0
+[acd90|CD|BODY_5|0
+congruence operations|NN NNS|BODY_11:BODY_5|0
+the loop-back  vertex|DT JJ NN NN|BODY_4|0
+the form z|DT NN FW|BODY_3:BODY_4|0
+the universality problem|DT NN NN|BODY_11|0
+oe(x )|NN -RRB-|BODY_12:BODY_2|0
+the decidability|DT NN|BODY_5:BODY_7|0
+note|NN|BODY_1|0
+many real-time specification languages|JJ JJ NN NNS|BODY_5:BODY_4|0
+a future|DT NN|BODY_4|0
+5|CD|BODY_1:BODY_3|0
+an r-state|DT NN|BODY_5:BODY_13|0
+a model-checking algorithm|DT JJ NN|ABSTRACT_3:BODY_4|1
+\phi iff either z|NN NN CC FW|BODY_11:BODY_20|0
+the hierarchy theorem|DT NN NN|BODY_2|0
+88-0281 and f49620-93-1-0056|CD CC CD|BODY_14|0
+the 30th ieee symposium|DT JJ NN NN|BODY_18|0
+gctl [ har88]|NNP NNP NN|BODY_7|0
+computer science ( focs 1989 ) , pp|NN NN -LRB- NN CD -RRB- , NN|BODY_20|0
+scientific research|JJ NN|BODY_12|0
+the time sequence|DT NN NN|BODY_5:BODY_2:BODY_3|0
+a deterministic 2 n|DT NN CD NN|BODY_1|0
+any environment|DT NN|BODY_2|0
+both decisions|DT NNS|BODY_1|0
+contract|NN|BODY_10|0
+for|IN|BODY_2|0
+let e|VB NN|BODY_1|0
+machine m|NN NN|BODY_2|0
+real-time specification languages|JJ NN NNS|BODY_2|0
+research projects agency|NN NNS NN|BODY_9|0
+the abbreviations x|DT NNS NN|BODY_1|0
+the following definition|DT VBG NN|BODY_2|0
+this intuition|DT NN|BODY_1|0
+rtl [jm86]|JJ NN|BODY_6|0
+hard real-time requirements|JJ JJ NNS|BODY_3|0
+grants ccr-8812595 and ccr-9200794|NNS CD CC CD|BODY_7|0
+reactive systems|NN NNS|BODY_4|0
+explicit time|JJ NN|BODY_8|0
+a successor vertex|DT NN NN|BODY_6|0
+the defense|DT NN|BODY_8|0
+the united states air force office|DT VBN NNS NN NN NN|BODY_11|0
+temporal logic|JJ NN|BODY_1:BODY_4|0
+di|NN|BODY_15:BODY_4|0
+' l|'' NN|BODY_22|0
+an extended version|DT JJ NN|BODY_22|0
+an exposition|DT NN|BODY_4|0
+164-169|CD|BODY_21|0
+ost90]|NNS|BODY_11:BODY_4|0
+23p 0 )|JJ CD -RRB-|BODY_4|0
+time variables|NN NNS|BODY_3|0
+every term|DT NN|BODY_19:BODY_4|0
+either instruction 2 or 3|DT NN CD CC CD|BODY_5|0
+the second author|DT JJ NN|BODY_5|0
+a oe-path \phi 0|DT JJ NNP CD|BODY_2|0
+absolute time references|JJ NN NNS|BODY_2:BODY_1:BODY_3|0
+the national science foundation|DT JJ NN NN|BODY_6|0
+all possible runs|DT JJ NNS|BODY_2:BODY_4|0
+a vertex counter|DT NN NN|BODY_5|0
+state numbers|NN NNS|BODY_14|0
+enough time gaps|JJ NN NNS|BODY_6|0
+properties|NNS|BODY_3|0
+this restriction confines|DT NN NNS|BODY_3|0
+this approach|DT NN|BODY_4|0
+a multi-valued switch|DT JJ NN|BODY_3|0
+next-state ) condition|JJ -RRB- NN|BODY_5|0
+contracts|NNS|BODY_13|0
+foundations|NNS|BODY_19|0
+the finite precision|DT JJ NN|BODY_8|0
+loop|NN|BODY_7|0
+an infinite supply|DT JJ NN|BODY_11|0
+the|DT|BODY_1:BODY_7|0
+the automatic verification and synthesis|DT JJ NN CC NN|BODY_5|0
+abstract state graphs|JJ NN NNS|BODY_4|0
+more care|JJR NN|BODY_6|0
+the verification problem|DT NN NN|BODY_6:BODY_1:BODY_4|0
+the loop|DT NN|BODY_4:BODY_10|0
+the branching-time logic rtctl|DT NN NN NN|BODY_6|0
+the formula 9x|DT NN CD|BODY_9|0
+true u oe|JJ NN NN|BODY_3|0
+a dense time domain|DT JJ NN NN|BODY_6|0
+the formulas|DT NNS|BODY_1:BODY_3|0
+the journal|DT NN|BODY_23|0
+r-states|NNS|BODY_11:BODY_3|0
+an ibm graduate fellowship|DT JJ NN NN|BODY_4|0
+real-time modalities|JJ NNS|BODY_12|0
+a state sequence|DT NN NN|BODY_5:BODY_4|0
+both z|DT FW|BODY_28:BODY_14|0
+only the current vertex|RB DT JJ NN|BODY_3|0
+a set l 0|DT NN NN CD|BODY_21|0
+a present|DT NN|BODY_3|0
+space|NN|BODY_3:BODY_7|0
+the fictitious-clock ( or digital-clock ) assumption|DT NN -LRB- CC NN -RRB- NN|BODY_2|0
+a variable x|DT JJ NN|BODY_1:BODY_3|0
+the desired|DT VBN|BODY_30|0
+a tptl-formula x|DT NN NN|BODY_11|0
+the decidability and undecidability|DT NN CC NN|BODY_6|0
+n \delta log n)-bound|NN NN VBP NN|BODY_31|0
+a suitable formalism|DT JJ NN|ABSTRACT_5|0
+the simplifying assumption|DT JJ NN|BODY_2|0
+savitch|NN|BODY_6|0
+work|NN|BODY_5|0
+the following main lemma|DT VBG JJ NN|BODY_2|0
+the semantics|DT NNS|BODY_5|0
+verification|NN|BODY_6:ABSTRACT_6|0
+finite-state formalisms|NN NNS|BODY_7|0
+the acm 41 , 1994|DT NN CD , CD|BODY_24|0
+binary )|JJ -RRB-|BODY_29|0
+the vertex counter|DT NN NN|BODY_8|0
+a proof|DT NN|BODY_10|0
+the two restrictions|DT CD NNS|BODY_2|0
+the ptl-based tableau algorithms|DT JJ NN NNS|BODY_5|0
+satisfiable [valid [every ]|JJ JJ NN NN|BODY_2|0
+general|JJ|BODY_10|0
+ph88|NNS|BODY_9|0
+2 l|CD NN|BODY_15:BODY_8|0
+an environment e|DT NN NN|BODY_8|0
+\sigma 1 1|NN CD CD|BODY_17:BODY_3|0
+oe x|NN NN|BODY_32:BODY_1|0
+a \sigma 1-complete problem|DT NN JJ NN|BODY_2|0
+the following theorem|DT VBG NN|BODY_1:BODY_3|0
+every segment|DT NN|BODY_2|0
+some ffl|DT VBG|BODY_20|0
+the requirement|DT NN|BODY_7|0
+groups|NNS|BODY_2:BODY_10|0
+all locations|DT NNS|BODY_4|0
+all subsets|DT NNS|BODY_2|0
+some state|DT NN|BODY_10|0
+hi|PRP|BODY_2|0
+koy90|CD|BODY_10|0
+a preliminary version|DT JJ NN|BODY_15|0
+the proceedings|DT NNS|BODY_17|0
+recursively ) axiomatized (|RB -RRB- VBN -LRB-|BODY_3|0
+the following formulas|DT VBG NNS|BODY_9|0
+the conjunction oe m|DT NN NN NN|BODY_9|0
+oe accept|NN VBP|BODY_22|0
+a logarithmic ( e .g.|DT JJ -LRB- NN NNP|BODY_6|0
+a tableau express conditions|DT NN NN NNS|BODY_4|0
+the largest constant|DT JJS JJ|BODY_2|0
+closure|NN|BODY_1:BODY_9|0
+m next operators|NN JJ NNS|BODY_5|0
+the k-th configuration|DT JJ NN|BODY_5:BODY_3|0
+' and \phi|'' CC NNP|BODY_11:BODY_15|0
+the tableau techniques|DT NN NNS|BODY_5:BODY_2|0
+the rest|DT NN|BODY_10|0
+the temporal operators fl|DT JJ NNS VBP|BODY_2|0
+specification|NN|ABSTRACT_4|0
+this case|DT NN|BODY_1|0
+o( n \delta|JJ NN NN|BODY_23|0
+e)|NN|BODY_2|0
+nk|NN|BODY_6:BODY_5:BODY_8|1
+m checks|NN NNS|BODY_2|0
+a \sigma 1 -hard problem|DT NN CD JJ NN|BODY_4|0
+nonelementary [ah90]|JJ NNS|BODY_7|0
+calls|NNS|BODY_5|0
+the sequence|DT NN|BODY_1:BODY_4|0
+oe initial , oe move|NN JJ , NN NN|BODY_21|0
+/ and ffi 2 n|NN CC NN CD NN|BODY_12|0
+a constrained form|DT JJ NN|BODY_4|1
+the eventually operator 3oe|DT RB NN NN|BODY_2|0
+clearly there|RB EX|BODY_5|0
+) but not|-RRB- CC RB|BODY_6|0
+hmp92]|NN|BODY_5|0
+this way|DT NN|BODY_6:BODY_3|0
+the running time|DT VBG NN|BODY_4|0
+a boundary|DT NN|BODY_5|0
+many new results|JJ JJ NNS|BODY_3|0
+the p-state|DT NN|BODY_7|0
+the predecessor location|DT NN NN|BODY_6|0
+the exposition|DT NN|BODY_4|0
+formalisms|NNS|BODY_7|0
+a 23-formula|DT JJ|BODY_8|0
+the interpretation|DT NN|BODY_25|0
+/ 2|NN CD|BODY_12:BODY_23|0
+a proposition q j|DT NN NN NN|BODY_3|0
+the finite universe closure \deltag|DT JJ NN NN NN|BODY_5|0
+2 or 3|CD CC CD|BODY_11|0
+the logics|DT NNS|BODY_5|0
+a few words|DT JJ NNS|BODY_5|0
+the underlying assertion language|DT JJ NN NN|BODY_6|0
+for constants c|IN NNS NN|BODY_13|0
+2/ 62 \phi i|CD CD NNP NN|BODY_11:BODY_4|0
+whose constants|WP$ NNS|BODY_5|0
+d /|JJ NNS|BODY_6|0
+asynchronous processes|JJ NNS|BODY_4|0
+a finite-state real-time system|DT NN NN NN|BODY_2|0
+various variants|JJ NNS|BODY_3|0
+the choice|DT NN|BODY_4|0
+a primitive|DT JJ|BODY_5:BODY_10|0
+|NN|BODY_7|0
+a state variable|DT NN JJ|BODY_9|0
+last|JJ|BODY_2|0
+the initial configuration|DT JJ NN|BODY_1:BODY_7|0
+the conclusion|DT NN|BODY_1:BODY_4|2
+two conditions|CD NNS|BODY_6|0
+every \sigma 1-formula|DT NN NN|BODY_8|0
+nondeterministic expspace|JJ NN|BODY_5|0
+corresponds|NNS|BODY_9|0
+whose events|WP$ NNS|BODY_5|0
+the translation|DT NN|BODY_6|0
+typical real-time requirements|JJ JJ NNS|BODY_3|0
+its propositional version|PRP$ JJ NN|BODY_2|0
+the argument|DT NN|BODY_2|0
+theorem 1|NN CD|BODY_5|0
+a closed formula|DT JJ NN|BODY_2|0
+an interpretation ( environment|DT NN -LRB- NN|BODY_6|0
+finitely many infinite sets|RB JJ JJ NNS|BODY_4|0
+the maximal length|DT JJ NN|BODY_9|0
+the previous one|DT JJ CD|BODY_10|0
+the induction hypothesis|DT NN NN|BODY_5:BODY_1|0
+these n+2 formulas|DT JJ NNS|BODY_10|0
+the true , dense times|DT JJ , JJ NNS|BODY_6|0
+whose state part|WP$ NN NN|BODY_7|0
+both directions|DT NNS|BODY_5|0
+each term|DT NN|BODY_2:BODY_1|0
+2 modulo|CD NN|BODY_7|0
+a semantic one ( interpreting tptl-formulas|DT JJ CD -LRB- NN NNS|BODY_6|0
+ol82|NNS|BODY_7|0
+this fashion|DT NN|BODY_21|0
+a tableau-based decision procedure|DT JJ NN NN|BODY_6:ABSTRACT_2|0
+the infinite suffix|DT JJ NN|BODY_10|0
+0, progress|JJ NN|BODY_11|0
+each vertex|DT NN|BODY_2|0
+the tape|DT NN|BODY_7|0
+the basis|DT NN|BODY_4|0
+first-order temporal specifications|NN JJ NNS|BODY_3|0
+formula oe|NN NN|BODY_7|0
+the position|DT NN|BODY_11|0
+-vertices|NNS|BODY_10|0
+\phi )|NNP -RRB-|BODY_2|0
+the successor operation|DT NN NN|BODY_4|0
+the initial tableau t ( oe)|DT JJ NN NN -LRB- NN|BODY_3|0
+the untimed|DT NNP|BODY_8|0
+a successor operation|DT NN NN|BODY_14|0
+i \phi|FW NNP|BODY_11|0
+proposition|NN|BODY_3|0
+the read-write head|DT JJ NN|BODY_12|0
+the ( finite ) initial tableau t|DT -LRB- NN -RRB- JJ NN NN|BODY_2|0
+popularity [ah92|NN NN|BODY_4|0
+ffi \phi|JJ NN|BODY_10|0
+its adequacy|PRP$ NN|BODY_5|0
+respect|NN|BODY_5|0
+the two temporal operators|DT CD JJ NNS|BODY_2|0
+this point|DT NN|BODY_4|0
+the fictitious-clock assumption ( states|DT JJ NN -LRB- NNS|BODY_3|0
+theorem|NN|BODY_2|0
+\pi 1 similar result|NNP CD JJ NN|BODY_8|0
+oe and k|NNP CC NN|BODY_12:BODY_11|0
+position p|NN NN|BODY_4|0
+the events|DT NNS|BODY_3|0
+an example|DT NN|BODY_3|0
+the updated eventuality |DT VBN NN|BODY_11|0
+the special tape symbol blank |DT JJ NN NN JJ|BODY_3|0
+2/ 2 \phi i iff z|CD CD NNP FW IN FW|BODY_13|0
+however|RB|BODY_14|0
+maps x|NNS SYM|BODY_12|0
+2 nk|CD NN|BODY_2|0
+references|NNS|BODY_9|0
+the hardness part|DT NN NN|BODY_9|0
+whose first projection|WP$ JJ NN|BODY_14|0
+a specification language|DT NN NN|BODY_2|0
+an appropriate constant \delta|DT JJ JJ NN|BODY_5|1
+both restrictions|DT NNS|BODY_2|0
+p 2 closure ( oe)|NN CD NN -LRB- NN|BODY_2|0
+the doubly exponential deterministic-time|DT RB JJ NN|BODY_2|0
+the moment|DT NN|BODY_2|0
+these restrictions|DT NNS|BODY_12|1
+tptl first|JJ JJ|BODY_2|0
+the successor state|DT NN NN|BODY_8|0
+all c i|DT NN NN|BODY_9|0
+nondeterministic singly exponential space suffices|JJ RB JJ NN NNS|BODY_2|0
+the following three conditions|DT VBG CD NNS|BODY_5|0
+m proceeds|NN NNS|BODY_3|0
+the state variables|DT NN NNS|BODY_28|0
+/( x ) ffi|NN NN -RRB- NN|BODY_3:BODY_7|0
+arbitrarily many states|RB JJ NNS|BODY_13|0
+the \sigma 1-completeness|DT NN NN|BODY_8|0
+timing assertions|VBG NNS|BODY_11|0
+6j= z|JJ FW|BODY_5|0
+abbreviations|NNS|BODY_3|0
+v|NN|BODY_5|0
+free occurrences|JJ NNS|BODY_9|0
+the starting state|DT VBG NN|BODY_6|0
+them|PRP|BODY_7|0
+place|NN|BODY_5|0
+a first-order predicate|DT NN NN|BODY_3|0
+an initialized oe-path|DT JJ NN|BODY_5:BODY_10|0
+4 ( complexity|CD -LRB- NN|BODY_3|0
+boolean , temporal , and freeze operators|JJ , JJ , CC NN NNS|BODY_11:BODY_7|0
+the global consistency|DT JJ NN|BODY_16|0
+2/ l|CD NN|BODY_6|0
+a variable that|DT JJ IN|BODY_2|0
+new states|JJ NNS|BODY_8|0
+the nonnegative integers|DT JJ NNS|BODY_5|0
+every turing machine|DT NN NN|BODY_2|0
+the intended meaning|DT JJ NN|BODY_7|0
+the state sequence oe [time sequence|DT NN NN NN NN NN|BODY_7|0
+. 181-204|. CD|BODY_25|0
+a dense time domain results|DT JJ NN NN NNS|BODY_3|0
+a natural language|DT JJ NN|ABSTRACT_3|0
+f( x ) and f( x +|JJ SYM -RRB- CC JJ SYM NN|BODY_3|0
+( 2 )|-LRB- CD -RRB-|BODY_5|0
+the conjunct fly|DT JJ NN|BODY_6|0
+every instruction|DT NN|BODY_3|0
+the current values|DT JJ NNS|BODY_4|0
+model|NN|BODY_2|0
+constants|NNS|BODY_28|0
+problems|NNS|BODY_4|0
+a formula oe m|DT NN NN NN|BODY_6|0
+2x|CD|BODY_2|0
+all states|DT NNS|BODY_7|0
+implicit or explicit quantifier prefixes|JJ CC JJ NN NNS|BODY_3|0
+[ah92 ]|CD SYM|BODY_5|0
+a fragment|DT NN|BODY_2|0
+the expressive power|DT JJ NN|BODY_3|0
+time constants|NN NNS|BODY_3|0
+a value|DT NN|BODY_8|0
+a reasonably succinct ( e .g.|DT RB JJ -LRB- NN NNP|BODY_13|0
+reasoning|NN|BODY_1|0
+\pi 1|NNP CD|BODY_12|0
+) time information|-RRB- NN NN|BODY_3|0
+several researchers|JJ NNS|BODY_10|0
+oe m|NN NN|BODY_7|0
+2 )|CD -RRB-|BODY_2|0
+no absolute time references|DT JJ NN NNS|BODY_6:BODY_2:BODY_9|0
+can|MD|BODY_3|0
+ourselves|PRP|BODY_2|0
+pnueli|NNS|BODY_2|0
+/ 1 and z|NN CD CC FW|BODY_15|0
+/ and z|NN CC FW|BODY_29|0
+their behavior|PRP$ NN|BODY_5|0
+the timing|DT NN|BODY_9|0
+requirements|NNS|BODY_7|0
+the instruction 0 infinitely|DT NN CD NN|BODY_2|0
+this nondeterministic procedure|DT JJ NN|BODY_11|0
+the tptl-formula x|DT NN NN|BODY_13|0
+next state |JJ NN|BODY_3|0
+every system state [bh81|DT NN NN NNS|BODY_8|0
+essential use|JJ NN|BODY_4|0
+oe ) and i|NN -RRB- CC FW|BODY_10|0
+label|NN|BODY_2|0
+all other states|DT JJ NNS|BODY_9|0
+any formula oe|DT NN NN|BODY_4|0
+the maximally consistent subsets|DT RB JJ NNS|BODY_4|0
+a modal logic|DT JJ NN|BODY_4|0
+every request p|DT NN NN|BODY_3|0
+the property|DT NN|BODY_4|0
+no more|DT JJR|BODY_12|0
+a state labeling|DT NN NN|BODY_5|0
+a \sigma 1|DT NN CD|BODY_5|0
+finite|NN|BODY_4|0
+the time-step lemma|DT NN NN|BODY_6|0
+the right|DT NN|BODY_8|0
+the unconstrained quantification|DT JJ NN|BODY_2|0
+our model|PRP$ NN|BODY_6|0
+polynomial time|JJ NN|BODY_3|0
+a \sigma 1-formula|DT NN NN|BODY_9|0
+the second one / 2|DT JJ CD NN CD|BODY_12|0
+a computation correspond|DT NN NN|BODY_6|0
+every location|DT NN|BODY_14:BODY_7|0
+2/ 2 \phi i iff ae|CD CD NNP FW NN NNS|BODY_8|0
+/ 6|NN CD|BODY_8|0
+o( 1 )|JJ CD -RRB-|BODY_26|0
+tptl- properties|DT NNS|BODY_3|0
+the precision|DT NN|BODY_9|1
+the future|DT NN|BODY_6|0
+our undecidability results|PRP$ NN NNS|BODY_4|0
+- 2|: CD|BODY_4|0
+time values|NN NNS|BODY_3|0
+t ( oe|NN -LRB- NN|BODY_7|0
+either prev ffi|DT JJ NN|BODY_19|0
+the form x y|DT NN NN NN|BODY_6|0
+the initial time ffi|DT JJ NN NN|BODY_8|0
+the initial t ( oe )|DT JJ NN -LRB- NN -RRB-|BODY_3|0
+3.3 real-time verification researchers|CD NN NN NNS|BODY_1|0
+real-time systems [ah92]|NN NNS NN|BODY_4|0
+monadic predicates|JJ NNS|BODY_7|0
+1 ) and ( 2 )|CD -RRB- CC -LRB- CD -RRB-|BODY_8|0
+\pi 1 -complete|NNP CD JJ|BODY_5|0
+only temporal ordering information|RB JJ VBG NN|BODY_7|0
+all k|DT NN|BODY_7|0
+lemma 2 ( size|NN CD -LRB- NN|BODY_8|0
+0 j|CD NN|BODY_3|0
+lemma 8|FW CD|BODY_7|0
+assumes|VBZ|BODY_10|0
+the convention|DT NN|BODY_3|0
+our procedure|PRP$ NN|BODY_4|0
+the lengths|DT NNS|BODY_20|0
+the tighter bound c|DT JJR JJ NN|BODY_5|0
+every configuration|DT NN|BODY_9|0
+polynomial|NN|BODY_3|0
+finite segments|JJ NNS|BODY_12|0
+a temporal ( future  ) requirement|DT JJ -LRB- JJ NN -RRB- NN|BODY_9|0
+the two specified instructions|DT CD JJ NNS|BODY_10|0
+the presburger-tptl formula|DT JJ NN|BODY_11|0
+a real-time extension|DT JJ NN|BODY_3|0
+a model (|DT NN -LRB-|BODY_11|0
+the first conjunct / 1|DT JJ JJ NN CD|BODY_7|0
+a non-temporal ( present  ) requirement|DT JJ -LRB- JJ NN -RRB- NN|BODY_7|0
+( 2x|-LRB- CD|BODY_17|0
+dense time|JJ NN|BODY_2|0
+jump|NN|BODY_11|0
+the eventuality 3/|DT NN NN|BODY_2|0
+this q-state|DT NN|BODY_8|0
+the observation|DT NN|BODY_4|0
+the following condition|DT VBG NN|BODY_6|0
+a set \phi|DT NN NNP|BODY_8|0
+some vertex \psi l|DT JJ NNS NN|BODY_9|0
+all cases|DT NNS|BODY_4|0
+the least common multiple k 0|DT JJS JJ JJ NN CD|BODY_8|0
+form|NN|BODY_3|1
+the intended effect and updates|DT JJ NN CC NNS|BODY_3|0
+this definition|DT NN|BODY_15|0
+oe 0 )|NN CD -RRB-|BODY_3|0
+the proper progression|DT JJ NN|BODY_8|0
+the next state|DT JJ NN|BODY_10|0
+two states|CD NNS|BODY_2|0
+an arbitrary number|DT JJ NN|BODY_10|0
+the standard techniques|DT NN NNS|BODY_3|0
+every oe-path|DT NN|BODY_12|0
+a standard l-owenheim-skolem argument|DT JJ NN NN|BODY_18|0
+a sufficiently succinct formula oe|DT RB JJ NN NN|BODY_12|0
+the typical time-bounded response requirement|DT JJ JJ NN NN|BODY_2|0
+the entire initial tableau|DT JJ JJ NN|BODY_4|0
+classical (|JJ -LRB-|BODY_5|1
+quantifiers|NNS|BODY_5|0
+every model|DT NN|BODY_5|0
+all formulas z|DT NNS FW|BODY_12|0
+precisely the models|RB DT NNS|BODY_4|0
+this transformation|DT NN|BODY_2|0
+at least successor (|IN JJS NN -LRB-|BODY_7|0
+the symbol k|DT NN NN|BODY_6|0
+any formula|DT NN|BODY_5|0
+an initial vertex|DT JJ NN|BODY_15|0
+constant size|JJ NN|BODY_6|0
+every tape symbol|DT NN NN|BODY_4|0
+two counters c|CD NNS NN|BODY_4|0
+a move|DT NN|BODY_11|0
+the meaning|DT NN|BODY_20|0
+s-states|NNS|BODY_10|0
+the request|DT NN|BODY_12|0
+f|NN|BODY_3|0
+let m|VB NN|BODY_1|0
+the implication|DT NN|BODY_1|0
+the input x|DT NN NN|BODY_3|0
+the model checking problem|DT NN NN NN|BODY_3|0
+valid iff oe|JJ NN NN|BODY_8|0
+either ae|DT NNS|BODY_4|0
+2.|CD|BODY_11|0
+versus|NN|BODY_8|0
+natural numbers|JJ NNS|BODY_5|0
+k 0|NN CD|BODY_6|0
+- i|: NN|BODY_10|0
+the proposition q|DT NN NN|BODY_6|0
+graph|NN|BODY_6|0
+domain ( timed state sequence|NN -LRB- VBD NN NN|BODY_8|0
+the computational complexity|DT JJ NN|BODY_3|0
+a nondeterministic turing machine|DT JJ NN NN|BODY_2|0
+all temporal and real-time constraints|DT JJ CC JJ NNS|BODY_17|0
+the discrete time|DT JJ NN|BODY_7|0
+an upper|DT JJ|BODY_2|0
+a \delta-bounded timed state sequence|DT JJ VBD NN NN|BODY_7|0
+the smallest j|DT JJS NNS|BODY_4|0
+fly|NN|BODY_18|0
+ae ae ae ae ae ae ae ae|NNS NNS NNS NNS NNS NNS NNS NNS|BODY_6|0
+r j|NN NN|BODY_5|0
+very helpful advice|RB JJ NN|BODY_3|0
+( x|-LRB- SYM|BODY_6|0
+next time |JJ NN|BODY_4|0
+some i|DT NN|BODY_20|0
+congruent|JJ|BODY_5|0
+monotonicity progress|NN NN|BODY_17|0
+the tptl-formula z|DT NN FW|BODY_4|0
+the scope|DT NN|BODY_4|0
+j this|RB DT|BODY_9|0
+presburger arithmetic|NN NN|BODY_11|0
+nonmonotonic time|JJ NN|BODY_2|0
+computation|NN|BODY_5|0
+function|VBP|BODY_12|0
+all paths|DT NNS|BODY_4|0
+the negated specification :oe captures|DT JJ NN NN NNS|BODY_3|0
+related configurations|JJ NNS|BODY_4|0
+the decision procedure|DT NN NN|BODY_3|0
+a finite set l|DT JJ NN NN|BODY_3|0
+oe 0 note|NN CD NN|BODY_3|0
+finite-state character|JJ NN|BODY_2|0
+( :oe)|-LRB- NNP|BODY_8|0
+oe ) and z|NN -RRB- CC FW|BODY_3|0
+the tableau finite|DT NN NN|BODY_3|0
+the stronger condition|DT JJR NN|BODY_3|0
+whose input|WP$ NN|BODY_5|0
+a theory|DT NN|BODY_19|0
+unconstrained classical quantification|JJ JJ NN|BODY_6|0
+the model checking algorithm|DT NN VBG NN|BODY_5|0
+x j|NN NN|BODY_23|0
+[ hal91]|NN NN|BODY_9|0
+the smallest representative|DT JJS JJ|BODY_4|0
+a unique time|DT JJ NN|BODY_3|0
+0 such that|CD JJ IN|BODY_21|0
+concise|NN|BODY_8|0
+the theory|DT NN|BODY_2|0
+abstract|JJ|BODY_3|0
+/ 1 or ae|NN CD CC NNS|BODY_6|0
+3y|NN|BODY_3|0
+the empty tape|DT JJ NN|BODY_3|0
+the infinite oe-path|DT JJ NN|BODY_3|0
+\phi iff|NN NN|BODY_11|0
+naive replacement|JJ NN|BODY_12|0
+a logic|DT NN|BODY_2|0
+either / or fl3/|DT NN CC NN|BODY_3|0
+l|JJ|BODY_7|0
+a vertex \phi|DT NN NNP|BODY_6|0
+freeze quantification|NN NN|BODY_1:BODY_3|1
+a unary successor|DT JJ NN|BODY_8|0
+at most nk invariances z|IN JJS NN NNS FW|BODY_5|0
+its present and future parts|PRP$ JJ CC JJ NNS|BODY_7|0
+how expressive|WRB JJ|BODY_18|0
+presburger tptl undecidable|NN NN NN|BODY_3|0
+readable specifications|JJ NNS|BODY_9|0
+the occurrence|DT NN|BODY_24|0
+the construction|DT NN|BODY_3|0
+a proposition p i|DT NN NN NN|BODY_2|0
+theorem 6|VBG CD|BODY_8|0
+the operation|DT NN|BODY_5|0
+encoding recurring computations|VBG VBG NNS|BODY_3|0
+our decisions|PRP$ NNS|BODY_4|0
+kripke structures|NN NNS|BODY_6:BODY_5|0
+standard first-order temporal logic|JJ NN JJ NN|BODY_8|0
+state-time pairs|JJ NNS|BODY_4|0
+/( x|JJ NN|BODY_4|0
+3|CD|BODY_4|0
+hen90|PRP|BODY_2|0
+the following subsection|DT VBG NN|BODY_4|0
+the following quantification|DT VBG NN|BODY_2|0
+a complete axiomatization|DT JJ NN|BODY_3|0
+the decision problem|DT NN NN|BODY_5|0
+the synchronous case|DT JJ NN|BODY_3|0
+only singly exponential|RB RB JJ|BODY_6|0
+-, multiplication|JJ NN|BODY_5|0
+in order|IN NN|BODY_6|0
+at most \delta|IN JJS NN|BODY_8|0
+' closure ( oe )|POS NN -LRB- NN -RRB-|BODY_9|0
+the k-th configuration hi|DT JJ NN NNS|BODY_13|0
+the tptl- formula oe|DT NNS NN NN|BODY_5|0
+a given nondeterministic 2-counter machine|DT VBN JJ JJ NN|BODY_4|0
+fl ( / 1 u|NN -LRB- NN CD NN|BODY_16|0
+fl 2/|NN CD|BODY_30|0
+a possible run|DT JJ NN|BODY_10|0
+each range|DT NN|BODY_10|0
+a finite|DT NN|BODY_5|0
+an infinite supply v|DT JJ NN NN|BODY_4|0
+the initial tableau t ( oe ) and check|DT JJ NN NN -LRB- NN -RRB- CC NN|BODY_6|0
+each one|DT CD|BODY_7|0
+duplicated vertices|VBN NNS|BODY_3|0
+bounded temporal operators|VBN JJ NNS|BODY_4|0
+its successor state|PRP$ NN NN|BODY_11|0
+the recurring computations|DT VBG NNS|BODY_12|0
+precisely one|RB CD|BODY_9|0
+a single state variable|DT JJ NN JJ|BODY_3|0
+' 1 to|'' CD TO|BODY_22|0
+the difference|DT NN|BODY_4|0
+p-state sequences|NN NNS|BODY_7|0
+k x|NN NN|BODY_7|0
+a routine matter|DT JJ NN|BODY_2|0
+the satisfaction relation j=|DT NN NN NN|BODY_4|0
+the timed state sequence (|DT VBN NN NN -LRB-|BODY_2|0
+theorem 7|VBG CD|BODY_7|0
+the finite sequences|DT NN NNS|BODY_4|0
+introduction|NN|BODY_6|0
+the (state|DT NN|BODY_2|0
+j c|NN NN|BODY_7|0
+our results|PRP$ NNS|BODY_2|0
+the propositional calculus [smu68|DT JJ NN NNS|BODY_2|0
+n instructions|NN NNS|BODY_6|0
+that tptl|DT NN|BODY_6|0
+the subclass|DT NN|BODY_3|0
+all t 2 t|DT NN CD NN|BODY_18|0
+the environment|DT NN|BODY_7|0
+the time information|DT NN NN|BODY_14|0
+first-order arithmetic|NN NN|BODY_3|0
+the result|DT NN|BODY_2|0
+a theoretical basis|DT JJ NN|BODY_2|0
+each variable|DT JJ|BODY_4|0
+that oe|DT NN|BODY_4|0
+( :oe ) and checking|-LRB- NN -RRB- CC NN|BODY_4|0
+the lemmas 2 , 3 , 4|DT NN CD , CD , CD|BODY_2|0
+a ( closed ) tptl-formula oe|DT -LRB- JJ -RRB- NN NN|BODY_3|0
+m correspond|NN NN|BODY_5|0
+expspace|NN|BODY_7|0
+intended  specifications|VBN JJ NNS|BODY_4|0
+a tptl-formula tableaux|DT NN NN|BODY_2|0
+the technique|DT NN|BODY_2|0
+the complexity|DT NN|BODY_3|0
+the vertex|DT NN|BODY_19:BODY_20|0
+these formalisms|DT NNS|BODY_2|0
+these formulas|DT NNS|BODY_21|0
+the doubly-exponential- time cost|DT NNS NN NN|BODY_2|0
+universal and existential ) quantification|JJ CC JJ -RRB- NN|BODY_7|1
+a straightforward modification|DT JJ NN|BODY_2|0
+closer resemblance|RBR NN|BODY_17|0
+denotes|NNS|BODY_4|0
+both extensions|DT NNS|BODY_1|0
+the arbitrary step-width ffi|DT JJ NN NN|BODY_3|0
+oe corresponds|NN NNS|BODY_6|0
+equality )|NN -RRB-|BODY_9|0
+real-time ptl|JJ NN|BODY_5|1
+the bounded-eventuality operator 3-ffi oe|DT NN NN JJ NN|BODY_2|0
+the consecution relation|DT NN NN|BODY_1:BODY_4|0
+\psi iff|NNP NN|BODY_11|0
+the increment operation|DT NN NN|BODY_5|0
+the last conjunct / 4|DT JJ NN NN CD|BODY_1|0
+all variables|DT NNS|BODY_10|0
+the fairness requirement|DT NN NN|BODY_1|0
+the freeze quantifier|DT NN NN|BODY_1:BODY_9|1
+terms|NNS|BODY_7|0
+the counter c and proceeds|DT NN NN CC NNS|BODY_4|0
+the special case|DT JJ NN|BODY_5|0
+ptl [bmp81|JJ NNS|BODY_4|0
+the two state graphs t|DT CD NN NNS NN|BODY_3|0
+the new formula oe r|DT JJ NN NN NN|BODY_7|0
+that jd oe and jc oe|DT JJ NN CC NN NN|BODY_2|0
+the initial configuration h0|DT JJ NN NN|BODY_5|0
+the other operators|DT JJ NNS|BODY_20|0
+p-states|NNS|BODY_19:BODY_9|0
+2 t|CD NN|BODY_15|0
+expspace-hard [hu79]|JJ NN|BODY_14|0
+koy90 ] or branching-time logics|CD NN CC NN NNS|BODY_16|0
+transitions|NNS|BODY_26|0
+formula p u q|NN NN NN NN|BODY_2|0
+the finite sequence|DT JJ NN|BODY_8:BODY_9|0
+the residues|DT NNS|BODY_5|0
+input|NN|BODY_4|0
+length 2 n|NN CD NN|BODY_8|0
+2 is \sigma 1 1 -hard|CD VBZ NN CD CD JJ|BODY_4|0
+the vertices|DT NNS|BODY_6:BODY_1|0
+within|IN|BODY_5|0
+mtl [koy90]|JJ NN|BODY_9|0
+/(y|NN|BODY_4|0
+[ rog67] )|JJ NN -RRB-|BODY_6|0
+the period|DT NN|BODY_2|0
+the consistent subsets|DT JJ NNS|BODY_6|0
+the analysis|DT NN|BODY_1|0
+a novel|DT NN|BODY_2|1
+a pair|DT NN|BODY_4|0
+a logical point|DT JJ NN|BODY_1|0
+the requirements|DT NNS|BODY_7|0
+an increment instruction|DT NN NN|BODY_8|0
+a typical real-time requirement|DT JJ JJ NN|BODY_1|0
+a state counter ( 2x|DT NN NN -LRB- CD|BODY_4|0
+f m|NN NN|BODY_11|0
+the actual times|DT JJ NNS|BODY_4|0
+the term x+c|DT NN NN|BODY_6|0
+mw84]|NN|BODY_7|0
+the time model|DT NN NN|BODY_10|1
+the bound \delta|DT JJ NN|BODY_4|0
+whose outermost symbol|WP$ JJ NN|BODY_4|0
+its untimed base ptl|PRP$ JJ NN NN|BODY_4|0
+a formula z|DT NN FW|BODY_3|0
+0, oe|CD NN|BODY_9|0
+the environment e|DT NN NN|BODY_9|0
+every satisfiable tptl-formula oe|DT JJ NN NN|BODY_5|0
+whose size|WP$ NN|BODY_4|0
+adjacent temporal contexts|JJ JJ NNS|BODY_6|0
+\phi or z|NN CC FW|BODY_22|0
+introduction linear temporal logic|NN NN JJ NN|BODY_1|0
+some t 2 t )|DT NN CD NN -RRB-|BODY_11|0
+simple arithmetic manipulations|JJ JJ NNS|BODY_2|0
+all z|DT FW|BODY_8|0
+reasonable and readable specifications|JJ CC JJ NNS|BODY_6|0
+the truth values|DT NN NNS|BODY_4|0
+:3:oe.|VBG|BODY_5|0
+an initialized :oe-path|DT JJ NN|BODY_5:BODY_2|0
+two successive states|CD JJ NNS|BODY_6|0
+an arbitrary j|DT JJ NN|BODY_10|0
+' 2|'' CD|BODY_23|0
+infinitely many configurations|RB JJ NNS|BODY_3|0
+2 closure|CD NN|BODY_3|0
+the explicit-clock logic xctl [hlp90]|DT NN NN NN NN|BODY_8|0
+their truth values|PRP$ NN NNS|BODY_23|0
+the first-order theory|DT JJ NN|BODY_3|0
+every satisfiable formula oe|DT JJ NN NN|BODY_2|0
+g|NN|BODY_5|0
+some [all ] computations|DT JJ SYM NNS|BODY_12|0
+time sequences|NN NNS|BODY_4|0
+( deterministic )|-LRB- NN -RRB-|BODY_8|0
+formulas oe|NNS NN|BODY_5|0
+a given structure|DT VBN NN|BODY_5|0
+the discrete time domain n|DT JJ NN NN NN|BODY_7|0
+finitely many ( new ) time-difference propositions|RB JJ -LRB- JJ -RRB- NN NNS|BODY_6|0
+a directed graph|DT VBN NN|BODY_4|0
+machine state j|NN NN NN|BODY_6|0
+\sigma 1 1 -hard|NNP CD CD JJ|BODY_3|0
+every vertex|DT NN|BODY_2|0
+all occurrences|DT NNS|BODY_8|0
+/ 2 \phi i iff z|NN CD NNP FW NN FW|BODY_4|0
+( singly ) exponential representations|-LRB- RB -RRB- JJ NNS|BODY_7|0
+associate|NN|BODY_6|0
+-, and j d )|JJ CC JJ NN -RRB-|BODY_16|0
+operator u|NN NN|BODY_8|0
+( t|-LRB- NN|BODY_6|0
+the product t \theta t|DT NN NN NN NN|BODY_3|0
+a given concrete syntax|DT VBN NN NN|BODY_2|0
+conditions|NNS|BODY_2|0
+now the tptl-formula x|RB DT NN NN|BODY_11|0
+i \gamma|NN FW|BODY_7|0
+a near-optimal decision procedure|DT JJ NN NN|BODY_3|1
+some|DT|BODY_4|0
+subformulas|NNS|BODY_17|0
+freeze quantifiers|NN NNS|BODY_7|0
+\phi iff z|NN NN FW|BODY_35|0
+inner ) occurrences|JJ -RRB- NNS|BODY_17|0
+the following two conditions|DT VBG CD NNS|BODY_4|0
+the state information|DT NN NN|BODY_10|0
+results|NNS|BODY_16|0
+the transition function|DT NN NN|BODY_12|0
+z ]|FW SYM|BODY_37|0
+at most x|IN JJS SYM|BODY_16|0
+a strictly positive amount|DT RB JJ NN|BODY_15|0
+this section|DT NN|BODY_2|1
+the freeze quantifier binds|DT NN NN NNS|ABSTRACT_5|0
+( 3|-LRB- CD|BODY_2|0
+the form y|DT NN NN|BODY_5|0
+a graph|DT NN|BODY_5|0
+successive intervals|JJ NNS|BODY_15|0
+the following two conjuncts|DT VBG CD NNS|BODY_5|0
+a certain extremely modest relaxation|DT JJ RB JJ NN|BODY_3|0
+a novel quantifier|DT JJ NN|ABSTRACT_3|0
+a syntactic one ( allowing addition|DT JJ CD -LRB- VBG NN|BODY_4|0
+the monotonicity constraint|DT NN NN|BODY_5|0
+nk invariances|NN NNS|BODY_2|0
+one commonly proposed method|CD RB VBN NN|BODY_1|0
+ptl )|NN -RRB-|BODY_11|0
+the state [time|DT NN NN|BODY_4|0
+the standard presentation|DT JJ NN|BODY_2|0
+\phi i+1|NNP NNS|BODY_12:BODY_8|0
+section 3|NN CD|BODY_3|0
+the first argument|DT JJ NN|BODY_5|0
+boolean connectives|JJ NNS|BODY_5|0
+the tableau construction|DT NN NN|BODY_3|0
+the local temporal context (|DT JJ JJ NN -LRB-|BODY_8|0
+size o(nk )|NN NN -RRB-|BODY_9|0
+the ptl-algorithm|DT NN|BODY_2|0
+) so|-RRB- RB|BODY_7|0
+an interpretation|DT NN|BODY_2|0
+n log k|NN NN NN|BODY_9|0
+any time domain ( t|DT NN NN -LRB- NN|BODY_2|0
+the key observation|DT NN NN|BODY_2|0
+recursively splitting the formula oe|RB JJ DT NN NN|BODY_6|0
+the free occurrences|DT JJ NNS|BODY_6|0
+alternative extensions|JJ NNS|BODY_4|0
+the transformation|DT NN|BODY_4|0
+the second state|DT JJ NN|BODY_3|0
+a tptl-formula oe x|DT NN NN NN|BODY_4|0
+again the consistency|RB DT NN|BODY_4|0
+a nondeterministic version|DT JJ NN|BODY_6|0
+several extensions|JJ NNS|BODY_5|0
+no other (|RB JJ -LRB-|BODY_15|0
+a finite structure|DT JJ NN|BODY_6|0
+the largest constant ffi|DT JJS JJ NN|BODY_6|0
+each proposition p|DT NN NN|BODY_7|0
+an environment|DT NN|BODY_12|0
+2 ) equivalent|CD -RRB- NN|BODY_4|0
+which timing constraints|WDT NN NNS|BODY_3|0
+the finite|DT NN|BODY_6|0
+/ 5|NN CD|BODY_6|0
+xctl|NNP|BODY_2|0
+( and limits|-LRB- CC NNS|BODY_4|0
+the time interval time|DT NN NN NN|BODY_11|0
+the specification oe iff|DT NN NN NN|BODY_2|0
+all missing invariances|DT VBG NNS|BODY_4|0
+pspace|NN|BODY_4|0
+vertices|NNS|BODY_7|0
+constant terms|JJ NNS|BODY_2|0
+a state-graph description|DT JJ NN|BODY_6|0
+a finite-model property|DT NN NN|BODY_2|0
+no quantifier prefix|DT NN NN|BODY_2|0
+a p-state|DT NN|BODY_13|0
+its successor states|PRP$ NN NNS|BODY_6|0
+proposition symbols|NN NNS|BODY_3|0
+the rational numbers|DT JJ NNS|BODY_3|0
+the smallest set|DT JJS VBN|BODY_6|0
+the finite sequence 2|DT JJ NN CD|BODY_6|0
+deterministic time linear|JJ NN NN|BODY_5|0
+an algorithmic verification technique|DT JJ NN NN|BODY_2|0
+the instruction 1|DT NN CD|BODY_2|0
+two parts|CD NNS|BODY_4|0
+propositional temporal logic|JJ JJ NN|BODY_3|0
+two natural extensions|CD JJ NNS|BODY_2|0
+a computation \gamma|DT NN NN|BODY_9|0
+the configurations|DT NNS|BODY_2|0
+arbitrary formulas|JJ NNS|BODY_8|0
+the same|DT JJ|BODY_6|0
+the set c oe|DT NN NN NN|BODY_14|0
+a unary function|DT JJ NN|BODY_10|0
+infinite paths|JJ NNS|BODY_6|0
+the description|DT NN|BODY_3|0
+theorem 2|NN CD|BODY_2|0
+a closure set|DT NN NN|BODY_3|0
+the specification oe|DT NN NN|BODY_2|0
+any two given points|DT CD VBN NNS|BODY_8|0
+n \delta log n|RB JJ NN RB|BODY_6|0
+both absolute time references|DT JJ NN NNS|BODY_2|0
+the initial tape contents|DT JJ NN NNS|BODY_2|0
+only closed formulas|RB JJ NNS|BODY_2|0
+the following abbreviations|DT VBG NNS|BODY_2|0
+the ( closed ) tptl-formula oe|DT -LRB- JJ -RRB- NN NN|BODY_3|0
+timed state graphs )|VBD NN NNS -RRB-|BODY_8|0
+the infinite path|DT JJ NN|BODY_2|0
+the specified terms|DT VBN NNS|BODY_26|0
+the t and doubly exponential|DT NN CC RB JJ|BODY_7|0
+the sizes|DT NNS|BODY_5|0
+different notions|JJ NNS|BODY_1|0
+precisely those first-order temporal formulas|RB DT JJ JJ NNS|BODY_2|0
+both finite state graphs|DT JJ NN NNS|BODY_6|0
+certain fairness conditions|JJ NN NNS|BODY_8|0
+fl/ 2 closure|NN CD NN|BODY_8|0
+/ 2 closure|NN CD NN|BODY_15|0
+the constant|DT JJ|BODY_15|0
+false|JJ|BODY_18|0
+nondeterministic singly exponential space|JJ RB JJ NN|BODY_3|0
+lemma 5|NN CD|BODY_2|0
+theorem 5|VBG CD|BODY_7|0
+other words|JJ NNS|BODY_15|0
+this condition|DT NN|BODY_6|0
+2/ 2 closure ( oe)|CD CD NN -LRB- NN|BODY_10|0
+a straightforward induction|DT JJ NN|BODY_16|0
+a sufficiently succinct formula oe x|DT RB JJ NN NN SYM|BODY_4|0
+all the congruence predicates|PDT DT NN NNS|BODY_9|0
+at most 10 (|IN JJS CD -LRB-|BODY_5|0
+the terms|DT NNS|BODY_9|0
+the formula oe(|DT NN JJ|BODY_9|0
+arbitrary dense time|JJ JJ NN|BODY_15|0
+at most 10|IN JJS CD|BODY_9|0
+unspecified|JJ|BODY_8|0
+a dense linear order|DT JJ NN NN|BODY_8|0
+the (unique ) computation|DT NN -RRB- NN|BODY_6|0
+t ( oe)|NN -LRB- NN|BODY_3|0
+a global clock|DT JJ NN|BODY_7|0
+the intended effect|DT JJ NN|BODY_7|0
+no|DT|BODY_3|0
+itself|PRP|BODY_5|0
+a time-difference proposition prev ffi or prev -0|DT NN NN RB JJ CC RB NN|BODY_3|0
+r|NN|BODY_6|0
+the important decidability and complexity questions|DT JJ NN CC NN NNS|BODY_5|0
+pro- cedure|RB NN|BODY_6|0
+the complementary problem|DT JJ NN|BODY_2|0
+closure( oe)|JJ NN|BODY_5|0
+z ] results|FW SYM NNS|BODY_14|0
+the following conditions|DT VBG NNS|BODY_4|0
+any state|DT NN|BODY_15|0
+no variable|DT JJ|BODY_4|0
+wme92]|NNS|BODY_6|0
+let p|VB NN|BODY_1|0
+a request p|DT NN NN|BODY_9|0
+floe r|NN NN|BODY_5|0
+lemma 6 ( 1|NN CD -LRB- CD|BODY_2|0
+neither|DT|BODY_1|0
+oe(|JJ|BODY_5|0
+a finite state graph t|DT JJ NN NN NN|BODY_2|0
+the temporal-logic specification|DT JJ NN|BODY_4|0
+the constant \delta 2 n|DT JJ NN CD NN|BODY_11|0
+their variables|PRP$ NNS|BODY_4|0
+k oe|NN NN|BODY_2|0
+the accepting state f|DT VBG NN NN|BODY_16|0
+all conditions|DT NNS|BODY_4|0
+the time interval [2|DT NN NN NN|BODY_12|0
+ whenever|RB WRB|BODY_7|0
+ x|IN NN|BODY_5|0
+every variable|DT JJ|BODY_9|1
+\theta t|JJ NN|BODY_3|0
+the tableau product t|DT NN NN NN|BODY_7|0
+/ 2 \phi i iff ae|JJ CD NNP FW NN NNS|BODY_5|0
+the expspace-complete real-time temporal logic|DT JJ NN JJ NN|BODY_6|0
+no infinite path|DT JJ NN|BODY_4|0
+fl oe r|NN NN NN|BODY_7|0
+a tptl-formula oe m|DT NN NN NN|BODY_2|0
+precisely this restriction|RB DT NN|BODY_2|0
+this restriction|DT NN|BODY_2|0
+all all formulas z|DT DT NNS FW|BODY_3|0
+the pair ( ae|DT NN -LRB- NNS|BODY_1|0
+the closure set|DT NN NN|BODY_2:BODY_1|0
+identical times )|JJ NNS -RRB-|BODY_5|0
+all references|DT NNS|BODY_5|0
+the variables x and y|DT NNS NN CC NN|BODY_26|0
+ptl.|VBG|BODY_5|0
+particular , p 0|JJ , JJ CD|BODY_1|0
+that ae model|DT NNS NN|BODY_2|0
+the initial tableau t ( oe|DT JJ NN NN -LRB- NN|BODY_8|0
+[emss89]|NNS|BODY_5|0
+the e)|DT NN|BODY_5|0
+each vertex ( '|DT NN -LRB- ''|BODY_1|0
+t ( oe)-vertices|RB -LRB- NNS|BODY_11|0
+the first-order temporal formula|DT JJ JJ NN|BODY_13|0
+sub|NN|BODY_7|0
+length 1|NN CD|BODY_15|0
+machines|NNS|BODY_10|0
+true and false|JJ CC JJ|BODY_13|0
+the following operation sub|DT VBG NN NN|BODY_11|0
+ost90|CD|BODY_30|0
+the execution|DT NN|BODY_1|0
+algorithmic verification|JJ NN|BODY_8|0
+any variable z|DT JJ FW|BODY_7|0
+the constants|DT NNS|BODY_7|0
+rtctl|NNP|BODY_1|0
+hlp90]|NN|BODY_5|0
+proper consecution|JJ NN|BODY_1|0
+the two counters c|DT CD NNS NN|BODY_6|0
+\theta t ( oe|JJ NN -LRB- NN|BODY_3|0
+fl m )|NN NN -RRB-|BODY_6|0
+a discrete clock|DT JJ NN|BODY_9|0
+the two structures|DT CD NNS|BODY_3|0
+1 logics|CD NNS|BODY_5|0
+a constant|DT JJ|BODY_3|0
+4.4 dense tptl|CD JJ JJ|BODY_1|0
+recent results|JJ NNS|BODY_7|0
+the extra exponential|DT JJ NN|BODY_1|0
+the state variable|DT NN JJ|BODY_4|0
+checking satisfiability|VBG NN|BODY_4|0
+many ways|JJ NNS|BODY_5|0
+their guidance|PRP$ NN|BODY_4|0
+a compromise|DT NN|BODY_1|0
+[expspace-hardness|NN|BODY_13|0
+a specification|DT NN|BODY_9|0
+the desired properties|DT VBN NNS|BODY_4|0
+a dense time domain )|DT JJ NN NN -RRB-|BODY_7|0
+its elementary complexity|PRP$ JJ NN|BODY_22|0
+mp92]|NN|BODY_8|0
+the constant d )|DT JJ NN -RRB-|BODY_8|0
+d 2 n|VBN CD NN|BODY_14|0
+such a oe-path|JJ DT NN|BODY_1|0
+information|NN|BODY_5|0
+the splitting|DT NN|BODY_1|0
+a real-time specification language|DT JJ NN NN|BODY_6|0
+polynomial-time reduction )|JJ NN -RRB-|BODY_6|0
+ptl [gpss80]|NN NN|BODY_3|0
+the time-difference propositions|DT NN NNS|BODY_8|0
+all loops|DT NNS|BODY_1|0
+the first part|DT JJ NN|BODY_1|0
+the tableau-based satisfiability algorithm|DT JJ NN NN|BODY_1|0
+( 4 )|-LRB- CD -RRB-|BODY_7|0
+4 [expspace]|CD NN|BODY_3|0
+4 undecidable real-time properties|CD JJ JJ NNS|BODY_1|0
+2.3 tptl|CD NN|BODY_1|0
+3.1 decision procedure|CD NN NN|BODY_1|0
+a proposition z|DT NN FW|BODY_1|0
+losing decidability|VBG NN|BODY_13|1
+preliminary assumptions|JJ NNS|BODY_1|0
+the given formula|DT VBN NN|BODY_6|1
+this stepwise procedure|DT NN NN|BODY_1|0
+verification algorithms|NN NNS|BODY_3|0
+' c /|POS NN NNS|BODY_7|0
+initiality oe 2 \phi 0|NN NN CD NNP CD|BODY_6|0
+the desired :oe-path|DT VBN NN|BODY_3|0
+tableau decision|NN NN|BODY_1|0
+? c|. NN|BODY_6|0
+let x|VB NN|BODY_1|0
+needed [ wol83]|VBN NN NN|BODY_9|0
+the configuration|DT NN|BODY_1|0
+the desired dense-tptl formula oe m|DT VBN JJ NN NN NN|BODY_15|0
+a standard complexity-theoretic argument|DT JJ JJ NN|BODY_1|0
+0 such|CD JJ|BODY_1|0
+any prefix|DT NN|BODY_8|0
+the first i elements|DT JJ IN NNS|BODY_8|0
+2. oe|DT NN|BODY_1|0
+the significance|DT NN|BODY_1|0
+both the size|PDT DT NN|BODY_1|0
+[ah90] )|NN -RRB-|BODY_8|0
+\sigma 1 [hps83]|NN CD NN|BODY_7|0
+x )|NN -RRB-|BODY_10|0
+infinitely many new conditions|RB JJ JJ NNS|BODY_15|0
+t 2|NN CD|BODY_13|0
+state sequence ae|NN NN NNS|BODY_3|0
+4.1|CD|BODY_1|0
+our choice|PRP$ NN|BODY_14|0
+the truth value|DT NN NN|BODY_1|0
+the variables|DT NNS|BODY_7|0
+associated times|JJ NNS|BODY_15|0
+the procedure|DT NN|BODY_1|0
+the remaining state graph|DT VBG NN NN|BODY_1|0
+the initial time|DT JJ NN|BODY_10|0
+the complete graph|DT JJ NN|BODY_1|0
+the time-difference proposition prev -0|DT NN NN NN NN|BODY_5|0
+time 10|NN CD|BODY_11|0
+an earlier version|DT JJR NN|BODY_1|0
+all runs|DT NNS|BODY_1|0
+\phi 2|NNP CD|BODY_27|0
+for all i|IN DT FW|BODY_4|0
+the timed state sequence|DT VBN NN NN|BODY_4|0
+the practitioner|DT NN|BODY_1|0
+our objective|PRP$ NN|BODY_1|0
+a highly undecidable logic|DT RB JJ NN|BODY_6|0
+distant contexts|JJ NNS|BODY_9|0
+zero|CD|BODY_14|0
+a single unary predicate|DT JJ JJ NN|BODY_14|0
+copying|NN|BODY_5|0
+countable models|JJ NNS|BODY_20|0
+the same models|DT JJ NNS|BODY_3|0
+two formulas|CD NNS|BODY_1|0
+\gamma|NN|BODY_16|0
+the explicit quantification|DT JJ NN|BODY_1|0
+subsequent p-states increases|JJ NNS NNS|BODY_6|0
+2.1|CD|BODY_1|0
+let c|VB NN|BODY_1|0
+lemma 6|FW CD|BODY_1|0
+alternative approaches|JJ NNS|BODY_1|0
+the time difference ffi|DT NN NN NN|BODY_8|0
+4.2 encoding computations|CD VBG NNS|BODY_1|0
+lemma 8 ( complexity|FW CD -LRB- NN|BODY_1|0
+such an m|PDT DT NN|BODY_1|0
+the recursive predicate g|DT JJ NN NN|BODY_3|0
+the respective satisfiability problems|DT JJ NN NNS|BODY_6|0
+the predecessor state|DT NN NN|BODY_11|0
+ffi 62 \phi j|NN CD NNP RB|BODY_7|0
+tptl ) ( 1 ) [correctness ]|JJ -RRB- -LRB- CD -RRB- NN NN|BODY_3|0
+a structure|DT NN|BODY_1|0
+lemma 3 ( length|NN CD -LRB- NN|BODY_1|0
+an analogous fashion|DT JJ NN|BODY_22|0
+oe 0 oe 0|NN CD NN CD|BODY_5|0
+these logics|DT NNS|BODY_1|0
+the resulting additional ( padding ) states|DT VBG JJ -LRB- NN -RRB- NNS|BODY_7|0
+the predecessor|DT NN|BODY_6|0
+time y|NN RB|BODY_21|0
+the location counter being|DT NN NN NN|BODY_5|0
+its time|PRP$ NN|BODY_21|0
+a recursive predicate g [hps83]|DT JJ NN NN NN|BODY_11|0
+oe-paths )|NNS -RRB-|BODY_8|0
+our definition|PRP$ NN|BODY_1|0
+this reduction|DT NN|BODY_1|0
+3 ( model|CD -LRB- NN|BODY_1|0
+the untimed case [lp84]|DT NNP NN NN|BODY_6|0
+:= z ] 2|FW FW FW CD|BODY_6|0
+different states|JJ NNS|BODY_12|1
+different system states|JJ NN NNS|BODY_4|0
+the availability|DT NN|BODY_1|0
+any propositions|DT NNS|BODY_3|0
+its successor|PRP$ NN|BODY_12|0
+this eventuality|DT NN|BODY_1|0
+the entire time domain|DT JJ NN NN|BODY_21|0
+nonnegative integers|JJ NNS|BODY_5|0
+fairness|NN|BODY_1|0
+the expspace|DT NN|BODY_1|0
+the negated formula|DT JJ NN|BODY_3|0
+the successor state )|DT NN NN -RRB-|BODY_13|0
+a subset \phi|DT JJ NN|BODY_1|0
+a time sequence|DT NN NN|BODY_6|0
+-, its negation|JJ PRP$ NN|BODY_5|0
+two specified instructions|CD JJ NNS|BODY_5|0
+6 ( presburger tptl|CD -LRB- NN NN|BODY_1|0
+? t|. NN|BODY_23|0
+the subsets|DT NNS|BODY_1|0
+moshe vardi and joe halpern|RBS JJ CC JJ NN|BODY_1|0
+the obvious way|DT JJ NN|BODY_3|0
+( 3 ) )|-LRB- CD -RRB- -RRB-|BODY_11|0
+the smallest|DT JJS|BODY_8|0
+a tptl-specification|DT NN|BODY_4|0
+definition 4 ( timed state graph|NN CD -LRB- VBN NN NN|BODY_1|0
+these|DT|BODY_1|0
+every subformula|DT NN|BODY_21|0
+section 4 )|NN CD -RRB-|BODY_4|0
+ffi|NN|BODY_11|0
+a notational extension|DT JJ NN|BODY_1|0
+explicit time references|JJ NN NNS|BODY_6|0
+the next operator|DT JJ NN|BODY_7|0
+the finitely many congruence classes|DT RB JJ NN NNS|BODY_6|0
+this result|DT NN|BODY_1|1
+10 )|CD -RRB-|BODY_9|0
+either addition|DT NN|BODY_1|0
+order|NN|BODY_8|0
+several attempts|JJ NNS|BODY_1|0
+the monotonicity|DT NN|BODY_1|0
+vice versa|NN NN|BODY_12|0
+each input x|DT NN NN|BODY_1|0
+most m+ 1|JJS NNS CD|BODY_7|0
+lemma 7 ( tableau product|NN CD -LRB- NN NN|BODY_1|0
+s.|VBG|BODY_2|0
+1 ( deciding tptl|CD -LRB- VBG NN|BODY_1|0
+dynamic logic [pra80]|JJ NN NN|BODY_7|0
+at most one variable|IN JJS CD JJ|BODY_4|0
+let oe(x|VB NN|BODY_1|0
+:oe.|VBG|BODY_13|0
+this lemma|DT NN|BODY_1|0
+( oe )|-LRB- NN -RRB-|BODY_7|0
+a location|DT NN|BODY_4|0
+the next formula flp|DT JJ NN NN|BODY_1|0
+states oe|NNS NN|BODY_11|0
+2 ( complexity|CD -LRB- NN|BODY_1|0
+2.2 syntax and semantics|CD NN CC NNS|BODY_1|0
+3.2 complexity|CD NN|BODY_1|0
+7 ( dense tptl|CD -LRB- JJ NN|BODY_1|0
+\sigma 1 -complete|NNP CD JJ|BODY_7|0
+definition 3 ( semantics|NN CD -LRB- NNS|BODY_1|0
+our logic|PRP$ NN|ABSTRACT_1|0
+several generalizations|JJ NNS|ABSTRACT_1|0
+the validity problems|DT NN NNS|BODY_1|0
+no absolute time refer- ences|DT JJ NN NNS NNS|BODY_5|0
+0i|CD|BODY_7|0
+the initial configuration ( p|DT JJ NN -LRB- NN|BODY_1|0
+both conditions|DT NNS|BODY_1|0
+its final tableau|PRP$ JJ NN|BODY_4|0
+specification languages|NN NNS|BODY_1|0
+its second projection|PRP$ JJ NN|BODY_6|0
+the desired form|DT VBN NN|BODY_7|0
+lemma 5 ( bounded time increase|NN CD -LRB- VBN NN NN|BODY_1|0
+m vertices|NN NNS|BODY_7|0
+the given timed state graph t|DT VBN VBD NN NN NN|BODY_1|0
+the base cases|DT NN NNS|BODY_5|0
+each location|DT NN|BODY_1|0
+a linear temporal logic|DT NN JJ NN|BODY_4|0
+4.3 presburger tptl|CD NN NN|BODY_1|0
+a corollary|DT NN|BODY_1|0
+a particular syntax|DT JJ NN|BODY_1|0
+a simple observation|DT JJ NN|BODY_6|0
+any such|DT JJ|BODY_1|0
+both assumptions|DT NNS|BODY_2|0
+our main results|PRP$ JJ NNS|BODY_1|1
+the algorithm|DT NN|BODY_1|0
+the following result|DT VBG NN|BODY_3|0
+the proof technique|DT NN NN|BODY_1|0
+the resulting logic|DT VBG NN|BODY_2|0
+the same lines|DT JJ NNS|BODY_1|0
+this subsection|DT NN|BODY_1|0
+this time|DT NN|BODY_1|0
+( /|-LRB- NN|BODY_4|0
+/ c|NN NN|BODY_9|0
+2/ 2 \phi i|CD CD VBN NN|BODY_5|0
+accepting|VBG|BODY_16|0
+a constant c|DT JJ NN|BODY_6:BODY_1|0
+another time point|DT NN NN|BODY_11|0
+two exponentials larger than oe.|CD NNS JJR IN $|BODY_9|0
+a concise and readable notation|DT NN CC JJ NN|BODY_6|0
+an arbitrary amount|DT JJ NN|BODY_8|0
+any oe-paths|DT NNS|BODY_8|0
+every \phi i|DT NNP FW|BODY_3|0
+instruction|NN|BODY_9|0
+its negation|PRP$ NN|BODY_7|0
+the consistency rules|DT NN NNS|BODY_1|0
+a particular state|DT JJ NN|BODY_11|1
+the local temporal context|DT JJ JJ NN|ABSTRACT_8:BODY_7|0
+a pspace-complete decision problem|DT JJ NN NN|BODY_6|0
+o(jt vertices|JJ NNS|BODY_9|0
+oe 2 \phi 0|NN CD NNP CD|BODY_1|0
+3 ( r ) copies r-states|CD -LRB- NN -RRB- NNS NNS|BODY_18|0
+a k-bounded model|DT JJ NN|BODY_9|0
+all timed state sequences|DT VBN NN NNS|BODY_7|0
+any environment e|DT NN NN|BODY_7|0
+any timed state sequence ae|DT VBD NN NN NNS|BODY_1|0
+certain infinite paths|JJ JJ NNS|BODY_5|0
+every variable-free term c|DT JJ NN NN|BODY_4|0
+no timing constraints|DT NN NNS|BODY_8|0
+the finite initial tableau|DT NN JJ NN|BODY_3|0
+the predicate symbol j c|DT NN NN JJ NN|BODY_7|0
+let k|VB NN|BODY_1|0
+this question|DT NN|BODY_1|0
+a recurring computation iff|DT VBG NN NN|BODY_5|0
+the crucial property|DT JJ NN|BODY_1|0
+the following two first-order axioms|DT VBG CD JJ NNS|BODY_13|0
+valid|JJ|BODY_8|0
+a model ae|DT NN NNS|BODY_1|0
+( 2 ) [completeness ]|-LRB- CD -RRB- NN NN|BODY_1|0
+a really temporal logic|DT RB JJ NN|TITLE_1|0
+additional temporal operators|JJ JJ NNS|BODY_1|0
+the tableau product 4|DT NN NN CD|BODY_1|0
+the temporal operators|DT JJ NNS|BODY_1|0

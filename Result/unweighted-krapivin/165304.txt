@@ -1,0 +1,976 @@
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|1
+which|WDT|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:ABSTRACT_7:BODY_7:BODY_8|0
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+this|DT|BODY_2:BODY_1:BODY_3|0
+the mux|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the muxes|DT NNS|BODY_5:BODY_2:BODY_3:BODY_4|0
+all|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_9|0
+xtv|NNP|BODY_1:BODY_2:BODY_3|0
+a client|DT NN|BODY_1:BODY_2:BODY_3|0
+a mux|DT NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+the late connection problem|DT JJ NN NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the client|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7|0
+they|PRP|BODY_1:BODY_3:BODY_4:BODY_8|0
+that|WDT|BODY_5:BODY_3:BODY_4:BODY_8|0
+xmx|NN|BODY_6:BODY_5:BODY_1:BODY_2|1
+xmux|RP|BODY_1:BODY_2:BODY_3|0
+the floor|DT NN|BODY_2:BODY_3:BODY_4|0
+shx-dfki|NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+us|PRP|BODY_6:BODY_5:BODY_2:BODY_4|0
+the other muxes|DT JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the application|DT NN|BODY_6:BODY_5:BODY_1:BODY_2|0
+sharedx|NN|BODY_6:BODY_1:BODY_2:BODY_3|0
+clients|NNS|BODY_2:BODY_1:BODY_4:BODY_10:BODY_8|0
+events|NNS|BODY_5:BODY_2:BODY_3:BODY_4|0
+a list|DT NN|BODY_2:BODY_4|0
+each|DT|BODY_3:BODY_4|0
+errors|NNS|BODY_2:BODY_3:BODY_7:BODY_8|0
+the result|DT NN|BODY_2:BODY_1:BODY_3|0
+servers|NNS|BODY_5:BODY_2:BODY_3:BODY_7|0
+source code|NN NN|BODY_2:BODY_3:BODY_4|0
+users|NNS|BODY_1:BODY_3:BODY_4|0
+the source code|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3|0
+one|CD|BODY_5:BODY_2:BODY_1:BODY_4|0
+shx-1|CD|BODY_2:BODY_1:BODY_3|0
+framemaker|NN|BODY_5:BODY_1:BODY_4|0
+the window|DT NN|BODY_6:BODY_3:BODY_8|0
+this paper|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1|0
+the best choice|DT JJS NN|BODY_2:BODY_3|0
+the only mux|DT JJ NN|BODY_1:BODY_2|0
+support|NN|BODY_6:BODY_2:BODY_4|0
+the server|DT NN|BODY_6:BODY_5:BODY_1:BODY_4|0
+the jvtos project|DT NNS NN|BODY_11:BODY_4|1
+the developers|DT NNS|BODY_1:BODY_2|0
+the user|DT NN|BODY_5:BODY_1:BODY_3|0
+the fact|DT NN|BODY_1:BODY_2|0
+the x window system|DT NN NN NN|BODY_5:BODY_1:BODY_4|0
+this test|DT NN|BODY_2:BODY_3|0
+a solution|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+client|NN|BODY_1:BODY_7:BODY_9|0
+the mux handle|DT NN NN|BODY_2|0
+heterogeneous servers|JJ NNS|BODY_1:BODY_3:BODY_4:BODY_9|0
+the x protocol|DT NN NN|BODY_5:BODY_1:BODY_2|0
+the shxbridge|DT NN|BODY_1:BODY_2:BODY_7|0
+the university|DT NN|BODY_5:BODY_4|0
+a set|DT NN|BODY_5:BODY_2|0
+dialogue boxes|NN NNS|BODY_2:BODY_3|0
+xeyes|NNS|BODY_6:BODY_1|0
+project|NN|BODY_6:BODY_4|0
+the lecturer|DT NN|BODY_2:BODY_4|0
+the floor holder|DT NN NN|BODY_6:BODY_2:BODY_1|0
+development|NN|BODY_2:BODY_3:BODY_4|0
+4.2|CD|BODY_5:BODY_4|0
+the test suite|DT NN NN|BODY_1:BODY_2:BODY_4|0
+most|RBS|BODY_16:BODY_2|0
+functionality|NN|BODY_3|0
+xtv/2|NNP|BODY_18:BODY_2:BODY_1|0
+all servers|DT NNS|BODY_1:BODY_3|0
+the number|DT NN|BODY_2:BODY_4|0
+brown university|JJ NN|BODY_1:BODY_3|0
+the test suites|DT NN NNS|BODY_6:BODY_2:BODY_4|0
+use|NN|BODY_5:BODY_2|0
+a user|DT NN|BODY_2:BODY_3|0
+x|SYM|BODY_3:BODY_14|0
+the tested muxes|DT VBN NNS|BODY_5:BODY_2:BODY_3|0
+the contrib section|DT NN NN|BODY_2|0
+the shape extensions|DT NN NNS|BODY_5:BODY_1:BODY_4|0
+the master|DT NN|BODY_6:BODY_2:BODY_4|0
+a user interface|DT NN NN|BODY_5:BODY_2|0
+)|-RRB-|BODY_3:BODY_9|0
+a lot|DT NN|BODY_2:BODY_3|0
+the mit|DT NN|BODY_2:BODY_3|0
+those|DT|BODY_5:BODY_4|0
+the system|DT NN|BODY_2:BODY_4|0
+91|CD|BODY_6:BODY_2|0
+the exception|DT NN|BODY_2:BODY_4|0
+joint viewing|JJ NN|BODY_6:BODY_4|0
+this section|DT NN|BODY_2:BODY_1:BODY_4|0
+its servers|PRP$ NNS|BODY_5:BODY_2|0
+a graphical user interface|DT JJ NN NN|BODY_2|0
+the chairman|DT NN|BODY_3|0
+the original server|DT JJ NN|BODY_6:BODY_10|0
+a new server|DT JJ NN|BODY_3|0
+color|NN|BODY_1:BODY_3:BODY_4|0
+xterm|NN|BODY_2:BODY_3|0
+shx-ucl|NN|BODY_2:BODY_1|0
+an application|DT NN|BODY_5:BODY_2:BODY_1|0
+its server|PRP$ NN|BODY_6:BODY_2:BODY_4|0
+the code|DT NN|BODY_2:BODY_1|0
+a mix|DT NN|BODY_2:BODY_3|0
+a computer-supported cooperative work|DT JJ JJ NN|BODY_2:ABSTRACT_3|0
+any|DT|BODY_4|0
+paste|NN|BODY_2:BODY_3|0
+all versions|DT NNS|BODY_1:BODY_3|0
+.e|NN|BODY_4:BODY_7|0
+a series|DT NN|BODY_2|0
+this action|DT NN|BODY_2:BODY_1|0
+the servers|DT NNS|BODY_5:BODY_2|0
+connection|NN|BODY_1:BODY_3|0
+the list|DT NN|BODY_6:BODY_4|0
+a twm-like window manager|DT JJ NN NN|BODY_2|0
+application sharing|NN NN|BODY_2|0
+interacts|NNS|BODY_2|0
+its user|PRP$ NN|BODY_3|0
+lines|NNS|BODY_3|0
+number|NN|BODY_2|0
+pixmaps|NNS|BODY_3|0
+several users|JJ NNS|BODY_3|0
+such an approach|PDT DT NN|BODY_1|0
+test handling|NN NN|BODY_2|0
+the documentation|DT NN|BODY_3|0
+this functionality|DT NN|BODY_2|0
+color depths|NN NNS|BODY_15:BODY_1|0
+a much larger feature set entered alpha test|DT RB JJR NN NN VBN NN NN|BODY_2|0
+a single x window system client|DT JJ NN NN NN NN|ABSTRACT_2|0
+a stable|DT JJ|BODY_2|0
+a word processing program|DT NN NN NN|BODY_2|0
+better color support|JJR NN NN|BODY_2|0
+mouse event filtering|NN NN NN|BODY_2|0
+new applications or changes|JJ NNS CC NNS|BODY_2|0
+the full window|DT JJ NN|BODY_2|0
+this library|DT NN|BODY_2|0
+yes no|RB DT|BODY_2|0
+cio|NN|BODY_3|0
+the slaves|DT NNS|BODY_3|0
+shapes|NNS|BODY_5:BODY_1|0
+child window|NN NN|BODY_6:BODY_1|0
+the results|DT NNS|BODY_1:BODY_2|0
+server types|NN NNS|BODY_12:BODY_1|0
+a normal server|DT JJ NN|BODY_1:BODY_2|0
+the research community|DT NN NN|BODY_6:BODY_5|0
+our evaluation|PRP$ NN|BODY_1:BODY_3|0
+cscw) environment|JJ NN|ABSTRACT_4:BODY_3|0
+as is|RB VBZ|BODY_4|0
+elimination shx-dfki|NN NN|BODY_2|0
+these|DT|BODY_1:BODY_2|0
+the session|DT NN|BODY_5:BODY_2|0
+the products|DT NNS|BODY_3:BODY_4|0
+the car multimedia|DT NN NNS|BODY_3|0
+applications|NNS|BODY_1:BODY_2|0
+michael frass|NN NN|BODY_2|0
+wladimir minenko|NNP NN|BODY_5|0
+an x client|DT NN NN|BODY_5:BODY_2|0
+g-nter schulze|JJ NN|BODY_4|0
+thomas schmidt|DT NN|BODY_3|0
+the master server|DT NN NN|BODY_1:BODY_2:BODY_3|0
+the new server|DT JJ NN|BODY_2:BODY_8|0
+the client/server connection|DT NN NN|BODY_2:BODY_3|0
+jvtos|NNS|ABSTRACT_5:BODY_1|0
+1 participation|CD NN|BODY_2|0
+all windows|DT NNS|BODY_2|0
+the swiss confederation|DT NN NN|BODY_4|0
+top-level|JJ|BODY_4|0
+both|DT|BODY_1:BODY_2|0
+:2|CD|BODY_9|0
+all screens|DT NNS|BODY_4|0
+full featured|JJ VBN|BODY_9|0
+limit|NN|BODY_4|0
+yields|NNS|BODY_3|0
+each student|DT NN|BODY_8|0
+table 1|NN CD|BODY_1:BODY_2|0
+the authors|DT NNS|BODY_2|0
+window|NN|BODY_1:BODY_4|0
+client requests|NN NNS|BODY_3|0
+this product|DT NN|BODY_2:BODY_3|0
+an x server|DT NN NN|BODY_1:BODY_2|0
+( 3 ) reliable|-LRB- CD -RRB- JJ|BODY_10|0
+elimination|NN|BODY_2|0
+open connects|JJ VBZ|BODY_5|0
+the application window|DT NN NN|BODY_5|0
+the currently available muxes|DT RB JJ NNS|BODY_10|0
+every server|DT NN|BODY_5:BODY_8|0
+only a few lines|RB DT JJ NNS|BODY_5|0
+a computer|DT NN|BODY_9|0
+plenty|NN|BODY_2|0
+everything|NN|BODY_8|0
+xmux [mcfarlane|NN NN|BODY_5|0
+all users|DT NNS|BODY_2:BODY_4|0
+source code examples|NN NN NNS|BODY_3|0
+(xtv )|NNP -RRB-|BODY_2|0
+itself|PRP|BODY_1:BODY_2:BODY_3|0
+its large source code size|PRP$ JJ NN NN NN|BODY_2|0
+the ucl version|DT JJ NN|BODY_5:BODY_1|0
+a new mux|DT JJ NN|BODY_6|0
+a server|DT NN|BODY_3|0
+'|''|BODY_6|0
+the construction|DT NN|ABSTRACT_2|0
+a conditional pass|DT JJ NN|BODY_5|0
+the motivation|DT NN|BODY_4|0
+issues|NNS|BODY_5|0
+xlib|NNP|BODY_8|0
+crash|NN|BODY_7|0
+our test results|PRP$ NN NNS|BODY_1:BODY_3|0
+a color application|DT NN NN|BODY_3|0
+the xlib implementation|DT NN NN|BODY_5|0
+these products|DT NNS|BODY_4:BODY_7|0
+dermler 92]|NN NNS|BODY_6|0
+other comparative results|JJ JJ NNS|BODY_2|0
+the other pseudo servers|DT JJ NN NNS|BODY_3|0
+a host|DT NN|BODY_3|0
+a muxmay|DT NN|BODY_5|0
+this problem|DT NN|BODY_2|0
+john bazik|NN NN|BODY_2|0
+the source code copyright|DT NN NN NN|BODY_2|0
+an 8bit-color display|DT JJ NN|BODY_4|0
+a session number|DT NN NN|BODY_4|0
+late connection|JJ NN|BODY_1:BODY_8|0
+technology|NN|BODY_7|0
+the standard x library|DT JJ NNP NN|BODY_7|0
+the various products|DT JJ NNS|BODY_4|0
+a test|DT NN|BODY_2|0
+researchers|NNS|BODY_3|0
+two releases|CD NNS|BODY_4|0
+drawing windows|VBG NNS|BODY_4|0
+( jvtos|-LRB- NNS|BODY_5|0
+less color map entries|JJR NN NN NNS|BODY_3|0
+the xterm|DT NN|BODY_2|0
+( shx-1 )|-LRB- NN -RRB-|BODY_2|0
+each server|DT NN|BODY_6:BODY_1|0
+the current x protocol|DT JJ NN NN|BODY_5:BODY_3|0
+race ii|NN NNS|BODY_5|0
+the x window system and sharedx|DT NN NN NN CC NN|BODY_3|0
+michael altenhofen|JJ NN|BODY_3|0
+the partners|DT NNS|BODY_3|0
+the modified xlib|DT VBN NN|BODY_4|0
+( 1 ) freeware|-LRB- CD -RRB- NN|BODY_7|0
+the following|DT VBG|BODY_5|0
+the limit|DT NN|BODY_2|0
+the pop-up|DT NN|BODY_2|0
+north carolina|NN NN|BODY_6|0
+a command socket interface|DT NN NN NN|BODY_2|0
+at least one new problem|IN JJS CD JJ NN|BODY_2|0
+the following command line|DT VBG NN NN|BODY_7|0
+90|CD|BODY_2|0
+the floor control policy|DT NN NN NN|BODY_1|0
+responses|NNS|BODY_6:BODY_1|0
+students|NNS|BODY_6|0
+testing|NN|BODY_5:BODY_4|0
+some problems|DT NNS|BODY_2|0
+its user interface|PRP$ NN NN|BODY_6:BODY_4|0
+windows|NNS|BODY_4|0
+the three test suites|DT CD NN NNS|BODY_3|0
+( 2|-LRB- CD|BODY_8|0
+shx-dfki results|JJ NNS|BODY_4|0
+the os|DT NNS|BODY_3|0
+the same screen location|DT JJ NN NN|BODY_3|0
+its grounding|PRP$ NN|BODY_3|0
+cio work package|NN NN NN|BODY_4|0
+a second server|DT JJ NN|BODY_2|0
+its status|PRP$ NN|BODY_3|0
+the university college|DT NN NN|BODY_2|0
+ideally an application|RB DT NN|BODY_2|0
+xterm -display|NN NN|BODY_8|0
+our more detailed review|PRP$ JJR JJ NN|BODY_2|0
+a class room|DT NN NN|BODY_7|0
+floor passing|NN NN|BODY_2:BODY_3|0
+both protocol and user interface issues|DT NN CC NN NN NNS|BODY_2|0
+our results|PRP$ NNS|BODY_2|0
+several existing x multiplexors|JJ VBG NN NNS|ABSTRACT_2|0
+the proposed architecture|DT VBN NN|BODY_3|0
+'s pop-up menus|POS JJ NNS|BODY_3|0
+the best as|DT JJS IN|BODY_4|0
+this recommendation|DT NN|BODY_2|0
+computer programs|NN NNS|BODY_5|0
+jvtos' application sharing service|JJ NN VBG NN|BODY_4|0
+many color related errors|JJ NN VBN NNS|BODY_2|0
+the mux respond|DT NN NN|BODY_2|0
+another solution|DT NN|BODY_2|0
+two|CD|BODY_5|0
+the internals|DT NNS|BODY_4|0
+all cases|DT NNS|BODY_1|0
+requirements|NNS|BODY_6|0
+chat and sketch windows|NN CC NN NNS|BODY_4|0
+all muxed windows|DT JJ NNS|BODY_6|0
+further work|JJ NN|BODY_4|0
+their mouse button|PRP$ NN NN|BODY_2|0
+miscellaneous server control commands|JJ NN NN NNS|BODY_3|0
+'s developer|POS NN|BODY_2|0
+a cscw environment|DT JJ NN|BODY_2|0
+a more complicated problem|DT RBR JJ NN|BODY_1|0
+a new mux.|DT JJ NN|BODY_2|0
+a preferable solution|DT JJ NN|BODY_1|0
+a single common window size|DT JJ JJ NN NN|BODY_2|0
+a survey|DT NN|TITLE_1|0
+an interesting reference application|DT JJ NN NN|BODY_2|0
+color xfig and framemaker documents|NN NN CC NN NNS|BODY_2|0
+floor control|NN NN|BODY_1|0
+freeware|NN|BODY_2|0
+heterogeneous displays|JJ NNS|BODY_2|0
+its obvious failings xmx|PRP$ JJ NNS NN|BODY_1|0
+non floor-holding users|JJ NN NNS|BODY_2|0
+our insistence|PRP$ NN|BODY_1|0
+paste behaviour|NN NN|BODY_1|0
+the floor control interface work|DT NN NN NN NN|BODY_2|0
+the product|DT NN|BODY_1|0
+the second option|DT JJ NN|BODY_1|0
+the task|DT NN|BODY_1|0
+this collection|DT NN|BODY_1|0
+unwanted responses and events|JJ NNS CC NNS|BODY_2|0
+x protocol multiplexors|NN NN NNS|TITLE_2|0
+xcolors|NNS|BODY_1|0
+sharedx tested|NN VBN|BODY_3|0
+presentation|NN|BODY_4|0
+that code|IN NN|BODY_4|0
+all three versions|DT CD NNS|BODY_2|0
+5 summary|CD NN|BODY_3|0
+the same fashion|DT JJ NN|BODY_2|0
+'s normal server|POS JJ NN|BODY_4|0
+a new set|DT JJ NN|BODY_3|0
+the window manager|DT NN NN|BODY_2:BODY_4|0
+only special cooperation|RB JJ NN|BODY_5|0
+the x server (|DT NN NN -LRB-|BODY_6|0
+client launching and floor control|NN NN CC NN VB|BODY_3|0
+key presses|JJ NNS|BODY_7|0
+a very large amount|DT RB JJ NN|BODY_4|0
+old dominion university|JJ NN NN|BODY_4|0
+the multiplexors|DT NNS|BODY_2|0
+interface|NN|BODY_2|0
+dec )|NN -RRB-|BODY_8|0
+consideration|NN|BODY_3:BODY_4|0
+some|DT|BODY_6|0
+a sparc2|DT NN|BODY_5|0
+its failure|PRP$ NN|BODY_2|0
+this joining process|DT VBG NN|BODY_3|0
+the files|DT NNS|BODY_3|0
+a jointly viewed xterm|DT RB VBN NN|BODY_6|0
+a functionality|DT NN|BODY_5|0
+the concept|DT NN|BODY_3|0
+the pseudo server|DT NN NN|BODY_1:BODY_3|0
+a robustness|DT NN|BODY_6|0
+the design problems|DT NN NNS|BODY_2|0
+display servers and muxes|NN NNS CC NNS|BODY_3|0
+all user actions|DT NN NNS|BODY_2|0
+their core|PRP$ NN|BODY_3|0
+a target machine|DT NN NN|BODY_6|0
+a fail- ure|DT NNS NN|BODY_4|0
+times|NNS|BODY_3|0
+the digital equipment corporation|DT JJ NN NN|BODY_7|0
+the most limited|DT RBS JJ|BODY_2|0
+their designs|PRP$ NNS|BODY_3|0
+the connection kill test|DT NN NN NN|BODY_1:BODY_3|0
+all testing|DT NN|BODY_3|0
+our limited number|PRP$ JJ NN|BODY_2|0
+two more recent versions|CD JJR JJ NNS|BODY_3|0
+computer applications|NN NNS|BODY_2|0
+multiplexed protocol streams|JJ NN NNS|BODY_2|0
+a master thesis project|DT NN NN NN|BODY_3|0
+our first test suite|PRP$ JJ NN NN|BODY_2|0
+sparcs , sun3s and apple maciis|NNS , NN CC NN NN|BODY_4|0
+a standard x window manager|DT NN VBN NN NN|BODY_3|0
+what|WP|BODY_2|0
+as xtv/2 )|RB CD -RRB-|BODY_6|0
+cut&paste|NN|BODY_1:BODY_3|0
+the outdated release 3|DT JJ NN CD|BODY_4|0
+work package|NN NN|BODY_3|0
+sharedx ( shx ) [altenhofen 90]|NN -LRB- NN -RRB- NN NNS|BODY_4|0
+its approach warrants study|PRP$ NN NNS NN|BODY_5|0
+two button|CD NN|BODY_3|0
+his own computer workstation|PRP$ JJ NN NN|BODY_4|0
+them|PRP|BODY_5|0
+every client request|DT NN NN|BODY_4|0
+a normal x server|DT JJ NN NN|BODY_5|0
+the recently distributed second version|DT RB VBN JJ NN|BODY_5|0
+black box functionality tests|JJ NN NN NNS|BODY_3|0
+modifications|NNS|BODY_6|0
+the joint viewing problem|DT JJ NN NN|BODY_6:BODY_3|0
+the use|DT NN|BODY_4|0
+a copy|DT NN|BODY_3|0
+machines|NNS|BODY_3|0
+this interface|DT NN|BODY_2|0
+this original version|DT JJ NN|BODY_2|0
+an overview|DT NN|BODY_2|0
+the computer|DT NN|BODY_3|0
+the xtv|DT NN|BODY_4|0
+a virtual screen feature|DT JJ NN NN|BODY_2|0
+the actual x servers|DT JJ SYM NNS|BODY_3|0
+this requirement|DT NN|BODY_6:BODY_3|0
+x terminal view (xtv ) [abdel-wahab 91]|SYM JJ NN NN -RRB- NN NNS|BODY_3|0
+no commitment|DT NN|BODY_2|0
+this mux|DT NN|BODY_2|0
+one user|CD NN|BODY_5|0
+the helper program|DT NN NN|BODY_2|0
+user activity|NN NN|BODY_6|0
+the twm|DT NN|BODY_2|0
+x servers|NNP NNS|BODY_5|0
+xtetris|NNP|BODY_5|0
+a sun3|DT NN|BODY_4|0
+2.0|CD|BODY_5|0
+'s server|POS NN|BODY_5|0
+siemens/dfki saarbr-cken|JJ NN|BODY_2|0
+a jvtos demonstration prototype sharedx|DT JJ NN NN NN|BODY_4|0
+redraws|NNS|BODY_2|0
+the x11r5 release|DT CD NN|BODY_3|0
+available|JJ|BODY_3|0
+too many tests|RB JJ NNS|BODY_5|0
+the x11r5|DT CD|BODY_4|0
+other servers|JJ NNS|BODY_4|0
+free access|JJ VB|BODY_6|0
+an xtv session|DT VBN NN|BODY_2|0
+the mux display|DT JJ NN|BODY_2|0
+lecture mode|NN NN|BODY_2|0
+such a renovation|JJ DT NN|BODY_7|0
+a super-set|DT NN|BODY_2|0
+a so-called joint viewing and tele-operation service|DT JJ JJ NN CC NN NN|BODY_4|0
+the different instances|DT JJ NNS|BODY_2|0
+many interesting features|JJ JJ NNS|BODY_2|0
+a commercial prod|DT JJ NN|BODY_4|0
+a larger number|DT JJR NN|BODY_2|0
+a lecture support tool|DT NN NN NN|BODY_2|0
+a useful example or base|DT JJ NN CC NN|BODY_6|1
+its behaviour|PRP$ NN|BODY_2|0
+the xfig and framemaker program|DT NN CC NN NN|BODY_2|0
+xtv/ 2|NN CD|BODY_2|0
+our opinion|PRP$ NN|BODY_4|0
+its user interface code|PRP$ NN NN NN|BODY_4|0
+development cause|NN NN|BODY_5|0
+a command line|DT NN NN|BODY_2|0
+a conferencing information service|DT VBG NN NN|BODY_5|0
+a lecture-style policy|DT JJ NN|BODY_2|0
+a token-based model|DT JJ NN|BODY_2|0
+the robustness suite tests exceptional cases|DT NN NN NNS JJ NNS|BODY_2|0
+the universities|DT NNS|BODY_2|0
+the existing muxes|DT VBG NNS|BODY_5|0
+the actions|DT NNS|BODY_5|0
+the others|DT NNS|BODY_3|0
+its best run|PRP$ JJS NN|BODY_5|0
+1.2 )|CD -RRB-|BODY_6|0
+a dash|DT NN|BODY_3|0
+an obvious best choice mux|DT JJ JJS NN NN|BODY_9|0
+a button|DT NN|BODY_5|0
+an 8bit-color sparc2|DT NN NN|BODY_4|0
+the context|DT NN|BODY_2|0
+workstations|NNS|BODY_2|0
+amux|NN|BODY_1|0
+any user|DT NN|BODY_3|0
+this robustness test|DT NN NN|BODY_2|0
+the eyes|DT NNS|BODY_2|0
+any point|DT NN|BODY_2|0
+'s floor control interface|POS NN NN NN|BODY_4|0
+'s source code|POS NN NN|BODY_2|0
+a problem|DT NN|BODY_2|0
+its first version|PRP$ JJ NN|BODY_1:BODY_2|0
+display number|NN NN|BODY_4|0
+menus|NNS|BODY_4|0
+the best performing|DT JJS VBG|BODY_2|0
+improvements|NNS|BODY_4|0
+application windows|NN NNS|BODY_3|0
+a great source|DT JJ NN|BODY_2|0
+a cscw tool|DT NN NN|BODY_7|0
+no one|DT NN|BODY_2|0
+the first version|DT JJ NN|BODY_3|0
+output|NN|BODY_4|0
+this muxes|DT NNS|BODY_4|0
+7.107|CD|BODY_3|0
+a more typical mux pseudo server named shxbridge|DT RBR JJ NN NN NN VBN NN|BODY_3|0
+a new version|DT JJ NN|BODY_1|0
+an x multiplexor|DT NN NN|ABSTRACT_1|0
+anarchy mode|NN NN|BODY_1|0
+both shx-ucl and shx-dfki|DT JJ CC JJ|BODY_1|0
+drawing commands|VBG NNS|BODY_1|0
+existing applications|VBG NNS|BODY_3|0
+january 1993|NN CD|BODY_3|0
+mux|NN|BODY_1|0
+one application|CD NN|BODY_1|0
+protocol errors|JJ NNS|BODY_3|0
+several x servers|JJ NN NNS|ABSTRACT_3|0
+some server|DT NN|BODY_3|0
+the joint viewing system|DT JJ NN NN|BODY_1|0
+the other hand xtv|DT JJ NN NN|BODY_1|0
+the resulting text|DT VBG NN|BODY_3|0
+the testing suites|DT NN NNS|BODY_3|0
+their predecessor shx-1|PRP$ NN NN|BODY_3|0
+three people|CD NNS|BODY_1|0
+title bars|NN NNS|BODY_5|0
+'s dependency|POS NN|BODY_3|0
+conclusions|NNS|BODY_4|0
+shxbridge|NN|BODY_1:BODY_2|0
+the normal freeware conditions (|DT JJ JJ NNS -LRB-|BODY_6|0
+'s value|POS NN|BODY_3|0
+the same manner|DT JJ NN|BODY_2|0
+simply slaves|RB NNS|BODY_4|0
+every release|DT NN|BODY_2|0
+karlsruhe|NN|BODY_5|0
+a machine|DT NN|BODY_3|0
+cooperation-aware applications|NN NNS|BODY_4|0
+issue|NN|BODY_2|0
+its target servers|PRP$ NN NNS|BODY_6|0
+more than six clients|JJR IN CD NNS|BODY_2|0
+the requested actions|DT VBN NNS|BODY_2|0
+part|NN|BODY_2|0
+these bugs|DT NNS|BODY_17|0
+a modified version|DT VBN NN|BODY_2|0
+difficult our survey|JJ PRP$ NN|BODY_8|0
+three services|CD NNS|BODY_2|0
+integration|NN|BODY_3|0
+this combination|DT NN|BODY_2|0
+the other freeware muxes|DT JJ JJ NNS|BODY_5|0
+muxed clients|JJ NNS|BODY_5|0
+floor|NN|BODY_7|0
+such a sequence|JJ DT NN|BODY_2|0
+openwindows|NNS|BODY_4|0
+a slave server|DT NN NN|BODY_3|0
+server|NN|BODY_4|0
+this release|DT NN|BODY_3|0
+the following mux products|DT VBG NN NNS|BODY_2|0
+the users|DT NNS|BODY_5:BODY_1|0
+late joining , good floor passing control|JJ VBG , JJ NN NN NN|BODY_3|0
+'s floor control policy|POS NN NN NN|BODY_2:BODY_4|0
+these versions|DT NNS|BODY_2|0
+jvtos development|NNS NN|BODY_2|0
+each mux|DT NN|BODY_2|0
+the standard xlib|DT JJ NN|BODY_3|0
+the program helper|DT NN NN|BODY_5|0
+inclusion|NN|BODY_10|0
+shxlib|NN|BODY_2|0
+kill connection|VB NN|BODY_10|0
+non-test data|JJ NNS|BODY_3|0
+a second participant intending|DT JJ NN NN|BODY_4|0
+a connection|DT NN|BODY_6|0
+a general session control user interface|DT JJ NN NN NN NN|BODY_4|0
+the freeware muxes|DT JJ NNS|BODY_3|0
+one master user|CD NN NN|BODY_4|0
+the current functionality|DT JJ NN|BODY_3|0
+the resources|DT NNS|BODY_7|0
+such it|JJ PRP|BODY_1|0
+'s dialogues|POS NNS|BODY_2|0
+the ease|DT NN|BODY_5|0
+muxed windows|JJ NNS|BODY_2|0
+direct use|JJ NN|BODY_3|1
++/|FW|BODY_13|0
+the shxlib system|DT NN NN|BODY_3|0
+such contains user interface|JJ VBZ NN NN|BODY_8|0
+only a single connection|RB DT JJ NN|BODY_4|0
+enough detrimental features|RB JJ NNS|BODY_2|0
+none|NN|BODY_1|0
+emacs|NNS|BODY_4|0
+filtering|VBG|BODY_4|0
+properties|NNS|BODY_4|0
+a special program|DT JJ NN|BODY_2|0
+a chaired token passing model|DT JJ JJ NN NN|BODY_2|0
+either lecture or anarchy|DT NN CC NN|BODY_2|0
+this stream|DT NN|BODY_5|0
+x +/|SYM FW|BODY_11|0
+worse|JJR|BODY_3|0
+each slave server|DT NN NN|BODY_5|0
+running macx|VBG NN|BODY_5|0
+no way|DT NN|BODY_2|0
+cscw applications|JJ NNS|BODY_4|0
+an outdated version|DT JJ NN|BODY_2|0
+a pseudo server|DT NN NN|BODY_6|0
+session selection|NN NN|BODY_3|0
+one answer|CD NN|BODY_4|0
+user input|NN NN|BODY_3|0
+product support|NN NN|BODY_3|0
+our copy|PRP$ NN|BODY_4|0
+joint viewing and tele-operation service|JJ NN CC NN NN|ABSTRACT_6|0
+'s|POS|BODY_3|0
+the original authors|DT JJ NNS|BODY_8|0
+information|NN|BODY_4|0
+many small windows|JJ JJ NNS|BODY_2|0
+incorporate x application|JJ NN NN|BODY_2|0
+quests|NNS|BODY_4|0
+re|JJ|BODY_3|0
+solutions|NNS|BODY_2|0
+unmodified x applications|JJ NN NNS|BODY_7|0
+two different machine architectures|CD JJ NN NNS|BODY_3|0
+mux development|NN NN|BODY_3|0
+this application|DT NN|BODY_2|0
+responses and events|NNS CC NNS|BODY_3|0
+test|NN|BODY_1:BODY_4|0
+three test suites|CD NN NNS|BODY_3|0
+exactly the same fashion|RB DT JJ NN|BODY_3|0
+the queue|DT NN|BODY_4|0
+a program|DT NN|BODY_7|0
+our choice|PRP$ NN|BODY_2|0
+details|NNS|BODY_4|0
+the first user|DT JJ NN|BODY_3|0
+over two years|IN CD NNS|BODY_4|0
+many possible responses|JJ JJ NNS|BODY_2|0
+distribution|NN|BODY_3:BODY_4|0
+two options|CD NNS|BODY_3|0
+the changes|DT NNS|BODY_3|0
+the same x display|DT JJ SYM NN|BODY_2|0
+its use|PRP$ VBP|BODY_3|0
+the same location|DT JJ NN|BODY_7|0
+one crash|CD NN|BODY_4|0
+the best support|DT JJS NN|BODY_2|0
+a freeware product|DT NN NN|BODY_3|0
+multiple users|JJ NNS|BODY_2|0
+the technique|DT NN|BODY_3|0
+new applications|JJ NNS|BODY_2|0
+the x protocol specification|DT NN NN NN|BODY_4|0
+dec|NN|BODY_3|0
+fixed locations|JJ NNS|BODY_4|0
+only xtv and shx-dfki|RB NN CC NN|BODY_3|0
+an x server interface|DT NN NN NN|BODY_9|0
+the child window test|DT NN NN NN|BODY_4|0
+three versions|CD NNS|BODY_2|0
+major mux design issues|JJ NN NN NNS|BODY_3|0
+test 4.2 xmux interesting results|NN CD NN JJ NNS|BODY_2|0
+requests|NNS|BODY_3|0
+a new release|DT JJ NN|BODY_4|0
+a related oddity|DT JJ NN|BODY_1|0
+ex|FW|BODY_1|0
+grant|NN|BODY_5|0
+win- dows|DT NNS|BODY_5|0
+the display|DT NN|BODY_6|0
+the only|DT RB|BODY_2|0
+the only mux tested|DT JJ NN VBN|BODY_2|0
+the summary documentation|DT NN NN|BODY_2|0
+unsupported features xmx|JJ NNS NN|BODY_2|0
+any support|DT NN|BODY_8|0
+a different machine|DT JJ NN|BODY_3|0
+such a mux|JJ DT NN|BODY_2|0
+answers|NNS|BODY_2|0
+an xterm|DT NN|BODY_2|0
+a commercial product|DT JJ NN|BODY_2|0
+a more sophisticated interface|DT JJR JJ NN|BODY_4|0
+an unmodified x client|DT JJ SYM NN|BODY_1|0
+each slave|DT NN|BODY_1|0
+mux source code|JJ NN NN|BODY_4|0
+other resources|JJ NNS|BODY_4|0
+resources|NNS|BODY_1|0
+separate workstations|JJ NNS|BODY_4|0
+several advantages|JJ NNS|BODY_3|0
+several problems|JJ NNS|BODY_2|0
+source lines|NN NNS|BODY_1|0
+the dialogue box|DT NN NN|BODY_4|0
+the user interface|DT NN NN|BODY_1|0
+only dependent|RB JJ|BODY_3|0
+reference x resources|NN NN NNS|BODY_3|0
+ucl|NN|BODY_1|0
+the only working solution|DT JJ NN NN|BODY_4|0
+both shxlib and shxbridge|DT NN CC NN|BODY_2|0
+this reason|DT NN|BODY_1|0
+enough information|JJ NN|BODY_4|0
+comparison|NN|BODY_2|0
+which user actions|WDT NN NNS|BODY_5|0
+permission|NN|BODY_4|0
+the other xwedges|DT JJ NNS|BODY_2|0
+the available resources|DT JJ NNS|BODY_4|0
+not one|RB CD|BODY_5|0
+the most promising architecture and feature set|DT RBS JJ NN CC NN NN|BODY_2|0
+the first six clients|DT JJ CD NNS|BODY_5|0
+a somewhat useful measure|DT RB JJ NN|BODY_2|0
+2.2 xmux xmux [mcfarlane|CD NN NN NN|BODY_1|0
+the australian company otc|DT JJ NN NN|BODY_3|0
+j-rg ehrbar|JJ NN|BODY_1|0
+particular assistance|JJ NN|BODY_6|0
+'s position|POS NN|BODY_6|0
+( 4 ) simple , clean and maintainable code|-LRB- CD -RRB- NN , JJ CC JJ NN|BODY_11|0
+a process|DT NN|BODY_6|0
+his desk|PRP$ NN|BODY_10|0
+the process|DT NN|BODY_1|0
+their dissimilarity|PRP$ NN|BODY_11|0
+xmx and/or xtv|NNP CC NNP|BODY_8|0
+a serious child window handling|DT JJ NN NN NN|BODY_3|0
+both shx-dfki and shx-ucl improved color support|DT JJ CC JJ JJ NN NN|BODY_1|0
+the reviewed muxes|DT VBN NNS|BODY_1|0
+a strong pass|DT JJ NN|BODY_7|0
+the twm window manager|DT JJ NN NN|BODY_9|0
+xtv start-up time|VBN JJ NN|BODY_5|0
+the case|DT NN|BODY_1|0
+other actions|JJ NNS|BODY_3:BODY_4|0
+the effected client|DT JJ NN|BODY_2|0
+a monochrome display|DT JJ NN|BODY_5|0
+2.4 sharedx ( shx ) sharedx [altenhofen|CD NN -LRB- NN -RRB- NN NN|BODY_1|0
+( x11r3 versus x11r5 )|-LRB- NN JJ CD -RRB-|BODY_5|0
+source code availability and product architecture|NN NN NN CC NN NN|BODY_6|0
+the new library shxlib|DT JJ NN NN|BODY_9|0
+93]|CD|BODY_7|0
+2.3 x terminal view|CD NN NN NN|BODY_1|0
+92]|CD|BODY_5|0
+key remap|JJ NN|BODY_1|0
+6 acknowledgements|CD VBZ|BODY_1|0
+menu location|NN NN|BODY_1|0
+their original forms|PRP$ JJ NNS|BODY_6|0
+4.4 sharedx ( shx|CD NN -LRB- NN|BODY_1|0
+a heterogeneity test suite|DT NN NN NN|BODY_7|0
+several|JJ|BODY_1|0
+the various tests|DT JJ NNS|BODY_5|0
+a result|DT NN|BODY_1|0
+multi- plexing|NNS NN|BODY_2|0
+their contents|PRP$ NNS|BODY_5|0
+two related flaws|CD JJ NNS|BODY_1|0
+communication|NN|BODY_5|0
+2.1 xmx xmx|CD NN NN|BODY_1|0
+free non-profit use|JJ JJ NN|BODY_3|0
+the three|DT CD|BODY_3|0
+these reasons|DT NNS|BODY_1|0
+2|CD|BODY_1|0
+a serious design weakness|DT JJ NN NN|BODY_6|0
+each connected server|DT JJ NN|BODY_5|0
+a display number|DT NN NN|BODY_7|0
+a tutorial/classroom environment|DT NN NN|BODY_9|0
+3.3 heterogeneity test suite|CD NN NN NN|BODY_1|0
+a lecture or anarchy policy|DT NN CC NN NN|BODY_4|0
+shx-ucl and shx-dfki.|JJ CC POS|BODY_4|0
+cio ( r2060 ) [bauerfeld 92]|FW -LRB- CD -RRB- NN NNS|BODY_7|0
+ucl.|PRP$|BODY_5|0
+floor control commands|NN NN NNS|BODY_1|0
+any host computer|DT NN NN|BODY_6|0
+one solution|CD NN|BODY_1|0
+only one x server|RB CD NN NN|BODY_4|0
+table 2|NN CD|BODY_1|0
+the diversity|DT NN|BODY_1|0
+this pseudo server|DT NN NN|BODY_1|0
+window command|NN NN|BODY_4|0
+a macii|DT NN|BODY_6|0
+its modules|PRP$ NNS|BODY_7|0
+aware applications|JJ NNS|BODY_6|0
+the original version|DT JJ NN|BODY_1|0
+an x protocol multiplexor ( mux)|DT NN NN JJ -LRB- NN|BODY_1|0
+all sharedx versions|DT JJ NNS|BODY_1|0
+mouse movement|NN NN|BODY_8|0
+the default answer|DT NN NN|BODY_1|0
+a development project|DT NN NN|BODY_5|0
+process|NN|BODY_1|0
+xfig ( resource test|NN -LRB- NN NN|BODY_1|0
+such a service|PDT DT NN|ABSTRACT_1|0
+only black and white displays|RB JJ CC JJ NNS|BODY_6|0
+their product|PRP$ NN|BODY_7|0
+current product|JJ NN|BODY_1|0
+items|NNS|BODY_1|0
+the following test items|DT VBG NN NNS|BODY_3|0
+uniform results or testing problems|JJ NNS CC NN NNS|BODY_5|0
+a window|DT NN|BODY_4|0
+lin 92]|NN NNS|BODY_3|0
+chapel hill|NN NN|BODY_7|0
+xfig run|JJ NN|BODY_1|0
+3.1 functionality test|CD NN NN|BODY_1|0
+section 5|NN CD|BODY_1|0
+their usefulness|PRP$ NN|ABSTRACT_3|0
+window resize|NN NN|BODY_1|0
+a rectangular window|DT JJ NN|BODY_3|0
+many existing programs|JJ JJ NNS|BODY_1|0
+new version|JJ NN|BODY_1|0
+the mux program|DT NN NN|BODY_3|0
+their discussions , advice and comments|PRP$ NNS , NN CC NNS|BODY_6|0
+section 4|NN CD|BODY_1|0
+correct behaviour|JJ NN|BODY_1|0
+introduction|NN|BODY_1|0
+a client terminating|DT NN NN|BODY_3|0
+connection kill|NN NN|BODY_1|0
+both stable and full|DT JJ CC JJ|BODY_6|0
+modified x11r3 library code|VBN JJ NN NN|BODY_5|0
+the first server|DT JJ NN|BODY_1|0
+the complete xlib library|DT JJ NN NN|BODY_3|0
+other research groups|JJ NN NNS|BODY_5|0
+two users|CD NNS|BODY_1|0
+a version|DT NN|BODY_1|0
+xfig|NN|BODY_1|0
+problems|NNS|BODY_3|0
+the xtv floor|DT NN NN|BODY_1|0
+xfig and framemaker|NNP CC NN|BODY_7|0
+pseudo server start-up time|NN NN JJ NN|BODY_2|0
+least crashes|JJS NNS|BODY_1|0
+x clients|CD NNS|BODY_3|0
+4.3 xtv|CD NN|BODY_1|0
+a mixed bag|DT JJ NN|BODY_3|0
+both versions|DT NNS|BODY_1|0
+the many clients test|DT JJ NNS NN|BODY_5|0
+the solution|DT NN|BODY_1|0
+displays|NNS|BODY_6|0
+'s functionality|POS NN|BODY_4|0
+a finished thesis project|DT JJ NN NN|BODY_4|0
+requirement two eliminates|NN CD NNS|BODY_1|0
+a research environment|DT NN NN|BODY_4|0
+xmx.|VBG|BODY_3|0
+dialogue box style windows|NN NN NN NNS|BODY_2|0
+4.5 other comparative results table|CD JJ JJ NNS NN|BODY_1|0
+a single application|DT JJ NN|BODY_5|0
+currently available muxes|RB JJ NNS|BODY_4|0
+all user interface activity|DT NN NN NN|BODY_1|0
+many servers|JJ NNS|BODY_1|0
+mux option|NN NN|BODY_5|0
+the factors|DT NNS|BODY_1|0
+event|NN|BODY_6|0
+this size|DT NN|BODY_1|0
+another|DT|BODY_6|0
+floor control policy|NN NN NN|BODY_1|0
+chung 91]|JJ NNS|BODY_4|0
+one major lacking|CD JJ VBG|BODY_1|0
+good responses|JJ NNS|BODY_2|0
+others|NNS|BODY_3|0
+the current floor holder|DT JJ NN NN|BODY_1|0
+the other users|DT JJ NNS|BODY_6|0
+the remaining servers|DT VBG NNS|BODY_3|0
+the simplest response|DT JJS NN|BODY_1|0
+4.1 xmx xmx|CD NN NN|BODY_1|0
+different strengths and weaknesses|JJ NNS CC NNS|BODY_4|0
+a single sun sparc2|DT JJ NN NN|BODY_4|0
+child window test )|NN NN NN -RRB-|BODY_3|0
+that server|IN NN|BODY_7|0
+section 2|NN CD|BODY_1|0
+these resources|DT NNS|BODY_1|0
+color allocation decisions|NN NN NNS|BODY_7|0
+this list|DT NN|BODY_1|0
+pixmap related complaints|NN VBN NNS|BODY_4|0
+there|EX|BODY_1|0
+a sun sparc2|DT NN NN|BODY_4|0
+heterogeneous envi- ronments|JJ NNS NNS|BODY_6|0
+the creator|DT NN|BODY_1|0
+the architecture|DT NN|BODY_1|0
+3.2 robustness test|CD NN NN|BODY_1|0
+a more complicated policy|DT RBR JJ NN|BODY_1|0
+one approach|CD NN|BODY_1|0
+the internet [abdel-wahab 92b]|DT NN NN NNS|BODY_6|0
+the software|DT NN|BODY_1|0
+the xmx pseudo server|DT NN NN NN|BODY_1|0
+question|NN|BODY_3|0
+the best base|DT JJS NN|BODY_6|0
+the fourth requirement|DT JJ NN|BODY_1|0
+an 8bit-color macii|DT NN NN|BODY_5|0
+our limited selection|PRP$ JJ NN|BODY_1|0
+the late joining problem|DT JJ VBG NN|BODY_3|0
+'s event filtering|POS NN NN|BODY_3|0
+design and implementation|NN CC NN|BODY_1|0
+example|NN|BODY_1|0
+joint viewing functionality|JJ NN NN|BODY_7|0
+mux basis|NN NN|BODY_3|0
+simple [abdel-wahab 92a]|JJ JJ NNS|BODY_3|0
+our work|PRP$ NN|BODY_3|0
+the protocol|DT NN|BODY_4|0
+a client/server model|DT NN NN|BODY_2|0
+a full function|DT JJ NN|BODY_3|0
+another oddity|DT NN|BODY_1|0
+cut&paste testing|NN NN|BODY_3|0
+future mux development work|NN NN NN NN|BODY_7|1
+one particularly strange aspect|CD RB JJ NN|BODY_1|0
+server resources|NN NNS|BODY_3|0
+uct|NN|BODY_5|0
+a short-term trial basis|DT JJ NN NN|BODY_6|0
+code portability or byte order issues|NN NN CC NN NN NNS|BODY_5|0
+heterogeneous server and display mixes|JJ NN CC NN VBZ|BODY_3|0
+this dependency problem|DT NN NN|BODY_1|0
+this update|DT NN|BODY_6|0
+the mappings|DT NNS|BODY_5|0
+multiple processes|JJ NNS|BODY_5|0
+'s design|POS NN|BODY_3|0
+a single window|DT JJ NN|BODY_1|0
+an interesting teaching example|DT JJ NN NN|BODY_7|0
+conclusion|NN|BODY_1|1
+several simplifying assumptions|JJ JJ NNS|BODY_1|0
+a network connection|DT NN NN|BODY_3|0
+clients and servers|NNS CC NNS|BODY_1|0
+one server|CD NN|BODY_1|0
+his responses|PRP$ NNS|BODY_6|0
+'s menus|POS NNS|BODY_5|0
+a commercial word processing/desktop publishing program|DT JJ NN NN NN NN|BODY_2|0
+the x shape extensions|DT JJ NN NNS|BODY_2|0
+section 3|NN CD|BODY_1|0
+a token-based floor control policy|DT JJ NN NN NN|BODY_6|0
+another design issue|DT NN NN|BODY_1|0
+full floor control features|JJ NN NN NNS|BODY_4|0
+other problems|JJ NNS|BODY_1|0
+this )|DT -RRB-|BODY_8|0
+this correctly|DT RB|BODY_3|0
+such functionality|JJ NN|BODY_6|0
+this approach|DT NN|BODY_1|0
+the most critical|DT RBS JJ|BODY_1|0
+a pair|DT NN|BODY_1|0
+an already executing client|DT RB VBG NN|BODY_6|0
+every mux|DT NN|BODY_1|0
+the clients|DT NNS|BODY_1|0
+a scrolling list|DT NN NN|BODY_6|0
+all code|DT NN|BODY_1|0
+our sparcstations|PRP$ NNS|BODY_3|0
+'s screen|POS NN|BODY_7|0
+this option|DT NN|BODY_10|0
+a multiplexed window|DT JJ NN|BODY_4|0
+' servers|POS NNS|BODY_6|0
+a homogeneous environment|DT JJ NN|BODY_5|0
+the floor control problem|DT NN NN NN|BODY_5|0
+the varied target environments|DT JJ NN NNS|BODY_1|0
+their origin and major features|PRP$ NN CC JJ NNS|BODY_4|0
+this well|DT RB|BODY_3|0
+its clients|PRP$ NNS|BODY_5|0
+its largest disadvantage|PRP$ JJS NN|BODY_1|0
+requirement one|NN CD|BODY_1|0
+this operation|DT NN|BODY_5|0
+color applications|NN NNS|BODY_2|0
+a larger development project|DT JJR NN NN|BODY_8|0
+each workstation|DT NN|BODY_1|0
+note|NN|BODY_1|0
+the mux.|DT NN|BODY_11|0
+the scrolling region|DT JJ NN|BODY_1|0
+all muxed clients|DT JJ NNS|BODY_4|0
+any time|DT NN|BODY_5|0
+each other|DT JJ|BODY_5|0
+the muxed windows|DT JJ NNS|BODY_4|0
+the token|DT JJ|BODY_5|0
+is|VBZ|BODY_3|0
+following|VBG|BODY_1|0
+standard x clients|JJ NN NNS|BODY_3|0
+potential leverage and time savings|JJ NN CC NN NNS|BODY_3|0
+a single server|DT JJ NN|BODY_9|0
+their existing applications|PRP$ VBG NNS|BODY_4|0
+this x server|DT NN NN|BODY_4|0
+different bitmap depths or formats|JJ NN NNS CC NNS|BODY_3|0
+different sizes|JJ NNS|BODY_4|0
+'s color support|POS NN NN|BODY_3|0
+both groups|DT NNS|BODY_1|0
+shx-1 , shx-ucl and shx-dfki.|NN , JJ CC POS|BODY_4|0
+3 test suites|CD NN NNS|BODY_1|0
+a strong recommendation|DT JJ NN|BODY_1|0
+any system|DT NN|BODY_4|0
+evaluation|NN|BODY_4|0
+greg mcfarlane and otc ltd.|NNP NN CC JJ NN|BODY_1|0
+our survey|PRP$ NN|BODY_6|0
+shx-dfki.|NN|BODY_2|0
+the only standard unix development environment|DT JJ JJ NN NN NN|BODY_1|0
+the present|DT NN|BODY_1|0
+time|NN|BODY_6|0
+byte order translation|NN NN NN|BODY_5|0
+many clients|JJ NNS|BODY_1:BODY_3|0
+mux freeware|NN NN|BODY_1|0
+several servers|JJ NNS|BODY_4|0
+the connection|DT NN|BODY_1|0
+the near future|DT JJ NN|BODY_6|0
+a dialogue box|DT NN NN|BODY_3|0
+each application program|DT NN NN|BODY_1|0
+its free use|PRP$ JJ NN|BODY_5|0
+pseudo server display numbers|NN NN NN NNS|BODY_1|0
+race ii project cio1|NN NNS NN NNS|ABSTRACT_8|0
+about 25.000 or 30.000 lines|IN CD CC CD NNS|BODY_1|0
+both relatively robust and full|DT RB JJ CC JJ|BODY_2|0
+crash resistant|NN NN|BODY_2|0
+crashing|VBG|BODY_2|0
+every heterogeneity test suite test|DT NN NN NN NN|BODY_2|0
+macx|NN|BODY_4|0
+non-profit uses|JJ NNS|BODY_7|0
+short|JJ|BODY_1|0
+the exit command|DT NN NN|BODY_4|0
+the most advanced floor passing system|DT JJS JJ NN VBG NN|BODY_2|0
+a client/server connection|DT NN NN|BODY_9|0
+our final recommendation|PRP$ JJ NN|BODY_5|0
+jvtos.|VBG|BODY_3|0
+our final evaluation|PRP$ JJ NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+an application requests information|DT NN NNS NN|BODY_1|0
+25.798 30.465 52.811 53.168 53.189 least crashes current product|CD CD CD CD CD JJS NNS JJ NN|BODY_1|0
+a simple example|DT JJ NN|BODY_1|0
+an optimal solution|DT JJ NN|BODY_4|0
+byte ordering|JJ NN|BODY_3|0
+other clients|JJ NNS|BODY_1|0
+principle|NN|BODY_1|0
+each machine|DT NN|BODY_4|0
+several ( five and more ) servers|JJ -LRB- CD CC JJR -RRB- NNS|BODY_4|0
+the problem|DT NN|BODY_1|0
+about 7.000 lines|IN CD NNS|BODY_1|0
+the right|DT JJ|BODY_5|0
+an already running client|DT RB VBG NN|BODY_4|0
+a common response|DT JJ NN|BODY_1|0
+other muxes|JJ NNS|BODY_4|0
+its most serious lacking|PRP$ RBS JJ VBG|BODY_1|0
+a well designed and implemented product|DT RB VBN CC VBN NN|BODY_2|0
+about 53.000 lines|IN CD NNS|BODY_4|0
+some areas|DT NNS|BODY_5|0
+selected applications|VBN NNS|BODY_5|0
+not|RB|BODY_1|0
+the connection-killing server|DT JJ NN|BODY_4|0
+its code|PRP$ NN|BODY_1|0
+no source code|DT NN NN|BODY_1|0
+some modules|DT NNS|BODY_1|0
+the following tests|DT JJ NNS|BODY_1|0
+the sharedx design approach|DT NN NN NN|BODY_1|0

@@ -1,0 +1,31 @@
+figure-ground segmentation|NN NN|BODY_2:BODY_7|0
+it|PRP|BODY_1:BODY_3|0
+a spatial shift|DT JJ NN|BODY_5|0
+an additive composite|DT JJ NN|BODY_2|0
+translucent objects|JJ NNS|BODY_2|0
+exhibit|NN|BODY_4|0
+two component images|CD NN NNS|BODY_3|0
+each fourier component|DT JJ NN|BODY_2|0
+the foreground and background|DT NN CC NN|BODY_8|0
+the fourier|DT NN|BODY_5|0
+the magnitudes and phases|DT NNS CC NNS|BODY_4|0
+its appropriate object-specific spectrum|PRP$ JJ JJ NN|BODY_7|0
+one|CD|BODY_3|0
+the foreground and background shifts|DT NN CC NN NNS|BODY_2|0
+its two constituent phasors|PRP$ CD JJ NNS|BODY_5|0
+each|DT|BODY_6|0
+the resultant additive images|DT JJ JJ NNS|BODY_4|0
+the differences|DT NNS|BODY_3|0
+the problem|DT NN|BODY_6|0
+translucent|NN|BODY_3|0
+a fourier-based solution|DT JJ NN|BODY_5|0
+images|NNS|BODY_4|0
+each image|DT NN|BODY_1|0
+the binocular parallax|DT JJ NN|BODY_6|0
+the binocular image pair|DT JJ NN NN|BODY_6|0
+the inverse|DT NN|BODY_9|0
+the segmentation|DT NN|BODY_1|0
+the model|DT NN|BODY_1|0
+objects|NNS|BODY_4|0
+binocular model|JJ NN|BODY_1|0
+short baseline binocular image pairs|JJ NN JJ NN NNS|BODY_8|0

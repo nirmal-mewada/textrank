@@ -1,0 +1,24 @@
+the server|DT NN|BODY_2:BODY_3|0
+sequences|NNS|BODY_2|0
+a database storing|DT NN NN|BODY_2|0
+models|NNS|BODY_2|0
+more than 1000 3d anatomical models|JJR IN CD NN NN NNS|BODY_3|0
+planar oblique slices|NN NN NNS|BODY_3|0
+the web|DT NN|BODY_2|0
+user-defined 3d anatomical structures|JJ JJ NN NNS|BODY_5|0
+a new service|DT JJ NN|BODY_4|0
+we|PRP|BODY_3|0
+anatomy , medicine and related disciplines|NN , NN CC JJ NNS|BODY_2|0
+high-quality video animations|JJ NN NNS|BODY_3|0
+scene construction and visualization actions|NN NN CC NN NNS|BODY_3|0
+they|PRP|BODY_1|0
+the visible human|DT JJ NN|BODY_4|0
+the web server|DT NN NN|BODY_1|0
+their own structured anatomical scenes|PRP$ JJ JJ NN NNS|BODY_4|0
+users|NNS|BODY_1|0
+3d anatomical scenes|JJ NN NNS|BODY_1|0
+the web.|DT NN|BODY_6|0
+professionals and students|NNS CC NNS|BODY_1|0
+the user|DT NN|BODY_4|0
+their own anatomical scenes|PRP$ JJ NN NNS|BODY_4|0
+these actions|DT NNS|BODY_1|0

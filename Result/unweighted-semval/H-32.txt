@@ -1,0 +1,499 @@
+we|PRP|ABSTRACT_6:ABSTRACT_11:ABSTRACT_5:ABSTRACT_4:ABSTRACT_15:ABSTRACT_8:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1:ABSTRACT_7:ABSTRACT_9:ABSTRACT_10|5
+that|WDT|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4:ABSTRACT_2:ABSTRACT_8:ABSTRACT_3:ABSTRACT_7:ABSTRACT_12:ABSTRACT_10|2
+interesting nuggets|JJ NNS|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4:TITLE_1:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1|3
+the topic|DT NN|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4:ABSTRACT_8:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1:ABSTRACT_7:ABSTRACT_9|3
+the human interest model|DT JJ NN NN|ABSTRACT_5:ABSTRACT_4:ABSTRACT_8:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1|0
+the trec 2005 question|DT NN CD NN|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4|0
+a unigram language model|DT NN NN NN|ABSTRACT_3:ABSTRACT_7|0
+informative and interesting nuggets|JJ CC JJ NNS|ABSTRACT_6:ABSTRACT_2:ABSTRACT_9|1
+an average human reader|DT JJ JJ NN|ABSTRACT_2|1
+the unigram language model|DT NNP NN NN|ABSTRACT_8:ABSTRACT_2|0
+just about any topic|RB IN DT NN|ABSTRACT_3|0
+37( 1 ) :145|JJ CD -RRB- CD|ABSTRACT_3|0
+the most relevant article|DT RBS JJ NN|ABSTRACT_5:ABSTRACT_3|0
+information search and retrieval]|NN NN CC NN|ABSTRACT_2|0
+h.1.2 [ user/machine systems|CD NN NN NNS|ABSTRACT_4|0
+the human interest-based system|DT JJ JJ NN|ABSTRACT_2|0
+a single final score|DT JJ JJ NN|ABSTRACT_3|0
+past definitional question answering |JJ JJ NN NN|ABSTRACT_4|0
+a more balanced measure|DT JJR JJ NN|ABSTRACT_2|0
+allowed character length function|VBN NN NN NN|ABSTRACT_8|0
+the aquaint retrieval module|DT NN NN NN|ABSTRACT_4:ABSTRACT_1|0
+person and organization topics|NN CC NN NNS|ABSTRACT_5|0
+a potential answer sentence|DT JJ NN NN|ABSTRACT_3:ABSTRACT_1|0
+both language models i|DT NN NNS FW|ABSTRACT_3|0
+the nugget agreement rate|DT NN NN NN|ABSTRACT_1:ABSTRACT_7|0
+crumb , rachel carson|JJ , JJ NN|ABSTRACT_36|0
+kip kinkel school shooting|NN NN NN NN|ABSTRACT_71|0
+qa track definitional questions|NN NN JJ NNS|ABSTRACT_2|0
+plane clips cable wires|NN NNS NN NNS|ABSTRACT_69|0
+the top definitional system|DT JJ JJ NN|ABSTRACT_2|0
+high frequency centroid terms|JJ NN NN NNS|ABSTRACT_2|0
+a human interest model|DT JJ NN NN|ABSTRACT_3|0
+symmetric and non-negative as|JJ CC JJ IN|ABSTRACT_3|0
+all low frequency terms|DT JJ NN NNS|ABSTRACT_3|0
+a lexical patternbased approach|DT JJ JJ NN|ABSTRACT_2|1
+our lower bound reference|PRP$ JJR JJ NN|ABSTRACT_5|0
+vital and okay nuggets|JJ CC JJ NNS|ABSTRACT_3|0
+1 2 â¢dkl â |CD CD JJ NN|ABSTRACT_2|0
+1998 nagano olympic games|CD NN JJ NNS|ABSTRACT_82|0
+2000 bush-gore presidential debate|CD JJ JJ NN|ABSTRACT_76|0
+soft pattern bigram model|JJ NN NN NN|ABSTRACT_3|0
+a simple weighted sum|DT JJ JJ NN|ABSTRACT_2|0
+the original official description|DT JJ JJ NN|ABSTRACT_2|0
+1998 indictment and trial|CD NN CC NN|ABSTRACT_77|0
+a document retrieval module|DT NN NN NN|ABSTRACT_3|0
+the bigram language model|DT JJS NN NN|ABSTRACT_2|0
+the two separate scores|DT CD JJ NNS|ABSTRACT_2|0
+the low agreement rates|DT JJ NN NNS|ABSTRACT_11|1
+the google search engine|DT JJ NN NN|ABSTRACT_4|0
+a trec 2005 topic|DT NN CD NN|ABSTRACT_4|0
+a bigram language model|DT JJ NN NN|ABSTRACT_2|0
+a term weighting scheme|DT NN VBG NN|ABSTRACT_2|0
+800 most relevant documents|CD RBS JJ NNS|ABSTRACT_5|0
+our two language models|PRP$ CD NN NNS|ABSTRACT_5|0
+hurricane mitch table 3|NN NN NN CD|ABSTRACT_89|0
+many question answering system|JJ NN VBG NN|ABSTRACT_2|0
+only a small number|RB DT JJ NN|ABSTRACT_8|0
+a definitional qa system|DT JJ NN NN|ABSTRACT_3|0
+one or more patterns|CD CC JJR NNS|ABSTRACT_6|0
+the same web articles|DT JJ NN NNS|ABSTRACT_5|0
+specific corpus , i|JJ FW , FW|ABSTRACT_6|0
+interesting nuggets and trivia|JJ NNS CC NNS|ABSTRACT_2|0
+two very different experts|CD RB JJ NNS|ABSTRACT_10|0
+the aquaint corpus sentences|DT NN NN NNS|ABSTRACT_4|0
+highly frequency topic terms|RB NN NN NNS|ABSTRACT_6|0
+an ensemble learning method|DT NN VBG NN|ABSTRACT_4|0
+over 25,000 notable people|IN CD JJ NNS|ABSTRACT_3|0
+the last three nuggets|DT JJ CD NNS|ABSTRACT_3|0
+high frequency relevant terms|JJ NN JJ NNS|ABSTRACT_7|0
+the best web resources|DT JJS NN NNS|ABSTRACT_6|0
+a unique topic-specific nugget|DT JJ JJ NN|ABSTRACT_2|0
+3 ) figure 3|CD -RRB- NN CD|ABSTRACT_5|0
+the power law distribution|DT NN NN NN|ABSTRACT_4|0
+a pairwise similarity comparison|DT JJ NN NN|ABSTRACT_3|0
+the standard scoring methodology|DT JJ NN NN|ABSTRACT_3|0
+the 21st international conference|DT JJ JJ NN|ABSTRACT_2|0
+a ( 4 )|DT -LRB- CD -RRB-|ABSTRACT_6|0
+a standard information retrieval|DT JJ NN NN|ABSTRACT_4|0
+relatively simple unigram probabilities|RB JJ NN NNS|ABSTRACT_5|0
+a complete definitional coverage|DT JJ JJ NN|ABSTRACT_4|1
+the five different term|DT CD JJ NN|ABSTRACT_3|0
+the same same set|DT JJ JJ NN|ABSTRACT_2|0
+low frequency relevant terms|JJ NN JJ NNS|ABSTRACT_5|0
+an easily accessible source|DT RB JJ NN|ABSTRACT_6|0
+two very different types|CD RB JJ NNS|ABSTRACT_3|0
+highly frequent topic terms|RB JJ NN NNS|ABSTRACT_5|0
+the definitonal corpus sentences|DT JJ NN NNS|ABSTRACT_3|0
+the soft-pattern bigram model|DT JJ NN NN|ABSTRACT_4|1
+novel and unique aspects|NN CC JJ NNS|ABSTRACT_7|0
+a human manual run|DT JJ NN NN|ABSTRACT_3|0
+definitional question answering system|JJ NN VBG NN|ABSTRACT_4|0
+the trec 2004 question|DT NN CD NN|ABSTRACT_3|0
+the above four groups|DT JJ CD NNS|ABSTRACT_6|0
+currently two general methods|RB CD JJ NNS|ABSTRACT_3|0
+only a single collection|RB DT JJ NN|ABSTRACT_3|0
+manually crafted lexicosyntactic patterns|RB VBN JJ NNS|ABSTRACT_4|0
+the same answer nuggets|DT JJ NN NNS|ABSTRACT_2|0
+a definitional centroid vector|DT JJ NN NN|ABSTRACT_2|0
+unimportant or uncommon information|JJ CC JJ NN|ABSTRACT_5|1
+the unigram languge model|DT NN NN NN|ABSTRACT_9|0
+the sentence agreement rate|DT NN NN NN|ABSTRACT_2|0
+a diverse ranked list|DT JJ VBN NN|ABSTRACT_3|0
+various term weighting schemes|JJ NN VBG NNS|ABSTRACT_7|0
+linguistic or syntactic patterns|JJ CC JJ NNS|ABSTRACT_6|0
+two very different perspective|CD RB JJ NN|ABSTRACT_2|0
+the edit distance algorithm|DT NN NN NN|ABSTRACT_2|0
+the inverse document frequency|DT NN NN NN|ABSTRACT_2|0
+the world wide web|DT NN JJ NN|ABSTRACT_3|0
+a more thorough set|DT JJR JJ NN|ABSTRACT_4|0
+the second relevance-based approach|DT JJ JJ NN|ABSTRACT_3|0
+both i and a.|DT IN CC NN|ABSTRACT_12|0
+the term and n|DT NN CC RB|ABSTRACT_13|0
+our human interest model|PRP$ JJ NN NN|ABSTRACT_6:ABSTRACT_5|0
+5.2 selecting web resources|CD NN NN NNS|ABSTRACT_6|0
+the lexico-syntactic pattern approach|DT JJ NN NN|ABSTRACT_2|0
+a very challenging task|DT RB JJ NN|ABSTRACT_2|0
+some closely related entity|DT RB JJ NN|ABSTRACT_6|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+a definitional answer set|DT JJ NN NN|ABSTRACT_6|0
+some important factual information|DT JJ JJ NN|ABSTRACT_2|1
+thing and event topics|NN CC NN NNS|ABSTRACT_7|0
+trec 2003 to 2005|NN CD TO CD|ABSTRACT_4|0
+a knowledge intensive approach|DT NN JJ NN|ABSTRACT_3|0
+a single web article|DT JJ NN NN|ABSTRACT_2|0
+1.2 identifying interesting nuggets|CD VBG JJ NNS|ABSTRACT_1|0
+this a difficult task|DT DT JJ NN|ABSTRACT_13|1
+person and event topics|NN CC NN NNS|ABSTRACT_1|0
+the definitional qa system|DT JJ NN NN|ABSTRACT_1|0
+the bi-term language model|DT JJ NN NN|ABSTRACT_1|0
+the following external resources|DT JJ JJ NNS|ABSTRACT_5|0
+the more common method|DT RBR JJ NN|ABSTRACT_1|1
+over 33,000 notable people|IN CD JJ NNS|ABSTRACT_9|0
+weighted term comparison algorithm|JJ NN NN NN|ABSTRACT_5|0
+such lexicalosyntactic patterns approach|JJ JJ NNS NN|ABSTRACT_1|0
+our aquaint retrieval module|PRP$ NN NN NN|ABSTRACT_6|0
+a question topic x|DT NN NN NN|ABSTRACT_1|0
+human interest model architecture|JJ NN NN NN|ABSTRACT_2|0
+1 for most terms|CD IN JJS NNS|ABSTRACT_5|0
+a significant margin [7]|DT JJ NN NN|ABSTRACT_7|0
+the collected web documents|DT VBN NN NNS|ABSTRACT_4|0
+our web retrieval module|PRP$ NN NN NN|ABSTRACT_6|0
+pages 335-336 , 1998|NNS CD , CD|ABSTRACT_3|0
+organization and thing topics|NN CC NN NNS|ABSTRACT_1|0
+relevance based retrieval methods|NN VBN JJ NNS|ABSTRACT_1|0
+the source answer sentences|DT NN NN NNS|ABSTRACT_4|0
+the weighted term list|DT JJ NN NN|ABSTRACT_9|0
+the web retrieval module|DT NN NN NN|ABSTRACT_1|0
+all four entity types|DT CD NN NNS|ABSTRACT_5|0
+interesting and informative nuggets|JJ CC JJ NNS|ABSTRACT_7|0
+1.1 the two aspects|CD DT CD NNS|ABSTRACT_1|0
+the low agreement rate|DT JJ NN NN|ABSTRACT_1|0
+the top 10 sentences|DT JJ CD NNS|ABSTRACT_1|0
+generic soft pattern models|JJ JJ NN NNS|ABSTRACT_1|0
+information finding lexical patterns|NN NN JJ NNS|ABSTRACT_6|0
+3.2 multiple interesting centroids|CD JJ JJ NNS|ABSTRACT_1|0
+any single relevant document|DT JJ JJ NN|ABSTRACT_4|0
+the initial experimental results|DT JJ JJ NNS|ABSTRACT_1|0
+the most relevant biography|DT RBS JJ NN|ABSTRACT_3|0
+the top 100 snippets|DT JJ CD NNS|ABSTRACT_3|0
+the best possible combination|DT JJS JJ NN|ABSTRACT_8|0
+that most human readers|IN JJS JJ NNS|ABSTRACT_7|0
+a pairwise sentence comparison|DT NN NN NN|ABSTRACT_1|0
+g. carbonell and j.|NNP NN CC NN|ABSTRACT_1|0
+the interest corpus|DT NN NN|ABSTRACT_6:ABSTRACT_16:ABSTRACT_5:ABSTRACT_4:ABSTRACT_2:ABSTRACT_12|0
+both systems|DT NNS|ABSTRACT_4:ABSTRACT_8:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1:ABSTRACT_7:ABSTRACT_9|0
+sentences|NNS|ABSTRACT_6:ABSTRACT_11:ABSTRACT_5:ABSTRACT_4:ABSTRACT_15:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1:ABSTRACT_7|0
+definitional question answering|JJ NN VBG|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4:TITLE_3:ABSTRACT_2:ABSTRACT_3|1
+this|DT|ABSTRACT_2:ABSTRACT_1|0
+a human reader|DT JJ NN|ABSTRACT_6:ABSTRACT_4:ABSTRACT_2|0
+human interest model|JJ NN NN|ABSTRACT_2:ABSTRACT_1|0
+a f3 score|DT JJ NN|ABSTRACT_5:ABSTRACT_4:ABSTRACT_3|0
+each entity class|DT NN NN|ABSTRACT_4:ABSTRACT_8:ABSTRACT_2:ABSTRACT_7|0
+cui et al|FW FW NN|ABSTRACT_5:ABSTRACT_4:ABSTRACT_3|2
+the similarity score|DT NN NN|ABSTRACT_8:ABSTRACT_3|0
+xu et al|NNP NNP NN|ABSTRACT_4:ABSTRACT_2|1
+food preparation products|NN NN NNS|ABSTRACT_4:ABSTRACT_7|0
+all other systems|DT JJ NNS|ABSTRACT_6:ABSTRACT_4|0
+such an approach|JJ DT NN|ABSTRACT_6:ABSTRACT_3|0
+our interest corpus|PRP$ NN NN|ABSTRACT_6:ABSTRACT_5:ABSTRACT_9|0
+low frequency terms|JJ NN NNS|ABSTRACT_4:ABSTRACT_2|0
+the other hand|DT JJ NN|ABSTRACT_4:ABSTRACT_2|0
+blair-goldensohn et al|NNP NNP NN|ABSTRACT_3:ABSTRACT_1|1
+a novel perspective|DT NN NN|ABSTRACT_4:ABSTRACT_3|1
+the internet articles|DT NN NNS|ABSTRACT_2|0
+the system architecture|DT NN NN|ABSTRACT_3|1
+a baseline system|DT NN NN|ABSTRACT_2|0
+semantic relation analysis|JJ NN NN|ABSTRACT_2|0
+these low-frequency terms|DT JJ NNS|ABSTRACT_2|1
+the previous section|DT JJ NN|ABSTRACT_3|0
+the word trivia|DT NN NNS|ABSTRACT_3|1
+the aquaint corpus|DT NN NN|ABSTRACT_4:ABSTRACT_2:ABSTRACT_10|0
+a candidate sentence|DT NN NN|ABSTRACT_3:ABSTRACT_1|0
+many such systems|JJ JJ NNS|ABSTRACT_5|0
+a wider class|DT JJR NN|ABSTRACT_3|0
+the soft-pattern model|DT JJ NN|ABSTRACT_5:ABSTRACT_4|0
+only interesting nuggets|RB JJ NNS|ABSTRACT_4|0
+the american flag|DT JJ NN|ABSTRACT_2|0
+a searchable copy|DT JJ NN|ABSTRACT_2|0
+either globally applicable|DT RB JJ|ABSTRACT_2|0
+a large number|DT JJ NN|ABSTRACT_10|0
+a few anomalies|DT JJ NNS|ABSTRACT_3|0
+highly relevant sentences|RB JJ NNS|ABSTRACT_4|0
+automated query expansion|JJ NN NN|ABSTRACT_7|0
+definitional answer nuggets|JJ NN NNS|ABSTRACT_5|0
+informativeness and interestingness|NN CC NN|ABSTRACT_2|0
+the worst performance|DT JJS NN|ABSTRACT_6|0
+the common terms|DT JJ NNS|ABSTRACT_4:ABSTRACT_1|0
+our external documents|PRP$ JJ NNS|ABSTRACT_5|0
+both nugget types|DT NN NNS|ABSTRACT_5|0
+correct definitional answers|JJ JJ NNS|ABSTRACT_6|0
+information extraction templates|NN NN NNS|ABSTRACT_8|0
+the definitional corpus|DT JJ NN|ABSTRACT_4:ABSTRACT_1|0
+a combined mixture|DT JJ NN|ABSTRACT_4|0
+that interesting nuggets|DT JJ NNS|ABSTRACT_4:ABSTRACT_3|0
+equation 1 )|NN CD -RRB-|ABSTRACT_5|0
+the innocent action|DT JJ NN|ABSTRACT_4|0
+1968 olympics championship|CD NNS NN|ABSTRACT_6|0
+bartleby .com articles|NN NN NNS|ABSTRACT_9|0
+a biography dictionary|DT NN NN|ABSTRACT_8|0
+the topic words|DT NN NNS|ABSTRACT_3|0
+the same term|DT JJ NN|ABSTRACT_2|0
+a constant 1|DT JJ CD|ABSTRACT_5|0
+k. r. mckeown|DT NNP NN|ABSTRACT_2|0
+many such articles|JJ JJ NNS|ABSTRACT_3|0
+a computer system|DT NN NN|ABSTRACT_5:ABSTRACT_2|1
+the columbia encyclopedia|DT NN NN|ABSTRACT_4|0
+a searchable archive|DT JJ NN|ABSTRACT_2|0
+a hybrid approach|DT JJ NN|ABSTRACT_1|0
+boston big dig|NN JJ NN|ABSTRACT_51|0
+corporation , harley-davidson|NN , NN|ABSTRACT_17|0
+howdy doody show|UH JJ NN|ABSTRACT_46|0
+il thing f16|JJ NN NNS|ABSTRACT_43|0
+lions club international|NNS NN JJ|ABSTRACT_14|0
+little league baseball|JJ NN NN|ABSTRACT_8|0
+pope pius xii|NN NN NNS|ABSTRACT_41|0
+pourpre v1.0c [10]|NN NN NN|ABSTRACT_2|0
+standards and technology|NNS CC NN|ABSTRACT_2|0
+the shannon entropy|DT NN NN|ABSTRACT_2|0
+( 2 )|-LRB- CD -RRB-|ABSTRACT_3|0
+norwegian cruise lines|JJ NN NNS|ABSTRACT_6|0
+international auto show|JJ NN NN|ABSTRACT_85|0
+different syntactic structures|JJ NN NNS|ABSTRACT_5|1
+the soft-pattern approach|DT JJ NN|ABSTRACT_3|0
+a news corpus|DT NN NN|ABSTRACT_2|0
+a i )|DT FW -RRB-|ABSTRACT_2|0
+djs( i a)|, FW FW|ABSTRACT_1|0
+the three systems|DT CD NNS|ABSTRACT_3|0
+port arthur massacre|JJ NN NN|ABSTRACT_65|0
+the f3 score|DT JJ NN|ABSTRACT_2|0
+super bowl xxxiv|NN NN NNP|ABSTRACT_83|0
+the world factbook|DT NN NN|ABSTRACT_5|0
+chen et al|NN NNP NN|ABSTRACT_3|0
+a backup method|DT NN NN|ABSTRACT_2|0
+o( n )|JJ NN -RRB-|ABSTRACT_8|0
+four broad categories|CD JJ NNS|ABSTRACT_8|0
+each entity type|DT NN NN|ABSTRACT_4|0
+very different types|RB JJ NNS|ABSTRACT_5|0
+only george foreman|RB NN NN|ABSTRACT_4|0
+emphasized topic relevance|VBN NN NN|ABSTRACT_3|0
+a > 0|DT NN CD|ABSTRACT_4|0
+interesting definitional nuggets|JJ JJ NNS|ABSTRACT_4|0
+a specific set|DT JJ NN|ABSTRACT_4|0
+merck & co.|NN CC NN|ABSTRACT_5|0
+oldest world champion|JJS NN NN|ABSTRACT_3|0
+google snippet terms|NN JJ NNS|ABSTRACT_4|0
+an important consideration|DT JJ NN|ABSTRACT_3|1
+several english dictionaries|JJ JJ NNS|ABSTRACT_6|0
+the agreement rate|DT NN NN|ABSTRACT_5|0
+the same nuggets|DT JJ NNS|ABSTRACT_3|0
+both stop words|DT NN NNS|ABSTRACT_7|0
+the main factor|DT JJ NN|ABSTRACT_3|0
+a wide coverage|DT JJ NN|ABSTRACT_5|0
+a term frequency|DT NN NN|ABSTRACT_4|0
+the primary method|DT JJ NN|ABSTRACT_4|0
+a slight 0.0085|DT JJ CD|ABSTRACT_4|0
+all terms model|DT NNS NN|ABSTRACT_3|0
+top 3 runs|NN CD VBZ|ABSTRACT_6|0
+a wide variety|DT JJ NN|ABSTRACT_2|0
+the best performance|DT JJS NN|ABSTRACT_4|0
+the main source|DT JJ NN|ABSTRACT_3|0
+a better source|DT JJR NN|ABSTRACT_4|0
+every dissimilar term|DT JJ NN|ABSTRACT_7|0
+the dissimilar term |DT JJ NN|ABSTRACT_9|0
+different web resources|JJ NN NNS|ABSTRACT_7|0
+the term frequency|DT NN NN|ABSTRACT_8|0
+factual informative nuggets|JJ JJ NNS|ABSTRACT_2|0
+the novelty factor|DT NN NN|ABSTRACT_3|0
+the two times|DT CD NNS|ABSTRACT_4|0
+its definitional corpus|PRP$ JJ NN|ABSTRACT_4|0
+very frequent terms|RB JJ NNS|ABSTRACT_9|0
+the idf component|DT JJ NN|ABSTRACT_2|0
+another divergence measure|DT NN NN|ABSTRACT_3|0
+the initial experiments|DT JJ NNS|ABSTRACT_12|0
+two further optimization|CD JJ NN|ABSTRACT_3|0
+every candidate sentence|DT NN NN|ABSTRACT_2|0
+harabagiu et al|NNS NNP JJ|ABSTRACT_2|0
+topic specific terms|NN JJ NNS|ABSTRACT_8|0
+the weighted list|DT JJ NN|ABSTRACT_2|0
+an ordered centroid|DT VBN NN|ABSTRACT_6|0
+a starting point|DT VBG NN|ABSTRACT_2|0
+the best source|DT JJS NN|ABSTRACT_2|0
+a similar approach|DT JJ NN|ABSTRACT_1|0
+passage question answering|NN NN NN|ABSTRACT_3|0
+the english language|DT JJ NN|ABSTRACT_3|0
+trec 2003 [14]|NN CD NN|ABSTRACT_3|0
+natural language processing|JJ NN NN|ABSTRACT_4|0
+a diverse set|DT JJ NN|ABSTRACT_4|0
+the interesting nuggets|DT JJ NNS|ABSTRACT_2|0
+44th annual meeting|JJ JJ NN|ABSTRACT_4|0
+inverse document frequency|JJ NN NN|ABSTRACT_3|0
+the combined system|DT VBN NN|ABSTRACT_3|0
+a sentence fragment|DT NN NN|ABSTRACT_2|0
+an important criteria|DT JJ NNS|ABSTRACT_2|1
+research and development|NN CC NN|ABSTRACT_5:ABSTRACT_1|0
+a probabilistic model|DT JJ NN|ABSTRACT_5|0
+the ordinary pieces|DT JJ NNS|ABSTRACT_2|0
+0.3031 table 1|CD NN CD|ABSTRACT_8|0
+the inherent differences|DT JJ NNS|ABSTRACT_8|1
+the online resources|DT JJ NNS|ABSTRACT_3|0
+a trivia-like quality|DT JJ NN|ABSTRACT_2|0
+a sufficient number|DT JJ NN|ABSTRACT_6|0
+thus rational reasons|RB JJ NNS|ABSTRACT_2|0
+these web documents|DT NN NNS|ABSTRACT_4|0
+solely google snippets|RB JJ NNS|ABSTRACT_5|0
+the main contributor|DT JJ NN|ABSTRACT_2|0
+a machine learner|DT NN NN|ABSTRACT_2|0
+four major groups|CD JJ NNS|ABSTRACT_5|0
+ranking web documents|JJ NN NNS|ABSTRACT_99|0
+100 % accuracy|CD NN NN|ABSTRACT_5|0
+several prominent websites|JJ JJ NNS|ABSTRACT_4|0
+all possible combinations|DT JJ NNS|ABSTRACT_5|0
+copulas and appositives|NNS CC NNS|ABSTRACT_3|0
+correct answer nuggets|JJ NN NNS|ABSTRACT_7|0
+any system parameters|DT NN NNS|ABSTRACT_4|0
+half the problem|PDT DT NN|ABSTRACT_4|0
+their low frequency|PRP$ JJ NN|ABSTRACT_4|0
+an indirect effect|DT JJ NN|ABSTRACT_98|0
+high frequency terms|JJ NN NNS|ABSTRACT_4|0
+a distinct possibility|DT JJ NN|ABSTRACT_2|1
+that kl divergence|DT JJ NN|ABSTRACT_3|0
+that news articles|DT NN NNS|ABSTRACT_7|0
+a lexical pattern|DT JJ NN|ABSTRACT_3|0
+only 4.4 %|RB CD NN|ABSTRACT_3|0
+the two systems|DT CD NNS|ABSTRACT_2|0
+each individual system|DT JJ NN|ABSTRACT_3|0
+human written documents|NN VBN NNS|ABSTRACT_4|0
+topic-specific answer nuggets|JJ NN NNS|ABSTRACT_3|0
+simply topic nuggets|RB NN NNS|ABSTRACT_4|0
+all important aspects|DT JJ NNS|ABSTRACT_5|1
+a good set|DT JJ NN|ABSTRACT_2|0
+track main task|NN JJ NN|ABSTRACT_4|0
+breaking newsworthy events|NN JJ NNS|ABSTRACT_4|0
+two major uses|CD JJ NNS|ABSTRACT_2|0
+trec 2005 question|NN CD NN|ABSTRACT_10|0
+a handicapped system|DT JJ NN|ABSTRACT_2|0
+a quick informative|DT JJ NN|ABSTRACT_6|0
+earlier reported f3-scores|JJR VBN NNS|ABSTRACT_6|0
+both soft pattern|DT JJ NN|ABSTRACT_2|0
+an expert linguist|DT JJ NN|ABSTRACT_5|0
+the relative importance|DT JJ NN|ABSTRACT_2|0
+the above resources|DT JJ NNS|ABSTRACT_4|0
+some general information|DT JJ NN|ABSTRACT_4|0
+such a system|JJ DT NN|ABSTRACT_2|1
+the relevance-based approach|DT JJ NN|ABSTRACT_1|0
+the two models|DT CD NNS|ABSTRACT_2|0
+a definitional corpus|DT JJ NN|ABSTRACT_2|0
+very different sentences|RB JJ NNS|ABSTRACT_3|0
+depth and insight|NN CC NN|ABSTRACT_6|0
+a relatively high|DT RB JJ|ABSTRACT_4|0
+the syntactic pattern|DT JJ NN|ABSTRACT_7|0
+this short definition|DT JJ NN|ABSTRACT_2|0
+not informative nuggets|RB JJ NNS|ABSTRACT_5|0
+general english [15]|JJ JJ NN|ABSTRACT_4|0
+our two experts|PRP$ CD NNS|ABSTRACT_2|0
+the probabilistic model|DT JJ NN|ABSTRACT_2|0
+a relevant biography|DT JJ NN|ABSTRACT_4|0
+such relevant documents|JJ JJ NNS|ABSTRACT_2|0
+a short definition|DT JJ NN|ABSTRACT_6|0
+the question topic|DT NN NN|ABSTRACT_6:ABSTRACT_7|0
+some surprise factor|DT NN NN|ABSTRACT_2|0
+a good mixture|DT JJ NN|ABSTRACT_8|0
+our combined list|PRP$ VBN NN|ABSTRACT_9|0
+that most terms|IN JJS NNS|ABSTRACT_2|0
+both answer sets|DT NN NNS|ABSTRACT_3|0
+3.1 web resources|CD NN NNS|ABSTRACT_1|0
+3.3 implementation figure|CD NN NN|ABSTRACT_1|1
+the definition questions|DT NN NNS|ABSTRACT_1|0
+thus such methods|RB JJ NNS|ABSTRACT_1|0
+each unique term|DT JJ NN|ABSTRACT_3|0
+an important factor|DT JJ NN|ABSTRACT_5|1
+a significant number|DT JJ NN|ABSTRACT_6|0
+some low-frequency terms|DT NN NNS|ABSTRACT_3|1
+the answer nuggets|DT NN NNS|ABSTRACT_2|0
+such a model|PDT DT NN|ABSTRACT_2|0
+a positive indication|DT JJ NN|ABSTRACT_3|0
+a general overview|DT JJ NN|ABSTRACT_2|0
+the same level|DT JJ NN|ABSTRACT_5|1
+a significant role|DT JJ NN|ABSTRACT_4|0
+general terms algorithms|JJ NNS NNS|ABSTRACT_6|0
+an uncle tom|DT NN NN|ABSTRACT_7|0
+the total number|DT JJ NN|ABSTRACT_14|0
+an indirect consequence|DT JJ NN|ABSTRACT_6|0
+strongly relevant sentences|RB JJ NNS|ABSTRACT_8|0
+every unique sentence|DT JJ NN|ABSTRACT_9|0
+the other sentence|DT JJ NN|ABSTRACT_9|0
+a hybrid system|DT JJ NN|ABSTRACT_3|1
+the evaluation software|DT NN NN|ABSTRACT_3|0
+our first experiment|PRP$ JJ NN|ABSTRACT_3|0
+a trivialike quality|DT JJ NN|ABSTRACT_3|0
+most relevant article|RBS JJ NN|ABSTRACT_5|0
+the top 1,000|DT JJ CD|ABSTRACT_2|0
+this world knowledge|DT NN NN|ABSTRACT_2|0
+some factual information|DT JJ NN|ABSTRACT_4|0
+oldest boxing champion|JJS NN NN|ABSTRACT_12|0
+10 yr hiatus|CD NN NN|ABSTRACT_8|0
+each question topic|DT NN NN|ABSTRACT_4|0
+an indirect manner|DT JJ NN|ABSTRACT_5|0
+general english words|JJ JJ NNS|ABSTRACT_1|0
+the baseline system|DT NN NN|ABSTRACT_1|0
+the symmetric property|DT JJ NN|ABSTRACT_1|0
+our initial experiments|PRP$ JJ NNS|ABSTRACT_5:ABSTRACT_8|0
+o( nm )|JJ NN -RRB-|ABSTRACT_9|0
+a different aspect|DT JJ NN|ABSTRACT_3|0
+33 target domains|CD NN NNS|ABSTRACT_9|0
+a sentence chunker|DT NN NN|ABSTRACT_1|0
+a direct impact|DT JJ NN|ABSTRACT_13|0
+the unified score|DT JJ NN|ABSTRACT_6|0
+a better perspective|DT JJR NN|ABSTRACT_1|0
+about most topics|IN JJS NNS|ABSTRACT_7|0
+relevant topic words|JJ NN NNS|ABSTRACT_8|0
+certain answer nuggets|JJ NN NNS|ABSTRACT_1|0
+trec 2003 qa|NN CD NN|ABSTRACT_1|0
+the candidate sentence|DT NN NN|ABSTRACT_5|0
+a recent system|DT JJ NN|ABSTRACT_1|0
+trec 2005 [13]|NN CD NN|ABSTRACT_11|0
+additional supporting evidence|JJ JJ NN|ABSTRACT_7|0
+1 js divergence|CD NN NN|ABSTRACT_1|0
+their comprehensive coverage|PRP$ JJ NN|ABSTRACT_1|0
+general english terms|JJ JJ NNS|ABSTRACT_9|0
+a definitional nugget|DT JJ NN|ABSTRACT_4|0
+these topic nuggets|DT NN NNS|ABSTRACT_1|0
+musicians or organizations|NNS CC NNS|ABSTRACT_6|0
+the same set|DT JJ NN|ABSTRACT_1|0
+two probability distributions|CD NN NNS|ABSTRACT_4|0
+blairgoldensohn et al|NNP NNP NN|ABSTRACT_1|0
+a general object|DT JJ NN|ABSTRACT_5|0
+a musician template|DT NN NN|ABSTRACT_1|0
+certain low-frequency terms|JJ NN NNS|ABSTRACT_6|0
+each informative nugget|DT JJ NN|ABSTRACT_1|0
+this retrieval-based approach|DT JJ NN|ABSTRACT_6|0
+such interesting nuggets|JJ JJ NNS|ABSTRACT_6|0
+the basic algorithm|DT JJ NN|ABSTRACT_4|0
+the soft pattern|DT JJ NN|ABSTRACT_1|1
+such topic terms|JJ NN NNS|ABSTRACT_10|0
+the both systems|DT DT NNS|ABSTRACT_6|0
+a consistent trend|DT JJ NN|ABSTRACT_1|0
+a baseline reference|DT NN NN|ABSTRACT_8|0
+text retrieval conference|NN NN NN|ABSTRACT_1|0
+the him ranker|DT PRP NN|ABSTRACT_1|0
+different answer nuggets|JJ NN NNS|ABSTRACT_4|0
+identical input data|JJ NN NNS|ABSTRACT_3|0
+2. related work|DT VBN NN|ABSTRACT_1|0
+a text corpora|DT NN NN|ABSTRACT_5|0
+only a handful|RB DT NN|ABSTRACT_1|0
+our answer set|PRP$ NN NN|ABSTRACT_10|0
+term weighting scheme|NN VBG NN|ABSTRACT_4|0
+a tall order|DT JJ NN|ABSTRACT_5|0
+this language model|DT NN NN|ABSTRACT_1|0
+lower bound reference|JJR JJ NN|ABSTRACT_1|0
+our future work|PRP$ JJ NN|ABSTRACT_1|0
+the answer set|DT NN NN|ABSTRACT_1|0
+the best approach|DT JJS NN|ABSTRACT_1|0
+the bounded property|DT VBN NN|ABSTRACT_1|0
+the search results|DT NN NNS|ABSTRACT_1|0
+the weighting schemes|DT NN NNS|ABSTRACT_1|0
+the next section|DT JJ NN|ABSTRACT_5|0
+only one system|RB CD NN|ABSTRACT_1|0
+our desired topic|PRP$ VBN NN|ABSTRACT_7|0
+the ordered centroid|DT VBN NN|ABSTRACT_9|0
+cui , m.-y|FW , JJ|ABSTRACT_1|0
+lin and d.|NN CC VBN|ABSTRACT_1|0
+the remaining answers|DT VBG NNS|ABSTRACT_1|0
+zhang and w.|NN CC NN|ABSTRACT_1|0
+web resources|NN NNS|ABSTRACT_11:ABSTRACT_5:ABSTRACT_4:ABSTRACT_8:ABSTRACT_7|0
+it|PRP|ABSTRACT_5:ABSTRACT_2:ABSTRACT_8:ABSTRACT_3:ABSTRACT_1:ABSTRACT_7|0
+definitional answers|JJ NNS|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4:ABSTRACT_8:ABSTRACT_3|0
+the use|DT NN|ABSTRACT_5:ABSTRACT_2:ABSTRACT_3:ABSTRACT_1|0
+informative nuggets|JJ NNS|ABSTRACT_6:ABSTRACT_5:ABSTRACT_4:ABSTRACT_8:ABSTRACT_1:ABSTRACT_7|1
+the number|DT NN|ABSTRACT_6:ABSTRACT_2:ABSTRACT_3:ABSTRACT_96:ABSTRACT_1:ABSTRACT_10|0
+the results|DT NNS|ABSTRACT_6:ABSTRACT_14:ABSTRACT_2:ABSTRACT_3|0
+george foreman|JJ NN|ABSTRACT_5:ABSTRACT_4:ABSTRACT_26:ABSTRACT_3|0
+the sentence|DT NN|ABSTRACT_5:ABSTRACT_2|0
+answers|NNS|ABSTRACT_5:ABSTRACT_4:ABSTRACT_2:ABSTRACT_1:ABSTRACT_10|0
+js divergence|JJ NN|ABSTRACT_4:ABSTRACT_3:ABSTRACT_1|0
+a set|DT NN|ABSTRACT_6:ABSTRACT_4:ABSTRACT_3:ABSTRACT_1|0
+a sentence|DT NN|ABSTRACT_6:ABSTRACT_5:ABSTRACT_8:ABSTRACT_3|0
+kl divergence|JJ NN|ABSTRACT_5:ABSTRACT_4:ABSTRACT_2:ABSTRACT_1|0
+centroid words|NN NNS|ABSTRACT_4:ABSTRACT_2|0
+the result|DT NN|ABSTRACT_2:ABSTRACT_1:ABSTRACT_9|0

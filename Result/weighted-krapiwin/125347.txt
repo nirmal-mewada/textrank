@@ -1,0 +1,162 @@
+which|WDT|BODY_12:BODY_11:BODY_17:BODY_18:BODY_15:BODY_23:BODY_13:BODY_25:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:ABSTRACT_8:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|11
+the network|DT NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|3
+what|WP|BODY_5:BODY_1:BODY_2:ABSTRACT_1:BODY_4:BODY_7:BODY_8|1
+the task|DT NN|BODY_11:BODY_5:ABSTRACT_4:BODY_13:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8:BODY_20|1
+a simple recurrent network|DT JJ JJ NN|BODY_5:ABSTRACT_5|0
+the apparently open-ended nature|DT RB JJ NN|ABSTRACT_1:BODY_4:BODY_8|0
+the srn state representations|DT JJ NN NNS|ABSTRACT_2|0
+it|PRP|BODY_12:BODY_11:BODY_22:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_30:BODY_9|11
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+we|PRP|BODY_12:BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|1
+this|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|3
+the more difficult forms|DT RBR JJ NNS|BODY_11|1
+sufficiently many hidden units|RB JJ JJ NNS|BODY_3|1
+an important empirical question|DT JJ JJ NN|BODY_7|1
+the second principal component|DT JJ JJ NN|BODY_5|1
+verb argument structure facts|JJ NN NN NNS|BODY_3|1
+that|WDT|BODY_5:BODY_21:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+the last training corpus|DT JJ NN NN|BODY_10|1
+a post hoc estimate|DT NN JJ NN|BODY_7|1
+a rather formidable armamentarium|DT RB JJ NN|BODY_3|1
+the main clause subject|DT JJ NN NN|BODY_8|1
+the potential important difference|DT JJ JJ NN|BODY_1|1
+one|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|2
+the hidden unit patterns|DT JJ NN NNS|BODY_5:BODY_11:BODY_8|0
+the main clause verb|DT JJ NN NN|BODY_4:BODY_8:BODY_9|0
+an optional direct object|DT JJ JJ NN|BODY_4:BODY_8|0
+0.177 ( initial error|CD -LRB- JJ NN|BODY_2|0
+the apparently recursive nature|DT RB JJ NN|BODY_6|0
+. john & mcclelland|. NN CC NN|BODY_6:BODY_15|0
+input and main hidden|NN CC JJ VBN|BODY_2|0
+the information processing capacity|DT NN NN NN|BODY_2|0
+hidden unit activation patterns|JJ NN NN NNS|BODY_2|0
+lexico-semantic characteristics ( animate/inanimate|JJ NNS -LRB- NN|BODY_11|0
+inputs and outputs )|NNS CC NNS -RRB-|BODY_2|0
+government & binding )|NN CC NN -RRB-|BODY_5|0
+the abstract linguistic representations|DT JJ NN NNS|BODY_6:BODY_4|0
+any other physical structure|DT JJ JJ NN|BODY_5|0
+'s inputs and outputs|POS NNS CC NNS|BODY_2|0
+( 2a ) john|-LRB- CD -RRB- NN|BODY_1|0
+main hidden and output|JJ VBN CC NN|BODY_3|0
+a more general issue|DT RBR JJ NN|BODY_4|0
+who cat chases dog|WP NN NNS NN|BODY_2|0
+the empirically derived probabilities|DT RB VBN NNS|BODY_5|0
+1 and 11 )|CD CC CD -RRB-|BODY_4|0
+the next time cycle|DT JJ NN NN|BODY_5|0
+. kawamoto & mcclelland|. FW CC NN|BODY_3|0
+the matrix object noun|DT NN NN NN|BODY_14|0
+( and so this|-LRB- CC RB DT|BODY_7|0
+1 ( 3 bits|CD -LRB- CD NNS|BODY_5|0
+a useful analytic tool|DT JJ JJ NN|BODY_2|0
+an associated eigen- value|DT VBN CD NN|BODY_2|0
+the same grammatical form|DT JJ JJ NN|BODY_3|0
+the trained network (|DT JJ NN -LRB-|BODY_5|0
+the principal component analysis|DT JJ NN NN|BODY_4|0
+whatever other representational elements|WDT JJ JJ NNS|BODY_2|0
+each successive relative clause|DT JJ JJ NN|BODY_3|0
+this and other verbs|DT CC JJ NNS|BODY_5|0
+the current input word|DT JJ NN NN|BODY_3|0
+the matrix subject noun|DT NN NN NN|BODY_8|0
+the hidden unit activations|DT JJ NN NNS|BODY_3|0
+an identical relative clause|DT JJ JJ NN|BODY_2|0
+the first two problems|DT JJ CD NNS|BODY_8|0
+the relative clause elements|DT JJ NN NNS|BODY_2|0
+context ( e .g.|NN -LRB- NN NNP|BODY_4|0
+( similar expectations hold|-LRB- JJ NNS NN|BODY_1|0
+the following training regimen|DT VBG NN NNS|BODY_1|0
+the same basic structure|DT JJ JJ NN|BODY_3|0
+the three underlined words|DT CD JJ NNS|BODY_3|0
+the linearly dependent set|DT JJ JJ NN|BODY_4|0
+the upper right portion|DT JJ JJ NN|BODY_5|0
+functionally compositional (van gelder|RB JJ NN NN|BODY_2|0
+the nature and role|DT NN CC NN|BODY_3|0
+that the current approach|IN DT JJ NN|BODY_2|0
+the lower left region|DT JJR JJ NN|BODY_9|0
+e .g. , st|NN NNP , NN|BODY_8|0
+distributed representations ( hinton|VBN NNS -LRB- NN|BODY_3|0
+a more perspicacious account|DT RBR JJ NN|BODY_3|0
+the main clause noun|DT JJ NN NN|BODY_4|0
+'s paradox ( baker|POS NN -LRB- NN|BODY_9|0
+( kawamoto & mcclelland|-LRB- FW CC NN|BODY_29|0
+many open  (|JJ JJ NN -LRB-|BODY_4|0
+a successful connectionist account|DT JJ NN NN|BODY_10|0
+an option direct object|DT NN JJ NN|BODY_7|0
+yet other relative clauses|RB JJ JJ NNS|BODY_9|0
+3 shows network predictions|CD VBZ NN NNS|BODY_3|0
+the highest possible level|DT JJS JJ NN|BODY_5|0
+the first embedded clause|DT JJ JJ NN|BODY_5|0
+the brain ( kutas|DT NN -LRB- NNS|BODY_9|0
+more familiar computational systems|RBR JJ JJ NNS|BODY_4|0
+representation ( e .g.|NN -LRB- NN NN|BODY_6|0
+recursive auto-associative memory (raam|JJ JJ NN NN|BODY_4|0
+sentence ( 1c )|NN -LRB- CD -RRB-|BODY_4|0
+simple declarative sentences agreement|JJ JJ NNS NN|BODY_1|0
+a filler ( boys|DT NN -LRB- NNS|BODY_4|0
+the three different classes|DT CD JJ NNS|BODY_18|0
+second chase ) verb|JJ NN -RRB- NN|BODY_4|0
+multiple subjects or agents|JJ NNS CC NNS|BODY_5|0
+their information content changes|PRP$ NN NN NNS|BODY_2|0
+the simple recurrent network|DT JJ JJ NN|BODY_1:BODY_9|0
+an inappropriate computational mechanism|DT JJ JJ NN|BODY_2|0
+an a priori commitment|DT DT NN NN|BODY_4|0
+the current time step|DT JJ NN NN|BODY_8|0
+morphological and syntactic processes|JJ CC JJ NNS|BODY_9|0
+the first and last|DT JJ CC JJ|BODY_2|0
+a simple dynamical system|DT JJ JJ NN|BODY_3|0
+subject , daughter-of )|JJ , JJ -RRB-|BODY_10|0
+these the practical limitations|DT DT JJ NNS|BODY_2|0
+the specific problem areas|DT JJ NN NNS|BODY_7|0
+the verb argument facts|DT JJ NN NNS|BODY_4|0
+'s constructing internal representations|POS VBG JJ NNS|BODY_5|0
+these new connectionist rules|DT JJ NN NNS|BODY_2|0
+a finite state automaton|DT JJ NN NN|BODY_8|0
+( additional hidden layers|-LRB- JJ VBN NNS|BODY_1|0
+sentence ( 7 )|NN -LRB- CD -RRB-|BODY_1|0
+a more naturalistic approach|DT RBR JJ NN|BODY_2|0
+the upper middle region|DT JJ JJ NN|BODY_15|0
+the direct object role|DT JJ NN NN|BODY_6|0
+( 4c ) *dog|-LRB- JJ -RRB- NN|BODY_1|0
+( a ) agreement|-LRB- DT -RRB- NN|BODY_1|0
+third , natural languages|JJ , JJ NNS|BODY_1|0
+an obligatory direct object|DT JJ JJ NN|BODY_2|0
+( 1 ) )|-LRB- CD -RRB- -RRB-|BODY_13|0
+all involved simple sentences|DT JJ JJ NNS|BODY_4|0
+the ungrammatical (5b )|DT JJ NN -RRB-|BODY_8|0
+maximum 13 words )|NN CD NNS -RRB-|BODY_4|0
+( 5a ) dog|-LRB- CD -RRB- NN|BODY_1|0
+( 8d ) boys|-LRB- NN -RRB- NNS|BODY_1|0
+hinton ( 1988 )|NN -LRB- CD -RRB-|BODY_1|0
+semantic and pragmatic considerations|JJ CC JJ NNS|BODY_1|0
+concept and individual nodes|NN CC JJ NNS|BODY_8|0
+the corresponding teaching information|DT JJ NN NN|BODY_7|0
+processing or implementation versions|NN CC NN NNS|BODY_1|0
+( principal component 4|-LRB- NN NN CD|BODY_1|0
+the most general sense|DT JJS JJ NN|BODY_1|0
+the previous time step|DT JJ NN NN|BODY_11|0
+the form and meaning|DT NN CC NN|BODY_1|0
+other closely related issues|JJ RB JJ NNS|BODY_5|0
+a phrase structure grammar|DT NN NN NN|BODY_1|0
+an even subtler point|DT RB JJR NN|BODY_1|0
+a very difficult domain|DT RB JJ NN|BODY_3|0
+the following 4 corpora|DT VBG CD NN|BODY_4|0
+the two sentences )|DT CD NNS -RRB-|BODY_8|0
+a direct object filler|DT JJ NN NN|BODY_12|0
+finite length and number|JJ NN CC NN|BODY_14|0
+the abstract grammatical structure|DT JJ JJ NN|BODY_8|0
+the appropriate argument structure|DT JJ NN NN|BODY_13|0
+the basic notion word|DT JJ NN NN|BODY_1|0
+a straightforward linguistic primitive|DT JJ JJ JJ|BODY_4|0
+only one correct combination|RB CD JJ NN|BODY_5|0
+certain lim - itations|JJ JJ : NNS|BODY_2|0
+the other two sentences|DT JJ CD NNS|BODY_1|0
+( c ) interactions|-LRB- NN -RRB- NNS|BODY_1|0
+( 1 ) a|-LRB- CD -RRB- DT|BODY_1|0
+the two relative clauses|DT CD JJ NNS|BODY_1|0
+words|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+sentences|NNS|BODY_6:BODY_5:BODY_16:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+who|WP|BODY_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_19:BODY_8|0
+press )|NN -RRB-|BODY_5:BODY_16:BODY_15:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+the hidden units|DT JJ NNS|BODY_6:BODY_16:BODY_2:BODY_1:BODY_3:BODY_8:BODY_9|0
+a direct object|DT JJ NN|BODY_5:BODY_11:BODY_2:BODY_4:BODY_9|0
+the relative clause|DT JJ NN|BODY_5:BODY_1:BODY_10:BODY_8|0

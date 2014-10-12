@@ -1,0 +1,235 @@
+we|PRP|BODY_1:BODY_2:ABSTRACT_3:ABSTRACT_1|1
+which|WDT|BODY_5:ABSTRACT_3:BODY_3:BODY_8|0
+the agents|DT NNS|BODY_12:ABSTRACT_6:ABSTRACT_3|0
+a bounded action space|DT VBN NN NN|TITLE_2|0
+mechanism design|NN NN|ABSTRACT_4:BODY_2:BODY_1|0
+the optimal mechanisms|DT JJ NNS|BODY_2:ABSTRACT_7|0
+no additional cost|DT JJ NN|ABSTRACT_7:BODY_7|1
+games|NNS|BODY_6:ABSTRACT_6|0
+implementation|NN|TITLE_1|0
+any multilinear social-choice rule|DT JJ NN NN|ABSTRACT_6:ABSTRACT_2|0
+[social and behavioral sciences|JJ CC JJ NNS|ABSTRACT_2|0
+k.4.4 [ electronic commerce]|CD NN JJ NN|ABSTRACT_4|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+general terms economics|JJ NNS NNS|ABSTRACT_6|0
+their action space|PRP$ NN NN|ABSTRACT_8|0
+o( 1 k2|NN CD NN|ABSTRACT_6|0
+an expected loss|DT JJ NN|ABSTRACT_5|0
+type- and action|NNS CC NN|ABSTRACT_4|0
+a general framework|DT JJ NN|ABSTRACT_2|0
+the optimal mechanism|DT JJ NN|ABSTRACT_3|0
+traditional mechanism design|JJ NN NN|ABSTRACT_1|0
+public-good models|JJ NNS|ABSTRACT_6|0
+, e.g.|, FW|ABSTRACT_9|0
+payment schemes|NN NNS|ABSTRACT_5|0
+single-parameter environments|JJ NNS|ABSTRACT_5|0
+signaling games|VBG NNS|ABSTRACT_5|0
+two players|CD NNS|ABSTRACT_7|0
+strict restrictions|JJ NNS|ABSTRACT_7|0
+k actions|JJ NNS|ABSTRACT_4|0
+their applicability|PRP$ NN|ABSTRACT_4|0
+action-bounded mechanisms|JJ NNS|ABSTRACT_4|0
+the optimality|DT NN|ABSTRACT_3|0
+necessary conditions|JJ NNS|ABSTRACT_2|0
+many situations|JJ NNS|ABSTRACT_5|0
+the study|DT NN|ABSTRACT_3|0
+design|NN|ABSTRACT_7|0
+sufficient conditions|JJ NNS|ABSTRACT_2|0
+economics|NNS|ABSTRACT_3|0
+dominant strategies|JJ NNS|ABSTRACT_5|0
+isomorphism|NN|ABSTRACT_2|0
+restricted action|JJ NN|ABSTRACT_6|0
+two alternatives|CD NNS|ABSTRACT_8|0
+our results|PRP$ NNS|ABSTRACT_1|0
+unrestricted action|JJ NN|ABSTRACT_8|0
+our contribution|PRP$ NN|ABSTRACT_1|0
+theory|NN|ABSTRACT_8|0
+networks|NNS|ABSTRACT_7|0
+the players|DT NNS|BODY_6:BODY_5:BODY_1:BODY_4:BODY_8:BODY_9|0
+example|NN|BODY_5:BODY_2:BODY_1:BODY_14|2
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_4:BODY_7|0
+the action space|DT NN NN|BODY_6:BODY_2|0
+a similar rate )|DT JJ NN -RRB-|BODY_11|1
+some privately known benefits|DT RB VBN NNS|BODY_3|0
+the players  types|DT NNS NN NNS|BODY_8|0
+players|NNS|BODY_16:BODY_2|1
+that|WDT|BODY_5:BODY_3:BODY_4|0
+a social choice function|DT JJ NN NN|BODY_7|0
+the well-studied screening model|DT JJ NN NN|BODY_2|0
+a general mechanism-design framework|DT JJ NN NN|BODY_4|0
+their entire secret data|PRP$ JJ JJ NNS|BODY_2|0
+more then few types|JJR RB JJ NNS|BODY_9|0
+the exact private information|DT JJ JJ NN|BODY_8|0
+either infeasible or illegal|DT JJ CC JJ|BODY_8|0
+the well-known vcg mechanism|DT JJ JJ NN|BODY_3|0
+some product or service|DT NN CC NN|BODY_6|0
+his private type [15]|PRP$ JJ NN NN|BODY_11|0
+blumrosen et al|NNP NNP NN|BODY_3|1
+0 or 1 )|CD CC CD -RRB-|BODY_6|0
+the social planner|DT JJ NN|BODY_2:BODY_1|0
+a limited expressive power|DT JJ JJ NN|BODY_5|0
+the bridge|DT NN|BODY_6:BODY_2:BODY_10|0
+a social planner|DT JJ NN|BODY_5:BODY_4|0
+some monotonicity assumption|DT NN NN|BODY_3|0
+such strict restrictions|JJ JJ NNS|BODY_3|0
+agents|NNS|BODY_1:BODY_2|0
+an equilibrium|DT NN|BODY_6:BODY_9|0
+some other properties|DT JJ NNS|BODY_12|1
+a bidding process|DT NN NN|BODY_4|0
+some main properties|DT JJ NNS|BODY_2|1
+more general frameworks|RBR JJ NNS|BODY_4|1
+only two actions|RB CD NNS|BODY_3|0
+the the need|DT DT NN|BODY_7|0
+discrete priority classes|JJ NN NNS|BODY_10|0
+the communication lines|DT NN NNS|BODY_5|0
+8 , 7]|CD , CD|BODY_7|0
+( i .e|-LRB- FW FW|BODY_6|0
+the main results|DT JJ NNS|BODY_2|0
+very strict limitations|RB JJ NNS|BODY_5|0
+an infinite number|DT JJ NN|BODY_6|0
+the revelation principle|DT NN NN|BODY_2|0
+possible caution levels|JJ NN NNS|BODY_4|0
+their accurate types|PRP$ JJ NNS|BODY_3|0
+a public-good project|DT JJ NN|BODY_4|0
+each possible state|DT JJ NN|BODY_4|0
+two possible actions|CD JJ NNS|BODY_4|0
+e .g.|NN NNP|BODY_5|0
+they|PRP|BODY_5:BODY_1|0
+nearly optimal results|RB JJ NNS|BODY_4|0
+a truthful one|DT JJ CD|BODY_8|0
+the same result|DT JJ NN|BODY_7|0
+a certain result|DT JJ NN|BODY_5|0
+their caution levels|PRP$ NN NNS|BODY_7|0
+direct revelation mechanisms|JJ NN NNS|BODY_4|0
+some private information|DT JJ NN|BODY_3|0
+their true data|PRP$ JJ NNS|BODY_6|0
+an insurance firm|DT NN NN|BODY_3|0
+their types )|PRP$ NNS -RRB-|BODY_4|0
+a social-choice function|DT JJ NN|BODY_2|0
+a public-good model|DT JJ NN|BODY_3|0
+their exact type|PRP$ JJ NN|BODY_5|0
+the limited expressivness|DT JJ NN|BODY_4|0
+the private data|DT JJ NNS|BODY_3|0
+the total benefit|DT JJ NN|BODY_7|0
+the construction cost|DT NN NN|BODY_5|0
+the short run|DT JJ NN|BODY_6|0
+her objective function|PRP$ JJ NN|BODY_3|0
+the two players|DT CD NNS|BODY_1|0
+a classic result|DT JJ NN|BODY_1|0
+a single alternative|DT JJ NN|BODY_9|0
+his type space|PRP$ NN NN|BODY_8|0
+several earlier papers|JJ JJR NNS|BODY_4|0
+a chosen alternative|DT VBN NN|BODY_14|0
+a standard setting|DT JJ NN|BODY_1|0
+many similar settings|JJ JJ NNS|BODY_1|0
+their private information|PRP$ JJ NN|BODY_9|0
+severely bounded size|RB VBN NN|BODY_5|0
+their types|PRP$ NNS|BODY_3:BODY_4|0
+them|PRP|BODY_5:BODY_8|0
+this setting|DT NN|BODY_2|0
+various reasons|JJ NNS|BODY_2|0
+a price|DT NN|BODY_5|0
+a bridge|DT NN|BODY_6:BODY_5|0
+the game|DT NN|BODY_2|0
+the closest|DT JJS|BODY_5|0
+similar models|JJ NNS|BODY_2|0
+the performance|DT NN|BODY_12|0
+english auctions|JJ NNS|BODY_10|0
+possible actions|JJ NNS|BODY_10|1
+the analysis|DT NN|BODY_3|0
+specific models|JJ NNS|BODY_3|0
+the number|DT NN|BODY_9|1
+such environemnts|JJ NNS|BODY_2|0
+the loss|DT NN|BODY_8|1
+a continuum|DT NN|BODY_3|0
+a profile|DT NN|BODY_7|0
+asymmetric mechanisms|JJ NNS|BODY_15|1
+possible values|JJ NNS|BODY_7|0
+the effect|DT NN|BODY_9|0
+messages|NNS|BODY_6:BODY_4|0
+dominant-strategy equilibrium|NN NN|BODY_6|1
+quick transactions|JJ NNS|BODY_8|0
+technical constraints|JJ NNS|BODY_3|0
+take-it-or-leave-it auctions|NN NNS|BODY_8|0
+policies|NNS|BODY_5:BODY_10|0
+each agent|DT NN|BODY_10|0
+the presence|DT NN|BODY_4|0
+action space|NN NN|BODY_7|0
+a multitude|DT NN|BODY_6|0
+a player |DT NN|BODY_6|0
+direct-revelation mechanisms|NN NNS|BODY_2|0
+a function|DT NN|BODY_9|0
+this restriction|DT NN|BODY_3|0
+severe restrictions|JJ NNS|BODY_4|0
+or not|CC RB|BODY_4|0
+actions|NNS|BODY_5:BODY_7|0
+insurance companies|NN NNS|BODY_5|0
+the world|DT NN|BODY_5|0
+the actions|DT NNS|BODY_3|0
+firms|NNS|BODY_2|0
+their action|PRP$ NN|BODY_6|0
+any profile|DT NN|BODY_11|0
+single-item auctions|JJ NNS|BODY_2|0
+different types|JJ NNS|BODY_4|0
+6|CD|BODY_3|0
+their valuations|PRP$ NNS|BODY_3|0
+some mechanism|DT NN|BODY_4|0
+a sub-field|DT NN|BODY_2|0
+game theory|NN NN|BODY_3|0
+a government|DT NN|BODY_2|0
+cannot|NN|BODY_3|0
+private [16]|JJ NN|BODY_4|0
+the planner|DT NN|BODY_7|0
+spirit|NN|BODY_6|0
+different drivers|JJ NNS|BODY_6|0
+drivers|NNS|BODY_2|0
+these benfits|DT NNS|BODY_4|0
+buyers|NNS|BODY_11|0
+the mechanism|DT NN|BODY_2|0
+an action|DT NN|BODY_3|0
+desirable outcomes|JJ NNS|BODY_7|0
+partial information|JJ NN|BODY_4|0
+private information|JJ NN|BODY_3|0
+the sum|DT NN|BODY_3|0
+5]|CD|BODY_4|0
+auctions|NNS|BODY_5|0
+this bridge|DT NN|BODY_5|0
+the action|DT NN|BODY_4|0
+discrete-bid|NN|BODY_4|0
+(|-LRB-|BODY_13|1
+the work|DT NN|BODY_1|0
+this paper|DT NN|BODY_7|0
+some situations|DT NNS|BODY_1|0
+other work|JJ NN|BODY_1|0
+this model|DT NN|BODY_1|0
+11|CD|BODY_6|0
+the buyers|DT NNS|BODY_1|0
+types|NNS|BODY_13|0
+such restrictions|JJ NNS|BODY_5|0
+the item|DT NN|BODY_8|0
+many environments|JJ NNS|BODY_1|0
+]|NN|BODY_6|0
+what|WP|BODY_3|0
+their utilities|PRP$ NNS|BODY_7|0
+this focus|DT NN|BODY_1|0
+c|NN|BODY_8|0
+our work|PRP$ NN|BODY_1|0
+maps|NNS|BODY_10|0
+the literature|DT NN|BODY_1|0
+this work|DT NN|BODY_1|0
+direct revelation|JJ NN|BODY_1|0
+future transactions|JJ NNS|BODY_9|0
+its cost|PRP$ NN|BODY_9|0
+expensive [12]|JJ NN|BODY_7|0
+who|WP|BODY_6|0
+bidders|NNS|BODY_3|0
+rules|NNS|BODY_5|0
+attention|NN|BODY_3|0
+wishes|NNS|BODY_3|0
+incentives|NNS|BODY_5|0
+access|NN|BODY_2|0
+the|DT|BODY_4|0
+there|EX|BODY_1|0
+)|-RRB-|BODY_11|0
+limitations|NNS|BODY_1|0
+restrictions|NNS|BODY_1|0

@@ -1,0 +1,602 @@
+we|PRP|BODY_12:BODY_11:BODY_21:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|11
+that|WDT|BODY_12:BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:ABSTRACT_10:BODY_20:BODY_9|4
+traders|NNS|BODY_16:BODY_15:BODY_13:ABSTRACT_2:ABSTRACT_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_7:BODY_10:BODY_7:BODY_9:BODY_20|2
+there|EX|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|2
+which|WDT|BODY_11:BODY_21:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_9|2
+it|PRP|BODY_12:BODY_11:BODY_16:BODY_18:BODY_25:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_7:BODY_7:BODY_8:BODY_9|3
+this|DT|BODY_6:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+buyers and sellers|NNS CC NNS|BODY_12:BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+all sellers and buyers|DT NNS CC NNS|BODY_2:BODY_3:BODY_4:BODY_7|0
+all buyers and sellers|DT NNS CC NNS|BODY_2:BODY_14:ABSTRACT_1:BODY_10|0
+the socially optimal trade|DT RB JJ NN|BODY_2:BODY_4|0
+the complementary slackness conditions|DT JJ NN NNS|BODY_3:BODY_8|0
+[social and behavioral sciences|JJ CC JJ NNS|ABSTRACT_2|0
+economics general terms economics|NNS JJ NNS NNS|ABSTRACT_3|0
+the optimal dual solution|DT JJ JJ NN|BODY_3|0
+the dual linear program|DT JJ NN NN|BODY_2:BODY_3:BODY_8:BODY_9|0
+a seller or buyer|DT NN CC NN|BODY_6:BODY_3|0
+the good , subject|DT JJ , JJ|BODY_6|0
+the standard textbook treatment|DT JJ NN NN|BODY_7|0
+the following linear program|DT JJ JJ NN|BODY_5:BODY_8|0
+an optimal dual solution|DT JJ JJ NN|BODY_6:BODY_11:BODY_1|0
+the sellers and buyers|DT NNS CC NNS|BODY_7:BODY_9|0
+the same buyer-seller pair|DT JJ NN NN|BODY_9|0
+an optimal trade x|DT JJ NN NN|BODY_1|0
+between 1 and 2.|IN CD CC CD|BODY_2|0
+a bit smaller bid|DT NN JJR NN|BODY_8|0
+a clean combinatorial characterization|DT JJ JJ NN|BODY_3|0
+a bit larger ask|DT NN JJR VB|BODY_7|0
+an iterative priceupdating algorithm|DT NN NN NN|BODY_6|0
+each seller or buyer|DT NN CC NN|BODY_2:BODY_1|0
+prices and consumers search|NNS CC NNS NN|BODY_3|0
+chu and shen [4|NN CC NN NNS|BODY_4|0
+all 144 w x|DT CD JJ SYM|BODY_7|1
+individual buyers and sellers|JJ NNS CC NNS|ABSTRACT_3:BODY_8|0
+more than one copy|JJR IN CD NN|BODY_2|0
+an extremely high ask|DT RB JJ VBP|BODY_5|0
+seller or buyer i|NN CC NN NN|BODY_5:BODY_3|0
+a certain linear program|DT JJ NN NN|BODY_5|0
+the seller and buyer|DT NN CC NN|BODY_3:BODY_8|0
+markets [10 , 13]|NNS CD , CD|BODY_2|0
+the best trade t|DT JJS NN NN|BODY_8|0
+shapley and shubik [13]|NN CC NN NN|BODY_13|0
+a complete bipartite graph|DT JJ JJ NN|BODY_5|0
+kranton and minehart note|NN CC NN NN|BODY_3|0
+the minimum total profit|DT JJ NN NN|BODY_3:BODY_4|0
+a few crucial ingredients|DT JJ JJ NNS|BODY_2|0
+no strict best response|DT JJ JJS NN|BODY_5|0
+anonymous buyers and sellers|JJ NNS CC NNS|BODY_6|0
+0 âˆ€t âˆˆ t|CD JJ JJ NN|BODY_6:BODY_10|0
+a bipartite graph g|DT JJ NN NN|BODY_6|0
+qtj â‰ ¥ vtij|RB IN JJ NNS|BODY_8|0
+at least î³ profit|IN JJS JJ NN|BODY_5|0
+î²tij â‰ ¤ î±tji|RB JJ NN NN|BODY_10|0
+tâˆˆt yt yt â‰|JJ JJ JJ NNS|BODY_5:BODY_9|0
+each i âˆˆ b|DT FW FW NN|BODY_4|0
+a fundamentally a metaphor|DT RB DT NN|BODY_5|0
+a single trader t|DT JJ NN NN|BODY_3|0
+a given trader t|DT VBN NN NN|BODY_4|0
+an ask price î±tj|DT VB NN NNS|BODY_7|0
+kranton and minehart [9]|NN CC NN NN|BODY_4|0
+î±t â‰ ¥ î²t|JJ NN NN NN|BODY_5|0
+k sellers and traders|NN NNS CC NNS|BODY_6|0
+the same primal inequality|DT JJ JJ NN|BODY_5|0
+the mechanism design approach|DT NN NN NN|BODY_5|0
+a secondary objective function|DT JJ JJ NN|BODY_3|0
+these maxima and minima|DT NN CC NN|BODY_4|0
+the complementary slackness constraint|DT JJ NN NN|BODY_3|0
+figure 1( c )|NN JJ NN -RRB-|BODY_2|0
+the four required properties|DT CD JJ NNS|BODY_4|0
+the maximum value matching|DT JJ NN NN|BODY_9|0
+n t buy )|RB JJ NN -RRB-|BODY_6|0
+the mechanism design frameworks|DT NN NN NNS|BODY_9|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+¥ vtij + pi|NN JJ NNS NN|BODY_7|0
+the two linear programs|DT CD JJ NNS|BODY_2|0
+a more general type|DT RBR JJ NN|ABSTRACT_3|0
+âˆª b and qti|JJ NN CC NN|BODY_5|0
+only one trader t|RB CD NN NN|BODY_6|0
+both buyers and sellers|DT NNS CC NNS|BODY_7|0
+a more general setting|DT RBR JJ NN|BODY_9|0
+no one fixed price|DT NN VBN NN|BODY_9|0
+î¸ji âˆ ’ î¸ij|NNP NNP NNP NNP|BODY_9|0
+a given transportation cost|DT VBN NN NN|BODY_11|0
+given inadequate transportation networks|VBN JJ NN NNS|BODY_1|0
+the more general case|DT RBR JJ NN|BODY_3|0
+a standard second-price auction|DT JJ JJ NN|BODY_4|1
+a transshipment linear program|DT NN NN NN|BODY_3|0
+ask î±t and bid|VB JJ CC NN|BODY_2|0
+all other 149 traders|DT JJ CD NNS|BODY_3|0
+the transshipment linear program|DT NN NN NN|BODY_3|0
+the equilibrium search literature|DT NN NN NN|BODY_1|0
+at least î²tij =|IN JJS NN SYM|BODY_3|0
+an ascending auction mechanism|DT VBG NN NN|BODY_5|0
+a a budget-balanced mechanism|DT DT JJ NN|BODY_6|0
+a price adjustment mechanism|DT NN NN NN|BODY_4|0
+the most striking examples|DT RBS JJ NNS|BODY_2|0
+much more open access|RB RBR JJ NN|BODY_10|0
+the dual solution zi|DT JJ NN NN|BODY_3|1
+) and buyers b(t|-RRB- CC NNS NN|BODY_6|0
+= î±tji âˆ ’|SYM NN FW FW|BODY_12|0
+a bid price î²ti|DT NN NN NNS|BODY_4|0
+pi and increase yt|NN CC NN NN|BODY_5|0
+the objective function value|DT JJ NN NN|BODY_5|0
+a trader or set|DT NN CC NN|BODY_5|0
+the existence and efficiency|DT NN CC NN|BODY_2|0
+î¸j âˆ ’ î±t|JJ NN NN RB|BODY_4|0
+the job search )|DT NN NN -RRB-|BODY_18|0
+the unique best offer|DT JJ JJS NN|BODY_3|0
+all dual solutions correspond|DT JJ NNS NN|BODY_2|0
+any individual valuation î¸i|DT JJ NN NNS|BODY_5|0
+a feasible dual solution|DT JJ JJ NN|BODY_13|0
+each buyer and seller|DT NN CC NN|ABSTRACT_12|0
+this linear program corresponds|DT NN NN NNS|BODY_14|0
+a matching dual solution|DT VBG JJ NN|BODY_12|0
+the same trade optimum|DT JJ NN NN|BODY_10|0
+qt i > 0|JJ FW FW CD|BODY_2|0
+the general equilibrium literature|DT JJ NN NN|BODY_1|0
+the minimum possible profit|DT JJ JJ NN|BODY_4|0
+only a single option|RB DT JJ NN|BODY_8|0
+an undirected graph g|DT JJ NN NN|BODY_2|0
+multiple t âˆˆ adj(i|JJ NN NN NN|BODY_7|0
+some edge e incident|DT NN NN NN|BODY_8|0
+a two-stage trading game|DT JJ NN NN|BODY_3|0
+= pi + î¸i|SYM NN NN NN|BODY_10|0
+j ) âˆˆ e|NN -RRB- NN NN|BODY_3|0
+particular how much profit|JJ WRB JJ NN|BODY_9|0
+the maximum profit i|DT NN NN NN|BODY_5|0
+the only trader t|DT JJ NN NN|BODY_2|0
+multiple identical ask/bid offers|JJ JJ NN NNS|BODY_4|0
+the maximum total profit|DT JJ JJ NN|BODY_3|0
+the only tight edge|DT RB JJ NN|BODY_2|0
+w âˆ ’ x|RB JJ NN NN|BODY_15|0
+a more general modification|DT RBR JJ NN|BODY_4|0
+the value pi +î¸i|DT NN NN NN|BODY_4|0
+j ) âˆˆ t|NN -RRB- JJ NN|BODY_15|0
+all other q values|DT JJ NN NNS|BODY_10|0
+such crossing bid-ask pairs|JJ NN NN NNS|BODY_3|1
+âˆ ’ î¸ij (|JJ JJ NN -LRB-|BODY_10|0
+only a single trader|RB DT JJ NN|BODY_13:BODY_8|0
+these two linear programs|DT CD JJ NNS|BODY_6|0
+the unique best option|DT JJ JJS NN|BODY_4|0
+this general framework captures|DT JJ NN NNS|BODY_1|0
+i2 and j2 experience|JJ CC JJ NN|BODY_1|0
+a trader t âˆˆ|DT NN NN NN|BODY_15|0
+a standard proof technique|DT JJ NN NN|BODY_1|0
+his own optimization problem|PRP$ JJ NN NN|BODY_3|0
+the standard baseline approach|DT JJ NN NN|BODY_1|0
+the previous example shows|DT JJ NN NNS|BODY_1|0
+a particular trader t|DT JJ NN NN|BODY_1|0
+the walrasian auctioneer abstraction|DT JJ NN NN|BODY_10|0
+the seller or buyer|DT NN CC NN|BODY_6|0
+the corresponding linear programs|DT JJ JJ NNS|BODY_14|0
+î±t âˆ ’ î²t|JJ JJ NN IN|BODY_4|0
+some buyers and sellers|DT NNS CC NNS|BODY_1|0
+different sellers and buyers|JJ NNS CC NNS|BODY_5|0
+job applicants and employers|NN NNS CC NNS|ABSTRACT_7|0
+the fourth property true|DT JJ NN JJ|BODY_7|0
+a single distinct buyer|DT JJ JJ NN|BODY_8|0
+the most basic version|DT JJS JJ NN|BODY_1|0
+any socially optimal trade|DT RB JJ NN|BODY_3|0
+a more general level|DT RBR JJ NN|BODY_4|0
+figure 1( b )|NN JJ NN -RRB-|BODY_1|1
+subgame perfect nash equilibrium|JJ JJ NN NN|BODY_3|0
+global , graph-theoretic reasons|JJ , JJ NNS|BODY_4|0
+an edge ( i|DT NN -LRB- FW|BODY_1|0
+mediate the job market|JJ DT NN NN|BODY_7|0
+at most one triple|IN JJS CD JJ|BODY_17|0
+the best value possible|DT JJS NN JJ|BODY_12|1
+a pure cross-free equilibrium|DT JJ JJ NN|BODY_3|0
+î¸j âˆ ’ pj|NNP NNP NNP NN|BODY_1|0
+the trader t trading|DT NN NN NN|BODY_5|0
+no crossing bid-ask pairs|DT NN NN NNS|BODY_13|0
+the maximum possible profit|DT JJ JJ NN|BODY_1|0
+the corresponding dual constraint|DT JJ JJ NN|BODY_8|0
+prices|NNS|BODY_11:ABSTRACT_11:ABSTRACT_3:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_1:BODY_19:BODY_7:BODY_8:BODY_9|1
+the good|DT JJ|BODY_6:BODY_12:BODY_11:BODY_5:BODY_16:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+trade|NN|BODY_6:BODY_5:BODY_16:ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+a trader t|DT NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|2
+trader t|NN NN|BODY_11:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+an equilibrium|DT NN|BODY_6:BODY_12:BODY_5:BODY_22:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|1
+they|PRP|BODY_12:BODY_5:BODY_11:ABSTRACT_6:ABSTRACT_4:BODY_1:BODY_14:BODY_10:BODY_4:BODY_7:BODY_8|0
+i|NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|2
+0|CD|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+( i|-LRB- FW|BODY_6:BODY_12:BODY_5:BODY_18:BODY_1:BODY_2:BODY_14:BODY_4:BODY_8:BODY_9|0
+t|NN|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+each trader t|DT NN NN|BODY_1:BODY_2:BODY_3:BODY_9|0
+a trader|DT NN|BODY_11:ABSTRACT_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+an optimal solution|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4:BODY_8|0
+the value|DT NN|BODY_12:BODY_11:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_7|0
+a dual solution|DT JJ NN|BODY_5:BODY_2:BODY_3|0
+â‰ ¤ 1|JJ NN CD|BODY_6:BODY_3:BODY_4|0
+who|WP|BODY_6:BODY_12:BODY_5:ABSTRACT_5:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_19:BODY_9|2
+sellers and buyers|NNS CC NNS|BODY_2:BODY_1:BODY_7:BODY_8|0
+the trader t|DT NN NN|BODY_6:BODY_2:BODY_3:BODY_9|0
+a non-crossing equilibrium|DT JJ NN|BODY_5:BODY_1:BODY_2|0
+a bipartite graph|DT JJ NN|BODY_6:BODY_17:BODY_2|0
+0 1 x|CD CD SYM|BODY_11:BODY_15|2
+the social value|DT JJ NN|BODY_6:BODY_2:BODY_3|0
+implicit perfect competition|JJ JJ NN|BODY_3:BODY_8|0
+the walrasian model|DT JJ NN|BODY_6:BODY_2:BODY_4|1
+the dual solution|DT JJ NN|BODY_5:BODY_4:BODY_8|0
+a buyer j|DT NN NN|BODY_12:BODY_1:BODY_3|0
+a seller i|DT NN NN|BODY_11:BODY_1|0
+the same price|DT JJ NN|BODY_15:BODY_2:BODY_4|0
+the same asset|DT JJ NN|BODY_12:BODY_6|0
+t âˆˆ t|NN NN NN|BODY_12:BODY_4|0
+âˆ ’ pj|NNP NNP NN|BODY_11:BODY_9|0
+( 1 )|-LRB- LS -RRB-|BODY_5:BODY_14:BODY_8|0
+the relative power|DT JJ NN|BODY_15:BODY_2|0
+0 âˆ€i âˆˆ|CD NN JJ|BODY_12:BODY_7:BODY_8|0
+the basic model|DT JJ NN|BODY_2:BODY_1:BODY_3|0
+then his profit|RB PRP$ NN|BODY_3:BODY_4|0
+the two traders|DT CD NNS|BODY_3:BODY_4|0
+the trade x|DT NN NN|BODY_5:BODY_2:BODY_4|1
+the maximum profit|DT NN NN|BODY_11:BODY_1:BODY_4|0
+the network topology|DT NN NN|BODY_5:BODY_9|1
+the network structure|DT NN NN|BODY_3:ABSTRACT_9|0
+qti > 0|NNS VBP CD|BODY_9|0
+this matching problem|DT NN NN|BODY_4|0
+a linear program|DT JJ NN|BODY_3:BODY_4|0
+all other traders|DT JJ NNS|BODY_4|0
+xt = 1|IN SYM CD|BODY_2:BODY_9|0
+a single edge|DT JJ NN|BODY_2|0
+the current set|DT JJ NN|BODY_5|0
+the optimal trade|DT JJ NN|BODY_1:BODY_7|0
+all equilibria lead|DT NN NN|ABSTRACT_4:BODY_4|2
+the strategic behavior|DT JJ NN|BODY_4:BODY_8|0
+a retail market|DT JJ NN|BODY_9|0
+the maximum value|DT JJ NN|BODY_1:BODY_2|0
+agents value money|NNS NN NN|BODY_2|0
+the optimization problem|DT NN NN|BODY_1:BODY_2:BODY_14|0
+an edge t|DT NN NN|BODY_11:BODY_4|0
+a bid price|DT NN NN|BODY_13:BODY_2|0
+a ) sellers|DT -RRB- NNS|BODY_4|0
+some trader t|DT NN NN|BODY_5|0
+such a deviation|JJ DT NN|BODY_2|0
+total trader profit|JJ NN NN|BODY_1|0
+chu and shen|JJ CC RB|BODY_5|0
+the same rate|DT JJ NN|BODY_3|0
+yt â‰ ¥|JJ NNS VBP|BODY_14:BODY_10|0
+the same intermediaries|DT JJ NNS|BODY_12:ABSTRACT_3|0
+the objective function|DT JJ NN|BODY_6:BODY_10|0
+a single trader|DT JJ NN|BODY_2:BODY_7|0
+agents b âˆª|NNS NN NNS|BODY_2|0
+qti = î³|NNP SYM NN|BODY_9|0
+these trading venues|DT NN NNS|BODY_4|0
+any seller-buyer paths|DT NN NNS|BODY_8|0
+paying different prices|VBG JJ NNS|BODY_2|0
+x tâˆˆadj(j )|SYM NN -RRB-|BODY_17|0
+only one copy|RB CD NN|BODY_6|0
+the next section|DT JJ NN|BODY_1:BODY_9|0
+some buyer edge|DT NN NN|BODY_15|0
+no two traders|DT CD NNS|BODY_7|0
+babaioff et al|RP FW JJ|BODY_4|0
+the solution feasible|DT NN JJ|BODY_4|0
+1 ( b|CD -LRB- NN|BODY_12|1
+pj â‰ ¤|JJ JJ NN|BODY_2|0
+the social welfare|DT JJ NN|BODY_5:BODY_7|0
+the last condition|DT JJ NN|BODY_3|0
+desirable equilibrium properties|JJ NN NNS|BODY_2|0
+a low bid|DT JJ NN|BODY_3|0
+a matching problem|DT NN NN|BODY_3:BODY_4|0
+the previous section|DT JJ NN|BODY_5:BODY_1|0
+distinguishable goods result|JJ NNS NN|BODY_4|0
+some agents t|DT NNS NN|BODY_4|0
+this linear program|DT JJ NN|BODY_3:BODY_9|0
+yt > 0|RB VBN CD|BODY_8|0
+an edge e|DT NN NN|BODY_5:BODY_8|0
+perhaps the oldest|RB DT JJS|BODY_3|0
+all equilibria result|DT NN NN|BODY_7|0
+a pure equilibrium|DT JJ NN|BODY_11:BODY_3|0
+p and q|NN CC NN|BODY_2|0
+1 ( c|CD -LRB- NN|BODY_16|1
+a developing country|DT VBG NN|BODY_1|0
+modern efficient markets|JJ JJ NNS|BODY_3|0
+the last set|DT JJ NN|BODY_1|0
+the linear program|DT NN NN|BODY_1:BODY_3|0
+some other agent|DT JJ NN|BODY_11|0
+’ î¸i )|JJ NN -RRB-|BODY_13|0
+tight edges e|JJ NNS NN|BODY_3|0
+just one buyer|RB CD NN|BODY_3|0
+an additional inequality|DT JJ NN|BODY_2|0
+the best solution|DT JJS NN|BODY_2|0
+an efficient allocation|DT JJ NN|BODY_2|0
+kranton and minehart|NN CC NN|BODY_1:BODY_4|0
+t = t|IN SYM IN|BODY_6:BODY_9|0
+either pi >|DT NN VBD|BODY_3|0
+î²t > î±t|JJ JJ NN|BODY_6|0
+the right set|DT JJ NN|BODY_4|0
+whose node set|WP$ NN NN|BODY_7|0
+a centralized authority|DT JJ NN|BODY_9|0
+our first theorem|PRP$ JJ NN|BODY_2|0
+such crossing pairs|JJ NN NNS|BODY_2|0
+the modelers )|DT NNS -RRB-|BODY_6|0
+the three sets|DT CD NNS|BODY_4|0
+this much profit|DT JJ NN|BODY_2|0
+three illustrative examples|CD JJ NNS|BODY_3|0
+zi > 0|NNP NNP CD|BODY_2|0
+te âˆˆ t|NN RB NN|BODY_13|0
+the classic results|DT JJ NNS|BODY_12|0
+a simple example|DT JJ NN|BODY_2|0
+the structural positions|DT JJ NNS|BODY_3|0
+âˆ’( î¸ij +pi)|FW FW FW|BODY_3|0
+¥ 0 âˆ€i|JJ CD NNS|BODY_5|0
+the former case|DT JJ NN|BODY_2|0
+this natural behavior|DT JJ NN|BODY_2|0
+> k buyers|JJ NN NNS|BODY_4|0
+offers trader t|NNS NN NN|BODY_3|0
+all the edges|PDT DT NNS|BODY_2|0
+the corresponding trader|DT JJ NN|BODY_10|0
+any other trader|DT JJ NN|BODY_8|0
+a trade route|DT NN NN|BODY_2|0
+many or all|JJ CC DT|BODY_3|0
+an interbank market|DT NN NN|BODY_7|0
+( î¸ji âˆ|-LRB- FW FW|BODY_11|0
+the assignment game|DT NN NN|BODY_14|0
+the market participants|DT NN NNS|BODY_4|0
+i and j|FW CC NN|BODY_5:BODY_13|0
+a probabilistic model|DT JJ NN|BODY_8|0
+the range [|DT NN NN|BODY_10|0
+employment search services|NN NN NNS|BODY_7|0
+âˆˆ b(t )|NN NN -RRB-|BODY_7|0
+a different example|DT JJ NN|BODY_2|0
+the tight edges|DT JJ NNS|BODY_2|0
+the dual constraint|DT JJ NN|BODY_4|0
+a global constraint|DT JJ NN|BODY_3|0
+a given trader |DT VBN NN|BODY_4|0
+triples ( ie|NNS -LRB- NN|BODY_9|0
+different seller valuations|JJ NN NNS|BODY_4|0
+each buyer j|DT NN NN|BODY_8|0
+an adjacent trader|DT JJ NN|BODY_3|0
+the best bid|DT JJS NN|BODY_2|0
+all bid/ask spreads|DT NN NNS|BODY_4|0
+a positive profit|DT JJ NN|ABSTRACT_6:BODY_4|0
+the implicit levels|DT JJ NNS|BODY_5|0
+a single asset|DT JJ NN|BODY_5|0
+a k-unit auction|DT NN NN|BODY_3|0
+a given trader|DT VBN NN|BODY_3|0
+p tâˆˆt p|NN NN NN|BODY_2|0
+any allocation m|DT NN NN|BODY_3|0
+the following problem|DT JJ NN|BODY_2|0
+xe > 0|JJ NN CD|BODY_4|0
+two important strands|CD JJ NNS|BODY_3|1
+this starting solution|DT VBG NN|BODY_2|0
+those discussed above|DT VBN JJ|BODY_6|0
+the strategic outcome|DT JJ NN|BODY_3|0
+1 x x|CD NN NN|BODY_10|0
+the everyday sense|DT JJ NN|BODY_4|0
+at most î±tji|IN JJS NN|BODY_7|0
+the only change|DT JJ NN|BODY_5|0
+their auction mechanism.1|PRP$ NN NNS|BODY_11|0
+an efficient (|DT JJ -LRB-|BODY_5:ABSTRACT_5|2
+all the agents|PDT DT NNS|BODY_5|0
+the trade variables|DT NN NNS|BODY_2|0
+the long cycle|DT JJ NN|BODY_4|0
+the same value|DT JJ NN|BODY_3|0
+a best response|DT JJS NN|BODY_4|0
+a graph-theoretic basis|DT JJ NN|ABSTRACT_10|0
+more general traders|RBR JJ NNS|BODY_8|0
+the above constraint|DT JJ NN|BODY_10|0
+the general model|DT JJ NN|BODY_5|0
+the middle column|DT NN NN|BODY_11|0
+an initial indication|DT JJ NN|BODY_3|0
+the equality yt|DT NN NN|BODY_9|0
+the real markets|DT JJ NNS|BODY_4|0
+the best sell|DT JJS NN|BODY_3|0
+a real number|DT JJ NN|BODY_3|0
+rather different prices|RB JJ NNS|BODY_14|0
+a collection m|DT NN NN|BODY_8|0
+the constraint pi|DT NN NN|BODY_6|0
+je âˆˆ b|FW RB NN|BODY_14|0
+this bipartite graph|DT JJ NN|BODY_6|0
+a useful basis|DT JJ NN|BODY_4|0
+complementary slackness pi|JJ NN NN|BODY_4|0
+a market price|DT NN NN|BODY_5|0
+optimal ) allocation|JJ -RRB- NN|BODY_6:ABSTRACT_6|2
+an inherent trade-off|DT JJ NN|BODY_6|0
+the last property|DT JJ NN|BODY_3|0
+the asset trades|DT NN NNS|BODY_3|0
+different market participants|JJ NN NNS|BODY_6|0
+the basic elements|DT JJ NNS|BODY_2|0
+a special case|DT JJ NN|BODY_7|0
+the first three|DT JJ CD|BODY_3|0
+the primary objective|DT JJ JJ|BODY_4|0
+yt + pi|NN NN NN|BODY_8|0
+a powerful model|DT JJ NN|BODY_6|0
+a final allocation|DT JJ NN|BODY_3|0
+pj > 0|RB JJ CD|BODY_5|0
+( or î¸i|-LRB- CC NN|BODY_7|0
+a higher bid|DT JJR NN|BODY_5|0
+zi zi â‰|NNP NNP NNP|BODY_6|0
+valuations and prices|NNS CC NNS|BODY_3|0
+the same pi|DT JJ NN|BODY_3|0
+a matching market|DT NN NN|BODY_4|0
+a reduced version|DT JJ NN|BODY_7|0
+the top trader|DT JJ NN|BODY_3|0
+all the products|DT DT NNS|BODY_8|0
+the matching problem|DT NN NN|BODY_4|0
+each seller i|DT NN NN|BODY_2|0
+every such equilibrium|DT JJ NN|BODY_6|1
+the resulting game|DT JJ NN|ABSTRACT_2|1
+a large penalty|DT JJ NN|BODY_11|0
+the other hand|DT JJ NN|BODY_5:BODY_1|0
+pj + qtj|JJ NNS NN|BODY_6|0
+microstructure theory )|NN NN -RRB-|BODY_15|0
+the buyer j|DT NN NN|BODY_9|0
+pi ) âˆ€t|NN -RRB- JJ|BODY_17|0
+> î¸j âˆ’pj|JJ JJ NN|BODY_6|0
+the following properties|DT VBG NNS|BODY_2|0
+the minimum profit|DT NN NN|BODY_4|0
+the good passes|DT JJ NNS|BODY_5|0
+a single type|DT JJ NN|BODY_3|0
+possible equilibrium profits|JJ NN NNS|BODY_6|0
+the same numerically|DT JJ NN|BODY_11|0
+the rightmost column|DT JJ NN|BODY_16|0
+a value î³|DT NN NN|BODY_9|1
+yt and pj|NN CC NN|BODY_3|0
+different traders pay|JJ NNS VBP|BODY_4|0
+an essential connection|DT JJ NN|ABSTRACT_8|0
+profits and trade|NNS CC NN|BODY_4|0
+the same process|DT JJ NN|BODY_2|0
+the network constraints|DT NN NNS|BODY_7|0
+their relative amounts|PRP$ JJ NNS|ABSTRACT_7|0
+the strategic aspects|DT JJ NNS|BODY_3|0
+several recurring properties|JJ VBG NNS|BODY_7|0
+its adjacent trader|PRP$ JJ NN|BODY_10|0
+no other buyer|DT JJ NN|BODY_8|0
+all three types|DT CD NNS|BODY_1|0
+algorithmic game theory|JJ NN NN|BODY_6|0
+t actually trade|JJ RB NN|BODY_8|1
+, and not|, CC RB|BODY_13|0
+the good ends|DT JJ NNS|BODY_24:BODY_3|1
+these markets )|DT NNS -RRB-|BODY_8|0
+a strategic activity|DT JJ NN|ABSTRACT_7|0
+a game-theoretic model|DT JJ NN|BODY_6|0
+an actual market|DT JJ NN|BODY_8|0
+this particular instance|DT JJ NN|BODY_3|0
+at least qti|IN JJS NNS|BODY_7|0
+a bid î²t|DT NN NN|BODY_4|0
+the dual variable|DT JJ JJ|BODY_3|0
+âˆ ’ î¸ij|DT JJ NN|BODY_4|0
+î¸j âˆ ’|FW FW FW|BODY_3|0
+a similar change|DT JJ NN|BODY_2|0
+trader t trades|NN NN NNS|BODY_3|0
+all trader profits|DT NN NNS|BODY_4|0
+a further complication|DT JJ NN|BODY_4|0
+a tight constraint|DT JJ NN|BODY_4|0
+the assignment problem|DT NN NN|BODY_4|0
+the variables pi|DT NNS NN|BODY_1|0
+electronic trading systems|JJ NN NNS|BODY_8|0
+a job market|DT NN NN|BODY_4|0
+xt > 0|JJ JJ CD|BODY_2|0
+all optimal solutions|DT JJ NNS|BODY_8|0
+these pairwise valuations|DT NN NNS|BODY_5|0
+uniform and trade|NN CC NN|BODY_3|0
+the walrasian auctioneer|DT NN NN|BODY_1|0
+a cross-free equilibrium|DT JJ NN|BODY_2:BODY_3|0
+the same pair|DT JJ NN|BODY_4|0
+highest asks î±tji|JJS VBZ NN|BODY_3|0
+the dual constraints|DT JJ NNS|BODY_3|0
+â‰ ¥ pi|JJ NN NN|BODY_4|0
+the bipartite graph|DT JJ NN|BODY_3|0
+the highest valuation|DT JJS NN|BODY_23:BODY_2|1
+a single good|DT JJ JJ|BODY_5|0
+an efficient algorithm|DT JJ NN|BODY_7|0
+the corresponding bids|DT JJ NNS|BODY_2|0
+all i âˆˆ|DT NN RB|BODY_7|0
+no one market|DT NN NN|BODY_3|0
+the lowest bids|DT JJS NNS|BODY_2|0
+a lower ask|DT JJR VB|BODY_3|0
+the general case|DT JJ NN|BODY_3|0
+the special case|DT JJ NN|BODY_4|0
+dual solution z|JJ NN NN|BODY_3|0
+a strategic process|DT JJ NN|BODY_10|0
+at most one|IN JJS CD|BODY_4|0
+the following conventions|DT VBG NNS|BODY_3|0
+the simplest model|DT JJS NN|BODY_2|0
+both qt i|DT JJ NN|BODY_7|0
+the leftmost column|DT JJ NN|BODY_6|0
+a particular transaction|DT JJ NN|BODY_6|0
+the dual variables|DT JJ NNS|BODY_6|0
+the equilibrium allocation|DT NN NN|BODY_4|0
+an initial endowment|DT JJ NN|BODY_2|0
+the profit zi|DT NN NN|BODY_3|0
+correspondingly different prices|RB JJ NNS|ABSTRACT_5|0
+i1 and j1|NNS CC NNS|BODY_5|0
+any buyer j|DT NN NN|BODY_10|0
+e = {(i|NN SYM FW|BODY_16|0
+the seller-buyer pair|DT NN NN|BODY_4|0
+the total profit|DT JJ NN|BODY_2|1
+a set b|DT NN NN|BODY_2|0
+an arbitrary number|DT JJ NN|BODY_7|0
+the corresponding edge|DT JJ NN|BODY_8|0
+the transportation problem|DT NN NN|BODY_6|0
+an ask price|DT VB NN|BODY_5|0
+a good model|DT JJ NN|BODY_2|0
+another trader t|DT NN NN|BODY_11|0
+all buyer-seller transactions|DT NN NNS|BODY_3|0
+a set t|DT NN NN|BODY_6|0
+xe = 1|JJ SYM CD|BODY_2|0
+the opposite ,|DT JJ ,|BODY_1|0
+edge ( i|NN -LRB- FW|BODY_8|0
+the edge t|DT NN NN|BODY_3|0
+sellers or buyers|NNS CC NNS|BODY_5|0
+the set t|DT NN NN|BODY_5|0
+the underlying graph|DT VBG NN|ABSTRACT_4|0
+the finance literature|DT NN NN|BODY_1|0
+just single valuations|RB JJ NNS|BODY_5|0
+the current trade|DT JJ NN|BODY_4|0
+a seller-buyer pair|DT NN NN|BODY_5:BODY_1|0
+the above discussion|DT JJ NN|BODY_3|0
+a single bid|DT JJ NN|BODY_5|0
+the total value|DT JJ NN|BODY_8|0
+what structural properties|WP JJ NNS|BODY_16|0
++ pi )|NN NN -RRB-|BODY_20|0
+every equilibrium results|DT NN NNS|BODY_1|0
+any trader t|DT NN NN|BODY_1|0
+this maximum value|DT JJ NN|BODY_1|0
+socially optimal trade|RB JJ NN|BODY_5|0
+let î¸âˆ —|VB NN NNS|BODY_1|0
+an efficient trade|DT JJ NN|BODY_1|0
+different buyer valuations|JJ NN NNS|BODY_1|0
+our work differs|PRP$ NN NNS|ABSTRACT_1|0
+more sophisticated processes|RBR JJ NNS|BODY_1|0
+inefficient local markets|JJ JJ NNS|BODY_9|0
+their adjacent buyers|PRP$ JJ NNS|BODY_9|0
+the bid price|DT NN NN|BODY_12|0
+heavy-tailed degree distributions|JJ NN NNS|BODY_9|0
+all the profit|PDT DT NN|BODY_11|0
+this set e|DT NN NN|BODY_1|0
+seller i )|NN NN -RRB-|BODY_6|0
+a single market|DT JJ NN|BODY_6|0
+the two markets|DT CD NNS|BODY_7|0
+î¸ij + pi|JJ NN NN|BODY_11|0
+the following game|DT JJ NN|BODY_4|0
+the trade )|DT NN -RRB-|BODY_16|0
+the best offers|DT JJS NNS|BODY_7|0
+the full version|DT JJ NN|BODY_1|0
+all traders t|DT NNS NN|BODY_6|0
+a disappointing feature|DT JJ NN|BODY_1|0
+the askbid values|DT NN NNS|BODY_1|0
+pi + î¸i]|NN NN NN|BODY_12|0
+the different agents|DT JJ NNS|BODY_16|0
+the budget-balance condition|DT NN NN|BODY_9|0
+their current trade|PRP$ JJ NN|BODY_7|0
+î±tji = î³|FW SYM NN|BODY_4|0
+a general level|DT JJ NN|BODY_1|1
+2.1 indistinguishable goods|CD JJ NNS|BODY_1|0
+a truthful mechanism|DT JJ NN|ABSTRACT_13|0
+the price spreads|DT NN NNS|BODY_1|0
+a wide range|DT JJ NN|ABSTRACT_1|0
+the buyer valuations|DT NN NNS|BODY_1|0
+some value î³|DT NN NN|BODY_5|0
+only one option|RB CD NN|BODY_10|0
+the associated trader|DT JJ NN|BODY_7|0
+this simple model|DT JJ NN|BODY_1|0
+a profitable deviation|DT JJ NN|BODY_5|0
+his best offers|PRP$ JJS NNS|BODY_9|0
+this maximum profit|DT NN NN|BODY_1|0
+the good )|DT JJ -RRB-|BODY_9|0
+= î¸j âˆ’pj|SYM CD NNS|BODY_12|0
+âˆˆ b âˆª|JJ NN NN|BODY_6|1
+( ii )|-LRB- NNS -RRB-|BODY_1|0
+2.2 distinguishable goods|CD JJ NNS|BODY_1|0
+2.3 trader profits|CD NN NNS|BODY_1|0
+3.3 trader profits|CD NN NNS|BODY_1|0
+a few facts|DT JJ NNS|BODY_3|0
+all these conditions|PDT DT NNS|BODY_1|0
+the equilibrium concept|DT NN NN|BODY_1|0
+the following notation|DT VBG NN|BODY_3|0
+the menu option|DT NN NN|BODY_3|0
+what bidding model|WP NN NN|BODY_4|0
+such dual solutions|JJ JJ NNS|BODY_1|0
+no price-setting agents|DT NN NNS|BODY_2|0
+the set e|DT NN NN|BODY_1|0
+the only equilibrium|DT JJ NN|BODY_1|0
+multiple different products|JJ JJ NNS|BODY_8|0
+the allocation )|DT NN -RRB-|BODY_13|0
+the indicated price|DT JJ NN|BODY_6|0
+even-dar et al|JJ NNP NN|BODY_1|0
+the present version|DT JJ NN|BODY_4|0
+some more edges|DT JJR NNS|BODY_4|0
+the optimal allocation|DT JJ NN|BODY_15|0
+that trader t|WDT NN NN|BODY_4|0
+a particular buyer|DT JJ NN|BODY_11|0
+the optimal transshipment|DT JJ NN|BODY_8|0
+these general characteristics|DT JJ NNS|BODY_4|0
+the other constraints|DT JJ NNS|BODY_10|0
+any efficient trade|DT JJ NN|BODY_1|0
+a network model|DT NN NN|BODY_1|0
+at most 1|IN JJS CD|BODY_6|0
+the last constraint|DT JJ NN|BODY_6|0
+the particular way|DT JJ NN|BODY_1|0
+146 stricted form|CD JJ NN|BODY_1|0
+our subsequent results|PRP$ JJ NNS|BODY_1|0
+âˆˆ adj(i )|RB NN -RRB-|BODY_10|0
+the above inequalities|DT JJ NNS|BODY_3|0
+all seller-buyer pairs|DT NN NNS|BODY_1|0
+148 theorem 2.6|CD NN CD|BODY_1|0
+pure noncrossing equilibria|JJ NN NN|BODY_1|0
+the trade|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+sellers|NNS|BODY_12:BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0

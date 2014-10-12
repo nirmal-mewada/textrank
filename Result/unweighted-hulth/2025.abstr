@@ -1,0 +1,28 @@
+we|PRP|BODY_1:BODY_3|0
+the acquisition system|DT NN NN|BODY_3|0
+device-independent color data|JJ NN NNS|BODY_2|0
+the k camera|DT NN NN|BODY_3|0
+a device-independent color space|DT JJ NN NN|BODY_4|0
+regression methods|NN NNS|BODY_2|0
+which|WDT|BODY_8|0
+each pixel|DT NN|BODY_5|0
+a spectral model|DT JJ NN|BODY_2|0
+account|NN|BODY_4|0
+a tunable filter|DT NN NN|BODY_7|0
+a liquid crystal tunable filter|DT JJ NN NN NN|BODY_2|0
+a principal eigenvector approach|DT JJ CD NN|BODY_2|0
+a professional monochrome ccd camera|DT JJ NN JJ NN|BODY_6|0
+the spectral reflectance|DT JJ NN|BODY_4|0
+a multispectral color image acquisition system|DT JJ NN NN NN NN|BODY_5|0
+the experimental setup|DT JJ NN|BODY_4|0
+a spectral characterization|DT JJ NN|BODY_2|0
+the camera output|DT NN NN|BODY_1|0
+two main approaches|CD JJ NNS|BODY_3|0
+ciexyz or cielab.|NN CC NN|BODY_5|0
+one consists|CD VBZ|BODY_1|0
+the spectral transmittance|DT JJ NN|BODY_9|0
+the imaged surface|DT JJ NN|BODY_6|0
+another method|DT NN|BODY_1|0
+the acquisition noise|DT NN NN|BODY_5|0
+multispectral color image capture|JJ NN NN NN|BODY_1|0
+the model|DT NN|BODY_1|0

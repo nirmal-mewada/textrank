@@ -1,0 +1,1461 @@
+we|PRP|BODY_12:BODY_11:BODY_17:BODY_18:BODY_15:BODY_13:BODY_25:BODY_2:BODY_3:BODY_4:BODY_37:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_30:BODY_8:BODY_9|1
+it|PRP|BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|0
+that|IN|BODY_11:BODY_40:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_7:BODY_10:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_12:BODY_11:BODY_16:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+a codebook|DT NN|BODY_41:BODY_6:BODY_11:ABSTRACT_11:BODY_17:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+there|EX|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7|0
+images|NNS|BODY_12:BODY_6:BODY_5:BODY_23:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the codebook|DT NN|BODY_6:BODY_11:BODY_5:BODY_15:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+ff|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+replacement|NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the difference|DT NN|BODY_6:ABSTRACT_4:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4|0
+the image|DT NN|BODY_5:BODY_16:BODY_22:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+a set|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+one|NN|BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+m|NN|BODY_5:BODY_11:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+blocks|NNS|BODY_6:BODY_32:BODY_5:ABSTRACT_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_20|0
+an image|DT NN|BODY_6:BODY_5:BODY_18:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+s|VBZ|BODY_12:BODY_22:BODY_23:BODY_26:BODY_3:BODY_4:BODY_6:BODY_5:BODY_34:BODY_1:BODY_10:BODY_30:BODY_8|0
+this|DT|BODY_6:BODY_2:BODY_1:BODY_8|0
+the class|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9:BODY_20|0
+the vc-dimension|DT NN|BODY_6:BODY_5:BODY_16:BODY_13:BODY_1:BODY_2:BODY_3:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|0
+us|PRP|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_4:BODY_8|0
+the size|DT NN|BODY_6:BODY_11:BODY_1:BODY_14:BODY_3:BODY_4:BODY_9|0
+a function|DT NN|BODY_6:BODY_5:BODY_21:ABSTRACT_3:BODY_4:BODY_19:BODY_9|0
+c|NN|BODY_6:BODY_5:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+codebooks|NNS|BODY_6:BODY_5:BODY_21:BODY_1:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|0
+this paper|DT NN|BODY_6:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4|0
+image|NN|BODY_6:BODY_11:BODY_15:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+the learning complexity|DT VBG NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4|0
+the results|DT NNS|BODY_6:BODY_11:ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_4|0
+distortion|NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_8|0
+the images|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+vectors|NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4|0
+a training set|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3|0
+)|-RRB-|BODY_5:BODY_11:ABSTRACT_8:BODY_2:BODY_10:BODY_8:BODY_9|0
+the probability|DT NN|BODY_13:BODY_3:BODY_19:BODY_4:BODY_7|0
+the previous section|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+the problem|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|0
+these results|DT NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+binary images|JJ NNS|BODY_11:BODY_1:BODY_2:BODY_3:BODY_10|0
+each|DT|BODY_2:BODY_1:BODY_10:BODY_8|0
+the training set|DT NN NN|BODY_6:BODY_11:BODY_5:ABSTRACT_4:BODY_17:BODY_1:BODY_4:BODY_7|0
+the case|DT NN|BODY_2:BODY_1:BODY_3:BODY_10|0
+a class|DT NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+ffl d|JJ NN|BODY_11:BODY_2:BODY_3:BODY_19:BODY_10:BODY_7|0
+the training|DT NN|BODY_5:BODY_1:BODY_4:BODY_29:BODY_7|0
+x|NN|BODY_6:BODY_2:BODY_10:BODY_7|0
+the bound|DT VBN|BODY_5:BODY_2:BODY_3|0
+grayscale images|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_4|0
+the value|DT NN|BODY_2:BODY_1:BODY_3:BODY_7|0
+( test \gamma train )|-LRB- NN NN NN -RRB-|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+a vq codebook|DT NN NN|BODY_5:BODY_16:BODY_1:BODY_14:BODY_4:BODY_8|0
+vector quantization|NN NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+respect|NN|BODY_5:BODY_1:BODY_4:BODY_7|0
+these experiments|DT NNS|BODY_6:BODY_2:BODY_1:BODY_9|0
+the binary case|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_9|0
+zero|CD|BODY_6:BODY_5:BODY_4|0
+section 2|NN CD|BODY_5:BODY_2:BODY_1:BODY_3|0
+sizes|NNS|BODY_5:BODY_7:BODY_9|0
+the domain|DT NN|BODY_6:BODY_3:BODY_4|0
+m blocks|NN NNS|BODY_5:BODY_13:BODY_1:BODY_10:BODY_9|0
+the source|DT NN|BODY_6:BODY_5:BODY_15:BODY_2|0
+the ( r|DT -LRB- NN|BODY_6:BODY_11:BODY_2|0
+#|#|BODY_6:BODY_3:BODY_4|0
+the|DT|BODY_5:BODY_22:BODY_3|0
+n )|NN -RRB-|BODY_4:BODY_7:BODY_8|0
+sampling|NN|BODY_5:BODY_11:BODY_4|0
+section 3|NN CD|BODY_1:BODY_4:BODY_7|0
+(|-LRB-|BODY_3:BODY_7|0
+these bounds|DT NNS|ABSTRACT_4:BODY_2:BODY_1|0
+man|NN|BODY_15:BODY_3:BODY_10|0
+account|NN|BODY_3:BODY_8|0
+bounds|NNS|BODY_5:BODY_2:BODY_4|0
+the average|DT NN|BODY_6:BODY_10|0
+the number|DT NN|BODY_5:BODY_3:BODY_7|0
+oe(|NNS|BODY_6:BODY_11:BODY_3:BODY_4:BODY_8|0
+a grayscale image|DT JJ NN|BODY_5:BODY_1|0
+the generalization curve|DT NN NN|BODY_5:BODY_1|0
+this relationship|DT NN|BODY_2:BODY_14:BODY_3|0
+training time|NN NN|BODY_3:BODY_4:BODY_7|0
+a block|DT NN|BODY_3:BODY_4:BODY_20|0
+experiments|NNS|BODY_2:BODY_7:BODY_8|0
+the remainder|DT NN|BODY_1:BODY_2:BODY_3:BODY_8|0
+training sets|NN NNS|BODY_5:ABSTRACT_2:BODY_4|0
+the training set size|DT NN NN NN|BODY_5:ABSTRACT_9:BODY_9|0
+10|CD|BODY_16:BODY_21:BODY_4|0
+equation 3|NN CD|BODY_11:BODY_1:BODY_2:BODY_7|0
+test|NN|BODY_18:ABSTRACT_3:BODY_7|0
+cv , test|RP , NN|BODY_12:BODY_14:BODY_10:BODY_7|0
+a classification problem|DT NN NN|BODY_2:BODY_3:BODY_4|0
+the rate|DT NN|BODY_12:BODY_11:BODY_2|0
+the expected value|DT VBN NN|BODY_6:BODY_3:BODY_4|0
+the distortion|DT NN|BODY_5:BODY_2:BODY_14|0
+test and training distortion|NN CC NN NN|ABSTRACT_5:BODY_13:BODY_14|0
+generalization|NN|BODY_6:BODY_3|0
+appropriate training|JJ NN|BODY_6:BODY_4|0
+x2c|NN|BODY_6:BODY_5:BODY_2|0
+r|NN|BODY_7:BODY_8|0
+this work|DT NN|BODY_2:BODY_3:BODY_4|0
+error|NN|BODY_5:BODY_4:BODY_8|0
+training set size|NN NN NN|BODY_2:BODY_3:BODY_7|0
+the usc database|DT NN NN|BODY_6:BODY_3:BODY_8|0
+this area|DT NN|BODY_5:BODY_2:BODY_4|0
+the generalized lloyd algorithm|DT JJ JJ NN|BODY_6:BODY_4|0
+a fixed training set size|DT JJ NN NN NN|BODY_11:BODY_3|0
+\gamma train )|NN NN -RRB-|BODY_5:BODY_21|0
+the average bit error|DT JJ NN NN|BODY_18:BODY_13:BODY_4|0
+25-d vectors|JJ NNS|BODY_11:BODY_16:BODY_3|0
+this value|DT NN|BODY_5:BODY_1:BODY_2|0
+codebook oe|NN NN|BODY_5:BODY_2:BODY_8|0
+empirical results|JJ NNS|BODY_2|0
+the scope|DT NN|BODY_5:BODY_4|0
+0|CD|BODY_6:BODY_4|0
+worst case|JJS NN|BODY_2:BODY_7|0
+a|DT|BODY_12:BODY_1|0
+the target concept|DT NN NN|BODY_1:BODY_3:BODY_4|0
+equation 9|NN CD|BODY_3:BODY_10:BODY_4|0
+image quality|NN NN|BODY_3:BODY_8|0
+n;k|NN|BODY_10:BODY_7|0
+an upper|DT JJ|BODY_5:BODY_3:BODY_7|0
+size|NN|BODY_5:BODY_2:BODY_10|0
+the asymptotic performance|DT JJ NN|BODY_4:BODY_7|0
+satellite images|NN NNS|BODY_5:BODY_10|0
+4 \theta|CD NN|BODY_3:BODY_8|0
+our codebook|PRP$ NN|BODY_28:BODY_3:BODY_7|0
+the gla|DT NN|BODY_2:BODY_7|0
+the vq problem|DT NN NN|BODY_2:BODY_3|1
+the fact|DT NN|BODY_6:BODY_9|0
+a factor|DT NN|BODY_11:BODY_2|0
+b )|NN -RRB-|BODY_2:BODY_8|0
+vq codebooks|JJ NNS|BODY_6:BODY_4:BODY_7|0
+guidance|NN|BODY_6:BODY_2|0
+each point|DT NN|BODY_5:BODY_2|0
+guidelines|NNS|BODY_10:BODY_4|0
+vq|NN|BODY_2:BODY_3|0
+the r-tolerance error|DT NN NN|BODY_16:BODY_4|0
+the vapnik-chervonenkis dimension|DT NNS NN|BODY_6:BODY_2|0
+all points|DT NNS|BODY_3:BODY_4:BODY_9|0
+the purpose|DT NN|BODY_1:BODY_10:BODY_4|0
+values|NNS|BODY_6:BODY_7|0
+block size|NN NN|BODY_5|0
+errors|NNS|BODY_6:BODY_9|0
+the mean-squared error|DT JJ NN|BODY_2:BODY_3|0
+random|JJ|BODY_33:BODY_21:BODY_25|0
+[1|NNS|BODY_4:BODY_7|0
+k-dimensional vectors|JJ NNS|BODY_3|0
+their training set|PRP$ NN NN|BODY_4:BODY_7|0
+the generalization error|DT NN NN|BODY_2:BODY_3|0
+the exponent|DT NN|BODY_1:BODY_2|0
+figure 2|NN CD|BODY_1:BODY_10|0
+codebook design|NN NN|BODY_5:BODY_2|0
+the empirical error|DT JJ NN|BODY_3:BODY_7|0
+national science foundation grant numbers|JJ NN NN NN NNS|BODY_3|0
+small training set sizes|JJ NN VBN NNS|BODY_3|0
+the polynomial model|DT NN NN|BODY_2|0
+this research|DT NN|BODY_2|0
+the binary images|DT JJ NNS|BODY_1:BODY_3|0
+learning complexity|VBG NN|BODY_4|0
+our formal model corresponds|PRP$ JJ NN NNS|BODY_2|0
+standard error|JJ NN|BODY_2|0
+our experiments|PRP$ NNS|BODY_4:BODY_8|0
+computer science|NN NN|BODY_3|0
+the trivially small vc-dimension|DT RB JJ NN|BODY_3|0
+data|NNS|BODY_5:BODY_8|0
+an empirical estimate|DT JJ NN|BODY_28:BODY_3|0
+16-d vectors|JJ NNS|BODY_12:BODY_17:BODY_4|0
+the effect|DT NN|BODY_2|0
+the upper|DT JJ|BODY_3:BODY_4|0
+the grayscale images|DT JJ NNS|BODY_2|0
+the error|DT NN|BODY_13:BODY_1:BODY_8|0
+some image|DT NN|BODY_3:BODY_4|0
+terms|NNS|BODY_6:BODY_7|0
+the photographs|DT NNS|BODY_6:BODY_2|0
+the training error|DT NN NN|BODY_9|0
+the  size |DT NN NN|BODY_5:BODY_9|0
+the theory|DT NN|BODY_2:BODY_3|0
+washington department|DT NN|BODY_4:BODY_8|0
+zero error|CD NN|BODY_5:BODY_2|0
+points|NNS|BODY_6:BODY_39|0
+a typical run|DT JJ NN|BODY_7:BODY_9|0
+its training set|PRP$ NN NN|BODY_6:BODY_3|0
+information|NN|BODY_26:BODY_2:BODY_1|0
+example|NN|BODY_1|0
+4 blocks|CD NNS|BODY_4:BODY_7|0
+a fixed codebook size|DT JJ NN NN|BODY_1:BODY_4|0
+t )|NN -RRB-|BODY_12:BODY_3:BODY_20|0
+only a fraction|RB DT NN|BODY_6:BODY_10|0
+the training algorithm|DT NN NN|BODY_6:BODY_5|0
+the available data|DT JJ NNS|ABSTRACT_4:BODY_7:BODY_8|0
+the bounds|DT NNS|BODY_2:BODY_4|0
+64 man|CD NN|BODY_10:BODY_9|0
+test distortion|NN NN|BODY_12:ABSTRACT_3:BODY_3|0
+codebook size|NN NN|BODY_7:BODY_8|0
+s)|NN|BODY_13:BODY_4|0
+the authors|DT NNS|ABSTRACT_2:ABSTRACT_1|0
+the generalization curves|DT NN NNS|BODY_1:BODY_3|0
+the work|DT NN|BODY_5:BODY_3|0
+this case|DT NN|BODY_5:BODY_1|0
+( test|-LRB- VB|BODY_3:BODY_8|0
+i .e|FW FW|BODY_11:BODY_8|0
+practical guidelines|JJ NNS|BODY_3:BODY_4|0
+the concept|DT NN|BODY_1:BODY_7|0
+p )|NN -RRB-|BODY_6:BODY_10|0
+the equation|DT NN|BODY_3:BODY_7|0
+interest|NN|BODY_12:BODY_3|0
+the training examples|DT NN NNS|BODY_2:BODY_7|0
+even this bound|RB DT JJ|BODY_2|0
+realistic guidance|JJ NN|BODY_4|0
+the department|DT NN|BODY_2|0
+university|NN|BODY_4|0
+his|PRP$|BODY_14:BODY_3|0
+a degree|DT NN|BODY_2|0
+0.67 %|CD NN|BODY_6|0
+6.58 %|CD NN|BODY_3|0
+the university|DT NN|BODY_3:BODY_7|0
+these values|DT NNS|BODY_2|0
+train|NN|BODY_16:BODY_9|0
+this minimum|DT NN|BODY_6:BODY_4|0
+formal bounds|JJ NNS|ABSTRACT_3:BODY_3|0
+our implementation|PRP$ NN|BODY_6|0
+only 30 %|RB CD NN|BODY_10|0
+the implications|DT NNS|BODY_2:BODY_1|0
+5.92 %|CD NN|BODY_2|0
+a standard error|DT JJ NN|BODY_7|0
+performance|NN|BODY_7:BODY_8|0
+artificial neural networks ( e .g|JJ JJ NNS -LRB- NN NN|BODY_2|0
+codebook vector|NN NN|BODY_7|0
+an asymptotically converging form|DT RB VBG NN|BODY_19|0
+expected generalization|VBN NN|BODY_13|0
+an entire 512 \theta|DT JJ CD NN|BODY_11|0
+small training sets|JJ NN NNS|BODY_5:TITLE_3|0
+n k-dimensional vectors|NN JJ NNS|BODY_42:BODY_9|0
+this behavior|DT NN|BODY_3|0
+binary and grayscale images|JJ CC JJ NNS|BODY_3:BODY_7|0
+good codebooks|JJ NNS|BODY_8:BODY_9|0
+tortion|NN|BODY_18|0
+results|NNS|ABSTRACT_6:BODY_4:BODY_9|0
+ae|NNS|BODY_35:BODY_3|0
+the tolerance information|DT NN NN|BODY_3|0
+the test distortion|DT NN NN|BODY_7|0
+this exponent|DT NN|BODY_2|0
+a fixed bit rate|DT JJ NN NN|BODY_5:BODY_10|0
+50 up to 500 trials|CD IN TO CD NNS|BODY_6|0
+numerical bounds|JJ NNS|BODY_4|0
+the codebook (|DT NN -LRB-|BODY_4|0
+the pixel value|DT NN NN|BODY_4|0
+some very simple zero-training-error learning problems|DT RB JJ NN NN NNS|BODY_12|0
+the distribution|DT NN|BODY_6:BODY_1|0
+distortion (|NN -LRB-|BODY_5|0
+error-diffused man|JJ NN|BODY_2|0
+this codebook|DT NN|BODY_6:BODY_2|0
+each codebook vector|DT NN NN|BODY_6|0
+2 bits|CD NNS|BODY_7|0
+[18]|NN|BODY_3|0
+the entire image|DT JJ NN|BODY_6:BODY_9|0
+the block size|DT NN NN|BODY_1:BODY_4|0
+the learning complexities|DT VBG NNS|BODY_3|0
+the computational cost|DT JJ NN|BODY_1:BODY_2|0
+some metric )|DT JJ -RRB-|BODY_5|0
+a sample|DT NN|BODY_5:BODY_31:BODY_8|0
+a small number|DT JJ NN|BODY_6|0
+the largest set|DT JJS NN|BODY_5:BODY_4|0
+multiple images|JJ NNS|BODY_3:BODY_4:BODY_7|0
+the improvements|DT NNS|BODY_13|0
+equation 7|NN CD|BODY_2|0
+every 128-bit block|DT JJ NN|BODY_8|0
+within|IN|BODY_8|0
+figure 9|NN CD|BODY_2|0
+an (8-bit ) integer|DT NN -RRB- NN|BODY_5|0
+reference|NN|BODY_5|0
+the complexity|DT NN|BODY_5|0
+the variance|DT NN|BODY_7|0
+these|DT|BODY_1:BODY_2|0
+vc-dimension|NN|BODY_6:BODY_7|0
+each source image|DT NN NN|BODY_2|0
+sources|NNS|BODY_6:BODY_9|0
+typical  images|JJ JJ NNS|BODY_2:BODY_8|0
+\gamma train ) distortion|NN NN -RRB- NN|BODY_5|0
+an empirical mean|DT JJ JJ|BODY_4|0
+the reserved image|DT VBN NN|BODY_6:BODY_4|0
+something|NN|BODY_6|0
+vq ) [7|NN -RRB- CD|BODY_2|0
+ )|FW -RRB-|BODY_11|0
+1|CD|BODY_1:BODY_3:BODY_7|0
+error rate|NN NN|BODY_3:BODY_8|0
+even the lower|RB DT JJR|BODY_2|0
+a concept class|DT NN NN|BODY_2|0
+the error measures|DT NN NNS|BODY_6|0
+minimum bit rate|NN NN NN|BODY_6|0
+theory|NN|BODY_1:BODY_3|1
+complexity|NN|BODY_12:BODY_19|0
+the itakura|DT FW|BODY_4|0
+learning theory|VBG NN|BODY_5|0
+a qualitatively different phenomenon|DT RB JJ NN|BODY_2|0
+128 (|CD -LRB-|BODY_5|0
+a program|DT NN|BODY_3|0
+input|NN|BODY_2|0
+the training set distortion|DT NN NN NN|ABSTRACT_2:BODY_2|0
+grayscale codebook oe|JJ NN NN|BODY_6:BODY_9|0
+128 16-dimensional binary vectors|CD JJ JJ NNS|BODY_14:BODY_4|0
+each (|DT -LRB-|BODY_7|0
+its pixels|PRP$ NNS|BODY_8|0
+t)-tolerance measures|NN NNS|BODY_10|0
+fixed distortion )|JJ NN -RRB-|BODY_7|0
+k|NN|BODY_6:BODY_9|0
+vq techniques|NN NNS|BODY_6|0
+great benefits|JJ NNS|BODY_2|0
+such a worst-case  image|JJ DT JJ JJ NN|BODY_1|0
+the training time|DT NN NN|BODY_5|0
+an image (|DT NN -LRB-|BODY_1:BODY_3|0
+these two bounds|DT CD NNS|BODY_3|0
+training|NN|BODY_6:BODY_1:BODY_4|0
+cases|NNS|BODY_4|0
+just a small part|RB DT JJ NN|BODY_6|0
+bit rate|NN NN|BODY_6|0
+our results|PRP$ NNS|BODY_1:BODY_9|0
+intensity resolution|NN NN|BODY_2|0
+amounts|NNS|BODY_9|0
+the r-tolerance nor ( r|DT NN CC -LRB- NN|BODY_9|0
+a sample points|DT NN NNS|BODY_4|0
+the empirical estimate|DT JJ NN|BODY_2|0
+7.0 8.0 9.0 10.0 11.0|CD CD CD CD CD|BODY_2|0
+the empirical worst-case|DT JJ NN|BODY_2|0
+individual test and training distortions|JJ NN CC NN NNS|BODY_17|0
+16-dimensional codebook vectors|JJ NN NNS|BODY_4|0
+[2 ]|CD NNS|BODY_11|0
+total number|JJ NN|BODY_11|0
+a distribution|DT NN|BODY_5:BODY_1|0
+this training|DT NN|BODY_8|0
+bits expected bit error|NNS VBN VBD NN|BODY_12|0
+x ) )|NN -RRB- -RRB-|BODY_13|0
+this difference|DT NN|BODY_2|0
+the logarithm|DT NN|BODY_2|0
+some degradation|DT NN|BODY_2|0
+written h(v|VBN NN|BODY_12|0
+) distortion x|-RRB- NN NN|BODY_5:BODY_8|0
+a random sample|DT JJ NN|BODY_5|0
+a single codebook|DT JJ NN|BODY_3|0
+8]|NN|BODY_3|0
+much tighter bounds|RB JJR NNS|BODY_5|0
+ffl d ( oe(|JJ NN -LRB- CD|BODY_2|0
+their derivation|PRP$ NN|BODY_12|0
+that image|IN NN|BODY_7|0
+research|NN|BODY_2|0
+independent|JJ|BODY_2|0
+the limited learning ability|DT JJ VBG NN|BODY_4|0
+a separate codebook|DT JJ NN|BODY_6|0
+vector note|NN NN|BODY_14|0
+set|NN|BODY_3:BODY_4|0
+x and v (|NN CC NN -LRB-|BODY_11|0
+vector / size|NN IN NN|BODY_13|0
+the hamming distance|DT NN NN|BODY_10|0
+what|WP|BODY_1:BODY_4|0
+this image|DT NN|BODY_2:BODY_4|0
+some specified difference|DT VBN NN|BODY_7|0
+image ) test-train distortion|NN -RRB- NN NN|BODY_6|0
+how close|WRB JJ|BODY_3|0
+) 6= ffl d (|-RRB- CC JJ NN -LRB-|BODY_2|0
+the blocks|DT NNS|BODY_3:BODY_7|0
+binary ( left ) and grayscale (|JJ -LRB- NN -RRB- CC NN -LRB-|BODY_23|0
+linear|NN|BODY_3|0
+k-dimensional euclidean space|JJ JJ NN|BODY_5|0
+line drawings|NN NNS|BODY_11|0
+the appropriate coefficients|DT JJ NNS|BODY_4|0
+vc-dimension theory|NN NN|BODY_5|0
+still|RB|BODY_3|0
+complexities|NNS|BODY_3|0
+all codebooks|DT NNS|BODY_4|0
+xerox parc|NNP NN|BODY_11|0
+set size ( fraction|NN NN -LRB- NN|BODY_5|0
+6.0 7.0 8.0 9.0 alpha constant 36-d vectors|CD CD CD CD NN JJ JJ NNS|BODY_2|0
+ffl( c|JJ NN|BODY_4|0
+users|NNS|BODY_5|0
+vector dimension and codebook size|NN NN CC NN NN|BODY_22|0
+a combinatorial argument|DT JJ NN|BODY_5|0
+the error minimization|DT NN NN|BODY_2|0
+bit errors|VBD NNS|BODY_10|0
+both k and n|DT NN CC NN|BODY_3|0
+each pixel|DT NN|BODY_2:BODY_14|0
+! k|. NN|BODY_9|0
+a fixed training algorithm|DT JJ NN NN|BODY_5|0
+all halftoned photographs|DT JJ NNS|BODY_16|0
+sizes and training times|NNS CC NN NNS|BODY_7|0
+codebook size and dimension|NN NN CC NN|BODY_2|0
+2.0 lax|CD NN|BODY_7|0
+image ) test-train distortion ( % )0.10rep data no-rep data replacement no-replacement figure 4|NN -RRB- NN NN -LRB- NN NN NNS JJ NNS NN NN NN CD|BODY_6|0
+( oe(|-LRB- NNP|BODY_13|0
+the terms|DT NNS|BODY_6|0
+the 2 m subsets|DT CD NN NNS|BODY_6|0
+the observed ( test \gamma train ) curves|DT VBN -LRB- VB NN NN -RRB- NNS|BODY_7|0
+s m|VBZ NN|BODY_1:BODY_3|0
+whichever pixel distortion measure|WDT NN NN NN|BODY_2|0
+0.082 %|CD NN|BODY_11|0
+direct guidance|JJ NN|BODY_2|0
+ease|NN|BODY_2|0
+near-minimal error|JJ NN|BODY_5|0
+the same rate|DT JJ NN|BODY_11|0
+the typically observed performance|DT RB VBN NN|BODY_3|0
+those|DT|BODY_7|0
+the data compression community|DT NNS NN NN|BODY_2|0
+the empirically observed form|DT RB VBN NN|BODY_2|0
+a degraded copy|DT JJ NN|BODY_3|0
+the covering problem|DT VBG NN|BODY_2|0
+a fixed finite set|DT JJ NN NN|BODY_5|0
+all|DT|BODY_1|0
+phil chou|JJ NNS|BODY_10|0
+the set|DT NN|BODY_5:BODY_2|0
+ln|FW|BODY_3|0
+13.0 complexity600100014001800 grayscale vq binary vq figure 7|CD CD JJ JJ JJ JJ NN CD|BODY_3|0
+the training and testing sets|DT NN CC NN NNS|BODY_4|0
+m )|NN -RRB-|BODY_12:BODY_13:BODY_4|0
+correct a given encoding|JJ DT VBN NN|BODY_2|0
+4 plots|CD NNS|BODY_2|0
+lower learning complexities|JJR VBG NNS|BODY_4|0
+note|NN|BODY_1|0
+t ) and ffl d|NN -RRB- CC JJ NN|BODY_3|0
+at most r bits|IN JJS NN NNS|BODY_14|0
+these derived ff(k|DT VBN NN|BODY_3|0
+statistics|NNS|BODY_9|0
+the empirical results|DT JJ NNS|BODY_6:BODY_3|0
+typical images|JJ NNS|BODY_2:BODY_9|0
+than|IN|BODY_5|0
+our grayscale images|PRP$ JJ NNS|BODY_3|0
+complexity ff|NN NN|BODY_2|0
+64 lax e|CD NN NN|BODY_8|0
+empirical error|JJ NN|BODY_2|0
+5000|CD|BODY_3|0
+16( 1 ) :54-65|CD CD -RRB- CD|BODY_4|0
+the  closest  vector (|DT VBN JJS VBN NN -LRB-|BODY_4|0
+the most obvious directions|DT RBS JJ NNS|BODY_2|0
+512 pixels|CD NNS|BODY_5|0
+c 95 % confidence|NN CD NN NN|BODY_4|0
+approaches|NNS|BODY_7|0
+the inverse first-order polynomial|DT NN NN NN|BODY_5|0
+a vector|DT NN|BODY_5:BODY_9|0
+d empirical studies|NN JJ NNS|BODY_10|0
+an average ( test \gamma train ) difference|DT JJ -LRB- NN NN NN -RRB- NN|BODY_10|0
+asymptotic performance|JJ NN|BODY_10|0
+generalized equations|JJ NNS|BODY_6|0
+reading|NN|BODY_3|0
+the theoretical worst-case bounds|DT JJ JJ NNS|BODY_2|0
+the typical case|DT JJ NN|BODY_3|0
+this learned  codebook|DT JJ NN NN|BODY_4|0
+3 % ( ffl( c|CD NN -LRB- JJ NN|BODY_3|0
+the training process|DT NN NN|BODY_4|0
+the approach|DT NN|BODY_3|0
+n k-dimensional vectors vc-dimension|NN JJ NNS NN|BODY_5|0
+the test and training dis|DT NN CC NN NNS|BODY_4|0
+its performance|PRP$ NN|BODY_5|0
+8-bit grayscale images|JJ JJ NNS|BODY_2|0
+e.g|NN|BODY_4|0
+mri brain scans|NN NN NNS|BODY_9|0
+many|JJ|BODY_5|0
+the usc images|DT JJ NNS|BODY_9|0
+the compressed/uncompressed image|DT JJ NN|BODY_2|0
+the r-tolerance model|DT NN NN|BODY_3|0
+a matter|DT NN|BODY_5|0
+cover r ( oe|NN NN -LRB- NN|BODY_15|0
+codebook sizes|NN NNS|ABSTRACT_6|0
+a concept|DT NN|BODY_6:BODY_5|0
+the weighted mean-squared error|DT JJ JJ NN|BODY_3|0
+the tested cases|DT VBN NNS|BODY_2|0
+empirical evidence|JJ NN|BODY_7|0
+less than 0.1 %|JJR IN CD NN|BODY_6:BODY_8|0
+practical suggestions|JJ NNS|ABSTRACT_8|0
+training examples|NN NNS|BODY_2:BODY_7|0
+all the available data|PDT DT JJ NNS|BODY_18:BODY_10|0
+an empirical worst case|DT JJ JJS NN|BODY_8:BODY_9|0
+the multi-image sources|DT JJ NNS|BODY_4|0
+log|NN|BODY_6|0
+equation 11|NN CD|BODY_4|0
+fit equation 9|JJ NN CD|BODY_2|0
+a pattern classifier|DT NN NN|BODY_3|0
+the image compression community|DT NN NN NN|BODY_3|0
+the maximum learning complexity|DT NN VBG NN|BODY_3|0
+trials|NNS|BODY_5|0
+an equivalence|DT NN|BODY_3|0
+non-replacement|NN|BODY_5|0
+their best fit|PRP$ JJS NN|BODY_7|0
+ordered dithering ( [13 , 15] ) and error diffusion|JJ NN -LRB- CD , CD -RRB- CC NN NN|BODY_3|0
+binary codebook class|JJ NN NN|BODY_6|0
+larger|JJR|BODY_7|0
+brevity|NN|BODY_6:BODY_1|0
+iterative algorithms|JJ NNS|BODY_5|0
+a binary vq codebook class|DT JJ NN NN NN|BODY_4|0
+professor|NN|BODY_6|0
+less than or|RBR IN CC|BODY_12|0
+a range|DT NN|BODY_5|0
+certain strong conditions|JJ JJ NNS|BODY_2|0
+separate training and test sets|JJ NN CC NN NNS|BODY_3|0
+a trivial lower bound vc-dimension|DT JJ JJR VBN NN|BODY_4|0
+dashed line|VBN NN|BODY_1|0
+each concept|DT NN|BODY_1|0
+many possible images|JJ JJ NNS|BODY_3|0
+the mean|DT NN|BODY_3|0
+the derivation|DT NN|BODY_4|0
+classes|NNS|BODY_3|0
+the computational power|DT JJ NN|BODY_11|0
+ff appropriate|NN JJ|BODY_7|0
+an upper bound|DT JJ VBN|BODY_5|0
+balls|NNS|BODY_4|0
+a domain x|DT NN NN|BODY_4|0
+a few approximations|DT JJ NNS|BODY_6|0
+a source image|DT NN NN|BODY_2|0
+our analysis|PRP$ NN|BODY_3|0
+the given training algorithm and values|DT VBN NN NN CC NNS|BODY_8|0
+the model|DT NN|BODY_8|0
+that value|DT NN|BODY_5|0
+practice given perfect knowledge|NN VBN JJ NN|BODY_3|0
+training distortion|NN NN|BODY_2:BODY_4|0
+many helpful discussions and suggestions|JJ JJ NNS CC NNS|BODY_12|0
+m points|NN NNS|BODY_5:BODY_2|0
+the theoretically|DT NN|BODY_9|0
+cv31 train|CD NN|BODY_11:BODY_8|0
+the grayscale mse distortion expression telescope|DT JJ NN NN NN NN|BODY_7|0
+electrical engineering|JJ NN|BODY_5|0
+the pattern classification problem|DT NN NN NN|BODY_1:BODY_2|0
+correctly each|RB DT|BODY_5|0
+the final sum|DT JJ NN|BODY_15|0
+vector quantizers|NN NNS|TITLE_2|0
+a fixed block size|DT JJ NN NN|BODY_3|0
+the space|DT NN|BODY_5|0
+the relatively compact equation ffl d ( oe|DT RB JJ NN JJ NN -LRB- NN|BODY_8|0
+optimum one|JJ NN|BODY_4|0
+minimum distortion|NN NN|BODY_4|0
+a concept c|DT NN NN|BODY_4|0
+0:05 )|CD -RRB-|BODY_5|0
+the  tolerance  measure|DT NN NN NN NN|BODY_2|0
+magnitude|NN|BODY_5|0
+2m|JJ|BODY_2|0
+an information-theoretic viewpoint|DT JJ NN|BODY_2|0
+its test distortion|PRP$ NN NN|BODY_4|0
+the vq codebook|DT JJ NN|BODY_2|0
+distribution p|NN NN|BODY_7|0
+16,384 4 \theta|CD CD NN|BODY_6|0
+oe such|NN JJ|BODY_9|0
+ffl( oe|JJ NN|BODY_5:BODY_7|0
+a worst case|DT JJS NN|BODY_6|0
+the true distortion|DT JJ NN|BODY_1:BODY_10|0
+the computer-generated line drawings|DT JJ NN NNS|BODY_3|0
+r-tolerance error rate|JJ NN NN|BODY_4:BODY_7|0
+training set size (|NN VBN NN -LRB-|BODY_4|0
+vector dimensions|NN NNS|ABSTRACT_7|0
+the range 0|DT NN CD|BODY_7|0
+directions|NNS|BODY_5|0
+a similar form|DT JJ NN|BODY_9|0
+only a small fraction|RB DT JJ NN|ABSTRACT_3:BODY_7|0
+pattern analysis and machine intelligence|NN NN CC NN NN|BODY_3|0
+vector quantizer experiments|NN NN NNS|BODY_4|0
+at least ff=0:001|IN JJS CD|BODY_10|0
+pixel|NN|BODY_3|0
+theory analysis|NN NN|BODY_5|0
+training blocks|NN NNS|BODY_3|0
+a number|DT NN|BODY_4|0
+a vector quantizer|DT NN NN|BODY_2|0
+the convention|DT NN|BODY_2|0
+this ff|DT NN|BODY_2|0
+part|NN|BODY_2|0
+the non-zero training error bounds|DT JJ NN NN NNS|BODY_8|0
+i x2c|FW FW|BODY_8|0
+an additional training block|DT JJ NN NN|BODY_6|0
+only 3 %|RB CD NN|BODY_8|0
+the basis|DT NN|BODY_8|0
+class|NN|BODY_3|0
+ training|JJ NN|BODY_2|0
+some applications|DT NNS|BODY_2|0
+the program|DT NN|BODY_2|0
+512 \theta|CD NN|BODY_4|0
+a brief introduction|DT JJ NN|BODY_2|0
+a practitioner|DT NN|BODY_12:BODY_1|0
+17 ] concern|CD NN NN|BODY_6|0
+pixels|NNS|BODY_3|0
+intermediate entropy|JJ NN|BODY_6|0
+a hypothesis concept c|DT NN NN NN|BODY_2|0
+generalized performance|VBN NN|BODY_7|0
+the test \gamma training distortion differs|DT NN NN NN NN NNS|BODY_10|0
+an optimal k-means|DT JJ NNS|BODY_7|0
+the entire source image|DT JJ NN NN|BODY_16|0
+these blocks|DT NNS|BODY_2|0
+substitution|NN|BODY_10|0
+the simplicity|DT NN|BODY_6|0
+all k-dimensional n-vector codebooks|DT JJ NN NNS|BODY_4|0
+hypotheses|NNS|BODY_2|0
+the observed behavior|DT JJ NN|BODY_4|0
+this bound|DT JJ|BODY_2|0
+best fits|JJS NNS|BODY_7|0
+specific tolerance models|JJ NN NNS|BODY_11|0
+grayscale codebook class|JJ NN NN|BODY_9|0
+the r-tolerance error measure|DT NN NN NN|BODY_8|0
+stanford university [4|NN NN NNS|BODY_3|0
+roughly the same|RB DT JJ|BODY_15|0
+the usc database fit equation 9|DT NNP NN NN NN CD|BODY_3|0
+both cases|DT NNS|BODY_2:BODY_1|0
+six|CD|BODY_8|0
+very regular or very noisy images|RB JJ CC RB JJ NNS|BODY_2|0
+size 256|NN CD|BODY_7|0
+256 4 \theta 4-pixel blocks|CD CD NN JJ NNS|BODY_5|0
+ff(k|NN|BODY_6|0
+the paper|DT NN|BODY_3|0
+( test \gamma train|-LRB- NN NN NN|BODY_2|0
+eleven|CD|BODY_8|0
+1 % distortion|CD NN NN|BODY_6|0
+the averages|DT NNS|BODY_2|0
+euclidean distance 1|JJ NN CD|BODY_5|0
+individual pixel distortions|JJ NN NNS|BODY_2|0
+zero training error|CD NN NN|BODY_4|0
+a larger training set size|DT JJR NN VBN NN|BODY_8|0
+reserving man|VBG NN|BODY_10|0
+size ( fraction|NN -LRB- NN|BODY_5|0
+image blocks|NN NNS|BODY_4|0
+the ff=m model|DT NN NN|BODY_5|0
+e .g|NN NN|BODY_7|0
+a random block|DT JJ NN|BODY_6|0
+advance|NN|BODY_5|0
+speech|NN|BODY_5|0
+mse distortion|JJ NN|BODY_2|0
+the diminishing returns|DT VBG NNS|BODY_7|0
+no more|DT JJR|BODY_6|0
+its blocks|PRP$ NNS|BODY_3|0
+large training|JJ NN|BODY_8|0
+different training|JJ NN|BODY_4|0
+runs|NNS|BODY_8|0
+the transition|DT NN|BODY_6|0
+cv31 figure 9|CD NN CD|BODY_10|0
+5 %|CD NN|BODY_5|0
+fit|NN|BODY_4|0
+all these 4 \theta|PDT DT CD NN|BODY_4|0
+the non-replacement approach|DT JJ NN|BODY_8|0
+spite|NN|BODY_5|0
+further|JJ|BODY_8|0
+of weather satellite images )|IN NN NN NNS -RRB-|BODY_6|0
+the expected worst-case behavior|DT VBN JJ NN|BODY_9|0
+an appreciable fraction|DT JJ NN|BODY_9|0
+the worst-case bounds|DT JJ NNS|BODY_6|0
+over 0 to|IN CD TO|BODY_16|0
+its  true  performance|PRP$ NN JJ NN NN|BODY_5|0
+an entire image|DT JJ NN|BODY_5|0
+an exact|DT JJ|BODY_2|0
+the dimensions|DT NNS|BODY_3|0
+40 % distortion|CD NN NN|BODY_9|0
+information theory|NN NN|BODY_5|0
+this as|DT IN|BODY_2|0
+almost the same|RB DT JJ|BODY_5|0
+the training image source|DT NN NN NN|BODY_5:BODY_10|0
+a source|DT NN|BODY_3|0
+a large number|DT JJ NN|BODY_4|0
+cv31 , test|CD , NN|BODY_9|0
+the formal notion|DT JJ NN|BODY_3|0
+other applications|JJ NNS|BODY_3|0
+k pixels|NN NNS|BODY_6|0
+partial blocks|JJ NNS|BODY_7|0
+a decstation|DT NN|BODY_2|0
+the time|DT NN|BODY_1:BODY_7|0
+sum|NN|BODY_6|0
+images )|NNS -RRB-|BODY_2|0
+photographic images|JJ NNS|BODY_7|0
+hamming distortion|JJ NN|BODY_4|0
+straightforward training|JJ NN|BODY_4|0
+the r-tolerance|DT NN|BODY_5|0
+all thresholds t|DT NNS NN|BODY_7|0
+a vector v|DT NN NN|BODY_8|0
+at least 50 %|IN JJS CD NN|BODY_6|0
+the desired bit rate|DT VBN NN NN|BODY_6|0
+the preparation|DT NN|BODY_13|0
+a data compression technique|DT NN NN NN|BODY_4|0
+certain circumstances|JJ NNS|BODY_4|0
+a fixed image|DT VBN NN|BODY_2|0
+the resulting equation|DT JJ NN|BODY_12|0
+the actual test distortion (|DT JJ NN NN -LRB-|BODY_4|0
+ieee transactions|JJ NNS|BODY_2|0
+[11]|NN|BODY_2|0
+conversion|NN|BODY_7|0
+all tolerances r|DT NNS NN|BODY_4|0
+the true error|DT JJ NN|BODY_6|0
+our series|PRP$ NN|BODY_3|0
+the methodology|DT NN|BODY_2|0
+a fixed amount|DT JJ NN|BODY_6|0
+a small random sub-sample|DT JJ JJ NN|BODY_4|0
+no guarantee|DT VB|BODY_6|0
+the largest training set size|DT JJS NN NN NN|BODY_5|0
+0.5|CD|BODY_4|0
+confidence parameter ffi|NN NN NN|BODY_3|0
+sonar data|JJ NNS|BODY_6|0
+either correct or incorrect|DT JJ CC JJ|BODY_3|0
+an attempt|DT NN|BODY_7|0
+23.4 and 16.8|CD CC CD|BODY_4|0
+64 figure 5|CD NN CD|BODY_11|0
+ cv31 )|JJ NN -RRB-|BODY_5|0
+one image not|CD NN RB|BODY_6|0
+an order|DT NN|BODY_4|0
+pixel b|NN NN|BODY_5|0
+one surprising observation|CD JJ NN|BODY_3|0
+this empirical worst-case |DT JJ JJ|BODY_3|0
+n=305>-4303003000 train|CD NN|BODY_6|0
+n=326>-4303003000 train|CD NN|BODY_9|0
+a codebook design algorithm|DT NN NN NN|BODY_9|0
+an increasingly accurate estimate|DT RB JJ NN|BODY_3|0
+need|NN|BODY_6|0
+a more useful distortion measure|DT RBR JJ NN NN|BODY_8|0
+16|CD|BODY_5|0
+the last term|DT JJ NN|BODY_10|0
+upper and lower limits|JJ CC JJR NNS|BODY_5|0
+a worst-case  distribution|DT JJ JJ NN|BODY_5|0
+a given block|DT VBN NN|BODY_4|0
+both binary and grayscale images|DT JJ CC JJ NNS|BODY_5|0
+training set sizes|NN VBN NNS|BODY_6|0
+std dev|JJ NN|BODY_8|0
+the mri brain scans|DT NN NN NNS|BODY_2|0
+( cv ) converge|-LRB- NN -RRB- NN|BODY_5|0
+what point|WP NN|BODY_6|0
+) ]|-RRB- SYM|BODY_9|0
+a series|DT NN|BODY_6|0
+very small training set sizes|RB JJ NN VBN NNS|BODY_6|0
+their areas|PRP$ NNS|BODY_11|0
+the average mse|DT JJ NN|BODY_2|0
+approach|NN|BODY_10|0
+methods|NNS|BODY_2|0
+one half bit|CD NN NN|BODY_2|0
+one day )|CD NN -RRB-|BODY_7|0
+the grayscale plot|DT NN NN|BODY_5|0
+10<s n=257>41010036-d vectors|JJ JJ NNS|BODY_15|0
+its mse|PRP$ NN|BODY_4|0
+ff )|NN -RRB-|BODY_20|0
+ cv17 )|JJ NN -RRB-|BODY_8|0
+similar values|JJ NNS|BODY_4|0
+all weather satellite photos|DT NN NN NNS|BODY_11|0
+either 1 or 0,|DT CD CC CD|BODY_3|0
+a small value|DT JJ NN|BODY_5|0
+chervonenkis|NNS|BODY_6|0
+ten 512 \theta 512 pixel images|CD CD NN CD NN NNS|BODY_2|0
+our source|PRP$ NN|BODY_1|0
+zero probability|CD NN|BODY_4|0
+the e[test \gamma train ]|DT NN NN NN NN|BODY_4|0
+the convergence rate|DT NN NN|BODY_3|0
+3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 alpha 36-d vectors|CD CD CD CD CD CD CD CD NN JJ NNS|BODY_10|0
+the following  characteristic  equations|DT JJ JJ JJ JJ NNS|BODY_8|0
+m increases|NN NNS|BODY_7|0
+4 vectors|CD NNS|BODY_5|0
+researchers|NNS|BODY_3|0
+the optimality , bayes or otherwise|DT NN , NNS CC RB|BODY_6|0
+the additional time|DT JJ NN|BODY_9|0
+our goal|PRP$ NN|BODY_3|0
+9-d vectors|. NNS|BODY_18|0
+formal learning theory|JJ NN NN|BODY_4|0
+a fixed target concept c|DT VBN NN NN NN|BODY_6|0
+professor les|NN NNS|BODY_2|0
+a variety|DT NN|ABSTRACT_5|0
+vector dimension|NN NN|BODY_5|0
+some residual lack|DT JJ NN|BODY_3|0
+an average|DT NN|BODY_4|0
+vector quantization and details|NN NN CC NNS|BODY_3|0
+163,840 blocks|CD NNS|BODY_5|0
+the right thing|DT JJ NN|BODY_6|0
+the empirically observed performance|DT RB VBN NN|BODY_3|0
+practitioners|NNS|BODY_1:BODY_3|0
+three sources|CD NNS|BODY_6|0
+a finite image|DT JJ NN|BODY_2|0
+the issue|DT NN|BODY_1:BODY_3|0
+log2( codebook|NN NN|BODY_9|0
+almost the same rate|RB DT JJ NN|BODY_7|0
+these images|DT NNS|BODY_3|0
+this training set size|DT NN VBD NN|BODY_8|0
+a  concept |DT JJ NN|BODY_4|0
+the r-tolerance distortion|DT NN NN|BODY_4|0
+the above procedure|DT JJ NN|BODY_5|0
+'s training|POS NN|BODY_6|0
+a labeling|DT NN|BODY_4|0
+another source t|DT NN NN|BODY_9|0
+the greatest minimum distortion|DT JJS NN NN|BODY_4|0
+nothing|NN|BODY_5|0
+an estimated learning complexity|DT VBN NN NN|BODY_3|0
+the r-tolerance training errors|DT NN NN NNS|BODY_8|0
+the index|DT NN|BODY_2|0
+equation 11 well|NN CD NN|BODY_2|0
+an empirical study|DT JJ NN|BODY_3|0
+the selected codebook vector|DT VBN NN NN|BODY_3|0
+ten test images|CD NN NNS|BODY_4|0
+the extent|DT NN|BODY_4|0
+a relative unimportance|DT JJ NN|BODY_8|0
+bits|NNS|BODY_4|0
+worst-case  images|JJ JJ NNS|BODY_10|0
+training and test distortion|NN CC NN NN|BODY_7|0
+the theorems|DT NNS|BODY_5|0
+the encoding complexity|DT JJ NN|BODY_7|0
+( test \gamma train ) distortion|-LRB- NN NN NN -RRB- NN|BODY_3|0
+a memoryless vector quantizer changes|DT JJ NN NN NNS|BODY_5:ABSTRACT_2|0
+the single-image learning experiments|DT NN VBG NNS|BODY_3|0
+its use|PRP$ NN|BODY_3|0
+t)-tolerance|NN|BODY_3|0
+addition|NN|BODY_3|0
+the use|DT NN|BODY_3|0
+other areas|JJ NNS|BODY_9|0
+good generalization|JJ NN|ABSTRACT_10|0
+the test image|DT NN NN|BODY_3|0
+the theoretical|DT JJ|BODY_5|0
+the bounding equations|DT NN NNS|BODY_11|0
+an image set|DT NN NN|BODY_2|0
+error-diffusion|NN|BODY_6|0
+our domain|PRP$ NN|BODY_4|0
+2.5.1 binary images|CD JJ NNS|BODY_8|0
+r-tolerance distortion|NN NN|BODY_7|0
+a codeword|DT NN|BODY_5:BODY_4|0
+a system|DT NN|BODY_4|0
+ourselves|PRP|BODY_3|0
+case|NN|BODY_7|0
+its asymptote|PRP$ NN|BODY_6|0
+the testing|DT NN|BODY_8|0
+a typical problem|DT JJ NN|BODY_5|0
+cohn|NN|BODY_1|0
+oregon|NN|BODY_5|0
+the graph|DT NN|BODY_1|0
+an image set t|DT NN NN NN|BODY_3|0
+different block sizes and bit rates|JJ NN NNS CC NN NNS|BODY_3|0
+a resolution|DT NN|BODY_3|0
+3.4 learning complexity|CD VBG NN|BODY_9|0
+extensive empirical simulations|JJ JJ NNS|ABSTRACT_2|0
+a single image|DT JJ NN|BODY_4|0
+r-tolerance training error|NN NN NN|BODY_20|0
+some source|DT NN|BODY_4|0
+p r[ a]|NN NN NN|BODY_12|0
+nine|CD|BODY_7|0
+a particular block size k and bit rate b|DT JJ NN NN NN CC NN NN NN|BODY_5|0
+an initial training|DT JJ NN|BODY_9|0
+two distinct values|CD JJ NNS|BODY_8|0
+useful decisions|JJ NNS|BODY_5|0
+its training distortion|PRP$ NN NN|BODY_4|0
+useful advice|JJ NN|BODY_2|0
+upper bounds|JJ NNS|BODY_3|0
+a limited codebook training|DT JJ NN NN|BODY_3|0
+the most common measure|DT RBS JJ NN|BODY_7|0
+0.1 %|CD NN|BODY_5|0
+photographs|NNS|BODY_9|0
+its average bit error|PRP$ JJ NN NN|BODY_6|0
+dependence|NN|BODY_6|0
+2 x|CD NN|BODY_2:BODY_4|0
+8|CD|BODY_5|0
+a grayscale codebook given|DT JJ NN VBN|BODY_3|0
+large codebooks|JJ NNS|BODY_4|0
+mip-9110508 and hewlett-packard laboratories|JJ CC JJ NNS|BODY_4|0
+portions|NNS|BODY_1|0
+the only noticeable deviations|DT RB JJ NNS|BODY_1|0
+gla )|FW -RRB-|BODY_8|0
+average case|JJ NN|BODY_6|0
+the best fit|DT JJS NN|BODY_6|0
+a given pixel|DT VBN NN|BODY_2|0
+its asymptotic value|PRP$ JJ NN|BODY_4|0
+10 images|CD NNS|BODY_3|0
+her own data|PRP$ JJ NNS|BODY_4|0
+other practitioners|JJ NNS|BODY_3|0
+a single ( small ) value|DT JJ -LRB- JJ -RRB- NN|BODY_9|0
+replacement (|NN -LRB-|BODY_12|0
+corresponds|NNS|BODY_2|0
+tolerance|NN|BODY_7|0
+t)-tolerance training errors|NN NN NNS|BODY_7|0
+their difference|PRP$ NN|BODY_10|0
+a very simple functional form|DT RB JJ JJ NN|BODY_3|0
+vc-dimension d|NN NN|BODY_4|0
+formal upper bounds|JJ JJ NNS|BODY_2|0
+the performance|DT NN|ABSTRACT_1:BODY_4|0
+b|NN|BODY_7|0
+a continuous domain|DT JJ NN|BODY_2|0
+one usc image|CD JJ NN|BODY_9|0
+those sets|DT NNS|BODY_38|0
+a more detailed treatment|DT RBR JJ NN|BODY_13|0
+disjoint training and test images|JJ NN CC NN NNS|BODY_4|0
+all possible permutations|DT JJ NNS|BODY_6|0
+our hypothesis|PRP$ NN|BODY_5:BODY_1|0
+such an ff|JJ DT NN|BODY_2|0
+square pixel blocks|NN NN NNS|BODY_5|0
+the edges|DT NNS|BODY_8|0
+fixed k and n|JJ NN CC NN|BODY_6|0
+the best|DT JJS|BODY_6|0
+the infinite set|DT JJ NN|BODY_10|0
+convergence|NN|BODY_12:BODY_13|0
+plot|NN|BODY_17|0
+differences|NNS|BODY_5|0
+more study|JJR NN|BODY_2|0
+the codebook oe|DT NN NN|BODY_4|0
+the first derivative|DT JJ NN|BODY_2|0
+a little experimentation|DT JJ NN|BODY_4|0
+the same point|DT JJ NN|BODY_4|0
+their own right|PRP$ JJ NN|BODY_5|0
+the behavior|DT NN|BODY_3|0
+training errors|VBG NNS|BODY_3|0
+blocks ) test-train distortion ( % )0.201.00data points figure 3|NNS -RRB- NN NN -LRB- NN NN NNS NN CD|BODY_5|0
+'s distortion|POS NN|BODY_7|0
+significant value|JJ NN|BODY_4|0
+them|PRP|BODY_17|0
+the approximately 6 % distortion|DT RB CD NN NN|BODY_3|0
+the tolerance model|DT NN NN|BODY_3|0
+only 5,000 vectors|RB CD NNS|BODY_5|0
+follows|VBZ|BODY_3|0
+2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 alpha|CD CD CD CD CD CD CD CD CD NN|BODY_14|0
+slightly tighter upper bounds|RB JJR JJ NNS|BODY_9|0
+every image (|DT NN -LRB-|BODY_3|0
+k or n|NN CC NN|BODY_9|0
+larger and larger samples|JJR CC JJR NNS|BODY_2|0
+the ( test \gamma train|DT -LRB- NN NN NN|BODY_3|0
+( 1|-LRB- CD|BODY_11|0
+sampled|VBN|BODY_11|0
+pixel )|NN -RRB-|BODY_3|0
+some block|DT NN|BODY_3|0
+a simple  tolerance|DT JJ NN NN|BODY_2|0
+maximal learning complexity|JJ NN NN|BODY_8|0
+the following subsection|DT VBG NN|BODY_6|0
+the source images|DT NN NNS|BODY_9|0
+a bayes-optimal decision rule|DT JJ NN NN|BODY_7|0
+d ( ln 2m|NN -LRB- FW IN|BODY_4|0
+its generalization error|PRP$ NN NN|BODY_3|0
+many blocks|JJ NNS|BODY_3|0
+the classifier|DT NN|BODY_6|0
+the same vector|DT JJ NN|BODY_4|0
+memoryless quantizers|JJ NNS|BODY_5|0
+mean train|VB NN|BODY_9|0
+average bit error|JJ NN NN|BODY_5|0
+the learner|DT NN|BODY_7|0
+codebook vectors|NN NNS|BODY_9|0
+a point x|DT NN NN|BODY_1:BODY_3|0
+what set|WP NN|BODY_3|0
+their own experiments|PRP$ JJ NNS|BODY_8|0
+just an unordered set|RB DT JJ VBN|BODY_5|0
+eight bits|CD NNS|BODY_2|0
+an completely random image (|DT RB JJ NN -LRB-|BODY_10|0
+( test 1|-LRB- NN CD|BODY_5|0
+a relationship|DT NN|BODY_2|0
+a remarkably good fit|DT RB JJ NN|BODY_3|0
+empirical worst-case|JJ NN|BODY_3|0
+the single image sources|DT JJ NN NNS|BODY_7|0
+0.11 %|CD NN|BODY_8|0
+pixel image|JJ NN|BODY_12|0
+the mean training and test errors|DT JJ NN CC NN NNS|BODY_1|0
+training element|NN NN|BODY_8|0
+non-degenerate cases|JJ NNS|BODY_8|0
+a major role|DT JJ NN|BODY_6|0
+the result|DT NN|BODY_5|0
+( 4|-LRB- CD|BODY_27|0
+ffl r ( oe|JJ NN -LRB- NN|BODY_29|0
+that class|IN NN|BODY_8|0
+( ln 2m 2.5 relating tolerance|-LRB- NN IN CD VBG NN|BODY_5|0
+dm ( test ff|NN -LRB- NN NN|BODY_4|0
+the understanding|DT NN|BODY_7|0
+the tighter  tolerance|DT JJR NN NN|BODY_1|0
+empirical work|JJ NN|BODY_1|0
+equations 9 and 10|NNS CD CC CD|BODY_20|0
+a fraction|DT NN|BODY_6|0
+an image )|DT NN -RRB-|BODY_6|0
+such a classifier|JJ DT NN|BODY_6|0
+the observed differences|DT JJ NNS|BODY_8|0
+the bulk|DT NN|BODY_9|0
+the same scale|DT JJ NN|BODY_3|0
+a 16 to 1 compression ratio|DT CD TO CD NN NN|BODY_9|0
+illustrated|JJ|BODY_1|0
+the latter , bayes-optimal bound|DT JJ , JJ VBD|BODY_14|0
+predetermined vectors|VBN NNS|BODY_7|0
+a training|DT NN|BODY_3|0
+test and training distortion )|NN CC NN NN -RRB-|BODY_5|0
+that block|DT NN|BODY_5|0
+worst-case bounds|JJ NNS|BODY_6|0
+any predictions|DT NNS|BODY_4|0
+the image(|DT NN|BODY_10|0
+the data|DT NNS|BODY_1:BODY_10|0
+(typically ) rectangular pixel blocks|RB -RRB- JJ NN NNS|BODY_6|0
+distortion rate|NN NN|BODY_6|0
+a great deal|DT JJ NN|BODY_2|0
+the storage or transmission costs|DT NN CC NN NNS|BODY_6|0
+exactly distinct codebooks|RB JJ NNS|BODY_3|0
+k-dimensional , n-vector codebooks|JJ , JJ NNS|BODY_2|0
+some minimum test distortion|DT JJ NN NN|BODY_6|0
+block size k|NN NN NN|BODY_4|0
+some dependence|DT NN|BODY_3|0
+the practical performance|DT JJ NN|BODY_6|0
+a memoryless vector quantizer|DT JJ NN NN|BODY_2|0
+an unknown subset c|DT JJ NN NN|BODY_2|0
+time|NN|BODY_4|0
+compression|NN|BODY_2|0
+t)-tolerance error rate|NN NN NN|BODY_5|0
+the bit rate|DT NN NN|BODY_3|0
+a fixed allowable training time|DT JJ JJ NN NN|BODY_8|0
+less than log 2|RBR IN NN CD|BODY_8|0
+an arbitrary classifier|DT JJ NN|BODY_2|0
+maximal entropy )|JJ NN -RRB-|BODY_12|0
+1000 2000 3000 4000 5000 6000 7000 8000 distortion 1000|CD CD CD CD CD CD CD CD NN CD|BODY_6|0
+another randomly extracted|DT RB VBN|BODY_19|0
+observations|NNS|BODY_2|0
+the training and test distortions|DT NN CC NN NNS|BODY_4|0
+this training set|DT NN NN|BODY_1|0
+practical guidance|JJ NN|BODY_4|0
+\delta(test \gamma train )|NN NN NN -RRB-|BODY_18|0
+her training|PRP$ NN|BODY_15|0
+a 1 % difference|DT CD NN NN|BODY_2|0
+ffi|NN|BODY_3|0
+some  tolerance |DT JJ NN|BODY_6|0
+a binary codebook given|DT JJ NN VBN|BODY_5|0
+even though this image|RB IN DT NN|BODY_2|0
+an ff|DT NN|BODY_5|0
+the ffl( c|DT NN NN|BODY_8|0
+covers|NNS|BODY_9|0
+equation ffl d ( oe|NN JJ NN -LRB- NN|BODY_21|0
+( ln 2m 2.5.2 grayscale images|-LRB- NN IN CD JJ NNS|BODY_4|0
+the ordering|DT NN|BODY_2|0
+the training set (|DT NN NN -LRB-|BODY_7|0
+seven photographs|CD NNS|BODY_5|0
+the practical implications|DT JJ NNS|BODY_2|0
+this one|DT CD|BODY_10|0
+this dimension|DT NN|BODY_8|0
+that source|DT NN|BODY_7|0
+redundancies|NNS|BODY_9|0
+the two sampling paradigms|DT CD NN NNS|BODY_3|0
+the dimension|DT NN|BODY_11|0
+the vectors|DT NNS|BODY_12|0
+lower bounds|JJR NNS|BODY_4|0
+no penalty|DT NN|BODY_4|0
+no difference|DT NN|BODY_3|0
+speech ) [10]|NN -RRB- NN|BODY_6|0
+the grayscale case|DT JJ NN|BODY_3|0
+the possible vc-dimension|DT JJ NN|BODY_4|0
+distinct grayscale codebooks|JJ JJ NNS|BODY_6|0
+a concept )|DT NN -RRB-|BODY_5|0
+a test set|DT NN NN|BODY_3|0
+the formal worst-case |DT JJ JJ|BODY_2|0
+) distortion ( % )12.014.0test train figure 1|-RRB- NN -LRB- NN NN NN NN CD|BODY_8|0
+useful measures|JJ NNS|BODY_11|0
+a common measure|DT JJ NN|BODY_2|0
+k-dimensional blocks|JJ NNS|BODY_2|0
+a small training set|DT JJ NN NN|BODY_8|0
+all typical  cases|DT JJ JJ NNS|BODY_5|0
+inputs|NNS|BODY_8|0
+a parameterized equation|DT JJ NN|BODY_3|0
+the derived values|DT VBN NNS|BODY_5|0
+only a single vector )|RB DT JJ NN -RRB-|BODY_7|0
+a near-linear manner|DT JJ NN|BODY_6|0
+error measure|NN NN|BODY_3|0
+its value|PRP$ NN|BODY_8|0
+the concept learning framework|DT NN VBG NN|BODY_5|0
+the entropy plot|DT NN NN|BODY_7|0
+the main determinant|DT JJ NN|BODY_8|0
+that concept class c shatters|DT NN NN NN NNS|BODY_2|0
+) images|-RRB- NNS|BODY_24|0
+our training examples|PRP$ NN NNS|BODY_3|0
+the full set|DT JJ NN|BODY_3|0
+128 25-dimensional binary vectors|CD JJ JJ NNS|BODY_4|0
+the future )|DT NN -RRB-|BODY_13|0
+the amount|DT NN|BODY_1|0
+the disparity|DT NN|BODY_1|0
+practical help|JJ NN|BODY_2|0
+blog 2 training set size|NN CD NN NN NN|BODY_3|0
+the theoretical upper bounds|DT JJ JJ NNS|BODY_11|0
+both|DT|BODY_5|0
+the same block|DT JJ NN|BODY_7|0
+the assumption|DT NN|BODY_3|0
+the r-tolerance errors|DT JJ NNS|BODY_2|0
+random blocks|JJ NNS|BODY_20|0
+distortion )|NN -RRB-|BODY_8|0
+an arbitrary image|DT JJ NN|BODY_7|0
+one thing|CD NN|BODY_7|0
+the above equations|DT JJ NNS|BODY_3|0
+work|NN|BODY_3|0
+the average case|DT JJ NN|BODY_4|0
+a binary vq|DT JJ NN|BODY_5|0
+a codebook oe|DT NN NN|BODY_2|0
+a simple vq distortion measure|DT JJ NN NN NN|BODY_3|0
+this section|DT NN|BODY_1:BODY_9|0
+some real-valued distortion|DT JJ NN|BODY_3|0
+extreme cases|JJ NNS|BODY_2|0
+the first-order polynomial|DT JJ NN|BODY_4|0
+a tiny fraction|DT JJ NN|BODY_2|0
+some rule|DT NN|BODY_2|0
+only a penalty|RB DT NN|BODY_8|0
+the two concepts|DT CD NNS|BODY_7|0
+the total number|DT JJ NN|BODY_2|0
+this performance|DT NN|BODY_6:BODY_1|0
+briefly|NN|BODY_2|0
+the theoretical implications|DT JJ NNS|BODY_3|0
+a new codebook|DT JJ NN|BODY_1|0
+our sample|PRP$ NN|BODY_6|0
+some|DT|BODY_2|0
+the training distortion and test distortion|DT NN NN CC NN NN|BODY_4|0
+introduction vector quantization|NN NN NN|BODY_1|0
+the design algorithm|DT NN NN|BODY_7|0
+a small but significant increase|DT JJ CC JJ NN|BODY_3|0
+the  concepts|DT JJ NNS|BODY_36|0
+the constant ff|DT JJ NN|BODY_2|0
+some places|DT NNS|BODY_2|0
+the minimum|DT NN|BODY_2|0
+the specified tolerance|DT VBN NN|BODY_9|0
+the above bounds|DT JJ NNS|BODY_14|0
+appropriate training set sizes|JJ NN VBN NNS|BODY_7|0
+the convergence results|DT NN NNS|BODY_3|0
+training set|NN NN|BODY_8|0
+two image sources|CD NN NNS|BODY_3|0
+a k-dimensional block|DT JJ NN|BODY_7|0
+figure 8 plots|NN CD NNS|BODY_1|0
+3.3 average-case experiments|CD JJ NNS|BODY_1|0
+an empirical worst-case |DT JJ JJ|BODY_4|0
+our expectations|PRP$ NNS|BODY_12|0
+our training and test image sources|PRP$ NN CC NN NN NNS|BODY_12|0
+section 3.3.1|NN CD|BODY_8|0
+the formal bound|DT JJ JJ|BODY_1|0
+these test images|DT NN NNS|BODY_6|0
+the theoretical bounds|DT JJ NNS|BODY_9|0
+a single small value|DT JJ JJ NN|BODY_12|0
+single-image training sources|JJ NN NNS|BODY_7|0
+sufficient computational power|JJ JJ NN|BODY_4|0
+the typical behavior|DT JJ NN|BODY_7|0
+the distribution p|DT NN NN|BODY_5|0
+a maximum|DT NN|BODY_4|0
+on|RP|BODY_4|0
+the ones|DT NNS|BODY_10|0
+testing and training error|NN CC NN NN|BODY_3|0
+a concrete example|DT NN NN|BODY_3|0
+a trivial lower|DT JJ JJR|BODY_8|0
+image complexity ( bits entropy|NN NN -LRB- NNS NN|BODY_1|0
+our search|PRP$ NN|BODY_7|0
+the mathematical framework|DT JJ NN|BODY_1|0
+the original image|DT JJ NN|BODY_4|0
+a linear fit|DT JJ NN|BODY_1|0
+the asymptotic error rates|DT JJ NN NNS|BODY_1|0
+some minimum distortion|DT JJ NN|BODY_15|0
+an indication|DT NN|BODY_12|0
+a learner|DT NN|BODY_5|0
+little variation|JJ NN|BODY_7|0
+less than 50|JJR IN CD|BODY_5|0
+a starting point|DT VBG NN|BODY_3|0
+the test and training distortion|DT NN CC NN NN|BODY_7|0
+a given learning training set size|DT VBN NN NN NN NN|BODY_5|0
+one codebook|CD NN|BODY_7|0
+the quantity ( ffl d|DT NN -LRB- JJ NN|BODY_5|0
+( ln|-LRB- NN|BODY_24|0
+a fixed set|DT VBN NN|BODY_2|0
+many parts|JJ NNS|BODY_1|0
+a non-zero probability|DT JJ NN|BODY_4|0
+an expected ( test \gamma train ) distortion|DT VBN -LRB- VB NN NN -RRB- NN|BODY_7|0
+8 bits|CD NNS|BODY_1|0
+[1]|NNP|BODY_6|0
+our empirical studies|PRP$ JJ NNS|BODY_2|0
+a particular image|DT JJ NN|BODY_5|0
+m probability|NN NN|BODY_14|0
+the 128 25-dimensional binary vectors|DT CD JJ JJ NNS|BODY_12|0
+these guidelines|DT NNS|BODY_1|0
+the extension|DT NN|BODY_3|0
+the entropy|DT NN|BODY_7|0
+an empirical upper|DT JJ JJ|BODY_13|0
+the test error|DT VB NN|BODY_7|0
+the previous subsection|DT JJ NN|BODY_4|0
+[9 ]|DT NN|BODY_2|0
+the more data|DT JJR NNS|BODY_2|0
+this issue|DT NN|BODY_7|0
+the notation|DT NN|BODY_2|0
+further computational savings|JJ JJ NNS|BODY_4|0
+1331 )|CD -RRB-|BODY_6|0
+training set size ( m|NN VBN NN -LRB- NN|BODY_4|0
+3k [1]|JJ NN|BODY_6|0
+ff=m|NN|BODY_2|0
+those blocks|DT NNS|BODY_7|0
+the care|DT NN|BODY_11|0
+the image (|DT NN -LRB-|BODY_5|0
+2m [16]|JJ NN|BODY_4|0
+a few important differences|DT JJ JJ NNS|BODY_2|0
+distributions|NNS|BODY_8|0
+the whole image|DT JJ NN|BODY_7|0
+' representational power|POS JJ NN|BODY_5|0
+a learning complexity|DT NN NN|BODY_4|0
+the size m|DT NN NN|BODY_3|0
+minimal or near-minimal error|JJ CC JJ NN|BODY_5|0
+arbitrary criteria|JJ NNS|BODY_6|0
+the test images|DT NN NNS|BODY_6:BODY_5|0
+a different set|DT JJ NN|BODY_11|0
+disjoint|NN|BODY_5|0
+a constant and m|DT JJ CC NN|BODY_5|0
+just the cardinality|RB DT NN|BODY_4|0
+gla training|NN NN|BODY_5|0
+the formal bounds|DT JJ NNS|BODY_1|0
+settings|NNS|BODY_11|0
+k )|NN -RRB-|BODY_6|0
+m training set size|JJ NN VBN NN|BODY_5|0
+the test or training image(|DT NN CC NN NN|ABSTRACT_7:BODY_7|0
+great computational advantages|JJ JJ NNS|BODY_2|0
+random sampling|JJ NN|BODY_6|0
+these points|DT NNS|BODY_3|0
+equation 8|NN CD|BODY_4|0
+the 2 jsj possible subsets|DT CD NN JJ NNS|BODY_11|0
+the 2 m possible labelings|DT CD NN JJ NNS|BODY_9|0
+the hypothesis class|DT NN NN|BODY_2|0
+the construction|DT NN|BODY_6|0
+applying standard vq|VBG JJ NN|BODY_3|0
+2.4|CD|BODY_12|0
+the tolerance errors|DT NN NNS|BODY_27|0
+only a single|RB DT JJ|BODY_9|0
+either ten|DT CD|BODY_4|0
+o( 1=m )|JJ JJ -RRB-|BODY_5|0
+2 blocks|CD NNS|BODY_5|0
+( locally ) minimal distortion|-LRB- RB -RRB- JJ NN|BODY_4|0
+p.|NN|BODY_5|0
+the simplest way|DT JJS NN|BODY_1|0
+the k-dimensional vector space|DT JJ NN NN|BODY_8|0
+ classes|JJ NNS|BODY_3|0
+diffused man|JJ NN|BODY_14|0
+its limit|PRP$ NN|BODY_10|0
+the vector dimension and number|DT NN NN CC NN|BODY_2|0
+a randomly drawn subset|DT RB VBN NN|BODY_5:ABSTRACT_5|0
+the training and test performance|DT NN CC NN NN|BODY_15|0
+training and test performance|NN CC NN NN|BODY_4|0
+m example blocks|NN NN NNS|BODY_6|0
+size increases|NN NNS|BODY_6|0
+r bits|NN NNS|BODY_24|0
+a two-sided error measure|DT JJ NN NN|BODY_3|0
+such codebooks shatters|JJ NNS NNS|BODY_3|0
+test images|NN NNS|BODY_6|0
+typical |JJ|BODY_6|0
+( test ff|-LRB- NN NN|BODY_1|0
+typically ffl d ( oe(|RB JJ NN -LRB- NNP|BODY_1|0
+how much|WRB JJ|BODY_15|0
+the row and column|DT NN CC NN|BODY_3|0
+approach zero inversely|NN CD NN|BODY_3|0
+theory and practice|NN CC NN|TITLE_1|0
+a vq problem|DT JJ NN|BODY_8|0
+this t|DT NN|BODY_1|0
+training vectors|NN NNS|BODY_4|0
+figure 6 plots|NN CD NNS|BODY_1|0
+the chosen log2( codebook|DT VBN NN NN|BODY_1|0
+memorization|NN|BODY_1|0
+( 2 ) other more involved methods|-LRB- CD -RRB- JJ JJR VBN NNS|BODY_1|0
+t|NN|BODY_9|0
+practice|NN|BODY_1|0
+a few|DT JJ|BODY_1|0
+an appropriate constant factor )|DT JJ JJ NN -RRB-|BODY_5|0
+their own problem domains|PRP$ JJ NN NNS|BODY_8|0
+1 )|CD -RRB-|BODY_12|0
+fi|JJ|BODY_1|0
+etc|FW|BODY_12|0
+this quantization|DT NN|BODY_1|0
+test and training distortions|NN CC NN NNS|BODY_8|0
+the most popular vq distortion measures measure|DT RBS JJ NN NN NNS NN|BODY_1|0
+our interest|PRP$ NN|BODY_1|0
+2.3|CD|BODY_1|0
+5.1 implications|CD NNS|BODY_1|0
+5.2 implications|CD NNS|BODY_1|0
+the derived learning complexity|DT VBN NN NN|BODY_1|0
+different but consistent results|JJ CC JJ NNS|BODY_4|0
+pollard ( [14] )|NN -LRB- NNP -RRB-|BODY_1|0
+[6] )|NNP -RRB-|BODY_4|0
+most cases|JJS NNS|BODY_1|0
+the learning|DT NN|BODY_1|0
+computer-generated line drawings|JJ NN NNS|BODY_10|0
+the normal exhaustive  training paradigm|DT JJ JJ JJ NN NN|BODY_12|0
+our previous single-image generalization curves|PRP$ JJ NN NN NNS|BODY_1|0
+the same parameter values|DT JJ NN NNS|BODY_5|0
+as|IN|BODY_4|0
+all k-dimensional binary vectors|DT JJ JJ NNS|BODY_6|0
+that distribution|IN NN|BODY_7|0
+individual test images|JJ NN NNS|BODY_8|0
+the available examples|DT JJ NNS|BODY_10|0
+useful information|JJ NN|BODY_7|0
+a common practical occurrence|DT JJ JJ NN|BODY_5|0
+the pixel errors|DT JJ NNS|BODY_10|0
+[12] )|NN -RRB-|BODY_5|0
+a k-dimensional vector|DT JJ NN|BODY_3|0
+future research|JJ NN|BODY_6|0
+figure 1 plots|NN CD NNS|BODY_1|0
+some domains|DT NNS|BODY_1|0
+recent work|JJ NN|BODY_1|0
+a specific tolerance error measure|DT JJ NN NN NN|BODY_5|0
+the diversity|DT NN|BODY_1|0
+our error|PRP$ NN|BODY_1|0
+a modifying linear factor|DT NN NN NN|BODY_6|0
+behavior|NN|BODY_8|0
+' x|POS NN|BODY_3|0
+observed performance|JJ NN|BODY_8|0
+the tenth|DT NN|BODY_10|0
+the other image source|DT JJ NN NN|BODY_7|0
+a guarantee|DT NN|BODY_1|0
+weather satellite images|NN NN NNS|BODY_9|0
+4 pixels )|CD NNS -RRB-|BODY_9|0
+the lowest empirical error|DT JJS JJ NN|BODY_8|0
+an empirical one|DT JJ CD|BODY_4|0
+moot|NN|BODY_6|0
+their respective equations|PRP$ JJ NNS|BODY_8|0
+their own vq problems|PRP$ JJ NN NNS|BODY_6|0
+this smaller value|DT JJR NN|BODY_8|0
+each r-tolerance model|DT NN NN|BODY_4|0
+worst-case learning complexity|JJ NN NN|BODY_3|0
+16 dimensional vectors|CD JJ NNS|BODY_8|0
+a learning problem|DT NN NN|BODY_4|1
+this learning theory analysis|DT NN NN NN|BODY_1|0
+the total available training set|DT JJ JJ NN NN|BODY_5|0
+figure 7 )|NN CD -RRB-|BODY_7|0
+algorithm|NN|BODY_8|0
+the test error )|DT NN NN -RRB-|BODY_17|0
+m training examples|NN NN NNS|BODY_5|0
+point z|NN FW|BODY_6|0
+this results|DT NNS|BODY_1|0
+4 multiple-image learning experiments|CD JJ NN NNS|BODY_1|0
+the output|DT NN|BODY_1|0
+this design|DT NN|BODY_1|0
+3.1 given|CD VBN|BODY_1|0
+a looser|DT NN|BODY_7|0
+an associated unknown probability density|DT JJ NN NN NN|BODY_5|0
+binary ( black/white ) images|JJ -LRB- JJ -RRB- NNS|BODY_4|0
+k and b|NN CC NN|BODY_9|0
+useful error measures|JJ NN NNS|BODY_9|0
+\gamma train ]=m|NN NN NN|BODY_3|0
+the learning complexity ff(k|DT VBG NN NN|BODY_1|0
+our performance|PRP$ NN|BODY_7|0
+our practical advice|PRP$ JJ NN|BODY_9|0
+potential training vectors|JJ NN NNS|BODY_9|0
+another popular way|DT JJ NN|BODY_1|0
+the worst-case|DT NN|BODY_5|0
+david pollard [14]|JJ NN NN|BODY_3|0
+our concern|PRP$ NN|BODY_1|0
+the training distortion|DT NN NN|BODY_5|0
+the first series|DT JJ NN|BODY_1|0
+block size and codebook size ( see figure 5 )|NN NN CC NN NN -LRB- VB NN CD -RRB-|BODY_12|0
+little effect|JJ NN|BODY_10|0
+learning systems|VBG NNS|BODY_8|0
+2500 binary blocks|CD JJ NNS|BODY_11|0
+a training image|DT NN NN|BODY_4|0
+a major part|DT JJ NN|BODY_1|0
+3.3.1 learning complexity|CD NN NN|BODY_1|0
+cv17 train|NN NN|BODY_13|0
+3.2 relation|CD NN|BODY_1|0
+a portion|DT NN|BODY_1|0
+some given r|DT VBN NN|BODY_5|0
+some value|DT NN|BODY_11|0
+this rule|DT NN|BODY_1|0
+both training set size and codebook size|DT NN NN NN CC NN NN|BODY_3|0
+this study|DT NN|BODY_5|0
+typical distortion measures|JJ NN NNS|BODY_1|0
+the r-tolerance criterion|DT NN NN|BODY_43|0
+the plot|DT NN|BODY_1|0
+further work|JJ NN|BODY_1|0
+this domain|DT NN|BODY_7|0
+almost certainty|RB NN|BODY_6|0
+the entire block|DT JJ NN|BODY_5|0
+section 3.4|NN CD|BODY_1|0
+the vapnik-chervonenkis (vc ) dimension|DT NN NN -RRB- NN|ABSTRACT_1|0
+appropriate modification|JJ NN|BODY_1|0
+much|JJ|BODY_1|0
+no such tighter bound|DT JJ JJR JJ|BODY_1|0
+its codebook training set size|PRP$ NN NN VBN NN|BODY_10|0
+its training set size|PRP$ NN NN NN|ABSTRACT_4:BODY_7|0
+random image entropy|JJ NN NN|BODY_6|0
+2.3.2 grayscale images|CD JJ NNS|BODY_1|0
+the formal theory|DT JJ NN|BODY_1|0
+many images|JJ NNS|BODY_10|0
+some extent|DT NN|BODY_9|0
+the image size increases|DT NN NN NNS|BODY_5|0
+the authors study|DT NNS NN|ABSTRACT_1|0
+these observations|DT NNS|BODY_2|0
+16]|CD|BODY_8|0
+the mean-squared error ( mse)|DT JJ NN -LRB- NN|BODY_9|0
+t)-tolerance error measure|DT NN NN|BODY_12|0
+vector quantizer codebooks|NN NN NNS|ABSTRACT_6|0
+pattern classification|NN NN|BODY_4|0
+little modification|JJ NN|BODY_8|0
+multiple-image learning|JJ NN|BODY_5|0
+an example|DT NN|BODY_8|0
+event a.|NN NN|BODY_14|0
+an inverse first-order polynomial|DT NN NN NN|BODY_9|0
+figure 3 )|NN CD -RRB-|BODY_7|0
+the training and test sets|DT NN CC NN NNS|BODY_4|0
+their respective models|PRP$ JJ NNS|BODY_10|0
+65025 ( 255 2 )|CD -LRB- CD CD -RRB-|BODY_5|0
+the learning curve|DT NN NN|BODY_13|0
+a typical image|DT JJ NN|BODY_15|0
+realistic sample|JJ NN|BODY_1|0
+2.2 framing vq|CD NN NN|BODY_1|0
+the indicator function|DT NN NN|BODY_1|0
+2|CD|BODY_1|0
+2 the value|CD DT NN|BODY_1|0
+2.3.1 binary images|CD JJ NNS|BODY_1|0
+a bit more work|DT NN RBR NN|BODY_1|0
+a parametric threshold t|DT JJ NN NN|BODY_3|0
+an additional parameter|DT JJ NN|BODY_5|0
+both theoretical and empirical results|DT JJ CC JJ NNS|BODY_2|0
+kg|NN|BODY_1|0
+our final codebook|PRP$ JJ NN|BODY_5|0
+section 4|NN CD|BODY_1|0
+section 5|NN CD|BODY_1|0
+the above inequality|DT JJ NN|BODY_31|0
+the combinatorial bounds|DT JJ NNS|BODY_4|0
+the moment|DT NN|BODY_1|0
+the same coordinate|DT JJ VBP|BODY_6|0
+the simplest upper bound|DT JJS JJ VBN|BODY_1|0
+the tolerance measure|DT NN NN|BODY_6|0
+these differences|DT NNS|BODY_2|0
+these m blocks|DT NN NNS|BODY_1|0
+these two approaches|DT CD NNS|BODY_1|0
+this knowledge|DT NN|BODY_1|0
+this last section|DT JJ NN|BODY_1|0
+another use|DT NN|BODY_1|0
+this assumption|DT NN|BODY_7|0
+a good codebook|DT JJ NN|BODY_10|0
+the first step|DT JJ NN|BODY_1|0
+the above theorems|DT JJ NNS|BODY_1|0
+the same codebook|DT JJ NN|BODY_10|0
+5.3 summary and future directions|CD NN CC JJ NNS|BODY_1|0
+the simulations|DT NNS|BODY_1|0
+10.14 %|CD NN|BODY_8|0
+p ) and ffl( c|NN -RRB- CC JJ NN|BODY_6|0
+the empirical error ffl( c|DT JJ NN NN NN|BODY_1|0
+a ( very high-contrast ) grayscale image|DT -LRB- RB JJ -RRB- JJ NN|BODY_4|0
+block size and codebook size|NN NN CC NN NN|BODY_5|0
+our derived theoretical predictions|PRP$ VBN JJ NNS|BODY_7|0
+the empirical worst-case  ff|DT JJ JJ NN NN|BODY_1|0
+this first-order approximation|DT NN NN|BODY_7|0
+different training and test images|JJ NN CC NN NNS|BODY_9|0
+more inquiry|JJR NN|BODY_1|0
+similar learning complexities|JJ NN NNS|BODY_6|0
+the worst-case  learning complexity|DT JJ NN VBG NN|BODY_3|0
+[3] )|NN -RRB-|BODY_15|0
+the entire domain x|DT JJ NN NN|BODY_4|0
+2 m possible labelings|CD NN JJ NNS|BODY_4|0
+a given algorithm|DT VBN NN|BODY_1|0
+both the binary and grayscale images|DT DT JJ CC JJ NNS|BODY_1|0
+their main utility|PRP$ JJ NN|BODY_1|0
+2.1 pattern classification|CD NN NN|BODY_1|0
+a detailed description|DT JJ NN|BODY_1|0
+the codebooks|DT NNS|BODY_7|0
+256 representative vectors|CD JJ NNS|BODY_7|0
+this procedure and averaging|DT NN CC NN|BODY_1|0
+two bounds|CD NNS|BODY_1|0
+more commonly used distortion measures|RBR RB VBN NN NNS|BODY_5|0
+some image degradation measure [12]|DT NN NN NN NN|BODY_11|0
+the empirical performance|DT JJ NN|BODY_10|0
+the frequency|DT NN|BODY_1|0
+the input distribution and codebook-design algorithm|DT NN NN CC NN NN|BODY_8|0
+these codebook vectors|DT NN NNS|BODY_13|0
+some class|DT NN|BODY_6|0
+training and testing codebooks|NN CC NN NNS|BODY_5|0
+3 empirical results|CD JJ NNS|BODY_1|0
+all available data|DT JJ NNS|BODY_12:ABSTRACT_9|0
+figure 10|NN CD|BODY_2|0
+the previous two sections|DT JJ CD NNS|BODY_5|0
+at least 2 m distinct codebooks|IN JJS CD NN JJ NNS|BODY_3|0
+binary and grayscale photographs|JJ CC JJ NNS|BODY_8|0
+training and test errors|NN CC NN NNS|BODY_5|0
+the observed form|DT JJ NN|BODY_1|0
+128 )|CD -RRB-|BODY_11|0
+a member|DT NN|BODY_12|0
+its test images|PRP$ NN NNS|BODY_6|0
+some specification|DT NN|BODY_22|0
+that trial|DT NN|BODY_22|0
+the bounding learning complexity|DT NN VBG NN|BODY_1|0
+let error|VB NN|BODY_1|0
+the dependence|DT NN|BODY_1|0
+c.|NN|BODY_12:BODY_7|0
+drawing distinct but identical blocks|VBG JJ CC JJ NNS|BODY_9|0
+the disjoint  test|DT NN NN NN|BODY_9|0
+the error rate|DT NN NN|BODY_6|0
+each block|DT NN|BODY_1|0
+each codebook|DT NN|BODY_1|0
+the least possible error|DT JJS JJ NN|BODY_5|0
+the empty set )|DT JJ NN -RRB-|BODY_13|0
+the source image|DT NN NN|BODY_12|0
+the training set increases|DT NN NN NNS|BODY_12|0
+cv31 )|NNS -RRB-|BODY_11|0
+50 blocks|CD NNS|BODY_9|0
+each value|DT NN|BODY_1|0
+s.|VBG|BODY_10|0
+the worst-case upper bound|DT JJ JJ VBN|BODY_1|0

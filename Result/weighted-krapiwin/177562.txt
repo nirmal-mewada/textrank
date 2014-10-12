@@ -1,0 +1,588 @@
+we|PRP|BODY_12:BODY_16:ABSTRACT_2:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_9|10
+it|PRP|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|2
+contours|NNS|BODY_12:BODY_6:BODY_5:BODY_13:ABSTRACT_8:BODY_1:BODY_2:BODY_3:BODY_10:BODY_7|1
+each slice|DT NN|BODY_5:BODY_1:ABSTRACT_3:BODY_14:BODY_3:BODY_4:BODY_9|1
+our algorithm|PRP$ NN|BODY_11:ABSTRACT_5:BODY_2:BODY_1:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_4:BODY_7|0
+an important problem|DT JJ NN|BODY_6:ABSTRACT_2|2
+this|DT|BODY_6:BODY_2:BODY_1:ABSTRACT_1:BODY_8|3
+this paper|DT NN|BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_10|2
+the contours|DT NNS|BODY_12:BODY_11:ABSTRACT_4:BODY_1:BODY_2:BODY_3|0
+a series|DT NN|BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_4|1
+each pair|DT NN|BODY_5:BODY_1:BODY_3:BODY_4:ABSTRACT_7:BODY_7|0
+this problem|DT NN|ABSTRACT_2:BODY_1:BODY_2:BODY_3:BODY_7|0
+the problem|DT NN|ABSTRACT_2:BODY_1:BODY_2:BODY_4|0
+a minimum spanning tree|DT JJ NN NN|ABSTRACT_8|0
+actual medical imaging data|JJ JJ NN NNS|ABSTRACT_3|0
+in most previous works|IN JJS JJ NNS|ABSTRACT_3|0
+non simply connected regions|JJ RB VBN NNS|ABSTRACT_9|0
+some earlier papers|DT JJR NNS|ABSTRACT_9|1
+a new technique|DT JJ NN|ABSTRACT_3|1
+piecewise-linear surface reconstruction|JJ NN NN|ABSTRACT_4|1
+multiply connected regions|RB VBN NNS|ABSTRACT_11|1
+parallel polygonal cross-sections|JJ JJ NNS|ABSTRACT_6|1
+the unmatched parts|DT JJ NNS|ABSTRACT_7|0
+various complex examples|JJ JJ NNS|ABSTRACT_2|0
+an optimal triangulation|DT JJ NN|ABSTRACT_5|0
+which|WDT|BODY_12:BODY_11:BODY_15:BODY_23:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|2
+that|DT|BODY_6:BODY_5:BODY_11:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|1
+contour association and tiling|NN NN CC NN|BODY_7|1
+hong and wolfson [15]|JJ CC NN NN|BODY_11|1
+a sufficiently good approximation|DT RB JJ NN|BODY_8|1
+two or three dimensions|CD CC CD NNS|BODY_5|1
+the newly added triangle|DT RB VBN NN|BODY_6|1
+the minimum vertex-to-vertex distance|DT JJ JJ NN|BODY_3|1
+the actual minimum distance|DT JJ JJ NN|BODY_9|1
+a possible interpolating solid|DT JJ NN JJ|BODY_12|1
+reconstruction ( b )|NN -LRB- NN -RRB-|BODY_11:BODY_17:BODY_13:BODY_4:BODY_8|0
+the whole jaw bone|DT JJ NN NN|BODY_6:BODY_2|0
+a digital decstation 5000/240|DT JJ NN CD|BODY_2:BODY_4|0
+ganapathy and dennehy [10]|NN CC NN NN|BODY_11:BODY_4|0
+a synthetic branching example|DT JJ NN NN|BODY_5:BODY_2|0
+a relatively smooth boundary|DT RB JJ NN|BODY_2|0
+the reconstructed solid boundary|DT JJ JJ NN|BODY_2|0
+a contour sequence c|DT NN NN NN|BODY_2|0
+either white or black|DT JJ CC JJ|BODY_4|0
+the resulting 3-d clefts|DT VBG JJ NNS|BODY_2|0
+a sun sparcstation ii|DT NN NN NNS|BODY_5|0
+the two polygons vertices|DT CD NNS NNS|BODY_3|0
+model synthetic jaw bone|NN JJ NN NN|BODY_2|0
+skinner and sloan [22]|NN CC NN NN|BODY_14|0
+a match figure match|DT NN NN NN|BODY_2|0
+the hole elimination step|DT NN NN NN|BODY_3|0
+the given planes coincide|DT VBN NNS NN|BODY_17|0
+the biggest cleft (|DT JJS NN -LRB-|BODY_19|0
+the first problematic example|DT JJ JJ NN|BODY_9|0
+each other , if|DT JJ , IN|BODY_3|0
+the data acquisition step|DT NNS NN NN|BODY_6:BODY_4|0
+5 to 20 cm|CD TO CD NN|BODY_8|0
+slice 1.5 4.3 vertices|NN CD CD NNS|BODY_6|0
+( b ) vote|-LRB- NN -RRB- NN|BODY_1|0
+a totally different approach|DT RB JJ NN|BODY_2|0
+figure 3( f )|NN JJ NN -RRB-|BODY_2|0
+the final surface reconstruction|DT JJ NN NN|BODY_1|0
+the white trian- gles|DT JJ NNS NNS|BODY_2|0
+contour 47.7 42.3 matches|NN CD CD NNS|BODY_8|0
+layer 2.0 3.5 clefts|NN CD CD NNS|BODY_10|0
+the israel science fund|DT JJ NN NN|BODY_7|0
+3-d polygonal cleft cycles|JJ JJ NN NNS|BODY_2|0
+reconstruction ( c )|NN -LRB- NN -RRB-|BODY_6|0
+( d ) figure|-LRB- NN -RRB- NN|BODY_6|0
+an objective function f|DT JJ NN NN|BODY_4|0
+the total running time|DT JJ JJ NN|BODY_3|0
+the surface 4.1 stitching|DT NN CD NN|BODY_2|0
+the two non-material pillars|DT CD JJ NNS|BODY_2|0
+two nested cleft cycles|CD VBN NN NNS|BODY_4|0
+the two remaining clefts|DT CD VBG NNS|BODY_5|0
+the two hole contours|DT CD NN NNS|BODY_3|0
+the following simplest one|DT VBG JJS CD|BODY_2|0
+the remaining contour edges|DT VBG NN NNS|BODY_2|0
+4 votes or more|CD NNS CC JJR|BODY_4|0
+the totally different problem|DT RB JJ NN|BODY_4|0
+layer 1.0 2.9 time|NN CD CD NN|BODY_12|0
+a valid polyhedral description|DT JJ NN NN|BODY_2|0
+only a single pair|RB DT JJ NN|BODY_4|0
+the solid reconstruction problem|DT JJ NN NN|BODY_8|0
+another pillar-like solid (|DT JJ JJ -LRB-|BODY_20|0
+whose in- figure 17|WP$ JJ NN CD|BODY_3|0
+figure 14( b )|NN JJ NN -RRB-|BODY_2|0
+sloan and painter [27]|NN CC NN NN|BODY_3|0
+the most significant one|DT RBS JJ NN|BODY_8|0
+very short match candidates|RB JJ NN NNS|BODY_3|0
+the extreme tiling edges|DT JJ NN NNS|BODY_5|0
+a polyhedral solid model|DT NN JJ NN|BODY_15|0
+the marching cubes technique|DT NN NNS NN|BODY_5|0
+the depth and breadth|DT NN CC NN|BODY_10|0
+the matching contour portions|DT VBG NN NNS|BODY_3|0
+the hi- erarchy )|DT NNS NN -RRB-|BODY_9|0
+a ) proper subcurve|DT -RRB- JJ NN|BODY_9|0
+whose mutual horizontal distance|WP$ JJ JJ NN|BODY_6|0
+the geometric hashing technique|DT JJ NN NN|BODY_5|0
+the reconstructed object boundary|DT JJ NN NN|BODY_5|0
+the translation and rotation|DT NN CC NN|BODY_11|0
+barequet and sharir [1|NN CC NN NNS|BODY_3|0
+the simple branching case|DT JJ NN NN|BODY_4|0
+a complicated branching case|DT JJ NN NN|BODY_11|0
+the corresponding figure 4|DT JJ NN CD|BODY_16|0
+the upper slice )|DT JJ NN -RRB-|BODY_4|0
+simple branching cases collection|JJ NN NNS NN|BODY_12|0
+the cleft triangulation step|DT NN NN NN|BODY_5|0
+the two nearest vertices|DT CD JJS NNS|BODY_11|0
+the dynamic programming technique|DT JJ NN NN|BODY_3|0
+the following minimum-area triangulation|DT VBG NN NN|BODY_11|0
+a multiple branching case|DT JJ NN NN|BODY_15|0
+a simple branching case|DT JJ NN NN|BODY_6|0
+all other triangle edges|DT JJ NN NNS|BODY_20|0
+a sufficiently small neighborhood|DT RB JJ NN|BODY_7|0
+( small ) portions|-LRB- JJ -RRB- NNS|BODY_9|0
+the contour nesting hierarchy|DT NN NN NN|BODY_3|0
+o(-h 3 ) time|JJ CD -RRB- NN|BODY_7|0
+a ( slight deformation|DT -LRB- JJ NN|BODY_8|0
+the more general cases|DT RBR JJ NNS|BODY_4|0
+an appropriate fine tuning|DT JJ JJ NN|BODY_2|0
+the inverted lower slice|DT JJ JJR NN|BODY_3|0
+parametric and tensor representations|JJ CC JJ NNS|BODY_4|0
+only certain restricted cases|RB JJ VBN NNS|BODY_4|0
+two successive point mis-matches|CD JJ NN NNS|BODY_2|0
+the new triangle 4uvw|DT JJ NN NNS|BODY_2|0
+jv 1 j+1 j|NN CD CD NN|BODY_7|0
+the fairly extensive literature|DT RB JJ NN|BODY_2|0
+the most expensive portion|DT RBS JJ NN|BODY_10|0
+the most significant obstacle|DT RBS JJ NN|BODY_3|0
+this hole elimination step|DT NN NN NN|BODY_2|0
+the same line-sweeping procedure|DT JJ NN NN|BODY_3|0
+the current vertex (|DT JJ NN -LRB-|BODY_5|0
+the following voting process|DT VBG NN NN|BODY_2|0
+a more precise definition|DT JJR JJ NN|BODY_3|0
+the resulting polygonal curve|DT VBG JJ NN|BODY_15|0
+at least one match|IN JJS CD NN|BODY_3|0
+one contour ( de-|CD NN -LRB- NNS|BODY_2|0
+all the technical difficulties|DT DT JJ NNS|BODY_3|0
+such a tri- angulation|PDT DT NNS NN|BODY_2|0
+' c \gamma 1|POS NN NN CD|BODY_6|0
+scientific research and development|JJ NN CC NN|BODY_15|0
+the polygon boundary )|DT NN NN -RRB-|BODY_6|0
+closed spatial polygonal curves|JJ JJ JJ NNS|BODY_9|0
+an intuitively appealing manner|DT RB VBG NN|BODY_5|0
+the same slice )|DT JJ NN -RRB-|BODY_15|0
+the hole-elimination step )|DT NN NN -RRB-|BODY_20|0
+most practical instances clefts|RBS JJ NNS NNS|BODY_8|0
+a new vertex w|DT JJ NN NN|BODY_11|0
+the entire algorithm runs|DT JJ NN VBZ|BODY_1|0
+figure 7( b )|NN JJ NN -RRB-|BODY_5|0
+schwartz and sharir [24]|NN CC NN NN|BODY_9|0
+the grey level case|DT JJ NN NN|BODY_1|0
+the matched contour portions|DT VBN NN NNS|BODY_8|0
+a discrete circular sequence|DT NN JJ NN|BODY_3|0
+all the time measurements|PDT DT NN NNS|BODY_1|0
+the objective function f|DT JJ NN NN|BODY_1|0
+wang and aggarwal [29]|VBG CC JJ NN|BODY_12|0
+the past two decades|DT JJ CD NNS|BODY_9|0
+a simple case triangulation|DT JJ NN NN|BODY_13|0
+the counterclockwise direction )|DT NN NN -RRB-|BODY_12|0
+the actual surface reconstruction|DT JJ NN NN|BODY_5|0
+the three match tiles|DT CD NN NNS|BODY_1|0
+figures 17 and 18|NNS CD CC CD|BODY_5|0
+the next several figures|DT JJ JJ NNS|BODY_1|0
+a simple line-sweep technique|DT JJ NN NN|BODY_7|0
+3.3 accepting match candidates|CD VBG NN NNS|BODY_1|0
+an isometric view )|DT JJ NN -RRB-|BODY_5:BODY_4|0
+contour sequence c 1|NN NN NN CD|BODY_3|0
+the querying vertex v|DT NN NN NN|BODY_1|0
+figure 3( c )|NN JJ NN -RRB-|BODY_1|0
+all the desired clefts|DT DT VBN NNS|BODY_13|0
+only the original points|RB DT JJ NNS|BODY_13|0
+a human jaw bone|DT JJ NN NN|BODY_7|0
+2. matching contour portions|DT VBG NN NNS|BODY_1|0
+[25 ] and others|CD NN CC NNS|BODY_7|0
+no two cycles intersect|DT CD NNS NN|BODY_5|0
+the easy further details|DT JJ JJ NNS|BODY_17|0
+the second chain 1|DT JJ NN CD|BODY_11|0
+only one con- tour|RB CD CD NN|BODY_5|0
+figure 8( b )|NN JJ NN -RRB-|BODY_8|0
+volumetric and surface approaches|JJ CC NN NNS|BODY_6|0
+the algorithm|DT NN|BODY_6:BODY_18:BODY_2:BODY_3:BODY_4:BODY_8|0
+the lower slice|DT JJR NN|BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the two contours|DT CD NNS|BODY_5:BODY_13:BODY_4:BODY_7|1
+the following steps|DT JJ NNS|BODY_2|1
+these two contours|DT CD NNS|BODY_3:BODY_8|1
+the two slices|DT CD NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+a proposed solution|DT VBN NN|BODY_8|1
+the practical problem|DT JJ NN|BODY_5|1
+' figure 1|POS NN CD|BODY_6|1
+the interpolation prob|DT NN NN|BODY_3|1
+a new approach|DT JJ NN|BODY_2|1
+our proposed algorithm|PRP$ VBN NN|BODY_1|1
+partially obscured objects|RB JJ NNS|BODY_4|1
+a proper portion|DT JJ NN|BODY_10|1
+our contour discretization|PRP$ NN NN|BODY_2|1
+the material region|DT NN NN|BODY_3|1
+the same side|DT JJ NN|BODY_4|1
+parallel polygonal slices|JJ JJ NNS|BODY_7|1
+equally good results|RB JJ NNS|BODY_12|1
+a )|DT -RRB-|BODY_12:BODY_16:BODY_15:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+the upper slice|DT JJ NN|BODY_6:BODY_5|0
+a top view|DT JJ NN|BODY_3:BODY_4|0
+the two chains|DT CD NNS|BODY_2:BODY_4:BODY_7|0
+the formal sum|DT JJ NN|BODY_6:BODY_3|0
+the appropriate shift|DT JJ NN|BODY_6:BODY_5:BODY_4|0
+similar contour portions|JJ NN NNS|BODY_5:BODY_2|0
+the resulting sum|DT VBG NN|BODY_12:BODY_5|0
+the discretization parameter|DT NN NN|BODY_2:BODY_3|0
+the total sum|DT JJ NN|BODY_24:BODY_8|0
+the other slice|DT JJ NN|BODY_6:BODY_5:BODY_7|0
+the reconstructed surface|DT JJ NN|BODY_2|0
+the contour edges|DT NN NNS|BODY_6:BODY_9|0
+two overlapping contours|CD JJ NNS|BODY_2|0
+209 3-d cavities|CD JJ NNS|BODY_2|0
+a branching problem|DT NN NN|BODY_2|0
+all the works|PDT DT NNS|BODY_2|0
+the pure raster|DT JJ NN|BODY_2|0
+the surface reconstruction|DT NN NN|BODY_1:BODY_2|0
+the total number|DT JJ NN|BODY_11:BODY_7|0
+the same contour|DT JJ NN|BODY_16:BODY_4|0
+parallel planar slices|JJ JJ NNS|BODY_5:BODY_7|0
+the worst case|DT JJS NN|BODY_3:BODY_9|0
+the arc length|DT NN NN|BODY_6:BODY_13|0
+the tiling triangles|DT NN NNS|BODY_5:BODY_15|0
+two raster images|CD JJ NNS|BODY_2|0
+hereafter called slices|RB VBN NNS|BODY_2|0
+numerically controlled )|RB VBN -RRB-|BODY_4|0
+the boundary surface|DT NN NN|BODY_4|0
+the different steps|DT JJ NNS|BODY_4|0
+each contour polygon|DT NN NN|BODY_2:BODY_3|0
+the many-to-many case|DT JJ NN|BODY_3|0
+the total area|DT JJ NN|BODY_5:BODY_7|0
+2 96 layers|CD CD NNS|BODY_3|0
+a single one|DT JJ CD|BODY_3|0
+edge detection techniques|NN NN NNS|BODY_3|0
+the interpolating triangles|DT NN NNS|BODY_2|0
+the xy distance|DT JJ NN|BODY_7|0
+the three polygons|DT CD NNS|BODY_2|0
+the voting threshold|DT NN NN|BODY_5:BODY_4|0
+a global optimization|DT JJ NN|BODY_2|0
+the voxel data|DT NN NNS|BODY_3|0
+very good results|RB JJ NNS|BODY_5|0
+the german-israeli foundation|DT JJ NN|BODY_14|0
+all these steps|DT DT NNS|BODY_2|0
+a 'band '|DT JJ ''|BODY_7|0
+the two matches|DT CD NNS|BODY_2|0
+each other (|DT JJ -LRB-|BODY_5|0
+each cleft c|DT NN NN|BODY_2|0
+a branching situation|DT NN NN|BODY_5:BODY_7|0
++ 0:1 )|JJ CD -RRB-|BODY_4|0
+the match score|DT NN NN|BODY_5|0
+the stitching triangles|DT NN NNS|BODY_9|0
+one hundred cross-sections|CD CD NNS|BODY_3|0
+any branching cases|DT NN NNS|BODY_5|0
+total 3.0 417.0|JJ CD CD|BODY_5|0
+a solution model|DT NN NN|BODY_5|0
+the range-searching queries|DT NN NNS|BODY_2|0
+the full reconstruction|DT JJ NN|BODY_2|0
+some objective function|DT JJ NN|BODY_3|0
+1 95 contours|CD CD NNS|BODY_4|0
+total 143.0 17,646.0|JJ CD CD|BODY_7|0
+the terrain (|DT NN -LRB-|BODY_3|0
+three typical examples|CD JJ NNS|BODY_2|0
+all the polygons|PDT DT NNS|BODY_2|0
+medical imaging data|JJ NN NNS|BODY_2|0
+the tiled match|DT VBN NN|BODY_1|0
+the triangulated cleft|DT VBN NN|BODY_2|0
+two long matches|CD JJ NNS|BODY_1|0
+new york university|JJ NN NN|BODY_25|0
+the previous works|DT JJ NNS|BODY_2|0
+total 2.0 330.0|JJ CD CD|BODY_9|0
+partially overlapping contours|RB JJ NNS|BODY_7|0
+elevation contour data|NN NN NNS|BODY_4|0
+his standard method|PRP$ JJ NN|BODY_3|0
+the remaining cleft|DT VBG NN|BODY_1|0
+the three matches|DT CD NNS|BODY_3|0
+whose global size|WP$ JJ NN|BODY_7|0
+whose cross sections|WP$ NN NNS|BODY_16|0
+the jaw bone|DT NN NN|BODY_3|0
+total 1.0 275.0|JJ CD CD|BODY_11|0
+a simple case|DT JJ NN|BODY_8|0
+their minimum-area triangulations|PRP$ NN NNS|BODY_4|0
+the current vertices|DT JJ NNS|BODY_5:BODY_1|0
+some pillar-like solid|DT JJ JJ|BODY_17|0
+the bottom cover|DT NN NN|BODY_19|0
+a cyclic sequence|DT JJ NN|BODY_3:BODY_4|0
+a ) orient|DT -RRB- NN|BODY_2|0
+a large number|DT JJ NN|BODY_3:BODY_4|0
+the simple one|DT JJ CD|BODY_8|0
+all contour polygons|DT NN NNS|BODY_3:BODY_4|0
+mathematical sci- ences|JJ NNS NNS|BODY_24|0
+the israeli academy|DT JJ NN|BODY_8|0
+the whole configuration|DT JJ NN|BODY_3|0
+successive parallel slices|JJ JJ NNS|BODY_5|0
+batnitzky et al|NNP VBD JJ|BODY_9|0
+the cleft triangulations|DT NN NNS|BODY_3|0
+evaluating and comparing|VBG CC VBG|BODY_3|0
+its building blocks|PRP$ NN NNS|BODY_3|0
+the appropriate portion|DT JJ NN|BODY_15|0
+kalvin et al|NNP NNP NN|BODY_8|0
+the upper contour|DT JJ NN|BODY_18|0
+triangulated boundary patches|VBN NN NNS|BODY_7|0
+whose immediate children|WP$ JJ NNS|BODY_3|0
+the scoring function|DT NN NN|BODY_2|0
+reconstruction figure 11|NN NN CD|BODY_7|0
+all these polygons|DT DT NNS|BODY_8|0
+a comprehensive bibliography|DT JJ NN|BODY_11|0
+the obtained slices|DT VBN NNS|BODY_9|0
+a solid model|DT JJ NN|BODY_6|0
+the earlier works|DT JJR NNS|BODY_2|0
+their directed edges|PRP$ VBN NNS|BODY_7|0
+reconstruction figure 12|NN NN CD|BODY_12|0
+detail certain phases|NN JJ NNS|BODY_2|0
+opposite edge occurrences|JJ NN NNS|BODY_3|0
+the same slice|DT JJ NN|BODY_8|0
+all the contours|DT DT NNS|BODY_3|0
+the other ,|DT JJ ,|BODY_10|0
+tumors and tissues|NNS CC NNS|BODY_7|0
+some thresholding mechanism|DT NN NN|BODY_3|0
+our next goal|PRP$ JJ NN|BODY_1|0
+the best least-squares|DT JJS NNS|BODY_14|0
+the geometric hash|DT JJ NN|BODY_4|0
+the last vertices|DT JJ NNS|BODY_3|0
+( and eas|-LRB- CC NNS|BODY_2|0
+some 'understanding '|DT JJ ''|BODY_8|0
+the typical performance|DT JJ NN|BODY_2|0
+the xy-projections|DT NNS|BODY_12:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4|0
+see section 5|VB NN CD|BODY_11|0
+an x-ray apparatus|DT JJ NN|BODY_8|0
+two sorted lists|CD JJ NNS|BODY_6|0
+the one-to-one case|DT JJ NN|BODY_4|0
+a polyhedral surface|DT NN NN|BODY_4|0
+the resulting votes|DT VBG NNS|BODY_2|0
+the delaunay triangulation|DT NN NN|BODY_2|0
+the sequel )|DT NN -RRB-|BODY_6|0
+non-material  ar-|JJ NNS NNS|BODY_9|0
+all odd-level contours|DT JJ NNS|BODY_11|0
+a shallow hierarchy|DT JJ NN|BODY_4|0
+the first image|DT JJ NN|BODY_4|0
+the remaining clefts|DT VBG NNS|BODY_2|0
+the whole algorithm|DT JJ NN|BODY_3|0
+the top cover|DT JJ NN|BODY_16|0
+several data files|JJ NNS NNS|BODY_3|0
+any attempted interpolation|DT JJ NN|BODY_2|0
+a consistent manner|DT JJ NN|BODY_3|0
+a good survey|DT JJ NN|BODY_1|0
+figure 11( c|NN JJ NN|BODY_1|0
+more involved cases|RBR JJ NNS|BODY_3|0
+the contour discretization|DT NN NN|BODY_3|0
+the last example|DT JJ NN|BODY_1|0
+the reconstructed jaw|DT JJ NN|BODY_1|0
+a ) stitch|DT -RRB- NN|BODY_2|0
+contours c 1|NNS NN CD|BODY_9|0
+the second author|DT JJ NN|BODY_3|0
+the euclidean distance|DT JJ NN|BODY_2|0
+a directed cycle|DT VBN NN|BODY_4|0
+a 3-dimensional model|DT JJ NN|BODY_3|0
+a straight segment|DT JJ NN|BODY_10|0
+the non-destructive digitization|DT JJ NN|BODY_3|0
+( seconds )|-LRB- NNS -RRB-|BODY_13|0
+matched contour portions|VBN NN NNS|BODY_4|0
+the best triangulation|DT JJS NN|BODY_5|0
+figure 1( c|NN JJ NN|BODY_21|0
+the lower contour|DT JJR NN|BODY_15|0
+any original edge|DT JJ NN|BODY_6|0
+the zikhron-ya'akov area|DT NNP NN|BODY_4|0
+the reconstruction problem|DT NN NN|BODY_3|0
+the following problem|DT JJ NN|BODY_2|0
+some specific examples|DT JJ NNS|BODY_4|0
+each planar slice|DT NN NN|BODY_3|0
+or almost degenerate|CC RB VB|BODY_8|0
+most earlier works|RBS JJR NNS|BODY_3|0
+a figure 8|DT NN CD|BODY_10|0
+a correction scheme|DT NN NN|BODY_2|0
+as clefts )|RB NNS -RRB-|BODY_4|0
+the matching step|DT JJ NN|BODY_8|0
+[26] and [10]|NN CC NN|BODY_5|0
+the extreme edges|DT JJ NNS|BODY_2|0
+two similar contours|CD JJ NNS|BODY_2|0
+its performance limits|PRP$ NN NNS|BODY_4|0
+a weighted average|DT JJ NN|BODY_6|0
+four short matches|CD JJ NNS|BODY_3|0
+each w i;i+2|DT NN NN|BODY_11|0
+the original contours|DT JJ NNS|BODY_4|0
+that bridge assembly|DT NN NN|BODY_2|0
+the above properties|DT JJ NNS|BODY_13|0
+a polygon triangulation|DT NN NN|BODY_5|0
+dynamic programming )|JJ NN -RRB-|BODY_6|0
+a circular sequence|DT JJ NN|BODY_11|0
+the physical size|DT JJ NN|BODY_3|0
+the tiling sequences|DT NN NNS|BODY_3|0
+contour sequence c|NN NN NN|BODY_5|0
+exactly one triangle|RB CD NN|BODY_19|0
+the matching phase|DT JJ NN|BODY_4|0
+very small triangles|RB JJ NNS|BODY_7|0
+the polygonal curve|DT JJ NN|BODY_6|0
+roughly the same|RB DT JJ|BODY_9|0
+reconstruction figure case|NN NN NN|BODY_18|0
+the constructed polyhedron|DT VBN NN|BODY_4|0
+reconstruction figure 13|NN NN CD|BODY_5|0
+reconstruction figure 15|NN NN CD|BODY_14|0
+medical imaging applications|JJ NN NNS|BODY_3|0
+the extensive experimentation|DT JJ NN|BODY_9|0
+the relative amount|DT JJ NN|BODY_8|0
+other quality measures|JJ NN NNS|BODY_6|0
+two consecutive slices|CD JJ NNS|BODY_10|0
+an isometric view|DT JJ NN|BODY_6|0
+parallel planar cross-sections|JJ NN NNS|BODY_6|0
+the lower one|DT JJR CD|BODY_6|0
+a priori estimation|DT JJ NN|BODY_2|0
+the given sequence|DT VBN NN|BODY_3|0
+see figure 5|VB NN CD|BODY_12|0
+orient each triangle|JJ DT NN|BODY_7|0
+simple polygonal curves|JJ JJ NNS|BODY_12|0
+at least comparable|IN JJS JJ|BODY_7|0
+one polygon p|CD NN NN|BODY_3|0
+the xy-plane )|DT NN -RRB-|BODY_8|0
+all even-level contours|DT JJ NNS|BODY_8|0
+our al- gorithm|PRP$ NNS NN|BODY_3|0
+the minimum distance|DT JJ NN|BODY_13|0
+more de- tail|JJR NNS NN|BODY_4|0
+two oppositely-oriented copies|CD JJ NNS|BODY_2|0
+a single cycle|DT JJ NN|BODY_11|0
+a considerable step|DT JJ NN|BODY_2|0
+intersecting xy-projections )|JJ NNS -RRB-|BODY_7|0
+such a situation|PDT DT NN|BODY_7|0
+( c )|-LRB- NN -RRB-|BODY_1|0
+the interpolated object|DT JJ NN|BODY_1|0
+its projection intersect|PRP$ NN NN|BODY_6|0
+a solid object|DT JJ NN|BODY_4|0
+the intro- duction|DT NNS NN|BODY_5|0
+the last vertex|DT JJ NN|BODY_2|0
+the interpolating object|DT VBG NN|BODY_5|0
+the contour hierarchy|DT NN NN|BODY_3|0
+the corresponding match|DT JJ NN|BODY_8|0
+two different matches|CD JJ NNS|BODY_3|0
+these cleft polygons|DT JJ NNS|BODY_2|0
+our comprehensive experiments|PRP$ JJ NNS|BODY_9|0
+the clockwise direction|DT NN NN|BODY_9|0
+a branching case|DT NN NN|BODY_3|0
+a better solution|DT JJR NN|BODY_9|0
+the first example|DT JJ NN|BODY_1|0
+a branching region|DT NN NN|BODY_3|0
+an edge-detection process|DT NN NN|BODY_5|0
+a detailed description|DT JJ NN|BODY_5|0
+sufficiently long subsequences|RB JJ NNS|BODY_3|0
+the closest pair|DT JJS NN|BODY_9|0
+a highly slanted|DT RB VBN|BODY_10|0
+each vertex v|DT JJ NN|BODY_4|0
+all the vertices|PDT DT NNS|BODY_1:BODY_7|0
+a significant step|DT JJ NN|BODY_5|0
+the range searching|DT NN NN|BODY_3|0
+figure 1( b|NN JJ NN|BODY_13|0
+the above step|DT JJ NN|BODY_6|0
+closed 3-d polygons|JJ JJ NNS|BODY_5|0
+an interpolating polyhedron|DT JJ NN|BODY_5|0
+even nesting level|RB VBG NN|BODY_2|0
+one con- tour|CD CD NN|BODY_5|0
+a formal analysis|DT JJ NN|BODY_4|0
+the extreme edge|DT JJ NN|BODY_2|0
+figure 3(e )|NN JJ -RRB-|BODY_5|0
+the consistent orientation|DT JJ NN|BODY_4|0
+\theta(k 2 )|NN CD -RRB-|BODY_4|0
+a fixed range|DT JJ NN|BODY_6|0
+' c2 )|POS NN -RRB-|BODY_16|0
+a point-to-point match|DT NN NN|BODY_1|0
+the bounding surface|DT VBG NN|BODY_1|0
+the other polygon|DT JJ NN|BODY_8|0
+the two points|DT CD NNS|BODY_8|0
+two bridge constructions|CD NN NNS|BODY_1|0
+welzl and wolfers|JJ CC NNS|BODY_15|0
+only one contour|RB CD NN|BODY_6:BODY_7|0
+its three edges|PRP$ CD NNS|BODY_15|0
+two hole contours|CD NN NNS|BODY_5|0
+these spatial polygons|DT JJ NNS|BODY_4|0
+15 and 16|CD CC CD|BODY_3|0
+similar complex examples|JJ JJ NNS|BODY_1|0
+the discretized contours|DT JJ NNS|BODY_3|0
+the remaining portions|DT VBG NNS|BODY_5|0
+the union (or|DT NN NN|BODY_1|0
+2.0 mm apart|CD CD RB|BODY_5|0
+a single contour|DT JJ NN|BODY_4|0
+the only way|DT JJ NN|BODY_1|0
+all di- mensions|DT NNS NNS|BODY_9|0
+the  parameter|DT NN NN|BODY_1|0
+the given points|DT VBN NNS|BODY_11|0
+practically all cases|RB DT NNS|BODY_6|0
+the various methods|DT JJ NNS|BODY_4|0
+their nesting hierarchy|PRP$ NN NN|BODY_1|0
+nearly identical results|RB JJ NNS|BODY_9|0
+the input slices|DT NN NNS|BODY_18|0
+the actual value|DT JJ NN|BODY_1|0
+the longer curve|DT JJR NN|BODY_16|0
+the many-to-many cases|DT JJ NNS|BODY_6|0
+some chosen parameter|DT VBN NN|BODY_4|0
+two comprehensive reviews|CD JJ NNS|BODY_1|0
+alternative advancing rules|NN VBG NNS|BODY_1|0
+the connecting triangles|DT JJ NNS|BODY_16|0
+the first review|DT JJ NN|BODY_1|0
+the full problem|DT JJ NN|BODY_6|0
+one such application|CD JJ NN|BODY_1|0
+all these treatments|PDT DT NNS|BODY_1|0
+figure 3(d )|NN JJ -RRB-|BODY_1|0
+an extreme example|DT JJ NN|BODY_1|0
+several advancing rules|JJ VBG NNS|BODY_1|0
+each cleft cycle|DT JJ NN|BODY_2|0
+figure 7 illustrates|NN CD VBZ|BODY_1|0
+these two slices|DT CD NNS|BODY_4|0
+many other solutions|JJ JJ NNS|BODY_1|0
+the match tiles|DT NN NNS|BODY_1|0
+the original ones|DT JJ NNS|BODY_8|0
+95 layer reconstructions|CD NN NNS|BODY_4|0
+any other contour|DT JJ NN|BODY_10|0
+exactly one contour|RB CD NN|BODY_3|0
+figure 14 presents|NN CD NNS|BODY_1|0
+the second example|DT JJ NN|BODY_1|0
+the underlying problem|DT JJ NN|BODY_9|0
+the later sections|DT JJ NNS|BODY_1|0
+all these parameters|PDT DT NNS|BODY_1|0
+'intuitively correct '|JJ JJ ''|BODY_21|0
+the original object|DT JJ NN|BODY_11|0
+topographic elevation contours|JJ NN NNS|BODY_5|0
+a self-intersecting surface|DT JJ NN|BODY_3|0
+the second one|DT JJ CD|BODY_5|0
+some concluding remarks|DT VBG NNS|BODY_3|0
+figure 3( b|NN JJ NN|BODY_1|0
+the single match|DT JJ NN|BODY_2|0
+3.1 contour discretization|CD NN NN|BODY_1|0
+the containment hierarchy|DT NN NN|BODY_1|0
+the new triangles|DT JJ NNS|BODY_1|0
+these consistent directions|DT JJ NNS|BODY_3|0
+see figure 3|VB NN CD|BODY_1|0
+a crucial property|DT JJ NN|BODY_1|0
+a hole polygon|DT NN NN|BODY_5|0
+any better results|DT JJR NNS|BODY_4|0
+the given cycles|DT VBN NNS|BODY_5|0
+a simplified variant|DT JJ NN|BODY_1|0
+present experimental results|JJ JJ NNS|BODY_5|0
+the various steps|DT JJ NNS|BODY_1|0
+the main motivation|DT JJ NN|BODY_1|0
+the appropriate chain|DT JJ NN|BODY_8|0
+such an analysis|PDT DT NN|BODY_1|0
+good point-to-point matches|JJ NN NNS|BODY_4|0
+a brief overview|DT JJ NN|BODY_1|0
+5 experimental results|CD JJ NNS|BODY_1|0
+a non-intersecting interpolation|DT JJ NN|BODY_5|0
+many such triangulations|JJ JJ NNS|BODY_1|0
+the first chain|DT JJ NN|BODY_9|0
+the full version|DT JJ NN|BODY_1|0
+the only case|DT JJ NN|BODY_1|0
+the other one|DT JJ CD|BODY_5|0
+the unmatched portions|DT JJ NNS|BODY_5|0
+the detected match|DT VBN NN|BODY_1|0
+a natural simplification|DT JJ NN|BODY_1|0
+the matching contours|DT VBG NNS|BODY_7|0
+a different slice|DT JJ NN|BODY_9|0
+a single slice|DT JJ NN|BODY_8|0
+about 60,000 triangles|IN CD NNS|BODY_4|0
+the given slices|DT VBN NNS|BODY_11|0
+two other cycles|CD JJ NNS|BODY_4|0
+very sharp turns|RB JJ NNS|BODY_4|0
+the xy- plane|DT CD NN|BODY_1|0
+the input voxels|DT NN NNS|BODY_11|0
+two parallel planes|CD JJ NNS|BODY_8|0
+our matching procedure|PRP$ NN NN|BODY_1|0
+partial contour matches|JJ NN NNS|BODY_5|0
+a linear sequence|DT JJ NN|BODY_9|0
+complicated large-size data|JJ JJ NNS|BODY_13|0
+the desired orientations|DT VBN NNS|BODY_6|0
+the contour polygons|DT NN NNS|BODY_1|0
+the simple case|DT JJ NN|BODY_1|0
+the given polygon|DT VBN NN|BODY_1|0
+the boundary|DT NN|BODY_11:BODY_3:BODY_7|1
+a collection|DT NN|BODY_6:BODY_3:BODY_4:BODY_10:BODY_8|0
+them|PRP|BODY_5:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+one|CD|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8|0
+each other|DT JJ|BODY_6:BODY_5:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8|0
+they|PRP|BODY_5:BODY_1:BODY_4:BODY_7|0
+the reconstruction|DT NN|BODY_1:BODY_2:BODY_10:BODY_20|0
+the contour|DT NN|BODY_11:BODY_18:BODY_3:BODY_7:BODY_8|0
+the matches|DT NNS|BODY_2:BODY_3:BODY_10|0
+the performance|DT NN|BODY_5:BODY_2:BODY_4|0
+contour portions|JJ NNS|BODY_1:BODY_3:BODY_4|0
+a contour|DT NN|BODY_12:BODY_5:BODY_4:BODY_10:BODY_7|0
+)|-RRB-|BODY_6:BODY_22:BODY_13:BODY_14:BODY_7:BODY_8|0
+the tiling|DT NN|BODY_5:BODY_1:BODY_2:BODY_9|0

@@ -1,0 +1,1196 @@
+we|PRP|BODY_12:BODY_11:ABSTRACT_11:BODY_16:BODY_17:BODY_21:BODY_13:BODY_2:BODY_3:BODY_14:BODY_24:BODY_4:BODY_6:BODY_31:BODY_5:BODY_27:BODY_1:ABSTRACT_1:BODY_10:BODY_19:BODY_7:BODY_8:BODY_9|1
+which|WDT|BODY_12:BODY_11:BODY_13:ABSTRACT_3:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8|1
+h|NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_6:BODY_12:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|1
+d-space|NN|BODY_6:BODY_12:BODY_11:BODY_5:BODY_18:BODY_15:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_11:BODY_5:BODY_17:BODY_15:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7:BODY_20|1
+)|-RRB-|BODY_12:BODY_6:BODY_5:BODY_11:BODY_13:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the algorithm|DT NN|BODY_11:BODY_18:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_8:BODY_9|1
+constraints|NNS|BODY_6:BODY_12:BODY_5:BODY_16:BODY_21:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+there|EX|BODY_6:BODY_15:BODY_1:BODY_2:BODY_14:BODY_10:BODY_8|0
+n|NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_9|0
+a basis|DT NN|BODY_6:BODY_5:BODY_11:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|0
+c|NN|BODY_11:BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+linear programming|JJ NN|BODY_6:BODY_5:TITLE_2:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+b|NN|BODY_11:BODY_16:BODY_18:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_20|0
+the number|DT NN|BODY_6:BODY_5:BODY_18:BODY_15:BODY_1:BODY_4:BODY_8:ABSTRACT_12:BODY_9|0
+p|NN|BODY_5:BODY_18:BODY_15:BODY_2:BODY_3:BODY_4:BODY_7|0
+that|IN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7|0
+k|NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+' h|'' NN|BODY_6:BODY_5:BODY_17:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+our algorithm|PRP$ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8:BODY_9|0
+q|NN|BODY_12:BODY_16:BODY_17:BODY_2:BODY_3:BODY_8|0
+the problem|DT NN|BODY_6:BODY_26:BODY_1:BODY_2:BODY_3|0
+n )|NN -RRB-|BODY_5:BODY_1:BODY_3:BODY_14:BODY_10:BODY_7:BODY_20|0
+an lp-type problem|DT NN NN|BODY_6:BODY_11:BODY_27:BODY_2:BODY_4:BODY_7|0
+the intersection|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_4|0
+the value|DT NN|BODY_6:BODY_11:BODY_5:BODY_18:BODY_3:BODY_4:BODY_7:BODY_8|0
+clarkson|NN|BODY_1:BODY_2:BODY_7:BODY_8|0
+the hidden dimension|DT JJ NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_10:BODY_9|0
+they|PRP|BODY_1:BODY_3:BODY_10:BODY_7:BODY_8|0
+n constraints|NN NNS|BODY_6:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+1|CD|BODY_6:BODY_5:BODY_16:BODY_22:BODY_8|0
+( h|-LRB- NN|BODY_6:BODY_5:BODY_11:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+c )|NN -RRB-|BODY_12:BODY_6:BODY_11:BODY_3:BODY_4:BODY_7:BODY_8|0
+g|NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7:BODY_9|0
+a set|DT NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7:BODY_20|0
+section 3|NN CD|BODY_2:BODY_3:BODY_9|0
+0|CD|BODY_5:BODY_16:BODY_13:BODY_3:BODY_10|0
+d|NN|BODY_17:BODY_2:BODY_14:BODY_10:BODY_7:BODY_8|0
+us|PRP|BODY_12:BODY_1:BODY_3:BODY_4|0
+linear programs|JJ NNS|BODY_5:ABSTRACT_4:BODY_4|0
+the sum|DT NN|BODY_5:BODY_17:BODY_2:BODY_4:BODY_9|0
+w|WRB|BODY_6:BODY_5:BODY_11:BODY_14:BODY_10|1
+one|CD|BODY_13:BODY_1:BODY_2|0
+e|NN|BODY_16:BODY_2:BODY_19:BODY_10|0
+(|-LRB-|BODY_5:BODY_13:BODY_1:BODY_4|0
+lp-type problems|JJ NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+points|NNS|BODY_5:BODY_10:BODY_8|0
+them|PRP|BODY_12:BODY_6:BODY_18:BODY_2:BODY_9|0
+.e|NN|BODY_5:BODY_3:BODY_4|0
+the recurrence|DT NN|BODY_12:BODY_2:BODY_3:BODY_4:BODY_8|0
+3|CD|BODY_22:BODY_17:BODY_18:BODY_21:BODY_23:BODY_1:BODY_24:BODY_4:BODY_9|0
+practice|NN|BODY_6:BODY_2:BODY_3|0
+an expected number|DT JJ NN|BODY_6:BODY_11:BODY_8|0
+the combinatorial dimension|DT JJ NN|BODY_6:BODY_3:BODY_8:BODY_20|0
+n points|NN NNS|BODY_5:BODY_2:BODY_4|0
+this problem|DT NN|BODY_5:BODY_2:BODY_4|0
+the polytopes|DT NNS|BODY_6:BODY_5:BODY_1:BODY_3|0
+the expected number|DT VBN NN|BODY_11:BODY_4:BODY_8|0
+the ball|DT NN|BODY_14:BODY_3|0
+any basis b|DT NN NN|BODY_15:BODY_1:BODY_4:BODY_8|0
+the constraints|DT NNS|BODY_1:BODY_2:BODY_4|0
+the case|DT NN|BODY_5:BODY_2|0
+o(|NN|BODY_6:BODY_11:BODY_4|0
+the bound|DT JJ|BODY_3:BODY_10:BODY_4:BODY_9|0
+a basis b|DT NN NN|BODY_5:BODY_2:BODY_1|0
+note|NN|BODY_26:BODY_1|0
+the computation|DT NN|BODY_13:BODY_2:BODY_4:BODY_8|0
+the points|DT NNS|BODY_6:BODY_2|0
+a constraint h|DT NN JJ|BODY_17:BODY_2:BODY_4|0
+a point|DT NN|BODY_15:BODY_9|0
+the distance|DT NN|BODY_16:BODY_2:BODY_3|0
+the simplex algorithm|DT JJ NN|BODY_2:BODY_3|0
+the probability|DT NN|BODY_6:BODY_2|0
+( 3.3 )|-LRB- CD -RRB-|BODY_6:BODY_11:BODY_10|0
+bounds|NNS|BODY_12:BODY_3|0
+f(k|NN|BODY_13:BODY_4:BODY_9|0
+combinatorial dimension|JJ NN|BODY_5:BODY_7|0
+its analysis|PRP$ NN|ABSTRACT_5:BODY_3|0
+the solution|DT NN|BODY_5:BODY_2:BODY_1:BODY_10|0
+a constraint|DT NN|BODY_6:BODY_5:BODY_4|0
+the framework|DT NN|BODY_2:BODY_4:BODY_9|0
+a|DT|BODY_24:BODY_7|0
+the terms|DT NNS|BODY_1:BODY_14:BODY_9|0
+the complexity|DT NN|BODY_6:BODY_1:BODY_4|0
+)+ o(|JJ NN|BODY_8:BODY_9|0
+kalai|NN|BODY_5:BODY_4|0
+the availability|DT NN|BODY_2:BODY_10|0
+the proof|DT NN|BODY_1:BODY_2|0
+any f|DT NN|BODY_2:BODY_7|0
+the procedure|DT NN|BODY_5:BODY_20|0
+( 4.5 )|-LRB- CD -RRB-|BODY_3:BODY_4|0
+the role|DT NN|BODY_12:BODY_5|0
+the basis computation|DT NN NN|BODY_6:BODY_4|0
+p 2|NN CD|BODY_2:BODY_20|0
+2|CD|BODY_1:BODY_14:BODY_19:BODY_20|0
+lemma 5|NN CD|BODY_6:BODY_2|0
+violation tests|NN NNS|BODY_6:BODY_5:BODY_4|0
+lemma 6|NN CD|BODY_15:BODY_2|0
+w )|NN -RRB-|BODY_11:BODY_4:BODY_10:BODY_7:BODY_8|0
+u|NN|BODY_3:BODY_7|0
+his algorithm|PRP$ NN|BODY_6:BODY_2|0
+the abstract framework|DT JJ NN|BODY_1:BODY_3:BODY_4|1
+seidel|NN|BODY_4:BODY_20|0
+m|NN|BODY_2:BODY_9|0
+two primitive operations|CD JJ NNS|BODY_21:BODY_13|1
+both|DT|BODY_5:BODY_14|0
+variables|NNS|BODY_7:BODY_8|0
+basis computations|NN NNS|BODY_6:BODY_5:BODY_13:BODY_7|0
+vertices|NNS|BODY_11:BODY_18|0
+a closed ball|DT JJ NN|BODY_4:BODY_7|0
+v|NN|BODY_33:BODY_3:BODY_7|0
+the locus|DT NN|BODY_13:BODY_2|0
+a basis-regular lp-type problem|DT JJ JJ NN|BODY_6:BODY_4|0
+'s algorithm|POS NN|BODY_3|0
+examples|NNS|BODY_3|0
+0 slowly enough|CD RB JJ|BODY_2|0
+instance|NN|BODY_3|0
+( i|-LRB- FW|BODY_6:BODY_11|0
+a recent algorithm|DT JJ NN|BODY_2|0
+lemma 1 ( i|NN CD -LRB- FW|BODY_2|0
+worse expected complexity|JJR VBN NN|BODY_3|0
+smallest radius|JJS NN|BODY_15:BODY_3|0
+a list|DT NN|BODY_2:BODY_4|0
+only|RB|BODY_1:BODY_2|0
+nina amenta|DT NN|BODY_5:BODY_1|0
+subex lp|NN NN|BODY_12:BODY_7:BODY_8|0
+all|DT|BODY_6:BODY_17|0
+every basis|DT NN|BODY_6:BODY_9|0
+a simple randomized algorithm|DT JJ JJ NN|BODY_12:ABSTRACT_2:BODY_3|0
+radius r|NN NN|BODY_5:BODY_3|0
+the ellipsoid|DT NN|BODY_4:BODY_7|0
+e.g.|FW|BODY_3:BODY_7|0
+2 g|CD NN|BODY_6:BODY_3|0
+i .e|FW FW|BODY_6:BODY_5|0
+[ wel]|JJ NN|BODY_22:BODY_9|0
+problems|NNS|BODY_7:BODY_8|0
+y|NN|BODY_14:BODY_10|0
+this bound|DT VBN|BODY_2:BODY_9|0
+b'|JJ|BODY_16:BODY_3|0
+an initial basis b|DT JJ NN NN|BODY_2:BODY_7|0
+a linear program|DT JJ NN|BODY_2:BODY_7|0
+o( d|JJ NN|BODY_6:BODY_9|0
+a basis computation|DT NN NN|BODY_6:BODY_1:BODY_4|0
+hyperplanes|NNS|BODY_7:BODY_9|0
+the dimension|DT NN|BODY_10:BODY_7|0
+i|NNS|BODY_28:BODY_8|0
+a polygon|DT NN|BODY_2:BODY_7|0
+h [ h+|NN NN RP|BODY_3:BODY_10:BODY_9|0
+section 4|NN CD|BODY_6:BODY_1|0
+n halfspaces|NN NNS|BODY_6:BODY_5|0
+the smallest ball|DT JJS NN|BODY_5:BODY_2|0
+the initial conditions|DT JJ NNS|BODY_15:BODY_1|0
+the polygon|DT NN|BODY_10:BODY_8|0
+the smallest radius|DT JJS NN|BODY_6:BODY_2|0
+' variants|POS NNS|BODY_5|0
+[ rot]|JJ NN|BODY_2|0
+respect|NN|BODY_12:BODY_9|0
+terms|NNS|BODY_13:BODY_20|1
+[ meg3]|JJ NN|BODY_3|0
+dual 'one-permutation|JJ NN|BODY_4|0
+ip|NN|BODY_4:BODY_9|0
+the first call|DT JJ NN|BODY_5:BODY_7|0
+the second call|DT JJ NN|BODY_6:BODY_7|0
+the reader|DT NN|BODY_6:BODY_5|0
+work|VB|BODY_6:BODY_3|0
+an abstract framework|DT JJ NN|ABSTRACT_2:BODY_2|0
+o(d !n )|JJ NN -RRB-|BODY_4|0
+seidel [sei]|NN NN|BODY_2|0
+the function|DT NN|BODY_12:BODY_6|0
+this ordering|DT NN|BODY_1:BODY_7|0
+k )|VB -RRB-|BODY_16:BODY_4|0
+khachiyan [kha] and karmarkar [kar]|JJ NN CC NN NN|BODY_6|0
+the smallest enclosing ball|DT JJS NN NN|BODY_3|0
+f|NN|BODY_6:BODY_3|0
+either n or d|DT NN CC NN|BODY_3|0
+the product|DT NN|BODY_15:BODY_10|0
+h \gamma fhg|NN NN NN|BODY_5:BODY_3:BODY_4|0
+such|JJ|BODY_5|0
+these problems|DT NNS|BODY_1:BODY_4|0
+polytope|NN|BODY_2:BODY_9|0
+incident vertices|NN NNS|BODY_6:BODY_4|0
+3 )|CD -RRB-|BODY_7|0
+the best known combinatorial bounds|DT JJS VBN NN NNS|BODY_2|0
+the authors|DT NNS|BODY_1:ABSTRACT_3|0
+'basis( b|VBN NN|BODY_2:BODY_4|0
+real numbers|JJ NNS|BODY_5|0
+what|WP|BODY_1:BODY_3|0
+wel|NN|BODY_5|0
+previous o( n|JJ NN NN|BODY_6|0
+each arithmetic operation|DT JJ NN|BODY_4|0
+the following recurrence relationships|DT VBG NN NNS|BODY_3|0
+point|NN|BODY_2|0
+dye2|NNS|BODY_6|0
+the input|DT NN|BODY_11:BODY_1|0
+yields|NNS|BODY_2|0
+several more recent techniques|JJ JJR JJ NNS|BODY_7|0
+values|NNS|BODY_6:BODY_11|0
+integers|NNS|BODY_8|0
+the easy inductive proof|DT JJ JJ NN|BODY_6|0
+the error|DT NN|BODY_4|0
+polygon|NN|BODY_3|0
+a deterministic algorithm solving lp- type problems|DT JJ NN VBG NNS NN NNS|BODY_2|0
+the pair ( h|DT NN -LRB- NN|BODY_5:BODY_3|0
+a function|DT NN|BODY_5:BODY_10|1
+several comments|JJ NNS|BODY_11|0
+a number|DT NN|BODY_2:BODY_1|0
+considerable attention|JJ NN|BODY_6|0
+this model|DT NN|BODY_2|0
+the set h|DT NN NN|BODY_3:BODY_4|1
+the given constraints|DT VBN NNS|BODY_6|0
+this term|DT NN|BODY_5|0
+namely the real ram|RB DT JJ NN|BODY_5|0
+our new algorithm|PRP$ JJ NN|BODY_7|0
+other integer parameters|JJ NN NNS|BODY_9|0
+the ' 1+2 k n'-bound|DT '' CD NN NN|BODY_7|0
+the same sign|DT JJ NN|BODY_5|0
+its solution|PRP$ NN|BODY_2|0
+two adjacent edges|CD JJ NNS|BODY_10|0
+our analysis|PRP$ NN|BODY_2:BODY_4|0
+expected e o(|VBN NN NN|BODY_3:BODY_4|0
+an extra dimension|DT JJ NN|BODY_4|0
+this algorithm|DT NN|BODY_2|0
+a maximum element +1|DT JJ NN NNS|BODY_14|0
+the unit cost model|DT NN NN NN|BODY_8:ABSTRACT_10|0
+the bounds|DT NNS|BODY_2|0
+c d|NN VBD|BODY_6|0
+the first deterministic algorithm|DT JJ JJ NN|BODY_2|0
+their sum|PRP$ NN|BODY_29|0
+a more explicit use|DT RBR JJ NN|BODY_10|0
+' g|POS NN|BODY_4:BODY_9|0
+the geometry|DT NN|BODY_11|0
+time lp algorithms|NN NN NNS|BODY_5|0
+h )'|NN NNS|BODY_5:BODY_3|0
+arithmetic operations|JJ NNS|BODY_6:ABSTRACT_13|0
+a considerably improved worst-case upper|DT RB VBN JJ JJ|BODY_4|0
+b k|NN NN|BODY_6|0
+the analysis|DT NN|BODY_1:BODY_7|0
+the transformation|DT NN|BODY_9|0
+the only significant difference|DT RB JJ NN|BODY_3|0
+its relatives|PRP$ NNS|BODY_4|0
+time o(ffi|NN NN|BODY_3|0
+the exponent|DT NN|BODY_2|0
+the plane|DT NN|BODY_6|0
+1857 [syl]|CD NN|BODY_2|0
+[ame2]|NN|BODY_2|0
+j. sylvester|NNP NN|BODY_1|0
+many natural lp-type problems|JJ JJ NN NNS|BODY_2|0
+recent related lower bounds|JJ VBN JJR NNS|BODY_2|0
+related work|VBN NN|BODY_1|0
+see [ mat1|VB NN NNS|BODY_1|0
+the following lemma|DT VBG NN|BODY_2|0
+the straightforward proof|DT JJ NN|BODY_1|0
+these extra requirements|DT JJ NNS|BODY_1|0
+a very recent paper|DT JJ JJ NN|BODY_5|0
+an easy 'point|DT JJ NN|BODY_2|0
+\gamma1|NN|BODY_13:BODY_14|0
+ball'-test|NN|BODY_3|0
+b [ fhg|NN NN NN|BODY_7|0
+all but k|DT CC NN|BODY_5|0
+polytopes|NNS|BODY_17:BODY_2|0
+a short guide|DT JJ NN|BODY_5|0
+the minimal angle|DT JJ NN|BODY_9|0
+axiom 3|NN CD|BODY_2:BODY_4|0
+the move-to-front|DT NN|BODY_6|0
+the internal randomizations|DT JJ NNS|ABSTRACT_2:BODY_10|0
+satisfy axioms|VB NNS|BODY_2|0
+a nonzero term|DT JJ NN|BODY_2|0
+nimrod megiddo and g-unter rote|JJ NN CC NN NN|BODY_10|0
+t elements|JJ NNS|BODY_28|0
+[kal|JJ|BODY_3|0
+the underlying ordered value set w|DT VBG VBN NN VBN JJ|BODY_13|0
+the smallest volume annulus-problem|DT JJS NN NN|BODY_10|0
+a subexponential ( randomized ) bound|DT JJ -LRB- JJ -RRB- VBN|BODY_4|0
+the parentheses|DT NNS|BODY_11|0
+the cost|DT NN|BODY_3|0
+a symbol|DT NN|BODY_17|0
+a common point|DT JJ NN|BODY_14:BODY_7|0
+a violation test|DT NN NN|BODY_12:BODY_3|0
+a move-to-front|DT NN|BODY_3|0
+computation|NN|BODY_4|0
+the (unique ) 0-tuple|DT NN -RRB- NN|BODY_4|0
+whose running time|WP$ VBG NN|BODY_3|0
+'s formula|POS NN|BODY_6:BODY_8|0
+d space|JJ NN|BODY_5|0
+the polynomial-time solutions|DT JJ NNS|BODY_5|0
+this distance|DT NN|BODY_2|0
+[dll|NN|BODY_8|0
+the following axioms|DT VBG NNS|BODY_5|0
+exactly dim( h|RB JJ NN|BODY_4:BODY_8|0
+v h|NN NN|BODY_2|0
+w ) \gamma jbj elements|NN -RRB- NN NN NNS|BODY_3|0
+bers|NNS|BODY_3|0
+e 2 d ln( n=|NN CD NN NN NN|BODY_9|0
+mat1 ]|JJ SYM|BODY_2|0
+an intersection|DT NN|BODY_8|0
+'h|WDT|BODY_2|0
+the smallest enclosing ellipsoid (|DT JJS VBG NN -LRB-|BODY_7|0
+monotonicity|NN|BODY_5:BODY_13|0
+[ pos|NNP NNS|BODY_4|0
+the basic problems|DT JJ NNS|BODY_3|0
+expected d ln( n=|VBN VBD NN NN|BODY_8|0
+she|PRP|BODY_11|0
+the taylor expansion|DT NN NN|BODY_22|0
+account|NN|BODY_24|0
+a brief survey|DT JJ NN|BODY_4|0
+the techniques|DT NNS|BODY_3|0
+an expected o( n bd=2c )|DT VBN NN NN NN -RRB-|BODY_2|0
+at least one|IN JJS CD|BODY_2|0
+a subexponential bound|DT JJ JJ|TITLE_1:BODY_7|0
+a star-shaped polygon|DT JJ NN|BODY_4|0
+stirling|NN|BODY_5:BODY_7|0
+the estimate|DT NN|BODY_4:BODY_9|0
+fh|NN|BODY_1:BODY_4|0
+simple proofs|JJ NNS|BODY_4|0
+primitive operations|JJ NNS|BODY_5:BODY_9|0
+a d-element basis b|DT NN NN NN|BODY_9|0
+k=4 k|CD NN|BODY_3:BODY_20|0
+combinatorial dimension d(|JJ NN NN|BODY_7|0
+the next section|DT JJ NN|BODY_5:BODY_1:BODY_3|0
+the result|DT NN|BODY_6:BODY_1|0
+other applications|JJ NNS|BODY_8|0
+any other pole|DT JJ NN|BODY_9|0
+locality|NN|BODY_1:BODY_4|0
+a pivot step|DT JJ NN|BODY_2|0
+course|NN|BODY_1:BODY_7|0
+[d'oi , bel|NNP , FW|BODY_10|0
+most d + 1 )|JJS JJ NN CD -RRB-|BODY_6|0
+magnitude|NN|BODY_10|0
+ones|NNS|BODY_6|0
+gil kalai|NN NNS|BODY_2|0
+all q-tuples ( m|DT NNS -LRB- NN|BODY_8|0
+the middle term|DT JJ NN|BODY_5|0
+this replacement|DT NN|BODY_4|0
+5|CD|BODY_13:BODY_1|0
+general methods|JJ NNS|BODY_2|0
+1 and 2|CD CC CD|BODY_3|0
+his paper|PRP$ NN|BODY_4|0
+the expectation|DT NN|ABSTRACT_1:BODY_7|0
+combinatorial optimization|JJ NN|BODY_4|0
+'|POS|BODY_22|1
+khachiyan and|JJ CC|BODY_2|0
+c \delta x|NN NN NN|BODY_7|0
+w( u)|NN NN|BODY_9|0
+an operation|DT NN|BODY_3|0
+corollary 11|NN CD|BODY_2:BODY_1|0
+2 k ( n \gamma|CD NN -LRB- NN NN|BODY_11:BODY_8|0
+( smallest intersecting ball|-LRB- JJS JJ NN|BODY_10|0
+a nontrivial and interesting task|DT JJ CC JJ NN|BODY_4|0
+this reference|DT NN|BODY_4|0
+at least combining this|IN JJS VBG DT|BODY_9|0
+largest radius|JJS NN|BODY_15|0
+k ( n|NN -LRB- NN|BODY_12:BODY_7|0
+this computational task|DT JJ NN|BODY_4|0
+whose solution|WP$ NN|BODY_3|0
+axioms|NNS|BODY_1:BODY_7|0
+v c|NN NN|BODY_6|0
+arbitrary real num|JJ JJ NN|BODY_2|0
+the resulting vector|DT VBG NN|BODY_3:BODY_4|0
+another variant ,|DT JJ ,|BODY_2|0
+other recent techniques|JJ JJ NNS|BODY_3|0
+recent papers|JJ NNS|BODY_3|0
+[ f+1|RB CD|BODY_2|0
+\gamma1g ( +1 and \gamma1|NN -LRB- CD CC CD|BODY_3|0
+the origin|DT NN|BODY_8|0
+shw]|NN|ABSTRACT_4|0
+1 plays|CD VBZ|BODY_11|0
+its running time|PRP$ VBG NN|BODY_4|0
+[ mat2]|JJ NN|BODY_2|0
+induction show|NN NN|BODY_5|0
+elements|NNS|BODY_2:BODY_3|0
+the parameter k|DT NN NN|BODY_6|0
+itself|PRP|BODY_5|0
+h )|JJ -RRB-|BODY_18|0
+the major open problems|DT JJ JJ NNS|BODY_2|0
+the alternating sum|DT NN NN|BODY_10|0
+) n|-RRB- NN|BODY_8|0
+a draft copy|DT NN NN|BODY_3|0
+c n|NN NN|BODY_14|0
+the order|DT NN|BODY_9|0
+the vector|DT NN|BODY_5|0
+a unique representation|DT JJ NN|BODY_34|0
+z k|NN NN|BODY_21|0
+w( w )|NN WRB -RRB-|BODY_10|0
+two polytopes|CD NNS|BODY_4|0
+analysis|NN|BODY_4|0
+the proposed algorithms|DT VBN NNS|BODY_2|0
+an appropriate representation|DT JJ NN|BODY_3|0
+functions|NNS|BODY_5|0
+some term|DT NN|BODY_3|0
+truncating q and m|NN NN CC NN|BODY_7|0
+c \delta x ( combinatorial dimension 2 d|NN NN NN -LRB- JJ NN CD NN|BODY_9|0
+cardinality|NN|BODY_5|0
+algorithm|NN|BODY_3|0
+induction|NN|BODY_3|0
+the second sum|DT JJ NN|BODY_9|0
+an additional axiom|DT JJ NN|BODY_4|0
+( ii )|-LRB- NNS -RRB-|BODY_3|0
+[kal]|NN|BODY_3|0
+the axioms coincide|DT NNS NN|BODY_1|0
+this complexity|DT NN|BODY_1|0
+ln( n+1|JJ NNS|ABSTRACT_8|0
+the initial r-tuple|DT JJ NN|BODY_6|0
+required basis computations|JJ NN NNS|BODY_12|0
+the numbers|DT NNS|ABSTRACT_14|0
+abstract examples|JJ NNS|BODY_3|0
+n vertices|NN NNS|BODY_5|0
+the volume|DT NN|BODY_6|0
+the asymptotics|DT NNS|BODY_12|0
+the polytope ( combinatorial dimension d(|DT NN -LRB- JJ NN NNS|BODY_9|0
+( n )|-LRB- NN -RRB-|BODY_23|0
++1|CD|BODY_3|0
+arbitrary dim( h|JJ JJ NN|BODY_2|0
+the halfspaces|DT NNS|BODY_3:BODY_7|0
+[ame1]|NNP|BODY_2|0
+kalai [kal|FW ,|BODY_6|0
+all such points|DT JJ NNS|BODY_14|0
+the elements|DT NNS|BODY_17:BODY_1|0
+'backwards|NNS|BODY_8|0
+a k-flat|DT JJ|BODY_7|0
+certain linear programs|JJ JJ NNS|BODY_11|0
+g.|NN|BODY_12:BODY_5:BODY_4|0
+a deterministic algorithm|DT JJ NN|BODY_10|0
+minus infinity|CC NN|BODY_16|0
+all angles|DT NNS|BODY_5|0
+every edge e|DT NN NN|BODY_2|0
+larger constants|JJR NNS|BODY_6|0
+b [fhg|NN NN|BODY_8|0
+( 3.2 )|-LRB- CD -RRB-|BODY_6|0
+our bound|PRP$ JJ|BODY_3|0
+h.|NN|BODY_12:BODY_9|0
+bernd g-artner|NN NN|BODY_9|0
+a simple inductive argument|DT JJ JJ NN|BODY_19|0
+better bounds|JJR NNS|BODY_3|0
+special symbols|JJ NNS|BODY_4|0
+denotes|NNS|BODY_21|0
+0,|CD|BODY_2|0
+a (|DT -LRB-|BODY_3|0
+fl|NN|BODY_2|0
+follows|VBZ|BODY_2|0
+the following|DT VBG|BODY_2|0
+the lower bound proof|DT JJR JJ NN|BODY_2|0
+the notation|DT NN|BODY_4|0
+v b|RB NN|BODY_22|0
+/* h|JJ JJ|BODY_5:BODY_7|0
+the best solution|DT JJS NN|BODY_4|0
+the first sum|DT JJ NN|BODY_7|0
+n ) \gamma f(k|NN -RRB- NN NN|BODY_2|0
+[sei]|NNP|BODY_6|0
+one element|CD NN|BODY_10|0
+meg2 ]|NN NN|BODY_9|0
+hidden dimension|JJ NN|BODY_10:BODY_4|0
+the following extension|DT VBG NN|BODY_3|0
+dyer [dye2]|JJ NN|BODY_2|0
+its application|PRP$ NN|ABSTRACT_4|0
+l-owner-john ellipsoid )|NN NN -RRB-|BODY_2|0
+at most d extreme constraints|IN JJS VBN JJ NNS|BODY_7:BODY_9|0
+a randomized algorithm|DT JJ NN|BODY_5:BODY_7|0
+basis( b|NN NN|BODY_17|0
+[cla3]|NNP|BODY_5|0
+megiddo [ meg1|NN NN NNS|BODY_3|0
+hand|NN|BODY_2|0
+given n|VBN NN|BODY_11|0
+( i ) and ( ii|-LRB- NN -RRB- CC -LRB- NNS|BODY_2|0
+( v|-LRB- FW|BODY_2|0
+the stronger property|DT JJR NN|BODY_8|0
+( 4.6 ) and observing|-LRB- CD -RRB- CC NN|BODY_10|0
+two points|CD NNS|BODY_10|0
+boris|NNP|BODY_6|0
+the level|DT NN|BODY_5|0
+'s linear programming algorithm|POS JJ NN NN|BODY_21|0
+few constraints|JJ NNS|BODY_5|0
+a recurrence relationship|DT NN NN|BODY_2|0
+all q-tuples|DT NNS|BODY_10|0
+helly|NN|BODY_6:BODY_1|0
+a version|DT NN|BODY_5|0
+the primitive operations|DT JJ NNS|BODY_1:BODY_7|0
+o(nd d ln( n=|JJ JJ NN NN|BODY_7|0
+those|DT|BODY_6|0
+a minimal subset b|DT JJ NN NN|BODY_5:BODY_3|0
+constraint h|NN NN|BODY_6:BODY_5|0
+the effect|DT NN|BODY_6|0
+the summation|DT NN|BODY_2|0
+the technique|DT NN|BODY_4|0
+much worse|JJ JJR|BODY_10|0
+a test|DT NN|BODY_15|0
+a strongly polynomial algorithm (|DT RB JJ NN -LRB-|BODY_4|0
+( m k|-LRB- NN NN|BODY_8|0
+deterministic o( c|JJ NN NN|BODY_4|0
+( largest ball|-LRB- JJS NN|BODY_8|0
+' w|'' WRB|BODY_8|0
+expected o(nde(|VBN NN|ABSTRACT_7|0
+karmarkar|NN|BODY_3|0
+the coefficients|DT NNS|BODY_10|0
+the first|DT JJ|BODY_14|0
+)1/4 ) time|CD -RRB- NN|ABSTRACT_9|0
+number|NN|BODY_4|0
+the algorithms|DT NNS|BODY_6:BODY_1|0
+straight edges|JJ NNS|BODY_8|0
+systems|NNS|BODY_3|0
+a term|DT NN|BODY_3|0
+a q-tuple|DT NN|BODY_11|0
+z k+1|NN FW|BODY_4|0
+the tuple ( 1|DT NN -LRB- CD|BODY_12|0
+the original algorithm|DT JJ NN|BODY_12|0
+this fact|DT NN|BODY_14|0
+a vector c|DT NN NN|BODY_2|0
+given n points|VBN NN NNS|BODY_2|0
+the size|DT NN|BODY_9|0
+the convex hull|DT NN NN|BODY_22|0
+a different model|DT JJ NN|BODY_3|0
+objects|NNS|BODY_2|0
+a 2 p 1|DT CD NN CD|BODY_11|0
+largest volume|JJS NN|BODY_8|0
+a the distance|DT DT NN|BODY_23|0
+the sense|DT NN|BODY_5|0
+efficient implementation|JJ NN|BODY_6|0
+j +1\gamma( m\gamma1)bm|RB JJ NN|BODY_11|0
+a basis c|DT NN NN|BODY_6:BODY_3|0
+'s theorem|POS NN|BODY_2:BODY_7|0
+heuristic|JJ|BODY_4|0
+the bit-complexity model|DT NN NN|BODY_4|0
+every r-tuple ( m|DT NN -LRB- NN|BODY_10|0
+a real parameter|DT JJ NN|BODY_12|0
+n (|NN -LRB-|BODY_5|0
+no|DT|BODY_7|0
+the correctness and time analysis|DT NN CC NN NN|BODY_5|0
+this condition|DT NN|BODY_2|0
+the generalization|DT NN|BODY_7|0
+the integral|DT NN|BODY_5|0
+h \gammafhg|NN NN|BODY_10|0
+[ shw]|JJ NN|BODY_2|0
+a polynomial combinatorial algorithm|DT JJ JJ NN|BODY_4|0
+bernard chazelle|NN NN|BODY_7|0
+[dyf]|NN|BODY_4|0
+this paper|DT NN|BODY_1:BODY_7|0
+a better choice|DT JJR NN|BODY_16|0
+some d \gamma k|DT JJ NN NN|BODY_8|0
+combinatorial dimension ffi|JJ NN NN|BODY_8|0
+a single lp-type problem|DT JJ JJ NN|BODY_10|0
+seidel [sei] (|JJ NN -LRB-|BODY_6|0
+the convention|DT NN|BODY_5|0
+all the local optima |DT DT JJ NN|BODY_2|0
+a weaker analysis|DT JJR NN|BODY_3|0
+the such a problem|DT JJ DT NN|BODY_9|0
+example|NN|BODY_1|0
+the area|DT NN|BODY_3|0
+lemma 7|NN CD|BODY_6|0
+polynomial inequalities|NN NNS|BODY_4|0
+(9d 2|NN CD|BODY_2|0
+the two other terms|DT CD JJ NNS|BODY_7|0
+the following trick|DT VBG NN|BODY_3|0
+only some|RB DT|BODY_3|0
+the ordering|DT NN|BODY_5|0
+n inequalities|NN NNS|BODY_6|0
+the new value|DT JJ NN|BODY_6|0
+'s analysis|POS NN|BODY_6|0
+the interiors|DT NNS|BODY_5|0
+the maximum|DT NN|BODY_3|0
+a block|DT NN|BODY_27|0
+ln( n=m )|JJ NN -RRB-|BODY_11|0
+the smallest enclosing ball (|DT JJS VBG NN -LRB-|BODY_12|0
+g-artner|NN|BODY_4|0
+a previous work|DT JJ NN|ABSTRACT_2|0
+a polytope|DT NN|BODY_3:BODY_10|0
+this it|DT PRP|BODY_9|0
+a closed curve fl|DT JJ NN NN|BODY_6|0
+a 'one|DT JJ|BODY_5|0
+clarkson [cla3]|NN NNP|BODY_10|0
+[ mat1] )|JJ NN -RRB-|BODY_16|0
+[ mat1 ]|JJ NN NN|BODY_9|0
+[ meg1|NN NNS|BODY_8|0
+v b 62 h return subex lp( h|FW NN CD JJ NN NN JJ JJ|BODY_16|0
+the term|DT NN|BODY_3|0
+a wedge|DT NN|BODY_15|0
+the output|DT NN|BODY_4|0
+polynomial bit-complexity|NN NN|BODY_4|0
+apex v|NN NN|BODY_17|0
+the form|DT NN|BODY_4|0
+q-tuples|NNS|BODY_7|0
+[ wel ]|NN JJ NN|BODY_11|0
+t k ( n ) and b k ( n|JJ NN -LRB- NN -RRB- CC NN NN -LRB- NN|BODY_2|0
+deterministic algorithms linear|JJ NNS NN|BODY_4|0
+a better dependence|DT JJR NN|BODY_7|0
+a basis b (violation test )|DT NN NN NN NN -RRB-|BODY_18|0
+y q|NN NN|BODY_7|0
+convex objects|JJ NNS|BODY_12|0
+' variant|'' NN|BODY_7|0
+this intersection|DT NN|BODY_3|0
+2 2 d|CD CD VBD|BODY_3|0
+the radius|DT NN|BODY_11|0
+c q|NN RB|BODY_15|0
+the program|DT NN|BODY_6|0
+feasible ( lemma 1 ( iii )|JJ -LRB- NN CD -LRB- NN -RRB-|BODY_7|0
+distance w( u )|NN JJ PRP -RRB-|BODY_9|0
+definition|NN|BODY_8|0
+the product defining g n (z )|DT NN NN NN NN NN -RRB-|BODY_4|0
+d+ 2|NNS CD|BODY_7|0
+the running time|DT VBG NN|BODY_8|0
+b 2 p 2|NN CD NN CD|BODY_12|0
+a finite number|DT JJ NN|BODY_2|0
+d )|NN -RRB-|BODY_3:BODY_7|0
+g)|NN|BODY_4|0
+separate u 1|JJ PRP CD|BODY_7|0
+this operation|DT NN|BODY_19|0
+an expected subexponential number|DT VBN JJ NN|BODY_3|0
+experimental results|JJ NNS|BODY_15|0
+depends|VBZ|BODY_8|0
+the other way round|DT JJ NN NN|BODY_6|0
+time o(d )|NN NN -RRB-|BODY_20|0
+a ball|DT NN|BODY_2|0
+a non-trivial task|DT JJ NN|BODY_5|0
+none|NN|BODY_2|0
+p 1|NN CD|BODY_19|0
+randomized algorithms|JJ NNS|BODY_2|0
+the following parameter|DT VBG NN|BODY_3|0
+such a way|JJ DT NN|BODY_4|0
+the segment|DT NN|BODY_9|0
+o(ffin log ffi) )|JJ NN NN -RRB-|BODY_10|0
+required violation tests|JJ NN NNS|BODY_9|0
+g lying|NN VBG|BODY_4|0
+incident edges|NN NNS|BODY_4|0
+the edges|DT NNS|BODY_5|0
+the minkowski sums|DT NN NNS|BODY_6|0
+sets b 1|NNS NN CD|BODY_16|0
+r d|NN NN|BODY_3|0
+the vertices|DT NNS|BODY_3|0
+inner (|JJ -LRB-|BODY_11|0
+a subexponential running time|DT JJ NN NN|BODY_2|0
+the smallest|DT JJS|BODY_2|0
+their symmetric difference|PRP$ JJ NN|BODY_5|0
+the nonnegativity-constraints h+|DT NNS NN|BODY_4|0
+all objects|DT NNS|BODY_4|0
+( 4.2|-LRB- CD|BODY_4|0
+'s algorithm [cla3|POS NN NNS|BODY_2|0
+contrast|NN|BODY_18|0
+the lexicographically smallest point|DT RB JJS NN|BODY_2|0
+the first recursive call|DT JJ JJ NN|BODY_4|0
+two parallel hyperplanes|CD RB NNS|BODY_4|0
+this intersection nonempty|DT NN NN|BODY_4|0
+the unique pair|DT JJ NN|BODY_4|0
+r|NN|BODY_18:BODY_1|0
+each involving o(ffi 2 ) constraints|DT VBG NN CD -RRB- NNS|BODY_6|0
+an algorithm|DT NN|BODY_2|0
+the minkowski sum|DT NN NN|BODY_2|0
+point p|NN NN|BODY_17|0
+the region|DT NN|BODY_18|0
+an extremely simple randomized incremental algorithm|DT RB JJ JJ JJ NN|BODY_5|0
+the more recent algorithm|DT RBR JJ NN|BODY_1|0
+smallest enclosing balls|JJS VBG NNS|BODY_9|0
+efficiency|NN|BODY_6|0
+b )|NN -RRB-|BODY_8|0
+permutation|NN|BODY_6|0
+the vertical vector|DT JJ NN|BODY_5|0
+ellipsoids )|NNS -RRB-|BODY_10|0
+a reasoning|DT NN|BODY_5|0
+parallel hyperplanes|JJ NNS|BODY_5|0
+no means|DT NNS|BODY_6|0
+the disk|DT NN|BODY_2|0
+intersects|NNS|BODY_16|0
+d variables|VBD NNS|ABSTRACT_6|0
+[g-ar1] )|JJ -RRB-|BODY_5|0
+the 'log n' factor|DT JJ NN NN|BODY_9|0
+the absolute values|DT JJ NNS|BODY_8|0
+angle fi \gamma|NN NN NN|BODY_16|0
+the basic cases|DT JJ NNS|BODY_5|0
+the maximum cardinality|DT JJ NN|BODY_4|0
+an angle ff|DT NN NN|BODY_13|0
+finite point|NN NN|BODY_11|0
+'s lp algorithm [sei]|POS NN NN NN|BODY_5|0
+the denominators|DT NNS|BODY_3|0
+) angle fi|-RRB- NN NN|BODY_13|0
+the situation|DT NN|BODY_19|0
+n ( q|NN -LRB- NN|BODY_12|0
+=2-i z|CD NN|BODY_3|0
+smallest volume|JJS NN|BODY_5|0
+over|RP|BODY_3|0
+steps|NNS|BODY_3|0
+a function tending|DT NN NN|BODY_1|0
+log k|VBP NN|BODY_4|0
+at most ffi+ln n ) violation tests|IN JJS JJ NN -RRB- NN NNS|BODY_12|0
+a bad example|DT JJ NN|BODY_4|0
+any basis|DT NN|BODY_5|0
+the feasible region|DT JJ NN|BODY_3|0
+the above transformation|DT JJ NN|BODY_3|0
+a minimal subset bh|DT JJ NN NN|BODY_2|0
+suppose|VB|BODY_5|0
+the best expected running time|DT JJS VBN VBG NN|BODY_9|0
+v 0|RB CD|BODY_12|0
+a given set|DT VBN NN|BODY_4|0
+a set cannot|DT VBN NN|BODY_10|0
+this framework|DT NN|BODY_4|0
+u 2|PRP CD|BODY_8|0
+the lexicographical ordering|DT JJ NN|BODY_2|0
+d we|JJ PRP|BODY_25|0
+bm|NN|BODY_8|0
+the lower bound|DT JJR VBN|BODY_2|0
+\gammafh|NN|BODY_5|0
+p i|NN PRP|BODY_30|0
+a complex|DT JJ|BODY_16|0
+the goal|DT NN|BODY_1|0
+the frame|DT NN|BODY_5|0
+2 ) arithmetic operations|CD -RRB- JJ NNS|BODY_5|0
+the promised bounds|DT VBN NNS|BODY_5|0
+b 2|NN CD|BODY_17|0
+the new interpretation|DT JJ NN|BODY_5|0
+:= v h|DT RB IN|BODY_4|0
+z|NN|BODY_15|0
+the maximum distance|DT JJ NN|BODY_3|0
+every vertex v|DT NN NN|BODY_7|0
+the last term|DT JJ NN|BODY_10|0
+c (|NN -LRB-|BODY_3|0
+the expected behavior|DT VBN NN|BODY_2|0
+a point p|DT NN NN|BODY_2|0
+quite a number|RB DT NN|BODY_2|0
+the inequalities|DT NNS|BODY_5|0
+the euclidean distance|DT JJ NN|BODY_9|0
+other instances|JJ NNS|BODY_7|0
+time linear|NN NN|BODY_7|0
+its incident edges e 0|PRP$ NN NNS NN CD|BODY_9|0
+at most d+2 ( or d+ 1|IN JJS NNS -LRB- CC NN CD|BODY_5|0
+some notations|DT NNS|BODY_3|0
+no influence|DT NN|BODY_3|0
+rote|NN|BODY_1|0
+the al- gorithm|DT NNS NN|BODY_6|0
+below )|RB -RRB-|BODY_8|0
+'s yields|POS NNS|BODY_8|0
+the kernel|DT NN|BODY_3|0
+a call subex lp( h|DT NN NN NN NN|BODY_7|0
+theorem|PRP|BODY_2|0
+the objective function|DT JJ NN|BODY_4|0
+the last four decades|DT JJ CD NNS|BODY_7|0
+recently|RB|BODY_1|0
+halfspaces|NNS|BODY_13|0
+any initial basis b|DT JJ NN NN|BODY_12|0
+an extra condition|DT JJ NN|BODY_3|0
+the above expression|DT JJ NN|BODY_11|0
+the correctness|DT NN|BODY_17|1
+the performance|DT NN|BODY_7|0
+the second recursive call|DT JJ JJ NN|BODY_8|0
+corollary 4|NN CD|BODY_2|0
+that ( p|DT -LRB- NN|BODY_4|0
+a pair ( h|DT NN -LRB- NN|BODY_2|0
+an initial basis b 0|DT JJ NN NN CD|BODY_6|0
+all which|DT WDT|BODY_16|1
+g-artner [g-ar2|NN NNS|BODY_1|0
+( iii|-LRB- NN|BODY_5|0
+linear programming theory|JJ NN NN|BODY_4|0
+the first omitted term|DT JJ VBN NN|BODY_6|0
+the previous section|DT JJ NN|BODY_8|0
+the sequel|DT NN|BODY_10|0
+the discussion|DT NN|BODY_1|0
+chm]|NN|BODY_7|0
+the additional condition|DT JJ NN|BODY_6|0
+use|NN|BODY_4|0
+n ) solutions )|NN -RRB- NNS -RRB-|BODY_8|0
+unit cost|NN NN|BODY_6|0
+a second call|DT JJ NN|BODY_4|0
+such problems|JJ NNS|BODY_5|0
+the following convex regions|DT VBG NN NNS|BODY_5|0
+these primitive operations|DT JJ NNS|BODY_2|0
+conditions|NNS|BODY_7|0
+( angle-optimal placement|-LRB- JJ NN|BODY_1|0
+an improvement|DT NN|BODY_4|0
+the smallest ball enclosing|DT JJS NN NN|BODY_7|0
+all points|DT NNS|BODY_13:BODY_9|0
+candidate basis c|NN NN NN|BODY_6|0
+'s linear programming algorithm [cla3]|POS JJ NN NN NN|BODY_3|0
+this smallest radius|DT JJS NN|BODY_2|0
+integer coordinates|NN NNS|BODY_5|0
+basis-regularity|NN|BODY_7|0
+a basis-regular one|DT JJ CD|BODY_3|0
+a faster algorithm|DT JJR NN|BODY_3|0
+any other properties|DT JJ NNS|BODY_2|0
+every lp-type problem|DT JJ NN|BODY_2|0
+g z jx g|VBG NN FW VBG|BODY_9|0
+other words|JJ NNS|BODY_10|0
+that v h[h+|DT NN NN|BODY_25|0
+the constraint sets|DT NN NNS|BODY_26|0
+combinatorial dimension dim( h|JJ NN NN NN|BODY_10|0
+a better bound|DT JJR VBN|BODY_2|0
+the presentation and analysis|DT NN CC NN|BODY_7|0
+the subexponential|DT NN|BODY_2|0
+the lexicographically smallest nonnegative point v h[h+|DT RB JJS JJ NN NN NN|BODY_1:BODY_3|0
+any general position assumptions|DT JJ NN NNS|BODY_2|0
+combinatorial polynomial complexity )|JJ JJ NN -RRB-|BODY_6|0
+also every constraint|RB DT NN|BODY_9|0
+the obvious way|DT JJ NN|BODY_4|0
+so every subset u|RB DT NN NN|BODY_32|0
+0 instead|CD RB|BODY_13|0
+w(|JJ|BODY_11|0
+an arbitrarily small|DT RB JJ|BODY_23|0
+the backwards|DT NNS|BODY_2|0
+violation|NN|BODY_19:BODY_10|0
+a delicate issue|DT JJ NN|BODY_3|0
+1-3|JJ|BODY_2|0
+properties|NNS|BODY_6|0
+the problems|DT NNS|BODY_12|0
+the vertex set|DT JJ NN|BODY_29|0
+polynomial time|JJ NN|BODY_3|0
+the inner side|DT JJ NN|BODY_15|0
+two concentric balls|CD JJ NNS|BODY_4|0
+such a|JJ DT|BODY_6|0
+the algorithm subex lp|DT NN NN NN|BODY_8|0
+candidate basis|NN NN|BODY_9|0
+is|VBZ|BODY_7|0
+n very large|NN RB JJ|BODY_18|0
+below by|RB IN|BODY_12|0
+q )|RB -RRB-|BODY_5|0
+( 1|-LRB- CD|BODY_16|0
+[d-or] )|JJ -RRB-|BODY_11|0
+choices|NNS|BODY_9|0
+fact|NN|BODY_5|0
+h (|NN -LRB-|BODY_5|0
+maps|NNS|BODY_7|1
+basic observations|JJ NNS|BODY_4|0
+a subset b|DT JJ NN|BODY_2|0
+r-tuples ( m|NNS -LRB- NN|BODY_17|0
+the constant|DT JJ|BODY_1|0
+the|DT|BODY_5|0
+the simpler inductive argument|DT JJR JJ NN|BODY_2|0
+regular lp-type problem|JJ JJ NN|BODY_9|0
+' p|POS NN|BODY_17:BODY_9|0
+no minimum|DT NN|BODY_5|0
+each convex object|DT NN NN|BODY_3|0
+natural examples|JJ NNS|BODY_6|0
+a gross overestimate|DT JJ NN|BODY_4|0
+other examples|JJ NNS|BODY_1:BODY_3|0
+the violation test|DT NN NN|BODY_1|0
+h 2 h and h|NN CD NN CC NN|BODY_4|0
+w( g \gamma fhg )|JJ VBG NN NN -RRB-|BODY_10|0
+all the ingredients|DT DT NNS|BODY_2|0
+the order 2 o( d log d ) [ chm]|DT NN CD NN VBD NN VBD -RRB- NN NN|BODY_7|0
+intersections|NNS|BODY_4|0
+infinity and n such|NN CC NN JJ|BODY_4|0
+8 )|CD -RRB-|BODY_15|0
+any subexponential time|DT JJ NN|BODY_6|0
+all edges and vertices|DT NNS CC NNS|BODY_12|0
+a large class|DT JJ NN|BODY_6|0
+elements )|NNS -RRB-|BODY_4|0
+such a basis|PDT DT NN|BODY_10|0
+the following pseudocode|DT VBG NN|BODY_11|0
+smallest point|JJS NN|BODY_3|0
+4.7 )|CD -RRB-|BODY_5|0
+r-tuples|NNS|BODY_5|0
+h if|NN IN|BODY_3|0
+dist(|NN|BODY_6|0
+a bound|DT JJ|BODY_9|0
+our algorithm d|PRP$ NN VBD|BODY_8|0
+the point x|DT NN NN|BODY_4|0
+any|DT|BODY_8|0
+the unique smallest ball containing q|DT JJ JJS NN VBG NNS|BODY_19|0
+the following explicit form |DT VBG JJ NN|BODY_3|0
+d points|JJ NNS|BODY_6|0
+an expected bound|DT VBN JJ|BODY_5|0
+such terms|JJ NNS|BODY_10|0
+o(d ) arithmetic operations|JJ -RRB- JJ NNS|BODY_2|0
+however both algorithms|RB DT NNS|BODY_13|0
+convex polytopes|NN NNS|BODY_14|0
+largest balls (ellipsoids|JJS NNS NNS|BODY_13|0
+s|PRP|BODY_1:BODY_9|0
+two parameters|CD NNS|BODY_3|0
+) and t k|-RRB- CC NN NN|BODY_9|0
+2 points|CD NNS|BODY_8|0
+chazelle and matou-sek , [ chm]|JJ CC JJ , JJ NN|BODY_1|0
+the inner sum|DT JJ NN|BODY_3|0
+w 0 )|JJ CD -RRB-|BODY_3|0
+at most d|IN JJS NN|BODY_5|0
+circular arc|JJ NN|BODY_7|0
+some other problems|DT JJ NNS|BODY_2|0
+optimization problems|NN NNS|BODY_4|0
+the bound linear|DT JJ NN|BODY_8|0
+its expected running time|PRP$ JJ NN NN|BODY_19|1
+d+|NNS|BODY_5|0
+a large range|DT JJ NN|BODY_5|0
+t )|JJ -RRB-|BODY_30|0
+9d 2 constraints|NNP CD NNS|BODY_8|0
+r )|NN -RRB-|BODY_5|0
+z k and sum|NN NN CC NN|BODY_6|0
+a significantly worse performance [ mat1]|DT RB JJR NN NN NN|BODY_8|0
+log d|NN NN|BODY_10|0
+the bound /s|DT JJ NN|BODY_8|0
+wel] )|NNP -RRB-|BODY_9|0
+abstract lp-type problems|JJ NN NNS|BODY_7|0
+w 0|NN CD|BODY_6|0
+an easy exercise|DT JJ NN|BODY_14|0
+[g-ar2 ]|DT NN|BODY_2|0
+the recursion|DT NN|BODY_4|0
+the subexponential time|DT JJ NN|BODY_6:BODY_1|0
+an extra computational assumption|DT JJ JJ NN|BODY_3|0
+function procedure subex lp( h)|NN NN NN JJ NN|BODY_4|0
+a placement|DT NN|BODY_3|0
+( combinatorial dimension 3 )|-LRB- JJ NN CD -RRB-|BODY_11|0
+w ) , jh dimension ffi|NN -RRB- , NN NN NN|BODY_6|0
+useful discussions|JJ NNS|BODY_12|0
+equality (|NN -LRB-|BODY_11|0
+the challenging open problem|DT VBG JJ NN|BODY_1|0
+h \gamma c ( and c|NN NN NN -LRB- CC NN|BODY_3|0
+the application|DT NN|BODY_4|0
+infeasibility|NN|BODY_15|0
+( 4.5|-LRB- CD|BODY_13|0
+corollary 10|NN CD|BODY_2|0
+an extra constraint|DT JJ NN|BODY_5|0
+[ meg2 ]|JJ NN NN|BODY_1|0
+the leading term|DT JJ NN|BODY_10|0
+an integer parameter|DT NN NN|BODY_11|0
+not on|RB IN|BODY_15|0
+the empty product|DT JJ NN|BODY_6|0
+[ wel|NN NN|BODY_1|0
+a linearly ordered set ( w|DT RB VBN NN -LRB- NN|BODY_12|0
+out|RP|BODY_14|1
+given n halfspaces|VBN NN NNS|BODY_9|0
+computational geometry|JJ NN|BODY_6|0
+a randomized subexponential algorithm|DT JJ JJ NN|BODY_3|0
+a family|DT NN|BODY_7|0
+two examples|CD NNS|BODY_2|0
+4.1 )|CD -RRB-|BODY_5|0
+every subset|DT NN|BODY_8|1
+the same value|DT JJ NN|BODY_4|0
+axiom 1|NN CD|BODY_6|0
+such a lower|JJ DT JJR|BODY_2|0
+one term|CD NN|BODY_15|0
+n (z )|NN NN -RRB-|BODY_10|0
+d \gamma jfh|JJ NN NN|BODY_5|0
+other properties|JJ NNS|BODY_4|0
+some auxiliary information|DT JJ NN|BODY_2|0
+this element|DT NN|BODY_4|0
+a symbolic value \gamma|DT JJ NN NN|BODY_22|0
+exactly q elements|RB RB NNS|BODY_7|0
+the lower order terms|DT JJR NN NNS|BODY_11|0
+many problems|JJ NNS|BODY_1|0
+k tending|NN NN|BODY_3|0
+this step corresponds|DT NN NNS|BODY_1|0
+2d constraints|JJ NNS|BODY_6|0
+v h[h+|NN NN|BODY_3|0
+linear time|JJ NN|BODY_6|0
+[sei] and [ wel]|JJ CC JJ NN|BODY_4|0
+some relevant recent literature|DT JJ JJ NN|BODY_5|0
+two convex polytopes|CD NN NNS|BODY_3|0
+all proper subsets b 0|DT JJ NNS NN CD|BODY_8|0
+b.|VBG|BODY_4:BODY_9|0
+the recurrences|DT NNS|BODY_2|0
+k ( n )|NN -LRB- NN -RRB-|BODY_17:BODY_4|0
+an execution|DT NN|BODY_4|0
+)+ o( operations|JJ JJ NNS|BODY_10|0
+g n (z )|VBG NN NN -RRB-|BODY_23|0
+each basis b|DT NN NN|BODY_12|0
+sca] )|JJ -RRB-|BODY_11|0
+the claimed combinatorial dimension|DT VBN JJ NN|BODY_7|0
+8|CD|BODY_3|0
+x and 2|SYM CC CD|BODY_7|0
+expected o( d stands|VBN RB VBN NNS|BODY_5|0
+the best previously published result|DT JJS RB VBN NN|BODY_1|0
+this sum|DT NN|BODY_1|0
+procedure subex lp( h|NN NN JJ JJ|BODY_5|0
+their distance|PRP$ NN|BODY_4|0
+the following upper bound|DT VBG JJ JJ|BODY_5|0
+axioms 1 and 2 hold|NNS CD CC CD NN|BODY_7|0
+altogether d+3 vertices|RB JJ NNS|BODY_6|0
+the n halfspaces h|DT NN NNS NN|BODY_5|0
+a decreasing sequence|DT NN NN|BODY_12|0
+its affine hull )|PRP$ NN NN -RRB-|BODY_8|0
+a constraint h ( basis computation )|DT JJ NN -LRB- NN NN -RRB-|BODY_10|0
+a lower|DT JJR|BODY_12|0
+any d + 1|DT JJ NN CD|BODY_5|0
+implies|VBZ|BODY_4|0
+o( 2 ffi n )|RB CD JJ NN -RRB-|BODY_7|0
+the initial basis h+|DT JJ NN NN|BODY_25|0
+even stronger , [|RB JJR , RB|BODY_1|0
+pairs|NNS|BODY_5|0
+altogether n vertices|RB RB NNS|BODY_5|0
+this section|DT NN|BODY_3|0
+the candidate basis|DT NN NN|BODY_9|0
+a set b|DT NN NN|BODY_9|0
+0 )|CD -RRB-|BODY_5|0
+the purpose|DT NN|BODY_8|0
+the set|DT NN|BODY_3|0
+( iii )|-LRB- NNS -RRB-|BODY_1|0
+initial basis|JJ NN|BODY_4|0
+2 o( k )|CD NN NN -RRB-|BODY_7|0
+for most values|IN JJS NNS|BODY_3|0
+the range|DT NN|BODY_4|0
+this case|DT NN|BODY_7|0
+precisely those|RB DT|BODY_7|0
+the easy bound of|DT JJ JJ IN|BODY_6|0
+a few simple conditions|DT JJ JJ NNS|BODY_12|1
+e o(|NN NN|BODY_8|0
+'undefined '|JJ ''|BODY_18|0
+the coefficient f(k|DT NN NN|BODY_19|0
+h \gamma fhg )|NN NN NN -RRB-|BODY_4|0
+w( basis( b|NN NN NN|BODY_4|0
+h 2 c|WDT CD NN|BODY_6|0
+available|JJ|BODY_18|0
+return c /*|NN NN NN|BODY_10|0
+returns|NNS|BODY_8|0
+basis )|NN -RRB-|BODY_11|0
+again gives 1|RB VBZ CD|BODY_3|0
+( 4.3 )|-LRB- CD -RRB-|BODY_11|0
+m )|NN -RRB-|BODY_14:BODY_3|0
+a closer look|DT JJR NN|BODY_5|0
+a random h|DT JJ JJ|BODY_13|0
+1 )|CD -RRB-|BODY_25|0
+theorem 3|NN CD|BODY_5|0
+all n|DT NN|BODY_7|0
+( combinatorial dimension|-LRB- JJ NN|BODY_19|0
+the following algorithm|DT VBG NN|BODY_7|0
+all constraint|DT NN|BODY_2|0
+( violation test|-LRB- NN NN|BODY_1|0
+its optimal solution|PRP$ JJ NN|BODY_10|1
+a finite set|DT JJ NN|BODY_9|0
+value greater than or|NN JJR IN CC|BODY_10|0
+at most d+1|IN JJS NNS|BODY_11|0
+g ) arithmetic operations|NN -RRB- NN NNS|BODY_10|0
+n ) operations|NN -RRB- NNS|BODY_9|0
+closed halfspaces|JJ NNS|BODY_8|0
+sets|NNS|BODY_2|0
+thus linear|RB NN|BODY_6|0
+many algorithms|JJ NNS|BODY_1|0
+monotone|NN|BODY_2|0
+c.|NN|BODY_12:BODY_3:BODY_7|0
+ close |RB JJ|BODY_8|0
+a set h|DT NN NN|BODY_5:BODY_1|0
+general|JJ|BODY_8|0
+its expected complexity|PRP$ JJ NN|BODY_5|0
+complexity bounds|NN NNS|BODY_1|0
+the input )|DT NN -RRB-|ABSTRACT_15|0
+( g|-LRB- NN|BODY_2:BODY_3:BODY_7|0
+the pair ( g|DT NN -LRB- NN|BODY_6|0
+some|DT|BODY_1|0
+their running time|PRP$ VBG NN|BODY_5|0
+the resulting combinatorial dimension|DT VBG JJ NN|BODY_13|0
+computations|NNS|BODY_23|1
+the kernel )|DT NN -RRB-|BODY_15|0
+the worst case|DT JJS NN|BODY_3|0
+2.|CD|BODY_35|0
+the whole expression|DT JJ NN|BODY_13|0
+e o( log ffi)|NN JJ NN NN|BODY_13|0
+( largest ellipsoid|-LRB- JJS NN|BODY_1|0
+( basis computation|-LRB- NN NN|BODY_1|0
+the polytope|DT NN|BODY_16|0
+the subexponential complexity bound|DT JJ NN VBN|ABSTRACT_6|0
+second , subex lp|JJ , JJ NN|BODY_1|0
+two basic operations|CD JJ NNS|BODY_11|0
+matou-sek|NN|BODY_1|0
+the recurrence relation|DT NN NN|BODY_16|0
+( ii|-LRB- NNS|BODY_1|0
+at least ff|IN JJS NN|BODY_6|0
+value set w|NN VBN NN|BODY_9|0
+lemma 1|NN CD|BODY_7|0
+the following properties|DT VBG NNS|BODY_1|0
+the pair|DT NN|BODY_1|0
+at most q|IN JJS NN|BODY_7|0
+the difference f(k|DT NN NN|BODY_1|0
+these basic facts|DT JJ NNS|BODY_1|0
+the corresponding set|DT JJ NN|BODY_1|0
+introduction linear programming|NN NN NN|BODY_1|0
+the estimates|DT NNS|BODY_1|0
+( integer linear programming ) given n halfspaces|-LRB- NN JJ NN -RRB- VBN NN NNS|BODY_1|0
+( smallest volume annulus|-LRB- JJS NN NN|BODY_1|0
+the initial basis|DT JJ NN|BODY_6|0
+a different framework|DT JJ NN|BODY_1|0
+several other related problems|JJ JJ JJ NNS|ABSTRACT_5|0
+such an ellipsoid|PDT DT NN|BODY_1|0
+each n|DT NN|BODY_1|0
+notation and basics|NN CC NNS|BODY_1|0
+our presentation|PRP$ NN|BODY_5|0
+random constraint|JJ NN|BODY_4|0
+such an encoding|PDT DT NN|BODY_1|0
+the basis|DT NN|BODY_23|0
+the circle 1|DT NN CD|BODY_3|0
+various technicalities|JJ NNS|BODY_1|0
+' instead|POS RB|BODY_9|0
+an intuitive interpretation|DT JJ NN|BODY_1|0
+that solution|DT NN|BODY_7|0
+the origin )|DT NN -RRB-|BODY_6|0
+ordering|VBG|BODY_7|0
+! v h|. RB NN|BODY_11|0
+details|NNS|BODY_5|0
+those primitive operations|DT JJ NNS|BODY_6|0
+the required answer|DT JJ NN|BODY_21|0
+given two closed polytopes p 1|VBN CD JJ NNS NN CD|BODY_1|0
+the same cardinality )|DT JJ NN -RRB-|BODY_10|0
+the key notion|DT JJ NN|BODY_1|0
+the factor c|DT NN NN|BODY_1|0
+w ) elements|NN -RRB- NNS|BODY_5:BODY_9|0
+our value|PRP$ NN|BODY_1|0
+a few examples|DT JJ NNS|BODY_4|0
+2 ) operations|CD -RRB- NNS|BODY_7|0
+log n )|NN NN -RRB-|BODY_12|0
+an additional computational assumption )|DT JJ JJ NN -RRB-|BODY_6|0
+( initial basis|-LRB- JJ NN|BODY_1|0
+minimal volume|JJ NN|BODY_7|0
+this radius|DT NN|BODY_4|0
+distance|NN|BODY_1|0
+the first linear time solution|DT JJ JJ NN NN|BODY_1|0
+the general problem|DT JJ NN|BODY_1|0
+this circular arc|DT JJ NN|BODY_20|0
+the procedure subex lp|DT NN NN NN|BODY_1|0
+these minkowski sums|DT JJ NNS|BODY_7|0
+conjunction|NN|BODY_1|0
+derandomization techniques|NN NNS|BODY_1|0
+v g\gammafhg proof|RB JJ NN|BODY_7|0
+integer linear programming|JJ JJ NN|BODY_1|0
+clarkson [cla3|NN CD|BODY_1|0
+) arithmetic operations|-RRB- JJ NNS|BODY_5:BODY_4|0
+the notions|DT NNS|BODY_1|0
+the whole treatment|DT JJ NN|BODY_1|0
+subexponential running time|JJ VBG NN|BODY_10|0
+( smallest enclosing ellipsoid|-LRB- JJS JJ NN|BODY_1|0
+a set p|DT NN NN|BODY_1|0
+other related problems|JJ JJ NNS|BODY_6|0
+( locality )|-LRB- NN -RRB-|BODY_1|0
+( monotonicity )|-LRB- NN -RRB-|BODY_1|0
+the value 1|DT NN CD|BODY_5|0
+the assumption log guarantees|DT NN NN NNS|BODY_1|0
+minfn\gammad;kg n\gammad|JJ JJ|BODY_11|0
+the lemma|DT NN|BODY_3|0
+j|NN|BODY_1|0
+most e.g . [ jun] )|RBS RB . JJ NN -RRB-|BODY_4|0
+the above definition|DT JJ NN|BODY_1|0
+finitely many different bases )|RB JJ JJ NNS -RRB-|BODY_11|0
+never more 'bad ' choices|RB RBR JJ '' NNS|BODY_7|0
+two extreme cases|CD JJ NNS|BODY_11|0
+all the vertices|DT DT NNS|BODY_6|0
+further details|JJ NNS|BODY_4|0
+at most k \gamma i|IN JJS NN NN NN|BODY_7|0
+the dependence|DT NN|BODY_1|0
+( 4.7 )|-LRB- CD -RRB-|BODY_2|0
+locality )|NN -RRB-|BODY_21|0
+the inequality|DT NN|BODY_6|0
+the two primitive operations|DT CD JJ NNS|BODY_2|0
+any input|DT NN|BODY_12:ABSTRACT_4|0
+the efficiency|DT NN|BODY_1|0
+( j|-LRB- NN|BODY_2|0
+- b k|: NN NN|BODY_2|0
+6 discussion|CD NN|BODY_1|0
+axiom|NN|BODY_6|0
+bases|NNS|BODY_5|0
+empty|JJ|BODY_3|0
+section 5|NN CD|BODY_1|0
+small problems|JJ NNS|BODY_6|0
+some additional ingredients|DT JJ NNS|BODY_8|0
+tha d|NN VBN|BODY_15|0
+that d ln( n=|IN VBN NN NN|BODY_7|0
+the bound e o(|DT JJ NN NN|BODY_10|0
+the d nonnegativity constraints|DT JJ NN NNS|BODY_5|0
+the following observation|DT JJ NN|BODY_22|0
+the following primitive operations|DT VBG JJ NNS|BODY_2|0
+the following trivial approach|DT VBG JJ NN|BODY_4|0
+the numerator|DT NN|BODY_2|0
+the recursion ( 3.1|DT NN -LRB- CD|BODY_5|0
+this convention|DT NN|BODY_1|0
+two cases|CD NNS|BODY_2|0
+dim( h|JJ NN|BODY_9|0
+all halfspaces|DT NNS|BODY_11|0
+the basic idea|DT JJ NN|BODY_1|0
+3.3 ) operations|CD -RRB- NNS|BODY_12|0
+[cla2]|NN|BODY_5|0
+basis b|NN NN|BODY_8|0
+( basis regularity|-LRB- NN NN|BODY_1|0
+h ) '|NN -RRB- ''|BODY_11|0
+a given q-tuple ( m k|DT VBN NN -LRB- NN NN|BODY_5|0
+a polygon )|DT NN -RRB-|BODY_11|0
+a and b|DT CC NN|BODY_11|0
+a candidate basis|DT NN NN|BODY_14|0
+its efficiency )|PRP$ NN -RRB-|BODY_7|0
+the previous examples|DT JJ NNS|BODY_1|0
+this encoding|DT NN|BODY_2|0
+vari- ables|NNS NNS|BODY_19|0
+a random constraint h|DT JJ NN NN|BODY_1|0
+etc|FW|BODY_19|0
+\gamma fhg|NN NN|BODY_10|0
+several auxiliary parameters|JJ JJ NNS|BODY_4|0
+w( g ) constraint h|JJ VBG -RRB- NN NN|BODY_8|0
+lemma 9|NN CD|BODY_1|0
+at most d n\gammad|IN JJS VBN NN|BODY_7|0
+a minimum value \gamma1|DT JJ NN NNS|BODY_15|0
+4|CD|BODY_1|0
+any fixed d|DT JJ VBD|BODY_8|0
+n ( r|NN -LRB- NN|BODY_1|0
+( note|-LRB- NN|BODY_1|0
+? w( b )|. NN NN -RRB-|BODY_6|0
+d \gamma k extreme constraints|VBN NN NN JJ NNS|BODY_1|0
+the only choices|DT JJ NNS|BODY_1|0
+then this|RB DT|BODY_7|0
+d-space )|NN -RRB-|BODY_13|0
+[dye1 ] and [cla1]|CD NN CC NN|BODY_6|0
+hidden dimension zero|VBN NN NN|BODY_1|0
+given g|VBN NN|BODY_1|0
+lemma 2|NN CD|BODY_1|0
+lower|JJR|BODY_1|0
+proof|NN|BODY_1|0
+smallest enclosing ball|JJS VBG NN|BODY_1|0
+the paper|DT NN|BODY_1|0
+the subexponential time bounds|DT JJ NN NNS|BODY_1|0
+upper bound|JJ JJ|BODY_1|0

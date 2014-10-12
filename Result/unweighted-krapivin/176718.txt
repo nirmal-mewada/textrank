@@ -1,0 +1,679 @@
+we|PRP|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|7
+\delta|NNP|BODY_11:BODY_18:BODY_21:BODY_15:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_27:BODY_1:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_12:BODY_17:BODY_18:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_29:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_11:BODY_13:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_28:BODY_1:BODY_7:BODY_8|1
+which|WDT|BODY_12:BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_37:BODY_10:BODY_7:BODY_9|0
+a|DT|BODY_11:BODY_17:BODY_21:BODY_13:BODY_26:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8|0
+n|NN|BODY_12:BODY_22:BODY_18:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_8:BODY_9|1
+2|CD|BODY_12:BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_7:BODY_9:BODY_20|0
+a ( n|DT -LRB- NN|BODY_12:BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4|0
+binary trees|JJ NNS|BODY_6:BODY_5:TITLE_3:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_19:BODY_4:BODY_7|0
+the external path length|DT JJ NN NN|BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4|1
+there|EX|BODY_6:BODY_11:BODY_5:BODY_27:BODY_2:BODY_1:BODY_3:BODY_19:BODY_4|0
+the ( n|DT -LRB- NN|BODY_5:BODY_17:BODY_13:BODY_26:BODY_2:BODY_1:BODY_14:BODY_3:BODY_4:BODY_8:BODY_20|0
+t|NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+1|CD|BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+x|SYM|BODY_5:BODY_16:BODY_2:BODY_3:BODY_4:BODY_8|1
+the maximum|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_14:BODY_10:BODY_8|0
+a)-tree|NN|BODY_6:BODY_5:BODY_15:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|0
+\delta)-tree|CD|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_4|0
+the tree|DT NN|BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+a 0|DT CD|BODY_12:BODY_17:BODY_21:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+\delta )|NN -RRB-|BODY_12:BODY_5:BODY_11:BODY_23:BODY_13:BODY_3:BODY_19:BODY_4:BODY_9|1
+0|CD|BODY_6:BODY_5:BODY_15:BODY_1:BODY_3:BODY_10|0
+external nodes|JJ NNS|BODY_11:BODY_5:BODY_7:BODY_8|0
+level l|NN NN|BODY_5:BODY_1:BODY_3:BODY_8|0
+the interval|DT NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_7|0
+the case|DT NN|BODY_2:BODY_1:BODY_4|0
+each|DT|BODY_36:BODY_24:BODY_10:BODY_20|0
+configuration ( l|NN -LRB- RB|BODY_11:BODY_16:BODY_25:BODY_2:BODY_7:BODY_30:BODY_8|0
+fact|NN|BODY_6:BODY_1|0
+the cases|DT NNS|BODY_1:BODY_3:BODY_7|0
+1)-tree|CD|BODY_6:BODY_3:BODY_4:BODY_8|0
+trees|NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_8|0
+the definition|DT NN|BODY_6:BODY_1:BODY_19:BODY_4:BODY_9|0
+this|DT|BODY_12:BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+l|NN|BODY_6:BODY_1:BODY_3|0
+n external nodes|RB JJ NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+the root|DT NN|BODY_6:BODY_11:ABSTRACT_6:BODY_14:BODY_7|0
+any power|DT NN|BODY_12:BODY_11:BODY_5:BODY_3:BODY_4:BODY_7|0
+e|NN|BODY_2:BODY_3:BODY_8|0
+its external path length|PRP$ JJ NN NN|BODY_5:BODY_16:BODY_7:BODY_8|0
+each \delta|DT NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+the kraft equality|DT NN NN|BODY_12:BODY_5:BODY_1:BODY_3|0
+the binary tree|DT JJ NN|BODY_6:BODY_2:BODY_4|0
+the external nodes|DT JJ NNS|BODY_1:BODY_3:BODY_4:BODY_10|0
+one|PRP|BODY_6:BODY_2:BODY_4:BODY_7|0
+the function|DT NN|BODY_6:BODY_1:BODY_7|0
+\delta)-trees|NNS|BODY_6:BODY_5:BODY_3:BODY_4|0
+us|PRP|BODY_1:BODY_2|0
+4|CD|BODY_2:BODY_4|0
+y|NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+an upper|DT JJ|BODY_2:BODY_4|0
+n=2|NN|BODY_2:BODY_3:BODY_4:BODY_7|1
+the set|DT NN|BODY_5:BODY_2:BODY_8|0
+epl( n|NN NN|BODY_5:BODY_3:BODY_4:BODY_10|1
+a power|DT NN|BODY_6:BODY_5:BODY_3:BODY_4|0
+type|NN|BODY_5:BODY_13:BODY_3:BODY_4:BODY_8|0
+( n|-LRB- NN|BODY_5:BODY_1:BODY_3:BODY_10:BODY_4|0
+the worst case|DT JJS NN|BODY_3:BODY_7|0
+an upper bound|DT JJ JJ|ABSTRACT_2:BODY_2|0
+whose external path length|WP$ JJ NN NN|BODY_5:BODY_3:BODY_9|0
+the sum|DT NN|BODY_5:ABSTRACT_3:BODY_8:BODY_9|0
+each value|DT NN|BODY_6:ABSTRACT_3|0
+the lemma|DT NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_4|0
+the internal path length|DT JJ NN NN|BODY_5:BODY_3:BODY_7|0
+minimum external path length|JJ JJ NN NN|BODY_6:BODY_5:BODY_4:BODY_8|0
+a \gamma|DT NN|BODY_6:BODY_11:BODY_3:BODY_4|0
+this paper|DT NN|BODY_2:BODY_1:BODY_7|0
+positive integers|JJ NNS|BODY_2:BODY_3|0
+$ \delta$|$ JJ|ABSTRACT_6:ABSTRACT_4:ABSTRACT_2|0
+the configuration|DT NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+the lengths|DT NNS|BODY_12:ABSTRACT_4|0
+a tree|DT NN|BODY_2:BODY_3:BODY_4:BODY_7|0
+x )|NN -RRB-|BODY_5:BODY_16:BODY_3:BODY_10:BODY_7|0
+infinitely many values|RB JJ NNS|ABSTRACT_5:BODY_2:BODY_9|0
+they|PRP|BODY_5:BODY_1:BODY_8|0
+the two external nodes|DT CD JJ NNS|BODY_11:BODY_2|0
+greater than or|JJR IN CC|BODY_5:BODY_3|0
+'s|POS|BODY_6:BODY_3|0
+a )|DT -RRB-|BODY_2:BODY_3|0
+a binary tree|DT JJ NN|BODY_2:BODY_3|0
+more than one external node|JJR IN CD JJ NN|BODY_3:BODY_4:BODY_10|0
+the author|DT NN|BODY_3|0
+the one|DT CD|BODY_6:BODY_3|0
+section 3.1|NN CD|BODY_2|0
+part|NN|BODY_2:BODY_1|0
+the average cost|DT JJ NN|BODY_13:BODY_9|0
+levels|NNS|BODY_3:BODY_4|0
+information|NN|BODY_2:BODY_4|0
+prof. harry lewis|DT JJ NN|BODY_2|0
+the exact maximum|DT JJ NN|BODY_2|0
+the paper and summary|DT NN CC NN|BODY_2|0
+the levels|DT NNS|BODY_10:BODY_7|0
+both|DT|BODY_21:BODY_4|0
+a lower|DT JJR|BODY_5:BODY_2|1
+a tree t|DT NN NN|BODY_4|0
+a red-black tree|DT NN NN|BODY_2|0
+the integer part|DT NN NN|BODY_14:BODY_10|0
+the two dense levels|DT CD JJ NNS|BODY_6:BODY_5|0
+the path length|DT NN NN|TITLE_2:BODY_3|0
+a sequence|DT NN|BODY_2|0
+the ( x|DT -LRB- SYM|BODY_5:BODY_23:BODY_14|0
+a factor|DT NN|BODY_6:ABSTRACT_4|0
+x(ff|NN|BODY_17:BODY_10:BODY_8|0
+h \delta|NN NN|BODY_3|0
+the sequence l|DT NN JJ|BODY_2:BODY_7|0
+the existence|DT NN|BODY_6:BODY_1:BODY_3|0
+the trees|DT NNS|BODY_3:BODY_9|0
+a proof|DT NN|BODY_16:BODY_4|0
+lemma 4.6|NN CD|BODY_6:BODY_1:BODY_3|0
+a sequence l|DT NN NN|BODY_4:BODY_7|0
+the bound|DT JJ|BODY_1:BODY_3:BODY_4|0
+[3 ]|CD NN|BODY_3|0
+terms|NNS|BODY_5:BODY_4|0
+2.|CD|BODY_6:BODY_5:BODY_1:BODY_8|0
+harvard university|NN NN|BODY_9|0
+cambridge|NN|BODY_10|0
+the dense levels|DT JJ NNS|BODY_1:BODY_8|0
+ff)-tree|NN|BODY_15:BODY_3|0
+a theorem|DT NN|BODY_9|0
+84081 baronissi|CD NNS|BODY_6|0
+di salerno|JJ NN|BODY_5|0
+let t|VB NN|BODY_1|0
+the function h \delta ;x|DT NN NN NN VBD|BODY_4|0
+certain integers|JJ NNS|BODY_8|0
+red-black trees|JJ NNS|BODY_6:BODY_2|0
+the best|DT JJS|BODY_2|0
+o( n|JJ RB|BODY_4|0
+[5]|NN|BODY_6:BODY_1:BODY_4|0
+extended binary trees|VBN JJ NNS|BODY_3|0
+a simple and well-known result|DT JJ CC JJ NN|BODY_2|0
+a similar way|DT JJ NN|BODY_5:BODY_2|0
+efficiency|NN|BODY_2|0
+satisfies|NNS|BODY_5:BODY_18|0
+a b 0|DT NN CD|BODY_5:BODY_17|0
+all maximizations|DT NNS|BODY_2|0
+contradiction|NN|BODY_2|0
+bell laboratories|NN NNS|BODY_4|0
+ny|NN|BODY_7|0
+;\delta )e +2|NNP NNP NNP|BODY_11:BODY_16|0
+computation laboratory|NN NN|BODY_8|0
+x(|IN|BODY_5:BODY_10:BODY_20|0
+lemma 4.3|NN CD|BODY_1:BODY_3:BODY_7|0
+the known upper bound|DT JJ JJ VBN|ABSTRACT_2|0
+6|CD|BODY_1|0
+a known upper bound|DT JJ JJ VBN|BODY_2|0
+a simple proof|DT JJ NN|BODY_1|0
+an example|DT NN|BODY_1|0
+at least two|IN JJS CD|BODY_1|0
+santis and persiano|NNS CC NN|BODY_2|0
+the case 5|DT NN CD|BODY_2|0
+them|PRP|BODY_2|0
+theorem|PRP|BODY_1|0
+yorktown heights|JJ NNS|BODY_6|0
+the case \delta|DT NN NN|BODY_2:BODY_1|0
+the real numbers|DT JJ NNS|BODY_6:BODY_3|0
+a node|DT NN|BODY_3|0
+t. j. watson research ctr|DT JJS NN NN NN|BODY_5|0
+respect|NN|BODY_3|0
+a concave function|DT JJ NN|BODY_15:BODY_7|0
+the harmonic means|DT JJ NNS|BODY_7|0
+at most one|IN JJS CD|BODY_7|0
+universit|NN|BODY_4|0
+the study|DT NN|BODY_4|0
+ibm research division|JJ NN NN|BODY_4|0
+some successive level|DT JJ NN|BODY_7|0
+two dense levels|CD JJ NNS|BODY_5:BODY_2|0
+3.3|CD|BODY_2|0
+case|NN|BODY_15:BODY_7|0
+the internal nodes|DT JJ NNS|BODY_11:BODY_7|0
+theorem 4.5|NN CD|BODY_2|0
+maximum path length difference \delta|JJ NN NN NN NN|BODY_6:BODY_5|0
+the distances|DT NNS|BODY_6:BODY_9|0
+ff|NN|BODY_10:BODY_9|0
+( l|-LRB- NN|BODY_14:BODY_4:BODY_9|0
+turn|NN|BODY_6|0
+that h \delta|DT NN NN|BODY_7|0
+the base|DT NN|BODY_3:BODY_4|0
+a \gamma \delta )|DT NN NN -RRB-|BODY_2|0
+the banal|DT NN|BODY_3|0
+a external nodes|DT JJ NNS|BODY_41:BODY_39|0
+equality|NN|BODY_5|0
+such a tree|JJ DT NN|BODY_4:BODY_9|0
+a b and|DT NN CC|BODY_33|0
+a preliminary result|DT JJ NN|BODY_1:ABSTRACT_3|0
+the minimum path length|DT JJ NN NN|BODY_23|0
+lemma 4.7|NN CD|BODY_12:BODY_1:BODY_4|0
+the same function subject|DT JJ NN NN|BODY_9|0
+the proof|DT NN|BODY_1:BODY_3|0
+a careful reading|DT JJ NN|BODY_3|0
+klein and wood|NN CC NN|BODY_1|0
+the|DT|BODY_1:BODY_4|0
+applicazioni|NNS|BODY_3|0
+more than 2 external nodes|JJR IN CD JJ NNS|BODY_6|0
+ffl (|NN -LRB-|BODY_16|0
+the following way|DT JJ NN|BODY_7:BODY_8|0
+a 1 which|DT CD WDT|BODY_5|0
+the storage and retrieval|DT NN CC NN|BODY_3|0
+the least integer|DT JJS NN|BODY_2|0
+a 1|DT CD|BODY_5:BODY_4:BODY_10|0
+the geometric|DT JJ|BODY_6|0
+the first|DT JJ|BODY_2|0
+the following lemma|DT VBG NN|BODY_12:BODY_1|0
+the number|DT NN|BODY_6:BODY_7|0
+the last level|DT JJ NN|BODY_11:BODY_8|0
+2 a+1|CD NN|BODY_3:BODY_4|0
+the best case|DT JJS NN|BODY_6|0
+the three constraints|DT CD NNS|BODY_3:BODY_9|0
+the same number|DT JJ NN|BODY_10|0
+example|NN|BODY_1:BODY_4|0
+nonnegative integers|JJ NNS|BODY_2|0
+marios mavronicolas|NNS NNS|BODY_2|0
+a better bound|DT RB VBN|BODY_5:BODY_4|1
+this section|DT NN|BODY_2:BODY_1|2
+bound 1|JJ CD|BODY_6:BODY_3|0
+a 1 )|DT CD -RRB-|BODY_18:BODY_9|0
+an easy task|DT JJ NN|BODY_3|0
+his suggestions|PRP$ NNS|BODY_3|0
+organization|NN|BODY_1|0
+the constraints|DT NNS|BODY_1|0
+the results|DT NNS|BODY_3|0
+the second author|DT JJ NN|BODY_1|0
+n ;\delta|RB NNP|BODY_13|0
+[x|NN|BODY_22|0
+follows|VBZ|BODY_4:BODY_8|0
+the maximality|DT NN|BODY_8|0
+an integer|DT NN|BODY_3:BODY_9|1
+ff( \delta )|NN NNP -RRB-|BODY_5:BODY_18|0
+some 1g such|DT JJ JJ|BODY_6|0
+bound 2|VBD CD|BODY_4|0
+no more|RB JJR|BODY_38|0
+the distance|DT NN|BODY_4|0
+at most two dense levels|IN JJS CD JJ NNS|BODY_6:BODY_2|0
+the positive real numbers|DT JJ JJ NNS|BODY_9|0
+a b denote|DT NN NN|BODY_34|0
+an extended binary tree|DT JJ NN NN|BODY_2:BODY_1|0
+the symbols|DT NNS|BODY_32|0
+an upper bound that|DT JJ JJ IN|BODY_2|0
+the node|DT NN|BODY_5|0
+3.2 and ( 1|CD CC -LRB- CD|BODY_2|0
+the above definition|DT JJ NN|BODY_2|0
+the bound 2|DT VBN CD|BODY_2|0
+\delta ) as|NN -RRB- IN|BODY_6:BODY_1|0
+ff exist|NN VB|BODY_22|0
+some additional information|DT JJ NN|BODY_6|0
+]|NNS|BODY_2|0
+this important quantity|DT JJ NN|BODY_5|0
+a successful search|DT JJ NN|BODY_10|0
+an unsuccessful search|DT JJ NN|BODY_14|0
+[n|NN|BODY_4|0
+much less information|RB JJR NN|BODY_3|0
+by hypothesis|IN NN|BODY_3|0
+sufficient conditions|JJ NNS|BODY_2|0
+this work|DT NN|BODY_2|0
+i .e|FW FW|BODY_17|0
+respectively b levels|RB NN NNS|BODY_35|0
+the tree t|DT NN NN|BODY_11:BODY_15|0
+( a|-LRB- DT|BODY_11:BODY_4|0
+sufficiently small values|RB JJ NNS|BODY_15|0
+l i|JJ NN|BODY_3|0
+\gamma1)-tree|NN|BODY_6:BODY_12:BODY_4|0
+the maximum weight balance|DT JJ NN NN|BODY_8|0
+a binary tree t|DT JJ NN NN|BODY_4|0
+4 and \delta|CD CC JJ|BODY_2|0
+\delta)-tree t ( n ;\delta|CD NN -LRB- NN NN|BODY_5|0
+lemma 4.2|NN CD|BODY_2:BODY_1|0
+the integers|DT NNS|BODY_3|0
+the infinite set n \delta|DT JJ VBD NN NNP|BODY_7|0
+2 x|CD NN|BODY_2|0
+a worst-case search cost|DT JJ NN NN|BODY_6|0
+.e|NN|BODY_12|0
+every node|DT NN|BODY_5|0
+;x simple algebra|RB JJ NN|BODY_2|0
+unique (|JJ -LRB-|BODY_2|0
+ff \gamma 1)-tree|NN NN JJ|BODY_16:BODY_19:BODY_7|0
+our lower bound|PRP$ JJR VBN|BODY_1:BODY_3|1
+[4] )|NNP -RRB-|BODY_5|0
+a 1 external nodes|DT CD JJ NNS|BODY_23|0
+the first b|DT JJ NN|BODY_21|0
+the proofs|DT NNS|BODY_5|0
+computing|NN|BODY_2|0
+a times|DT NNS|BODY_31|0
+type ( 1|NN -LRB- CD|BODY_9|0
+length|NN|BODY_18|0
+the first two levels|DT JJ CD NNS|BODY_2|0
+any x|DT NN|BODY_4|0
+an important class|DT JJ NN|BODY_3|0
+any integer x|DT NN NN|BODY_17|0
+the following constraints|DT VBG NNS|BODY_5|0
+level dlg ne c|NN NN NN NN|BODY_2|0
+the bound above|DT VBN IN|BODY_2|0
+l exactly one external node|NN RB CD JJ NN|BODY_9|0
+at least 2 a+1 external nodes|IN JJS CD JJ JJ NNS|BODY_7|0
+the following b|DT VBG NN|BODY_25|0
+lower order|JJR NN|BODY_5|0
+the reader|DT NN|BODY_2|0
+let n|VB NN|BODY_1|0
+santis|NNS|BODY_7|0
+the upper bound|DT JJ JJ|BODY_5|0
+the logarithm|DT NN|BODY_3|0
+)|-RRB-|BODY_14|0
+the l i|DT JJ NN|BODY_5|0
+0 levels|CD NNS|BODY_22|0
+instance|NN|BODY_4|0
+persiano|NN|BODY_8|0
+the ratio|DT NN|BODY_5|0
+the most important and widely used data structure|DT RBS JJ CC RB VBN NNS NN|BODY_2|0
+n a power|NN DT NN|BODY_5|0
+level|NN|BODY_9|0
+the following upper|DT VBG JJ|BODY_3|0
+this lemma|DT NN|BODY_2|0
+the difference|DT NN|ABSTRACT_3|0
+the differences|DT NNS|BODY_11|0
+the (unique ) path|DT NN -RRB- NN|BODY_6|0
+type )|NN -RRB-|BODY_3|0
+2 \gammal 00 notice|CD JJ VBD NN|BODY_14|0
+;\delta ( x )|NNP -LRB- NN -RRB-|BODY_11|0
+the root and corresponds|DT NN CC NNS|BODY_8|0
+the paths|DT NNS|ABSTRACT_5:BODY_13|0
+di informatica|JJ NN|BODY_2|0
+n lg n )|RB JJ RB -RRB-|BODY_5|0
+maximal path length difference|JJ NN NN NN|ABSTRACT_5|0
+the writing lg x|DT VBG NN NN|BODY_2|0
+the parent|DT NN|BODY_10|0
+1 levels|CD NNS|BODY_26|0
+fringe|NN|BODY_3|0
+the first lower bound|DT RB JJR VBN|BODY_2|0
+a useful characterization|DT JJ NN|BODY_13|0
+0 a|CD DT|BODY_10|0
+base 2|NN CD|BODY_4|0
+an unspecified|DT JJ|BODY_4|0
+all the l i|PDT DT NN NN|BODY_5|0
+level l 3|NN NN CD|BODY_3|0
+some a|DT DT|BODY_11|0
+none|NN|BODY_2|0
+this node|DT NN|BODY_4|0
+an infinite subset n \delta ' n|DT JJ NN NN NN '' NN|BODY_2|0
+a simple derivation|DT JJ NN|BODY_4|0
+all levels|DT NNS|BODY_8|0
+a two ( n|DT CD -LRB- NN|BODY_4|0
+[1 ]|DT NN|BODY_7|0
+so on|RB IN|BODY_27|0
+n +|RB NN|BODY_7|0
+the positive natural numbers|DT JJ JJ NNS|BODY_6|0
+the sequences|DT NNS|BODY_4|0
+the work|DT NN|BODY_3|0
+level l and y \delta;l 2 \delta|NN NN CC NN NN CD NNP|BODY_4|0
+several such y \delta ;x|JJ JJ NN NNP NNP|BODY_2|0
+an external node|DT JJ NN|BODY_7|0
+14|CD|BODY_6|0
+our purposes|PRP$ NNS|BODY_7|0
+( 1|-LRB- CD|BODY_11|0
+\delta )e+1 \gamma2 dlg x(|NN CD CD NN IN|BODY_15:BODY_10|0
+a i external nodes|DT NN JJ NNS|BODY_2|0
+both sums|DT NNS|BODY_9|0
+ff +|NN NN|BODY_4|0
+a level l|DT NN NN|BODY_7|0
+the length|DT NN|BODY_5|0
+first proving|JJ NN|BODY_3|0
+fringe( t )|JJ NN -RRB-|BODY_6|0
+balanced binary trees|JJ JJ NNS|BODY_4|0
+the following three properties|DT VBG CD NNS|BODY_5|0
+its maximum (|PRP$ NN -LRB-|BODY_4|0
+$ n$ external nodes|$ JJ JJ NNS|ABSTRACT_4|0
+a class|DT NN|BODY_4|0
+the last one )|DT JJ CD -RRB-|BODY_8|0
+fixed values|VBN NNS|BODY_5|0
+n and \delta )|NN CC NN -RRB-|BODY_6|0
+configuration ( l b|NN -LRB- NN NN|BODY_13|0
+an infinite class|DT JJ NN|BODY_7|0
+an internal node|DT JJ NN|BODY_3|0
+l i subject|JJ NN NN|BODY_6|0
+first|JJ|BODY_7|0
+some z|DT NN|BODY_5|0
+the unique solution|DT JJ NN|BODY_15|0
+the same configuration|DT JJ NN|BODY_6|0
+ae|NNS|BODY_4|0
+ma|NN|BODY_11|0
+the (unique ) solution|DT NN -RRB- NN|BODY_11|0
+an t|DT NN|BODY_12|0
+while ( 2|IN -LRB- LS|BODY_7|0
+a c|DT NN|BODY_22|0
+l 0|JJ CD|BODY_4|0
+salerno )|NN -RRB-|BODY_7|0
+specht [8]|JJ NN|BODY_10|0
+a 0 a 0|DT CD DT CD|BODY_3|0
+the following|DT VBG|BODY_1|0
+binary trees 7|JJ NNS CD|BODY_2|0
+our notation|PRP$ NN|BODY_3|0
+n nodes|NN NNS|BODY_5|0
+the n external nodes|DT NN JJ NNS|BODY_8|0
+3|CD|BODY_1:BODY_3|0
+all|DT|BODY_8|0
+the equation|DT NN|BODY_16|0
+b 0|NN CD|BODY_6|0
+two children|CD NNS|BODY_5|0
+path length|NN NN|BODY_1|0
+some elementary facts|DT JJ NNS|BODY_4|0
+the equation x and dlg|DT NN NN CC NN|BODY_12|0
+n +1 )|RB CD -RRB-|BODY_4|0
+obtain|VB|BODY_3|0
+the mapping|DT NN|BODY_7|0
+a t 0|DT NN CD|BODY_4|0
+an external node e|DT JJ NN NN|BODY_2|0
+\delta;l (y \delta;l|NN IN NN|BODY_5|0
+2 z|CD NN|BODY_4|0
+5|CD|BODY_20|0
+each n 2 n \delta|DT NN CD NN NN|BODY_3|0
+level l+ \delta|NN NN NNP|BODY_5|0
+( 2|-LRB- CD|BODY_5|0
+an invertible mapping|DT JJ NN|BODY_4|0
+the absolute maximum|DT JJ NN|BODY_5|0
+h \delta;l|JJ NN|BODY_4|0
+1)-tree u|JJ NN|BODY_6:BODY_15:BODY_24|0
+minimum external path length and configuration ( l|JJ JJ NN NN CC NN -LRB- NN|BODY_4|0
+two ( non-isomorphic ) trees|CD -LRB- JJ -RRB- NNS|BODY_9|0
+such a structure|JJ DT NN|BODY_4|0
+$ n$|$ NN|ABSTRACT_6:ABSTRACT_5|0
+the two trees|DT CD NNS|BODY_8|0
+our attention|PRP$ NN|BODY_2|0
+such trees|JJ NNS|BODY_3|0
+type ( l|NN -LRB- NN|BODY_16|0
+term|NN|BODY_5|0
+level path length|NN NN NN|BODY_2|0
+a t|DT NN|BODY_4|0
+an configuration ( l|DT NN -LRB- NN|BODY_20|0
+( 1 )|-LRB- CD -RRB-|BODY_4|0
+dlg ne|IN NN|BODY_7|0
+2 )|CD -RRB-|BODY_9|0
+4.5|CD|BODY_2|0
+2 and x|CD CC SYM|BODY_3|0
+a 0 external nodes|DT CD JJ NNS|BODY_19|0
+\delta and|NN CC|BODY_1|0
+the previous section|DT JJ NN|BODY_1|0
+the maximum path length difference|DT NN NN NN NN|BODY_4|0
+1 \delta\gamma2|CD CD|BODY_8|0
+special nodes|JJ NNS|BODY_3|0
+an important measure|DT JJ NN|BODY_1|0
+no ( n|DT -LRB- NN|BODY_5|0
+more|JJR|BODY_9|0
+a we|DT PRP|BODY_13|0
+the value x|DT NN NN|BODY_7|0
+c|NN|BODY_5:BODY_3|0
+an elementary proof|DT JJ NN|ABSTRACT_1|0
+some external nodes|DT JJ NNS|BODY_8|0
+each a|DT DT|BODY_2|0
+all values|DT NNS|BODY_5|0
+a and then|DT CC RB|BODY_11|0
+a certain value ff( \delta )|DT JJ NN NN NNP -RRB-|BODY_10|0
+the above bound|DT RB VBN|BODY_4|0
+lemma 3.2|NN CD|BODY_7|0
+three levels|CD NNS|BODY_2|0
+the manuscript|DT NN|BODY_4|0
+external path length|JJ NN NN|BODY_7|0
+let l l|VB NN NN|BODY_1|0
+exactly f ( a|RB NN -LRB- DT|BODY_7|0
+n 2 n \delta|RB CD RB NNP|BODY_2|0
+the second|DT NN|BODY_24|0
+the shortest external path length|DT JJS JJ NN NN|BODY_8|0
+ne \gamma|NN NN|BODY_5|0
+\phi ( x )|NNP -LRB- NN -RRB-|BODY_2|0
+y \delta;l|NN NN|BODY_2|0
+a)-trees|NNS|BODY_6|0
+the above inequality|DT JJ NN|BODY_25|0
+a there|DT EX|BODY_3|0
+two ( non-isomorphic ) ( n|CD -LRB- JJ -RRB- -LRB- NN|BODY_4|0
+this result|DT NN|BODY_3|0
+the function function|DT NN NN|BODY_4|0
+1)-tree exists|CD VBZ|BODY_2|0
+induction|NN|BODY_2|0
+the unique ( n|DT JJ -LRB- NN|BODY_2|0
+the following property|DT JJ NN|BODY_9|0
+the natural numbers|DT JJ NNS|BODY_3|0
+more than two intermediate levels|JJR IN CD JJ NNS|BODY_3|0
+l 00 l 0 l 0|JJ VBD JJ CD JJ CD|BODY_9|0
+\delta2 z\gamma\delta|CD NN|BODY_7|0
+(y \delta ;x (y \delta ;x 1|NNP NN IN NNP NN IN CD|BODY_8|0
+all larger|DT JJR|BODY_6|0
+no less|RB JJR|BODY_40|0
+a tree internal( t )|DT NN NN NN -RRB-|BODY_8|0
+external( t|JJ NN|BODY_2|0
+bounds|NNS|BODY_9|0
+present upper bounds|JJ JJ NNS|BODY_3|1
+\delta;l lg|NN NN|BODY_8|0
+\delta)-tree t|CD NN|BODY_7|0
+a tedious computation|DT JJ NN|BODY_6|0
+either one|DT CD|BODY_24|0
+t )|NN -RRB-|BODY_6|0
+two accounts|CD NNS|BODY_4|0
+n=2 and n|NN CC NN|BODY_3|0
+each n|DT NN|BODY_2|0
+the behavior|DT NN|BODY_2|0
+( l path length|-LRB- JJ NN NN|BODY_5|0
+a tree $ t$|DT NN $ NN|ABSTRACT_2|0
+a lower bound|DT JJR VBN|BODY_3:ABSTRACT_1|1
+two consecutive levels|CD JJ NNS|BODY_6|0
+f ( a|NN -LRB- DT|BODY_17|0
+either blg \deltac \gamma|DT JJ NN NN|BODY_19|0
+the context or immaterial|DT NN CC JJ|BODY_6|0
+a ? log|DT . NN|BODY_5|0
+the difference f|DT NN NN|BODY_1|0
+a ) and (|DT -RRB- CC -LRB-|BODY_8|0
+m|NN|BODY_5|0
+the previously known upper bound|DT RB VBN JJ JJ|ABSTRACT_2|0
+every and n|DT CC NN|BODY_2|0
+new jersey ( usa )|JJ NN -LRB- NN -RRB-|BODY_5|0
+the function f|DT NN NN|BODY_3|0
+a case|DT NN|BODY_2|0
+m( n|NN RB|BODY_5|0
+external( t )|JJ NN -RRB-|BODY_6|0
+lemma 4.10|NN CD|BODY_16:BODY_1|0
+the above lemmata|DT JJ NN|BODY_2|0
+the first inequality|DT JJ NN|BODY_18|0
+4 and 2|CD CC CD|BODY_6|1
+lemma 4.6 hold|NN CD NN|BODY_4|0
+that \delta2 \delta|DT NN NN|BODY_3|0
+a configuration|DT NN|BODY_4|0
+a function|DT NN|BODY_2|0
+dlg|NN|BODY_7|0
+1)-trees|NNS|BODY_11|0
+ffi|JJ|BODY_11|0
+l the external path length|RB DT JJ NN NN|BODY_4|0
+a triplet ( n|DT NN -LRB- NN|BODY_2|0
+the large gap|DT JJ NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+which case|WDT NN|BODY_7|0
+otherwise the tree|RB DT NN|BODY_12|0
+a \gamma 2)-tree exist|DT NN JJ VB|BODY_10|0
+ff)-tree exists|NN VBZ|BODY_5|0
+their upper bound|PRP$ JJ JJ|BODY_5|0
+two non-consecutive dense levels|CD JJ JJ NNS|BODY_5|0
+a a|DT DT|BODY_3|0
+a \delta )|DT NN -RRB-|BODY_3|0
+the cost|DT NN|BODY_1|0
+a bitonic function|DT JJ NN|BODY_6|0
+a unique \delta|DT JJ NNP|BODY_4|0
+some 0|DT CD|BODY_16|0
+some a , \gamma1|DT DT , LS|BODY_9|0
+2. \delta|CD NN|BODY_4|0
+the writing dxe|DT VBG NN|BODY_1|0
+\theta( n 2 )|VBN RB CD -RRB-|BODY_8|0
+the corresponding (|DT JJ -LRB-|BODY_7|0
+exactly our bound|RB PRP$ VBN|BODY_6|0
+our bound exactly|PRP$ VBN RB|BODY_10|0
+x or x \delta|NN CC NN NN|BODY_8|0
+the natural logarithm|DT JJ NN|BODY_5:BODY_4|0
+3 )|CD -RRB-|BODY_6:BODY_19|0
+x \delta]|NN NN|BODY_23|0
+r +|JJ NN|BODY_10|0
+the next lemma|DT JJ NN|BODY_1|0
+exactly two children|RB CD NNS|BODY_7|0
+internal nodes|JJ NNS|BODY_3|0
+the originary nodes|DT JJ NNS|BODY_1|0
+l 0 n|NN CD RB|BODY_9|0
+a complete proof|DT JJ NN|BODY_4|0
+all its subtrees|DT PRP$ NNS|BODY_9|0
+4 , 1g|CD , CD|BODY_2|0
+parts b ) and c )|NNS NN -RRB- CC NN -RRB-|BODY_6|0
+this level|DT NN|BODY_1|0
+all n|DT NN|BODY_1|0
+0 external nodes|CD JJ NNS|BODY_1|0
+level l b|NN NN NN|BODY_12|0
+the grandparent e|DT JJ NN|BODY_1|0
+all the c i|DT DT NN NN|BODY_1|0
+its first level|PRP$ JJ NN|BODY_8|0
+the problem|DT NN|BODY_1|0
+the very first one )|DT JJ JJ NN -RRB-|BODY_9|0
+the previous lemma|DT JJ NN|BODY_4|0
+the additional constraint x example 1|DT JJ NN NN NN CD|BODY_10|0
+\delta;l g|JJ NN|BODY_8|0
+1 )|CD -RRB-|BODY_7|0
+this inequality|DT NN|BODY_1|0
+proof|NN|BODY_6:BODY_1|0
+view|NN|BODY_1|0
+acknowledgements|NNS|BODY_17|0
+the other implication|DT JJ NN|BODY_1|0
+( c ) h \delta|-LRB- NN -RRB- NN NN|BODY_1|0
+a simple application|DT JJ NN|BODY_1|0
+combining lemma|VBG NN|BODY_1|0
+notice|NN|BODY_1|0
+lemma 4.1|NN CD|BODY_1|0
+the class|DT NN|BODY_1|0
+any further|DT JJ|BODY_1|0
+the following notation|DT VBG NN|BODY_3|0
+the general case|DT JJ NN|BODY_1|0
+the above|DT JJ|BODY_5|0
+the longest and shortest such paths|DT JJS CC JJS JJ NNS|ABSTRACT_5|0
+the other child|DT JJ NN|BODY_1|0
+the maximal path length difference|DT JJ NN NN NN|ABSTRACT_1|0
+n internal nodes|RB JJ NNS|BODY_3|0
+these two levels|DT CD NNS|BODY_3|0
+l l \delta|JJ JJ NN|BODY_3|0
+lemma 3.1|NN CD|BODY_1|0
+this end|DT NN|BODY_1|0
+the analysis|DT NN|BODY_1|0
+at least 2 external nodes|IN JJS CD JJ NNS|BODY_10|0
+each external node|DT JJ NN|BODY_15:ABSTRACT_7|0
+infinitely many n|RB JJ NN|BODY_7|0
+the above three properties|DT JJ CD NNS|BODY_1|0
+the hypothesis|DT NN|BODY_1|0
+shortest external path length|JJS JJ NN NN|BODY_5|0
+the last two levels|DT JJ CD NNS|BODY_1|0
+ffl xg|JJ NN|BODY_1|0
+exactly one external node|RB CD JJ NN|BODY_2|0
+greater \delta|JJR NN|BODY_7|0
+a 1 \gamma2|DT CD CD|BODY_2|0
+the last one|DT JJ CD|BODY_6|0
+the  same  tree|DT JJ JJ JJ NN|BODY_9|0
+a more complete treatment )|DT RBR JJ NN -RRB-|BODY_4|0
+section 4 )|NN CD -RRB-|BODY_8|0
+way|NN|BODY_1|0
+an ( n|DT -LRB- NN|BODY_1|0
+type (|NN -LRB-|BODY_7|0
+type 3|NN CD|BODY_6|0
+the so obtained external path lengths|DT RB VBN JJ NN NNS|BODY_6|0
+both trees|DT NNS|BODY_11|0
+i|NN|BODY_7:BODY_8|0
+only elementary calculus|RB JJ NN|BODY_4|0
+all the trees|PDT DT NNS|BODY_1|0
+the tree t 0|DT NN NN CD|BODY_1|0
+an improved upper bound achievable|DT JJ JJ JJ JJ|BODY_1|0
+11 b|CD NN|BODY_7|0
+13 lemma 4.9|CD NN CD|BODY_3|0
+9 proof|CD NN|BODY_4|0
+nievergelt and wong [7|NN CC NN NNS|BODY_1|0
+particular|JJ|ABSTRACT_1|0
+2.1 ( kraft equality )|CD -LRB- NN NN -RRB-|BODY_2|0
+brevity|NN|BODY_1|0
+our upper bounds|PRP$ JJ NNS|BODY_3|1
+section 2|NN CD|BODY_1|0
+section 3|NN CD|BODY_1|1
+section 3.2|NN CD|BODY_1|0
+section 4|NN CD|BODY_1|1
+the following bound 4|DT VBG JJ CD|BODY_2|0
+this aim|DT NN|BODY_1|0
+this case|DT NN|BODY_1|0
+this into ( 2|DT IN -LRB- LS|BODY_1|0
+what|WP|BODY_1|0
+an admissible triplet|DT JJ NN|BODY_4|0
+the above inequalities|DT JJ NNS|BODY_1|0
+a particular structure|DT JJ NN|BODY_7|0
+tight upper and lower bounds|JJ JJ CC JJR NNS|TITLE_1|0
+maximum path difference \delta|JJ NN NN NN|BODY_9|0
+an proof|DT NN|BODY_28|0
+only one single dense level|RB CD JJ JJ NN|BODY_4|0
+positive holds|JJ NNS|BODY_4|0
+bound|VBN|BODY_4|0
+l lg jm|JJ NN NN|BODY_10|0
+the internal node|DT JJ NN|BODY_8|0
+these trees|DT NNS|BODY_4|1
+upper bounds|JJ NNS|BODY_1:ABSTRACT_1|0
+\delta)-tree and t|CD CC NN|BODY_4|0
+$ n$ and $ \delta\leq n/2$|$ NN CC $ JJ NN|ABSTRACT_4|0
+the sequel|DT NN|BODY_7|0
+an integer power|DT NN NN|BODY_1|0
+blg \deltac \gamma 1|JJ NN NN CD|BODY_21|0
+the previous power|DT JJ NN|BODY_8|0
+[2 , 3] )|CD , CD -RRB-|BODY_7|0
+\delta ) proof|NN -RRB- NN|BODY_6:BODY_13|0
+elementary calculus|JJ NN|BODY_2|0
+more than two external nodes|JJR IN CD JJ NNS|BODY_13|0
+1g|CD|BODY_5:BODY_11|0
+n \gamma 1|NN NN CD|BODY_7|0
+ff \gamma|NN NN|BODY_28|0
+some n|DT NN|BODY_1|0
+the above lemma|DT JJ NN|BODY_1|0
+f \delta|NN NN|BODY_6|0
+fixed n and \delta|VBD NN CC NNP|BODY_7|0
+2.)|CD|BODY_6|0
+( a ) h \delta ;x x|-LRB- DT -RRB- NN NN NN NN|BODY_1|0
+( b ) h \delta ;x x|-LRB- NN -RRB- NN NN NN NN|BODY_1|0
+2. background and notation|DT NN CC NN|BODY_1|0
+definition 4.4|NN CD|BODY_1|0
+example 3|NN CD|BODY_1|0
+introduction|NN|BODY_1|0
+lemma|NN|BODY_1|0
+nsf grant # nsf-ccr-90-07677|JJ NN # RB|BODY_1|0
+remark|NN|BODY_1|0
+the discussion following lemma 4.6|DT NN VBG NN CD|BODY_1|0

@@ -1,0 +1,1621 @@
+we|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8|3
+which|WDT|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+pebls|NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+that|WDT|BODY_6:BODY_5:ABSTRACT_5:BODY_15:BODY_1:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3|0
+the number|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_14:BODY_10:BODY_7:BODY_9|0
+one|CD|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+weights|NNS|BODY_12:BODY_5:BODY_3:BODY_4:BODY_7|0
+each|DT|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+1986|CD|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+propagation|NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7|0
+domains|NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_17:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_9|1
+)|-RRB-|BODY_6:BODY_12:BODY_5:BODY_17:BODY_13:BODY_3:BODY_10:BODY_4:BODY_7|0
+there|EX|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+the data|DT NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+training|NN|BODY_6:BODY_1:BODY_3:BODY_4|0
+the distance|DT NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4|0
+example|NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10|0
+the performance|DT NN|BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|1
+our algorithm|PRP$ NN|ABSTRACT_2:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_10:BODY_4|0
+our experiments|PRP$ NNS|BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+exemplars|NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_3:BODY_4:BODY_7|0
+id3|NNS|BODY_12:BODY_5:BODY_14:BODY_4:BODY_7:BODY_8|0
+this|DT|BODY_2:BODY_1:BODY_3|0
+classification accuracy|NN NN|BODY_11:BODY_1:BODY_2:BODY_4:BODY_8|0
+1990 )|CD -RRB-|BODY_6:BODY_5:BODY_11:BODY_16:BODY_13:BODY_2:BODY_4:BODY_10|0
+e .g.|NN NN|BODY_5:BODY_3|0
+stanfill and waltz|NN CC NN|BODY_5:BODY_1:BODY_3:BODY_4:BODY_8|0
+them|PRP|BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+memory|NN|BODY_5:BODY_2:BODY_3:BODY_10|0
+part|NN|BODY_6:BODY_2:BODY_9|0
+the training set|DT NN NN|BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+instances|NNS|ABSTRACT_6:BODY_1:BODY_2:BODY_3|0
+examples|NNS|ABSTRACT_2:BODY_2:BODY_3:BODY_7|0
+ff|NN|BODY_12:BODY_2:BODY_4:BODY_8:BODY_9|0
+performance|NN|BODY_6:BODY_1:BODY_2:BODY_4|0
+the exemplar|DT NN|BODY_6:BODY_5:BODY_15:BODY_7|0
+results|NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_8|1
+kbann|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+a set|DT NN|BODY_6:BODY_2:BODY_3|0
+all instances|DT NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+residues|NNS|BODY_6:BODY_5:BODY_3:BODY_4|0
+values|NNS|BODY_11:BODY_14:BODY_4:BODY_7|0
+the system|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+this domain|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+prediction|NN|BODY_21:BODY_2:BODY_3:BODY_7:BODY_8|0
+an exemplar|DT JJ|BODY_12:BODY_2:BODY_4:BODY_9|0
+classification|NN|BODY_11:BODY_3:BODY_4:BODY_8|0
+the database|DT NN|BODY_2:BODY_3:BODY_7|0
+an instance|DT NN|BODY_6:BODY_1:BODY_2:BODY_8|0
+a window|DT NN|BODY_6:BODY_14:BODY_3:BODY_4|0
+the features|DT NNS|BODY_6:BODY_5:BODY_11:BODY_1:BODY_9|0
+decision trees|NN NNS|BODY_6:BODY_1:BODY_3:BODY_4|0
+towell et al|NN NNP JJ|BODY_5:BODY_1:BODY_3:BODY_4|0
+the structure|DT NN|BODY_5:BODY_3:BODY_4:ABSTRACT_9|0
+comparison|NN|BODY_6:BODY_1:BODY_7:BODY_9|0
+back propagation|RB NN|BODY_6:BODY_3:BODY_9|0
+our results|PRP$ NNS|BODY_2:BODY_1:BODY_4|0
+the classification|DT NN|BODY_2:BODY_3:BODY_4|0
+a|DT|BODY_3:BODY_8|0
+a sequence|DT NN|BODY_6:BODY_2|0
+the chain|DT NN|BODY_5:BODY_3:BODY_10:BODY_4|0
+themselves|PRP|BODY_2:BODY_4|0
+the overlap metric|DT NN JJ|BODY_5:BODY_3:BODY_8|0
+the algorithm|DT NN|BODY_6:BODY_11:BODY_1:BODY_4|0
+classification time|NN NN|BODY_2:BODY_4|0
+features|NNS|BODY_6:BODY_18:BODY_3:BODY_10:BODY_8|0
+addition|NN|BODY_1:ABSTRACT_1|0
+secondary structure|JJ NN|BODY_2:BODY_9|0
+distance|NN|BODY_6:BODY_11:BODY_10|0
+a number|DT NN|BODY_5:BODY_3:BODY_4|0
+all|DT|BODY_6:BODY_1:BODY_3|0
+nearest neighbor|JJS NN|BODY_2:BODY_3:BODY_4|0
+equation 1|NN CD|BODY_6:BODY_1:BODY_4:BODY_7|0
+occurrence|NN|BODY_2:BODY_10|0
+the output|DT NN|BODY_1:BODY_2:BODY_4|0
+the accuracy|DT NN|BODY_6:BODY_5:BODY_8|0
+neural nets|JJ NNS|BODY_2:BODY_1:BODY_4:BODY_7|0
+these results|DT NNS|BODY_2:BODY_1|0
+nearest neighbor algorithms|JJS NN NNS|ABSTRACT_5:BODY_2:BODY_3:BODY_7|0
+a new example|DT JJ NN|BODY_6:BODY_11:BODY_1:BODY_3:BODY_4:BODY_8|0
+the baseline frequency|DT JJ NN|BODY_3:BODY_10|0
+the size|DT NN|BODY_5:BODY_2:BODY_7|0
+the experiments|DT NNS|BODY_2:BODY_3:BODY_7|0
+(|-LRB-|BODY_1:BODY_3:BODY_9|0
+points|NNS|ABSTRACT_3:BODY_8|0
+this task|DT NN|BODY_2:BODY_4:BODY_7|0
+the examples|DT NNS|BODY_6:ABSTRACT_2:BODY_4|0
+their best result|PRP$ JJS NN|BODY_5:BODY_2:BODY_4|0
+1|CD|BODY_5:BODY_17:BODY_1:BODY_3:BODY_14|0
+the training|DT NN|BODY_6:BODY_2:BODY_4|0
+two values|CD NNS|BODY_2:BODY_3|0
+et|VBD|BODY_1:BODY_4|0
+figure 4|NN CD|BODY_6:BODY_2|0
+percentages|NNS|BODY_11:BODY_3:BODY_7|0
+both|DT|BODY_6:BODY_1:BODY_3|0
+ibl|NN|BODY_6:BODY_2:BODY_4|0
+1989 )|CD -RRB-|BODY_12:BODY_15:BODY_3:BODY_8|0
+exception spaces|NN NNS|BODY_11:BODY_3:BODY_10|0
+1991|CD|BODY_6:BODY_13:BODY_8|0
+the task|DT NN|BODY_6:BODY_5:BODY_8|0
+other learning methods|JJ NN NNS|BODY_16:BODY_2:BODY_3:BODY_4|0
+our nearest neighbor algorithm|PRP$ JJS NN NN|BODY_1:BODY_2:ABSTRACT_3|0
+its memory|PRP$ NN|BODY_6:BODY_5:BODY_7|0
+a weight|DT NN|BODY_2:BODY_4|0
+dna promoter sequences|NN NN NNS|BODY_18:ABSTRACT_8:BODY_14|0
+testing|NN|BODY_6:BODY_5:BODY_1|0
+the same data|DT JJ NNS|BODY_6:BODY_4:BODY_7|0
+holley and karplus|NN CC NN|BODY_11:BODY_2|0
+the pebls algorithm|DT NNS NN|BODY_2:BODY_3:BODY_4|1
+a protein|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+learning|NN|BODY_6:BODY_1:BODY_3:BODY_10|0
+our mvdm|PRP$ NN|BODY_3:BODY_4|0
+respect|NN|BODY_6:BODY_1:BODY_7|0
+aha and kibler , 1989|NN CC NN , CD|BODY_11:BODY_13|0
+e.g.|FW|BODY_1:BODY_14:BODY_10|0
+each exemplar|DT NN|BODY_2:BODY_1:BODY_3|0
+the weighted version|DT JJ NN|BODY_2:BODY_3|0
+each feature|DT NN|BODY_5:BODY_3:BODY_7|0
+'s time|POS NN|BODY_6:BODY_2|0
+exemplar weights|JJ NNS|BODY_2:BODY_3:BODY_8|0
+itself|PRP|BODY_5:BODY_2|0
+the point|DT NN|BODY_1:BODY_3:BODY_7:BODY_20|0
+the problem|DT NN|BODY_5:BODY_3|0
+the instances|DT NNS|ABSTRACT_8:BODY_3:BODY_8|0
+( e .g.|-LRB- NN NNP|BODY_5:BODY_3:BODY_4|0
+algorithms|NNS|BODY_13:BODY_1:BODY_7|0
+a new instance|DT JJ NN|BODY_11:BODY_3|0
+each time|DT NN|BODY_6:BODY_5|0
+the power|DT NN|BODY_3:BODY_10|0
+x|SYM|BODY_3:BODY_7:BODY_8|0
+amino acids|DT NNS|BODY_6:BODY_3|0
+shavlik et al|NN NNP JJ|BODY_5:BODY_1:BODY_7|0
+coil|NN|BODY_5:BODY_4:BODY_10:BODY_8|0
+the domain|DT NN|BODY_6:BODY_5:BODY_7|0
+fi|NN|BODY_5:BODY_14|0
+value difference tables|NN NN NNS|BODY_2:BODY_8|0
+the percentages|DT NNS|BODY_2:BODY_3|0
+exceptions|NNS|BODY_5:BODY_3|0
+1990|CD|BODY_5:BODY_13:BODY_7|0
+post-processing|NN|BODY_3|0
+the secondary structure|DT JJ NN|BODY_5:BODY_1:BODY_4|0
+these domains|DT NNS|BODY_2:BODY_1:BODY_10|0
+salzberg|NN|BODY_2:BODY_14|0
+what|WP|BODY_2:BODY_1:BODY_3|0
+letters|NNS|BODY_2:BODY_3|0
+table 7|NN CD|BODY_2:BODY_3|0
+aha|NN|BODY_6:BODY_12:BODY_8|0
+the use|DT NN|BODY_2:ABSTRACT_3:BODY_3|0
+the promoter sequence database|DT NN NN NN|BODY_5:BODY_2|0
+the results|DT NNS|BODY_2:BODY_1|0
+this problem|DT NN|BODY_5:BODY_3:BODY_7|0
+table 5|NN CD|BODY_2:BODY_1:BODY_3|0
+the complexity|DT NN|BODY_2:BODY_4|0
+the term|DT NN|BODY_1:BODY_2:BODY_4|0
+sequences|NNS|BODY_2:BODY_3|0
+symbolic features|JJ NNS|ABSTRACT_4:TITLE_2:BODY_2|0
+the space|DT NN|BODY_6:BODY_5:BODY_9|0
+the central residue|DT JJ NN|BODY_6:BODY_4|0
+the table|DT NN|BODY_1:BODY_4|0
+the classification performance|DT NN NN|BODY_5:BODY_4|0
+the nearest neighbor algorithm|DT JJS NN NN|BODY_1:BODY_4|0
+the three categories|DT CD NNS|BODY_3:BODY_4|0
+our distance formula|PRP$ NN NN|BODY_3:BODY_4|0
+the computation|DT NN|BODY_2:BODY_3|0
+training and test sets|NN CC NN NNS|BODY_6:BODY_5|0
+the back propagation|DT NN NN|BODY_11:BODY_5|0
+3|CD|BODY_5:BODY_9|0
+experiments|NNS|BODY_2:BODY_3:BODY_4|0
+that distances|DT NNS|BODY_10:BODY_9|0
+a difference|DT NN|BODY_2|0
+rosenberg|NNP|BODY_10:BODY_4|0
+instance space|NN NN|BODY_8|0
+sections|NNS|BODY_1:BODY_3|0
+a local encoding|DT JJ NN|BODY_5:BODY_1|0
+protein secondary structure|NN JJ NN|BODY_11:ABSTRACT_7|0
+( salzberg|-LRB- NN|BODY_5:BODY_4|0
+feature values|NN NNS|BODY_3:BODY_9|0
+towell|NN|BODY_2:BODY_10|0
+qian and sejnowski|NN CC NN|BODY_6:BODY_1:BODY_8|0
+distances|NNS|BODY_4:BODY_7|0
+the instance|DT NN|BODY_5|0
+terms|NNS|BODY_3:BODY_4|0
+good performance|JJ NN|BODY_2:BODY_3|0
+the alphabet|DT NN|BODY_5:BODY_4|0
+the window|DT NN|BODY_7:BODY_9|0
+the subject|DT NN|BODY_3|0
+holley and karplus ( 1989 )|NN CC NN -LRB- CD -RRB-|BODY_5:BODY_4|0
+a matrix|DT NN|BODY_2:BODY_3|0
+considerable attention|JJ NN|BODY_5:BODY_2|0
+these restrictions|DT NNS|BODY_2:BODY_1|0
+v 1|NN CD|BODY_10:BODY_7|0
+shavlik|NN|BODY_11:BODY_1:BODY_10|0
+the feature|DT NN|BODY_5:BODY_13|0
+initial weights|JJ NNS|BODY_3|0
+interesting exceptions|JJ NNS|BODY_2|0
+stored points|VBN NNS|BODY_2|0
+the general patterns|DT JJ NNS|BODY_3|0
+21|CD|BODY_6:BODY_5|0
+table 9|NN CD|BODY_2|0
+the 51 phonemes|DT CD NNS|BODY_3:BODY_4|0
+a function|DT NN|BODY_6:BODY_9|0
+the prediction|DT NN|BODY_17:BODY_13|0
+54 phonemes|CD NNS|BODY_2|0
+a rule|DT NN|BODY_2|0
+an ibl system|DT JJ NN|BODY_2|0
+expensive methods|JJ NNS|BODY_2|0
+text pronunciation|NN NN|BODY_2|0
+two points|CD NNS|BODY_2|0
+speed|NN|BODY_5:ABSTRACT_4|0
+the brown corpus|DT JJ NN|BODY_2:BODY_3|0
+ff helix|NN NN|BODY_6:BODY_8|0
+current results|JJ NNS|BODY_3|0
+the ibl framework|DT JJ NN|BODY_3|0
+noisy instances|JJ NNS|BODY_2:BODY_3|0
+the weights|DT NNS|BODY_5:BODY_1|0
+this paper|DT NN|BODY_1:BODY_10:BODY_8|1
+1988|CD|BODY_15:BODY_9|0
+a series|DT NN|BODY_5:BODY_2:BODY_3|0
+the tree|DT NN|BODY_6:BODY_4:BODY_7|0
+v 2|RB CD|BODY_11:BODY_3|0
+size|NN|BODY_5|0
+a training set|DT NN NN|BODY_10:BODY_4|0
+the impact|DT NN|BODY_3:BODY_10|0
+the new instance|DT JJ NN|BODY_5:BODY_1|0
+the residue|DT NN|BODY_5:BODY_3|0
+the word pronunciation problem|DT NN NN NN|BODY_2:BODY_3|0
+this metric|DT JJ|BODY_2:BODY_3|0
+1989|CD|BODY_11:BODY_2|0
+each instance|DT NN|BODY_2:BODY_3|0
+10 times|CD NNS|BODY_5:BODY_3|0
+three categories|CD NNS|BODY_5:BODY_4|0
+symbolic values|JJ NNS|BODY_3:BODY_4|0
+their performance history|PRP$ NN NN|BODY_6:BODY_7|0
+the closest|DT JJS|BODY_12:BODY_2|0
+the exemplars|DT NNS|BODY_1:BODY_3|0
+the english language|DT JJ NN|BODY_6:BODY_5|0
+a manner|DT NN|BODY_6:BODY_8|0
+different features|JJ NNS|BODY_5|0
+wx|NN|BODY_10:BODY_8|0
+accuracy|NN|BODY_4:BODY_7|0
+the best set|DT JJS NN|BODY_6:BODY_7|0
+our instance-based learning algorithm|PRP$ JJ NN NN|BODY_2:BODY_1|0
+their version|PRP$ NN|BODY_6:BODY_5|0
+the relative importance|DT JJ NN|BODY_4|0
+a feature space|DT NN NN|BODY_4:BODY_9|0
+different window sizes|JJ NN NNS|BODY_11:BODY_4|0
+only symbolic-valued features|RB JJ NNS|BODY_2|0
+three|CD|BODY_1:BODY_7|0
+joanne|NNP|BODY_2|0
+richard sutton|JJ NN|BODY_2|0
+the english pronunciation task|DT JJ NN NN|BODY_1:BODY_2|0
+our mvdm metric|PRP$ NN JJ|BODY_2|0
+the metric|DT JJ|BODY_5|0
+a measure|DT NN|BODY_6:BODY_5|0
+a capacity|DT NN|BODY_4|0
+the original vdm|DT JJ NN|BODY_3|0
+symbolic feature values|JJ NN NNS|BODY_6:BODY_7|0
+no fewer than two such residues|DT JJR IN CD JJ NNS|BODY_4|0
+1991 )|CD -RRB-|BODY_6:BODY_9|0
+1986 )|CD -RRB-|BODY_6:BODY_7|0
+aha and kibler ( 1989 )|NN CC NN -LRB- CD -RRB-|BODY_4|0
+no method incorporating only local information|DT NN NN RB JJ NN|BODY_2|0
+noisy or exceptional instances|JJ CC JJ NNS|BODY_2|0
+the 60-70 % range|DT CD NN NN|BODY_4|0
+a class|DT NN|BODY_4|0
+simplicity|NN|BODY_6:ABSTRACT_5|0
+english text|JJ NN|BODY_2:ABSTRACT_9|0
+times|NNS|BODY_6:BODY_3:BODY_7|0
+grant|NN|BODY_5|0
+david aha|JJ NN|BODY_3|0
+three anonymous reviewers|CD JJ NNS|BODY_3|0
+those|DT|BODY_4:BODY_10|0
+training set size|NN NN NN|BODY_2|0
+the value|DT NN|BODY_4|0
+some|DT|BODY_6:BODY_1|0
+13/106 o'neill|CD NN|BODY_8|0
+270 possible classes|CD JJ NNS|BODY_5|0
+similar economic situation|JJ JJ NN|BODY_8|0
+this data set|DT NN NN|BODY_1:BODY_3|0
+the same data set|DT JJ NN NN|BODY_2|0
+advantage|NN|BODY_4|0
+( non-learning ) rule-based approaches ( kontogiorgios|-LRB- JJ -RRB- JJ NNS -LRB- NNS|BODY_3|0
+other methods|JJ NNS|BODY_5:BODY_8|0
+ibl algorithms|JJ NNS|BODY_11:BODY_3|0
+kabsch and sander|NN CC NN|BODY_8|0
+an ff-helix|DT NN|BODY_5|0
+another|DT|BODY_7|0
+this figure|DT NN|BODY_2|0
+the composition|DT NN|BODY_2|0
+the negative examples|DT JJ NNS|BODY_2:BODY_1|0
+tables|NNS|BODY_3|0
+a wide range|DT JJ NN|BODY_12:BODY_6|0
+19/106 nearest neighbor ( overlap|CD JJS NN -LRB- NN|BODY_7|0
+a decstation 3100 train|DT NN CD NN|BODY_7|0
+table 8|NN CD|BODY_1:BODY_2|0
+shavlik et al. , 1989 )|NN FW FW , CD -RRB-|BODY_6|0
+our data|PRP$ NNS|BODY_6|0
+. correlations|. NNS|BODY_5|0
+the values|DT NNS|BODY_6:BODY_2|0
+question|NN|BODY_6:BODY_7|0
+all features|DT NNS|BODY_5:ABSTRACT_5|0
+fundamental problem|JJ NN|BODY_3|0
+each part|DT NN|BODY_5|0
+that nearest neighbor|IN JJS NN|BODY_4:BODY_9|0
+the feature values|DT NN NNS|BODY_1:BODY_7|1
+store only|NN RB|BODY_3|0
+shavlik (|NN -LRB-|BODY_5|0
+accuracies|NNS|BODY_3|0
+two|CD|BODY_17:BODY_4|0
+the way|DT NN|BODY_5:BODY_3|0
+the national science foundation|DT JJ NN NN|BODY_6|0
+their method|PRP$ NN|BODY_2|0
+a fi region|DT JJ NN|BODY_6|0
+the expression|DT NN|BODY_11|0
+the perceptron learning model|DT NN VBG NN|BODY_2|0
+objects|NNS|BODY_2|0
+the folded structure|DT JJ NN|BODY_2|0
+a classification|DT NN|BODY_7|0
+sejnowski and rosenberg|NN CC NN|BODY_2|0
+tion|NN|BODY_5|0
+value difference|NN NN|BODY_2|0
+the first respect|DT JJ NN|BODY_2|0
+table 4|NN CD|BODY_1:BODY_4|0
+only 115|RB CD|BODY_6|0
+many months|JJ NNS|BODY_2|0
+sets|NNS|BODY_4|0
+window z|NN FW|BODY_2|0
+a database|DT NN|BODY_2|0
+salzberg 1989 , 1990 )|NN CD , CD -RRB-|BODY_3:BODY_7|0
+our learning model|PRP$ NN NN|BODY_9|0
+ibl models|JJ NNS|BODY_2|0
+two instances|CD NNS|BODY_2:BODY_4|0
+each exception space|DT NN NN|BODY_2|0
+a distributed output encoding|DT VBN NN NN|BODY_4:BODY_8|0
+other information|JJ NN|BODY_1:BODY_2|0
+99.95 % certainty d.f|CD NN NN NN|BODY_10|0
+a fi-sheet|DT NN|BODY_2|0
+a threshold )|DT NN -RRB-|BODY_6|0
+global characteristics|JJ NNS|BODY_4|0
+decision tree methods|NN NN NNS|BODY_5:BODY_4|0
+numeric features|JJ NNS|BODY_3:BODY_4|0
+other models|JJ NNS|BODY_2|0
+the other hand|DT JJ NN|BODY_1|0
+each example|DT NN|BODY_1:BODY_8|0
+a distributed encoding|DT VBN NN|BODY_2|0
+detail|NN|BODY_7|0
+a tightly-coupled massively parallel architecture|DT JJ JJ JJ NN|BODY_7|0
+these distances|DT NNS|BODY_3|0
+the tables|DT NNS|BODY_1:BODY_9|0
+thanks|NNS|BODY_1|0
+the method|DT NN|BODY_7|0
+show|NN|BODY_2:BODY_10|0
+the sound and stress|DT NN CC NN|BODY_4|0
+partition space|NN NN|BODY_2|0
+new instances|JJ NNS|BODY_1:BODY_9|0
+the distance calculation|DT NN NN|BODY_2|0
+proteins|NNS|BODY_3|0
+value difference table feature|NN NN NN NN|BODY_16|0
+instance|NN|BODY_1:BODY_7|0
+all residues|DT NNS|BODY_5|0
+t|NN|BODY_6|0
+a third measure|DT JJ NN|BODY_3|0
+the left|DT NN|BODY_6:BODY_19|0
+feature space|NN NN|BODY_4:ABSTRACT_10|0
+67.8 (|CD -LRB-|BODY_3|0
+large , general rules|JJ , JJ NNS|BODY_3|0
+the fact|DT NN|BODY_2|0
+different randomly-chosen|JJ NNS|BODY_3|0
+the experimenters|DT NNS|BODY_3|0
+instance-based learning|JJ NN|BODY_1:BODY_2|0
+both large ( protein folding )|DT JJ -LRB- NN NN -RRB-|BODY_5|0
+our preliminary experiments|PRP$ JJ NNS|BODY_6:BODY_1|0
+small ( promoter sequences|JJ -LRB- NN NNS|BODY_6|0
+no theoretical importance|DT JJ NN|BODY_8|0
+the top|DT NN|BODY_2|0
+either noise or exceptions |DT NN CC NNS|BODY_2|0
+the training and test sets|DT NN CC NN NNS|BODY_5:BODY_13|0
+gtpgksfnlnfdtg. central residue qian and sejnowski ( 1988 )|JJR JJ NN NN CC NN -LRB- CD -RRB-|BODY_3|0
+a few minutes|DT JJ NNS|BODY_3|0
+( this metric|-LRB- DT JJ|BODY_1|0
+c fi and c coil|NN NN CC NN NN|BODY_2|0
+further experiments|JJ NNS|BODY_1|0
+similar definitions|JJ NNS|BODY_1|0
+such a strategy|JJ DT NN|BODY_2|0
+the modified value difference metric|DT JJ NN NN JJ|BODY_2|0
+the over- lap|DT NNP NN|BODY_2|0
+the primary structure|DT JJ NN|BODY_2|0
+the remaining examples|DT VBG NNS|BODY_2|0
+the test phase|DT NN NN|BODY_1|0
+this sequence|DT NN|BODY_1|0
+this weighting scheme|DT NN NN|BODY_1|0
+an example|DT NN|BODY_1:BODY_3|0
+this weight|DT NN|BODY_6|0
+1 i|CD NN|BODY_2|0
+one slightly more|CD RB RBR|BODY_4|1
+previous methods|JJ NNS|BODY_3|0
+the partitioning|DT NN|BODY_3|0
+3 qian|CD NN|BODY_2|0
+a test|DT NN|BODY_12|0
+the accurate prediction|DT JJ NN|BODY_8|0
+operation|NN|BODY_2|0
+standard back propagation|JJ RB NN|BODY_9|0
+k-nearest-neighbor learning|NN NN|BODY_6|0
+two examples|CD NNS|BODY_4:BODY_7|0
+some stored instances|DT VBN NNS|BODY_7|0
+real time|JJ NN|BODY_6|0
+a filter ( e .g.|DT NN -LRB- NN NN|BODY_5|0
+28.6 %|CD NN|BODY_4|0
+its region|PRP$ NN|BODY_3|0
+8/106 id3|CD NN|BODY_6|0
+this process|DT NN|BODY_3|0
+different values|JJ NNS|BODY_4:BODY_7|0
+the largest window|DT JJS NN|BODY_6|0
+the 99.95 % confidence level|DT CD NN NN NN|BODY_4|0
+77 %|CD NN|BODY_3|0
+back propaga|RB NN|BODY_4|0
+the two sets|DT CD NNS|BODY_3|0
+experts|NNS|BODY_6|0
+window size skew window size -3|NN NN JJ NN NN NN|BODY_15|0
+the basis|DT NN|BODY_5|0
+64.3 %|CD NN|BODY_3|0
+106 proteins|CD NNS|BODY_3|0
+exception|NN|BODY_6|0
+predicting tertiary|VBG JJ|BODY_2|0
+a 4 3 table 2|DT CD CD NN CD|BODY_15|0
+the learning and classification algorithms|DT NN CC NN NNS|BODY_3|0
+its superiority|PRP$ NN|BODY_3|0
+an ff|DT NN|BODY_5|0
+groups|NNS|BODY_3|0
+transcription|NN|BODY_10|0
+figure 2|NN CD|BODY_6:BODY_1|0
+a contiguous sequence|DT JJ NN|BODY_3|0
+percent unique patterns|NN JJ NNS|BODY_14|0
+other learning algorithms|JJ VBG NNS|BODY_7|0
+1988 )|CD -RRB-|BODY_4|0
+the sequence|DT NN|BODY_8|0
+a hybrid learning method|DT JJ NN NN|BODY_2|0
+account|NN|BODY_2|0
+more reliable classifiers|RBR JJ NNS|BODY_8|0
+table 11|NN CD|BODY_5:BODY_1|0
+quinlan|NN|BODY_6:BODY_3|0
+the larger weight|DT JJR NN|BODY_6:BODY_4|0
+the k nearest neighbors|DT NN JJS NNS|BODY_8|0
+the table 3|DT NN CD|BODY_13|0
+b and c|NN CC NN|BODY_3|0
+two possible values|CD JJ NNS|BODY_12:BODY_9|0
+others|NNS|BODY_4:BODY_9|0
+a , b|DT , NN|BODY_10|0
+the training and test|DT NN CC NN|BODY_7|0
+6 99.35 99.41 99.41 99.41 99.36 99.29 99.23 7 99.50 99.53 99.54 99.52 99.48 99.42 99.36 9 99.62 99.63 99.63 99.64 99.62 99.58 99.54 14 99.72 99.73 99.72 99.72 99.71 99.71 99.71 19 99.76 99.76 99.75|CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD CD|BODY_16|0
+the descriptive vectors|DT NN NNS|BODY_3|0
+the overall frequencies|DT JJ NNS|BODY_3|0
+cost and salzberg|NN CC NN|BODY_15:BODY_10|0
+2.3 weighted exemplars|CD JJ NNS|BODY_5|0
+this encoding|DT NN|BODY_2|0
+the left side|DT JJ NN|BODY_2|0
+all techniques|DT NNS|BODY_2|1
+much less native speakers|RB JJR JJ NNS|BODY_6|1
+the same window size|DT JJ NN NN|BODY_3|0
+cost ( 1990|NN -LRB- CD|BODY_2|0
+x i|SYM FW|BODY_2|0
+other algorithms|JJ NNS|BODY_2:BODY_8|0
+the the original sejnowski and rosenberg study|DT DT JJ NN CC NN NN|BODY_3|0
+classification performance|NN NN|BODY_4|0
+algorithm % correct c ff c fi c coil|NN NN JJ NN NN NN JJ NN NN|BODY_7|0
+the individual residues|DT JJ NNS|BODY_3|0
+the likelihood|DT NN|BODY_3|0
+a certain number|DT JJ NN|BODY_2|0
+many exemplars|JJ NNS|BODY_2|0
+% fi % coil|NN NN NN NN|BODY_9|0
+the idea|DT NN|BODY_1:BODY_9|0
+the plane|DT NN|BODY_3|0
+the main experiments|DT JJ NNS|BODY_2|0
+continued research|JJ NN|BODY_2|0
+comparisons|NNS|BODY_5:BODY_1|0
+the primary sequence|DT JJ NN|BODY_5:BODY_1|0
+0.41 0.32 0.46|CD CD CD|BODY_9|0
+atomic coordinates|JJ NNS|BODY_6|0
+such encodings|JJ NNS|BODY_2:BODY_4|0
+all possible classifica|DT JJ NN|BODY_5|0
+representation and operation|NN CC NN|BODY_2|0
+the somewhat more restricted set|DT RB RBR JJ NN|BODY_4|0
+71.0 0.47 0.45 0.40 qian and sejnowski 64.3 0.41 0.31 0.41 holley and karplus|CD CD CD CD JJ CC JJ CD CD CD CD NN CC NN|BODY_8|0
+tures|NNS|BODY_7|0
+the total number|DT JJ NN|BODY_10|0
+a more sophisticated treatment|DT RBR JJ NN|ABSTRACT_2|0
+( % correct ) ( % correct ) back propagation 63.0 72.3|-LRB- NN JJ -RRB- -LRB- NN JJ -RRB- RB NN CD CD|BODY_4|0
+readers|NNS|BODY_8|0
+window size window unweighted holley & qian & size pebls pebls karplus sejnowski 9 64.7 65.6 62.3 62.3 19 69.2 71.0 62.6|NN NN NN JJ NN CC NN CC NN NNS NNS NN NN CD CD CD CD CD CD CD CD CD|BODY_3|0
+b ) 6= ffi( b|NN -RRB- CD IN NN|BODY_9|0
+class fi|NN NN|BODY_4|0
+the air force office|DT NN NN NN|BODY_3|0
+100 17142 26.1 19.5 54.4 test 28 4476 21.8 23.1 55.1|CD CD CD CD CD NN CD CD CD CD CD|BODY_10|0
+learning algorithms|VBG NNS|BODY_5|0
+48 %|CD NN|BODY_11|0
+a fold classification|DT NN NN|BODY_7|0
+globular structures|JJ NNS|BODY_2|0
+occurrences|NNS|BODY_11|0
+a modified value-difference metric|DT VBN NN JJ|BODY_2|0
+et al|NNP NN|BODY_1|0
+3.1-3.3|CD|BODY_2|0
+an advantage|DT NN|BODY_4|0
+algorithm local encoding|NN JJ VBG|BODY_3|0
+four major differences|CD JJ NNS|BODY_3|0
+ii|NNS|BODY_3|0
+their metric (vdm)|PRP$ JJ NN|BODY_2|0
+these likelihoods|DT NNS|BODY_6|0
+a feature|DT NN|BODY_5:BODY_15|0
+these two techniques results|DT CD NNS NNS|BODY_2|0
+the rule |DT NN|BODY_2|0
+7 instances|CD NNS|BODY_9|0
+problems|NNS|BODY_13:BODY_3|0
+small areas|JJ NNS|BODY_3|0
+90 %|CD NN|BODY_11|0
+those whose classification accuracies|DT WP$ NN NNS|BODY_2|0
+p ff|NN NN|BODY_4|0
+similar likelihoods|JJ NNS|BODY_4|0
+times value 1|NNS NN CD|BODY_11|0
+the back propagation algorithm|DT NN NN NN|BODY_11:BODY_4|0
+the economy|DT NN|BODY_5|0
+its representation|PRP$ NN|BODY_6:BODY_12|0
+the value difference|DT NN NN|BODY_4|0
+each column|DT NN|BODY_3|0
+classification accuracy ( % )|NN NN -LRB- NN -RRB-|BODY_2|0
+99. pattern|DT NN|BODY_17|0
+our technique|PRP$ NN|BODY_2|0
+the domains|DT NNS|BODY_8|0
+all such algorithms|DT JJ NNS|BODY_3|0
+magnitude|NN|BODY_10|0
+sejnowski|NN|BODY_9|0
+secondary structure ( e .g.|JJ NN -LRB- NN NN|BODY_3|0
+correct predictions|JJ NNS|BODY_4|0
+good commercial systems|JJ JJ NNS|BODY_5|1
+no learning technique|DT NN NN|BODY_3|1
+the weighted algorithm|DT JJ NN|BODY_2|0
+size five|NN CD|BODY_2|0
+the protein sequences|DT NN NNS|BODY_2|0
+scientific re-search|JJ NN|BODY_4|0
+the numbers|DT NNS|BODY_2|0
+protein segments residues %|NN NNS NNS NN|BODY_8|0
+artificial intelligence|JJ NN|BODY_4|0
+a given domain|DT VBN NN|BODY_3|0
+-2 means|RB VBZ|BODY_12|0
+a robust instance-based learning algorithm|DT JJ JJ NN NN|BODY_3|0
+5 \theta|CD NN|BODY_3|0
+the phoneme/stress pairs|DT NN NNS|BODY_6|0
+a different form|DT JJ NN|BODY_2|0
+) 6/106 back propagation|-RRB- CD NN NN|BODY_5|0
+the other learning algorithms|DT JJ NN NNS|ABSTRACT_2|0
+each value|DT NN|BODY_12|0
+size five or six|NN CD CC CD|BODY_4|0
+the learning community|DT VBG NN|BODY_3|0
+64.2 %|CD NN|BODY_9|0
+factors|NNS|BODY_15|0
+several domain-specific learning algorithms|JJ JJ NN NNS|BODY_6|0
+the o'neill method|DT NN NN|BODY_8|0
+1978 ) , chou and fasman|CD -RRB- , NN CC NN|BODY_6|0
+the percentage|DT NN|BODY_2|0
+instance weights|NN NNS|BODY_2|0
+vastly more time|RB JJR NN|BODY_2|0
+a |DT|BODY_6|0
+c 1|NN CD|BODY_9|0
+classification accuracies|NN NNS|BODY_10|0
+the entire data set )|DT JJ NN NN -RRB-|BODY_6|0
+the net result|DT JJ NN|BODY_3|0
+the optimal window size|DT JJ NN NN|BODY_3|0
+ours ( mvdm)|JJ -LRB- NN|BODY_3|0
+these properties|DT NNS|BODY_2|0
+approximately 17 residues|RB CD NNS|BODY_4|0
+experimenter|NN|BODY_5|0
+the central letter|DT JJ NN|BODY_7|0
+protein structure prediction|NN NN NN|BODY_3|0
+'s (|POS -LRB-|BODY_11|0
+our implementation ( pebls|PRP$ NN -LRB- NNS|BODY_2|0
+the style|DT NN|BODY_4|0
+their work|PRP$ NN|BODY_7|0
+the feature space|DT NN NN|ABSTRACT_3:BODY_4|0
+.e|NN|BODY_3|0
+effective practical algorithms|JJ JJ NNS|BODY_6|0
+time|NN|BODY_4|0
+consecutive acids|JJ NNS|BODY_3|0
+post|NN|BODY_4|0
+no overlap|DT NN|BODY_2|0
+different parts|JJ NNS|BODY_4|0
+three values|CD NNS|BODY_9|0
+the objective|DT NN|BODY_3|0
+rosenberg ( 1987 )|NN -LRB- CD -RRB-|BODY_6|0
+our method|PRP$ NN|BODY_2|0
+a nearest neighbor system|DT JJS NN NN|BODY_5|0
+the stanfill-waltz vdm|DT NN NN|BODY_2|0
+waltz and stanfill|NN CC NN|BODY_2|0
+the each system|DT DT NN|BODY_2|0
+54|CD|BODY_4|0
+the overall similarity|DT JJ NN|BODY_3|0
+minutes|NNS|BODY_5|0
+more drawing power |RBR VBG NN|BODY_3|0
+each class feature values|DT NN NN NNS|BODY_13|0
+particular|JJ|BODY_6:BODY_1|0
+64.2 69.3 perceptron 49.2 42.1 1986 )|CD CD NN CD CD CD -RRB-|BODY_5|0
+column|NN|BODY_2|0
+the other algorithms|DT JJ NNS|BODY_7|0
+the pebls method|DT NNS NN|BODY_2|0
+neural net algorithms|JJ JJ NNS|BODY_1:BODY_2|0
+each training|DT NN|BODY_4|0
+approximately the same|RB DT JJ|BODY_11|0
+100 protein segments|CD NN NNS|BODY_11|0
+many examples|JJ NNS|BODY_3|0
+the majority vote|DT NN NN|BODY_7|0
+2.2 2|CD CD|BODY_4|0
+a subset|DT NN|BODY_4|0
+phoneme/stress accuracy and output|NN NN CC NN|BODY_2|0
+these best  exemplars|DT JJS NN NNS|BODY_2|0
+a modification|DT NN|BODY_2|0
+the 55-60 % range|DT CD NN NN|BODY_10|0
+k|NN|BODY_12|0
+105|CD|BODY_4|0
+a weakness|DT NN|BODY_2|0
+the highest accuracy|DT JJS NN|BODY_2|0
+the two back propagation experiments|DT CD RB NN NNS|BODY_3|0
+the value difference tables|DT NN NN NNS|BODY_3|0
+very few examples|RB JJ NNS|BODY_4|0
+a hyperplane|DT NN|BODY_2|0
+error signals|NN NNS|BODY_4|0
+the programmer|DT NN|BODY_8|0
+research community|NN NN|BODY_7|0
+increasingly numerous attempts|RB JJ NNS|BODY_4|0
+a t-test|DT NN|BODY_2|0
+one element|CD NN|BODY_2|0
+these studies|DT NNS|BODY_2|0
+stance |NN|BODY_2|0
+#|#|BODY_7|0
+this post processing|DT NN NN|BODY_8|0
+no difference|DT NN|BODY_2|0
+these four|DT CD|BODY_8|0
+5 stress classifications|CD NN NNS|BODY_3|0
+an exception|DT NN|BODY_3|0
+an instance space|DT NN NN|BODY_1|0
+ff and fi|JJ CC JJ|BODY_3|0
+numerous ways|JJ NNS|BODY_3|0
+only two points|RB CD NNS|BODY_1|0
+tertiary structure|JJ NN|BODY_1|0
+the classes|DT NNS|BODY_1|0
+the instance memory|DT NN NN|BODY_1|0
+the instance representation|DT NN NN|BODY_1|0
+the previous problems|DT JJ NNS|BODY_3|0
+x-ray crystallography|JJ NN|BODY_3|0
+i|FW|BODY_3|0
+output encodings|NN NNS|BODY_2|0
+larger numbers|JJR NNS|BODY_9|0
+greater|JJR|BODY_11|0
+other learning techniques|JJ NN NNS|BODY_3|0
+all other values|DT JJ NNS|BODY_8|0
+a single protein|DT JJ NN|BODY_5|0
+clarity|NN|BODY_2|0
+other advantages|JJ NNS|BODY_3|0
+our method mvdm|PRP$ NN NN|BODY_2|0
+the special case|DT JJ NN|BODY_3|0
+this section|DT NN|BODY_2|0
+sigillito ( 1989 )|NN -LRB- CD -RRB-|BODY_2|0
+each other|DT JJ|BODY_7:BODY_9|0
+k-nearest neighbor|NN NN|BODY_2|0
+positive examples|JJ NNS|BODY_5|0
+significant changes|JJ NNS|BODY_8|0
+support|NN|BODY_7|0
+their nettalk program|PRP$ NN NN|BODY_4:BODY_7|0
+78.2 69.2 pebls|CD CD NNS|BODY_4|0
+rules|NNS|BODY_5:BODY_8|0
+the differences|DT NNS|BODY_5|0
+other recent efforts|JJ JJ NNS|BODY_6|0
+such explanations|JJ NNS|BODY_2|0
+their experiments|PRP$ NNS|BODY_3|0
+( stanfill and waltz|-LRB- NN CC NN|BODY_5:BODY_1|0
+correlation|NN|BODY_6|0
+new examples|JJ NNS|BODY_2|0
+neural net learning|JJ JJ NN|BODY_5|0
+many more points|JJ JJR NNS|BODY_2|0
+a sum|DT NN|BODY_3|0
+a standard distance|DT JJ NN|BODY_2|0
+manhattan distance|JJ NN|BODY_4|0
+our purposes|PRP$ NNS|BODY_2|0
+a , c|DT , NN|BODY_5|0
+classification accuracy versus number|NN NN JJ NN|BODY_4|0
+the content|DT NN|BODY_8|0
+the pattern|DT NN|BODY_6|0
+the circle|DT NN|BODY_2|0
+words|NNS|BODY_5|0
+number|NN|BODY_10|0
+that training set|DT NN NN|BODY_3|0
+mooney|NN|BODY_2|0
+the three databases|DT CD NNS|BODY_3|0
+the larger|DT JJR|BODY_4|0
+additional information|JJ NN|BODY_2|0
+training pebls|NN NNS|BODY_2|0
+the angle|DT NN|BODY_7|0
+an order|DT NN|BODY_2|0
+lathrop|NN|BODY_6|0
+the best method|DT JJS NN|BODY_9|0
+this database|DT NN|BODY_9|0
+' time|POS NN|BODY_4|0
+10 runs|CD NNS|BODY_2|0
+( waltz|-LRB- NN|BODY_4|0
+'s methodology|POS NN|BODY_5|0
+many orders|JJ NNS|BODY_9|0
+the equations|DT NNS|BODY_5|0
+exemplar-based ( salzberg|JJ -LRB- NN|BODY_3|0
+experimentation|NN|BODY_7|0
+the 26 bits|DT CD NNS|BODY_4|0
+the remaining 5 bits|DT VBG CD NNS|BODY_4|0
+follows|VBZ|BODY_5:BODY_2|0
+all classifications|DT NNS|BODY_7|0
+a reliable clas|DT JJ NNS|BODY_6|0
+its operation|PRP$ NN|BODY_2|0
+two positions|CD NNS|BODY_18|0
+considerably better classification results|RB JJR NN NNS|BODY_3|0
+the phoneme/stress accuracy|DT NN NN|BODY_4|0
+the latter three results|DT JJ CD NNS|BODY_6|0
+other fields|JJ NNS|BODY_5|0
+the derivation|DT NN|BODY_2|0
+superior performance|JJ NN|BODY_3|0
+a process|DT NN|BODY_9|0
+concepts|NNS|BODY_4|0
+the n-dimensional space|DT JJ NN|BODY_4|0
+18,105 residues|CD NNS|BODY_4|0
+ours|PRP|BODY_5:BODY_16|0
+a skew|DT JJ|BODY_11|0
+english pronunciation|JJ NN|BODY_2|0
+the adjustment|DT NN|BODY_2|0
+the networks|DT NNS|BODY_2|0
+new methods|JJ NNS|BODY_7|0
+the set|DT NN|BODY_3|0
+the category|DT NN|BODY_11|0
+interesting challenges|JJ NNS|BODY_4|0
+fi-sheet|NN|BODY_4|0
+the classification accuracy results|DT NN NN NNS|BODY_5|0
+robson ( garnier et|NN -LRB- NNP NNP|BODY_5|0
+category i|NN NN|BODY_8|0
+the same relative frequency|DT JJ JJ NN|BODY_6|0
+1978 )|CD -RRB-|BODY_7|0
+periment|NN|BODY_3|0
+simple differences|JJ NNS|BODY_5|0
+a similar experiment run|DT JJ NN NN|BODY_2|0
+how classification performance|WRB NN NN|BODY_7|0
+the following equation|DT JJ NN|BODY_2|0
+the frequency|DT NN|BODY_1|0
+natural lan- guage|JJ NNS NN|BODY_4|0
+the word pronunciation task|DT NN NN NN|BODY_8|0
+128 protein segments|CD NN NNS|BODY_4|0
+( mathews|-LRB- NNS|BODY_3|0
+the latter two|DT JJ CD|BODY_4|0
+the problems|DT NNS|BODY_4|0
+an algorithm|DT NN|BODY_2|0
+a figure 1|DT NN CD|BODY_6|0
+local encodings|JJ NNS|BODY_4|0
+the minimal sequence length restrictions|DT JJ NN NN NNS|BODY_4|0
+se- jnowki|NNS NNS|BODY_5|0
+much tuning )|JJ NN -RRB-|BODY_13|0
+their own chemical properties|PRP$ JJ NN NNS|BODY_6|0
+57.1 %|CD NN|BODY_5|0
+a conventional architecture|DT JJ NN|BODY_5|0
+numeric fea|JJ NN|BODY_6|0
+4/106 pebls|. NNS|BODY_4|0
+real potential|JJ JJ|BODY_9|0
+ten runs|CD NNS|BODY_3|0
+) 79.1 67.2 back propagation|-RRB- CD CD RB NN|BODY_5|0
+negative 4 one likely source|JJ CD CD JJ NN|BODY_9|0
+1990 ) or nearest neighbor|CD -RRB- CC JJS NN|BODY_4|0
+symbolic , unordered values|JJ , JJ NNS|BODY_2|0
+the learning algorithms|DT VBG NNS|BODY_3|0
+the weight assignments|DT NN NNS|BODY_10|0
+the errors|DT NNS|BODY_6|0
+domain knowledge|NN NN|BODY_8|0
+other groups|JJ NNS|BODY_4|0
+both id3|DT NNS|BODY_3|0
+ibl )|NN -RRB-|BODY_3|0
+one bit|CD NN|BODY_8|0
+qian and|JJ CC|BODY_6|0
+each protein|DT NN|BODY_2|0
+reasons|NNS|BODY_5|0
+the number times ff|DT NN NNS NN|BODY_5|0
+the training examples|DT NN NNS|BODY_5|0
+training examples|NN NNS|BODY_5|0
+distance zero|NN NN|BODY_4|0
+highly accurate predictive models|RB JJ NN NNS|BODY_8|0
+larger dna sequences|JJR NN NNS|BODY_2|0
+four loosely-coupled transputers|CD JJ NNS|BODY_4|0
+et al.|FW FW|BODY_12|0
+fold types|NN NNS|BODY_2|0
+the parallelization|DT NN|BODY_5|0
+some or all|DT CC DT|BODY_6|1
+a prediction|DT NN|BODY_4|0
+text pronunciation algorithm phoneme accuracy phoneme/stress|NN NN NN NN NN NN|BODY_3|0
+our earlier results|PRP$ JJR NNS|BODY_2|0
+a parallel architecture|DT JJ NN|BODY_3|0
+the entire data set|DT JJ NNS VBD|BODY_13|0
+three other do|CD JJ VBP|BODY_4|0
+( sejnowski and rosenberg|-LRB- NN CC NN|BODY_9|0
+the most widely used approaches|DT RBS RB VBN NNS|BODY_2|0
+instance-based methods|JJ NNS|BODY_4|0
+accuracies table comparison|NNS NN NN|BODY_5|0
+nearest neighbor learning|JJS NN NN|BODY_2|0
+some recent efforts|DT JJ NNS|BODY_6|0
+2 ) word pronunciation|CD -RRB- NN NN|BODY_12|0
+the post processing|DT NN NN|BODY_6|0
+reliable exemplars|JJ NNS|BODY_5|0
+the net|DT JJ|BODY_4|0
+weighted and unweighted versions|JJ CC JJ NNS|BODY_3|0
+'s training time|POS NN NN|BODY_8|0
+who|WP|BODY_4|0
+these trustworthy exemplars|DT JJ NNS|BODY_2|0
+fi sheet|JJ NN|BODY_7:BODY_9|0
+id3 ( quinlan|NNS -LRB- NN|BODY_4|0
+a training|DT NN|BODY_3|0
+easier comparison|JJR NN|BODY_15|0
+helix|NN|BODY_3|0
+occurrnce|NN|BODY_2|0
+his database|PRP$ NN|BODY_3|0
+al|NN|BODY_2|0
+the nettalk data )|DT NN NNS -RRB-|BODY_7|0
+replicated sejnowski|VBD NN|BODY_3|0
+a post-processing algorithm|DT JJ NN|BODY_3|0
+their technique|PRP$ NN|BODY_2|0
+perspicuity (|NN -LRB-|BODY_7|0
+'s ( 1986 ) value difference|POS -LRB- CD -RRB- NN NN|BODY_6|0
+5|CD|BODY_5|0
+their results|PRP$ NNS|BODY_8|0
+various factors|JJ NNS|BODY_5|0
+lim ( 1974 )|NN -LRB- CD -RRB-|BODY_8|0
+the sum|DT NN|BODY_4|0
+the obvious distance|DT JJ NN|BODY_3|0
+the all the remaining data|DT PDT DT VBG NNS|BODY_5|0
+the 26-bit encoding|DT JJ NN|BODY_3|0
+the irregularity|DT NN|BODY_3|0
+training time|NN NN|BODY_12:BODY_1|0
+back propa- gation|JJ NNS NN|BODY_6|0
+training set size 5.1 classification accuracy|NN VBD NN CD NN NN|BODY_10|0
+( 3 ) prediction|-LRB- CD -RRB- NN|BODY_13|0
+a trained network ( hanson and burr|DT JJ NN -LRB- NN CC NN|BODY_9|0
+distance metrics|NN NNS|ABSTRACT_4|0
+their system|PRP$ NN|BODY_6|0
+machine learning|NN NN|BODY_5|0
+the test|DT NN|BODY_12|0
+impressive initial results|JJ JJ NNS|BODY_4|0
+a table 1|DT NN CD|BODY_9|0
+that distance|DT NN|BODY_14|0
+at worst o(dn )|IN JJS NN -RRB-|BODY_6|0
+table 10|NN CD|BODY_1|0
+the predicted value|DT VBN NN|BODY_4|0
+57 features|CD NNS|BODY_3|0
+trouble|NN|BODY_6|0
+any promoter sites|DT NN NNS|BODY_10|0
+composition|NN|BODY_5|0
+50 60.2 70 62.3 90|CD CD CD CD CD|BODY_7|0
+the property|DT NN|BODY_2|0
+cancer recurrence|NN NN|BODY_8|0
+the machine|DT NN|BODY_6|0
+77.0|CD|BODY_6|0
+the old instance|DT JJ NN|BODY_5|0
+different randomized initial states|JJ VBD JJ NNS|BODY_4|0
+a way|DT NN|BODY_8|0
+the protein data|DT NN NNS|BODY_15|0
+'s original vdm|POS JJ NN|BODY_2|0
+a form|DT NN|BODY_5|0
+the center|DT NN|BODY_8|0
+fgp ( fertig and gelernter|NN -LRB- NN CC NN|BODY_7|0
+correct 80 %|JJ CD NN|BODY_8|0
+mains|NNS|BODY_5|0
+30 %|CD NN|BODY_5|0
+training set percent correct size ( % )|NN VBD NN JJ NN -LRB- NN -RRB-|BODY_5|0
+three problems|CD NNS|ABSTRACT_4|0
+the classification accuracy|DT NN NN|BODY_12|0
+1967 ) methods )|CD -RRB- NNS -RRB-|BODY_5|0
+training data|NN NNS|BODY_9|0
+the ease|DT NN|BODY_9|0
+the obstacles|DT NNS|BODY_2|0
+propagation networks|NN NNS|BODY_12|0
+the complete table|DT JJ NN|BODY_6|0
+the distance tables|DT NN NNS|BODY_6:BODY_1|0
+a table|DT NN|BODY_3|0
+very little training time|RB JJ NN NN|BODY_2|0
+our studies|PRP$ NNS|BODY_11|0
+a particular classification|DT JJ NN|BODY_3|0
+the lack|DT NN|BODY_8|0
+pockets|NNS|BODY_4|0
+our initial experiment|PRP$ JJ NN|BODY_7|0
+this technique|DT NN|ABSTRACT_2|0
+a variety|DT NN|BODY_3|0
+1987 )|CD -RRB-|BODY_7|0
+the identical data|DT JJ NNS|BODY_4|0
+instance-based learning programs|JJ VBG NNS|BODY_2|0
+frequency|NN|BODY_9|0
+the same four instances|DT JJ CD NNS|BODY_5|0
+n ff|NN NN|BODY_6|0
+the experiment|DT NN|BODY_4|0
+closely|RB|BODY_5|0
+the experimental design|DT JJ NN|BODY_3|0
+a constant|DT JJ|BODY_13|0
+g f|VBG NN|BODY_4|0
+reference|NN|BODY_3|0
+( 1 ) prediction|-LRB- CD -RRB- NN|BODY_10|0
+variation|NN|BODY_10|0
+a very specific exception|DT RB JJ NN|BODY_8|0
+the particular composition|DT JJ NN|BODY_2|0
+non-exception points|JJ NNS|BODY_7|0
+diagnosis|NN|BODY_9|0
+the back propagation learning method|DT NN NN NN NN|BODY_3|0
+two unweighted points|CD JJ NNS|BODY_7|0
+the usage|DT NN|BODY_4|0
+these examples|DT NNS|BODY_6|0
+the specific|DT JJ|BODY_4|0
+class ff|NN NN|BODY_4|0
+heart disease|NN NN|BODY_10|0
+a positive distance|DT JJ NN|BODY_7|0
+earlier experiments|JJR NNS|BODY_7|0
+small amounts|JJ NNS|BODY_8|0
+the main experiment|DT JJ NN|BODY_2|0
+a protein chain|DT NN NN|BODY_5|0
+two versions|CD NNS|BODY_2|1
+these|DT|BODY_16|0
+several other machine learning algorithms|JJ JJ NN VBG NNS|BODY_5|0
+the molecular bond|DT JJ NN|BODY_8|0
+benefits|NNS|BODY_5|0
+the unweighted  version|DT JJ NNS NN|BODY_3|0
+a value|DT NN|BODY_3|0
+partitions|NNS|BODY_10|0
+4 instances|CD NNS|BODY_7|0
+e. coli bacteriophage|FW NNS NN|BODY_8|0
+id3 , nearest neighbor|JJ , JJS NN|BODY_7|0
+53|CD|BODY_3|0
+the left or right shift|DT NN CC JJ NN|BODY_5|0
+the smallest weights ( or best classification performance )|DT JJS NNS -LRB- CC JJS NN NN -RRB-|BODY_4|0
+each bit|DT NN|BODY_5|0
+exemplar |JJ|BODY_3|0
+a separate processor|DT JJ NN|BODY_2|0
+propagation , perceptron|NN , NN|BODY_3|0
+train- ing|NNS NN|BODY_5|0
+test|NN|BODY_6|0
+value|NN|BODY_4|0
+minimal sequence length restrictions|JJ NN NN NNS|BODY_7|0
+holley and karplus )|NN CC NN -RRB-|BODY_4|0
+fold |NN|BODY_5|0
+the time|DT NN|BODY_9|0
+nothing|NN|BODY_3|0
+acids|NNS|BODY_5:BODY_18|0
+rumelhart and mcclelland|NNP CC NN|BODY_6|0
+the distributed encoding|DT VBN NN|BODY_5|0
+connectionist researchers|JJ NNS|BODY_3|0
+the english pronunciation problem|DT JJ NN NN|BODY_3|0
+72.3 %|CD NN|BODY_5|0
+the 1000|DT CD|BODY_4|0
+both words and continuous spoken text|DT NNS CC JJ VBN NN|BODY_5|0
+the equation|DT NN|BODY_9|0
+stores|NNS|BODY_4|0
+a weighted ex|DT JJ FW|BODY_12|0
+real-valued domains|JJ NNS|BODY_3|0
+a promoter|DT NN|BODY_5|0
+a weight term|DT NN NN|BODY_3|0
+no more|DT RBR|BODY_2|0
+algorithm ( sejnowski and rosenberg|NN -LRB- NN CC NN|BODY_6|0
+the entire procedure|DT JJ NN|BODY_4|0
+n features|RB NNS|BODY_9|0
+( towell|-LRB- NN|BODY_11|0
+the types|DT NNS|BODY_8|0
+method|NN|BODY_7|0
+63.0 %|CD NN|BODY_7|0
+the weight wx|DT NN NN|BODY_3|0
+two windows|CD NNS|BODY_6|0
+i .e|FW FW|BODY_8|0
+the net or tree|DT JJ CC NN|BODY_4|0
+brown % phonemes correct corpus|JJ NN NNS JJ NN|BODY_5|0
+sizes percentage|NNS NN|BODY_4|0
+the most widely used and|DT RBS RB VBN CC|BODY_3|0
+a fixed length window|DT VBN NN NN|BODY_4|0
+a fixed window|DT VBN NN|BODY_2|0
+random|JJ|BODY_4|0
+considerable progress|JJ NN|BODY_2|0
+71.0 %|CD NN|BODY_5|0
+o(dn|NN|BODY_5|0
+a fixed statistical technique|DT VBN JJ NN|BODY_8|0
+classification 1|NN CD|BODY_2|0
+'s classification accuracy|POS NN NN|BODY_6|0
+a fragment|DT NN|BODY_7|0
+a specific feature|DT JJ NN|BODY_6|0
+access|NN|BODY_3|0
+several|JJ|BODY_8|0
+a window size|DT NN NN|BODY_3|0
+a given subsequence|DT VBN NN|BODY_3|0
+specific reference instances|JJ NN NNS|BODY_3|0
+a separate decision tree|DT JJ NN NN|BODY_2|0
+3.2 million possible segments|CD CD JJ NNS|BODY_6|0
+seven characters|CD NNS|BODY_3|0
+simple record-keeping|JJ NN|BODY_4|0
+a dna sequence|DT NN NN|BODY_4|0
+the design|DT NN|BODY_6|0
+one significant aspect|CD JJ NN|BODY_4|0
+randomly selected instances|RB VBN NNS|BODY_12|0
+more detail|JJR NN|BODY_3|0
+holley and karplus , 1989 )|NN CC NN , CD -RRB-|BODY_16|0
+protein secondary structure ( qian and sejnowski|NN JJ NN -LRB- JJ CC NN|BODY_14|0
+) back propagation|-RRB- RB NN|BODY_4|0
+se|NN|BODY_3|0
+'s original exemplar weighting scheme|POS JJ NN VBG NN|BODY_3|0
+portance|NN|BODY_5|0
+the protein folding experiments|DT NN JJ NNS|BODY_2|0
+the protein folding data|DT NN NN NNS|BODY_10|0
+substrings|NNS|BODY_6|0
+aha ( 1990 )|NN -LRB- CD -RRB-|BODY_5|0
+an alternative scheme|DT JJ NN|BODY_1|0
+non-homologous proteins )|JJ NNS -RRB-|BODY_5|0
+qian and claim|JJ CC NN|BODY_1|0
+problem|NN|BODY_9|0
+machine learning researchers|NN NN NNS|ABSTRACT_6|0
+length 6|NN CD|BODY_4|0
+the neural net results|DT JJ JJ NNS|BODY_7|0
+considerable practical im|JJ JJ NN|BODY_4|0
+value differences|NN NNS|BODY_4|0
+the question|DT NN|BODY_2|0
+the construction|DT NN|BODY_4|0
+a counter|DT NN|BODY_2|0
+perceptron learning|NN NN|BODY_5|0
+a vector|DT NN|BODY_2|0
+most only about 21,618|RBS RB IN CD|BODY_5|0
+much simpler met- rics|JJ JJR NNS NNS|BODY_8|0
+the closest exemplar|DT JJS NN|BODY_2|0
+slightly more information|RB JJR NN|BODY_4|0
+the edge|DT NN|BODY_8|0
+smaller weights|JJR NNS|BODY_6|0
+a training or test example|DT NN CC NN NN|BODY_6|0
+some domains|DT NNS|BODY_3|0
+emplar|NN|BODY_13|0
+sufficient data|JJ NNS|BODY_9|0
+three different types|CD JJ NNS|BODY_4|0
+10 features|CD NNS|BODY_5|0
+feature|NN|BODY_6|0
+the entropy calculations|DT JJ NNS|BODY_3|0
+the training and testing sets|DT NN CC NN NNS|BODY_3|0
+enough processors|RB NNS|BODY_5|0
+general n|JJ NN|BODY_2|0
+no natural inter-letter distance  ) , nearest neighbor methods|DT JJ NN NN NN -RRB- , JJS NN NNS|BODY_7|0
+ffi non-symmetric ; e.g.|JJ JJ : FW|BODY_7|0
+the entire leave-one-out experiment|DT JJ NN NN|BODY_2|0
+the depth|DT NN|BODY_3|0
+dietterich et al.|JJ VBD RB|BODY_12|0
+the claim|DT NN|BODY_2|0
+1/1|CD|BODY_4|0
+dna promoters|NNP NNS|BODY_4|0
+the original scheme|DT JJ NN|BODY_1|0
+these four examples|DT CD NNS|BODY_1|0
+the protein folding domain )|DT NN JJ NN -RRB-|BODY_7|0
+a 26-bit sequence|DT JJ NN|BODY_7|0
+106 examples|CD NNS|BODY_2|0
+acid|NN|BODY_2|0
+powerful classifiers|JJ NNS|BODY_4|0
+a similar experiment|DT JJ NN|BODY_2|0
+some versions|DT NNS|BODY_4|0
+1990 ) report|CD -RRB- NN|BODY_3|0
+earlier studies|JJR NNS|BODY_4|0
+our experimental section|PRP$ JJ NN|BODY_4|0
+the weight adjustment routines|DT NN NN NNS|BODY_8|0
+another network|DT NN|BODY_4|0
+excellent classification accuracy|JJ NN NN|ABSTRACT_3|0
+99.41 %|CD NN|BODY_7|0
+not straightforward|RB JJ|BODY_4|0
+both methods|DT NNS|BODY_6|0
+( e .g. , aha , 1989|-LRB- NN NNP , NN , CD|BODY_10|0
+no modifications|DT NNS|BODY_4|0
+pebls performance|NNS NN|BODY_2|0
+a human|DT NN|BODY_2|0
+the learning problem|DT NN NN|BODY_1|0
+1 )|CD -RRB-|BODY_8|0
+a weighting scheme|DT VBG NN|BODY_3|0
+the testing phase|DT NN NN|BODY_3|0
+the 10 test runs|DT CD NN NNS|BODY_3|0
+each possible value|DT JJ NN|BODY_6|0
+the ex|DT FW|BODY_2|0
+weights instances|NNS NNS|BODY_4|0
+some insight|DT NN|BODY_3|0
+a different value difference table|DT JJ NN NN NN|BODY_2|0
+the protein domain|DT NN NN|BODY_2|0
+similar evidence|JJ NN|BODY_2|0
+a given size|DT VBN NN|BODY_4|0
+the decision trees|DT NN NNS|BODY_11|0
+all patterns|DT NNS|BODY_3|0
+changing weights|VBG NNS|BODY_2|0
+the letters|DT NNS|BODY_4|0
+neural net learning algorithm|JJ JJ VBG NN|BODY_4|0
+our distance ta|PRP$ NN TO|BODY_4|0
+the i|DT FW|BODY_5|0
+one segment|CD NN|BODY_5|0
+the patterns|DT NNS|BODY_8|0
+the inherent difficulty|DT JJ NN|BODY_6|0
+proteins and segments|NNS CC NNS|BODY_3|0
+three domains|CD VBZ|BODY_3|0
+a distance|DT NN|BODY_8|0
+parallelization|NN|BODY_3|0
+equally good performance|RB JJ NN|BODY_2|0
+more than one exemplar|JJR IN CD NN|BODY_4|0
+the 1-nearest- neighbor method|DT CD NN NN|BODY_4|0
+the random selection|DT JJ NN|BODY_5|0
+our experiments and results|PRP$ NNS CC NNS|BODY_4|0
+additional light|JJ NN|BODY_5|0
+a single network design|DT JJ NN NN|BODY_2|0
+the 57 nucleotides|DT CD NNS|BODY_2|0
+weighting exemplars|JJ NNS|BODY_5|0
+rumelhart et|NNP NNP|BODY_4|0
+information|NN|BODY_7|0
+ case histories|JJ NN NNS|BODY_4|0
+mixed symbolic and numeric data|JJ JJ CC JJ NNS|BODY_3|0
+) report|-RRB- NN|BODY_5|0
+our comparisons|PRP$ NNS|BODY_2|0
+the same set|DT JJ NN|BODY_2|0
+important real world domains|JJ JJ NN NNS|BODY_6|0
+a fixed , finite set|DT JJ , JJ NN|BODY_3|0
+a large portion|DT JJ NN|BODY_6|0
+that values|IN NNS|BODY_4|0
+a weak  general method|DT JJ NN JJ NN|BODY_3|0
+other results|JJ NNS|BODY_2|0
+our system|PRP$ NN|BODY_2|0
+a good idea|DT JJ NN|BODY_6|0
+larger weights|JJR NNS|BODY_2|0
+how adding domain knowledge|WRB VBG NN NN|BODY_2|0
+numerous insightful comments and suggestions|JJ JJ NNS CC NNS|BODY_4|0
+their detailed comments and ideas|PRP$ JJ NNS CC NNS|BODY_4|0
+promoter sequence prediction algorithm pebls|NN NN NN NN NNS|BODY_2|0
+the nettalk program|DT NN NN|BODY_9|0
+its accuracy|PRP$ NN|BODY_6|0
+no other algorithm|DT JJ NN|BODY_4|0
+the simplest learning methods|DT JJS NN NNS|BODY_3|0
+fewer than four|JJR IN CD|BODY_6|0
+the correlation coefficients|DT NN NNS|BODY_4|0
+whether nearest neighbor methods|IN JJS NN NNS|BODY_3|0
+any insight|DT NN|BODY_2|0
+a non-euclidean distance metric|DT JJ NN JJ|BODY_7|0
+more reliable instances|RBR JJ NNS|BODY_6|0
+the final difference|DT JJ NN|BODY_1|0
+the network|DT NN|BODY_2|0
+the way nearest neighbor algorithms partition|DT NN JJS NN NNS NN|BODY_3|0
+a geometric distance|DT JJ NN|BODY_2|0
+sequence|NN|BODY_2|0
+false positives|JJ NNS|BODY_11|0
+times ff|NNS NN|BODY_8|0
+u ff|NNP NN|BODY_13|0
+57 nucleotides|CD NNS|BODY_3|0
+the most influential classifiers|DT RBS JJ NNS|BODY_5|0
+'s ( 1986 ) value difference metric (vdm)|POS -LRB- CD -RRB- NN NN JJ NNS|BODY_4|0
+grant iri-9116843|NN NNS|BODY_7|0
+section 4.1|NN CD|BODY_3|0
+two acids|CD NNS|BODY_3|0
+the dictionary|DT NN|BODY_7|0
+the 10 closest exemplars|DT CD JJS NNS|BODY_2|0
+an exception space |DT NN NN|BODY_7|0
+previously published results|RB VBN NNS|BODY_3|0
+that segment|DT NN|BODY_9|0
+the dataset|DT NN|BODY_8|0
+general , equal or slightly superior|JJ , JJ CC RB JJ|BODY_14|0
+neighboring secondary structure assignments|JJ JJ NN NNS|BODY_6|0
+r|NN|BODY_5|0
+comparable experiments|JJ NNS|BODY_5|0
+a powerful new method|DT JJ JJ NN|BODY_5|0
+their neural nets|PRP$ JJ NNS|BODY_5|0
+a technique|DT NN|BODY_5|0
+better performance|JJR NN|BODY_1|0
+one net|CD NN|BODY_3|0
+that result|DT NN|BODY_11|0
+the same measures|DT JJ NNS|BODY_5|0
+our algorithm constructs|PRP$ NN NNS|BODY_1|0
+unordered symbolic values|JJ JJ NNS|BODY_9|0
+the show|DT NN|BODY_3|0
+12/106 instances|CD NNS|BODY_9|0
+introduction|NN|BODY_1|0
+a word|DT NN|BODY_5|0
+the past|DT NN|BODY_9|0
+the capability|DT NN|BODY_1|0
+misses|NNS|BODY_15|0
+a gradient descent method|DT JJ NN NN|BODY_2|0
+the same manner|DT JJ NN|BODY_3|0
+full dictionary 100 78.2 figure 4|JJ NN CD CD NN CD|BODY_7|0
+w y|JJ RB|BODY_11|0
+only one experimental design|RB CD JJ NN|BODY_7|0
+. bles|. NNS|BODY_6|0
+two weighted points|CD JJ NNS|BODY_7|0
+experimental evidence|JJ NN|ABSTRACT_2|0
+the most fair test|DT RBS JJ NN|BODY_3|0
+this weighting strategy|DT NN NN|BODY_2|0
+a single feature|DT JJ NN|BODY_6|0
+a circular envelope|DT JJ NN|BODY_4|0
+accurate exemplars|JJ NNS|BODY_16|0
+the performance figures|DT NN NNS|BODY_9|0
+the instance space|DT NN NN|BODY_7|0
+several recent experiments|JJ JJ NNS|BODY_4|0
+numbers|NNS|BODY_3|0
+the ratio|DT NN|BODY_9|0
+table 1|NN CD|BODY_3|0
+the weight term w g f|DT NN NN NN NN NN|BODY_3|0
+this term|DT NN|BODY_5|0
+three respects|CD NNS|BODY_3|0
+salzberg , 1989|NN , CD|BODY_14|0
+two passes|CD NNS|BODY_2|0
+preliminary experiments|JJ NNS|BODY_2|0
+a and b|DT CC NN|BODY_2|0
+the reasons|DT NNS|BODY_4|0
+continued development|VBD NN|ABSTRACT_4|0
+congressional voting records|JJ NN NNS|BODY_12|0
+the training data|DT NN NNS|BODY_5|0
+correct uses|JJ NNS|BODY_14|0
+local ( i .e|JJ -LRB- FW FW|BODY_3|0
+the other learning methods|DT JJ NN NNS|BODY_3|0
+attaches weights|NNS NNS|ABSTRACT_7|0
+the decision tree algorithm id3|DT NN NN NN NNS|BODY_2|0
+our distance metric (|PRP$ NN JJ -LRB-|BODY_6|0
+genes|NNS|BODY_7|0
+a pool|DT NN|BODY_2|0
+this respect|DT NN|BODY_5|0
+training sets|NN NNS|BODY_7|0
+normalized euclidean distance|JJ JJ NN|BODY_2|0
+homologies|NNS|BODY_12|0
+all values|DT NNS|BODY_4|0
+a given word|DT VBN NN|BODY_6|0
+1983|CD|BODY_9|0
+3.1 protein secondary structure accurate techniques|CD NN JJ NN JJ NNS|BODY_1|0
+four|CD|BODY_3|0
+exceptional instances|JJ NNS|BODY_3:BODY_4|0
+the difference|DT NN|BODY_1|0
++ or -.|NN CC POS|BODY_8|0
+the ability|DT NN|BODY_1|0
+the momentum  parameter|DT NN NN NN|BODY_6|0
+parameters|NNS|BODY_4|0
+many places|JJ NNS|BODY_2|0
+train|VB|BODY_5|0
+other times|JJ NNS|BODY_4|0
+quite similar overall|RB JJ JJ|BODY_4|0
+clear advantages|JJ NNS|BODY_3|0
+the setup|DT NN|BODY_1|0
+any domain|DT NN|BODY_5|0
+variations|NNS|BODY_1|0
+each new instance|DT JJ NN|BODY_8|0
+table 3|NN CD|BODY_7|0
+weighted pebls|JJ NNS|BODY_1|0
+transparency|NN|BODY_1|0
+the value difference matrices|DT NN NN NNS|BODY_2|0
+six|CD|BODY_4|0
+2.3|CD|BODY_10|0
+overall similarity|JJ NN|BODY_2|0
+section 2.3 )|NN CD -RRB-|BODY_8|0
+66.7 %|CD NN|BODY_5|0
+each run|DT NN|BODY_5|0
+the weiss and kapouleas experiments|DT NN CC NNS NNS|BODY_1|0
+any point|DT NN|BODY_1|0
+researchers|NNS|BODY_5|0
+18 )|CD -RRB-|BODY_11|0
+a 0.000 0.571 0.191 given feature value and classification|DT CD CD CD VBN NN NN CC NN|BODY_17|0
+a purely local encoding|DT RB JJ NN|BODY_3|0
+figures|NNS|BODY_1|0
+other machine|JJ NN|BODY_6|0
+the 64,000-processor connection machine tm|DT JJ NN NN NN|BODY_8|0
+a better strategy|DT JJR NN|BODY_2|0
+a different random order|DT JJ JJ NN|BODY_7|0
+more than three dimensions|JJR IN CD NNS|BODY_2|0
+17,142 instances|CD NNS|BODY_8|0
+( ff|-LRB- NN|BODY_16|0
+figure 3|NN CD|BODY_1|0
+each layer|DT NN|BODY_7|0
+the table entries|DT NN NNS|BODY_5|0
+the term c|DT NN NN|BODY_1|0
+the second network|DT JJ NN|BODY_1|0
+table 4 shows|NN CD VBZ|BODY_1|0
+real-valued distances|JJ NNS|ABSTRACT_5|0
+training instances|NN NNS|BODY_6|0
+tions|NNS|BODY_6|0
+the best result|DT JJS NN|BODY_1|0
+weighted exemplars|JJ NNS|BODY_6|0
+symbolic feature val- ues|JJ NN NNS NNS|BODY_10:BODY_4|0
+this property|DT NN|BODY_1|0
+qian and sejnowski ( 1988 )|NN CC NN -LRB- CD -RRB-|BODY_1|0
+its comparable performance|PRP$ JJ NN|BODY_1|0
+an adjacent gene|DT JJ NN|BODY_12|0
+earlier approaches|RBR NNS|BODY_1|0
+figure 1|NN CD|BODY_7|0
+the combination|DT NN|BODY_1|0
+the nearest-neighbor computation|DT NN NN|BODY_3|0
+decision tree algorithms|NN NN NNS|BODY_1:BODY_7|0
+5.2 transparency|CD NN|BODY_1|0
+space|NN|BODY_4|0
+a more sophisticated instance-based algorithm|DT RBR JJ JJ NN|BODY_3|1
+a nearest neighbor algorithm|DT JJS NN NN|ABSTRACT_2|0
+english|JJ|BODY_7|1
+no post-processing|DT NN|BODY_4|0
+our conclusion|PRP$ NN|BODY_1|1
+a specific phoneme or phoneme/stress combination )|DT JJ NN CC NN NN -RRB-|BODY_5|0
+processors|NNS|BODY_2|0
+. iii|. NN|BODY_4|0
+a major difference|DT JJ NN|BODY_1|0
+58 %|CD NN|BODY_12|0
+a protein segment|DT NN NN|BODY_8|0
+solution form|NN NN|BODY_1|0
+( dimensions|-LRB- NNS|BODY_11|0
+domain specific knowledge|NN JJ NN|BODY_3|0
+other , more accurate techniques|JJ , RBR JJ NNS|BODY_1|0
+symbolic domains|JJ NNS|ABSTRACT_1|0
+examples ( aha , 1989|NNS -LRB- NN , CD|BODY_12|0
+distance tables|NN NNS|ABSTRACT_2|0
+'s accuracy|POS NN|BODY_4|0
+c.|NN|BODY_11|0
+a fixed size|DT VBN NN|BODY_3|0
+3 protein segments|CD NN NNS|BODY_1|0
+the skew |DT JJ|BODY_1|0
+a program|DT NN|BODY_2|0
+these unreliable exemplars|DT JJ NNS|BODY_1|0
+other words|JJ NNS|BODY_1|0
+advantages|NNS|ABSTRACT_3|0
+zhang and waltz|NN CC NN|BODY_1|0
+its correct phoneme|PRP$ JJ NN|BODY_9|0
+nearest-neighbor methods|JJ NNS|BODY_5|0
+their value difference metric (vdm)|PRP$ NN NN JJ NN|BODY_1|0
+this feedback|DT NN|BODY_3|0
+standard euclidean distance|JJ NN NN|BODY_4|0
+the stanfill-waltz|DT NN|BODY_5|0
+some means|DT NNS|BODY_10|0
+the variables|DT NNS|BODY_1|0
+d|NN|BODY_8|0
+that bit|DT NN|BODY_9|0
+these components|DT NNS|BODY_1|0
+28 segments|CD NNS|BODY_13|0
+very large circles|RB JJ NNS|BODY_4|0
+an instance-based learning algorithm|DT JJ NN NN|BODY_5|0
+either study )|DT NN -RRB-|BODY_7|0
+uses|NNS|BODY_11|0
+our experimental results|PRP$ JJ NNS|BODY_1|0
+the first 21 bits|DT JJ CD NNS|BODY_1|0
+a space|DT NN|BODY_1|0
+processing time|NN NN|BODY_7|0
+the experimenter|DT NN|BODY_1|0
+subsequences|NNS|BODY_1|0
+only 55 %|JJ CD NN|BODY_4|0
+acceptable instances|JJ NNS|BODY_1|0
+the same instance|DT JJ NN|BODY_12|0
+an extremely difficult task|DT RB JJ NN|BODY_10|0
+attempts|NNS|BODY_1|0
+primary structure|JJ NN|BODY_3|0
+this reason|DT NN|BODY_1|0
+9 )|CD -RRB-|BODY_5|0
+all n classes|DT NN NNS|BODY_4|0
+a more detailed description|DT RBR JJ NN|BODY_9|0
+each domain|DT NN|BODY_1|0
+the test set|DT NN NN|BODY_5|0
+qian and sejnowski ( 1988|NN CC NN -LRB- CD|BODY_1|0
+euclidean distance|JJ NN|BODY_5|0
+our weighting scheme|PRP$ VBG NN|BODY_1|0
+note|NN|BODY_1|0
+42.9 %|CD NN|BODY_5|0
+a )|DT -RRB-|BODY_10|0
+1.1 instance-based learning|CD JJ NN|BODY_1|0
+both examples and exemplars|DT NNS CC NNS|BODY_3|0
+the 21-bit output vector|DT JJ NN NN|BODY_1|0
+a given trial|DT VBN NN|BODY_8|0
+2.1 instance-based|CD JJ|BODY_1|0
+this table|DT NN|BODY_1|0
+sifier|NN|BODY_7|0
+this capability|DT NN|BODY_1|0
+' experiments )|POS NNS -RRB-|BODY_12|0
+the best conventional technique|DT JJS JJ NN|BODY_1|0
+direct experimental comparisons|JJ JJ NNS|ABSTRACT_1|0
+the only complicated part|DT RB JJ NN|BODY_1|0
+one minor drawback|CD JJ NN|BODY_1|0
+only a few hours|RB DT JJ NNS|BODY_8|0
+the triangle inequality|DT NN NN|BODY_11|0
+encoding|VBG|BODY_1|0
+the english pronunciation domain|DT JJ NN NN|BODY_1|0
+only points|RB NNS|BODY_1|0
+sym|NN|BODY_8|1
+a separate statistical study|DT JJ JJ NN|BODY_1|0
+towell notes|NN NNS|BODY_1|0
+symbolic ones|JJ NNS|BODY_9|0
+the first pass|DT JJ NN|BODY_1|0
+abysmal results|JJ NNS|BODY_10|0
+the biological literature ( o'neill , 1989 )|DT JJ NN -LRB- RB , CD -RRB-|BODY_10|0
+4.1 protein secondary structure|CD NN JJ NN|BODY_1|0
+the other|DT JJ|BODY_5|1
+table 7 shows table 7|NN CD NNS NN CD|BODY_1|0
+practical learning algorithms|JJ NN NNS|BODY_11|0
+100 or more|CD CC JJR|BODY_16|0
+both somewhat lower than pebls.|DT RB JJR IN VBG|BODY_10|0
+several difficult classification tasks|JJ JJ NN NNS|BODY_7|0
+this data|DT NN|BODY_9|0
+a result|DT NN|BODY_4|0
+exactly the same manner|RB DT JJ NN|BODY_6|0
+extending and improving nearest neighbor learning algorithms|VBG CC VBG JJS NN VBG NNS|BODY_3|0
+direct comparisons|JJ NNS|BODY_1|0
+the un-|DT NNS|BODY_1|0
+weiss and kapouleas ( 1989 )|NNP CC NNS -LRB- CD -RRB-|BODY_1|0
+a neural network|DT JJ NN|BODY_11|0
+only a window|RB DT NN|BODY_1|0
+homologous proteins|JJ NNS|BODY_1|0
+a fixed amount|DT VBN NN|BODY_5|0
+a cascaded network ar- chitecture|DT JJ NN CC NN|BODY_4|0
+standard definitions|JJ NNS|ABSTRACT_5|0
+this characterization|DT NN|BODY_1|0
+parallel processors|JJ NNS|BODY_10|0
+its weight|PRP$ NN|BODY_5|0
+sometimes one new example|RB CD JJ NN|BODY_1|0
+statistical information|JJ NN|BODY_6|0
+this angle|DT NN|BODY_1|0
+the stanfill waltz|DT NN NN|BODY_6|0
+human experts|JJ NNS|BODY_1|0
+the first|DT JJ|BODY_1|0
+such exemplars|JJ NNS|BODY_1|0
+the basic learning routine|DT JJ NN JJ|BODY_1|0
+15 .)|CD NN|BODY_6|0
+this methodology|DT NN|BODY_1|0
+value a.|NN NN|BODY_10|0
+table|NN|BODY_8|0
+a hierarchy|DT NN|BODY_1|0
+most neural net learning algorithms|RBS JJ JJ NN NNS|BODY_1|0
+no one|DT NN|BODY_1|0
+other domains|JJ NNS|BODY_1|0
+this operation|DT NN|BODY_1|0
+our second component|PRP$ JJ NN|BODY_1|0
+randomly selected test sets|RB VBN NN NNS|BODY_6|0
+the one element|DT CD NN|BODY_7|0
+2.2|CD|BODY_1|0
+the mbrtalk system|DT NN NN|BODY_1|0
+a weighted nearest neighbor algorithm|DT JJ JJS NN NN|TITLE_1|0
+the problem domain|DT NN NN|BODY_1|0
+sejnowski and rosenberg ( 1987|NN CC NN -LRB- CD|BODY_1|0
+a parallel experiment|DT JJ NN|BODY_1|0
+recomputed many times|VBN JJ NNS|BODY_4|0
+relatively good performance|RB JJ NN|BODY_5|0
+table 6|NN CD|BODY_4|0
+the remaining 1|DT VBG CD|BODY_5|0
+the table shows|DT NN NNS|BODY_1|0
+this result|DT NN|BODY_1|0
+neural net|JJ NN|BODY_7|0
+perspicuity|NN|ABSTRACT_6:BODY_1|0
+the heart|DT NN|BODY_1|0
+a particular decision|DT JJ NN|BODY_8|0
+one possibility|CD NN|BODY_1|0
+promoters )|NNS -RRB-|BODY_6|0
+significant effects|JJ NNS|BODY_8|0
+the output function|DT NN NN|BODY_9|0
+a matched pairs analysis|DT VBD NNS NN|BODY_1|0
+competing models|VBG NNS|BODY_7|0
+section 3|NN CD|BODY_9|0
+2|CD|BODY_1|0
+4 experimental results|CD JJ NNS|BODY_1|0
+instance-based learning algorithms|JJ NN NNS|BODY_4|0
+modified value difference metric|JJ NN NN JJ|BODY_3|0
+the hyperplane|DT NN|BODY_4|0
+a neural network learning algorithm|DT JJ NN VBG NN|BODY_3|0
+connection weights|NN NNS|BODY_8|0
+a multi-layer network|DT JJ NN|BODY_5|0
+much additional time|JJ JJ NN|BODY_9|0
+these two points|DT CD NNS|BODY_1|0
+3.2 promoter sequences|CD NN NNS|BODY_1|0
+leave-one-out trials|JJ NNS|BODY_6|0
+62.7 %|CD NN|BODY_6|0
+a very general rule|DT RB JJ NN|BODY_10|0
+most techniques|RBS NNS|BODY_1|0
+this research|DT NN|BODY_1|0
+4.3 english text pronunciation|CD JJ NN NN|BODY_1|0
+section 2.3|NN CD|BODY_4|0
+their comparative study|PRP$ JJ NN|BODY_5|0
+the entries|DT NNS|BODY_1|0
+the residues|DT NNS|BODY_7|0
+3.3 pronunciation|CD NN|BODY_1|0
+size 19|NN CD|BODY_15:BODY_7|0
+the frequencies|DT NNS|BODY_1|0
+a relatively small sequence|DT RB JJ NN|BODY_1|0
+algorithm|NN|BODY_12|0
+our desire|PRP$ NN|BODY_1|0
+numeric values|JJ NNS|ABSTRACT_6|0
+value v 1|NN NNS CD|BODY_7|0
+71.0 % )|CD NN -RRB-|BODY_6|0
+the learning algorithm|DT NN NN|BODY_9|0
+many successes|JJ NNS|BODY_1|0
+phoneme and stress|NN CC NN|BODY_1|0
+summary|NN|BODY_1|0
+the final , tertiary structure|DT JJ , JJ NN|BODY_3|0
+the first time|DT JJ NN|BODY_8|0
+the second pass|DT JJ NN|BODY_1|0
+towell et al. , 1989 )|NN VBD RB , CD -RRB-|BODY_19|0
+a decision|DT NN|BODY_5|0
+the existing exemplars|DT VBG NNS|BODY_6|0
+a category label|DT NN NN|BODY_4|0
+secondary structure assignments|JJ NN NNS|BODY_1|0
+even very small training sets|RB RB JJ NN NNS|BODY_3|0
+the total distance \delta|DT JJ NN NN|BODY_1|0
+the input data|DT NN NNS|BODY_6|0
+67.8 %|CD NN|BODY_4|0
+the dna promoter sequence prediction|DT NN NN NN NN|BODY_1|0
+the testing|DT NN|BODY_7|0
+simpler metrics|JJR NNS|BODY_1|0
+all three domains|DT CD NNS|ABSTRACT_4|0
+an acceptable  classifier|DT JJ NN NN|BODY_6|0
+the stress types|DT NN NNS|BODY_6|0
+nearest neighbor methods|JJS NN NNS|BODY_1|0
+p|NN|BODY_14|0
+the 115 phoneme/stress combinations|DT CD NN NNS|BODY_10|0
+the categories|DT NNS|BODY_9|0
+the output bits|DT NN NNS|BODY_6|0
+the three test domains|DT CD NN NNS|BODY_6|0
+did sejnowski and rosenberg|VBD NN CC NN|BODY_5|0
+most|JJS|BODY_1|0
+the brookhaven national laboratory|DT JJ JJ NN|BODY_4|0
+0.68 %|CD NN|BODY_8|0
+106 instances|CD NNS|BODY_1|0
+approximately equal weights|RB JJ NNS|BODY_12|0
+the input )|DT NN -RRB-|BODY_6|0
+the training set increases|DT NN NN NNS|BODY_3|0
+another frequently used measure|DT RB VBN NN|BODY_1|0
+the exemplar weights|DT JJ NNS|BODY_1|0
+a given feature|DT VBN NN|BODY_8|0
+our performance curve|PRP$ NN NN|BODY_1|0
+a realistic practical learning technique|DT JJ JJ NN NN|BODY_1|0
+good classification accuracy|JJ NN NN|BODY_3|0
+ subunits  )|RB JJ RB -RRB-|BODY_7|0
+distributed output encodings|VBN NN NNS|BODY_6|0
+some value pairs|DT NN NNS|BODY_7|0
+a multi-dimensional feature space|DT JJ NN NN|BODY_5|0
+other machine learning methods|JJ NN NN NNS|BODY_4|0
+each trial|DT NN|BODY_1|0
+hyperplanes|NNS|BODY_7|0
+'s weight|POS NN|BODY_6:BODY_16|0
+an exact match|DT JJ NN|BODY_7|0
+domain-specific classification methods|JJ NN NNS|BODY_3|1
+phonemes|NNS|BODY_3|0
+the right|DT NN|BODY_9|0
+this method|DT NN|BODY_1|0
+2. stanfill and waltz|DT NN CC NN|BODY_1|0
+effects|NNS|BODY_5|0
+the difficulties|DT NNS|BODY_1|0
+previously stored ones|RB VBN NNS|BODY_6|0
+match|NN|BODY_10|0
+the distance formula ( salzberg , 1989 )|DT NN NN -LRB- NN , CD -RRB-|BODY_7|0
+( towell et al|-LRB- NN FW JJ|BODY_1|0
+a neural net learning algorithm|DT JJ JJ NN NN|BODY_4|0
+current speech synthesis programs|JJ NN NN NNS|BODY_8|0
+our intent|PRP$ NN|BODY_1|0
+an ff helix|DT RB NN|BODY_11|0
+69.2 %|CD NN|BODY_6|0
+an incremental extension|DT JJ NN|BODY_1|0
+only the nearest neighbor|RB DT JJS NN|BODY_5|0
+the best performance|DT JJS NN|BODY_1|0
+the entire 20,012 word merriam webster pocket dictionary|DT JJ CD NN NN NN NN NN|BODY_4|0
+the more complex version|DT RBR JJ NN|BODY_1|0
+the protein structure prediction task|DT NN NN NN NN|BODY_1|0
+the same experimental de- sign|DT JJ JJ NNS NN|BODY_1|0
+the strong performance|DT JJ NN|BODY_1|0
+the unweighted version|DT JJ NN|BODY_4|0
+these coefficients|DT NNS|BODY_1|0
+three important practical classification problems|CD JJ JJ NN NNS|BODY_6|0
+better than 99 % accuracy|JJR IN CD NN NN|BODY_8|0
+'s knowledge-rich approach|POS JJ NN|BODY_6|0
+4 4.2 promoter sequences|CD CD NN NNS|BODY_1|0
+computer memory|NN NN|BODY_10|0
+few rules|JJ NNS|BODY_1|0
+its matching exemplar|PRP$ NN NN|BODY_6|0
+many exceptions|JJ NNS|BODY_8|0
+no promoters|DT NNS|BODY_4|0
+pebls.|PRP$|BODY_8|0
+the only parameter|DT JJ NN|BODY_1|0
+the same output|DT JJ NN|BODY_10|0
+the weight difference increases|DT NN NN NNS|BODY_9|0
+'s kbann algorithm|POS NN NN|BODY_6|0
+features values|NNS NNS|BODY_8|0
+ffi symmetric|JJ JJ|BODY_7|0
+many angles|JJ NNS|BODY_8|0
+nettalk|NN|BODY_1|0
+parallel exemplar-based learning system|RB JJ VBG NN|BODY_4|0
+significantly faster classification times|RB JJR NN NNS|BODY_5|0
+that residues|DT NNS|BODY_5|0
+the effect|DT NN|BODY_1|0
+the normal rule|DT JJ NN|BODY_6|0
+the simpler version|DT JJR NN|BODY_1|0
+the stanfill-waltz vdm non-symmetric|DT JJ NN JJ|BODY_5|0
+this set|DT NN|BODY_1|0
+a chain|DT NN|BODY_4|0
+10 tables|CD NNS|BODY_7|0
+6 conclusion|CD NN|BODY_1|0
+our databases|PRP$ NNS|BODY_1|0
+our exception spaces|PRP$ NN NNS|BODY_6|0
+the comparisons|DT NNS|BODY_1|0
+the mvdm.|DT NN|BODY_6|0
+the protein secondary structure task|DT NN JJ NN NN|BODY_5|0
+the same|DT JJ|BODY_7|0
+the weight|DT NN|BODY_1|0
+this information|DT NN|BODY_1|0
+using equation 1|VBG NN CD|BODY_1|0
+essentially three compo- nents|RB CD NNS NNS|BODY_2|0
+such domains|JJ NNS|ABSTRACT_1|0
+fi- nally|CD RB|BODY_1|0
+four symbolic values|CD JJ NNS|BODY_6|0
+twenty different acids|CD JJ NNS|BODY_5|0
+the distance ffi|DT NN NN|BODY_1|0
+a system|DT NN|BODY_1|0
+the n th|DT NN NN|BODY_3|0
+those studies|DT NNS|BODY_8|0
+the following section|DT VBG NN|BODY_14|0
+training instances 1|NN NNS CD|BODY_5|0
+equation|NN|BODY_3|0
+conventional nearest neighbor algorithms|JJ JJS NN NNS|BODY_10|0
+some difficulty|DT NN|BODY_5|0
+their scheme|PRP$ NN|BODY_1|0
+d log n )|JJ NN NN -RRB-|BODY_5|0
+unreliable examples|JJ NNS|BODY_11|0
+a significant difference|DT JJ NN|BODY_4|0
+individual examples|JJ NNS|BODY_13|0
+the nearest stored instance|DT JJS VBN NN|BODY_3|0
+a homologous one|DT JJ CD|BODY_6|0
+the above discussion|DT JJ NN|BODY_1|0
+the advantages|DT NNS|BODY_1|0
+the protein folding task|DT NN NN NN|BODY_1|0
+the past , nearest neighbor algorithms|DT JJ , JJS NN NNS|ABSTRACT_1|0
+the overlap metric measures distance|DT JJ JJ NNS NN|BODY_1|0
+the ones|DT NNS|ABSTRACT_7|0
+the more times|DT JJR NNS|BODY_1|0
+865 )|CD -RRB-|BODY_1|0
+our formulation , ffi and \delta|PRP$ NN , NN CC NN|BODY_1|0
+the following example|DT VBG NN|BODY_1|0
+two classifications , ff and fi|CD NNS , NN CC JJ|BODY_1|0
+unreliable exemplars|JJ NNS|BODY_1|0

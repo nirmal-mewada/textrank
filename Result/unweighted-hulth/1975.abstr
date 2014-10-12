@@ -1,0 +1,32 @@
+local moments|JJ NNS|BODY_2:BODY_3|0
+convolution|NN|BODY_3|0
+overlapping windows|JJ NNS|BODY_2|0
+this fact|DT NN|BODY_4|0
+accumulation moments|NN NNS|BODY_3|0
+an algorithm|DT NN|BODY_5|0
+their use|PRP$ NN|BODY_5|0
+they|PRP|BODY_3|0
+the concept|DT NN|BODY_2|0
+the effect|DT NN|BODY_6|0
+this|DT|BODY_2|0
+which|WDT|BODY_6|0
+applications|NNS|BODY_6|0
+a set|DT NN|BODY_6|0
+the image|DT NN|BODY_5|0
+local geometric moments|JJ JJ NNS|BODY_2|0
+local features|JJ NNS|BODY_5|0
+inherently integral-based features|RB JJ NNS|BODY_4|0
+this paper|DT NN|BODY_4|0
+attention|NN|BODY_4|0
+a neighborhood operation|DT NN NN|BODY_3|0
+a convolution|DT NN|BODY_4|0
+account|NN|BODY_5|0
+moments|NNS|BODY_1|0
+a matrix formulation|DT NN NN|BODY_1|0
+simple|NN|BODY_7|0
+the main reason|DT JJ NN|BODY_1|0
+uncorrelated noise|JJ NN|BODY_7|0
+masks|NNS|BODY_7|0
+edge detection and texture segmentation|NN NN CC NN NN|BODY_7|0
+efficient computation|JJ NN|BODY_1|0
+the computation|DT NN|BODY_1|0

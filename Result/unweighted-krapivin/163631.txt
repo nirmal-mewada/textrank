@@ -1,0 +1,1362 @@
+we|PRP|BODY_12:BODY_11:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8:BODY_20:BODY_9|2
+it|PRP|BODY_6:BODY_5:BODY_11:ABSTRACT_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_6:BODY_5:BODY_11:BODY_13:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|0
+the meta-process|DT NN|BODY_11:BODY_21:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_28:BODY_1:BODY_7:BODY_8:BODY_9|0
+the software process|DT NN NN|BODY_11:BODY_22:BODY_15:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_8:BODY_1:BODY_10:BODY_7:BODY_8|0
+the process|DT NN|BODY_6:BODY_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_20:BODY_9|0
+which|WDT|BODY_6:BODY_12:BODY_5:ABSTRACT_4:BODY_21:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the software production process|DT NN NN NN|BODY_12:BODY_6:BODY_17:BODY_2:BODY_39:BODY_1:BODY_4:BODY_7:BODY_8|0
+this|DT|BODY_12:BODY_5:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_8:BODY_9|0
+.e|NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_25:BODY_3:BODY_4:BODY_7:BODY_8|0
+a software process|DT NN NN|BODY_6:BODY_11:BODY_5:BODY_25:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+there|EX|BODY_12:BODY_5:ABSTRACT_2:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+they|PRP|BODY_6:BODY_12:BODY_5:BODY_1:BODY_3:ABSTRACT_1:BODY_4|0
+)|-RRB-|BODY_6:BODY_5:BODY_17:BODY_13:BODY_3:BODY_4:BODY_7|0
+both|DT|BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+software processes|NN NNS|BODY_11:BODY_5:ABSTRACT_5:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_8:BODY_9|0
+the evolution|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+a process|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8|0
+part|NN|BODY_13:BODY_1:BODY_2:BODY_19:BODY_7:BODY_8|0
+process models|NN NNS|BODY_5:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+a software process model|DT NN NN NN|BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+tools|NNS|BODY_6:BODY_1:BODY_14:BODY_3:BODY_4:BODY_8|0
+the software process support|DT NN NN NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_19:BODY_8|0
+the process support|DT NN NN|BODY_12:BODY_6:BODY_27:BODY_1:BODY_2:BODY_7:BODY_8|0
+what|WP|BODY_6:BODY_11:BODY_5:BODY_15:BODY_1:BODY_3:BODY_10:BODY_7|0
+process|NN|BODY_1:BODY_2:BODY_3:BODY_19:BODY_4|0
+us|PRP|BODY_2:BODY_1:BODY_7:BODY_9|0
+the process model|DT NN NN|BODY_6:BODY_5:BODY_2:BODY_9|0
+the template variation|DT JJ NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+process support|NN NN|BODY_5:BODY_3:BODY_14:BODY_7|0
+e.g|NN|BODY_5:BODY_15:BODY_2:BODY_3|0
+the software process model|DT NN NN NN|BODY_6:BODY_11:BODY_5:BODY_3:BODY_4:BODY_8|0
+the set|DT NN|BODY_13:BODY_2:BODY_1|0
+charge|NN|BODY_22:BODY_15:BODY_2:BODY_3|0
+changes|NNS|BODY_6:BODY_14:BODY_3:BODY_9|1
+process evolution|NN NN|BODY_6:BODY_16:BODY_2:BODY_3|0
+artifacts|NNS|BODY_5:BODY_1:BODY_10:BODY_4:BODY_7|0
+variations|NNS|BODY_2:BODY_1:BODY_14:BODY_4:BODY_10:BODY_7:BODY_9|0
+the edp center|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_8|0
+example|NN|BODY_5:BODY_2:BODY_1:BODY_4:BODY_7|0
+i .e|FW FW|BODY_6:BODY_5:BODY_4:BODY_10:BODY_9|0
+a software production process|DT NN NN NN|BODY_11:BODY_36:ABSTRACT_5:BODY_1:BODY_20|0
+meta-activities|NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+this meta-activity|DT NN|BODY_5:BODY_2|0
+a process model|DT NN NN|BODY_6:BODY_1:BODY_2:BODY_4:BODY_8|0
+who|WP|BODY_6:BODY_5:BODY_3:BODY_7|0
+evolution|NN|BODY_6:BODY_2:BODY_1:BODY_3|0
+a model|DT NN|BODY_5:BODY_17:BODY_13:BODY_1:BODY_24|0
+a meta-process|DT NN|BODY_12:BODY_6:BODY_5:BODY_2:BODY_4|0
+the production process|DT NN NN|BODY_6:BODY_5:BODY_18:BODY_26:BODY_1:BODY_4:BODY_7:BODY_8|0
+the operations|DT NNS|BODY_2:BODY_3:BODY_14|0
+information systems|NN NNS|BODY_2:BODY_4:BODY_9|0
+them|PRP|BODY_6:BODY_5:BODY_10|0
+feedbacks|NNS|BODY_11:BODY_4|0
+humans|NNS|BODY_12:BODY_5:BODY_4:ABSTRACT_7|0
+itself|PRP|BODY_15:BODY_4:BODY_29:BODY_9|0
+processes|NNS|BODY_6:BODY_2:BODY_3:BODY_7|0
+activities|NNS|BODY_12:BODY_2:BODY_1:BODY_7|0
+different kinds|JJ NNS|BODY_5:ABSTRACT_2:BODY_2:BODY_4:BODY_8|1
+model|NN|BODY_6:BODY_5:BODY_4:BODY_9|0
+( e .g|-LRB- NN NN|BODY_16:BODY_4:BODY_9|0
+roles|NNS|BODY_6:BODY_2:BODY_8:BODY_9|0
+software items|NN NNS|BODY_5:BODY_2:BODY_4|0
+process design|NN NN|BODY_6:BODY_5:BODY_11:BODY_1|0
+a role|DT NN|BODY_18:BODY_14:BODY_7|0
+the real-world process|DT NN NN|BODY_15:BODY_3:BODY_4:BODY_8|0
+enactment|NN|BODY_6:BODY_12:BODY_2|0
+operations|NNS|BODY_6:BODY_1:BODY_8|0
+these|DT|BODY_6:BODY_5:BODY_4|0
+the software meta-process|DT NN NN|BODY_18:BODY_15:BODY_2:BODY_14|1
+the transient process|DT JJ NN|BODY_5:BODY_2:BODY_4:BODY_8|0
+ffl|NN|BODY_5:BODY_3|0
+respect|NN|BODY_11:BODY_4|0
+change|NN|BODY_3:BODY_7|0
+a part|DT NN|BODY_5:BODY_3|0
+agents|NNS|BODY_13:BODY_7:BODY_8|0
+the design specification|DT NN NN|BODY_6:BODY_4|0
+models|NNS|BODY_6:BODY_1:BODY_3:BODY_10|0
+methods|NNS|BODY_12:BODY_18:BODY_10|0
+process implementation|NN NN|BODY_15:BODY_14:BODY_7|0
+technologies|NNS|BODY_11:BODY_2|0
+the existing process|DT JJ NN|BODY_5:BODY_2:BODY_4:BODY_7|0
+concepts|NNS|BODY_6:ABSTRACT_3:BODY_4|0
+language|NN|BODY_27:BODY_7:BODY_9|0
+ffl meta-activities|JJ NNS|BODY_6:BODY_3|0
+technology provision|NN NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the domain|DT NN|BODY_15:BODY_1:BODY_8|0
+a production process|DT NN NN|BODY_2:BODY_4|0
+the implementation meta-activity|DT NN NN|BODY_5:BODY_3:BODY_14:BODY_7|0
+the area|DT NN|BODY_18:BODY_1:BODY_4|0
+the modification|DT NN|BODY_1:BODY_3:BODY_7|0
+a template variation|DT JJ NN|BODY_5:BODY_2:BODY_4|0
+the technologies|DT NNS|BODY_5:ABSTRACT_5|0
+the organization|DT NN|BODY_11:ABSTRACT_4|0
+the preparation|DT NN|BODY_12:BODY_2|0
+data|NNS|BODY_10:BODY_7|0
+the ability|DT NN|BODY_2|0
+terms|NNS|BODY_2:BODY_4|0
+a software product|DT NN NN|BODY_33:BODY_5:BODY_3:BODY_4|0
+examples|NNS|BODY_2:BODY_1|0
+an enacting variation|DT VBG NN|BODY_6:BODY_1|0
+languages|NNS|BODY_14:BODY_3|0
+a set|DT NN|BODY_15:BODY_7|0
+the environment|DT NN|BODY_5:BODY_3|0
+the quality|DT NN|BODY_2:BODY_4|0
+meta-process|NN|BODY_18:BODY_19:BODY_8|0
+an example|DT NN|BODY_2:ABSTRACT_3|0
+modularization|NN|BODY_12:BODY_3|0
+the framework|DT NN|BODY_1:BODY_7|0
+the introduction|DT NN|BODY_3|0
+the nature|DT NN|BODY_1:BODY_3:BODY_7|0
+a high degree|DT JJ NN|BODY_1:BODY_4|0
+rapid prototyping|JJ NN|BODY_4:BODY_9|0
+a conceptual framework|DT JJ NN|TITLE_1:ABSTRACT_9|0
+the role|DT NN|BODY_17:BODY_7|0
+software production process|NN NN NN|BODY_4:BODY_30|0
+the mechanisms|DT NNS|BODY_16:BODY_8|0
+e .g|NN NN|BODY_12:BODY_4|0
+a significant number|DT JJ NN|BODY_2:BODY_7|0
+the basic concepts|DT JJ NNS|BODY_5:BODY_4|0
+such|JJ|BODY_5:BODY_10|0
+the need|DT NN|BODY_3|0
+the new process|DT JJ NN|BODY_13:BODY_4|0
+the software process domain|DT NN NN NN|BODY_2:BODY_4|0
+schema evolution|NN NN|BODY_18:BODY_1|0
+a reference framework|DT NN NN|BODY_2:BODY_3|0
+a template|DT NN|BODY_5:BODY_3|0
+the definition|DT NN|BODY_5:BODY_10:BODY_4|0
+this paper|DT NN|BODY_6:BODY_8|0
+the technology|DT NN|BODY_3:BODY_4|0
+case tools|NN NNS|BODY_2:BODY_4|0
+the product|DT NN|BODY_17:BODY_7|0
+character|NN|BODY_4:BODY_9|0
+the previous section|DT JJ NN|BODY_1:BODY_3:BODY_8|0
+software engineering|NN NN|BODY_2:BODY_10|0
+the activities|DT NNS|BODY_6:BODY_14|0
+the proposed framework|DT VBN NN|BODY_5:BODY_4|1
+the interaction|DT NN|ABSTRACT_6:BODY_10|0
+different scenarios|JJ NNS|BODY_1:BODY_4|0
+this section|DT NN|BODY_11:BODY_1:BODY_2|0
+flexible architectures|JJ NNS|BODY_2|0
+information|NN|BODY_3|0
+reconfigurable , modular|JJ , JJ|BODY_3|0
+the main source|DT JJ NN|BODY_2|0
+whose goal|WP$ NN|BODY_7:BODY_9|0
+a software meta-process|DT NN NN|BODY_18:ABSTRACT_7|0
+reflection|NN|BODY_15:BODY_4|0
+the conceptual framework|DT JJ NN|BODY_5:BODY_3|0
+a versioned and composite object|DT JJ CC JJ NN|BODY_2|0
+general software engineering|JJ NN NN|BODY_2|0
+individual meta-tools|JJ NNS|BODY_2|0
+the problems|DT NNS|ABSTRACT_2|0
+the same or similar concepts|DT JJ CC JJ NNS|BODY_2|0
+the structure|DT NN|BODY_6:BODY_3|0
+the production and maintenance|DT NN CC NN|BODY_32:BODY_7|0
+the 2nd european software process workshop|DT CD JJ NN NN NN|BODY_3|0
+all the activities|PDT DT NNS|BODY_2:BODY_3|0
+the previous sections|DT JJ NNS|BODY_2:BODY_4|0
+5|CD|BODY_13:BODY_1|0
+technology|NN|BODY_4:BODY_8|0
+implementation|NN|BODY_16:BODY_7|0
+design|NN|BODY_6:BODY_3|0
+enacting variations|VBG NNS|BODY_8:BODY_9|0
+an existing process|DT JJ NN|BODY_2:BODY_4|0
+the properties|DT NNS|BODY_6:ABSTRACT_4|0
+the problem|DT NN|BODY_2:BODY_3|0
+analysis|NN|BODY_5:BODY_4|0
+new requirements|JJ NNS|BODY_5:BODY_3|0
+the monitor|DT NN|BODY_5:BODY_4|0
+management|NN|BODY_5:BODY_2|0
+the invocation|DT NN|BODY_6:BODY_5|0
+software process models|NN NN NNS|BODY_5:BODY_29:BODY_7|0
+the cost|DT NN|BODY_4:BODY_7|0
+techniques|NNS|BODY_13:BODY_4|0
+technologies and methods|NNS CC NNS|BODY_3:BODY_4|0
+creation|NN|BODY_5:BODY_4|0
+the purpose|DT NN|BODY_6:BODY_1:BODY_10|0
+a method|DT NN|BODY_2:BODY_3|0
+relation|NN|BODY_3:BODY_4|0
+new enactable|JJ NN|BODY_3:BODY_8|0
+artifact|NN|BODY_6:BODY_38|0
+the target process|DT NN NN|BODY_3|0
+formal notation|JJ NN|BODY_6:BODY_28|0
+flexibility ( meta|NN -LRB- NN|BODY_2|0
+template , enactable and enacting variations|JJ , JJ CC VBG NNS|BODY_3|0
+the implementation|DT NN|BODY_1:BODY_2|0
+all|DT|BODY_5:BODY_4|0
+model variations|NN NNS|BODY_2:BODY_4|0
+the editor|DT NN|BODY_3|0
+particular|JJ|ABSTRACT_4:BODY_1|0
+their corresponding models|PRP$ JJ NNS|BODY_11:BODY_4|0
+a process starter tool|DT NN NN NN|BODY_2|0
+the presented concepts|DT VBN NNS|BODY_3|0
+an organic entity|DT JJ NN|BODY_6:BODY_4|0
+the whole software process|DT JJ NN NN|BODY_3:BODY_10|0
+the performance|DT NN|BODY_1:BODY_4|0
+our partners|PRP$ NNS|BODY_4|0
+the participants|DT NNS|BODY_2|0
+design specifications|NN NNS|BODY_1:BODY_4|0
+the real-world|DT NN|BODY_5:BODY_10|0
+colleagues|NNS|BODY_3|0
+nth|NN|BODY_6|0
+darpa|NN|BODY_3|0
+self-defining compilers|JJ NNS|BODY_3|0
+task networks|NN NNS|BODY_7|0
+software process|NN NN|BODY_5:BODY_26|0
+the agents|DT NNS|BODY_5:BODY_4|0
+cap gemini innovation|NN NNS NN|BODY_7|0
+their thanks|PRP$ NNS|BODY_2|0
+a description|DT NN|BODY_35:BODY_6|0
+process behavior|NN NN|BODY_6|0
+the tools|DT NNS|BODY_6:BODY_3|0
+this area|DT NN|BODY_2|0
+such models|JJ NNS|BODY_2|0
+process programs|NN NNS|BODY_8|0
+especially the fine-grained process aspects|RB DT JJ NN NNS|BODY_2|0
+bootstrapped systems|JJ NNS|BODY_2|0
+themselves|PRP|BODY_2|0
+the associated process|DT VBN NN|BODY_5|0
+paper aims|NN NNS|ABSTRACT_8|0
+its implementation|PRP$ NN|BODY_5:BODY_9|0
+an agent|DT NN|BODY_17:BODY_1|0
+consideration|NN|BODY_1:BODY_9|0
+a quality manager|DT NN NN|BODY_20|0
+their meta-artifacts|PRP$ NNS|BODY_7|0
+different ways|JJ NNS|BODY_3|0
+software|NN|BODY_5:BODY_9|0
+many software process support technologies|JJ NN NN VB NNS|ABSTRACT_8|0
+cm control|NN NN|BODY_3|0
+5  software artifacts|CD JJ NN NNS|BODY_3|0
+their specific merits and drawbacks|PRP$ JJ NNS CC NNS|BODY_5|0
+larity|NN|BODY_4|0
+the above process elements|DT JJ NN NNS|BODY_3|0
+human roles|JJ NNS|BODY_6:BODY_22|0
+banking|NN|BODY_7|0
+( re )elaborated and|-LRB- NN VBN CC|BODY_5|0
+the managing director|DT VBG NN|BODY_2|0
+which aspects|WDT NNS|BODY_2|0
+similar kinds|JJ NNS|BODY_8|0
+a given goal|DT VBN NN|BODY_6|0
+ffl software processes|NN NN NNS|BODY_6|0
+semantics|NNS|BODY_5|0
+such evolution|JJ NN|BODY_4|0
+incremental creation and evolution|JJ NN CC NN|BODY_2|0
+meta-level|NN|BODY_3|0
+the production technology|DT NN NN|BODY_16:BODY_1|0
+[dnr91] , [fh92] , [cffs92] , and [ lon93] )|JJ , JJ , JJ , CC JJ NNS -RRB-|BODY_3|0
+progress|NN|BODY_2|0
+five phases|CD NNS|BODY_2|0
+specific rules and procedures|JJ NNS CC NNS|BODY_6|0
+this basic assumption|DT JJ NN|BODY_2|0
+cefriel|NN|BODY_5|0
+politecnico di milano|NN NN NN|BODY_4|0
+an effective support|DT JJ NN|BODY_5|0
+a common set|DT JJ NN|BODY_5|0
+the same software process|DT JJ NN NN|BODY_2|0
+formal i/o parameters|JJ NN NNS|BODY_4|0
+recent years|JJ NNS|ABSTRACT_7|0
+our opinion|PRP$ NN|BODY_2:BODY_1|0
+the way|DT NN|BODY_13:BODY_3:BODY_4:BODY_7|0
+a different process|DT JJ NN|BODY_5|0
+software production|NN NN|BODY_19:BODY_7|0
+the paper|DT NN|BODY_6:BODY_2|0
+the last decades|DT JJ NNS|BODY_2:BODY_9|0
+the database literature|DT NN NN|BODY_2|0
+the recent past|DT JJ NN|BODY_2|0
+follows|VBZ|BODY_3|0
+a process lifecycle|DT NN NN|BODY_3|0
+the software process community|DT NN NN NN|BODY_4|0
+carnegie mellon university|NN NN NN|BODY_5|0
+such changes|JJ NNS|BODY_2|0
+lisp|NN|BODY_11|0
+an explicit enactment state|DT JJ NN NN|BODY_5|0
+process requirements analysis|NN NNS NN|BODY_5:BODY_1|0
+time|NN|ABSTRACT_5:BODY_3|0
+responsibilities|NNS|BODY_19|0
+the support tools|DT NN NNS|BODY_3:BODY_7|0
+the bank ( process|DT NN -LRB- NN|BODY_3|0
+long periods|JJ NNS|ABSTRACT_4:BODY_2|0
+steps|NNS|BODY_5|0
+'s software engineering insti- tute|POS NN NN NNS NN|BODY_4|0
+smalltalk|NN|BODY_12|0
+different circumstances|JJ NNS|BODY_3|0
+a new target process|DT JJ NN NN|BODY_3|0
+four observations|CD NNS|BODY_2|0
+the new process model|DT JJ NN NN|BODY_6|0
+the meaning|DT NN|BODY_3|0
+a specific software product|DT JJ NN NN|BODY_16:BODY_10|0
+their lifetime|PRP$ NN|BODY_5|0
+its constituent tools|PRP$ JJ NNS|BODY_2|0
+academia and industry|NN CC NN|BODY_2|0
+cooperations|NNS|BODY_1|0
+process technology provider|NN NN NN|BODY_1|0
+the general scheme|DT JJ NN|BODY_2|0
+the software process technol- ogy|DT NN NN NNS NN|BODY_2|0
+this extension|DT NN|BODY_1|0
+better way|JJR NN|BODY_5|0
+meta-process |NN|BODY_2|0
+triggers )|NNS -RRB-|BODY_6|0
+instance-level delegation|NN NN|BODY_18|0
+the model editor|DT NN NN|BODY_1:BODY_4|0
+different sequences|JJ NNS|BODY_2|0
+assessment|NN|BODY_6:BODY_8|0
+the whole process|DT JJ NN|BODY_5:BODY_24|0
+operation signatures|NN NNS|BODY_3|0
+the process domain|DT NN NN|ABSTRACT_9|0
+production rules|NN NNS|BODY_5|0
+the assumption|DT NN|ABSTRACT_2:BODY_2|0
+some conclusions and points|DT NNS CC NNS|BODY_2|1
+him|PRP|BODY_9|0
+two recursion|CD NN|BODY_4|0
+the potential and expected benefits|DT JJ CC JJ NNS|ABSTRACT_4|0
+views|NNS|BODY_17|0
+the above-mentioned goals|DT JJ NNS|BODY_4|0
+process evolution software technology|NN NN NN NN|BODY_2|0
+longer life-time|RB NN|BODY_4|0
+all programmers|DT NNS|BODY_4|0
+the process formalism|DT NN NN|BODY_6:BODY_9|0
+generics/parameterized classes|JJ NNS|BODY_16|0
+software development tools|NN NN NNS|BODY_5|0
+incremental detailing|JJ VBG|BODY_5|0
+requirements|NNS|BODY_12|0
+the same|DT JJ|BODY_4|0
+activity|NN|BODY_8:BODY_9|0
+highly diverse process|RB JJ NN|BODY_2|0
+many changes|JJ NNS|BODY_4|0
+corresponding meta-activities|JJ NNS|BODY_4|0
+such a reference framework|JJ DT NN NN|BODY_4|0
+method support|NN NN|BODY_3|0
+the meta-tools|DT NNS|BODY_4|0
+1983 [sei91]|CD NNS|BODY_7|0
+communication and assessment|NN CC NN|BODY_2|0
+hard demands|JJ NNS|BODY_4|0
+both horizontal ( chaining )|DT JJ -LRB- NN -RRB-|BODY_3|0
+2 )|CD -RRB-|BODY_8|0
+enactment support|NN NN|BODY_8|0
+higher skills|JJR NNS|BODY_17|0
+documentation|NN|BODY_7|0
+ad-hoc|NN|BODY_19|0
+these activities|DT NNS|BODY_5|0
+deep semantics|JJ NNS|BODY_4|0
+pittsburgh|NN|BODY_6|0
+technical aspects|JJ NNS|BODY_2|0
+technology providers|NN NNS|BODY_2|0
+creation and modification|NN CC NN|BODY_4|0
+embodiments and representations|NNS CC NNS|BODY_3|0
+production steps|NN NNS|BODY_3|0
+technical mechanisms|JJ NNS|BODY_4|0
+problems|NNS|BODY_13|0
+higher degree|JJR NN|BODY_12|0
+reuse|NN|BODY_13|0
+all three process support systems|DT CD NN NN NNS|BODY_2|0
+subclasses|NNS|BODY_15|0
+account|NN|BODY_1:BODY_3|1
+binding mechanisms|JJ NNS|BODY_20|0
+notice|NN|BODY_1|0
+the above-mentioned measurement activity|DT JJ NN NN|BODY_6|0
+the indications|DT NNS|BODY_5|0
+policies etc.|NNS NN|BODY_6|0
+( [ der92|-LRB- NN NN|BODY_15|0
+an artifact|DT NN|BODY_1:BODY_4|0
+process model editors|NN NN NNS|BODY_3|0
+an existing model|DT JJ NN|BODY_11:BODY_7|0
+emphasis|NN|BODY_6|0
+networks|NNS|BODY_2|0
+the corresponding software process sup|DT JJ NN NN NN|BODY_13|0
+new methods and approaches|JJ NNS CC NNS|BODY_7|0
+use|NN|BODY_5|0
+work|NN|BODY_6|0
+a memorandum|DT NN|BODY_3|0
+software development ( e .g|NN NN -LRB- NN NN|BODY_8|0
+its goal|PRP$ NN|BODY_1:BODY_7|0
+a module|DT NN|BODY_8|0
+process performance|NN NN|BODY_11|0
+industrial initiatives|JJ NNS|BODY_3|0
+the fundamental reason|DT JJ NN|BODY_3|0
+early experiences|JJ NNS|BODY_14|0
+available resources|JJ NNS|BODY_10|0
+c +|NN NN|BODY_2|0
+little cross-fertilization|JJ NN|BODY_2|0
+the context|DT NN|BODY_2|0
+the software process support technology|DT NN NN NN NN|BODY_6|0
+self-reference|NN|BODY_2|0
+several recent initiatives|JJ JJ NNS|BODY_2|0
+template variations|JJ NNS|BODY_5:BODY_4|0
+a transient change process|DT JJ NN NN|BODY_6:BODY_11|0
+assessment and propagation|NN CC NN|BODY_19|0
+the corresponding enactment|DT JJ NN|BODY_5|0
+process improvement|NN NN|BODY_13:BODY_1|0
+possible applications|JJ NNS|BODY_3|1
+software process technologies|NN NN NNS|BODY_3|0
+new types and information structures|JJ NNS CC NN NNS|BODY_8|0
+an enacted model variation|DT VBN NN NN|BODY_3|0
+persistent data|JJ NNS|BODY_3|0
+the paper points|DT NN NNS|BODY_4|0
+the debugger|DT NN|BODY_8|0
+process managers|NN NNS|BODY_6|0
+( new ) requirements|-LRB- JJ -RRB- NNS|BODY_7|0
+the detailed requirements|DT JJ NNS|BODY_2|0
+the technological and methodological issues|DT JJ CC JJ NNS|BODY_2|0
+busy change|JJ NN|BODY_9|0
+a formal description|DT JJ NN|BODY_2|0
+the software pro- cess|DT NN NNS NN|BODY_12|0
+user training|NN NN|BODY_10|0
+software production activities.|NN NN NN|ABSTRACT_6|0
+the substitution|DT NN|BODY_3|0
+compilers|NNS|BODY_3|0
+( part|-LRB- NN|BODY_4|0
+high-quality software products|JJ NN NNS|BODY_7|0
+the whole software process.the general requirements and properties|DT JJ NN NNS JJ NNS CC NNS|ABSTRACT_8|0
+(|-LRB-|BODY_10:BODY_4|0
+the software process model )|DT NN NN NN -RRB-|BODY_7|0
+the enactable variation|DT JJ NN|BODY_6:BODY_10|0
+its own structure|PRP$ JJ NN|BODY_9|0
+class hierarchy|NN NN|BODY_9|0
+all possible consequences|DT JJ NNS|BODY_11|0
+an increased complexity|DT JJ NN|BODY_6|0
+its performances|PRP$ NNS|BODY_10|0
+addition|NN|BODY_1|0
+a human|DT NN|BODY_2|0
+a process manager|DT NN NN|BODY_18|0
+their cost|PRP$ NN|BODY_4|0
+side-effects|NNS|BODY_20|0
+source code|NN NN|BODY_5|0
+these two tools|DT CD NNS|BODY_11|0
+a reverse engineering tool )|DT JJ NN NN -RRB-|BODY_6|0
+test data|NN NNS|BODY_6|0
+a fine granu|DT JJ NN|BODY_3|0
+sufficient detail|JJ NN|BODY_7|0
+a fine-grained and incremental way|DT JJ CC JJ NN|BODY_2|0
+system x offer formal meta-process tools|NN NN NN JJ NN NNS|BODY_4|0
+that stated constraints|DT JJ NNS|BODY_16|0
+projects )|NNS -RRB-|BODY_14|0
+resources|NNS|BODY_11|0
+software quality|NN NN|BODY_7|0
+also )|RB -RRB-|BODY_14|0
+( i .e|-LRB- FW FW|BODY_6:BODY_2|0
+the previous subsection|DT JJ NN|BODY_3|0
+several model variations|JJ NN NNS|BODY_2|0
+six possible operations|CD JJ NNS|BODY_3|0
+such a design specification|JJ DT NN NN|BODY_2|0
+the skills|DT NNS|BODY_19|0
+( control|-LRB- NN|BODY_5|0
+non-technical aspects|JJ NNS|BODY_9|0
+releases|NNS|BODY_8|0
+the resulting software process|DT JJ NN NN|BODY_3|0
+] [iee91a|SYM FW|BODY_16|0
+the focus|DT NN|BODY_1:BODY_2|0
+a new process|DT JJ NN|BODY_3:BODY_8|0
+its software meta-process 3|PRP$ NN NN CD|BODY_12|0
+the check-in activity|DT NN NN|BODY_6:BODY_5|0
+next section|JJ NN|BODY_5|0
+their models|PRP$ NNS|BODY_5|0
+software activities|NN NNS|BODY_4|0
+the transformation|DT NN|BODY_6|0
+sharing|NN|BODY_10|0
+the long term|DT JJ NN|BODY_15|0
+consistency control|NN NN|BODY_4|0
+a process model interpreter|DT NN NN NN|BODY_4|0
+the meta-processes|DT NNS|BODY_2|0
+a proof|DT NN|BODY_2|0
+( software ) processes|-LRB- NN -RRB- NNS|BODY_5|0
+support|NN|BODY_4|0
+the 1 note|DT CD NN|BODY_2|0
+a fundamental impact|DT JJ NN|BODY_2|0
+a template model variation|DT JJ NN NN|BODY_2|0
+the object-oriented database system manifesto [abd section 1|DT JJ NN NN NN VBN NN CD|BODY_3|0
+1 )|CD -RRB-|BODY_6|0
+additional feedback and requirements|JJ NN CC NNS|BODY_12|0
+the processes|DT NNS|BODY_2|0
+configuration management|NN NN|BODY_17|0
+a specific business goal ( e .g|DT JJ NN NN -LRB- NN NN|BODY_6|0
+a binding|DT NN|BODY_3|0
+an arsenal|DT NN|BODY_3|0
+meta-level rules|NN NNS|BODY_5|0
+process agents|NN NNS|BODY_5|0
+a measurement activity|DT NN NN|BODY_11|0
+the steps|DT NNS|BODY_3|0
+good programming skills|JJ NN NNS|BODY_11|0
+a high-level reference model|DT JJ NN NN|BODY_6|0
+the various process support tools|DT JJ NN NN NNS|BODY_6|0
+their particularities|PRP$ NNS|BODY_4|0
+support ( process|NN -LRB- NN|BODY_4|0
+different variations|JJ NNS|BODY_3|0
+a new cobol compiler|DT JJ NN NN|BODY_5|0
+strongly interrelated : advances|RB JJ : NNS|BODY_2|0
+the following|DT NN|BODY_6:BODY_5:BODY_1|0
+a ( whole|DT -LRB- JJ|BODY_2|0
+meta-activity|NN|BODY_1:BODY_3|0
+the control|DT NN|BODY_3|0
+class instances|NN NNS|BODY_12|0
+owner|NN|BODY_4|0
+more focus|JJR NN|BODY_12|0
+the compiler|DT NN|BODY_7|0
+3.3 )|CD -RRB-|BODY_6|0
+the complexity|DT NN|BODY_2|0
+surgery|NN|BODY_8|0
+the common heading|DT JJ NN|BODY_6|0
+new version|JJ NN|BODY_6|0
+aggregates|NNS|BODY_9|0
+the language|DT NN|BODY_2|0
+businesses|NNS|BODY_5|0
+specific requirements|JJ NNS|BODY_5|0
+next subsection )|JJ NN -RRB-|BODY_5|0
+a common characterization|DT JJ NN|ABSTRACT_1|0
+a configuration management ( cm) system|DT NN NN -LRB- NN NN|BODY_3|0
+all process elements|DT NN NNS|BODY_1|0
+dynamic instrumentation and binding facilities|JJ NN CC NN NNS|BODY_3|0
+many different terms|JJ JJ NNS|BODY_1|0
+much underlying technology|JJ JJ NN|BODY_1|0
+other technologies|JJ NNS|BODY_3|0
+seems|VBZ|ABSTRACT_3|0
+such integrated meta-tools|JJ JJ NNS|BODY_1|0
+vice-versa|NN|BODY_3|0
+the process support tools|DT NN NN NNS|BODY_21:BODY_7|0
+an e-mail|DT NN|BODY_5|0
+budgetary and organizational constraints|JJ CC JJ NNS|BODY_9|0
+simply creation or modification|RB NN CC NN|BODY_4|0
+cim systems|NN NNS|BODY_5|0
+other then software production|JJ RB NN NN|BODY_6|0
+a copy|DT NN|BODY_7|0
+section 3|NN CD|BODY_1:BODY_8|0
+the process language interpreter|DT NN NN NN|BODY_7|0
+an existing variation|DT VBG NN|BODY_5|0
+commercial products|JJ NNS|ABSTRACT_2|0
+the skeleton|DT NN|BODY_4|0
+their activities|PRP$ NNS|BODY_8|0
+the granularity|DT NN|BODY_2|0
+architecture|NN|BODY_3|0
+the development and support|DT NN CC NN|BODY_3|0
+the existing software process support|DT JJ NN NN NN|BODY_6|0
+access control|NN NN|BODY_21|0
+other kinds|JJ NNS|BODY_10|0
+such meta-activities|JJ NNS|BODY_3|0
+structured analysis and design , top-down and/or bottom-up design|VBN NN CC NN , JJ CC JJ NN|BODY_10|0
+isolation|NN|BODY_7|0
+a new research area|DT JJ NN NN|BODY_8|0
+skills , cost and availability|NNS , NN CC NN|BODY_2|0
+the above-mentioned process elements|DT JJ NN NNS|BODY_2|0
+variation|NN|BODY_2|0
+a prototype-based development )|DT JJ NN -RRB-|BODY_9|0
+a given time|DT VBN NN|BODY_2|0
+a systematic way|DT JJ NN|BODY_2|0
+commonalities|NNS|BODY_2|0
+laboratories|NNS|BODY_2|0
+one universal meta-process|CD JJ NN|BODY_5|0
+several enactable variations|JJ JJ NNS|BODY_4|0
+( and specially models )|-LRB- CC RB NNS -RRB-|BODY_6|0
+enacting models|VBG NNS|BODY_2|0
+process changes|NN NNS|BODY_6|0
+their operating environment|PRP$ NN NN|BODY_5|0
+results|NNS|BODY_12|0
+dynamic schemas|JJ NNS|BODY_3|0
+2 note|CD NN|BODY_4|0
+scheduling|NN|BODY_8|0
+a specific part|DT JJ NN|BODY_14|0
+their suitability|PRP$ NN|BODY_2|0
+computer applications|NN NNS|BODY_9|0
+new tools|JJ NNS|BODY_4|0
+a variation|DT NN|BODY_4|0
+several kinds|JJ NNS|BODY_3|0
+simplicity|NN|BODY_2|0
+the real-world )|DT NN -RRB-|BODY_11|0
+quality methods and techniques|NN NNS CC NNS|BODY_13|0
+the following topics|DT VBG NNS|BODY_2|0
+( section|-LRB- NN|BODY_5|0
+no such total method|DT JJ JJ NN|BODY_3|0
+executable code|JJ NN|BODY_9|0
+the process language editor|DT NN NN NN|BODY_6|0
+multiple meta-activities|JJ NNS|BODY_8|0
+the three process support systems|DT CD NN NN NNS|BODY_2|0
+similar efforts|JJ NNS|BODY_1:BODY_20|0
+etc|FW|BODY_5:BODY_23|0
+possible changes|JJ NNS|BODY_2|0
+a wide consensus|DT JJ NN|BODY_2|0
+motivation|NN|BODY_11|0
+responsibilities and obligations|NNS CC NNS|BODY_16|0
+a specific instantiation|DT JJ NN|BODY_3|0
+technology provi- sion|NN NNS NN|BODY_4|0
+embody known support|NN VBN NN|BODY_18|0
+supportive ( automatable )|JJ -LRB- JJ -RRB-|BODY_4|0
+a common view|DT JJ NN|ABSTRACT_6|0
+improvement|NN|BODY_8|0
+ code  ) , e.g|JJ NN JJ -RRB- , FW|BODY_6|0
+software applications|NN NNS|BODY_6|0
+an alternative|DT NN|BODY_4|0
+meta-process )|NN -RRB-|BODY_2|0
+classes|NNS|BODY_10|0
+its description|PRP$ NN|BODY_6|0
+different technologies and solutions|JJ NNS CC NNS|BODY_3|0
+specific tools|JJ NNS|BODY_11|0
+section 2|NN CD|BODY_4|0
+very technical (|RB JJ -LRB-|BODY_10|0
+very little|RB JJ|BODY_13|0
+.|.|BODY_10|0
+the complex nature|DT JJ NN|BODY_4|0
+updating|VBG|BODY_3|0
+sublanguages|NNS|BODY_2|0
+the issue|DT NN|ABSTRACT_7|0
+meta-models and meta-tools|NNS CC NNS|BODY_4|0
+efficient and valuable financial services|JJ CC JJ JJ NNS|BODY_13|0
+the result|DT NN|BODY_9|0
+the bank|DT NN|BODY_10|0
+informal process descriptions|JJ NN NNS|BODY_10|0
+rameters|NNS|BODY_5|0
+line|NN|BODY_9|0
+the underlying machinery|DT VBG NN|BODY_7|0
+the fundamentals|DT NNS|BODY_2|0
+these operations|DT NNS|BODY_4|0
+change propagation|NN NN|BODY_4|0
+such techniques|JJ NNS|BODY_4|0
+the check-in procedure|DT NN NN|BODY_4|0
+a bank edp center|DT NN NN NN|BODY_3|0
+the evident analogy|DT JJ NN|BODY_2|0
+meta-process system|NN NN|BODY_5|0
+other times|JJ NNS|BODY_3|0
+software project|NN NN|BODY_7|0
+edp systems|JJ NNS|BODY_3|0
+( software ) process|-LRB- NN -RRB- NN|BODY_3|0
+the programmer|DT NN|BODY_6|0
+the current practice|DT JJ NN|BODY_4|0
+the productivity|DT NN|BODY_7|0
+implementation phase|NN NN|BODY_4|0
+constraints|NNS|BODY_8|0
+icl|JJ|BODY_5|0
+the state|DT NN|BODY_4|0
+humans and computer tools|NNS CC NN NNS|BODY_5|0
+each term|DT NN|BODY_5|0
+ffl tool|JJ NN|BODY_3|0
+purpose|NN|BODY_2:BODY_1|0
+a framework|DT NN|BODY_2|0
+some|DT|BODY_3|0
+model flexibility|NN NN|BODY_5|0
+specific temporal and other constraints and objectives ffl software process evolution|JJ JJ CC JJ NNS CC NNS NN NN NN NN|BODY_12|0
+the recent intensive work|DT JJ JJ NN|BODY_8|0
+different organizations|JJ NNS|BODY_4|0
+[iee91b] )|NN -RRB-|BODY_17|0
+various forms|JJ NNS|BODY_9|0
+the mon-|DT NNS|BODY_2|0
+each activity|DT NN|BODY_4|0
+process modeling support tools|NN JJ NN NNS|BODY_4|0
+the process lifecycle|DT NN NN|BODY_3|0
+a reflective system )|DT JJ NN -RRB-|BODY_3|0
+2|CD|BODY_6|0
+three different categories|CD JJ NNS|BODY_2|0
+a bank|DT NN|BODY_5|0
+scientific events|JJ NNS|BODY_9|0
+the exchange and discussion|DT NN CC NN|BODY_11|0
+stored data ( altering attribute layout|VBN NNS -LRB- NN NN NN|BODY_7|0
+user requirements|NN NNS|BODY_3|0
+all the real-world elements|PDT DT NN NNS|BODY_31|0
+new needs|JJ NNS|BODY_10|0
+any other information|DT JJ NN|BODY_12|0
+a given organization|DT VBN NN|BODY_11|0
+analysts and programmers ( human agents|NNS CC NNS -LRB- JJ NNS|BODY_4|0
+dynamic binding , verification and validation including testing|JJ NN , NN CC NN VBG NN|BODY_16|0
+agent|NN|BODY_4|0
+both process and meta-process activities|DT NN CC NN NNS|BODY_6|0
+support )|NN -RRB-|BODY_6|0
+an integrated production process|DT JJ NN NN|BODY_4|0
+the most innovative area|DT RBS JJ NN|BODY_16|0
+[est92]|NN|BODY_6|0
+these processes|DT NNS|BODY_2|0
+a crucial component|DT JJ NN|BODY_3|0
+object-oriented design and coding|JJ NN CC NN|BODY_11|0
+the bank departments|DT NN NNS|BODY_8|0
+a synonym|DT NN|BODY_13|0
+engineering tools|NN NNS|BODY_5|0
+different operations|JJ NNS|BODY_3|0
+process and meta-process modeling and instrumentation|NN CC NN NN CC NN|BODY_4|0
+end-to-end time|JJ NN|BODY_5|0
+the procedures|DT NNS|BODY_10|0
+ffl impact analysis|POS NN NN|BODY_11|0
+systematic support|JJ NN|BODY_15|0
+the process designer|DT NN NN|BODY_8|0
+common practice|JJ NN|BODY_10|0
+new methods and techniques|JJ NNS CC NNS|BODY_4|0
+a human performing|DT JJ VBG|BODY_5|0
+activity envelopes|NN NNS|BODY_2|0
+their relationships|PRP$ NNS|BODY_3|0
+re-entrant code|JJ NN|BODY_5|0
+the following list|DT JJ NN|BODY_4|0
+numerous advantages|JJ NNS|BODY_2|0
+explicit interfaces|JJ NNS|BODY_13|0
+both technical and managerial|DT JJ CC JJ|BODY_5|0
+an enactment step|DT NN NN|BODY_2|0
+type definitions|NN NNS|BODY_4|0
+evolving types/classes|VBG NNS|BODY_9|0
+specifications|NNS|BODY_6|0
+the form|DT NN|BODY_8|0
+production technology and artifacts|NN NN CC NNS|BODY_3|0
+mutual dependencies|JJ NNS|BODY_11|0
+appropriate times and points|JJ NNS CC NNS|BODY_2|0
+this fact|DT NN|BODY_1|0
+both meta-tools|DT NNS|BODY_3|0
+the defined target process|DT VBN NN NN|BODY_4|0
+the software meta-process )|DT NN NN -RRB-|BODY_5|0
+computer program|NN NN|BODY_4|0
+[cjm 3 software process evolution|NN CD NN NN NN|BODY_6|0
+reflective systems|JJ NNS|BODY_5|0
+effect|NN|BODY_13|0
+different aspects|JJ NNS|BODY_4|0
+undisciplined access|JJ NN|BODY_2|0
+ffl technology provision|JJ NN NN|BODY_5|0
+all changes|PDT NNS|BODY_6|0
+raw material|JJ NN|BODY_3|0
+the three variations|DT CD NNS|BODY_4|0
+the variation concept e.g|DT NN NN JJ|BODY_2|0
+whose goals|WP$ NNS|BODY_5|0
+process support technology|NN NN NN|BODY_7|0
+this situation|DT NN|BODY_2|0
+interfaces|NNS|BODY_4|0
+a step|DT NN|BODY_3|0
+two aspects|CD NNS|BODY_6|0
+3|CD|BODY_4|0
+this activity|DT NN|BODY_3|0
+sadt[ros77]|NN|BODY_10|0
+a definition|DT NN|BODY_6|0
+behavioral changes|JJ NNS|BODY_4|0
+hard  changes|JJ JJ NNS|BODY_5|0
+here process modeling languages|RB NN JJ NNS|BODY_3|0
+process model interpreters|NN NN NNS|BODY_6|0
+bob snowdon|NN NN|BODY_4|0
+the fundamental steps|DT JJ NNS|BODY_6|0
+the many initiatives|DT JJ NNS|BODY_3|0
+|RB|BODY_2|0
+scoping|NN|BODY_5|0
+new products , services and activities|JJ NNS , NNS CC NNS|BODY_5|0
+its software meta-process|PRP$ NN NN|BODY_21|0
+elements|NNS|BODY_6|0
+human agents|JJ NNS|BODY_2|0
+improved processes|JJ NNS|BODY_2|0
+similar computerized applications|JJ JJ NNS|BODY_4|0
+the contribution|DT NN|BODY_3|0
+modification|NN|BODY_6|0
+) this modification|-RRB- DT NN|BODY_6|0
+one|CD|BODY_6|0
+an application dimension|DT NN NN|BODY_2|0
+simply source code|RB NN NN|BODY_6|0
+figure 1|NN CD|BODY_4|0
+the latter|DT NN|BODY_1|0
+a single integrated model|DT JJ JJ NN|BODY_2|0
+the short term|DT JJ NN|BODY_3|0
+any specific meta-process lifecycle|DT JJ NN NN|BODY_4|0
+design (|NN -LRB-|BODY_15|0
+a synthesis|DT NN|BODY_3|0
+a change dimension|DT NN NN|BODY_2|0
+entities|NNS|BODY_3|0
+change support|NN NN|BODY_8|0
+a potentially infinite recursion|DT RB JJ NN|BODY_6|0
+'s business|POS NN|BODY_11|0
+reusable libraries|JJ NNS|BODY_14|0
+procedures , rules and policies|NNS , NNS CC NNS|BODY_2|0
+the enactable|DT NN|BODY_7|0
+human-oriented [cffs92]|JJ NNS|BODY_2|0
+better user guidance|JJR NN NN|BODY_14|0
+formal techniques|JJ NNS|BODY_10|0
+the activity level|DT NN NN|BODY_3|0
+the resulting framework|DT VBG NN|ABSTRACT_2|0
+profile|NN|BODY_6|0
+required software items|JJ NN NNS|BODY_14|0
+. ffl software production technology|. NN NN NN NN|BODY_15|0
+a single , integrated system|DT JJ , JJ NN|BODY_5|0
+the corresponding software process support|DT JJ NN NN NN|BODY_22|0
+object-oriented analysis|JJ NN|BODY_12|0
+different parts|JJ NNS|BODY_2|0
+ffl software process model|IN NN NN NN|BODY_23|0
+semantic modeling|JJ NN|BODY_11|0
+ soft |JJ JJ|BODY_3|0
+process supported projects|NN VBN NNS|BODY_3|0
+execution|NN|BODY_14|0
+combinations|NNS|BODY_8|0
+a clearer assessment|DT JJR NN|BODY_6|0
+software meta-process|NN NN|BODY_7|0
+the consequences|DT NNS|BODY_5|0
+more|JJR|BODY_3|0
+knowledge acquisition techniques|NN NN NNS|BODY_9|0
+some other activity variation|DT JJ NN NN|BODY_5|0
+more powerful ( e .g|JJR JJ -LRB- NN NN|BODY_13|0
+software documents and components|NN NNS CC NNS|BODY_2|0
+the different kinds|DT JJ NNS|BODY_3|0
+lessons|NNS|BODY_9|0
+offer meta-activity support|NN NN NN|BODY_2|0
+budget|NN|BODY_2|0
+the esprit basic research action # 7082 , promoter|DT NN JJ NN NN # CD , NN|BODY_2|0
+a given set|DT VBN NN|BODY_4|0
+reusable process fragments|JJ NN NNS|BODY_6|0
+recursion|NN|BODY_9|0
+the main reasons|DT JJ NNS|BODY_6|0
+model changes|NN NNS|BODY_10|0
+that process|DT NN|BODY_13|0
+process requirement analysis|NN NN NN|BODY_6|0
+software components|NN NNS|BODY_2|0
+some monitor/debugger tool|DT NN NN|BODY_2|0
+its evolving and reflective nature|PRP$ JJ CC JJ NN|BODY_3|0
+( new ) method work|-LRB- JJ -RRB- NN NN|BODY_14|0
+evolve|NN|BODY_4|0
+old ones|JJ NNS|BODY_7|0
+more details|JJR NNS|BODY_12|0
+their turn|PRP$ NN|BODY_9|0
+software product|NN NN|BODY_12|0
+the entities|DT NNS|BODY_7|0
+the installation|DT NN|BODY_12|0
+independently|RB|BODY_6|0
+all the real-world|PDT DT NN|BODY_5|0
+levels )|NNS -RRB-|BODY_3|0
+the existing enactable|DT VBG NN|BODY_6|0
+the medium term|DT JJ NN|BODY_8|0
+new features|JJ NNS|BODY_5|0
+the process implementation issue|DT NN NN NN|BODY_3|0
+similar external  meta-elements|JJ JJ NN NNS|BODY_3|0
+propagation|NN|BODY_9|0
+active tools|JJ NNS|BODY_5|0
+researchers and practitioners|NNS CC NNS|BODY_3|0
+ongoing check-in activities|JJ JJ NNS|BODY_4|0
+templates or types|NNS CC NNS|BODY_2|0
+changes or customizations|NNS CC NNS|ABSTRACT_3|0
+the software production technology|DT NN NN NN|BODY_9|0
+process-related definitions|JJ NNS|BODY_3|0
+the different activities|DT JJ NNS|BODY_3|0
+the software products|DT NN NNS|BODY_5|0
+interaction|NN|BODY_3|0
+ffl process|NN NN|BODY_4|0
+promoter|NN|BODY_5|0
+thanks|NNS|BODY_1|0
+benefits|NNS|BODY_1|0
+new software development tools|JJ NN NN NNS|BODY_3|0
+an indication|DT NN|BODY_5|0
+the production|DT NN|BODY_15|0
+the required evolution strategy|DT VBN NN NN|BODY_7|0
+transformations|NNS|BODY_3|0
+the above discussion|DT JJ NN|BODY_3|1
+busy vs.|JJ FW|BODY_8|0
+corresponding submodels|JJ NNS|BODY_3|0
+evolutionary introduction|JJ NN|BODY_4|0
+a partially ordered network|DT RB VBN NN|BODY_2|0
+one another|CD DT|BODY_7|0
+variation application change|NN NN NN|BODY_3|0
+this method|DT NN|BODY_1|0
+a specific action|DT JJ NN|BODY_9|0
+resource costs|NN NNS|BODY_6|0
+the process support technology|DT NN NN NN|BODY_4|0
+a large organization|DT JJ NN|BODY_6|0
+further attention|JJ NN|BODY_7|0
+instantiation|NN|BODY_8|0
+the invocations|DT NNS|BODY_3|0
+a level|DT NN|BODY_8|0
+the appropriate process support technology|DT JJ NN NN NN|BODY_9|0
+primitive operations|JJ NNS|BODY_3|0
+generating or|VBG CC|BODY_3|0
+the use|DT NN|BODY_8|0
+the process |DT NN|BODY_7|0
+an information form|DT NN NN|BODY_4|0
+analyse|NN|BODY_10|0
+distributed systems|VBN NNS|BODY_4|0
+the following five technologies|DT VBG CD NNS|BODY_1|0
+the process analysis meta-activity|DT NN NN NN|BODY_4|0
+the process owner|DT NN NN|BODY_1|0
+late / dynamic binding|JJ JJ JJ NN|BODY_8|0
+schema evolution and -versioning|NN NN CC JJ|BODY_7|0
+little conceptual characterization and assessment|JJ JJ NN CC NN|ABSTRACT_3|0
+guidance and support|NN CC NN|BODY_3|0
+rule-based expression|JJ NN|BODY_7|0
+an individual|DT JJ|BODY_8|0
+enactable and enacted variations|JJ CC VBN NNS|BODY_7|0
+better understanding|JJR NN|BODY_2|0
+producing and maintaining|VBG CC VBG|BODY_16|0
+an enactable or enacted variation|DT NN CC VBN NN|BODY_14|0
+parts or aspects|NNS CC NNS|BODY_8|0
+local customization|JJ NN|BODY_13|0
+instances|NNS|BODY_3|0
+dynamically reason|POS NN|BODY_3|0
+the reality|DT NN|BODY_3|0
+particular , late/dynamic binding|JJ , JJ NN|BODY_1|0
+such case tools|JJ NN NNS|BODY_4|0
+a general scheme|DT JJ NN|BODY_2|0
+this newly created meta|DT RB VBN NN|BODY_8|0
+software production activities|NN NN NNS|ABSTRACT_6|0
+a product|DT NN|BODY_8|0
+a mere check-list|DT JJ NN|BODY_2|0
+a more systematic presentation|DT RBR JJ NN|BODY_2|0
+the experience and research|DT NN CC NN|BODY_2|0
+this example|DT NN|BODY_3|0
+complex entities|JJ NNS|ABSTRACT_2|0
+the analysis|DT NN|BODY_2|0
+the modifications|DT NNS|BODY_3|0
+the work|DT NN|BODY_6|0
+other disciplines|JJ NNS|BODY_3|0
+the entire lifecycle|DT JJ NN|BODY_2|0
+a planner tool|DT NN NN|BODY_4|0
+a process instantiation tool|DT NN NN NN|BODY_3|0
+one process engine tool|CD NN NN NN|BODY_3|0
+the corresponding modification|DT JJ NN|BODY_5|0
+a more general point|DT RBR JJ NN|BODY_4|0
+( delayed change|-LRB- VBN NN|BODY_8|0
+production technology|NN NN|BODY_11|0
+a coordinated and controlled way|DT VBN CC VBN NN|BODY_14|0
+the above specification|DT JJ NN|BODY_3|0
+model definition|NN NN|BODY_3|0
+an evolutionary production method|DT JJ NN NN|BODY_2|0
+( executes|-LRB- NNS|BODY_9|0
+an explicit model|DT JJ NN|BODY_3|0
+a uniquely identifiable instance|DT RB JJ NN|BODY_3|0
+requirements or preferences|NNS CC NNS|BODY_6|0
+section 3.2 )|NN CD -RRB-|BODY_5|0
+the modification/creation|DT NN|BODY_7|0
+computers|NNS|BODY_9|0
+the overall quality|DT JJ NN|BODY_5|0
+non-trial applica|JJ NN|BODY_5|0
+tions|NNS|BODY_6|0
+method fragments|NN NNS|BODY_4|0
+producing or acquiring|VBG CC VBG|BODY_4|0
+specific technologies|JJ NNS|BODY_5|0
+the following main roles|DT VBG JJ NNS|BODY_3|0
+the the principal activities|DT DT JJ NNS|BODY_5|0
+external  production elements|JJ JJ NN NNS|BODY_3|0
+evolving software processes|JJ NN NNS|TITLE_2|0
+flexible and evolving software processes|JJ CC JJ NN NNS|ABSTRACT_10|0
+real-world activities|NN NNS|BODY_4|0
+a template , or|DT JJ , CC|BODY_13|0
+check-in|NNS|BODY_11|0
+modeling language|JJ NN|BODY_6|0
+products and services|NNS CC NNS|BODY_3|0
+the insight|DT NN|BODY_1|0
+communication and teaching|NN CC NN|BODY_7|0
+the emerging process capability method [ hum88|DT VBG NN NN NN NN NNS|BODY_8|0
+the initial process support|DT JJ NN NN|BODY_3|0
+interacting activities|JJ NNS|BODY_3|0
+the corresponding process model|DT JJ NN NN|BODY_3|0
+maintaining and|VBG CC|BODY_23|0
+the software crisis|DT NN NN|BODY_7|0
+such a framework|JJ DT NN|BODY_5|1
+dynamically )|RB -RRB-|BODY_4|0
+each consisting|DT VBG|BODY_6|0
+support ( section 3.1 )|NN -LRB- NN CD -RRB-|BODY_5|0
+the borderlines|DT NNS|BODY_2|0
+a well-know initiative|DT JJ NN|BODY_1|0
+hybrids|NNS|BODY_9|0
+the analogy|DT NN|BODY_1|0
+the authors|DT NNS|BODY_1|0
+the eureka software factory project|DT NN NN NN NN|BODY_8|0
+a second execution manager tool|DT JJ NN NN NN|BODY_7|0
+its application|PRP$ NN|BODY_9|0
+the its rules and procedures|DT PRP$ NNS CC NNS|BODY_8|0
+the same method|DT JJ NN|BODY_2|0
+role|NN|BODY_13|0
+an interaction|DT NN|BODY_6|0
+a large influence range |DT JJ NN NN|BODY_8|0
+an interpretor|DT NN|BODY_9|0
+programmers|NNS|BODY_3|0
+process lifecycle|NN NN|BODY_3|0
+today|NN|BODY_3|0
+software process languages|NN NN NNS|BODY_4|0
+suitable features|JJ NNS|BODY_5|0
+the initial model )|DT JJ NN -RRB-|BODY_9|0
+the various process elements|DT JJ NN NNS|BODY_5|0
+teams|NNS|BODY_3|0
+software pro- cess|NN , NN|BODY_4|0
+related documents|JJ NNS|BODY_3|0
+the only production processes|DT JJ NN NNS|BODY_7|0
+a natural question|DT JJ NN|BODY_1|0
+the classical issues|DT JJ NNS|BODY_2|0
+more detail|JJR NN|BODY_1|0
+the process implementation meta-activity|DT NN NN NN|BODY_6|0
+services )|NNS -RRB-|BODY_9|0
+the process elements|DT NN NNS|BODY_1|0
+our current knowledge|PRP$ JJ NN|BODY_1|0
+an abstraction|DT NN|BODY_2|0
+upon|IN|BODY_4|0
+view|NN|BODY_5|0
+a ( meta-)process|DT -LRB- NN|BODY_5|0
+the development and maintenance|DT NN CC NN|BODY_4|0
+the description|DT NN|BODY_3|0
+the enactable and enacting variations|DT JJ CC VBG NNS|BODY_5|0
+introduced changes|VBN NNS|BODY_2|0
+software item|NN NN|BODY_37|0
+real situations|JJ NNS|BODY_3|0
+meta-meta processes|JJ NNS|BODY_7|0
+the interactions|DT NNS|BODY_3|0
+the delivered products|DT VBN NNS|BODY_6|0
+domain/application-specific rules , tools and technologies|JJ NNS , NNS CC NNS|BODY_3|0
+the nature and structure|DT NN CC NN|BODY_6|0
+a more detailed discussion|DT RBR JJ NN|BODY_4|0
+the actual software production process|DT JJ NN NN NN|BODY_13|1
+the different requirements and issues|DT JJ NNS CC NNS|BODY_2|1
+cm procedures|JJ NNS|BODY_10|0
+principles|NNS|BODY_17|0
+creating or modifying model variations|VBG CC VBG NN NNS|BODY_10|0
+prolog )|NN -RRB-|BODY_13|0
+the kind|DT NN|BODY_2|0
+reflective features|JJ NNS|BODY_7|0
+computerized tools|JJ NNS|BODY_13:ABSTRACT_8|0
+its associated tools|PRP$ JJ NNS|BODY_3|0
+the abbreviated forms pro- duction process|DT VBN NNS JJ NN NN|BODY_1|0
+modeling ) language|JJ -RRB- NN|BODY_5|0
+further work|JJ NN|BODY_4|0
+the meta-activities|DT NNS|BODY_1|0
+conventional methods|JJ NNS|BODY_8|0
+the prism model|DT NN NN|BODY_6|0
+external  process elements|JJ JJ NN NNS|BODY_7|0
+organizational boundaries|JJ NNS|BODY_4|0
+several process|JJ NN|ABSTRACT_2|0
+trial projects|NN NNS|ABSTRACT_9|0
+create modify figure 1|VBP VB NN CD|BODY_7|0
+a reference method|DT NN NN|BODY_2|0
+the paper elaborates and discusses|DT NN NNS CC NNS|BODY_1|0
+some aspects|DT NNS|BODY_3|0
+terms and concepts|NNS CC NNS|BODY_6|0
+all those activities|PDT DT NNS|BODY_3|0
+some basic general meta-activities|DT JJ JJ NNS|BODY_2|0
+passive tools|JJ NNS|BODY_11|0
+a process improvement activity|DT NN NN NN|BODY_6|0
+none|NN|BODY_6|0
+the process actors|DT NN NNS|BODY_10|0
+office automation|NN NN|BODY_3|0
+two conceptually distinct aspects|CD RB JJ NNS|BODY_2|0
+1 parts|CD NNS|BODY_1|0
+an encompassing process|DT JJ NN|BODY_3|0
+a project manager|DT NN NN|BODY_21|0
+process change|NN NN|BODY_5|0
+a meta-process model|DT NN NN|BODY_2|0
+the process manager/designer|DT NN NN|BODY_2|0
+the actual production|DT JJ NN|BODY_3|0
+flexibility and variability|NN CC NN|BODY_5|0
+a change|DT NN|BODY_3|0
+check-in operations|JJ NNS|BODY_2|0
+software process support|NN NN VB|BODY_5|0
+the rapid evolution|DT JJ NN|BODY_3|0
+principle|NN|BODY_5|0
+all the innovations|DT DT NNS|BODY_3|0
+the third style|DT JJ NN|BODY_10|0
+software items and roles|NN NNS CC NNS|BODY_6|0
+the software process designer|DT NN NN NN|BODY_3|0
+a new software process|DT JJ NN NN|BODY_2|0
+two parts|CD NNS|BODY_12|1
+this requirement|DT NN|BODY_1|0
+the transient process model|DT JJ NN NN|BODY_1|0
+single activity variations|JJ NN NNS|BODY_7|0
+individuals|NNS|BODY_7|0
+productivity measurements|NN NNS|BODY_8|0
+tools etc|NNS NN|BODY_9|0
+vertical ( decomposition ) dimensions|JJ -LRB- NN -RRB- NNS|BODY_4|0
+software process management and improvement|NN NN NN CC NN|BODY_1|0
+this aspect|DT NN|BODY_1|0
+an intertwined way )|DT JJ NN -RRB-|BODY_6|0
+some available techniques|DT JJ NNS|BODY_5|0
+the proposed set|DT VBN NN|BODY_2|0
+data and information|NNS CC NN|BODY_3|0
+new requirements [bl79]|JJ NNS NNS|BODY_6|0
+flexible and integrated parts|JJ CC JJ NNS|BODY_4|0
+the entire software process|DT JJ NN NN|BODY_5|0
+more specific requirements|JJR JJ NNS|BODY_7|0
+the creation/modification|DT NN|BODY_7|0
+creating and|VBG CC|BODY_3|0
+the general and detailed architecture|DT JJ CC JJ NN|BODY_6|0
+other constraints|JJ NNS|BODY_5|0
+the technologies and tools|DT NNS CC NNS|BODY_5|0
+further changes|JJ NNS|BODY_5|0
+the current model|DT JJ NN|BODY_5|0
+the joint behavior|DT JJ NN|BODY_5|0
+the features and properties|DT NNS CC NNS|BODY_4|0
+the actual process|DT JJ NN|BODY_2|0
+the aim|DT NN|BODY_1|0
+such only a partial description|JJ JJ DT JJ NN|BODY_5|0
+other artifacts|JJ NNS|BODY_6|0
+the following assumptions|DT JJ NNS|BODY_6|1
+quantitative and qualitative information|JJ CC JJ NN|BODY_3|0
+their availability|PRP$ NN|BODY_6|0
+the meta|DT NN|BODY_3|0
+the above-mentioned software products|DT JJ NN NNS|BODY_7|0
+the specific procedures , rules and activities|DT JJ NNS , NNS CC NNS|BODY_6|0
+the productivity form|DT NN NN|BODY_10|0
+the first place|DT JJ NN|BODY_7|0
+the process evolution problem|DT NN NN NN|ABSTRACT_3|0
+software meta-process model|NN NN NN|BODY_16|0
+software process improvement|NN NN NN|BODY_6|0
+its enactable and enacted variations|PRP$ NN CC VBN NNS|BODY_7:BODY_8|0
+the second style|DT JJ NN|BODY_6|0
+( software process|-LRB- NN NN|BODY_3|0
+some current method approaches|DT JJ NN NNS|BODY_5|0
+this recursion|DT NN|BODY_6|0
+many different ways|JJ JJ NNS|BODY_2|0
+cover parts|NN NNS|BODY_6|0
+such software products|JJ NN NNS|BODY_3|0
+process support evolution|NN NN NN|BODY_5|0
+any change|DT NN|BODY_2|0
+the concepts|DT NNS|BODY_6|0
+an atomic or composite production step|DT JJ CC JJ NN NN|BODY_9|0
+three significant styles|CD JJ NNS|BODY_2|0
+section 6|NN CD|BODY_1|1
+the first style|DT JJ NN|BODY_4|0
+a normal process|DT JJ NN|BODY_9|0
+policies|NNS|BODY_19|0
+further preparation|JJ NN|BODY_7|0
+software production process model|NN NN NN NN|BODY_34|0
+the same model|DT JJ NN|BODY_4|0
+the three model variations|DT CD NN NNS|BODY_5|0
+the rest|DT NN|ABSTRACT_7|0
+the new template variation|DT JJ JJ NN|BODY_4|0
+the composition|DT NN|BODY_10|0
+two main components|CD JJ NNS|ABSTRACT_4|0
+port|NN|BODY_14|0
+a controlled manner|DT JJ NN|BODY_7|0
+the products and raw material |DT NNS CC JJ NN|BODY_7|0
+an evolutionary and incremental lifecycle|DT JJ CC JJ NN|BODY_3|0
+the ( meta-meta-)process|DT -LRB- NN|BODY_11|0
+the meta-process concept|DT NN NN|ABSTRACT_10|0
+ffl production process|NN NN NN|BODY_12|0
+programmer productivity|NN NN|BODY_13|0
+such a variation|PDT DT NN|BODY_1|0
+a given schema|DT VBN NN|BODY_4|0
+an enacting model variation|DT NN NN NN|BODY_4|0
+some related work|DT JJ NN|BODY_5|0
+typical examples|JJ NNS|BODY_1|0
+such a new process|JJ DT JJ NN|BODY_9|0
+any|DT|BODY_16|0
+practice|NN|BODY_4|0
+a unix process|DT NN NN|BODY_3|0
+the effect|DT NN|BODY_13|0
+the process support environment|DT NN NN NN|BODY_2|0
+this evolution|DT NN|BODY_7|0
+its evolution|PRP$ NN|BODY_3|0
+a way|DT NN|BODY_2|0
+their evolution|PRP$ NN|BODY_7|0
+section 4 )|NN CD -RRB-|BODY_7|0
+. ffl production technology|. JJ NN NN|BODY_2|0
+all this involves|PDT DT VBZ|BODY_1|0
+section 4 analyzes|NN CD NNS|BODY_1|0
+the design meta-activity|DT NN NN|BODY_8|0
+a model editor|DT NN NN|BODY_3|0
+the required modification|DT JJ NN|BODY_5|0
+particular the transformation|JJ DT NN|BODY_4|0
+ software process evolution |JJ NN NN NN|BODY_2|0
+the modeled parts|DT JJ NNS|BODY_5|0
+executable specifications|JJ NNS|BODY_3|0
+these components|DT NNS|BODY_4|0
+an enactable|DT NN|BODY_7|0
+only the model|RB DT NN|BODY_2|0
+b + 87]|NN NN NN|BODY_3|0
+4.2 mechanisms|CD NNS|BODY_1|0
+the internal  process model and tools|DT JJ JJ NN NN CC NNS|BODY_2|0
+section 5|NN CD|BODY_1|0
+an enactable variation|DT JJ NN|BODY_3|0
+a project|DT NN|BODY_1|0
+the relationship|DT NN|ABSTRACT_5|0
+software production technologies|NN NN NNS|BODY_7|0
+the real-world |DT NN|BODY_3|0
+a process support|DT NN NN|BODY_3|0
+variation operations|NN NNS|BODY_3|0
+a suitable process|DT JJ NN|BODY_8|0
+the analysis , design and implementation meta-activities|DT NN , NN CC NN NNS|BODY_5|0
+such a model|JJ DT NN|BODY_1|0
+neither the production process|DT DT NN NN|BODY_3|0
+previous discussions|JJ NNS|BODY_1|0
+the applications|DT NNS|BODY_7|0
+the cm activity|DT JJ NN|BODY_15|0
+sufficient maturity|JJ NN|BODY_4|0
+model definitions|NN NNS|BODY_6|0
+software technology providers|NN NN NNS|BODY_13|0
+human activities|JJ NNS|BODY_4|0
+a fixed process|DT JJ NN|BODY_1|0
+most process support environments|JJS NN NN NNS|BODY_1|0
+the underlying paradigm|DT VBG NN|BODY_1|0
+technology users|NN NNS|BODY_3|0
+the proposed approach|DT VBN NN|ABSTRACT_5|0
+4.1 nature|CD NN|BODY_1|0
+this preparation|DT NN|BODY_1|0
+these two factors|DT CD NNS|BODY_1|0
+the software meta-process (|DT NN NN -LRB-|BODY_1|0
+its agent|PRP$ NN|BODY_20|0
+better team motivation )|JJR NN NN -RRB-|BODY_18|0
+workflow support [hl91]|JJ NN NN|BODY_7|0
+process agent|NN NN|BODY_1|0
+a ( potential ) change|DT -LRB- NN -RRB- NN|BODY_17|0
+template models|JJ NNS|BODY_5|0
+these phases|DT NNS|BODY_1|0
+researchers|NNS|BODY_1|0
+an important comment concerns|DT JJ NN NNS|BODY_1|0
+its various forms|PRP$ JJ NNS|BODY_7|0
+organizations|NNS|BODY_7|0
+the process instantiation and starter tools|DT NN NN CC NN NNS|BODY_1|0
+process model support tools|NN NN NN NNS|BODY_4|0
+account possible mutual dependencies|NN JJ JJ NNS|BODY_8|0
+different meta-activity variations|JJ NN NNS|BODY_9|0
+the three authors|DT CD NNS|BODY_3|0
+change propagation etc|NN NN NN|BODY_5|0
+some enacting meta-variations|DT VBG NNS|BODY_4|0
+its corresponding process support|PRP$ JJ NN NN|BODY_8|0
+the migration|DT NN|BODY_1|0
+the main concepts|DT JJ NNS|BODY_1|0
+vlsi design and production|NN NN CC NN|BODY_6|0
+cost|NN|BODY_3|0
+its principal constituent meta-activities|PRP$ JJ JJ NNS|BODY_5|0
+the term meta-process|DT NN NN|BODY_4|0
+reified  classes and meta-classes|JJ JJ NNS CC NNS|BODY_7|0
+the new target process|DT JJ NN NN|BODY_4|0
+a project context|DT NN NN|BODY_1|0
+future modifications|JJ NNS|BODY_5|0
+intertwined )|JJ -RRB-|BODY_12|0
+the internal  process support|DT JJ JJ NN NN|BODY_12|0
+further section|JJ NN|BODY_10|0
+typical|JJ|BODY_1|0
+a complete method base|DT JJ NN NN|BODY_5|0
+a large repertoire|DT JJ NN|BODY_1|0
+frequent process changes|JJ NN NNS|BODY_1|0
+process management systems|NN NN NNS|BODY_5|0
+epos|NNS|BODY_1|0
+the areas|DT NNS|BODY_3|0
+coherent and consistent concepts|JJ CC JJ NNS|BODY_8|0
+ software meta-process|, NN NN|BODY_5|0
+its customers|PRP$ NNS|BODY_14|0
+their interaction|PRP$ NN|BODY_10|0
+'s overall strategy and objectives|POS JJ NN CC NNS|BODY_12|0
+manageable|NN|BODY_5|0
+modularity and reuse|NN CC NN|BODY_19|0
+a future trend|DT JJ NN|BODY_1|0
+a particular aspect|DT JJ NN|BODY_1|0
+traditional software production lifecycles|JJ NN NN NNS|BODY_5|0
+all possible software processes|DT JJ NN NNS|BODY_6|0
+notice thus|NN RB|BODY_1|0
+process support systems|NN NN NNS|BODY_3|0
+related disciplines or research areas|JJ NNS CC NN NNS|BODY_3|0
+the same template variation|DT JJ JJ NN|BODY_5|0
+the scope|DT NN|BODY_1|0
+any meta-process|DT NN|BODY_5|0
+given requirements|VBN NNS|BODY_6|0
+high variability and unpredictability|JJ NN CC NN|BODY_9|0
+some research prototypes|DT NN NNS|ABSTRACT_1|0
+later phases|RB NNS|BODY_5|0
+an process model|DT NN NN|BODY_5|0
+mechanisms|NNS|BODY_4|0
+the sake|DT NN|BODY_1|0
+notice also|NN RB|BODY_1|0
+existing software production technologies and methods|VBG NN NN NNS CC NNS|BODY_1|0
+process manager|NN NN|BODY_1|0
+1|CD|BODY_1|0
+6 conclusions|CD NNS|BODY_1|0
+the development strategy and procedures|DT NN NN CC NNS|BODY_8|0
+the former issue|DT JJ NN|BODY_1|0
+'s employees|POS NNS|BODY_5|0
+'s quality plan|POS NN NN|BODY_7|0
+the management|DT NN|BODY_1|0
+the cm operating procedures|DT NN NN NNS|BODY_13|0
+process assessment|NN NN|BODY_8|0
+model variation|NN NN|BODY_1|0
+new user documentation|JJ NN NN|BODY_13|0
+process weaver [fer93]|NN NN NN|BODY_1|0
+slang [bfg93]|NN NN|BODY_1|0
+these significant efforts and results|DT JJ NNS CC NNS|ABSTRACT_1|0
+cm needs|JJ NNS|BODY_1|0
+access rights|NN NNS|BODY_1|0
+the terminology|DT NN|BODY_1|0
+related support environments|JJ NN NNS|ABSTRACT_6|0
+software development organizations|NN NN NNS|BODY_5|0
+terminology and definitions|NN CC NNS|BODY_10|0
+several enactable and enacting variations|JJ JJ CC VBG NNS|BODY_6|0
+introduction|NN|BODY_1|0
+managing process evolution|VBG NN NN|BODY_5|0
+model application and model change|NN NN CC NN NN|BODY_10|0
+the two relevant , primitive operations|DT CD JJ , JJ NNS|BODY_1|0
+the previous meta-activity|DT JJ NN|BODY_5|0
+established methods|VBN NNS|BODY_1|0
+section 4.2|NN CD|BODY_9|0
+process models variations etc|NN NNS NNS NN|BODY_16|0
+mad91]|JJ|BODY_8|0
+fine granularity|JJ NN|BODY_12|0
+the enacting variation|DT NN NN|BODY_6|0
+a source module|DT NN NN|BODY_6|0
+normal production activities|JJ NN NNS|BODY_2|0
+several teams or sub-teams|JJ NNS CC NNS|BODY_7|0
+the e-mail tool|DT NN NN|BODY_7|0
+project )|NN -RRB-|BODY_9|0
+our work|PRP$ NN|BODY_1|0
+the enactment|DT NN|BODY_1|0
+high quality software products|JJ NN NN NNS|BODY_4|0
+3.1 evolution|CD NN|BODY_1|0
+4.3 methods and principles|CD NNS CC NNS|BODY_1|0
+the two dimensions|DT CD NNS|BODY_4|0
+4 techniques and methods|CD NNS CC NNS|BODY_1|0
+other important reasons|JJ JJ NNS|BODY_1|0
+other meta-process related entities|JJ NN VBN NNS|BODY_8|0
+their evolution and associated meta-activities|PRP$ NN CC JJ NNS|BODY_5|0
+their tools|PRP$ NNS|BODY_6|0
+a more general and systematic context|DT RBR JJ CC JJ NN|BODY_6|0
+a process agent|DT NN NN|BODY_1|0
+any specific technology or approach|DT JJ NN CC NN|BODY_8|0
+industrial organizations|JJ NNS|ABSTRACT_4|0
+several run-time occurrences|JJ JJ NNS|BODY_8|0
+the individual meta-activities|DT JJ NNS|BODY_6|0
+the model|DT NN|BODY_11|0
+the new activity specification|DT JJ NN NN|BODY_4|0
+their own structure|PRP$ JJ NN|BODY_12|0
+4|CD|BODY_4|0
+a consequence|DT NN|BODY_1|0
+enactment parameters|NN NNS|BODY_7|0
+existing approaches|VBG NNS|ABSTRACT_2|0
+the necessary context-specific information|DT JJ JJ NN|BODY_2|0
+their research-oriented nature|PRP$ JJ NN|BODY_1|0
+such a meta-process|PDT DT NN|BODY_1|0
+the process manager|DT NN NN|BODY_1|0
+many valuable ideas and comments|JJ JJ NNS CC NNS|BODY_8|0
+one significant example|CD JJ NN|BODY_1|0
+2. enactable model variation|DT JJ NN NN|BODY_1|0
+cm activ- ities|NN NNS NNS|BODY_9|0
+one reason|CD NN|BODY_1|0
+its own evolution|PRP$ JJ NN|BODY_1|0
+now very little|RB RB RB|BODY_1|0
+the entire process support|DT JJ NN NN|BODY_3|0
+the external , real-world|DT JJ , NN|BODY_8|0
+the whole software pro- cess|DT JJ NN , NN|BODY_8|0
+a first step|DT JJ NN|BODY_1|0
+any other reflective framework|DT JJ JJ NN|BODY_1|0
+instance|NN|BODY_1|0
+process model evolution and transformation|NN NN NN CC NN|BODY_1|0
+production activities|NN NNS|BODY_5|0
+some basic definitions|DT JJ NNS|BODY_3|0
+such a modification|JJ DT NN|BODY_1|0
+the latter case|DT JJ NN|BODY_1|0
+the previous case|DT JJ NN|BODY_1|0
+this case|DT NN|BODY_1|0
+process implementation and process assessment|NN NN CC NN NN|BODY_2|0
+process requirements analysis and process design|NN NNS NN CC NN NN|BODY_2|0
+inputs or feedbacks|NNS CC NNS|BODY_7|0
+an organization (|DT NN -LRB-|BODY_1|0
+analysis meta-activity|NN NN|BODY_3|0
+specific and desirable rules and procedures|JJ CC JJ NNS CC NNS|BODY_4|0
+such a change|JJ DT NN|BODY_1|0
+such information|JJ NN|BODY_1|0
+various unanticipated situations|JJ JJ NNS|BODY_10|0
+an important input|DT JJ NN|BODY_1|0
+( software process support technology )|-LRB- NN NN NN NN -RRB-|BODY_9|0
+3.4 key roles|CD JJ NNS|BODY_1|0
+a single , integrated model|DT JJ , JJ NN|BODY_4|0
+meta-process domain|NN NN|BODY_4|0
+process owner|NN NN|BODY_7|0
+the elements|DT NNS|BODY_1|0
+certain as- pects|JJ NNS NNS|BODY_14|0
+2 basic concepts|CD JJ NNS|BODY_1|0
+the check-in activity model|DT JJ NN NN|BODY_6|0
+object-oriented entity-relationship modeling|JJ NN NN|BODY_1|0
+the affected variation|DT JJ NN|BODY_8|0
+the change|DT NN|BODY_1|0
+he|PRP|BODY_1|0
+namely cm activities|RB JJ NNS|BODY_5|0
+summary|NN|BODY_1|0
+the meta-process )|DT NN -RRB-|BODY_8|0
+existing enactable and enacted variations|VBG NN CC VBN NNS|BODY_6|0
+3.2 evolution|CD NN|BODY_1|0
+assessment etc|NN NN|BODY_7|0
+3.3 structure|CD NN|BODY_1|0
+a highly interacting way|DT RB JJ NN|BODY_9|0
+methods and technologies|NNS CC NNS|ABSTRACT_1|0
+a transformational lifecycle|DT JJ NN|BODY_7|0
+, not tools or external process artifacts|, RB NNS CC JJ NN NNS|BODY_4|0
+non-reflective formalisms|JJ NNS|BODY_1|0
+role descriptions|NN NNS|BODY_1|0
+the resulting requirements|DT VBG NNS|BODY_1|0
+change requests|NN NNS|BODY_6|0
+this editing activity|DT NN NN|BODY_1|0
+a reflective system|DT JJ NN|BODY_3|0
+production processes and meta-processes|NN NNS CC NNS|BODY_9|0
+process designer|NN NN|BODY_1|0

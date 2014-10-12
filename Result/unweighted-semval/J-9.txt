@@ -1,0 +1,560 @@
+we|PRP|BODY_12:BODY_11:BODY_16:BODY_18:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_36:BODY_1:ABSTRACT_1:BODY_19:BODY_7:BODY_8:BODY_9|19
+that|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_11:BODY_13:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|2
+which|WDT|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+the value|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+agents|NNS|BODY_6:BODY_11:BODY_5:BODY_17:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|1
+this|DT|BODY_6:BODY_11:BODY_5:BODY_13:BODY_1:BODY_2:BODY_3:BODY_19:BODY_4:BODY_9|2
+a weighted threshold function|DT JJ NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|1
+1|CD|BODY_12:BODY_6:BODY_5:BODY_15:BODY_13:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_8|0
+upper and lower bounds|JJ CC JJR NNS|BODY_2:BODY_4:BODY_7|0
+at most n rounds|IN JJS NN NNS|BODY_6:ABSTRACT_2:BODY_1:BODY_7|1
+a rational expectations equilibrium|DT JJ NNS NN|BODY_2|0
+a stochastically regular function|DT RB JJ NN|BODY_2|0
+their individual conditional probabilities|PRP$ JJ JJ NNS|BODY_10:BODY_9|0
+an incomplete market [17]|DT JJ NN NN|BODY_2|0
+as much an art|RB RB DT NN|BODY_4|0
+the desired information space-as|DT VBN NN NN|BODY_4|0
+c.2.4 [computer systems organization|CD NN NNS NN|ABSTRACT_6|0
+the entire state space|DT JJ NN NN|BODY_3|0
+¢ information market design|NN NN NN NN|BODY_5|0
+h ( 1 )|NN -LRB- CD -RRB-|BODY_2|0
+( 1 , 0)|-LRB- CD , CD|BODY_6:BODY_11:BODY_21:BODY_37|0
+social and behavioral scienceseconomics|JJ CC JJ NNS|ABSTRACT_5|0
+the next round proceeds|DT JJ JJ NNS|BODY_1|0
+a market scoring rule|DT NN NN NN|BODY_3|0
+the input vector x|DT NN NN NN|BODY_2|0
+a boolean security f|DT JJ NN NN|BODY_2:BODY_4|0
+the initial information state|DT JJ NN NN|BODY_2|0
+a strictly lower dimension|DT RB JJR NN|BODY_11|0
+0 < xâˆ —|CD JJ NN NN|BODY_2|0
+a reasonable starting point|DT JJ NN NN|BODY_3|0
+that ( 1 âˆ|IN -LRB- CD NN|BODY_6|0
+= 1 l j=1|SYM CD JJ NNS|BODY_33|0
+either 0 or 1|DT CD CC CD|BODY_5:BODY_4|0
+all prior probability distributions|DT JJ NN NNS|ABSTRACT_5:BODY_7|0
+our current computational model|PRP$ JJ JJ NN|BODY_4|0
+the price evolution process|DT NN NN NN|BODY_3|1
+their basic mechanistic unit|PRP$ JJ JJ NN|BODY_4|0
+about a suitable aggregate|IN DT JJ NN|BODY_8|0
+that p( f( x|DT JJ NN NN|BODY_2|0
+( r âˆ ’|-LRB- NN NN VBD|BODY_8|0
+sr i âš† srâˆ’1|JJ FW FW FW|BODY_5|0
+the market-price formation process|DT NN NN NN|BODY_20|0
+theorems 3 and 5|DT CD CC CD|BODY_2|0
+a different clearing price|DT JJ NN NN|BODY_8|0
+the first round price|DT JJ NN NN|BODY_6|0
+the clearing price p|DT NN NN NN|BODY_11:BODY_2|0
+a similar dimension-based bound|DT JJ JJ VBN|BODY_12|0
+1|y âˆˆ sâˆž )|JJ JJ NN -RRB-|BODY_4|0
+a rationally computable function|DT RB JJ NN|BODY_2|0
+a primary motivation-for example|DT JJ NN NN|BODY_3|0
+the worst-case convergence time|DT JJ NN NN|BODY_8|0
+0) = 1 2|JJ SYM CD CD|BODY_35|0
+the k-dimension linear space|DT NN NN NN|BODY_5|0
+( bayes  law|-LRB- NNS NN NN|BODY_13|0
+= 1 , 160|SYM CD , CD|BODY_9|0
+her current expected value|PRP$ JJ VBN NN|BODY_5|0
++ p( f(y )|JJ JJ NN -RRB-|BODY_7|0
+the form g( x|DT NN NN NN|BODY_5|0
+the entire joint distribution|DT JJ JJ NN|BODY_8|0
+the same conditional expectation|DT JJ JJ NN|BODY_3|0
+1 ) jâˆ ’|CD -RRB- NN NN|BODY_12|0
+jâˆ ’ i (|JJ IN NN -LRB-|BODY_8|0
+jackson and peck [13]|NN CC NN NN|BODY_18|0
+the function and distribution|DT NN CC NN|BODY_2|0
+h+ and hâˆ ’|. CC JJ NNS|BODY_1:BODY_4|0
+1 only when i|CD RB WRB FW|BODY_11|0
+the security payoff function|DT NN NN NN|BODY_4|1
+= e( f(y )|SYM JJ NN -RRB-|BODY_7|0
+bergin and brandenburger [2|NN CC NN NNS|BODY_1|0
+’ 1 more rounds|CD CD JJR NNS|BODY_5|0
+( 0 , 0)|-LRB- CD , CD|BODY_35:BODY_6:BODY_19:BODY_4:BODY_9|0
+the pair ( x1|DT NN -LRB- CD|BODY_6|0
+a very simple class|DT RB JJ NN|BODY_6|0
+the prior probability distribution|DT JJ NN NN|BODY_1:BODY_7|0
+x1 = 1 )|RB SYM CD -RRB-|BODY_8|0
+( 1âˆ’xâˆ — i|-LRB- CD NN NN|BODY_24|0
+price accuracy and precision|NN NN CC NN|BODY_6|1
+a common prior p2|DT JJ JJ NN|BODY_3|0
+our prior distribution p|PRP$ JJ NN NN|BODY_37|0
+mckelvey and page [19]|NN CC NN NNP|BODY_10|0
+¢ strategic market models|VBG JJ NN NNS|BODY_13|0
+a further simplifying restriction|DT JJ JJ NN|BODY_3|0
+h â— ¦ g|JJ JJ NN NN|BODY_5|0
+2 ( 1 âˆ|CD -LRB- CD NNS|BODY_25|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+most (k âˆ ’|JJS NN IN NN|BODY_9|0
+our main theoretical results|PRP$ JJ JJ NNS|BODY_3|1
+a more satisfying approach|DT RBR JJ NN|BODY_1|0
+the iowa electronic market1|DT JJ JJ NN|BODY_1|0
+the independence or dimensionality|DT NN CC NN|BODY_7|0
+a good distributed-computational model|DT JJ JJ NN|BODY_3|0
+a prior distribution pn|DT JJ NN NN|BODY_4|0
+n âˆ ’ 1|RB JJ NN CD|BODY_3|0
+the original mckelvey-page paper|DT JJ JJ NN|BODY_6|0
+a common prior regarding|DT JJ JJ VBG|BODY_2|0
+the natural follow-up question|DT JJ JJ NN|BODY_3|0
+p( c2(x1 , x2|FW CD , CD|BODY_3|0
+the 3 common knowledge|DT CD JJ NN|BODY_3|0
+the smallest linear subspace|DT JJS JJ NN|BODY_7|0
+exactly the conditional expectations|RB DT JJ NNS|BODY_3|0
+âˆ€i p( f(y )|DT JJ NN -RRB-|BODY_3|0
+a threshold security converges|DT NN NN NNS|BODY_4|1
+the distributed input bits|DT VBN NN NNS|BODY_5|0
+the event f( x|DT NN NN NN|BODY_5|0
+the first r âˆ|DT JJ NN NN|BODY_5|0
+) and ( short|-RRB- CC -LRB- JJ|BODY_12|0
+the round , agent|DT JJ , NN|BODY_2|0
+the current scoring rule|DT JJ NN NN|BODY_3|0
+a prior distribution p|DT JJ NN NN|BODY_2|0
+the properties and limitations|DT NNS CC NNS|BODY_3|0
+more general trading models|RBR JJ NN NNS|BODY_5|0
+useful insights and pointers|JJ NNS CC NNS|BODY_4|0
+at least 2 rounds|IN JJS CD NNS|BODY_2|0
+â€ ¢ distributed computation|NN VBD VBN NN|BODY_15|0
+at least n/2 rounds|IN JJS CD NNS|ABSTRACT_6|0
+4.1 equilibrium price characterization|CD NN NN NN|BODY_1|0
+that p( f(y )|DT JJ NN -RRB-|BODY_5|0
+the resulting announced prices|DT VBG VBN NNS|BODY_6|0
+the correct full-information price|DT JJ JJ NN|BODY_8|0
+any agent or observer|DT NN CC NN|BODY_15|0
+the final trading price|DT JJ NN NN|BODY_3|0
+the revelation principle [18]|DT NN NN NN|BODY_6|0
+a pair ( x|DT NN -LRB- NN|BODY_12|0
+at least n rounds|IN JJS NN NNS|BODY_10|0
+the the shapley-shubik mechanism|DT DT NN NN|BODY_2|0
+hence f( x )|RB JJ NN -RRB-|BODY_3|0
+the only common knowledge|DT RB JJ NN|BODY_1|0
+the equilibrium price pâˆž|DT NN NN NN|BODY_2|0
+its equilibrium value pâˆž|PRP$ NN NN NNS|BODY_4|0
+equation ( 4 )|NN -LRB- CD -RRB-|BODY_7|0
+the same information state|DT JJ NN NN|BODY_5|0
+jâˆ ’ i )|JJ IN FW -RRB-|BODY_9|0
+our second main contribution|PRP$ JJ JJ NN|BODY_1|0
+the actual value x|DT JJ NN NN|BODY_1|1
+the boolean hypercube {0|DT JJ NN NN|BODY_1|0
+misinformed or irrational traders|JJ CC JJ NNS|BODY_7|0
+communication complexity and revenue|NN NN CC NN|BODY_3|0
+2n+1âˆ’i â‰ ¥ 1|CD JJ NN CD|BODY_7|0
+the next natural question|DT JJ JJ NN|BODY_1|0
+the observed price p1|DT JJ NN NNS|BODY_9|0
+the true state x|DT JJ NN NN|BODY_7|0
+only a finite number|RB DT JJ NN|BODY_1|0
+the theoretically ideal mechanism|DT RB JJ NN|BODY_1|0
+the most fragile result|DT RBS JJ NN|BODY_1|0
+a particular target function|DT JJ NN NN|BODY_4|0
+a distributed information market|DT VBN NN NN|TITLE_2|0
+the clearing price p1|DT NN NN NN|BODY_3|0
+4.2 characterizing computable aggregates|CD NN JJ NNS|BODY_1|0
+j+ = jâˆ ’|DT SYM JJ NN|BODY_3|0
+her private bit xi|PRP$ JJ NN NN|BODY_1|0
+3.1 initial information state|CD JJ NN NN|BODY_1|0
+a valid probability distribution|DT JJ NN NN|BODY_3|0
+this pa1 http ://www.biz.uiowa|DT JJ NN NNP|BODY_1|0
+even this partial aggregation|RB DT JJ NN|BODY_14|0
+the same price pâˆž|DT JJ NN NN|BODY_10|0
+not all private information|RB DT JJ NN|BODY_1|0
+a random variable f|DT JJ JJ NN|BODY_7|0
+there|EX|BODY_21:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+information|NN|BODY_6:BODY_11:ABSTRACT_5:BODY_17:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the clearing price|DT NN NN|BODY_1:BODY_2:BODY_3:BODY_10:BODY_7:BODY_8:BODY_9|1
+equilibrium|NN|BODY_6:BODY_12:BODY_5:BODY_11:ABSTRACT_4:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+all the agents|PDT DT NNS|BODY_5:BODY_1:BODY_3:BODY_10:BODY_4|0
+an information market|DT NN NN|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|3
+each agent|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+the worst case|DT JJS NN|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:ABSTRACT_7:BODY_7:BODY_9|0
+f( x )|JJ NN -RRB-|BODY_12:BODY_6:BODY_5:BODY_10:BODY_4:BODY_7|1
+f|NN|BODY_12:BODY_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7|0
+the market price|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_7:ABSTRACT_9|0
+the first round|DT JJ NN|BODY_5:BODY_39:BODY_1:BODY_3:BODY_7|0
+they|PRP|BODY_6:BODY_5:BODY_13:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4|0
+the security|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_4:BODY_8:BODY_9|0
+1|y âˆˆ sâˆž|JJ JJ NN|BODY_6:BODY_14:BODY_10:BODY_4|0
+the true value|DT JJ NN|BODY_6:BODY_11:BODY_5:BODY_4|0
+0 or 1|CD CC CD|BODY_31:BODY_2:BODY_3:BODY_10|0
+the equilibrium price|DT NN NN|BODY_1:BODY_4:BODY_7:BODY_9|0
+the market|DT NN|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|2
+the first-round price|DT JJ NN|BODY_1:BODY_2:BODY_9|0
+the common knowledge|DT JJ NN|BODY_2:BODY_1|0
+{0 , 1}n|CD , CD|BODY_11:BODY_27|0
+the actual value|DT JJ NN|BODY_3:BODY_7:BODY_8|0
+common knowledge|JJ NN|BODY_6:BODY_5:BODY_11:BODY_3:BODY_10:BODY_8:BODY_9|0
+the security f|DT NN NN|BODY_5:BODY_2:BODY_3|0
+all the points|RB DT NNS|BODY_12:BODY_10:BODY_8|0
+the market proceeds|DT NN NNS|BODY_2|0
+the strategic problems|DT JJ NNS|BODY_2|0
+stochastically monotone functions|DT NN NNS|BODY_3|0
+the decision process|DT NN NN|BODY_3|0
+the relative likelihoods|DT JJ NNS|BODY_3|0
+nielsen et al|NN NNP NN|BODY_11:BODY_1:BODY_3|0
+weighted threshold functions|VBN NN NNS|ABSTRACT_4:BODY_4:BODY_7|1
+the following rounds|DT VBG NNS|BODY_7:BODY_8|0
+p( f(y )|JJ NN -RRB-|BODY_5:BODY_3:BODY_10|0
+her conditional expectation|PRP$ JJ NN|BODY_4:BODY_7|0
+real information markets|JJ NN NNS|BODY_4:BODY_10|1
+the xor function|DT JJ NN|BODY_2:BODY_3|0
+probability 1 4|NN CD CD|BODY_15:BODY_10|0
+the other hand|DT JJ NN|BODY_1:ABSTRACT_1:BODY_20|0
+some possible states|DT JJ NNS|BODY_2|0
+the original definition|DT JJ NN|BODY_4|0
+the remaining states|DT VBG NNS|BODY_4|0
+this simple definition|DT JJ NN|BODY_2|0
+the computational process|DT JJ NN|ABSTRACT_2:BODY_4|0
+xâˆ — i|NN NN NN|BODY_26:BODY_30|0
+’ p(qi âˆ|FW FW FW|BODY_10|0
+a common prior|DT JJ JJ|BODY_4|0
+the conditional expectations|DT JJ NNS|BODY_3:BODY_19|0
+all other points|DT JJ NNS|BODY_45|0
+evidence-the equilibrium price|DT NN NN|ABSTRACT_3|0
+all prior distributions|DT JJ NNS|BODY_6:BODY_2|1
+empirical and laboratory|JJ CC NN|ABSTRACT_2|0
+no additional information|DT JJ NN|BODY_34:BODY_3|0
+identical conditional expectations|JJ JJ NNS|BODY_6:BODY_7|0
+the common-prior assumption|DT JJ NN|BODY_6:BODY_7|0
+a prime example|DT JJ NN|BODY_2|0
+0 ) )|CD -RRB- -RRB-|BODY_5|0
+a neural network|DT JJ NN|BODY_4|0
+the going prices|DT VBG NNS|BODY_3|0
+the binary numbers|DT JJ NNS|BODY_5|0
+a well-studied problem|DT JJ NN|BODY_5|0
+â· â· â·|JJ JJ JJ|BODY_6|0
+the conditional distribution|DT JJ NN|BODY_24:BODY_8|0
+new information (|JJ NN -LRB-|BODY_8|0
+j.4 [computer applications]|CD NN NN|ABSTRACT_4|0
+the aggregate function|DT JJ NN|BODY_5:BODY_1|0
+each function gi|DT NN NN|BODY_7|0
+the input bits|DT NN NNS|BODY_3|0
+jâˆ ’ i|FW FW NN|BODY_3|0
+no further trades|DT JJ NNS|BODY_4|0
+’ k +|DT NN NN|BODY_11|0
+a simplified model|DT JJ NN|ABSTRACT_2:BODY_2|1
+1 and 2|CD CC CD|BODY_3|0
+case ( i)|NN -LRB- NN|BODY_1|0
+sr = srâˆ’1|NN SYM CD|BODY_1|0
+the precise definition|DT JJ NN|BODY_1|0
+this modeling assumption|DT JJ NN|BODY_1|0
+two analytical purposes|CD JJ NNS|BODY_2|0
+xi = 1|NN SYM CD|BODY_2|0
+the expected payoff|DT VBN NN|BODY_12:BODY_7|0
+the desired aggregate|DT VBN NN|BODY_5|0
+n â† ’|NN NN NN|BODY_2|0
+¤ 1 m|NN CD NN|BODY_14|0
+( 1 âˆ|-LRB- CD NN|BODY_8|0
+the relative dimensionalities|DT JJ NNS|BODY_6|1
+a financial security|DT JJ NN|ABSTRACT_4|0
+our negative results|PRP$ JJ NNS|BODY_16|0
+the proper equilibrium|DT JJ NN|ABSTRACT_6|1
+more general versions|RBR JJ NNS|BODY_3|0
+p < bi/qi|NN NN NN|BODY_6|0
+wijâˆ ’ i|DT NN IN|BODY_18|0
+âˆ ’ h|NN JJ NN|BODY_3|0
+a better understanding|DT JJR NN|BODY_2|1
+a market mechanism|DT NN NN|BODY_2|0
+the initial state|DT JJ NN|BODY_1:BODY_4|0
+the computational power|DT JJ NN|BODY_5:BODY_4|0
+zm and constants|NN CC NNS|BODY_6|0
+an upper bound|DT JJ JJ|BODY_2|0
+political stock markets|JJ NN NNS|BODY_4|0
+extremely complex meta-reasoning|RB JJ NN|BODY_5|0
+a major role|DT JJ NN|BODY_5|1
+1 l j=1|CD JJ NNS|BODY_32|0
+e( f|x âˆˆ|FW FW FW|BODY_3|0
+iowa tippie college|JJ NN NN|BODY_4|0
+exactly $ 1|RB $ CD|BODY_7|0
+a quantity qi|DT NN NN|BODY_5:BODY_4|0
+general a state|JJ DT NN|BODY_6|0
+the private information|DT JJ NN|BODY_14|0
+all i )|DT IN -RRB-|BODY_22|0
+a riskneutral agent |DT JJ NN|BODY_3|0
+the participating agents|DT VBG NNS|BODY_5|0
+the following constraints|DT VBG NNS|BODY_9|0
+distributed input bits|VBN NN NNS|ABSTRACT_5|1
+alternative market models|JJ NN NNS|BODY_3|0
+the anonymous reviewers|DT JJ NNS|BODY_3|0
+the strategic issue|DT JJ NN|BODY_2|0
+8 , 22]|CD , CD|BODY_5|0
+p( f( x|VBN JJ SYM|BODY_40:BODY_19|0
+wij+ i jâˆ|DT IN NN|BODY_17|0
+more complex payoffs|RBR JJ NNS|BODY_2|0
+the function cn|DT NN NN|BODY_1:BODY_4|0
+the set s1|DT NN NNS|BODY_3|0
+ei[f( x )]|DT NN NN|BODY_7|0
+expected profit )|VBN NN -RRB-|BODY_16:BODY_9|0
+a linear subspace|DT JJ NN|BODY_4|0
+the final possibility|DT JJ NN|BODY_2|1
+the n agents|DT NN NNS|BODY_3:BODY_20|0
+a complete market|DT JJ NN|BODY_1:BODY_3|0
+generic prior distributions|JJ JJ NNS|BODY_4|0
+o( n )|JJ NN -RRB-|BODY_3|0
+the probability distribution|DT NN NN|BODY_3|0
+our current model|PRP$ JJ NN|BODY_3|0
+the shapley-shubik process|DT JJ NN|BODY_1|0
+actual election outcomes|JJ NN NNS|BODY_12|0
+{y âˆˆ sâˆž|JJ JJ NN|BODY_9|0
+their own beliefs|PRP$ JJ NNS|BODY_4|0
+an external observer|DT JJ NN|BODY_1:BODY_7|0
+best myopic strategy|JJS NN NN|BODY_4|0
+a separating hyperlane|DT VBG NN|BODY_6|0
+the efficient markets|DT JJ NNS|BODY_2|0
+the best forecasts|DT JJS NNS|BODY_3|0
+the potential tradeoff|DT JJ NN|BODY_2|0
+an equilibrium strategy|DT NN NN|BODY_3|0
+very different results|RB JJ NNS|BODY_3|0
+1 n n|CD NN NN|BODY_5|0
+all input bits|DT NN NNS|BODY_4|0
+a threshold security|DT NN NN|BODY_7|1
+the minimum number|DT JJ NN|BODY_2|0
+the function value|DT NN NN|BODY_1:BODY_4|0
+purely speculative reasons|RB JJ NNS|BODY_5|0
+a single bit|DT JJ NN|BODY_7|0
+i =â‡ ’|NN FW IN|BODY_6|0
+0 ) i|CD -RRB- IN|BODY_4|0
+exactly the problem|RB DT NN|BODY_2|0
+a given function|DT VBN NN|BODY_3:BODY_4|0
+a centralized market|DT JJ NN|BODY_18|0
+pâˆž ( 2|NN -LRB- CD|BODY_7|0
+the communication complexity|DT NN NN|BODY_5|0
+1|y âˆˆ srâˆ’1|JJ JJ NNS|BODY_8|0
+some points z1|DT NNS NNS|BODY_4|0
+wixi â‰ ¥|DT JJ NN|BODY_13|0
+the smaller-dimensional space|DT JJ NN|BODY_9|0
+pâˆž)jâˆ ’ i|JJ , IN|BODY_17|0
+her net trade|PRP$ JJ NN|BODY_6|0
+the convex hull|DT NN NN|BODY_7|0
+pâˆžj+ i +|JJ IN JJ|BODY_15|0
+an and bn|DT CC NN|BODY_3|0
+the following rule|DT JJ NN|BODY_7|0
+common knowledge sets|JJ NN NNS|BODY_4|0
+a consistent projection|DT JJ NN|BODY_7|0
+monotone and h|NN CC JJ|BODY_7|0
+a similar result|DT JJ NN|BODY_2|0
+this residual problem|DT JJ NN|BODY_3|0
+’ 1 )|NN CD -RRB-|BODY_6|0
+a finite number|DT JJ NN|BODY_6|0
+a market maker|DT NN NN|BODY_12|0
+the market mechanism|DT NN NN|BODY_5|0
+a great deal|DT JJ NN|BODY_5|0
+the important essence|DT JJ NN|BODY_9|1
+yl and constants|NN CC NNS|BODY_24|0
+a small number|DT JJ NN|BODY_11|0
+the new value|DT JJ NN|BODY_13|0
+the security (|DT NN -LRB-|BODY_3|0
+1 ) +p(y1|CD -RRB- CD|BODY_13|0
+the expectation operator|DT NN NN|BODY_9|0
+x and y|NN CC NN|BODY_3|0
+a lower bound|DT JJR VBN|ABSTRACT_2|0
+a financial instrument|DT JJ NN|BODY_4|0
+the same probability|DT JJ NN|BODY_6|0
+our model captures|PRP$ NN NNS|BODY_2|0
+at least n|IN JJS NN|BODY_4|0
+xn and yn|NNP CC NNP|BODY_13|0
+the same argument|DT JJ NN|BODY_4|0
+time and incorporated|NN CC JJ|ABSTRACT_8|0
+a negative quantity|DT JJ NN|BODY_2|0
+her bit xi|PRP$ NN NN|BODY_3|0
+all n bits|DT NN NNS|BODY_2|0
+real agent interaction|JJ NN NN|BODY_7|1
+1 ) )|CD -RRB- -RRB-|BODY_6|0
+simplicity and tractability|NN CC NN|BODY_15|0
+j+ = e|NNS SYM NN|BODY_5|0
+any modeling decisions|DT JJ NNS|BODY_1|0
+the prior p.|DT JJ NN|BODY_5|0
+weighted threshold function|VBN NN NN|BODY_6|0
+the important aspects|DT JJ NNS|BODY_6|1
+the linear form|DT JJ NN|BODY_4|0
+the exact form|DT JJ NN|BODY_4|0
+the announced price|DT VBN NN|BODY_17|0
+her subjective estimation|PRP$ JJ NN|BODY_6|0
+pâˆž ( 3|NN -LRB- CD|BODY_7|0
+this ideal case|DT JJ NN|BODY_9|0
+the set s0|DT NN NN|BODY_9|0
+0, f( x|JJ JJ SYM|BODY_3|0
+x2 = 0|IN SYM CD|BODY_7|0
+particular proving upper|JJ NN JJ|BODY_5|0
+a strong connection|DT JJ NN|BODY_2|0
+that computing c2|DT NN NN|BODY_3|0
+â‰ ¥ 1|JJR NN CD|BODY_12|0
+the convergence time|DT NN NN|BODY_3|0
+the security )|DT NN -RRB-|BODY_4|0
+rational expectation equilibria|JJ NN NN|BODY_3|0
+the common-knowledge possibility|DT NN NN|BODY_3|0
+all private information|DT JJ NN|BODY_10|0
+the notation sr|DT NN NN|BODY_2|0
+some legitimate tactics|DT JJ NNS|BODY_3|0
+1 ) case|CD -RRB- NN|BODY_10|0
+the mckelvey-page result|DT JJ NN|BODY_2|0
+2 xâˆ —|CD NN NN|BODY_15|0
+the external observer|DT JJ NN|BODY_2|0
+a geometric characterization|DT JJ NN|BODY_3|0
+1|yi = 1|CD SYM CD|BODY_11|0
+this common-prior assumption-typical|DT JJ JJ|BODY_2|0
+the event space|DT NN NN|BODY_5|0
+the market behavior|DT NN NN|BODY_10|0
+the total volume|DT JJ NN|BODY_5|0
+off $ 1|RB $ CD|BODY_4|0
+these threshold securities|DT NN NNS|ABSTRACT_1:BODY_4|0
+her current valuation|PRP$ JJ NN|BODY_7|0
+a similar calculation|DT JJ NN|BODY_3|0
+independence or dimensionality|NN CC NN|BODY_4|0
+some new information|DT JJ NN|BODY_5|0
+[6 , 25|IN , CD|BODY_14|0
+a function cn|DT NN NN|BODY_2|0
+a decentralized market|DT JJ NN|BODY_4|0
+the set srâˆ’1|DT NN NNS|BODY_3|0
+$ 1 iff|$ CD NN|BODY_6|0
+the prior p|DT JJ NN|BODY_1|0
+all the h|PDT DT NN|BODY_11|0
+all possible functions|DT JJ NNS|BODY_2|0
+the same or|DT JJ CC|BODY_13|0
+only boolean securities|RB JJ NNS|BODY_2|0
+x2 = 1|NNP SYM CD|BODY_6|0
+a bid bi|DT NN NN|BODY_4|0
+the random variables|DT JJ NNS|BODY_8|0
+the computational properties|DT JJ NNS|ABSTRACT_5|0
+the time value|DT NN NN|BODY_4|0
+a threshold function|DT NN NN|BODY_5|0
+the minimum index|DT JJ NN|BODY_4|0
+a prior distribution|DT JJ NN|BODY_7|0
+an amount bi|DT NN NN|BODY_6|0
+the worst-case number|DT JJ NN|BODY_5|0
+what information others|WP NN NNS|BODY_2|0
+( ii )|-LRB- NNS -RRB-|BODY_11|0
+any one trader|DT CD NN|BODY_8|0
+the price pr|DT NN NN|BODY_14|0
+private input bits|JJ NN NNS|BODY_4|0
+its rational-expectations equilibrium|PRP$ NNS NN|BODY_6|0
+true expected value|JJ JJ NN|BODY_7|0
+a first step|DT JJ NN|BODY_4|0
+a simple function|DT JJ NN|BODY_12|0
+the current price|DT JJ NN|BODY_3|0
+the same number|DT JJ NN|BODY_4|0
+the same characterization|DT JJ NN|BODY_4|0
+a linear equation|DT JJ NN|BODY_2|0
+p > bi/qi|NN NN NN|BODY_8|0
+g( pâˆž 1|JJ NN CD|BODY_3|0
+the rth round|DT JJ JJ|BODY_16:BODY_1|0
+the clearing prices|DT NN NNS|BODY_9|0
+sâˆž i )|FW NN -RRB-|BODY_4|0
+a known number|DT JJ NN|BODY_5|0
+the joint distribution|DT JJ NN|BODY_3|0
+3.3 agent strategies|CD NN NNS|BODY_1|1
+any i such|DT NN JJ|BODY_1|0
+another interesting approach|DT JJ NN|BODY_1|0
+that j+ i|DT JJ NN|BODY_2|0
+a prior p|DT JJ NN|BODY_3|1
+the security payoffs|DT NN NNS|BODY_10|0
+the conditional probability|DT JJ NN|BODY_5|0
+her own bit|PRP$ JJ NN|BODY_3|0
+a clearing price|DT NN NN|BODY_3|0
+2 theorem 4|CD NN CD|BODY_1|0
+her final possibility|PRP$ JJ NN|BODY_8|0
+our market model|PRP$ NN NN|BODY_5|0
+the two cases|DT CD NNS|BODY_4|0
+any vector x|DT NN NN|BODY_6|0
+possibly different information|RB JJ NN|BODY_5|0
+nonlinear clearing prices|JJ VBG NNS|BODY_14|0
+that dim( s0|DT JJ NN|BODY_1|0
+a powerful result|DT JJ NN|BODY_7|0
+enough private information|JJ JJ NN|BODY_3|0
+exactly $ 0|RB $ CD|BODY_8|0
+any specific information|DT JJ NN|BODY_7|0
+the notation dim(|DT NN NN|BODY_13|0
+a distributed computation|DT VBN NN|BODY_4|0
+the previous set|DT JJ NN|BODY_12|0
+a suitable aggregate|DT JJ NN|BODY_2|0
+the common prior|DT JJ JJ|BODY_2|0
+the security conveys|DT NN NNS|BODY_5|0
+the final round|DT JJ NN|BODY_5|0
+the residual problem|DT JJ NN|BODY_5|1
+= p( c2(x1|SYM FW CD|BODY_26|0
+any prior distribution|DT JJ NN|BODY_7|0
+a distribution pn|DT NN NN|BODY_5|0
+a single price|DT JJ NN|BODY_3|0
+arbitrary prior distributions|JJ JJ NNS|BODY_2|0
+a representative model|DT JJ NN|BODY_8|0
+1 ) p(xi|CD -RRB- NN|BODY_12|0
+prices and bids|NNS CC NNS|BODY_3|0
+the expected value|DT VBN NN|BODY_4|0
+agent 1 bid|NN CD NN|BODY_3|0
+c2(x1 , x2|CD , NNS|BODY_4|0
+that f( x|DT JJ NN|BODY_2|0
+’ < 1|IN NN CD|BODY_7|0
+its equilibrium value|PRP$ NN NN|BODY_2|0
+her current expectation|PRP$ JJ NN|BODY_3|0
+a non-zero probability|DT JJ NN|BODY_6|0
+shoham and tennenholtz|NN CC NN|BODY_1|0
+nonmyopic reasoning )|JJ NN -RRB-|BODY_9|0
+dim( srâˆ’1 )|JJ NNS -RRB-|BODY_3|0
+the prior )|DT JJ -RRB-|BODY_9|0
+an equilibrium price|DT NN NN|BODY_1|0
+the market computation|DT NN NN|BODY_6|0
+the strong form|DT JJ NN|BODY_1|0
+this distribution p|DT NN NN|BODY_1|0
+a zeroprobability event|DT NN NN|BODY_24|0
+some prior distributions|DT JJ NNS|BODY_3|0
+private information xi|JJ NN NN|BODY_8|0
+rational expectations theory|JJ NNS NN|BODY_8|0
+1 and 3|CD CC CD|BODY_1|0
+the game-theoretic sense|DT JJ NN|BODY_4|0
+the market process|DT NN NN|BODY_11|0
+1 ) â‰|CD -RRB- NN|BODY_9|0
+many helpful discussions|JJ JJ NNS|BODY_3|0
+sr âš† srâˆ’1|JJ FW FW|BODY_6|0
+the carry-bit functions|DT NN NNS|BODY_4|0
+the general construction|DT JJ NN|BODY_8|0
+any further information|DT JJ NN|BODY_10|0
+unspecified reasons )|JJ NNS -RRB-|BODY_8|0
+the agents|DT NNS|BODY_13:BODY_2:BODY_3:BODY_7:BODY_8|0
+the available securities|DT JJ NNS|BODY_3|0
+pâˆž = prâˆ’1|JJ SYM NNS|BODY_8|0
+a function f|DT NN NN|BODY_1|0
+let â„ ¦|VB NN NNS|BODY_1|0
+a function g|DT NN NN|BODY_1|0
+their private information|PRP$ JJ NN|BODY_8|0
+let f( â·|VB NN NNS|BODY_1|0
+the agents trade|DT NNS NN|BODY_1|0
+her own information|PRP$ JJ NN|BODY_3|0
+x2 and y2|NNS CC NNS|BODY_1|0
+9 , 27]|CD , CD|BODY_8|0
+the new price|DT JJ NN|BODY_4|0
+the inductive assumption|DT JJ NN|BODY_1|0
+a real number|DT JJ NN|BODY_9|0
+discussion our results|NN PRP$ NNS|BODY_1|0
+an identical argument|DT JJ NN|BODY_1|0
+the price p1|DT NN NNS|BODY_1|0
+this theoretical ideal|DT JJ NN|BODY_1|0
+all the results|PDT DT NNS|BODY_1|0
+4.3 convergence time|CD NN NN|BODY_1|0
+6.2 future work|CD JJ NN|BODY_1|0
+the distribution p2|DT NN NN|BODY_1|0
+the information structure|DT NN NN|BODY_1|0
+the prior pnâˆ’1|DT JJ NNS|BODY_9|1
+computable boolean functions|JJ JJ NNS|BODY_6|0
+rational equilibrium strategies|JJ NN NNS|BODY_9|0
+x1 or y1|CD CC CD|BODY_5|0
+the market structure|DT NN NN|BODY_1|0
+weighted threshold form|JJ NN NN|BODY_1|0
+the specified manner|DT JJ NN|BODY_5|0
+any function f|DT NN NN|BODY_1|0
+ad infinitum [5]|NN NN NN|BODY_8|0
+every round r|DT NN NN|BODY_1|0
+the base case|DT NN NN|BODY_1|0
+most n rounds|JJS NN NNS|BODY_3|0
+round 161 r|JJ CD NN|BODY_6|0
+each agent i|DT NN FW|BODY_9|0
+1|xi = 0)|CD SYM CD|BODY_10|0
+x1 âš• x2|CD NNS NNS|BODY_5|0
+any one agent|DT CD NN|BODY_8|0
+non-zero prior probability|JJ JJ NN|BODY_5|1
+cn( â· )|JJ NN -RRB-|BODY_10|0
+trading|NN|BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the price|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4|1
+the set|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+each round|DT NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3|0
+y2|NNS|BODY_33:BODY_5:BODY_16:BODY_23:BODY_26:BODY_4:BODY_10:BODY_29|0
+all agents|DT NNS|BODY_6:BODY_5:BODY_1:BODY_10:BODY_4:BODY_7:BODY_9|0
+the values|DT NNS|BODY_5:BODY_34:BODY_18:BODY_2:BODY_3:BODY_7:BODY_8|0
+i|PRP|BODY_32:BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+boolean functions|JJ NNS|BODY_5:BODY_3:BODY_4:BODY_8|0
+0.5|CD|BODY_6:BODY_2:BODY_38:BODY_3:BODY_4:BODY_7|0

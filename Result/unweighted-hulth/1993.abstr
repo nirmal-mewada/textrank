@@ -1,0 +1,32 @@
+it|PRP|BODY_3:BODY_4|0
+we|PRP|BODY_1:BODY_2|1
+demosaicing|NN|BODY_1:BODY_2|0
+each pixel|DT NN|BODY_2|0
+projections|NNS|BODY_2|0
+sample red , green , and blue colors|NN JJ , JJ , CC JJ NNS|BODY_5|0
+the other colors|DT JJ NNS|BODY_5|0
+inter-channel correlation|NN NN|BODY_5|1
+terms|NNS|BODY_7|0
+the important tasks|DT JJ NNS|BODY_5|0
+color filter arrays|NN NN NNS|BODY_4|0
+most commercial digital cameras|RBS JJ JJ NNS|BODY_3|0
+only one color sample|RB CD NN NN|BODY_3|0
+the values|DT NNS|BODY_4|0
+images|NNS|BODY_2|0
+that|WDT|BODY_4|1
+them|PRP|BODY_6|0
+a new demosaicing technique|DT JJ NN NN|BODY_3|1
+all|DT|BODY_5|0
+one|CD|BODY_4|0
+six state-of-the-art demosaicing techniques|CD JJ VBG NNS|BODY_3|0
+this technique|DT NN|BODY_2|0
+a specific pattern|DT JJ NN|BODY_6|0
+color plane interpolation|NN NN NN|BODY_1|0
+neighboring samples|VBG NNS|BODY_6|0
+the location|DT NN|BODY_1|0
+an alternating-projections scheme|DT NNS NN|BODY_6|1
+mean square error|JJ NN NN|BODY_8|0
+highly visible color artifacts|RB JJ NN NNS|BODY_3|0
+a digital camera pipeline|DT JJ NN NN|BODY_6|0
+this color plane interpolation|DT NN NN NN|BODY_1|0
+this paper|DT NN|BODY_1|1

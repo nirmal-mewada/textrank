@@ -1,0 +1,267 @@
+we|PRP|BODY_6:BODY_5:ABSTRACT_2:BODY_2:BODY_1:ABSTRACT_1:BODY_4:BODY_8:BODY_9|3
+web search|NN NN|TITLE_3:BODY_3|0
+that|WDT|BODY_6:ABSTRACT_4:ABSTRACT_3:BODY_10|1
+documents|NNS|ABSTRACT_6:BODY_2:ABSTRACT_3:BODY_4|0
+efficient generation|JJ NN|ABSTRACT_6:BODY_1:BODY_8|1
+a search engine|DT NN NN|ABSTRACT_5:BODY_2:BODY_10|0
+experimentation|NN|ABSTRACT_8:BODY_3|0
+the number|DT NN|ABSTRACT_5:ABSTRACT_2:BODY_1|1
+snippet generation time|JJ NN NN|ABSTRACT_4:BODY_7|0
+ram|NN|BODY_3:ABSTRACT_7|0
+search engines|NN NNS|ABSTRACT_5:BODY_4|0
+result snippets|NN NNS|TITLE_2|0
+simulation|NN|BODY_5:ABSTRACT_1|0
+fast generation|JJ NN|TITLE_1|0
+part|NN|ABSTRACT_4:ABSTRACT_3|0
+information search and retrieval|NN NN CC NN|ABSTRACT_3|0
+information storage and retrieval]|NN NN CC NN|ABSTRACT_2|0
+only a marginal|RB DT JJ|ABSTRACT_7|1
+document cache|NN NN|ABSTRACT_6|1
+query biased document snippets|NN VBN NN NNS|ABSTRACT_2|0
+secondary storage|JJ NN|ABSTRACT_3|0
+finding documents|VBG NNS|ABSTRACT_2|0
+an expectation|DT NN|ABSTRACT_6|0
+snippet generation performance|JJ NN NN|ABSTRACT_3|0
+a baseline|DT NN|ABSTRACT_6|0
+systems|NNS|ABSTRACT_5|0
+the total cost|DT JJ NN|ABSTRACT_4|0
+a document compression method|DT NN NN NN|ABSTRACT_2|0
+a scheme|DT NN|ABSTRACT_3|1
+measurement|NN|ABSTRACT_9|0
+58 %|CD NN|ABSTRACT_5|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+general terms|JJ NNS|ABSTRACT_7|0
+the zlib compression library|DT NN NN NN|ABSTRACT_7|0
+generating snippets|VBG NNS|ABSTRACT_5|0
+results pages|NNS NNS|ABSTRACT_4|0
+snippet quality|JJ NN|ABSTRACT_8|1
+different size ram caches|JJ NN NN NNS|ABSTRACT_4|0
+a fixed size cache|DT JJ NN NN|ABSTRACT_5|0
+search engine users|NN NN NNS|ABSTRACT_7|0
+these experiments|DT NNS|ABSTRACT_1|0
+query biased snippets|NN VBN NNS|ABSTRACT_7|0
+snippets|NNS|BODY_5:BODY_2:BODY_1:BODY_3|1
+which|WDT|BODY_11:BODY_3:BODY_4:BODY_7|0
+the document|DT NN|BODY_6:BODY_4:BODY_10|0
+query biased summaries|NN VBN NNS|BODY_12:BODY_3:BODY_4|0
+it|PRP|BODY_6:BODY_1:BODY_8|0
+there|EX|BODY_1:BODY_2:BODY_4|0
+each document|DT NN|BODY_11:BODY_3:BODY_8|1
+query-biased summarization|JJ NN|BODY_3|0
+search results|NN NNS|BODY_2:BODY_3|0
+cache|NN|BODY_3:BODY_10|1
+the searcher|DT NN|BODY_2:BODY_3|0
+sentences|NNS|BODY_5:BODY_7|1
+the searcher |DT NN|BODY_6:BODY_5|0
+each sub-system|DT NN|BODY_3:BODY_4|0
+summarization|NN|BODY_6:BODY_5|0
+the basis|DT NN|BODY_3:BODY_9|0
+a document|DT NN|BODY_2:BODY_8|1
+the performance|DT NN|BODY_6:BODY_7|0
+machines|NNS|BODY_6:BODY_4|0
+the sub-systems|DT NNS|BODY_9|0
+the first k bytes|DT JJ NN NNS|BODY_3|0
+time|NN|BODY_3:BODY_9|0
+an obvious baseline|DT JJ NN|BODY_7|1
+their value|PRP$ NN|BODY_4|0
+the zlib compressor|DT NN NN|BODY_8|1
+query|NN|BODY_6:BODY_4|0
+ibm [2|NN NNS|BODY_3|0
+large enterprises|JJ NNS|BODY_2|0
+query-independent snippets|JJ NNS|BODY_2|0
+web search engines indexing|NN NN NNS NN|BODY_3|0
+its space/time performance|PRP$ JJ NN|BODY_6|1
+high quality snippets|JJ NN NNS|BODY_5|1
+they|PRP|BODY_12:BODY_1|0
+whole-of-government search services|JJ NN NNS|BODY_4|1
+the corresponding hundreds|DT JJ NNS|BODY_2|0
+ten billion web pages|CD CD NN NNS|BODY_5|0
+the degree|DT NN|BODY_10|0
+an a priori ordering|DT DT JJ NN|BODY_6|1
+brin and page [1|NN CC NN NNS|BODY_6|0
+their webdocsum system|PRP$ NN NN|BODY_3|0
+radev et al|NNP NNP NN|BODY_3|0
+the scale|DT NN|BODY_3|1
+the equally diverse methods|DT RB JJ NNS|BODY_7|0
+govsearch .australia.gov.au ( c|NN NN -LRB- NN|BODY_2|0
+only marginal impact|JJ JJ NN|BODY_3|0
+the reach|DT NN|BODY_5|0
+a directory site|DT NN NN|BODY_8|0
+rapid generation|JJ NN|BODY_4|1
+the document content|DT NN NN|BODY_4|0
+efficient summary generation|JJ NN NN|BODY_2|0
+example|NN|BODY_1:BODY_2|0
+current www search engines|JJ JJ NN NNS|BODY_3|0
+a sneak preview|DT JJ NN|BODY_4|0
+the experimental work|DT JJ NN|BODY_2|0
+one or more snippets|CD CC JJR NNS|BODY_2|0
+the index structure|DT NN NN|BODY_6|0
+some experimental timings|DT JJ NNS|BODY_2|0
+the sub-system|DT NN|BODY_5:BODY_8|0
+data|NNS|BODY_4|0
+terabytes|NNS|BODY_3|0
+a new algorithm|DT JJ NN|BODY_2|1
+compact single-file structure|JJ JJ NN|BODY_3|1
+the title and url|DT NN CC NN|BODY_6|0
+the diagram|DT NN|BODY_4:BODY_7|0
+each other|DT JJ|BODY_13|0
+each search|DT NN|BODY_11|0
+query-biased snippets|JJ NNS|BODY_2|0
+use|NN|BODY_3|0
+the contact details|DT NN NNS|BODY_8|0
+many sub-systems|JJ NNS|BODY_5|0
+a person|DT NN|BODY_9|0
+document title and url|NN NN CC NN|BODY_3|0
+dmoz.org|NN|BODY_9|0
+mani [13]|NNS NNS|BODY_2|0
+few algorithms|JJ NNS|BODY_4|0
+disk|NN|BODY_5:BODY_4|0
+the boxes|DT NNS|BODY_6|0
+the snippet generation algorithms|DT JJ NN NNS|BODY_4|0
+the name|DT NN|BODY_2|0
+the memory hierarchy|DT NN NN|BODY_2|0
+the quality|DT NN|BODY_4|0
+the time|DT NN|BODY_1:BODY_7|0
+them|PRP|BODY_7|0
+informative snippets|JJ NNS|BODY_2|0
+the operating system|DT NN NN|BODY_3|0
+summary [20 , 21]|NN CD , CD|BODY_7|0
+the data and processes|DT NNS CC NNS|BODY_4|0
+25 million pages|CD CD NNS|BODY_1|0
+no empirical data|DT JJ NNS|BODY_5|0
+schemes|NNS|BODY_5|1
+the actual document|DT JJ NN|BODY_7|0
+the first 50 words|DT JJ CD NNS|BODY_3|0
+the search engine indexes|DT NN NN NNS|BODY_3|0
+search queries|NN NNS|BODY_8|0
+document compaction|NN NN|BODY_3|1
+opening|NN|BODY_2|0
+the heading|DT NN|BODY_7|0
+ten files|CD NNS|BODY_3|0
+a special type|DT JJ NN|BODY_2|0
+extractive document summarization|JJ NN NN|BODY_3|0
+the order|DT NN|BODY_4|0
+many machines|JJ NNS|BODY_10|0
+its description metadata|PRP$ NN NN|BODY_6|0
+data and programs|NNS CC NNS|BODY_2|0
+real information need|JJ NN NN|BODY_7|0
+a description|DT NN|BODY_7|0
+special-purpose filesystems|NN NNS|BODY_1|0
+these problems|DT NNS|BODY_2|0
+the more disk seeks|DT JJR NN VBZ|BODY_4|0
+day|NN|BODY_9|0
+all|DT|BODY_11|0
+text|NN|BODY_3|0
+one selectively|CD RB|BODY_2|0
+. sub-system|. NN|BODY_9|0
+hundreds|NNS|BODY_6|0
+millions|NNS|BODY_7|0
+compression|NN|BODY_4|1
+an indication|DT NN|BODY_11|0
+text fragments|NN NNS|BODY_7|0
+no means|DT NNS|BODY_4|0
+further time savings|JJ NN NNS|BODY_2|0
+google|NN|BODY_2|0
+various data sets|JJ NNS NNS|BODY_9|1
+leading sentences|JJ NNS|BODY_9|1
+physical systems|JJ NNS|BODY_2|0
+more documents|JJR NNS|BODY_2|0
+www.firstgov.gov ( c|NNP -LRB- NN|BODY_5|1
+early web search engines|JJ NN NN NNS|BODY_1|0
+that caching documents|DT NN NNS|BODY_6|0
+generic summaries|JJ NNS|BODY_4|0
+top|NN|BODY_5|0
+overviews|NNS|BODY_4|0
+a single machine|DT JJ NN|BODY_4|0
+query rates|NN NNS|BODY_8|0
+silber and mckoy [19]|NN CC NN NNS|BODY_1|0
+an abstraction|DT NN|BODY_7|0
+white et al [21]|JJ NNP JJ NNS|BODY_1|0
+search.yahoo.com|NN|BODY_4|0
+short fragments|JJ NNS|BODY_2|0
+several other sub-systems|JJ JJ NNS|BODY_3|0
+a combination|DT NN|BODY_7|0
+a copy|DT NN|BODY_2|0
+a variety|DT NN|BODY_3|0
+activities|NNS|BODY_4|0
+the memory management system|DT NN NN NN|BODY_1|0
+the content|DT NN|BODY_5|0
+both|DT|BODY_8|0
+the parsing engine|DT NN NN|BODY_5|0
+the answer|DT NN|BODY_5|0
+other types|JJ NNS|BODY_6|0
+addition|NN|BODY_1|0
+the fixed text|DT VBN NN|BODY_2|0
+that data|DT NNS|BODY_3|0
+themselves|PRP|BODY_5|0
+the meta-data|DT NNS|BODY_2|0
+searchers|NNS|BODY_5|0
+the need|DT NN|BODY_3|0
+the summary|DT NN|BODY_8|0
+versions|NNS|BODY_9|0
+good decisions|JJ NNS|BODY_3|0
+this|DT|BODY_1|0
+links|NNS|BODY_8|0
+its relation|PRP$ NN|BODY_4|0
+query words|NN NNS|BODY_5|0
+files|NNS|BODY_6|0
+the advertising engine|DT NN NN|BODY_4|0
+minimal computation|JJ NN|BODY_4|0
+many papers|JJ NNS|BODY_2|0
+disk seeking|NN VBG|BODY_7|0
+thousands|NNS|BODY_5|0
+file size and type|NN NN CC NN|BODY_12|0
+the text|DT NN|BODY_10|0
+snippet generation|JJ NN|BODY_11:BODY_8|0
+some sub-systems|DT NNS|BODY_2|0
+any documents|DT NNS|BODY_4|0
+inclusion|NN|BODY_7|0
+works|NNS|BODY_7|0
+sentence fragments|NN NNS|BODY_6|0
+caching|NN|BODY_3|0
+locating|JJ|BODY_5|0
+the utility|DT NN|BODY_2|0
+title|NN|BODY_8|0
+no need|DT NN|BODY_5|0
+only the generation|RB DT NN|BODY_3|0
+5 million pages|CD CD NNS|BODY_1|0
+the result document|DT NN NN|BODY_4|0
+the proportion|DT NN|BODY_2|0
+a file|DT NN|BODY_4|0
+collections|NNS|BODY_9|0
+memory|NN|BODY_7|0
+ten billion files|CD CD NNS|BODY_1|0
+ten snippets )|CD NNS -RRB-|BODY_12|0
+worth accessing|JJ NN|BODY_6|0
+the processes|DT NNS|BODY_7|0
+some|DT|BODY_8|0
+the times|DT NNS|BODY_8|0
+heavy query load|JJ NN NN|BODY_8|0
+no caching|DT NN|BODY_3|0
+note|NN|BODY_1|0
+cpu processing|NN NN|BODY_6|0
+comparison|NN|BODY_4|0
+its metadata )|PRP$ NN -RRB-|BODY_5|0
+results|NNS|BODY_5|0
+an implementation|DT NN|BODY_3|0
+50 million pages )|CD CD NNS -RRB-|BODY_1|0
+( c|-LRB- NN|BODY_4|0
+the document contents|DT NN NNS|BODY_5|0
+a query-biased snippet|DT JJ NN|BODY_1|0
+tombros and sanderson|NNS CC NN|BODY_4|0
+the simpleminded approach|DT JJ NN|BODY_1|0
+traditional filesystems|JJ NNS|BODY_6|0
+figure 1|NN CD|BODY_7|0
+the snippets|DT NNS|BODY_5|0
+the reader|DT NN|BODY_1|0
+query-biased [20]|JJ NN|BODY_10|0
+the importance|DT NN|BODY_1|0
+the literature|DT NN|BODY_5|0
+whole-of-web search applications|JJ NN NNS|BODY_5|0
+an organization|DT NN|BODY_10|0
+the overhead|DT NN|BODY_1|0
+future work|JJ NN|BODY_8|0
+generation|NN|BODY_1|0
+resources|NNS|BODY_14|0
+the best case|DT JJS NN|BODY_1|0
+the search query|DT NN NN|BODY_13|0

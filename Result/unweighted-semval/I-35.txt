@@ -1,0 +1,478 @@
+we|PRP|BODY_13:ABSTRACT_2:BODY_2:BODY_25:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_4:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_9|17
+which|WDT|BODY_6:BODY_31:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|2
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|2
+that|IN|BODY_12:BODY_11:BODY_22:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:ABSTRACT_9:BODY_8:BODY_20:BODY_9|2
+cpns|NNS|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_8|1
+normative positions|JJ NNS|BODY_12:BODY_6:BODY_5:ABSTRACT_11:BODY_2:BODY_3:BODY_10:BODY_7:BODY_9|4
+norms|NNS|BODY_6:BODY_5:BODY_21:ABSTRACT_2:BODY_1:BODY_3:ABSTRACT_1:BODY_4:BODY_9|0
+n|RB|BODY_6:BODY_5:BODY_16:BODY_13:BODY_2:BODY_3:BODY_44:BODY_19:BODY_7:BODY_8:BODY_9|0
+s|VBZ|BODY_6:BODY_11:BODY_1:BODY_2:BODY_3:BODY_14:BODY_7:BODY_8|0
+the algorithm|DT NN|BODY_67:BODY_2:BODY_1:BODY_3:BODY_9|0
+a normative structure|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|1
+the delivery normative scene|DT NN JJ NN|BODY_11:BODY_2:BODY_14:BODY_4|0
+the normative structure|DT JJ NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7:BODY_8|1
+the payment normative scene|DT NN JJ NN|BODY_6:BODY_2:BODY_3:BODY_7|0
+conflict detection and resolution|NN NN CC NN|BODY_2:BODY_8|0
+subscripts ) , e.g|NNS -RRB- , NN|BODY_11:BODY_7|0
+n ) or remove(ids|NN -RRB- CC NNS|BODY_5:BODY_7|0
+î  ( line|VBG NN -LRB- NN|BODY_5|0
+18 and 23 )|CD CC CD -RRB-|BODY_4|0
+an existing normative structure|DT VBG JJ NN|BODY_6:BODY_2|0
+the normative transition rule|DT JJ NN NN|BODY_6:BODY_11|0
+np1.illoc and np2.illoc unify|NN CC NN JJ|BODY_11|0
+an identifier and rb|DT NN CC NN|BODY_7|0
+an adaptation and extension|DT NN CC NN|BODY_3|0
+a given normative structure|DT VBN JJ NN|BODY_5:BODY_3|0
+a coloured petri net|DT JJ NN NN|BODY_2|0
+sections 4 and 6.1|NNS CD CC CD|BODY_2|0
+6 prh( â¯i )|CD JJ NN -RRB-|BODY_25|0
+:= î  âˆª|IN NN NN NNP|BODY_24|0
+two or more tokens|CD CC JJR NNS|BODY_2|0
+many different occurrence sequences|JJ JJ NN NNS|BODY_2|0
+utt( â¯i ) n|JJ NN -RRB- RB|BODY_9|0
+the appropriate normative scene|DT JJ JJ NN|BODY_8|0
+â¬âˆƒp âˆˆ p. âˆƒnp1|JJ NN NN NNS|BODY_4|0
+the left-hand side v|DT JJ NN NNS|BODY_3|0
+any atomic formula p(ag|DT JJ NN NN|BODY_3|0
+07 ) 639 variables|CD -RRB- CD NNS|BODY_5|0
+the corresponding normative command|DT JJ JJ NN|BODY_4|0
+the addition or removal|DT NN CC NN|BODY_9|0
+ end figure 4|NN NN NN CD|BODY_64|0
+a set ain âˆª|DT NN NN NN|BODY_2|0
+the functional programming languages|DT JJ NN NNS|BODY_2|0
+zb or ( iii|JJ CC -LRB- NN|BODY_12|0
+all possible markings reachable|DT JJ NNS NN|BODY_2|0
+3 per( â¯i )|CD JJ NN -RRB-|BODY_15|0
+the new updated î |DT JJ VBN NN|BODY_3|0
+the labelling function lin|DT NN NN NN|BODY_8|0
+the labelling function lout|DT NN NN NN|BODY_15|0
+the finite occurence sequence|DT NN NN NN|BODY_6|0
+:= v c v|NNP FW NN FW|BODY_5|0
+n ) | remove(ids|RB -RRB- JJ NNS|BODY_12|0
+a local message interface|DT JJ NN NN|BODY_3|0
+20 else 21 if|CD JJ CD IN|BODY_50|0
+î  ( lines|JJ NN -LRB- NNS|BODY_2|0
+the design and execution|DT NN CC NN|BODY_6|0
+t ) âˆˆ îpayment|NN -RRB- NN NN|BODY_6|0
+a = ( b|DT SYM -LRB- NN|BODY_3|0
+truly distributed computational realisations|RB VBN JJ NNS|ABSTRACT_6|0
+} 19 else nil|NN CD JJ NN|BODY_49|0
+( ii ) p|-LRB- NNS -RRB- NN|BODY_13|0
+the appropriate normative transition|DT JJ JJ NN|BODY_6|0
+an obligation obl(inform( a1|DT NN NN NNS|BODY_2|0
+the normative transition nt|DT JJ NN NN|BODY_5|0
+an associated data type|DT VBN NN NN|BODY_3|0
+( v ) n|-LRB- NN -RRB- RB|BODY_23|0
+a convenient analytical treatment|DT JJ JJ NN|BODY_5|0
+= id , î |SYM JJ , JJ|BODY_5|0
+a new normative structure|DT JJ JJ NN|BODY_3:BODY_7|0
+a normative structure corresponds|DT JJ NN NNS|BODY_2|0
+a given norm n|DT VBN NN NN|BODY_2|0
+distributed , normative scenes|VBN , JJ NNS|BODY_5|0
+atomic formulae î´ (|JJ JJ NN -LRB-|BODY_9|0
+the newly found conflict|DT RB VBN NN|BODY_5|0
+( i ) î£|-LRB- FW -RRB- NN|BODY_9|0
+multiple , related activities|JJ , JJ NNS|ABSTRACT_4|1
+4 prh( i )|CD JJ NN -RRB-|BODY_18|0
+a normative structure off-line|DT JJ NN NN|BODY_6|0
+a normative scene î|DT JJ NN NN|BODY_3|0
+aamas 07 ) 637|NN CD -RRB- CD|BODY_4|0
+the relevant illocution schemata|DT JJ NN NN|BODY_8|0
+an arc expression function|DT NN NN NN|BODY_39|0
+a shared content language|DT VBN NN NN|BODY_19|0
+a given normative scene|DT VBN JJ NN|BODY_4|0
+35 ) ) standing|CD -RRB- -RRB- NN|BODY_12|0
+a finite occurrence sequence|DT JJ NN NN|BODY_1|0
+a labelled bi-partite graph|DT JJ JJ NN|BODY_4|0
+mi[ si > mi+1|NN FW FW CD|BODY_5|0
+a normative position (|DT JJ NN -LRB-|BODY_17|0
+t ) ) )|NN -RRB- -RRB- -RRB-|BODY_21|0
+an arbitrary ground term|DT JJ NN NN|BODY_16|0
+every outgoing normative transition|DT JJ JJ NN|BODY_4|0
+the normative structure (|DT JJ NN -LRB-|ABSTRACT_7|1
+( iii ) t|-LRB- NNS -RRB- NN|BODY_16|0
+a normative state î|DT JJ NN NN|BODY_4|1
+a binding element )|DT JJ NN -RRB-|BODY_11|0
+the new obligation n.|DT JJ NN NN|BODY_9|0
+a given normative position|DT VBN JJ NN|BODY_3|1
+prh( â¯i ) î£|JJ NN -RRB- NN|BODY_3|0
+( ix ) i|-LRB- NN -RRB- FW|BODY_42|0
+all the necessary features|DT DT JJ NNS|BODY_3|0
+every incoming normative scene|DT JJ JJ NN|BODY_6|0
+the initial marking m0|DT JJ VBG NN|BODY_5|0
+the propagation and distribution|DT NN CC NN|BODY_2|0
+an underlying interaction protocol|DT VBG NN NN|BODY_6|0
+its incoming message queue|PRP$ JJ NN NN|BODY_2|0
+a given norm n.|DT VBN NN NN|BODY_71|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+normative positions and utterances|JJ NNS CC NNS|BODY_4|0
+i , ïƒ )|FW , NN -RRB-|BODY_12|0
+a normative transition rule|DT JJ NN NN|BODY_8|0
+the same data value|DT JJ NN NN|BODY_3|0
+â† ’ p b|JJ CC JJ NN|BODY_1|0
+the overall transaction procedure|DT JJ NN NN|BODY_1|0
+the marketplace accountant participates|DT NN NN NNS|BODY_1|0
+the output normative scene|DT NN JJ NN|BODY_5|0
+the colour function c|DT NN NN NN|BODY_1|0
+( line 20 )|-LRB- NN CD -RRB-|BODY_9|0
+the combined cpn def|DT VBN NN NN|BODY_5|0
+a predetermined exit protocol|DT JJ NN NN|BODY_3|0
+the initialisation function i|DT NN NN NN|BODY_1|0
+the first two points|DT JJ CD NNS|BODY_1|0
+an existing normative state|DT VBG JJ NN|BODY_3|0
+normative and procedural concerns|JJ CC JJ NNS|BODY_4|0
+a very difficult task|DT RB JJ NN|BODY_3|0
+these nondeterministic cpns feed|DT JJ NNS NN|BODY_1|0
+the corresponding outgoing arc|DT JJ JJ NN|BODY_10|0
+the corresponding normative scene|DT JJ JJ NN|BODY_10:BODY_8|0
+the corresponding normative scenes|DT JJ JJ NNS|BODY_6|0
+the normative scenes change|DT JJ NNS NN|BODY_5|0
+the normative structure artifact|DT JJ NN NN|BODY_3|0
+normative scenes and b|JJ NNS CC NN|BODY_5|0
+last but not least|JJ CC RB JJS|BODY_1|0
+( line 3 )|-LRB- NN CD -RRB-|BODY_4|0
+a cpn|DT NN|BODY_2:BODY_3:BODY_4|0
+a normative position|DT JJ NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_4|0
+a set|DT NN|BODY_12:BODY_6:BODY_5:BODY_4:BODY_7|0
+the lhs|DT NNS|BODY_5:BODY_2:BODY_3:BODY_9|0
+a finite set|DT JJ NN|BODY_17:BODY_21:BODY_2:BODY_14:BODY_10|0
+the state|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+coloured petri nets|JJ NN NNS|BODY_6:BODY_5:BODY_4:ABSTRACT_7:BODY_7|2
+normative scenes|JJ NNS|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7|0
+the notion|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:ABSTRACT_3:BODY_3|2
+they|PRP|BODY_6:BODY_17:BODY_1:BODY_3:BODY_10:BODY_9|1
+agents|NNS|BODY_5:ABSTRACT_6:ABSTRACT_16:BODY_1:BODY_2:BODY_3:BODY_7|1
+a normative scene|DT JJ NN|BODY_5:BODY_2|0
+a marking m|DT VBG NN|BODY_2:BODY_4|0
+a marking mi|DT VBG NN|BODY_2|0
+tokens|NNS|BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+the colour np|DT NN NN|BODY_2:BODY_8|0
+ordinary petri nets|JJ NN NNS|BODY_2:BODY_8|0
+the distributed enactment|DT VBN NN|BODY_2:ABSTRACT_3:BODY_3|0
+a ground prohibition|DT NN NN|BODY_5:BODY_2|0
+an obligation|DT NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_24:BODY_4|0
+its state change|PRP$ NN NN|BODY_2:BODY_3|0
+a node function|DT NN NN|BODY_24:BODY_4|0
+the normative position|DT JJ NN|BODY_11:BODY_3|0
+an atomic formula|DT JJ NN|BODY_1:BODY_7|0
+a trigger message|DT NN NN|BODY_3:BODY_4|0
+a central resource|DT JJ NN|BODY_3|0
+a finite sequence|DT JJ NN|BODY_2|0
+our normative structure|PRP$ JJ NN|BODY_3|0
+steps and markings|NNS CC NNS|BODY_3|0
+here the conflict|RB DT NN|BODY_2|0
+the arc expressions|DT NN NNS|BODY_5:BODY_2|0
+a normative state|DT JJ NN|BODY_6:BODY_3|0
+well-known theoretical results|JJ JJ NNS|ABSTRACT_8:BODY_9|1
+the form|DT NN|BODY_6:BODY_3:BODY_4|0
+a new obligation|DT JJ NN|BODY_1:BODY_2|0
+a payment activity|DT NN NN|BODY_2|0
+the correct amount|DT JJ NN|BODY_5|0
+the old prohibition|DT JJ NN|BODY_2|0
+1 ( lines|CD -LRB- NNS|BODY_3|0
+the sixth intl|DT JJ NN|BODY_5:BODY_2:BODY_1:BODY_7|1
+prohibition versus obligation|NN JJ NN|BODY_24|0
+a related algorithm|DT JJ NN|BODY_7|0
+default deontic notions|NN JJ NNS|BODY_25|0
+a seller agent|DT NN NN|BODY_6|0
+terms and functions|NNS CC NNS|BODY_2|0
+its reachability set|PRP$ NN NN|BODY_5|0
+the corresponding place|DT JJ NN|BODY_6:BODY_5|0
+three and four|CD CC CD|BODY_2|0
+each possible case|DT JJ NN|BODY_5|0
+the different possibilities|DT JJ NNS|BODY_70|0
+different computational realisations|JJ JJ NNS|BODY_11|0
+a normative transition|DT JJ NN|BODY_2|0
+( e .g|-LRB- NN NN|BODY_2|0
+a tuple b|DT NN NN|BODY_3|0
+the dynamic nature|DT JJ NN|BODY_2:ABSTRACT_3|0
+the intended semantics|DT JJ NNS|BODY_2|0
+the normative level|DT JJ NN|BODY_8|0
+’ t lin|CC NN NN|BODY_2|0
+the cpn model|DT NN NN|BODY_9|0
+c( p )|JJ NN -RRB-|BODY_4|0
+its incoming arcs|PRP$ JJ NNS|BODY_7|0
+the deontic notions|DT JJ NNS|BODY_21|0
+distributed norm management|VBN JJ NN|TITLE_1|0
+regulated multi-agent systems|JJ JJ NNS|TITLE_2|0
+the same illocution|DT JJ NN|BODY_2|0
+the conflict resolution|DT NN NN|BODY_19|0
+a rule rb|DT NN NN|BODY_3|0
+| offer color|NN NN NN|BODY_9|0
+the normative scene|DT JJ NN|BODY_1:BODY_4|0
+a nonground prohibition|DT JJ NN|BODY_2:BODY_4|0
+.e|NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_10:BODY_8|0
+the set î |DT NN NN|BODY_4|0
+8 î£ :=|CD JJ IN|BODY_27|0
+the updated prohibitions|DT VBN NNS|BODY_6|0
+such a snapshot|PDT DT NN|BODY_1:BODY_3|0
+( 3 )|-LRB- CD -RRB-|BODY_17|0
+six distributed activities|CD VBN NNS|BODY_2|0
+a formal definition|DT JJ NN|BODY_3|0
+î2 := âˆ|CD IN IN|BODY_40|0
+int color np|JJ NN NN|BODY_17|0
+normative transition rules|JJ NN NNS|BODY_1:BODY_3|0
+d | v|JJ JJ FW|BODY_7|0
+carabelea et al|NN NNP NN|BODY_16|0
+a certain message|DT JJ NN|BODY_6|0
+the coordination level|DT NN NN|BODY_7|0
+the normative positions|DT JJ NNS|BODY_6:BODY_5|0
+every atomic formulae|DT JJ NNS|BODY_2|0
+another normative position|DT JJ NN|BODY_10|0
+the new obligation|DT JJ NN|BODY_6:BODY_5|0
+the conflict checks|DT NN NNS|BODY_5|0
+our current work|PRP$ JJ NN|BODY_2|0
+an online marketplace|DT JJ NN|BODY_6|0
+a net net|DT JJ JJ|BODY_3|0
+markings and steps|NNS CC NNS|BODY_7|0
+the observable behaviour|DT JJ NN|BODY_4|0
+the existing obligations|DT VBG NNS|BODY_5|0
+a single rule|DT JJ NN|BODY_3|0
+distinct formal theories|JJ JJ NNS|BODY_4|0
+a normative command|DT JJ NN|BODY_24:BODY_4:BODY_7|0
+the normative command|DT JJ NN|BODY_3|0
+a substitution ïƒ|DT NN NN|BODY_4|0
+the formal semantics|DT JJ NNS|BODY_2|0
+obl( â¯ i|FW FW FW|BODY_10|0
+a warehouse manager|DT NN NN|BODY_5|0
+a negotiation activity|DT NN NN|BODY_5|0
+all incoming arcs|DT JJ NNS|BODY_4|0
+a bi-partite graph|DT JJ NN|BODY_2|0
+one such mechanism|CD JJ NN|BODY_2|1
+the standard concept|DT JJ NN|BODY_3|0
+5 else î|CD JJ NN|BODY_23|0
+} 11 î|NN CD NN|BODY_34|0
+the building blocks|DT NN NNS|BODY_2|0
+the usual semantics|DT JJ NNS|BODY_3|0
+the data types|DT NNS NNS|BODY_5|0
+an agent protocol|DT NN NN|BODY_5|0
+the distributed enforcement|DT VBN NN|BODY_2|0
+a trusted provider|DT VBD NN|BODY_4|0
+the firing message|DT NN NN|BODY_3|0
+350 ) )|CD -RRB- -RRB-|BODY_7|0
+( 1 )|-LRB- CD -RRB-|BODY_4|0
+companies and individuals|NNS CC NNS|BODY_5|0
+the old prohibitions|DT JJ NNS|BODY_4|0
+richer deontic content|JJR JJ NN|BODY_9|0
+map conversation schemata|NN NN NN|BODY_2|0
+a cpn model|DT JJ NN|BODY_4|0
+the singleton set|DT NN NN|BODY_7|0
+24 î2 :=|CD CD IN|BODY_56|0
+the upper half|DT JJ NN|BODY_7|0
+ := î |NN IN NN|BODY_22|0
+:= î£ âˆª|IN JJ NNP|BODY_33|0
+the contract activity|DT NN NN|BODY_1|0
+the substitution ïƒ|DT NN NN|BODY_1|0
+these different policies|DT JJ NNS|BODY_1|0
+the next state|DT JJ NN|BODY_4|0
+those annotated prohibitions|DT VBN NNS|BODY_4|0
+the enactment process|DT NN NN|BODY_2|0
+ïƒ = {x/jules|JJ SYM NNS|BODY_3|0
+a buyer agent|DT NN NN|BODY_2|0
+a true-concurrency semantics|DT NN NNS|BODY_2|0
+all annotated prohibitions|DT JJ NNS|BODY_4|0
+a data value|DT NN NN|BODY_2|0
+the programming language|DT NN NN|BODY_7|0
+the annotation î£|DT NN NN|BODY_6|0
+the interaction medium|DT NN NN|BODY_7|0
+a normative layer|DT JJ NN|BODY_9|0
+negation and constraints|NN CC NNS|BODY_5|0
+t ã— p|NN NN NN|BODY_27|0
+a reasonable amount|DT JJ NN|BODY_7|0
+the way norms|DT NN NNS|BODY_5|0
+all their obligations|DT PRP$ NNS|BODY_3|0
+î  âˆª|NN NN NNP|BODY_17|0
+the informal explanation|DT JJ NN|BODY_47|0
+different coordination models|JJ NN NNS|BODY_8|0
+] syntax )|JJ NN -RRB-|BODY_4|0
+the right-hand side|DT JJ NN|BODY_4|0
+the computational management|DT JJ NN|BODY_2|0
+all outgoing arcs|DT JJ NNS|BODY_9|0
+(vi ) c|NNP -RRB- NN|BODY_28|0
+mn[sn > mn+1|JJ JJ NNS|BODY_1|0
+the two levels|DT CD NNS|BODY_2|0
+very few proposals|RB JJ NNS|BODY_2|0
+a centralised manner|DT JJ NN|BODY_4|0
+their effect (|PRP$ NN -LRB-|BODY_4|0
+the delivery activity|DT NN NN|BODY_35:BODY_6|0
+the corresponding cpn|DT JJ NN|BODY_5|0
+aamas 07 )|NN CD -RRB-|BODY_4|0
+particular the notion|JJ DT NN|BODY_8|0
+our running example|PRP$ VBG NN|BODY_6|0
+ïƒ = {a1/a1|NN SYM CD|BODY_18|0
+a simple language|DT JJ NN|BODY_3|0
+a formal trick|DT JJ NN|BODY_24|0
+the norm language|DT JJ NN|BODY_7|0
+a deontic inconsistency|DT JJ NN|BODY_7|0
+a distributed manner|DT VBN NN|BODY_6:BODY_7|0
+the removal algorithm|DT NN NN|BODY_2|0
+a large number|DT JJ NN|BODY_2|0
+the computational machinery|DT JJ NN|BODY_4|0
+then 18 if|RB CD IN|BODY_46|0
+a colour function|DT NN NN|BODY_29|0
+= utt( (inform(jules|SYM JJ NNS|BODY_5|0
+the precise values|DT JJ NNS|BODY_4|0
+a guard function|DT NN NN|BODY_34|0
+any construct p(t1|DT VB NNS|BODY_2|0
+the conflict check|DT NN NN|BODY_2|0
+a distributed mechanism|DT VBN NN|BODY_2|1
+a fine-grained way|DT JJ NN|BODY_3|1
+a normative model|DT JJ NN|ABSTRACT_6|1
+a unification algorithm|DT NN NN|BODY_4|0
+the new prohibition|DT JJ NN|BODY_4|0
+the payment p|DT NN NN|BODY_27|0
+an occurrence sequence|DT NN NN|BODY_2|0
+also called colour|RB VBN NN|BODY_12|0
+these normative scenes|DT JJ NNS|BODY_1:BODY_10|0
+aout âš† b|IN NN NN|BODY_10|0
+a tractable algorithm|DT JJ NN|BODY_2:ABSTRACT_3|2
+p ã— t|NN NN NN|BODY_26|0
+( ids :d)|-LRB- NNS NN|BODY_8|0
+the client role|DT NN NN|BODY_22|0
+the actual values|DT JJ NNS|BODY_3|0
+a rule changes|DT NN NNS|BODY_4|0
+arcs and n|NNS CC NN|BODY_3|0
+an outgoing arc|DT JJ NN|BODY_7|0
+the algorithm updates|DT NN NNS|BODY_4|0
+all the 2|DT DT CD|BODY_3|0
+the protocol agents|DT NN NNS|BODY_2|0
+very same action|RB JJ NN|BODY_4|0
+a set sâˆªb|DT NN NN|BODY_2|0
+î  s.t|NN NN NN|BODY_20|0
+cost et al|NN NNP NN|BODY_8|0
+the current paper|DT JJ NN|BODY_2|0
+a given point|DT VBN NN|BODY_3|0
+the token values|DT JJ NNS|BODY_2|0
+an illocution schema|DT NN NN|BODY_15|0
+an initialisation function|DT NN NN|BODY_43|0
+the given norm|DT VBN NN|BODY_3|0
+the following definition|DT JJ NN|BODY_7|0
+the atomic formula|DT JJ NN|BODY_1:BODY_8|0
+an expressive class|DT JJ NN|BODY_2|0
+a prohibition prh(inform(a1|DT NN NN|BODY_9|0
+the other ,|DT JJ ,|BODY_4|0
+a basic understanding|DT JJ NN|BODY_7|0
+the standard notion|DT JJ NN|BODY_2|1
+a suitable implementation|DT JJ NN|BODY_3|0
+m1[s1 > m2|CD NN NN|BODY_4|0
+all atomic formulae|DT JJ NNS|BODY_2|0
+a separate set|DT JJ NN|BODY_8|0
+hierarchical norm authorities|JJ JJ NNS|BODY_11|0
+the corresponding utterance|DT JJ NN|BODY_30|0
+a challenging issue|DT JJ NN|ABSTRACT_3|0
+a conflict-free set|DT JJ NN|BODY_4|0
+a mapping f|DT NN NN|BODY_2|0
+the warehouse manager|DT NN NN|BODY_6|0
+the concurrent behaviour|DT JJ NN|BODY_3|0
+some normative scenes|DT JJ NNS|BODY_7|0
+some background knowledge|DT NN NN|BODY_5|0
+copper (via arrow|NN NN NN|BODY_15|0
+section 4 )|NN CD -RRB-|BODY_3|1
+one|CD|BODY_1:BODY_2:BODY_3:BODY_4|0
+the same machinery|DT JJ NN|BODY_4|1
+deontic inconsistencies )|JJ NNS -RRB-|BODY_26|0
+one such protocol|CD JJ NN|BODY_3|0
+such a way|PDT DT NN|BODY_6|0
+the concerned agents|DT JJ NNS|BODY_8|0
+t/t } )|JJ NN -RRB-|BODY_23|0
+a supply-chain scenario|DT NN NN|BODY_3|0
+an infinite set|DT JJ NN|BODY_4|1
+the form p(ag|DT NN NN|BODY_4|0
+normative transition rule|JJ NN NN|BODY_7|0
+a well-defined semantics|DT JJ NNS|BODY_3|0
+the set î£|DT NN NN|BODY_8|0
+linear computational complexity|NN JJ NN|BODY_11|0
+other normative scenes|JJ JJ NNS|BODY_10:BODY_7|0
+a tuple î£|DT JJ NN|BODY_3|0
+their data values|PRP$ NNS NNS|BODY_8|0
+our norm language|PRP$ JJ NN|BODY_6:BODY_1|0
+autonomous agents interact|JJ NNS NN|BODY_4|0
+a conflicting fashion|DT JJ NN|BODY_5|0
+a scene identifier|DT NN NN|BODY_6|0
+prohibitions ) [26]|NNS -RRB- NN|BODY_11|0
+( âˆ€s âˆˆ|-LRB- NN NN|BODY_4|0
+any existing prohibitions|DT VBG NNS|BODY_7|0
+the reachability problem|DT NN NN|BODY_2|0
+cpn arc expressions|JJ NN NNS|BODY_8|0
+the payment activity|DT NN NN|BODY_23|0
+the addnorm algorithm|DT NN NN|BODY_3|0
+a multi-agent system|DT JJ NN|BODY_9|0
+a valid substitution|DT JJ NN|BODY_12|0
+all the elements|PDT DT NNS|BODY_1|0
+the marking m|DT VBG NN|BODY_2|0
+the normative state|DT JJ NN|BODY_11:BODY_2|0
+each normative transition|DT JJ NN|BODY_1|0
+a given marking|DT VBN VBG|BODY_1|0
+the normative transition|DT JJ NN|BODY_1|0
+a different activity|DT JJ NN|BODY_11|0
+the combined cpn.|DT VBN NN|BODY_4|0
+a diagrammatic representation|DT JJ NN|BODY_3|1
+mass agents interact|NN NNS NN|BODY_2|0
+an extra layer|DT JJ NN|BODY_5|0
+a distributed setting|DT VBN NN|BODY_9|0
+a net n|DT JJ NN|BODY_1|0
+the one hand|DT CD NN|BODY_1|0
+3.1 basic concepts|CD JJ NNS|BODY_1|0
+the target transition|DT NN NN|BODY_1|0
+a delivery activity|DT NN NN|BODY_6|0
+the intuitive meaning|DT JJ NN|BODY_1|0
+each normative scene|DT JJ NN|BODY_1|0
+the lower half|DT JJR NN|BODY_1|0
+the same element|DT JJ NN|BODY_10|0
+7. related work|DT JJ NN|BODY_1|1
+3.3 intended semantics|CD VBN NNS|BODY_1|0
+other normative positions|JJ JJ NNS|BODY_10|0
+a new norm|DT JJ NN|BODY_11|0
+a principled way|DT JJ NN|BODY_8|0
+the second contribution|DT JJ NN|BODY_1|0
+lin et al|NN NNP NN|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+a fundamental feature|DT JJ NN|BODY_1|0
+a ground illocution|DT NN NN|BODY_6|0
+the complement set|DT NN NN|BODY_1|1
+the following section|DT VBG NN|BODY_3|1
+its input places|PRP$ NN NNS|BODY_4|0
+its output places|PRP$ NN NNS|BODY_6|0
+the correct type|DT JJ NN|BODY_8|0
+the exact number|DT JJ NN|BODY_1|0
+the individual places|DT JJ NNS|BODY_4|0
+an incoming arc|DT JJ NN|BODY_1|0
+a normative conflict|DT JJ NN|BODY_1|0
+the guard function|DT NN NN|BODY_3|0
+the mapping f|DT NN NN|BODY_1|0
+a first step|DT JJ NN|BODY_1|0
+the mapped cpn.|DT JJ NN|BODY_4|0
+all binding elements|DT JJ NNS|BODY_4|0
+each atomic formula|DT JJ NN|BODY_1|0
+no real conflict|DT JJ NN|BODY_10|0
+a ns conflicts|DT NNS NNS|BODY_1|0
+this reachability problem|DT NN NN|BODY_1|0
+normative transition nt|JJ NN NN|BODY_4|0
+functional programming languages|JJ NN NNS|BODY_5|0
+our transition rules|PRP$ NN NNS|BODY_1|0
+an adequate mapping|DT JJ NN|BODY_5|0
+the distributed management|DT VBN NN|ABSTRACT_1|0
+one looses determinism|CD NNS NN|BODY_6|0
+this scenario agents|DT NN NNS|BODY_1|0
+6.1 conflict resolution|CD NN NN|BODY_1|1
+a broad strategy|DT JJ NN|BODY_2|0
+all these conflicts|PDT DT NNS|BODY_7|0
+managing normative states|VBG JJ NNS|BODY_1|0
+multi-context systems [14]|JJ NNS NN|BODY_4|0
+online conflict resolution|JJ NN NN|ABSTRACT_1|1
+the main question|DT JJ NN|BODY_1|0
+the theoretical side|DT JJ NN|BODY_1|0
+these three contributions|DT CD NNS|BODY_1|1
+these conflicting prohibitions|DT JJ NNS|BODY_9|0
+prh( â¯i )|FW FW -RRB-|BODY_8|0
+this complex type|DT JJ NN|BODY_1|0
+another interesting question|DT JJ NN|BODY_1|0
+a time stamp|DT NN NN|BODY_21|0
+m[s > m|JJ NN NN|BODY_8|0
+its future behaviour|PRP$ JJ NN|BODY_13|0
+offline conflict detection|NN NN NN|BODY_12|0
+our proposed algorithm|PRP$ VBN NN|BODY_1|1
+a permission overlap|DT NN NN|BODY_6|1
+3.2 formal definition|CD JJ NN|BODY_1|0
+a marking m.|DT VBG NN|BODY_1|0
+instance|NN|BODY_2:BODY_1:BODY_3|0

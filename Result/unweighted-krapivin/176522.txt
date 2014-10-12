@@ -1,0 +1,934 @@
+which|WDT|BODY_12:BODY_2:BODY_3:BODY_4:BODY_6:ABSTRACT_6:BODY_5:BODY_34:ABSTRACT_4:ABSTRACT_8:BODY_10:BODY_7:BODY_8|0
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_24:BODY_3:ABSTRACT_1:BODY_4:BODY_10:BODY_7|2
+it|PRP|BODY_6:BODY_5:BODY_13:BODY_25:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+optimization|NN|TITLE_3:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_18:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+that|WDT|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+m|NN|BODY_12:BODY_11:BODY_5:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|0
+constraints|NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+g|NN|BODY_6:BODY_11:BODY_22:BODY_16:BODY_2:BODY_3:BODY_4:BODY_10|0
+this|DT|BODY_2:BODY_1:BODY_3:BODY_10:BODY_8|0
+a|DT|BODY_6:BODY_11:BODY_5:BODY_2:BODY_3:BODY_8|0
+the operational semantics|DT JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_7|0
+the answers|DT NNS|BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_9|0
+the program|DT NN|BODY_6:BODY_5:BODY_3:BODY_7:BODY_29|0
+minimization|NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_10:BODY_8:BODY_9|0
+negation|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the set|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4|0
+answers|NNS|BODY_6:BODY_5:BODY_11:BODY_18:BODY_21:BODY_3:BODY_4|0
+s|PRP|BODY_6:BODY_5:BODY_11:BODY_16:BODY_2:BODY_4:BODY_8:BODY_9|0
+constructive negation|JJ NN|BODY_6:BODY_5:BODY_16:BODY_2:BODY_9|0
+terms|NNS|BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the minimization subgoal|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_9|0
+minimization subgoals|NN NNS|BODY_6:BODY_3:BODY_4:BODY_7|0
+the goal p( y|DT NN NN NN|BODY_6:BODY_2:BODY_4:BODY_7|0
+clp languages|NN NNS|BODY_5:ABSTRACT_2:BODY_3:BODY_4|0
+p|NN|BODY_5:BODY_13:BODY_4:BODY_8|0
+variables|NNS|BODY_6:BODY_3|0
+an answer|DT NN|BODY_5:BODY_15:BODY_3:BODY_7|0
+the goal|DT NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+optimization subgoals|NN NNS|BODY_32:BODY_3:BODY_4|0
+respect|NN|BODY_6:BODY_5:BODY_4:BODY_7|0
+the problem|DT NN|BODY_1:BODY_2:BODY_4|0
+a goal|DT NN|BODY_5:BODY_1:BODY_4:BODY_7:BODY_8:BODY_9|0
+the safe operational semantics|DT JJ JJ NNS|BODY_5:BODY_1:BODY_2:BODY_3|0
+an optimization subgoal|DT NN NN|BODY_1:BODY_3|0
+0|CD|BODY_5:BODY_2:BODY_3:BODY_9|0
+the sense|DT NN|BODY_2:BODY_4|0
+the result|DT NN|BODY_2:BODY_7|0
+an atom|DT NN|BODY_2:BODY_9|0
+the variables|DT NNS|BODY_2:BODY_3:BODY_4:BODY_10|0
+finite failure|JJ NN|BODY_3|0
+the form|DT NN|BODY_5:BODY_2:BODY_3|0
+the last state|DT JJ NN|BODY_2|0
+the implementation|DT NN|BODY_2:BODY_19|0
+the primitive constraints|DT JJ NNS|BODY_5:BODY_2:BODY_4|0
+the completion|DT NN|BODY_1:BODY_2:BODY_8|0
+a derivation|DT NN|BODY_5:BODY_1:BODY_3|0
+h-; gi|VB NN|BODY_6:BODY_18:BODY_1:BODY_8|0
+the context|DT NN|BODY_3:BODY_4:BODY_8|0
+the usual operational semantics|DT JJ JJ NNS|BODY_6:BODY_5:BODY_1:BODY_2|0
+the declarative semantics|DT NN NNS|BODY_2:BODY_7|0
+the optimization|DT NN|BODY_5:BODY_11:BODY_7:BODY_8:BODY_9|0
+the proof|DT NN|BODY_1:BODY_3:BODY_9|0
+a number|DT NN|BODY_2:BODY_3|0
+the minimum|DT NN|BODY_11:BODY_1:BODY_8|0
+the constraint|DT NN|BODY_2:BODY_1:BODY_3|0
+the translation|DT NN|BODY_6:BODY_1:BODY_3|0
+the language|DT NN|BODY_3:BODY_8|0
+clauses|NNS|BODY_12:BODY_5:BODY_4|0
+the state h-; gi|DT NN NN NN|BODY_4:BODY_8|0
+f|NN|BODY_2:BODY_3|0
+a declarative semantics|DT NN NNS|BODY_5:BODY_2:BODY_4|0
+he|PRP|BODY_1:BODY_4|0
+renamings|NNS|BODY_11:BODY_2:BODY_3|0
+many applications|JJ NNS|BODY_13:BODY_3:ABSTRACT_1|0
+a program|DT NN|BODY_31:BODY_5:BODY_2|0
+g 0|JJ CD|BODY_2:BODY_3|0
+those|DT|BODY_4:BODY_7|0
+)|-RRB-|BODY_12:BODY_5:BODY_7|0
+comp( cmt( p )|NN NN NN -RRB-|BODY_15:BODY_7:BODY_20|0
+l|NN|BODY_5:BODY_1:BODY_3|0
+goals|NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+the predicate|DT NN|BODY_3:BODY_7|0
+the sub-formula|DT NN|BODY_14:BODY_8|0
+the state|DT NN|BODY_2:BODY_4|0
+atoms|NNS|BODY_3:BODY_4|0
+a sequence|DT NN|BODY_12:BODY_4:BODY_8|0
+the exercise price|DT NN NN|BODY_2:BODY_3:BODY_4|0
+example|NN|BODY_1:BODY_3|0
+efficiency|NN|BODY_6:BODY_2|0
+the global variables|DT JJ NNS|BODY_6:BODY_12:BODY_2|0
+a successful derivation|DT JJ NN|BODY_2:BODY_3|0
+the solver|DT NN|BODY_2:BODY_7|0
+an infinite number|DT JJ NN|BODY_6:BODY_5:BODY_2|0
+induction|NN|BODY_2:BODY_4|0
+stock options|NN NNS|BODY_32:BODY_3|0
+all|DT|BODY_6:BODY_2|0
+the execution|DT NN|BODY_12:BODY_5:BODY_1|0
+a combination|DT NN|BODY_4|0
+a tuple|DT NN|BODY_6:BODY_10|0
+soundness and completeness|NN CC NN|BODY_5:BODY_2|0
+the option|DT NN|BODY_4:BODY_9|0
+results|NNS|BODY_6:BODY_4|0
+this reason|DT NN|BODY_1:BODY_3|0
+the three-valued consequences|DT JJ NNS|BODY_5:BODY_7|0
+a simple declarative semantics|DT JJ NN NNS|BODY_6:BODY_3:BODY_4|0
+a state|DT NN|BODY_1:BODY_4:BODY_9|0
+this translation|DT NN|BODY_3:BODY_9|0
+a  call |DT NN NN|BODY_2:BODY_1|0
+comp(mt( p )|JJ NN -RRB-|BODY_4:BODY_7|0
+logic programs|NN NNS|BODY_6:BODY_3:BODY_7|0
+h|IN|BODY_2:BODY_8|0
+wealth )|NN -RRB-|BODY_11:BODY_8|0
+the minimum value|DT JJ NN|BODY_6:BODY_4|0
+the current constraint|DT JJ NN|BODY_5:BODY_11:BODY_4|0
+the following program|DT VBG NN|BODY_2:BODY_3|0
+constraint logic programs|JJ NN NNS|TITLE_2:BODY_10|0
+rise|NN|BODY_2:BODY_3|0
+e|NN|BODY_5:BODY_7|0
+states|NNS|BODY_12:BODY_5|0
+the maximum wealth|DT JJ NN|BODY_2:BODY_20|0
+w)|NN|BODY_5:BODY_15:BODY_7|0
+the clp language|DT NN NN|BODY_6:BODY_4|1
+a contract|DT NN|BODY_2|0
+derivations|NNS|BODY_4:BODY_9|0
+some existing clp languages|DT VBG NN NNS|BODY_6:BODY_4|0
+state|NN|BODY_6:BODY_2:BODY_4|0
+use|NN|BODY_3:BODY_8|0
+this section|DT NN|BODY_2:BODY_3:BODY_4|0
+:r( x )|NN NN -RRB-|BODY_3|0
+contrary|NN|BODY_2|0
+the following program and goal t( x )|DT VBG NN CC NN NN NN -RRB-|BODY_2|0
+the more usual two valued logic|DT JJR JJ CD VBN NN|BODY_3|0
+their name|PRP$ NN|BODY_3|0
+three valued logic|CD VBN NN|BODY_2|0
+aggregation|NN|BODY_2|0
+constraint logic programming languages|JJ NN NN NNS|BODY_2|0
+traditional operations research problems|JJ NNS NN NNS|BODY_2|0
+literals|NNS|BODY_5:BODY_13:BODY_3|0
+recent programming language design|JJ NN NN NN|BODY_3|0
+v )|FW -RRB-|BODY_11:BODY_15|0
+the minimization subgoal min(|DT NN NN NN|BODY_2:BODY_4|0
+9 s|CD VBZ|BODY_2|0
+a naive operational semantics|DT JJ JJ NNS|BODY_2|0
+a formula|DT NN|BODY_2|0
+success|NN|BODY_2|0
+constraint|NN|BODY_3:BODY_7|0
+the intended model|DT JJ NN|BODY_3:BODY_8|0
+min goal|NN NN|BODY_2:BODY_7|0
+the function min goal|DT NN NN NN|BODY_28:BODY_2|0
+x|SYM|BODY_13:BODY_7|0
+a program p|DT NN NN|BODY_3:BODY_4|0
+the function|DT NN|BODY_26:BODY_4|0
+completeness|NN|BODY_2:BODY_4|0
+the definition|DT NN|BODY_1:BODY_3|0
+the minimization translation|DT NN NN|BODY_1:BODY_2|0
+interestrate,exerciseprice ,value )|NN NN -RRB-|BODY_25:BODY_19|0
+the holder|DT NN|BODY_3|0
+the first clause|DT JJ NN|BODY_2:BODY_8|0
+all answers|DT NNS|BODY_2|0
+an infinite derivation|DT JJ NN|BODY_5:BODY_3|0
+clp programs|NN NNS|BODY_2:BODY_7|0
+l -)|JJ NN|BODY_3|0
+the maximum|DT JJ|BODY_5:BODY_9|0
+option value )|NN NN -RRB-|BODY_28:BODY_22|0
+each minimization subgoal|DT NN NN|BODY_6|0
+the complete operational semantics|DT JJ JJ NNS|BODY_1:BODY_3|0
+delay(-; l)|NN NN|BODY_5:BODY_4|0
+programs|NNS|BODY_5:BODY_2|0
+program p|NN NN|BODY_3:BODY_4|0
+-g|JJ|BODY_12:BODY_16|0
+the amalgamation|DT NN|BODY_4|0
+the most promising innovations|DT RBS JJ NNS|BODY_2|0
+the values|DT NNS|BODY_2|0
+the simple declarative semantics|DT JJ JJ NNS|BODY_3|0
+variables disjoint|NNS NN|BODY_17|0
+t(|JJ|BODY_3:BODY_4|0
+corollaries|NNS|BODY_2|0
+primitive constraints|JJ NNS|BODY_1:BODY_3|0
+the greatest lower|DT JJS JJR|BODY_1:BODY_9|0
+( w \gamma vars(|-LRB- RB NN NN|BODY_18|0
+both undefined )|DT JJ -RRB-|BODY_15|0
+the two|DT CD|BODY_3|0
+the standard semantics|DT JJ NNS|ABSTRACT_6:BODY_2|0
+e 0|NN CD|BODY_10|0
+places|NNS|BODY_9|0
+gi|NN|BODY_12:BODY_6:BODY_2|0
+get next answer( b backtracks|VB JJ NN NN NNS|BODY_3|0
+such cases|JJ NNS|BODY_5|0
+the program p|DT NN NN|BODY_1:BODY_2|0
+the first answer|DT JJ NN|BODY_9|0
+the clp( r ) solver|DT JJ NN -RRB- NN|BODY_3|0
+the same truth value|DT JJ NN NN|BODY_14|0
+cmt ,|JJ ,|BODY_3|0
+the goal g|DT NN NN|BODY_2|0
+a range|DT NN|BODY_6|0
+that optimization subgoals|DT NN NNS|BODY_5|0
+clp predicates|NN NNS|BODY_2|0
+similar translation|JJ NN|BODY_21|0
+the current implementation compromises completeness|DT JJ NN NNS NN|BODY_37|0
+this subgoal|DT NN|BODY_2|0
+the clause|DT NN|BODY_5:BODY_2|0
+( resp.|-LRB- NN|BODY_4|0
+their global variables|PRP$ JJ NNS|BODY_6|0
+\gamma1|IN|BODY_12|0
+the state h-; gi and b|DT NN NN NN CC NN|BODY_10|0
+a simple modification|DT JJ NN|BODY_2|0
+the x i|DT NN NN|BODY_6|0
+the formula|DT NN|BODY_5|0
+a programmer|DT NN|BODY_6|0
+constraint satisfaction|NN NN|BODY_2|0
+p defining p|NN NN NN|BODY_2|0
+the bottom-up operational paradigm|DT NN JJ NN|BODY_11|0
+other languages|JJ NNS|BODY_7:BODY_8|0
+the current constraint store|DT JJ NN NN|BODY_11|0
+the advantages|DT NNS|BODY_2|0
+the queries|DT NNS|BODY_4|0
+a clp program|DT NN NN|BODY_3|0
+this new translation|DT JJ NN|BODY_4|0
+a refinement|DT NN|BODY_2:BODY_4|1
+the more complex translation|DT RBR JJ NN|BODY_2|0
+a left-to-right selection rule|DT JJ NN NN|BODY_2:BODY_3|0
+all the stock prices|DT DT NN NNS|BODY_19|0
+our setting|PRP$ NN|BODY_10|0
+maxwealth] )|NN -RRB-|BODY_7:BODY_9|0
+the value|DT NN|BODY_3|0
+then proof|RB NN|BODY_2|0
+wealth4 )|NNP -RRB-|BODY_17|0
+x n|NN NN|BODY_5|0
+the reasonable assumption|DT JJ NN|BODY_2|0
+these|DT|BODY_1:BODY_8|0
+l 2 prim and ~ 9(|JJ CD JJ CC JJ NNS|BODY_2|0
+the programmer-defined atoms|DT JJ NNS|BODY_7|0
+the following query|DT VBG NN|BODY_2|0
+a solution|DT NN|BODY_6:BODY_1|0
+a clp language|DT NN NN|BODY_2|0
+optimization problems|NN NNS|BODY_1|0
+the following function captures|DT VBG NN NNS|BODY_1|0
+this intuition|DT NN|BODY_2|0
+the evaluation|DT NN|BODY_2|0
+:= min exp|JJ JJ NN|BODY_14|0
+next answer( b|JJ DT NN|BODY_16|0
+min exp|JJ NN|BODY_13|0
+a head|DT NN|BODY_16|0
+our operational semantics|PRP$ JJ NNS|BODY_1:BODY_3:BODY_8|0
+a as|DT RB|BODY_15|0
+no variables|DT NNS|BODY_3|0
+buy , stockprice , 10 , i , 80|NN , NN , CD , FW , CD|BODY_16|0
+|JJ|BODY_3|0
+exactly one stock price|RB CD NN NN|BODY_3|0
+the contract|DT NN|BODY_5|0
+value( call|NN NN|BODY_15|0
+practice|NN|BODY_3|0
+true iff x and y|JJ NN SYM CC PRP|BODY_13|0
+h-; bi :=|: NN JJ|BODY_15|0
+( -; l)|-LRB- JJ NN|BODY_2|0
+example 3.2|NN CD|BODY_5:BODY_1|0
+a value|DT NN|BODY_20|0
+the call|DT NN|BODY_3:BODY_4|0
+a set|DT NN|BODY_2:ABSTRACT_3|0
+( sketch|-LRB- NN|BODY_2|0
+( sketch )|-LRB- NN -RRB-|BODY_3|0
+the interest|DT NN|BODY_6|0
+the function min|DT NN JJ|BODY_36|0
+the value e 0|DT NN NN CD|BODY_3|0
+the cost|DT NN|BODY_4|0
+wealth1|NNS|BODY_14|0
+any successful derivation|DT JJ NN|BODY_3|0
+prim|NN|BODY_6|0
+answer( g|DT NN|BODY_11|0
+( finitely failed ) wrt cmt( p ) iff -g|-LRB- RB VBN -RRB- NN NN NN -RRB- NN NN|BODY_3|0
+n li|RB JJ|BODY_6|0
+most interest|JJS NN|BODY_5|0
+program|NN|BODY_2|0
+projection and access|NN CC NN|BODY_22|0
+-)|:|BODY_12|0
+the programs|DT NNS|BODY_2|0
+the answer constraints|DT NN NNS|BODY_18|0
+the environment|DT NN|BODY_8|0
+the above program|DT JJ NN|BODY_2|0
+part|NN|BODY_2|0
+the new constraint store|DT JJ NN NN|BODY_7|0
+a simple extension|DT JJ NN|BODY_6:ABSTRACT_5|0
+synthesis and diagnosis [6]|NN CC NN NNS|BODY_3|0
+the whole sub-formula|DT JJ JJ|BODY_13|0
+the previous example|DT JJ NN|BODY_2|0
+a new answer|DT JJ NN|BODY_4|0
+the second clause|DT JJ NN|BODY_2:BODY_10:BODY_4|0
+example 3.3|NN CD|BODY_2:BODY_4|0
+any infinite derivation|DT JJ NN|BODY_2|0
+operations research|NNS NN|BODY_4|0
+the same goal|DT JJ NN|BODY_2|0
+values|NNS|BODY_31|0
+the operational semantics constraints|DT JJ NNS NNS|BODY_7|0
+no answers|DT NNS|BODY_2:BODY_7|0
+the connectives|DT NNS|BODY_6|0
+the final feature|DT JJ NN|BODY_18|0
+in one step|IN CD NN|BODY_15|0
+the same|DT JJ|BODY_2|0
+inequalities|NNS|BODY_5|0
+meta-level constructs|JJ NNS|BODY_20|0
+an interactive querying facility|DT JJ NN NN|BODY_2|0
+electrical circuit analysis [18]|JJ NN NN NN|BODY_2|0
+finitely evaluable sub-goals|RB JJ NNS|BODY_3|0
+a corresponding operational semantics|DT JJ JJ NNS|BODY_6:ABSTRACT_7|0
+8 stand|CD NN|BODY_3|0
+[9|PRP|BODY_11|0
+the theory comp(mt( p )|DT NN NN NN -RRB-|BODY_8|0
+note|NN|BODY_2:BODY_1|0
+this cost|DT NN|BODY_7|0
+return ( cmin|VB -LRB- IN|BODY_17|0
+$ which|$ WDT|BODY_7|0
+g and returns|NN CC NNS|BODY_5|0
+a minimization subgoal|DT NN NN|BODY_3:BODY_4:BODY_7|0
+minimize(-;|NN|BODY_5|0
+buy , stockprice , 10 , i , 20|NN , NN , CD , FW , CD|BODY_13|0
+the unique answer|DT JJ NN|BODY_5|0
+a selection rule|DT NN NN|BODY_1|0
+linear programming problems|JJ NN NNS|BODY_3|0
+the single answer second|DT JJ NN NN|BODY_3|0
+the optimization subgoal|DT NN NN|BODY_3|0
+comp( p|NN NN|BODY_1:BODY_3|0
+a call|DT NN|BODY_5|0
+the selection rule|DT NN NN|BODY_2:BODY_1|0
+a conjunction|DT NN|BODY_2|0
+a disjunction|DT NN|BODY_5:BODY_4|0
+y|PRP|BODY_12|0
+two classes|CD NNS|BODY_4|0
+existential questions|JJ NNS|BODY_12|0
+one|CD|BODY_2|0
+two distinct answer constraints|CD JJ NN NNS|BODY_6|0
+the clp program|DT NN NN|BODY_3|0
+~ 9|RP CD|BODY_2|0
+purchase|VB|BODY_8|0
+a completeness result|DT NN NN|BODY_5:BODY_1|0
+the boolean function delay|DT JJ NN NN|BODY_3|0
+the optimization operator|DT NN NN|BODY_5|1
+a problem|DT NN|BODY_2|0
+no need|DT NN|BODY_2|0
+three features|CD NNS|BODY_2|0
+a normal program|DT JJ NN|BODY_4|0
+truth value undefined|NN NN JJ|BODY_12|0
+linear arithmetic equalities|NN JJ NNS|BODY_4|0
+that h-; gi|WDT NN NN|BODY_14|0
+each renaming|DT NN|BODY_14|0
+a minimization subgoal undefined|DT NN NN JJ|BODY_7|0
+a depth-first traversal|DT JJ NN|BODY_2|0
+interaction|NN|BODY_2|0
+the required constraints|DT JJ NNS|BODY_2|0
+negation and aggregation|NN CC NN|BODY_4|0
+a finite set|DT JJ NN|BODY_3|0
+the different values|DT JJ NNS|BODY_6|0
+the current literal sequence|DT JJ JJ NN|BODY_12|0
+clp( r )|JJ NN -RRB-|BODY_21|0
+the|DT|BODY_7|0
+,stockprice,cost|NN|BODY_24|0
+value( stockprice|NN NN|BODY_26:BODY_20|0
+clp( r|JJ NN|BODY_3|0
+the constraint store|DT NN NN|BODY_8|0
+the nature|DT NN|BODY_3|0
+w|NN|BODY_3:BODY_4|0
+0 -;|CD NN|BODY_5|0
+h-; b note|JJ NN NN|BODY_3|0
+satisfiability|NN|BODY_4|0
+local |JJ|BODY_8|0
+no such completeness result|DT JJ NN NN|BODY_4|0
+the current estimate|DT JJ NN|BODY_6|0
+the language clp( r ) [9 , 10]|DT NN NN NN -RRB- CD , CD|BODY_2|0
+the case|DT NN|BODY_1|0
+this simple translation captures|DT JJ NN NNS|BODY_9|0
+the use|DT NN|BODY_4|0
+fairness|NN|BODY_2|0
+this paper|DT NN|BODY_2|1
+work|NN|BODY_2|0
+min( w assuming evaluation|JJ NN VBG NN|BODY_2|0
+constraint satisfaction problems|NN NN NNS|BODY_4|0
+)corollary 5.6 ( soundness and completeness|RB CD -LRB- NN CC NN|BODY_16|0
+the real numbers|DT JJ NNS|BODY_6|0
+example 5.2|NN CD|BODY_3|0
+applications|NNS|BODY_1|0
+deductive database researchers|JJ NN NNS|BODY_1|0
+many diverse areas|JJ JJ NNS|BODY_3|0
+other applications|JJ NNS|BODY_1|0
+particular minimization [5]|JJ NN NN|BODY_3|0
+stock and scheduling|NN CC NN|BODY_3|0
+a subgoal|DT NN|BODY_8|0
+safe sldnf execution|JJ JJ NN|BODY_5|0
+value( put|NN NN|BODY_12|0
+bi :=|NN JJ|BODY_10|0
+2lp [16] and chip|CD NNS CC NN|BODY_5|0
+a model theoretic and operational semantics|DT NN JJ CC JJ NNS|BODY_2|0
+a safe operational semantics|DT JJ JJ NNS|BODY_2|0
+lukasiewicz|NN|BODY_8|0
+two put and two call options|CD NN CC CD NN NNS|BODY_5|0
+2|CD|BODY_1|0
+a literal l|DT JJ NN|BODY_2|0
+query1( stockprice|NN NN|BODY_7|0
+the arithmetic expression e|DT JJ NN NN|BODY_10|0
+all first order sentences|DT JJ NN NNS|BODY_13|0
+a bijective mapping|DT JJ NN|BODY_2|0
+ff|NN|BODY_2|0
+their goal groupby(|PRP$ NN NN|BODY_2|0
+a local variable|DT JJ JJ|BODY_2|0
+the global variable z|DT JJ JJ NN|BODY_3|0
+none|NN|BODY_19|0
+interpretation which|NN WDT|BODY_5|0
+'s strong three valued interpretation [11]|POS JJ CD VBN NN NN|BODY_5|0
+( pre-defined ) function symbols|-LRB- JJ -RRB- NN NNS|BODY_3|0
+expressing optimization|VBG NN|BODY_2|0
+a tuple h|DT JJ NN|BODY_7|0
+linear inequalities|NN NNS|BODY_5|0
+constraint -, glb( m|JJ JJ NN NN|BODY_4|0
+satisfaction questions|NN NNS|BODY_2|0
+the core|DT NN|BODY_4|0
+the current constraints|DT JJ NNS|BODY_23|0
+the form min( w|DT NN NN NN|BODY_7|0
+the other arguments|DT JJ NNS|BODY_5:BODY_8|0
+the ( partial ) function minimize(-; l)|DT -LRB- JJ -RRB- NN NN NN|BODY_4|0
+a put option|DT NN NN|BODY_6|0
+the program flounders|DT NN NNS|BODY_6|0
+( modulo variable renaming|-LRB- NN JJ NN|BODY_13|0
+naish [17]|JJ NN|BODY_3|0
+the order|DT NN|BODY_2|0
+expression e|NN NN|BODY_4|0
+meta-level calls and calls|JJ NNS CC NNS|BODY_35|0
+a stock|DT NN|BODY_5|0
+cmt(-g)|NN|BODY_2|0
+stockprice,cost|NN|BODY_18|0
+exerciseprice|NN|BODY_27:BODY_21|0
+value(|NN|BODY_23|0
+the goal p( y )|DT NN NN NN -RRB-|BODY_3|0
+answering many and varied questions|VBG JJ CC JJ NNS|BODY_30|0
+corresponds|NNS|BODY_3|0
+the store|DT NN|BODY_24|0
+:= +1|JJ NNS|BODY_9|0
+answer constraint|NN NN|BODY_6|0
+whose global variables|WP$ JJ NNS|BODY_4|0
+constraint logic programming ( clp ) languages|JJ NN NN -LRB- NN -RRB- NNS|ABSTRACT_2|0
+finitely evaluable goals|RB JJ NNS|BODY_17|0
+this program|DT NN|BODY_4|0
+their results|PRP$ NNS|BODY_9|0
+5.2|CD|BODY_2|0
+the form p( x 1|DT NN NN NN CD|BODY_4|0
+the following definitions|DT JJ NNS|BODY_3|0
+state h-; gi|NN NN NN|BODY_4|0
+the desired behavior|DT VBN NN|BODY_10|0
+the second example|DT JJ NN|BODY_2|0
+~ x|DT NN|BODY_4|0
+min( query2(s|NN NN|BODY_6|0
+1 ig|CD NN|BODY_10|0
+p such|NN JJ|BODY_13|0
+m 0|NN CD|BODY_10|0
+kleene|NN|BODY_4|0
+other option combinations|JJ NN NNS|BODY_4|0
+the ( possibly empty ) set|DT -LRB- RB JJ -RRB- NN|BODY_11|0
+solutions|NNS|BODY_4|0
+the capability|DT NN|BODY_11|0
+i .e|FW FW|BODY_13|0
+$|$|BODY_11|0
+the difficulties|DT NNS|BODY_3|0
+4.2|CD|BODY_2|0
+many different values|JJ JJ NNS|BODY_4|0
+an if-and-only-if  definition|DT JJ JJ NN|BODY_6|0
+the clauses|DT NNS|BODY_4|0
+2 example|CD NN|BODY_1|0
+'s interpretation|POS NN|BODY_9|0
+syntactic equalities|JJ NNS|BODY_7|0
+. chip|. NN|BODY_5|0
+. call value(|. NN NN|BODY_10|0
+a state and fh|DT NN CC NN|BODY_9|0
+the sub-formula reason|DT JJ NN|BODY_8|0
+evaluation|NN|BODY_2|0
+a minimum wrt \pi|DT JJ NN NN|BODY_3|0
+every three valued model|DT CD VBN NN|BODY_3|0
+a unique value|DT JJ NN|BODY_5:BODY_3|0
+the least depth|DT JJS NN|BODY_3|0
+an intended meaning|DT JJ NN|BODY_4|0
+the maximum profit|DT NN NN|BODY_3|0
+the above definition|DT JJ NN|BODY_4|0
+an element|DT NN|BODY_7|0
+intent|NN|BODY_4|0
+answer constraints|NN NNS|BODY_14|0
+the function vars|DT NN NNS|BODY_4|0
+some exercise price (|DT NN NN -LRB-|BODY_6|0
+the optimal value|DT JJ NN|BODY_5|0
+a similar problem|DT JJ NN|BODY_2|0
+an ad hoc optimization facility|DT NN NN NN NN|BODY_5|0
+the body|DT NN|BODY_10|0
+the desired answer|DT VBN NN|BODY_5|0
+some languages|DT NNS|BODY_3|0
+other variables|JJ NNS|BODY_4|0
+subsequent backtracking|JJ NN|BODY_6|0
+a 9cmt(|DT JJ|BODY_15|0
+such a way|PDT DT NN|BODY_5|0
+a minimization subgoal l|DT NN NN NN|BODY_3|0
+the value e|DT NN NN|BODY_6|0
+finitely many answers|RB JJ NNS|BODY_2|0
+the ordering|DT VBG|BODY_2|0
+ad hoc non-logical optimization|NN NN JJ NN|BODY_6|0
+v ) value( call|FW -RRB- NN NN|BODY_17|0
+the second problem|DT JJ NN|BODY_6|0
+ensures|NNS|BODY_6|0
+a corresponding declarative semantics|DT JJ NN NNS|BODY_4|0
+sequences and n deletes|NNS CC NN VBZ|BODY_6|0
+optimization operators|NN NNS|BODY_5|0
+the current store|DT JJ NN|BODY_4|0
+our simple translation|PRP$ JJ NN|BODY_3|0
+useless derivations|JJ NNS|BODY_4|0
+denotes concatenation|NNS NN|BODY_5|0
+the minimization subgoal h-; gi|DT NN NN NN NN|BODY_6|0
+) put value(|-RRB- VB NN|BODY_14|0
+call value(|NN NN|BODY_12|0
+a non-empty sequence|DT JJ NN|BODY_3|0
+every element|DT NN|BODY_4|0
+written cmt( f )|VBN NN NN -RRB-|BODY_4|0
+written mt( f )|VBN NN NN -RRB-|BODY_4|0
+this simple extension|DT JJ NN|BODY_2|0
+an expression|DT NN|BODY_6|0
+a major application|DT JJ NN|BODY_2|0
+reduction sequences|NN NNS|BODY_7|0
+related operational semantics|VBN JJ NNS|BODY_3|0
+this simple operational semantics|DT JJ JJ NNS|BODY_1:BODY_4|0
+query2( stockprice|NN NN|BODY_10|0
+change|NN|BODY_6|0
+!|.|BODY_6:BODY_4|0
+the design philosophy|DT NN NN|BODY_3|0
+the minimum m|DT NN NN|BODY_8|0
+-w , [s , w] , [ maxstock|JJ , JJ , JJ , JJ NN|BODY_6:BODY_8|0
+the depth|DT NN|BODY_5|0
+top|NN|BODY_4|0
+explicit soundness or completeness results|JJ NN CC NN NNS|BODY_2|0
+these operational semantics|DT JJ NNS|BODY_3|0
+a).we wish|JJ NN|BODY_5|0
+the breadth first derivation tree|DT NN JJ NN NN|BODY_4|0
+the derivations|DT NNS|BODY_4|0
+b|NN|BODY_11|0
+the derivation|DT NN|BODY_7|0
+ad hoc non-logical optimization [3|NN NN JJ NN NNS|BODY_7|0
+the search space|DT NN NN|BODY_6:BODY_2|0
+]|SYM|BODY_4|0
+the goal p( x ) iff p( m|DT NN NN NN -RRB- NN NN NN|BODY_8|0
+the safe operationals semantics|DT JJ NNS NNS|BODY_3|0
+the minimal value|DT JJ NN|BODY_5|0
+these notions|DT NNS|BODY_2|0
+has|VBZ|BODY_3|0
+is|VBZ|BODY_7|0
+a and|DT CC|BODY_7|0
+non-termination example|JJ NN|BODY_5|0
+the head|DT NN|BODY_7|0
+/ b|JJ NN|BODY_6|0
+9|CD|BODY_3|0
+soundness and completeness results|NN CC NN NNS|BODY_2|0
+constraint programming and logic programming [8]|NN NN CC NN NN NN|BODY_5|0
+introduction one|NN CD|BODY_1|0
+m wrt|NN NN|BODY_2|0
+the current best optimum|DT JJ JJS NN|BODY_5:BODY_1|0
+computation|NN|BODY_5|0
+a successful ( non-floundering ) derivation|DT JJ -LRB- JJ -RRB- NN|BODY_5|0
+subsequent execution|JJ NN|BODY_5|0
+this problem|DT NN|BODY_2|0
+usual declarative semantics|JJ VBG NNS|BODY_3|0
+chip [3|NN NNS|BODY_4|0
+two new elements|CD JJ NNS|BODY_3|0
+testing satisfaction|VBG NN|BODY_3|0
+the optimization result|DT NN NN|BODY_7|0
+a finite disjunction suffices|DT JJ NN NNS|BODY_5|0
+the objects|DT NNS|BODY_4|0
+repeated computation|VBN NN|BODY_2|0
+1 )|CD -RRB-|BODY_4|0
+an optimization component|DT NN NN|BODY_4|0
+csps|NNS|BODY_1|0
+example 5.8|NN CD|BODY_1|0
+non-termination|NN|BODY_4|0
+the reason|DT NN|BODY_1|0
+evaluating l|VBG NN|BODY_3|0
+the local variables|DT JJ NNS|BODY_3|0
+ states|JJ NNS|BODY_8|0
+a non|DT JJ|BODY_19|0
+the weakest restriction|DT JJS NN|BODY_5|0
+the current best value|DT JJ JJS NN|BODY_7|0
+a minimum|DT NN|BODY_4|0
+subgoals|NNS|BODY_9|0
+min( query1(s|NN NN|BODY_4|0
+a constraint set|DT NN NN|BODY_4|0
+goal p|NN NN|BODY_8|0
+a partial order|DT JJ NN|BODY_7|0
+1|CD|BODY_1|0
+these constraints|DT NNS|BODY_2|0
+a syntactic object|DT JJ NN|BODY_5|0
+the query query1(s|DT NN NN|BODY_14|0
+this ordering|DT NN|BODY_3|0
+kunen [12]|JJ NN|BODY_5|0
+wealth|NN|BODY_6|0
+the spirit|DT NN|BODY_6|0
+further|JJ|BODY_8|0
+a type|DT NN|BODY_4|0
+branch-and-bound algorithm|NN NN|BODY_5|0
+delayed optimization subgoals|VBN NN NNS|BODY_4|0
+expression m|NN NN|BODY_2|0
+the selected literal l|DT VBN NN NN|BODY_5:BODY_1|0
+optimal solutions|JJ NNS|BODY_3|0
+language facilities|NN NNS|BODY_2|0
+a smaller minimum|DT JJR NN|BODY_5|0
+both cases|DT NNS|BODY_1|0
+the following intermediate result|DT VBG JJ NN|BODY_7|0
+maximal solutions|JJ NNS|BODY_2|0
+the usual constraint domains|DT JJ NN NNS|BODY_3|0
+all values|DT NNS|BODY_2|0
+the possible minimum|DT JJ NN|BODY_7|0
+an empty sequence|DT JJ NN|BODY_3|0
+the above proof|DT JJ NN|BODY_23|0
+infinite derivations and optimization subgoals|JJ NNS CC NN NNS|BODY_11|0
+ solutions |JJ NNS|BODY_3|0
+failure .5 declarative semantics|NN CD NN NNS|BODY_2|0
+the following rule|DT JJ NN|BODY_5|0
+the current implementation|DT JJ NN|BODY_30|0
+a so|DT RB|BODY_9|0
+the original query|DT JJ NN|BODY_3|0
+a safe and fair selection rule|DT JJ CC JJ NN NN|BODY_9|0
+fact|NN|BODY_29|0
+general|JJ|BODY_3|0
+the complex minimization translation|DT JJ NN NN|BODY_2|0
+8 ~|CD DT|BODY_9|0
+sense|NN|BODY_5|0
+an infinite branch|DT JJ NN|BODY_4|0
+the 3-valued completion|DT JJ NN|BODY_5|0
+the conditions|DT NNS|BODY_5|0
+the theory|DT NN|BODY_10|0
+a ) )|DT -RRB- -RRB-|BODY_19|0
+this operational semantics|DT JJ NNS|BODY_3|0
+a model theoretic semantic basis|DT NN JJ JJ NN|BODY_2|0
+minimize|VB|BODY_4|0
+our need|PRP$ NN|BODY_1|0
+finitely evaluable state|RB JJ NN|BODY_20|0
+each answer|DT NN|BODY_17|0
+the reals|DT NNS|BODY_2|0
+a ( possibly empty ) sequence|DT -LRB- RB JJ -RRB- NN|BODY_2|0
+the calculation|DT NN|BODY_3|0
+the following theorem|DT VBG NN|BODY_1|0
+the backtrack information|DT NN NN|BODY_11|0
+the first feature|DT JJ NN|BODY_1|0
+mt( p )|JJ NN -RRB-|BODY_2|0
+the minimization subgoal returns|DT NN NN NNS|BODY_11|0
+subsequent answers|JJ NNS|BODY_1|0
+that derivations|DT NNS|BODY_3|0
+the correct answer|DT JJ NN|BODY_2|0
+a particular minimum|DT JJ NN|BODY_2|0
+a fixed value|DT VBN NN|BODY_7|0
+false otherwise|JJ RB|BODY_16|0
+no rules|DT NNS|BODY_7|0
+the truth value false|DT NN NN JJ|BODY_8|0
+the truth value true|DT NN NN JJ|BODY_4|0
+clearly no minimum|RB DT NN|BODY_2|0
+first answer( g|JJ NN NN|BODY_5|0
+illustrated|VBN|BODY_2|0
+constraint logic programming|NN NN NN|BODY_7|0
+us|PRP|BODY_2|0
+a low level minimization function min exp|DT JJ NN NN NN NN NN|BODY_7|0
+a more complex translation|DT RBR JJ NN|BODY_4|0
+a slightly more complex operational semantics|DT RB RBR JJ JJ NNS|BODY_3|0
+the obvious translation|DT JJ NN|BODY_2|0
+safe sldnf|JJ NN|BODY_3|0
+no z smaller|DT FW JJR|BODY_10|0
+apparently related|RB VBN|BODY_6|0
+a model theoretic semantics|DT NN JJ NNS|ABSTRACT_2|0
+an existing clp compiler|DT VBG NN NN|BODY_6|0
+a logic program|DT NN NN|BODY_4|0
+two constraints|CD NNS|BODY_2|0
+no such bound exists|DT JJ VBN VBZ|BODY_13|0
+instance|NN|BODY_1|0
+the following reduction step|DT VBG NN NN|BODY_4|0
+then comp(mt( p )|RB JJ NN -RRB-|BODY_3|0
+an example|DT NN|BODY_3|0
+optimums|NNS|BODY_8|0
+( l|-LRB- NN|BODY_27|0
+a sub-process|DT NN|BODY_1|0
+the original derivation|DT JJ NN|BODY_4|0
+each|DT|BODY_9|0
+other constraints|JJ NNS|BODY_11|0
+all derivations|DT NNS|BODY_11|0
+constraint domain|NN NN|BODY_6|0
+non-terminating computations|JJ NNS|BODY_2|0
+the translations|DT NNS|BODY_6|0
+a powerful and natural programming paradigm|DT JJ CC JJ NN NN|BODY_2|0
+the optimal solution|DT JJ NN|ABSTRACT_5|0
+the goal cmt(|DT NN JJ|BODY_10|0
+an efficient implementation|DT JJ NN|BODY_5|0
+the values maxstock and maxwealth|DT NNS NN CC NN|BODY_9|0
+a query|DT NN|BODY_2|0
+the safe sldnf derivation tree|DT JJ JJ NN NN|BODY_4|0
+deductive databases|JJ NNS|BODY_12|0
+completion semantics|NN NNS|BODY_3|0
+3.1 standard operational semantics|CD JJ JJ NNS|BODY_1|0
+a minimal value|DT JJ NN|BODY_6|0
+the fact|DT NN|BODY_4|0
+maximization|NN|BODY_5|0
+the three valued models|DT CD VBN NNS|BODY_6|0
+the replacement|DT NN|BODY_4|0
+another corollary|DT NN|BODY_22|0
+the least upper bounds and maximums|DT JJS JJ NNS CC NNS|BODY_2|0
+in|IN|BODY_3|0
+defn p|JJ NN|BODY_7|0
+the domain|DT NN|BODY_4|0
+domain|NN|BODY_5|0
+a program and l|DT NN CC NN|BODY_3|0
+distinct variables|JJ NNS|BODY_7|0
+the expression|DT NN|BODY_12|0
+an argument|DT NN|BODY_2|0
+the treatment|DT NN|BODY_7|0
+( free ) variables|-LRB- JJ -RRB- NNS|BODY_7|0
+state h-; li|NN NN NNS|BODY_1|0
+~|NN|BODY_8|0
+every ( fair ) derivation|DT -LRB- JJ -RRB- NN|BODY_21|0
+a small change|DT JJ NN|BODY_4|0
+minimal answers|JJ NNS|BODY_7|0
+atom|NN|BODY_8|0
+the rules|DT NNS|BODY_1|0
+options trading and financial planning [13]|NNS NN CC JJ NN NN|BODY_4|0
+its derivations|PRP$ NNS|BODY_5|0
+programs and goals|NNS CC NNS|BODY_6|0
+the goal g 0|DT NN NN CD|BODY_10|0
+a )|DT -RRB-|BODY_14|0
+answer(|NN|BODY_5|0
+all such positions|DT JJ NNS|BODY_4|0
+a right-to-left selection rule|DT NN NN NN|BODY_1|0
+no subgoal|DT NN|BODY_3|0
+simple programs|JJ NNS|BODY_5|0
+a simple way|DT JJ NN|BODY_9|0
+[5]|NN|BODY_22|0
+other research|JJ NN|BODY_1|0
+the intuitive reading|DT JJ NN|BODY_1|0
+two ways|CD NNS|BODY_38|0
+existential and universal closure|JJ CC JJ NN|BODY_4|0
+) wrt p|-RRB- NN NN|BODY_5|0
+soln(-)|JJ|BODY_2|0
+a translation|DT NN|BODY_3|0
+the leftmost literal|DT JJS NN|BODY_2|0
+this sub-process|DT NN|BODY_1|0
+an equivalent program|DT JJ NN|BODY_33|0
+the clp operational semantics|DT NN JJ NNS|BODY_3|0
+local variables|JJ NNS|BODY_5|0
+successful derivations|JJ NNS|BODY_17|0
+the following clp( r ) program|DT VBG NN NN -RRB- NN|BODY_1|0
+the third modification|DT JJ NN|BODY_1|0
+the answer constraint|DT NN NN|BODY_2|0
+every derivation|DT NN|BODY_1:BODY_2|0
+mappings|NNS|BODY_3|0
+( and|-LRB- CC|BODY_4|0
+the state htrue|DT NN JJ|BODY_5|0
+a ( b )|DT -LRB- NN -RRB-|BODY_19|0
+an operationally feasible approach|DT RB JJ NN|BODY_7|0
+w )|RB -RRB-|BODY_9|0
+an obvious query|DT JJ NN|BODY_1|0
+a ( constraint logic|DT -LRB- NN NN|BODY_1|0
+selection rule|NN NN|BODY_7|0
+the usual semantics|DT JJ NNS|BODY_1:BODY_7|0
+-; g n li|JJ NN NN NNS|BODY_5|0
+l 2 atom|JJ CD NN|BODY_1|0
+most prolog implementations|JJS NN NNS|BODY_5|0
+terminate|VBP|BODY_8|0
+5.11 ( completeness|CD -LRB- NN|BODY_1|0
+formally corollary 5.7 ( soundness|RB JJ CD -LRB- NN|BODY_1|0
+the negative goal :r( x|DT JJ NN NN NN|BODY_2|0
+the usual model theoretic semantics|DT JJ NN JJ NNS|BODY_7|1
+[13] )|NNP -RRB-|BODY_4|0
+the above case|DT JJ NN|BODY_1|0
+the new translation|DT JJ NN|BODY_1|0
+pure constraint logic programming languages|JJ NN NN NN NNS|BODY_1|0
+the ( partial ) function|DT -LRB- JJ -RRB- NN|BODY_1|0
+a fair  selection rule|DT JJ NN NN NN|BODY_5|0
+a constraint|DT NN|BODY_1|0
+the clark completion|DT NN NN|BODY_1|0
+the following three changes|DT VBG CD NNS|BODY_2|0
+the first problem|DT JJ NN|BODY_1|0
+value|NN|BODY_5|0
+example 4.1|NN CD|BODY_1|0
+a correct answer|DT JJ NN|BODY_4|0
+definition 5.1|NN CD|BODY_1|0
+definition 5.10|NN CD|BODY_1|0
+a)|NN|BODY_9|0
+the subgoal|DT NN|BODY_8|0
+new backtrack information|JJ NN NN|BODY_8|0
+comp(mtc( p )|JJ NN -RRB-|BODY_3|0
+the total value|DT JJ NN|BODY_1|0
+2 proof|CD NN|BODY_1|0
+goal|NN|BODY_13|0
+this setting optimization|DT NN NN|BODY_1|0
+minimize ( -; finitely evaluable|VB -LRB- JJ RB JJ|BODY_5|0
+an optimal solution|DT JJ NN|BODY_14:BODY_4|0
+3|CD|BODY_1|0
+3.2|CD|BODY_1|0
+a put |DT NN|BODY_1|0
+our original translation|PRP$ JJ NN|BODY_15|0
+expressions|NNS|BODY_6:BODY_9|0
+safeness|NN|BODY_1|0
+the naive semantics|DT JJ NNS|BODY_4|0
+a negation|DT NN|BODY_9|0
+soln(-)g|NN|BODY_5|0
+0 2 \pi|CD CD NN|BODY_7|0
+the intuitive idea|DT JJ NN|BODY_1|0
+a runtime error|DT NN NN|BODY_5|0
+arguments|NNS|BODY_4|0
+our proofs|PRP$ NNS|BODY_1|0
+points|NNS|BODY_7|0
+csps )|NNS -RRB-|BODY_5|0
+0 )|CD -RRB-|BODY_6|0
+the value 1|DT NN CD|BODY_4|0
+the variable x|DT JJ SYM|BODY_1|0
+a mapping|DT NN|BODY_1|0
+a renaming|DT NN|BODY_1|0
+these restrictions|DT NNS|BODY_1|0
+this minimum|DT JJ|BODY_8|0
+literal evaluation|JJ NN|BODY_3|0
+query2|NN|BODY_7|0
+the two answers|DT CD NNS|BODY_1|0
+course|NN|BODY_1|0
+the second feature|DT JJ NN|BODY_1|0
+existing constraint logic programming languages|VBG NN NN NN NNS|BODY_1|0
+their operational behavior|PRP$ JJ NN|BODY_5|0
+mt( g )|NN NN -RRB-|BODY_8|0
+'s minimize( g,m) predicate [3]|POS NN NN NN NN|BODY_6|0
+4|CD|BODY_1|0
+our main contribution|PRP$ JJ NN|BODY_1|0
+a.|NN|BODY_14|0
+fairness and safeness|NN CC NN|BODY_3|0
+the answer|DT NN|BODY_1|0
+the derivation tree|DT NN NN|BODY_3|0
+-.|NN|BODY_5|0
+a fixed selection rule|DT VBN NN NN|BODY_1|0
+a safe selection rule|DT JJ NN NN|BODY_3|0
+this implementation|DT NN|BODY_3|0
+this intuitive idea|DT JJ NN|BODY_3|0
+the preceding theorems|DT VBG NNS|BODY_1|0
+problems|NNS|BODY_4|0
+undesirable properties|JJ NNS|BODY_3|0
+the stock price|DT NN NN|BODY_1|0
+cmin|NN|BODY_7|0
+the compiler|DT NN|BODY_1|0
+the minimization problem|DT NN NN|BODY_9|0
+the more efficient operational semantics|DT RBR JJ JJ NNS|BODY_5|0
+fages [4]|NNS NNS|BODY_3|0
+the remainder|DT NN|BODY_1|1
+this lack|DT NN|BODY_1|0
+its minimality|PRP$ NN|BODY_10|0
+any evaluated minimization subgoals|DT VBN NN NNS|BODY_1|0
+the possible minimum values|DT JJ NN NNS|BODY_9|0
+stuckey [19]|JJ NN|BODY_8|0
+the simplex algorithm|DT JJ NN|BODY_1|0
+immediate [19]|JJ NN|BODY_6|0
+the e|DT NN|BODY_1|0
+thus delay(-;|RB NNS|BODY_1|0
+these considerations|DT NNS|BODY_1|0
+example 3.1|NN CD|BODY_1|0
+a literal|DT NN|BODY_1|0
+a primitive constraint|DT JJ NN|BODY_3|0
+the search|DT NN|BODY_9|0
+example 3.3 evaluation|NN CD NN|BODY_1|0
+the single answer|DT JJ NN|BODY_5:BODY_7|0
+constructive negation [19]|JJ NN NN|BODY_7|0
+only ground negative literals|RB NN JJ NNS|BODY_5|0
+a j= ff(-)|DT NN NN|BODY_8|0
+semantics|NNS|TITLE_1|0
+some later date|DT JJ NN|BODY_8|0
+a derivation flounders|DT NN NNS|BODY_1|0
+the restriction|DT NN|BODY_1|0
+a smaller minimum value|DT JJR JJ NN|BODY_6|0
+severe efficiency problems|JJ NN NNS|BODY_5|0
+this manner|DT NN|BODY_4|0
+executable programs|JJ NNS|BODY_4|0
+the body or goal|DT NN CC NN|BODY_6|0
+ground|NN|BODY_13|0
+7 related work|CD JJ NN|BODY_1|0
+definition 5.4|NN CD|BODY_1|0
+'s clark completion [12]|POS NN NN NN|BODY_8|0
+a model theoretic basis|DT NN JJ NN|BODY_6|0
+a renaming ae|DT VBG NNS|BODY_5|0
+no minimum|DT NN|BODY_4|0
+two problems|CD NNS|BODY_2|0
+a  safe  selection rule|DT NN JJ NN NN NN|BODY_5|0
+a different result|DT JJ NN|BODY_14|0
+a goal or state flounders|DT NN CC NN NNS|BODY_1|0
+adding optimization|VBG NN|BODY_1|0
+no infinite derivation|DT JJ NN|BODY_3|0
+the best such answer|DT JJS JJ NN|BODY_4|0
+the usual arithmetic inequality|DT JJ JJ NN|BODY_4|0
+2 6 implementation|CD CD NN|BODY_1|0
+the standard declarative semantics|DT JJ NN NNS|ABSTRACT_1|0
+definition 5.3|NN CD|BODY_1|0
+a stronger completeness result|DT JJR NN NN|BODY_5|0
+an intuitively obvious meaning|DT RB JJ NN|BODY_8|0
+case minimize(-;|NN NN|BODY_8|0
+optimization queries|NN NNS|BODY_5|0
+p( z )|NN FW -RRB-|BODY_13|0
+the following goal|DT VBG NN|BODY_1|0
+the truth value undefined|DT NN NN JJ|BODY_11|0
+the underlying declarative semantics|DT VBG NN NNS|BODY_7|0
+them|PRP|ABSTRACT_7|0
+syntactic objects|JJ NNS|BODY_1|0
+a strong soundness result|DT JJ NN NN|BODY_25|0
+convenience|NN|BODY_1|0
+elements|NNS|BODY_11|0
+section 6|NN CD|BODY_1|1
+simplicity|NN|BODY_1|0
+sketch|NN|BODY_4|0
+technical convenience|JJ NN|BODY_1|0
+the desired completeness result|DT VBN NN NN|BODY_5|0
+these modifications|DT NNS|BODY_1|0
+fol- lows|NNS NNS|BODY_5|0
+meta-level facilities [7]|JJ NNS NN|BODY_10:BODY_9|0
+only constraint satisfaction|RB JJ NN|ABSTRACT_4|0
+the easiest way|DT JJS NN|BODY_1|0
+the importance|DT NN|BODY_1|0
+the point|DT NN|BODY_1|0
+a reduction|DT NN|BODY_7|0
+later the stock price|RB DT NN NN|BODY_1|0
+the goal cmt(-g)|DT NN NN|BODY_17|0
+unfortunately few implementations|RB JJ NNS|BODY_1|0
+efficient implementation|JJ NN|BODY_8|0
+loss|NN|BODY_8|0
+the procedure|DT NN|BODY_1|0
+) totally successful or finitely|-RRB- RB JJ CC RB|BODY_7|0
+the selected literal|DT VBN NN|BODY_1|0
+the syntax|DT NN|BODY_1|0
+the underlying ordering|DT VBG NN|BODY_7|0
+the other , global , variables|DT JJ , JJ , NNS|BODY_6|0
+one such position|CD JJ NN|BODY_1|0
+existential quantification|JJ NN|BODY_3|0
+linear arithmetic equations and inequalities|JJ JJ NNS CC NNS|BODY_5|0
+these possible different values|DT JJ JJ NNS|BODY_7|0
+5.5 ( soundness and completeness|CD -LRB- NN CC NN|BODY_1|0
+follows|VBZ|BODY_7|0
+lubs and glbs|NNS CC NNS|BODY_6|0
+a goal g|DT NN NN|BODY_3|0
+the following translation|DT VBG NN|BODY_1|0
+goal g|NN NN|BODY_13|0
+the minimum value m|DT JJ NN NN|BODY_1|0
+some optimization subgoal flounders|DT NN NN NNS|BODY_6|0
+the resultant program|DT NN NN|BODY_5|0
+a novel feature|DT NN NN|BODY_1|0
+features|NNS|BODY_1|0
+9- denotes|CD NNS|BODY_1|0
+a state h-; gi|DT NN NN NN|BODY_1|0
+these variables|DT NNS|BODY_1|0

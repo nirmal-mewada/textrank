@@ -1,0 +1,509 @@
+a replicated file system|DT VBN NN NN|TITLE_2:ABSTRACT_3:BODY_4|1
+witnesses|NNS|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_3:ABSTRACT_1:BODY_4:BODY_9|0
+which|WDT|BODY_6:BODY_5:BODY_16:ABSTRACT_2:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the number|DT NN|BODY_6:BODY_5:BODY_3:BODY_14:ABSTRACT_1:BODY_7:BODY_8:BODY_9|1
+place|NN|BODY_6:BODY_5:ABSTRACT_8:BODY_2:BODY_3:BODY_10:BODY_7|0
+hosts|NNS|BODY_5:BODY_11:ABSTRACT_4:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+stochastic petri net analysis|JJ NN JJ NN|TITLE_1|0
+copies and witnesses|NNS CC NNS|BODY_6:ABSTRACT_2:BODY_2:BODY_7|1
+the model|DT NN|BODY_5:ABSTRACT_4:BODY_1:BODY_2|0
+failure and repair|NN CC NN|BODY_2:ABSTRACT_3|0
+different hosts|JJ NNS|ABSTRACT_6:BODY_4|1
+no data|DT NNS|BODY_5:ABSTRACT_5:BODY_2|0
+the file|DT NN|BODY_6:ABSTRACT_4|0
+a model|DT NN|ABSTRACT_1:BODY_4|0
+copies or witnesses reside|NNS CC NNS NN|ABSTRACT_5|0
+two different majority protocols|CD JJ NN NNS|ABSTRACT_1|0
+a voting algorithm|DT NN NN|ABSTRACT_7|0
+a distributed environment|DT VBN NN|ABSTRACT_4|0
+replicated files|VBN NNS|ABSTRACT_5|0
+we|PRP|BODY_6:BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7|5
+a token|DT NN|BODY_6:BODY_11:BODY_5:BODY_23:BODY_2:BODY_1:BODY_4:BODY_7:BODY_9|0
+a quorum|DT NN|BODY_12:BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the quorum|DT NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_8|0
+the availability|DT NN|BODY_6:BODY_12:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|1
+copies|NNS|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+the spn|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_9|1
+a majority|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+a distributed file system|DT VBN NN NN|BODY_3|1
+an especially sharp decrease|DT RB JJ NN|BODY_1|1
+the quorum gathering spn|DT NN NN NN|BODY_2:BODY_3:BODY_4|0
+they|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+the system|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+there|EX|BODY_5:BODY_21:BODY_1:BODY_3:BODY_8|0
+an a lower number|DT DT JJR NN|BODY_2|0
+the remaining current representatives|DT VBG JJ NNS|BODY_2|0
+semi-markov analysis or simulation|NN NN CC NN|BODY_3|0
+the c programming language|DT NN NN NN|BODY_5:BODY_3|0
+a markov chain|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_7|0
+at least one token|IN JJS CD NN|BODY_3:BODY_4|0
+the center portion models|DT NN NN NNS|BODY_10|0
+the failure and repair|DT NN CC NN|BODY_3:BODY_7|0
+the adaptive voting algorithm|DT JJ NN NN|BODY_2:BODY_8|0
+a fast update process|DT JJ NN NN|BODY_2|0
+the adaptive voting technique|DT JJ NN NN|BODY_2:BODY_3|0
+immediate (zero firing time|JJ NN NN NN|BODY_3|0
+at least three ways|IN JJS CD NNS|BODY_4|0
+the file system model|DT NN NN NN|BODY_2|0
+the update procedure [|DT NN NN NNS|BODY_6|0
+an exponentially distributed amount|DT RB VBN NN|BODY_2|0
+q and f need|NN CC NN NN|BODY_4|0
+various weighted voting algorithms|JJ JJ NN NNS|BODY_11|0
+the generated markov chains|DT VBN NN NNS|BODY_4|0
+the same version number|DT JJ NN NN|BODY_2:BODY_3|0
+cc ( current copies|NN -LRB- JJ NNS|BODY_10|0
+inq.2 or inrec )|NN CC NN -RRB-|BODY_30|0
+the right portion models|DT JJ NN NNS|BODY_6|0
+cw ( current witnesses|NN -LRB- JJ NNS|BODY_11|0
+the quorum gathering process|DT NN NN NN|BODY_2|0
+no other transition u|DT JJ NN NN|BODY_16|0
+the two quorum definitions|DT CD NN NNS|BODY_5|0
+more than a majority|JJR IN DT NN|BODY_1:BODY_10|0
+two different quorum definitions|CD JJ NN NNS|BODY_2|0
+transitions t33 and t34|NNS NNS CC NNS|BODY_2|0
+the two different preferences|DT CD JJ NNS|BODY_5|0
+a current copy )|DT JJ NN -RRB-|BODY_8|0
+the (5,2 ) case|DT NN -RRB- NN|BODY_8|0
+two different voting algorithms|CD JJ NN NNS|BODY_3|0
+a 'primary ' copy|DT JJ '' NN|BODY_8|0
+the resulting reachability graph|DT VBG NN NN|BODY_6|0
+the distributed file system|DT VBN NN NN|BODY_4|0
+the representatives ( number|DT NNS -LRB- NN|BODY_6|0
+both failure and repair|DT NN CC NN|BODY_6|0
+the reconstruction subnet (|DT NN NN -LRB-|BODY_6|0
+oc (outdated copies )|NN JJ NNS -RRB-|BODY_13|0
+a floating point constant|DT VBG NN NN|BODY_12|0
+int q( ) f|NN NN -RRB- NN|BODY_7|0
+the current ) definition|DT JJ -RRB- NN|BODY_6|0
+minor changes or additions|JJ NNS CC NNS|BODY_4|0
+different weights ( number|JJ NNS -LRB- NN|BODY_2|0
+a status request message|DT NN NN NN|BODY_2|0
+the quorum gathering model|DT NN NN NN|BODY_2|0
+the normal update process|DT JJ NN NN|BODY_3|0
+as small filled circles|RB JJ VBN NNS|BODY_2|0
+the quorum gathering procedure|DT NN NN NN|BODY_3|0
+the highest version number|DT JJS NN NN|BODY_4:BODY_9|0
+satisfying ( 1 )|JJ -LRB- LS -RRB-|BODY_19|0
+extended stochastic petri nets|VBN JJ NN NNS|BODY_1|0
+generalized stochastic petri nets|JJ JJ NN NNS|BODY_1|0
+the enabling , distribution|DT VBG , NN|BODY_1|0
+an enabled transition fires|DT VBN NN NNS|BODY_4|0
+the most recent write|DT RBS JJ VB|BODY_4|0
+table adaptive voting )|NN JJ NN -RRB-|BODY_12|0
+these last two events|DT JJ CD NNS|BODY_1|0
+the enabling functions q|DT VBG NNS NNS|BODY_1|0
+the replicated file system|DT JJ NN NN|BODY_1|0
+a higher level language |DT JJR NN NN|BODY_1|0
+4 stochastic petri net|CD JJ NN NN|BODY_1|0
+a markov chain analysis|DT NN NN NN|BODY_3|0
+the corresponding input place|DT JJ NN NN|BODY_5|0
+an inhibitor arc [peterson81]|DT NN NN NN|BODY_1|0
+a weighted voting algorithm|DT JJ NN NN|BODY_1|0
+necessary , outdated copies|JJ , JJ NNS|BODY_2|0
+the logical function q|DT JJ NN NN|BODY_1|0
+( 3 ) exists|-LRB- CD -RRB- VBZ|BODY_21|0
+the most recent timestamp|DT RBS JJ NN|BODY_5|0
+the simplest quorum policies|DT JJS NN NNS|BODY_1|0
+availability|NN|BODY_6:BODY_2:BODY_3|0
+representatives|NNS|BODY_6:BODY_11:BODY_15:BODY_2:BODY_3:BODY_4|0
+them|PRP|BODY_6:BODY_5:BODY_15:BODY_4:BODY_7|1
+the quorum policy|DT NN NN|BODY_5:BODY_13|1
+the file system|DT NN NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+the time|DT NN|BODY_2:BODY_4|0
+only immediate transitions|RB JJ NNS|BODY_3|1
+a current copy|DT JJ NN|BODY_22:BODY_1:BODY_2:BODY_3|0
+a petri net|DT NN NN|BODY_2|0
+the probability|DT NN|BODY_6:BODY_2:BODY_4|1
+votes|NNS|BODY_5:BODY_4:BODY_8|0
+the mean time|DT JJ NN|BODY_6:BODY_2:BODY_4|0
+transitions|NNS|BODY_6:BODY_3:BODY_9|0
+the failure rate|DT NN NN|BODY_5:BODY_13|0
+the spn models|DT NN NNS|BODY_2|0
+the time lapse|DT NN NN|BODY_2|0
+the host|DT NN|BODY_11:BODY_3:BODY_8|0
+the update|DT NN|BODY_6:BODY_5:BODY_3:BODY_4:BODY_8|0
+the total number|DT JJ NN|BODY_5:BODY_1:BODY_4:BODY_10|0
+a general distribution|DT JJ NN|BODY_2|0
+each current witness|DT JJ NN|BODY_2|0
+the adaptive voting|DT JJ NN|BODY_2|0
+the voting structure|DT NN NN|BODY_3|0
+the overall spn.|DT JJ NN|BODY_6:BODY_5:BODY_8|0
+at least one|IN JJS CD|BODY_6:BODY_14|0
+the steady-state probability|DT NN NN|BODY_2:BODY_3|0
+the highest priority|DT JJS NN|BODY_5|0
+the various representatives|DT JJ NNS|BODY_2|0
+ petri net|NN NN NN|BODY_11|0
+all possible markings|DT JJ NNS|BODY_2|0
+the current marking|DT JJ VBG|BODY_9|0
+a larger one|DT JJR CD|BODY_6|0
+the same instant|DT JJ NN|BODY_2|0
+each transition|DT NN|BODY_2:BODY_3:BODY_4|0
+the out-of-date copy|DT JJ NN|BODY_2|0
+jajodia and mutchler|NNP CC NN|BODY_2|0
+the uniform assignment|DT JJ NN|BODY_2|0
+only the ones|RB DT NNS|BODY_4|0
+the update procedure|DT NN NN|BODY_6:BODY_2:BODY_7|0
+true|JJ|BODY_6:BODY_2:BODY_14|0
+the following (|DT VBG -LRB-|BODY_2|0
+the overall model|DT JJ NN|BODY_17:BODY_3|0
+the outdated representatives|DT JJ NNS|BODY_3|0
+figure 2 models|NN CD NNS|BODY_2|0
+a replicated file|DT VBN NN|BODY_3|0
+the current state|DT JJ NN|BODY_3:BODY_7|0
+a data abstraction|DT NN NN|BODY_4|0
+the larger net|DT JJR NN|BODY_2|0
+the generic meaning|DT JJ NN|BODY_10|0
+the two instances|DT CD NNS|BODY_5|0
+all the tokens|PDT DT NNS|BODY_2|0
+the other transitions|DT JJ NNS|BODY_2|0
+a manual reconstruction|DT NN NN|BODY_3:BODY_4|0
+the replicated file|DT JJ NN|BODY_5|0
+form quorum 1|NN NN CD|BODY_2|0
+a probability distribution|DT NN NN|BODY_3|0
+the overall spn|DT JJ NN|BODY_4|0
+the spn model|DT NN NN|BODY_2|0
+the corresponding tokens|DT JJ NNS|BODY_4|0
+other built-in functions|JJ JJ NNS|BODY_7|0
+1 ( part|CD -LRB- NN|BODY_5|0
+the second instance|DT JJ NN|BODY_2|0
+an enabling function|DT VBG NN|BODY_5:BODY_1|0
+a graphical model|DT JJ NN|BODY_3|0
+(outdated witnesses )|JJ NNS -RRB-|BODY_12|0
+the original (|DT JJ -LRB-|BODY_5|0
+the markov chain|DT NN NN|BODY_5:BODY_1|0
+the cc place|DT JJ NN|BODY_5|0
+status request messages|NN NN NNS|BODY_5|0
+the witnesses )|DT NNS -RRB-|BODY_10|0
+the token residing|DT JJ NN|BODY_4|0
+many current representatives|JJ JJ NNS|BODY_7|0
+the quorum policies|DT NN NNS|BODY_9|0
+the manual reconstruction|DT JJ NN|BODY_3|0
+the solution method|DT NN NN|BODY_4|0
+cc and cw|JJ CC JJ|BODY_3|0
+a large system|DT JJ NN|BODY_4|0
+these two transitions|DT CD NNS|BODY_1|0
+each input place|DT NN NN|BODY_6:BODY_2|0
+the respective places|DT JJ NNS|BODY_4|0
+some timed transitions|DT VBN NNS|BODY_2|0
+possibly marking-dependent )|RB NN -RRB-|BODY_4|0
+our spn model|PRP$ JJ NN|BODY_4|0
+the participating subset|DT VBG NN|BODY_3|0
+a valid quorum|DT JJ NN|BODY_9|0
+its inhibiting places|PRP$ JJ NNS|BODY_11|0
+f( ) f|NN -RRB- NN|BODY_19|0
+its corresponding token|PRP$ JJ NN|BODY_4|0
+oc and ow|NN CC JJ|BODY_4|0
+one and seven|CD CC CD|BODY_4|0
+the transitions fire|DT NNS NN|BODY_4|0
+their respective places|PRP$ JJ NNS|BODY_6|0
+only the definitions|RB DT NNS|BODY_3|0
+all the copies|DT DT NNS|BODY_7|0
+the state probabilities|DT NN NNS|BODY_3|0
+true iff more|JJ NN JJR|BODY_8|0
+a logical function|DT JJ NN|BODY_2|0
+the corresponding state|DT JJ NN|BODY_16|0
+the automatic generation|DT JJ NN|BODY_4|0
+the main cause|DT JJ NN|BODY_4|0
+the order t|DT NN NN|BODY_3|0
+its enabling funtion|PRP$ VBG NN|BODY_13|0
+the solution package|DT NN NN|BODY_3|0
+the enabling function|DT VBG NN|BODY_5|0
+( transition t|-LRB- NN NN|BODY_3|0
+as bars )|RB NNS -RRB-|BODY_7|0
+low storage costs|JJ NN NNS|BODY_2|0
+representative not partecipants|JJ RB NNS|BODY_4|0
+a negative effect|DT JJ NN|BODY_11|0
+a markov model|DT NN NN|BODY_3|0
+the highest witness|DT JJS NN|BODY_4|0
+the other copies|DT JJ NNS|BODY_4|0
+a similar approach|DT JJ NN|BODY_1|0
+each current copy|DT JJ NN|BODY_4|0
+fault-tolerant hardware systems|JJ NN NNS|BODY_4|0
+the system administrator|DT NN NN|BODY_1|0
+the transitions correspond|DT NNS NN|BODY_3|0
+that|WDT|BODY_5:BODY_3:BODY_4:BODY_7|0
+a time lapse|DT NN NN|BODY_6|0
+an out-of-date copy|DT JJ NN|BODY_8|0
+( transitions t28|-LRB- NNS NN|BODY_7|0
+the last copy|DT JJ NN|BODY_3|0
+a wide number|DT JJ NN|BODY_2|0
+( quorum witnesses|-LRB- NN NNS|BODY_4|0
+an individual host|DT JJ NN|BODY_6|0
+then outdated witnesses|RB JJ NNS|BODY_8|0
+as circles )|RB NNS -RRB-|BODY_4|0
+a higher availability|DT JJR NN|BODY_3|0
+the places qw|DT NNS NN|BODY_12|0
+both voting techniques|DT VBG NNS|BODY_5|0
+a higher priority|DT JJR NN|BODY_3|0
+all the figures|PDT DT NNS|BODY_3|0
+as well [ajmone84]|IN RB JJ|BODY_3|0
+each representative residing|DT JJ NN|BODY_1|0
+the center section|DT NN NN|BODY_1|0
+the overall availability|DT JJ NN|BODY_3|0
+the quorum gathering|DT NN NN|BODY_1|0
+the shared places|DT VBN NNS|BODY_1|0
+transition t0 models|NN NN NNS|BODY_1|0
+the point dn=2e|DT NN NN|BODY_3|0
+' version number|POS NN NN|BODY_5|0
+more current copies|RBR JJ NNS|BODY_5|0
+the oc place|DT FW NN|BODY_5|0
+a copy resides|DT NN NNS|BODY_3|0
+the performance/reliability tradeoffs|DT NN NNS|BODY_2|0
+the output place|DT NN NN|BODY_4|0
+( function f|-LRB- NN NN|BODY_2|0
+the remaining ones|DT VBG NNS|BODY_3|0
+its input places|PRP$ NN NNS|BODY_6|0
+at most one|IN JJS CD|BODY_3|0
+these two places|DT CD NNS|BODY_3|0
+a semi-markov process|DT JJ NN|BODY_4|0
+these predefined functions|DT VBN NNS|BODY_2|0
+the system being|DT NN NN|BODY_4|0
+a certain point|DT JJ NN|BODY_6|0
+the start.2 place|DT NN NN|BODY_8|0
+an unfavorable effect|DT JJ NN|BODY_7|0
+the update transaction|DT NN NN|BODY_5|0
+the try place|DT NN NN|BODY_7|0
+an input place|DT NN NN|BODY_6|0
+an output place|DT NN NN|BODY_13|0
+a smaller number|DT JJR NN|BODY_4|0
+a quorum )|DT NN -RRB-|BODY_9|0
+the start place|DT NN NN|BODY_5:BODY_7|0
+the highest level|DT JJS NN|BODY_5|0
+the following scenario|DT VBG NN|BODY_2|0
+a manual intervention|DT JJ NN|BODY_5|0
+the steady-state availability|DT JJ NN|BODY_2|0
+several enabled transitions|JJ VBN NNS|BODY_1|0
+the drive place|DT NN NN|BODY_2|0
+any out-of-date copy|DT JJ NN|BODY_4|0
+a minor impact|DT JJ NN|BODY_6|0
+different quorum policies|JJ NN NNS|BODY_7|0
+a fixed number|DT JJ NN|BODY_4|0
+2 witnesses )|CD NNS -RRB-|BODY_8|0
+a normal update|DT JJ NN|BODY_5|0
+stochastic petri nets|JJ NN NNS|BODY_1|0
+an availability analysis|DT NN NN|BODY_1|0
+the selection process|DT NN NN|BODY_1|0
+transitions t 17|NNS NN CD|BODY_1|0
+three additional features|CD JJ NNS|BODY_1|0
+t 14 )|NN CD -RRB-|BODY_8|0
+form quorum 2|NN NN CD|BODY_3|0
+any given time|DT VBN NN|BODY_6|0
+an update transaction|DT NN NN|BODY_11|0
+the left portion|DT JJ NN|BODY_1|0
+this vote assignment|DT NN NN|BODY_1|0
+7 manual reconstruction|CD JJ NN|BODY_1|0
+the file structure|DT NN NN|BODY_4|0
+the firing rates|DT NN NNS|BODY_1|0
+the initial configuration|DT JJ NN|BODY_6|0
+9 model experimentation|CD NN NN|BODY_1|0
+the failed hosts|DT JJ NNS|BODY_1|0
+all the representatives|DT DT NNS|BODY_1|0
+such a language|JJ DT NN|BODY_2|0
+a transition t|DT NN NN|BODY_1|0
+molloy81 , natkin80]|JJ , JJ|BODY_5|0
+a certain moment|DT JJ NN|BODY_1|0
+such a system|PDT DT NN|BODY_1|0
+the second assumption|DT JJ NN|BODY_1|0
+a single host|DT JJ NN|BODY_14|0
+transition t35 (|NN CD -LRB-|BODY_1|0
+the first set|DT JJ NN|BODY_1|0
+the second set|DT JJ NN|BODY_1|0
+the logical complement|DT JJ NN|BODY_7|0
+the first algorithm|DT JJ NN|BODY_1|0
+the second algorithm|DT JJ NN|BODY_1|0
+an out-of-date witness|DT JJ NN|BODY_12|0
+a given time|DT VBN NN|BODY_6|0
+a file update|DT NN NN|BODY_7|0
+8 model specification|CD NN NN|BODY_1|0
+the input place|DT NN NN|BODY_5|0
+the specified place|DT JJ NN|BODY_11|0
+only one copy|RB CD NN|BODY_1|0
+its original state|PRP$ JJ NN|BODY_5|0
+the next request|DT JJ NN|BODY_11|0
+a similar structure|DT JJ NN|BODY_1|0
+a file access|DT NN NN|BODY_9|0
+copies and vice|NNS CC NN|BODY_3|0
+the host computers|DT NN NNS|BODY_1|0
+future modeling efforts|JJ JJ NNS|BODY_1|0
+the proper tools|DT JJ NNS|BODY_1|0
+each output place|DT NN NN|BODY_8|0
+the done place|DT VBN NN|BODY_7|0
+the start.1 place|DT JJ NN|BODY_6|0
+the adaptive algorithm|DT JJ NN|BODY_1|0
+the remaining places|DT VBG NNS|BODY_1|0
+tokens|NNS|BODY_6:BODY_4:BODY_10:BODY_8:BODY_9|0
+3 copies|CD NNS|BODY_6:BODY_3:BODY_9|0
+the representatives|DT NNS|BODY_5:BODY_2:BODY_3|0
+an update|DT NN|BODY_6:BODY_5:BODY_2|0
+host failures|NN NNS|BODY_2:BODY_3:BODY_7|1
+the tokens|DT NNS|BODY_2:BODY_4|0
+2 )|CD -RRB-|BODY_2:BODY_7:BODY_8|0
+the gathering|DT NN|BODY_3|0
+a subset|DT NN|BODY_6:BODY_3|1
+places|NNS|BODY_6:BODY_1:BODY_3:BODY_7|0
+current witnesses|JJ NNS|BODY_4:BODY_7|0
+timed transitions|VBD NNS|BODY_4:BODY_8|0
+the case|DT NN|BODY_10:BODY_7|2
+static voting|JJ NN|BODY_6:BODY_2:BODY_7|0
+)|-RRB-|BODY_12:BODY_6:BODY_11:BODY_7|1
+distributed systems|VBN NNS|BODY_2|1
+the copies|DT NNS|BODY_2:BODY_3:BODY_8|0
+places c|NNS NN|BODY_5:BODY_2|0
+each update|DT NN|BODY_6:BODY_2:BODY_10:BODY_7|0
+the effect|DT NN|BODY_6:BODY_2:BODY_1|0
+the box|DT NN|BODY_1:BODY_2|0
+a copy|DT NN|BODY_16:BODY_2:BODY_3:BODY_7|0
+a witness|DT NN|BODY_2:BODY_4:BODY_7:BODY_8|0
+the reason|DT NN|BODY_12:BODY_1|1
+t 18|NN CD|BODY_11:BODY_5:BODY_4|0
+all representatives|DT NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+each|DT|BODY_6:BODY_5:BODY_7|0
+a transition|DT NN|BODY_1:BODY_3:BODY_4|0
+contemporary firing|JJ NN|BODY_7|1
+important files|JJ NNS|BODY_3|1
+a representative|DT NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+a double-circle|DT NN|BODY_2|0
+markov chains|NN NNS|BODY_2|0
+the factors|DT NNS|BODY_2|0
+experiments|NNS|BODY_2|0
+the specification|DT NN|BODY_4|1
+t|NN|BODY_18:BODY_14:BODY_10:BODY_7|0
+this|DT|BODY_1:BODY_7|0
+the files|DT NNS|BODY_2|0
+one copy|CD NN|BODY_3:BODY_9|0
+outdated copies|JJ NNS|BODY_6:BODY_7|0
+any time|DT NN|BODY_6:BODY_1:BODY_4|0
+4 witnesses|CD NNS|BODY_4:BODY_10|0
+( 2|-LRB- CD|BODY_7:BODY_20|0
+outdated witnesses|JJ NNS|BODY_6:BODY_1|0
+the addition|DT NN|BODY_2|0
+the transition|DT NN|BODY_32:BODY_4:BODY_7|0
+transition t4|NN NN|BODY_6:BODY_5|0
+bechta85 ]|CD NNS|BODY_4|0
+espn) [|NNS NN|BODY_2|0
+the repair|DT NN|BODY_3:BODY_7|0
+a host|DT NN|BODY_1:BODY_3|0
+inhibitor arcs|NN NNS|BODY_12:BODY_5|0
+this probability|DT NN|BODY_2:BODY_4|0
+transition t|NN NN|BODY_3:BODY_4|0
+the design|DT NN|BODY_3|0
+the performance|DT NN|BODY_2|0
+transition t18|NN NNS|BODY_3|0
+a request|DT NN|BODY_2:BODY_1|0
+figure 2|NN CD|BODY_6:BODY_5|0
+the same|DT JJ|BODY_3:BODY_4|0
+different priorities|JJ NNS|BODY_2|0
+each copy|DT NN|BODY_5:BODY_2|0
+current copies|JJ NNS|BODY_5|0
+a minority|DT NN|BODY_6:BODY_4|0
+a combination|DT NN|BODY_5:BODY_2|0
+three copies|CD NNS|BODY_4|0
+places dw|NNS NNS|BODY_6|0
+place cc)|NN NN|BODY_24:BODY_10|0
+5 copies|CD NNS|BODY_7|0
+the participants|DT NNS|BODY_5:BODY_7|0
+spn entities|JJ NNS|BODY_4|0
+transitions t31|NNS NNS|BODY_2|0
+an arc|DT NN|BODY_2:BODY_1:BODY_9|0
+preference|NN|BODY_11:BODY_3:BODY_4|0
+adaptive voting|JJ NN|BODY_2:BODY_1:BODY_8|0
+the boxes|DT NNS|BODY_4:BODY_8|0
+a number|DT NN|BODY_3:BODY_7|0
+more copies|JJR NNS|BODY_7|0
+a marking|DT VBG|BODY_3|0
+file consis|NN NN|BODY_4|0
+the members|DT NNS|BODY_2|0
+the conditions|DT NNS|BODY_5|0
+the beginning|DT NN|BODY_17|0
+transitions t12|NNS NN|BODY_7|0
+table 2|NN CD|BODY_6|0
+2 hours|CD NNS|BODY_8|0
+manual reconstruction|JJ NN|BODY_6:BODY_12:BODY_4|0
+a timestamp|DT NN|BODY_2|0
+the assignment|DT NN|BODY_2|0
+the description|DT NN|BODY_1:BODY_2|0
+transition|NN|BODY_5:BODY_2:BODY_3|0
+figure 1|NN CD|BODY_11:BODY_10:BODY_8|0
+a decrease|DT NN|BODY_3|0
+a place|DT NN|BODY_5:BODY_2|0
+operational hosts|JJ NNS|BODY_5:BODY_7:BODY_8|0
+transition priorities|NN NNS|BODY_6|0
+immediate transitions|JJ NNS|BODY_6|0
+no token|DT JJ|BODY_27:BODY_9|0
+conditions|NNS|BODY_6:BODY_5:BODY_3|0
+small systems|JJ NNS|BODY_3|0
+2 witnesses|CD NNS|BODY_4:BODY_7|0
+a file|DT NN|BODY_3:BODY_7|0
+their representatives|PRP$ NNS|BODY_2|0
+the analysis|DT NN|BODY_2|0
+qw places|JJ NNS|BODY_2|0
+t 22|JJ CD|BODY_4|0
+the dependency|DT NN|BODY_5|0
+the transitions|DT NNS|BODY_2|0
+another instance|DT NN|BODY_3|0
+0.95663 )|CD -RRB-|BODY_11|0
+c functions|NN NNS|BODY_5|0
+one vote|CD NN|BODY_6:BODY_5|0
+different quorums|JJ NNS|BODY_5|0
+probability functions|NN NNS|BODY_2|0
+done.1 places|NNS NNS|BODY_6|0
+) transitions|-RRB- NNS|BODY_5|0
+three witnesses|CD NNS|BODY_10|0
+which combination|WDT NN|BODY_5:BODY_2|0
+the definitions|DT NNS|BODY_3|0
+the quorums|DT NNS|BODY_2|0
+t 16|JJ CD|BODY_9|0
+the enabling|DT VBG|BODY_2|0
+a set|DT NN|BODY_5:BODY_1|0
+t 21|JJ CD|BODY_3|0
+the gspn|DT NN|BODY_3|0
+some copies|DT NNS|BODY_2:BODY_4|0
+figure 3|NN CD|BODY_1:BODY_8|0
+predefined functions|JJ NNS|BODY_2|0
+( 3|-LRB- CD|BODY_12|0
+votes )|NNS -RRB-|BODY_3|0
+( regardless|-LRB- RB|BODY_8|0
+the hosts|DT NNS|BODY_4:BODY_7|0
+higher priority|JJR NN|BODY_2|0
+some time|DT NN|BODY_2|0
+these transitions|DT NNS|BODY_2|0
+3 witnesses|CD NNS|BODY_8|0
+the configuration|DT NN|BODY_6|0
+the database|DT NN|BODY_3|0
+an espn|DT NN|BODY_2|0
+file configuration|NN NN|BODY_2|0
+output arcs|NN NNS|BODY_11|0
+the qc.1|DT NNS|BODY_5|0
+simultaneous read|JJ NN|BODY_3|0
+the state|DT NN|BODY_9|0
+1746 states|CD NNS|BODY_5:BODY_9|0
+1 )|CD -RRB-|BODY_5|0
+thin bars|JJ NNS|BODY_7|0
+the failure|DT NN|BODY_2|0
+the composition|DT NN|BODY_5|0
+two witnesses|CD NNS|BODY_7|0
+the cc|DT NN|BODY_13|0
+the user|DT NN|BODY_4|0
+version numbers|NN NNS|BODY_3|0
+logical functions|JJ NNS|BODY_8|0
+the procedure|DT NN|BODY_5|0
+leader [parker83|NN NNS|BODY_9|0
+this token|DT JJ|BODY_3|0
+detailed enough|JJ JJ|BODY_5|0
+( 1|-LRB- LS|BODY_2|0
+the exception|DT NN|BODY_12|0
+places inq.1|NNS NNS|BODY_29|0
+( enumerations|-LRB- NNS|BODY_3|0
+t 17|JJ CD|BODY_10|0
+the filesystem|DT NN|BODY_4|0
+1 hour|CD NN|BODY_7|0
+true )|JJ -RRB-|BODY_3|0
+the inclusion|DT NN|BODY_3|0
+more representatives|JJR NNS|BODY_31|0
+witnesses reside|NNS NN|BODY_9|0
+our spn)|PRP$ NN|BODY_18|0
+the request|DT NN|BODY_5|0
+input arcs|NN NNS|BODY_10|0
+defining places|VBG NNS|BODY_8|0
+all copies|DT NNS|BODY_6|0

@@ -1,0 +1,493 @@
+a satellite swarm|DT NN NN|TITLE_2:ABSTRACT_3|0
+that|DT|BODY_6:BODY_5:ABSTRACT_4:BODY_15:BODY_2:BODY_3:BODY_19:BODY_4:BODY_7:BODY_8:BODY_9|2
+we|PRP|BODY_6:BODY_5:BODY_2:BODY_1:ABSTRACT_1:BODY_4|2
+a communication protocol|DT NN NN|BODY_5:ABSTRACT_4:BODY_4|0
+reactive decision rules|JJ NN NNS|ABSTRACT_6:BODY_1|1
+the problem|DT NN|BODY_2:ABSTRACT_3:BODY_4|0
+on-board planning|JJ NN|ABSTRACT_2:BODY_1:BODY_4|0
+categories and subject descriptors|NNS CC NN NNS|ABSTRACT_1|0
+i.2.8 [artificial intelligence]|DT JJ NN|ABSTRACT_3|0
+information systems applications]|NN NNS NN|ABSTRACT_2|0
+i.2.11 [artificial intelligence]|JJ JJ NN|ABSTRACT_9|0
+a solving method|DT VBG NN|ABSTRACT_5|0
+a global behaviour|DT JJ NN|ABSTRACT_3|0
+communication and negotiation|NN CC NN|ABSTRACT_4|0
+the paper deals|DT NN NNS|ABSTRACT_1|0
+the mission requirements|DT NN NNS|ABSTRACT_5|0
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_18:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|1
+agents|NNS|BODY_6:BODY_11:BODY_5:BODY_16:BODY_26:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+the agents|DT NNS|BODY_6:BODY_5:BODY_16:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+a request|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|1
+a set|DT NN|BODY_6:BODY_28:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|1
+information|NN|BODY_5:BODY_2:BODY_14:BODY_19:BODY_4:BODY_7|0
+requests|NNS|BODY_6:BODY_15:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7:BODY_29|0
+an agent|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+r|NN|BODY_5:BODY_11:BODY_16:BODY_17:BODY_13:BODY_25:BODY_3:BODY_14:BODY_4:BODY_10:BODY_8:BODY_9|0
+si|FW|BODY_12:BODY_16:BODY_22:BODY_18:BODY_15:BODY_2:BODY_25:BODY_33:BODY_6:BODY_5:BODY_27:BODY_1:BODY_19:BODY_7:BODY_8:BODY_9:BODY_20|0
+they|PRP|BODY_5:BODY_18:BODY_13:BODY_1:BODY_3:BODY_10|0
+strategies|NNS|BODY_6:BODY_2:BODY_1:BODY_14:BODY_3|1
+the number|DT NN|BODY_6:BODY_28:BODY_1:BODY_25:BODY_2:BODY_3:BODY_10:BODY_7|1
+each agent|DT NN|BODY_6:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4|0
+the request|DT NN|BODY_6:BODY_5:BODY_15:BODY_4:BODY_7:BODY_9|2
+k|NN|BODY_12:BODY_5:BODY_11:BODY_15:BODY_26:BODY_1:BODY_2:BODY_3|0
+which|WDT|BODY_5:BODY_16:BODY_10:BODY_4:BODY_7:BODY_9|2
+two agents|CD NNS|BODY_6:BODY_2:BODY_3:BODY_4|0
+a candidacy c|DT NN NN|BODY_1:BODY_3:BODY_4:BODY_7:BODY_20:BODY_9|1
+conflict|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_10|0
+there|EX|BODY_11:BODY_13:BODY_2:BODY_3|0
+a conflict|DT NN|BODY_2:BODY_1:BODY_3|1
+the set|DT NN|BODY_5:BODY_15:BODY_1:BODY_3:BODY_10:BODY_4:BODY_8|0
+the requests|DT NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the agent|DT NN|BODY_6:BODY_1:BODY_2:BODY_14:BODY_3:BODY_4|0
+a cooperative multiagent system|DT JJ JJ NN|BODY_3|1
+)|-RRB-|BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+an observation satellite swarm|DT NN NN NN|BODY_2|1
+redundancies|NNS|BODY_36:BODY_26:BODY_3:BODY_4:BODY_9|0
+a|DT|BODY_5:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8|1
+the insurance strategy|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+obsc , dnlc >|JJ , JJ NN|BODY_5|1
+communication and computation capabilities|NN CC NN NNS|BODY_6|1
+a tuple < idc|DT JJ NN NN|BODY_2|1
+the global mission outcome|DT JJ NN NN|BODY_1|1
+time|NN|BODY_5:BODY_26:BODY_3:BODY_4:BODY_7|0
+1|CD|BODY_6:BODY_22:BODY_2:BODY_1:BODY_4:BODY_10:BODY_8|0
+.e|NN|BODY_35:BODY_5:BODY_25:BODY_2:BODY_3:BODY_8|0
+follows|VBZ|BODY_2:BODY_3:BODY_7:BODY_9|0
+2|CD|BODY_27:BODY_2:BODY_1:BODY_9|1
+a decision|DT NN|BODY_6:BODY_11:BODY_16:BODY_3|1
+average priority average cost|JJ NN JJ NN|BODY_6:BODY_16|0
+communication|NN|BODY_12:BODY_6:BODY_2:BODY_1:BODY_7|0
+them|PRP|BODY_16:BODY_3:BODY_4|0
+the average cost|DT JJ NN|BODY_5:BODY_1:BODY_4:BODY_7|0
+âˆˆ t|NN NN|BODY_27:BODY_13:BODY_4:BODY_8|0
+the planning step [40|DT VBG NN NN|BODY_2|0
+rt si such 288|NN FW JJ CD|BODY_3|0
+the french space agency|DT NN NN NN|BODY_2|0
+the objectagent architecture [38]|DT JJ NN NN|BODY_2|0
+the mission global return|DT NN JJ NN|BODY_9|0
+mechanism ( protocol 2|NN -LRB- NN CD|BODY_5|0
+the fuego mission [13|DT NN NN NNS|BODY_6|0
+an earth observation constellation|DT NN NN NN|BODY_5|0
+the request realization date|DT NN NN NN|BODY_2|0
+an observation satellite swarm1|DT NN NN NN|BODY_2|0
+42] but strong assumptions|JJ CC JJ NNS|BODY_4|0
+ss uses protocol 5|NN NNS NN CD|BODY_2|0
+the altruist strategy|DT NN NN|BODY_6:BODY_2:BODY_1:BODY_10|0
+the constellation observation requests|DT NN NN NNS|BODY_2|0
+a fully reactive approach|DT RB JJ NN|BODY_6|0
+a hard conflict|DT JJ NN|BODY_2:BODY_3:BODY_4:BODY_30|0
+agents si and sj|NNS FW CC NNS|BODY_4|0
+possibly empty ) plan|RB JJ -RRB- NN|BODY_3|0
+the average cost contrary|DT JJ NN NN|BODY_3|0
+â‰ ¤ k <j|JJ NN NN NN|BODY_11|0
+1 ( expert )|CD -LRB- NN -RRB-|BODY_2|0
+2 ( altruist )|CD -LRB- NN -RRB-|BODY_2|0
+an epidemic communication protocol|DT JJ NN NN|BODY_1|0
+the jade platform [3]|DT NN NN NN|BODY_3|0
+the worst case|DT JJS NN|BODY_12:BODY_2:BODY_1:BODY_3:BODY_8|0
+kt si â† ?|NN FW FW FW|BODY_1|0
+deliberation and communication capabilities|NN CC NN NNS|BODY_5|0
+a total order <|DT JJ NN NN|BODY_11|0
+a single observation instrument|DT JJ NN NN|BODY_2|0
+a 3s figure 1|DT JJ NN CD|BODY_3|0
+the instanciated collaboration strategies|DT JJ NN NNS|BODY_16|0
+the rank-1-expert agent withdraws|DT JJ NN NNP|BODY_5|0
+= 3 and modcsj|SYM CD CC JJR|BODY_4|0
+an observation satellite constellation|DT NN NN NN|BODY_2|0
+at least a cardinality|IN JJS DT NN|BODY_2|0
+the whole set sh|DT JJ NN NN|BODY_3|0
+s|VBZ|BODY_6:BODY_5:BODY_22:BODY_2:BODY_1:BODY_9|0
+a 3s figure 2|DT JJ NN CD|BODY_6|0
+sc|NN|BODY_12:BODY_21:BODY_23:BODY_20|1
+a more recent timestamp|DT JJR JJ NN|BODY_7|0
+the sixth intl|DT JJ NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+the 40-request simulation results|DT JJ NN NNS|BODY_14|0
+informed simulations and simulations|JJ NNS CC NNS|BODY_13|0
+. si and sj|. FW CC RB|BODY_9|0
+a tuple < idr|DT NN NN NN|BODY_2|0
+â‰ ¤ i â‰|VBP JJ FW VBP|BODY_5:BODY_19|0
+each avoided redundancy corresponds|DT VBN NN NNS|BODY_1|0
+ct si a set|NN FW DT NN|BODY_4|0
+maximal ( âš† )|JJ -LRB- NN -RRB-|BODY_23|0
+3 to 20 satellites|CD TO CD NNS|BODY_4|0
+a hybrid agent approach|DT JJ NN NN|BODY_10|0
+rt si the set|NN FW DT NN|BODY_3|0
+|rt si | pieces|, FW FW NNS|BODY_18|0
+such a communication occurrence|JJ DT NN NN|BODY_3|0
+the realization date|DT NN NN|BODY_19:BODY_9|1
+rt si a set|NN FW DT NN|BODY_2|0
+âš† r+ or n+|NN NN CC NN|BODY_8|0
+o(|rt sj | .|rt|JJ JJ NN NN|BODY_3|0
+s. âˆ€t âˆˆ t|DT JJ NN NN|BODY_2|0
+the ground or agents|DT NN CC NNS|BODY_4|0
+a subsumption architecture [7|DT NN NN NNS|BODY_2|0
+their respective candidacies csi|PRP$ JJ NNS NNS|BODY_4|0
+the most expert agent|DT RBS JJ NN|BODY_2|0
+more or less difficulty|JJR CC JJR NN|BODY_4|0
+a request r|DT NN NN|BODY_6:BODY_1|0
+a satellite swarm e|DT NN NN NN|BODY_1|0
+1 ( swarm )|CD -LRB- NN -RRB-|BODY_4|0
+p siâˆˆs p râˆˆat|NN NN NN NN|BODY_1|0
+performance and mission possibilities|NN CC NN NNS|BODY_15|0
+si and sj (|FW CC NN -LRB-|BODY_1|0
+even the same one|RB DT JJ CD|BODY_4|0
+agent si|NN FW|BODY_6:BODY_15:BODY_1:BODY_4|0
+6.1 cost and expertise|CD NN CC NN|BODY_1|0
+agents [2 , 41]|NNS CD , CD|BODY_5|0
+the same average priorities|DT JJ JJ NNS|BODY_5|0
+( definition 3 )|-LRB- NN CD -RRB-|BODY_8|0
+the conflict cardinality corresponds|DT NN NN NNS|BODY_1|0
+si and sj âˆˆ|FW CC NN NN|BODY_1|0
+all the communication opportunities|DT DT NN NNS|BODY_7|0
+an effective communication protocol|DT JJ NN NN|BODY_2|0
+collective conjectures and plans|JJ NNS CC NNS|BODY_3|0
+definition 6 ( plan|NN CD -LRB- NN|BODY_3|0
+an agent and r|DT NN CC NN|BODY_1|0
+the more an agent|DT RBR DT NN|BODY_1|0
+the initial planning problem|DT JJ NN NN|BODY_4|0
+an additional cost increase|DT JJ NN NN|BODY_5|0
+one|CD|BODY_11:BODY_3:BODY_8|0
+definition 13 (k-conflict )|NN CD NN -RRB-|BODY_1|0
+definition 4 ( problem|NN CD -LRB- NN|BODY_1|0
+time t|NN NN|BODY_5:BODY_21:BODY_2:BODY_1:BODY_3|0
+t|NN|BODY_6:BODY_3:BODY_7:BODY_9|0
+the desired date|DT VBN NN|BODY_6:BODY_13:BODY_4:BODY_7|0
+the initial plan|DT JJ NN|BODY_6|1
+us|PRP|BODY_15:BODY_1:BODY_3|0
+a deliberative approach|DT JJ NN|BODY_2|1
+dnlc âˆˆ t|JJ JJ NN|BODY_21|1
+an hybrid approach|DT JJ NN|BODY_3|1
+conflicts|NNS|BODY_5:BODY_1:BODY_2:BODY_3|1
+the candidate agent|DT NN NN|BODY_13|1
+âˆˆ rt sc|JJ NN NN|BODY_14|1
+si ||FW FW|BODY_6:BODY_18:BODY_15:BODY_4:BODY_7|0
+modc âˆˆ {3|JJ JJ NN|BODY_8|1
+a multi-agent system|DT JJ NN|BODY_3:BODY_8|0
+the corridor metaphor|DT NN NN|BODY_6:BODY_2:BODY_3|0
+the main idea|DT JJ NN|BODY_1|1
+the request sender|DT NN NN|BODY_6|1
+modc , sc|JJ , NN|BODY_3|1
+obsc âˆˆ t|JJ JJ NN|BODY_18|1
+uncertain disjunctive requests|JJ JJ NNS|BODY_9|1
+kt si|NN FW|BODY_12:BODY_2:BODY_19:BODY_8|0
+the download date|DT JJ NN|BODY_22|1
+an epidemic protocol|DT JJ NN|BODY_2:BODY_8|0
+the decision horizon|DT NN NN|BODY_13|1
+â† ? sk|RB JJ VB|BODY_22:BODY_19|0
+o(|rt si ||JJ FW FW|BODY_19:BODY_7|0
+the satellites|DT NNS|BODY_2:BODY_1:BODY_7|0
+rc|NNP|BODY_23:BODY_14:BODY_4|1
+a communication occurrence|DT NN NN|BODY_2:BODY_3:BODY_4:BODY_9|0
+a soft conflict|DT JJ NN|BODY_3:BODY_4|0
+ss|NN|BODY_6:BODY_5:BODY_2|0
+a given request|DT VBN NN|BODY_5:BODY_13:BODY_4|0
+the other agents|DT JJ NNS|BODY_6:BODY_4|0
+an internal update|DT JJ NN|BODY_1:BODY_4|0
+epidemic protocols|JJ NNS|BODY_3|0
+on-board generated requests|JJ VBN NNS|BODY_3|0
+the first results|DT JJ NNS|BODY_3|0
+the cost increase|DT NN NN|BODY_3:BODY_4|0
+an identifier|DT NN|BODY_6:BODY_7|1
+a given time|DT VBN NN|BODY_2:BODY_4|0
+the conflict cardinality|DT NN NN|BODY_1:BODY_2|0
+a negotiation protocol|DT NN NN|BODY_2|0
+all communication opportunities|DT NN NNS|BODY_2|0
+csi and csj|NNS CC NN|BODY_2|0
+the same request|DT JJ NN|BODY_6:BODY_8|0
+another agent|DT NN|BODY_2:BODY_3|0
+example hot points|NN JJ NNS|BODY_10|0
+the system reactivity|DT NN NN|BODY_8|0
+the transmitted information|DT VBN NN|BODY_3|0
+the following|DT VBG|BODY_2:BODY_3:BODY_4|0
+candidacies|NNS|BODY_5:BODY_2:BODY_1:BODY_10:BODY_7|0
+a collective plan|DT JJ NN|BODY_6:BODY_4|0
+the end|DT NN|BODY_12:BODY_11|1
+the desired dates|DT VBN NNS|BODY_6:BODY_8|0
+the rank-( i|DT JJ NN|BODY_6|0
+the planning process|DT NN NN|BODY_9|0
+satellite swarms [36|NN NNS NNS|BODY_2|0
+the rank-i-expert agent|DT JJ NN|BODY_1:BODY_3|0
+the competitive strategy|DT JJ NN|BODY_1:BODY_3|0
+a plan|DT NN|BODY_1:BODY_24:BODY_9|0
+what|WP|BODY_1:BODY_3:BODY_4|0
+a k-conflict|DT NN|BODY_1:BODY_2:BODY_3|0
+the highest possible|DT JJS JJ|BODY_12|0
+the 40-request simulations|DT JJ NNS|BODY_3|0
+such a way|JJ DT NN|BODY_3|0
+their relevant comments|PRP$ JJ NNS|BODY_5|0
+sk|NN|BODY_1:BODY_3:BODY_8|0
+the expert strategy|DT NN NN|BODY_1|0
+the earth surface|DT NN NN|BODY_9|0
+the internal update|DT JJ NN|BODY_4|0
+all negotiationbased [25|DT JJ CD|BODY_4|0
+this horizon corresponds|DT NN NNS|BODY_1|0
+an external update|DT JJ NN|BODY_1:BODY_8|0
+resources|NNS|BODY_3:BODY_4:BODY_9|0
+the case|DT NN|BODY_2:BODY_1:BODY_4|0
+redundancy|NN|BODY_12:BODY_5:BODY_27:BODY_8|0
+their knowledge bases|PRP$ NN NNS|BODY_7|0
+transferring planning on-board|NN NN JJ|BODY_10|0
+the expert agent|DT NN NN|BODY_1:BODY_2:BODY_7|0
+the informed simulations|DT JJ NNS|BODY_2|0
+time t 1|NN NN CD|BODY_4|0
+a realization date|DT NN NN|BODY_3|0
+o(logn ) steps|JJ -RRB- NNS|BODY_9|0
+sj | .|s|2|NN FW NN|BODY_8|0
+multi-agent systems|JJ NNS|BODY_3|0
+at1 si a|NN FW FW|BODY_2|0
+a satellite constellation|DT NN NN|BODY_3|0
+a triplet <|DT NN NN|BODY_2|0
+a combinatory explosion|DT JJ NN|BODY_2|0
+the other agent|DT JJ NN|BODY_2|0
+a lower cost|DT JJR NN|BODY_2|0
+an agent si|DT NN FW|BODY_7:BODY_8|0
+such a satellite|JJ DT NN|BODY_12|0
+the high number|DT JJ NN|BODY_3|0
+€ r âˆˆ|NN NN NN|BODY_5|0
+a single goal|DT JJ NN|BODY_2|0
+t2 > t1|NNS JJ NNS|BODY_4|0
+the polar areas|DT JJ NNS|BODY_6|0
+1 and 5|CD CC CD|BODY_3|0
+communicate only requests|VB RB NNS|BODY_3|0
+the concerned agent|DT JJ NN|BODY_3|0
+a private (|DT JJ -LRB-|BODY_2|0
+their respective plans|PRP$ JJ NNS|BODY_7|0
+2. competitive strategy|RP JJ NN|BODY_11|0
+( ) 3|-LRB- -RRB- CD|BODY_8|0
+no ground intervention|DT NN NN|BODY_8|0
+ilog cplex [1]|NN JJ NN|BODY_3|0
+mono-agent planning [4|JJ NN NNS|BODY_1|0
+the on-board planner|DT JJ NN|BODY_1|0
+the simulation scenario|DT NN NN|BODY_1|0
+the three strategies|DT CD NNS|BODY_1|0
+a soft k-conflict|DT JJ NN|BODY_2|0
+kt si \{|NN FW FW|BODY_2|0
+the observation tasks|DT NN NNS|BODY_3|0
+( politics )|-LRB- NNS -RRB-|BODY_17|0
+section 6.2 )|NN CD -RRB-|BODY_3|0
+a detection instrument|DT NN NN|BODY_2|0
+the development cost|DT NN NN|BODY_11|0
+the receiver agent|DT NN NN|BODY_9|0
+a request rc|DT NN NN|BODY_2|0
+the various satellites|DT JJ NNS|BODY_5|0
+07 ) 289|CD -RRB- CD|BODY_5|0
+î± and î»|NN CC NNS|BODY_23|0
++ |rt sj|FW , NN|BODY_10|0
+{z } emission|FW FW NN|BODY_8|0
+observations redundancies messages|NNS NNS NNS|BODY_15|0
+the independence assumption|DT NN NN|BODY_5|0
+a high priority|DT JJ NN|BODY_2|0
+the ground station|DT NN NN|BODY_6|0
+the environment )|DT NN -RRB-|BODY_3|0
+communication and strategies|NN CC NNS|BODY_2|0
+normative decision rules|JJ NN NNS|BODY_6|0
+the same strength|DT JJ NN|BODY_2|0
+the first one|DT JJ CD|BODY_2|0
+each received request|DT VBN NN|BODY_20|0
+the first hand|DT JJ NN|BODY_6|0
+rank-2-expert agent withdraws|JJ NN NNP|BODY_9|0
+the cost increases|DT NN NNS|BODY_11:BODY_7|0
+a new redundancy|DT JJ NN|BODY_5|0
+( î± )|-LRB- NNP -RRB-|BODY_6|0
+a stigmergic approach|DT JJ NN|BODY_2|0
+the same agent|DT JJ NN|BODY_4|0
+a cost value|DT NN NN|BODY_4|0
+then the conflict|RB DT NN|BODY_17|0
+the simulation )|DT NN -RRB-|BODY_7|0
+three other simulations|CD JJ NNS|BODY_15|0
+these four propositions|DT CD NNS|BODY_2|0
+a set {|DT NN NN|BODY_3|0
+tk â‰ ¥|JJ NN NN|BODY_16|0
+the global swarm|DT JJ NN|BODY_7|0
+each other cannot|DT JJ NN|BODY_3|0
+each agent sk|DT NN NN|BODY_2|0
+the same number|DT JJ NN|BODY_3|0
+their geographical positions|PRP$ JJ NNS|BODY_3|0
+only 10 %|RB CD NN|BODY_8|0
+a multi-agent approach|DT JJ NN|BODY_2|0
+the communication possibilites|DT NN NNS|BODY_3|0
+î±|PRP|BODY_33:BODY_1:BODY_19|0
+pos( r )|JJ NN -RRB-|BODY_7|0
+rcsi = r|FW SYM NN|BODY_12|0
+modcsj âˆˆ {2|JJ NN NN|BODY_14|0
+a local agreement|DT JJ NN|BODY_4|0
+highly constrained problems|RB VBN NNS|BODY_2|0
+} reception )|FW NN -RRB-|BODY_12|0
+modc = â¬2|NN SYM CD|BODY_20|0
+observations|NNS|BODY_4:BODY_29|0
+their plastic interlacing|PRP$ NN NN|BODY_5|0
+â¬2 6.4 generalization|CD CD NN|BODY_15|0
+the second one|DT JJ CD|BODY_6|0
+07 ) 291|CD -RRB- CD|BODY_5|0
+data( k )|JJ NN -RRB-|BODY_6:BODY_5|0
+a lower value|DT JJR NN|BODY_34|0
+the more redundancies|DT RBR NNS|BODY_3|0
+the current requests|DT JJ NNS|BODY_4|0
+each received piece|DT VBN NN|BODY_13|0
+the incoming information|DT NN NN|BODY_6|0
+¤ i â‰|JJ FW VBP|BODY_10|0
+the realization|DT NN|BODY_2:BODY_3:BODY_4|0
+sj âˆˆ sk|JJ NN NN|BODY_9|0
+si | .|s||FW NN FW|BODY_12|0
+a single entity|DT JJ NN|BODY_4|0
+the total number|DT JJ NN|BODY_14|0
+a new piece|DT JJ NN|BODY_6|0
+each pair conflict|DT NN NN|BODY_2|0
+mod( c )|JJ NN -RRB-|BODY_21|0
+the major strategy|DT JJ NN|BODY_6|0
+the geographic position|DT JJ NN|BODY_8|0
+the second hand|DT JJ NN|BODY_12|0
+a coordination step|DT NN NN|BODY_1|0
+the discussion round|DT NN NN|BODY_4|0
+a ground station|DT NN NN|BODY_6|0
+a single one|DT JJ NN|BODY_5|0
+the old information|DT JJ NN|BODY_2|0
+the request priority|DT NN NN|BODY_11|0
+07 ) as|CD -RRB- IN|BODY_5|0
+satellites|NNS|BODY_4:BODY_7|0
+an expert notion|DT JJ NN|BODY_3|0
+an interaction [9]|DT NN NN|BODY_3|0
+each received candidacy|DT VBN NN|BODY_24|0
+âˆƒ v âš†|DT FW FW|BODY_1|0
+the constraint rate|DT NN NN|BODY_3|0
+the 74-request simulations|DT JJ NNS|BODY_5|0
+the others agents|DT NNS NNS|BODY_5|0
+the last moment|DT JJ NN|BODY_6|0
+sj âˆˆ vicinity(si|JJ NN NNS|BODY_4|0
+the geographical positions|DT JJ NNS|BODY_2|0
+( 1 )|-LRB- CD -RRB-|BODY_5|0
+a higher reduction|DT JJR NN|BODY_4|0
+the first scenario|DT JJ NN|BODY_4|0
+the ith expert|DT JJS NN|BODY_4|0
+the knowledgeable world|DT JJ NN|BODY_6|0
+the global cost|DT JJ NN|BODY_13|0
+little constrained problems|JJ JJ NNS|BODY_2|0
+much more reduced|RB JJR VBN|BODY_27|0
+the ground intervention|DT NN NN|BODY_7|0
+a large horizon|DT JJ NN|BODY_11|0
+more complex problems|RBR JJ NNS|BODY_7|0
+a local plan|DT JJ NN|BODY_3|0
+a . si|DT . FW|BODY_10|0
+the best conditions|DT JJS NNS|BODY_7|0
+’ tbeg(rc )||JJ JJ NN|BODY_6|0
+its modality changes|PRP$ NN NNS|BODY_5|0
+si and rc|FW CC NNP|BODY_13:BODY_24|0
+all informed simulations|DT JJ NNS|BODY_2|0
+its knowledge bases|PRP$ NN NNS|BODY_17|0
+4 i .e|CD FW NN|BODY_13|0
+a total order|DT JJ NN|BODY_5|0
+the concerned agents|DT JJ NNS|BODY_2|0
+sk âˆª {sj}|NN NN NN|BODY_17|0
+the temporal complexity|DT JJ NN|BODY_1:BODY_8|0
+the cost payoff|DT NN NN|BODY_31|0
+the vicinity relation|DT NN NN|BODY_3|0
+observation tbeg( r|NN NN NN|BODY_7|0
+the collective level|DT JJ NN|BODY_4|0
+a common knowledge|DT JJ NN|BODY_7|0
+a fixed order|DT JJ NN|BODY_5|0
+private decision rules|JJ NN NNS|BODY_2|0
+a decision module|DT NN NN|BODY_14|0
+nearly the same|RB DT JJ|BODY_12|0
+account|NN|BODY_2:BODY_3:BODY_7|0
+a and s2|DT CC NN|BODY_3|0
+gossip protocols [22|NN NNS NN|BODY_1|0
+the external update|DT JJ NN|BODY_6|0
+s2|NNS|BODY_2:BODY_4:BODY_9|0
+si and sj|FW CC RB|BODY_3|0
+the lowest number|DT JJS NN|BODY_8|0
+the suggested protocol|DT VBN NN|BODY_3|0
+their own plan|PRP$ JJ NN|BODY_3|0
+the two agents|DT CD NNS|BODY_5|0
+the new one|DT JJ CD|BODY_3|0
+sj two agents|RB CD NNS|BODY_2|0
+the highest )|DT JJS -RRB-|BODY_4|0
+3.1 satellite swarm|CD NN NN|BODY_1|0
+k 2. sj|NN CD JJ|BODY_24|0
+the information [33]|DT NN NN|BODY_10|0
+the mission return|DT NN NN|BODY_4|0
+the realization dates|DT NN NNS|BODY_4|0
+a knowledge modification|DT NN NN|BODY_5|0
+short time intervals|JJ NN NNS|BODY_4|0
+a planned observation|DT JJ NN|BODY_18|0
+itself|PRP|BODY_11:BODY_5:BODY_4:BODY_7|0
+the boolean br|DT JJ NN|BODY_3|0
+a competitive strategy|DT JJ NN|BODY_4|0
+an uncertain environment|DT JJ NN|BODY_1|0
+an cost threshold|DT NN NN|BODY_2|0
+the protocol results|DT NN NNS|BODY_11|0
+each request r|DT NN NN|BODY_1|0
+a shorter time|DT JJR NN|BODY_4|0
+the other one|DT JJ CD|BODY_6:BODY_4|0
+a minimum duration|DT NN NN|BODY_1|0
+the satellite swarm|DT NN NN|BODY_4|0
+all the conflicts|PDT DT NNS|BODY_1|0
+a priority threshold|DT NN NN|BODY_2|0
+the general case|DT JJ NN|BODY_1|0
+aamas 07 )|NN CD -RRB-|BODY_4|0
+the drastic politics|DT JJ NNS|BODY_1|0
+the communication process|DT NN NN|BODY_21|0
+all the others|PDT DT NNS|BODY_4|0
+any physical interaction|DT JJ NN|BODY_9|0
+satellite swarms|NN NNS|BODY_1:BODY_2:BODY_3|0
+the cost value|DT NN NN|BODY_6|0
+the whole plan|DT JJ NN|BODY_4|0
+a second point|DT JJ NN|BODY_1|0
+a judicious positioning|DT JJ NN|BODY_1|0
+âˆª {k} b|FW FW NN|BODY_3|0
+the informed simulation|DT JJ NN|BODY_1|0
+this cost notion|DT NN NN|BODY_1|0
+4.4 properties communication|CD NNS NN|BODY_1|0
+the cost|DT NN|BODY_5:BODY_1:BODY_9|0
+the lower cost|DT JJR NN|BODY_5|0
+the satellite orbits|DT NN NNS|BODY_4|0
+an on-board planner|DT JJ NN|BODY_5|0
+the swarm )|DT JJ -RRB-|BODY_14|0
+a given agent|DT VBN NN|BODY_1|0
+the same satellite|DT JJ NN|BODY_5|0
+such partial allocations|JJ JJ NNS|BODY_1|0
+a temporal timestamp|DT JJ NN|BODY_14|0
+its former state|PRP$ JJ NN|BODY_5|0
+a multi-agent context|DT JJ NN|BODY_1|0
+k ( 1.a.i)|NN -LRB- CD|BODY_7|0
+respective candidacies cs1|JJ NNS NNS|BODY_6|0
+the individual level|DT JJ NN|BODY_1|0
+( 1.a.ii )|-LRB- CD -RRB-|BODY_4|0
+3 i .e|CD NN NN|BODY_1|0
+a common clock|DT JJ NN|BODY_4|0
+the same reason|DT JJ NN|BODY_5|0
+our application|PRP$ NN|BODY_2:BODY_1|0
+a given object|DT VBN NN|BODY_7|0
+themselves|PRP|BODY_6:BODY_2:BODY_4|0
+updates|NNS|BODY_23:BODY_2|0
+€ k|VBP NN|BODY_18:BODY_4:BODY_7|0
+modcsi|NNS|BODY_13:BODY_2:BODY_14|0
+2 )|CD -RRB-|BODY_6:BODY_2|0
+the complexity|DT NN|BODY_1:BODY_2:BODY_3|0
+costsi|NNS|BODY_2:BODY_4|0
+the constellation|DT NN|BODY_5:BODY_3|0
+both agents|DT NNS|BODY_2:BODY_1:BODY_8|0
+.|s| ||FW FW|BODY_11:BODY_7|0
+aamas|NN|BODY_4|0
+parameters|NNS|BODY_2:BODY_10|0
+( î±|-LRB- NNP|BODY_3:BODY_10|0
+protocol 3|NN CD|BODY_6:BODY_16:BODY_2|0
+the protocol|DT NN|BODY_6:BODY_1|0
+¤ k|JJ FW|BODY_6:BODY_11:BODY_20|0
+sj|JJ|BODY_13:BODY_3:BODY_20|0
+priorities|NNS|BODY_2:BODY_4|0
+tk >|JJ NN|BODY_18:BODY_4|0
+observation|NN|BODY_5:BODY_14:BODY_7:BODY_8|0
+this work|DT NN|BODY_6:BODY_2|0
+knowledge|NN|BODY_5:BODY_3:BODY_4|0
+the others|DT NNS|BODY_4:BODY_8|0
+scenario 1|NN CD|BODY_13:BODY_3|0
+teamagent [31]|NN NN|BODY_3|0
+isolated agents|VBN NNS|BODY_6:BODY_5:BODY_3|0
+our problem|PRP$ NN|BODY_3|0
+information transmission|NN NN|BODY_2|0
+saved resources|VBN NNS|BODY_2|0
+the length|DT NN|BODY_3|0
+these protocols|DT NNS|BODY_2|0
+space contexts|NN NNS|BODY_2|0
+r âˆˆ|NN NN|BODY_32:BODY_16:BODY_18:BODY_7|0
+each satellite|DT NN|BODY_3:BODY_4|0

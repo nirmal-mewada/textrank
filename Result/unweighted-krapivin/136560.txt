@@ -1,0 +1,1496 @@
+which|WDT|BODY_12:BODY_11:ABSTRACT_3:BODY_2:BODY_3:BODY_14:BODY_4:BODY_6:BODY_5:BODY_10:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_11:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_9|0
+the constraints checker|DT NNS NN|BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the spacecraft|DT NN|BODY_6:BODY_11:BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4:BODY_8|0
+commands|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_8:BODY_9|0
+the edge|DT NN|BODY_12:BODY_11:BODY_21:BODY_26:BODY_2:BODY_14:BODY_3:BODY_4:BODY_6:BODY_32:BODY_5:BODY_31:BODY_1:BODY_7:BODY_8:BODY_9|0
+the sequence|DT NN|BODY_6:BODY_5:BODY_11:BODY_1:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+the command|DT NN|BODY_12:BODY_6:BODY_5:BODY_11:BODY_17:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the algorithm|DT NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7|0
+the processes|DT NNS|BODY_6:BODY_11:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+the constraints graph|DT NNS NN|BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+the process|DT NN|BODY_6:BODY_11:BODY_5:BODY_17:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9:BODY_20|0
+the constraints|DT NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_8|0
+a command|DT NN|BODY_5:BODY_16:BODY_13:BODY_25:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+processes|NNS|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+precedence constraints|NN NNS|BODY_5:BODY_1:BODY_2:BODY_3:BODY_10:BODY_4|0
+the user|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+)|-RRB-|BODY_6:BODY_11:BODY_16:BODY_13:BODY_3:BODY_10:BODY_4:BODY_8|0
+there|EX|BODY_1:BODY_2:BODY_4:BODY_8|0
+example|NN|BODY_2:BODY_1:BODY_4:BODY_8|0
+an edge|DT NN|BODY_5:BODY_13:BODY_1:BODY_2:BODY_4:BODY_10|0
+the constraint|DT NN|BODY_6:BODY_5:BODY_1:BODY_2:BODY_4:BODY_10:BODY_7|0
+one|CD|BODY_6:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_9|0
+galileo|NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+c j|NN NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_14:BODY_4:BODY_7:BODY_8|0
+s|PRP|BODY_12:BODY_6:BODY_11:BODY_16:BODY_27:BODY_1:BODY_24:BODY_4:BODY_8|0
+they|PRP|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_9|0
+c i|NN NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_4:BODY_9|0
+timing constraints|NN NNS|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+each command|DT NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+data-consistency constraints|NN NNS|BODY_6:BODY_5:ABSTRACT_4:BODY_2:BODY_1:BODY_3:BODY_7|0
+the graph|DT NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|0
+the commands|DT NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_7|0
+the concurrent execution|DT JJ NN|BODY_6:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7|0
+times|NNS|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the predicate|DT NN|BODY_5:BODY_2:BODY_4:BODY_7:BODY_9|0
+events|NNS|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_10:BODY_7|0
+the galileo spacecraft|DT NN NN|ABSTRACT_4:BODY_1:BODY_2:BODY_3|0
+terms|NNS|BODY_6:BODY_5:BODY_2:BODY_3|0
+an example|DT NN|BODY_6:BODY_1:BODY_2|0
+gc i|JJ NN|BODY_6:BODY_2:BODY_3:BODY_10:BODY_9|0
+the problem|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+edges|NNS|BODY_11:BODY_5:BODY_3:BODY_4|0
+this|DT|BODY_1:BODY_2:BODY_3|0
+time|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+error recovery|NN NN|BODY_6:BODY_1:BODY_4|0
+the number|DT NN|BODY_1:BODY_2:BODY_3:BODY_19:BODY_7|0
+each edge|DT NN|BODY_1:BODY_2:BODY_3:BODY_4:BODY_8|0
+instances|NNS|BODY_17:BODY_24:BODY_4:BODY_8:BODY_30:BODY_20|0
+the system|DT NN|BODY_6:BODY_5:BODY_2:BODY_10:BODY_7|0
+command c i|NN NN NN|BODY_6:BODY_5:BODY_15:BODY_21:BODY_2:BODY_24|0
+c 24|NN CD|BODY_5:BODY_2:BODY_3:BODY_4|0
+precedence|NN|BODY_2:ABSTRACT_3:BODY_4|0
+the set|DT NN|BODY_6:BODY_16:BODY_2:BODY_1:BODY_14:BODY_4|0
+the value|DT NN|BODY_12:BODY_5:BODY_2:BODY_1:BODY_8|0
+c 22|NN CD|BODY_3:BODY_4:BODY_7:BODY_8|0
+the intercommand constraints|DT NN NNS|BODY_5:BODY_2:BODY_3:BODY_4|0
+them|PRP|BODY_6:BODY_5:BODY_3:BODY_9|0
+the work|DT NN|BODY_5:BODY_2:BODY_1|0
+spacecraft|NN|BODY_6:BODY_5:BODY_1:BODY_4:BODY_7|0
+(|-LRB-|BODY_6:BODY_5:BODY_10:BODY_4|0
+fig|NN|BODY_5:BODY_21:BODY_1|0
+one process|CD NN|BODY_12:BODY_6:BODY_2:BODY_8|0
+safety properties|NN NNS|BODY_6:BODY_5:BODY_1:BODY_3|0
+the form|DT NN|BODY_12:BODY_5:BODY_2:BODY_3|0
+unsafe schedules|JJ NNS|BODY_5:BODY_2:BODY_4|0
+error-recovery processes|JJ NNS|BODY_6:BODY_5:BODY_2|0
+a precedence edge|DT NN NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+a node|DT NN|BODY_6:BODY_2:BODY_4:BODY_7:BODY_9|0
+the constraints checker algorithm|DT NNS NN NN|BODY_1:BODY_2:BODY_4|0
+command c j|NN NN NN|BODY_6:BODY_3:BODY_4:BODY_7:BODY_9|0
+the timing constraints|DT NN NNS|BODY_5:BODY_2:BODY_10:BODY_4|0
+a c i|DT NN NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+the design|DT NN|BODY_6:BODY_5:BODY_1|0
+every c j|DT NN NN|BODY_3:BODY_4:BODY_7:BODY_9|0
+the code|DT NN|BODY_6:BODY_1:BODY_7|0
+intercommand constraints|NN NNS|BODY_1:BODY_3:BODY_4|0
+this work|DT NN|BODY_1:BODY_2:ABSTRACT_1|0
+an instance|DT NN|BODY_4:BODY_7:BODY_8|0
+the order|DT NN|BODY_5:BODY_3|0
+the range|DT NN|BODY_6:BODY_2:BODY_3:BODY_4|0
+the time|DT NN|BODY_2:BODY_1:BODY_4|0
+the nodes|DT NNS|BODY_6:BODY_2:BODY_4:BODY_8|0
+a constraint|DT NN|BODY_12:BODY_11:BODY_1:BODY_3:BODY_9|0
+constraints|NNS|BODY_5:BODY_11:BODY_1:BODY_3|0
+a constraints graph|DT NNS NN|BODY_1:BODY_3:BODY_7|0
+c|NN|BODY_5:BODY_18:BODY_21:BODY_2:BODY_14:BODY_4|0
+precedence edges|NN NNS|BODY_6:BODY_5:BODY_15:BODY_3:BODY_7|0
+the case|DT NN|BODY_1:BODY_2:BODY_3|0
+the scan platform|DT JJ NN|BODY_5:BODY_4|0
+the details|DT NNS|BODY_5:BODY_2|0
+the result|DT NN|BODY_5:BODY_2:BODY_1|0
+a|DT|BODY_4:BODY_8|0
+command|NN|BODY_6:BODY_5:BODY_3:BODY_7|0
+the edges|DT NNS|BODY_1:BODY_4:BODY_10:BODY_7|0
+concurrency|NN|BODY_2:BODY_4|0
+error-recovery software|JJ NN|BODY_2:BODY_3:BODY_4|0
+an algorithm|DT NN|BODY_11:BODY_2:BODY_1:ABSTRACT_1|0
+the other processes|DT JJ NNS|BODY_3:BODY_4:BODY_9|0
+isolation|NN|BODY_4:BODY_7:BODY_8|0
+the jet propulsion laboratory|DT NN NN NN|BODY_6:BODY_3|0
+the worst-case execution time|DT JJ NN NN|BODY_11:BODY_1:BODY_3:BODY_4|0
+start times|NN NNS|BODY_5|0
+a failure|DT NN|BODY_1:BODY_2:BODY_4|0
+the fact|DT NN|BODY_1:BODY_3:BODY_4|0
+the results|DT NNS|BODY_5:BODY_1:BODY_2|0
+command sequences|NN NNS|BODY_1:BODY_3|0
+timing requirements|NN NNS|BODY_13:BODY_3:BODY_4|0
+this paper|DT NN|BODY_1:BODY_2|0
+p i|NN NN|BODY_13:BODY_1:BODY_3:BODY_20|0
+|NN|BODY_6:BODY_3:BODY_7:BODY_9|0
+other applications|JJ NNS|BODY_2|0
+the aacs|DT NNS|BODY_5:BODY_10:BODY_7|0
+the question|DT NN|BODY_2:BODY_3|0
+an event|DT NN|BODY_6:BODY_3:BODY_7|0
+a process|DT NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+means|NNS|BODY_6:BODY_5:BODY_9|0
+other commands|JJ NNS|BODY_2:BODY_3:BODY_4|0
+the context|DT NN|BODY_5:BODY_1:BODY_2|0
+spacecraft commands|NN NNS|BODY_14:BODY_3:BODY_4|0
+liveness properties|NN NNS|BODY_6:BODY_2:BODY_3|0
+the time interval|DT NN NN|BODY_2:BODY_7|0
+1|CD|BODY_2:BODY_3:BODY_4:BODY_7|0
+a critical sequence|DT JJ NN|BODY_1:BODY_3|0
+unsafe interleavings|JJ NNS|BODY_12:BODY_3|0
+the activity|DT NN|BODY_6:BODY_5:BODY_3|0
+timing|NN|BODY_5:BODY_17:BODY_3|0
+the capability|DT NN|BODY_3|0
+the earliest time|DT JJS NN|BODY_11:BODY_1:BODY_2:BODY_8|0
+part|NN|BODY_2:BODY_3|0
+an outside-interval constraint|DT JJ NN|BODY_3:BODY_10|0
+development|NN|BODY_5:BODY_4|0
+more|JJR|BODY_5:BODY_28:BODY_16|0
+both nodes|DT NNS|BODY_6:BODY_8|0
+the analysis|DT NN|BODY_1:BODY_4|0
+a special case|DT JJ NN|BODY_2:BODY_8|0
+most|JJS|BODY_4|0
+constraint|NN|BODY_1:BODY_2:BODY_7|0
+poss|NN|BODY_28:BODY_7:BODY_9|0
+an interval|DT NN|BODY_3:BODY_4:BODY_7|0
+the example|DT NN|BODY_3:BODY_7:BODY_8|0
+consideration|NN|BODY_12:BODY_2:BODY_7|0
+jupiter|NN|BODY_5:BODY_8:BODY_9|0
+k|NN|BODY_5:BODY_2:BODY_9|0
+the two processes|DT CD NNS|BODY_6:BODY_16|0
+the research|DT NN|BODY_5:BODY_2|0
+iowa state university|DT NN NN|BODY_5:BODY_3|0
+respect|NN|ABSTRACT_4:BODY_3|0
+time t 1|NN NN CD|BODY_3:BODY_29:BODY_9|0
+the opportunity|DT NN|BODY_2:BODY_1|0
+the time complexity|DT NN NN|BODY_2|0
+c j  )|NN NN NN -RRB-|BODY_12:BODY_6|0
+a number|DT NN|BODY_5:BODY_3|0
+the edge type|DT NN NN|BODY_1:BODY_3:BODY_30|0
+code|NN|BODY_3|0
+the model|DT NN|BODY_6:BODY_1:ABSTRACT_1|0
+one command|NN NN|BODY_6:BODY_5:BODY_4|0
+commands c i and c j|NNS NN NN CC NN NN|BODY_2:BODY_8|0
+each process|DT NN|BODY_6:BODY_2:BODY_1|0
+a sequence|DT NN|BODY_2:BODY_4|0
+the actions|DT NNS|BODY_2:BODY_9|0
+a set|DT NN|BODY_5:BODY_2:BODY_4|0
+six|CD|BODY_2:BODY_3|0
+examples|NNS|BODY_6:BODY_4|0
+t 1|NN CD|BODY_5:BODY_3:BODY_8|0
+the state|DT NN|BODY_6:BODY_5:BODY_2|0
+p j|NN RB|BODY_2:BODY_3:BODY_10|0
+the effect|DT NN|BODY_6:BODY_2|0
+possible times|JJ NNS|BODY_2:BODY_3:BODY_4:BODY_9|0
+p 6 issued c 24|NN CD VBN NN CD|BODY_5:BODY_3:BODY_4|0
+these|DT|BODY_2:BODY_1|0
+aacs|NNS|BODY_14:BODY_3:BODY_10|0
+many|JJ|BODY_1:BODY_4|0
+a system specification|DT NN NN|BODY_3|0
+the prior or permanent  software|DT JJ CC JJ JJ NN|BODY_3|0
+process|NN|BODY_32:BODY_26:BODY_4|0
+this area|DT NN|BODY_6:BODY_3|0
+a global variable|DT JJ NN|BODY_2|0
+the command sequence|DT NN NN|BODY_4:BODY_8|0
+a 2/3-second granularity|DT JJ NN|BODY_2|0
+a notion|DT NN|BODY_3|0
+a software development tool|DT NN NN NN|BODY_2|0
+as well as other documented system-performance|RB RB RB JJ VBN NN|BODY_2|0
+error-recovery processes and schedules|JJ NNS CC NNS|BODY_3|0
+operational specifications|JJ NNS|BODY_3|0
+powerful formalisms|JJ NNS|BODY_2|0
+relatively coarse-grained timing constraints|RB JJ NN NNS|BODY_3|0
+software engineering ,18:8|NN NN NNS|BODY_3|0
+that precedence|DT NN|BODY_2|0
+the ieee transactions|DT NN NNS|BODY_2|0
+the other spacecraft subsystems|DT JJ NN NNS|BODY_2|0
+the specifications and behavior|DT NNS CC NN|BODY_3|0
+the static portions|DT JJ NNS|BODY_3|0
+those correctness properties|DT NN NNS|BODY_2|0
+two buses|CD NNS|BODY_3|0
+the behavior|DT NN|BODY_5|0
+the fixed timeline|DT VBN NN|BODY_6|0
+clarity|NN|BODY_2:BODY_4|0
+a total|DT NN|BODY_2:BODY_7|0
+' timelines|'' NNS|BODY_5:BODY_3|0
+t 2|NN CD|BODY_5:BODY_4:BODY_9|0
+the national aeronautics and space administration|DT JJ NNS CC NN NN|BODY_5:BODY_10|0
+that command|DT NN|BODY_31:BODY_4:BODY_7|0
+use|NN|BODY_6:BODY_4|0
+a time|DT NN|BODY_2:BODY_8|0
+all possible error-recovery schedules|DT JJ NN NNS|BODY_2|0
+interval temporal logic|NN JJ NN|BODY_2|0
+scarce spare components|JJ JJ NNS|BODY_2|0
+the referees|DT NNS|BODY_2|0
+these violations|DT NNS|BODY_2|0
+the identity|DT NN|BODY_12:BODY_15|0
+safe times|JJ NNS|BODY_2:BODY_3:BODY_7|0
+fact|NN|BODY_2:BODY_1|0
+c 32|NN CD|BODY_5:BODY_7|0
+real-time constraints|JJ NNS|BODY_1:BODY_3|0
+expansion|NN|BODY_3|0
+an aacs init error-recovery response|DT NNS NN NN NN|BODY_3:BODY_7|0
+control|NN|BODY_5|0
+flight-control|NN|BODY_3|0
+the timing|DT NN|BODY_3:BODY_7|0
+values|NNS|BODY_6:BODY_2|0
+a predicate|DT NN|BODY_6:BODY_4|0
+the action|DT NN|BODY_5:BODY_9|0
+e .g.|NN NNP|BODY_6:BODY_7|0
+what|WP|BODY_1:BODY_4:BODY_9|0
+an edge type|DT NN NN|BODY_3|0
+indicators|NNS|BODY_9|0
+its computers|PRP$ NNS|BODY_8|0
+the 400-newton burn )|DT JJ NN -RRB-|BODY_8|0
+the complicated timing issues|DT JJ NN NNS|BODY_3|0
+10 seconds|CD NNS|BODY_3:BODY_4|0
+every process|DT NN|BODY_3:BODY_4|0
+the update|DT NN|BODY_5:BODY_2|0
+the head|DT NN|BODY_5:BODY_2|0
+the schedule|DT NN|BODY_7|0
+its nodes|PRP$ NNS|BODY_6:BODY_14|0
+jupiter orbital insertion|NN NN NN|BODY_3|0
+account|NN|BODY_3|0
+32|CD|BODY_5|0
+other subsystems|JJ NNS|BODY_6:BODY_5|0
+these commands|DT NNS|BODY_2:BODY_1|0
+a scan command|DT NN NN|BODY_2:BODY_3|0
+the x-band transmitter|DT NN NN|BODY_5|0
+the execution|DT NN|BODY_5:BODY_4|0
+5 1:58:22 2:00:13.2 6 2:00:13.3|CD CD CD CD CD|BODY_6|0
+craft|NN|BODY_4|0
+spectrometer power|NN NN|BODY_4|0
+convention|NN|BODY_1:BODY_3|0
+the predicates|DT NNS|BODY_1:BODY_3|0
+0|CD|BODY_5:BODY_7|0
+new or temporary software|JJ CC JJ NN|BODY_2|0
+the availability|DT NN|BODY_4|0
+the timing aspects|DT NN NNS|BODY_2|0
+timing properties|NN NNS|BODY_4|0
+failures|NNS|BODY_3|0
+34|CD|BODY_6|0
+7 2:37:49.3|CD CD|BODY_7|0
+a power-on- reset failure|DT NN NN NN|BODY_2|0
+analyzed addresses|VBN NNS|BODY_2|0
+avionics systems|NNS NNS|BODY_6|0
+many process-control|JJ NN|BODY_2|0
+one-half minute|JJ NN|BODY_6|0
+science instruments|NN NNS|BODY_9|0
+the completion|DT NN|BODY_9|0
+the health|DT NN|BODY_10|0
+'s mailing address|POS NN NN|BODY_2|0
+the time parameter|DT NN NN|BODY_15|0
+practice|NN|BODY_5:BODY_1|0
+correct results|JJ NNS|BODY_4|0
+that point|DT NN|BODY_6:BODY_8|0
+schedulers|NNS|BODY_3|0
+c 0|NN CD|BODY_16:BODY_9|0
+the rules|DT NNS|BODY_19:BODY_9|0
+p. jones|NN NNS|BODY_2|0
+the comet rendezvous/asteriod flyby|DT VBN NN NN|BODY_7|0
+the tools|DT NNS|BODY_3|0
+illegal|JJ|BODY_8|0
+the constraints checker (|DT NNS NN -LRB-|BODY_2|0
+both more science|DT RBR NN|BODY_4|0
+the constraint checker|DT NN NN|BODY_1:BODY_7|0
+recent research results|JJ NN NNS|BODY_2|0
+specific actions|JJ NNS|BODY_5|0
+replacement-heater power|NN NN|BODY_5|0
+distributed architectures|VBN NNS|BODY_3|0
+a critical command sequence|DT JJ NN NN|BODY_8|0
+these processes|DT NNS|BODY_6|0
+timing and precedence constraints corresponds|NN CC NN NNS NNS|BODY_2|0
+a given process cycle|DT VBN NN NN|BODY_6|0
+a portion|DT NN|BODY_5|0
+an error-recovery process|DT JJ NN|BODY_5|0
+an error condition|DT NN NN|BODY_8|0
+groups|NNS|BODY_2|0
+the required tail-node command|DT VBN NN NN|BODY_3|0
+scheduling concentrates|NN NNS|BODY_2|0
+completion|NN|BODY_3|0
+department|NN|BODY_3|0
+variable times|JJ NNS|BODY_14|0
+t|NN|BODY_5:BODY_26|0
+the modeling|DT NN|BODY_2:BODY_3|0
+this example|DT NN|BODY_1:BODY_4|0
+the timing constraint|DT NN NN|BODY_2|0
+the notion|DT NN|BODY_1:BODY_2|0
+the use|DT NN|BODY_3|0
+order|NN|BODY_2:BODY_1|0
+the standard formal division|DT JJ JJ NN|BODY_3|0
+a range|DT NN|BODY_5:BODY_3|0
+the issuance|DT NN|BODY_12:BODY_15:BODY_1:BODY_4|0
+rules|NNS|BODY_6:BODY_2|0
+six hours|CD NNS|BODY_4|0
+interest|NN|BODY_2:BODY_10|0
+a time-constrained edge|DT JJ NN|BODY_1:BODY_4|0
+a distinct aacs configuration|DT JJ NNS NN|BODY_6|0
+other spacecraft|JJ NN|BODY_3|0
+both spacecraft|DT NN|BODY_3|0
+the average number|DT JJ NN|BODY_23:BODY_29|0
+craf ) spacecraft|NN -RRB- NN|BODY_8|0
+only periodic and deadline specifications|RB JJ CC NN NNS|BODY_2|0
+command-and|NN|BODY_4|0
+those cases|DT NNS|BODY_2:BODY_3|0
+the precedence constraint|DT NN NN|BODY_5:BODY_2|0
+both time parameters|DT NN NNS|BODY_3|0
+this variable|DT JJ|BODY_4|0
+an invocation|DT NN|BODY_8|0
+that process|DT NN|BODY_4:BODY_8|0
+output queues|NN NNS|BODY_7|0
+many interactions|JJ NNS|BODY_7|0
+pressure anomalies|NN NNS|BODY_8|0
+the probe relay/jupiter orbital insertion|DT NN NN NN NN|BODY_4|0
+a non-critical sequence|DT JJ NN|BODY_2|0
+a spacecraft command|DT NN NN|BODY_4|0
+ command c|JJ NN NN|BODY_2:BODY_3|0
+a complex system|DT JJ NN|BODY_6|0
+a spacecraft problem|DT NN NN|BODY_2|0
+power|NN|BODY_7|0
+relay/joi ) critical sequence ( resident|NNP -RRB- JJ NN -LRB- NN|BODY_5|0
+[22]|NN|BODY_2|0
+a similar abstraction|DT JJ NN|BODY_1|0
+a ten-day period|DT JJ NN|BODY_2|0
+deadlines [10 , 21]|NNS CD , CD|BODY_2|0
+forbidden-combination constraints|NN NNS|BODY_2|0
+petri net extensions model periodic events|FW JJ NNS NN JJ NNS|BODY_1|0
+preliminary results|JJ NNS|BODY_1|0
+remarks|NNS|BODY_2|0
+the entire sequence issues commands|DT JJ NN NNS NNS|BODY_1|0
+the final section offers|DT JJ NN NNS|BODY_1|0
+the paper|DT NN|BODY_2|0
+the remainder|DT NN|BODY_1|0
+boldface|NN|BODY_3|0
+critical sequences|JJ NNS|BODY_6:BODY_7:BODY_8|0
+mechanical verification|JJ NN|BODY_2|0
+an activity ( e .g.|DT NN -LRB- NN NN|BODY_7|0
+interleaved commands|JJ NNS|BODY_5|0
+a typical run|DT JJ NN|BODY_7|0
+any time|DT NN|BODY_3|0
+interval temporal logic [11|NN JJ NN NNS|BODY_4|0
+a precedence constraint|DT NN NN|BODY_2:BODY_1:BODY_9|0
+the fixed start time|DT JJ NN NN|BODY_11:BODY_7|0
+domains|NNS|BODY_3|0
+response|NN|BODY_7|0
+time-tagged commands|JJ NNS|BODY_3|0
+related problems|VBN NNS|BODY_2|0
+error-recovery responses|JJ NNS|BODY_4|0
+each instance|DT NN|BODY_5:BODY_1|0
+direct the spacecraft|JJ DT NN|BODY_4|0
+more accurate modeling|RBR JJ NN|BODY_3|0
+the software|DT NN|BODY_6:BODY_2|0
+temporal logic|JJ NN|BODY_2|0
+1:32:35.2 4 1:32:35.3|CD CD CD|BODY_5|0
+the s-band transmitter and powering|DT NN NN CC NN|BODY_4|0
+time t|NN NN|BODY_5:BODY_18|0
+the synchronization flag|DT NN NN|BODY_7|0
+temporal logic model checking|JJ NN NN NN|BODY_3|0
+concurrent execution|JJ NN|BODY_2|0
+an analysis aid|DT NN NN|BODY_3|0
+time tags|NN NNS|BODY_5|0
+model processes|JJ NNS|BODY_2|0
+output|NN|BODY_5:BODY_4|0
+the existing core suffices|DT VBG NN NNS|BODY_3|0
+the planet jupiter|DT NN NN|BODY_5|0
+c i and c j|NN NN CC NN NNS|BODY_1:BODY_10|0
+the constraints checker ( fig|DT NNS NN -LRB- NN|BODY_2:BODY_3|0
+other asynchronous systems|JJ JJ NNS|BODY_4|0
+california institute|NN NN|BODY_7|0
+the command and data subsystem or|DT NN CC NNS NN CC|BODY_6|0
+thermal|DT|BODY_6|0
+an ordinal iteration|DT JJ NN|BODY_9|0
+' start times|POS NN NNS|BODY_10:BODY_8|0
+the intercommand constraint|DT NN NN|BODY_6:BODY_8|0
+the ability|DT NN|BODY_4|0
+any possibility|DT NN|BODY_2|0
+unplanned interactions|JJ NNS|BODY_2|0
+the representation|DT NN|BODY_8|0
+exposition|NN|BODY_2|0
+interrupt handling|JJ NN|BODY_7|0
+the complexity and time criticality|DT NN CC NN NN|BODY_5|0
+the domain|DT NN|BODY_3|0
+ease|NN|BODY_9|0
+the astronauts|DT NNS|BODY_5|0
+command sequencing|NN NN|BODY_4|0
+timeline )|NN -RRB-|BODY_3|0
+only interactions|JJ NNS|BODY_1:BODY_2|0
+one process ' start time|CD NN '' NN NN|BODY_2|0
+a baseline version|DT NN NN|BODY_2|0
+c seconds|NN NNS|BODY_2|0
+hardware failures|NN NNS|BODY_3|0
+the developers|DT NNS|BODY_2:BODY_8|0
+a positive integer|DT JJ NN|BODY_8|0
+sequence|NN|BODY_4|0
+the collection|DT NN|BODY_5|0
+a future system|DT JJ NN|BODY_5|0
+command c|NN NN|BODY_5:BODY_2|0
+the available methods|DT JJ NNS|BODY_2|0
+the engineering and science|DT NN CC NN|BODY_6|0
+a computer|DT NN|BODY_3|0
+construction|NN|BODY_3|0
+sparse ( galileo|JJ -LRB- NN|BODY_5|0
+spacecraft or data modes|NN CC NN NNS|BODY_4|0
+atomic actions|JJ NNS|BODY_3|0
+their definition|PRP$ NN|BODY_3|0
+some cases|DT NNS|BODY_18|0
+the study|DT NN|BODY_4|0
+one or more instances|CD CC JJR NNS|BODY_3|0
+physical damage|JJ NN|BODY_4|0
+the modeling process|DT JJ NN|BODY_5|0
+8 issued c 32|CD VBN NN CD|BODY_7|0
+computer science|NN NN|BODY_4|0
+minimum interval|JJ NN|BODY_5|0
+modeling timing|JJ NN|ABSTRACT_2|0
+the seven edges|DT CD NNS|BODY_2|0
+the addition|DT NN|BODY_13|0
+more concurrent processors|RBR JJ NNS|BODY_2|0
+the amount|DT NN|BODY_2|0
+more flexibility|JJR NN|BODY_8|0
+more detail|JJR NN|BODY_3|0
+the reachable states|DT JJ NNS|BODY_8|0
+the start|DT NN|BODY_7|0
+a contract|DT NN|BODY_9|0
+the system scheduling algorithms|DT NN NN NNS|BODY_6|0
+errors|NNS|BODY_4|0
+the documented constraint|DT VBN NN|BODY_2:BODY_1|0
+both timing and precedence constraints|DT NN CC NN NNS|BODY_2|0
+a machine|DT NN|BODY_3|0
+a worst-case time field|DT JJ NN NN|BODY_4|0
+launch|NN|BODY_2|0
+the presence|DT NN|BODY_5:BODY_7|0
+the second instance|DT JJ NN|BODY_11|0
+a naming mechanism|DT NN NN|BODY_3|0
+a way|DT NN|BODY_2|0
+whose concurrent execution|WP$ JJ NN|BODY_17|0
+an operational constraint|DT JJ NN|BODY_2|0
+periodic actions|JJ NNS|BODY_3|0
+a good basis|DT JJ NN|BODY_2|0
+c 22 ,c 24|NN CD , CD|BODY_2|0
+the aacs init responses|DT NNS NN NNS|BODY_4|0
+the thruster|DT NN|BODY_5|0
+type|NN|BODY_22:BODY_13|0
+the variable start time|DT JJ NN NN|BODY_9|0
+a specific system architecture|DT JJ NN NN|BODY_2|0
+one which|CD WDT|BODY_3|0
+the earliest and latest start times|DT JJS CC JJS VB NNS|BODY_3|0
+time 2:00:42|NN CD|BODY_6|0
+each case|DT NN|BODY_2|0
+a data-consistency constraint|DT NN NN|BODY_4:BODY_9|0
+conflicting interactions|VBG NNS|BODY_4|0
+incorrect or inconsistent documentation|JJ CC JJ NN|BODY_2|0
+over 1200 commands|IN CD NNS|BODY_6|0
+the control structure|DT NN NN|BODY_2|0
+segments|NNS|BODY_4|0
+the current research|DT JJ NN|BODY_2|0
+similar commands|JJ NNS|BODY_9|0
+( joi|-LRB- FW|BODY_3|0
+each consisting|DT VBG|BODY_5|0
+( |-LRB-|BODY_3|0
+40 edges [6|CD NNS NNS|BODY_5|0
+such process interactions|JJ NN NNS|BODY_3|0
+that isolated processes|DT VBN NNS|BODY_2|0
+the|DT|BODY_6:BODY_4|0
+read/write ) constraints|JJ -RRB- NNS|BODY_9|0
+violations|NNS|BODY_4|0
+a command (|DT NN -LRB-|BODY_10|0
+6= 0)|NN NN|BODY_3|0
+a flexible , embeddable , and relatively simple alternative|DT JJ , JJ , CC RB JJ NN|BODY_2|0
+4|CD|BODY_2:BODY_1|0
+c 32 )|NN CD -RRB-|BODY_3:BODY_10|0
+existential constraints|JJ NNS|BODY_2|0
+the warning flag|DT NN NN|BODY_3|0
+simulation|NN|BODY_3|0
+the five time-constrained edge types|DT CD JJ NN NNS|BODY_2|0
+'s architecture|POS NN|BODY_2|0
+l|NN|BODY_2|0
+the inside-interval|DT NN|BODY_2|0
+the platform|DT NN|BODY_8|0
+]|NN|BODY_10|0
+five virtual machines|CD JJ NNS|BODY_3|0
+the cases|DT NNS|BODY_1|0
+the latest time|DT JJS NN|BODY_3|0
+the cds|DT NNS|BODY_5|0
+e i|NN NN|BODY_2:BODY_1|0
+uplinked commands|JJ NNS|BODY_5|0
+backup hardware components|JJ NN NNS|BODY_5|0
+recent work|JJ NN|BODY_3|0
+the probe entry|DT NN NN|BODY_6|0
+distinct processes|JJ NNS|BODY_3:BODY_10|0
+( one|-LRB- CD|BODY_1|0
+additional constraint types|JJ NN NNS|BODY_3|0
+current research|JJ NN|BODY_1|0
+hardware testbeds|NN NNS|BODY_1|0
+many paths|JJ NNS|BODY_3|0
+outdated documentation )|JJ NN -RRB-|BODY_3|0
+the authors|DT NNS|BODY_1|0
+the effort|DT NN|BODY_1|0
+the spacecraft system|DT NN NN|BODY_3|0
+their comments and suggestions|PRP$ NNS CC NNS|BODY_3|0
+237 lines|CD NNS|BODY_2|0
+the possibility|DT NN|BODY_6|0
+parameters|NNS|BODY_3|0
+powering|NN|BODY_3|0
+a version|DT NN|BODY_3|0
+segment 3 1:17|NN CD CD|BODY_4|0
+a technique|DT NN|BODY_3|0
+most research|RBS NN|BODY_1|0
+an effort|DT NN|BODY_3|0
+the flagged edges|DT JJ NNS|BODY_2|0
+an adjacency list representation|DT NN NN NN|BODY_2|0
+the creation|DT NN|BODY_2|0
+technology|NN|BODY_8|0
+aacs init8|NNS NNS|BODY_4|0
+a correct initial state|DT JJ JJ NN|BODY_2|0
+the software processes|DT NN NNS|BODY_13|0
+tools|NNS|BODY_2|0
+40 nodes|CD NNS|BODY_4|0
+the two |DT CD|BODY_5|0
+hardware advances|NN NNS|BODY_2|0
+the success or failure|DT NN CC NN|BODY_2|0
+four instances|CD NNS|BODY_2|0
+( examples|-LRB- NNS|BODY_8|0
+the emphasis|DT NN|BODY_1:BODY_7|0
+multiple occurrences|JJ NNS|BODY_2|0
+the operating mode|DT NN NN|BODY_12|0
+orbit|NN|BODY_7|0
+place|NN|BODY_3:BODY_8|0
+interaction|NN|BODY_3|0
+above|JJ|BODY_3|0
+the error-recovery scenarios|DT NN NNS|BODY_1:BODY_4|0
+a slew command |DT NN NN|BODY_5|0
+an action|DT NN|BODY_5:BODY_2|0
+6 minutes|CD NNS|BODY_3|0
+the two optics heaters|DT CD NNS NNS|BODY_8|0
+ commands|NNS NNS|BODY_6|0
+the code or unforeseen consequences|DT NN CC JJ NNS|BODY_6|0
+its specification|PRP$ NN|BODY_7|0
+each pair|DT NN|BODY_15:BODY_1|0
+a minimum-interval constraint|DT JJ NN|BODY_2:BODY_1|0
+a variety|DT NN|ABSTRACT_5|0
+whose timeline|WP$ NN|BODY_6:BODY_5:BODY_10:BODY_7|0
+slew|NN|BODY_4:BODY_8|0
+sequences|NNS|BODY_7|0
+a 1995 encounter|DT CD NN|BODY_4|0
+the spacecraft monitors and responds|DT NN NNS CC NNS|BODY_2|0
+grant|NN|BODY_4|0
+the variable|DT JJ|BODY_7:BODY_9|0
+intercommand timing constraints|NN NN NNS|BODY_2|0
+some scheduling|DT NN|BODY_2|0
+no occurrence|DT NN|BODY_5|0
+a hard  time constraint|DT JJ JJ NN NN|BODY_2|0
+the space|DT NN|BODY_3|0
+a single process|DT JJ NN|BODY_6:BODY_8|0
+an embeddable module|DT JJ NN|BODY_5|0
+the adequacy|DT NN|BODY_8|0
+the appendix|DT NN|BODY_5|0
+those features|DT NNS|BODY_2|0
+above offer|JJ NN|BODY_2|0
+the granularity|DT NN|BODY_2|0
+the galileo architecture|DT JJ NN|BODY_2|0
+the difficulty|DT NN|BODY_3|0
+earlier events|JJR NNS|BODY_7|0
+aspects|NNS|BODY_5|0
+addition|NN|BODY_1|0
+interleaving several processes|JJ JJ NNS|BODY_3|0
+that same edge violation|DT JJ NN NN|BODY_4|0
+several different processes|JJ JJ NNS|BODY_4|0
+c i  )|NN FW JJ -RRB-|BODY_35:BODY_11|0
+those edges|DT NNS|BODY_6:BODY_3|0
+not all edge types|RB DT NN NNS|BODY_7|0
+an error|DT NN|BODY_8|0
+an offset|DT VBN|BODY_2|0
+the same timing issues|DT JJ NN NNS|BODY_2|0
+cds computer ) issues commands|POS NN -RRB- NNS NNS|BODY_7|0
+uplink or downlink communication|NN CC NN NN|BODY_5|0
+the precedence constraints|DT NN NNS|BODY_7|0
+a certain command|DT JJ NN|BODY_2|0
+many techniques|JJ NNS|BODY_2|0
+some subset|DT NN|BODY_7|0
+the three timing edges|DT CD NN NNS|BODY_2|0
+this c i|DT NN NN|BODY_6|0
+those|DT|BODY_2|0
+two processes|CD NNS|BODY_2|0
+scientific data|JJ NN|BODY_6|0
+a command )|DT NN -RRB-|BODY_2|0
+e .g. , low-radiation environment  )|NN NNP , JJ NN NN -RRB-|BODY_2|0
+future science instruments|JJ NN NNS|BODY_2|0
+the asynchronous software|DT JJ NN|BODY_5|0
+the event|DT NN|BODY_12:BODY_10|0
+deadline or timeliness requirements|NN CC NN NNS|BODY_11|0
+event-driven systems|JJ NNS|BODY_3|0
+temperature or attitude control|NN CC NN NN|BODY_3|0
+something|NN|BODY_4|0
+an algebraic predicate|DT JJ NN|BODY_2|0
+process p j|NN NN NN|BODY_13|0
+operational situations|JJ NNS|BODY_2|0
+129 instances|CD NNS|BODY_2|0
+ordering requirements|NN NNS|BODY_12|0
+the data output|DT NNS NN|BODY_4|0
+a maximum|DT NN|BODY_2|0
+'s behavior|POS NN|BODY_7|0
+the busiest (|DT JJS -LRB-|BODY_5|0
+the time units|DT NN NNS|BODY_3|0
+interval|NN|BODY_1:BODY_9|0
+the event level|DT NN NN|BODY_2|0
+the mechanical activity|DT JJ NN|BODY_7|0
+seven|CD|BODY_1|0
+these eight errors|DT CD NNS|BODY_2|0
+1200 nodes|CD NNS|BODY_4|0
+restrictions|NNS|BODY_2|0
+possible paths|JJ NNS|BODY_2|0
+sequence activities|NN NNS|BODY_4|0
+the complete unraveling|DT JJ NN|BODY_4|0
+a nominal-to-worst-case|DT NN|BODY_19|0
+the graph ) involved either discrepancies|DT NN -RRB- VBN CC NNS|BODY_4|0
+the segments|DT NNS|BODY_2|0
+the tail|DT NN|BODY_4|0
+analysis|NN|BODY_3|0
+the interleaving|DT NN|BODY_5|0
+a subsystem|DT NN|BODY_7|0
+the ground|DT NN|BODY_7|0
+the safe position|DT JJ NN|BODY_2|0
+subsequent inspection|JJ NN|BODY_6|0
+2/3 seconds|CD NNS|BODY_5|0
+program correctness|NN NN|BODY_4|0
+( instructions|-LRB- NNS|BODY_6|0
+the one-and-a-half-hour portion|DT JJ NN|BODY_5|0
+rollbacks|NNS|BODY_7|0
+jointly called|RB VBN|BODY_6|0
+more complicated interfaces|JJR JJ NNS|BODY_5|0
+the duration|DT NN|BODY_1:BODY_2|0
+even aperiodic and interval constraints|RB JJ CC NN NNS|BODY_5|0
+an inside-interval edge|DT NN NN|BODY_17|0
+the description|DT NN|BODY_3|0
+the values|DT NNS|BODY_2|0
+these occasional false positives|DT JJ JJ NNS|BODY_5|0
+if the user|IN DT NN|BODY_6|0
+' responsibilities|POS NNS|BODY_6|0
+the required timing relationships|DT VBN NN NNS|BODY_4|0
+the various subsystems|DT JJ NNS|BODY_3|0
+the aperiodic and interval timing constraints|DT JJ CC NN NN NNS|BODY_13|0
+enroute|NN|BODY_3|0
+a history|DT NN|BODY_6|0
+subsystems|NNS|BODY_7|0
+that failure|DT NN|BODY_3|0
+a unique sequence|DT JJ NN|BODY_4|0
+procedures|NNS|BODY_3|0
+the existing error-recovery schedule|DT VBG NN NN|BODY_3|0
+other methods|JJ NNS|BODY_2|0
+the commanded-maneuver-status variable|DT NN NN|BODY_3|0
+optics heater b|NNS NN NN|BODY_6:BODY_14|0
+power or propellant usage|NN CC NN NN|BODY_2|0
+architectural details|JJ NNS|BODY_6|0
+the time separation|DT NN NN|BODY_2|0
+its focus and usefulness|PRP$ NN CC NN|BODY_4|0
+caused inaccuracies|VBN NNS|BODY_3|0
+the 40 edges|DT CD NNS|BODY_2|0
+four significant ways|CD JJ NNS|BODY_2|0
+these responses ( aacs init3|DT NNS -LRB- NNS NN|BODY_3|0
+a new variable , gc i l|DT JJ JJ , JJ NN NN|BODY_7|0
+type inside-interval (  command c j|NN NN -LRB- JJ NN NN NN|BODY_33|0
+current techniques|JJ NNS|BODY_6|0
+at least one process|IN JJS CD NN|BODY_7|0
+the existence|DT NN|BODY_4|0
+command c i  )|NN NN FW JJ -RRB-|BODY_10:BODY_30|0
+the potential process interactions|DT JJ NN NNS|BODY_4|0
+processes aacs init|NNS NNS NN|BODY_3|0
+a partial solution|DT JJ NN|BODY_2|0
+the burn|DT NN|BODY_3|0
+a problem|DT NN|BODY_2|0
+time t 2|NN NN CD|BODY_34|0
+called command sequences|VBN NN NNS|BODY_4|0
+ground command|NN NN|BODY_6|0
+a particular position|DT JJ NN|BODY_6|0
+the first author|DT JJ NN|BODY_2|0
+ames|NNS|BODY_6|0
+a schedule|DT NN|BODY_4|0
+every command|DT NN|BODY_3|0
+interactions|NNS|BODY_3|0
+7bigz |CD|BODY_4|0
+a loss|DT NN|BODY_4|0
+the aacs ( attitude and articulation control subsystem ) hardware|DT NNS -LRB- NN CC NN NN NN -RRB- NN|BODY_8|0
+an outside-interval edge|DT JJ NN|BODY_16|0
+such cases|JJ NNS|BODY_1|0
+some degree|DT NN|BODY_3|0
+spacecraft error recovery|NN NN NN|BODY_6:BODY_5|0
+9 seconds|CD NNS|BODY_6|0
+functions|NNS|BODY_2|0
+these cases|DT NNS|BODY_2|0
+two or more processes|CD CC JJR NNS|BODY_5|0
+the jupiter orbital insertion|DT NN NN NN|BODY_2|0
+the design and validation|DT NN CC NN|ABSTRACT_2|0
+potentially concurrent software processes|RB JJ NN NNS|BODY_6|0
+this constraints graph|DT NNS NN|BODY_4|0
+many other asynchronous systems|JJ JJ JJ NNS|BODY_5|0
+( abbreviated p|-LRB- VBN NN|BODY_11|0
+spacecraft concurrency increases|NN NN NNS|BODY_3|0
+the spacecraft processes|DT NN NNS|BODY_3|0
+places|NNS|BODY_6|0
+execution time|NN NN|BODY_20|0
+some commands|DT NNS|BODY_1|0
+'s assertion|POS NN|BODY_2|0
+some schedules|DT NNS|BODY_3|0
+the earliest and latest times|DT JJS CC JJS NNS|BODY_2|0
+m minutes|NN NNS|BODY_3:BODY_9|0
+fixed execution times|VBN NN NNS|BODY_9|0
+the spacecraft code|DT NN NN|BODY_2|0
+the relay/joi sequence|DT NN NN|BODY_6|0
+the spacecraft error recovery|DT NN NN NN|BODY_6|0
+a concurrent execution|DT JJ NN|BODY_2|0
+an incorrect state|DT JJ NN|BODY_9|0
+the system deviates|DT NN NNS|BODY_6|0
+'s arrival|POS NN|BODY_8|0
+'s science and engineering activities|POS NN CC NN NNS|BODY_4|0
+abnormal scenarios|JJ NNS|BODY_4|0
+only minor adjustments|JJ JJ NNS|BODY_5|0
+the critical sequence|DT JJ NN|BODY_2|0
+a model|DT NN|BODY_12|0
+those interactions|DT NNS|BODY_4|0
+c j |NN NN|BODY_4|0
+mission-critical sequences|JJ NNS|BODY_7|0
+not incorporate timing requirements|RB JJ NN NNS|BODY_4|0
+together the study|RB DT NN|BODY_2|0
+at least time t  )|IN JJS NN NN NN -RRB-|BODY_10|0
+the requirements|DT NNS|BODY_5|0
+the early detection|DT JJ NN|BODY_3|0
+the correctness|DT NN|BODY_5|0
+commmand c|NN NN|BODY_7|0
+both|DT|BODY_3|0
+the seven processes|DT CD NNS|BODY_3|0
+the unforeseen consequence|DT JJ NN|BODY_3|0
+the precedence|DT NN|BODY_4|0
+system-fault-protection processes|NN NNS|BODY_4|0
+the flagged edge|DT VBN NN|BODY_5|0
+straight-line processes|JJ NNS|BODY_4|0
+the task|DT NN|BODY_2|0
+the command level|DT NN NN|BODY_4|0
+a value|DT NN|BODY_5|0
+-=3|NN|BODY_20|0
+a labeled edge|DT VBN NN|BODY_6|0
+the focus|DT NN|BODY_3|0
+data consistency|NNS NN|BODY_8|0
+the useful distinction|DT JJ NN|BODY_11|0
+' ability|POS NN|BODY_3|0
+every c i|DT NN NN|BODY_2|0
+( periodic events and deadlines ) [19]|-LRB- JJ NNS CC NNS -RRB- NN|BODY_5|0
+a constraints-graph model and constraints checker|DT NN NN CC NNS NN|BODY_5|0
+real time logic models|JJ NN NN NNS|BODY_1|0
+the operational difficulties|DT JJ NNS|BODY_1|0
+the part|DT NN|BODY_5|0
+in flagging timing or precedence constraint violations|IN JJ NN CC NN NN NNS|BODY_5|0
+a detailed example|DT JJ NN|BODY_12|0
+a timing discrepancy|DT NN NN|BODY_4|0
+the following five types|DT VBG CD NNS|BODY_6|0
+detector|NN|BODY_3|0
+this delay|DT NN|BODY_6|0
+all commands|DT NNS|BODY_28|0
+concurrently executing processes|DT VBG NNS|BODY_4|0
+temporal constraints|JJ NNS|BODY_5|0
+tim|JJ|BODY_5|0
+the languages|DT NNS|BODY_6|0
+system-level error-recovery|NN NN|BODY_2|0
+a time tag|DT NN NN|BODY_9|0
+an interplanetary probe|DT JJ NN|BODY_4|0
+6 )|CD -RRB-|BODY_12|0
+on-reset|JJ|BODY_5|0
+command sequences ) , earliest possible start time|NN NNS -RRB- , JJS JJ NN NN|BODY_16|0
+the risk|DT NN|BODY_4|0
+autonomous error-recovery strategies|JJ NN NNS|ABSTRACT_3|0
+an aacs power|DT NN NN|BODY_4|0
+-=2|NN|BODY_11|0
+-=5|IN|BODY_31|0
+upper time|JJ NN|BODY_4|0
+the same path|DT JJ NN|BODY_7|0
+a tool|DT NN|BODY_1|0
+a wide variety|DT JJ NN|BODY_1|0
+aug, 1992|JJ CD|BODY_4|0
+certain interactions|JJ NNS|BODY_4|0
+duration [30]|NN NN|BODY_4|0
+hard-line connections|JJ NNS|BODY_4|0
+precedence and timing|NN CC NN|BODY_1|0
+real-time concurrent systems|JJ JJ NNS|BODY_4|0
+safety|NN|BODY_1|0
+the flight rules|DT NN NNS|BODY_1|0
+the initial use|DT JJ NN|BODY_1|0
+the spacecraft instructions|DT NN NNS|BODY_4|0
+the specifications|DT NNS|BODY_4|0
+the virtual machines|DT JJ NNS|BODY_1|0
+their concurrent execution|PRP$ JJ NN|BODY_4|0
+this subsystem|DT NN|BODY_1|0
+an ongoing effort|DT JJ NN|BODY_4|0
+an optional , user-provided value (|DT JJ , JJ NN -LRB-|BODY_4|0
+ten synchronized error-recovery responses|CD JJ NN NNS|BODY_2|0
+issue|NN|BODY_7|0
+process p x|NN NN NN|BODY_22|0
+these formalisms|DT NNS|BODY_2|0
+the constraints-checker algorithm|DT NN NN|BODY_3|0
+the conflicting interactions-those interleavings|DT NN JJ NNS|BODY_3|0
+a fixed c i|DT VBN NN NN|BODY_21|0
+appendix|NN|BODY_11|0
+the asynchronous execution|DT JJ NN|BODY_5|0
+the read|DT NN|BODY_3:BODY_7|0
+38]|CD|BODY_7|0
+8 2:46:36|CD CD|BODY_8|0
+aperiodic tasks and time-interval specifications|JJ NNS CC NN NNS|BODY_7|0
+critical software applications|JJ NN NNS|BODY_1|0
+greater than 6 minutes|JJR IN CD NNS|BODY_7|0
+hardware components|NN NNS|BODY_10|0
+on|IN|BODY_6|0
+the aacs computer|DT NNS NN|BODY_1|0
+the computers|DT NNS|BODY_11|0
+the control software|DT NN NN|BODY_6|0
+the scenario|DT NN|BODY_1|0
+the sequence [16 , 33]|DT NN CD , CD|BODY_10|0
+this method|DT NN|BODY_9|0
+a hard real-time system|DT JJ NN NN|BODY_2|0
+functional correctness|JJ NN|BODY_4|0
+the error-recovery software|DT NN NN|BODY_6:BODY_3|0
+ing|NN|BODY_6|0
+the time-constrained edges|DT JJ NNS|BODY_2|0
+'s scheduling software|POS NN NN|BODY_2|0
+a specific time interval|DT JJ NN NN|BODY_10|0
+a 7acclon command ( accelerometers|DT JJ NN -LRB- NNS|BODY_7|0
+automata (|NN -LRB-|BODY_3|0
+the associated head-node command|DT JJ NN NN|BODY_5|0
+the following cycle|DT VBG NN|BODY_8|0
+precisely expressed timing and precedence properties|RB VBN NN CC NN NNS|BODY_4|0
+input|NN|BODY_3|0
+user-provided intervals|JJ NNS|BODY_7|0
+their issuances|PRP$ NNS|BODY_9|0
+the lowest processor identification|DT JJS NN NN|BODY_2|0
+precedence and critical timing constraints|NN CC JJ NN NNS|BODY_5|0
+i|IN|BODY_8|0
+the definition|DT NN|BODY_2|0
+autonomously )|RB -RRB-|BODY_3|0
+flagged (|JJ -LRB-|BODY_6|0
+a  soft  time|DT JJ JJ JJ NN|BODY_6|0
+the precedence subgraph|DT NN NN|BODY_4|0
+its node|PRP$ NN|BODY_4|0
+its activity|PRP$ NN|BODY_4|0
+the solution|DT NN|BODY_2|0
+( 2/3 second|-LRB- JJ NN|BODY_5|0
+ia 50011 one|NN CD CD|BODY_7|0
+a system requirement|DT NN NN|BODY_2|0
+the allowable start times|DT JJ NN NNS|BODY_8|0
+only those nodes|RB DT NNS|BODY_4|0
+the tape-rewind command|DT NN NN|BODY_2|0
+node c|NN NN|BODY_2|0
+quantitative timing constraints|JJ NN NNS|BODY_4|0
+a restriction|DT NN|BODY_2|0
+simplicity|NN|BODY_1|0
+the other|DT JJ|BODY_8:BODY_9|0
+the actual start time|DT JJ NN NN|BODY_3|0
+' timeline|POS NN|BODY_3|0
+safe start times|JJ NN NNS|BODY_7|0
+a mnemonic ( e .g.|DT JJ -LRB- NN NNP|BODY_3|0
+a means|DT NN|BODY_2|0
+state|NN|BODY_3|0
+imperfectly|RB|BODY_9|0
+fre|JJ|BODY_1|0
+the cassini spacecraft|DT NN NN|BODY_9|0
+model and check|NN CC NN|BODY_4|0
+the same variable|DT JJ JJ|BODY_6|0
+timing relationship|VBG NN|BODY_3|0
+the maximum|DT NN|BODY_27|0
+a constant )|DT JJ -RRB-|BODY_16|0
+author|NN|BODY_1|0
+executed|VBN|BODY_5|0
+the starting time|DT VBG NN|BODY_5|0
+2  )|CD JJ -RRB-|BODY_19|0
+0:45 :54|CD CD|BODY_6|0
+almost all|RB DT|BODY_4|0
+the constraint checker precedence edges|DT NN NN NN NNS|BODY_9|0
+some instance|DT NN|BODY_5|0
+the 400-newton engine burn )|DT JJ NN NN -RRB-|BODY_6|0
+) execution time|-RRB- NN NN|BODY_8|0
+no instance|DT NN|BODY_6|0
+the head node|DT NN NN|BODY_5|0
+the nominal (|DT JJ -LRB-|BODY_7|0
+28 processors|CD NNS|BODY_2|0
+a single safe schedule|DT JJ JJ NN|BODY_4|0
+process interactions|NN NNS|BODY_7|0
+the additional information|DT JJ NN|BODY_2|0
+time [29]|NN NNS|BODY_5|0
+ t|NN NN|BODY_6|0
+issued c 24|VBN NN CD|BODY_12|0
+every distinct pair|DT JJ NN|BODY_4|0
+.e|FW|BODY_7|0
+the occurrence|DT NN|BODY_6|0
+each instance c|DT NN NN|BODY_6|0
+three other precedence edges|CD JJ NN NNS|BODY_1|0
+another eight errors|DT CD NNS|BODY_1|0
+only 284 flight|RB CD NN|BODY_7|0
+[ e i|JJ NN NN|BODY_13|0
+more autonomy|RBR NN|BODY_5|0
+section|NN|BODY_1:BODY_4|0
+optics|NNS|BODY_7|0
+the development process|DT NN NN|BODY_3|0
+the appropriate response|DT JJ NN|BODY_6|0
+the classification|DT NN|BODY_1|0
+the node|DT NN|BODY_6|0
+no guarantee|DT NN|BODY_7|0
+distinct parameters|JJ NNS|BODY_10|0
+these restrictions|DT NNS|BODY_4|0
+22|CD|BODY_11|0
+a tail node|DT NN NN|BODY_14|0
+a visualization and validation tool|DT NN CC NN NN|BODY_3|0
+the techniques|DT NNS|BODY_1|0
+this response|DT NN|BODY_9|0
+ 10-newton thruster firings|JJ JJ NN NNS|BODY_3|0
+some techniques|DT NNS|BODY_1|0
+itself|PRP|BODY_6|0
+another command|DT NN|BODY_5|0
+another process|DT NN|BODY_10|0
+intervening commands|JJ NNS|BODY_9|0
+the timeline|DT NN|BODY_1|0
+both precedence constraints|DT NN NNS|BODY_4|0
+its original focus|PRP$ JJ NN|BODY_1|0
+a graphical representation|DT JJ NN|BODY_9|0
+the tool|DT NN|BODY_1|0
+'s duration|POS NN|BODY_3|0
+'s ability|POS NN|BODY_3|0
+no timing information|DT NN NN|BODY_2|0
+node c i|NN NN NN|BODY_3|0
+the distinction|DT NN|BODY_1|0
+significant inconsistencies|JJ NNS|BODY_4|0
+the twelve pairs|DT CD NNS|BODY_2|0
+the rule|DT NN|BODY_2|0
+various extensions|JJ NNS|BODY_1|0
+that constraint|DT NN|BODY_7|0
+a command constraint|DT NN NN|BODY_4|0
+explanation|NN|BODY_10|0
+a lower time|DT JJR NN|BODY_4|0
+those values|DT NNS|BODY_3|0
+the assumption|DT NN|BODY_1|0
+the software development process|DT NN NN NN|BODY_4|0
+00:00:16|CD|BODY_8|0
+lower time|JJR NN|BODY_6|0
+multilevel message queues|JJ NN NNS|BODY_8|0
+the intercommand constraint violations|DT NN NN NNS|BODY_1|0
+( fig|-LRB- NN|BODY_5|0
+the precedence edge|DT NN NN|BODY_1|0
+than|IN|BODY_9|0
+each|DT|BODY_1|0
+error-recovery scenarios|NN NNS|BODY_4|0
+specific times|JJ NNS|BODY_6|0
+these extensions|DT NNS|BODY_1|0
+the timing predicates|DT NN NNS|BODY_2|0
+these edges|DT NNS|BODY_1|0
+several|JJ|BODY_4|0
+the central subsystem|DT JJ NN|BODY_1|0
+the outside-interval edge types|DT JJ NN NNS|BODY_3|0
+the variable gc|DT JJ NN|BODY_1|0
+a few error-recovery programs|DT JJ JJ NNS|BODY_9|0
+individual commands|JJ NNS|BODY_1|0
+onboard|NNP|BODY_9|0
+periodic events|JJ NNS|BODY_6|0
+none|NN|BODY_1|0
+the planetary encounter|DT JJ NN|BODY_7|0
+defies|VBZ|BODY_3|0
+ spin detector b|JJ NN NN NN|BODY_2|0
+a data field|DT NNS NN|BODY_4|0
+26 system-level error-recovery programs|CD NN NN NNS|BODY_3|0
+which process|WDT NN|BODY_10|0
+thus many opportunities|RB JJ NNS|BODY_2|0
+another|DT|BODY_4:BODY_7|0
+this intermediate stage|DT JJ NN|BODY_2|0
+the head and tail nodes|DT NN CC NN NNS|BODY_6|0
+that time|DT NN|BODY_9|0
+timed traces|VBN NNS|BODY_7|0
+test|NN|BODY_5|0
+26]|CD|BODY_6|0
+relationships|NNS|BODY_3|0
+the same process|DT JJ NN|BODY_6|0
+each c j  )|DT NN NN NN -RRB-|BODY_7|0
+computes|NNS|BODY_3|0
+commands )|NNS -RRB-|BODY_5|0
+the possibly concurrent processes|DT RB JJ NNS|BODY_5|0
+distinct commands|JJ NNS|BODY_2|0
+( precedence )|-LRB- NN -RRB-|BODY_2|0
+different processes|JJ NNS|BODY_7|0
+the unexpected effects|DT JJ NNS|BODY_4|0
+the situation|DT NN|BODY_4|0
+a result|DT NN|BODY_4|0
+the sequential execution|DT JJ NN|BODY_5|0
+an atomic action [20 , 37]|DT JJ NN CD , CD|BODY_5|0
+execution|NN|BODY_2|0
+unexpected|JJ|BODY_2|0
+too much concurrency|RB JJ NN|BODY_4|0
+actuality|NN|BODY_5|0
+the concurrency|DT NN|BODY_4|0
+the expected time|DT VBN NN|BODY_3|0
+automata-based methods|JJ NNS|BODY_1|0
+erroneous information|JJ NN|BODY_2|0
+37 to c 24|CD TO NN CD|BODY_3|0
+these calculations|DT NNS|BODY_1|0
+an assertion|DT NN|BODY_7|0
+time t 1 but less|NN NN CD CC JJR|BODY_17|0
+each low-gain antenna motor power|DT JJ CC NN NN|BODY_2|0
+a concern|DT NN|BODY_5|0
+e j|NN NN|BODY_10|0
+another 24 edges|DT CD NNS|BODY_5|0
+allowable start times|JJ NN NNS|BODY_3|0
+sampling rates )|NN NNS -RRB-|BODY_8|0
+allowable intervals|JJ NNS|BODY_4|0
+) adding timing information|-RRB- VBG NN NN|BODY_4|0
+the user-provided range|DT JJ NN|BODY_4|0
+the command sequence issues c|DT NN NN NNS NN|BODY_10|0
+the tail node|DT NN NN|BODY_8|0
+effect examines|NN NNS|BODY_2|0
+system development|NN NN|BODY_1|0
+three instances|CD NNS|BODY_4|0
+the sequences|DT NNS|BODY_2|0
+a safe position|DT JJ NN|BODY_6:BODY_5|0
+durations and intervals|NNS CC NNS|ABSTRACT_2|0
+a constraints graph command|DT NNS NN NN|BODY_3|0
+the schedules|DT NNS|BODY_3|0
+activities|NNS|BODY_7|0
+the execution times|DT NN NNS|BODY_6|0
+the tail and node c j|DT NN CC NN NN NN|BODY_4|0
+the user-provided time range|DT JJ NN NN|BODY_3|0
+p v|NN RB|BODY_4|0
+the following example|DT VBG NN|BODY_2|0
+heater|NN|BODY_3|0
+the command constraints|DT NN NNS|BODY_3|0
+minor frames|JJ NNS|BODY_4|0
+the execution time|DT NN NN|BODY_5|0
+an initial state|DT JJ NN|BODY_4|0
+nothing bad|NN JJ|BODY_2|0
+(time-tagged lists|JJ NNS|BODY_4|0
+specifying and verifying system requirements|VBG CC VBG NN NNS|BODY_3|0
+the running time|DT VBG NN|BODY_2|0
+predicate \theta|NN NN|BODY_22|0
+a violation|DT NN|BODY_5|0
+possible start times|JJ NN NNS|BODY_6|0
+three|CD|BODY_10|0
+time parameters|NN NNS|BODY_5|0
+different paths|JJ NNS|BODY_7|0
+20|CD|BODY_2:BODY_4|0
+the remaining five|DT VBG CD|BODY_3|0
+the precondition|DT NN|BODY_7|0
+several precedence constraints|JJ NN NNS|BODY_3|0
+type maximum-interval (  command c j|NN NN -LRB- JJ NN NN NN|BODY_27|0
+the maximum burn time|DT NN NN NN|BODY_3|0
+the natural choice|DT JJ NN|BODY_5|0
+any flagged edge|DT JJ NN|BODY_13|0
+unsafe schedulings|JJ NNS|BODY_6|0
+j|NN|BODY_2|0
+the type|DT NN|BODY_5|0
+not satisfied|RB VBN|BODY_6:BODY_5|0
+extension|NN|BODY_1|0
+future work|JJ NN|BODY_1|0
+the application domain|DT NN NN|BODY_4|0
+concurrency increases|NN NNS|BODY_3|0
+a precondition|DT NN|BODY_5|0
+the other eleven precedence edges|DT JJ CD NN NNS|BODY_3|0
+any or all|DT CC DT|BODY_3|0
+p 8|NN CD|BODY_4|0
+capabilities|NNS|BODY_4|0
+which queue|WDT NN|BODY_3|0
+these constraints|DT NNS|BODY_4|0
+l i|JJ NN|BODY_2|0
+the earliest instance|DT JJS NN|BODY_5|0
+only those edges ( rules|RB DT NNS -LRB- NNS|BODY_8|0
+'s memory|POS NN|BODY_3|0
+a subset|DT NN|BODY_7|0
+forbidden edges|VBN NNS|BODY_18|0
+gc time|JJ NN|BODY_2|0
+cases|NNS|BODY_3|0
+section iii|NN NNS|BODY_1|0
+type minimum-interval|NN NN|BODY_5|0
+an ordering|DT NN|BODY_2|0
+every concurrent execution|DT JJ NN|BODY_5|0
+a maximum-interval timing constraint|DT JJ NN NN|BODY_2|0
+then safe := ft j\theta|RB JJ NN NN NN|BODY_23|0
+a 7bigz command|DT NNP NN|BODY_6|0
+an inside- interval constraint|DT JJS NN NN|BODY_2|0
+these additional types|DT JJ NNS|BODY_2|0
+the edge or node labels|DT NN CC NN NNS|BODY_4|0
+the events|DT NNS|BODY_3|0
+'s mission|POS NN|BODY_4|0
+the longest time|DT JJS NN|BODY_13|0
+a two-way pointer|DT JJ NN|BODY_3|0
+those commands|DT NNS|BODY_12:BODY_7|0
+the relevant command constraints|DT JJ NN NNS|BODY_10|0
+70 commands|CD NNS|BODY_3|0
+when c 24|WRB NN CD|BODY_2|0
+the critical command sequence|DT JJ NN NN|BODY_5|0
+several timing constraints|JJ VBG NNS|BODY_5|0
+operational constraints|JJ NNS|BODY_8|0
+schedulings|NNS|BODY_8|0
+'s endpoints|POS NNS|BODY_8:BODY_9|0
+-=4|NN|BODY_25|0
+the subgraph|DT NN|BODY_6|0
+the next activity|DT JJ NN|BODY_8|0
+a shared flag|DT VBN NN|BODY_5|0
+the aacs init error-recovery responses|DT NNS NN NN NNS|BODY_4|0
+boolean operators|JJ NNS|BODY_6|0
+other application|JJ NN|BODY_4|0
+this c j  )|DT NN NN RB -RRB-|BODY_7|0
+information|NN|BODY_9|0
+the input data|DT NN NNS|BODY_6|0
+these values|DT NNS|BODY_2|0
+process p|NN NN|BODY_5|0
+(  command c j|-LRB- JJ NN NN NN|BODY_23|0
+outside-interval (  command c j|JJ -LRB- JJ NN NN NN|BODY_14|0
+n|NN|BODY_6|0
+input several sequences|NN JJ NNS|BODY_2|0
+a directed graph g=(v,e)|DT VBN NN NN|BODY_2|0
+asynchronous processes|JJ NNS|BODY_5|0
+the queue|DT NN|BODY_5|0
+the configuration|DT NN|BODY_8|0
+depends|VBZ|BODY_4|0
+o(|NN|BODY_3|0
+a cycle|DT NN|BODY_2|0
+the calculated start time|DT JJ NN NN|BODY_2|0
+few instances|JJ NNS|BODY_2|0
+a single processor|DT JJ NN|BODY_4|0
+the gc i|DT JJ NN|BODY_6|0
+a queue|DT NN|BODY_2|0
+2:00:42 ( hrs :min :sec)|CD -LRB- NNS NN NN|BODY_5|0
+2:00:44|CD|BODY_8|0
+a command sequence|DT NN NN|BODY_3|0
+the initial timing constraint|DT JJ NN NN|BODY_4|0
+the interleavings|DT NNS|BODY_4|0
+precedes|NNS|BODY_3|0
+any|DT|BODY_10|0
+the safe position )|DT JJ NN -RRB-|BODY_5|0
+i .e|FW FW|BODY_7|0
+pid )|JJ -RRB-|BODY_3|0
+the length|DT NN|BODY_4|0
+l i latest possible start time|JJ NN JJS JJ NN NN|BODY_19|0
+a path name|DT NN NN|BODY_2|0
+a c|DT NN|BODY_5:BODY_9|0
+scan ( fig|NN -LRB- NN|BODY_10|0
+only one instance|RB CD NN|BODY_2|0
+the timetag|DT NN|BODY_4|0
+the kinds|DT NNS|BODY_2|0
+precedence and data-consistency constraints|NN CC NN NNS|BODY_5|0
+command c i and process p j|NN NN IN CC NN NN NN|BODY_6|0
+the ordering or timing relationships|DT NN CC NN NNS|BODY_3|0
+unlabeled figure 2|JJ NN CD|BODY_7|0
+start-time|NN|BODY_2|0
+formal models|JJ NNS|BODY_11|0
+a predicate \theta|DT NN NN|BODY_5|0
+every pair|DT NN|BODY_3|0
+the start time|DT NN NN|BODY_2|0
+state a|NN DT|BODY_8|0
+the commanded activity|DT VBN NN|BODY_2|0
+20 precedence edges|CD NN NNS|BODY_2|0
+20 timing edges|CD NN NNS|BODY_2|0
+1 to t 2|CD TO NN CD|BODY_4|0
+equals|VBZ|BODY_15|0
+system-level software|JJ NN|BODY_1|0
+another case|DT NN|BODY_1|0
+a worst-case time|DT JJ NN|BODY_4|0
+schedules|NNS|ABSTRACT_2|0
+the most critical science activity|DT RBS JJ NN NN|BODY_3|0
+twelve pairs|CD NNS|BODY_7|0
+the need|DT NN|BODY_1|0
+this analysis|DT NN|BODY_14|0
+the fixed time|DT JJ NN|BODY_8|0
+this assertion|DT NN|BODY_2|0
+the timing details|DT NN NNS|BODY_1|0
+flags|NNS|BODY_6|0
+output warning flag else ftime-constrained edgeg|NN NN NN RB JJ NN|BODY_14|0
+these two processes|DT CD NNS|BODY_6|0
+the start-time|DT NN|BODY_15|0
+the maximum range|DT JJ NN|BODY_4|0
+both head and tail nodes|DT NN CC NN NNS|BODY_6|0
+four|CD|BODY_1|0
+the first author thanks|DT JJ NN NNS|BODY_1|0
+an absolute time tag|DT JJ NN NN|BODY_2|0
+ command c j|JJ NN NN NN|BODY_8|0
+a specific point t|DT JJ NN NN|BODY_6|0
+contrary|NN|BODY_4|0
+the methods|DT NNS|BODY_1|0
+follows|VBZ|BODY_10|0
+issuance|NN|BODY_5|0
+that edges|DT NNS|BODY_3|0
+p 7|NN CD|BODY_3|0
+the most current flight version|DT RBS JJ NN NN|BODY_3|0
+input poss fuser-supplied intervalg|NN JJ JJ NN|BODY_3|0
+the information|DT NN|BODY_3|0
+two main classes|CD JJ NNS|BODY_2|0
+the longest completion time|DT JJS NN NN|BODY_6|0
+the asynchronous processes|DT JJ NNS|BODY_4|0
+( c 24|-LRB- NN CD|BODY_9|0
+a quantitative temporal relationship|DT JJ JJ NN|BODY_2|0
+section iv|NN NN|BODY_1|0
+universal constraints|JJ NNS|BODY_8|0
+an inside-interval constraint|DT NN NN|BODY_9|0
+the appropriate predicate|DT JJ NN|BODY_2|0
+variable|JJ|BODY_8|0
+the processes )|DT NNS -RRB-|BODY_4|0
+\theta 3 j false b. output|JJ CD NN JJ NN NN|BODY_5|0
+the instantiation|DT NN|BODY_4|0
+the constraints checker issues|DT NNS NN NNS|BODY_3|0
+an upper time|DT JJ NN|BODY_9|0
+2. simplifying assumptions|DT JJ NNS|BODY_1|0
+the designers|DT NNS|BODY_15|0
+unsafe error-recovery schedules|JJ NN NNS|BODY_3:BODY_7|0
+this distinction|DT NN|BODY_1|0
+then output warning flag|RB NN NN NN|BODY_29|0
+the various possible paths|DT JJ JJ NNS|BODY_2|0
+c one|NN CD|BODY_3|0
+all instances|DT NNS|BODY_3|0
+the actual , earliest|DT JJ , JJS|BODY_2|0
+the six error-recovery responses|DT CD NN NNS|BODY_1|0
+this requirement|DT NN|BODY_1|0
+two optional time fields|CD JJ NN NNS|BODY_5|0
+a labeled graph|DT VBN NN|BODY_6|0
+the constraint violation|DT NN NN|BODY_18|0
+the constraints definition|DT NNS NN|BODY_4|0
+all times|DT NNS|BODY_7|0
+a timing constraint|DT NN NN|BODY_1|0
+e.g.|FW|BODY_3|0
+precedes or equals gc i|NNS CC NNS JJ NN|BODY_4|0
+the tree|DT NN|BODY_1|0
+other real-time systems|JJ JJ NNS|BODY_4|0
+branching|NN|BODY_3|0
+software simulation|NN NN|BODY_3|0
+some c i|DT NN NN|BODY_8|0
+' heads|POS NNS|BODY_8|0
+the scheduling|DT NN|BODY_5|0
+' safe ( fig|'' JJ -LRB- NN|BODY_10|0
+outside|NN|BODY_7|0
+each node c i|DT NN NN NN|BODY_4|0
+3 predicates|CD NNS|BODY_2|0
+begin according|VBP VBG|BODY_18|0
+warning flag|NN NN|BODY_12|0
+these methods|DT NNS|BODY_1|0
+some given constraints|DT VBN NNS|BODY_6|0
+absolute start times|JJ NN NNS|BODY_8|0
+this point|DT NN|BODY_3|0
+then c j|RB NN NNS|BODY_7|0
+1000 edges )|CD NNS -RRB-|BODY_5|0
+c. data-consistency constraints data-consistency constraints|NN NN NNS NN NNS|BODY_1|0
+those processes|DT NNS|BODY_11|0
+'s time tag|POS NN NN|BODY_6|0
+each edge e|DT NN NN|BODY_8|0
+an additional constraint|DT JJ NN|BODY_3|0
+ [39]|JJ NN|BODY_5|0
+2 v|CD NN|BODY_6|0
+presentation|NN|BODY_5|0
+the sake|DT NN|BODY_1|0
+certainty|NN|BODY_4|0
+timing , precedence|NN , NN|BODY_2|0
+a slew command|DT NN NN|BODY_4|0
+many helpful insights|JJ JJ NNS|BODY_4|0
+these autonomous processes|DT JJ NNS|BODY_1|0
+\delta j|NNP NN|BODY_6|0
+b. precedence constraints|NNP NN NNS|BODY_1|0
+every ordered pair ( c 0|DT VBN NN -LRB- NN CD|BODY_3|0
+:= ft j\theta|NN NN NN|BODY_25|0
+the interval|DT NN|BODY_1:BODY_8|0
+the spacecraft [36]|DT NN NN|BODY_8|0
+existing or developing systems|VBG CC VBG NNS|BODY_6|0
+the detection|DT NN|BODY_1|0
+those concurrent processes|DT JJ NNS|BODY_6|0
+( every instance|-LRB- DT NN|BODY_3|0
+c 0 j|NN CD NN|BODY_6|0
+a possible violation|DT JJ NN|BODY_3|0
+contrast|NN|BODY_1|0
+deadline requirements|NN NNS|BODY_4|0
+fifteen|CD|BODY_1|0
+nine|CD|BODY_1|0
+the spacecraft setting|DT NN NN|BODY_4|0
+the other process|DT JJ NN|BODY_10|0
+one precedence edge|CD NN NN|BODY_1|0
+the other case|DT JJ NN|BODY_1|0
+the machine [5 , 13 , 23]|DT NN CD , CD , CD|BODY_9|0
+a mechanism|DT NN|ABSTRACT_1|0
+etc|FW|BODY_6|0
+asynchronous real-time systems|JJ JJ NNS|ABSTRACT_6|0
+all|DT|BODY_1|0
+whose actions|WP$ NNS|BODY_5|0
+the figure|DT NN|BODY_5|0
+seven minutes|CD NNS|BODY_5|0
+the command sequences|DT NN NNS|BODY_1|0
+constant time|JJ NN|BODY_4|0
+galileo documentation|NN NN|BODY_9|0
+another flagged edge|DT JJ NN|BODY_1|0
+this type|DT NN|BODY_1|0
+the other optics heater|DT JJ NNS NN|BODY_9|0
+these parameters|DT NNS|BODY_8|0
+the other six processes|DT JJ CD NNS|BODY_1|0
+other factors|JJ NNS|BODY_13|0
+some processes|DT NNS|BODY_1|0
+steps|NNS|BODY_1|0
+the graph [27]|DT NN NN|BODY_3|0
+more than one failure|JJR IN CD NN|BODY_1|0
+several error-recovery processes|JJ JJ NNS|BODY_3|0
+certain commands|JJ NNS|BODY_1|0
+the desired action|DT VBN NN|BODY_3|0
+unlikely but possible error-recovery scenarios|JJ CC JJ NN NNS|BODY_7|0
+spacecraft [15 , 24 , 28]|NN CD , CD , CD|BODY_6|0
+this definition|DT NN|BODY_1|0
+that case|DT NN|BODY_1|0
+branches|NNS|BODY_3|0
+little branching|JJ NN|BODY_6|0
+undesirable interactions|JJ NNS|BODY_1|0
+every c|DT NN|BODY_2|0
+details|NNS|BODY_6|0
+other simulation or executable-specification tools|JJ NN CC NN NNS|BODY_6|0
+the challenge|DT NN|BODY_1|0
+the correction|DT NN|BODY_9|0
+the synchronization|DT NN|BODY_1|0
+both safety and liveness properties|DT NN CC NN NNS|BODY_6|0
+the other ten pairs|DT JJ CD NNS|BODY_2|0
+a certain timing constraint|DT JJ NN NN|BODY_7|0
+any interleaving|DT NN|BODY_1|0
+the error-recovery processes|DT NN NNS|BODY_1|0
+the other hand|DT JJ NN|BODY_1|0
+the possible schedules|DT JJ NNS|BODY_8|0
+two|CD|BODY_1|0
+two other edges|CD JJ NNS|BODY_1|0
+an edge violation|DT NN NN|BODY_1|0
+c. time complexity and optimizations|DT NN NN CC NNS|BODY_1|0
+the state (scan platform|DT NN NN NN|BODY_1|0
+some command sequences|DT NN NNS|BODY_1|0
+each node|DT NN|BODY_1|0
+the additional computer capability|DT JJ NN NN|BODY_1|0
+the required state|DT VBN NN|BODY_1|0
+each edge type|DT NN NN|BODY_1|0
+the command c j|DT NN NN NN|BODY_14|0
+conclusions|NNS|BODY_1|0
+introduction|NN|BODY_1|0
+a broader con- text|DT JJR NNS NN|BODY_1|0
+more than one response|JJR IN CD NN|BODY_3|0
+'s major benefit|POS JJ NN|BODY_8|0
+the following assumptions|DT VBG NNS|BODY_1|0
+as follows|RB VBZ|BODY_2|0
+ongoing research|JJ NN|BODY_1|0
+system recovery|NN NN|BODY_2|0
+46 such instances|CD JJ NNS|BODY_3|0
+83 pairs|CD NNS|BODY_8|0
+the nominal execution time|DT JJ NN NN|BODY_1|0
+( abbreviated p 7 )|-LRB- VBN NN CD -RRB-|BODY_15|0
+the motivation|DT NN|BODY_1|0
+onboard the spacecraft|RB DT NN|BODY_5|0
+the standard definitions|DT JJ NNS|BODY_1|0
+nasa grant|NN NN|BODY_3|0
+2. the issue|PDT DT NN|BODY_1|0
+these reasons|DT NNS|BODY_1|0
+this choice|DT NN|BODY_1|0
+other processes|JJ NNS|BODY_10|0
+no assumption|DT NN|BODY_1|0
+the input processes|DT NN NNS|BODY_9|0
+let gc|VB NN|BODY_1|0
+the variable gc i|DT JJ NN NN|BODY_1|0
+data-consistency rules|NN NNS|BODY_5|0
+p 7 issued c 24|NN CD VBN NN CD|BODY_1|0
+a process abortion|DT NN NN|BODY_6|0
+a schedule (ordering|DT NN NN|BODY_1|0
+background|NN|BODY_1|0
+section ii|NN NNS|BODY_1|0
+experience|NN|BODY_1|0
+the entire constraints graph|DT JJ NNS NN|BODY_1|0
+such a data-consistency constraint|PDT DT NN NN|BODY_1|0
+section vi|NN NN|BODY_1|0
+that fixed process|DT VBN NN|BODY_6|0
+the assumptions|DT NNS|BODY_1|0
+this pair|DT NN|BODY_1|0
+another pair|DT NN|BODY_1|0
+2:46 :42.7]|CD NN|BODY_8|0
+either case|DT NN|BODY_1|0
+that edge type|DT NN NN|BODY_10|0
+the existential quantifier|DT JJ NN|BODY_1|0
+each constraint|DT NN|BODY_1|0
+such a node|JJ DT NN|BODY_6|0
+the algorithm function|DT NN NN|BODY_5|0
+a tedious and difficult task|DT JJ CC JJ NN|BODY_3|0
+the limited software tools|DT JJ NN NNS|BODY_1|0
+35 , 36 , 40]|CD , CD , CD|BODY_15|0
+this time|DT NN|BODY_1|0
+the activity or operation|DT NN CC NN|BODY_1|0
+the variables|DT NNS|BODY_1|0
+a. timing constraints|NN NN NNS|BODY_1|0
+' start|POS NN|BODY_7|0
+safe|JJ|BODY_1|0
+the internal structure|DT JJ NN|BODY_7|0
+times that satisfy the|NNS IN VB DT|BODY_3|0
+2:46 :42|CD CD|BODY_8|0
+the constraints graph input|DT NNS NN NN|BODY_1|0
+this temporary  software|DT JJ JJ NN|BODY_5|0
+these assumptions|DT NNS|BODY_1|0
+appendix )|NN -RRB-|BODY_13|0
+the variable [4]|DT JJ NN|BODY_9|0
+a single failure|DT JJ NN|BODY_1|0
+an unexpected state|DT JJ NN|BODY_12|0
+autonomous error recovery|JJ NN NN|BODY_1|0
+the complexity|DT NN|BODY_1|0
+a certain configuration|DT JJ NN|BODY_11|0
+'s nodes|POS NNS|BODY_9|0
+a precedence or timing edge|DT NN CC NN NN|BODY_3|0
+a subsequent run|DT JJ NN|BODY_5|0
+the algorithm branches|DT NN NNS|BODY_1|0
+type precedence|NN NN|BODY_3|0
+this appendix|DT NN|BODY_1|0
+error-recovery schedules|NN NNS|BODY_1|0
+a head node|DT NN NN|BODY_18|0
+identifies|VBZ|BODY_5|0
+thruster firing|NN NN|BODY_8|0
+al- ternatively|DT RB|BODY_1|0
+future spacecraft missions [14 , 18 , 25]|JJ NN NNS CD , CD , CD|BODY_5|0
+precedence and timing constraints|NN CC NN NNS|BODY_7|0
+unpredictable start times|JJ NN NNS|BODY_8|0
+an unsafe schedule|DT JJ NN|BODY_1|0
+useful information|JJ NN|BODY_1|0
+many constraints|JJ NNS|BODY_1|0
+its time complexity|PRP$ NN NN|BODY_3|0
+all the edges|DT DT NNS|BODY_1|0
+executes times|NNS NNS|BODY_3|0
+the outer for-construct|DT JJ NN|BODY_1|0
+9 , 12 , 17 , 30]|CD , CD , CD , CD|BODY_7|0
+error-recovery capabilities|NN NNS|BODY_1|0
+7bigz|CD|BODY_1|0
+the space station|DT NN NN|BODY_1|0
+such issues|JJ NNS|BODY_1|0
+the other ten precedence edges|DT JJ CD NN NNS|BODY_1|0
+unsafe error recovery schedules|JJ NN NN NNS|TITLE_1:BODY_4|0
+instructions|NNS|BODY_1|0
+a.|NN|BODY_1|0
+two ways|CD NNS|BODY_3|0
+the inside-interval timing edge|DT JJ NN NN|BODY_1|0
+the activities|DT NNS|BODY_1|0
+the checker|DT NN|BODY_10|0
+the current scenario|DT JJ NN|BODY_4|0
+fig . 5|NN . CD|BODY_1|0
+an associated time tag|DT VBN NN NN|BODY_2|0
+system-level error recovery|JJ NN NN|BODY_3|0
+asynchronous [7]|JJ NN|BODY_4|0
+certain constraints|JJ NNS|BODY_6|0
+plans|NNS|BODY_1|0
+most closely brackets|JJS RB NNS|BODY_8|0
+most methods|RBS NNS|BODY_1|0
+some issues|DT NNS|BODY_1|0
+some other process|DT JJ NN|BODY_1|0
+the data inconsistency|DT NNS NN|BODY_1|0
+the interactions|DT NNS|BODY_1|0
+the set safe ( fig|DT NN NN -LRB- NN|BODY_7|0
+the third timing edge|DT JJ NN NN|BODY_1|0
+the timing issues|DT NN NNS|BODY_1|0
+the sequence )|DT NN -RRB-|BODY_5|0
+5|CD|BODY_2|0
+a c j|DT NN RB|BODY_10|0
+each other|DT JJ|BODY_6|0
+init response|NN NN|BODY_9|0
+operations|NNS|BODY_7|0
+the required predicate|DT VBN NN|BODY_3|0
+the shared-memory central command and data subsystem|DT JJ JJ NN CC NNS NN|BODY_5|0
+the worst-case time|DT JJ NN|BODY_1|0
+states ) or less expressive (|NNS -RRB- CC RBR JJ -LRB-|BODY_5|0
+the disadvantage|DT NN|BODY_1|0
+this write/read constraint|DT NN NN|BODY_1|0
+that edge|DT NN|BODY_5|0
+the output|DT NN|BODY_6|0
+only these two processes|JJ DT CD NNS|BODY_8|0
+the goal|DT NN|BODY_1|0
+an aacs init response|DT NNS NN NN|BODY_11|0
+each segment|DT NN|BODY_1|0
+the portion|DT NN|BODY_1|0
+a command c i|DT NN NN NN|BODY_1|0
+an issuance|DT NN|BODY_1|0
+optics heater a.|NNS NN NN|BODY_17|0
+time-constrained edges|JJ NNS|BODY_6|0
+figure 1|NN CD|BODY_1|0
+an arbitrarily large integer|DT RB JJ NN|BODY_11|0
+the constraints checker algorithm section iv|DT NNS NN NN NN NN|BODY_1|0
+some time interval|DT NN NN|BODY_4|0
+four different spacecraft subsystems|CD JJ NN NNS|BODY_3|0
+2 f0,1,2,3,4,5g|CD NN|BODY_1|0
+2. outside-interval constraint|DT JJ NN|BODY_1|0
+combination constraint|NN NN|BODY_1|0
+ii|NNS|BODY_1|0
+iii|NNS|BODY_1|0
+maximum-interval constraint|JJ NN|BODY_1|0
+the graph , t|DT NN , NN|BODY_1|0
+this constraint|DT NN|BODY_1|0
+vii|NNS|BODY_1|0

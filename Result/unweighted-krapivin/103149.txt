@@ -1,0 +1,1058 @@
+we|PRP|BODY_6:BODY_11:BODY_5:BODY_13:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|4
+it|PRP|BODY_12:BODY_11:BODY_13:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_7:BODY_9|2
+that|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_5:BODY_1:BODY_2:BODY_14:BODY_3:BODY_10:BODY_4:BODY_8:BODY_9|0
+which|WDT|BODY_47:BODY_12:BODY_6:BODY_11:BODY_5:ABSTRACT_3:BODY_14:BODY_3:BODY_19:BODY_4:BODY_8:BODY_9|1
+there|EX|BODY_11:BODY_1:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+an event|DT NN|BODY_12:BODY_5:ABSTRACT_6:BODY_2:BODY_10:BODY_4:BODY_7|0
+this|DT|BODY_12:BODY_6:BODY_2:BODY_1:ABSTRACT_1:BODY_4:BODY_9|0
+the integration|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+t|NN|BODY_11:BODY_5:BODY_18:BODY_15:BODY_13:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+they|PRP|BODY_5:BODY_17:BODY_2:BODY_1:BODY_3:BODY_19:BODY_9|0
+the event|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_1:BODY_14:BODY_3:BODY_7|0
+events|NNS|BODY_5:BODY_16:BODY_3:BODY_4:BODY_10:BODY_8:BODY_9|0
+a root|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_2:BODY_19:BODY_7:BODY_8|0
+the solution|DT NN|BODY_6:BODY_12:BODY_5:BODY_13:BODY_2:ABSTRACT_3:ABSTRACT_1:BODY_4:BODY_8|0
+the user|DT NN|BODY_5:BODY_2:BODY_3:BODY_8|0
+the location|DT NN|BODY_6:BODY_15:BODY_2:BODY_1:BODY_4:BODY_8:BODY_9|0
+y|NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_7:BODY_9|0
+the integrator|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_14:BODY_4:BODY_9|0
+the interval|DT NN|BODY_6:BODY_12:BODY_13:BODY_4:BODY_19:BODY_8|0
+one|CD|BODY_6:BODY_5:BODY_15:BODY_2:BODY_3:BODY_8|0
+event functions|NN NNS|ABSTRACT_2:BODY_2:BODY_3:BODY_4|0
+f|NN|BODY_2:BODY_3:BODY_4:BODY_10|0
+the error|DT NN|BODY_6:BODY_11:BODY_16:BODY_1:BODY_10:BODY_8|1
+)|-RRB-|BODY_5:BODY_13:BODY_4:BODY_10:BODY_7:BODY_9|0
+the position|DT NN|BODY_12:BODY_5:BODY_2:BODY_4|0
+the form|DT NN|BODY_5:BODY_3:BODY_4:BODY_10:BODY_7|0
+( 1.2 )|-LRB- CD -RRB-|BODY_5:BODY_11:BODY_17:BODY_2:BODY_4:BODY_7|0
+the mesh points|DT NN NNS|BODY_15:BODY_13:BODY_1:BODY_3:BODY_4:BODY_8:BODY_9|0
+our codes|PRP$ NNS|BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_9|0
+the codes|DT NNS|BODY_6:BODY_2:BODY_3:BODY_4:BODY_7|1
+all|DT|BODY_5:BODY_13:BODY_2:BODY_3:BODY_7:BODY_9|0
+the events|DT NNS|BODY_6:BODY_5:BODY_13:BODY_1:BODY_4:BODY_8|0
+a set|DT NN|BODY_11:BODY_2:BODY_3:BODY_4|0
+x|NN|BODY_11:BODY_3:BODY_4:BODY_8|0
+the problem|DT NN|BODY_1:BODY_2:BODY_3:BODY_4|0
+the initial value problem|DT JJ NN NN|BODY_5:ABSTRACT_8:ABSTRACT_2:BODY_2:BODY_3:BODY_7|0
+the case|DT NN|BODY_1:BODY_2:BODY_3:BODY_8|0
+y( x|JJ NN|BODY_12:BODY_5:BODY_2:BODY_3|0
+(|-LRB-|BODY_46:BODY_2:BODY_14:BODY_3:BODY_10|0
+smoothness|NN|BODY_6:BODY_2:BODY_3:BODY_9|0
+example|NN|BODY_16:BODY_1:BODY_3:BODY_7:BODY_9|0
+those|DT|BODY_6:BODY_1:BODY_3:BODY_7:BODY_9|0
+the polynomial|DT NN|BODY_1:BODY_3:BODY_4:BODY_7|0
+the event functions|DT NN NNS|BODY_6:BODY_2:BODY_4|0
+x i|SYM VBP|BODY_2:BODY_10:BODY_7|0
+alevnt|NN|BODY_26:BODY_1:BODY_4|0
+1.1 )|CD -RRB-|BODY_5:BODY_3:BODY_4:BODY_20|0
+this event|DT NN|BODY_5:BODY_2:BODY_7:BODY_9|0
+cond( v|NN NNS|BODY_16:BODY_2|0
+itself|PRP|BODY_12:BODY_5:BODY_2:BODY_10|0
+the local error tolerance|DT JJ NN NN|BODY_6:BODY_11:BODY_3|2
+p( x|JJ NNP|BODY_6:BODY_8|0
+the active events|DT JJ NNS|BODY_11:BODY_5:BODY_3:BODY_4|0
+the code|DT NN|BODY_1:BODY_3:BODY_4:BODY_10|0
+the presence|DT NN|BODY_18:BODY_2:BODY_1|0
+d ]|JJ SYM|BODY_12:BODY_6:BODY_5:BODY_15:BODY_8|0
+p|NN|BODY_11:BODY_10:BODY_7|0
+1|CD|BODY_1:BODY_4|0
+]|NNS|BODY_13:BODY_4|0
+(-c|NN|BODY_12:BODY_16:BODY_7|0
+the derivative|DT NN|BODY_2:BODY_3:BODY_4|0
+our algorithm|PRP$ NN|BODY_6:BODY_2:BODY_3:BODY_8|0
+goto call|NN NN|BODY_69:BODY_65|0
+the first position|DT JJ NN|BODY_3:BODY_4|0
+an estimate|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+the system|DT NN|BODY_5:BODY_3:BODY_19|0
+anomalous behavior|JJ NN|BODY_16:BODY_3|0
+error|NN|BODY_6:BODY_5:BODY_53|0
+what|WP|BODY_2:BODY_1:BODY_4|0
+the task|DT NN|BODY_5:BODY_11:BODY_1|0
+the first event|DT JJ NN|BODY_10:BODY_4:BODY_8|0
+a component|DT NN|BODY_5:BODY_3:BODY_7|0
+the bisection/secant algorithm|DT JJ NN|BODY_6:BODY_2:BODY_7|0
+x )|NN -RRB-|BODY_6:BODY_13:BODY_4|0
+turn|NN|BODY_32:BODY_5:BODY_8|0
+just one event function|RB CD NN NN|BODY_5:BODY_2:BODY_3|0
+the step|DT NN|BODY_12:BODY_3|0
+the roots|DT NNS|BODY_4:BODY_10:BODY_7|0
+the difficulty|DT NN|BODY_2:BODY_1:BODY_4|0
+the current integration interval|DT JJ NN NN|BODY_2:BODY_3|0
+a polynomial|DT NN|BODY_6:BODY_11:BODY_1:BODY_9|0
+each step|DT NN|BODY_6:BODY_8:BODY_9|0
+the first|DT JJ|BODY_2:BODY_4:BODY_7|0
+this way|DT NN|BODY_12:BODY_1:BODY_4|0
+a new set|DT JJ NN|BODY_2|0
+an entry|DT NN|BODY_2|0
+the algorithm proceeds|DT JJ NNS|BODY_2|0
+( 1.1 )|-LRB- CD -RRB-|BODY_2:BODY_3:BODY_8|0
+a point|DT NN|BODY_6:BODY_5:BODY_3|0
+many|JJ|BODY_5:BODY_4:BODY_10|0
+( 4.1 )|-LRB- CD -RRB-|BODY_6:BODY_8|0
+approximations|NNS|BODY_3:BODY_10:BODY_9|0
+e|NN|BODY_3:BODY_7|0
+the first derivative|DT JJ NN|BODY_6:BODY_2|0
+integrator|NN|BODY_58:BODY_17:BODY_55|0
+a code|DT NN|BODY_2:BODY_3|0
+1.2 )|CD -RRB-|BODY_5:BODY_16:BODY_7|0
+a r|DT NN|BODY_6:BODY_9|0
+popular codes|JJ NNS|BODY_5:BODY_4:ABSTRACT_7|0
+points|NNS|BODY_12:BODY_4:BODY_9|0
+roots|NNS|BODY_6:BODY_2|0
+a call|DT NN|BODY_6:BODY_11|0
+the locations|DT NNS|BODY_5:BODY_3:BODY_4|0
+a number|DT NN|BODY_2:BODY_3|0
+the errors|DT NNS|BODY_3:BODY_7|0
+the integrator steps|DT NN NNS|BODY_2:BODY_1:BODY_9|0
+a polynomial approximation|DT NN NN|BODY_6:BODY_3|0
+the size|DT NN|BODY_5:BODY_2|1
+the interpolating polynomial|DT NN NN|BODY_2:BODY_10|0
+the event location problem|DT NN NN NN|BODY_2|0
+d|JJ|BODY_5:BODY_17:BODY_9|0
+terms|NNS|BODY_11:BODY_3|0
+principle|NN|BODY_6:BODY_3|1
+alevnt f user|NN NN NN|BODY_61:BODY_57|0
+theory|NN|ABSTRACT_4:BODY_3|0
+integration|NN|BODY_13:BODY_7|0
+code|NN|BODY_10:BODY_7|0
+( c|-LRB- NN|BODY_14:BODY_4:BODY_7|0
+all the events|PDT DT NNS|BODY_6:BODY_3:BODY_4:BODY_8|0
+the next event|DT JJ NN|BODY_5:BODY_2:BODY_4|0
+the values|DT NNS|BODY_15:BODY_1:BODY_10|0
+differential equations|JJ NNS|BODY_2:BODY_4|0
+equispaced values|JJ NNS|BODY_5:BODY_4|0
+the value|DT NN|BODY_2:BODY_8|1
+section 5|NN CD|BODY_5:BODY_4|0
+an interval (-c|DT NN NN|BODY_12:BODY_5|0
+p( x )|NN SYM -RRB-|BODY_2:BODY_9|0
+g j|NN NN|BODY_2|0
+the expense|DT NN|BODY_4|0
+size|NN|BODY_3|0
+these codes|DT NNS|BODY_2|0
+special event location problems|JJ NN NN NNS|TITLE_2:BODY_7|0
+multiple roots|JJ NNS|BODY_3:BODY_7|1
+( ii|-LRB- NNS|BODY_6|0
+only part|RB NN|BODY_5:ABSTRACT_5|0
+the root-finder|DT NN|BODY_2|0
+this paper|DT NN|BODY_12:BODY_1:BODY_9|1
+[x|NN|BODY_14:BODY_8|0
+xval|NN|BODY_63:BODY_38|0
+step|NN|BODY_3:BODY_10|0
+another|DT|BODY_2:BODY_4|0
+an algorithm|DT NN|BODY_3:BODY_7|0
+( 1.4 )|-LRB- CD -RRB-|BODY_12:BODY_8|0
+some|DT|BODY_2:BODY_1|0
+order m|NN NN|BODY_4:BODY_8|0
+other kinds|JJ NNS|BODY_2:BODY_3|0
+each event|DT NN|BODY_5|0
+an occurrence|DT NN|BODY_7|0
+the algorithm|DT NN|BODY_11:BODY_3|1
+the temperature|DT NN|BODY_6:BODY_8|0
+bdf [1|JJ NNS|BODY_9|0
+a polynomial p( x|DT JJ NN NN|BODY_11:BODY_8|0
+such problems|JJ NNS|ABSTRACT_3:BODY_3|0
+the lack|DT NN|BODY_2:BODY_8|0
+the p 0 ( x )|DT NN CD -LRB- NNP -RRB-|BODY_2|0
+( 1.3 )|-LRB- CD -RRB-|BODY_11:BODY_4|0
+the function f|DT NN NN|BODY_2:BODY_3|0
+yvals|NNS|BODY_39:BODY_64|0
+a small subinterval|DT JJ NN|BODY_7|0
+the results|DT NNS|BODY_1:BODY_8|0
+this algorithm|DT NN|BODY_8|0
+condition numbers|NN NNS|BODY_6:BODY_4|0
+the module|DT NN|BODY_12:BODY_1|0
+an integrator|DT NN|BODY_2:BODY_3|0
+the capability|DT NN|ABSTRACT_6:BODY_2|0
+the condition numbers|DT NN NNS|BODY_1:BODY_2|0
+a special interface|DT JJ NN|BODY_2:BODY_4|0
+0|CD|BODY_7|0
+the interpolant|DT NN|BODY_6:BODY_3|0
+such codes|JJ NNS|BODY_3:BODY_14|0
+a dependent variable y|DT JJ JJ NN|BODY_5:BODY_13|0
+( 1.4)|-LRB- CD|BODY_5|0
+the same time|DT JJ NN|BODY_4:BODY_9|0
+the ode|DT NN|BODY_5:BODY_3|0
+table 3|NN CD|BODY_5:BODY_1:BODY_4|1
+the error estimate|DT NN NN|BODY_2|0
+the behavior|DT NN|BODY_3:BODY_4|0
+y 0 ( x )|JJ CD -LRB- NN -RRB-|BODY_3:BODY_4|0
+the nodes|DT NNS|BODY_2:BODY_4|0
+the first task|DT JJ NN|BODY_2|0
+a time|DT NN|BODY_5:BODY_3|0
+a value|DT NN|BODY_6:BODY_2|0
+such a code|JJ DT NN|BODY_14:BODY_10|0
+event location|NN NN|BODY_13:BODY_3|0
+the event function|DT NN NN|BODY_6:BODY_2:BODY_8|0
+y j|JJ NN|BODY_6:BODY_17:BODY_10|2
+this clumsy and unreliable handling|DT JJ CC JJ NN|BODY_4|0
+the same techniques|DT JJ NNS|BODY_3|0
+its value|PRP$ NN|BODY_2|0
+an event function|DT NN NN|ABSTRACT_4:BODY_1|0
+a that one|DT WDT CD|BODY_6|0
+the information|DT NN|BODY_2|0
+an approximation|DT NN|BODY_14:BODY_10|0
+course|NN|BODY_1:BODY_7|0
+the event function q|DT NN NN NN|BODY_7|0
+an error analysis|DT NN NN|BODY_4|0
+the condition number|DT NN NN|BODY_6:BODY_7|0
+errors|NNS|BODY_14:BODY_3|0
+a suitable structure|DT JJ NN|BODY_8|0
+any event|DT NN|BODY_6:BODY_5:BODY_4|0
+the first approach|DT JJ NN|BODY_2:BODY_1:BODY_8|0
+ordinary differential equations|JJ JJ NNS|ABSTRACT_3:BODY_4|0
+the fact|DT NN|BODY_2|0
+codes|NNS|BODY_1:BODY_2:BODY_4|0
+the choice|DT NN|BODY_6:BODY_9|0
+the function|DT NN|BODY_3:BODY_9|0
+the left|DT NN|BODY_6:BODY_2|0
+the first root|DT JJ NN|BODY_5:BODY_13:BODY_14|0
+this definition|DT NN|BODY_9|0
+the van der monde system|DT NN FW FW NN|BODY_13:BODY_4|0
+different error tolerances|JJ NN NNS|BODY_15|0
+the end|DT NN|BODY_3|0
+this search|DT NN|BODY_4|0
+interesting practical problems|JJ JJ NNS|BODY_11|0
+an inaccurate solution|DT JJ NN|BODY_2:BODY_3|0
+11]|CD|BODY_7|0
+all the tabulation points|DT DT NN NNS|BODY_5|0
+adams|NNS|BODY_8|0
+proceeding|NN|BODY_6:BODY_2|0
+y( x ) and y 0 ( x )|JJ SYM -RRB- CC NN CD -LRB- SYM -RRB-|BODY_4|0
+embedded formulas|JJ NNS|BODY_7|0
+event|NN|BODY_16:BODY_2|0
+- t|: NN|BODY_15:BODY_1|0
+( 4.3 )|-LRB- CD -RRB-|BODY_2|0
+a close pair|DT JJ NN|BODY_7|0
+routine|NN|BODY_14|0
+non-stiff problems|JJ NNS|BODY_5|0
+the bdf codes|DT NN NNS|BODY_3|0
+the computed event position|DT VBN NN NN|BODY_2|0
+each event function|DT NN NN|BODY_5:BODY_16|0
+additional overhead|JJ NN|BODY_8|0
+all the event|DT DT NN|BODY_21|0
+zeros|NNS|BODY_7|0
+has|VBZ|BODY_13|0
+a far better approximation|DT RB JJR NN|BODY_4|0
+sign|NN|BODY_2|0
+a thermostat switches|DT JJ NNS|BODY_9|0
+i|FW|BODY_3:BODY_4|0
+d d|VBD VBD|BODY_9|0
+analytical partial derivatives|JJ JJ NNS|BODY_2:BODY_7|0
+lagrangian , divided difference|JJ , VBN NN|BODY_12|0
+the implications|DT NNS|BODY_2|0
+f user|NN NN|BODY_16:BODY_54|0
+a single event function|DT JJ NN NN|BODY_13|0
+just the ability|RB DT NN|BODY_5:BODY_1|0
+x i and x i+1|SYM VBP CC SYM NNS|BODY_4:BODY_19|0
+the conclusion|DT NN|BODY_4|1
+this section|DT NN|BODY_3:BODY_4|0
+a standard integrator|DT JJ NN|BODY_11|0
+runge-kutta [4|NNP NNP|BODY_6|0
+a particularly careful algorithm|DT RB JJ NN|BODY_1|0
+bdf and runge-kutta codes|NN CC NN NNS|BODY_2|0
+conditioning|NN|BODY_2|0
+degrees 1-5|NNS NN|BODY_1|0
+q y|RB NN|BODY_2|0
+such a special interface|PDT DT JJ NN|BODY_1|0
+the partial derivatives|DT JJ NNS|BODY_1|0
+the subroutine alevnt|DT JJ NN|BODY_1|0
+this purpose|DT NN|BODY_2|0
+watts [12 , 13]|NNS CD , CD|BODY_2|0
+locating events|JJ NNS|BODY_2|0
+f( x|DT NN|BODY_2:BODY_7|0
+viz.|NN|BODY_10|0
+the number|DT NN|BODY_6|0
+ourselves|PRP|BODY_6|0
+a given value y|DT VBN NN NN|BODY_6|0
+an important application|DT JJ NN|BODY_5:BODY_9|0
+taylor|NN|BODY_11|0
+the direction|DT NN|BODY_6:BODY_12|0
+c 1 piecewise polynomial approximations|NN CD NN NN NNS|BODY_5|0
+these two representations|DT CD NNS|BODY_6|0
+match|NN|BODY_5|0
+polynomials|NNS|BODY_5:BODY_7|0
+the other|DT JJ|BODY_4:BODY_9|0
+1 ) and alpha( 1 )|CD -RRB- CC NN CD -RRB-|BODY_67|0
+the ode solver|DT NN NN|BODY_4|0
+hermite|NN|BODY_13|0
+recourse|NN|BODY_3|0
+a y tabulation point multiplicity error estimate table 3|DT NN NN NN NN NN NN NN CD|BODY_3|0
+set neqg|NN NN|BODY_22|0
+rbound|NN|BODY_42|0
+their interpolating polynomials|PRP$ NN NNS|BODY_8|0
+sometimes|RB|BODY_17|0
+each interval|DT NN|BODY_5:BODY_7|0
+them|PRP|BODY_5:BODY_10|0
+mxord|NN|BODY_36|0
+our code|PRP$ NN|BODY_6:BODY_1|0
+both function and derivative|DT NN CC JJ|BODY_4|0
+many forms|JJ NNS|BODY_9|0
+d ] )|JJ NN -RRB-|BODY_6:BODY_5|0
+algorithms|NNS|BODY_4|0
+a simple test|DT JJ NN|BODY_3|0
+a root-finding algorithm|DT NN NN|BODY_2|0
+the important ideas|DT JJ NNS|BODY_7|0
+such that y|PDT DT NN|BODY_5|0
+one event|CD NN|BODY_3|0
+adams codes|NNS NNS|BODY_18:BODY_2|0
+determining zeros|VBG NNS|BODY_15|0
+methods|NNS|BODY_2|0
+the equation|DT NN|BODY_1:BODY_3|0
+table 1|NN CD|BODY_1:BODY_4|0
+the global error|DT JJ NN|BODY_5:BODY_9|1
+other less|JJ JJR|BODY_14|0
+lbound|NN|BODY_40|0
+a differential equation|DT JJ NN|BODY_17|0
+xevent|NN|BODY_41|0
+the high degrees|DT JJ NNS|BODY_16|0
+comps( 1 ) and alpha( 1 )|NN CD -RRB- CC NN CD -RRB-|BODY_23|0
+the one case|DT CD NN|BODY_1:BODY_7|0
+practice|NN|BODY_6:BODY_3|0
+7 3.2e5 14 9.8e10 table 1|CD CD CD CD NN CD|BODY_15|0
+y 0 ( x|JJ CD -LRB- NNP|BODY_5|0
+( i ) finding|-LRB- NN -RRB- NN|BODY_2|0
+mltplc|NN|BODY_43|0
+first event|JJ NN|BODY_21|0
+x2|CD|BODY_34|0
+this and similar cases|DT CC JJ NNS|BODY_3|0
+nord|NN|BODY_35|0
+an approach|DT NN|BODY_2:BODY_3|0
+the higher degrees|DT JJR NNS|BODY_2:BODY_1|0
+( 4.6 )|-LRB- CD -RRB-|BODY_5|0
+a general event function q( x|DT JJ NN NN NN NN|BODY_16|0
+tabulation points|NN NNS|BODY_4|0
+comps|NNS|BODY_30|0
+f irevcm|NN NN|BODY_24|0
+[0|CD|BODY_7|0
+event location ability|NN NN NN|BODY_3|0
+other intervals|JJ NNS|BODY_11|0
+account|NN|BODY_7|0
+steps|NNS|BODY_4:BODY_8|0
+the history|DT NN|BODY_4|0
+locations|NNS|BODY_14|0
+the next action|DT JJ NN|BODY_28|0
+the computations|DT NNS|BODY_15|0
+a useful check|DT JJ NN|BODY_4|0
+this equation|DT NN|BODY_7|0
+its userg call alevnt(neqg|PRP$ NN NN NN|BODY_29|0
+( possibly|-LRB- RB|BODY_8|0
+the count|DT NN|BODY_5|0
+s|PRP|BODY_5|0
+the condition p|DT NN NN|BODY_9|0
+r interpolation nodes|NN NN NNS|BODY_3|0
+its coding|PRP$ NN|BODY_6|0
+alevntg f user checks|JJ NN NN NNS|BODY_51|0
+a and tend g f user|DT CC VB VBG NN NN|BODY_20|0
+neqf|NN|BODY_37|0
+the later integrations|DT JJ NNS|BODY_5|0
+rounding and integration error effects|NN CC NN NN NNS|BODY_2|0
+too small a value|RB JJ DT NN|BODY_4|0
+f variables|NN NNS|BODY_44|0
+its derivative|PRP$ JJ|BODY_4|0
+the equivalent quantity|DT JJ NN|BODY_6|0
+a first point t 0|DT JJ NN NN CD|BODY_2|0
+the integrator ) and variables|DT NN -RRB- CC NNS|BODY_49|0
+possibly the initial point x|RB DT JJ NN NN|BODY_8|0
+the computed interval|DT JJ NN|BODY_3|0
+the global error y|DT JJ NN NN|BODY_5|0
+the local solution|DT JJ NN|BODY_3|0
+the problem formulation|DT NN NN|BODY_5|0
+this approach|DT NN|BODY_1|0
+alevnt print xevent f user resets|NN NN NN NN NN NNS|BODY_66|0
+next event|JJ NN|BODY_68|0
+authors|NNS|BODY_3|0
+solutions|NNS|BODY_2|0
+more than one event function|JJR IN CD NN NN|BODY_2|0
+our root-finder|PRP$ NN|BODY_13|0
+the solution y|DT NN NN|BODY_5|0
+active event functions|JJ NN NNS|BODY_4|0
+he|PRP|BODY_12|0
+the artificially constructed equation|DT RB VBN NN|BODY_6|0
+the spacing|DT NN|BODY_5|0
+the representation|DT NN|BODY_4|1
+the output variables|DT NN NNS|BODY_50|0
+an adequate appreciation|DT JJ NN|BODY_3|0
+both m|DT NN|BODY_12|0
+than|IN|BODY_6|0
+p ( m )|NN -LRB- NN -RRB-|BODY_5|0
+( v|-LRB- FW|BODY_14|0
+all appropriate|DT JJ|BODY_6|0
+the answer|DT NN|BODY_2|0
+the order|DT NN|BODY_3|0
+runge-kutta codes|NN NNS|BODY_3|0
+the key observation|DT JJ NN|BODY_1:BODY_3|0
+the right|DT NN|BODY_2|0
+the interpolants|DT NNS|BODY_17|0
+a quintic hermite interpolant|DT JJ NN NN|BODY_5|0
+1.1|CD|BODY_6|0
+by|IN|BODY_3|0
+( 2.1 )|-LRB- CD -RRB-|BODY_6|0
+the kind|DT NN|BODY_4|0
+the mesh|DT NN|BODY_4|0
+the accuracy|DT NN|BODY_6|0
+a pseudo-code redefining event|DT JJ NN NN|BODY_13|0
+a crude|DT NN|BODY_5|0
+a fundamental difficulty|DT JJ NN|BODY_2|0
+a variety|DT NN|BODY_2|0
+an important distinction|DT JJ NN|BODY_2|0
+compensation|NN|BODY_2|0
+tion/secant algorithm [3]|JJ NN NN|BODY_9|0
+( i|-LRB- FW|BODY_12|0
+'s output|POS NN|BODY_2|0
+the magnitude|DT NN|BODY_4|0
+context|NN|BODY_10|0
+difficulties|NNS|BODY_7|0
+useful|JJ|BODY_6|0
+( iii ) tabulating values|-LRB- NN -RRB- NN NNS|BODY_6|0
+an algebraic function|DT JJ NN|ABSTRACT_2|0
+restart|NN|BODY_5|0
+( 5.1 ) or p ( m+1 )|-LRB- CD -RRB- CC NN -LRB- CD -RRB-|BODY_6|0
+contrary|JJ|BODY_3|0
+more complicated problems|RBR JJ NNS|BODY_5|0
+odes )|NNS -RRB-|ABSTRACT_4|0
+us|PRP|BODY_10|0
+rewritten|NN|BODY_10|0
+these formulas|DT NNS|BODY_5|0
+the definition|DT NN|BODY_2|0
+r popular integrators|NN JJ NNS|BODY_7|0
+relative local error tolerance|JJ JJ NN NN|BODY_15|0
+high order zeros|JJ NN NNS|BODY_8|0
+one interval|CD NN|BODY_9|0
+[a|NN|BODY_3|0
+a step size|DT NN NN|BODY_4|0
+efficiently approximations|RB NNS|BODY_3|0
+the recent work|DT JJ NN|BODY_4|0
+the early event locations|DT JJ NN NNS|BODY_4|0
+the interval extrapolation|DT NN NN|BODY_3|1
+no roots|DT NNS|BODY_6|0
+a satisfactory way|DT JJ NN|BODY_2|0
+nothing|NN|BODY_2|0
+one way|CD NN|BODY_3|0
+other authors|JJ NNS|BODY_2|0
+subroutine alevnt|JJ NN|BODY_6|0
+the four event functions|DT CD NN NNS|BODY_2|0
+the other errors|DT JJ NNS|BODY_2|0
+the polynomials|DT NNS|BODY_10|0
+the simple event functions|DT JJ NN NNS|BODY_2|0
+these results|DT NNS|BODY_2|0
+this interval|DT NN|BODY_2|0
+this problem|DT NN|BODY_2:BODY_1|0
+which definition|WDT NN|BODY_10|0
+many applications|JJ NNS|BODY_3|0
+possible numerical roots|JJ JJ NNS|BODY_2|0
+just a single occurrence (|RB DT JJ NN -LRB-|BODY_4|0
+4,5 ) runge-kutta formulas|CD -RRB- NN NNS|BODY_3|0
+when finite precision arithmetic|WRB JJ NN NN|BODY_9|0
+both forms|DT NNS|BODY_3|0
+present difficulties|JJ NNS|BODY_6|0
+some impression|DT NN|BODY_9|0
+three event functions|CD NN NNS|BODY_6|0
+some purposes|DT NNS|BODY_3|0
+the latter approach|DT JJ NN|BODY_4|1
+a|DT|BODY_7|0
+f declarations|NN NNS|BODY_15|0
+one tolerance|CD NN|BODY_4|0
+q|NN|BODY_18|0
+a shifted power series representation|DT VBD NN NN NN|BODY_20|0
+the interval (-c|DT NN NN|BODY_6|0
+x1|CD|BODY_33|0
+one cannot|CD MD|BODY_8|0
+shampine|NN|BODY_7|0
+both these difficulties|DT DT NNS|BODY_5|1
+the true error|DT JJ NN|BODY_8|0
+the search|DT NN|BODY_14|0
+and not|CC RB|BODY_3|0
+taneously|NN|BODY_4|0
+obtained|VBN|BODY_11|0
+the span|DT NN|BODY_11|0
+an extension|DT NN|BODY_5|0
+each call|DT NN|BODY_7|0
+alpha|NN|BODY_31|0
+a reverse communication integer variable set|DT NN NN NN JJ NN|BODY_25|0
+the conditiong|DT NN|BODY_5|0
+search (|NN -LRB-|BODY_3|0
+these same events|DT JJ NNS|BODY_14|0
+this further|DT JJ|BODY_2|0
+by if|IN IN|BODY_4|0
+the extrema|DT NN|BODY_4|0
+the second approach|DT JJ NN|BODY_1:BODY_7|0
+noted|VBN|BODY_15|0
+our aim|PRP$ NN|BODY_6|0
+some routines|DT NNS|BODY_5|0
+precisely how many occurrences|RB WRB JJ NNS|BODY_3|0
+certain popular codes|JJ JJ NNS|BODY_18|0
+a better job|DT JJR NN|BODY_2|0
+2 (-c|CD NN|BODY_8|0
+these problems|DT NNS|BODY_8|0
+exit|NN|BODY_27|0
+interpolant|NN|BODY_62|0
+a condition number|DT NN NN|BODY_11|0
+the question|DT NN|BODY_4|0
+view|NN|BODY_10|0
+our event location technique|PRP$ NN NN NN|BODY_7|0
+the quantity|DT NN|BODY_4|0
+our interval|PRP$ NN|BODY_2|0
+loss|NN|BODY_5|0
+those arising|DT VBG|BODY_4|0
+d ] and such that|JJ SYM CC JJ IN|BODY_13|0
+fifth order approximations|JJ NN NNS|BODY_2|0
+larger 5|JJR CD|BODY_5|1
+some general comments|DT JJ NNS|BODY_7|0
+any one|DT NN|BODY_3|0
+backward differentiation|JJ NN|BODY_6|0
+a ( 4,5 ) pair|DT -LRB- CD -RRB- NN|BODY_6|0
+event definition|NN NN|BODY_6|0
+a van der monde system|DT NN FW FW NN|BODY_14|0
+the chebyshev polynomial t r+1|DT NN NN NN NNS|BODY_5|0
+b|NN|BODY_8|0
+the sturm sequence|DT NN NN|BODY_4|0
+all occurrences|DT NNS|BODY_6|0
+instead this|RB DT|BODY_4|0
+property|NN|BODY_4|0
+no reason|DT NN|BODY_11|0
+considerable interest|JJ NN|BODY_2|0
+the first points|DT JJ NNS|BODY_4|0
+the condition|DT NN|BODY_7|0
+the range|DT NN|BODY_6|0
+nature|NN|BODY_52|0
+a continuous function|DT JJ NN|BODY_5|0
+this point|DT NN|BODY_7:BODY_8|0
+no longer useful|DT RB JJ|BODY_5|0
+call|NN|BODY_60|0
+closely clustered roots|RB VBN NNS|BODY_4|0
+hence computed (-c|RB VBN JJ|BODY_5|0
+input values|NN NNS|BODY_45|0
+interval|NN|BODY_10|0
+a sturm sequence algorithm|DT JJ NN NN|BODY_4|0
+integration step g|NN NN VBG|BODY_59|0
+their multiplicity|PRP$ NN|BODY_8|0
+linear functions|JJ NNS|BODY_12|0
+the polynomial p( x )|DT NN NN NN -RRB-|BODY_2|0
+the potential|DT JJ|BODY_6|0
+x1 :=|CD VBN|BODY_19|0
+indication|NN|BODY_7|0
+an important reason|DT JJ NN|BODY_3|0
+the later event locations|DT JJ NN NNS|BODY_7|0
+equispaced steps|JJ NNS|BODY_4|0
+gear|NN|BODY_3|0
+the material|DT NN|BODY_8|0
+polynomial interpolant|NN NN|BODY_5|0
+this information|DT NN|BODY_3|0
+the computed piecewise polynomial functions|DT VBN NN NN NNS|BODY_5|0
+the positions|DT NNS|BODY_7|0
+solution|NN|BODY_8|0
+the polynomial approximation p( x|DT NN NN NN NN|BODY_12|0
+0 ( x )|CD -LRB- SYM -RRB-|BODY_8|0
+its multiplicity and/or type|PRP$ NN CC NN|BODY_9|0
+yields|NNS|BODY_4|0
+reverse communication form|JJ NN NN|BODY_11|0
+similarly if|RB IN|BODY_6|0
+a user|DT NN|BODY_9|0
+an internally chosen point|DT RB VBN NN|BODY_11|0
+all the event locations|DT DT NN NNS|BODY_4|0
+a fuller description|DT JJ NN|BODY_3|0
+a standard bisec-|DT JJ NNS|BODY_8|0
+( bdf ) codes|-LRB- NN -RRB- NNS|BODY_7|0
+the basic theory|DT JJ NN|BODY_3|0
+the list|DT NN|BODY_3|0
+subroutines|NNS|BODY_10|1
+order five|NN CD|BODY_7|0
+1.1 ) step|CD -RRB- NN|BODY_6|0
+distinct points|JJ NNS|BODY_5|0
+multiplicities|NNS|BODY_4|0
+the argument|DT NN|BODY_2|1
+multiplicity|NN|BODY_3|0
+polynomial approximate solutions|JJ JJ NNS|BODY_6|0
+[10]|NNS|BODY_8|0
+the coefficients|DT NNS|BODY_8|0
+several event functions|JJ NN NNS|BODY_2|0
+the s|DT VBZ|BODY_2|0
+0 ( x|CD -LRB- NN|BODY_10|0
+an event location capability|DT NN NN NN|BODY_4|0
+output|NN|BODY_48|0
+the first problem|DT JJ NN|BODY_4|0
+the forms ( 1.3 )|DT NNS -LRB- CD -RRB-|BODY_7|0
+the values construction|DT NNS NN|BODY_10|0
+sign changes|NN NNS|BODY_3|0
+inaccurate solution|JJ NN|BODY_3|0
+most modern codes|JJS JJ NNS|BODY_2|0
+the selection|DT NN|BODY_3|0
+a driver subroutine|DT NN NN|BODY_3|0
+r|NN|BODY_9|0
+discontinuity|NN|BODY_10|0
+all events|DT NNS|BODY_7|0
+a dependent variable y ( iv)|DT JJ JJ NN -LRB- NN|BODY_7|0
+reasonable approximation|JJ NN|BODY_7|0
+a single active event function|DT JJ JJ NN NN|BODY_3|0
+the analysis|DT NN|BODY_2|0
+the basic problem|DT JJ NN|BODY_3|0
+one module|CD NN|BODY_13|0
+a point d ( c|DT NN NN -LRB- NN|BODY_8|0
+the jumps|DT NNS|BODY_1|0
+the local error tolerances|DT JJ NN NNS|BODY_4|0
+first integration step goto call|JJ NN NN NN NN|BODY_56|0
+( r ) (|-LRB- NN -RRB- -LRB-|BODY_5|0
+the routine|DT NN|BODY_8|0
+an efficient way|DT JJ NN|BODY_4|1
+the bdf and adams code|DT NN CC NNS NN|BODY_2|0
+an overestimate|DT NN|BODY_9|0
+equations|NNS|BODY_3|0
+here|RB|BODY_1|0
+the literature|DT NN|BODY_3|0
+the new situation|DT JJ NN|BODY_1|0
+the one|DT CD|BODY_3|0
+the paper [4|DT NN RP|BODY_1|0
+the current point x i|DT JJ NN NN NN|BODY_10|0
+one integration interval|CD NN NN|BODY_16|0
+an accurate estimate|DT JJ NN|BODY_3|0
+|NN|BODY_5|0
+themselves|PRP|BODY_8|0
+search|NN|BODY_3|0
+event occurrences|NN NNS|BODY_7|0
+no points|DT NNS|BODY_5|0
+an independent polynomial approximation|DT JJ NN NN|BODY_3|0
+i g|NN NN|BODY_3|0
+a new variable|DT JJ JJ|BODY_4|0
+g( x|NN NN|BODY_7|0
+the adams code|DT NNS NN|BODY_6|0
+the usual algebraic case|DT JJ JJ NN|BODY_2|0
+the solution component y j|DT NN NN NN NN|BODY_12|0
+two basic modules|CD JJ NNS|BODY_11|0
+degree r|NN NN|BODY_3|0
+the reader|DT NN|BODY_2|0
+a it|DT PRP|BODY_13|0
+points or points|NNS CC NNS|BODY_9|0
+a simple root|DT JJ NN|BODY_5|0
+the associated interpolating polynomial|DT VBN NN NN|BODY_7|0
+the popular fehlberg|DT JJ NN|BODY_2|0
+( 1.4) , rational approximation|-LRB- CD , JJ NN|BODY_5|0
+a similar way|DT JJ NN|BODY_4:BODY_9|0
+the tabulated values|DT JJ NNS|BODY_3|1
+a mode|DT NN|BODY_6|0
+[x adams|NN NNS|BODY_5|0
+the position x 0|DT NN NN CD|BODY_4|0
+the computed event locations|DT VBN NN NNS|BODY_2|0
+different output requirements|JJ NN NNS|BODY_8|0
+possibly|RB|BODY_7|0
+[6|CD|BODY_2|0
+the underlying differential equations|DT VBG JJ NNS|BODY_4|0
+the move|DT NN|BODY_8|0
+the next|DT JJ|BODY_10|0
+addition|NN|BODY_1|0
+the two intervals meeting|DT CD NNS NN|BODY_7|0
+two variations|CD NNS|BODY_2|0
+y 0|JJ CD|BODY_8|0
+the approximations|DT NNS|BODY_11|0
+this module|DT NN|BODY_17|0
+input|NN|BODY_18|0
+its approximation p(|PRP$ NN NN|BODY_3|0
+y( x )|JJ NN -RRB-|BODY_8|0
+[7 ]|CD NN|BODY_3|0
+horn [8|NN NNS|BODY_4|0
+the numerical approximation|DT JJ NN|BODY_4|0
+only a single active event|RB DT JJ JJ NN|BODY_2|0
+which case|WDT NN|BODY_3|0
+the differential equation|DT JJ NN|BODY_4|0
+an error estimate|DT NN NN|BODY_5|1
+evaluations|NNS|BODY_7|0
+the use|DT NN|BODY_2|0
+a standard sturm sequence algorithm|DT JJ NN NN NN|BODY_2|0
+this first|DT JJ|BODY_2|0
+the loss|DT NN|BODY_6|0
+the double zero|DT JJ NN|BODY_12|0
+a minor source|DT JJ NN|BODY_4|0
+a collection|DT NN|BODY_9|1
+the specific context|DT JJ NN|BODY_6|0
+certain special event functions|JJ JJ NN NNS|BODY_5|0
+new integration|JJ NN|BODY_6|0
+several events|JJ NNS|BODY_15|0
+a piecewise rational approximation|DT NN JJ NN|BODY_4|0
+an interface|DT NN|BODY_7|0
+a straightforward fashion|DT JJ NN|BODY_4|0
+rounding effects|JJ NNS|BODY_11|0
+table 2|NN CD|BODY_6|0
+the root|DT NN|BODY_6:BODY_14|0
+the intgration|DT NN|BODY_4|0
+restarting|NN|BODY_2|0
+j ( x|NN -LRB- SYM|BODY_8|0
+the point|DT NN|BODY_9|0
+a class|DT NN|BODY_2|0
+the design|DT NN|BODY_6|0
+the original problem|DT JJ NN|BODY_9|0
+the construction|DT NN|BODY_4|0
+a new f|DT JJ NN|BODY_5|0
+the active events list|DT JJ NNS NN|BODY_12|0
+certain the root-solver|JJ DT NN|BODY_4|0
+the form r|DT NN NN|BODY_5|0
+the underlying polynomial p( x )|DT JJ NN NN NN -RRB-|BODY_2|0
+( 4.1|-LRB- CD|BODY_10|0
+the close pair|DT JJ NN|BODY_2|0
+multiplicity two|JJ CD|BODY_3|0
+the matter|DT NN|BODY_5:BODY_1|0
+the error tolerances|DT NN NNS|BODY_3|0
+the second|DT JJ|BODY_5|0
+4.1 )|CD -RRB-|BODY_7|0
+numerical errors|JJ NNS|BODY_7|0
+the independent variable x|DT JJ JJ SYM|BODY_2|0
+this and|DT CC|BODY_4|0
+a bisection algorithm|DT NN NN|BODY_7|0
+our event|PRP$ NN|BODY_6|0
+only the event function|RB DT NN NN|BODY_2|0
+such that|JJ IN|BODY_6|0
+large measure|JJ NN|BODY_5|0
+an appropriate algorithm|DT JJ NN|BODY_12|0
+event j|NN NN|BODY_3|0
+the degree|DT NN|BODY_6|0
+the same|DT JJ|BODY_3|0
+the smooth function f(|DT JJ NN NNS|BODY_2|0
+a second module|DT NN NN|BODY_7|0
+a list|DT NN|BODY_4|0
+the shifted and scaled form|DT VBN CC VBN NN|BODY_6|0
+[2|NN|BODY_7|1
+a root-|DT NNS|BODY_9|0
+a given value|DT VBN NN|BODY_5|0
+the single event function|DT JJ NN NN|BODY_3|0
+the term y|DT NN NN|BODY_3|0
+its treatment|PRP$ NN|BODY_3|0
+one set|CD NN|BODY_3|0
+an integration|DT NN|BODY_2|0
+the first element|DT JJ NN|BODY_11|0
+any events|DT NNS|BODY_15|0
+the expression|DT NN|BODY_7|1
+the vicinity|DT NN|BODY_7|0
+different signs|JJ NNS|BODY_18|0
+a new dependent variable|DT JJ JJ JJ|BODY_2|0
+the computed positions|DT JJ NNS|BODY_6|0
+the usual approaches|DT JJ NNS|BODY_2|0
+the half open interval|DT NN JJ NN|BODY_3|0
+the remaining part (|DT VBG NN -LRB-|BODY_2|0
+'s choice|POS NN|BODY_4|0
+) and y 0 ( x )|-RRB- CC NN CD -LRB- SYM -RRB-|BODY_3|0
+bisection and sturm sequences|NN CC NN NNS|BODY_17|0
+0 ( x ) )|CD -LRB- SYM -RRB- -RRB-|BODY_11|0
+general no way|JJ DT NN|BODY_3|0
+many integration intervals|JJ NN NNS|BODY_6|0
+the driver routine|DT NN NN|BODY_6|0
+problems|NNS|BODY_3|0
+more detail|JJR NN|BODY_3|0
+the various possible definitions|DT JJ JJ NNS|BODY_3|0
+its difficulties|PRP$ NNS|BODY_3|0
+the representations|DT NNS|BODY_5|0
+the initial point|DT JJ NN|BODY_6|0
+the underlined values|DT JJ NNS|BODY_4|0
+more general polynomial forms|RBR JJ NN NNS|BODY_1|0
+rather more complicated machinery|RB RBR JJ NN|BODY_5|0
+particular|JJ|BODY_1|0
+[11|NNS|BODY_2|0
+converges|NNS|BODY_8|0
+the problems|DT NNS|BODY_5|0
+any|DT|BODY_2|0
+little|JJ|BODY_2|0
+their rejection|PRP$ NN|BODY_7|0
+that codes|DT NNS|BODY_2|0
+several times|JJ NNS|BODY_6|0
+the interval ( c|DT NN -LRB- NN|BODY_4|0
+( e|-LRB- NN|BODY_5|0
+the underlined event locations|DT VBN NN NNS|BODY_3|0
+some change|DT NN|BODY_4|0
+no events|DT NNS|BODY_8|0
+an occurence|DT NN|BODY_3|0
+the polynomial approximations|DT NN NNS|BODY_4|0
+one iteration|CD NN|BODY_4|0
+two fundamental difficulties|CD JJ NNS|ABSTRACT_4:BODY_1|0
+a way|DT NN|ABSTRACT_4|0
+the next occurence|DT JJ NN|BODY_3|0
+typical codes|JJ NNS|BODY_2|0
+13 ] codes|CD NN NNS|BODY_10|0
+each|DT|BODY_3|0
+worse|JJR|BODY_3|0
+a big help|DT JJ NN|BODY_2|0
+our assistance|PRP$ NN|BODY_10|0
+fairly common|RB JJ|BODY_2|0
+as|IN|BODY_1|0
+such an interval|JJ DT NN|BODY_9|0
+the largest interval|DT JJS NN|BODY_18|0
+the dormand-prince-shampine ( dps) formulas|DT JJ -LRB- NN NNS|BODY_4|0
+equation|NN|BODY_6|0
+a priori information|DT NN NN|BODY_3|0
+the root-finding task|DT NN NN|BODY_3|0
+dz dx|NN NN|BODY_5|0
+the popular codes|DT JJ NNS|BODY_6|0
+some postprocessing|DT NN|BODY_7|0
+any extra evaluations|DT JJ NNS|BODY_2|0
+the true , or global|DT JJ , CC JJ|BODY_5|0
+minimal assumptions|JJ NNS|BODY_3|0
+sturm sequence coefficients|JJ NN NNS|BODY_10|0
+the internal data|DT JJ NNS|BODY_8|0
+discontinuities|NNS|BODY_12|0
+the reliable solutions|DT JJ NNS|ABSTRACT_2|0
+occurrences|NNS|BODY_12|0
+this position|DT NN|BODY_6|0
+no need|DT NN|BODY_12|0
+the chance|DT NN|BODY_4|0
+an extremum|DT NN|BODY_9|0
+the next integration interval|DT JJ NN NN|BODY_2|0
+the usual assumption|DT JJ NN|BODY_2|0
+a current interval (-c|DT JJ NN NN|BODY_2|0
+y(|JJ|BODY_6|0
+a given increment \delta|DT VBN NN NN|BODY_8|0
+a function f|DT NN NN|BODY_7|0
+section|NN|BODY_5|0
+a standard code|DT JJ NN|BODY_3|0
+a position|DT NN|BODY_2|0
+both efficient and robust|DT JJ CC JJ|BODY_5|0
+all related|DT VBN|BODY_15|1
+p 0|NN CD|BODY_12|0
+no evaluations|DT NNS|BODY_4|0
+the new definition|DT JJ NN|BODY_9|0
+namely f( x|RB JJ SYM|BODY_7|0
+some details|DT NNS|BODY_3|0
+the expensive part|DT JJ NN|BODY_5|0
+a software design|DT NN NN|BODY_2|0
+the  first position |DT JJ RB NN|BODY_4|0
+the second term|DT JJ NN|BODY_7|0
+( 1.1|-LRB- CD|BODY_2|0
+a new estimate|DT JJ NN|BODY_3|0
+the new interval|DT JJ NN|BODY_8|0
+the form q( x|DT NN NN NN|BODY_2|0
+the nag code d02nbf|DT NN NN NN|BODY_13|0
+not well established|RB RB VBN|BODY_1|0
+the integration tolerance|DT NN NN|BODY_3|0
+leads|NNS|BODY_9|0
+the calling program|DT VBG NN|BODY_5|0
+even qualitative agreement|RB JJ NN|BODY_5|0
+their realization|PRP$ NN|BODY_9|0
+a little|DT RB|BODY_2|0
+known degree r|VBN NN NN|BODY_10|0
+derivatives|NNS|BODY_3|0
+this f|DT NN|BODY_1|0
+analagous results|JJ NNS|BODY_2|0
+a temptation|DT NN|BODY_2|0
+just a taylor series expansion|RB DT NN NN NN|BODY_2|0
+the only one|DT JJ CD|BODY_12|0
+a step oriented mode|DT NN VBN NN|BODY_4|0
+more than one active event|JJR IN CD JJ NN|BODY_2|0
+the current position|DT JJ NN|BODY_4|0
+any stage|DT NN|BODY_7|0
+a polynomial p( x )|DT NN NN SYM -RRB-|BODY_8|0
+no information|DT NN|BODY_3|0
+the scheme|DT NN|BODY_1|0
+the set|DT NN|BODY_3|0
+general , likely|JJ , JJ|BODY_8|0
+the root finder|DT NN NN|BODY_4|0
+a task|DT NN|ABSTRACT_2|0
+the same tolerance|DT JJ NN|BODY_5|0
+the newly defined events|DT RB VBN NNS|BODY_9|0
+[x the way|IN DT NN|BODY_8|0
+the standard way|DT JJ NN|BODY_7|0
+a difficulty|DT NN|BODY_1|0
+a size|DT NN|BODY_2|0
+these global errors|DT JJ NNS|BODY_2|0
+a consequence|DT NN|BODY_14|0
+the alleged location|DT JJ NN|BODY_4|0
+q( x|JJ SYM|BODY_2|0
+the efficient location|DT JJ NN|BODY_7|0
+only those event functions|RB DT NN NNS|BODY_2|0
+the only quantity available|DT JJ NN JJ|BODY_13|1
+the whole interval|DT JJ NN|BODY_11|0
+values 2 , 3 , 4 , etc|NNS CD , CD , CD , FW|BODY_6|0
+all multiple roots|DT JJ NNS|BODY_5|1
+a reliable solution|DT JJ NN|BODY_4|0
+the discontinuity|DT NN|BODY_5|0
+these facts|DT NNS|BODY_3|0
+the equations|DT NNS|BODY_7|0
+two significant advantages|CD JJ NNS|BODY_10|0
+the second problem|DT JJ NN|BODY_1|0
+a heater|DT NN|BODY_10|0
+further ode evaluations|JJ NN NNS|BODY_5|0
+odd replace|JJ VB|BODY_1|0
+a variable|DT JJ|BODY_8|0
+a related matter|DT JJ NN|BODY_1|0
+( 4.4 ) and ( 4.5 )|-LRB- CD -RRB- CC -LRB- CD -RRB-|BODY_6|0
+one or more events|CD CC JJR NNS|BODY_14|0
+a specified accuracy|DT JJ NN|BODY_5|0
+that value|DT NN|BODY_8|0
+a simple user interface|DT JJ NN NN|BODY_12|0
+j|NN|BODY_22|0
+the adams|DT NNS|BODY_1|0
+efficiency|NN|BODY_1|0
+no other events|DT JJ NNS|BODY_10|0
+interest|NN|BODY_6|0
+an interpolation feature|DT NN NN|BODY_12|0
+a change|DT NN|BODY_1|0
+comparatively low cost|RB JJ NN|BODY_9|0
+the call|DT NN|BODY_16|0
+the section|DT NN|BODY_4|0
+two stages|CD NNS|BODY_5|0
+use local extrapolation|NN JJ NN|BODY_8|0
+stiff problems|JJ NNS|BODY_6|0
+higher order derivatives|JJR NN NNS|BODY_3|0
+possibilities|NNS|BODY_3|0
+the approaches|DT NNS|BODY_3|0
+these cases|DT NNS|BODY_1|0
+common problems|JJ NNS|BODY_1|0
+due|JJ|BODY_1|0
+m|NN|BODY_5|0
+1]|CD|BODY_8|0
+circumstances|NNS|BODY_15|0
+3|CD|BODY_1|0
+0 i|CD NN|BODY_10|0
+any standard integrator|DT JJ NN|BODY_3|0
+at least one event|IN JJS CD NN|BODY_1|0
+figure 1|NN CD|BODY_7|0
+successive intervals|JJ NNS|BODY_11|0
+the difficulties|DT NNS|BODY_1|0
+the discrepancy|DT NN|BODY_1|0
+the four tabulation points|DT CD NN NNS|BODY_3|0
+the next event function|DT JJ NN NN|BODY_11|0
+the precision|DT NN|BODY_3|0
+these quantities|DT NNS|BODY_3|0
+this first approach|DT JJ NN|BODY_1|0
+this observation|DT NN|BODY_4|0
+two ways|CD NNS|BODY_3|0
+a large part|DT JJ NN|BODY_1|0
+tabulation|NN|BODY_4|0
+5 2.9e3 11 4.0e8 table 2|CD CD CD CD NN CD|BODY_1|0
+this standard form|DT JJ NN|BODY_17|0
+many complications|JJ NNS|BODY_3|0
+a room|DT NN|BODY_7|0
+a new first event function|DT JJ JJ NN NN|BODY_9|0
+odes|NNS|TITLE_3|0
+reliable solution|JJ NN|TITLE_1|0
+a globally c 1 piecewise polynomial approximate solution|DT NN NN CD NN JJ JJ NN|BODY_12|0
+the popular runge-kutta formulas|DT JJ NN NNS|BODY_1|0
+this example|DT NN|BODY_1|0
+such approximate solutions|JJ JJ NNS|BODY_4|0
+the remaining possibility|DT VBG NN|BODY_1|0
+the estimate|DT NN|BODY_1|0
+the  condition number|DT JJ NN NN|BODY_13|0
+their efficiency|PRP$ NN|BODY_4|0
+almost all cases )|RB DT NNS -RRB-|BODY_7|0
+the software|DT NN|BODY_7|0
+their accuracy|PRP$ NN|BODY_10|0
+the most common such task|DT RBS JJ JJ NN|BODY_1|0
+one such task|CD JJ NN|ABSTRACT_1|0
+10 \gamma5|CD CD|BODY_16|0
+the effects|DT NNS|BODY_1|0
+this assumption|DT NN|BODY_1|0
+more information|RBR NN|BODY_3|0
+a larger task|DT JJR NN|BODY_6:ABSTRACT_6|0
+a different tolerance|DT JJ NN|BODY_5|0
+all these fundamental difficulties|PDT DT JJ NNS|BODY_1|0
+alevnt endif /*end figure 1|NN JJ NN NN CD|BODY_70|0
+the general one|DT JJ CD|BODY_4|0
+the first occurrence|DT JJ NN|BODY_9|0
+b ]|NN NN|BODY_4|0
+the result|DT NN|BODY_5|0
+infinite precision arithmetic|JJ NN NN|BODY_10|0
+quality codes|NN NNS|BODY_1|0
+any derivative|DT NN|BODY_1|0
+a smaller step|DT JJR NN|BODY_4|0
+other difficulties|JJ NNS|BODY_7|1
+this difficulty|DT NN|BODY_1|0
+proper use|JJ NN|BODY_1|0
+the nordsieck form|DT JJ NN|BODY_1|0
+ffi|NN|BODY_1|1
+an expensive way|DT JJ NN|BODY_1|0
+jump discontinuities|NN NNS|BODY_7|0
+step size|NN NN|BODY_10|0
+the solution vector y( x )|DT NN NN NN NN -RRB-|BODY_6|0
+the bisection/secant code|DT JJ NN|BODY_7|0
+an even number|DT RB NN|BODY_1|0
+a value y|DT NN NN|BODY_2|0
+this loss|DT NN|BODY_1|0
+software practice|NN NN|ABSTRACT_5|0
+the solution y( x )|DT NN NN NN -RRB-|BODY_1|0
+the g j|DT NN NN|BODY_1|0
+[2]|NN|BODY_5|0
+many popular integrators|JJ JJ NNS|BODY_11|0
+the specified local accuracy|DT VBN JJ NN|BODY_5|0
+all four event functions|DT CD NN NNS|BODY_3|0
+our approach|PRP$ NN|BODY_1|0
+4|CD|BODY_1|0
+mathematical software|JJ NN|BODY_1|0
+information|NN|BODY_4|0
+other methods|JJ NNS|BODY_1|0
+our goal|PRP$ NN|BODY_1|0
+machine roundoff|NN NN|BODY_18|0
+mesh points|NN NNS|BODY_20|0
+no effect|DT NN|BODY_10|0
+e ]|NN NN|BODY_8|0
+the theoretical discussion|DT JJ NN|BODY_1|0
+event function evaluation|NN NN NN|BODY_4|0
+several possibilities|JJ NNS|BODY_2|0
+current interest|JJ NN|BODY_6|0
+a globally continuous function|DT RB JJ NN|BODY_11|0
+how accurately|WRB RB|BODY_3|0
+some codes|DT NNS|BODY_1|0
+the event position information|DT NN NN NN|BODY_9|0
+this error|DT NN|BODY_3|0
+an ode.|DT NN|BODY_7|0
+introduction|NN|BODY_1|0
+the reported|DT JJ|BODY_7|0
+these|DT|BODY_1|0
+a common use|DT JJ NN|BODY_1|0
+certain useful kinds|JJ JJ NNS|ABSTRACT_1|0
+the esimate ( 2.1 )|DT NN -LRB- CD -RRB-|BODY_1|0
+a more deceptive problem|DT RBR JJ NN|BODY_1|0
+6 conclusions|CD NNS|BODY_1|0
+a multiple root|DT JJ NN|BODY_5|0
+a simpler algorithm|DT JJR NN|BODY_4|0
+a version|DT NN|BODY_1|0
+all sufficiently stringent tolerances|DT RB JJ NNS|BODY_1|0
+appropriate or necessary|JJ CC JJ|BODY_1|0
+both cases|DT NNS|BODY_1|0
+cond( v )|JJ FW -RRB-|BODY_8|0
+details|NNS|BODY_3|0
+only one event|RB CD NN|BODY_3|0
+our implementation|PRP$ NN|BODY_1|0
+section 2|NN CD|BODY_4|0
+section 3|NN CD|BODY_1|0
+section 4|NN CD|BODY_1|0
+some cases|DT NNS|BODY_1|0
+sturm sequences|NN NNS|BODY_1|0
+the computed solution|DT JJ NN|BODY_8|0
+the event conversion|DT NN NN|BODY_7|0
+the general approach|DT JJ NN|BODY_9|0
+the modules|DT NNS|BODY_1|0
+the next section|DT JJ NN|BODY_1|0
+the position closest to|DT NN JJS TO|BODY_4|0
+the special problems|DT JJ NNS|BODY_1|1
+the technique|DT NN|BODY_5|0
+the theoretical difficulties|DT JJ NNS|BODY_3|0
+these obvious generalizations|DT JJ NNS|BODY_2|0
+this accuracy|DT NN|BODY_7|0
+this case|DT NN|BODY_1|0
+this efficiency|DT NN|BODY_2|0
+this stage|DT NN|BODY_1|0
+which event functions|WDT NN NNS|BODY_5|0
+which events|WDT NNS|BODY_3|0
+2|CD|BODY_1|0
+an example|DT NN|BODY_1|0
+this grafting process|DT NN NN|BODY_1|0
+y )|NN -RRB-|BODY_5|0
+a second possibility|DT JJ NN|BODY_1|0
+our technique|PRP$ NN|BODY_1|0
+the first function and repeat|DT JJ NN CC NN|BODY_6|0
+this cost|DT NN|BODY_1|0
+a single equation|DT JJ NN|BODY_9|0
+the jth event function|DT JJ NN NN|BODY_7|0
+a continuous derivative|DT JJ NN|BODY_9|0
+all the possible definitions|DT DT JJ NNS|BODY_5|0
+the general purpose package|DT JJ NN NN|BODY_1|0
+that position|DT NN|BODY_7|0
+i+1 ]|JJ SYM|BODY_16|0
+some examples|DT NNS|BODY_1|0
+the better choice|DT JJR NN|BODY_13|0
+either y or y 0|DT NN CC NN CD|BODY_7|0
+advantages|NNS|BODY_6|0
+considerable flexibility|JJ NN|BODY_5|0
+high multiplicity|JJ NN|BODY_12|0
+just one event|RB CD NN|BODY_20|0
+ill-conditioned roots|JJ NNS|BODY_5|0
+an interval|DT NN|BODY_1|0
+the computation|DT NN|BODY_8|0
+a mode such|DT NN JJ|BODY_3|0
+any but near-pathological cases|DT CC JJ NNS|BODY_3|0
+the computed|DT JJ|BODY_2|0
+an initial value jyj|DT JJ NN NN|BODY_1|0

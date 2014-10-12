@@ -1,0 +1,388 @@
+pairwise key establishment|JJ JJ NN|TITLE_3:ABSTRACT_2:BODY_2:BODY_3|0
+which|WDT|BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_17:ABSTRACT_3:BODY_24:BODY_3:BODY_19:BODY_4:BODY_8:BODY_9|4
+each other|DT JJ|BODY_5:ABSTRACT_5:BODY_10|0
+cluster deployed sensor networks|NN VBN NN NNS|BODY_6:BODY_11:ABSTRACT_7|1
+the mapping relationship|DT NN NN|ABSTRACT_6:BODY_2|1
+the idea|DT NN|BODY_4:ABSTRACT_7|1
+sensors|NNS|BODY_6:ABSTRACT_4:BODY_2|0
+security|NN|ABSTRACT_2:BODY_10|0
+pairwise key|NN NN|BODY_5:ABSTRACT_6|0
+kdc( key distribution center|JJ NN NN NN|ABSTRACT_8|0
+the working performance|DT VBG NN|ABSTRACT_1|1
+a new general framework|DT JJ JJ NN|ABSTRACT_3|0
+,u,m ,v,n )|NN NN -RRB-|ABSTRACT_5|1
+the new algorithm|DT JJ NN|ABSTRACT_2|0
+a new kind|DT JJ NN|ABSTRACT_1|1
+distributed systems-distributed applications|VBN JJ NNS|ABSTRACT_2|0
+a fundamental role|DT JJ NN|ABSTRACT_6|0
+pairwise key predistribution|NN NN NN|ABSTRACT_4|0
+security issue|NN NN|ABSTRACT_8|0
+wireless sensor networks|JJ NN NNS|ABSTRACT_9|0
+polynomial pool schemes|NN NN NNS|ABSTRACT_9|0
+higher possibilities|JJR NNS|ABSTRACT_4|0
+previous related works|JJ JJ NNS|ABSTRACT_7|0
+better performance|JJR NN|ABSTRACT_3|0
+there|EX|BODY_41:BODY_16:BODY_18:BODY_21:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8|4
+it|PRP|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+we|PRP|BODY_6:BODY_5:BODY_15:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|5
+a|DT|BODY_6:BODY_12:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_10:BODY_8|0
+nodes|NNS|BODY_17:BODY_43:BODY_13:BODY_3:BODY_4:BODY_33:BODY_6:BODY_5:BODY_31:BODY_1:BODY_7:BODY_29:BODY_8:BODY_20|4
+sensor networks|NN NNS|BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_9|2
+( i'1i'2â€¦i'n|-LRB- NN|BODY_6:BODY_16:BODY_2:BODY_14:BODY_10:BODY_19:BODY_4:BODY_7:BODY_9|1
+the distance|DT NN|BODY_12:BODY_13:BODY_2:BODY_3:BODY_10|2
+j'1j'2â€¦j|JJ|BODY_6:BODY_12:BODY_16:BODY_18:BODY_10:BODY_7:BODY_8|1
+any two nodes|DT CD NNS|BODY_15:BODY_2:BODY_3:BODY_8|1
+)|-RRB-|BODY_6:BODY_2:BODY_7:BODY_9|0
+the sensor network|DT NN NN|BODY_12:BODY_11:BODY_3:BODY_10:BODY_4:BODY_9|1
+each sensor node|DT NN NN|BODY_6:BODY_2:BODY_3|0
+direct pairwise key|JJ NN JJ|BODY_36:BODY_15:BODY_27:BODY_38:BODY_30:BODY_20:BODY_9|2
+a and b|DT CC NN|BODY_32:BODY_27:BODY_15:BODY_21:BODY_14:BODY_3:BODY_4:BODY_19|3
+1 â‰|CD NN|BODY_6:BODY_11:BODY_18:BODY_2|0
+they|PRP|BODY_2:BODY_3:BODY_4:BODY_9|1
+b|NN|BODY_6:BODY_5:BODY_4:BODY_7|0
+those schemes|DT NNS|BODY_2|0
+node|NN|BODY_11:BODY_18:BODY_21:BODY_26:BODY_3:BODY_14:BODY_37:BODY_7:BODY_8|0
+1|CD|BODY_5:BODY_16:BODY_24:BODY_7:BODY_9|0
+this paper|DT NN|BODY_5:BODY_2:BODY_1|2
+the above section|DT JJ NN|BODY_6:BODY_3|2
+hierarchical hypercube model|JJ NN NN|BODY_5:BODY_16:BODY_3:BODY_4:BODY_9|1
+the grid-based scheme|DT JJ NN|BODY_3:BODY_4|1
+< âˆ’121|DT CD|BODY_12:BODY_36:BODY_3|1
+the sensor nodes|DT NN NNS|BODY_1:BODY_4:BODY_8|0
+the whole sensor network|DT JJ NN NN|BODY_2:BODY_1:BODY_8|1
+step 1|NN CD|BODY_6:BODY_5:BODY_1|2
+the communication radius|DT NN NN|BODY_6:BODY_4|2
+a route|DT NN|BODY_6:BODY_11:BODY_5:BODY_3|0
+j'1j'2â€¦j 'm-1 jm )|RB JJ NN -RRB-|BODY_12:BODY_10|1
+,j1j2â€¦jm )|NN -RRB-|BODY_14:BODY_3|1
+the nodes|DT NNS|BODY_5:BODY_13:BODY_2:BODY_1|0
+a key path|DT JJ NN|BODY_15:BODY_4|1
+many sensor network applications|JJ NN NN NNS|BODY_3|1
+node b|VBD NN|BODY_5:BODY_4:BODY_8|0
+d1=0|NN|BODY_1:BODY_2:BODY_29|1
+follows|VBZ|BODY_3:BODY_4:BODY_10:BODY_8|0
+121 ) ,(2334) )|CD -RRB- NN -RRB-|BODY_15:BODY_23:BODY_10|0
+the k different hypercubes|DT NN JJ NNS|BODY_2|0
+a two dimensional grid|DT CD JJ NN|BODY_5|1
+a common polynomial share|DT JJ NN NN|BODY_19:BODY_30|2
+,...,2,1 2 > <|CD CD NNS VBP|BODY_34|1
+them|PRP|BODY_6:BODY_8:BODY_20|1
+theorem 2|NN CD|BODY_1:BODY_7|1
+key setup server assigns|JJ NN NN NNS|BODY_2:BODY_3|0
+an alternative key path|DT JJ JJ NN|BODY_2|1
+step 2|NN CD|BODY_1:BODY_10|1
+pairwise key establishment algorithm|NN NN NN NN|BODY_7|1
+f m jjjinii m|NN NN NNS NN|BODY_35|1
+new cluster-based distribution model|JJ JJ NN NN|BODY_4|1
+h(k ,u,m ,v,n)|JJ NN NN|BODY_3:BODY_10:BODY_4|0
+pairwise key establishment [1]|JJ JJ NN NN|BODY_3|1
+the key pool idea|DT NN NN NN|BODY_4|0
+any two neighboring nodes|DT CD JJ NNS|BODY_11:BODY_1:BODY_10:BODY_4|0
+a novel cluster distribution|DT NN NN NN|BODY_3|1
+other alternative key paths|JJ JJ JJ NNS|BODY_8|1
+no direct pairwise key|DT JJ NN JJ|BODY_42|1
+the source node|DT NN NN|BODY_13:BODY_8|2
+the secrets|DT NNS|BODY_3:BODY_10|0
+a unique polynomial id|DT JJ NN NN|BODY_29|0
+the diameter|DT NN|BODY_5:BODY_2:BODY_4:BODY_8|0
+any two sensors|DT CD NNS|BODY_2|0
+a correct key path|DT JJ JJ NN|BODY_2:BODY_7|0
+an important requirement|DT JJ NN|BODY_2|1
+j1j2â€¦jm )|NN -RRB-|BODY_3:BODY_19:BODY_7|0
+( key predistribution )|-LRB- JJ NN -RRB-|BODY_2|0
+0 â‰|CD JJ|BODY_12:BODY_14:BODY_20|0
+a general framework|DT JJ NN|BODY_6|1
+the polynomial-based key pre-distribution|DT JJ NN NN|BODY_3|0
+two key predistribution schemes|CD JJ NN NNS|BODY_3|0
+a k-levels|DT NNS|BODY_6:BODY_2:BODY_3|0
+any node|DT NN|BODY_16:BODY_2|0
+( 1 ) generation|-LRB- CD -RRB- NN|BODY_4|0
+the hierarchical hypercube model|DT JJ NN NN|BODY_4|0
+key setup server|JJ NN NN|BODY_2:BODY_7|0
+d2=0|NN|BODY_18:BODY_3:BODY_4|1
+a finite field fq|DT JJ NN NN|BODY_28|0
+d1=1|NN|BODY_17:BODY_2:BODY_4|1
+a key pool|DT JJ NN|BODY_5:BODY_3|0
+the hamming distance|DT NN NN|BODY_5:BODY_14|1
+d= d1+ d2|NN NN NN|BODY_5:BODY_15|1
+the corresponding polynomial ids|DT JJ NN NNS|BODY_15|0
+direct pairwise key discovery|JJ NN JJ NN|BODY_7|0
+( 2|-LRB- CD|BODY_6:BODY_8|0
+0 â‰ ¤ j1|CD VBN NN NNS|BODY_6|0
+â‰ ¤ u-1 )|JJ NN NN -RRB-|BODY_16|0
+theorem 1|NN CD|BODY_6:BODY_1:BODY_7|1
+any two sensor nodes|DT CD NN NNS|BODY_8|0
+the k different clusters|DT NN JJ NNS|BODY_5|0
+l â‰ ¤ k|JJ NN NN NN|BODY_19:BODY_8|0
+a connected graph|DT JJ NN|BODY_2:BODY_3:BODY_4|0
+a pairwise key|DT NN NN|BODY_5:BODY_4:BODY_7|0
+0 â‰ ¤|CD VBN NN|BODY_21:BODY_7:BODY_9|0
+h(k ,u,m ,v,n )|NN NN NN -RRB-|BODY_5:BODY_7|0
+the sensors|DT NNS|BODY_1:BODY_7|1
+a bivariate polynomials pool|DT JJ NNS NN|BODY_8|0
+the same round|DT JJ NN|BODY_6:BODY_8|0
+1 ,...|CD CD|BODY_5:BODY_23|1
+the above security problem|DT JJ NN NN|BODY_2|0
+just one position different|RB CD NN JJ|BODY_22|0
+the following good properties|DT VBG JJ NNS|BODY_3|0
+121 ) ,(2234) )|CD -RRB- NN -RRB-|BODY_13|0
+â‰ ¤ v-1 ,v=|VBN NN NN NN|BODY_23|0
+the detailed description|DT JJ NN|BODY_3|2
+all the sensor nodes|PDT DT NN NNS|BODY_5|0
+the destination node b|DT NN NN NN|BODY_6|0
+a example|DT NN|BODY_2|0
+a new distribution model|DT JJ NN NN|BODY_5|0
+a unique cluster id|DT JJ NN NN|BODY_3|0
+a unique node id|DT JJ NN NN|BODY_4|0
+some compromised /fault sensors|DT JJ NN NNS|BODY_4|0
+the direct pairwise key|DT JJ NN NN|BODY_3|0
+the following key path|DT VBG JJ NN|BODY_9|0
+the previous works|DT JJ NNS|BODY_5|1
+) model|-RRB- NN|BODY_2:BODY_8|0
+â‰ ¤ v-1 )|JJ NN NN -RRB-|BODY_9|0
+( i1i2â€¦in ,j1j2â€¦jm )|-LRB- JJ NN -RRB-|BODY_5|0
+the same cluster l|DT JJ NN NN|BODY_3|0
+section 3 and 4|NN CD CC CD|BODY_4|0
+the node b( i'1i'2â€¦i'n|DT NN NN NN|BODY_11|0
+a 1â€¦am = b|DT JJ SYM NN|BODY_2|0
+the same cluster form|DT JJ NN NN|BODY_3|0
+a common key e|DT JJ NN NN|BODY_5|0
+jt â‰   j't|RB VBD JJ NN|BODY_10|0
+only one position|RB CD NN|BODY_6|0
+their common polynomial share|PRP$ JJ NN NN|BODY_14|0
+the key path|DT JJ NN|BODY_9|1
+no compromised nodes|DT JJ NNS|BODY_11:BODY_7:BODY_9|1
+another alternative key path|DT JJ JJ NN|BODY_17|0
+a key path p|DT JJ NN NN|BODY_5|0
+a shortest key path|DT JJS JJ NN|BODY_16|0
+j'1j'2 j3â€¦jm-1 jm )|NN NN NN -RRB-|BODY_5:BODY_17|0
+a high memory overhead|DT JJ NN NN|BODY_4|0
+i'1i'2â€¦i'n ) and d2=dh(j1j2â€¦jm|NN -RRB- CC NN|BODY_17:BODY_7|0
+a direct pairwise key|DT JJ NN NN|BODY_2|0
+the above nodes series|DT JJ NNS NN|BODY_10|0
+step 3|NN CD|BODY_16:BODY_1|1
+[1] ] and [2]|JJ SYM CC NN|BODY_5|0
+the indirect pairwise key|DT JJ NN JJ|BODY_25|0
+communicating nodes|NN NNS|BODY_5|1
+the following theorem 2|DT VBG NN CD|BODY_6|0
+the following theorem 1|DT VBG NN CD|BODY_6|0
+the definition 5 respectively|DT NN CD RB|BODY_8|0
+affected pairwise keys increases|JJ NN NNS NNS|BODY_6|0
+supposing|NN|BODY_11:BODY_2:BODY_9|0
+equals|NNS|BODY_26:BODY_3|0
+jm â‰   jm|NNP NN NNP NNP|BODY_5|0
+a same logical hypercube|DT JJ JJ NN|BODY_21|0
+the actual applications|DT JJ NNS|BODY_3|0
+hierarchical hypercube model definition|JJ NN NN NN|BODY_1|0
+our hierarchical hypercube model|PRP$ JJ NN NN|BODY_4|0
+( detailed routing algorithms|-LRB- VBN NN NNS|BODY_15|0
+f n|NN RB|BODY_25:BODY_8|1
+the theorem 2|DT NN CD|BODY_8|1
+6.3 path key discovery|CD NN JJ NN|BODY_1|0
+the key path p|DT JJ NN NN|BODY_1|0
+those t-1 intermediate nodes|DT JJ JJ NNS|BODY_9|0
+the node ids|DT NN NNS|BODY_6|1
+the node|DT NN|BODY_2:BODY_9|0
+some intermediate nodes|DT JJ NNS|BODY_5|1
+â€¦|NNP|BODY_6:BODY_18:BODY_7:BODY_8|0
+a small number|DT JJ NN|BODY_2|0
+eschenauer and gligor|NN CC NN|BODY_1|1
+t|NN|BODY_12:BODY_3|0
+some compromised nodes|DT JJ NNS|BODY_4|1
+secret keys|JJ NNS|BODY_4|1
+the pairwise key|DT NN NN|BODY_5:BODY_9|1
+an actual model|DT JJ NN|BODY_2:BODY_7|0
+key distribution center|JJ NN NN|BODY_9|0
+our scheme dose|PRP$ NN NN|BODY_2|0
+compute|NN|BODY_6:BODY_11|2
+d1=dh(i1i2â€¦in|NN|BODY_6:BODY_16:BODY_9|0
+a kind|DT NN|BODY_2:BODY_3|1
+low memory overhead|JJ NN NN|BODY_10|0
+a and b.|DT CC VBG|BODY_6:BODY_5:BODY_44:BODY_4:BODY_7:BODY_9|1
+any cluster|DT NN|BODY_13:BODY_3|0
+correct key path|JJ JJ NN|BODY_8|1
+a multi-dimensional hypercube|DT JJ NN|BODY_6|1
+the two clusters|DT CD NNS|BODY_8|0
+the proposed algorithm|DT VBN NN|BODY_1|1
+sensors and assigns|NNS CC NNS|BODY_3|0
+proof|NN|BODY_1|1
+,i2|CD|BODY_22:BODY_10:BODY_8|0
+a larger network|DT JJR NN|BODY_4|0
+the number|DT NN|BODY_6:BODY_3|0
+indirect pairwise key|JJ NN JJ|BODY_6:BODY_3:BODY_7|0
+the hypercube-based scheme|DT JJ NN|BODY_3|0
+conclusion|NN|BODY_9|1
+the same cluster|DT JJ NN|BODY_8:BODY_9|0
+a conclusion|DT NN|BODY_2|1
+section 4|NN CD|BODY_1|1
+section 8|NN CD|BODY_1|1
+j1 ,j2|CD CD|BODY_15:BODY_13|0
+an artificial grid|DT JJ NN|BODY_4|0
+that|WDT|BODY_1:BODY_3:BODY_8|0
+a large fraction|DT JJ NN|BODY_4|0
+pairwise keys|NN NNS|BODY_6:BODY_5|0
+three main steps|CD JJ NNS|BODY_3|0
+the same in-clusterhypercube-node-codes|DT JJ NNS|BODY_6|0
+the following properties|DT VBG NNS|BODY_4|0
+d=1|NNS|BODY_2:BODY_1|0
+the basis|DT NN|BODY_13:BODY_4|0
+sensor nodes|NN NNS|BODY_6:BODY_7|0
+the nodes ai|DT NNS VBP|BODY_11|0
+'s scheme|POS NN|BODY_2|0
+each pair|DT NN|BODY_4|0
+the combination|DT NN|BODY_2|0
+this idea|DT NN|BODY_2|0
+1 â‰ ¤|CD NN NN|BODY_16|0
+the location information|DT NN NN|BODY_14|0
+a random subset|DT JJ NN|BODY_4|0
+a certain probability|DT JJ NN|BODY_9|0
+the construction properties|DT NN NNS|BODY_2|0
+the lth round|DT NN NN|BODY_17|0
+the above figure|DT JJ NN|BODY_2|0
+the sensor node|DT NN NN|BODY_16|0
+the storage overhead|DT NN NN|BODY_6|0
+0â‰¤iâ‰¤k-1 and 1â‰¤jâ‰¤k|JJ CC JJ|BODY_12|0
+public key cryptography|JJ JJ NN|BODY_8|0
+two reachable nodes|CD JJ NNS|BODY_6|0
+vn *m*um-1 +[|JJ NN NNS|BODY_26|0
+0â‰¤b1,b2 ,â€¦ ,bnâ‰¤v-1|DT NN NN|BODY_13|0
+f={ f i|JJ NN NN|BODY_10|0
+a s+1â€¦am )|DT NN -RRB-|BODY_7|0
+121 ) ,(2334)|CD -RRB- NN|BODY_8|0
+) and b(|-RRB- CC NN|BODY_8|0
+compromised nodes increases|JJ NNS NNS|BODY_4|0
+resource-constrained sensor networks|JJ NN NNS|BODY_3|0
+t-1 intermediate nodes|JJ JJ NNS|BODY_6:BODY_5|0
+i1 ,â€¦ ,it-1|JJ NN NN|BODY_5:BODY_4|0
+a path key|DT NN NN|BODY_2:BODY_3|0
+,b 1â€¦bm )|JJ JJ -RRB-|BODY_9|0
+i1i 2â€¦i n|DT JJ NN|BODY_4|0
+hypercube-based scheme )|JJ NN -RRB-|BODY_5|0
+the rows|DT NNS|BODY_2|0
+node compromise|NN NN|BODY_2|0
+the n-dimensional hypercube|DT JJ NN|BODY_15|0
+an n-dimensional hypercube|DT JJ NN|BODY_14|0
+blom|NN|BODY_4|0
+pair|NN|BODY_2|0
+k such kind|NN JJ NN|BODY_2|0
+the use|DT NN|BODY_4|0
+a t=bt|DT NN|BODY_14|0
+n nodes|RB NNS|BODY_5:BODY_4|0
+the out-cluster-hypercube-node-code|DT JJ|BODY_17|0
+the h(k ,u,m|DT NN NN|BODY_1:BODY_7|0
+the node b|DT NN NN|BODY_9|0
+the routing algorithms|DT NN NNS|BODY_7|0
+id ( i1i2â€¦in|JJ -LRB- NN|BODY_18|0
+most|JJS|BODY_2|0
+the following rules|DT VBG NNS|BODY_4|0
+keys|NNS|BODY_2:BODY_4|0
+hierarchical hypercube )|JJ NN -RRB-|BODY_3|0
+some attractive properties|DT JJ NNS|BODY_3|0
+j|RB|BODY_35:BODY_28:BODY_19|0
+a special case|DT JJ NN|BODY_4|0
+( b1â€¦bn ,b|-LRB- NN NN|BODY_8|0
+’ f n|DT NN RB|BODY_6|0
+the key e|DT NN NN|BODY_6|0
+the out-clusterhypercube-node-codes|DT NNS|BODY_7|0
+du et|NNP CC|BODY_5|0
+f|NN|BODY_4:BODY_9|0
+b j|NN NN|BODY_11|0
+those nodes|DT NNS|BODY_6:BODY_11:BODY_2:BODY_7|0
+â‰ ¤ v-1|VBN NN NN|BODY_11|0
+the n nodes|DT RB NNS|BODY_10|0
+,...,2,1 ( jm|CD -LRB- NN|BODY_4|0
+many attractive properties|JJ JJ NNS|BODY_6|0
+its neighboring node|PRP$ JJ NN|BODY_12|0
+the same out-cluster-hypercube-node-codes|DT JJ NNS|BODY_10|0
+what intermediate nodes|WP JJ NNS|BODY_7|0
+the sensor networks|DT NN NNS|BODY_4|0
+this strong assumption|DT JJ NN|BODY_1|0
+k different levels|NN JJ NNS|BODY_13|0
+,â€¦jm â‰|NN VBN|BODY_7|0
+the supposing condition|DT NN NN|BODY_1|0
+key path establishment|JJ NN NN|BODY_3|0
+the q-composite scheme|DT JJ NN|BODY_1|0
+the above algorithm|DT JJ NN|BODY_7|0
+the following theorem|DT VBG NN|BODY_5|0
+those nodes series|DT NNS NN|BODY_2|0
+the previous schemes|DT JJ NNS|BODY_6|0
+the neighboring nodes|DT VBG NNS|BODY_13|0
+the deployment knowledge|DT JJ NN|BODY_3|0
+each cluster|DT NN|BODY_2:BODY_4|0
+hypercube-based scheme|JJ NN|BODY_1:BODY_2|0
+b ( i'1i'2â€¦i'n|NN -LRB- NN|BODY_11|0
+j'1j'2â€¦j 'm-1jm )|JJ JJ -RRB-|BODY_8|0
+many parallel paths|JJ JJ NNS|BODY_4|0
+different out-clusterhypercube-node-codes|JJ NNS|BODY_7|0
+a , b|DT , NN|BODY_2|0
+much less nodes|RB JJR NNS|BODY_2|0
+the k clusters|DT NN NNS|BODY_11|0
+the code strings|DT NN NNS|BODY_2|0
+the real deployment|DT JJ JJ|BODY_9|0
+the fraction|DT NN|BODY_5|0
+a . [5]|DT . NN|BODY_6|0
+d1=a , d2=b|NN , NN|BODY_2|0
+'s scheme [6]|POS NN NN|BODY_5|0
+chan et al|FW FW NN|BODY_1|0
+the basic idea|DT JJ NN|BODY_1|0
+the random scheme|DT JJ NN|BODY_1|0
+a clusterbased topology|DT JJ NN|BODY_7|0
+each bivariate polynomial|DT JJ NN|BODY_30|0
+the key contribution|DT JJ NN|BODY_1|0
+5 (k-levels|CD NNS|BODY_2|0
+good security performance|JJ NN NN|BODY_11|0
+any source node|DT NN NN|BODY_3|0
+the path p|DT NN NN|BODY_5|0
+polynomials|NNS|BODY_5|0
+a given node|DT VBN NN|BODY_4|0
+the nodes series|DT NNS NN|BODY_12:BODY_2|0
+the 56 distance|DT CD NN|BODY_12|0
+a 1â€¦am|DT NNP|BODY_5|0
+the polynomial pool|DT NN NN|BODY_6|0
+h , i|JJ , FW|BODY_18|0
+their approach|PRP$ NN|BODY_3|0
+an m-dimensional hypercube|DT JJ NN|BODY_8|0
+traditional cryptography [14]|JJ NN NN|BODY_5|0
+a grid-based scheme|DT JJ NN|BODY_5|0
+¤ b|IN NN|BODY_13|0
+¤ m1|IN CD|BODY_4|0
+2. preliminary definition|DT JJ NN|BODY_1|0
+the same time|DT JJ NN|BODY_9|0
+constant [2][ 4]|JJ NN NNS|BODY_11|0
+the resilience|DT NN|BODY_7|0
+the basic probabilistic|DT JJ NN|BODY_1|0
+â‰ ¤ u-1|VBN NN NN|BODY_14|0
+their node codes|PRP$ NN NNS|BODY_23|0
+the following methods|DT JJ NNS|BODY_10|0
+the previous techniques|DT JJ NNS|BODY_4|0
+a polynomial pool|DT NN NN|BODY_1|0
+a similar approach|DT JJ NN|BODY_1|0
+i1i2â€¦in and i1i|NN CC NN|BODY_7|0
+j1j2â€¦jm and j1j2â€¦jm|NN CC NN|BODY_7|0
+section 7|NN CD|BODY_2|0
+several alternative approaches|JJ JJ NNS|BODY_1|0
+a0 and ak|. CC JJ|BODY_16|0
+a same cluster|DT JJ NN|BODY_9|0
+the definition 5|DT NN CD|BODY_10|0
+each sensor|DT NN|BODY_2|0
+the deployment rounds|DT NN NNS|BODY_1|0
+k different rounds|NN JJ NNS|BODY_5|0
+the main contributions|DT JJ NNS|BODY_1|0
+such a framework|JJ DT NN|BODY_1|0
+compromised nodes|JJ NNS|BODY_3|0
+d1=0 , d2=1|NN , NNS|BODY_5|0
+j2 j3â€¦jm )|CD NN -RRB-|BODY_15:BODY_3|0
+some actual applications|DT JJ NNS|BODY_4|0
+the following example|DT VBG NN|BODY_1|0
+the theorem 1|DT NN CD|BODY_1|0
+  bt|JJ NN|BODY_12|0
+tâˆˆ[1 ,s]|DT NN|BODY_13|0
+a cluster|DT NN|BODY_3:BODY_14|0
+< âˆ’11|NNS CD|BODY_13|0
+the assumption|DT NN|BODY_3|0
+more dimensions|JJR NNS|BODY_5|0
+airplanes|NNS|BODY_5:BODY_7|0
+the columns|DT NNS|BODY_3|0
+the path|DT NN|BODY_13|0
+the security|DT NN|BODY_3|0
+sensor network|NN NN|BODY_4:BODY_7|0

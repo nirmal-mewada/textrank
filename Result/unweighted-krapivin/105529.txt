@@ -1,0 +1,1621 @@
+which|WDT|BODY_11:BODY_15:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:ABSTRACT_4:BODY_10:BODY_7:BODY_8:BODY_9|1
+we|PRP|BODY_6:BODY_11:BODY_5:BODY_15:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|1
+the number|DT NN|BODY_12:BODY_11:ABSTRACT_2:ABSTRACT_3:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:ABSTRACT_1:BODY_10:BODY_7:BODY_8|1
+x|SYM|BODY_12:BODY_11:BODY_13:BODY_2:BODY_3:BODY_4:BODY_6:BODY_5:BODY_1:BODY_10:BODY_7:BODY_8:BODY_9|0
+it|PRP|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+the parameters|DT NNS|BODY_6:BODY_11:BODY_5:ABSTRACT_6:BODY_13:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+s|VBZ|BODY_6:BODY_12:BODY_11:BODY_5:BODY_15:BODY_13:BODY_2:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+a k|DT NN|BODY_6:BODY_5:BODY_2:BODY_1:BODY_10:BODY_4:BODY_7:BODY_8:BODY_9|0
+this|DT|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4|0
+icm|JJ|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_9|0
+a function|DT NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_4:BODY_8|0
+y|RB|BODY_6:BODY_11:BODY_5:BODY_16:BODY_13:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|0
+textures|NNS|BODY_6:BODY_13:BODY_2:BODY_1:ABSTRACT_3:BODY_3:BODY_4:BODY_7:BODY_8:BODY_9|1
+blocks|NNS|BODY_12:BODY_6:BODY_5:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the image|DT NN|BODY_6:BODY_5:ABSTRACT_4:BODY_1:BODY_3:BODY_7:BODY_9|0
+sa|NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+each block|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4|0
+each|DT|BODY_2:BODY_1:BODY_14:BODY_3:BODY_10:BODY_4:BODY_7|0
+m|NN|BODY_6:BODY_2:BODY_14:BODY_3:BODY_4:BODY_7|0
+the algorithm|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_8|0
+clusters|NNS|BODY_5:BODY_2:ABSTRACT_3:BODY_3:ABSTRACT_1:BODY_7:BODY_9|0
+there|EX|BODY_6:BODY_5:BODY_1:BODY_3:BODY_7:BODY_8|0
+that|IN|BODY_11:BODY_5:BODY_13:BODY_2:BODY_3:BODY_7|0
+points|NNS|BODY_6:BODY_11:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10|0
+the set|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_8|0
+ae|NNS|BODY_6:BODY_11:BODY_5:BODY_17:BODY_2:BODY_3:BODY_7|0
+segmentation|NN|BODY_6:BODY_5:BODY_2:BODY_1:ABSTRACT_1|0
+regions|NNS|BODY_6:BODY_5:BODY_2:ABSTRACT_3:BODY_4:BODY_7|0
+this paper|DT NN|BODY_2:BODY_3|0
+pixels|NNS|BODY_13:BODY_3:BODY_4:BODY_7:BODY_8|0
+c(k|NN|BODY_6:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7|0
+the energy function|DT NN NN|BODY_2:BODY_1:BODY_3:BODY_7|0
+resolution|NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the segmentation|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_8|0
+the mrs algorithm|DT NNS NN|BODY_5:BODY_1:BODY_2|0
+c|NN|BODY_6:BODY_5:BODY_16:BODY_2:BODY_3:BODY_10:BODY_7|0
+the problem|DT NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4:BODY_10|0
+t|NN|BODY_6:BODY_5:BODY_1:BODY_3:BODY_4|0
+boundaries|NNS|BODY_5:BODY_2:BODY_7:BODY_8|0
+the value|DT NN|BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_8|0
+the distribution|DT NN|BODY_5:BODY_1:BODY_3:BODY_8:BODY_9|0
+a|DT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_10:BODY_4|0
+a gibbs distribution|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_10:BODY_8|0
+the solution|DT NN|BODY_1:BODY_2:BODY_4:BODY_7|0
+the conditional distribution|DT JJ NN|BODY_5:BODY_2:BODY_3:BODY_7:BODY_9|0
+( 23 )|-LRB- CD -RRB-|BODY_6:BODY_5:BODY_17:BODY_2:BODY_4:BODY_8|0
+the ml estimate|DT JJ NN|BODY_1:BODY_2:BODY_3:BODY_7|0
+mrs|NNS|BODY_5:BODY_2:BODY_4:BODY_7|0
+the performance|DT NN|BODY_1:BODY_3:BODY_4:BODY_7|0
+an mrf|DT NN|BODY_1:BODY_4:BODY_8:BODY_9|0
+the gibbs distribution|DT NNS NN|BODY_2:BODY_1:BODY_3:BODY_4|0
+the components|DT NNS|BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|0
+l|NN|BODY_6:BODY_5:BODY_2:BODY_4:BODY_7|0
+the computation|DT NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+coarse resolution|JJ NN|BODY_6:ABSTRACT_2:BODY_25:BODY_3:BODY_4:BODY_7|0
+these parameters|DT NNS|BODY_11:BODY_1:BODY_2:BODY_3|0
+the data|DT NNS|BODY_5:ABSTRACT_4:BODY_2|0
+the classification|DT NN|BODY_6:BODY_5:ABSTRACT_5:ABSTRACT_2:BODY_3|0
+)|-RRB-|BODY_6:BODY_11:BODY_5:BODY_2:BODY_7:BODY_8|0
+a point|DT NN|BODY_5:BODY_2:BODY_3:BODY_4:BODY_10|0
+the result|DT NN|BODY_6:BODY_2:BODY_4:BODY_7|0
+an image|DT NN|BODY_6:BODY_5:ABSTRACT_5:BODY_4|0
+one|PRP|BODY_5:BODY_7:BODY_20|0
+the clusters|DT NNS|BODY_3:BODY_4:BODY_7|0
+each pixel|DT NN|BODY_6:ABSTRACT_3:BODY_4|0
+the statistics|DT NNS|BODY_5:BODY_3:BODY_8:BODY_9|0
+the application|DT NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+pixel|NN|BODY_5:BODY_3:BODY_4:BODY_8:BODY_9|0
+the cost function|DT NN NN|BODY_12:BODY_6:BODY_14:BODY_3:BODY_8|0
+the log likelihood|DT NN NN|BODY_2:BODY_3:BODY_4:BODY_9|0
+region statistics|NN NNS|BODY_2:BODY_4|0
+the form|DT NN|BODY_6:BODY_15:BODY_3|0
+two clusters|CD NNS|BODY_6:BODY_2:BODY_1:BODY_3|0
+the parameter|DT NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4|0
+information|NN|BODY_5:BODY_3:BODY_7:BODY_8|0
+respect|NN|BODY_5:BODY_1:BODY_3:BODY_4|0
+an algorithm|DT NN|ABSTRACT_2:BODY_1:BODY_2:BODY_4:BODY_10|0
+the change|DT NN|BODY_6:BODY_3:BODY_4|0
+unsupervised parameter estimation|JJ NN NN|BODY_6:BODY_5:BODY_2:BODY_4|0
+minimization|NN|BODY_5:BODY_1:BODY_2:BODY_4:BODY_7|0
+a number|DT NN|BODY_6:BODY_2:BODY_1|0
+this criteria|DT NNS|BODY_5:BODY_1:BODY_2|0
+an initial condition|DT JJ NN|BODY_5:BODY_2:BODY_4|0
+figures|NNS|BODY_6:BODY_1:BODY_4|0
+1|CD|BODY_6:BODY_3:BODY_10:BODY_4:BODY_8|0
+the local minimization|DT JJ NN|BODY_2|0
+computation|NN|BODY_5:BODY_2:BODY_3:BODY_4|0
+the mean|DT NN|ABSTRACT_3:BODY_3:BODY_4|0
+each point|DT NN|BODY_2:BODY_3:BODY_4:BODY_9|0
+the field|DT NN|BODY_12:BODY_5:BODY_2:ABSTRACT_1:BODY_4|0
+l\gamma1 )|NNS -RRB-|BODY_5:BODY_10:BODY_9|0
+samples|NNS|BODY_3:BODY_8|0
+the region|DT NN|BODY_8:BODY_9|0
+images|NNS|BODY_5:ABSTRACT_2:BODY_3|0
+each texture|DT NN|BODY_6:BODY_13:BODY_3:BODY_7:BODY_8|0
+each resolution|DT NN|BODY_6:ABSTRACT_2:BODY_1:ABSTRACT_1|0
+the objective|DT NN|BODY_2|0
+all|DT|BODY_5:BODY_1:BODY_10|0
+the functions|DT NNS|BODY_2:BODY_1:BODY_8:BODY_9|0
+k|NN|BODY_1:BODY_14:BODY_4:BODY_9|0
+the end|DT NN|BODY_6:BODY_2|0
+the use|DT NN|BODY_5:BODY_2:BODY_3|0
+a method|DT NN|BODY_2:BODY_3|0
+the partitioning|DT NN|BODY_6:BODY_1:BODY_2:BODY_7|0
+the mle|DT NN|BODY_5:BODY_1:BODY_4|0
+these models|DT NNS|BODY_2:BODY_3|0
+the lack|DT NN|BODY_2:BODY_4|0
+those|DT|BODY_5:BODY_2|0
+the joint distribution|DT JJ NN|BODY_14:BODY_3:BODY_4|0
+figure 3|NN CD|BODY_4:BODY_7|0
+the blocks|DT NNS|BODY_2:BODY_8|0
+n )|NN -RRB-|BODY_5:BODY_23|0
+the coarsest resolution|DT NN NN|BODY_6:BODY_5:BODY_3|0
+our approach|PRP$ NN|BODY_2:BODY_1:BODY_4|0
+the n|DT NN|BODY_3:BODY_7|0
+the pixel|DT NN|BODY_5:BODY_7|0
+the points|DT NNS|BODY_3:BODY_7:BODY_9|0
+a range|DT NN|BODY_10:BODY_4|0
+the spatial correlation|DT JJ NN|BODY_2:BODY_3|0
+the texture parameters|DT NN NNS|BODY_6:BODY_7|0
+this case|DT NN|BODY_1:BODY_4|0
+conjunction|NN|BODY_5:BODY_4|0
+their parameters|PRP$ NNS|BODY_12:BODY_6:ABSTRACT_4:BODY_4:BODY_8|1
+example|NN|BODY_1|0
+m k=1|NN NNS|BODY_5:BODY_2:BODY_4|0
+the point|DT NN|BODY_6:BODY_13:BODY_2|0
+partitioning sets|VBG NNS|BODY_5:BODY_11:BODY_8|0
+the values|DT NNS|BODY_6:BODY_12:BODY_11:BODY_3|0
+the clustering criteria|DT NN NNS|BODY_5:BODY_16:BODY_4|0
+a distribution|DT NN|BODY_2|0
+a finer ordering|DT NN NN|BODY_2|0
+a gmrf|DT NN|BODY_2|0
+an irreducible markov chain|DT JJ NN NN|BODY_2|0
+both these algorithms|DT DT NNS|BODY_2|0
+sa and mr fall|NN CC JJ NN|BODY_2|0
+simulated annealing|JJ NN|BODY_2|0
+specific methods|JJ NNS|BODY_2|0
+synthetic textures|JJ NNS|BODY_2|0
+the centroid estimation and data repartitioning|DT NN NN CC NNS NN|BODY_2|0
+the results|DT NNS|BODY_2|0
+the segmentation algorithms|DT NN NNS|BODY_2|0
+these p values|DT NN NNS|BODY_2|0
+\delta )|NNP -RRB-|BODY_2:BODY_4:BODY_19|0
+r|NN|BODY_17:BODY_14:BODY_9|0
+a multinomial distribution|DT JJ NN|BODY_5:BODY_15:BODY_3:BODY_4:BODY_9|0
+this algorithm|DT NN|BODY_1:BODY_2|0
+this method|DT NN|BODY_2:BODY_1:ABSTRACT_1|0
+prediction coefficients|NN NNS|BODY_3:BODY_7|0
+the prediction coefficients|DT NN NNS|BODY_6:BODY_4|0
+x ( n )|NN -LRB- NN -RRB-|BODY_4:BODY_7:BODY_9|0
+the constraint|DT NN|BODY_6:BODY_8|0
+a mixture|DT NN|BODY_6:BODY_5:BODY_13:BODY_9|0
+the neighbors|DT NNS|BODY_4:BODY_7|0
+both|DT|BODY_2:BODY_1:BODY_7|0
+these statistics|DT NNS|BODY_2:BODY_3:BODY_29|0
+the cost|DT NN|BODY_6:BODY_5:BODY_7|0
+four points|CD NNS|BODY_6:BODY_2|0
+all points|DT NNS|BODY_5:BODY_4|0
+l ( n )|NN -LRB- NN -RRB-|BODY_5:BODY_27|0
+the individual textures|DT JJ NNS|BODY_5:ABSTRACT_2:BODY_3|0
+performance|NN|BODY_6:BODY_5:BODY_4|0
+a cluster|DT NN|BODY_6:BODY_1|0
+a cost function|DT NN NN|BODY_6:BODY_4|0
+a region|DT NN|BODY_5:BODY_2|0
+the minimum|DT NN|BODY_5:BODY_1|0
+l )|JJ -RRB-|BODY_5:BODY_11:BODY_2:BODY_3:BODY_7|0
+(yjx|NNP|BODY_5:BODY_13:BODY_7|0
+raster ordering|NN NN|BODY_5:BODY_2|0
+the complexity|DT NN|BODY_3:BODY_4|0
+the case|DT NN|BODY_1:BODY_3:BODY_9|0
+the estimation|DT NN|BODY_6:BODY_4|0
+i expf\gammal|NN NN|BODY_12:BODY_4:BODY_7|0
+standard deviation|JJ NN|BODY_5|0
+the ar model|DT NN NN|BODY_6:BODY_2:BODY_1|0
+the concept|DT NN|BODY_2|0
+the observed data|DT JJ NNS|BODY_6:BODY_5:BODY_7:BODY_8|0
+course|NN|BODY_2:BODY_1:BODY_3|0
+the probability|DT NN|BODY_2:BODY_9|0
+the image y|DT NN NN|BODY_1:BODY_3|0
+the estimate|DT NN|BODY_5:BODY_3|0
+image blocks|NN NNS|BODY_2:BODY_3|0
+texture statistics|NN NNS|BODY_5:BODY_2|0
+' k|POS NN|BODY_12:BODY_11:BODY_2:BODY_4|0
+a random field|DT JJ NN|BODY_5:BODY_2|0
+they|PRP|BODY_5:BODY_3|0
+' and ae|POS CC NNS|BODY_5:BODY_2:BODY_3|0
+the sum|DT NN|BODY_12:BODY_3|0
+distinct textures|JJ NNS|BODY_11:ABSTRACT_2:BODY_4:BODY_7:BODY_8:BODY_9|0
+this section|DT NN|BODY_2:BODY_1:BODY_3|0
+( 22 )|-LRB- CD -RRB-|BODY_2|0
+the normalizing constant|DT JJ NN|BODY_3|0
+the list|DT NN|BODY_2:BODY_3|0
+the prediction error|DT NN NN|BODY_1:BODY_8|0
+statistics|NNS|BODY_2:BODY_8|0
+local minima|JJ NN|BODY_5:BODY_3:BODY_4|0
+smoothness|NN|BODY_4|0
+sons , most segmentation algorithms|NNS , JJS NN NNS|BODY_2|0
+steepest descent|JJ NN|BODY_2:BODY_3|0
+the regions|DT NNS|BODY_13:BODY_7|0
+a statistical model|DT JJ NN|BODY_2:BODY_4|0
+visits|NNS|BODY_6:BODY_3:BODY_8|0
+the synthetic image|DT JJ NN|BODY_3|0
+the quality|DT NN|BODY_2:BODY_3|0
+the convergence|DT NN|BODY_3|0
+terms|NNS|BODY_5:BODY_2|0
+icm segmentation|JJ NN|BODY_2:BODY_3|0
+four levels|CD NNS|BODY_2:BODY_4|0
+3|CD|BODY_2:BODY_1:BODY_3|0
+[19 , 20] or equivalently baum|CD , CD CC RB NN|BODY_3|0
+a two pixel boundary|DT CD JJ NN|BODY_3|0
+adjacent textures|JJ NNS|BODY_2|0
+conditional modes|JJ NNS|BODY_3|0
+estimation|NN|BODY_2|0
+return|NN|BODY_2|0
+the em algorithm|DT NN NN|BODY_2|0
+l a (yjk )|JJ DT NN -RRB-|BODY_2:BODY_10|0
+16 ]|CD NN|BODY_2:BODY_3|0
+figures 9|NNS CD|BODY_1:BODY_3|0
+icm and sa|NN CC NN|BODY_6:BODY_5:BODY_3|0
+parallel|NN|BODY_3:BODY_7|0
+no more negative values|DT JJR JJ NNS|BODY_2:BODY_3|0
+transitions|NNS|BODY_2:BODY_4|0
+the sa algorithm|DT NN NN|BODY_2:BODY_3|0
+the autocorrelation|DT NN|BODY_5:BODY_1|0
+the members|DT NNS|BODY_5:BODY_4|0
+a resolution|DT NN|BODY_2|0
+the three closest pixels|DT CD JJS NNS|BODY_6|0
+an annealing schedule|DT NN NN|BODY_2|0
+a l|DT JJ|BODY_6:BODY_15:BODY_8|0
+the argument|DT NN|BODY_6:BODY_3|0
+the chain|DT NN|BODY_2:BODY_3|0
+the form l|DT NN NN|BODY_6:BODY_3|0
+energy|NN|BODY_5:BODY_7:BODY_9|0
+( 4 ) results|-LRB- CD -RRB- NNS|BODY_2|0
+a term|DT NN|BODY_7|0
+mrf|NN|BODY_2|0
+the previous section|DT JJ NN|BODY_2|0
+tests|NNS|BODY_2|0
+the cluster parameters|DT NN NNS|BODY_5:ABSTRACT_3|0
+the second image|DT JJ NN|BODY_6|0
+the error|DT NN|BODY_2|0
+the discrete field|DT NN NN|BODY_5|0
+this question|DT NN|BODY_2|0
+( 6 ) and log f(yjx|-LRB- CD -RRB- CC NN NN|BODY_2|0
+0|CD|BODY_9|0
+a visit|DT NN|BODY_5:BODY_8|0
+the observed image|DT JJ NN|BODY_3:BODY_4|0
+finer resolution segmentations|NN NN NNS|BODY_5|0
+(|-LRB-|BODY_3:BODY_9|0
+( 7 )|-LRB- CD -RRB-|BODY_11:BODY_4|0
+a gaussian random field|DT JJ JJ NN|BODY_5|0
+is|VBZ|BODY_2:BODY_3|0
+the correct segmentation|DT JJ NN|BODY_5:BODY_9|0
+fa k|NN NN|BODY_2:BODY_3|0
+the extraction|DT NN|BODY_2:BODY_4|0
+c(x )|NN -RRB-|BODY_5:BODY_2|0
+individual pixels|NN NNS|BODY_6:ABSTRACT_4:BODY_3|0
+coarse and fine resolutions|JJ CC JJ NNS|BODY_4|0
+the mean number|DT JJ NN|BODY_7:BODY_8|0
+this measure|DT NN|BODY_6:BODY_1|0
+the texture regions|DT NN NNS|BODY_2|0
+10|CD|BODY_1:BODY_7|0
+fact|NN|BODY_1|0
+s2s|NNS|BODY_13:BODY_3:BODY_7|0
+a vector|DT NN|BODY_5:BODY_2|0
+parameters|NNS|BODY_5:BODY_15:BODY_8|0
+addition|NN|BODY_1:ABSTRACT_1|0
+the levels|DT NNS|BODY_2|0
+variance|NN|BODY_5:ABSTRACT_4|0
+significantly less computation|RB JJR NN|ABSTRACT_3|0
+( 6 )|-LRB- CD -RRB-|BODY_7|0
+details|NNS|BODY_7|0
+(yjk )|JJ -RRB-|BODY_6:BODY_28|0
+all texture models|DT NN NNS|BODY_4|0
+the partitioning sets|DT NN NNS|BODY_3:BODY_10|0
+data|NNS|BODY_2:BODY_4|0
+two disjoint regions|CD JJ NNS|BODY_2|0
+the remaining question|DT VBG NN|BODY_4|0
+the old cluster entries|DT JJ NN NNS|BODY_4|0
+its restriction|PRP$ NN|BODY_11|0
+modeling continuously valued fields|JJ RB VBN NNS|BODY_7|0
+a fixed number|DT JJ NN|BODY_2:BODY_3|0
+prior information|JJ NN|BODY_2|0
+similar textures|JJ NNS|BODY_2|0
+the neighborhood system|DT NN NN|BODY_12:BODY_5:BODY_4|0
+pattern|NN|BODY_5|0
+an approximate solution|DT JJ NN|BODY_2|0
+the first step|DT JJ NN|BODY_2|0
+the next finer resolution|DT JJ NN NN|BODY_6:BODY_10:BODY_7|0
+b\deltac|NN|BODY_8|0
+consequently two distinct methods|RB CD JJ NNS|BODY_5|0
+a distinct region|DT JJ NN|BODY_7|0
+the actual texture boundaries|DT JJ NN NNS|BODY_5|0
+icm yields|NN NNS|BODY_4|0
+the agglomerative clustering procedure|DT JJ NN NN|BODY_5|0
+2 ) computation|CD -RRB- NN|BODY_3|0
+all the points|PDT DT NNS|BODY_5|0
+the disadvantage|DT NN|BODY_2|0
+performance and computation|NN CC NN|BODY_6:BODY_4|0
+itself|PRP|BODY_5|0
+its neighbors|PRP$ NNS|BODY_6:BODY_3|0
+the relationship|DT NN|BODY_2|0
+parameter estimation|NN NN|BODY_2|0
+diagonal , horizontal and vertical boundaries|JJ , JJ CC JJ NNS|BODY_3|0
+the expression|DT NN|BODY_2:BODY_9|0
+x ( l\gamma1|NN -LRB- NNS|BODY_3:BODY_7|0
+horizontally|RB|BODY_5:BODY_7|0
+o( m log m ) computation|JJ JJ NN JJ -RRB- NN|BODY_2:BODY_3|0
+an initial segmentation|DT JJ NN|BODY_2|0
+less computation|JJR NN|BODY_3:BODY_4|0
+4096|CD|BODY_4|0
+all clusters|DT NNS|BODY_6:BODY_5|0
+this operation|DT NN|BODY_1:BODY_7|0
+solutions|NNS|BODY_4|0
+( i|-LRB- NNS|BODY_4|0
+aic )|JJ -RRB-|BODY_10|0
+invertible [18]|JJ NN|BODY_5|0
+the index|DT NN|BODY_6|0
+nodes|NNS|BODY_8:BODY_9|0
+cliques|NNS|BODY_5:BODY_11|0
+finer solutions|JJ NNS|BODY_8|0
+descent|NN|BODY_2|0
+order|NN|BODY_6:BODY_1|0
+the pixel classifications|DT NN NNS|BODY_6:BODY_3|0
+the choice|DT NN|BODY_6|0
+[9|CD|BODY_2|0
+the a posteriori probability|DT DT NN NN|ABSTRACT_2:ABSTRACT_3|0
+each region|DT NN|BODY_5:BODY_4|0
+the behavior|DT NN|BODY_3|0
+m and fi|NN CC NN|BODY_2|0
+an additional term|DT JJ NN|BODY_2|0
+the initial condition|DT JJ NN|BODY_5:BODY_2|0
+a question|DT NN|BODY_1:BODY_3|0
+z|FW|BODY_15|0
+the region statistics|DT NN NNS|BODY_22:BODY_4|0
+the iterated conditional modes ( icm) algorithm [4|DT VBN JJ NNS -LRB- NN NN NNS|BODY_2|0
+the parameter vector|DT NN NN|BODY_5:BODY_4|0
+the texture statistics|DT NN NNS|BODY_3:BODY_4|0
+comparison|NN|BODY_5:BODY_8|0
+resolutions|NNS|BODY_6:BODY_5:ABSTRACT_3|0
+the minimum value|DT JJ NN|BODY_3:BODY_7|0
+pairs|NNS|BODY_6:BODY_5|0
+the m|DT NN|BODY_7|0
+some form|DT NN|BODY_3|0
+the one|DT CD|BODY_4|0
+this pass|DT NN|BODY_3|0
+the samples|DT NNS|BODY_7|0
+a different potential|DT JJ NN|BODY_4|0
+each distinct combination|DT JJ NN|BODY_5|0
+icm methods sa|JJ NNS NN|BODY_2|0
+n points|NN NNS|BODY_3:BODY_7|0
+a value|DT NN|BODY_6:BODY_4|0
+this formula|DT NN|BODY_7|0
+consecutive states|JJ NNS|BODY_6|0
+the information|DT NN|BODY_2:BODY_4|0
+the jacobian|DT NN|BODY_2:BODY_1|0
+]|NN|BODY_2:BODY_4|0
+iterations|NNS|BODY_5:BODY_3:BODY_4|0
+arg min|NN NN|BODY_2:BODY_1|0
+finer resolutions|NN NNS|BODY_7:BODY_9|0
+the vector|DT NN|BODY_1:BODY_2|0
+w|NN|BODY_6:BODY_5:BODY_10|0
+23 )|CD -RRB-|BODY_13:BODY_9|0
+local functions|JJ NNS|BODY_17|0
+the new cluster|DT JJ NN|BODY_4:BODY_7:BODY_9|0
+(yjx ( n|NN -LRB- NN|BODY_4|0
+constraints|NNS|BODY_5|0
+the effect|DT NN|BODY_6:BODY_2|0
+figure 2|NN CD|BODY_3:BODY_4|0
+'s with two point cliques results|POS IN CD NN NNS NNS|BODY_3|0
+pixel pairs|NN NNS|BODY_6|0
+mrs , icm and sa|NNS , NN CC NN|BODY_3:BODY_14|0
+the number and type|DT NN CC NN|BODY_6:BODY_5:BODY_7|0
+these operations|DT NNS|BODY_2:BODY_1|0
+this point|DT NN|BODY_2|0
+the remaining clusters|DT VBG NNS|BODY_2|0
+the map estimate|DT NN NN|BODY_5:BODY_3|0
+the distributions|DT NNS|BODY_1:BODY_4|0
+the advantage|DT NN|BODY_1:BODY_2|0
+256x256|CD|BODY_3|0
+a three point prediction model|DT CD NN NN NN|BODY_5|0
+woolen cloth|JJ NN|BODY_4|0
+high resolution images|JJ NN NNS|BODY_2|0
+multigrid methods|JJ NNS|BODY_2:BODY_1|0
+a superscript|DT NN|BODY_8|0
+model|NN|BODY_4|0
+the random field x ( l\gamma1 )|DT JJ NN NN -LRB- NNS -RRB-|BODY_5:BODY_4|0
+a known segmentation|DT VBN NN|BODY_2|0
+raffia and grass|NN CC NN|BODY_5|0
+log f(yjx ( n ) l ( n )|NN NN -LRB- NN -RRB- NN -LRB- NN -RRB-|BODY_3|0
+any|DT|BODY_2|0
+the same texture|DT JJ NN|BODY_3:BODY_4|0
+( 4 )|-LRB- CD -RRB-|BODY_3|0
+mrf )|NN -RRB-|BODY_3|0
+12 used composite images|CD VBN JJ NNS|BODY_2|0
+similar regions|JJ NNS|BODY_2|0
+segmentations|NNS|BODY_2|0
+texture segmentation|NN NN|BODY_1:BODY_3|0
+( 11 )|-LRB- CD -RRB-|BODY_6:BODY_3|0
+the mean percentage error|DT JJ NN NN|BODY_4|0
+a maximum|DT NN|BODY_4|0
+likelihood|NN|BODY_2|0
+the level|DT NN|BODY_7|0
+( 1 ) results|-LRB- LS -RRB- NNS|BODY_4|0
+the two clusters|DT CD NNS|BODY_5:BODY_2|0
+( 13 )|-LRB- CD -RRB-|BODY_3|0
+zero|CD|BODY_6:BODY_5|0
+a unique gray level|DT JJ JJ NN|BODY_2|0
+a unit vector|DT NN NN|BODY_1|0
+an eight-point neighborhood results|DT JJ NN NNS|BODY_1|0
+changes|NNS|BODY_1|0
+each distinct texture|DT JJ NN|BODY_1|0
+equal components|JJ NNS|BODY_2|0
+figure 1|NN CD|BODY_2|0
+figures 11 and 12 used composite images|NNS CD CC CD VBN JJ NNS|BODY_1|0
+four groupings|CD NNS|BODY_2|0
+multiple resolution segmentation|JJ NN NN|TITLE_1|0
+natural texture types|JJ NN NNS|BODY_2|0
+step 2|NN CD|BODY_2|0
+textured images|JJ NNS|TITLE_2|0
+the algorithms|DT NNS|ABSTRACT_1|0
+this structure|DT NN|BODY_1|0
+unsupervised texture segmentation|JJ NN NN|ABSTRACT_2|0
+the testing|DT NN|BODY_4|0
+the order|DT NN|BODY_1:BODY_3|0
+resolution n|NN NN|BODY_4:BODY_9|0
+this distribution|DT NN|BODY_2:BODY_4|0
+a block|DT NN|BODY_3:BODY_7|0
+the two expressions|DT CD NNS|BODY_5|0
+its flag|PRP$ NN|BODY_3|0
+a significant problem|DT JJ NN|BODY_2|0
+the likelihood|DT NN|BODY_4|0
+a total|DT NN|BODY_6|0
+the actual and estimated parameter values|DT JJ CC VBN NN NNS|BODY_2|0
+simultaneous autoregressive ( sar ) and gauss markov random field|JJ JJ -LRB- NN -RRB- CC JJ NN JJ NN|BODY_4|0
+this approach|DT NN|BODY_2:BODY_1|0
+searches|NNS|BODY_4|0
+this annealing schedule|DT NN NN|BODY_1:BODY_2|0
+figures 6 , 7 and 8|NNS CD , CD CC CD|BODY_3|0
+normal image textures|JJ NN NNS|BODY_3|0
+the remaining trees|DT VBG NNS|BODY_3|0
+the nearest neighbor|DT JJS NN|BODY_3|0
+deletions|NNS|BODY_3|0
+y given x|NN VBN SYM|BODY_2:BODY_3|0
+this field subject|DT NN NN|ABSTRACT_4|0
+coarse resolutions|JJ NNS|BODY_4:BODY_7:BODY_9|0
+progressively higher spatial correlation|RB JJR JJ NN|BODY_4|0
+relative differences|JJ NNS|BODY_4|0
+min l ( n|NN NN -LRB- NN|BODY_3|0
+the coarsest resolution level|DT NN NN NN|BODY_4|0
+coarser resolution segmentations|NN NN NNS|BODY_3|0
+other gaussian random field models|JJ JJ JJ NN NNS|BODY_3|0
+the model|DT NN|BODY_6:BODY_5:BODY_1|0
+texture m|NN NN|BODY_3:BODY_10|0
+magnitude|NN|BODY_8|0
+pixel coordinates|NN NNS|BODY_2|0
+algorithms|NNS|BODY_2:BODY_10|0
+the cost terms|DT NN NNS|BODY_6|0
+m textures|NN NNS|BODY_2:BODY_10|0
+the segmentation field|DT NN NN|BODY_3|0
+approximate|JJ|BODY_4|0
+mrf based segmentation algorithms|NN VBN NN NNS|BODY_4|0
+t 2|NN CD|BODY_2|0
+the dynamic programming problem|DT JJ NN NN|BODY_3|0
+ar , sar and gmrf models|NN , NN CC NN NNS|BODY_3|0
+so this|RB DT|BODY_3|0
+the function d(\delta|DT NN NN|BODY_4|0
+this results|DT NNS|BODY_1:BODY_10|0
+x ( l\gamma1 )|NN -LRB- NN -RRB-|BODY_17:BODY_8|0
+results|NNS|BODY_6|0
+maximum likelihood|JJ NN|BODY_3|0
+some ordering|DT NN|BODY_4|0
+this clustering method|DT NN NN|BODY_3|0
+parentheses|NNS|BODY_6|0
+) yields|-RRB- VBZ|BODY_4|0
+spatial correlation|JJ NN|ABSTRACT_5|0
+few pixels|JJ NNS|BODY_3|0
+excessive correlation|JJ NN|BODY_6:BODY_8|0
+segmentation use markov random fields|NN NN NN JJ NNS|BODY_2|0
+the first image|DT JJ NN|BODY_3|0
+the symbol|DT NN|BODY_3|0
+fine|JJ|BODY_5:BODY_24|0
+level|NN|BODY_7|0
+how much variation|WRB JJ NN|BODY_5|0
+unknown parameters|JJ NNS|BODY_6:BODY_16:BODY_10:BODY_4|0
+its isotropic nature|PRP$ JJ NN|BODY_10|0
+a set|DT NN|BODY_1:BODY_4|0
+1 )|CD -RRB-|BODY_6|0
+0 ) and d \gamma1|CD -RRB- CC JJ NNS|BODY_6|0
+let|VB|BODY_3|0
+o(log( m \gamma|JJ NN NN|BODY_5|0
+temperature|NN|BODY_2|0
+larger regions|JJR NNS|BODY_4:BODY_7|0
+l ( n ) l ( n\gamma1 ) r l|NN -LRB- NN -RRB- NN -LRB- CD -RRB- NN NN|BODY_5|0
+the local likelihood functions|DT JJ NN NNS|BODY_2|0
+both m and m|DT NN CC NN|BODY_4|0
+insertions|NNS|BODY_2|0
+implementations|NNS|BODY_6|0
+fixed m|JJ NN|BODY_1:BODY_3|0
+the following sections|DT JJ NNS|BODY_4|0
+the prior knowledge|DT JJ NN|BODY_2:BODY_1|0
+the cases|DT NNS|BODY_3|0
+the classifications|DT NNS|BODY_6|0
+these boundary blocks|DT NN NNS|BODY_2|0
+most local operations|JJS JJ NNS|BODY_3|0
+high spatial correlation|JJ JJ NN|BODY_3:BODY_9|0
+the fit|DT NN|BODY_5|0
+z exp|FW VBZ|BODY_4:BODY_7|0
+both deterministic algorithms|DT JJ NNS|BODY_2|0
+each tree|DT NN|BODY_1:BODY_7|0
+an equation|DT NN|BODY_5|0
+a lattice point|DT NN NN|BODY_4|0
+accurate segmentations|JJ NNS|ABSTRACT_2|0
+the total complexity|DT JJ NN|BODY_4|0
+the cluster partitions|DT NN NNS|BODY_2|0
+prediction variance|NN NN|BODY_5|0
+the vectors|DT NNS|BODY_3|0
+aic|JJ|BODY_2|0
+the minimization|DT NN|BODY_1:BODY_4|0
+the energy|DT NN|BODY_11:BODY_1|0
+each time|DT NN|BODY_1|0
+a nonhomogeneous gaussian autoregressive ( ar ) model|DT JJ JJ JJ -LRB- NN -RRB- NN|BODY_2|0
+the prior distribution|DT JJ NN|BODY_1:BODY_4|0
+a t|DT NN|BODY_6:BODY_5:BODY_4|0
+the final form|DT JJ NN|BODY_5|0
+place|NN|BODY_16:BODY_8|0
+( 17 )|-LRB- CD -RRB-|BODY_5:BODY_3|0
+a causal gaussian autoregressive model|DT JJ JJ JJ NN|ABSTRACT_2|0
+u(\deltajy )|NN -RRB-|BODY_6:BODY_1|0
+a group|DT NN|BODY_3|0
+an unsupervised fashion|DT JJ NN|BODY_2|0
+14|CD|BODY_4:BODY_8|0
+follows|VBZ|BODY_2|0
+the complex dependence|DT JJ NN|BODY_3|0
+more natural methods|JJR JJ NNS|BODY_3|0
+a pixel|DT NN|BODY_2|0
+'(|LS|BODY_3|0
+the schedule|DT NN|BODY_2|0
+their area|PRP$ NN|BODY_2|0
+notice|NN|BODY_1|0
+high probability|JJ NN|BODY_10:BODY_4|0
+pixel classes|NN NNS|BODY_3:BODY_4|0
+the m+1 texture case|DT NN NN NN|BODY_6|0
+a flag (|DT NN -LRB-|BODY_5|0
+a specific ordering|DT JJ VBG|BODY_4|0
+fixed|VBN|BODY_2|0
+the mean energy values|DT JJ NN NNS|BODY_2|0
+the functions l|DT NNS NN|BODY_1:BODY_4|0
+boundary points|NN NNS|BODY_8|0
+a second quadrant predictor window|DT JJ NN NN NN|BODY_3|0
+the sets|DT NNS|BODY_1:BODY_3|0
+( 21|-LRB- CD|BODY_3|0
+appendix|NN|BODY_2:BODY_1|0
+an image [6|DT NN NN|BODY_6|0
+any unique mapping|DT JJ NN|BODY_2|0
+t ( n )|NN -LRB- NN -RRB-|BODY_5|0
+some applications|DT NNS|BODY_7|0
+an eight-point neigh|DT JJ NN|BODY_10|0
+two orders|CD NNS|BODY_7|0
+each image block|DT NN NN|BODY_3|0
+( n\gamma1|-LRB- NNS|BODY_2|0
+current pixel replacements|JJ NN NNS|BODY_2|0
+a simple form|DT JJ NN|BODY_3|0
+decrease|NN|BODY_7|0
+those functions|DT NNS|BODY_5|0
+this information|DT NN|BODY_4:BODY_8|0
+the correct starting value and rate|DT JJ JJ NN CC NN|BODY_6|0
+convex|JJ|BODY_13|0
+the following forms|DT VBG NNS|BODY_4|0
+sufficient information|JJ NN|BODY_7|0
+the resulting boundaries|DT VBG NNS|BODY_2|0
+the aic information criteria|DT JJ NN NNS|BODY_7|0
+the mean square deviation|DT JJ JJ NN|BODY_5|0
+this process|DT NN|BODY_2|0
+the lowest energy state|DT JJS NN NN|BODY_2|0
+texture boundaries|NN NNS|BODY_2|0
+a xs ( r|DT NN -LRB- NN|BODY_5|0
+the conditional density function|DT JJ NN NN|BODY_1:BODY_8|0
+the approach|DT NN|BODY_1|0
+the following simplified expression|DT VBG JJ NN|BODY_3|0
+a few special cases|DT JJ JJ NNS|BODY_4|0
+) 1|-RRB- CD|BODY_11|0
+ra|NN|BODY_6|0
+the neighboring flags|DT JJ NNS|BODY_4|0
+a new tree|DT JJ NN|BODY_2|0
+the image pixels|DT NN NNS|BODY_5|0
+a global criterion|DT JJ NN|ABSTRACT_5|0
+ma|FW|BODY_7|0
+model x|NN NN|BODY_9|0
+a modified criteria|DT JJ NNS|BODY_3|1
+any updating|DT VBG|BODY_2|0
+two simple 64x64 toroidal test patterns|CD JJ CD JJ NN NNS|BODY_3|0
+m statistics|NN NNS|BODY_6:BODY_4|0
+ml parameters|NN NNS|BODY_2|0
+a new function|DT JJ NN|BODY_17|0
+a minimum|DT NN|ABSTRACT_4|0
+all merging|DT VBG|BODY_2|0
+the minimum number|DT JJ NN|BODY_4|0
+multiple resolution segmentation techniques|JJ NN NN NNS|BODY_2|0
+three levels|CD NNS|BODY_1:BODY_2|0
+relatively little information|RB JJ NN|BODY_4|0
+a symmetric transition probability|DT JJ NN NN|BODY_3|0
+these methods|DT NNS|BODY_1|0
+a quad tree|DT NN NN|BODY_3|0
+order ar model|NN NN NN|BODY_4|0
+image|NN|BODY_6:BODY_15:BODY_14|0
+the local replacement operation|DT JJ NN NN|BODY_2|0
+the textures|DT NNS|BODY_3:BODY_8|0
+reached|VBN|BODY_6|0
+this scheme|DT NN|BODY_1|0
+the raster ordering|DT NN NN|BODY_5:BODY_10|0
+icm or sa|NN CC NN|BODY_5|0
+the maximum or minimum|DT NN CC NN|BODY_3|0
+( 15 )|-LRB- CD -RRB-|BODY_4|0
+a general purpose algorithm|DT JJ NN NN|BODY_3|0
+no blocks|DT NNS|BODY_11|0
+the unsupervised estimation problem|DT JJ NN NN|BODY_2|0
+( 24 )|-LRB- CD -RRB-|BODY_4|0
+the cost functions|DT NN NNS|BODY_3|0
+gibbs distributions|NNS NNS|BODY_3|0
+the joint probability distributions|DT JJ NN NNS|BODY_4|0
+more computation|RBR NN|BODY_9|0
+a list|DT NN|BODY_4|0
+all experiments|DT NNS|BODY_1|0
+decimation|NN|BODY_3|0
+the two nearest clusters|DT CD JJS NNS|BODY_6:BODY_2|0
+such a gibbs distribution|JJ DT JJ NN|BODY_4|0
+the assumptions|DT NNS|BODY_6|0
+a posteriori|DT FW|BODY_3|0
+ordering|VBG|BODY_4|0
+figure 5|NN CD|BODY_3|0
+only o( m|RB JJ NN|BODY_2|0
+fa k g m|NN NN VBG NN|BODY_8|0
+this relation|DT NN|BODY_4|0
+the unordered block classes|DT JJ NN NNS|BODY_5|0
+map ) estimate|NN -RRB- NN|BODY_4|0
+each case|DT NN|BODY_1|0
+this analysis|DT NN|BODY_2|0
+a boundary|DT NN|BODY_4|0
+( l\gamma1|-LRB- NN|BODY_2|0
+the following|DT VBG|BODY_2|0
+practice|NN|BODY_1|0
+the mrs and sa algorithms|DT NNS CC NN NNS|BODY_5|0
+a l ,|DT JJ ,|BODY_8|0
+a l take|DT NN NN|BODY_9|0
+each cluster|DT NN|BODY_2:BODY_1|0
+the sense|DT NN|BODY_4|0
+the probability p|DT NN NN|BODY_4|0
+a variety|DT NN|BODY_4|0
+a faster schedule|DT JJR NN|BODY_1:BODY_3|0
+the unique solution|DT JJ NN|BODY_6|0
+adjacent blocks|JJ NNS|BODY_3|0
+( 29|-LRB- CD|BODY_12|0
+8s|NN|BODY_8|0
+( 10 )|-LRB- CD -RRB-|BODY_5:BODY_3|0
+sequential replacements|JJ NNS|BODY_4|0
+the resulting minimization techniques|DT VBG NN NNS|BODY_6|0
+the sample statistics|DT NN NNS|BODY_6|0
+thin strips [1]|JJ NNS NNS|BODY_4|0
+the previous coarser|DT JJ NN|BODY_6|0
+100 and 500 iterations|CD CC CD NNS|BODY_4|0
+a finite number|DT JJ NN|BODY_5|0
+larger numbers|JJR NNS|BODY_2|0
+substantially less computation|RB JJR NN|BODY_3|0
+the ordered block classifications|DT VBN NN NNS|BODY_3|0
+[17]|NN|BODY_5|0
+a free boundary|DT JJ NN|BODY_2|0
+all other clusters|DT JJ NNS|BODY_5|0
+no reason|DT NN|BODY_4|0
+sufficient statistical evidence|JJ JJ NN|BODY_6|0
+the block size|DT NN NN|BODY_1|0
+the likely scale|DT JJ NN|BODY_3|0
+the actual texture parameters|DT JJ NN NNS|BODY_4|0
+coarse resolution solutions|JJ NN NNS|BODY_7|0
+one resolution|CD NN|BODY_5|0
+the random reordering|DT JJ NN|BODY_2|0
+sufficient statistics|JJ NNS|BODY_13|0
+a past|DT NN|BODY_3|0
+mean and 64 quantization levels|JJ CC CD NN NNS|BODY_4|0
+a deterministic replacement algorithm|DT JJ NN NN|BODY_2|0
+a grouping|DT NN|BODY_6|0
+ml) parameter estimation|JJ NN NN|BODY_4|0
+the sequence|DT NN|BODY_3|0
+each resolution n|DT NN NN|BODY_3|0
+small regions|JJ NNS|BODY_2|0
+the global optimum [6]|DT JJ NN NN|BODY_4|0
+the fine and course resolution cost functions|DT JJ CC NN NN NN NNS|BODY_5|0
+a texture|DT NN|BODY_7|0
+an agglomerative hierarchical clustering algorithm|DT JJ JJ NN NN|BODY_2|0
+angles|NNS|BODY_7|0
+any block|DT NN|BODY_2|0
+identifiability|NN|BODY_2|0
+o( m log( m \gamma|JJ NN NN NN NN|BODY_4|0
+the introduction|DT NN|BODY_7|0
+cost|NN|BODY_5|0
+a square two dimensional lattice|DT JJ CD JJ NN|BODY_6|0
+elements|NNS|BODY_2:BODY_7|0
+unit|NN|BODY_7|0
+a sum|DT NN|BODY_16|0
+the knowledge|DT NN|BODY_5|0
+normalizing constants|JJ NNS|BODY_2|0
+the neighborhoods|DT NNS|BODY_4|0
+the mean energy|DT JJ NN|BODY_5|0
+m 2 calculations|NN CD NNS|BODY_3|0
+oe 2 m|NN CD NN|BODY_6|0
+2|CD|BODY_11:BODY_3|0
+the composition|DT NN|BODY_3|0
+a entire line|DT JJ NN|BODY_6|0
+the previous value|DT JJ NN|BODY_2|0
+the properties|DT NNS|BODY_6|0
+the mle texture parameters|DT NN NN NNS|BODY_2|0
+mle)|NN|BODY_4|0
+the context|DT NN|BODY_3|0
+an analogous segmentation problem|DT JJ NN NN|BODY_3|0
+a predictive texture model|DT JJ NN NN|BODY_2|0
+the same|DT JJ|BODY_2|0
+this optimization criteria|DT NN NNS|BODY_5|0
+two constraints|CD NNS|BODY_4|0
+a level|DT NN|BODY_2|0
+the set f1|DT NN NNS|BODY_4|0
+the plots|DT NNS|BODY_2|0
+all cluster techniques|DT NN NNS|BODY_3|0
+the transition distribution|DT NN NN|BODY_3|0
+superscripts|NNS|BODY_5|0
+l log|JJ NN|BODY_5|0
+the probabilities|DT NNS|BODY_13|0
+time|NN|BODY_7|0
+ml estimation|NN NN|BODY_2|0
+t possible|NN JJ|BODY_8|0
+a special case|DT JJ NN|BODY_2|0
+the transformation|DT NN|BODY_2:BODY_3|0
+( 28 )|-LRB- CD -RRB-|BODY_11|0
+an unambiguous specification|DT JJ NN|BODY_6|0
+groupings|NNS|BODY_3|0
+fine resolutions|JJ NNS|BODY_6|0
+that texture|DT NN|BODY_12:BODY_8|0
+a quarter plane prediction window|DT NN NN NN NN|BODY_2|0
+( y|-LRB- NN|BODY_6|0
+a member|DT NN|BODY_2|0
+one pass|CD NN|BODY_2|0
+the repeated combining|DT VBN VBG|BODY_3|0
+the multigrid methods|DT JJ NNS|BODY_3|0
+-m|NNP|BODY_4|0
+t drops|IN NNS|BODY_6|0
+the decimated likelihood functions|DT JJ NN VBZ|BODY_4|0
+each grouping|DT NN|BODY_5|0
+a computationally intensive method|DT RB JJ NN|BODY_6|0
+the minimization problem|DT NN NN|BODY_6|0
+prior knowledge|JJ NN|BODY_2|0
+normal assumptions|JJ NNS|BODY_3|0
+the agglomeration|DT NN|BODY_6|0
+the final expression|DT JJ NN|BODY_13|0
+those statistics|DT NNS|BODY_4|0
+a parameter|DT NN|BODY_5|0
+an information criteria|DT NN NNS|BODY_9|0
+the fisher information matrix|DT NN NN NN|BODY_4|0
+the limiting distribution|DT VBG NN|BODY_4|0
+an alternative|DT NN|BODY_3|0
+( 4 ) and ( 5 )|-LRB- CD -RRB- CC -LRB- CD -RRB-|BODY_3|0
+this definition|DT NN|BODY_1|0
+integer pairs|NN NNS|BODY_3|0
+(y j\delta|JJ NN|BODY_2|0
+13 and 14|CD CC CD|BODY_2|0
+an approximate maximum|DT JJ NN|BODY_2|0
+each show|DT NN|BODY_3|0
+six different tests|CD JJ NNS|BODY_2|0
+properties|NNS|BODY_4|0
+raster|NN|BODY_3|0
+the clique c|DT NN NN|BODY_14|0
+1024|CD|BODY_3|0
+equal dimension|JJ NN|BODY_6|0
+the weakest possible assumptions|DT JJS JJ NNS|BODY_3|0
+the sar model|DT NN NN|BODY_3|0
+an ending temperature|DT VBG NN|BODY_7|0
+r )|NN -RRB-|BODY_7|0
+the smallest element|DT JJS NN|BODY_6|0
+authors|NNS|BODY_2|0
+plots|NNS|BODY_2|0
+the mrf models|DT NN NNS|BODY_2|0
+smooth spatial behavior|JJ JJ NN|BODY_3|0
+n|NN|BODY_8|0
+a schedule|DT NN|BODY_4|0
+f(yjx )|NN -RRB-|BODY_3|0
+this property|DT NN|BODY_1|0
+this work raster ordering|DT NN NN VBG|BODY_6|0
+this reason|DT NN|BODY_1|0
+smoothness constraints|NN NNS|BODY_4|0
+the bias|DT NN|BODY_3|0
+the mle values|DT NN NNS|BODY_3|0
+good or better|JJ CC RBR|BODY_7|0
+this replacement operation changes|DT NN NN NNS|BODY_2|0
+only unique up|RB JJ IN|BODY_4|0
+a finite domain|DT JJ NN|BODY_2|0
+remains|VBZ|BODY_5|0
+( 9 )|-LRB- CD -RRB-|BODY_3|0
+) [8 ]|-RRB- CD NN|BODY_5|0
+the only relevant ( sufficient ) statistics|DT JJ JJ -LRB- JJ -RRB- NNS|BODY_3|0
+the discrete valued field|DT JJ VBN NN|BODY_4|0
+e .g|NN NN|BODY_5|0
+mean error versus|JJ NN FW|BODY_3|0
+the maximum likelihood estimate|DT JJ NN NN|BODY_3|0
+fi|JJ|BODY_3|0
+its diagonal entries|PRP$ JJ NNS|BODY_3|0
+this framework|DT NN|BODY_5|0
+p|NN|BODY_4|0
+the parameter value unsupervised parameter estimation|DT NN NN JJ NN NN|BODY_3|0
+the decision|DT NN|BODY_2|0
+the updating|DT VBG|BODY_2|0
+the unknown field|DT JJ NN|BODY_5|0
+long (ignore end effects|JJ JJ NN NNS|BODY_3|0
+neither|DT|BODY_4|0
+25 )|CD -RRB-|BODY_2|0
+the same information|DT JJ NN|BODY_3|0
+the adjacent pixels|DT JJ NNS|BODY_4|0
+y and fa k k=1|NN CC NN NN NNS|BODY_5|0
+a notation|DT NN|BODY_2|0
+random variables|JJ NNS|BODY_11:BODY_7|0
+aeg|NN|BODY_9|0
+a p|DT NN|BODY_3|0
+the estimated number|DT JJ NN|BODY_2|0
+the direction|DT NN|BODY_9|0
+functions|NNS|BODY_4|0
+the selective agglomeration|DT JJ NN|BODY_3|0
+a balanced tree|DT JJ NN|BODY_3|0
+the criteria|DT NNS|BODY_7|0
+the ergodic properties|DT JJ NNS|BODY_2|0
+l(\delta|NN|BODY_18|0
+uniform probability|NN NN|BODY_5|0
+one method|CD NN|BODY_3|0
+any particular group|DT JJ NN|BODY_10|0
+the fact|DT NN|BODY_2|0
+components|NNS|BODY_7|0
+texture clusters|NN NNS|BODY_4|0
+this stage many cluster pairs|DT NN JJ NN NNS|BODY_2|0
+a that|DT DT|BODY_3|0
+consideration|NN|BODY_4|0
+strictly positive distribution|RB JJ NN|BODY_5|0
+observations|NNS|BODY_3|0
+the mean , variance and prediction coefficients|DT JJ , NN CC NN NNS|BODY_2|0
+fi ( n|JJ -LRB- NN|BODY_10|0
+each other|DT JJ|BODY_6|0
+4 and 5 plot|CD CC CD NN|BODY_7|0
+the discrimination|DT NN|BODY_5|0
+'s algorithm [21]|POS NN NN|BODY_4|0
+a greedy minimization algorithm|DT JJ NN NN|BODY_1|0
+a visible cue|DT JJ NN|BODY_4|0
+any changes|DT NNS|BODY_1|0
+approximate minimization|JJ NN|BODY_1|0
+icm) [4|NN CD|BODY_4|0
+set return|VBN NN|BODY_1|0
+these composite images|DT JJ NNS|BODY_1|0
+x ( n\gamma1|NN -LRB- CD|BODY_3|0
+arbitrary blocks|JJ NNS|BODY_4|0
+this agglomeration procedure|DT NN NN|BODY_2|0
+superfluous textures|JJ NNS|BODY_6:BODY_1|0
+a tractable number|DT JJ NN|BODY_4|0
+the functions c(k|DT NNS VBP|BODY_4|0
+vectors|NNS|BODY_4|0
+resolution level|NN NN|BODY_4|0
+distinct textures or clusters|JJ NNS CC NNS|BODY_3|0
+the temperature|DT NN|BODY_6|0
+the signal-to-noise ratio|DT NN NN|BODY_1:BODY_3|0
+local algorithms|JJ NNS|BODY_5|0
+mrs ) algorithm|NNS -RRB- NN|BODY_3|0
+a starting temperature|DT VBG NN|BODY_5|0
+a marginal distribution|DT JJ NN|BODY_12:BODY_8|0
+detail|NN|BODY_7|0
+the prediction errors|DT NN NNS|BODY_3|0
+this minimization problem|DT NN NN|BODY_3|0
+n ) count adjacent values|NN -RRB- NN JJ NNS|BODY_7|0
+a large or infinite number|DT JJ CC JJ NN|BODY_3|0
+n =1 y ae|RB CD NN NNS|BODY_3|0
+mean and prediction variance|JJ CC NN NN|BODY_3|0
+the artificial introduction|DT JJ NN|BODY_4|0
+the agglomerative clustering|DT JJ NN|BODY_3|0
+spatial coherence|JJ NN|BODY_4|0
+negative c(k|JJ NN|BODY_6|0
+3 )|CD -RRB-|BODY_14|0
+this clustering criteria|DT NN NNS|BODY_5|0
+use|NN|BODY_3|0
+different type|JJ NN|BODY_8|0
+64 quantization levels|CD NN NNS|BODY_3|0
+these problems|DT NNS|BODY_2|0
+a final step|DT JJ NN|BODY_1:BODY_3|0
+a permutation|DT NN|BODY_5|0
+different resolutions|JJ NNS|BODY_2|0
+a flag|DT NN|BODY_2|0
+any distribution|DT NN|BODY_3|0
+a neighborhood system|DT NN NN|BODY_6:BODY_4|0
+the amount|DT NN|BODY_6|0
+the parameter space|DT NN NN|BODY_5|0
+a deterministic greedy algorithm|DT JJ JJ NN|ABSTRACT_3|0
+a negative value|DT JJ NN|BODY_3|0
+a proposed statistical criteria|DT VBN JJ NNS|BODY_4|0
+the observation|DT NN|BODY_2|0
+quantization bins|NN NNS|BODY_3|0
+finite precision effects|JJ NN NNS|BODY_7|0
+the k-means algorithm [17]|DT NNS NN NN|BODY_3|0
+a rectangular grid|DT JJ NN|BODY_6|0
+causality|NN|BODY_5|0
+turn|NN|BODY_2|0
+class information|NN NN|BODY_3|0
+the markov chains|DT NN NNS|BODY_3|0
+the advantages|DT NNS|BODY_1|0
+a statistic vector|DT JJ NN|BODY_16|0
+l ( n|JJ -LRB- NN|BODY_5|0
+figure 10|NN CD|BODY_5|0
+f(yjx ) and p( x )|NN -RRB- CC NN NN -RRB-|BODY_2|0
+at least one region|IN JJS CD NN|BODY_6|0
+a well defined function|DT RB VBN NN|BODY_4|0
+possible segmentations|JJ NNS|BODY_2|0
+all mappings|DT NNS|BODY_14|0
+the exponential all cliques c|DT JJ DT NNS NN|BODY_4|0
+element subtraction|NN NN|BODY_6|0
+a larger finite neighborhood|DT JJR JJ NN|BODY_3|0
+any sar model|DT JJ NN|BODY_1|0
+equality|NN|BODY_1|0
+one less parameter|CD JJR NN|BODY_3|0
+sa works|NN NNS|BODY_1|0
+setting ae|VBG NNS|BODY_1|0
+stochastic relaxation algorithms|JJ NN NNS|BODY_1|0
+tables|NNS|BODY_1|0
+the ' k parameters|DT `` NN NNS|BODY_3|0
+the assumed texture model|DT VBN NN NN|BODY_3|0
+the computational requirements|DT JJ NNS|BODY_1|0
+the curves|DT NNS|BODY_1|0
+the following section|DT VBG NN|BODY_1|0
+the k-means algorithm|DT NNS NN|BODY_3|0
+the placement|DT NN|BODY_1|0
+the plot|DT NN|BODY_3|0
+the prediction window|DT NN NN|BODY_3|0
+the unsupervised estimation algorithm|DT JJ NN NN|BODY_3|0
+these decimated likelihood functions|DT JJ NN NNS|BODY_3|0
+these problems [6|DT NNS NNS|BODY_3|0
+these states|DT NNS|BODY_3|0
+these two operations|DT CD NNS|BODY_1|0
+this composite image|DT JJ NN|BODY_1|0
+this strategy|DT NN|BODY_1|0
+two methods|CD NNS|BODY_3|0
+usually equivalent results|RB JJ NNS|BODY_3|0
+appropriate size|JJ NN|BODY_8|0
+two different cases|CD JJ NNS|BODY_3|0
+two distinct methods|CD JJ NNS|BODY_2|0
+insufficient spatial correlation|JJ JJ NN|BODY_6|0
+these cliques|DT NNS|BODY_2|0
+[4 ]|DT NN|BODY_2|0
+a subset|DT NN|BODY_9|0
+y and ~ y|JJ CC JJ JJ|BODY_3|0
+1 values|CD NNS|BODY_4|0
+an explicit function|DT JJ NN|BODY_10|0
+block classifications|NN NNS|BODY_2|0
+l)|NN|BODY_5:BODY_7:BODY_8|0
+the two properties|DT CD NNS|BODY_7|0
+( 12 ) corresponds|-LRB- CD -RRB- NNS|BODY_3|0
+texture model|NN NN|BODY_7|0
+fw k k=1|JJ NN NNS|BODY_6|0
+this corresponds|DT NNS|BODY_7|0
+lower triangular|JJR NN|BODY_2|0
+the mle estimate|DT JJ NN|BODY_3|0
+the average|DT NN|BODY_4|0
+the image boundary|DT NN NN|BODY_3|0
+computer simulations|NN NNS|BODY_3|0
+prediction|NN|BODY_5|0
+no more changes|DT JJR NNS|BODY_4|0
+fi ( n ) 2|JJ -LRB- NN -RRB- CD|BODY_12|0
+[15|CD|BODY_2|0
+. ~|. NN|BODY_4|0
+the relative order|DT JJ NN|BODY_7|0
+the coarsest level|DT NN NN|BODY_4|0
+the best segmentation|DT JJS NN|BODY_3|0
+condition|NN|BODY_4|0
+the number and types|DT NN CC NNS|BODY_5|0
+the texture|DT NN|BODY_5|0
+mg|NN|BODY_5|0
+a model|DT NN|BODY_3|0
+as|IN|BODY_3|0
+a reasonable alternative|DT JJ NN|BODY_3:BODY_4|0
+a greedy algorithm|DT JJ NN|BODY_2|0
+( 2|-LRB- CD|BODY_2|0
+an arbitrary function|DT JJ NN|BODY_15|0
+simple local operations|JJ JJ NNS|BODY_4|0
+a probability|DT NN|BODY_5|0
+the possibility|DT NN|BODY_4|0
+a fixed set|DT JJ NN|BODY_14|0
+the method|DT NN|BODY_7|0
+conditions|NNS|BODY_5|0
+future points|JJ NNS|BODY_5|0
+a reasonable trade|DT JJ NN|BODY_3|0
+a k and|DT NN CC|BODY_14|0
+the calculation|DT NN|BODY_2|0
+all possible partitioning|DT JJ NN|BODY_4|0
+a a t|DT DT NN|BODY_14|0
+ra and ma|NN CC NN|BODY_12|0
+segment|NN|BODY_8|0
+all possible partitioning sets|DT JJ NN NNS|BODY_3|0
+r 2|NN CD|BODY_9|0
+local log likelihood functions|JJ NN NN NNS|BODY_2|0
+different textures|JJ NNS|BODY_4|0
+corresponding points|JJ NNS|BODY_3|0
+any blocks|DT NNS|BODY_5|0
+the loss|DT NN|BODY_4|0
+higher resolution images|JJR NN NNS|BODY_5|0
+a good basis|DT JJ NN|BODY_4|0
+n =1|RB CD|BODY_2|0
+the corresponding likelihood functions|DT JJ NN NNS|BODY_26|0
+a log likelihood function|DT NN NN NN|BODY_5|0
+greater then|JJR RB|BODY_4|0
+the five experiments|DT CD NNS|BODY_5|0
+the model parameters|DT NN NNS|BODY_10|0
+ae m|NNS NN|BODY_8|0
+significantly fewer computing elements|RB JJR NN NNS|BODY_7|0
+the surrounding regions|DT VBG NNS|BODY_4|0
+a local minimum|DT JJ NN|BODY_3|0
+any other state|DT JJ NN|BODY_5|0
+a trade-off|DT NN|BODY_5|0
+1=t figures|JJ NNS|BODY_6|0
+values|NNS|BODY_3|0
+a state|DT NN|BODY_3|0
+the well known k-means|DT RB VBN NNS|BODY_4|0
+the statistic vector|DT JJ NN|BODY_12|0
+c(x|NN|BODY_2|0
+the situation|DT NN|BODY_8|0
+( 21 )|-LRB- CD -RRB-|BODY_4|0
+the joint log likelihood|DT JJ NN NN|BODY_5|0
+a one dimensional dynamic programming problem|DT CD JJ JJ NN NN|BODY_2|0
+a test pattern|DT NN NN|BODY_6|0
+the hammersley-clifford theorem|DT JJ NN|BODY_1|0
+p( x )|NN NN -RRB-|BODY_4|0
+the fine segmentation|DT JJ NN|BODY_4|0
+the relative performance|DT JJ NN|BODY_5|0
+the first m \gamma|DT JJ NN NN|BODY_3|0
+approximate the mle estimate|JJ DT JJ NN|BODY_3|0
+the effects|DT NNS|BODY_2|0
+the form ~|DT NN NN|BODY_3|0
+the partition|DT NN|BODY_3|0
+clique , c|NN , NN|BODY_8|0
+a random variable|DT JJ JJ|BODY_3|0
+the texture model|DT NN NN|BODY_4|0
+p values|NN NNS|BODY_8|0
+the position|DT NN|BODY_7|0
+the icm algorithm|DT NN NN|BODY_3|0
+additional free parameters|JJ JJ NNS|BODY_4|0
+the variance|DT NN|BODY_3|0
+section 2.1|NN CD|BODY_5|0
+the original cost criteria ( 7 )|DT JJ NN NNS -LRB- CD -RRB-|BODY_5|0
+the k|DT NN|BODY_6|0
+( 20|-LRB- CD|BODY_3|0
+f'|NNS|BODY_8|0
+c( \delta )|JJ NN -RRB-|BODY_14|0
+] states|JJ NNS|BODY_2|0
+a texture statistic|DT NN NN|BODY_3|0
+denote element|NN NN|BODY_5|0
+the update ordering|DT NN NN|BODY_4|0
+the procedures|DT NNS|BODY_2|0
+the abbreviated notation|DT VBN NN|BODY_6|0
+the rate|DT NN|BODY_6|0
+misclassified pixels|JJ NNS|BODY_9|0
+the clustering model|DT NN NN|BODY_6|0
+this minimizes|DT NNS|BODY_8|0
+a large region|DT JJ NN|BODY_2|0
+region boundaries|NN NNS|BODY_4|0
+an additional step|DT JJ NN|BODY_6|0
+all other points|DT JJ NNS|BODY_5|0
+)g y ae|DT NN NNS|BODY_6|0
+( 7 ) )|-LRB- CD -RRB- -RRB-|BODY_12|0
+the minimizing values|DT JJ NNS|BODY_6:BODY_2|0
+( 14 )|-LRB- CD -RRB-|BODY_3|0
+all cliques c|DT NNS NN|BODY_8|0
+m 0|NN CD|BODY_6|0
+this multiple resolution segmentation|DT JJ NN NN|BODY_2|0
+studies|NNS|BODY_2|0
+2 s|CD VBZ|BODY_3|0
+the functions l(\delta|DT NNS NN|BODY_3|0
+individual points|JJ NNS|BODY_3|0
+x( n )|NN NN -RRB-|BODY_10|0
+the most substantial improvement|DT RBS JJ NN|BODY_2|0
+similar clusters|JJ NNS|BODY_7|0
+groups|NNS|BODY_6|0
+this replacement|DT NN|BODY_3|0
+that information|DT NN|BODY_6|0
+the next finer level|DT JJ NN NN|BODY_7|0
+the merging|DT VBG|BODY_5|0
+the resulting segmentation|DT VBG NN|BODY_5|0
+these rea|DT NN|BODY_1|0
+the mrs|DT NNS|BODY_8|0
+a matrix|DT NN|BODY_5|0
+2.1 texture model|CD NN NN|BODY_1|0
+minimizes|NNS|BODY_12|0
+some experimental evidence|DT JJ NN|BODY_2|0
+a similar approach|DT JJ NN|BODY_2|0
+the two functions|DT CD NNS|BODY_3|0
+y xs exp ~|NN JJ NN VB|BODY_9|0
+the replacement operation|DT NN NN|BODY_3|0
+the field x|DT NN NN|BODY_4|0
+table 3|NN CD|BODY_4|0
+unique mappings|JJ NNS|BODY_2|0
+identifiable parameters|JJ NNS|BODY_2|0
+ordered pairs|VBN NNS|BODY_2|0
+w statistics|NN NNS|BODY_4|0
+all possible values|DT JJ NNS|BODY_4|0
+the log likelihood function|DT NN NN NN|BODY_13|0
+an objective measure|DT JJ NN|BODY_4|0
+unit length|NN NN|BODY_6|0
+the unsupervised parameter algorithm|DT JJ NN NN|BODY_5|0
+u(xjy )|NN -RRB-|BODY_4:BODY_7|0
+the optimum number|DT JJ NN|BODY_2|0
+8s 2|NN CD|BODY_1|0
+a more general model|DT RBR JJ NN|BODY_1|0
+all test images|DT NN NNS|BODY_1|0
+one pixel cliques|CD NN NNS|BODY_8|0
+p( x|NN NN|BODY_1|0
+the individual pixel classifications|DT JJ NN NNS|BODY_6|0
+the original quantity|DT JJ NN|BODY_10|0
+the prediction|DT NN|BODY_7|0
+woolen cloth , grass and beach sand|JJ NN , NN CC NN NN|BODY_7|0
+compute l ( n ) (y j\delta|VB NN -LRB- NN -RRB- NN NN|BODY_1|0
+all levels|DT NNS|BODY_6|0
+the parameter values|DT NN NNS|BODY_6|0
+an aggregate statistic|DT JJ NN|BODY_8|0
+any texture segmentation algorithm|DT NN NN NN|BODY_2|0
+smaller regions|JJR NNS|BODY_3|0
+a complex function|DT JJ NN|BODY_5|0
+a fraction|DT NN|BODY_7|0
+this paper first segments|DT NN JJ NNS|BODY_2|0
+4.2 estimation|CD NN|BODY_9|0
+the mapping|DT NN|BODY_1|0
+approximate mle parameter estimation|JJ NN NN NN|BODY_5|0
+three procedures|CD NNS|BODY_13|0
+local minimum|JJ NN|BODY_7|0
+equal size (|JJ NN -LRB-|BODY_5|0
+interior points|JJ NNS|BODY_5|0
+the new entry|DT JJ NN|BODY_5|0
+1 difficult|CD JJ|BODY_6|0
+a negative conditional log likelihood|DT JJ JJ NN NN|BODY_11|0
+p(|JJ|BODY_1:BODY_4|0
+an ordering|DT NN|BODY_3|0
+the only information|DT JJ NN|BODY_9|0
+these coarse resolution parameters|DT JJ NN NNS|BODY_5|0
+arbitrary functions|JJ NNS|BODY_11|0
+a gaussian ar texture model and estimates|DT JJ NN NN NN CC NNS|BODY_2|0
+greater than or|JJR IN CC|BODY_10|0
+k times|NN NNS|BODY_6|0
+supervision|NN|BODY_9|0
+gaussian random fields|JJ JJ NNS|BODY_1|0
+pixel and replacements|NN CC NNS|BODY_7|0
+derin and elliott|NN CC NN|BODY_1|0
+the ml estimates|DT JJ NNS|BODY_6|0
+many combinations|JJ NNS|BODY_4|0
+sets|NNS|BODY_6|0
+a new cluster|DT JJ NN|BODY_4|0
+the empirical density function|DT JJ NN NN|BODY_1|0
+any group|DT NN|BODY_4|0
+100 interactions|CD NNS|BODY_4|0
+an interpolated version|DT JJ NN|BODY_6|0
+n =1 ae|RB CD NNS|BODY_8|0
+s.|PRP$|BODY_6|0
+sar and gmrf models|NN CC NN NNS|BODY_1|0
+a sufficiently large neighborhood size|DT RB JJ NN NN|BODY_1|0
+the coarsest resolution and use|DT NN NN CC NN|BODY_3|0
+4.1 clustering model|CD NN NN|BODY_1|0
+good results|JJ NNS|BODY_5|0
+mean zero and variance|NN NN CC NN|BODY_7|0
+the resolution|DT NN|BODY_3|0
+all cliques|DT NNS|BODY_3|0
+lower correlation|JJR NN|BODY_6|0
+a more relevant measure|DT JJR JJ NN|BODY_4|0
+a partial answer|DT JJ NN|BODY_1|0
+the greatest smaller integer function|DT JJS JJR NN NN|BODY_9|0
+the three minimization algorithms mrs|DT CD NN NNS NNS|BODY_5|0
+our prior knowledge|PRP$ JJ NN|BODY_2|0
+segmentation using mrs|NN VBG NNS|BODY_2|0
+discontinuities [10 , 12]|NNS CD , CD|BODY_8|0
+'|''|BODY_5|0
+a fractional number|DT JJ NN|BODY_4|0
+local interactions|JJ NNS|BODY_12|0
+the most likely texture|DT RBS JJ NN|BODY_4|0
+the most likely conditional probability|DT RBS JJ JJ NN|BODY_9|0
+some computer vision problems|DT NN NN NNS|BODY_3|0
+the range|DT NN|BODY_7|0
+a recursion|DT NN|BODY_21|0
+the original two clusters|DT JJ CD NNS|BODY_6|0
+a and b|DT CC NN|BODY_1|0
+(yjk ) ( 10|JJ -RRB- -LRB- CD|BODY_7|0
+full resolution|JJ NN|BODY_5:BODY_9|0
+that fw k k=1|IN NN NN NNS|BODY_8|0
+the initial number|DT JJ NN|BODY_1|0
+)g|DT|BODY_14|0
+later iterations most|RB IN JJS|BODY_5|0
+fa k k=1|NN NN NNS|BODY_11|0
+any case|DT NN|BODY_1|0
+the class|DT NN|BODY_2|0
+two points|CD NNS|BODY_15|0
+minimization yields|NN NNS|BODY_4|0
+the remaining parameters|DT VBG NNS|BODY_2|0
+only a single point|RB DT JJ NN|BODY_8|0
+the most likely segmentation|DT RBS JJ NN|BODY_7|0
+any statistic ,|DT JJ ,|BODY_4|0
+the sets fa k g m|DT NNS NN NN NN NN|BODY_3|0
+the prediction error ~|DT NN NN NN|BODY_5|0
+minimizing ( 23 )|VBG -LRB- CD -RRB-|BODY_3|0
+the best fit|DT JJS NN|BODY_5|0
+10 to 1000 times that|CD TO CD NNS IN|BODY_4|0
+the pattern|DT NN|BODY_1|0
+the corresponding statistics|DT JJ NNS|BODY_8|0
+past values|JJ NNS|BODY_5|0
+only x|RB SYM|BODY_12|0
+the field x ( l\gamma1|DT NN NN -LRB- NNS|BODY_10|0
+the arguments|DT NNS|BODY_2|0
+( 8 )|-LRB- CD -RRB-|BODY_4|0
+both natural and synthetic textures|DT JJ CC JJ NNS|BODY_3|0
+n=4 processors|NN NNS|BODY_5|0
+the ml parameters|DT NN NNS|BODY_1|0
+the the classification|DT DT NN|BODY_5|0
+texture regions|NN NNS|BODY_5|0
+the same image|DT JJ NN|BODY_7|0
+the extreme annealing schedule t|DT JJ NN NN NN|BODY_3|0
+an approximation|DT NN|BODY_2|0
+the remaining values|DT VBG NNS|BODY_9|0
+any texture model|DT NN NN|BODY_3|0
+the gibbs sampler [6|DT JJ NN NNS|BODY_4|0
+\phi|NNP|BODY_4|0
+a coding|DT NN|BODY_3|0
+that image pixels|DT NN NNS|BODY_2|0
+the specific order|DT JJ NN|BODY_2|0
+free parameters|JJ NNS|BODY_12|0
+( n )|-LRB- NN -RRB-|BODY_5|0
+( 16 )|-LRB- CD -RRB-|BODY_2|0
+o( m 2 log m )|JJ NN CD NN NN -RRB-|BODY_6|0
+an accurate closed form distribution|DT JJ JJ NN NN|BODY_2|0
+arbitrary regions|JJ NNS|BODY_6|0
+using icm|VBG NN|BODY_3|0
+well behaved spectral density function [7]|RB VBN JJ NN NN NN|BODY_6|0
+statistically distinct regions|RB JJ NNS|ABSTRACT_4|0
+possible values|JJ NNS|BODY_4|0
+a total search time|DT JJ NN NN|BODY_2|0
+an eight-point neighborhood system|DT JJ NN NN|BODY_2|0
+any two clusters|DT CD NNS|BODY_4|0
+the statistic|DT JJ|BODY_9|0
+the relative position|DT JJ NN|BODY_9|0
+the spatial ordering|DT JJ NN|BODY_4|0
+each set|DT VBN|BODY_9|0
+different value|JJ NN|BODY_12:BODY_7|0
+the three experiments|DT CD NNS|BODY_3|0
+texture|NN|BODY_4|0
+a random mapping|DT JJ NN|BODY_10|0
+this difficulty|DT NN|BODY_1|0
+' is|POS VBZ|BODY_2|0
+the proper annealing schedule|DT JJ NN NN|BODY_2|0
+~ y|NN RB|BODY_10|0
+2.2 segmentation field model|CD NN NN NN|BODY_6|0
+3 minimization methods|CD NN NNS|BODY_9|0
+the following expression|DT VBG NN|BODY_4|0
+a general choice|DT JJ NN|BODY_1|0
+continuous valued fields|JJ VBN NNS|BODY_2|0
+some previously known methods|DT RB VBN NNS|ABSTRACT_4|0
+statistically significant differences|RB JJ NNS|BODY_5|0
+an image block|DT NN NN|BODY_5|0
+the mrf|DT NN|BODY_4|0
+first separate the image|JJ JJ DT NN|BODY_3|0
+the classes|DT NNS|BODY_3|0
+much less|RB JJR|BODY_5|0
+distinct texture types|JJ NN NNS|BODY_3|0
+such an algorithm|JJ DT NN|BODY_6|0
+trees|NNS|BODY_4|0
+this level|DT NN|BODY_5|0
+the eight neighbors|DT CD NNS|BODY_6|0
+na|TO|BODY_11|0
+the remainder|DT NN|BODY_11|0
+these advantages|DT NNS|BODY_1|0
+actual replacement computations|JJ NN NNS|BODY_2|0
+the starting and ending temperatures|DT VBG CC VBG NNS|BODY_2|0
+the metropolis|DT NNS|BODY_1|0
+the missing class information|DT VBG NN NN|BODY_5|1
+v 2|NN CD|BODY_6|0
+3.1 sa|CD NN|BODY_1|0
+large variance|JJ NN|BODY_4|0
+replacements|NNS|BODY_2:BODY_3|0
+an individual cluster|DT JJ NN|BODY_4|0
+a series|DT NN|BODY_1|0
+the implementation|DT NN|BODY_8|0
+the unsupervised parameter estimation algorithm|DT JJ NN NN NN|ABSTRACT_1:BODY_9|0
+o( m ) memory|JJ NN -RRB- NN|BODY_4|0
+only the steepest descent algorithm|RB DT JJS NN NN|BODY_3|0
+diagonal neighbors|JJ NNS|BODY_8|0
+horizontal and vertical neighbors|JJ CC JJ NNS|BODY_3|0
+t 2 ( x )|JJ CD -LRB- NN -RRB-|BODY_9|0
+performing sa|VBG NN|BODY_6|0
+-.|VBG|BODY_7|0
+equal [11]|JJ NN|BODY_5|0
+xmle|NN|BODY_1|0
+y and x|NN CC NN|BODY_18|0
+the markov chain|DT NN NN|BODY_7|0
+the fixed resolution problem|DT JJ NN NN|BODY_5|0
+12]|CD|BODY_9|0
+the resolution constraint|DT NN NN|ABSTRACT_5|0
+all these tests|PDT DT NNS|BODY_1|0
+4096 distinct cluster types|CD JJ NN NNS|BODY_7|0
+akaike[14]|NN|BODY_8|0
+cluster statistics|NN NNS|BODY_1|0
+our ability|PRP$ NN|BODY_1|0
+this assumption|DT NN|BODY_1|0
+size|NN|BODY_8|0
+the block boundaries|DT NN NNS|BODY_6|0
+a brute force approach|DT JJ NN NN|BODY_1|0
+pixel classifications|NN NNS|BODY_4|0
+both t 1|DT NN CD|BODY_1|0
+l \gamma 1|JJ NN CD|BODY_5|0
+a good decision|DT JJ NN|BODY_8|0
+either case|DT NN|BODY_1|0
+equal length|JJ NN|BODY_4|0
+4 , 3 , 2 , 1 , 11]|CD , CD , CD , CD , CD|BODY_7|0
+3.3 decimation|CD NN|BODY_1|0
+these facts|DT NNS|BODY_1|0
+the a priori probability|DT DT NN NN|BODY_7|0
+nature|NN|BODY_4|0
+value|NN|BODY_8|0
+partial differential equations|JJ JJ NNS|BODY_5|0
+this minimum energy state|DT JJ NN NN|BODY_8|0
+an initial assumption|DT JJ NN|BODY_1|0
+each example|DT NN|BODY_1|0
+probability distributions|NN NNS|BODY_6|0
+besag|NNP|BODY_1|0
+steps|NNS|BODY_6|0
+individual class regions|JJ NN NNS|BODY_4|0
+the local neighborhoods|DT JJ NNS|BODY_5|0
+both algorithms|DT NNS|ABSTRACT_1|0
+a normalizing|DT JJ|BODY_16|0
+j )|NN -RRB-|BODY_5|0
+algorithm|NN|BODY_1|0
+our experimental results|PRP$ JJ NNS|BODY_5|0
+akaike [14]|JJ NN|BODY_11|0
+the particular texture|DT JJ NN|BODY_7|0
+this application|DT NN|BODY_6|0
+a superior algorithm|DT JJ NN|BODY_1|0
+the aic|DT NN|BODY_1|0
+4 combine clusters|CD NN NNS|BODY_1|0
+a k ae|DT NN NNS|BODY_1|0
+the selected cluster|DT VBN NN|BODY_4|0
+different clustering hypotheses|JJ NN NNS|BODY_5|0
+this intractability|DT NN|BODY_1|0
+the l level mrs algorithm|DT JJ NN NNS NN|BODY_1|0
+our work|PRP$ NN|BODY_1|0
+table 2|NN CD|BODY_1|0
+different texture samples|JJ NN NNS|BODY_6|0
+the major practical difference|DT JJ JJ NN|BODY_1|0
+cluster means|NN NNS|BODY_6|0
+that region|DT NN|BODY_7|0
+their associated clusters|PRP$ JJ NNS|BODY_3|0
+complex local minima|JJ JJ NN|BODY_14|0
+1 ) )|CD -RRB- -RRB-|BODY_5|0
+a boundary block|DT NN NN|BODY_1|0
+a causal ordering|DT JJ NN|BODY_8|0
+diagonal , horizontal and vertical|JJ , JJ CC JJ|BODY_8|0
+the condition|DT NN|BODY_1|0
+the last procedure|DT JJ NN|BODY_1|0
+type k|NN NN|BODY_8|0
+a causal nonhomogeneous gaussian ar random field [7]|DT JJ JJ JJ JJ JJ NN NN|BODY_4|0
+sa and icm.|NN CC NN|BODY_8|0
+this texture model|DT NN NN|BODY_1|0
+an important aspect|DT JJ NN|BODY_1|0
+contrast|NN|BODY_1|0
+the empirical error distributions|DT JJ NN NNS|BODY_1|0
+three additional tests|CD JJ NNS|BODY_1|0
+the remaining two quan- tities|DT VBG CD NNS NNS|BODY_9|0
+all four tests|DT CD NNS|BODY_1|0
+sufficiently small|RB JJ|BODY_1|0
+the constant t|DT JJ NN|BODY_1|0
+\pi|NNP|BODY_1|0
+necessary distinct textures|JJ JJ NNS|BODY_5|0
+equal probability 1=w|JJ NN NNS|BODY_3|0
+the segmentation and parameter estimation algorithms|DT NN CC NN NN NNS|BODY_1|0
+5 calculate|CD NN|BODY_1|0
+the aic information criterion|DT JJ NN NN|ABSTRACT_6|0
+raster scan ordering|NN NN NN|BODY_1|0
+an mrf.|DT NN|BODY_7|0
+selects|NNS|BODY_1|0
+the resulting algorithm|DT VBG NN|BODY_7|0
+an initial value|DT JJ NN|BODY_1|0
+such a schedule|JJ DT NN|BODY_5|0
+2.|PRP|BODY_1|0
+compute x ( n )|VB NN -LRB- NN -RRB-|BODY_1|0
+independent random variables|JJ JJ NNS|BODY_4|0
+3 calculate ml parameter estimates|CD JJ NN NN NNS|BODY_1|0
+a single cluster , l|DT JJ NN , JJ|BODY_9|0
+their mle values|PRP$ JJ NNS|BODY_10|0
+the criterion|DT NN|ABSTRACT_5|0
+this initial grouping|DT JJ NN|BODY_1|0
+balanced trees|JJ NNS|BODY_3|0
+the computational complexity|DT JJ NN|BODY_1|0
+borhood|NN|BODY_11|0
+the proper blocks|DT JJ NNS|BODY_6|0
+an implicit assumption|DT JJ NN|BODY_1|0
+a parallel implementation|DT JJ NN|BODY_5|0
+traditional agglomerative clustering methods|JJ JJ NN NNS|BODY_7|0
+a k )|DT NN -RRB-|BODY_4|0
+other models|JJ NNS|BODY_4|0
+k=1|NNS|BODY_6|0
+the image textures|DT NN NNS|ABSTRACT_6|0
+section 3.1 )|NN CD -RRB-|BODY_7|0
+the complete clustering algorithm|DT JJ NN NN|BODY_1|0
+the difficulty|DT NN|BODY_1|0
+a toroidal or free boundary|DT JJ CC JJ NN|BODY_9|0
+approximately block constant|RB NN NN|BODY_6|0
+a appendix|DT NN|BODY_1|0
+each tree )|DT NN -RRB-|BODY_10|0
+an alternative method|DT JJ NN|BODY_1|0
+pass|NN|BODY_8|0
+'s value|POS NN|BODY_6|0
+the observed image y|DT JJ NN NN|BODY_8|0
+each step|DT NN|BODY_1|0
+a significant area|DT JJ NN|BODY_6|0
+introduction|NN|BODY_1|0
+this modified clustering criteria|DT VBN NN NNS|BODY_1|0
+the commutative operation|DT JJ NN|BODY_1|0
+200 and 500|CD CC CD|BODY_5|0
+examples|NNS|BODY_11|0
+the segmentation algorithm|DT NN NN|BODY_5|0
+this model|DT NN|BODY_1|0
+solving linear partial differential equations|VBG NN JJ JJ NNS|BODY_1|0
+the actual parameters|DT JJ NNS|BODY_1|0
+the synthetic textures|DT JJ NNS|BODY_3|0
+a sufficiently accurate model|DT RB JJ NN|BODY_4|0
+all clustering|DT NN|BODY_1|0
+raster order|NN NN|BODY_4|0
+these images|DT NNS|BODY_1|0
+zhang and modestino [15|NN CC NN NN|BODY_1|0
+a basic property|DT JJ NN|BODY_1|0
+texture k|NN NN|BODY_7|0
+parameter values|NN NNS|BODY_7|0
+this group|DT NN|BODY_1|0
+known partitioning sets|JJ NN NNS|BODY_5|0
+the minimization process|DT NN NN|BODY_1|0
+texture parameters|NN NNS|BODY_2|0
+the regions likelihood function|DT NNS NN NN|BODY_1|0
+added gaussian noise|VBN JJ NN|BODY_8|0
+neighborhoods|NNS|BODY_3|0
+the replacement|DT NN|BODY_1|0
+a steepest descent strategy|DT JJ NN NN|BODY_1|0
+the best partition|DT JJS NN|BODY_1|0
+this ordering information|DT VBG NN|BODY_1|0
+9 and 10|CD CC CD|BODY_5|0
+one possible approach|CD JJ NN|BODY_1|0
+three vectors|CD NNS|BODY_12|0
+(y j\delta )|JJ NN -RRB-|BODY_6|0
+the same synthetic image|DT JJ JJ NN|BODY_3|0
+zhang and modestino|NN CC NN|BODY_1|0
+either icm or sa|DT NN CC NN|BODY_4|0
+6|CD|BODY_1|0
+'s|POS|BODY_5|0
+disadvantages|NNS|BODY_7|0
+m distributions|NN NNS|BODY_14:BODY_10|0
+both axes|DT NNS|BODY_9|0
+an aerial photograph|DT JJ NN|BODY_5|0
+the boundary cost|DT NN NN|BODY_9|0
+m 2 ) memory|NN CD -RRB- NN|BODY_3|0
+y and fa k results|RB CC NN NN NNS|BODY_15|0
+the clustering techniques|DT NN NNS|BODY_4|0
+the complete operation|DT JJ NN|BODY_1|0
+the segmentation problem|DT NN NN|BODY_1|0
+a direct method|DT JJ NN|BODY_1|0
+those clusters|DT NNS|ABSTRACT_5|0
+another disadvantage|DT NN|BODY_1|0
+differing texture|VBG NN|BODY_3|0
+distinct statistical behavior|JJ JJ NN|BODY_6|0
+significant change|JJ NN|BODY_8|0
+statistical behavior|JJ NN|ABSTRACT_4|0
+x @s|NNP NNP|BODY_5|0
+these replacements|DT NNS|BODY_1|0
+the function l(\delta|DT NN NN|BODY_1|0
+the mrs algorithm )|DT NNS NN -RRB-|BODY_7|0
+a reasonable choice|DT JJ NN|BODY_1|0
+group|NN|BODY_1|0
+individual pixels or pixel blocks|JJ NNS CC NN NNS|ABSTRACT_6|0
+each variable|DT JJ|BODY_5|0
+the terms|DT NNS|BODY_1|0
+a multiple resolution algorithm|DT JJ NN NN|ABSTRACT_1|0
+j|NN|BODY_10|0
+the statistic for block|DT JJ IN NN|BODY_11|0
+the remaining groups|DT VBG NNS|BODY_8|0
+only the first iteration|RB DT JJ NN|BODY_1|0
+the parameter estimation algorithm|DT NN NN NN|BODY_6|0
+diagonally adjacent points|RB JJ NNS|BODY_8|0
+both these constraints|PDT DT NNS|BODY_1|0
+differing regions|JJ NNS|BODY_8|0
+an interior|DT NN|BODY_9|0
+multiple resolution techniques|JJ NN NNS|BODY_10|0
+calculation|NN|BODY_1|0
+the corresponding partitioning sets|DT JJ NN NNS|BODY_7|0
+the manipulation|DT NN|BODY_1|0
+a ae|DT NNS|BODY_1|0
+the estimated texture parameters|DT VBN NN NNS|BODY_6|0
+using mrs|VBG NNS|BODY_8|0
+this criteria results|DT NNS NNS|BODY_1|0
+( 18 )|-LRB- CD -RRB-|BODY_4|0
+a markov random field|DT NN JJ NN|ABSTRACT_5|0
+properly chosen fi parameters|RB VBN JJ NNS|BODY_8|0
+all plots|DT NNS|BODY_1|0
+this merging operation|DT VBG NN|BODY_1|0
+a linked list|DT VBN NN|BODY_5|0
+the steeped descent algorithm|DT VBN NN NN|BODY_4|0
+a simple agglomerative clustering interpretation|DT JJ JJ NN NN|BODY_5|0
+the final result|DT JJ NN|BODY_6|0
+the random sets fa k|DT JJ NNS NN NN|BODY_1|0
+the dynamic range|DT JJ NN|BODY_1|0
+the unit boundary length|DT NN NN NN|BODY_3|0
+these boundaries|DT NNS|BODY_1|0
+a given neighborhood system|DT VBN NN NN|BODY_1|0
+an eight-point neighborhood|DT JJ NN|BODY_9|0
+temperature t and energy function c(x )|NN NN CC NN NN NN -RRB-|BODY_6|0
+a fixed m|DT JJ NN|BODY_1|0
+the appropriate sized blocks|DT JJ JJ NNS|BODY_8|0
+a more reasonable approach|DT RBR JJ NN|BODY_1|0
+neighbors|NNS|BODY_18|0
+the direct method|DT JJ NN|BODY_1|0
+( 20 )|-LRB- CD -RRB-|BODY_8|0
+the multiple resolution segmentation algorithm first segments images|DT JJ NN NN NN JJ NNS NNS|ABSTRACT_1|0
+3.2 multiple resolution segmentation|CD JJ NN NN|BODY_1|0
+a multiple resolution approach|DT JJ NN NN|BODY_6|0
+a statistical estimation problem|DT JJ NN NN|BODY_2|0
+this solution|DT NN|BODY_1|0
+critical importance|JJ NN|BODY_4|0
+let c(k|VB NN|BODY_1|0
+( n\gamma1 )|-LRB- NNS -RRB-|BODY_7|0
+extract texture statistics|VB NN NNS|BODY_1|0
+its most likely class|PRP$ RBS JJ NN|BODY_6|0
+only a single texture|RB DT JJ NN|BODY_5:BODY_4|0
+the second procedure repartitions|DT JJ NN NNS|BODY_1|0
+ae k+1|NNS NNS|BODY_6|0
+fa|NN|BODY_4|0
+figure 9|NN CD|BODY_1|0
+6 conclusion|CD NN|BODY_1|0
+all these examples|DT DT NNS|BODY_1|0
+every case|DT NN|BODY_1|0
+the three methods|DT CD NNS|BODY_11|0
+this context|DT NN|BODY_1|0
+large regions|JJ NNS|BODY_8|0
+a local neighborhood|DT JJ NN|BODY_7|0
+each texture k|DT NN NN|BODY_7|0
+the complete algorithm|DT JJ NN|BODY_1|0
+table 4 lists|NN CD VBZ|BODY_1|0
+the causal ar model|DT JJ NN NN|BODY_1|0
+a specified order|DT JJ NN|BODY_5|0
+these vectors|DT NNS|BODY_11|0
+all flags|DT NNS|BODY_3|0
+the start|DT NN|BODY_1|0
+three basic operations|CD JJ NNS|BODY_2|0
+each parameter vector|DT NN NN|BODY_1|0
+the dependence|DT NN|BODY_1|0
+statistical model|JJ NN|BODY_1|0
+the approaches|DT NNS|BODY_1|0
+the methods|DT NNS|BODY_1|0
+all possible reorderings|DT JJ NNS|BODY_12|0
+excessively high variance [16]|RB JJ NN NN|BODY_8|0
+the additional constraints|DT JJ NNS|BODY_1|0
+a.|NN|BODY_14|0
+( 19 )|-LRB- CD -RRB-|BODY_3|0
+considerable computation and storage|JJ NN CC NN|BODY_4|0
+agglomerative hierarchical clustering|JJ JJ NN|BODY_3|0
+all experimentation|DT NN|BODY_1|0
+particular|JJ|BODY_1|0
+products and summations|NNS CC NNS|BODY_1|0
+the optimization criteria|DT NN NNS|BODY_1|0
+these calculations|DT NNS|BODY_1|0
+these reasons|DT NNS|BODY_1|1
+the true number|DT JJ NN|BODY_1|0
+its four nearest neighbors|PRP$ CD JJS NNS|BODY_6|0
+scale|NN|BODY_6|0
+the state x|DT NN NN|BODY_7|0
+this cost function|DT NN NN|BODY_1|0
+2. compute|CD NN|BODY_1|0
+a simpler algorithm|DT JJR NN|BODY_1|0
+a texture boundary|DT NN NN|BODY_3|0
+a xs ( r )|DT NN -LRB- NN -RRB-|BODY_11|0
+all blocks|DT NNS|BODY_1|0
+quantities|NNS|BODY_1|0
+that partitioning|DT NN|BODY_16|0
+the alternative method|DT JJ NN|BODY_1|0
+the likelihood function|DT NN NN|BODY_5|0
+the minimizing state x|DT JJ NN NN|BODY_1|0
+the only cliques|DT JJ NNS|BODY_1|0
+the replacements|DT NNS|BODY_4|0
+their statistics|PRP$ NNS|BODY_4|0
+uniform texture|NN NN|BODY_9|0
+a third mechanism|DT JJ NN|BODY_1|0
+the global objective|DT JJ NN|BODY_1|0
+all cases|DT NNS|BODY_6|0
+certain cases|JJ NNS|BODY_5|0
+some cases|DT NNS|BODY_7|0
+62 @s and @s|CD IN CC IN|BODY_11|0
+necessary the points|JJ DT NNS|BODY_1|0
+such|JJ|BODY_12|0
+the forward prediction error|DT RB NN NN|BODY_1|0
+an advantage|DT NN|BODY_1|0
+an undesirable property|DT JJ NN|BODY_3|0
+coarse resolution minimization|JJ NN NN|BODY_1|0
+initially large values|RB JJ NNS|BODY_4|0
+the coarse resolution|DT JJ NN|BODY_14|0
+the constants|DT NNS|BODY_1|0
+the first procedure|DT JJ NN|BODY_1|0
+this recursion|DT NN|BODY_1|0
+those regions|DT NNS|ABSTRACT_7|0
+those textures|DT NNS|BODY_7|0
+a and - b|DT CC : NN|BODY_8|0
+a constant vector|DT JJ NN|BODY_8|0
+the lattice|DT NN|BODY_11|0
+the the number|DT DT NN|BODY_1|0
+this efficiently groups|DT RB NNS|BODY_1|0
+n independent gaussian random variables|NN JJ JJ JJ NNS|BODY_12|0
+no additional changes|DT JJ NNS|BODY_7|0
+such a division|PDT DT NN|BODY_1|0
+the density function|DT NN NN|BODY_1|0
+the neighborhood|DT NN|BODY_1|0
+ar prediction coefficients|NN NN NNS|BODY_7|0
+let v 1|VB NN CD|BODY_1|0
+table 1|NN CD|BODY_1|0
+textures or classifications|NNS CC NNS|BODY_8|0
+the first method|DT JJ NN|BODY_1|0
+this coarse grouping|DT JJ NN|BODY_1|0
+this overall model|DT JJ NN|BODY_1|0
+all but figure unsupervised parameter estimation|DT CC NN JJ NN NN|BODY_1|0
+the resulting functions|DT VBG NNS|BODY_1|0

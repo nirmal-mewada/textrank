@@ -1,0 +1,795 @@
+we|PRP|BODY_6:BODY_5:ABSTRACT_4:BODY_15:BODY_1:BODY_2:BODY_3:ABSTRACT_1:BODY_4:BODY_7:BODY_8:BODY_9|1
+it|PRP|BODY_12:BODY_6:BODY_11:BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_19:BODY_7:BODY_8:BODY_9|0
+which|WDT|BODY_6:BODY_12:BODY_11:BODY_5:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8:BODY_9|0
+that|WDT|BODY_6:BODY_5:BODY_2:BODY_1:BODY_3:BODY_14:BODY_10:BODY_4:BODY_7|0
+this|DT|BODY_6:BODY_11:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10:BODY_7:BODY_8|1
+pos|NNS|BODY_6:BODY_5:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7|0
+variables|NNS|BODY_6:BODY_5:ABSTRACT_6:BODY_3:BODY_4:BODY_7:BODY_9|0
+x|NN|BODY_6:BODY_5:BODY_13:BODY_2:BODY_3:BODY_10:BODY_4:BODY_7:BODY_9|0
+information|NN|BODY_6:BODY_1:BODY_2:BODY_3:BODY_4:BODY_7:BODY_8|0
+the set|DT NN|BODY_6:BODY_5:BODY_2:BODY_3:BODY_4:BODY_7|0
+the result|DT NN|BODY_12:BODY_2:BODY_1:BODY_3:BODY_4:BODY_7:BODY_8|0
+the analysis|DT NN|BODY_2:BODY_1:BODY_3:BODY_4:BODY_7|0
+boolean functions|JJ NNS|BODY_2:ABSTRACT_3:BODY_3:BODY_4|0
+groundness analysis|NN NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_4:BODY_10|0
+constraints|NNS|BODY_6:BODY_5:BODY_3:BODY_4:BODY_7:BODY_8|0
+y )|NN -RRB-|BODY_5:BODY_11:BODY_15:BODY_3:BODY_4:BODY_10:BODY_7|0
+a fl|DT NN|BODY_12:BODY_5:BODY_11:BODY_2:BODY_3:BODY_4:BODY_10:BODY_7:BODY_9|0
+a|DT|BODY_5:BODY_3:BODY_19:BODY_4:BODY_8|0
+they|PRP|BODY_5:BODY_1:BODY_2:BODY_9|0
+us|PRP|BODY_13:BODY_2:BODY_1:BODY_3|0
+member|NN|BODY_12:BODY_5:BODY_17:BODY_2:BODY_10|0
+descriptions|NNS|BODY_2:BODY_3:BODY_4:BODY_8|0
+ground|NN|BODY_12:BODY_5:BODY_3:BODY_10|0
+the program|DT NN|BODY_6:BODY_2:BODY_1:BODY_4:BODY_10|0
+the calls|DT NNS|BODY_5:BODY_3:BODY_4:BODY_7:BODY_9|0
+condensation|NN|BODY_5:BODY_2:BODY_1:BODY_4|0
+example|NN|BODY_1:BODY_3|0
+overlap|NN|BODY_5:BODY_2:BODY_1:BODY_3:BODY_7|0
+both|DT|BODY_6:BODY_3:BODY_8|0
+the idea|DT NN|BODY_2:BODY_1:BODY_3:ABSTRACT_1|0
+logic programs|NN NNS|TITLE_2:BODY_2:ABSTRACT_3:BODY_3:BODY_4:BODY_8|0
+fact|NN|BODY_1:BODY_2:BODY_3:BODY_8|0
+an analysis|DT NN|BODY_6:BODY_5:BODY_2:BODY_1|0
+this note|DT NN|BODY_2:BODY_1|1
+there|EX|BODY_5:BODY_1:BODY_3|0
+a variable|DT JJ|BODY_5:BODY_2:BODY_4:BODY_9|0
+the answers|DT NNS|BODY_12:BODY_11:BODY_5:BODY_2:BODY_9|0
+y|NN|BODY_5:BODY_3:BODY_7:BODY_8:BODY_9|0
+grounds|NNS|BODY_2:BODY_3|0
+the description|DT NN|BODY_5:BODY_4:BODY_7:BODY_8|0
+(|-LRB-|BODY_5:BODY_11:BODY_8|0
+quantifier elimination|NN NN|BODY_2|0
+oe|NN|BODY_6:BODY_2:BODY_4|0
+all|DT|BODY_7:BODY_8:BODY_9|0
+con|NN|BODY_6:BODY_1:BODY_10:BODY_7|0
+the context|DT NN|BODY_6:BODY_13:BODY_3:BODY_8|0
+terms|NNS|BODY_6:BODY_5:BODY_11:BODY_1|0
+the fact|DT NN|BODY_6:BODY_2:BODY_1:BODY_4|0
+an approximation|DT NN|BODY_3:BODY_10:BODY_4|0
+the equation|DT NN|BODY_6:BODY_5:BODY_7:BODY_8|0
+the boolean functions|DT JJ NNS|BODY_6:BODY_2:BODY_9|0
+|NN|BODY_2:BODY_3:BODY_8|0
+rise|NN|BODY_2:BODY_3|0
+propositional formulas|JJ NNS|BODY_11:BODY_2|0
+f \phi|NN NNS|BODY_2|0
+rev|NN|BODY_5:BODY_3:BODY_7|0
+the example|DT NN|BODY_2:BODY_4:BODY_8|0
+the definition|DT NN|BODY_2:BODY_1:BODY_4|0
+the computation|DT NN|BODY_6:BODY_3|0
+langen [12]|NN NN|BODY_5:BODY_3|0
+a dataflow analysis|DT NN NN|BODY_2:BODY_3:BODY_9|0
+queries|NNS|BODY_6:BODY_4|0
+evaluation|NN|BODY_16:BODY_3|0
+most dataflow analyses|JJS NN NNS|BODY_2:BODY_3|0
+positive boolean functions|JJ JJ NNS|BODY_3:ABSTRACT_1:BODY_4|0
+abstract interpretation|JJ NN|BODY_5:ABSTRACT_2:BODY_1:BODY_3|0
+an analysis using pos|DT NN VBG NN|BODY_5:BODY_2|0
+accuracy|NN|BODY_6:BODY_11:BODY_10:BODY_8|0
+dataflow analyses|JJ NNS|BODY_2:BODY_3|0
+a rev|DT NN|BODY_11:BODY_10:BODY_4|0
+the best description|DT JJS NN|BODY_6:BODY_2:BODY_1|0
+f|NN|BODY_5:BODY_2:BODY_7|0
+unification|NN|BODY_10:BODY_7:BODY_8|0
+the collecting semantics|DT VBG NNS|BODY_6:BODY_5:BODY_2:BODY_4|0
+a fixpoint|DT NN|BODY_22:BODY_7|0
+a set|DT NN|BODY_6:BODY_7|0
+what|WP|BODY_5:BODY_1:BODY_2|0
+dependency formulas|NN NNS|BODY_1:BODY_3|0
+the function|DT NN|BODY_6:BODY_1:BODY_4|0
+the meaning|DT NN|BODY_11:BODY_2:BODY_7|0
+p|NN|BODY_5:BODY_8:BODY_9|0
+the execution|DT NN|BODY_4|0
+follows|VBZ|BODY_3:BODY_8|0
+the positive functions|DT JJ NNS|BODY_5:ABSTRACT_3|0
+calls|NNS|BODY_3:BODY_4|0
+the truth assignment|DT NN NN|BODY_3:BODY_9|0
+the predicates|DT NNS|BODY_6:BODY_4:BODY_7|0
+ancestor|NN|BODY_2:BODY_4:BODY_8|0
+anything|NN|BODY_3:BODY_4|0
+a overlap|DT IN|BODY_5:BODY_4|0
+a moore family|DT NN NN|BODY_5:BODY_2:BODY_3|0
+kleene iteration|NN NN|BODY_3:BODY_14|0
+programs|NNS|BODY_2:BODY_3|0
+respect|NN|BODY_5:BODY_3|0
+analyses|NNS|BODY_2|0
+early mode and groundness analyzers|JJ NN CC NN NNS|BODY_3|0
+mellish and|JJ CC|BODY_2|0
+their framework|PRP$ NN|BODY_3|0
+particular f|JJ NN|BODY_2|0
+incremental analysis|JJ NN|BODY_3|0
+this property|DT NN|BODY_1:ABSTRACT_1|0
+the powerset|DT NN|BODY_6:BODY_2|0
+our analysis|PRP$ NN|BODY_6|0
+one|PRP|BODY_2:BODY_3|0
+groundness dependencies|NN NNS|ABSTRACT_5:BODY_3|0
+a this|DT DT|BODY_12:BODY_6|0
+the class|DT NN|BODY_13:BODY_2|0
+a module|DT NN|BODY_5:BODY_3:BODY_4|0
+the largest class|DT JJS NN|BODY_2:BODY_3|0
+n|RB|BODY_4|0
+the constraints|DT NNS|BODY_13:BODY_4|0
+s|PRP|BODY_5:BODY_4|0
+sets|NNS|BODY_6|0
+this point|DT NN|BODY_6:BODY_8|0
+the least solution|DT JJS NN|BODY_6:BODY_5:BODY_3:BODY_9|0
+the required answer|DT JJ NN|BODY_3|0
+n variables|NN NNS|BODY_4:BODY_8|0
+parametric \phi|JJ NNS|BODY_3|0
+the notion|DT NN|BODY_1:BODY_2|0
+u|PRP|BODY_6:BODY_5|0
+a function|DT NN|BODY_3:BODY_4|0
+app|NN|BODY_6:BODY_17|0
+this case|DT NN|BODY_5:BODY_1:BODY_8|0
+a general framework|DT JJ NN|BODY_2|0
+a relatively simple and efficient implementation|DT RB JJ CC JJ NN|BODY_2|0
+an unfold|DT JJ|BODY_4|0
+rapid computation|JJ NN|ABSTRACT_2|0
+the descriptions|DT NNS|BODY_12:BODY_2|0
+theorem|PRP|BODY_1:BODY_7|0
+this reason|DT NN|BODY_1|0
+a statement|DT NN|BODY_11:BODY_7|0
+section 5|NN CD|BODY_2:BODY_3|0
+steps|NNS|BODY_6:BODY_5|0
+bfun|NN|BODY_6:BODY_2|0
+cortesi et al|FW FW NN|BODY_7|0
+the following result|DT VBG NN|BODY_2|0
+a query|DT NN|BODY_6:BODY_14:BODY_3:BODY_9|0
+a boolean function|DT JJ NN|BODY_1:BODY_4|0
+the system|DT NN|BODY_24:BODY_4|0
+) and further|-RRB- CC JJ|BODY_6|0
+the use|DT NN|BODY_6:BODY_1|0
+certain operators|JJ NNS|BODY_6|0
+an important feature|DT JJ NN|BODY_9|0
+'s adjoined  framework|POS VBN NN NN|BODY_2|0
+[x|NN|BODY_2:BODY_4|0
+the appropriate semantic domains|DT JJ JJ NNS|BODY_5|0
+good results|JJ NNS|BODY_2|0
+more complex analyses|JJR JJ NNS|BODY_3|0
+a property|DT NN|BODY_5|0
+occur-check|NN|BODY_14|0
+ condensing|JJ NN|BODY_4|0
+accuracy ( section|NN -LRB- NN|BODY_4|0
+a program point many times|DT NN NN JJ NNS|BODY_2|0
+true if ' grounds|JJ IN '' NNS|BODY_6|0
+theorems 14 , 65 , 67|NNS CD , CD , CD|BODY_3|0
+sections 2|NNS CD|BODY_8|0
+logic program execution|NN NN NN|BODY_2|0
+the case|DT NN|BODY_11:BODY_1|0
+the possible conjunctions|DT JJ NNS|BODY_8|0
+program points|NN NNS|BODY_4:BODY_8|0
+langen|NN|BODY_13|0
+effect|NN|BODY_3|0
+a very precise groundness analysis|DT RB JJ NN NN|BODY_7|0
+example 3.2|NN CD|BODY_2:BODY_1|0
+dataflow analysis|NN NN|BODY_1:BODY_14:BODY_7|0
+modular programs|JJ NNS|BODY_7|0
+the  condensing procedures|DT JJ NN NNS|BODY_2|0
+an operation|DT NN|BODY_3|0
+sufficient information|JJ NN|BODY_2:BODY_3|0
+the recursive definition|DT JJ NN|BODY_4:BODY_10|0
+the constraint|DT NN|BODY_2|0
+\phi|IN|BODY_6:BODY_7|0
+allowing disjunction|VBG NN|BODY_2|0
+positive iff f|JJ NN NN|BODY_2|0
+the function f|DT NN NN|BODY_1|0
+these|DT|BODY_1|0
+0 then|CD RB|BODY_2|0
+more accuracy|JJR NN|BODY_2|0
+finite time|JJ NN|BODY_11:BODY_3|0
+the variable and|DT JJ CC|BODY_7|0
+the cost|DT NN|BODY_4|0
+functions|NNS|BODY_5:BODY_4|0
+statements|NNS|BODY_7:BODY_9|0
+the description x|DT NN NN|BODY_6:BODY_4|0
+the less suggestive name|DT JJR JJ NN|BODY_5|0
+a generic ab|DT JJ NN|BODY_3|0
+each program point|DT NN NN|BODY_11:BODY_10|0
+loss|NN|BODY_3|0
+the method|DT NN|BODY_3|0
+ x|NN NN|BODY_6:BODY_5|0
+independence|NN|BODY_13|0
+the codish/demoen approach|DT NN NN|BODY_2|0
+]|NN|BODY_6:BODY_8|0
+approximations|NNS|ABSTRACT_4:BODY_3|0
+y ]|NN NN|BODY_5|0
+means|NNS|BODY_5|0
+[3|NNS|BODY_2|0
+an important component|DT JJ NN|BODY_2|0
+no loss|DT NN|BODY_7:BODY_9|0
+the boolean function|DT JJ NN|BODY_11|0
+a larger set|DT JJR NN|BODY_2:BODY_7|0
+68|CD|BODY_4|0
+e|NN|BODY_6:BODY_8|0
+a ground|DT NN|BODY_5|0
+the well-known append program|DT JJ NN NN|BODY_4|0
+existential quantification|JJ NN|BODY_5:BODY_7:BODY_8|0
+the following program and query q( x|DT VBG NN CC NN NNS SYM|BODY_2|0
+this associates|DT NNS|BODY_2|0
+statements oe|NNS NN|BODY_5|0
+called dependency formulas|VBN NN NNS|BODY_2|0
+the ideas|DT NNS|BODY_5|0
+three observations|CD NNS|BODY_2|0
+add|VB|BODY_6:BODY_3|0
+like|JJ|BODY_7|0
+a unifier|DT NN|BODY_2|0
+example 5.2|NN CD|BODY_1:BODY_7|0
+most other analyses|JJS JJ NNS|BODY_2|0
+hand|NN|BODY_5|0
+iterations|NNS|BODY_3|0
+that pos|DT NN|BODY_2|0
+every spawned query|DT VBN NN|BODY_4|0
+the groundness information|DT NN NN|BODY_3|0
+b|NN|BODY_10:BODY_7|0
+the monotonic functions|DT JJ NNS|BODY_6|0
+the reason|DT NN|BODY_1|0
+some e 0|DT NN CD|BODY_10|0
+all programs p|DT NNS NN|BODY_3|0
+that idea|DT NN|BODY_2|0
+the dataflow information|DT NN NN|BODY_3:BODY_4|0
+a formal semantics|DT JJ NNS|BODY_4|0
+extra precision|JJ NN|BODY_3|0
+query evaluation|NN NN|BODY_3|0
+other analyses|JJ NNS|BODY_7|0
+other domains|JJ NNS|BODY_12|0
+b fl|NN NN|BODY_8:BODY_9|0
+the induced operations|DT JJ NNS|BODY_3:BODY_9|0
+jacobs|NNS|BODY_4|0
+a sets|DT NNS|BODY_3|0
+s-ndergaard [14] (|JJ NN -LRB-|BODY_4|0
+possible values|JJ NNS|BODY_8|0
+information pertaining|NN NN|BODY_4|0
+the local variables|DT JJ NNS|BODY_3|0
+dart|NN|BODY_3|0
+precision , codish and demoen|NN , NN CC NN|BODY_2|0
+other variables|JJ NNS|BODY_6:BODY_10|0
+dataflow|NN|BODY_4|0
+x and y|NN CC NN|BODY_2|0
+example 3.1|NN CD|BODY_2:BODY_1|0
+intersection|NN|BODY_5|0
+ whenever y|JJ WRB NN|BODY_2|0
+complexity|NN|BODY_5|0
+a finite number|DT JJ NN|BODY_2|0
+some practical programs|DT JJ NNS|BODY_4|0
+'s result|POS NN|BODY_10|0
+constraints and forms|NNS CC NNS|BODY_7|0
+fact pos|NN NNS|BODY_4|0
+ condensing |JJ NN|BODY_2|0
+the information|DT NN|BODY_11|0
+the projection operation|DT NN NN|BODY_8|0
+the presence|DT NN|BODY_2|0
+a the two clauses|DT DT CD NNS|BODY_5|0
+a function f|DT NN NN|BODY_2|0
+the constraint e iff|DT NN NN NN|BODY_3|0
+the standard domain|DT JJ NN|BODY_4|0
+the recursive predicate|DT JJ NN|BODY_2|0
+the boolean function [x|DT NN NN NN|BODY_2|0
+y and z|NN CC NN|BODY_7|0
+deductive databases|JJ NNS|BODY_5|0
+call patterns|NN NNS|BODY_5|0
+query-independent information|NN NN|BODY_4|0
+note|NN|BODY_1|0
+p;q true )|NN JJ -RRB-|BODY_3|0
+each annotation|DT NN|BODY_4|0
+term equations|NN NNS|BODY_4|0
+the lattice|DT NN|BODY_2|0
+member(u|NN|BODY_2:BODY_3:BODY_4|0
+moore families|JJ NNS|BODY_8|0
+independence analysis|NN NN|BODY_3|0
+ star abstractions|JJ NN NNS|BODY_5|0
+le charlier and van hentenryck [13]|JJ NN CC NN NN NN|BODY_4|0
+the number|DT NN|BODY_2|0
+point|NN|BODY_11:BODY_4|0
+this staging|DT NN|BODY_8|0
+the classes|DT NNS|BODY_4|0
+langen [10]|NN NNS|BODY_5|0
+no assumption|DT NN|BODY_3|0
+accurate groundness analysis|JJ NN NN|BODY_5|0
+an even more efficient way|DT RB RBR JJ NN|BODY_2|0
+query-independent groundness analysis|NN NN NN|BODY_2|0
+any clause|DT NN|BODY_4|0
+least solutions|RBS NNS|BODY_23|0
+our query-independent analysis|PRP$ JJ NN|BODY_2|0
+the calls and answers|DT NNS CC NNS|BODY_2|0
+their work|PRP$ NN|BODY_6|0
+new views|JJ NNS|BODY_6|0
+the complete lattice|DT JJ NN|BODY_3|0
+the variables ground|DT NNS NN|BODY_10|0
+program p and query q|NN NN CC NN NNS|BODY_4|0
+an induced groundness analysis|DT JJ NN NN|BODY_2|0
+notation|NN|BODY_2|0
+the query q|DT NN NN|BODY_2|0
+this section|DT NN|BODY_2|0
+the most important dataflow analysis|DT RBS JJ NN NN|BODY_2|0
+more complex boolean functions|JJR JJ NN NNS|BODY_2|0
+the well-known magic-set transformation|DT JJ JJ NN|BODY_2|0
+turn|NN|BODY_5|0
+the recent implementation|DT JJ NN|BODY_2|0
+the relative accuracy|DT JJ NN|BODY_4|0
+continually narrow the set|RB JJ DT NN|BODY_7|0
+disjunction|NN|BODY_3|0
+the formula|DT NN|BODY_2:BODY_1|0
+the groundness results|DT NN NNS|BODY_6|0
+a single query|DT JJ NN|BODY_6|0
+a given program point|DT VBN NN NN|BODY_3|0
+our approach|PRP$ NN|BODY_8|0
+a boolean lattice|DT JJ NN|BODY_3|0
+a boolean sublattice|DT JJ NN|BODY_5|0
+no need|DT NN|BODY_4|0
+stract interpreter |JJ NN|BODY_4|0
+particular it|JJ PRP|BODY_1|0
+whose models|WP$ NNS|BODY_4|0
+some stage|DT NN|BODY_15|0
+the program p and query q|DT NN NN CC NN NN|BODY_2|0
+an exptime-complete problem|DT JJ NN|BODY_4|0
+marriott|NN|BODY_3|0
+the image|DT NN|BODY_2|0
+8 x|CD CD|BODY_3|0
+more impor-|JJR NNS|BODY_3|0
+the recursive equation kleene iteration|DT JJ NN NN NN|BODY_3|0
+domains|NNS|BODY_9|0
+a natural way|DT JJ NN|BODY_6|0
+useful information|JJ NN|BODY_12|0
+the phrase |DT NN|BODY_7|0
+a logic program proceeds|DT NN NN NNS|BODY_5|0
+denotational semantics|JJ NNS|BODY_5|0
+a term|DT NN|BODY_5|0
+a propositional formula|DT JJ NN|BODY_3|0
+a sense|DT NN|BODY_5|0
+) property p|-RRB- NN NN|BODY_9|0
+variable y|JJ NN|BODY_10|0
+this idea|DT NN|BODY_1:ABSTRACT_1|0
+negative effects|JJ NNS|BODY_9|0
+an incremental fashion|DT JJ NN|BODY_2|0
+the precision-preserving extension|DT JJ NN|BODY_5|0
+overlap 1|JJ CD|BODY_21|0
+most composite analyses|JJS JJ NNS|BODY_3|0
+some ways|DT NNS|BODY_4|0
+approximation|NN|BODY_2|0
+a collecting semantics|DT VBG NNS|BODY_3|0
+the groundness component|DT NN NN|BODY_5|0
+the form |DT NN|BODY_5|0
+4.2 pos|CD NNS|BODY_8|0
+( query-directed ) information|-LRB- JJ -RRB- NN|BODY_3|0
+case|NN|BODY_5|0
+useful suggestions|JJ NNS|BODY_4|0
+the one|DT CD|BODY_6|0
+the operations langen|DT NNS NN|BODY_6|0
+certain types|JJ NNS|BODY_3|0
+the language|DT NN|BODY_2|0
+exactly one|RB CD|BODY_3|0
+different classes|JJ NNS|ABSTRACT_2:BODY_2|0
+the corresponding boolean functions|DT JJ JJ NNS|BODY_3|0
+the programs|DT NNS|BODY_2|0
+) ground|-RRB- NN|BODY_4|0
+instantiation|NN|BODY_4|0
+capture|NN|BODY_5|0
+a constraint e|DT NN NN|BODY_3|0
+these classes|DT NNS|BODY_5|0
+only one|RB CD|BODY_4|0
+the dataflow analysis|DT NN NN|BODY_5|0
+one class|CD NN|ABSTRACT_2|0
+that normally|DT RB|BODY_4|0
+a very useful property|DT RB JJ NN|BODY_6|0
+ constrain-only |NN JJ|BODY_3|0
+equivalent formulas|JJ NNS|BODY_6:BODY_14|0
+the possibility|DT NN|BODY_3|0
+mike codish|JJ NN|BODY_2|0
+a higher  description|DT JJR NN NN|BODY_6|0
+answer constraints|NN NNS|BODY_8|0
+every call|DT NN|BODY_3|0
+a class|DT NN|BODY_5|0
+out subscripts|RP NNS|BODY_6|0
+a recursive definition|DT JJ NN|BODY_4|0
+a the corresponding boolean function|DT DT JJ JJ NN|BODY_5|0
+an optimizing compiler|DT JJ NN|BODY_9|0
+example 5.1|NN CD|BODY_5:BODY_1|0
+assume|VB|BODY_7|0
+variable|JJ|BODY_4|0
+a which|DT WDT|BODY_6|0
+conditional invariants|JJ NNS|BODY_4|0
+logical connectives|JJ NNS|BODY_4|0
+x )|NN -RRB-|BODY_4|0
+a boolean function q|DT JJ NN NN|BODY_5|0
+a call|DT NN|BODY_8|0
+a semantics|DT NNS|BODY_4|0
+bound|JJ|BODY_6|0
+r|NN|BODY_8|0
+more|RBR|BODY_4|0
+a straightforward translation|DT JJ NN|BODY_7|0
+variable x|JJ SYM|BODY_7|0
+#|#|BODY_10|0
+oe 2 pos|NN CD NNS|BODY_4|0
+the collecting|DT NN|BODY_5|0
+that member 1|DT NN CD|BODY_20|0
+associates|NNS|BODY_6|0
+only a single conjunction|RB DT JJ NN|BODY_9|0
+9|CD|BODY_4|0
+a ( possibly infinite ) set|DT -LRB- RB JJ -RRB- NN|BODY_5|0
+x (|SYM -LRB-|BODY_7|0
+primitive constraints|JJ NNS|BODY_3|0
+every unifier|DT NN|BODY_7|0
+the type|DT NN|BODY_6|0
+no matter|DT NN|BODY_8|0
+a the equation|DT DT NN|BODY_6|0
+ )|NN -RRB-|BODY_8|0
+the smallest extension|DT JJS NN|BODY_9|0
+a logical variable |DT JJ JJ|BODY_2|0
+an anonymous referee|DT JJ NN|BODY_3|0
+condensing|NN|BODY_4|0
+ semantics|NN NNS|BODY_5|0
+an extremely precise analysis|DT RB JJ NN|BODY_3|0
+codish et al|NN NNP NN|BODY_1|0
+groundness information|NN NN|ABSTRACT_3|0
+a reminder|DT NN|BODY_1:BODY_3|0
+no vari- ables|DT NNS NNS|BODY_7|0
+this information|DT NN|BODY_6|0
+positive functions|JJ NNS|BODY_3|0
+a thoroughly annotated version|DT RB JJ NN|BODY_9|0
+convenience|NN|BODY_6|0
+a least|DT JJS|BODY_6|0
+a ground term|DT NN NN|BODY_7|0
+the call|DT NN|BODY_9|0
+the top-level query|DT JJ NN|BODY_2|0
+the module|DT NN|BODY_6:BODY_5|0
+the domain|DT NN|BODY_7|0
+this yields oe|DT NNS NN|BODY_1|0
+the occur-check|DT NN|BODY_9|0
+the superscript|DT NN|BODY_2|0
+jacobs and langen|NNS CC NN|BODY_1:BODY_4|0
+:x|NNP|BODY_5|0
+18]|CD|BODY_4|0
+such descriptions|JJ NNS|BODY_1|0
+the particular analysis|DT JJ NN|BODY_1|0
+two ways|CD NNS|BODY_4|0
+other dependencies|JJ NNS|BODY_4|0
+the sets|DT NNS|BODY_5|0
+operation|NN|BODY_8|0
+the set fx 1|DT NN NN CD|BODY_2|0
+the extra precision|DT JJ NN|BODY_4|0
+the following recursive definitions|DT VBG JJ NNS|BODY_8|0
+independent implementations|JJ NNS|BODY_3|0
+some kind|DT NN|BODY_13|0
+the most precise groundness analyses|DT RBS JJ NN NNS|BODY_4|0
+dataflow information|NN NN|BODY_2|0
+unifiers|NNS|BODY_5|0
+spaces|NNS|BODY_7|0
+occur-check analysis|NN NN|BODY_7|0
+a top-down execution|DT JJ NN|BODY_6|0
+an important operation|DT JJ NN|BODY_4|0
+a term equation|DT NN NN|BODY_5|0
+the efficient computation|DT JJ NN|BODY_2|0
+cases|NNS|BODY_4|0
+more crude approximations|JJR NN NNS|BODY_4|0
+predicates|NNS|BODY_5|0
+the projection|DT NN|BODY_5|0
+that sometimes condensation|DT RB NN|BODY_4|0
+example 2.1|NN CD|BODY_1|0
+the property|DT NN|BODY_7|0
+the formula x|DT NN NN|BODY_4|0
+practically every programming tool|RB DT NN NN|BODY_11|0
+introducing loss|VBG NN|BODY_5|0
+a number|DT NN|BODY_2|0
+( becomes|-LRB- VBZ|BODY_3|0
+the advantage|DT NN|BODY_2|0
+a predicate|DT NN|BODY_6:BODY_4|0
+the missing descriptions|DT VBG NNS|BODY_3|0
+a compiler|DT NN|BODY_2|0
+the description domain|DT NN NN|BODY_9|0
+every the ordering|DT DT VBG|BODY_4|0
+2 pos|CD NNS|BODY_3|0
+the instantiation|DT NN|BODY_6|0
+the ( program ) variables x|DT -LRB- NN -RRB- NNS VBD|BODY_10|0
+only one important operation|RB CD JJ NN|BODY_2|0
+more general query-directed implementations|RBR JJ JJ NNS|BODY_3|0
+only one analysis|RB CD NN|BODY_3|0
+either x or y|DT SYM CC NN|BODY_8|0
+false otherwise|JJ RB|BODY_8|0
+the greatest lower bound operation|DT JJS RBR VBN NN|BODY_6|0
+fl|JJ|BODY_4|0
+a new predicate|DT JJ NN|BODY_5|0
+both x and y|DT SYM CC NN|BODY_11|0
+vars|NNS|BODY_4|0
+( true|-LRB- JJ|BODY_3|0
+no assumptions|DT NNS|BODY_5|0
+the most general case|DT RBS JJ NN|BODY_2|0
+computation|NN|BODY_2|0
+sub-optimal analyses|JJ NNS|BODY_2|0
+every possible call context|DT JJ NN NN|BODY_4|0
+cannot deduce|NN NN|BODY_7|0
+the basic idea|DT JJ NN|BODY_2|0
+a solving|DT VBG|BODY_2|0
+this equation|DT NN|BODY_3|0
+the program and query|DT NN CC NN|BODY_2|0
+[5]|NN|BODY_8|0
+whose answers|WP$ NNS|BODY_6|0
+def|NN|BODY_4|0
+a n|DT NN|BODY_6|0
+rev( x|NN NN|BODY_14|0
+eqn|NN|BODY_4|0
+substitutions|NNS|BODY_3|0
+these domains|DT NNS|BODY_7|0
+the new predicate|DT JJ NN|BODY_3|0
+a certain property|DT JJ NN|ABSTRACT_2|0
+0 iff|CD NN|BODY_5|0
+a modality|DT NN|BODY_4|0
+no precision|DT NN|BODY_6|0
+take place|NN NN|BODY_5|0
+the monotonic|DT JJ|BODY_10|0
+two examples|CD NNS|BODY_3|0
+those|DT|BODY_5|0
+closure|NN|BODY_2|0
+the clark completion|DT NN NN|BODY_5|0
+superset ordering|JJ VBG|BODY_7|0
+a specific query|DT JJ NN|BODY_6|0
+the iteration rev|DT NN NN|BODY_9|0
+the better description domain|DT JJR NN NN|BODY_3|0
+fug|NN|BODY_7|0
+a terminological abuse|DT NN NN|BODY_4|0
+states|NNS|BODY_4|0
+representations|NNS|BODY_3|0
+the n-place boolean function x 1|DT NN JJ NN VBD CD|BODY_3|0
+existential quantifiers|JJ NNS|BODY_2|0
+the description [u|DT NN NN|BODY_4|0
+sense|NN|BODY_7|0
+program point|NN NN|BODY_18|0
+all constraints|DT NNS|BODY_6|0
+the statement program variable|DT NN NN JJ|BODY_2|0
+a query-independent analysis|DT NN NN|BODY_7:BODY_9|0
+a very natural description domain|DT RB JJ NN NN|BODY_4|0
+the notions|DT NNS|BODY_1|0
+fewer variables|JJR NNS|BODY_4|0
+the ancestor relationship|DT NN NN|BODY_3|0
+the initial state|DT JJ NN|BODY_8|0
+the query|DT NN|BODY_10|0
+complete lattices|JJ NNS|BODY_9|0
+thus fl maps oe|RB JJ NNS NN|BODY_2|0
+p. and r.|NN CC NN|BODY_1:BODY_10|0
+descriptions |NNS|BODY_5|0
+their use|PRP$ NN|BODY_2|0
+the iteration 9 9|DT NN CD CD|BODY_7|0
+3 )|CD -RRB-|BODY_9|0
+the induced version|DT JJ NN|BODY_5|0
+!|.|BODY_4|0
+the missing predicates|DT VBG NNS|BODY_3|0
+the simplest useful description domain|DT JJS JJ NN NN|BODY_2|0
+such most precise  operations|JJ RBS JJ JJ NNS|BODY_2|0
+precise groundness information|JJ NN NN|ABSTRACT_2|0
+some fixed number|DT VBN NN|BODY_4|0
+the following example|DT VBG NN|BODY_6|0
+x ground|NN NN|BODY_16|0
+not the constraint|RB DT NN|BODY_5|0
+such a two-step process|JJ DT JJ NN|BODY_2|0
+cousot|NN|BODY_1|0
+an important property|DT JJ NN|BODY_3|0
+square brackets|JJ NNS|BODY_10|0
+a formula|DT NN|BODY_2|0
+all such conjunctions|DT JJ NNS|BODY_3|0
+the least fixpoint|DT JJS NN|BODY_7|0
+9 x|CD CD|BODY_4|0
+only bottom-up  information|RB JJ NN NN|BODY_8|0
+reexecution  or propagation  [15]|NN NN CC NN NN NN|BODY_4|0
+any case|DT NN|BODY_5|0
+a first step|DT JJ NN|BODY_1:BODY_3|0
+part|NN|BODY_3|0
+6 )|CD -RRB-|BODY_5|0
+e 0|NN CD|BODY_12|0
+argument|NN|BODY_6|0
+the naive list reversal program|DT JJ NN NN NN|BODY_5|0
+a query-directed dataflow analysis|DT JJ NN NN|BODY_2|0
+le charlier and van hentenryck report|JJ NN CC NN NN NN|BODY_1|0
+these examples|DT NNS|BODY_4|0
+that ground|WDT NN|BODY_5|0
+many other dataflow analyses|JJ JJ NN NNS|BODY_15|0
+the notation fug|DT NN NN|BODY_2|0
+f con f f pos|NN NN NN NN NNS|BODY_2|0
+constraints e|NNS NN|BODY_5|0
+the possibly infinite sets|DT RB JJ NNS|BODY_2|0
+a more crude approximation|DT JJR NN NN|BODY_1|0
+a logic program interpreter|DT NN NN NN|BODY_4|0
+a program transformation|DT NN NN|BODY_2|0
+a program|DT NN|BODY_5|0
+y ) and b|NN -RRB- CC NN|BODY_7|0
+a particular query|DT JJ NN|BODY_7|0
+a clause|DT NN|BODY_3|0
+0|CD|BODY_5|0
+0 2 \phi|CD CD NNP|BODY_7|0
+a further example|DT JJ NN|BODY_1|0
+all n-ary boolean functions|DT JJ JJ NNS|BODY_3|0
+such boolean formulas|JJ JJ NNS|BODY_1|0
+the description domain x|DT NN NN NN|BODY_5|0
+a finite approximation|DT JJ NN|BODY_4|0
+the resulting equations|DT VBG NNS|BODY_6|0
+a novel program transformation|DT NN NN NN|BODY_4|0
+efficiency|NN|BODY_5|0
+a given boolean function|DT VBN JJ NN|BODY_8|0
+a closed form|DT JJ NN|BODY_2|0
+predicate p|JJ NN|BODY_4|0
+a substitution|DT NN|BODY_1|0
+defines|NNS|BODY_9|0
+an example|DT NN|BODY_1|0
+parent( x|NN NN|BODY_2|0
+the ( non-positive ) boolean function false|DT -LRB- JJ -RRB- JJ NN JJ|BODY_2|0
+no information|DT NN|BODY_8|0
+groundness|NN|BODY_1:BODY_4|1
+the view|DT NN|BODY_2|0
+overlap )|JJ -RRB-|BODY_13|0
+'s treatment )|POS NN -RRB-|BODY_14|0
+its arguments|PRP$ NNS|BODY_7|0
+1 (u|CD NNS|BODY_18|0
+logic languages|NN NNS|BODY_6|0
+a groundness statement oe|DT NN NN NN|BODY_6|0
+member 0 (u|NN CD NNS|BODY_16|0
+a )|DT -RRB-|BODY_4|0
+the empty set|DT JJ NN|BODY_4|0
+the more general case|DT RBR JJ NN|BODY_1|0
+ordered binary-decision graphs|VBN NN NNS|BODY_6|0
+precision|NN|BODY_6:BODY_3|0
+a precise denotational definition|DT JJ JJ NN|BODY_1|0
+the description domain \phi|DT NN NN NNP|BODY_1|0
+ancestor( x|JJ NN|BODY_6|0
+overlap( x|JJ SYM|BODY_9|0
+5 efficient groundness analysis debray|CD JJ NN NN NN|BODY_1|0
+ptime.|VBG|BODY_6|0
+mainly theoretical interest|RB JJ NN|BODY_8|0
+their experimental results|PRP$ JJ NNS|BODY_1|0
+[17]|NN|BODY_4|0
+7 conclusion groundness analysis|CD NN NN NN|BODY_1|0
+bool n|NN NN|BODY_3|0
+a ground second argument|DT NN JJ NN|BODY_6:BODY_8|0
+the name|DT NN|BODY_1|0
+control|NN|BODY_1|0
+' satisfies|'' NNS|BODY_11|0
+different environments|JJ NNS|BODY_11|0
+the transformation step|DT NN NN|BODY_1|0
+this characteristic|DT NN|BODY_1|0
+cousot [6|NN NNS|BODY_1|0
+several different oe.|JJ JJ NN|BODY_5|0
+the two original clauses|DT CD JJ NNS|BODY_6|0
+the given query|DT VBN NN|BODY_17|0
+only the constants true and false or non-quantified variables|RB DT NNS JJ CC JJ CC JJ NNS|BODY_4|0
+a logic programming language|DT NN NN NN|BODY_3|0
+the other language paradigms|DT JJ NN NNS|BODY_5|0
+the point|DT NN|BODY_1|0
+combination|NN|BODY_1|0
+aliases|NNS|BODY_3|0
+example 3.4|NN CD|BODY_1|0
+vice versa|NN NN|BODY_8|0
+introduction groundness analysis|NN NN NN|BODY_1|0
+logical consequence|JJ NN|BODY_4|0
+example 4.1|NN CD|BODY_1|0
+general the ordering|JJ DT NN|BODY_1|0
+example [19]|NN NNS|BODY_7|0
+recursive boolean equations|JJ JJ NNS|BODY_25|0
+a query-independent fashion|DT NN NN|BODY_3|0
+short|JJ|BODY_1|0
+their analysis|PRP$ NN|BODY_3|0
+others|NNS|ABSTRACT_4|0
+arbitrary program points|JJ NN NNS|BODY_5|0
+exactly existential quantification|RB JJ NN|BODY_9|0
+our use|PRP$ NN|BODY_1|0
+the constant function true|DT JJ NN JJ|BODY_12|0
+8]|NN|BODY_6|0
+unfortunately quantifier elimination|RB NN NN|BODY_1|0
+codish and demoen [4|NN CC NN NNS|BODY_1|0
+precise groundness analysis|JJ NN NN|BODY_1|0
+real-world  programs|NN NN NNS|BODY_6|0
+fl x|JJ NN|BODY_1|0
+a groundness dependency|DT NN NN|BODY_1|0
+a logical consequence|DT JJ NN|BODY_6|0
+aliasing information|VBG NN|BODY_1|0
+the transformation|DT NN|BODY_1|0
+the reasonable assumption|DT JJ NN|BODY_1|0
+some analysis problems|DT NN NNS|BODY_7|0
+by|IN|BODY_5|0
+codish and demoen [4]|NN CC NN NN|BODY_3|0
+the three domains|DT CD NNS|BODY_5|0
+a slight abuse|DT JJ NN|BODY_1|0
+the program p|DT NN NN|BODY_1|0
+the remainder|DT NN|BODY_1|0
+the unique induced approximation|DT JJ JJ NN|BODY_1|0
+( constraint ) logic programs|-LRB- NN -RRB- NN NNS|BODY_4|0
+the boolean function app|DT JJ NN NN|BODY_11|0
+4.1 pos|CD NNS|BODY_2|0
+only the positive boolean functions|RB DT JJ NN NNS|BODY_2|0
+runtime|NN|BODY_5|0
+) property r|-RRB- NN NN|BODY_12|0
+the domain \phi|DT NN NNS|BODY_6|0
+instance|NN|BODY_1|0
+the question|DT NN|BODY_1|0
+syntactic objects|JJ NNS|BODY_1|0
+a less precise approximation|DT RBR JJ NN|BODY_3|0
+program size|NN NN|BODY_7|0
+the parent relation|DT NN NN|BODY_6|0
+proposition 3.1 [17] fl pos|NN CD NN NN NNS|BODY_1|0
+one point|CD NN|BODY_1|0
+the main purpose|DT JJ NN|BODY_1|0
+the prolog setting|DT NN NN|BODY_1|0
+this blow-up|DT NN|BODY_1|0
+the positive boolean functions|DT JJ JJ NNS|BODY_1|0
+a second example|DT JJ NN|BODY_1|0
+these results|DT NNS|BODY_1|0
+simple substitution suffices|JJ NN NNS|BODY_3|0
+the equations|DT NNS|BODY_1|0
+groundness or groundness dependencies|NN CC NN NNS|BODY_4|0
+that module|DT NN|BODY_5|0
+interest )|NN -RRB-|BODY_9|0
+approximate groundness information|JJ NN NN|BODY_4|0
+the propositional variable x|DT JJ JJ SYM|BODY_4|0
+definite propositional formulas|JJ JJ NNS|BODY_8|0
+no accuracy|DT NN|BODY_4|0
+separate query-directed analysis|JJ JJ NN|BODY_4|0
+the statements|DT NNS|BODY_1|0
+this paper|DT NN|BODY_6|0
+3 groundness analysis|CD NN NN|BODY_1|0
+a natural representation|DT JJ NN|BODY_1|0
+the distinction|DT NN|BODY_5|0
+the purpose|DT NN|BODY_4|0
+example 6.1|NN CD|BODY_1|0
+example 6.2|NN CD|BODY_1|0
+a groundness analysis|DT NN NN|BODY_9|0
+the standard domain y|DT JJ NN NN|BODY_1|0
+a substitution '|DT NN ''|BODY_1|0
+precise and efficient groundness analysis|JJ CC JJ NN NN|TITLE_1|0
+syntactic object|NN NN|BODY_8|0
+this constraint|DT NN|BODY_1|0
+calls and answers|NNS CC NNS|BODY_4|0
+many different queries|JJ JJ NNS|BODY_5|0
+runtime call patterns|NN NN NNS|BODY_8|0
+very precise groundness analyses|RB JJ NN NNS|BODY_3|0
+6 incremental groundness analysis groundness analysis|CD JJ NN NN NN NN|BODY_1|0
+[ :x ]|RB JJ SYM|BODY_4|0
+a further advantage|DT JJ NN|BODY_1|0
+an even more precise groundness analysis|DT RB RBR JJ NN NN|BODY_1|0
+star abstraction|NN NN|BODY_3|0
+the other description domains|DT JJ NN NNS|BODY_5|0
+any groundness|DT NN|BODY_4|0
+a particular query description|DT JJ NN NN|BODY_5|0
+conjunction and disjunction|NN CC NN|BODY_3|0
+$ y|$ NN|BODY_3|0
+1|CD|BODY_1|0
+less information contents|JJR NN NNS|BODY_10|0
+logical consequence ( j= )|JJ NN -LRB- NN -RRB-|BODY_6|0
+not very precise|RB RB JJ|BODY_1|0
+practice|NN|BODY_1|0
+query-independent|NN|BODY_3|0
+very precise groundness analysis|RB JJ NN NN|BODY_1|0
+the first and second arguments ground|DT JJ CC JJ NNS NN|BODY_20|0
+a. langen ) call condensation|NN NN -RRB- NN NN|ABSTRACT_5|0
+answer information|NN NN|BODY_2|0
+any groundness analysis|DT NN NN|BODY_9|0
+as  condensation  ( section 4 )|IN NN NN NN -LRB- NN CD -RRB-|BODY_9|0
+example 5.3|NN CD|BODY_1|0
+example 5.4|NN CD|BODY_1|0
+our notion|PRP$ NN|BODY_1|0
+section 4|NN CD|BODY_7|0
+simplicity|NN|BODY_1|0
+that con|DT NN|BODY_2|0
+the induced analysis f|DT JJ NN NN|BODY_3|0
+a particular program point|DT JJ NN NN|BODY_9|0
+course|NN|BODY_8|0
+implication|NN|BODY_4|0
+this we|DT PRP|BODY_1|0
+very precise dataflow information|RB JJ NN NN|BODY_6|0
+example 3.3|NN CD|BODY_1|0
+the original program|DT JJ NN|BODY_8|0
+let sub|VB NN|BODY_1|0
+/ y|JJ NN|BODY_7|0
+4.1 below|CD IN|BODY_2|0
+a domain|DT NN|BODY_2|0
+before|RB|BODY_1|0
+a correct approximation|DT JJ NN|BODY_10|0
+a program point|DT NN NN|BODY_1|0
+the boolean function [y|DT JJ NN NN|BODY_5|0
+all possible queries|DT JJ NNS|BODY_3|0
+imperative or functional programming languages|JJ CC JJ NN NNS|BODY_4|0
+second|JJ|BODY_1|0
+[y|NN|BODY_8|0
+parent|NN|BODY_2|0
+the program [16]|DT NN NN|BODY_12|0
+mutually recursive modules|RB JJ NNS|BODY_4|0
+these (|DT -LRB-|BODY_11|0
+bool|NN|BODY_1|0
+definition|NN|BODY_1|0
+f con f|NN NN NN|BODY_1|0
+so higher |RB JJR|BODY_1|0

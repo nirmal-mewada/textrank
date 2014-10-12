@@ -1,0 +1,20 @@
+an incoherent correlator|DT JJ NN|BODY_1:BODY_2|0
+significantly fewer minterms|RB JJR NNS|BODY_2|0
+simplifies system complexity|RB NN NN|BODY_3|0
+an optoelectronic shared content-addressable memory processor|DT JJ VBN JJ NN NN|BODY_2|0
+signed-digit ( msd ) adder|JJ -LRB- NN -RRB- NN|BODY_5|0
+minterms|NNS|BODY_3|0
+the intermediate carry and sum digits|DT JJ VBP CC NN NNS|BODY_4|0
+only one set|RB CD NN|BODY_2|0
+reference digits|NN NNS|BODY_3|0
+an efficient one-step digit-set-restricted|DT JJ JJ JJ|BODY_4|0
+a shared content-addressable memory|DT VBN JJ NN|BODY_3|0
+propagation|NN|BODY_2|0
+this technique|DT NN|BODY_1|0
+the proposed technique|DT VBN NN|BODY_1|0
+the reported one-step msd addition techniques|DT VBN NN NN NN NNS|BODY_4|0
+the operand length|DT NN NN|BODY_4|0
+{1,0} and {0,1}|NNP CC NNP|BODY_5|0
+symbolic substitution|JJ NN|BODY_6|0
+the addition operation|DT NN NN|BODY_3|0
+one-step digit-set-restricted modified signed-digit adder|JJ JJ VBN JJ NN|BODY_1|0
