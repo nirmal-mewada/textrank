@@ -38,12 +38,16 @@ public class TextRankMain {
 
 	public static boolean stemStandard = true;
 
+	public static int MAX_FILE_TO_PROCESS = 10;
+
+	private static final String PARENT_PRIJECT_DIR = "D:/WorkSpace_/nirmal_workspace/KeyPhrase/";
+
 	static StopWordFilter stopWordFilter = new StopWordFilter(
-			"D:/WorkSpace_/nirmal_workspace/KeyPhrase/"+NyConstant.STOP_LIST_FILE);
+			PARENT_PRIJECT_DIR+NyConstant.STOP_LIST_FILE);
 
 	public enum DATA_SET {
-		HULTH("",""),
-		KRAPIVIN("input","weighted-krapiwin"),
+		HULTH("input_hulth","weighted-hulth"),
+		KRAPIVIN("input_krapivin","weighted-krapiwin"),
 		SEMVAL("input_semval","weighted-semval");
 
 		private DATA_SET(String in, String out) {
@@ -54,11 +58,11 @@ public class TextRankMain {
 		String out;
 	}
 
-	public static DATA_SET dataSet = DATA_SET.SEMVAL;
+	public static DATA_SET dataSet = DATA_SET.KRAPIVIN;
 	public static void main(String[] args) {
 		try {
 			//			testRank();
-			Model.MODELS_DIR = "D:\\WorkSpace_\\nirmal_workspace\\KeyPhrase\\res\\nplmodels";
+			Model.MODELS_DIR = PARENT_PRIJECT_DIR+"res/nplmodels";
 
 
 			FileIOHandler ioHandler = new FileIOHandler("basedir",dataSet.in,dataSet.out);
@@ -79,7 +83,7 @@ public class TextRankMain {
 			List<Measure> lstWordMeasure = new ArrayList<Measure>();
 			List<Measure> lstPhraseMeasure = new ArrayList<Measure>();
 
-			for (MappedFile mappedFile : ioHandler.listFiles()) {
+			for (MappedFile mappedFile : ioHandler.listFiles(MAX_FILE_TO_PROCESS)) {
 				IOUtils.write(" ----------------------------------------------------- \n"+
 						count+". File: "+mappedFile.getIn().getName()+"\n", log);
 
